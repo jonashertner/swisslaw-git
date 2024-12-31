@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb (UWG)
 short: UWG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20230901-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/de"
 
 (UWG)
 
-vom 19. Dezember 1986 (Stand am 1. September 2023)
+vom 19. Dezember 1986 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ nach Einsicht in eine Botschaft des Bundesrates vom 18. Mai 1983[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^ingress-3]: [BBl 1983 II 1009](https://fedlex.data.admin.ch/eli/fga/1983/2_1009_1037_985)
 
@@ -92,9 +92,10 @@ Unlauter handelt insbesondere, wer:
 - t.[^3-11] im Rahmen eines Wettbewerbs oder einer Verlosung einen Gewinn verspricht, dessen Einlösung an die Inanspruchnahme einer kostenpflichtigen Mehrwertdienstnummer, die Leistung einer Aufwandsentschädigung, den Kauf einer Ware oder Dienstleistung oder an die Teilnahme an einer Verkaufsveranstaltung, Werbefahrt oder einer weiteren Verlosung gebunden ist;
 - u.[^3-12] den Vermerk im Telefonverzeichnis nicht beachtet, dass ein Kunde keine Werbemitteilungen von Personen erhalten möchte, mit denen er in keiner Geschäftsbeziehung steht, und dass seine Daten zu Zwecken der Direktwerbung nicht weitergegeben werden dürfen; Kunden ohne Verzeichniseintrag sind den Kunden mit Verzeichniseintrag und Vermerk gleichgestellt;
 - v.[^3-13] Werbeanrufe tätigt, ohne dass eine Rufnummer angezeigt wird, die im Telefonverzeichnis eingetragen ist und zu deren Nutzung er berechtigt ist;
-- w.[^3-14] sich auf Informationen stützt, von denen sie oder er aufgrund eines Verstosses gegen die Buchstaben u oder v Kenntnis erhalten hat.
+- w.[^3-14] sich auf Informationen stützt, von denen sie oder er aufgrund eines Verstosses gegen die Buchstaben u oder v Kenntnis erhalten hat;
+- x.[^3-15] Angaben über sich, seine Waren, Werke oder Leistungen in Bezug auf die verursachte Klimabelastung macht, die nicht durch objektive und überprüfbare Grundlagen belegt werden können.
 
-<sup>2</sup> Absatz 1 Buchstabe s findet keine Anwendung auf die Sprachtelefonie und auf Verträge, die ausschliesslich durch den Austausch von elektronischer Post oder durch vergleichbare individuelle Kommunikation geschlossen werden.[^3-15]
+<sup>2</sup> Absatz 1 Buchstabe s findet keine Anwendung auf die Sprachtelefonie und auf Verträge, die ausschliesslich durch den Austausch von elektronischer Post oder durch vergleichbare individuelle Kommunikation geschlossen werden.[^3-16]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Nov. 1995 ([AS 1995 4086](https://fedlex.data.admin.ch/eli/oc/1995/4086_4086_4086); [BBl 1994 III 442](https://fedlex.data.admin.ch/eli/fga/1994/3_442_449_403)).
 [^3-2]: Fassung gemäss Anhang 2 Ziff. II 2 des BG vom 23. März 2001 über den Konsumkredit, in Kraft seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
@@ -110,7 +111,8 @@ Unlauter handelt insbesondere, wer:
 [^3-12]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)). Fassung gemäss Anhang Ziff. 2 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-13]: Eingefügt durch Anhang Ziff. 2 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-14]: Eingefügt durch Anhang Ziff. 2 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-15]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
+[^3-15]: Eingefügt durch Anhang Ziff. 1 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^3-16]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
 #### Art. 3a
 
@@ -219,7 +221,7 @@ Wer durch unlauteren Wettbewerb in seiner Kundschaft, seinem Kredit oder berufli
 <sup>3</sup> Er kann ausserdem nach Massgabe des Obligationenrechts[^9-2] auf Schadenersatz und Genugtuung sowie auf Herausgabe eines Gewinnes entsprechend den Bestimmungen über die Geschäftsführung ohne Auftrag klagen.
 
 [^9-1]: Fassung gemäss Anhang 1 Ziff. II 15 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^9-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -250,7 +252,7 @@ Nach Artikel 9 Absätze 1 und 2 kann auch der Bund klagen, wenn er es zum Schutz
 [^10-2]: Eingefügt durch Ziff. I des BG vom 20. März 1992 ([AS 1992 1514](https://fedlex.data.admin.ch/eli/oc/1992/1514_1514_1514); BBl **1992** I 355). Aufgehoben durch Ziff. I des BG vom 17. Juni 2011, mit Wirkung seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^10-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^10-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
-[^10-5]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^10-5]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^10-6]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
 #### Art. 11
@@ -345,8 +347,8 @@ Der Auskunftspflicht unterstehen:
 
 <sup>4</sup> Die Bestimmungen der Strafprozessordnung vom 5. Oktober 2007[^19-2] sowie die Bestimmungen der Kantone über das Verwaltungsverfahren bleiben vorbehalten.[^19-3]
 
-[^19-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^19-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^19-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^19-3]: Fassung gemäss Anhang 1 Ziff. II 7 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 20
@@ -393,7 +395,7 @@ Die für den Vollzug dieses Gesetzes zuständigen Bundesbehörden können im Rah
 
 <sup>3</sup> Handelt es sich beim Datenempfänger um eine internationale Organisation oder ein internationales Gremium, so können sie die Daten auch ohne Gegenrecht bekannt geben.
 
-[^22-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^22-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^22-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 23 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 4. Kapitel: Strafbestimmungen
@@ -444,7 +446,7 @@ Wer vorsätzlich:
 
 Für Widerhandlungen in Geschäftsbetrieben, durch Beauftragte und dergleichen sind die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^26-1] anwendbar.
 
-[^26-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^26-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26a
 

@@ -4,11 +4,11 @@ title: "Federal Act of 19 December 1986 on Unfair Competition (Unfair Competitio
 short: UCA
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: en
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20250101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Unfair Competition Act, UCA)
 
-of 19 December 1986 (Status as of 1 September 2023)
+of 19 December 1986 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -29,7 +29,7 @@ and having considered the Federal Council Dispatch dated 18 May 1983[^ingress-3]
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No I of the FA of 17 June 2011, in force since 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^ingress-3]: [BBl 1983 II 1009](https://fedlex.data.admin.ch/eli/fga/1983/2_1009_1037_985)
 
@@ -94,9 +94,10 @@ A person acts unfairly if they:
 - t.[^3-11] promise a prize as part of a competition or a prize draw the redemption of which is conditional on the use of a chargeable value-added service number, the payment of compensation for expenses, the purchase of a good or service or participation in a sales event, promotional trip or a further prize draw
 - u.[^3-12] fail to observe a note in the telephone directory that a customer does not wish to receive advertising from persons with whom they have no business relationship and that their data may not be passed on for the purposes of direct advertising; customers without a directory entry shall be treated in the same way as customers with a directory entry and note;
 - v.[^3-13] make advertising calls without displaying a telephone number which is entered in the telephone directory and which they are entitled to use;
-- w.[^3-14] make use of information that has come to their knowledge as a result of an infringement of letter u or v.
+- w.[^3-14] make use of information that has come to their knowledge as a result of an infringement of letter u or v;
+- x.[^3-15] make claims about themselves, their goods, works or services relating to the climate impact that they cause that cannot be substantiated on the basis of objective and verifiable criteria.
 
-<sup>2</sup> Paragraph 1 letter s does not apply to voice telephony and to contracts concluded exclusively by the exchange of electronic mail or by comparable individual communication.[^3-15]
+<sup>2</sup> Paragraph 1 letter s does not apply to voice telephony and to contracts concluded exclusively by the exchange of electronic mail or by comparable individual communication.[^3-16]
 
 [^3-1]: Amended by No I of the FA of 24 March 1995, in force since 1 Nov. 1995 ([AS 1995 4086](https://fedlex.data.admin.ch/eli/oc/1995/4086_4086_4086); [BBl 1994 III 442](https://fedlex.data.admin.ch/eli/fga/1994/3_442_449_403)).
 [^3-2]: Amended by Annex 2 No II 2 of the FA of 23 March 2001 on Consumer Credit, in force since 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
@@ -112,7 +113,8 @@ A person acts unfairly if they:
 [^3-12]: Inserted by No I of the FA of 17 June 2011 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)). Amended by Annex No 2 of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-13]: Inserted by Annex No 2 of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-14]: Inserted by Annex No 2 of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-15]: Inserted by No I of the FA of 17 June 2011, in force since 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
+[^3-15]: Inserted by Annex No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^3-16]: Inserted by No I of the FA of 17 June 2011, in force since 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
 #### Art. 3a
 
@@ -221,7 +223,7 @@ Any person who is threatened with or sustains damage to their customer base, the
 <sup>3</sup> They may also bring an action pursuant to the Code of Obligations[^9-2] for damages and satisfaction and for delivery of profits in accordance with the provisions on agency without authority.
 
 [^9-1]: Amended by Annex 1 No II 15 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^9-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -252,7 +254,7 @@ The Confederation may also bring actions under Article 9 paragraphs 1 and 2 if i
 [^10-2]: Inserted by No I of the FA of 20 March 1992 ([AS 1992 1514](https://fedlex.data.admin.ch/eli/oc/1992/1514_1514_1514); BBl **1992** I 355). Repealed by No I of the FA of 17 June 2011, with effect from 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^10-3]: Inserted by No I of the FA of 17 June 2011, in force since 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^10-4]: Inserted by No I of the FA of 17 June 2011, in force since 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
-[^10-5]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^10-5]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^10-6]: Inserted by No I of the FA of 17 June 2011, in force since 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
 #### Art. 11
@@ -347,8 +349,8 @@ The obligation to provide information applies to:
 
 <sup>4</sup> The provisions of the Criminal Procedure Code of 5 October 2007[^19-2] and the cantonal provisions on administrative procedure are reserved.[^19-3]
 
-[^19-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^19-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^19-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^19-3]: Amended by Annex 1 No II 7 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 20
@@ -395,7 +397,7 @@ The federal authorities responsible for implementing this Act may in the context
 
 <sup>3</sup> If the data recipient is an international organisation or an international body, they may disclose the data without being granted reciprocal rights.
 
-[^22-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^22-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^22-2]: Second sentence amended by Annex 1 No II 23 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Chapter 4 Criminal Provisions
@@ -446,7 +448,7 @@ Any person who wilfully:
 
 Offences in businesses, by agents and suchlike are governed by Articles 6 and 7 of the Federal Act on Administrative Criminal Law of 22 March 1974[^26-1].
 
-[^26-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^26-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26a
 

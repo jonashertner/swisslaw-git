@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)
 short: LCD
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: fr
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20230901-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20250101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/fr"
 
 (LCD)
 
-du 19 décembre 1986 (État le 1<sup>er</sup> septembre 2023)
+du 19 décembre 1986 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu le message du Conseil fédéral du 18 mai 1983[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^ingress-3]: [FF 1983 II 1037](https://fedlex.data.admin.ch/eli/fga/1983/2_1009_1037_985)
 
@@ -92,9 +92,10 @@ Agit de façon déloyale celui qui, notamment:
 - t.[^3-11] dans le cadre d’un concours ou d’un tirage au sort, promet un gain dont la validation est liée au recours à un numéro payant de service à valeur ajoutée, au versement d’une indemnité pour frais, à l’achat d’une marchandise ou d’un service, à la participation à une manifestation commerciale ou à un voyage publicitaire ou à la participation à un autre tirage au sort;
 - u.[^3-12] ne respecte pas la mention contenue dans l’annuaire indiquant qu’un client ne souhaite pas recevoir de messages publicitaires de personnes avec lesquelles il n’entretient aucune relation commerciale, et que les données le concernant ne peuvent pas être communiquées à des fins de prospection publicitaire directe; les clients qui ne sont pas inscrits dans l’annuaire doivent être traités de la même manière que ceux qui y figurent avec la mention;
 - v.[^3-13] procède à des appels publicitaires sans que soit affiché un numéro d’appel inscrit dans l’annuaire et pour lequel il possède un droit d’utilisation;
-- w.[^3-14] se fonde sur des informations obtenues par suite d’une infraction relevant des let. u ou v.
+- w.[^3-14] se fonde sur des informations obtenues par suite d’une infraction relevant des let. u ou v;
+- x.[^3-15] donne des indications sur lui-même, ses marchandises, ses œuvres ou ses prestations concernant l’impact climatique qui ne peuvent pas être prouvées sur des bases objectives et vérifiables.
 
-<sup>2</sup> L’al. 1, let. s, ne s’applique pas à la téléphonie vocale et aux contrats conclus uniquement par l’échange de courriers électroniques ou de moyens de communication analogues.[^3-15]
+<sup>2</sup> L’al. 1, let. s, ne s’applique pas à la téléphonie vocale et aux contrats conclus uniquement par l’échange de courriers électroniques ou de moyens de communication analogues.[^3-16]
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> nov. 1995 ([RO 1995 4086](https://fedlex.data.admin.ch/eli/oc/1995/4086_4086_4086); [FF 1994 III 449](https://fedlex.data.admin.ch/eli/fga/1994/3_442_449_403)).
 [^3-2]: Nouvelle teneur selon l’annexe 2 ch. II 2 de la LF du 23 mars 2001 sur le crédit à la consommation, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2879](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
@@ -110,7 +111,8 @@ Agit de façon déloyale celui qui, notamment:
 [^3-12]: Introduite par le ch. I de la LF du 17 juin 2011 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)). Nouvelle teneur selon l’annexe ch. 2 de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-13]: Introduite par l’annexe ch. 2 de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-14]: Introduite par l’annexe ch. 2 de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-15]: Introduit par le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
+[^3-15]: Introduite par l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^3-16]: Introduit par le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
 #### Art. 3a
 
@@ -219,7 +221,7 @@ Celui qui, par un acte de concurrence déloyale, subit une atteinte dans sa clie
 <sup>3</sup> Il peut en outre, conformément au code des obligations[^9-2], intenter des actions en dommages-intérêts et en réparation du tort moral, ainsi qu’exiger la remise du gain selon les dispositions sur la gestion d’affaires.
 
 [^9-1]: Nouvelle teneur selon l’annexe 1 ch. II 15 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^9-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -250,7 +252,7 @@ Les actions prévues à l’art. 9, al. 1 et 2, peuvent également être intent�
 [^10-2]: Introduite par le ch. I de la LF du 20 mars 1992 ([RO 1992 1514](https://fedlex.data.admin.ch/eli/oc/1992/1514_1514_1514); FF **1992** I 339). Abrogée par le ch. I de la LF du 17 juin 2011, avec effet au 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^10-3]: Introduit par le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^10-4]: Introduit par le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
-[^10-5]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^10-5]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^10-6]: Introduit par le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
 #### Art. 11
@@ -346,8 +348,8 @@ Sont soumises à l’obligation de renseigner:
 
 <sup>4</sup> Les dispositions du code de procédure pénale du 5 octobre 2007[^19-2] ainsi que les dispositions cantonales sur la procédure administrative sont réservées.[^19-3]
 
-[^19-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^19-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^19-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^19-3]: Nouvelle teneur selon l’annexe 1 ch. II 7 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 20
@@ -397,7 +399,7 @@ Les autorités fédérales compétentes pour l’exécution de la présente loi 
 <sup>3</sup> Lorsque le destinataire des données est une organisation ou un organisme international, les données peuvent lui être communiquées même s’il n’accorde pas la réciprocité.
 
 [^22-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
-[^22-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^22-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^22-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 23 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Chapitre 4 Dispositions pénales
@@ -448,15 +450,15 @@ Quiconque, intentionnellement:
 
 Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^26-1] s’appliquent aux infractions commises dans une entreprise, par un mandataire, etc.
 
-[^26-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^26-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26a
 
 **Révocation et blocage de noms de domaine et de numéros de téléphone**[^26a-1]
 
-<sup>1</sup> Si un nom de domaine ou un numéro de téléphone a été utilisé pour commettre un acte punissable en vertu de l’art. 23 en relation avec l’art. 3 ou en vertu de l’art. 24 et
+<sup>1</sup>
 
-que cela est nécessaire pour empêcher de nouvelles infractions, le ministère public ou le tribunal peut, même si aucune personne déterminée n’est punissable, ordonner:
+Si un nom de domaine ou un numéro de téléphone a été utilisé pour commettre un acte punissable en vertu de l’art. 23 en relation avec l’art. 3 ou en vertu de l’art. 24 et que cela est nécessaire pour empêcher de nouvelles infractions, le ministère public ou le tribunal peut, même si aucune personne déterminée n’est punissable, ordonner:
 
 - a. la révocation du nom de domaine de deuxième niveau subordonné à un domaine Internet dont la gestion relève de la compétence de la Suisse;
 - b. la révocation ou le blocage du numéro de téléphone de services sur réseau fixe ou de services mobiles de télécommunication.
@@ -484,7 +486,7 @@ que cela est nécessaire pour empêcher de nouvelles infractions, le ministère 
 
 La loi fédérale du 30 septembre 1943 sur la concurrence déloyale[^28-1] est abrogée.
 
-[^28-1]: [RS **2** 945; [RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085)art. 2, [1970 308](https://fedlex.data.admin.ch/eli/oc/1970/_308_308), [1978 2057](https://fedlex.data.admin.ch/eli/oc/1978/2057_2057_2057)]
+[^28-1]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)945; [RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085)art. 2, [1970 308](https://fedlex.data.admin.ch/eli/oc/1970/_308_308), [1978 2057](https://fedlex.data.admin.ch/eli/oc/1978/2057_2057_2057)]
 
 #### Art. 29
 

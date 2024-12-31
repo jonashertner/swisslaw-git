@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1986 contro la concorrenza sleale (LCSl)
 short: LCSl
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20230901-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/it"
 
 (LCSl)
 
-del 19 dicembre 1986 (Stato 1° settembre 2023)
+del 19 dicembre 1986 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 95 capoverso 1, 96, 97 capoversi 1 e 2 e 122 capoverso 1 dell
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^ingress-3]: [FF 1983 II 985](https://fedlex.data.admin.ch/eli/fga/1983/2_1009_1037_985)
 
@@ -90,9 +90,10 @@ Agisce in modo sleale, segnatamente, chiunque:
 - t.[^3-11] nell’ambito di un concorso o di un’estrazione a sorte promette una vincita la cui riscossione è legata alla composizione di un numero a pagamento di un servizio a valore aggiunto, al versamento di un’indennità per spese, all’acquisto di una merce o di un servizio, oppure alla partecipazione a una manifestazione, a un viaggio promozionale o a un’altra estrazione a sorte;
 - u.[^3-12] non rispetta l’annotazione contenuta nell’elenco telefonico con cui il cliente indica che non desidera ricevere messaggi pubblicitari da parte di persone con le quali non intrattiene una relazione commerciale e che i dati che lo concernono non possono essere comunicati ai fini della pubblicità diretta; i clienti non iscritti nell’elenco telefonico sono equiparati a quelli che vi figurano con l’annotazione;
 - v.[^3-13] effettua chiamate pubblicitarie senza che venga visualizzato un numero chiamante iscritto nell’elenco telefonico e al cui utilizzo sia abilitato;
-- w.[^3-14] si basa su informazioni ottenute in seguito alla violazione delle lettere u o v.
+- w.[^3-14] si basa su informazioni ottenute in seguito alla violazione delle lettere u o v;
+- x.[^3-15] fornisce indicazioni su sé stesso, le sue merci, le sue opere o le sue prestazioni riguardanti l’impatto climatico che non possono essere comprovate da basi oggettive e verificabili.
 
-<sup>2</sup> Il capoverso 1 lettera s non si applica alla telefonia vocale e ai contratti che si concludono esclusivamente mediante lo scambio di messaggi elettronici o mediante mezzi di comunicazione individuale analoghi.[^3-15]
+<sup>2</sup> Il capoverso 1 lettera s non si applica alla telefonia vocale e ai contratti che si concludono esclusivamente mediante lo scambio di messaggi elettronici o mediante mezzi di comunicazione individuale analoghi.[^3-16]
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° nov. 1995 ([RU 1995 4086](https://fedlex.data.admin.ch/eli/oc/1995/4086_4086_4086); [FF 1994 III 403](https://fedlex.data.admin.ch/eli/fga/1994/3_442_449_403)).
 [^3-2]: Nuovo testo giusta l’all. 2 n. II 2 della LF del 23 mar. 2001 sul credito al consumo, in vigore dal 1° gen. 2003 ([RU 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** III2697).
@@ -108,7 +109,8 @@ Agisce in modo sleale, segnatamente, chiunque:
 [^3-12]: Introdotta dal n. I della LF del 17 giu. 2011 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)). Nuovo testo giusta l’all. n. 2 LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-13]: Introdotta dall’all. n. 2 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-14]: Introdotta dall’all. n. 2 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-15]: Introdotta dal n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
+[^3-15]: Introdotta dall’all. n. 1 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 (RU **202****4** 376; FF **20****22** 2651).
+[^3-16]: Introdotta dal n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
 #### Art. 3a
 
@@ -217,7 +219,7 @@ Chi è leso o minacciato da concorrenza sleale nella clientela, nel credito, nel
 <sup>3</sup> Può inoltre, giusta il Codice delle obbligazioni[^9-2], proporre azioni di risarcimento del danno, di riparazione morale e di consegna dell’utile conformemente alle disposizioni sulla gestione d’affari senza mandato.
 
 [^9-1]: Nuovo testo giusta l’all. 1 n. II 15 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^9-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -249,7 +251,7 @@ Le azioni previste nell’articolo 9 capoversi 1 e 2 possono essere proposte anc
 [^10-3]: Introdotta dal n. I della LF del 20 mar. 1992 ([RU 1992 1514](https://fedlex.data.admin.ch/eli/oc/1992/1514_1514_1514); FF **1992** I 312). Abrogata dal n. I della LF del 17 giu. 2011, con effetto dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^10-4]: Introdotto dal n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^10-5]: Introdotto dal n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
-[^10-6]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^10-6]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^10-7]: Introdotto dal n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
 #### Art. 11
@@ -346,8 +348,8 @@ Sottostanno all’obbligo d’informare:
 <sup>4</sup> Rimangono salve le disposizioni del Codice di procedura penale del 5 ottobre 2007[^19-3] e le disposizioni cantonali di procedura amministrativa.[^19-4]
 
 [^19-1]: Nuovo testo giusta l’art. 26 della LF del 17 giu. 2011 sulla metrologia, in vigore dal 1° gen. 2013 ([RU 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [FF 2010 7073](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
-[^19-2]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^19-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-2]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^19-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^19-4]: Nuovo testo giusta l’all. 1 n. II 7 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 20
@@ -394,7 +396,7 @@ Nell’ambito della collaborazione prevista all’articolo 21, le autorità fede
 
 <sup>3</sup> Se il destinatario dei dati è un’organizzazione internazionale o un ente internazionale, i dati possono essere comunicati anche in assenza di reciprocità.
 
-[^22-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^22-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^22-2]: Nuovo testo del per. giusta l’all. 1 n. II 23 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Capitolo 4: Disposizioni penali
@@ -446,7 +448,7 @@ Chiunque, intenzionalmente:[^24-2]
 
 Alle infrazioni commesse nell’azienda da mandatari e simili si applicano gli articoli 6 e 7 della legge federale del 22 marzo 1974[^26-1] sul diritto penale amministrativo.
 
-[^26-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^26-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26a
 
