@@ -4,11 +4,11 @@ title: Cudesch penal svizzer dals 21 da december 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: rm
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240701-rm-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 21 da december 1937 (versiun dal 1. da fanadur 2024)
+dals 21 da december 1937 (versiun dal 1. da schaner 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -289,7 +289,7 @@ Tgi che commetta in malfatg chastiabel per salvar in agen bain giuridic u in bai
 
 <sup>4</sup> Sch’il delinquent ha pudì evitar l’irresponsabladad u la responsabladad penala reducida e prevair en quest connex il malfatg ch’el ha commess en quest stadi, na pon ils alineas 1–3 betg vegnir applitgads.
 
-[^19-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^19-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### Responsabladad penala dubiusa
 
@@ -1259,9 +1259,9 @@ L’execuziun da l’expulsiun obligatorica tenor l’artitgel 66*a* po vegnir s
 [^66d-2]: La rectificaziun dals 21 da zer. 2017, publitgada ils 11 da fan. 2017, concerna mo il text franzos ([AS 2017 3695](https://fedlex.data.admin.ch/eli/oc/2017/423)).
 [^66d-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
-### 2. Scumond dʼactivitad, scumond da contact e dʼareal.
+### 2. Scumond d’activitad, scumond da contact e d’areal.
 
-### a Scumond dʼactivitad, premissas
+### a Scumond d’activitad, premissas
 
 #### Art. 67
 
@@ -1269,7 +1269,7 @@ L’execuziun da l’expulsiun obligatorica tenor l’artitgel 66*a* po vegnir s
 
 <sup>1</sup> Sch’insatgi ha, pratitgond in’activitad professiunala u in’activitad extraprofessiunala organisada, commess in crim u in delict, per il qual el è vegnì sentenzià ad in chasti da detenziun da passa 6 mais, e sch’ins sto temair ch’el fetschia abus da sia activitad per commetter ulteriurs crims u delicts, al po la dretgira scumandar dal tuttafatg u per part l’activitad respectiva u activitads cumparegliablas per ina durada da 6 mais fin 5 onns.[^67-2]
 
-<sup>2</sup> Schʼinsatgi ha commess in crim u in delict cunter ina persuna minorenna u cunter inʼautra persuna cun in basegn da protecziun spezial e schʼins sto temair chʼel commettia ulteriurs malfatgs da quest gener, pratitgond inʼactivitad professiunala u inʼactivitad extraprofessiunala organisada che cumpiglia in contact regular cun persunas minorennas u cun autras persunas cun in basegn da protecziun spezial, al po la dretgira scumandar lʼactivitad respectiva per ina durada dad 1 fin 10 onns.
+<sup>2</sup> Sch’insatgi ha commess in crim u in delict cunter ina persuna minorenna u cunter in’autra persuna cun in basegn da protecziun spezial e sch’ins sto temair ch’el commettia ulteriurs malfatgs da quest gener, pratitgond in’activitad professiunala u in’activitad extraprofessiunala organisada che cumpiglia in contact regular cun persunas minorennas u cun autras persunas cun in basegn da protecziun spezial, al po la dretgira scumandar l’activitad respectiva per ina durada dad 1 fin 10 onns.
 
 <sup>2bis</sup> La dretgira po pronunziar il scumond tenor l’alinea 2 per vita duranta, sch’ins sto spetgar ch’ina durada da 10 onns na bastia betg per ch’il delinquent na saja betg pli privlus. Sin dumonda da l’autoritad d’execuziun po la dretgira prolungar in scumond da durada limitada tenor l’alinea 2 per mintgamai maximalmain 5 onns, sche quai è necessari per impedir ch’il delinquent commettia ulteriurs crims e delicts sco quels ch’èn stads il motiv per il scumond.[^67-3]
 
@@ -1318,7 +1318,7 @@ En cas spezialmain levs po la dretgira desister excepziunalmain d’ordinar in s
 
 <sup>7</sup> …[^67-12]
 
-[^67-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^67-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67-2]: Versiun tenor la cifra I 1 da la LF dals 19 da zer. 2015 (midadas dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^67-3]: Integrà tras la cifra I 1 da la LF dals 16 da mars 2018 (realisaziun da l’art. 123***c*** Cst.), en vigur dapi il 1. da schan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^67-4]: Versiun tenor la cifra I 1 da la LF dals 16 da zer. 2023 davart la revisiun dal dretg penal sexual, en vigur dapi il 1. da fan. 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
@@ -1337,13 +1337,13 @@ En cas spezialmain levs po la dretgira desister excepziunalmain d’ordinar in s
 
 [^67a-1]
 
-<sup>1</sup> Sco activitads professiunalas en il senn da lʼartitgel 67 valan activitads pratitgadas en il rom dʼina professiun u dʼin mastergn principal u accessoric ubain dʼin commerzi. Sco activitads extraprofessiunalas organisadas valan activitads che vegnan pratitgadas en il rom dʼina uniun u dʼina autra organisaziun e che na servan betg u betg en emprima lingia ad intents da gudogn.
+<sup>1</sup> Sco activitads professiunalas en il senn da l’artitgel 67 valan activitads pratitgadas en il rom d’ina professiun u d’in mastergn principal u accessoric ubain d’in commerzi. Sco activitads extraprofessiunalas organisadas valan activitads che vegnan pratitgadas en il rom d’ina uniun u d’ina autra organisaziun e che na servan betg u betg en emprima lingia ad intents da gudogn.
 
-<sup>2</sup> Il scumond dʼactivitad tenor lʼartitgel 67 cumpiglia las activitads chʼil delinquent pratitgescha en moda independenta, sco organ dʼina persuna giuridica u dʼina societad commerziala, sco mandatari u sco represchentant dʼina autra persuna u las activitads chʼel lascha pratitgar tras ina persuna chʼè suttamessa a sias instrucziuns.
+<sup>2</sup> Il scumond d’activitad tenor l’artitgel 67 cumpiglia las activitads ch’il delinquent pratitgescha en moda independenta, sco organ d’ina persuna giuridica u d’ina societad commerziala u en in’autra funcziun ch’è d’inscriver en il register da commerzi, sco mandatari u sco represchentant d’ina autra persuna u las activitads ch’el lascha pratitgar tras ina persuna ch’è suttamessa a sias instrucziuns.[^67a-2]
 
-<sup>3</sup> Schʼins sto temair chʼil delinquent fetschia abus da sia activitad per commetter malfatgs, er schʼel è suttamess a las instrucziuns ed a la controlla dʼin superiur u dʼina persuna da surveglianza, al sto lʼactivitad vegnir scumandada dal tuttafatg.
+<sup>3</sup> Sch’ins sto temair ch’il delinquent fetschia abus da sia activitad per commetter malfatgs, er sch’el è suttamess a las instrucziuns ed a la controlla d’in superiur u d’ina persuna da surveglianza, al sto l’activitad vegnir scumandada dal tuttafatg.
 
-<sup>4</sup> Ils scumonds tenor lʼartitgel 67 alineas 3 e 4 cumpiglian adina lʼentira activitad.
+<sup>4</sup> Ils scumonds tenor l’artitgel 67 alineas 3 e 4 cumpiglian adina l’entira activitad.
 
 <sup>5</sup>
 
@@ -1363,37 +1363,38 @@ Sco activitads cun in contact regular cun persunas minorennas u cun autras persu
   - 8\. transport,
   - 9\. vendita directa u emprest u intermediaziun directa d’objects ch’èn destinads specificamain als basegns da persunas minorennas u d’autras persunas che han in basegn da protecziun spezial, sche quai è l’activitad principala da la persuna respectiva;
 
-- b. autras activitads che vegnan pratitgadas oravant tut u repetidamain en instituziuns che porschan servetschs tenor la litera a; exceptadas èn activitads, tar las qualas igl è garantì areguard il lieu u areguard il temp ch’in contact cun persunas minorennas u cun autras persunas che han in basegn da protecziun spezial na po betg avair lieu.[^67a-2]
+- b. autras activitads che vegnan pratitgadas oravant tut u repetidamain en instituziuns che porschan servetschs tenor la litera a; exceptadas èn activitads, tar las qualas igl è garantì areguard il lieu u areguard il temp ch’in contact cun persunas minorennas u cun autras persunas che han in basegn da protecziun spezial na po betg avair lieu.[^67a-3]
 
-<sup>6</sup> Sco persunas che han in basegn da protecziun spezial valan persunas ch’èn pervia da lur vegliadetgna, pervia d’ina malsogna u pervia d’ina restricziun corporala, spiertala u psichica da lunga durada dependentas d’agid ester per liquidar lavurs quotidianas u per manar lur vita.[^67a-3]
+<sup>6</sup> Sco persunas che han in basegn da protecziun spezial valan persunas ch’èn pervia da lur vegliadetgna, pervia d’ina malsogna u pervia d’ina restricziun corporala, spiertala u psichica da lunga durada dependentas d’agid ester per liquidar lavurs quotidianas u per manar lur vita.[^67a-4]
 
-[^67a-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^67a-2]: Integrà tras la cifra I 1 da la LF dals 16 da mars 2018 (realisaziun da l’art. 123***c*** Cst.), en vigur dapi il 1. da schan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^67a-2]: Versiun tenor la cifra I 3 da la LF dals 18 da mars 2022 davart il cumbat cunter il concurs abusiv, en vigur dapi il 1. da schan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^67a-3]: Integrà tras la cifra I 1 da la LF dals 16 da mars 2018 (realisaziun da l’art. 123***c*** Cst.), en vigur dapi il 1. da schan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-4]: Integrà tras la cifra I 1 da la LF dals 16 da mars 2018 (realisaziun da l’art. 123***c*** Cst.), en vigur dapi il 1. da schan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
-### b. Scumond da contact e dʼareal
+### b. Scumond da contact e d’areal
 
 #### Art. 67b
 
 [^67b-1]
 
-<sup>1</sup> Schʼinsatgi ha commess in crim u in delict cunter ina u pliras tschertas persunas u cunter persunas dʼina tscherta gruppa e schʼins sto temair chʼel commettia ulteriurs crims u delicts en cas chʼel ha contact cun questas persunas, po la dretgira pronunziar in scumond da contact e dʼareal per ina durada da fin 5 onns.
+<sup>1</sup> Sch’insatgi ha commess in crim u in delict cunter ina u pliras tschertas persunas u cunter persunas d’ina tscherta gruppa e sch’ins sto temair ch’el commettia ulteriurs crims u delicts en cas ch’el ha contact cun questas persunas, po la dretgira pronunziar in scumond da contact e d’areal per ina durada da fin 5 onns.
 
 <sup>2</sup>
 
-Ensemen cun il scumond da contact e dʼareal po la dretgira scumandar al delinquent:
+Ensemen cun il scumond da contact e d’areal po la dretgira scumandar al delinquent:
 
-- a. dʼentrar en contact, directamain u sur terzas persunas, cun ina u cun pliras tschertas persunas u cun persunas dʼina tscherta gruppa, en spezial per telefon, en scrit u sin via electronica, dʼengaschar, da dar alloschi, da scolar, da survegliar, da tgirar questas persunas u da las contactar en autra moda;
-- b. da sʼavischinar ad ina tscherta persuna u da sa trategnair en in tschert conturn da sia abitaziun;
+- a. d’entrar en contact, directamain u sur terzas persunas, cun ina u cun pliras tschertas persunas u cun persunas d’ina tscherta gruppa, en spezial per telefon, en scrit u sin via electronica, d’engaschar, da dar alloschi, da scolar, da survegliar, da tgirar questas persunas u da las contactar en autra moda;
+- b. da s’avischinar ad ina tscherta persuna u da sa trategnair en in tschert conturn da sia abitaziun;
 - c. da sa trategnair en tscherts lieus, en spezial en tschertas vias, sin tschertas plazzas u en tscherts quartiers.
 
-<sup>3</sup> Per exequir il scumond po lʼautoritad cumpetenta applitgar apparats tecnics chʼèn fixads vi dal delinquent. Quests apparats pon servir en spezial a localisar il delinquent.
+<sup>3</sup> Per exequir il scumond po l’autoritad cumpetenta applitgar apparats tecnics ch’èn fixads vi dal delinquent. Quests apparats pon servir en spezial a localisar il delinquent.
 
-<sup>4</sup> La dretgira po ordinar inʼassistenza da reabilitaziun per la durada dal scumond.
+<sup>4</sup> La dretgira po ordinar in’assistenza da reabilitaziun per la durada dal scumond.
 
-<sup>5</sup> Sin dumonda da las autoritads dʼexecuziun po la dretgira prolungar il scumond per mintgamai maximalmain 5 onns, sche quai è necessari per impedir chʼil delinquent commettia ulteriurs crims e delicts cunter persunas minorennas u cunter autras persunas cun in basegn da protecziun spezial.
+<sup>5</sup> Sin dumonda da las autoritads d’execuziun po la dretgira prolungar il scumond per mintgamai maximalmain 5 onns, sche quai è necessari per impedir ch’il delinquent commettia ulteriurs crims e delicts cunter persunas minorennas u cunter autras persunas cun in basegn da protecziun spezial.
 
-[^67b-1]: Integrà tras la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^67b-1]: Integrà tras la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### c. Disposiziuns cuminaivlas.
 
@@ -1405,50 +1406,50 @@ Ensemen cun il scumond da contact e dʼareal po la dretgira scumandar al delinqu
 
 <sup>1</sup> Il scumond ha effect a partir dal di che la sentenzia entra en vigur.
 
-<sup>2</sup> La durada da lʼexecuziun dʼin chasti u dʼina mesira da detenziun (art. 59–61 e 64) na vegn betg messa a quint a la durada dal scumond.
+<sup>2</sup> La durada da l’execuziun d’in chasti u d’ina mesira da detenziun (art. 59–61 e 64) na vegn betg messa a quint a la durada dal scumond.
 
-<sup>3</sup> Schʼil delinquent nʼha betg terminà cun success il temp dʼemprova, uschia chʼi vegn exequì il chasti da detenziun cundiziunà u ordinada la represa da lʼexecuziun da chastis u da mesiras, vegn la durada dal scumond quintada pir a partir dal di chʼil delinquent vegn relaschà cundiziunadamain u definitivamain ubain che la sancziun vegn abolida u relaschada.
+<sup>3</sup> Sch’il delinquent n’ha betg terminà cun success il temp d’emprova, uschia ch’i vegn exequì il chasti da detenziun cundiziunà u ordinada la represa da l’execuziun da chastis u da mesiras, vegn la durada dal scumond quintada pir a partir dal di ch’il delinquent vegn relaschà cundiziunadamain u definitivamain ubain che la sancziun vegn abolida u relaschada.
 
-<sup>4</sup> Schʼil delinquent ha terminà cun success il temp dʼemprova, decida lʼautoritad cumpetenta, schʼil scumond tenor lʼartitgel 67 alinea 1 u tenor lʼartitgel 67*b* duai vegnir restrenschì areguard il cuntegn ed areguard la durada u schʼel duai vegnir abolì.
+<sup>4</sup> Sch’il delinquent ha terminà cun success il temp d’emprova, decida l’autoritad cumpetenta, sch’il scumond tenor l’artitgel 67 alinea 1 u tenor l’artitgel 67*b* duai vegnir restrenschì areguard il cuntegn ed areguard la durada u sch’el duai vegnir abolì.
 
 <sup>5</sup>
 
-Il delinquent po dumandar lʼautoritad cumpetenta, schʼella restrenschia il cuntegn u la durada dal scumond ubain schʼella aboleschia il scumond:
+Il delinquent po dumandar l’autoritad cumpetenta, sch’ella restrenschia il cuntegn u la durada dal scumond ubain sch’ella aboleschia il scumond:
 
-- a. en cas dʼin scumond tenor lʼartitgel 67 alinea 1 u tenor lʼartitgel 67*b*: suenter inʼexecuziun da 2 onns;
-- b. en cas dʼin scumond da durada limitada tenor lʼartitgel 67 alinea 2: suenter la mesadad da la durada dal scumond, il pli baud dentant suenter inʼexecuziun da 3 onns;
+- a. en cas d’in scumond tenor l’artitgel 67 alinea 1 u tenor l’artitgel 67*b*: suenter in’execuziun da 2 onns;
+- b. en cas d’in scumond da durada limitada tenor l’artitgel 67 alinea 2: suenter la mesadad da la durada dal scumond, il pli baud dentant suenter in’execuziun da 3 onns;
 - c.[^67c-2] …
 - d.[^67c-3] en cas d’in scumond per vita duranta tenor l’artitgel 67 alinea 2<sup>bis</sup>: suenter 10 onns da l’execuziun.
 
-<sup>6</sup> Schʼins na sto betg pli temair chʼil delinquent fetschia abus dʼina activitad per commetter ulteriurs crims u delicts u chʼel commettia ulteriurs crims u delicts en cas chʼel ha contact cun tschertas persunas u cun persunas dʼina tscherta gruppa e schʼel ha – uschenavant chʼins pudeva pretender dad el – remplazzà il donn chʼel aveva chaschunà, abolescha lʼautoritad cumpetenta il scumond en ils cas tenor lʼalinea 4 u 5.
+<sup>6</sup> Sch’ins na sto betg pli temair ch’il delinquent fetschia abus d’ina activitad per commetter ulteriurs crims u delicts u ch’el commettia ulteriurs crims u delicts en cas ch’el ha contact cun tschertas persunas u cun persunas d’ina tscherta gruppa e sch’el ha – uschenavant ch’ins pudeva pretender dad el – remplazzà il donn ch’el aveva chaschunà, abolescha l’autoritad cumpetenta il scumond en ils cas tenor l’alinea 4 u 5.
 
 <sup>6bis</sup> Ils scumonds tenor l’artitgel 67 alinea 3 u 4 na pon betg vegnir abolids.[^67c-4]
 
-<sup>7</sup> Schʼil sentenzià nʼobserva betg in scumond dʼactivitad u in scumond da contact e dʼareal u schʼel refusa lʼassistenza da reabilitaziun chʼè colliada cun in tal scumond u sche lʼassistenza da reabilitaziun na po betg pli vegnir realisada u nʼè betg pli necessaria, suttametta lʼautoritad cumpetenta in rapport a la dretgira u a las autoritads dʼexecuziun. La dretgira u lʼautoritad dʼexecuziun po abolir lʼassistenza da reabilitaziun u ordinar ina nova.
+<sup>7</sup> Sch’il sentenzià n’observa betg in scumond d’activitad u in scumond da contact e d’areal u sch’el refusa l’assistenza da reabilitaziun ch’è colliada cun in tal scumond u sche l’assistenza da reabilitaziun na po betg pli vegnir realisada u n’è betg pli necessaria, suttametta l’autoritad cumpetenta in rapport a la dretgira u a las autoritads d’execuziun. La dretgira u l’autoritad d’execuziun po abolir l’assistenza da reabilitaziun u ordinar ina nova.
 
 <sup>7bis</sup> L’autoritad d’execuziun po ordinar in’assistenza da reabilitaziun per l’entira durada dal scumond d’activitad u dal scumond da contact e d’areal.[^67c-5]
 
-<sup>8</sup> Schʼil sentenzià refusa lʼassistenza da reabilitaziun durant il temp dʼemprova, è applitgabel lʼartitgel 95 alineas 4 e 5.
+<sup>8</sup> Sch’il sentenzià refusa l’assistenza da reabilitaziun durant il temp d’emprova, è applitgabel l’artitgel 95 alineas 4 e 5.
 
-<sup>9</sup> Schʼil sentenzià nʼobserva betg in scumond dʼactivitad u in scumond da contact e dʼareal durant il temp dʼemprova, èn applitgabels lʼartitgel 294 e las disposiziuns davart la revocaziun dʼin chasti cundiziunà u da la part cundiziunada dʼin chasti sco er las disposiziuns davart la represa da lʼexecuziun da chastis e da mesiras.
+<sup>9</sup> Sch’il sentenzià n’observa betg in scumond d’activitad u in scumond da contact e d’areal durant il temp d’emprova, èn applitgabels l’artitgel 294 e las disposiziuns davart la revocaziun d’in chasti cundiziunà u da la part cundiziunada d’in chasti sco er las disposiziuns davart la represa da l’execuziun da chastis e da mesiras.
 
-[^67c-1]: Integrà tras la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^67c-1]: Integrà tras la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67c-2]: Abolì tras la cifra I 1 da la LF dals 16 da mars 2018 (realisaziun da l’art. 123***c*** Cst.), cun effect dapi il 1. da schan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^67c-3]: Versiun tenor la cifra I 1 da la LF dals 16 da mars 2018 (realisaziun da l’art. 123***c*** Cst.), en vigur dapi il 1. da schan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^67c-4]: Integrà tras la cifra I 1 da la LF dals 16 da mars 2018 (realisaziun da l’art. 123***c*** Cst.), en vigur dapi il 1. da schan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^67c-5]: Integrà tras la cifra I 1 da la LF dals 16 da mars 2018 (realisaziun da l’art. 123***c*** Cst.), en vigur dapi il 1. da schan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
-### Midada dʼin scumond u ordinaziun posteriura dʼin scumond
+### Midada d’in scumond u ordinaziun posteriura d’in scumond
 
 #### Art. 67d
 
 [^67d-1]
 
-<sup>1</sup> Schʼi sa mussa durant lʼexecuziun dʼin scumond dʼactivitad u dʼin scumond da contact e dʼareal chʼil delinquent ademplescha las premissas per extender il scumond u per pronunziar in ulteriur scumond da tal gener, po la dretgira extender posteriuramain il scumond u ordinar posteriuramain in scumond supplementar sin proposta da las autoritads dʼexecuziun.
+<sup>1</sup> Sch’i sa mussa durant l’execuziun d’in scumond d’activitad u d’in scumond da contact e d’areal ch’il delinquent ademplescha las premissas per extender il scumond u per pronunziar in ulteriur scumond da tal gener, po la dretgira extender posteriuramain il scumond u ordinar posteriuramain in scumond supplementar sin proposta da las autoritads d’execuziun.
 
-<sup>2</sup> Schʼi sa mussa durant lʼexecuziun dʼin chasti u dʼina mesira da detenziun chʼil delinquent ademplescha las premissas per in scumond tenor lʼartitgel 67 alinea 1 u 2 u tenor lʼartitgel 67*b*, po la dretgira ordinar posteriuramain quest scumond sin proposta da lʼautoritad dʼexecuziun.
+<sup>2</sup> Sch’i sa mussa durant l’execuziun d’in chasti u d’ina mesira da detenziun ch’il delinquent ademplescha las premissas per in scumond tenor l’artitgel 67 alinea 1 u 2 u tenor l’artitgel 67*b*, po la dretgira ordinar posteriuramain quest scumond sin proposta da l’autoritad d’execuziun.
 
-[^67d-1]: Integrà tras la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^67d-1]: Integrà tras la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### 3. Scumond da manischar
 
@@ -1456,7 +1457,7 @@ Il delinquent po dumandar lʼautoritad cumpetenta, schʼella restrenschia il cun
 
 [^67e-1]
 
-Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in delict e schʼins sto temair chʼel fetschia ulteriurs abus, po la dretgira ordinar – ultra dʼin chasti u dʼina mesira tenor ils artitgels 59–64 – la retratga dal permiss per emprender a manischar u dal permiss da manischar per ina durada dad 1 mais fin 5 onns.
+Sch’il delinquent ha utilisà in vehichel a motor per commetter in crim u in delict e sch’ins sto temair ch’el fetschia ulteriurs abus, po la dretgira ordinar – ultra d’in chasti u d’ina mesira tenor ils artitgels 59–64 – la retratga dal permiss per emprender a manischar u dal permiss da manischar per ina durada dad 1 mais fin 5 onns.
 
 [^67e-1]: Oriundamain: art. 67*b.*
 
@@ -1942,11 +1943,11 @@ Las victimas ed ils confamigliars da la victima en il senn da l’artitgel 1 ali
 
 #### Art. 95
 
-<sup>1</sup> Avant che decider davart lʼassistenza da reabilitaziun e davart las directivas pon la dretgira e lʼautoritad dʼexecuziun dumandar in rapport da lʼautoritad chʼè cumpetenta per lʼassistenza da reabilitaziun, per la controlla da las directivas u per lʼexecuziun dals scumonds dʼactivitad u dals scumonds da contact e dʼareal.[^95-1] Il pertutgà po prender posiziun davart quest rapport. Posiziuns divergentas ston vegnir menziunadas en il rapport.
+<sup>1</sup> Avant che decider davart l’assistenza da reabilitaziun e davart las directivas pon la dretgira e l’autoritad d’execuziun dumandar in rapport da l’autoritad ch’è cumpetenta per l’assistenza da reabilitaziun, per la controlla da las directivas u per l’execuziun dals scumonds d’activitad u dals scumonds da contact e d’areal.[^95-1] Il pertutgà po prender posiziun davart quest rapport. Posiziuns divergentas ston vegnir menziunadas en il rapport.
 
 <sup>2</sup> L’assistenza da reabilitaziun e las directivas ston vegnir ordinadas e motivadas en la sentenzia u en la decisiun.
 
-<sup>3</sup> Schʼil sentenzià refusa lʼassistenza da reabilitaziun u schʼel violescha las directivas ubain sche lʼassistenza da reabilitaziun u las directivas na pon betg pli vegnir realisadas u nʼèn betg pli necessarias, preschenta lʼautoritad cumpetenta in rapport a la dretgira u a las autoritads dʼexecuziun.
+<sup>3</sup> Sch’il sentenzià refusa l’assistenza da reabilitaziun u sch’el violescha las directivas ubain sche l’assistenza da reabilitaziun u las directivas na pon betg pli vegnir realisadas u n’èn betg pli necessarias, preschenta l’autoritad cumpetenta in rapport a la dretgira u a las autoritads d’execuziun.
 
 <sup>4</sup>
 
@@ -1958,7 +1959,7 @@ En ils cas tenor l’alinea 3 po la dretgira u l’autoritad d’execuziun:
 
 <sup>5</sup> En ils cas tenor l’alinea 3 po la dretgira revocar il chasti cundiziunà u ordinar la reintegraziun en l’execuziun da chastis u da mesiras, sch’igl è da temair seriusamain ch’il sentenzià commettia novs malfatgs.
 
-[^95-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^95-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### Assistenza sociala
 
@@ -2108,10 +2109,10 @@ Las disposiziuns da l’emprima part da questa lescha valan er per ils surpassam
 
 <sup>2</sup> L’emprova e la cumplicitad vegnan chastiadas mo en ils cas che vegnan fixads explicitamain da questa lescha.
 
-<sup>3</sup> Mesiras da detenziun (art. 59–61 e 64), in scumond dʼactivitad (art. 67), in scumond da contact e dʼareal (art. 67*b*) sco er ina publicaziun da la sentenzia (art. 68) èn admess mo en ils cas che vegnan fixads explicitamain da questa lescha.[^105-2]
+<sup>3</sup> Mesiras da detenziun (art. 59–61 e 64), in scumond d’activitad (art. 67), in scumond da contact e d’areal (art. 67*b*) sco er ina publicaziun da la sentenzia (art. 68) èn admess mo en ils cas che vegnan fixads explicitamain da questa lescha.[^105-2]
 
 [^105-1]: Versiun tenor la cifra I 1 da la LF dals 20 da mars 2015 (realisaziun da l’art. 121 al. 3–6 Cst. davart l’expulsiun da persunas estras criminalas), en vigur dapi il 1. d’oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^105-2]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^105-2]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### Multa
 
@@ -3293,11 +3294,12 @@ Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ub
 
 [^181a-1]
 
-<sup>1</sup> Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ubain cun restrenscher sia libertad d’agir en autra moda e maniera – da maridar u da laschar registrar in partenadi, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che sforza insatgi – cun violar u cun smanatschar dischavantatgs serius ubain cun restrenscher sia libertad d’agir en autra moda e maniera – da celebrar ina lètg civila u religiusa u da laschar registrar in partenadi, vegn chastià cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar.[^181a-2]
 
 <sup>2</sup> Chastiabel è er quel che commetta il malfatg a l’exteriur, sch’el sa chatta en Svizra e na vegn betg extradì. L’artitgel 7 alineas 4 e 5 è applitgabel.
 
 [^181a-1]: Integrà tras la cifra I 6 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^181a-2]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### Commerzi cun umans
 
@@ -5078,29 +5080,29 @@ Tgi che na suonda betg ina decisiun decretada d’ina autoritad cumpetenta u d�
 [^293-1]: Versiun tenor la cifra I da la LF dals 16 da zer. 2017 (publicaziun da tractativas uffizialas secretas), en vigur dapi il 1. da mars 2018 ([AS 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [BBl 2016 7329](https://fedlex.data.admin.ch/eli/fga/2016/1580)[7575](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
 [^293-2]: Integrà tras la cifra I da la LF dals 10 d’oct. 1997 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)). Versiun tenor la cifra I da la LF dals 16 da zer. 2017 (publicaziun da tractativas uffizialas secretas), en vigur dapi il 1. da mars 2018 ([AS 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [BBl 2016 7329](https://fedlex.data.admin.ch/eli/fga/2016/1580)[7575](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
 
-### Inobservanza dʼin scumond dʼactivitad u dʼin scumond da contact e dʼareal
+### Inobservanza d’in scumond d’activitad u d’in scumond da contact e d’areal
 
 #### Art. 294
 
 [^294-1]
 
-<sup>1</sup> Tgi che pratitgescha inʼactivitad, malgrà chʼigl è vegnì pronunzià cunter el in scumond dʼactivitad tenor lʼartitgel 67, tenor lʼartitgel 50 da la Lescha penala militara dals 13 da zercladur 1927[^294-2] (LPM) u tenor lʼartitgel 16*a* DPG[^294-3], vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
+<sup>1</sup> Tgi che pratitgescha in’activitad, malgrà ch’igl è vegnì pronunzià cunter el in scumond d’activitad tenor l’artitgel 67, tenor l’artitgel 50 da la Lescha penala militara dals 13 da zercladur 1927[^294-2] (LPM) u tenor l’artitgel 16*a* DPG[^294-3], vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
 
-<sup>2</sup> Tgi chʼentra en contact cun ina u cun pliras tschertas persunas u cun persunas dʼina tscherta gruppa, tgi che sʼavischina a talas persunas, tgi che sa trategna en tscherts lieus, malgrà chʼigl è vegnì pronunzià cunter el in scumond da contact e dʼareal tenor lʼartitgel 67*b*, tenor lʼartitgel 50*b* LPM u tenor lʼartitgel 16*a* DPG, vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
+<sup>2</sup> Tgi ch’entra en contact cun ina u cun pliras tschertas persunas u cun persunas d’ina tscherta gruppa, tgi che s’avischina a talas persunas, tgi che sa trategna en tscherts lieus, malgrà ch’igl è vegnì pronunzià cunter el in scumond da contact e d’areal tenor l’artitgel 67*b*, tenor l’artitgel 50*b* LPM u tenor l’artitgel 16*a* DPG, vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar.
 
-[^294-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^294-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^294-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^294-3]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
-### Inobservanza da lʼassistenza da reabilitaziun u da directivas
+### Inobservanza da l’assistenza da reabilitaziun u da directivas
 
 #### Art. 295
 
 [^295-1]
 
-Tgi che refusa lʼassistenza da reabilitaziun ordinada da la dretgira u da las autoritads dʼexecuziun u tgi che nʼobserva betg las directivas ordinadas da la dretgira u da las autoritads dʼexecuziun, vegn chastià cun multa.
+Tgi che refusa l’assistenza da reabilitaziun ordinada da la dretgira u da las autoritads d’execuziun u tgi che n’observa betg las directivas ordinadas da la dretgira u da las autoritads d’execuziun, vegn chastià cun multa.
 
-[^295-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond dʼactivitad e davart il scumond da contact e dʼareal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^295-1]: Versiun tenor la cifra I 1 da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### Sedeschavel titel: Disturbi da las relaziuns cun l’exteriur
 

@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240701/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240701-en-xml-18.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250101/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 July 2024)
+of 21 December 1937 (Status as of 1 January 2025)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -1339,7 +1339,7 @@ By way of exception, the court may choose not to impose a prohibition order unde
 
 <sup>1</sup> Professional activities within the meaning of Article 67 are activities in exercise of a principal or secondary profession or trade or of a commercial enterprise. Organised non-professional activities are activities that are not or not primarily carried on for pecuniary gain and which are carried on in the context of an association or other organisation.
 
-<sup>2</sup> The prohibition from carrying on an activity under Article 67 includes activities that the offender carries on on a self-employed basis, as a governing officer of a legal entity or commercial enterprise, or as the agent or representative of another person or which he arranges to be carried on by a person dependent on his instructions.
+<sup>2</sup> The prohibition from carrying on an activity under Article 67 includes activities that the offender carries on on a self-employed basis, as a governing officer of a legal entity or commercial enterprise or in another capacity that must be recorded in the commercial register, or as the agent or representative of another person or which he arranges to be carried on by a person dependent on his instructions.[^67a-2]
 
 <sup>3</sup> If there is a risk that the offender will also misuse his activity in order to commit offences if he is subject to the orders and control of a superior or supervisor, he shall be totally prohibited from carrying on the activity.
 
@@ -1363,13 +1363,14 @@ The following are deemed to be activities with regular contact with minors or wi
   - 8\. transport,
   - 9\. the direct sale or loan of objects intended specifically for minors or other particularly vulnerable persons, and acting as a direct intermediary in such sales or loans, where this is the main activity of the person concerned;
 
-- b. other activities that are primarily or repeatedly carried on in institutions that offer the services listed under letter a, with the exception of activities where it is ensured at the location or time concerned that no contact with minors or other especially vulnerable persons can take place.[^67a-2]
+- b. other activities that are primarily or repeatedly carried on in institutions that offer the services listed under letter a, with the exception of activities where it is ensured at the location or time concerned that no contact with minors or other especially vulnerable persons can take place.[^67a-3]
 
-<sup>6</sup> Especially vulnerable persons are persons who because of their age, an illness or long-term physical, mental or psychological impairment are dependent on help from others in their daily activities or way of living.[^67a-3]
+<sup>6</sup> Especially vulnerable persons are persons who because of their age, an illness or long-term physical, mental or psychological impairment are dependent on help from others in their daily activities or way of living.[^67a-4]
 
 [^67a-1]: Amended by No I 1 of the FA of 13 Dec. 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion Orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^67a-2]: Inserted by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-2]: Amended by No I 3 of the FA of 18 March 2022 on Combating Bankruptcy Fraud, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^67a-3]: Inserted by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-4]: Inserted by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### b. Contact prohibition and exclusion order
 
@@ -3298,11 +3299,12 @@ Any person who, by the use of force or the threat of serious detriment or other 
 
 [^181a-1]
 
-<sup>1</sup> Any person who, by the use of force or the threat of serious detriment or other restriction of another's freedom to act compels another to enter into a marriage or to have a same-sex partnership registered shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who, by the use of force or the threat of serious detriment or other restriction of another's freedom to act compels another to enter into a civil or religious marriage or to have a same-sex partnership registered shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.[^181a-2]
 
 <sup>2</sup> Any person who commits the foregoing offence abroad but is now in Switzerland and is not being extradited shall be liable to the same penalty. Article 7 paragraphs 4 and 5 apply.
 
 [^181a-1]: Inserted by No I 6 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^181a-2]: Amended by Annex No 5 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### Trafficking in human beings
 

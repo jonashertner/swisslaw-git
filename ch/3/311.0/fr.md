@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240701-fr-xml-23.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250101-fr-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 1<sup>er</sup> juillet 2024)
+du 21 décembre 1937 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -756,7 +756,7 @@ La procédure ne peut pas être suspendue:
 [^55a-2]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^55a-3]: Nouvelle teneur selon l’art. 37 ch. 1 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^55a-4]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^55a-5]: Inroduite par le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^55a-5]: Introduite par le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^55a-6]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^55a-7]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^55a-8]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
@@ -1336,7 +1336,7 @@ Dans les cas de très peu de gravité, le juge peut exceptionnellement renoncer 
 
 <sup>1</sup> Sont des activités professionnelles au sens de l’art. 67 les activités déployées dans l’exercice à titre principal ou accessoire d’une profession, d’une industrie ou d’un commerce. Sont des activités non professionnelles organisées les activités exercées dans le cadre d’une association ou d’une autre organisation et ne servant pas, ou pas en premier lieu, des fins lucratives.
 
-<sup>2</sup> L’interdiction d’exercer une activité au sens de l’art. 67 consiste à interdire à l’auteur d’exercer une activité de manière indépendante, en tant qu’organe d’une personne morale ou d’une société commerciale ou au titre de mandataire ou de représentant d’un tiers ou de la faire exercer par une personne liée par ses instructions.
+<sup>2</sup> L’interdiction d’exercer une activité au sens de l’art. 67 consiste à interdire à l’auteur d’exercer une activité de manière indépendante, en tant qu’organe d’une personne morale ou d’une société commerciale, ou dans une autre fonction qui doit être inscrite au registre du commerce ou au titre de mandataire ou de représentant d’un tiers ou de la faire exercer par une personne liée par ses instructions.[^67a-2]
 
 <sup>3</sup> S’il y a lieu de craindre que l’auteur commette des infractions dans l’exercice de son activité alors même qu’il agit selon les instructions et sous le contrôle d’un supérieur ou d’un surveillant, le juge lui interdit totalement l’exercice de cette activité.
 
@@ -1360,13 +1360,14 @@ Par activités impliquant des contacts réguliers avec des mineurs ou d’autres
   - 8\. les transports,
   - 9\. la vente et le prêt directs d’objets destinés spécifiquement aux mineurs ou à d’autres personnes particulièrement vulnérables, ainsi que l’activité d’intermédiaire direct dans de telles ventes ou de tels prêts, pour autant qu’il s’agisse d’une activité exercée à titre principal;
 
-- b. les autres activités exercées principalement ou régulièrement dans des établissements qui offrent les prestations visées à la let. a, à l’exception de celles dont l’emplacement ou l’horaire garantit qu’elles ne peuvent pas impliquer de contacts avec des mineurs ou d’autres personnes particulièrement vulnérables.[^67a-2]
+- b. les autres activités exercées principalement ou régulièrement dans des établissements qui offrent les prestations visées à la let. a, à l’exception de celles dont l’emplacement ou l’horaire garantit qu’elles ne peuvent pas impliquer de contacts avec des mineurs ou d’autres personnes particulièrement vulnérables.[^67a-3]
 
-<sup>6</sup> Par personnes particulièrement vulnérables, on entend des personnes qui ont besoin de l’assistance d’autrui pour accomplir les actes ordinaires de la vie ou déterminer leur existence en raison de leur âge, d’une maladie ou d’une déficience corporelle, mentale ou psychique durable.[^67a-3]
+<sup>6</sup> Par personnes particulièrement vulnérables, on entend des personnes qui ont besoin de l’assistance d’autrui pour accomplir les actes ordinaires de la vie ou déterminer leur existence en raison de leur âge, d’une maladie ou d’une déficience corporelle, mentale ou psychique durable.[^67a-4]
 
 [^67a-1]: Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^67a-2]: Introduit par le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-2]: Nouvelle teneur selon le ch. I 3 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^67a-3]: Introduit par le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-4]: Introduit par le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### b. Interdiction de contact et interdiction géographique
 
@@ -3396,11 +3397,12 @@ Quiconque, en usant de violence envers une personne ou en la menaçant d’un do
 
 [^181a-1]
 
-<sup>1</sup> Quiconque, en usant de violence envers une personne ou en la menaçant d’un dommage sérieux ou en l’entravant de quelque autre manière dans sa liberté d’action, l’oblige à conclure un mariage ou un partenariat enregistré est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
+<sup>1</sup> Quiconque, en usant de violence envers une personne, en la menaçant d’un dommage sérieux ou en l’entravant de quelque autre manière dans sa liberté d’action, l’oblige à conclure un mariage civil ou religieux ou un partenariat enregistré est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^181a-2]
 
 <sup>2</sup> Quiconque se trouve en Suisse et n’est pas extradé et commet l’infraction à l’étranger est punissable. L’art. 7, al. 4 et 5, est applicable.
 
 [^181a-1]: Introduit par le ch. I 6 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^181a-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### Traite d’êtres humains
 
@@ -3694,7 +3696,7 @@ Si les objets ou représentations ont pour contenu des actes d’ordre sexuel ef
 
 <sup>6</sup> En cas d’infraction au sens des al. 4 et 5, les objets sont confisqués.
 
-<sup>7</sup> ...[^197-4]
+<sup>7</sup> …[^197-4]
 
 <sup>8</sup>
 

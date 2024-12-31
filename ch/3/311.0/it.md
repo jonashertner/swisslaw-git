@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240701/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240701-it-xml-23.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250101/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250101-it-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 1° luglio 2024)
+21 dicembre 1937 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -458,8 +458,8 @@ Quando l’avente diritto presenta querela contro uno dei compartecipi al reato,
 
 [^34-1]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^34-2]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^34-3]: Nuovo testo del secondo e del terzo per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^34-4]: Per. introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-3]: Nuovo testo giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-4]: Introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Esazione
 
@@ -1334,7 +1334,7 @@ Nei casi di esigua gravità, il giudice può, a titolo eccezionale, prescindere 
 
 <sup>1</sup> Sono considerate attività professionali ai sensi dellʼarticolo 67 le attività svolte nellʼesercizio, a titolo principale o accessorio, di una professione, di unʼindustria o di un commercio. Sono considerate attività extraprofessionali organizzate le attività svolte senza scopo di lucro o senza prevalente scopo di lucro nellʼambito di unʼassociazione o di unʼaltra organizzazione.
 
-<sup>2</sup> Lʼinterdizione ai sensi dellʼarticolo 67 vieta allʼautore di esercitare attività a titolo indipendente o in veste di organo di una persona giuridica o di una società commerciale, nonché di mandatario o rappresentante di terzi, come pure di farle esercitare da una persona sottoposta alle sue istruzioni.
+<sup>2</sup> Lʼinterdizione ai sensi dellʼarticolo 67 vieta allʼautore di esercitare attività a titolo indipendente o in veste di organo di una persona giuridica o di una società commerciale o in un’altra funzione da iscrivere nel registro di commercio, nonché di mandatario o rappresentante di terzi, come pure di farle esercitare da una persona sottoposta alle sue istruzioni.[^67a-2]
 
 <sup>3</sup> Se sussiste il rischio che lʼautore abusi della sua attività per commettere reati anche se sottoposto alle istruzioni e al controllo di un superiore o di un sorvegliante, lʼinterdizione verte sulla totalità dellʼattività considerata.
 
@@ -1358,13 +1358,14 @@ Sono considerate attività implicanti un contatto regolare con minorenni o altre
   - 8\. il trasporto,
   - 9\. la vendita e il prestito diretti di oggetti destinati specificamente ai minorenni o ad altre persone particolarmente vulnerabili, nonché l’attività di intermediario diretto in tale vendita o prestito, se essa rappresenta l’attività principale della persona in questione;
 
-- b. altre attività, esercitate soprattutto o regolarmente in istituti che offrono servizi di cui alla lettera a; sono eccettuate le attività per le quali è certo che, a causa della loro ubicazione o del loro orario, non possono implicare alcun contatto con minorenni o altre persone particolarmente vulnerabili.[^67a-2]
+- b. altre attività, esercitate soprattutto o regolarmente in istituti che offrono servizi di cui alla lettera a; sono eccettuate le attività per le quali è certo che, a causa della loro ubicazione o del loro orario, non possono implicare alcun contatto con minorenni o altre persone particolarmente vulnerabili.[^67a-3]
 
-<sup>6</sup> Sono considerate particolarmente vulnerabili le persone che, a causa dell’età, di una malattia o di una deficienza fisica, mentale o psichica di lunga durata, dipendono dall’aiuto di terzi nelle attività della vita quotidiana o nella determinazione della loro esistenza.[^67a-3]
+<sup>6</sup> Sono considerate particolarmente vulnerabili le persone che, a causa dell’età, di una malattia o di una deficienza fisica, mentale o psichica di lunga durata, dipendono dall’aiuto di terzi nelle attività della vita quotidiana o nella determinazione della loro esistenza.[^67a-4]
 
 [^67a-1]: Nuovo testo giusta il n. I 1 della LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^67a-2]: Introdotto dal n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-2]: Nuovo testo giusta il n. I 3 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^67a-3]: Introdotto dal n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-4]: Introdotto dal n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### b. Divieto di avere contatti e di accedere ad aree determinate
 
@@ -2134,7 +2135,7 @@ Le disposizioni della parte prima del presente Codice si applicano anche alle co
 
 [^108-1]
 
-[^108-1]: Per ragioni di tecnica legislativa, l’art. é privo di contenuto. Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl ; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^108-1]: Per ragioni di tecnica legislativa, l’art. é privo di contenuto. Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 ### Prescrizione
 
@@ -3277,11 +3278,12 @@ Chiunque, usando violenza o minaccia di grave danno contro una persona, o intral
 
 [^181a-1]
 
-<sup>1</sup> Chiunque, usando violenza o minaccia di grave danno contro una persona, o intralciando in altro modo la libertà d’agire di lei, la costringe a contrarre un matrimonio o un’unione domestica registrata, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
+<sup>1</sup> Chiunque, usando violenza o minaccia di grave danno contro una persona, o intralciando in altro modo la libertà d’agire di lei, la costringe a contrarre un matrimonio civile o religioso o un’unione domestica registrata, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.[^181a-2]
 
 <sup>2</sup> È punibile anche chi commette il reato all’estero, se si trova in Svizzera e non è estradato. È applicabile l’articolo 7 capoversi 4 e 5.
 
 [^181a-1]: Introdotto dal n. I 6 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^181a-2]: Nuovo testo giusta il l’all. n. 5 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### Tratta di esseri umani
 
@@ -5668,6 +5670,8 @@ Sono puniti con la multa:
 
 ### Inosservanza delle norme legali sulla contabilità
 
+### Inosservanza delle disposizioni concernenti la relazione sui pagamenti a favore di enti statali
+
 #### Art. 325
 
 Chiunque intenzionalmente o per negligenza non ottempera all’obbligo imposto dalla legge di tenere regolarmente i libri di commercio,
@@ -5676,19 +5680,15 @@ chiunque intenzionalmente o per negligenza non ottempera all’obbligo imposto d
 
 è punito con la multa.
 
-### Inosservanza delle disposizioni concernenti la relazione sui pagamenti a favore di enti statali
-
-#### Art. 325<sup>bis</sup>
-
-[^325bis-1]
+**Art. 325**<sup>bis</sup> [^325-1]
 
 È punito con la multa chiunque intenzionalmente:
 
-- a. fornisce false indicazioni nella relazione sui pagamenti a favore di enti statali di cui all’articolo 964*d* CO[^325bis-2] oppure omette in tutto o in parte di presentare tale relazione;
+- a. fornisce false indicazioni nella relazione sui pagamenti a favore di enti statali di cui all’articolo 964*d* CO[^325-2] oppure omette in tutto o in parte di presentare tale relazione;
 - b. viene meno all’obbligo di tenere e conservare le relazioni sui pagamenti a favore di enti statali conformemente all’articolo 964*h* CO.
 
-[^325bis-1]: Introdotto dal n. III 2 della LF del 19 giu. 2020 (controprogetto indiretto all’iniziativa popolare «Per imprese responsabili – a tutela dell’essere umano e dell’ambiente»), in vigore dal 1° gen. 2022 ([RU 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^325bis-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^325-1]: Introdotto dal n. III 2 della LF del 19 giu. 2020 (controprogetto indiretto all’iniziativa popolare «Per imprese responsabili – a tutela dell’essere umano e dell’ambiente»), in vigore dal 1° gen. 2022 ([RU 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^325-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### Inosservanza delle disposizioni concernenti altre relazioni
 

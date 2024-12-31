@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240701/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240701-de-xml-23.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250101-de-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Juli 2024)
+vom 21. Dezember 1937 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1337,7 +1337,7 @@ Das Gericht kann in besonders leichten Fällen ausnahmsweise von der Anordnung e
 
 <sup>1</sup> Als berufliche Tätigkeiten im Sinne von Artikel 67 gelten Tätigkeiten in Ausübung eines Haupt- oder Nebenberufs oder -gewerbes oder eines Handelsgeschäfts. Als organisierte ausserberufliche Tätigkeiten gelten Tätigkeiten, die nicht oder nicht primär zu Erwerbszwecken und die im Rahmen eines Vereins oder einer anderen Organisation ausgeübt werden.
 
-<sup>2</sup> Das Tätigkeitsverbot nach Artikel 67 umfasst die Tätigkeiten, die der Täter selbstständig, als Organ einer juristischen Person oder Handelsgesellschaft, als Beauftragter oder als Vertreter einer anderen Person ausübt oder durch eine von seinen Weisungen abhängige Person ausüben lässt.
+<sup>2</sup> Das Tätigkeitsverbot nach Artikel 67 umfasst die Tätigkeiten, die der Täter selbstständig, als Organ einer juristischen Person oder Handelsgesellschaft oder in einer anderen Funktion, die im Handelsregister einzutragen ist, als Beauftragter oder als Vertreter einer anderen Person ausübt oder durch eine von seinen Weisungen abhängige Person ausüben lässt.[^67a-2]
 
 <sup>3</sup> Besteht die Gefahr, dass der Täter seine Tätigkeit auch zur Begehung von Straftaten missbraucht, wenn er sie nach Weisung und unter Kontrolle eines Vorgesetzten oder einer Aufsichtsperson ausübt, so ist ihm die Tätigkeit ganz zu untersagen.
 
@@ -1361,13 +1361,14 @@ Als Tätigkeiten mit regelmässigem Kontakt zu Minderjährigen oder zu anderen b
   - 8\. Transport,
   - 9\. direkter Verkauf oder Verleih oder direkte Vermittlung von spezifisch für die Bedürfnisse von Minderjährigen oder anderen besonders schutzbedürftigen Personen bestimmten Objekten, sofern dies die Haupttätigkeit der betreffenden Person darstellt;
 
-- b. andere Tätigkeiten, die vor allem oder wiederholt in Einrichtungen ausgeübt werden, die Dienstleistungen nach Buchstabe a anbieten; ausgenommen sind Tätigkeiten, bei denen örtlich oder zeitlich sichergestellt ist, dass kein Kontakt zu Minderjährigen oder anderen besonders schutzbedürften Personen stattfinden kann.[^67a-2]
+- b. andere Tätigkeiten, die vor allem oder wiederholt in Einrichtungen ausgeübt werden, die Dienstleistungen nach Buchstabe a anbieten; ausgenommen sind Tätigkeiten, bei denen örtlich oder zeitlich sichergestellt ist, dass kein Kontakt zu Minderjährigen oder anderen besonders schutzbedürften Personen stattfinden kann.[^67a-3]
 
-<sup>6</sup> Als besonders schutzbedürftig gelten Personen, die aufgrund ihres Alters, einer Krankheit oder einer langfristigen körperlichen, geistigen oder psychischen Beeinträchtigung bei alltäglichen Verrichtungen oder in ihrer Lebensführung auf fremde Hilfe angewiesen sind.[^67a-3]
+<sup>6</sup> Als besonders schutzbedürftig gelten Personen, die aufgrund ihres Alters, einer Krankheit oder einer langfristigen körperlichen, geistigen oder psychischen Beeinträchtigung bei alltäglichen Verrichtungen oder in ihrer Lebensführung auf fremde Hilfe angewiesen sind.[^67a-4]
 
 [^67a-1]: Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^67a-2]: Eingefügt durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-2]: Fassung gemäss Ziff. I 3 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^67a-3]: Eingefügt durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67a-4]: Eingefügt durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### b. Kontakt- und Rayonverbot
 
@@ -3289,11 +3290,12 @@ Wer jemanden durch Gewalt oder Androhung ernstlicher Nachteile oder durch andere
 
 [^181a-1]
 
-<sup>1</sup> Wer jemanden durch Gewalt oder Androhung ernstlicher Nachteile oder durch andere Beschränkung seiner Handlungsfreiheit nötigt, eine Ehe einzugehen oder eine Partnerschaft eintragen zu lassen, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+<sup>1</sup> Wer jemanden durch Gewalt oder Androhung ernstlicher Nachteile oder durch andere Beschränkung seiner Handlungsfreiheit nötigt, eine zivile oder religiöse Ehe einzugehen oder eine Partnerschaft eintragen zu lassen, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.[^181a-2]
 
 <sup>2</sup> Strafbar ist auch, wer die Tat im Ausland begeht, sich in der Schweiz befindet und nicht ausgeliefert wird. Artikel 7 Absätze 4 und 5 ist anwendbar.
 
 [^181a-1]: Eingefügt durch Ziff. I 6 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^181a-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### Menschenhandel
 
