@@ -4,11 +4,10 @@ number: "231.1"
 title: Kantonale Zivilstandsverordnung (ZVO)
 short: ZVO
 language: de
-version: "2023-07-01"
-nachtrag: "122"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2004-12-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-231_1-2004_12_01-2005_01_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-231_1-2004_12_01-2005_01_01-127.html"
 text: pdf
 ---
 
@@ -64,7 +63,7 @@ beschliesst:
 
 **1**
 
-1.10. 23 - 122
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Lokale für Trauungen und zeremonielle Umwandlungen von eingetragenen Partnerschaften in Ehen sind a. dem Anlass würdig,
 
@@ -185,7 +184,7 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 **3**
 
-1.10. 23 - 122
+- 1\. 1. 25 - 127
 
 [^11-1]: Aufgehoben durch RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 [^11-2]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
@@ -293,7 +292,7 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 **5**
 
-1.10. 23 - 122
+- 1\. 1. 25 - 127
 
 [^hGRechtsschutz14-1]: Eingefügt durch RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 [^hGRechtsschutz14-2]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
@@ -370,9 +369,9 @@ Seit dem 1. Juli 2022 bezahlte Gebühren für die Erklärung über die Umwandlun
 
 [^hNameSitzBeteilig-1]
 
-[^hAffolternhNameSitz-1]: Die Gemeinde Sternenberg wurde nach dem Zusammenschluss mit der Gemeinde Bauma auf 1. Januar 2015 aus der Liste entfernt.
+[^hAffolternhNameSitz-1]: Aufgehoben durch RRB vom 11. Dezember 2024 (OS 79, 476; ABl 2024-12-20). In Kraft seit 1. Januar 2025.
 
-### Bauma Bauma Bäretswil, Bauma, Fischenthal und Wila
+### Bauma
 
 [^hAffolternhNameSitz-1]
 
@@ -410,7 +409,7 @@ Furttal Regensdorf Boppelsen, Buchs, Dällikon, Dänikon,
 
 [^hHüttikonOtelfingen-1]
 
-[^hHorgenhHüttikonOte-1]: Die Gemeinde Kyburg wurde nach dem Zusammenschluss mit der Gemeinde Illnau-Effretikon auf 1. Januar 2016 aus der Liste entfernt. 1.10. 23 - 122 7
+[^hHorgenhHüttikonOte-1]: Die Gemeinde Kyburg wurde nach dem Zusammenschluss mit der Gemeinde Illnau-Effretikon auf 1. Januar 2016 aus der Liste entfernt. 1. 1. 25 - 127 7
 
 ### Illnau-Effretikon Illnau-Effretikon Illnau-Effretikon, Lindau und Weisslingen
 
@@ -418,7 +417,7 @@ Furttal Regensdorf Boppelsen, Buchs, Dällikon, Dänikon,
 
 **9**
 
-1.10. 23 - 122
+- 1\. 1. 25 - 127
 
 ### Name: Sitz: Beteiligte Gemeinden:
 
@@ -430,9 +429,11 @@ Kloten Kloten Bassersdorf, Dietlikon, Kloten, Nürensdorf,
 
 Männedorf Männedorf Hombrechtikon, Männedorf, Meilen, Oetwil a. S., Stäfa und Uetikon a. S.
 
-### Pfäffikon Pfäffikon Fehraltorf, Hittnau, Pfäffikon, Russikon
+Pfäffikon[^hKüsnachtKüsnachtEr-1] Pfäffikon Bauma, Fehraltorf, Hittnau, Pfäffikon,
 
-und Wildberg
+[^hKüsnachtKüsnachtEr-1]: Fassung gemäss RRB vom 11. Dezember 2024 (OS 79, 476; ABl 2024-12-20). In Kraft seit 1. Januar 2025.
+
+### Russikon, Wila und Wildberg
 
 ### Rüti Rüti Bubikon, Dürnten, Rüti und Wald
 
@@ -456,13 +457,17 @@ und Wettswil a. A.
 
 [^hVolketswilVolketswi-1]
 
-### Wetzikon Wetzikon Gossau, Grüningen, Hinwil, Seegräben
+Wetzikon[^hWädenswilhVolketsw-1] Wetzikon Bäretswil, Fischenthal, Gossau,
+
+[^hWädenswilhVolketsw-1]: Fassung gemäss RRB vom 11. Dezember 2024 (OS 79, 476; ABl 2024-12-20). In Kraft seit 1. Januar 2025.
+
+### Grüningen, Hinwil, Seegräben
 
 und Wetzikon
 
-Winterthur[^hWetzikonWetzikonGo-1], <sup>21</sup> Winterthur Altikon, Brütten, Dägerlen, Dättlikon, Dinhard, Elgg, Ellikon an der Thur, Elsau, Hagenbuch, Hettlingen, Neftenbach, Pfungen, Rickenbach, Schlatt, Seuzach,
+Winterthur[^hGrüningenHinwilS-1], <sup>21</sup> Winterthur Altikon, Brütten, Dägerlen, Dättlikon, Dinhard, Elgg, Ellikon an der Thur, Elsau, Hagenbuch, Hettlingen, Neftenbach, Pfungen, Rickenbach, Schlatt, Seuzach,
 
-[^hWetzikonWetzikonGo-1]: Die Gemeinde Bertschikon wurde nach dem Zusammenschluss mit der Gemeinde Wiesendangen auf 1. Januar 2014 aus der Liste entfernt.
+[^hGrüningenHinwilS-1]: Die Gemeinde Bertschikon wurde nach dem Zusammenschluss mit der Gemeinde Wiesendangen auf 1. Januar 2014 aus der Liste entfernt.
 
 ### Turbenthal, Wiesendangen, Winterthur
 
@@ -477,5 +482,6 @@ und Zell
 - [7] Eingefügt durch RRB vom 29. November 2006 (OS 61, 485; ABl 2006, 1696). In Kraft seit 1. Januar 2008.
 - [8] Eingefügt durch RRB vom 17. Dezember 2008 (OS 64, 220; ABl 2009, 661). In Kraft seit 1. Januar 2009.
 - [9] Fassung gemäss RRB vom 17. Dezember 2008 (OS 64, 220; ABl 2009, 661). In Kraft seit 1. Januar 2009.
+- [16] Die Gemeinde Sternenberg wurde nach dem Zusammenschluss mit der Gemeinde Bauma auf 1. Januar 2015 aus der Liste entfernt.
 - [21] Die Gemeinde Hofstetten wurde nach dem Zusammenschluss mit der Gemeinde Elgg auf 1. Januar 2018 aus der Liste entfernt.
 - [26] Die Gemeinden Humlikon und Adlikon wurden nach dem Zusammenschluss mit der Gemeinde Andelfingen auf 1. Januar 2023 aus der Liste entfernt.
