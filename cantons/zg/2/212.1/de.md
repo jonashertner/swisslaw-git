@@ -4,13 +4,12 @@ number: "212.1"
 title: Vollziehungsverordnung über das Zivilstandswesen
 short: "Kantonale Zivilstandsverordnung, kant. ZStV"
 language: de
-version: 2013-01-01
-valid_until: 2024-12-31
-version_adopted: 2012-11-27
+version: 2025-01-01
+version_adopted: 2024-10-01
 adopted: 1981-04-28
 in_force: 1981-05-26
 url: "https://bgs.zg.ch/app/de/texts_of_law/212.1"
-pdf: "https://bgs.zg.ch/api/de/versions/1097/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2623/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1097/pdf_file"
 
 (Kantonale Zivilstandsverordnung, kant. ZStV)
 
-Vom 28. April 1981 (Stand 1. Januar 2013)
+Vom 28. April 1981 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -201,6 +200,14 @@ beschliesst:
 **Anzeige des Todes bei der Wohngemeinde**
 
 <sup>1</sup> Die Gemeinden bezeichnen eine Amtsstelle, bei welcher die Todesfälle anzuzeigen sind. Diese hat den Todesfall unverzüglich dem Zivilstandsamt ihres Kreises schriftlich mitzuteilen. Die ärztliche Todesbescheinigung und die hinterlegten Dokumente sind der Meldung beizulegen.
+
+#### § 24a
+
+**Leichentransport ins Ausland**
+
+<sup>1</sup> Für die Ausstellung einer Bewilligung für einen Leichentransport ins Ausland (Leichenpass) ist das Zivilstandsamt der Wohngemeinde zuständig. Hatte die verstorbene Person keinen Wohnsitz im Kanton, ist das Zivilstandsamt des Ereignisorts zuständig.
+
+<sup>2</sup> Die Einhaltung der Einsargungsvorschriften wird anhand einer schriftlichen Bestätigung einer Bestatterin oder eines Bestatters mit eidgenössischem Fachausweis, die oder der bei der Einsargung anwesend war, überprüft.
 
 #### § 24bis
 
