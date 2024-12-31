@@ -3,11 +3,11 @@ sr: "131.235"
 title: "Verfassung der Republik und des Kantons Jura, vom 20. März 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga"
 language: de
-version: 2023-06-18
+version: 2025-01-01
 adopted: 1977-03-20
 in_force: 1977-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/de/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20230618-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/de"
 
 Übersetzung[^t-1]
 
-vom 20. März 1977 (Stand am 18. Juni 2023)[^t-2]
+vom 20. März 1977 (Stand am 1. Januar 2025)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleitungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -33,9 +33,9 @@ Das jurassische Volk beruft sich auf die Menschenrechtserklärung von 1789, auf 
 
 Gestützt auf diese Grundsätze ist die Republik und der Kanton Jura, hervorgegangen aus dem Akt freier Selbstbestimmung vom 23. Juni 1974, entschlossen, eine gedeihliche Gesellschaft aufzubauen, die Grundrechte zu beachten, verantwortungsvoll mit der Umwelt umzugehen, die soziale Gerechtigkeit und die Zusammenarbeit unter den Völkern zu fördern und aktiv in den Gemeinschaften mitzuwirken, auf die sie sich beruft.[^ingress-3]
 
-[^ingress-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010. Gewährleistungsbeschluss vom 6. März 2012 ([BBl 2012 3861](https://fedlex.data.admin.ch/eli/fga/2012/502)Art. 1 Ziff. 8, [2011 8041](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
-[^ingress-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-3]: Zweiter Abs. angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010. Gewährleistungsbeschluss vom 6. März 2012 ([BBl 2012 3861](https://fedlex.data.admin.ch/eli/fga/2012/502)Art. 1 Ziff. 8, [2011 8041](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
+[^ingress-1]: Angenommen in der Volksabstimmung vom 28. Nov. 2010, in Kraft seit 28. Nov. 2010. Gewährleistungsbeschluss vom 6. März 2012 ([BBl 2012 3861](https://fedlex.data.admin.ch/eli/fga/2012/502)Art. 1 Ziff. 8; [2011 8041](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
+[^ingress-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-3]: Zweiter Abs. angenommen in der Volksabstimmung vom 28. Nov. 2010, in Kraft seit 28. Nov. 2010. Gewährleistungsbeschluss vom 6. März 2012 ([BBl 2012 3861](https://fedlex.data.admin.ch/eli/fga/2012/502)Art. 1 Ziff. 8; [2011 8041](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
 
 ## I. Souveränität
 
@@ -76,7 +76,7 @@ Das Französische ist Landes- und Amtssprache der Republik und des Kantons Jura.
 Die Republik und der Kanton Jura hat das folgende Wappen:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/de/xml/image/image1.png)</td><td>«Gespalten von Silber mit rotem Bischofsstab und von Rot mit drei silbernen Balken»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/de/xml/image/image1.png)</td><td>«Gespalten von Silber mit rotem Bischofsstab und von Rot mit drei silbernen Balken»</td></tr>
 </table>
 
 ## II. Die Grundrechte
@@ -135,7 +135,7 @@ Gewährleistet sind insbesondere:
 
 [^10-1]
 
-[^10-1]: Aufgehoben in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5 [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^10-1]: Aufgehoben in der Volksabstimmung vom 30. Nov. 2008, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 11
 
@@ -289,9 +289,9 @@ Die Sozialhilfe ist Aufgabe des Staates und der Gemeinden.
 
 <sup>3</sup> Er überträgt die Verwaltung einer öffentlichrechtlichen Anstalt.[^26-3]
 
-[^26-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 1993](http://www.admin.ch/ch/d/pore/va/19931128/index.html), in Kraft seit 28. Nov. 1993. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 8, I 1301).
-[^26-2]: Angenommen in der [Volksabstimmung vom 26. Sept. 2004](http://www.admin.ch/ch/d/pore/va/20040926/index.html), in Kraft seit 1. Jan. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^26-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 1993](http://www.admin.ch/ch/d/pore/va/19931128/index.html), in Kraft seit 28. Nov. 1993. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 8, I 1301).
+[^26-1]: Angenommen in der Volksabstimmung vom 28. Nov. 1993, in Kraft seit 28. Nov. 1993. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 8, I 1301).
+[^26-2]: Angenommen in der Volksabstimmung vom 26. Sept. 2004, in Kraft seit 1. Jan. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^26-3]: Angenommen in der Volksabstimmung vom 28. Nov. 1993, in Kraft seit 28. Nov. 1993. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 8, I 1301).
 
 #### Art. 27
 
@@ -443,7 +443,7 @@ Der Staat schafft ein Büro für Frauenfragen, dessen Aufgaben insbesondere sind
 
 [^lvlIII-lvl7bis-1]
 
-[^lvlIII-lvl7bis-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010. Gewährleistungsbeschluss vom 6. März 2012 ([BBl 2012 3861](https://fedlex.data.admin.ch/eli/fga/2012/502)Art. 1 Ziff. 8, [2011 8041](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
+[^lvlIII-lvl7bis-1]: Angenommen in der Volksabstimmung vom 28. Nov. 2010, in Kraft seit 28. Nov. 2010. Gewährleistungsbeschluss vom 6. März 2012 ([BBl 2012 3861](https://fedlex.data.admin.ch/eli/fga/2012/502)Art. 1 Ziff. 8; [2011 8041](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
 
 #### Art. 44a
 
@@ -599,8 +599,8 @@ Das Gesetz bestimmt, dass im Krieg oder bei Katastrophen dem Parlament oder der 
 
 <sup>6</sup> Das Gesetz regelt die Unvereinbarkeit von Ämtern für die nebenamtlichen Richter und die Beamten.
 
-[^62-1]: Angenommen in der [Volksabstimmung vom 5. April 1987](http://www.admin.ch/ch/d/pore/va/19870405/index.html), in Kraft seit 5. April 1987. Gewährleistungsbeschluss vom 9. März 1988 ([BBl 1988 I 1448](https://fedlex.data.admin.ch/eli/fga/1988/1_1448__)Art. 1 Ziff. 5 249).
-[^62-2]: Aufgehoben in der [Volksabstimmung vom 5. April 1987](http://www.admin.ch/ch/d/pore/va/19870405/index.html), mit Wirkung seit 5. April 1987. Gewährleistungsbeschluss vom 9. März 1988 ([BBl 1988 I 1448](https://fedlex.data.admin.ch/eli/fga/1988/1_1448__)Art. 1 Ziff. 5 249).
+[^62-1]: Angenommen in der Volksabstimmung vom 5. April 1987, in Kraft seit 5. April 1987. Gewährleistungsbeschluss vom 9. März 1988 ([BBl 1988 I 1448](https://fedlex.data.admin.ch/eli/fga/1988/1_1448__)Art. 1 Ziff. 5, 249).
+[^62-2]: Aufgehoben in der Volksabstimmung vom 5. April 1987, mit Wirkung seit 5. April 1987. Gewährleistungsbeschluss vom 9. März 1988 ([BBl 1988 I 1448](https://fedlex.data.admin.ch/eli/fga/1988/1_1448__)Art. 1 Ziff. 5, 249).
 
 #### Art. 63
 
@@ -624,7 +624,7 @@ Das Amt eines Regierungsmitglieds oder eines vollamtlicher Richters ist mit jede
 
 <sup>3</sup> Während einer Amtsperiode Gewählte üben ihr Mandat bis zum Ende dieser Periode aus.
 
-[^65-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^65-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5; [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 66
 
@@ -638,7 +638,7 @@ Das Amt eines Regierungsmitglieds oder eines vollamtlicher Richters ist mit jede
 
 <sup>4</sup> Die Mitglieder der anderen Behörden des Staates und der Bezirke können unbeschränkt wiedergewählt werden.
 
-[^66-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^66-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5; [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 66a
 
@@ -648,7 +648,7 @@ Das Amt eines Regierungsmitglieds oder eines vollamtlicher Richters ist mit jede
 
 <sup>2</sup> Das Gesetz kann die Abberufung der Regierung vorsehen, wenn die Mehrheit ihrer Mitglieder bei einem Amtsenthebungsverfahren gegen eines der Mitglieder zurücktritt. Es regelt das Verfahren und die Voraussetzungen.
 
-[^66a-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 4, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^66a-1]: Angenommen in der Volksabstimmung vom 18. Juni 2023, in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 4, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 67
 
@@ -674,7 +674,7 @@ Die Verhandlungen des Parlaments und der Generalräte sind öffentlich.
 
 <sup>3</sup> Die kantonale Verwaltung ist dezentralisiert.
 
-[^69-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 1998](http://www.admin.ch/ch/d/pore/va/19981129/index.html), in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9 [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^69-1]: Angenommen in der Volksabstimmung vom 29. Nov. 1998, in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9, [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 
 ### 2. Die politischen Rechte
 
@@ -690,7 +690,7 @@ Die Verhandlungen des Parlaments und der Generalräte sind öffentlich.
 
 <sup>4</sup> Das Gesetz bestimmt, in welchen Fällen einem Stimmberechtigten die politischen Rechte entzogen werden.
 
-[^70-1]: Aufgehoben in der [Volksabstimmung vom 29. Nov. 1998](http://www.admin.ch/ch/d/pore/va/19981129/index.html), mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9 [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^70-1]: Aufgehoben in der Volksabstimmung vom 29. Nov. 1998, mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9, [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 
 #### Art. 71
 
@@ -742,8 +742,8 @@ Die Stimmberechtigten der Gemeinde wählen:
 
 <sup>6</sup> Die Regierungsmitglieder und die Gemeindepräsidenten werden nach dem Mehrheitswahlverfahren gewählt.[^74-2]
 
-[^74-1]: Aufgehoben in der [Volksabstimmung vom 29. Nov. 1998](http://www.admin.ch/ch/d/pore/va/19981129/index.html), mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9 [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
-[^74-2]: Angenommen in der [Volksabstimmung vom 29. Nov. 1998](http://www.admin.ch/ch/d/pore/va/19981129/index.html), in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9 [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^74-1]: Aufgehoben in der Volksabstimmung vom 29. Nov. 1998, mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9, [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^74-2]: Angenommen in der Volksabstimmung vom 29. Nov. 1998, in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9, [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 
 #### Art. 75
 
@@ -757,8 +757,8 @@ Die Stimmberechtigten der Gemeinde wählen:
 
 <sup>4</sup> Die Initiative kann unter den im Gesetz genannten Voraussetzungen zurückgezogen werden.
 
-[^75-1]: Angenommen in der [Volksabstimmung vom 5. Juni 2016](http://www.admin.ch/ch/d/pore/va/20160605/index.html), in Kraft seit 5. Juni 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 5 [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
-[^75-2]: Angenommen in der [Volksabstimmung vom 26. Sept. 2004](http://www.admin.ch/ch/d/pore/va/20040926/index.html), in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^75-1]: Angenommen in der Volksabstimmung vom 5. Juni 2016, in Kraft seit 5. Juni 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 5, [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^75-2]: Angenommen in der Volksabstimmung vom 26. Sept. 2004, in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 76
 
@@ -774,8 +774,8 @@ Die Stimmberechtigten der Gemeinde wählen:
 
 <sup>5</sup> Nimmt das Volk sowohl die Initiative wie den Gegenvorschlag an, so gilt die Vorlage als angenommen, welche die meisten Stimmen auf sich vereinigt hat.
 
-[^76-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2004](http://www.admin.ch/ch/d/pore/va/20040926/index.html), in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^76-2]: Angenommen in der [Volksabstimmung vom 26. Sept. 2004](http://www.admin.ch/ch/d/pore/va/20040926/index.html), in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^76-1]: Angenommen in der Volksabstimmung vom 26. Sept. 2004, in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^76-2]: Angenommen in der Volksabstimmung vom 26. Sept. 2004, in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 77
 
@@ -791,7 +791,7 @@ Der Volksabstimmung werden unterbreitet:
 - f. die Verträge, Konkordate und anderen öffentlichrechtlichen Vereinbarungen, die von der Verfassung abweichen oder sie ergänzen oder die dem obligatorischen Referendum unterliegende Ausgaben zur Folge haben;
 - g.[^77-1] das Staatsbudget gemäss Artikel 123*a* Absätze 4 und 6.
 
-[^77-1]: Angenommen in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 5, [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^77-1]: Angenommen in der Volksabstimmung vom 17. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 5; [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)).
 
 #### Art. 78
 
@@ -806,7 +806,7 @@ Wenn zweitausend Stimmberechtigte oder fünf Gemeinden es verlangen, werden der 
 - e. die Pläne in den gesetzlich vorgesehenen Fällen;
 - f. die Standesinitiativen in Bundesangelegenheiten.
 
-[^78-1]: Angenommen in der [Volksabstimmung vom 5. Juni 2016](http://www.admin.ch/ch/d/pore/va/20160605/index.html), in Kraft seit 5. Juni 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 5 [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^78-1]: Angenommen in der Volksabstimmung vom 5. Juni 2016, in Kraft seit 5. Juni 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 5, [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
 
 #### Art. 79
 
@@ -1053,8 +1053,8 @@ Die Gerichte sind unabhängig.
 
 <sup>2</sup> Das Kantonsgericht entscheidet erstinstanzlich in den vom Gesetz vorgesehenen Fällen.
 
-[^102-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 1998](http://www.admin.ch/ch/d/pore/va/19981129/index.html), in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9 [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
-[^102-2]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5 [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^102-1]: Angenommen in der Volksabstimmung vom 29. Nov. 1998, in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9, [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^102-2]: Angenommen in der Volksabstimmung vom 30. Nov. 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 103
 
@@ -1062,7 +1062,7 @@ Die Gerichte sind unabhängig.
 
 Die zweitinstanzliche Gerichtsbarkeit wird vom Kantonsgericht ausgeübt.
 
-[^103-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5 [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^103-1]: Angenommen in der Volksabstimmung vom 30. Nov. 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 104
 
@@ -1080,7 +1080,7 @@ Er beurteilt in den Schranken des Gesetzes:
 - d. Kompetenzstreitigkeiten zwischen kantonalen Behörden, sofern der Verfassungsgerichtshof nicht selber Partei ist;
 - e. die anderen im Gesetz genannten Streitigkeiten.
 
-[^104-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5 [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^104-1]: Angenommen in der Volksabstimmung vom 30. Nov. 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 105
 
@@ -1094,7 +1094,7 @@ Der Jugendschutz untersteht in Strafsachen einer besonderen Gerichtsbarkeit.
 
 Die Strafverfolgung wird von der Staatsanwaltschaft wahrgenommen.
 
-[^106-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5 [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^106-1]: Angenommen in der Volksabstimmung vom 30. Nov. 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 107
 
@@ -1102,7 +1102,7 @@ Die Strafverfolgung wird von der Staatsanwaltschaft wahrgenommen.
 
 Das Gesetz regelt die Einzelheiten der Wahl der richterlichen Behörden, ihrer Organisation, ihrer Befugnisse sowie das Verfahrensrecht unter Vorbehalt des Bundesrechts.
 
-[^107-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5 [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^107-1]: Angenommen in der Volksabstimmung vom 30. Nov. 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 ## V. Die Bezirke und die Gemeinden
 
@@ -1120,16 +1120,18 @@ Das Gesetz regelt die Einzelheiten der Wahl der richterlichen Behörden, ihrer O
 
 <sup>4</sup> …[^108-2]
 
-[^108-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 1998](http://www.admin.ch/ch/d/pore/va/19981129/index.html), in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss der BVers vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9 [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
-[^108-2]: Aufgehoben in der [Volksabstimmung vom 29. Nov. 1998](http://www.admin.ch/ch/d/pore/va/19981129/index.html), mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss der BVers vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9 [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^108-1]: Angenommen in der Volksabstimmung vom 29. Nov. 1998, in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss der BVers vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9, [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^108-2]: Aufgehoben in der Volksabstimmung vom 29. Nov. 1998, mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss der BVers vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9, [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 
 #### Art. 109
 
 **Anzahl und Grenzen**
 
-<sup>1</sup> Das Kantonsgebiet ist in drei Bezirke eingeteilt: Delsberg, Freiberge, Pruntrut.
+<sup>1</sup> Das Kantonsgebiet ist in vier Bezirke eingeteilt: Delsberg, Freiberge, Pruntrut, Moutier.[^109-1]
 
 <sup>2</sup> Die Grenzen der Bezirke werden durch das Gesetz festgelegt.
+
+[^109-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 5, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### 2. Die Gemeinden
 
@@ -1293,7 +1295,7 @@ Die Steuerpflichtigen beteiligen sich solidarisch, entsprechend ihrer wirtschaft
 
 <sup>7</sup> Im Weiteren regelt das Gesetz die Einzelheiten der Schuldenbremse.
 
-[^123a-1]: Angenommen in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 5, [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^123a-1]: Angenommen in der Volksabstimmung vom 17. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 5; [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)).
 
 #### Art. 124
 
@@ -1387,7 +1389,7 @@ Das Bergregal und das Salzregal sind dem Staat vorbehalten.
 
 <sup>4</sup> Das Gesetz bestimmt, in welchen Fällen der Staat den Kirchen Beiträge leistet.
 
-[^134-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5 [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^134-1]: Angenommen in der Volksabstimmung vom 30. Nov. 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 5, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 ## VIII. Revision der Verfassung
 
@@ -1427,11 +1429,9 @@ Das Bergregal und das Salzregal sind dem Staat vorbehalten.
 
 #### Art. 139
 
-**Verfahren zur Schaffung eines neuen Kantons**[^139-1]
+[^139-1]
 
-Die Regierung ist ermächtigt, unter Beachtung des Bundesrechts und des Rechts der betroffenen Kantone ein Verfahren zur Schaffung eines neuen Kantons einzuleiten, der das Gebiet des Berner Jura und dasjenige des Kantons Jura umfasst.
-
-[^139-1]: Angenommen in der [Volksabstimmung vom 24. Nov. 2013](http://www.admin.ch/ch/d/pore/va/20131124/index.html), in Kraft seit 24. Nov. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 10, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^139-1]: Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Jan. 2025. Gewährleistungsbeschluss vom 10. März 2025 ([BBl 2025 942](https://fedlex.data.admin.ch/eli/fga/2025/942)Art. 1; [2024 3173](https://fedlex.data.admin.ch/eli/fga/2024/3173)).
 
 ## Schluss- und Übergangsbestimmungen
 
@@ -1471,7 +1471,7 @@ Die jurassische Verfassung ersetzt für das Gebiet der Republik und des Kantons 
 
 <sup>3</sup> Beschwerden über die Ausübung der politischen Rechte, über die Organisation der Wahlen und die Ermittlung der Ergebnisse werden von einer besonderen Kommission des Verfassungsrates beurteilt.
 
-[^u1-6-1]: Aufgehoben in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), mit Wirkung seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^u1-6-1]: Aufgehoben in der Volksabstimmung vom 7. März 2010, mit Wirkung seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5; [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 7
 
@@ -1507,7 +1507,7 @@ In Abweichung von Artikel 62 Absatz 4[^u1-8-1] der Verfassung darf kein Regierun
 
 <sup>4</sup> Der Regierungsrat kann bis zum Inkrafttreten der Änderung des Gesetzes über die Gerichtsorganisation die notwendigen Bestimmungen auf dem Verordnungsweg erlassen.
 
-[^u1-11-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 1998](http://www.admin.ch/ch/d/pore/va/19981129/index.html), in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss der BVers vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9 [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^u1-11-1]: Angenommen in der Volksabstimmung vom 29. Nov. 1998, in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss der BVers vom 14. Juni 2000 ([BBl 2000 3643](https://fedlex.data.admin.ch/eli/fga/2000/768)Art. 1 Ziff. 9, [1107](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 [^u1-11-2]: Es handelt sich um die Änderungen der Art. 69, 70, 74, 102 und 108 (Reform der Gerichtsorganisation), in Kraft seit 1. Jan. 2001.
 
 #### Art. 12
@@ -1516,7 +1516,7 @@ In Abweichung von Artikel 62 Absatz 4[^u1-8-1] der Verfassung darf kein Regierun
 
 Die Regierung bestimmt das Inkrafttreten dieser Änderung[^u1-12-2].
 
-[^u1-12-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2004](http://www.admin.ch/ch/d/pore/va/20040926/index.html), in Kraft seit 1. Jan. 2005. Gewährleistungsbeschluss der BVers vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^u1-12-1]: Angenommen in der Volksabstimmung vom 26. Sept. 2004, in Kraft seit 1. Jan. 2005. Gewährleistungsbeschluss der BVers vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 7, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 [^u1-12-2]: Es handelt sich um die Änderung des Art. 26 Abs. 2 (Übertragung der Gesundheitskosten auf den Kanton), in Kraft seit 1. Jan. 2005.
 
 #### Art. 13
@@ -1525,8 +1525,8 @@ Die Regierung bestimmt das Inkrafttreten dieser Änderung[^u1-12-2].
 
 Die Regierung bestimmt das Inkrafttreten dieser Änderung[^u1-13-2].
 
-[^u1-13-1]: Angenommen in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 5, [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)).
-[^u1-13-2]: Es handelt sich um: die Änderungen der Art. 75 Abs. 1 und 3 sowie 76 Abs. 1 und 4 (Einführung der Volksinitiative in der Form des ausgearbeiteten Entwurfs), in Kraft seit 1. Sept. 2006; die Aufhebung von Art. 10 und die Änderungen der Art. 102 Abs. 1, 103, 104 Abs. 1, 106, 107 und 134 Abs. 3 (Umsetzung der neuen Straf- und der neuen Zivilprozessordnung des Bundes), in Kraft seit 1. Jan. 2011; die Änderung des Art. 77 Bst. g und des Art. 123*a* (Einführung einer Schuldenbremse), in Kraft seit 1. Jan. 2011.
+[^u1-13-1]: Angenommen in der Volksabstimmung vom 17. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 5; [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^u1-13-2]: Es handelt sich um die Änderung des Art. 77 Bst. g und des Art. 123*a* (Einführung einer Schuldenbremse), in Kraft seit 1. Jan. 2011.
 
 #### Art. 14
 
@@ -1540,7 +1540,7 @@ Die Regierung bestimmt das Inkrafttreten dieser Änderung[^u1-13-2].
 
 <sup>4</sup> Ab Inkrafttreten dieser Änderung können Mitglieder der Regierung nur zweimal wiedergewählt werden; dabei werden Wahlen und Wiederwahlen, die vor dem Inkrafttreten dieser Änderung stattgefunden haben, angerechnet.
 
-[^u1-14-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^u1-14-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5; [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^u1-14-2]: Es handelt sich um die Änderungen der Art. 65 Abs. 1, 66 Abs. 2 und die Aufhebung von Art. 6 Abs. 1 der Schluss- und Übergangsbestimmungen (Änderung der Dauer der Legislaturperioden und Wiederwahl der Regierungsmitglieder), in Kraft seit 1. Juli 2010.
 
 ## Sachregister
@@ -2234,7 +2234,6 @@ Zusammenarbeit
 
 - – kantonale Schlichtungs- und Schiedsstelle 21
 - – Kantonsbürgerrecht 16
-- – neue Kanton 139
 - – souveräner Kanton der Schweizerischen Eidgenossenschaft 1<sup>2</sup>
 - – Stimm- und Wahlberechtigte in kantonalen Angelegenheiten 70<sup>1</sup>
 

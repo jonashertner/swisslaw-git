@@ -3,18 +3,18 @@ sr: "131.235"
 title: "Constitution de la République et canton du Jura, du 20 mars 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga"
 language: fr
-version: 2023-06-18
+version: 2025-01-01
 adopted: 1977-03-20
 in_force: 1977-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/fr/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20230618-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution de la République et Canton du Jura
 
-du 20 mars 1977 (État le 18 juin 2023)[^t-1]
+du 20 mars 1977 (État le 1<sup>er</sup> janvier 2025)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
@@ -30,9 +30,9 @@ Le peuple jurassien s’inspire de la Déclaration des droits de l’homme de 17
 
 En vertu de ces principes, la République et Canton du Jura, issue de l’acte de libre disposition du 23 juin 1974, déterminée à bâtir une société prospère, garante des droits fondamentaux et respectueuse de l’environnement, favorise la justice sociale, encourage la coopération entre les peuples, joue un rôle actif au sein des communautés dont elle se réclame.[^ingress-3]
 
-[^ingress-1]: Accepté en [votation populaire du 28 nov. 2010](http://www.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010. Garantie de l’Ass. féd. du 6 mars 2012 ([FF 2012 3603](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 ch. 8; [2011 7403](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
-[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-3]: Accepté en [votation populaire du 28 nov. 2010](http://www.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010. Garantie de l’Ass. féd. du 6 mars 2012 ([FF 2012 3603](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 ch. 8; [2011 7403](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
+[^ingress-1]: Accepté en votation populaire du 28 nov. 2010, en vigueur depuis le 28 nov. 2010. Garantie de l’Ass. féd. du 6 mars 2012 ([FF 2012 3603](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 ch. 8; [2011 7403](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
+[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-3]: Accepté en votation populaire du 28 nov. 2010, en vigueur depuis le 28 nov. 2010. Garantie de l’Ass. féd. du 6 mars 2012 ([FF 2012 3603](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 ch. 8; [2011 7403](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
 
 ## I. La souveraineté
 
@@ -73,7 +73,7 @@ Le français est la langue nationale et officielle de la République et Canton d
 Les armoiries de la République et Canton du Jura sont les suivantes:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/fr/xml/image/image1.png)</td><td>«Parti d’argent à la crosse épiscopale de gueules et de gueules à trois fasces d’argent.»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/fr/xml/image/image1.png)</td><td>«Parti d’argent à la crosse épiscopale de gueules et de gueules à trois fasces d’argent.»</td></tr>
 </table>
 
 ## II. Les droits fondamentaux
@@ -132,7 +132,7 @@ Le sont notamment:
 
 [^10-1]
 
-[^10-1]: Abrogé en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^10-1]: Abrogé en votation populaire du 30 nov. 2008, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 11
 
@@ -286,9 +286,9 @@ L’aide sociale incombe à l’État et aux communes.
 
 <sup>3</sup> Il en confie la gestion à un établissement de droit public.[^26-3]
 
-[^26-1]: Accepté en [votation populaire du 28 nov. 1993](http://www.admin.ch/ch/f/pore/va/19931128/index.html), en vigueur depuis le 28 nov. 1993. Garantie de l’Ass. féd. du 16 sept. 1996 ([FF 1996 IV 882](https://fedlex.data.admin.ch/eli/fga/1996/4__882_)art. 1 ch. 8, I 1249).
-[^26-2]: Accepté en [votation populaire du 26 sept. 2004](http://www.admin.ch/ch/f/pore/va/20040926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^26-3]: Accepté en [votation populaire du 28 nov. 1993](http://www.admin.ch/ch/f/pore/va/19931128/index.html), en vigueur depuis le 28 nov. 1993. Garantie de l’Ass. féd. du 16 sept. 1996 ([FF 1996 IV 882](https://fedlex.data.admin.ch/eli/fga/1996/4__882_)art. 1 ch. 8, I 1249).
+[^26-1]: Accepté en votation populaire du 28 nov. 1993, en vigueur depuis le 28 nov. 1993. Garantie de l’Ass. féd. du 16 sept. 1996 ([FF 1996 IV 882](https://fedlex.data.admin.ch/eli/fga/1996/4__882_)art. 1 ch. 8, I 1249).
+[^26-2]: Accepté en votation populaire du 26 sept. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^26-3]: Accepté en votation populaire du 28 nov. 1993, en vigueur depuis le 28 nov. 1993. Garantie de l’Ass. féd. du 16 sept. 1996 ([FF 1996 IV 882](https://fedlex.data.admin.ch/eli/fga/1996/4__882_)art. 1 ch. 8, I 1249).
 
 #### Art. 27
 
@@ -440,7 +440,7 @@ L’État institue le Bureau de la condition féminine dont les tâches sont not
 
 [^lvlIII-lvl7bis-1]
 
-[^lvlIII-lvl7bis-1]: Accepté en [votation populaire du 28 nov. 2010](http://www.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010. Garantie de l’Ass. féd. du 6 mars 2012 ([FF 2012 3603](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 ch. 8; [2011 7403](https://fedlex.data.admin.ch/eli/fga/2011/1369))
+[^lvlIII-lvl7bis-1]: Accepté en votation populaire du 28 nov. 2010, en vigueur depuis le 28 nov. 2010. Garantie de l’Ass. féd. du 6 mars 2012 ([FF 2012 3603](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 ch. 8; [2011 7403](https://fedlex.data.admin.ch/eli/fga/2011/1369))
 
 #### Art. 44a
 
@@ -621,7 +621,7 @@ La charge de membre du Gouvernement ou de juge permanent est incompatible avec t
 
 <sup>3</sup> Toute personne élue en cours de période exerce son mandat jusqu’à la fin de celle-ci.
 
-[^65-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^65-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 66
 
@@ -635,7 +635,7 @@ La charge de membre du Gouvernement ou de juge permanent est incompatible avec t
 
 <sup>4</sup> Les membres des autres autorités de l’État et des districts sont librement rééligibles.
 
-[^66-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^66-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 66a
 
@@ -645,7 +645,7 @@ La charge de membre du Gouvernement ou de juge permanent est incompatible avec t
 
 <sup>2</sup> La loi peut prévoir la dissolution du Gouvernement en cas de démission d’une majorité des membres de celui-ci à la suite d’une procédure de destitution visant l’un d’eux. Elle en règle la procédure et les conditions.
 
-[^66a-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 18 juin 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 4,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^66a-1]: Accepté en votation populaire du 18 juin 2023, en vigueur depuis le 18 juin 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 4,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 67
 
@@ -671,7 +671,7 @@ Les débats du Parlement et des conseils généraux sont publics.
 
 <sup>3</sup> L’administration cantonale est décentralisée.
 
-[^69-1]: Accepté en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^69-1]: Accepté en votation populaire du 29 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 
 ### 2. Les droits politiques
 
@@ -687,7 +687,7 @@ Les débats du Parlement et des conseils généraux sont publics.
 
 <sup>4</sup> La loi règle les cas dans lesquels un électeur est privé de ses droits politiques.
 
-[^70-1]: Abrogé en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), avec effet au 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^70-1]: Abrogé en votation populaire du 29 nov. 1998, avec effet au 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 
 #### Art. 71
 
@@ -739,8 +739,8 @@ Les électeurs de la commune élisent:
 
 <sup>6</sup> Les membres du Gouvernement et les maires sont élus au scrutin majoritaire.[^74-2]
 
-[^74-1]: Abrogé en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), avec effet au 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
-[^74-2]: Accepté en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^74-1]: Abrogé en votation populaire du 29 nov. 1998, avec effet au 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^74-2]: Accepté en votation populaire du 29 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 
 #### Art. 75
 
@@ -755,7 +755,7 @@ Les électeurs de la commune élisent:
 <sup>4</sup> L’initiative peut être retirée aux conditions fixées par la loi.
 
 [^75-1]: Accepté en votation populaire 5 juin 2016, en vigueur depuis le 5 juin 2016. Garantie de l’Ass. féd. du 12 juin 2017 ([FF 2017 4141](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 5, [1383](https://fedlex.data.admin.ch/eli/fga/2017/279)).
-[^75-2]: Accepté en [votation populaire du 26 sept. 2004](http://www.admin.ch/ch/f/pore/va/20040926/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2006. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^75-2]: Accepté en votation populaire du 26 sept. 2004, en vigueur depuis le 1<sup>er</sup> sept. 2006. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 76
 
@@ -771,8 +771,8 @@ Les électeurs de la commune élisent:
 
 <sup>5</sup> Si le peuple accepte à la fois l’initiative et le contre-projet, est adopté le projet qui a obtenu le plus grand nombre de voix.
 
-[^76-1]: Accepté en [votation populaire du 26 sept. 2004](http://www.admin.ch/ch/f/pore/va/20040926/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2006. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^76-2]: Accepté en [votation populaire du 26 sept. 2004](http://www.admin.ch/ch/f/pore/va/20040926/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2006. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^76-1]: Accepté en votation populaire du 26 sept. 2004, en vigueur depuis le 1<sup>er</sup> sept. 2006. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^76-2]: Accepté en votation populaire du 26 sept. 2004, en vigueur depuis le 1<sup>er</sup> sept. 2006. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 77
 
@@ -788,7 +788,7 @@ Sont soumis au vote populaire:
 - f. les traités, concordats et autres conventions de droit public qui dérogent à la Constitution, la complètent ou entraînent des dépenses soumises au référendum obligatoire;
 - g.[^77-1] le budget de l’État conformément à l’art. 123*a*, al. 4 et 6.
 
-[^77-1]: Acceptée en [votation populaire du 17 mai 2009](http://www.admin.ch/ch/f/pore/va/20090517/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 5; [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^77-1]: Acceptée en votation populaire du 17 mai 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 5; [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
 
 #### Art. 78
 
@@ -1050,8 +1050,8 @@ Les tribunaux sont indépendants.
 
 <sup>2</sup> Le Tribunal cantonal statue en première instance dans les cas prévus par la loi.
 
-[^102-1]: Accepté en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
-[^102-2]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^102-1]: Accepté en votation populaire du 29 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^102-2]: Accepté en votation populaire du 30 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 103
 
@@ -1059,7 +1059,7 @@ Les tribunaux sont indépendants.
 
 La justice de deuxième instance est rendue par le Tribunal cantonal.
 
-[^103-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^103-1]: Accepté en votation populaire du 30 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 104
 
@@ -1077,7 +1077,7 @@ Elle juge dans les limites de la loi:
 - d. les conflits de compétence entre autorités cantonales, à moins que la Cour constitutionnelle elle-même y soit partie;
 - e. les autres litiges indiqués par la loi.
 
-[^104-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^104-1]: Accepté en votation populaire du 30 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 105
 
@@ -1091,7 +1091,7 @@ En matière pénale, la protection des mineurs relève d’une juridiction parti
 
 L’action publique est exercée par le ministère public.
 
-[^106-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^106-1]: Accepté en votation populaire du 30 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 #### Art. 107
 
@@ -1099,7 +1099,7 @@ L’action publique est exercée par le ministère public.
 
 La loi règle les modalités d’élection des autorités judiciaires, leur organisation et leurs compétences, ainsi que la procédure dans les limites du droit fédéral.
 
-[^107-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^107-1]: Accepté en votation populaire du 30 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 ## V. Les districts et les communes
 
@@ -1117,16 +1117,18 @@ La loi règle les modalités d’élection des autorités judiciaires, leur orga
 
 <sup>4</sup> …[^108-2]
 
-[^108-1]: Accepté en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
-[^108-2]: Abrogé en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), avec effet au 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^108-1]: Accepté en votation populaire du 29 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^108-2]: Abrogé en votation populaire du 29 nov. 1998, avec effet au 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 
 #### Art. 109
 
 **Nombre et étendue**
 
-<sup>1</sup> Le territoire du canton est divisé en trois districts: Delémont, Les Franches-Montagnes, Porrentruy.
+<sup>1</sup> Le territoire du canton est divisé en quatre districts: Delémont, Les Franches-Montagnes, Porrentruy, Moutier.[^109-1]
 
 <sup>2</sup> Les districts sont délimités par la loi.
+
+[^109-1]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 5, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### 2. Les communes
 
@@ -1290,7 +1292,7 @@ Les contribuables participent solidairement, selon leur capacité économique, a
 
 <sup>7</sup> Au surplus, la loi règle les modalités du frein à l’endettement.
 
-[^123a-1]: Accepté en [votation populaire du 17 mai 2009](http://www.admin.ch/ch/f/pore/va/20090517/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 5; [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^123a-1]: Accepté en votation populaire du 17 mai 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 5; [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
 
 #### Art. 124
 
@@ -1384,7 +1386,7 @@ Larégale des mines et la régale des sels sont réservées à l’État.
 
 <sup>4</sup> La loi règle les cas dans lesquels l’État verse des subsides aux Églises.
 
-[^134-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^134-1]: Accepté en votation populaire du 30 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 5, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 ## VIII. La revision de la Constitution
 
@@ -1424,11 +1426,9 @@ Larégale des mines et la régale des sels sont réservées à l’État.
 
 #### Art. 139
 
-**Processus tendant à la création d’un nouveau canton**[^139-1]
+[^139-1]
 
-Le Gouvernement est habilité à engager un processus tendant à la création d’un nouveau canton couvrant les territoires du Jura bernois et de la République et Canton du Jura, dans le respect du droit fédéral et des cantons concernés.
-
-[^139-1]: Accepté en [votation populaire du 24 nov. 2013](http://www.admin.ch/ch/f/pore/va/20131124/index.html), en vigueur depuis le 24 nov. 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 10; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^139-1]: Abrogé en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 10 mars 2025 ([FF 2025 942](https://fedlex.data.admin.ch/eli/fga/2025/942)art. 1; [2024 3173](https://fedlex.data.admin.ch/eli/fga/2024/3173)).
 
 ## Dispositions finales et transitoires
 
@@ -1440,7 +1440,7 @@ L’Assemblée constituante décrète l’entrée en vigueur simultanée ou succ
 
 La Constitution jurassienne remplace celle du canton de Berne[^u1-2-1] sur le territoire de la République et Canton du Jura.
 
-[^u1-2-1]: [RS 131.212](https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga)
+[^u1-2-1]: [RS 131.212](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4781)
 
 #### Art. 3
 
@@ -1470,7 +1470,7 @@ La Constitution jurassienne remplace celle du canton de Berne[^u1-2-1] sur le te
 
 <sup>3</sup> Les contestations sur l’exercice des droits politiques, l’organisation des élections et la constatation des résultats sont jugées par une commission de l’Assemblée constituante créée à cet effet.
 
-[^u1-6-1]: Abrogé en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), avec effet au 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^u1-6-1]: Abrogé en votation populaire du 7 mars 2010, avec effet au 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 7
 
@@ -1506,7 +1506,7 @@ En dérogation à l’art. 62, al. 4[^u1-8-1] de la Constitution, aucun membre d
 
 <sup>4</sup> Jusqu’à l’entrée en vigueur de la modification de la loi d’organisation judiciaire, le Gouvernement peut arrêter les dispositions nécessaires par voie d’ordonnance.
 
-[^u1-11-1]: Accepté en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
+[^u1-11-1]: Accepté en votation populaire du 29 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 14 juin 2000 ([FF 2000 3419](https://fedlex.data.admin.ch/eli/fga/2000/768)art. 1 ch. 9, [1048](https://fedlex.data.admin.ch/eli/fga/2000/227)).
 [^u1-11-2]: Il s’agit de la mod. des art. 69, 70, 74, 102 et 108 (Réformede l’organisation judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2001.
 
 #### Art. 12
@@ -1515,7 +1515,7 @@ En dérogation à l’art. 62, al. 4[^u1-8-1] de la Constitution, aucun membre d
 
 Le Gouvernement fixe l’entrée en vigueur de la présente modification[^u1-12-2].
 
-[^u1-12-1]: Accepté en [votation populaire du 26 sept. 2004](http://www.admin.ch/ch/f/pore/va/20040926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^u1-12-1]: Accepté en votation populaire du 26 sept. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 7, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 [^u1-12-2]: Il s’agit de la mod. de l’art. 26 al. 2 (Transfert des charges de santé au canton), en vigueur depuis le 1<sup>er</sup> janv. 2005.
 
 #### Art. 13
@@ -1524,8 +1524,8 @@ Le Gouvernement fixe l’entrée en vigueur de la présente modification[^u1-12-
 
 Le Gouvernement fixe l’entrée en vigueur de la présente modification[^u1-13-2].
 
-[^u1-13-1]: Acceptée en [votation populaire du 17 mai 2009](http://www.admin.ch/ch/f/pore/va/20090517/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 5; [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
-[^u1-13-2]: Il s’agit de la mod.: - des art. 75, al. 1 et 3, et 76, al. 1 et 4 (Introduction de l’initiative populaire rédigée de toutes pièces), en vigueur depuis le 1<sup>er</sup> sept. 2006; - des art. 102 al. 1, 103, 104 al. 1, 106, 107, 134 al. 3 et de l’abrogation de l’art. 10 (Mise en oeuvre des codes suisses de procédure pénale et civile), en vigueur depuis le 1<sup>er</sup> janv. 2011. - des art. 77, let. g et 123*a* (Introduction d’un mécanisme de frein à l’endettement), en vigueur depuis le 1<sup>er</sup> janv. 2011.
+[^u1-13-1]: Acceptée en votation populaire du 17 mai 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 5; [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^u1-13-2]: Il s’agit de la mod. des art. 77, let. g et 123*a* (Introduction d’un mécanisme de frein à l’endettement), en vigueur depuis le 1<sup>er</sup> janv. 2011.
 
 #### Art. 14
 
@@ -1539,7 +1539,7 @@ Le Gouvernement fixe l’entrée en vigueur de la présente modification[^u1-13-
 
 <sup>4</sup> Dès l’entrée en vigueur de la présente modification, les membres du Gouvernement ne sont rééligibles que deux fois, les élections et réélections antérieures à l’entrée en vigueur de la présente modification étant comptabilisées.
 
-[^u1-14-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^u1-14-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^u1-14-2]: Il s’agit de la mod. des art. 65 al. 1, 66 al. 2 et de l’abrogation de l’art. 6 al. 1 disp. fin. et trans. (Mod. de la durée des législatures et réélection des membres du Gouvernement), en vigueur depuis le 1<sup>er</sup> juil. 2010.
 
 ## Index des matières
@@ -2019,7 +2019,6 @@ Votes populaires
 - – vote populaire 77 g, 123*a* <sup>4,6</sup>
 
 - – canton souverain de la Confédération 1<sup>2</sup>
-- – création d’un nouveau canton 139
 - – droit de cité cantonal 16
 - – électeurs en matière cantonale 70<sup>1</sup>
 - – organe cantonal de conciliation et d’arbitrage 21
@@ -2347,7 +2346,6 @@ Votes populaires
   - – des membres du Gouvernement 66<sup>2</sup>, 14 disp. fin. et trans.
   - – du président et du vice-président 66<sup>3</sup>
 
-- [tab] – processus création d’un nouveau canton 139
 - – réunion du Parlement 87 c
 - – séparation des pouvoirs 55
 - – siège du Gouvernement 69<sup>2</sup>
