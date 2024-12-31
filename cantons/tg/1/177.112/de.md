@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "177.112"
-title: Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals
+title: Rechtsstellungsverordnung
 short: RSV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-06
+version: 2025-01-01
+version_adopted: 2025-02-25
 adopted: 2003-12-09
 in_force: 2004-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.112"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2572/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2883/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals
+# Rechtsstellungsverordnung
 
 RSV
 
 (RSV)
 
-vom 09.12.2003 (Stand 01.01.2023)
+vom 09.12.2003 (Stand 01.01.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -563,6 +562,20 @@ vom 09.12.2003 (Stand 01.01.2023)
 - 4\. 27 Arbeitstage bis zum Kalenderjahr, in dem das 59. Altersjahr vollendet wird
 - 5\. 30 Arbeitstage ab dem Kalenderjahr, in dem das 60. Altersjahr vollendet wird
 
+#### § 42a
+
+**Ferienkauf**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter ab vollendetem 21. Altersjahr, die sich nicht mehr in Ausbildung befinden, können ihren jährlichen Ferienanspruch pro Kalenderjahr nach Ablauf der Probezeit um 5 oder 10 Arbeitstage erhöhen, wenn dies betrieblich möglich ist und ihre laufenden Ferienguthaben gemäss den geltenden Bezugsregelungen abgebaut sind.
+
+<sup>2</sup> Befristet angestellte Mitarbeiterinnen und Mitarbeiter sowie Mitarbeiterinnen und Mitarbeiter im gekündigten Dienstverhältnis können keine zusätzlichen Ferien erwerben.
+
+<sup>3</sup> Das Gesuch für den Erwerb der zusätzlichen Ferien ist von der vorgesetzten Stelle zu bewilligen. Es ist wenigstens drei Monate vor dem geplanten Bezug der zusätzlichen Ferien einzureichen.
+
+<sup>4</sup> Der Wert der zusätzlich erworbenen Ferien wird unter Berücksichtigung des individuellen Ferienanspruchs gemäss § 42 in der Regel im Folgemonat des Bezugs von der Besoldung in Abzug gebracht.
+
+<sup>5</sup> Die zusätzlich erworbenen Ferien sind von der Ferienkürzung gemäss § 46 ausgenommen. Im Übrigen gelten die Bestimmungen von § 43 bis § 45.
+
 #### § 43
 
 **Ferienbezug**
@@ -724,9 +737,9 @@ vom 09.12.2003 (Stand 01.01.2023)
 
 <sup>1</sup> Für die Leistungs- und Gesamtbeurteilung werden folgende fünf Qualifikationen eingesetzt:
 
-- 1\. «sehr gut erfüllt»
-- 2\. «gut erfüllt»
-- 3\. «erfüllt»
+- 1\. «deutlich übertroffen»
+- 2\. «übertroffen»
+- 3\. «umfassend erfüllt»
 - 4\. «teilweise erfüllt»
 - 5\. «nicht erfüllt»
 
