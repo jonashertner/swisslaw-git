@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordinanza del 12 aprile 2006 concernente il sistema d'informazione centrale sulla migrazione (Ordinanza SIMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20240101/it"
 
 (Ordinanza SIMIC)
 
-del 12 aprile 2006 (Stato 1° gennaio 2024)
+del 12 aprile 2006 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -57,7 +57,7 @@ Nella presente ordinanza s’intende per:
   - 3\. l’accordo del 21 giugno 1999[^2-7] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone,
   - 4\. l’accordo del 21 giugno 2001[^2-8] di emendamento della Convenzione istitutiva dell’Associazione europea di libero scambio (AELS),
   - 5\.[^2-9] gli Accordi di associazione alla normativa di Schengen e di Dublino; tali accordi sono menzionati nell’allegato 4,
-  - [tab] 6.[^2-10] l’accordo del 25 febbraio 2019[^2-11] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e d’Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone,
+  - 6\.[^2-10] l’accordo del 25 febbraio 2019[^2-11] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e d’Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone,
   - 7\.[^2-12] gli articoli 66*a* e 66*a*<sup>bis</sup> del Codice penale svizzero (CP)[^2-13] e gli articoli 49*a* e 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^2-14] (CPM);
 
 - b.
@@ -73,24 +73,24 @@ Nella presente ordinanza s’intende per:
 - d. sparizione: una persona del settore dell’asilo è considerata sparita se non si è annunciata presso il pertinente Cantone di attribuzione o se non è più raggiungibile al suo domicilio durante la procedura d’asilo;
 - e. ricomparsa: si tratta di ricomparsa quando una persona del settore dell’asilo, considerata sparita, si annuncia nuovamente presso le autorità cantonali competenti oppure è nuovamente raggiungibile al suo domicilio durante la procedura d’asilo.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 [^2-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^2-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-5]: Nuovo testo giusta l’all. n. II 3 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^2-5]: Nuovo testo giusta l’all. cifra II n. 3 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^2-6]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^2-7]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^2-8]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^2-9]: Introdotto dal n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^2-10]: Introdotta dal n. III 3 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^2-9]: Introdotto dalla cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^2-10]: Introdotta dalla cifra III n. 3 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^2-11]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^2-12]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^2-12]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
 [^2-13]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^2-14]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^2-15]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^2-16]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
 [^2-17]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^2-18]: Introdotto dal n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^2-18]: Introdotto dalla cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 ## Sezione 2: Struttura e contenuto del SIMIC
 
@@ -118,7 +118,7 @@ A ogni ricerca nel SIMIC concernente una persona o effettuata prima di rilasciar
 <sup>3</sup> Per la fatturazione il SIMIC dispone di un’interfaccia con il sistema d’informazioni finanziarie utilizzato dalla Segreteria di Stato della migrazione (SEM).[^3-11]
 
 [^3-1]: Abrogata dall’all. 4 dell’O del 18 dic. 2013 sul sistema centrale d’informazione visti e sul sistema nazionale d’informazione visti, con effetto dal 20 gen. 2014 ([RU 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
 [^3-3]: Nuovo testo giusta l’all. n. 1 dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 [^3-4]: [RS 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
 [^3-5]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
@@ -126,8 +126,8 @@ A ogni ricerca nel SIMIC concernente una persona o effettuata prima di rilasciar
 [^3-7]: [RS 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
 [^3-8]: Introdotta dall’all. n. 1 dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 [^3-9]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
-[^3-10]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
-[^3-11]: Introdotto dal n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2177](https://fedlex.data.admin.ch/eli/oc/2017/201)).
+[^3-10]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
+[^3-11]: Introdotto dalla cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2177](https://fedlex.data.admin.ch/eli/oc/2017/201)).
 
 #### Art. 4
 
@@ -155,8 +155,8 @@ La parte generale con i dati di base comprende i dati personali delle categorie 
 <sup>4</sup> ...[^4-3]
 
 [^4-1]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta l’all. n. II 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^4-3]: Introdotto dal n. I dell’O del 24 ott. 2007 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Abrogato dal n. I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^4-3]: Introdotto dalla cifra I dell’O del 24 ott. 2007 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Abrogato dalla cifra I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
 
 ## Sezione 3: Obblighi di notificazione
 
@@ -189,11 +189,11 @@ Le autorità cantonali e comunali competenti in materia di stranieri, le autorit
 
 <sup>2</sup> Le autorità cantonali e comunali di aiuto sociale notificano la sparizione e la ricomparsa di persone del settore dell’asilo.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
 [^5-3]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^5-4]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
-[^5-5]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^5-4]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^5-5]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
 
 #### Art. 6
 
@@ -213,23 +213,17 @@ Le autorità menzionate qui sotto notificano i dati seguenti:[^6-2]
 
 <sup>2</sup> La SEM può ricevere notificazioni concernenti stranieri che hanno lasciato la Svizzera o la cui dimora è ignota e che non adempiono i loro obblighi di diritto pubblico o alimentari.
 
-[^6-1]: Nuovo testo giusta il n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^6-2]: Nuovo testo giusta il n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^6-3]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2177](https://fedlex.data.admin.ch/eli/oc/2017/201)).
+[^6-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^6-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2177](https://fedlex.data.admin.ch/eli/oc/2017/201)).
 [^6-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^6-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 6a
 
-**Dati relativi alla procedura di notificazione ai fini dell’esercizio di un’attività lucrativa di breve durata**[^6a-1]
+[^6a-1]
 
-<sup>1</sup> Se la notifica secondo l’articolo 6 della legge dell’8 ottobre 1999[^6a-2] sui lavoratori distaccati o l’articolo 9 capoverso 1<sup>bis</sup> dell’ordinanza del 22 maggio 2002[^6a-3] sull’introduzione della libera circolazione delle persone è effettuata on line, i relativi dati personali sono registrati in una memoria intermedia sui server del Dipartimento federale di giustizia e polizia (DFGP) e in seguito trasferiti nel SIMIC.
-
-<sup>2</sup> I dati registrati nella memoria intermedia che non sono stati aggiornati da due anni sono distrutti automaticamente.
-
-[^6a-1]: Introdotto dal n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^6a-2]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^6a-3]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^6a-1]: Introdotto dalla cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Abrogato dalla cifra I dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 716](https://fedlex.data.admin.ch/eli/oc/2024/716)).
 
 #### Art. 7
 
@@ -249,9 +243,9 @@ I dati personali possono essere notificati:
 
 <sup>3</sup> Esso registra immediatamente i dati notificati nel SIMIC.[^7-3]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
-[^7-3]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 #### Art. 8
 
@@ -261,7 +255,7 @@ I dati personali possono essere notificati:
 
 Il Tribunale amministrativo federale annuncia periodicamente in forma elettronica alla SEM i dati concernenti il deposito e l’evasione dei ricorsi.
 
-[^8-1]: Nuovo testo giusta il n. II 7 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^8-1]: Nuovo testo giusta la cifra II n. 7 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ## Sezione 4: Accesso al SIMIC
 
@@ -293,7 +287,11 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
   - 6\.[^9-11] il servizio incaricato della gestione dell’AFIS: esclusivamente per l’identificazione di persone ai sensi dell’articolo 102 capoverso 1 LStrI[^9-12],
   - 7\. il servizio competente presso la SEM di comunicazione in materia di riciclaggio di denaro: esclusivamente per l’identificazione delle persone e l’accertamento del loro statuto di dimora effettuati nell’ambito dei suoi compiti legali nella lotta contro il riciclaggio di denaro, la criminalità organizzata e il finanziamento del terrorismo di cui all’articolo 23 della legge federale del 10 ottobre 1997[^9-13] sul riciclaggio di denaro,
   - 8\.[^9-14] il servizio competente per l’adempimento dei compiti secondo la legge federale del 25 settembre 2020[^9-15] sui precursori di sostanze esplodenti (LPre): esclusivamente per l’identificazione delle persone nell’ambito del trattamento delle domande di autorizzazione di acquisto e di autorizzazione eccezionale, della verifica di tali autorizzazioni e del trattamento di segnalazioni di eventi sospetti;
-  - c.[^9-16] i seguenti servizi dell’Ufficio federale di giustizia:
+
+- c.[^9-16]
+
+  i seguenti servizi dell’Ufficio federale di giustizia:
+
   - 1\. la Divisione Assistenza giudiziaria internazionale: in relazione con procedimenti di assistenza giudiziaria internazionale ai sensi della legge federale del 20 marzo 1981[^9-17] sull’assistenza internazionale in materia penale,
   - 2\. l’Ambito direzionale Diritto privato: in relazione con procedure ai sensi della legge federale del 21 dicembre 2007[^9-18] sul rapimento internazionale dei minori e sulle Convenzioni dell’Aia sulla protezione dei minori e degli adulti (LF-RMA);
 
@@ -336,48 +334,48 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
 - s.[^9-40] le autorità cantonali di esecuzione delle pene: per la gestione dei casi e per l’esecuzione di sentenze e oneri ai sensi del CP[^9-41];
 - t.[^9-42] il Ministero pubblico della Confederazione: per la ricerca di indirizzi nell’ambito dell’esecuzione di sentenze.
 
-[^9-1]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^9-1]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
 [^9-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^9-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^9-4]: Nuovo testo giusta il n. I 4 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-4]: Nuovo testo giusta la cifra I n. 4 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^9-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^9-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-7]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
+[^9-7]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
 [^9-8]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^9-9]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^9-9]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
 [^9-10]: Nuovo testo giusta l’all. n. 3 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^9-11]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^9-11]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 [^9-12]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^9-13]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^9-14]: Introdotto dall’all. 2 n. 1 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 [^9-15]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^9-16]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-16]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 [^9-17]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^9-18]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^9-19]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
-[^9-20]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^9-19]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^9-20]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
 [^9-21]: Nuovo testo giusta l’all. 4 dell’O del 18 dic. 2013 sul sistema centrale d’informazione visti e sul sistema nazionale d’informazione visti, con effetto dal 20 gen. 2014 ([RU 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
 [^9-22]: Nuova espr. giusta l’all. n. II 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^9-23]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
 [^9-24]: [RS 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
-[^9-25]: Nuovo testo giusta l’all. n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^9-25]: Nuovo testo giusta l’all. cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^9-26]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^9-27]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 [^9-28]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^9-29]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
 [^9-30]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^9-31]: Introdotta dall’all. n. 9 dell’O del 12 dic. 2008 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Nuovo testo giusta il n. I 4 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-31]: Introdotta dall’all. n. 9 dell’O del 12 dic. 2008 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Nuovo testo giusta la cifra I n. 4 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^9-32]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^9-33]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-34]: Introdotta dal n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-35]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-34]: Introdotta dalla cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-35]: Introdotta dalla cifra I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
 [^9-36]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^9-37]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogata dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-38]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
+[^9-37]: Introdotta dalla cifra I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogata dalla cifra I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-38]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
 [^9-39]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 1372/2013, GU L 346 del 20.12.2013, pag. 27.
-[^9-40]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
+[^9-40]: Introdotta dalla cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
 [^9-41]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^9-42]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
+[^9-42]: Introdotta dalla cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
 
 #### Art. 10
 
@@ -406,68 +404,64 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
   - 6\. il servizio incaricato della gestione dell’AFIS: esclusivamente per l’identificazione di persone ai sensi dell’articolo 99 LAsi[^10-6],
   - 7\. il servizio competente presso l’Ufficio di comunicazione in materia di riciclaggio di denaro: esclusivamente per l’identificazione delle persone e l’accertamento del loro statuto di dimora effettuati nell’ambito dei suoi compiti legali nella lotta contro il riciclaggio di denaro, la criminalità organizzata e il finanziamento del terrorismo di cui all’articolo 23 della legge federale del 10 ottobre 1997[^10-7] sul riciclaggio di denaro,
   - 8\.[^10-8] il servizio competente per l’adempimento dei compiti secondo la LPre[^10-9]: esclusivamente per l’identificazione delle persone nell’ambito del trattamento delle domande di autorizzazione di acquisto e di autorizzazione eccezionale, della verifica di tali autorizzazioni e del trattamento di segnalazioni di eventi sospetti;
-  - c.[^10-10] i seguenti servizi dell’Ufficio federale di giustizia:
-  - 1\. la Divisione Assistenza giudiziaria internazionale: in relazione con procedimenti di assistenza giudiziaria internazionale ai sensi della legge federale del 20 marzo 1981[^10-11] sull’assistenza internazionale in materia penale,
-  - 2\. l’Ambito direzionale Diritto privato: in relazione con procedure ai sensi della LF-RMA[^10-12];
 
-- d.[^10-13] il Tribunale amministrativo federale: per l’istruzione dei ricorsi conformemente alla LAsi;
+- c.[^10-10]
+- d.[^10-11] il Tribunale amministrativo federale: per l’istruzione dei ricorsi conformemente alla LAsi;
 - e. i posti di frontiera delle autorità cantonali di polizia e il Corpo delle guardie di confine: per l’esecuzione dei controlli delle persone e il rilascio di visti in via eccezionale;
 - f. il Controllo federale delle finanze: per la vigilanza finanziaria;
 - g. la Centrale di compensazione: per il chiarimento delle domande di prestazioni nonché per l’assegnazione e la verifica del numero AVS;
 - h. le autorità fiscali cantonali: per i loro compiti in materia di riscossione dell’imposta alla fonte;
-- i.[^10-14] gli uffici dello stato civile, le autorità cantonali di vigilanza sullo stato civile e l’Ufficio federale dello stato civile per l’identificazione delle persone in relazione con fatti di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica, nonché per evitare l’elusione del diritto in materia di stranieri secondo gli articoli 97*a* capoverso 1 del Codice civile[^10-15] e 6 capoverso 2 della legge federale del 18 giugno 2004[^10-16] sull’unione domestica registrata;
-- j.[^10-17] i servizi competenti per i registri di cui all’articolo 2 capoverso 2 della legge del 23 giugno 2006[^10-18] sull’armonizzazione dei registri nell’ambito dell’armonizzazione dei registri e dell’aggiornamento del numero AVS;
-- k.[^10-19] il SIC: esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a LAIn[^10-20], nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi della LCit[^10-21], della LStrI[^10-22] e della LAsi;
-- l.[^10-23]
+- i.[^10-12] gli uffici dello stato civile, le autorità cantonali di vigilanza sullo stato civile e l’Ufficio federale dello stato civile per l’identificazione delle persone in relazione con fatti di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica, nonché per evitare l’elusione del diritto in materia di stranieri secondo gli articoli 97*a* capoverso 1 del Codice civile[^10-13] e 6 capoverso 2 della legge federale del 18 giugno 2004[^10-14] sull’unione domestica registrata;
+- j.[^10-15] i servizi competenti per i registri di cui all’articolo 2 capoverso 2 della legge del 23 giugno 2006[^10-16] sull’armonizzazione dei registri nell’ambito dell’armonizzazione dei registri e dell’aggiornamento del numero AVS;
+- k.[^10-17] il SIC: esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a LAIn[^10-18], nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi della LCit[^10-19], della LStrI[^10-20] e della LAsi;
+- l.[^10-21]
 
   l’Amministrazione federale delle contribuzioni, per l’adempimento dei suoi compiti:
 
   - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sulle prestazioni che i contribuenti effettuano a titolo oneroso sul territorio svizzero (imposta sulle prestazioni eseguite sul territorio svizzero) e sull’acquisto di prestazioni di imprese con sede all’estero da parte di beneficiari che si trovano sul territorio svizzero (imposta sull’acquisto) e nell’ambito dell’applicazione dell’imposta preventiva,
   - 2\. nell’ambito dell’esecuzione di procedimenti penali e di procedimenti di assistenza amministrativa e giudiziaria;
 
-- m.[^10-24]
+- m.[^10-22]
 
   l’UDSC, per l’adempimento dei suoi compiti:
 
   - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sull’importazione di beni (imposta sull’importazione),
   - 2\. nell’ambito dell’antifrode doganale per l’identificazione delle persone;
 
-- n.[^10-25] ...
-- o.[^10-26] le rappresentanze svizzere all’estero e le missioni: per la verifica dell’esistenza di una procedura d’asilo concernente un richiedente;
-- p.[^10-27] la Segreteria di Stato, la Direzione politica e la Direzione consolare del DFAE: per la verifica dell’esistenza di una procedura d’asilo concernente un richiedente;
-- q.[^10-28] le autorità cantonali di esecuzione delle pene: per la gestione dei casi e per l’esecuzione di sentenze e oneri ai sensi del CP[^10-29];
-- r.[^10-30] il Ministero pubblico della Confederazione: per la ricerca di indirizzi nell’ambito dell’esecuzione di sentenze
+- n.[^10-23] ...
+- o.[^10-24] le rappresentanze svizzere all’estero e le missioni: per la verifica dell’esistenza di una procedura d’asilo concernente un richiedente;
+- p.[^10-25] la Segreteria di Stato, la Direzione politica e la Direzione consolare del DFAE: per la verifica dell’esistenza di una procedura d’asilo concernente un richiedente;
+- q.[^10-26] le autorità cantonali di esecuzione delle pene: per la gestione dei casi e per l’esecuzione di sentenze e oneri ai sensi del CP[^10-27];
+- r.[^10-28] il Ministero pubblico della Confederazione: per la ricerca di indirizzi nell’ambito dell’esecuzione di sentenze
 
 [^10-1]: Nuovo testo giusta l’all. n. 9 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
 [^10-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^10-4]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
 [^10-5]: Nuovo testo giusta l’all. n. 3 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 [^10-6]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^10-7]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^10-8]: Introdotto dall’all. 2 n. 1 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 [^10-9]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^10-10]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^10-11]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^10-12]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^10-13]: Nuovo testo giusta il n. II 7 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^10-14]: Nuovo testo giusta l’all. n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^10-15]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^10-16]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^10-17]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^10-18]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^10-19]: Introdotta dall’all. n. 9 dell’O del 12 dic. 2008 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^10-20]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^10-21]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^10-22]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^10-23]: Introdotta dal n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^10-24]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^10-25]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogata dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^10-26]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^10-27]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^10-28]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
-[^10-29]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^10-30]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
+[^10-10]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^10-11]: Nuovo testo giusta la cifra II n. 7 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^10-12]: Nuovo testo giusta l’all. cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^10-13]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-14]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^10-15]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^10-16]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^10-17]: Introdotta dall’all. n. 9 dell’O del 12 dic. 2008 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^10-18]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^10-19]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^10-20]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^10-21]: Introdotta dalla cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^10-22]: Introdotta dalla cifra I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^10-23]: Introdotta dalla cifra I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogata dalla cifra I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^10-24]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
+[^10-25]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
+[^10-26]: Introdotta dalla cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
+[^10-27]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^10-28]: Introdotta dalla cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 247](https://fedlex.data.admin.ch/eli/oc/2023/247)).
 
 #### Art. 11
 
@@ -541,7 +535,7 @@ La SEM può comunicare dati personali resi anonimi:
 
 <sup>2</sup> ...[^14-1]
 
-[^14-1]: Abrogato dall’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-1]: Abrogato dall’all. 2 cifra II n. 8 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
 
@@ -557,7 +551,7 @@ La SEM può comunicare dati personali resi anonimi:
 
 [^15a-1]
 
-[^15a-1]: Introdotto dall’all. n. 2 dell’O del 17 dic. 2010 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Abrogato dal n. I dell’O del 19 feb. 2020, con effetto dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^15a-1]: Introdotto dall’all. n. 2 dell’O del 17 dic. 2010 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Abrogato dalla cifra I dell’O del 19 feb. 2020, con effetto dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
 
 ## Sezione 6: Protezione dei dati e sicurezza informatica
 
@@ -586,10 +580,10 @@ La sicurezza dei dati è retta:
 
 <sup>2</sup> La SEM, le autorità di cui agli articoli 9 e 10, l’Ufficio federale di statistica, l’Organizzazione svizzera d’aiuto ai rifugiati, i terzi incaricati della tenuta dei conti di garanzia secondo la LAsi[^17-7], la Cassa di compensazione svizzera e le casse di compensazione cantonali adottano, ciascuno nel proprio ambito specifico, le misure d’organizzazione e d’ordine tecnico atte a salvaguardare la sicurezza dei dati personali.
 
-[^17-1]: Nuovo testo giusta l’all. 2 n. II 6 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^17-2]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-1]: Nuovo testo giusta l’all. 2 cifra II n. 6 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^17-2]: Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^17-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-4]: Nuovo testo giusta l’all. 2 n. II 6 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^17-4]: Nuovo testo giusta l’all. 2 cifra II n. 6 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^17-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^17-6]: Nuovo testo giusta l’all. n. 5 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^17-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
@@ -621,10 +615,10 @@ La SEM distrugge i dati personali non degni di archiviazione contenuti nel SIMIC
 
 <sup>5</sup> Se in uno dei casi di cui al capoverso 4 lettera d è stata emessa una misura di allontanamento o di respingimento, i dati personali sono distrutti al più presto cinque anni dopo lo scadere della misura.
 
-[^18-1]: Nuova espressione giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)). Di detta mod. è stato tenuto conto in tutto il presente testo.
-[^18-2]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^18-1]: Nuova espressione giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)). Di detta mod. è stato tenuto conto in tutto il presente testo.
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 [^18-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^18-4]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^18-4]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 [^18-5]: Introdotta dall’all. n. 2 dell’O del 17 dic. 2010, in vigore dal 24 gen. 2011 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)).
 [^18-6]: Introdotta dall’all. n. 1 dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
@@ -643,9 +637,9 @@ La SEM distrugge i dati personali non degni di archiviazione contenuti nel SIMIC
 [^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^19-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^19-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^19-4]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-4]: Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-5]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-6]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-6]: Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 7: Statistiche e controlli
 
@@ -677,9 +671,9 @@ Collabora alla stesura della statistica federale sullo stato annuale della popol
 [^20-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^20-6]: Tali Acc. sono menzionati nell’all. 4 n. 1.
 [^20-7]: Tali Acc. sono menzionati nell’all. 4 n. 2.
-[^20-8]: Nuovo testo giusta il n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^20-8]: Nuovo testo giusta la cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^20-9]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^20-10]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^20-10]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 #### Art. 21
 
@@ -706,9 +700,9 @@ Deve alla SEM un emolumento a copertura delle spese:
 
 <sup>4</sup> Per il rimanente sono applicabili le disposizioni generali dell’ordinanza del 24 ottobre 2007[^22-2] sugli emolumenti LStrI.[^22-3]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 [^22-2]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
-[^22-3]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 
 ## Sezione 9: Disposizioni finali
 
@@ -718,7 +712,7 @@ Deve alla SEM un emolumento a copertura delle spese:
 
 L’ordinanza del 23 novembre 1994[^23-1] sul Registro centrale degli stranieri è abrogata.
 
-[^23-1]: [[RU 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194);[1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169);[2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481);[2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 3;[2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 1; [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 4;[2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203)]
+[^23-1]: [[RU 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194);[1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169);[2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481);[2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 3;[2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 1; [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)cifra II n. 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 4;[2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203)]
 
 #### Art. 24
 
@@ -730,7 +724,7 @@ La modifica del diritto vigente è disciplinata nell’allegato 3.
 
 [^25-1]
 
-[^25-1]: Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
+[^25-1]: Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
 
 #### Art. 25a
 
@@ -773,18 +767,18 @@ Allegato 1[^t-1]
 
 ## Livello d’accesso e autorizzazione a trattare i dati
 
-[^t-1]: Nuovo testo giusta l’all. n. 1 dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 716](https://fedlex.data.admin.ch/eli/oc/2024/716)).
 
 ### Legenda
 
-Livello d’accesso
+**Livello d’accesso**
 
 - A Consultazione in rete
 - B Trattamento
-- W Comunicazione via piattaforma TIC nel singolo caso
+- W Comunicazione via piattaforma informatica nel singolo caso
 - Vuoto Nessun accesso
 
-Unità organizzative
+**Unità organizzative**
 
 - ACEP Autorità cantonale di esecuzione delle pene
 - AEG Autorità incaricata dell’esecuzione dell’espulsione giudiziaria
@@ -846,11 +840,11 @@ Unità organizzative
 <tr><td>Impronte digitali</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td>B</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Firma</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td>B</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="42">2. Numero personale</td></tr>
-<tr><td>ID personale SIMIC (n. eDossier)</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>ID personale SIMIC (n. del fascicolo elettronico)</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td>Numero personale settore degli stranieri</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td>Numero personale settore dell’asilo</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numero d’assicurato AVS</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td colspan="42">II. eDossier</td></tr>
+<tr><td colspan="42">II. Fascicolo elettronico (eDossier)</td></tr>
 <tr><td colspan="42">1. Gestione dei fascicoli</td></tr>
 <tr><td>Detentore del fascicolo</td><td>B</td><td>B</td><td colspan="2">B</td><td colspan="2">B</td><td>B</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3">A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Trattato da collaboratore specialista</td><td>B</td><td>B</td><td colspan="2">B</td><td colspan="2">B</td><td>B</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3">A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1018,15 +1012,20 @@ Unità organizzative
 <tr><td>Paese di lavoro</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td>Attività lucrativa accessoria</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
 <tr><td>Numero ore di lavoro settimanali</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Luogo e indirizzo di distacco</td><td>B</td><td>A</td><td colspan="2"></td><td colspan="2"></td><td></td><td>B</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
-<tr><td>Stato della procedura di notificazione secondo l’Accordo sulla libera circolazione</td><td>B</td><td>A</td><td colspan="2"></td><td colspan="2"></td><td></td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Luogo di assunzione (indirizzo, coordinate geografiche o descrizione)</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
+<tr><td>Stato della procedura di notificazione secondo l’Accordo sulla libera circolazione delle persone</td><td>B</td><td>A</td><td colspan="2"></td><td colspan="2"></td><td></td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Giorni di servizio prestati</td><td>B</td><td>A</td><td colspan="2"></td><td colspan="2"></td><td></td><td>B</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td>Decisione negativa concernente l’attività lucrativa indipendente secondo OLCP[^annex1-lvlu1-lvlu2-4]</td><td>B</td><td>A</td><td colspan="2"></td><td colspan="2"></td><td></td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Salario</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2"></td><td></td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td colspan="42">i. Dati delle aziende</td></tr>
 <tr><td>Numero dell’azienda SIMIC</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Nome della ditta</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Nome dell’azienda</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td>Indirizzi</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Numero di telefono e indirizzo di posta elettronica</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Persona responsabile (numero di telefono, indirizzo di posta elettronica)</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Persona di contatto in Svizzera (azienda, indirizzo, numero di telefono, indirizzo di posta elettronica)</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Numero IDI</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Identificatore EasyGov</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td>Agglomerazione</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Gruppo economico</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Comune di lavoro</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
@@ -1034,7 +1033,7 @@ Unità organizzative
 <tr><td>Paese (codice)</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numero collettivo delle aziende</td><td>B</td><td>B</td><td colspan="2">A</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Effettivo massimo ballerine per impresa</td><td>B</td><td>B</td><td colspan="2">B</td><td colspan="2"></td><td></td><td>A</td><td>A</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Impresa</td><td>B</td><td>A</td><td colspan="2"></td><td colspan="2"></td><td></td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Datore di lavoro in Svizzera, datore di lavoro all’estero o prestatore di servizi indipendente all’estero</td><td>B</td><td>A</td><td colspan="2"></td><td colspan="2"></td><td></td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td colspan="42">j. Dati generali sulla cittadinanza</td></tr>
 <tr><td>Numero e categoria del fascicolo</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>B</td><td>A</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Tipo e numero della pratica</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>B</td><td>A</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1163,7 +1162,7 @@ Unità organizzative
 <tr><td>Data di rilascio e durata di validità</td><td>B</td><td>B</td><td colspan="2">B</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numero</td><td>B</td><td>B</td><td colspan="2">B</td><td colspan="2">B</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="42">c. Procedura</td></tr>
-<tr><td colspan="42">In generale:</td></tr>
+<tr><td colspan="42">In generale</td></tr>
 <tr><td>Caso medico</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">B</td><td></td><td>A</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Tipo di pratica</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Tipo di trattamento</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1178,10 +1177,10 @@ Unità organizzative
 <tr><td>Codice d’osservazione</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3"></td><td colspan="2"></td><td>A</td><td></td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data di deposito e di evasione del ricorso</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Collaboratore specialista competente</td><td>A</td><td>A</td><td colspan="2">B</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="42">Rilevamento delle impronte digitali:</td></tr>
+<tr><td colspan="42">Rilevamento delle impronte digitali</td></tr>
 <tr><td>Numero di controllo del processo (NCP)</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Luogo, data e ora del rilevamento</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="42">Attribuzione e ripartizione:</td></tr>
+<tr><td colspan="42">Attribuzione e ripartizione</td></tr>
 <tr><td>Data di disbrigo della decisione d’attribuzione</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Motivo della mutazione</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Cantone interessato dalla ripartizione</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1189,20 +1188,20 @@ Unità organizzative
 <tr><td>Determinante sì/no</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Riga per commento</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Collaboratore specialista</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="42">Documento di legittimazione settore dell’asilo:</td></tr>
+<tr><td colspan="42">Documento di legittimazione settore dell’asilo</td></tr>
 <tr><td>Categoria</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Valevole fino</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Data dell’allestimento</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Attività lucrativa</td><td>B</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>B</td><td>A</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Cognome e indirizzo del datore di lavoro</td><td>B</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>B</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Collaboratore specialista</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td></td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="42">Contributo speciale:</td></tr>
+<tr><td colspan="42">Contributo speciale</td></tr>
 <tr><td>Obbligo contributo speciale</td><td>B</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Obbligo massimo</td><td>B</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Saldo</td><td>B</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Cronologia</td><td>B</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="42">d. Dati relativi agli accertamenti della provenienza in base alla lingua (dati LINGUA)</td></tr>
-<tr><td colspan="42">Mandato:</td></tr>
+<tr><td colspan="42">Mandato</td></tr>
 <tr><td>Data di ricezione (mandato)</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Paese d’origine indicato dal richiedente</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Regione d’origine indicata dal richiedente</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1218,14 +1217,14 @@ Unità organizzative
 <tr><td>Paese</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Luoghi o regione di soggiorno</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data dell’inizio e della fine del soggiorno</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="42">Analisi e perizie:</td></tr>
+<tr><td colspan="42">Analisi e perizie</td></tr>
 <tr><td>Registrazioni sonore</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Esperto</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Colloquio fatto da</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Linguista responsabile</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Tipo di perizia</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Lingua della perizia</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="42">Risultato:</td></tr>
+<tr><td colspan="42">Risultato</td></tr>
 <tr><td>Campi analizzati</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Categorie</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Paese</td><td>B</td><td>B</td><td colspan="2"></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1245,7 +1244,7 @@ Allegato 2[^t-2]
 
 ## Dati che possono essere comunicati ad autorità e organizzazioni conformemente all’articolo 13
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 Legenda
 
@@ -1297,7 +1296,7 @@ Allegato 4[^t-3]
 
 ## Accordi d’associazione a Schengen e Dublino
 
-[^t-3]: Introdotto dal n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
+[^t-3]: Introdotto dalla cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
 
 ### 1. Accordi d’associazione a Schengen
 
