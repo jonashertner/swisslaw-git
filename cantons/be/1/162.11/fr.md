@@ -4,13 +4,12 @@ number: "162.11"
 title: Règlement d’organisation de la Cour suprême
 short: ROr CS
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-17
+version: 2025-01-01
+version_adopted: 2024-11-29
 adopted: 2010-12-23
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2925/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3123/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2925/pdf_file"
 
 (ROr CS)
 
-du 23.12.2010 (état au 01.01.2024)
+du 23.12.2010 (état au 01.01.2025)
 
 La Cour suprême du canton de Berne,
 
@@ -150,7 +149,7 @@ arrête:
 
 - a définir les tâches des vice-présidences;
 - b approuver les règlements des autorités judiciaires soumises à la surveillance de la Cour suprême;
-- c autoriser les activités annexes et les charges publiques du personnel de la Cour suprême ainsi que des membres des autorités judiciaires placées sous sa surveillance (art. 30, al. 2, lit. b LOJM);
+- c autoriser les activités annexes et les charges publiques des employés de la Cour suprême ainsi que des employés et des membres des autorités judiciaires placées sous sa surveillance (art. 30, al. 2, lit. b LOJM);
 - d édicter des instructions et des circulaires pour les questions de l’administration judiciaire et contrôler leur mise en œuvre;
 - e approuver la stratégie de la Cour suprême et le concept concernant la surveillance et le controlling, à l’intention du plénum;
 - f répartir les greffiers et les greffières entre les sections;
@@ -161,7 +160,7 @@ arrête:
 - l prendre la décision relative à l’aide des juges de première instance et des présidents et présidentes des autorités de conciliation auprès des tribunaux de première instance et des autorités de conciliation, en concertation avec les autorités judiciaires concernées et après avoir entendu respectivement les juges concernés et les présidents et présidentes des autorités de conciliation concernés;
 - m conduire des procédures concernant des prétentions litigieuses contre des collaborateurs et collaboratrices des juridictions civile et pénale en dommages-intérêts ou en réparation du tort moral (art. 104, al. 1a de la loi du 16.09.2004 sur le personnel [LPers][^9-1]).
 
-<sup>2</sup> Il peut déléguer la préparation d’affaires et de tâches au secrétariat général ainsi qu’à des commissions particulières.
+<sup>2</sup> Il peut déléguer la préparation d’affaires et de tâches au secrétariat général, à l’inspectorat des tribunaux ainsi qu’à des commissions particulières.
 
 [^9-1]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
 

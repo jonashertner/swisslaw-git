@@ -4,13 +4,12 @@ number: "162.11"
 title: Organisationsreglement des Obergerichts
 short: OrR OG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-17
+version: 2025-01-01
+version_adopted: 2024-11-29
 adopted: 2010-12-23
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2925/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2925/pdf_file"
 
 (OrR OG)
 
-vom 23.12.2010 (Stand 01.01.2024)
+vom 23.12.2010 (Stand 01.01.2025)
 
 Das Obergericht des Kantons Bern,
 
@@ -150,7 +149,7 @@ beschliesst:
 
 - a die Festlegung der Aufgaben der Vizepräsidien,
 - b die Genehmigung von Reglementen der unter der Aufsicht des Obergerichts stehenden Gerichtsbehörden,
-- c die Bewilligung von Nebenbeschäftigungen und öffentlichen Ämtern des Personals des Obergerichts sowie der Mitglieder der beaufsichtigten Gerichtsbehörden (Art. 30 Abs. 2 Bst. b GSOG),
+- c die Bewilligung von Nebenbeschäftigungen und öffentlichen Ämtern der Angestellten des Obergerichts sowie der Angestellten und Behördenmitglieder der beaufsichtigten Gerichtsbehörden (Art. 30 Abs. 2 Bst. b GSOG),
 - d der Erlass von Weisungen und Kreisschreiben zu Fragen der Gerichtsverwaltung und die Kontrolle der Umsetzung,
 - e die Verabschiedung der Strategie des Obergerichts und des Konzepts über die Aufsicht und das Controlling zuhanden des Plenums,
 - f die Zuteilung von Gerichtsschreiberinnen und Gerichtsschreibern auf die Abteilungen,
@@ -161,7 +160,7 @@ beschliesst:
 - l der Entscheid über die Aushilfe von erstinstanzlichen Richterinnen und Richtern sowie von Vorsitzenden der Schlichtungsbehörden an den erstinstanzlichen Gerichten und an den Schlichtungsbehörden in Absprache mit den betroffenen Gerichtsbehörden und nach Anhörung der betroffenen Richterinnen und Richter bzw. der betroffenen Vorsitzenden der Schlichtungsbehörden,
 - m die Durchführung von Verfahren über streitige Ansprüche gegen Mitarbeiterinnen und Mitarbeiter der Zivil- und Strafgerichtsbarkeit auf Schadenersatz oder Genugtuung (Art. 104 Abs. 1a des Personalgesetzes vom 16.09.2004 [PG][^9-1]).
 
-<sup>2</sup> Sie kann die Erledigung von Geschäften und Aufgaben an das Generalsekretariat und an besondere Kommissionen übertragen.
+<sup>2</sup> Sie kann die Erledigung von Geschäften und Aufgaben an das Generalsekretariat, das Gerichtsinspektorat und an besondere Kommissionen übertragen.
 
 [^9-1]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
 
