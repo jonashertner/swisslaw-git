@@ -4,11 +4,11 @@ title: "Lescha federala dals 6 d’october 2006 davart las prestaziuns supplemen
 short: LPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: rm
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-804-20240101-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-804-20250101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPS)
 
-dals 6 d’october 2006 (versiun dal 1. da schaner 2024)
+dals 6 d’october 2006 (versiun dal 1. da schaner 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -248,25 +248,25 @@ Tar persunas che na vivan betg permanentamain u betg pli ditg che 3 mais en ina 
 
   sco import per ils bains generals necessaris per viver, per onn:
 
-  - 1\. per persunas che vivan sulettas: 20 100 francs,
-  - 2\. per conjugals: 30 150 francs,
-  - 3\.[^10-3] per orfens che han il dretg d’ina renta, e per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI e che han cumplenì il 11. onn da vegliadetgna: 10 515 francs; en quest connex vala l’import cumplain per ils emprims dus uffants, mintgamai dus terzs da quest import per dus ulteriurs uffants e mintgamai in terz da quest import per ils ulteriurs uffants,
-  - 4\.[^10-4] per orfens che han il dretg d’ina renta, e per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI e che n’han betg anc cumplenì il 11. onn da vegliadetgna: 7380 francs; en quest connex vala l’import cumplain per l’emprim uffant; per mintga ulteriur uffant sa reducescha quest import per in sisavel da l’import precedent; l’import per il tschintgavel uffant vala er per ils ulteriurs uffants;
+  - 1\. per persunas che vivan sulettas: 20 670 francs,
+  - 2\. per conjugals: 31 005 francs,
+  - 3\.[^10-3] per orfens che han il dretg d’ina renta, e per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI e che han cumplenì il 11. onn da vegliadetgna: 10 815 francs; en quest connex vala l’import cumplain per ils emprims dus uffants, mintgamai dus terzs da quest import per dus ulteriurs uffants e mintgamai in terz da quest import per ils ulteriurs uffants,
+  - 4\.[^10-4] per orfens che han il dretg d’ina renta, e per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI e che n’han betg anc cumplenì il 11. onn da vegliadetgna: 7590 francs; en quest connex vala l’import cumplain per l’emprim uffant; per mintga ulteriur uffant sa reducescha quest import per in sisavel da l’import precedent; l’import per il tschintgavel uffant vala er per ils ulteriurs uffants;
 
 - b.[^10-5]
 
   il tschains da locaziun d’ina abitaziun ed ils custs accessorics respectivs; sch’i vegn emess in rendaquint final per ils custs accessorics, na vegn resguardà ni in pajament posteriur ni in rembursament; sco import maximal annual vegnan renconuschids:
 
-  - 1\. per ina persuna che viva suletta: 17 580 francs en la regiun 1, 17 040 francs en la regiun 2 e 15 540 francs en la regiun 3,
+  - 1\. per ina persuna che viva suletta: 18 900 francs en la regiun 1, 18 300 francs en la regiun 2 e 16 680 francs en la regiun 3,
   - 2\.
 
     sche pliras persunas vivan en la medema chasada:
 
-    - – per la segunda persuna supplementarmain: 3240 francs en la regiun 1, 3180 francs en la regiun 2 e 3240 francs en la regiun 3
-    - – per la terza persuna supplementarmain: 2280 francs en la regiun 1 e 1920 francs en las regiuns 2 e 3
-    - – per la quarta persuna supplementarmain: 2100 francs en la regiun 1, 1980 francs en la regiun 2 e 1680 francs en la regiun 3,
+    - – per la segunda persuna supplementarmain: 3420 francs en la regiun 1, 3420 francs en la regiun 2 e 3480 francs en la regiun 3
+    - – per la terza persuna supplementarmain: 2460 francs en la regiun 1 e 2040 francs en las regiuns 2 e 3
+    - – per la quarta persuna supplementarmain: 2280 francs en la regiun 1, 2160 francs en la regiun 2 e 1800 francs en la regiun 3,
 
-  - 3\. sch’igl è necessari da prender en locaziun in’abitaziun accessibla en sutga cun rodas: supplementarmain 6420 francs;
+  - 3\. sch’igl è necessari da prender en locaziun in’abitaziun accessibla en sutga cun rodas: supplementarmain 6900 francs;
 
 - c.[^10-6] empè dal tschains da locaziun: la valur da locaziun da l’immobiglia per persunas che abitan en ina immobiglia, sin la quala ellas u in’autra persuna ch’è inclusa en la calculaziun da la prestaziun supplementara, han in dretg da proprietad, da giudida u d’abitar; la litera b vala tenor il senn.
 
@@ -306,10 +306,10 @@ Per tut las persunas vegnan plinavant renconuschids sco expensas:
 - f.[^10-16] ils custs d’assistenza nets per la tgira d’uffants cumplementara a la famiglia necessaria e cumprovada per uffants che n’han betg anc cumplenì il 11. onn da vegliadetgna.
 
 [^10-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Imports adattads tenor l’art. 1 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns da las prestaziuns supplementaras tar la AVS/AI e da las prestaziuns transitoricas per ils dischoccupads pli attempads, en vigur dapi il 1. da schan. 2023 ([AS 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^10-2]: Imports adattads tenor l’art. 1 da l’O dals 28 d’avust 2024 davart adattaziuns da las prestaziuns supplementaras tar la AVS/AI e da las prestaziuns transitoricas per ils dischoccupads pli attempads a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^10-3]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Imports adattads tenor l’art. 2 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns da las prestaziuns supplementaras tar la AVS/AI e da las prestaziuns transitoricas per ils dischoccupads pli attempads, en vigur dapi il 1. da schan. 2023 ([AS 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^10-5]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Imports adattads tenor l’art. 2 da l’O dals 28 d’avust 2024 davart adattaziuns da las prestaziuns supplementaras tar la AVS/AI e da las prestaziuns transitoricas per ils dischoccupads pli attempads a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^10-6]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-7]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-8]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Versiun tenor la cifra III da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Guardar er disp. trans. da questa midada a la fin dal text.
@@ -330,7 +330,7 @@ Per tut las persunas vegnan plinavant renconuschids sco expensas:
 
 Sco entradas vegnan quintadas:
 
-- a.[^11-1] dus terzs da las entradas da gudogn en daners u en natiralias, uschenavant ch’ellas surpassan annualmain 1000 francs per persunas che vivan sulettas e 1500 francs per conjugals e per persunas cun orfens che han il dretg d’ina renta, u cun uffants che han il dretg d’ina renta per uffants da la AVS u da la AI; en cas da conjugals senza dretg da prestaziuns supplementaras vegnan quintads 80 pertschient da las entradas da gudogn; en cas da persunas invalidas che han il dretg d’ina diaria da la AI vegnan las entradas da gudogn quintadas cumplainamain;
+- a.[^11-1] dus terzs da las entradas da gudogn en daners u en natiralias, uschenavant ch’ellas surpassan annualmain 1300 francs per persunas che vivan sulettas e 1950 francs per conjugals e per persunas cun orfens che han il dretg d’ina renta, u cun uffants che han il dretg d’ina renta per uffants da la AVS u da la AI; en cas da conjugals senza dretg da prestaziuns supplementaras vegnan quintads 80 pertschient da las entradas da gudogn; en cas da persunas invalidas che han il dretg d’ina diaria da la AI vegnan las entradas da gudogn quintadas cumplainamain;
 - b.[^11-2] las entradas da la facultad movibla ed immovibla, inclusiv la valur annuala d’ina giudida u d’in dretg d’abitar ubain da la valur da locaziun annuala d’ina immobiglia, sin la quala la persuna che retira prestaziuns supplementaras u in’autra persuna ch’è inclusa en la calculaziun da las prestaziuns transitoricas, ha in dretg da proprietad, e la quala vegn abitada d’almain ina da questas persunas;
 - c.[^11-3] in quindeschavel da la facultad netta, ubain in dieschavel da la facultad netta en cas da titulars d’ina renta da vegliadetgna, uschenavant che quella surpassa 30 000 francs per persunas che vivan sulettas, 50 000 francs per conjugals e 15 000 francs per orfens che han il dretg d’ina renta, sco er per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI; sche la persuna che retira las prestaziuns supplementaras u ina persuna ch’è inclusa en la calculaziun è proprietaria d’ina immobiglia che vegn abitada almain d’ina da questas persunas, vegn resguardada per la facultad mo la valur da l’immobiglia che surpassa 112 500 francs;
 - d. rentas, pensiuns ed autras prestaziuns periodicas inclusiv las rentas da la AVS e da la AI;
@@ -367,7 +367,7 @@ Betg quintà na vegn il suandant:
 
 <sup>4</sup> Il Cussegl federal determinescha ils cas, per ils quals las indemnisaziuns da las assicuranzas socialas a persunas dependentas d’agid vegnan quintadas sco entradas.
 
-[^11-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Imports adattads tenor l’art. 3 al. 1 da l’O dals 28 d’avust 2024 davart adattaziuns da las prestaziuns supplementaras tar la AVS/AI e da las prestaziuns transitoricas per ils dischoccupads pli attempads a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^11-2]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-3]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-4]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).

@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 2006 sur les prestations complémentaires à
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20250101-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20240101/fr"
 
 (Loi sur les prestations complémentaires, LPC)[^t-1]
 
-du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2024)
+du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Ch. I 3 de la LF concernant l’adoption et la modification d’actes dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT; [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)).
@@ -249,25 +249,25 @@ Pour les personnes qui ne vivent pas en permanence ni pour une période de plus 
 
   les montants destinés à la couverture des besoins vitaux, soit, par année:
 
-  - 1\. 20 100 francs pour les personnes seules,
-  - 2\. 30 150 francs pour les couples,
-  - 3\.[^10-3] 10 515 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
-  - 4\.[^10-4] 7380 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
+  - 1\. 20 670 francs pour les personnes seules,
+  - 2\. 31 005 francs pour les couples,
+  - 3\.[^10-3] 10 815 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
+  - 4\.[^10-4] 7590 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
 
 - b.[^10-5]
 
   le loyer d’un appartement et les frais accessoires y relatifs; en cas de présentation d’un décompte final des frais accessoires, ni demande de restitution, ni paiement rétroactif ne peuvent être pris en considération; le montant annuel maximal reconnu est de:
 
-  - 1\. pour une personne vivant seule: 17 580 francs dans la région 1, 17 040 francs dans la région 2 et 15 540 francs dans la région 3,
+  - 1\. pour une personne vivant seule: 18 900 francs dans la région 1, 18 300 francs dans la région 2 et 16 680 francs dans la région 3,
   - 2\.
 
     si plusieurs personnes vivent dans le même ménage:
 
-    - – pour la deuxième personne: un supplément de 3240 francs dans la région 1, 3180 francs dans la région 2 et 3240 francs dans la région 3
-    - – pour la troisième personne: un supplément de 2280 francs dans la région 1 et de 1920 francs dans les régions 2 et 3
-    - – pour la quatrième personne: un supplément de 2100 francs dans la région 1, 1980 francs dans la région 2 et 1680 francs dans la région 3,
+    - – pour la deuxième personne: un supplément de 3420 francs dans la région 1, 3420 francs dans la région 2 et 3480 francs dans la région 3
+    - – pour la troisième personne: un supplément de 2460 francs dans la région 1 et de 2040 francs dans les régions 2 et 3
+    - – pour la quatrième personne: un supplément de 2280 francs dans la région 1, 2160 francs dans la région 2 et 1800 francs dans la région 3,
 
-  - 3\. 6420 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
+  - 3\. 6900 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
 
 - c.[^10-6] la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie.
 
@@ -307,10 +307,10 @@ Sont en outre reconnus comme dépenses, pour toutes les personnes:
 - f.[^10-16] les frais nets de prise en charge extrafamiliale d’enfants qui n’ont pas encore atteint l’âge de 11 ans révolus, pour autant que cette prise en charge soit nécessaire et dûment établie.
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Montants adaptés selon l’art. 1 de l’O 23 du 12 oct. 2022 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^10-2]: Montants adaptés selon l’art. 1 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^10-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1er janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Montants adaptés selon l’art. 2 de l’O 23 du 12 oct. 2022 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^10-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Montants adaptés selon l’art. 2 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^10-6]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-7]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-8]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
@@ -331,14 +331,14 @@ Sont en outre reconnus comme dépenses, pour toutes les personnes:
 
 Les revenus déterminants comprennent:
 
-- a.[^11-1] deux tiers des ressources en espèces ou en nature provenant de l’exercice d’une activité lucrative, pour autant qu’elles excèdent annuellement 1000 francs pour les personnes seules et 1500 francs pour les couples et les personnes qui ont des enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI; pour les conjoints qui n’ont pas droit aux prestations complémentaires, le revenu de l’activité lucrative est pris en compte à hauteur de 80 %; pour les personnes invalides ayant droit à une indemnité journalière de l’AI, le revenu de l’activité lucrative est intégralement pris en compte;
+- a.[^11-1] deux tiers des ressources en espèces ou en nature provenant de l’exercice d’une activité lucrative, pour autant qu’elles excèdent annuellement 1300 francs pour les personnes seules et 1950 francs pour les couples et les personnes qui ont des enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI; pour les conjoints qui n’ont pas droit aux prestations complémentaires, le revenu de l’activité lucrative est pris en compte à hauteur de 80 %; pour les personnes invalides ayant droit à une indemnité journalière de l’AI, le revenu de l’activité lucrative est intégralement pris en compte;
 - b.[^11-2] le produit de la fortune mobilière et immobilière, y compris la valeur annuelle d’un usufruit ou d’un droit d’habitation ou la valeur locative annuelle d’un immeuble dont le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations est propriétaire, et qui sert d’habitation à l’une de ces personnes au moins;
 - c.[^11-3] un quinzième de la fortune nette, un dixième pour les bénéficiaires de rentes de vieillesse, dans la mesure où elle dépasse 30 000 francs pour les personnes seules, 50 000 francs pour les couples et 15 000 francs pour les orphelins et les enfants donnant droit à des rentes pour enfant de l’AVS ou de l’AI; si le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations est propriétaire d’un immeuble qui sert d’habitation à l’une de ces personnes au moins, seule la valeur de l’immeuble supérieure à 112 500 francs entre en considération au titre de la fortune;
 - d. les rentes, pensions et autres prestations périodiques, y compris les rentes de l’AVS et de l’AI;
 - d<sup>bis</sup>.[^11-4] la rente entière, même si seul un pourcentage de la rente est ajourné en vertu de l’art. 39, al. 1, LAVS[^11-5] ou perçu de manière anticipée en vertu de l’art. 40, al. 1, LAVS;
 - e. les prestations touchées en vertu d’un contrat d’entretien viager ou de toute autre convention analogue;
 - f. les allocations familiales;
-- g.[^11-6] ...
+- g.[^11-6] …
 - h. les pensions alimentaires prévues par le droit de la famille;
 - i.[^11-7] la réduction des primes accordée pour une période pour laquelle des prestations complémentaires sont attribuées avec effet rétroactif.
 
@@ -368,7 +368,7 @@ Ne sont pas pris en compte:
 
 <sup>4</sup> Le Conseil fédéral détermine les cas dans lesquels les allocations pour impotents des assurances sociales doivent être prises en compte dans les revenus déterminants.
 
-[^11-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Montants adaptés selon l’art. 3 al. 1 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^11-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-4]: Introduite par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
@@ -485,11 +485,11 @@ Les frais de maladie et d’invalidité sont remboursés aux conditions suivante
 
 Les cantons financent les prestations prévues à l’art. 14.
 
-## Section 5 Restitution des prestations légalement perçues
+### Section 5 Restitution des prestations légalement perçues
 
-[^chap3-1]
+[^chap2-sec5-1]
 
-[^chap3-1]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Voir aussi les disp. trans. de cette mod. à la fin du présent texte.
+[^chap2-sec5-1]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Voir aussi les disp. trans. de cette mod. à la fin du présent texte.
 
 #### Art. 16a
 
@@ -685,7 +685,7 @@ Sont applicables par analogie les dispositions suivantes de la LAVS[^26-2] qui c
 
 Aux fins de vérification des conditions du regroupement familial en Suisse et du droit de séjourner en Suisse, les organes chargés de fixer et de verser les prestations complémentaires communiquent spontanément aux autorités migratoires, en vertu de l’art. 97, al. 3, let. d<sup>ter</sup> de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^26a-2] et en dérogation à l’art. 33 LPGA[^26a-3], le versement à un étranger d’une prestation complémentaire annuelle selon l’art. 3, al. 1, let. a. Ils leur communiquent les cas d’une certaine importance lorsque les prestations complémentaires se limitent au remboursement des frais de maladie et d’invalidité au sens de l’art. 3, al. 1, let. b.
 
-[^26a-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en œuvre des accords sur la libre circulation des personnes ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)).
+[^26a-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en œuvre des accords sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^26a-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^26a-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
@@ -802,7 +802,7 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 
 <sup>3</sup> Le Conseil fédéral adapte les renvois aux actes de l’Union européenne visés aux al. 1 et 2 chaque fois qu’une modification de l’annexe II de l’accord sur la libre circulation des personnes et de l’appendice 2 de l’annexe K de la convention AELE est adoptée.
 
-<sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurant dans la présente loi les États auxquels s’applique l’accord sur la libre circulation des personnes.
+<sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurant dans la présente loi désignent les États auxquels s’applique l’accord sur la libre circulation des personnes.
 
 [^32-1]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
 [^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)

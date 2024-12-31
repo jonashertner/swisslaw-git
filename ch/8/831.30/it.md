@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 2006 sulle prestazioni complementari all'as
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20250101-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20240101/it"
 
 (LPC)
 
-del 6 ottobre 2006 (Stato 1° gennaio 2024)
+del 6 ottobre 2006 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -77,17 +77,17 @@ Le persone domiciliate e dimoranti abitualmente in Svizzera (art. 13 LPGA[^4-1])
 
 - a.[^4-2] ricevono una rendita di vecchiaia dell’assicurazione vecchiaia e superstiti (AVS);
 - a<sup>bis</sup>.[^4-3] hanno diritto a una rendita vedovile dell’AVS finché non hanno ancora raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^4-4] sull’assicurazione per la vecchiaia e per i superstiti (LAVS);
-- [tab] a<sup>ter</sup>.[^4-5] in virtù dell’articolo 24*b* LAVS, ricevono una rendita vedovile in luogo di una rendita di vecchiaia;
+- a<sup>ter</sup>.[^4-5] in virtù dell’articolo 24*b* LAVS, ricevono una rendita vedovile in luogo di una rendita di vecchiaia;
 - a<sup>quater</sup>.[^4-6] hanno diritto a una rendita per orfani dell’AVS;
 - b.[^4-7]
 
   avrebbero diritto a una rendita dell’AVS se:
 
-  - 1\. avessero compiuto la durata di contribuzione[^4-8] minima previsto dall’articolo 29 capoverso 1 LAVS, o
+  - 1\. avessero compiuto la durata di contribuzione[^4-8] minima prevista dall’articolo 29 capoverso 1 LAVS, o
   - 2\.[^4-9] la persona deceduta avesse compiuto tale durata di contribuzione, e, quali persone vedove, non hanno ancora raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS;
 
 - c. hanno diritto a una rendita o a un assegno per grandi invalidi dell’assicurazione invalidità (AI) o hanno beneficiato di un’indennità giornaliera dell’AI ininterrottamente per almeno sei mesi; oppure
-- d.[^4-10] avrebbero diritto a una rendita dell’AI se avessero compiuto la durata di contribuzione minima previsto dall’articolo 36 capoverso 1 della legge federale del 19 giugno 1959[^4-11] sull’assicurazione per l’invalidità (LAI).
+- d.[^4-10] avrebbero diritto a una rendita dell’AI se avessero compiuto la durata di contribuzione minima prevista dall’articolo 36 capoverso 1 della legge federale del 19 giugno 1959[^4-11] sull’assicurazione per l’invalidità (LAI).
 
 <sup>2</sup> Hanno diritto a prestazioni complementari anche i coniugi separati e le persone divorziate con domicilio e dimora abituale in Svizzera (art. 13 LPGA) se ricevono una rendita completiva dell’AVS o dell’AI.
 
@@ -109,10 +109,10 @@ La dimora abituale in Svizzera secondo il capoverso 1 è considerata interrotta 
 [^4-7]: Nuovo testo giusta l’all. n. 3 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^4-8]: Nuova espr. giusta l’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^4-9]: Nuovo testo giusta l’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^4-10]: Nuovo testo giusta il n. IV della LF del 6 ott. 2006, in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^4-10]: Nuovo testo giusta la cifra IV della LF del 6 ott. 2006, in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^4-11]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^4-12]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^4-13]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-12]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-13]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 5
 
@@ -126,7 +126,7 @@ La dimora abituale in Svizzera secondo il capoverso 1 è considerata interrotta 
 
 Per gli stranieri che, in virtù di una convenzione di sicurezza sociale, avrebbero diritto a una rendita straordinaria dell’AVS o dell’AI, il termine d’attesa è di:
 
-- a. cinque anni, per chi ha diritto a una rendita dell’AI o vi avrebbe diritto se avesse compiuto la durata di contribuzione minima previsto dall’articolo 36 capoverso 1 LAI[^5-2];
+- a. cinque anni, per chi ha diritto a una rendita dell’AI o vi avrebbe diritto se avesse compiuto la durata di contribuzione minima prevista dall’articolo 36 capoverso 1 LAI[^5-2];
 - b.[^5-3] cinque anni, per chi non ha ancora raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^5-4] e ha diritto a una rendita per superstiti dell’AVS o vi avrebbe diritto se la persona deceduta, al momento della morte, avesse compiuto la durata di contribuzione minima prevista dall’articolo 29 capoverso 1 LAVS;
 - c.[^5-5] cinque anni, per chi percepisce una rendita di vecchiaia dell’AVS o ha raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS e la cui rendita di vecchiaia subentra o subentrerebbe a una rendita per superstiti dell’AVS o a una rendita dell’AI;
 - d.[^5-6] dieci anni, per chi percepisce una rendita di vecchiaia dell’AVS o ha raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS e la cui rendita di vecchiaia non subentra o non subentrerebbe né a una rendita per superstiti dell’AVS né a una rendita dell’AI.[^5-7]
@@ -143,10 +143,10 @@ Per gli stranieri che, in virtù di una convenzione di sicurezza sociale, avrebb
 [^5-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^5-5]: Nuovo testo giusta l’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^5-6]: Nuovo testo giusta l’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^5-7]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-7]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^5-8]: Nuovo testo giusta l’all. n. 3 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^5-9]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^5-10]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-9]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-10]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 6
 
@@ -209,10 +209,10 @@ Il Consiglio federale disciplina:
 - g. il coordinamento con la riduzione dei premi ai sensi della legge federale del 18 marzo 1994[^9-5] sull’assicurazione malattie (LAMal);
 - h. la nozione di istituto ai sensi della presente legge.
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-2]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-4]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-2]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-4]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 9a
@@ -226,11 +226,14 @@ Hanno diritto alle prestazioni complementari le persone la cui sostanza netta è
 - a. 100 000 franchi per le persone sole;
 - b. 200 000 franchi per le coppie sposate;
 - c. 50 000 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI.
-- [tab] <sup>2</sup> Gli immobili che servono quale abitazione al beneficiario di prestazioni complementari o a una persona compresa nel calcolo di queste prestazioni e di cui una di queste persone è proprietaria non sono componenti della sostanza netta di cui al capoverso 1.
-- [tab] <sup>3</sup> La sostanza cui si è rinunciato secondo l’articolo 11*a* capoversi 2–4 fa parte della sostanza netta di cui al capoverso 1.
-- [tab] <sup>4</sup> Se adegua le prestazioni di cui all’articolo 19, il Consiglio federale può adeguare in modo appropriato gli importi di cui al capoverso 1.
 
-[^9a-1]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+<sup>2</sup> Gli immobili che servono quale abitazione al beneficiario di prestazioni complementari o a una persona compresa nel calcolo di queste prestazioni e di cui una di queste persone è proprietaria non sono componenti della sostanza netta di cui al capoverso 1.
+
+<sup>3</sup> La sostanza cui si è rinunciato secondo l’articolo 11*a* capoversi 2–4 fa parte della sostanza netta di cui al capoverso 1.
+
+<sup>4</sup> Se adegua le prestazioni di cui all’articolo 19, il Consiglio federale può adeguare in modo appropriato gli importi di cui al capoverso 1.
+
+[^9a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 10
 
@@ -244,25 +247,25 @@ Per le persone che non vivono durevolmente o per oltre tre mesi in un istituto o
 
   importo destinato alla copertura del fabbisogno generale vitale, per anno:
 
-  - 1\. 20 100 franchi per le persone sole,
-  - 2\. 30 150 franchi per i coniugi,
-  - 3\.[^10-3] 10 515 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e hanno compiuto gli 11 anni di età; per i due primi figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
-  - 4\.[^10-4] 7380 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante; per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
+  - 1\. 20 670 franchi per le persone sole,
+  - 2\. 31 005 franchi per i coniugi,
+  - 3\.[^10-3] 10 815 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e che hanno compiuto gli 11 anni di età; per i due primi figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
+  - 4\.[^10-4] 7590 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante; per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
 
 - b.[^10-5]
 
   la pigione di un appartamento e le relative spese accessorie; in caso di conguaglio per le spese accessorie, non si tiene conto né del saldo attivo né di quello passivo; l’importo massimo annuo riconosciuto è il seguente:
 
-  - 1\. 17 580 franchi nella regione 1, 17 040 franchi nella regione 2 e 15 540 franchi nella regione 3 per le persone che vivono sole,
+  - 1\. 18 900 franchi nella regione 1, 18 300 franchi nella regione 2 e 16 680 franchi nella regione 3 per le persone che vivono sole,
   - 2\.
 
     se più persone vivono nella stessa economia domestica:
 
-    - – un supplemento di 3240 franchi nella regione 1, 3180 franchi nella regione 2 e 3240 franchi nella regione 3 per la seconda persona
-    - – un supplemento di 2280 franchi nella regione 1 e 1920 franchi nelle regioni 2 e 3 per la terza persona
-    - – un supplemento di 2100 franchi nella regione 1, 1980 franchi nella regione 2 e 1680 franchi nella regione 3 per la quarta persona.
+    - – un supplemento di 3420 franchi nella regione 1, 3420 franchi nella regione 2 e 3480 franchi nella regione 3 per la seconda persona
+    - – un supplemento di 2460 franchi nella regione 1 e 2040 franchi nelle regioni 2 e 3 per la terza persona
+    - – un supplemento di 2280 franchi nella regione 1, 2160 franchi nella regione 2 e 1800 franchi nella regione 3 per la quarta persona,
 
-  - 3\. 6420 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
+  - 3\. 6900 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
 
 - c.[^10-6] in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo delle prestazioni complementari sono proprietarie, usufruttuarie o usuarie; la lettera b si applica per analogia.
 
@@ -277,11 +280,11 @@ Per le persone che condividono l’alloggio e per le quali non è effettuato un 
 
 <sup>1quater</sup> Il Consiglio federale disciplina la ripartizione dei Comuni tra le tre regioni. A tal riguardo si fonda sui livelli geografici dell’Ufficio federale di statistica.[^10-9]
 
-<sup>1quinquies</sup> Il Dipartimento federale dell’interno stabilisce la ripartizione dei Comuni in un’ordinanza. Riesamina la ripartizione quando l’Ufficio federale di statistica modi-fica i livelli geografici sui quali essa si fonda.[^10-10]
+<sup>1quinquies</sup> Il Dipartimento federale dell’interno stabilisce la ripartizione dei Comuni in un’ordinanza. Riesamina la ripartizione quando l’Ufficio federale di statistica modifica i livelli geografici sui quali essa si fonda.[^10-10]
 
 <sup>1sexies</sup> I Cantoni possono chiedere una riduzione o un aumento fino al 10 per cento degli importi massimi in un Comune. La richiesta di riduzione è accolta se e fino a quando la pigione del 90 per cento dei beneficiari di prestazioni complementari è coperta dagli importi massimi. Il Consiglio federale disciplina la procedura.[^10-11]
 
-<sup>1septies</sup> Il Consiglio federale verifica almeno ogni dieci anni se e in che misura gli importi massimi coprono le pigioni effettive dei beneficiari di prestazioni comple-mentari e pubblica i risultati del suo esame. Anticipa l’esame e la pubblicazione se l’indice delle pigioni si è modificato di oltre il 10 per cento dall’ultimo esame.[^10-12]
+<sup>1septies</sup> Il Consiglio federale verifica almeno ogni dieci anni se e in che misura gli importi massimi coprono le pigioni effettive dei beneficiari di prestazioni complementari e pubblica i risultati del suo esame. Anticipa l’esame e la pubblicazione se l’indice delle pigioni si è modificato di oltre il 10 per cento dall’ultimo esame.[^10-12]
 
 <sup>2</sup>
 
@@ -301,22 +304,22 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 - e. pensioni alimentari versate in virtù del diritto di famiglia;
 - f.[^10-16] spese nette per la custodia complementare alla famiglia di figli che non hanno ancora compiuto gli 11 anni di età, sempre che la custodia sia necessaria e comprovata.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Importi adeguati dall’art. 1 dell’O 23 del 12 ott. 2022 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° gen. 2023 ([RU 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
-[^10-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-4]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Importi adeguati dall’art. 2 dell’O 23 del 12 ott. 2022 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° gen. 2023 ([RU 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
-[^10-6]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-7]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Correzione della Commissione di redazione dell’AF del 30 giu. 2020, pubblicata il 7 lug. 2020 ([RU 2020 2827](https://fedlex.data.admin.ch/eli/oc/2020/513)).
-[^10-8]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^10-9]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-10]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-11]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-12]: Introdotto dal n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-13]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-14]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-15]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-16]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-2]: Importi adeguati dall’art. 1 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^10-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-4]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Importi adeguati dall’art. 2 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^10-6]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-7]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Correzione della Commissione di redazione dell’AF del 30 giu. 2020, pubblicata il 7 lug. 2020 ([RU 2020 2827](https://fedlex.data.admin.ch/eli/oc/2020/513)).
+[^10-8]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^10-9]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-10]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-11]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-12]: Introdotto dalla cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-13]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-14]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-15]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-16]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 11
 
@@ -326,7 +329,7 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 
 Sono computati come reddito:
 
-- a.[^11-1] due terzi dei proventi in denaro o in natura dell’esercizio di un’attività lucrativa, per quanto superino annualmente 1000 franchi per le persone sole e 1500 franchi per le coppie sposate e le persone con orfani che hanno diritto a una rendita o con figli che danno diritto a una rendita per figli dell’AVS o dell’AI; per i coniugi che non hanno diritto alle prestazioni complementari, il reddito dell’attività lucrativa è computato in ragione dell’80 per cento; per gli invalidi che hanno diritto a un’indennità giornaliera dell’AI, è computato interamente;
+- a.[^11-1] due terzi dei proventi in denaro o in natura dell’esercizio di un’attività lucrativa, per quanto superino annualmente 1300 franchi per le persone sole e 1950 franchi per le coppie sposate e le persone con orfani che hanno diritto a una rendita o con figli che danno diritto a una rendita per figli dell’AVS o dell’AI; per i coniugi che non hanno diritto alle prestazioni complementari, il reddito dell’attività lucrativa è computato in ragione dell’80 per cento; per gli invalidi che hanno diritto a un’indennità giornaliera dell’AI, è computato interamente;
 - b.[^11-2] i proventi della sostanza mobile e immobile, incluso il valore annuo di un usufrutto o di un diritto di abitazione oppure il valore locativo annuo di un immobile di cui il beneficiario delle prestazioni complementari o un’altra persona compresa nel calcolo di queste prestazioni sono proprietari e che serve quale abitazione ad almeno una di queste persone;
 - c.[^11-3] un quindicesimo della sostanza netta, oppure un decimo per i beneficiari di rendite di vecchiaia, per quanto superi 30 000 franchi per le persone sole, 50 000 franchi per le coppie sposate e 15 000 franchi per gli orfani che hanno diritto a una rendita e i figli che danno diritto a una rendita per figli dell’AVS o dell’AI; se il beneficiario delle prestazioni complementari o un’altra persona compresa nel calcolo di queste prestazioni sono proprietari di un immobile che serve quale abitazione ad almeno una di queste persone, soltanto il valore dell’immobile eccedente 112 500 franchi è preso in considerazione quale sostanza;
 - d. le rendite, le pensioni e le altre prestazioni periodiche, comprese le rendite dell’AVS e dell’AI;
@@ -363,20 +366,20 @@ Non sono computati:
 
 <sup>4</sup> Il Consiglio federale determina i casi in cui gli assegni per grandi invalidi delle assicurazioni sociali sono computati come redditi.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-4]: Introdotta dall’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Importi adeguati dall’art. 1 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^11-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-4]: Introdotta dall’all. n. 3 cpv. 1 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^11-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^11-6]: Abrogata dal n. I della LF del 22 mar. 2019 (Riforma della PC), con effetto dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-7]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-8]: Introdotto dal n. I 2 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)). Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-6]: Abrogata dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), con effetto dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-7]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-8]: Introdotto dalla cifra I n. 2 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-9]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^11-10]: Introdotto dall’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^11-11]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-11]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-12]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^11-13]: Introdotta dall’all. n. 5 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^11-14]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-14]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-15]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^11-16]: Introdotta dall’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
@@ -392,7 +395,7 @@ Non sono computati:
 
 <sup>4</sup> Per i beneficiari di una rendita di vecchiaia dell’AVS il capoverso 3 si applica anche per i dieci anni precedenti la nascita del diritto alla rendita.
 
-[^11a-1]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^11a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 12
 
@@ -420,7 +423,7 @@ Non sono computati:
 
 <sup>4</sup> Il Consiglio federale può emanare disposizioni per semplificare la determinazione della quota federale; ne disciplina la procedura di versamento.
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^13-2]: Nuovo testo giusta l’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 ### Sezione 4: Rimborso delle spese di malattia e d’invalidità da parte dei Cantoni
@@ -462,7 +465,7 @@ I Cantoni rimborsano ai beneficiari di una prestazione complementare annua le se
 
 <sup>7</sup> I Cantoni possono rimborsare direttamente ai fornitori i costi fatturati non ancora pagati.
 
-[^14-1]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^14-1]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^14-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^14-3]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
@@ -485,7 +488,7 @@ I Cantoni finanziano le prestazioni di cui all’articolo 14.
 
 [^chap2-sec5-1]
 
-[^chap2-sec5-1]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^chap2-sec5-1]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 16a
 
@@ -575,7 +578,7 @@ Gli importi da restituire possono essere compensati con le prestazioni seguenti:
 
 <sup>4</sup> Se un servizio incaricato dell’esecuzione ha annunciato la compensazione di una prestazione esigibile a un’altra assicurazione sociale o a un altro istituto di previdenza, questi ultimi non possono più liberarsi versando la prestazione all’assicurato fino a concorrenza della compensazione.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^20-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^20-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
@@ -599,11 +602,11 @@ Gli importi da restituire possono essere compensati con le prestazioni seguenti:
 
 <sup>4</sup> Il versamento della prestazione complementare può essere effettuato insieme con la rendita dell’AVS o dell’AI.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21-2]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21-3]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21-4]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21-5]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21-2]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21-3]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21-4]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21-5]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 21a
 
@@ -615,7 +618,7 @@ Gli importi da restituire possono essere compensati con le prestazioni seguenti:
 
 <sup>3</sup> In deroga all’articolo 20 LPGA, l’importo della prestazione complementare annua per il soggiorno in un istituto o in un ospedale di cui all’articolo 10 capoverso 2 lettera a può essere ceduto e versato direttamente al fornitore delle prestazioni.
 
-[^21a-1]: Introdotto dal n. II della LF del 19 mar. 2010 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21a-1]: Introdotto dalla cifra II della LF del 19 mar. 2010 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^21a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 22
@@ -648,7 +651,7 @@ Il Consiglio federale emana le necessarie prescrizioni sulla contabilità per gl
 
 <sup>2</sup> Il Consiglio federale disciplina i dettagli della determinazione e la procedura. Può fissare importi forfettari e prevedere che la partecipazione della Confederazione alle spese amministrative sia adeguatamente ridotta in caso di ripetuta violazione delle disposizioni della presente legge, delle relative ordinanze o delle direttive dell’Ufficio federale delle assicurazioni sociali (UFAS).[^24-1]
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 25
 
@@ -682,7 +685,7 @@ Si applicano per analogia le disposizioni della LAVS[^26-2] concernenti:
 
 Ai fini della verifica delle condizioni per il ricongiungimento familiare e dell’accertamento del diritto di soggiorno, gli organi competenti per la determinazione e il versamento delle prestazioni complementari comunicano spontaneamente alle autorità competenti in materia di migrazione, conformemente all’articolo 97 capoverso 3 lettera d<sup>ter</sup> della legge federale del 16 dicembre 2005[^26a-2] sugli stranieri e la loro integrazione e in deroga all’articolo 33 LPGA[^26a-3], il versamento a cittadini stranieri di una prestazione complementare annua secondo l’articolo 3 capoverso 1 lettera a. Se sono rimborsate solamente le spese di malattia e d’invalidità di cui all’articolo 3 capoverso 1 lettera b, comunicano alle autorità competenti in materia di migrazione i casi di rimborsi di una certa entità.
 
-[^26a-1]: Introdotto dall’all. n. 1 della LF del 16 dic. 2016 (Regolazione dell’immigrazione e miglioramenti nell’esecuzione degli accordi sulla libera circolazione) ([RU 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2621](https://fedlex.data.admin.ch/eli/fga/2016/574)).
+[^26a-1]: Introdotto dall’all. n. 1 della LF del 16 dic. 2016 (Regolazione dell’immigrazione e miglioramenti nell’esecuzione degli accordi sulla libera circolazione), in vigore dal 1° luglio 2018 ([RU 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2621](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^26a-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^26a-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
@@ -692,7 +695,7 @@ Ai fini della verifica delle condizioni per il ricongiungimento familiare e dell
 
 L’Ufficio centrale di compensazione di cui all’articolo 71 LAVS[^26b-2] gestisce un sistema d’informazione per il trattamento di dati concernenti le prestazioni complementari (sistema d’informazione sulle PC), in particolare per garantire la trasparenza riguardo alle prestazioni complementari versate e sostenere gli organi di cui all’articolo 21 capoverso 2 nell’esecuzione della presente legge.
 
-[^26b-1]: Originario art. 26*a*. Introdotto dall’all. n. 3 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione) ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)). Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^26b-1]: Originario art. 26*a*. Introdotto dall’all. n. 3 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione) ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^26b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 26c
@@ -709,7 +712,7 @@ Possono accedere mediante procedura di richiamo al sistema d’informazione sull
 
 <sup>2</sup> Per adempiere i compiti di cui all’articolo 18, la Fondazione svizzera Pro Senectute, l’Associazione svizzera Pro Infirmis e la Fondazione svizzera Pro Juventute possono accertare, accedendo alle informazioni mediante procedura di richiamo, se una persona percepisce una prestazione complementare annua o è compresa nel calcolo della stessa e quale organo la versa.
 
-[^26c-1]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^26c-1]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 27
 
@@ -736,7 +739,7 @@ Possono accedere mediante procedura di richiamo al sistema d’informazione sull
 
 <sup>2</sup> I principi delle istituzioni di utilità pubblica sono sottoposti per approvazione all’UFAS[^29-1] e sono vincolanti per gli organi delle istituzioni.
 
-[^29-1]: Nuova espr. giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^29-1]: Nuova espr. giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 30
 
@@ -769,7 +772,7 @@ Gli articoli 72–75 LPGA[^30-1] non sono applicabili*.*
 <sup>3</sup> L’articolo 90 LAVS[^31-4] è applicabile.
 
 [^31-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^31-2]: Introdotta dal n. IV della LF del 6 ott. 2006, in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^31-2]: Introdotta dalla cifra IV della LF del 6 ott. 2006, in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^31-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^31-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -823,7 +826,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione.
 
 Finché i Cantoni non hanno designato le spese che possono essere rimborsate secondo l’articolo 14 capoverso 1, gli articoli 3–18 dell’ordinanza del 29 dicembre 1997[^34-1] sul rimborso delle spese di malattia e delle spese dovute all’invalidità in materia di prestazioni complementarinella versione in vigore il 31 dicembre dell’anno precedente l’entrata in vigore della legge federale del 6 ottobre 2006[^34-2] che emana e modifica atti legislativi per la nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni si applicano per analogia, ma per una durata massima di tre anni a contare dall’entrata in vigore della presente legge.
 
-[^34-1]: [[RU 1998 239](https://fedlex.data.admin.ch/eli/oc/1998/239_239_239), [2000 81](https://fedlex.data.admin.ch/eli/oc/2000/17), [2002 3728](https://fedlex.data.admin.ch/eli/oc/2002/578), [2003 4299](https://fedlex.data.admin.ch/eli/oc/2003/639), [2004 5399](https://fedlex.data.admin.ch/eli/oc/2004/826). [RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)n. II 9]
+[^34-1]: [[RU 1998 239](https://fedlex.data.admin.ch/eli/oc/1998/239_239_239), [2000 81](https://fedlex.data.admin.ch/eli/oc/2000/17), [2002 3728](https://fedlex.data.admin.ch/eli/oc/2002/578), [2003 4299](https://fedlex.data.admin.ch/eli/oc/2003/639), [2004 5399](https://fedlex.data.admin.ch/eli/oc/2004/826). [RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)cifra II n. 9]
 [^34-2]: [RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
 
 #### Art. 35
@@ -834,7 +837,7 @@ La legge federale del 19 marzo 1965[^35-1] sulle prestazioni complementari all�
 
 Data dell’entrata in vigore: 1° gennaio 2008[^35-2]
 
-[^35-1]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535);[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)n. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)n. IV]
+[^35-1]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535);[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II n. 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699);[1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)cifra IV]
 [^35-2]: DCF del 7 nov. 2007.
 
 ## Disposizione transitoria della modifica del 19 marzo 2010
