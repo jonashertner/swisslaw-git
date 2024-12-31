@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2009 sur les systèmes d'information de l'arm
 short: OSIAr
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20240101/fr"
 
 (OSIAr)[^t-1]
 
-du 16 décembre 2009 (État le 1<sup>er</sup> janvier 2024)
+du 16 décembre 2009 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -2211,7 +2211,7 @@ Annexe 1b[^t-4]
 
 ## Données du SIGEDOS
 
-[^t-4]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-4]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Mise à jour par l’annexe ch. 3 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ### 1 Données des conscrits, des personnes astreintes au service militaire, ainsi que des civils pris en charge par la troupe ou qui participent à un engagement de l’armée de durée déterminée
 
@@ -2339,7 +2339,7 @@ Annexe 1b[^t-4]
 - 1\.8.14 Demandes de congé pour l’étranger et autorisations données
 - 1\.8.15 Décompte des jours de service à la fin du service (approbation du militaire)
 - 1\.8.16 Confirmation de réception de la solde
-- 1\.8.17 Demande d’allocations pour perte de gain, y compris toutes les données nécessaires comme celles qui concernent l’employeur, la situation professionnelle ou le versement des allocations
+- 1\.8.17 …
 - 1\.8.18 Taxe d’exemption versée
 - 1\.8.19 Demandes de services volontaires et approbations
 - 1\.8.20 Informations relatives aux services (ordres du jour, planification hebdomadaire, feuille d’urgence, contrôle du temps de repos, possibilités de déplacement, dispenses du service d’appui et plan des menus)
@@ -2488,7 +2488,7 @@ Annexe 1b[^t-4]
 - 2\.7.14 Demandes de congé pour l’étranger et autorisations données
 - 2\.7.15 Décompte des jours de service à la fin du service (approbation du membre de la protection civile)
 - 2\.7.16 Confirmation de réception de la solde
-- 2\.7.17 Demande d’allocations pour perte de gain, y compris toutes les données nécessaires comme celles qui concernent l’employeur, la situation professionnelle ou le versement des allocations
+- 2\.7.17 …
 - 2\.7.18 Taxe d’exemption versée
 - 2\.7.19 Demandes de services volontaires et approbations
 - 2\.7.20 Informations relatives aux services (ordres du jour, planification hebdomadaire, feuille d’urgence, contrôle du temps de repos, possibilités de déplacement et plan des menus)
@@ -3757,7 +3757,7 @@ Annexe 34[^t-45]
 - 19j. Numéro de téléphone
 - 19k. Adresse électronique
 - 19l. Langue de correspondance
-- [tab] 19m. Lieu de travail
+- 19m. Lieu de travail
 - 19n. Profession et fonction
 
 ### Relatives au sinistre
@@ -4186,7 +4186,7 @@ Annexe 35f[^t-55]
 
 [^t-55]: Introduite par le ch. II al. 1 de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Nouvelle teneur selon le ch. II al. 3 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-Les données du système IGDP ci-après visées dans l'annexe 3 de l’ordonnance du 22 novembre 2017 concernant la protection des données personnelles du personnel de la Confédération[^annex35f-lvlu1-1] sont traitées dans le PSB et proviennent du système IGDP:
+Les données du système IGDP ci-après visées dans l’annexe 3 de l’ordonnance du 22 novembre 2017 concernant la protection des données personnelles du personnel de la Confédération[^annex35f-lvlu1-1] sont traitées dans le PSB et proviennent du système IGDP:
 
 - – Mesures concernant le personnel
 - – Affectation organisationnelle
@@ -4194,7 +4194,7 @@ Les données du système IGDP ci-après visées dans l'annexe 3 de l’ordonnanc
 - – Statut de la paie
 - – Adresses
 - – Coordonnées bancaires
-- – Régime d'indemnisation des frais de déplacement
+- – Régime d’indemnisation des frais de déplacement
 - – Famille / proches
 - – Données internes
 - – Fonction interne

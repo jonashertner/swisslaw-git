@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2009 über militärische und andere Informati
 short: MIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20240101/de"
 
 (MIV)[^t-1]
 
-vom 16. Dezember 2009 (Stand am 1. Januar 2024)
+vom 16. Dezember 2009 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -120,13 +120,15 @@ Die für den Datenschutz jeweils verantwortliche Verwaltungseinheit des Bundes s
 
 Mehrere Informationssysteme können technisch zusammengeführt und über dieselbe technische Plattform, Infrastruktur, Applikation oder Datenbank betrieben werden, sofern:
 
-- a. und b.[^2b-3] …
+- a.[^2b-3] …
+- b.[^2b-4] …
 - c. für jedes einzelne Informationssystem die jeweils geltenden datenschutzrechtlichen Bestimmungen, insbesondere diejenigen im MIG und in dieser Verordnung, eingehalten und Umfang und Zweck der Datenbearbeitung sowie die Zugriffsrechte nicht erweitert werden; und
 - d. in den Bearbeitungsreglementen der betreffenden Informationssysteme aufgezeigt wird, dass und wie die Anforderungen gemäss Buchstabe c erfüllt werden.
 
 [^2b-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^2b-2]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^2b-3]: Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2b-4]: Aufgehoben durch Ziff. II der V vom 3. März 2023, mit Wirkung seit 1. Sept. 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2c
 
@@ -973,7 +975,7 @@ Die in Informationssystemen von Simulatoren enthaltenen Daten sind im Anhang 25 
 
 <sup>1</sup> Die im Informationssystem Ausbildungsmanagement (Learning Management System VBS; LMS VBS) enthaltenen Daten sind in Anhang 26 aufgeführt.
 
-- [tab] <sup>2</sup> Die Daten für das LMS VBS können aus dem zentralen Identitätsspeicher nach Artikel 13 IAMV beschafft werden, soweit dies in Anhang 26 vorgesehen ist.[^59-2]
+<sup>2</sup> Die Daten für das LMS VBS können aus dem zentralen Identitätsspeicher nach Artikel 13 IAMV beschafft werden, soweit dies in Anhang 26 vorgesehen ist.[^59-2]
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^59-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
@@ -1426,19 +1428,19 @@ Die Gruppe Verteidigung gibt den folgenden Behörden über einen Online-Zugang u
 
 ### 4. Abschnitt: …
 
-### **72***g* <sup>bis</sup>–**72***g*<sup>sexies</sup>
+#### Art. 72g
 
-[^chap6-sec4-lvl72g-1]
+**<sup>bis</sup>–**72***g*<sup>sexies</sup> [^72g-1]**
 
-[^chap6-sec4-lvl72g-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^72g-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 ### 4*a*. Abschnitt: …
 
-### **72***g* <sup>septies</sup>–**72***g*<sup>undecies</sup>
+#### Art. 72g
 
-[^chap6-sec4a-lvl72g-1]
+**<sup>septies</sup>–**72***g*<sup>undecies</sup> [^72g-2]**
 
-[^chap6-sec4a-lvl72g-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^72g-2]: Eingefügt durch Ziff. I der V vom 10. Juni 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### 5. Abschnitt: Hilfsdatenbanken
 
@@ -1680,7 +1682,10 @@ Sie teilt den Departementen und der Bundeskanzlei je zu den Flügen, die für di
 
 <sup>2</sup> Die zivilen Behörden erbringen bei der Einreichung eines Gesuches um Einsatz von luftgestützten Überwachungsmitteln den Nachweis, dass die Rechtsgrundlagen nach Artikel 183 Absatz 2 MIG bestehen. Die Gruppe Verteidigung überprüft den Nachweis. Fehlen die Rechtsgrundlagen, so wird das Gesuch nicht bewilligt.
 
-- [tab] <sup>3</sup> Die Gruppe Verteidigung berichtet dem VBS jährlich zuhanden der Sicherheitspolitischen Kommissionen beider Räte summarisch über:[^74-1]
+<sup>3</sup>
+
+Die Gruppe Verteidigung berichtet dem VBS jährlich zuhanden der Sicherheitspolitischen Kommissionen beider Räte summarisch über:[^74-1]
+
 - a.[^74-2] den Zweck sowie die Dauer und Anzahl der Einsätze nach Artikel 181 Absatz 2 MIG;
 - b. die Art der verwendeten Überwachungsmittel;
 - c.[^74-3] die Art der Behörden, zugunsten derer die Einsätze erfolgt sind.
@@ -2222,7 +2227,7 @@ Anhang 1b[^t-4]
 
 ## Daten des DIM
 
-[^t-4]: Eingefügt durch Ziff. III Abs. 1 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-4]: Eingefügt durch Ziff. III Abs. 1 der V vom 3. März 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Bereinigt gemäss Anhang Ziff. 3 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ### 1 Daten der Stellungspflichtigen, der Militärdienstpflichtigen sowie von Zivilpersonen, die von der Truppe betreut oder für einen befristeten Einsatz der Armee beigezogen werden
 
@@ -2350,7 +2355,7 @@ Anhang 1b[^t-4]
 - 1\.8.14 Gesuche um Auslandurlaub und deren Genehmigungen
 - 1\.8.15 Diensttageabrechnung bei Dienstende (Genehmigung durch die Angehörige oder den Angehörigen der Armee)
 - 1\.8.16 Bestätigung des Solderhalts
-- 1\.8.17 Antrag für Erwerbsersatz, einschliesslich aller erforderlichen Daten wie etwa zur Arbeitgeberin oder zum Arbeitgeber oder zur beruflichen Situation sowie betreffend die Auszahlung des Erwerbsersatzes
+- 1\.8.17 …
 - 1\.8.18 Geleisteter Wehrpflichtersatz
 - 1\.8.19 Gesuche um freiwillige Dienstleistungen und deren Genehmigungen
 - 1\.8.20 Informationen zur Dienstleistung (wie Tagesbefehle, Wochenplanung, Notfallzettel, Ruhezeitkontrolle, Reisemöglichkeiten, Dispensation vom Assistenzdienst und Menüplan)
@@ -2499,7 +2504,7 @@ Anhang 1b[^t-4]
 - 2\.7.14 Gesuche um Auslandurlaub und deren Genehmigungen
 - 2\.7.15 Diensttageabrechnung bei Dienstende (Genehmigung durch die oder den Angehörigen des Zivilschutzes)
 - 2\.7.16 Bestätigung des Solderhalts
-- 2\.7.17 Antrag für Erwerbsersatz, einschliesslich aller erforderlichen Daten wie etwa zur Arbeitgeberin oder zum Arbeitgeber oder zur beruflichen Situation sowie betreffend die Auszahlung des Erwerbsersatzes
+- 2\.7.17 …
 - 2\.7.18 Geleisteter Wehrpflichtersatz
 - 2\.7.19 Gesuche um freiwillige Dienstleistungen und deren Genehmigungen
 - 2\.7.20 Informationen zur Dienstleistung (wie Tagesbefehle, Wochenplanung, Notfallzettel, Ruhezeitkontrolle, Reisemöglichkeiten und Menüplan)
@@ -2742,7 +2747,11 @@ Zusätzlich bei einer Anstellung im Armee-Aufklärungsdetachement (AAD) 10, im M
 - 22\. Daten über die erworbenen Brevets und Ausbildungen mit Erwerbsdatum, Resultat und Verfalldatum
 - 23\. Daten für den Verstorbenen- und Vermisstendienst
 
-Mit Einwilligung der betreffenden Person erhobene Daten:
+[^annex6-lvlu1-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+### Mit
+
+Einwilligung der betreffenden Person erhobene Daten:
 
 - 24\. Detailangaben über Personaldokumente (Pass, ID, Führerschein, Fahrzeugausweis, Personalausweis etc.)
 - 25\. besondere zivile Kenntnisse und Ausweise (wie Sprachen, Spezialausbildung)
@@ -2752,8 +2761,6 @@ Mit Einwilligung der betreffenden Person erhobene Daten:
 - 29\. Adressen des Zahn- und Hausarztes
 - 30\. Daten der Karriere- und Nachfolgeplanung
 - 31\. weitere Daten, die von der betreffenden Person freiwillig gemeldet wurden
-
-[^annex6-lvlu1-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 Anhang 7[^t-10]
 
@@ -3777,7 +3784,7 @@ Anhang 34[^t-49]
 - 19j. Telefonnummer
 - 19k. E-Mail-Adresse
 - 19l. Korrespondenzsprache
-- [tab] 19m. Arbeitsort
+- 19m. Arbeitsort
 - 19n. Beruf und Funktion
 
 ### über das Schadenereignis
@@ -3828,13 +3835,10 @@ Anhang 35<sup>bis</sup> [^t-51]
 
 ### Daten über Stellungspflichtige, Angehörige der Armee (AdA), ehemalige AdA, militärisches Personal und Dritte, die eine Leihwaffe besitzen oder Armeematerial besitzen oder bestellen
 
-1 Personalien
-
+- **1** **Personalien**
 - 1\.1 Name, Vorname
 - 1\.2 Adresse mit Wohnkanton, Wohnort und Postleitzahl
-
-2 Stammdaten
-
+- **2** **Stammdaten**
 - 2\.1 AHV-Nummer
 - 2\.2 Geburtsdatum
 - 2\.3 Geschlecht
@@ -3843,9 +3847,7 @@ Anhang 35<sup>bis</sup> [^t-51]
 - 2\.6 Telefonnummern Geschäft und privat
 - 2\.7 Faxnummern Geschäft und privat
 - 2\.8 E-Mail-Adressen
-
-3 Administration
-
+- **3** **Administration**
 - 3\.1 Personalnummer
 - 3\.2 Gültig ab/bis
 - 3\.3 Geändert von/am
@@ -3863,9 +3865,7 @@ Anhang 35<sup>bis</sup> [^t-51]
 - 3\.15 Abtretung an Kreiskommando
 - 3\.16 Rückgabe an Logistikbasis der Armee
 - 3\.17 Rückgabe an Armeelogistikcenter
-
-3a Ausrüstung
-
+- **3a** **Ausrüstung**
 - 3a.1 Gültig ab/bis
 - 3a.2 Geändert von/am
 - 3a.3 Material
@@ -3875,9 +3875,7 @@ Anhang 35<sup>bis</sup> [^t-51]
 - 3a.7 Gutschein Quotenbezug
 - 3a.8 Bestellungen (Bestelldatum/-daten, bestellte Artikel, Anzahl, Konfektionsgrösse, Lieferdatum, Lieferadresse, Hinweis über erfolgte oder noch erforderliche Rücksendung rückgabepflichtiger Artikel, Gutscheinverbrauch)
 - 3a.9 Daten zum Benutzerinnen- oder Benutzerkonto für die Online-Plattform für Materialbestellungen (Benutzerinnen- oder Benutzername, Passwort, Gültigkeit und Gültigkeitsdauer des Kontos, Datum der letzten Passwortänderung, Datum letzte Anmeldung, Anzahl Anmeldungen, technische Daten)
-
-4 Hinterlegung der Ausrüstung
-
+- **4** **Hinterlegung der Ausrüstung**
 - 4\.1 Gültig ab/bis
 - 4\.2 Geändert von/am
 - 4\.3 Hinterlegungsart, -grund und -ort
@@ -3885,22 +3883,16 @@ Anhang 35<sup>bis</sup> [^t-51]
 - 4\.5 Hinterlegungskostenpflicht
 - 4\.6 Hinterlegungskosten Belegung bis
 - 4\.7 Rechnungsnummer
-
-5 Korrespondenz über die persönliche Ausrüstung
-
+- **5** **Korrespondenz über die persönliche Ausrüstung**
 - 5\.1 Gültig ab/bis
 - 5\.2 Geändert von/am
 - 5\.3 Dokumente (Art, Version, Teildokumente)
-
-6 Auslandeinsatz
-
+- **6** **Auslandeinsatz**
 - 6\.1 Gültig ab/bis
 - 6\.2 Geändert von/am
 - 6\.3 Einsatzart
 - 6\.4 Einsatzende
-
-7 Waffe zu Eigentum
-
+- **7** **Waffe zu Eigentum**
 - 7\.1 Gültig ab/bis
 - 7\.2 Geändert von/am
 - 7\.3 Material
@@ -3908,22 +3900,15 @@ Anhang 35<sup>bis</sup> [^t-51]
 
 ### Daten über Stellungspflichtige, AdA, ehemalige AdA und militärisches Personal
 
-8 Administration
-
+- **8** **Administration**
 - 8\.1 Dienstbüchlein erhalten von
 - 8\.2 Dienstbüchlein abgegeben an
-
-9 Status nach Militärgesetz
-
+- **9** **Status nach Militärgesetz**
 - 9\.1 Tauglichkeit mit Datum
-
-10 Dienstbemerkungen Katalog
-
+- **10** **Dienstbemerkungen Katalog**
 - 10\.1 Dienstbemerkung Code
 - 10\.2 Gültigkeitsdatum und -status
-
-11 Dienstbemerkungen und weitere Angaben zur Waffe
-
+- **11** **Dienstbemerkungen und weitere Angaben zur Waffe**
 - 11\.1 Codierte Dienstbemerkung zur Waffe mit Datum und Befristung
 - 11\.2 R-Flag: medizinische Untauglichkeit
 - 11\.3 Code 91: vorsorgliche Abnahme der persönlichen Waffe oder Leihwaffe
@@ -3931,28 +3916,21 @@ Anhang 35<sup>bis</sup> [^t-51]
 - 11\.5 Zwecks Bekanntgabe an die Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d WG gemäss den Artikeln 16 Absatz 3<sup>bis</sup> und 28 Absatz 2<sup>bis</sup> MIG: medizinische und andere Hinderungsgründe betreffend die Abgabe der persönlichen Waffe
 - 11\.6 Zwecks Bekanntgabe an die Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d WG gemäss den Artikeln 16 Absatz 3<sup>bis</sup> und 28 Absatz 2<sup>bis</sup> MIG: medizinische und andere Gründe für die Rücknahme, die Abnahme oder den Entzug der persönlichen Waffe
 - 11\.7 Meldungen der Zentralstelle nach Artikel 32*c* Absatz 4 WG
-
-12 Waffenlos
-
+- **12** **Waffenlos**
 - 12\.1 Gültig ab/bis
 - 12\.2 Geändert von/am
 - 12\.3 Waffenlos
-
-13 Taschenmunition
-
+- **13** **Taschenmunition**
 - 13\.1 Gültig ab/bis
 - 13\.2 Geändert von/am
 - 13\.3 Taschenmunition
-
-14 Weitere Daten
-
+- **14** **Weitere Daten**
 - 14\.1 Brillenträgerin oder Brillenträger
 - 14\.2 Führerausweiskategorie
 
 ### Daten über AdA, ehemalige AdA und militärisches Personal
 
-15 Stammdaten
-
+- **15** **Stammdaten**
 - 15\.1 Mutationscode des Datensatzes (Code Funktion/Ausbildung/Einheit)
 - 15\.2 Einheitsnummer mit aktueller/letzter Einteilung
 - 15\.3 Funktion und Grad mit Gradzusatz
@@ -3961,9 +3939,7 @@ Anhang 35<sup>bis</sup> [^t-51]
 - 15\.6 Auszeichnungen (maximal 10)
 - 15\.7 Truppengattung
 - 15\.8 Anrechenbare Diensttage
-
-16 Dienstvormerk
-
+- **16** **Dienstvormerk**
 - 16\.1 Einheit/Schule/Kurs
 - 16\.2 Art des Dienstes
 - 16\.3 Fremde Einheit
@@ -3972,8 +3948,7 @@ Anhang 35<sup>bis</sup> [^t-51]
 
 ### Daten über militärisches Personal
 
-17 Militärisches Personal
-
+- **17** **Militärisches Personal**
 - 17\.1 Gültig ab/bis
 - 17\.2 Geändert von/am
 - 17\.3 Zusatzausbildung militärisches Personal
@@ -3981,14 +3956,11 @@ Anhang 35<sup>bis</sup> [^t-51]
 
 ### Daten der Mitarbeiterinnen und Mitarbeiter
 
-18 Personalgewinnung
-
+- **18** **Personalgewinnung**
 - 18\.1 Bewerbungsdossier
 - 18\.2 Anstellungsunterlagen
 - 18\.3 Sicherheit
-
-19 Personalführung
-
+- **19** **Personalführung**
 - 19\.1 Personaldaten und Daten zu Familie und Bezugspersonen
 - 19\.2 Stellenbeschreibungen
 - 19\.3 Zeugnisse
@@ -3997,39 +3969,29 @@ Anhang 35<sup>bis</sup> [^t-51]
 - 19\.6 Disziplinarwesen
 - 19\.7 Bewilligungen
 - 19\.8 Öffentliche Ämter und Nebenbeschäftigungen
-
-20 Personalhonorierung
-
+- **20** **Personalhonorierung**
 - 20\.1 Lohn/Zulagen
 - 20\.2 Spesen
 - 20\.3 Prämien
 - 20\.4 Lohnnebenleistungen/Vergünstigungen
 - 20\.5 Familienergänzende Kinderbetreuung
-
-21 Sozialversicherungen
-
+- **21** **Sozialversicherungen**
 - 21\.1 Alters- und Hinterlassenenversicherung/Invalidenversicherung/Erwerbsersatzordnung/Arbeitslosenversicherung
 - 21\.2 Schweizerische Unfallversicherungsanstalt/Unfallversicherung
 - 21\.3 Familienzulagen
 - 21\.4 Pensionskasse des Bundes
 - 21\.5 Militärversicherung
-
-22 Gesundheit
-
+- **22** **Gesundheit**
 - 22\.1 Tauglichkeitsbescheinigung bei Eintritt
 - 22\.2 Beurteilung der medizinischen Tauglichkeit
 - 22\.3 Zeugnisse von Ärztinnen und Ärzten
 - 22\.4 Ermächtigung für Ärztinnen und Ärzte und Versicherungen
 - 22\.5 Anfragen/Stellungnahmen ärztlicher Dienst
 - 22\.6 Dauer der Absenzen infolge Krankheit und Unfall
-
-23 Versicherungen Allgemein
-
+- **23** **Versicherungen Allgemein**
 - 23\.1 Unterlagen Haftpflichtfälle
 - 23\.2 Effektenschäden
-
-24 Personalentwicklung
-
+- **24** **Personalentwicklung**
 - 24\.1 Aus- und Weiterbildung
 - 24\.2 Entwicklungsmassnahmen
 - 24\.3 Qualifikationen
@@ -4037,26 +3999,20 @@ Anhang 35<sup>bis</sup> [^t-51]
 - 24\.5 Ergebnisse von Persönlichkeitstests und Potenzialbeurteilungen
 - 24\.6 Kaderentwicklung
 - 24\.7 Berufliche Grundbildung
-
-25 Austritt/Übertritt
-
+- **25** **Austritt/Übertritt**
 - 25\.1 Kündigung der Arbeitgeberin oder des Arbeitgebers
 - 25\.2 Kündigung der Arbeitnehmerin oder des Arbeitnehmers
 - 25\.3 Pensionierung
 - 25\.4 Todesfall
 - 25\.5 Austrittsformalitäten/Austrittsinterview
 - 25\.6 Übertrittsformalitäten
-
-26 Militärisches Personal
-
+- **26** **Militärisches Personal**
 - 26\.1 Einteilung/Grad/Ausrüstung
 - 26\.2 Militärische Prüfungs- und Testresultate
 - 26\.3 Beförderungen/Abkommandierungen
 - 26\.4 Vorruhestand
 - 26\.5 Zeitmilitär
-
-27 Betriebliche Daten
-
+- **27** **Betriebliche Daten**
 - 27\.1 Organisation der Gruppe Verteidigung/Stellenplan
 - 27\.2 Organisatorische Zuordnung
 - 27\.3 Zeit- und Leistungswirtschaft
