@@ -3,20 +3,19 @@ canton: SG
 number: "145.2"
 title: "Verordnung über die Höhe, Ausrichtung und Ablieferung von Vergütungen im Zusammenhang mit der Einsitznahme in Organe von Organisationen mit kantonaler Beteiligung (Vergütungsverordnung)"
 language: de
-version: 2024-06-01
-valid_until: 2024-12-31
-version_adopted: 2023-03-21
+version: 2025-01-01
+version_adopted: 2024-11-19
 adopted: 2015-10-06
 in_force: 2016-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/145.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3483/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3701/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Höhe, Ausrichtung und Ablieferung von Vergütungen im Zusammenhang mit der Einsitznahme in Organe von Organisationen mit kantonaler Beteiligung (Vergütungsverordnung)
 
-vom 06.10.2015 (Stand 01.06.2024)
+vom 06.10.2015 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
