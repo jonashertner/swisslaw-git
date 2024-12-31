@@ -4,13 +4,12 @@ number: "836.111"
 title: Arbeitsmarktverordnung
 short: AMV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-15
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/836.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2902/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3095/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +18,20 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2902/pdf_file"
 
 (AMV)
 
-vom 29.10.2003 (Stand 01.01.2024)
+vom 29.10.2003 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 41 Absatz 2 des Bundesgesetzes vom 6. Oktober 1989 über die Arbeitsvermittlung und den Personalverleih (Arbeitsvermittlungsgesetz, AVG)[^ingress-1] sowie Artikel 31 und 35 Absatz 1 des Arbeitsmarktgesetzes vom 23. Juni 2003 (AMG)[^ingress-2],
+gestützt auf Artikel 4 Absatz 1 des Bundesgesetzes vom 17. Juni 2005 über Massnahmen zur Bekämpfung der Schwarzarbeit (Bundesgesetz gegen die Schwarzarbeit, BGSA)[^ingress-1], Artikel 41 Absatz 2 des Bundesgesetzes vom 6. Oktober 1989 über die Arbeitsvermittlung und den Personalverleih (Arbeitsvermittlungsgesetz, AVG)[^ingress-2], Artikel 7 Absatz 1 Buchstaben c und d des Bundesgesetzes vom 8. Oktober 1999 über die flankierenden Massnahmen bei entsandten Arbeitnehmerinnen und Arbeitnehmern und über die Kontrolle der in Normalarbeitsverträgen vorgesehenen Mindestlöhne (Entsendegesetz, EntsG)[^ingress-3] sowie Artikel 31, 34 und 35 Absatz 1 des Arbeitsmarktgesetzes vom 23. Juni 2003 (AMG)[^ingress-4],
 
 auf Antrag der Volkswirtschaftsdirektion,
 
 beschliesst:
 
-[^ingress-1]: SR 823.11
-[^ingress-2]: BSG 836.11
+[^ingress-1]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de)
+[^ingress-2]: SR [823.11](https://db.clex.ch/link/Bund/823.11/de)
+[^ingress-3]: SR [823.20](https://db.clex.ch/link/Bund/823.20/de)
+[^ingress-4]: BSG [836.11](https://www.belex.sites.be.ch/data/836.11/de)
 
 ## 1 Arbeitsaufsicht und Arbeitsmarktbeobachtung
 
@@ -147,6 +148,18 @@ beschliesst:
 <sup>2</sup> Es dokumentiert Gesamtarbeitsverträge sowie Branchenvereinbarungen und -empfehlungen zu Lohn- und Arbeitsbedingungen.
 
 <sup>3</sup> Zur Beurteilung von Einzelfällen kann es Daten für einzelne Regionen, Wirtschaftssektoren oder Branchen erheben.
+
+### 1.5 Schwarzarbeitsbekämpfung
+
+#### Art. 14a
+
+<sup>1</sup> Die Kontrollen gemäss Artikel 6 ff. BGSA werden in Zusammenarbeit mit dem AWI vom Verein Arbeitsmarktkontrolle Bern durchgeführt.
+
+### 1.6 Arbeitsmarktkontrollen
+
+#### Art. 14b
+
+<sup>1</sup> Die Kontrollen gemäss Artikel 7 Absatz 1 Buchstaben c und d EntsG werden in Zusammenarbeit mit dem AWI vom Verein Arbeitsmarktkontrolle Bern durchgeführt.
 
 ## 2 Arbeitsvermittlung
 

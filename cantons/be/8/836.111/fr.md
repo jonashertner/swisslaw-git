@@ -4,13 +4,12 @@ number: "836.111"
 title: Ordonnance sur le marché du travail
 short: OMT
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-15
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/836.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2902/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3095/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,18 +18,20 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2902/pdf_file"
 
 (OMT)
 
-du 29.10.2003 (état au 01.01.2024)
+du 29.10.2003 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l'article 41, alinéa 2 de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services (LSE)[^ingress-1], ainsi que les articles 31 et 35, alinéa 1 de la loi du 23 juin 2003 sur le marché du travail (LMT)[^ingress-2],
+vu l'article 4, alinéa 1 de la loi fédérale du 17 juin 2005 concernant des mesures en matière de lutte contre le travail au noir (loi sur le travail au noir, LTN)[^ingress-1], l'article 41, alinéa 2 de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services (LSE)[^ingress-2], l'article 7, alinéa 1, lettres c et d de la loi fédérale du 8 octobre 1999 sur les mesures d'accompagnement applicables aux travailleurs détachés et aux contrôles des salaires minimaux prévus par les contrats-types de travail (loi sur les travailleurs détachés, LDét)[^ingress-3] ainsi que les articles 31, 34 et 35, alinéa 1 de la loi du 23 juin 2003 sur le marché du travail (LMT)[^ingress-4],
 
 sur proposition de la Direction de l'économie publique,
 
 arrête:
 
-[^ingress-1]: RS 823.11
-[^ingress-2]: RSB 836.11
+[^ingress-1]: RS [822.41](https://db.clex.ch/link/Bund/822.41/fr)
+[^ingress-2]: RS [823.11](https://db.clex.ch/link/Bund/823.11/fr)
+[^ingress-3]: RS [823.20](https://db.clex.ch/link/Bund/823.20/fr)
+[^ingress-4]: RSB [836.11](https://www.belex.sites.be.ch/data/836.11/fr)
 
 ## 1 Surveillance du travail et observation du marché du travail
 
@@ -147,6 +148,18 @@ arrête:
 <sup>2</sup> Il documente les conventions collectives ainsi que les accords et les recommandations par branches sur les conditions de salaire et de travail.
 
 <sup>3</sup> Pour l'appréciation de certains cas, il peut recenser des données pour des régions, des secteurs économiques ou des branches spécifiques.
+
+### 1.5 Lutte contre le travail au noir
+
+#### Art. 14a
+
+<sup>1</sup> Les contrôles selon les articles 6 ss LTN sont effectués par l'association Contrôle du marché du travail Berne en collaboration avec l'OEC.
+
+### 1.6 Contrôles du marché du travail
+
+#### Art. 14b
+
+<sup>1</sup> Les contrôles selon l'article 7, alinéa 1, lettres c et d LDét sont effectués par l'association Contrôle du marché du travail Berne en collaboration avec l'OEC.
 
 ## 2 Service de l'emploi
 
