@@ -4,13 +4,12 @@ number: "210.300"
 title: "Legge sul notariato *"
 short: LNot
 language: it
-version: 2023-04-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3315/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3807/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3315/pdf_file"
 
 (LNot)
 
-del 18.10.2004 (stato 01.04.2023)
+del 18.10.2004 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni,
 
@@ -74,17 +73,19 @@ decide:
 
 **Commissione notarile 1. Nomina, composizione, indennizzo**
 
-<sup>1</sup> Il Tribunale cantonale e il Tribunale amministrativo nominano insieme una Commissione notarile composta di cinque membri e tre supplenti, per un periodo di carica di quattro anni.
+<sup>1</sup> Il Tribunale d'appello nomina i cinque membri della Commissione notarile e i tre supplenti per un periodo di quattro anni. È possibile procedere a nomine sostitutive durante il periodo di carica.
 
-<sup>2</sup> Della Commissione notarile fanno parte di regola:
+<sup>2</sup> La Commissione notarile è composta di regola da:
 
-- a) una notaia o un notaio con patente, una notaia regionale o un notaio regionale e una o un ufficiale del registro fondiario con patente;
-- b) tre titolari del certificato grigionese di capacità per notaie e notai;
-- c) un membro del Tribunale cantonale o del Tribunale amministrativo.
+- a) notaie e notai con patente;
+- b) almeno una o un ufficiale del registro fondiario con patente;
+- c) tre supplenti, che possono essere notaie o notai con patente oppure ufficiali del registro fondiario con patente.
 
-<sup>3</sup> La Commissione notarile si autocostituisce. Può dotarsi di una segreteria e di un'attuaria o di un attuario.
+<sup>3</sup> La Commissione notarile si autocostituisce. Essa si dota di un segretariato e di un attuariato. La o il presidente designa l'indirizzo di recapito per la Commissione notarile e lo rende noto pubblicamente.
 
-<sup>4</sup> Il Governo stabilisce le indennità di lavoro e i rimborsi spese dei membri della Commissione notarile.
+<sup>3<sup>bis</sup></sup> Dal punto di vista amministrativo la Commissione notarile è annessa al Tribunale d'appello.
+
+<sup>4</sup> Il Governo stabilisce le indennità di lavoro e i rimborsi spese per i membri della Commissione notarile.
 
 #### Art. 5
 
@@ -104,7 +105,19 @@ decide:
 - h) la comunicazione di raccomandazioni e il rilascio d'informazioni su questioni di diritto notarile di importanza generale;
 - i) l'evasione dei compiti concernenti la legalizzazione elettronica e la documentazione pubblica elettronica che non sono stati attribuiti a nessun'altra autorità.
 
-<sup>3</sup> La Commissione notarile presenta annualmente rapporto all'attenzione del Gran Consiglio.
+<sup>3</sup> …
+
+#### Art. 5a
+
+**3. Vigilanza**
+
+<sup>1</sup> Il Tribunale d'appello esercita la vigilanza sulla Commissione notarile.
+
+<sup>2</sup> Nei confronti della Commissione notarile e dei suoi membri esso dispone degli stessi strumenti di vigilanza e mezzi ausiliari di cui dispone nei confronti delle autorità giudiziarie e dei loro membri soggetti alla sua vigilanza diretta. Si applicano per analogia le disposizioni della legge sull'organizzazione giudiziaria[^5a-1] relative alla vigilanza sulla giustizia.
+
+<sup>3</sup> Il Tribunale d'appello decide in merito alla liberazione dal segreto d'ufficio di membri della Commissione per dichiarazioni dinanzi ad altre autorità e per l'edizione di atti.
+
+[^5a-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 6
 
@@ -112,11 +125,15 @@ decide:
 
 <sup>1</sup> La Commissione notarile designa una o più ispettrici notarili o uno o più ispettori notarili e ordina ispezioni periodiche dell'attività delle notaie e dei notai.
 
-<sup>2</sup> L'attività dell'ufficiale del registro fondiario viene di regola ispezionata dall'Ispettorato cantonale del registro fondiario.
+<sup>2</sup> L'attività dell'ufficiale del registro fondiario viene di regola ispezionata dall'Ufficio del registro fondiario e del registro di commercio.
 
 <sup>3</sup> Le notaie ed i notai sono tenuti a fornire alla persona incaricata dell'ispezione tutte le informazioni richieste sulla loro attività e a presentare tutti i documenti richiesti.
 
 <sup>4</sup> Le persone incaricate dell'ispezione presentano rapporto all'attenzione della Commissione notarile.
+
+<sup>5</sup> Il Governo stabilisce le indennità di lavoro e i rimborsi spese per le persone incaricate dell'ispezione. Esso può prevedere deroghe agli importi previsti dall'articolo 70 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni[^6-1].
+
+[^6-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 7
 
@@ -145,7 +162,7 @@ decide:
 
 <sup>1</sup> Se la presente legge non prevede disposizioni particolari, per tutti i procedimenti dinanzi alla Commissione notarile si applica la legge sulla giustizia amministrativa[^9-1].
 
-<sup>2</sup> Le decisioni della Commissione notarile, salvo quelle ai sensi dell'articolo 10 capoverso 2, possono essere impugnate mediante ricorso al Tribunale amministrativo.
+<sup>2</sup> Le decisioni della Commissione notarile possono essere impugnate mediante ricorso al Tribunale d'appello entro 30 giorni dalla comunicazione motivata.
 
 <sup>3</sup> La Commissione notarile può emanare decisioni in merito all'esame di notaio nel dispositivo. Le persone interessate possono richiedere per iscritto una decisione motivata alla Commissione notarile entro dieci giorni dalla comunicazione. L'articolo 48 della legge sulla giustizia amministrativa fa stato per analogia.
 
@@ -283,9 +300,9 @@ decide:
 
 <sup>1</sup> Chi assume la carica di ufficiale del registro fondiario è considerato notaia o notaio ai sensi dell'articolo 1 capoversi 1 e 2.
 
-<sup>2</sup> L'ufficiale del registro fondiario presta giuramento quale notaia o notaio dinanzi all'Ispettore cantonale del registro fondiario. L'articolo 13 capoverso 1 è applicabile per analogia.
+<sup>2</sup> L'ufficiale del registro fondiario presta giuramento quale notaia o notaio dinanzi all'Ispettore del registro fondiario. L'articolo 13 capoverso 1 è applicabile per analogia.
 
-<sup>3</sup> L'Ispettorato cantonale del registro fondiario comunica la nomina alla Commissione notarile.
+<sup>3</sup> L'Ufficio del registro fondiario e del registro di commercio comunica la nomina alla Commissione notarile.
 
 #### Art. 20
 
@@ -620,7 +637,7 @@ decide:
 
 **Atti normativi di esecuzione**
 
-<sup>1</sup> Il Governo emana le necessarie disposizioni esecutive e su richiesta della Commissione notarile un regolamento d'esame.
+<sup>1</sup> Il Governo emana le necessarie disposizioni esecutive e su richiesta della Commissione notarile emana un'ordinanza sull'esame di notaio.
 
 #### Art. 51
 
@@ -637,6 +654,8 @@ decide:
 <sup>2</sup> Si può prescindere da questo atto, se una notaia regionale o un notaio regionale rileva, allo scopo di conservarlo, tutto ciò che è soggetto all'obbligo di deposito.
 
 <sup>3</sup> In ogni caso deve essere redatto un verbale di consegna e inviato alla Commissione notarile.
+
+<sup>4</sup> Le nuove regolamentazioni in materia di vigilanza finanziaria sono valide a partire dal primo anno contabile che inizia dopo l'entrata in vigore della modifica della presente legge.
 
 #### Art. 52
 

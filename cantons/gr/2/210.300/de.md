@@ -4,13 +4,12 @@ number: "210.300"
 title: Notariatsgesetz
 short: NotG
 language: de
-version: 2023-04-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3315/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3807/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3315/pdf_file"
 
 (NotG)
 
-Vom 18.10.2004 (Stand 01.04.2023)
+Vom 18.10.2004 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden,
 
@@ -74,17 +73,19 @@ beschliesst:
 
 **Notariatskommission 1. Wahl, Zusammensetzung, Entschädigung**
 
-<sup>1</sup> Kantonsgericht und Verwaltungsgericht wählen gemeinsam für eine Amtsdauer von vier Jahren eine Notariatskommission von fünf Mitgliedern und drei Stellvertretenden.
+<sup>1</sup> Das Obergericht wählt die fünf Mitglieder der Notariatskommission und die drei Stellvertretenden für eine Dauer von vier Jahren. Ersatzwahlen während der Amtsdauer sind möglich.
 
-<sup>2</sup> Der Notariatskommission gehören in der Regel an:
+<sup>2</sup> Die Notariatskommission besteht in der Regel aus:
 
-- a) eine patentierte Notarin oder ein patentierter Notar, eine Regionalnotarin oder ein Regionalnotar und eine patentierte Grundbuchverwalterin oder ein patentierter Grundbuchverwalter;
-- b) drei Inhaberinnen oder Inhaber des Bündner Fähigkeitsausweises für Notariatspersonen;
-- c) ein Mitglied des Kantons- oder Verwaltungsgerichts.
+- a) patentierten Notarinnen oder patentierten Notaren;
+- b) zumindest einer patentierten Grundbuchverwalterin oder einem patentierten Grundbuchverwalter;
+- c) drei Stellvertretenden, die entweder patentierte Notarinnen beziehungsweise patentierte Notare oder patentierte Grundbuchverwalterinnen beziehungsweise patentierte Grundbuchverwalter sind.
 
-<sup>3</sup> Die Notariatskommission konstituiert sich selbst. Sie kann ein Sekretariat und eine Aktuarin oder einen Aktuar bestellen.
+<sup>3</sup> Die Notariatskommission konstituiert sich selbst. Sie bestellt ein Sekretariat und ein Aktuariat. Die Präsidentin oder der Präsident bezeichnet die Zustelladresse für die Notariatskommission und gibt diese öffentlich bekannt.
 
-<sup>4</sup> Die Regierung legt die Arbeitsentschädigungen und Spesenvergütungen der Mitglieder der Notariatskommission fest.
+<sup>3<sup>bis</sup></sup> Administrativ ist die Notariatskommission dem Obergericht angegliedert.
+
+<sup>4</sup> Die Regierung legt die Arbeitsentschädigungen und Spesenvergütungen für die Mitglieder der Notariatskommission fest.
 
 #### Art. 5
 
@@ -104,7 +105,19 @@ beschliesst:
 - h) die Mitteilung von Empfehlungen und die Erteilung von Auskünften über notariatsrechtliche Belange von allgemeiner Bedeutung;
 - i) die Erledigung der Aufgaben betreffend die elektronische Beglaubigung und die elektronische Beurkundung, die keiner anderen Behörde zugewiesen wurden.
 
-<sup>3</sup> Die Notariatskommission erstattet dem Grossen Rat jährlich Bericht.
+<sup>3</sup> …
+
+#### Art. 5a
+
+**3. Aufsicht**
+
+<sup>1</sup> Das Obergericht übt die Aufsicht über die Notariatskommission aus.
+
+<sup>2</sup> Es verfügt gegenüber der Notariatskommission und deren Mitgliedern über dieselben Aufsichtsmittel und Hilfsmittel wie gegenüber den richterlichen Behörden und deren Mitgliedern, die seiner direkten Aufsicht unterstehen. Die Bestimmungen des Gerichtsorganisationsgesetzes[^5a-1] über die Justizaufsicht finden sinngemäss Anwendung.
+
+<sup>3</sup> Das Obergericht entscheidet über die Entbindung der Kommissionsmitglieder vom Amtsgeheimnis für Aussagen vor anderen Behörden und für die Aktenedition.
+
+[^5a-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 #### Art. 6
 
@@ -112,11 +125,15 @@ beschliesst:
 
 <sup>1</sup> Die Notariatskommission bestimmt eine oder mehrere Notariatsinspektorinnen oder einen oder mehrere Notariatsinspektoren und ordnet periodische Inspektionen der Amtsführung von Notariatspersonen an.
 
-<sup>2</sup> Die Amtsführung der Grundbuchverwalterinnen und Grundbuchverwalter wird in der Regel vom kantonalen Grundbuchinspektorat inspiziert.
+<sup>2</sup> Die Amtsführung der Grundbuchverwalterinnen und Grundbuchverwalter wird in der Regel vom Amt für Grundbuch und Handelsregister inspiziert.
 
 <sup>3</sup> Die Notariatspersonen sind verpflichtet, der inspizierenden Person über ihre Amtsführung alle gewünschten Auskünfte zu erteilen und alle gewünschten Dokumente vorzulegen.
 
 <sup>4</sup> Die inspizierenden Personen erstatten der Notariatskommission Bericht.
+
+<sup>5</sup> Die Regierung legt die Arbeitsentschädigungen und Spesenvergütungen für die inspizierenden Personen fest. Sie kann von den in Artikel 70 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden[^6-1] vorgesehenen Ansätzen abweichen.
+
+[^6-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 7
 
@@ -145,7 +162,7 @@ beschliesst:
 
 <sup>1</sup> Soweit dieses Gesetz keine besonderen Bestimmungen enthält, gilt für alle Verfahren vor der Notariatskommission das Gesetz über die Verwaltungsrechtspflege[^9-1].
 
-<sup>2</sup> Entscheide der Notariatskommission, ausser diejenigen gemäss Artikel 10 Absatz 2, können mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
+<sup>2</sup> Entscheide der Notariatskommission können innert 30 Tagen seit der begründeten Mitteilung mit Beschwerde an das Obergericht weitergezogen werden.
 
 <sup>3</sup> Die Notariatskommission kann Entscheide über die Notariatsprüfung im Dispositiv erlassen. Die betroffenen Personen können bei der Notariatskommission innert zehn Tagen seit der Mitteilung schriftlich einen begründeten Entscheid verlangen. Artikel 48 des Gesetzes über die Verwaltungsrechtspflege gilt sinngemäss.
 
@@ -283,9 +300,9 @@ beschliesst:
 
 <sup>1</sup> Wer als Grundbuchverwalterin oder Grundbuchverwalter die Amtstätigkeit aufnimmt, ist Notariatsperson im Sinne von Artikel 1 Absätze 1 und 2.
 
-<sup>2</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter wird als Notariatsperson vom kantonalen Grundbuchinspektor vereidigt. Artikel 13 Absatz 1 ist sinngemäss anwendbar.
+<sup>2</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter wird als Notariatsperson von der Grundbuchinspektorin oder vom Grundbuchinspektor vereidigt. Artikel 13 Absatz 1 ist sinngemäss anwendbar.
 
-<sup>3</sup> Das kantonale Grundbuchinspektorat meldet die Wahl der Notariatskommission.
+<sup>3</sup> Das Amt für Grundbuch und Handelsregister meldet die Wahl der Notariatskommission.
 
 #### Art. 20
 
@@ -620,7 +637,7 @@ beschliesst:
 
 **Ausführungserlasse**
 
-<sup>1</sup> Die Regierung erlässt die notwendigen Ausführungsbestimmungen und auf Antrag der Notariatskommission ein Prüfungsreglement.
+<sup>1</sup> Die Regierung erlässt die notwendigen Ausführungsbestimmungen und auf Antrag der Notariatskommission eine Verordnung über die Notariatsprüfung.
 
 #### Art. 51
 
@@ -637,6 +654,8 @@ beschliesst:
 <sup>2</sup> Davon kann abgesehen werden, wenn eine Regionalnotarin oder ein Regionalnotar alle hinterlegungspflichtigen Sachen zur eigenen Aufbewahrung übernimmt.
 
 <sup>3</sup> In jedem Fall ist ein Übergabeprotokoll zu erstellen und der Notariatskommission auszuhändigen.
+
+<sup>4</sup> Die neuen finanzaufsichtsrechtlichen Regelungen gelten vom ersten Rechnungsjahr an, das nach dem Inkrafttreten der Änderung dieses Gesetzes beginnt.
 
 #### Art. 52
 

@@ -4,13 +4,12 @@ number: "210.300"
 title: "Lescha davart il notariat *"
 short: LNot
 language: rm
-version: 2023-04-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3315/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3807/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3315/pdf_file"
 
 (LNot)
 
-dals 18-10-2004 (versiun dals 01-04-2023)
+dals 18-10-2004 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun,
 
@@ -74,17 +73,19 @@ concluda:
 
 **Cumissiun da notariat 1. elecziun, cumposiziun, indemnisaziun**
 
-<sup>1</sup> La dretgira chantunala e la dretgira administrativa elegian communablamain ina cumissiun da notariat da tschintg commembras e commembers e da trais substitutas e substituts per ina perioda d'uffizi da quatter onns.
+<sup>1</sup> La Dretgira superiura elegia las tschintg commembras e commembers da la Cumissiun da notariat sco er las trais substitutas e substituts per ina durada da quatter onns. Elecziuns substitutivas durant la durada d'uffizi èn pussaivlas.
 
-<sup>2</sup> A la cumissiun da notariat appartegnan per regla:
+<sup>2</sup> La Cumissiun da notariat sa cumpona per regla:
 
-- a) ina notara patentada u in notar patentà, ina notara regiunala u in notar regiunal ed in'administratura u in administratur dal register funsil patentà;
-- b) trais titularas u titulars da l'attest grischun da qualificaziun per persunas da notariat;
-- c) ina commembra u in commember da la dretgira chantunala u da la dretgira administrativa.
+- a) da notaras patentadas e notars patentads;
+- b) d'almain in'administratura u in administratur dal register funsil patentà;
+- c) da trais substitutas e substituts ch'èn ubain notaras u notars patentads ubain administraturas u administraturs dal register funsil patentads.
 
-<sup>3</sup> La cumissiun da notariat sa constituescha sezza. Ella po eleger in secretariat ed ina actuara u in actuar.
+<sup>3</sup> La Cumissiun da notariat sa constituescha sezza. Ella nominescha in secretariat ed in actuariat. La presidenta u il president designescha l'adressa da consegna per la Cumissiun da notariat e communitgescha publicamain questa adressa.
 
-<sup>4</sup> La regenza fixescha las indemnisaziuns da lavur e da las spesas da las commembras e dals commembers da la cumissiun da notariat.
+<sup>3<sup>bis</sup></sup> En reguard administrativ è la Cumissiun da notariat integrada en la Dretgira superiura.
+
+<sup>4</sup> La Regenza fixescha las indemnisaziuns da lavur e da las spesas per las commembras ed ils commembers da la Cumissiun da notariat.
 
 #### Art. 5
 
@@ -104,7 +105,19 @@ concluda:
 - h) communitgar recumandaziuns e dar scleriments davart fatgs dal dretg notarial ch'èn d'impurtanza generala;
 - i) liquidar las incumbensas che pertutgan la legalisaziun electronica e la documentaziun electronica e che n'èn betg vegnidas attribuidas ad in'autra autoritad.
 
-<sup>3</sup> La cumissiun da notariat rapporta annualmain al cussegl grond.
+<sup>3</sup> …
+
+#### Art. 5a
+
+**3. surveglianza**
+
+<sup>1</sup> La Dretgira superiura ha la surveglianza da la Cumissiun da notariat.
+
+<sup>2</sup> Envers la Cumissiun da notariat ed envers sias commembras e ses commembers dispona ella dals medems instruments da surveglianza e dals medems meds auxiliars sco envers las autoritads giudizialas ed envers lur commembras e commembers ch'èn suttamess a sia surveglianza directa. Las disposiziuns da la Lescha davart l'organisaziun giudiziala[^5a-1] concernent la surveglianza giudiziala vegnan applitgadas analogamain.
+
+<sup>3</sup> La Dretgira superiura decida, sche las commembras ed ils commembers da la cumissiun duain vegnir liberads dal secret d'uffizi per dar pled e fatg davant autras autoritads sco er per edir actas.
+
+[^5a-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 6
 
@@ -112,11 +125,15 @@ concluda:
 
 <sup>1</sup> La cumissiun da notariat fixescha ina u pliras inspecturas u in u plirs inspecturs da notariat ed ordinescha inspecziuns periodicas da l'administraziun da l'uffizi da las persunas da notariat.
 
-<sup>2</sup> L'administraziun da l'uffizi da las administraturas e dals administraturs dal register funsil vegn inspectada per regla da l'inspecturat chantunal dal register funsil.
+<sup>2</sup> L'administraziun da l'uffizi da las administraturas e dals administraturs dal register funsil vegn inspectada per regla da l'Uffizi dal register funsil e dal register da commerzi.
 
 <sup>3</sup> Las persunas da notariat èn obligadas d'infurmar la persuna d'inspecziun davart tut ils fatgs da lur administraziun da l'uffizi e da preschentar tut ils documents giavischads.
 
 <sup>4</sup> Las persunas d'inspecziun rapportan a la cumissiun da notariat.
+
+<sup>5</sup> La Regenza fixescha las indemnisaziuns da la lavur e da las spesas per las persunas d'inspecziun. Ella po divergiar da las tariffas previsas en l'artitgel 70 da la Lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun[^6-1].
+
+[^6-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 7
 
@@ -147,7 +164,7 @@ concluda:
 
 <sup>1</sup> Uschenavant che questa lescha na cuntegna naginas disposiziuns spezialas, vala la Lescha davart la giurisdicziun administrativa[^9-1] per tut las proceduras davant la Cumissiun da notariat.
 
-<sup>2</sup> Cunter decisiuns da la cumissiun da notariat, cun excepziun da quellas tenor l'artitgel 10 alinea 2, po vegnir fatg recurs tar la dretgira administrativa.
+<sup>2</sup> Cunter decisiuns da la Cumissiun da notariat poi vegnir fatg recurs tar la Dretgira superiura entaifer 30 dis dapi la communicaziun motivada.
 
 <sup>3</sup> La Cumissiun da notariat po decretar decisiuns davart l'examen da notariat en il dispositiv. Entaifer 10 dis dapi la communicaziun pon las persunas pertutgadas pretender en scrit ina decisiun motivada tar la Cumissiun da notariat. L'artitgel 48 da la Lescha davart la giurisdicziun administrativa vala confurm al senn.
 
@@ -287,9 +304,9 @@ concluda:
 
 <sup>1</sup> Las persunas ch'entran en uffizi sco administraturas u sco administraturs dal register funsil èn persunas da notariat en il senn da l'artitgel 1 alineas 1 e 2.
 
-<sup>2</sup> L'administratura u l'administratur dal register funsil vegn saramentà sco persuna da notariat da l'inspectura u da l'inspectur chantunal dal register funsil. L'artitgel 13 alinea 1 è applitgabel confurm al senn.
+<sup>2</sup> L'administratura u l'administratur dal register funsil vegn saramentà sco persuna da notariat da l'inspectura u da l'inspectur dal register funsil. L'artitgel 13 alinea 1 è applitgabel confurm al senn.
 
-<sup>3</sup> L'inspecturat chantunal dal register funsil communitgescha l'elecziun a la cumissiun da notariat.
+<sup>3</sup> L'Uffizi dal register funsil e dal register da commerzi communitgescha l'elecziun a la Cumissiun da notariat.
 
 #### Art. 20
 
@@ -625,7 +642,7 @@ concluda:
 
 **Relaschs executivs**
 
-<sup>1</sup> La regenza relascha las disposiziuns executivas necessarias e – sin dumonda da la cumissiun da notariat – in reglament d'examen.
+<sup>1</sup> La Regenza relascha las disposiziuns executivas necessarias e – sin dumonda da la Cumissiun da notariat – in'ordinaziun davart l'examen da notariat.
 
 #### Art. 51
 
@@ -642,6 +659,8 @@ concluda:
 <sup>2</sup> Da questa obligaziun poi vegnir desistì, sch'ina notara regiunala u in notar regiunal surpiglia sez l'incumbensa da tegnair en salv tut las chaussas che ston vegnir tegnidas en salv.
 
 <sup>3</sup> En mintga cas stoi vegnir fatg in protocol da surdada che sto vegnir consegnà a la cumissiun da notariat.
+
+<sup>4</sup> Las novas regulaziuns da la surveglianza da las finanzas valan a partir da l'emprim onn da gestiun che cumenza suenter l'entrada en vigur da la midada da questa lescha.
 
 #### Art. 52
 
