@@ -4,13 +4,13 @@ number: "381.1"
 title: Sozialhilfegesetz
 short: SHG
 language: de
-version: 2022-12-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-15
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-24
 adopted: 1998-09-27
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3412/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3708/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3412/pdf_file"
 
 (SHG)
 
-vom 27.09.1998 (Stand 01.12.2022)
+vom 27.09.1998 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -142,6 +142,16 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Die Regierung regelt in Abstimmung mit den Gemeinden die Zuständigkeiten, die Finanzierung und den Vollzug von Aufgaben des Kantons betreffend Sozialhilfe im Asylbereich.
 
+#### Art. 6a
+
+**Fach- und Anlaufstelle Radikalisierung und Extremismus**
+
+<sup>1</sup> Für Früherkennung sowie zur Beratung und Unterstützung von Jugendlichen, Erwachsenen und Fachpersonen besteht eine Fach- und Anlaufstelle Radikalisierung und Extremismus.
+
+<sup>2</sup> Die Regierung legt die zuständige Stelle fest und schliesst eine Leistungsvereinbarung ab.
+
+<sup>3</sup> Die Fach- und Anlaufstelle Radikalisierung und Extremismus steht unter der Aufsicht des Departementes des Innern.
+
 ### 2. Betreuende Sozialhilfe
 
 #### Art. 7
@@ -187,7 +197,7 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Organe geben Personendaten, einschliesslich besonders schützenswerter Personendaten, im Einzelfall ohne Einwilligung der betroffenen Person bekannt, wenn:
 
-- a) die Daten für den Empfänger zur Erfüllung seiner gesetzlichen Aufgabe unentbehrlich sind und
+- a) die Daten für die Empfängerin oder den Empfänger zur Erfüllung der gesetzlichen Aufgabe unentbehrlich sind und
 - b) die Bekanntgabe dazu dient, die soziale oder berufliche Integration zu fördern, und
 - c) der Bekanntgabe keine überwiegenden Interessen entgegenstehen.
 
@@ -197,7 +207,7 @@ als Gesetz:[^ingress-2]
 
 **Anspruch a) Grundsatz**
 
-<sup>1</sup> Wer für seinen Lebensunterhalt nicht hinreichend oder nicht rechtzeitig aus eigenen Mitteln aufkommen kann, hat Anspruch auf finanzielle Sozialhilfe.
+<sup>1</sup> Wer für den eigenen Lebensunterhalt nicht hinreichend oder nicht rechtzeitig aus eigenen Mitteln aufkommen kann, hat Anspruch auf finanzielle Sozialhilfe.
 
 <sup>1<sup>bis</sup></sup> Der Anspruch auf finanzielle Sozialhilfe fällt dahin, wenn der Nachweis der Bedürftigkeit nicht erbracht wird.
 
@@ -253,7 +263,7 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die finanzielle Sozialhilfe deckt das soziale Existenzminimum unter Berücksichtigung der Lebenssituation der hilfebedürftigen Person. Sie wird so bemessen, dass die hilfebedürftige Person die laufenden Bedürfnisse für den Lebensunterhalt aus eigenen Mitteln decken kann. Schulden können berücksichtigt werden, wenn dadurch eine bestehende oder drohende Notlage behoben oder vermieden werden kann.
 
-<sup>1<sup>bis</sup></sup> Die Bemessung orientiert sich an den Richtlinien der St.Gallischen Konferenz der Sozialhilfe. Die Regierung erklärt diese Richtlinien für allgemein verbindlich, wenn sie von der Vereinigung St.Galler Gemeindepräsidentinnen und Gemeindepräsidenten anerkannt sind und:
+<sup>1<sup>bis</sup></sup> Die Bemessung orientiert sich an den Richtlinien der St.Gallischen Konferenz der Sozialhilfe. Die Regierung erklärt diese Richtlinien für allgemein verbindlich, wenn sie vom Verband St.Galler Gemeindepräsidien anerkannt sind und:
 
 - a) wenigstens zwei Drittel der Räte der politischen Gemeinden dies beantragen oder
 - b) die Räte von politischen Gemeinden, die zusammen wenigstens zwei Drittel der Wohnbevölkerung des Kantons umfassen, dies beantragen oder
@@ -304,7 +314,7 @@ als Gesetz:[^ingress-2]
 - b) geeignet sind, die Hilfebedürftigkeit zu beseitigen oder zu mildern, oder
 - c) geeignet sind, die Selbsthilfe der hilfebedürftigen Person und ihrer Familienangehörigen sowie ihre soziale und berufliche Integration zu fördern.
 
-<sup>2</sup> Wer sein Kind selbst betreut, kann während sechs Monaten seit der Geburt nicht zur Annahme einer Arbeit oder zu Massnahmen zur beruflichen Integration verpflichtet werden.
+<sup>2</sup> Wer ein eigenes Kind selbst betreut, kann während sechs Monaten seit der Geburt nicht zur Annahme einer Arbeit oder zu Massnahmen zur beruflichen Integration verpflichtet werden.
 
 #### Art. 13
 
@@ -350,7 +360,7 @@ als Gesetz:[^ingress-2]
 
 **c) weitere Massnahmen zur Abklärung des Sachverhalts**
 
-<sup>1</sup> Das mit dem Vollzug dieses Gesetzes betraute Organ kann ohne Ermächtigung der hilfesuchenden Person Mitarbeitende des mit dem Vollzug dieses Gesetzes betrauten Organs, die Polizei oder Dritte, insbesondere Privatdetektive, mit Abklärungen über die hilfesuchende Person und ihre wirtschaftliche Situation betrauen, wenn:
+<sup>1</sup> Das mit dem Vollzug dieses Gesetzes betraute Organ kann ohne Ermächtigung der hilfesuchenden Person Mitarbeitende des mit dem Vollzug dieses Gesetzes betrauten Organs, die Polizei oder Dritte, insbesondere Privatdetektivinnen oder Privatdetektive, mit Abklärungen über die hilfesuchende Person und ihre wirtschaftliche Situation betrauen, wenn:
 
 - a) das mit dem Vollzug dieses Gesetzes betraute Organ begründete Zweifel an der Richtigkeit oder Vollständigkeit der Auskunft der hilfesuchenden Person hat und
 - b) die Abklärungen für die Feststellung oder Überprüfung des Anspruchs auf finanzielle Sozialhilfe notwendig sind.
@@ -397,12 +407,12 @@ als Gesetz:[^ingress-2]
 
 **Rückerstattung a) durch die unterstützte Person 1. bei rechtmässigem Bezug**
 
-<sup>1</sup> Wer für sich, für Familienangehörige, für eine Person, die mit ihm in eingetragener Partnerschaft[^18-1] lebt, oder für ein Kind, das in der Gemeinschaft der eingetragenen Partnerschaft lebt, finanzielle Sozialhilfe bezogen hat, erstattet diese zurück, wenn sich seine finanzielle Lage gebessert hat und die Rückerstattung zumutbar ist.
+<sup>1</sup> Wer für sich, für Familienangehörige, für eine Person, die mit ihm in eingetragener Partnerschaft[^18-1] lebt, oder für ein Kind, das in der Gemeinschaft der eingetragenen Partnerschaft lebt, finanzielle Sozialhilfe bezogen hat, erstattet diese zurück, wenn sich die eigene finanzielle Lage gebessert hat und die Rückerstattung zumutbar ist.
 
 <sup>1<sup>bis</sup></sup> Nicht zur Rückerstattung verpflichtet ist, wer:
 
-- a) nach der Geburt seines Kindes Sozialhilfe bezieht, wobei die Rückerstattungspflicht für sechs Monate seit Geburt des Kindes entfällt;
-- b) sein Kind betreut, für das kein oder ein den gebührenden Unterhalt nicht deckender Unterhaltsbeitrag festgelegt wurde;
+- a) nach der Geburt des eigenen Kindes Sozialhilfe bezieht, wobei die Rückerstattungspflicht für sechs Monate seit Geburt des Kindes entfällt;
+- b) das eigene Kind betreut, für das kein oder ein den gebührenden Unterhalt nicht deckender Unterhaltsbeitrag festgelegt wurde;
 - c) für sich während der Minderjährigkeit oder bis zum Abschluss einer in dieser Zeit begonnenen Ausbildung, längstens jedoch bis zur Vollendung des 25. Altersjahres, finanzielle Sozialhilfe bezogen hat.
 
 <sup>2</sup> Die Rückerstattung erstreckt sich nicht auf:
@@ -424,9 +434,9 @@ als Gesetz:[^ingress-2]
 
 #### Art. 20
 
-**b) durch Erben der unterstützten Person**
+**b) durch Erbinnen oder Erben der unterstützten Person**
 
-<sup>1</sup> Erben erstatten die vom Erblasser bezogene finanzielle Sozialhilfe zurück, soweit sie aus dem Nachlass bereichert sind.
+<sup>1</sup> Erbinnen oder Erben erstatten die von der Erblasserin oder dem Erblasser bezogene finanzielle Sozialhilfe zurück, soweit sie aus dem Nachlass bereichert sind.
 
 #### Art. 21
 
@@ -528,7 +538,7 @@ als Gesetz:[^ingress-2]
 
 [^27b-1]: SR [220](https://db.clex.ch/link/Bund/220/de).
 
-### 1<sup>bis</sup>. Stationäre Einrichtungen für Betagte und Sterbehospiz-Einrichtungen
+### 1<sup>bis</sup>. Stationäre Einrichtungen für Betagte und spezialisierte Pflegeeinrichtungen
 
 #### Art. 28
 
@@ -542,17 +552,27 @@ als Gesetz:[^ingress-2]
 - b) mit Leistungsvereinbarung an die Ortsgemeinde oder an private Institutionen übertragen;
 - c) …
 
-<sup>3</sup> Der Kanton fördert die Bereitstellung eines bedarfsgerechten Angebots an Plätzen in Sterbehospiz-Einrichtungen.
+<sup>3</sup> Der Kanton fördert die Bereitstellung eines bedarfsgerechten Angebots an Plätzen in spezialisierten Pflegeeinrichtungen für:
+
+- a) Gerontopsychiatrie;
+- b) Schwerst- und komplexe Pflege;
+- c) spezialisierte palliative Pflege.
+
+<sup>4</sup> Er kann dazu Leistungsvereinbarungen mit öffentlichen oder privaten Institutionen abschliessen.
+
+<sup>5</sup> Als spezialisierte Pflegeeinrichtungen gelten auch Plätze für die spezialisierte Pflege nach Abs. 3 dieser Bestimmung in stationären Einrichtungen zur Betreuung und Pflege von Betagten.
 
 #### Art. 29
 
 **Angebotsplanung**
 
-<sup>1</sup> Die politische Gemeinde erstellt gestützt auf die Bedarfsermittlung eine Angebotsplanung für stationäre Einrichtungen zur Betreuung und Pflege von Betagten. Sie passt sie periodisch an.
+<sup>1</sup> Die politische Gemeinde erstellt gestützt auf die Bedarfsermittlung eine Angebotsplanung für stationäre Einrichtungen zur Betreuung und Pflege von Betagten. Der Kanton erstellt gestützt auf die Bedarfsermittlung eine Angebotsplanung für spezialisierte Pflegeeinrichtungen. Sie passen diese periodisch an.
 
-<sup>2</sup> In der Angebotsplanung werden Art, Grösse, Leistungsumfang und Einzugsgebiet der stationären Einrichtungen festgelegt.
+<sup>2</sup> In der Angebotsplanung werden Art, Grösse, Leistungsumfang und Einzugsgebiet der Einrichtungen festgelegt.
 
-<sup>3</sup> Die Regierung legt Planungsrichtwerte für Plätze in stationären Einrichtungen zur Betreuung und Pflege von Betagten sowie für Plätze in Sterbehospiz-Einrichtungen fest.
+<sup>3</sup> Die Regierung legt Planungsrichtwerte für Plätze in stationären Einrichtungen zur Betreuung und Pflege von Betagten sowie für spezialisierte Pflegeeinrichtungen fest. Das zuständige Departement führt gestützt auf die Planungsrichtwerte die Pflegeheimliste nach [Art. 39](https://db.clex.ch/link/Bund/832.10/de) Abs. 1 Bst. e in Verbindung mit Abs. 3 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^29-1].
+
+[^29-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 #### Art. 30
 
@@ -562,7 +582,7 @@ als Gesetz:[^ingress-2]
 
 **Qualitätsanforderungen**
 
-<sup>1</sup> Stationäre Einrichtungen für Betagte und Sterbehospiz-Einrichtungen erfüllen qualitative Mindestanforderungen an Pflege und Betreuung in stationären Einrichtungen.
+<sup>1</sup> Stationäre Einrichtungen für Betagte und spezialisierte Pflegeeinrichtungen erfüllen qualitative Mindestanforderungen an Pflege und Betreuung in stationären Einrichtungen.
 
 <sup>2</sup> Sie erfüllen die qualitativen Mindestanforderungen an Pflege und Betreuung, wenn insbesondere:
 
@@ -575,17 +595,19 @@ als Gesetz:[^ingress-2]
 - e) der Betrieb wirtschaftlich gesichert erscheint;
 - f) die interne Aufsicht sichergestellt ist.
 
+<sup>3</sup> Spezialisierte Pflegeeinrichtungen erfüllen zusätzliche Qualitätsanforderungen.
+
 #### Art. 30b
 
 **Finanzierung**
 
-<sup>1</sup> Die Finanzierung der Pflegeleistungen in stationären Einrichtungen zur Betreuung und Pflege von Betagten sowie in Sterbehospiz-Einrichtungen richtet sich nach dem Gesetz über die Pflegefinanzierung vom 13. Februar 2011[^30b-1].
+<sup>1</sup> Die Finanzierung der Pflegeleistungen in stationären Einrichtungen zur Betreuung und Pflege von Betagten sowie in spezialisierten Pflegeeinrichtungen richtet sich nach dem Gesetz über die Pflegefinanzierung vom 13. Februar 2011[^30b-1].
 
-<sup>2</sup> Der Kanton leistet Beiträge an die Bereitstellung von nicht als Pflegeleistungen erfassten Betreuungsleistungen in Sterbehospiz-Einrichtungen, wenn diese als Leistungserbringer auf der Pflegeheimliste[^30b-2] aufgeführt sind und eine Leistungsvereinbarung mit dem zuständigen Departement besteht.
+<sup>2</sup> Der Kanton leistet Beiträge an die Zusatzaufwände in spezialisierten Pflegeeinrichtungen, wenn diese als spezialisierte Leistungserbringer auf der Pflegeheimliste[^30b-2] aufgeführt sind und eine Leistungsvereinbarung mit dem zuständigen Departement besteht.
 
-<sup>3</sup> Die Beitragsleistung nach Abs. 2 dieser Bestimmung wird nach Aufenthaltstagen von Personen mit Wohnsitz im Kanton St.Gallen bemessen. Das zuständige Departement legt das Verhältnis von Beitragsleistung zum anrechenbaren Nettoaufwand fest.
+<sup>3</sup> Die Beitragsleistung nach Abs. 2 dieser Bestimmung richtet sich nach Aufenthaltstagen von Personen mit Wohnsitz im Kanton St.Gallen. Die Regierung legt die Höhe der Beiträge an die Zusatzaufwände durch Verordnung fest.
 
-<sup>4</sup> Die Beitragsleistung nach Abs. 2 dieser Bestimmung kann auf begründeten Antrag zur Deckung von Debitorenverlusten erhöht werden, die der Einrichtung trotz gebotener Sorgfalt entstanden sind.
+<sup>4</sup> Die Beitragsleistung nach Abs. 2 dieser Bestimmung kann für Leistungserbringer der spezialisierten palliativen Pflege nach Art. 28 Abs. 3 Bst. c dieses Erlasses auf begründeten Antrag zur Deckung von Debitorenverlusten erhöht werden, die der Einrichtung trotz gebotener Sorgfalt entstanden sind.
 
 [^30b-1]: sGS [331.2](https://www.gesetzessammlung.sg.ch/data/331.2/de).
 [^30b-2]: sGS [381.181](https://www.gesetzessammlung.sg.ch/data/381.181/de).
@@ -606,7 +628,7 @@ als Gesetz:[^ingress-2]
 
 **b) Aufsicht**
 
-<sup>1</sup> Die zuständige Stelle der Gemeinde beaufsichtigt die Heime, soweit eine Leistungsvereinbarung nach Art. 28 Abs. 2 Bst. b dieses Erlasses vorliegt. Die zuständige Stelle des Kantons beaufsichtigt die übrigen Heime.
+<sup>1</sup> Die zuständige Stelle der Gemeinde beaufsichtigt die Heime, soweit eine Leistungsvereinbarung nach Art. 28 Abs. 2 Bst. b dieses Erlasses vorliegt. Die zuständige Stelle des Kantons beaufsichtigt die übrigen Heime und die in der Pflegeheimliste als spezialisierte Pflegeeinrichtungen aufgeführten Einrichtungen.
 
 <sup>2</sup> Die für die Aufsicht zuständige Stelle überprüft die Einhaltung der qualitativen Mindestanforderungen nach Art. 30a dieses Erlasses.
 
@@ -638,6 +660,8 @@ als Gesetz:[^ingress-2]
 **Qualitative Mindestanforderungen**
 
 <sup>1</sup> Die Regierung erlässt qualitative Mindestanforderungen an Pflege und Betreuung durch Verordnung.
+
+<sup>2</sup> Die Regierung legt zusätzliche Qualitätsanforderungen für spezialisierte Pflegeeinrichtungen fest. Diese umfassen insbesondere konzeptionelle Grundlagen, Qualifikation des Personals, Stellenetat und Infrastruktur.
 
 ### 2. Notunterkünfte für Opfer häuslicher Gewalt und deren Kinder
 
@@ -891,6 +915,14 @@ als Gesetz:[^ingress-2]
 - c) Geltendmachung der Leistungsabgeltung gegenüber anderen Kantonen und Kostenübernahmegarantien;
 - d) Berechnung von Beiträgen der Unterhaltspflichtigen und Leistungsabgeltungen.
 
+### 3. Beiträge an Pilotprojekte
+
+#### Art. 45bis
+
+**Integrierte Angebotsgestaltung**
+
+<sup>1</sup> Die Regierung kann im Rahmen der bewilligten Kredite Beiträge an befristete Pilotprojekte ausrichten, die der Weiterentwicklung im Bereich der integrierten Angebotsgestaltung unter Einbezug ambulanter, teilstationärer und stationärer Leistungserbringer dienen.
+
 ## IV<sup>bis</sup>. Weitere Beiträge
 
 #### Art. 45a
@@ -947,7 +979,7 @@ als Gesetz:[^ingress-2]
 
 **Vereinbarung**
 
-<sup>1</sup> Zur Umsetzung der Bestimmungen dieses Abschnitts schliessen die Regierung und die Vereinigung St.Galler Gemeindepräsidentinnen und Gemeindepräsidenten eine Vereinbarung ab. Darin werden insbesondere festgelegt:
+<sup>1</sup> Zur Umsetzung der Bestimmungen dieses Abschnitts schliessen die Regierung und der Verband St.Galler Gemeindepräsidien eine Vereinbarung ab. Darin werden insbesondere festgelegt:
 
 - a) grundlegende Kriterien, die Angebote erfüllen müssen, damit sie mit den Integrationspauschalen finanziert werden können;
 - b) Einzelheiten der Finanzierung, insbesondere:
