@@ -4,11 +4,11 @@ title: "Ordinanza del 12 ottobre 2016 sui sistemi d'informazione della Confedera
 short: OSISpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/597"
 language: it
-version: 2023-01-23
+version: 2025-01-01
 adopted: 2016-10-12
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2016-597-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-597-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/it"
 
 (OSISpo)
 
-del 12 ottobre 2016 (Stato 23 gennaio 2023)
+del 12 ottobre 2016 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -73,13 +73,18 @@ L’UFSPO è responsabile della sicurezza di esercizio dei sistemi d’informazi
 
 **Scambio automatico con altri sistemi d’informazione**[^4a-1]
 
+<sup>1</sup>
+
 Lo scambio automatico d’informazioni è ammesso:
 
 - a. fra i sistemi d’informazione di cui all’articolo 1 lettere a–e, i e j, da un lato, e la banca dati centrale degli indirizzi dell’UFSPO dall’altro, ai fini dell’invio della corrispondenza e dell’aggiornamento degli indirizzi;
 - b. fra i sistemi d’informazione di cui all’articolo 1 lettere a–e, i e j, da un lato, e il sistema di informazione finanziaria utilizzato dall’UFSPO dall’altro, ai fini della fatturazione;
 - c. fra i sistemi d’informazione di cui all’articolo 1 lettere a nonché e, da un lato, e il sistema d’informazione per l’esercizio degli edifici e degli impianti dell’UFSPO dall’altro, ai fini dell’organizzazione e dello svolgimento di corsi, allenamenti, formazioni e campi.
 
-[^4a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1545](https://fedlex.data.admin.ch/eli/oc/2020/306)).
+<sup>2</sup> I dati del sistema d’informazione di cui all’articolo 1 lettera a necessari per l’esecuzione dell’ordinamento delle indennità di perdita di guadagno sono trasmessi al sistema d’informazione di cui all’articolo 21*a* LIPG.[^4a-2]
+
+[^4a-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1545](https://fedlex.data.admin.ch/eli/oc/2020/306)).
+[^4a-2]: Introdotto dall’all. n. 2 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## Sezione 2: Durata del periodo di conservazione dei dati del sistema nazionale d’informazione per lo sport
 
@@ -97,7 +102,7 @@ I seguenti dati sono conservati per le seguenti durate abbreviate:
 - b. indicazioni su inchieste e sulla pronuncia di misure in relazione a violazioni delle norme per la correttezza e sicurezza nello sport: fino al ritiro definitivo della licenza di competizione negli sport in cui essa costituisca il presupposto indispensabile per la partecipazione alle competizioni;
 - c. tutti gli altri dati che non sono stati modificati per dieci anni: fino a quando la persona interessata ne richiede la cancellazione.
 
-[^5-1]: Nuovo testo giusta l’all. 10 n. II 16 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^5-1]: Nuovo testo giusta l’all. 10 cifra II n. 16 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## Sezione 3: Diritto di accesso al sistema d’informazione per i dati medici e durata del periodo di conservazione di tali dati
 
@@ -245,7 +250,7 @@ Sono raccolti i seguenti dati personali:
 
 [^22-1]
 
-[^22-1]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1545](https://fedlex.data.admin.ch/eli/oc/2020/306)).
+[^22-1]: Abrogato dalla cifra I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1545](https://fedlex.data.admin.ch/eli/oc/2020/306)).
 
 #### Art. 23
 
@@ -295,7 +300,7 @@ Informazioni relative alla prenotazione e all’utilizzazione di edifici e impia
 
 [^27-1]
 
-[^27-1]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1545](https://fedlex.data.admin.ch/eli/oc/2020/306)).
+[^27-1]: Abrogato dalla cifra I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1545](https://fedlex.data.admin.ch/eli/oc/2020/306)).
 
 #### Art. 28
 

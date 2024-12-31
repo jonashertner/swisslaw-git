@@ -4,11 +4,11 @@ title: "Ordonnance du 12 octobre 2016 sur les systèmes d'information de la Conf
 short: OSIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/597"
 language: fr
-version: 2023-01-23
+version: 2025-01-01
 adopted: 2016-10-12
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2016-597-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-597-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/fr"
 
 (OSIS)
 
-du 12 octobre 2016 (État le 23 janvier 2023)
+du 12 octobre 2016 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -73,13 +73,18 @@ L’OFSPO est responsable de la sécurité de l’exploitation des systèmes d�
 
 **Échange automatique avec d’autres systèmes d’information**[^4a-1]
 
+<sup>1</sup>
+
 L’échange automatique de données est autorisé:
 
 - a. entre, d’une part, les systèmes d’information visés à l’art. 1, let. a à e, i et j, et, d’autre part, la banque d’adresses centralisée de l’OFSPO, à des fins d’adressage et d’actualisation des adresses;
 - b. entre, d’une part, les systèmes d’information visés à l’art. 1, let. a à e, i et j, et, d’autre part, le système d’informations financières utilisé par l’OFSPO, à des fins de facturation;
 - c. entre, d’une part, les systèmes d’information visés à l’art. 1, let. a et e, et, d’autre part, le système d’information destiné à l’exploitation des bâtiments et des installations, à des fins d’organisation et de réalisation de cours, d’entraînements, de formations et de camps.
 
+<sup>2</sup> Les données du système d’information visé à l’art. 1, let. a, qui sont nécessaires à l’exécution du régime des allocations pour perte de gain sont transmises au système d’information prévu à l’art. 21*a* LAPG.[^4a-2]
+
 [^4a-1]: Introduit par le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1545](https://fedlex.data.admin.ch/eli/oc/2020/306)).
+[^4a-2]: Introduit par l’annexe ch. 2 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## Section 2 Durée de conservation des données du système d’information national pour le sport
 

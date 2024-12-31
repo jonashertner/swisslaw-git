@@ -4,11 +4,11 @@ title: Verordnung vom 12. Oktober 2016 über die Informationssysteme des Bundes 
 short: IBSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/597"
 language: de
-version: 2023-01-23
+version: 2025-01-01
 adopted: 2016-10-12
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2016-597-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-597-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/de"
 
 (IBSV)
 
-vom 12. Oktober 2016 (Stand am 23. Januar 2023)
+vom 12. Oktober 2016 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -73,13 +73,18 @@ Das BASPO ist verantwortlich für den sicheren Betrieb der Informationssysteme u
 
 **Automatischer Austausch mit anderen Informationssystemen**[^4a-1]
 
+<sup>1</sup>
+
 Der automatische Austausch von Daten ist zulässig:
 
 - a. zwischen den Informationssystemen nach Artikel 1 Buchstaben a–e, i und j und der zentralen Adressdatenbank des BASPO, zum Zweck der Adressierung und der Aktualisierung der Adressen;
 - b. zwischen den Informationssystemen nach Artikel 1 Buchstaben a–e, i und j und dem vom BASPO benutzten Finanzinformationssystem, zum Zweck der Rechnungsstellung;
 - c. zwischen den Informationssystemen nach Artikel 1 Buchstaben a und e und dem Informationssystem zum Betrieb der Gebäude und Anlagen, zum Zweck der Organisation und Durchführung von Kursen, Trainings, Ausbildungen und Lagern.
 
+<sup>2</sup> Die Daten des Informationssystems nach Artikel 1 Buchstabe a, die für den Vollzug der Erwerbsersatzordnung erforderlich sind, werden an das Informationssystem nach Artikel 21*a* EOG übermittelt.[^4a-2]
+
 [^4a-1]: Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1545](https://fedlex.data.admin.ch/eli/oc/2020/306)).
+[^4a-2]: Eingefügt durch Anhang Ziff. 2 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## 2. Abschnitt: Aufbewahrungsdauer von Daten des nationalen Informationssystems für Sport
 
