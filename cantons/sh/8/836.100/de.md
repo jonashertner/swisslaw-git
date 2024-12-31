@@ -4,35 +4,38 @@ number: "836.100"
 title: Gesetz über Familien- und Sozialzulagen
 short: FSG
 language: de
-version: 2013-01-01
-corrected: 2024-06-18
-version_adopted: 2012-08-20
+version: 2025-01-01
+valid_until: 2026-12-31
+version_adopted: 2024-10-22
 adopted: 2008-09-22
 in_force: 2009-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/836.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/114/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1917/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über Familien- und Sozialzulagen (FSG)
+# Gesetz über Familien- und Sozialzulagen
 
-vom 22. September 2008
+(FSG)
+
+Vom 22.09.2008 (Stand 01.01.2025)
 
 Der Kantonsrat Schaffhausen,
 
-gestützt auf das Bundesgesetz über die Familienzulagen vom 24. März 2006 (FamZG) <sup>1)</sup>.
+gestützt auf das Bundesgesetz über die Familienzulagen vom 24. März 2006 (FamZG)[^ingress-1].
 
-beschliesst als Gesetz:
+beschliesst:
 
-### I. Allgemeine Bestimmungen
+[^ingress-1]: SR [836.1](http://db.clex.ch/link/Bund/836.1/de).
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Grundsatz**
 
-Der Anspruch auf Familien- und Sozialzulagen im Kanton Schaffhausen richtet sich nach dem Bundesgesetz über die Familienzulagen (FamZG) und den nachfolgenden Bestimmungen.
+<sup>1</sup> Der Anspruch auf Familien- und Sozialzulagen im Kanton Schaffhausen richtet sich nach dem Bundesgesetz über die Familienzulagen (FamZG), dem Bundesgesetz über die Familienzulagen in der Landwirtschaft (FLG) und den nachfolgenden Bestimmungen.
 
 #### Art. 2
 
@@ -40,15 +43,11 @@ Der Anspruch auf Familien- und Sozialzulagen im Kanton Schaffhausen richtet sich
 
 <sup>1</sup> Durchführungsstellen sind:
 
-- a) die vom Kanton anerkannten beruflichen und zwischenberuflichen Familienausgleichskassen;
-
-- b) die kantonale Familienausgleichskasse;
-
-- c) die von AHV-Ausgleichskassen geführten Familienausgleichskassen.
+- a) die vom Kanton anerkannten beruflichen und zwischenberuflichen Familienausgleichskassen
+- b) die kantonale Familienausgleichskasse
+- c) die von AHV-Ausgleichskassen geführten Familienausgleichskassen
 
 <sup>2</sup> Die Familienausgleichskassen sind jährlich durch eine Revisionsstelle zu prüfen.
-
-Amtsblatt 2008, S. 1857
 
 #### Art. 3
 
@@ -80,19 +79,15 @@ Amtsblatt 2008, S. 1857
 
 <sup>2</sup> Dem Regierungsrat obliegt:
 
-- a) die Festlegung des Arbeitgeberbeitrages der kantonalen Familienausgleichskasse;
-
-- b) die Festlegung des Beitrages der Selbständigerwerbenden der kantonalen Familienausgleichskasse;
-
-- c) der Erlass der notwendigen Ausführungsbestimmungen.
+- a) die Festlegung des Arbeitgeberbeitrages der kantonalen Familienausgleichskasse
+- b) die Festlegung des Beitrages der Selbständigerwerbenden der kantonalen Familienausgleichskasse
+- c) der Erlass der notwendigen Ausführungsbestimmungen
 
 <sup>3</sup> Dem zuständigen Departement obliegt:
 
-- a) die Genehmigung von Jahresrechnung und Jahresbericht der kantonalen Familienausgleichskasse;
-
-- b) die Vereinbarung mit der kantonalen AHV-Ausgleichskasse über die Deckung der Verwaltungskosten;
-
-- c) die Behandlung von Aufsichtsbeschwerden.
+- a) die Genehmigung von Jahresrechnung und Jahresbericht der kantonalen Familienausgleichskasse
+- b) die Vereinbarung mit der kantonalen AHV-Ausgleichskasse über die Deckung der Verwaltungskosten
+- c) die Behandlung von Aufsichtsbeschwerden
 
 #### Art. 6
 
@@ -102,9 +97,8 @@ Amtsblatt 2008, S. 1857
 
 <sup>2</sup> Die kantonale AHV-Ausgleichskasse wird für die übertragene Aufgabe entschädigt:
 
-- a) durch die kantonale Familienausgleichskasse für deren Verwaltungskosten;
-
-- b) durch den Kanton für weitere mit diesem Gesetz zusammenhängende Aufgaben.
+- a) durch die kantonale Familienausgleichskasse für deren Verwaltungskosten
+- b) durch den Kanton für weitere mit diesem Gesetz zusammenhängende Aufgaben
 
 <sup>3</sup> Das zuständige Departement vereinbart mit der kantonalen AHV-Ausgleichskasse die Art und Weise der Abrechnung über die Verwaltungskosten.
 
@@ -112,7 +106,7 @@ Amtsblatt 2008, S. 1857
 
 **Familienausgleichskassen von AHV-Ausgleichskassen**
 
-Die von den AHV-Ausgleichskassen geführten Familienausgleichskassen, welche im Kanton tätig sein wollen, haben sich bei der kantonalen Familienausgleichskasse zu melden.
+<sup>1</sup> Die von den AHV-Ausgleichskassen geführten Familienausgleichskassen, welche im Kanton tätig sein wollen, haben sich bei der kantonalen Familienausgleichskasse zu melden.
 
 #### Art. 8
 
@@ -120,17 +114,12 @@ Die von den AHV-Ausgleichskassen geführten Familienausgleichskassen, welche im 
 
 <sup>1</sup> Den Familienausgleichskassen obliegen:
 
-- a) der Anschluss der Arbeitgebenden, der Arbeitnehmenden ohne beitragspflichtige Arbeitgebende und der Selbständigerwerbenden;
-
-- b) der Bezug der Beiträge;
-
-- c) die Berechnung, Festsetzung und Auszahlung der Familienzulagen;
-
-- d) die Abrechnung über die bezogenen Beiträge und die ausbezahlten Familienzulagen mit den ihnen angeschlossenen Arbeitgebenden, Arbeitnehmenden ohne beitragspflichtige Arbeitgebende und Selbständigerwerbenden;
-
-- e) der Erlass von Verfügungen und Einspracheentscheiden;
-
-- f) die periodische Kontrolle der angeschlossenen Arbeitgebenden über die Einhaltung der gesetzlichen Bestimmungen.
+- a) der Anschluss der Arbeitgebenden, der Arbeitnehmenden ohne beitragspflichtige Arbeitgebende und der Selbständigerwerbenden
+- b) der Bezug der Beiträge
+- c) die Berechnung, Festsetzung und Auszahlung der Familienzulagen
+- d) die Abrechnung über die bezogenen Beiträge und die ausbezahlten Familienzulagen mit den ihnen angeschlossenen Arbeitgebenden, Arbeitnehmenden ohne beitragspflichtige Arbeitgebende und Selbständigerwerbenden
+- e) der Erlass von Verfügungen und Einspracheentscheiden
+- f) die periodische Kontrolle der angeschlossenen Arbeitgebenden über die Einhaltung der gesetzlichen Bestimmungen
 
 <sup>2</sup> Der Regierungsrat kann den Familienausgleichskassen weitere Aufgaben übertragen.
 
@@ -154,19 +143,17 @@ Die von den AHV-Ausgleichskassen geführten Familienausgleichskassen, welche im 
 
 <sup>1</sup> Die Arbeitgebenden, die Arbeitnehmenden ohne beitragspflichtige Arbeitgebende und die Selbständigerwerbenden haben sich einer Familienausgleichskasse nach Art. 2 dieses Gesetzes anzuschliessen.
 
-<sup>2</sup> Die Zugehörigkeit zu einer Familienausgleichskasse nach Art. 2 Abs. 1 Bst. b und c dieses Gesetzes richtet sich vorbehaltlich Abs. 3 nach der bereits bestehenden Mitgliedschaft bei der im Kanton Schaffhausen tätigen AHV-Ausgleichskasse.
+<sup>2</sup> Die Zugehörigkeit zu einer Familienausgleichskasse nach Art. 2 Abs. 1 lit. b und c dieses Gesetzes richtet sich vorbehaltlich Abs. 3 nach der bereits bestehenden Mitgliedschaft bei der im Kanton Schaffhausen tätigen AHV-Ausgleichskasse.
 
-<sup>3</sup> Sind die Arbeitgebenden bzw. die Selbständigerwerbenden Mitglied eines Verbandes, der eine Familienausgleichskasse nach Art.
-
-2 Abs. 1 Bst. a dieses Gesetzes führt, gehören sie in der Regel dieser an.
+<sup>3</sup> Sind die Arbeitgebenden bzw. die Selbständigerwerbenden Mitglied eines Verbandes, der eine Familienausgleichskasse nach Art. 2 Abs. 1 lit. a dieses Gesetzes führt, gehören sie in der Regel dieser an.
 
 <sup>4</sup> Die kantonale Familienausgleichskasse kontrolliert die Kassenzugehörigkeit der Arbeitgebenden, der Arbeitnehmenden ohne beitragspflichtige Arbeitgebende und der Selbständigerwerbenden. Anschlusspflichtige, die nicht innerhalb dreier Monate einer anerkannten Familienausgleichskasse beitreten, werden der kantonalen Familienausgleichskasse angeschlossen.
 
-<sup>5</sup> Der Regierungsrat regelt a) die Voraussetzungen und das Verfahren für den Zusammenschluss und die Auflösung von Familienausgleichskassen;
+<sup>5</sup> Der Regierungsrat regelt:
 
-- b) die Voraussetzungen und das Verfahren für den Wechsel der Familienausgleichskasse;
-
-- c) die Anschlusspflicht von Zweigniederlassungen ausserkantonaler Arbeitgebender.
+- a) die Voraussetzungen und das Verfahren für den Zusammenschluss und die Auflösung von Familienausgleichskassen
+- b) die Voraussetzungen und das Verfahren für den Wechsel der Familienausgleichskasse
+- c) die Anschlusspflicht von Zweigniederlassungen ausserkantonaler Arbeitgebender
 
 #### Art. 11
 
@@ -176,13 +163,23 @@ Die von den AHV-Ausgleichskassen geführten Familienausgleichskassen, welche im 
 
 <sup>2</sup> Der Kantonsrat kann höhere Ansätze beschliessen.
 
+#### Art. 11a
+
+**Höhe der Familienzulagen in der Landwirtschaft**
+
+<sup>1</sup> Der Kanton zahlt den Bezügern von Kinder- und Ausbildungszulagen gemäss Bundesgesetz über die Familienzulagen in der Landwirtschaft eine Differenzzulage, soweit die einzelne Zulage die gemäss Art. 11 festgelegte Höhe der Familienzulage nicht erreicht.
+
+<sup>2</sup> Die Durchführung wird der kantonalen Familienausgleichskasse übertragen, welche für diese Aufgabe entschädigt wird.
+
+<sup>3</sup> Die Kosten gemäss Art. 11a Abs. 1 und 2 sowie gemäss Art. 18 Abs. 4 Bundesgesetz über die Familienzulagen in der Landwirtschaft werden durch den Kanton finanziert.
+
 #### Art. 12
 
 **Verrechnung**
 
-Die Durchführungsstellen können nach diesem Gesetz oder nach Bundesrecht geschuldete Sozialversicherungsbeiträge, für deren Bezug sie verantwortlich sind, mit Leistungen aus diesem Gesetz verrechnen.
+<sup>1</sup> Die Durchführungsstellen können nach diesem Gesetz oder nach Bundesrecht geschuldete Sozialversicherungsbeiträge, für deren Bezug sie verantwortlich sind, mit Leistungen aus diesem Gesetz verrechnen.
 
-### II. Familienzulagen für Arbeitnehmende
+## 2 Familienzulagen für Arbeitnehmende nicht landwirtschaftlicher Berufe
 
 #### Art. 13
 
@@ -198,13 +195,13 @@ Die Durchführungsstellen können nach diesem Gesetz oder nach Bundesrecht gesch
 
 **Abrechnung**
 
-Die Arbeitgebenden haben ihre Beiträge und die ausbezahlten Familienzulagen spätestens 30 Tage nach Ablauf eines Kalenderjahres mit der Familienausgleichskasse abzurechnen.
+<sup>1</sup> Die Arbeitgebenden haben ihre Beiträge und die ausbezahlten Familienzulagen spätestens 30 Tage nach Ablauf eines Kalenderjahres mit der Familienausgleichskasse abzurechnen.
 
 #### Art. 15
 
 **Lastenausgleich**
 
-Unter den nach Art. 2 Abs. 1 Bst. a bis c dieses Gesetzes zugelassenen Familienausgleichskassen wird für jedes Kalenderjahr ein Lastenausgleich durchgeführt.
+<sup>1</sup> Unter den nach Art. 2 Abs. 1 lit. a bis c dieses Gesetzes zugelassenen Familienausgleichskassen wird für jedes Kalenderjahr ein Lastenausgleich durchgeführt.
 
 #### Art. 16
 
@@ -214,7 +211,9 @@ Unter den nach Art. 2 Abs. 1 Bst. a bis c dieses Gesetzes zugelassenen Familiena
 
 <sup>2</sup> Das Total der Familienzulagen im Verhältnis zur Lohnsumme ergibt den in Prozenten ausgedrückten Lastenausgleichssatz. Der Risikosatz der einzelnen Familienausgleichskasse ergibt sich aufgrund der gleichen Berechnung auf Kassenebene.
 
-<sup>3</sup> Die Lohnsumme wird nach den Bestimmungen des Bundesgesetzes über die Alters- und Hinterlassenenversicherung <sup>2)</sup> berechnet. Bestandteil der Lohnsumme bilden auch die massgebenden Löhne der angeschlossenen Arbeitnehmenden ohne beitragspflichtige Arbeitgebende.
+<sup>3</sup> Die Lohnsumme wird nach den Bestimmungen des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^16-1] berechnet. Bestandteil der Lohnsumme bilden auch die massgebenden Löhne der angeschlossenen Arbeitnehmenden ohne beitragspflichtige Arbeitgebende.
+
+[^16-1]: SR [831.10](http://db.clex.ch/link/Bund/831.10/de).
 
 #### Art. 17
 
@@ -240,7 +239,7 @@ Unter den nach Art. 2 Abs. 1 Bst. a bis c dieses Gesetzes zugelassenen Familiena
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten des Lastenausgleichsverfahrens.
 
-### III. Familienzulagen für Nichterwerbstätige
+## 3 Familienzulagen für Nichterwerbstätige
 
 #### Art. 19
 
@@ -262,7 +261,7 @@ Unter den nach Art. 2 Abs. 1 Bst. a bis c dieses Gesetzes zugelassenen Familiena
 
 **Finanzierung**
 
-Die Familienzulagen für Nichterwerbstätige und die Verwaltungskosten für die Durchführung werden durch den Kanton finanziert.
+<sup>1</sup> Die Familienzulagen für Nichterwerbstätige und die Verwaltungskosten für die Durchführung werden durch den Kanton finanziert.
 
 #### Art. 22
 
@@ -272,55 +271,49 @@ Die Familienzulagen für Nichterwerbstätige und die Verwaltungskosten für die 
 
 <sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
 
-### IV. Familienzulagen für Selbständigerwerbende
+## 4 Familienzulagen für Selbständigerwerbende nicht landwirtschaftlicher Berufe
 
 #### Art. 23
 
 **Höhe der Familienzulagen**
 
-Die Höhe der Kinder- und Ausbildungszulagen für Selbständigerwerbende richtet sich nach Art. 11 dieses Gesetzes.
+<sup>1</sup> Die Höhe der Kinder- und Ausbildungszulagen für Selbständigerwerbende richtet sich nach Art. 11 dieses Gesetzes.
 
-#### Art. 24
+#### Art. 24–25
 
-<sup>7)</sup>
-
-#### Art. 25
-
-<sup>7)</sup>
+**…**
 
 #### Art. 26
 
 **Finanzierung**
 
-<sup>1</sup> Selbständigerwerbende bezahlen einen Beitrag vom Einkommen aus selbständiger Erwerbstätigkeit gemäss den Bestimmungen des FamZG. Dieser Betrag hat auch die Verwaltungskosten für die Durchführung der Familienzulagen für Selbständigerwerbende zu decken. <sup>8)</sup>
+<sup>1</sup> Selbständigerwerbende bezahlen einen Beitrag vom Einkommen aus selbständiger Erwerbstätigkeit gemäss den Bestimmungen des FamZG. Dieser Betrag hat auch die Verwaltungskosten für die Durchführung der Familienzulagen für Selbständigerwerbende zu decken.
 
-<sup>2</sup> … <sup>7)</sup>
+<sup>2–3</sup> …
 
-<sup>3</sup> … <sup>7)</sup>
-
-### V. Sozialzulagen
+## 5 Sozialzulagen
 
 #### Art. 27
 
 **Zweck**
 
-Zur Förderung der elterlichen Betreuung von Kleinkindern bezweckt dieses Gesetz die Gewährung von Erwerbsersatzleistungen an alleinerziehende Elternteile, die nach der Geburt eines Kindes aus wirtschaftlichen Gründen gezwungen wären, einer Erwerbstätigkeit nachzugehen.
+<sup>1</sup> Zur Förderung der elterlichen Betreuung von Kleinkindern bezweckt dieses Gesetz die Gewährung von Erwerbsersatzleistungen an alleinerziehende Elternteile, die nach der Geburt eines Kindes aus wirtschaftlichen Gründen gezwungen wären, einer Erwerbstätigkeit nachzugehen.
 
 #### Art. 28
 
 **Anspruchsvoraussetzungen**
 
-<sup>1</sup> Anspruch auf Erwerbsersatzleistungen haben Personen, die a) seit mindestens einem Jahr ihren Wohnsitz und gewöhnlichen Aufenthalt im Kanton Schaffhausen haben,
+<sup>1</sup> Anspruch auf Erwerbsersatzleistungen haben Personen, die:
 
-- b) mit einem Kind unter zwei Jahren zusammenleben, zu dem ein Kindsverhältnis nach dem Schweizerischen Zivilgesetzbuch <sup>3)</sup> besteht,
-
-- c) alleinerziehend sind,
-
+- a) seit mindestens einem Jahr ihren Wohnsitz und gewöhnlichen Aufenthalt im Kanton Schaffhausen haben
+- b) mit einem Kind unter zwei Jahren zusammenleben, zu dem ein Kindsverhältnis nach dem Schweizerischen Zivilgesetzbuch[^28-1] besteht
+- c) alleinerziehend sind
 - d) in wirtschaftlich bescheidenen Verhältnissen leben und
-
-- e) vorwiegend nicht erwerbstätig sind.
+- e) vorwiegend nicht erwerbstätig sind
 
 <sup>2</sup> Der Anspruch kann nur für das erste und zweite Kind geltend gemacht werden.
+
+[^28-1]: SR [210](http://db.clex.ch/link/Bund/210/de).
 
 #### Art. 29
 
@@ -336,7 +329,7 @@ Zur Förderung der elterlichen Betreuung von Kleinkindern bezweckt dieses Gesetz
 
 **Höhe der Erwerbsersatzleistungen**
 
-<sup>1</sup> Die Erwerbsersatzleistungen entsprechen dem Betrag, um den die anerkannten Ausgaben die anrechenbaren Einnahmen überstiegen, jedoch höchstens 24'000 Franken pro Jahr.
+<sup>1</sup> Die Erwerbsersatzleistungen entsprechen dem Betrag, um den die anerkannten Ausgaben die anrechenbaren Einnahmen überstiegen, jedoch höchstens Fr. 24'000.00 pro Jahr.
 
 <sup>2</sup> Vom Vermögen wird ein angemessener Teil bei den Einnahmen angerechnet.
 
@@ -364,85 +357,65 @@ Zur Förderung der elterlichen Betreuung von Kleinkindern bezweckt dieses Gesetz
 
 <sup>2</sup> Diese Beiträge haben auch die Verwaltungskosten zu decken.
 
-### VI. Allgemeines, Strafbestimmungen und Rechtspflege
+## 6 Allgemeines, Strafbestimmungen und Rechtspflege
 
 #### Art. 33
 
 **Auskunftspflicht von Behörden**
 
-Die Verwaltungs- und Rechtspflegebehörden des Kantons und der Gemeinden haben den zuständigen Organen die für die Durchführung dieses Gesetzes erforderlichen Auskünfte unentgeltlich zu erteilen.
+<sup>1</sup> Die Verwaltungs- und Rechtspflegebehörden des Kantons und der Gemeinden haben den zuständigen Organen die für die Durchführung dieses Gesetzes erforderlichen Auskünfte unentgeltlich zu erteilen.
 
 #### Art. 34
 
 **Ergänzendes Recht**
 
-Die Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) <sup>4)</sup> und des AHVG finden Anwendung, soweit das Familienzulagengesetz, die Familienzulagenverordnung (FamZV) <sup>5)</sup>, dieses Gesetz und die kantonalen Vollzugsvorschriften keine Regelung enthalten. Dies gilt insbesondere für die:
+<sup>1</sup> Die Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^34-1]. und des AHVG finden Anwendung, soweit das Familienzulagengesetz die Familienzulagenverordnung (FamZV)[^34-2]., das Bundesgesetz über die Familienzulagen in der Landwirtschaft (FLG)[^34-3]., dieses Gesetz und die kantonalen Vollzugsvorschriften keine Regelung enthalten. Dies gilt insbesondere für die:
 
-- a) Festsetzung und den Bezug der Beiträge;
+- a) Festsetzung und den Bezug der Beiträge
+- b) Rückerstattung
+- c) Nachzahlung
+- d) Verrechnung von Beitragsforderungen und Zulagenzahlungen
+- e) Verjährung
+- f) Auskunfts- und Mitwirkungspflicht
+- g) Arbeitgeberhaftung
+- h) Kassenhaftung
+- i) Schweigepflicht
 
-- b) Rückerstattung;
-
-- c) Nachzahlung;
-
-- d) Verrechnung von Beitragsforderungen und Zulagenzahlungen;
-
-- e) Verjährung;
-
-- f) Auskunfts- und Mitwirkungspflicht;
-
-- g) Arbeitgeberhaftung;
-
-- h) Kassenhaftung;
-
-- i) Schweigepflicht.
+[^34-1]: SR [830.1](http://db.clex.ch/link/Bund/830.1/de).
+[^34-2]: SR [836.21](http://db.clex.ch/link/Bund/836.21/de).
+[^34-3]: SR [836.1](http://db.clex.ch/link/Bund/836.1/de).
 
 #### Art. 35
 
 **Strafbestimmungen**
 
-Die Art. 87 – 91 des AHVG sind anwendbar auf Personen, die in einer in diesen Bestimmungen umschriebenen Weise die Vorschriften dieses Gesetzes verletzen.
+<sup>1</sup> Die Art. 87–91 des AHVG sind anwendbar auf Personen, die in einer in diesen Bestimmungen umschriebenen Weise die Vorschriften dieses Gesetzes verletzen.
 
 #### Art. 36
 
 **Rechtspflege**
 
-Es gelten die Bestimmungen des ATSG.
+<sup>1</sup> Es gelten die Bestimmungen des ATSG.
 
-### VII. Schlussbestimmungen
+## 7 Schlussbestimmungen
 
 #### Art. 37
 
 **Vollziehungsverordnung**
 
-Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes notwendigen Ausführungsbestimmungen.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes notwendigen Ausführungsbestimmungen.
 
 #### Art. 38
 
 **Aufhebung bisherigen Rechts**
 
-Das Gesetz über Familien- und Sozialzulagen (FSG) vom 21. Juni 1999 wird aufgehoben.
+<sup>1</sup> Das Gesetz über Familien- und Sozialzulagen (FSG) vom 21. Juni 1999 wird aufgehoben.
 
 #### Art. 39
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts[^39-1]**
 
-Das Arbeitslosenhilfegesetz vom 17. Februar 1997 (SHR 837.100) wird wie folgt geändert:
-
-#### Art. 16
-
-**lit. d und e**
-
-- d) die Beiträge an die Familienzulagen für Selbständigerwerbende gemäss Art. 26 Abs. 3 des Familien- und Sozialzulagengesetzes;
-
-- e) die Beiträge an die Erwerbsersatzleistungen gemäss Art.
-
-32 des Familien- und Sozialzulagengesetzes.
-
-#### Art. 18
-
-**Abs. 2 Satz 2**
-
-Die Kosten für die Beiträge an die obligatorische Arbeitslosenversicherung sowie die Kosten für die Leistungen gemäss Art. 26 Abs. 3 und Art. 32 des Familien- und Sozialzulagengesetzes werden dabei mitberücksichtigt.
+[^39-1]: Gegenstandslos.
 
 #### Art. 40
 
@@ -452,22 +425,8 @@ Die Kosten für die Beiträge an die obligatorische Arbeitslosenversicherung sow
 
 <sup>2</sup> Es untersteht dem Referendum.
 
-<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen <sup>6)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^40-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
+[^40-1]: Amtsblatt 2008, S. 1857.
 
-- 1) SR 836.1.
-
-- 2) SR 831.10.
-
-- 3) SR 210.
-
-- 4) SR 830.1.
-
-- 5) SR 836.21.
-
-- 6) Amtsblatt 2008, S. 1857.
-
-- 7) Aufgehoben durch G vom 20. August 2012, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1192, Amtsblatt 2013, S. 29).
-
-- 8) Fassung gemäss G vom 20. August 2012, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1192, Amtsblatt 2013, S. 29).
+Abl. 2008, S. 1857
