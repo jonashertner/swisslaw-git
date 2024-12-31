@@ -3,18 +3,18 @@ sr: "974.01"
 title: "Ordonnance du 12 décembre 1977 concernant la coopération au développement et l'aide humanitaire internationales"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
 language: fr
-version: 2022-01-01
+version: 2025-01-01
 adopted: 1977-12-12
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la coopération au développement et l’aide humanitaire internationales
 
-du 12 décembre 1977 (État le 1<sup>er</sup> janvier 2022)
+du 12 décembre 1977 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -359,43 +359,13 @@ La Commission consultative:
 
 [^30-1]: Abrogé par le ch. II 111 de l’O du 8 nov. 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## Section 8*a* Société appuyant la Confédération dans la coopération économique avec les pays en développement et les pays en transition
+## Section 8*a* …
 
-[^sec8a-1]
+#### Art. 30a à 30d
 
-[^sec8a-1]: Introduite par le ch. I de l’O du 5 mars 2010, en vigueur depuis le 1<sup>er</sup> avril 2010 ([RO 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)).
+[^30a30d-1]
 
-#### Art. 30a
-
-**But et tâches**
-
-<sup>1</sup> La Confédération crée une société anonyme de droit privé dans le but d’encourager l’engagement de ressources du secteur privé, notamment les investissements dans les pays en développement.
-
-<sup>2</sup> Elle détient au moins deux tiers des droits de vote et du capital de la société.
-
-#### Art. 30b
-
-**Exercice des droits des actionnaires**
-
-<sup>1</sup> Le Conseil fédéral exerce ses droits d’actionnaire.
-
-<sup>2</sup> Le DEFR prépare les affaires relevant de la politique de propriétaire et les coordonne avec les services spécialisés de la Confédération.
-
-#### Art. 30c
-
-**Objectifs stratégiques**
-
-<sup>1</sup> Le Conseil fédéral définit les objectifs stratégiques tous les quatre ans. Il s’appuie, pour ce faire, sur les principes reconnus en matière de coopération au développement et sur les principes de subsidiarité et de durabilité.
-
-<sup>2</sup> Le conseil d’administration de la société remet chaque année au Conseil fédéral un rapport sur la réalisation des objectifs et met à sa disposition les informations nécessaires pour vérifier la réalisation des objectifs.[^30c-1]
-
-[^30c-1]: Voir aussi les disp. trans. mod. du 5 mars 2010 à la fin du texte.
-
-#### Art. 30d
-
-**Financement**
-
-La société se finance par ses propres activités.
+[^30a30d-1]: Introduits par le ch. I de l’O du 5 mars 2010 ([RO 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)). Abrogés par le ch. I de l’O du 27 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 737](https://fedlex.data.admin.ch/eli/oc/2024/737)).
 
 ## Section 9 Dispositions finales
 
@@ -417,16 +387,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1978.
 
 [^u1-1]
 
-[^u1-1]: [RO 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)
-
-<sup>2</sup> L’opération visée à la let. b requiert la consultation de l’Administration fédérale des finances.
-
-<sup>1</sup> Le DEFR:
-
-- a. prépare les bases contractuelles requises pour la participation de la Confédération à la société et soumet sa proposition au Conseil fédéral; il veille à ce que les obligations de la société (art. 30*c*, al. 2) soient fixées par contrat;
-- b. prépare le transfert du portefeuille du SECO à la société et soumet sa proposition au Conseil fédéral;
-- c. soumet au Conseil fédéral les autres affaires relevant de la politique de propriétaire (choix et mandats des représentants de la Confédération au sein du conseil d’administration, et de l’organe de révision externe);
-- d. prend toutes les autres dispositions nécessaires à la mise en œuvre des let. a et b.
+[^u1-1]: [RO 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145). Devenue sans objet avec la mod. du 27 nov. 2024 ([RO 2024 737](https://fedlex.data.admin.ch/eli/oc/2024/737)).
 
 Annexe 1[^t-1]
 

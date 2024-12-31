@@ -3,18 +3,18 @@ sr: "974.01"
 title: Verordnung vom 12. Dezember 1977 über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
 language: de
-version: 2022-01-01
+version: 2025-01-01
 adopted: 1977-12-12
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 
-vom 12. Dezember 1977 (Stand am 1. Januar 2022)
+vom 12. Dezember 1977 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -298,7 +298,9 @@ Dem IKEZ obliegen insbesondere:
 
 <sup>1</sup> Die Beratende Kommission für internationale Zusammenarbeit (beratende Kommission) setzt sich aus höchstens 15 Mitgliedern zusammen. Diese dürfen nicht der Bundesverwaltung angehören.[^25-2]
 
-<sup>2</sup> Die beratende Kommission
+<sup>2</sup>
+
+Die beratende Kommission:
 
 - a. berät den Bundesrat in Fragen der internationalen Entwicklungszusammenarbeit, der humanitären Hilfe und der Zusammenarbeit mit den Staaten Osteuropas;
 - b. prüft namentlich Ziele, Prioritäten und Gesamtkonzeption der Zusammenarbeit;
@@ -350,7 +352,7 @@ Dem IKEZ obliegen insbesondere:
 
 <sup>2</sup> Das SECO kann im Rahmen seiner Zuständigkeitsbereiche Forschungsaufträge erteilen.
 
-## 8. Abschnitt: ...
+## 8. Abschnitt: …
 
 #### Art. 30
 
@@ -358,41 +360,13 @@ Dem IKEZ obliegen insbesondere:
 
 [^30-1]: Aufgehoben durch Ziff. II 111 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## 8*a*. Abschnitt: Gesellschaft zur Unterstützung des Bundes bei der wirtschaftlichen Zusammenarbeit in Entwicklungs- und Transitionsländern
+## 8*a*. Abschnitt: …
 
-[^sec8a-1]
+#### Art. 30a–30d
 
-[^sec8a-1]: Eingefügt gemäss Ziff. I der V vom 5. März 2010, in Kraft seit 1. April 2010 ([AS 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)).
+[^30a30d-1]
 
-#### Art. 30a
-
-**Zweck und Aufgaben**
-
-<sup>1</sup> Der Bund schafft zur Förderung des Einsatzes privatwirtschaftlicher Mittel, namentlich von Investitionen in Entwicklungsländern, eine Gesellschaft in der Form einer privatrechtlichen Aktiengesellschaft.
-
-<sup>2</sup> Der Bund hält mindestens zwei Drittel der Stimmrechte und des Kapitals der Gesellschaft.
-
-#### Art. 30b
-
-**Wahrnehmung der Aktionärsrechte**
-
-<sup>1</sup> Der Bundesrat übt die Rechte des Aktionärs aus.
-
-<sup>2</sup> Das WBF bereitet die eignerpolitischen Geschäfte vor und koordiniert diese mit den Fachstellen des Bundes.
-
-#### Art. 30c
-
-**Strategische Ziele**
-
-<sup>1</sup> Der Bundesrat legt jeweils für vier Jahre die strategischen Ziele fest. Er orientiert sich dabei an den anerkannten Prinzipien der Entwicklungszusammenarbeit und an den Grundsätzen der Subsidiarität und der Nachhaltigkeit.
-
-<sup>2</sup> Der Verwaltungsrat der Gesellschaft erstattet dem Bundesrat jährlich Bericht über die Zielerreichung und stellt die notwendigen Informationen für die Überprüfung der Zielerreichung zur Verfügung.
-
-#### Art. 30d
-
-**Finanzierung**
-
-Die Gesellschaft finanziert sich durch eigene Geschäftstätigkeit.
+[^30a30d-1]: Eingefügt gemäss Ziff. I der V vom 5. März 2010 ([AS 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)). Aufgehoben durch Ziff. I der V vom 27. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 737](https://fedlex.data.admin.ch/eli/oc/2024/737)).
 
 ## 9. Abschnitt: Schlussbestimmungen
 
@@ -414,16 +388,7 @@ Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 
 [^u1-1]
 
-[^u1-1]: [AS 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)
-
-<sup>2</sup> Buchstabe b erfolgt in Rücksprache mit der Eidgenössischen Finanzverwaltung.
-
-<sup>1</sup> Das WBF:
-
-- a. bereitet das notwendige Vertragswerk für die Beteiligung des Bundes an der Gesellschaft vor und stellt dem Bundesrat Antrag; es stellt dabei sicher, dass die Pflichten der Gesellschaft (Art. 30c Abs. 2) vertraglich verankert werden;
-- b. bereitet die Übertragung des Portfolios vom SECO auf die Gesellschaft vor und stellt dem Bundesrat Antrag;
-- c. unterbreitet dem Bundesrat die weiteren eignerpolitischen Geschäfte (Wahl und Mandate der Bundesvertreter in Verwaltungsrat und der externen Revisionsstelle);
-- d. trifft alle weiteren für die Umsetzung von Buchstabe a und b notwendigen Vorkehrungen.
+[^u1-1]: [AS 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145). Gegenstandslos durch die Änd. vom 27. Nov. 2024 (AS **202****4** 737).
 
 Anhang 1[^t-1]
 
