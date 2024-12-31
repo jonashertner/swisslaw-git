@@ -4,11 +4,11 @@ title: "Ordinanza del 30 aprile 2014 sulle banche e le casse di risparmio (Ordin
 short: OBCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: it
-version: 2023-01-23
+version: 2025-01-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230123-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20250101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/it"
 
 (Ordinanza sulle banche, OBCR)
 
-del 30 aprile 2014 (Stato 23 gennaio 2023)
+del 30 aprile 2014 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -92,7 +92,7 @@ Le banche sono suddivise dall’Autorità federale di vigilanza sui mercati fina
 
 Gli enti e istituti di diritto pubblico, come pure le casse di cui siffatti enti e istituti di diritto pubblico garantiscono integralmente gli impegni, non sono considerati banche o persone di cui all’articolo 1*b* LBCR[^3-1] anche se accettano depositi del pubblico a titolo professionale.
 
-[^3-1]: Nuova espr. giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)). Di detta mod. è tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-1]: Nuova espressione giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 3a
 
@@ -213,7 +213,9 @@ Non sono considerati beni crittografici secondo il capoverso 1 i valori patrimon
 
 **Carattere professionale**[^6-1]
 
-<sup>1</sup> Agisce a titolo professionale ai sensi della LBCR chiunque
+<sup>1</sup>
+
+Agisce a titolo professionale ai sensi della LBCR chiunque:
 
 - a. accetta sul lungo periodo più di 20 depositi del pubblico o beni crittografici custoditi collettivamente; o
 - b. si presta pubblicamente ad accettare depositi del pubblico o beni crittografici custoditi collettivamente, anche se il numero dei depositi del pubblico o dei beni crittografici accettati in seguito è inferiore a 20.[^6-2]
@@ -400,8 +402,11 @@ La direzione effettiva della banca deve situarsi in Svizzera. Sono fatte salve l
 
 <sup>4</sup> La banca provvede a istituire un efficace sistema di controllo interno. In particolare istituisce un organo di revisione interno indipendente dalla direzione. In singoli casi fondati la FINMA può esonerare la banca dall’obbligo di istituire un organo di revisione interno.
 
+<sup>5</sup> La FINMA disciplina le esigenze in materia di pubblicazione delle informazioni sull’organizzazione e sui rischi, in particolare sulla gestione dei rischi e sulle retribuzioni.[^12-3]
+
 [^12-1]: Nuovo testo del rimando giusta l’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^12-2]: Introdotto dall’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^12-3]: Introdotto dall’all. n. 2 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 13
 
@@ -413,7 +418,7 @@ La direzione effettiva della banca deve situarsi in Svizzera. Sono fatte salve l
 
 <sup>2</sup> L’elenco contiene indicazioni sull’identità dei titolari di partecipazioni qualificate e sulla quota detenuta il giorno di chiusura dell’esercizio, nonché eventuali cambiamenti rispetto all’anno precedente.
 
-- [tab] <sup>3</sup> Le indicazioni e i documenti secondo l’articolo 8 devono essere forniti inoltre per i titolari di partecipazioni qualificate che non erano stati notificati in precedenza.
+<sup>3</sup> Le indicazioni e i documsenti secondo l’articolo 8 devono essere forniti inoltre per i titolari di partecipazioni qualificate che non erano stati notificati in precedenza.
 
 #### Art. 14
 
@@ -1498,9 +1503,10 @@ Se la banca non elimina le lacune entro il termine impartito, la FINMA accorda u
 Una banca di rilevanza sistemica non adempie le prescrizioni relative ai fondi propri ai sensi dell’articolo 25 capoverso 1 LBCR:
 
 - a.[^63-1] se i fondi propri di base di qualità primaria computabili scendono sotto il 5 per cento delle posizioni ponderate in funzione del rischio; o
-- b. nel caso dell’articolo 42 capoverso 4 OFoP.
+- b.[^63-2] nel caso dell’articolo 42 capoverso 3 OFoP.
 
 [^63-1]: Nuovo testo giusta l’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^63-2]: Nuovo testo giusta l’all. n. 2 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 63a
 
@@ -1639,7 +1645,7 @@ Le società del gruppo importanti di una banca di rilevanza sistemica che hanno 
 
 - a. inventariare questi servizi in un elenco delle prestazioni;
 - b. concepire i contratti con i fornitori esterni di servizi che sono in relazione con questi servizi in modo che resistano a un risanamento o un fallimento nonché garantire la possibilità di trasferire i contratti;
-  - c. limitare, attraverso misure adeguate, le dipendenze da fornitori interni ed esterni di servizi con sede all’estero.
+- c. limitare, attraverso misure adeguate, le dipendenze da fornitori interni ed esterni di servizi con sede all’estero.
 
 ## Capitolo 8: Disposizioni finali
 

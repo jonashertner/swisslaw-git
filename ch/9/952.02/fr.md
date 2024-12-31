@@ -4,11 +4,11 @@ title: "Ordonnance du 30 avril 2014 sur les banques et les caisses d'épargne (O
 short: OB
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: fr
-version: 2023-01-23
+version: 2025-01-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230123-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20250101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/fr"
 
 (Ordonnance sur les banques, OB)
 
-du 30 avril 2014 (État le 23 janvier 2023)
+du 30 avril 2014 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -212,7 +212,9 @@ Ne sont pas réputés cryptoactifs au sens de l’al. 1 les actifs:
 
 **Exercice d’une activité à titre professionnel**[^6-1]
 
-<sup>1</sup> Agit à titre professionnel au sens de la LB celui qui
+<sup>1</sup>
+
+Agit à titre professionnel au sens de la LB celui qui:
 
 - a. accepte sur une longue période plus de 20 dépôts du public ou cryptoactifs en dépôt collectif, ou
 - b. fait appel au public pour obtenir des dépôts ou cryptoactifs en dépôt collectif, même s’il obtient par la suite moins de 20 dépôts du public ou cryptoactifs.[^6-2]
@@ -401,9 +403,12 @@ La direction effective de la banque doit se situer en Suisse. Sont réservées l
 
 <sup>4</sup> La banque veille à mettre en place un système de contrôle interne efficace. Elle institue notamment un organe interne de révision indépendant de l’organe responsable de la gestion.[^12-3] La FINMA peut, dans des cas dûment motivés, exempter une banque de l’obligation d’instituer un organe interne de révision.
 
+<sup>5</sup> La FINMA définit les exigences applicables à la publication d’informations sur l’organisation et les risques, concernant notamment la gestion de ceux-ci et les rémunérations.[^12-4]
+
 [^12-1]: Nouvelle teneur du renvoi selon l’annexe 1 ch. 11 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^12-2]: Introduit par l’annexe 1 ch. 11 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^12-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^12-4]: Introduit par l’annexe ch. 2 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 13
 
@@ -926,7 +931,9 @@ Un sous-groupe inclus dans les comptes consolidés d’une société mère ne do
 
 ### (art. 6*b*, al. 2 et 3, LB)
 
-<sup>1</sup> La banque est libérée de l’obligation d’établir un tableau des flux de trésorerie dans les comptes annuels ainsi qu’un rapport annuel au niveau individuel, si
+<sup>1</sup>
+
+La banque est libérée de l’obligation d’établir un tableau des flux de trésorerie dans les comptes annuels ainsi qu’un rapport annuel au niveau individuel, si:
 
 - a. elle établit des comptes consolidés selon les art. 33 à 41 ou selon un standard comptable international reconnu par la FINMA et les publie avec un rapport annuel consolidé, ou
 - b. elle est consolidée selon l’art. 34 dans les comptes d’un groupe financier surveillé par la FINMA, qui remplit les conditions fixées à la let. a.
@@ -1500,9 +1507,10 @@ Si la banque ne comble pas ces lacunes dans le délai imparti, la FINMA lui acco
 Une banque d’importance systémique ne satisfait pas aux exigences en matière de fonds propres selon l’art. 25, al. 1, LB:
 
 - a.[^63-1] lorsque les fonds propres de base durs pris en compte sont inférieurs à 5 % des positions pondérées en fonction des risques, ou
-- b. dans le cas prévu à l’art. 42, al. 4, OFR.
+- b.[^63-2] dans le cas prévu à l’art. 42, al. 3, OFR.
 
 [^63-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^63-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 63a
 

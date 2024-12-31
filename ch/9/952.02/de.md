@@ -4,11 +4,11 @@ title: "Verordnung vom 30. April 2014 über die Banken und Sparkassen (Bankenver
 short: BankV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: de
-version: 2023-01-23
+version: 2025-01-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230123-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20250101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/de"
 
 (Bankenverordnung, BankV)
 
-vom 30. April 2014 (Stand am 23. Januar 2023)
+vom 30. April 2014 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -102,7 +102,7 @@ Körperschaften und Anstalten des öffentlichen Rechts sowie Kassen, für die ei
 
 Die Funktionen einer Gruppengesellschaft sind für die bewilligungspflichtigen Tätigkeiten wesentlich, wenn sie notwendig sind für die Weiterführung wichtiger Geschäftsprozesse, namentlich in den Bereichen Liquiditätsmanagement, Tresorerie, Risikomanagement, Stammdatenverwaltung und Rechnungswesen, Personal, Informationstechnologie, Handel und Abwicklung sowie Recht und Compliance.
 
-[^3a-1]: Fassung gemäss Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^3a-1]: Eingefügt durch Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 #### Art. 4
 
@@ -403,8 +403,11 @@ Die Bank muss tatsächlich von der Schweiz aus geleitet werden. Vorbehalten blei
 
 <sup>4</sup> Die Bank sorgt für ein wirksames internes Kontrollsystem. Sie bestellt insbesondere eine von der Geschäftsführung unabhängige interne Revision. Die FINMA kann in begründeten Einzelfällen eine Bank von der Pflicht, eine interne Revision zu bestellen, befreien.
 
+<sup>5</sup> Die FINMA regelt die Anforderungen an die Offenlegung von Informationen über die Organisation und die Risiken, insbesondere über das Risikomanagement und die Vergütungen.[^12-3]
+
 [^12-1]: Fassung des Klammerverweises gemäss Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^12-2]: Eingefügt durch Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^12-3]: Eingefügt durch Anhang Ziff. 2 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 13
 
@@ -1501,9 +1504,10 @@ Behebt die Bank die Mängel nicht innert der angesetzten Frist, so setzt ihr die
 Eine systemrelevante Bank erfüllt die Eigenmittelvorschriften nach Artikel 25 Absatz 1 BankG nicht:
 
 - a.[^63-1] wenn das anrechenbare harte Kernkapital 5 Prozent der risikogewichteten Positionen unterschreitet; oder
-- b. im Falle von Artikel 42 Absatz 4 ERV.
+- b.[^63-2] im Falle von Artikel 42 Absatz 3 ERV.
 
 [^63-1]: Fassung gemäss Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^63-2]: Fassung gemäss Anhang Ziff. 2 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 63a
 
@@ -1708,59 +1712,101 @@ Anhang 1
 
 In der Bilanz sind folgende Aktiven gesondert auszuweisen:
 
-- 1\.1 Flüssige Mittel
-- 1\.2 Forderungen gegenüber Banken
-- 1\.3 Forderungen aus Wertpapierfinanzierungsgeschäften
-- 1\.4 Forderungen gegenüber Kunden
-- 1\.5 Hypothekarforderungen
-- 1\.6 Handelsgeschäft
-- 1\.7 Positive Wiederbeschaffungswerte derivativer Finanzinstrumente
-- 1\.8 Übrige Finanzinstrumente mit Fair-Value-Bewertung
-- 1\.9 Finanzanlagen
-- 1\.10 Aktive Rechnungsabgrenzungen
-- 1\.11 Beteiligungen
-- 1\.12 Sachanlagen
-- 1\.13 Immaterielle Werte
-- 1\.14 Sonstige Aktiven
-- 1\.15 Nicht einbezahltes Gesellschaftskapital
-- 1\.16 Total Aktiven
-- 1\.16.1 Total nachrangige Forderungen
-- 1\.16.1.1 davon mit Wandlungspflicht und/oder Forderungsverzicht
+1.1 Flüssige Mittel
+
+1.2 Forderungen gegenüber Banken
+
+1.3 Forderungen aus Wertpapierfinanzierungsgeschäften
+
+1.4 Forderungen gegenüber Kunden
+
+1.5 Hypothekarforderungen
+
+1.6 Handelsgeschäft
+
+1.7 Positive Wiederbeschaffungswerte derivativer Finanzinstrumente
+
+1.8 Übrige Finanzinstrumente mit Fair-Value-Bewertung
+
+1.9 Finanzanlagen
+
+1.10 Aktive Rechnungsabgrenzungen
+
+1.11 Beteiligungen
+
+1.12 Sachanlagen
+
+1.13 Immaterielle Werte
+
+1.14 Sonstige Aktiven
+
+1.15 Nicht einbezahltes Gesellschaftskapital
+
+1.16 Total Aktiven
+
+1.16.1 Total nachrangige Forderungen
+
+1.16.1.1 davon mit Wandlungspflicht und/oder Forderungsverzicht
 
 ### 2. Passiven
 
 In der Bilanz sind folgende Passiven gesondert auszuweisen:
 
-- 2\.1 Verpflichtungen gegenüber Banken
-- 2\.2 Verpflichtungen aus Wertpapierfinanzierungsgeschäften
-- 2\.3 Verpflichtungen aus Kundeneinlagen
-- 2\.4 Verpflichtungen aus Handelsgeschäften
-- 2\.5 Negative Wiederbeschaffungswerte derivativer Finanzinstrumente
-- 2\.6 Verpflichtungen aus übrigen Finanzinstrumenten mit Fair-Value-Bewertung
-- 2\.7 Kassenobligationen
-- 2\.8 Anleihen und Pfandbriefdarlehen
-- 2\.9 Passive Rechnungsabgrenzungen
-- 2\.10 Sonstige Passiven
-- 2\.11 Rückstellungen
-- 2\.12 Reserven für allgemeine Bankrisiken
-- 2\.13 Gesellschaftskapital
-- 2\.14 Gesetzliche Kapitalreserve
-- 2\.14.1 davon Reserve aus steuerbefreiten Kapitaleinlagen
-- 2\.15 Gesetzliche Gewinnreserve
-- 2\.16 Freiwillige Gewinnreserven
-- 2\.17 Eigene Kapitalanteile (Minusposition)
-- 2\.18 Gewinnvortrag / Verlustvortrag
-- 2\.19 Gewinn / Verlust (Periodenerfolg)
-- 2\.20 Total Passiven
-- 2\.20.1 Total nachrangige Verpflichtungen
-- 2\.20.1.1 davon mit Wandlungspflicht und/oder Forderungsverzicht
+2.1 Verpflichtungen gegenüber Banken
+
+2.2 Verpflichtungen aus Wertpapierfinanzierungsgeschäften
+
+2.3 Verpflichtungen aus Kundeneinlagen
+
+2.4 Verpflichtungen aus Handelsgeschäften
+
+2.5 Negative Wiederbeschaffungswerte derivativer Finanzinstrumente
+
+2.6 Verpflichtungen aus übrigen Finanzinstrumenten mit Fair-Value-Bewertung
+
+2.7 Kassenobligationen
+
+2.8 Anleihen und Pfandbriefdarlehen
+
+2.9 Passive Rechnungsabgrenzungen
+
+2.10 Sonstige Passiven
+
+2.11 Rückstellungen
+
+2.12 Reserven für allgemeine Bankrisiken
+
+2.13 Gesellschaftskapital
+
+2.14 Gesetzliche Kapitalreserve
+
+2.14.1 davon Reserve aus steuerbefreiten Kapitaleinlagen
+
+2.15 Gesetzliche Gewinnreserve
+
+2.16 Freiwillige Gewinnreserven
+
+2.17 Eigene Kapitalanteile (Minusposition)
+
+2.18 Gewinnvortrag / Verlustvortrag
+
+2.19 Gewinn / Verlust (Periodenerfolg)
+
+2.20 Total Passiven
+
+2.20.1 Total nachrangige Verpflichtungen
+
+2.20.1.1 davon mit Wandlungspflicht und/oder Forderungsverzicht
 
 ### 3. Ausserbilanzgeschäfte
 
-- 3\.1 Eventualverpflichtungen
-- 3\.2 Unwiderrufliche Zusagen
-- 3\.3 Einzahlungs- und Nachschussverpflichtungen
-- 3\.4 Verpflichtungskredite
+3.1 Eventualverpflichtungen
+
+3.2 Unwiderrufliche Zusagen
+
+3.3 Einzahlungs- und Nachschussverpflichtungen
+
+3.4 Verpflichtungskredite
 
 Weitere, im Einzelfall wesentliche Positionen sind in der Bilanz oder im Anhang zusätzlich auszuweisen.
 
@@ -1770,40 +1816,73 @@ In der Bilanz sind die Vorjahreszahlen aufzuführen.
 
 In der Erfolgsrechnung sind folgende Positionen gesondert in Staffelform auszuweisen:
 
-- 1 Erfolg aus dem Zinsengeschäft
-- 1\.1 Zins- und Diskontertrag
-- 1\.2 Zins- und Dividendenertrag aus Handelsgeschäft
-- 1\.3 Zins- und Dividendenertrag aus Finanzanlagen
-- 1\.4 Zinsaufwand
-- 1\.5 Brutto-Erfolg Zinsengeschäft (1.1 + 1.2 + 1.3 – 1.4)
-- 1\.6 Veränderungen von ausfallrisikobedingten Wertberichtigungen sowie Verluste aus dem Zinsengeschäft
-- 1\.7 Subtotal Netto-Erfolg Zinsengeschäft (1.5 –/+ 1.6)
-- 2 Erfolg aus dem Kommissions- und Dienstleistungsgeschäft
-- 2\.1 Kommissionsertrag Wertschriften und Anlagegeschäft
-- 2\.2 Kommissionsertrag Kreditgeschäft
-- 2\.3 Kommissionsertrag übriges Dienstleistungsgeschäft
-- 2\.4 Kommissionsaufwand
-- 2\.5 Subtotal Erfolg Kommissions- und Dienstleistungsgeschäft (2.1 + 2.2 + 2.3 – 2.4)
-- 3 Erfolg aus dem Handelsgeschäft und der Fair-Value-Option
-- 4 Übriger ordentlicher Erfolg
-- 4\.1 Erfolg aus Veräusserungen von Finanzanlagen
-- 4\.2 Beteiligungsertrag
-- 4\.3 Liegenschaftenerfolg
-- 4\.4 Anderer ordentlicher Ertrag
-- 4\.5 Anderer ordentlicher Aufwand
-- 4\.6 Subtotal übriger ordentlicher Erfolg (4.1 + 4.2 + 4.3 + 4.4 – 4.5)
-- 5 Geschäftsaufwand
-- 5\.1 Personalaufwand
-- 5\.2 Sachaufwand
-- 5\.3 Subtotal Geschäftsaufwand (5.1. + 5.2.)
-- 6 Wertberichtigungen auf Beteiligungen sowie Abschreibungen auf Sachanlagen und immateriellen Werten
-- 7 Veränderungen von Rückstellungen und übrigen Wertberichtigungen sowie Verluste
-- 8 Geschäftserfolg (1.7 + 2.5 + 3 + 4.6 – 5.3 – 6 –/+ 7)
-- 9 Ausserordentlicher Ertrag
-- 10 Ausserordentlicher Aufwand
-- 11 Veränderungen von Reserven für allgemeine Bankrisiken
-- 12 Steuern
-- 13 Gewinn / Verlust (Periodenerfolg)
+1 Erfolg aus dem Zinsengeschäft
+
+1.1 Zins- und Diskontertrag
+
+1.2 Zins- und Dividendenertrag aus Handelsgeschäft
+
+1.3 Zins- und Dividendenertrag aus Finanzanlagen
+
+1.4 Zinsaufwand
+
+1.5 Brutto-Erfolg Zinsengeschäft (1.1 + 1.2 + 1.3 – 1.4)
+
+1.6 Veränderungen von ausfallrisikobedingten Wertberichtigungen sowie Verluste aus dem Zinsengeschäft
+
+1.7 Subtotal Netto-Erfolg Zinsengeschäft (1.5 –/+ 1.6)
+
+2 Erfolg aus dem Kommissions- und Dienstleistungsgeschäft
+
+2.1 Kommissionsertrag Wertschriften und Anlagegeschäft
+
+2.2 Kommissionsertrag Kreditgeschäft
+
+2.3 Kommissionsertrag übriges Dienstleistungsgeschäft
+
+2.4 Kommissionsaufwand
+
+2.5 Subtotal Erfolg Kommissions- und Dienstleistungsgeschäft (2.1 + 2.2 + 2.3 – 2.4)
+
+3 Erfolg aus dem Handelsgeschäft und der Fair-Value-Option
+
+4 Übriger ordentlicher Erfolg
+
+4.1 Erfolg aus Veräusserungen von Finanzanlagen
+
+4.2 Beteiligungsertrag
+
+4.3 Liegenschaftenerfolg
+
+4.4 Anderer ordentlicher Ertrag
+
+4.5 Anderer ordentlicher Aufwand
+
+4.6 Subtotal übriger ordentlicher Erfolg (4.1 + 4.2 + 4.3 + 4.4 – 4.5)
+
+5 Geschäftsaufwand
+
+5.1 Personalaufwand
+
+5.2 Sachaufwand
+
+5.3 Subtotal Geschäftsaufwand (5.1. + 5.2.)
+
+6 Wertberichtigungen auf Beteiligungen sowie Abschreibungen auf Sachanlagen und immateriellen Werten
+
+7 Veränderungen von Rückstellungen und übrigen Wertberichtigungen sowie Verluste
+
+8 Geschäftserfolg (1.7 + 2.5 + 3 + 4.6 – 5.3 – 6 –/+ 7)
+
+9 Ausserordentlicher Ertrag
+
+10 Ausserordentlicher Aufwand
+
+11 Veränderungen von Reserven für allgemeine Bankrisiken
+
+12 Steuern
+
+13 Gewinn / Verlust (Periodenerfolg)
 
 Weitere, im Einzelfall wesentliche Positionen sind in der Erfolgsrechnung oder im Anhang zusätzlich auszuweisen.
 
