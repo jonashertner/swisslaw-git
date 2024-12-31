@@ -3,18 +3,18 @@ sr: "830.21"
 title: Verordnung vom 22. November 2017 über die Betriebsaufnahme der Anstalt «compenswiss (Ausgleichsfonds AHV/IV/EO)»
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/821"
 language: de
-version: 2018-01-01
+version: 2025-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/821/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-821-20180101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/821/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/821/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-821-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/821/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Betriebsaufnahme der Anstalt «compenswiss (Ausgleichsfonds AHV/IV/EO)»
 
-vom 22. November 2017 (Stand am 1. Januar 2018)
+vom 22. November 2017 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -38,12 +38,17 @@ Die Organe der Anstalt sind befugt, die Vorkehrungen zu treffen, die für deren 
 
 #### Art. 3
 
-**Rechnungslegungsnormen**
+[^3-1]
 
-Für die Rechnungslegung gilt die Praxis, die in den Anhängen zu den Betriebsrechnungen und Bilanzen von AHV, IV und EO in den Jahresrechnungen ausgewiesen ist.
+[^3-1]: In Kraft bis zum 31. Dez. 2024 (Art. 4 Abs. 2)
 
 #### Art. 4
 
-**Inkrafttreten**
+**Inkrafttreten und Geltungsdauer[^4-1]**
 
-Diese Verordnung tritt am 1. Januar 2018 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2018 in Kraft.
+
+<sup>2</sup> Artikel 3 gilt bis zum 31. Dezember 2024.[^4-2]
+
+[^4-1]: Fassung gemäss Art. 12 der Rechnungslegungsverordnung Compenswiss vom 29. Juni 2022, in Kraft seit 1. Jan. 2025 ([AS 2022 424](https://fedlex.data.admin.ch/eli/oc/2022/424)).
+[^4-2]: Eingefügt durch Art. 12 der Rechnungslegungsverordnung Compenswiss vom 29. Juni 2022, in Kraft seit 1. Jan. 2025 ([AS 2022 424](https://fedlex.data.admin.ch/eli/oc/2022/424)).
