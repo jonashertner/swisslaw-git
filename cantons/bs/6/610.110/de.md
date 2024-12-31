@@ -4,13 +4,13 @@ number: "610.110"
 title: Verordnung zum Gesetz über den kantonalen Finanzhaushalt
 short: Finanzhaushaltverordnung
 language: de
-version: 2024-05-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-17
 adopted: 2012-05-22
 in_force: 2012-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/610.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6175/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6615/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Finanzordnung
 
 (Finanzhaushaltverordnung)
 
-Vom 22. Mai 2012 (Stand 1. Mai 2024)
+Vom 22. Mai 2012 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -408,7 +408,7 @@ beschliesst:
 
 <sup>1</sup> Die Abweichungen vom Regelwerk sind:
 
-- a) die Verbuchung der Fiskaleinnahmen nach Fälligkeiten,
+- a) die Verbuchung der periodischen Fiskaleinnahmen und der Transfererträge aus der eidgenössischen Ergänzungssteuer im dem Steuerjahr folgenden Jahr,
 - b) die Anwendung von Swiss GAAP FER 16 für Vorsorgeverpflichtungen,
 - c) die Festlegung von Ausnahmen von der Konsolidierungspflicht für beherrschte Organisationen,
 - d) der Verzicht auf die Offenlegung eines vollständigen Anhangs in der konsolidierten Rechnung,
