@@ -4,13 +4,13 @@ number: "832.10"
 title: Krankenversicherungsverordnung
 short: TG KVV
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-11
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-03
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2788/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2859/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ TG KVV
 
 (TG KVV)
 
-vom 20.12.2011 (Stand 01.07.2024)
+vom 20.12.2011 (Stand 01.01.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -63,8 +63,7 @@ vom 20.12.2011 (Stand 01.07.2024)
 - 1\. definitiver Verlustschein nach Art. 149 oder Art. 265 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^5-1]
 - 2\. Pfändungsurkunde nach Art. 115 Abs. 1 SchKG, wenn kein pfändbares Vermögen vorhanden ist, und nach Art. 115 Abs. 2 SchKG (provisorischer Verlustschein)
 - 3\. SchKG-Urkunde oder Auszug des Schweizerischen Handelsamtsblattes nach der Durchführung einer konkursamtlichen Liquidation einer Erbschaft gemäss Art. 193 SchKG
-- 4\. behördliche Insolvenzbestätigung aus Ländern der Europäischen Union, Island und Norwegen
-- 5\. behördliche Bestätigung betreffend Ausschlagung der Erbschaft
+- 4\.–5. …
 - 6\. Verfügung betreffend Einstellung des Konkursverfahrens mangels Aktiven gemäss Art. 230 SchKG
 
 [^5-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
@@ -140,9 +139,7 @@ vom 20.12.2011 (Stand 01.07.2024)
 
 <sup>1</sup> Die Gemeinden setzen Versicherte mit Leistungsaufschub über die Eintragung auf der Liste der säumigen Prämienzahler und die damit verbundenen Folgen sowie über die Löschung des Listeneintrages schriftlich in Kenntnis.
 
-<sup>2</sup> …
-
-<sup>3</sup> Versicherte mit Leistungsaufschub sind zur Mitwirkung im Case Management verpflichtet.
+<sup>2–3</sup> …
 
 #### § 12–13
 
@@ -156,13 +153,13 @@ vom 20.12.2011 (Stand 01.07.2024)
 
 <sup>1</sup> Die Prämienverbilligungen betragen:
 
-- 1\. Fr. 3'180 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
-- 2\. Fr. 2'388 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
-- 3\. Fr. 1'596 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 1\. Fr. 3'396 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 2\. Fr. 2'544 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 3\. Fr. 1'692 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
 - 4\. …
-- 5\. Fr. 1'164 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
-- 6\. Fr. 5'724 für erwachsene Sozialhilfeempfänger
-- 7\. Fr. 1'164 für Sozialhilfeempfänger bis zum 18. Altersjahr
+- 5\. Fr. 1'200 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
+- 6\. Fr. 6'108 für erwachsene Sozialhilfeempfänger
+- 7\. Fr. 1'200 für Sozialhilfeempfänger bis zum 18. Altersjahr
 
 #### § 15
 
@@ -267,7 +264,7 @@ vom 20.12.2011 (Stand 01.07.2024)
 
 **Rechnungslegung**
 
-<sup>1</sup> Die Pflegeheime führen eine Leistungserfassung sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Zur Ermittlung der Kosten für die Anlagenutzung ist eine Anlagebuchhaltung zu führen. Für die Rechnungslegung ist das aktuelle Handbuch des Branchenverbandes Curaviva Schweiz massgebend.
+<sup>1</sup> Die Pflegeheime führen eine Leistungserfassung sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Zur Ermittlung der Kosten für die Anlagenutzung ist eine Anlagebuchhaltung zu führen. Für die Rechnungslegung ist das aktuelle Handbuch von ARTISET massgebend.
 
 <sup>2</sup> Dem Kostenträger Pflege werden nur Leistungen der stationären Pflege gemäss Art. 25a Abs. 1 KVG zugeordnet. Akut- und Übergangspflege, Tages- und Nachtstrukturen sowie weitere Leistungen sind als separate Kostenträger zu führen.
 
@@ -306,7 +303,7 @@ vom 20.12.2011 (Stand 01.07.2024)
 
 <sup>1</sup> Die Pflegeheime sind verpflichtet, die für die Festlegung der Normkostenbeiträge und die Vergleichbarkeit der Heime notwendigen Daten kostenlos bekannt zu geben.
 
-<sup>2</sup> Die Pflegeheime stellen dem Amt für Gesundheit und der Dienststelle für Statistik die Daten gemäss Art. 59a KVG vollständig, fristgerecht und kostenlos zur Verfügung. Das Amt für Gesundheit erlässt Vorgaben zu Inhalt, Form und Terminen der Datenlieferungen. Die Kostenrechnung ist bis am 30. April des dem Geschäftsjahr folgenden Jahres dem Amt für Gesundheit einzureichen.
+<sup>2</sup> Die Pflegeheime stellen dem Amt für Gesundheit und dem Amt für Daten und Statistik die Daten gemäss Art. 59a KVG vollständig, fristgerecht und kostenlos zur Verfügung. Das Amt für Gesundheit erlässt Vorgaben zu Inhalt, Form und Terminen der Datenlieferungen. Die Kostenrechnung ist bis am 15. April des dem Geschäftsjahr folgenden Jahres dem Amt für Gesundheit einzureichen.
 
 <sup>3</sup> Auf Anfrage sind dem Amt für Gesundheit weitere Daten, wie Bilanz und Erfolgsrechnung, zur Überprüfung der Kostenrechnung und Kostenentwicklung sowie der wirtschaftlichen und effizienten Leistungserbringung in der erforderlichen Qualität bekannt zu geben.
 
@@ -333,7 +330,7 @@ vom 20.12.2011 (Stand 01.07.2024)
 <sup>1</sup> Für spezialisierte Leistungsangebote können folgende Zuschläge gewährt werden:
 
 - 1\.–2. …
-- 3\. für Pflegeheime mit zertifiziertem Palliative Care Konzept bis zu 5 % auf die anrechenbaren Normkosten
+- 3\. für Pflegeheime mit zertifiziertem Palliative Care Konzept und sichergestellten Fortbildungen bis zu 5 % auf die anrechenbaren Normkosten
 
 <sup>2</sup> Das Departement entscheidet über die Gewährung der Zuschläge aufgrund des Leistungsangebots und den erhöhten Anforderungen an die Pflege.
 
@@ -386,6 +383,8 @@ vom 20.12.2011 (Stand 01.07.2024)
 **Spitexorganisationen, Tagesheime, Tages- und Nachtstrukturen**
 
 <sup>1</sup> Private und öffentlich-rechtliche Spitexorganisationen, gemeindeeigene Spitexdienste sowie Tagesheime, Tages- und Nachtstrukturen bedürfen gemäss § 24 des Gesetzes über das Gesundheitswesen (GG)[^39-1] einer gesundheitspolizeilichen Bewilligung. Sie werden als Leistungserbringer im Sinne des KVG zugelassen, sofern sie über eine solche verfügen und die weiteren Voraussetzungen der KVV betreffend Abrechnung zulasten der obligatorischen Krankenpflegeversicherung erfüllen. Sie sind als Abgabestelle für Mittel und Gegenstände gemäss Art. 55 KVV zugelassen.
+
+<sup>2</sup> Der Spitexorganisation wird ein Leistungsauftrag gemäss Art. 36a Abs. 3 KVG erteilt, wenn sie eine im Verhältnis zum kantonalen Bedarf im Versorgungsbereich angemessene Ausbildungsleistung in der praktischen Ausbildung von Pflegefachfrauen und Pflegefachmännern nach GesBG im Kanton Thurgau erbringt. Das zugrundeliegende Ausbildungskonzept muss mit einer Fachschule im Kanton Thurgau oder in einem angrenzenden Kanton erstellt worden sein. Die Ausbildungskapazitäten werden nach § 70a ff. TG KVV festgelegt. Ab Ersterteilung einer Zulassung bis zum Einbezug in die Berechnungen gilt eine Ausbildungskapazität von mindestens acht Praktikumswochen pro ganzes Kalenderjahr an Studierende Pflege HF oder FH, wofür der eingehaltene minimale Stellenplan für den Kanton Thurgau an erforderlichem qualifiziertem Personal gemäss Art. 51 KVV ausreichend ist.
 
 [^39-1]: RB [810.1](https://www.rechtsbuch.tg.ch/data/810.1/de)
 
@@ -874,18 +873,8 @@ vom 20.12.2011 (Stand 01.07.2024)
 
 <sup>1</sup> Leistungserbringer ohne zugelassenes Bedarfsabklärungssystem sind bis zu dessen Einführung nicht zur Geltendmachung der Restkostenfinanzierung berechtigt.
 
-#### § 75–76
+#### § 75–77
 
 **…**
-
-#### § 77
-
-**Übergangsbestimmung zur Aufhebung der Normkostenbeiträge für die Abgeltung von ärztlich verordneten und durch Pflegefachpersonen in Pflegeheimen angewendeten Mitteln und Gegenstände (Anhang 2)**
-
-<sup>1</sup> Die effektiven Aufwendungen für von der Ärztin oder dem Arzt verordnete Mittel und Gegenstände, die der Untersuchung oder Behandlung dienen und für die noch keine Vergütung in der Mittel- und Gegenständeliste festgelegt ist, werden bis zum 30. September 2022 im Rahmen der Restfinanzierung der Pflegekosten getragen.
-
-<sup>2</sup> Aufwendungen für in einem Pflegeheim einer kantonalen Pflegeheimliste angewendete Mittel und Gegenstände gemäss Abs. 1 können nach Kostengutsprache durch das Amt für Gesundheit gemäss den Regeln der Pflegefinanzierung bei der kantonalen Ausgleichskasse bis zum 30. September 2022 geltend gemacht werden.
-
-<sup>3</sup> Für durch Pflegefachpersonen in der ambulanten Pflege angewendete Mittel und Gegenstände gemäss Abs. 1 können die effektiven Aufwendungen zusammen mit den Restkosten der Pflegeleistungen bei der Wohngemeinde bis zum 30. September 2022 geltend gemacht werden.
 
 ABl. 51/2011
