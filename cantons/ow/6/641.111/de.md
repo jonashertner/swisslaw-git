@@ -3,20 +3,19 @@ canton: OW
 number: "641.111"
 title: Ausführungsbestimmungen über die Erhebung der direkten Bundessteuer
 language: de
-version: 2009-01-01
-valid_until: 2024-12-31
-version_adopted: 2008-11-25
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 2001-03-20
 in_force: 2001-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.111"
-pdf: "http://gdb.ow.ch/api/de/versions/197/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1907/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Erhebung der direkten Bundessteuer
 
-vom 20.03.2001 (Stand 01.01.2009)
+vom 20.03.2001 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -66,7 +65,7 @@ beschliesst:
 
 **Kantonale Verwaltung für die direkte Bundessteuer**
 
-<sup>1</sup> Die kantonale Steuerverwaltung nimmt die Aufgaben der kantonalen Verwaltung für die direkte Bundessteuer wahr. Sie hat alle für die Veranlagung der direkten Bundessteuer erforderlichen Anordnungen und Weisungen zu erlassen und den Vollzug und die einheitliche Anwendung des Bundesgesetzes über die direkte Bundessteuer zu überwachen, soweit diese Ausführungsbestimmungen nichts anderes vorsehen.
+<sup>1</sup> Die Steuerverwaltung nimmt die Aufgaben der kantonalen Verwaltung für die direkte Bundessteuer wahr. Sie hat alle für die Veranlagung der direkten Bundessteuer erforderlichen Anordnungen und Weisungen zu erlassen und den Vollzug und die einheitliche Anwendung des Bundesgesetzes über die direkte Bundessteuer zu überwachen, soweit diese Ausführungsbestimmungen nichts anderes vorsehen.
 
 <sup>2</sup> Die kantonale Verwaltung für die direkte Bundessteuer erfüllt diese Aufgaben, indem sie insbesondere:
 
@@ -109,10 +108,10 @@ beschliesst:
 
 <sup>2</sup> Entscheide der kantonalen Steuerrekurskommission bezüglich der direkten Bundessteuer können innerhalb von 30 Tagen nach Eröffnung mit Beschwerde beim Verwaltungsgericht angefochten werden (Art. 145 DBG).
 
-<sup>3</sup> Gegen Entscheide des Verwaltungsgerichtes bezüglich der direkten Bundessteuer kann innerhalb von 30 Tagen nach Eröffnung Verwaltungsgerichtsbeschwerde beim Bundesgericht gemäss Art. 97 ff. des Bundesgesetzes über die Organisation der Bundesrechtspflege[^5-2] erhoben werden (Art. 146 DBG).
+<sup>3</sup> Gegen Entscheide des Verwaltungsgerichtes bezüglich der direkten Bundessteuer kann innerhalb von 30 Tagen nach Eröffnung Beschwerde in öffentlich-rechtlichen Angelegenheiten beim Bundesgericht erhoben werden (Art. 146 DBG i.V.m. Art. 82 ff. Bundesgesetz über das Bundesgericht[^5-2])
 
 [^5-1]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
-[^5-2]: Bundesgesetz über das Bundesgericht (Bundesgerichtsgesetz, BGG) vom 17. Juni 2005; SR [173.110](https://db.clex.ch/link/Bund/173.110/de)
+[^5-2]: SR [173.110](https://db.clex.ch/link/Bund/173.110/de)
 
 ## 2. Bestimmungen über das Verfahren
 
@@ -120,7 +119,9 @@ beschliesst:
 
 **System der zeitlichen Bemessung**
 
-<sup>1</sup> Für die zeitliche Bemessung der direkten Bundessteuer der natürlichen Personen gilt die einjährige Steuerperiode mit Gegenwartsbemessung gemäss Art. 41 DBG.
+<sup>1</sup> Für die zeitliche Bemessung der direkten Bundessteuer der natürlichen Personen gilt die einjährige Steuerperiode mit Gegenwartsbemessung gemäss Art. 40 DBG.
+
+<sup>2</sup> Für die zeitliche Bemessung der direkten Bundessteuer der juristischen Personen gilt die einjährige Steuerperiode mit Gegenwartsbemessung gemäss Art. 79 DBG.
 
 #### Art. 7
 
@@ -190,6 +191,8 @@ geändert durch
 
 \- Nachtrag vom 8. März 2005, in Kraft rückwirkend seit 1. März 2005 (OGS 2005, 18)
 
-\- die Ausführungsbestimmungen über die Anpassung des Verordnungsrechts des Regierungsrats zur Umsetzung der Rechtsweggarantie sowie der Bundesrechtspflege vom 25. November 2008, in Kraft seit 1. Januar 2009 (OGS 2008, 99)
+\- die Ausführungsbestimmungen über die Anpassung des Verordnungsrechts des Regierungsrats zur Umsetzung der Rechtsweggarantie sowie der Bundesrechtspflege vom 25. November 2008, in Kraft seit 1. Januar 2009 (OGS 2008, 99),
+
+\- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38)
 
 OGS 2001, 26
