@@ -3,11 +3,11 @@ sr: "0.916.051.41"
 title: Vereinbarung vom 28. September 2020 zwischen der Schweiz und Liechtenstein zur Regelung der Beteiligung Liechtensteins an Markt- und Preisstützungsmassnahmen der schweizerischen Landwirtschaftspolitik (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/874"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2020-09-28
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-874-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-874-20250101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 28. September 2020
 
 Rückwirkend in Kraft getreten am 1. Januar 2020
 
-(Stand am 1. Januar 2023)
+(Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat und die Regierung des Fürstentums Liechtenstein
 
@@ -231,15 +231,24 @@ Geschehen zu Bern, am 28. September 2020, in zwei Originalen in deutscher Sprach
 <tr><td>Für den Schweizerischen Bundesrat: Christian Hofer</td><td>Für die Regierung des Fürstentums Liechtenstein: Doris Frick</td></tr>
 </table>
 
-[^22-1]: [[AS 2004 905](https://fedlex.data.admin.ch/eli/oc/2004/103)[903](https://fedlex.data.admin.ch/eli/oc/2004/102), [2011 6541](https://fedlex.data.admin.ch/eli/oc/2011/909), [2019 1041](https://fedlex.data.admin.ch/eli/oc/2019/191)]
+[^22-1]: [[AS 2004 905](https://fedlex.data.admin.ch/eli/oc/2004/103), [903](https://fedlex.data.admin.ch/eli/oc/2004/102); [2011 6541](https://fedlex.data.admin.ch/eli/oc/2011/909); [2019 1041](https://fedlex.data.admin.ch/eli/oc/2019/191)]
 
-Anhang 1[^t-1]
+Anlage[^t-1]
+
+## Rechtsgrundlagen der schweizerischen Massnahmen, an welchen Liechtenstein beteiligt ist
+
+[^annexu1-lvlu1-1]
+
+[^t-1]: Bereinigt gemäss der am 1. Jan. 2023 ([AS 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)) und am 1. Jan. 2025 ([AS 2025 56](https://fedlex.data.admin.ch/eli/oc/2025/56)) in Kraft getretenen Aktualisierungen.
+[^annexu1-lvlu1-1]: Diese Anlage wird in der AS nicht publiziert. Sie kann auf der Internetseite [www.gesetze.li](http://www.gesetze.li): LR-Nr. 0.631.112.3 konsultiert werden.
+
+Anhang 1[^t-2]
 
 Dieser Anhang führt die durch die Schweiz vollzogenen Massnahmen, an welchen Liechtenstein sich finanziell beteiligt oder finanziell beteiligt wird, sowie die durch Liechtenstein selbst vollzogenen und finanzierten Massnahmen auf.
 
 ## 1. Massnahmen, die die Schweiz vollzieht
 
-[^t-1]: Fassung gemäss Änderung vom 31. Okt. 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 639](https://fedlex.data.admin.ch/eli/oc/2023/639)).
+[^t-2]: Fassung gemäss Änderung vom 31. Okt. 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 639](https://fedlex.data.admin.ch/eli/oc/2023/639)).
 
 Tabelle 1: Ausgaben, Beteiligung nach effektiver Berechnung
 
@@ -319,14 +328,14 @@ Die in der folgenden Tabelle aufgeführten Massnahmen werden durch Liechtenstein
 
 <table>
 <tr><th>Liechtensteinische Budgetrubrik</th><th>Massnahme</th></tr>
-<tr><td>Produktgebundene Zulagen[^annexu1-lvl2-1]</td><td></td></tr>
+<tr><td>Produktgebundene Zulagen[^annex1-lvl2-1]</td><td></td></tr>
 <tr><td>Zulage für Verkehrsmilch</td><td></td></tr>
 <tr><td>805.366.00.01</td><td>Zulage für Verkehrsmilch</td></tr>
 <tr><td>Zulage für Getreide</td><td></td></tr>
 <tr><td>805.366.00.02</td><td>Zulage für Getreide</td></tr>
 </table>
 
-[^annexu1-lvl2-1]: Ab 2021; im Jahr 2020 sind die Zulage für Verkehrsmilch und die Zulage für Getreide unter Konto 805.367.00 «Entschädigung gemeinsamer Agrarmarkt mit der Schweiz» budgetiert.
+[^annex1-lvl2-1]: Ab 2021; im Jahr 2020 sind die Zulage für Verkehrsmilch und die Zulage für Getreide unter Konto 805.367.00 «Entschädigung gemeinsamer Agrarmarkt mit der Schweiz» budgetiert.
 
 ## 3. Verwaltungskostenpauschale
 
@@ -340,13 +349,13 @@ Das liechtensteinische Amt für Umwelt erhebt die notwendigen Grundlagen und Dat
 
 ## 2. Gesuchseinreichung von liechtensteinischen Antragstellern
 
-Die Gesuche von liechtensteinischen Antragsstellern um Ausrichtung der Zulage für verkäste Milch und die Zulage für silofreie Milch müssen bei der Administrationsstelle gemäss Artikel 3 und 4*a* MSV[^annex1-lvl2-1] eingereicht werden.
+Die Gesuche von liechtensteinischen Antragsstellern um Ausrichtung der Zulage für verkäste Milch und die Zulage für silofreie Milch müssen bei der Administrationsstelle gemäss Artikel 3 und 4*a* MSV[^annex2-lvl2-1] eingereicht werden.
 
 Die Gesuche von liechtensteinischen Antragsstellern um Ausrichtung der Zulage für Verkehrsmilch müssen beim liechtensteinischen Amt für Umwelt eingereicht werden.
 
 Die Gesuche von liechtensteinischen Antragsstellern um Ausrichtung der Zulage für Getreide müssen beim liechtensteinischen Amt für Umwelt gemäss den Fristen nach Artikel 24 der liechtensteinischen Landwirtschafts-Einkommensbeitrags-Verordnung eingereicht werden.
 
-[^annex1-lvl2-1]: Schweizerische Milchpreisstützungsverordnung vom 25. Juni 2008; [SR 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
+[^annex2-lvl2-1]: Schweizerische Milchpreisstützungsverordnung vom 25. Juni 2008; [SR 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
 
 ## 3. Auszahlung von Beiträgen an liechtensteinische Antragsteller
 
@@ -354,6 +363,6 @@ Die Auszahlung allfälliger Beiträge an liechtensteinische Antragsteller kann d
 
 - – Die Auszahlung der Zulage für verkäste Milch und die Zulage für silofreie Milch erfolgen durch das Bundesamt für Landwirtschaft (gemäss Art. 5 MSV).
 - – Die Auszahlung der Zulage für Verkehrsmilch erfolgt durch das liechtensteinische Amt für Umwelt (analog Art. 5 MSV).
-- – Die Auszahlung der Zulage für Getreide erfolgt durch das liechtensteinische Amt für Umwelt (analog Art. 11 EKBV[^annex1-lvl3-1]) gemäss den Fristen nach Artikel 26 der liechtensteinischen Landwirtschafts-Einkommensbeitrags-Verordnung.
+- – Die Auszahlung der Zulage für Getreide erfolgt durch das liechtensteinische Amt für Umwelt (analog Art. 11 EKBV[^annex2-lvl3-1]) gemäss den Fristen nach Artikel 26 der liechtensteinischen Landwirtschafts-Einkommensbeitrags-Verordnung.
 
-[^annex1-lvl3-1]: Schweizerische Einzelkulturbeitragsverordnung vom 23. Oktober 2013; [SR 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
+[^annex2-lvl3-1]: Schweizerische Einzelkulturbeitragsverordnung vom 23. Oktober 2013; [SR 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)

@@ -3,11 +3,11 @@ sr: "0.916.051.41"
 title: Arrangement du 28 septembre 2020 entre la Suisse et le Liechtenstein concernant les modalités de la participation du Liechtenstein aux mesures de soutien du marché et des prix prises dans le cadre de la politique agricole suisse (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/874"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2020-09-28
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-874-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-874-20250101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Conclu le 28 septembre 2020
 
 Entré en vigueur avec effet rétroactif le 1<sup>er</sup> janvier 2020
 
-(État le 1<sup>er</sup> janvier 2023)
+(État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein,
 
@@ -231,18 +231,20 @@ Fait à Berne, le 28 septembre 2020, en deux exemplaires originaux rédigés en 
 
 Appendice[^t-1]
 
-Prescriptions fédérales, sur lesquelles se fonde l’association des producteurs, trans-formateurs et commerçants liechtensteinois aux mesures de la politique agricole suisse.[^t-2]
+## Prescriptions fédérales, sur lesquelles se fonde l’association des producteurs, transformateurs et commerçants liechtensteinois aux mesures de la politique agricole suisse
 
-[^t-1]: Mise à jour par la D des autorités compétentes du 28 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)).
-[^t-2]: Cet appendice n’est pas publié dans le RO. Il peut être consulté sur le site Internet www.gesetze.li: LR-Nr. 0.631.112.3.
+[^annexu1-lvlu1-1]
 
-Annexe 1[^t-3]
+[^t-1]: Mise à jour par les D des autorités compétentes, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)) et le 1<sup>er</sup> janv. 2025 ([RO 2025 56](https://fedlex.data.admin.ch/eli/oc/2025/56)).
+[^annexu1-lvlu1-1]: Cet appendice n’est pas publié dans le RO. Il peut être consulté sur le site Internet [www.gesetze.li](https://www.gesetze.li): LR-Nr. 0.631.112.3.
+
+Annexe 1[^t-2]
 
 La présente annexe recense les mesures mises en œuvre par la Suisse, auxquelles le Liechtenstein participe financièrement ou le fera à l’avenir, ainsi que les mesures que le Liechtenstein met en œuvre et finance lui-même.
 
 ## 1. Mesures mise en œuvre par la Suisse
 
-[^t-3]: Nouvelle teneur selon la mod. du 31 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 639](https://fedlex.data.admin.ch/eli/oc/2023/639)).
+[^t-2]: Nouvelle teneur selon la mod. du 31 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 639](https://fedlex.data.admin.ch/eli/oc/2023/639)).
 
 Tableau 1: Dépenses, participation selon le calcul effectif
 
