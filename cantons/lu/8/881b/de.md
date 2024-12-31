@@ -3,20 +3,19 @@ canton: LU
 number: 881b
 title: Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-11-20
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 2010-12-03
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/881b"
-pdf: "https://srl.lu.ch/api/de/versions/3371/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 
-vom 03.12.2010 (Stand 01.01.2019)
+vom 03.12.2010 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -152,9 +151,9 @@ beschliesst:
 
 #### § 12
 
-**Vorübergehender Aufenthalt in einem Spital oder Pflegeheim**
+**Vorübergehender Aufenthalt in einem Spital oder Heim**
 
-<sup>1</sup> Kosten für ärztlich angeordnete Aufenthalte von weniger als zwei Monaten in einem Spital oder Pflegeheim gemäss Spital- oder Pflegeheimliste eines Kantons werden vergütet.
+<sup>1</sup> Kosten für vorübergehende Aufenthalte von bis zu drei Monaten in einem Spital oder Heim werden vergütet.
 
 <sup>2</sup> Von der Vergütung werden ein angemessener Betrag für den Lebensunterhalt in Form der Beträge für die Verpflegung nach Artikel 11 Absatz 2 der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV) vom 31. Oktober 1947[^12-1] sowie allfällige Leistungen Dritter abgezogen.
 
@@ -248,7 +247,7 @@ beschliesst:
 
 <sup>2</sup> Keine Kosten werden vergütet bei
 
-- a. Beschäftigung mit einer Entlöhnung in Geld von über 50 Franken pro Monat,
+- a. Beschäftigung mit einer Entlöhnung in Geld von über 200 Franken pro Monat,
 - b. in Heimen oder Spitälern lebenden Personen nach Artikel 10 Absatz 2 ELG.
 
 #### § 19
