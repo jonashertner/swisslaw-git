@@ -3,20 +3,20 @@ canton: ZG
 number: "732.22"
 title: Reglement über die Abfallbewirtschaftung des Zeba
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-05-18
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-08-22
 adopted: 2005-05-19
 in_force: 2005-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/732.22"
-pdf: "https://bgs.zg.ch/api/de/versions/2395/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Abfallbewirtschaftung des Zeba
 
-Vom 19. Mai 2005 (Stand 1. Januar 2023)
+Vom 19. Mai 2005 (Stand 1. Januar 2025)
 
 Die Delegiertenversammlung des Zweckverbandes für die Bewirtschaftung der Abfälle,
 
@@ -64,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Die Delegiertenversammlung regelt die Mengengebühren in einem Gebührenreglement[^4-1]. Sie legt die massgebenden Grundlagen und Zahlen für die Gebührenhöhe und deren Ausgestaltung offen.
 
-<sup>2</sup> Die Delegiertenversammlung regelt in einem separaten Anhang die Begriffe, die Gebindevorschriften sowie die Rahmenbedingungen für Unterflur- und Halbunterfluranlagen.
+<sup>2</sup> Die Delegiertenversammlung regelt in einem separaten Anhang die Begriffe, die Gebindevorschriften sowie die Rahmenbedingungen für Unterfluranlagen und Oberflurcontainer.
 
 [^4-1]: BGS [732.26](https://bgs.zg.ch/data/732.26/de)
 
@@ -88,7 +88,7 @@ beschliesst:
 
 <sup>1</sup> Die Verbandsgemeinde
 
-- a) erfüllt die erforderlichen Rahmenbedingungen für eine sichere, ökologische und wirtschaftliche Durchführung der Hauskehricht- und der Separatsammlungen;
+- a) erfüllt die erforderlichen Rahmenbedingungen für eine sichere, ökologische und wirtschaftliche Durchführung der Kehricht- und der Separatsammlungen;
 - b) kann mit Dritten, anderen Gemeinden oder öffentlichen Körperschaften im Rahmen dieses Reglements Verträge abschliessen;
 - c) sorgt für den Betrieb eines Ökihofs;
 - d) sorgt für das Aufstellen und die regelmässige Leerung von Abfallbehältern auf öffentlichem Grund.
@@ -184,25 +184,25 @@ beschliesst:
 
 #### § 16a
 
-**Unterflur- und Halbunterfluranlagen**
+**Unterfluranlagen und Oberflurcontainer**
 
-<sup>1</sup> Für geplante Wohnsiedlungen ab 30 Wohneinheiten und bei logistischem Bedarf für bestehende Wohnsiedlungen sowie für einzelne oder mehrere Strassenzüge kann die Verbandsgemeinde die Errichtung einer Unterflur- oder einer Halbunterfluranlage anordnen.
+<sup>1</sup> Für geplante Wohnsiedlungen ab 30 Wohneinheiten und bei logistischem Bedarf für bestehende Wohnsiedlungen sowie für einzelne oder mehrere Strassenzüge kann die Verbandsgemeinde die Errichtung einer Unterfluranlage oder das Platzieren eines Oberflurcontainers anordnen.
 
 <sup>2</sup> …
 
-<sup>3</sup> Die baulichen Anforderungen an die Errichtung von Unterflur- und Halbunterfluranlagen und die Anforderungen an den Betrieb von Unterflur- und Halbunterfluranlagen richten sich nach § 20 Abs. 1 des Anhangs[^16a-1] dieses Reglements.
+<sup>3</sup> Die baulichen Anforderungen an die Errichtung von Unterfluranlagen und die Anforderungen an den Betrieb von Unterfluranlagen richten sich nach § 20 Abs. 1 des Anhangs[^16a-1] dieses Reglements.
 
 [^16a-1]: BGS [732.22-A1](https://bgs.zg.ch/data/732.22-A1/de)
 
 #### § 16b
 
-**Standort von Unterflur- und Halbunterfluranlagen**
+**Standort von Unterfluranlagen und Oberflurcontainern**
 
-<sup>1</sup> Die Verbandsgemeinde legt nach Anhörung des Zeba den Standort sowie das Einzugsgebiet der Sammelanlage fest.
+<sup>1</sup> Die Verbandsgemeinde legt nach Anhörung des Zeba den Standort sowie das Einzugsgebiet der Sammelanlage/-container fest.
 
 <sup>2</sup> Der Standort soll eine sichere, ökologische und wirtschaftliche Durchführung der Abfallentsorgung gewährleisten. Bei der Standortwahl sind die Ausführungsvorschriften gemäss § 19 Abs. 1 des Anhangs[^16b-1] dieses Reglements zu beachten.
 
-<sup>3</sup> Die Verbandsgemeinde legt das Einzugsgebiet so fest, dass für den Abfallinhaber die Distanz zur Sammelstelle nicht mehr als 350 Meter ab Liegenschaftszugang beträgt.
+<sup>3</sup> Die Verbandsgemeinde legt das Einzugsgebiet im Siedlungsgebiet so fest, dass für den Abfallinhaber die Distanz zur Sammelstelle nicht mehr als 350 Meter ab Liegenschaftszugang beträgt.
 
 <sup>4</sup> Unter den Voraussetzungen des 8. Abschnittes des Planungs- und Baugesetzes vom 26. November 1998 (PBG)[^16b-2] kommt der Verbandsgemeinde bei der Standortfestsetzung das Enteignungsrecht zu.
 
@@ -215,15 +215,19 @@ beschliesst:
 
 **Erstellungs- und Betriebskosten**
 
-<sup>1</sup> Die Unterflur- und Halbunterfluranlagen für Haus- und Betriebskehricht werden vom Zeba beschafft, finanziert, franko Baustelle geliefert, in die Baugrube gesetzt und in Betrieb genommen.
+<sup>1</sup> Die Unterfluranlagen für Hauskehricht werden vom Zeba beschafft, finanziert, franko Baustelle geliefert, in die Baugrube gesetzt und in Betrieb genommen.
 
-<sup>2</sup> Die Eigentümer derjenigen Liegenschaften, denen die Sammelanlage dient, erbringen die bauseitigen Vorleistungen für die Erstellung der Unterflur- oder Halbunterfluranlage und tragen sämtliche damit zusammenhängenden Kosten (namentlich Baubewilligung, Aushub, Anschlüsse, Leitungsverlegung, Verankerung, Kanalisation, Denkmal- und Ortsbildauflagen, Umgebungsgestaltung). Die Verbandsgemeinde kann zu diesem Zweck ein Perimeterverfahren durchführen.
+<sup>1a</sup> Unterfluranlagen und Oberflurcontainer für Betriebskehricht werden vom Grundstücksbesitzer resp. vom Abfallinhaber finanziert. Für die Finanzierung von Oberflurcontainern kann der Verband Ausnahmen definieren.
 
-<sup>2a</sup> An die Baukosten der Unterflur-Sammelanlagen für Haus- und Betriebskehricht entrichtet der Zeba einen Beitrag in der Höhe von maximal 10'000 Franken pro Säule. Die Baukosten beinhalten Aushub, Hinterfüllung, Umgebungsarbeiten, Oberflächenbelege, Anschlüsse, Leitungsverlegungen, Kanalisation sowie weitere Nebenkosten inklusive Anteil Bauleitungskosten.
+<sup>2</sup> Die Eigentümer derjenigen Liegenschaften, denen die Sammelanlage dient, erbringen die bauseitigen Vorleistungen für die Erstellung der Unterfluranlage und tragen sämtliche damit zusammenhängenden Kosten (namentlich Baubewilligung, Aushub, Anschlüsse, Leitungsverlegung, Verankerung, Kanalisation, Denkmal- und Ortsbildauflagen, Umgebungsgestaltung). Die Verbandsgemeinde kann zu diesem Zweck ein Perimeterverfahren durchführen.
 
-<sup>2b</sup> Der Baukostenbeitrag gemäss Bst. 2a wird an die Teuerung angepasst (Zürcher Index der Wohnbaupreise: Basis April 2018).
+<sup>2a</sup> An die Baukosten der Unterflur-Sammelanlagen für Hauskehricht entrichtet der Zeba einen Beitrag in der Höhe von maximal 10'000 Franken pro Säule. Die Baukosten beinhalten Aushub, Hinterfüllung, Umgebungsarbeiten, Oberflächenbelege, Anschlüsse, Leitungsverlegungen, Kanalisation sowie weitere Nebenkosten inklusive Anteil Bauleitungskosten.
 
-<sup>3</sup> Der Zeba übernimmt die Kosten des Betriebes, der Reinigung, der Wartung, der Reparatur sowie des Ersatzes und der Entsorgung der Unterflur- und Halbunterfluranlagen für Haus- und Betriebskehricht. Der Zeba in Absprache mit der Verbandsgemeinde übernimmt die Entsorgungs- und Rückbaukosten der ausser Betrieb genommenen Unterflur- und Halbunterfluranlagen für Haus- und Betriebskehricht.
+<sup>2b</sup> …
+
+<sup>3</sup> Der Zeba übernimmt die Kosten des Betriebes, der Reinigung, der Wartung, der Reparatur sowie des Ersatzes und der Entsorgung der Unterfluranlagen für Hauskehricht. Der Zeba in Absprache mit der Verbandsgemeinde übernimmt die Entsorgungs- und Rückbaukosten der ausser Betrieb genommenen Unterfluranlagen für Hauskehricht.
+
+<sup>3a</sup> Die Besitzer von Unterfluranlagen oder Oberflurcontainern für Betriebskehricht können den Zeba mit der Reinigung und Wartung beauftragen, wobei die Kosten zu Lasten des Besitzers der Anlage gehen. Die Kosten für den Ersatz und die Entsorgung der Unterfluranlage resp. des Oberflurcontainers für Betriebskehricht trägt der Besitzer der Anlage resp. des Containers.
 
 <sup>4</sup> Die Eigentümer derjenigen Liegenschaften, denen die Sammelanlage dient, tragen die Kosten des Umgebungsunterhaltes und besorgen den Winterdienst. Die Verbandsgemeinde kann zu diesem Zweck ein Perimeterverfahren durchführen.
 
