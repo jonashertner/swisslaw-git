@@ -4,13 +4,12 @@ number: "870.110"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über den Strassenverkehr
 short: RVzEGzSVG
 language: de
-version: 2023-01-01
-corrected: 2022-11-23
-version_adopted: 2022-11-22
+version: 2025-01-01
+version_adopted: 2024-10-15
 adopted: 2008-12-08
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/870.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3272/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3272/pdf_file"
 
 (RVzEGzSVG)
 
-Vom 08.12.2008 (Stand 01.01.2023)
+Vom 08.12.2008 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -120,11 +119,17 @@ von der Regierung erlassen am 8. Dezember 2008
 
 <sup>1</sup> Die Kantonspolizei und die dazu ermächtigten Polizeiorgane sind zuständig für die sofortige Abnahme der Fahrzeug- und Führerausweise im Sinne der Bundesgesetzgebung.
 
+#### Art. 8a
+
+**Tiefbauamt**
+
+<sup>1</sup> Das Tiefbauamt kann Auskünfte gegenüber Personen erteilen, die eine Sonderbewilligung für Ausnahmefahrzeuge oder für Fahrzeuge, die von den gesetzlichen oder signalisierten Vorgaben zu Masse, Gewicht, Abmessung oder Kreisbedingungen abweichen, erhalten möchten, wenn hierfür voraussichtlich eine statische Nachprüfung von Kunstbauten erforderlich ist.
+
 #### Art. 9
 
 **Departement für Finanzen und Gemeinden**
 
-<sup>1</sup> Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtversicherung für die mit Tagesausweisen versehenen Fahrzeuge sowie für Fahrräder und Motorfahrräder ab.
+<sup>1</sup> Das Departement für Finanzen und Gemeinden schliesst eine Kollektivhaftpflichtversicherung für die mit Tagesausweisen versehenen Fahrzeuge und Motorfahrräder ab.
 
 ## 2. Dienstliche Fahrten
 
@@ -186,8 +191,8 @@ von der Regierung erlassen am 8. Dezember 2008
 
 <sup>1</sup> Die Verkehrssteuer wird ermässigt:
 
-- a) um 60 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 95 g/km (nach NEFZ[^15-1]) beziehungsweise 110 g/km (nach WLTP[^15-2]);
-- b) um 80 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 80 g/km (nach NEFZ) beziehungsweise 100 g/km (nach WLTP);
+- a) um 60 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 85 g/km (nach NEFZ[^15-1]) beziehungsweise 100 g/km (nach WLTP[^15-2]);
+- b) um 80 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 70 g/km (nach NEFZ) beziehungsweise 90 g/km (nach WLTP);
 - c) um 80 Prozent für schwere Motorfahrzeuge des jeweils aktuellsten auf dem Schweizer Markt erhältlichen Emissionscodes der strengsten EURO-Klasse.
 
 <sup>2</sup> Leichte Motorfahrzeuge gemäss Absatz 1 mit Dieselmotoren dürfen überdies einen Feinstaubausstoss von 0.01 g/km nicht überschreiten.
@@ -231,6 +236,42 @@ von der Regierung erlassen am 8. Dezember 2008
 <sup>2</sup> Ausgabestelle für Motorfahrrad-Kontrollschilder ist das Strassenverkehrsamt.
 
 <sup>3</sup> …
+
+## 5a. Vertraglicher Erwerb von Kontrollschildern
+
+#### Art. 18a
+
+**Allgemeine Bestimmungen**
+
+<sup>1</sup> Fahrzeughalterinnen und Fahrzeughalter können durch öffentlich-rechtlichen Vertrag das Bezugs- und Nutzungsrecht an bestimmten Kontrollschildern zum vereinbarten Preis erwerben.
+
+<sup>2</sup> Das Strassenverkehrsamt bezeichnet die Kontrollschilder, die durch öffentlich-rechtlichen Vertrag erworben werden können.
+
+<sup>3</sup> Es regelt die Rechte und Pflichten der Vertragsparteien in allgemeinen Geschäftsbedingungen.
+
+#### Art. 18b
+
+**Öffentliche Versteigerung**
+
+<sup>1</sup> Das Strassenverkehrsamt kann Kontrollschilder über eine allgemein zugängliche Online-Plattform zum Erwerb anbieten.
+
+<sup>2</sup> An dieser öffentlichen Versteigerung kann teilnehmen, wer die strassenverkehrsrechtlichen Voraussetzungen für eine ordentliche Inverkehrsetzung eines Motorfahrzeugs im Kanton Graubünden erfüllt.
+
+<sup>3</sup> Den Zuschlag erhält, wer innert der Versteigerungsdauer das höchste Angebot abgibt.
+
+#### Art. 18c
+
+**Direkterwerb**
+
+<sup>1</sup> In Verkehr gebrachte Kontrollschilder, die zurückgegeben wurden und nicht für die öffentliche Versteigerung bestimmt sind, kann das Strassenverkehrsamt öffentlich zu einem festen Preis zum Erwerb anbieten.
+
+#### Art. 18d
+
+**Wunschkontrollschilder**
+
+<sup>1</sup> Eine Fahrzeughalterin oder ein Fahrzeughalter kann beim Strassenverkehrsamt den Antrag stellen, das Bezugs- und Nutzungsrecht an einem noch nie in Verkehr gesetzten Kontrollschild zu erwerben.
+
+<sup>2</sup> Das Strassenverkehrsamt nimmt diesen Antrag an, wenn das gewünschte Kontrollschild nicht für die öffentliche Versteigerung bestimmt ist und die antragsstellende Fahrzeughalterin oder der antragsstellende Fahrzeughalter bereit ist, den vom Strassenverkehrsamt geforderten Preis zu bezahlen.
 
 ## 6. Verfahrens- und Organisationsbestimmungen
 
