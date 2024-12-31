@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 2015 sui sistemi d'informazione della Confe
 short: LSISpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-596-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-596-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/it"
 
 (LSISpo)
 
-del 19 giugno 2015 (Stato 1° settembre 2023)
+del 19 giugno 2015 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -169,13 +169,18 @@ Mediante procedura di richiamo lʼUFSPO può rendere accessibili i dati:
 - b. alle federazioni sportive e associazioni giovanili nazionali, come pure alle loro organizzazioni affiliate e sottorganizzazioni nonché ad altre organizzazioni, sempre che esse siano beneficiarie di un sostegno diretto o indiretto in virtù della LPSpo[^11-1], o collaborino alla realizzazione del programma Gioventù e Sport o a programmi destinati a promuovere l’attività fisica e sportiva in generale: i dati di cui all’articolo 9 lettere a–d nonché g;
 - c. alle scuole, scuole universitarie o università nella misura in cui partecipino alla realizzazione del programma Gioventù e Sport: i dati di cui all’articolo 9 lettere a–d nonché g;
 - d. allʼAggruppamento Difesa, per l’ambito dello sport nellʼesercito: i dati di cui all’articolo 9 lettere a–d nonché g;
-- e. all’Ufficio centrale di compensazione al fine di prevenire abusi in materia di indennità per perdita di guadagno: i dati di cui all’articolo 9 lettere a–d.
+- e.[^11-2] ...
 
-<sup>2</sup> L’Ufficio centrale di compensazione può trasmettere alle casse di compensazione AVS competenti i dati di cui al capoverso 1 lettera e.
+<sup>1bis</sup> Esso trasmette i dati di cui all’articolo 9 lettere a–c all’Ufficio centrale di compensazione ai fini dell’esecuzione dell’ordinamento delle indennità di perdita di guadagno.[^11-3]
+
+<sup>2</sup> ... [^11-4]
 
 <sup>3</sup> Su richiesta, lʼUFSPO può comunicare i dati di cui all’articolo 9 lettere a–d nonché g a enti e persone di cui al capoverso 1 nonché, in singoli casi, ad altri terzi sotto forma di raccolte di dati o elenchi in forma elettronica, nella misura in cui gli enti, le persone o i terzi svolgano compiti conformi agli scopi della LPSPo. I dati non possono essere utilizzati per scopi commerciali e non possono essere trasmessi.
 
 [^11-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^11-2]: Abrogata dall’all. n 2 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), con effetto dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^11-3]: Introdotto dall’all. n 2 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^11-4]: Abrogato dall’all. n 2 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), con effetto dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 12
 

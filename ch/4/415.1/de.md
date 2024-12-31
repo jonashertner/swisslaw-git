@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2015 über die Informationssysteme des Bundes i
 short: IBSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-596-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-596-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/de"
 
 (IBSG)
 
-vom 19. Juni 2015 (Stand am 1. September 2023)
+vom 19. Juni 2015 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -169,13 +169,18 @@ Das BASPO kann die Daten durch ein Abrufverfahren zugänglich machen:
 - b. den nationalen Sport- und Jugendverbänden sowie deren Mitglied- oder Unterorganisationen und weiteren Organisationen, soweit sie nach dem SpoFöG[^11-1] direkt oder indirekt unterstützt werden, am Vollzug von «Jugend und Sport» oder an Programmen der allgemeinen Sport- und Bewegungsförderung mitwirken: Daten nach Artikel 9 Buchstaben a–d und g;
 - c. Schulen, Hochschulen oder Universitäten, soweit sie am Vollzug von «Jugend und Sport» mitwirken: Daten nach Artikel 9 Buchstaben a–d und g;
 - d. der Gruppe Verteidigung für den Bereich Sport in der Armee: Daten nach Artikel 9 Buchstaben a–d und g;
-- e. der Zentralen Ausgleichstelle zur Verhinderung von Missbräuchen der Erwerbsersatzordnung: Daten nach Artikel 9 Buchstaben a–d.
+- e.[^11-2] …
 
-<sup>2</sup> Die Zentrale Ausgleichstelle kann die nach Absatz 1 Buchstabe e erhaltenen Daten an die zuständigen AHV-Ausgleichskassen weitergeben.
+<sup>1bis</sup> Es übermittelt der Zentralen Ausgleichsstelle für die Durchführung der Erwerbsersatzordnung die Daten nach Artikel 9 Buchstaben a–c.[^11-3]
+
+<sup>2</sup> …[^11-4]
 
 <sup>3</sup> Das BASPO kann Stellen und Personen nach Absatz 1 sowie im Einzelfall weiteren Dritten auf Gesuch Daten nach Artikel 9 Buchstaben a–d und g in Form von elektronischen Datensätzen oder Listen bekannt gegeben, soweit die Stellen, Personen oder Dritten Aufgaben wahrnehmen, die den Zielen des SpoFöG entsprechen. Die Daten dürfen nicht zu kommerziellen Zwecken verwendet und nicht weitergeben werden.
 
 [^11-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^11-2]: Aufgehoben durch Anhang Ziff. 2 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^11-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^11-4]: Aufgehoben durch Anhang Ziff. 2 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 12
 

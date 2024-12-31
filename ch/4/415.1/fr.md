@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 2015 sur les systèmes d'information de la Con
 short: LSIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: fr
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-596-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-596-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/fr"
 
 (LSIS)[^t-1]
 
-du 19 juin 2015 (État le 1<sup>er</sup> septembre 2023)
+du 19 juin 2015 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -170,13 +170,18 @@ L’OFSPO peut donner un accès en ligne aux données:
 - b. aux fédérations sportives et associations de jeunesse nationales, aux organisations qui leur sont affiliées ou subordonnées et à d’autres organisations dans la mesure où elles bénéficient d’un soutien direct ou indirect en vertu de la LESp[^11-1], participent à la mise en œuvre du programme «Jeunesse et sport» ou à des programmes d’encouragement général du sport et de l’activité physique, pour les données visées à l’art. 9, let. a à d et g;
 - c. aux écoles, hautes écoles ou universités dans la mesure où elles participent à la mise en œuvre du programme «Jeunesse et sport», pour les données visées à l’art. 9, let. a à d et g;
 - d. au Groupement Défense pour le domaine du sport dans l’armée, pour les données visées à l’art. 9, let. a à d et g;
-- e. à la Centrale de compensation pour prévenir les abus en matière d’allocations pour perte de gain, pour les données visées à l’art. 9, let. a à d.
+- e.[^11-2] …
 
-<sup>2</sup> La Centrale de compensation peut transmettre les données visées à l’al. 1, let. e, aux caisses de compensation AVS compétentes.
+<sup>1bis</sup> Il transmet les données visées à l’art. 9, let. a à c, à la Centrale de compensation pour l’exécution du régime des allocations pour perte de gain.[^11-3]
+
+<sup>2</sup> …[^11-4]
 
 <sup>3</sup> Sur demande, l’OFSPO peut communiquer aux services et personnes visés à l’al. 1, et exceptionnellement à d’autres tiers, les données visées à l’art. 9, let. a à d et g, sous forme de fichiers électroniques ou de listes, pour autant que ces services, personnes ou tiers assument des tâches répondant aux buts de la LESp. L’utilisation des données à des fins commerciales ou leur transmission est interdite.
 
 [^11-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^11-2]: Abrogée par l’annexe ch. 2 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^11-3]: Introduit par l’annexe ch. 2 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^11-4]: Abrogé par l’annexe ch. 2 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 12
 
