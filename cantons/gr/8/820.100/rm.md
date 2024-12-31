@@ -1,32 +1,34 @@
 ---
 canton: GR
 number: "820.100"
-title: "Lescha introductiva tar la lescha federala davart la protecziun da l'ambient (lescha chantunala davart la protecziun da l'ambient, LCPAmb)"
+title: "Lescha introductiva tar la lescha federala davart la protecziun da l'ambient"
 short: "lescha chantunala davart la protecziun da l'ambient, LCPAmb"
 language: rm
-version: 2011-01-01
-corrected: 2014-11-09
-version_adopted: 2010-06-16
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2001-12-02
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1231/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3422/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha introductiva tar la lescha federala davart la protecziun da l'ambient (lescha chantunala davart la protecziun da l'ambient, LCPAmb)
+# Lescha introductiva tar la lescha federala davart la protecziun da l'ambient
 
-sa basond sin ils art. 36 e 65 al. 1 da la lescha federala davart la protecziun da l'ambient (lescha davart la protecziun da l'ambient, LPAmb) dals 7 d'october 1983[^t-1] sco er da l'art. 41bis da la constituziun chantunala[^t-2]
+(lescha chantunala davart la protecziun da l'ambient, LCPAmb)
 
-acceptada dal pievel ils 2 da december 2001[^t-3]
+dals 02-12-2001 (versiun dals 01-01-2025)
 
-I. Disposiziuns generalas
+sa basond sin ils art. 36 e 65 al. 1 da la lescha federala davart la protecziun da l'ambient (lescha davart la protecziun da l'ambient, LPAmb) dals 7 d'october 1983[^ingress-1] sco er da l'art. 41<sup>bis</sup> da la constituziun chantunala[^ingress-2]
 
-[^t-1]: CS 814.01
-[^t-2]: en la nova CC art. 81 al. 1; DG 110.100
-[^t-3]: M dals 5 da december 2000, 559; PCG 2000/2001, 719
+acceptada dal pievel ils 2 da december 2001[^ingress-3]
+
+[^ingress-1]: CS [814.01](https://db.clex.ch/link/Bund/814.01/rm)
+[^ingress-2]: en la nova CC art. 81 al. 1; DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: M dals 5 da december 2000, 559; PCG 2000/2001, 719
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
@@ -36,7 +38,7 @@ I. Disposiziuns generalas
 
 <sup>2</sup> La lescha vala per tut ils secturs che vegnan reglads en la lescha federala davart la protecziun da l'ambient[^1-1] (lescha federala) e per las ordinaziuns che sa basan sin quella.
 
-[^1-1]: CS 814.01 1-1-2011 1
+[^1-1]: CS [814.01](https://db.clex.ch/link/Bund/814.01/rm)
 
 #### Art. 2
 
@@ -86,7 +88,7 @@ I. Disposiziuns generalas
 
 **Examinaziuns, expertisas**
 
-Las autoritads executivas pon incumbensar terzas persunas da far retschertgas sco er da far expertisas professiunalas.
+<sup>1</sup> Las autoritads executivas pon incumbensar terzas persunas da far retschertgas sco er da far expertisas professiunalas.
 
 #### Art. 8
 
@@ -100,9 +102,9 @@ Las autoritads executivas pon incumbensar terzas persunas da far retschertgas sc
 
 **Execuziun**
 
-Per ils custs da l'execuziun exista in dretg da pegn legal tenor ils artitgels 130 ss. da la lescha introductiva tar il cudesch civil svizzer[^9-1].
+<sup>1</sup> Per ils custs da l'execuziun exista in dretg da pegn legal tenor ils artitgels 130 ss. da la lescha introductiva tar il cudesch civil svizzer[^9-1].
 
-[^9-1]: DG 210.100 2 1-1-2011
+[^9-1]: DG [210.100](https://www.gr-lex.gr.ch/data/210.100/rm)
 
 #### Art. 10
 
@@ -120,17 +122,23 @@ Per ils custs da l'execuziun exista in dretg da pegn legal tenor ils artitgels 1
 
 <sup>2</sup> L'ordinaziun da taxas vegn relaschada en il chantun da la regenza, en las vischnancas da l'autoritad ch'è cumpetenta tenor il dretg communal.
 
-[^11-1]: CS 814.01 1-1-2011 3
+[^11-1]: CS [814.01](https://db.clex.ch/link/Bund/814.01/rm)
 
-### II. Protecziun cunter immissiuns
+#### Art. 11a
 
-- 1\. IMPESTAZIUNS DA L'ARIA
+**Contribuziuns chantunalas a projects innovativs**
+
+<sup>1</sup> Il chantun po conceder contribuziuns a projects ed a stabiliments innovativs, sche quels gidan substanzialmain a proteger las resursas natiralas u a mitigiar la grevezza per l'ambient.
+
+## 2. Protecziun cunter immissiuns
+
+### 2.1. Impestaziuns da l'aria
 
 #### Art. 12
 
 **Limitaziuns d'emissiuns 1. tar stabiliments novs e midads a) princip**
 
-Las vischnancas procuran en il rom da la procedura per la permissiun da construcziun che las prescripziuns davart las limitaziuns d'emissiuns vegnian observadas tar stabiliments staziunars novs e tar tals ch'èn vegnids midads e che chaschunan impestaziuns da l'aria.
+<sup>1</sup> Las vischnancas procuran en il rom da la procedura per la permissiun da construcziun che las prescripziuns davart las limitaziuns d'emissiuns vegnian observadas tar stabiliments staziunars novs e tar tals ch'èn vegnids midads e che chaschunan impestaziuns da l'aria.
 
 #### Art. 13
 
@@ -146,7 +154,7 @@ Las vischnancas procuran en il rom da la procedura per la permissiun da construc
 
 **c) procedura d'approvaziun da dretg spezial**
 
-Sch'in project è suttamess ad ina procedura d'approvaziun da la concessiun u dal project tenor la legislaziun speziala, è l'autoritad d'approvaziun cumpetenta per ordinar limitaziuns d'emissiuns. L'emprim consultescha ella il post spezialisà.
+<sup>1</sup> Sch'in project è suttamess ad ina procedura d'approvaziun da la concessiun u dal project tenor la legislaziun speziala, è l'autoritad d'approvaziun cumpetenta per ordinar limitaziuns d'emissiuns. L'emprim consultescha ella il post spezialisà.
 
 #### Art. 15
 
@@ -162,7 +170,7 @@ Sch'in project è suttamess ad ina procedura d'approvaziun da la concessiun u da
 
 **b) sanaziun**
 
-Sche las limitas vegnan surpassadas u sch'in stabiliment n'accumplescha betg las pretensiuns dal dretg federal, ordinescha il post spezialisà ch'il stabiliment vegnia drizzà da nov, sanà u, sch'i fa basegn, mess ord funcziun.
+<sup>1</sup> Sche las limitas vegnan surpassadas u sch'in stabiliment n'accumplescha betg las pretensiuns dal dretg federal, ordinescha il post spezialisà ch'il stabiliment vegnia drizzà da nov, sanà u, sch'i fa basegn, mess ord funcziun.
 
 #### Art. 17
 
@@ -178,17 +186,15 @@ Sche las limitas vegnan surpassadas u sch'in stabiliment n'accumplescha betg las
 
 **Arder rument da guaud, funs ed iert**
 
-Las vischnancas pon a norma dal dretg federal ordinar ulteriuras restricziuns u ulteriurs scumonds en connex cun arder rument da guaud, funs ed iert setg e natiral en il liber.
+<sup>1</sup> Las vischnancas pon a norma dal dretg federal ordinar ulteriuras restricziuns u ulteriurs scumonds en connex cun arder rument da guaud, funs ed iert setg e natiral en il liber.
 
-**4**
-
-1-1-2011 2. CANERA
+### 2.2. Canera
 
 #### Art. 19
 
 **Limitaziuns d'emissiuns 1. tar apparats, tar maschinas e tar vehichels movibels**
 
-Las vischnancas èn a norma dal dretg federal cumpetentas per las limitaziuns d'emissiuns tar l'utilisaziun d'apparats, da maschinas e da vehichels movibels che n'èn betg en la legislaziun speziala da la confederaziun.
+<sup>1</sup> Las vischnancas èn a norma dal dretg federal cumpetentas per las limitaziuns d'emissiuns tar l'utilisaziun d'apparats, da maschinas e da vehichels movibels che n'èn betg en la legislaziun speziala da la confederaziun.
 
 #### Art. 20
 
@@ -208,15 +214,13 @@ Las vischnancas èn a norma dal dretg federal cumpetentas per las limitaziuns d'
 
 <sup>3</sup> Il post spezialisà è cumpetent per la controlla da las sanaziuns realisadas.
 
-<sup>4</sup>[^21-1]Il chantun po pajar a las vischnancas contribuziuns per mesiras da protecziun e d'isolaziun cunter la canera. L'autezza da las contribuziuns sa drizza tenor l'efficacitad da las mesiras e tenor la forza finanziala da la vischnanca.
-
-[^21-1]: integrà tenor CCG dals 18 d'avrigl 2007, PCG 2006/2007, 981, M tar la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937, CUL 2007, FUC 2007, 1628; entrà en vigur il 1. da schaner 2008 1-1-2011 5
+<sup>4</sup> Il chantun po pajar a las vischnancas contribuziuns per mesiras da protecziun e d'isolaziun cunter la canera. L'autezza da las contribuziuns sa drizza tenor l'efficacitad da las mesiras e tenor la forza finanziala da la vischnanca.
 
 #### Art. 22
 
 **2. ulteriurs stabiliments**
 
-Las vischnancas exequeschan las prescripziuns davart la sanaziun dals ulteriurs stabiliments.
+<sup>1</sup> Las vischnancas exequeschan las prescripziuns davart la sanaziun dals ulteriurs stabiliments.
 
 #### Art. 23
 
@@ -250,7 +254,7 @@ Las vischnancas exequeschan las prescripziuns davart la sanaziun dals ulteriurs 
 
 <sup>2</sup> La regenza po surdar al post spezialisà tschertas incumbensas executivas per distgargiar las vischnancas.
 
-- 3\. RADIS NUNIONISANTS
+### 2.3. Radis nunionisants
 
 #### Art. 27
 
@@ -259,10 +263,6 @@ Las vischnancas exequeschan las prescripziuns davart la sanaziun dals ulteriurs 
 <sup>1</sup> Las permissiuns da construcziun u las approvaziuns d'ina concessiun, d'in project u d'in plan d'ina lescha speziala per stabiliments novs e midads pon be vegnir concedidas, sch'igl è garantì che las limitaziuns d'emissiun per la protecziun davart radis betg ionisants vegnan resguardadas. L'emprim duain ins consultar il post spezialisà.
 
 <sup>2</sup> Per midar stabiliments sto er vegnir fatga ina procedura da permissiun da construcziun u d'approvaziun da la concessiun, dal project e dal plan da dretg spezial, sche la midada n'è betg colliada cun mesiras da construcziun.
-
-**6**
-
-1-1-2011
 
 #### Art. 28
 
@@ -275,20 +275,19 @@ Las vischnancas exequeschan las prescripziuns davart la sanaziun dals ulteriurs 
 <sup>3</sup> El giuditgescha las immissiuns e fa las suandantas ordinaziuns a norma dal dretg federal:
 
 - a) tar stabiliments novs, mesiras per resguardar las limitaziuns d'emissiuns;
-
 - b) tar stabiliments vegls, la sanaziun.
 
-### III. Substanzas privlusas per l'ambient
+## 3. Substanzas privlusas per l'ambient
 
 #### Art. 29
 
 **Ladim, meds per proteger plantas e lain**
 
-Las vischnancas surveglian che las limitaziuns temporalas e localas e ch'ils scumonds da ladar sco er d'utilisar meds per proteger plantas e lain ordaifer il guaud vegnian resguardads.
+<sup>1</sup> Las vischnancas surveglian che las limitaziuns temporalas e localas e ch'ils scumonds da ladar sco er d'utilisar meds per proteger plantas e lain ordaifer il guaud vegnian resguardads.
 
-### IV. Ruments
+## 4. Ruments
 
-- 1\. PLANISAZIUN ED OBLIGAZIUN DA DISMETTER ILS RUMENTS
+### 4.1. Planisaziun ed obligaziun da dismetter ils ruments
 
 #### Art. 30
 
@@ -298,76 +297,57 @@ Las vischnancas surveglian che las limitaziuns temporalas e localas e ch'ils scu
 
 <sup>2</sup> Ils stabiliments per dismetter ils ruments da muntada chantunala e regiunala ston vegnir integrads confurm a la planisaziun dals ruments en il plan directiv chantunal.
 
-[^30-1]: versiun tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009 1-1-2011 7
-
 #### Art. 31
 
-**Intschess 1. determinaziun**[^30-1]
+**Intschess 1. determinaziun**
 
 <sup>1</sup> Per ils ruments chasans combustibels che na pon betg vegnir reutilisads cumpiglia l'intschess dal stabiliment per arder ruments a Trimmis l'entir chantun Grischun.
 
 <sup>2</sup> Sch'igl è necessari, po la regenza medemamain determinar intschess per stabiliments che dismettan ulteriurs ruments.
 
-<sup>3</sup>[^31-1]Entaifer l'intschess èn las possessuras ed ils possessurs da ruments obligads da surdar quels al stabiliment per dismetter ils ruments ch'è vegnì determinà per quai.
+<sup>3</sup> Entaifer l'intschess èn las possessuras ed ils possessurs da ruments obligads da surdar quels al stabiliment per dismetter ils ruments ch'è vegnì determinà per quai.
 
-<sup>4</sup>[^31-2]Las gestiunarias ed ils gestiunaris dal stabiliment per dismetter ruments ch'è determinà per quai èn obligads da surpigliar e da tractar en lur stabiliments ils ruments da lur intschess.
-
-[^31-1]: integrà tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009
-[^31-2]: integrà tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009
-[^31-3]: versiun tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009
+<sup>4</sup> Las gestiunarias ed ils gestiunaris dal stabiliment per dismetter ruments ch'è determinà per quai èn obligads da surpigliar e da tractar en lur stabiliments ils ruments da lur intschess.
 
 #### Art. 32
 
-**2. excepziuns**[^31-3]
+**2. excepziuns**
 
 <sup>1</sup> La regenza po permetter da dismetter ruments en stabiliments ordaifer l'intschess, sche:
 
 - a) la dismessa daventa uschia bler pli favuraivla u il transport ha avantatgs ecologics; e
-
 - b) la dismessa en quest stabiliment è ecologica, en spezial sch'ella correspunda al stadi da la tecnica.
 
 <sup>2</sup> La permissiun da la confederaziun per l'export da ruments en stabiliments da l'exteriur resta resalvada.
 
-<sup>3</sup> ...[^32-1]
-
-[^32-1]: abolì tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009
-[^32-2]: versiun tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009
+<sup>3</sup>
 
 #### Art. 33
 
-**3. import da ruments**[^32-2]
+**3. import da ruments**
 
 <sup>1</sup> L'import da quantitads pli grondas da ruments che derivan d'ordaifer l'intschess basegna la permissiun dal post spezialisà.
 
 <sup>2</sup> La permissiun vegn concedida, sche:
 
 - a) la dismessa dals ruments che derivan da l'intschess è tuttina garantida;
-
 - b) ils ruments vegnan transportads tant sco pussaivel cun la viafier.
 
-<sup>3</sup>[^33-1]La permissiun da la confederaziun per l'import da ruments da l'exteriur resta resalvada.
-
-[^33-1]: integrà tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009 8 1-1-2011
-[^33-2]: integrà tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009 1-1-2011 9
+<sup>3</sup> La permissiun da la confederaziun per l'import da ruments da l'exteriur resta resalvada.
 
 #### Art. 33a
 
-**4. finanziaziun**[^33-2]
+**4. finanziaziun**
 
 <sup>1</sup> Las gestiunarias ed ils gestiunaris dal stabiliment per arder ruments a Trimmis incasseschan taxas per ils custs ch'èn necessaris per ina gestiun economica dal stabiliment. Las taxas duain cuvrir ils custs e correspunder al princip da la chaschunadra e dal chaschunader.
 
 <sup>2</sup> Cun concepir las taxas vegnan resguardads spezialmain:
 
 - a) il gener e la quantitad dal rument che vegn furnì;
-
 - b) ils custs per construir, per manar e per mantegnair ils stabiliments;
-
 - c) las amortisaziuns ch'èn necessarias per mantegnair la substanza dals stabiliments;
-
 - d) ils tschains;
-
 - e) il basegn d'investiziun ch'è planisà per las lavurs da mantegniment, da sanaziun e da substituziun sco er per las adattaziuns a las pretensiuns legalas e per las optimaziuns dal manaschi;
-
 - f) il retgav dal manaschi.
 
 <sup>3</sup> La calculaziun da las taxas e sia basa èn accessiblas al public.
@@ -378,9 +358,17 @@ Las vischnancas surveglian che las limitaziuns temporalas e localas e ch'ils scu
 
 **Transport cun la viafier**
 
-Il transport dals ruments chasans sur distanzas pli lungas duai vegnir fatg cun la viafier, sche quai è economic e sche l'ambient vegn tras quai engrevgià main che cun transportar cun auters meds da transport.
+<sup>1</sup> Il transport dals ruments chasans sur distanzas pli lungas duai vegnir fatg cun la viafier, sche quai è economic e sche l'ambient vegn tras quai engrevgià main che cun transportar cun auters meds da transport.
 
-- 2\. INCUMBENSAS DA LAS VISCHNANCAS
+#### Art. 34a
+
+**Implants da tir**
+
+<sup>1</sup> Implants da tir novs ed implants da tir existents ston vegnir equipads cun sistems da tschiffaballas artifizials tenor il stadi da la tecnica. Sche l'equipament cun sistems da tschiffaballas artifizials n'è betg pussaivel pervia dal tip d'implant, ston vegnir utilisads projectils ed objects en mira senza substanzas nuschaivlas.
+
+<sup>2</sup> La vischnanca da staziunament procura per la realisaziun da las prescripziuns tenor l'alinea 1.
+
+### 4.2. Incumbensas da las vischnancas
 
 #### Art. 35
 
@@ -391,9 +379,7 @@ Il transport dals ruments chasans sur distanzas pli lungas duai vegnir fatg cun 
 <sup>2</sup> Las vischnancas èn spezialmain cumpetentas per:
 
 - a) rimnar e per transportar ils ruments chasans tar ils stabiliments per dismetter ils ruments;
-
 - b) per construir e per manar ils stabiliments necessaris per dismetter ils ruments;
-
 - c) endrizzar posts per rimnar pitschnas quantitads da ruments spezials che derivan da las chasadas e da la mastergnanza.
 
 <sup>3</sup> Las vischnancas pon surdar questa incumbensa a corporaziuns dal dretg public u ad interpresas privatas adattadas.
@@ -420,7 +406,7 @@ Il transport dals ruments chasans sur distanzas pli lungas duai vegnir fatg cun 
 
 **Disposiziuns executivas**
 
-Las vischnancas reglan la dismessa ecologica dals ruments chasans e sia finanziaziun.
+<sup>1</sup> Las vischnancas reglan la dismessa ecologica dals ruments chasans e sia finanziaziun.
 
 #### Art. 39
 
@@ -430,7 +416,7 @@ Las vischnancas reglan la dismessa ecologica dals ruments chasans e sia finanzia
 
 <sup>2</sup> En la dumonda da construcziun ston vegnir fatgas indicaziuns davart il gener e la quantitad dals ruments che resultan cun realisar il project.
 
-- 3\. INCUMBENSAS DAL CHANTUN
+### 4.3. Incumbensas dal chantun
 
 #### Art. 40
 
@@ -439,10 +425,6 @@ Las vischnancas reglan la dismessa ecologica dals ruments chasans e sia finanzia
 <sup>1</sup> La regenza surveglia las mesiras che las vischnancas e che las corporaziuns per economisar ils ruments prendan per evitar e per dismetter ils ruments.
 
 <sup>2</sup> Per exequir il dretg federal po ella relaschar prescripziuns davart la dismessa dal rument.
-
-**10**
-
-1-1-2011
 
 #### Art. 41
 
@@ -473,9 +455,7 @@ Las vischnancas reglan la dismessa ecologica dals ruments chasans e sia finanzia
 <sup>1</sup> Ils suandants stabiliments per dismetter ils ruments basegnan avant che cumenzar il manaschi ina permissiun da manaschi dal post spezialisà:
 
 - a) stabiliments per tractar ruments, spezialmain stabiliments per arder ruments, stabiliments da cumpostar pli gronds sco er posts per rimnar e per assortir ruments da construcziun;
-
 - b) deposits temporars;
-
 - c) deponias.
 
 <sup>2</sup> La permissiun da manaschi fixescha spezialmain ils tips da rument permess, la controlla a l'entrada, ils deposits temporars ed il tractament dals ruments sco er la controlla dal manaschi.
@@ -488,35 +468,27 @@ Las vischnancas reglan la dismessa ecologica dals ruments chasans e sia finanzia
 
 <sup>2</sup> Per quest intent po la regenza expropriar ils dretgs necessaris u surdar quest dretg a terzas persunas.
 
-**11**
-
-1-1-2011
-
 #### Art. 45
 
 **2. finanziaziun**
 
-Il chantun pretenda, a norma dal dretg federal per la construcziun, per il manaschi e per il mantegniment d'agens stabiliments, taxas che cuvran ils custs e ch'èn confurmas al chaschunader.
+<sup>1</sup> Il chantun pretenda, a norma dal dretg federal per la construcziun, per il manaschi e per il mantegniment d'agens stabiliments, taxas che cuvran ils custs e ch'èn confurmas al chaschunader.
 
 #### Art. 46
 
-**Contribuziuns chantunalas a stabiliments per dismetter ils ruments**
-
-Il chantun conceda contribuziuns a stabiliments per dismetter ils ruments a norma da la lescha chantunala davart la protecziun da las auas[^46-1].
-
-[^46-1]: DG 815.100 12 1-1-2011
+**…**
 
 #### Art. 47
 
-**Gulivaziun dals custs da transport**
+**Contribuziuns chantunalas a transports da viafier**
 
-<sup>1</sup> Il chantun presta a corporaziuns per economisar ils ruments, en cumpensaziun da chargias spezialmain grevas per il transport a lunga distanza dals ruments chasans, pajaments da gulivaziun da maximalmain 50 pertschient dals custs da transport che surpassan la media chantunala.
+<sup>1</sup> Il chantun paja contribuziuns da maximalmain 250 000 francs per onn al transport da ruments chasans cun la viafier, e quai davent da las staziuns respectivas da transtgargiada fin al stabiliment per dismetter ruments a Trimmis
 
-<sup>2</sup> A la gulivaziun èn suttamessas tut las expensas per il transport dals ruments chasans cun la viafier davent da la staziun da transtgargia fin tar il stabiliment per arder rument. Transports sin via han mo il dretg da cumpensaziun, sch'i n'exista nagina colliaziun da viafier.
+<sup>2</sup> L'autezza da las singulas contribuziuns dependa da la quantitad dals ruments transportads e da la distanza tranter la staziun da transtgargiada ed il stabiliment per dismetter ruments.
 
-<sup>3</sup> La regenza determinescha ils custs imputabels e regla la procedura da contribuziun.
+<sup>3</sup> La regenza fixescha las contribuziuns e regla la procedura da contribuziun.
 
-- 4\. LIEUS ENGREVGIADS CUN RUMENTS
+### 4.4. Lieus engrevgiads cun ruments
 
 #### Art. 48
 
@@ -530,21 +502,21 @@ Il chantun conceda contribuziuns a stabiliments per dismetter ils ruments a norm
 
 **Adossament dals custs**
 
-<sup>1</sup> Il chantun conceda a las sanaziuns da deponias veglias sustegnidas da la confederaziun, en las qualas èn vegnids depositads per gronda part ruments chasans, contribuziuns da maximalmain 40 pertschient dals custs imputabels. Las contribuziuns vegnan graduadas tenor la forza finanziala da las vischnancas.
+<sup>1</sup> …
 
-<sup>2</sup> Sch'ins na po betg eruir las chaschunadras u ils chaschunaders ch'èn obligads da pajar per ina deponia veglia, u sche tals èn insolvents, vegnan ils custs da sanaziun surpigliads dal chantun e da las vischnancas da staziunament, suenter avair deducì las cumpensaziuns da la confederaziun.
+<sup>2</sup> Sch'ins na po betg eruir, tgi che ha chaschunà in lieu contaminà, ubain sche las chaschunadras u ils chaschunaders èn insolvents, vegnan ils custs ch'ellas ed els stuessan surpigliar per mesiras ch'èn necessarias per examinar, per survegliar e per sanar lieus contaminads designads sco custs da perdita. Da quests custs da perdita vegnan deducidas las cumpensaziuns da la confederaziun. Ils custs da perdita restants vegnan surpigliads mintgamai per la mesadad dal chantun e da las vischnancas da staziunament.
 
-<sup>3</sup> Las vischnancas da staziunament ston sa participar a norma da lur forza finanziala cun 20 fin 60 pertschient als custs da sanaziun restants.
+<sup>3</sup> …
 
-<sup>4</sup> La regenza relascha prescripziuns davart la consideraziun da la forza finanziala e la part dals custs da las vischnancas e regla la procedura da contribuziun.
+<sup>4</sup> …
 
-### V. Contaminaziuns dal terren
+## 5. Contaminaziuns dal terren
 
 #### Art. 50
 
 **Evitar contaminaziuns fisicalas dal terren**
 
-Las vischnancas ordineschan, en il rom da la procedura per la permissiun da construcziun, mesiras per evitar la cumpressiun e l'erosiun dal terren e garanteschan in tractament adequat dal terren exchavà.
+<sup>1</sup> Las vischnancas ordineschan, en il rom da la procedura per la permissiun da construcziun, mesiras per evitar la cumpressiun e l'erosiun dal terren e garanteschan in tractament adequat dal terren exchavà.
 
 #### Art. 51
 
@@ -554,9 +526,9 @@ Las vischnancas ordineschan, en il rom da la procedura per la permissiun da cons
 
 <sup>2</sup> Sche questas mesiras provocheschan grondas restricziuns da la proprietad, èsi chaussa da la regenza d'ordinar quellas.
 
-[^51-1]: CS 814.01 1-1-2011 13
+[^51-1]: CS [814.01](https://db.clex.ch/link/Bund/814.01/rm)
 
-### VI. Cas da disturbi
+## 6. Cas da disturbi
 
 #### Art. 52
 
@@ -566,44 +538,39 @@ Las vischnancas ordineschan, en il rom da la procedura per la permissiun da cons
 
 <sup>2</sup> Las permissiuns da construcziun per manaschis che suttastattan a l'ordinaziun davart la protecziun cunter incaps relevants dovran il consentiment dal post spezialisà. Las pretensiuns e las cundiziuns dal post spezialisà ston vegnir integradas en la permissiun da construcziun avant che conceder la permissiun da construcziun.
 
-### VII. Giurisdicziun
+## 7. Giurisdicziun
 
 #### Art. 53
 
 **Procedura da meds legals**
 
-<sup>1</sup>[^53-1]Cunter disposiziuns dal post spezialisà che stattan en connex cun ina permissiun da construcziun po vegnir fatg recurs entaifer 30 dis tar la dretgira administrativa.
+<sup>1</sup> Cunter disposiziuns dal post spezialisà che stattan en connex cun ina permissiun da construcziun po vegnir fatg recurs entaifer 30 dis tar la Dretgira superiura.
 
-<sup>2</sup>[^53-2]Autras disposiziuns dal post spezialisà suttastattan al recurs administrativ tenor la lescha davart la giurisdicziun administrativa[^53-3].
+<sup>2</sup> Autras disposiziuns dal post spezialisà suttastattan al recurs administrativ tenor la lescha davart la giurisdicziun administrativa[^53-1].
 
-<sup>3</sup> …[^53-4]
+<sup>3</sup>
 
-[^53-1]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3326; entrà en vigur il 1. da schaner 2007
-[^53-2]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3326; entrà en vigur il 1. da schaner 2007
-[^53-3]: DG 370.100
-[^53-4]: abolì tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3326; entrà en vigur il 1. da schaner 2007
+[^53-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
-### VIII. Disposiziuns penalas
+## 8. Disposiziuns penalas
 
 #### Art. 54
 
 **Violaziun dal dretg chantunal 1. surpassaments**
 
-<sup>1</sup>[^54-1]Tgi che violescha sapientivamain u per negligientscha questa lescha u relaschs e disposiziuns che sa basan sin quella, vegn chastià cun ina multa fin 100 000 francs.
+<sup>1</sup> Tgi che violescha sapientivamain u per negligientscha questa lescha u relaschs e disposiziuns che sa basan sin quella, vegn chastià cun ina multa fin 100 000 francs.
 
 <sup>2</sup> Sche la delinquenta u sch'il delinquent agescha or d'engurdientscha, n'è l'autoritad penala betg liada vi da la summa maximala da 100 000 francs.
 
 <sup>3</sup> L'emprova e la cumplicitad èn chastiablas.
 
-[^54-1]: versiun tenor la cifra 24 da l'agiunta tar la LItCPP, FUC 2010, 2442; entrà en vigur il 1. da schaner 2011
-
 #### Art. 55
 
 **2. applicaziun dal dretg penal administrativ da la confederaziun**
 
-Ils artitgels 6 e 7 da la lescha federala davart il dretg penal administrativ[^55-1] valan tenor questa lescha sco acts chastiabels.
+<sup>1</sup> Ils artitgels 6 e 7 da la lescha federala davart il dretg penal administrativ[^55-1] valan tenor questa lescha sco acts chastiabels.
 
-[^55-1]: CS 313.0
+[^55-1]: CS [313.0](https://db.clex.ch/link/Bund/313.0/rm)
 
 #### Art. 56
 
@@ -613,61 +580,73 @@ Ils artitgels 6 e 7 da la lescha federala davart il dretg penal administrativ[^5
 
 <sup>2</sup> Per la persecuziun e per il giudicament dals surpassaments numnads en la lescha federala[^56-1] sco er da las cuntravenziuns tenor l'artitgel 54 da questa lescha è cumpetent il departament.
 
-[^56-1]: CS 814.01 14 1-1-2011
+<sup>3</sup> Las vischnancas, il post spezialisà e la polizia chantunala èn cumpetents per incassar multas disciplinaras tenor la legislaziun federala davart las multas disciplinaras[^56-2].
 
-### IX. Disposiziuns finalas
+<sup>4</sup> La procedura sa drizza tenor la lescha federala davart las multas disciplinaras[^56-3].
+
+[^56-1]: CS [814.01](https://db.clex.ch/link/Bund/814.01/rm)
+[^56-2]: CS [741.03](https://db.clex.ch/link/Bund/741.03/rm); [741.031](https://db.clex.ch/link/Bund/741.031/rm)
+[^56-3]: CS [741.03](https://db.clex.ch/link/Bund/741.03/rm)
+
+## 9. Disposiziuns finalas
 
 #### Art. 57
 
 **Disposiziuns executivas**
 
-La regenza relascha las disposiziuns executivas necessarias tar questa lescha[^57-1]. Ella regla spezialmain las cumpetenzas e las proceduras, uschenavant che questa lescha na cuntegna naginas regulaziuns.
+<sup>1</sup> La regenza relascha las disposiziuns executivas necessarias tar questa lescha[^57-1]. Ella regla spezialmain las cumpetenzas e las proceduras, uschenavant che questa lescha na cuntegna naginas regulaziuns.
 
-[^57-1]: DG 820.110
+[^57-1]: DG [820.110](https://www.gr-lex.gr.ch/data/820.110/rm)
 
 #### Art. 58
 
 **Aboliziun dal dretg vertent**
 
-Cun l'entrada en vigur da questa lescha vegn abolida la lescha per economisar ils ruments dals 24 da settember 1989[^58-1].
+<sup>1</sup> Cun l'entrada en vigur da questa lescha vegn abolida la lescha per economisar ils ruments dals 24 da settember 1989[^58-1].
 
 [^58-1]: CUL 1989, 2207; CUL 1995, 3411
 
 #### Art. 59
 
-**Midada dal dretg vertent**
+**Midada dal dretg vertent[^59-1]**
 
-La lescha introductiva tar la lescha federala davart la protecziun da las auas dals 8 da zercladur 1997[^59-1] vegn midada sco suonda:
-
-[^59-1]: DG 815.100
-
-#### Art. 31
-
-**al. 2:**
-
-Per ils stabiliments per dismetter ils ruments e per ils indrizs per proteger las auas tar deponias da ruments che vegnan sustegnids da la confederaziun munta la tariffa da contribuziun dal chantun a maximalmain 25 pertschient.
-
-[^31_2-1]: integrà tenor CCG dals 11 da december 2008; M dals 26 d'avust 2008, 565; PCG 2008/2009, 486; entrà en vigur il 1. d'october 2009 1-1-2011 15
+[^59-1]: Las midadas dal dretg vertent na vegnan betg inditgadas.
 
 #### Art. 59a
 
-**Contracts vertents**[^31_2-1]
+**Contracts vertents**
 
 <sup>1</sup> Ils contracts da vischnancas e da corporaziuns per la gestiun da ruments davart l'export da ruments chasans combustibels en arderas extrachantunalas ch'èn vegnids fatgs avant il 1. da fanadur 2007 restan valaivels.
 
 <sup>2</sup> Ils contracts vertents na dastgan betg vegnir prolungads, uschia ch'els surpassan la durada fixada; er ina prolungaziun taciturna n'è betg permessa.
 
+#### Art. 59b
+
+**Disposiziuns transitoricas tar la midada dals 21 d'october 2019 1. termin e bloccada**
+
+<sup>1</sup> Implants da tir existents ston ademplir las prescripziuns tenor l'artitgel 34a alinea 1 fin ils 31 da december 2020. Sch'els n'adempleschan betg questas prescripziuns, èn els bloccads tras lescha.
+
+<sup>2</sup> La vischnanca da staziunament procura che la bloccada vegnia realisada e controllada.
+
+#### Art. 59c
+
+**2. surpigliada dals custs**
+
+<sup>1</sup> Sche la bloccada tenor l'artitgel 59b na vegn betg resguardada, ston ils custs da perdita tenor l'artitgel 49 alinea 2 vegnir surpigliads cumplainamain da las vischnancas da staziunament.
+
 #### Art. 60
 
 **Adattaziun da relaschs communals**
 
-Ils relaschs communals ston vegnir adattads a las novas prescripziuns entaifer 5 onns suenter l'entrada en vigur da questa lescha.
+<sup>1</sup> Ils relaschs communals ston vegnir adattads a las novas prescripziuns entaifer 5 onns suenter l'entrada en vigur da questa lescha.
 
 #### Art. 61
 
 **Entrada en vigur**
 
-La regenza fixescha il termin da l'entrada en vigur da questa lescha[^61-1] suenter l'approvaziun da las disposiziuns en il senn da l'artitgel 37 da la lescha federala[^61-2] tras la confederaziun.
+<sup>1</sup> La regenza fixescha il termin da l'entrada en vigur da questa lescha[^61-1] suenter l'approvaziun da las disposiziuns en il senn da l'artitgel 37 da la lescha federala[^61-2] tras la confederaziun.
 
 [^61-1]: messa en vigur cun CR dals 13 d'avust 2002 per il 1. da settember 2002; approvada dal DATEC, ils 5 da mars 2002
-[^61-2]: CS 814.01 16 1-1-2011
+[^61-2]: CS [814.01](https://db.clex.ch/link/Bund/814.01/rm)
+
+-

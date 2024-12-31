@@ -4,29 +4,31 @@ number: "820.100"
 title: Einführungsgesetz zum Bundesgesetz über den Umweltschutz
 short: "Kantonales Umweltschutzgesetz, KUSG"
 language: de
-version: 2011-01-01
-corrected: 2014-11-09
-version_adopted: 2010-06-16
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2001-12-02
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1231/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3422/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zum Bundesgesetz über den Umweltschutz (Kantonales Umweltschutzgesetz, KUSG)
+# Einführungsgesetz zum Bundesgesetz über den Umweltschutz
 
-Gestützt auf Art. 36 und 65 Abs. 1 des Bundesgesetzes über den Umweltschutz (Umweltschutzgesetz, USG) vom 7. Oktober 1983[^t-1] sowie Art. 41bis der Verfassung für den Kanton Graubünden[^t-2]
+(Kantonales Umweltschutzgesetz, KUSG)
 
-Vom Volke angenommen am 2. Dezember 2001[^t-3]
+Vom 02.12.2001 (Stand 01.01.2025)
 
-I. Allgemeine Bestimmungen
+Gestützt auf Art. 36 und 65 Abs. 1 des Bundesgesetzes über den Umweltschutz (Umweltschutzgesetz, USG) vom 7. Oktober 1983[^ingress-1] sowie Art. 41<sup>bis</sup> der Verfassung für den Kanton Graubünden[^ingress-2]
 
-[^t-1]: SR 814.01
-[^t-2]: In der neuen KV Art. 81 Abs. 1; BR 110.100
-[^t-3]: B vom 5. Dezember 2000, 559; GRP 2000/2001, 719
+vom Volke angenommen am 2. Dezember 2001[^ingress-3]
+
+[^ingress-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
+[^ingress-2]: In der neuen KV Art. 81 Abs. 1; BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: B vom 5. Dezember 2000, 559; GRP 2000/2001, 719
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -36,7 +38,7 @@ I. Allgemeine Bestimmungen
 
 <sup>2</sup> Das Gesetz gilt für alle Bereiche, die im Bundesgesetz über den Umweltschutz[^1-1] (Bundesgesetz) und den darauf abgestützten Verordnungen geregelt werden.
 
-[^1-1]: SR 814.01 1.01.2011 1
+[^1-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
 
 #### Art. 2
 
@@ -86,7 +88,7 @@ I. Allgemeine Bestimmungen
 
 **Untersuchungen, Gutachten**
 
-Die Vollzugsbehörden können Dritte mit der Durchführung von Untersuchungen sowie mit der Erstellung von Fachgutachten beauftragen.
+<sup>1</sup> Die Vollzugsbehörden können Dritte mit der Durchführung von Untersuchungen sowie mit der Erstellung von Fachgutachten beauftragen.
 
 #### Art. 8
 
@@ -96,17 +98,13 @@ Die Vollzugsbehörden können Dritte mit der Durchführung von Untersuchungen so
 
 <sup>2</sup> Bei Verstössen gegen diese Vorschriften sorgen sie für die Wiederherstellung des rechtmässigen Zustandes auf Kosten des Pflichtigen. Fällt der Gesetzesvollzug in die Zuständigkeit einer anderen Behörde, erstatten sie dieser Meldung.
 
-**2**
-
-1.01.2011
-
 #### Art. 9
 
 **Vollstreckung**
 
-Für die Kosten der Vollstreckung besteht ein gesetzliches Pfandrecht gemäss Artikel 130 ff. des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^9-1].
+<sup>1</sup> Für die Kosten der Vollstreckung besteht ein gesetzliches Pfandrecht gemäss Artikel 130 ff. des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^9-1].
 
-[^9-1]: BR 210.100
+[^9-1]: BR [210.100](https://www.gr-lex.gr.ch/data/210.100/de)
 
 #### Art. 10
 
@@ -124,17 +122,23 @@ Für die Kosten der Vollstreckung besteht ein gesetzliches Pfandrecht gemäss Ar
 
 <sup>2</sup> Die Gebührenordnung wird im Kanton von der Regierung, in den Gemeinden von der nach kommunalem Recht zuständigen Behörde erlassen.
 
-[^11-1]: SR 814.01 1.01.2011 3
+[^11-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
 
-### II. Immissionsschutz
+#### Art. 11a
 
-- 1\. LUFTVERUNREINIGUNGEN
+**Kantonsbeiträge an innovative Vorhaben**
+
+<sup>1</sup> Der Kanton kann Beiträge an innovative Vorhaben und Anlagen gewähren, sofern diese einen substantiellen Beitrag zur Schonung der natürlichen Ressourcen oder zur Verminderung der Umweltbelastung leisten.
+
+## 2. Immissionsschutz
+
+### 2.1. Luftverunreinigungen
 
 #### Art. 12
 
 **Emissionsbegrenzungen 1. Bei neuen und geänderten Anlagen a) Grundsatz**
 
-Die Gemeinden sorgen im Rahmen des Baubewilligungsverfahrens dafür, dass bei neuen und geänderten stationären Anlagen, die Luftverunreinigungen verursachen, die Vorschriften über die Emissionsbegrenzungen eingehalten werden.
+<sup>1</sup> Die Gemeinden sorgen im Rahmen des Baubewilligungsverfahrens dafür, dass bei neuen und geänderten stationären Anlagen, die Luftverunreinigungen verursachen, die Vorschriften über die Emissionsbegrenzungen eingehalten werden.
 
 #### Art. 13
 
@@ -150,7 +154,7 @@ Die Gemeinden sorgen im Rahmen des Baubewilligungsverfahrens dafür, dass bei ne
 
 **c) Spezialgesetzliche Genehmigungsverfahren**
 
-Sofern ein Vorhaben einem spezialgesetzlichen Konzessions-, Projekt- oder Plangenehmigungsverfahren unterliegt, ist die Genehmigungsbehörde zuständig für die Anordnung der Emissionsbegrenzungen. Sie hört die Fachstelle vorgängig an.
+<sup>1</sup> Sofern ein Vorhaben einem spezialgesetzlichen Konzessions-, Projekt- oder Plangenehmigungsverfahren unterliegt, ist die Genehmigungsbehörde zuständig für die Anordnung der Emissionsbegrenzungen. Sie hört die Fachstelle vorgängig an.
 
 #### Art. 15
 
@@ -166,7 +170,7 @@ Sofern ein Vorhaben einem spezialgesetzlichen Konzessions-, Projekt- oder Plange
 
 **b) Sanierung**
 
-Werden Grenzwerte überschritten oder erfüllt eine Anlage andere Anforderungen des Bundesrechts nicht, ordnet die Fachstelle an, dass die Anlage neu eingestellt, saniert oder notfalls stillgelegt wird.
+<sup>1</sup> Werden Grenzwerte überschritten oder erfüllt eine Anlage andere Anforderungen des Bundesrechts nicht, ordnet die Fachstelle an, dass die Anlage neu eingestellt, saniert oder notfalls stillgelegt wird.
 
 #### Art. 17
 
@@ -182,17 +186,15 @@ Werden Grenzwerte überschritten oder erfüllt eine Anlage andere Anforderungen 
 
 **Verbrennen von Wald-, Feld- und Gartenabfällen**
 
-Die Gemeinden können im Sinne des Bundesrechts weitergehende Einschränkungen oder Verbote betreffend das Verbrennen von trockenen, natürlichen Wald-, Feld- und Gartenabfällen im Freien anordnen.
+<sup>1</sup> Die Gemeinden können im Sinne des Bundesrechts weitergehende Einschränkungen oder Verbote betreffend das Verbrennen von trockenen, natürlichen Wald-, Feld- und Gartenabfällen im Freien anordnen.
 
-**4**
-
-1.01.2011 2. LÄRM
+### 2.2. Lärm
 
 #### Art. 19
 
 **Emissionsbegrenzungen 1. Bei beweglichen Geräten, Maschinen und Fahrzeugen**
 
-Die Gemeinden sind nach Massgabe des Bundesrechts zuständig für Emissionsbegrenzungen beim Einsatz von beweglichen Geräten, Maschinen und Fahrzeugen, die nicht unter die Spezialgesetzgebung des Bundes fallen.
+<sup>1</sup> Die Gemeinden sind nach Massgabe des Bundesrechts zuständig für Emissionsbegrenzungen beim Einsatz von beweglichen Geräten, Maschinen und Fahrzeugen, die nicht unter die Spezialgesetzgebung des Bundes fallen.
 
 #### Art. 20
 
@@ -212,15 +214,13 @@ Die Gemeinden sind nach Massgabe des Bundesrechts zuständig für Emissionsbegre
 
 <sup>3</sup> Die Fachstelle ist zuständig für die Kontrolle bei den realisierten Sanierungen.
 
-<sup>4</sup>[^21-1]Der Kanton kann den Gemeinden Beiträge an Lärm- und Schallschutzmassnahmen leisten. Die Höhe der Beiträge richtet sich nach der Wirksamkeit der Massnahmen und nach der Finanzkraft der Gemeinde.
-
-[^21-1]: Einfügung gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1628; am 1. Januar 2008 in Kraft getreten. 1.01.2011 5
+<sup>4</sup> Der Kanton kann den Gemeinden Beiträge an Lärm- und Schallschutzmassnahmen leisten. Die Höhe der Beiträge richtet sich nach der Wirksamkeit der Massnahmen und nach der Finanzkraft der Gemeinde.
 
 #### Art. 22
 
 **2. Übrige Anlagen**
 
-Die Gemeinden vollziehen die Vorschriften über die Sanierung der übrigen Anlagen.
+<sup>1</sup> Die Gemeinden vollziehen die Vorschriften über die Sanierung der übrigen Anlagen.
 
 #### Art. 23
 
@@ -254,7 +254,7 @@ Die Gemeinden vollziehen die Vorschriften über die Sanierung der übrigen Anlag
 
 <sup>2</sup> Die Regierung kann der Fachstelle zur Entlastung der Gemeinden bestimmte Vollzugsaufgaben übertragen.
 
-- 3\. NICHTIONISIERENDE STRAHLEN
+### 2.3. Nichtionisierende Strahlen
 
 #### Art. 27
 
@@ -263,10 +263,6 @@ Die Gemeinden vollziehen die Vorschriften über die Sanierung der übrigen Anlag
 <sup>1</sup> Baubewilligungen oder spezialgesetzliche Konzessions-, Projekt- oder Plangenehmigungen für neue und geänderte Anlagen dürfen nur erteilt werden, wenn gewährleistet ist, dass die Emissionsbegrenzungen zum Schutz vor nichtionisierender Strahlung eingehalten werden. Die Fachstelle ist vorgängig anzuhören.
 
 <sup>2</sup> Für die Änderung von Anlagen ist auch dann ein Baubewilligungs- oder spezialgesetzliches Konzessions-, Projekt- oder Plangenehmigungsverfahren durchzuführen, wenn die Änderung mit keinen baulichen Massnahmen verbunden ist.
-
-**6**
-
-1.01.2011
 
 #### Art. 28
 
@@ -279,20 +275,19 @@ Die Gemeinden vollziehen die Vorschriften über die Sanierung der übrigen Anlag
 <sup>3</sup> Sie beurteilt die Immissionen und trifft nach Massgabe des Bundesrechts folgende Anordnungen:
 
 - a) bei neuen Anlagen Massnahmen zur Einhaltung der Emissionsbegrenzungen;
-
 - b) bei alten Anlagen die Sanierung.
 
-### III. Umweltgefährdende Stoffe
+## 3. Umweltgefährdende Stoffe
 
 #### Art. 29
 
 **Dünger, Pflanzen- und Holzschutzmittel**
 
-Die Gemeinden überwachen die Einhaltung der zeitlichen und örtlichen Einschränkungen und Verbote beim Ausbringen von Düngern sowie bei der Verwendung von Pflanzen- und Holzschutzmitteln ausserhalb des Waldareals.
+<sup>1</sup> Die Gemeinden überwachen die Einhaltung der zeitlichen und örtlichen Einschränkungen und Verbote beim Ausbringen von Düngern sowie bei der Verwendung von Pflanzen- und Holzschutzmitteln ausserhalb des Waldareals.
 
-### IV. Abfälle
+## 4. Abfälle
 
-- 1\. ABFALLPLANUNG UND ENTSORGUNGSPFLICHT
+### 4.1. Abfallplanung und Entsorgungspflicht
 
 #### Art. 30
 
@@ -302,77 +297,58 @@ Die Gemeinden überwachen die Einhaltung der zeitlichen und örtlichen Einschrä
 
 <sup>2</sup> Die Abfallanlagen von kantonaler und regionaler Bedeutung sind entsprechend der Abfallplanung in den kantonalen Richtplan aufzunehmen.
 
-[^30-1]: Fassung gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008, 565; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten
-
 #### Art. 31
 
-**Einzugsgebiete 1. Festlegung**[^30-1]
+**Einzugsgebiete 1. Festlegung**
 
 <sup>1</sup> Das Einzugsgebiet der Kehrichtverbrennungsanlage Trimmis für brennbare Siedlungsabfälle, die nicht verwertet werden können, umfasst den ganzen Kanton Graubünden.
 
 <sup>2</sup> Soweit nötig kann die Regierung für Anlagen zur Entsorgung von weiteren Abfällen ebenfalls Einzugsgebiete festlegen.
 
-<sup>3</sup>[^31-1]Innerhalb des Einzugsgebietes sind die Inhaberinnen und Inhaber von Abfällen verpflichtet, diese der zu beliefernden Abfallanlage zuzuführen.
+<sup>3</sup> Innerhalb des Einzugsgebietes sind die Inhaberinnen und Inhaber von Abfällen verpflichtet, diese der zu beliefernden Abfallanlage zuzuführen.
 
-<sup>4</sup>[^31-2]Die Betreiberinnen und Betreiber der zu beliefernden Abfallanlage sind verpflichtet, die Abfälle aus dem Einzugsgebiet anzunehmen und in ihren Anlagen zu behandeln.
-
-[^31-1]: Einfügung gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008, 565; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten 1.01.2011 7
-[^31-2]: Einfügung gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008, 565; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten
-[^31-3]: Fassung gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008, 565; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten
+<sup>4</sup> Die Betreiberinnen und Betreiber der zu beliefernden Abfallanlage sind verpflichtet, die Abfälle aus dem Einzugsgebiet anzunehmen und in ihren Anlagen zu behandeln.
 
 #### Art. 32
 
-**2. Ausnahmen**[^31-3]
+**2. Ausnahmen**
 
 <sup>1</sup> Die Regierung kann die Entsorgung von Abfällen in Anlagen ausserhalb des Einzugsgebietes bewilligen, wenn:
 
 - a) die Entsorgung dadurch deutlich günstiger zu stehen kommt oder der Transport ökologische Vorteile aufweist und
-
 - b) die Entsorgung in dieser Anlage umweltverträglich ist, insbesondere, wenn sie dem Stand der Technik entspricht.
 
 <sup>2</sup> Die Bewilligung des Bundes für die Ausfuhr von Abfällen in ausländische Anlagen bleibt vorbehalten.
 
-<sup>3</sup> ...[^32-1]
-
-[^32-1]: Aufgehoben gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008,
-[^32-2]: Fassung gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008, 565; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten
+<sup>3</sup> ...
 
 #### Art. 33
 
-**3. Einfuhr von Abfällen**[^32-2]
+**3. Einfuhr von Abfällen**
 
 <sup>1</sup> Die Einfuhr von grösseren Mengen von Abfällen von ausserhalb des Einzugsgebiets bedarf der Bewilligung durch die Fachstelle.
 
 <sup>2</sup> Die Bewilligung wird erteilt, wenn:
 
 - a) die Entsorgung der Abfälle aus dem Einzugsgebiet trotzdem gewährleistet ist;
-
 - b) der Transport der Abfälle soweit möglich per Bahn erfolgt.
 
-<sup>3</sup>[^33-1]Die Bewilligung des Bundes für die Einfuhr von Abfällen aus dem Ausland bleibt vorbehalten.
-
-[^33-1]: Einfügung gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008, 565; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten
-[^33-2]: Einfügung gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008, 565; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten 8 1.01.2011
+<sup>3</sup> Die Bewilligung des Bundes für die Einfuhr von Abfällen aus dem Ausland bleibt vorbehalten.
 
 #### Art. 33a
 
-**4. Finanzierung**[^33-2]
+**4. Finanzierung**
 
 <sup>1</sup> Die Betreiber der Kehrichtverbrennungsanlage Trimmis erheben für ihren Aufwand, der für eine wirtschaftliche Betriebsführung der Anlage erforderlich ist, kostendeckende und verursachergerechte Gebühren.
 
 <sup>2</sup> Bei der Ausgestaltung der Gebühren werden insbesondere berücksichtigt:
 
 - a) die Art und die Menge des übergebenen Abfalls;
-
 - b) die Kosten für Bau, Betrieb und Unterhalt der Anlagen;
-
 - c) die zur Substanzerhaltung der Anlagen erforderlichen Abschreibungen;
-
 - d) die Zinsen;
-
 - e) der geplante Investitionsbedarf für Unterhalt, Sanierung und Ersatz sowie für die Anpassungen an gesetzliche Anforderungen und für betriebliche Optimierungen;
-
-- f) der Erlös aus dem Betrieb;
+- f) der Erlös aus dem Betrieb.
 
 <sup>3</sup> Die Berechnung der Gebühren und deren Grundlagen sind öffentlich zugänglich.
 
@@ -382,9 +358,17 @@ Die Gemeinden überwachen die Einhaltung der zeitlichen und örtlichen Einschrä
 
 **Bahntransport**
 
-Der Transport der Siedlungsabfälle über grössere Distanzen soll mit der Bahn erfolgen, wenn dies wirtschaftlich ist und die Umwelt dadurch weniger belastet wird als durch andere Transportmittel.
+<sup>1</sup> Der Transport der Siedlungsabfälle über grössere Distanzen soll mit der Bahn erfolgen, wenn dies wirtschaftlich ist und die Umwelt dadurch weniger belastet wird als durch andere Transportmittel.
 
-- 2\. AUFGABEN DER GEMEINDEN
+#### Art. 34a
+
+**Schiessanlagen**
+
+<sup>1</sup> Neue und bestehende Schiessanlagen sind mit künstlichen Kugelfangsystemen nach dem Stand der Technik auszurüsten. Ist die Ausrüstung mit künstlichen Kugelfangsystemen aufgrund des Anlagentyps nicht möglich, sind schadstofffreie Geschosse und Zielobjekte zu verwenden.
+
+<sup>2</sup> Die Standortgemeinde sorgt für die Umsetzung der Vorgaben gemäss Absatz 1.
+
+### 4.2. Aufgaben der Gemeinden
 
 #### Art. 35
 
@@ -395,9 +379,7 @@ Der Transport der Siedlungsabfälle über grössere Distanzen soll mit der Bahn 
 <sup>2</sup> Die Gemeinden sind insbesondere zuständig für:
 
 - a) die Sammlung der Siedlungsabfälle und den Transport zu den Abfallanlagen;
-
 - b) den Bau und Betrieb der notwendigen Abfallanlagen;
-
 - c) die Einrichtung von Sammelstellen für kleinere Mengen von Sonderabfällen aus Haushalt und Kleingewerbe.
 
 <sup>3</sup> Die Gemeinden können diese Aufgaben öffentlichrechtlichen Körperschaften oder geeigneten privaten Unternehmen übertragen.
@@ -409,10 +391,6 @@ Der Transport der Siedlungsabfälle über grössere Distanzen soll mit der Bahn 
 <sup>1</sup> Die Gemeinden sorgen dafür, dass verwertbare Anteile von Siedlungsabfällen soweit wie möglich getrennt gesammelt und verwertet werden.
 
 <sup>2</sup> Sie fördern das Verwerten von kompostierbaren Abfällen in Garten, Hof oder Quartier.
-
-**9**
-
-1.01.2011
 
 <sup>3</sup> Sie betreiben soweit möglich und sinnvoll Kompostieranlagen für kompostierbare Abfälle, die nicht dezentral kompostiert oder anderweitig umweltverträglich verwertet werden können.
 
@@ -428,7 +406,7 @@ Der Transport der Siedlungsabfälle über grössere Distanzen soll mit der Bahn 
 
 **Ausführungsbestimmungen**
 
-Die Gemeinden regeln die umweltgerechte Entsorgung der Siedlungsabfälle und deren Finanzierung.
+<sup>1</sup> Die Gemeinden regeln die umweltgerechte Entsorgung der Siedlungsabfälle und deren Finanzierung.
 
 #### Art. 39
 
@@ -438,7 +416,7 @@ Die Gemeinden regeln die umweltgerechte Entsorgung der Siedlungsabfälle und der
 
 <sup>2</sup> Im Baugesuch sind Angaben über Art und Menge der bei der Ausführung des Vorhabens anfallenden Abfälle sowie über deren Entsorgung zu machen.
 
-- 3\. AUFGABEN DES KANTONS
+### 4.3. Aufgaben des Kantons
 
 #### Art. 40
 
@@ -455,10 +433,6 @@ Die Gemeinden regeln die umweltgerechte Entsorgung der Siedlungsabfälle und der
 <sup>1</sup> Die Fachstelle kann nach Massgabe des Bundesrechts Inhaberinnen und Inhaber von bestimmten Abfällen verpflichten, diese der Verwertung zuzuführen.
 
 <sup>2</sup> Sie erteilt die Bewilligungen zur Annahme von Sonderabfällen sowie zur Entsorgung elektrischer und elektronischer Geräte.
-
-**10**
-
-1.01.2011
 
 <sup>3</sup> Sie ordnet die Entsorgung von ausgedienten Fahrzeugen und ihren Bestandteilen an, falls die Inhaberin oder der Inhaber der Entsorgungspflicht trotz Aufforderung nicht nachgekommen ist.
 
@@ -481,9 +455,7 @@ Die Gemeinden regeln die umweltgerechte Entsorgung der Siedlungsabfälle und der
 <sup>1</sup> Folgende Abfallanlagen bedürfen vor der Aufnahme des Betriebes einer Betriebsbewilligung der Fachstelle:
 
 - a) Anlagen zur Behandlung von Abfällen, insbesondere Abfallverbrennungsanlagen, grössere Kompostierungsanlagen sowie Sammel- und Sortierplätze für Bauabfälle;
-
 - b) Zwischenlager;
-
 - c) Deponien.
 
 <sup>2</sup> Die Betriebsbewilligung legt insbesondere die zugelassenen Abfallarten, die Eingangskontrolle, die Zwischenlagerung und die Behandlung der Abfälle sowie die Betriebskontrolle fest.
@@ -500,31 +472,23 @@ Die Gemeinden regeln die umweltgerechte Entsorgung der Siedlungsabfälle und der
 
 **2. Finanzierung**
 
-Der Kanton erhebt nach Massgabe des Bundesrechts für Bau, Betrieb und Unterhalt kantonseigener Anlagen kostendeckende und verursachergerechte Gebühren.
-
-**11**
-
-1.01.2011
+<sup>1</sup> Der Kanton erhebt nach Massgabe des Bundesrechts für Bau, Betrieb und Unterhalt kantonseigener Anlagen kostendeckende und verursachergerechte Gebühren.
 
 #### Art. 46
 
-**Kantonsbeiträge an Abfallanlagen**
-
-Der Kanton gewährt Beiträge an Abfallanlagen nach Massgabe des kantonalen Gewässerschutzgesetzes[^46-1].
-
-[^46-1]: BR 815.100 12 1.01.2011
+**…**
 
 #### Art. 47
 
-**Transportkostenausgleich**
+**Kantonsbeiträge an Bahntransporte**
 
-<sup>1</sup> Der Kanton leistet den Abfallbewirtschaftungsverbänden zur Abgeltung besonders hoher Lasten für den Ferntransport der Siedlungsabfälle Ausgleichszahlungen von höchstens 50 Prozent der den kantonalen Durchschnitt übersteigenden Transportkosten.
+<sup>1</sup> Der Kanton leistet Beiträge von maximal 250 000 Franken pro Jahr an den Bahntransport von Siedlungsabfällen ab den jeweiligen Umschlagstationen zur Abfallverbrennungsanlage in Trimmis.
 
-<sup>2</sup> Dem Ausgleich unterliegen sämtliche Aufwendungen für den Bahntransport der Siedlungsabfälle ab der jeweiligen Umschlagstation zur Abfallverbrennungsanlage. Transporte auf der Strasse sind nur ausgleichsberechtigt, wenn kein Bahnanschluss verfügbar ist.
+<sup>2</sup> Die Höhe der einzelnen Beiträge hängt ab von der Menge der transportierten Abfälle und der Distanz zwischen Umschlagstation und Abfallverbrennungsanlage.
 
-<sup>3</sup> Die Regierung bestimmt die anrechenbaren Kosten und regelt das Beitragsverfahren.
+<sup>3</sup> Die Regierung legt die Beiträge fest und regelt das Beitragsverfahren.
 
-- 4\. MIT ABFÄLLEN BELASTETE STANDORTE
+### 4.4. Mit Abfällen belastete Standorte
 
 #### Art. 48
 
@@ -538,21 +502,21 @@ Der Kanton gewährt Beiträge an Abfallanlagen nach Massgabe des kantonalen Gew�
 
 **Kostentragung**
 
-<sup>1</sup> Der Kanton gewährt an die vom Bund unterstützten Sanierungen von Altlasten, auf denen zu einem wesentlichen Teil Siedlungsabfälle abgelagert worden sind, Beiträge von höchstens 40 Prozent der anrechenbaren Kosten. Die Beiträge werden nach der Finanzkraft der Gemeinden abgestuft.
+<sup>1</sup> …
 
-<sup>2</sup> Können die zahlungspflichtigen Verursacherinnen oder Verursacher einer Altlast nicht ermittelt werden oder sind sie zahlungsunfähig, werden die Sanierungskosten nach Abzug der Abgeltungen des Bundes vom Kanton und den Standortgemeinden getragen.
+<sup>2</sup> Können zahlungspflichtige Verursacherinnen oder Verursacher eines belasteten Standorts nicht ermittelt werden oder sind sie zahlungsunfähig, werden die von ihnen zu tragenden Kosten für notwendige Massnahmen zur Untersuchung, Überwachung und Sanierung belasteter Standorte als Ausfallkosten bezeichnet. Von diesen Ausfallkosten werden die Abgeltungen des Bundes abgezogen. Die verbleibenden Ausfallkosten werden je zur Hälfte vom Kanton und von den Standortgemeinden getragen.
 
-<sup>3</sup> Die Standortgemeinden haben sich nach Massgabe ihrer Finanzkraft mit 20 bis 60 Prozent an den verbleibenden Sanierungskosten zu beteiligen.
+<sup>3</sup> …
 
-<sup>4</sup> Die Regierung erlässt Vorschriften über die Berücksichtigung der Finanzkraft und den Kostenanteil der Gemeinden und regelt das Beitragsverfahren.
+<sup>4</sup> …
 
-### V. Belastungen des Bodens
+## 5. Belastungen des Bodens
 
 #### Art. 50
 
 **Vermeidung von physikalischen Bodenbelastungen**
 
-Die Gemeinden ordnen im Rahmen des Baubewilligungsverfahrens Massnahmen an zur Vermeidung von Bodenverdichtung und -erosion und stellen den sachgerechten Umgang mit ausgehobenem Boden sicher.
+<sup>1</sup> Die Gemeinden ordnen im Rahmen des Baubewilligungsverfahrens Massnahmen an zur Vermeidung von Bodenverdichtung und -erosion und stellen den sachgerechten Umgang mit ausgehobenem Boden sicher.
 
 #### Art. 51
 
@@ -562,9 +526,9 @@ Die Gemeinden ordnen im Rahmen des Baubewilligungsverfahrens Massnahmen an zur V
 
 <sup>2</sup> Bewirken diese Massnahmen schwerwiegende Eigentumsbeschränkungen, obliegt deren Anordnung der Regierung.
 
-[^51-1]: SR 814.01
+[^51-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
 
-### VI. Störfälle
+## 6. Störfälle
 
 #### Art. 52
 
@@ -574,44 +538,39 @@ Die Gemeinden ordnen im Rahmen des Baubewilligungsverfahrens Massnahmen an zur V
 
 <sup>2</sup> Baubewilligungen für Betriebe, die der Verordnung über den Schutz vor Störfällen unterstehen, bedürfen der Zustimmung der Fachstelle. Auflagen und Bedingungen der Fachstelle sind in die Baubewilligung aufzunehmen.
 
-### VII. Rechtspflege
+## 7. Rechtspflege
 
 #### Art. 53
 
 **Rechtsmittelverfahren**
 
-<sup>1</sup>[^53-1]Verfügungen der Fachstelle, die im Zusammenhang mit einer Baubewilligung stehen, können innert 30 Tagen mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
+<sup>1</sup> Verfügungen der Fachstelle, die im Zusammenhang mit einer Baubewilligung stehen, können innert 30 Tagen mit Beschwerde an das Obergericht weitergezogen werden.
 
-<sup>2</sup>[^53-2]Andere Verfügungen der Fachstelle unterliegen der Verwaltungsbeschwerde gemäss Verwaltungsrechtspflegegesetz[^53-3].
+<sup>2</sup> Andere Verfügungen der Fachstelle unterliegen der Verwaltungsbeschwerde gemäss Verwaltungsrechtspflegegesetz[^53-1].
 
-<sup>3</sup> …[^53-4]
+<sup>3</sup> …
 
-[^53-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3326, am 1. Januar 2007 in Kraft getreten.
-[^53-2]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3326, am 1. Januar 2007 in Kraft getreten.
-[^53-3]: BR 370.100
-[^53-4]: Aufgehoben gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3326, am 1. Januar 2007 in Kraft getreten. 1.01.2011 13
+[^53-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
-### VIII. Strafbestimmungen
+## 8. Strafbestimmungen
 
 #### Art. 54
 
 **Verletzung von kantonalem Recht 1. Übertretungen**
 
-<sup>1</sup>[^54-1]Wer vorsätzlich oder fahrlässig dieses Gesetz oder darauf beruhende Erlasse oder Verfügungen verletzt, wird mit Busse bis zu 100 000 Franken bestraft.
+<sup>1</sup> Wer vorsätzlich oder fahrlässig dieses Gesetz oder darauf beruhende Erlasse oder Verfügungen verletzt, wird mit Busse bis zu 100 000 Franken bestraft.
 
 <sup>2</sup> Handelt der Täter aus Gewinnsucht, so ist die Strafbehörde an den Höchstbetrag von 100 000 Franken nicht gebunden.
 
 <sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
 
-[^54-1]: Fassung gemäss Anhang Ziffer 24 EGzStPO, KA 2010, 2412; am 1. Januar 2011 in Kraft getreten
-
 #### Art. 55
 
 **2. Anwendung des Verwaltungsstrafrechts des Bundes**
 
-Die Artikel 6 und 7 des Bundesgesetzes über das Verwaltungsstrafrecht[^55-1] gelten für strafbare Handlungen nach diesem Gesetz.
+<sup>1</sup> Die Artikel 6 und 7 des Bundesgesetzes über das Verwaltungsstrafrecht[^55-1] gelten für strafbare Handlungen nach diesem Gesetz.
 
-[^55-1]: SR 313.0
+[^55-1]: SR [313.0](https://db.clex.ch/link/Bund/313.0/de)
 
 #### Art. 56
 
@@ -621,65 +580,73 @@ Die Artikel 6 und 7 des Bundesgesetzes über das Verwaltungsstrafrecht[^55-1] ge
 
 <sup>2</sup> Für die Verfolgung und Beurteilung der im Bundesgesetz[^56-1] genannten Übertretungen sowie der Widerhandlungen gemäss Artikel 54 dieses Gesetzes ist das Departement zuständig.
 
-[^56-1]: SR 814.01
+<sup>3</sup> Die Gemeinden, die Fachstelle und die Kantonspolizei sind zuständig für die Erhebung von Ordnungsbussen gemäss bundesrechtlicher Ordnungsbussengesetzgebung[^56-2].
 
-### IX. Schlussbestimmungen
+<sup>4</sup> Das Verfahren richtet sich nach dem Ordnungsbussengesetz des Bundes[^56-3].
+
+[^56-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
+[^56-2]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de); [741.031](https://db.clex.ch/link/Bund/741.031/de)
+[^56-3]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de)
+
+## 9. Schlussbestimmungen
 
 #### Art. 57
 
 **Ausführungsbestimmungen**
 
-Die Regierung erlässt die erforderlichen Ausführungsbestimmungen[^57-1] zu diesem Gesetz. Sie regelt insbesondere Zuständigkeit und Verfahren, soweit dieses Gesetz keine Regelungen enthält.
+<sup>1</sup> Die Regierung erlässt die erforderlichen Ausführungsbestimmungen[^57-1] zu diesem Gesetz. Sie regelt insbesondere Zuständigkeit und Verfahren, soweit dieses Gesetz keine Regelungen enthält.
 
-[^57-1]: BR 820.110
+[^57-1]: BR [820.110](https://www.gr-lex.gr.ch/data/820.110/de)
 
 #### Art. 58
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem In-Kraft-Treten dieses Gesetzes wird das Gesetz über die Abfallbewirtschaftung vom 24. September 1989[^58-1] aufgehoben.
+<sup>1</sup> Mit dem In-Kraft-Treten dieses Gesetzes wird das Gesetz über die Abfallbewirtschaftung vom 24. September 1989[^58-1] aufgehoben.
 
-[^58-1]: AGS 1989, 2207; AGS 1995, 3411 14 1.01.2011
+[^58-1]: AGS 1989, 2207; AGS 1995, 3411
 
 #### Art. 59
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts[^59-1]**
 
-Das Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer vom 8. Juni 1997[^59-1] wird wie folgt geändert:
-
-[^59-1]: BR 815.100
-
-#### Art. 31
-
-**Abs. 2:**
-
-Für die vom Bund unterstützten Abfallanlagen und Einrichtungen zum Schutz von Gewässern bei Abfalldeponien beträgt der Beitragssatz des Kantons höchstens 25 Prozent.
-
-[^31_2-1]: Einfügung gemäss GRB vom 11. Dezember 2008; B vom 26. August 2008, 565; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten
+[^59-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
 #### Art. 59a
 
-**Geltende Verträge**[^31_2-1]
+**Geltende Verträge**
 
 <sup>1</sup> Verträge von Gemeinden und Abfallbewirtschaftungsverbänden über die Ausfuhr von brennbaren Siedlungsabfällen in ausserkantonale Verbrennungsanlagen, welche vor dem 1. Juli 2007 abgeschlossen wurden, bleiben gültig.
 
 <sup>2</sup> Geltende Verträge dürfen nicht über die vereinbarte Dauer verlängert werden; auch eine stillschweigende Verlängerung ist nicht zulässig.
 
+#### Art. 59b
+
+**Übergangsbestimmungen zur Änderung vom 21. Oktober 2019 1. Frist und Sperrung**
+
+<sup>1</sup> Bestehende Schiessanlagen müssen die Vorgaben gemäss Artikel 34a Absatz 1 bis zum 31. Dezember 2020 erfüllen. Bei Nichterfüllung sind die Schiessanlagen von Gesetzes wegen gesperrt.
+
+<sup>2</sup> Die Standortgemeinde sorgt für die Umsetzung der Sperrung und deren Kontrolle.
+
+#### Art. 59c
+
+**2. Kostentragung**
+
+<sup>1</sup> Wird die Sperrung nach Artikel 59b missachtet, sind die Ausfallkosten nach Artikel 49 Absatz 2 vollumfänglich von den Standortgemeinden zu tragen.
+
 #### Art. 60
 
 **Anpassung kommunaler Erlasse**
 
-Die Gemeindeerlasse sind innert fünf Jahren nach Inkrafttreten dieses Gesetzes den neuen Vorschriften anzupassen.
+<sup>1</sup> Die Gemeindeerlasse sind innert fünf Jahren nach Inkrafttreten dieses Gesetzes den neuen Vorschriften anzupassen.
 
 #### Art. 61
 
 **In-Kraft-Treten**
 
-Die Regierung bestimmt den Zeitpunkt des In-Kraft-Tretens dieses Gesetzes[^61-1] nach der Genehmigung der Bestimmungen im Sinne von Artikel 37 des Bundesgesetzes[^61-2] durch den Bund.
+<sup>1</sup> Die Regierung bestimmt den Zeitpunkt des In-Kraft-Tretens dieses Gesetzes[^61-1] nach der Genehmigung der Bestimmungen im Sinne von Artikel 37 des Bundesgesetzes[^61-2] durch den Bund.
 
 [^61-1]: Mit RB vom 13. August 2002 auf den 1. September 2002 in Kraft gesetzt. Vom UVEK am 5. März 2002 genehmigt.
-[^61-2]: SR 814.01 1.01.2011 15
+[^61-2]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
 
-## Weitere Fussnoten
-
-- [565] ; GRP 2008/2009, 486; am 1. Oktober 2009 in Kraft getreten
+-

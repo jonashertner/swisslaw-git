@@ -1,32 +1,34 @@
 ---
 canton: GR
 number: "820.100"
-title: "Legge d'introduzione alla legge federale sulla protezione dell'ambiente (Legge cantonale sulla protezione dell'ambiente, LCPAmb)"
+title: "Legge d'introduzione alla legge federale sulla protezione dell'ambiente"
 short: "Legge cantonale sulla protezione dell'ambiente, LCPAmb"
 language: it
-version: 2011-01-01
-corrected: 2014-11-09
-version_adopted: 2010-06-16
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2001-12-02
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1231/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3422/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge d'introduzione alla legge federale sulla protezione dell'ambiente (Legge cantonale sulla protezione dell'ambiente, LCPAmb)
+# Legge d'introduzione alla legge federale sulla protezione dell'ambiente
 
-accettata dal Popolo il 2 dicembre 2001[^t-1]
+(Legge cantonale sulla protezione dell'ambiente, LCPAmb)
 
-sulla base degli art. 36 e 65 cpv. 1 della legge federale sulla protezione dell'ambiente (Legge sulla protezione dell'ambiente, LPAmb) del 7 ottobre 1983[^t-2], nonché dell'art. 41bis della Costituzione del Cantone dei Grigioni[^t-3]
+del 02.12.2001 (stato 01.01.2025)
 
-I. Disposizioni generali
+accettata dal Popolo il 2 dicembre 2001[^ingress-1]
 
-[^t-1]: M del 5 dicembre 2000, 559; PGC 2000/2001, 719
-[^t-2]: RS 814.01
-[^t-3]: Nella nuova Cost. cant. art. 81 cpv. 1; CSC 110.100
+sulla base degli art. 36 e 65 cpv. 1 della legge federale sulla protezione dell'ambiente (Legge sulla protezione dell'ambiente, LPAmb) del 7 ottobre 1983[^ingress-2], nonché dell'art. 41<sup>bis</sup> della Costituzione del Cantone dei Grigioni[^ingress-3]
+
+[^ingress-1]: M del 5 dicembre 2000, 559; PGC 2000/2001, 719
+[^ingress-2]: RS [814.01](https://db.clex.ch/link/Bund/814.01/it)
+[^ingress-3]: Nella nuova Cost. cant. art. 81 cpv. 1; CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
@@ -34,7 +36,9 @@ I. Disposizioni generali
 
 <sup>1</sup> La presente legge disciplina l'esecuzione della legislazione sulla protezione dell'ambiente della Confederazione, segnatamente la suddivisione dei compiti tra i comuni e il Cantone.
 
-<sup>2</sup> La legge vale per tutti i settori regolati nella legge federale sulla protezione dell'ambiente 4) (legge federale) e nelle ordinanze basate su di essa.
+<sup>2</sup> La legge vale per tutti i settori regolati nella legge federale sulla protezione dell'ambiente[^1-1] (legge federale) e nelle ordinanze basate su di essa.
+
+[^1-1]: RS [814.01](https://db.clex.ch/link/Bund/814.01/it)
 
 #### Art. 2
 
@@ -84,7 +88,7 @@ I. Disposizioni generali
 
 **Analisi, perizie**
 
-Le autorità esecutive possono incaricare terzi di effettuare analisi e di redigere perizie.
+<sup>1</sup> Le autorità esecutive possono incaricare terzi di effettuare analisi e di redigere perizie.
 
 #### Art. 8
 
@@ -98,9 +102,9 @@ Le autorità esecutive possono incaricare terzi di effettuare analisi e di redig
 
 **Esecuzione**
 
-Per i costi di esecuzione vi è un diritto di pegno definito per legge ai sensi dell'articolo 130 sgg. della legge d'introduzione al codice civile svizzero[^9-1].
+<sup>1</sup> Per i costi di esecuzione vi è un diritto di pegno definito per legge ai sensi dell'articolo 130 sgg. della legge d'introduzione al codice civile svizzero[^9-1].
 
-[^9-1]: CSC 210.100 2 1.1.2011
+[^9-1]: CSC [210.100](https://www.gr-lex.gr.ch/data/210.100/it)
 
 #### Art. 10
 
@@ -118,17 +122,23 @@ Per i costi di esecuzione vi è un diritto di pegno definito per legge ai sensi 
 
 <sup>2</sup> Il tariffario è emanato nel Cantone dal Governo e nei comuni dall'autorità competente secondo il diritto comunale.
 
-[^11-1]: RS 814.01 1.1.2011 3
+[^11-1]: RS [814.01](https://db.clex.ch/link/Bund/814.01/it)
 
-### II. Protezione dalle immissioni
+#### Art. 11a
 
-- 1\. INQUINAMENTO ATMOSFERICO
+**Sussidi cantonali a progetti innovativi**
+
+<sup>1</sup> Il Cantone può concedere sussidi a progetti e impianti innovativi che forniscono un contributo sostanziale all'utilizzo parsimonioso delle risorse naturali o alla riduzione del carico ambientale.
+
+## 2. Protezione dalle immissioni
+
+### 2.1. Inquinamento atmosferico
 
 #### Art. 12
 
 **Limitazione delle emissioni 1. Per impianti nuovi e modificati a) Principio**
 
-Nel quadro della procedura per il rilascio della licenza edilizia, i comuni provvedono affinché vengano rispettate le prescrizioni sulla limitazione delle emissioni per impianti nuovi e impianti fissi modificati, che inquinano l'aria.
+<sup>1</sup> Nel quadro della procedura per il rilascio della licenza edilizia, i comuni provvedono affinché vengano rispettate le prescrizioni sulla limitazione delle emissioni per impianti nuovi e impianti fissi modificati, che inquinano l'aria.
 
 #### Art. 13
 
@@ -144,7 +154,7 @@ Nel quadro della procedura per il rilascio della licenza edilizia, i comuni prov
 
 **c) Procedure d'approvazione di diritto speciale**
 
-Se un progetto sottostà a una procedura di diritto speciale per la concessione o per l'approvazione del progetto o del piano, l'autorità di approvazione è competente per la disposizione delle limitazioni delle emissioni. Essa consulta precedentemente il Servizio.
+<sup>1</sup> Se un progetto sottostà a una procedura di diritto speciale per la concessione o per l'approvazione del progetto o del piano, l'autorità di approvazione è competente per la disposizione delle limitazioni delle emissioni. Essa consulta precedentemente il Servizio.
 
 #### Art. 15
 
@@ -160,7 +170,7 @@ Se un progetto sottostà a una procedura di diritto speciale per la concessione 
 
 **b) Risanamento**
 
-Se i valori limite vengono superati oppure se un impianto non soddisfa altri requisiti del diritto federale, il Servizio dispone che l'impianto venga regolato nuovamente, risanato o, all'occorrenza, chiuso.
+<sup>1</sup> Se i valori limite vengono superati oppure se un impianto non soddisfa altri requisiti del diritto federale, il Servizio dispone che l'impianto venga regolato nuovamente, risanato o, all'occorrenza, chiuso.
 
 #### Art. 17
 
@@ -176,17 +186,15 @@ Se i valori limite vengono superati oppure se un impianto non soddisfa altri req
 
 **Incenerimento di rifiuti naturali (da boschi, campi e giardini)**
 
-Ai sensi del diritto federale, i comuni possono disporre restrizioni più ampie o divieti in materia di incenerimento all'aperto di rifiuti naturali secchi provenienti da boschi, campi e giardini.
+<sup>1</sup> Ai sensi del diritto federale, i comuni possono disporre restrizioni più ampie o divieti in materia di incenerimento all'aperto di rifiuti naturali secchi provenienti da boschi, campi e giardini.
 
-**4**
-
-1.1.2011 2. RUMORE
+### 2.2. Rumore
 
 #### Art. 19
 
 **Limitazioni delle emissioni 1. Per attrezzi, macchine e veicoli mobili**
 
-A norma del diritto federale, i comuni sono competenti per le limitazioni delle emissioni nell'impiego di attrezzi, macchine e veicoli mobili, che non sono contemplati dalla legislazione speciale della Confederazione.
+<sup>1</sup> A norma del diritto federale, i comuni sono competenti per le limitazioni delle emissioni nell'impiego di attrezzi, macchine e veicoli mobili, che non sono contemplati dalla legislazione speciale della Confederazione.
 
 #### Art. 20
 
@@ -206,15 +214,13 @@ A norma del diritto federale, i comuni sono competenti per le limitazioni delle 
 
 <sup>3</sup> Il Servizio è competente per il controllo dei risanamenti realizzati.
 
-<sup>4</sup>[^21-1]Il Cantone può versare ai comuni sussidi alle misure di protezione dall'inquinamento fonico e di isolazione acustica. L'importo dei sussidi si conforma all'efficacia delle misure e alla capacità finanziaria del comune.
-
-[^21-1]: Introduzione giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 1655; entrata in vigore il 1° gen. 2008 1.1.2011 5
+<sup>4</sup> Il Cantone può versare ai comuni sussidi alle misure di protezione dall'inquinamento fonico e di isolazione acustica. L'importo dei sussidi si conforma all'efficacia delle misure e alla capacità finanziaria del comune.
 
 #### Art. 22
 
 **2. Rimanenti impianti**
 
-I comuni eseguono le prescrizioni sul risanamento dei rimanenti impianti.
+<sup>1</sup> I comuni eseguono le prescrizioni sul risanamento dei rimanenti impianti.
 
 #### Art. 23
 
@@ -248,7 +254,7 @@ I comuni eseguono le prescrizioni sul risanamento dei rimanenti impianti.
 
 <sup>2</sup> Per sgravare i comuni, il Governo può delegare determinati compiti esecutivi al Servizio.
 
-- 3\. RAGGI NON IONIZZANTI
+### 2.3. Raggi non ionizzanti
 
 #### Art. 27
 
@@ -262,29 +268,26 @@ I comuni eseguono le prescrizioni sul risanamento dei rimanenti impianti.
 
 **Controllo, risanamento**
 
-<sup>1</sup> Il Servizio sorveglia l'osservanza delle limitazioni delle emissioni. Esso accerta le immissioni causate da impianti, se vi è motivo di pre- 2 sumere che l'impianto non corrisponda alle prescrizioni.
+<sup>1</sup> Il Servizio sorveglia l'osservanza delle limitazioni delle emissioni.
 
-**6**
-
-1.1.2011
+<sup>2</sup> Esso accerta le immissioni causate da impianti, se vi è motivo di presumere che l'impianto non corrisponda alle prescrizioni.
 
 <sup>3</sup> Esso valuta le immissioni e adotta, a norma del diritto federale, le seguenti disposizioni:
 
 - a) per nuovi impianti, misure atte a rispettare le limitazioni delle emissioni;
-
 - b) per impianti vecchi, il risanamento.
 
-### III. Sostanze pericolose per l'ambiente
+## 3. Sostanze pericolose per l'ambiente
 
 #### Art. 29
 
 **Concimi, fitofarmaci e prodotti per la protezione del legno**
 
-I comuni sorvegliano l'osservanza delle limitazioni temporali e locali e dei divieti per quanto concerne lo spargimento di concimi nonché rispetto all'utilizzo di fitofarmaci e di prodotti di protezione del legno fuori dalle aree boschive.
+<sup>1</sup> I comuni sorvegliano l'osservanza delle limitazioni temporali e locali e dei divieti per quanto concerne lo spargimento di concimi nonché rispetto all'utilizzo di fitofarmaci e di prodotti di protezione del legno fuori dalle aree boschive.
 
-### IV. Rifiuti
+## 4. Rifiuti
 
-- 1\. PIANIFICAZIONE DEI RIFIUTI E OBBLIGO DI SMALTIMENTO
+### 4.1. Pianificazione dei rifiuti e obbligo di smaltimento
 
 #### Art. 30
 
@@ -294,39 +297,30 @@ I comuni sorvegliano l'osservanza delle limitazioni temporali e locali e dei div
 
 <sup>2</sup> Gli impianti di smaltimento di importanza cantonale e regionale, secondo la pianificazione dei rifiuti, devono essere integrati nel piano direttore cantonale.
 
-[^30-1]: Testo giusta DGC dell'11 dicembre 2008; M del 26 agosto 2008, 565; PGC 2008/2009, 486; posto in vigore il 1° ottobre 2009
-
 #### Art. 31
 
-**Comprensori 1. Determinazione**[^30-1]
+**Comprensori 1. Determinazione**
 
-Il comprensorio dell'impianto di incenerimento dei rifiuti di Trimmis per rifiuti urbani combustibili non riciclabili comprende l'intero Cantone dei Grigioni.
+<sup>1</sup> Il comprensorio dell'impianto di incenerimento dei rifiuti di Trimmis per rifiuti urbani combustibili non riciclabili comprende l'intero Cantone dei Grigioni.
 
 <sup>2</sup> Se necessario, il Governo può fissare comprensori anche per impianti per lo smaltimenti di altri rifiuti.
 
-<sup>3</sup>[^31-1]All'interno del comprensorio, i detentori di rifiuti devono consegnarli all'impianto per i rifiuti indicato.
+<sup>3</sup> All'interno del comprensorio, i detentori di rifiuti devono consegnarli all'impianto per i rifiuti indicato.
 
-<sup>4</sup>[^31-2]I gestori dell'impianto al quale devono essere consegnati i rifiuti sono tenuti a prendere in consegna i rifiuti del comprensorio e a trattarli nel loro impianto.
-
-[^31-1]: Introduzione giusta DGC dell'11 dicembre 2008; M del 26 agosto 2008, 565; PGC 2008/2009, 486; posto in vigore il 1° ottobre 2009 1.1.2011 7
-[^31-2]: Introduzione giusta DGC dell'11 dicembre 2008; M del 26 agosto 2008, 565; PGC 2008/2009, 486; posto in vigore il 1° ottobre 2009
-[^31-3]: Testo giusta DGC dell'11 dicembre 2008; M del 26 agosto 2008, 565; PGC 2008/2009, 486; posto in vigore il 1° ottobre 2009
+<sup>4</sup> I gestori dell'impianto al quale devono essere consegnati i rifiuti sono tenuti a prendere in consegna i rifiuti del comprensorio e a trattarli nel loro impianto.
 
 #### Art. 32
 
-**2. Eccezioni**[^31-3]
+**2. Eccezioni**
 
 <sup>1</sup> Il Governo può autorizzare lo smaltimento di rifiuti in impianti al di fuori del comprensorio se:
 
 - a) lo smaltimento risulta in tal modo notevolmente più conveniente o il trasporto presenta vantaggi ecologici e
-
 - b) lo smaltimento in questo impianto è rispettoso dell'ambiente, in particolare se risponde allo stato della tecnica.
 
 <sup>2</sup> È fatta salva l'autorizzazione della Confederazione per l'esportazione di rifiuti in impianti esteri.
 
-<sup>3</sup> ...[^32-1]
-
-[^32-1]: Abrogato giusta DGC dell'11 dicembre 2008; M del 26 agosto 2008, 565; PGC 2008/2009, 486; posto in vigore il 1° ottobre 2009
+<sup>3</sup>
 
 #### Art. 33
 
@@ -334,35 +328,26 @@ Il comprensorio dell'impianto di incenerimento dei rifiuti di Trimmis per rifiut
 
 <sup>1</sup> L'importazione di grandi quantità di rifiuti da zone esterne al comprensorio necessita dell'autorizzazione del Servizio.
 
-<sup>2</sup> L’autorizzazione viene rilasciata se:
+<sup>2</sup> L'autorizzazione viene rilasciata se:
 
 - a) lo smaltimento dei rifiuti del comprensorio è comunque garantito;
-
 - b) il trasporto dei rifiuti avviene per quanto possibile su rotaia.
 
-<sup>3</sup>[^33-1]Per l'importazione di rifiuti dall'estero è fatta salva l'autorizzazione della Confederazione.
+<sup>3</sup> Per l'importazione di rifiuti dall'estero è fatta salva l'autorizzazione della Confederazione.
 
-[^33-1]: Introduzione giusta DGC dell'11 dicembre 2008; M del 26 agosto 2008, 565; PGC 2008/2009, 486; posto in vigore il 1° ottobre 2009
-[^33-2]: Introduzione giusta DGC dell'11 dicembre 2008; M del 26 agosto 2008, 565; PGC 2008/2009, 486; posto in vigore il 1° ottobre 2009 8 1.1.2011
+#### Art. 33a
 
-### Art. 33a
+**4. Finanziamento**
 
-[^33-2]
-
-<sup>4.</sup> <sup>Finanziamento</sup> <sup>1</sup> I gestori dell'impianto di incenerimento dei rifiuti di Trimmis riscuotono per gli oneri necessari per la gestione economica dell'impianto delle tasse a copertura dei costi e conformi al principio di causalità.
+<sup>1</sup> I gestori dell'impianto di incenerimento dei rifiuti di Trimmis riscuotono per gli oneri necessari per la gestione economica dell'impianto delle tasse a copertura dei costi e conformi al principio di causalità.
 
 <sup>2</sup> L'ammontare delle tasse è fissato tenendo conto in particolare:
 
 - a) del tipo e della quantità dei rifiuti consegnati;
-
 - b) dei costi per la costruzione, l'esercizio e la manutenzione degli impianti;
-
 - c) degli ammortamenti necessari a mantenere il valore degli impianti;
-
 - d) degli interessi;
-
 - e) degli investimenti pianificati per la manutenzione, il risanamento e la sostituzione degli impianti, nonché per il loro adattamento alle esigenze legali o per l'ottimizzazione del loro esercizio;
-
 - f) del ricavo della gestione;
 
 <sup>3</sup> Il calcolo delle tasse e le relative basi sono a disposizione del pubblico.
@@ -373,9 +358,17 @@ Il comprensorio dell'impianto di incenerimento dei rifiuti di Trimmis per rifiut
 
 **Trasporto per ferrovia**
 
-Il trasporto dei rifiuti urbani su distanze relativamente lunghe deve essere effettuato per ferrovia, se ciò è economicamente conveniente e se l'ambiente ne risente meno che con altri mezzi di trasporto.
+<sup>1</sup> Il trasporto dei rifiuti urbani su distanze relativamente lunghe deve essere effettuato per ferrovia, se ciò è economicamente conveniente e se l'ambiente ne risente meno che con altri mezzi di trasporto.
 
-- 2\. COMPITI DEI COMUNI
+#### Art. 34a
+
+**Impianti di tiro**
+
+<sup>1</sup> Impianti di tiro nuovi ed esistenti devono essere dotati di sistemi parapalle artificiali secondo lo stato della tecnica. Se a causa del tipo di impianto non è possibile procedere alla dotazione con sistemi parapalle artificiali occorre utilizzare proiettili e bersagli privi di sostanze inquinanti.
+
+<sup>2</sup> Il comune d'ubicazione del sito si occupa di attuare le prescrizioni di cui al capoverso 1.
+
+### 4.2. Compiti dei comuni
 
 #### Art. 35
 
@@ -386,9 +379,7 @@ Il trasporto dei rifiuti urbani su distanze relativamente lunghe deve essere eff
 <sup>2</sup> I comuni sono responsabili in modo particolare:
 
 - a) della raccolta dei rifiuti urbani e del trasporto agli impianti per il trattamento dei rifiuti;
-
 - b) della costruzione e dell'esercizio degli impianti necessari per il trattamento dei rifiuti;
-
 - c) dell'installazione di posti di raccolta per piccole quantità di rifiuti speciali provenienti dalle economie domestiche e da piccole industrie.
 
 <sup>3</sup> I comuni possono affidare questi compiti a enti di diritto pubblico o a imprese private idonee.
@@ -400,10 +391,6 @@ Il trasporto dei rifiuti urbani su distanze relativamente lunghe deve essere eff
 <sup>1</sup> I comuni provvedono affinché le parti riciclabili dei rifiuti urbani vengano raccolte e riciclate per quanto possibile separatamente.
 
 <sup>2</sup> Essi promuovono il riciclaggio di rifiuti compostabili nei giardini, nelle fattorie o nei quartieri.
-
-**9**
-
-1.1.2011
 
 <sup>3</sup> Per quanto possibile e razionale, essi gestiscono impianti di compostaggio per rifiuti compostabili che non possono essere compostati in modo decentrato o che non possono essere riciclati in altro modo ecocompatibile.
 
@@ -419,7 +406,7 @@ Il trasporto dei rifiuti urbani su distanze relativamente lunghe deve essere eff
 
 **Disposizioni esecutive**
 
-I comuni regolamentano lo smaltimento ecologicamente compatibile dei rifiuti urbani e il suo finanziamento.
+<sup>1</sup> I comuni regolamentano lo smaltimento ecologicamente compatibile dei rifiuti urbani e il suo finanziamento.
 
 #### Art. 39
 
@@ -429,7 +416,7 @@ I comuni regolamentano lo smaltimento ecologicamente compatibile dei rifiuti urb
 
 <sup>2</sup> Nella domanda di costruzione devono essere fornite indicazioni sul genere e sulla quantità di rifiuti che verrà prodotta nell'esecuzione del progetto nonché sul loro smaltimento.
 
-- 3\. COMPITI DEL CANTONE
+### 4.3. Compiti del cantone
 
 #### Art. 40
 
@@ -446,10 +433,6 @@ I comuni regolamentano lo smaltimento ecologicamente compatibile dei rifiuti urb
 <sup>1</sup> A norma del diritto federale, il Servizio può obbligare i loro detentori a riciclare determinati rifiuti.
 
 <sup>2</sup> Esso rilascia il permesso per il ritiro di rifiuti speciali nonché per lo smaltimento di apparecchi elettrici ed elettronici.
-
-**10**
-
-1.1.2011
 
 <sup>3</sup> Esso dispone lo smaltimento di veicoli fuori uso e di loro componenti se i loro detentori, nonostante ingiunzione, si sono sottratti all'obbligo di smaltimento.
 
@@ -472,9 +455,7 @@ I comuni regolamentano lo smaltimento ecologicamente compatibile dei rifiuti urb
 <sup>1</sup> I seguenti impianti per il trattamento dei rifiuti necessitano di un'autorizzazione di gestione del Servizio, prima della loro messa in funzione:
 
 - a) impianti per il trattamento di rifiuti, in modo particolare impianti di incenerimento dei rifiuti, impianti per il compostaggio relativamente grandi nonché posti di raccolta e di selezionamento dei rifiuti edilizi;
-
 - b) depositi temporanei;
-
 - c) discariche.
 
 <sup>2</sup> L'autorizzazione di gestione stabilisce in particolare i tipi di rifiuti ammessi, il controllo all'ingresso, il deposito temporaneo e il trattamento dei rifiuti nonché il controllo di gestione.
@@ -491,31 +472,23 @@ I comuni regolamentano lo smaltimento ecologicamente compatibile dei rifiuti urb
 
 **2. Finanziamento**
 
-A norma del diritto federale, il Cantone riscuote tasse che coprono i costi e che sono conformi al principio di causalità per la costruzione, gestione e manutenzione di impianti di sua proprietà.
-
-**11**
-
-1.1.2011
+<sup>1</sup> A norma del diritto federale, il Cantone riscuote tasse che coprono i costi e che sono conformi al principio di causalità per la costruzione, gestione e manutenzione di impianti di sua proprietà.
 
 #### Art. 46
 
-**Sussidi cantonali ad impianti per il trattamento dei rifiuti**
-
-Il Cantone concede sussidi ad impianti per il trattamento dei rifiuti a norma della legge cantonale sulla protezione delle acque[^46-1].
-
-[^46-1]: CSC 815.100 12 1.1.2011
+**…**
 
 #### Art. 47
 
-**Compensazione dei costi di trasporto**
+**Sussidi cantonali per i trasporti su rotaia**
 
-<sup>1</sup> Per indennizzare gli oneri particolarmente elevati dovuti al trasporto dei rifiuti urbani su lunga distanza, sostenuti dai consorzi per la gestione dei rifiuti, il Cantone effettua dei versamenti a titolo di compensazione pari al massimo al 50 percento dei costi di trasporto eccedenti la media cantonale.
+<sup>1</sup> Il Cantone versa sussidi per un importo di al massimo 250 000 franchi all'anno per i trasporti su rotaia di rifiuti urbani a partire dalle relative stazioni di carico all'impianto d'incenerimento dei rifiuti di Trimmis.
 
-<sup>2</sup> Nella compensazione rientrano tutte le spese per il trasporto ferroviario dei rifiuti urbani, dalla rispettiva stazione di carico fino all'impianto di incenerimento dei rifiuti. I trasporti su strada sono compensati soltanto se non vi è un collegamento ferroviario.
+<sup>2</sup> L'ammontare dei singoli sussidi dipende dalla quantità dei rifiuti trasportati e dalla distanza tra la stazione di carico e l'impianto d'incenerimento dei rifiuti.
 
-<sup>3</sup> Il Governo definisce i costi computabili e disciplina la procedura di sovvenzione.
+<sup>3</sup> Il Governo fissa i sussidi e disciplina la procedura di sussidio.
 
-- 4\. SITI INQUINATI DA RIFIUTI
+### 4.4. SITI INQUINATI DA RIFIUTI
 
 #### Art. 48
 
@@ -529,21 +502,21 @@ Il Cantone concede sussidi ad impianti per il trattamento dei rifiuti a norma de
 
 **Assunzione dei costi**
 
-<sup>1</sup> Il Cantone partecipa con contributi pari al massimo al 40% dei costi computabili al risanamento sostenuto dalla Confederazione di siti contaminati dove siano stati depositati principalmente rifiuti urbani. I sussidi vengono fissati in base alla capacità finanziaria dei comuni.
+<sup>1</sup> …
 
-<sup>2</sup> Se non è possibile accertare chi ha inquinato un sito o nel caso in cui chi ha cagionato l'inquinamento sia insolvente, i costi per il risanamento, dedotto l'indennizzo della Confederazione, vengono assunti dal Cantone e dai comuni d'ubicazione del sito.
+<sup>2</sup> Se non è possibile accertare chi ha inquinato un sito o nel caso in cui chi ha cagionato l'inquinamento sia insolvente, le spese a suo carico per misure necessarie all'indagine, alla sorveglianza e al risanamento di siti inquinati vengono definite spese di perdita. Da tali spese di perdita viene dedotta l'indennità della Confederazione. Le rimanenti spese di perdita vengono assunte in ragione della metà ciascuno dal Cantone e dai comuni d'ubicazione del sito.
 
-<sup>3</sup> I comuni d'ubicazione del sito devono partecipare ai costi di risanamento nella misura del 20 - 60 percento, a seconda della loro capacità finanziaria.
+<sup>3</sup> …
 
-<sup>4</sup> Il Governo emana delle norme per tenere in considerazione la capacità finanziaria dei comuni nonché delle norme sulla quota di spesa da assegnare loro, e disciplina la procedura di contribuzione.
+<sup>4</sup> …
 
-### V. Deterioramento del suolo
+## 5. Deterioramento del suolo
 
 #### Art. 50
 
 **Evitare il deterioramento della struttura fisica del suolo**
 
-Nell'ambito della procedura per il rilascio della licenza edilizia, i comuni dispongono delle misure allo scopo di evitare il costipamento e l'erosione del suolo e assicurano il trattamento adeguato del suolo scavato.
+<sup>1</sup> Nell'ambito della procedura per il rilascio della licenza edilizia, i comuni dispongono delle misure allo scopo di evitare il costipamento e l'erosione del suolo e assicurano il trattamento adeguato del suolo scavato.
 
 #### Art. 51
 
@@ -553,9 +526,9 @@ Nell'ambito della procedura per il rilascio della licenza edilizia, i comuni dis
 
 <sup>2</sup> Se queste misure comportano gravi limitazioni della proprietà, la loro disposizione compete al Governo.
 
-[^51-1]: RS 814.01
+[^51-1]: RS [814.01](https://db.clex.ch/link/Bund/814.01/it)
 
-### VI. Guasti
+## 6. Guasti
 
 #### Art. 52
 
@@ -565,43 +538,39 @@ Nell'ambito della procedura per il rilascio della licenza edilizia, i comuni dis
 
 <sup>2</sup> Le licenze edilizie per aziende che sono soggette all'ordinanza sulla protezione dai guasti devono avere il consenso del Servizio. Condizioni e oneri del Servizio devono essere riportati nella licenza edilizia.
 
-### VII. Rimedi giuridici
+## 7. Rimedi giuridici
 
 #### Art. 53
 
 **Procedura**
 
-<sup>1</sup>[^53-1]Contro le decisioni del Servizio connesse con una licenza edilizia può essere inoltrato ricorso presso il Tribunale amministrativo entro 30 giorni.
+<sup>1</sup> Contro le decisioni del Servizio connesse con una licenza edilizia può essere inoltrato ricorso presso il Tribunale d'appello entro 30 giorni.
 
-<sup>2</sup>[^53-2]Le altre decisioni del Servizio sottostanno a ricorso amministrativo ai sensi della legge sulla giustizia amministrativa[^53-3].
+<sup>2</sup> Le altre decisioni del Servizio sottostanno a ricorso amministrativo ai sensi della legge sulla giustizia amministrativa[^53-1].
 
-<sup>3</sup> …1)
+<sup>3</sup>
 
-[^53-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3418; entrato in vigore il 1° gen. 2007
-[^53-2]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3418; entrato in vigore il 1° gen. 2007
-[^53-3]: CSC 370.100 1.1.2011 13
+[^53-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
-### VIII. Disposizioni penali
+## 8. Disposizioni penali
 
 #### Art. 54
 
 **Violazione del diritto cantonale 1. Contravvenzioni**
 
-<sup>1</sup>[^54-1]Chi viola intenzionalmente o per negligenza la presente legge, gli atti o le disposizioni basati su di essa, è punito con una multa fino a 100 000 franchi.
+<sup>1</sup> Chi viola intenzionalmente o per negligenza la presente legge, gli atti o le disposizioni basati su di essa, è punito con una multa fino a 100 000 franchi.
 
 <sup>2</sup> Nei confronti di chi agisce per fini di lucro, l'autorità penale non è vincolata all'importo massimo di 100 000 franchi.
 
 <sup>3</sup> Il tentativo e la complicità sono punibili.
 
-[^54-1]: Testo giusta numero 24 dell'appendice alla LACPP, FUC 2010, 2471; entrato in vigore il 1° gennaio 2011
-
 #### Art. 55
 
 **2. Applicazione del diritto penale amministrativo federale**
 
-Gli articoli 6 e 7 della legge federale sul diritto penale amministrativo[^55-1] sono applicabili ai reati secondo la presente legge.
+<sup>1</sup> Gli articoli 6 e 7 della legge federale sul diritto penale amministrativo[^55-1] sono applicabili ai reati secondo la presente legge.
 
-[^55-1]: RS 313.0
+[^55-1]: RS [313.0](https://db.clex.ch/link/Bund/313.0/it)
 
 #### Art. 56
 
@@ -611,66 +580,73 @@ Gli articoli 6 e 7 della legge federale sul diritto penale amministrativo[^55-1]
 
 <sup>2</sup> Per l'azione penale e il giudizio delle contravvenzioni citate nella legge federale[^56-1] nonché per le violazioni ai sensi dell'articolo 54 della presente legge è competente il Dipartimento.
 
-[^56-1]: RS 814.01
+<sup>3</sup> I comuni, il servizio specializzato e la Polizia cantonale sono competenti per la riscossione di multe disciplinari secondo quanto previsto dalla legislazione federale in materia di multe disciplinari[^56-2].
 
-### IX. Disposizioni finali
+<sup>4</sup> La procedura si conforma alla legge federale sulle multe disciplinari[^56-3].
+
+[^56-1]: RS [814.01](https://db.clex.ch/link/Bund/814.01/it)
+[^56-2]: RS [741.03](https://db.clex.ch/link/Bund/741.03/it); [741.031](https://db.clex.ch/link/Bund/741.031/it)
+[^56-3]: RS [741.03](https://db.clex.ch/link/Bund/741.03/it)
+
+## 9. Disposizioni finali
 
 #### Art. 57
 
 **Disposizioni esecutive**
 
-Il Governo emana le necessarie disposizioni esecutive[^57-1] della presente legge. Esso disciplina in modo particolare la competenza e la procedura, nella misura in cui la presente legge non contenga alcuna regolamentazione.
+<sup>1</sup> Il Governo emana le necessarie disposizioni esecutive[^57-1] della presente legge. Esso disciplina in modo particolare la competenza e la procedura, nella misura in cui la presente legge non contenga alcuna regolamentazione.
 
-[^57-1]: CSC 820.110 14 1.1.2011
+[^57-1]: CSC [820.110](https://www.gr-lex.gr.ch/data/820.110/it)
 
 #### Art. 58
 
 **Abrogazioni**
 
-Con l'entrata in vigore della presente legge viene abrogata la legge sulla gestione dei rifiuti del 24 settembre 1989[^58-1].
+<sup>1</sup> Con l'entrata in vigore della presente legge viene abrogata la legge sulla gestione dei rifiuti del 24 settembre 1989[^58-1].
 
 [^58-1]: AGS 1989, 2207; AGS 1995, 3411
 
 #### Art. 59
 
-**Modifica del diritto vigente**
+**Modifica del diritto vigente[^59-1]**
 
-La legge d'introduzione della legge federale sulla protezione delle acque dell'8 giugno 1997[^59-1] viene modificata come segue:
-
-[^59-1]: CSC 815.100
-
-#### Art. 31
-
-**cpv. 2:**
-
-Per gli impianti di trattamento dei rifiuti sovvenzionati dalla Confederazione e le installazioni destinate alla protezione delle acque nei pressi di discariche il sussidio del Cantone ammonta al massimo al 25 percento.
-
-[^31_2-1]: Introduzione giusta DGC dell'11 dicembre 2008; M del 26 agosto 2008, 565; PGC 2008/2009, 486; posto in vigore il 1° ottobre 2009
+[^59-1]: Le modifiche del diritto previgente non vengono indicate.
 
 #### Art. 59a
 
-**Contratti in vigore**[^31_2-1]
+**Contratti in vigore**
 
 <sup>1</sup> I contratti stipulati prima del 1° luglio 2007 da comuni e consorzi per la gestione dei rifiuti relativi all'esportazione di rifiuti urbani combustibili in impianti di incenerimento situati fuori Cantone rimangono validi.
 
 <sup>2</sup> I contratti in vigore non possono essere prolungati oltre la durata stabilita; non è ammesso nemmeno un prolungamento tacito.
 
+#### Art. 59b
+
+**Disposizioni transitorie relative alla modifica del 21 ottobre 2019 1. Termine e chiusura**
+
+<sup>1</sup> Gli impianti di tiro esistenti devono essere conformi a quanto prescritto dall'articolo 34a capoverso 1 entro il 31 dicembre 2020. In caso di mancato adempimento gli impianti di tiro vengono chiusi per legge.
+
+<sup>2</sup> Il comune d'ubicazione del sito si occupa di attuare la chiusura e il relativo controllo.
+
+#### Art. 59c
+
+**2. Assunzione dei costi**
+
+<sup>1</sup> Se la chiusura di cui all'articolo 59b non viene osservata, le spese di perdita di cui all'articolo 49 capoverso 2 devono essere sostenute integralmente dai comuni d'ubicazione del sito.
+
 #### Art. 60
 
 **Adeguamento di atti legislativi comunali**
 
-Gli atti legislativi comunali devono essere adeguati alle nuove prescrizioni entro cinque anni dall'entrata in vigore della presente legge.
+<sup>1</sup> Gli atti legislativi comunali devono essere adeguati alle nuove prescrizioni entro cinque anni dall'entrata in vigore della presente legge.
 
 #### Art. 61
 
 **Entrata in vigore**
 
-Il Governo stabilisce la data dell'entrata in vigore della presente legge[^61-1] dopo l'approvazione delle disposizioni giusta l'articolo 37 della legge federale[^61-2] da parte della Confederazione.
+<sup>1</sup> Il Governo stabilisce la data dell'entrata in vigore della presente legge[^61-1] dopo l'approvazione delle disposizioni giusta l'articolo 37 della legge federale[^61-2] da parte della Confederazione.
 
 [^61-1]: Posta in vigore il 1° set. 2002 con DG del 13 ago. 2002. Approvata dal DATEC il 5 mar. 2002.
-[^61-2]: RS 814.01 1.1.2011 15
+[^61-2]: RS [814.01](https://db.clex.ch/link/Bund/814.01/it)
 
-## Altre note
-
-- [4] RS 814.01 1.1.2011 1
-- [1] Abrogazione giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3418; entrata in vigore il 1° gen. 2007
+-
