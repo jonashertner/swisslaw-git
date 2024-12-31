@@ -4,13 +4,12 @@ number: "121.3"
 title: Gesetz betreffend Erwerb und Verlust des Gemeinde- und des Kantonsbürgerrechts
 short: Bürgerrechtsgesetz
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-11-28
+version: 2025-01-01
+version_adopted: 2024-07-03
 adopted: 1992-09-03
 in_force: 1993-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/121.3"
-pdf: "https://bgs.zg.ch/api/de/versions/1709/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2620/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +18,15 @@ pdf: "https://bgs.zg.ch/api/de/versions/1709/pdf_file"
 
 (Bürgerrechtsgesetz)
 
-Vom 3. September 1992 (Stand 1. Januar 2018)
+Vom 3. September 1992 (Stand 1. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung,
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
+
+[^ingress-1]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
 
 ## 1. Begriffe
 
@@ -80,6 +81,21 @@ beschliesst:
 
 <sup>2</sup> Insbesondere ist zu prüfen, ob der Bewerber mit den schweizerischen, kantonalen und örtlichen Lebensgewohnheiten vertraut ist, die mit dem Bürgerrecht verbundenen Rechte und Pflichten kennt und beachten will, genügende Sprachkenntnisse zur Verständigung mit Behörden und Mitbürgern besitzt sowie geordnete persönliche, familiäre und finanzielle Verhältnisse nachweisen kann.
 
+<sup>3</sup> Eingebürgert werden kann nur, wer in den letzten fünf Jahren vor der Einreichung des Einbürgerungsgesuchs und während des Einbürgerungsverfahrens keine Sozialhilfe bezogen oder diese vollständig zurückerstattet hat.
+
+<sup>4</sup> Genügende Sprachkenntnisse weisen Bewerberinnen oder Bewerber auf, die über mündliche Deutschkenntnisse mindestens auf dem Referenzniveau B2 und schriftliche Deutschkenntnisse mindestens auf dem Referenzniveau B1 des in Europa allgemein anerkannten Referenzrahmens für Sprachen verfügen und einen entsprechenden Sprachnachweis erbringen können.
+
+<sup>5</sup> Hat die Direktion des Innern oder der Bürgerrat Zweifel hinsichtlich der genügenden Sprachkenntnisse, kann ein Sprachnachweis nach Abs. 4 verlangt werden, welcher bei der vom Kanton bezeichneten Stelle zu absolvieren ist.
+
+<sup>6</sup> Der Sprachnachweis nach Abs. 4 ist erbracht, wenn die Bewerberin oder der Bewerber
+
+- a) Deutsch als Muttersprache spricht und schreibt;
+- b) während mindestens fünf Jahren die obligatorische Schulzeit in deutscher Sprache absolviert hat;
+- c) eine Ausbildung auf Sekundarstufe II oder Tertiärstufe im deutschsprachigen Raum und in deutscher Sprache abgeschlossen hat; oder
+- d) über einen Sprachnachweis verfügt, der die Sprachkenntnisse nach Abs. 4 bescheinigt und der sich auf ein Sprachnachweisverfahren abstützt, das den allgemein anerkannten Qualitätsstandards für Sprachtests entspricht.
+
+<sup>7</sup> Der Regierungsrat regelt die Einzelheiten.
+
 #### § 6
 
 **Ehegatten**
@@ -96,9 +112,11 @@ beschliesst:
 
 #### § 8
 
-**Unmündige, Bevormundete und Entmündigte**
+**Eigenständiges Einbürgerungsgesuch von Minderjährigen**
 
-<sup>1</sup> Unmündige können nach zurückgelegtem 16. Altersjahr selbstständig das Gesuch um Einbürgerung stellen, jüngere Bewerber und Bevormundete oder Entmündigte nur durch den gesetzlichen Vertreter.
+<sup>1</sup> Minderjährige können frühestens nach dem vollendeten 16. Altersjahr ein eigenständiges Gesuch um Einbürgerung stellen.
+
+<sup>2</sup> Sie werden im Einbürgerungsverfahren durch ihre gesetzliche Vertreterin oder ihren gesetzlichen Vertreter vertreten.
 
 ### 3.2. Gemeindebürgerrecht
 
