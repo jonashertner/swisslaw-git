@@ -4,11 +4,11 @@ title: Verordnung vom 5. Juli 2006 über die Gebühren des Eidgenössischen Inst
 short: GebV-METAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/543"
 language: de
-version: 2013-01-01
+version: 2025-01-01
 adopted: 2006-07-05
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/543/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2006-543-20130101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/543/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-543-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20130101/de"
 
 (GebV-METAS)[^t-1]
 
-vom 5. Juli 2006 (Stand am 1. Januar 2013)
+vom 5. Juli 2006 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)).
 
@@ -71,11 +71,11 @@ Die Gebührenpflicht gilt auch für:
 <sup>2</sup> Der Stundenansatz beträgt:
 
 <table>
-<tr><td>a. für Mitarbeitende des Administrativbereichs</td><td>[tab] Fr. 126.–</td></tr>
-<tr><td>b. für Mitarbeitende der Metrologiebereiche</td><td>[tab] Fr. 215.– [^4-1]</td></tr>
+<tr><td>a. für Mitarbeitende des Administrativbereichs</td><td>Fr. 132.–</td></tr>
+<tr><td>b. für Mitarbeitende der Metrologiebereiche</td><td>Fr. 225.–.[^4-1]</td></tr>
 </table>
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 4803](https://fedlex.data.admin.ch/eli/oc/2009/571)).
+[^4-1]: Fassung gemäss Ziff. I der V des EJDP vom 28. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 759](https://fedlex.data.admin.ch/eli/oc/2024/759)).
 
 #### Art. 4a
 

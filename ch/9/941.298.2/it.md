@@ -4,11 +4,11 @@ title: "Ordinanza del 5 luglio 2006 sugli emolumenti dell'Istituto federale di m
 short: Oem-METAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/543"
 language: it
-version: 2013-01-01
+version: 2025-01-01
 adopted: 2006-07-05
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/543/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2006-543-20130101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/543/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-543-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20130101/it"
 
 (Oem-METAS)[^t-1]
 
-del 5 luglio 2006 (Stato 1° gennaio 2013)
+del 5 luglio 2006 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)).
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ visto l’articolo 19 della legge federale del 17 giugno 2011[^ingress-1] sulla 
 ordina:
 
 [^ingress-1]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)).
 
 #### Art. 1
 
@@ -36,7 +36,7 @@ ordina:
 
 La presente ordinanza disciplina gli emolumenti per le decisioni e le prestazioni dell’Istituto federale di metrologia (METAS).
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)).
 
 #### Art. 2
 
@@ -59,7 +59,7 @@ L’assoggettamento vale anche per:
 - a. le unità amministrative dell’Amministrazione federale centrale ai sensi dell’articolo 6 capoverso 1 lettere a–d dell’ordinanza del 25 novembre 1998[^3-2] sull’organizzazione del Governo e dell’Amministrazione quando queste possono addebitare a terzi le prestazioni del METAS; e
 - b. le autorità e le istituzioni dei Cantoni e dei Comuni quando queste, pur usufruendo delle prestazioni del METAS nell’ambito dell’esecuzione della legge, possono addebitarle a terzi.
 
-[^3-1]: Nuova espressione giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^3-1]: Nuova espr. giusta la cifra I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)). Di detta mod. è stato tenuto conto in tutto il presente testo.
 [^3-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 4
@@ -71,12 +71,12 @@ L’assoggettamento vale anche per:
 <sup>2</sup> La tariffa oraria è di:
 
 <table>
-<tr><td></td><td></td><td>franchi</td></tr>
-<tr><td colspan="2">a. per il personale del settore amministrativo</td><td>[tab] 126.–</td></tr>
-<tr><td colspan="2">b. per i collaboratori del settore metrologico</td><td>[tab] 215.– . [^4-1]</td></tr>
+<tr><td></td><td>franchi</td></tr>
+<tr><td>a. per il personale del settore amministrativo</td><td>132.–</td></tr>
+<tr><td>b. per i collaboratori del settore metrologico</td><td>225.– . [^4-1]</td></tr>
 </table>
 
-[^4-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2009, in vigore dal 1° gen. 2011 ([RU 2009 4803](https://fedlex.data.admin.ch/eli/oc/2009/571)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 759](https://fedlex.data.admin.ch/eli/oc/2024/759)).
 
 #### Art. 4a
 
@@ -84,7 +84,7 @@ L’assoggettamento vale anche per:
 
 Il Dipartimento federale di giustizia e polizia può adeguare, per l’inizio dell’anno successivo, la tariffa oraria all’aumento dell’indice svizzero dei prezzi al consumo, per quanto l’aumento sia almeno del 5 per cento dall’entrata in vigore della presente ordinanza o dall’ultimo adeguamento.
 
-[^4a-1]: Introdotto dal n. I dell’O dell’11 set. 2009, in vigore dal 1° gen. 2011 ([RU 2009 4803](https://fedlex.data.admin.ch/eli/oc/2009/571)).
+[^4a-1]: Introdotto dalla cifra I dell’O dell’11 set. 2009, in vigore dal 1° gen. 2011 ([RU 2009 4803](https://fedlex.data.admin.ch/eli/oc/2009/571)).
 
 #### Art. 5
 
@@ -119,7 +119,7 @@ Il METAS può riscuotere i seguenti supplementi:
 
 L’ordinanza del 6 novembre 2002[^8-1] sugli emolumenti dell’Ufficio federale di metrologia è abrogata.
 
-[^8-1]: [[RU 2002 4342](https://fedlex.data.admin.ch/eli/oc/2002/706); [2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)n.III 5]
+[^8-1]: [[RU 2002 4342](https://fedlex.data.admin.ch/eli/oc/2002/706); [2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)cifra III n. 5]
 
 #### Art. 9
 

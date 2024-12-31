@@ -4,11 +4,11 @@ title: "Ordonnance du 5 juillet 2006 sur les émoluments de l'Institut fédéral
 short: OEm-METAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/543"
 language: fr
-version: 2013-01-01
+version: 2025-01-01
 adopted: 2006-07-05
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/543/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-543-20130101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/543/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-543-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/543/20130101/fr"
 
 (OEm-METAS)[^t-1]
 
-du 5 juillet 2006 (État le 1<sup>er</sup> janvier 2013)
+du 5 juillet 2006 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7245](https://fedlex.data.admin.ch/eli/oc/2012/880)).
 
@@ -72,11 +72,11 @@ Sont également tenus d’acquitter un émolument:
 
 <table>
 <tr><td></td><td>Francs</td></tr>
-<tr><td>a. pour le personnel du secteur administratif</td><td>[tab] 126.–</td></tr>
-<tr><td>b. pour le personnel du secteur métrologie</td><td>[tab] 215.– [^4-1]</td></tr>
+<tr><td>a. pour le personnel du secteur administratif</td><td>132.–</td></tr>
+<tr><td>b. pour le personnel du secteur métrologie</td><td>225.– .[^4-1]</td></tr>
 </table>
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 4803](https://fedlex.data.admin.ch/eli/oc/2009/571)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 759](https://fedlex.data.admin.ch/eli/oc/2024/759)).
 
 #### Art. 4a
 
