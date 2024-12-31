@@ -4,13 +4,12 @@ number: "910.1"
 title: Gesetz über die Landwirtschaft und die Entwicklung des ländlichen Raumes
 short: "Landwirtschaftsgesetz, kLwG"
 language: de
-version: 2024-04-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-16
+version: 2025-01-01
+version_adopted: 2024-05-15
 adopted: 2007-02-08
 in_force: 2007-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/910.1"
-pdf: "https://lex.vs.ch/api/de/versions/3307/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,17 @@ pdf: "https://lex.vs.ch/api/de/versions/3307/pdf_file"
 
 (Landwirtschaftsgesetz, kLwG)
 
-vom 08.02.2007 (Stand 01.04.2024)
+vom 08.02.2007 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen den Artikel 104 der Schweizerischen Bundesverfassung;
+eingesehen Artikel 104 der Bundesverfassung;
 
-eingesehen den Artikel 178 des Bundesgesetzes über die Landwirtschaft vom 29. April 1998;
+eingesehen Artikel 178 des Bundesgesetzes über die Landwirtschaft vom 29. April 1998 (Landwirtschaftsgesetz, LwG);
 
-gestützt auf die Artikel 702 und 703 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907;
+gestützt auf die Artikel 702 und 703 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB);
 
-eingesehen die Artikel 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;
+eingesehen die Artikel 15 Absatz 1 Buchstabe a, 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;
 
 auf Antrag des Staatsrates,
 
@@ -639,6 +638,22 @@ verordnet:
 
 <sup>3</sup> Nur die Gemeinden, deren bestehende Rebbausektoren nachgeprüft, verfeinert und homologiert wurden, dürfen aus der Bezeichnung Grand Cru Nutzen ziehen.
 
+### 4.6 Modernisierung, Anpassung und Aufwertung des Rebbergs
+
+#### Art. 44a
+
+**Grundsatz und Finanzierung**
+
+<sup>1</sup> Der Staatsrat führt ein Projekt zur schrittweisen Umsetzung von nützlichen Massnahmen zur Modernisierung, Anpassung und Aufwertung des Walliser Rebbergs durch.
+
+<sup>1<sup>bis</sup></sup> Das Aufweisen einer Bewirtschaftungseinheit von mindestens 3'000 Quadratmetern ist Voraussetzung für den Erhalt der A-fonds-perdu-Hilfen pro Bewirtschaftungseinheit.
+
+<sup>1<sup>ter</sup></sup> Lassen die topografischen und strukturellen Bedingungen die Schaffung von Bewirtschaftungseinheiten mit mindestens 3'000 Quadratmetern objektiv nicht zu, können auf begründeten Antrag des Gesuchstellers für Bewirtschaftungseinheiten unter 3'000 Quadratmetern, aber mit mindestens 1'000 Quadratmetern, ausnahmsweise Massnahmen bewilligt werden.
+
+<sup>1<sup>quater</sup></sup> Der Staatsrat kann auf dem Verordnungsweg weitere Ausnahmen festlegen.
+
+<sup>2</sup> Der Staatsrat legt, auf dem Verordnungsweg, die Einzelheiten und Voraussetzungen für deren Gewährung sowie die besonderen Rechtsnormen fest.
+
 ## 5 Aufsicht, Kulturpflege und Schutzperimeter
 
 #### Art. 45
@@ -694,6 +709,22 @@ verordnet:
 **Anbringen eines Banns**
 
 <sup>1</sup> Die Gemeinden können durch einen im Amtsblatt veröffentlichten Entscheid gewisse Teile ihres Gebietes für eine bestimmte Dauer unter Bann stellen.
+
+#### Art. 50a
+
+**Baulinien**
+
+<sup>1</sup> Um Nutzungskonflikte zwischen der Bauzone und der für den Reb-, Obst-, Gemüse- oder Ackerbau genutzten Landwirtschaftszone zu begrenzen, werden auf jeder dieser Zonen Baulinien festgelegt, sofern die Bauzone unmittelbar an die landwirtschaftliche Zone angrenzt.
+
+<sup>2</sup> Im Rahmen des Möglichen werden diese Baulinien gleichmässig in jeder der Zonen eingerichtet.
+
+<sup>3</sup> Im Falle besonderer topografischer Bedingungen (starkes Gefälle, Mauer usw.) ist eine Abweichung von diesen Baulinien möglich.
+
+<sup>4</sup> Die Gemeinden übertragen diese Baulinien in jeden neuen Nutzungsplan oder bei der teilweisen oder vollständigen Revision des Nutzungsplans.
+
+<sup>5</sup> Für bestehende Bauten und feste Anlagen innerhalb dieser Baulinien gelten die erworbenen Rechte.
+
+<sup>6</sup> Ein Reglement des Staatsrates legt die Breite dieser Baulinien sowie die Beschränkungen für die Gestaltung und den landwirtschaftlichen Anbau fest.
 
 ## 6 Strukturverbesserungen
 

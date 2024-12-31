@@ -4,13 +4,12 @@ number: "910.1"
 title: "Loi sur l'agriculture et le développement rural"
 short: "Loi sur l'agriculture, LcAgr"
 language: fr
-version: 2024-04-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-16
+version: 2025-01-01
+version_adopted: 2024-05-15
 adopted: 2007-02-08
 in_force: 2007-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/910.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3307/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3450/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,17 +18,17 @@ pdf: "https://lex.vs.ch/api/fr/versions/3307/pdf_file"
 
 (Loi sur l'agriculture, LcAgr)
 
-du 08.02.2007 (état 01.04.2024)
+du 08.02.2007 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
 vu l'article 104 de la Constitution fédérale;
 
-vu l'article 178 de la loi fédérale sur l'agriculture du 29 avril 1998;
+vu l'article 178 de la loi fédérale sur l'agriculture du 29 avril 1998 (Loi sur l’agriculture, LAgr);
 
-vu les articles 702 et 703 du code civil suisse du 10 décembre 1907;
+vu les articles 702 et 703 du code civil suisse du 10 décembre 1907 (CC);
 
-vu les articles 31 alinéa 1 lettre a et 42 alinéa 1 de la Constitution cantonale;
+vu les articles 15 alinéa 1 lettre a, 31 alinéa 1 lettre a et 42 alinéa 1 de la Constitution cantonale;
 
 sur la proposition du Conseil d'Etat,
 
@@ -639,6 +638,22 @@ ordonne:
 
 <sup>3</sup> Seules les communes dont les secteurs d'encépagement existants ont été revus, affinés et homologués peuvent bénéficier de l'appellation Grand Cru.
 
+### 4.6 Modernisation, adaptation et valorisation du vignoble
+
+#### Art. 44a
+
+**Principes et financement**
+
+<sup>1</sup> Le Conseil d’Etat met en œuvre un projet de réalisation, par étape, des mesures utiles à la modernisation, à l'adaptation et à la valorisation du vignoble valaisan.
+
+<sup>1<sup>bis</sup></sup> La présence d'une unité de production d'au moins 3'000 mètres carrés est la condition préalable à l'obtention des aides à fonds perdus à l'unité de production.
+
+<sup>1<sup>ter</sup></sup> Si les conditions topographiques et structurelles ne permettent objectivement pas la création d'unités de production d'au moins 3'000 mètres carrés, des mesures peuvent être exceptionnellement autorisées pour des unités de production de moins de 3'000 mètres carrés, mais d'au moins 1'000 mètres carrés, sur requête motivée du demandeur.
+
+<sup>1<sup>quater</sup></sup> Le conseil d'Etat peut fixer d'autres exceptions par voie d'ordonnance.
+
+<sup>2</sup> Le Conseil d'Etat fixe, par voie d'ordonnance, les modalités et les conditions d’octroi, ainsi que les règles de droit particulières.
+
 ## 5 Surveillance, entretien des cultures et zones de protection
 
 #### Art. 45
@@ -694,6 +709,22 @@ ordonne:
 **Mise à ban**
 
 <sup>1</sup> Les communes peuvent, par décision publiée dans le Bulletin Officiel, prononcer la mise à ban de certaines parties de leur territoire pour une période donnée.
+
+#### Art. 50a
+
+**Alignements**
+
+<sup>1</sup> Afin de limiter les conflits d'usage entre la zone constructible et la zone agricole affectée aux cultures viticoles, arboricoles, maraîchères ou aux grandes cultures, des alignements sur chacune de ces zones sont définis lorsque la zone constructible jouxte immédiatement la zone agricole précitée.
+
+<sup>2</sup> Dans la mesure du possible, ces alignements sont définis de façon paritaire sur chacune des zones.
+
+<sup>3</sup> En cas de conditions topographiques particulières (forte pente, mur, etc.) une dérogation à ces alignements est possible.
+
+<sup>4</sup> Les communes reportent ces alignements lors de tout nouveau plan d'affectation ou de toute révision de plan d'affectation, même partielle.
+
+<sup>5</sup> Les constructions et aménagements fixes existants à l'intérieur de ces alignements bénéficient du droit acquis.
+
+<sup>6</sup> Un règlement du Conseil d'Etat fixe la largeur de ces alignements ainsi que les restrictions d'aménagement et de culture agricole.
 
 ## 6 Amélioration de structures
 
