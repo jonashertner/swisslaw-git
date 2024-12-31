@@ -4,13 +4,13 @@ number: "651.712"
 title: Verordnung über die Quellensteuer
 short: QStV-AG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-22
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-04
 adopted: 2020-11-11
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.712"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3678/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3710/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3678/pdf_file"
 
 (QStV-AG)
 
-Vom 11.11.2020 (Stand 01.01.2024)
+Vom 11.11.2020 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
