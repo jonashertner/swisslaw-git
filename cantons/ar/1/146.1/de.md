@@ -4,13 +4,12 @@ number: "146.1"
 title: Gesetz über den Datenschutz
 short: Datenschutzgesetz
 language: de
-version: 2019-06-01
-valid_until: 2024-12-31
-version_adopted: 2018-09-24
+version: 2025-01-01
+version_adopted: 2024-06-17
 adopted: 2001-06-18
 in_force: 2002-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/146.1"
-pdf: "https://ar.clex.ch/api/de/versions/1262/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1547/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1262/pdf_file"
 
 (Datenschutzgesetz)
 
-vom 18.06.2001 (Stand 01.06.2019)
+vom 18.06.2001 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Appenzell A.Rh.,
 
@@ -44,17 +43,19 @@ beschliesst:
 
 <sup>1</sup> Öffentliches Organ (Organ) ist, wer öffentliche Aufgaben des Kantons, der Gemeinden oder von Körperschaften und Anstalten des öffentlichen Rechts erfüllt.
 
-<sup>2</sup> Personendaten (Daten) sind Angaben über eine natürliche oder juristische Person oder über eine Personenvereinigung (betroffene Person), soweit diese bestimmt oder bestimmbar ist.
+<sup>2</sup> Personendaten (Daten) sind Angaben über eine natürliche Person oder über eine Personenvereinigung (betroffene Person), soweit diese bestimmt oder bestimmbar ist.
 
 <sup>3</sup> Besonders schützenswerte Personendaten sind Daten über
 
 - a) religiöse, weltanschauliche oder politische Ansichten und Tätigkeiten,
-- b) die Intimsphäre, die Gesundheit oder die Rassenzugehörigkeit sowie
-- c) fürsorgerische, vormundschaftliche und strafrechtliche Verfahren und Massnahmen.
+- b) die Intimsphäre, die Gesundheit, die ethnische Herkunft sowie genetische oder biometrische Daten,
+- c) Verfahren und Massnahmen im Bereich des Kindes- und Erwachsenenschutzes, der Sozialhilfe und des Strafrechts.
 
 <sup>4</sup> Ein Persönlichkeitsprofil ist eine Zusammenstellung von Daten, die eine Beurteilung wesentlicher Aspekte der Persönlichkeit einer natürlichen Person erlaubt.
 
 <sup>5</sup> Eine Bearbeitung von Personendaten ist jeder Umgang mit Daten, wie die Beschaffung, Aufbewahrung, Verwendung, Veränderung, Bekanntgabe oder Vernichtung.
+
+<sup>5<sup>bis</sup></sup> Profiling ist die automatisierte Bearbeitung von Daten zur Bewertung wesentlicher Aspekte einer natürlichen Person, insbesondere um ihre Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönlichen Vorlieben, Interessen, Zuverlässigkeit, ihr Verhalten, ihren Aufenthaltsort oder Ortswechsel zu analysieren oder vorherzusagen.
 
 <sup>6</sup> Eine Datensammlung ist eine Sammlung von Daten, die nach der betroffenen Person erschlossen oder erschliessbar ist.
 
@@ -62,19 +63,17 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz gilt, soweit nicht eidgenössisches oder weitergehendes kantonales[^3-1] Recht anwendbar ist, für jede Bearbeitung von Daten, unabhängig von den dabei angewandten Mitteln und Verfahren.
+<sup>1</sup> Dieses Gesetz gilt, soweit nicht eidgenössisches oder besonderes kantonales Recht vorgeht, für jede Bearbeitung von Daten, unabhängig von den dabei angewandten Mitteln und Verfahren.
 
-<sup>2</sup> Dem Gesetz unterstehen alle Organe mit Ausnahme derjenigen der kirchlichen Körperschaften sowie Private, die öffentliche Aufgaben erfüllen; vorbehalten bleibt Art. 8 Abs. 3.
-
-[^3-1]: Namentlich Zivilprozessordnung (bGS [231.1](https://ar.clex.ch/data/231.1/de)), G über den Strafprozess (bGS [321.1](https://ar.clex.ch/data/321.1/de)), G über das Verwaltungsverfahren (bGS [143.5](https://ar.clex.ch/data/143.5/de)) und V über die Rechtsstellung der Patienten und Patientinnen der kantonalen Spitäler (bGS [812.112](https://ar.clex.ch/data/812.112/de)).
+<sup>2</sup> Dem Gesetz unterstehen alle Organe mit Ausnahme derjenigen der kirchlichen Körperschaften; vorbehalten bleiben Art. 8 Abs. 3 und Art. 15.
 
 #### Art. 4
 
 **Zulässigkeit der Bearbeitung**
 
-<sup>1</sup> Organe dürfen Daten bearbeiten, wenn dies für die Erfüllung einer gesetzlichen Aufgabe erforderlich ist.
+<sup>1</sup> Organe dürfen Daten bearbeiten, wenn und solange dies für die Erfüllung einer gesetzlichen Aufgabe erforderlich ist.
 
-<sup>2</sup> Besonders schützenswerte Daten und Persönlichkeitsprofile dürfen nur bearbeitet werden, wenn es für die in einem formellen Gesetz klar umschriebene Aufgabe unentbehrlich ist.
+<sup>2</sup> Besonders schützenswerte Daten und Persönlichkeitsprofile dürfen nur bearbeitet werden, wenn es für die in einem formellen Gesetz klar umschriebene Aufgabe unentbehrlich ist. Sinngemäss gilt dies auch für jedes Profiling.
 
 <sup>3</sup> Die Daten dürfen nicht wider Treu und Glauben und nur zu dem bei der Beschaffung angegebenen, aus den Umständen ersichtlichen oder gesetzlich vorgeschriebenen Zweck bearbeitet werden.
 
@@ -100,16 +99,33 @@ beschliesst:
 
 #### Art. 7
 
-**Beschaffung und Bearbeitung**
+**Informationspflicht**
 
-<sup>1</sup> Die Beschaffung von Daten muss für die betroffene Person erkennbar sein.
+<sup>1</sup> Das verantwortliche Organ ist verpflichtet, die betroffenen Personen in geeigneter Form über die Beschaffung von Daten zu informieren; die Informationspflicht besteht auch dann, wenn die Daten bei Dritten beschafft werden.
 
-<sup>2</sup> Diese Anforderung muss nicht erfüllt sein, wenn
+<sup>2</sup> Die Informationspflicht umfasst die Angaben, die erforderlich sind, um die Rechte nach diesem Gesetz ausüben zu können. Dazu gehören mindestens:
 
-- a) die betroffene Person ihre Daten allgemein zugänglich gemacht hat oder
-- b) die Erkennbarkeit die Erfüllung der Aufgabe vereiteln würde.
+- a) die Identität und die Kontaktdaten des verantwortlichen Organs;
+- b) die Rechtsgrundlage und der Zweck der Datenbearbeitung;
+- c) die Kategorien der bearbeiteten Daten;
+- d) der Empfängerkreis, falls Daten weitergegeben werden;
+- e) die Kontaktdaten des Datenschutz-Kontrollorgans.
 
-<sup>3</sup> Auf Ersuchen sind der betroffenen Person die Rechtsgrundlage und der Zweck der Bearbeitung, die Kategorien der bearbeiteten Daten, die an der Datensammlung Beteiligten und die Datenempfängerinnen und Datenempfänger bekannt zu geben.
+<sup>3</sup> Die Informationspflicht entfällt, wenn
+
+- a) die betroffene Person bereits über die entsprechenden Angaben verfügt;
+- b) aus der Rechtsgrundlage der Datenbearbeitung klar hervorgeht, welche Daten zu welchem Zweck bearbeitet werden;
+- c) die Information einen unverhältnismässigen Aufwand erfordert oder sonst überwiegende öffentliche Interessen dagegen sprechen.
+
+#### Art. 7a
+
+**Datenschutz-Folgenabschätzung**
+
+<sup>1</sup> Vor jeder systematischen Bearbeitung von Personendaten prüft das verantwortliche Organ das Risiko für eine damit verbundene Beeinträchtigung von Grundrechten der betroffenen Personen und beschränkt es soweit möglich und zumutbar durch technische und organisatorische Massnahmen.
+
+<sup>2</sup> Ist das Risiko für eine Beeinträchtigung von Grundrechten hoch, insbesondere nach Art, Umfang, Umständen oder Zweck der Bearbeitung, so sind Folgenabschätzung und Massnahmen zu dokumentieren und dem Datenschutz-Kontrollorgan zur Vorabkonsultation vorzulegen.
+
+<sup>3</sup> Die Dokumentation enthält wenigstens eine allgemeine Beschreibung der geplanten Bearbeitungsvorgänge, eine Bewertung der Risiken und eine Darstellung und Bewertung der Massnahmen.
 
 #### Art. 8
 
@@ -206,13 +222,29 @@ beschliesst:
 
 **Bearbeitung durch Drittpersonen**
 
-<sup>1</sup> Überträgt das Organ die Bearbeitung von Daten einer Drittperson, so stellt es den Datenschutz durch Auflagen, durch Vereinbarungen oder auf andere Weise sicher.
+<sup>1</sup> Eine Datenbearbeitung kann, sofern keine gesetzliche oder vertragliche Regelung entgegensteht, einer Drittperson übertragen werden. Die Drittperson darf die Daten nur so bearbeiten, wie das auftraggebende Organ selbst es tun dürfte.
+
+<sup>2</sup> Das auftraggebende Organ vergewissert sich vor der Übertragung, dass die Drittperson in der Lage ist, die Datensicherheit zu gewährleisten. Es stellt den Datenschutz durch Auflagen, Vereinbarungen oder auf andere Weise sicher.
+
+<sup>3</sup> Die weitere Übertragung durch die Drittperson bedarf der vorgängigen schriftlichen Zustimmung des auftraggebenden Organs.
 
 #### Art. 16
 
 **Datensicherheit**
 
 <sup>1</sup> Wer Daten bearbeitet, sichert sie durch technische und organisatorische Vorkehrungen vor Verlust, Entwendung sowie unbefugter Kenntnisnahme und Bearbeitung.
+
+#### Art. 16a
+
+**Meldung von Verletzungen der Datensicherheit**
+
+<sup>1</sup> Wenn eine Verletzung der Datensicherheit dazu führt, dass Daten verlorengehen, vernichtet oder verändert oder Unbefugten zugänglich gemacht werden, meldet das verantwortliche Organ dies unverzüglich dem Datenschutz-Kontrollorgan und orientiert mitbetroffene Datenempfänger. Besteht kein Risiko für eine Beeinträchtigung von Grundrechten, entfällt die Meldepflicht.
+
+<sup>2</sup> Das verantwortliche Organ informiert in Absprache mit dem Datenschutz-Kontrollorgan die betroffene Person, wenn es zu ihrem Schutz erforderlich ist oder anderweitig zur Wahrung der Grundrechte angezeigt erscheint.
+
+<sup>3</sup> Es kann die Information an die betroffene Person einschränken oder darauf verzichten, wenn öffentliche oder private Geheimhaltungsinteressen überwiegen.
+
+<sup>4</sup> Geschieht die Verletzung der Datensicherheit bei einer Bearbeitung durch eine Drittperson, hat diese unverzüglich das auftraggebende Organ zu benachrichtigen. Dieses hat sodann gemäss Abs. 1 bis 3 vorzugehen.
 
 #### Art. 17
 
@@ -304,49 +336,69 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das verantwortliche Organ entscheidet über Gesuche gemäss Art. 21 bis 25. Die Verfügungen sind dem Datenschutz-Kontrollorgan zuzustellen.
+<sup>1</sup> Das verantwortliche Organ entscheidet über Gesuche gemäss Art. 21 bis 24. Die Verfügungen sind dem Datenschutz-Kontrollorgan zuzustellen. Mitbetroffene Datenempfänger sind über Berichtigungen und andere Massnahmen zu informieren.
 
-<sup>2</sup> Die Verfügung kann mit Rekurs[^25-1] angefochten werden.
+<sup>2</sup> Verfahren und Rechtsschutz richten sich nach dem Gesetz über die Verwaltungsrechtspflege[^25-1]. Das Datenschutz-Kontrollorgan ist zur Erhebung von Rechtmitteln berechtigt.
 
-<sup>3</sup> Verfügungen eines Departements oder des Gemeinderates können an das Obergericht weitergezogen werden, ebenso Verfügungen oberster Organe öffentlich-rechtlicher Körperschaften und Anstalten.
+<sup>3–4</sup> …
 
-<sup>4</sup> Die Einzelrichterin oder der Einzelrichter des Obergerichtes entscheidet im summarischen Verfahren.[^25-2]
-
-[^25-1]: Vgl. Art. 30 ff. des G über die Verwaltungsrechtspflege (bGS [143.1](https://ar.clex.ch/data/143.1/de)).
-[^25-2]: Vgl. Art. 221 bis 228 der Zivilprozessordnung (bGS [231.1](https://ar.clex.ch/data/231.1/de)).
+[^25-1]: VRPG (bGS [143.1](https://ar.clex.ch/data/143.1/de))
 
 ## V. Aufsicht
 
 #### Art. 26
 
-**Aufsichtsorgan**
+**Datenschutz-Kontrollorgan**
 
-<sup>1</sup> Der Kantonsrat wählt ein kantonales Datenschutz-Kontrollorgan als unabhängiges und nicht weisungsgebundenes Aufsichtsorgan.
+<sup>1</sup> Der Kantonsrat wählt eine in Datenschutzfragen ausgewiesene Fachperson als unabhängiges und nicht weisungsgebundenes kantonales Datenschutz-Kontrollorgan. Die Wahl erfolgt auf eine Amtsdauer von vier Jahren; Wiederwahl ist zulässig.
+
+<sup>1<sup>bis</sup></sup> Das Datenschutz-Kontrollorgan darf keine andere öffentliche oder private Tätigkeit ausüben, welche die Unabhängigkeit oder das Ansehen des Amtes beeinträchtigen könnte.
 
 <sup>2</sup> Das kantonale Datenschutz-Kontrollorgan übt die Aufsicht über die Anwendung dieses Gesetzes durch den Kanton, die Gemeinden und die öffentlich-rechtlichen Körperschaften und Anstalten aus. Die Kosten trägt der Kanton.
 
-<sup>3</sup> Der Kantonsrat ist befugt, die Aufgabe des Aufsichtsorgans einer kantonsübergreifenden Datenschutzstelle zu übertragen.
+<sup>2<sup>bis</sup></sup> Der Kantonsrat regelt die Entschädigung des Datenschutz-Kontrollorgans mit einer Leistungsvereinbarung. Er kann anstelle der Leistungsvereinbarung eine Unterstellung unter das Personalrecht des Kantons vorsehen; die Unabhängigkeit des Datenschutz-Kontrollorgans darf dadurch nicht beeinträchtigt werden.
+
+<sup>3</sup> Der Kantonsrat ist befugt, die Aufgabe des Datenschutz-Kontrollorgans einer kantonsübergreifenden Datenschutzstelle zu übertragen.
 
 #### Art. 27
 
 **Aufgaben**
 
-<sup>1</sup> Das Aufsichtsorgan
+<sup>1</sup> Das Datenschutz-Kontrollorgan
 
 - a) überwacht die Einhaltung der Vorschriften über den Datenschutz,
-- b) berät die betroffenen Personen über ihre Rechte,
-- c) vermittelt zwischen den betroffenen Personen und verantwortlichen Organen,
-- d) berät die öffentlichen Organe in Fragen des Datenschutzes,
-- e) prüft Bearbeitungsmethoden vorab, die geeignet sind, die Persönlichkeit einer grösseren Anzahl von Personen zu verletzen,
-- f) arbeitet zur Erfüllung der Kontrollaufgaben mit den Kontrollorganen der anderen Kantone, des Bundes und des Auslandes zusammen,
-- g) beantragt dem Kantonsrat im Rahmen des Voranschlags die notwendigen Kredite,
+- b) informiert die Öffentlichkeit über den Datenschutz und berät betroffene Personen über ihre Rechte,
+- c) behandelt Anzeigen betreffend die Verletzung von Datenschutzvorschriften,
+- d) berät die öffentlichen Organe in Fragen des Datenschutzes und kann allgemeine Empfehlungen über den Umgang mit Personendaten erlassen,
+- e) prüft Bearbeitungsmethoden vorab, wenn ein hohes Risiko für eine Beeinträchtigung von Grundrechten besteht,
+- e<sup>bis</sup>) nimmt Stellung zu Erlassen, die für den Datenschutz erheblich sind,
+- f) arbeitet zur Erfüllung der Kontrollaufgaben mit den Kontrollorganen der anderen Kantone, des Bundes und des Auslandes zusammen und verfolgt die für den Schutz von Personendaten massgeblichen technischen und rechtlichen Entwicklungen,
+- g) ermittelt die erforderlichen Personal- und Sachressourcen und beantragt dem Kantonsrat im Rahmen des Voranschlags die notwendigen Kredite,
 - h) erstattet dem Kantonsrat jährlich Bericht über seine Tätigkeit.
 
-<sup>2</sup> Das Aufsichtsorgan kann bei den verantwortlichen Organen und bei beauftragten Dritten Auskünfte über die Datenbearbeitung einholen und Einsicht in die bearbeiteten Daten nehmen.
+<sup>2–4</sup> …
 
-<sup>3</sup> Es kann die offensichtliche Gefährdung oder Verletzung von Rechten betroffener Personen bei der dem verantwortlichen Organ vorgesetzten Behörde anzeigen.
+#### Art. 27a
 
-<sup>4</sup> Dem Aufsichtsorgan stehen keine Entscheidbefugnisse zu. Es ist berechtigt, zur Wahrung der Datenschutzvorschriften Rechtsmittel zu ergreifen.
+**Untersuchung**
+
+<sup>1</sup> Das Datenschutz-Kontrollorgan eröffnet von Amtes wegen oder auf Anzeige hin eine Untersuchung, wenn Anzeichen für eine Verletzung von Datenschutzvorschriften bestehen. Es kann eine Datenbearbeitung für die Dauer der Untersuchung vorsorglich untersagen oder einschränken.
+
+<sup>2</sup> Die verantwortlichen Organe und ihre Beauftragten sind dem Datenschutz-Kontrollorgan gegenüber zur Auskunft verpflichtet und gewähren ihm den Zugang zu allen Unterlagen und Daten, die für die Untersuchung erforderlich sind. Das Datenschutz-Kontrollorgan kann sich Datenbearbeitungen vorführen lassen und Auskünfte bei Empfängern von Daten einholen.
+
+<sup>3</sup> Das Datenschutz-Kontrollorgan informiert den Anzeiger innerhalb von drei Monaten über das Ergebnis oder den Stand der Untersuchung.
+
+#### Art. 27b
+
+**Abhilfemassnahmen**
+
+<sup>1</sup> Stellt das Datenschutz-Kontrollorgan eine wesentliche Verletzung von Datenschutzvorschriften fest, entscheidet es verbindlich über geeignete Abhilfemassnahmen und setzt dem verantwortlichen Organ eine angemessene Frist für deren Umsetzung. Es kann insbesondere anordnen, dass Personendaten gelöscht oder vernichtet oder Datenbearbeitungen angepasst oder eingestellt werden.
+
+<sup>2</sup> Das Datenschutz-Kontrollorgan orientiert die Aufsichtsbehörde des verantwortlichen Organs über die angeordneten Abhilfemassnahmen.
+
+<sup>3</sup> Verfügungen über Abhilfemassnahmen können nach Massgabe des VRPG[^27b-1] mit Beschwerde beim Obergericht angefochten werden.
+
+[^27b-1]: bGS [143.1](https://ar.clex.ch/data/143.1/de)
 
 ## VI. Gebühren
 
@@ -354,7 +406,7 @@ beschliesst:
 
 **Kostenpflicht**
 
-<sup>1</sup> Die Auskunft, die Gewährung von Einsicht und die Sperrung von Daten[^28-1] erfolgen kostenlos.
+<sup>1</sup> Die Auskunft, die Gewährung von Einsicht, die Berichtigung und die Sperrung von Daten[^28-1] erfolgen kostenlos.
 
 <sup>2</sup> Eine Gebühr kann verlangt werden, wenn
 
@@ -363,21 +415,14 @@ beschliesst:
 
 <sup>3</sup> Die Anwendung besonderer Gebührentarife[^28-2] auf andere Verrichtungen bleibt vorbehalten.
 
-[^28-1]: Art. 12 und 21 bis 23 dieses Gesetzes.
+[^28-1]: Art. 11 und 21 bis 23 dieses Gesetzes.
 [^28-2]: Vgl. vor allem das G über die Gebühren in Verwaltungssachen (bGS [233.2](https://ar.clex.ch/data/233.2/de)), die V über die Rechtskosten und Entschädigungen in der Zivil- und Strafrechtspflege (bGS [233.3](https://ar.clex.ch/data/233.3/de)) und das G über die Gebühren der Gemeinden (bGS [153.2](https://ar.clex.ch/data/153.2/de)).
 
 ## VII. Schlussbestimmungen
 
 #### Art. 29
 
-**Regierungsrat**
-
-<sup>1</sup> Der Regierungsrat erlässt die für den Vollzug dieses Gesetzes erforderlichen Bestimmungen und Weisungen.
-
-<sup>2</sup> Er kann im Rahmen des Gesetzes ergänzende Vorschriften erlassen, namentlich
-
-- a) im Bereich des Gesundheits- und Polizeiwesens und
-- b) über die Geschäftsführung des kantonalen Datenschutz-Kontrollorgans.
+**…**
 
 #### Art. 30
 
