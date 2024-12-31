@@ -3,20 +3,19 @@ canton: BL
 number: "365.21"
 title: Verordnung über die Handschin-Stiftung
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-01-22
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 1993-03-09
 in_force: 1993-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/365.21"
-pdf: "https://bl.clex.ch/api/de/versions/2372/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4091/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Handschin-Stiftung
 
-Vom 09.03.1993 (Stand 01.01.2019)
+Vom 09.03.1993 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft erlässt für das von Heinrich Handschin durch Testament vom 20. Oktober 1892 dem Kanton vermachte Stiftungsvermögen folgende Verordnung:
 
@@ -36,6 +35,11 @@ Der Regierungsrat des Kantons Basel-Landschaft erlässt für das von Heinrich Ha
 <sup>1</sup> Die Aufsicht über die Handschin-Stiftung wird durch eine Kommission von 5 Mitgliedern vorgenommen. Das Präsidium dieser Kommission übernimmt der jeweilige Vorsteher oder die jeweilige Vorsteherin der Finanz- und Kirchendirektion. Die übrigen Mitglieder werden vom Regierungsrat auf eine Amtsdauer von 4 Jahren gewählt.
 
 <sup>2</sup> Die Kommission konstituiert sich im übrigen selbst. Sie kann die Geschäftsführung der Stiftung einer Drittperson übergeben.
+
+<sup>3</sup> Kommissionsmitglieder treten bei Vorbereitung, Beratung und Beschlussfassung in den Ausstand, wenn sie:
+
+- a. in der Sache ein persönliches Interesse haben oder
+- b. aus anderen Gründen in der Sache befangen sein könnten, insbesondere wegen Verwandtschaft oder Lebensgemeinschaft.
 
 #### § 3
 
@@ -59,9 +63,11 @@ Der Regierungsrat des Kantons Basel-Landschaft erlässt für das von Heinrich Ha
 
 #### § 5
 
-**Kontrollstelle**
+**Revisionsstelle**
 
-<sup>1</sup> Kontrollstelle ist die Kantonale Finanzkontrolle. Sie überprüft jährlich die Rechnungsführung und die Vermögensanlagen und erstattet der Kommission zu Handen des Regierungsrates Bericht.
+<sup>1</sup> Der Regierungsrat ernennt eine Revisionsstelle.
+
+<sup>2</sup> Die Revisionsstelle prüft jährlich die Rechnungsführung und die Vermögensanlagen und erstattet der Kommission zuhanden des Regierungsrats Bericht.
 
 #### § 6
 
