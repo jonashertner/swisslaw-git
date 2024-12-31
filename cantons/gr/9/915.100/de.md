@@ -3,31 +3,32 @@ canton: GR
 number: "915.100"
 title: Meliorationsgesetz des Kantons Graubünden
 language: de
-version: 2008-01-01
-corrected: 2014-10-09
-version_adopted: 2007-04-18
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2022-06-14
 adopted: 1981-04-05
 in_force: 1981-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/915.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1790/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3426/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Meliorationsgesetz des Kantons Graubünden
 
-Vom Volke angenommen am 5. April 1981[^t-1]
+Vom 05.04.1981 (Stand 01.01.2025)
 
-I. Allgemeine Vorschriften
+Vom Volke angenommen am 5. April 1981[^ingress-1]
 
-[^t-1]: B vom 30. Juni 1980, 169; GRP 1980/81; 205 (1. Lesung); GRP 1980/81, 449,
+[^ingress-1]: B vom 30. Juni 1980, 169; GRP 1980/81; 205 (1. Lesung); GRP 1980/81, 449, 456 (2. Lesung)
+
+## 1. Allgemeine Vorschriften
 
 #### Art. 1
 
 **Begriff und Zweck**
 
-Meliorationen sind Massnahmen, Werke und landwirtschaftliche Hoch- und Tiefbauten, die den Zweck haben, die Ertragsfähigkeit des Bodens zu erhalten oder zu steigern, seine Bewirtschaftung zu erleichtern oder ihn vor Verwüstung oder Zerstörung durch Naturereignisse zu schützen.
+<sup>1</sup> Meliorationen sind Massnahmen, Werke und landwirtschaftliche Hoch- und Tiefbauten, die den Zweck haben, die Ertragsfähigkeit des Bodens zu erhalten oder zu steigern, seine Bewirtschaftung zu erleichtern oder ihn vor Verwüstung oder Zerstörung durch Naturereignisse zu schützen.
 
 #### Art. 2
 
@@ -36,13 +37,9 @@ Meliorationen sind Massnahmen, Werke und landwirtschaftliche Hoch- und Tiefbaute
 <sup>1</sup> Dieses Gesetz regelt:
 
 - a) die land- und forstwirtschaftliche Güterzusammenlegung sowie Gesamtmeliorationen im Sinne von Artikel 12 Absatz 2;
-
 - b) die im Rahmen der Gesamtumlegung durchgeführten land- und forstwirtschaftlichen Güterzusammenlegungen;
-
 - c) die anderen gemeinschaftlichen Bodenverbesserungen;
-
 - d) Einzelunternehmen;
-
 - e) die Beitragsleistungen an Meliorationen.
 
 <sup>2</sup> Das Gesetz findet Anwendung auf alle Liegenschaften im Beizugsgebiet einschliesslich der daran bestehenden dinglichen Rechte.
@@ -51,7 +48,7 @@ Meliorationen sind Massnahmen, Werke und landwirtschaftliche Hoch- und Tiefbaute
 
 **Umwelt**
 
-Bei der Durchführung von Meliorationen ist den allgemeinen Interessen der Umwelt, insbesondere dem Schutz der Natur und der Wahrung des Orts- und Landschaftsbildes, angemessen Rechnung zu tragen.
+<sup>1</sup> Bei der Durchführung von Meliorationen ist den allgemeinen Interessen der Umwelt, insbesondere dem Schutz der Natur und der Wahrung des Orts- und Landschaftsbildes, angemessen Rechnung zu tragen.
 
 #### Art. 4
 
@@ -69,7 +66,7 @@ Bei der Durchführung von Meliorationen ist den allgemeinen Interessen der Umwel
 
 <sup>2</sup> Dieses hat sich in der Regel über ein natürlich oder wirtschaftlich abgegrenztes Gebiet zu erstrecken, das sich für die landwirtschaftliche Nutzung eignet oder dieser dient.
 
-### <sup>1)</sup> Art. 6
+#### Art. 6
 
 **Zuständigkeit zur Festlegung des Beizugsgebietes**
 
@@ -77,9 +74,7 @@ Bei der Durchführung von Meliorationen ist den allgemeinen Interessen der Umwel
 
 <sup>2</sup> Analog ist bei Änderungen des Beizugsgebietes zu verfahren. Bei den durch eine Genossenschaft durchgeführten Meliorationen tritt in diesem Falle anstelle des Gemeindevorstandes der Genossenschaftsvorstand.
 
-<sup>3</sup>[^hsup1supArt6-1]Der Entscheid des Departementes kann mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
-
-[^hsup1supArt6-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3328, am 1. Januar 2007 in Kraft getreten.
+<sup>3</sup> Der Entscheid des Departementes kann mit Beschwerde an das Obergericht weitergezogen werden.
 
 #### Art. 7
 
@@ -95,9 +90,7 @@ Bei der Durchführung von Meliorationen ist den allgemeinen Interessen der Umwel
 
 <sup>1</sup> Der Anschluss weiterer Unternehmen ist zu gestatten, wenn die natürlichen und technischen Voraussetzungen dies zulassen.
 
-<sup>2</sup>[^8-1]Kommt über den Anschluss keine Einigung zustande, entscheidet die Regierung endgültig. Diese setzt für die erbrachten Leistungen eine angemessene Vergütung fest.
-
-[^8-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3328, am 1. Januar 2007 in Kraft getreten. 2 1.01.2008
+<sup>2</sup> Kommt über den Anschluss keine Einigung zustande, entscheidet die Regierung endgültig. Diese setzt für die erbrachten Leistungen eine angemessene Vergütung fest.
 
 #### Art. 9
 
@@ -107,29 +100,25 @@ Bei der Durchführung von Meliorationen ist den allgemeinen Interessen der Umwel
 
 <sup>2</sup> Die Auflösung der Genossenschaft bedarf der Genehmigung des zuständigen Departementes.
 
-<sup>3</sup>[^9-1]Entscheide des Departementes unterliegen der Beschwerde an die Regierung. Diese entscheidet endgültig.
-
-[^9-1]: Einfügung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3329, am 1. Januar 2007 in Kraft getreten.
+<sup>3</sup> Entscheide des Departementes unterliegen der Beschwerde an die Regierung. Diese entscheidet endgültig.
 
 #### Art. 10
 
 **Organe**
 
-Organe einer Genossenschaft sind die Genossenschaftsversammlung, der Genossenschaftsvorstand, die Schätzungskommission und die Rechnungsrevisoren.
-
-[^10-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3329, am 1. Januar 2007 in Kraft getreten.
+<sup>1</sup> Organe einer Genossenschaft sind die Genossenschaftsversammlung, der Genossenschaftsvorstand, die Schätzungskommission und die Rechnungsrevisoren.
 
 #### Art. 11
 
-**Aufsicht**[^10-1]
+**Aufsicht**
 
 <sup>1</sup> Zuständige kantonale Behörde im Sinne der Bestimmungen des eidgenössischen Landwirtschaftsgesetzes ist die Regierung, soweit dieses Gesetz nichts anderes bestimmt. Entscheide der Regierung sind endgültig, sofern die Bestimmungen über das Meliorationswesen oder das übergeordnete Recht keine anderen Rechtsmittel vorsehen.
 
 <sup>2</sup> Die vom Bund und Kanton unterstützten Meliorationen unterstehen während der Ausführung und nach der Vollendung der Aufsicht des zuständigen kantonalen Amtes. Entscheide des Amtes können an das Departement und an die Regierung weitergezogen werden. Der Entscheid der Regierung ist endgültig. Vorbehalten bleiben andere Rechtsmittel nach dem übergeordneten Recht und den Bestimmungen über das Meliorationswesen.
 
-### II. Güterzusammenlegung
+## 2. Güterzusammenlegung
 
-- 1\. ALLGEMEINES
+### 2.1. Allgemeines
 
 #### Art. 12
 
@@ -138,16 +127,13 @@ Organe einer Genossenschaft sind die Genossenschaftsversammlung, der Genossensch
 <sup>1</sup> Die Güterzusammenlegung dient:
 
 - a) der rationellen Verwendung des Bodens in der Land- und Forstwirtschaft;
-
 - b) der Entflechtung von Nutzungen im Rahmen der Gesamtumlegung gemäss kantonalem Raumplanungsgesetz;[^12-1]
-
 - c) den Massnahmen der Orts-, Regional- und Landesplanung, wenn Strassen, Kanal- und Bahnbauten sowie andere Werke die landwirtschaftliche Bodennutzung beeinträchtigen;
-
 - d) der Vorbereitung für die Einführung des Eidgenössischen Grundbuches.
 
 <sup>2</sup> Güterzusammenlegungen sollen ausser der Arrondierung der Grundstücke und den Weganlagen auch weitere Verbesserungen von gemeinschaftlichem Interesse umfassen, die notwendig sind, um die Ertragsfähigkeit des Bodens zu erhalten oder zu erhöhen oder seine Bewirtschaftung zu erleichtern, oder die zur rationellen Einteilung des neuen Bestandes beitragen (Gesamtmelioration).
 
-[^12-1]: BR 801.100 1.01.2008 3
+[^12-1]: BR [801.100](https://www.gr-lex.gr.ch/data/801.100/de)
 
 #### Art. 13
 
@@ -159,7 +145,7 @@ Organe einer Genossenschaft sind die Genossenschaftsversammlung, der Genossensch
 
 <sup>3</sup> Von der Auflage der Neuzuteilung bis zu deren Rechtskraft darf die Nutzungsordnung nicht geändert werden.
 
-- 2\. VORBEREITUNG
+### 2.2. Vorbereitung
 
 #### Art. 14
 
@@ -181,41 +167,35 @@ Organe einer Genossenschaft sind die Genossenschaftsversammlung, der Genossensch
 
 #### Art. 16
 
-**Beschlussfassend e Versammlung**
+**Beschlussfassende Versammlung**
 
 <sup>1</sup> Liegen die erforderlichen Unterlagen vor, lädt der Gemeindevorstand zur beschlussfassenden Versammlung ein.
 
 <sup>2</sup> Die Güterzusammenlegung ist beschlossen, wenn die Mehrheit der beteiligten Grundeigentümer ohne Rücksicht auf die Fläche dem Unternehmen zustimmt.
 
-**4**
-
-1.01.2008
-
 #### Art. 17
 
 **Anordnung und Durchführung von Amtes wegen**
 
-<sup>1</sup> Besteht an der Güterzusammenlegung ein erhebliches öffentliches Interesse, so kann diese durch die Gemeindeversammlung, oder wo eine solche nicht durchgeführt wird, durch die Urnenabstimmung, in den Fällen von Artikel 12 Absatz 1 litera c, auch durch die Regierung angeordnet werden.
+<sup>1</sup> Besteht an der Güterzusammenlegung ein erhebliches öffentliches Interesse, so kann diese durch die Gemeindeversammlung, oder wo eine solche nicht durchgeführt wird, durch die Urnenabstimmung, in den Fällen von Artikel 12 Absatz 1 Litera c, auch durch die Regierung angeordnet werden.
 
 <sup>2</sup> Bei amtlicher Anordnung kann die Durchführung der Güterzusammenlegung einer Genossenschaft der Grundeigentümer oder der Gemeinde übertragen werden. Umgekehrt kann die beschlussfassende Versammlung auch die Gemeinde mit der Durchführung der Güterzusammenlegung betrauen, wenn dies im öffentlichen Interesse liegt und die Gemeinde der Übernahme zustimmt.
 
 <sup>3</sup> Wird das Verfahren von einer Behörde durchgeführt, übernimmt diese die der Genossenschaftsversammlung und dem Genossenschaftsvorstand zuerkannten Rechte und Pflichten.
 
-[^17-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3329, am 1. Januar 2007 in Kraft getreten. 1.01.2008 5
-
 #### Art. 18
 
-**Anfechtung des Beschlusses und der Anordnung**[^17-1]
+**Anfechtung des Beschlusses und der Anordnung**
 
-Der Durchführungsbeschluss und die amtliche Anordnung können mittels Beschwerde direkt beim Verwaltungsgericht angefochten werden. Diese hat sich gegen die für die Durchführung verantwortliche Gemeinde oder im Falle der Anordnung durch die Regierung gegen den Kanton zu richten.
+<sup>1</sup> Der Durchführungsbeschluss und die amtliche Anordnung können mittels Beschwerde direkt beim Obergericht angefochten werden. Diese hat sich gegen die für die Durchführung verantwortliche Gemeinde oder im Falle der Anordnung durch die Regierung gegen den Kanton zu richten.
 
 #### Art. 19
 
 **Vorbereitungskosten**
 
-Wird eine Güterzusammenlegung von der beschlussfassenden Versammlung abgelehnt, so tragen die Gemeinden die Vorbereitungskosten.
+<sup>1</sup> Wird eine Güterzusammenlegung von der beschlussfassenden Versammlung abgelehnt, so tragen die Gemeinden die Vorbereitungskosten.
 
-- 3\. DURCHFÜHRUNG
+### 2.3. Durchführung
 
 #### Art. 20
 
@@ -231,7 +211,7 @@ Wird eine Güterzusammenlegung von der beschlussfassenden Versammlung abgelehnt,
 
 **Aufnahme des alten Bestandes**
 
-Im Beizugsgebiet wird das Eigentum an den Grundstücken aufgenommen und in Plänen und Verzeichnissen dargestellt.
+<sup>1</sup> Im Beizugsgebiet wird das Eigentum an den Grundstücken aufgenommen und in Plänen und Verzeichnissen dargestellt.
 
 #### Art. 22
 
@@ -259,13 +239,13 @@ Im Beizugsgebiet wird das Eigentum an den Grundstücken aufgenommen und in Plän
 
 **Verbindlichkeit der Bewertung**
 
-Nach Ablauf der Einsprachefrist wird die Bewertung für die Beteiligten grundsätzlich verbindlich und kann bei der Neuzuteilung nicht mehr angefochten werden.
+<sup>1</sup> Nach Ablauf der Einsprachefrist wird die Bewertung für die Beteiligten grundsätzlich verbindlich und kann bei der Neuzuteilung nicht mehr angefochten werden.
 
 #### Art. 25
 
 **Abzug für gemeinschaftliche Anlagen**
 
-Für die allgemeinen Anlagen und zur Erleichterung der Neuzuteilung wird vom Wert des alten Bestandes ein Abzug gemacht. Der Wertabzug wird nicht entschädigt.
+<sup>1</sup> Für die allgemeinen Anlagen und zur Erleichterung der Neuzuteilung wird vom Wert des alten Bestandes ein Abzug gemacht. Der Wertabzug wird nicht entschädigt.
 
 #### Art. 26
 
@@ -273,11 +253,7 @@ Für die allgemeinen Anlagen und zur Erleichterung der Neuzuteilung wird vom Wer
 
 <sup>1</sup> Will ein Enteignungsberechtigter im Beizugsgebiet ein öffentliches Werk errichten und vermag er den Landbedarf nicht aus seinem Anspruch als Mitglied des Unternehmens zu decken, so kann ihm durch einen zusätzlichen prozentualen Abzug vom Bodenwert Land beschafft werden.
 
-<sup>2</sup> Für den zusätzlichen Abzug ist das Unternehmen vom Enteignungsberechtigten nach dem Verkehrswert zu entschädigen. Die betreffenden
-
-**6**
-
-1.01.2008 Werte werden den einzelnen Grundeigentümern gutgeschrieben und im Rahmen des Kostenverteilers verrechnet.
+<sup>2</sup> Für den zusätzlichen Abzug ist das Unternehmen vom Enteignungsberechtigten nach dem Verkehrswert zu entschädigen. Die betreffenden Werte werden den einzelnen Grundeigentümern gutgeschrieben und im Rahmen des Kostenverteilers verrechnet.
 
 #### Art. 27
 
@@ -313,15 +289,15 @@ Für die allgemeinen Anlagen und zur Erleichterung der Neuzuteilung wird vom Wer
 
 **Behandlung von Bauland**
 
-Wird von einer Güterzusammenlegung auch Bauland erfasst, muss dieses nach den Grundsätzen einer Baulandumlegung im Sinne des kantonalen Raumplanungsgesetzes[^30-1] umgelegt werden. Landwirtschaftliche Interessen sind dabei nach Möglichkeit zu berücksichtigen.
+<sup>1</sup> Wird von einer Güterzusammenlegung auch Bauland erfasst, muss dieses nach den Grundsätzen einer Baulandumlegung im Sinne des kantonalen Raumplanungsgesetzes[^30-1] umgelegt werden. Landwirtschaftliche Interessen sind dabei nach Möglichkeit zu berücksichtigen.
 
-[^30-1]: BR 801.100 1.01.2008 7
+[^30-1]: BR [801.100](https://www.gr-lex.gr.ch/data/801.100/de)
 
 #### Art. 31
 
 **Entflechtung**
 
-Der Abtausch zwischen Bauland und Kulturland setzt in der Regel das Einverständnis der betroffenen Grundeigentümer voraus und hat nach Verkehrswerten zu erfolgen.
+<sup>1</sup> Der Abtausch zwischen Bauland und Kulturland setzt in der Regel das Einverständnis der betroffenen Grundeigentümer voraus und hat nach Verkehrswerten zu erfolgen.
 
 #### Art. 32
 
@@ -355,57 +331,43 @@ Der Abtausch zwischen Bauland und Kulturland setzt in der Regel das Einverständ
 
 **Zuweisung zur Bewirtschaftung**
 
-Der Besitzesantritt kann durch die Trägerschaft für das ganze Beizugsgebiet oder für Teile vor dem Eigentumserwerb verfügt werden.
-
-**8**
-
-1.01.2008
+<sup>1</sup> Der Besitzesantritt kann durch die Trägerschaft für das ganze Beizugsgebiet oder für Teile vor dem Eigentumserwerb verfügt werden.
 
 #### Art. 36
 
 **Eigentumserwerb**
 
-<sup>1</sup>[^36-1]Der Eigentumserwerb erfolgt nach rechtskräftiger Neuzuteilung auf Antrag der Trägerschaft durch Regierungsbeschluss. Dieser ist endgültig und wird im kantonalen Amtsblatt publiziert.
+<sup>1</sup> Der Eigentumserwerb erfolgt nach rechtskräftiger Neuzuteilung auf Antrag der Trägerschaft durch Regierungsbeschluss. Dieser ist endgültig und wird im kantonalen Amtsblatt publiziert.
 
 <sup>2</sup> Über die neu zugeteilten Grundstücke kann erst nach dem Eigentumserwerb und nach dem Eintrag ins Grundbuch verfügt werden.
 
-- 4\. RECHTSSCHUTZ
-
-[^36-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3329, am 1. Januar 2007 in Kraft getreten.
+### 2.4. Rechtsschutz
 
 #### Art. 37
 
 **Rechtsmittelinstanzen**
 
-Rechtsmittelinstanzen sind die Schätzungskommissionen und das kantonale Verwaltungsgericht.
+<sup>1</sup> Rechtsmittelinstanzen sind die Schätzungskommissionen und das Obergericht.
 
 #### Art. 38
 
 **Öffentliche Auflage**
 
-<sup>1</sup>[^38-1]Verfügungen sowie dazugehörige Planunterlagen und Verzeichnisse sind während einer Frist von 30 Tagen öffentlich aufzulegen, insbesondere:
+<sup>1</sup> Verfügungen sowie dazugehörige Planunterlagen und Verzeichnisse sind während einer Frist von 30 Tagen öffentlich aufzulegen, insbesondere:
 
-- a)[^38-2]das Beizugsgebiet und das Verzeichnis der beteiligten Grundeigentümer;
-
-- b)[^38-3]das Auflageprojekt;
-
+- a) das Beizugsgebiet und das Verzeichnis der beteiligten Grundeigentümer;
+- b) das Auflageprojekt;
 - c) die Pläne, Verzeichnisse und Bewertung des alten Bestandes;
-
 - d) die Neuzuteilung;
-
 - e) der Kostenverteiler.
 
-<sup>2</sup> Die Auflagen gemäss litera a–e sind im Kantonsamtsblatt und auf ortsübliche Weise, versehen mit einer Rechtsmittelbelehrung, den betroffenen Grundeigentümern bekanntzugeben.
-
-[^38-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3329, am 1. Januar 2007 in Kraft getreten.
-[^38-2]: Fassung gemäss Volksbeschluss vom 6. Juni 1993; B vom 15. Dezember 1992,
-[^38-3]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3329, am 1. Januar 2007 in Kraft getreten.
+<sup>2</sup> Die Auflagen gemäss Litera a–e sind im Kantonsamtsblatt und auf ortsübliche Weise, versehen mit einer Rechtsmittelbelehrung, den betroffenen Grundeigentümern bekanntzugeben.
 
 #### Art. 39
 
 **Einspracheverfahren**
 
-<sup>1</sup>[^39-1]Gegen sämtliche Verfügungen können die Betroffenen während der Auflagefrist bzw. innert 30 Tagen seit Zustellung der Verfügung bei der Schätzungskommission eine mit einem Antrag und einer schriftlichen Begründung versehene Einsprache erheben. Die Einsprache ist unverzüglich der erlassenen Behörde zur Vernehmlassung zuzustellen. Daraufhin führt die Schätzungskommission, allenfalls in Verbindung mit einem Augenschein, eine mündliche Verhandlung durch, an welcher die Parteien ihre Standpunkte nochmals darlegen können.
+<sup>1</sup> Gegen sämtliche Verfügungen können die Betroffenen während der Auflagefrist bzw. innert 30 Tagen seit Zustellung der Verfügung bei der Schätzungskommission eine mit einem Antrag und einer schriftlichen Begründung versehene Einsprache erheben. Die Einsprache ist unverzüglich der erlassenen Behörde zur Vernehmlassung zuzustellen. Daraufhin führt die Schätzungskommission, allenfalls in Verbindung mit einem Augenschein, eine mündliche Verhandlung durch, an welcher die Parteien ihre Standpunkte nochmals darlegen können.
 
 <sup>2</sup> Die Schätzungskommission sucht die Parteien gütlich zu einigen und macht entsprechende Vergleichsvorschläge. Die Ergebnisse dieser Vergleichsbemühungen sind schriftlich festzuhalten und von den Parteien unterschriftlich anzuerkennen.
 
@@ -414,8 +376,6 @@ Rechtsmittelinstanzen sind die Schätzungskommissionen und das kantonale Verwalt
 <sup>4</sup> Vor der Aufhebung oder Änderung einer Verfügung sind die allenfalls Betroffenen anzuhören; nötigenfalls ist ein neues Auflageverfahren durchzuführen.
 
 <sup>5</sup> Soweit keine Einsprache erfolgt, werden die Verfügungen bzw. die aufgelegten Akten für die Einzelnen verbindlich.
-
-[^39-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3329, am 1. Januar 2007 in Kraft getreten. 1.01.2008 9
 
 #### Art. 40
 
@@ -431,7 +391,7 @@ Rechtsmittelinstanzen sind die Schätzungskommissionen und das kantonale Verwalt
 
 **Einsprachen gegen die Bewertung**
 
-Einsprachen gegen die Bewertung werden unter sinngemässer Anwendung der Artikel 39 und 40 ebenfalls durch die Schätzungskommission behandelt und entschieden.
+<sup>1</sup> Einsprachen gegen die Bewertung werden unter sinngemässer Anwendung der Artikel 39 und 40 ebenfalls durch die Schätzungskommission behandelt und entschieden.
 
 #### Art. 42
 
@@ -441,115 +401,85 @@ Einsprachen gegen die Bewertung werden unter sinngemässer Anwendung der Artikel
 
 <sup>2</sup> Der Einsprecher kann bei trölerischem oder mutwilligem Verhalten zur Tragung der Kosten verhalten werden.
 
-**10**
-
-1.01.2008
-
-[^42-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3330, am 1. Januar 2007 in Kraft getreten.
-
 #### Art. 43
 
-**Beschwerde**[^42-1]
+**Beschwerde**
 
-Sowohl die betroffenen Grundeigentümer wie auch die Träger des Unternehmens können gegen die Entscheide der Schätzungskommission innert 30 Tagen seit Zustellung beim Verwaltungsgericht Beschwerde erheben.
-
-[^43-1]: Fassung gemäss Volksbeschluss vom 6. Juni 1993; siehe FN zu Art. 38 lit. a und b
+<sup>1</sup> Sowohl die betroffenen Grundeigentümer wie auch die Träger des Unternehmens können gegen die Entscheide der Schätzungskommission innert 30 Tagen seit Zustellung beim Obergericht Beschwerde erheben.
 
 #### Art. 44
 
-**Einsprache- und Beschwerdeverfahrens**[^43-1]
+**Ausschluss des Einsprache- und Beschwerdeverfahrens**
 
-<sup>1</sup>[^44-1]Das Einsprache- und Beschwerdeverfahren nach Artikel 39 ff. findet[^44-2]Ausschluss des keine Anwendung bei Einsprachen gegen das Grundeigentümerverzeichnis und das Auflageprojekt.
+<sup>1</sup> Das Einsprache- und Beschwerdeverfahren nach Artikel 39 ff. findet keine Anwendung bei Einsprachen gegen das Grundeigentümerverzeichnis und das Auflageprojekt.
 
 <sup>2</sup> Einsprachen gegen das Grundeigetümerverzeichnis werden durch das zuständige Departement beurteilt.
 
-<sup>3</sup>[^44-3]Gegen den Einspracheentscheid ist die Beschwerde an das Verwaltungsgericht möglich.
+<sup>3</sup> Gegen den Einspracheentscheid ist die Beschwerde an das Obergericht möglich.
 
-<sup>4</sup> Einsprachen gegen das Auflageprojekt richten sich nach Artikel 44bis ff.
+<sup>4</sup> Einsprachen gegen das Auflageprojekt richten sich nach Artikel 44<sup>bis</sup> ff.
 
-- 5\. PROJEKTGENEHMIGUNG
-
-[^44-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3330, am 1. Januar 2007 in Kraft getreten.
-[^44-2]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3330, am 1. Januar 2007 in Kraft getreten.
-[^44-3]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3330, am 1. Januar 2007 in Kraft getreten.
-[^44-4]: Einfügung gemäss Volksbeschluss vom 6. Juni 1993; siehe FN zu Art. 38 lit. a und b
+### 2.5. Projektgenehmigung
 
 #### Art. 44bis
 
-**Einsprache**[^44-4]
+**Einsprache**
 
-Gegen das Auflageprojekt kann innert der Auflagefrist schriftlich beim zuständigen Departement Einsprache erhoben werden.
-
-[^44bis-1]: Einfügung gemäss Volksbeschluss vom 6. Juni 1993; siehe FN zu Art. 38 lit. a und b 1.01.2008 11
+<sup>1</sup> Gegen das Auflageprojekt kann innert der Auflagefrist schriftlich beim zuständigen Departement Einsprache erhoben werden.
 
 #### Art. 44ter
 
-**Einsprachelegitimation**[^44bis-1]
+**Einsprachelegitimation**
 
-Zur Einsprache ist berechtigt:
+<sup>1</sup> Zur Einsprache ist berechtigt:
 
 - a) wer vom Auflageprojekt berührt ist und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung geltend machen kann;
-
 - b) die betroffene Gemeinde;
-
-- c) gesamtschweizerische Umweltschutzorganisationen, sofern und soweit ihnen auch die Verwaltungsgerichtsbeschwerde an das Bundesgericht offensteht.
-
-[^44ter-1]: Einfügung gemäss Volksbeschluss vom 6. Juni 1993; siehe FN zu Art. 38 lit. a und b
+- c) gesamtschweizerische Umweltschutzorganisationen, sofern und soweit ihnen auch die Beschwerde in öffentlich-rechtlichen Angelegenheiten an das Bundesgericht offensteht.
 
 #### Art. 44quater
 
-**Einsprachebehandlung und Projektgenehmigung**[^44ter-1]
+**Einsprachebehandlung und Projektgenehmigung**
 
 <sup>1</sup> Das zuständige Departement entscheidet über die Projekteinsprachen und genehmigt das Auflageprojekt. Es berücksichtigt dabei nebst dem Meliorationszweck alle massgebenden Anliegen, insbesondere die Interessen der Raumplanung, des Natur- und Heimatschutzes und des Umweltschutzes.
 
 <sup>2</sup> Die Projektgenehmigung wird im Kantonsamtsblatt und auf ortsübliche Weise publiziert.
 
-<sup>3</sup> …[^44quater-1]
-
-[^44quater-1]: Aufgehoben gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3330, am 1. Januar 2007 in Kraft getreten.
-[^44quater-2]: Fassung gemäss Volksbeschluss vom 6. Juni 1993; siehe FN zu Art. 38 lit. a und b 12 1.01.2008
+<sup>3</sup> …
 
 #### Art. 44quinquies
 
-**Wirkung der Projektgenehmigung**[^44quater-2]
+**Wirkung der Projektgenehmigung**
 
 <sup>1</sup> Nach der rechtskräftigen Genehmigung des Auflageprojektes ist für die darin enthaltenen Bauten, Anlagen und sonstigen Massnahmen keine Baubewilligung mehr erforderlich; die Projektgenehmigung ersetzt die Baubewilligung.
 
 <sup>2</sup> Änderungen gegenüber dem genehmigten Auflageprojekt sind vor der Ausführung vom zuständigen Departement zu genehmigen. Bei bloss geringfügigen Änderungen kann auf das Auflageverfahren verzichtet werden.
 
-### III. Andere gemeinschaftliche Unternehmen
+## 3. Andere gemeinschaftliche Unternehmen
 
 #### Art. 45
 
 **Begriff**
 
-Als andere gemeinschaftliche Meliorationen gelten insbesondere:
+<sup>1</sup> Als andere gemeinschaftliche Meliorationen gelten insbesondere:
 
 - a) Strassen und Wege;
-
 - b) Seilbahnen;
-
 - c) Entwässerungen;
-
 - d) Bewässerungen;
-
 - e) Wasserversorgungen;
-
 - f) Elektrizitätsversorgungen;
-
 - g) Alpverbesserungen;
-
 - h) Arbeiten zur Sicherung oder zur Wiederherstellung von Kulturland;
-
 - i) Landwirtschaftliche Gemeinschaftsbauten.
 
 #### Art. 46
 
 **Anwendbares Recht**
 
-Die Vorschriften über die Güterzusammenlegung finden auf die übrigen innerhalb und ausserhalb von Güterzusammenlegungsverfahren durchgeführten Unternehmen sinngemäss Anwendung.
+<sup>1</sup> Die Vorschriften über die Güterzusammenlegung finden auf die übrigen innerhalb und ausserhalb von Güterzusammenlegungsverfahren durchgeführten Unternehmen sinngemäss Anwendung.
 
-### IV. Einzelunternehmen
+## 4. Einzelunternehmen
 
 #### Art. 47
 
@@ -559,7 +489,7 @@ Die Vorschriften über die Güterzusammenlegung finden auf die übrigen innerhal
 
 <sup>2</sup> Für die Einzelunternehmen gelten die einschlägigen Vorschriften des Bundes.
 
-### V. Kantonsbeiträge
+## 5. Kantonsbeiträge
 
 #### Art. 48
 
@@ -573,11 +503,9 @@ Die Vorschriften über die Güterzusammenlegung finden auf die übrigen innerhal
 
 **Höhe der Kantonsbeiträge**
 
-<sup>1</sup>[^49-1]Der Kanton richtet Beiträge bis zu höchstens 40 Prozent, an Güterzusammenlegungen bis zu höchstens 50 Prozent der subventionsberechtigten Kosten aus.
+<sup>1</sup> Der Kanton richtet Beiträge bis zu höchstens 40 Prozent, an Güterzusammenlegungen bis zu höchstens 50 Prozent der subventionsberechtigten Kosten aus.
 
-<sup>2</sup> Die Regierung entscheidet über die Beitragshöhe endgültig. An die Beitragszusicherungen kann sie Bedingungen und Auflagen knüpfen. Bei gemeinschaftlichen Unternehmen macht sie der betreffenden Gemeinde die Auflage, dass sie einen ihrer Finanzkraft entsprechenden Teil an den Beitrag des Kantons leistet.
-
-[^49-1]: Fassung gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1630; am 1. Januar 2008 in Kraft getreten. 1.01.2008 13
+<sup>2</sup> Die Regierung entscheidet über die Beitragshöhe endgültig. An die Beitragszusicherungen kann sie Bedingungen und Auflagen knüpfen.
 
 #### Art. 50
 
@@ -587,14 +515,11 @@ Die Vorschriften über die Güterzusammenlegung finden auf die übrigen innerhal
 
 <sup>2</sup> Der Meliorationsfonds kann durch Zuweisung von Einlagen aus der ordentlichen Verwaltungsrechnung geäufnet werden.
 
-<sup>3</sup>[^50-1]Der Kanton verzinst den Fonds-Saldo marktkonform.
-
-[^50-1]: Einfügung gemäß Art. 104 Ziff. 3 Strassengesetz, BR 807.100
-[^50-2]: Aufgehoben gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1630; am 1. Januar 2008 in Kraft getreten.
+<sup>3</sup> Der Kanton verzinst den Fonds-Saldo marktkonform.
 
 #### Art. 50bis
 
-[^50-2]
+**…**
 
 #### Art. 51
 
@@ -603,11 +528,8 @@ Die Vorschriften über die Güterzusammenlegung finden auf die übrigen innerhal
 <sup>1</sup> Alle Beiträge sind zu erstatten, sofern die gesetzlichen Voraussetzungen für die Rückforderung der Bundesbeiträge erfüllt sind. Dies trifft namentlich zu, wenn:
 
 - a) Grundstücke oder Bauten und Anlagen ihrem Zweck entfremdet werden;
-
 - b) Grundstücke nicht bewirtschaftet oder Werke mangelhaft unterhalten werden;
-
 - c) Hochbauten gewinnbringend veräussert werden oder längere Zeit leerstehen;
-
 - d) Bedingungen nicht erfüllt und Auflagen nicht eingehalten werden.
 
 <sup>2</sup> Die Vorschriften der eidgenössischen Landwirtschaftsgesetzgebung finden ergänzend Anwendung.
@@ -616,35 +538,35 @@ Die Vorschriften über die Güterzusammenlegung finden auf die übrigen innerhal
 
 **Erstattete Beiträge**
 
-Der vom Bund nicht beanspruchte Anteil der erstatteten Beiträge fliesst in den Meliorationsfonds.
+<sup>1</sup> Der vom Bund nicht beanspruchte Anteil der erstatteten Beiträge fliesst in den Meliorationsfonds.
 
-### VI. Schlussbestimmungen
+## 6. Schlussbestimmungen
 
 #### Art. 53
 
 **Inkraftsetzung**
 
-Dieses Gesetz wird nach seiner Annahme durch das Volk und der Genehmigung durch den Bundesrat[^53-1] von der Regierung in Kraft gesetzt.[^53-2]
+<sup>1</sup> Dieses Gesetz wird nach seiner Annahme durch das Volk und der Genehmigung durch den Bundesrat[^53-1] von der Regierung in Kraft gesetzt.[^53-2]
 
 [^53-1]: Vom Bundesrat genehmigt am 3. Juni 1981
-[^53-2]: mit RB vom 15. Juni 1981 auf den 1. Juli 1981 in Kraft gesetzt 14 1.01.2008
+[^53-2]: mit RB vom 15. Juni 1981 auf den 1. Juli 1981 in Kraft gesetzt
 
 #### Art. 54
 
 **Grossrätliche Verordnung**
 
-Der Grosse Rat erlässt eine Vollziehungsverordnung.[^54-1] Er kann die Regierung zum Erlass der notwendigen Ausführungsbestimmungen ermächtigen.[^54-2]
+<sup>1</sup> Der Grosse Rat erlässt eine Vollziehungsverordnung.[^54-1] Er kann die Regierung zum Erlass der notwendigen Ausführungsbestimmungen ermächtigen.[^54-2]
 
-[^54-1]: BR 915.110
+[^54-1]: BR [915.110](https://www.gr-lex.gr.ch/data/915.110/de)
 [^54-2]: Siehe Art. 43 der Vollziehungsverordnung
 
 #### Art. 55
 
 **Aufhebung des bisherigen Rechts**
 
-Das Meliorationsgesetz vom 7. April 1957[^55-1] wird aufgehoben.
+<sup>1</sup> Das Meliorationsgesetz vom 7. April 1957[^55-1] wird aufgehoben.
 
-[^55-1]: aRB 1577 und Änderungen gemäss Register 1.01.2008 15
+[^55-1]: aRB 1577 und Änderungen gemäss Register
 
 #### Art. 56
 
@@ -654,14 +576,9 @@ Das Meliorationsgesetz vom 7. April 1957[^55-1] wird aufgehoben.
 
 <sup>2</sup> Das zuständige Departement kann:
 
-- a) bestimmte Vorschriften der Abschnitte I bis III dieses Gesetzes anwendbar erklären;
-
-- b) für Meliorationen, die von den Grundeigentümern nach dem 31. Dezember 1976 beschlossen worden sind, die Abschnitte I bis III dieses Gesetzes in vollem Umfange anwendbar erklären.
+- a) bestimmte Vorschriften der Abschnitte 1. bis 3. dieses Gesetzes anwendbar erklären;
+- b) für Meliorationen, die von den Grundeigentümern nach dem 31. Dezember 1976 beschlossen worden sind, die Abschnitte 1. bis 3. dieses Gesetzes in vollem Umfange anwendbar erklären.
 
 <sup>3</sup> Die Statuten bestehender Unternehmen sind innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes dem Departement des Innern und der Volkswirtschaft zur Prüfung einzureichen.
 
-## Weitere Fussnoten
-
-- [456] (2. Lesung) 1.01.2008 1
-- [1] Fassung gemäss Revision durch Art. 1 Ziff. 20 Gesetz über die Anpassung von Gesetzen an Art. 6 Ziff. 1 EMRK und Art. 98a OG; AGS 1995, 3412
-- [761] ; GRP 1992/93, 900; mit RB vom 15. Juni 1993 auf 1. Juli 1993 in Kraft gesetzt
+-

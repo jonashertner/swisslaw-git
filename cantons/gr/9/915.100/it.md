@@ -3,31 +3,32 @@ canton: GR
 number: "915.100"
 title: Legge sulle bonifiche fondiarie del Cantone dei Grigioni
 language: it
-version: 2008-01-01
-corrected: 2014-10-09
-version_adopted: 2007-04-18
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2022-06-14
 adopted: 1981-04-05
 in_force: 1981-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/915.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1790/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3426/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulle bonifiche fondiarie del Cantone dei Grigioni
 
-accettata dal Popolo il 5 aprile 1981[^t-1]
+del 05.04.1981 (stato 01.01.2025)
 
-I. Norme generali
+accettata dal Popolo il 5 aprile 1981[^ingress-1]
 
-[^t-1]: M del 30 giu. 1980, 169: PGC 1980/81; 205 (1a lettura): PGC 1980/81, 449, 456 (2a lettura) 1.1.2008 1
+[^ingress-1]: M del 30 giu. 1980, 169: PGC 1980/81; 205 (1a lettura): PGC 1980/81, 449, 456 (2a lettura)
+
+## 1. Norme generali
 
 #### Art. 1
 
 **Concetto e scopo**
 
-Le bonifiche fondiarie sono misure, opere e costruzioni agricole di soprastruttura e sottostruttura aventi lo scopo di conservare o accrescere il rendimento del suolo, di facilitarne la coltivazione o di proteggerlo dalle devastazioni o distruzioni causate da fenomeni naturali.
+<sup>1</sup> Le bonifiche fondiarie sono misure, opere e costruzioni agricole di soprastruttura e sottostruttura aventi lo scopo di conservare o accrescere il rendimento del suolo, di facilitarne la coltivazione o di proteggerlo dalle devastazioni o distruzioni causate da fenomeni naturali.
 
 #### Art. 2
 
@@ -36,13 +37,9 @@ Le bonifiche fondiarie sono misure, opere e costruzioni agricole di soprastruttu
 <sup>1</sup> Questa legge regola:
 
 - a) il raggruppamento di terreni agricoli e forestali nonché le bonifiche generali ai sensi dell'articolo 12 capoverso 2,
-
 - b) i raggruppamenti di terreni agricoli e forestali eseguiti nel quadro della ricomposizione particellare generale,
-
 - c) le altre migliorie collettive del suolo,
-
 - d) le operazioni singole,
-
 - e) i sussidi per le bonifiche fondiarie.
 
 <sup>2</sup> La legge si applica a tutti i beni immobili del comprensorio, compresi i diritti reali esistenti.
@@ -51,7 +48,7 @@ Le bonifiche fondiarie sono misure, opere e costruzioni agricole di soprastruttu
 
 **Ambiente**
 
-Nell'esecuzione di bonifiche va tenuto conto adeguatamente della protezione generale dell'ambiente, in modo particolare della protezione della natura e della tutela delle caratteristiche locali e del paesaggio.
+<sup>1</sup> Nell'esecuzione di bonifiche va tenuto conto adeguatamente della protezione generale dell'ambiente, in modo particolare della protezione della natura e della tutela delle caratteristiche locali e del paesaggio.
 
 #### Art. 4
 
@@ -69,17 +66,15 @@ Nell'esecuzione di bonifiche va tenuto conto adeguatamente della protezione gene
 
 <sup>2</sup> Una bonifica fondiaria deve di regola estendersi a un territorio delimitato da confini naturali o formante un'unità economica, che si adatta allo sfruttamento agricolo o serve ad esso.
 
-[^5-1]: Testo giusta revisione tramite art. 1 cif. 20 della legge sull'adeguamento di leggi all'art. 6 cif. 1 CEDU e art. 98a OG
-
 #### Art. 6
 
-**Competenza per la determinazione del comprensorio**[^5-1]
+**Competenza per la determinazione del comprensorio**
 
 <sup>1</sup> Il comprensorio viene stabilito dall'ufficio cantonale competente d'intesa con i municipi (le sovrastanze). Se non si raggiunge un accordo, decide il Dipartimento dell'interno e dell'economia pubblica.
 
 <sup>2</sup> Bisogna procedere analogamente nel caso di mutamenti del comprensorio. Trattandosi di bonifiche eseguite da un consorzio, al posto del municipio (della sovrastanza) subentra in questo caso la sovrastanza del consorzio.
 
-<sup>3</sup> La decisione del Dipartimento può essere impugnata con ricorso al Tribunale amministrativo.
+<sup>3</sup> La decisione del Dipartimento può essere impugnata con ricorso al Tribunale d'appello.
 
 #### Art. 7
 
@@ -95,9 +90,7 @@ Nell'esecuzione di bonifiche va tenuto conto adeguatamente della protezione gene
 
 <sup>1</sup> L'annessione di altre operazioni dev'essere permessa se i presupposti naturali e tecnici la permettono.
 
-<sup>2</sup>[^8-1]Se non si giunge a un'intesa sull'annessione, il Governo decide in via definitiva. Esso stabilisce un rimborso adeguato per le prestazioni fornite.
-
-[^8-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3420; entrato in vigore il 1° gen. 2007 2 1.1.2008
+<sup>2</sup> Se non si giunge a un'intesa sull'annessione, il Governo decide in via definitiva. Esso stabilisce un rimborso adeguato per le prestazioni fornite.
 
 #### Art. 9
 
@@ -107,29 +100,25 @@ Nell'esecuzione di bonifiche va tenuto conto adeguatamente della protezione gene
 
 <sup>2</sup> Lo scioglimento del consorzio richiede l'approvazione del competente dipartimento.
 
-<sup>3</sup>[^9-1]Le decisioni del dipartimento sono suscettibili di ricorso al Governo. Quest'ultimo decide in via definitiva.
-
-[^9-1]: Introduzione giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3420; entrata in vigore il 1° gen. 2007
+<sup>3</sup> Le decisioni del dipartimento sono suscettibili di ricorso al Governo. Quest'ultimo decide in via definitiva.
 
 #### Art. 10
 
 **Organi**
 
-Gli organi di un consorzio sono l'assemblea consortile, la sovrastanza del consorzio, la commissione di stima e i revisori.
-
-[^10-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3420; entrato in vigore il 1° gen. 2007
+<sup>1</sup> Gli organi di un consorzio sono l'assemblea consortile, la sovrastanza del consorzio, la commissione di stima e i revisori.
 
 #### Art. 11
 
-**Vigilanza**[^10-1]
+**Vigilanza**
 
 <sup>1</sup> Autorità cantonale competente a norma delle disposizioni della legge federale sull'agricoltura è il Governo, ove la presente legge non disponga altrimenti. Le decisioni del Governo sono definitive, qualora le disposizioni sulle bonifiche fondiarie o il diritto di rango superiore non prevedano altri rimedi giuridici.
 
 <sup>2</sup> Sia durante i lavori che dopo il loro compimento le bonifiche fondiarie sussidiate dalla Confederazione e dal Cantone sono assoggettate alla vigilanza dell'ufficio cantonale competente. Le decisioni dell'ufficio possono essere impugnate dinanzi al Dipartimento e al Governo. La decisione del Governo è definitiva. Sono fatti salvi altri rimedi giuridici secondo il diritto di rango superiore e le disposizioni sulle bonifiche fondiarie.
 
-### II. Raggruppamento di terreni
+## 2. Raggruppamento di terreni
 
-- 1\. GENERALITÀ
+### 2.1. Generalità
 
 #### Art. 12
 
@@ -138,16 +127,13 @@ Gli organi di un consorzio sono l'assemblea consortile, la sovrastanza del conso
 <sup>1</sup> Il raggruppamento di terreni serve:
 
 - a) all'utilizzazione razionale del suolo nell'economia agricola e forestale,
-
 - b) alla coordinazione di sfruttamenti nel quadro della ricomposizione particellare generale ai sensi della legge cantonale sulla pianificazione territoriale,[^12-1]
-
 - c) alle misure di pianificazione locale, se costruzioni stradali, canalizzazioni e costruzioni ferroviarie o altre opere pregiudicano lo sfruttamento agricolo del suolo,
-
 - d) alla preparazione per l'introduzione del registro fondiario federale.
 
 <sup>2</sup> I raggruppamenti di terreni, oltre a raggruppare parcelle e a fabbricare strade, devono comprendere altre migliorie di interesse comune che siano necessarie per mantenere la capacità produttiva del suolo o per aumentarla o per semplificare la coltivazione oppure per contribuire alla razionale suddivisione del nuovo possesso (bonifiche integrali).
 
-[^12-1]: CSC 801.100 1.1.2008 3
+[^12-1]: CSC [801.100](https://www.gr-lex.gr.ch/data/801.100/it)
 
 #### Art. 13
 
@@ -159,7 +145,7 @@ Gli organi di un consorzio sono l'assemblea consortile, la sovrastanza del conso
 
 <sup>3</sup> Dall'esposizione della nuova assegnazione fino al suo effetto esecutivo l'ordinamento d'utilizzazione non può essere modificato.
 
-- 2\. PREPARAZIONE
+### 2.2. Preparazione
 
 #### Art. 14
 
@@ -191,33 +177,25 @@ Gli organi di un consorzio sono l'assemblea consortile, la sovrastanza del conso
 
 **Disposizione ed esecuzione d'ufficio**
 
-<sup>1</sup> Se esiste un considerevole interesse pubblico al raggruppamento di terreni, quest'ultimo può essere ordinato dall'assemblea comunale o, se
+<sup>1</sup> Se esiste un considerevole interesse pubblico al raggruppamento di terreni, quest'ultimo può essere ordinato dall'assemblea comunale o, se una tale non ha luogo, mediante votazione con urna, e nei casi dell'articolo 12 capoverso 1 lettera c anche da parte del Governo.
 
-**4**
+<sup>2</sup> Se ordinata d'ufficio, l'esecuzione del raggruppamento di terreni può essere deferita ad un consorzio di proprietari fondiari o al comune. Viceversa l'assemblea deliberante può anche incaricare il comune dell'esecuzione del raggruppamento di terreni, se ciò rientra nell'interesse pubblico e se il comune accetta l'incarico.
 
-**5**
-
-1.1.2008 una tale non ha luogo, mediante votazione con urna, e nei casi dell'articolo 12 capoverso 1 lettera c anche da parte del Governo.
-
-<sup>2</sup> Se ordinata d'ufficio, l'esecuzione del raggruppamento di terreni può essere deferita ad un consorzio di proprietari fondiari o al comune.
-
-<sup>3</sup> Viceversa l'assemblea deliberante può anche incaricare il comune dell'esecuzione del raggruppamento di terreni, se ciò rientra nell'interesse pubblico e se il comune accetta l'incarico.
-
-<sup>4</sup> Se la procedura viene eseguita da un'autorità, quest'ultima si assume i diritti e i doveri conferiti all'assemblea consortile e alla sovrastanza del consorzio.
+<sup>3</sup> Se la procedura viene eseguita da un'autorità, quest'ultima si assume i diritti e i doveri conferiti all'assemblea consortile e alla sovrastanza del consorzio.
 
 #### Art. 18
 
 **Impugnazione della decisione e dell'ordine**
 
-Il decreto d'esecuzione e l'ordine d'ufficio possono essere impugnati mediante ricorso direttamente presso il Tribunale amministrativo. Il ricorso deve rivolgersi contro il comune responsabile dell'esecuzione o, nel caso di un ordine dato dal Governo, contro il Cantone.
+<sup>1</sup> Il decreto d'esecuzione e l'ordine d'ufficio possono essere impugnati mediante ricorso direttamente presso il Tribunale d'appello. Il ricorso deve rivolgersi contro il comune responsabile dell'esecuzione o, nel caso di un ordine dato dal Governo, contro il Cantone.
 
 #### Art. 19
 
 **Spese di preparazione**
 
-Se una procedura di raggruppamento di terreni viene respinta dall'assemblea deliberante, le spese di preparazione sono a carico dei comuni.
+<sup>1</sup> Se una procedura di raggruppamento di terreni viene respinta dall'assemblea deliberante, le spese di preparazione sono a carico dei comuni.
 
-- 3\. ESECUZIONE
+### 2.3. Esecuzione
 
 #### Art. 20
 
@@ -233,9 +211,7 @@ Se una procedura di raggruppamento di terreni viene respinta dall'assemblea deli
 
 **Rilievo del vecchio possesso**
 
-Nel comprensorio la proprietà dei fondi viene rilevata e rappresentata in piani ed elenchi.
-
-1.1.2008
+<sup>1</sup> Nel comprensorio la proprietà dei fondi viene rilevata e rappresentata in piani ed elenchi.
 
 #### Art. 22
 
@@ -263,13 +239,13 @@ Nel comprensorio la proprietà dei fondi viene rilevata e rappresentata in piani
 
 **Carattere vincolante della stima**
 
-Dopo la scadenza del termine d'opposizione la stima diventa per principio vincolante per gli interessati e non può più essere impugnata nella nuova assegnazione.
+<sup>1</sup> Dopo la scadenza del termine d'opposizione la stima diventa per principio vincolante per gli interessati e non può più essere impugnata nella nuova assegnazione.
 
 #### Art. 25
 
 **Deduzione per impianti collettivi**
 
-Per gli impianti generali e per agevolare la nuova assegnazione si procede ad una deduzione dal valore del vecchio possesso. La deduzione di valore non viene indennizzata.
+<sup>1</sup> Per gli impianti generali e per agevolare la nuova assegnazione si procede ad una deduzione dal valore del vecchio possesso. La deduzione di valore non viene indennizzata.
 
 #### Art. 26
 
@@ -283,11 +259,7 @@ Per gli impianti generali e per agevolare la nuova assegnazione si procede ad un
 
 **Procedura**
 
-<sup>1</sup> Il diritto di cessione di terreno dev'essere fatto valere presso il competente dipartimento nei confronti dell'operazione, prima dell'elaborazione della nuova assegnazione. Il Governo invita il dipartimento a
-
-**6**
-
-1.1.2008 pronunciarsi per iscritto e decide quindi circa l'ammissibilità della misura in conformità alle disposizioni giuridiche sulle espropriazioni.
+<sup>1</sup> Il diritto di cessione di terreno dev'essere fatto valere presso il competente dipartimento nei confronti dell'operazione, prima dell'elaborazione della nuova assegnazione. Il Governo invita il dipartimento a pronunciarsi per iscritto e decide quindi circa l'ammissibilità della misura in conformità alle disposizioni giuridiche sulle espropriazioni.
 
 <sup>2</sup> La decisione sulla deduzione supplementare di terreno e l'ammontare dell'indennizzo è compito dell'assemblea consortile.
 
@@ -317,15 +289,15 @@ Per gli impianti generali e per agevolare la nuova assegnazione si procede ad un
 
 **Trattamento del terreno edificabile**
 
-Se un raggruppamento di terreni include anche terreno edificabile, quest'ultimo dev'essere trattato secondo le norme di una ricomposizione di terreno edificabile ai sensi della legge cantonale sulla pianificazione territoriale.[^30-1] A tal riguardo va tenuto conto degli interessi agricoli a seconda delle possibilità.
+<sup>1</sup> Se un raggruppamento di terreni include anche terreno edificabile, quest'ultimo dev'essere trattato secondo le norme di una ricomposizione di terreno edificabile ai sensi della legge cantonale sulla pianificazione territoriale.[^30-1] A tal riguardo va tenuto conto degli interessi agricoli a seconda delle possibilità.
 
-[^30-1]: CSC 801.100 1.1.2008 7
+[^30-1]: CSC [801.100](https://www.gr-lex.gr.ch/data/801.100/it)
 
 #### Art. 31
 
 **Coordinazione**
 
-La permuta fra terreno edificabile e terreno coltivo presuppone di regola il consenso dei proprietari fondiari interessati e deve farsi in base a valori commerciali.
+<sup>1</sup> La permuta fra terreno edificabile e terreno coltivo presuppone di regola il consenso dei proprietari fondiari interessati e deve farsi in base a valori commerciali.
 
 #### Art. 32
 
@@ -359,53 +331,43 @@ La permuta fra terreno edificabile e terreno coltivo presuppone di regola il con
 
 **Immissione in possesso**
 
-L'immissione in possesso può essere disposta dall'ente responsabile per tutto il comprensorio o per parti di esso prima dell'acquisto della proprietà.
+<sup>1</sup> L'immissione in possesso può essere disposta dall'ente responsabile per tutto il comprensorio o per parti di esso prima dell'acquisto della proprietà.
 
 #### Art. 36
 
 **Acquisto della proprietà**
 
-<sup>1</sup>[^36-1]L'acquisto della proprietà avviene, dopo l'entrata in vigore della nuova assegnazione, su proposta dell'ente responsabile mediante decreto del Governo. Esso è definitivo e viene pubblicato nel Foglio Ufficiale Cantonale.
+<sup>1</sup> L'acquisto della proprietà avviene, dopo l'entrata in vigore della nuova assegnazione, su proposta dell'ente responsabile mediante decreto del Governo. Esso è definitivo e viene pubblicato nel Foglio Ufficiale Cantonale.
 
 <sup>2</sup> Si può disporre dei nuovi fondi assegnati solo dopo l'acquisto della proprietà e dopo la loro iscrizione nel registro fondiario.
 
-- 4\. PROTEZIONE GIURIDICA
-
-[^36-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3421; entrato in vigore il 1° gen. 2007 8 1.1.2008
+### 2.4. Protezione giuridica
 
 #### Art. 37
 
 **Autorità d'impugnazione**
 
-La commissione di stima e il Tribunale amministrativo cantonale sono le autorità d'impugnazione.
+<sup>1</sup> Le commissioni di stima e il Tribunale d'appello sono le autorità d'impugnazione.
 
 #### Art. 38
 
 **Pubblica esposizione**
 
-<sup>1</sup>[^38-1]Le disposizioni nonché i relativi piani ed elenchi devono rimanere esposti pubblicamente per 30 giorni, e in modo particolare:
+<sup>1</sup> Le disposizioni nonché i relativi piani ed elenchi devono rimanere esposti pubblicamente per 30 giorni, e in modo particolare:
 
-- a)[^38-2] il comprensorio e l'elenco dei proprietari fondiari partecipanti,
-
-- b)[^38-3] il progetto d'esposizione,
-
+- a) il comprensorio e l'elenco dei proprietari fondiari partecipanti,
+- b) il progetto d'esposizione,
 - c) i piani, gli elenchi e la stima del vecchio possesso,
-
 - d) la nuova assegnazione,
-
 - e) il sistema di ripartizione delle spese.
 
 <sup>2</sup> La pubblica esposizione degli atti ai sensi delle lettere a-e va resa nota ai proprietari fondiari interessati, munita di un'istruzione sui rimedi legali, mediante il Foglio Ufficiale Cantonale e secondo l'uso locale.
-
-[^38-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3421; entrato in vigore il 1° gen. 2007
-[^38-2]: Testo giusta decreto popolare del 6 giugno 1993; M 15 dic. 1992, 761; PGC 1992/93, 900; messo in vigore il 1o lug. 1993 con DG 15 giu. 1993
-[^38-3]: Testo giusta decreto popolare del 6 giugno 1993; M 15 dic. 1992, 761; PGC 1992/93, 900; messo in vigore il 1o lug. 1993 con DG 15 giu. 1993
 
 #### Art. 39
 
 **Procedura d'opposizione**
 
-<sup>1</sup>[^39-1]Contro tutte le disposizioni gli interessati possono presentare alla commissione di stima un'opposizione munita di una proposta e di una motivazione scritta, durante il termine d'esposizione o entro 30 giorni dal recapito della disposizione. L'opposizione dev'essere immediatamente trasmessa per osservazioni all'autorità che ha emanato la disposizione. La commissione di stima effettua in seguito, eventualmente in collegamento con un sopralluogo, una trattativa orale, nella quale le parti possono esporre ancora una volta i loro punti di vista.
+<sup>1</sup> Contro tutte le disposizioni gli interessati possono presentare alla commissione di stima un'opposizione munita di una proposta e di una motivazione scritta, durante il termine d'esposizione o entro 30 giorni dal recapito della disposizione. L'opposizione dev'essere immediatamente trasmessa per osservazioni all'autorità che ha emanato la disposizione. La commissione di stima effettua in seguito, eventualmente in collegamento con un sopralluogo, una trattativa orale, nella quale le parti possono esporre ancora una volta i loro punti di vista.
 
 <sup>2</sup> La commissione di stima cerca di conciliare le parti in via bonaria e avanza delle relative proposte di transazione. I risultati di questo tentativo devono essere verbalizzati e riconosciuti dalle parti mediante la firma.
 
@@ -414,8 +376,6 @@ La commissione di stima e il Tribunale amministrativo cantonale sono le autorit�
 <sup>4</sup> Prima dell'abrogazione o della modifica di una decisione gli interessati eventuali devono essere ascoltati. Se necessario bisogna eseguire una nuova procedura d'esposizione.
 
 <sup>5</sup> Se non vi è opposizione, le disposizioni e gli atti esposti diventano vincolanti per i singoli partecipanti.
-
-[^39-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3421; entrato in vigore il 1° gen. 2007 1.1.2008 9
 
 #### Art. 40
 
@@ -431,7 +391,7 @@ La commissione di stima e il Tribunale amministrativo cantonale sono le autorit�
 
 **Opposizioni contro la stima**
 
-Le opposizioni contro la stima vengono pure trattate e decise dalla commissione di stima che applica per analogia gli articoli 39 e 40.
+<sup>1</sup> Le opposizioni contro la stima vengono pure trattate e decise dalla commissione di stima che applica per analogia gli articoli 39 e 40.
 
 #### Art. 42
 
@@ -441,106 +401,85 @@ Le opposizioni contro la stima vengono pure trattate e decise dalla commissione 
 
 <sup>2</sup> L'opponente può essere tenuto a sopportare le spese nel caso di comportamento temerario o inteso a far perdere tempo.
 
-[^42-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3421; entrato in vigore il 1° gen. 2007 10 1.1.2008
-
 #### Art. 43
 
-**Ricorso**[^42-1]
+**Ricorso**
 
-Sia i proprietari fondiari interessati sia l'ente responsabile dell'operazione possono presentare ricorso al Tribunale amministrativo entro 30 giorni dal recapito contro le decisioni della commissione di stima.
-
-[^43-1]: Testo giusta decreto popolare del 6 giu. 1993; vedi nota all'art. 38 lett. a) e b)
+<sup>1</sup> Sia i proprietari fondiari interessati sia l'ente responsabile dell'operazione possono presentare ricorso al Tribunale d'appello entro 30 giorni dal recapito contro le decisioni della commissione di stima.
 
 #### Art. 44
 
-**Esclusione della procedura d'opposizione e di ricorso**[^43-1]
+**Esclusione della procedura d'opposizione e di ricorso**
 
 <sup>1</sup> La procedura d'opposizione e quella di ricorso di cui all'articolo 39 sgg. non si applicano alle opposizioni contro l'elenco dei proprietari fondiari e contro il progetto d'esposizione.
 
 <sup>2</sup> Le opposizioni contro l'elenco dei proprietari fondiari sono giudicate dal dipartimento competente.
 
-<sup>3</sup> Contro la decisione d'opposizione è possibile inoltrare ricorso al Tribunale amministrativo.
+<sup>3</sup> Contro la decisione su opposizione è possibile inoltrare ricorso al Tribunale d'appello.
 
-<sup>4</sup> Le opposizioni contro il progetto d'esposizione si conformano all'articolo 44bis sgg.
+<sup>4</sup> Le opposizioni contro il progetto d'esposizione si conformano all'articolo 44<sup>bis</sup> segg.
 
-- 5\. APPROVAZIONE DEL PROGETTO
-
-[^44-1]: Testo giusta decreto popolare del 6 giu. 1993; vedi nota all'art. 38 lett. a) e b)
+### 2.5. Approvazione del progetto
 
 #### Art. 44bis
 
-**Opposizione**[^44-1]
+**Opposizione**
 
-Contro il progetto pubblicamente esposto si può presentare opposizione al dipartimento competente entro il termine di esposizione.
-
-[^44bis-1]: Testo giusta decreto popolare del 6 giu. 1993; vedi nota all'art. 38 lett. a) e b)
+<sup>1</sup> Contro il progetto pubblicamente esposto si può presentare opposizione al dipartimento competente entro il termine di esposizione.
 
 #### Art. 44ter
 
-**Legittimazione all'opposizione**[^44bis-1]
+**Legittimazione all'opposizione**
 
-È legittimato a presentare opposizione a) chi è coinvolto dal progetto esposto e può addurre un interesse legittimo per il suo annullamento o la sua modifica;
+<sup>1</sup> È legittimato a presentare opposizione
 
+- a) chi è coinvolto dal progetto esposto e può addurre un interesse legittimo per il suo annullamento o la sua modifica;
 - b) il comune interessato;
-
-- c) le organizzazioni svizzere per la protezione dell'ambiente, per e in quanto fruiscano anche del ricorso di diritto amministrativo al Tribunale federale.
-
-[^44ter-1]: Testo giusta decreto popolare del 6 giu. 1993; vedi nota all'art. 38 lett. a) e b)
+- c) le organizzazioni svizzere per la protezione dell'ambiente, per e in quanto possano presentare ricorso in materia di diritto pubblico al Tribunale federale.
 
 #### Art. 44quater
 
-**Elaborazione dell'opposizione e approvazione del progetto**[^44ter-1]
+**Elaborazione dell'opposizione e approvazione del progetto**
 
 <sup>1</sup> Il dipartimento competente decide in merito alle opposizioni contro il progetto e approva il progetto d'esposizione. Unitamente allo scopo della bonifica esso considera ogni richiesta rilevante, in particolare gli interessi legati alla pianificazione del territorio, alla protezione della natura e del patrimonio culturale e alla protezione dell'ambiente.
 
 <sup>2</sup> L'approvazione del progetto è pubblicata sul Foglio Ufficiale Cantonale e secondo l'uso locale.
 
-<sup>3</sup> …[^44quater-1]
-
-[^44quater-1]: Abrogazione giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3421; entrata in vigore il 1° gen. 2007 1.1.2008 11
-[^44quater-2]: Testo giusta decreto popolare del 6 giu. 1993; vedi nota all'art. 38 lett. a) e b) 12 1.1.2008
+<sup>3</sup> …
 
 #### Art. 44quinquies
 
-**Effetto dell'approvazione del progetto**[^44quater-2]
+**Effetto dell'approvazione del progetto**
 
 <sup>1</sup> Una volta passata in giudicato l'approvazione del progetto esposto, per le costruzioni, gli impianti e le ulteriori misure contenutevi non occorre più alcuna licenza edilizia; l'approvazione del progetto sostituisce la licenza edilizia.
 
 <sup>2</sup> Le modifiche del progetto d'esposizione approvato devono essere approvate dal dipartimento competente prima della realizzazione. In caso di modifiche solo di poca importanza si può rinunciare alla procedura d'esposizione.
 
-### III. Altre operazioni collettive
+## 3. Altre operazioni collettive
 
 #### Art. 45
 
 **Concetto**
 
-Vanno considerate altre bonifiche fondiarie collettive in particolare:
+<sup>1</sup> Vanno considerate altre bonifiche fondiarie collettive in particolare:
 
 - a) le strade e i sentieri,
-
 - b) le teleferiche,
-
 - c) i prosciugamenti,
-
 - d) le irrigazioni,
-
 - e) gli acquedotti,
-
 - f) gli approvvigionamenti d'energia elettrica,
-
 - g) le migliorie degli alpi,
-
 - h) i lavori per la protezione o il ripristino di terreno agricolo,
-
 - i) i fabbricati rurali collettivi.
 
 #### Art. 46
 
 **Diritto applicabile**
 
-Le norme sul raggruppamento di terreni vengono applicate per analogia alle altre operazioni effettuate entro e fuori la procedura di raggruppamento di terreni.
+<sup>1</sup> Le norme sul raggruppamento di terreni vengono applicate per analogia alle altre operazioni effettuate entro e fuori la procedura di raggruppamento di terreni.
 
-### IV. Operazioni singole
+## 4. Operazioni singole
 
 #### Art. 47
 
@@ -550,7 +489,7 @@ Le norme sul raggruppamento di terreni vengono applicate per analogia alle altre
 
 <sup>2</sup> Per le operazioni singole fanno stato le relative norme della Confederazione.
 
-### V. Sussidi cantonali
+## 5. Sussidi cantonali
 
 #### Art. 48
 
@@ -564,11 +503,9 @@ Le norme sul raggruppamento di terreni vengono applicate per analogia alle altre
 
 **Ammontare dei sussidi cantonali**
 
-<sup>1</sup>[^49-1]Il Cantone versa sussidi al massimo fino al 40 percento delle spese sussidiabili, per il raggruppamento di terreni al massimo fino al 50 percento.
+<sup>1</sup> Il Cantone versa sussidi al massimo fino al 40 per cento delle spese sussidiabili, per il raggruppamento di terreni al massimo fino al 50 per cento.
 
-<sup>2</sup> Il Governo decide definitivamente sull'ammontare dei sussidi. Esso può vincolare le promesse di sussidio con condizioni e oneri. Nel caso di operazioni collettive esso impone al comune interessato l'onere di partecipare al sussidio del Cantone con una parte corrispondente alla sua efficienza finanziaria.
-
-[^49-1]: Testo giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 1657; entrato in vigore il 1° gen. 2008
+<sup>2</sup> Il Governo decide definitivamente sull'ammontare dei sussidi. Esso può vincolare le promesse di sussidio con condizioni e oneri.
 
 #### Art. 50
 
@@ -578,14 +515,11 @@ Le norme sul raggruppamento di terreni vengono applicate per analogia alle altre
 
 <sup>2</sup> Il fondo di bonifica fondiaria può essere accresciuto con versamenti dal conto ordinario d'amministrazione.
 
-<sup>3</sup>[^50-1]Il Cantone attribuisce al saldo del fondo un interesse conforme al mercato.
-
-[^50-1]: Introduzione giusta art. 104 cif. 3 della legge stradale, CSC 807.100
-[^50-2]: Abrogazione giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 1657; entrata in vigore il 1° gen. 2008 1.1.2008 13
+<sup>3</sup> Il Cantone attribuisce al saldo del fondo un interesse conforme al mercato.
 
 #### Art. 50bis
 
-[^50-2]
+**…**
 
 #### Art. 51
 
@@ -594,11 +528,8 @@ Le norme sul raggruppamento di terreni vengono applicate per analogia alle altre
 <sup>1</sup> Sono da rimborsare tutti i sussidi qualora siano adempiuti i presupposti legali per il rimborso dei sussidi federali. Questo si verifica segnatamente se:
 
 - a) i fondi o i fabbricati e gli impianti vengono sottratti alla loro destinazione,
-
 - b) i fondi non vengono coltivati o la manutenzione di opere è insufficiente,
-
 - c) i fabbricati vengono alienati con guadagno o rimangono per lungo tempo vuoti,
-
 - d) non vengono adempiute le condizioni né rispettati gli oneri.
 
 <sup>2</sup> Le norme della legislazione federale in materia di agricoltura vengono applicate a titolo complementare.
@@ -607,15 +538,15 @@ Le norme sul raggruppamento di terreni vengono applicate per analogia alle altre
 
 **Sussidi rimborsati**
 
-L'aliquota dei sussidi rimborsati non pretesa dalla Confederazione va ad alimentare il fondo di bonifica fondiaria.
+<sup>1</sup> L'aliquota dei sussidi rimborsati non pretesa dalla Confederazione va ad alimentare il fondo di bonifica fondiaria.
 
-### VI. Disposizioni finali
+## 6. Disposizioni finali
 
 #### Art. 53
 
 **Entrata in vigore**
 
-La presente legge viene dichiarata in vigore dal Governo[^53-1] una volta accettata dal Popolo e approvata dal Consiglio Federale.[^53-2]
+<sup>1</sup> La presente legge viene dichiarata in vigore dal Governo[^53-1] una volta accettata dal Popolo e approvata dal Consiglio Federale.[^53-2]
 
 [^53-1]: Approvata dal Consiglio Federale il 3 giugno 1981
 [^53-2]: Con DG 15 giu. 1981, dichiarata in vigore il 1° lug. 1981
@@ -624,18 +555,18 @@ La presente legge viene dichiarata in vigore dal Governo[^53-1] una volta accett
 
 **Ordinanza dei Gran Consiglio**
 
-Il Gran Consiglio emana un'ordinanza d'esecuzione[^54-1] e può autorizzare[^54-2] il Governo a emanare le necessarie disposizioni di attuazione.
+<sup>1</sup> Il Gran Consiglio emana un'ordinanza d'esecuzione[^54-1] e può autorizzare[^54-2] il Governo a emanare le necessarie disposizioni di attuazione.
 
-[^54-1]: CSC 915.110
+[^54-1]: CSC [915.110](https://www.gr-lex.gr.ch/data/915.110/it)
 [^54-2]: Vedi art. 43 dell'ordinanza d'esecuzione
 
 #### Art. 55
 
 **Abrogazioni**
 
-Viene abrogata la legge sulle bonifiche fondiarie del 7 aprile 1957.[^55-1]
+<sup>1</sup> Viene abrogata la legge sulle bonifiche fondiarie del 7 aprile 1957.[^55-1]
 
-[^55-1]: PDG, 605 e le modifiche secondo l'indice 14 1.1.2008
+[^55-1]: PDG, 605 e le modifiche secondo l'indice
 
 #### Art. 56
 
@@ -646,11 +577,8 @@ Viene abrogata la legge sulle bonifiche fondiarie del 7 aprile 1957.[^55-1]
 <sup>2</sup> Il dipartimento competente può:
 
 - a) dichiarare applicabili determinate norme dei capitoli I-III di questa legge,
-
 - b) dichiarare applicabili in tutta la loro estensione i capitoli I-III di questa legge per le bonifiche fondiarie che sono state decise dai proprietari fondiari dopo il 31 dicembre 1976.
 
 <sup>3</sup> Gli statuti d'operazioni esistenti devono essere inviati per esame al Dipartimento dell'interno entro un anno dall'entrata in vigore di questa legge.
 
-**15**
-
-1.1.2008
+-

@@ -3,31 +3,32 @@ canton: GR
 number: "915.100"
 title: Lescha da meglieraziun dal chantun Grischun
 language: rm
-version: 2008-01-01
-corrected: 2014-10-09
-version_adopted: 2007-04-18
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2022-06-14
 adopted: 1981-04-05
 in_force: 1981-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/915.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1790/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3426/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha da meglieraziun dal chantun Grischun
 
-acceptada dal pievel ils 5 d'avrigl 1981[^t-1]
+dals 05-04-1981 (versiun dals 01-01-2025)
 
-I. Prescripziuns generalas
+acceptada dal pievel ils 5 d'avrigl 1981[^ingress-1]
 
-[^t-1]: M dals 30 da zercladur 1980, 169; PCG 1980/81, 205, (1. lectura); PCG 1980/81, 449, 456 (2. lectura) 1-1-2008 1
+[^ingress-1]: M dals 30 da zercladur 1980, 169; PCG 1980/81, 205, (1. lectura); PCG 1980/81, 449, 456 (2. lectura)
+
+## 1. Prescripziuns generalas
 
 #### Art. 1
 
 **Noziun ed intent**
 
-Meglieraziuns èn mesiras, ovras e construcziuns agriculas autas e bassas che han l'intent da mantegnair u d'augmentar la productivitad dal terren, da facilitar sia cultivaziun u d'al proteger cunter devastaziuns u destrucziuns chaschunadas d'eveniments da la natira.
+<sup>1</sup> Meglieraziuns èn mesiras, ovras e construcziuns agriculas autas e bassas che han l'intent da mantegnair u d'augmentar la productivitad dal terren, da facilitar sia cultivaziun u d'al proteger cunter devastaziuns u destrucziuns chaschunadas d'eveniments da la natira.
 
 #### Art. 2
 
@@ -36,13 +37,9 @@ Meglieraziuns èn mesiras, ovras e construcziuns agriculas autas e bassas che ha
 <sup>1</sup> Questa lescha regla:
 
 - a) l'arrundaziun dal terren agricul e forestal sco er las meglieraziuns generalas en il senn da l'artitgel 12 alinea 2;
-
 - b) las arrundaziuns dal terren agricul e forestal ch'èn vegnidas fatgas en il rom dal regruppament total;
-
 - c) las autras meglieraziuns communablas dal terren;
-
 - d) interpresas singulas;
-
 - e) las contribuziuns per meglieraziuns.
 
 <sup>2</sup> La lescha vegn applitgada per tut las immobiglias en il territori cumpiglià inclusiv per ils dretgs reals ch'existan sin quellas.
@@ -51,7 +48,7 @@ Meglieraziuns èn mesiras, ovras e construcziuns agriculas autas e bassas che ha
 
 **Ambient**
 
-Cun realisar meglieraziuns èsi da tegnair quint adequatamain dals interess generals da l'ambient, en spezial da la protecziun da la natira e dal mantegniment dal maletg dal vitg e da la cuntrada.
+<sup>1</sup> Cun realisar meglieraziuns èsi da tegnair quint adequatamain dals interess generals da l'ambient, en spezial da la protecziun da la natira e dal mantegniment dal maletg dal vitg e da la cuntrada.
 
 #### Art. 4
 
@@ -69,7 +66,7 @@ Cun realisar meglieraziuns èsi da tegnair quint adequatamain dals interess gene
 
 <sup>2</sup> Quest territori sto s'extender per regla sur in territori limità natiralmain u economicamain ch'è adattà u che serva a l'utilisaziun agricula.
 
-### <sup>1)</sup> Art. 6
+#### Art. 6
 
 **Cumpetenza da determinar il territori cumpiglià**
 
@@ -77,9 +74,7 @@ Cun realisar meglieraziuns èsi da tegnair quint adequatamain dals interess gene
 
 <sup>2</sup> Analogamain èsi d'agir tar midadas dal territori cumpiglià. Tar las meglieraziuns che vegnan realisadas d'ina associaziun entra en quest cas la suprastanza da l'associaziun empè da la suprastanza communala.
 
-<sup>3</sup>[^hsup1supArt6-1]Cunter la decisiun dal departament pon ins far recurs tar la dretgira administrativa.
-
-[^hsup1supArt6-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3328; entrà en vigur il 1. da schaner 2007
+<sup>3</sup> Cunter la decisiun dal departament pon ins far recurs tar la Dretgira superiura.
 
 #### Art. 7
 
@@ -95,9 +90,7 @@ Cun realisar meglieraziuns èsi da tegnair quint adequatamain dals interess gene
 
 <sup>1</sup> La colliaziun cun ulteriuras interpresas sto vegnir permessa, sche las premissas natiralas e tecnicas permettan quai.
 
-<sup>2</sup>[^8-1]Sch'i na dat nagina enclegientscha davart la colliaziun, decida la regenza definitivamain. Ella fixescha ina indemnisaziun adequata per las prestaziuns furnidas.
-
-[^8-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3328; entrà en vigur il 1. da schaner 2007 2 1-1-2008
+<sup>2</sup> Sch'i na dat nagina enclegientscha davart la colliaziun, decida la regenza definitivamain. Ella fixescha ina indemnisaziun adequata per las prestaziuns furnidas.
 
 #### Art. 9
 
@@ -107,29 +100,25 @@ Cun realisar meglieraziuns èsi da tegnair quint adequatamain dals interess gene
 
 <sup>2</sup> La dissoluziun da l'associaziun basegna l'approvaziun dal departament cumpetent.
 
-<sup>3</sup>[^9-1]Decisiuns dal departament èn suttamessas al recurs tar la regenza. Quella decida definitivamain.
-
-[^9-1]: integraziun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3329; entrà en vigur il 1. da schaner 2007
+<sup>3</sup> Decisiuns dal departament èn suttamessas al recurs tar la regenza. Quella decida definitivamain.
 
 #### Art. 10
 
 **Organs**
 
-Ils organs d'ina associaziun èn la radunanza da l'associaziun, la suprastanza da l'associaziun, la cumissiun da stimaziun ed ils revisurs da quint.
-
-[^10-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3329; entrà en vigur il 1. da schaner 2007
+<sup>1</sup> Ils organs d'ina associaziun èn la radunanza da l'associaziun, la suprastanza da l'associaziun, la cumissiun da stimaziun ed ils revisurs da quint.
 
 #### Art. 11
 
-**Surveglianza**[^10-1]
+**Surveglianza**
 
 <sup>1</sup> L'autoritad chantunala cumpetenta en il senn da las disposiziuns da la lescha federala d'agricultura è la regenza, uschenavant che questa lescha na dispona betg autramain. Las decisiuns da la regenza èn definitivas, sche las disposiziuns davart ils fatgs da meglieraziun u sch'il dretg surordinà na prevesan nagins auters meds legals.
 
 <sup>2</sup> Las meglieraziuns che vegnan sustegnidas da la confederaziun e dal chantun èn suttamessas – entant ch'ellas vegnan realisadas e suenter ch'ellas èn terminadas – a la surveglianza da l'uffizi chantunal cumpetent. Cunter decisiuns da l'uffizi po vegnir fatg recurs tar il departament e tar la regenza. La decisiun da la regenza è definitiva. Resalvads restan auters meds legals tenor il dretg surordinà e tenor las disposiziuns davart ils fatgs da meglieraziun.
 
-### II. Arrundaziun dal terren
+## 2. Arrundaziun dal terren
 
-- 1\. EN GENERAL
+### 2.1. En general
 
 #### Art. 12
 
@@ -138,16 +127,13 @@ Ils organs d'ina associaziun èn la radunanza da l'associaziun, la suprastanza d
 <sup>1</sup> L'arrundaziun dal terren serva:
 
 - a) a l'utilisaziun raziunala dal terren en l'agricultura ed en la selvicultura;
-
 - b) al detretschament d'utilisaziuns en il rom dal regruppament total tenor la lescha davart la planisaziun dal territori per il chantun Grischun;[^12-1]
-
 - c) a las mesiras da la planisaziun locala, regiunala e naziunala, sche vias, construcziuns da chanalisaziun e da viafier sco er autras ovras pregiuditgeschan l'utilisaziun agricula dal terren;
-
 - d) a la preparaziun per l'introducziun dal register funsil federal.
 
 <sup>2</sup> Arrundaziuns dal terren duain cumpigliar ultra da l'arrundaziun dals bains immobigliars e da las vias er ulteriuras meglieraziuns d'interess communabel ch'èn necessarias per mantegnair u per augmentar la productivitad dal terren u per facilitar sia cultivaziun u per repartir raziunalmain il possess nov (meglieraziun generala).
 
-[^12-1]: DG 801.100 1-1-2008 3
+[^12-1]: DG [801.100](https://www.gr-lex.gr.ch/data/801.100/rm)
 
 #### Art. 13
 
@@ -159,7 +145,7 @@ Ils organs d'ina associaziun èn la radunanza da l'associaziun, la suprastanza d
 
 <sup>3</sup> Avant l'exposiziun da la nova repartiziun fin a sia vigur legala na dastga l'urden d'utilisaziun betg vegnir midà.
 
-- 2\. PREPARAZIUN
+### 2.2. Preparaziun
 
 #### Art. 14
 
@@ -187,10 +173,6 @@ Ils organs d'ina associaziun èn la radunanza da l'associaziun, la suprastanza d
 
 <sup>2</sup> L'arrundaziun dal terren è concludida, sche la maioritad dals proprietaris da terren participads approvescha l'interpresa, e quai senza resguardar la grondezza da la surfatscha.
 
-**4**
-
-1-1-2008
-
 #### Art. 17
 
 **Ordinaziun e realisaziun d'uffizi**
@@ -201,21 +183,19 @@ Ils organs d'ina associaziun èn la radunanza da l'associaziun, la suprastanza d
 
 <sup>3</sup> Sche la procedura vegn realisada d'ina autoritad, surpiglia quella ils dretgs e las obligaziuns che vegnan adgiuditgads a la radunanza da l'associaziun ed a la suprastanza da l'associaziun.
 
-[^17-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3329; entrà en vigur il 1. da schaner 2007 1-1-2008 5
-
 #### Art. 18
 
-**Contestaziun dal conclus e da l'ordinaziun**[^17-1]
+**Contestaziun dal conclus e da l'ordinaziun**
 
-Il conclus da realisaziun e l'ordinaziun d'uffizi pon vegnir contestads cun in recurs directamain tar la dretgira administrativa. Il recurs sto sa drizzar cunter la vischnanca ch'è responsabla per la realisaziun u – en cas da l'ordinaziun tras la regenza – cunter il chantun.
+<sup>1</sup> Il conclus da realisaziun e l'ordinaziun d'uffizi pon vegnir contestads cun in recurs directamain tar la Dretgira superiura. Il recurs sto sa drizzar cunter la vischnanca ch'è responsabla per la realisaziun u – en cas da l'ordinaziun tras la Regenza – cunter il chantun.
 
 #### Art. 19
 
 **Custs da preparaziun**
 
-Sch'ina arrundaziun dal terren vegn refusada da la radunanza che decida, surpiglian las vischnancas ils custs da preparaziun.
+<sup>1</sup> Sch'ina arrundaziun dal terren vegn refusada da la radunanza che decida, surpiglian las vischnancas ils custs da preparaziun.
 
-- 3\. REALISAZIUN
+### 2.3. Realisaziun
 
 #### Art. 20
 
@@ -231,7 +211,7 @@ Sch'ina arrundaziun dal terren vegn refusada da la radunanza che decida, surpigl
 
 **Inventarisaziun dal possess vegl**
 
-En il territori cumpiglià vegn inventarisada la proprietad dals bains immobigliars e preschentada en plans e registers.
+<sup>1</sup> En il territori cumpiglià vegn inventarisada la proprietad dals bains immobigliars e preschentada en plans e registers.
 
 #### Art. 22
 
@@ -259,13 +239,13 @@ En il territori cumpiglià vegn inventarisada la proprietad dals bains immobigli
 
 **Valitaziun lianta**
 
-Suenter la scadenza dal termin da recurs daventa la valitaziun da princip lianta per ils participads e na po betg pli vegnir contestada a chaschun da la nova repartiziun.
+<sup>1</sup> Suenter la scadenza dal termin da recurs daventa la valitaziun da princip lianta per ils participads e na po betg pli vegnir contestada a chaschun da la nova repartiziun.
 
 #### Art. 25
 
 **Deducziun per stabiliments communabels**
 
-Per ils stabiliments communabels e per facilitar la nova repartiziun vegn fatga ina deducziun da la valur dal possess vegl. La deducziun da la valur na vegn betg indemnisada.
+<sup>1</sup> Per ils stabiliments communabels e per facilitar la nova repartiziun vegn fatga ina deducziun da la valur dal possess vegl. La deducziun da la valur na vegn betg indemnisada.
 
 #### Art. 26
 
@@ -273,13 +253,7 @@ Per ils stabiliments communabels e per facilitar la nova repartiziun vegn fatga 
 
 <sup>1</sup> Sch'ina persuna cun dretg d'expropriaziun vul construir in'ovra publica en il territori cumpiglià e sch'ella n'è betg buna da cuvrir il basegn da terren tras ses dretg sco commembra da l'interpresa, la po vegnir procurà terren cun agid d'ina deducziun procentuala supplementara da la valur dal terren.
 
-<sup>2</sup> Per la deducziun supplementara sto l'interpresa vegnir indemnisada da la persuna cun dretg d'expropriaziun tenor la valur commerziala. Las valurs
-
-**6**
-
-**7**
-
-1-1-2008 respectivas vegnan bunifitgadas als singuls proprietaris da bains immobigliars e scuntradas en il rom da la repartiziun dals custs.
+<sup>2</sup> Per la deducziun supplementara sto l'interpresa vegnir indemnisada da la persuna cun dretg d'expropriaziun tenor la valur commerziala. Las valurs respectivas vegnan bunifitgadas als singuls proprietaris da bains immobigliars e scuntradas en il rom da la repartiziun dals custs.
 
 #### Art. 27
 
@@ -315,17 +289,15 @@ Per ils stabiliments communabels e per facilitar la nova repartiziun vegn fatga 
 
 **Tractament dal terren da construcziun**
 
-Sch'ina arrundaziun dal terren cumpiglia er terren da construcziun, sto quel vegnir tractà tenor ils princips d'in regruppament dal terren da construcziun en il senn da la lescha chantunala davart la planisaziun dal
+<sup>1</sup> Sch'ina arrundaziun dal terren cumpiglia er terren da construcziun, sto quel vegnir tractà tenor ils princips d'in regruppament dal terren da construcziun en il senn da la lescha chantunala davart la planisaziun dal territori[^30-1]. Ils interess agriculs ston vegnir resguardads tenor pussaivladad.
 
-1-1-2008 territori[^30-1]. Ils interess agriculs ston vegnir resguardads tenor pussaivladad.
-
-[^30-1]: DG 801.100 8 1-1-2008
+[^30-1]: DG [801.100](https://www.gr-lex.gr.ch/data/801.100/rm)]]
 
 #### Art. 31
 
 **Barat**
 
-Il barat tranter terren da construcziun e terren cultivà premetta per regla il consentiment dals proprietaris da bains immobigliars pertutgads e sto vegnir fatg per las valurs commerzialas.
+<sup>1</sup> Il barat tranter terren da construcziun e terren cultivà premetta per regla il consentiment dals proprietaris da bains immobigliars pertutgads e sto vegnir fatg per las valurs commerzialas.
 
 #### Art. 32
 
@@ -359,53 +331,43 @@ Il barat tranter terren da construcziun e terren cultivà premetta per regla il 
 
 **Repartiziun per la cultivaziun**
 
-L'entrada en possess po vegnir disponida dals purtaders per l'entir territori cumpiglià u per parts da quel avant l'acquist da proprietad.
+<sup>1</sup> L'entrada en possess po vegnir disponida dals purtaders per l'entir territori cumpiglià u per parts da quel avant l'acquist da proprietad.
 
 #### Art. 36
 
 **Acquist da proprietad**
 
-<sup>1</sup>[^36-1]L'acquist da proprietad vegn fatg suenter l'entrada en vigur da la nova repartiziun sin proposta dals purtaders tras in conclus da la regenza. Quest conclus è definitiv e vegn publitgà en il fegl uffizial dal chantun.
+<sup>1</sup> L'acquist da proprietad vegn fatg suenter l'entrada en vigur da la nova repartiziun sin proposta dals purtaders tras in conclus da la regenza. Quest conclus è definitiv e vegn publitgà en il fegl uffizial dal chantun.
 
 <sup>2</sup> Dals bains immobigliars repartids da nov po vegnir disponì pir suenter l'acquist da proprietad e suenter l'inscripziun en il register funsil.
 
-- 4\. PROTECZIUN GIURIDICA
-
-[^36-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3329; entrà en vigur il 1. da schaner 2007
+### 2.4. Protecziun giuridica
 
 #### Art. 37
 
 **Instanzas da meds legals**
 
-Las instanzas da meds legals èn las cumissiuns da stimaziun e la dretgira administrativa chantunala.
+<sup>1</sup> Las instanzas da meds legals èn las cumissiuns da stimaziun e la Dretgira superiura.
 
 #### Art. 38
 
 **Exposiziun publica**
 
-<sup>1</sup>[^38-1]Las disposiziuns sco er ils plans ed ils registers latiers ston vegnir exponids publicamain durant in termin da 30 dis, spezialmain:
+<sup>1</sup> Las disposiziuns sco er ils plans ed ils registers latiers ston vegnir exponids publicamain durant in termin da 30 dis, spezialmain:
 
-- a)[^38-2]il territori cumpiglià ed il register dals proprietaris da bains immobigliars participads;
-
-- b)[^38-3]il project d'exposiziun;
-
+- a) il territori cumpiglià ed il register dals proprietaris da bains immobigliars participads;
+- b) il project d'exposiziun;
 - c) ils plans, ils registers e la valitaziun dal possess vegl;
-
 - d) la nova repartiziun;
-
 - e) la repartiziun dals custs.
 
 <sup>2</sup> Las pretensiuns tenor litera a fin e ston vegnir communitgadas en il fegl uffizial dal chantun ed en la moda usitada al lieu, munidas cun ina indicaziun dals meds legals, als proprietaris da bains immobigliars pertutgads.
-
-[^38-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3329; entrà en vigur il 1. da schaner 2007
-[^38-2]: versiun tenor il conclus dal pievel dals 6 da zercladur 1993; M dals 15 da december 1992, 761; PCG 1992/93, 900; mess en vigur cun CR dals 15 da zercladur 1993 per il 1. da fanadur 1993
-[^38-3]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3329; entrà en vigur il 1. da schaner 2007
 
 #### Art. 39
 
 **Procedura da protesta**
 
-<sup>1</sup>[^39-1]Cunter tut las disposiziuns pon las persunas pertutgadas inoltrar a la cumissiun da stimaziun ina protesta munida cun ina proposta ed ina motivaziun en scrit, e quai durant il termin d'exposiziun respectivamain entaifer 30 dis dapi la consegna da la disposiziun. La protesta sto vegnir tramessa immediatamain a l'autoritad che ha relaschà la disposiziun per la consultaziun. Sin quai fa la cumissiun da stimaziun, eventualmain ensemen cun ina inspecziun al lieu, ina tractativa a bucca, a la quala las partidas pon preschentar anc ina giada lur puntgs da vista.
+<sup>1</sup> Cunter tut las disposiziuns pon las persunas pertutgadas inoltrar a la cumissiun da stimaziun ina protesta munida cun ina proposta ed ina motivaziun en scrit, e quai durant il termin d'exposiziun respectivamain entaifer 30 dis dapi la consegna da la disposiziun. La protesta sto vegnir tramessa immediatamain a l'autoritad che ha relaschà la disposiziun per la consultaziun. Sin quai fa la cumissiun da stimaziun, eventualmain ensemen cun ina inspecziun al lieu, ina tractativa a bucca, a la quala las partidas pon preschentar anc ina giada lur puntgs da vista.
 
 <sup>2</sup> La cumissiun da stimaziun emprova da reconciliar las partidas a la buna e fa propostas d'enclegientscha. Ils resultats da questas stentas d'enclegientscha ston vegnir constatads en scrit e renconuschids da las partidas cun la suttascripziun.
 
@@ -414,8 +376,6 @@ Las instanzas da meds legals èn las cumissiuns da stimaziun e la dretgira admin
 <sup>4</sup> Avant l'aboliziun u la midada d'ina disposiziun ston vegnir tadladas las persunas eventualmain pertutgadas; en cas da basegn sto vegnir fatga ina nova procedura d'exposiziun.
 
 <sup>5</sup> Sch'i na vegn fatga nagina protesta, daventan las disposiziuns resp. las actas exponidas liantas per ils singuls participads.
-
-[^39-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3329; entrà en vigur il 1. da schaner 2007 1-1-2008 9
 
 #### Art. 40
 
@@ -431,7 +391,7 @@ Las instanzas da meds legals èn las cumissiuns da stimaziun e la dretgira admin
 
 **Protestas cunter la valitaziun**
 
-Las protestas cunter la valitaziun vegnan medemamain tractadas e decididas da la cumissiun da stimaziun, e quai applitgond confurm al senn ils artitgels 39 e 40.
+<sup>1</sup> Las protestas cunter la valitaziun vegnan medemamain tractadas e decididas da la cumissiun da stimaziun, e quai applitgond confurm al senn ils artitgels 39 e 40.
 
 #### Art. 42
 
@@ -441,111 +401,85 @@ Las protestas cunter la valitaziun vegnan medemamain tractadas e decididas da la
 
 <sup>2</sup> Il protestader po vegnir admonì da stuair surpigliar ils custs en il cas d'in cumportament entardant u da levsenn.
 
-[^42-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3330; entrà en vigur il 1. da schaner 2007 10 1-1-2008
-
 #### Art. 43
 
-**Recurs**[^42-1]
+**Recurs**
 
-Cunter las decisiuns da la cumissiun da stimaziun pon tant ils proprietaris da bains immobigliars pertutgads sco er ils purtaders da l'interpresa far recurs tar la dretgira administrativa entaifer 30 dis dapi la consegna.
-
-[^43-1]: versiun tenor il conclus dal pievel dals 6 da zercladur 1993; vesair A tar l'art. 38 lit. a e b
+<sup>1</sup> Cunter las decisiuns da la cumissiun da stimaziun pon tant ils proprietaris da bains immobigliars pertutgads sco er ils purtaders da l'interpresa far recurs tar la Dretgira superiura entaifer 30 dis dapi la consegna.
 
 #### Art. 44
 
-**procedura da protesta e da recurs**[^43-1]
+**Exclusiun da la procedura da protesta e da recurs**
 
-<sup>1</sup>[^44-1]La procedura da protesta e da recurs tenor ils artitgels 39 ss. na vegn[^44-2]Exclusiun da la betg applitgada per protestas cunter il register dals proprietaris da bains immobigliars e cunter il project d'exposiziun.
+<sup>1</sup> La procedura da protesta e da recurs tenor ils artitgels 39 ss. na vegn betg applitgada per protestas cunter il register dals proprietaris da bains immobigliars e cunter il project d'exposiziun.
 
 <sup>2</sup> Las protestas cunter il register dals proprietaris da bains immobigliars vegnan giuditgadas dal departament cumpetent.
 
-<sup>3</sup>[^44-3]Cunter la decisiun da protesta po vegnir fatg recurs tar la dretgira administrativa.
+<sup>3</sup> Cunter la decisiun da protesta po vegnir fatg recurs tar la Dretgira superiura.
 
-<sup>4</sup> Las protestas cunter il project d'exposiziun sa drizzan tenor ils artitgels 44bis e ss.
+<sup>4</sup> Las protestas cunter il project d'exposiziun sa drizzan tenor ils artitgels 44<sup>bis</sup> e ss.
 
-- 5\. APPROVAZIUN DAL PROJECT
-
-[^44-1]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3330; entrà en vigur il 1. da schaner 2007
-[^44-2]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 2006, 3330; entrà en vigur il 1. da schaner 2007
-[^44-3]: versiun tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3330; entrà en vigur il 1. da schaner 2007
-[^44-4]: integraziun tenor il conclus dal pievel dals 6 da zercladur 1993; vesair A tar l'art. 38 lit. a e b
+### 2.5. Approvaziun dal project
 
 #### Art. 44bis
 
-**Protesta**[^44-4]
+**Protesta**
 
-Cunter il project d'exposiziun poi vegnir fatg protesta en scrit tar il departament cumpetent entaifer il termin d'exposiziun.
-
-[^44bis-1]: integraziun tenor il conclus dal pievel dals 6 da zercladur 1993; vesair A tar l'art. 38 lit. a e b 1-1-2008 11
+<sup>1</sup> Cunter il project d'exposiziun poi vegnir fatg protesta en scrit tar il departament cumpetent entaifer il termin d'exposiziun.
 
 #### Art. 44ter
 
-**Legitimaziun da far protesta**[^44bis-1]
+**Legitimaziun da far protesta**
 
-Legitimà da far protesta è:
+<sup>1</sup> Legitimà da far protesta è:
 
 - a) tgi ch'è pertutgà dal project d'exposiziun e po far valair in interess degn da vegnir protegì per abolir u midar quel;
-
 - b) la vischnanca pertutgada;
-
-- c) las organisaziuns naziunalas da protecziun da l'ambient, sche ed uschenavant ch'ellas han er il dretg da far recurs da dretg administrativ tar il tribunal federal.
-
-[^44ter-1]: integraziun tenor il conclus dal pievel dals 6 da zercladur 1993; vesair A tar l'art. 38 lit. a e b
+- c) las organisaziuns naziunalas da protecziun da l'ambient, sche ed uschenavant ch'ellas han er il dretg da far recurs en chaussas da dretg public tar il Tribunal federal.
 
 #### Art. 44quater
 
-**Tractament da las protestas ed approvaziun dal project**[^44ter-1]
+**Tractament da las protestas ed approvaziun dal project**
 
 <sup>1</sup> Il departament cumpetent decida davart las protestas cunter il project ed approvescha il project d'exposiziun. El resguarda en quest connex ultra da l'intent da meglieraziun tut las dumondas impurtantas, spezialmain ils interess da la planisaziun dal territori, da la protecziun da la natira e da la patria e da la protecziun da l'ambient.
 
 <sup>2</sup> L'approvaziun dal project vegn publitgada en il fegl uffizial dal chantun ed en la moda usitada al lieu.
 
-<sup>3</sup> …[^44quater-1]
-
-[^44quater-1]: abolì tenor l'agiunta tar la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3330; entrà en vigur il 1. da schaner 2007
-[^44quater-2]: versiun tenor il conclus dal pievel dals 6 da zercladur 1993; vesair A tar l'art. 38 lit. a e b 12 1-1-2008
+<sup>3</sup> …
 
 #### Art. 44quinquies
 
-**Effect da l'approvaziun dal project**[^44quater-2]
+**Effect da l'approvaziun dal project**
 
 <sup>1</sup> Suenter l'entrada en vigur da l'approvaziun dal project d'exposiziun n'è ina permissiun da construcziun betg pli necessaria per ils edifizis, per ils stabiliments e per las ulteriuras mesiras ch'èn cuntegnids en quel; l'approvaziun dal project substituescha la permissiun da construcziun.
 
 <sup>2</sup> Las midadas visavi il project d'exposiziun approvà ston vegnir approvadas dal departament cumpetent avant l'execuziun da las lavurs. En cas da midadas mo minimalas poi vegnir desistì da la procedura d'exposiziun.
 
-### III. Autras interpresas communablas
+## 3. Autras interpresas communablas
 
 #### Art. 45
 
 **Noziun**
 
-Sco autras meglieraziuns communablas valan spezialmain:
+<sup>1</sup> Sco autras meglieraziuns communablas valan spezialmain:
 
 - a) vias e sendas;
-
 - b) telefericas;
-
 - c) drenaschas;
-
 - d) sauaziuns;
-
 - e) provediments d'aua;
-
 - f) provediments d'electricitad;
-
 - g) meglieraziuns d'alps;
-
 - h) lavurs per segirar u per reparar terren cultivà;
-
 - i) edifizis agriculs communabels.
 
 #### Art. 46
 
 **Dretg applitgabel**
 
-Las prescripziuns davart l'arrundaziun dal terren vegnan applitgadas confurm al senn per las ulteriuras interpresas realisadas entaifer ed ordaifer la procedura d'arrundaziun dal terren.
+<sup>1</sup> Las prescripziuns davart l'arrundaziun dal terren vegnan applitgadas confurm al senn per las ulteriuras interpresas realisadas entaifer ed ordaifer la procedura d'arrundaziun dal terren.
 
-### IV. Interpresas singulas
+## 4. Interpresas singulas
 
 #### Art. 47
 
@@ -555,7 +489,7 @@ Las prescripziuns davart l'arrundaziun dal terren vegnan applitgadas confurm al 
 
 <sup>2</sup> Per las interpresas singulas valan las prescripziuns respectivas da la confederaziun.
 
-### V. Contribuziuns chantunalas
+## 5. Contribuziuns chantunalas
 
 #### Art. 48
 
@@ -569,11 +503,9 @@ Las prescripziuns davart l'arrundaziun dal terren vegnan applitgadas confurm al 
 
 **Import da las contribuziuns chantunalas**
 
-<sup>1</sup>[^49-1]Il chantun paja contribuziuns da fin maximalmain 40 pertschient dals custs cun dretg da subvenziuns, ad arrundaziuns dal terren contribuziuns da fin maximalmain 50 pertschient.
+<sup>1</sup> Il chantun paja contribuziuns da fin maximalmain 40 pertschient dals custs cun dretg da subvenziuns, ad arrundaziuns dal terren contribuziuns da fin maximalmain 50 pertschient.
 
-<sup>2</sup> La regenza decida definitivamain davart l'import da la contribuziun. Ella po colliar cundiziuns e pretensiuns cun las garanzias da contribuziun. En cas d'interpresas communablas fa ella la pretensiun a la vischnanca respectiva che la vischnanca prestia ina part che correspunda a sia forza finanziala a la contribuziun dal chantun.
-
-[^49-1]: versiun tenor CCG dals 18 d'avrigl 2007; PCG 2006/2007, 981; M pertutgant la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937; CUL 2007, FUC 2007, 1630; entrà en vigur il 1. da schaner 2008 1-1-2008 13
+<sup>2</sup> La regenza decida definitivamain davart l'import da la contribuziun. Ella po colliar cundiziuns e pretensiuns cun las garanzias da contribuziun.
 
 #### Art. 50
 
@@ -583,14 +515,11 @@ Las prescripziuns davart l'arrundaziun dal terren vegnan applitgadas confurm al 
 
 <sup>2</sup> Il fond da meglieraziun po vegnir augmentà cun apports or dal quint administrativ ordinari.
 
-<sup>3</sup>[^50-1]Il chantun tschainsescha il saldo dal fond confurm al martgà.
-
-[^50-1]: integraziun tenor l'art. 104 cifra 3 da la lescha davart las vias, DG 807.100
-[^50-2]: abolì tenor CCG dals 18 d'avrigl 2007; PCG 2006/2007, 981; M pertutgant la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937; CUL 2007, FUC 2007, 1630; entrà en vigur il 1. da schaner 2008
+<sup>3</sup> Il chantun tschainsescha il saldo dal fond confurm al martgà.
 
 #### Art. 50bis
 
-[^50-2]
+**…**
 
 #### Art. 51
 
@@ -599,11 +528,8 @@ Las prescripziuns davart l'arrundaziun dal terren vegnan applitgadas confurm al 
 <sup>1</sup> Tut las contribuziuns ston vegnir restituidas, sche las premissas legalas per la restituziun da las contribuziuns federalas èn ademplidas. Quai constat particularmain, sche:
 
 - a) bains immobigliars u edifizis e stabiliments vegnan utilisads per in auter intent;
-
 - b) bains immobigliars na vegnan betg cultivads u sche ovras vegnan mantegnidas mo insuffizientamain;
-
 - c) edifizis da construcziun auta vegnan alienads cun gudogn u restan vids per in temp pli lung;
-
 - d) las cundiziuns na vegnan betg ademplidas e las pretensiuns betg observadas.
 
 <sup>2</sup> Las prescripziuns da la legislaziun federala d'agricultura vegnan applitgadas cumplementarmain.
@@ -612,35 +538,35 @@ Las prescripziuns davart l'arrundaziun dal terren vegnan applitgadas confurm al 
 
 **Contribuziuns restituidas**
 
-La part da las contribuziuns restituidas che na vegn betg pretendida da la confederaziun va en il fond da meglieraziun.
+<sup>1</sup> La part da las contribuziuns restituidas che na vegn betg pretendida da la confederaziun va en il fond da meglieraziun.
 
-### VI. Disposiziuns finalas
+## 6. Disposiziuns finalas
 
 #### Art. 53
 
 **Entrada en vigur**
 
-La regenza metta en vigur questa lescha suenter ch'ella è vegnida acceptada dal pievel e suenter l'approvaziun tras il cussegl federal[^53-1].[^53-2]
+<sup>1</sup> La regenza metta en vigur questa lescha suenter ch'ella è vegnida acceptada dal pievel e suenter l'approvaziun tras il cussegl federal[^53-1].[^53-2]
 
 [^53-1]: approvada dal cussegl federal ils 3 da zercladur 1981
-[^53-2]: messa en vigur cun CR dals 15 da zercladur 1981 per il 1. da fanadur 1981 14 1-1-2008
+[^53-2]: messa en vigur cun CR dals 15 da zercladur 1981 per il 1. da fanadur 1981
 
 #### Art. 54
 
 **Ordinaziun dal cussegl grond**
 
-Il cussegl grond relascha in'ordinaziun executiva.[^54-1] El po autorisar la regenza da relaschar las disposiziuns executivas.[^54-2]
+<sup>1</sup> Il cussegl grond relascha in'ordinaziun executiva.[^54-1] El po autorisar la regenza da relaschar las disposiziuns executivas.[^54-2]
 
-[^54-1]: DG 915.110
+[^54-1]: DG [915.110](https://www.gr-lex.gr.ch/data/915.110/rm)
 [^54-2]: vesair art. 43 da l'ordinaziun executiva
 
 #### Art. 55
 
 **Aboliziun dal dretg vertent**
 
-La lescha da meglieraziun dals 7 d'avrigl 1957[^55-1] vegn abolida.
+<sup>1</sup> La lescha da meglieraziun dals 7 d'avrigl 1957[^55-1] vegn abolida.
 
-[^55-1]: vDG 1577 e midadas tenor register 1-1-2008 15
+[^55-1]: vDG 1577 e midadas tenor register
 
 #### Art. 56
 
@@ -651,11 +577,8 @@ La lescha da meglieraziun dals 7 d'avrigl 1957[^55-1] vegn abolida.
 <sup>2</sup> Il departament cumpetent po:
 
 - a) declerar per applitgablas tschertas prescripziuns dals chapitels I fin III da questa lescha;
-
 - b) declerar ils chapitels I fin III da questa lescha per applitgabels en lur cumplaina dimensiun per meglieraziuns ch'èn vegnidas concludidas dals proprietaris da bains immobigliars suenter ils 31 da december 1976.
 
 <sup>3</sup> Ils statuts da las interpresas existentas ston vegnir inoltrads al departament da l'intern e da l'economia publica per l'examinaziun, e quai entaifer in onn suenter l'entrada en vigur da questa lescha.
 
-## Weitere Fussnoten
-
-- [1] versiun tenor la revisiun tras l'art. 1 cifra 20 da la lescha davart l'adattaziun da leschas a l'art. 6 cifra 1, CEDU ed a l'art. 98a OG; CUL 1995, 3412
+-
