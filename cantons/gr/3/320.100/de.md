@@ -4,13 +4,13 @@ number: "320.100"
 title: Einführungsgesetz zur Schweizerischen Zivilprozessordnung
 short: EGzZPO
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/320.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3221/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3391/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3221/pdf_file"
 
 (EGzZPO)
 
-Vom 16.06.2010 (Stand 01.01.2022)
+Vom 16.06.2010 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -79,56 +79,62 @@ beschliesst:
 
 #### Art. 4
 
-**Erstinstanzliches Gericht 1. Einzelrichterin, Einzelrichter**
-
-<sup>1</sup> Soweit das Bundesrecht oder das kantonale Recht nichts anderes bestimmt, entscheidet ein Mitglied des Regionalgerichts in einzelrichterlicher Kompetenz:
-
-- a) in Angelegenheiten, für die das summarische Verfahren gilt;
-- b) bei vermögensrechtlichen Streitigkeiten im Betrag bis 5000 Franken;
-- c) über die Ehescheidung, Ehetrennung oder die Auflösung der eingetragenen Partnerschaft auf gemeinsames Begehren bei umfassender Einigung;
-- d) über die Vollstreckung;
-- e) über Widerhandlungen gegen gerichtliche Verbote im Sinn der Zivilprozessordnung[^4-1].
-
-<sup>2</sup> Sie oder er erledigt Rechtshilfegesuche, soweit nicht das Kantonsgericht dafür zuständig ist.
-
-[^4-1]: SR [272](https://db.clex.ch/link/Bund/272%20/de)
+**…**
 
 #### Art. 5
 
-**2. Kollegialgericht**
+**Erstinstanzliches Gericht 1. Regionalgericht**
 
-<sup>1</sup> Das Regionalgericht amtet als erstinstanzliches Zivilgericht, soweit nicht die Einzelrichterin oder der Einzelrichter zuständig ist.
+<sup>1</sup> Soweit das Bundesrecht oder das kantonale Recht nichts anderes bestimmt, amtet das Regionalgericht als erstinstanzliches Zivilgericht.
 
-<sup>2</sup> Es entscheidet in Fünferbesetzung:
+<sup>2</sup> Es entscheidet in einzelrichterlicher Kompetenz:
 
-- a) in Angelegenheiten, für die das ordentliche Verfahren gilt;
-- b) wenn der Streitwert für die Beschwerde in Zivilsachen an das Bundesgericht erreicht ist;
-- c) über Rechtsfragen von grundsätzlicher Bedeutung;
-- d) auf Anordnung der oder des Vorsitzenden.
+- a) über Angelegenheiten, für die das summarische Verfahren gilt;
+- b) über Angelegenheiten, für die das vereinfachte Verfahren gilt;
+- c) über besondere familienrechtliche Verfahren, Kinderbelange in familienrechtlichen Angelegenheiten und Verfahren bei eingetragener Partnerschaft;
+- d) über Widerhandlungen gegen gerichtliche Verbote im Sinne der Zivilprozessordnung;
+- e) über Rechtshilfegesuche, soweit nicht das Obergericht zuständig ist;
+- f) wenn eine Eingabe offensichtlich unzulässig oder offensichtlich unbegründet ist.
 
-<sup>3</sup> In den anderen Fällen entscheidet das Regionalgericht in Dreierbesetzung.
+<sup>3</sup> Über Streitigkeiten gemäss Absatz 2 Litera b und Litera c entscheidet das Regionalgericht in Dreierbesetzung, wenn dies von einer Partei in der ersten Rechtsschrift beantragt wird, der Streitwert 10 000 Franken übersteigt und die Eingabe nicht offensichtlich unzulässig oder offensichtlich unbegründet ist.
+
+<sup>4</sup> In den anderen Fällen entscheidet das Regionalgericht in der im Gerichtsorganisationsgesetz[^5-1] vorgesehenen Besetzung.
+
+[^5-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 #### Art. 6
 
-**3. Kantonsgericht**
+**2. Obergericht**
 
-<sup>1</sup> Das Kantonsgericht beurteilt als erstinstanzliches Gericht die Fälle, in denen das Bundesrecht eine einzige kantonale Instanz vorsieht, soweit nicht das Verwaltungsgericht zuständig ist.
+<sup>1</sup> Das Obergericht beurteilt als erstinstanzliches Zivilgericht die Fälle, in denen das Bundesrecht eine einzige kantonale Instanz vorsieht.
 
-<sup>2</sup> Es entscheidet in einzelrichterlicher Kompetenz über:
+<sup>2</sup> Es entscheidet in einzelrichterlicher Kompetenz:
 
-- a) den Rechtsschutz in klaren Fällen bei Streitigkeiten, für die das Bundesrecht eine einzige kantonale Instanz vorsieht;
-- b) Schiedsgerichtssachen mit Ausnahme der Beurteilung von Beschwerden und Revisionsgesuchen.
+- a) über Streitigkeiten bis zu einem Streitwert von 10 000 Franken;
+- a<sup>bis</sup>) über Angelegenheiten, für die das summarische Verfahren gilt;
+- b) über Schiedsgerichtssachen mit Ausnahme der Beurteilung von Beschwerden und Revisionsgesuchen.
+
+<sup>3</sup> In den anderen Fällen entscheidet das Obergericht in der im Gerichtsorganisationsgesetz[^6-1] vorgesehenen Besetzung.
+
+[^6-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 #### Art. 7
 
 **Rechtsmittelinstanz**
 
-<sup>1</sup> Das Kantonsgericht beurteilt als Rechtsmittelinstanz zivilrechtliche Berufungen und Beschwerden.
+<sup>1</sup> Das Obergericht beurteilt als Rechtsmittelinstanz Berufungen und Beschwerden.
 
-<sup>2</sup> Es entscheidet in einzelrichterlicher Kompetenz, wenn:
+<sup>2</sup> Es entscheidet in einzelrichterlicher Kompetenz:
 
-- a) der Streitwert 5000 Franken nicht überschreitet;
-- b) ein Rechtsmittel offensichtlich unzulässig oder offensichtlich begründet oder unbegründet ist.
+- a) über Beschwerden;
+- a<sup>bis</sup>) über Berufungen gegen Entscheide im summarischen Verfahren;
+- b) wenn ein Rechtsmittel offensichtlich unzulässig oder offensichtlich begründet oder unbegründet ist.
+
+<sup>3</sup> Über Streitigkeiten gemäss Absatz 2 Litera a und Litera a<sup>bis</sup> entscheidet das Obergericht in Dreierbesetzung, wenn dies von einer Partei in der ersten Rechtsschrift beantragt wird, der Streitwert 10 000 Franken übersteigt und das Rechtsmittel nicht offensichtlich unzulässig oder offensichtlich begründet oder unbegründet ist.
+
+<sup>4</sup> In den anderen Fällen entscheidet das Obergericht in der im Gerichtsorganisationsgesetz[^7-1] vorgesehenen Besetzung.
+
+[^7-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 ## 3. Ergänzende Bestimmungen
 
@@ -138,9 +144,9 @@ beschliesst:
 
 **Rechtshilfe**
 
-<sup>1</sup> Das Kantonsgericht ist die kantonale Zentralbehörde für Rechtshilfegesuche aus dem Ausland im Sinne der Staatsverträge.
+<sup>1</sup> Das Obergericht ist die kantonale Zentralbehörde für Rechtshilfegesuche aus dem Ausland im Sinne der Staatsverträge.
 
-<sup>2</sup> Die Zustellung ins Ausland erfolgt direkt von Behörde zu Behörde. Wenn der direkte Verkehr durch Bundesrecht oder Staatsvertragsrecht ausgeschlossen ist, erfolgt die Zustellung über das Kantonsgericht.
+<sup>2</sup> Die Zustellung ins Ausland erfolgt direkt von Behörde zu Behörde. Wenn der direkte Verkehr durch Bundesrecht oder Staatsvertragsrecht ausgeschlossen ist, erfolgt die Zustellung über das Obergericht.
 
 #### Art. 9
 
@@ -219,15 +225,13 @@ beschliesst:
 
 **Entscheid über bestrittene Ausstandsbegehren**
 
-<sup>1</sup> Ist der Ausstand streitig, entscheidet in Abwesenheit der betroffenen Person:
+<sup>1</sup> Ist der Ausstand streitig, entscheidet:
 
-- a) das in der Hauptsache zuständige Gericht;
-- b) das Gericht in Ausstandsfällen bei einzelrichterlichen Zuständigkeiten;
-- c) das Regionalgericht in Ausstandsfällen bei Schlichtungsbehörden.
+- a) die oder der Vorsitzende des in der Hauptsache zuständigen Gerichts in Ausstandsfällen von weiteren Gerichtspersonen;
+- b) die Stellvertreterin oder der Stellvertreter der oder des Vorsitzenden in Ausstandsfällen der oder des Vorsitzenden;
+- c) die oder der Vorsitzende der Zivilkammer des in der Hauptsache zuständigen Regionalgerichts in Ausstandsfällen bei Schlichtungsbehörden.
 
-<sup>2</sup> Die Beschlussfähigkeit richtet sich nach dem Gerichtsorganisationsgesetz[^13-1].
-
-[^13-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+<sup>2</sup> …
 
 #### Art. 14
 
@@ -253,7 +257,7 @@ beschliesst:
 
 <sup>3</sup> Die Pauschale beträgt höchstens 30 000 Franken. In Verfahren, die einen besonders grossen Aufwand verursachen, erhöht sich der Gebührenrahmen auf 100 000 Franken. Bei Einigung oder Verzicht auf ein vollständig begründetes Urteil wird die Pauschale für das Schlichtungsverfahren beziehungsweise die Entscheidgebühr angemessen reduziert.
 
-<sup>4</sup> Das Kantonsgericht regelt die Höhe der Pauschalen in einer Verordnung[^15-2].
+<sup>4</sup> Das Obergericht regelt die Höhe der Pauschalen in einer Verordnung[^15-2].
 
 [^15-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 [^15-2]: BR [320.210](https://www.gr-lex.gr.ch/data/320.210/de)
@@ -264,11 +268,11 @@ beschliesst:
 
 <sup>1</sup> Die Entschädigung der Parteivertretung sowie der unentgeltlichen Rechtspflege richten sich nach der Zivilprozessordnung[^16-1]und der Anwaltsgesetzgebung[^16-2].
 
-<sup>2</sup> Die Entschädigung von Zeuginnen und Zeugen für den Erwerbsausfall beträgt höchstens 500 Franken pro Tag. Die Entschädigung der Spesen erfolgt höchstens zu den für die Angestellten des Kantons geltenden Ansätzen. Das Kantonsgericht regelt die Einzelheiten in einer Verordnung[^16-3].
+<sup>2</sup> Die Entschädigung von Zeuginnen und Zeugen für den Erwerbsausfall beträgt höchstens 500 Franken pro Tag. Die Entschädigung der Spesen erfolgt höchstens zu den für das Personal des Kantons geltenden Ansätzen. Das Obergericht regelt die Einzelheiten in einer Verordnung[^16-3].
 
 [^16-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 [^16-2]: BR [310.100](https://www.gr-lex.gr.ch/data/310.100/de) und BR [310.250](https://www.gr-lex.gr.ch/data/310.250/de)
-[^16-3]: BR 310.210
+[^16-3]: BR [320.210](https://www.gr-lex.gr.ch/data/320.210/de)
 
 #### Art. 17
 

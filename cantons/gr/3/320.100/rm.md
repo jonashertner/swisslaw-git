@@ -4,13 +4,13 @@ number: "320.100"
 title: Lescha introductiva tar il cudesch da procedura civila svizzer
 short: LItCPC
 language: rm
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/320.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3221/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3391/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3221/pdf_file"
 
 (LItCPC)
 
-dals 16-06-2010 (versiun dals 01-01-2022)
+dals 16-06-2010 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -77,56 +77,62 @@ concluda:
 
 #### Art. 4
 
-**Dretgira d'emprima instanza 1. derschadra singula u derschader singul**
-
-<sup>1</sup> Uschenavant ch'il dretg federal u chantunal na fixescha nagut auter, decida ina commembra u in commember da la dretgira regiunala en cumpetenza da derschadra singula u da derschader singul:
-
-- a) en fatschentas, per las qualas vala la procedura summarica;
-- b) en cas da dispitas da dretg patrimonial fin 5000 francs;
-- c) davart il divorzi, davart la separaziun da la lètg u davart la schliaziun dal partenadi registrà sin dumonda communabla en cas d'ina reconciliaziun cumpletta;
-- d) davart l'execuziun;
-- e) davart cuntravenziuns cunter scumonds giudizials en il senn dal cudesch da procedura civila[^4-1].
-
-<sup>2</sup> Ella u el liquidescha dumondas d'assistenza giudiziala, nun che la dretgira chantunala saja cumpetenta en chaussa.
-
-[^4-1]: CS [272](https://db.clex.ch/link/Bund/272/rm)
+**…**
 
 #### Art. 5
 
-**2. dretgira colleghiala**
+**Dretgira d'emprima instanza 1. dretgira regiunala**
 
-<sup>1</sup> La dretgira regiunala è la dretgira civila d'emprima instanza, nun che la derschadra singula u il derschader singul saja cumpetent.
+<sup>1</sup> Uschenavant ch'il dretg federal u chantunal na fixescha nagut auter, è la dretgira regiunala la dretgira civila d'emprima instanza.
 
-<sup>2</sup> Ella decida en in gremi da tschintg:
+<sup>2</sup> Ella decida en cumpetenza da derschadra singula u da derschader singul:
 
-- a) en fatschentas, per las qualas vala la procedura ordinaria;
-- b) sch'igl è vegnida cuntanschida la valur en dispita per far recurs en chaussas civilas tar il tribunal federal;
-- c) davart dumondas giuridicas d'impurtanza fundamentala;
-- d) sin ordinaziun da la parsura u dal parsura.
+- a) davart fatschentas ch'èn suttamessas a la procedura summarica;
+- b) davart fatschentas ch'èn suttamessas a la procedura simplifitgada;
+- c) davart proceduras spezialas dal dretg da famiglia, davart interess dals uffants en fatschentas dal dretg da famiglia e davart proceduras concernent il partenadi registrà;
+- d) davart cuntravenziuns cunter scumonds giudizials en il senn dal Cudesch da procedura civila;
+- e) davart dumondas d'assistenza giudiziala, nun che la Dretgira superiura saja cumpetenta en chaussa;
+- f) sch'ina inoltraziun è evidentamain inadmissibla u è evidentamain nunmotivada.
 
-<sup>3</sup> En ils ulteriurs cas decida la dretgira regiunala en ina cumposiziun da trais.
+<sup>3</sup> Davart dispitas tenor l'alinea 2 litera b e litera c decida la dretgira regiunala en ina cumposiziun da trais, sch'ina partida pretenda quai en l'emprima scrittira giuridica, sche la valur en dispita surpassa 10 000 francs e sche l'inoltraziun n'è betg evidentamain inadmissibla u evidentamain nunmotivada.
+
+<sup>4</sup> En ils ulteriurs cas decida la dretgira regiunala en la cumposiziun previsa en la Lescha davart l'organisaziun giudiziala[^5-1].
+
+[^5-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 6
 
-**3. dretgira chantunala**
+**2. Dretgira superiura**
 
-<sup>1</sup> La dretgira chantunala giuditgescha sco dretgira d'emprima instanza quels cas, nua ch'il dretg federal prevesa in'unica instanza chantunala, nun che la dretgira administrativa saja cumpetenta.
+<sup>1</sup> La Dretgira superiura giuditgescha sco dretgira civila d'emprima instanza quels cas, nua ch'il dretg federal prevesa in'unica instanza chantunala.
 
-<sup>2</sup> Ella decida en cumpetenza da derschadra singula u da derschader singul davart:
+<sup>2</sup> Ella decida en cumpetenza da derschadra singula u da derschader singul:
 
-- a) la protecziun giuridica en cas clers da dispitas, nua ch'il dretg federal prevesa in'unica instanza chantunala;
-- b) chaussas da la dretgira da cumpromiss, cun excepziun dal giudicament da recurs e da dumondas da revisiun.
+- a) davart dispitas fin ad ina valur en dispita da 10 000 francs;
+- a<sup>bis</sup>) davart fatschentas ch'èn suttamessas a la procedura summarica;
+- b) davart chaussas da la dretgira da cumpromiss, cun excepziun dal giudicament da recurs e da dumondas da revisiun.
+
+<sup>3</sup> En ils ulteriurs cas decida la Dretgira superiura en la cumposiziun previsa en la Lescha davart l'organisaziun giudiziala[^6-1].
+
+[^6-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 7
 
 **Instanza da meds legals**
 
-<sup>1</sup> Sco instanza da meds legals giuditgescha la dretgira chantunala appellaziuns e recurs da dretg civil.
+<sup>1</sup> Sco instanza da meds legals giuditgescha la Dretgira superiura appellaziuns e recurs.
 
 <sup>2</sup> Ella decida en cumpetenza da derschadra singula u da derschader singul:
 
-- a) sche la valur en dispita na surpassa betg 5000 francs;
+- a) davart recurs;
+- a<sup>bis</sup>) davart appellaziuns cunter decisiuns en la procedura summarica;
 - b) sch'in med legal è evidentamain inadmissibel u è evidentamain motivà u nunmotivà.
+
+<sup>3</sup> Davart dispitas tenor l'alinea 2 litera a e litera a<sup>bis</sup> decida la Dretgira superiura en ina cumposiziun da trais, sch'ina partida pretenda quai en l'emprima scrittira giuridica, sche la valur en dispita surpassa 10 000 francs e sch'il med legal n'è betg evidentamain inadmissibel u evidentamain motivà u nunmotivà.
+
+<sup>4</sup> En ils ulteriurs cas decida la Dretgira superiura en la cumposiziun previsa en la Lescha davart l'organisaziun giudiziala[^7-1].
+
+[^7-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 ## 3. Disposiziuns cumplementaras
 
@@ -136,9 +142,9 @@ concluda:
 
 **Assistenza giudiziala**
 
-<sup>1</sup> La dretgira chantunala è l'autoritad centrala chantunala per dumondas d'assistenza giudiziala or da l'exteriur en il senn dals contracts internaziunals.
+<sup>1</sup> La Dretgira superiura è l'autoritad centrala chantunala per dumondas d'assistenza giudiziala or da l'exteriur en il senn dals contracts internaziunals.
 
-<sup>2</sup> La consegna a l'exteriur ha lieu directamain d'autoritad ad autoritad. Sch'il traffic direct è exclus tras il dretg federal u tras il dretg da contracts internaziunals, ha la consegna lieu sur la dretgira chantunala.
+<sup>2</sup> La consegna a l'exteriur ha lieu directamain d'autoritad ad autoritad. Sch'il traffic direct è exclus tras il dretg federal u tras il dretg da contracts internaziunals, ha la consegna lieu sur la Dretgira superiura.
 
 #### Art. 9
 
@@ -217,15 +223,13 @@ concluda:
 
 **Decisiun davart dumondas da recusaziun dispitaivlas**
 
-<sup>1</sup> Sche la recusaziun è dispitaivla, vegn la decisiun prendida en absenza da la persuna pertutgada:
+<sup>1</sup> Sche la recusaziun è dispitaivla, vegn la decisiun prendida:
 
-- a) da la dretgira ch'è cumpetenta en la chaussa principala;
-- b) da la dretgira en cas da recusaziuns tar cumpetenzas da derschadra singula u da derschader singul;
-- c) da la dretgira regiunala en cas da recusaziuns tar autoritads da mediaziun.
+- a) da la parsura u dal parsura da la dretgira ch'è cumpetenta en la chaussa principala, en cas da recusaziun d'ulteriuras persunas giudizialas;
+- b) da la substituta u dal substitut da la parsura u dal parsura, en cas da recusaziun da la parsura u dal parsura;
+- c) da la parsura u dal parsura da la chombra civila da la dretgira regiunala ch'è cumpetenta en la chaussa principala, en cas da recusaziun d'ulteriuras persunas giudizialas.
 
-<sup>2</sup> L'abilitad da decider sa drizza tenor la lescha davart l'organisaziun giudiziala[^13-1].
-
-[^13-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
+<sup>2</sup> …
 
 #### Art. 14
 
@@ -251,7 +255,7 @@ concluda:
 
 <sup>3</sup> La pauschala importa maximalmain 30 000 francs. En proceduras che chaschunan custs spezialmain gronds s'augmenta il rom da taxas a 100 000 francs. En cas d'ina reconciliaziun u sch'i vegn desistì d'ina sentenzia motivada cumplettamain, vegn la pauschala per la procedura da mediaziun respectivamain la taxa da decisiun reducida adequatamain.
 
-<sup>4</sup> La dretgira chantunala regla l'autezza da las pauschalas en in'ordinaziun[^15-2].
+<sup>4</sup> La Dretgira superiura regla l'autezza da las pauschalas en in'ordinaziun[^15-2].
 
 [^15-1]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 [^15-2]: DG [320.210](https://www.gr-lex.gr.ch/data/320.210/rm)
@@ -262,11 +266,11 @@ concluda:
 
 <sup>1</sup> L'indemnisaziun da la represchentanza da las partidas sco er da la giurisdicziun gratuita sa drizza tenor il cudesch da procedura civila[^16-1] e tenor la legislaziun davart las advocatas ed ils advocats[^16-2].
 
-<sup>2</sup> L'indemnisaziun da perditgas importa maximalmain 500 francs per di per la perdita da gudogn. Las spesas vegnan indemnisadas maximalmain per las tariffas che valan per las emploiadas e per ils emploiads dal chantun. La dretgira chantunala regla ils detagls en in'ordinaziun[^16-3].
+<sup>2</sup> L'indemnisaziun da perditgas importa maximalmain 500 francs per di per la perdita da gudogn. Las spesas vegnan indemnisadas maximalmain per las tariffas che valan per il persunal dal chantun. La Dretgira superiura regla ils detagls en in'ordinaziun[^16-3].
 
 [^16-1]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 [^16-2]: DG [310.100](https://www.gr-lex.gr.ch/data/310.100/rm) e DG [310.250](https://www.gr-lex.gr.ch/data/310.250/rm)
-[^16-3]: DG [310.210](https://www.gr-lex.gr.ch/data/310.210/rm)
+[^16-3]: DG [320.210](https://www.gr-lex.gr.ch/data/320.210/rm)
 
 #### Art. 17
 

@@ -4,13 +4,13 @@ number: "320.100"
 title: "Legge d'applicazione del Codice di diritto processuale civile svizzero"
 short: LACPC
 language: it
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/320.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3221/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3391/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3221/pdf_file"
 
 (LACPC)
 
-del 16.06.2010 (stato 01.01.2022)
+del 16.06.2010 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -79,56 +79,62 @@ decide:
 
 #### Art. 4
 
-**Tribunale di prima istanza 1. Giudice unico**
-
-<sup>1</sup> Per quanto il diritto federale o cantonale non disponga diversamente, un membro del tribunale regionale decide con competenza di giudice unico:
-
-- a) in questioni per le quali si applica la procedura sommaria;
-- b) in caso di controversie di carattere patrimoniale fino a un importo di 5000 franchi;
-- c) in merito a divorzio, separazione o scioglimento dell'unione domestica registrata su richiesta comune e in caso di accordo completo;
-- d) in merito all'esecuzione;
-- e) su infrazioni ai divieti giudiziali ai sensi del Codice di procedura civile[^4-1]
-
-<sup>2</sup> Egli evade richieste di assistenza giudiziaria, per quanto non ne sia competente il Tribunale cantonale.
-
-[^4-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+**…**
 
 #### Art. 5
 
-**2. Tribunale collegiale**
+**Tribunale di prima istanza 1. Tribunale regionale**
 
-<sup>1</sup> Il tribunale regionale funge da tribunale civile di prima istanza, se non è competente il giudice unico.
+<sup>1</sup> Per quanto il diritto federale o cantonale non disponga diversamente, il tribunale regionale funge da tribunale civile di prima istanza.
 
-<sup>2</sup> Esso decide nella composizione di cinque giudici:
+<sup>2</sup> Esso decide nella composizione di giudice unico:
 
-- a) in questioni per le quali si applica la procedura ordinaria;
-- b) se è raggiunto il valore litigioso per il ricorso in materia civile al Tribunale federale;
-- c) in merito a questioni giuridiche di importanza fondamentale;
-- d) su ordine del presidente.
+- a) in merito a questioni soggette alla procedura sommaria;
+- b) in merito a questioni soggette alla procedura semplificata;
+- c) in merito a particolari procedimenti di diritto di famiglia, interessi dei figli in questioni di diritto di famiglia e procedimenti in relazione alle unioni registrate;
+- d) in merito a infrazioni a divieti giudiziali ai sensi del Codice di procedura civile;
+- e) in merito a domande di assistenza giudiziaria, se non è competente il Tribunale d'appello;
+- f) se un'istanza è palesemente inammissibile o palesemente infondata.
 
-<sup>3</sup> Negli altri casi il tribunale regionale decide nella composizione di tre giudici.
+<sup>3</sup> Il tribunale regionale decide nella composizione di tre giudici in merito a controversie conformemente al capoverso 2 lettera b e lettera c, se ciò viene richiesto da una delle parti nella prima memoria, se il valore litigioso supera i 10 000 franchi e se l'istanza non è palesemente inammissibile o palesemente infondata.
+
+<sup>4</sup> Negli altri casi il tribunale regionale decide nella composizione prevista dalla legge sull'organizzazione giudiziaria[^5-1].
+
+[^5-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 6
 
-**3. Tribunale cantonale**
+**2. Tribunale d'appello**
 
-<sup>1</sup> Il Tribunale cantonale giudica quale tribunale di prima istanza i casi per i quali il diritto federale prevede un'unica istanza cantonale, per quanto non sia competente il Tribunale amministrativo.
+<sup>1</sup> In qualità di tribunale civile di prima istanza il Tribunale d'appello giudica i casi in cui il diritto federale prevede un'unica istanza cantonale.
 
-<sup>2</sup> Il Tribunale cantonale decide con competenza di giudice unico in materia di:
+<sup>2</sup> Esso decide nella composizione di giudice unico:
 
-- a) tutela giurisdizionale nei casi manifesti in controversie per le quali il diritto federale prevede un' istanza cantonale unica;
-- b) cause del tribunale arbitrale ad eccezione del giudizio di ricorsi e richieste di revisione.
+- a) in merito a controversie fino a un valore litigioso di 10 000 franchi;
+- a<sup>bis</sup>) in merito a questioni soggette alla procedura sommaria;
+- b) in merito a cause del tribunale arbitrale ad eccezione del giudizio di ricorsi e richieste di revisione.
+
+<sup>3</sup> Negli altri casi il Tribunale d'appello decide nella composizione prevista dalla legge sull'organizzazione giudiziaria[^6-1].
+
+[^6-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 7
 
 **Autorità giudiziaria superiore**
 
-<sup>1</sup> Quale autorità giudiziaria superiore, il Tribunale cantonale giudica ricorsi e appelli di diritto civile.
+<sup>1</sup> Quale autorità giudiziaria superiore, il Tribunale d'appello giudica appelli e ricorsi.
 
-<sup>2</sup> Esso decide nella composizione di giudice unico, quando:
+<sup>2</sup> Esso decide nella composizione di giudice unico:
 
-- a) il valore litigioso non supera i 5 000 franchi;
-- b) un rimedio giuridico è palesemente inammissibile o palesemente fondato o infondato.
+- a) in merito a ricorsi;
+- a<sup>bis</sup>) in merito ad appelli contro decisioni in procedura sommaria;
+- b) se un rimedio giuridico è palesemente inammissibile o palesemente fondato o infondato.
+
+<sup>3</sup> Il Tribunale d'appello decide nella composizione di tre giudici in merito a controversie conformemente al capoverso 2 lettera a e lettera a<sup>bis</sup>, se ciò viene richiesto da una delle parti nella prima memoria, se il valore litigioso supera i 10 000 franchi e se il rimedio giuridico non è palesemente inammissibile o palesemente fondato o infondato.
+
+<sup>4</sup> Negli altri casi il Tribunale d'appello decide nella composizione prevista dalla legge sull'organizzazione giudiziaria[^7-1].
+
+[^7-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 ## 3. Disposizioni complementari
 
@@ -138,9 +144,9 @@ decide:
 
 **Assistenza giudiziaria**
 
-<sup>1</sup> Il Tribunale cantonale è l'autorità centrale cantonale per domande di assistenza giudiziaria dall'estero ai sensi dei trattati internazionali.
+<sup>1</sup> Il Tribunale d'appello è l'autorità centrale cantonale per domande di assistenza giudiziaria dall'estero ai sensi dei trattati internazionali.
 
-<sup>2</sup> La notifica all'estero avviene direttamente da autorità ad autorità. Se il diritto federale o i trattati internazionali escludono la notifica diretta, essa avviene da parte del Tribunale cantonale.
+<sup>2</sup> La notifica all'estero avviene direttamente da autorità ad autorità. Se il diritto federale o i trattati internazionali escludono la notifica diretta, essa avviene da parte del Tribunale d'appello.
 
 #### Art. 9
 
@@ -219,15 +225,13 @@ decide:
 
 **Decisione in merito a domande di ricusazione contestate**
 
-<sup>1</sup> Se la ricusazione è contestata, in assenza della persona interessata decide:
+<sup>1</sup> Se la ricusazione è contestata, decide:
 
-- a) il tribunale competente nel merito;
-- b) il tribunale, in casi di ricusazione di autorità con competenze di giudice unico;
-- c) il tribunale regionale, in casi di ricusazione di autorità di conciliazione.
+- a) il presidente del tribunale competente nel merito in casi di ricusazione di altri membri del tribunale;
+- b) il sostituto del presidente in casi di ricusazione del presidente;
+- c) il presidente della camera civile del tribunale regionale competente nel merito in casi di ricusazione di autorità di conciliazione.
 
-<sup>2</sup> Il numero legale si conforma alla legge sull'organizzazione giudiziaria[^13-1].
-
-[^13-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
+<sup>2</sup> …
 
 #### Art. 14
 
@@ -253,7 +257,7 @@ decide:
 
 <sup>3</sup> La forfetaria ammonta al massimo a 30 000 franchi. In procedure che causano spese particolarmente elevate il limite delle tariffe sale a 100 000 franchi. In caso di intesa o di rinuncia a una sentenza interamente motivata, la forfetaria per la procedura di conciliazione o la tassa di giustizia viene adeguatamente ridotta.
 
-<sup>4</sup> Il Tribunale cantonale disciplina l'entità delle forfetarie in un'ordinanza[^15-2].
+<sup>4</sup> Il Tribunale d'appello disciplina l'entità delle forfetarie in un'ordinanza[^15-2].
 
 [^15-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
 [^15-2]: CSC [320.210](https://www.gr-lex.gr.ch/data/320.210/it)
@@ -264,11 +268,11 @@ decide:
 
 <sup>1</sup> L'indennità del patrocinio della parte e del gratuito patrocinio si conforma al Codice di procedura civile[^16-1] e alla legislazione sugli avvocati[^16-2].
 
-<sup>2</sup> L'indennità per perdita di guadagno di testimoni ammonta al massimo a 500 franchi al giorno. Le spese vengono indennizzate al massimo con gli importi validi per gli impiegati cantonali. Il Tribunale cantonale disciplina i dettagli in un'ordinanza[^16-3].
+<sup>2</sup> L'indennità per perdita di guadagno di testimoni ammonta al massimo a 500 franchi al giorno. Le spese vengono indennizzate al massimo con gli importi validi per il personale cantonale. Il Tribunale d'appello disciplina i dettagli in un'ordinanza[^16-3].
 
 [^16-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
 [^16-2]: CSC [310.250](https://www.gr-lex.gr.ch/data/310.250/it)
-[^16-3]: CSC [310.210](https://www.gr-lex.gr.ch/data/310.210/it)
+[^16-3]: CSC [320.210](https://www.gr-lex.gr.ch/data/320.210/it)
 
 #### Art. 17
 
