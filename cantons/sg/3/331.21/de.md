@@ -4,12 +4,12 @@ number: "331.21"
 title: Verordnung über die Pflegefinanzierung
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2024-12-23
 version_adopted: 2024-12-10
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3732/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3728/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -136,14 +136,14 @@ als Verordnung:[^ingress-2]
 
 **c) Zahlungsverkehr**
 
-<sup>1</sup> Das Gesundheitsdepartement leistet der Sozialversicherungsanstalt monatlich vorschüssig Akontozahlungen im Umfang des mutmasslichen Monatsbedarfs an Pflegekosten nach Art. 10 Abs. 2 des Gesetzes über die Pflegefinanzierung vom 13. Februar 2011[^7-1].
+<sup>1</sup> Das Departement des Innern leistet der Sozialversicherungsanstalt monatlich vorschüssig Akontozahlungen im Umfang des mutmasslichen Monatsbedarfs an Pflegekosten nach Art. 10 Abs. 2 des Gesetzes über die Pflegefinanzierung vom 13. Februar 2011[^7-1].
 
-<sup>2</sup> Die Sozialversicherungsanstalt reicht dem Gesundheitsdepartement bis 31. Januar des Folgejahres die Jahresabrechnung über die an die Leistungserbringer erstatteten Pflegekostenbeiträge ein. Die Jahresabrechnung enthält wenigstens folgende Angaben über die erstatteten Pflegekostenbeiträge:
+<sup>2</sup> Die Sozialversicherungsanstalt reicht dem Departement des Innern bis 31. Januar des Folgejahres die Jahresabrechnung über die an die Leistungserbringer erstatteten Pflegekostenbeiträge ein. Die Jahresabrechnung enthält wenigstens folgende Angaben über die erstatteten Pflegekostenbeiträge:
 
 - a) Summe je politische Gemeinde, die für die Kostentragung im Zeitpunkt der Abrechnung als zuständig gilt;
 - b) Übersicht je versicherte Person mit Angabe der Beträge und Rückerstattungsperiode.
 
-<sup>3</sup> Das Gesundheitsdepartement stellt der politischen Gemeinde die erstatteten Pflegekostenbeiträge nach Abs. 2 Bst. a dieser Bestimmung in Rechnung. Bestreitet die politische Gemeinde die Kostentragungspflicht zum Zeitpunkt der Abrechnung, erfolgt die Rechnungstellung im Folgejahr des rechtskräftigen Entscheids über die Zuständigkeit zur Kostentragung.
+<sup>3</sup> Das Departement des Innern stellt der politischen Gemeinde die erstatteten Pflegekostenbeiträge nach Abs. 2 Bst. a dieser Bestimmung in Rechnung. Bestreitet die politische Gemeinde die Kostentragungspflicht zum Zeitpunkt der Abrechnung, erfolgt die Rechnungstellung im Folgejahr des rechtskräftigen Entscheids über die Zuständigkeit zur Kostentragung.
 
 [^7-1]: sGS [331.2](https://www.gesetzessammlung.sg.ch/data/331.2/de).
 
@@ -155,18 +155,18 @@ als Verordnung:[^ingress-2]
 
 <sup>1<sup>bis</sup></sup> Der Beitrag je politische Gemeinde je Jahr an die Kosten für den Verwaltungsaufwand der Sozialversicherungsanstalt bemisst sich nach der Zahl der versicherten Personen, für die eine politische Gemeinde zur Kostentragung zuständig ist.
 
-<sup>2</sup> Das Gesundheitsdepartement:
+<sup>2</sup> Das Departement des Innern:
 
 - a) leistet der Sozialversicherungsanstalt quartalsweise Akontozahlungen;
 - b) stellt den politischen Gemeinden ihren Kostenanteil am Verwaltungsaufwand in Rechnung.
 
-<sup>3</sup> Die Sozialversicherungsanstalt reicht dem Gesundheitsdepartement bis 31. Januar des Folgejahres die Jahresabrechnung des tatsächlichen Verwaltungsaufwands ein.
+<sup>3</sup> Die Sozialversicherungsanstalt reicht dem Departement des Innern bis 31. Januar des Folgejahres die Jahresabrechnung des tatsächlichen Verwaltungsaufwands ein.
 
 #### Art. 8a
 
 **e) Revisionsstelle**
 
-<sup>1</sup> Die Revisionsstelle der Sozialversicherungsanstalt prüft die Durchführung der Abrechnung der Pflegefinanzierung. Sie erstattet dem Gesundheitsdepartement jährlich Bericht.
+<sup>1</sup> Die Revisionsstelle der Sozialversicherungsanstalt prüft die Durchführung der Abrechnung der Pflegefinanzierung. Sie erstattet dem Departement des Innern jährlich Bericht.
 
 #### Art. 9
 
@@ -182,7 +182,7 @@ als Verordnung:[^ingress-2]
 
 **b) Unterlagen**
 
-<sup>1</sup> Die Leistungserbringer reichen dem Dienst für Pflege und Entwicklung bis 30. April des Folgejahres folgende Unterlagen ein:
+<sup>1</sup> Die Leistungserbringer reichen dem Amt für Soziales bis 30. April des Folgejahres folgende Unterlagen ein:
 
 - a) Umlageschlüssel;
 - b) Umlagen in Franken;
@@ -197,7 +197,7 @@ als Verordnung:[^ingress-2]
 - k) einen Bericht der zuständigen Kontrollstelle;
 - l) Anlagebuchhaltung.
 
-<sup>2</sup> Der Dienst für Pflege und Entwicklung kann weitere Unterlagen verlangen.
+<sup>2</sup> Das Amt für Soziales kann weitere Unterlagen verlangen.
 
 #### Art. 10a
 
