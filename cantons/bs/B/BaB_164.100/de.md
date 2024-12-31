@@ -4,13 +4,12 @@ number: BaB 164.100
 title: Ordnung betreffend Entlöhnung der Mitarbeiterinnen und Mitarbeiter der Bürgergemeinde der Stadt Basel
 short: Lohnordnung
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-13
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 1996-04-02
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20164.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5813/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Lohnordnung | Basel: Bürgergemeinde
 
 (Lohnordnung)
 
-Vom 2. April 1996 (Stand 1. Januar 2023)
+Vom 2. April 1996 (Stand 1. Januar 2025)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -75,6 +74,12 @@ erlässt, gestützt auf § 9 Abs. 1 Ziff. 6 des Gemeindegesetzes vom 17. Oktober
 <sup>3</sup> Der Bürgerrat legt fest, ob der beschlossene Betrag oder Prozentsatz für generelle und/oder für individuelle Anpassungen verwendet wird. Er prüft gleichzeitig, ob eine Anpassung der Lohnbereiche notwendig ist und stellt dem Bürgergemeinderat gegebenenfalls Antrag.
 
 <sup>4</sup> Ferner kann der Bürgerrat eine einmalige Auszahlung eines Geldbetrages an die Mitarbeiterinnen und Mitarbeiter beschliessen.
+
+#### § 5a
+
+**Ausserordentliche generelle Lohnanpassung**
+
+<sup>1</sup> Der Bürgerrat kann Personalgruppen, bei deren Lohnanpassung ein Teuerungsausgleich gemäss kantonalem Recht aufgrund einer zwischen einer Institution und dem Kanton abgeschlossenen Leistungsvereinbarung zu berücksichtigen ist, eine ausserordentliche generelle Lohnanpassung gewähren.
 
 #### § 6
 
