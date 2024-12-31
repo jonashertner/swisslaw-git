@@ -4,13 +4,13 @@ number: "152.05"
 title: Loi sur les fichiers centralisés de données personnelles
 short: LFDP
 language: fr
-version: 2023-04-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-05
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3055/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3073/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3055/pdf_file"
 
 (LFDP)
 
-du 10.03.2020 (état au 01.04.2023)
+du 10.03.2020 (état au 01.01.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -366,7 +366,7 @@ arrête:
 <tr><td>30.</td><td>Loi sur les déchets (LD; RSB 822.1)</td><td>f</td></tr>
 <tr><td>31.</td><td>Loi cantonale sur les allocations familiales (LCAFam; RSB 832.71)</td><td>d, f</td></tr>
 <tr><td>32.</td><td>Loi portant introduction de la loi fédérale sur l'assurance-vieillesse et survivants (LiLAVS; RSB 841.11)</td><td>d, f</td></tr>
-<tr><td>33.</td><td>Loi portant introduction de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI (LiLPC; RSB 841.31)</td><td>d, f</td></tr>
+<tr><td>33.</td><td>...</td><td>...</td></tr>
 <tr><td>34.</td><td>Loi portant introduction des lois fédérales sur l'assurance-maladie, sur l'assurance-accidents et sur l'assurance militaire (LiLAMAM; RSB 842.11)</td><td>d, e, f</td></tr>
 <tr><td>35.</td><td>...</td><td>...</td></tr>
 <tr><td>36.</td><td>Loi sur la protection contre le feu et sur les sapeurs-pompiers (LPFSP; RSB 871.11)</td><td>d, e, f</td></tr>
