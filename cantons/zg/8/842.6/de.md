@@ -4,20 +4,21 @@ number: "842.6"
 title: Gesetz betreffend individuelle Prämienverbilligung in der Krankenpflegeversicherung
 short: Prämienverbilligungsgesetz; IPVG
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-08-31
+version: 2025-01-01
+version_adopted: 2024-04-11
 adopted: 1994-12-15
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/842.6"
-pdf: "https://bgs.zg.ch/api/de/versions/1687/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend individuelle Prämienverbilligung in der Krankenpflegeversicherung
 
-Vom 15. Dezember 1994 (Stand 1. Januar 2018)
+(Prämienverbilligungsgesetz; IPVG)
+
+Vom 15. Dezember 1994 (Stand 1. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -191,11 +192,9 @@ beschliesst:
 
 <sup>1</sup> Personen, welche Anspruch auf Prämienverbilligung erheben, reichen die Bescheinigung zusammen mit dem Versicherungsnachweis bis 30. April bei jener Gemeinde ein, wo sie am 1. Januar des Jahres Wohnsitz hatten.
 
-<sup>1<sup>bis</sup></sup> Für Personen, die auf der Liste nach Art. 64a Abs. 7 KVG verzeichnet sind, kann die zuständige Gemeinde[^11-1] das Gesuch stellvertretend einreichen.
+<sup>1<sup>bis</sup></sup> …
 
-<sup>2</sup> Die Frist zur Gesuchstellung kann im Einzelfall durch die zuständige Gemeindestelle aus wichtigen Gründen bis 30. Juni des Jahres, für welches der Anspruch geltend gemacht wird, mit dem schriftlichen Hinweis verlängert werden, dass Ansprüche verwirken, wenn sie nach Ablauf dieser Frist geltend gemacht werden.
-
-[^11-1]: § 5 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung (BGS [842.1](https://bgs.zg.ch/data/842.1/de))
+<sup>2</sup> Verspätet eingereichte Gesuche können berücksichtigt werden, wenn sie bis 30. September gestellt werden und wichtige Gründe vorliegen.
 
 #### § 12
 
@@ -271,26 +270,18 @@ beschliesst:
 
 <sup>2</sup> Gegen Einspracheentscheide der Ausgleichskasse kann innert 30 Tagen seit der Mitteilung beim Verwaltungsgericht des Kantons Zug schriftlich und begründet Beschwerde geführt werden.
 
-## 5. Schlussbestimmungen
+## 5.
 
 #### § 21
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Mit diesem Gesetz werden die §§ 18 und 19 des Einführungsgesetzes zum Bundesgesetz über die Kranken- und Unfallversicherung vom 19. November 1970[^21-1] aufgehoben.
-
-[^21-1]: GS 20, 125
+**…**
 
 #### § 22
 
-**Änderung bisherigen Rechts[^22-1]**
-
-[^22-1]: GS 15, 469; die Änderung ist mit dem StG vom 25. Mai 2000 obsolet.
+**…**
 
 #### § 23
 
-**Inkrafttreten und Vollzug**
-
-<sup>1</sup> Dieses Gesetz tritt unter dem Vorbehalt des Referendums gemäss § 34 der Kantonsverfassung am 1. Januar 1995 in Kraft.
+**…**
 
 GS 25, 31
