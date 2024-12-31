@@ -3,20 +3,19 @@ canton: BL
 number: "196"
 title: Verfassung der Römisch-katholischen Landeskirche des Kantons Basel-Landschaft
 language: de
-version: 2015-01-01
-valid_until: 2024-12-31
-version_adopted: 2014-06-25
+version: 2025-01-01
+version_adopted: 2023-11-29
 adopted: 1976-02-10
 in_force: 1976-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/196"
-pdf: "https://bl.clex.ch/api/de/versions/3982/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung der Römisch-katholischen Landeskirche des Kantons Basel-Landschaft
 
-Vom 10.02.1976 (Stand 01.01.2015)
+Vom 10.02.1976 (Stand 01.01.2025)
 
 Die römisch-katholischen Einwohnerinnen und Einwohner des Kantons Basel-Landschaft geben sich,
 
@@ -46,7 +45,7 @@ folgende Verfassung:
 
 <sup>1</sup> Die Landeskirche ordnet ihre Rechtsverhältnisse im Rahmen der Kantonsverfassung, des Kirchengesetzes und dieser Verfassung selbständig.
 
-<sup>2</sup> In kirchlichen Belangen anerkennen Landeskirche und Kirchgemeinden die Lehre und die Rechtsordnung der römischkatholischen Kirche.
+<sup>2</sup> In kirchlichen Belangen anerkennen Landeskirche und Kirchgemeinden die Lehre und die Rechtsordnung der Römisch-katholischen Kirche.
 
 #### § 3
 
@@ -93,9 +92,9 @@ folgende Verfassung:
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Die Mitglieder der Synode, des Landeskirchenrates und der Rekurskommission können nur einer dieser Behörden angehören.
+<sup>1</sup> Die Mitglieder des Landeskirchenparlaments, des Landeskirchenrats und der Rekurskommission können nur einer dieser Behörden angehören.
 
-<sup>2</sup> Der Synode können Angestellte der Verwaltung der Landeskirche sowie der juristische Sekretär oder die juristische Sekretärin der Rekurskommission nicht angehören.
+<sup>2</sup> Dem Landeskirchenparlament können Personen, die mit der Landeskirche in einem Anstellungs- oder Besoldungsvertragsverhältnis stehen, sowie der juristische Sekretär oder die juristische Sekretärin der Rekurskommission nicht angehören.
 
 <sup>3</sup> Dem Landeskirchenrat und der Rekurskommission können nicht angehören:
 
@@ -130,7 +129,7 @@ folgende Verfassung:
 
 **Amtsgelübde**
 
-<sup>1</sup> Vor Antritt ihres Amts geloben die Behördenmitglieder der Landeskirche vor der Synode, die Kirchgemeindepräsidentinnen und Kirchgemeindepräsidenten vor dem Landeskirchenrat, die Verfassung und die Erlasse der Landeskirche zu beachten und die Pflichten ihres Amts gewissenhaft zu erfüllen.
+<sup>1</sup> Vor Antritt ihres Amts geloben die Behördenmitglieder der Landeskirche vor dem Landeskirchenparlament, die Kirchgemeindepräsidentinnen und Kirchgemeindepräsidenten vor dem Landeskirchenrat, die Verfassung und die Erlasse der Landeskirche zu beachten und die Pflichten ihres Amts gewissenhaft zu erfüllen.
 
 #### § 10
 
@@ -142,7 +141,9 @@ folgende Verfassung:
 
 **Publikationsorgane**
 
-<sup>1</sup> Die Publikationsorgane der Landeskirche sind das Amtsblatt des Kantons Basel-Landschaft und die Pfarrblätter. Die Kirchgemeinden bestimmen ihre Publikationsorgane selbst.
+<sup>1</sup> Publikationsorgan der Landeskirche ist das Amtsblatt des Kantons Basel-Landschaft.
+
+<sup>2</sup> Die Kirchgemeinden bestimmen ihre Publikationsorgane selbst.
 
 ## 2 Die Landeskirche
 
@@ -160,13 +161,13 @@ folgende Verfassung:
 
 <sup>1</sup> Der Landeskirche obliegen insbesondere folgende Aufgaben:
 
-- a. Sie vertritt die konfessionellen Anliegen der römisch-katholischen Bevölkerung gegenüber staatlichen und kirchlichen Behörden.
-- a.<sup>bis</sup> In gegenseitigem Respekt und unter Wahrung der je eigenen Zuständigkeitskompetenzen pflegt sie den Dialog mit den zuständigen, kirchlichen Organen und unterbreitet ihnen dabei auch Anliegen der römisch-katholischen Bevölkerung
+- a. Sie vertritt die konfessionellen Anliegen der römisch-katholischen Einwohnerinnen und Einwohner des Kantons Basel-Landschaft gegenüber staatlichen und kirchlichen Behörden.
+- a.<sup>bis</sup> In gegenseitigem Respekt und unter Wahrung der je eigenen Zuständigkeiten pflegt sie den Dialog mit den zuständigen, kirchlichen Organen und unterbreitet ihnen dabei auch Anliegen der römisch-katholischen Einwohnerinnen und Einwohner des Kantons Basel-Landschaft.
 - a.<sup>ter</sup> In diesem Rahmen unterbreitet sie das Anliegen – auch bei der Weiterentwicklung des kirchlichen Rechts –, dass Veränderungen insbesondere in Bezug auf die gleichberechtigte Zulassung zum Priesteramt, unabhängig von Zivilstand und Geschlecht, ermöglicht werden.
 - b. Sie unterstützt in ihrem Gebiet die kirchlichen Organe bei der Erfüllung seelsorglicher Aufgaben und fördert damit verbundene soziale und karitative Werke.
 - c. Sie leistet Beiträge an das Bistum Basel zur Erfüllung seiner Aufgaben.
 - d. Sie arbeitet mit landeskirchlichen Organisationen anderer Kantone zusammen.
-- d <sup>bis</sup>. Sie ist Mitglied der gesamtschweizerischen Vereinigung der landeskirchlichen Organisationen römischkatholischer Konfession[^13-1].
+- d <sup>bis</sup>. Sie ist Mitglied der gesamtschweizerischen Vereinigung der landeskirchlichen Organisationen römisch-katholischer Konfession[^13-1].
 - e. Sie fördert die ökumenischen Bestrebungen.
 - f. Sie kann gemäss ihren finanziellen Möglichkeiten seelsorgliche, soziale und karitative Werke auch ausserhalb ihres Gebiets unterstützen, soweit dadurch die Erfüllung eigentlicher landeskirchlicher Aufgaben nicht beeinträchtigt wird.
 
@@ -195,41 +196,45 @@ folgende Verfassung:
 
 <sup>2</sup> Die zu selbständigen Entscheiden befugten Behörden sind:
 
-- a. die Synode;
+- a. das Landeskirchenparlament;
 - b. der Landeskirchenrat;
 - c. die durch Verordnung eingesetzten Spezialbehörden;
 - d. die Rekurskommission.
 
 <sup>3</sup> Kontrollorgan der Landeskirche ist die Prüfungskommission.
 
-<sup>4</sup> Hilfsorgane der Landeskirche sind die Verwaltung mit den Angestellten sowie die durch die Synode oder den Landeskirchenrat eingesetzten beratenden Kommissionen.
+<sup>4</sup> Hilfsorgane der Landeskirche sind die Verwaltung mit den Angestellten sowie die durch das Landeskirchenparlament oder den Landeskirchenrat eingesetzten beratenden Kommissionen.
 
 <sup>5</sup> Die Amtsperiode der durch Wahl bestellten Organe, ausgenommen der beratenden Kommissionen, beginnt am 1. März.
 
-### 2.2.2 Die Synode
+### 2.2.2 Das Landeskirchenparlament
 
 #### § 16
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Synode ist die oberste Behörde der Landeskirche.
+<sup>1</sup> Das Landeskirchenparlament ist die oberste Behörde der Landeskirche.
 
-<sup>2</sup> Sie besteht aus 94 Abgeordneten, und zwar aus:
+<sup>2</sup> Es besteht aus:
 
-- a. 7 Abgeordneten, die von der Pastoralkonferenz aus ihrer Mitte gewählt werden;
-- b. 87 Abgeordneten, die von der Kirchgemeindeversammlung gewählt werden, wobei jede Kirchgemeinde mindestens 1 abgeordnete Person stellt;
-- c. bei Kirchgemeinden mit mehr als 1 Vertretung muss mindestens 1 abgeordnete Person als gewähltes Mitglied dem Kirchgemeinderat angehören;
-- d. die durch die Kirchgemeinden gewählten Personen dürfen nicht pastorale Funktionen ausüben.
+- a. 87 Abgeordneten, die von der Kirchgemeindeversammlung gewählt werden, wobei jede Kirchgemeinde mindestens 1 abgeordnete Person stellt;
+- b. pro Pastoralraum auf dem Gebiet der Landeskirche je 1 Mitglied der jeweiligen Pastoralraumkonferenz; Wahlorgan ist die jeweilige Pastoralraumkonferenz.
+- c. …
+- d. …
+
+<sup>3</sup> Bei Kirchgemeinden mit mehr als 1 Vertretung muss mindestens 1 abgeordnete Person als gewähltes Mitglied dem Kirchgemeinderat angehören.
+
+<sup>4</sup> Mitglieder einer Pastoralraumkonferenz können in den Kirchgemeinden nicht in das Landeskirchenparlament gewählt werden.
 
 #### § 17
 
 **Wahl**
 
-<sup>1</sup> Die Abgeordneten der Kirchgemeinden werden von den Stimmberechtigten im Urnenverfahren oder in der Kirchgemeindeversammlung in offener oder geheimer Abstimmung gewählt. Die Wahlart bestimmt die Kirchgemeindeversammlung.
+<sup>1</sup> Die Abgeordneten der Kirchgemeinden werden von den Stimmberechtigten in der Kirchgemeindeversammlung in offener oder geheimer Abstimmung gewählt. Die Wahlart bestimmt die Kirchgemeindeversammlung.
 
 <sup>2</sup> Massgebend für die Verteilung der Abgeordneten auf die Kirchgemeinden ist die Zahl der römisch-katholischen Personen gemäss der kantonalen Bevölkerungsstatistik (Fortschreibung).
 
-<sup>3</sup> Die Zahl der Abgeordneten einer Kirchgemeinde wird wie folgt errechnet: Die Zahl der römisch-katholischen Personen im Kanton wird durch die Zahl der Abgeordneten gemäss § 16 Abs. 2 Bst. b geteilt. Die Zahl der römisch-katholischen Personen in der Kirchgemeinde geteilt durch diesen Quotienten ergibt die Zahl der Abgeordneten der Kirchgemeinde.
+<sup>3</sup> Die Zahl der Abgeordneten einer Kirchgemeinde wird wie folgt errechnet: Die Zahl der römisch-katholischen Personen im Kanton wird durch die Zahl der Abgeordneten gemäss § 16 Abs. 2 Bst. a geteilt. Die Zahl der römisch-katholischen Personen in der Kirchgemeinde geteilt durch diesen Quotienten ergibt die Zahl der Abgeordneten der Kirchgemeinde.
 
 <sup>4</sup> Wenn auf diese Weise die volle Zahl der Abgeordneten nicht erreicht wird, fallen die restlichen Mandate jenen Kirchgemeinden zu, welche bei der letzten Teilung den grössten Rest aufweisen.
 
@@ -241,27 +246,27 @@ folgende Verfassung:
 
 **Konstituierung**
 
-<sup>1</sup> Die Synode tritt im März nach Beginn der neuen Amtsperiode zu ihrer konstituierenden Sitzung zusammen. Sie wird durch den Landeskirchenrat einberufen.
+<sup>1</sup> Das Landeskirchenparlament tritt im März nach Beginn der neuen Amtsperiode zu seiner konstituierenden Sitzung zusammen. Es wird durch den Landeskirchenrat einberufen.
 
 <sup>2</sup> Das Präsidium des bisherigen Landeskirchenrats hat den Vorsitz, bis die Konstituierung vollzogen ist.
 
-<sup>3</sup> Nach Erwahrung der Wahlen bestimmt die Synode aus ihrer Mitte für ihre Amtsperiode ein Büro. Die Geschäftsordnung regelt die Zusammensetzung, die Befugnisse und Obliegenheiten.
+<sup>3</sup> Nach Erwahrung der Wahlen bestimmt das Landeskirchenparlament aus seiner Mitte für seine Amtsperiode ein Büro. Die Geschäftsordnung regelt die Zusammensetzung, die Befugnisse und Obliegenheiten.
 
 #### § 19
 
 **Sitzungen**
 
-<sup>1</sup> Die Synode tagt ordentlicherweise jährlich 2-mal, ausserordentlicherweise auf Begehren des Landeskirchenrats oder auf schriftliches Verlangen von 15 Abgeordneten unter Angabe der zu behandelnden Geschäfte.
+<sup>1</sup> Das Landeskirchenparlament tagt ordentlicherweise jährlich 2-mal, ausserordentlicherweise auf Begehren des Landeskirchenrats oder auf schriftliches Verlangen von 15 Abgeordneten unter Angabe der zu behandelnden Geschäfte.
 
-<sup>2</sup> Sie ist beschlussfähig, wenn mindestens die Hälfte der Abgeordneten anwesend ist.
+<sup>2</sup> Es ist beschlussfähig, wenn mindestens die Hälfte der Abgeordneten anwesend ist.
 
-<sup>3</sup> Die Verhandlungen der Synode sind öffentlich, sofern nichts anderes beschlossen wird.
+<sup>3</sup> Die Verhandlungen des Landeskirchenparlaments sind öffentlich, sofern nichts anderes beschlossen wird.
 
-<sup>4</sup> An der Sitzung der Synode nehmen teil:
+<sup>4</sup> An der Sitzung des Landeskirchenparlaments nehmen teil:
 
 - a. die Mitglieder des Landeskirchenrats mit beratender Stimme und Antragsrecht;
 - b. der Verwalter oder die Verwalterin mit beratender Stimme;
-- c. eine vom Bischof bezeichnete Vertretung[^19-1] mit beratender Stimme.
+- c. eine vom Bischof bezeichnete Vertretung[^19-1] mit beratender Stimme und Antragsrecht.
 
 [^19-1]: Eine Vertretung aus der Bistumsregionalleitung St. Urs.
 
@@ -269,37 +274,38 @@ folgende Verfassung:
 
 **Rechte und Pflichten**
 
-<sup>1</sup> Die Synode hat folgende Rechte und Pflichten:
+<sup>1</sup> Das Landeskirchenparlament hat folgende Rechte und Pflichten:
 
-- a. Erwahrung der Wahlen in die Synode sowie der landeskirchlichen Abstimmungen;
+- a. Erwahrung der Wahlen in das Landeskirchenparlament sowie der landeskirchlichen Abstimmungen;
 - b. Erlass der Geschäftsordnung;
 - c. Erlass der Verordnungen und Beschlüsse unter Vorbehalt des fakultativen Referendums;
 - d. Oberaufsicht über die übrigen Behörden und über die Verwaltung;
-- e. Beschluss über den jährlichen Voranschlag der Landeskirche, der Stiftungen und der Fonds;
-- f. Genehmigung der jährlichen Rechnungen und Jahresberichte;
+- e. Beschluss über das jährliche Budget der Landeskirche, der Stiftungen und der Fonds;
+- f. Genehmigung der Jahresrechnung und Jahresberichte;
 - g. Verkauf und Verpfändung von Eigentum der Landeskirche;
 - h. Aufnahme und Erneuerung von Anleihen;
-- i. Beschluss über neue einmalige oder wiederkehrende Ausgaben; Ausgaben, die dem fakultativen Referendum unterstehen, beschliesst die Synode separat; ibis endgültiger Beschluss über die Beiträge an das Bistum Basel zur Erfüllung seiner Aufgaben;
+- i. Beschluss über neue einmalige oder wiederkehrende Ausgaben; Ausgaben, die dem fakultativen Referendum unterstehen, beschliesst das Landeskirchenparlament separat;
+- i<sup>bis</sup>. endgültiger Beschluss über die Beiträge an das Bistum Basel zur Erfüllung seiner Aufgaben;
 - k. Wahl des Landeskirchenrats, der Spezialbehörden, der Prüfungskommission, der Rekurskommission und beratender Kommissionen;
-- l. Festsetzung der Vergütungen an den Landeskirchenrat im jährlichen Voranschlag;
+- l. Festsetzung der Vergütungen an den Landeskirchenrat im jährlichen Budget;
 - m. Wahl einer Person als Vertretung in die Diözesankonferenz;
 - n. Beschluss über die Revision der Verfassung;
 - o. Genehmigung von Verträgen mit dem Bistum, mit Kantonen und anderen landeskirchlichen Organisationen.
 
-<sup>1 <sup>bis</sup></sup> Die Synode regelt:
+<sup>1 <sup>bis</sup></sup> Das Landeskirchenparlament regelt:
 
-- a. die Besoldung der Seelsorgenden durch die Landeskirche und die Kirchgemeinden, insbesondere auch die Ferien, die Leistungen bei Militärdienst, Krankheit und Unfall sowie das der sozialen Vorsorge dienende Versicherungswesen;
+- a. die Besoldungsverhältnisse und die Besoldung der Seelsorgerinnen und Seelsorger und des pastoralen Personals mit kirchlicher Sendung, die der Anstellungs- und Besoldungsordnung der Landeskirche unterstellt sind, ausgenommen die berufliche Vorsorge der von den Kirchgemeinden besoldeten pastoralen Mitarbeitenden;
 - b. die Arbeitsverhältnisse und die Besoldung der Angestellten der Landeskirche.
 
-<sup>1 <sup>ter</sup></sup> Sie kann Vorschriften über die Arbeitsverhältnisse und die Besoldung der Angestellten der Kirchgemeinden erlassen.
+<sup>1 <sup>ter</sup></sup> Es kann Vorschriften über die Arbeitsverhältnisse und die Besoldung der Angestellten der Kirchgemeinden erlassen.
 
-<sup>2</sup> Sie kann Stellungnahmen und Verlautbarungen zu Fragen der Kirche und der Gesellschaft beschliessen.
+<sup>2</sup> Es kann Stellungnahmen und Verlautbarungen zu Fragen der Kirche und der Gesellschaft beschliessen.
 
 #### § 21
 
 **Fakultatives Referendum**
 
-<sup>1</sup> Die allgemeinverbindlichen Verordnungen sowie die Beschlüsse der Synode, welche eine neue einmalige Ausgabe von mehr als CHF 200'000.– oder eine neue wiederkehrende Einzelausgabe von mehr als CHF 20'000.– zur Folge haben, unterstehen dem fakultativen Referendum.
+<sup>1</sup> Die allgemeinverbindlichen Verordnungen sowie die Beschlüsse des Landeskirchenparlaments, welche eine neue einmalige Ausgabe von mehr als CHF 200'000.– oder eine neue wiederkehrende Einzelausgabe von mehr als CHF 20'000.– zur Folge haben, unterstehen dem fakultativen Referendum.
 
 <sup>2</sup> Die landeskirchliche Abstimmung ist innert 8 Wochen seit der Veröffentlichung der Verordnung bzw. des Beschlusses von mindestens 500 Stimmberechtigten unterschriftlich beim Landeskirchenrat zu verlangen.
 
@@ -313,18 +319,22 @@ folgende Verfassung:
 
 <sup>1</sup> Der Landeskirchenrat ist das oberste Vollzugs und Verwaltungsorgan der Landeskirche. Er vertritt sie nach aussen.
 
-<sup>2</sup> Er besteht aus 7 Mitgliedern:
+<sup>2</sup> Dem Landeskirchenrat gehören an:
 
-- a. 4 Personen, die nicht der Pastoralkonferenz angehören;
-- b. 3 Mitgliedern der Pastoralkonferenz.
+- a. 5 vom Landeskirchenparlament gewählte Personen, die nicht zum Personenkreis gemäss Bst. b gehören;
+- b. 1 vom Landeskirchenparlament gewähltes Mitglied aus den Pastoralraumkonferenzen auf dem Gebiet der Landeskirche; die Mitglieder der Pastoralraumkonferenzen haben ein Vorschlagsrecht für diese Person; das Bischofsvikariat ist für die Organisation und Durchführung des Vorschlages zuständig;
+- c. 1 vom Bischof bezeichnete Vertretung[^22-1] mit beratender Stimme und Antragsrecht;
+- d. der Verwalter oder die Verwalterin mit beratender Stimme und Antragsrecht.
 
-<sup>3</sup> Die Person, welche das Präsidium übernimmt, darf weder der Pastoralkonferenz angehören noch sonst im kirchlichen Dienst stehen.
+<sup>3</sup> Nicht stimmberechtigte Mitglieder und das Mitglied aus den Pastoralraumkonferenzen können nicht in das Präsidium gewählt werden.
 
-<sup>4</sup> Der Landeskirchenrat wird durch die Synode an ihrer konstituierenden Sitzung gewählt, wobei die Regionen nach Möglichkeit zu berücksichtigen sind. Wählbar sind die Stimmberechtigten der Landeskirche. Die Wahl des Präsidiums erfolgt in gesonderter Abstimmung aus der Mitte der gewählten Mitglieder des Landeskirchenrats. Im Übrigen konstituiert sich der Landeskirchenrat selbst.
+<sup>4</sup> Die stimmberechtigten Mitglieder des Landeskirchenrats werden durch das Landeskirchenparlament an seiner konstituierenden Sitzung gewählt, wobei die Regionen nach Möglichkeit zu berücksichtigen sind. Wählbar sind die Stimmberechtigten der Landeskirche. Die Wahl des Präsidiums erfolgt in gesonderter Abstimmung aus der Mitte der gewählten Mitglieder des Landeskirchenrats. Im Übrigen konstituiert sich der Landeskirchenrat selbst.
 
-<sup>5</sup> Er ist beschlussfähig, wenn mindestens 4 Mitglieder anwesend sind. Die vorsitzende Person kann mitstimmen. Bei Stimmengleichheit gibt sie den Stichentscheid.
+<sup>5</sup> Er ist beschlussfähig, wenn mindestens 3 der stimmberechtigten Mitglieder anwesend sind. Die vorsitzende Person kann mitstimmen. Bei Stimmengleichheit gibt sie den Stichentscheid.
 
 <sup>6</sup> ...
+
+[^22-1]: Eine Vertretung aus der Bistumsregionalleitung St. Urs.
 
 #### § 23
 
@@ -332,12 +342,7 @@ folgende Verfassung:
 
 <sup>1</sup> Der Landeskirchenrat versammelt sich auf Einladung des Präsidiums, so oft es die Geschäfte erfordern, oder auf Verlangen von 3 Mitgliedern.
 
-<sup>2</sup> An den Sitzungen des Landeskirchenrates nehmen teil:
-
-- a. der Verwalter oder die Verwalterin mit beratender Stimme und Antragsrecht;
-- b. regelmässig eine vom Bischof bezeichnete Vertretung[^23-1] mit beratender Stimme.
-
-[^23-1]: Eine Vertretung aus der Bistumsregionalleitung St. Urs.
+<sup>2</sup> …
 
 #### § 24
 
@@ -346,17 +351,17 @@ folgende Verfassung:
 <sup>1</sup> Der Landeskirchenrat hat insbesondere folgende Rechte und Pflichten:
 
 - a. Verwaltung des landeskirchlichen Vermögens und Sorge für die satzungsgemässe Verwendung der Fonds und Stiftungen;
-- b. Vorbereitung der Geschäfte (Berichte und Anträge) der Synode, namentlich der Voranschläge und Rechnungen, der Verordnungen und Beschlüsse;
-- c. Vollzug der Beschlüsse der Synode und Erlass von Ausführungsbestimmungen;
-- d. Beschluss über neue einmalige Ausgaben bis CHF 50'000.–; ausserhalb des Voranschlags können solche Ausgaben bis zu einem jährlichen Gesamtbetrag von CHF 100'000–. beschlossen werden;
+- b. Vorbereitung der Geschäfte (Berichte und Anträge) des Landeskirchenparlaments, namentlich der Budgets und Jahresrechnungen, der Verordnungen und Beschlüsse;
+- c. Vollzug der Beschlüsse des Landeskirchenparlaments und Erlass von Ausführungsbestimmungen;
+- d. Beschluss über neue einmalige Ausgaben bis CHF 50'000.–; ausserhalb des Budgets können solche Ausgaben bis zu einem jährlichen Gesamtbetrag von CHF 100'000.– beschlossen werden;
 - e. Aufsicht über die Verwaltung und regelmässige Überprüfung ihrer Tätigkeit;
-- f. Wahl der landeskirchlichen Organe, soweit sie nicht durch Verfassung der Synode vorbehalten ist;
-- g. Abschluss der Besoldungsverträge mit den Seelsorgenden sowie der Arbeitsverträgen mit dem Verwalter oder der Verwalterin und anderen Angestellten der Landeskirche im Rahmen der Bestimmungen gemäss § 20 Abs. 1<sup>bis</sup>;
+- f. Wahl der landeskirchlichen Organe, soweit sie nicht durch Verfassung dem Landeskirchenparlament vorbehalten ist;
+- g. Abschluss der Besoldungsverträge mit den Seelsorgenden sowie der Arbeitsverträge mit dem Verwalter oder der Verwalterin und anderen Angestellten der Landeskirche im Rahmen der Bestimmungen gemäss § 20 Abs. 1<sup>bis</sup>;
 - h. Festsetzung der Besoldung des Verwalters oder der Verwalterin, der Seelsorgenden und der anderen Mitarbeitenden im Dienste der Landeskirche im Rahmen der Verordnung;
 - i. Festsetzung der Vergütungen an die Spezialbehörden und Kommissionen;
 - k. ...
-- l. Genehmigung der Voranschläge, Rechnungen, Anleihen, Veräusserung und Verpfändung von Vermögen der Kirchgemeinden;
-- m. Genehmigung der Kirchgemeindeordnung und der Reglemente der Kirchgemeinden;
+- l. Genehmigung der Budgets, Jahresrechnungen, Anleihen, Veräusserung und Verpfändung von Vermögen der Kirchgemeinden;
+- m. Genehmigung der Kirchgemeindeordnung der Kirchgemeinden;
 - [[m<sup>bis</sup>.]] Genehmigung der Statuten von Zweckverbänden sowie von Verträgen über die Zusammenarbeit von Kirchgemeinden in bischöflich errichteten überpfarreilichen Seelsorgeräumen[^24-1];
 - n. Anordnung der periodischen Wahlen der Landeskirche und der Kirchgemeinden;
 - o. Bestätigung der Wahl des Kirchgemeindepräsidiums, der Kirchgemeinderäte und der Pfarrer bzw. des Gemeindeleiters oder der Gemeindeleiterin;
@@ -392,7 +397,7 @@ folgende Verfassung:
 
 **Funktion, Wahl**
 
-<sup>1</sup> Zur Erfüllung besonderer Aufgaben kann die Synode Spezialbehörden schaffen.
+<sup>1</sup> Zur Erfüllung besonderer Aufgaben kann das Landeskirchenparlament Spezialbehörden schaffen.
 
 <sup>2</sup> Deren Rechte, Pflichten, Finanzen und Organe werden in einer Verordnung geregelt.
 
@@ -404,17 +409,17 @@ folgende Verfassung:
 
 <sup>1</sup> Die Prüfungskommission:
 
-- a. prüft die Voranschläge und Rechnungen der Landeskirche;
+- a. prüft die Budgets und Jahresrechnungen der Landeskirche;
 - b. prüft die Amtsberichte der landeskirchlichen Behörde;
 - c. prüft die Tätigkeit der Behörden und Hilfsorgane der Landeskirche;
 - d. prüft die Anträge des Landeskirchenrates mit finanziellen Auswirkungen;
-- e. erstattet der Synode über ihre Prüfung Bericht und stellt Antrag.
+- e. erstattet dem Landeskirchenparlament über ihre Prüfung Bericht und stellt Antrag.
 
 <sup>1<sup>bis</sup></sup> Die Prüfungskommission kann ein im Revisionswesen tätiges Unternehmen mit einzelnen Prüfungsarbeiten beauftragen.
 
-<sup>2</sup> Voranschläge, Rechnungen und Amtsbericht sind der Prüfungskommission spätestens 6 Wochen vor der betreffenden Synode zuzustellen.
+<sup>2</sup> Budgets, Jahresrechnungen und Amtsbericht sind der Prüfungskommission spätestens 6 Wochen vor der betreffenden Parlamentssitzung zuzustellen.
 
-<sup>3</sup> Die Prüfungskommission besteht aus 7 Mitgliedern. Sie wird durch die Synode aus ihrer Mitte gewählt. Nach Ablauf der Amtsperiode ist mindestens 1 Mitglied zu ersetzen.
+<sup>3</sup> Die Prüfungskommission besteht aus 5–7 Mitgliedern. Sie wird durch das Landeskirchenparlament aus ihrer Mitte gewählt. Nach Ablauf der Amtsperiode ist mindestens 1 Mitglied zu ersetzen.
 
 ### 2.2.6 Verwaltung
 
@@ -422,7 +427,7 @@ folgende Verfassung:
 
 **Funktion, Wahl**
 
-<sup>1</sup> Der Verwaltung obliegen das Finanz- und Rechnungswesen sowie die Administration der Landeskirche. Die Einzelheiten regelt die Synode in einer Verordnung.
+<sup>1</sup> Der Verwaltung obliegen das Finanz- und Rechnungswesen sowie die Administration der Landeskirche.
 
 <sup>2</sup> Der Verwalter oder die Verwalterin wird durch den Landeskirchenrat angestellt.
 
@@ -442,7 +447,7 @@ folgende Verfassung:
 
 <sup>5</sup> Die Vergütung richtet sich sinngemäss nach den Bestimmungen des Kantons für die nebenamtlichen Richter. Die Rekurskommission bestimmt die Vergütung des juristischen Sekretärs bzw. der juristischen Sekretärin.
 
-<sup>6</sup> Die Rekurskommission erstattet der Synode jährlich über ihre Tätigkeit Bericht.
+<sup>6</sup> Die Rekurskommission erstattet dem Landeskirchenparlament jährlich über ihre Tätigkeit Bericht.
 
 ## 3 Die Kirchgemeinden
 
@@ -452,44 +457,11 @@ folgende Verfassung:
 
 **Bestand**
 
-<sup>1</sup> Es bestehen folgende Kirchgemeinden:
+<sup>1</sup> Das Landeskirchenparlament regelt in einer Verordnung die Gliederung der Landeskirche in Kirchgemeinden und legt deren Gebiete fest.
 
-- 1\. Aesch
-- 2\. Allschwil
-- 3\. Arlesheim
-- 4\. Binningen-Bottmingen
-- 5\. Birsfelden
-- 6\. Blauen
-- 7\. Brislach
-- 8\. Burg
-- 9\. Dittingen
-- 11\. Duggingen
-- 12\. Ettingen
-- 13\. Frenkendorf-Füllinsdorf
-- 14\. Gelterkinden (umfassend die Einwohnergemeinden Anwil, Buus, Gelterkinden, Hemmiken, Kilchberg, Maisprach, Oltingen, Ormalingen, Rickenbach, Rothenfluh, Rünenberg, Tecknau, Wenslingen und Zeglingen)
-- 15\. Grellingen
-- 16\. Laufen
-- 17\. Liesberg
-- 18\. Liestal (umfassend die Einwohnergemeinden Arisdorf, Bubendorf, Giebenach, Hersberg, Lausen, Liestal, Lupsingen, Ramlinsburg, Seltisberg und Ziefen)
-- 19\. Münchenstein
-- 20\. Muttenz
-- 21\. Nenzlingen
-- 22\. Oberwil
-- 23\. Pfeffingen
-- 24\. Pratteln-Augst
-- 25\. Reinach
-- 26\. Roggenburg
-- 27\. Röschenz
-- 28\. Schönenbuch
-- 29\. Sissach (umfassend die Einwohnergemeinden Böckten, Buckten, Diegten, Diepflingen, Eptingen, Häfelfingen, Itingen, Känerkinden, Läufelfingen, Nusshof, Rümlingen, Sissach, Tenniken, Thürnen, Wintersingen, Wittinsburg und Zunzgen)
-- 30\. Therwil/Biel-Benken
-- 31\. Wahlen
-- 32\. Waldenburgertal mit Sitz in Oberdorf (umfassend die Einwohnergemeinden Arboldswil, Bennwil, Bretzwil, Hölstein, Lampenberg, Langenbruck, Lauwil, Liedertswil, Niederdorf, Oberdorf, Reigoldswil, Titterten und Waldenburg)
-- 33\. Zwingen
+<sup>1<sup>bis</sup></sup> Diese Verordnung ist dem fakultativen Referendum nicht unterstellt.
 
-<sup>2</sup> Die Kirchgemeinden können nur durch Verfassungsänderung verändert werden (Kirchengesetz § 6 Abs. 2[^28-1]). Voraussetzung sind zustimmende Urnenentscheide der römisch-katholischen Einwohnerinnen und Einwohner der betroffenen Einwohner- und Kirchgemeinden.
-
-[^28-1]: [SGS 191](https://bl.clex.ch/data/191/de/art6)
+<sup>2</sup> Veränderungen im Bestand der Kirchgemeinden bedürfen einer entsprechenden Änderung der Verordnung gemäss Abs. 1. Voraussetzung sind zustimmende Urnenentscheide der römisch-katholischen Einwohnerinnen und Einwohner der betroffenen Kirchgemeinden.
 
 #### § 29
 
@@ -505,8 +477,8 @@ folgende Verfassung:
 
 - a. Sie unterstützen die kirchlichen Organe in ihrer Tätigkeit und sorgen für die materiellen Grundlagen der örtlichen Seelsorge und der damit verbundenen sozialen Werke.
 - b. Sie arbeiten mit andern Kirchgemeinden zusammen und fördern die ökumenischen Bestrebungen.
-- c. Sie können im Rahmen des Voranschlags gemäss ihren finanziellen Möglichkeiten seelsorgerliche, soziale und karitative Werke ausserhalb ihres Gebiets unterstützen, soweit dadurch die Erfüllung ihrer eigentlichen Aufgaben nicht beeinträchtigt wird. Diese Beiträge dürfen jährlich 5 % des Kirchensteuerertrags des Vorjahres nicht übersteigen.
-- d. Über maximal weitere 5 % kann anlässlich der Genehmigung der Rechnung entschieden werden, sofern ein Mehrertrag und keine mittel- und langfristigen Schulden ausgewiesen werden.
+- c. Sie können im Rahmen des Budgets gemäss ihren finanziellen Möglichkeiten seelsorgerliche, soziale und karitative Werke ausserhalb ihres Gebiets unterstützen, soweit dadurch die Erfüllung ihrer eigentlichen Aufgaben nicht beeinträchtigt wird. Diese Beiträge dürfen jährlich 5 % des Kirchensteuerertrags des Vorjahres nicht übersteigen.
+- d. Über maximal weitere 5 % kann anlässlich der Genehmigung der Jahresrechnung entschieden werden, sofern ein Mehrertrag und keine mittel- und langfristigen Schulden ausgewiesen werden.
 - e. Weitergehende Zuweisungen sind für den Finanzausgleich zwischen den Kirchgemeinden möglich.
 - f. Die Beschlüsse gemäss den Bst. d und e bedürfen der 2/3-Mehrheit der an der Kirchgemeindeversammlung anwesenden Stimmberechtigten.
 
@@ -516,17 +488,17 @@ folgende Verfassung:
 
 <sup>1</sup> Die finanziellen Bedürfnisse der Kirchgemeinden werden insbesondere gedeckt durch die Kirchensteuern der natürlichen Personen und durch die Finanzausgleichsbeiträge der Landeskirche.
 
-<sup>2</sup> Die Kirchgemeinden erheben von ihren Angehörigen eine Einkommens- und Vermögenssteuer in Prozenten der Staatssteuer (Kirchengesetz § 8 Bst. a und § 8a[^31-1]). Der Grundstückgewinn wird nicht besteuert.
+<sup>2</sup> Die Kirchgemeinden erheben eine Einkommens- und Vermögenssteuer in Prozenten der Staatssteuer (Kirchengesetz § 8 Bst. a und § 8a[^31-1]). Der Grundstückgewinn wird nicht besteuert.
 
 <sup>3</sup> Weitere Einzelheiten sowie den Finanzausgleich zwischen den Kirchgemeinden regelt eine landeskirchliche Verordnung.
 
-[^31-1]: [SGS 191](https://bl.clex.ch/data/191/de/art8)
+[^31-1]: [SGS 191](https://bl.clex.ch/data/191/de)
 
 #### § 32
 
 **Steuerverfahren**
 
-<sup>1</sup> Die Kirchgemeindeversammlung legt den Steuerfuss anlässlich der Beratung des Voranschlags jährlich fest.
+<sup>1</sup> Die Kirchgemeindeversammlung legt den Steuerfuss anlässlich der Beratung des Budgets jährlich fest.
 
 <sup>2</sup> In Familien gemischter Konfessionszugehörigkeit wird die Kirchensteuer anteilmässig erhoben (Kirchengesetz § 8a Abs. 3[^32-1]).
 
@@ -572,7 +544,7 @@ folgende Verfassung:
 
 <sup>2</sup> Die Wahlen in der Kirchgemeindeversammlung finden in offener oder geheimer Abstimmung statt. Die Wahlart wird durch die Kirchgemeindeversammlung festgesetzt.
 
-<sup>3</sup> Die Amtsperiode der Organe, ausgenommen der nicht ständigen Kommissionen, beginnt am 1. Januar vor der Amtsperiode der Synode.
+<sup>3</sup> Die Amtsperiode der Organe, ausgenommen der nicht ständigen Kommissionen, beginnt am 1. Januar vor der Amtsperiode des Landeskirchenparlaments.
 
 #### § 37
 
@@ -590,19 +562,19 @@ folgende Verfassung:
 
 <sup>1<sup>bis</sup></sup> Wenn der Pfarrer, der Gemeindeleiter oder die Gemeindeleiterin ausserhalb der Kirchgemeinde Wohnsitz hat, kann er oder sie mit beratender Stimme und Antragsrecht an der Kirchgemeindeversammlung teilnehmen.
 
-<sup>2</sup> Die von der Kirchgemeindeversammlung beschlossene Kirchgemeindeordnung und die Reglemente bedürfen der Genehmigung des Landeskirchenrates.
+<sup>2</sup> Die von der Kirchgemeindeversammlung beschlossene Kirchgemeindeordnung bedarf der Genehmigung des Landeskirchenrats.
 
 #### § 39
 
 **Fakultatives Referendum**
 
-<sup>1</sup> Ein Beschluss der Kirchgemeindeversammlung wird der Urnenabstimmung unterstellt, wenn dies 1/10 der Stimmberechtigten innert 30 Tagen unterschriftlich verlangt. Bei mehr als 3'000 Stimmberechtigten genügen 300 Unterschriften. Voranschlag, Steuersatz, Rechnungen und Wahlen sind dem Referendum nicht unterstellt.
+<sup>1</sup> Ein Beschluss der Kirchgemeindeversammlung wird der Urnenabstimmung unterstellt, wenn dies 1/10 der Stimmberechtigten innert 30 Tagen unterschriftlich verlangt. Bei mehr als 3'000 Stimmberechtigten genügen 300 Unterschriften. Budget, Steuersatz, Jahresrechnungen und Wahlen sind dem Referendum nicht unterstellt.
 
 #### § 40
 
 **Der Kirchgemeinderat**
 
-<sup>1</sup> Der Kirchgemeinderat besteht aus 5–7 Mitgliedern. In Kirchgemeinden mit mehreren Pfarreien kann die Mitgliederzahl erhöht werden.
+<sup>1</sup> Der Kirchgemeinderat besteht aus 3–7 Mitgliedern. In Kirchgemeinden mit mehreren Pfarreien kann die Mitgliederzahl erhöht werden.
 
 <sup>1<sup>bis</sup></sup> Der Pfarrer, der Gemeindeleiter oder die Gemeindeleiterin gehört dem Kirchgemeinderat von Amts wegen an, wenn er oder sie in der Kirchgemeinde Wohnsitz hat.
 
@@ -618,7 +590,7 @@ folgende Verfassung:
 
 **Die Kirchgemeindepräsidentin/der Kirchgemeindepräsident**
 
-<sup>1</sup> Die Kirchgemeindepräsidentin/der Kirchgemeindepräsident ist die Vorsteherin/der Vorsteher der Kirchgemeinde und vorsitzende Person des Kirchgemeinderats. Sie oder er darf weder der Pastoralkonferenz angehören noch sonst im kirchlichen Dienst stehen. Sie oder er wird aus der Mitte der gewählten Mitglieder des Kirchgemeinderats durch die Kirchgemeindeversammlung gewählt.
+<sup>1</sup> Die Kirchgemeindepräsidentin/der Kirchgemeindepräsident ist die Vorsteherin/ der Vorsteher der Kirchgemeinde und vorsitzende Person des Kirchgemeinderats. Sie oder er darf nicht im kirchlichen Dienst in der betreffenden Kirchgemeinde stehen. Sie oder er wird aus der Mitte der gewählten Mitglieder des Kirchgemeinderats durch die Kirchgemeindeversammlung gewählt.
 
 #### § 42
 
@@ -632,7 +604,7 @@ folgende Verfassung:
 
 **Die Prüfungskommission**
 
-<sup>1</sup> Kontrollorgan der Kirchgemeinde ist die aus 3–5 Mitgliedern bestehende Prüfungskommission, welche von der Kirchgemeindeversammlung gewählt wird.
+<sup>1</sup> Kontrollorgan der Kirchgemeinde ist die aus 2–5 Mitgliedern bestehende Prüfungskommission, welche von der Kirchgemeindeversammlung gewählt wird.
 
 <sup>2</sup> Obliegenheiten und Befugnisse der Prüfungskommission entsprechen jenen der Rechnungsprüfungs- und jenen der Geschäftsprüfungskommission der Einwohnergemeinde.
 
@@ -640,7 +612,7 @@ folgende Verfassung:
 
 **Das Wahlbüro**
 
-<sup>1</sup> Jede Kirchgemeinde bestellt aus den Stimmberechtigten mindestens 1 Wahlbüro von 3–5 Mitgliedern. Das Wahlbüro konstituiert sich selbst.
+<sup>1</sup> Jede Kirchgemeinde bestellt aus den Stimmberechtigten mindestens 1 Wahlbüro von 2–5 Mitgliedern. Das Wahlbüro konstituiert sich selbst.
 
 <sup>2</sup> Das Wahlbüro hat die Abstimmungen und Wahlen der Landeskirche und der Kirchgemeinde nach dem Urnenverfahren gemäss den Anordnungen des Landeskirchenrats bzw. des Kirchgemeinderats durchzuführen. Für die Ausmittlung und Protokollierung der Ergebnisse gelten sinngemäss die Bestimmungen der kantonalen Gesetzgebung über die politischen Rechte[^44-1].
 
@@ -693,7 +665,7 @@ folgende Verfassung:
 
 **Zusammenarbeit in bischöflich errichteten, überpfarreilichen Seelsorgeräumen**
 
-<sup>1</sup> Die Synode kann in einer Verordnung MinimalVorschriften über die Zusammenarbeit der Kirchgemeinden in den bischöflich errichteten, überpfarreilichen Seelsorgeräumen erlassen.
+<sup>1</sup> Das Landeskirchenparlament kann in einer Verordnung Minimalvorschriften über die Zusammenarbeit der Kirchgemeinden in den bischöflich errichteten, überpfarreilichen Seelsorgeräumen erlassen.
 
 <sup>2</sup> Diese Vorschriften sind für alle Kirchgemeinden verbindlich, sofern die Kirchgemeinden der einzelnen bischöflich errichteten, überpfarreilichen Seelsorgeräume nicht abweichende Regelungen vereinbaren.
 
@@ -715,7 +687,7 @@ folgende Verfassung:
 
 <sup>2</sup> Für die Tätigkeit im kirchlichen Bereich unterstehen sie den zuständigen kirchlichen Vorgesetzten.
 
-<sup>3</sup> Nach Entzug der kirchlichen Sendung leitet der Landeskirchenrat bzw. der Kirchgemeinderat das Verfahren auf Auflösung des Besoldungsvertrags ein. Die Synode regelt das Verfahren.
+<sup>3</sup> Nach Entzug der kirchlichen Sendung leitet der Landeskirchenrat bzw. der Kirchgemeinderat das Verfahren auf Auflösung des Besoldungsvertrags ein. Das Landeskirchenparlament regelt das Verfahren.
 
 #### § 48
 
@@ -739,17 +711,19 @@ folgende Verfassung:
 
 **Bestätigungswahl**
 
-<sup>1</sup> Je nach Ablauf von 5 Jahren soll über Beibehaltung oder Nichtbeibehaltung des Pfarrers resp. des Gemeindeleiters oder der Gemeindeleiterin an der Urne abgestimmt werden, sofern wenigstens 1/20, mindestens aber 25 Stimmberechtigte eine solche Abstimmung spätestens 3 Monate vor Ablauf der Amtsdauer des Pfarrers resp. des Gemeindeleiters oder der Gemeindeleiterin schriftlich verlangen (Kirchengesetz § 4[^50-1])
+<sup>1</sup> Je nach Ablauf von 5 Jahren soll über Beibehaltung oder Nichtbeibehaltung des Pfarrers resp. des Gemeindeleiters oder der Gemeindeleiterin an der Urne abgestimmt werden, sofern wenigstens 1/20, mindestens aber 25 Stimmberechtigte im Fall von weniger als 500 Stimmberechtigten, eine solche Abstimmung spätestens 3 Monate vor Ablauf der Amtsdauer des Pfarrers resp. des Gemeindeleiters oder der Gemeindeleiterin, schriftlich verlangen (Kirchengesetz § 4[^50-1]).
 
-[^50-1]: [SGS 191](https://bl.clex.ch/data/191/de/art4)
+<sup>2</sup> Wird keine Bestätigungswahl gemäss Abs. 1 je nach Ablauf von 5 Jahren verlangt bzw. das nötige Quorum hierfür nicht erreicht und steht nur der bisherige Pfarrer bzw. Gemeindeleiter oder Gemeindeleiterin zur Fortführung der Funktion zur Wahl, erfolgt eine stillschweigende Verlängerung der Amtsperiode um je weitere 5 Jahre. Der Kirchgemeinderat hat dies festzustellen und die Kirchgemeindeversammlung darüber in Kenntnis zu setzen.
+
+[^50-1]: [SGS 191](https://bl.clex.ch/data/191/de)
 
 #### § 51
 
 **Rücktritt**
 
-<sup>1</sup> Der Pfarrer bzw. der Gemeindeleiter oder die Gemeindeleiterin hat den Rücktritt der Wahlbehörde schriftlich zu erklären. Vorbehalten bleiben die Rechte des Diözesanbischofs.
+<sup>1</sup> Der Pfarrer bzw. der Gemeindeleiter oder die Gemeindeleiterin hat den Rücktritt dem Kirchgemeinderat schriftlich zu erklären. Vorbehalten bleiben die Rechte des Diözesanbischofs.
 
-### 4.3
+### 4.3 Vikare
 
 #### § 52
 
@@ -757,7 +731,7 @@ folgende Verfassung:
 
 <sup>1</sup> Die Vikare werden nach Rücksprache mit dem Kirchgemeinderat durch den Diözesanbischof eingesetzt.
 
-### 4.4
+### 4.4 Übrige Seelsorgende
 
 #### § 53
 
@@ -765,7 +739,7 @@ folgende Verfassung:
 
 <sup>1</sup> Die übrigen Seelsorgenden werden durch den Landeskirchenrat bzw. den Kirchgemeinderat angestellt.
 
-<sup>2</sup> Durch Beschluss der Synode können unter Vorbehalt kirchlichen Rechts die für die Anstellung dieser Seelsorgenden notwendigen Voraussetzungen hinsichtlich Vorbildung festgelegt werden.
+<sup>2</sup> Das Landeskirchenparlament kann für den Abschluss von Besoldungsverträgen mit diesen Seelsorgenden unter Vorbehalt des kirchlichen Rechts die Voraussetzungen hinsichtlich Vorbildung festlegen.
 
 ## 5 Die Rechtsmittel
 
@@ -782,14 +756,14 @@ folgende Verfassung:
 <sup>2</sup> Beschwerdeberechtigt:
 
 - a. ist, wer durch den angefochtenen Beschluss berührt ist und ein schutzwürdiges Interesse an dessen Änderung oder Aufhebung hat;
-- b. sind ausserdem alle Stimmberechtigte bei Beschlüssen der Kirchgemeindeversammlung.
+- b. sind ausserdem alle Stimmberechtigten bei Beschlüssen der Kirchgemeindeversammlung.
 
 <sup>3</sup> Alle Stimmberechtigten können innert 3 Tagen seit der Entdeckung des Beschwerdegrunds, spätestens aber am 3. Tage nach der ordnungsgemässen Veröffentlichung des Ergebnisses unter Vorbehalt von § 54a Abs. 1 beim Landeskirchenrat Beschwerde erheben wegen:
 
 - a. der Verletzung des Stimmrechts;
 - b. Unregelmässigkeiten bei der Vorbereitung und Durchführung von Abstimmungen und Wahlen.
 
-<sup>4</sup> Für das Beschwerdeverfahren werden keine Kosten erhoben. Im Übrigen richtet sich dieses Verfahren sinngemäss nach den Bestimmungen der kantonalen Gesetzgebung über das Verwaltungsverfahrenbzw. über die politischen Rechte.[^54-1]
+<sup>4</sup> Für das Beschwerdeverfahren werden keine Kosten erhoben. Im Übrigen richtet sich dieses Verfahren sinngemäss nach den Bestimmungen der kantonalen Gesetzgebung über das Verwaltungsverfahren bzw. über die politischen Rechte.[^54-1]
 
 <sup>5</sup> Der Landeskirchenrat kann eine Beschwerde als Sprungbeschwerde an die Rekurskommission weiterleiten.
 
@@ -811,6 +785,8 @@ folgende Verfassung:
 
 <sup>3</sup> Das Beschwerdeverfahren richtet sich sinngemäss nach den Bestimmungen der kantonalen Gesetzgebung über das Verwaltungsverfahren bzw. über die politischen Rechte.[^54a-1]
 
+<sup>4</sup> Vorbehalten bleiben abweichende Verfahrensbestimmungen des Landeskirchenrats.
+
 [^54a-1]: [SGS 175](https://bl.clex.ch/data/175/de) bzw. [SGS 120](https://bl.clex.ch/data/120/de)
 
 #### § 55
@@ -827,23 +803,23 @@ folgende Verfassung:
 
 **Voraussetzungen**
 
-<sup>1</sup> Die Revision dieser Verfassung kann von der Synode durch die Mehrheit der Abgeordneten beschlossen werden.
+<sup>1</sup> Die Revision dieser Verfassung kann vom Landeskirchenparlament durch die Mehrheit der Abgeordneten beschlossen werden.
 
-<sup>2</sup> Die Revision kann ferner von mindestens 1'000 Stimmberechtigten unterschriftlich verlangt werden. Die Synode entscheidet mit einfachem Mehr, ob sie diesem Begehren entsprechen will oder nicht.
+<sup>2</sup> Die Revision kann ferner von mindestens 1'000 Stimmberechtigten unterschriftlich verlangt werden. Das Landeskirchenparlament entscheidet mit einfachem Mehr, ob es diesem Begehren entsprechen will oder nicht.
 
-<sup>3</sup> Lehnt die Synode das Begehren der Stimmberechtigten ab, so ist durch landeskirchliche Abstimmung zu entscheiden, ob die verlangte Revision vorzunehmen ist oder nicht.
+<sup>3</sup> Lehnt das Landeskirchenparlament das Begehren der Stimmberechtigten ab, so ist durch landeskirchliche Abstimmung zu entscheiden, ob die verlangte Revision vorzunehmen ist oder nicht.
 
-<sup>4</sup> Wird das Begehren der Stimmberechtigten in der Abstimmung von der Mehrheit der Stimmenden gutgeheissen, so hat die Synode einen entsprechenden Verfassungstext zu beschliessen.
+<sup>4</sup> Wird das Begehren der Stimmberechtigten in der Abstimmung von der Mehrheit der Stimmenden gutgeheissen, so hat das Landeskirchenparlament einen entsprechenden Verfassungstext zu beschliessen.
 
 #### § 57
 
 **Verfahren**
 
-<sup>1</sup> Handelt es sich um eine Teilrevision, so hat der Landeskirchenrat den neuen Text mit Bericht und Antrag der Synode zum Beschluss vorzulegen.
+<sup>1</sup> Handelt es sich um eine Teilrevision, so hat der Landeskirchenrat den neuen Text mit Bericht und Antrag dem Landeskirchenparlament zum Beschluss vorzulegen.
 
-<sup>2</sup> Ist die Totalrevision beschlossen, so setzt die Synode eine Kommission ein, welche einen Entwurf auszuarbeiten hat. Der Landeskirchenrat delegiert in diese Kommission 2 seiner Mitglieder.
+<sup>2</sup> Ist die Totalrevision beschlossen, so setzt das Landeskirchenparlament eine Kommission ein, welche einen Entwurf auszuarbeiten hat. Der Landeskirchenrat delegiert in diese Kommission 2 seiner Mitglieder.
 
-<sup>3</sup> Die Kommission unterbreitet ihren Entwurf mit Bericht und Antrag sowie der schriftlichen Stellungnahme des Landeskirchenrats der Synode zum Beschluss.
+<sup>3</sup> Die Kommission unterbreitet ihren Entwurf mit Bericht und Antrag sowie der schriftlichen Stellungnahme des Landeskirchenrats dem Landeskirchenparlament zum Beschluss.
 
 <sup>4</sup> Jede Verfassungsrevision unterliegt der landeskirchlichen Urnenabstimmung.
 
@@ -853,7 +829,7 @@ folgende Verfassung:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verfassung wird von der Synode in Kraft gesetzt, wenn die Mehrheit der Stimmenden ihr zugestimmt hat.[^58-1] Sie bedarf der Genehmigung des Regierungsrats (Kirchengesetz § 2[^58-2]).[^58-3]
+<sup>1</sup> Diese Verfassung wird vom Landeskirchenparlament in Kraft gesetzt, wenn die Mehrheit der Stimmenden ihr zugestimmt hat.[^58-1] Sie bedarf der Genehmigung des Regierungsrats (Kirchengesetz § 2[^58-2]).[^58-3]
 
 <sup>2</sup> Bis zum Erlass der durch die Verfassung bedingten neuen Verordnungen und Reglemente sind die bisherigen Vorschriften sinngemäss anzuwenden.
 
