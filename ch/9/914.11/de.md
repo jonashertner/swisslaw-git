@@ -4,11 +4,11 @@ title: Verordnung vom 26. November 2003 über die sozialen Begleitmassnahmen in 
 short: SBMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/720"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-720-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2003-720-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20230101/de"
 
 (SBMV)
 
-vom 26. November 2003 (Stand am 1. Januar 2023)
+vom 26. November 2003 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -63,13 +63,16 @@ In den folgenden Fällen genügt eine Betriebsgrösse von mindestens 0,60 SAK:
 - a. für Betriebshilfedarlehen in den Bergzonen III und IV zur Sicherung der Bewirtschaftung;
 - b. für Betriebshilfedarlehen in Gebieten des Berg- und Hügelgebiets zur Sicherung einer genügenden Besiedelungsdichte.
 
+<sup>2bis</sup> Für Betriebshilfedarlehen nach Artikel 1 Absatz 1 Buchstabe c ist keine minimale Betriebsgrösse erforderlich.[^2-2]
+
 <sup>3</sup> Die Kriterien zur Beurteilung, ob die Besiedelungsdichte nach Absatz 2 Buchstabe b gefährdet ist, sind im Anhang festgelegt.
 
-<sup>4</sup> Für die Bestimmung der Betriebsgrösse gelten zusätzlich zu den SAK-Faktoren nach Artikel 3 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^2-2] auch die SAK-Faktoren nach Artikel 2*a* der der Verordnung vom 4. Oktober 1993[^2-3] über das bäuerliche Bodenrecht.
+<sup>4</sup> Für die Bestimmung der Betriebsgrösse gelten zusätzlich zu den SAK-Faktoren nach Artikel 3 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^2-3] auch die SAK-Faktoren nach Artikel 2*a* der der Verordnung vom 4. Oktober 1993[^2-4] über das bäuerliche Bodenrecht.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^2-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^2-3]: [SR 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
+[^2-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
+[^2-3]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^2-4]: [SR 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
 
 #### Art. 3
 
@@ -191,12 +194,12 @@ Die Belastung ist tragbar, wenn die Gesuchstellerin oder der Gesuchsteller in de
 
 <sup>1</sup> Die Genehmigungsfrist von 30 Tagen beginnt am Tag der elektronischen Übermittlung der vollständigen Akten ans BLW.[^10-1]
 
-<sup>2</sup> Der Grenzbetrag beträgt 500 000 Franken, einschliesslich Saldo früherer Investitionskredite und Betriebshilfedarlehen.[^10-2]
+<sup>2</sup> Der Grenzbetrag beträgt 500 000 Franken.[^10-2]
 
 <sup>3</sup> Entscheidet das BLW in der Sache selbst, so legt es im Einzelfall die Bedingungen und Auflagen fest.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
 
 #### Art. 11
 
@@ -300,24 +303,26 @@ In Abweichung von Absatz 3 kann der Bund die geforderte Leistung der Kantone auf
 
 <sup>2</sup>
 
-Er meldet dem BLW bis zum 10. Januar folgende Bestände per 31. Dezember des vorangehenden Rechnungsjahres:
+Er meldet dem BLW über das Informationssystem nach Artikel 17 der Verordnung vom 23. Oktober 2013[^17-1] über Informationssysteme im Bereich der Landwirtschaft bis zum 10. Januar folgende Bestände des vorangehenden Rechnungsjahres per 31. Dezember mit allen sachdienlichen Unterlagen:[^17-2]
 
 - a. den Gesamtbestand der Bundesmittel;
 - b. den Gesamtbestand der Kantonsmittel;
 - c. die aufgelaufenen Zinsen der Bundes- und der Kantonsmittel;
 - d. die Verwendung der Zinsen nach Artikel 85 Absatz 2 LwG;
 - e. die liquiden Mittel;
-- f. die Summe der gewährten, jedoch noch nicht ausbezahlten Betriebshilfedarlehen.[^17-1]
+- f. die Summe der gewährten, jedoch noch nicht ausbezahlten Betriebshilfedarlehen.[^17-3]
 
 <sup>3</sup>
 
 Er meldet dem BLW bis zum 15. Juli folgende Bestände per 30. Juni:
 
 - a. die liquiden Mittel;
-- b. die Summe der gewährten, jedoch noch nicht ausbezahlten Betriebshilfedarlehen.[^17-2]
+- b. die Summe der gewährten, jedoch noch nicht ausbezahlten Betriebshilfedarlehen.[^17-4]
 
-[^17-1]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007 ([AS 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)). Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
-[^17-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^17-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^17-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
+[^17-3]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007 ([AS 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)). Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^17-4]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
 
 #### Art. 18
 

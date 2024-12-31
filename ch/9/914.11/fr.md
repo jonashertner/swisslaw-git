@@ -4,11 +4,11 @@ title: "Ordonnance du 26 novembre 2003 sur les mesures d'accompagnement social d
 short: OMAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/720"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-720-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-720-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20230101/fr"
 
 (OMAS)
 
-du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2023)
+du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -44,7 +44,7 @@ Les cantons peuvent accorder aux exploitants d’une entreprise paysanne des pr�
 
 <sup>2</sup> Un requérant est considéré comme ayant des difficultés financières lorsque, temporairement, il ne parvient pas à s’acquitter de ses obligations financières. Il doit y avoir un endettement initial coûtant intérêt de plus de 50 % de la valeur de rendement.[^1-2]
 
-<sup>3</sup> ...[^1-3]
+<sup>3</sup> …[^1-3]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
@@ -63,13 +63,16 @@ Une taille d’exploitation d’au moins 0,60 UMOS est suffisante dans les cas s
 - a. pour les prêts au titre de l’aide aux exploitations dans les zones de montagne III et IV, afin d’assurer l’exploitation du sol;
 - b. pour les prêts au titre de l’aide aux exploitations dans les régions de montagne et des collines, afin d’assurer une occupation suffisante du territoire.
 
+<sup>2bis</sup> Une taille minimale de l’exploitation n’est pas requise pour les prêts au titre de l’aide aux exploitations visés à l’art. 1, al. 1, let. c.[^2-2]
+
 <sup>3</sup> Les critères permettant d’évaluer si l’occupation du territoire visée à l’al. 2, let. b, est menacée sont fixés en annexe.
 
-<sup>4</sup> En complément des facteurs UMOS fixés à l’art. 3 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^2-2], les facteurs UMOS fixés à l’art. 2*a* de l’ordonnance du 4 octobre 1993 sur le droit foncier rural[^2-3] s’appliquent également pour déterminer la taille de l’exploitation.
+<sup>4</sup> En complément des facteurs UMOS fixés à l’art. 3 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^2-3], les facteurs UMOS fixés à l’art. 2*a* de l’ordonnance du 4 octobre 1993 sur le droit foncier rural[^2-4] s’appliquent également pour déterminer la taille de l’exploitation.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^2-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^2-3]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
+[^2-2]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
+[^2-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^2-4]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
 
 #### Art. 3
 
@@ -121,9 +124,9 @@ Pour obtenir un prêt au titre de l’aide aux exploitations conformément à l�
 
 <sup>1</sup> Après la réalisation d’un investissement assez important, un prêt selon l’art. 1, al. 1, let. b, ne peut être accordé qu’au terme d’un délai d’attente de trois ans.
 
-<sup>2</sup> ...[^6-2]
+<sup>2</sup> …[^6-2]
 
-<sup>3</sup> ...[^6-3]
+<sup>3</sup> …[^6-3]
 
 <sup>4</sup> La dernière conversion de dettes doit remonter à au moins trois ans.[^6-4]
 
@@ -191,12 +194,12 @@ La charge est considérée comme supportable si le requérant est à même:
 
 <sup>1</sup> Le délai d’approbation de 30 jours court à compter de la date de transmission par voie électronique du dossier complet à l’OFAG.[^10-1]
 
-<sup>2</sup> Le montant limite est fixé à 500 000 francs, y compris le solde des crédits d’investissements et des prêts au titre de l’aide aux exploitations alloués antérieurement.[^10-2]
+<sup>2</sup> Le montant limite est fixé à 500 000 francs.[^10-2]
 
 <sup>3</sup> Si l’OFAG statue lui-même sur l’affaire, il fixe les conditions et les charges au cas par cas.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> déc. 2017 ([RO 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
 
 #### Art. 11
 
@@ -300,24 +303,27 @@ En dérogation à l’al. 3, la Confédération peut, sur demande, avancer la pr
 
 <sup>2</sup>
 
-Il annonce à l’OFAG jusqu’au 10 janvier l’état au 31 décembre de l’année précédente des comptes suivants:
+Il annonce à l’OFAG au plus tard le 10 janvier, via le système d’information visé à l’art. 17 de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture[^17-1], l’état au 31 décembre de l’année précédente des comptes suivants, accompagné de tous les documents pertinents:[^17-2]
 
 - a. l’état total des fonds fédéraux;
 - b. l’état total des fonds cantonaux;
 - c. les intérêts échus sur les fonds fédéraux et les fonds cantonaux;
 - d. l’utilisation des intérêts, selon l’art. 85, al. 2, LAgr;
 - e. les liquidités;
-- f. la somme des prêts alloués au titre de l’aide aux exploitations, mais non encore versés.[^17-1]
+- f. la somme des prêts alloués au titre de l’aide aux exploitations, mais non encore versés.[^17-3]
 
 <sup>3</sup>
 
-Il annonce à l’OFAG jusqu’au 15 juillet l’état au 30 juin des comptes suivants:
+Il annonce à l’OFAG au plus tard le 15 juillet l’état au 30 juin des comptes suivants:[^17-4]
 
 - a. les liquidités;
-- b. la somme des prêts alloués au titre de l’aide aux exploitations, mais non encore versés.[^17-2]
+- b. la somme des prêts alloués au titre de l’aide aux exploitations, mais non encore versés.[^17-5]
 
-[^17-1]: Introduit par le ch. I de l’O du 14 nov. 2007 ([RO 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)). Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
-[^17-2]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
+[^17-3]: Introduit par le ch. I de l’O du 14 nov. 2007 ([RO 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)). Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^17-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
+[^17-5]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
 
 #### Art. 18
 
@@ -438,7 +444,7 @@ L’occupation du territoire est menacée dans une zone de la région de montagn
 <tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
 <tr><td>Distance par la route du centre le plus proche</td><td>km</td><td>&lt; 15</td><td>15–20</td><td>&gt; 20</td><td>1</td><td></td></tr>
 <tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
-<tr><td>Caractéristique spéciale de la région: .................</td><td></td><td></td><td></td><td></td><td>2</td><td></td></tr>
+<tr><td>Caractéristique spéciale de la région: ……………..</td><td></td><td></td><td></td><td></td><td>2</td><td></td></tr>
 <tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
 <tr><td colspan="6">Total des points (maximum = 39)</td><td></td></tr>
 <tr><td colspan="6">Nombre de points minimal requis pour l’octroi d’une aide à une exploitation en vertu de l’art. 80, al. 2, LAgr</td><td>26</td></tr>

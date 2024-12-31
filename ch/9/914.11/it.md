@@ -4,11 +4,11 @@ title: "Ordinanza del 26 novembre 2003 concernente le misure sociali collaterali
 short: OMSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/720"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-720-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2003-720-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20230101/it"
 
 (OMSC)
 
-del 26 novembre 2003 (Stato 1° gennaio 2023)
+del 26 novembre 2003 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ visti gli articoli 79 capoverso 2, 80 capoversi 2 e 3, 81 capoverso 1, 86*a* cap
 ordina:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 
 ## Sezione 1: Aiuti per la conduzione aziendale
 
@@ -46,9 +46,9 @@ I Cantoni possono accordare ai gestori di aziende agricole aiuti per la conduzio
 
 <sup>3</sup> ...[^1-3]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
-[^1-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^1-3]: Abrogato dal n. I dell’O del 14 nov. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^1-3]: Abrogato dalla cifra I dell’O del 14 nov. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
 
 #### Art. 2
 
@@ -63,16 +63,22 @@ Nei seguenti casi sono sufficienti dimensioni dell’azienda di almeno 0,60 USM:
 - a. per mutui a titolo di aiuto per la conduzione aziendale nelle zone di montagna III e IV a garanzia della gestione;
 - b. per mutui a titolo di aiuto per la conduzione aziendale nelle aree della regione di montagna e di quella collinare a garanzia di una sufficiente densità d’insediamento.
 
+<sup>2bis</sup> Per i mutui a titolo di aiuto per la conduzione aziendale secondo l’articolo 1 capoverso 1 lettera c non sono richieste dimensioni minime dell’azienda.[^2-2]
+
 <sup>3</sup> I criteri per valutare se è a rischio la densità d’insediamento secondo il capoverso 2 lettera b sono stabiliti nell’allegato.
 
-<sup>4</sup> Per determinare le dimensioni dell’azienda, oltre ai coefficienti USM secondo l’articolo 3 dell’ordinanza del 7 dicembre 1998[^2-2] sulla terminologia agricola, si applicano anche i coefficienti USM secondo l’articolo 2*a* dell’ordinanza del 4 ottobre 1993[^2-3] sul diritto fondiario rurale.
+<sup>4</sup> Per determinare le dimensioni dell’azienda, oltre ai coefficienti USM secondo l’articolo 3 dell’ordinanza del 7 dicembre 1998[^2-3] sulla terminologia agricola, si applicano anche i coefficienti USM secondo l’articolo 2*a* dell’ordinanza del 4 ottobre 1993[^2-4] sul diritto fondiario rurale.
 
-**Art. 3**[^2-4]
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^2-2]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° dic. 2025 ([RU 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
+[^2-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^2-4]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^2-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^2-3]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
-[^2-4]: Abrogato dal n. I dell’O del del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+#### Art. 3
+
+[^3-1]
+
+[^3-1]: Abrogato dalla cifra I dell’O del del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 4
 
@@ -98,7 +104,7 @@ Per mutui a titolo di aiuto per la conduzione aziendale conformemente all’arti
 
 <sup>7</sup> L’UFAG stabilisce i contenuti e i criteri di valutazione per la gestione efficace dell’azienda.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 [^4-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 5
@@ -109,8 +115,8 @@ Per mutui a titolo di aiuto per la conduzione aziendale conformemente all’arti
 
 <sup>2</sup> In caso di persone giuridiche, società di persone, nonché di richiedenti coniugati o in unione domestica registrata, è determinante la media aritmetica della sostanza imponibile tassata delle persone fisiche partecipanti.[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 6
 
@@ -124,10 +130,10 @@ Per mutui a titolo di aiuto per la conduzione aziendale conformemente all’arti
 
 <sup>4</sup> L’ultima conversione dei debiti deve risalire ad almeno tre anni prima.[^6-4]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6353](https://fedlex.data.admin.ch/eli/oc/2009/772)).
-[^6-2]: Abrogato dal n. I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
-[^6-3]: Abrogato dal n. I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^6-4]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6353](https://fedlex.data.admin.ch/eli/oc/2009/772)).
+[^6-2]: Abrogato dalla cifra I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^6-3]: Abrogato dalla cifra I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 6a
 
@@ -137,9 +143,9 @@ Per mutui a titolo di aiuto per la conduzione aziendale conformemente all’arti
 
 <sup>2</sup> Il richiedente può mantenere gli edifici e una superficie agricola utile di 100 are al massimo, di cui al massimo 30 are di terreni coltivi a vigna o di terreni adibiti alla frutticoltura.
 
-[^6a-1]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
 [^6a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
-[^6a-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^6a-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
 
 #### Art. 7
 
@@ -159,13 +165,13 @@ L’onere è sopportabile se il richiedente è in grado di:
 
 <sup>3</sup> Per i mutui a titolo di aiuto per la conduzione aziendale i Cantoni possono fissare un importo massimo per azienda. Questo importo massimo non può essere inferiore a 200 000 franchi.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
 
 #### Art. 8
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^8-1]: Abrogato dalla cifra I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 
 #### Art. 9
 
@@ -179,8 +185,8 @@ L’onere è sopportabile se il richiedente è in grado di:
 
 <sup>4</sup> Per le domande che superano l’importo limite, il Cantone sottopone la sua decisione all’UFAG. Trasmette i dati pertinenti in formato elettronico. Notifica la decisione al richiedente dopo che l’UFAG l’ha approvata.[^9-2]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^9-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 
 #### Art. 10
 
@@ -188,12 +194,12 @@ L’onere è sopportabile se il richiedente è in grado di:
 
 <sup>1</sup> Il termine di approvazione di 30 giorni decorre dal giorno della trasmissione in formato elettronico del fascicolo completo all’UFAG.[^10-1]
 
-<sup>2</sup> L’importo limite ammonta a 500 000 franchi, compreso il saldo di precedenti crediti di investimento e mutui a titolo di aiuto per la conduzione aziendale.[^10-2]
+<sup>2</sup> L’importo limite ammonta a 500 000 franchi.[^10-2]
 
 <sup>3</sup> Se la decisone nel merito è presa dall’UFAG, esso stabilisce le condizioni e gli oneri nel singolo caso.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° dic. 2025 ([RU 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
 
 #### Art. 11
 
@@ -201,7 +207,7 @@ L’onere è sopportabile se il richiedente è in grado di:
 
 Su richiesta del Cantone, nel corso della durata del mutuo deve essere presentata la contabilità..
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 12
 
@@ -213,8 +219,8 @@ Su richiesta del Cantone, nel corso della durata del mutuo deve essere presentat
 
 <sup>3</sup> Il Cantone può computare i rimborsi annui con le prestazioni della Confederazione al mutuatario giunte a scadenza.[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^12-2]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6353](https://fedlex.data.admin.ch/eli/oc/2009/772)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^12-2]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6353](https://fedlex.data.admin.ch/eli/oc/2009/772)).
 
 #### Art. 13
 
@@ -239,8 +245,8 @@ Sono considerati in particolare motivi importanti per la revoca del mutuo:
 <sup>3</sup> Al posto di una revoca giusta il capoverso 1 lettera a o c, in caso di affitto al di fuori della famiglia o di vendita dell’azienda, il Cantone può trasferire il mutuo a titolo di aiuto per la conduzione aziendale alle stesse condizioni al successore, purché questi soddisfi le esigenze di cui all’articolo 7 capoverso 2 e offra la garanzia richiesta e purché non si tratti di un’alienazione con utile.[^13-3]
 
 [^13-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
-[^13-2]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
-[^13-3]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)). Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^13-2]: Introdotto dalla cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
+[^13-3]: Introdotto dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 14
 
@@ -254,7 +260,7 @@ Sono considerati in particolare motivi importanti per la revoca del mutuo:
 
 <sup>4</sup> Se le condizioni economiche del mutuatario sono migliorate considerevolmente, il Cantone può aumentare adeguatamente il tasso di ammortamento durante il periodo di durata del contratto o esigere il rimborso anticipato del mutuo residuo.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 15
 
@@ -264,7 +270,7 @@ Sono considerati in particolare motivi importanti per la revoca del mutuo:
 
 <sup>2</sup> L’utile equivale alla differenza tra il prezzo d’alienazione e il valore d’imputazione, dedotti compensi in natura, imposte e tasse di diritto pubblico. L’UFAG stabilisce i valori d’imputazione.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 
 #### Art. 16
 
@@ -285,9 +291,9 @@ In deroga al capoverso 3, la Confederazione, su richiesta, può anticipare la pr
 
 <sup>5</sup> Il Cantone versa la prestazione cantonale di cui al capoverso 1 nel Fondo di rotazione degli aiuti per la conduzione aziendale. In caso contrario, deve rimborsare l’anticipo e la prestazione della Confederazione entro sei anni dal pagamento dell’anticipo.[^16-3]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
-[^16-2]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
-[^16-3]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
+[^16-2]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
+[^16-3]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
 
 #### Art. 17
 
@@ -297,24 +303,26 @@ In deroga al capoverso 3, la Confederazione, su richiesta, può anticipare la pr
 
 <sup>2</sup>
 
-Esso notifica all’UFAG entro il 10 gennaio i seguenti saldi al 31 dicembre dell’esercizio contabile precedente:
+Esso notifica all’UFAG entro il 10 gennaio, tramite il sistema d’informazione di cui all’articolo 17 dell’ordinanza del 23 ottobre 2013[^17-1] sui sistemi d’informazione nel campo dell’agricoltura, i seguenti saldi al 31 dicembre dell’esercizio contabile precedente corredati dei documenti pertinenti:[^17-2]
 
 - a. il saldo totale dei fondi federali;
 - b. il saldo totale dei fondi cantonali;
 - c. gli interessi maturati dei fondi federali e cantonali;
 - d. l’utilizzo degli interessi secondo l’articolo 85 capoverso 2 LAgr;
 - e. la liquidità;
-- f. la somma degli aiuti per la conduzione aziendale concessi, tuttavia non ancora versati.[^17-1]
+- f. la somma degli aiuti per la conduzione aziendale concessi, tuttavia non ancora versati.[^17-3]
 
 <sup>3</sup>
 
 Esso notifica all’UFAG entro il 15 luglio i seguenti saldi al 30 giugno:
 
 - a. la liquidità;
-- b. la somma degli aiuti per la conduzione aziendale concessi, tuttavia non ancora versati.[^17-2]
+- b. la somma degli aiuti per la conduzione aziendale concessi, tuttavia non ancora versati.[^17-4]
 
-[^17-1]: Introdotto dal n. I dell’O del 14 nov. 2007 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)). Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
-[^17-2]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° dic. 2025 ([RU 2024 682](https://fedlex.data.admin.ch/eli/oc/2024/682)).
+[^17-3]: Introdotto dalla cifra I dell’O del 14 nov. 2007 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)). Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^17-4]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
 
 #### Art. 18
 
@@ -322,7 +330,7 @@ Esso notifica all’UFAG entro il 15 luglio i seguenti saldi al 30 giugno:
 
 Il termine di disdetta per i fondi federali da restituire è di tre mesi.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
 
 #### Art. 18a
 
@@ -332,19 +340,19 @@ Il termine di disdetta per i fondi federali da restituire è di tre mesi.
 
 <sup>2</sup> Se nell’ambito della sua alta vigilanza l’UFAG constata violazioni di prescrizioni giuridiche, mutui a titolo di aiuto per la conduzione aziendale indebitamente concessi o altri motivi di revoca, può ordinare che il Cantone gli restituisca l’importo indebitamente concesso.
 
-[^18a-1]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^18a-1]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 
 ## Sezione 2: Aiuti per la riqualificazione
 
 [^sec2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^sec2-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 
 #### Art. 19–27
 
 [^1927-1]
 
-[^1927-1]: Vedi art. 33 cpv. 3
+[^1927-1]: Vedi art. 33 cpv. 3.
 
 #### Art. 28
 
@@ -354,7 +362,7 @@ Il termine di disdetta per i fondi federali da restituire è di tre mesi.
 
 <sup>2</sup> La menzione è valida per la durata di vent’anni dalla cessazione della gestione dell’azienda. I costi sono a carico del richiedente. Una cancellazione di tale restrizione della prorietà prima della scadenza di tale termine è possibile solo con il consenso dell’UFAG.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 [^28-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
 #### Art. 29
@@ -367,14 +375,14 @@ Il termine di disdetta per i fondi federali da restituire è di tre mesi.
 
 <sup>3</sup> Chi, dopo aver ricevuto aiuti di riqualificazione e aver cessato la gestione dell’azienda, entro vent’anni dall’ultimo versamento riprende un’azienda e riceve contributi giusta l’ordinanza del 23 ottobre 2013[^29-2] concernente i pagamenti diretti all’agricoltura deve rimborsare gli aiuti di riqualificazione. Il termine per il rimborso e le spese amministrative si basano sul capoverso 1. L’importo da pagare viene dedotto dai pagamenti diretti.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 [^29-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 30
 
 [^30-1]
 
-[^30-1]: Vedi art. 33 cpv. 3
+[^30-1]: Vedi art. 33 cpv. 3.
 
 ## Sezione 3: Disposizioni finali
 
@@ -390,7 +398,7 @@ L’ordinanza del 7 dicembre 1998[^31-1] concernente gli aiuti per la conduzione
 
 [^32-1]
 
-[^32-1]: Abrogato dal n. IV 60 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^32-1]: Abrogato dalla cifra IV n. 60 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 33
 
@@ -402,8 +410,8 @@ L’ordinanza del 7 dicembre 1998[^31-1] concernente gli aiuti per la conduzione
 
 <sup>3</sup> La durata di validità della sezione 2 (art. 19–30) è prorogata sino al 31 dicembre 2019.[^33-2]
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
-[^33-2]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
+[^33-2]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
 
 Allegato[^t-1]
 
@@ -411,7 +419,7 @@ Allegato[^t-1]
 
 ## Rischio della densità d’insediamento
 
-[^t-1]: Introdotto dal n. II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^t-1]: Introdotto dalla cifra II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 La densità d’insediamento in un’area della regione di montagna e di quella collinare è a rischio, se a lungo termine non è più assicurato il mantenimento di un tessuto sociale o di una comunità paesana. La valutazione del rischio avviene secondo la matrice seguente.
 
