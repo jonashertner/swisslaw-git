@@ -4,13 +4,13 @@ number: 732.26-A1
 title: Reglement über die Gebühren für Siedlungs- und siedlungsabfallähnliche Abfälle sowie kleine Mengen von Sonderabfällen (Anhang)
 short: Gebührenreglement des Zeba
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-05-18
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-08-22
 adopted: 2000-05-11
 in_force: 2005-06-14
 url: "https://bgs.zg.ch/app/de/texts_of_law/732.26-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/2397/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2397/pdf_file"
 
 (Gebührenreglement des Zeba)
 
-Vom 11. Mai 2000 (Stand 1. Januar 2023)
+Vom 11. Mai 2000 (Stand 1. Januar 2025)
 
 Die Delegiertenversammlung des Zweckverbandes für die Bewirtschaftung der Abfälle,
 
@@ -37,8 +37,8 @@ beschliesst:
 <sup>1</sup>
 
 <table>
-<tr><th>Fraktion</th><th>Maximalgebühr in Franken pro kg oder Stück</th><th>Gebühr per 1. 1. 2023 (IGD = Industrie / Gewerbe / Dienstleister)</th></tr>
-<tr><td>Kehricht (Franken / kg); Die Sackgebühr wird aufgrund des spezifischen Gewichts des Kehrichts bestimmt.</td><td>–.80</td><td>17-l-Sack à 1.30; 35-l-Sack à 2.50; 60-l-Sack à 4.20; 110-l-Sack à 7.60; IGD: –.475 / kg in 800-l-Container und Presscontainer;–.50 / kg am Ökihof (mind. 2.–)</td></tr>
+<tr><th>Fraktion</th><th>Maximalgebühr in Franken pro kg oder Stück</th><th>Gebühr per 1. 1. 2025 (IGD = Industrie / Gewerbe / Dienstleister)</th></tr>
+<tr><td>Kehricht (Franken / kg); Die Sackgebühr wird aufgrund des spezifischen Gewichts des Kehrichts bestimmt.</td><td>–.80</td><td>17-l-Sack à 1.30; 35-l-Sack à 2.50; 60-l-Sack à 4.20; 110-l-Sack à 7.60; IGD: –.50 / kg am Ökihof (mind. 2.–) und in Gewerbe-UFC; –.25 / kg und Andockgebühr von 15.– / Leerung bei 800-l-Container, Oberflurcontainer und Presscontainer</td></tr>
 <tr><td>Sperrgut (Franken / kg)</td><td>–.80 (mind. 2.–)</td><td>–.50 / kg am Ökihof (mind. 2.–)</td></tr>
 <tr><td>Bauschutt / Keramik (Franken / kg)</td><td>–.20</td><td>–.20 / kg (ab 20 kg); IGD: –.20 / kg</td></tr>
 <tr><td>Kompostierbare Abfälle</td><td>gratis</td><td>gratis</td></tr>
