@@ -5,11 +5,12 @@ title: "Ordonnance concernant le traitement du personnel de la scolarité obliga
 short: OTSO
 language: fr
 version: 2025-01-01
+corrected: 2024-12-03
 version_adopted: 2024-11-20
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/fr/versions/3417/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3415/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -190,15 +191,13 @@ ordonne:[^ingress-1]
 
 **Traitement en cas de maternité**
 
-<sup>1</sup> En cas d’interruption de travail pour cause de maternité, le traitement est servi durant 16 semaines pour autant que les rapports de service se poursuivent pendant six mois au moins après l’accouchement.
+<sup>1</sup> En cas d’interruption de travail pour cause de maternité, le traitement est servi durant 16 semaines pour autant que l’enseignement se poursuive pendant six mois au moins, vacances comprises, après l’accouchement.
 
-<sup>1<sup>bis</sup></sup> Lors de l’hospitalisation prolongée du nouveau-né, le traitement est prolongé conformément à la durée prévue à l’article 16c alinéa 3 LAPG, pour autant que les conditions soient remplies.
+<sup>1<sup>bis</sup></sup> En cas de prolongation de l'allocation de maternité au sens de l'article 16c alinéa 3 LAPG, le salaire continue d'être versé à 100 pour cent pendant 42 jours au maximum, sur la base de l'article 6 alinéa 2 LcPers et de l'article 329f alinéa 2 CO.
 
-<sup>2</sup> En cas de cessation des rapports de service pendant la période durant laquelle un traitement en cas de maternité est versé, le droit au traitement est de huit semaines.
+<sup>2</sup> Si la reprise du travail n'intervient pas dans les six mois qui suivent l'accouchement, le droit au traitement court pendant huit semaines.
 
-<sup>3</sup> Si les rapports de service cessent entre la fin du traitement maternité et les six mois qui suivent l’accouchement, le droit au traitement est réduit prorata temporis.
-
-<sup>3<sup>bis</sup></sup> Si l’enseignante a bénéficié d’un traitement pour cause de maternité plus important que celui auquel elle a droit en vertu du présent article, elle doit restituer le surplus, les éventuelles allocations maternité lui restant acquises.
+<sup>3</sup> Si après l'accouchement le temps de travail est inférieur à six mois, le droit au traitement est réduit prorata temporis.
 
 <sup>4</sup> Si, pour des raisons médicales attestées par le médecin, l'absence doit durer plus de 16 semaines, les dispositions relatives à la maladie sont applicables dès le premier jour de l'absence.
 
@@ -207,8 +206,6 @@ ordonne:[^ingress-1]
 <sup>6</sup> Lorsque le personnel est engagé pour une durée déterminée et que l'accouchement a lieu avant la fin des rapports de service, le traitement en cas de maternité court jusqu'au dernier jour des rapports de service.
 
 <sup>7</sup> Le personnel qui bénéficie d'un droit au traitement en cas de maternité de 16 semaines peut demander une anticipation jusqu'à deux semaines au maximum du versement du traitement en cas de congé maternité.
-
-<sup>8</sup> Si le père de l'enfant ou l’épouse de la mère décède au cours des six mois qui suivent la naissance de l’enfant, la mère a droit à un congé supplémentaire équivalent au congé de l’autre parent de l’article 20 de la présente ordonnance.
 
 #### Art. 16
 
@@ -276,19 +273,11 @@ ordonne:[^ingress-1]
 
 #### Art. 20
 
-**Congé de l’autre parent**
+**Congé de parentalité**
 
-<sup>1</sup> Un congé de l’autre parent d’une durée équivalente à deux fois l’horaire hebdomadaire à plein temps - prorata temporis à son taux d’engagement - est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance de parentalité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
+<sup>1</sup> Un congé de parentalité d’une durée équivalente à deux fois l’horaire hebdomadaire à plein temps - prorata temporis à son taux d’engagement - est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance de parentalité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
 
 <sup>2</sup> Ces jours peuvent se prendre sous forme de semaines ou par jours isolés en tenant compte dans la mesure du possible de l’organisation scolaire.
-
-<sup>2<sup>bis</sup></sup> Si la mère décède dans les 14 semaines qui suivent la naissance de l’enfant, le père de l'enfant ou l’épouse de la mère a droit à un congé supplémentaire de 14 semaines, en plus du congé prévu par le présent article.
-
-<sup>2<sup>ter</sup></sup> Ce congé doit être pris à compter du jour qui suit le décès et de manière ininterrompue.
-
-<sup>2<sup>quater</sup></sup> Si l’enfant est hospitalisé dès sa naissance, l’article 15 alinéa 1bis de la présente ordonnance s’applique par analogie.
-
-<sup>2<sup>quinquies</sup></sup> Le délai-cadre de six mois prévu à l’alinéa 1 est suspendu pendant la période où le droit au congé visé aux alinéas 2bis à 2quater est exercé.
 
 <sup>3</sup> L’indemnité de la caisse de compensation appartient à l’employeur qui poursuit le versement du traitement dans sa totalité.
 
@@ -296,9 +285,9 @@ ordonne:[^ingress-1]
 
 **Congés non payés**
 
-<sup>1</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, le personnel a le droit de bénéficier d’un congé non payé (prorata temporis), après, notamment, un congé maternité, d’adoption ou de l’autre parent. Pour ces types de congé non payé, l’employeur prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (parts employé et employeur) pour la durée du congé non payé, mais au maximum pendant trois mois. Le délai de six mois prévu à l’article 15 alinéa 3 de la présente ordonnance est suspendu pendant la durée de ce congé non payé.
+<sup>1</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, le personnel a le droit de bénéficier d’un congé non payé (pro rata temporis), après, notamment, un congé maternité, d’adoption ou de parentalité. Pour ces types de congé non payé, l’employeur prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (parts employé et employeur) pour la durée du congé non payé, mais au maximum pendant trois mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les six mois suivant l’accouchement ou l’adoption.
 
-<sup>2</sup> L'application au requérant des articles 2 et suivants de la loi fixant le traitement du personnel est suspendu pendant la durée du congé non payé. Sont de même suspendues, pendant ce laps de temps, les dispositions de la loi sur la responsabilité des collectivités publiques et de leurs agents.
+<sup>2</sup> L'application au requérant des articles 2 et suivants de la loi fixant le traitement du personnel du 14 septembre 2011 est suspendu pendant la durée du congé non payé. Sont de même suspendues, pendant ce laps de temps, les dispositions de la loi sur la responsabilité des collectivités publiques et de leurs agents.
 
 <sup>3</sup> Le personnel doit entreprendre toutes les démarches nécessaires relatives aux couvertures en matière d'assurances sociales pendant son congé non payé (assurance-accident, éventuellement prévoyance professionnelle, etc.).
 
@@ -677,11 +666,11 @@ ordonne:[^ingress-1]
 
 #### Art. 42b
 
-**Allocation à l’autre parent pour les remplaçants**
+**Allocation de paternité pour les remplaçants**
 
-<sup>1</sup> L'allocation à l’autre parent prévue par le droit fédéral (art. 16i ss de la loi fédérale sur les allocations pour perte de gain) revient à l'Etat pendant que celui-ci verse le traitement.
+<sup>1</sup> L'allocation de paternité prévue par le droit fédéral (art. 16i ss de la loi fédérale sur les allocations pour perte de gain) revient à l'Etat pendant que celui-ci verse le traitement.
 
-<sup>2</sup> Lorsque le traitement n'est plus versé, le solde éventuel de l'allocation à l’autre parent est perçu directement par le remplaçant.
+<sup>2</sup> Lorsque le traitement n'est plus versé, le solde éventuel de l'allocation de paternité est perçu directement par le remplaçant.
 
 #### Art. 43
 
