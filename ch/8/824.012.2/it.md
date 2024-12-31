@@ -4,11 +4,11 @@ title: Ordinanza del DEFR del 15 novembre 2017 sul servizio civile (OSCi-DEFR)
 short: OSCi-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: it
-version: 2023-07-01
+version: 2025-01-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-745-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230701/it"
 
 (OSCi-DEFR)
 
-del 15 novembre 2017 (Stato 1° luglio 2023)
+del 15 novembre 2017 (Stato 1° gennaio 2025)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -39,7 +39,7 @@ ordina:
 
 <sup>1</sup>
 
-Per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui all’articolo 55 dell’ordinanza del 23 ottobre 2013[^1-1] sui pagamenti diretti (OPD), per i quali vengono concessi contributi, gli istituti d’impiego hanno diritto al seguente numero di giorni di servizio:
+Per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui agli articoli 55 e 71*b* dell’ordinanza del 23 ottobre 2013[^1-1] sui pagamenti diretti (OPD), per i quali vengono concessi contributi, gli istituti d’impiego hanno diritto al seguente numero di giorni di servizio:[^1-2]
 
 - a. 7 giorni di servizio per ettaro di prati sfruttati in modo estensivo;
 - b. 7 giorni di servizio per ettaro di prati sfruttati in modo poco intensivo;
@@ -47,24 +47,27 @@ Per lavori di sistemazione e manutenzione di superfici per la promozione della b
 - d. 14 giorni di servizio per ettaro di pascoli boschivi;
 - e. 14 giorni di servizio per ettaro di terreni da strame;
 - f. 42 giorni di servizio per ettaro di siepi, boschetti campestri e rivieraschi;
-- g.[^1-2] 14 giorni di servizio per ettaro di prati rivieraschi;
+- g.[^1-3] 14 giorni di servizio per ettaro di prati rivieraschi;
 - h. 7 giorni di servizio per ettaro di maggesi fioriti;
 - i. 5 giorni di servizio per ettaro di maggesi da rotazione;
 - j. 5 giorni di servizio per ettaro di fasce di colture estensive in campicoltura;
 - k. 5 giorni di servizio per ettaro di strisce su superficie coltiva;
 - l. 14 giorni di servizio per ettaro di vigneti con biodiversità naturale;
 - m. 7 giorni di servizio per ettaro di superfici per la promozione della biodiversità specifiche di una regione;
-- n. 5 giorni di servizio per ettaro di strisce fiorite per impollinatori e altri organismi utili.
+- n.[^1-4] 5 giorni di servizio per ettaro di strisce per organismi utili.
 
 <sup>2</sup>
 
-Per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui all’articolo 55 OPD, per i quali vengono concessi contributi, gli istituti d’impiego hanno diritto a 0,21 giorni di servizio per albero per:
+Per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui al capoverso 1, per i quali vengono concessi contributi, gli istituti d’impiego hanno diritto a 0,21 giorni di servizio per albero per:[^1-5]
 
 - a. alberi da frutto ad alto fusto nei campi;
 - b. alberi indigeni isolati adatti al luogo e alberi in viali alberati.
 
 [^1-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^1-2]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-5]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 #### Art. 2
 
@@ -104,18 +107,9 @@ Per lavori nell’ambito d’attività «protezione dell’ambiente e della natu
 
 #### Art. 5
 
-**Miglioramenti strutturali**
+[^5-1]
 
-### (art. 6 cpv. 1 lett. c OSCi)
-
-<sup>1</sup> Le aziende agricole che ricevono aiuti finanziari per miglioramenti strutturali nel quadro di progetti di cui all’articolo 1 capoverso 1 lettere a e b dell’ordinanza del 2 novembre 2022[^5-1] sui miglioramenti strutturali (OMSt) hanno diritto a 7 giorni di servizio ogni 20 000 franchi di costi di progetto.[^5-2]
-
-<sup>2</sup> I giorni di servizio sono assegnati una sola volta per la durata del progetto.
-
-<sup>3</sup> Se il progetto si estende su più anni civili, l’istituto d’impiego può decidere liberamente come ripartire sulla durata del progetto i giorni di servizio che gli sono stati assegnati.
-
-[^5-1]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-2]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
+[^5-1]: Abrogato dalla cifra I dell’O del DEFR del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 ### Sezione 2: Aziende con pascoli comunitari e aziende d’estivazione
 
@@ -129,18 +123,9 @@ Il numero di giorni di servizio a cui le aziende con pascoli comunitari e le azi
 
 #### Art. 7
 
-**Miglioramenti strutturali**
+[^7-1]
 
-### (art. 6 cpv. 1 lett. c e 3 OSCi)
-
-<sup>1</sup> Le aziende con pascoli comunitari e le aziende d’estivazione che ricevono aiuti finanziari per miglioramenti strutturali nel quadro di progetti di cui all’articolo 1 capoverso 1 lettere a e b OMSt[^7-1] hanno diritto a 7 giorni di servizio ogni 20 000 franchi di costi di progetto.[^7-2]
-
-<sup>2</sup> I giorni di servizio sono assegnati una sola volta per la durata del progetto.
-
-<sup>3</sup> Se il progetto si estende su più anni civili, l’istituto d’impiego può decidere liberamente come ripartire sulla durata del progetto i giorni di servizio che gli sono stati assegnati entro i periodi d’impiego ammessi secondo l’articolo 6 capoverso 3 OSCi.
-
-[^7-1]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^7-2]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
+[^7-1]: Abrogato dalla cifra I dell’O del DEFR del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 ## Capitolo 2: Prestazioni in denaro a favore delle persone che prestano servizio civile
 
@@ -154,7 +139,7 @@ Il numero di giorni di servizio a cui le aziende con pascoli comunitari e le azi
 
 Per ogni giorno di servizio computabile, l’istituto d’impiego versa alla persona che presta servizio civile un importo per le piccole spese personali corrispondente al soldo di un soldato di cui all’articolo 31 capoverso 1 dell’ordinanza del 21 febbraio 2018[^8-3] concernente l’amministrazione dell’esercito.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DEFR del 10 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 234](https://fedlex.data.admin.ch/eli/oc/2023/234)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 10 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 234](https://fedlex.data.admin.ch/eli/oc/2023/234)).
 [^8-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
 [^8-3]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
 
@@ -210,7 +195,7 @@ Se la persona che presta servizio civile deve assolutamente utilizzare il propri
 
 L’ordinanza del DEFR del 15 aprile 2004[^13-1] sulle prestazioni in denaro a favore delle persone che prestano servizio civile è abrogata.
 
-[^13-1]: [[RU 2004 2083](https://fedlex.data.admin.ch/eli/oc/2004/239), [2007 3783](https://fedlex.data.admin.ch/eli/oc/2007/491), [2009 1127](https://fedlex.data.admin.ch/eli/oc/2009/179), [2011 159](https://fedlex.data.admin.ch/eli/oc/2011/22), [2016 1941](https://fedlex.data.admin.ch/eli/oc/2016/333)]
+[^13-1]: [[RU 2004 2083](https://fedlex.data.admin.ch/eli/oc/2004/239); [2007 3783](https://fedlex.data.admin.ch/eli/oc/2007/491); [2009 1127](https://fedlex.data.admin.ch/eli/oc/2009/179); [2011 159](https://fedlex.data.admin.ch/eli/oc/2011/22); [2016 1941](https://fedlex.data.admin.ch/eli/oc/2016/333)]
 
 #### Art. 14
 

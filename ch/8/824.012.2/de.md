@@ -4,11 +4,11 @@ title: Verordnung des WBF vom 15. November 2017 über den zivilen Ersatzdienst (
 short: ZDV-WBF
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: de
-version: 2023-07-01
+version: 2025-01-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-745-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230701/de"
 
 (ZDV-WBF)
 
-vom 15. November 2017 (Stand am 1. Juli 2023)
+vom 15. November 2017 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -39,7 +39,7 @@ verordnet:
 
 <sup>1</sup>
 
-Zur Anlage und Pflege von Biodiversitätsförderflächen nach Artikel 55 der Direktzahlungsverordnung vom 23. Oktober 2013[^1-1] (DZV), für die Beiträge gewährt werden, steht den Einsatzbetrieben folgende Anzahl Diensttage zu:
+Zur Anlage und Pflege von Biodiversitätsförderflächen nach den Artikeln 55 und 71*b* der Direktzahlungsverordnung vom 23. Oktober 2013[^1-1] (DZV), für die Beiträge gewährt werden, steht den Einsatzbetrieben folgende Anzahl Diensttage zu:[^1-2]
 
 - a. 7 Diensttage pro Hektare extensiv genutzte Wiesen;
 - b. 7 Diensttage pro Hektare wenig intensiv genutzte Wiesen;
@@ -47,24 +47,27 @@ Zur Anlage und Pflege von Biodiversitätsförderflächen nach Artikel 55 der Dir
 - d. 14 Diensttage pro Hektare Waldweiden;
 - e. 14 Diensttage pro Hektare Streueflächen;
 - f. 42 Diensttage pro Hektare Hecken, Feld- und Ufergehölze;
-- g.[^1-2] 14 Diensttage pro Hektare Uferwiesen;
+- g.[^1-3] 14 Diensttage pro Hektare Uferwiesen;
 - h. 7 Diensttage pro Hektare Buntbrachen;
 - i. 5 Diensttage pro Hektare Rotationsbrachen;
 - j. 5 Diensttage pro Hektare Ackerschonstreifen;
 - k. 5 Diensttage pro Hektare Saum auf Ackerfläche;
 - l. 14 Dienstage pro Hektare Rebflächen mit natürlicher Artenvielfalt;
 - m. 7 Diensttage pro Hektare regionsspezifische Biodiversitätsförderflächen;
-- n. 5 Diensttage pro Hektare Blühstreifen für Bestäuber und andere Nützlinge.
+- n.[^1-4] 5 Diensttage pro Hektare Nützlingsstreifen.
 
 <sup>2</sup>
 
-Zur Anlage und zur Pflege von Biodiversitätsförderflächen nach Artikel 55 DZV, für die Beiträge gewährt werden, stehen den Einsatzbetrieben 0,21 Diensttage zu pro Baum für:
+Zur Anlage und zur Pflege von Biodiversitätsförderflächen nach Absatz 1, für die Beiträge gewährt werden, stehen den Einsatzbetrieben 0,21 Diensttage zu pro Baum für:[^1-5]
 
 - a. Hochstamm-Feldobstbäume;
 - b. einheimische standortgerechte Einzelbäume und Bäume in Alleen.
 
 [^1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^1-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
+[^1-2]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-3]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
+[^1-4]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-5]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 #### Art. 2
 
@@ -104,18 +107,9 @@ Landwirtschaftlichen Betrieben, die Projekte oder Programme nach Artikel 6 Absat
 
 #### Art. 5
 
-**Strukturverbesserung**
+[^5-1]
 
-### (Art. 6 Abs. 1 Bst. c ZDV)
-
-<sup>1</sup> Landwirtschaftlichen Betrieben, die Finanzhilfen zur Strukturverbesserung im Rahmen von Projekten nach Artikel 1 Absatz 1 Buchstaben a und b der Strukturverbesserungsverordnung vom 2. November 2022[^5-1] (SVV) erhalten, stehen pro 20 000 Franken Projektkosten 7 Diensttage zu.[^5-2]
-
-<sup>2</sup> Die Diensttage werden einmalig für die Dauer des jeweiligen Projekts gesprochen.
-
-<sup>3</sup> Verteilt sich die Projektdauer über mehrere Kalenderjahre, so kann der Einsatzbetrieb frei wählen, wie er die erhaltenen Diensttage innerhalb der Projektdauer einsetzen will.
-
-[^5-1]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
+[^5-1]: Aufgehoben durch Ziff. I der V des WBF vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 ### 2. Abschnitt: Gemeinschaftsweide- und Sömmerungsbetriebe
 
@@ -129,18 +123,9 @@ Die den Gemeinschaftsweide- und Sömmerungsbetrieben zustehende Anzahl Diensttag
 
 #### Art. 7
 
-**Strukturverbesserung**
+[^7-1]
 
-### (Art. 6 Abs. 1 Bst. c und 3 ZDV)
-
-<sup>1</sup> Gemeinschaftsweide- und Sömmerungsbetrieben, die Finanzhilfen zur Strukturverbesserung im Rahmen von Projekten nach dem Artikel 1 Absatz 1 Buchstaben a und b SVV[^7-1] erhalten, stehen pro 20 000 Franken Projektkosten 7 Diensttage zu.[^7-2]
-
-<sup>2</sup> Die Diensttage werden einmalig für die Dauer des jeweiligen Projekts gesprochen.
-
-<sup>3</sup> Verteilt sich die Projektdauer über mehrere Kalenderjahre, so kann der Einsatzbetrieb frei wählen, wie er die erhaltenen Diensttage innerhalb der Projektdauer in den nach Artikel 6 Absatz 3 ZDV zulässigen Einsatzzeiträumen einsetzen will.
-
-[^7-1]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^7-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
+[^7-1]: Aufgehoben durch Ziff. I der V des WBF vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 ## 2. Kapitel: Geldleistungen zugunsten zivildienstleistender Personen
 
@@ -154,7 +139,7 @@ Die den Gemeinschaftsweide- und Sömmerungsbetrieben zustehende Anzahl Diensttag
 
 Der Einsatzbetrieb bezahlt der zivildienstleistenden Person pro anrechenbaren Tag ein Taschengeld in Höhe des Soldes eines Soldaten nach Artikel 31 Absatz 1 der Verordnung vom 21. Februar 2018[^8-3] über die Verwaltung der Armee.
 
-[^8-1]: Fassung gemäss Ziff. I der V des WBF vom 10. Mai 2023, in Kraft seit 1. Juli 2023 (AS **202****3** 234).
+[^8-1]: Fassung gemäss Ziff. I der V des WBF vom 10. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 234](https://fedlex.data.admin.ch/eli/oc/2023/234)).
 [^8-2]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
 [^8-3]: [SR 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
 
