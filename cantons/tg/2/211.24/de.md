@@ -4,13 +4,13 @@ number: "211.24"
 title: Kindes- und Erwachsenenschutzverordnung
 short: KESV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2024-07-11
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-01-20
 adopted: 2012-10-22
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.24"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2823/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2880/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ KESV
 
 (KESV)
 
-vom 22.10.2012 (Stand 01.01.2024)
+vom 22.10.2012 (Stand 01.01.2025)
 
 Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a Abs. 2, § 16d Abs. 2, § 51 und § 83 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB)[^ingress-1].
 
@@ -508,7 +508,7 @@ Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a
 
 <sup>1</sup> Die Verfahrensleitung der Kindes- und Erwachsenenschutzbehörde prüft von Amtes wegen, ob die betroffene Person oder das betroffene Kind im Verfahren vor der Behörde eine Vertreterin oder einen Vertreter benötigt.
 
-<sup>2</sup> Wird von Amtes wegen eine Vertretung eingesetzt, richtet sich deren Entschädigung bei Anwältinnen oder Anwälten nach § 13 Abs. 2 der Verordnung über den Anwaltstarif in Zivil- und Strafsachen[^40-1], bei anderen Personen nach dem Stundenansatz für Beiständinnen und Beistände. Die vorgesehene Entschädigung ist im Ernennungsentscheid zu regeln.
+<sup>2</sup> Wird von Amtes wegen eine Vertretung eingesetzt, richtet sich deren Entschädigung bei Anwältinnen oder Anwälten nach § 3 Abs. 1 Ziff. 2, Ziff. 5 und Ziff. 6 des Anwaltstarifs in Zivil- und Strafsachen (AnwT)[^40-1], bei anderen Personen nach dem Stundenansatz für Beiständinnen und Beistände. Die vorgesehene Entschädigung ist im Ernennungsentscheid zu regeln.
 
 [^40-1]: RB [176.31](https://www.rechtsbuch.tg.ch/data/176.31/de)
 
