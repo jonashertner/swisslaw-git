@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2024)
+du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -456,7 +456,7 @@ Les détenteurs d’installations d’élimination des déchets doivent:
 
 <sup>2</sup> Si l’autorité constate des défauts, elle ordonne au détenteur de l’installation d’y remédier dans le délai raisonnable imparti.
 
-### Section 2 Dépôts provisoires
+### Section 2 Dépôts procisoires
 
 #### Art. 29
 
@@ -474,12 +474,13 @@ Les détenteurs d’installations d’élimination des déchets doivent:
 
 **Exploitation et garantie financière[^30-1]**
 
-- [tab] <sup>1</sup> Les déchets peuvent être stockés provisoirement pendant une durée maximale de cinq ans. À l’expiration du délai, l’autorité peut prolonger une fois cette durée de cinq ans au plus, si une élimination judicieuse est prouvée avoir été impossible pendant la durée d’entreposage.
+<sup>1</sup> Les déchets peuvent être stockés provisoirement pendant une durée maximale de cinq ans. À l’expiration du délai, l’autorité peut prolonger une fois cette durée de cinq ans au plus, si une élimination judicieuse est prouvée avoir été impossible pendant la durée d’entreposage.
 
 <sup>2</sup> Dans les décharges des types C à E et les installations de traitement thermique, il est permis de stocker provisoirement des déchets fermentescibles ou putrescibles pressés en balles.[^30-2]
 
-- [tab] <sup>3</sup> L’autorité cantonale peut exiger des détenteurs d’un dépôt provisoire une garantie financière, sous forme d’une garantie bancaire ou d’une assurance, afin de couvrir les coûts en cas de dommage.[^30-3]
-- [tab] <sup>4</sup> …[^30-4]
+<sup>3</sup> L’autorité cantonale peut exiger des détenteurs d’un dépôt provisoire une garantie financière, sous forme d’une garantie bancaire ou d’une assurance, afin de couvrir les coûts en cas de dommage.[^30-3]
+
+<sup>4</sup> …[^30-4]
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^30-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
@@ -974,11 +975,13 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-2]: Matériaux d’excavation et de percement qui satisfont aux exigences de l’annexe 3, ch. 1
 [^annex1-lvlu1-3]: Matériaux d’excavation et de percement qui satisfont aux exigences de l’annexe 3, ch. 2
 
-Annexe 2
+Annexe 2[^t-2]
 
 (art. 6, al. 3, 36, al. 1, 42, al. 2, et 43, al. 2)
 
 ## Exigences relatives aux sites et aux ouvrages des décharges
+
+[^t-2]: Mise à jour par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 744](https://fedlex.data.admin.ch/eli/oc/2024/744)).
 
 ### 1 Sites
 
@@ -986,8 +989,20 @@ Annexe 2
 
 - 1\.1.1 Il est interdit d’aménager une décharge dans une zone ou un périmètre de protection des eaux souterraines.
 - 1\.1.2 Il est interdit d’aménager une décharge dans une zone exposée à des risques d’inondation, de chutes de pierres, de glissements de terrain ou à des risques d’érosion particulièrement importants.
-- 1\.1.3 Il est interdit d’aménager des décharges et des compartiments des types B, C, D et E au-dessus d’eaux souterraines exploitables et dans les zones attenantes nécessaires à leur protection. Est réservée la possibilité d’aménager une décharge ou un compartiment du type B dans la zone attenante des eaux souterraines exploitables.
-- 1\.1.4 Les décharges et les compartiments des types A et B qui se situent au-dessus d’eaux souterraines exploitables ou dans les zones attenantes nécessaires à leur protection doivent se trouver au moins 2 m au-dessus du niveau naturel maximal décennal de la nappe souterraine. Dans le cas d’une installation d’alimentation artificielle, le niveau effectif de la nappe est déterminant s’il est situé plus haut que le niveau maximal décennal.
+- 1\.1.3
+
+  Il est interdit d’aménager des décharges et des compartiments des types B, C, D et E au-dessus d’eaux souterraines exploitables et dans les zones attenantes nécessaires à leur protection. Est réservée la possibilité d’aménager une décharge ou un compartiment du type B dans la zone attenante des eaux souterraines exploitables. L’autorité peut, pour l’agrandissement vertical ou horizontal de décharges des types C, D et E en service et aménagées avant le 1<sup>er</sup> juillet 2007, accorder des dérogations au sens de l’annexe 4, ch. 211, al. 1, de l’ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)[^annex2-lvlu1-lvl1-lvl11-1] s’il est prouvé que:
+
+  - a. malgré une évaluation exhaustive des sites dans la région de planification supracantonale (art. 4, al. 2, OLED), aucun volume supplémentaire de stockage définitif ne peut être créé dans un délai raisonnable en dehors du secteur d’eaux souterraines exploitables et des zones attenantes nécessaires à leur protection;
+  - b. le site ne se trouve pas dans le bassin d’alimentation d’un captage ou d’une installation d’alimentation artificielle des eaux souterraines d’intérêt public visés à l’art. 20 de la loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)[^annex2-lvlu1-lvl1-lvl11-2] ou dans le périmètre de protection des eaux souterraines au sens de l’art. 21 LEaux, et
+  - c. les exigences de protection des eaux sont respectées, documents nécessaires à l’appui (art. 32, al. 3, OEaux).
+
+- 1\.1.4 Les décharges et les compartiments des types A et B ainsi que les agrandissements de décharges des types C, D et E au sens de la dérogation visée au ch. 1.1.3 qui se situent au-dessus d’eaux souterraines exploitables ou dans les zones attenantes nécessaires à leur protection doivent se trouver au moins 2 m au-dessus du niveau naturel maximal décennal de la nappe souterraine. Dans le cas d’une installation d’alimentation artificielle, le niveau effectif de la nappe est déterminant s’il est situé plus haut que le niveau maximal décennal.
+- 1\.1.5 Si une dérogation a été accordée en vertu du ch. 1.1.3, le volume supplémentaire de stockage définitif doit être créé dans un premier temps par un agrandissement vertical du corps de décharge existant. Dans un deuxième temps, l’autorité peut autoriser un agrandissement horizontal s’il est prouvé qu’un agrandissement vertical ne suffit pas à combler le besoin en volume supplémentaire.
+- 1\.1.6 L’autorité cantonale communique à l’OFEV les dérogations accordées en vertu du ch. 1.1.3.
+
+[^annex2-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex2-lvlu1-lvl1-lvl11-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 ### 1.2 Sous-sol
 
@@ -1084,13 +1099,13 @@ Annexe 2
 - 2\.5.2 Seuls des matériaux satisfaisant aux exigences de l’annexe 3, ch. 1, sont autorisés dans le tiers supérieur des mesures d’étanchéification et dans le tapis de drainage. Dans les parties inférieures des mesures d’étanchéification, il est possible d’utiliser des matériaux qui satisfont aux exigences pour le stockage dans le type de décharge concerné et qui sont appropriés sur le plan de la construction.
 - 2\.5.3 Si des mesures sont prises pour empêcher les éventuelles atteintes nuisibles ou incommodantes de la décharge à l’environnement, la fermeture définitive en surface ne doit être autorisée qu’après la mise en œuvre de ces mesures, si cela est nécessaire pour garantir sa stabilité. Jusque-là l’érosion doit être empêchée par des mesures appropriées.
 
-Annexe 3[^t-2]
+Annexe 3[^t-3]
 
 (art. 17, al. 1, et 19)
 
 ## Exigences relatives aux matériaux d’excavation et de percement
 
-[^t-2]: Mise à jour par le ch. II de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-3]: Mise à jour par le ch. II de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 - 1
 
@@ -1162,13 +1177,13 @@ Annexe 3[^t-2]
 
 - 3 Si les matériaux d’excavation et de percement contiennent des substances pour lesquelles aucune valeur limite n’a été fixée, l’autorité évalue les déchets au cas par cas avec l’accord de l’OFEV, selon les dispositions de la législation sur la protection de l’environnement et sur la protection des eaux.
 
-Annexe 4[^t-3]
+Annexe 4[^t-4]
 
 (art. 19, al. 3, et 24)
 
 ## Exigences relatives aux déchets utilisés pour la fabrication de ciment et de béton
 
-[^t-3]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) et le ch. III de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) et le ch. III de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Utilisation de déchets comme matières premières ou agents de correction du cru
 
@@ -1335,13 +1350,13 @@ Annexe 4[^t-3]
 - 4\.1 Les détenteurs d’installations de fabrication de clinker, de ciment ou de béton doivent apporter la preuve que les exigences arrêtées aux ch. 1 à 3 sont respectées. Ils peuvent, avec l’accord de l’autorité, limiter l’analyse chimique aux substances susceptibles d’être présentes dans le produit au vu du type et de l’origine des déchets utilisés.
 - 4\.2 Si des déchets contiennent des substances dangereuses pour l’environnement pour lesquelles les ch. 1 à 3 ne prévoient aucune valeur limite, l’autorité fixe, avec l’accord de l’OFEV, des valeurs au cas par cas, selon les dispositions de la législation sur la protection de l’environnement et sur la protection des eaux.
 
-Annexe 5[^t-4]
+Annexe 5[^t-5]
 
 (art. 19, al. 3, 25, al. 1, 35, al. 1, 39, al. 2 et 40, al. 3)
 
 ## Exigences relatives aux déchets mis en décharge
 
-[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) et l’erratum du 26 sept. 2023 ([RO 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
+[^t-5]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) et l’erratum du 26 sept. 2023 ([RO 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
 
 ### 1 Déchets admis dans les décharges de type A
 
@@ -1639,13 +1654,13 @@ Les actes mentionnés ci-après sont modifiés comme suit.
 
 [^annex6-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891).
 
-Annexe 7[^t-5]
+Annexe 7[^t-6]
 
 (art. 14*a*)
 
 ## Exigences relatives aux déchets de bois destinés à une valorisation matière ou thermique
 
-[^t-5]: Introduite par le ch. II de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^t-6]: Introduite par le ch. II de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
 
 ### 1 Valorisation matière des déchets de bois
 
@@ -1671,7 +1686,7 @@ Les déchets de bois peuvent faire l’objet d’une valorisation matière sous 
 
 ### 2 Valorisation thermique des déchets de bois
 
-- [tab] Les déchets de bois peuvent faire l’objet d’une valorisation thermique dans des installations de combustion alimentées avec du bois usagé s’ils ne dépassent pas les valeurs limites suivantes (teneurs totales):
+Les déchets de bois peuvent faire l’objet d’une valorisation thermique dans des installations de combustion alimentées avec du bois usagé s’ils ne dépassent pas les valeurs limites suivantes (teneurs totales):
 
 <table>
 <tr><th>Substance</th><th>Valeur limite en mg/kg de matière sèche</th></tr>

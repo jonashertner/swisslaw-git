@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20240101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Status as of 1 January 2024)
+of 4 December 2015 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -562,7 +562,7 @@ Packaged biogenic waste may only be allowed to decompose or ferment in compostin
 
 <sup>3</sup> The regulations in the FertO and the ORRChem[^34-2] relating to compost and digestates also apply.
 
-[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)annex No 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annex No 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annex No 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annex 8 No II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annex 6 No 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annex No 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)annex 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)annex No 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)annex 5 No I]. See the O of 1 Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
+[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Annex No 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex No 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Annex No 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Annex 8 No II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Annex 6 No 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Annex 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Annex No 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)Annex 5 No I]. See the O of 1 Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^34-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ### Section 5 Landfills
@@ -979,11 +979,13 @@ Annex 1[^t-1]
 [^annex1-lvlu1-2]: Excavation material that meets the requirements of Annex 3 number 1.
 [^annex1-lvlu1-3]: Excavation material that meets the requirements of Annex 3 number 2.
 
-Annex 2
+Annex 2[^t-2]
 
 (Art. 6 para. 3, 36 para. 1, 42 para. 2 and 43 para. 2)
 
 ## Requirements for location and construction of landfills
+
+[^t-2]: Revised by No I of the O of 27 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 744](https://fedlex.data.admin.ch/eli/oc/2024/744)).
 
 ### 1 Landfill location
 
@@ -991,8 +993,20 @@ Annex 2
 
 - 1\.1.1 Landfills may not be constructed in groundwater protection zones and groundwater protection areas.
 - 1\.1.2 Landfills may not be located in an area at high risk of flooding, rockfalls, landslides or erosion.
-- 1\.1.3. Landfills and compartments of Types B, C, D and E may not be located above exploitable underground waters or in adjoining zones required for the protection of such waters. The foregoing does not apply to the construction of a Type B landfill or compartment in the zone adjoining exploitable underground waters.
-- 1\.1.4 Landfills and compartments of Types A and B that are located above exploitable underground waters or in adjoining zones required for the protection of such waters must lie at least 2 m above the highest maximum natural ten-year groundwater level. In the case of a recharge installation, the actual level of the water table applies if it is higher than the maximum ten-year high.
+- 1\.1.3
+
+  Landfills and compartments of Types B, C, D and E may not be located above exploitable underground waters or in adjoining zones required for the protection of such waters. The foregoing does not apply to the construction of a Type B landfill or compartment in the zone adjoining exploitable underground waters. The authority may grant exemptions in accordance with Annex 4 Number 211 paragraph 1 of the Waters Protection Ordinance of 28 October 1998[^annex2-lvlu1-lvl1-lvl11-1] (WPO) for the vertical or horizontal expansion of existing landfills of Types C, D and E that were constructed before 1 July 2007 if proof is provided that:
+
+  - a. despite a comprehensive site evaluation in the intercantonal planning region (Art. 4 para. 2 ADWO), no additional landfill volume can be created outside the exploitable underground waters zone or in adjoining zones required for the protection of such waters within a reasonable period of time;
+  - b. the site is not located within the catchment area of a groundwater well or recharge installation serving the public interest in accordance with Article 20 of the Waters Protection Act of 24 January 1991[^annex2-lvlu1-lvl1-lvl11-2] (WPA) or a groundwater protection area in accordance with Article 21 WPA; and
+  - c. the requirements for the protection of waters have been met and can be confirmed by providing the necessary documentation (Art. 32 para. 3 WPO).
+
+- 1\.1.4 Landfills and compartments of Types A and B and an expansion of existing landfills of Types C, D and E in accordance with the exemption described in Number 1.1.3 that are located above exploitable underground waters or in adjoining zones required for the protection of such waters must lie at least 2 m above the highest maximum natural ten-year groundwater level. In the case of a recharge installation, the actual level of the water table applies if it is higher than the maximum ten-year high.
+- 1\.1.5 In the case of exemptions under Number 1.1.3, the additional landfill volume must in the first instance be created by the vertical expansion of the existing landfill body. In the second instance, the authority may approve a horizontal expansion if proof is provided that the additional need for landfill volume cannot be met by vertical enlargement.
+- 1\.1.6 The cantonal authority shall inform the FOEN of any exemption permits granted in accordance with Number 1.1.3.
+
+[^annex2-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex2-lvlu1-lvl1-lvl11-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 ### 1.2 Subsoil
 
@@ -1089,13 +1103,13 @@ Annex 2
 - 2\.5.2 Only materials that satisfy the requirements of Annex 3 number 1 may be used for the uppermost thirds of the seal and the drainage layer. The lower layers of the seal may use materials that satisfy the requirements for deposit in the corresponding type of landfill and which are suitable for use in construction terms.
 - 2\.5.3 If measures are taken to prevent the landfill from causing harm or nuisance to the environment, implementation of the measures must be delayed until after the final closure of the surface if this is necessary to ensure the stability of the closed surface. Until then, appropriate measures must be taken to prevent erosion.
 
-Annex 3[^t-2]
+Annex 3[^t-3]
 
 (Art. 17 para. 1 and 19)
 
 ## Requirements applicable to excavated material
 
-[^t-2]: Revised by No II of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-3]: Revised by No II of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 - 1
 
@@ -1167,13 +1181,13 @@ Annex 3[^t-2]
 
 - 3 If no limit values have been set for substances detected in the excavated material, the authority shall assess the waste with the FOEN’s consent in the specific case in accordance with the regulations on environmental and waters protection legislation.
 
-Annex 4[^t-3]
+Annex 4[^t-4]
 
 (Art. 19 para. 3 and 24)
 
 ## Requirements applicable to waste from the production of cement and concrete
 
-[^t-3]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) and No III of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-4]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) and No III of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Using waste as a raw material and as a corrective substance to raw meal
 
@@ -1340,13 +1354,13 @@ Annex 4[^t-3]
 - 4\.1 Proprietors of facilities producing clinker, cement or concrete must provide proof that the requirements of numbers 1–3 are being met. In doing so, they may with the consent of the authority limit chemical analyses to those substances in the case of which a contamination of waste is likely in view of the type and origin of the waste.
 - 4\.2 If waste contains substances hazardous to the environment for which there are no limit values in numbers 1–3, the authority shall specify a limit value in each individual case with the FOEN’s consent in accordance with the regulations in the environmental and waters protection legislation.
 
-Annex 5[^t-4]
+Annex 5[^t-5]
 
 (Art. 19 para. 3, 25 para. 1, 39 para. 2 and 40 para. 3)
 
 ## Requirements for landfill waste
 
-[^t-4]: Revised by No II of the O of 21 Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) and of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). The correction of 26 Sept. 2023 relates to the Italian text only ([AS 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
+[^t-5]: Revised by No II of the O of 21 Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) and of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). The correction of 26 Sept. 2023 relates to the Italian text only ([AS 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
 
 ### 1 Type A acceptable waste
 
@@ -1645,13 +1659,13 @@ The following enactments are amended as follows:
 
 [^annex6-lvlu1-1]: The amendments may be consulted under [AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891).
 
-Annex 7[^t-5]
+Annex 7[^t-6]
 
 (Art. 14*a*)
 
 ## Requirements for the recycling and thermal recycling of wood waste
 
-[^t-5]: Inserted by No II of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^t-6]: Inserted by No II of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
 
 ### 1 Recycling of wood waste
 

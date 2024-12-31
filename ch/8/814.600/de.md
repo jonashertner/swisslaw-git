@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. Januar 2024)
+vom 4. Dezember 2015 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -480,8 +480,9 @@ Inhaberinnen und Inhaber von Abfallanlagen müssen:
 
 <sup>2</sup> Auf Deponien der Typen C-E und bei Anlagen zur thermischen Behandlung dürfen zu Ballen gepresste gär- und fäulnisfähige Abfälle zwischengelagert werden.[^30-2]
 
-- [tab] <sup>3</sup> Die kantonale Behörde kann von den Inhaberinnen und Inhabern eines Zwischenlagers zum Zweck der Sicherstellung der Kosten im Schadensfall eine Sicherheitsleistung in Form einer Bankgarantie oder einer Versicherung einfordern.[^30-3]
-- [tab] <sup>4</sup> …[^30-4]
+<sup>3</sup> Die kantonale Behörde kann von den Inhaberinnen und Inhabern eines Zwischenlagers zum Zweck der Sicherstellung der Kosten im Schadensfall eine Sicherheitsleistung in Form einer Bankgarantie oder einer Versicherung einfordern.[^30-3]
+
+<sup>4</sup> …[^30-4]
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^30-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
@@ -502,7 +503,7 @@ Anlagen zur thermischen Behandlung von Abfällen dürfen errichtet oder in ihrer
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^31-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^31-3]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^31-3]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 32
 
@@ -559,7 +560,7 @@ Verpackte biogene Abfälle dürfen in Kompostierungs- und Vergärungsanlagen nac
 
 <sup>3</sup> Im Übrigen gelten die Vorschriften der DüV und der ChemRRV[^34-2] betreffend Kompost und Gärgut.
 
-[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. As **2023** 711 Anhang 5 Ziff. I]. siehe V vom 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
+[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)Anhang 5 Ziff. I]. siehe V vom 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^34-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ### 5. Abschnitt: Deponien
@@ -976,11 +977,13 @@ Anhang 1[^t-1]
 [^annex1-lvlu1-2]: Aushub- und Ausbruchmaterial, das die Anforderungen nach Anhang 3 Ziffer 1 einhält.
 [^annex1-lvlu1-3]: Aushub- und Ausbruchmaterial, das die Anforderungen nach Anhang 3 Ziffer 2 einhält.
 
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 6 Abs. 3, 36 Abs. 1, 42 Abs. 2 und 43 Abs. 2)
 
 ## Anforderungen an Standort und Bauwerk von Deponien
+
+[^t-2]: Bereinigt gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 744](https://fedlex.data.admin.ch/eli/oc/2024/744)).
 
 ### 1 Deponiestandort
 
@@ -988,8 +991,20 @@ Anhang 2
 
 - 1\.1.1 Deponien dürfen nicht in Grundwasserschutzzonen und Grundwasserschutzarealen errichtet werden.
 - 1\.1.2 Der Deponiestandort darf nicht in einem überschwemmungs-, steinschlag-, rutschungs- oder besonders erosionsgefährdeten Gebiet liegen.
-- 1\.1.3. Deponien und Kompartimente der Typen B, C, D und E dürfen nicht über nutzbaren unterirdischen Gewässern und in den zu ihrem Schutz notwendigen Randgebieten liegen. Vorbehalten bleibt die Errichtung einer Deponie oder eines Kompartiments des Typs B im Randgebiet von nutzbaren unterirdischen Gewässern.
-- 1\.1.4 Deponien und Kompartimente der Typen A und B, die über nutzbaren unterirdischen Gewässern oder in den zu ihrem Schutz notwendigen Randgebieten liegen, müssen mindestens 2 m über dem natürlichen, zehnjährigen Grundwasserhöchstspiegel liegen. Liegt bei einer Grundwasseranreicherung der Grundwasserspiegel höher, so ist dieser massgebend.
+- 1\.1.3
+
+  Deponien und Kompartimente der Typen B, C, D und E dürfen nicht über nutzbaren unterirdischen Gewässern und in den zu ihrem Schutz notwendigen Randgebieten liegen. Vorbehalten bleibt die Errichtung einer Deponie oder eines Kompartiments des Typs B im Randgebiet von nutzbaren unterirdischen Gewässern. Die Behörde kann für die vertikale oder horizontale Erweiterung in Betrieb stehender Deponien der Typen C, D und E, die vor dem 1. Juli 2007 errichtet worden sind, Ausnahmen nach Anhang 4 Ziffer 211 Absatz 1 der Gewässerschutzverordnung vom 28. Oktober 1998[^annex2-lvlu1-lvl1-lvl11-1] (GSchV) gewähren, wenn der Nachweis erbracht wird, dass:
+
+  - a. trotz umfassender Standortevaluation in der kantonsübergreifenden Planungsregion (Art. 4 Abs. 2 VVEA) kein zusätzliches Deponievolumen ausserhalb des Bereichs von nutzbaren unterirdischen Gewässern sowie der zu ihrem Schutz notwendigen Randgebiete innerhalb angemessener Frist realisiert werden kann;
+  - b. der Standort nicht im Einzugsgebiet einer im öffentlichen Interesse liegenden Grundwasserfassung oder -anreicherungsanlage nach Artikel 20 des Gewässerschutzgesetzes vom 24. Januar 1991[^annex2-lvlu1-lvl1-lvl11-2] (GSchG) oder eines Grundwasserschutzareals nach Artikel 21 GSchG liegt; und
+  - c. die Anforderungen zum Schutze der Gewässer erfüllt sind und mit den dafür notwendigen Unterlagen bestätigt werden können (Art. 32 Abs. 3 GSchV).
+
+- 1\.1.4 Deponien und Kompartimente der Typen A und B sowie eine Erweiterung bestehender Deponien der Typen C, D und E gemäss der Ausnahme nach Ziffer 1.1.3, die über nutzbaren unterirdischen Gewässern oder in den zu ihrem Schutz notwendigen Randgebieten liegen, müssen mindestens 2 m über dem natürlichen, zehnjährigen Grundwasserhöchstspiegel liegen. Liegt bei einer Grundwasseranreicherung der Grundwasserspiegel höher, so ist dieser massgebend.
+- 1\.1.5 Bei Ausnahmen nach Ziffer 1.1.3 ist das zusätzliche Deponievolumen in erster Linie mit einer vertikalen Erweiterung des bestehenden Deponiekörpers zu realisieren. Die Behörde kann in zweiter Linie eine horizontale Erweiterung genehmigen, wenn der Nachweis erbracht wird, dass der zusätzliche Bedarf an Deponievolumen nicht mit einer Erhöhung gedeckt werden kann.
+- 1\.1.6 Die kantonale Behörde teilt dem BAFU die gewährten Ausnahmebewilligungen gemäss Ziffer 1.1.3 mit.
+
+[^annex2-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex2-lvlu1-lvl1-lvl11-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 ### 1.2 Untergrund
 
@@ -1086,13 +1101,13 @@ Anhang 2
 - 2\.5.2 Für das oberste Drittel der abdichtenden Massnahmen und die Entwässerungsschicht darf nur Material verwendet werden, das die Anforderungen nach Anhang 3 Ziffer 1 einhält. Für darunterliegende Schichten von abdichtenden Massnahmen darf Material verwendet werden, das die Anforderungen zur Ablagerung auf dem entsprechenden Deponietyp erfüllt und sich für die Massnahme bautechnisch eignet.
 - 2\.5.3 Werden Massnahmen zur Verhinderung möglicher schädlicher oder lästiger Einwirkungen von Deponien auf die Umwelt getroffen, so muss für den endgültigen Oberflächenabschluss die Umsetzung der Massnahmen abgewartet werden, soweit dies für die Sicherstellung der Stabilität des Oberflächenabschlusses notwendig ist. Bis dahin muss Erosion mit geeigneten Massnahmen verhindert werden.
 
-Anhang 3[^t-2]
+Anhang 3[^t-3]
 
 (Art. 17 Abs. 1 und 19)
 
 ## Anforderungen an Aushub- und Ausbruchmaterial
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 - 1
 
@@ -1164,13 +1179,13 @@ Anhang 3[^t-2]
 
 - 3 Sind für Stoffe, die im Aushub- und Ausbruchmaterial festgestellt werden, keine Grenzwerte festgelegt, so beurteilt die Behörde die Abfälle mit Zustimmung des BAFU im Einzelfall nach den Vorschriften der Umwelt- und Gewässerschutzgesetzgebung.
 
-Anhang 4[^t-3]
+Anhang 4[^t-4]
 
 (Art. 19 Abs. 3 und 24)
 
 ## Anforderungen an Abfälle für die Herstellung von Zement und Beton
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) und Ziff. III der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) und Ziff. III der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Verwendung von Abfällen als Rohmaterial und Rohmehlkorrekturstoffe
 
@@ -1337,13 +1352,13 @@ Anhang 4[^t-3]
 - 4\.1 Inhaberinnen und Inhaber von Anlagen zur Herstellung von Klinker, Zement oder Beton müssen nachweisen, dass die Anforderungen nach den Ziffern 1–3 eingehalten werden. Dabei können sie mit Zustimmung der Behörde die chemischen Analysen auf diejenigen Stoffe beschränken, bei denen aufgrund der Art und Herkunft der Abfälle mit einer Belastung zu rechnen ist.
 - 4\.2 Enthalten Abfälle umweltgefährdende Stoffe, für welche die Ziffern 1–3 keine Grenzwerte enthalten, legt die Behörde solche mit Zustimmung des BAFU im Einzelfall nach den Vorschriften der Umwelt- und Gewässerschutzgesetzgebung fest.
 
-Anhang 5[^t-4]
+Anhang 5[^t-5]
 
 (Art. 19 Abs. 3, 25 Abs. 1, 39 Abs. 2 und 40 Abs. 3)
 
 ## Anforderungen an Abfälle zur Ablagerung
 
-[^t-4]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Die Berichtigung vom 26. Sept. 2023 betrifft nur den italienischen Text ([AS 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
+[^t-5]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Die Berichtigung vom 26. Sept. 2023 betrifft nur den italienischen Text ([AS 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
 
 ### 1 Auf Typ A zugelassene Abfälle
 
@@ -1641,13 +1656,13 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 [^annex6-lvlu1-1]: Die Änderungen können unter [AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)konsultiert werden.
 
-Anhang 7[^t-5]
+Anhang 7[^t-6]
 
 (Art. 14*a*)
 
 ## Anforderungen an Holzabfälle zur stofflichen und thermischen Verwertung
 
-[^t-5]: Eingefügt durch Ziff. II der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^t-6]: Eingefügt durch Ziff. II der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
 
 ### 1 Stoffliche Verwertung von Holzabfällen
 
