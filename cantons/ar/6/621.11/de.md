@@ -3,20 +3,19 @@ canton: AR
 number: "621.11"
 title: Steuergesetz
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2023-09-25
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/621.11"
-pdf: "https://ar.clex.ch/api/de/versions/1633/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuergesetz
 
-vom 21.05.2000 (Stand 01.03.2024)
+vom 21.05.2000 (Stand 01.01.2025)
 
 Die Stimmberechtigten von Appenzell Ausserrhoden,
 
@@ -400,7 +399,7 @@ beschliessen:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen und Freizügigkeitskonten.
 
-<sup>3</sup> Einkünfte aus Leibrenten und Verpfründung sind zu 40 Prozent steuerbar.
+<sup>3</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich nach Art. 7 Abs. 2 StHG.
 
 #### Art. 26
 
@@ -550,7 +549,7 @@ beschliessen:
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a) die privaten Schuldzinsen im Umfang der nach Art. 23, 23a und 24 steuerbaren Vermögenserträge zuzüglich weiterer Fr. 50 000.–;
-- b) die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten;
+- b) die dauernden Lasten sowie der Ertragsanteil im Sinne von Art. 7 Abs. 2 lit. c StHG der Leistungen aus Leibrenten- und aus Verpfründungsverträgen;
 - c) die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge oder Obhut stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d) die gemäss Gesetz, Statuten oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus der Alters-, Hinterlassenen- und Invalidenversicherung und aus Einrichtungen der beruflichen Vorsorge;
 - e) die Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge im Sinn und im Umfang von Art. 82 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^35-2];
@@ -2178,11 +2177,14 @@ beschliessen:
 
 - a) Arbeitgeber über ihre Leistungen an Arbeitnehmerinnen und Arbeitnehmer;
 - b) Gläubiger und Schuldner über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen;
-- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen;
+- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen; bei Leibrentenversicherungen, die dem Versicherungsvertragsgesetz[^165-1] unterstehen, müssen sie zusätzlich einen Ausweis nach Art.127 Abs.1 lit. c des Bundesgesetzes über die direkte Bundessteuer[^165-2] erstellen;
 - d) Treuhänder, Vermögensverwalter, Pfandgläubiger, Beauftragte und andere Personen, die Vermögen der steuerpflichtigen Person in Besitz oder in Verwaltung haben oder hatten, über dieses Vermögen und seine Erträgnisse;
 - e) Personen, die mit der steuerpflichtigen Person Geschäfte tätigen oder getätigt haben, über die beiderseitigen Ansprüche und Leistungen.
 
 <sup>2</sup> Reicht die steuerpflichtige Person die nötigen Bescheinigungen nicht ein, kann sie die Steuerbehörde von Drittpersonen einfordern. Das gesetzlich geschützte Berufsgeheimnis bleibt vorbehalten.
+
+[^165-1]: BGG (SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de))
+[^165-2]: BGG (SR [642.11](https://db.clex.ch/link/Bund/642.11/de))
 
 #### Art. 166
 
