@@ -4,13 +4,13 @@ number: "510.111"
 title: Ausführungsbestimmungen zum Polizeigesetz
 short: AB PolG
 language: de
-version: 2017-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-12-06
+version: 2025-01-01
+valid_until: 2025-04-30
+version_adopted: 2024-10-15
 adopted: 2010-08-23
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/510.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1626/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1892/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1626/pdf_file"
 
 (AB PolG)
 
-vom 23.08.2010 (Stand 01.01.2017)
+vom 23.08.2010 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -217,13 +217,14 @@ beschliesst:
 
 <table>
 <tr><th>Funktionen</th><th>Dienstgrade</th></tr>
-<tr><td>Sachbearbeiter/in</td><td>Polizist/in, Gefreiter, Korporal</td></tr>
-<tr><td>Fachverantwortlicher/e, Stv. Gruppenleiter/in</td><td>Korporal, Wachtmeister</td></tr>
-<tr><td>Gruppenleiter/in</td><td>Wachtmeister, Feldweibel</td></tr>
-<tr><td>Stv. Abteilungsleiter/in</td><td>Feldweibel, Adjutant Unteroffizier</td></tr>
-<tr><td>Abteilungsleiter/in</td><td>Leutnant, Oberleutnant</td></tr>
-<tr><td>Stv. Kommandant/in</td><td>Oberleutnant, Hauptmann</td></tr>
-<tr><td>Kommandant/in</td><td>Major</td></tr>
+<tr><td>Sachbearbeiter/in</td><td>Polizist/in, Gefreiter, Korporal, Wachtmeister</td></tr>
+<tr><td>Fachverantwortliche/r</td><td>Wachtmeister, Wachtmeister mbA</td></tr>
+<tr><td>Stv. Gruppenleiter/in</td><td>Wachtmeister, Wachtmeister mbV</td></tr>
+<tr><td>Gruppenleiter/in</td><td>Wachtmeister mbV, Feldweibel</td></tr>
+<tr><td>Stv. Abteilungsleiter/in</td><td>Adjutant Unteroffizier, Leutnant, Oberleutnant</td></tr>
+<tr><td>Abteilungsleiter/in</td><td>Oberleutnant, Hauptmann</td></tr>
+<tr><td>Stv. Kommandant/in</td><td>Hauptmann, Major</td></tr>
+<tr><td>Kommandant/in</td><td>Major, Oberstleutnant</td></tr>
 </table>
 
 <sup>2</sup> Die Zuständigkeit für den Entscheid über die Verleihung der Dienstgrade richtet sich nach der Anstellungskompetenz.
@@ -383,6 +384,8 @@ Ursprüngliche Fundstelle: OGS 2010, 54
 
 Geändert durch:
 
-\- Nachtrag vom 6. Dezember 2016, in Kraft seit 1. Januar 2017 (OGs 2016, 82)
+\- Nachtrag vom 6. Dezember 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 82),
+
+\- Nachtrag vom 15. Oktober 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 23)
 
 OGS 2010, 54
