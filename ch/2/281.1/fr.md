@@ -4,11 +4,11 @@ title: Loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la failli
 short: LP
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20240701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20250101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/fr"
 
 (LP)[^t-1]
 
-du 11 avril 1889 (État le 1<sup>er</sup> juillet 2024)
+du 11 avril 1889 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -27,7 +27,7 @@ vu l’art. 64 de la constitution[^ingress-1] (Cst.),[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. À la disp. mentionnée correspond actuellement l’art. 122, al. 1 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3]. À la disp. mentionnée correspond actuellement l’art. 122, al. 1 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [FF 1999 8486](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[8886](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)).
 
 ## Titre premier: Dispositions générales
@@ -210,15 +210,25 @@ Aucun préposé, ni employé, ni aucun membre de l’autorité de surveillance n
 [^10-2]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^10-3]: Introduit par l’annexe ch. 16 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### H. Actes interdits
+### H. Préposés et employés
+
+[^tit1-lvlI-lvlH-1]
+
+[^tit1-lvlI-lvlH-1]: Nouvelle teneur selon le ch. I 2 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 #### Art. 11
 
 [^11-1]
 
-Il est interdit aux préposés et employés de conclure, pour leur propre compte, une affaire touchant des créances en poursuite ou des objets à réaliser. Tout acte violant cette interdiction est nul.
+<sup>1</sup> Il est interdit aux préposés et employés de conclure, pour leur propre compte, une affaire touchant des créances en poursuite ou des objets à réaliser. Tout acte violant cette interdiction est nul.
+
+<sup>2</sup> Les préposés aux faillites sont tenus de communiquer aux autorités de poursuite pénale tous les crimes et délits devant être poursuivis d’office qu’eux-mêmes ou un de leurs subordonnés constatent dans l’exercice de leurs fonctions ou qui leur sont signalés et peuvent constituer un cas suspect.[^11-2]
+
+<sup>3</sup> Aux mêmes conditions, toute personne agissant pour l’office des faillites est de plus habilitée à dénoncer aux autorités de poursuite pénale les infractions constatées devant être poursuivies d’office.[^11-3]
 
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^11-2]: Introduit par le ch. I 2 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^11-3]: Introduit par le ch. I 2 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### I. Paiements en mains de l’office des poursuites
 
@@ -328,7 +338,7 @@ Les mesures disciplinaires suivantes peuvent être prises contre un préposé ou
 Le recours au Tribunal fédéral est régi par la loi du 17 juin 2005 sur le Tribunal fédéral[^19-2].
 
 [^19-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2005 sur le TF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^19-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^19-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### 4. Délais en matière de poursuite pour effets de change
 
@@ -482,7 +492,7 @@ Les cantons désignent les caisses des dépôts et consignations; ils sont respo
 Les traités internationaux et les dispositions de la loi fédérale du 18 décembre 1987 sur le droit international privé (LDIP)[^30a-2] sont réservés.
 
 [^30a-1]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^30a-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^30a-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### II. Règles diverses
 
@@ -497,7 +507,7 @@ Les traités internationaux et les dispositions de la loi fédérale du 18 déce
 Sauf disposition contraire de la présente loi, les règles du code de procédure civile du 19 décembre 2008 (CPC)[^31-2] s’appliquent à la computation et à l’observation des délais.
 
 [^31-1]: Nouvelle teneur selon l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^31-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^31-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 2. Observation
 
@@ -555,7 +565,7 @@ Le Conseil fédéral règle:
 - c. les conditions auxquelles les offices et les autorités de surveillance peuvent exiger, en cas de problème technique, que des documents leur soient adressés ultérieurement sur papier.
 
 [^33a-1]: Introduit par l’annexe 1 ch. II 17 du CPC du 19 déc. 2008 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)). Nouvelle teneur selon l’annexe ch. II 6 de la L du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^33a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^33a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### B. Notification
 
@@ -577,7 +587,7 @@ Elles peuvent être notifiées par voie électronique avec l’accord de la pers
 - d. le moment auquel la communication, la mesure ou la décision est réputée notifiée.[^34-3]
 
 [^34-1]: Nouvelle teneur selon l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^34-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^34-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-3]: Nouvelle teneur selon l’annexe ch. II 6 de la L du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### 2. Par publication
@@ -647,18 +657,18 @@ La poursuite se continue par voie de faillite, soit comme «poursuite ordinaire 
 - 10\. société coopérative (art. 828 CO);
 - 11\. association (art. 60 CC[^39-3]);
 - 12\. fondation (art. 80 CC);
-- [tab] 13.[^39-4] société d’investissement à capital variable (art. 36 de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^39-5];
-- [tab] 14.[^39-6] société en commandite de placements collectifs (art. 98 LPCC).[^39-7]
+- 13\.[^39-4] société d’investissement à capital variable (art. 36 de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^39-5];
+- 14\.[^39-6] société en commandite de placements collectifs (art. 98 LPCC).[^39-7]
 
 <sup>2</sup> …[^39-8]
 
 <sup>3</sup> L’inscription prend date, pour le mode de poursuite, du lendemain de la publication dans la *Feuille officielle suisse du commerce*[^39-9]*.*
 
-[^39-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^39-2]: Abrogé par l’annexe ch. 3 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^39-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^39-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^39-4]: Introduit par l’annexe ch. II 3 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^39-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^39-5]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^39-6]: Introduit par l’annexe ch. II 3 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^39-7]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^39-8]: Abrogé par l’art. 15 ch. 1 disp. fin. et trans. tit. XXIV à XXXIII CO, avec effet au 1<sup>er</sup> juil. 1937 ([RO 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [FF 1928 I 233](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1__217_)).
@@ -708,15 +718,16 @@ La poursuite se continue par voie de faillite, soit comme «poursuite ordinaire 
 
 Dans tous les cas, la poursuite par voie de faillite est exclue pour:
 
-- 1\. le recouvrement d’impôts, contributions, émoluments, droits, amendes ou autres prestations de droit public dues à une caisse publique ou à un fonctionnaire;
-- 1<sup>bis</sup>.[^43-2] le recouvrement de primes de l’assurance-accidents obligatoire;
-- 2\.[^43-3] le recouvrement de contributions périodiques d’entretien et d’aliments découlant du droit de la famille ou de contributions d’entretien découlant de la loi du 18 juin 2004 sur le partenariat[^43-4];
+- 1\.[^43-2] …
+- 1<sup>bis</sup>.[^43-3] …
+- 2\.[^43-4] le recouvrement de contributions périodiques d’entretien et d’aliments découlant du droit de la famille ou de contributions d’entretien découlant de la loi du 18 juin 2004 sur le partenariat[^43-5];
 - 3\. la constitution de sûretés.
 
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^43-2]: Introduit par le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [FF 2002 6622](https://fedlex.data.admin.ch/eli/fga/2002/1130)[6631](https://fedlex.data.admin.ch/eli/fga/2002/1132)).
-[^43-3]: Nouvelle teneur selon l’art. 31 ch. 2 de la LF du 18 déc. 2015 sur les valeurs patrimoniales d’origine illicite, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 5121](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^43-4]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^43-2]: Abrogé par le ch. I 2 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-3]: Introduit par le ch. I de la LF du 3 oct. 2003 ([RO 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [FF 2002 6622](https://fedlex.data.admin.ch/eli/fga/2002/1130), [6631](https://fedlex.data.admin.ch/eli/fga/2002/1132)). Abrogé par le ch. I 2 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-4]: Nouvelle teneur selon l’art. 31 ch. 2 de la LF du 18 déc. 2015 sur les valeurs patrimoniales d’origine illicite, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 5121](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
+[^43-5]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### F. Réserve de dispositions spéciales
 
@@ -729,7 +740,7 @@ Dans tous les cas, la poursuite par voie de faillite est exclue pour:
 La réalisation d’objets confisqués en vertu des lois fédérales ou cantonales en matière pénale ou fiscale ou en vertu de la loi du 18 décembre 2015 sur les valeurs patrimoniales d’origine illicite[^44-2] s’opère en conformité avec ces lois.
 
 [^44-1]: Nouvelle teneur selon l’art. 31 al. 2 ch. 2 de la LF du 18 déc. 2015 sur les valeurs patrimoniales d’origine illicite, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 5121](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^44-2]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^44-2]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 ### 2. Prêts sur gages
 
@@ -740,7 +751,7 @@ La réalisation d’objets confisqués en vertu des lois fédérales ou cantonal
 La réalisation en matière de prêts sur gages est régie par l’art. 910 du code civil (CC)[^45-2].
 
 [^45-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^45-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### II. Du for de la poursuite
 
@@ -840,13 +851,19 @@ La faillite ne peut être ouverte en même temps dans plusieurs endroits de la S
 
 [^56-1]
 
+<sup>1</sup>
+
 Sauf en cas de séquestre ou de mesures conservatoires urgentes, il ne peut être procédé à aucun acte de poursuite:
 
 - 1\. dans les temps prohibés, à savoir entre 20 heures et 7 heures, ainsi que les dimanches et les jours légalement fériés;
 - 2\. pendant les féries, à savoir sept jours avant et sept jours après les fêtes de Pâques et de Noël, ainsi que du 15 juillet au 31 juillet; il n’y a pas de féries en cas de poursuite pour effets de change;
 - 3\. lorsque le débiteur est au bénéfice de la suspension (art. 57 à 62).
 
+<sup>2</sup> Seules les dispositions du CPC[^56-2] sur la suspension des délais s’appliquent pour toutes les actions de la présente loi à déposer devant un juge.[^56-3]
+
 [^56-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^56-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^56-3]: Introduit par le ch. II 2 de la LF du 17 mars 2023 (Amélioration de la praticabilité et de l’application du droit), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2607](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### B. Suspension
 
@@ -890,7 +907,7 @@ Sauf en cas de séquestre ou de mesures conservatoires urgentes, il ne peut êtr
 <sup>3</sup> …[^57a-5]
 
 [^57a-1]: Introduit par l’art. 2 de la LF du 28 sept. 1949, en vigueur depuis le 1<sup>er</sup> fév. 1950 (RO **1950** I 57; [FF 1948 I 1201](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Voir aussi la note à l’art. 57.
-[^57a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^57a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^57a-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57a-4]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57a-5]: Abrogé par le ch. I de la LF du 16 déc. 1994 avec effet au 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -906,7 +923,7 @@ Sauf en cas de séquestre ou de mesures conservatoires urgentes, il ne peut êtr
 <sup>2</sup> Dans la poursuite en réalisation de gage, le commandement de payer doit être notifié aussi pendant la suspension pourvu que celle-ci ait duré trois mois.
 
 [^57b-1]: Introduit par l’art. 2 de la LF du 28 sept. 1949, en vigueur depuis le 1<sup>er</sup> fév. 1950 (RO **1950** I 57; [FF 1948 I 1201](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Voir aussi la note à l’art. 57.
-[^57b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^57b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^57b-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### d. Inventaire
@@ -1151,7 +1168,7 @@ La réquisition de poursuite est adressée à l’office par écrit ou verbaleme
 <sup>2</sup> Néanmoins, si la créance résulte de l’exercice d’une activité autorisée ou si elle est en rapport avec l’administration des revenus du travail ou des biens laissés à la disposition d’un mineur (art. 321, al. 2, 323, al. 1, et 327*b* CC), les actes de poursuite sont notifiés au débiteur et à son représentant légal.
 
 [^68c-1]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^68c-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^68c-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Débiteur majeur assujetti à une mesure de protection de l’adulte
 
@@ -1331,7 +1348,7 @@ Le créancier à la poursuite duquel il est fait opposition agit par la voie de 
 Sont assimilées à des jugements:
 
 - 1\. les transactions ou reconnaissances passées en justice;
-- [tab] 1<sup>bis</sup>.[^80-2] les titres authentiques exécutoires au sens des art. 347 à 352 CPC[^80-3];
+- 1<sup>bis</sup>.[^80-2] les titres authentiques exécutoires au sens des art. 347 à 352 CPC[^80-3];
 - 2\.[^80-4] les décisions des autorités administratives suisses;
 - 3\.[^80-5] …
 - 4\.[^80-6] les décisions définitives concernant les frais de contrôle rendues par les organes de contrôle en vertu de l’art. 16, al. 1, de la loi du 17 juin 2005 sur le travail au noir[^80-7];
@@ -1339,11 +1356,11 @@ Sont assimilées à des jugements:
 
 [^80-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^80-2]: Introduit par l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^80-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^80-3]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^80-4]: Nouvelle teneur selon l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-5]: Abrogé par l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-6]: Introduit par l’annexe ch. 3 de la LF du 17 juin 2005 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3371](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^80-7]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^80-7]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^80-8]: Introduit par l’annexe ch. 2 de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 ### b. Exceptions
@@ -1359,7 +1376,7 @@ Sont assimilées à des jugements:
 <sup>3</sup> Si le jugement a été rendu dans un autre État, l’opposant peut en outre faire valoir les moyens prévus par une convention liant cet État ou, à défaut d’une telle convention, prévus par la loi fédérale du 18 décembre 1987 sur le droit international privé[^81-2], à moins qu’un juge suisse n’ait déjà rendu une décision concernant ces moyens.[^81-3]
 
 [^81-1]: Nouvelle teneur selon l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^81-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^81-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^81-3]: Nouvelle teneur selon l’art. 3 ch. 2 de l’AF du 11 déc. 2009 (Approbation et mise en œuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 3. Par la mainlevée provisoire
@@ -1452,7 +1469,7 @@ Dans la mesure où, après avoir d’entrée de cause entendu les parties et exa
 <sup>3</sup> En dérogation à l’art. 63 du code des obligations (CO)[^86-2], la preuve que la somme n’était pas due est la seule qui incombe au demandeur.[^86-3]
 
 [^86-1]: Nouvelle teneur selon l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^86-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^86-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^86-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### G. Poursuites en réalisation de gages et pour effets de change
@@ -1535,7 +1552,7 @@ Le débiteur est tenu, sous menace des peines prévues par la loi:
 <sup>6</sup> L’office des poursuites attire expressément l’attention des intéressés sur leurs obligations ainsi que sur les conséquences pénales de leur inobservation.
 
 [^91-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^91-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^91-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^91-3]: [RO 2005 79](https://fedlex.data.admin.ch/eli/oc/2005/15)
 
 ### 4. Biens insaisissables
@@ -1574,20 +1591,20 @@ Sont insaisissables:
 [^92-6]: Nouvelle teneur selon l’art. 3 de la LF du 28 sept. 1949, en vigueur depuis le 1<sup>er</sup> fév. 1950 (RO **1950** I 57; [FF 1948 I 1201](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^92-7]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^92-8]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-9]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^92-9]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^92-10]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-11]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-12]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-13]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^92-14]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^92-15]: [[RO 1965 541](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)ch. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)ch. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)annexe ch. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)annexe ch. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)annexe ch. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)ch. IV. [RO 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Actuellement: au sens de l’art. 20 de la LF du 6 oct. 2006 sur les prestations complémentaires à l’AVS et à l’AI ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^92-13]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^92-14]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^92-15]: [[RO 1965 541](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)ch. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)ch. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)annexe ch. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)annexe ch. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)annexe ch. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)ch. IV. [RO 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Actuellement: au sens de l’art. 20 de la LF du 6 oct. 2006 sur les prestations complémentaires à l’AVS et à l’AI ([RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
 [^92-16]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-17]: Introduit par l’art. 3 de la LF du 28 sept. 1949 (RO **1950** I 57; [FF 1948 I 1201](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-18]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-19]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-20]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^92-21]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^92-22]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement: l’art. 83 al. 2.
+[^92-20]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^92-21]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^92-22]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Actuellement: l’art. 83 al. 2.
 [^92-23]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Revenus relativement saisissables
@@ -1665,7 +1682,7 @@ Les créances d’un époux contre son conjoint ou son partenaire enregistré ne
 
 <sup>2</sup> Sous réserve des effets de la possession acquise par les tiers de bonne foi, les actes de disposition accomplis par le débiteur sont nuls dans la mesure où ils lèsent les droits que la saisie a conférés aux créanciers.[^96-3]
 
-[^96-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^96-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^96-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^96-3]: Introduit par l’art. 58 tit. fin. CC, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 24 245](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)tit. fin. art. 60; [FF 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 402](https://fedlex.data.admin.ch/eli/fga/1907/6__402_)).
 
@@ -1774,7 +1791,7 @@ Le créancier qui en est requis est tenu de faire l’avance des frais de conser
 <sup>3</sup> Après la réalisation, le tiers peut faire valoir, en dehors de la procédure de poursuite, les prétentions fondées sur le droit civil en cas de vol, de perte ou de dessaisissement d’une chose mobilière (art. 934 et 935 CC[^106-2]) ou encore d’acquisition de mauvaise foi (art. 936, 974, al. 3, CC). La vente de gré à gré faite conformément à l’art. 130 de la présente loi est assimilée à une vente aux enchères publiques au sens de l’art. 934, al. 2, CC.
 
 [^106-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^106-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^106-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Procédure ultérieure
 
@@ -1890,9 +1907,9 @@ Ont le droit de participer à la saisie sans poursuite préalable et durant un d
 [^111-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^111-2]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^111-3]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^111-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^111-5]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^111-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^111-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^111-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^111-7]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^111-8]: Phrase abrogée par l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -2110,7 +2127,7 @@ Les objets en métaux précieux ne peuvent être adjugés à un prix inférieur 
 <sup>4</sup> Le précédent adjudicataire et ses cautions sont tenus de la moins-value sur le prix des premières enchères, ainsi que de tout autre dommage. La perte d’intérêt est calculée au taux de 5 %.
 
 [^129-1]: Nouvelle teneur selon le ch. I 3 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^129-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^129-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^129-3]: Nouvelle teneur selon le ch. I 3 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^129-4]: Nouvelle teneur selon l’art. 7 de la LF du 28 sept. 1949, en vigueur depuis le 1<sup>er</sup> fév. 1950 (RO **1950** I 57; [FF 1948 I 1201](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 
@@ -2200,7 +2217,7 @@ La vente peut avoir lieu de gré à gré, en lieu et place des enchères:[^130-1
 
 <sup>2</sup> Les conditions indiquent les frais à la charge de l’adjudicataire.
 
-[^135-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^135-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^135-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Mode de paiement
@@ -2214,7 +2231,7 @@ La vente peut avoir lieu de gré à gré, en lieu et place des enchères:[^130-1
 <sup>2</sup> Le paiement peut être effectué au comptant jusqu’à 100 000 francs. Si le prix est plus élevé, le paiement du montant excédentaire doit être effectué par l’entremise d’un intermédiaire financier au sens de la loi du 10 octobre 1997 sur le blanchiment d’argent[^136-2].
 
 [^136-1]: Nouvelle teneur selon le ch. I 3 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^136-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^136-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Terme pour le paiement
 
@@ -2479,8 +2496,8 @@ La réquisition de poursuite faite en vertu d’une créance garantie par gage (
 
 [^151-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^151-2]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^151-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^151-4]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^151-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^151-4]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### B. Commandement de payer
 
@@ -2499,7 +2516,7 @@ Dès réception de la réquisition de poursuite, l’office des poursuites rédi
 
 [^152-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^152-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^152-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^152-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^152-4]: Introduit par l’art. 58 tit. fin. CC, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 24 245](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)tit. fin. art. 60; [FF 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 402](https://fedlex.data.admin.ch/eli/fga/1907/6__402_)). Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Rédaction. Situation du tiers propriétaire du gage
@@ -2523,8 +2540,8 @@ Un exemplaire du commandement de payer est également notifié:
 
 [^153-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-2]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^153-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^153-4]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^153-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^153-4]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^153-5]: Introduit par l’annexe ch. 16 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^153-6]: Introduit par l’art. 58 tit. fin. CC, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 24 245](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)tit. fin. art. 60; [FF 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 402](https://fedlex.data.admin.ch/eli/fga/1907/6__402_)). Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-7]: Anciennement al. 3.
@@ -2603,7 +2620,7 @@ Un exemplaire du commandement de payer est également notifié:
 <sup>3</sup> Le certificat d’insuffisance de gage vaut reconnaissance de dette au sens de l’art. 82.[^158-4]
 
 [^158-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^158-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^158-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^158-3]: Nouvelle teneur selon le ch. II 4 de la LF du 11 déc. 2009 (Cédule hypothécaire de registre et droits réels), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 5015](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 [^158-4]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -2686,7 +2703,7 @@ La commination de faillite énonce:
 <sup>2</sup> Le préposé attire expressément l’attention du débiteur sur ses obligations ainsi que sur les conséquences pénales de leur inobservation.
 
 [^164-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^164-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^164-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### b. Durée
 
@@ -2804,7 +2821,7 @@ Le juge rejette la réquisition de faillite dans les cas suivants:
 <sup>2</sup> Seuls les débiteurs qui bénéficient de l’autorisation requise de la FINMA sont assujettis à la compétence de cette dernière en matière de faillite.[^173b-3]
 
 [^173b-1]: Introduit par le ch. II 1 de la LF du 3 oct. 2003 ([RO 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7476](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Nouvelle teneur selon l’annexe ch. II 5 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^173b-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^173b-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^173b-3]: Introduit par l’annexe ch. 3 de la LF du 17 déc. 2021 (Insolvabilité et garantie de dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### 4. Recours
@@ -2826,7 +2843,7 @@ L’autorité de recours peut annuler l’ouverture de la faillite lorsque le d�
 <sup>3</sup> Si l’autorité de recours accorde l’effet suspensif, elle ordonne simultanément les mesures provisionnelles propres à préserver les intérêts des créanciers.
 
 [^174-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^174-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^174-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### E. Moment de la déclaration de faillite
 
@@ -2878,9 +2895,9 @@ Le juge communique sans retard aux offices des poursuites, aux offices des faill
 Le commandement de payer énonce:[^178-1]
 
 - 1\. les indications de la réquisition de poursuite;
-- [tab] 2.[^178-2] la sommation de payer, dans les cinq jours, le montant de la créance et les frais.
-- [tab] 3.[^178-3] l’avis que le débiteur peut former opposition (art. 179) ou recourir devant l’autorité de surveillance (art. 17 et 20) pour violation de la loi;
-- [tab] 4.[^178-4] l’avis que le créancier peut requérir la faillite si le débiteur n’obtempère pas au commandement de payer bien qu’il n’ait pas formé opposition, ou si celle-ci a été écartée (art. 188).
+- 2\.[^178-2] la sommation de payer, dans les cinq jours, le montant de la créance et les frais.
+- 3\.[^178-3] l’avis que le débiteur peut former opposition (art. 179) ou recourir devant l’autorité de surveillance (art. 17 et 20) pour violation de la loi;
+- 4\.[^178-4] l’avis que le créancier peut requérir la faillite si le débiteur n’obtempère pas au commandement de payer bien qu’il n’ait pas formé opposition, ou si celle-ci a été écartée (art. 188).
 
 <sup>3</sup> Les art. 70 et 72 sont applicables.
 
@@ -2935,7 +2952,7 @@ Le juge déclare l’opposition recevable:
 - 4\.[^182-1] lorsqu’il allègue un autre moyen fondé sur l’art. 1007 CO[^182-2] et qu’il rend plausibles ses allégués; dans ce cas, l’opposant est tenu de déposer le montant de l’effet en espèces ou autres valeurs ou de fournir des sûretés équivalentes.
 
 [^182-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^182-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^182-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 5. Irrecevabilité. Mesures conservatoires
 
@@ -2966,7 +2983,7 @@ Le juge déclare l’opposition recevable:
 La décision relative à la recevabilité de l’opposition peut faire l’objet, dans les cinq jours, d’un recours au sens du CPC[^185-2].
 
 [^185-1]: Nouvelle teneur selon l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^185-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^185-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Effets de l’opposition déclarée recevable
 
@@ -3058,7 +3075,7 @@ L’autorité compétente informe le juge de la faillite de ce que:
 <sup>3</sup> La liquidation selon les règles de faillite peut également être requise par un créancier ou par un héritier.
 
 [^193-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^193-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^193-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### E. Procédure
 
@@ -3239,7 +3256,7 @@ Lorsque le failli a vendu une chose appartenant à autrui et n’en a pas touch�
 <sup>2</sup> Les créances fondées sur un contrat de rente viagère sont régies par l’art. 518, al. 3, CO[^210-2].
 
 [^210-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^210-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^210-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Conversion de créances
 
@@ -3254,9 +3271,9 @@ Lorsque le failli a vendu une chose appartenant à autrui et n’en a pas touch�
 <sup>3</sup> Sont réservées les dispositions d’autres lois fédérales relatives à la résiliation des contrats dans le cadre de la faillite ainsi que les dispositions relatives à la réserve de propriété (art. 715 et 716 CC[^211-4]).[^211-5]
 
 [^211-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^211-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^211-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^211-3]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^211-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^211-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^211-5]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D<sup>bis</sup>. Contrats de durée
@@ -3301,7 +3318,7 @@ Toute compensation est toutefois exclue:[^213-1]
 
 [^213-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^213-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^213-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^213-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^213-4]: Abrogé par l’art. 13 de la LF du 28 sept. 1949, avec effet au 1<sup>er</sup> fév. 1950 (RO **1950** I 57; [FF 1948 I 1201](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^213-5]: Introduit par l’art. 13 de la LF du 28 sept. 1949, en vigueur depuis le 1<sup>er</sup> fév. 1950 (RO **1950** I 57; [FF 1948 I 1201](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^213-6]: Anciennement al. 3. Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -3325,7 +3342,7 @@ La compensation peut être contestée lorsque le débiteur du failli a acquis, a
 <sup>2</sup> La masse est subrogée dans les droits du créancier contre le débiteur principal et les coobligés jusqu’à concurrence du dividende payé par elle (art. 507 CO[^215-2]). En cas de faillite du débiteur principal ou d’un coobligé, les art. 216 et 217 sont applicables.
 
 [^215-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^215-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^215-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Faillites simultanées de plusieurs coobligés
 
@@ -3386,9 +3403,9 @@ La compensation peut être contestée lorsque le débiteur du failli a acquis, a
 [^219-subdivu2-1]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 7215](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7225](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 [^219-subdivu2-2]: Introduite par le ch. I de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 7215](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7225](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 [^219-subdivu2-3]: Introduite par le ch. I de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 7215](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7225](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
-[^219-subdivu2-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^219-subdivu2-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^219-subdivu2-5]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^219-subdivu2-6]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^219-subdivu2-6]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### Deuxième classe
 
@@ -3404,13 +3421,13 @@ La compensation peut être contestée lorsque le débiteur du failli a acquis, a
 - e.[^219-subdivu3-6] …
 - f.[^219-subdivu3-7] les dépôts visés à l’art. 37*a* de la loi du 8 novembre 1934 sur les banques[^219-subdivu3-8].
 
-[^219-subdivu3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^219-subdivu3-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^219-subdivu3-4]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Actuellement: LF sur les allocations pour perte de gain en cas de service et de maternité.
-[^219-subdivu3-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^219-subdivu3-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^219-subdivu3-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^219-subdivu3-4]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Actuellement: LF sur les allocations pour perte de gain en cas de service et de maternité.
+[^219-subdivu3-5]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 [^219-subdivu3-6]: Introduite par l’art. 111 ch. 1 de la LF du 12 juin 2009 sur la TVA ([RO 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [FF 2008 6277](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Abrogée par le ch. I de la LF du 21 juin 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^219-subdivu3-7]: Introduite par l’annexe ch. 2 de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^219-subdivu3-8]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^219-subdivu3-8]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### Troisième classe
 
@@ -3474,7 +3491,21 @@ Dans les délais fixés pour les créances de première et de deuxième classes,
 <sup>6</sup> L’office attire expressément l’attention des intéressés sur ces obligations ainsi que sur les conséquences pénales de leur inobservation.
 
 [^222-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^222-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^222-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+### B<sup>bis</sup>. Livraison et ouverture d’envois postaux
+
+#### Art. 222a
+
+[^222a-1]
+
+<sup>1</sup> L’office des faillites peut demander aux fournisseurs de services postaux de lui donner accès, pour la durée de la faillite, aux envois postaux adressés au débiteur et de les lui remettre.
+
+<sup>2</sup> L’office des faillites peut ouvrir les envois postaux qui lui sont remis, sauf s’il apparaît clairement que leur contenu ne revêt aucune importance pour le traitement de la faillite.
+
+<sup>3</sup> Le débiteur a le droit d’assister à l’ouverture des envois postaux.
+
+[^222a-1]: Introduit par le ch. I 2 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### C. Mesures de sûreté
 
@@ -3532,7 +3563,7 @@ Chaque objet porté à l’inventaire est estimé.
 
 <sup>3</sup> L’administration fixe les conditions auxquelles le failli et sa famille pourront rester dans leur logement et la durée de ce séjour, dans la mesure où le logement fait partie de la masse en faillite.[^229-3]
 
-[^229-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^229-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^229-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^229-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3544,14 +3575,14 @@ Chaque objet porté à l’inventaire est estimé.
 
 <sup>1</sup> Lorsqu’il est probable que la masse ne suffira pas à couvrir les frais de liquidation sommaire, le juge qui a ordonné la faillite prononce la suspension de celle-ci à la demande de l’office.[^230-1]
 
-<sup>2</sup> L’office publie cette décision. La publication porte que la faillite sera clôturée si, dans les dix jours, les créanciers n’en requièrent pas la liquidation et ne fournissent pas la sûreté exigée pour les frais qui ne seront pas couverts par la masse.[^230-2]
+<sup>2</sup> L’office publie cette décision et la communique par pli simple aux créanciers connus. La publication porte que la faillite sera clôturée si, dans les vingt jours, les créanciers n’en requièrent pas la liquidation et ne fournissent pas la sûreté exigée pour les frais qui ne seront pas couverts par la masse.[^230-2]
 
 <sup>3</sup> Dans les deux ans après la suspension de la liquidation, le débiteur peut aussi être poursuivi par voie de saisie.[^230-3]
 
 <sup>4</sup> Les poursuites engagées avant l’ouverture de la faillite renaissent après la suspension de celle-ci. Le temps écoulé entre l’ouverture et la suspension de la faillite ne compte pas pour le calcul des délais prévus par la présente loi.[^230-4]
 
 [^230-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^230-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^230-2]: Nouvelle teneur selon le ch. I 2 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^230-3]: Introduit par l’art. 15 de la LF du 28 sept. 1949, en vigueur depuis le 1<sup>er</sup> fév. 1950 (RO **1950** I 57; [FF 1948 I 1201](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^230-4]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3624,7 +3655,7 @@ La publication indique ou contient:[^232-2]
 [^232-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-4]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^232-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^232-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^232-6]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-7]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-8]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -4185,7 +4216,7 @@ Le créancier d’une dette échue et non garantie par gage peut requérir le s�
 [^271-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^271-4]: Nouvelle teneur selon l’art. 3 ch. 2 de l’AF du 11 déc. 2009 (Approbation et mise en œuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^271-5]: Introduit par l’art. 3 ch. 2 de l’AF du 11 déc. 2009 (Approbation et mise en œuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^271-6]: [RS 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
+[^271-6]: [RS 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^271-7]: Nouvelle teneur selon l’art. 3 ch. 2 de l’AF du 11 déc. 2009 (Approbation et mise en œuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### B. Autorisation de séquestre
@@ -4282,7 +4313,7 @@ Les biens séquestrés sont laissés à la libre disposition du débiteur à cha
 <sup>4</sup> L’opposition et le recours n’empêchent pas le séquestre de produire ses effets.
 
 [^278-1]: Nouvelle teneur selon l’art. 3 ch. 2 de l’AF du 11 déc. 2009 (Approbation et mise en œuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^278-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^278-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### I. Validation du séquestre
 
@@ -4308,7 +4339,7 @@ Les délais prévus par le présent article ne courent pas:
 [^279-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^279-2]: Nouvelle teneur selon l’art. 3 ch. 2 de l’AF du 11 déc. 2009 (Approbation et mise en œuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^279-3]: Nouvelle teneur selon l’art. 3 ch. 2 de l’AF du 11 déc. 2009 (Approbation et mise en œuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^279-4]: [RS 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
+[^279-4]: [RS 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^279-5]: Introduit par l’art. 3 ch. 2 de l’AF du 11 déc. 2009 (Approbation et mise en œuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### K. Caducité du séquestre
@@ -4355,7 +4386,7 @@ Les effets du séquestre cessent lorsque le créancier:
 
 <sup>3</sup> L’office dresse inventaire des objets soumis au droit de rétention et assigne au bailleur un délai pour requérir la poursuite en réalisation des gages.
 
-[^283-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^283-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^283-2]: Nouvelle teneur selon le ch. II art. 3 de la LF du 15 déc. 1989 modifiant le CO (Bail à loyer et bail à ferme), en vigueur depuis le 1<sup>er</sup> juil. 1990 ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802)disp. fin. des tit. VIII et VIII<sup>bis;</sup> [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
 
 ### Réintégration des biens
@@ -4382,7 +4413,7 @@ Les objets emportés clandestinement ou avec violence peuvent être réintégré
 
 <sup>3</sup> La poursuite se continue par voie de faillite. La faillite est limitée au patrimoine du trust.
 
-[^284a-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^284a-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### B. Faillite d’un trustee
 
@@ -4548,7 +4579,7 @@ Le droit d’intenter l’action révocatoire se prescrit:
 <sup>2</sup> En cas de reconnaissance d’une décision de faillite rendue à l’étranger, le temps écoulé entre la demande de reconnaissance et la publication de la décision au sens de l’art. 169 LDIP[^292-2] n’entre pas dans le calcul du délai.
 
 [^292-1]: Nouvelle teneur selon le ch. III de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^292-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^292-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## Titre onzième: Procédure concordataire
 
@@ -4709,7 +4740,7 @@ Le commissaire exerce notamment les tâches suivantes:
 <sup>2</sup> L’effet suspensif ne peut être accordé à un recours dirigé contre la décision d’octroyer le sursis concordataire.
 
 [^295c-1]: Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^295c-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^295c-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 6. Publication
 
@@ -4734,7 +4765,7 @@ Le sursis est rendu public par le juge du concordat et communiqué sans délai �
 <sup>3</sup> La décision annulant le sursis peut être attaquée par la voie du recours, conformément au CPC[^296a-2].
 
 [^296a-1]: Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^296a-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^296a-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Ouverture de la faillite
 
@@ -4878,7 +4909,7 @@ Abrogés
 
 <sup>3</sup> Le créancier peut aussi, sans préjudice à son recours, les autoriser à assister eux-mêmes aux délibérations et s’en remettre à leur décision.
 
-[^303-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^303-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### H. Rapport du commissaire; publication de l’audience d’homologation
 
@@ -4914,7 +4945,7 @@ Le concordat est accepté lorsque, jusqu’à la décision d’homologation, y o
 [^305-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^305-2]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^305-3]: Nouvelle dénomination selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Il a été tenu compte de cette mod. dans tout le texte.
-[^305-4]: RS **3** 3
+[^305-4]: [RS 3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6193)3
 
 ### B. Homologation
 
@@ -4965,7 +4996,7 @@ L’homologation est soumise aux conditions ci-après:
 <sup>2</sup> Le recours a effet suspensif pour autant que l’instance de recours n’en dispose pas autrement.
 
 [^307-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^307-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^307-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 4. Communication et publication du jugement
 
@@ -5022,7 +5053,7 @@ L’homologation du concordat éteint toutes les poursuites intentées à l’en
 
 Est nulle de plein droit toute promesse faite par le débiteur à l’un de ses créanciers en sus des stipulations du concordat (art. 20 CO[^312-1]).
 
-[^312-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^312-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Révocation du concordat
 
@@ -5032,7 +5063,7 @@ Est nulle de plein droit toute promesse faite par le débiteur à l’un de ses 
 
 <sup>2</sup> Les art. 307 à 309 sont applicables par analogie.
 
-[^313-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^313-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Concordat ordinaire
 
@@ -5152,7 +5183,7 @@ Sauf dans le cas où les biens sont transférés à un tiers, les immeubles grev
 
 <sup>2</sup> S’il est pourtant dans l’intérêt de la masse qu’un gage soit réalisé, les liquidateurs peuvent impartir au créancier gagiste un délai de six mois au moins pour procéder à la réalisation. Ils somment simultanément, sous menace des peines prévues par la loi (art. 324, ch. 4, CP[^324-1]), le créancier gagiste qui n’agit pas dans ce délai de leur remettre le gage et l’avise qu’à défaut et sauf excuse suffisante, il sera déchu de son droit de préférence.
 
-[^324-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^324-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Cession de prétentions aux créanciers
 
@@ -5316,7 +5347,7 @@ Dans des circonstances extraordinaires, particulièrement en cas de crise écono
 
 <sup>3</sup> Le sursis extraordinaire accordé en première instance déploie ses effets jusqu’à la décision définitive de l’instance de recours.[^340-3]
 
-[^340-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^340-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^340-2]: Nouvelle teneur selon l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^340-3]: Nouvelle teneur selon l’annexe 1 ch. II 17 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -5344,7 +5375,7 @@ La décision accordant le sursis est communiquée à l’office des poursuites e
 
 <sup>2</sup> Les délais prévus aux art. 116, 154, 166, 188, 219, 286, 287 et 288 sont prolongés de la durée du sursis. Il en va de même de la garantie réelle pour les intérêts des créances garanties par gage immobilier (art. 818, al. 1, ch. 3, CC[^343-1]).
 
-[^343-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Sur le pouvoir de disposition du débiteur
 
@@ -5440,7 +5471,7 @@ Le juge du concordat doit prononcer la révocation du sursis à la demande d’u
 
 Le Conseil fédéral est chargé, conformément aux dispositions de la loi fédérale du 17 juin 1874[^352-1] concernant les votations populaires sur les lois et arrêtés fédéraux, de publier la présente loi.
 
-[^352-1]: [RS **1** 162; [RO 1962 827](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 al. 3. [RO 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 89 let. b]
+[^352-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)162; [RO 1962 827](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 al. 3. [RO 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 89 let. b]
 
 ## Dispositions finales de la modification du 16 décembre 1994
 
@@ -5471,7 +5502,7 @@ Le Conseil fédéral, le Tribunal fédéral et les cantons édictent les disposi
 - a. lorsque les époux continuent à vivre sous le régime de l’union des biens ou sous le régime externe de la communauté de biens selon les art. 211 et 224 CC[^u1-2-1] dans sa teneur de 1907;
 - b. lorsque les époux vivent sous le régime de la participation aux acquêts selon l’art. 9*c* du tit. fin. CC dans sa teneur de 1984.
 
-[^u1-2-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u1-2-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### C. Référendum
 
@@ -5505,7 +5536,7 @@ Les privilèges prévus par l’ancien droit s’appliquent aux faillites pronon
 
 [^u4-1][^u4-2]
 
-[^u4-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^u4-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^u4-2]: [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 Les ordonnances d’exécution du Tribunal fédéral qui ne dérogent pas matériellement au nouveau droit restent en vigueur jusqu’à leur abrogation ou leur modification par le Conseil fédéral.

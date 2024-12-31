@@ -4,11 +4,11 @@ title: Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG
 short: SchKG
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20240701/de/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20240701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20250101/de/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20250101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/de"
 
 (SchKG)[^t-1]
 
-vom 11. April 1889 (Stand am 1. Juli 2024)
+vom 11. April 1889 (Stand am 1. Januar 2025)
 
 [^t-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 64 der Bundesverfassung[^ingress-1] (BV),[^ingress-2]
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]. Der genannten Bestimmung entspricht heute Art. 122 Abs. 1 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3]. Der genannten Bestimmung entspricht heute Art. 122 Abs. 1 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [BBl 1999 9126](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[9547](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)).
 
 ## Erster Titel: Allgemeine Bestimmungen
@@ -211,15 +211,25 @@ Die Beamten und Angestellten der Betreibungs- und der Konkursämter sowie die Mi
 [^10-2]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^10-3]: Eingefügt durch Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### H. Verbotene Rechtsgeschäfte
+### H. Beamte und Angestellte der Betreibungs- und der Konkursämter
+
+[^tit1-lvlI-lvlH-1]
+
+[^tit1-lvlI-lvlH-1]: Fassung gemäss Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 #### Art. 11
 
 [^11-1]
 
-Die Beamten und Angestellten der Betreibungs- und der Konkursämter dürfen über die vom Amt einzutreibenden Forderungen oder die von ihm zu verwertenden Gegenstände keine Rechtsgeschäfte auf eigene Rechnung abschliessen. Rechtshandlungen, die gegen diese Vorschrift verstossen, sind nichtig.
+<sup>1</sup> Die Beamten und Angestellten der Betreibungs- und der Konkursämter dürfen über die vom Amt einzutreibenden Forderungen oder die von ihm zu verwertenden Gegenstände keine Rechtsgeschäfte auf eigene Rechnung abschliessen. Rechtshandlungen, die gegen diese Vorschrift verstossen, sind nichtig.
+
+<sup>2</sup> Die Konkursbeamten sind verpflichtet, alle von Amtes wegen zu verfolgenden Verbrechen und Vergehen, die sie oder ihre unterstellten Personen im Rahmen ihrer amtlichen Tätigkeit feststellen oder die ihnen gemeldet werden und für die konkrete Verdachtsmomente vorliegen, den Strafverfolgungsbehörden anzuzeigen.[^11-2]
+
+<sup>3</sup> Unter denselben Bedingungen ist zudem jede für das Konkursamt tätige Person berechtigt, von Amtes wegen zu verfolgende Straftaten den Strafverfolgungsbehörden anzuzeigen.[^11-3]
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^11-2]: Eingefügt durch Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^11-3]: Eingefügt durch Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### I. Zahlungen an das Betreibungsamt
 
@@ -325,7 +335,7 @@ Gegen einen Beamten oder Angestellten können folgende Disziplinarmassnahmen get
 Die Beschwerde an das Bundesgericht richtet sich nach dem Bundesgerichtsgesetz vom 17. Juni 2005[^19-2].
 
 [^19-1]: Fassung gemäss Anhang Ziff. 6 des Bundesgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^19-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^19-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### 4. Beschwerdefristen bei Wechselbetreibung
 
@@ -475,7 +485,7 @@ Die Kantone bezeichnen die Anstalten, welche gehalten sind, in den in diesem Ges
 Die völkerrechtlichen Verträge und die Bestimmungen des Bundesgesetzes vom 18. Dezember 1987[^30a-2] über das Internationale Privatrecht (IPRG) sind vorbehalten.
 
 [^30a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^30a-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^30a-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### II. Verschiedene Vorschriften
 
@@ -490,7 +500,7 @@ Die völkerrechtlichen Verträge und die Bestimmungen des Bundesgesetzes vom 18.
 Für die Berechnung, die Einhaltung und den Lauf der Fristen gelten die Bestimmungen der Zivilprozessordnung vom 19. Dezember 2008[^31-2] (ZPO), sofern dieses Gesetz nichts anderes bestimmt.
 
 [^31-1]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^31-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^31-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 2. Einhaltung
 
@@ -548,7 +558,7 @@ Der Bundesrat regelt:
 - c. die Voraussetzungen, unter denen bei technischen Problemen die Nachreichung von Dokumenten auf Papier verlangt werden kann.
 
 [^33a-1]: Eingefügt durch Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)). Fassung gemäss Anhang Ziff. II 6 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^33a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^33a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### B. Zustellung
 
@@ -570,7 +580,7 @@ Mit dem Einverständnis der betroffenen Person können Mitteilungen, Verfügunge
 - d. den Zeitpunkt, zu dem die Mitteilung, die Verfügung oder der Entscheid als zugestellt gilt.[^34-3]
 
 [^34-1]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^34-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^34-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-3]: Fassung gemäss Anhang Ziff. II 6 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### 2. Durch öffentliche Bekanntmachung
@@ -647,11 +657,11 @@ Die Betreibung wird auf dem Weg des Konkurses, und zwar als «Ordentliche Konkur
 
 <sup>3</sup> Die Eintragung äussert ihre Wirkung erst mit dem auf die Bekanntmachung im Schweizerischen Handelsamtsblatt folgenden Tage.
 
-[^39-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^39-2]: Aufgehoben durch Anhang Ziff. 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), mit Wirkung seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^39-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^39-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^39-4]: Eingefügt durch Anhang Ziff. II 3 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^39-5]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^39-5]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^39-6]: Eingefügt durch Anhang Ziff. II 3 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^39-7]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^39-8]: Aufgehoben durch Art. 15 Ziff. 1 Schl- und UeB zu den Tit. XXIV–XXXIII OR ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
@@ -700,15 +710,16 @@ Die Betreibung wird auf dem Weg des Konkurses, und zwar als «Ordentliche Konkur
 
 Die Konkursbetreibung ist in jedem Fall ausgeschlossen für:
 
-- 1\. Steuern, Abgaben, Gebühren, Sporteln, Bussen und andere im öffentlichen Recht begründete Leistungen an öffentliche Kassen oder an Beamte;
-- 1<sup>bis</sup>.[^43-2] Prämien der obligatorischen Unfallversicherung;
-- 2\.[^43-3] periodische familienrechtliche Unterhalts- und Unterstützungsbeiträge sowie Unterhaltsbeiträge nach dem Partnerschaftsgesetz vom 18. Juni 2004[^43-4];
+- 1\.[^43-2] …
+- 1<sup>bis</sup>.[^43-3] …
+- 2\.[^43-4] periodische familienrechtliche Unterhalts- und Unterstützungsbeiträge sowie Unterhaltsbeiträge nach dem Partnerschaftsgesetz vom 18. Juni 2004[^43-5];
 - 3\. Ansprüche auf Sicherheitsleistung.
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^43-2]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [BBl 2002 7107](https://fedlex.data.admin.ch/eli/fga/2002/1130)[7116](https://fedlex.data.admin.ch/eli/fga/2002/1132)).
-[^43-3]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^43-4]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^43-2]: Aufgehoben durch Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, mit Wirkung seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-3]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 ([AS 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [BBl 2002 7107](https://fedlex.data.admin.ch/eli/fga/2002/1130)[7116](https://fedlex.data.admin.ch/eli/fga/2002/1132)). Aufgehoben durch Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, mit Wirkung seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-4]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^43-5]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### F. Vorbehalt besonderer Bestimmungen
 
@@ -721,7 +732,7 @@ Die Konkursbetreibung ist in jedem Fall ausgeschlossen für:
 Die Verwertung von Gegenständen, welche aufgrund strafrechtlicher oder fiskalischer Gesetze oder aufgrund des Bundesgesetzes vom 18. Dezember 2015[^44-2] über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen mit Beschlag belegt sind, geschieht nach den zutreffenden eidgenössischen oder kantonalen Gesetzesbestimmungen.
 
 [^44-1]: Fassung gemäss Art. 31 Abs. 2 Ziff. 2 des BG vom 18. Dez. 2015 über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen, in Kraft seit 1. Juli 2016 ([AS 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [BBl 2014 5265](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^44-2]: [SR 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^44-2]: [SR 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 ### 2. Forderungen der Pfandleihanstalten
 
@@ -732,7 +743,7 @@ Die Verwertung von Gegenständen, welche aufgrund strafrechtlicher oder fiskalis
 Für die Geltendmachung von Forderungen der Pfandleihanstalten gilt Artikel 910 des Zivilgesetzbuches (ZGB)[^45-2].
 
 [^45-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^45-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### II. Ort der Betreibung
 
@@ -833,13 +844,19 @@ Der Konkurs kann in der Schweiz gegen den nämlichen Schuldner gleichzeitig nur 
 
 [^56-1]
 
+<sup>1</sup>
+
 Ausser im Arrestverfahren oder wenn es sich um unaufschiebbare Massnahmen zur Erhaltung von Vermögensgegenständen handelt, dürfen Betreibungshandlungen nicht vorgenommen werden:
 
 - 1\. in den geschlossenen Zeiten, nämlich zwischen 20 Uhr und 7 Uhr sowie an Sonntagen und staatlich anerkannten Feiertagen;
 - 2\. während der Betreibungsferien, nämlich sieben Tage vor und sieben Tage nach Ostern und Weihnachten sowie vom 15. Juli bis zum 31. Juli; in der Wechselbetreibung gibt es keine Betreibungsferien;
 - 3\. gegen einen Schuldner, dem der Rechtsstillstand (Art. 57–62) gewährt ist.
 
+<sup>2</sup> Für die Klagen nach diesem Gesetz, die vor einem Gericht einzureichen sind, sind ausschliesslich die Bestimmungen der ZPO[^56-2] über den Stillstand der Fristen anwendbar.[^56-3]
+
 [^56-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^56-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^56-3]: Eingefügt durch Ziff. II 2 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### B. Rechtsstillstand
 
@@ -883,7 +900,7 @@ Ausser im Arrestverfahren oder wenn es sich um unaufschiebbare Massnahmen zur Er
 <sup>3</sup> …[^57a-5]
 
 [^57a-1]: Eingefügt durch Art. 2 des BG vom 28. Sept. 1949, in Kraft seit 1. Febr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
-[^57a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^57a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^57a-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57a-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57a-5]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -899,7 +916,7 @@ Ausser im Arrestverfahren oder wenn es sich um unaufschiebbare Massnahmen zur Er
 <sup>2</sup> In der Betreibung auf Pfandverwertung ist der Zahlungsbefehl auch während des Rechtsstillstandes zuzustellen, wenn dieser drei Monate gedauert hat.
 
 [^57b-1]: Eingefügt durch Art. 2 des BG vom 28. Sept. 1949, in Kraft seit 1. Febr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
-[^57b-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^57b-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^57b-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### d. Güterverzeichnis
@@ -1140,7 +1157,7 @@ Das Betreibungsbegehren ist schriftlich oder mündlich an das Betreibungsamt zu 
 <sup>2</sup> Stammt die Forderung jedoch aus einem bewilligten Geschäftsbetrieb oder steht sie im Zusammenhang mit der Verwaltung des Arbeitsverdienstes oder des freien Vermögens durch eine minderjährige Person (Art. 321 Abs. 2, 323 Abs. 1 und 327*b* ZGB), so werden die Betreibungsurkunden dem Schuldner und dem gesetzlichen Vertreter zugestellt.
 
 [^68c-1]: Fassung gemäss Anhang Ziff. 12 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^68c-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^68c-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Volljähriger Schuldner unter einer Massnahme des Erwachsenenschutzes
 
@@ -1318,7 +1335,7 @@ Ein Gläubiger, gegen dessen Betreibung Rechtsvorschlag erhoben worden ist, hat 
 Gerichtlichen Entscheiden gleichgestellt sind:[^80-3]
 
 - 1\. gerichtliche Vergleiche und gerichtliche Schuldanerkennungen;
-- [tab] 1<sup>bis</sup>.[^80-4] vollstreckbare öffentliche Urkunden nach den Artikeln 347–352 ZPO[^80-5];
+- 1<sup>bis</sup>.[^80-4] vollstreckbare öffentliche Urkunden nach den Artikeln 347–352 ZPO[^80-5];
 - 2\.[^80-6] Verfügungen schweizerischer Verwaltungsbehörden;
 - 3\.[^80-7] …
 - 4\.[^80-8] die endgültigen Entscheide der Kontrollorgane, die in Anwendung von Artikel 16 Absatz 1 des Bundesgesetzes vom 17. Juni 2005[^80-9] gegen die Schwarzarbeit getroffen werden und die Kontrollkosten zum Inhalt haben;
@@ -1328,11 +1345,11 @@ Gerichtlichen Entscheiden gleichgestellt sind:[^80-3]
 [^80-2]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-3]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-4]: Eingefügt durch Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^80-5]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^80-5]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^80-6]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-7]: Aufgehoben durch Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-8]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^80-9]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^80-9]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^80-10]: Eingefügt durch Anhang Ziff. 2 des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 ### b. Einwendungen
@@ -1348,7 +1365,7 @@ Gerichtlichen Entscheiden gleichgestellt sind:[^80-3]
 <sup>3</sup> Ist ein Entscheid in einem anderen Staat ergangen, so kann der Betriebene überdies die Einwendungen geltend machen, die im betreffenden Staatsvertrag oder, wenn ein solcher fehlt, im Bundesgesetz vom 18. Dezember 1987[^81-2] über das Internationale Privatrecht vorgesehen sind, sofern nicht ein schweizerisches Gericht bereits über diese Einwendungen entschieden hat.[^81-3]
 
 [^81-1]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^81-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^81-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^81-3]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 3. Durch provisorische Rechtsöffnung
@@ -1401,7 +1418,7 @@ Beweist der Betriebene durch Urkunden, dass die Schuld samt Zinsen und Kosten ge
 
 [^85-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-### 2. Im ordent- lichen und im vereinfachten Verfahren
+### 2. Im ordentlichen und im vereinfachten Verfahren
 
 [^tit2-lvlVIII-lvlE-lvl2-1]
 
@@ -1411,7 +1428,7 @@ Beweist der Betriebene durch Urkunden, dass die Schuld samt Zinsen und Kosten ge
 
 [^85a-1]
 
-<sup>1</sup> Ungeachtet eines allfälligen Rechtsvorschlages kann der Betriebene jederzeit vom Gericht des Betreibungsortes feststellen lassen, dass die Schuld nicht oder nicht mehr besteht oder gestundet ist. [^85a-2]
+<sup>1</sup> Ungeachtet eines allfälligen Rechtsvorschlages kann der Betriebene jederzeit vom Gericht des Betreibungsortes feststellen lassen, dass die Schuld nicht oder nicht mehr besteht oder gestundet ist.[^85a-2]
 
 <sup>2</sup>
 
@@ -1439,7 +1456,7 @@ Nach Eingang der Klage hört das Gericht die Parteien an und würdigt die Beweis
 <sup>3</sup> In Abweichung von Artikel 63 des Obligationenrechts (OR)[^86-2] ist dieses Rückforderungsrecht von keiner andern Voraussetzung als dem Nachweis der Nichtschuld abhängig.[^86-3]
 
 [^86-1]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^86-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^86-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^86-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### G. Betreibung auf Pfandverwertung und Wechselbetreibung
@@ -1522,7 +1539,7 @@ Der Schuldner ist bei Straffolge verpflichtet:
 <sup>6</sup> Das Betreibungsamt macht die Betroffenen auf ihre Pflichten und auf die Straffolgen ausdrücklich aufmerksam.
 
 [^91-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^91-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^91-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^91-3]: [AS 2005 79](https://fedlex.data.admin.ch/eli/oc/2005/15)
 
 ### 4. Unpfändbare Vermögenswerte
@@ -1561,20 +1578,20 @@ Unpfändbar sind:
 [^92-6]: Fassung gemäss Art. 3 des BG vom 28. Sept. 1949, in Kraft seit 1. Febr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^92-7]: Fassung gemäss Anhang Ziff. 4 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^92-8]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-9]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^92-9]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^92-10]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-11]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-12]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-13]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^92-14]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^92-15]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II, [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Heute: gemäss Art. 20 des BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^92-13]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^92-14]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^92-15]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II, [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Heute: gemäss Art. 20 des BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
 [^92-16]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-17]: Eingefügt durch Art. 3 des BG vom 28. Sept. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-18]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-19]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-20]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^92-21]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^92-22]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Siehe heute Art. 83 Abs. 2.
+[^92-20]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^92-21]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^92-22]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Siehe heute Art. 83 Abs. 2.
 [^92-23]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Beschränkt pfändbares Einkommen
@@ -1653,7 +1670,7 @@ Forderungen des Schuldners gegen seinen Ehegatten, seine eingetragene Partnerin 
 
 <sup>2</sup> Verfügungen des Schuldners sind ungültig, soweit dadurch die aus der Pfändung den Gläubigern erwachsenen Rechte verletzt werden, unter Vorbehalt der Wirkungen des Besitzerwerbes durch gutgläubige Dritte.[^96-3]
 
-[^96-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^96-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^96-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^96-3]: Eingefügt durch Art. 58 SchlT ZGB, in Kraft seit 1. Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 SchlT ZGB; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
@@ -1764,7 +1781,7 @@ Der Gläubiger hat dem Betreibungsamt auf Verlangen die Kosten der Aufbewahrung 
 <sup>3</sup> Nach der Verwertung kann der Dritte die Ansprüche, die ihm nach Zivilrecht bei Diebstahl, Verlust oder sonstigem Abhandenkommen einer beweglichen Sache (Art. 934 und 935 ZGB[^106-2]) oder bei bösem Glauben des Erwerbers (Art. 936 und 974 Abs. 3 ZGB) zustehen, ausserhalb des Betreibungsverfahrens geltend machen. Als öffentliche Versteigerung im Sinne von Artikel 934 Absatz 2 ZGB gilt dabei auch der Freihandverkauf nach Artikel 130 dieses Gesetzes.
 
 [^106-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^106-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^106-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Durchsetzung
 
@@ -1880,9 +1897,9 @@ An der Pfändung können ohne vorgängige Betreibung innert 40 Tagen nach ihrem 
 [^111-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^111-2]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^111-3]: Fassung gemäss Anhang Ziff. 12 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^111-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^111-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^111-5]: Fassung gemäss Anhang Ziff. 12 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^111-6]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^111-7]: Fassung gemäss Anhang Ziff. 12 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^111-8]: Zweiter Satz aufgehoben durch Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -2092,7 +2109,7 @@ Gegenstände aus Edelmetall dürfen nicht unter ihrem Metallwert zugeschlagen we
 <sup>4</sup> Der frühere Ersteigerer und seine Bürgen haften für den Ausfall und allen weitern Schaden. Der Zinsverlust wird hierbei zu fünf vom Hundert berechnet.
 
 [^129-1]: Fassung gemäss Ziff. I 3 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^129-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^129-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^129-3]: Fassung gemäss Ziff. I 3 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^129-4]: Fassung gemäss Art. 7 des BG vom 28. Sept. 1949, in Kraft seit 1. Febr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 
@@ -2183,7 +2200,7 @@ An die Stelle der Versteigerung kann der freihändige Verkauf treten:[^130-1]
 
 <sup>2</sup> Die Steigerungsbedingungen stellen ferner fest, welche Kosten dem Erwerber obliegen.
 
-[^135-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^135-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^135-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Zahlungsmodus
@@ -2197,7 +2214,7 @@ An die Stelle der Versteigerung kann der freihändige Verkauf treten:[^130-1]
 <sup>2</sup> Die Zahlung kann bis zum Betrag von 100 000 Franken in bar geleistet werden. Liegt der Preis höher, so ist der Teil, der diesen Betrag übersteigt, über einen Finanzintermediär nach dem Geldwäschereigesetz vom 10. Oktober 1997[^136-2] abzuwickeln.
 
 [^136-1]: Fassung gemäss Ziff. I 3 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^136-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^136-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Zahlungsfrist
 
@@ -2461,8 +2478,8 @@ Wer für eine durch Pfand (Art. 37) gesicherte Forderung Betreibung einleitet, h
 
 [^151-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^151-2]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^151-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^151-4]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^151-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^151-4]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### B. Zahlungsbefehl
 
@@ -2480,7 +2497,7 @@ Nach Empfang des Betreibungsbegehrens erlässt das Betreibungsamt einen Zahlungs
 <sup>2</sup> Bestehen auf dem Grundstück Miet- oder Pachtverträge und verlangt der betreibende Pfandgläubiger die Ausdehnung der Pfandhaft auf die Miet- oder Pachtzinsforderungen (Art. 806 ZGB[^152-2]), so teilt das Betreibungsamt den Mietern oder Pächtern die Anhebung der Betreibung mit und weist sie an, die fällig werdenden Miet- oder Pachtzinse an das Betreibungsamt zu bezahlen.[^152-3]
 
 [^152-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^152-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^152-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^152-3]: Eingefügt durch Art. 58 SchlT ZGB ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 SchlT ZGB; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)). Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Ausfertigung. Stellung des Dritteigentümers des Pfandes
@@ -2504,8 +2521,8 @@ Das Betreibungsamt stellt auch folgenden Personen einen Zahlungsbefehl zu:
 
 [^153-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-2]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^153-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^153-4]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^153-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^153-4]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^153-5]: Eingefügt durch Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^153-6]: Eingefügt durch Art. 58 SchlT ZGB ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 SchlT ZGB; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)). Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-7]: Ursprünglich Abs. 3.
@@ -2585,7 +2602,7 @@ Das Betreibungsamt stellt auch folgenden Personen einen Zahlungsbefehl zu:
 <sup>3</sup> Der Pfandausfallschein gilt als Schuldanerkennung im Sinne von Artikel 82.[^158-4]
 
 [^158-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^158-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^158-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^158-3]: Fassung gemäss Ziff. II 4 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 [^158-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -2667,7 +2684,7 @@ Das für die Eröffnung des Konkurses zuständige Gericht (Konkursgericht) hat a
 <sup>2</sup> Der Betreibungsbeamte macht den Schuldner auf seine Pflichten und auf die Straffolge ausdrücklich aufmerksam.
 
 [^164-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^164-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^164-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### b. Dauer
 
@@ -2786,7 +2803,7 @@ Das Gericht weist das Konkursbegehren ab:
 <sup>2</sup> Der Konkurszuständigkeit der FINMA unterstehen nur Schuldner, die über die erforderliche Bewilligung der FINMA verfügen.[^173b-3]
 
 [^173b-1]: Eingefügt durch Ziff. II 1 des BG vom 3. Okt. 2003 ([AS 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [BBl 2002 8060](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Fassung gemäss Anhang Ziff. II 5 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^173b-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^173b-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^173b-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### 4. Weiterziehung
@@ -2808,7 +2825,7 @@ Die Rechtsmittelinstanz kann die Konkurseröffnung aufheben, wenn der Schuldner 
 <sup>3</sup> Gewährt sie der Beschwerde aufschiebende Wirkung, so trifft sie gleichzeitig die zum Schutz der Gläubiger notwendigen vorsorglichen Massnahmen.
 
 [^174-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^174-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^174-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### E. Zeitpunkt der Konkurseröffnung
 
@@ -2916,7 +2933,7 @@ Das Gericht bewilligt den Rechtsvorschlag:
 - 4\.[^182-1] wenn eine andere nach Artikel 1007 OR[^182-2] zulässige Einrede geltend gemacht wird, die glaubhaft erscheint; in diesem Falle muss jedoch die Forderungssumme in Geld oder Wertschriften hinterlegt oder eine gleichwertige Sicherheit geleistet werden.
 
 [^182-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^182-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^182-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 5. Verweigerung. Vorsorgliche Massnahmen
 
@@ -2947,7 +2964,7 @@ Das Gericht bewilligt den Rechtsvorschlag:
 Der Entscheid über die Bewilligung des Rechtsvorschlages kann innert fünf Tagen mit Beschwerde nach der ZPO[^185-2] angefochten werden.
 
 [^185-1]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^185-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^185-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Wirkungen des bewilligten Rechtsvorschlages
 
@@ -3039,7 +3056,7 @@ Die zuständige Behörde benachrichtigt das Konkursgericht, wenn:
 <sup>3</sup> Auch ein Gläubiger oder ein Erbe kann die konkursamtliche Liquidation verlangen.
 
 [^193-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^193-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^193-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### E. Verfahren
 
@@ -3223,7 +3240,7 @@ Wenn der Schuldner eine fremde Sache verkauft und zur Zeit der Konkurseröffnung
 <sup>2</sup> Für Leibrentenforderungen gilt Artikel 518 Absatz 3 OR[^210-2].
 
 [^210-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^210-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^210-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Umwandlung von Forderungen
 
@@ -3238,9 +3255,9 @@ Wenn der Schuldner eine fremde Sache verkauft und zur Zeit der Konkurseröffnung
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen anderer Bundesgesetze über die Auflösung von Vertragsverhältnissen im Konkurs sowie die Bestimmungen über den Eigentumsvorbehalt (Art. 715 und 716 ZGB[^211-4]).[^211-5]
 
 [^211-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^211-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^211-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^211-3]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^211-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^211-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^211-5]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D<sup>bis</sup>. Dauerschuldverhältnisse
@@ -3284,7 +3301,7 @@ Die Verrechnung ist jedoch ausgeschlossen:
 <sup>4</sup> Im Konkurs einer Kommanditgesellschaft, einer Aktiengesellschaft, einer Kommanditaktiengesellschaft, einer Gesellschaft mit beschränkter Haftung oder einer Genossenschaft können nicht voll einbezahlte Beträge der Kommanditsumme oder des Gesellschaftskapitals sowie statutarische Beiträge an die Genossenschaft nicht verrechnet werden.[^213-5] [^213-6]
 
 [^213-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^213-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^213-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^213-3]: Aufgehoben durch Art. 13 des BG vom 28. Sept. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^213-4]: Eingefügt durch Art. 13 des BG vom 28. Sept. 1949, in Kraft seit 1. Febr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^213-5]: Ursprünglich Abs. 3.
@@ -3308,7 +3325,7 @@ Die Verrechnung ist anfechtbar, wenn ein Schuldner des Konkursiten[^214-1] vor d
 
 <sup>2</sup> Die Konkursmasse tritt für den von ihr bezahlten Betrag in die Rechte des Gläubigers gegenüber dem Hauptschuldner und den Mitbürgen ein (Art. 507 OR[^215-1]). Wenn jedoch auch über den Hauptschuldner oder einen Mitbürgen der Konkurs eröffnet wird, so finden die Artikel 216 und 217 Anwendung.[^215-2]
 
-[^215-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^215-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^215-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Gleichzeitiger Konkurs über mehrere Mitverpflichtete
@@ -3368,9 +3385,9 @@ Die Verrechnung ist anfechtbar, wenn ein Schuldner des Konkursiten[^214-1] vor d
 [^219-subdivu2-1]: Fassung gemäss Ziff. I des BG vom 18. Juni 2010, in Kraft seit 1. Dez. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^219-subdivu2-2]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010, in Kraft seit 1. Dez. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^219-subdivu2-3]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010, in Kraft seit 1. Dez. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^219-subdivu2-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^219-subdivu2-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^219-subdivu2-5]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^219-subdivu2-6]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^219-subdivu2-6]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### Zweite Klasse
 
@@ -3385,13 +3402,13 @@ Die Verrechnung ist anfechtbar, wenn ein Schuldner des Konkursiten[^214-1] vor d
 - e.[^219-subdivu3-6] …
 - f.[^219-subdivu3-7] Die Einlagen nach Artikel 37*a* des Bankengesetzes vom 8. November 1934[^219-subdivu3-8].
 
-[^219-subdivu3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^219-subdivu3-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^219-subdivu3-4]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^219-subdivu3-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^219-subdivu3-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^219-subdivu3-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^219-subdivu3-4]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^219-subdivu3-5]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 [^219-subdivu3-6]: Eingefügt durch Art. 111 Ziff. 2 des Mehrwertsteuergesetzes vom 12. Juni 2009 ([AS 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [BBl 2008 6885](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Aufgehoben durch Ziff. I des BG vom 21. Juni 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^219-subdivu3-7]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^219-subdivu3-8]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^219-subdivu3-8]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### Dritte Klasse
 
@@ -3453,7 +3470,21 @@ Bei den in der ersten und zweiten Klasse gesetzten Fristen werden nicht mitberec
 <sup>6</sup> Das Konkursamt macht die Betroffenen auf ihre Pflichten und auf die Straffolgen ausdrücklich aufmerksam.
 
 [^222-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^222-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^222-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+### B<sup>bis</sup>. Auslieferung und Öffnung von Postsendungen
+
+#### Art. 222a
+
+[^222a-1]
+
+<sup>1</sup> Das Konkursamt kann die Anbieter von Postdiensten anweisen, ihm für die Dauer des Konkurses Einsicht in die an den Schuldner adressierten Postsendungen zu gewähren und diese an das Konkursamt auszuliefern.
+
+<sup>2</sup> Das Konkursamt ist berechtigt, die ausgelieferten Postsendungen zu öffnen, sofern nicht klar erkennbar ist, dass dem Inhalt der Sendung für die Abwicklung des Konkurses keine Bedeutung zukommt.
+
+<sup>3</sup> Der Schuldner hat das Recht, der Öffnung der Sendungen beizuwohnen.
+
+[^222a-1]: Eingefügt durch Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### C. Sicherungsmassnahmen
 
@@ -3515,7 +3546,7 @@ In dem Inventar wird der Schätzungswert jedes Vermögensstückes verzeichnet.
 
 <sup>3</sup> Die Konkursverwaltung bestimmt, unter welchen Bedingungen und wie lange der Schuldner und seine Familie in der bisherigen Wohnung verbleiben dürfen, sofern diese zur Konkursmasse gehört.[^229-3]
 
-[^229-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^229-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^229-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^229-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3527,14 +3558,14 @@ In dem Inventar wird der Schätzungswert jedes Vermögensstückes verzeichnet.
 
 <sup>1</sup> Reicht die Konkursmasse voraussichtlich nicht aus, um die Kosten für ein summarisches Verfahren zu decken, so verfügt das Konkursgericht auf Antrag des Konkursamtes die Einstellung des Konkursverfahrens.[^230-1]
 
-<sup>2</sup> Das Konkursamt macht die Einstellung öffentlich bekannt. In der Publikation weist es darauf hin, dass das Verfahren geschlossen wird, wenn nicht innert zehn Tagen ein Gläubiger die Durchführung des Konkursverfahrens verlangt und die festgelegte Sicherheit für den durch die Konkursmasse nicht gedeckten Teil der Kosten leistet.[^230-2]
+<sup>2</sup> Das Konkursamt macht die Einstellung öffentlich bekannt und teilt sie den bekannten Gläubigern mit uneingeschriebenem Brief mit. In der Publikation weist es darauf hin, dass das Verfahren geschlossen wird, wenn nicht innert zwanzig Tagen ein Gläubiger die Durchführung des Konkursverfahrens verlangt und die festgelegte Sicherheit für den durch die Konkursmasse nicht gedeckten Teil der Kosten leistet.[^230-2]
 
 <sup>3</sup> Nach der Einstellung des Konkursverfahrens kann der Schuldner während zwei Jahren auch auf Pfändung betrieben werden.[^230-3]
 
 <sup>4</sup> Die vor der Konkurseröffnung eingeleiteten Betreibungen leben nach der Einstellung des Konkurses wieder auf. Die Zeit zwischen der Eröffnung und der Einstellung des Konkurses wird dabei für alle Fristen dieses Gesetzes nicht mitberechnet.[^230-4]
 
 [^230-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^230-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^230-2]: Fassung gemäss Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^230-3]: Eingefügt durch Art. 15 des BG vom 28. Sept. 1949, in Kraft seit 1. Febr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^230-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3606,7 +3637,7 @@ Die Bekanntmachung enthält:
 [^232-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^232-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^232-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^232-5]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-6]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-7]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -4148,7 +4179,7 @@ Der Gläubiger kann für eine fällige Forderung, soweit diese nicht durch ein P
 [^271-2]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^271-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^271-4]: Eingefügt durch Art. 3 Ziff. 2 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^271-5]: [SR 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
+[^271-5]: [SR 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^271-6]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### B. Arrestbewilligung
@@ -4243,7 +4274,7 @@ Die Arrestgegenstände werden dem Schuldner zur freien Verfügung überlassen, s
 <sup>4</sup> Einsprache und Beschwerde hemmen die Wirkung des Arrestes nicht.
 
 [^278-1]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^278-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^278-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### I. Arrestprosequierung
 
@@ -4267,10 +4298,10 @@ Die Fristen dieses Artikels laufen nicht:
 - 2\. während des Verfahrens auf Vollstreckbarerklärung nach dem Übereinkommen vom 30. Oktober 2007[^279-5] über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen und bei Weiterziehung des Entscheides über die Vollstreckbarerklärung.[^279-6]
 
 [^279-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^279-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^279-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^279-3]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^279-4]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^279-5]: [SR 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
+[^279-5]: [SR 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^279-6]: Eingefügt durch Art. 3 Ziff. 2 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### K. Dahinfallen
@@ -4303,7 +4334,7 @@ Der Arrest fällt dahin, wenn der Gläubiger:
 
 [^282-1]
 
-[^282-1]: Aufgehoben durch Ziff. II Art. 3 des BG vom 15. Dez. 1989 über die Änderung des OR (Miete und Pacht), mit Wirkung seit 1. Juli 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802), SchlB zu den Tit. VIII und VIII<sup>bis</sup>; [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
+[^282-1]: Aufgehoben durch Ziff. II Art. 3 des BG vom 15. Dez. 1989 über die Änderung des OR (Miete und Pacht), mit Wirkung seit 1. Juli 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802), SchlB zu den Tit. VIII und VIIIbis; [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
 
 ### Retentionsverzeichnis
 
@@ -4315,7 +4346,7 @@ Der Arrest fällt dahin, wenn der Gläubiger:
 
 <sup>3</sup> Das Betreibungsamt nimmt ein Verzeichnis der dem Retentionsrecht unterliegenden Gegenstände auf und setzt dem Gläubiger eine Frist zur Anhebung der Betreibung auf Pfandverwertung an.
 
-[^283-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^283-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^283-2]: Bereinigt gemäss Ziff. II Art. 3 des BG vom 15. Dez. 1989 über die Änderung des OR (Miete und Pacht), in Kraft seit 1. Juli 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201), SchlB zu den Tit. VIII und VIII<sup>bis</sup>).
 
 ### Rückschaffung von Gegenständen
@@ -4342,7 +4373,7 @@ Wurden Gegenstände heimlich oder gewaltsam fortgeschafft, so können dieselben 
 
 <sup>3</sup> Die Betreibung wird auf Konkurs fortgesetzt. Der Konkurs ist auf das Trustvermögen beschränkt.
 
-[^284a-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^284a-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### B. Konkurs eines Trustees
 
@@ -4507,7 +4538,7 @@ Das Anfechtungsrecht verjährt:
 <sup>2</sup> Bei der Anerkennung eines ausländischen Konkursdekretes wird die Zeit zwischen dem Anerkennungsantrag und der Publikation nach Artikel 169 IPRG[^292-2] nicht mitberechnet.
 
 [^292-1]: Fassung gemäss Ziff. III des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^292-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^292-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## Elfter Titel: Nachlassverfahren
 
@@ -4668,7 +4699,7 @@ Dem Sachwalter stehen insbesondere folgende Aufgaben zu:
 <sup>2</sup> Der Beschwerde gegen die Bewilligung der Nachlassstundung kann keine aufschiebende Wirkung erteilt werden.
 
 [^295c-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^295c-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^295c-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 6. Öffentliche Bekanntmachung
 
@@ -4693,7 +4724,7 @@ Die Bewilligung der Stundung wird durch das Nachlassgericht öffentlich bekannt 
 <sup>3</sup> Der Entscheid über die Aufhebung kann mit Beschwerde nach der ZPO[^296a-2] angefochten werden.
 
 [^296a-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^296a-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^296a-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Konkurseröffnung
 
@@ -4837,7 +4868,7 @@ Aufgehoben
 
 <sup>3</sup> Der Gläubiger kann auch, unbeschadet seiner Rechte, Mitschuldner, Bürgen und Gewährspflichtige ermächtigen, an seiner Stelle über den Beitritt zum Nachlassvertrag zu entscheiden.
 
-[^303-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^303-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### H. Sachwalterbericht; öffentliche Bekanntmachung der Verhandlung vor dem Nachlassgericht
 
@@ -4923,7 +4954,7 @@ Das Nachlassgericht widerruft die Einstellung der Verwertung auf Antrag eines be
 <sup>2</sup> Die Beschwerde hat aufschiebende Wirkung, sofern die Rechtsmittelinstanz nichts anderes verfügt.
 
 [^307-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^307-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^307-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 4. Mitteilung und öffentliche Bekanntmachung
 
@@ -4980,7 +5011,7 @@ Mit der Bestätigung des Nachlassvertrages fallen alle vor der Stundung gegen de
 
 Jedes Versprechen, durch welches der Schuldner einem Gläubiger mehr zusichert als ihm gemäss Nachlassvertrag zusteht, ist nichtig (Art. 20 OR[^312-1]).
 
-[^312-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^312-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Widerruf des Nachlassvertrages
 
@@ -4990,7 +5021,7 @@ Jedes Versprechen, durch welches der Schuldner einem Gläubiger mehr zusichert a
 
 <sup>2</sup> Die Artikel 307–309 finden sinngemässe Anwendung.
 
-[^313-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^313-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Ordentlicher Nachlassvertrag
 
@@ -5108,7 +5139,7 @@ Mit Ausnahme der Fälle, in denen das Vermögen einem Dritten abgetreten wurde, 
 
 <sup>2</sup> Erfordert es jedoch das Interesse der Masse, dass ein Pfand verwertet wird, so können die Liquidatoren dem Pfandgläubiger eine Frist von mindestens sechs Monaten setzen, innert der er das Pfand verwerten muss. Sie fordern ihn gleichzeitig auf, ihnen das Pfand nach unbenutztem Ablauf der für die Verwertung gesetzten Frist abzuliefern, und weisen ihn auf die Straffolge (Art. 324 Ziff. 4 StGB[^324-1]) sowie darauf hin, dass sein Vorzugsrecht erlischt, wenn er ohne Rechtfertigung das Pfand nicht abliefert.
 
-[^324-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^324-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Abtretung von Ansprüchen an die Gläubiger
 
@@ -5272,7 +5303,7 @@ Die Bestimmungen dieses Titels können unter ausserordentlichen Verhältnissen, 
 
 <sup>3</sup> Eine vom Nachlassgericht bewilligte Notstundung besitzt Wirksamkeit bis zum endgültigen Entscheid der Rechtsmittelinstanz.[^340-3]
 
-[^340-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^340-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^340-2]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^340-3]: Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -5300,7 +5331,7 @@ Die Bewilligung der Stundung wird dem Betreibungsamt und, falls der Schuldner de
 
 <sup>2</sup> Die Fristen der Artikel 116, 154, 166, 188, 219, 286, 287 und 288 verlängern sich um die Dauer der Stundung. Ebenso erstreckt sich die Haftung des Grundpfandes für die Zinsen der Grundpfandschuld (Art. 818 Abs. 1 Ziff. 3 ZGB[^343-1]) um die Dauer der Stundung.
 
-[^343-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Auf die Verfügungsbefugnis des Schuldners
 
@@ -5428,7 +5459,7 @@ Der Bundesrat, das Bundesgericht und die Kantone erlassen die Ausführungsbestim
 - a. wenn die Ehegatten weiter unter Güterverbindung oder externer Gütergemeinschaft nach den Artikeln 211 und 224 ZGB[^u1-2-1] in der Fassung von 1907 leben;
 - b. wenn die Ehegatten unter Errungenschaftsbeteiligung nach Artikel 9*c* des Schlusstitels zum ZGB in der Fassung von 1984 leben.
 
-[^u1-2-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u1-2-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### C. Referendum
 
@@ -5462,7 +5493,7 @@ Die Privilegien des bisherigen Rechts gelten weiter, wenn vor dem Inkrafttreten 
 
 [^u4-1][^u4-2]
 
-[^u4-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^u4-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^u4-2]: [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 Die Ausführungsverordnungen des Bundesgerichts bleiben in Kraft, soweit sie dem neuen Recht inhaltlich nicht widersprechen und solange der Bundesrat nichts anderes bestimmt.

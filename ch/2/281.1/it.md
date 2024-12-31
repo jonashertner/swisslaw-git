@@ -4,11 +4,11 @@ title: "Legge federale dell'11 aprile 1889 sulla esecuzione e sul fallimento (LE
 short: LEF
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20240701/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20240701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20250101/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20250101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/it"
 
 (LEF)[^t-1]
 
-dell’11 aprile 1889 (Stato 1° luglio 2024)
+dell’11 aprile 1889 (Stato 1° gennaio 2025)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -27,7 +27,7 @@ visto l’articolo 64 della Costituzione federale[^ingress-1] (Cost.),[^ingress-
 
 decreta:
 
-[^ingress-1]: [CS **1** 3]. A questa disp. corrisponde l’art. 122 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [CS **1** 3]. A questa disp. corrisponde l’art. 122 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [FF 1999 8077](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[8458](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)).
 
 ## Titolo primo: Disposizioni generali
@@ -62,11 +62,12 @@ decreta:
 
 <sup>4</sup> Gli uffici d’esecuzione e gli uffici dei fallimenti possono essere diretti dallo stesso ufficiale.[^2-3]
 
-<sup>5</sup> Per il resto, l’organizzazione degli uffici spetta ai Cantoni.
+<sup>5</sup> Per il resto, l’organizzazione degli uffici spetta ai Cantoni.[^2-4]
 
 [^2-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^2-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^2-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^2-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Retribuzione
 
@@ -210,15 +211,25 @@ I funzionari e gli impiegati degli uffici d’esecuzione e degli uffici dei fall
 [^10-2]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^10-3]: Introdotto dall’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### H. Negozi giuridici vietati
+### H. Funzionari e impiegati degli uffici d’esecuzione e degli uffici dei fallimenti
+
+[^tit1-lvlI-lvlH-1]
+
+[^tit1-lvlI-lvlH-1]: Nuovo testo giusta il n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 #### Art. 11
 
 [^11-1]
 
-Ai funzionari e impiegati degli uffici d’esecuzione e degli uffici dei fallimenti è vietato concludere negozi per proprio conto riguardo al credito per il quale l’ufficio procede o all’oggetto che è incaricato di realizzare. Gli atti che contravvengono a questo divieto sono nulli.
+<sup>1</sup> Ai funzionari e impiegati degli uffici d’esecuzione e degli uffici dei fallimenti è vietato concludere negozi per proprio conto riguardo al credito per il quale l’ufficio procede o all’oggetto che è incaricato di realizzare. Gli atti che contravvengono a questo divieto sono nulli.
+
+<sup>2</sup> Gli ufficiali dei fallimenti sono tenuti a denunciare alle autorità di perseguimento penale tutti i crimini e i delitti perseguibili d’ufficio che essi o le persone a loro sottoposte constatano nell’esercizio della loro funzione o che sono loro segnalati e in relazione ai quali sussistono concreti elementi di sospetto.[^11-2]
+
+<sup>3</sup> Alle stesse condizioni, le persone che operano per l’ufficio dei fallimenti possono inoltre denunciare alle autorità di perseguimento penale i reati perseguibili d’ufficio constatati.[^11-3]
 
 [^11-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^11-2]: Introdotto dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^11-3]: Introdotto dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### I. Pagamenti all’ufficio d’esecuzione
 
@@ -330,7 +341,7 @@ Nei confronti dell’ufficiale o dell’impiegato possono essere prese le misure
 Il ricorso al Tribunale federale è retto dalla legge del 17 giugno 2005[^19-2] sul Tribunale federale.
 
 [^19-1]: Nuovo testo giusta l’all. n. 6 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^19-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^19-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### 4. Termini in materia di esecuzione cambiaria
 
@@ -484,7 +495,7 @@ I Cantoni designano gli stabilimenti obbligati ad accettare i depositi nei casi 
 Sono salvi i trattati internazionali e le disposizioni della legge federale del 18 dicembre 1987[^30a-2] sul diritto internazionale privato (LDIP).
 
 [^30a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^30a-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^30a-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### II. Regole diverse
 
@@ -499,7 +510,7 @@ Sono salvi i trattati internazionali e le disposizioni della legge federale del 
 Salvo che la presente legge disponga altrimenti, al computo, all’osservanza e al decorso dei termini si applicano le disposizioni del Codice di procedura civile del 19 dicembre 2008[^31-2] (CPC).
 
 [^31-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^31-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^31-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 2. Osservanza del termine
 
@@ -557,7 +568,7 @@ Il Consiglio federale disciplina:
 - c. le condizioni alle quali può essere richiesta la trasmissione successiva di documenti cartacei in caso di problemi tecnici.
 
 [^33a-1]: Introdotto dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)). Nuovo testo giusta l’all. n. II 6 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^33a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^33a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### B. Notificazione
 
@@ -579,7 +590,7 @@ Previo assenso del destinatario, gli avvisi e le decisioni possono essere notifi
 - d. il momento in cui gli avvisi o le decisioni sono considerati notificati.[^34-3]
 
 [^34-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^34-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^34-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-3]: Nuovo testo giusta l’all. n. II 6 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### 2. Mediante pubblicazione
@@ -654,24 +665,23 @@ L’esecuzione si prosegue in via di fallimento e cioè come «esecuzione ordina
 - 9\. società a garanzia limitata (art. 772 CO);
 - 10\. società cooperativa (art. 828 CO);
 - 11\. associazione (art. 60 CC[^39-3]);
-- 12\.[^39-4] fondazione (art. 80 CC[^39-5]);
-- 13\.[^39-6] società di investimento a capitale variabile (art. 36 della L del 23 giu. 2006[^39-7] sugli investimenti collettivi, LICol);
-- 14\.[^39-8] società in accomandita per investimenti collettivi di capitale (art. 98 LICol).
+- 12\. fondazione (art. 80 CC);
+- 13\.[^39-4] società di investimento a capitale variabile (art. 36 della L del 23 giu. 2006[^39-5] sugli investimenti collettivi, LICol);
+- 14\.[^39-6] società in accomandita per investimenti collettivi di capitale (art. 98 LICol).[^39-7]
 
-<sup>2</sup> ...[^39-9]
+<sup>2</sup> ...[^39-8]
 
-<sup>3</sup> L’inscrizione produce effetto soltanto dal giorno susseguente a quello della pubblicazione nel *Foglio ufficiale svizzero di commercio*[^39-10].
+<sup>3</sup> L’inscrizione produce effetto soltanto dal giorno susseguente a quello della pubblicazione nel *Foglio ufficiale svizzero di commercio*[^39-9].
 
-[^39-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^39-2]: Abrogato dall’all. n. 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), con effetto dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^39-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^39-4]: Introdotta dall’all. n. II 3 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^39-5]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^39-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^39-4]: Introdotto dall’all. n. II 3 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^39-5]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^39-6]: Introdotto dall’all. n. II 3 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^39-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^39-8]: Introdotto dall’all. n. II 3 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^39-9]: Abrogato dall’art. 15 n. 1 disp. fin. e trans. Tit. XXIV–XXXIII CO, con effetto dal 1° lug. 1937 ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)).
-[^39-10]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^39-7]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^39-8]: Abrogato dall’art. 15 n. 1 disp. fin. e trans. Tit. XXIV–XXXIII CO, con effetto dal 1° lug. 1937 ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)).
+[^39-9]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 2. Durata degli effetti dell’iscrizione nel registro di commercio
 
@@ -717,15 +727,16 @@ L’esecuzione si prosegue in via di fallimento e cioè come «esecuzione ordina
 
 L’esecuzione in via di fallimento è in ogni caso esclusa per:
 
-- 1\. imposte, tributi, tasse, sportule, multe e altre prestazioni fondate sul diritto pubblico e dovute a pubbliche casse o a funzionari;
-- [tab] 1<sup>bis</sup>.[^43-2] premi dell’assicurazione obbligatoria contro gli infortuni;
-- 2\.[^43-3] contributi periodici di mantenimento o d’assistenza in virtù del diritto di famiglia e contributi di mantenimento secondo la legge del 18 giugno 2004[^43-4] sull’unione domestica registrata;
+- 1\.[^43-2] ...
+- 1<sup>bis</sup>.[^43-3] ...
+- 2\.[^43-4] contributi periodici di mantenimento o d’assistenza in virtù del diritto di famiglia e contributi di mantenimento secondo la legge del 18 giugno 2004[^43-5] sull’unione domestica registrata;
 - 3\. pretese tendenti alla prestazione di garanzia.
 
 [^43-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^43-2]: Introdotto dal n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2004 ([RU 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)).
-[^43-3]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^43-4]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^43-2]: Abrogato dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-3]: Introdotto dal n. I della LF del 3 ott. 2003 ([RU 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Abrogato dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-4]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^43-5]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### F. Riserva delle disposizioni speciali
 
@@ -738,7 +749,7 @@ L’esecuzione in via di fallimento è in ogni caso esclusa per:
 La realizzazione di oggetti confiscati in virtù di leggi d’ordine penale o fiscale oppure in virtù della legge del 18 dicembre 2015[^44-2] sui valori patrimoniali di provenienza illecita ha luogo secondo le disposizioni delle relative leggi federali o cantonali.
 
 [^44-1]: Nuovo testo giusta l’art. 31 cpv. 2 n. 2 della LF del 18 dic. 2007 sui valori patrimoniali di provenienza illecita, in vigore dal 1° lug. 2016 ([RU 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 4555](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^44-2]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^44-2]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 ### 2. Prestito a pegno
 
@@ -749,7 +760,7 @@ La realizzazione di oggetti confiscati in virtù di leggi d’ordine penale o fi
 La realizzazione dei crediti degli istituti di prestito a pegno è disciplinata dall’articolo 910 del Codice civile (CC)[^45-2].
 
 [^45-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^45-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### II. Del luogo dell’esecuzione
 
@@ -848,13 +859,19 @@ Il fallimento di uno stesso debitore non può essere aperto contemporaneamente, 
 
 [^56-1]
 
+<sup>1</sup>
+
 Fatti salvi i casi di sequestro o di provvedimenti conservativi che non ammettono dilazione, non si può procedere ad atti esecutivi:
 
 - 1\. nei periodi preclusi, cioè tra le ore 20 e le 7, come pure di domenica e nei giorni ufficialmente riconosciuti come festivi;
 - 2\. durante le ferie, cioè sette giorni prima e sette giorni dopo la Pasqua e il Natale, come pure dal 15 luglio al 31 luglio; questa disposizione non si applica tuttavia all’esecuzione cambiaria;
 - 3\. contro un debitore cui sia stata concessa la sospensione (art. 57–62).
 
+<sup>2</sup> Alle azioni di cui alla presente legge da promuovere avanti al giudice si applicano esclusivamente le disposizioni del CPC[^56-2] sulla sospensione dei termini.[^56-3]
+
 [^56-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^56-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^56-3]: Introdotto dal n. II 2 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### B. Sospensione
 
@@ -898,7 +915,7 @@ Fatti salvi i casi di sequestro o di provvedimenti conservativi che non ammetton
 <sup>3</sup> ...[^57a-5]
 
 [^57a-1]: Introdotto dall’art. 2 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57). Vedi anche la nota all’art. 57.
-[^57a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^57a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^57a-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57a-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57a-5]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -914,7 +931,7 @@ Fatti salvi i casi di sequestro o di provvedimenti conservativi che non ammetton
 <sup>2</sup> In materia di esecuzione in via di realizzazione del pegno, il precetto esecutivo deve essere notificato anche durante la sospensione se questa dura da almeno tre mesi.
 
 [^57b-1]: Introdotto dall’art. 2 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57). Vedi anche la nota all’art. 57.
-[^57b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^57b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^57b-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### d. Inventario
@@ -1030,8 +1047,8 @@ Le ferie e le sospensioni non impediscono la decorrenza dei termini. Tuttavia, i
 
 Se l’esecuzione è diretta contro una persona giuridica o contro una società, la notificazione si fa al rappresentante delle medesime, e cioè:
 
-- [tab] 1.[^65-1] per un Comune, un Cantone o la Confederazione, al presidente dell’autorità esecutiva, o al servizio designato da quest’autorità;
-- [tab] 2.[^65-2] per una società anonima, una società in accomandita per azioni, una società a garanzia limitata, una società cooperativa o un’associazione iscritta nel registro di commercio, a qualunque membro dell’amministrazione o della direzione, come pure a qualunque direttore o procuratore;
+- 1\.[^65-1] per un Comune, un Cantone o la Confederazione, al presidente dell’autorità esecutiva, o al servizio designato da quest’autorità;
+- 2\.[^65-2] per una società anonima, una società in accomandita per azioni, una società a garanzia limitata, una società cooperativa o un’associazione iscritta nel registro di commercio, a qualunque membro dell’amministrazione o della direzione, come pure a qualunque direttore o procuratore;
 - 3\. per altra persona giuridica, al presidente dell’amministrazione o all’amministratore;
 - 4\. per una società in nome collettivo o in accomandita, a qualunque socio amministratore ed a qualunque direttore e procuratore[^65-3].
 
@@ -1078,8 +1095,7 @@ La notificazione si fa mediante pubblicazione quando:
 
 La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d’esecuzione. Essa deve enunciare:
 
-- 1\. il nome ed il domicilio del creditore e dell’eventuale suo rappresentante e, ove dimori all’estero, il domicilio da lui eletto nella Svizzera;
-- in mancanza d’indicazione speciale, questo domicilio si reputa eletto presso l’ufficio d’esecuzione;
+- 1\. il nome ed il domicilio del creditore e dell’eventuale suo rappresentante e, ove dimori all’estero, il domicilio da lui eletto nella Svizzera; in mancanza d’indicazione speciale, questo domicilio si reputa eletto presso l’ufficio d’esecuzione;
 - 2\.[^67-1] il nome ed il domicilio del debitore e, al caso, del suo legale rappresentante; nella domanda di esecuzione contro un’eredità dev’essere indicato a quali eredi debba farsi la notificazione;
 - 3\. l’ammontare del credito o delle garanzie richieste, in valuta legale svizzera, e pei crediti fruttiferi la misura degli interessi e il giorno dal quale sono domandati;
 - 4\. il titolo di credito con la sua data e, in difetto di titolo, la causa del credito.
@@ -1158,7 +1174,7 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 <sup>2</sup> Se tuttavia il credito deriva dall’esercizio di una professione o di un mestiere autorizzati, ovvero è in relazione con l’amministrazione del provento del lavoro o dei beni liberi da parte di un minorenne (art. 321 cpv. 2, 323 cpv. 1 e 327*b* CC), gli atti esecutivi si notificano al debitore e al suo rappresentante legale.
 
 [^68c-1]: Nuovo testo giusta l’all. n. 12 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^68c-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^68c-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Debitore maggiorenne sottoposto a una misura di protezione degli adulti
 
@@ -1168,7 +1184,7 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 
 <sup>1</sup> Se l’amministrazione dei beni di un debitore maggiorenne spetta a un curatore o a un mandatario designato con mandato precauzionale e l’autorità di protezione degli adulti ne ha avvisato l’ufficio d’esecuzione, gli atti esecutivi sono notificati al curatore o al mandatario.
 
-2 Gli atti esecutivi si notificano pure al debitore se non è limitato nell’esercizio dei diritti civili.[^68d-2]
+<sup>2</sup> Gli atti esecutivi si notificano pure al debitore se non è limitato nell’esercizio dei diritti civili.[^68d-2]
 
 [^68d-1]: Nuovo testo giusta l’all. n. 12 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^68d-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
@@ -1337,7 +1353,7 @@ Se è stata fatta opposizione contro l’esecuzione, il creditore, per far valer
 Sono parificati alle decisioni giudiziarie:[^80-3]
 
 - 1\. le transazioni e i riconoscimenti di debito giudiziali;
-- [tab] 1<sup>bis</sup>.[^80-4] i documenti pubblici esecutivi secondo gli articoli 347–352 CPC[^80-5];
+- 1<sup>bis</sup>.[^80-4] i documenti pubblici esecutivi secondo gli articoli 347–352 CPC[^80-5];
 - 2\.[^80-6] le decisioni di autorità amministrative svizzere;
 - 3\.[^80-7] ...
 - 4\.[^80-8] le decisioni definitive relative alle spese di controllo pronunciate dagli organi di controllo in virtù dell’articolo 16 capoverso 1 della legge del 17 giugno 2005[^80-9] contro il lavoro nero;
@@ -1347,11 +1363,11 @@ Sono parificati alle decisioni giudiziarie:[^80-3]
 [^80-2]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-3]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-4]: Introdotto dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^80-5]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^80-5]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^80-6]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-7]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-8]: Introdotto dall’all. n. 3 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^80-9]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^80-9]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^80-10]: Introdotto dall’all. n. 2 della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 ### b. Eccezioni
@@ -1367,7 +1383,7 @@ Sono parificati alle decisioni giudiziarie:[^80-3]
 <sup>3</sup> Se la decisione è stata pronunciata in un altro Stato, l’escusso può inoltre avvalersi delle eccezioni previste dal pertinente trattato o, in mancanza di questo, dalla legge federale del 18 dicembre 1987[^81-2] sul diritto internazionale privato, sempre che un tribunale svizzero non abbia già pronunciato su tali eccezioni.[^81-3]
 
 [^81-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^81-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^81-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^81-3]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 3. Mediante rigetto provvisorio
@@ -1458,7 +1474,7 @@ Se, dopo aver sentito le parti ed esaminato i documenti prodotti, il tribunale r
 <sup>3</sup> In eccezione all’articolo 63 del Codice delle obbligazioni (CO)[^86-2], per avere diritto alla restituzione è sufficiente provare l’inesistenza del debito.[^86-3]
 
 [^86-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^86-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^86-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^86-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### G. Esecuzione in via di realizzazione del pegno ed esecuzione cambiaria
@@ -1541,7 +1557,7 @@ Il debitore è tenuto, sotto minaccia di pena:
 <sup>6</sup> L’ufficio d’esecuzione ricorda esplicitamente agli interessati i loro obblighi come pure le conseguenze penali dell’inosservanza.
 
 [^91-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^91-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^91-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^91-3]: [RU 2005 79](https://fedlex.data.admin.ch/eli/oc/2005/15)
 
 ### 4. Beni impignorabili
@@ -1552,19 +1568,19 @@ Il debitore è tenuto, sotto minaccia di pena:
 
 Sono impignorabili:
 
-- [tab] 1.[^92-1] gli oggetti destinati all’uso personale del debitore o della sua famiglia, quali abiti, effetti personali, utensili, utensili di casa, mobili o altri oggetti, in quanto indispensabili a garantire una qualità minima di vita;
-- [tab] 1*a*.[^92-2] gli animali domestici non tenuti a scopo patrimoniale o lucrativo;
-- [tab] 2.[^92-3] i libri religiosi e gli oggetti del culto;
-- [tab] 3.[^92-4] gli arnesi, gli apparecchi, gli strumenti e i libri, in quanto siano necessari al debitore e alla sua famiglia per l’esercizio della professione;
-- [tab] 4.[^92-5] a scelta del debitore, due vacche da latte, due giovenche, quattro capre o pecore, oltre al bestiame minuto, col foraggio e con la paglia necessari per quattro mesi, quando detti animali siano indispensabili al sostentamento del debitore e della sua famiglia o al mantenimento della sua azienda;
-- [tab] 5.[^92-6] le provviste di vitto e di combustibile necessarie al debitore ed alla sua famiglia per i due mesi successivi al pignoramento, ovvero il denaro liquido o i crediti indispensabili per acquistarli;
-- [tab] 6.[^92-7] gli effetti di abbigliamento, di equipaggiamento e armamento, il cavallo di servizio e il soldo di un militare, l’importo giornaliero per le piccole spese versato a chi presta servizio civile, nonché gli effetti di abbigliamento e di equipaggiamento e l’indennità di una persona tenuta a prestare servizio di protezione civile;
-- [tab] 7.[^92-8] il diritto a rendite vitalizie costituite giusta gli articoli 516 a 520 CO[^92-9];
-- [tab] 8.[^92-10] le prestazioni d’assistenza e i sussidi elargiti da associazioni o casse di beneficenza o di soccorso in caso di malattia, indigenza o morte, come pure da altre simili istituzioni;
+- 1\.[^92-1] gli oggetti destinati all’uso personale del debitore o della sua famiglia, quali abiti, effetti personali, utensili, utensili di casa, mobili o altri oggetti, in quanto indispensabili a garantire una qualità minima di vita;
+- 1*a*.[^92-2] gli animali domestici non tenuti a scopo patrimoniale o lucrativo;
+- 2\.[^92-3] i libri religiosi e gli oggetti del culto;
+- 3\.[^92-4] gli arnesi, gli apparecchi, gli strumenti e i libri, in quanto siano necessari al debitore e alla sua famiglia per l’esercizio della professione;
+- 4\.[^92-5] a scelta del debitore, due vacche da latte, due giovenche, quattro capre o pecore, oltre al bestiame minuto, col foraggio e con la paglia necessari per quattro mesi, quando detti animali siano indispensabili al sostentamento del debitore e della sua famiglia o al mantenimento della sua azienda;
+- 5\.[^92-6] le provviste di vitto e di combustibile necessarie al debitore ed alla sua famiglia per i due mesi successivi al pignoramento, ovvero il denaro liquido o i crediti indispensabili per acquistarli;
+- 6\.[^92-7] gli effetti di abbigliamento, di equipaggiamento e armamento, il cavallo di servizio e il soldo di un militare, l’importo giornaliero per le piccole spese versato a chi presta servizio civile, nonché gli effetti di abbigliamento e di equipaggiamento e l’indennità di una persona tenuta a prestare servizio di protezione civile;
+- 7\.[^92-8] il diritto a rendite vitalizie costituite giusta gli articoli 516 a 520 CO[^92-9];
+- 8\.[^92-10] le prestazioni d’assistenza e i sussidi elargiti da associazioni o casse di beneficenza o di soccorso in caso di malattia, indigenza o morte, come pure da altre simili istituzioni;
 - 9\.[^92-11] le rendite, indennità in capitale e altre prestazioni elargite alla vittima o ai suoi parenti per lesioni corporali, danno alla salute o morte d’uomo, in quanto costituiscano indennità a titolo di riparazione morale, o risarcimento per le spese di cura o per l’acquisto di mezzi ausiliari;
-- [tab] 9*a*.[^92-12] le rendite giusta l’articolo 20 della legge federale del 20 dicembre 1946[^92-13] sull’assicurazione per la vecchiaia e per i superstiti o giusta l’articolo 50 della legge federale del 19 giugno 1959[^92-14], sull’assicurazione per l’invalidità le prestazioni giusta l’articolo 12 della legge federale del 19 marzo 1965[^92-15] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità, come pure le prestazioni delle casse di compensazione per indennità familiari;
+- 9*a*.[^92-12] le rendite giusta l’articolo 20 della legge federale del 20 dicembre 1946[^92-13] sull’assicurazione per la vecchiaia e per i superstiti o giusta l’articolo 50 della legge federale del 19 giugno 1959[^92-14], sull’assicurazione per l’invalidità le prestazioni giusta l’articolo 12 della legge federale del 19 marzo 1965[^92-15] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità, come pure le prestazioni delle casse di compensazione per indennità familiari;
 - 10\.[^92-16] i diritti non ancora esigibili a prestazioni previdenziali e al libero passaggio nei confronti di fondi di previdenza professionale;
-- [tab] 11.[^92-17] i beni destinati a svolgere compiti di pubblico imperio appartenenti a uno Stato estero o a una banca centrale estera.
+- 11\.[^92-17] i beni destinati a svolgere compiti di pubblico imperio appartenenti a uno Stato estero o a una banca centrale estera.
 
 <sup>2</sup> Sono inoltre impignorabili gli oggetti per i quali vi è senz’altro da presumere che il ricavo eccederebbe di così poco la somma delle spese da non giustificare la loro realizzazione. Tali oggetti devono tuttavia essere indicati nel verbale di pignoramento con il loro valore di stima.[^92-18]
 
@@ -1580,20 +1596,20 @@ Sono impignorabili:
 [^92-6]: Nuovo testo giusta l’art. 3 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
 [^92-7]: Nuovo testo giusta l’all. n. 4 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^92-8]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-9]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^92-9]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^92-10]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-11]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-12]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-13]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^92-14]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^92-15]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2649_2703_2483)n. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)n. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Ora: giusta l’art. 20 della LF del 6. ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^92-13]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^92-14]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^92-15]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2649_2703_2483)n. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)n. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Ora: giusta l’art. 20 della LF del 6. ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
 [^92-16]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-17]: Introdotto dall’art. 3 della LF del 28 set. 1949 (R **1950** I 57). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-18]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-19]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-20]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^92-21]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^92-22]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Ora: l’art 83 cpv. 2.
+[^92-20]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^92-21]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^92-22]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Ora: l’art 83 cpv. 2.
 [^92-23]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Redditi limitatamente pignorabili
@@ -1671,7 +1687,7 @@ I crediti del debitore verso il suo coniuge o il suo partner registrato sono pig
 
 <sup>2</sup> Gli atti di disposizione del debitore sono nulli in quanto ne siano pregiudicati i diritti che il creditore ha acquisito col pignoramento, sotto riserva degli effetti dell’acquisto del possesso da parte di terzi di buona fede.[^96-3]
 
-[^96-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^96-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^96-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^96-3]: Introdotto dall’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
 
@@ -1776,7 +1792,7 @@ A richiesta dell’ufficio, il creditore deve anticipare le spese di conservazio
 <sup>3</sup> Dopo la realizzazione, i terzi possono far valere al di fuori della procedura esecutiva le pretese fondate sul diritto civile in caso di furto, smarrimento o privazione contro la sua volontà di cosa mobile (art. 934 e 935 CC[^106-2]) oppure in caso di acquisizione in mala fede (art. 936 e 974 cpv. 3 CC). La vendita a trattative private giusta l’articolo 130 della presente legge è equiparata alla vendita all’asta pubblica ai sensi dell’articolo 934 capoverso 2 CC.
 
 [^106-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^106-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^106-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Seguito della procedura
 
@@ -1891,9 +1907,9 @@ Hanno diritto di partecipare, senza preventiva esecuzione, al pignoramento duran
 [^111-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^111-2]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^111-3]: Nuovo testo giusta l’all. n. 12 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^111-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^111-5]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^111-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^111-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^111-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^111-7]: Nuovo testo giusta l’all. n. 12 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^111-8]: Per. abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -2053,7 +2069,9 @@ L’esecuzione è perenta se la domanda di realizzazione non è stata fatta nel 
 
 #### Art. 125
 
-<sup>1</sup> La realizzazione si fa ai pubblici incanti, dei quali sono resi noti precedentemente il luogo, il giorno e l’ora.<sup>2</sup> La forma di pubblicazione del bando, il modo, il tempo ed il luogo degli incanti sono determinati dall’ufficiale col maggior riguardo possibile agli interessi delle parti. Non è richiesta l’inserzione del bando nel foglio ufficiale.
+<sup>1</sup> La realizzazione si fa ai pubblici incanti, dei quali sono resi noti precedentemente il luogo, il giorno e l’ora.
+
+<sup>2</sup> La forma di pubblicazione del bando, il modo, il tempo ed il luogo degli incanti sono determinati dall’ufficiale col maggior riguardo possibile agli interessi delle parti. Non è richiesta l’inserzione del bando nel foglio ufficiale.
 
 <sup>3</sup> Quando il debitore, il creditore e i terzi interessati abbiano in Svizzera una dimora conosciuta o un rappresentante, l’ufficio d’esecuzione li avvisa con lettera semplice, almeno tre giorni prima, del giorno, dell’ora e del luogo dell’incanto.[^125-1]
 
@@ -2104,7 +2122,7 @@ Gli oggetti di metallo prezioso non si possono aggiudicare per un prezzo inferio
 <sup>4</sup> Il precedente deliberatario ed i suoi fideiussori rispondono della minor somma ricavata e d’ogni altro danno. Gli interessi perduti sono calcolati nella misura del cinque per cento.
 
 [^129-1]: Nuovo testo giusta il n. I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^129-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^129-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^129-3]: Nuovo testo giusta il n. I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^129-4]: Nuovo testo giusta l’art. 7 della LF del 8 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
 
@@ -2197,7 +2215,7 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 
 <sup>2</sup> Le condizioni dell’incanto stabiliscono inoltre quali spese debba sostenere il deliberatario.
 
-[^135-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^135-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^135-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Modo di pagamento
@@ -2211,7 +2229,7 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 <sup>2</sup> Il pagamento può essere effettuato in contanti fino a 100 000 franchi. Se il prezzo è superiore, il pagamento della parte eccedente tale importo deve essere effettuato per il tramite di un intermediario finanziario ai sensi della legge del 10 ottobre 1997[^136-2] sul riciclaggio di denaro.
 
 [^136-1]: Nuovo testo giusta il n. I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^136-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^136-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Termine per il pagamento
 
@@ -2237,7 +2255,7 @@ Il bando contiene:
 
 - 1\. il luogo, il giorno e l’ora dell’incanto;
 - 2\. l’indicazione del giorno dal quale saranno esposte le condizioni dell’incanto;
-- [tab] 3.[^138-1] l’ingiunzione ai creditori ipotecari e a tutti gli altri interessati di insinuare all’ufficio d’esecuzione, entro venti giorni, le loro pretese sul fondo, specialmente per interessi e spese. L’ingiunzione deve contenere la comminatoria che, scaduto il termine predetto, essi potranno partecipare alla somma ricavata dalla realizzazione soltanto in quanto i loro diritti siano iscritti nel registro fondiario.
+- 3\.[^138-1] l’ingiunzione ai creditori ipotecari e a tutti gli altri interessati di insinuare all’ufficio d’esecuzione, entro venti giorni, le loro pretese sul fondo, specialmente per interessi e spese. L’ingiunzione deve contenere la comminatoria che, scaduto il termine predetto, essi potranno partecipare alla somma ricavata dalla realizzazione soltanto in quanto i loro diritti siano iscritti nel registro fondiario.
 
 <sup>3</sup> Simile ingiunzione è diretta anche ai possessori di servitù, in quanto sia ancora applicabile il diritto cantonale.[^138-2]
 
@@ -2474,8 +2492,8 @@ La domanda d’esecuzione per un credito garantito da pegno (art. 37) deve enunc
 <sup>2</sup> Il creditore che domanda l’esecuzione per la realizzazione di un pegno manuale sul quale gravi un diritto di pegno posteriore di un terzo (art. 886 CC) deve informarne quest’ultimo.
 
 [^151-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 [RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^151-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^151-3]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^151-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^151-3]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^151-4]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### B. Precetto esecutivo
@@ -2495,7 +2513,7 @@ Ricevuta la domanda d’esecuzione, l’ufficio d’esecuzione stende il precett
 
 [^152-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^152-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^152-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^152-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^152-4]: Introdotto dall’art. 58 Tit. fin. CC ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Stesura. Situazione del terzo proprietario del pegno
@@ -2519,8 +2537,8 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 [^153-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 [RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-2]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^153-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^153-4]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^153-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^153-4]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^153-5]: Introdotto dall’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^153-6]: Introdotto dall’art. 58 Tit. fin. CC ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-7]: Primitivo cpv. 3.
@@ -2599,7 +2617,7 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 <sup>3</sup> L’attestato di insufficienza del pegno vale quale riconoscimento di debito ai sensi dell’articolo 82.[^158-4]
 
 [^158-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^158-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^158-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^158-3]: Nuovo testo giusta il n. II 4 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 [^158-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -2629,8 +2647,8 @@ La comminatoria di fallimento contiene:
 
 - 1\. le indicazioni della domanda d’esecuzione;
 - 2\. la data del precetto;
-- [tab] 3.[^160-1] l’avvertenza che, scaduto il termine di venti giorni, il creditore potrà chiedere il fallimento del debitore;
-- [tab] 4.[^160-2] l’avvertenza che il debitore che intende contestare l’ammissibilità della procedura di fallimento può ricorrere entro dieci giorni all’autorità di vigilanza (art. 17).
+- 3\.[^160-1] l’avvertenza che, scaduto il termine di venti giorni, il creditore potrà chiedere il fallimento del debitore;
+- 4\.[^160-2] l’avvertenza che il debitore che intende contestare l’ammissibilità della procedura di fallimento può ricorrere entro dieci giorni all’autorità di vigilanza (art. 17).
 
 <sup>2</sup> Si ricorderà inoltre al debitore che la legge gli permette di proporre un concordato.
 
@@ -2681,7 +2699,7 @@ A richiesta del creditore, il giudice del fallimento, quando lo reputi opportuno
 <sup>2</sup> L’ufficiale ricorda esplicitamente al debitore i suoi doveri come pure le conseguenze penali dell’inosservanza.
 
 [^164-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^164-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^164-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### b. Durata
 
@@ -2752,7 +2770,7 @@ Il giudice decide seduta stante anche in assenza delle parti. Egli dichiara il f
 Il giudice rigetta la domanda di fallimento:
 
 - 1\. quando la comminatoria sia stata annullata dall’autorità di vigilanza;
-- [tab] 2.[^172-1] quando al debitore siano stati restituiti i termini (art. 33 cpv. 4) o quando egli sia stato ammesso al beneficio dell’opposizione tardiva (art. 77);
+- 2\.[^172-1] quando al debitore siano stati restituiti i termini (art. 33 cpv. 4) o quando egli sia stato ammesso al beneficio dell’opposizione tardiva (art. 77);
 - 3\. quando il debitore provi con documenti che il debito, compresi gli interessi e le spese, è stato estinto o che il creditore gli ha concesso una dilazione.
 
 [^172-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -2800,7 +2818,7 @@ Il giudice rigetta la domanda di fallimento:
 <sup>2</sup> Sottostanno alla competenza della FINMA in materia di fallimento unicamente i debitori che dispongono della necessaria autorizzazione della FINMA.[^173b-3]
 
 [^173b-1]: Introdotto dal n. II 1 della LF del 3 ott. 2003 ([RU 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Nuovo testo giusta l’all. n. II 5 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^173b-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^173b-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^173b-3]: Introdotto dall’all. n. 3 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### 4. Impugnazione
@@ -2822,7 +2840,7 @@ L’autorità giudiziaria superiore può annullare la dichiarazione di falliment
 <sup>3</sup> Se accorda effetto sospensivo al reclamo, l’autorità giudiziaria superiore prende i necessari provvedimenti cautelari a tutela dei creditori.
 
 [^174-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^174-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^174-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### E. Momento dell’apertura del fallimento
 
@@ -2874,9 +2892,9 @@ Il giudice comunica senza indugio agli uffici d’esecuzione, agli uffici dei fa
 Il precetto contiene:
 
 - 1\. le indicazioni della domanda d’esecuzione;
-- [tab] 2.[^178-1] l’ingiunzione di pagare al creditore, entro cinque giorni, il credito e le spese d’esecuzione;
-- [tab] 3.[^178-2] l’avvertenza che il debitore può fare opposizione (art. 179) o ricorrere all’autorità di vigilanza per violazione delle disposizioni della presente legge (art. 17 e 20);
-- [tab] 4.[^178-3] l’indicazione che il creditore può domandare il fallimento, se il debitore non ottempera al precetto esecutivo, benché non sia stata fatta opposizione o questa non sia stata ammessa (art. 188).
+- 2\.[^178-1] l’ingiunzione di pagare al creditore, entro cinque giorni, il credito e le spese d’esecuzione;
+- 3\.[^178-2] l’avvertenza che il debitore può fare opposizione (art. 179) o ricorrere all’autorità di vigilanza per violazione delle disposizioni della presente legge (art. 17 e 20);
+- 4\.[^178-3] l’indicazione che il creditore può domandare il fallimento, se il debitore non ottempera al precetto esecutivo, benché non sia stata fatta opposizione o questa non sia stata ammessa (art. 188).
 
 <sup>3</sup> Sono applicabili gli articoli 70 e 72.
 
@@ -2930,7 +2948,7 @@ Il giudice ammette l’opposizione:
 - 4\.[^182-1] quando sia opposta un’altra eccezione fondata sull’articolo 1007 del CO[^182-2] ed essa sembri attendibile; in questo caso, tuttavia, il debitore deve depositare l’importo del credito in denaro o in valori oppure fornire una garanzia equivalente.
 
 [^182-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^182-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^182-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 5. Rigetto dell’opposizione. Provvedimenti conservativi
 
@@ -2961,7 +2979,7 @@ Il giudice ammette l’opposizione:
 La decisione sull’ammissibilità dell’opposizione può essere impugnata entro cinque giorni mediante reclamo secondo il CPC[^185-2].
 
 [^185-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^185-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^185-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Effetti dell’ammissione dell’opposizione
 
@@ -3051,7 +3069,7 @@ L’autorità competente informa il giudice qualora:
 <sup>3</sup> La liquidazione in via di fallimento può essere chiesta anche da un creditore o da un erede.
 
 [^193-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^193-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^193-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### E. Procedura
 
@@ -3240,7 +3258,7 @@ prima di dieci giorni dopo la seconda assemblea dei creditori e, in caso di liqu
 <sup>2</sup> Per le pretese derivanti da rendite vitalizie è applicabile l’articolo 518 capoverso 3 del CO[^210-2].
 
 [^210-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^210-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^210-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Conversione in crediti pecuniari
 
@@ -3255,9 +3273,9 @@ prima di dieci giorni dopo la seconda assemblea dei creditori e, in caso di liqu
 <sup>3</sup> Sono salve le disposizioni di altre leggi federali sullo scioglimento di contratti in caso di fallimento, come pure le disposizioni sulla riserva di proprietà (art. 715 e 716 CC[^211-4]).[^211-5]
 
 [^211-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^211-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^211-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^211-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^211-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^211-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^211-5]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D<sup>bis</sup>. Contratti di durata
@@ -3292,7 +3310,7 @@ Il venditore che prima della dichiarazione di fallimento avesse consegnato al fa
 
 La compensazione non ha luogo:
 
-- [tab] 1.[^213-1] quando un debitore del fallito diventi creditore di lui soltanto dopo la dichiarazione di fallimento, sempreché non abbia adempito un’obbligazione sorta precedentemente o abbia riscattato una cosa data in pegno per un debito del fallito e gli competa su questa cosa la proprietà o un diritto reale limitato (art. 110 n. 1 CO[^213-2]);
+- 1\.[^213-1] quando un debitore del fallito diventi creditore di lui soltanto dopo la dichiarazione di fallimento, sempreché non abbia adempito un’obbligazione sorta precedentemente o abbia riscattato una cosa data in pegno per un debito del fallito e gli competa su questa cosa la proprietà o un diritto reale limitato (art. 110 n. 1 CO[^213-2]);
 - 2\. quando un creditore del fallito diventi debitore di lui o della massa soltanto dopo la dichiarazione di fallimento;
 - 3\.[^213-3] ...
 
@@ -3301,7 +3319,7 @@ La compensazione non ha luogo:
 <sup>4</sup> In caso di fallimento di una società in accomandita, di una società anonima, di una società in accomandita per azioni, di una società a responsabilità limitata o di una società cooperativa, non si possono compensare le quote non versate del capitale accomandato o del capitale sociale, né gli arretrati dei contributi statutari di una società cooperativa.[^213-5]
 
 [^213-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^213-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^213-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^213-3]: Abrogato dall’art. 13 della LF del 28 set. 1949, con effetto dal 1° feb. 1950 (RU **1950** I 57).
 [^213-4]: Introdotto dall’art. 13 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
 [^213-5]: Originario cpv. 3. Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -3322,7 +3340,7 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 
 <sup>2</sup> La massa è surrogata nei diritti del creditore verso il debitore principale e i coobbligati fino a concorrenza della somma che ha pagato (art. 507 CO[^215-1]). Tuttavia, se viene dichiarato il fallimento anche del debitore principale o di un coobbligato, si applicano gli articoli 216 e 217.[^215-2]
 
-[^215-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^215-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^215-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Fallimento contemporaneo di più coobbligati
@@ -3382,9 +3400,9 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 [^219-subdivu2-1]: Nuovo testo giusta il n. I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^219-subdivu2-2]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^219-subdivu2-3]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^219-subdivu2-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^219-subdivu2-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^219-subdivu2-5]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^219-subdivu2-6]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^219-subdivu2-6]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### Seconda classe
 
@@ -3400,13 +3418,13 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 - [tab] e.[^219-subdivu3-6]...
 - f.[^219-subdivu3-7] I depositi di cui all’articolo 37*a* della legge dell’8 novembre 1934[^219-subdivu3-8] sulle banche.
 
-[^219-subdivu3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^219-subdivu3-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^219-subdivu3-4]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Ora : LF del 25 set. 1952 sulle indennità di perdita di guadagno per chi presta servizio e in caso di maternità.
-[^219-subdivu3-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^219-subdivu3-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^219-subdivu3-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^219-subdivu3-4]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Ora: LF del 25 set. 1952 sulle indennità di perdita di guadagno per chi presta servizio e in caso di maternità.
+[^219-subdivu3-5]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 [^219-subdivu3-6]: Introdotta dall’art. 111 n. 1 della LF del 12 giu. 2009 sull’IVA ([RU 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [FF 2008 6033](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Abrogata dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^219-subdivu3-7]: Introdotta dall’all. n. 2 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^219-subdivu3-8]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^219-subdivu3-8]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### Terza classe
 
@@ -3468,7 +3486,21 @@ Non si computano nei termini stabiliti per la prima e seconda classe:
 <sup>6</sup> L’ufficio dei fallimenti ricorda esplicitamente agli interessati i loro obblighi come pure le conseguenze penali dell’inosservanza.
 
 [^222-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^222-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^222-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+### B<sup>bis</sup>. Consegna e apertura di invii postali
+
+#### Art. 222a
+
+[^222a-1]
+
+<sup>1</sup> Per la durata del fallimento, l’ufficio del fallimento può chiedere ai fornitori di servizi postali di concedergli l’accesso agli invii postali indirizzati al debitore e di farseli consegnare.
+
+<sup>2</sup> L’ufficio del fallimento è autorizzato ad aprire gli invii postali consegnatigli, a meno che non appaia evidente che il loro contenuto non riveste alcuna importanza per la liquidazione del fallimento.
+
+<sup>3</sup> Il debitore ha il diritto di assistere all’apertura degli invii postali.
+
+[^222a-1]: Introdotto dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### C. Misure cautelari
 
@@ -3532,7 +3564,7 @@ Nell’inventario si indica il prezzo di stima di ogni singolo oggetto.
 
 <sup>3</sup> L’amministrazione del fallimento determina a quali condizioni e fino a quando il fallito e la sua famiglia possono rimanere nell’abitazione, sempreché questa faccia parte della massa.[^229-3]
 
-[^229-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^229-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^229-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^229-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3544,14 +3576,14 @@ Nell’inventario si indica il prezzo di stima di ogni singolo oggetto.
 
 <sup>1</sup> Se è prevedibile che la massa non sarà sufficiente per coprire le spese della procedura sommaria, il giudice del fallimento ordina, su istanza dell’ufficio dei fallimenti, la sospensione della procedura di fallimento.[^230-1]
 
-<sup>2</sup> L’ufficio dei fallimenti pubblica la sospensione della procedura di fallimento. La pubblicazione avverte che la procedura sarà chiusa se entro dieci giorni nessun creditore ne chiederà la continuazione fornendo la garanzia richiesta per la quota di spese non coperte dalla massa.[^230-2]
+<sup>2</sup> L’ufficio dei fallimenti pubblica la sospensione della procedura di fallimento e comunica con lettera non raccomandata tale decisione ai creditori conosciuti. La pubblicazione avverte che la procedura sarà chiusa se entro venti giorni nessun creditore ne chiederà la continuazione fornendo la garanzia richiesta per la quota di spese non coperte dalla massa.[^230-2]
 
 <sup>3</sup> Durante i due anni dopo la sospensione della liquidazione, il debitore può essere escusso anche in via di pignoramento.[^230-3]
 
 <sup>4</sup> Dopo la sospensione della procedura di fallimento, le esecuzioni promosse prima della dichiarazione di fallimento riprendono il loro corso. Il tempo trascorso tra la dichiarazione di fallimento e la sospensione non si computa nei termini previsti dalla presente legge.[^230-4]
 
 [^230-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^230-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^230-2]: Nuovo testo giusta il n. I 2 della LF del 18 mar. 2022 (Modifica del Codice delle obbligazioni, della legge federale sulla esecuzione e sul fallimento, del Codice penale, del Codice penale militare, della legge sul casellario giudiziale e della legge federale sull’imposta federale diretta), in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^230-3]: Introdotto dall’art. 15 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
 [^230-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3614,16 +3646,16 @@ La liquidazione sommaria ha luogo secondo le regole della procedura ordinaria, f
 La pubblicazione contiene:
 
 - 1\. la designazione del fallito e del suo domicilio, nonché la data della dichiarazione di fallimento;
-- [tab] 2.[^232-2] l’ingiunzione ai creditori del fallito e a tutti coloro che vantano pretese sui beni che sono in suo possesso d’insinuare all’ufficio dei fallimenti, entro un mese dalla pubblicazione, i loro crediti o le loro pretese insieme con i mezzi di prova (riconoscimenti di debito, estratti di libri ecc.);
-- [tab] 3.[^232-3] l’ingiunzione ai debitori del fallito di annunciarsi all’ufficio dei fallimenti entro il termine per le insinuazioni, nonché l’avvertenza circa le conseguenze penali dell’omissione (art. 324 n. 2 CP[^232-4]);
-- [tab] 4.[^232-5] l’ingiunzione a coloro che posseggono oggetti del fallito a titolo di pegno o per altro titolo, di porli a disposizione dell’ufficio dei fallimenti entro il termine per le insinuazioni, nonché l’avvertenza circa le conseguenze penali dell’omissione (art. 324 n. 3 CP) e l’avviso che, ove questa non sia giustificata, i diritti di prelazione saranno estinti;
-- [tab] 5.[^232-6] la convocazione della prima assemblea dei creditori, che deve aver luogo al più tardi entro venti giorni dalla pubblicazione e alla quale possono intervenire anche i condebitori e i fideiussori del fallito, come pure gli obbligati in via di regresso;
-- [tab] 6.[^232-7] l’avvertenza che per gli interessati residenti all’estero l’ufficio dei fallimenti vale quale luogo per la notificazione, fintanto che non ne venga designato un altro in Svizzera.
+- 2\.[^232-2] l’ingiunzione ai creditori del fallito e a tutti coloro che vantano pretese sui beni che sono in suo possesso d’insinuare all’ufficio dei fallimenti, entro un mese dalla pubblicazione, i loro crediti o le loro pretese insieme con i mezzi di prova (riconoscimenti di debito, estratti di libri ecc.);
+- 3\.[^232-3] l’ingiunzione ai debitori del fallito di annunciarsi all’ufficio dei fallimenti entro il termine per le insinuazioni, nonché l’avvertenza circa le conseguenze penali dell’omissione (art. 324 n. 2 CP[^232-4]);
+- 4\.[^232-5] l’ingiunzione a coloro che posseggono oggetti del fallito a titolo di pegno o per altro titolo, di porli a disposizione dell’ufficio dei fallimenti entro il termine per le insinuazioni, nonché l’avvertenza circa le conseguenze penali dell’omissione (art. 324 n. 3 CP) e l’avviso che, ove questa non sia giustificata, i diritti di prelazione saranno estinti;
+- 5\.[^232-6] la convocazione della prima assemblea dei creditori, che deve aver luogo al più tardi entro venti giorni dalla pubblicazione e alla quale possono intervenire anche i condebitori e i fideiussori del fallito, come pure gli obbligati in via di regresso;
+- 6\.[^232-7] l’avvertenza che per gli interessati residenti all’estero l’ufficio dei fallimenti vale quale luogo per la notificazione, fintanto che non ne venga designato un altro in Svizzera.
 
 [^232-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^232-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^232-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^232-5]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-6]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-7]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -4159,7 +4191,7 @@ Per i crediti scaduti, in quanto non siano garantiti da pegno, il creditore può
 [^271-2]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^271-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^271-4]: Introdotto dall’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^271-5]: [RS 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
+[^271-5]: [RS 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^271-6]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### B. Concessione del sequestro
@@ -4254,7 +4286,7 @@ Gli oggetti sequestrati sono lasciati a disposizione del debitore, ove presti ga
 <sup>4</sup> L’opposizione e il reclamo non ostacolano l’efficacia del sequestro.
 
 [^278-1]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^278-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^278-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### I. Convalida del sequestro
 
@@ -4280,7 +4312,7 @@ I termini previsti dal presente articolo rimangono sospesi:
 [^279-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^279-2]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^279-3]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^279-4]: [RS 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
+[^279-4]: [RS 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^279-5]: Introdotto dall’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### K. Revoca del sequestro
@@ -4351,7 +4383,7 @@ Ove tali oggetti siano stati asportati clandestinamente o con violenza, potranno
 
 <sup>3</sup> L’esecuzione si prosegue in via di fallimento. Il fallimento verte unicamente sui beni in trust.
 
-[^284a-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^284a-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### B. Fallimento di un trustee
 
@@ -4379,7 +4411,7 @@ In caso di fallimento di un trustee, i beni in trust vengono separati dalla mass
 
 Possono domandare la revocazione:
 
-- [tab] 1.[^285-2] i creditori che hanno ottenuto un attestato provvisorio o definitivo di carenza di beni dopo pignoramento;
+- 1\.[^285-2] i creditori che hanno ottenuto un attestato provvisorio o definitivo di carenza di beni dopo pignoramento;
 - 2\. l’amministrazione del fallimento o, a termini degli articoli 260 e 269 capoverso 3, i singoli creditori.
 
 <sup>3</sup> Non sono revocabili gli atti compiuti durante una moratoria concordataria, per quanto siano stati autorizzati da un giudice del concordato o da una delegazione dei creditori (art. 295*a*).[^285-3]
@@ -4404,7 +4436,7 @@ Possono domandare la revocazione:
 Sono equiparati alle donazioni:
 
 - 1\. gli atti pei quali il debitore avesse accettato un correspettivo non proporzionato alla sua prestazione;
-- [tab] 2.[^286-2] gli atti mediante i quali il debitore avesse costituito a sé o ad altri una rendita vitalizia, un vitalizio, un usufrutto o un diritto di abitazione.
+- 2\.[^286-2] gli atti mediante i quali il debitore avesse costituito a sé o ad altri una rendita vitalizia, un vitalizio, un usufrutto o un diritto di abitazione.
 
 <sup>3</sup> Se è chiesta la revocazione di un atto compiuto a favore di una persona vicina al debitore, incombe a tale persona provare che non vi è sproporzione tra prestazione e correspettivo. Sono considerate persone vicine anche le società facenti parte di un gruppo.[^286-3]
 
@@ -4420,7 +4452,7 @@ Sono equiparati alle donazioni:
 
 Sono revocabili i seguenti atti che il debitore in stato d’insolvenza avesse compiuto nell’anno precedente il pignoramento o la dichiarazione di fallimento:[^287-1]
 
-- [tab] 1.[^287-2] la costituzione di garanzie per obbligazioni preesistenti per le quali il debitore non si era già prima obbligato a prestar garanzia;
+- 1\.[^287-2] la costituzione di garanzie per obbligazioni preesistenti per le quali il debitore non si era già prima obbligato a prestar garanzia;
 - 2\. l’estinzione di un debito pecuniario che non sia stata eseguita con danaro o con altri mezzi usuali di pagamento;
 - 3\. il pagamento di un debito non scaduto.
 
@@ -4516,7 +4548,7 @@ L’azione revocatoria si prescrive in:
 <sup>2</sup> In caso di riconoscimento di un decreto straniero di fallimento, non si computa il tempo trascorso tra l’istanza di riconoscimento e la pubblicazione di cui all’articolo 169 LDIP[^292-2].
 
 [^292-1]: Nuovo testo giusta il n. III della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^292-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^292-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## Titolo undecimo: Della procedura concordataria
 
@@ -4677,7 +4709,7 @@ Il commissario ha segnatamente i compiti seguenti:
 <sup>2</sup> Al reclamo contro la concessione della moratoria concordataria non può essere attribuito l’effetto sospensivo.
 
 [^295c-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^295c-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^295c-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 6. Pubblicazione
 
@@ -4702,7 +4734,7 @@ Il giudice del concordato pubblica la concessione della moratoria e la comunica 
 <sup>3</sup> La decisione di annullamento può essere impugnata mediante reclamo secondo il CPC[^296a-2].
 
 [^296a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^296a-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^296a-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Dichiarazione di fallimento
 
@@ -4847,7 +4879,7 @@ Con il consenso del commissario e dietro indennizzo del cocontraente, il debitor
 
 <sup>3</sup> Il creditore può altresì, senza pregiudizio dei suoi diritti, autorizzare i condebitori, fideiussori e obbligati in via di regresso a deliberare in sua vece sull’adesione al concordato.
 
-[^303-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^303-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### H. Relazione del commissario; pubblicazione dell’udienza d’omologa-zione
 
@@ -4934,7 +4966,7 @@ Su domanda di un creditore interessato e dopo aver sentito il debitore, il giudi
 <sup>2</sup> Il reclamo ha effetto sospensivo, sempreché l’autorità giudiziaria superiore non disponga diversamente.
 
 [^307-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^307-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^307-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 4. Comunicazione e pubblicazione
 
@@ -4991,7 +5023,7 @@ L’omologazione del concordato produce estinzione di tutte le esecuzioni promos
 
 È nulla ogni promessa con cui il debitore assicuri ad un creditore più di quanto gli spetti secondo i termini del concordato (art. 20 CO[^312-1]).
 
-[^312-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^312-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Revoca del concordato
 
@@ -5001,7 +5033,7 @@ L’omologazione del concordato produce estinzione di tutte le esecuzioni promos
 
 <sup>2</sup> Gli articoli 307 a 309 sono applicabili per analogia.
 
-[^313-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^313-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Del concordato ordinario
 
@@ -5119,7 +5151,7 @@ Eccezion fatta per i casi in cui gli attivi siano trasferiti a un terzo, i fondi
 
 <sup>2</sup> Se tuttavia l’interesse della massa esige che il pegno sia realizzato, i liquidatori possono assegnare al creditore pignoratizio un termine non inferiore a sei mesi per procedere alla realizzazione. Contemporaneamente, essi ingiungono al creditore pignoratizio, sotto minaccia di pena (art. 324 n. 4 CP[^324-1]), di consegnare loro il pegno dopo la scadenza del termine per la realizzazione, e lo avvisano che, se la mancata consegna non è giustificata, il diritto preferenziale sarà estinto.
 
-[^324-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^324-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Cessione di pretese ai creditori
 
@@ -5267,15 +5299,11 @@ In circostanze straordinarie, soprattutto nel caso di crisi economica persistent
 
 <sup>1</sup> Il giudice del concordato compie le indagini che ancora fossero necessarie e, quando la domanda non risulti senz’altro infondata, cita, mediante pubblico avviso, tutti i creditori ad una discussione orale; ove occorra, saranno assunti dei periti.
 
-<sup>2</sup> Se l’elenco dei creditori presentato dal debitore indica un numero relativamente esiguo di creditori e il giudice del concordato lo reputa degno di fede, la convocazione pubblica dei creditori, fideiussori e condebitori può essere sostituita da una citazione personale.[^339-1]
+<sup>2</sup> Se l’elenco dei creditori presentato dal debitore indica un numero relativamente esiguo di creditori e il giudice del concordato lo reputa degno di fede, la convocazione pubblica dei creditori, fideiussori e condebitori può essere sostituita da una citazione personale.
 
-<sup>3</sup> Prima della discussione i creditori possono vedere gli atti e anche presentare per iscritto le loro obiezioni contro la domanda.[^339-2]
+<sup>3</sup> Prima della discussione i creditori possono vedere gli atti e anche presentare per iscritto le loro obiezioni contro la domanda.
 
-<sup>4</sup> Il giudice del concordato decide entro breve termine. Essa può, concedendo la moratoria, imporre al debitore il pagamento di una o più rate.[^339-3]
-
-[^339-1]: Introdotto dall’art. 25 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
-[^339-2]: Primitivi cpv. 2 e 3.
-[^339-3]: Primitivi cpv. 2 e 3.
+<sup>4</sup> Il giudice del concordato decide entro breve termine. Essa può, concedendo la moratoria, imporre al debitore il pagamento di una o più rate.
 
 ### 3. Reclamo
 
@@ -5291,7 +5319,7 @@ In circostanze straordinarie, soprattutto nel caso di crisi economica persistent
 
 <sup>3</sup> La moratoria concessa dal giudice del concordato è operativa fino alla decisione definitiva dell’autorità giudiziaria superiore.[^340-3]
 
-[^340-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^340-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^340-2]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^340-3]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -5319,7 +5347,7 @@ La decisione che concede la moratoria è notificata all’ufficio d’esecuzione
 
 <sup>2</sup> I termini previsti dagli articoli 116, 154, 166, 188, 219, 286, 287 e 288 sono prolungati di un periodo corrispondente alla moratoria. Parimenti, viene prolungata di un periodo corrispondente alla moratoria la garanzia reale per gli interessi dei crediti garantiti da pegno immobiliare (art. 818 cpv. 1 n. 3 CC[^343-1]).
 
-[^343-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Sulla capacità di disporre del debitore
 
@@ -5389,9 +5417,7 @@ Su proposta di un creditore o del commissario, il giudice del concordato deve re
 
 <sup>2</sup> Entro il semestre che segue la scadenza della moratoria straordinaria, non può essere chiesta nè una moratoria ordinaria nè una nuova moratoria straordinaria.
 
-<sup>3</sup> Il debitore, che abbia ritirato la domanda di moratoria straordinaria o la cui domanda sia stata respinta, non può presentare una nuova domanda prima che siano scorsi sei mesi.[^349-1]
-
-[^349-1]: Introdotto dall’art. 28 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
+<sup>3</sup> Il debitore, che abbia ritirato la domanda di moratoria straordinaria o la cui domanda sia stata respinta, non può presentare una nuova domanda prima che siano scorsi sei mesi.
 
 #### Art. 350
 
@@ -5487,7 +5513,7 @@ I privilegi previsti nel diritto previgente si applicano ai fallimenti dichiarat
 
 [^u4-1][^u4-2]
 
-[^u4-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^u4-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^u4-2]: [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 Le ordinanze di esecuzione del Tribunale federale che non derogano materialmente al nuovo diritto rimangono in vigore sino a quando il Consiglio federale non disponga altrimenti.

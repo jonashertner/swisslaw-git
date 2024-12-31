@@ -4,11 +4,11 @@ title: "Lescha federala dals 11 d'avrigl 1889 dadavart la scussiun ed il concurs
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: rm
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20240701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20250101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LSC)[^t-1]
 
-dals 11 d’avrigl 1889 (versiun dal 1. da fanadur 2024)
+dals 11 d’avrigl 1889 (versiun dal 1. da schaner 2025)
 
 [^t-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -29,7 +29,7 @@ sa basond sin l’artitgel 64 da la Constituziun federala[^ingress-1] (Cst.),[^i
 
 concluda:
 
-[^ingress-1]: [BS **1** 3]. A la disposiziun numnada correspunda oz l’art. 122 al. 1 da la Cst. dals 18 d’avr. 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3]. A la disposiziun numnada correspunda oz l’art. 122 al. 1 da la Cst. dals 18 d’avr. 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Versiun tenor la cifra I da la LF dals 24 da mars 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [BBl 1999 9126](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[9547](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)).
 
 ## Emprim titel: Disposiziuns generalas
@@ -213,15 +213,25 @@ Ils funcziunaris ed ils emploiads dals uffizis da scussiun e dals uffizis da con
 [^10-2]: Versiun tenor la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^10-3]: Integrà tras la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### H. Acts giuridics scumandads
+### H. Funcziunaris ed emploiads dals uffizis da scussiun e dals uffizis da concurs
+
+[^tit1-lvlI-lvlH-1]
+
+[^tit1-lvlI-lvlH-1]: Versiun tenor la cifra I 2 da la LF dals 18 da mars 2022 davart il cumbat cunter il concurs abusiv, en vigur dapi il 1. da schan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 #### Art. 11
 
 [^11-1]
 
-Ils funcziunaris ed emploiads dals uffizis da scussiun e dals uffizis da concurs na dastgan betg concluder sin agen quint acts giuridics per pretensiuns ch’els ston incassar u per objects ch’els ston liquidar. Acts giuridics che cuntrafan a questa prescripziun èn nunvalaivels.
+<sup>1</sup> Ils funcziunaris ed emploiads dals uffizis da scussiun e dals uffizis da concurs na dastgan betg concluder sin agen quint acts giuridics per pretensiuns ch’els ston incassar u per objects ch’els ston liquidar. Acts giuridics che cuntrafan a questa prescripziun èn nunvalaivels.
+
+<sup>2</sup> Ils funcziunaris da concurs èn obligads da denunziar a las autoritads da persecuziun penala tut ils crims e delicts che ston vegnir persequitads d’uffizi, ils quals els u las persunas suttamessas ad els constateschan en il rom da lur activitad uffiziala u ils quals vegnan annunziads ad els, e per ils quals indizis concrets èn avant maun.[^11-2]
+
+<sup>3</sup> Sut las medemas cundiziuns è plinavant mintga persuna che lavura per l’uffizi da concurs autorisada da denunziar a las autoritads da persecuziun penala crims e delicts che vegnan persequitads d’uffizi.[^11-3]
 
 [^11-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^11-2]: Integrà tras la cifra I 2 da la LF dals 18 da mars 2022 davart il cumbat cunter il concurs abusiv, en vigur dapi il 1. da schan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^11-3]: Integrà tras la cifra I 2 da la LF dals 18 da mars 2022 davart il cumbat cunter il concurs abusiv, en vigur dapi il 1. da schan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### I. Pajaments a l’uffizi da scussiun
 
@@ -327,7 +337,7 @@ Cunter in funcziunari u emploià pon vegnir prendidas las suandantas mesiras dis
 Il recurs tar il Tribunal federal sa drizza tenor la Lescha federala dals 17 da zercladur 2005[^19-2] davart il Tribunal federal.
 
 [^19-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^19-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^19-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### 4. Termins da recurs per la scussiun sin cambialas
 
@@ -477,7 +487,7 @@ Ils chantuns designeschan ils instituts ch’èn obligads d’acceptar deposits 
 Ils contracts internaziunals e las disposiziuns da la Lescha federala dals 18 da december 1987[^30a-2] davart il dretg internaziunal privat (LDIP) èn resalvadas.
 
 [^30a-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^30a-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^30a-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### II. Differentas prescripziuns
 
@@ -492,7 +502,7 @@ Ils contracts internaziunals e las disposiziuns da la Lescha federala dals 18 da
 Per la calculaziun, per l’observanza e per il decurs dals termins valan las disposiziuns dal Cudesch da procedura civila dals 19 da december 2008[^31-2] (CPC), nun che questa lescha disponia insatge auter.
 
 [^31-1]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^31-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^31-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 2. Observanza
 
@@ -550,7 +560,7 @@ Il Cussegl federal regla:
 - c. las premissas, sut las qualas i po vegnir pretendì ch’ils documents vegnian tramess anc ina giada sin palpiri en cas da problems tecnics.
 
 [^33a-1]: Integrà tras la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)). Versiun tenor la cifra II 6 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^33a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^33a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### B. Consegna
 
@@ -572,7 +582,7 @@ Cun il consentiment da la persuna pertutgada pon communicaziuns, disposiziuns e 
 - d. il mument, il qual la communicaziun, la disposiziun u la decisiun vala sco consegnada.[^34-3]
 
 [^34-1]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^34-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^34-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-3]: Versiun tenor la cifra II 6 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### 2. Tras communicaziun publica
@@ -649,11 +659,11 @@ La scussiun vegn cuntinuada sin via dal concurs, e quai sco «scussiun ordinaria
 
 <sup>3</sup> L’inscripziun ha ses effect pir il di suenter la publicaziun en il Fegl uffizial svizzer da commerzi.
 
-[^39-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^39-2]: Abolì tras la cifra 3 da l’agiunta da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns dal dretg d’aczias, d’associaziuns, dal register da commerzi e da firmas), cun effect dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^39-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^39-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^39-4]: Integrà tras la cifra II 3 da l’agiunta da la LF dals 23 da zer. 2006 davart las investiziuns collectivas, en vigur dapi il 1. da schan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^39-5]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^39-5]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^39-6]: Integrà tras la cifra II 3 da l’agiunta da la LF dals 23 da zer. 2006 davart las investiziuns collectivas, en vigur dapi il 1. da schan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^39-7]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^39-8]: Abolì tras l’art. 15 cifra 1 da las disposiziuns finalas e transitoricas dals titels XXIV–XXXIII DO, cun effect dapi il 1. da fan. 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
@@ -702,15 +712,16 @@ La scussiun vegn cuntinuada sin via dal concurs, e quai sco «scussiun ordinaria
 
 La scussiun sin concurs è en mintga cas exclusa per:
 
-- 1\. taglias, taxas, sportlas, multas ed autras prestaziuns da dretg public a cassas publicas u a funcziunaris;
-- 1<sup>bis</sup>.[^43-2] premias da l’assicuranza obligatorica cunter accidents;
-- 2\.[^43-3] contribuziuns periodicas da mantegniment e da sustegn sin basa dal dretg da famiglia sco er contribuziuns da mantegniment tenor la lescha da partenadi dals 18 da zercladur 2004[^43-4];
+- 1\.[^43-2] …
+- 1<sup>bis</sup>.[^43-3] …
+- 2\.[^43-4] contribuziuns periodicas da mantegniment e da sustegn sin basa dal dretg da famiglia sco er contribuziuns da mantegniment tenor la lescha da partenadi dals 18 da zercladur 2004[^43-5];
 - 3\. dretgs da prestaziuns da garanzia.
 
 [^43-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^43-2]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2004 ([AS 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [BBl 2002 7107](https://fedlex.data.admin.ch/eli/fga/2002/1130)[7116](https://fedlex.data.admin.ch/eli/fga/2002/1132)).
-[^43-3]: Versiun tenor la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^43-4]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^43-2]: Abolì tras la cifra I 2 da la LF dals 18 da mars 2022 davart il cumbat cunter il concurs abusiv, cun effect dapi il 1. da schan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-3]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 ([AS 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [BBl 2002 7107](https://fedlex.data.admin.ch/eli/fga/2002/1130)[7116](https://fedlex.data.admin.ch/eli/fga/2002/1132)). Abolì tras la cifra I 2 da la LF dals 18 da mars 2022 davart il cumbat cunter il concurs abusiv, cun effect dapi il 1. da schan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-4]: Versiun tenor la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^43-5]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### F. Cun resalva da disposiziuns spezialas
 
@@ -723,7 +734,7 @@ La scussiun sin concurs è en mintga cas exclusa per:
 La liquidaziun d’objects confiscads tenor leschas penalas u fiscalas ubain tenor la Lescha federala dals 18 da december 2015[^44-2] davart la bloccada e la restituziun da valurs da facultad acquistadas illegalmain da persunas estras politicamain expostas vegn fatga confurm a las disposiziuns da las leschas federalas u chantunalas respectivas.
 
 [^44-1]: Versiun tenor l’art. 31 al. 2 cifra 2 da la LF dals 18 da dec. 2015 davart la restituziun da valurs da facultad acquistadas illegalmain tras persunas exponidas politicamain, en vigur dapi il 1. da fan. 2016 ([AS 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [BBl 2014 5265](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^44-2]: [SR 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^44-2]: [SR 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 ### 2. Pretensiuns dals instituts d’emprest cunter pegn
 
@@ -734,7 +745,7 @@ La liquidaziun d’objects confiscads tenor leschas penalas u fiscalas ubain ten
 Per far valair pretensiuns dals instituts d’emprest cunter pegn vala l’artitgel 910 dal Cudesch civil svizzer (CCS)[^45-2].
 
 [^45-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^45-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### II. Lieu da scussiun
 
@@ -835,13 +846,19 @@ Il concurs cunter in debitur na po betg vegnir declerà il medem mument en dapli
 
 [^56-1]
 
+<sup>1</sup>
+
 Danor durant la procedura da sequestraziun u sch’i sa tracta da mesiras urgentas per mantegnair bains da facultad, na dastgan acts da scussiun betg vegnir exequids:
 
 - 1\. durant las uras serradas, numnadamain tranter las 20.00 e las 07.00 sco er las dumengias u ils firads uffizials renconuschids;
 - 2\. durant las vacanzas da scussiun, quai èn 7 dis avant e 7 dis suenter Pasca e Nadal sco er dals 15 da fanadur fin ils 31 da fanadur; per la scussiun sin cambialas na datti naginas vacanzas da scussiun;
 - 3\. cunter in debitur, al qual è vegnida concedida la suspensiun (art. 57–62).
 
+<sup>2</sup> Per ils plants che sa drizzan tenor questa lescha e ch’èn d’inoltrar ad ina dretgira, èn applitgablas unicamain las disposiziuns dal CPC[^56-2] davart la suspensiun dals termins.[^56-3]
+
 [^56-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^56-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^56-3]: Integrà tras la cifra II 2 da la LF dals 17 da mars 2023 (meglieraziun da la praticabilitad e da l’applicaziun dal dretg), en vigur dapi il 1. da schan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### B. Suspensiun
 
@@ -885,7 +902,7 @@ Danor durant la procedura da sequestraziun u sch’i sa tracta da mesiras urgent
 <sup>3</sup> ...[^57a-5]
 
 [^57a-1]: Integrà tras l’art. 2 da la LF dals 28 da sett. 1949, en vigur dapi il 1. da favr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
-[^57a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^57a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^57a-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57a-4]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57a-5]: Abolì tras la cifra I da la LF dals 16 da dec. 1994, cun effect dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -901,7 +918,7 @@ Danor durant la procedura da sequestraziun u sch’i sa tracta da mesiras urgent
 <sup>2</sup> En quai che concerna la scussiun sin liquidaziun dal pegn sto l’avis da pajament vegnir consegnà er durant la suspensiun, sche quella ha gia durà 3 mais.
 
 [^57b-1]: Integrà tras l’art. 2 da la LF dals 28 da sett. 1949, en vigur dapi il 1. da favr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
-[^57b-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^57b-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^57b-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### d. Register dals bains
@@ -1142,7 +1159,7 @@ La dumonda da scussiun sto vegnir drizzada en scrit u a bucca a l’uffizi da sc
 <sup>2</sup> Sche la pretensiun resulta dentant d’ina activitad economica permessa u sch’ella stat en connex cun l’administraziun dal gudogn da lavur u da la facultad libra tras ina persuna minorenna (art. 321 al. 2, art. 323 al. 1 ed art. 327*b* CCS), vegnan las actas da scussiun consegnadas al debitur ed al represchentant legal.
 
 [^68c-1]: Versiun tenor la cifra 12 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^68c-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^68c-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Debitur maioren suttamess ad ina mesira da la protecziun da creschids
 
@@ -1330,11 +1347,11 @@ Il medem status giuridic sco ina decisiun giudiziala han:[^80-3]
 [^80-2]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-3]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-4]: Integrà tras la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^80-5]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^80-5]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^80-6]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-7]: Abolì tras la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, cun effect dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-8]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da zer. 2005 davart la lavur illegala, en vigur dapi il 1. da schan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^80-9]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^80-9]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^80-10]: Integrà tras la cifra 2 da l’agiunta da la LF dals 30 da sett. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 ### b. Objecziuns
@@ -1350,7 +1367,7 @@ Il medem status giuridic sco ina decisiun giudiziala han:[^80-3]
 <sup>3</sup> Sche la decisiun è vegnida prendida en in auter stadi, po il stumà far valair ultra da quai las objecziuns previsas en il contract internaziunal respectiv u, sch’in tal manca, en la Lescha federala dals 18 da december 1987[^81-2] davart il dretg internaziunal privat, nun ch’ina dretgira svizra haja gia decidì davart questas objecziuns.[^81-3]
 
 [^81-1]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^81-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^81-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^81-3]: Versiun tenor l’art. 3 cifra 2 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun da la Convenziun da Lugano), en vigur dapi il 1. da schan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 3. Tras l’avertura da dretg provisorica
@@ -1441,7 +1458,7 @@ Suenter l’entrada dal plant taidla la dretgira las partidas ed examinescha ils
 <sup>3</sup> En divergenza da l’artitgel 63 dal Dretg d’obligaziuns (DO)[^86-2] dependa quest dretg da restituziun mo da la premissa ch’il nundebit vegnia cumprovà.[^86-3]
 
 [^86-1]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^86-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^86-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^86-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### G. Scussiun sin liquidaziun dal pegn e scussiun sin cambialas
@@ -1524,7 +1541,7 @@ Sut smanatscha da chasti è il debitur obligà:
 <sup>6</sup> L’uffizi da scussiun renda expressivamain attent ils pertutgads a lur obligaziuns ed a las consequenzas penalas.
 
 [^91-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^91-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^91-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^91-3]: AS **2005** 100
 
 ### 4. Valurs da facultad nunimpegnablas
@@ -1563,20 +1580,20 @@ Nunimpegnabels èn:
 [^92-6]: Versiun tenor l’art. 3 da la LF dals 28 da sett. 1949, en vigur dapi il 1. da favr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^92-7]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 6 d’oct. 1995 davart il servetsch civil, en vigur dapi il 1. d’oct. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^92-8]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-9]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^92-9]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^92-10]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-11]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-12]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-13]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^92-14]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^92-15]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)cifra II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)agiunta cifra 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)agiunta cifra 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)agiunta cifra 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 cifra 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Oz: tenor l’art. 20 da la LF dals 6 d’oct. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^92-13]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^92-14]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^92-15]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)cifra II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)agiunta cifra 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)agiunta cifra 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)agiunta cifra 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 cifra 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Oz: tenor l’art. 20 da la LF dals 6 d’oct. 2006 ([SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
 [^92-16]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-17]: Integrà tras l’art. 3 da la LF dals 28 da sett. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-18]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-19]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-20]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^92-21]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^92-22]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Guardar ussa l’art. 83 al. 2.
+[^92-20]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^92-21]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^92-22]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Guardar ussa l’art. 83 al. 2.
 [^92-23]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Entradas impegnablas limitadamain
@@ -1655,7 +1672,7 @@ Pretensiuns dal debitur envers ses conjugal u envers ses partenari registrà veg
 
 <sup>2</sup> Las disposiziuns dal debitur èn nunvalaivlas, sch’ellas violeschan ils dretgs ch’èn resultads da l’impegnaziun per ils crediturs, cun resalva dals effects da l’acquist da possess tras terzs da buna fai.[^96-3]
 
-[^96-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^96-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^96-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^96-3]: Integrà tras l’art. 58 dal titel final dal CCS, en vigur dapi il 1. da schan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)art. 60 tit. fin. CCS; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
@@ -1766,7 +1783,7 @@ Sin dumonda sto il creditur pajar ordavant a l’uffizi da scussiun ils custs pe
 <sup>3</sup> Suenter la liquidaziun po il terz far valair – ordaifer la procedura da scussiun – ils dretgs ch’el ha tenor il dretg civil en cas d’enguladitsch, da perdita u d’autra prelevaziun vi d’ina chaussa movibla (art. 934 e 935 CCS[^106-2]) u en cas da mala fai da l’acquistader (art. 936 e 974 al. 3 CCS). Sco ingiant public en il senn da l’artitgel 934 alinea 2 CCS vala er la vendita sin basa privata tenor l’artitgel 130 da questa lescha.
 
 [^106-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^106-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^106-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Realisaziun
 
@@ -1882,9 +1899,9 @@ A l’impegnaziun pon sa participar senza scussiun precedenta ed entaifer 40 dis
 [^111-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^111-2]: Versiun tenor la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^111-3]: Versiun tenor la cifra 12 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^111-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^111-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^111-5]: Versiun tenor la cifra 12 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^111-6]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^111-7]: Versiun tenor la cifra 12 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^111-8]: Segunda frasa abolida tras la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, cun effect dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -2094,7 +2111,7 @@ Ils objects da metal prezius na dastgan betg vegnir agiuditgads per in pretsch s
 <sup>4</sup> L’offerent anteriur e ses garants stattan buns per la perdita e per tut ils donns che resultan. La perdita da tschains vegn calculada a 5 pertschient.
 
 [^129-1]: Versiun tenor la cifra I 3 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns da la Groupe d’action financière, revedidas l’onn 2012, en vigur dapi il 1. da schan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^129-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^129-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^129-3]: Versiun tenor la cifra I 3 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns da la Groupe d’action financière, revedidas l’onn 2012, en vigur dapi il 1. da schan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^129-4]: Versiun tenor l’art. 7 da la LF dals 28 da sett. 1949, en vigur dapi il 1. da favr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 
@@ -2185,7 +2202,7 @@ Empè da l’ingiant po avair lieu la vendita sin basa privata:[^130-1]
 
 <sup>2</sup> Las cundiziuns d’ingiant fixeschan plinavant, tge custs che vegnan adossads a l’acquistader.
 
-[^135-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^135-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^135-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Moda da pajament
@@ -2199,7 +2216,7 @@ Empè da l’ingiant po avair lieu la vendita sin basa privata:[^130-1]
 <sup>2</sup> Fin a l’import da 100 000 francs po il pajament vegnir fatg en daner blut. Sch’il pretsch è pli aut, sto quella part che surpassa quest import vegnir reglada sur in intermediari finanzial tenor la Lescha dals 10 d’october 1997[^136-2] davart la lavada da daners suspectus.
 
 [^136-1]: Versiun tenor la cifra I 3 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns da la Groupe d’action financière, revedidas l’onn 2012, en vigur dapi il 1. da schan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^136-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^136-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Termin da pajament
 
@@ -2463,8 +2480,8 @@ Tgi che introducescha la scussiun per ina pretensiun ch’è garantida tras pegn
 
 [^151-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^151-2]: Versiun tenor la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^151-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^151-4]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^151-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^151-4]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### B. Avis da pajament
 
@@ -2482,7 +2499,7 @@ Suenter avair retschavì la dumonda da scussiun relascha l’uffizi da scussiun 
 <sup>2</sup> Sch’i dat contracts da locaziun u da fittanza sin il bain immobigliar e sch’il creditur da pegn stumant pretenda d’extender la garanzia ipotecara sin las pretensiuns dals tschains da locaziun u da fittanza (art. 806 CCS[^152-2]), communitgescha l’uffizi da scussiun als locataris u als fittadins l’introducziun da la scussiun ed als envida da pajar ils tschains da locaziun u da fittanza a l’uffizi da scussiun.[^152-3]
 
 [^152-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^152-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^152-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^152-3]: Integrà tras l’art. 58 dal titel final dal CCS ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)art. 60 tit. fin. CCS; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)). Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Emissiun Situaziun dal terz proprietari dal pegn
@@ -2506,8 +2523,8 @@ L’uffizi da scussiun trametta in avis da pajament er a las suandantas persunas
 
 [^153-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-2]: Versiun tenor la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^153-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^153-4]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^153-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^153-4]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^153-5]: Integrà tras la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^153-6]: Integrà tras l’art. 58 dal titel final dal CCS ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)art. 60 tit. fin. CCS; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)). Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-7]: Oriundamain al. 3.
@@ -2587,7 +2604,7 @@ L’uffizi da scussiun trametta in avis da pajament er a las suandantas persunas
 <sup>3</sup> L’attest d’insuffizienza da pegn vala sco renconuschientscha dal debit en il senn da l’artitgel 82.[^158-4]
 
 [^158-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^158-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^158-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^158-3]: Versiun tenor la cifra II 4 da la LF dals 11 da dec. 2009 (brev ipotecara registrada ed ulteriuras midadas dal dretg real), en vigur dapi il 1. da schan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 [^158-4]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -2669,7 +2686,7 @@ Sin dumonda dal creditur sto la dretgira ch’è responsabla per la decleraziun 
 <sup>2</sup> Il funcziunari da scussiun renda expressivamain attent il debitur a sias obligaziuns ed a las consequenzas penalas.
 
 [^164-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^164-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^164-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### b. Durada
 
@@ -2788,7 +2805,7 @@ La dretgira refusa la dumonda da concurs:
 <sup>2</sup> A la cumpetenza da concurs da la FINMA èn suttamess mo debiturs che han la permissiun necessaria da la FINMA.[^173b-3]
 
 [^173b-1]: Integrà tras la cifra II 1 da la LF dals 3 d’oct. 2003 ([AS 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [BBl 2002 8060](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Versiun tenor la cifra II 5 da l’agiunta da la LF dals 15 da zer. 2018 davart ils instituts da finanzas, en vigur dapi il 1. da schan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^173b-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^173b-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^173b-3]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (insolvenza e garanzia dals deposits), en vigur dapi il 1. da schan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### 4. Recurs
@@ -2810,7 +2827,7 @@ L’instanza da recurs po abolir la decleraziun da concurs, sch’il debitur ren
 <sup>3</sup> Sche l’instanza da recurs conceda in effect suspensiv al recurs, prenda ella a medem temp las mesiras preventivas ch’èn necessarias per proteger ils crediturs.
 
 [^174-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^174-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^174-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### E. Mument da la decleraziun da concurs
 
@@ -2918,7 +2935,7 @@ La dretgira admetta l’opposiziun:
 - 4\.[^182-1] sch’ina autra objecziun admissibla tenor l’artitgel 1007 DO[^182-2] vegn fatga valair e sche questa objecziun para vardaivla; en quest cas sto la summa da pretensiun dentant vegnir depositada en daners u en vaglias u i sto vegnir prestada ina garanzia equivalenta.
 
 [^182-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^182-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^182-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 5. Refusa. Mesiras preventivas
 
@@ -2949,7 +2966,7 @@ La dretgira admetta l’opposiziun:
 Cunter la decisiun davart l’admissiun da l’opposiziun poi vegnir fatg recurs entaifer 5 dis tenor il CPC[^185-2].
 
 [^185-1]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^185-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^185-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Effects da l’opposiziun admessa
 
@@ -3041,7 +3058,7 @@ L’autoritad cumpetenta infurmescha la dretgira da concurs, sche:
 <sup>3</sup> Er in creditur u in ertavel po pretender la liquidaziun tras l’uffizi da concurs.
 
 [^193-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^193-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^193-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### E. Procedura
 
@@ -3225,7 +3242,7 @@ Sch’il debitur ha vendì ina chaussa estra e n’ha betg anc survegnì il pret
 <sup>2</sup> Per pretensiuns sin rentas vitalizias vala l’artitgel 518 alinea 3 DO[^210-2].
 
 [^210-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^210-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^210-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Transfurmaziun da pretensiuns
 
@@ -3240,9 +3257,9 @@ Sch’il debitur ha vendì ina chaussa estra e n’ha betg anc survegnì il pret
 <sup>3</sup> Resalvadas restan las disposiziuns d’autras leschas federalas davart la dissoluziun da relaziuns contractualas en il concurs sco er las disposiziuns davart la resalva da proprietad (art. 715 e 716 CCS[^211-4]).[^211-5]
 
 [^211-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^211-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^211-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^211-3]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^211-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^211-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^211-5]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D<sup>bis</sup>. Relaziuns da debit constantas
@@ -3286,7 +3303,7 @@ La scuntrada è dentant exclusa:
 <sup>4</sup> En il concurs d’ina societad commanditara, d’ina societad anonima, d’ina societad acziunara commanditara, d’ina societad cun responsabladad limitada u d’ina associaziun na pon imports betg pajads entiramain da la summa commanditara u dal chapital da la societad sco er contribuziuns statutaricas a l’associaziun betg vegnir scuntrads.[^213-5] [^213-6]
 
 [^213-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^213-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^213-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^213-3]: Abolì tras l’art. 13 da la LF dals 28 da sett. 1949, cun effect dapi il 1. da favr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^213-4]: Integrà tras l’art. 13 da la LF dals 28 da sett. 1949, en vigur dapi il 1. da favr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^213-5]: Oriundamain al. 3.
@@ -3310,7 +3327,7 @@ La scuntrada è contestabla, sch’in debitur dal concursit[^214-1] ha acquistà
 
 <sup>2</sup> Per l’import ch’ella ha pajà survegn la massa da concurs ils dretgs dal creditur envers il debitur principal ed envers ils congarants (art. 507 DO[^215-1]). Sch’il concurs vegn dentant declerà er cunter il debitur principal u cunter in congarant, vegnan applitgads ils artitgels 216 e 217.[^215-2]
 
-[^215-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^215-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^215-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Concurs cunter plirs cunobligads a medem temp
@@ -3370,9 +3387,9 @@ La scuntrada è contestabla, sch’in debitur dal concursit[^214-1] ha acquistà
 [^219-subdivu2-1]: Versiun tenor la cifra I da la LF dals 18 da zer. 2010, en vigur dapi il 1. da dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Guardar er la disposiziun transitorica da questa midada a la fin da quest text.
 [^219-subdivu2-2]: Integrà tras la cifra I da la LF dals 18 da zer. 2010, en vigur dapi il 1. da dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Guardar er la disposiziun transitorica da questa midada a la fin da quest text.
 [^219-subdivu2-3]: Integrà tras la cifra I da la LF dals 18 da zer. 2010, en vigur dapi il 1. da dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Guardar er la disposiziun transitorica da questa midada a la fin da quest text.
-[^219-subdivu2-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^219-subdivu2-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^219-subdivu2-5]: Versiun tenor la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^219-subdivu2-6]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^219-subdivu2-6]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### Segunda classa
 
@@ -3387,13 +3404,13 @@ La scuntrada è contestabla, sch’in debitur dal concursit[^214-1] ha acquistà
 - e.[^219-subdivu3-6] ...
 - f.[^219-subdivu3-7] Ils apports tenor l’artitgel 37*a* da la Lescha da bancas dals 8 da november 1934[^219-subdivu3-8].
 
-[^219-subdivu3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^219-subdivu3-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^219-subdivu3-4]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^219-subdivu3-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^219-subdivu3-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^219-subdivu3-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^219-subdivu3-4]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^219-subdivu3-5]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 [^219-subdivu3-6]: Integrà tras l’art. 111 cifra 2 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur ([AS 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [BBl 2008 6885](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Abolì tras la cifra I da la LF dals 21 da zer. 2013, cun effect dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^219-subdivu3-7]: Integrà tras la cifra 2 da l’agiunta da la LF dals 18 da mars 2011 (garanzia dals deposits), en vigur dapi il 1. da sett. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^219-subdivu3-8]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^219-subdivu3-8]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### Terza classa
 
@@ -3455,7 +3472,21 @@ Per ils termins fixads en l’emprima ed en la segunda classa na vegn il suandan
 <sup>6</sup> L’uffizi da concurs renda expressivamain attent las persunas pertutgadas a lur obligaziuns ed a las consequenzas penalas.
 
 [^222-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^222-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^222-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+### B<sup>bis</sup>. Surdada ed avertura da spediziuns postalas
+
+#### Art. 222a
+
+[^222a-1]
+
+<sup>1</sup> Per la durada dal concurs po l’uffizi da concurs incaricar ils purschiders da servetschs postals d’al conceder invista da las spediziuns postalas ch’èn adressadas al debitur e da surdar questas spediziuns a l’uffizi da concurs.
+
+<sup>2</sup> L’uffizi da concurs dastga avrir las spediziuns postalas surdadas, nun ch’i saja cleramain visibel, ch’il cuntegn da la spediziun n’ha nagina impurtanza per la liquidaziun dal concurs.
+
+<sup>3</sup> Il debitur ha il dretg d’esser preschent, cura che las spediziuns vegnan avertas.
+
+[^222a-1]: Integrà tras la cifra I 2 da la LF dals 18 da mars 2022 davart il cumbat cunter il concurs abusiv, en vigur dapi il 1. da schan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### C. Mesiras da segirada
 
@@ -3517,7 +3548,7 @@ En l’inventari vegn inditgada la valur da stimaziun da mintga bain da facultad
 
 <sup>3</sup> L’administraziun dal concurs decida, sut tge cundiziuns e quant ditg ch’il debitur e sia famiglia dastgan restar en l’abitaziun actuala, sche quella appartegna a la massa da concurs.[^229-3]
 
-[^229-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^229-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^229-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^229-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3529,14 +3560,14 @@ En l’inventari vegn inditgada la valur da stimaziun da mintga bain da facultad
 
 <sup>1</sup> Sche la massa da concurs na basta previsiblamain betg per cuvrir ils custs d’ina procedura summarica, dispona la dretgira da concurs, sin proposta da l’uffizi da concurs, la suspensiun da la procedura da concurs.[^230-1]
 
-<sup>2</sup> L’uffizi da concurs communitgescha publicamain la suspensiun. En la publicaziun renda el attent che la procedura vegnia serrada, sch’in creditur na pretendia betg entaifer 10 dis la realisaziun da la procedura da concurs e sch’el na prestia betg la garanzia fixada per la part dals custs betg cuvrida tras la massa da concurs.[^230-2]
+<sup>2</sup> L’uffizi da concurs publitgescha uffizialmain la suspensiun e la communitgescha als crediturs enconuschents cun ina brev betg recumandada. En la publicaziun renda el attent che la procedura vegnia serrada, sch’in creditur na pretendia betg entaifer 20 dis la realisaziun da la procedura da concurs e sch’el na prestia betg la garanzia fixada per la part dals custs betg cuvrida tras la massa da concurs.[^230-2]
 
 <sup>3</sup> Suenter la suspensiun da la procedura da concurs po il debitur er vegnir stumà durant 2 onns sin impegnaziun.[^230-3]
 
 <sup>4</sup> Las scussiuns introducidas avant la decleraziun da concurs revivan puspè suenter la suspensiun dal concurs. Il temp tranter la decleraziun e la suspensiun dal concurs na vegn betg quintà per ils termins da questa lescha.[^230-4]
 
 [^230-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^230-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^230-2]: Versiun tenor la cifra I 2 da la LF dals 18 da mars 2022 davart il cumbat cunter il concurs abusiv, en vigur dapi il 1. da schan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^230-3]: Integrà tras l’art. 15 da la LF dals 28 da sett. 1949, en vigur dapi il 1. da favr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^230-4]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3608,7 +3639,7 @@ La communicaziun cuntegna:
 [^232-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^232-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^232-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^232-5]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-6]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-7]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -4150,7 +4181,7 @@ Per ina pretensiun che sto vegnir pajada, ma che n’è betg garantida tras pegn
 [^271-2]: Versiun tenor l’art. 3 cifra 2 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun da la Convenziun da Lugano), en vigur dapi il 1. da schan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^271-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^271-4]: Integrà tras l’art. 3 cifra 2 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun da la Convenziun da Lugano), en vigur dapi il 1. da schan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^271-5]: [SR 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
+[^271-5]: [SR 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^271-6]: Versiun tenor l’art. 3 cifra 2 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun da la Convenziun da Lugano), en vigur dapi il 1. da schan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### B. Admissiun da la sequestraziun
@@ -4245,7 +4276,7 @@ Ils objects sequestrads vegnan laschads a la disposiziun dal debitur, sch’el p
 <sup>4</sup> Protestas e recurs n’impedeschan betg l’effect da la sequestraziun.
 
 [^278-1]: Versiun tenor l’art. 3 cifra 2 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun da la Convenziun da Lugano), en vigur dapi il 1. da schan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^278-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^278-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### I. Prosecuziun da la sequestraziun
 
@@ -4269,10 +4300,10 @@ Ils termins da quest artitgel na curran betg:
 - 2\. durant la procedura da decleranza d’executabilitad tenor la Convenziun dals 30 d’october 2007[^279-5] davart la cumpetenza giudiziala, la renconuschientscha e l’execuziun da decisiuns en chaussas civilas e commerzialas e durant la procedura da recurs cunter la decisiun davart la decleranza d’executabilitad.[^279-6]
 
 [^279-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^279-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^279-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^279-3]: Versiun tenor l’art. 3 cifra 2 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun da la Convenziun da Lugano), en vigur dapi il 1. da schan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^279-4]: Versiun tenor l’art. 3 cifra 2 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun da la Convenziun da Lugano), en vigur dapi il 1. da schan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^279-5]: [SR 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
+[^279-5]: [SR 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^279-6]: Integrà tras l’art. 3 cifra 2 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun da la Convenziun da Lugano), en vigur dapi il 1. da schan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### K. Scrudada
@@ -4317,7 +4348,7 @@ La sequestraziun scroda:
 
 <sup>3</sup> L’uffizi da scussiun fa ina glista dals objects ch’èn suttamess al dretg da retenziun e fixescha per il creditur in termin per inoltrar la scussiun sin liquidaziun dal pegn.
 
-[^283-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^283-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^283-2]: Rectifitgà tenor la cifra II art. 3 da la LF dals 15 da dec. 1989 davart la midada dal DO (locaziun e fittanza), en vigur dapi il 1. da fan. 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201), disposiziuns finalas dals titels VIII ed VIII<sup>bis</sup>).
 
 ### Reintegraziun da bains
@@ -4344,7 +4375,7 @@ Objects ch’èn vegnids manads davent dascusamain u cun forza pon vegnir purtad
 
 <sup>3</sup> La scussiun vegn cuntinuada sin concurs. Il concurs è limità a la facultad dal trust.
 
-[^284a-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^284a-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### B. Concurs d’in trustee
 
@@ -4509,7 +4540,7 @@ Il dretg da contestar surannescha:
 <sup>2</sup> En cas da la renconuschientscha d’in decret da concurs da l’exteriur na vegn betg quintà il temp tranter la dumonda da renconuschientscha e la publicaziun tenor l’artitgel 169 LDIP[^292-2].
 
 [^292-1]: Versiun tenor la cifra III da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^292-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^292-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## Indeschavel titel: Procedura d’accumodament
 
@@ -4670,7 +4701,7 @@ Il cumissari ha en spezial las suandantas incumbensas:
 <sup>2</sup> Al recurs cunter la concessiun dal moratori d’accumodament na po vegnir concedì nagin effect suspensiv.
 
 [^295c-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^295c-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^295c-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 6. Communicaziun publica
 
@@ -4695,7 +4726,7 @@ La concessiun dal moratori vegn publitgada da la dretgira d’accumodament e com
 <sup>3</sup> La decisiun davart l’aboliziun po vegnir contestada cun in recurs tenor il CPC[^296a-2].
 
 [^296a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^296a-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^296a-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Decleraziun da concurs
 
@@ -4839,7 +4870,7 @@ Abolì
 
 <sup>3</sup> Il creditur po er, senza pregiuditgar ses dretgs, autorisar cundebiturs, garants ed auters obligads envers il debitur, da decider empè dad el davart la participaziun al contract d’accumodament.
 
-[^303-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^303-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### H. Rapport dal cumissari; communicaziun publica da la tractativa davant la dretgira d’accumodament
 
@@ -4925,7 +4956,7 @@ La dretgira d’accumodament revochescha la suspensiun da la liquidaziun sin dum
 <sup>2</sup> Il recurs ha in effect suspensiv, nun che l’instanza da recurs disponia insatge auter.
 
 [^307-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^307-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^307-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 4. Communicaziun e publicaziun
 
@@ -4982,7 +5013,7 @@ Cun la conferma dal contract d’accumodament scadan tut las scussiuns ch’èn 
 
 Mintga empermischun, cun la quala il debitur garantescha ad in creditur dapli che quai ch’el ha il dretg da survegnir tenor contract d’accumodament, è nunvalaivla (art. 20 DO[^312-1]).
 
-[^312-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^312-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Revocaziun dal contract d’accumodament
 
@@ -4992,7 +5023,7 @@ Mintga empermischun, cun la quala il debitur garantescha ad in creditur dapli ch
 
 <sup>2</sup> Ils artitgels 307–309 vegnan applitgads tenor il senn.
 
-[^313-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^313-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Contract d’accumodament ordinari
 
@@ -5110,7 +5141,7 @@ Cun excepziun dals cas, en ils quals la facultad e vegnida cedida ad in terz, po
 
 <sup>2</sup> Sch’igl è però en l’interess da la massa ch’in pegn vegnia liquidà, pon ils liquidaturs fixar per il creditur da pegn in termin d’almain 6 mais, entaifer il qual el sto liquidar il pegn. Els al intimeschan il medem mument d’als conceder il pegn, sch’il termin per liquidar il pegn è passà senza ch’il pegn saja vegnì liquidà, ed al rendan attent a las consequenzas penalas (art. 324 cifra 4 CP[^324-1]) sco er al fatg che ses dretg da preferenza extinguia, sch’el na consegna betg il pegn senza giustifitgar quai.
 
-[^324-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^324-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Cessiun da pretensiuns als crediturs
 
@@ -5274,7 +5305,7 @@ En cas da relaziuns extraordinarias, en spezial en cas d’ina crisa economica d
 
 <sup>3</sup> In moratori extraordinari concedì da la dretgira d’accumodament vala fin a la decisiun definitiva da l’instanza da recurs.[^340-3]
 
-[^340-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^340-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^340-2]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^340-3]: Versiun tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -5302,7 +5333,7 @@ La concessiun dal moratori vegn communitgada a l’uffizi da scussiun e, sch’i
 
 <sup>2</sup> Ils termins dals artitgels 116, 154, 166, 188, 219, 286, 287 e 288 sa prolungheschan per la durada dal moratori. Er la garanzia dal pegn ipotecar per ils tschains dal debit ipotecar (art. 818 al. 1 cifra 3 CCS[^343-1]) sa prolunghescha per la durada dal moratori.
 
-[^343-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Sin la cumpetenza da disponer dal debitur
 
@@ -5430,7 +5461,7 @@ Il Cussegl federal, il Tribunal federal ed ils chantuns decreteschan las disposi
 - a. sch’ils conjugals vivan vinavant sut l’uniun dals bains u sut la cuminanza dals bains externa tenor ils artitgels 211 e 224 CCS[^u1-2-1] en la versiun da l’onn 1907;
 - b. sch’ils conjugals vivan sut la participaziun als acquists tenor l’artitgel 9*c* dal titel final tar il CCS en la versiun da l’onn 1984.
 
-[^u1-2-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u1-2-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### C. Referendum
 
@@ -5464,7 +5495,7 @@ Ils privilegis dal dretg vertent valan vinavant, sch’il concurs è vegnì decl
 
 [^u4-1][^u4-2]
 
-[^u4-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^u4-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^u4-2]: [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 Las ordinaziuns executivas dal Tribunal federal restan en vigur, uschenavant che lur cuntegn na cuntradi betg al dretg nov ed uscheditg ch’il Cussegl federal na dispona betg autramain.
