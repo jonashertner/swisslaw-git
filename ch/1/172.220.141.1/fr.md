@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 15 juin 2007 pour les personnes employées e
 short: RPEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: fr
-version: 2024-09-06
+version: 2025-01-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240906/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240906-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/fr"
 
 (RPEC)
 
-du 15 juin 2007 (État le 6 septembre 2024)
+du 15 juin 2007 (État le 1<sup>er</sup> janvier 2025)
 
-L’organe paritaire de la caisse de prévoyance de la Confédération (OPC),
+L’organe paritaire de la Caisse de prévoyance de la Confédération[^ingress-1] (OPC),
 
-vu l’art. 32*c*, al. 3, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-1],
+vu l’art. 32*c*, al. 3, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-2],
 
 arrête:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: Nouvelle espression selon le ch. I de la D de l’OPC du 7 mai 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)). Il a été tenu compte de cette mod. dans tout le texte.
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 ## Chapitre 1 Dispositions générales
 
@@ -33,9 +34,9 @@ arrête:
 
 **Objet**
 
-<sup>1</sup> Le présent règlement fait partie intégrante du contrat d’affiliation du 15 juin 2007 de la caisse de prévoyance de la Confédération[^1-1].
+<sup>1</sup> Le présent règlement fait partie intégrante du contrat d’affiliation du 15 juin 2007 de la Caisse de prévoyance de la Confédération[^1-1].
 
-<sup>2</sup> Il régit l’assurance contre les conséquences économiques de la vieillesse, du décès et de l’invalidité pour la caisse de prévoyance de la Confédération.
+<sup>2</sup> Il régit l’assurance contre les conséquences économiques de la vieillesse, du décès et de l’invalidité pour la Caisse de prévoyance de la Confédération.
 
 [^1-1]: [FF 2008 5371](https://fedlex.data.admin.ch/eli/fga/2008/1049)
 
@@ -43,7 +44,7 @@ arrête:
 
 **Champ d’application**[^2-1]
 
-Le présent règlement s’applique aux employeurs affiliés à la caisse de prévoyance de la Confédération, à leurs employés, aux bénéficiaires de rentes, aux personnes assurées en vertu du présent règlement conformément à l’art. 3, al. 3, du règlement de prévoyance du 6 décembre 2011 pour les bénéficiaires d’honoraires de la caisse de prévoyance de la Confédération[^2-2], aux personnes dont la couverture d’assurance est maintenue en vertu de l’art. 18*d* et aux personnes auxquelles PUBLICA verse des prestations à la suite d’un divorce.
+Le présent règlement s’applique aux employeurs affiliés à la Caisse de prévoyance de la Confédération, à leurs employés, aux bénéficiaires de rentes, aux personnes assurées en vertu du présent règlement conformément à l’art. 3, al. 3, du règlement de prévoyance du 6 décembre 2011 pour les bénéficiaires d’honoraires de la Caisse de prévoyance de la Confédération[^2-2], aux personnes dont la couverture d’assurance est maintenue en vertu de l’art. 18*d* et aux personnes auxquelles PUBLICA verse des prestations à la suite d’un divorce.
 
 [^2-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^2-2]: [RS 172.220.141.2](https://fedlex.data.admin.ch/eli/cc/2012/52)
@@ -192,7 +193,7 @@ Les personnes assurées et les bénéficiaires de rentes ayant droit à des pres
 
 <sup>1</sup> Les personnes employées sont obligatoirement assurées contre les risques de décès et d’invalidité dès le 1<sup>er</sup> janvier qui suit la date à laquelle elles ont eu 17 ans. Dès le 1<sup>er</sup> janvier qui suit la date à laquelle elles ont eu 21 ans, elles sont également assurées pour la vieillesse.
 
-<sup>2</sup> Les personnes qui exercent une activité accessoire auprès d’un employeur affilié à la caisse de prévoyance de la Confédération et qui sont déjà assujetties à l’assurance obligatoire pour une activité lucrative exercée à titre principal sont également assurées.[^14-1]
+<sup>2</sup> Les personnes qui exercent une activité accessoire auprès d’un employeur affilié à la Caisse de prévoyance de la Confédération et qui sont déjà assujetties à l’assurance obligatoire pour une activité lucrative exercée à titre principal sont également assurées.[^14-1]
 
 [^14-1]: Introduit par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
@@ -209,7 +210,7 @@ Les personnes assurées et les bénéficiaires de rentes ayant droit à des pres
 Ne sont pas admises dans l’assurance de PUBLICA, les personnes employées:
 
 - a. qui sont engagées pour une durée limitée ne dépassant pas trois mois; l’art. 1*k* de l’ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité (OPP 2)[^17-2] est réservé;
-- b. qui n’exercent qu’une activité accessoire auprès d’un employeur affilié à la caisse de prévoyance de la Confédération et exercent une activité lucrative indépendante à titre principal;
+- b. qui n’exercent qu’une activité accessoire auprès d’un employeur affilié à la Caisse de prévoyance de la Confédération et exercent une activité lucrative indépendante à titre principal;
 - c. qui sont invalides au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^17-3], à raison de 70 % au moins;
 - d. qui, au sens de l’art. 26*a* LPP[^17-4], restent assurées à titre provisoire auprès de l’institution de prévoyance tenue de leur verser des prestations;
 - e. qui travaillent à l’étranger à titre de personnel local non transférable du DFAE et pour lesquelles le DFAE n’est pas soumis à l’obligation de payer des cotisations à l’AVS;
@@ -332,7 +333,7 @@ Si l’assurance s’arrête suite à la résiliation par la personne assurée o
 
 <sup>6</sup> Si une personne assurée est employée pendant moins d’une année, le salaire qu’elle obtiendrait si elle était occupée toute l’année est réputé salaire annuel déterminant.
 
-<sup>7</sup> Si une personne assurée exerce plusieurs activités auprès du même employeur affilié à la caisse de prévoyance de la Confédération, la totalité du salaire qu’elle a obtenu est prise en compte pour le calcul du salaire annuel déterminant.[^19-2]
+<sup>7</sup> Si une personne assurée exerce plusieurs activités auprès du même employeur affilié à la Caisse de prévoyance de la Confédération, la totalité du salaire qu’elle a obtenu est prise en compte pour le calcul du salaire annuel déterminant.[^19-2]
 
 [^19-1]: Nouvelle teneur de la phrase selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^19-2]: Introduit par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
@@ -364,7 +365,7 @@ Le salaire annuel déterminant des personnes assurées exerçant une activité �
 
 **Revenu non assurable**
 
-Le revenu provenant d’employeurs non affiliés à la caisse de prévoyance de la Confédération ou d’une activité indépendante ne peut pas être assuré auprès de PUBLICA.
+Le revenu provenant d’employeurs non affiliés à la Caisse de prévoyance de la Confédération ou d’une activité indépendante ne peut pas être assuré auprès de PUBLICA.
 
 ## Chapitre 4 Cotisations d’épargne, prime de risque, prestations de sortie apportées et rachat
 
@@ -550,7 +551,7 @@ Les prestations de sortie acquises auprès d’autres institutions de prévoyanc
 
 <sup>2bis</sup> Les rachats sont portés au crédit de l’avoir de vieillesse (art. 36) jusqu’à concurrence du montant maximum de ce dernier. Les rachats dépassant ce montant sont portés au crédit de l’éventuel avoir d’épargne spécial (art. 36*a*) jusqu’à concurrence du montant maximum de ce dernier. Tout montant excédentaire est remboursé.[^32-2]
 
-<sup>3</sup> Les bénéficiaires de prestations de vieillesse qui n’ont pas encore atteint l’âge de référence et qui prennent un emploi auprès d’un employeur affilié à la caisse de prévoyance de la Confédération ne peuvent racheter des prestations réglementaires que pour la part de celles‑ci qui dépasse le niveau de prévoyance qui existait avant la survenance du cas de prévoyance vieillesse.[^32-3]
+<sup>3</sup> Les bénéficiaires de prestations de vieillesse qui n’ont pas encore atteint l’âge de référence et qui prennent un emploi auprès d’un employeur affilié à la Caisse de prévoyance de la Confédération ne peuvent racheter des prestations réglementaires que pour la part de celles‑ci qui dépasse le niveau de prévoyance qui existait avant la survenance du cas de prévoyance vieillesse.[^32-3]
 
 <sup>4</sup> Les rachats payés après la survenance de l’incapacité de travail invalidante sont révoqués (art. 57, al. 3).
 
@@ -922,13 +923,13 @@ En cas de décès de la personne assurée ou de la personne bénéficiaire d’u
 - a.[^45-1] si elle ou s’il a atteint l’âge de 40 ans et a formé avec la personne défunte une union libre ininterrompue au moins pendant les cinq dernières années précédant le décès, ou
 - b. si elle ou s’il doit subvenir à l’entretien d’un ou de plusieurs enfants communs qui, selon le présent règlement, ont droit à une rente d’orphelin.
 
-<sup>2</sup> Le droit à la rente de partenaire n’existe que si l’union libre a été annoncée à PUBLICA sous la forme d’un contrat de partenariat écrit. L’original du contrat, dûment signé par les deux partenaires, doit être remis du vivant de ceux-ci à PUBLICA.
+<sup>2</sup> Le droit à la rente de partenaire n’existe que si la personne assurée ou la personne bénéficiaire d’une rente a annoncé l’union libre du vivant des deux partenaires. L’annonce doit être effectuée soit sur le portail client de PUBLICA, soit par écrit et, dans ce cas, être assortie d’une signature manuscrite.[^45-2]
 
-<sup>3</sup> L’union libre au sens de la présente disposition est une communauté de vie, compa-rable au mariage, entre deux personnes non mariées de sexe différent ou de même sexe, qui n’ont aucun lien de parenté et dont le partenariat n’est pas enregistré au sens de la LPart. Est aussi considérée comme union libre, une communauté de vie de per-sonnes parentes entre lesquelles il n’existe aucun empêchement au mariage.[^45-2]
+<sup>3</sup> L’union libre au sens de la présente disposition est une communauté de vie, compa-rable au mariage, entre deux personnes non mariées de sexe différent ou de même sexe, qui n’ont aucun lien de parenté et dont le partenariat n’est pas enregistré au sens de la LPart. Est aussi considérée comme union libre, une communauté de vie de per-sonnes parentes entre lesquelles il n’existe aucun empêchement au mariage.[^45-3]
 
 <sup>4</sup> Le droit à la rente de partenaire prend naissance au décès de la personne assurée ou de la personne bénéficiaire d’une rente, mais au plus tôt le lendemain du jour où cesse le droit de la personne défunte au salaire, à la jouissance du salaire, ou à la rente de vieillesse ou d’invalidité. Le partenaire survivant ou la partenaire survivante doit faire valoir son droit à une rente de partenaire au plus tard six mois après le décès de la personne assurée ou de la personne bénéficiaire d’une rente.
 
-<sup>5</sup> La durée d’une union libre est prise en compte dans le calcul de la durée du mariage subséquent lors de l’examen des conditions de l’art. 44, al. 1, let. b, en vue de l’octroi d’une rente de viduité, pour autant que l’original d’un contrat de partenariat, dûment signé par les deux partenaires, ait été remis à PUBLICA de leur vivant.[^45-3]
+<sup>5</sup> La durée de l’union libre s’additionne à la durée du mariage subséquent lors de l’examen des conditions prévues à l’art. 44, al. 1, let. b, en vue de l’octroi d’une rente de viduité, pour autant que l’union libre ait été annoncée à PUBLICA conformément à l’al. 2.[^45-4]
 
 <sup>6</sup>
 
@@ -949,8 +950,9 @@ Le droit à la rente s’éteint:
 <sup>8</sup> Si des doutes surgissent lors de la vérification des conditions du droit aux prestations, en particulier si une ou plusieurs personnes font valoir des droits au sens de l’art. 49 (capital-décès), PUBLICA ne peut fournir des prestations qu’une fois que ces vérifications sont terminées. Aucun intérêt n’est dû sur le paiement différé des prestations.
 
 [^45-1]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^45-2]: Erratum du 6 sept. 2024 ([RO 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
-[^45-3]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^45-2]: Nouvelle teneur selon le ch. I de la D de l’OPC du 7 mai 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)).
+[^45-3]: Erratum du 6 sept. 2024 ([RO 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
+[^45-4]: Nouvelle teneur selon le ch. I de la D de l’OPC du 7 mai 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)).
 
 #### Art. 46
 
@@ -1051,7 +1053,7 @@ Lorsqu’une personne assurée décède et qu’il n’existe aucun droit à une
 
 <sup>3</sup> Le capital-décès est réparti en parts égales entre les ayants droit du même groupe de bénéficiaires.
 
-<sup>4</sup> Si personne ne fait valoir de droit à des prestations dans le délai d’un an à compter du décès de la personne assurée, le capital-décès revient à la caisse de prévoyance de la Confédération.[^49-5]
+<sup>4</sup> Si personne ne fait valoir de droit à des prestations dans le délai d’un an à compter du décès de la personne assurée, le capital-décès revient à la Caisse de prévoyance de la Confédération.[^49-5]
 
 [^49-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^49-2]: Nouvelle teneur selon le ch. I de la D de l’OPC du 21 juin 2011, approuvée par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
@@ -1268,10 +1270,11 @@ La rente pour enfant du bénéficiaire d’une rente d’invalidité s’élève
 
 <sup>3</sup> L’employeur et la personne assurée doivent, au plus tard à la naissance du droit à la rente, verser à PUBLICA leur participation respective, définie par les dispositions du droit du travail, au financement de la rente transitoire sollicitée.
 
-<sup>4</sup> La personne assurée communique à PUBLICA, au plus tard trois mois avant de percevoir la rente transitoire, sa décision quant au mode de financement de sa part, celui-ci devant s’effectuer selon l’un des principes de calcul suivants:[^60-2]
+<sup>4</sup>
 
-a.[^60-3] par une réduction immédiate et à vie de la rente de vieillesse à laquelle elle a droit selon l’art. 39 (annexe 4, ch. I);
+La personne assurée communique à PUBLICA, au plus tard trois mois avant de percevoir la rente transitoire, sa décision quant au mode de financement de sa part, celui-ci devant s’effectuer selon l’un des principes de calcul suivants:[^60-2]
 
+- a.[^60-3] par une réduction immédiate et à vie de la rente de vieillesse à laquelle elle a droit selon l’art. 39 (annexe 4, ch. I);
 - b. par un rachat de la réduction prévue à la let. a (annexe 4, ch. II), ou
 - c.[^60-4] par une réduction à vie, dès l’âge de référence, de la rente de vieillesse à laquelle elle a droit selon l’art. 39 et des prestations qui découlent de cette rente (annexe 5, ch. I).[^60-5]
 
@@ -1335,7 +1338,7 @@ Si la personne assurée est âgée de plus de 60 ans mais de moins de 63 ans au 
 
 **Limitation du droit aux prestations**
 
-<sup>1</sup> Nul ne peut faire valoir de droit à des prestations allant au-delà de celles prévues par le présent règlement, en particulier à des fonds non liés de la caisse de prévoyance de la Confédération ou de PUBLICA. Les dispositions relatives à la liquidation partielle sont réservées.
+<sup>1</sup> Nul ne peut faire valoir de droit à des prestations allant au-delà de celles prévues par le présent règlement, en particulier à des fonds non liés de la Caisse de prévoyance de la Confédération ou de PUBLICA. Les dispositions relatives à la liquidation partielle sont réservées.
 
 <sup>2</sup> En cas de sortie, d’un employeur ou d’une unité administrative, de PUBLICA ou d’une caisse de prévoyance, ou en cas de changement de statut (art. 32*f* LPers), la procédure et les droits des personnes assurées et des bénéficiaires de rentes se fondent sur les dispositions légales et le règlement de liquidation partielle.
 
@@ -1431,7 +1434,7 @@ Si PUBLICA est tenue de verser la prestation préalable parce que l’institutio
 
 **Adaptation des rentes à l’évolution des prix**
 
-Les rentes de vieillesse, de survivants et d’invalidité sont adaptées à l’évolution des prix, selon les possibilités financières de la caisse de prévoyance de la Confédération. L’organe paritaire décide chaque année si et dans quelle mesure les rentes sont adaptées. Cette décision est commentée dans le rapport annuel. L’art. 36, al. 1, LPP est réservé.
+Les rentes de vieillesse, de survivants et d’invalidité sont adaptées à l’évolution des prix, selon les possibilités financières de la Caisse de prévoyance de la Confédération. L’organe paritaire décide chaque année si et dans quelle mesure les rentes sont adaptées. Cette décision est commentée dans le rapport annuel. L’art. 36, al. 1, LPP est réservé.
 
 #### Art. 76
 
@@ -1453,7 +1456,7 @@ Les rentes de vieillesse, de survivants et d’invalidité sont adaptées à l�
 
 <sup>4</sup> Les prestations pour survivants versées par PUBLICA et les revenus supplémentaires des survivants à prendre en compte au sens de l’al. 3 et de l’art. 24 OPP 2 sont pris en considération intégralement. Les indemnités uniques en capital sont converties en rentes de valeur actuarielle équivalente. La réduction est appliquée aux différentes rentes de manière proportionnelle.
 
-<sup>5</sup> La part des prestations qui n’est pas versée pour cause de surindemnisation revient à la caisse de prévoyance de la Confédération.
+<sup>5</sup> La part des prestations qui n’est pas versée pour cause de surindemnisation revient à la Caisse de prévoyance de la Confédération.
 
 <sup>6</sup> En présence de cas de rigueur, PUBLICA peut renoncer totalement ou partiellement à la réduction des prestations. La Commission de la caisse définit les modalités dans un règlement sur les cas de rigueur.
 
@@ -1666,7 +1669,7 @@ En cas de libre passage, PUBLICA adresse à la personne assurée ainsi qu’à l
 
 **Maintien de la prévoyance dans des cas particuliers**
 
-Si la personne assurée est transférée de la caisse de prévoyance de la Confédération à une autre caisse de prévoyance de PUBLICA, PUBLICA établit dans tous les cas un décompte, comme dans un cas de libre passage.
+Si la personne assurée est transférée de la Caisse de prévoyance de la Confédération à une autre caisse de prévoyance de PUBLICA, PUBLICA établit dans tous les cas un décompte, comme dans un cas de libre passage.
 
 #### Art. 90
 
@@ -2026,7 +2029,7 @@ Le droit s’éteint si, à compter du 1<sup>er</sup> janvier 2019, la personne 
 
 - a. voit son avoir de vieillesse ou son éventuel avoir d’épargne spécial diminuer;
 - b. prend une retraite partielle, ou
-- c. sort de la caisse de prévoyance de la Confédération.
+- c. sort de la Caisse de prévoyance de la Confédération.
 
 [^108f-1]: Introduit par le ch. I de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
@@ -2034,7 +2037,7 @@ Le droit s’éteint si, à compter du 1<sup>er</sup> janvier 2019, la personne 
 
 **Disposition transitoire relative à la modification du 15 février 2018: revalorisation de la rente de vieillesse, d’invalidité ou de survivants de la génération transitoire**[^108g-1]
 
-<sup>1</sup> Les avoirs de vieillesse et avoirs d’épargne spéciaux des personnes assurées âgées d’au moins 60 ans au 31 décembre 2018 et affiliées à la caisse de prévoyance de la Confédération de manière ininterrompue entre le 1<sup>er</sup> janvier 2018 et le 31 décembre 2018, sont revalorisés.
+<sup>1</sup> Les avoirs de vieillesse et avoirs d’épargne spéciaux des personnes assurées âgées d’au moins 60 ans au 31 décembre 2018 et affiliées à la Caisse de prévoyance de la Confédération de manière ininterrompue entre le 1<sup>er</sup> janvier 2018 et le 31 décembre 2018, sont revalorisés.
 
 <sup>2</sup> La revalorisation n’est effectuée qu’à la date du départ à la retraite et seulement dans les mêmes proportions que celles dans lesquelles la rente de vieillesse est perçue.
 
@@ -2093,15 +2096,15 @@ Si le droit à une rente d’invalidité ou d’invalidité professionnelle a pr
 
 #### Art. 108h
 
-**Disposition transitoire relative à la modification du 15 février 2018: versement unique de la caisse de prévoyance de la Confédération**[^108h-1]
+**Disposition transitoire relative à la modification du 15 février 2018: versement unique de la Caisse de prévoyance de la Confédération**[^108h-1]
 
-<sup>1</sup> La caisse de prévoyance de la Confédération augmente, par le biais d’un versement unique, les avoirs de vieillesse et éventuels avoirs d’épargne spéciaux des personnes assurées âgées, au 31 décembre 2018, de 45 ans ou plus mais de moins de 60 ans, et affiliées à la caisse de prévoyance de la Confédération de manière interrompue entre le 1<sup>er</sup> janvier 2018 et le 31 décembre 2018. Ce versement unique est acquis par échéances mensuelles partielles d’égal montant, échelonnées sur trois ans.
+<sup>1</sup> La Caisse de prévoyance de la Confédération augmente, par le biais d’un versement unique, les avoirs de vieillesse et éventuels avoirs d’épargne spéciaux des personnes assurées âgées, au 31 décembre 2018, de 45 ans ou plus mais de moins de 60 ans, et affiliées à la Caisse de prévoyance de la Confédération de manière interrompue entre le 1<sup>er</sup> janvier 2018 et le 31 décembre 2018. Ce versement unique est acquis par échéances mensuelles partielles d’égal montant, échelonnées sur trois ans.
 
 <sup>2</sup>
 
 La partie du versement unique n’ayant pas encore été acquise est réduite en proportion de la réduction de l’avoir de vieillesse ou de l’éventuel avoir d’épargne spécial si cette réduction survient dans les années 2019 à 2021 suite:
 
-- a. à une sortie de la caisse de prévoyance de la Confédération;
+- a. à une sortie de la Caisse de prévoyance de la Confédération;
 - b. à la perception d’avoirs de vieillesse ou d’éventuels avoirs d’épargne spéciaux sous forme d’indemnité unique en capital;
 - c. à des versements anticipés effectués dans le cadre de l’encouragement à la propriété d’un logement ou au versement des produits obtenus lors de la réalisation du gage grevant l’avoir de prévoyance;
 - d. au transfert d’une part de la prestation de sortie pour cause de divorce;
@@ -2384,15 +2387,15 @@ Annexe 3[^t-3]
 
 ## Taux de conversion
 
-[^t-3]: Nouvelle teneur selon le ch. II de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^t-3]: Nouvelle teneur selon le ch. II de la D de l’OPC du 7 mai 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)).
 
 <table>
 <tr><th>Âge</th><th>Taux de conversion</th></tr>
 <tr><td>60</td><td>4,47 %</td></tr>
 <tr><td>61</td><td>4,58 %</td></tr>
 <tr><td>62</td><td>4,70 %</td></tr>
-<tr><td>63 hommes 63 femmes</td><td>4,83 % 4,90 %</td></tr>
-<tr><td>64 hommes 64 femmes</td><td>4,96 % 5,09 %</td></tr>
+<tr><td>63 hommes et femmes, sauf les femmes nées en 1963 ou avant 63 femmes nées en 1963 ou avant</td><td>4,83 % 4,90 %</td></tr>
+<tr><td>64 hommes et femmes, sauf les femmes nées en 1963 ou avant 64 femmes nées en 1963 ou avant</td><td>4,96 % 5,09 %</td></tr>
 <tr><td>65</td><td>5,09 %</td></tr>
 <tr><td>66</td><td>5,24 %</td></tr>
 <tr><td>67</td><td>5,40 %</td></tr>

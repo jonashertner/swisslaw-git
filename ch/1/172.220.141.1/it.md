@@ -4,11 +4,11 @@ title: Regolamento di previdenza del 15 giugno 2007 per gli impiegati e i benefi
 short: RPIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: it
-version: 2024-09-06
+version: 2025-01-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240906/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240906-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/it"
 
 (RPIC)
 
-del 15 giugno 2007 (Stato 6 settembre 2024)
+del 15 giugno 2007 (Stato 1° gennaio 2025)
 
 L’organo paritetico della Cassa di previdenza della Confederazione (OPC),
 
@@ -45,7 +45,7 @@ decreta:
 
 Il presente regolamento si applica ai datori di lavoro affiliati alla Cassa di previdenza della Confederazione, ai loro impiegati e beneficiari di rendite, alle persone che sono assicurate secondo il presente regolamento sulla base dell’articolo 3 capoverso 3 del regolamento di previdenza del 6 dicembre 2011[^2-2] per i beneficiari di onorari della Cassa di previdenza della Confederazione, alle persone che continuano a essere affiliate secondo l’articolo 18*d* e alle persone a cui PUBLICA eroga prestazioni in seguito a divorzio.
 
-[^2-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^2-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^2-2]: [RS 172.220.141.2](https://fedlex.data.admin.ch/eli/cc/2012/52)
 
 #### Art. 3
@@ -61,8 +61,8 @@ Per i contributi di risparmio (art. 24), i contributi volontari di risparmio (ar
 
 <sup>2</sup> Gli impiegati di datori di lavoro che non disciplinano lo stipendio secondo l’OPers sono assicurati nel piano standard o nel piano per i quadri secondo l’ordinanza sul personale del datore di lavoro.[^3-2]
 
-[^3-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
-[^3-2]: Introdotto dal n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^3-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
+[^3-2]: Introdotto dalla cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
 
 #### Art. 3a
 
@@ -80,10 +80,10 @@ Per i contributi di risparmio (art. 24), i contributi volontari di risparmio (ar
 
 <sup>4</sup> Al riscatto si applica l’allegato 6*a* cifra III.
 
-[^3a-1]: Introdotto dal n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
-[^3a-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
-[^3a-3]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
-[^3a-4]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
+[^3a-1]: Introdotto dalla cifra I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
+[^3a-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
+[^3a-3]: Introdotto dalla cifra I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
+[^3a-4]: Introdotto dalla cifra I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
 
 #### Art. 4
 
@@ -91,7 +91,7 @@ Per i contributi di risparmio (art. 24), i contributi volontari di risparmio (ar
 
 I modelli di calcolo alla base del presente regolamento si fondano sull’età di riferimento secondo l’articolo 13 della legge federale del 25 giugno 1982[^4-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP).
 
-[^4-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^4-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^4-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 5
@@ -143,9 +143,9 @@ Gli assicurati e i beneficiari di rendite che hanno diritto a prestazioni di PUB
 
 <sup>4</sup> I diritti nei confronti di altre assicurazioni o di altri responsabili devono essere comunicati spontaneamente per scritto e senza indugio a PUBLICA.
 
-[^10-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
-[^10-2]: Abrogata dal n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, con effetto dal 1° lug. 2022 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
-[^10-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^10-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^10-2]: Abrogata dalla cifra I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, con effetto dal 1° lug. 2022 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^10-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 11
 
@@ -169,8 +169,8 @@ Gli assicurati e i beneficiari di rendite che hanno diritto a prestazioni di PUB
 
 <sup>2</sup> PUBLICA informa adeguatamente almeno una volta all’anno le persone assicurate in merito alla propria organizzazione e al proprio finanziamento nonché sulla composizione dell’organo paritetico.
 
-[^12-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
-[^12-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^12-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^12-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
 
 #### Art. 13
 
@@ -190,13 +190,13 @@ Gli assicurati e i beneficiari di rendite che hanno diritto a prestazioni di PUB
 
 <sup>2</sup> Sono assicurate anche le persone occupate a titolo accessorio presso un datore di lavoro affiliato alla Cassa di previdenza della Confederazione e già assicurate obbligatoriamente per l’attività lucrativa principale.[^14-1]
 
-[^14-1]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^14-1]: Introdotto dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 15 e 16
 
 [^1516-1]
 
-[^1516-1]: Abrogati dal n. I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^1516-1]: Abrogati dalla cifra I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 #### Art. 17
 
@@ -212,7 +212,7 @@ Non sono ammesse nell’assicurazione di PUBLICA le persone impiegate:
 - f*.* che hanno raggiunto l’età di riferimento; oppure
 - g. che esercitano un’attività accessoria presso un datore di lavoro quale organo di direzione nominato o presso una commissione extraparlamentare, se sono già obbligatoriamente assicurate per l’attività lucrativa principale oppure se esercitano un’attività lucrativa indipendente a titolo di professione principale.
 
-[^17-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^17-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^17-2]: RS **831.411.1**
 [^17-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^17-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
@@ -238,13 +238,13 @@ Per quanto concerne i rischi di decesso e di invalidità l’interessato rimane 
 
 <sup>3</sup> Nei casi di cui al capoverso 2 le prestazioni corrispondono a quelle che erano assicurate al momento della cessazione del rapporto di lavoro. Se entro la scadenza prevista al capoverso 2 lettera a oppure b viene costituito un nuovo rapporto di previdenza, la competenza spetta al nuovo istituto di previdenza.[^18-7]
 
-[^18-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^18-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 [^18-2]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^18-3]: Nuova espressione giusta il n. I cpv. 1 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^18-3]: Nuova espressione giusta la cifra I cpv. 1 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^18-4]: Abrogata dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, con effetto dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^18-5]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
-[^18-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
-[^18-7]: Introdotto dal n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-6]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-7]: Introdotto dalla cifra I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 18a
 
@@ -262,7 +262,7 @@ Su richiesta della persona assicurata, durante un congedo non pagato o un conged
 
 <sup>2</sup> Se la riscossione della prestazione di vecchiaia è differita, l’avere di vecchiaia è rimunerato conformemente all’articolo 36*b* capoverso 2.
 
-[^18b-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)). Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^18b-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)). Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^18b-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 18c
@@ -274,7 +274,7 @@ Su richiesta della persona assicurata, durante un congedo non pagato o un conged
 <sup>2</sup> La previdenza è mantenuta al livello del precedente guadagno assicurato al massimo fino alla fine del rapporto di lavoro. Tale copertura previdenziale cessa in ogni caso al raggiungimento dell’età di riferimento.[^18c-2]
 
 [^18c-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^18c-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^18c-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 18d
 
@@ -308,7 +308,7 @@ Se l’assicurazione termina a seguito della disdetta da parte della persona ass
 - a. versata come prestazione di vecchiaia alla persona assicurata se quest’ultima ha compiuto il 60° anno di età;
 - b. trasferita a un istituto di libero passaggio se la persona assicurata non ha ancora compiuto il 60° anno di età.
 
-[^18d-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^18d-1]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 ## Capitolo 3: Basi di calcolo
 
@@ -331,7 +331,7 @@ Se l’assicurazione termina a seguito della disdetta da parte della persona ass
 <sup>7</sup> Se la persona assicurata esercita più attività presso lo stesso datore di lavoro affiliato alla Cassa di previdenza della Confederazione, per stabilire lo stipendio annuo determinante si considera l’intero stipendio realizzato.[^19-2]
 
 [^19-1]: Nuovo testo del per. giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^19-2]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^19-2]: Introdotto dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 20
 
@@ -345,7 +345,7 @@ Se l’assicurazione termina a seguito della disdetta da parte della persona ass
 
 <sup>4</sup> Il guadagno assicurato valido immediatamente prima della riduzione funge da base per il calcolo del guadagno assicurato massimo mantenuto.[^20-2]
 
-[^20-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^20-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^20-2]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 21
@@ -354,7 +354,7 @@ Se l’assicurazione termina a seguito della disdetta da parte della persona ass
 
 Nel caso delle persone assicurate occupate a tempo parziale lo stipendio annuo determinante corrisponde allo stipendio che sarebbe realizzato in caso di occupazione al 100 per cento. Il guadagno assicurato corrisponde allo stipendio annuo determinante diminuito dell’importo di coordinamento e convertito nel grado di occupazione determinante per l’assicurazione.
 
-[^21-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^21-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 22
 
@@ -408,7 +408,7 @@ Ai singoli piani previdenziali si applicano i seguenti contributi di risparmio:
 
 <sup>5</sup> ...[^24-2]
 
-[^24-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^24-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 [^24-2]: Abrogato dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, con effetto dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 25
@@ -443,14 +443,14 @@ Ai singoli piani previdenziali si applicano i seguenti contributi di risparmio:
 
 <sup>7</sup> I contributi volontari di risparmio sono accreditati all’avere di risparmio speciale[^25-7] (art. 36*a*).[^25-8]
 
-[^25-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
-[^25-2]: Introdotto dal n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
-[^25-3]: Abrogato dal n. I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, con effetto dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
+[^25-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^25-2]: Introdotto dalla cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^25-3]: Abrogato dalla cifra I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, con effetto dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
 [^25-4]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^25-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^25-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^25-7]: Nuova espr. giusta il n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^25-8]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^25-5]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^25-6]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^25-7]: Nuova espr. giusta la cifra I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^25-8]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 26
 
@@ -477,7 +477,7 @@ Il premio di rischio non è pagato dal datore di lavoro:
 - b. in caso di mantenimento dell’assicurazione secondo l’articolo 18*d* capoverso 2.[^26-2]
 
 [^26-1]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
-[^26-2]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Nuovo testo giusta il n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^26-2]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Nuovo testo giusta la cifra I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 27
 
@@ -487,7 +487,7 @@ Il premio di rischio non è pagato dal datore di lavoro:
 
 <sup>2</sup> In caso di mantenimento dell’assicurazione di cui all’articolo 18*d*, i contributi di risparmio e il premio di rischio sono dovuti per intero dalla persona assicurata. Sono fatturati a quest’ultima mensilmente.[^27-1]
 
-[^27-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^27-1]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 28
 
@@ -512,7 +512,7 @@ Il premio di rischio non è pagato dal datore di lavoro:
 
 <sup>2</sup> La persona assicurata può mantenere l’assicurazione a contare dal terzo mese di congedo anche per i soli rischi di decesso e di invalidità. In questo caso l’avere di vecchiaia e un avere di risparmio speciale sono rimunerati sino alla fine del congedo (art. 36*b*).[^29-1]
 
-[^29-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^29-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 29a
 
@@ -534,7 +534,7 @@ Le prestazioni di uscita di altri istituti di previdenza e gli averi di istituti
 
 [^31-1]
 
-[^31-1]: Abrogato dal n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, con effetto dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^31-1]: Abrogato dalla cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, con effetto dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 32
 
@@ -552,10 +552,10 @@ Le prestazioni di uscita di altri istituti di previdenza e gli averi di istituti
 
 <sup>5</sup> Se si sono ottenuti prelievi anticipati per la promozione della proprietà d’abitazioni, i riscatti possono essere effettuati soltanto dopo il rimborso di tali prelievi anticipati.[^32-4]
 
-[^32-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^32-2]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^32-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^32-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^32-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
+[^32-2]: Introdotto dalla cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^32-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^32-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 32a
 
@@ -568,7 +568,7 @@ Le prestazioni di uscita di altri istituti di previdenza e gli averi di istituti
 <sup>3</sup> Se perviene a PUBLICA dopo il pensionamento della persona assicurata, l’importo pagato per finanziare l’aumento della rendita di vecchiaia è rimborsato.
 
 [^32a-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^32a-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^32a-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 #### Art. 32b
 
@@ -589,9 +589,9 @@ Per il calcolo della somma di riscatto è determinante:
 - b. i fattori applicabili secondo l’allegato 2; e
 - c. l’avere di vecchiaia disponibile al momento del riscatto.
 
-[^32b-1]: Introdotto dal n. I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
-[^32b-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^32b-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^32b-1]: Introdotto dalla cifra I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^32b-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^32b-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 33
 
@@ -650,7 +650,7 @@ La deduzione della quota di contributo è effettuata:
 - a. mensilmente dallo stipendio delle persone assicurate;
 - b. mensilmente dalla rendita dei beneficiari di rendite.
 
-[^35-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^35-1]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ## Capitolo 6: Prestazioni
 
@@ -686,14 +686,14 @@ Sono dedotti dall’avere di vecchiaia:
 
 <sup>4–8</sup> ...[^36-9]
 
-[^36-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
-[^36-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^36-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^36-4]: Introdotta dal n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^36-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
+[^36-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^36-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^36-4]: Introdotta dalla cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^36-5]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^36-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^36-7]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^36-8]: Introdotta dal n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
+[^36-6]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^36-7]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^36-8]: Introdotta dalla cifra I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
 [^36-9]: Abrogati dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, con effetto dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 36a
@@ -723,13 +723,13 @@ Sono dedotti dall’avere di risparmio speciale:
 - c. la quota dell’avere di risparmio speciale convertita in una prestazione di vecchiaia a seguito di pensionamento parziale (art. 38 cpv. 3);
 - d.[^36a-7] la quota dell’avere di risparmio speciale riscossa come liquidazione in capitale in seguito a invalidità parziale (art. 55 cpv. 1 lett. b).
 
-[^36a-1]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^36a-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
-[^36a-3]: Introdotta dal n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
-[^36a-4]: Introdotta dal n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
-[^36a-5]: Introdotta dal n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^36a-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^36a-7]: Introdotta dal n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
+[^36a-1]: Introdotto dalla cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^36a-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
+[^36a-3]: Introdotta dalla cifra I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
+[^36a-4]: Introdotta dalla cifra I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
+[^36a-5]: Introdotta dalla cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^36a-6]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^36a-7]: Introdotta dalla cifra I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
 
 #### Art. 36b
 
@@ -764,7 +764,7 @@ L’organo paritetico stabilisce alla fine di ogni anno i tassi di interesse per
 
 <sup>4</sup> La persona assicurata deve chiedere per scritto a PUBLICA il trasferimento della prestazione di uscita al più tardi 30 giorni prima della fine del rapporto di lavoro[^37-2]. Se la domanda è effettuata meno di 30 giorni prima della fine del rapporto di lavoro o dopo tale fine, i relativi costi amministrativi possono essere fatturati alla persona assicurata sempreché il regolamento dei costi lo preveda.
 
-[^37-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^37-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^37-2]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 38
@@ -779,9 +779,9 @@ L’organo paritetico stabilisce alla fine di ogni anno i tassi di interesse per
 
 <sup>4</sup> L’articolo 37 capoversi 3 e 4 si applica per analogia se alla fine del rapporto di lavoro la persona assicurata ha diritto a una rendita parziale di vecchiaia e non ha ancora compiuto il 70° anno di età. È fatto salvo il mantenimento della previdenza di cui all’articolo 18*c*.[^38-4]
 
-[^38-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^38-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^38-2]: Abrogato dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^38-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^38-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 [^38-4]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 39
@@ -794,7 +794,7 @@ L’organo paritetico stabilisce alla fine di ogni anno i tassi di interesse per
 
 <sup>3</sup> Il tasso di conversione è stabilito con precisione mensile.
 
-[^39-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^39-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 40
 
@@ -818,13 +818,13 @@ L’organo paritetico stabilisce alla fine di ogni anno i tassi di interesse per
 
 <sup>7</sup> Il prelievo di capitale è escluso se il mantenimento dell’assicurazione di cui all’articolo 18*d* si è protratto per oltre due anni.[^40-7]
 
-[^40-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^40-2]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^40-3]: Abrogato dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^40-4]: Abrogato dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^40-5]: Introdotto dal n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^40-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^40-7]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^40-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^40-2]: Introdotto dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^40-3]: Abrogato dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^40-4]: Abrogato dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^40-5]: Introdotto dalla cifra I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
+[^40-6]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^40-7]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 41
 
@@ -840,7 +840,7 @@ L’organo paritetico stabilisce alla fine di ogni anno i tassi di interesse per
 
 La rendita per figli del beneficiario di una rendita di vecchiaia ammonta a un sesto della rendita di vecchiaia corrente; in caso di divorzio è fatto salvo l’articolo 100 capoverso 6 primo periodo.
 
-[^42-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^42-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 ### Sezione 2: Prestazioni per superstiti
 
@@ -871,7 +871,7 @@ Un avere di risparmio speciale (art. 36*a*) è in ogni caso versato come liquida
 <sup>3</sup> La liquidazione unica in capitale spetta in parti uguali a più aventi diritto dello stesso gruppo di beneficiari.[^43-5]
 
 [^43-1]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^43-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^43-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 [^43-3]: Nuovo testo giusta la Dec. dell’OPC del 2 e 15 set. 2009, nonché del 20 ott. 2009, approvate dal CF l’11 nov. 2009, in vigore dal 1° gen. 2010 ([FF 2009 7381](https://fedlex.data.admin.ch/eli/fga/2009/1447)).
 [^43-4]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 [^43-5]: Introdotto dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
@@ -904,9 +904,9 @@ Se non adempie nessuna di queste condizioni, il coniuge superstite ha diritto:
 <sup>5</sup> Il coniuge divorziato ha diritto a una rendita per coniugi se il matrimonio è durato almeno dieci anni e se gli è stata assegnata una rendita in seguito a divorzio ai sensi dell’articolo 124*e* capoverso 1 oppure 126 capoverso 1 CC. Il diritto sussiste fintanto che sarebbe dovuta la rendita.[^44-4]
 
 [^44-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^44-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^44-3]: Introdotto dal n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^44-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^44-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^44-3]: Introdotto dalla cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^44-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 45
 
@@ -919,13 +919,13 @@ Al decesso della persona assicurata o del beneficiario della rendita, il convive
 - a.[^45-1] ha compiuto il 40° anno di età e ha ininterrottamente convissuto con la persona defunta almeno negli ultimi cinque anni prima del decesso; oppure
 - b. deve provvedere al mantenimento di uno o più figli comuni aventi diritto alla rendita per orfani conformemente al presente regolamento.
 
-<sup>2</sup> Il diritto alla rendita per conviventi sussiste soltanto se la convivenza è stata comunicata per scritto a PUBLICA sotto forma di contratto di convivenza. Tale contratto, debitamente firmato da entrambi i conviventi, deve essere inoltrato a PUBLICA in originale quando entrambi sono ancora in vita.
+<sup>2</sup> Il diritto alla rendita per conviventi sussiste soltanto se la persona assicurata o il beneficiario della rendita comunica la convivenza quando entrambi i conviventi sono ancora in vita. La comunicazione deve essere effettuata tramite il portale clienti di PUBLICA oppure scritta e firmata di proprio pugno.[^45-2]
 
-<sup>3</sup> La convivenza ai sensi della presente disposizione è un’unione domestica analoga al matrimonio di persone non coniugate, di sesso diverso o identico, senza legami di parentela, la cui unione non è registrata secondo la LUD. Per convivenza si intende anche un’unione domestica analoga al matrimonio di persone affini, tra le quali non sussiste alcun impedimento al matrimonio.[^45-2]
+<sup>3</sup> La convivenza ai sensi della presente disposizione è un’unione domestica analoga al matrimonio di persone non coniugate, di sesso diverso o identico, senza legami di parentela, la cui unione non è registrata secondo la LUD. Per convivenza si intende anche un’unione domestica analoga al matrimonio di persone affini, tra le quali non sussiste alcun impedimento al matrimonio.[^45-3]
 
 <sup>4</sup> Il diritto alla rendita per conviventi nasce con il decesso della personaassicurata o del beneficiario di rendita, al più presto il giorno successivo a quello in cui cessa il diritto dell’assicurato defunto allo stipendio, al godimento ulteriore dello stipendio, alla rendita di vecchiaia o di invalidità. Il diritto deve essere fatto valere al più tardi entro sei mesi dal decesso della persona assicurata o del beneficiario della rendita.
 
-<sup>5</sup> La durata della convivenza è computata in quella del matrimonio successivo conformemente alle condizioni del diritto alla rendita per coniugi di cui all’articolo 44 capoverso 1 lettera b, purché il contratto di convivenza, debitamente firmato da entrambi i conviventi, sia inoltrato a PUBLICA in originale quando entrambi sono ancora in vita.
+<sup>5</sup> La durata della convivenza è computata in quella del matrimonio successivo conformemente alle condizioni del diritto alla rendita per coniugi di cui all’articolo 44 capoverso 1 lettera b, sempreché la convivenza sia stata comunicata a PUBLICA conformemente al capoverso 2.[^45-4]
 
 <sup>6</sup>
 
@@ -946,7 +946,9 @@ Il diritto si estingue:
 <sup>8</sup> Se l’accertamento delle condizioni al diritto suscita dubbi, segnatamente se vengono fatti valere simultaneamente diritti in virtù dell’articolo 49 (capitale garantito in caso di decesso), PUBLICA può erogare le prestazioni soltanto quando gli accertamenti sono ultimati. Non è dovuto un interesse per l’erogazione posticipata delle prestazioni.
 
 [^45-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^45-2]: La correzione del 6 set. 2024 concerne soltanto il testo francese ([RU 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
+[^45-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 mag. 2024, approvata dal CF il 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)).
+[^45-3]: La correzione del 6 set. 2024 concerne soltanto il testo francese ([RU 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
+[^45-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 mag. 2024, approvata dal CF il 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)).
 
 #### Art. 46
 
@@ -966,9 +968,9 @@ Le rendite annuali per coniugi o conviventi ammontano:
 
 <sup>4</sup> La rendita è ridotta nella misura in cui, sommata alle prestazioni per superstiti dell’AVS, supera l’importo delle pretese derivanti dalla sentenza di divorzio. Le rendite per superstiti dell’AVS sono conteggiate soltanto nella misura in cui queste superano un proprio diritto a una rendita di invalidità dell’AI o una rendita di vecchiaia dell’AVS.[^46-3]
 
-[^46-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^46-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^46-2]: Per. abrogato dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, con effetto dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^46-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^46-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 46a
 
@@ -985,8 +987,8 @@ Le rendite annuali per coniugi o conviventi ammontano:
 <sup>5</sup> Se il coniuge o il convivente superstite non ha ancora compiuto il 45° anno di età, la liquidazione in capitale è ridotta del due per cento per ogni anno intero o iniziato a partire dall’età dell’avente diritto al momento del decesso della persona assicurata o del beneficiario di una rendita di invalidità fino a raggiungere 45 anni. L’intera liquidazione in capitale corrisponde però almeno al capitale garantito in caso di decesso di cui all’articolo 50.[^46a-3]
 
 [^46a-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^46a-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^46a-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^46a-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^46a-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 46b
 
@@ -1024,7 +1026,7 @@ La rendita per orfani ammonta:
 
 <sup>2</sup> Gli orfani di padre e madre hanno diritto a una doppia rendita per orfani.
 
-[^48-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^48-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 49
 
@@ -1046,10 +1048,10 @@ Qualora al decesso di una persona assicurata non sussista alcun diritto ai sensi
 
 <sup>4</sup> Se entro il termine di un anno dal decesso della persona assicurata non è fatto valere alcun diritto, il capitale garantito in caso di decesso è devoluto alla Cassa di previdenza della Confederazione.[^49-5]
 
-[^49-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^49-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^49-3]: Introdotta dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^49-4]: Nuovo testo giusta giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^49-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^49-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
+[^49-3]: Introdotta dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^49-4]: Nuovo testo giusta giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 [^49-5]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
 #### Art. 50
@@ -1058,7 +1060,7 @@ Qualora al decesso di una persona assicurata non sussista alcun diritto ai sensi
 
 Il capitale garantito in caso di decesso corrisponde a una liquidazione in capitale pari al 100 per cento dell’avere di vecchiaia al momento del decesso della persona assicurata. Tale capitale è diminuito del valore in contanti di un’eventuale rendita per orfani (art. 47 e art. 48) o per un coniuge divorziato (art. 44 cpv. 5).
 
-[^50-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^50-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ### Sezione 3: Prestazioni di invalidità
 
@@ -1080,8 +1082,8 @@ Ha diritto alle prestazioni di invalidità la persona assicurata che:
 
 <sup>4</sup> In caso di pensionamento prima del raggiungimento dell’età di riferimento il diritto alla rendita di invalidità è dato unicamente se l’incapacità al lavoro che ha portato all’invalidità è insorta prima del pensionamento.[^51-2]
 
-[^51-1]: Abrogato dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, con effetto dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^51-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^51-1]: Abrogato dalla cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, con effetto dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^51-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 52
 
@@ -1091,7 +1093,7 @@ Ha diritto alle prestazioni di invalidità la persona assicurata che:
 
 <sup>2</sup> Il pagamento delle prestazioni di invalidità presuppone una decisione dell’AI passata in giudicato. Esso inizia il primo giorno dopo l’estinzione del diritto della persona invalida alla continuazione del versamento dello stipendio da parte del datore di lavoro.
 
-[^52-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^52-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 52a
 
@@ -1107,7 +1109,7 @@ Il diritto del beneficiario della rendita alle prestazioni di invalidità si est
 
 <sup>2</sup> Dopo il raggiungimento dell’età di riferimento è erogata una rendita di vecchiaia al posto della rendita di invalidità. Tale rendita di vecchiaia non può essere prelevata sotto forma di capitale.
 
-[^52a-1]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^52a-1]: Introdotto dalla cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 52b
 
@@ -1121,7 +1123,7 @@ Il diritto del beneficiario della rendita alle prestazioni di invalidità si est
 
 <sup>4</sup> Se una rendita dell’AI è ridotta o soppressa sulla base di un riesame ai sensi della lettera a delle disposizioni finali della modifica del 18 marzo 2011 della LAI, il diritto alle prestazioni di invalidità si riduce o estingue nel momento in cui il beneficiario della rendita non percepisce alcuna rendita dell’AI o tale rendita è ridotta.
 
-[^52b-1]: Introdotto dal n. I dalla Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^52b-1]: Introdotto dalla cifra I dalla Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 53
 
@@ -1136,7 +1138,7 @@ L’esenzione:
 - a. è data a prescindere dal fatto che l’invalidità sia dovuta a infortunio o malattia;
 - b. comprende anche gli aumenti futuri degli accrediti di vecchiaia dovuti all’età.
 
-[^53-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^53-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 54
 
@@ -1151,7 +1153,7 @@ L’esenzione:
 <sup>4</sup> In caso di reinserimento la prestazione di uscita corrisponde alla parte dell’avere di vecchiaia costituito secondo il capoverso 2 che diviene nuovamente attiva con la fine del diritto alla rendita di invalidità; in caso di divorzio è fatto salvo l’articolo 100 capoverso 3 primo periodo.[^54-2]
 
 [^54-1]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^54-2]: Introdotto dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)). Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^54-2]: Introdotto dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)). Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 55
 
@@ -1168,7 +1170,7 @@ In caso di invalidità parziale l’avente diritto può disporre di un avere di 
 
 <sup>3</sup> In caso di decesso un avere di risparmio speciale è versato conformemente all’articolo 43 capoverso 2.
 
-[^55-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^55-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 56
 
@@ -1195,7 +1197,7 @@ In caso di invalidità parziale l’avente diritto può disporre di un avere di 
 
 <sup>2</sup> L’adeguamento dell’entità della rendita di invalidità presuppone una modificazione del grado d’invalidità ai sensi della LAI di almeno cinque punti percentuali (art. 17 cpv. 1 lett. a LPGA[^56-3]); è fatto salvo l’articolo 52*b* capoversi 1 e 2.
 
-[^56-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^56-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^56-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^56-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
@@ -1220,11 +1222,11 @@ Le prestazioni di invalidità sono calcolate secondo il tasso di conversione app
 
 <sup>6</sup> Per il calcolo delle rendite per superstiti secondo gli articoli 46 capoverso 1 lettera a e 48 capoverso 1 lettera a sono determinanti il guadagno assicurato e l’avere di vecchiaia al momento del decesso.
 
-[^57-1]: Nuova espressione giusta il n. I cpv. 2 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Correzione del 7 feb. 2024 ([RU 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^57-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^57-1]: Nuova espressione giusta la cifra I cpv. 2 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Correzione del 7 feb. 2024 ([RU 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^57-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^57-3]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^57-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^57-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^57-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^57-5]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
 [^57-6]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 58
@@ -1241,13 +1243,13 @@ Le prestazioni di invalidità sono calcolate secondo il tasso di conversione app
 
 La rendita per figli del beneficiario di una rendita di invalidità ammonta a un sesto della rendita di invalidità; in caso di divorzio è fatto salvo l’articolo 100 capoverso 6 primo periodo.
 
-[^59-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^59-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 ## Capitolo 7: Rendita transitoria e piano sociale
 
 [^chap7-1]
 
-[^chap7-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^chap7-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 60
 
@@ -1273,13 +1275,13 @@ La persona assicurata comunica a PUBLICA, al più tardi tre mesi prima della ris
 
 <sup>6</sup> Chi percepisce la rendita di vecchiaia come capitale può esigere la rendita transitoria soltanto se riscatta la riduzione ai sensi del capoverso 4 lettera b.[^60-9]
 
-[^60-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^60-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^60-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^60-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^60-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^60-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^60-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^60-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^60-5]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^60-6]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^60-7]: Nuova espressione giusta il n. I cpv. 3 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Correzione del 7 feb. 2024 ([RU 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^60-6]: Introdotto dalla cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^60-7]: Nuova espressione giusta la cifra I cpv. 3 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Correzione del 7 feb. 2024 ([RU 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^60-8]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 [^60-9]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
@@ -1295,7 +1297,7 @@ La persona assicurata comunica a PUBLICA, al più tardi tre mesi prima della ris
 
 [^6263-1]
 
-[^6263-1]: Abrogati dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^6263-1]: Abrogati dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 64
 
@@ -1317,10 +1319,10 @@ Se al momento della nascita del diritto alle prestazioni di vecchiaia ha compiut
 
 <sup>5</sup> Il datore di lavoro trasferisce a PUBLICA il capitale di copertura necessario per il finanziamento della rendita di vecchiaia di cui al capoverso 2 e della rendita transitoria.[^64-4]
 
-[^64-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 ott. 2014, approvata dal CF il 5 dic. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4569](https://fedlex.data.admin.ch/eli/oc/2014/766)).
-[^64-2]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^64-3]: Introdotta dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^64-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^64-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 21 ott. 2014, approvata dal CF il 5 dic. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4569](https://fedlex.data.admin.ch/eli/oc/2014/766)).
+[^64-2]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^64-3]: Introdotta dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^64-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 ## Capitolo 8: Disposizioni comuni concernenti le prestazioni
 
@@ -1346,7 +1348,7 @@ Al posto delle rendite PUBLICA eroga una liquidazione in capitale stabilita seco
 
 <sup>2</sup> Con il pagamento del capitale si estinguono tutti gli altri diritti della persona assicurata o dei suoi superstiti nei confronti di PUBLICA, in particolare i diritti a eventuali futuri adeguamenti legali o volontari all’evoluzione dei prezzi nonché alla rendita per figli del beneficiario di una rendita di vecchiaia o di invalidità.
 
-[^66-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^66-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 67
 
@@ -1388,7 +1390,7 @@ Se PUBLICA è tenuta a fornire una prestazione anticipata perché l’istituto d
 
 <sup>2</sup> Se ha fornito una prestazione di rendita troppo bassa, PUBLICA procede immediatamente al pagamento delle prestazioni arretrate in seguito alla rettifica senza interesse. Se PUBLICA è posta in mora, paga gli interessi di mora secondo l’allegato 1.[^71-1]
 
-[^71-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^71-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 72
 
@@ -1446,7 +1448,7 @@ Le rendite di vecchiaia, per i superstiti e di invalidità sono adeguate all’e
 
 <sup>6</sup> Nei casi di rigore PUBLICA può rinunciare in tutto o in parte alla riduzione delle prestazioni. La Commissione della Cassa disciplina i dettagli in un regolamento per i casi di rigore.
 
-[^77-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^77-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 78
 
@@ -1486,7 +1488,7 @@ Non è dato diritto a una prestazione di uscita se il rapporto di lavoro di una 
 
 Se l’assicurazione termina senza che subentri un evento di previdenza, il diritto alla prestazione di uscita è retto dall’articolo 18*d* capoversi 8 e 9.
 
-[^81a-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^81a-1]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 82
 
@@ -1536,8 +1538,8 @@ La persona assicurata deve fornire la prova dell’esistenza di un motivo di pag
 
 <sup>7</sup> Sono fatte salve eventuali limitazioni legali di pagamento se negli ultimi tre anni precedenti il pagamento in contanti la persona assicurata ha effettuato un riscatto per migliorare la propria protezione previdenziale.
 
-[^83-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^83-2]: Abrogato dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^83-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^83-2]: Abrogato dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 84
 
@@ -1556,7 +1558,7 @@ Se per motivi diversi dal decesso e dall’invalidità il rapporto di lavoro di 
 [^84-1]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^84-2]: Introdotta dalla Dec. dell’OPC del 2 e 15 set. 2009, nonché del 20 ott. 2009, approvate dal CF l’11 nov. 2009, in vigore dal 1° gen. 2010 ([FF 2009 7381](https://fedlex.data.admin.ch/eli/fga/2009/1447)).
 [^84-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^84-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^84-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 84a
 
@@ -1568,8 +1570,8 @@ Se per motivi diversi dall’invalidità il suo stipendio annuo determinante si 
 - b.[^84a-3] il mantenimento della previdenza secondo le condizioni dell’articolo 18*c*.
 
 [^84a-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^84a-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^84a-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^84a-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^84a-3]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 85
 
@@ -1593,12 +1595,12 @@ Deduzione fatta dei prelievi anticipati per la proprietà d’abitazioni, del ri
 
 <sup>6</sup> ...[^85-6]
 
-[^85-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
-[^85-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^85-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^85-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
 [^85-3]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^85-4]: Introdotto dalla Dec. dell’OPC del 2 e 15 set. 2009, approvate dal CF l’11 nov. 2009 ([FF 2009 7381](https://fedlex.data.admin.ch/eli/fga/2009/1447)). Abrogato dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, con effetto dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^85-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^85-6]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)). Abrogato dal n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^85-5]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^85-6]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)). Abrogato dalla cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
 
 #### Art. 86
 
@@ -1639,13 +1641,13 @@ In caso di libero passaggio la persona assicurata e il nuovo istituto di previde
   - 2\. calcolare il guadagno da assicurare obbligatoriamente,
   - 3\. garantire il rispetto del numero massimo di tre riscossioni in caso di riscossione sotto forma di capitale.
 
-[^88-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^88-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^88-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^88-3]: Abrogata dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, con effetto dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^88-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^88-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^88-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^88-7]: Introdotta dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^88-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-5]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-6]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-7]: Introdotta dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 89
 
@@ -1675,7 +1677,7 @@ PUBLICA effettua in ogni caso il conteggio come nel caso del libero passaggio se
 
 <sup>2</sup> PUBLICA può prelevare emolumenti amministrativi sui prelievi anticipati e la costituzione in pegno per il finanziamento della proprietà d’abitazioni. Essi sono stabiliti nel regolamento dei costi e comunicati preliminarmente alla persona assicurata su sua richiesta.[^91-2]
 
-[^91-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^91-1]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 [^91-2]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 92
@@ -1725,8 +1727,8 @@ L’importo prelevato anticipatamente può essere rimborsato fino:
 
 <sup>3</sup> Se la persona assicurata rimborsa il prelievo anticipato, l’importo corrispondente è accreditato con valuta esatta all’avere di vecchiaia secondo l’articolo 36 capoverso 2 lettera e. L’importo minimo del rimborso è di 10 000 franchi. Se il saldo del prelievo anticipato non ancora restituito è inferiore all’importo minimo, il rimborso deve essere effettuato in una rata unica.[^93-2]
 
-[^93-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^93-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^93-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^93-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 94
 
@@ -1778,9 +1780,9 @@ Se intende ottenere un prelievo anticipato o effettuare una costituzione in pegn
 
 <sup>3</sup> Se la persona assicurata rimborsa il prelievo anticipato o il pagamento dovuto alla realizzazione di un pegno, l’importo corrispondente è accreditato con valuta esatta in maniera corrispondente alla riduzione di cui al capoverso 1. L’avere di vecchiaia ai sensi della LPP viene incrementato nella stessa proporzione della riduzione di cui al capoverso 1.[^97-3]
 
-[^97-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^97-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
-[^97-3]: Introdotto dal n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^97-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^97-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^97-3]: Introdotto dalla cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 98
 
@@ -1796,7 +1798,7 @@ Il diritto al rimborso delle imposte pagate decade dopo tre anni dal rimborso de
 
 Le pertinenti disposizioni del CC, del CPC, della LPP, della LFLP e le relative disposizioni di esecuzione si applicano al conguaglio della previdenza in caso di divorzio.
 
-[^99-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^99-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 100
 
@@ -1814,10 +1816,10 @@ Le pertinenti disposizioni del CC, del CPC, della LPP, della LFLP e le relative 
 
 <sup>6</sup> Il diritto a una rendita per figli della persona beneficiaria di una rendita di vecchiaia o invalidità oppure a una rendita per figli complementare alla rendita di invalidità professionale che sussiste al momento del promovimento della procedura di divorzio non è pregiudicato dal conguaglio della previdenza. Se una rendita per figli è rimasta intatta, la rendita per orfani è calcolata sulle stesse basi.
 
-[^100-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^100-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^100-1]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^100-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 [^100-3]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
-[^100-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^100-4]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ## Capitolo 12: Contenzioso
 
@@ -1837,7 +1839,7 @@ Le pertinenti disposizioni del CC, del CPC, della LPP, della LFLP e le relative 
 
 [^102-1]
 
-[^102-1]: Abrogato dal n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, con effetto dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^102-1]: Abrogato dalla cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, con effetto dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 103
 
@@ -1902,7 +1904,7 @@ Il diritto al supplemento fisso e alla rendita transitoria fondato sul diritto p
 <sup>5</sup> Se il diritto a una rendita di invalidità o di invalidità professionale ai sensi dei capoversi 1 e 2 è ridotto in seguito a una decisione dell’AI o del servizio medico con effetto a contare dall’entrata in vigore del presente regolamento, l’entità della rendita è ridotta in maniera corrispondente alla riduzione del diritto alla rendita. L’entità delle rendite di invalidità insorta prima del 1° giugno 2003 rimane immutata se, con effetto a contare dall’entrata in vigore del presente regolamento, è assegnata per la prima volta una rendita AI o viene modificato per la prima volta il diritto a una rendita AI.
 
 [^105-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^105-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^105-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 106
 
@@ -1918,7 +1920,7 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 [^107-1]
 
-[^107-1]: Abrogato dal n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^107-1]: Abrogato dalla cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
 
 #### Art. 108
 
@@ -1934,8 +1936,8 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 <sup>5</sup> 5 In caso di riduzione dell’avere di vecchiaia della persona assicurata per i motivi di cui al capoverso 4 e di restituzione o di riacquisto integrali prima del pensionamento, il diritto iniziale alla garanzia è ripristinato. Nel caso contrario è effettuata una riduzione attuariale del diritto originale alla garanzia in misura pari alla mancata restituzione o al mancato riacquisto.[^108-2]
 
-[^108-1]: Abrogato dal n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
-[^108-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^108-1]: Abrogato dalla cifra I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^108-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 108a
 
@@ -1946,7 +1948,7 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 <sup>2</sup> La rimunerazione applicabile al calcolo della prestazione di uscita (art. 36*b* cpv. 4 lett. b) nel 2011 è retta dal tasso di interesse stabilito alla fine del 2010.[^108a-2]
 
 [^108a-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^108a-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^108a-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
 #### Art. 108b
 
@@ -1956,7 +1958,7 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 <sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 21 giugno 2011 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2008 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età AVS.
 
-[^108b-1]: Introdotto dal n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
+[^108b-1]: Introdotto dalla cifra I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
 
 #### Art. 108c
 
@@ -1966,7 +1968,7 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 <sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 ottobre 2013 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2012 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età AVS.
 
-[^108c-1]: Introdotto dal n. I della Dec. dell’OPC del 15 ott. 2013, approvata dal CF il 20 ago. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2947](https://fedlex.data.admin.ch/eli/oc/2014/501)).
+[^108c-1]: Introdotto dalla cifra I della Dec. dell’OPC del 15 ott. 2013, approvata dal CF il 20 ago. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2947](https://fedlex.data.admin.ch/eli/oc/2014/501)).
 
 #### Art. 108d
 
@@ -1976,7 +1978,7 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 <sup>2</sup> Le persone che il 1° luglio 2008 sono passate al primato dei contributi e sono state trasferite nel piano per i quadri 2 e che entro il 31 dicembre 2016 compiono il 60° anno di età sono soggette alle disposizioni del piano per i quadri 2 ancora fino al 31 dicembre 2017 conformemente al diritto previgente.
 
-[^108d-1]: Introdotto dal n. I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
+[^108d-1]: Introdotto dalla cifra I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
 
 #### Art. 108e
 
@@ -1990,8 +1992,8 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 <sup>4</sup> Per le rendite insorte prima del 1° luglio 2008 e trasferite per lo stesso importo ai sensi dell’articolo 103 capoverso 1, alla riduzione della prestazione di uscita e delle prestazioni in seguito a divorzio si applica l’articolo 100 capoversi 3–5. La riduzione di tali rendite si calcola in funzione delle basi tecniche vigenti al momento del passaggio in giudicato della sentenza di divorzio.[^108e-2]
 
-[^108e-1]: Introdotto dal n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^108e-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^108e-1]: Introdotto dalla cifra I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^108e-2]: Nuovo testo giusta la cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 108f
 
@@ -2007,7 +2009,7 @@ Il diritto si estingue, se a partire dal 1° gennaio 2019:
 - b. ha luogo un pensionamento parziale; oppure
 - c. la persona assicurata esce dalla Cassa di previdenza della Confederazione.
 
-[^108f-1]: Introdotto dal n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^108f-1]: Introdotto dalla cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 108g
 
@@ -2070,7 +2072,7 @@ Se il diritto a una rendita di invalidità o di invalidità professionale nasce 
 
 <sup>8</sup> Se una persona assicurata decede dopo il 31 dicembre 2018, la rivalutazione viene effettuata sull’avere di vecchiaia disponibile in data 31 dicembre 2018 per il calcolo della rendita per superstiti. Se la rendita per coniugi o la rendita per conviventi è percepita interamente o parzialmente sotto forma di liquidazione unica in capitale, la rivalutazione è ridotta proporzionalmente.
 
-[^108g-1]: Introdotto dal n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^108g-1]: Introdotto dalla cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 108h
 
@@ -2095,7 +2097,7 @@ Se è nato un diritto alla rendita di invalidità o di invalidità professionale
 - a. si estingui il diritto a prestazioni di invalidità al compimento del 65° anno di età;
 - b. si estingui il diritto a prestazioni di invalidità professionale al raggiungimento dell’età AVS.
 
-[^108h-1]: Introdotto dal n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^108h-1]: Introdotto dalla cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 108i
 
@@ -2105,7 +2107,7 @@ Se è nato un diritto alla rendita di invalidità o di invalidità professionale
 
 <sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 febbraio 2018 è retta per analogia dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 decede prima del raggiungimento dell’età AVS.
 
-[^108i-1]: Introdotto dal n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^108i-1]: Introdotto dalla cifra I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 108j
 
@@ -2115,7 +2117,7 @@ Se è nato un diritto alla rendita di invalidità o di invalidità professionale
 
 <sup>2</sup> Per le persone appartenenti al più tardi dal 30 aprile 2019 alle suddette particolari categorie di personale e che non hanno né compiuto il 50° anno di età né prestato 23 anni di servizio prima del 1° gennaio 2020, fino al 31 dicembre 2019 i contributi di risparmio, il versamento dei contributi volontari di risparmio e il riscatto sono retti dall’allegato 6*a* nella versione del 15 febbraio 2018.
 
-[^108j-1]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
+[^108j-1]: Introdotto dalla cifra I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
 [^108j-2]: [RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)
 
 #### Art. 108k
@@ -2124,7 +2126,7 @@ Se è nato un diritto alla rendita di invalidità o di invalidità professionale
 
 Con l’entrata in vigore della modifica del 30 settembre 2019 le riserve relative allo stato di salute esistenti decadono.
 
-[^108k-1]: Introdotto dal n. I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^108k-1]: Introdotto dalla cifra I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 #### Art. 108l
 
@@ -2135,7 +2137,7 @@ Gli assicurati che hanno compiuto il 62° anno di età prima del 1° dicembre 20
 - a. non possono più rimborsare i prelievi anticipati; gli obblighi secondo l’articolo 93 capoverso 1 decadono;
 - b. possono effettuare riscatti se questi ultimi, unitamente ai prelievi anticipati, non superano le prestazioni massime ai sensi del presente regolamento.
 
-[^108l-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^108l-1]: Introdotto dalla cifra I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 108m
 
@@ -2159,7 +2161,7 @@ Per le persone nate nel 1967 o successivamente, il cui diritto a una rendita di 
 
 <sup>4</sup> L’entità della rendita di invalidità di persone nate nel 1992 o successivamente, il cui diritto a una rendita di invalidità è sorto prima del 1° gennaio 2024, è disciplinata dalle disposizioni regolamentari vigenti fino al 31 dicembre 2023 al più tardi fino al 31 dicembre 2031. Se in base al calcolo secondo il nuovo diritto l’entità della rendita di invalidità diminuisce, l’entità finora statuita rimane invariata fino a che il grado d’invalidità ai sensi della LAI non subisce una modificazione di almeno cinque punti percentuali (art. 17 cpv. 1 lett. a LPGA); è fatto salvo l’articolo 52*b* capoversi 1 e 2.
 
-[^108m-1]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^108m-1]: Introdotto dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^108m-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^108m-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
@@ -2179,7 +2181,7 @@ Per le donne della generazione di transizione, l’età di riferimento per stabi
 
 <sup>2</sup> Alle disposizioni rimanenti si applica l’età di 65 anni quale età di riferimento per le donne.
 
-[^108n-1]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^108n-1]: Introdotto dalla cifra I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ### Sezione 2: Entrata in vigore
 
@@ -2193,7 +2195,7 @@ Per le donne della generazione di transizione, l’età di riferimento per stabi
 
 [^lvlu14-1]
 
-[^lvlu14-1]: Nuovo testo giusta il n. II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^lvlu14-1]: Nuovo testo giusta la cifra II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 Allegato 1 Interessi
 
@@ -2227,7 +2229,7 @@ Allegato 1[^t-1]
 
 ## Interessi
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 <table>
 <tr><td></td><td></td><td>Stato 1° gennaio 2017[^annex1-lvlu1-1]</td></tr>
@@ -2255,7 +2257,7 @@ Allegato 2[^t-2]
 
 ## Riscatto
 
-[^t-2]: Nuovo testo giusta il n. II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)). Aggiornato dal n. II della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^t-2]: Nuovo testo giusta la cifra II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)). Aggiornato dalla cifra II della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 **AV max.** = importo massimo dell’avere di vecchiaia secondo l’articolo 36
 
@@ -2365,15 +2367,15 @@ Allegato 3[^t-3]
 
 ## Tassi di conversione
 
-[^t-3]: Nuovo testo giusta il n. II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^t-3]: Nuovo testo giusta la cifra II della Dec. dell’OPC del 7 mag. 2024, approvata dal CF il 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)).
 
 <table>
 <tr><th>Età</th><th>Tasso di conversione</th></tr>
 <tr><td>60</td><td>4,47 %</td></tr>
 <tr><td>61</td><td>4,58 %</td></tr>
 <tr><td>62</td><td>4,70 %</td></tr>
-<tr><td>63 uomini 63 donne</td><td>4,83 % 4,90 %</td></tr>
-<tr><td>64 uomini 64 donne</td><td>4,96 % 5,09 %</td></tr>
+<tr><td>63 uomini e donne, eccetto le donne nate nel 1963 o negli anni precedenti 63 donne nate nel 1963 o negli anni precedenti</td><td>4,83 % 4,90 %</td></tr>
+<tr><td>64 uomini e donne, eccetto le donne nate nel 1963 o negli anni precedenti 64 donne nate nel 1963 o negli anni precedenti</td><td>4,96 % 5,09 %</td></tr>
 <tr><td>65</td><td>5,09 %</td></tr>
 <tr><td>66</td><td>5,24 %</td></tr>
 <tr><td>67</td><td>5,40 %</td></tr>
@@ -2388,7 +2390,7 @@ Allegato 4[^t-4]
 
 ## Rendita transitoria
 
-[^t-4]: Nuovo testo giusta il n. II della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^t-4]: Nuovo testo giusta la cifra II della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ### I. Riduzione a vita immediata della rendita mensile di vecchiaia in caso di ottenimento della rendita transitoria (art. 60 cpv. 4 lett. a)
 
@@ -2470,7 +2472,7 @@ Allegato 5[^t-5]
 
 ## Rendita transitoria
 
-[^t-5]: Nuovo testo giusta il n. II della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^t-5]: Nuovo testo giusta la cifra II della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ### I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età di riferimento in caso di ottenimento della rendita transitoria (art. 60 cpv. 4 lett. c)
 
@@ -2560,7 +2562,7 @@ Allegato 6[^t-6]
 
 ## Rendita transitoria
 
-[^t-6]: Nuovo testo giusta il n. II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^t-6]: Nuovo testo giusta la cifra II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 ### I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 108*b* cpv. 1)
 
@@ -2763,7 +2765,7 @@ Allegato 6a[^t-7]
 
 ## Piani previdenziali per le persone appartenenti a particolari categorie di personale
 
-[^t-7]: Introdotto dal n. II cpv. 1 della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)). Nuovo testo giusta il n. II della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
+[^t-7]: Introdotto dalla cifra II cpv. 1 della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)). Nuovo testo giusta la cifra II della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
 
 ### Riepilogo
 
@@ -3015,7 +3017,7 @@ Allegato 7[^t-8]
 
 ## Elenco delle abbreviazioni
 
-[^t-8]: Nuovo testo giusta il n. II della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)). Aggiornato dai n. II cpv. 2 delle Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)) e del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^t-8]: Nuovo testo giusta la cifra II della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)). Aggiornato dalle cifre II cpv. 2 delle Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)) e del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 - AI Assicurazione per l’invalidità
 - AInf Assicurazione contro gli infortuni

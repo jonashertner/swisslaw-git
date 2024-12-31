@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 15. Juni 2007 für die Angestellten und die Rentenb
 short: VRAB
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: de
-version: 2024-09-06
+version: 2025-01-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240906/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240906-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/de"
 
 (VRAB)
 
-vom 15. Juni 2007 (Stand am 6. September 2024)
+vom 15. Juni 2007 (Stand am 1. Januar 2025)
 
 Das paritätische Organ des Vorsorgewerks Bund (POB),
 
@@ -919,13 +919,13 @@ Beim Tod der versicherten oder rentenbeziehenden Person hat die überlebende Leb
 - a.[^45-1] das 40. Altersjahr vollendet hat und mit der verstorbenen Person mindestens in den letzten fünf Jahren vor dem Tod ununterbrochen eine Lebenspartnerschaft geführt hat; oder
 - b. für den Unterhalt eines oder mehrerer gemeinsamer Kinder, die gemäss vorliegendem Reglement Anspruch auf Waisenrenten haben, aufkommen muss.
 
-<sup>2</sup> Der Anspruch auf eine Lebenspartnerrente besteht nur, wenn die Lebenspartnerschaft PUBLICA in Form eines Lebenspartnervertrages schriftlich gemeldet worden ist. Dieser von beiden Lebenspartnern unterzeichnete Lebenspartnervertrag ist im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zuzustellen.
+<sup>2</sup> Der Anspruch auf eine Lebenspartnerrente besteht nur, wenn die versicherte oder rentenbeziehende Person die Lebenspartnerschaft zu Lebzeiten beider Lebenspartner meldet. Die Meldung muss entweder über das Kundenportal von PUBLICA oder schriftlich und eigenhändig unterzeichnet erfolgen.[^45-2]
 
-<sup>3</sup> Eine Lebenspartnerschaft im Sinne dieser Bestimmung ist eine eheähnliche Lebensgemeinschaft von nicht verheirateten Personen unterschiedlichen oder gleichen Geschlechts, die untereinander nicht verwandt sind und deren Partnerschaft nicht gemäss dem PartG eingetragen ist. Als Lebenspartnerschaft gilt auch eine eheähnliche Lebensgemeinschaft von verwandten Personen, zwischen denen kein Ehehindernis besteht.[^45-2]
+<sup>3</sup> Eine Lebenspartnerschaft im Sinne dieser Bestimmung ist eine eheähnliche Lebensgemeinschaft von nicht verheirateten Personen unterschiedlichen oder gleichen Geschlechts, die untereinander nicht verwandt sind und deren Partnerschaft nicht gemäss dem PartG eingetragen ist. Als Lebenspartnerschaft gilt auch eine eheähnliche Lebensgemeinschaft von verwandten Personen, zwischen denen kein Ehehindernis besteht.[^45-3]
 
 <sup>4</sup> Der Anspruch auf die Lebenspartnerrente beginnt mit dem Tod der versicherten oder rentenbeziehenden Person, frühestens aber nach dem Tag, an dem der Anspruch der verstorbenen Person auf Lohn, Lohnnachgenuss, Alters- oder Invalidenrente aufhört. Der Anspruch ist bis spätestens sechs Monate nach dem Tod der versicherten oder rentenbeziehenden Person geltend zu machen.
 
-<sup>5</sup> Die Dauer einer Lebenspartnerschaft wird an die darauf folgende Ehedauer gemäss den Anspruchsvoraussetzungen von Artikel 44 Absatz 1 Buchstabe b für die Ehegattenrente angerechnet, unter der Voraussetzung, dass ein von beiden Lebenspartnern unterzeichneter Lebenspartnervertrag im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zugestellt wurde.
+<sup>5</sup> Die Dauer einer Lebenspartnerschaft wird an die darauf folgende Ehedauer gemäss den Anspruchsvoraussetzungen von Artikel 44 Absatz 1 Buchstabe b für die Ehegattenrente angerechnet, sofern die Lebenspartnerschaft PUBLICA gemäss Absatz 2 gemeldet wurde.[^45-4]
 
 <sup>6</sup>
 
@@ -946,7 +946,9 @@ Der Anspruch erlischt:
 <sup>8</sup> Ergeben sich bei der Abklärung der Anspruchsvoraussetzungen Zweifel, namentlich wenn gleichzeitig Ansprüche gemäss Artikel 49 (Todesfallkapital) geltend gemacht werden, darf PUBLICA Leistungen erst erbringen, wenn die Abklärungen abgeschlossen sind. Zins für aufgeschobene Leistungsausrichtung ist nicht geschuldet.
 
 [^45-1]: Fassung gemäss Beschluss des POB vom 5. Nov. 2008, vom BR genehmigt am 14. Jan. 2009, in Kraft seit 1. Febr. 2009 ([BBl 2009 2721](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^45-2]: Die Berichtigung vom 6. Sept. 2024 betrifft nur den französischen Text ([AS 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
+[^45-2]: Fassung gemäss Ziff. I des Beschlusses des POB vom 7. Mai 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 (AS **20****24** 722).
+[^45-3]: Die Berichtigung vom 6. Sept. 2024 betrifft nur den französischen Text ([AS 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
+[^45-4]: Fassung gemäss Ziff. I des Beschlusses des POB vom 7. Mai 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)).
 
 #### Art. 46
 
@@ -2363,15 +2365,15 @@ Anhang 3[^t-3]
 
 ## Umwandlungssätze
 
-[^t-3]: Fassung gemäss Ziff. II des Beschlusses des POB vom 15. Febr. 2018, vom BR genehmigt am 25. April 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^t-3]: Fassung gemäss Ziff. II des Beschlusses des POB vom 7. Mai 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 722](https://fedlex.data.admin.ch/eli/oc/2024/722)).
 
 <table>
 <tr><th>Alter</th><th>Umwandlungssatz</th></tr>
 <tr><td>60</td><td>4,47 %</td></tr>
 <tr><td>61</td><td>4,58 %</td></tr>
 <tr><td>62</td><td>4,70 %</td></tr>
-<tr><td>63 Männer 63 Frauen</td><td>4,83 % 4,90 %</td></tr>
-<tr><td>64 Männer 64 Frauen</td><td>4,96 % 5,09 %</td></tr>
+<tr><td>63 Männer und Frauen, ausser Frauen mit Jahrgang 1963 oder früher 63 Frauen mit Jahrgang 1963 oder früher</td><td>4,83 % 4,90 %</td></tr>
+<tr><td>64 Männer und Frauen, ausser Frauen mit Jahrgang 1963 oder früher 64 Frauen mit Jahrgang 1963 oder früher</td><td>4,96 % 5,09 %</td></tr>
 <tr><td>65</td><td>5,09 %</td></tr>
 <tr><td>66</td><td>5,24 %</td></tr>
 <tr><td>67</td><td>5,40 %</td></tr>
