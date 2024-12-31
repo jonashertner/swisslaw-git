@@ -4,11 +4,11 @@ title: Legge federale del 3 ottobre 2008 sui sistemi d’informazione militari e
 short: LSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/it"
 
 (LSIM)[^t-1]
 
-del 3 ottobre 2008 (Stato 1° gennaio 2024)
+del 3 ottobre 2008 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -66,7 +66,7 @@ La presente legge disciplina il trattamento di dati personali di persone fisiche
 
 Per quanto necessario per adempiere i loro compiti legali o contrattuali, nell’esercizio di sistemi di informazione o nell’impiego di mezzi di sorveglianza dell’esercito e del DDPS, gli organi e le persone di cui all’articolo 1 capoverso 1 possono:[^2-1]
 
-- a.[^2-2] ...
+- a.[^2-2] …
 - b. utilizzare il numero AVS[^2-3] conformemente alle disposizioni della legge federale del 20 dicembre 1946[^2-4] sull’assicurazione per la vecchiaia e per i superstiti;
 - c. comunicare in forma elettronica i dati sempreché sia garantita un’adeguata protezione contro trattamenti non autorizzati.
 
@@ -74,7 +74,7 @@ Per quanto necessario per adempiere i loro compiti legali o contrattuali, nell�
 
 <sup>3</sup> Per i medesimi scopi di trattamento, i dati possono essere trattati anche in forma non elettronica.
 
-<sup>4</sup> L' organo o la persona che chiede dati la cui dichiarazione è volontaria ne segnala espressamente il carattere volontario.
+<sup>4</sup> L’ organo o la persona che chiede dati la cui dichiarazione è volontaria ne segnala espressamente il carattere volontario.
 
 <sup>5</sup> Le immagini che raffigurano persone in servizio militare univocamente identificabili possono essere pubblicate unicamente previo consenso scritto di quest’ultime.
 
@@ -120,7 +120,7 @@ Gli organi responsabili secondo la presente legge possono eseguire una profilazi
 - i. altri aspetti personali per ulteriori scopi del trattamento, nella misura in cui la persona interessata lo autorizzi.
 
 [^2b-1]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^2b-2]: Nuovo testo giusta l'all. n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2b-2]: Nuovo testo giusta l’all. n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 3
 
@@ -366,7 +366,7 @@ Il PISA può essere collegato con i seguenti sistemi d’informazione della Conf
 - b. i sistemi d’informazione dei Cantoni impiegati per i controlli, la tenuta dei conti e l’allarme nell’ambito della protezione civile; e
 - c. i sistemi d’informazione dei Comuni e delle amministrazioni militari cantonali.[^15-6]
 
-<sup>3</sup> Il PISA può inoltre essere collegato con il registro centrale delle prestazioni correnti dell’Ufficio centrale di compensazione (art. 71 cpv. 4 lett. b della legge federale del 20 dicembre 1946[^15-7] sull’assicurazione per la vecchiaia e per i superstiti) per consentire agli organi e alle persone competenti di trasferire dal PISA al suddetto registro i dati che vi possono essere registrati.[^15-8]
+<sup>3</sup> …[^15-7]
 
 <sup>4</sup>
 
@@ -375,7 +375,7 @@ Il SPP raccoglie i dati di cui all’articolo 14 capoverso 4 presso:
 - a. la persona da esso assistita;
 - b. i superiori militari della persona assistita;
 - c. il Servizio medico militare;
-- d. terzi, sempre che la persona assistita abbia dato il suo consenso.[^15-9]
+- d. terzi, sempre che la persona assistita abbia dato il suo consenso.[^15-8]
 
 [^15-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -383,9 +383,8 @@ Il SPP raccoglie i dati di cui all’articolo 14 capoverso 4 presso:
 [^15-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^15-5]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 [^15-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^15-8]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-9]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^15-7]: Introdotto dal n. I della LF del 18 mar. 2016 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Abrogato dall’all. n 3 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), con effetto dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^15-8]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 16
 
@@ -403,15 +402,15 @@ L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i dati
 - e. all’Ufficio federale del servizio civile (CIVI)[^16-3];
 - f.[^16-4] agli organi responsabili della protezione civile in seno alla Confederazione e ai Cantoni;
 - g.[^16-5] alle autorità responsabili dello svolgimento dei controlli di sicurezza relativi alle persone;
-- h.[^16-6] all’Ufficio centrale di compensazione per l’applicazione dell’ordinamento delle indennità per perdita di guadagno;
+- h.[^16-6] …
 - i.[^16-7] al Servizio delle attività informative della Confederazione per accertare l’identità di persone che, sulla base di riscontri su minacce per la sicurezza interna o esterna ai sensi dell’articolo 6 capoverso 1 lettera a della legge federale del 25 settembre 2015[^16-8] sulle attività informative (LAIn), possono rappresentare una minaccia per la sicurezza dell’esercito;
 - j.[^16-9] all’assicurazione militare, se ciò è necessario per il trattamento di casi assicurativi.
 
-<sup>1bis</sup> L’Ufficio centrale di compensazione può comunicare i dati di cui al capoverso 1 lettera h alle casse di compensazione AVS competenti.[^16-10]
+<sup>1bis</sup> L’Aggruppamento Difesa trasmette all’Ufficio centrale di compensazione i dati del PISA necessari per l’applicazione dell’ordinamento delle indennità per perdita di guadagno.[^16-10]
 
-<sup>1</sup>
+<sup>1ter</sup>
 
-<sup>ter</sup> Il SPP rende accessibili mediante procedura di richiamo i dati di cui all’articolo 14 capoverso 4 agli organi e alle persone seguenti:
+Il SPP rende accessibili mediante procedura di richiamo i dati di cui all’articolo 14 capoverso 4 agli organi e alle persone seguenti:
 
 - a. agli specialisti del SPP competenti per l’assistenza psicologica dei militari;
 - b. agli organi e ai medici incaricati del reclutamento;
@@ -428,7 +427,7 @@ L’Aggruppamento Difesa e gli organi responsabili della protezione civile in se
   - 1\. se ciò è necessario per l’istruzione e se la gravità o la natura del reato giustificano l’informazione, o
   - 2\.[^16-14] se durante il servizio militare o durante il servizio di protezione civile è stato commesso un reato sottoposto alla giurisdizione civile;
 
-- b.[^16-15] ...
+- b.[^16-15] …
 - c.[^16-16] all’Ufficio federale della dogana e della sicurezza dei confini, se ciò è ne-cessario per impieghi d’appoggio dei militari;
 - d. a terzi, se ciò è necessario per adempiere i loro compiti legali o contrattuali.
 
@@ -451,11 +450,11 @@ L’Aggruppamento Difesa comunica agli organi e alle persone seguenti i dati del
 [^16-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^16-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-5]: Introdotta dall’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^16-6]: Introdotta dal n. II 1 della LF del 27 set. 2013 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^16-6]: Introdotta dal n. II 1 della LF del 27 set. 2013 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Abrogato dall’all. n 3 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), con effetto dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-7]: Introdotto dall’all. n. II 9 della LF del 25 set. 2015 sulle attività informative ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)). Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-8]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^16-9]: Originaria lett. i. Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-10]: Introdotto dal n. II 1 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^16-10]: Introdotto dal n. II 1 della LF del 27 set. 2013 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nuovo testo giusta l’all. n 3 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-11]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-12]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-13]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -631,7 +630,7 @@ Rende accessibili alle unità amministrative competenti della Confederazione, de
 
 I dati del GDS sono conservati per cinque anni al massimo a decorrere dal proscioglimento dall’obbligo di prestare servizio militare o dall’obbligo di prestare servizio di protezione civile o dalla conclusione dell’impiego, del periodo di assistenza o del ricorso a terzi.
 
-### Sezione 2: ...
+### Sezione 2: …
 
 #### Art. 18 a 23
 
@@ -732,7 +731,7 @@ L’Aggruppamento Difesa comunica i dati sanitari agli organi e alle persone seg
 - a.[^28-5] ai medici curanti, ai medici incaricati di una perizia e alle istituzioni mediche della sanità civile, sempre che al riguardo la persona interessata abbia dato il suo consenso per scritto o che sia dato un caso d’emergenza;
 - b. ai tribunali civili e militari, nonché alle autorità giudiziarie nell’ambito di procedure giudiziarie e amministrative, in quanto il diritto procedurale preveda per i medici un obbligo di informare;
 - c. alle autorità della Confederazione e dei Cantoni competenti per la riscossione della tassa d’esenzione, se necessario per l’esenzione dalla tassa conformemente all’articolo 4 capoverso 1 lettera b della legge federale del 12 giugno 1959[^28-6] sulla tassa d’esenzione dall’obbligo militare;
-- d.[^28-7] ...
+- d.[^28-7] …
 - e. ai medici incaricati dal CIVI, se necessario per visite mediche e misure mediche ai sensi dell’articolo 33 della legge federale del 6 ottobre 1995[^28-8] sul servizio civile;
 - f.[^28-9] all’Ufficio centrale Armi e alle autorità cantonali competenti, i motivi medici che impediscono la consegna o che giustificano il ritiro ordinario, cautelare o definitivo dell’arma personale.
 
@@ -838,7 +837,7 @@ L’Aggruppamento Difesa raccoglie i dati per gli ISPE presso:[^33-1]
 
 I dati degli ISPE sono conservati per due anni a decorrere dalla conclusione della scuola o dall’uscita dall’ospedale militare.
 
-### Sezione 5: ...
+### Sezione 5: …
 
 #### Art. 36 a 41
 
@@ -1333,7 +1332,7 @@ I dati del SII-SSC sono accessibili mediante procedura di richiamo agli organi e
 
 <sup>2</sup> Gli altri dati sono conservati sino al momento in cui la persona interessata lascia il SSC.
 
-### Sezione 2: ...
+### Sezione 2: …
 
 #### Art. 78 a 83
 
@@ -1511,7 +1510,7 @@ I dati dell’ISKM[^95-1] sono conservati sino al termine del rapporto di lavoro
 
 [^95-1]: Nuova espr. giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Sezione 5: ...
+### Sezione 5: …
 
 #### Art. 96 a 101
 
@@ -1552,7 +1551,6 @@ Il FIS FT contiene i seguenti dati dei militari:
 - a. sesso e appartenenza religiosa;
 - b. dati concernenti l’incorporazione, il grado, la funzione e l’istruzione;
 - c. dati sanitari rilevanti per l’impiego;
-
 - d. dati del sistema IMESS (art. 114);
 - e. dati forniti volontariamente dalla persona interessata.
 
@@ -1597,7 +1595,7 @@ L’Aggruppamento Difesa gestisce un sistema d’informazione e di condotta dell
 
 Il FIS FA serve alle Forze aeree e ai loro comandi militari per adempiere i seguenti compiti:
 
-- [tab] a.[^109-1] pianificazione delle azioni e monitoraggio della situazione degli stati maggiori e delle formazioni delle Forze aeree;
+- a.[^109-1] pianificazione delle azioni e monitoraggio della situazione degli stati maggiori e delle formazioni delle Forze aeree;
 - b. condotta integrata delle operazioni;
 - c. interconnessione dei mezzi di esplorazione, condotta e impiego delle Forze aeree.
 
@@ -1714,7 +1712,6 @@ L’Aggruppamento Difesa gestisce sistemi d’informazione per i simulatori e li
 I sistemi d’informazione per i simulatori servono a sostenere l’istruzione e la qualificazione di:
 
 - a. militari;
-
 - b. civili chiamati a partecipare a un impiego di durata limitata dell’esercito; e
 - c. terzi che si allenano al simulatore.
 
@@ -1944,10 +1941,10 @@ Il SI CSNE serve:[^139-1]
 
 - a.[^139-2] all’allestimento e all’amministrazione delle autorizzazioni a condurre militari per conducenti di veicoli e di natanti, di licenze di condurre natanti federali nonché di licenze di periti della circolazione militare;
 - b. all’integrazione delle autorizzazioni a condurre militari nella licenza di condurre civile;
-- [tab] c.[^139-3]all’attuazione di misure amministrative relative a conducenti militari di veicoli e di natanti, a titolari di una licenza di condurre natanti federale e a periti della circolazione militare;
+- c.[^139-3] all’attuazione di misure amministrative relative a conducenti militari di veicoli e di natanti, a titolari di una licenza di condurre natanti federale e a periti della circolazione militare;
 - d. alla convocazione a visite di controllo da parte di medici di fiducia;
 - e. al controllo dell’istruzione di futuri conducenti, nonché dei maestri conducenti dell’esercito e dei periti della circolazione militare;
-- f.[^139-4] ...
+- f.[^139-4] …
 - g. all’allestimento di valutazioni e statistiche.
 
 [^139-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -2161,7 +2158,7 @@ I dati del SIFC sono conservati per dieci anni al massimo a decorrere dal rileva
 
 ## Capitolo 5: Sistemi d’informazione di sicurezza
 
-### Sezione 1: ...
+### Sezione 1: …
 
 #### Art. 144 a 149
 
@@ -2169,7 +2166,7 @@ I dati del SIFC sono conservati per dieci anni al massimo a decorrere dal rileva
 
 [^144149-1]: Abrogati dall’all. 1 n. 14 della LF del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
-### Sezione 2: ...
+### Sezione 2: …
 
 #### Art. 150 a 155
 
@@ -2625,7 +2622,8 @@ Il SI PDD serve all’adempimento dei seguenti compiti:[^175-1]
 
 **Dati**
 
-- [tab] Il SI PDD contiene i seguenti dati:[^176-1]
+Il SI PDD contiene i seguenti dati:[^176-1]
+
 - a. dati concernenti l’incorporazione, il grado, la funzione, l’istruzione, le qualificazioni e l’equipaggiamento nell’esercito e nella protezione civile;
 - b. dati concernenti l’impiego nell’esercito e nella protezione civile;
 - c.[^176-2] dati necessari per lo scambio di dati di cui all’articolo 175 lettera c.
@@ -2976,7 +2974,9 @@ I mezzi di sorveglianza servono all’adempimento dei seguenti compiti:
 - b. adempimento del mandato in occasione di impieghi nel servizio di promovimento della pace, nel servizio d’appoggio e nel servizio attivo, nell’ambito delle decisioni delle competenti autorità;
 - c. istruzione in vista dei compiti di cui alle lettere a e b.
 
-<sup>2</sup> Con i suoi mezzi di sorveglianza e con il personale necessario, l’esercito può fornire alle autorità civili, su richiesta, prestazioni di sorveglianza aerotrasportate.[^181-2]
+<sup>2</sup>
+
+Con i suoi mezzi di sorveglianza e con il personale necessario, l’esercito può fornire alle autorità civili, su richiesta, prestazioni di sorveglianza aerotrasportate:[^181-2]
 
 - a.
 
@@ -3070,7 +3070,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell'entrata in vigore: 1° gennaio 2010[^188-1]
+Data dell’entrata in vigore: 1° gennaio 2010[^188-1]
 
 [^188-1]: DCF del 16 dic. 2009.
 
@@ -3080,6 +3080,6 @@ Allegato
 
 ## Modifica del diritto vigente
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823).

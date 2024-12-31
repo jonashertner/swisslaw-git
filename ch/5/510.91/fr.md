@@ -4,11 +4,11 @@ title: Loi fédérale du 3 octobre 2008 sur les systèmes d’information de l�
 short: LSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/fr"
 
 (LSIA)[^t-2][^t-1]
 
-du 3 octobre 2008 (État le 1<sup>er</sup> janvier 2024)
+du 3 octobre 2008 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -369,7 +369,7 @@ Le SIPA peut être mis en réseau avec les systèmes d’information fédéraux 
 - b. les systèmes d’information cantonaux utilisés pour les contrôles, la comptabilité et l’alarme dans le cadre de la protection civile;
 - c. les systèmes d’information des communes et des administrations militaires cantonales.[^15-6]
 
-<sup>3</sup> Le SIPA peut également être mis en réseau avec le registre central des prestations en cours (art. 71, al. 4, let. b, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^15-7]) de manière que les services et personnes compétents puissent transférer du SIPA à ce registre des données dont l’enregistrement est autorisé dans le registre.[^15-8]
+<sup>3</sup> …[^15-7]
 
 <sup>4</sup>
 
@@ -378,7 +378,7 @@ Le SPP collecte les données visées à l’art. 14, al. 4, auprès des services
 - a. la personne prise en charge;
 - b. ses supérieurs militaires;
 - c. le Service médico-militaire;
-- d. des tiers, pour autant que la personne prise en charge y ait consenti.[^15-9]
+- d. des tiers, pour autant que la personne prise en charge y ait consenti.[^15-8]
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -386,9 +386,8 @@ Le SPP collecte les données visées à l’art. 14, al. 4, auprès des services
 [^15-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^15-5]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 [^15-6]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^15-8]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-9]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^15-7]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Abrogé par l’annexe ch. 3 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^15-8]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 16
 
@@ -406,11 +405,11 @@ Le Groupement Défense donne accès en ligne aux données du SIPA, à l’except
 - e. l’Office fédéral du service civil (CIVI)[^16-3];
 - f.[^16-4] les services fédéraux et les services cantonaux chargés de la protection civile;
 - g.[^16-5] les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes;
-- h.[^16-6] la Centrale de compensation pour l’exécution du régime des allocations pour perte de gain;
+- h.[^16-6] …
 - i.[^16-7] le Service de renseignement de la Confédération, en vue d’identifier les personnes qui, sur la base de renseignements sur les menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^16-8] pourraient représenter une menace pour la sécurité de l’armée;
 - j.[^16-9] l’assurance militaire, lorsque ces données sont nécessaires au traitement des cas d’assurance.
 
-<sup>1bis</sup> La Centrale de compensation peut communiquer les données visées à l’al. 1, let. h, aux caisses de compensation de l’AVS compétentes.[^16-10]
+<sup>1bis</sup> Il transmet à la Centrale de compensation les données du SIPA qui sont nécessaires à l’exécution du régime des allocations pour perte de gain.[^16-10]
 
 <sup>1ter</sup>
 
@@ -454,11 +453,11 @@ Le Groupement Défense communique les données ci-après aux services et personn
 [^16-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
 [^16-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-5]: Introduite par l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^16-6]: Introduite par le ch. II 1 de la LF du 27 sept. 2013 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^16-6]: Introduite par le ch. II 1 de la LF du 27 sept. 2013 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)). Abrogée par l’annexe ch. 3 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-7]: Introduite par l’annexe ch. II 9 de la LF du 25 sept. 2015 sur le renseignement ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-8]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^16-9]: Anciennement let. i. Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-10]: Introduit par le ch. II 1 de la LF du 27 sept. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^16-10]: Introduit par le ch. II 1 de la LF du 27 sept. 2013 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nouvelle teneur selon l’annexe ch. 3 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-11]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-12]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-13]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -2018,7 +2017,7 @@ Le Groupement Défense communique les données du SI OCRNA auprès:
 
 [^chap4-sec5-1]
 
-[^chap4-sec5-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^chap4-sec5-1]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 143a
 

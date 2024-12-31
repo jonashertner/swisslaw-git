@@ -4,11 +4,11 @@ title: Bundesgesetz vom 3. Oktober 2008 über militärische und andere Informati
 short: MIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/de"
 
 (MIG)[^t-1]
 
-vom 3. Oktober 2008 (Stand am 1. Januar 2024)
+vom 3. Oktober 2008 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -367,7 +367,7 @@ Das PISA kann mit folgenden Informationssystemen von Bund und Kantonen so verbun
 - b. der Kontroll-, Rechnungsführung und Alarmierung im Zivilschutz dienende Informationssysteme der Kantone; sowie
 - c. Informationssysteme der Gemeinden und kantonalen Militärverwaltungen.[^15-6]
 
-<sup>3</sup> Es kann zudem mit dem zentralen Register der laufenden Leistungen der Zentralen Ausgleichsstelle (Art. 71 Abs. 4 Bst. b des Bundesgesetzes vom 20. Dezember 1946[^15-7] über die Alters- und Hinterlassenenversicherung) so verbunden werden, dass die zuständigen Stellen und Personen die Daten, die im Register geführt werden dürfen, vom PISA ins Register übertragen können.[^15-8]
+<sup>3</sup> …[^15-7]
 
 <sup>4</sup>
 
@@ -376,7 +376,7 @@ Der PPD beschafft die Daten nach Artikel 14 Absatz 4 bei:
 - a. der von ihm betreuten Person;
 - b. den militärischen Vorgesetzten der betreuten Person;
 - c. dem Militärärztlichen Dienst;
-- d. Dritten, soweit die betreute Person dazu ihre Einwilligung gibt.[^15-9]
+- d. Dritten, soweit die betreute Person dazu ihre Einwilligung gibt.[^15-8]
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^15-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -384,9 +384,8 @@ Der PPD beschafft die Daten nach Artikel 14 Absatz 4 bei:
 [^15-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^15-5]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 [^15-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^15-8]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-9]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^15-7]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Aufgehoben durch Anhang Ziff. 3 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^15-8]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 16
 
@@ -404,11 +403,11 @@ Die Gruppe Verteidigung macht die Daten des PISA, ausgenommen die Daten nach Art
 - e. dem Bundesamt für Zivildienst (ZIVI)[^16-3];
 - f.[^16-4] den für den Zivilschutz zuständigen Stellen von Bund und Kantonen;
 - g.[^16-5] den für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfbehörden;
-- h.[^16-6] der Zentralen Ausgleichsstelle zur Durchführung der Erwerbsersatzordnung;
+- h.[^16-6] …
 - i.[^16-7] dem Nachrichtendienst des Bundes zur Feststellung der Identität von Personen, die aufgrund von Erkenntnissen über Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^16-8] (NDG) eine Bedrohung für die Sicherheit der Armee darstellen können;
 - j.[^16-9] der Militärversicherung, soweit dies für die Behandlung von Versicherungsfällen notwendig ist.
 
-<sup>1bis</sup> Die Zentrale Ausgleichsstelle kann die Daten nach Absatz 1 Buchstabe h den jeweils zuständigen AHV-Ausgleichskassen bekanntgeben.[^16-10]
+<sup>1bis</sup> Sie übermittelt der Zentralen Ausgleichsstelle die für die Durchführung der Erwerbsersatzordnung notwendigen Daten des PISA.[^16-10]
 
 <sup>1ter</sup>
 
@@ -452,11 +451,11 @@ Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Perso
 [^16-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^16-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-5]: Eingefügt durch Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^16-6]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^16-6]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Aufgehoben durch Anhang Ziff. 3 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-7]: Eingefügt durch Anhang Ziff. II 9 des Nachrichtendienstgesetzes vom 25. Sept. 2015 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-8]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^16-9]: Ursprünglich: Bst. i. Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-10]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^16-10]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Fassung gemäss Anhang Ziff. 3 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-11]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-12]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-13]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -512,7 +511,7 @@ Daten des PISA über Straftaten sowie strafrechtliche Entscheide und Massnahmen 
 
 [^chap2-sec1a-1]
 
-[^chap2-sec1a-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^chap2-sec1a-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 17a
 
@@ -2047,7 +2046,7 @@ Das SPHAIR-Expert enthält folgende Daten:
 - i. Selektionsstatus und -entscheide;
 - j. Befunde aus der sanitätsdienstlichen Befragung von Pilotinnen und Piloten sowie Fallschirmaufklärerinnen und Fallschirmaufklärern;
 - k. Angaben über die Kleidergrösse;
-- 1\.[^143c-1] persönliche Interessen hinsichtlich der Anstellung, Ausbildung, Weiterentwicklung sowie Berufs- und Funktionswahl.
+- l.[^143c-1] persönliche Interessen hinsichtlich der Anstellung, Ausbildung, Weiterentwicklung sowie Berufs- und Funktionswahl.
 
 [^143c-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
