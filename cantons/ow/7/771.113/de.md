@@ -3,20 +3,20 @@ canton: OW
 number: "771.113"
 title: Ausführungsbestimmungen über die Parkgebühren auf dem Areal des Kantonsspitals
 language: de
-version: 2009-01-01
-valid_until: 2024-12-31
-version_adopted: 2008-12-02
+version: 2025-01-01
+valid_until: 2026-06-25
+version_adopted: 2024-12-17
 adopted: 2008-12-02
 in_force: 2009-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/771.113"
-pdf: "http://gdb.ow.ch/api/de/versions/751/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1923/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Parkgebühren auf dem Areal des Kantonsspitals
 
-vom 02.12.2008 (Stand 01.01.2009)
+vom 02.12.2008 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -41,9 +41,9 @@ beschliesst:
 <sup>1</sup> Die Parkgebühr beträgt von Montag bis Sonntag (Beträge in Fr.):
 
 - a. bis 30 Minuten — gratis
-- b. bis 60 Minuten — 0.50
-- c. bis 1,5 Stunden — 1.50
-- d. bis 2 Stunden — 2.50
+- b. bis 60 Minuten — 1.00
+- c. bis 1,5 Stunden — 2.00
+- d. bis 2 Stunden — 3.00
 - e. jede weitere Stunde — 2.00
 
 <sup>2</sup> Keine Parkgebühren werden in der Zeit von 19.00 Uhr bis 07.00 Uhr erhoben.
@@ -59,5 +59,15 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Ausführungsbestimmungen treten am 1. Januar 2009 in Kraft.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2008, 120
+
+Ursprüngliches Inkrafttreten: 1. Januar 2009
+
+Geändert durch:
+
+\- Nachtrag vom 17. Dezember 2024, in Kraft seit 1. Januar 2025
 
 OGS 2008, 120
