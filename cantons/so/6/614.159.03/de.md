@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.03"
 title: "Steuerverordnung Nr. 3: Erhebung der Quellensteuer"
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-22
+version: 2025-01-01
+version_adopted: 2025-02-25
 adopted: 1994-09-27
 in_force: 1995-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.03"
-pdf: "https://bgs.so.ch/api/de/versions/5066/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5537/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 3: Erhebung der Quellensteuer
 
-Vom 27.09.1994 (Stand 01.01.2021)
+Vom 27.09.1994 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -253,9 +252,11 @@ beschliesst:
 
 <sup>4</sup> Anspruchsberechtigt ist die Kirchgemeinde, in deren Gebiet die steuerpflichtige Person ihren Wohnsitz oder Aufenthalt hat, und jener Kirche, zu deren Glauben sie sich bekennt.
 
-<sup>5</sup> Die Quellensteuer der ordentlich veranlagten Steuerpflichtigen (§§ 5, 6 und 7) wird nach dem gewogenen Mittel der Steuern des Staates und der Gemeinden auf den Staat und die steuerberechtigte Einwohnergemeinde (inkl. Anteil Kirchgemeinde und Feuerwehrersatzabgabe) aufgeteilt. Der Anteil des Bundes wird effektiv abgerechnet.
+<sup>5</sup> Die aufgrund der nachträglichen ordentlichen Veranlagung (§§ 5, 6 und 7) erhobenen Steuern werden nach Massgabe der in der Steuerperiode geltenden Steuerfüsse auf den Staat und die steuerberechtigten Gemeinden aufgeteilt. Der Anteil des Bundes wird effektiv abgerechnet. Die Veranlagungs- und Bezugsprovision gemäss Absatz 2 wird den Gemeinden zurückerstattet. Für den Bezug der nachträglichen ordentlichen Veranlagung haben die Gemeinden eine Entschädigung gemäss § 18 Absatz 2 der Steuerverordnung Nr. 23: Einheitsbezug vom 1. September 2022 zu entrichten[^17-1].
 
 <sup>6</sup> Das Kantonale Steueramt überweist den berechtigten Gemeinden ihren Anteil an den vollständig ausgeglichenen Quellensteuerrechnungen jeweils bis zum Ende des nachfolgenden Quartals.
+
+[^17-1]: BGS [614.159.23](https://bgs.so.ch/data/614.159.23/de).
 
 #### § 18
 
