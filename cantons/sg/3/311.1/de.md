@@ -4,13 +4,13 @@ number: "311.1"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2020-06-01
-valid_until: 2024-12-31
-version_adopted: 2018-08-14
+version: 2025-01-01
+valid_until: 2026-02-28
+version_adopted: 2024-06-25
 adopted: 1979-06-28
 in_force: 1980-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/311.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3217/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3672/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3217/pdf_file"
 
 (GesG)
 
-vom 28.06.1979 (Stand 01.06.2020)
+vom 28.06.1979 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -201,9 +201,9 @@ als Gesetz:[^ingress-4]
 
 #### Art. 18
 
-**Staat a) Spitäler, Laboratorien, Institute**
+**Staat a) Spitäler, Laboratorien, Gesundheits- oder Notfallzentren, Institute**
 
-<sup>1</sup> Der Staat kann Spitäler, Laboratorien und medizinische Institute errichten.
+<sup>1</sup> Der Staat kann Spitäler, Laboratorien, Gesundheits- oder Notfallzentren und medizinische Institute errichten.
 
 <sup>2</sup> Er kann sich daran beteiligen oder nach Massgabe des Bundesrechts Errichtung und Betrieb durch Beiträge unterstützen.
 
@@ -261,6 +261,20 @@ als Gesetz:[^ingress-4]
 - b) Bau, Betrieb und Unterhalt von geschützten Sanitätsstellen und geschützten Spitälern. Der Staat trägt die nach Abzug des Bundesbeitrags verbleibenden Kosten.
 
 <sup>2</sup> Der Staat kann Schutzdienstpflichtige und Laien für die Unterstützung des Pflegepersonals ausbilden und einsetzen.
+
+#### Art. 21ter
+
+**ebis) Gesundheits- oder Notfallzentren**
+
+<sup>1</sup> Zur Sicherstellung der Gesundheits- und Notfallversorgung in den Regionen bestehen Gesundheits- oder Notfallzentren in Wattwil, Flawil, Rorschach und Altstätten oder jeweils in einer anderen politischen Gemeinde des entsprechenden Wahlkreises.
+
+<sup>2</sup> Als Gesundheits- oder Notfallzentren gelten Gesundheitszentren, Notfallzentren sowie Gesundheits- und Notfallzentren.
+
+<sup>3</sup> Die Gesundheits- oder Notfallzentren stellen in den Regionen versorgungspolitisch notwendige Leistungen im Bereich der ambulanten und kurzstationären Gesundheits- und Notfallversorgung sicher.
+
+<sup>4</sup> Sie werden durch private oder öffentliche Leistungserbringer betrieben, wobei private Trägerschaften angemessen zu berücksichtigen sind. Soweit das Angebot nicht hinreichend sichergestellt ist, kann die Regierung den Spitalverbund zum Betrieb verpflichten.
+
+<sup>5</sup> Der Kantonsrat kann beschliessen, dass in den Wahlkreisen nach Abs. 1 dieser Bestimmung auf den Betrieb von Gesundheits- oder Notfallzentren allenfalls verzichtet wird.
 
 #### Art. 22
 
