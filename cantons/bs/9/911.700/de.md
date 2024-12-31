@@ -1,29 +1,31 @@
 ---
 canton: BS
 number: "911.700"
-title: Vereinbarung über das Forstamt beider Basel
+title: Vereinbarung über das Amt für Wald und Wild beider Basel
 short: AfWW beider Basel
 language: de
-version: 1994-10-31
-valid_until: 2024-12-31
-version_adopted: 1994-02-01
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 1994-02-01
 in_force: 1994-10-31
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/911.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4183/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6584/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vereinbarung über das Forstamt beider Basel
+# Vereinbarung über das Amt für Wald und Wild beider Basel
 
-Forstamt: Vereinbarung mit BL | Landwirtschaft / Forstwesen / Freizeitgärten[^t-1]
+Landwirtschaft / Forstwesen / Freizeitgärten[^t-1][^t-2]
 
-Vom 1. Februar 1994 (Stand 31. Oktober 1994)
+(AfWW beider Basel)
+
+Vom 1. Februar 1994 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt, gestützt auf § 4 des Organisationsgesetzes vom 22. April 1976[^ingress-1], und der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 77 der Kantonsverfassung vom 17. Mai 1984[^ingress-2], in Ausführung von Art. 51 des Waldgesetzes vom 4. Oktober 1991[^ingress-3], § 6 Abs. 2 des Kantonalen Forstgesetzes vom 28. Januar 1966[^ingress-4] und § 2 Abs. 1 des Dekrets vom 3. Dezember 1903 über die Forstpolizei, vereinbaren:
 
-[^t-1]: Dieser Erlass trägt ein Doppeldatum: 4. 1. /1. 2. 1994. Systembedingt kann hier nur ein Datum wiedergegeben werden.
+[^t-1]: Dieser Erlass trägt ein Doppeldatum: 4. 1. / 1. 2. 1994. Systembedingt kann hier nur ein Datum wiedergegeben werden.
+[^t-2]: Erlasstitel und § 1 Abs. 1: gemäss unpubliziertem RRB vom 17. Dezember 2024 ([P241801](http://www.bs.ch/regierungsratsbeschluesse/P241801?backUrl=/apps/regierungsratsbeschluesse?text=P241801)) wurde die Bezeichnung "Forstamt" mit dem neuen Namen des Amtes versehen. Siehe dazu auch die Umbennenungen in der Verordnung zum Waldgesetz (WaV BS) vom 18. Dezember 2001, SG [911.610](https://www.gesetzessammlung.bs.ch/data/911.610/de).
 [^ingress-1]: SG [153.100](https://www.gesetzessammlung.bs.ch/data/153.100/de).
 [^ingress-2]: GS 29.276; SGS [100](https://db.clex.ch/link/BL/100/de).
 [^ingress-3]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de).
@@ -35,7 +37,7 @@ Der Regierungsrat des Kantons Basel-Stadt, gestützt auf § 4 des Organisationsg
 
 <sup>1</sup> Die Kantone Basel-Stadt und Basel-Landschaft betreiben zur Erfüllung ihrer Forstaufgaben ein gemeinsames Forstamt.
 
-<sup>2</sup> Das gemeinsame Forstamt trägt die Bezeichnung «Forstamt beider Basel» (kurz: Amt). Sein Sitz wird von den Regierungsräten der beiden Kantone vereinbart.
+<sup>2</sup> Das gemeinsame Forstamt trägt die Bezeichnung «Amt für Wald und Wild beider Basel (AfWW beider Basel)» (kurz: Amt). Sein Sitz wird von den Regierungsräten der beiden Kantone vereinbart.
 
 <sup>3</sup> Das Amt wird vom Kantonsoberförster bzw. von der Kantonsoberförsterin beider Basel (kurz: Kantonsoberförster bzw. Kantonsoberförsterin) geleitet.
 
