@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 1988 relative à l'étude de l'impact sur l'env
 short: OEIE
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931"
 language: fr
-version: 2022-08-01
+version: 2025-01-01
 adopted: 1988-10-19
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20220801-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/fr"
 
 (OEIE)
 
-du 19 octobre 1988 (Etat le 1<sup>er</sup> août 2022)
+du 19 octobre 1988 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -96,7 +96,7 @@ Lorsque la construction ou la modification d’une installation n’est pas soum
 
 S’il est prévu dans l’annexe ou dans le droit cantonal que l’EIE doit être effectuée par étapes, c’est-à-dire comprendre plusieurs procédures successives, chacune de ces procédures doit permettre à l’autorité compétente d’obtenir toutes les informations dont elle a besoin pour pouvoir se prononcer au terme de la procédure en question.
 
-### Section 3**** EIE dans un contexte transfrontière
+### Section 3 EIE dans un contexte transfrontière
 
 [^chap1-sec3-1]
 
@@ -193,7 +193,7 @@ L’enquête préliminaire, le cahier des charges et le rapport d’impact sont 
 
 Le requérant remet le rapport d’impact et les autres documents à l’autorité compétente dès l’engagement de la procédure décisive.
 
-## Chapitre 3 Tâches des services spécialisés de la protection de l’environnement****
+## Chapitre 3 Tâches des services spécialisés de la protection de l’environnement
 
 [^chap3-1]
 
@@ -391,7 +391,14 @@ Si la réalisation d’un projet est soumise à l’une des autorisations ci-des
 
 **Coordination avec les décisions en matière de subventions**[^22-1]
 
-<sup>1</sup> Si l’autorité cantonale compétente constate qu’un projet ne peut probablement pas être réalisé sans une subvention de la Confédération octroyée au cas par cas, elle demande, avant de prendre sa décision, l’avis de l’autorité fédérale compétente en matière de subventions. Celle-ci consulte l’OFEV et tient compte de son point de vue dans son avis. L’OFEV se prononce dans un délai de trois mois.
+<sup>1</sup>
+
+Si un projet ne peut probablement pas être réalisé sans une subvention de la Confédération, l’autorité cantonale demande, avant de prendre sa décision, l’avis de l’autorité fédérale compétente en matière de subventions dans le cas suivant:
+
+- a. la subvention doit être octroyée pour un projet individuel, et
+- b. il ne s’agit pas d’une installation destinée à l’utilisation des énergies renouvelables qui bénéficient d’aides financières au titre de la loi du 30 septembre 2016 sur l’énergie[^22-2].[^22-3]
+
+<sup>1bis</sup> L’autorité fédérale compétente en matière de subventions consulte l’OFEV et tient compte de son point de vue dans son avis. L’OFEV se prononce dans un délai de trois mois.[^22-4]
 
 <sup>2</sup> En ce qui concerne les projets soumis à l’EIE, l’autorité fédérale compétente en matière de subventions n’octroie une subvention au cas par cas qu’une fois l’EIE achevée (art. 18).
 
@@ -400,6 +407,9 @@ Si la réalisation d’un projet est soumise à l’une des autorisations ci-des
 <sup>4</sup> En ce qui concerne les projets auxquels la Confédération octroie des indemnités globales sur la base de conventions-programmes, la coordination avec les décisions du canton en matière de subventions est régie par le droit cantonal.
 
 [^22-1]: Nouvelle teneur selon le ch. I 12 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^22-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^22-4]: Introduit par l’annexe ch. 6 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -425,7 +435,7 @@ Les demandes en cours d’examen lors de l’entrée en vigueur de la présente 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1989.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1, 2, 5, 6, 10, 12, 12*a*, 12*b*, 13 et 14)
 

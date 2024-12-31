@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 1988 über die Umweltverträglichkeitsprüfung
 short: UVPV
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931"
 language: de
-version: 2022-08-01
+version: 2025-01-01
 adopted: 1988-10-19
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20220801/de/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20220801-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/de"
 
 (UVPV)
 
-vom 19. Oktober 1988 (Stand am 1. August 2022)
+vom 19. Oktober 1988 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -96,7 +96,7 @@ Bei Anlagen, die nicht der UVP-Pflicht unterliegen, werden die Vorschriften übe
 
 Sieht der Anhang oder das kantonale Recht eine mehrstufige Prüfung in verschiedenen Verfahrensschritten vor, so wird die Prüfung bei jedem Verfahrensschritt so weit durchgeführt, als die Auswirkungen des Projektes auf die Umwelt für den jeweiligen Entscheid bekannt sein müssen.
 
-### 3. Abschnitt:**** UVP im grenzüberschreitenden Rahmen
+### 3. Abschnitt: UVP im grenzüberschreitenden Rahmen
 
 [^chap1-sec3-1]
 
@@ -193,7 +193,7 @@ Für die Voruntersuchung, das Pflichtenheft und den Bericht sind als Vollzugshil
 
 Der Gesuchsteller muss den Bericht zusammen mit den Unterlagen bei der Einleitung des massgeblichen Verfahrens der zuständigen Behörde einreichen.
 
-## 3. Kapitel: Aufgaben der Umweltschutzfachstellen****
+## 3. Kapitel: Aufgaben der Umweltschutzfachstellen
 
 [^chap3-1]
 
@@ -244,9 +244,9 @@ Der Gesuchsteller muss den Bericht zusammen mit den Unterlagen bei der Einleitun
 
 <sup>2</sup> Stellt sie Mängel fest, so beantragt sie der zuständigen Behörde, vom Gesuchsteller ergänzende Abklärungen zu verlangen oder Experten beizuziehen.
 
-<sup>3</sup> Sie beurteilt, ob die geplante Anlage den Vorschriften über den Schutz der Umwelt (Art. 3) entspricht. Bei Projekten, zu denen nach dem Anhang das BAFU anzuhören ist, nimmt dieses eine summarische Beurteilung vor.*[^13-1]*
+<sup>3</sup> Sie beurteilt, ob die geplante Anlage den Vorschriften über den Schutz der Umwelt (Art. 3) entspricht. Bei Projekten, zu denen nach dem Anhang das BAFU anzuhören ist, nimmt dieses eine summarische Beurteilung vor.[^13-1]
 
-<sup>4</sup> Die Umweltschutzfachstelle teilt das Ergebnis ihrer Beurteilung der zuständigen Behörde mit; wenn nötig beantragt sie Auflagen und Bedingungen.*[^13-2]*
+<sup>4</sup> Die Umweltschutzfachstelle teilt das Ergebnis ihrer Beurteilung der zuständigen Behörde mit; wenn nötig beantragt sie Auflagen und Bedingungen.[^13-2]
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2008, in Kraft seit 1. Dez. 2008 ([AS 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 [^13-2]: Eingefügt durch Ziff. I der V vom 19. Sept. 2008, in Kraft seit 1. Dez. 2008 ([AS 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
@@ -388,7 +388,14 @@ Stellt die zuständige Behörde fest, dass die Verwirklichung eines Projektes ei
 
 **Koordination mit Subventionsentscheiden**[^22-1]
 
-<sup>1</sup> Stellt die zuständige kantonale Behörde fest, dass ein Projekt voraussichtlich nur mit einer Subvention des Bundes verwirklicht werden kann, die einzeln gewährt wird, so holt sie vor ihrem Entscheid die Stellungnahme der Subventionsbehörde des Bundes ein. Die Subventionsbehörde hört das BAFU an und berücksichtigt dessen Meinungsäusserung in ihrer Stellungnahme. Das BAFU äussert sich innert drei Monaten.
+<sup>1</sup>
+
+Kann ein Projekt voraussichtlich nur mit einer Subvention des Bundes verwirklicht werden, so holt die kantonale Behörde vor ihrem Entscheid die Stellungnahme der Subventionsbehörde des Bundes ein, wenn:
+
+- a. die Subvention für ein einzelnes Projekt gewährt werden soll; und
+- b. es sich nicht um eine Anlage zur Nutzung erneuerbarer Energien handelt, die Finanzhilfen nach dem Energiegesetz vom 30. September 2016[^22-2] erhalten.[^22-3]
+
+<sup>1bis</sup> Die Subventionsbehörde hört das BAFU an und berücksichtigt seine Meinungsäusserung in ihrer Stellungnahme. Das BAFU äussert sich innert drei Monaten.[^22-4]
 
 <sup>2</sup> Die Subventionsbehörde des Bundes gewährt bei Projekten, die auf ihre Umweltverträglichkeit geprüft werden müssen, eine Subvention im Einzelfall erst nach Abschluss der Prüfung (Art. 18).
 
@@ -397,6 +404,9 @@ Stellt die zuständige Behörde fest, dass die Verwirklichung eines Projektes ei
 <sup>4</sup> Bei Projekten, an die der Bund globale Beiträge auf der Grundlage von Programmvereinbarungen gewährt, richtet sich die Koordination mit Subventionsentscheiden des Kantons nach kantonalem Recht.
 
 [^22-1]: Fassung gemäss Ziff. I 12 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^22-3]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^22-4]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -422,7 +432,7 @@ Gesuche, die bei Inkrafttreten dieser Änderung hängig sind, werden nach neuem 
 
 Diese Verordnung tritt am 1. Januar 1989 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1, 2, 5, 6, 10, 12, 12*a*, 12*b*, 13, 14)
 
@@ -474,7 +484,7 @@ Anhang*[^t-1]*
 
 <table>
 <tr><th>Nr. Anlagetyp</th><th>Massgebliches Verfahren</th></tr>
-<tr><td>14.1 Flughäfen</td><td>Plangenehmigungsverfahren (Art. 37 Abs. 1 des Luftfahrtgesetzes, LFG vom 21. Dez. 1948*[^annexu1-lvlu1-lvl1-lvl14-1]*) und Genehmigung des Betriebsreglementes (Art. 36c Abs. 1 und 36d Abs. 1 LFG)<sup>a)</sup></td></tr>
+<tr><td>14.1 Flughäfen</td><td>Plangenehmigungsverfahren (Art. 37 Abs. 1 des Luftfahrtgesetzes, LFG vom 21. Dez. 1948[^annexu1-lvlu1-lvl1-lvl14-1]) und Genehmigung des Betriebsreglementes (Art. 36c Abs. 1 und 36d Abs. 1 LFG)<sup>a)</sup></td></tr>
 <tr><td>14.2 Flugfelder (ausgenommen Helikopterflugfelder) mit mehr als 15 000 Flugbewegungen<sup>b)</sup> pro Jahr</td><td>Plangenehmigungsverfahren (Art. 37 Abs. 1 LFG) und Genehmigung des Betriebsreglementes (Art. 36*c* Abs. 1 und 36*d* Abs. 1 LFG)<sup>a)</sup></td></tr>
 <tr><td>14.3 Helikopterflugfelder mit mehr als 1000 Flugbewegungen<sup>b)</sup> pro Jahr</td><td>Plangenehmigungsverfahren (Art. 37 Abs. 1 LFG) und Genehmigung des Betriebsreglementes (Art. 36*c* Abs. 1 und 36*d* Abs. 1 LFG)<sup>a)</sup></td></tr>
 <tr><td colspan="2"><sup>a)</sup> Erfolgt das Plangenehmigungsverfahren zusammen mit dem Verfahren zur Genehmigung des Betriebsreglementes oder wird nur eines der beiden Verfahren durchgeführt, so gilt dies auch für die UVP. <sup>b)</sup> Als Flugbewegung zählt jede Landung und jeder Abflug; Durchstartmanöver zählen als zwei Flugbewegungen.</td></tr>

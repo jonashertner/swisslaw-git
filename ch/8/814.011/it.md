@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 1988 concernente l'esame dell'impatto sull'ambi
 short: OEIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931"
 language: it
-version: 2022-08-01
+version: 2025-01-01
 adopted: 1988-10-19
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20220801/it/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20220801-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/it"
 
 (OEIA)
 
-del 19 ottobre 1988 (Stato 1° agosto 2022)
+del 19 ottobre 1988 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^ingress-2]: [RS 0.814.06](https://fedlex.data.admin.ch/eli/cc/2003/610)
 [^ingress-3]: [RS 0.814.07](https://fedlex.data.admin.ch/eli/cc/2014/235)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 12 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)).
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -40,7 +40,7 @@ ordina:
 
 Gli impianti che figurano nell’allegato della presente ordinanza sono sottoposti all’esame dell’impatto sull’ambiente ai sensi dell’articolo 10*a* LPAmb (esame).
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 2
 
@@ -68,7 +68,7 @@ La modificazione di un impianto esistente che non figura nell’allegato è sott
 
 <sup>2</sup> Le conclusioni dell’esame costituiscono una base per la decisione d’autorizzazione, approvazione o concessione nella procedura decisiva (art. 5) nonché per ulteriori autorizzazioni in materia di protezione dell’ambiente (art. 21).
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 4
 
@@ -88,7 +88,7 @@ Nel caso di impianti che non sottostanno all’obbligo dell’esame sono applica
 
 <sup>3</sup> Se non è determinata nell’allegato, la procedura decisiva è designata dal diritto cantonale. I Cantoni scelgono una procedura che permetta un esame tempestivo e circostanziato. Se per determinati impianti i Cantoni prevedono un piano particolareggiato che permetta un esame circostanziato (piano regolatore di dettaglio), questa procedura pianificatoria vale come procedura decisiva.
 
-[^5-1]: Per. introdotto dal n. II 7 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^5-1]: Per. Introdotto dalla cifra II 7 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 6
 
@@ -96,11 +96,11 @@ Nel caso di impianti che non sottostanno all’obbligo dell’esame sono applica
 
 Se l’allegato o il diritto cantonale prevede un esame ripartito in diverse fasi procedurali, in ogni singola fase l’esame si protrae fintanto che l’impatto sull’ambiente non sia accertato nella misura necessaria per la decisione corrispondente.
 
-### Sezione 3:**** OEIA in un contesto transfrontaliero
+### Sezione 3: OEIA in un contesto transfrontaliero
 
 [^chap1-sec3-1]
 
-[^chap1-sec3-1]: Introdotta dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^chap1-sec3-1]: Introdotta dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 6a
 
@@ -127,7 +127,7 @@ Se è accertato o prevedibile che la Svizzera sia interessata da effetti transfr
 
 Chi intende costruire o modificare un impianto che deve essere esaminato secondo la presente ordinanza deve, al momento della progettazione, stendere un rapporto concernente l’impatto dell’impianto sull’ambiente (rapporto).
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 8
 
@@ -142,7 +142,7 @@ Il richiedente elabora:
 
 <sup>2</sup> Il richiedente presenta all’autorità competente l’indagine preliminare e il capitolato d’oneri. L’autorità competente trasmette i documenti al servizio della protezione dell’ambiente (art. 12), il quale si pronuncia in merito e consiglia il richiedente.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 8a
 
@@ -152,7 +152,7 @@ Il richiedente elabora:
 
 <sup>2</sup> Per il contenuto del rapporto si applicano gli articoli 9 e 10. I termini di trattazione sono disciplinati dall’articolo 12*b*.
 
-[^8a-1]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 9
 
@@ -166,8 +166,8 @@ Il richiedente elabora:
 
 <sup>4</sup> Esso deve pure descrivere in che modo si è tenuto conto delle indagini ambientali effettuate nel quadro della pianificazione del territorio.[^9-2]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 10
 
@@ -183,9 +183,9 @@ Per l’indagine preliminare, il capitolato d’oneri e il rapporto sono determi
 
 <sup>2</sup> Negli altri casi, per l’indagine preliminare, il capitolato d’oneri e il rapporto sono determinanti, quale aiuto all’esecuzione, le direttive del servizio cantonale della protezione dell’ambiente.[^10-3]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 11
 
@@ -193,11 +193,11 @@ Per l’indagine preliminare, il capitolato d’oneri e il rapporto sono determi
 
 Il richiedente deve presentare il rapporto, insieme con i documenti, all’autorità decisionale, all’inizio della procedura decisiva.
 
-## Capitolo 3: Compiti del servizio della protezione dell’ambiente****
+## Capitolo 3: Compiti del servizio della protezione dell’ambiente
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^chap3-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 12
 
@@ -209,7 +209,7 @@ Il richiedente deve presentare il rapporto, insieme con i documenti, all’autor
 
 <sup>3</sup> Per i progetti per i quali, secondo l’allegato, va sentito l’UFAM, quest’ultimo esprime un parere sommario in merito all’indagine preliminare, al capitolato d’oneri e al rapporto fondandosi sul parere espresso dal servizio cantonale della protezione dell’ambiente.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 12a
 
@@ -221,7 +221,7 @@ Il richiedente deve presentare il rapporto, insieme con i documenti, all’autor
 
 <sup>3</sup> Per i progetti per i quali, secondo l’allegato, va sentito l’UFAM, quest’ultimo esprime il proprio parere entro due mesi in merito all’indagine preliminare e al capitolato d’oneri.
 
-[^12a-1]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 12b
 
@@ -233,7 +233,7 @@ Il richiedente deve presentare il rapporto, insieme con i documenti, all’autor
 
 <sup>3</sup> Per i progetti per i quali, secondo l’allegato, va sentito l’UFAM, quest’ultimo valuta entro due mesi se l’impianto progettato è conforme alle prescrizioni sulla protezione dell’ambiente.
 
-[^12b-1]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^12b-1]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 [^12b-2]: Nuovo testo giusta l’all. n. 6 all’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 
 #### Art. 13
@@ -248,14 +248,14 @@ Il richiedente deve presentare il rapporto, insieme con i documenti, all’autor
 
 <sup>4</sup> Il servizio della protezione dell’ambiente comunica all’autorità competente le conclusioni della sua valutazione; se necessario, propone oneri e condizioni.[^13-2]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
-[^13-2]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^13-2]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 13a
 
 [^13a-1]
 
-[^13a-1]: Introdotto dal n. I dell’O del 5 set. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)). Abrogato dal n. I dell’O del 19 set. 2008, con effetto dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 5 set. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)). Abrogato dalla cifra I dell’O del 19 set. 2008, con effetto dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 ## Capitolo 4: Compiti dell’autorità decisionale
 
@@ -273,8 +273,8 @@ Il richiedente deve presentare il rapporto, insieme con i documenti, all’autor
 
 <sup>4</sup> Per i progetti per i quali, secondo l’allegato, va sentito l’UFAM, l’autorità competente provvede affinché l’UFAM disponga dell’indagine preliminare, del capitolato d’oneri e del rapporto, nonché della valutazione del servizio cantonale della protezione dell’ambiente.[^14-2]
 
-[^14-1]: Per. introdotto dal n. I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
-[^14-2]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^14-1]: Per. Introdotto dalla cifra I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
+[^14-2]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 #### Art. 15
 
@@ -319,8 +319,8 @@ L’autorità decisionale svolge l’esame fondandosi sui seguenti atti:
 - e. il risultato di eventuali chiarimenti eseguiti da lei stessa o da periti;
 - f. eventuali pareri di altre persone, commissioni, organizzazioni o autorità, nella misura in cui servano all’esame.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
 
 #### Art. 17a
 
@@ -328,7 +328,7 @@ L’autorità decisionale svolge l’esame fondandosi sui seguenti atti:
 
 Se l’autorità federale competente è in disaccordo con la valutazione dell’UFAM nell’ambito della procedura decisiva, per appianare le divergenze si applica l’articolo 62*b* della legge del 21 marzo 1997[^17a-2] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^17a-1]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^17a-1]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 [^17a-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 18
@@ -353,7 +353,7 @@ L’autorità decisionale tiene conto delle conclusioni dell’esame per decider
 
 <sup>2</sup> I documenti di cui al capoverso 1 possono essere consultati durante 30 giorni; restano salvi i termini derogatori previsti dalla procedura decisiva.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
 
 ## Capitolo 5: Coordinazione con altre autorizzazioni e con decisioni in materia di sussidi
 
@@ -375,12 +375,12 @@ Se accerta che la realizzazione del progetto implica una delle seguenti autorizz
 
 <sup>3</sup> L’autorità che rilascia l’autorizzazione è vincolata al parere che ha espresso all’autorità decisionale a meno che, nel frattempo, siano mutate le premesse per la valutazione.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
 [^21-2]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
 [^21-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^21-4]: Nuovo testo giusta il n. I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
+[^21-4]: Nuovo testo giusta la cifra I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
 [^21-5]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^21-6]: Nuovo testo giusta il n. I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 (RU **1****995** 4261).
+[^21-6]: Nuovo testo giusta la cifra I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
 [^21-7]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 [^21-8]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 
@@ -388,7 +388,14 @@ Se accerta che la realizzazione del progetto implica una delle seguenti autorizz
 
 **Coordinazione con le decisioni in materia di sussidi**[^22-1]
 
-<sup>1</sup> Se accerta che un singolo progetto può probabilmente essere realizzato soltanto grazie a un sussidio della Confederazione versato nel singolo caso, l’autorità cantonale competente, prima di decidere, chiede il preavviso dell’autorità federale che accorda il sussidio. Quest’ultima consulta l’UFAM e tiene conto del suo parere nel proprio preavviso. L’UFAM dà il suo parere entro tre mesi.
+<sup>1</sup>
+
+Se è probabile che un progetto possa essere realizzato soltanto grazie a un sussidio della Confederazione, l’autorità cantonale, prima di decidere, chiede il preavviso dell’autorità federale che accorda il sussidio se:
+
+- a. il sussidio deve essere accordato per un singolo progetto; e
+- b. non si tratta di un impianto per l’impiego di energie rinnovabili che beneficia di aiuti finanziari ai sensi della legge del 30 settembre 2016[^22-2] sull’energia.[^22-3]
+
+<sup>1bis</sup> L’autorità che accorda il sussidio consulta l’UFAM e tiene conto del suo parere nel proprio preavviso. L’UFAM dà il suo parere entro tre mesi.[^22-4]
 
 <sup>2</sup> In caso di progetti che devono essere sottoposti all’esame dell’impatto sull’ambiente, l’autorità federale che accorda il sussidio concede un sussidio nel singolo caso solo dopo la conclusione dell’esame (art. 18).
 
@@ -396,7 +403,10 @@ Se accerta che la realizzazione del progetto implica una delle seguenti autorizz
 
 <sup>4</sup> In caso di progetti per i quali la Confederazione versa contributi globali in base ad accordi programmatici, la coordinazione con le decisioni del Cantone concernenti i sussidi è disciplinata dal diritto cantonale.
 
-[^22-1]: Nuovo testo giusta il n. I 12 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-1]: Nuovo testo giusta la cifra I 12 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^22-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^22-3]: Nuovo testo giusta l’all. n. 6 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^22-4]: Introdotto dall’all. n. 6 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Capitolo 6: Disposizioni finali
 
@@ -422,13 +432,13 @@ Le domande pendenti al momento dell’entrata in vigore della presente modifica 
 
 La presente ordinanza entra in vigore il 1° gennaio 1989.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1, 2, 5, 6, 10, 12, 12*a*, 12*b*, 13, 14)
 
 ## Impianti sottoposti all’esame e procedura decisiva
 
-[^t-1]: Aggiornato dall’art. 47 n. 3 dell’O tecnica del 10 dic. 1990 sui rifiuti ([RU 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)), dall’art. 74 dell’O del 23 nov. 1994 sull’infrastruttura aeronautica ([RU 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)), dal n. I dell’O del 5 set. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)), dall’art. 32 dell’O del 25 set. 1995 conc. la procedura d’autorizzazione per costruzioni e impianti militari ([RU 1995 4784](https://fedlex.data.admin.ch/eli/oc/1995/4784_4784_4784)), dal n. II 28 dell’O del 25 nov. 1998 ([RU 1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)), dal n. 1 dell’all. 5 dell’O del 25 ago. 1999 sull’impiego confinato ([RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), dal n. II 7 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)), dal n. 2 dell’all. 7 all’O del 10 dic. 2004 sull’energia nucleare ([RU 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)), dall’art. 71 n. 2 dell’O sugli impianti a fune del 21 dic. 2006 ([RU 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)), dal n. II dell’O del 19 set. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)), dal n. III 1 dell’O del 13 mag. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)), dal n. 6 all’all. 5 all’O del 9 mag. 2012 sull’impiego confinato ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), dal n. III 1 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)), dal n. II dell’O del 12 ago. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), dal n. 5 dell’all. 6 all’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’art. 43 cpv. 1 lett. a dell’O del 25 nov. 2015 sugli impianti di telecomunicazione ([RU 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)), dal n. II 2 dell’all. all’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)) e dal n. II dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)).
+[^t-1]: Aggiornato dall’art. 47 n. 3 dell’O tecnica del 10 dic. 1990 sui rifiuti ([RU 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)), dall’art. 74 dell’O del 23 nov. 1994 sull’infrastruttura aeronautica ([RU 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)), dalla cifra I dell’O del 5 set. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)), dall’art. 32 dell’O del 25 set. 1995 conc. la procedura d’autorizzazione per costruzioni e impianti militari ([RU 1995 4784](https://fedlex.data.admin.ch/eli/oc/1995/4784_4784_4784)), dalla cifra II 28 dell’O del 25 nov. 1998 ([RU 1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)), dal n. 1 dell’all. 5 dell’O del 25 ago. 1999 sull’impiego confinato ([RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), dalla cifra II 7 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)), dal n. 2 dell’all. 7 all’O del 10 dic. 2004 sull’energia nucleare ([RU 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)), dall’art. 71 n. 2 dell’O sugli impianti a fune del 21 dic. 2006 ([RU 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)), dalla cifra II dell’O del 19 set. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)), dalla cifra III 1 dell’O del 13 mag. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)), dal n. 6 all’all. 5 all’O del 9 mag. 2012 sull’impiego confinato ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), dalla cifra III 1 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)), dalla cifra II dell’O del 12 ago. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), dal n. 5 dell’all. 6 all’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’art. 43 cpv. 1 lett. a dell’O del 25 nov. 2015 sugli impianti di telecomunicazione ([RU 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)), dalla cifra II 2 dell’all. all’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)) e dalla cifra II dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)).
 
 ### 1 Trasporti
 
