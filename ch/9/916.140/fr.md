@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordonnance du 14 novembre 2007 sur la viticulture et l'importation de vin (Ordonnance sur le vin)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-833-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/fr"
 
 (Ordonnance sur le vin)
 
-du 14 novembre 2007 (État le 1<sup>er</sup> janvier 2023)
+du 14 novembre 2007 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -134,20 +134,9 @@ Peuvent être cultivées en vue de la production de vin, les surfaces viticoles:
 
 #### Art. 7
 
-**Admission dans l’assortiment des cépages**
+[^7-1]
 
-<sup>1</sup>
-
-Pour l’admission d’une variété dans l’assortiment des cépages, sont notamment déterminantes les propriétés suivantes:
-
-- a. le rendement à l’unité de surface;
-- b. la teneur naturelle en sucre;
-- c. l’acidité totale;
-- d. la résistance aux maladies.
-
-<sup>2</sup> Pour les variétés destinées à la production vinicole, on examine en outre les propriétés organoleptiques des vins issus de celles-ci.
-
-<sup>3</sup> L’OFAG édicte les dispositions d’exécution.
+[^7-1]: Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 639](https://fedlex.data.admin.ch/eli/oc/2024/639)).
 
 ## Section 2 …
 

@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordinanza del 14 novembre 2007 concernente la viticoltura e l'importazione di vino (Ordinanza sul vino)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/it"
 
 (Ordinanza sul vino)
 
-del 14 novembre 2007 (Stato 1° gennaio 2023)
+del 14 novembre 2007 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^ingress-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 ## Sezione 1: Impianti viticoli
 
@@ -62,8 +62,8 @@ I nuovi impianti per la produzione di vino sono autorizzati soltanto su terreni 
 
 <sup>5</sup> Il Cantone disciplina la procedura di autorizzazione e di notifica. Per la procedura di autorizzazione prevede che siano sentiti i servizi cantonali per la protezione della natura e del paesaggio.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
-[^2-2]: Nuova espr. giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
+[^2-2]: Nuova espr. giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -121,8 +121,8 @@ Possono essere coltivate per la produzione di vino le superfici viticole:
 
 <sup>3</sup> La vendita di vino, come pure di uve o di mosto d’uva destinati alla produzione di vino è vietata se questi prodotti provengono da superfici viticole non autorizzate per la produzione di vino.[^5-2]
 
-[^5-1]: Nuova espr. giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^5-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^5-1]: Nuova espr. giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 6
 
@@ -134,20 +134,9 @@ Possono essere coltivate per la produzione di vino le superfici viticole:
 
 #### Art. 7
 
-**Ammissione nell’elenco dei vitigni**
+[^7-1]
 
-<sup>1</sup>
-
-Per ammettere una varietà nell’elenco dei vitigni sono determinanti in particolare le seguenti proprietà:
-
-- a. la resa per unità di superficie;
-- b. il tenore naturale di zucchero;
-- c. il tenore globale di acidi;
-- d. la resistenza alle malattie.
-
-<sup>2</sup> Per le varietà destinate alla produzione vinicola, sono inoltre esaminate le proprietà organolettiche dei vini da essi prodotti.
-
-<sup>3</sup> L’UFAG emana le disposizioni d’esecuzione.
+[^7-1]: Abrogato dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 639](https://fedlex.data.admin.ch/eli/oc/2024/639)).
 
 ## Sezione 2: ...
 
@@ -155,7 +144,7 @@ Per ammettere una varietà nell’elenco dei vitigni sono determinanti in partic
 
 [^818-1]
 
-[^818-1]: Abrogati dal n. I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
+[^818-1]: Abrogati dalla cifra I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
 
 ## Sezione 3: Denominazione ed esigenze minime
 
@@ -177,8 +166,8 @@ Il territorio vitivinicolo svizzero è suddiviso in tre regioni:
 - b.[^20-1] la regione della Svizzera tedesca comprendente i Cantoni di Basilea-Campagna e Basilea-Città, Soletta, Argovia, Sciaffusa, Turgovia, San Gallo, Glarona, Zurigo, Svitto, Zugo, Lucerna, Obvaldo, Nidvaldo, Appenzello Esterno e Appenzello Interno, Uri, Grigioni ad eccezione della Mesolcina e Berna ad eccezione della regione del lago di Bienne;
 - c.[^20-2] la regione della Svizzera italiana comprendente il Cantone Ticino e la Mesolcina.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
 
 #### Art. 21
 
@@ -234,9 +223,9 @@ L’area di produzione dell’uva può essere estesa a un’area limitrofa del t
 <tr><td>Regione Svizzera italiana</td><td>1,2</td><td>1,2.[^21-3]</td></tr>
 </table>
 
-[^21-1]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
-[^21-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^21-1]: Introdotto dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^21-3]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
 
 #### Art. 22
 
@@ -253,8 +242,8 @@ Per vino con indicazione geografica tipica s’intende un vino designato mediant
 <sup>2</sup> Le superfici viticole che il gestore intende utilizzare per la produzione di vino con indicazione geografica tipica devono essere annunciate al Cantone dal gestore entro il 31 luglio dell’anno del raccolto.[^22-3]
 
 [^22-1]: [RU 2008 3931](https://fedlex.data.admin.ch/eli/oc/2008/528)
-[^22-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^22-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 23
 
@@ -272,8 +261,8 @@ Per vino con indicazione geografica tipica e con denominazione tradizionale prop
 <sup>3</sup> I Cantoni fissano requisiti supplementari a quelli fissati nell’articolo 22 lettere b e c.
 
 [^23-1]: Correzione del 19 ago. 2008 ([RU 2008 3931](https://fedlex.data.admin.ch/eli/oc/2008/528)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^23-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^23-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 24
 
@@ -283,7 +272,7 @@ Per vino con indicazione geografica tipica e con denominazione tradizionale prop
 
 <sup>2</sup> Le superfici viticole che il gestore intende utilizzare per la produzione di vino da tavola devono essere annunciate al Cantone dal gestore entro il 31 luglio dell’anno del raccolto.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 24a
 
@@ -291,7 +280,7 @@ Per vino con indicazione geografica tipica e con denominazione tradizionale prop
 
 Alle condizioni di cui all’articolo 21 capoverso 3<sup>bis</sup>, l’area di produzione dei vini con indicazione geografica tipica o dei vini da tavola può essere estesa a un’area limitrofa del territorio svizzero.
 
-[^24a-1]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^24a-1]: Introdotto dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
 
 #### Art. 24b
 
@@ -312,7 +301,7 @@ Il certificato di produzione contiene almeno le seguenti informazioni:
 
 <sup>3</sup> Se su una superficie viticola coltivata, descritta nel catasto viticolo in virtù dell’articolo 4 e destinata alla produzione di vino in virtù dell’articolo 5, è prodotto anche un quantitativo di uva non destinato alla vinificazione, tale quantitativo di uva è computato nel quantitativo massimo di uva della classe di vino selezionata dal proprietario o dal gestore.
 
-[^24b-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^24b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 25
 
@@ -328,8 +317,8 @@ Il certificato di produzione contiene almeno le seguenti informazioni:
 
 Le uve e i mosti destinati all’elaborazione, come pure i vini classificati in funzione delle diverse designazioni e denominazioni devono essere raccolti, elaborati e depositati separatamente. Lo stesso dicasi se un’azienda[^26-2] vinifica per conto di un produttore di uva e i prodotti sono messi in commercio con il nome di tale produttore, associati a un termine che lascia intendere che i prodotti provengono dai suoi vigneti.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
-[^26-2]: Nuova espr. giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
+[^26-2]: Nuova espr. giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 27
 
@@ -345,7 +334,7 @@ Le uve e i mosti destinati all’elaborazione, come pure i vini classificati in 
 
 [^sec3a-1]
 
-[^sec3a-1]: Introdotta dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
+[^sec3a-1]: Introdotta dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
 
 #### Art. 27a
 
@@ -365,7 +354,7 @@ Le uve e i mosti destinati all’elaborazione, come pure i vini classificati in 
 
 <sup>2</sup> I Cantoni possono fissare una resa massima di vinificazione per vitigno inferiore a 80 litri di vino per 100 kg di uva per i vini DOC.
 
-[^27abis-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
+[^27abis-1]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 27b
 
@@ -429,7 +418,7 @@ Possono essere tagliati con vini svizzeri soltanto se sono rispettate le seguent
 
 [^sec3b-1]
 
-[^sec3b-1]: Introdotta dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
+[^sec3b-1]: Introdotta dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
 
 #### Art. 27f
 
@@ -447,7 +436,7 @@ I vini, i vini spumanti e i vini liquorosi svizzeri ed esteri devono soddisfare 
 
 <sup>2</sup> Il controllo della vendemmia è eseguito secondo il principio dell’autocontrollo da parte del vinificatore giusta l’articolo 29 e della sorveglianza dell’autocontrollo da parte del Cantone sulla base di un’analisi dei rischi conformemente agli articoli 30 e 30*a*.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 29
 
@@ -486,8 +475,8 @@ Il vinificatore:
 
 <sup>6</sup> Mette a disposizione delle autorità di controllo i dati di cui ai capoversi 1 e 4 e deve poter attestare l’utilizzo di un nome in virtù del capoverso 1 lettera g.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
 
 #### Art. 30
 
@@ -504,7 +493,7 @@ Essi dispongono di un sistema elettronico che consente un confronto automatico t
 
 <sup>3</sup> Essi trasmettono all’organo responsabile del controllo del commercio del vino giusta l’articolo 36 (organo di controllo) su richiesta le informazioni di cui l’organo di controllo necessita per il corretto esercizio del suo lavoro.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 30a
 
@@ -542,7 +531,7 @@ Sulla scheda delle forniture il vinificatore deve essere identificabile in modo 
 - a. numero d’identificazione delle imprese (IDI) in virtù della legge federale del 18 giugno 2010[^30a-2] sul numero d’identificazione delle imprese;
 - b. numero del registro delle imprese e degli stabilimenti (RIS) giusta la legge del 9 ottobre 1992[^30a-3] sulla statistica federale.
 
-[^30a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^30a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 [^30a-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 [^30a-3]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 
@@ -566,7 +555,7 @@ Essi informano l’UFAG, secondo le sue prescrizioni, entro fino marzo dell’an
 
 <sup>4</sup> Essi presentano all’UFAG, entro fine gennaio dell’anno successivo alla vendemmia, un rapporto della vendemmia che comprende tutti i dati statistici secondo l’allegato numero 156 dell’ordinanza sulle rilevazioni statistiche.
 
-[^30b-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^30b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 [^30b-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
 #### Art. 31
@@ -579,7 +568,7 @@ Essi informano l’UFAG, secondo le sue prescrizioni, entro fino marzo dell’an
 
 <sup>3</sup> Se un Cantone non adempie i suoi obblighi secondo gli articoli 30–30*b*, la Confederazione può negare in tutto o in parte l’importo forfettario annuale giusta il capoverso 1. Se l’importo forfettario è già stato versato, può richiederne la restituzione completa o parziale.[^31-1]
 
-[^31-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^31-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 32
 
@@ -597,7 +586,7 @@ L’UFAG pubblica annualmente un rapporto sul volume e sulla qualità del raccol
 
 <sup>2</sup> Per commercio di vini s’intende l’acquisto e la vendita di succo d’uva, di mosti, di prodotti contenenti vino e di vini, effettuati a titolo professionale, come pure il trattamento e l’immagazzinamento di questi prodotti in vista della loro distribuzione o commercializzazione.[^33-1]
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
 
 #### Art. 34
 
@@ -629,7 +618,7 @@ Sono esentate dal controllo del commercio dei vini anche le aziende:
 
 <sup>4</sup> In caso di sospetto di infrazione, l’attività delle aziende di cui ai capoversi 2 e 3 può essere controllata in qualsiasi momento.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 34a
 
@@ -648,7 +637,7 @@ Ogni azienda che esercita il commercio di vino deve:
 
 <sup>4</sup> Le aziende di cui all’articolo 34 capoverso 3 sono esentate dall’obbligo di tenere una contabilità di cantina.
 
-[^34a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^34a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 34b
 
@@ -683,7 +672,7 @@ Nel caso di prodotti esteri, in applicazione dell’allegato 7 dell’accordo de
 - a. un documento d’accompagnamento per il trasporto di prodotti vitivinicoli; o
 - b. un documento rilasciato o riconosciuto dal servizio competente del Paese produttore.
 
-[^34b-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^34b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 34c
 
@@ -706,7 +695,7 @@ La contabilità va completata con i giustificativi utili secondo le disposizioni
 
 <sup>3</sup> Nel caso di prodotti esteri, se rilevante, devono essere forniti i mezzi di prova giusta l’articolo 34*b* capoverso 4.
 
-[^34c-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^34c-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 34d
 
@@ -716,7 +705,7 @@ La contabilità va completata con i giustificativi utili secondo le disposizioni
 
 <sup>2</sup> Esso è allestito ogni anno il 31 dicembre e presentato, munito della firma del responsabile dell’inventario, all’organo di controllo al più tardi il 31 gennaio dell’anno successivo.
 
-[^34d-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^34d-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 34e
 
@@ -729,7 +718,7 @@ Le aziende devono offrire il necessario sostegno all’organo di controllo. Esse
 - c. su richiesta, consegnare tutti i documenti, etichette e prodotti considerati dall’organo di controllo come giustificativi o come rilevanti per i controlli nonché consentire la consultazione della contabilità finanziaria e aziendale;
 - d. mettere a disposizione gratuitamente i vini prelevati dall’organo di controllo per il campionamento.
 
-[^34e-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^34e-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 35
 
@@ -758,7 +747,7 @@ L’organo di controllo effettua il controllo in funzione dei possibili rischi. 
 
 <sup>5</sup> In caso di contestazione l’organo di controllo dispone i provvedimenti necessari ed esercita il diritto di querela giusta l’articolo 172 della legge del 29 aprile 1998 sull’agricoltura.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 [^35-2]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116.]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 
 #### Art. 35a
@@ -775,8 +764,8 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 - f. presenta all’UFAG, su domanda, altri resoconti richiesti e gli trasmette tutti i documenti di cui dispone o ai quali ha accesso;
 - g.[^35a-2] gestisce e aggiorna la banca dati isotopica dei vini svizzeri di cui all’articolo 35*b*.
 
-[^35a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^35a-2]: Introdotta dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
+[^35a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^35a-2]: Introdotta dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 35b
 
@@ -786,7 +775,7 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 
 <sup>2</sup> La raccolta dell’uva destinata alla vinificazione dei vini di riferimento e la sua vinificazione sono affidate ad Agroscope.
 
-[^35b-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
+[^35b-1]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 36
 
@@ -796,13 +785,13 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 
 <sup>2</sup> L’UFAG stipula un accordo di prestazione con l’organo di controllo. L’accordo disciplina in particolare gli obblighi dell’organo di controllo, la portata dell’accreditamento, la vigilanza, la protezione dei dati nonché gli oneri relativi alle ispezioni e la disposizione di provvedimenti.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 37
 
 [^37-1]
 
-[^37-1]: Abrogato dal n. I dell’O del 12 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5843](https://fedlex.data.admin.ch/eli/oc/2008/806)).
+[^37-1]: Abrogato dalla cifra I dell’O del 12 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5843](https://fedlex.data.admin.ch/eli/oc/2008/806)).
 
 #### Art. 38
 
@@ -814,13 +803,13 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 
 <sup>3</sup> I costi delle analisi dei campioni prelevati dall’organo di controllo sono assunti dall’organo di controllo. Se le analisi danno adito a contestazioni i rispettivi costi sono a carico dell’azienda controllata.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 39
 
 [^39-1]
 
-[^39-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^39-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 40
 
@@ -834,7 +823,7 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 
 <sup>4</sup> I servizi federali e cantonali forniscono all’organo di controllo, su sua domanda, ogni informazione utile alla sua attività.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 [^40-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 41
@@ -843,7 +832,7 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 
 L’organo di controllo sottostà alla vigilanza del DEFR.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 ## Sezione 6: Certificazione della qualità per l’esportazione
 
@@ -931,8 +920,8 @@ Esso adotta in particolare i seguenti provvedimenti:
 - b. declassamento giusta l’articolo 27;
 - c. ordine concernente la tenuta di una contabilità di cantina secondo l’articolo 34*a*.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^47-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^47-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
 
 #### Art. 48
 
@@ -952,7 +941,7 @@ Esso adotta in particolare i seguenti provvedimenti:
 
 <sup>2</sup> Gli organi di controllo del commercio dei vini sotto la responsabilità dei Cantoni, riconosciuti come equivalenti dall’UFAG, possono esercitare la loro attività di controllo secondo il diritto federale previgente al più tardi fino al 31 dicembre 2018. Le aziende finora ad essi subordinate sottostanno, al più tardi dal 1° gennaio 2019, all’organo di controllo di cui all’articolo 36.
 
-[^48a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^48a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 48b
 
@@ -960,7 +949,7 @@ Esso adotta in particolare i seguenti provvedimenti:
 
 I vini svizzeri a denominazione di origine controllata (DOC) prodotti con uve della vendemmia 2018 e di anni precedenti devono adempiere le esigenze in materia di edulcorazione stabilite dal diritto federale e cantonale previgente.
 
-[^48b-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
+[^48b-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4195](https://fedlex.data.admin.ch/eli/oc/2018/679)).
 
 #### Art. 49
 
@@ -983,7 +972,7 @@ Allegato 1[^t-1]
 
 ## Termini vinicoli specifici
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 4 nov. 2009 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)). Aggiornato dal n. II cpv. 2 dell’O del 23 ott. 2013 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)), dall’all. n. 4 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)) e dal n. II dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 4 nov. 2009 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)). Aggiornato dalla cifra II cpv. 2 dell’O del 23 ott. 2013 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)), dall’all. n. 4 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)) e dalla cifra II dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 <table>
 <tr><th>Diciture</th><th>Definizioni</th></tr>
@@ -1008,7 +997,7 @@ Allegato 1[^t-1]
 <tr><td>Vin doux naturel</td><td>Sinonimo di un vino liquoroso che corrisponde a una definizione cantonale precisa in materia di limitazione della produzione e del tenore di zucchero. L’arricchimento e la concentrazione sono vietati.</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Nuova espr. giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^annex1-lvlu1-1]: Nuova espr. giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 Allegato 2[^t-2]
 
@@ -1016,9 +1005,9 @@ Allegato 2[^t-2]
 
 ## Tavola di conversione dei gradi Brix e dei gradi Oechslé
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
 
-**Gradi Oechslé in funzione del percento massico di saccarosio Temperatura di riferimento: 20 °C**
+Gradi Oechslé in funzione del percento massico di saccarosio Temperatura di riferimento: 20 °C
 
 <table>
 <tr><th>°Brix</th><th>°Oe</th><th>°Brix</th><th>°Oe</th><th>°Brix</th><th>°Oe</th></tr>
@@ -1071,9 +1060,9 @@ Allegato 3[^t-3]
 
 ## Denominazioni tradizionali
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del 4 nov. 2009, in vigore dal 1° ago. 2010 ([RU 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
 
-**Le denominazioni tradizionali sono:**
+Le denominazioni tradizionali sono:
 
 Dôle (VS)
 
@@ -1097,4 +1086,4 @@ Païen o Heida (VS)
 
 Allegato 4[^t-4]
 
-[^t-4]: Abrogato dal n. II cpv. 1 dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
+[^t-4]: Abrogato dalla cifra II cpv. 1 dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).

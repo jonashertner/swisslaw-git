@@ -3,11 +3,11 @@ sr: "916.140"
 title: Verordnung vom 14. November 2007 über den Rebbau und die Einfuhr von Wein (Weinverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/de"
 
 (Weinverordnung)
 
-vom 14. November 2007 (Stand am 1. Januar 2023)
+vom 14. November 2007 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -132,20 +132,9 @@ Zur Weinerzeugung sind nur Rebflächen zugelassen:
 
 #### Art. 7
 
-**Aufnahme in das Rebsortenverzeichnis**
+[^7-1]
 
-<sup>1</sup>
-
-Für die Aufnahme einer Rebsorte in das Rebsortenverzeichnis sind insbesondere folgende Eigenschaften massgebend:
-
-- a. der Ertrag pro Flächeneinheit;
-- b. der natürliche Zuckergehalt;
-- c. der Gesamtsäuregehalt;
-- d. die Krankheitsempfindlichkeit.
-
-<sup>2</sup> Für Rebsorten, die der Weinerzeugung dienen, werden zusätzlich die sensorischen Eigenschaften der daraus hergestellten Weine geprüft.
-
-<sup>3</sup> Das BLW erlässt die Ausführungsbestimmungen.
+[^7-1]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 639](https://fedlex.data.admin.ch/eli/oc/2024/639)).
 
 ## 2. Abschnitt: …
 
@@ -825,7 +814,7 @@ Die Kontrollstelle hat ferner die folgenden Pflichten:
 <sup>4</sup> Die Amtsstellen des Bundes und der Kantone erteilen der Kontrollstelle auf deren Verlangen die für ihre Tätigkeit sachdienlichen Informationen.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^40-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^40-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 (SR **170.512.1**) auf den 1. Jan. 2022 angepasst (AS **2021** 589).
 
 #### Art. 41
 
@@ -851,11 +840,9 @@ Die Kontrollstelle untersteht der Aufsicht des WBF.
 
 Keiner Generaleinfuhrbewilligung (GEB) bedürfen:
 
-a.[^43-1] Einfuhren von Naturweinen der Zolltarifnummern 2204.2221, 2222, 2231, 2232, 2923, 2924, 2933 und 2934 im Rahmen des «contingent particulier »;
-
-b. Einfuhren aus dem eigenen Rebberg gemäss Artikel 46;
-
-c.[^43-2] Einfuhren von Süssweinen, Weinspezialitäten und Mistellen der Zolltarifnummer 2204.2150.
+- a.[^43-1] Einfuhren von Naturweinen der Zolltarifnummern 2204.2221, 2222, 2231, 2232, 2923, 2924, 2933 und 2934 im Rahmen des «contingent particulier »;
+- b. Einfuhren aus dem eigenen Rebberg gemäss Artikel 46;
+- c.[^43-2] Einfuhren von Süssweinen, Weinspezialitäten und Mistellen der Zolltarifnummer 2204.2150.
 
 [^43-1]: Fassung gemäss Anhang 3 Ziff. 12 der V vom 10. Juni 2016 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2017 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
 [^43-2]: Fassung gemäss Anhang 7 Ziff. 8 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
@@ -864,17 +851,19 @@ c.[^43-2] Einfuhren von Süssweinen, Weinspezialitäten und Mistellen der Zollta
 
 **Besondere Voraussetzungen für die Zuteilung von Zollkontingentsanteilen**
 
-<sup>1</sup> Zollkontingentsanteile für Weisswein und Rotweinsowie Traubensaft werden mit Ausnahme von Absatz 2 nur Personen zugeteilt, die:
+<sup>1</sup>
 
-a. die Einfuhr gewerbsmässig betreiben; und
+Zollkontingentsanteile für Weisswein und Rotweinsowie Traubensaft werden mit Ausnahme von Absatz 2 nur Personen zugeteilt, die:
 
-b. die Pflichten nach Artikel 34 erfüllen.
+- a. die Einfuhr gewerbsmässig betreiben; und
+- b. die Pflichten nach Artikel 34 erfüllen.
 
-<sup>2</sup> Zollkontingentsanteile für das «contingent particulier» werden nur Personen zugeteilt, die:
+<sup>2</sup>
 
-a. die Weine in Behältnissen mit einem Fassungsvermögen von mehr als 2 Litern einführen; und
+Zollkontingentsanteile für das «contingent particulier» werden nur Personen zugeteilt, die:
 
-b. den Wein einzig den Privatkunden (einschliesslich Hoteliers und Restaurateure) liefern, welche die Weine für ihren persönlichen Bedarf oder zum Ausschank in ihrem Restaurant oder Hotel unter Ausschluss jeglichen Handels kaufen.
+- a. die Weine in Behältnissen mit einem Fassungsvermögen von mehr als 2 Litern einführen; und
+- b. den Wein einzig den Privatkunden (einschliesslich Hoteliers und Restaurateure) liefern, welche die Weine für ihren persönlichen Bedarf oder zum Ausschank in ihrem Restaurant oder Hotel unter Ausschluss jeglichen Handels kaufen.
 
 #### Art. 45
 
@@ -892,11 +881,12 @@ b. den Wein einzig den Privatkunden (einschliesslich Hoteliers und Restaurateure
 
 **Einfuhren aus eigenem Rebberg**
 
-<sup>1</sup> Jährlich können 100 Liter Wein aus eigenem Rebberg der Zolltarifnummern 2204.2221, 2222, 2231, 2232, 2923, 2924, 2933 und 2934 je Haushalt oder Betrieb zum Kontingentszollansatz (KZA) eingeführt werden, wenn:[^46-1]
+<sup>1</sup>
 
-a. die Einfuhren in Behältnissen mit einem Fassungsvermögen von mehr als 2 Litern erfolgen; und
+Jährlich können 100 Liter Wein aus eigenem Rebberg der Zolltarifnummern 2204.2221, 2222, 2231, 2232, 2923, 2924, 2933 und 2934 je Haushalt oder Betrieb zum Kontingentszollansatz (KZA) eingeführt werden, wenn:[^46-1]
 
-b. dem BLW mit dem Gesuch um Einfuhren zum KZA ein amtlich beglaubigter Eigentumsnachweis der zuständigen ausländischen Behörde eingereicht wird.
+- a. die Einfuhren in Behältnissen mit einem Fassungsvermögen von mehr als 2 Litern erfolgen; und
+- b. dem BLW mit dem Gesuch um Einfuhren zum KZA ein amtlich beglaubigter Eigentumsnachweis der zuständigen ausländischen Behörde eingereicht wird.
 
 <sup>2</sup> Die Einfuhren werden dem Zollkontingent nicht angerechnet.
 
