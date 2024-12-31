@@ -4,13 +4,13 @@ number: 892b
 title: Kantonale Asylverordnung
 short: KAsylV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-21
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-29
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892b"
-pdf: "https://srl.lu.ch/api/de/versions/4305/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4358/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4305/pdf_file"
 
 (KAsylV)
 
-vom 24.11.2015 (Stand 01.01.2024)
+vom 24.11.2015 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -115,48 +115,48 @@ beschliesst:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Betrag pro Person und tatsächlichen Anwesenheitstag</th></tr>
-<tr><td>1 Person</td><td>Fr. 12.50</td></tr>
-<tr><td>2 Personen</td><td>Fr. 12.00</td></tr>
-<tr><td>3 Personen</td><td>Fr. 11.50</td></tr>
-<tr><td>4 Personen</td><td>Fr. 11.00</td></tr>
-<tr><td>5 Personen</td><td>Fr. 11.25</td></tr>
-<tr><td>6 Personen</td><td>Fr. 10.20</td></tr>
-<tr><td>7 Personen</td><td>Fr. 10.15</td></tr>
-<tr><td>8 Personen</td><td>Fr. 10.10</td></tr>
-<tr><td>9 Personen</td><td>Fr. 10.05</td></tr>
-<tr><td>für jede weitere Person</td><td>Fr. 10.00</td></tr>
+<tr><td>1 Person</td><td>Fr. 12.90</td></tr>
+<tr><td>2 Personen</td><td>Fr. 12.35</td></tr>
+<tr><td>3 Personen</td><td>Fr. 11.85</td></tr>
+<tr><td>4 Personen</td><td>Fr. 11.60</td></tr>
+<tr><td>5 Personen</td><td>Fr. 11.35</td></tr>
+<tr><td>6 Personen</td><td>Fr. 10.50</td></tr>
+<tr><td>7 Personen</td><td>Fr. 10.45</td></tr>
+<tr><td>8 Personen</td><td>Fr. 10.40</td></tr>
+<tr><td>9 Personen</td><td>Fr. 10.35</td></tr>
+<tr><td>für jede weitere Person</td><td>Fr. 10.30</td></tr>
 </table>
 
 <sup>3</sup> Ansätze für Asylsuchende und Schutzbedürftige ohne Aufenthaltsbewilligung in individuellen Unterkünften:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Betrag pro Person und Tag</th></tr>
-<tr><td>1 Person</td><td>Fr. 14.80</td></tr>
-<tr><td>2 Personen</td><td>Fr. 13.20</td></tr>
-<tr><td>3 Personen</td><td>Fr. 12.20</td></tr>
-<tr><td>4 Personen</td><td>Fr. 11.65</td></tr>
-<tr><td>5 Personen</td><td>Fr. 11.30</td></tr>
-<tr><td>6 Personen</td><td>Fr. 11.00</td></tr>
-<tr><td>7 Personen</td><td>Fr. 10.75</td></tr>
-<tr><td>8 Personen</td><td>Fr. 10.60</td></tr>
-<tr><td>9 Personen</td><td>Fr. 10.45</td></tr>
-<tr><td>für jede weitere Person</td><td>Fr. 10.00</td></tr>
+<tr><td>1 Person</td><td>Fr.15.25</td></tr>
+<tr><td>2 Personen</td><td>Fr. 13.60</td></tr>
+<tr><td>3 Personen</td><td>Fr. 12.60</td></tr>
+<tr><td>4 Personen</td><td>Fr. 12.00</td></tr>
+<tr><td>5 Personen</td><td>Fr. 11.65</td></tr>
+<tr><td>6 Personen</td><td>Fr. 11.35</td></tr>
+<tr><td>7 Personen</td><td>Fr. 11.10</td></tr>
+<tr><td>8 Personen</td><td>Fr. 10.95</td></tr>
+<tr><td>9 Personen</td><td>Fr. 10.80</td></tr>
+<tr><td>für jede weitere Person</td><td>Fr. 10.30</td></tr>
 </table>
 
 <sup>4</sup> Ansätze für vorläufig aufgenommene Ausländerinnen und Ausländer in individuellen Unterkünften:
 
 <table>
 <tr><th>Haushaltsgrösse</th><th>Betrag pro Person und Tag</th></tr>
-<tr><td>1 Person</td><td>Fr. 22.40</td></tr>
-<tr><td>2 Personen</td><td>Fr. 18.25</td></tr>
-<tr><td>3 Personen</td><td>Fr. 15.70</td></tr>
-<tr><td>4 Personen</td><td>Fr. 14.20</td></tr>
-<tr><td>5 Personen</td><td>Fr. 13.35</td></tr>
-<tr><td>6 Personen</td><td>Fr. 12.50</td></tr>
-<tr><td>7 Personen</td><td>Fr. 11.90</td></tr>
-<tr><td>8 Personen</td><td>Fr. 11.45</td></tr>
-<tr><td>9 Personen</td><td>Fr. 11.15</td></tr>
-<tr><td>für jede weitere Person</td><td>Fr. 10.00</td></tr>
+<tr><td>1 Person</td><td>Fr. 23.05</td></tr>
+<tr><td>2 Personen</td><td>Fr. 18.80</td></tr>
+<tr><td>3 Personen</td><td>Fr. 16.20</td></tr>
+<tr><td>4 Personen</td><td>Fr. 14.65</td></tr>
+<tr><td>5 Personen</td><td>Fr. 13.75</td></tr>
+<tr><td>6 Personen</td><td>Fr. 12.90</td></tr>
+<tr><td>7 Personen</td><td>Fr. 12.25</td></tr>
+<tr><td>8 Personen</td><td>Fr. 11.80</td></tr>
+<tr><td>9 Personen</td><td>Fr. 11.50</td></tr>
+<tr><td>für jede weitere Person</td><td>Fr. 10.30</td></tr>
 </table>
 
 #### § 8
