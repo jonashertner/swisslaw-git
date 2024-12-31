@@ -4,7 +4,7 @@ number: "730.01"
 title: "LOI du 16.05.2006 sur l'énergie (LVLEne)"
 short: LVLEne
 language: fr
-version: 2022-03-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01?id=e7f13ccb-9bc3-4442-876e-c316278b9975"
 ---
 
@@ -581,6 +581,8 @@ sont interdits.
 - a. pour des installations provisoires ;
 - b. pour des chauffages de secours ;
 - c. lorsque le recours à un autre système de chauffage est impossible ou disproportionné.
+
+<sup>2bis</sup> L'assainissement des chauffages et chauffe-eau électriques est réglé par un décret.
 
 <sup>3</sup> Le Conseil d'Etat peut accorder des subventions pour le remplacement des chauffages électriques fixes lorsque le nouveau vecteur énergétique est basé sur une énergie renouvelable.
 
