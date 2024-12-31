@@ -5,11 +5,12 @@ title: Gesetz über Hochschulen und Forschung
 short: GHF
 language: de
 version: 2025-01-01
+corrected: 2024-11-26
 version_adopted: 2024-06-11
 adopted: 2012-10-24
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/427.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3489/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3398/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -64,7 +65,7 @@ beschliesst:
 
 **Kooperationen**
 
-<sup>1</sup> Hochschulen und Forschungsstätten kooperieren in ihrem Aufgabenbereich mit der Wirtschaft sowie mit in- und ausländischen Organisationen und Institutionen aus Bildung, Wissenschaft und Forschung, namentlich auch mit den Höheren Fachschulen.
+<sup>1</sup> Hochschulen und Forschungsstätten kooperieren in ihrem Aufgabenbereich mit der Wirtschaft sowie mit in- und ausländischen Organisationen und Institutionen aus Bildung, Wissenschaft und Forschung.
 
 #### Art. 5
 
@@ -81,18 +82,6 @@ beschliesst:
 <sup>2</sup> Sie können sich im Rahmen ihrer gesetzlichen Aufgaben und ihres Leistungsauftrags zur Verwertung von Immaterialgüterrechten an juristischen Personen des öffentlichen und privaten Rechts beteiligen.
 
 <sup>3</sup> Der Kanton unterstützt die Hochschulen und Forschungsstätten bei im Kanton domizilierten Ausgründungen und kann dazu Beiträge ausrichten.
-
-#### Art. 6a
-
-**Bezeichnungs- und Titelschutz**
-
-<sup>1</sup> Die Bezeichnungen von Institutionen des Hochschulbereichs sind gemäss dem Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich[^6a-1] geschützt.
-
-<sup>2</sup> Titel, welche an einer kantonalen oder kantonal anerkannten Hochschule erworben wurden, sind geschützt.
-
-<sup>3</sup> Titel, welche auf unrechtmässige Weise erworben wurden, werden durch die Institution entzogen, die sie verliehen hat.
-
-[^6a-1]: SR [414.20](https://db.clex.ch/link/Bund/414.20/de)
 
 ## 2. Hochschulen mit kantonaler Trägerschaft
 
@@ -116,15 +105,15 @@ beschliesst:
 
 **PHGR**
 
-<sup>1</sup> Die PHGR bietet Bachelor- und Masterstudiengänge im Bereich Lehrkräfteausbildung insbesondere für die Volks- sowie für die Maturitätsschulen an, wobei sie die Bedürfnisse des dreisprachigen Kantons und der umliegenden Kantone besonders berücksichtigt.
+<sup>1</sup> Die PHGR sorgt für die Ausbildung von Lehrpersonen, wobei sie die Bedürfnisse des Kantons und der umliegenden Kantone besonders berücksichtigt. Sie bietet pädagogische Bachelorprogramme an und kann Masterprogramme durchführen.
 
-<sup>2</sup> Sie fördert die Weiterbildung auf allen Stufen der Volks- und der Maturitätsschulen, betreibt angewandte Forschung und Entwicklung im Bereich der Volksschule und bietet Dritten Dienstleistungen an.
+<sup>2</sup> Sie fördert die Weiterbildung von Lehrpersonen aller Stufen der Volksschule und die Ausbildung der Praktikumslehrpersonen, betreibt angewandte Forschung und Entwicklung im Bereich der Volksschule und bietet Dritten Dienstleistungen an.
 
 #### Art. 10
 
 **FHGR**
 
-<sup>1</sup> Die FHGR bietet Bachelor- und Masterstudiengänge im Interesse der Bündner Volkswirtschaft an und setzt ihre Schwerpunkte in Technik und Wirtschaft.
+<sup>1</sup> Die FHGR bietet technische und ökonomische Bachelor- und Masterprogramme an.
 
 <sup>2</sup> Sie fördert die Weiterbildung von Kaderkräften aus Wirtschaft und Verwaltung, betreibt angewandte Forschung und Entwicklung und erbringt Dienstleistungen für Dritte.
 
@@ -142,7 +131,7 @@ beschliesst:
 
 **Organe der Hochschulen und Wahl**
 
-<sup>1</sup> Jede Hochschule verfügt über eigene Organe. Diese sind der mindestens fünf Mitglieder umfassende Hochschulrat, die Hochschulleitung und die Revisionsstelle.
+<sup>1</sup> Jede Hochschule verfügt über eigene Organe. Diese sind der maximal sieben Mitglieder umfassende Hochschulrat, die Hochschulleitung und die Revisionsstelle.
 
 <sup>2</sup> Die Regierung wählt den Hochschulrat und dessen Präsidium. Sie berücksichtigt dabei die Interessen der Wirtschaft und der Bildungsinstitutionen.
 
@@ -155,7 +144,6 @@ beschliesst:
 <sup>1</sup> Der Hochschulrat als schulinternes strategisches Organ ist insbesondere zuständig für:
 
 - a) die Planung und Überwachung der Zielerreichung im Zusammenhang mit dem von der Regierung erteilten Leistungsauftrag;
-- a<sup>bis</sup>) die Festlegung neuer Bachelor- und Masterstudiengänge;
 - b) die Verabschiedung des Budgets zuhanden der Regierung und die Aufsicht über den Finanzhaushalt;
 - c) die Festlegung der Führungsorganisation sowie der Vorgaben für das Reporting und das Qualitätsmanagement in Form eines Reglements;
 - d) die Wahl und Abwahl der Rektorin oder des Rektors, der Mitglieder der Hochschulleitung und der hauptamtlich Dozierenden;
@@ -235,7 +223,7 @@ beschliesst:
 
 <sup>1</sup> Die Regierung erteilt den Hochschulen mit kantonaler Trägerschaft einen Leistungsauftrag mit Globalbeitrag.
 
-<sup>2</sup> Liegt für eine Institution des Hochschulbereichs ohne kantonale Trägerschaft eine Betriebsbewilligung vor und besteht ein ausreichendes kantonales Interesse, kann die Regierung einen Leistungsauftrag mit Globalbeitrag oder mit einer leistungsorientierten Pauschale erteilen.
+<sup>2</sup> Liegt für eine Institution des Hochschulbereichs ohne kantonale Trägerschaft eine Betriebsbewilligung vor und besteht ein ausreichendes kantonales Interesse, kann die Regierung einen Leistungsauftrag mit Globalbeitrag erteilen.
 
 #### Art. 21
 
@@ -247,8 +235,7 @@ beschliesst:
 - b) die Genehmigung der Leistungsaufträge;
 - c) die Freigabe der jährlichen Globalbeiträge gestützt auf den vom Grossen Rat genehmigten Budgetkredit;
 - d) die Festlegung der Kriterien zur Überprüfung der Zielerreichung von Leistungsaufträgen sowie Vorgaben für Budgetierung und Rechnungslegung;
-- e) den Erlass von Bestimmungen für Hochschulen mit kantonaler Trägerschaft, welche Mitwirkung, Finanz- und Rechnungswesen, Immobilienmanagement sowie die Absicherung des Liegenschafteneigentums regeln;
-- f) die Bewilligung von neuen Fachbereichen.
+- e) den Erlass von Bestimmungen für Hochschulen mit kantonaler Trägerschaft, welche Mitwirkung, Finanz- und Rechnungswesen, Immobilienmanagement sowie die Absicherung des Liegenschafteneigentums regeln.
 
 #### Art. 22
 
@@ -290,9 +277,7 @@ beschliesst:
 
 **Beiträge für Zusammenarbeit**
 
-<sup>1</sup> Das Departement kann Massnahmen initiieren oder unterstützen, welche die Zusammenarbeit und die Koordination unter den einzelnen Hochschulen und Forschungsstätten fördern. Die Höhere Berufsbildung und die Sekundarstufe II sollen nach Möglichkeit miteinbezogen werden.
-
-<sup>2</sup> Das Departement kann leistungsorientierte Beiträge für die Tertiärbildung und Forschung aus zweckgebundenen kantonalen Fonds oder aus Spezialfinanzierungen im Sinne der Bestimmungen der Finanzhaushaltsgesetzgebung sprechen.
+<sup>1</sup> Das Departement kann Massnahmen unterstützen, welche die Zusammenarbeit und die Koordination unter den einzelnen Hochschulen und Forschungsstätten mit der höheren Berufsbildung und der Sekundarstufe II fördern.
 
 #### Art. 27
 
