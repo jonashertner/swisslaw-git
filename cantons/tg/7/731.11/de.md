@@ -4,13 +4,12 @@ number: "731.11"
 title: Energienutzungsverordnung
 short: ENV
 language: de
-version: 2023-07-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-20
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2010-11-09
 in_force: 2011-02-06
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/731.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2684/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2882/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ ENV
 
 (ENV)
 
-vom 09.11.2010 (Stand 01.07.2023)
+vom 09.11.2010 (Stand 01.01.2025)
 
 ## 1. Allgemeine Bemerkungen
 
@@ -49,7 +48,7 @@ vom 09.11.2010 (Stand 01.07.2023)
 
 **Politische Gemeinden**
 
-<sup>1</sup> Der Vollzug von § 7 bis § 13 des Gesetzes über die Energienutzung (ENG)[^3-1] und von § 12 bis § 45 dieser Verordnung mit Ausnahme von § 17, § 21 Abs. 3 und § 22 obliegt den Politischen Gemeinden.
+<sup>1</sup> Der Vollzug von § 7 bis § 13 des Gesetzes über die Energienutzung (ENG)[^3-1] und von § 12 bis § 45 dieser Verordnung mit Ausnahme von § 4a bis § 4d, § 21 Abs. 3 und § 22 obliegt den Politischen Gemeinden.
 
 [^3-1]: RB [731.1](https://www.rechtsbuch.tg.ch/data/731.1/de)
 
@@ -99,7 +98,7 @@ vom 09.11.2010 (Stand 01.07.2023)
 
 **Haustechnische Anlagen**
 
-<sup>1</sup> Bei Neubauten und tiefgreifenden Umbau- und Sanierungsmassnahmen sind Gebäude mit Personenbelegungen, in denen pro Person eine Fläche von 20 m² oder weniger zur Verfügung steht, mit einer mechanischen Lüftungsanlage mit Wärmerückgewinnung und einem WRG-Wirkungsgrad von mindestens 70 % sowie nach dem Stand der Technik auszurüsten.
+<sup>1</sup> Bei Neubauten und tiefgreifenden Umbau- und Sanierungsmassnahmen sind Gebäude mit Personenbelegungen, in denen bei Vollbelegung eine Personenfläche (nach SIA AP=AE/P) von 20 m² oder weniger zur Verfügung steht, mit einer mechanischen Lüftungsanlage mit Wärmerückgewinnung und einem WRG-Wirkungsgrad von mindestens 70 % sowie nach dem Stand der Technik auszurüsten.
 
 <sup>2</sup> Bei einem Heizungsersatz, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, gilt die Vorbildfunktion bezüglich der Förderung der Nutzung erneuerbarer und umweltverträglich produzierter Energien als wahrgenommen, wenn die neue Anlage nicht mehr mit fossilen Brennstoffen betrieben wird.
 
@@ -153,7 +152,7 @@ vom 09.11.2010 (Stand 01.07.2023)
 
 **Beiträge**
 
-<sup>1</sup> Im Rahmen des bewilligten Budgetkredites für Fördermassnahmen im Energienutzungsbereich kann das Amt für Energie pro Einzelfall über einen Beitrag von maximal Fr. 50'000 verfügen. Über höhere Beiträge bestimmt das Departement.
+<sup>1</sup> Im Rahmen des bewilligten Budgetkredites für Fördermassnahmen im Energienutzungsbereich kann das Amt für Energie pro Einzelfall über einen Beitrag von maximal Fr. 150'000 verfügen. Über höhere Beiträge bestimmt das Departement.
 
 <sup>2</sup> Die Beitragsauszahlung erfolgt in der Regel in Form von Investitionsbeiträgen, in besonderen Fällen in Form von Risikogarantien.
 
@@ -272,7 +271,7 @@ vom 09.11.2010 (Stand 01.07.2023)
 <sup>1</sup> Bei Neubauten sowie erheblichen Umbauten und Umnutzungen, die Geschossflächen von insgesamt mehr als 1'000 m² für Dienstleistungen, gewerbliche oder öffentliche Nutzungen enthalten, ist für diese Flächen der Elektrizitätsbedarf folgendermassen einzuhalten:
 
 - 1\. Beleuchtung: Einhaltung der Grenzwerte Energie oder Einhaltung der spezifischen installierten Leistung mittels EnFK-Berechnungswerkzeug basierend auf den Grenz- und Zielwerten der SIA-Norm 387/4, Ausgabe 2017.
-- 2\. Kühlen, Be- und Entfeuchten: bei Neubauten ist die benötigte Energie im gewichteten Energiebedarf gemäss § 24a zu berücksichtigen. Bei Umbauten und Umnutzungen ist entweder der elektrische Leistungsbedarf von 12 W/m² für Medienförderung, Aufbereitung, Kühlung, Be- und Entfeuchtung einzuhalten, oder die Anlagen sind gemäss der Vollzugshilfe EN-110 der Energiefachstellenkonferenz auszuführen.
+- 2\. …
 
 <sup>1<sup>bis</sup></sup> Alternativ zu Abs. 1 ist eine zu § 42e (§ 8 Abs. 1<sup>bis</sup> ENG) zusätzliche Elektrizitätserzeugungsanlage mit mindestens 10 W pro m² Energiebezugsfläche zu installieren. Die Obergrenze von 30 kW entfällt.
 
@@ -447,7 +446,7 @@ vom 09.11.2010 (Stand 01.07.2023)
 
 <sup>2</sup> Wassererwärmer sind für eine Betriebstemperatur von maximal 60 °C auszulegen. Ausgenommen sind Wassererwärmer, deren Temperatur aus betrieblichen oder aus hygienischen Gründen höher sein muss.
 
-<sup>3</sup> Der Neueinbau einer direkt-elektrischen Erwärmung des Brauchwarmwassers ist in Wohnbauten nur erlaubt, wenn das Brauchwarmwasser
+<sup>3</sup> Der Neueinbau oder Ersatz einer direkt-elektrischen Erwärmung des Brauchwarmwassers ist in Wohnbauten nur erlaubt, wenn das Brauchwarmwasser
 
 - 1\. während der Heizperiode mit dem Wärmeerzeuger für die Raumbeheizung erwärmt beziehungsweise vorgewärmt wird oder
 - 2\. primär mittels erneuerbarer Energie oder nicht anders nutzbarer Abwärme erwärmt wird.
@@ -558,9 +557,9 @@ vom 09.11.2010 (Stand 01.07.2023)
 
 **Erneuerbare Energie beim Heizungsersatz**
 
-<sup>1</sup> Die Anforderung bezüglich erneuerbare Energie beim Heizungsersatz ist erfüllt, wenn
+<sup>1</sup> Die Anforderung bezüglich erneuerbarer Energie beim Heizungsersatz ist erfüllt, wenn
 
-- 1\. die fachgerechte Umsetzung einer Standardlösung gemäss Anhang 3a gewährleistet ist,
+- 1\. die fachgerechte Umsetzung einer Haupt-Standardlösung (SL1 bis SL6) oder zweier Kombinations-Standardlösungen (SL7 bis SL15) gemäss Anhang 3a gewährleistet ist,
 - 2\. die Zertifizierung des Gebäudes nach Minergie ausgewiesen ist,
 - 3\. die Klasse D bei der Gesamtenergieeffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist,
 - 4\. für die betroffenen Bauten und Gebäudegruppen die Baubewilligung nach dem 1. Juli 1988 erteilt wurde,
@@ -573,6 +572,8 @@ vom 09.11.2010 (Stand 01.07.2023)
 <sup>4</sup> Die erneuerbaren flüssigen oder gasförmigen Brennstoffe sind mit mindestens 75 % schweizerischer Biomasse zu produzieren.
 
 <sup>5</sup> Die Frist für die Umsetzung einer Standardlösung beträgt maximal drei Jahre.
+
+<sup>6</sup> Zur Anwendung der Haupt-Standardlösung 6 und der Kombinations-Standardlösung 15 ist eine Bezugsvereinbarung für leitungsgebundene erneuerbare gasförmige Brennstoffe mit dem Energieversorger über den jeweils geforderten Schweizer Biogasanteil zum Zeitpunkt der Inbetriebnahme des Heizungsersatzes zu vereinbaren und vorzulegen.
 
 #### § 42b
 
@@ -656,6 +657,8 @@ vom 09.11.2010 (Stand 01.07.2023)
 <sup>2</sup> Bewilligungspflichtige Vorhaben der öffentlichen Hand gemäss Titel 1a, für die das Gesuch bis zum 30. Juni 2024 eingereicht wird, werden nach dem Recht in der Fassung vom 1. Juli 2020 beurteilt.
 
 <sup>3</sup> Bei bewilligungspflichtigen Neubauten mit Eigenstromerzeugung, für die das Gesuch bis zum 31. Dezember 2023 eingereicht wird, muss die installierte Elektrizitätserzeugungsanlage die Anforderung gemäss § 42e Abs. 1 in der Fassung vom 1. Juli 2020 erfüllen.
+
+<sup>4</sup> Beim Heizungsersatz werden Vorhaben, für die das Gesuch inklusive Formular EN-120 Energienachweis «Erneuerbare Wärme beim Wärmeerzeugungsersatz» spätestens am 31. Dezember 2024 bei der Gemeinde eingereicht worden ist und bei denen die neue Heizung bis zum 30. Juni 2025 in Betrieb genommen wird, nach bisherigem Recht beurteilt.
 
 #### § 47–48
 
