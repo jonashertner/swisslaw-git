@@ -4,13 +4,12 @@ number: "152.141"
 title: Ordonnance sur les indemnités de frais des membres du gouvernement
 short: OIG
 language: fr
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-10-21
+version: 2025-01-01
+version_adopted: 2024-08-21
 adopted: 2020-10-21
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.141"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2048/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3058/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2048/pdf_file"
 
 (OIG)
 
-du 21.10.2020 (état au 01.01.2021)
+du 21.10.2020 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -61,7 +60,7 @@ arrête:
 - a frais d’utilisation du véhicule privé à des fins de service,
 - b frais d’utilisation de l’infrastructure privée à des fins de service,
 - c frais d’habillement,
-- d autres menus frais tels que casiers à consigne, pourboires ou petits dons.
+- d menus frais jusqu'à concurrence de 50 francs par dépense engagée.
 
 #### Art. 4
 
@@ -73,6 +72,8 @@ arrête:
 - b frais d’hébergement,
 - c frais de déplacement,
 - d frais liés aux voyages à l’étranger.
+
+<sup>2</sup> Les frais jusqu'à concurrence de 50 francs sont considérés comme menus frais au sens de l'article 3, alinéa 1, lettre d et ne sont pas remboursés.
 
 #### Art. 5
 

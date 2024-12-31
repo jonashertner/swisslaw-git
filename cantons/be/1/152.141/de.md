@@ -4,13 +4,12 @@ number: "152.141"
 title: Verordnung über den Auslagenersatz für die Mitglieder des Regierungsrates
 short: ARV
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-10-21
+version: 2025-01-01
+version_adopted: 2024-08-21
 adopted: 2020-10-21
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.141"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2048/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3058/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2048/pdf_file"
 
 (ARV)
 
-vom 21.10.2020 (Stand 01.01.2021)
+vom 21.10.2020 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -61,7 +60,7 @@ beschliesst:
 - a Kosten für die Benützung des privaten Fahrzeugs für dienstliche Zwecke,
 - b Kosten für die Benützung der privaten Infrastruktur für dienstliche Zwecke,
 - c Bekleidungskosten,
-- d sonstige Kleinauslagen wie Kosten für Schliessfächer, Trinkgelder oder Kleinspenden.
+- d Kleinauslagen bis zum Betrag von 50 Franken pro Auslage.
 
 #### Art. 4
 
@@ -73,6 +72,8 @@ beschliesst:
 - b Unterkunftskosten,
 - c Fahrkosten,
 - d Kosten für Auslandreisen.
+
+<sup>2</sup> Auslagen bis 50 Franken gelten als Kleinauslagen gemäss Artikel 3 Absatz 1 Buchstabe d und werden nicht ersetzt.
 
 #### Art. 5
 
