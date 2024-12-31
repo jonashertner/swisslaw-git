@@ -4,13 +4,12 @@ number: "492.100"
 title: Lescha da linguas dal chantun Grischun
 short: LLing
 language: rm
-version: 2017-01-01
-corrected: 2022-11-02
-version_adopted: 2016-02-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-10-19
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/492.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2708/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3399/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2708/pdf_file"
 
 (LLing)
 
-dals 19-10-2006 (versiun dals 01-01-2017)
+dals 19-10-2006 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -72,9 +71,9 @@ concluda:
 
 <sup>3</sup> Las autoritads chantunalas respundan en la lingua uffiziala, en la quala ellas vegnan dumandadas. En il contact cun vischnancas, cun regiuns e cun corporaziuns da vischnancas dovran ellas las linguas uffizialas da talas. En proceduras da recurs sa drizza la lingua da procedura tenor la lingua uffiziala che vegn duvrada en la decisiun contestada.
 
-<sup>4</sup> En la correspundenza dovran las autoritads chantunalas, la dretgira chantunala, la dretgira administrativa e la dretgira da mesiras repressivas las linguas uffizialas en lur furmas da standard.
+<sup>4</sup> En la correspundenza dovran las autoritads chantunalas, la Dretgira superiura, la Dretgira da giustia e la Dretgira da mesiras repressivas las linguas uffizialas en lur furmas da standard.
 
-<sup>5</sup> La furma rumantscha da standard da las autoritads chantunalas, da la dretgira chantunala, da la dretgira administrativa e da la dretgira da mesiras repressivas è rumantsch grischun. Persunas da lingua rumantscha pon sa drizzar al chantun en ils idioms u en rumantsch grischun.
+<sup>5</sup> La furma rumantscha da standard da las autoritads chantunalas, da la Dretgira superiura, da la Dretgira da giustia e da la Dretgira da mesiras repressivas è rumantsch grischun. Persunas da lingua rumantscha pon sa drizzar al chantun en ils idioms u en rumantsch grischun.
 
 #### Art. 4
 
@@ -118,9 +117,9 @@ concluda:
 
 #### Art. 8
 
-**2. dretgira chantunala, dretgira administrativa e dretgira da mesiras repressivas**
+**2. Dretgira superiura, Dretgira da giustia e Dretgira da mesiras repressivas**
 
-<sup>1</sup> Davant la dretgira chantunala, davant la dretgira administrativa e davant la dretgira da mesiras repressivas pon las partidas duvrar ina lingua chantunala uffiziala da lur tscherna per lur scrittiras giuridicas e per lur inoltraziuns.
+<sup>1</sup> En proceduras davant la Dretgira superiura, davant la Dretgira da giustia e davant la Dretgira da mesiras repressivas pon las partidas duvrar ina lingua chantunala uffiziala da lur tscherna per lur scrittiras giuridicas e per lur inoltraziuns.
 
 <sup>2</sup> La lingua da procedura sa drizza per regla tenor la lingua uffiziala che vegn duvrada en la decisiun contestada respectivamain tenor la lingua uffiziala che vegn discurrida e duvrada da la partida accusada.
 
@@ -148,7 +147,7 @@ concluda:
 
 **4. autoritads da mediaziun**
 
-<sup>1</sup> Sch'ina autoritad da mediaziun è cumpetenta per l'entir chantun, vegnan applitgadas las disposiziuns davart la dretgira chantunala, davart la dretgira administrativa e davart la dretgira da mesiras repressivas.
+<sup>1</sup> Sch'ina autoritad da mediaziun è cumpetenta per l'entir chantun, vegnan applitgadas las disposiziuns davart la Dretgira superiura, davart la Dretgira da giustia e davart la Dretgira da mesiras repressivas.
 
 <sup>2</sup> Per las proceduras davant las ulteriuras autoritads da mediaziun vegnan applitgadas confurm al senn las disposiziuns davart las dretgiras regiunalas.
 
@@ -158,7 +157,7 @@ concluda:
 
 **Chantun 1. instituziuns**
 
-<sup>1</sup> A la lia rumantscha, a la pro Grigioni italiano ed a l'agentura da novitads rumantscha paja il chantun contribuziuns periodicas annualas per mantegnair e per promover la lingua e la cultura rumantscha respectivamain taliana.
+<sup>1</sup> A la Lia rumantscha, a la Pro Grigioni italiano ed a la Fundaziun Medias Rumantschas paja il chantun contribuziuns periodicas annualas per mantegnair e per promover la lingua e la cultura rumantscha respectivamain taliana.
 
 <sup>2</sup> La concessiun da las contribuziuns chantunalas vegn fatga dependenta da l'observaziun da cunvegnas da prestaziun tranter il chantun e las instituziuns che han il dretg da survegnir contribuziuns. Questas cunvegnas da prestaziun vegnan concludidas per ina perioda da mintgamai quatter onns.
 

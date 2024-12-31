@@ -4,13 +4,12 @@ number: "492.100"
 title: Sprachengesetz des Kantons Graubünden
 short: SpG
 language: de
-version: 2017-01-01
-corrected: 2022-11-02
-version_adopted: 2016-02-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-10-19
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/492.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2708/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3399/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2708/pdf_file"
 
 (SpG)
 
-Vom 19.10.2006 (Stand 01.01.2017)
+Vom 19.10.2006 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -72,9 +71,9 @@ beschliesst:
 
 <sup>3</sup> Die kantonalen Behörden antworten in der Amtssprache, in der sie angegangen werden. Im Verkehr mit Gemeinden, Regionen und Gemeindeverbänden verwenden sie deren Amtssprachen. In Beschwerdeverfahren richtet sich die Verfahrenssprache nach der im angefochtenen Entscheid verwendeten Amtssprache.
 
-<sup>4</sup> Im Schriftverkehr benutzen die kantonalen Behörden, das Kantons-, das Verwaltungs- und das Zwangsmassnahmengericht die Amtssprachen in ihren Standardformen.
+<sup>4</sup> Im Schriftverkehr benutzen die kantonalen Behörden, das Obergericht, das Justizgericht und das Zwangsmassnahmengericht die Amtssprachen in ihren Standardformen.
 
-<sup>5</sup> Rätoromanische Standardform der kantonalen Behörden, des Kantons-, des Verwaltungs- und des Zwangsmassnahmengerichts ist Rumantsch Grischun. Personen rätoromanischer Sprache können sich in den Idiomen oder in Rumantsch Grischun an den Kanton wenden.
+<sup>5</sup> Rätoromanische Standardform der kantonalen Behörden, des Obergerichts, des Justizgerichts und des Zwangsmassnahmengerichts ist Rumantsch Grischun. Personen rätoromanischer Sprache können sich in den Idiomen oder in Rumantsch Grischun an den Kanton wenden.
 
 #### Art. 4
 
@@ -118,9 +117,9 @@ beschliesst:
 
 #### Art. 8
 
-**2. Kantons-, Verwaltungs- und Zwangsmassnahmengericht**
+**2. Obergericht, Justizgericht und Zwangsmassnahmengericht**
 
-<sup>1</sup> Am Kantons-, Verwaltungs- und Zwangsmassnahmengericht können die Parteien für ihre Rechtsschriften und Eingaben eine kantonale Amtssprache ihrer Wahl verwenden.
+<sup>1</sup> In Verfahren vor dem Obergericht, dem Justizgericht und dem Zwangsmassnahmengericht können die Parteien für ihre Rechtsschriften und Eingaben eine kantonale Amtssprache ihrer Wahl verwenden.
 
 <sup>2</sup> Die Verfahrenssprache richtet sich in der Regel nach der im angefochtenen Entscheid verwendeten Amtssprache beziehungsweise nach der Amtssprache, welcher die beklagte Partei mächtig ist.
 
@@ -148,7 +147,7 @@ beschliesst:
 
 **4. Schlichtungsbehörden**
 
-<sup>1</sup> Ist eine Schlichtungsbehörde für den ganzen Kanton zuständig, finden die Bestimmungen für das Kantons-, Verwaltungs- und Zwangsmassnahmengericht Anwendung.
+<sup>1</sup> Ist eine Schlichtungsbehörde für den ganzen Kanton zuständig, finden die Bestimmungen für das Obergericht, das Justizgericht und das Zwangsmassnahmengericht Anwendung.
 
 <sup>2</sup> Für die Verfahren vor den übrigen Schlichtungsbehörden finden die Bestimmungen über die Regionalgerichte sinngemäss Anwendung.
 
@@ -158,7 +157,7 @@ beschliesst:
 
 **Kanton 1. Institutionen**
 
-<sup>1</sup> Der Kanton leistet an die Lia Rumantscha, an die Pro Grigioni Italiano und an die Agentura da Novitads Rumantscha jährlich wiederkehrende Beiträge zur Erhaltung und Förderung der rätoromanischen beziehungsweise italienischen Sprache und Kultur.
+<sup>1</sup> Der Kanton leistet an die Lia Rumantscha, an die Pro Grigioni Italiano und an die Fundaziun Medias Rumantschas jährlich wiederkehrende Beiträge zur Erhaltung und Förderung der rätoromanischen beziehungsweise italienischen Sprache und Kultur.
 
 <sup>2</sup> Die Gewährung der Kantonsbeiträge wird von der Einhaltung von Leistungsvereinbarungen zwischen dem Kanton und den beitragsberechtigten Institutionen abhängig gemacht, die jeweils für eine Periode von vier Jahren abgeschlossen werden.
 

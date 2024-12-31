@@ -4,13 +4,12 @@ number: "492.100"
 title: Legge sulle lingue del Cantone dei Grigioni
 short: LCLing
 language: it
-version: 2017-01-01
-corrected: 2022-11-02
-version_adopted: 2016-02-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-10-19
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/492.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2708/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3399/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2708/pdf_file"
 
 (LCLing)
 
-del 19.10.2006 (stato 01.01.2017)
+del 19.10.2006 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni,
 
@@ -72,9 +71,9 @@ decide[^ingress-3]:
 
 <sup>3</sup> Le autorità cantonali rispondono nella lingua ufficiale nella quale sono state interpellate. Nei rapporti con i comuni, le regioni e le corporazioni comunali esse usano le rispettive lingue ufficiali. Nella procedura di ricorso la lingua della procedura si conforma alla lingua ufficiale usata nella decisione impugnata.
 
-<sup>4</sup> Nei rapporti scritti, le autorità cantonali, il Tribunale cantonale, il Tribunale amministrativo e il giudice dei provvedimenti coercitivi usano le lingue ufficiali nelle loro forme standard.
+<sup>4</sup> Nei rapporti scritti, le autorità cantonali, il Tribunale d'appello, il Tribunale della magistratura e il giudice dei provvedimenti coercitivi usano le lingue ufficiali nelle loro forme standard.
 
-<sup>5</sup> La forma standard del romancio usata dalle autorità cantonali, dal Tribunale cantonale, dal Tribunale amministrativo e dal giudice dei provvedimenti coercitivi è il rumantsch grischun. Le persone di lingua romancia possono rivolgersi al Cantone negli idiomi o in rumantsch grischun.
+<sup>5</sup> La forma standard del romancio usata dalle autorità cantonali, dal Tribunale d'appello, dal Tribunale della magistratura e dal giudice dei provvedimenti coercitivi è il rumantsch grischun. Le persone di lingua romancia possono rivolgersi al Cantone negli idiomi o in rumantsch grischun.
 
 #### Art. 4
 
@@ -118,9 +117,9 @@ decide[^ingress-3]:
 
 #### Art. 8
 
-**2. Tribunale cantonale, Tribunale amministrativo e giudice dei provvedimenti coercitivi**
+**2. Tribunale d'appello, Tribunale della magistratura e giudice dei provvedimenti coercitivi**
 
-<sup>1</sup> Nelle loro memorie e istanze destinate al Tribunale cantonale, al Tribunale amministrativo e al giudice dei provvedimenti coercitivi le parti possono usare una lingua ufficiale cantonale di loro scelta.
+<sup>1</sup> In procedimenti dinanzi al Tribunale d'appello, al Tribunale della magistratura e al giudice dei provvedimenti coercitivi le parti possono usare una lingua ufficiale cantonale di loro scelta per le loro memorie e istanze.
 
 <sup>2</sup> La lingua della procedura si conforma di regola alla lingua ufficiale usata nella decisione impugnata rispettivamente alla lingua ufficiale parlata dalla parte convenuta.
 
@@ -148,7 +147,7 @@ decide[^ingress-3]:
 
 **4. Autorità di conciliazione**
 
-<sup>1</sup> Se un'autorità di conciliazione è competente per l'intero Cantone, si applicano le disposizioni relative al Tribunale cantonale, al Tribunale amministrativo e al giudice dei provvedimenti coercitivi.
+<sup>1</sup> Se un'autorità di conciliazione è competente per l'intero Cantone, si applicano le disposizioni relative al Tribunale d'appello, al Tribunale della magistratura e al giudice dei provvedimenti coercitivi.
 
 <sup>2</sup> Alle procedure dinanzi alle altre autorità di conciliazione si applicano per analogia le disposizioni relative ai tribunali regionali.
 
@@ -158,7 +157,7 @@ decide[^ingress-3]:
 
 **Cantone 1. Istituzioni**
 
-<sup>1</sup> Il Cantone versa sussidi annuali alla Lia Rumantscha, alla Pro Grigioni Italiano e all'Agentura da Novitads Rumantscha per la salvaguardia e la promozione della lingua e cultura romancia rispettivamente italiana.
+<sup>1</sup> Il Cantone versa sussidi annuali alla Lia Rumantscha, alla Pro Grigioni Italiano e alla Fundaziun Medias Rumantschas per la salvaguardia e la promozione della lingua e cultura romancia rispettivamente italiana.
 
 <sup>2</sup> La concessione dei sussidi cantonali viene fatta dipendere dal rispetto di accordi di prestazione stipulati tra il Cantone e le istituzioni aventi diritto a sussidi, validi per un periodo di quattro anni.
 
