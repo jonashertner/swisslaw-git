@@ -4,13 +4,13 @@ number: "548.120"
 title: Disposizioni esecutive della legge sugli assegni familiari
 short: DE LAF
 language: it
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-11
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-29
 adopted: 2008-10-28
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/548.120"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3271/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3476/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3271/pdf_file"
 
 (DE LAF)
 
-del 28.10.2008 (stato 01.01.2023)
+del 28.10.2008 (stato 01.01.2025)
 
 emanate dal Governo il 28 ottobre 2008
 
@@ -180,7 +180,7 @@ emanate dal Governo il 28 ottobre 2008
 
 <sup>2</sup> La valutazione degli attivi e dei passivi si conforma alle direttive valide per le casse di compensazione AVS.
 
-<sup>3</sup> La tassa di compensazione ammonta allo 0,12 per cento delle masse salariali soggette a contributi, rispettivamente al reddito sottoposto all'AVS sino all'importo massimo conformemente all'articolo 16 capoverso 4 LAFam.
+<sup>3</sup> La tassa di compensazione ammonta allo 0,08 per cento delle masse salariali soggette a contributi, rispettivamente al reddito sottoposto all'AVS sino all'importo massimo conformemente all'articolo 16 capoverso 4 LAFam.
 
 ## 4. Rimedi legali
 

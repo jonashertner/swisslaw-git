@@ -4,13 +4,13 @@ number: "548.120"
 title: Ausführungsbestimmungen zum Gesetz über die Familienzulagen
 short: ABzKFZG
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-11
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-29
 adopted: 2008-10-28
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.120"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3271/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3271/pdf_file"
 
 (ABzKFZG)
 
-Vom 28.10.2008 (Stand 01.01.2023)
+Vom 28.10.2008 (Stand 01.01.2025)
 
 Von der Regierung erlassen am 28. Oktober 2008
 
@@ -180,7 +180,7 @@ Von der Regierung erlassen am 28. Oktober 2008
 
 <sup>2</sup> Die Bewertung der Aktiven und Passiven richtet sich nach den für die AHV-Ausgleichskassen geltenden Richtlinien.
 
-<sup>3</sup> Die Ausgleichsabgabe beträgt 0.12 Prozent der beitragspflichtigen Lohnsummen respektive der gemäss Artikel 16 Absatz 4 FamZG plafonierten AHV-beitragspflichtigen Einkommen.
+<sup>3</sup> Die Ausgleichsabgabe beträgt 0.08 Prozent der beitragspflichtigen Lohnsummen respektive der gemäss Artikel 16 Absatz 4 FamZG plafonierten AHV-beitragspflichtigen Einkommen.
 
 ## 4. Rechtspflege
 

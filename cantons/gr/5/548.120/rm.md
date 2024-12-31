@@ -4,13 +4,13 @@ number: "548.120"
 title: Disposiziuns executivas tar la lescha davart ils supplements da famiglia
 short: DERtLSF
 language: rm
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-11
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-29
 adopted: 2008-10-28
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/548.120"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3271/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3271/pdf_file"
 
 (DERtLSF)
 
-dals 28-10-2008 (versiun dals 01-01-2023)
+dals 28-10-2008 (versiun dals 01-01-2025)
 
 relaschadas da la regenza ils 28 d'october 2008
 
@@ -180,7 +180,7 @@ relaschadas da la regenza ils 28 d'october 2008
 
 <sup>2</sup> La valitaziun da las activas e da las passivas sa drizza tenor las directivas che valan per las cassas da cumpensaziun da la AVS.
 
-<sup>3</sup> La taxa da gulivaziun importa 0,12 pertschient da las summas dals salaris ch'èn suttamessas a las contribuziuns respectivamain da las entradas ch'èn suttamessas a las contribuziuns da la AVS e ch'èn limitadas tenor l'artitgel 16 alinea 4 LSFam.
+<sup>3</sup> La taxa da gulivaziun importa 0,08 pertschient da las summas dals salaris ch'èn suttamessas a las contribuziuns respectivamain da las entradas ch'èn suttamessas a las contribuziuns da la AVS e ch'èn limitadas tenor l'artitgel 16 alinea 4 LSFam.
 
 ## 4. Giurisdicziun
 
