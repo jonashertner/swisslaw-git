@@ -4,24 +4,25 @@ number: "161.113"
 title: Geschäftsordnung des Strafgerichts
 short: GO SG
 language: de
-version: 2011-01-01
-valid_until: 2024-12-31
-version_adopted: 2010-09-02
+version: 2025-01-01
+version_adopted: 2024-10-31
 adopted: 2024-10-31
 in_force: 2025-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.113"
-pdf: "https://bgs.zg.ch/api/de/versions/873/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsordnung des Strafgerichts
 
-Vom 2. September 2010 (Stand 1. Januar 2011)
+(GO SG)
+
+Vom 31. Oktober 2024 (Stand 1. Januar 2025)
 
 Das Strafgericht des Kantons Zug,
 
-gestützt auf § 55 i.V.m. § 30 Abs. 4 des Gesetzes über die Organisation der Zivil- und Strafrechtspflege vom 26. August 2010 (Gerichtsorganisationsgesetz, GOG)[^ingress-1],
+gestützt auf § 55 in Verbindung mit § 30 Abs. 4 des Gesetzes über die Organisation der Zivil- und Strafrechtspflege vom 26. August 2010 (Gerichtsorganisationsgesetz, GOG[^ingress-1]),
 
 beschliesst:
 
@@ -29,72 +30,88 @@ beschliesst:
 
 #### § 1
 
-**Amtseid und Amtsgelöbnis**
+**Allgemeines**
 
-<sup>1</sup> Die vom Volk gewählten Mitglieder und Ersatzmitglieder des Gerichts leisten bei Amtsantritt den Amtseid bzw. das Amtsgelöbnis nach folgender Formel:
-
-<sup>2</sup> Eidesformel: «Ich schwöre, die Verfassung und die Gesetze des Bundes und des Kantons getreu zu befolgen, die Rechte und Freiheiten des Volkes zu achten und zu schützen, die Ehre und Wohlfahrt des Kantons zu fördern und überhaupt allen amtlichen Pflichten so nachzukommen, dass ich es vor Gott verantworten kann.»
-
-<sup>3</sup> Gelöbnisformel: «Ich gelobe, die Verfassung und die Gesetze des Bundes und des Kantons getreu zu befolgen, die Rechte und Freiheiten des Volkes zu achten und zu schützen, die Ehre und Wohlfahrt des Kantons zu fördern und überhaupt allen amtlichen Pflichten gewissenhaft nachzukommen.»
+<sup>1</sup> Diese Geschäftsordnung regelt die Einzelheiten der Organisation des Strafgerichts.
 
 #### § 2
 
 **Plenum**
 
-<sup>1</sup> Das Gericht erledigt unter Mitwirkung aller Mitglieder und unter Beizug der Kanzleivorsteherin bzw. des Kanzleivorstehers neben den ihm gesetzlich zugewiesenen Geschäften alle administrativen Aufgaben, namentlich:
+<sup>1</sup> Das Plenum besteht aus den voll-, teil- und nebenamtlichen Mitgliedern des Gerichts.
+
+<sup>2</sup> Ausserordentliche Ersatzmitglieder i.S.v. § 16 Abs. 1 GOG[^2-1] sowie die Kanzleivorsteherin bzw. der Kanzleivorsteher nehmen an den Plenarsitzungen mit beratender Stimme teil.
+
+<sup>3</sup> Das Plenum erledigt namentlich folgende Aufgaben:
 
 - a) Erlass der Geschäftsordnung;
-- b) Wahl der Vizepräsidentin bzw. des Vizepräsidenten;
-- c) Erstattung des Rechenschaftsberichts an das Obergericht;
-- d) Antragstellung an das Obergericht gemäss § 64 Abs. 2 GOG.
+- b) Wahl und Abberufung der Vizepräsidentin bzw. des Vizepräsidenten;
+- c) Wahl und Abberufung der Kanzleivorsteherin bzw. des Kanzleivorstehers;
+- d) Erstattung des Rechenschaftsberichts ans Obergericht;
+- e) Unterbreitung von Anstellungs- und Beförderungsanträgen ans Obergericht.
 
-<sup>2</sup> Das Plenum kann bestimmte administrative Geschäfte einzelnen Mitgliedern übertragen.
+<sup>4</sup> Das Plenum kann einzelne Geschäfte einzelnen Mitgliedern übertragen.
 
-<sup>3</sup> Zur Fassung eines gültigen Beschlusses des Plenums ist die Anwesenheit aller Mitglieder erforderlich. Für die Behandlung von dringlichen Verwaltungsgeschäften ist das Plenum bei längerer Verhinderung eines Mitgliedes mit mindestens drei Mitgliedern beschlussfähig.
+<sup>5</sup> Das Plenum wird vom Präsidium einberufen. Die Einberufung kann von mindestens zwei Mitgliedern unter Angabe des Verhandlungsgegenstandes verlangt werden.
+
+<sup>6</sup> Zur Fassung eines Beschlusses ist die Mitwirkung aller Mitglieder erforderlich. Bei längerer Verhinderung eines oder mehrerer Mitglieder ist das Plenum ohne diese beschlussfähig.
+
+<sup>7</sup> Die Mitwirkung an einem Plenarbeschluss erfolgt in der Regel durch physische Teilnahme am Ort der Sitzung. Ausnahmsweise und im Einverständnis mit dem Präsidium ist eine virtuelle Teilnahme mittels elektronischer Medien möglich.
+
+<sup>8</sup> Jedes Mitglied verfügt unabhängig vom Beschäftigungsgrad über eine Stimme und ist zur Stimmabgabe verpflichtet. Ein Beschluss kommt mit dem einfachen Mehr der mitwirkenden Mitglieder zustande. Bei Stimmengleichheit steht dem Präsidium der Stichentscheid zu.
+
+<sup>9</sup> Beschlüsse können auf dem Zirkulationsweg gefasst werden, sofern nicht ein Mitglied die Beratung und Beschlussfassung an einer Sitzung verlangt. Zirkulationsbeschlüsse können nur einstimmig gefasst werden.
+
+<sup>10</sup> Über die Plenarsitzung wird ein Beschlussprotokoll geführt. Auf Verlangen eines Mitgliedes werden auch die Abstimmungsergebnisse festgehalten und/oder über einzelne Geschäfte ein Verhandlungsprotokoll geführt.
+
+[^2-1]: BGS [161.1](https://bgs.zg.ch/data/161.1/de)
 
 #### § 3
 
 **Präsidium**
 
-<sup>1</sup> Die Präsidentin bzw. der Präsident erledigt neben den gesetzlich zugewiesenen Geschäften namentlich auch die folgenden Aufgaben:
+<sup>1</sup> Die Präsidentin bzw. der Präsident (Präsidium) erledigt neben den ihr bzw. ihm gesetzlich zugewiesenen Geschäften namentlich folgende Aufgaben:
 
 - a) Vereidigung der Mitglieder und Ersatzmitglieder;
-- b) Leitung der Geschäfte des Gerichts;
-- c) Führung der Mitglieder des Gerichts und der Kanzleivorsteherin bzw. des Kanzleivorstehers;
-- d) Erstellung der Pikett-Liste für die Einzelrichterinnen und Einzelrichter in ihrer Funktion als Zwangsmassnahmengericht;
-- e) Entgegennahme der Eingaben;
-- f) Führung des Geschäftsverzeichnisses;
-- g) Zuweisung der Geschäftsfälle;
-- h) Bestimmung des Spruchkörpers des Kollegialgerichts;
-- i) Vertretung des Strafgerichts nach aussen.
+- b) Leitung der Geschäfte des Strafgerichts;
+- c) Führung der Mitglieder und der Kanzleivorsteherin bzw. des Kanzleivorstehers;
+- d) Einberufung des Plenums;
+- e) Führung des Geschäftsverzeichnisses;
+- f) Zuweisung der Geschäftsfälle;
+- g) Bestimmung der Mitglieder des Kollegialgerichts;
+- h) Bestimmung eines Ersatzmitgliedes i.S.v. Art. 335 Abs. 3 StPO[^3-1];
+- i) Zuweisung der Gerichtsschreiberinnen und Gerichtsschreiber unter Berücksichtigung der Interessen der betroffenen Personen;
+- j) Vertretung des Strafgerichts nach aussen.
 
-<sup>2</sup> Die Präsidentin bzw. der Präsident wird bei Verhinderung durch die Vizepräsidentin bzw. den Vizepräsidenten, und falls auch diese bzw. dieser verhindert ist, durch das amtsälteste Mitglied des Gerichts vertreten.
+<sup>2</sup> Die Präsidentin bzw. der Präsident wird bei Verhinderung durch die Vizepräsidentin bzw. den Vizepräsidenten, und falls auch diese bzw. dieser verhindert ist, durch das amtsälteste Mitglied vertreten.
 
 <sup>3</sup> Bei Abwesenheit der Präsidentin bzw. des Präsidenten kommen der Vertreterin bzw. dem Vertreter alle präsidialen Aufgaben und Kompetenzen zu.
 
+[^3-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+
 #### § 4
 
-**Kollegialgericht als Spruchkörper mit drei Richterinnen oder Richtern**
+**Kollegialgericht**
 
-<sup>1</sup> Die Verfahrensleitung obliegt der bzw. dem vom Präsidium bestimmten Einzelrichterin bzw. Einzelrichter (§ 32 Abs. 2 GOG). Sie bzw. er stellt dem Kollegialgericht bei der Beratung Antrag.
+<sup>1</sup> Das Kollegialgericht setzt sich aus der Verfahrensleitung und zwei weiteren Mitgliedern zusammen.
 
-<sup>2</sup> Bei kurzfristiger Abwesenheit oder anderweitiger Verhinderung der zuständigen Einzelrichterin bzw. des zuständigen Einzelrichters wird die Verfahrensleitung vom Präsidium wahrgenommen.
+<sup>2</sup> Die Bestimmung der weiteren Mitglieder richtet sich sinngemäss nach den in § 10 definierten Kriterien sowie nach deren Verfügbarkeit.
 
-<sup>3</sup> Das Präsidium bestimmt die beiden weiteren Mitglieder des Spruchkörpers.
+<sup>3</sup> Die Verfahrensleitung stellt dem Kollegialgericht bei der Beratung Antrag.
 
-<sup>4</sup> Beschlüsse können auf dem Zirkulationsweg gefasst werden, sofern nicht ein Mitglied des Gerichtes die Beratung und Beschlussfassung an einer Sitzung verlangt. Zirkulationsbeschlüsse können nur einstimmig gefasst werden.
+<sup>4</sup> Bei Verhinderung der Verfahrensleitung wird die Stellvertretung von der Präsidentin bzw. vom Präsidenten wahrgenommen.
+
+<sup>5</sup> Entscheide können auf dem Zirkulationsweg gefasst werden, sofern dies gesetzlich nicht ausgeschlossen ist und kein Mitglied die Beratung sowie Entscheidfassung an einer Sitzung verlangt. Zirkulationsentscheide können nur einstimmig gefasst werden.
 
 #### § 5
 
-**Einzelrichterinnen und Einzelrichter**
+**Einzelgericht**
 
-<sup>1</sup> Die Einzelrichterinnen und Einzelrichter nehmen die Verfahrensleitung in den ihnen zugewiesenen Verfahren des Kollegialgerichts wahr (§ 32 Abs. 2 GOG).
+<sup>1</sup> Die Mitglieder leiten die Verfahren, die in die Zuständigkeit des Einzelgerichts fallen (§ 32 Abs. 3 GOG[^5-1] ).
 
-<sup>2</sup> Sie beurteilen als Einzelgericht Fälle im Rahmen ihrer Zuständigkeit (§ 32 Abs. 3 GOG).
+<sup>2</sup> Bei Verhinderung der Verfahrensleitung wird die Stellvertretung von der Präsidentin bzw. vom Präsidenten wahrgenommen.
 
-<sup>3</sup> Sie üben die Funktion des Zwangsmassnahmengerichts aus (§ 33 GOG)und leisten dabei Pikett-Dienst.
-
-<sup>4</sup> Die Stellvertretung der Einzelrichterinnen und Einzelrichter bei kurzfristiger Abwesenheit oder anderweitiger Verhinderung wird vom Präsidium wahrgenommen.
+[^5-1]: BGS [161.1](https://bgs.zg.ch/data/161.1/de)
 
 #### § 6
 
@@ -105,24 +122,22 @@ beschliesst:
 - a) der Kanzleivorsteherin bzw. dem Kanzleivorsteher;
 - b) den Gerichtsschreiberinnen und Gerichtsschreibern;
 - c) dem Sekretariatspersonal;
-- d) den Auditorinnen und Auditoren, die dem Strafgericht zugeteilt sind.
-
-<sup>2</sup> Das Sekretariatspersonal sowie die Auditorinnen und Auditoren leisten für das Zwangsmassnahmengericht Pikett-Dienst.
-
-<sup>3</sup> Das Sekretariatspersonal vertritt sich bei kurzfristiger Abwesenheit oder anderweitiger Verhinderung gegenseitig.
+- d) den Auditorinnen und Auditoren.
 
 #### § 7
 
 **Kanzleivorsteherin bzw. Kanzleivorsteher**
 
-<sup>1</sup> Die Kanzlei wird von einer Gerichtsschreiberin oder einem Gerichtsschreiber als Kanzleivorsteherin oder Kanzleivorsteher geleitet.
+<sup>1</sup> Die Kanzlei wird von einer Gerichtsschreiberin bzw. einem Gerichtsschreiber als Kanzleivorsteherin bzw. Kanzleivorsteher geleitet. Sie bzw. er ist der Präsidentin bzw. dem Präsidenten unterstellt.
 
-<sup>2</sup> Sie bzw. er ist insbesondere zuständig für folgende Aufgaben:
+<sup>2</sup> Sie bzw. er ist insbesondere für folgende Aufgaben zuständig:
 
 - a) Führung der Kanzlei;
-- b) Aufgaben, die ihr bzw. ihm zusätzlich übertragen werden, namentlich die Unterstützung des Präsidiums bei der Führung des Geschäftsverzeichnisses und der Erledigung der Verwaltungsgeschäfte.
+- b) Protokollführung beim Plenum;
+- c) Besorgung der personellen Belange der Mitarbeitenden und Mitglieder;
+- d) Aufgaben, die ihr bzw. ihm zusätzlich übertragen werden, namentlich die Unterstützung der Präsidentin bzw. des Präsidenten bei der Justizverwaltung.
 
-<sup>3</sup> Die Kanzleivorsteherin bzw. der Kanzleivorsteher wird bei Verhinderung durch eine Gerichtsschreiberin oder einen Gerichtsschreiber vertreten.
+<sup>3</sup> Die Kanzleivorsteherin bzw. der Kanzleivorsteher wird bei Verhinderung durch eine Gerichtsschreiberin bzw. einen Gerichtsschreiber vertreten.
 
 #### § 8
 
@@ -131,62 +146,49 @@ beschliesst:
 <sup>1</sup> Die Gerichtsschreiberinnen und Gerichtsschreiber erledigen die ihnen zugewiesenen Aufgaben, namentlich:
 
 - a) Protokollführung bei den Verhandlungen und Sitzungen;
-- b) Redaktion der Urteile, Beschlüsse und Verfügungen, bei deren Erlass sie mitgewirkt haben;
-- c) Ausarbeitung von Urteils-, Beschluss- und Verfügungsentwürfen;
-- d) Überwachung der Ausfertigung und Zustellung der Entscheide;
+- b) Redaktion der Entscheide;
+- c) Nachführung der Geschäftskontrolle;
+- d) Vornahme der Abschlussarbeiten;
+- e) Erledigung weiterer, ihnen zugewiesener Aufgaben.
 
-<sup>2</sup> Sie leisten für das Zwangsmassnahmengericht Pikett-Dienst.
-
-<sup>3</sup> Sie vertreten sich bei kurzfristiger Abwesenheit oder anderweitiger Verhinderung gegenseitig.
+<sup>2</sup> Sie vertreten sich bei Verhinderung gegenseitig.
 
 #### § 9
 
-**Zuweisung der Fälle**
+**Sekretariat**
 
-<sup>1</sup> Das Präsidium nimmt die Zuteilung aller eingehenden, in die Zuständigkeit des Kollegialgerichtes und der Einzelrichterinnen und Einzelrichter fallenden Geschäftsfälle nach Massgabe folgender Kriterien vor:
+<sup>1</sup> Das Sekretariatspersonal erledigt die Aufgaben gemäss Stellenbeschrieb und weitere ihm zugewiesene Aufgaben.
 
-- a) Die Zuweisung der Geschäftsfälle an die Einzelrichterinnen und Einzelrichter als Verfahrensleitung beim Kollegialgericht sowie als Einzelgericht bestimmt sich nach Beachtung allfälliger Ausstands- oder Ablehnungsgründe in chronologischer Reihenfolge, wobei eine ausgeglichene Belastung aller Gerichtsmitglieder anzustreben ist.
-- b) Die Zuweisung der Geschäftsfälle an die Einzelrichterinnen und Einzelrichter als Zwangsmassnahmengericht bestimmt sich nach der vom Präsidium erstellten Pikett-Liste, welche für jeden Tag des Jahres festlegt, welches Gerichtsmitglied Pikett-Dienst leistet. Eingehende Geschäftsfälle werden dem am Tag des Eingangs Pikett-Dienst leistenden Mitglied zugeteilt. Liegt bei diesem ein Ausstands- oder Ablehnungsgrund vor, oder ist dieses aus anderen Gründen kurzfristig verhindert, so wird der Fall nach Massgabe von Buchstabe a einem anderen Mitglied zugeteilt. Sind in einem Verfahren mehrere Zwangsmassnahmen zu beurteilen, so bleibt das beim ersten Geschäftsfall zuständige Mitglied in der Regel auch für die später eingehenden Geschäftsfälle zuständig.
-- c) Kann ein Geschäftsfall nach Massgabe der unter den Buchstaben a und b genannten Kriterien keinem Mitglied zugeteilt werden, wird ein Ersatzmitglied beigezogen.
-- d) Bei nachträglichen richterlichen Verfahren bleiben die im ursprünglichen Verfahren als Verfahrensleitung beim Kollegialgericht bzw. als Einzelgericht bestimmten Einzelrichterinnen und Einzelrichter zuständig. Im Falle ihrer Verhinderung erfolgt eine Umteilung des Geschäftsfalles nach Massgabe der Buchstaben a bis c.
-
-<sup>2</sup> Die den Einzelrichterinnen und Einzelrichter als Verfahrensleitung beim Kollegialgericht bzw. als Einzelgericht zugeteilten Geschäftsfälle können ausnahmsweise nachträglich umgeteilt werden, wenn dies aufgrund von Abwesenheiten oder anderweitiger Verhinderung oder für eine ausgeglichene Belastung aller Gerichtsmitglieder notwendig ist.
-
-<sup>3</sup> Die Zuweisung der Geschäftsfälle ist in geeigneter Weise am Protokoll festzuhalten.
-
-<sup>4</sup> Die Parteien werden in der Regel mit der Zustellung der ersten verfahrensleitenden Verfügung über die als Verfahrensleitung beim Kollegialgericht bzw. als Einzelgericht zuständigen Einzelrichterinnen und Einzelrichter orientiert.
+<sup>2</sup> Es vertritt sich bei Verhinderung gegenseitig.
 
 #### § 10
 
-**Besetzung des Spruchkörpers des Kollegialgerichts**
+**Zuweisung der Geschäftsfälle**
 
-<sup>1</sup> Der Spruchkörper des Kollegialgerichts setzt sich zusammen aus der Verfahrensleitung und zwei weiteren Gerichtsmitgliedern. Diese werden nach Massgabe folgender Kriterien bestimmt:
+<sup>1</sup> Bei der Zuweisung der Geschäftsfälle an die Mitglieder als Verfahrensleitung beim Kollegialgericht sowie beim Einzelgericht werden neben den zwingenden gesetzlichen Bestimmungen namentlich folgende Kriterien berücksichtigt:
 
-- a) Liegen keine Ausstands- oder Ablehnungsgründe vor, wird der Spruchkörper nach Festsetzung des Hauptverhandlungstermins durch die Verfahrensleitung primär mit denjenigen Gerichtsmitgliedern ergänzt, die im Zeitpunkt der Verhandlung keinen Pikett-Dienst versehen, wobei eine ausgeglichene Belastung aller Gerichtsmitglieder anzustreben ist. Soweit der Spruchkörper nicht mit Gerichtsmitgliedern gebildet werden kann, werden Ersatzmitglieder beigezogen.
-- b) Wird in einem Verfahren eine Verschiebung der Hauptverhandlung notwendig, so bleiben die ursprünglich nach Massgabe von Buchstabe a bestimmten Mitglieder des Spruchkörpers eingesetzt.
-- c) Bei nachträglichen richterlichen Verfahren bleibt der im ursprünglichen Verfahren bestimmte Spruchkörper zuständig. Im Falle der Verhinderung eines Gerichtsmitglieds bestimmt sich dessen Ersatz nach Massgabe von Buchstabe a.
-- d) Die nach Massgabe von Buchstabe a zur Bildung des Spruchkörpers eingesetzten Gerichtsmitglieder können ausnahmsweise nachträglich ausgewechselt werden, wenn dies aufgrund von Abwesenheiten oder anderweitiger Verhinderung oder für eine ausgeglichene Belastung aller Gerichtsmitglieder notwendig ist.
+- a) chronologische Reihenfolge;
+- b) Beschäftigungsgrad;
+- c) ausgeglichene Belastung.
 
-<sup>2</sup> Die Besetzung des Spruchkörpers des Kollegialgerichts ist in geeigneter Weise am Protokoll festzuhalten.
+<sup>2</sup> Der Geschäftsfall wird einem Ersatzmitglied zugewiesen, wenn bei sämtlichen Mitgliedern ein Ausstandsgrund oder eine ausserordentlich hohe Arbeitslast vorliegt. Die in Abs. 1 Bst. a und c genannten Kriterien kommen sinngemäss zur Anwendung.
 
-<sup>3</sup> Den Parteien wird die Zusammensetzung des Spruchkörpers in der Regel durch Zustellung der Sitzungsliste angezeigt.
+<sup>3</sup> Eine Fallumteilung ist ausnahmsweise zulässig, wenn dies aufgrund einer länger andauernden Verhinderung, zwecks Gewährleistung einer ausgeglichenen Belastung aller Mitglieder oder aufgrund einer ausserordentlich hohen Arbeitslast notwendig erscheint.
+
+<sup>4</sup> Bei nachträglichen Verfahren tagt das Gericht, sofern möglich, in derselben richterlichen Zusammensetzung wie im ursprünglichen Verfahren.
+
+<sup>5</sup> Die Zuweisung der Geschäftsfälle ist im Protokoll festzuhalten.
+
+<sup>6</sup> Die Parteien werden in der Regel im Zusammenhang mit der Prüfung der Anklage (Art. 329 StPO[^10-1]) über die Fallzuweisung orientiert.
+
+[^10-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 11
 
 **Unterschriftenregelung**
 
-<sup>1</sup> Die Unterschriftenregelung richtet sich nach den Prozessordnungen, dem Gerichtsorganisationsgesetz und den einschlägigen Gesetzen und Verordnungen.
+<sup>1</sup> Die Präsidentin bzw. der Präsident und die Kanzleivorsteherin bzw. der Kanzleivorsteher unterzeichnen Anträge und Stellungnahmen des Plenums gemeinsam.
 
-#### § 12
+<sup>2</sup> Im Übrigen richtet sich die Unterschriftenregelung nach den einschlägigen Gesetzen.
 
-**In-Kraft-Treten**
-
-<sup>1</sup> Diese Geschäftsordnung tritt unter dem Vorbehalt der Genehmigung durch den Kantonsrat am 1. Januar 2011 in Kraft.
-
-<sup>2</sup> Mit dem In-Kraft-Treten dieser Geschäftsordnung wird die Geschäftsordnung des Strafgerichts vom 5. Dezember 2007[^12-1] aufgehoben.
-
-[^12-1]: GS 29, 645
-
-Vom Kantonsrat genehmigt am 25. November 2010.
-
-GS 30, 729
+GS 2024/059
