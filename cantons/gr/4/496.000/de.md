@@ -4,13 +4,12 @@ number: "496.000"
 title: Gesetz über den Natur- und Heimatschutz im Kanton Graubünden
 short: "Kantonales Natur- und Heimatschutzgesetz, KNHG"
 language: de
-version: 2023-11-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-17
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2010-10-19
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/496.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3341/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3341/pdf_file"
 
 (Kantonales Natur- und Heimatschutzgesetz, KNHG)
 
-Vom 19.10.2010 (Stand 01.11.2023)
+Vom 19.10.2010 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -489,7 +488,7 @@ beschliesst:
 
 <sup>1</sup> Verfügungen der Fachstellen unterliegen der Verwaltungsbeschwerde.
 
-<sup>2</sup> Verfügungen der Fachstellen, die im Zusammenhang mit einer Baubewilligung stehen, können mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
+<sup>2</sup> Verfügungen der Fachstellen, die im Zusammenhang mit einer Baubewilligung stehen, können mit Beschwerde an das Obergericht weitergezogen werden.
 
 ## 6. Strafbestimmungen und Wiederherstellung des rechtmässigen Zustandes
 

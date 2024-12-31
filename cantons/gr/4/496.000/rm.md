@@ -4,13 +4,12 @@ number: "496.000"
 title: Lescha davart la protecziun da la natira e da la patria en il chantun Grischun
 short: "lescha chantunala davart la protecziun da la natira e da la patria, LNPGR"
 language: rm
-version: 2023-11-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-17
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2010-10-19
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/496.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3341/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3341/pdf_file"
 
 (lescha chantunala davart la protecziun da la natira e da la patria, LNPGR)
 
-dals 19-10-2010 (versiun dals 01-11-2023)
+dals 19-10-2010 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -489,7 +488,7 @@ concluda:
 
 <sup>1</sup> Las disposiziuns dals posts spezialisads suttastattan al recurs administrativ.
 
-<sup>2</sup> Cunter las disposiziuns dals posts spezialisads che stattan en connex cun ina permissiun da construcziun poi vegnir fatg recurs tar la dretgira administrativa.
+<sup>2</sup> Cunter las disposiziuns dals posts spezialisads che stattan en connex cun ina permissiun da construcziun poi vegnir fatg recurs tar la Dretgira superiura.
 
 ## 6. Disposiziuns penalas e restabiliment dal stadi legal
 

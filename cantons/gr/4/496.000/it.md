@@ -4,13 +4,12 @@ number: "496.000"
 title: Legge sulla protezione della natura e del paesaggio del Cantone dei Grigioni
 short: "Legge cantonale sulla protezione della natura e del paesaggio, LCNP"
 language: it
-version: 2023-11-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-17
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2010-10-19
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/496.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3341/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3400/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3341/pdf_file"
 
 (Legge cantonale sulla protezione della natura e del paesaggio, LCNP)
 
-del 19.10.2010 (stato 01.11.2023)
+del 19.10.2010 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -489,7 +488,7 @@ decide:
 
 <sup>1</sup> Decisioni dei servizi specializzati sono soggette a ricorso amministrativo.
 
-<sup>2</sup> Contro le decisioni del servizio specializzato relative a una licenza edilizia è data facoltà di ricorso presso il Tribunale amministrativo.
+<sup>2</sup> Contro le decisioni dei servizi specializzati relative a una licenza edilizia è data facoltà di ricorso presso il Tribunale d'appello.
 
 ## 6. Disposizioni penali e ripristino dello stato legale
 
