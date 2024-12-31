@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.22"
 title: "Steuerverordnung Nr. 22: Elektronische Zustellung von Verfügungen und Rechnungen"
 language: de
-version: 2021-08-01
-valid_until: 2024-12-31
-version_adopted: 2021-06-22
+version: 2025-01-01
+version_adopted: 2025-02-25
 adopted: 2021-06-22
 in_force: 2021-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.22"
-pdf: "https://bgs.so.ch/api/de/versions/5110/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 22: Elektronische Zustellung von Verfügungen und Rechnungen
 
-Vom 22.06.2021 (Stand 01.08.2021)
+Vom 22.06.2021 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -83,7 +82,9 @@ beschliesst:
 
 <sup>2</sup> Eine An- und Abmeldung für die E-Zustellung von E-Informationen ist jederzeit möglich.
 
-<sup>3</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie gemeinsam handelnde Personen, die in rechtlich und tatsächlich ungetrennter eingetragener Partnerschaft leben, haben eine gemeinsame E-Plattform zu bezeichnen, auf welcher die Zustellung von E-Informationen ausschliesslich zu erfolgen hat. Die Anmeldung kann nur über die auf den Namen des führenden Ehegatten oder Partners lautende E-Plattform erfolgen.
+<sup>3</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie gemeinsam handelnde Personen, die in rechtlich und tatsächlich ungetrennter eingetragener Partnerschaft leben, haben eine gemeinsame E-Plattform zu bezeichnen, auf welcher die Zustellung von E-Informationen ausschliesslich zu erfolgen hat.
+
+<sup>4</sup> Im Zeitpunkt einer rechtlichen oder tatsächlichen Trennung oder Scheidung werden bestehende Anmeldungen für die Zustellung von E-Informationen deaktiviert.
 
 #### § 5
 
