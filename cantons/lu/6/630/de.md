@@ -4,13 +4,13 @@ number: "630"
 title: Gesetz betreffend die Erbschaftssteuern
 short: EStG
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-02-18
+version: 2025-01-01
+valid_until: 2025-05-31
+version_adopted: 2024-03-18
 adopted: 1908-05-27
 in_force: 1908-10-01
 url: "https://srl.lu.ch/app/de/texts_of_law/630"
-pdf: "https://srl.lu.ch/api/de/versions/3498/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3498/pdf_file"
 
 (EStG)
 
-vom 27.05.1908 (Stand 01.01.2020)
+vom 27.05.1908 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -128,7 +128,9 @@ beschliesst:
 
 <sup>1</sup> Die Erbschaftssteuern, einschliesslich der Bussen, fallen zu 70 Prozent an den Kanton und zu 30 Prozent an die Einwohnergemeinde, welche die Erbschaftssteuern veranlagt (§ 15 Abs. 1).
 
-<sup>2</sup> Es ist den Gemeinden freigestellt, von dem ihnen zufallenden Anteile einen Teil dem Schulfonds zuzuwenden.
+<sup>2</sup> Der am Monatsende bestehende Saldo der Steuerbeträge ist innert 15 Tagen an den Kanton zu überweisen. Bei verspäteter Ablieferung wird ein vom Regierungsrat festgelegter Zins erhoben.
+
+<sup>3</sup> Die Einwohnergemeinde, welche die Veranlagung und den Bezug vornimmt, erhält eine vom Regierungsrat festzulegende Veranlagungs- und Bezugsprovision.
 
 #### § 13
 
