@@ -4,11 +4,11 @@ number: "554.51"
 title: Hundeverordnung (HuV)
 short: HuV
 language: de
-version: "2013-11-01"
-nachtrag: "83"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
+valid_until: 2025-06-01
 adopted: 2009-11-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-554_51-2009_11_25-2010_01_01-083.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-554_51-2009_11_25-2010_01_01-127.html"
 text: pdf
 ---
 
@@ -63,7 +63,7 @@ Das Veterinäramt trifft Abklärungen und Massnahmen nach §§ 17–19 HuG a. be
 
 **1**
 
-- 1\. 1. 14 - 83
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Verfügt die Halterin oder der Halter über Abstammungsnachweise, hat sie oder er diese vorzuweisen.
 
@@ -81,11 +81,13 @@ Das Veterinäramt trifft Abklärungen und Massnahmen nach §§ 17–19 HuG a. be
 
 - c. Staffordshire Bull Terrier,
 
-- d. American Pit Bull Terrier, Pit Bull Terrier, Bandog und Basicdog.
+- d. American Pit Bull Terrier, Pit Bull Terrier, Bandog und Basicdog, e.[^5-1] Rottweiler.
 
 <sup>2</sup> Verfügt die Halterin oder der Halter über Abstammungsnachweise, hat sie oder er diese vorzuweisen.
 
 <sup>3</sup> Werden keine Abstammungsnachweise vorgelegt oder ist die Zuordnung des Hundes aus anderen Gründen zweifelhaft, entscheidet darüber das Veterinäramt.
+
+[^5-1]: Eingefügt durch RRB vom 18. Dezember 2024 (OS 79, 477; ABl 2024-12-20). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 11
 
 #### § 6
 
@@ -151,11 +153,11 @@ Das Veterinäramt trifft Abklärungen und Massnahmen nach §§ 17–19 HuG a. be
 
 - d. eine dem Entwicklungsstand des Hundes angemessene Weiterführung und Vertiefung der Lernziele der Welpenförderung,
 
-- e. die Umsetzung der für ein sicheres Führen des Hundes bedeutsamen Grundsätze im Zusammenleben mit dem Hund.
-
 **3**
 
-- 1\. 1. 14 - 83
+- 1\. 1. 25 - 127
+
+- e. die Umsetzung der für ein sicheres Führen des Hundes bedeutsamen Grundsätze im Zusammenleben mit dem Hund.
 
 <sup>3</sup> Der Junghundekurs umfasst mindestens zehn praktische Übungslektionen zu mindestens 50 Minuten. Die Lektionen sind an mindestens zehn verschiedenen Tagen zu besuchen. Sie sind teilweise innerhalb und teilweise ausserhalb des Übungsgeländes abzuhalten.
 
@@ -231,7 +233,7 @@ Für Nutzhunde nach Art. 69 Abs. 2 TSchV können die Lernziele der Welpenförder
 
 **5**
 
-- 1\. 1. 14 - 83
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Die Bewilligung zur Durchführung der Welpenförderung setzt voraus, dass die Person zusätzlich vertiefte Kenntnisse über die Welpenentwicklung und über die Durchführung praktischer Übungslektionen mit Welpen nachweist. Die Gesundheitsdirektion regelt das Nähere in einem Reglement.
 
@@ -325,7 +327,7 @@ Die Halterinnen und Halter von Hunden nach § 25 HuG reichen der Gemeinde die f�
 
 **7**
 
-- 1\. 1. 14 - 83
+- 1\. 1. 25 - 127
 
 - e. für Blindenführhunde: Nachweis der anerkannten Blindenführhundeschule,
 
@@ -413,7 +415,7 @@ Der Nachweis der praktischen Hundeausbildung ist nur für Hunde zu erbringen, di
 
 **9**
 
-- 1\. 1. 14 - 83
+- 1\. 1. 25 - 127
 
 <sup>5</sup> Das Veterinäramt teilt den Entscheid über die Erteilung oder Nichterteilung sowie über den Entzug der Bewilligung der Halterin oder dem Halter und der Wohnsitzgemeinde mit.
 
@@ -453,6 +455,14 @@ Die Inhaberin oder der Inhaber einer Haltebewilligung muss dem Veterinäramt die
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 
+### Übergangsbestimmungen zur Änderung vom 18. Dezember 2024
+
+(OS 79, 477)
+
+<sup>1</sup> Wer bereits vor dem Inkrafttreten dieser Änderung einen Hund des Rassetyps Rottweiler gehalten hat, hat innerhalb von sechs Monaten nach dem Inkrafttreten der Änderung eine Haltebewilligung gemäss § 30 HuG zu beantragen.
+
+<sup>2</sup> Das Veterinäramt kann bei diesen Hunden im Einzelfall von der Wesensbeurteilung gemäss § 25 Abs. 2 dieser Verordnung absehen, insbesondere unter Berücksichtigung des Alters des Hundes und der Dauer seiner Haltung.
+
 ### Anhang
 
 Liste der kleinwüchsigen Hunderassen (§ 4)
@@ -477,13 +487,9 @@ Lakeland Terrier hunde Manchester Terrier Norwich Terrier Scottish Terrier Sealy
 
 Hunde
 
-Rat Terrier Ratonero Bodeguero Andaluz Ratier – pelo cerdoso (Rauhhaar) Bullartige Miniature Bull Terrier Terrier
-
 **Podengo Português pequeno – pelo liso (Kurzhaar)**
 
-**11**
-
-- 1\. 1. 14 - 83 Liste der kleinwüchsigen Hunderassen (§ 4)
+Rat Terrier Ratonero Bodeguero Andaluz Ratier – pelo cerdoso (Rauhhaar) Bullartige Miniature Bull Terrier Terrier Liste der kleinwüchsigen Hunderassen (§ 4)
 
 **Rasse Mittelspitz Kleinspitz Zwergspitz Volpino Italiano Shiba Inu Japanischer Spitz Elo, klein**
 
@@ -504,3 +510,7 @@ Kleinpudel Schnauzer Zwergschnauzer Toypudel Zwergpudel Japanischer Spaniel Peki
 **Affenpinscher Hollandse Smoushond**
 
 Shih Tzu Tibetan Terrier Bichon frisé Chihuahua Lhasa Apso Tibetan Spaniel Löwchen Chinese Crested Dog Coton de Tuléar Havaneser Mops Svensk-Gardhund Dansk-Gardhund Prager Rattler Lancashire Heeler Bolonka Zwetna Kyi Leo Russkiy Toy
+
+**13**
+
+- 1\. 1. 25 - 127
