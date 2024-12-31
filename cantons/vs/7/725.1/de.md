@@ -4,43 +4,47 @@ number: "725.1"
 title: Strassengesetz
 short: StrG
 language: de
-version: 2014-01-01
-corrected: 2017-11-02
-version_adopted: 2013-05-16
+version: 2025-01-01
+version_adopted: 2023-03-17
 adopted: 1965-09-03
 in_force: 1965-12-31
 url: "https://lex.vs.ch/app/de/texts_of_law/725.1"
-pdf: "https://lex.vs.ch/api/de/versions/299/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3317/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Strassengesetz
 
-vom 3. September 1965
+(StrG)
+
+vom 03.09.1965 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 6, 17, 30 und 69 der Kantonsverfassung;
+eingesehen Artikel 6, 17, 30 und 69 der Kantonsverfassung;
 
-eingesehen das Bundesgesetz über die Nationalstrassen vom 8. März 1960; auf Antrag des Staatsrates, beschliesst:
+eingesehen das Bundesgesetz über die Nationalstrassen vom 8. März 1960 (NSG);
 
-### 1. Titel: Allgemeine Bestimmungen
+auf Antrag des Staatsrates,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-<sup>2</sup> Geltungsbereich
+**Geltungsbereich**
 
 <sup>1</sup> Das vorliegende Gesetz enthält die öffentlich-rechtlichen Bestimmungen, welche auf die öffentlichen Verkehrswege des Staates und der Gemeinden und auf die Privatstrassen und -wege im Gemeingebrauch Anwendung finden.
 
-<sup>2</sup> Vorbehalten bleiben die weiteren Bestimmungen des kantonalen Rechts, soweit sie dem vorliegenden Gesetz und der eidgenössischen Strassengesetzgebung, insbesondere dem Bundesgesetz vom 8. März 1960 über die Nationalstrassen und seinen Ausführungsbestimmungen, nicht widersprechen. Der Staatsrat erlässt auf dem Verordnungswege die Ausführungsvorschriften zum vorgenannten Bundesgesetz.
+<sup>2</sup> Vorbehalten bleiben die weiteren Bestimmungen des kantonalen Rechts, soweit sie dem vorliegenden Gesetz und der eidgenössischen Strassengesetzgebung, insbesondere dem Bundesgesetz über die Nationalstrassen vom 8. März 1960 und seinen Ausführungsbestimmungen, nicht widersprechen. Der Staatsrat erlässt auf dem Verordnungswege die Ausführungsvorschriften zum vorgenannten Bundesgesetz.
 
-<sup>3</sup> Aufgehoben.
+<sup>3</sup> …
 
 #### Art. 2
 
-<sup>2</sup> Strassengebiet
+**Strassengebiet**
 
 <sup>1</sup> Verkehrswege sind Strassen, Wege, Gehsteige, Fusswege, Radwege, mit Einschluss der Parkplätze und Haltestellen.
 
@@ -50,99 +54,87 @@ eingesehen das Bundesgesetz über die Nationalstrassen vom 8. März 1960; auf An
 
 <sup>4</sup> Stütz- und Futtermauern sind Bestandteil der Verkehrswege und ihr zuzumarchen, wenn sie durch die Neuanlage oder den Ausbau der Strasse bedingt sind.
 
-#### Art. 2bis
+#### Art. 2a
 
-<sup>2</sup> Nebenanlagen auf Strassengebiet
+**Nebenanlagen auf Strassengebiet**
 
 <sup>1</sup> Zur Erstellung oder Abänderung von Anlagen für den Verkauf auf Strassengebiet bedarf es für die Inanspruchnahme des öffentlichen Eigentums einer Bewilligung oder Konzession nach Massgabe von Artikel 139 und 140.
 
 <sup>2</sup> Vorbehalten bleibt die Erteilung der bau-, gewerbe-, und wirtschaftspolizeilichen Bewilligungen durch die hiefür zuständige Behörde.
 
-### 1. Kapitel: Einteilung der Verkehrswege
+### 1.1 Einteilung der Verkehrswege
 
 #### Art. 3
 
-<sup>2,13</sup> Aufzählung
+**Aufzählung**
 
-Die öffentlichen Verkehrswege werden nach ihrer Bestimmung und Bedeutung eingeteilt in:
+<sup>1</sup> Die öffentlichen Verkehrswege werden nach ihrer Bestimmung und Bedeutung eingeteilt in:
 
-- 1\. Nationalstrassen;
-
-- 2\. kantonale Strassen und Wege;
-
-- 3\. Gemeindestrassen und -wege;
-
-- 4\. Strassen und Privatwege im Gemeingebrauch;
-
-- 5\. Radwege und -streifen;
-
-- 6\. Fuss- und Wanderwege;
-
-- 7\. Mountainbike-Pisten.
+- a) Nationalstrassen;
+- b) kantonale Strassen und Wege;
+- c) Gemeindestrassen und -wege;
+- d) Strassen und Privatwege im Gemeingebrauch;
+- e) Radwege und -streifen;
+- f) Fuss- und Wanderwege;
+- g) Mountainbike-Pisten.
 
 #### Art. 4
 
-<sup>2</sup> Nationalstrassen
+**Nationalstrassen**
 
-Die Nationalstrassen werden vom Bund bestimmt.
+<sup>1</sup> Die Nationalstrassen werden vom Bund bestimmt.
 
 #### Art. 5
 
-<sup>2</sup> 2. Kantonale Strassen: a) Haupt- und Nebenstrassen
+**Kantonale Strassen a) Haupt- und Nebenstrassen**
 
 <sup>1</sup> Die kantonalen Strassen werden in zwei Kategorien eingeteilt: in Hauptstrassen und in Nebenstrassen.
 
 <sup>2</sup> Als Hauptstrassen gelten:
 
-- 1\. die internationalen und interkantonalen Durchgangsstrassen, inbegriffen jene, die zu einem Eisenbahntunnel mit Verladerampe oder zu einem Strassentunnel führen;
-
-- 2\. die Verbindungen mit der Nationalstrasse der Rhoneebene;
-
-- 3\. die Kantonsstrasse St. Gingolph - Oberwald;
-
-- 4\. die Talstrassen der hauptsächlichsten Seitentäler sowie die Verkehrswege, die in der Ebene und an den Hängen mehrere Ortschaften von einer gewissen Bedeutung verbinden und welche für die Gegend von erhöhtem Interesse sind.
+- a) die internationalen und interkantonalen Durchgangsstrassen, inbegriffen jene, die zu einem Eisenbahntunnel mit Verladerampe oder zu einem Strassentunnel führen;
+- b) die Verbindungen mit der Nationalstrasse der Rhoneebene;
+- c) die Kantonsstrasse St. Gingolph - Oberwald;
+- d) die Talstrassen der hauptsächlichsten Seitentäler sowie die Verkehrswege, die in der Ebene und an den Hängen mehrere Ortschaften von einer gewissen Bedeutung verbinden und welche für die Gegend von erhöhtem Interesse sind.
 
 <sup>3</sup> Als Nebenstrassen gelten:
 
-- 1\. die Verbindungsstrassen einer Hauptstrasse mit einer Nationalstrasse dritter Klasse;
-
-- 2\. die Strassen, die dem motorisierten Verkehr allgemein offenstehen als Verbindung:
-
-- a) von Ortschaften unter sich, oder einer Ortschaft mit einer Hauptstrasse oder mit einer Bahnstation;
-
-- b) eines Kur- oder Fremdenverkehrsortes mit einer Hauptstrasse.
+- a) die Verbindungsstrassen einer Hauptstrasse mit einer Nationalstrasse dritter Klasse;
+- b) die Strassen, die dem motorisierten Verkehr allgemein offenstehen als Verbindung:
+  - 1\. von Ortschaften unter sich, oder einer Ortschaft mit einer Hauptstrasse oder mit einer Bahnstation,
+  - 2\. eines Kur- oder Fremdenverkehrsortes mit einer Hauptstrasse.
 
 <sup>4</sup> Als Ortschaften im obgenannten Sinne gelten auch Siedlungen von untergeordneter Bedeutung, welche während des ganzen Jahres bewohnt sind.
 
 <sup>5</sup> Wenn ein Siedlungsgebiet nicht oder nur am Rande von der Strasse berührt wird, so erfolgt die Klassierung seines Anschlusses gemäss einer Hauptachse.
 
-#### Art. 6 b
+#### Art. 6
 
-**) Tal- und Bergstrassen**
+**b) Tal- und Bergstrassen**
 
-Die kantonalen Strassen unterteilen sich ausserdem in Talstrassen und Bergstrassen. Die Strasse wird zur Bergstrasse, sobald sie die Rhoneebene zwischen Genfersee und Naters (Massabrücke) verlässt und zu steigen beginnt. Ihr Anfangspunkt ist im Klassierungsdekret festgelegt.
+<sup>1</sup> Die kantonalen Strassen unterteilen sich ausserdem in Talstrassen und Bergstrassen. Die Strasse wird zur Bergstrasse, sobald sie die Rhoneebene zwischen Genfersee und Naters (Massabrücke) verlässt und zu steigen beginnt. Ihr Anfangspunkt ist im Klassierungsdekret festgelegt.
 
-#### Art. 7 c
+#### Art. 7
 
-**) Zubringerstrassen**
+**c) Zubringerstrassen**
 
-Die Zubringerstrassen und die infolge der in Artikel 83 vorgesehenen Beschränkung der seitlichen Einmündungen in gewisse Hauptstrassen notwendig gewordenen Verbindungen sind zu Lasten dieser Hauptstrassen zu erstellen. Sie werden dann zu Gemeindestrassen.
+<sup>1</sup> Die Zubringerstrassen und die infolge der in Artikel 83 vorgesehenen Beschränkung der seitlichen Einmündungen in gewisse Hauptstrassen notwendig gewordenen Verbindungen sind zu Lasten dieser Hauptstrassen zu erstellen. Sie werden dann zu Gemeindestrassen.
 
-#### Art. 8 d
+#### Art. 8
 
-**) Kantonale Wege**
+**d) Kantonale Wege**
 
-Die kantonalen Wege sind jene zum öffentlichen Eigentum gehörenden Verkehrswege mit gleicher Widmung, wie die in Artikel 5, Absatz 3, Ziffer 2 erwähnten kantonalen Nebenstrassen, die aber dem allgemeinen Motorfahrzeugverkehr nicht geöffnet sind.
+<sup>1</sup> Die kantonalen Wege sind jene zum öffentlichen Eigentum gehörenden Verkehrswege mit gleicher Widmung, wie die in Artikel 5 Absatz 3 Buchstabe b erwähnten kantonalen Nebenstrassen, die aber dem allgemeinen Motorfahrzeugverkehr nicht geöffnet sind.
 
 #### Art. 9
 
 **Gemeindestrassen und -wege**
 
-Als Gemeindewege gelten alle öffentlichen Verkehrswege, seien sie befahrbar oder nicht, die im öffentlichen Eigentum stehen und die nicht zu einer der obengenannten Kategorien gehören.
+<sup>1</sup> Als Gemeindewege gelten alle öffentlichen Verkehrswege, seien sie befahrbar oder nicht, die im öffentlichen Eigentum stehen und die nicht zu einer der obengenannten Kategorien gehören.
 
-#### Art. 9bis
+#### Art. 9a
 
-<sup>2</sup> Radwege und -streifen
+**Radwege und -streifen**
 
 <sup>1</sup> Zwischen Saint-Gingolph und Oberwald ist zu Lasten des Kantons für die Radfahrer ein Hauptradweg zu erstellen. Dieser wird aus Sicherheitsgründen und nach Möglichkeit von der Strasse getrennt geführt.
 
@@ -150,43 +142,39 @@ Als Gemeindewege gelten alle öffentlichen Verkehrswege, seien sie befahrbar ode
 
 <sup>3</sup> Erweist sich die Erstellung eines Radweges als unmöglich oder unzweckmässig, so können Radstreifen markiert werden.
 
-#### Art. 9ter
+#### Art. 9b
 
-<sup>2,5,13</sup> Fuss- und Wanderwege, Fahrradrouten und
+**Fuss- und Wanderwege, Fahrradrouten und Mountainbike-Pisten**
 
-Mountainbike-Pisten Das Genehmigungsverfahren für die Pläne der Fuss- und Wanderwegnetze, der Fahrradrouten sowie der Mountainbike-Pisten wird durch die Spezialgesetzgebung geregelt.
+<sup>1</sup> Das Genehmigungsverfahren für die Pläne der Fuss- und Wanderwegnetze, der Fahrradrouten sowie der Mountainbike-Pisten wird durch die Spezialgesetzgebung geregelt.
 
 #### Art. 10
 
-<sup>2</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 11
 
-<sup>2</sup> Privatstrassen und -wege
+**Privatstrassen und -wege**
 
-Die von Privaten auf ihrem eigenen oder auf fremdem Grund und Boden erbauten und dem Gemeingebrauch gewidmeten Strassen und Wege sind öffentlich im Sinne des vorliegenden Gesetzes.
+<sup>1</sup> Die von Privaten auf ihrem eigenen oder auf fremdem Grund und Boden erbauten und dem Gemeingebrauch gewidmeten Strassen und Wege sind öffentlich im Sinne des vorliegenden Gesetzes.
 
 #### Art. 12
 
-<sup>2</sup> Güter-, Forststrassen und -wege
+**Güter-, Forststrassen und -wege**
 
 <sup>1</sup> Die Forststrassen und -wege sowie die Güterstrassen und -wege sind durch die Spezialgesetzgebung geregelt.
 
 <sup>2</sup> Das vorliegende Gesetz ist massgebend, soweit keine besonderen Vorschriften gelten. Es ist insbesondere für das Plangenehmigungsverfahren anwendbar.
 
+### 1.2 Hoheit, Eigentum, Klassierung und Löschung
+
 #### Art. 13
 
-<sup>2</sup>
-
-Aufgehoben.
-
-### 2. Kapitel: Hoheit, Eigentum, Klassierung, Löschung
+**…**
 
 #### Art. 14
 
-<sup>2</sup> Strassenhoheit
+**Strassenhoheit**
 
 <sup>1</sup> Der Staat hat die Hoheit über die kantonalen Verkehrswege.
 
@@ -194,7 +182,7 @@ Aufgehoben.
 
 #### Art. 15
 
-<sup>2</sup> Konzession von Privatstrassen mit Benutzungsgebühr
+**Konzession von Privatstrassen mit Benutzungsgebühr**
 
 <sup>1</sup> Der Bau und der Betrieb von Privatstrassen, die dazu bestimmt sind, gegen Entrichtung einer Gebühr von Motorfahrzeugen oder bestimmten Beförderungsmitteln benützt zu werden, bedürfen einer durch den Staatsrat zu erteilenden Konzession. Die Standortgemeinden sind anzuhören.
 
@@ -206,15 +194,15 @@ Aufgehoben.
 
 <sup>5</sup> Die Genehmigung durch die Bundesbehörde bleibt vorbehalten.
 
-<sup>6</sup> Für die Erteilung der Konzession und die Genehmigung des Projektes wird eine durch den Staatsrat unter Berücksichtigung der Natur und Bedeutung des Werkes festgesetzte und an den Index gebundene Gebühr im Betrage von höchstens 20 000 Franken erhoben.
+<sup>6</sup> Für die Erteilung der Konzession und die Genehmigung des Projektes wird eine durch den Staatsrat unter Berücksichtigung der Natur und Bedeutung des Werkes festgesetzte und an den Index gebundene Gebühr im Betrage von höchstens 20'000 Franken erhoben.
 
 <sup>7</sup> Ausserdem kann vom Staat und den Gemeinden eine jährliche Abgabe erhoben werden. Die Höhe dieser Abgabe beträgt höchstens ein Prozent der Betriebseinnahmen.
 
-<sup>8</sup> Der Staat und die Gemeinden können sich am Werk finanziell beteiligen. Diesbezüglich ist Artikel 17, Absatz 3, sinngemäss anzuwenden.
+<sup>8</sup> Der Staat und die Gemeinden können sich am Werk finanziell beteiligen. Diesbezüglich ist Artikel 17 Absatz 3 sinngemäss anzuwenden.
 
 #### Art. 16
 
-<sup>2,9</sup> Strasseneigentum und Vermarkung
+**Strasseneigentum - Vermarkung**
 
 <sup>1</sup> Die Nationalstrassen sind Eigentum des Bundes.
 
@@ -224,16 +212,13 @@ Aufgehoben.
 
 #### Art. 17
 
-<sup>2,3,9</sup> Neubau, Korrektion, Ausbau und Unterhalt der
-
-öffentlichenVerkehrswege
+**Neubau - Korrektion - Ausbau - Unterhalt der öffentlichenVerkehrswege**
 
 <sup>1</sup> Der Neubau, die Korrektion, der Ausbau und der Unterhalt der Nationalstrassen werden durch die einschlägige Gesetzgebung geregelt. Subsidiär ist das vorliegende Gesetz sinngemäss anwendbar.
 
 <sup>2</sup> Die Investitionen für den Neubau, die Korrektion, den Ausbau und den Unterhalt der kantonalen Verkehrswege wird beschlossen:
 
 - a) durch den Grossen Rat, wenn die Kostenschätzung den Grenzbetrag in Artikel 29 Absatz 2 des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 übersteigt;
-
 - b) durch den Staatsrat, wenn die Kostenschätzung diesen Betrag nicht übersteigt.
 
 <sup>3</sup> Der Grosse Rat kann diese Kompetenzordnung mittels Beschluss abändern.
@@ -248,9 +233,9 @@ Aufgehoben.
 
 #### Art. 18
 
-<sup>2,3</sup> Klassierung und Deklassierung
+**Klassierung - Deklassierung**
 
-<sup>1</sup> Die Klassierung der Nationalstrassen ist durch das Bundesgesetz vom 8. März 1960 betreffend die Nationalstrassen geregelt.
+<sup>1</sup> Die Klassierung der Nationalstrassen ist durch das Bundesgesetz über die Nationalstrassen vom 8. März 1960 geregelt.
 
 <sup>2</sup> Die Klassierung und die Deklassierung der kantonalen Verkehrswege bilden Gegenstand eines Beschlusses des Grossen Rates. Ersetzt ein kantonaler Verkehrsweg einen anderen kantonalen Verkehrsweg, so ist der bisherige grundsätzlich zu deklassieren.
 
@@ -260,7 +245,7 @@ Aufgehoben.
 
 #### Art. 19
 
-<sup>2</sup> Übergang kantonaler Verkehrswege an die Gemeinden
+**Übergang kantonaler Verkehrswege an die Gemeinden**
 
 <sup>1</sup> Wird beschlossen, einen Verkehrsweg oder ein Teilstück davon vom kantonalen Strassennetz zu streichen, so geht die Anlage ohne Entgelt auf die Gemeinde über, wenn letztere sie als kommunalen Verkehrsweg zu benützen wünscht und ein allgemeines Interesse daran besteht. Ist dies nicht der Fall, so wird der Verkehrsweg ausser Betrieb gesetzt und der Boden verbleibt im Eigentum des Staates. Die dem Staat gemäss Artikel 69 unentgeltlich zur Verfügung gestellten Grundstücke fallen in jedem Fall an den früheren Eigentümer zurück.
 
@@ -270,7 +255,7 @@ Aufgehoben.
 
 #### Art. 20
 
-<sup>2</sup> Widmung und Entwidmung: a) Öffentliche Verkehrswege
+**Widmung und Entwidmung a) Öffentliche Verkehrswege**
 
 <sup>1</sup> Die vom Staat und den Gemeinden zur allgemeinen Benützung gebauten Verkehrswege gelten mit der Übergabe an den Verkehr als dem Gemeingebrauch gewidmet.
 
@@ -282,25 +267,24 @@ Aufgehoben.
 
 <sup>5</sup> Einsprachen sind innert 30 Tagen seit der Planauflage zu richten an:
 
-- 1\. das zuständige Departement für die kantonalen Verkehrswege;
-
-- 2\. den Gemeinderat für die kommunalen Verkehrswege.
+- a) das zuständige Departement für die kantonalen Verkehrswege;
+- b) den Gemeinderat für die kommunalen Verkehrswege.
 
 <sup>6</sup> Die Einspracheentscheide des zuständigen Departementes und des Gemeinderates können innert 30 Tagen seit ihrer Zustellung mit Beschwerde an den Staatsrat weitergezogen werden, der endgültig entscheidet.
 
 #### Art. 21
 
-<sup>2</sup> b) Privatstrassen und -wege
+**b) Privatstrassen und -wege**
 
 <sup>1</sup> Von Privaten auf ihrem eigenen oder auf fremdem Grund und Boden erbauten Strassen und Wege sind öffentliche, sobald die zuständige Behörde gemäss Artikel 14 sie im Einverständnis des Eigentümers der allgemeinen Benützung gewidmet hat.
 
-<sup>2</sup> Der Eigentümer kann ohne Zustimmung dieser Behörde, welche nach öffentlicher Vernehmlassung und unter Würdigung der geltend gemachten Gründe entscheidet, deren Benützung weder unterdrücken noch einschränken. Das Auflage-, Einsprache- und Beschwerdeverfahren richtet sich nach Artikel 20, Absätze 4, 5 und 6.
+<sup>2</sup> Der Eigentümer kann ohne Zustimmung dieser Behörde, welche nach öffentlicher Vernehmlassung und unter Würdigung der geltend gemachten Gründe entscheidet, deren Benützung weder unterdrücken noch einschränken. Das Auflage-, Einsprache- und Beschwerdeverfahren richtet sich nach Artikel 20 Absätze 4, 5 und 6.
 
 <sup>3</sup> Die Errichtung von Dienstbarkeiten zugunsten der Öffentlichkeit gilt als Widmung zum Gemeingebrauch.
 
 #### Art. 22
 
-<sup>2</sup> Löschung öffentlicher Verkehrswege: a) Zuständigkeit
+**Löschung öffentlicher Verkehrswege a) Zuständigkeit**
 
 <sup>1</sup> Die ausser Betrieb gesetzten kantonalen Verkehrswege können ohne einen Beschluss des zuständigen Departementes der Benützung durch die Anstösser nicht entzogen werden.
 
@@ -308,29 +292,29 @@ Aufgehoben.
 
 #### Art. 23
 
-<sup>2</sup> b) Verfahren
+**b) Verfahren**
 
 <sup>1</sup> Für die Streichung von kantonalen Verkehrswegen ist ein öffentliches Untersuchungsverfahren durch das zuständige Departement und für die Streichung von kommunalen Verkehrswegen ein solches durch den Gemeinderat durchzuführen.
 
-<sup>2</sup> Das Auflage-, Einsprache- und Rechtsmittelverfahren richtet sich nach Artikel 20, Absätze 4, 5 und 6.
+<sup>2</sup> Das Auflage-, Einsprache- und Rechtsmittelverfahren richtet sich nach Artikel 20 Absätze 4, 5 und 6.
 
 #### Art. 24
 
-<sup>2</sup> c) Rechte der Anstösser
+**c) Rechte der Anstösser**
 
 <sup>1</sup> Die im öffentlichen Eigentum stehenden Verkehrswege dürfen, soweit als möglich nur dann ausser Betrieb gesetzt werden, wenn die Anstösser über einen geeigneten Anschluss an das öffentliche Verkehrsnetz verfügen. Wenn dieser Anschluss nicht aufrechterhalten werden kann, so hat der Betroffene gemäss Artikel 149 letzter Absatz Anrecht auf Entschädigung.
 
 <sup>2</sup> Die Abtretung eines Verkehrsweges an Private ist gegebenenfalls vom Abschluss von Vereinbarungen über die dort befindlichen Erschliessungsanlagen jeder Art abhängig.
 
-### 2. Titel: Bau und Unterhalt
+## 2 Bau und Unterhalt
 
-### 1. Kapitel: Neubau, Korrektion und Ausbau
+### 2.1 Neubau, Korrektion und Ausbau
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 2.1.1 Allgemeine Bestimmungen
 
 #### Art. 25
 
-<sup>2</sup> Grundregel
+**Grundregel**
 
 <sup>1</sup> Die öffentlichen Verkehrswege sind entsprechend den technischen und wirtschaftlichen Anforderungen des Verkehrs sowie gemäss ihrer Klassierung zu erstellen und auszubauen. Die finanzielle Leistungsfähigkeit des Bauherrn ist dabei zu berücksichtigen.
 
@@ -338,29 +322,23 @@ Aufgehoben.
 
 #### Art. 26
 
-<sup>2</sup> Schutz verschiedener Interessen
+**Schutz verschiedener Interessen**
 
-Beim Bau von öffentlichen Verkehrswegen sind die anerkannten Grundsätze namentlich auf folgenden Gebieten zu berücksichtigen:
+<sup>1</sup> Beim Bau von öffentlichen Verkehrswegen sind die anerkannten Grundsätze namentlich auf folgenden Gebieten zu berücksichtigen:
 
 - a) der Schutz des Menschen und seiner natürlichen und bebauten Umwelt;
-
 - b) die Verkehrssicherheit;
-
 - c) der Schutz der Verkehrsteilnehmer, insbesondere der Fussgänger, Radfahrer und Behinderten;
-
 - d) die öffentlichen Verkehrsmittel;
-
 - e) der Ortsbild- und Heimatschutz;
-
 - f) der Natur- und Landschaftsschutz;
-
 - g) die sparsame Verwendung des Bodens.
 
 #### Art. 27
 
 **Unterführungen**
 
-Strassenunterführungen sollen grundsätzlich eine lichte Höhe von mindestens 4,50 m aufweisen.
+<sup>1</sup> Strassenunterführungen sollen grundsätzlich eine lichte Höhe von mindestens 4.50 Metern aufweisen.
 
 #### Art. 28
 
@@ -372,9 +350,9 @@ Strassenunterführungen sollen grundsätzlich eine lichte Höhe von mindestens 4
 
 <sup>3</sup> Diese Werke bilden Bestandteil der Verkehrswege, und ihr Unterhalt geht zu Lasten derselben.
 
-#### Art. 28bis
+#### Art. 28a
 
-<sup>2</sup> Parkplätze
+**Parkplätze**
 
 <sup>1</sup> Der Neubau, der Ausbau und die Korrektion von Gemeindeparkplätzen fallen in den Zuständigkeitsbereich der Standortgemeinden und gehen zu ihren Lasten.
 
@@ -382,15 +360,17 @@ Strassenunterführungen sollen grundsätzlich eine lichte Höhe von mindestens 4
 
 #### Art. 29
 
-<sup>2</sup> Beleuchtungen
+**Beleuchtungen**
 
-<sup>1</sup> Innerorts und, wo Ortstafeln fehlen, innerhalb geschlossener Siedlungen sind die kantonalen Verkehrswege nach Massgabe der Verkehrsbedürfnisse zu beleuchten.
+<sup>1</sup> Innerorts und innerhalb geschlossener Siedlungen sind die kantonalen Verkehrswege nach Massgabe der Verkehrsbedürfnisse zu beleuchten.
 
-<sup>2</sup> Dasselbe gilt ausserorts, insbesondere für vielbefahrene Unterführungen und Kreuzungen, wichtigere Tunnels und Galerien.
+<sup>1<sup>bis</sup></sup> Der Kanton erlässt Weisungen zur Reduktion der Leistung und Dauer der Beleuchtung auf das insbesondere für die Sicherheit nötige Mass.
+
+<sup>2</sup> Dasselbe gilt ausserorts, für vielbefahrene Unterführungen und Kreuzungen, Querungshilfen, Tunnels und Galerien von einer gewissen Bedeutung.
 
 #### Art. 30
 
-<sup>2</sup> Kreuzungen, Kreisel, Einmündungen
+**Kreuzungen - Kreisel - Einmündungen**
 
 <sup>1</sup> Kreuzungen öffentlicher Verkehrswege sind höhengleiche und höhenungleiche Kreuzungen, Kreisel und Einmündungen. Auf verkehrsreichen Strassen sind höhengleiche Kreuzungen nach Möglichkeiten zu vermeiden.
 
@@ -406,19 +386,19 @@ Strassenunterführungen sollen grundsätzlich eine lichte Höhe von mindestens 4
 
 **Brücken**
 
-Wenn bei der Erstellung oder beim Wiederaufbau von Brücken die Verbesserung des Flusslaufes vermehrte Kosten erheischt, so gehen dieselben zu Lasten dieser Korrektion.
+<sup>1</sup> Wenn bei der Erstellung oder beim Wiederaufbau von Brücken die Verbesserung des Flusslaufes vermehrte Kosten erheischt, so gehen dieselben zu Lasten dieser Korrektion.
 
 #### Art. 32
 
 **Übergabe an den Verkehr**
 
-Die öffentlichen Verkehrswege dürfen dem Verkehr erst übergeben werden, wenn der Stand der Bauarbeiten und die getroffenen Sicherheitsmassnahmen es erlauben.
+<sup>1</sup> Die öffentlichen Verkehrswege dürfen dem Verkehr erst übergeben werden, wenn der Stand der Bauarbeiten und die getroffenen Sicherheitsmassnahmen es erlauben.
 
-### 2. Abschnitt: Vorbereitungsarbeiten
+### 2.1.2 Vorbereitungsarbeiten
 
 #### Art. 33
 
-<sup>2</sup> Inhalt und Zuständigkeit
+**Inhalt - Zuständigkeit**
 
 <sup>1</sup> Die vom zuständigen Departement oder den Gemeinden beauftragten Personen sind berechtigt, Grundstücke zwecks Erstellung von Plänen für den Neubau, den Ausbau, die Korrektion und den Unterhalt von Verkehrswegen zu betreten, in denselben Verpflockungen anzubringen, sowie daselbst alle übrigen zweckdienlichen Vorbereitungsarbeiten auszuführen.
 
@@ -430,13 +410,13 @@ Die öffentlichen Verkehrswege dürfen dem Verkehr erst übergeben werden, wenn 
 
 #### Art. 34
 
-<sup>2</sup> Planungszonen: a) Zuständigkeit
+**Reservezonen a) Zuständigkeit**
 
-Halten das zuständige Departement oder die Gemeinde den Neubau, den Ausbau oder die Korrektion eines kantonalen oder kommunalen Verkehrsweges für angezeigt, so können sie Planungszonen oder allgemeine Pläne ausscheiden.
+<sup>1</sup> Halten das zuständige Departement oder die Gemeinde den Neubau, den Ausbau oder die Korrektion eines kantonalen oder kommunalen Verkehrsweges für angezeigt, so können sie Planungszonen oder allgemeine Pläne ausscheiden.
 
 #### Art. 35
 
-<sup>2</sup> b) Wirkung, Dauer
+**b) Wirkung - Dauer**
 
 <sup>1</sup> Die Planungszonen werden mit der öffentlichen Bekanntmachung des Beschlusses rechtskräftig.
 
@@ -446,7 +426,7 @@ Halten das zuständige Departement oder die Gemeinde den Neubau, den Ausbau oder
 
 #### Art. 36
 
-<sup>2</sup> c) Verfahren
+**c) Verfahren**
 
 <sup>1</sup> Verfügte Planungszonen und ihre allfällige Verlängerung sind öffentlich bekanntzumachen. Die Publikation bezeichnet die betroffenen Grundstücke und die mit der Planungszone verbundene Planungsabsicht.
 
@@ -456,13 +436,11 @@ Halten das zuständige Departement oder die Gemeinde den Neubau, den Ausbau oder
 
 #### Art. 37
 
-<sup>2</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 38
 
-<sup>2</sup> Genereller Strassenplan
+**Genereller Strassenplan**
 
 <sup>1</sup> Vor der Ausarbeitung eines Ausführungsprojektes können das zuständige Departement und die Gemeinden für den Neubau, den Ausbau und die Korrektion eines kantonalen und kommunalen Verkehrsweges einen generellen Strassenplan ausarbeiten lassen. Dieser Plan bildet die Grundlage für die Ausarbeitung des Ausführungsprojektes. Er enthält vor allem die Linienführung, die Länge und Breite der Strasse, ebenso ihre wichtigen Bestandteile wie Brücken, Kreuzungen, Anschlüsse und dergleichen.
 
@@ -470,43 +448,37 @@ Aufgehoben.
 
 <sup>3</sup> Die Sperrwirkung dieses Planes ist auf fünf Jahre befristet. Diese Frist kann nicht verlängert werden.
 
-### 3. Abschnitt: Ausführungsprojekte
+### 2.1.3 Ausführungsprojekte
 
 #### Art. 39
 
-<sup>2</sup> Inhalt und Zuständigkeit
+**Inhalt - Zuständigkeit**
 
 <sup>1</sup> Der Neubau, der Ausbau und die Korrektion kantonaler und kommunaler Verkehrswege erfolgt nach den Bestimmungen dieses Gesetzes und sind in einem rechtsverbindlichen Ausführungsprojekt festzulegen. Dieses Projekt kann erstellt werden:
 
-- 1\. durch das zuständige Departement für kantonale Verkehrswege;
-
-- 2\. durch den Gemeinderat für kommunale Verkehrswege.
+- a) durch das zuständige Departement für kantonale Verkehrswege;
+- b) durch den Gemeinderat für kommunale Verkehrswege.
 
 <sup>2</sup> Das Ausführungsprojekt enthält namentlich:
 
 - a) Angaben über die nachbarlichen Beziehungen zwischen Strasseneigentümer und den vom Strassenbau unmittelbar oder mittelbar betroffenen Grundeigentümern;
-
 - b) die Baulinien, die den gegenüber Strassen, Geleisen, Leitungen, Gewässern und dergleichen einzuhaltenden Abstand angeben;
-
 - c) den Situationsplan, das Normalprofil, die Längs- und Querprofile sowie den Landerwerbsplan;
-
 - d) allfällige Angaben über den Bau von Fusswegen und Gehsteigen längs der Fahrbahn, die Errichtung von Sammelstrassen, die Beschränkung der Einmündung auf bestimmte Anschlussstellen, die Anpassung an die Verkehrs-erfordernisse, die Gestaltung der Grundstücke und dergleichen.
 
 #### Art. 40
 
-<sup>2</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 41
 
-<sup>2</sup> Massstab
+**Massstab**
 
-Das Ausführungsprojekt ist generell im Massstab des Katasterplanes, mindestens aber im Massstab 1:1000 zu erstellen.
+<sup>1</sup> Das Ausführungsprojekt ist generell im Massstab des Katasterplanes, mindestens aber im Massstab 1:1'000 zu erstellen.
 
 #### Art. 42
 
-<sup>2</sup> Annahme der Pläne: a) Öffentliche Auflage, persönliche Anzeige
+**Annahme der Pläne a) Öffentliche Auflage - Persönliche Anzeige**
 
 <sup>1</sup> Der generelle Strassenplan und das Ausführungsprojekt werden vom zuständigen Departement oder von der Gemeinde während 30 Tagen auf dem Gemeindebüro öffentlich aufgelegt, wo sie jeder Beteiligte einsehen kann. Die Linienführung ist vorgängig im Gelände abzustecken.
 
@@ -516,35 +488,33 @@ Das Ausführungsprojekt ist generell im Massstab des Katasterplanes, mindestens 
 
 #### Art. 43
 
-<sup>2</sup> b) Einsprachen
+**b) Einsprachen**
 
-Die Einsprachen sind innert 30 Tagen seit Bekanntmachung im Amtsblatt dem Gemeinderat schriftlich und begründet einzureichen. In der Publikation ist darauf hinzuweisen.
+<sup>1</sup> Die Einsprachen sind innert 30 Tagen seit Bekanntmachung im Amtsblatt dem Gemeinderat schriftlich und begründet einzureichen. In der Publikation ist darauf hinzuweisen.
 
 #### Art. 44
 
-<sup>2,7</sup> c) Summarisches Verfahren
+**c) Summarisches Verfahren**
 
-In dringenden Fällen können die in diesem Gesetz vorgesehenen Fristen auf 20 Tage herabgesetzt werden, sofern die betroffenen Eigentümer vorgängig hierüber informiert werden.
+<sup>1</sup> In dringenden Fällen können die in diesem Gesetz vorgesehenen Fristen auf 20 Tage herabgesetzt werden, sofern die betroffenen Eigentümer vorgängig hierüber informiert werden.
 
 #### Art. 45
 
-<sup>2</sup> d) Wirkung der öffentlichen Planauflage und der persönlichen
+**d) Wirkung der öffentlichen Planauflage und der persönlichen Anzeige**
 
-Anzeige
+<sup>1</sup> Vom Zeitpunkt der öffentlichen Planauflage oder der persönlichen Anzeige gemäss Artikel 42 Absatz 3 bis zum Eintritt der Rechtskraft des Genehmigungsentscheides kann am Zustand der überbauten und nicht überbauten Grundstücke, deren Inanspruchnahme zur Verwirklichung des Planes notwendig erscheinen oder die sich innerhalb der mit Bauverbot belegten Zone längs des Verkehrsweges befinden, nichts geändert werden.
 
-<sup>1</sup> Vom Zeitpunkt der öffentlichen Planauflage oder der persönlichen Anzeige gemäss Artikel 42, Absatz 3 bis zum Eintritt der Rechtskraft des Genehmigungsentscheides kann am Zustand der überbauten und nicht überbauten Grundstücke, deren Inanspruchnahme zur Verwirklichung des Planes notwendig erscheinen oder die sich innerhalb der mit Bauverbot belegten Zone längs des Verkehrsweges befinden, nichts geändert werden.
-
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
 #### Art. 46
 
-<sup>2</sup> e) Überweisung der Akten an das zuständige Departement
+**e) Überweisung der Akten an das zuständige Departement**
 
-Innerhalb von 30 Tagen nach dem Verfall der im Artikel 43 vorgesehenen Fristen überweist die Gemeindebehörde die Einsprachen an das zuständige Departement. Sie legt den Akten ihre Vormeinung bei sowie eine Bestätigung der gemäss Artikel 42, Absatz 2 durchgeführten Veröffentlichung.
+<sup>1</sup> Innerhalb von 30 Tagen nach dem Verfall der im Artikel 43 vorgesehenen Fristen überweist die Gemeindebehörde die Einsprachen an das zuständige Departement. Sie legt den Akten ihre Vormeinung bei sowie eine Bestätigung der gemäss Artikel 42 Absatz 2 durchgeführten Veröffentlichung.
 
 #### Art. 47
 
-<sup>2</sup> f) Genehmigung der Pläne; Rechtsmittel
+**f) Genehmigung der Pläne - Rechtsmittel**
 
 <sup>1</sup> Der Staatsrat entscheidet über die im Verlaufe der Planauflage eingegangenen Einsprachen, sofern sie nicht privatrechtlicher Natur sind. Er genehmigt oder verweigert das Projekt. Die Genehmigung kann von Bedingungen und Auflagen abhängig gemacht werden. Der Genehmigungsentscheid ist dem Gesuchsteller und den Einsprechern schriftlich zu eröffnen.
 
@@ -554,23 +524,23 @@ Innerhalb von 30 Tagen nach dem Verfall der im Artikel 43 vorgesehenen Fristen �
 
 #### Art. 48
 
-<sup>2</sup> g) Rechtskraft
+**g) Rechtskraft**
 
 <sup>1</sup> Das zuständige Departement bringt durch Publikation im Amtsblatt der Öffentlichkeit zur Kenntnis, dass der Plan rechtskräftig geworden ist. Der Zeitpunkt des Eintritts der Rechtskraft ist dabei anzugeben.
 
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
 <sup>3</sup> Der genehmigte Strassenplan steht auf der(n) Gemeindeverwaltung(en) allen interessierten Personen zur Einsicht offen.
 
 #### Art. 49
 
-<sup>2</sup> Verzicht auf Ausführung oder Abänderung der Pläne
+**Verzicht auf Ausführung oder Abänderung der Pläne**
 
-Die vorgenannten Bestimmungen sind bei Verzicht oder Abänderung eines generellen Strassenplanes oder eines Ausführungsprojektes sinngemäss anwendbar.
+<sup>1</sup> Die vorgenannten Bestimmungen sind bei Verzicht oder Abänderung eines generellen Strassenplanes oder eines Ausführungsprojektes sinngemäss anwendbar.
 
 #### Art. 50
 
-<sup>2</sup> Folgen der Inkraftsetzung der Pläne
+**Folgen der Inkraftsetzung der Pläne**
 
 <sup>1</sup> Vom Tage, an dem der Plan rechtskräftig wird, darf auf den betroffenen Grundstücken nichts vorgekehrt werden, was die Ausführung des Projektes behindert. Insbesondere ist die Überbauung der für den Strassenbau ausgeschiedenen Flächen und des Gebietes innerhalb der gesetzlichen oder durch spezielle Baulinien festgesetzten Bauabstände untersagt.
 
@@ -582,13 +552,11 @@ Die vorgenannten Bestimmungen sind bei Verzicht oder Abänderung eines generelle
 
 #### Art. 51
 
-<sup>2</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 52
 
-<sup>2,6</sup> Enteignungsrecht: a) Gegenstand und Modalitäten
+**Enteignungsrecht a) Gegenstand und Modalitäten**
 
 <sup>1</sup> Alle in den genehmigten Ausführungsprojekten vorgesehenen Arbeiten gelten als Werk öffentlichen Nutzens. Die Genehmigung dieser Pläne begründet überdies das Recht auf Enteignung aller zur Ausführung des Werkes benötigten dinglichen Rechte an Grundstücken sowie der aus dem Grundeigentum hervorgehenden Nachbarrechte, ferner der persönlichen Rechte von Mietern und Pächtern.
 
@@ -596,7 +564,7 @@ Aufgehoben.
 
 <sup>3</sup> Im Übrigen findet das Enteignungsgesetz Anwendung für alle nicht im vorliegenden Gesetz vorgesehen Fälle.
 
-<sup>4</sup> Aufgehoben
+<sup>4</sup> …
 
 <sup>5</sup> Verlangt der Enteignete Realersatz, hat der Enteigner, sofern möglich, Realersatz zu leisten.
 
@@ -604,13 +572,11 @@ Aufgehoben.
 
 #### Art. 53
 
-<sup>2,6</sup>
-
-Aufgehoben
+**…**
 
 #### Art. 54
 
-<sup>2</sup> Antrag auf Verzicht des Projektes
+**Antrag auf Verzicht des Projektes**
 
 <sup>1</sup> Wenn nach Ablauf von fünf Jahren ein rechtskräftiges Ausführungsprojekt noch nicht in Ausführung begriffen ist, so kann jeder Eigentümer, der ein Interesse daran hat, die Aufhebung oder Abänderung desselben verlangen.
 
@@ -622,21 +588,23 @@ Aufgehoben
 
 #### Art. 55
 
-<sup>2</sup> Festlegung und Änderung von Baulinien
+**Festlegung - Änderung von Baulinien**
 
-Für die Festlegung und Änderung von Baulinien entlang öffentlicher Verkehrswege sind die Artikel 38ff sinngemäss anwendbar.
+<sup>1</sup> Für die Festlegung und Änderung von Baulinien entlang öffentlicher Verkehrswege sind die Artikel 38 und folgende sinngemäss anwendbar.
 
 #### Art. 56
 
-**-57 <sup>2</sup>**
+**…**
 
-Aufgehoben.
+#### Art. 57
 
-### 4. Abschnitt: Landumlegungen
+**…**
+
+### 2.1.4 Landumlegungen
 
 #### Art. 58
 
-<sup>2</sup> Landumlegung
+**Landumlegung**
 
 <sup>1</sup> Wenn infolge des Baues einer öffentlichen Strasse landwirtschaftliche Grundgüter oder Baugrund für eine wirtschaftliche Ausnützung ungeeignet werden, so kann der Staatsrat bei einem kantonalen Verkehrsweg und im Falle eines kommunalen Verkehrsweges der Gemeinderat innerhalb eines bestimmten Gebietes eine Landumlegung und den Bau von notwendigen Zufahrtswegen anordnen.
 
@@ -645,20 +613,25 @@ Aufgehoben.
 <sup>3</sup> Im Rahmen dieser Umlegungsverfahren kann die zuständige Behörde verfügen:
 
 - a) dass Grundstücke des Gemeinwesens einzuwerfen sind;
-
 - b) dass der für den Bau von Strassen mit allgemeinem Durchgangsverkehr benötigte Boden durch prozentualen Abzug auf den betroffenen Grundstücken gegen Verkehrswertentschädigung zu erwerben ist.
 
 #### Art. 59
 
-**-61 <sup>2</sup>**
+**…**
 
-Aufgehoben.
+#### Art. 60
 
-### 5. Abschnitt
+**…**
+
+#### Art. 61
+
+**…**
+
+### 2.1.5 Dienstbarkeiten, Zufahrt und Versetzen von Gebäuden
 
 #### Art. 62
 
-<sup>2</sup> Dienstbarkeiten, Zufahrt, Versetzen von Gebäuden
+**Begründung und Übertragung von Dienstbarkeiten - Wiederherstellung von Zugehör - Versetzen von Gebäuden**
 
 <sup>1</sup> Nötigenfalls kann der Staatsrat die Schaffung oder Übertragung von Bewässerungsdienstbarkeiten oder von Durchgangsrechten auf Privatboden anordnen, wenn eine Wasserleitung oder ein Durchgang infolge des Neubaus, des Anbaus oder der Korrektion eines Verkehrsweges unterbrochen wird, oder wenn daraus eine Gefahr für die Strasse und ihre Benützer erwächst.
 
@@ -668,11 +641,11 @@ Aufgehoben.
 
 <sup>4</sup> Die Enteignung dieser Rechte kann im Ausführungsprojekt gemäss Artikel 39 vorgesehen werden.
 
-### 6. Abschnitt: Entschädigungen und Vermarkung
+### 2.1.6 Entschädigungen und Vermarkung
 
 #### Art. 63
 
-<sup>2</sup> Entschädigung, vorzeitige Besitzeinweisung
+**Entschädigung - Vorzeitige Besitzeinweisung**
 
 <sup>1</sup> Die Eigentümer, welche für den Neubau, den Ausbau und die Korrektion von öffentlichen Verkehrswegen Rechte abzutreten haben, haben Anspruch auf volle Entschädigung. Das Schatzungsverfahren richtet sich, soweit dieses Gesetz nicht etwas anderes vorsieht, nach den Bestimmungen des Enteignungsgesetzes.
 
@@ -684,7 +657,7 @@ Aufgehoben.
 
 #### Art. 64
 
-<sup>2</sup> Auszahlung der Entschädigung
+**Auszahlung der Entschädigung**
 
 <sup>1</sup> Die Enteignungsentschädigung wird innert 30 Tagen seit ihrer rechtskräftigen Festsetzung fällig. Sie ist von diesem Zeitpunkt an, bei vorzeitiger Besitzeinweisung vom Tage der Besitzergreifung an, zu verzinsen.
 
@@ -696,11 +669,7 @@ Aufgehoben.
 
 #### Art. 65
 
-**und des**
-
-<sup>2</sup> Auflage des Vermarchungsplanes
-
-Entschädigungs-verzeichnisses
+**Erstellung und Auflage des Vermarchungsplanes und des Entschädigungsverzeichnisses**
 
 <sup>1</sup> Der Vermarchungsplan und die Entschädigungstabelle werden in der gesetzlich vorgeschriebenen Form erstellt, sobald die Arbeiten beendigt sind.
 
@@ -708,7 +677,7 @@ Entschädigungs-verzeichnisses
 
 #### Art. 66
 
-<sup>2</sup> Einsprachen
+**Einsprachen**
 
 <sup>1</sup> Die Einsprachen sind innert 30 Tagen seit der Anzeige der Veröffentlichung im Amtsblatt für kommunale Verkehrswege an die Gemeindeverwaltung, für die andern öffentlichen Verkehrswege an das zuständige Departement zu richten.
 
@@ -716,31 +685,30 @@ Entschädigungs-verzeichnisses
 
 #### Art. 67
 
-<sup>2</sup> Beschwerden
+**Beschwerden**
 
-Die Einspracheentscheide unterliegen der Beschwerde an den Staatsrat.
+<sup>1</sup> Die Einspracheentscheide unterliegen der Beschwerde an den Staatsrat.
 
 #### Art. 68
 
-<sup>2</sup> Zinsen
+**Zinsen**
 
-Die Entschädigung ist nach Eintritt der Fälligkeit zu verzinsen und zwar zu dem vom Bundesgericht für die eidgenössischen Enteignungen festgesetzten Zinssatz.
+<sup>1</sup> Die Entschädigung ist nach Eintritt der Fälligkeit zu verzinsen und zwar zu dem vom Bundesgericht für die eidgenössischen Enteignungen festgesetzten Zinssatz.
 
-### 7. Abschnitt: Naturalleistungen der Gemeinden und Burgerschaften
+### 2.1.7 Naturalleistungen der Gemeinden und Burgerschaften
 
 #### Art. 69
 
-<sup>2,6</sup> Grundregel
+**Grundregel - Ausnahmen**
 
 <sup>1</sup> Die Gemeinden, Burgerschaften und der Staat haben ihre der Kultur nicht fähigen Grundstücke, deren Verwendung für den Neubau, den Ausbau und die Korrektion der öffentlichen kantonalen und kommunalen Verkehrswege notwendig ist, ohne Entschädigung abzutreten.
 
 <sup>2</sup> Entschädigungen sind auszurichten:
 
 - a) für die durch diese Körperschaften von Privaten erworbenen Grundstücke mit Ausnahme der vom Kanton übernommenen öffentlichen Verkehrswege der Gemeinden und umgekehrt;
-
 - b) für die einer bestimmten Bauzone gesetzlich zugeteilten Grundstücke.
 
-<sup>3</sup> Aufgehoben.
+<sup>3</sup> …
 
 <sup>4</sup> Die natürlich entstandenen Wälder sind, was die Grundfläche anbelangt, dem der Kultur nicht fähigen Boden gleichgestellt. Das gefällte Holz verbleibt im Eigentum der Gemeinde oder Burgerschaft. Diese Körperschaften werden für den durch den vorzeitigen Schnitt verursachten Schaden und die Ersatzaufforstungen entschädigt.
 
@@ -750,69 +718,109 @@ Die Entschädigung ist nach Eintritt der Fälligkeit zu verzinsen und zwar zu de
 
 <sup>7</sup> Ausserdem liefern die Gemeinden aus ihrem Versorgungsnetz das zum Bau der öffentlichen Verkehrswege auf ihrem Gebiet benötigte Wasser zum gleichen Tarif wie den Einwohnern.
 
-### 8. Abschnitt: Grundeigentümerbeiträge an Strassen
+### 2.1.8 Grundeigentümerbeiträge an Strassen
 
 #### Art. 70
 
-<sup>2</sup> Grundregel
+**Grundregel**
 
 <sup>1</sup> Die Grundeigentümer, denen der Neubau, der Ausbau oder die Korrektion eines kantonalen oder kommunalen Verkehrsweges und seiner Nebenanlagen einen Wertzuwachs verschaffen, können im Verhältnis der Vorteile, die ihnen daraus erwachsen, innerhalb der Grenzen von Artikel 76 zu Beiträgen an die Kosten des Werkes herangezogen werden.
 
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
 #### Art. 71
 
-<sup>2</sup> Zuständige Behörde
+**Zuständige Behörde**
 
 <sup>1</sup> Für die öffentlichen kantonalen Verkehrswege kann die Verpflichtung zur Beitragsleistung zugunsten des Werkes von der zuständigen Behörde gemäss Artikel 17 beschlossen werden. In diesem Falle werden Perimeter und Verteilungsschlüssel vom zuständigen Departement bestimmt.
 
-<sup>2</sup> Wenn die zuständige kantonale Behörde auf einen Beitrag verzichtet, kann dieser von den beteiligten Gemeinden von sich aus innerhalb der Grenzen von Artikel 76, Absatz 2, Buchstabe a im Verhältnis ihres Kostenanteils beschlossen werden.
+<sup>2</sup> Wenn die zuständige kantonale Behörde auf einen Beitrag verzichtet, kann dieser von den beteiligten Gemeinden von sich aus innerhalb der Grenzen von Artikel 76 Absatz 2 Buchstabe a im Verhältnis ihres Kostenanteils beschlossen werden.
 
 <sup>3</sup> Für die kommunalen Verkehrswege erfolgt der Beschluss zur Erhebung eines Beitrages durch den Gemeinderat.
 
 #### Art. 72
 
-<sup>1,2</sup> Verfahren
+**Verfahren**
 
-Das Verfahren über die Strassenbeiträge ist im kantonalen Raumplanungsgesetz und im Ausführungsdekret über die Erhebung von Grundeigentümerbeiträgen an die Erschliessungskosten und an weitere öffentliche Werke geregelt (Grundeigentümerbeitragsdekret).
+<sup>1</sup> Das Verfahren über die Strassenbeiträge ist im kantonalen Raumplanungsgesetz und im Ausführungsdekret über die Erhebung von Grundeigentümerbeiträgen an die Erschliessungskosten und an weitere öffentliche Werke geregelt (Grundeigentümerbeitragsdekret).
 
 #### Art. 73
 
-**-75 <sup>1</sup>**
+**…**
 
-Aufgehoben.
+#### Art. 74
+
+**…**
+
+#### Art. 75
+
+**…**
 
 #### Art. 76
 
-<sup>2</sup> Begrenzung des Beitragsaufrufes
+**Begrenzung des Beitragsaufrufes**
 
 <sup>1</sup> Wenn der Beitrag zugunsten des Werkes durch den Staat verlangt wird, so darf die Gesamtheit der den Eigentümern auferlegten Beiträge innerorts 25 Prozent und ausserorts 15 Prozent der Kosten der den Mehrwert bewirkenden Arbeiten nicht übersteigen.
 
-<sup>2</sup> Wenn der Beitragsaufruf durch eine Gemeinde erfolgt, so darf die Gesamtheit der Beiträge nachfolgende Normen nicht übersteigen.
+<sup>2</sup> Wenn der Beitragsaufruf durch eine Gemeinde erfolgt, so darf die Gesamtheit der Beiträge nachfolgende Normen nicht übersteigen:
 
 - a) für die kantonalen Strassen 50 Prozent der nach Abzug der Staats- und Bundesbeiträge verbliebenen, den Mehrwert bestimmenden Baukosten;
-
 - b) für die kommunalen Durchgangsstrassen 60 Prozent der den Mehrwert bestimmenden Baukosten;
-
 - c) für die Gemeindesackgassen, die Gehsteige und Quartierparkplätze 75 Prozent dieser Kosten.
 
 <sup>3</sup> Innerhalb der Grenzen des Mehrwertes und dieser Höchstsummen sind die Beiträge je nach dem Umfang des öffentlichen Interesses am Werk zu bestimmen.
 
-<sup>4</sup> Unter Vorbehalt von Artikel 123, Absatz 2 gehen die Unterhaltskosten ausschliesslich zu Lasten des Gemeinwesens.
+<sup>4</sup> Unter Vorbehalt von Artikel 123 Absatz 2 gehen die Unterhaltskosten ausschliesslich zu Lasten des Gemeinwesens.
 
 <sup>5</sup> Artikel 34 des Forstgesetzes vom 1. Februar 1985 bleibt vorbehalten.
 
 #### Art. 77
 
-**-79 <sup>1</sup>**
+**…**
 
-Aufgehoben.
+#### Art. 78
 
-### 9. Abschnitt: Neubau und Unterhalt der Verkehrswege
+**…**
+
+#### Art. 79
+
+**…**
+
+### 2.1.9 Fonds Kantonsstrassen
+
+#### Art. 79a
+
+**Fonds der schweizerischen Hauptstrassen (SHS-Fonds)**
+
+<sup>1</sup> Der Kanton richtet einen Fonds ein zur Finanzierung aller direkten und indirekten Investitions-, Unterhalts- und Betriebskosten für das Netz der schweizerischen Hauptstrassen, wie sie in Artikel 12 des Bundesgesetzes über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel definiert sind.
+
+<sup>2</sup> Der Fonds wird mit einem Anfangsbeitrag ausgestattet, der dem Saldo der Zuweisungen für die schweizerischen Hauptstrassen zum Zeitpunkt der Einrichtung des Fonds entspricht.
+
+<sup>3</sup> Der Fonds wird durch die entsprechenden jährlichen Bundesbeiträge gespeist.
+
+<sup>4</sup> Die für die Kantonsstrassen zuständige Dienststelle verwaltet den Fonds.
+
+<sup>5</sup> Der Staatsrat regelt die Modalitäten der Verwaltung des Fonds.
+
+#### Art. 79b
+
+**Fonds für das Kantonsstrassennetz (RTEC-Fonds)**
+
+<sup>1</sup> Der Kanton richtet einen Fonds ein zur Finanzierung aller direkten und indirekten Investitions-, Unterhalts- und Betriebskosten für das Netz der Kantonsstrassen, wie sie in Artikel 5 definiert sind.
+
+<sup>2</sup> Der Fonds wird mit einem Anfangsbeitrag ausgestattet, der dem Saldo der Zuweisungen für die Kantonsstrassen und den Agglomerationsverkehr zum Zeitpunkt der Einrichtung des Fonds entspricht.
+
+<sup>3</sup> Der Fonds kann über nachträgliche Beiträge, die vom Staatsrat oder vom Grossen Rat beschlossen werden, gespeist werden.
+
+<sup>4</sup> Die für die Kantonsstrassen zuständige Dienststelle verwaltet den Fonds.
+
+<sup>5</sup> Der Staatsrat regelt die Modalitäten der Verwaltung des Fonds.
+
+### 2.1.10 Merkmale, Ausführung und Kosten
 
 #### Art. 80
 
-<sup>2,9</sup> Nationalstrassen
+**Nationalstrassen**
 
 <sup>1</sup> Bund und Kanton tragen die Kosten für die Fertigstellung des Nationalstrassennetzes auf kantonalem Gebiet.
 
@@ -822,31 +830,33 @@ Aufgehoben.
 
 #### Art. 81
 
-**Kantonale Strassen: a) Merkmale, Breite**
+**Kantonale Strassen 1. Merkmale - Breite**
 
 <sup>1</sup> Die Breite der kantonalen Verkehrswege hängt von der Anzahl ihrer Fahrbahnen ab. Sie wird durch den Staatsrat bestimmt.
 
-<sup>2</sup> Die Breite jeder Fahrbahn beträgt grundsätzlich 3,50 m.
+<sup>2</sup> Die Breite jeder Fahrbahn beträgt grundsätzlich 3.50 Meter.
 
 <sup>3</sup> Ausnahmsweise kann bei zweispurigen Hauptstrassen, Bergstrassen und mit Ausweichplätzen versehenen Nebenstrassen von dieser Norm abgewichen werden.
 
 <sup>4</sup> Bestehende öffentliche Verkehrswege von ungenügender Breite sind nach Massgabe der dem Staat und den Gemeinden zur Verfügung stehenden finanziellen Mittel zu verbreitern.
 
+<sup>5</sup> Bestehende öffentliche Wege, welche die gewünschte Breite überschreiten, werden zum Zeitpunkt des Ausbaus verengt.
+
+<sup>6</sup> Bei einer Verringerung dieser Breite wird die Möglichkeit des Baus eines eigenständigen Radwegs systematisch geprüft.
+
 #### Art. 82
 
-<sup>2</sup>
+**…**
 
-Aufgehoben.
+#### Art. 83
 
-#### Art. 83 b
+**2. Kreuzungen und Seitenanschlüsse**
 
-**) Kreuzungen und Seitenanschlüsse**
-
-Die neuen Abschnitte von Hauptstrassen, handle es sich dabei um Trasseänderungen von beträchtlicher Länge oder Umfahrungen von Ortschaften, sind in der Regel unter Vermeidung höhengleicher Kreuzungen und direkter Anschlüsse an die angrenzenden Grundstücke auszuführen.
+<sup>1</sup> Die neuen Abschnitte von Hauptstrassen, handle es sich dabei um Trasseänderungen von beträchtlicher Länge oder Umfahrungen von Ortschaften, sind in der Regel unter Vermeidung höhengleicher Kreuzungen und direkter Anschlüsse an die angrenzenden Grundstücke auszuführen.
 
 #### Art. 84
 
-<sup>2</sup> c) Projekte und Kostenvoranschläge
+**3. Projekte und Kostenvoranschläge**
 
 <sup>1</sup> Erachten das zuständige Departement, eine oder mehrere Gemeinden den Neubau, den Ausbau oder die Korrektion eines öffentlichen kantonalen Verkehrsweges als angezeigt, so kann der Staatsrat auf Antrag des zuständigen Departementes die Ausarbeitung eines Projektes und eines Kostenvoranschlages anordnen.
 
@@ -854,7 +864,7 @@ Die neuen Abschnitte von Hauptstrassen, handle es sich dabei um Trasseänderunge
 
 #### Art. 85
 
-<sup>2</sup> d) Ausführung der Bauarbeiten: - Behörde
+**4. Ausführung der Bauarbeiten a) Zuständige Behörde**
 
 <sup>1</sup> Neubau, Ausbau und Korrektion der öffentlichen kantonalen Verkehrswege werden von der zuständigen Behörde gemäss Artikel 17 beschlossen.
 
@@ -864,69 +874,55 @@ Die neuen Abschnitte von Hauptstrassen, handle es sich dabei um Trasseänderunge
 
 #### Art. 86
 
-<sup>2</sup> - Ausschreibung
+**b) Ausschreibung, Arbeitsvergabe und Bauleitung**
 
-Die Ausschreibung der Strassenarbeiten und die Bauleitung obliegen dem zuständigen Departement. Unter Vorbehalt gegenteiliger Bestimmungen ist der Staatsrat zuständig für die Vergebung der Bauarbeiten.
+<sup>1</sup> Die Ausschreibung der Strassenarbeiten und die Bauleitung obliegen dem zuständigen Departement. Unter Vorbehalt gegenteiliger Bestimmungen ist der Staatsrat zuständig für die Vergebung der Bauarbeiten.
 
 #### Art. 87
 
-<sup>2,3,9,11</sup> e) Kostenverteilung - im Allgemeinen
+**5. Kostenverteilung a) Im Allgemeinen**
 
-<sup>1</sup> Nach Abzug allfälliger Beteiligungen oder Beiträge des Bundes oder Dritter werden die Kosten für den Neubau, die Korrektion und den Ausbau der kantonalen Verkehrswege zu 70 Prozent vom Kanton und zu 30 Prozent von den Gemeinden getragen.
+<sup>1</sup> Die Kosten für den Neubau, die Korrektion und den Ausbau der kantonalen Verkehrswege werden zu 75 Prozent vom Kanton und zu 25 Prozent von den Gemeinden getragen.
 
-<sup>2</sup> Dagegen werden die Kosten für den Neubau, die Korrektion und den Ausbau in vollem Umfange vom Staat getragen:
+<sup>2</sup> Dagegen werden die Kosten für den Neubau, die Korrektion und den Ausbau in vollem Umfange vom Kanton getragen:
 
 - a) für die Hauptstrassen, die aus dem Kanton hinausführen, vom Ausgang der letzten Ortschaft auf Walliser Gebiet bis zur Kantonsgrenze;
-
 - b) für die Hauptstrassen über einen Pass im Innern des Kantons die Strecke zwischen dem Ausgang der beidseits durchfahrenen letzten Ortschaften;
-
-- c) für die Hauptstrassen, die durch einen Strassen- oder durch einen Eisenbahntunnel mit Verladerampe aus dem Kanton hinausführen, vom Ausgang der letzten Ortschaft vor dem Tunnel.
+- c) für die Hauptstrassen, die durch einen Strassen- oder durch einen Eisenbahntunnel mit Verladerampe aus dem Kanton hinausführen, vom Ausgang der letzten Ortschaft vor dem Tunnel;
+- d) für die Standplätze für Fahrende.
 
 #### Art. 88
 
-<sup>2,3</sup> - beitragspflichtige Gemeinden
+**b) Beitragspflichtige Gemeinden**
 
-Die Gemeinden, welche sich nach den in Artikel 89 genannten Kriterien an den Kosten des Neubaus, der Korrektion und des Ausbaus der kantonalen öffentlichen Verkehrswege zu beteiligen haben, sind:
+<sup>1</sup> Die Gemeinden, die sich nach den in Artikel 89 genannten Kriterien an den Kosten des Neubaus, der Korrektion und des Ausbaus der kantonalen öffentlichen Verkehrswege zu beteiligen haben, sind:
 
-- a) für die Kantonsstrasse St. Gingolph - Oberwald, die interkantonalen und internationalen Strassen alle Gemeinden des Kantons;
-
-- b) für die übrigen Verkehrswege, die Gemeinden, welche von der gemäss Artikel 17 zuständigen Behörde gleichzeitig mit dem Baubeschluss des Werkes als interessierte bezeichnet werden.
+- a) für die Kantonsstrasse St. Gingolph – Oberwald, die interkantonalen, internationalen Strassen und die Kantonsstrassen ausserorts, alle Gemeinden des Kantons;
+- b) für die Kantonsstrassen innerorts die Gemeinden, die von der gemäss Artikel 17 zuständigen Behörde gleichzeitig mit dem Baubeschluss des Werkes als betroffene Gemeinde bezeichnet werden.
 
 #### Art. 89
 
-<sup>2,3,11</sup> - Kriterien für die Kostenverteilung
+**c) Kriterien für die Kostenverteilung**
 
 <sup>1</sup> Für die in Artikel 88 Buchstabe a genannten öffentlichen Verkehrswege nimmt das zuständige Departement jährlich die Kostenverteilung unter Berücksichtigung nachfolgender Kriterien vor:
 
 - a) 25 Prozent der Länge des Strassennetzes innerhalb der Standortgemeinde;
-
-- b) aufgehoben
-
-- c) 25 Prozent der Einwohnerzahl gemäss der Statistik des Bevölkerungsstandes;
-
-- d) 25 Prozent des Motorfahrzeugbestandes;
-
+- b) …
+- c) 50 Prozent der Bevölkerungszahl gemäss der Statistik des Bevölkerungsstandes;
+- d) …
 - e) 25 Prozent der Anzahl der Logiernächte.
 
-<sup>2</sup> Für die übrigen Strassen im Sinne von Artikel 88 Buchstabe b wird beim Fehlen einer Einigung unter den interessierten Gemeinden die Kostenverteilung jährlich aufgrund nachfolgender Kriterien vorgenommen:
+<sup>2</sup> Für die übrigen Strassen im Sinne von Artikel 88 Buchstabe b wird beim Fehlen einer Einigung unter den betroffenen Gemeinden die Kostenverteilung jährlich aufgrund nachfolgender Kriterien vorgenommen:
 
-- a) 18 Prozent der Strassenlänge auf jedem Gemeindegebiet;
-
-- b) 18 Prozent der Bevölkerungszahl gemäss der Statistik des Bevölkerungsstandes;
-
-- c) aufgehoben
-
-- d) 18 Prozent der Anzahl Logiernächte;
-
-- e) 18 Prozent des Motorfahrzeugbestandes;
-
-- f) 28 Prozent des Interesses, welches die betreffenden Gemeinden am Werk haben, unter Berücksichtigung folgender Kriterien:
-
-- 1\. die Gesamtheit der dem Verkehr geöffneten Strassen;
-
-- 2\. der Erschliessungsgrad;
-
-- 3\. die Naturalleistungen der Gemeinden und Burgerschaften.
+- a) 25 Prozent der Strassenlänge auf jedem Gemeindegebiet;
+- b) 25 Prozent der Bevölkerungszahl gemäss der Statistik des Bevölkerungsstandes;
+- c) …
+- d) 25 Prozent der Anzahl Logiernächte;
+- e) …
+- f) 25 Prozent des Interesses, das die betroffenen Gemeinden am Werk haben, unter Berücksichtigung folgender Kriterien:
+  - 1\. die Gesamtheit der dem Verkehr geöffneten Strassen,
+  - 2\. die Erschliessungsklasse,
+  - 3\. die Naturalleistungen der Gemeinden und Burgerschaften.
 
 <sup>3</sup> Die Verteilungsskala wird vom zuständigen Departement erstellt und jeweils zu Beginn der neuen Amtsperiode einer Überprüfung unterworfen.
 
@@ -934,15 +930,46 @@ Die Gemeinden, welche sich nach den in Artikel 89 genannten Kriterien an den Kos
 
 <sup>5</sup> Diese Verfügung kann gemäss Artikel 233 Gegenstand einer Beschwerde an den Staatsrat bilden. Einmal in Rechtskraft erwachsen, steht sie einem vollstreckbaren Urteil im Sinne von Artikel 80 des Bundesgesetzes über Schuldbetreibung und Konkurs gleich.
 
+<sup>6</sup> Unter "Logiernächte" im Sinne dieses Gesetzes ist das potenzielle Angebot zu verstehen, das der Summe der Zahl der Zweitwohnungen und der Zahl der Hotelbetten mit einer Belegungsrate entspricht. Das Logiernächteangebot einer Gemeinde wird wie folgt berechnet:
+
+- a) Multiplikation der Zahl der Zweitwohnungen mit 2 Personen und einer mittleren Belegung von 30 Tagen, das heisst eine Logiernächtezahl von 60 pro Jahr und Zweitwohnung;
+- b) Multiplikation jedes Hotelbetts mit 150 Nutzungsnächten.
+
 #### Art. 90
 
-**-97 <sup>2</sup>**
+**…**
 
-Aufgehoben.
+#### Art. 91
 
-#### Art. 98 f
+**…**
 
-**) Innerortsstrecken**
+#### Art. 92
+
+**…**
+
+#### Art. 93
+
+**…**
+
+#### Art. 94
+
+**…**
+
+#### Art. 95
+
+**…**
+
+#### Art. 96
+
+**…**
+
+#### Art. 97
+
+**…**
+
+#### Art. 98
+
+**6. Innerortsstrecken**
 
 <sup>1</sup> Als Innerortsstrecken werden grundsätzlich Verkehrswege betrachtet, die auf einer Seite fortlaufend von Gebäuden mit geschlossener Bauflucht oder mit normalen Zwischenräumen begrenzt sind.
 
@@ -950,7 +977,7 @@ Aufgehoben.
 
 #### Art. 99
 
-<sup>2</sup> Gemeindestrassen: a) Kostenverteilung
+**Gemeindestrassen a) Kostenverteilung**
 
 <sup>1</sup> Neubau, Ausbau und Korrektion der kommunalen Verkehrswege obliegen den Territorialgemeinden und gehen auf ihre Kosten.
 
@@ -958,7 +985,7 @@ Aufgehoben.
 
 #### Art. 100
 
-<sup>2</sup> b) Zusammenarbeit von Nachbargemeinden
+**b) Zusammenarbeit von Nachbargemeinden**
 
 <sup>1</sup> Ein zweckmässiger Anschluss an das Verkehrsnetz der Nachbargemeinden ist anzustreben.
 
@@ -978,9 +1005,9 @@ Aufgehoben.
 
 <sup>4</sup> Die Artikel 14 und 15 bleiben vorbehalten.
 
-### 2. Kapitel: Unterhalt
+### 2.2 Unterhalt der öffentlichen Verkehrswege
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 2.2.1 Allgemeine Bestimmungen
 
 #### Art. 102
 
@@ -994,9 +1021,7 @@ Aufgehoben.
 
 #### Art. 103
 
-<sup>2</sup> Winterdienst:
-
-- a) Schneeräumung im allgemeinen und Schliessung von Strassen
+**Winterdienst a) Schneeräumung im allgemeinen und Schliessung von Strassen**
 
 <sup>1</sup> Öffentliche Verkehrswege sind, soweit dies dem Unterhalts- pflichtigen zumutbar ist, den Verkehrsbedürfnissen entsprechend auch im Winter offenzuhalten.
 
@@ -1006,46 +1031,45 @@ Aufgehoben.
 
 <sup>4</sup> Der Umfang des Winterdienstes hängt von der Strassenbreite ab. Erlaubt letztere kein Kreuzen, so sind überall, wo dies möglich ist, Ausweichstellen zu schaffen.
 
-#### Art. 104 b
+#### Art. 104
 
-**) Materialkosten**
+**b) Materialkosten**
 
-Die Kennzeichnung von Schneewehren sowie die Anschaffung, Miete und Instandstellung von Werkzeugen und Material, insbesondere von Maschinen, gehen zu Lasten des Winterdienstes.
+<sup>1</sup> Die Kennzeichnung von Schneewehren sowie die Anschaffung, Miete und Instandstellung von Werkzeugen und Material, insbesondere von Maschinen, gehen zu Lasten des Winterdienstes.
 
-#### Art. 105 c
+#### Art. 105
 
-**) Markierung**
+**c) Markierung**
 
-Zu Beginn des Winters ist die Strasse nötigenfalls durch Pfähle oder ähnliche Signale zu kennzeichnen.
+<sup>1</sup> Zu Beginn des Winters ist die Strasse nötigenfalls durch Pfähle oder ähnliche Signale zu kennzeichnen.
 
 #### Art. 106
 
-<sup>2,3</sup> Gehsteige, Zugänge
+**d) Gehsteige – Zugänge**
 
-<sup>1</sup> Die Reinigung der Gehsteige und die Wegschaffung der am Strassenrand durch Schneepflüge angehäuften Schneemassen innerorts gehen hälftig zu Lasten des Kantons und der Gemeinden.
+<sup>1</sup> Die Reinigung der Gehsteige und die Räumung der am Strassenrand durch Schneepflüge angehäuften Schneemassen innerorts gehen zu 75 Prozent zu Lasten des Kantons und zu 25 Prozent zu Lasten der Gemeinde.
 
 <sup>2</sup> Ausserorts haben die Anstösser für die Freihaltung ihrer Zugänge selbst zu sorgen.
 
 #### Art. 107
 
-<sup>3</sup> Anstösser
+**Anstösser**
 
-Der Gemeinderat kann für kommunale Strassen den Anstössern innerorts die Reinigung der Gehsteige, Treppen und Fussgängerstreifen oder die Bezahlung dieser Arbeiten ganz oder teilweise auferlegen.
+<sup>1</sup> Der Gemeinderat kann für kommunale Strassen den Anstössern innerorts die Reinigung der Gehsteige, Treppen und Fussgängerstreifen oder die Bezahlung dieser Arbeiten ganz oder teilweise auferlegen.
 
 #### Art. 108
 
 **Beleuchtung**
 
-Der Unterhalt und der Betrieb der Beleuchtungsanlagen wird durch die Bestimmungen des Artikels 29 geregelt.
+<sup>1</sup> Der Unterhalt und der Betrieb der Beleuchtungsanlagen wird durch die Bestimmungen des Artikels 29 geregelt.
 
 #### Art. 109
 
-<sup>2</sup> Kreuzungen und Strasseneinmündungen
+**Kreuzungen und Strasseneinmündungen**
 
 <sup>1</sup> Die Unterhaltskosten der Strassenkreuzungen verteilen sich wie folgt:
 
 - a) bei höhengleichen Kreuzungen trägt der höher klassierte Verkehrsweg die Kosten in der Breite seiner Fahrbahn;
-
 - b) bei Unter- und Überführungen fällt der Unterhalt des Kreuzungsbauwerkes zu Lasten des höher klassierten Verkehrswegs. Der Unterhalt der übrigen Teile der Kreuzung fällt zu Lasten der Verkehrswege, dessen Bestandteil sie sind.
 
 <sup>2</sup> Die Parteien können eine abweichende Kostenverteilung vereinbaren.
@@ -1068,11 +1092,11 @@ Der Unterhalt und der Betrieb der Beleuchtungsanlagen wird durch die Bestimmunge
 
 <sup>5</sup> Die Kosten dieser Arbeiten können ganz oder teilweise dem fehlbaren Eigentümer auferlegt werden.
 
-### 2. Abschnitt: Nationalstrassen
+### 2.2.2 Nationalstrassen
 
 #### Art. 111
 
-<sup>2,9</sup> Leistungsvereinbarungen
+**Leistungsvereinbarungen**
 
 <sup>1</sup> Im Bereich der Nationalstrassen kann der Staat mit dem Bund Leistungsvereinbarungen abschliessen über die Ausführung des ordentlichen Unterhalts und der Unterhaltsarbeiten, die nicht Gegenstand eines Projektes im Sinne von Artikel 49a Absatz 2 des Bundesgesetzes vom 8. März 1960 über die Nationalstrassen bilden.
 
@@ -1082,53 +1106,48 @@ Der Unterhalt und der Betrieb der Beleuchtungsanlagen wird durch die Bestimmunge
 
 <sup>4</sup> Die Leistungsvereinbarungen müssen die integrierte Mehrjahresplanung einhalten.
 
-#### Art. 111bis
+#### Art. 111a
 
-<sup>9</sup> Zusätzliche Leistungen
+**Zusätzliche Leistungen**
 
 <sup>1</sup> Nebst den in den Leistungsvereinbarungen enthaltenen Aufgaben kann der Staat im Auftrag des Bundes zusätzliche Leistungen erbringen, deren Kosten vollumfänglich zu Lasten des Bundes gehen.
 
 <sup>2</sup> Die Kompetenz zur Annahme solcher Aufträge wird gemäss den ordentlichen Vorschriften über die Finanzkompetenzen festgelegt.
 
-### 3. Abschnitt: kantonale Verkehrswege
+### 2.2.3 kantonale Verkehrswege
 
 #### Art. 112
 
-<sup>2,3,9,11</sup> Ausserortsstrecken: a) Kostenverteilung
+**Ausserortsstrecken 1. Kostenverteilung**
 
-<sup>1</sup> Nach Abzug allfälliger Beteiligungen oder Beiträge des Bundes oder Dritter werden die Kosten für den Unterhalt der kantonalen Verkehrswege zu 70 Prozent von Kanton und zu 30 Prozent von den Gemeinden getragen.
+<sup>1</sup> Nach Abzug allfälliger Beteiligungen oder Beiträge des Bundes oder Dritter werden die Kosten für den Unterhalt der kantonalen Verkehrswege zu 75 Prozent vom Kanton und zu 25 Prozent von den Gemeinden getragen.
 
 <sup>2</sup> Dagegen werden die Kosten für den Unterhalt in vollem Umfange vom Staat getragen:
 
 - a) für die Hauptstrassen, die aus dem Wallis hinausführen, vom Ausgang der letzten Ortschaft auf Walliser Gebiet bis zur Kantonsgrenze;
-
 - b) für die Hauptstrassen über einen Pass im Innern des Kantons die Strecke zwischen dem Ausgang der beidseits durchfahrenden letzten Ortschaften;
+- c) für die Hauptstrassen, die durch einen Strassen- oder Eisenbahntunnel mit Verladerampe aus dem Kanton hinausführen, vom Ausgang der letzten Ortschaft vor dem Tunnel;
+- d) für die Standplätze für Fahrende.
 
-- c) für die Hauptstrassen, die durch einen Strassen- oder Eisenbahntunnel mit Verladerampe aus dem Kanton hinausführen, vom Ausgang der letzten Ortschaft vor dem Tunnel.
-
-<sup>3</sup> Die Bestimmungen des Artikels 89, Absatz 1, 3, 4 und 5 sind sinngemäss anwendbar für das Verfahren betreffend die Kostenverteilung des Strassenunterhaltes.
+<sup>3</sup> Die Bestimmungen des Artikels 89 Absatz 1, 3, 4 und 5 sind sinngemäss anwendbar für das Verfahren betreffend die Kostenverteilung des Strassenunterhaltes.
 
 #### Art. 113
 
-<sup>2</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 114
 
-<sup>2,3</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 115
 
-<sup>2,3</sup> b) Ausführung der Arbeiten
+**2. Ausführung der Arbeiten**
 
-Die Arbeiten werden vom zuständigen Departement ausgeführt. Sie können privaten Unternehmungen oder mittels Vereinbarung den Gemeinden, namentlich für die Schneeräumung der Gehsteige übertragen werden.
+<sup>1</sup> Die Arbeiten werden vom zuständigen Departement ausgeführt. Sie können privaten Unternehmungen oder mittels Vereinbarung den Gemeinden, namentlich für die Schneeräumung der Gehsteige übertragen werden.
 
 #### Art. 116
 
-<sup>2</sup> c) Winterdienst: Ausführung und Kostenbelastung
+**3. Winterdienst a) Ausführung und Kostenbelastung**
 
 <sup>1</sup> Die Schneeräumung und die Schutzmassnahmen gegen Glatteis und Schneeglätte gelten als Unterhaltsarbeiten und werden vom zuständigen Departement besorgt.
 
@@ -1136,19 +1155,19 @@ Die Arbeiten werden vom zuständigen Departement ausgeführt. Sie können privat
 
 #### Art. 117
 
-**- Bedingungen für die Ausführung**
+**b) Bedingungen für die Ausführung**
 
 <sup>1</sup> Die Passstrassen der kantonalen Verkehrswege werden dem Verkehr von der letzten durchfahrenen Ortschaft an geöffnet, soweit die Verkehrsbedürfnisse dies erfordern und es die Witterungsverhältnisse erlauben.
 
 <sup>2</sup> Die andern kantonalen Verkehrswege werden vom Schnee geräumt, sobald es die Witterungsverhältnisse erlauben.
 
-<sup>3</sup> Immerhin kann das zuständige Departement vorübergehend davon absehen, wenn die Arbeiten im Verhältnis zum erzielten Nutzen sich als zu kostspielig erweisen oder wenn sie mit übermässigen Gefahren verbunden sind (Lawinen, usw.). Artikel 103, Absatz 3 ist anwendbar.
+<sup>3</sup> Immerhin kann das zuständige Departement vorübergehend davon absehen, wenn die Arbeiten im Verhältnis zum erzielten Nutzen sich als zu kostspielig erweisen oder wenn sie mit übermässigen Gefahren verbunden sind (Lawinen, usw.). Artikel 103 Absatz 3 ist anwendbar.
 
 <sup>4</sup> Die Wege werden dem Verkehr nach Massgabe der lokalen Bedürfnisse geöffnet.
 
 #### Art. 118
 
-**- Gemeindematerial durch den Staat**
+**c) Benützung von subventioniertem Gemeindematerial durch den Staat**
 
 <sup>1</sup> Gemeinden, die mit Hilfe des Staates Material für den Winterdienst angeschafft haben, sind gehalten, es dem zuständigen Departement zur Verfügung zu stellen.
 
@@ -1156,17 +1175,17 @@ Die Arbeiten werden vom zuständigen Departement ausgeführt. Sie können privat
 
 #### Art. 119
 
-**Innerortsstrecken: a) Pflichten**
+**Innerortsstrecken a) Pflichten**
 
-<sup>1</sup> Innerorts obliegt, mit Ausnahme des Winterdienstes, der Unterhalt der Fahrbahn der kantonalen Strassen zu 50 Prozent dem Staat und zu 50 Prozent der Gemeinde. Die Arbeiten selbst werden durch den Staat ausgeführt.
+<sup>1</sup> Innerorts obliegt, mit Ausnahme des Winterdienstes, der Unterhalt der Fahrbahn der kantonalen Strassen zu 75 Prozent dem Kanton und zu 25 Prozent der Gemeinde. Die Arbeiten werden durch den Kanton ausgeführt.
 
-<sup>2</sup> Unter Vorbehalt von Artikel 106, Absatz 1 ist der Unterhalt der übrigen Werke und Anlagen, einschliesslich der Gehsteige, der öffentlichen Kanalisationen, der Beleuchtung und aller andern Einrichtungen, sowie die Reinigung der Fahrbahn und der Gehsteige im vollen Umfang Sache der Gemeinde.
+<sup>2</sup> Unter Vorbehalt von Artikel 106 Absatz 1 ist der Unterhalt der übrigen Werke und Anlagen, namentlich der Gehsteige, der öffentlichen Kanalisationen, der Beleuchtung, der Leitschranken, die Reinigung der Fahrbahn und der Gehsteige im vollen Umfang Sache der Gemeinde.
 
 <sup>3</sup> Für den Winterdienst ist Artikel 116 anwendbar.
 
-#### Art. 120 b
+#### Art. 120
 
-**) Mangelhafter Unterhalt**
+**b) Mangelhafter Unterhalt**
 
 <sup>1</sup> Befinden sich die Anlagen, für deren Unterhalt die Gemeinde ausschliesslich aufzukommen hat, in mangelhaftem Zustand und falls sie deren Instandstellung trotz Fristansetzung vernachlässigt, so werden die nötigen Arbeiten zu Lasten der Gemeinde vom zuständigen Departement in Regie ausgeführt.
 
@@ -1176,31 +1195,29 @@ Die Arbeiten werden vom zuständigen Departement ausgeführt. Sie können privat
 
 **Umleitung des Verkehrs**
 
-Wird der Verkehr eines kantonalen Verkehrsweges vorübergehend auf eine Gemeindestrasse umgeleitet, so werden die Kosten für den Unterhalt und die allfällige Instandstellung des betreffenden kommunalen Verkehrsweges den Unterhaltskosten des kantonalen Verkehrsweges zugerechnet.
+<sup>1</sup> Wird der Verkehr eines kantonalen Verkehrsweges vorübergehend auf eine Gemeindestrasse umgeleitet, so werden die Kosten für den Unterhalt und die allfällige Instandstellung des betreffenden kommunalen Verkehrsweges den Unterhaltskosten des kantonalen Verkehrsweges zugerechnet.
 
 #### Art. 122
 
-<sup>2</sup>
+**…**
 
-Aufgehoben.
-
-### 4. Abschnitt: Kommunale Verkehrswege
+### 2.2.4 Kommunale Verkehrswege
 
 #### Art. 123
 
-<sup>2</sup> Pflichten der Gemeinden
+**Pflichten der Gemeinden**
 
 <sup>1</sup> Die Gemeinden sind verpflichtet, die kommunalen Verkehrswege, insbesondere die dem Motorfahrzeugverkehr geöffneten, auf ihre Kosten, gemäss Artikel 102 in gutem Zustand zu erhalten. Bei grober Vernachlässigung ist Artikel 120 anwendbar.
 
 <sup>2</sup> Durch Gemeindereglement können den Eigentümern überbauter Grundstücke die Schneeräumungskosten der kommunalen Verkehrswege durch Leistung einer entsprechenden Abgabe auferlegt werden. Die Höhe dieser Abgabe darf im Maximum 50 Prozent der effektiven Kosten betragen.
 
-### 5. Abschnitt: Privatstrassen und -wege im Gemeingebrauch
+### 2.2.5 Privatstrassen und -wege im Gemeingebrauch
 
 #### Art. 124
 
 **Anwendbares Recht**
 
-Die allgemeinen Bestimmungen des vorliegenden Kapitels und Artikels 15 finden auf den Unterhalt der privaten Strassen und Wege Anwendung, die dem Gemeingebrauch gewidmet sind. Im übrigen ist ihr Unterhalt durch das Privatrecht geregelt.
+<sup>1</sup> Die allgemeinen Bestimmungen des vorliegenden Kapitels und Artikels 15 finden auf den Unterhalt der privaten Strassen und Wege Anwendung, die dem Gemeingebrauch gewidmet sind. Im übrigen ist ihr Unterhalt durch das Privatrecht geregelt.
 
 #### Art. 125
 
@@ -1220,17 +1237,13 @@ Die allgemeinen Bestimmungen des vorliegenden Kapitels und Artikels 15 finden au
 
 **Gemeindereglement**
 
-Die Gemeinden sind befugt, auf dem Reglementswege Vorschriften und Bedingungen für die Erstellung und den Unterhalt der Privatstrassen und -wege sowie für ihre Übernahme durch die Gemeinde festzulegen.
+<sup>1</sup> Die Gemeinden sind befugt, auf dem Reglementswege Vorschriften und Bedingungen für die Erstellung und den Unterhalt der Privatstrassen und -wege sowie für ihre Übernahme durch die Gemeinde festzulegen.
 
-### 3. Kapitel: Öffentliche Transportmittel
+### 2.3 Öffentliche Transportmittel
 
 #### Art. 127
 
-**durch ein**
-
-<sup>2</sup> Ersetzung eines Verkehrsweges
-
-öffentlichesTransportmittel
+**Ersetzung eines Verkehrsweges durch ein öffentlichesTransportmittel**
 
 <sup>1</sup> Wenn das Interesse der Benützer es verlangt, keine unzulässigen Mehrkosten daraus entstehen und das Unternehmen lebensfähig zu sein verspricht, so kann ein zu erstellender oder zu ändernder kantonaler Verkehrsweg im Gebirge ganz oder teilweise durch ein öffentliches Transportmittel ersetzt werden, das in seinem Ausbau den zu erwartenden Verkehrsbedürfnissen entspricht.
 
@@ -1238,13 +1251,13 @@ Die Gemeinden sind befugt, auf dem Reglementswege Vorschriften und Bedingungen f
 
 #### Art. 128
 
-<sup>2,4</sup> Bau
+**Bau**
 
-Die Bestimmungen des kantonalen Gesetzes über den öffentlichen Verkehr sind für den Bau und die Renovation der unter Artikel 127 erwähnten Verkehrsmittel anwendbar.
+<sup>1</sup> Die Bestimmungen des kantonalen Gesetzes über den öffentlichen Verkehr sind für den Bau und die Renovation der unter Artikel 127 erwähnten Verkehrsmittel anwendbar.
 
 #### Art. 129
 
-<sup>2</sup> Geschäftsführung und Betriebsreglement
+**Geschäftsführung - Betriebsreglement**
 
 <sup>1</sup> Der Betrieb der öffentlichen Transportmittel wird durch das zuständige Departement gewährleistet. Der Staatsrat kann ihn jedoch unter Aufsicht des zuständigen Departementes der oder den betreffenden Gemeinden anvertrauen.
 
@@ -1254,39 +1267,38 @@ Die Bestimmungen des kantonalen Gesetzes über den öffentlichen Verkehr sind f�
 
 <sup>4</sup> Ist die Geschäftsführung der betreffenden Gemeinde oder Gemeinden mangelhaft, so kann der Staatsrat die Rücknahme des Betriebes durch das zuständige Departement anordnen.
 
-<sup>5</sup> Artikel 131, Absatz 2 bleibt vorbehalten.
+<sup>5</sup> Artikel 131 Absatz 2 bleibt vorbehalten.
 
 #### Art. 130
 
 **Gewinne**
 
-Die Betriebsgewinne sind nach Massgabe des Betriebsreglementes, in erster Linie der Abschreibung und Erneuerung der technischen Ausrüstung zuzuwenden. Verbleibt ein Gewinnsaldo, so ist ein Reservefonds zu schaffen.
+<sup>1</sup> Die Betriebsgewinne sind nach Massgabe des Betriebsreglementes, in erster Linie der Abschreibung und Erneuerung der technischen Ausrüstung zuzuwenden. Verbleibt ein Gewinnsaldo, so ist ein Reservefonds zu schaffen.
 
 #### Art. 131
 
-<sup>2,3</sup> Verluste
+**Verluste**
 
-<sup>1</sup> Ein allfälliger Verlust wird, insoweit derselbe nicht durch den Reservefonds gedeckt ist, unter Staat und Gemeinden verteilt, gemäss Artikel 89, Absatz 1, Buchstabe a, der sinngemäss Anwendung findet.
+<sup>1</sup> Ein allfälliger Verlust wird, insoweit derselbe nicht durch den Reservefonds gedeckt ist, unter Staat und Gemeinden verteilt, gemäss Artikel 89 Absatz 1 Buchstabe a der sinngemäss Anwendung findet.
 
 <sup>2</sup> Ist der Fehlbetrag auf mangelhafte Betriebsführung der beauftragten Gemeinde oder Gemeinden zurückzuführen, so kann ihr bzw. ihnen derselbe ganz oder teilweise zur Last gelegt werden, unter Vorbehalt ihres Rückgriffs auf die verantwortlichen Geschäftsorgane.
 
 <sup>3</sup> Die Unterhaltskosten für die öffentlichen Transportmittel sind denjenigen für die kantonalen öffentlichen Verkehrswege gleichgestellt.
 
-<sup>4</sup> Zur Bestimmung des Kriteriums "Länge des Strassennetzes" im Sinne von Artikel 89, Absatz 1, Buchstabe a ist wie folgt vorzugehen:
+<sup>4</sup> Zur Bestimmung des Kriteriums "Länge des Strassennetzes" im Sinne von Artikel 89 Absatz 1 Buchstabe a ist wie folgt vorzugehen:
 
 - a) für öffentliche Transportmittel, deren Länge oder deren Netz;
-
 - b) für die Luftseilbahnen, die zur Verbindung der Tal- und Bergstationen bei einem Gefälle von sieben Prozent benötigte Strassenlänge.
 
 #### Art. 132
 
 **Rechtsvorbehalte**
 
-Die einschlägigen eidgenössischen und kantonalen Vorschriften über den Bau, den Betrieb und die Polizei der öffentlichen Transportmittel bleiben vorbehalten.
+<sup>1</sup> Die einschlägigen eidgenössischen und kantonalen Vorschriften über den Bau, den Betrieb und die Polizei der öffentlichen Transportmittel bleiben vorbehalten.
 
 #### Art. 133
 
-<sup>6</sup> Enteignung
+**Enteignung**
 
 <sup>1</sup> Die zum Bau der öffentlichen Transportmittel benötigten Rechte können durch Enteignung nach dem einschlägigen Gesetz erworben werden.
 
@@ -1298,31 +1310,31 @@ Die einschlägigen eidgenössischen und kantonalen Vorschriften über den Bau, d
 
 **Anwendbares Recht**
 
-Die Bestimmungen des vorliegenden Gesetzes sind sinngemäss auf den Bau und den Unterhalt von öffentlichen Transportmitteln durch den Staat oder die Gemeinden anzuwenden, soweit es die Natur des Werkes erlaubt, und sie nicht gegen die einschlägige Sondergesetzgebung verstossen.
+<sup>1</sup> Die Bestimmungen des vorliegenden Gesetzes sind sinngemäss auf den Bau und den Unterhalt von öffentlichen Transportmitteln durch den Staat oder die Gemeinden anzuwenden, soweit es die Natur des Werkes erlaubt, und sie nicht gegen die einschlägige Sondergesetzgebung verstossen.
 
 #### Art. 135
 
-<sup>2</sup> Bestehende öffentliche Transportmittel
+**Bestehende öffentliche Transportmittel**
 
-Die bestehenden, vom Staate aufgrund des Gesetzes vom 18. Mai 1927 betreffend den Bau von Bergstrassen oder des Strassengesetzes vom 1. Februar 1933 an Stelle einer auszuführenden Strasse subventionierten, jedoch vom Staat bis zum heutigen Zeitpunkt nicht übernommenen öffentlichen Transportmittel verbleiben im Eigentum der Gemeinde und werden weiterhin von ihr unter Aufsicht des zuständigen Departementes betrieben. Ist jedoch das Betriebsergebnis defizitär, so wird die betreffende Anlage vom zuständigen Departement übernommen. In diesem Fall ist Artikel 128 anwendbar.
+<sup>1</sup> Die bestehenden, vom Staate aufgrund des Gesetzes betreffend den Bau von Bergstrassen vom 18. Mai 1927 oder des Strassengesetzes vom 1. Februar 1933 an Stelle einer auszuführenden Strasse subventionierten, jedoch vom Staat bis zum heutigen Zeitpunkt nicht übernommenen öffentlichen Transportmittel verbleiben im Eigentum der Gemeinde und werden weiterhin von ihr unter Aufsicht des zuständigen Departementes betrieben. Ist jedoch das Betriebsergebnis defizitär, so wird die betreffende Anlage vom zuständigen Departement übernommen. In diesem Fall ist Artikel 128 anwendbar.
 
 #### Art. 136
 
-<sup>2,4</sup> Rechtliche Stellung im Falle des Baues eines Verkehrsweges
+**Rechtliche Stellung im Falle des Baues eines Verkehrsweges**
 
 <sup>1</sup> Wurde anstelle eines Verkehrsweges ein öffentliches Transportmittel gebaut, erweist sich jedoch der Bau einer Strasse nachträglich aus Gründen des öffentlichen Verkehrs dennoch als notwendig, so kann die gemäss Artikel 17 zuständige Behörde nach Anhören der Gemeinde die Aufhebung oder den Weiterbestand des öffentlichen Transportmittels beschliessen. Im Fall des Weiterbestehens des öffentlichen Transportmittels sind die Bestimmungen des Gesetzes über den öffentlichen Verkehr anwendbar.
 
 <sup>2</sup> Im Falle des Bestehens eines kantonalen Verkehrsweges und eines im Eigentum der Gemeinde stehenden öffentlichen Transportmittels, und wenn beide Werke als Verbindung zum Tal im Interesse des öffentlichen Verkehrs jedoch notwendig sind, bleibt die Gemeinde Eigentümerin der Transportanlage. Die gemäss Artikel 17 zuständige Behörde kann diesfalls der Gemeinde die vom Gesetz über den öffentlichen Verkehr vorgesehenen Abgeltungen und Finanzhilfen gewähren.
 
-### 3. Titel: Besondere Bestimmungen
+## 3 Besondere Bestimmungen
 
-### 1. Kapitel: Öffentlicher Gebrauch
+### 3.1 Öffentlicher Gebrauch
 
-### 1. Abschnitt: Benützung des öffentlichen Eigentums
+### 3.1.1 Benützung des öffentlichen Eigentums
 
 #### Art. 137
 
-<sup>2</sup> Gemeingebrauch
+**Gemeingebrauch**
 
 <sup>1</sup> Das öffentliche Eigentum darf im Rahmen seiner Zweckbestimmung und der geltenden Vorschriften durch jedermann unentgeltlich und ohne besondere Erlaubnis benutzt werden.
 
@@ -1330,7 +1342,7 @@ Die bestehenden, vom Staate aufgrund des Gesetzes vom 18. Mai 1927 betreffend de
 
 #### Art. 138
 
-<sup>2</sup> Sondergebrauch
+**Sondergebrauch**
 
 <sup>1</sup> Sondergebrauch ist die Benutzung des öffentlichen Eigentums in einem den Gemeingebrauch übersteigenden Mass oder in einer nicht seiner Zweckbestimmung entsprechenden Art.
 
@@ -1346,7 +1358,7 @@ Die bestehenden, vom Staate aufgrund des Gesetzes vom 18. Mai 1927 betreffend de
 
 #### Art. 139
 
-<sup>2</sup> a) Bewilligung
+**a) Bewilligung**
 
 <sup>1</sup> Eine Bewilligung ist erforderlich für jede Benutzung des öffentlichen Eigentums, die intensiver ist als die durch den Gemeingebrauch gedeckte, namentlich für dessen Inanspruchnahme zu industriellen und gewerblichen Zwecken.
 
@@ -1354,7 +1366,7 @@ Die bestehenden, vom Staate aufgrund des Gesetzes vom 18. Mai 1927 betreffend de
 
 #### Art. 140
 
-<sup>2</sup> b) Konzession
+**b) Konzession**
 
 <sup>1</sup> Eine Konzession ist erforderlich für die Inanspruchnahme des öffentlichen Eigentums zur Erstellung von dauerhaften Bauten und Anlagen. Sie ist mit vertraglichen Abreden verbunden.
 
@@ -1366,28 +1378,25 @@ Die bestehenden, vom Staate aufgrund des Gesetzes vom 18. Mai 1927 betreffend de
 
 #### Art. 141
 
-<sup>2</sup> Zuständigkeit
+**Zuständigkeit**
 
 <sup>1</sup> Die Bewilligung wird erteilt:
 
 - a) für die Benützung des kantonalen öffentlichen Eigentums vom zuständigen Departement, dem die Verwaltung des Staatseigentums obliegt. Die Standortgemeinde ist anzuhören;
-
 - b) für die Benützung des öffentlichen Eigentums der Gemeinde vom Gemeinderat.
 
 <sup>2</sup> Unter Vorbehalt von Artikel 79 der Kantonsverfassung sowie spezialgesetzlicher Bestimmungen wird die Konzession erteilt:
 
 - a) für die Inanspruchnahme des öffentlichen Eigentums des Kantons vom Staatsrat. Die Standortgemeinde ist anzuhören;
-
 - b) für das öffentliche Eigentum der Gemeinde vom Gemeinderat.
 
 #### Art. 142
 
-<sup>2</sup> Verfahren
+**Verfahren**
 
 <sup>1</sup> Gesuche für bewilligungs- oder konzessionspflichtige Nutzungen sind einzureichen:
 
 - a) für öffentliches Eigentum des Kantons beim hiefür zuständigen Departement;
-
 - b) für öffentliches Eigentum der Gemeinde beim Gemeinderat.
 
 <sup>2</sup> Das Gesuch hat alle für die Beurteilung notwendigen Angaben und Unterlagen zu enthalten.
@@ -1396,45 +1405,67 @@ Die bestehenden, vom Staate aufgrund des Gesetzes vom 18. Mai 1927 betreffend de
 
 #### Art. 143
 
-<sup>2</sup> Gebühren
+**Gebühren**
 
 <sup>1</sup> Für die Amtshandlungen aus diesem Gesetz sowie für die bewilligungs- und konzessionspflichtigen Nutzungen an öffentlichem Eigentum erhebt die zuständige Behörde Gebühren, deren Höhe im einzelnen in einer Gebührenordnung festgesetzt wird.
 
-<sup>2</sup> Der Rahmen für die an den Landesindex für Konsumentenpreise gebundenen Gebühren beträgt 100 Franken bis 50 000 Franken. Innerhalb des Gebührenrahmens sind die mit der Bewilligung oder Konzession verbundenen wirtschaftlichen Vorteile, das Interesse des Gebührenpflichtigen und die Nachteile für das öffentliche Eigentum zu berücksichtigen.
+<sup>2</sup> Der Rahmen für die an den Landesindex für Konsumentenpreise gebundenen Gebühren beträgt 100 Franken bis 50'000 Franken. Innerhalb des Gebührenrahmens sind die mit der Bewilligung oder Konzession verbundenen wirtschaftlichen Vorteile, das Interesse des Gebührenpflichtigen und die Nachteile für das öffentliche Eigentum zu berücksichtigen.
 
 <sup>3</sup> Die Gebühren gehören der die Bewilligung oder Konzession erteilenden Behörde.
 
 <sup>4</sup> Diese Gebühren sind für die Finanzierung der öffentlichen Verkehrswege zu verwenden.
 
+#### Art. 143a
+
+**Gesetzliches Vorkaufsrecht**
+
+<sup>1</sup> Die Gemeinden verfügen über ein gesetzliches Vorkaufsrecht gegenüber Dritten, die einen Überschuss des kantonalen öffentlichen Eigentums erwerben möchten. Vorbehalten bleiben die Bestimmungen des kantonalen Enteignungsgesetzes.
+
 #### Art. 144
 
-**-148 <sup>2</sup>**
+**…**
 
-Aufgehoben.
+#### Art. 145
 
-### 2. Abschnitt: Benützung öffentlicher Verkehrswege
+**…**
+
+#### Art. 146
+
+**…**
+
+#### Art. 147
+
+**…**
+
+#### Art. 148
+
+**…**
+
+### 3.1.2 Benützung öffentlicher Verkehrswege
 
 #### Art. 149
 
-<sup>2</sup> Gemeingebrauch
+**Gemeingebrauch**
 
 <sup>1</sup> Das Recht, einen öffentlichen Verkehrsweg zu benützen, besteht innerhalb der in Artikel 137 festgelegten Grenzen für jedermann.
 
 <sup>2</sup> Im Rahmen des Gemeingebrauches geniesst der fliessende Verkehr gegenüber dem ruhenden den Vorrang. Kein Gemeingebrauch liegt dann vor, wenn der Verkehrsweg vorwiegend für andere Zwecke als diejenigen des Verkehrs benützt wird.
 
-<sup>3</sup> Aufgehoben.
+<sup>3</sup> …
 
 <sup>4</sup> Wenn jedoch der Anschluss eines Anstössers an einen öffentlichen Verkehrsweg infolge seiner Aufhebung oder Verlegung oder wegen Beseitigung des Seitenanschlusses wegfällt, so muss der Strasseneigentümer dem Anstösser einen anderen angemessenen Anschluss zum öffentlichen Strassennetz verschaffen oder, falls dies nicht möglich ist, ihn entsprechend entschädigen.
 
 #### Art. 150
 
-Einschränkungen: a) Verkehr, Gesamtgewicht und Ausmass Das zuständige Departement oder die Gemeinden können ohne Entschädigung den Verkehr auf einem Verkehrsweg vorübergehend untersagen, sowie das Gesamtgewicht und die Ausmasse der darauf verkehrenden Fahrzeuge einschränken, wenn die Bauarbeiten, der Zustand der Fahrbahn oder der Kunstbauten oder andere wichtige Gründe (Veranstaltungen, Unfälle und dergleichen) dies notwendig machen.
+**Einschränkungen a) Verkehr, Gesamtgewicht und Ausmass**
 
-#### Art. 151 b
+<sup>1</sup> Das zuständige Departement oder die Gemeinden können ohne Entschädigung den Verkehr auf einem Verkehrsweg vorübergehend untersagen, sowie das Gesamtgewicht und die Ausmasse der darauf verkehrenden Fahrzeuge einschränken, wenn die Bauarbeiten, der Zustand der Fahrbahn oder der Kunstbauten oder andere wichtige Gründe (Veranstaltungen, Unfälle und dergleichen) dies notwendig machen.
 
-**) Fahrzeugtypen und seitliche Zufahrt**
+#### Art. 151
 
-Wo das Vorhandensein einer Sammel- oder einer andern Strasse es erlaubt, kann der Verkehr auf einem kantonalen Verkehrsweg bestimmten Kategorien von Motorfahrzeugen vorbehalten und der seitliche Anschluss beschränkt werden.
+**b) Fahrzeugtypen und seitliche Zufahrt**
+
+<sup>1</sup> Wo das Vorhandensein einer Sammel- oder einer andern Strasse es erlaubt, kann der Verkehr auf einem kantonalen Verkehrsweg bestimmten Kategorien von Motorfahrzeugen vorbehalten und der seitliche Anschluss beschränkt werden.
 
 #### Art. 152
 
@@ -1462,7 +1493,7 @@ Wo das Vorhandensein einer Sammel- oder einer andern Strasse es erlaubt, kann de
 
 <sup>1</sup> Wer berufsmässig und öffentlich Personentransporte (Taxidienste) ausführen will, bedarf einer vorgängigen Bewilligung der Behörde jener Gemeinde, in der er diese Tätigkeit auszuüben gedenkt. Die Behörde vergewissert sich, dass der Bewerber die moralischen und beruflichen Voraussetzungen erfüllt und ob das oder die Dienstfahrzeuge den Erfordernissen entsprechen.
 
-<sup>2</sup> Nur Personen im Besitze dieser Bewilligung sind berechtigt, ihr Dienstfahrzeug als «Taxi» zu bezeichnen und es mit einem Fahrtschreiber auszustatten.
+<sup>2</sup> Nur Personen im Besitze dieser Bewilligung sind berechtigt, ihr Dienstfahrzeug als "Taxi" zu bezeichnen und es mit einem Fahrtschreiber auszustatten.
 
 <sup>3</sup> Das Parkieren von Taxis in besonders reservierten Flächen von öffentlichen Verkehrswegen oder Plätzen bedarf ausserdem einer gemäss Artikel 139 ausgestellten Bewilligung oder Konzession der zuständigen Behörde. Die Zahl dieser Bewilligungen oder Konzessionen hängt vom verfügbaren Raum, vom Verkehr und von den Bedürfnissen des Publikums ab.
 
@@ -1474,41 +1505,35 @@ Wo das Vorhandensein einer Sammel- oder einer andern Strasse es erlaubt, kann de
 
 #### Art. 155
 
-<sup>2</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 156
 
-<sup>2</sup> Fahrzeuge ohne Bereifung
+**Fahrzeuge ohne Bereifung**
 
 <sup>1</sup> Es ist untersagt, ohne ausdrückliche Bewilligung die Verkehrswege zu benutzen:
 
 - a) mit schweren Fahrzeugen ohne Gummibereifung;
-
 - b) für Schleiftransporte von Holz;
-
 - c) mit gefährlichen, nicht gesicherten Tieren.
 
 <sup>2</sup> Die Bewilligung bestimmt die zu treffenden Schutzmassnahmen.
 
 #### Art. 157
 
-<sup>2</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 158
 
-<sup>2</sup> Tiere
+**Tiere**
 
-<sup>1</sup> Aufgehoben.
+<sup>1</sup> …
 
 <sup>2</sup> Auf Verkehrswegen mit Motorfahrzeugverkehr sind Tiere zu überwachen (Art. 50 SVG).
 
 #### Art. 159
 
-**Verkehrbehinderung, missbräuchliche Benützung**
+**Verkehrbehinderung - Missbräuchliche Benützung**
 
 <sup>1</sup> Es ist untersagt, die Verkehrswege und ihre Bestandteile missbräuchlich zu benützen, die Fahrbahnränder und ihre Bankette anzupflügen oder die Fahrbahn durch Ablagerungen irgendwelcher Art, die nicht dem Strassenunterhalt dienen, oder sonstwie zu beeinträchtigen, Tiere darauf weiden zu lassen, ohne Bewilligung Steine, Erde, Rasenstücke wegzuschaffen, ohne Bewilligung Wegweiser oder Reklametafeln zu errichten, Änderungen an Mauern, Bäumen, Zäunen, Gräben, Wasserleitungen, Signalisationen, Marksteinen, usw. vorzunehmen, d.h. irgendetwas zu tun, das sie beschädigen, mit Hindernissen belasten, verunreinigen oder den sich auf ihnen abwickelnden Verkehr beeinträchtigen könnte.
 
@@ -1532,11 +1557,11 @@ Aufgehoben.
 
 **Fahrzeug in Panne**
 
-Bei mechanischen Betriebsausfällen, usw. müssen die beschädigten Maschinen oder Fahrzeuge so rasch als möglich vom Verkehrsweg entfernt werden. Die Hindernisse auf der Fahrbahn müssen den geltenden Vorschriften entsprechend signalisiert werden.
+<sup>1</sup> Bei mechanischen Betriebsausfällen, usw. müssen die beschädigten Maschinen oder Fahrzeuge so rasch als möglich vom Verkehrsweg entfernt werden. Die Hindernisse auf der Fahrbahn müssen den geltenden Vorschriften entsprechend signalisiert werden.
 
 #### Art. 162
 
-<sup>2</sup> Umleitung des Verkehrs
+**Umleitung des Verkehrs**
 
 <sup>1</sup> Bei Verkehrsunterbruch auf einem öffentlichen Verkehrsweg trifft das zuständige Departement oder die Gemeindebehörde die nötigen Anordnungen zur Umleitung des Verkehrs sowie zur öffentlichen Bekanntmachung und Signalisierung; nötigenfalls wird ein Verkehrsweg auf einem angrenzenden Grundstück gegen volle Entschädigung zugesichert.
 
@@ -1583,30 +1608,29 @@ Bei mechanischen Betriebsausfällen, usw. müssen die beschädigten Maschinen od
 <sup>2</sup> Insbesondere ist verboten:
 
 - a) auf dem Verkehrsweg gelagertes Material zu verschieben;
-
 - b) Einrichtungen, Pfähle, Signale, Wegweiser, Warnungstafeln usw., die im Interesse der Arbeiten oder des Strassenverkehrs angebracht wurden, zu zerstören, zu beschädigen oder zu entfernen.
 
-### 2. Kapitel: An öffentliche Verkehrswege angrenzendes Gebiet
+### 3.2 An öffentliche Verkehrswege angrenzendes Gebiet
 
-### 1. Abschnitt: Mauern, Zäune, Pflanzungen usw.
+### 3.2.1 Mauern, Zäune, Pflanzungen usw.
 
 #### Art. 166
 
-<sup>2</sup> Mauern und Zäune: a) Abstand und Höhe
+**Mauern und Zäune a) Abstand - Höhe**
 
-<sup>1</sup> Die Mauern und Abschrankungen dürfen nur in einem Abstand von mindestens 1,20 m vom Fahrbahnrand der kantonalen Verkehrswege und in einem solchen von 60 cm von den übrigen Verkehrswegen erstellt, wiedererstellt oder erhöht werden.
+<sup>1</sup> Die Mauern und Abschrankungen dürfen nur in einem Abstand von mindestens 1.20 Metern vom Fahrbahnrand der kantonalen Verkehrswege und in einem solchen von 60 Zentimetern von den übrigen Verkehrswegen erstellt, wiedererstellt oder erhöht werden.
 
 <sup>2</sup> Für die Mauern und die Zäune, welche kantonale oder kommunale Verkehrswege innerorts einsäumen, können diese Mindestabstände mittels Gemeindereglementen ausgedehnt werden.
 
-<sup>3</sup> Innerhalb der mit Bauverbot belegten Zone längs der Verkehrswege beträgt die maximale Höhe der Einfriedung 1 m.
+<sup>3</sup> Innerhalb der mit Bauverbot belegten Zone längs der Verkehrswege beträgt die maximale Höhe der Einfriedung 1 Meter.
 
 <sup>4</sup> Diese Höhe bemisst sich jeweils vom Fahrbahn-, Gehsteigrand oder vom Rand der Radpiste aus.
 
 <sup>5</sup> Ausnahmen können durch die zuständige Behörde bewilligt werden.
 
-#### Art. 167 b
+#### Art. 167
 
-**) Unterhalt**
+**b) Unterhalt**
 
 <sup>1</sup> Ist eine Mauer oder Einfriedung längs eines öffentlichen Verkehrsweges in schlechtem Zustand, so kann die Aufsichtsbehörde nach vorausgegangener schriftlicher Mahnung dieselbe auf Kosten des Eigentümers instandstellen oder entfernen lassen.
 
@@ -1614,17 +1638,17 @@ Bei mechanischen Betriebsausfällen, usw. müssen die beschädigten Maschinen od
 
 #### Art. 168
 
-<sup>2</sup> Dorn- und Stacheldrahthäge
+**Dorn- und Stacheldrahthäge**
 
-<sup>1</sup> Das Anpflanzen von Dornhägen längs der öffentlichen Verkehrswege ist innerhalb einer Zone von 2 m jenseits des Strassen-, Gehsteigrandes oder vom Rande des Radstreifens untersagt. Das Ziehen von Stacheldrähten längs der öffentlichen Verkehrswege ist ohne Sondererlaubnis untersagt.
+<sup>1</sup> Das Anpflanzen von Dornhägen längs der öffentlichen Verkehrswege ist innerhalb einer Zone von 2 Metern jenseits des Strassen-, Gehsteigrandes oder vom Rande des Radstreifens untersagt. Das Ziehen von Stacheldrähten längs der öffentlichen Verkehrswege ist ohne Sondererlaubnis untersagt.
 
 <sup>2</sup> Die zuständige Behörde kann strengere Vorschriften erlassen.
 
 #### Art. 169
 
-<sup>2</sup> Lebhäge; Abstand und Höhe
+**Lebhäge - Abstand und Höhe**
 
-<sup>1</sup> Lebhäge dürfen längs der kantonalen Verkehrswege nur in einem Abstand von mindestens 1,50 m erstellt oder wiederhergestellt werden. Für die andern öffentlichen Verkehrswege beträgt die entsprechende Mindestdistanz 90 cm.
+<sup>1</sup> Lebhäge dürfen längs der kantonalen Verkehrswege nur in einem Abstand von mindestens 1.50 Metern erstellt oder wiederhergestellt werden. Für die andern öffentlichen Verkehrswege beträgt die entsprechende Mindestdistanz 90 Zentimeter.
 
 <sup>2</sup> Innerorts können für die Lebhäge längs der kantonalen und kommunalen Verkehrswege diese Distanzen durch die Gemeinde auf dem Reglementswege vergrössert werden.
 
@@ -1632,31 +1656,30 @@ Bei mechanischen Betriebsausfällen, usw. müssen die beschädigten Maschinen od
 
 <sup>4</sup> Im Innern der mit Bauverbot belegten Zone längs der öffentlichen Verkehrswege müssen Lebhäge und Gebüsche jedes Jahr vor dem 1. Mai gestutzt werden, so dass:
 
-- 1\. die Zweige längs vom Strassen-, Gehsteigrand oder Rande der Radpisten abstehen, und
-
-- 2\. ihre Höhe 1,80 m nicht übersteigt, wenn ihr Abstand vom Strassen-, Gehsteigrand oder vom Rande der Radpiste mindestens 2 m beträgt, und 1 m nicht übersteigt bei einem Abstand von weniger als 2 m vom Strassenrand. Diese Höhen bemessen sich vom Niveau des Fahrbahnrandes aus.
+- a) die Zweige längs von kantonalen Verkehrswegen einen Abstand von 1.20 Meter und von anderen öffentlichen Verkehrswegen von 60 Zentimetern vom Fahrbahnrand einhalten, und
+- b) ihre Höhe 1.80 Meter nicht übersteigt, wenn ihr Abstand vom Strassen-, Gehsteigrand oder vom Rande der Radpiste mindestens 2 Meter beträgt, und 1 Meter nicht übersteigt bei einem Abstand von weniger als 2 Metern vom Strassenrand. Diese Höhen bemessen sich vom Niveau des Fahrbahnrandes aus.
 
 #### Art. 170
 
 **Besondere Fälle**
 
-In Kurven, Kreuzungen, und ganz allgemein bei ungenügender Übersicht kann die Behörde die Art der Einfriedung vorschreiben und für die Mauern, Einfriedungen und Lebhäge die vorgenannten Höhen herabsetzen und die Mindestdistanzen vergrössern.
+<sup>1</sup> In Kurven, Kreuzungen, und ganz allgemein bei ungenügender Übersicht kann die Behörde die Art der Einfriedung vorschreiben und für die Mauern, Einfriedungen und Lebhäge die vorgenannten Höhen herabsetzen und die Mindestdistanzen vergrössern.
 
 #### Art. 171
 
-<sup>2</sup> Baumgärten: a) Abstand
+**Baumgärten a) Abstand**
 
-<sup>1</sup> Auf dem an einen öffentlichen Verkehrsweg angrenzenden Gebiet darf in der Ebene kein Fruchtbaum näher als 3 m, längs der Gebirgsstrassen näher als 2 m vom Strassenbord entfernt gepflanzt werden, und kein Waldbaum (Nuss- und Kastanienbäume inbegriffen) näher als 5 m. Für die Spaliere, kurzstämmigen Bäume und Sträucher beträgt die vorgeschriebene Distanz 2 m.
+<sup>1</sup> Auf dem an einen öffentlichen Verkehrsweg angrenzenden Gebiet darf in der Ebene kein Fruchtbaum näher als 3 Meter, längs der Gebirgsstrassen näher als 2 Meter vom Strassenbord entfernt gepflanzt werden, und kein Waldbaum (Nuss- und Kastanienbäume inbegriffen) näher als 5 Meter. Für die Spaliere, kurzstämmigen Bäume und Sträucher beträgt die vorgeschriebene Distanz 2 Meter.
 
 <sup>2</sup> In Kurven, Kreuzungen und im allgemeinen bei ungenügender Übersicht kann die Aufsichtsbehörde grössere Distanzen verlangen und das Fällen der zu nahen Bäume anordnen. In diesem Falle hat der Eigentümer Anrecht auf eine Entschädigung. Kommt keine Einigung zustande, so wird sie auf dem Expropriationswege bestimmt.
 
-<sup>3</sup> Diese Bestimmungen beziehen sich nicht auf Reihenpflanzungen von Bäumen, welche längs der Verkehrswege durch den Staat oder die Gemeinden gepflanzt werden, es sei denn, diese behinderten übermässig die Sicht. Immerhin müssen die näher als 6 m von Wohnhäusern gepflanzten Bäume in einem Abstand von 1 m von der Hausfassade beschnitten werden.
+<sup>3</sup> Diese Bestimmungen beziehen sich nicht auf Reihenpflanzungen von Bäumen, welche längs der Verkehrswege durch den Staat oder die Gemeinden gepflanzt werden, es sei denn, diese behinderten übermässig die Sicht. Immerhin müssen die näher als 6 Meter von Wohnhäusern gepflanzten Bäume in einem Abstand von 1 Metern von der Hausfassade beschnitten werden.
 
-#### Art. 172 b
+#### Art. 172
 
-**) Auslichten der Äste**
+**b) Auslichten der Äste**
 
-<sup>1</sup> Die auf die Verkehrswege herausragenden Äste müssen jedes Jahr vom Eigentümer bis auf 4,50 m oberhalb der Fahrbahn gelichtet werden. Ein vollständiges Stutzen der Äste kann gefordert werden, wenn die Verkehrssicherheit es erfordert.
+<sup>1</sup> Die auf die Verkehrswege herausragenden Äste müssen jedes Jahr vom Eigentümer bis auf 4.50 Meter oberhalb der Fahrbahn gelichtet werden. Ein vollständiges Stutzen der Äste kann gefordert werden, wenn die Verkehrssicherheit es erfordert.
 
 <sup>2</sup> Wenn der Eigentümer nach erfolgter schriftlicher Mahnung das Stutzen nicht vornimmt, wird es auf Veranlassung der Behörde auf seine Kosten durchgeführt.
 
@@ -1664,41 +1687,42 @@ In Kurven, Kreuzungen, und ganz allgemein bei ungenügender Übersicht kann die 
 
 **Wälder**
 
-Die von öffentlichen Verkehrswegen mit Motorfahrzeugverkehr durchquerten oder berührten Wälder müssen auf eine genügende Breite geschlagen werden, um die Verkehrssicherheit zu gewährleisten.
+<sup>1</sup> Die von öffentlichen Verkehrswegen mit Motorfahrzeugverkehr durchquerten oder berührten Wälder müssen auf eine genügende Breite geschlagen werden, um die Verkehrssicherheit zu gewährleisten.
 
-### 2. Abschnitt: Ablagen, Bauplätze, Bauwerke, Gräben
+### 3.2.2 Ablagen, Bauplätze, Bauwerke und Gräben
 
 #### Art. 174
 
 **Schleifen von Holz**
 
-Ohne Bewilligung ist es untersagt:
+<sup>1</sup> Ohne Bewilligung ist es untersagt:
 
 - a) von einem in einen Verkehrsweg einmündenden Hang Holz herunterzurollen oder -rutschen zu lassen;
-
 - b) Holz in der Nähe eines Verkehrsweges zu fällen und zu verarbeiten, wenn diesem oder dem Verkehr daraus eine Gefahr erwächst.
 
 #### Art. 175
 
 **Verschiedene Einrichtungen**
 
-In der Nähe der öffentlichen Verkehrswege dürfen keinerlei Einrichtungen oder Gegenstände angebracht werden, deren Bestimmung, Aussehen, Bewegung, Lärm oder Ausdünstung den Verkehr stören, die Passanten belästigen oder Pferde oder andere Zugtiere erschrecken könnten. Bienenstöcke gehören zu den obenerwähnten Einrichtungen.
+<sup>1</sup> In der Nähe der öffentlichen Verkehrswege dürfen keinerlei Einrichtungen oder Gegenstände angebracht werden, deren Bestimmung, Aussehen, Bewegung, Lärm oder Ausdünstung den Verkehr stören, die Passanten belästigen oder Pferde oder andere Zugtiere erschrecken könnten.
+
+<sup>2</sup> Bienenstöcke gehören zu den obenerwähnten Einrichtungen.
 
 #### Art. 176
 
-Brunnen, Misthöfe, Teiche usw.
+**Brunnen, Misthöfe, Teiche usw.**
 
 <sup>1</sup> Das Anlegen von Misthöfen, Jauche- und Abortgruben, das Schaffen von Tümpeln und Teichen in der mit Bauverbot belegten Zone längs der öffentlichen Verkehrswege sind verboten.
 
 <sup>2</sup> Die bereits vorhandenen Misthöfe und Gruben sind abzudichten und in diesem Zustande zu erhalten. Sie sind so auszubauen, dass sie weder die Verkehrswege noch ihre Benützer beeinträchtigen.
 
-<sup>3</sup> Tümpel und Teiche sind durch einen Schutzzaun von 1,20 m Höhe gegen den Verkehrsweg hin abzuschranken.
+<sup>3</sup> Tümpel und Teiche sind durch einen Schutzzaun von 1.20 Metern Höhe gegen den Verkehrsweg hin abzuschranken.
 
-<sup>4</sup> Längs der befahrbaren öffentlichen Verkehrswege sind das Aufstapeln von Brettern und andere Materialanhäufungen in weniger als 2 m Abstand vom Strassenrand untersagt. Übersteigt ihre Höhe 2 m, so sind sie um ebensoviel zurückzuverlegen.
+<sup>4</sup> Längs der befahrbaren öffentlichen Verkehrswege sind das Aufstapeln von Brettern und andere Materialanhäufungen in weniger als 2 Meter Abstand vom Strassenrand untersagt. Übersteigt ihre Höhe 2 Meter, so sind sie um ebensoviel zurückzuverlegen.
 
 <sup>5</sup> Auf keinen Fall dürfen sie die Sicht auf Kurven und Einmündungen behindern. Die Stapelung ist abrutschsicher zu erstellen.
 
-<sup>6</sup> Unförmige und die Landschaft verunstaltende Anhäufungen von Materialien, besonders von ausser Betrieb stehenden Fahrzeugen, sind innerhalb eines Abstandes von 20 m, jenseits des Verkehrsweges untersagt und dürfen von demselben aus nicht sichtbar sein.
+<sup>6</sup> Unförmige und die Landschaft verunstaltende Anhäufungen von Materialien, besonders von ausser Betrieb stehenden Fahrzeugen, sind innerhalb eines Abstandes von 20 Metern, jenseits des Verkehrsweges untersagt und dürfen von demselben aus nicht sichtbar sein.
 
 #### Art. 177
 
@@ -1714,17 +1738,17 @@ Brunnen, Misthöfe, Teiche usw.
 
 #### Art. 178
 
-<sup>2</sup> Kioske und Warenautomaten
+**Kioske - Warenautomaten**
 
-<sup>1</sup> Unter Vorbehalt von Artikel 2bis müssen Frucht- und andere Verkaufsstände sowie automatische Warenverteiler längs der vielbefahrenen Verkehrswegen in angemessenem Abstand von der Fahrbahn errichtet werden. Sie sind mit einem der Dichte und Schnelligkeit des Verkehrs angepassten Zufahrtsstreifen sowie mit einem ausserhalb des Streifens und des Verkehrsweges befindlichen Parkraum für Fahrzeuge zu versehen.
+<sup>1</sup> Unter Vorbehalt von Artikel 2a müssen Frucht- und andere Verkaufsstände sowie automatische Warenverteiler längs der vielbefahrenen Verkehrswegen in angemessenem Abstand von der Fahrbahn errichtet werden. Sie sind mit einem der Dichte und Schnelligkeit des Verkehrs angepassten Zufahrtsstreifen sowie mit einem ausserhalb des Streifens und des Verkehrsweges befindlichen Parkraum für Fahrzeuge zu versehen.
 
-<sup>2</sup> Artikel 177, Absatz 3 ist sinngemäss anwendbar.
+<sup>2</sup> Artikel 177 Absatz 3 ist sinngemäss anwendbar.
 
 #### Art. 179
 
 **Verkaufsstände**
 
-Die Errichtung von Verkaufsständen am Rand solcher Strassen ohne besondere Anlagen für das Abstellen der Fahrzeuge ist untersagt.
+<sup>1</sup> Die Errichtung von Verkaufsständen am Rand solcher Strassen ohne besondere Anlagen für das Abstellen der Fahrzeuge ist untersagt.
 
 #### Art. 180
 
@@ -1738,17 +1762,17 @@ Die Errichtung von Verkaufsständen am Rand solcher Strassen ohne besondere Anla
 
 #### Art. 181
 
-<sup>2</sup> Terrainveränderungen: a) natürliche
+**Terrainveränderungen a) Natürliche**
 
 <sup>1</sup> Ist der Bestand eines öffentlichen Verkehrsweges oder die Verkehrssicherheit infolge natürlicher Veränderung auf den dem Verkehrsweg benachbarten Grundstücken gefährdet, so ist der Strasseneigentümer verpflichtet, die erforderlichen Sicherheitsmassnahmen zu treffen. In dringenden Fällen können diese Massnahmen ohne weiteres durchgeführt werden.
 
 <sup>2</sup> Wird dabei fremdes Grundeigentum in Anspruch genommen, so ist der Eigentümer nach den Vorschriften des Enteignungsgesetzes zu entschädigen.
 
-#### Art. 182 b
+#### Art. 182
 
-**) durch Drittpersonen verursachte**
+**b) Durch Drittpersonen verursachte**
 
-Es darf an dem den Verkehrsweg benachbarten Grund keine Veränderung vorgenommen werden, die dessen Festigkeit und die Sicherheit des Verkehrs gefährden könnte.
+<sup>1</sup> Es darf an dem den Verkehrsweg benachbarten Grund keine Veränderung vorgenommen werden, die dessen Festigkeit und die Sicherheit des Verkehrs gefährden könnte.
 
 #### Art. 183
 
@@ -1760,21 +1784,21 @@ Es darf an dem den Verkehrsweg benachbarten Grund keine Veränderung vorgenommen
 
 #### Art. 184
 
-Gräben, Aufschüttungen, usw.
+**Gräben, Aufschüttungen usw.**
 
 <sup>1</sup> Es ist untersagt, ohne Bewilligung in Strassennähe Arbeiten auszuführen. Ebenso sind Steinbrüche innerhalb ihrer Schutzzone untersagt.
 
-<sup>2</sup> Keinerlei Aushub bleibenden Charakters (Ausbeutung von Steinbrüchen usw.) darf ohne Bewilligung auf der abfallenden Strassenseite näher als 15 m von ihrem Rande vorgenommen werden.
+<sup>2</sup> Keinerlei Aushub bleibenden Charakters (Ausbeutung von Steinbrüchen usw.) darf ohne Bewilligung auf der abfallenden Strassenseite näher als 15 Meter von ihrem Rande vorgenommen werden.
 
 <sup>3</sup> Nach dem Verkehrsweg hin muss die Böschung des Aushubs an ihrer Basis die doppelte Breite ihrer Höhe haben.
 
-<sup>4</sup> Aushübe im Abstand von weniger als 6 m von der Strassengrenze müssen zum Schutze des Verkehrs und zur Vermeidung von Unfällen während der Arbeiten mit Abschrankungen versehen werden.
+<sup>4</sup> Aushübe im Abstand von weniger als 6 Metern von der Strassengrenze müssen zum Schutze des Verkehrs und zur Vermeidung von Unfällen während der Arbeiten mit Abschrankungen versehen werden.
 
 #### Art. 185
 
 **Unterirdischer Aushub**
 
-Unterirdische Aushubarbeiten innerhalb einer horizontalen Entfernung von 50 m von der Strassengrenze bedürfen einer Bewilligung.
+<sup>1</sup> Unterirdische Aushubarbeiten innerhalb einer horizontalen Entfernung von 50 Metern von der Strassengrenze bedürfen einer Bewilligung.
 
 #### Art. 186
 
@@ -1802,11 +1826,11 @@ Unterirdische Aushubarbeiten innerhalb einer horizontalen Entfernung von 50 m vo
 
 <sup>3</sup> Im Rahmen der vorgenannten Bestimmungen und unter Vorbehalt der Zuständigkeit der Baubewilligungsbehörde sind die Gemeinden frei, eigene Reglemente aufzustellen.
 
-### 3. Abschnitt: Wasserabfluss
+### 3.2.3 Wasserabfluss
 
 #### Art. 189
 
-<sup>2</sup> Abwasser
+**Abwasser**
 
 <sup>1</sup> Es ist untersagt, Abwässer auf die Verkehrswege zu leiten oder über dieselben fliessen zu lassen. Gleichfalls ist es verboten, aus Jauchegruben, Aborten, Küchen, Milchhandlungen, Wäschereien, Schlachthöfen usw. herkommendes Wasser in die Gräben und Rinnen längs der Verkehrswege fliessen zu lassen.
 
@@ -1826,11 +1850,11 @@ Unterirdische Aushubarbeiten innerhalb einer horizontalen Entfernung von 50 m vo
 
 **Zuleitung des Abwassers**
 
-Die Zuleitung von Abwasser, Dach- und Vorplatzwasser in eine Strassenentwässerungsanlage bedarf einer Bewilligung im Sinne von Artikel 139.
+<sup>1</sup> Die Zuleitung von Abwasser, Dach- und Vorplatzwasser in eine Strassenentwässerungsanlage bedarf einer Bewilligung im Sinne von Artikel 139.
 
 #### Art. 192
 
-<sup>2</sup> Druckleitungen und Berieselungsanlagen
+**Druckleitungen - Berieselungsanlagen**
 
 <sup>1</sup> Die Bewässerungskanäle und andere Bewässerungsanlagen längs der Verkehrswege müssen so unterhalten werden, dass sie am Verkehrsweg keinen Schaden verursachen und den Verkehr nicht stören.
 
@@ -1840,7 +1864,7 @@ Die Zuleitung von Abwasser, Dach- und Vorplatzwasser in eine Strassenentwässeru
 
 #### Art. 193
 
-<sup>2</sup> Abwässerkanäle
+**Abwässerkanäle**
 
 <sup>1</sup> Unter Vorbehalt der Gesetzgebung des Bundes über den Gewässerschutz kann der Gemeinderat vorschreiben, dass innerhalb einer bestimmten Zone sämtliches aus Häusern und Grundstücken stammende Abwasser in den öffentlichen Abzugskanal abgeleitet werden muss, und zudem können sie von den Grundeigentümern eine Grundtaxe für den Anschluss an die Kanalisation und eine periodische Benützungsgebühr fordern. Diese Gebühren müssen vom Staatsrat genehmigt werden.
 
@@ -1850,13 +1874,13 @@ Die Zuleitung von Abwasser, Dach- und Vorplatzwasser in eine Strassenentwässeru
 
 **Zugehörigkeit des Rieselwassers**
 
-Das den Verkehrswegen natürlich zufliessende Schneeschmelz- und Regenwasser gehört den Anstössern im Verhältnis zur Breite ihrer Grundstücke. Immerhin dürfen Gräben, Rinnen und andere Abflussvorrichtungen nicht ohne besondere Bewilligung erstellt werden.
+<sup>1</sup> Das den Verkehrswegen natürlich zufliessende Schneeschmelz- und Regenwasser gehört den Anstössern im Verhältnis zur Breite ihrer Grundstücke. Immerhin dürfen Gräben, Rinnen und andere Abflussvorrichtungen nicht ohne besondere Bewilligung erstellt werden.
 
 #### Art. 195
 
 **Abänderung des Wasserabflusses**
 
-Werden die Abflussverhältnisse durch Vorkehren auf dem benachbarten Grundstück verändert, so hat der Eigentümer desselben dafür zu sorgen, dass das Wasser in einer für den Verkehrsweg unschädlichen Weise abfliesst.
+<sup>1</sup> Werden die Abflussverhältnisse durch Vorkehren auf dem benachbarten Grundstück verändert, so hat der Eigentümer desselben dafür zu sorgen, dass das Wasser in einer für den Verkehrsweg unschädlichen Weise abfliesst.
 
 #### Art. 196
 
@@ -1880,27 +1904,24 @@ Werden die Abflussverhältnisse durch Vorkehren auf dem benachbarten Grundstück
 
 #### Art. 198
 
-<sup>2</sup> Künstliche Strassenentwässerung
+**Künstliche Strassenentwässerung**
 
 <sup>1</sup> Der Strasseneigentümer hat das Strassenwasser in Entwässerungsanlagen zu fassen und wegzuleiten, wenn:
 
 - a) auf dem anstossenden Grundeigentum zur Aufnahme des Wassers künstliche Durchleitungsanlagen nötig wären;
-
 - b) anstossende Kulturen durch verschmutztes Wasser stark befahrener Strassen beeinträchtigt würden und die künstliche Entwässerung ohne unverhältnismässigen Aufwand möglich ist.
 
 <sup>2</sup> Für die künstliche Entwässerung gilt:
 
 - a) die Anlagen sind Bestandteile der Strasse und vom Strasseneigentümer zu unterhalten;
-
 - b) die Durchleitung durch Privatland ist gegen volle Entschädigung des verursachten Schadens zu dulden;
-
 - c) der Eigentümer einer allgemeinen Kanalisation ist verpflichtet, gegen Entschädigung das Strassenwasser zu übernehmen, wenn seine Anlage dazu geeignet ist. Der Strasseneigentümer erstellt und unterhält die Strasseneinlaufschächte und Ableitungen bis zur Kanalisation.
 
 <sup>3</sup> Der Strasseneigentümer hat für nennenswerten Schaden aufzukommen, der durch abfliessendes Strassenwasser verursacht wird. Streitigkeiten entscheidet der Enteignungsrichter.
 
 <sup>4</sup> Die Bestimmungen von Artikel 119 bleiben vorbehalten.
 
-### 4. Abschnitt: Bauten
+### 3.2.4 Bauten
 
 #### Art. 199
 
@@ -1912,15 +1933,15 @@ Werden die Abflussverhältnisse durch Vorkehren auf dem benachbarten Grundstück
 
 #### Art. 200
 
-<sup>2,9</sup> Baulinienabstände
+**Baulinienabstände**
 
 <sup>1</sup> Für die Nationalstrassen wird der Baulinienabstand gemäss dem einschlägigen Bundesgesetz und den eidgenössischen und kantonalen Ausführungsbestimmungen bestimmt.
 
-<sup>2</sup> Für die kantonalen Hauptstrassen in der Ebene und die Bergstrassen, die zu dem vom Bund festgelegten Ergänzungsnetz gehören, beträgt der Abstand für zweispurige Strassen grundsätzlich 30 m und grundsätzlich 40 m für drei- oder vierspurig gebaute oder geplante Strassen.
+<sup>2</sup> Für die kantonalen Hauptstrassen in der Ebene und die Bergstrassen, die zu dem vom Bund festgelegten Ergänzungsnetz gehören, sowie für die Hauptstrassen in der Ebene des Kantonsstrassennetzes beträgt der Abstand für zweispurige Strassen grundsätzlich 30 Meter und für drei- oder vierspurig gebaute oder geplante Strassen grundsätzlich 40 Meter.
 
-<sup>3</sup> Für die andern Bergstrassen beträgt der Abstand, im Allgemeinen nicht weniger als 18 m, wenn sie zweispurig sind und 20 m, wenn sie als dreispurige Verkehrswege geplant oder ausgebaut sind.
+<sup>3</sup> Für die andern Bergstrassen beträgt der Abstand, im Allgemeinen nicht weniger als 18 Meter, wenn sie zweispurig sind und 20 Meter, wenn sie als dreispurige Verkehrswege geplant oder ausgebaut sind.
 
-<sup>4</sup> Für die Nebenstrassen in der Ebene gilt grundsätzlich ein Abstand von 16 m und für die Nebenstrassen im Gebirge ein solcher von 12 m.
+<sup>4</sup> Für die Nebenstrassen in der Ebene gilt grundsätzlich ein Abstand von 16 Metern und für die Nebenstrassen im Gebirge ein solcher von 12 Metern.
 
 <sup>5</sup> Für die befahrbaren Gemeindestrassen werden die Baulinien von Fall zu Fall entsprechend der Verkehrsdichte und den örtlichen Verhältnissen bestimmt.
 
@@ -1930,43 +1951,41 @@ Werden die Abflussverhältnisse durch Vorkehren auf dem benachbarten Grundstück
 
 **Ausnahmen**
 
-<sup>1</sup> Ausnahmsweise können die Baulinienabstände längs der kantonalen Verkehrswege vergrössert und eine der Baulinien bis auf höchstens 30 m vom Rand der Fahrbahn festgelegt werden, wenn die örtlichen Verhältnisse es erfordern.
+<sup>1</sup> Ausnahmsweise können die Baulinienabstände längs der kantonalen Verkehrswege vergrössert und eine der Baulinien bis auf höchstens 30 Meter vom Rand der Fahrbahn festgelegt werden, wenn die örtlichen Verhältnisse es erfordern.
 
 <sup>2</sup> Aus wichtigen Gründen und wenn das öffentliche Interesse es erlaubt, kann der Abstand, namentlich in Ortschaften und ihrer unmittelbaren Umgebung, herabgesetzt werden.
 
 #### Art. 202
 
-Von Baulinien nicht bestimmte Abstände:
-
-- a) Kantonale Verkehrswege
+**Von Baulinien nicht bestimmte Abstände a) Kantonale Verkehrswege**
 
 <sup>1</sup> Ist der Abstand durch keine Baulinien bestimmt oder erweisen sich die vor dem Inkrafttreten dieses Gesetzes in einem Plan festgelegten Baulinien als ungenügend, so wird der längs der kantonalen Verkehrswege zu beobachtende Abstand für Bauten und ähnliche Werke in bezug auf die Achse der Fahrbahn bestimmt. Er entspricht grundsätzlich der Hälfte des im Artikel 200 vorgesehenen Baulinienabstandes.
 
-<sup>2</sup> Ausnahmsweise kann dieser Abstand, wenn die örtlichen Verhältnisse es verlangen, bis auf 30 m vom Strassenrand weg vergrössert oder, namentlich in Ortschaften und ihrer näheren Umgebung, gemäss Artikel 212 herabgesetzt werden.
+<sup>2</sup> Ausnahmsweise kann dieser Abstand, wenn die örtlichen Verhältnisse es verlangen, bis auf 30 Meter vom Strassenrand weg vergrössert oder, namentlich in Ortschaften und ihrer näheren Umgebung, gemäss Artikel 212 herabgesetzt werden.
 
-<sup>3</sup> Längs der kantonalen Wege beträgt, sofern keine Baulinie vorgesehen wurde, der Bauabstand vom Wegrand gemessen 2 m.
+<sup>3</sup> Längs der kantonalen Wege beträgt, sofern keine Baulinie vorgesehen wurde, der Bauabstand vom Wegrand gemessen 2 Meter.
 
-#### Art. 203 b
+#### Art. 203
 
-**) Kommunale Verkehrswege**
+**b) Kommunale Verkehrswege**
 
 <sup>1</sup> Für die Gemeindestrassen und -wege wird der Abstand durch kommunale Reglemente bestimmt.
 
-<sup>2</sup> Fehlen reglementarische Vorschriften, so beträgt er für Verkehrswege mit Motorfahrzeugverkehr 2 m vom Fahrbahn- oder Gehsteigrand und 1,50 m für Radwege und -streifen, die sich nicht in der Schutzzone des Verkehrsweges befinden.
+<sup>2</sup> Fehlen reglementarische Vorschriften, so beträgt er für Verkehrswege mit Motorfahrzeugverkehr 2 Metern vom Fahrbahn- oder Gehsteigrand und 1.50 Metern für Radwege und -streifen, die sich nicht in der Schutzzone des Verkehrsweges befinden.
 
 #### Art. 204
 
 **Anordnung der Gebäude**
 
-Die Front der Gebäude soll der Baulinie und beim Fehlen einer solchen, der Fahrbahnachse möglichst parallel verlaufen.
+<sup>1</sup> Die Front der Gebäude soll der Baulinie und beim Fehlen einer solchen, der Fahrbahnachse möglichst parallel verlaufen.
 
 #### Art. 205
 
-<sup>2</sup> Garagen, Reparaturwerkstätten und Karosserien
+**Garagen - Reparaturwerkstätten - Karosserien**
 
-<sup>1</sup> Der Mindestabstand einer Garage, deren Eingang gegen die Strasse führt, beträgt fünf Meter vom Fahrbahn- resp. Gehsteigrand. Längs einer Bergstrasse, wo das Gelände stark fällt, kann diese Distanz auf 4 m reduziert werden. Befindet sich der Garageausgang rechtwinklig zur Strasse und übersteigt seine Tiefe 5 m, so erhöht sich der gesetzliche Abstand entsprechend bis auf 11 m, sofern nicht besondere Verhältnisse eine andere gleichwertige Lösung rechtfertigen.
+<sup>1</sup> Der Mindestabstand einer Garage, deren Eingang gegen die Strasse führt, beträgt fünf Meter vom Fahrbahn- resp. Gehsteigrand. Längs einer Bergstrasse, wo das Gelände stark fällt, kann diese Distanz auf 4 Meter reduziert werden. Befindet sich der Garageausgang rechtwinklig zur Strasse und übersteigt seine Tiefe 5 Meter, so erhöht sich der gesetzliche Abstand entsprechend bis auf 11 Meter, sofern nicht besondere Verhältnisse eine andere gleichwertige Lösung rechtfertigen.
 
-<sup>2</sup> Der Mindestabstand zwischen einer Reparaturwerkstätte (Garage) oder einer Karosserie bis zum Fahrbahn- bzw. Gehsteigrand beträgt längs der kantonalen Strasse Saint-Gingolph - Oberwald 20 m und bei anderen öffentlichen Verkehrswegen 15 m.
+<sup>2</sup> Der Mindestabstand zwischen einer Reparaturwerkstätte (Garage) oder einer Karosserie bis zum Fahrbahn- bzw. Gehsteigrand beträgt längs der kantonalen Strasse Saint-Gingolph - Oberwald 20 Meter und bei anderen öffentlichen Verkehrswegen 15 Meter.
 
 <sup>3</sup> Ist der durch die Baulinie oder gemäss Artikel 202 und 203 bestimmte Abstand grösser, so ist dieser massgebend.
 
@@ -1976,57 +1995,55 @@ Die Front der Gebäude soll der Baulinie und beim Fehlen einer solchen, der Fahr
 
 **Privatstrassen und -wege**
 
-Was die dem allgemeinen Verkehr geöffneten Privatstrassen und -wege anbetrifft, so sind die Abstände zwischen Baulinien oder Bauwerken und Fahrbahnachse bei gleichen Voraussetzungen nach gleichen Normen bestimmt, wie für die anderen öffentlichen Verkehrswege.
+<sup>1</sup> Was die dem allgemeinen Verkehr geöffneten Privatstrassen und -wege anbetrifft, so sind die Abstände zwischen Baulinien oder Bauwerken und Fahrbahnachse bei gleichen Voraussetzungen nach gleichen Normen bestimmt, wie für die anderen öffentlichen Verkehrswege.
 
 #### Art. 207
 
-<sup>2</sup> Benützung der Bauverbotszonen: a) Grundregel
+**Benützung der Bauverbotszonen a) Grundregel**
 
-<sup>1</sup> Wo Strassengrenze und Baulinie zusammenfallen, dürfen keine Gebäudeteile in einer Höhe von weniger als 4,50 m über der Fahrbahn oder 2,50 m über dem Gehweg in das Lichtraumprofil der Fahrbahn oder des Gehweges hineinragen.
+<sup>1</sup> Wo die Fassade eines Gebäudes und Baulinien zusammenfallen, dürfen keine Gebäudeteile in einer Höhe von weniger als 2.50 Meternm über dem Boden in das Lichtraumprofil hineinragen und sie dürfen sich nicht über dem öffentlichen Grund befinden.
 
 <sup>2</sup> Innerhalb der in Absatz 1 genannten Höhen dürfen Türen und Tore sowie Fensterläden nicht in das Lichtraumprofil öffentlicher Strassen aufgehen.
 
 <sup>3</sup> In der Bauverbotszone darf der Untergrund nur für das Verlegen von Leitungen und Kabeln benutzt werden.
 
-#### Art. 208 b
+<sup>4</sup> Vorspringende Gebäudeteile an Baulinien werden als baugesetzkonform anerkannt, wenn die Länge jedes einzelnen Elements nicht mehr als 3 Meter beträgt und die übrigen Vorschriften des Strassengesetzes eingehalten werden.
 
-**) Ausnahmen**
+#### Art. 208
+
+**b) Ausnahmen**
 
 <sup>1</sup> In dem Masse, als das öffentliche Interesse es gestattet, können jedoch innerhalb der Bauverbotszone Baubewilligungen erteilt werden:
 
 - a) für offene Terrassen;
-
 - b) für Stütz- und Futtermauern;
-
 - c) für Stangen und Masten von Leitungen jeder Art;
-
 - d) für Brunnen, Gruben, Zisternen, Behälter;
-
 - e) für leichte Bauten wie Kioske, Gartenhäuschen und dergleichen.
 
 <sup>2</sup> Die Bewilligung zu diesen Einrichtungen und Anlagen wird jedoch lediglich auf Zusehen hin erteilt. Wenn die Verkehrssicherheit es erheischt oder wenn innerhalb der Bauverbotszone Landerwerb zur Strassenverbreiterung oder zur Anlage von Fusswegen notwendig wird, so müssen die erwähnten Bauten und Anlagen auf Kosten des Eigentümers entweder den neuen Verhältnissen angepasst oder entfernt werden.
 
-#### Art. 209 c
+#### Art. 209
 
-**) Gemeindereglement**
+**c) Gemeindereglement**
 
-Die Gemeinden können in bezug auf ihre eigenen Verkehrswege auf dem Reglementswege von den Vorschriften der Artikel 207 und 208 abweichen.
+<sup>1</sup> Die Gemeinden können in bezug auf ihre eigenen Verkehrswege auf dem Reglementswege von den Vorschriften der Artikel 207 und 208 abweichen.
 
 #### Art. 210
 
-**Baubewilligung: a) Kompetenz des Departementes**
+**Baubewilligung a) Kompetenz des Departementes**
 
-<sup>1</sup> Keine Baute oder Anlage irgendwelcher Art kann ohne Bewilligung des zuständigen Departementes näher als 30 m von einer kantonalen Strasse oder einer seiner Aufsicht unterstellten Privatstrasse (Art. 229, Abs. 1) und näher als 15 m vom Rand eines kantonalen Weges erstellt, wiedererstellt, abgeändert oder erneuert werden. Dasselbe gilt für die Inangriffnahme der unter Artikel 50, Absatz 3 genannten Arbeiten.
+<sup>1</sup> Keine Baute oder Anlage irgendwelcher Art kann ohne Bewilligung des zuständigen Departementes näher als 30 Meter von einer kantonalen Strasse oder einer seiner Aufsicht unterstellten Privatstrasse (Art. 229 Abs. 1) und näher als 15 Meter vom Rand eines kantonalen Weges erstellt, wiedererstellt, abgeändert oder erneuert werden. Dasselbe gilt für die Inangriffnahme der unter Artikel 50 Absatz 3 genannten Arbeiten.
 
 <sup>2</sup> Vorbehalten bleiben alle übrigen gesetzlich verlangten Bewilligungen.
 
 <sup>3</sup> Der Staatsrat bestimmt auf dem Reglementswege das zu befolgende Verfahren und die gemäss diesem Gesetz für die Erteilung von Bewilligungen durch das zuständige Departement zu hinterlegenden Dokumente.
 
-#### Art. 211 b
+#### Art. 211
 
-**) Kompetenzen der Gemeinden**
+**b) Kompetenzen der Gemeinden**
 
-Unter Vorbehalt der vom Gesetz anderen Organen eingeräumten Kompetenzen wird in der Schutzzone der kommunalen Verkehrswege sowie der seiner Aufsicht unterstellten Privatstrassen die Baupolizei vom Gemeinderat ausgeübt (Art. 229, Abs. 2).
+<sup>1</sup> Unter Vorbehalt der vom Gesetz anderen Organen eingeräumten Kompetenzen wird in der Schutzzone der kommunalen Verkehrswege sowie der seiner Aufsicht unterstellten Privatstrassen die Baupolizei vom Gemeinderat ausgeübt (Art. 229 Abs. 2).
 
 #### Art. 212
 
@@ -2040,13 +2057,13 @@ Unter Vorbehalt der vom Gesetz anderen Organen eingeräumten Kompetenzen wird in
 
 <sup>4</sup> Für leichte Bauten und Anlagen sind Ausnahmebewilligungen ohne weiteres widerruflich.
 
-### 5. Abschnitt: Private Zufahrten
+### 3.2.5 Private Zufahrten
 
 #### Art. 213
 
 **Bewilligung**
 
-Die Erstellung neuer und die wesentliche Veränderung bestehender Zufahrten zu einem öffentlichen Verkehrsweg bedürfen einer Bewilligung.
+<sup>1</sup> Die Erstellung neuer und die wesentliche Veränderung bestehender Zufahrten zu einem öffentlichen Verkehrsweg bedürfen einer Bewilligung.
 
 #### Art. 214
 
@@ -2054,13 +2071,13 @@ Die Erstellung neuer und die wesentliche Veränderung bestehender Zufahrten zu e
 
 <sup>1</sup> Die Zufahrten sind gemäss den technischen Anforderungen und nach den Weisungen der Aufsichtsbehörde so anzulegen, dass durch ihre Lage und ihre Benützung der Verkehr auf dem öffentlichen Verkehrsweg weder gefährdet noch wesentlich behindert wird. Sie sollen gut unterbaut und wenn nötig mit einem Belag versehen sein.
 
-<sup>2</sup> In der Regel dürfen Garageausfahrten auf öffentliche Verkehrswege ein Gefälle von höchstens 15 Prozent aufweisen. Ihr Anschluss an den Strassenrand muss auf mindestens 3 m und jener an den Gehsteigrand auf mindestens 1 m horizontal verlaufen. Sofern es die Verkehrssicherheit verlangt, muss die horizontale Strecke noch länger sein. Die Sicht ist in der Regel nach beiden Seiten bis auf eine Entfernung von 3 m von der Fahrbahn unter einem Winkel von 45 Grad freizuhalten.
+<sup>2</sup> In der Regel dürfen Garageausfahrten auf öffentliche Verkehrswege ein Gefälle von höchstens 15 Prozent aufweisen. Ihr Anschluss an den Strassenrand muss auf mindestens 3 Meter und jener an den Gehsteigrand auf mindestens 1 Meter horizontal verlaufen. Sofern es die Verkehrssicherheit verlangt, muss die horizontale Strecke noch länger sein. Die Sicht ist in der Regel nach beiden Seiten bis auf eine Entfernung von 3 Metern von der Fahrbahn unter einem Winkel von 45 Grad freizuhalten.
 
 <sup>3</sup> An Verkehrswegen mit allgemeinem Durchgangsverkehr kann die Aufsichtsbehörde zur Gewährleistung eines sicheren und flüssigen Verkehrs alle erforderlichen Massnahmen hinsichtlich Ort, Art und Ausbau der Zufahrt anordnen.
 
 <sup>4</sup> Die Kosten für die Erstellung neuer Zufahrten, jener inbegriffen, die durch Neuanpassung an die ausgebaute Strasse, Tieferlegung oder Verstärkung des Gehsteigs oder der Bankette verursacht werden, gehen zu Lasten der Nutzniesser der Anschlüsse.
 
-### 6. Abschnitt: Abstellplätze auf privatem Boden, Kinderspielplätze
+### 3.2.6 Abstellplätze auf privatem Boden - Kinderspielplätze
 
 #### Art. 215
 
@@ -2070,15 +2087,15 @@ Die Erstellung neuer und die wesentliche Veränderung bestehender Zufahrten zu e
 
 <sup>2</sup> Diese Plätze und Zufahrten sollen so bemessen sein, dass der voraussichtliche Zubringerdienst den Verkehr auf dem öffentlichen Verkehrsweg nicht stört.
 
-#### Art. 216 b
+#### Art. 216
 
-**) Bestehende Bauten und Anlagen**
+**b) Bestehende Bauten - Anlagen**
 
-Der Eigentümer eines bestehenden Gebäudes oder einer bestehenden Anlage kann entsprechend den örtlichen Verhältnissen und den erwachsenden Kosten zur Schaffung der nötigen Abstellplätze und Zufahrten für Motorfahrzeuge der Benützer und Besucher der Anlage verpflichtet werden.
+<sup>1</sup> Der Eigentümer eines bestehenden Gebäudes oder einer bestehenden Anlage kann entsprechend den örtlichen Verhältnissen und den erwachsenden Kosten zur Schaffung der nötigen Abstellplätze und Zufahrten für Motorfahrzeuge der Benützer und Besucher der Anlage verpflichtet werden.
 
-#### Art. 217 c
+#### Art. 217
 
-**) Ausnahmen**
+**c) Ausnahmen**
 
 <sup>1</sup> Ausnahmen können aus triftigen Gründen bewilligt werden, namentlich wenn die Erstellung eines den gesetzlichen Vorschriften entsprechenden Abstellplatzes oder einer Zufahrt materiell unmöglich ist oder für den Eigentümer übermässige Kosten zur Folge hätte, ohne dass man billigerweise von ihm verlangen könnte, sein Grundstück entgegen seinem Wunsch zu Zwecken zu benützen, die einen weniger bedeutenden Abstellplatz benötigen würden.
 
@@ -2086,13 +2103,13 @@ Der Eigentümer eines bestehenden Gebäudes oder einer bestehenden Anlage kann e
 
 #### Art. 218
 
-**Ausmasse, Lage, Ausbau**
+**Ausmasse - Lage - Ausbau**
 
-Die Strassenaufsichtsbehörde bestimmt nach Massgabe der Verkehrsbedürfnisse und der einschlägigen Vorschriften Lage, Grösse und Ausgestaltung der Abstellplätze und Zufahrten.
+<sup>1</sup> Die Strassenaufsichtsbehörde bestimmt nach Massgabe der Verkehrsbedürfnisse und der einschlägigen Vorschriften Lage, Grösse und Ausgestaltung der Abstellplätze und Zufahrten.
 
 #### Art. 219
 
-<sup>2</sup> Hilfslösungen a) Abstellplätze auf fremdem Grundstück
+**Hilfslösungen a) Abstellplätze auf fremdem Grundstück**
 
 <sup>1</sup> Der Eigentümer kann seiner Pflicht, Abstell- und Wendeplätze auf Privatboden zu erstellen auch genügen, indem er sie auf fremden Grundstücken errichten lässt oder sich an der Schaffung gemeinsamer Abstellflächen beteiligt, dies jedoch unter der Bedingung, dass sie nicht zu weit von seinem Grundstück entfernt sind und die Berechtigten sie zu jeder Zeit benützen können.
 
@@ -2100,7 +2117,7 @@ Die Strassenaufsichtsbehörde bestimmt nach Massgabe der Verkehrsbedürfnisse un
 
 #### Art. 220
 
-<sup>2</sup> b) Beteiligung an der Schaffung gemeinsamer Abstellplätze
+**b) Beteiligung an der Schaffung gemeinsamer Abstellplätze**
 
 <sup>1</sup> Der Eigentümer, welcher der in Artikeln 215 und 216 vorgesehenen Pflicht enthoben ist, kann, wenn der Zeitpunkt gekommen ist, nach Massgabe dieser Verpflichtung zu einer Beitragsleistung eines gemeinsamen Abstellplatzes aufgerufen werden, dies unter der Bedingung, dass letzterer nicht zu weit von seinem Gebäude oder seiner Anlage entfernt ist.
 
@@ -2108,41 +2125,35 @@ Die Strassenaufsichtsbehörde bestimmt nach Massgabe der Verkehrsbedürfnisse un
 
 <sup>3</sup> Wird innert zehn Jahren seit dem Beitragsaufruf dieser Abstellplatz nicht erstellt, so ist dem Beitragspflichtigen der hierfür bezahlte Betrag inkl. Zins zurückzuerstatten.
 
-#### Art. 221 c
+#### Art. 221
 
-**) Beiträgeaufruf**
+**c) Beiträgeaufruf**
 
 <sup>1</sup> Eigentümer von Gebäuden und Anlagen, die nicht aufgrund der Artikel 215 und 216 zur Anlegung von Abstellplätzen und Zufahrten herangezogen werden können und zur Schaffung eines gemeinsamen Abstellplatzes gemäss Artikel 220 verpflichtet sind, können nach Massgabe des ihnen daraus erwachsenden Vorteils zu Beiträgen für die Schaffung öffentlicher Parkplätze oder öffentlicher Garagen in ihrem Quartier aufgerufen werden.
 
-<sup>2</sup> Die Artikel 70 und ff. und insbesondere Artikel 76, Absatz 2, Buchstabe b sind anwendbar.
+<sup>2</sup> Die Artikel 70 und folgende und insbesondere Artikel 76 Absatz 2 Buchstabe b sind anwendbar.
 
-#### Art. 221bis
+#### Art. 221a
 
-<sup>2</sup> d) Ersatzabgabe
+**d) Ersatzabgabe**
 
 <sup>1</sup> Die Gemeinden können auf dem Reglementswege bestimmen, dass die Bauherrschaft, die ausreichende Parkplätze nicht bereitstellen kann, der Gemeinde eine angemessene, zweckgebundene Ersatzabgabe zu leisten hat.
 
 <sup>2</sup> Die Höhe der Abgabe richtet sich:
 
 - a) nach den durchschnittlichen Kosten privater Plätze im entsprechenden Gebiet;
-
 - b) danach, ob die privaten Plätze offen oder gedeckt angelegt werden könnten oder müssten;
-
 - c) nach den Wertverlusten, die für das pflichtige Grundstück ohne angemessene Abstellmöglichkeiten entstehen;
-
 - d) nach der Lage des pflichtigen Grundstückes zu einer bestehenden oder vorgesehenen öffentlichen Anlage und deren Art;
-
 - e) nach den mutmasslichen Einnahmen des Gemeinwesens.
 
 #### Art. 222
 
-<sup>2</sup> Gewährleistung für die Erhaltung der Zweckbestimmung der
-
-Parkräume
+**Gewährleistung für die Erhaltung der Zweckbestimmung der Parkräume**
 
 <sup>1</sup> Die in Anwendung der Artikel 215, 216 und 219 auf Privatgrundstücken eingerichteten Abstell- und Wendeplätze müssen, solange ein Bedarf besteht, ihrer Zweckbestimmung erhalten bleiben.
 
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
 #### Art. 223
 
@@ -2162,39 +2173,33 @@ Parkräume
 
 <sup>2</sup> Die vorstehenden Bestimmungen betreffend die Abstell- und Wendeplätze für Motorfahrzeuge sind sinngemäss anwendbar.
 
-### 3. Kapitel: Landerwerb und Entschädigung
+### 3.3 Landerwerb und Entschädigung
 
 #### Art. 225
 
-<sup>2</sup> Eigentumswettbewerb
+**Eigentumswettbewerb**
 
-Das für den Bau und den Unterhalt der öffentlichen Verkehrswege erforderliche Grundeigentum und die übrigen Rechte werden, sofern ein freihändiger Erwerb nicht möglich ist, im Enteignungsverfahren oder im Landumlegungsverfahren nach Massgabe von Artikel 58 erworben.
+<sup>1</sup> Das für den Bau und den Unterhalt der öffentlichen Verkehrswege erforderliche Grundeigentum und die übrigen Rechte werden, sofern ein freihändiger Erwerb nicht möglich ist, im Enteignungsverfahren oder im Landumlegungsverfahren nach Massgabe von Artikel 58 erworben.
 
 #### Art. 226
 
-<sup>2,6</sup>
-
-Aufgehoben
+**…**
 
 #### Art. 227
 
-<sup>2,6</sup>
+**…**
 
-Aufgehoben
+#### Art. 227a
 
-#### Art. 227bis
+**…**
 
-<sup>2,6</sup>
+## 4 Zuständige Behörden - Widerhandlungen
 
-Aufgehoben
-
-### 4. Titel: Zuständige Behörden - Widerhandlungen
-
-### 1. Kapitel Zuständige Behörde
+### 4.1 Zuständige Behörde
 
 #### Art. 228
 
-<sup>2</sup> Oberaufsicht
+**Oberaufsicht**
 
 <sup>1</sup> Die öffentlichen Verkehrswege sind unter Vorbehalt der Zuständigkeit des Bundes der Oberaufsicht des Staatsrates unterstellt.
 
@@ -2210,7 +2215,7 @@ Aufgehoben
 
 #### Art. 230
 
-<sup>2</sup> Aufgaben der Behörden
+**Aufgaben der Behörden**
 
 <sup>1</sup> Die für den Neubau, den Ausbau, die Korrektion, den Unterhalt und die Aufsicht der öffentlichen Verkehrswege zuständigen Behörden sorgen dafür, dass dieselben so gebaut, unterhalten und benützt werden, dass dem Verkehrsweg und dem Verkehr keine Gefahren erwachsen.
 
@@ -2220,27 +2225,27 @@ Aufgehoben
 
 <sup>4</sup> Die seitens der Gemeinden im Widerspruch zum vorliegenden Gesetz erteilten Bewilligungen können vom Staatsrat auf Ersuchen des zuständigen Departementes sowie auf Beschwerde jedes Betroffenen aufgehoben werden.
 
-#### Art. 230bis
+#### Art. 230a
 
-<sup>10,12</sup> Verfahrenskoordination
+**Verfahrenskoordination**
 
-<sup>1</sup> Wenn ein Projekt mehrere Bewilligungen von unterschiedlichen Behörden erfordert, werden die einzelnen Entscheide zu einem Gesamtentscheid zusammengefasst, der von der für das massgebliche Verfahren zuständigen Behörde gefällt wird und gegen den es nur einen Rechtsmittelweg gibt.<sup>14</sup>
+<sup>1</sup> Wenn ein Projekt mehrere Bewilligungen von unterschiedlichen Behörden erfordert, werden die einzelnen Entscheide zu einem Gesamtentscheid zusammengefasst, der von der für das massgebliche Verfahren zuständigen Behörde gefällt wird und gegen den es nur einen Rechtsmittelweg gibt.
 
 <sup>2</sup> Falls bei Widersprüchen keine Einigung erzielt werden kann, fällt die für das massgebliche Verfahren zuständige Behörde einen Entscheid.
 
-<sup>3</sup> Die Entscheide werden separat, jedoch gleichzeitig eröffnet, wenn diese Kompetenzattraktion nicht realisierbar ist, namentlich wenn das massgebliche Verfahren auf Gemeindeebene entschieden wird.<sup>14</sup>
+<sup>3</sup> Die Entscheide werden separat, jedoch gleichzeitig eröffnet, wenn diese Kompetenzattraktion nicht realisierbar ist, namentlich wenn das massgebliche Verfahren auf Gemeindeebene entschieden wird.
 
 #### Art. 231
 
-<sup>2</sup> Strassenbaupolizei
+**Strassenbaupolizei**
 
-Die vereidigten Kantons- und Gemeindepolizisten und die Strassenwärter haben auf dem Dienstwege bei Verstössen gegen das vorliegende Gesetz Strafanzeige zu erstatten.
+<sup>1</sup> Die vereidigten Kantons- und Gemeindepolizisten und die Strassenwärter haben auf dem Dienstwege bei Verstössen gegen das vorliegende Gesetz Strafanzeige zu erstatten.
 
 #### Art. 232
 
-<sup>2</sup> Verkehrspolizei und Signalisation
+**Verkehrspolizei - Signalisation**
 
-<sup>1</sup> Der Verkehr und die Strassensignalisation werden durch das Bundesrecht und das Einführungsgesetz vom 30. September 1987 betreffend die Bundesgesetzgebung über den Strassenverkehr und die dazugehörigen Ausführungsvorschriften geregelt.
+<sup>1</sup> Der Verkehr und die Strassensignalisation werden durch das Bundesrecht und das Einführungsgesetz betreffend die Bundesgesetzgebung über den Strassenverkehr vom 30. September 1987 und die dazugehörigen Ausführungsvorschriften geregelt.
 
 <sup>2</sup> Die Anzeige und die Ahndung von Übertretungen und Vergehen obliegt den in der vorgenannten Gesetzgebung bezeichneten Organen.
 
@@ -2252,13 +2257,13 @@ Die vereidigten Kantons- und Gemeindepolizisten und die Strassenwärter haben au
 
 #### Art. 233
 
-<sup>2</sup> Beschwerden
+**Beschwerden**
 
 <sup>1</sup> Jeder betroffene Private und jede betroffene Gemeinschaft können nach Massgabe des vorliegenden Gesetzes gegen Verfügungen der Gemeinden oder des zuständigen Departementes an den Staatsrat rekurrieren.
 
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
-### 2. Kapitel Widerhandlungen
+### 4.2 Widerhandlungen
 
 #### Art. 234
 
@@ -2274,9 +2279,9 @@ Die vereidigten Kantons- und Gemeindepolizisten und die Strassenwärter haben au
 
 #### Art. 235
 
-<sup>2</sup> Strafbestimmungen
+**Strafbestimmungen**
 
-<sup>1</sup> Widerhandlungen gegen das vorliegende Gesetz, gegen die sich hierauf beziehenden Ausführungsbestimmungen und Gemeindereglemente sowie Übertretungen gegen erteilte Bewilligungen und getroffene Verfügungen werden kraft vorliegenden Gesetzes mit Bussen bis zu 100 000 Franken und, in schweren Fällen oder bei Rückfall, mit Haft bestraft.
+<sup>1</sup> Widerhandlungen gegen das vorliegende Gesetz, gegen die sich hierauf beziehenden Ausführungsbestimmungen und Gemeindereglemente sowie Übertretungen gegen erteilte Bewilligungen und getroffene Verfügungen werden kraft vorliegenden Gesetzes mit Bussen bis zu 100'000 Franken und, in schweren Fällen oder bei Rückfall, mit Haft bestraft.
 
 <sup>2</sup> Strafbar sind auch Bauherren, Unternehmer, Bauleiter und Vorgesetzte, welche die Widerhandlung durch den Täter veranlasst oder geduldet haben.
 
@@ -2290,7 +2295,7 @@ Die vereidigten Kantons- und Gemeindepolizisten und die Strassenwärter haben au
 
 #### Art. 236
 
-<sup>2</sup> Ahndungsorgane
+**Ahndungsorgane**
 
 <sup>1</sup> Die im Artikel 229 bezeichnete Aufsichtsbehörde ist zur Verhängung von Sanktionen zuständig, sofern diese nicht in den Kompetenzbereich des Strafrichters fallen.
 
@@ -2300,7 +2305,7 @@ Die vereidigten Kantons- und Gemeindepolizisten und die Strassenwärter haben au
 
 #### Art. 237
 
-<sup>2</sup> Verjährung
+**Verjährung**
 
 <sup>1</sup> Widerhandlungen und Strafen verjähren in drei Jahren seit Erkennbarkeit.
 
@@ -2308,83 +2313,63 @@ Die vereidigten Kantons- und Gemeindepolizisten und die Strassenwärter haben au
 
 #### Art. 238
 
-<sup>2</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 239
 
-<sup>2</sup> Schäden
+**Schäden**
 
 <sup>1</sup> Die Schäden werden, wenn nötig nach Durchführung einer Expertise durch die für die Beurteilung der Übertretung zuständige Behörde festgestellt.
 
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
 #### Art. 240
 
-<sup>2</sup> Verfahren
+**Verfahren**
 
 <sup>1</sup> Die Anzeigen werden im Doppel der zuständigen Aufsichtsbehörde überwiesen.
 
-<sup>2</sup> Sie führt die Untersuchung durch, verhört die von ihr zuvor vereidigten Zeugen und setzt, wenn nötig nach Anordnung einer Expertise, die Höhe der Schäden fest. Die Zeugen werden nach Massgabe des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar) entschädigt.8
+<sup>2</sup> Sie führt die Untersuchung durch, verhört die von ihr zuvor vereidigten Zeugen und setzt, wenn nötig nach Anordnung einer Expertise, die Höhe der Schäden fest. Die Zeugen werden nach Massgabe des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar) entschädigt.
 
 <sup>3</sup> Der Entscheid wird den Betroffenen mit eingeschriebenem Brief eröffnet.
 
 <sup>4</sup> Die Kosten der durch den Staatsrat, den Gemeinderat oder das zuständige Departement gefällten Entscheide werden gemäss dem vorgenannten Dekret festgesetzt.
 
-<sup>5</sup> Aufgehoben.
+<sup>5</sup> …
 
 #### Art. 241
 
-**-243 <sup>2</sup>**
+**…**
 
-Aufgehoben.
+#### Art. 242
 
-### 5. Titel: Übergangs- und Schlussbestimmungen
+**…**
+
+#### Art. 243
+
+**…**
+
+## 5 Übergangs- und Schlussbestimmungen
 
 #### Art. 244
 
-<sup>2</sup> Ingenieur- und Technikerberufe
+**Ingenieur- und Technikerberufe**
 
-Bis zur Reglementierung der Berufe der Ingenieure und Architekten sind die Aufträge zur Erstellung der Strassenprojekte und Bebauungspläne nur diplomierten Architekten und Architekten HTL, Geometern, diplomierten Ingenieuren und Ingenieur-Technikern HTL zu erteilen, die im Besitze eines schweizerischen oder eines gleichwertigen ausländischen Diploms sind.
+<sup>1</sup> Bis zur Reglementierung der Berufe der Ingenieure und Architekten sind die Aufträge zur Erstellung der Strassenprojekte und Bebauungspläne nur diplomierten Architekten und Architekten HTL, Geometern, diplomierten Ingenieuren und Ingenieur-Technikern HTL zu erteilen, die im Besitze eines schweizerischen oder eines gleichwertigen ausländischen Diploms sind.
 
 #### Art. 245
 
-<sup>2</sup> Aufhebung und Änderung bisherigen Rechts
+**Aufhebung - Änderung bisherigen Rechts**
 
-Alle gesetzlichen Bestimmungen, die im Widerspruch zu diesem Gesetz stehen, werden aufgehoben, namentlich:
+<sup>1</sup> Alle gesetzlichen Bestimmungen, die im Widerspruch zu diesem Gesetz stehen, werden aufgehoben, namentlich:
 
-- a) Artikel 5 des Gesetzes vom 1. Dezember 1887 betreffend Expropriation zum Zwecke öffentlichen Nutzens, der neu wie folgt lautet:
-
-<sup>1</sup> «Wird für ein Werk öffentlichen Nutzens das Enteignungsrecht verlangt, so ist beim Staatsrat ein begründetes Gesuch einzureichen, der das zuständige Instruktionsorgan bezeichnet.
-
-<sup>2</sup> Dem Enteignungsgesuch sind beizulegen:
-
-- a) ein Erläuterungsbericht über Art, Zweck und Nutzung des geplanten Werkes;
-
-- b) die Pläne, aus denen Umfang und Lage des Werkes ersichtlich sind;
-
-- c) der Landerwerbsplan, aus dem hervorgeht, welche Grundstücke vom Enteigner beansprucht werden;
-
-- d) die Liste der Grundeigentümer, der Dienstbarkeitsberechtigten und der Inhaber von vorgemerkten persönlichen Rechten, soweit diese aus dem Grundbuch ersichtlich sind;
-
-- e) eine summarische Kostenschätzung des Werkes und der Ent- scheid bezüglich des Werkes und seine Finanzierung.
-
-<sup>3</sup> Das Instruktionsorgan kann die Absteckung, Profile, Modelle, usw. verlangen, welche den Umfang des Enteignungsrechtes näher bezeichnen.
-
-<sup>4</sup> Nach Abschluss der öffentlichen Vernehmlassung entscheidet der Staatsrat über das Enteignungsgesuch und über die Einsprachen. Er entscheidet zugleich über den Umfang des Enteignungsrechtes.
-
-<sup>5</sup> Der Enteignungsbeschluss des Staatsrates ist auch notwendig für öffentliche Werke des Kantons und der Gemeinden, die Gegenstand eines grossrätlichen Beschlusses bilden.
-
-<sup>6</sup> Der Enteignungsbeschluss des Staatsrates kann innert 30 Tagen seit der Eröffnung mit Verwaltungsgerichtsbeschwerde ans Kantonsgericht weitergezogen werden.» b) Artikel 29 des Gesetzes vom 24. Juni 1980 über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle wird wie folgt abgeändert:
-
-<sup>1</sup> «Soweit Ausgaben ohne gesetzliche Grundlage gemäss Artikel 3 dieses Gesetzes nicht der Volksabstimmung unterliegen, werden sie vom Grossen Rat beschlossen und mit dem Voranschlag genehmigt.
-
-<sup>2</sup> Die aufgrund von Gesetzesbestimmungen an den Staatsrat delegierte Ausgabenkompetenz für einen Objektkredit wird einheitlich auf einen Betrag von einer Million Franken festgelegt. Der Grosse Rat kann diesen Betrag abändern. Anderslautende Gesetzesbestimmungen sind aufgehoben.» c) Artikel 53, Absatz 2, Litera c des vorgenannten Gesetzes wird aufgehoben.
+- a) Artikel 5 des Gesetzes betreffend Expropriation zum Zwecke öffentlichen Nutzens vom 1. Dezember 188 wird geändert;
+- b) Artikel 29 des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 wird abgeändert;
+- c) Artikel 53 Absatz 2 Buchstabe c des vorgenannten Gesetzes wird aufgehoben.
 
 #### Art. 246
 
-<sup>2</sup> Vollziehende Behörde
+**Vollziehende Behörde**
 
 <sup>1</sup> Der Staatsrat ist mit dem Vollzug des vorliegenden Gesetzes beauftragt. Er erlässt zu diesem Zweck die notwendigen Verordnungen und Reglemente.
 
@@ -2392,7 +2377,7 @@ Alle gesetzlichen Bestimmungen, die im Widerspruch zu diesem Gesetz stehen, werd
 
 #### Art. 247
 
-<sup>2,3</sup> Übergangsbestimmungen
+**Übergangsbestimmungen**
 
 <sup>1</sup> Die beim Inkrafttreten der Gesetzesrevision vom 2. Oktober 1991 bereits geplanten Verkehrswege können nach bisherigem Recht ausgeführt werden, wenn dafür ein rechtskräftiger Strassenplan besteht.
 
@@ -2404,60 +2389,4 @@ Alle gesetzlichen Bestimmungen, die im Widerspruch zu diesem Gesetz stehen, werd
 
 <sup>5</sup> Auf Entschädigungsforderungen, die sich aus materieller Enteignung ergeben, findet die Gesetzesrevision Anwendung, auch wenn der Eintritt der die Enteignung begründenden Eigentumsbeschränkung vor ihrem Inkrafttreten erfolgt.
 
-So angenommen in zweiter Lesung in der Sitzung vom 3. September 1965.
-
-Der Präsident des Grossen Rates: A. Copt Die Schriftführer: H. Parchet, Dr. W. Perrig
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-GS/VS 1965, 231 31.12.1965
-
-**1.01.1989**
-
-<sup>1</sup> Fassung gemäss GS/VS 1988, 89 Grundeigentümerbeitragsdekret vom 15.11.1988
-
-**1.01.1993 1.01.1999 1.06.1999**
-
-<sup>2</sup> Änderung vom 2.10.1991 GS/VS 1992, 43
-
-<sup>3</sup> Änderung vom 11.02.1998 GS/VS 1998, 17
-
-<sup>4</sup> Fassung gemäss Gesetz über den öffentlichen GS/VS 1999, 6 Verkehr vom 28.09.1998
-
-**1.05.2006 1.01.2009 1.01.2010 1.01.2011 1.01.2011**
-
-<sup>5</sup> Änderung vom 6.12.2002 GS/VS 2006, 22
-
-<sup>6</sup> Änderung vom 8.05.2008 GS/VS 2007, 46
-
-<sup>7</sup> Änderung vom 12.11.2009 Abl. Nr. 1/2010
-
-<sup>8</sup> Änderung vom 11.02.2009 Abl. Nr. 13/2009
-
-<sup>9</sup> Änderung vom 16.06.2010 Abl. Nr. 28/2010
-
-<sup>10</sup> Änderung vom 18.11.2011 Abl. Nr. 48/2010 26.04.2011
-
-**1.01.2012**
-
-<sup>11</sup> Fassung gemäss Ziff. II/14 des Gesetzes über Abl. Nr. 38/2011 die zweite Etappe der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 15.09.2011
-
-**52/2011**
-
-**1.01.2012**
-
-<sup>12</sup> Fassung gemäss Ziff. II Abs. 2 Bst. a der Abl. Nr. 38/2011 Änderung des Gesetzes über den Natur- und Heimatschutz vom 14.09.2011
-
-**52/2011**
-
-**1.01.2012**
-
-<sup>13</sup> Fassung gemäss Art. 19 Abs. 2 des Gesetzes Abl. Nr. 38/2011 über die Wege des Freizeitverkehrs (GWFV) vom 14.09.20
-
-**52/2011**
-
-**01.01.14**
-
-<sup>14</sup> Änderung vom 16. Mai 2013 (Kantonales Abl. Nr. 36/2013, Gewässerschutzgesetz vom 16. Mai 2013, Art. Abl. Nr. 52/2013
-
-51 Bst. c)
+CSW RO/AGS 1965, f 219, 233 | d 216, 231
