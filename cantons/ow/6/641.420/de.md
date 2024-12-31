@@ -3,33 +3,33 @@ canton: OW
 number: "641.420"
 title: Ausführungsbestimmungen über die Steuerveranlagung
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-14
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-12
 adopted: 2012-11-20
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.420"
-pdf: "http://gdb.ow.ch/api/de/versions/1832/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1898/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Steuerveranlagung
 
-vom 20.11.2012 (Stand 01.01.2024)
+vom 20.11.2012 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
-gestützt auf Artikel 165 Absatz 2 des Steuergesetzes (StG) vom 30. Oktober 1994[^ingress-1] und Artikel 37 der Vollziehungsverordnung zum Steuergesetz (VV zum StG) vom 18. November 1994[^ingress-2],
+gestützt auf Artikel 165 Absatz 2 des Steuergesetzes (StG) vom 30. Oktober 1994[^ingress-1] und Artikel 37 der Vollziehungsverordnung zum Steuergesetz (StV) vom 18. November 1994[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
 [^ingress-2]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
 
-## 1. Steuerperiode 2023
+## 1. Steuerperiode 2024
 
-### 1.1. Steuererklärung 2023
+### 1.1. Steuererklärung 2024
 
 #### Art. 1
 
@@ -43,7 +43,7 @@ beschliesst:
 
 **Zustellung**
 
-<sup>1</sup> Die kantonale Steuerverwaltung hat den steuerpflichtigen natürlichen Personen bis Ende Februar 2024 eine Mitteilung zuzustellen, dass die Steuererklärung 2023 einzureichen ist. Wer die Mitteilung bis Ende Februar 2024 nicht erhält, ist trotzdem verpflichtet, die Steuererklärung fristgerecht bei der kantonalen Steuerverwaltung einzureichen.
+<sup>1</sup> Die Steuerverwaltung hat den steuerpflichtigen natürlichen Personen bis Ende Februar 2025 eine Mitteilung zuzustellen, dass die Steuererklärung 2024 einzureichen ist. Wer die Mitteilung bis Ende Februar 2025 nicht erhält, ist trotzdem verpflichtet, die Steuererklärung fristgerecht bei der Steuerverwaltung einzureichen.
 
 <sup>2</sup> Steuerpflichtige können bei der Steuerverwaltung eine Steuererklärung in Papierform beziehen.
 
@@ -51,7 +51,7 @@ beschliesst:
 
 **Einreichung**
 
-<sup>1</sup> Die steuerpflichtigen natürlichen Personen haben die Steuererklärung 2023 innert 60 Tagen nach Empfang der Mitteilung vollständig und wahrheitsgetreu ausgefüllt und mit den erforderlichen Beilagen versehen der kantonalen Steuerverwaltung einzureichen. Gesuche um Fristerstreckung nach Art. 47 Abs. 2 VV zum StG sind bei der kantonalen Steuerverwaltung einzureichen.
+<sup>1</sup> Die steuerpflichtigen natürlichen Personen haben die Steuererklärung 2024 innert 60 Tagen nach Empfang der Mitteilung vollständig und wahrheitsgetreu ausgefüllt und mit den erforderlichen Beilagen versehen der kantonalen Steuerverwaltung zu übermitteln bzw. einzureichen. Gesuche um Fristerstreckung nach Art. 47 Abs. 2 StV sind bei der Steuerverwaltung einzureichen.
 
 <sup>2</sup> Die Steuererklärungsformulare der juristischen Personen sind innerhalb von 30 Tagen seit Durchführung der Mitglieder- bzw. Generalversammlung direkt der kantonalen Steuerverwaltung zuzustellen.
 
@@ -59,11 +59,11 @@ beschliesst:
 
 **Wegleitung und Auskünfte**
 
-<sup>1</sup> Die kantonale Steuerverwaltung erlässt die Wegleitung über das Ausfüllen der Steuererklärung 2023.
+<sup>1</sup> Die Steuerverwaltung erlässt die Wegleitung über das Ausfüllen der Steuererklärung 2024.
 
-<sup>2</sup> Auskünfte erteilt die kantonale Steuerverwaltung.
+<sup>2</sup> Auskünfte erteilt die Steuerverwaltung.
 
-## 2. Steuerperiode 2024
+## 2. Steuerperiode 2025
 
 ### 2.1. Hauptveranlagung
 
@@ -71,7 +71,7 @@ beschliesst:
 
 **Steuerperiode**
 
-<sup>1</sup> Im Jahr 2024 erfolgt für die steuerpflichtigen natürlichen und juristischen Personen eine Neuveranlagung für die Kantons- und Gemeindesteuer 2024 und für die direkte Bundessteuer 2024.
+<sup>1</sup> Im Jahr 2025 erfolgt für die steuerpflichtigen natürlichen und juristischen Personen eine Neuveranlagung für die Kantons- und Gemeindesteuer 2025 und für die direkte Bundessteuer 2025.
 
 ### 2.2. Berechnungsgrundlagen
 
@@ -79,7 +79,7 @@ beschliesst:
 
 **Einkommen a. Allgemeines**
 
-<sup>1</sup> Für die Berechnung des steuerbaren Einkommens der natürlichen Personen sind die Einkünfte des Jahres 2024 massgebend. Zum steuerbaren Einkommen gehören sämtliche in Geld oder geldwerten (Naturaleinkünfte) bestehenden, wiederkehrenden oder einmaligen Einkünfte aus Erwerbstätigkeit, Vermögensertrag oder anderen Einnahmequellen.
+<sup>1</sup> Für die Berechnung des steuerbaren Einkommens der natürlichen Personen sind die Einkünfte des Jahres 2025 massgebend. Zum steuerbaren Einkommen gehören sämtliche in Geld oder geldwerten (Naturaleinkünfte) bestehenden, wiederkehrenden oder einmaligen Einkünfte aus Erwerbstätigkeit, Vermögensertrag oder anderen Einnahmequellen.
 
 #### Art. 7
 
@@ -90,14 +90,15 @@ beschliesst:
 - a. Der massgebliche Faktor beträgt 2.3, wenn das Grundstück mit der Anleitung für die Schätzung landwirtschaftlicher Heimwesen und Liegenschaften vom 18. Juni 1979 geschätzt wurde.
 - b. Der massgebliche Faktor beträgt 1.65, wenn das Grundstück mit der Anleitung für die Schätzung des landwirtschaftlichen Ertragswerts vom 26. November 2003 geschätzt wurde.
 - c. Wenn das Grundstück mit der Anleitung für die Schätzung des landwirtschaftlichen Ertragswerts vom 31. Januar 2018 geschätzt wurde:
-  - 1\. Bei landwirtschaftlichen Gewerben (mind. 0.80 SAK) entspricht der Eigenmietwert dem Pachtzins für die Wohnung = (Ertragswert x 6.65 %) + (Mietwert x 43 %).
+  - 1\. Bei selbstbewirtschaftenden Eigentümern mit einem landwirtschaftlichen Gewerbe (mind. 0.80 SAK) entspricht der Eigenmietwert dem Pachtzins für die Wohnung = (Ertragswert x 6.65 %) + (Mietwert x 43 %).
+  - 1\.1 Anspruch auf den landwirtschaftlichen Mietwert gemäss Ziffer 1. besteht, wenn das landwirtschaftliche Einkommen die Haupterwerbsquelle darstellt. Andernfalls entspricht die Berechnung den landwirtschaftlichen Grundstücken gemäss Art. 7 Abs.1 Bst. c Ziffer 2.
   - 2\. Bei landwirtschaftlichen Grundstücken (&lt;0.80 SAK) entspricht der Eigenmietwert für die Kantons- und Gemeindesteuern 65 % und für die direkte Bundessteuer 70 % des Mietwerts.
 
 #### Art. 8
 
 **Vermögen**
 
-<sup>1</sup> Für das Vermögen ist der Stand am 31. Dezember 2023 massgebend.
+<sup>1</sup> Für das Vermögen ist der Stand am 31. Dezember 2025 massgebend.
 
 ### 2.3. Fälligkeit, Verzugszins sowie Ausgleichszins
 
@@ -113,15 +114,15 @@ beschliesst:
 
 **Verzugszins**
 
-<sup>1</sup> Für Guthaben der Bezugsbehörden wird für Schlussrechnungen gemäss Art. 248 StG und Art. 37 Bst. b VV zum StG nach Ablauf der Zahlungsfrist im Kalenderjahr 2024 ein Verzugszins von fünf Prozent in Rechnung gestellt.
+<sup>1</sup> Für Guthaben der Bezugsbehörden wird für Schlussrechnungen gemäss Art. 248 StG und Art. 37 Bst. b StV nach Ablauf der Zahlungsfrist im Kalenderjahr 2025 ein Verzugszins von fünf Prozent in Rechnung gestellt.
 
 #### Art. 11
 
 **Ausgleichszins**
 
-<sup>1</sup> Der Ausgleichszins zu Gunsten der Steuerpflichtigen gemäss Art. 247 Abs. 2 Bst. a StG beträgt 1,1 Prozent.
+<sup>1</sup> Der Ausgleichszins zu Gunsten der Steuerpflichtigen gemäss Art. 247 Abs. 2 Bst. a StG beträgt 0,5 Prozent.
 
-<sup>2</sup> Der Ausgleichszins für Zahlungen zu Lasten der Steuerpflichtigen gemäss Art. 247 Abs. 2 Bst. b StG beträgt 1,1 Prozent.
+<sup>2</sup> Der Ausgleichszins für Zahlungen zu Lasten der Steuerpflichtigen gemäss Art. 247 Abs. 2 Bst. b StG beträgt 0,5 Prozent.
 
 ### 2.4. Rückerstattung der eidgenössischen Verrechnungssteuer
 
@@ -129,7 +130,7 @@ beschliesst:
 
 **Natürliche Personen**
 
-<sup>1</sup> Natürliche Personen beantragen die Rückerstattung der Verrechnungssteuer mit dem Einreichen des Wertschriftenverzeichnisses. Wird der Antrag auf Rückerstattung mit der kantonalen Steuererklärung 2023 eingereicht, so wird er in der Regel mit den zu entrichtenden Kantons- und Gemeindesteuern 2024 verrechnet. Verbleibt nach Verrechnung mit diesen Steuern ein Überschuss, so wird er mit Bussen, Nachsteuern, Ausgleichs- und Verzugszinsen, ausstehenden Kantons- und Gemeindesteuern oder ausstehenden direkten Bundessteuern verrechnet.
+<sup>1</sup> Natürliche Personen beantragen die Rückerstattung der Verrechnungssteuer mit dem Einreichen des Wertschriftenverzeichnisses. Wird der Antrag auf Rückerstattung mit der kantonalen Steuererklärung 2024 eingereicht, so wird er in der Regel mit den zu entrichtenden Kantons- und Gemeindesteuern 2025 verrechnet. Verbleibt nach Verrechnung mit diesen Steuern ein Überschuss, so wird er mit Bussen, Nachsteuern, Ausgleichs- und Verzugszinsen, ausstehenden Kantons- und Gemeindesteuern oder ausstehenden direkten Bundessteuern verrechnet.
 
 #### Art. 13
 
@@ -143,7 +144,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Ausführungsbestimmungen gelten für die Steuerveranlagung für die Perioden 2023 und 2024.
+<sup>1</sup> Diese Ausführungsbestimmungen gelten für die Steuerveranlagung für die Perioden 2024 und 2025.
 
 **Informationen zum Erlass**
 
@@ -171,6 +172,8 @@ geändert durch:
 
 \- Nachtrag vom 22. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 27),
 
-\- Nachtrag vom 14. November 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 31)
+\- Nachtrag vom 14. November 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 31),
+
+\- Nachtrag vom 12. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 33)
 
 OGS 2012, 67
