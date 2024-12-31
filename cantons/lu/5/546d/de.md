@@ -3,20 +3,19 @@ canton: LU
 number: 546d
 title: Verordnung über die Zuteilung der Studienplätze im Masterstudiengang Joint Medical Master der Universitäten Luzern und Zürich
 language: de
-version: 2024-02-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-05
+version: 2025-01-01
+version_adopted: 2024-11-12
 adopted: 2020-01-21
 in_force: 2020-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546d"
-pdf: "https://srl.lu.ch/api/de/versions/4173/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zuteilung der Studienplätze im Masterstudiengang Joint Medical Master der Universitäten Luzern und Zürich
 
-vom 21.01.2020 (Stand 01.02.2024)
+vom 21.01.2020 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -40,23 +39,24 @@ beschliesst:
 
 **Anzahl Studienplätze**
 
-<sup>1</sup> Für den Masterstudiengang JMM-UniLU/UZH stehen 40 Studienplätze zur Verfügung.
+<sup>1</sup> Für den Masterstudiengang JMM-UniLU/UZH stehen 40 Studienplätze pro Studienjahr zur Verfügung.
 
 #### § 3
 
 **Zuteilung der Studienplätze**
 
-<sup>1</sup> Die Studienplätze des Masterstudiengangs JMM-UniLU/UZH werden vorrangig den Inhaberinnen und Inhabern eines Bachelordiploms des Luzerner Tracks der Medizinischen Fakultät der Universität Zürich zugeteilt.
+<sup>1</sup> Die Studienplätze im ersten Studienjahr des Masterstudiengangs JMM-UniLU/UZH werden vorrangig den Inhaberinnen und Inhabern eines Bachelordiploms in Humanmedizin der Universität Zürich mit Schwerpunkt Luzerner Track zugeteilt, welche ihr Studium im Anschluss an ihr Bachelorstudium ohne Unterbruch fortsetzen möchten.
 
 <sup>2</sup> Verbleibende Studienplätze werden weiteren Studienanwärterinnen und -anwärtern in nachstehender Reihenfolge zugeteilt:
 
-- 1\. Inhaberinnen und Inhabern eines Bachelordiploms der Fachrichtung Humanmedizin einer schweizerischen universitären Hochschule.
-- 2\. Inhaberinnen und Inhabern eines ausländischen Bachelordiploms der Fachrichtung Humanmedizin, wenn dieses Diplom im Land, in dem es erworben wurde, zum Masterstudium berechtigt (Studienplatznachweis). Im Übrigen richtet sich die Zulassung ausländischer Studienanwärterinnen und -anwärter nach den massgebenden Empfehlungen der Schweizerischen Hochschulkonferenz[^3-1].
-- 3\. Inhaberinnen und Inhabern eines in der Schweiz nicht anerkannten ausländischen Diploms als Ärztin oder Arzt.
+- 1\. Inhaberinnen und Inhabern eines Bachelordiploms in Humanmedizin der Universität Zürich mit Schwerpunkt Luzerner Track, die ihr Studium nach einem Unterbruch oder einer Exmatrikulation fortsetzen möchten,
+- 2\. Inhaberinnen und Inhabern eines Bachelordiploms in Humanmedizin der Universität Zürich ohne Schwerpunkt,
+- 3\. Inhaberinnen und Inhabern eines Bachelordiploms in Humanmedizin einer schweizerischen universitären Hochschule,
+- 4\. Inhaberinnen und Inhabern eines Bachelordiploms in Humanmedizin der Universität Zürich mit Schwerpunkt Chiropraktik,
+- 5\. Ärztinnen und Ärzten mit einem von der Medizinalberufekommission des Bundesamts für Gesundheit nicht anerkannten ausländischen Diplom,
+- 6\. Inhaberinnen und Inhabern eines Bachelordiploms in Humanmedizin einer ausländischen universitären Hochschule.
 
-<sup>3</sup> Innerhalb einer Gruppe werden die Studienplätze nach der Höhe der Abschlussnoten zugeteilt. Bei gleich hohen Abschlussnoten entscheidet die weitere Eignung der Studienanwärterinnen und -anwärter über die Zuteilung der Studienplätze. Die Universität Luzern legt die Kriterien fest.
-
-[^3-1]: Empfehlung des Hochschulrats zur Zulassung ausländischer Studienanwärterinnen und -anwärter zum Medizinstudium in der Schweiz.
+<sup>3</sup> Innerhalb einer Gruppe werden die Studienplätze nach der Höhe aller Noten im Bachelorstudium zugeteilt. Bei gleich hohen Noten entscheidet die weitere Eignung der Studienanwärterinnen und -anwärter über die Zuteilung der Studienplätze. Die Universität Luzern legt die Kriterien fest.
 
 #### § 4
 
@@ -92,6 +92,6 @@ beschliesst:
 
 **Befristung**
 
-<sup>1</sup> Die Verordnung ist bis zum 31. Dezember 2025 befristet.
+<sup>1</sup> Die Verordnung ist bis zum 31. Dezember 2031 befristet.
 
 G 2020-006
