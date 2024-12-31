@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur le casier judiciaire informatique VOS
 short: LCJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/fr"
 
 (Loi sur le casier judiciaire, LCJ)[^t-1]
 
-du 17 juin 2016 (État le 1<sup>er</sup> janvier 2024)
+du 17 juin 2016 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -964,11 +964,14 @@ Les autorités raccordées suivantes peuvent consulter en ligne toutes les donn�
 <tr><td>a. les autorités cantonales de circulation routière:</td><td></td><td>pour octroyer ou retirer les permis de conduire et les permis d’élève conducteur en vertu de la loi fédérale du 19 décembre 1958 sur la circulation routière[^47-1];</td></tr>
 <tr><td>b. les services cantonaux chargés des exclusions du service de protection civile:</td><td></td><td>pour prendre les décisions d’exclusion du service de protection civile en vertu de la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile[^47-2];</td></tr>
 <tr><td>c. l’Autorité fédérale de surveillance des marchés financiers (FINMA):</td><td></td><td>pour examiner si les personnes qui doivent obtenir l’autorisation, la reconnaissance ou l’agrément de la FINMA ou qui doivent se faire enregistrer auprès d’elle en vertu des lois régissant les marchés financiers présentent toutes garanties d’une activité irréprochable;</td></tr>
-<tr><td>d. l’Autorité fédérale de surveillance en matière de révision:</td><td></td><td>pour octroyer ou retirer des agréments, adresser des avertissements et prendre des mesures à l’encontre des personnes physiques travaillant pour le compte d’une entreprise de révision soumise à la surveillance de l’État.</td></tr>
+<tr><td>d. l’Autorité fédérale de surveillance en matière de révision:</td><td></td><td>pour octroyer ou retirer des agréments, adresser des avertissements et prendre des mesures à l’encontre des personnes physiques travaillant pour le compte d’une entreprise de révision soumise à la surveillance de l’État;</td></tr>
+<tr><td>e.[^47-3] l’autorité fédérale de haute surveillance du registre du commerce:</td><td></td><td>pour effectuer les vérifications en vertu de l’art. 928*a*, al. 2<sup>bis</sup>, du code des obligations (CO)[^47-4].</td></tr>
 </table>
 
 [^47-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^47-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^47-3]: Introduite par le ch. I 5 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^47-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 48
 
@@ -1248,6 +1251,17 @@ Ne sont pas communiqués:
 
 [^64-1]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
 [^64-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+
+#### Art. 64a
+
+**Communication à l’autorité fédérale de haute surveillance du registre du commerce**[^64a-1]
+
+<sup>1</sup> Le Service du casier judiciaire communique périodiquement à l’autorité fédérale de haute surveillance du registre du commerce la liste de toutes les interdictions d’exercer une activité en vigueur, inscrites dans VOSTRA et ordonnées contre des personnes inscrites dans la base de données centrale des personnes visés à l’art. 928*b* CO[^64a-2], lorsque ces indications sont pertinentes pour la vérification en application de l’art. 928*a*, al. 2<sup>bis</sup>, CO.
+
+<sup>2</sup> Les données visées à l’al. 1 sont transmises par une interface électronique entre la base de données centrale des personnes et VOSTRA. Elles sont sélectionnées de manière automatisée sur la base du numéro AVS de la personne concernée.
+
+[^64a-1]: Introduit par le ch. I 5 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^64a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Titre 8 Communication automatique de données à VOSTRA
 

@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sul casellario giudiziale informatizza
 short: LCaGi
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-600-20240101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/it"
 
 (Legge sul casellario giudiziale, LCaGi)
 
-del 17 giugno 2016 (Stato 1° gennaio 2024)
+del 17 giugno 2016 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -958,11 +958,14 @@ Le seguenti autorità collegate possono consultare mediante procedura di richiam
 <tr><td>a. le autorità cantonali competenti in materia di circolazione stradale:</td><td></td><td>per rilasciare e revocare licenze di condurre o licenze per allievo conducente secondo la legge federale del 19 dicembre 1958[^47-1] sulla circolazione stradale;</td></tr>
 <tr><td>b. gli organi cantonali competenti per le decisioni concernenti l’esclusione dal servizio di protezione civile:</td><td></td><td>per esaminare un’esclusione dal servizio di protezione civile secondo la legge federale del 4 ottobre 2002[^47-2] sulla protezione della popolazione e sulla protezione civile;</td></tr>
 <tr><td>c. l’Autorità federale di vigilanza sui mercati finanziari (FINMA):</td><td></td><td>per controllare se le persone che necessitano di un’autorizzazione, di un riconoscimento, di un’abilitazione o di una registrazione della FINMA in virtù delle leggi sui mercati finanziari offrono la garanzia di un’attività irreprensibile;</td></tr>
-<tr><td>d. l’Autorità federale di sorveglianza dei revisori:</td><td></td><td>per concedere e revocare abilitazioni e pronunciare ammonimenti e misure nei confronti di persone fisiche attive per conto di un’impresa di revisione sotto sorveglianza statale.</td></tr>
+<tr><td>d. l’Autorità federale di sorveglianza dei revisori:</td><td></td><td>per concedere e revocare abilitazioni e pronunciare ammonimenti e misure nei confronti di persone fisiche attive per conto di un’impresa di revisione sotto sorveglianza statale;</td></tr>
+<tr><td>e.[^47-3] l’autorità federale di alta vigilanza sul registro di commercio:</td><td></td><td>per effettuare l’esame di cui all’articolo 928*a* capoverso 2<sup>bis</sup> del Codice delle obbligazioni (CO)[^47-4].</td></tr>
 </table>
 
 [^47-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^47-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^47-3]: Introdotta dal n. I 5 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^47-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 48
 
@@ -1242,6 +1245,17 @@ Non sono comunicate:
 
 [^64-1]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
 [^64-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+
+#### Art. 64a
+
+**Comunicazione all’autorità federale di alta vigilanza sul registro di commercio**[^64a-1]
+
+<sup>1</sup> Il Servizio del casellario giudiziale comunica periodicamente all’autorità federale di alta vigilanza sul registro di commercio un elenco di tutte le interdizioni di esercitare un’attività in vigore e iscritte in VOSTRA ordinate nei confronti di persone registrate nella banca dati centrale delle persone di cui all’articolo 928*b* CO[^64a-2], se tali indicazioni sono rilevanti per l’esame di cui all’articolo 928*a* capoverso 2<sup>bis</sup> CO.
+
+<sup>2</sup> La comunicazione dei dati di cui al capoverso 1 è effettuata mediante un’interfaccia elettronica tra la banca dati centrale delle persone e VOSTRA. I dati sono selezionati e trasmessi in modo automatizzato in base al numero AVS dell’interessato.
+
+[^64a-1]: Introdotto dal n. I 5 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^64a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Titolo ottavo: Comunicazione automatica di dati a VOSTRA
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über das Strafregister-Informationssyste
 short: StReG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/de"
 
 (Strafregistergesetz, StReG)
 
-vom 17. Juni 2016 (Stand am 1. Januar 2024)
+vom 17. Juni 2016 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -959,11 +959,14 @@ Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Be
 <tr><td>a. die für den Strassenverkehr zuständigen Behörden der Kantone:</td><td></td><td>für die Erteilung oder den Entzug von Führer- oder Lernfahrausweisen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958[^47-1];</td></tr>
 <tr><td>b. die für Entscheide über den Ausschluss vom Schutzdienst zuständigen Stellen der Kantone:</td><td></td><td>für die Prüfung eines Ausschlusses vom Schutzdienst nach dem Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002[^47-2];</td></tr>
 <tr><td>c. die Eidgenössische Finanzmarktaufsicht (FINMA):</td><td></td><td>für die Prüfung der Gewähr für einwandfreie Geschäftstätigkeit von Personen, die nach den Finanzmarktgesetzen eine Bewilligung, eine Anerkennung, eine Zulassung oder eine Registrierung der FINMA benötigen;</td></tr>
-<tr><td>d. die Eidgenössische Revisionsaufsichtsbehörde:</td><td></td><td>für die Erteilung oder den Entzug von Zulassungen, die Erteilung von Verweisen und die Verhängung von Massnahmen gegenüber natürlichen Personen, die für staatlich beaufsichtigte Revisionsunternehmen tätig sind.</td></tr>
+<tr><td>d. die Eidgenössische Revisionsaufsichtsbehörde:</td><td></td><td>für die Erteilung oder den Entzug von Zulassungen, die Erteilung von Verweisen und die Verhängung von Massnahmen gegenüber natürlichen Personen, die für staatlich beaufsichtigte Revisionsunternehmen tätig sind;</td></tr>
+<tr><td>e.[^47-3] die Oberaufsichtsbehörde des Bundes über das Handelsregister:</td><td></td><td>für die Prüfung nach Artikel 928*a* Absatz 2<sup>bis</sup> des Obligationenrechts (OR)[^47-4].</td></tr>
 </table>
 
 [^47-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^47-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^47-3]: Eingefügt durch Ziff. I 5 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^47-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 48
 
@@ -1243,6 +1246,17 @@ Nicht gemeldet werden:
 
 [^64-1]: [SR 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
 [^64-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+
+#### Art. 64a
+
+**Meldung an die Oberaufsichtsbehörde des Bundes über das Handelsregister**[^64a-1]
+
+<sup>1</sup> Die registerführende Stelle meldet der Oberaufsichtsbehörde des Bundes über das Handelsregister periodisch eine Auflistung aller für die Prüfung nach Artikel 928*a* Absatz 2<sup>bis</sup> OR[^64a-2] relevanten, gültigen und in VOSTRA eingetragenen Tätigkeitsverbote von Personen, die in der zentralen Datenbank Personen nach Artikel 928*b* OR erfasst sind.
+
+<sup>2</sup> Die Meldung der Daten nach Absatz 1 erfolgt über eine elektronische Schnittstelle zwischen der zentralen Datenbank Personen und VOSTRA. Die Aufbereitung der Meldungen erfolgt automatisiert und unter Verwendung der Versichertennummer.
+
+[^64a-1]: Eingefügt durch Ziff. I 5 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^64a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## 8. Titel: Automatische Weiterleitung von Daten an VOSTRA
 
