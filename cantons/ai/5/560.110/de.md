@@ -4,21 +4,21 @@ number: "560.110"
 title: Verordnung zum Hundegesetz
 short: HuV
 language: de
-version: 2006-09-12
-corrected: 2018-08-21
-version_adopted: 2006-09-12
+version: 2025-01-01
+version_adopted: 2024-12-02
 adopted: 2005-11-21
 in_force: 2006-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/560.110"
-pdf: "https://ai.clex.ch/api/de/versions/563/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2339/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Hundegesetz (HuV)
+# Verordnung zum Hundegesetz
 
-vom 21. November 20051
+(HuV)
+
+vom 21.11.2005 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -26,97 +26,133 @@ gestützt auf Art. 16 und 19 des Hundegesetzes vom 24. April 2005 (HuG),
 
 beschliesst:
 
-### I. Hundesteuer
+## I. Hundesteuer
 
 #### Art. 1
 
 **Ansätze**
 
-<sup>1</sup> Für jeden über drei Monate alten Hund ist vom Halter\* eine Hundesteuer von Fr. 80.—, für einen landwirtschaftlichen Hofhund Fr. 50.— pro Jahr zu entrichten.
+<sup>1</sup> Der Hundehalter [^1-1] entrichtet jährlich eine Hundesteuer. Sie beträgt Fr. 50.-- für einen landwirtschaftlichen Hofhund und Fr. 80.-- für einen anderen Hund.
 
-<sup>2</sup> Beim Halten von mehreren Hunden im gleichen Haushalt beträgt die Hundesteuer in jedem Fall für jeden weiteren Hund Fr. 160.— pro Jahr.
+<sup>2</sup> Werden mehrere Hunde im gleichen Haushalt gehalten, beträgt die Hundesteuer für den zweiten und jeden weiteren Hund je Fr. 160.-- pro Jahr.
 
-<sup>3</sup> Für gewerbsmässige Hundezuchten sowie für Tierheime im Sinne der Richtlinien des Bundesamtes für Veterinärwesen kann vom Bezirksrat eine pauschale Hundesteuer von Fr. 600.— pro Jahr festgelegt werden.
+<sup>3</sup> Für Hundezuchten und Tierheime, die über eine Bewilligung für den gewerbsmässigen Umgang mit Tieren nach der eidgenössischen Tierschutzgesetzgebung verfügen, beträgt die Hundesteuer pauschal Fr. 600.-- pro Jahr.
+
+[^1-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
 #### Art. 2
 
 **Abgabejahr**
 
-Das Abgabejahr ist mit dem Kalenderjahr identisch.
+<sup>1</sup> Das Abgabejahr ist mit dem Kalenderjahr identisch.
 
 #### Art. 3
 
 **Befreiung von der Hundesteuer**
 
-Keine Hundesteuer wird erhoben für:
+<sup>1</sup> Keine Hundesteuer wird erhoben für:
 
-- a) Diensthunde der Armee, Polizei und Zollorgane;
-
-- b) Lawinen- und Blindenhunde;
-
+- a) Diensthunde, die in der Armee, bei der Polizei oder beim Grenzwachtkorps eingesetzt werden;
+- a<sup>bis</sup>) geprüfte Schweisshunde der Wildhut und der Jagdaufseher, die vom Kanton mit der Nachsuche auf angeschossenes oder verletztes Wild beauftragt sind;
+- b) Behinderten- und Blindenführhunde, für welche die Eidgenössische Invalidenversicherung Leistungen erbringt;
+- b<sup>bis</sup>) Gelände- und Lawinensuchhunde mit einer Einsatzverpflichtung der Alpinen Rettung Schweiz (ARS) sowie Such- und Rettungshunde mit einer Einsatzverpflichtung des Schweizerischen Vereins für Such- und Rettungshunde (REDOG);
 - c) Hunde, für welche die Hundesteuer des laufenden Abgabejahres bereits in einem anderen Bezirk bezahlt worden ist;
-
-- d) Hunde, die während des Abgabejahres als Ersatz für eingegangene Hunde angeschafft worden sind;
-
-- e) Appenzeller Sennenhunde mit anerkanntem Abstammungsausweis (Schweizerisch kynologische Gesellschaft).
+- d) Hunde, die während des Abgabejahres als Ersatz für verstorbene Hunde angeschafft worden sind;
+- e) Appenzeller Sennenhunde mit einem von der Schweizerischen Kynologischen Gesellschaft anerkannten Abstammungsausweis;
+- f) Hunde, die weniger als drei Monate alt sind.
 
 #### Art. 4
 
-Aufteilung des Die Bezirke haben der kantonalen Tierseuchenkasse jährlich für jeden besteuerten Steuerertrages Hund Fr. 5.— abzuliefern.
+**Aufteilung des Steuerertrages**
 
-### II. Kennzeichnung und Registrierung
+<sup>1</sup> Die Bezirke haben der kantonalen Tierseuchenkasse jährlich für jeden besteuerten Hund Fr. 5.-- abzuliefern.
+
+## II. Kennzeichnung und Registrierung
 
 #### Art. 5
 
-Kennzeichnung <sup>1</sup>Hunde von im Kanton wohnhaften Haltern sind nach den Vorschriften der Tierseuchengesetzgebung des Bundes zu kennzeichnen. Die diesbezügliche Kontrolle obliegt dem Bezirk.
+**Zuständigkeit**
 
-<sup>2</sup> Vor dem 1. Januar 2006 geborene Hunde sind bis spätestens 31. Dezember 2006 zu kennzeichnen und zu registrieren. Sie können bis zu diesem Zeitpunkt nach den bisherigen Vorschriften kontrollmässig erfasst werden.
+<sup>1</sup> Zuständige Stelle für die Registrierung von Hundehaltern nach der eidgenössischen Tierseuchenverordnung ist der Bezirk.
+
+<sup>2</sup> …
 
 #### Art. 6
 
-Registrierung <sup>1</sup>Die Standeskommission bestimmt eine Stelle, bei welcher die mit der Kennzeichnung erhobenen Daten zu melden und zu erfassen sind.
+**Meldepflichten der Hundehalter**
 
-<sup>2</sup> Registrierte Hundehalter müssen Änderungen ihres Namens oder ihrer Adresse sowie Name und Adresse eines neuen Halters ihres registrierten Hundes dieser Stelle umgehend melden.
+<sup>1</sup> Der Hundehalter meldet dem Bezirk:
 
-<sup>3</sup> Dem Kantonstierarzt, der Kantonspolizei und den Bezirken wird der kostenlose Zu-
+- a) das Halten eines Hundes, der mehr als drei Monate alt ist;
+- b) den Halterwechsel;
+- c) den Tod des Hundes;
+- d) die Namens- oder Adressänderung des Hundehalters;
+- e) den Beginn einer Schutzdienstausbildung des Hundes.
 
-gang zu den registrierten Daten der Hundehaltung gewährleistet.
+<sup>2</sup> …
 
-#### Art.7
+<sup>3</sup> …
 
-Abgabe des Die Standeskommission bestimmt eine Stelle, die für die Abgabe des Hundeaus-Hundeausweises weises zuständig ist.
+#### Art. 7
+
+**Kontrollen des Bezirks**
+
+<sup>1</sup> Der Bezirk kontrolliert stichprobenweise, ob die Einträge in der Hundedatenbank, welche die Hundehalter vornehmen müssen, vollständig und richtig sind.
+
+<sup>2</sup> Er ändert fehlerhafte und ergänzt fehlende Einträge.
 
 #### Art. 8
 
-Vorlage des Der Hundehalter ist verpflichtet, den Organen der Seuchenpolizei, dem Kantonstier-Hundeausweises arzt, der Kantonspolizei und Funktionären der Bezirke den Hundeausweis vorzulegen.
+**Meldungen an das Veterinäramt**
 
-### III. Übrige Bestimmungen
+<sup>1</sup> Der Bezirk meldet dem Veterinäramt:
+
+- a) Hundehalter, die ihrer Pflicht zu Einträgen oder Änderungen in der Hundedatenbank nach einer Mahnung durch den Bezirk nicht nachkommen;
+- b) Hunde, die nicht gekennzeichnet sind;
+- c) Hunde, die coupierte Ohren oder Ruten oder von Geburt an verkürzte Ruten haben, ohne dass ein Eintrag in der Hundedatenbank besteht.
+
+## III. Übrige Bestimmungen
+
+#### Art. 8a
+
+**Meldung von Vorfällen**
+
+<sup>1</sup> Vorfälle, bei denen ein Hund Menschen oder Tieren erhebliche Verletzungen, insbesondere offene Wunden, zufügt, oder bei denen er ein übermässiges Aggressionsverhalten zeigt, sind dem Bezirk zu melden.
+
+<sup>2</sup> Meldepflichtig sind neben dem nach der eidgenössischen Tierschutzgesetzgebung meldepflichtigen Personenkreis die Kantonspolizei und die Staatsanwaltschaft.
+
+<sup>3</sup> Der Bezirk leitet die Meldungen an das Veterinäramt weiter und orientiert es über seine Massnahmen bei solchen Vorfällen.
+
+#### Art. 8b
+
+**Strafverfahren**
+
+<sup>1</sup> Entscheide, Strafbefehle, Verfügungen und Urteile von Strafbehörden, die sich auf die kantonale Hundegesetzgebung stützen oder den Vollzug derselben betreffen, sind dem Veterinäramt zu eröffnen.
 
 #### Art. 9
 
-Vorschriften der Zusätzlich zu den Vorschriften der Hundegesetzgebung sind von den Hundehaltern Alp- sowie Jagd- insbesondere Art. 5 der Verordnung zum Alpgesetz vom 12. Februar 1996 und Art. gesetzgebung 41 der Verordnung zum Jagdgesetz vom 13. Juni 1989 zu beachten, wonach Hunde während der Alpzeit an der Leine zu führen sind, bzw. Hunde, die unberechtigt dem Wild nachstellen, vom Wildhüter und von diesem Beauftragten erlegt werden dürfen.
+**Vorschriften der Alp- sowie Jagdgesetzgebung**
+
+<sup>1</sup> Zusätzlich zu den Vorschriften der Hundegesetzgebung sind von den Hundehaltern insbesondere Art. 5 der Verordnung zum Alpgesetz vom 12. Februar 1996 und Art. 41 der Verordnung zum Jagdgesetz vom 13. Juni 1989 zu beachten, wonach Hunde während der Alpzeit an der Leine zu führen sind, bzw. Hunde, die unberechtigt dem Wild nachstellen, vom Wildhüter und von diesem Beauftragten erlegt werden dürfen.
 
 #### Art. 10
 
-Sofern ein Patent- oder Bewilligungsinhaber Hunde in seinen Gastgewerberäum- Zulassung von lichkeiten zulässt, hat er dies den Gästen in geeigneter Form bekannt zu geben.
+**Zulassung von Hunden in Gastgewerbelokalitäten**
 
-**Hunden in Gast-**
+<sup>1</sup> Sofern ein Patent- oder Bewilligungsinhaber Hunde in seinen Gastgewerberäumlichkeiten zulässt, hat er dies den Gästen in geeigneter Form bekannt zu geben.
 
-gewerbelokalitä-
+## IV. Schlussbestimmungen
 
-**ten**
+#### Art. 11
 
-### IV. Schlussbestimmungen
+**…**
 
-Art. 11 - Art. 122
+#### Art. 12
 
-Art. 133
+#### Art. 13
 
-Diese Verordnung tritt nach Annahme durch den Grossen Rat auf den 1. Januar Inkrafttreten 2006 in Kraft.
+**Inkrafttreten**
 
-## Weitere Fussnoten
+<sup>1</sup> Diese Verordnung tritt nach Annahme durch den Grossen Rat auf den 1. Januar 2006 in Kraft.
 
-- [1] Mit Revision vom 12. September 2006.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [2] Aufgehoben durch StKB vom 12. September 2006.
-- [3] Abgeändert durch StKB vom 12. September 2006.
+cGS -
