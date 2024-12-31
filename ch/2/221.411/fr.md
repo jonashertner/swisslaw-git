@@ -4,11 +4,11 @@ title: Ordonnance du 17 octobre 2007 sur le registre du commerce (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: fr
-version: 2024-07-10
+version: 2025-01-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240710/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240710-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240710/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240710/fr"
 
 (ORC)
 
-du 17 octobre 2007 (État le 10 juillet 2024)
+du 17 octobre 2007 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -181,13 +181,14 @@ Le registre principal contient pour chaque entité juridique:
 
 Sont exceptés de la publicité du registre du commerce au sens de l’art. 936 CO:
 
-- a. le numéro AVS[^10-2];
+- a. le numéro AVS;
 - b. la correspondance se rapportant aux inscriptions;
 - c. les copies des documents d’identité;
-- d. les copies des documents mentionnés à l’art. 62.
+- d. les documents mentionnés à l’art. 62, al. 2;
+- e. les communications et documents, qui sont établis et transmis dans le cadre de l’examen des interdictions d’exercer une activité prévu à l’art. 928*a,* al. 2<sup>bis</sup> à 2<sup>quater</sup>, CO;
+- f. les documents mentionnés à l’art. 65*a*, al. 1.
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^10-2]: La nouvelle expression, selon l’annexe ch. II 9 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022, ne concerne que les textes allemand et italien ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 #### Art. 11
 
@@ -331,7 +332,11 @@ Le DFJP détermine:
 
 <sup>1</sup> L’OFRC est responsable de l’attribution du droit de saisir et de traiter des données dans la base de données centrale des personnes, de la protection et de la sécurité des données qu’elle contient.
 
+<sup>1bis</sup> Il veille à ce qu’il soit possible, lors d’interrogations spécifiques sur Internet, d’effectuer des recherches dans la base de données centrale des personnes, notamment à l’aide de noms de personnes ou de numéros personnels non signifiants.[^14a-1]
+
 <sup>2</sup> Les offices du registre du commerce répondent en particulier de la saisie et du traitement professionnels et corrects des données et veillent à la concordance des données du registre cantonal avec celles d’autres registres publics.
+
+[^14a-1]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ## Titre 2 Procédure d’inscription
 
@@ -415,9 +420,13 @@ La réquisition peut également être le fait des personnes intéressées:
 
 <sup>3</sup> Lorsque le dispositif du jugement ou de la décision n’est pas complet ou ne contient pas de dispositions claires concernant les faits à inscrire, l’office du registre du commerce demande à l’autorité concernée de fournir des précisions par écrit.
 
+<sup>3bis</sup> Lorsqu’une interdiction d’exercer une activité figurant sur l’extrait 3 destiné aux autorités (art. 39 de la loi du 17 juin 2016 sur le casier judiciaire[^19-2]) n’est pas claire, l’OFRC peut, dans le cadre de l’examen prévu à l’art. 928*a*, al. 2<sup>bis</sup>, CO, demander au tribunal de fournir des précisions par écrit.[^19-3]
+
 <sup>4</sup> L’approbation des inscriptions par l’OFRC demeure réservée.
 
 [^19-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^19-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-3]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ### Section 2 Pièces justificatives
 
@@ -621,7 +630,7 @@ L’inscription au registre du commerce est opérée dans la langue de la réqui
 Les inscriptions au registre du commerce sont saisies selon le jeu de caractères ISO 8859-15[^29a-2].
 
 [^29a-1]: Introduit par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^29a-2]: ISO/IEC 8859-15, 1999, Technologies de l´information – Jeux de caractères graphiques codés sur un seul octet - Partie 15: Alphabet latin n<sup>o</sup> 9. La norme peut être consultée ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch. Elle peut aussi être consultée sur le site Internet de l’Organisation internationale de normalisation (www.iso.org).
+[^29a-2]: ISO/IEC 8859-15, 1999, Technologies de l´information – Jeux de caractères graphiques codés sur un seul octet - Partie 15: Alphabet latin n<sup>o</sup> 9. La norme peut être consultée ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](https://www.snv.ch). Elle peut aussi être consultée sur le site Internet de l’Organisation internationale de normalisation ([www.iso.org](https://www.iso.org)).
 
 #### Art. 30
 
@@ -892,33 +901,34 @@ L’inscription au registre du commerce d’une société anonyme mentionne:
 - m. en cas d’émission de bons de jouissance, leur nombre et les droits qui y sont attachés;
 - n. les membres du conseil d’administration;
 - o. les personnes habilitées à représenter la société;
-- p. le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire, ni à un contrôle restreint, avec indication de la date de la déclaration du conseil d’administration visée à l’art. 62, al. 2;
+- p.[^45-3] le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire ni à un contrôle restreint, avec indication de la date du début de l’exercice annuel à partir duquel la renonciation est valable (art. 62, al. 2);
 - q. lorsque la société procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - r. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- s.[^45-3] la forme des communications de la société aux actionnaires prévue par les statuts;
-- t.[^45-4] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^45-5];
-- u.[^45-6] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
+- s.[^45-4] la forme des communications de la société aux actionnaires prévue par les statuts;
+- t.[^45-5] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^45-6];
+- u.[^45-7] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
 
 <sup>2</sup>
 
-En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, les faits suivants doivent également être inscrits:[^45-7]
+En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, les faits suivants doivent également être inscrits:[^45-8]
 
 - a. l’apport en nature avec indication de la date du contrat, de l’objet de l’apport et des actions émises en échange;
-- b.[^45-8] …
+- b.[^45-9] …
 - c. la compensation de créance avec indication du montant de la créance et avec indication des actions émises en échange;
 - d. le contenu et la valeur des avantages particuliers, avec un renvoi aux statuts pour les détails.
 
-<sup>3</sup> …[^45-9]
+<sup>3</sup> …[^45-10]
 
 [^45-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-4]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^45-5]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^45-6]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-7]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-8]: Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-9]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^45-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-5]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^45-6]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^45-7]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-8]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-9]: Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-10]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 2 Monnaie du capital-actions
 
@@ -1101,7 +1111,7 @@ L’inscription au registre du commerce mentionne:
 - a. la date de la modification des statuts;
 - b. le fait que la clause relative au capital conditionnel est supprimée ou modifiée.
 
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)). L’erratum des let. a et b du 10 juil. 2024 ne concerne que le texte italien ([RO 2024 349](https://fedlex.data.admin.ch/eli/oc/2024/349)).
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 5 Libération ultérieure des apports
 
@@ -1137,7 +1147,7 @@ La réquisition d’inscription au registre du commerce d’une libération ult�
 
 L’acte authentique relatif à la libération ultérieure des apports doit contenir les indications suivantes:
 
-- a. la constatation, par le conseil d’administration, que les apports effectués répondent aux conditions fixées par la loi, par les statuts et par la décision de l’assemblée générale;
+- a.[^54-2] la constatation, que les apports effectués répondent aux conditions fixées par la loi, par les statuts et par la décision du conseil d’administration;
 - b. le cas échéant, la décision du conseil d’administration relative à l’introduction des dispositions statutaires nécessaires en matière d’apports en nature, de compensation de créance et de conversion de fonds propres librement disponibles;
 - c. la décision du conseil d’administration relative à la modification des statuts quant au montant des apports effectués;
 - d. la mention de toutes les pièces justificatives et la confirmation, par l’officier public, qu’elles lui ont été présentées, à lui et au conseil d’administration;
@@ -1154,6 +1164,7 @@ L’inscription au registre du commerce mentionne:
 <sup>4</sup> En cas d’apport en nature ou de compensation de créance, les art. 43, al. 3, et 45, al. 2, s’appliquent par analogie. Si la libération ultérieure des apports a lieu par conversion de fonds propres librement disponibles, l’inscription doit le mentionner.
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^54-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ### Section 6 Réduction du capital-actions
 
@@ -1336,7 +1347,7 @@ Les dispositions de la présente ordonnance concernant le capital-actions s’ap
 
 #### Art. 62
 
-**Renonciation au contrôle restreint**
+**Renonciation au contrôle restreint**[^62-1]
 
 <sup>1</sup>
 
@@ -1346,13 +1357,32 @@ Toute société anonyme qui ne procède pas à un contrôle ordinaire ni à un c
 - b. son effectif ne dépasse pas dix emplois à plein temps en moyenne annuelle;
 - c. l’ensemble des actionnaires ont consenti à renoncer au contrôle restreint.
 
-<sup>2</sup> La déclaration doit être signée par au moins un membre du conseil d’administration. Une copie des documents actuels déterminants, tels que les comptes de pertes et profits, les bilans, les rapports annuels, les déclarations de renonciation des actionnaires et le procès-verbal de l’assemblée générale, lui est jointe. Ces documents ne sont pas soumis à la publicité du registre du commerce prévue aux art. 10 à 12 et sont archivés séparément.
+<sup>2</sup>
+
+La déclaration doit préciser la date du début de l’exercice annuel à partir duquel la renonciation est valable et être signée par au moins un membre du conseil d’administration. Les documents suivants, ou leur copie, doivent être joints à la déclaration:
+
+- a. les comptes annuels du dernier exercice écoulé, approuvés par l’assemblée générale;
+- b. le procès-verbal relatif à l’approbation des comptes annuels, ou un extrait de celui-ci;
+- c. le cas échéant, le rapport de révision portant sur le dernier exercice écoulé, et
+- d. les déclarations de renonciation des actionnaires ou le procès-verbal de l’assemblée générale.
 
 <sup>3</sup> La déclaration peut être remise dès la fondation de la société.
 
-<sup>4</sup> L’office du registre du commerce peut exiger un renouvellement de la déclaration.
+<sup>4</sup> Si nécessaire, le conseil d’administration adapte les statuts et requiert la radiation ou l’inscription au registre du commerce de l’organe de révision.
 
-<sup>5</sup> Si nécessaire, le conseil d’administration adapte les statuts et requiert la radiation ou l’inscription au registre du commerce de l’organe de révision.
+<sup>5</sup>
+
+L’office du registre du commerce somme la société de renouveler la déclaration de renonciation ou de désigner un organe de révision:
+
+- a. lorsqu’il reçoit des autorités fiscales cantonales la communication qu’une société n’a pas déposé de comptes annuels (art. 112, al. 4, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct [LIFD][^62-2]), ou
+- b. lorsqu’il existe des circonstances qui donnent à penser que les conditions pour renoncer à un contrôle restreint ne sont plus remplies.
+
+<sup>6</sup> Si la société ne renouvelle pas sa déclaration de renonciation ni ne requiert l’inscription d’un organe de révision, l’office du registre du commerce transmet l’affaire au tribunal (art. 939 CO).
+
+<sup>7</sup> Si, suite à une sommation au sens de l’al. 5, let. a, la société produit les comptes annuels conformément à l’al. 2, let. a, l’office du registre du commerce les transmet aux autorités fiscales (art. 112, al. 1, LIFD).
+
+[^62-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^62-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
 ### Section 10 Dissolution et radiation
 
@@ -1425,6 +1455,26 @@ L’inscription au registre du commerce mentionne:
 - a. le fait que la société est radiée;
 - b. le motif de la radiation.
 
+### Section 11 Transfert d’actions de sociétés surendettées sans activité commerciale ni actifs réalisables
+
+[^tit3-chap3-sec11-1]
+
+[^tit3-chap3-sec11-1]: Introduite par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+
+#### Art. 65a
+
+<sup>1</sup>
+
+Dans le cadre d’une réquisition, l’office du registre du commerce somme la société de lui remettre une copie des comptes annuels signés du dernier exercice écoulé et, le cas échéant, du rapport de révision s’il a un soupçon fondé de transfert d’actions nul (art. 684*a* CO), notamment:
+
+- a. si plusieurs faits inscrits, notamment le but, le siège, la raison sociale et les membres du conseil d’administration, ont simultanément ou successivement été modifiés;
+- b. si la société a le même domicile qu’une société ayant fait l’objet d’un refus d’inscription sur la base de l’art. 684*a* CO;
+- c. si les personnes qui transfèrent ou acquièrent des actions ont déjà été parties à un transfert ayant donné lieu à un refus d’inscription sur la base de l’art. 684*a* CO;
+
+<sup>2</sup> À cet effet, l’office du registre du commerce fixe un délai à la société et l’informe des dispositions applicables et des conséquences juridiques en cas de non-exécution. L’art. 152*a* s’applique.
+
+<sup>3</sup> Si, sur la base des documents remis, l’office du registre du commerce constate que la société est surendettée et qu’elle n’a plus d’activité commerciale ni d’actifs réalisables, il refuse l’inscription.
+
 ### Chapitre 4 Société en commandite par actions
 
 #### Art. 66
@@ -1496,22 +1546,23 @@ L’inscription au registre du commerce d’une société en commandite par acti
 - n. les membres de l’administration avec la mention de leur qualité d’associés indéfiniment responsables;
 - o. les personnes habilitées à représenter la société;
 - p. les membres de l’organe de contrôle;
-- q. le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire, ni à un contrôle restreint, avec la date de la déclaration de renonciation de l’administration prévue à l’art. 62, al. 2;
+- q.[^68-3] le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire ni à un contrôle restreint, avec indication de la date du début de l’exercice annuel à partir duquel la renonciation est valable (art. 62, al. 2);
 - r. lorsque la société procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - s. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- t.[^68-3] la forme des communications de la société aux associés prévue par les statuts;
-- u.[^68-4] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^68-5];
-- v.[^68-6] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
+- t.[^68-4] la forme des communications de la société aux associés prévue par les statuts;
+- u.[^68-5] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^68-6];
+- v.[^68-7] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
 
-<sup>2</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2, s’applique par analogie.[^68-7]
+<sup>2</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2, s’applique par analogie.[^68-8]
 
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^68-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-4]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^68-5]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^68-6]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-7]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^68-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-5]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^68-6]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^68-7]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-8]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 69
 
@@ -1617,18 +1668,19 @@ L’inscription au registre du commerce d’une société à responsabilité lim
 - o. en cas d’émission de bons de jouissance, leur nombre et les droits qui y sont attachés;
 - p. les gérants;
 - q. les personnes habilitées à représenter la société;
-- r. le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire, ni à un contrôle restreint et la date de la déclaration des gérants prévue à l’art. 62, al. 2;
+- r.[^73-2] le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire ni à un contrôle restreint, avec indication de la date du début de l’exercice annuel à partir duquel la renonciation est valable (art. 62, al. 2);
 - s. lorsque la société procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - t. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- u.[^73-2] la forme des communications de la société aux associés prévue par les statuts;
-- v.[^73-3] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
+- u.[^73-3] la forme des communications de la société aux associés prévue par les statuts;
+- v.[^73-4] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
 
-<sup>2</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2, s’applique par analogie.[^73-4]
+<sup>2</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2, s’applique par analogie.[^73-5]
 
 [^73-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-3]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^73-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-4]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-5]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 2 Augmentation du capital social
 
@@ -1745,15 +1797,15 @@ La réquisition est accompagnée:
 
 <sup>3</sup> L’acquéreur ne peut être inscrit au registre du commerce que s’il est établi sans discontinuité que la part sociale a été transférée de l’associé inscrit à l’acquéreur.
 
-### Section 5 Monnaie du capital social, révision, organe de révision, dissolution et radiation
+### Section 5 Monnaie du capital social, révision, dissolution, radiation et transfert de parts sociales de sociétés surendettées sans activité commerciale ni actifs réalisables
 
 [^tit3-chap5-sec5-1]
 
-[^tit3-chap5-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap5-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 #### Art. 83
 
-La monnaie dans laquelle le capital social est fixé, la révision, l’organe de révision, la dissolution, la révocation de la dissolution et la radiation de la société à responsabilité limitée sont régis par les dispositions relatives à la société anonyme, qui s’appliquent par analogie.
+La monnaie dans laquelle le capital social est fixé, la révision, l’organe de révision, la dissolution, la révocation de la dissolution, la radiation de la société à responsabilité limitée et le transfert de parts sociales de sociétés surendettées sans activité commerciale ni actifs réalisables sont régis par les dispositions relatives à la société anonyme, qui s’appliquent par analogie.
 
 ### Chapitre 6 Société coopérative
 
@@ -1837,15 +1889,16 @@ L’inscription au registre du commerce d’une société coopérative mentionne
 - j. en cas de responsabilité personnelle des associés ou d’obligations d’effectuer des versements supplémentaires, un renvoi aux statuts pour les détails;
 - k. les administrateurs;
 - l. les personnes habilitées à représenter la société;
-- m. le cas échéant, le fait que la société coopérative ne procède ni à un contrôle ordinaire, ni à un contrôle restreint et la date de la déclaration de l’administration prévue par l’art. 62, al. 2;
+- m.[^87-1] le cas échéant, le fait que la société coopérative ne procède ni à un contrôle ordinaire ni à un contrôle restreint, avec indication de la date du début de l’exercice annuel à partir duquel la renonciation est valable (art. 62, al. 2);
 - n. lorsque la société coopérative procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - o. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- p.[^87-1] la forme des communications de la société aux associés prévue dans les statuts.
+- p.[^87-2] la forme des communications de la société aux associés prévue dans les statuts.
 
-<sup>2</sup> En cas d’apport en nature, l’art. 45, al. 2, let. a, s’applique par analogie.[^87-2]
+<sup>2</sup> En cas d’apport en nature, l’art. 45, al. 2, let. a, s’applique par analogie.[^87-3]
 
-[^87-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^87-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^87-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^87-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 88
 
@@ -1944,13 +1997,20 @@ L’inscription au registre du commerce d’une association mentionne:
 - h. ses ressources telles que les cotisations des membres, le rendement de la fortune de l’association ou de son activité et les dons;
 - i. en cas de responsabilité personnelle des membres ou d’obligation d’effectuer des versements supplémentaires, un renvoi aux statuts pour les détails;
 - j.[^92-1] le cas échéant, le fait qu’elle n’est pas soumise à l’obligation d’inscription au sens de l’art. 61, al. 2, CC[^92-2] et qu’elle n’est pas représentée par une personne domiciliée en Suisse, avec indication de la date de la déclaration prévue à l’art. 90*a*, al. 4;
-- k.[^92-3] pour les associations visées à l’art. 90, al. 1, let. a et b, les membres de la direction et les personnes habilitées à représenter l’association; pour les autres associations, au moins un membre de la direction et au moins une personne autorisée à représenter l’association et ayant son domicile en Suisse;
+- k.[^92-3]
+
+  les personnes suivantes:
+
+  - 1\. pour les associations visées à l’art. 90, al. 1, let. a et b: les membres de la direction et les personnes habilitées à représenter l’association,
+  - 2\. pour les associations visées à l’art. 90, al. 1, let. c: au moins un membre de la direction et au moins une personne autorisée à représenter l’association et ayant son domicile en Suisse,
+  - 3\. pour les autres associations: au moins un membre de la direction et au moins une personne autorisée à représenter l’association;
+
 - l.[^92-4] …
 - m. lorsque l’association procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision.
 
 [^92-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^92-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^92-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^92-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^92-4]: Abrogée par l’annexe ch. 2 de l’O du 31 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 93
@@ -1999,7 +2059,7 @@ L’inscription au registre du commerce d’une fondation mentionne:
 - d. sa forme juridique;
 - e.[^95-1]
 
-  l’une des dates ci-après :
+  l’une des dates ci-après:
 
   - 1\. la date de l’acte de fondation,
   - 2\. la date de la disposition pour cause de mort,
@@ -2011,7 +2071,7 @@ L’inscription au registre du commerce d’une fondation mentionne:
 - i. tous les membres de l’organe suprême;
 - j. les personnes habilitées à représenter la fondation;
 - k.[^95-3] lorsque la fondation est soumise à une surveillance, l’autorité de surveillance de la fondation, dès le début de la surveillance;
-- l.[^95-4] le cas échéant, le fait que la fondation ne procède ni à un contrôle ordinaire, ni à un contrôle restreint et la date d’une éventuelle dispense octroyée par l’autorité de surveillance;
+- l.[^95-4] le cas échéant, le fait que la fondation ne procède ni à un contrôle ordinaire ni à un contrôle restreint, avec indication de la date du début de l’exercice annuel à partir duquel la dispense est valable;
 - m. lorsque la fondation procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - n.[^95-5] si la fondation sert à la prévoyance professionnelle: l’autorité de surveillance prévue par l’art. 61 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^95-6];
 - o.[^95-7] le cas échéant, le fait qu’il s’agit d’une fondation ecclésiastique ou d’une fondation de famille.
@@ -2021,7 +2081,7 @@ L’inscription au registre du commerce d’une fondation mentionne:
 [^95-1]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^95-2]: Abrogée par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^95-3]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^95-4]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^95-4]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^95-5]: Introduite par l’art. 24 de l’O des 10 et 22 juin 2011 sur la surveillance dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3425](https://fedlex.data.admin.ch/eli/oc/2011/460)).
 [^95-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^95-7]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
@@ -3076,11 +3136,23 @@ Lorsque l’entité juridique n’obtempère pas à la sommation dans le délai 
 
 [^153a153c-1]: Introduits par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Abrogés par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
-#### Art. 154 à 156
+#### Art. 154
 
-[^154156-1]
+**Fonction incompatible avec une interdiction d’exercer une activité**[^154-1]
 
-[^154156-1]: Abrogés par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+<sup>1</sup> En cas d’inscriptions incompatibles avec l’interdiction d’exercer une activité, l’office du registre du commerce somme l’entité juridique de requérir l’inscription des modifications nécessaires pour mettre fin à l’incompatibilité (art. 928*a*, al. 2<sup>quater</sup>, CO).
+
+<sup>2</sup> Si l’entité ne donne pas suite à la sommation, l’office du registre du commerce radie d’office les fonctions incompatibles avec l’interdiction d’exercer une activité et le mode de représentation de la personne concernée.
+
+<sup>3</sup> Les art. 152*a* et 153 s’appliquent.
+
+[^154-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+
+#### Art. 155 à 156
+
+[^155156-1]
+
+[^155156-1]: Abrogés par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 157
 
@@ -3253,7 +3325,7 @@ L’inscription au registre du commerce mentionne:
 - c. le liquidateur;
 - d. la radiation des pouvoirs de représentation des personnes qui étaient inscrites au registre du commerce et autorisées à représenter l’entité juridique.
 
-<sup>4</sup> Une fois la liquidation terminée, le liquidateur requiert la radiation de l'entité juridique.
+<sup>4</sup> Une fois la liquidation terminée, le liquidateur requiert la radiation de l’entité juridique.
 
 <sup>5</sup> L’inscription au registre du commerce mentionne la radiation et son motif.
 
@@ -3381,11 +3453,12 @@ Dans le but de mettre en œuvre le nouveau droit relatif à l’organe de révis
 
 #### Art. 171
 
-- [tab] Toutes les directives, circulaires et communications du Département fédéral de justice et police et de l’OFRC relatives à l’ordonnance du 7 juin 1937 sur le registre du commerce[^171-1] sont abrogées, excepté:
+Toutes les directives, circulaires et communications du Département fédéral de justice et police et de l’OFRC relatives à l’ordonnance du 7 juin 1937 sur le registre du commerce[^171-1] sont abrogées, excepté:
+
 - [tab] a. et b.[^171-2] …
 - c. la directive de l’OFRC du 13 janvier 1998 à l’attention des préposés du registre du commerce concernant l’acquisition d’immeubles par des personnes à l’étranger;
 - d. la communication de l’OFRC du 15 août 2001 à l’attention des préposés du registre du commerce concernant les apports en nature et les reprises de biens;
-- e. la directive de l’OFRC du 12 octobre 2007 à l’attention des autorités du registre du commerce relative à l’inscription des contrôles des finances des pouvoirs publics au registre du commerce .
+- e. la directive de l’OFRC du 12 octobre 2007 à l’attention des autorités du registre du commerce relative à l’inscription des contrôles des finances des pouvoirs publics au registre du commerce.
 
 [^171-1]: [[RO 53 573](https://fedlex.data.admin.ch/eli/oc/53/577_573_593)]
 [^171-2]: Abrogées par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
@@ -3538,7 +3611,7 @@ Annexe 2[^t-2]
 
 [^t-2]: Introduite par le ch. II de l’O du 18 mai 2016 ([RO 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)). Mise à jour par le ch. II al. 1 de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
-### Deutsch
+Deutsch
 
 Aktiengesellschaft AG
 
@@ -3552,7 +3625,7 @@ Kommanditgesellschaft KmG
 
 Kommanditaktiengesellschaft KmAG
 
-### Français
+Français
 
 Société anonyme SA
 
@@ -3566,7 +3639,7 @@ Société en commandite SCm
 
 Société en commandite par actions SCmA
 
-### Italiano
+Italiano
 
 Società anonima SA
 
@@ -3580,7 +3653,7 @@ Società in accomandita SAc
 
 Società in accomandita per azioni SAcA
 
-### Rumantsch
+Rumantsch
 
 Societad anonima SA
 

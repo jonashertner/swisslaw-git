@@ -4,11 +4,11 @@ title: Handelsregisterverordnung vom 17. Oktober 2007 (HRegV)
 short: HRegV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: de
-version: 2024-07-10
+version: 2025-01-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240710/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240710-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240710/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240710/de"
 
 (HRegV)
 
-vom 17. Oktober 2007 (Stand am 10. Juli 2024)
+vom 17. Oktober 2007 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -181,13 +181,14 @@ Das Hauptregister enthält für jede Rechtseinheit folgende Angaben:
 
 Nicht der Öffentlichkeit des Handelsregisters nach Artikel 936 OR unterstehen:
 
-- a. die AHV-Nummer[^10-2];
+- a. die AHV-Nummer;
 - b. die mit der Eintragung zusammenhängende Korrespondenz;
 - c. Kopien von Ausweisdokumenten;
-- d. Kopien der Unterlagen nach Artikel 62.
+- d. Unterlagen nach Artikel 62 Absatz 2;
+- e. Meldungen und Unterlagen, die im Rahmen der Prüfung von Tätigkeitsverboten nach Artikel 928*a* Absätze 2<sup>bis</sup>–2<sup>quater</sup> OR erstattet beziehungsweise übermittelt werden;
+- f. Unterlagen nach Artikel 65*a* Absatz 1.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^10-2]: Ausdruck gemäss Anhang Ziff. II 9 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 #### Art. 11
 
@@ -215,7 +216,7 @@ Auf Verlangen gewähren die Handelsregisterämter Einsicht in das Hauptregister,
 [^11-1]: Aufgehoben durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^11-2]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^11-3]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
-[^11-4]: Fassung gemäss Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^11-4]: Eingefügt durch Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 12
 
@@ -246,7 +247,7 @@ Das Handelsregisteramt bringt auf beglaubigten Kopien auf Papier den Hinweis an:
 
 <sup>3</sup> Für die Erstellung elektronischer Beglaubigungen sowie für die Erstellung beglaubigter Papierausdrucke elektronischer Dokumente ist die EÖBV anwendbar.
 
-[^12a-1]: Eingefügt durch Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^12a-1]: Fassung gemäss Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^12a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 ### 6. Kapitel: Elektronischer Geschäftsverkehr
@@ -331,7 +332,11 @@ Das EJPD bestimmt:
 
 <sup>1</sup> Das EHRA ist verantwortlich für die Erteilung der Rechte, Daten in der zentralen Datenbank Personen zu erfassen und zu bearbeiten, den Datenschutz und die Datensicherheit dieser Datenbank.
 
+<sup>1bis</sup> Es sorgt dafür, dass bei Einzelabfragen im Internet insbesondere mit Personennamen oder nichtsprechenden Personennummern der zentralen Datenbank Personen gesucht werden kann.[^14a-1]
+
 <sup>2</sup> Die Handelsregisterämter sind insbesondere verantwortlich für die fachlich qualifizierte, korrekte Dateneingabe und -bearbeitung und sorgen für einen Abgleich der im kantonalen Register geführten Daten mit denjenigen von anderen öffentlichen Registern.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ## 2. Titel: Eintragungsverfahren
 
@@ -415,9 +420,13 @@ Folgende Eintragungen können zudem die betroffenen Personen selbst anmelden:
 
 <sup>3</sup> Enthält das Dispositiv des Urteils oder der Verfügung unklare oder unvollständige Anordnungen über die einzutragenden Tatsachen, so muss das Handelsregisteramt die anordnende Stelle um schriftliche Erläuterung ersuchen.
 
+<sup>3bis</sup> Ist das im Behördenauszug 3 (Art. 39 des Strafregistergesetzes vom 17. Juni 2016[^19-2]) ersichtliche Tätigkeitsverbot unklar, kann das EHRA das Gericht im Rahmen der Prüfung nach Artikel 928*a* Absatz 2<sup>bis</sup> OR um schriftliche Erläuterungen ersuchen.[^19-3]
+
 <sup>4</sup> Die Genehmigung der Eintragungen durch das EHRA bleibt vorbehalten.
 
 [^19-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^19-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-3]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ### 2. Abschnitt: Belege
 
@@ -621,7 +630,7 @@ Die Eintragung in das Handelsregister erfolgt in der Sprache der Anmeldung gemä
 Die Eintragungen in das Handelsregister werden nach dem Zeichensatz der ISO-Norm 8859-15[^29a-2] erfasst.
 
 [^29a-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^29a-2]: ISO/IEC 8859-15, 1999, Informationstechnik - 8-Bit-Einzelbyte-codierte Schriftzeichensätze - Teil 15: Lateinisches Alphabet Nr. 9. Die aufgeführte Norm kann eingesehen und bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch. Sie ist auch im Internet auf der Homepage der Internationalen Organisation für Normung (www.iso.org) abrufbar.
+[^29a-2]: ISO/IEC 8859-15, 1999, Informationstechnik - 8-Bit-Einzelbyte-codierte Schriftzeichensätze - Teil 15: Lateinisches Alphabet Nr. 9. Die aufgeführte Norm kann eingesehen und bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch). Sie ist auch im Internet auf der Homepage der Internationalen Organisation für Normung ([www.iso.org](https://www.iso.org)) abrufbar.
 
 #### Art. 30
 
@@ -896,33 +905,34 @@ Bei Aktiengesellschaften müssen ins Handelsregister eingetragen werden:
 - m. falls Genussscheine ausgegeben werden: deren Anzahl und die damit verbundenen Rechte;
 - n. die Mitglieder des Verwaltungsrates;
 - o. die zur Vertretung berechtigten Personen;
-- p. falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum der Erklärung des Verwaltungsrates gemäss Artikel 62 Absatz 2;
+- p.[^45-3] falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum des Beginns des Geschäftsjahres, ab welchem der Verzicht gilt (Art. 62 Abs. 2);
 - q. falls die Gesellschaft eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - r. das gesetzliche Publikationsorgan sowie gegebenenfalls weitere Publikationsorgane;
-- s.[^45-3] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Aktionärinnen und Aktionäre;
-- t.[^45-4] bei Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^45-5] ausgestaltet sind;
-- u.[^45-6] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
+- s.[^45-4] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Aktionärinnen und Aktionäre;
+- t.[^45-5] bei Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^45-6] ausgestaltet sind;
+- u.[^45-7] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
 
 <sup>2</sup>
 
-Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so sind zusätzlich folgende Tatsachen einzutragen:[^45-7]
+Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so sind zusätzlich folgende Tatsachen einzutragen:[^45-8]
 
 - a. die Sacheinlage unter Angabe des Datums des Vertrags, des Gegenstands und der dafür ausgegebenen Aktien;
-- b.[^45-8] …
+- b.[^45-9] …
 - c. die Verrechnung unter Angabe des Betrages der zur Verrechnung gebrachten Forderung sowie die dafür ausgegebenen Aktien;
 - d. der Inhalt und der Wert der besonderen Vorteile gemäss näherer Umschreibung in den Statuten.
 
-<sup>3</sup> …[^45-9]
+<sup>3</sup> …[^45-10]
 
 [^45-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^45-5]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^45-6]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-7]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-8]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^45-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-5]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^45-6]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^45-7]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-8]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-9]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-10]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 2. Abschnitt: Währung des Aktienkapitals
 
@@ -1104,7 +1114,7 @@ Ins Handelsregister müssen eingetragen werden:
 - a. das Datum der Änderung der Statuten;
 - b. ein Hinweis, dass die Statutenbestimmung über das bedingte Kapital aufgehoben oder angepasst wurde.
 
-[^53-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)). Die Berichtigung der Bst. a und b vom 10. Juli 2024 betrifft nur den italienischen Text ([AS 2024 349](https://fedlex.data.admin.ch/eli/oc/2024/349)).
+[^53-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 5. Abschnitt: Nachträgliche Leistung von Einlagen
 
@@ -1273,7 +1283,7 @@ Werden die auf das Aktienkapital geleisteten Einlagen herabgesetzt, so gelten di
 
 [^tit3-chap3-sec7-1]
 
-[^tit3-chap3-sec7-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap3-sec7-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 59a
 
@@ -1339,7 +1349,7 @@ Für die Währung, die Erhöhung und die Herabsetzung des Partizipationskapitals
 
 #### Art. 62
 
-**Verzicht auf eine eingeschränkte Revision**
+**Verzicht auf eine eingeschränkte Revision**[^62-1]
 
 <sup>1</sup>
 
@@ -1349,13 +1359,32 @@ Aktiengesellschaften, die weder eine ordentliche noch eine eingeschränkte Revis
 - b. die Gesellschaft nicht mehr als zehn Vollzeitstellen im Jahresdurchschnitt hat;
 - c. sämtliche Aktionärinnen und Aktionäre auf eine eingeschränkte Revision verzichtet haben.
 
-<sup>2</sup> Diese Erklärung muss von mindestens einem Mitglied des Verwaltungsrats unterzeichnet sein. Kopien der massgeblichen aktuellen Unterlagen wie Erfolgsrechnungen, Bilanzen, Jahresberichte, Verzichtserklärungen der Aktionärinnen und Aktionäre oder das Protokoll der Generalversammlung müssen der Erklärung beigelegt werden. Diese Unterlagen unterstehen nicht der Öffentlichkeit des Handelsregisters nach den Artikeln 10–12 und werden gesondert aufbewahrt.
+<sup>2</sup>
+
+Die Erklärung muss das Datum des Beginns des Geschäftsjahres enthalten, ab welchem der Verzicht gilt und von mindestens einem Mitglied des Verwaltungsrats unterzeichnet sein. Folgende Dokumente oder Kopien davon müssen der Erklärung beigelegt werden:
+
+- a. die von der Generalversammlung genehmigte Jahresrechnung des letzten abgelaufenen Geschäftsjahres;
+- b. das Protokoll betreffend die Genehmigung der Jahresrechnung oder ein Auszug davon;
+- c. gegebenenfalls der Revisionsbericht betreffend das letzte abgelaufene Geschäftsjahr; und
+- d. die Verzichtserklärungen der Aktionärinnen und Aktionäre oder das massgebliche Protokoll der Generalversammlung.
 
 <sup>3</sup> Die Erklärung kann bereits bei der Gründung abgegeben werden.
 
-<sup>4</sup> Das Handelsregisteramt kann eine Erneuerung der Erklärung verlangen.
+<sup>4</sup> Soweit erforderlich, passt der Verwaltungsrat die Statuten an und meldet dem Handelsregisteramt die Löschung oder die Eintragung der Revisionsstelle an.
 
-<sup>5</sup> Soweit erforderlich, passt der Verwaltungsrat die Statuten an und meldet dem Handelsregisteramt die Löschung oder die Eintragung der Revisionsstelle an.
+<sup>5</sup>
+
+Das Handelsregisteramt fordert die Gesellschaft auf, die Verzichtserklärung zu erneuern oder eine Revisionsstelle zu bezeichnen, wenn:
+
+- a. es von den kantonalen Steuerbehörden die Meldung erhält, dass eine Gesellschaft keine Jahresrechnung eingereicht hat (Art. 112 Abs. 4 des Bundesgesetzes vom 14. Dezember 1990[^62-2] über die direkte Bundessteuer [DBG]); oder
+- b. Umstände vorliegen, die den Anschein erwecken, dass die Voraussetzungen für den Verzicht auf eine eingeschränkte Revision nicht mehr gegeben sind.
+
+<sup>6</sup> Wenn die Gesellschaft weder die Verzichtserklärung erneuert noch eine Revisionsstelle anmeldet, überweist das Handelsregisteramt die Angelegenheit dem Gericht (Art. 939 OR).
+
+<sup>7</sup> Reicht die Gesellschaft infolge einer Aufforderung gemäss Absatz 5 Buchstabe a die Jahresrechnung gemäss Absatz 2 Buchstabe a ein, so leitet das Handelsregisteramt diese an die Steuerbehörden weiter (Art. 112 Abs. 1 DBG).
+
+[^62-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^62-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
 ### 10. Abschnitt: Auflösung und Löschung
 
@@ -1433,6 +1462,28 @@ Im Handelsregister müssen eingetragen werden:
 - a. die Tatsache der Löschung;
 - b. der Löschungsgrund.
 
+### 11. Abschnitt: Übertragung der Aktien bei überschuldeten Gesellschaften ohne Geschäftstätigkeit und ohne verwertbare Aktiven
+
+[^tit3-chap3-sec11-1]
+
+[^tit3-chap3-sec11-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+
+#### Art. 65a
+
+<sup>1</sup>
+
+Bei einer Anmeldung fordert das Handelsregisteramt die Gesellschaft auf, ihm eine Kopie der unterzeichneten Jahresrechnung des letzten abgelaufenen Geschäftsjahres und gegebenenfalls des Revisionsberichts zukommen zu lassen, wenn es einen begründeten Verdacht auf eine nichtige Aktienübertragung (Art. 684*a* OR) hat, insbesondere wenn:
+
+- a. mehrere eingetragene Tatsachen, namentlich der Zweck, der Sitz, die Firma oder die Mitglieder des Verwaltungsrates, gleichzeitig oder sukzessive geändert wurden;
+- b. die Gesellschaft dasselbe Rechtsdomizil hat wie eine Gesellschaft, der die Eintragung gemäss Artikel 684*a* OR verweigert wurde;
+- c. Personen, die Aktien übertragen oder übernehmen, bereits an einer Übertragung beteiligt waren, die zu einer Verweigerung der Eintragung gemäss Artikel 684*a* OR geführt hat.
+
+<sup>2</sup> Das Handelsregisteramt setzt der Gesellschaft dafür eine Frist und informiert sie über die massgebenden Vorschriften und die Rechtsfolgen für den Fall, dass ihnen keine Folge geleistet wird. Artikel 152*a* findet Anwendung.
+
+<sup>3</sup> Stellt das Handelsregisteramt aufgrund der eingereichten Unterlagen fest, dass die Gesellschaft überschuldet ist und weder über eine Geschäftstätigkeit noch über verwertbare Aktiven verfügt, verweigert es die Eintragung.[^65a-1]
+
+[^65a-1]: Die Berichtigung vom 28. Mai 2024 betrifft nur den italienischen Text ([AS 2024 234](https://fedlex.data.admin.ch/eli/oc/2024/234)).
+
 ### 4. Kapitel: Kommanditaktiengesellschaft
 
 #### Art. 66
@@ -1506,22 +1557,23 @@ Bei Kommanditaktiengesellschaften müssen ins Handelsregister eingetragen werden
 - n. die Mitglieder der Verwaltung unter Angabe ihrer Eigenschaft als unbeschränkt haftende Gesellschafterinnen oder Gesellschafter;
 - o. die zur Vertretung berechtigten Personen;
 - p. die Mitglieder der Aufsichtstelle;
-- q. falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum der Erklärung der Verwaltung gemäss Artikel 62 Absatz 2;
+- q.[^68-3] falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum des Beginns des Geschäftsjahres, ab welchem der Verzicht gilt (Art. 62 Abs. 2);
 - r. falls die Gesellschaft eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - s. das gesetzliche Publikationsorgan sowie gegebenenfalls weitere Publikationsorgane;
-- t.[^68-3] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Gesellschafterinnen und Gesellschafter;
-- u.[^68-4] bei Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^68-5] ausgestaltet sind;
-- v.[^68-6] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
+- t.[^68-4] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Gesellschafterinnen und Gesellschafter;
+- u.[^68-5] bei Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^68-6] ausgestaltet sind;
+- v.[^68-7] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
 
-<sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^68-7]
+<sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^68-8]
 
 [^68-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^68-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^68-5]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^68-6]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-7]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^68-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-5]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^68-6]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^68-7]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-8]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 69
 
@@ -1629,18 +1681,19 @@ Bei Gesellschaften mit beschränkter Haftung müssen ins Handelsregister eingetr
 - o. falls Genussscheine ausgegeben werden: deren Anzahl und die damit verbundenen Rechte;
 - p. die Geschäftsführerinnen und Geschäftsführer;
 - q. die zur Vertretung berechtigten Personen;
-- r. falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum der Erklärung der Geschäftsführung gemäss Artikel 62 Absatz 2;
+- r.[^73-2] falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum des Beginns des Geschäftsjahres, ab welchem der Verzicht gilt (Art. 62 Abs. 2);
 - s. falls die Gesellschaft eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - t. das gesetzliche Publikationsorgan sowie gegebenenfalls weitere Publikationsorgane;
-- u.[^73-2] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Gesellschafterinnen und Gesellschafter;
-- v.[^73-3] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
+- u.[^73-3] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Gesellschafterinnen und Gesellschafter;
+- v.[^73-4] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
 
-<sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^73-4]
+<sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^73-5]
 
 [^73-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-3]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^73-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-4]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-5]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 2. Abschnitt: Erhöhung des Stammkapitals
 
@@ -1759,15 +1812,15 @@ Dem Handelsregisteramt müssen eingereicht werden:
 
 <sup>3</sup> Die Erwerberin oder der Erwerber darf nur ins Handelsregister eingetragen werden, wenn lückenlos nachgewiesen wird, dass der Stammanteil von der eingetragenen Gesellschafterin oder vom eingetragenen Gesellschafter auf die Erwerberin oder den Erwerber übergegangen ist.
 
-### 5. Abschnitt: Währung des Stammkapitals, Revision, Revisionsstelle, Auflösung und Löschung
+### 5. Abschnitt: Währung des Stammkapitals, Revision, Auflösung und Löschung sowie Übertragung von Stammanteilen bei überschuldeten Gesellschaften ohne Geschäftstätigkeit und ohne verwertbare Aktiven
 
 [^tit3-chap5-sec5-1]
 
-[^tit3-chap5-sec5-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap5-sec5-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 #### Art. 83
 
-Für die Währung des Stammkapitals, für die Revision, für die Revisionsstelle, für die Auflösung, für den Widerruf der Auflösung und für die Löschung der Gesellschaft mit beschränkter Haftung gelten die Bestimmungen über die Aktiengesellschaft sinngemäss.
+Für die Währung des Stammkapitals, für die Revision, für die Revisionsstelle, für die Auflösung, für den Widerruf der Auflösung, für die Löschung der Gesellschaft mit beschränkter Haftung und für die Übertragung von Stammanteilen bei überschuldeten Gesellschaften ohne Geschäftstätigkeit und ohne verwertbare Aktiven gelten die Bestimmungen über die Aktiengesellschaft sinngemäss.
 
 ### 6. Kapitel: Genossenschaft
 
@@ -1852,15 +1905,16 @@ Bei Genossenschaften müssen ins Handelsregister eingetragen werden:
 - j. im Fall einer persönlichen Haftung oder einer Nachschusspflicht der Genossenschafterinnen und Genossenschafter: ein Verweis auf die nähere Umschreibung in den Statuten;
 - k. die Mitglieder der Verwaltung;
 - l. die zur Vertretung berechtigten Personen;
-- m. falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum der Erklärung der Verwaltung gemäss Artikel 62 Absatz 2;
+- m.[^87-1] falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum des Beginns des Geschäftsjahres, ab welchem der Verzicht gilt (Art. 62 Abs. 2);
 - n. falls die Gesellschaft eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - o. das gesetzliche Publikationsorgan sowie gegebenenfalls weitere Publikationsorgane;
-- p.[^87-1] die in den Statuten vorgesehene Form der Mitteilungen der Genossenschaft an ihre Genossenschafterinnen und Genossenschafter.
+- p.[^87-2] die in den Statuten vorgesehene Form der Mitteilungen der Genossenschaft an ihre Genossenschafterinnen und Genossenschafter.
 
-<sup>2</sup> Bestehen anlässlich der Gründung Sacheinlagen, so gilt Artikel 45 Absatz 2 Buchstabe a sinngemäss.[^87-2]
+<sup>2</sup> Bestehen anlässlich der Gründung Sacheinlagen, so gilt Artikel 45 Absatz 2 Buchstabe a sinngemäss.[^87-3]
 
-[^87-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^87-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^87-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^87-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 88
 
@@ -1959,13 +2013,20 @@ Bei Vereinen müssen ins Handelsregister eingetragen werden:
 - h. die Mittel, wie Mitgliederbeiträge, Erträge aus dem Vereinsvermögen oder aus der Vereinstätigkeit und Schenkungen;
 - i. im Fall einer persönlichen Haftung oder einer Nachschusspflicht der Mitglieder des Vereins: ein Verweis auf die nähere Umschreibung in den Statuten;
 - j.[^92-1] falls der Verein der Pflicht zur Eintragung in das Handelsregister nach Artikel 61 Absatz 2 ZGB[^92-2] nicht untersteht und keine der zur Vertretung berechtigten Personen Wohnsitz in der Schweiz hat: ein Hinweis darauf sowie das Datum der Erklärung gemäss Artikel 90*a* Absatz 4;
-- k.[^92-3] bei Vereinen nach Artikel 90 Absatz 1 Buchstaben a und b: die Mitglieder des Vorstands und die zur Vertretung berechtigten Personen; bei anderen Vereinen mindestens ein Mitglied des Vorstands und mindestens eine zur Vertretung berechtigte Person mit Wohnsitz in der Schweiz;
+- k.[^92-3]
+
+  die nachstehenden Personen:
+
+  - 1\. bei Vereinen nach Artikel 90 Absatz 1 Buchstaben a und b: die Mitglieder des Vorstands und die zur Vertretung berechtigten Personen,
+  - 2\. bei Vereinen nach Artikel 90 Absatz 1 Buchstabe c: mindestens ein Mitglied des Vorstands und mindestens eine zur Vertretung berechtigte Person mit Wohnsitz in der Schweiz,
+  - 3\. bei anderen Vereinen: mindestens ein Mitglied des Vorstands und mindestens eine zur Vertretung berechtigte Person;
+
 - l.[^92-4] …
 - m. falls der Verein eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle.
 
 [^92-1]: Fassung gemäss Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^92-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^92-3]: Fassung gemäss Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^92-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^92-4]: Aufgehoben durch Anhang Ziff. 2 der V vom 31. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 93
@@ -2026,7 +2087,7 @@ Bei Stiftungen müssen ins Handelsregister eingetragen werden:
 - i. die Mitglieder des obersten Stiftungsorgans;
 - j. die zur Vertretung berechtigten Personen;
 - k.[^95-3] falls die Stiftung einer Aufsicht untersteht: die Stiftungsaufsichtsbehörde, sobald sie ihre Tätigkeit aufgenommen hat;
-- l.[^95-4] falls die Stiftung keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum einer allfälligen Befreiungsverfügung der Aufsichtsbehörde;
+- l.[^95-4] falls die Stiftung keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum des Beginns des Geschäftsjahres, ab welchem die Befreiung gilt;
 - m. falls die Stiftung eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - n.[^95-5] falls die Stiftung der Durchführung der beruflichen Vorsorge dient: die Aufsichtsbehörde gemäss Artikel 61 des Bundesgesetzes vom 25. Juni 1982[^95-6] über die berufliche Alters‑, Hinterlassenen- und Invalidenvorsorge;
 - o.[^95-7] falls es sich um eine kirchliche Stiftung oder eine Familienstiftung handelt: ein Hinweis darauf.
@@ -2036,7 +2097,7 @@ Bei Stiftungen müssen ins Handelsregister eingetragen werden:
 [^95-1]: Fassung gemäss Anhang 2 Ziff. II 2 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^95-2]: Aufgehoben durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^95-3]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^95-4]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^95-4]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^95-5]: Eingefügt durch Art. 24 der V vom 10. und 22. Juni 2011 über die Aufsicht in der beruflichen Vorsorge, in Kraft seit 1. Jan. 2012 ([AS 2011 3425](https://fedlex.data.admin.ch/eli/oc/2011/460)).
 [^95-6]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^95-7]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
@@ -3093,11 +3154,23 @@ Leistet die Rechtseinheit der Aufforderung innert Frist keine Folge, so erlässt
 
 [^153a153c-1]: Eingefügt durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
-#### Art. 154–156
+#### Art. 154
 
-[^154156-1]
+**Mit einem Tätigkeitsverbot unvereinbare Funktionen**[^154-1]
 
-[^154156-1]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+<sup>1</sup> Sind Einträge mit dem Tätigkeitsverbot unvereinbar, so fordert das Handelsregisteramt die Rechtseinheit auf, die erforderlichen Änderungen anzumelden, um die Unvereinbarkeit zu beenden (Art. 928*a* Abs. 2<sup>quater</sup> OR).
+
+<sup>2</sup> Kommt die Rechtseinheit der Aufforderung nicht nach, so löscht das Handelsregisteramt von Amtes wegen die mit dem Tätigkeitsverbot unvereinbaren Funktionen und die Art der Zeichnungsberechtigung der betroffenen Personen.
+
+<sup>3</sup> Die Artikel 152*a* und 153 finden Anwendung.
+
+[^154-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+
+#### Art. 155 und 156
+
+[^155156-1]
+
+[^155156-1]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 157
 
@@ -3143,7 +3216,10 @@ Im Zusammenhang mit Konkursverfahren meldet das Gericht oder die Behörde dem Ha
 
 <sup>3</sup> Wird eine Stiftung infolge Konkurs aufgehoben, so darf die Löschung erst vorgenommen werden, wenn die Aufsichtsbehörde bestätigt, dass sie kein Interesse mehr daran hat, dass die Eintragung aufrechterhalten bleibt.
 
+<sup>4</sup> …[^158-2]
+
 [^158-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^158-2]: [AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)
 
 #### Art. 159
 
@@ -3251,7 +3327,9 @@ Ins Handelsregister müssen eingetragen werden:
 Das Gericht meldet dem Handelsregisteramt die Bestätigung eines Nachlassvertrages mit Vermögensabtretung (Art. 308 SchKG[^161-1]) und reicht ihm folgende Belege ein:
 
 - a. eine Kopie des Nachlassvertrags;
-- b. das Dispositiv des Entscheides<sup>2</sup> Das Handelsregisteramt nimmt die Eintragung unverzüglich nach Eingang der Meldung vor.
+- b. das Dispositiv des Entscheides
+
+<sup>2</sup> Das Handelsregisteramt nimmt die Eintragung unverzüglich nach Eingang der Meldung vor.
 
 <sup>3</sup>
 
@@ -3392,7 +3470,7 @@ Das EHRA kann zur Durchsetzung der neuen Bestimmungen zur Revisionsstelle:
 
 Alle Weisungen, Kreisschreiben und Mitteilungen des Eidgenössischen Justiz- und Polizeidepartements und des EHRA, die gestützt auf die Handelsregisterverordnung vom 7. Juni 1937[^171-1] erlassen wurden, werden aufgehoben. Davon ausgenommen sind:
 
-- [tab] a.–b.[^171-2] …
+- [tab] a. und b.[^171-2] …
 - c. die Richtlinien des EHRA vom 13. Januar 1998 für die kantonalen Handelsregisterämter über den Erwerb von Grundstücken durch Personen im Ausland;
 - d. die Mitteilung des EHRA vom 15. August 2001 an die kantonalen Handelsregisterbehörden betreffend Sacheinlage und Sachübernahme;
 - e. die Weisung des EHRA vom 12. Oktober 2007 an die kantonalen Handelsregisterbehörden betreffend die Eintragung von Finanzkontrollen der öffentlichen Hand im Handelsregister.
