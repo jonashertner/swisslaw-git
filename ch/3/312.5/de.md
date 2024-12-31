@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Hilfe an Opfer von Straftaten 
 short: OHG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/232"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-03-23
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-232-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2008-232-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/de"
 
 (Opferhilfegesetz, OHG)
 
-vom 23. März 2007 (Stand am 1. Januar 2024)
+vom 23. März 2007 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 123 und 124 der Bundesverfassung[^ingress-1], nach Ein
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 7165](https://fedlex.data.admin.ch/eli/fga/2005/1167)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -94,7 +94,7 @@ Die Beratung, die Soforthilfe und die von den Beratungsstellen erbrachte länger
 
 <sup>3</sup> Die Genugtuung wird unabhängig von den Einnahmen der anspruchsberechtigten Person ausgerichtet.
 
-[^6-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^6-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^6-2]: Siehe Art. 49 (Koordination mit dem ELG)
 [^6-3]: Siehe Art. 49 (Koordination mit dem ELG)
 
@@ -160,7 +160,7 @@ Die Mitarbeiterinnen und Mitarbeiter der kantonalen Stellen oder Behörden, die 
 
 <sup>4</sup> Wer die Schweigepflicht verletzt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-[^11-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^11-2]: Fassung zweiter und dritter Satz gemäss Anhang 1 Ziff. II 10 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^11-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 15. Dez. 2017 (Kindesschutz), in Kraft seit 1. Jan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
@@ -252,7 +252,7 @@ Bei einer Straftat im Ausland haben Anspruch auf Hilfe nach diesem Kapitel:
 
 <sup>4</sup> Haushaltschaden und Betreuungsschaden werden nur berücksichtigt, wenn sie zu zusätzlichen Kosten oder zur Reduktion der Erwerbstätigkeit führen.
 
-[^19-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 20
 
@@ -267,11 +267,12 @@ Die Entschädigung deckt den Schaden:
 - a. ganz, wenn im Sinne von Artikel 6 Absätze 1 und 2 die anrechenbaren Einnahmen der anspruchsberechtigten Person den massgebenden Betrag für den allgemeinen Lebensbedarf nicht übersteigen;
 - b. anteilsmässig, wenn im Sinne von Artikel 6 Absätze 1 und 2 die anrechenbaren Einnahmen der anspruchsberechtigten Person zwischen dem einfachen und dem vierfachen massgebenden Betrag für den allgemeinen Lebensbedarf liegen.[^20-1]
 
-<sup>3</sup> Die Entschädigung beträgt höchstens 120 000 Franken; keine Entschädigung wird ausgerichtet, wenn sie weniger als 500 Franken betragen würde.
+<sup>3</sup> Die Entschädigung beträgt höchstens 130 000 Franken; keine Entschädigung wird ausgerichtet, wenn sie weniger als 500 Franken betragen würde.[^20-2]
 
 <sup>4</sup> Die Entschädigung kann in mehreren Teilzahlungen ausgerichtet werden.
 
 [^20-1]: Siehe Art. 49 (Koordination mit dem ELG)
+[^20-2]: Fassung gemäss Ziff. I der V vom 10. April 2024 über die Anpassung der Entschädigungs- und Genugtuungsbeträge des Opferhilfegesetzes an die Teuerung, in Kraft seit 1. Jan. 2025 ([AS 2024 163](https://fedlex.data.admin.ch/eli/oc/2024/163)).
 
 #### Art. 21
 
@@ -292,7 +293,7 @@ Die zuständige kantonale Behörde gewährt einen Vorschuss, wenn:
 
 <sup>2</sup> Der Anspruch auf Genugtuung ist nicht vererblich.
 
-[^22-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 23
 
@@ -304,10 +305,12 @@ Die zuständige kantonale Behörde gewährt einen Vorschuss, wenn:
 
 Sie beträgt höchstens:
 
-- a. 70 000 Franken für das Opfer;
-- b. 35 000 Franken für Angehörige.
+- a. 76 000 Franken für das Opfer;
+- b. 38 000 Franken für Angehörige.[^23-1]
 
 <sup>3</sup> Genugtuungsleistungen Dritter werden abgezogen.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 10. April 2024 über die Anpassung der Entschädigungs- und Genugtuungsbeträge des Opferhilfegesetzes an die Teuerung, in Kraft seit 1. Jan. 2025 ([AS 2024 163](https://fedlex.data.admin.ch/eli/oc/2024/163)).
 
 ### 3. Abschnitt: Gemeinsame Bestimmungen
 
@@ -332,8 +335,8 @@ Das Opfer kann bis zum vollendeten 25. Lebensjahr ein Gesuch stellen:
 
 <sup>3</sup> Haben das Opfer oder seine Angehörigen in einem Strafverfahren vor Ablauf der Fristen nach Absatz 1 oder 2 Zivilansprüche geltend gemacht, so können sie innert einem Jahr ab endgültigem Entscheid über die Zivilansprüche oder die Einstellung des Strafverfahrens ein Gesuch um Entschädigung und Genugtuung stellen.
 
-[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 26
 
@@ -429,7 +432,7 @@ Der Bundesrat sorgt dafür, dass Zweckmässigkeit, Wirksamkeit und Wirtschaftlic
 
 <sup>3</sup> Er kann Vorschriften zur Ausgestaltung der Kostenbeiträge für längerfristige Hilfe Dritter, der Entschädigung und der Genugtuung erlassen und insbesondere Pauschalen oder Tarife für die Genugtuung festsetzen. Er kann dabei von der Regelung im ELG[^45-1] abweichen, um der besonderen Situation des Opfers und seiner Angehörigen Rechnung zu tragen.
 
-[^45-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^45-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 46
 
@@ -437,7 +440,7 @@ Der Bundesrat sorgt dafür, dass Zweckmässigkeit, Wirksamkeit und Wirtschaftlic
 
 Das Opferhilfegesetz vom 4. Oktober 1991[^46-1] wird aufgehoben.
 
-[^46-1]: [[AS 1992 2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465), [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952)Ziff. III, [2002 2997](https://fedlex.data.admin.ch/eli/oc/2002/431), [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 20]
+[^46-1]: [[AS 1992 2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465); [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952)Ziff. III; [2002 2997](https://fedlex.data.admin.ch/eli/oc/2002/431); [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 20]
 
 #### Art. 47
 
@@ -462,7 +465,7 @@ Unabhängig davon, ob das neue ELG oder das neue OHG zuerst in Kraft tritt, laut
 
 …
 
-[^49-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^49-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^49-2]: Das ELG trat am 1. Jan. 2008 in Kraft.
 
 #### Art. 50

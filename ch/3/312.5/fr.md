@@ -4,22 +4,22 @@ title: "Loi fédérale du 23 mars 2007 sur l'aide aux victimes d'infractions (Lo
 short: LAVI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/232"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-03-23
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-232-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-232-20250101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur l’aide aux victimes d’infractions<sup>∗</sup>
+# Loi fédérale sur l’aide aux victimes d’infractions\*
 
 (Loi sur l’aide aux victimes, LAVI)[^t-1]
 
-du 23 mars 2007 (État le 1<sup>er</sup> janvier 2024)
+du 23 mars 2007 (État le 1<sup>er</sup> janvier 2025)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 123 et 124 de la Constitution[^ingress-1], vu le message du Conseil 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2005 6683](https://fedlex.data.admin.ch/eli/fga/2005/1167)
 
 ## Chapitre 1 Dispositions générales
@@ -96,7 +96,7 @@ Les conseils et l’aide immédiate, de même que l’aide à plus long terme qu
 
 <sup>3</sup> La réparation morale est accordée indépendamment des revenus de l’ayant droit.
 
-[^6-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^6-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^6-2]: Voir l’art. 49 (coordination avec la LPC)
 [^6-3]: Voir l’art. 49 (coordination avec la LPC)
 
@@ -162,7 +162,7 @@ Les collaborateurs des autorités et services cantonaux qui décident de l’oct
 
 <sup>4</sup> Quiconque viole son obligation de garder le secret est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^11-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^11-2]: Phrase introduite par l’annexe 1 ch. II 10 du CPP, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^11-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 15 déc. 2017 (Protection de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
@@ -254,7 +254,7 @@ En cas d’infraction commise à l’étranger, ont droit à une aide au sens du
 
 <sup>4</sup> Le préjudice lié à l’incapacité d’exercer une activité ménagère ou de prodiguer des soins aux proches, n’est pris en compte que s’il se traduit par des frais supplémentaires ou par une diminution de l’activité lucrative.
 
-[^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 20
 
@@ -269,11 +269,12 @@ L’indemnisation est:
 - a. intégrale, si, au sens de l’art. 6, al. 1 et 2, les revenus déterminants de l’ayant droit ne dépassent pas le montant destiné à la couverture des besoins vitaux;
 - b. dégressive, si, au sens de l’art. 6, al. 1 et 2, les revenus déterminants de l’ayant droit se situent entre le montant destiné à la couverture des besoins vitaux et le quadruple de ce montant.[^20-1]
 
-<sup>3</sup> Le montant de l’indemnité est de 120 000 francs au plus; si ce montant est inférieur à 500 francs, aucune indemnité n’est versée.
+<sup>3</sup> Le montant de l’indemnité est de 130 000 francs au plus; si ce montant est inférieur à 500 francs, aucune indemnité n’est versée.[^20-2]
 
 <sup>4</sup> L’indemnité peut être allouée sous forme de payements échelonnés.
 
 [^20-1]: Voir l’art. 49 (coordination avec la LPC)
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024 concernant l’adaptation au renchérissement des montants d’indemnisation et de réparation morale de la L sur l’aide aux victimes, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 163](https://fedlex.data.admin.ch/eli/oc/2024/163)).
 
 #### Art. 21
 
@@ -294,7 +295,7 @@ L’autorité cantonale compétente accorde une provision aux conditions suivant
 
 <sup>2</sup> Le droit à une réparation morale n’est pas transmissible par voie de succession.
 
-[^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 23
 
@@ -306,10 +307,12 @@ L’autorité cantonale compétente accorde une provision aux conditions suivant
 
 Il ne peut excéder:
 
-- a. 70 000 francs, lorsque l’ayant droit est la victime;
-- b. 35 000 francs, lorsque l’ayant droit est un proche.
+- a. 76 000 francs, lorsque l’ayant droit est la victime;
+- b. 38 000 francs, lorsque l’ayant droit est un proche.[^23-1]
 
 <sup>3</sup> Les prestations que l’ayant droit a reçues de tiers à titre de réparation morale sont déduites.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024 concernant l’adaptation au renchérissement des montants d’indemnisation et de réparation morale de la loi sur l’aide aux victimes, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 163](https://fedlex.data.admin.ch/eli/oc/2024/163)).
 
 ### Section 3 Dispositions communes
 
@@ -334,8 +337,8 @@ La victime peut introduire sa demande jusqu’au jour de ses 25 ans:
 
 <sup>3</sup> Si la victime ou ses proches ont fait valoir des prétentions civiles dans une procédure pénale avant l’échéance du délai prévu aux al. 1 et 2, ils peuvent introduire leur demande d’indemnisation ou de réparation morale dans le délai d’un an à compter du moment où la décision relative aux conclusions civiles ou le classement sont définitifs.
 
-[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 26
 
@@ -431,7 +434,7 @@ Le Conseil fédéral veille à ce que l’adéquation, l’efficacité et le car
 
 <sup>3</sup> Le Conseil fédéral peut édicter d’autres dispositions sur les modalités des contributions aux frais pour l’aide à plus long terme fournie par un tiers, de l’indemnisation et de la réparation morale; il peut notamment instaurer des forfaits ou des tarifs pour la réparation morale. Il peut en outre déroger aux dispositions prévues par la LPC[^45-1] afin de prendre en compte la situation particulière de la victime et de ses proches.
 
-[^45-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^45-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 46
 
@@ -464,7 +467,7 @@ Quel que soit l’ordre dans lequel la nouvelle LAVI et la nouvelle LPC entrent 
 
 …
 
-[^49-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^49-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^49-2]: La LPC est entrée en vigueur le 1<sup>er</sup> janv. 2008.
 
 #### Art. 50

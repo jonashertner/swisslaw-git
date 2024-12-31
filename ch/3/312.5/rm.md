@@ -4,11 +4,11 @@ title: "Lescha federala dals 23 da mars 2007 davart l'agid a victimas da delicts
 short: LAVi
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/232"
 language: rm
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-03-23
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-232-20240101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-232-20250101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart l’agid a victimas, LAVi)
 
-dals 23 da mars 2007 (versiun dal 1. da schaner 2024)
+dals 23 da mars 2007 (versiun dal 1. da schaner 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 123 e 124 da la Constituziun federala[^ingress-1], s
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 7165](https://fedlex.data.admin.ch/eli/fga/2005/1167)
 
 ## 1. chapitel Disposiziuns generalas
@@ -96,7 +96,7 @@ La cussegliaziun, l’agid immediat e l’agid a pli lunga vista furnì dals pos
 
 <sup>3</sup> La prestaziun da satisfacziun morala vegn pajada independentamain da las entradas a la persuna che ha il dretg sin prestaziuns.
 
-[^6-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^6-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^6-2]: Guardar art. 49 (coordinaziun cun la LPS).
 [^6-3]: Guardar art. 49 (coordinaziun cun la LPS).
 
@@ -162,7 +162,7 @@ Las collavuraturas ed ils collavuraturs dals posts u da las autoritads chantunal
 
 <sup>4</sup> Tgi che violescha l’obligaziun da mantegnair il secret, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
-[^11-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^11-2]: Versiun da la segunda e da la terza frasa tenor la cifra II 10 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^11-3]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 15 da dec. 2017 (protecziun d’uffants), en vigur dapi il 1. da schan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
@@ -254,7 +254,7 @@ En cas d’in delict commess a l’exteriur han il dretg da survegnir agid tenor
 
 <sup>4</sup> Ils donns al tegnairchasa ed ils donns che resultan da l’incapacitad da furnir assistenza als confamigliars, vegnan resguardads mo, sch’els chaschunan custs supplementars u ina diminuziun da l’activitad da gudogn.
 
-[^19-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 20
 
@@ -269,11 +269,12 @@ L’indemnisaziun cuvra il donn:
 - a. dal tuttafatg, sche – en il senn da l’artitgel 6 alineas 1 e 2 – las entradas imputablas da la persuna che ha il dretg sin prestaziuns na surpassan betg l’import decisiv per ils bains generals necessaris per viver;
 - b. proporziunalmain, sche – en il senn da l’artitgel 6 alineas 1 e 2 – las entradas imputablas da la persuna che ha il dretg sin prestaziuns sa chattan tranter ina e quatter giadas l’import decisiv per ils bains generals necessaris per viver.[^20-1]
 
-<sup>3</sup> L’indemnisaziun importa maximalmain 120 000 francs; sch’ella fiss main che 500 francs, na vegn pajada nagina indemnisaziun.
+<sup>3</sup> L’indemnisaziun importa maximalmain 130 000 francs; sch’ella importass main che 500 francs, na vegn pajada nagina indemnisaziun.[^20-2]
 
 <sup>4</sup> L’indemnisaziun po vegnir pajada en pliras ratas.
 
 [^20-1]: Guardar art. 49 (coordinaziun cun la LPS).
+[^20-2]: Versiun tenor la cifra I da l’O dals 10 d’avr. 2024 davart l’adattaziun dals imports d’indemnisaziun e da satisfacziun da la Lescha davart l’agid a victimas a la chareschia, en vigur dapi il 1. da schan. 2025 ([AS 2024 163](https://fedlex.data.admin.ch/eli/oc/2024/163)).
 
 #### Art. 21
 
@@ -294,7 +295,7 @@ L’autoritad chantunala cumpetenta conceda in pajament anticipà, sche:
 
 <sup>2</sup> Il dretg da survegnir ina prestaziun da satisfacziun morala n’è betg transmissibel tras ierta.
 
-[^22-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 23
 
@@ -306,10 +307,12 @@ L’autoritad chantunala cumpetenta conceda in pajament anticipà, sche:
 
 Ella importa maximalmain:
 
-- a. 70 000 francs per la victima;
-- b. 35 000 francs per ils confamigliars.
+- a. 76 000 francs per la victima;
+- b. 38 000 francs per ils confamigliars.[^23-1]
 
 <sup>3</sup> Las prestaziuns da satisfacziun morala furnidas da terzs vegnan deducidas.
+
+[^23-1]: Versiun tenor la cifra I da l’O dals 10 d’avr. 2024 davart l’adattaziun dals imports d’indemnisaziun e da satisfacziun da la Lescha davart l’agid a victimas a la chareschia, en vigur dapi il 1. da schan. 2025 ([AS 2024 163](https://fedlex.data.admin.ch/eli/oc/2024/163)).
 
 ### 3. secziun Disposiziuns cuminaivlas
 
@@ -334,8 +337,8 @@ La victima po inoltrar ina dumonda fin ch’ella ha cumplenì il 25. onn da vita
 
 <sup>3</sup> Sche la victima u ses confamigliars han fatg valair pretensiuns civilas en ina procedura penala avant la scadenza dals termins tenor ils alineas 1 u 2, pon els inoltrar ina dumonda da survegnir ina indemnisaziun u ina prestaziun da satisfacziun morala entaifer 1 onn suenter la decisiun definitiva davart las pretensiuns civilas u suenter la sistida da la procedura penala.
 
-[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 26
 
@@ -431,7 +434,7 @@ Il Cussegl federal procura ch’i vegnian evaluadas periodicamain la commensurab
 
 <sup>3</sup> El po decretar prescripziuns per concepir las contribuziuns als custs per l’agid a pli lunga vista furnì da terzs, l’indemnisaziun e la prestaziun da satisfacziun morala, e po particularmain fixar las pauschalas u las tariffas per la prestaziun da satisfacziun morala. Per quest intent po el divergiar da la regulaziun da la LPS[^45-1] per tegnair quint da la situaziun speziala da la victima e da ses confamigliars.
 
-[^45-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^45-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 46
 
@@ -439,7 +442,7 @@ Il Cussegl federal procura ch’i vegnian evaluadas periodicamain la commensurab
 
 La Lescha davart l’agid a victimas dals 4 d’october 1991[^46-1] vegn abolida.
 
-[^46-1]: [[AS 1992 2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465), [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952)cifra III, [2002 2997](https://fedlex.data.admin.ch/eli/oc/2002/431), [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 20]
+[^46-1]: [[AS 1992 2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465); [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952)cifra III; [2002 2997](https://fedlex.data.admin.ch/eli/oc/2002/431); [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 20]
 
 #### Art. 47
 
@@ -464,7 +467,7 @@ Independentamain dal fatg, sche la nova LPS u la nova LAVi entra en vigur sco em
 
 ...
 
-[^49-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^49-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^49-2]: La LPS è entrada en vigur il 1. da schan. 2008.
 
 #### Art. 50

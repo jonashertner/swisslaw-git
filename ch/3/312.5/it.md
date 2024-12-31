@@ -4,11 +4,11 @@ title: "Legge federale del 23 marzo 2007 concernente l'aiuto alle vittime di rea
 short: LAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/232"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-03-23
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-232-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-232-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/it"
 
 (LAV)
 
-del 23 marzo 2007 (Stato 1° gennaio 2024)
+del 23 marzo 2007 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 123 e 124 della Costituzione federale[^ingress-1]; visto il m
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2005 6351](https://fedlex.data.admin.ch/eli/fga/2005/1167)
 
 ## Capitolo 1: Disposizioni generali
@@ -94,7 +94,7 @@ La consulenza, l’aiuto immediato e l’aiuto a più lungo termine fornito dai 
 
 <sup>3</sup> La riparazione morale è concessa indipendentemente dai redditi dell’avente diritto.
 
-[^6-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^6-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^6-2]: Vedi art. 49 (Coordinamento con la LPC).
 [^6-3]: Vedi art. 49 (Coordinamento con la LPC).
 
@@ -160,7 +160,7 @@ I collaboratori dei servizi e delle autorità cantonali che decidono sugli aiuti
 
 <sup>4</sup> Chi viola l’obbligo del segreto è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.
 
-[^11-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^11-2]: Per. introdotto dall’all. 1 n. II 10 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^11-3]: Nuovo testo giusta l’all. n. 3 della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
@@ -252,7 +252,7 @@ Se il reato è commesso all’estero, hanno diritto a un aiuto conformemente al 
 
 <sup>4</sup> I danni all’economia domestica e i danni legati all’incapacità di fornire assistenza ai propri congiunti sono considerati solo se comportano costi supplementari o una diminuzione dell’attività lucrativa.
 
-[^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 20
 
@@ -267,11 +267,12 @@ L’indennizzo copre il danno:
 - a. integralmente se, conformemente all’articolo 6 capoversi 1 e 2, i redditi determinanti dell’avente diritto non superano l’importo destinato alla copertura del fabbisogno vitale;
 - b. proporzionalmente se, conformemente all’articolo 6 capoversi 1 e 2, i redditi determinanti dell’avente diritto si situano tra l’importo destinato alla copertura del fabbisogno vitale e il quadruplo di tale importo.[^20-1]
 
-<sup>3</sup> L’importo dell’indennizzo è di 120 000 franchi al massimo; non è versato un indennizzo se risultasse inferiore a 500 franchi.
+<sup>3</sup> L’importo dell’indennizzo è di 130 000 franchi al massimo; non è versato un indennizzo se risultasse inferiore a 500 franchi.[^20-2]
 
 <sup>4</sup> L’indennizzo può essere versato in più rate.
 
 [^20-1]: Vedi art. 49 (Coordinamento con la LPC).
+[^20-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024 sull’adeguamento al rincaro degli importi di indennizzo e di riparazione, in vigore dal 1° gen. 2025 ([RU 2024 163](https://fedlex.data.admin.ch/eli/oc/2024/163)).
 
 #### Art. 21
 
@@ -292,7 +293,7 @@ L’autorità cantonale accorda un acconto se:
 
 <sup>2</sup> Il diritto alla riparazione morale non è trasmissibile per successione.
 
-[^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 23
 
@@ -304,10 +305,12 @@ L’autorità cantonale accorda un acconto se:
 
 La riparazione morale ammonta al massimo a:
 
-- a. 70 000 franchi per la vittima;
-- b. 35 000 franchi per i congiunti.
+- a. 76 000 franchi per la vittima;
+- b. 38 000 franchi per i congiunti.[^23-1]
 
 <sup>3</sup> Le prestazioni ricevute da terzi a titolo di riparazione morale sono dedotte.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024 2024 sull’adeguamento al rincaro degli importi di indennizzo e di riparazione, in vigore dal 1° gen. 2025 ([RU 2024 163](https://fedlex.data.admin.ch/eli/oc/2024/163)).
 
 ### Sezione 3: Disposizioni comuni
 
@@ -332,8 +335,8 @@ La vittima può presentare la domanda fino al compimento dei 25 anni di età:
 
 <sup>3</sup> Se hanno fatto valere pretese civili in un procedimento penale prima dello scadere dei termini di cui ai capoversi 1 o 2, la vittima o i suoi congiunti possono ancora presentare una domanda d’indennizzo o riparazione morale entro un anno dalla decisione definitiva concernente le pretese civili o l’abbandono del procedimento penale.
 
-[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 26
 
@@ -429,7 +432,7 @@ Il Consiglio federale provvede a far valutare periodicamente l’adeguatezza, l�
 
 <sup>3</sup> Il Consiglio federale può altresì emanare prescrizioni sulle modalità dei contributi alle spese per l’aiuto a più lungo termine fornito da privati, dell’indennizzo e della riparazione morale; può in particolare introdurre forfait o tariffe per la riparazione morale. In tal ambito, può derogare al disciplinamento previsto dalla LPC[^45-1] per tener conto della situazione particolare della vittima e dei suoi congiunti.
 
-[^45-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^45-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 46
 
@@ -464,7 +467,7 @@ Indipendentemente dal fatto che entri in vigore prima la nuova LAV o la nuova LP
 
 …
 
-[^49-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^49-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^49-2]: La LPC è entrata in vigore il 1° gen. 2008.
 
 #### Art. 50
@@ -477,7 +480,7 @@ Indipendentemente dal fatto che entri in vigore prima la nuova LAV o la nuova LP
 
 Data dell’entrata in vigore: 1° gennaio 2009[^50-1]
 
-[^50-1]: DCF del 27 feb. 2008
+[^50-1]: DCF del 27 feb. 2008.
 
 Allegato
 
