@@ -4,13 +4,12 @@ number: "842.1"
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: EG KVG
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-11-29
+version: 2025-01-01
+version_adopted: 2024-04-11
 adopted: 1996-02-29
 in_force: 1996-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/842.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2043/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2660/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,16 @@ pdf: "https://bgs.zg.ch/api/de/versions/2043/pdf_file"
 
 (EG KVG)
 
-Vom 29. Februar 1996 (Stand 1. Januar 2020)
+Vom 29. Februar 1996 (Stand 1. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 97 des Bundesgesetzes über die Krankenversicherung (KVG)[^ingress-1] und § 41 Abs. 1 Bst. b der Kantonsverfassung,
+gestützt auf Art. 97 des Bundesgesetzes über die Krankenversicherung (KVG)[^ingress-1] und § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^ingress-2]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
 
 ## 1. Allgemeines
 
@@ -134,9 +134,9 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Der Regierungsrat bezeichnet im Einvernehmen mit den Gemeinden die zuständige kantonale Behörde (Durchführungsstelle).
+<sup>1</sup> Die Ausgleichskasse des Kantons Zug ist die zuständige kantonale Behörde im Sinne von Art. 64a KVG (Durchführungsstelle).
 
-<sup>2</sup> Die Durchführungsstelle ist für die administrative Abwicklung zuständig. Sie gewährleistet insbesondere den Informationsfluss von den Versicherern zu den Gemeinden, wickelt die Zahlungen ab und führt die Liste der Versicherten mit Leistungsaufschub.
+<sup>2</sup> Die Durchführungsstelle ist für die administrative Abwicklung zuständig. Sie gewährleistet insbesondere den Informationsfluss von den Versicherern zu den Gemeinden und wickelt die Zahlungen ab.
 
 <sup>3</sup> Der Regierungsrat bezeichnet im Einvernehmen mit den Gemeinden die Revisionsstelle nach Art. 64a Abs. 3 KVG.
 
@@ -144,13 +144,7 @@ beschliesst:
 
 #### § 5f
 
-**Leistungsaufschub**
-
-<sup>1</sup> Die zuständige Gemeinde verfügt für Versicherte, die vom Versicherer betrieben werden, spätestens bei Vorliegen des Verlustscheines die Aufnahme in die Liste nach Art. 64a Abs. 7 KVG (Leistungsaufschub). Ausgenommen sind minderjährige Versicherte.
-
-<sup>2</sup> Leistungserbringer mit einer KVG-Zulassung sind im Hinblick auf eine konkrete Leistung berechtigt, Auskunft darüber zu erhalten, ob eine bestimmte Person aktuell auf der Liste verzeichnet ist.
-
-<sup>3</sup> Der Regierungsrat regelt das Nähere.
+**…**
 
 #### § 5g
 
@@ -158,15 +152,11 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Gemeinde, in welcher der Verlustschein ausgestellt wurde, übernimmt die Forderungen nach Art. 64a Abs. 4 KVG.
 
-<sup>2</sup> Die Gemeinden tragen die Kosten der Durchführungsstelle.
+<sup>2</sup> Der Kanton trägt die Kosten der Durchführungsstelle.
 
 #### § 5h
 
-**Rechtsmittel**
-
-<sup>1</sup> Gegen Verfügungen der Gemeinden kann innert 20 Tagen seit der Mitteilung bei der zuständigen Gemeinde schriftlich und begründet Einsprache erhoben werden.
-
-<sup>2</sup> Gegen Einspracheentscheide der Gemeinden kann innert 30 Tagen seit der Mitteilung beim Verwaltungsgericht des Kantons Zug schriftlich und begründet Beschwerde geführt werden.
+**…**
 
 ## 3a. Rechtspflege
 
@@ -200,30 +190,23 @@ beschliesst:
 
 <sup>1</sup> Als Schiedsgericht amtet die sozialversicherungsrechtliche Kammer des Verwaltungsgerichts in Dreierbesetzung, ergänzt durch je einen Vertreter oder eine Vertreterin der beteiligten Parteien.
 
-## 4. Schlussbestimmungen
+## 4.
 
 #### § 9
 
-**Aufhebung bisherigen Rechts**
+**Übergangsbestimmung**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
+<sup>1</sup> Wird bis zum Inkrafttreten der am 11. April 2024 beschlossenen Änderung von § 5e Abs. 1 kein Einvernehmen über die Bezeichnung der zuständigen kantonalen Behörde (Durchführungsstelle) erzielt, bezeichnet der Regierungsrat die Durchführungsstelle und legt die Höhe der Entschädigung (§ 5g Abs. 2) fest.
 
-- a) das Einführungsgesetz zum Bundesgesetz über die Kranken- und Unfallversicherung vom 19. November 1970[^9-1];
-- b) § 23 des Gesetzes über das Spitalwesen vom 20. Februar 1975[^9-2].
-
-[^9-1]: GS 20, 125
-[^9-2]: GS 20, 545
+- a) …
+- b) …
 
 #### § 10
 
-**Änderung bisherigen Rechts[^10-1]**
-
-[^10-1]: Die Änderungen sind in den entsprechenden Erlassen publiziert und werden hier nicht abgedruckt.
+**…**
 
 #### § 11
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt unter dem Vorbehalt des Referendums gemäss § 34 der Kantonsverfassung rückwirkend auf den 1. Januar 1996 in Kraft.
+**…**
 
 GS 25, 257
