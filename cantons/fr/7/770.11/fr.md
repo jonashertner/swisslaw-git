@@ -4,13 +4,13 @@ number: "770.11"
 title: "Règlement sur l'énergie"
 short: REn
 language: fr
-version: 2023-07-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-20
+version: 2025-01-01
+valid_until: 2025-08-31
+version_adopted: 2024-12-16
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7780/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8115/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Energie – R
 
 (REn)
 
-du 05.11.2019 (version entrée en vigueur le 01.07.2023)
+du 05.11.2019 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -95,7 +95,7 @@ Arrête:
 
 **Justificatif d'efficacité énergétique (art. 11a LEn)**
 
-<sup>1</sup> Le justificatif d'efficacité énergétique au sens de la LEn est le Certificat énergétique cantonal des bâtiments (CECB®).
+<sup>1</sup> Le justificatif d'efficacité énergétique au sens de la LEn est le Certificat énergétique cantonal des bâtiments (CECB).
 
 <sup>2</sup> Le CECB s'applique aux bâtiments d'habitation, aux bâtiments d'administration et aux écoles, au sens de la norme SIA 380/1.
 
@@ -563,11 +563,18 @@ Arrête:
 - d) la valeur U des éléments de construction donnant droit à la contribution doit être améliorée d'au moins 0,07 W/(m²·K);
 - e) le certificat CECB Plus doit être fourni pour le bâtiment dès que la contribution financière est supérieure à 10'000 francs.
 
-<sup>2</sup> L'aide financière est de 60 francs par mètre carré correspondant à la surface de l'élément de construction isolé.
+<sup>2</sup> L'aide financière est de 50 francs par mètre carré correspondant à la surface de l'élément de construction isolé.
+
+<sup>2a</sup> Toutefois, si au cours de l'année précédant la demande d'aide financière une subvention a été octroyée pour la réalisation d'un CECB Plus, conformément à l'article 54b, le montant total de l'aide financière est réduit de:
+
+- a) 1000 francs pour un habitat individuel;
+- b) 1500 francs pour toute autre catégorie.
 
 <sup>3</sup> Le changement seul des fenêtres est exclu.
 
-<sup>4</sup> Une combinaison de cette mesure avec d'autres mesures d'encouragement du présent règlement destinées à l'amélioration de l'enveloppe des bâtiments n'est pas possible.
+<sup>4</sup> La combinaison de cette mesure avec d'autres mesures d'encouragement du présent règlement visant à améliorer l'enveloppe des bâtiments n'est possible qu'avec la mesure prévue à l'article 52a.
+
+<sup>5</sup> La promesse a une validité de deux ans à compter de la date de la décision.
 
 [^42-1]: Note d'auteur: Modèle d'encouragement harmonisé des cantons, approuvé le 21 août 2015 par la Conférence des directeurs cantonaux de l'énergie.
 
@@ -580,13 +587,15 @@ Arrête:
 - a) l'installation doit être utilisée comme chauffage principal;
 - b) l'installation remplace un chauffage fonctionnant au mazout ou au gaz naturel, ou un chauffage électrique fixe à résistance;
 - c) l'installation doit respecter les prescriptions de l'ordonnance fédérale sur la protection de l'air (OPair) en vigueur;
-- d) l'installation doit être munie du label de qualité Energie-bois Suisse, ou équivalent, et de la Garantie de performance (accompagnant l'offre) de SuisseEnergie.
+- d) l'installation doit être munie de la déclaration de performance selon l'ordonnance fédérale sur les produits de construction (OPCo), de la déclaration de conformité selon l'ordonnance fédérale sur les exigences relatives à l'efficacité énergétique d'installations, de véhicules et d'appareils fabriqués en série (Ordonnance sur les exigences relatives à l'efficacité énergétique, OEEE) et de la garantie de performance (accompagnant l'offre) de SuisseEnergie.
 
 <sup>2</sup> L'aide financière est fixée selon les principes suivants:
 
 - a) 3000 francs forfaitaires par installation;
-- b) 8000 francs de contribution supplémentaire pour la première installation d'un système de distribution de chaleur dans une habitation individuelle, 5000 francs par logement dans une habitation collective et 500 francs par kW<sub>th</sub> pour les autres affectations;
+- b) …
 - c) 1000 francs de contribution supplémentaire pour une installation de production d'eau chaude directement raccordée au système de chauffage, en remplacement d'une installation existante.
+
+<sup>3</sup> La promesse a une validité de deux ans à compter de la date de la décision.
 
 #### Art. 44
 
@@ -597,37 +606,43 @@ Arrête:
 - a) l'installation doit être utilisée comme chauffage principal;
 - b) l'installation remplace un chauffage fonctionnant au mazout ou au gaz naturel, ou un chauffage électrique fixe à résistance;
 - c) l'installation doit respecter les prescriptions de l'ordonnance fédérale sur la protection de l'air (OPair) en vigueur;
-- d) l'installation doit être munie du label de qualité Energie-bois Suisse, ou équivalent, et de la Garantie de performance (accompagnant l'offre) de SuisseEnergie.
+- d) l'installation doit être munie de la déclaration de performance selon l'OPCo, de la déclaration de conformité selon l'OEEE et de la garantie de performance (accompagnant l'offre) de SuisseEnergie.
 
 <sup>2</sup> Les poêles et les chaudières à chargement manuel sont exclus.
 
 <sup>3</sup> L'aide financière est fixée selon les principes suivants:
 
 - a) 3000 francs par installation, augmentés de 50 francs par kW<sub>th</sub>;
-- b) 8000 francs de contribution supplémentaire pour la première installation d'un système de distribution de chaleur dans une habitation individuelle, 5000 francs par logement dans une habitation collective et 500 francs par kW<sub>th</sub> pour les autres affectations;
+- b) …
 - c) 1000 francs de contribution supplémentaire pour une installation de production d'eau chaude directement raccordée au système de chauffage, en remplacement d'une installation existante.
+
+<sup>4</sup> La promesse a une validité de deux ans à compter de la date de la décision.
 
 #### Art. 45
 
-**Chauffage au bois automatique d'une puissance supérieure à 70 kW (M-04 ModEnHa 2015)**
+**Chauffage au bois automatique d'une puissance supérieure à 70 kW (IP-04)**
 
-<sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
+<sup>1</sup> Pour que la mesure soit subventionnable, les exigences de l'annexe 6a chiffre 1.1 OEne doivent être respectées.
 
-- a) l'installation associée à un réseau de chauffage doit avoir une puissance calorifique inférieure ou égale à 300 kW<sub>th</sub>; il n'y a aucune limite de puissance si l'installation n'alimente pas un réseau de chauffage;
-- b) l'installation remplace un chauffage fonctionnant au mazout ou au gaz naturel, ou un chauffage électrique fixe à résistance;
-- c) l'installation doit respecter les prescriptions de l'ordonnance fédérale sur la protection de l'air (OPair) en vigueur;
-- d) l'installation doit être munie du label de qualité Energie-bois Suisse, ou équivalent, et de la Garantie de performance (accompagnant l'offre) de SuisseEnergie.
+- a) …
+- b) …
+- c) …
+- d) …
 
-<sup>2</sup> L'aide financière est fixée selon les principes suivants:
+<sup>2</sup> Aucune aide financière n'est octroyée dans les zones avec obligation de se raccorder à un chauffage à distance.
 
-- a) jusqu'à 500 kW<sub>th</sub>, 180 francs parkW<sub>th</sub>;
-- b) à partir de 500 kWth, 40'000 francs par installation, augmentés de 100 francs par kW<sub>th</sub>;
-- c) 8000 francs de contribution supplémentaire pour la première installation d'un système de distribution de chaleur dans une habitation individuelle, 5000 francs par logement dans une habitation collective et 500 francs par kW<sub>th</sub> pour les autres affectations;
-- d) 1000 francs de contribution supplémentaire pour une installation de production d'eau chaude directement raccordée au système de chauffage, en remplacement d'une installation existante.
+- a) …
+- b) …
+- c) …
+- d) …
+
+<sup>3</sup> L'aide financière est de 360 francs par kWth.
+
+<sup>4</sup> La promesse a une validité de trois ans à compter de la date de la décision.
 
 #### Art. 46
 
-**Pompe à chaleur air/eau (M-05 ModEnHa 2015)**
+**Pompe à chaleur air/eau d'une puissance inférieure ou égale à 70 kW (M-05 ModEnHa 2015)**
 
 <sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
 
@@ -642,17 +657,31 @@ Arrête:
 <sup>2</sup> L'aide financière est fixée selon les principes suivants:
 
 - a) 3500 francs par installation, augmentés de 150 francs par kW<sub>th</sub>;
-- b) 8000 francs de contribution supplémentaire pour la première installation d'un système de distribution de chaleur dans une habitation individuelle, 5000 francs par logement dans une habitation collective et 500 francs par kW<sub>th</sub> pour les autres affectations;
+- b) …
 - c) 1000 francs de contribution supplémentaire pour une installation de production d'eau chaude directement raccordée au système de chauffage, en remplacement d'une installation existante.
+
+<sup>3</sup> La promesse a une validité de deux ans à compter de la date de la décision.
+
+#### Art. 46a
+
+**Pompe à chaleur air/eau d'une puissance supérieure à 70 kW (IP-05)**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les exigences de l'annexe 6a chiffre 1.2 OEne doivent être respectées.
+
+<sup>2</sup> Aucune aide financière n'est octroyée dans les zones avec obligation de se raccorder à un chauffage à distance.
+
+<sup>3</sup> L'aide financière est de 4000 francs par installation, augmentés de 250 francs par kWth.
+
+<sup>4</sup> La promesse a une validité de trois ans à compter de la date de la décision.
 
 #### Art. 47
 
-**Pompe à chaleur saumure/eau et eau/eau (M-06 ModEnHa 2015)**
+**Pompe à chaleur saumure/eau et eau/eau d'une puissance inférieure ou égale à 70 kW (M-06 ModEnHa 2015)**
 
-<sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
+<sup>1</sup> Pour que l'installation soit subventionnable, les conditions suivantes doivent être respectées:
 
 - a) l'installation doit être une PAC avec moteur électrique;
-- b) l'installation associée à un réseau de chauffage doit avoir une puissance calorifique inférieure ou égale à 200 kW<sub>th</sub>; il n'y aucune limite de puissance si l'installation n'alimente pas un réseau de chauffage;
+- b) …
 - c) l'installation doit être utilisée comme chauffage principal;
 - d) l'installation remplace un chauffage fonctionnant au mazout ou au gaz naturel, ou un chauffage électrique fixe à résistance;
 - e) l'installation est réalisée pour un bâtiment situé au moins en classe énergétique E pour son enveloppe thermique au sens du CECB;
@@ -662,16 +691,30 @@ Arrête:
 
 <sup>2</sup> L'aide financière est fixée selon les principes suivants:
 
-- a) jusqu'à 100 kW<sub>th</sub>, 5000 francs par installation, augmentés de 300 francs par kW<sub>th</sub>;
-- b) à partir de 100 kW<sub>th</sub> et jusqu'à 250 kW<sub>th</sub>, 27'000 francs par installation, augmentés de 80 francs par kW<sub>th</sub>;
-- c) à partir de 250 kW<sub>th</sub> et jusqu'à 500kW<sub>th</sub>, 2400 francs par installation, augmentés de 180 francs parkW<sub>th</sub>;
-- d) à partir de 500 kW<sub>th</sub>, 42'400 francs par installation, augmentés de 100 francs par kW<sub>th</sub>;
-- e) 8000 francs de contribution supplémentaire pour la première installation d'un système de distribution de chaleur dans une habitation individuelle, 5000 francs par logement dans une habitation collective et 500 francs par kW<sub>th</sub> pour les autres affectations;
+- a) 5000 francs par installation, augmentés de 300 francs par kWth;
+- b) …
+- c) …
+- d) …
+- e) …
 - f) 1000 francs de contribution supplémentaire pour une installation de production d'eau chaude directement raccordée au système de chauffage, en remplacement d'une installation existante.
+
+<sup>3</sup> La promesse a une validité de deux ans à compter de la date de la décision.
+
+#### Art. 47a
+
+**Pompe à chaleur saumure/eau et eau/eau d'une puissance supérieure à 70 kW (IP-06)**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les exigences de l'annexe 6a chiffre 1.3 OEne doivent être respectées.
+
+<sup>2</sup> Aucune aide financière n'est octroyée dans les zones avec obligation de se raccorder à un chauffage à distance.
+
+<sup>3</sup> L'aide financière est de 700 francs par kWth.
+
+<sup>4</sup> La promesse a une validité de trois ans à compter de la date de la décision.
 
 #### Art. 48
 
-**Raccordement à un réseau de chauffage (M-07 ModEnHa 2015)**
+**Raccordement d'une puissance inférieure ou égale à 70 kW à un réseau de chauffage (M-07 ModEnHa 2015)**
 
 <sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
 
@@ -681,15 +724,27 @@ Arrête:
 
 <sup>2</sup> L'aide financière est fixée selon les principes suivants:
 
-- a) jusqu'à 100 kW<sub>th</sub>, 5000 francs par installation, augmentés de 30 francs par kW<sub>th</sub>;
-- b) à partir de 100 kW<sub>th</sub> et jusqu'à 250 kW<sub>th</sub>, 6000 francs par installation, augmentés de 20 francs par kW<sub>th</sub>;
-- c) à partir de 250 kW<sub>th</sub>, 9000 francs par installation, augmentés de 10 francs par kW<sub>th</sub>;
-- d) 8000 francs de contribution supplémentaire pour la première installation d'un système de distribution de chaleur dans une habitation individuelle, 5000 francs par logement dans une habitation collective et 500 francs par kW<sub>th</sub> pour les autres affectations;
+- a) 5000 francs par installation, augmentés de 30 francs par kWth;
+- b) …
+- c) …
+- d) …
 - e) 1000 francs de contribution supplémentaire pour une installation de production d'eau chaude directement raccordée au système de chauffage, en remplacement d'une installation existante.
+
+<sup>3</sup> La promesse a une validité de deux ans à compter de la date de la décision.
+
+#### Art. 48a
+
+**Raccordement d'une puissance supérieure à 70 kW à un réseau de chauffage (IP-07)**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les exigences de l'annexe 6a chiffre 1.4 OEne doivent être respectées.
+
+<sup>2</sup> L'aide financière de 16'000 francs par installation, augmentés de 80 francs par kWth.
+
+<sup>3</sup> La promesse a une validité de trois ans à compter de la date de la décision.
 
 #### Art. 49
 
-**Capteurs solaires (M-08 ModEnHa 2015)**
+**Capteurs solaires d'une puissance inférieure ou égale à 70 kW (M-08 ModEnHa 2015)**
 
 <sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
 
@@ -704,18 +759,31 @@ Arrête:
 
 <sup>3</sup> Les capteurs à air, les séchoirs à foin et les installations de chauffage de piscines sont exclus.
 
+<sup>4</sup> La promesse a une validité de deux ans à compter de la date de la décision.
+
+#### Art. 49a
+
+**Capteurs solaires d'une puissance supérieure à 70 kW (IP-08)**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les exigences de l'annexe 6a chiffre 2 OEne doivent être respectées.
+
+<sup>2</sup> L'aide financière est de 20'000 francs par installation, augmentés de 1000 francs par kW.
+
+<sup>3</sup> La promesse a une validité de trois ans à compter de la date de la décision.
+
 #### Art. 50
 
-**Amélioration de la classe d'efficacité CECB pour l'enveloppe et pour l'efficacité énergétique globale (M-010 ModEnHa 2015)**
+**Amélioration de la classe d'efficacité CECB pour l'enveloppe et pour l'efficacité énergétique globale (M-10 ModEnHa 2015)**
 
 <sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
 
 - a) le bâtiment doit avoir été au bénéfice d'une autorisation de construire avant l'année 2000;
 - b) un certificat CECB doit pouvoir être établi pour le bâtiment;
 - c) l'amélioration de la classe énergétique pour l'enveloppe du bâtiment et pour l'efficacité énergétique globale est déterminante;
-- d) le certificat CECB Plus doit être fourni avant le début des travaux.
+- d) le certificat CECB Plus doit être fourni avant le début des travaux;
+- e) les valeurs limites pour la rénovation selon la norme SIA 380/1 doivent être respectées.
 
-<sup>2</sup> L'aide financière est fixée selon les principes suivants:
+<sup>2</sup> La plus petite amélioration de classe entre celle de l'enveloppe et de l'efficacité énergétique globale détermine l'amélioration. L'aide financière est fixée selon les principes suivants:
 
 <table>
 <tr><th>Amélioration</th><th>Maison individuelle</th><th>Immeuble collectif</th><th>Bâtiment non-habitat</th></tr>
@@ -726,13 +794,20 @@ Arrête:
 <tr><td>+ 6 classes</td><td>180 Fr./m² SRE</td><td>120 Fr./m² SRE</td><td>100 Fr./m² SRE</td></tr>
 </table>
 
-<sup>3</sup> Une combinaison de cette mesure avec d'autres mesures d'encouragement du présent règlement destinées à l'amélioration de l'enveloppe des bâtiments n'est pas possible.
+<sup>2a</sup> Toutefois, si au cours de l'année précédant la demande d'aide financière une subvention a été octroyée pour la réalisation d'un CECB Plus, conformément à l'article 54b, le montant total de l'aide financière est réduit de:
+
+- a) 1000 francs pour un habitat individuel;
+- b) 1500 francs pour toute autre catégorie.
+
+<sup>3</sup> La combinaison de cette mesure avec d'autres mesures d'encouragement du présent règlement n'est possible qu'avec les mesures prévues aux articles 52a, 54c et 54d.
+
+<sup>4</sup> La promesse a une validité de trois ans à compter de la date de la décision.
 
 [^50-1]: Note d'auteur: SRE = surface de référence énergétique.
 
 #### Art. 51
 
-**Rénovation complète avec certificat Minergie (M-012 ModEnHa 2015)**
+**Rénovation complète avec certificat Minergie (M-12 ModEnHa 2015)**
 
 <sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
 
@@ -748,11 +823,25 @@ Arrête:
 <tr><td>Bonus-ECO</td><td>10 Fr./m² SRE</td><td>10 Fr./m² SRE</td><td>10 Fr./m² SRE</td></tr>
 </table>
 
-<sup>3</sup> Une combinaison de cette mesure avec d'autres mesures d'encouragement du présent règlement destinées à l'amélioration de l'enveloppe des bâtiments n'est pas possible.
+<sup>3</sup> La combinaison de cette mesure avec d'autres mesures d'encouragement du présent règlement n'est possible qu'avec les mesures prévues aux articles 54c et 54d.
+
+<sup>4</sup> La promesse a une validité de deux ans à compter de la date de la décision.
 
 #### Art. 52
 
 **…**
+
+#### Art. 52a
+
+**Assainissement complet d'un bâtiment (bonus pour l'efficacité de l'enveloppe du bâtiment) (IP-14)**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les exigences de l'annexe 6a chiffre 4 OEne doivent être respectées.
+
+<sup>2</sup> L'aide financière est de 60 francs par mètre carré des éléments de construction isolés si au moins 90 % des surfaces principales du bâtiment (façades et toit, hors murs et sol contre terre) sont isolées, conformément aux exigences de la mesure prévue à l'article 42. Cette mesure n'est combinable qu'avec la mesure prévue à l'article 42.
+
+<sup>3</sup> L'aide financière est de 30 francs par mètre carré de SRE si, après rénovation, le bâtiment présente une classe d'efficacité CECB C ou B au niveau de l'enveloppe du bâtiment. Cette mesure n'est combinable qu'avec la mesure prévue à l'article 50.
+
+<sup>4</sup> La durée de validité de la promesse est de deux ans si elle est combinée avec la mesure prévue à l'article 42 et de trois ans si elle est combinée avec la mesure prévue à l'article 50.
 
 #### Art. 53
 
@@ -760,60 +849,64 @@ Arrête:
 
 #### Art. 54
 
-**Nouvelle construction/extension du réseau de chauffage, nouvelle construction/extension de l'installation de production de chaleur (M-018 ModEnHa 2015)**
-
-<sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
-
-- a) le nouveau réseau/l'extension du réseau de chauffage ou la nouvelle installation/l'extension de l'installation de production de chaleur engendre la distribution d'un supplément de chaleur issue des énergies renouvelables ou des rejets de chaleur par rapport à la situation initiale;
-- b) la chaleur supplémentaire distribuée est utilisée pour le chauffage et la production d'eau chaude sanitaire;
-- c) la distribution de chaleur s'effectue dans des bâtiments existants;
-- d) la combinaison avec la mesure «Raccordement à un réseau de chauffage» (art. 48 du présent règlement) est possible;
-- e) les exploitants du réseau de chauffage mettent à la disposition du Service les données nécessaires visant à éviter la comptabilisation à double au sens du ModEnHa 2015.
-
-<sup>2</sup> L'aide financière est fixée selon les principes suivants:
-
-- a) nouvelle construction/extension du réseau de chauffage: 40 francs par MWh/an;
-- b) nouvelle construction/extension de l'installation de production de chaleur: 130 francs par MWh/an.
+**…**
 
 #### Art. 54a
 
-**Borne de recharge pour véhicules électriques**
-
-<sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
-
-- a) la borne de recharge doit équiper de manière permanente une place de parc privée pour un bâtiment d'habitation individuel ou collectif, propriété par étages inclue;
-- b) la puissance installée par borne doit être au moins de 11 kW;
-- c) le raccordement technique de l'installation doit être validée par le gestionnaire du réseau électrique;
-- d) la borne de recharge est alimentée uniquement par de l'électricité provenant d'une source renouvelable, produite sur site ou acquise auprès du distributeur d'électricité;
-- e) l'installation doit être vérifiée et approuvée par un rapport de sécurité au sens de l'ordonnance fédérale du 7 novembre 2001 sur les installations électriques à basse tension (ordonnance sur les installations à basse tension, OIBT);
-- f) une seule borne de recharge par unité de logement peut bénéficier de la subvention.
-
-<sup>2</sup> L'aide financière est fixée selon les principes suivants:
-
-- a) 500 francs pour une borne de recharge destinée à une nouvelle place de parc;
-- b) 1000 francs pour une borne de recharge destinée à une place de parc existante.
-
-<sup>3</sup> La mesure est applicable au plus tard jusqu'au 31 décembre 2023, ou à épuisement des disponibilités financières qui lui sont dédiées.
+**…**
 
 #### Art. 54b
 
-**Certificat énergétique cantonal des bâtiments Plus (CECB® Plus)**
+**Certificat énergétique cantonal des bâtiments Plus (CECB Plus)**
 
 <sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
 
 - a) le bâtiment doit avoir été au bénéfice d'une autorisation de construire avant l'année 2000;
-- b) l'auteur du CECB® Plus doit faire partie de la liste des experts certifiés par l'organisme CECB®;
-- c) le CECB® Plus doit être réalisé dans les règles de l'art, signé par l'expert certifié et publié sur la base CECB®;
+- b) l'auteur du CECB Plus doit faire partie de la liste des experts certifiés par l'organisme CECB;
+- c) le CECB Plus doit être réalisé dans les règles de l'art, signé par l'expert certifié et publié sur la base CECB;
 - d) le rapport doit comprendre, en plus de l'état initial, au minimum deux variantes dont l'une présente une rénovation complète du bâtiment;
 - e) l'offre de l'expert certifié doit comprendre au minimum une heure de conseils à la restitution du rapport au propriétaire;
-- f) dans le cas de numéros d'identification du bâtiment multiples (identificateur fédéral de bâtiment EGID) ou dans le cas de bâtiments identiques, la subvention peut être limitée à une seule demande.
+- f) dans le cas de numéros d'identification du bâtiment multiples (identificateur fédéral de bâtiment EGID) ou dans le cas de bâtiments identiques, la subvention peut être limitée à une seule demande;
+- g) le CECB Plus ne répond pas à une exigence légale.
 
 <sup>2</sup> L'aide financière est fixée selon les principes suivants:
 
 - a) 1000 francs pour un habitat individuel;
 - b) 1500 francs pour toute autre catégorie.
 
-<sup>3</sup> La mesure est applicable au plus tard jusqu'au 31 décembre 2024, ou à épuisement des disponibilités financières qui lui sont dédiées.
+<sup>3</sup> La mesure est applicable au plus tard jusqu'au 31 décembre 2026, ou à épuisement des disponibilités financières qui lui sont dédiées.
+
+<sup>4</sup> La promesse a une validité de deux ans à compter de la date de la décision.
+
+#### Art. 54c
+
+**Soutien aux regroupements de consommation propre**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les conditions cumulatives suivantes doivent être respectées:
+
+- a) un nouveau regroupement de consommation (RCP) ou modèle similaire doit être créé;
+- b) un compteur d'électricité supplémentaire et dédié doit être posé;
+- c) le regroupement de plusieurs consommateurs doit au minimum contenir un bâtiment existant;
+- d) la puissance de production de l'installation ou des installations doit être au moins de 10 % de la puissance de raccordement du regroupement;
+- e) le raccordement technique de l'installation au réseau électrique du distributeur doit être validé par le gestionnaire du réseau électrique;
+- f) l'installation doit être vérifiée et approuvée par un rapport de sécurité au sens de l'OIBT.
+
+<sup>2</sup> L'aide financière correspond à un montant forfaitaire de 750 francs par regroupement.
+
+<sup>3</sup> La mesure est applicable jusqu'au 31 décembre 2026 au plus tard, ou à épuisement des disponibilités financières qui lui sont dédiées.
+
+#### Art. 54d
+
+**Remplacement de chauffages électriques décentralisés à résistances ou de chauffages décentralisés à combustibles fossiles (IP-19)**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les exigences de l'annexe 6a chiffre 3 OEne doivent être respectées.
+
+<sup>2</sup> L'aide financière est fixée selon les principes suivants:
+
+- a) pour une SRE de 250 m² au plus, 15'000 francs par installation;
+- b) pour une SRE supérieure à 250 m², 60 francs par mètre carré de SRE.
+
+<sup>3</sup> La promesse a une validité de trois ans à compter de la date de la décision.
 
 #### Art. 55
 
@@ -825,13 +918,13 @@ Arrête:
 
 **Processus de décision**
 
-<sup>1</sup> Seules les mesures qui ne sont pas imposées par le présent règlement, notamment par les dispositions de la section 3, peuvent bénéficier d'une aide financière de l'Etat.
+<sup>1</sup> Seules les mesures qui ne sont pas imposées par le présent règlement peuvent bénéficier d'une aide financière de l'Etat.
 
-<sup>2</sup> Les formules officielles cantonales, établies par le Service, doivent lui être adressées en deux exemplaires pour toute requête.
+<sup>2</sup> Les formules officielles cantonales, établies par le Service, doivent lui être adressées pour toute requête.
 
 <sup>3</sup> La promesse de l'octroi d'une aide financière fait l'objet d'une décision du Service tenant compte des disponibilités budgétaires de l'Etat.
 
-<sup>4</sup> La promesse a une validité de deux ans à compter de la date de la décision; passé ce délai, sans nouvelle de la part de la personne bénéficiaire et en l'absence de preuve que les travaux sont au moins en passe d'être achevés, la décision devient caduque.
+<sup>4</sup> Passé le délai de validité de la promesse, sans nouvelle de la part de la personne bénéficiaire et en l'absence de preuve que les travaux sont au moins en passe d'être achevés, la décision devient caduque.
 
 <sup>5</sup> Les aides financières ne sont versées qu'après réception et contrôle, par le Service, du décompte détaillé et, pour les installations de chauffage au bois, de l'attestation de conformité à l'ordonnance fédérale sur la protection de l'air (OPair), établie par le Service de l'environnement. Les versements se font dans les limites des disponibilités budgétaires de l'Etat.
 
@@ -845,12 +938,12 @@ Arrête:
 
 - a) M-01 (art. 42);
 - b) M-03 (art. 44);
-- c) M-04 (art. 45);
+- c) …
 - d) M-06 (art. 47);
 - e) M-07 (art. 48);
 - f) M-10 (art. 50);
 - g) M-12 (art. 51);
-- h) M-18 (art. 54).
+- h) …
 
 #### Art. 57
 

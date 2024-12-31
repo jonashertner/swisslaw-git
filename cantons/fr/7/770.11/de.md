@@ -4,13 +4,13 @@ number: "770.11"
 title: Energiereglement
 short: EnR
 language: de
-version: 2023-07-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-20
+version: 2025-01-01
+valid_until: 2025-08-31
+version_adopted: 2024-12-16
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7780/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8115/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Energie – R
 
 (EnR)
 
-vom 05.11.2019 (Fassung in Kraft getreten am 01.07.2023)
+vom 05.11.2019 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -95,7 +95,7 @@ beschliesst:
 
 **Nachweis für die Energieeffizienz (Art. 11a EnGe)**
 
-<sup>1</sup> Der Nachweis für die Energieeffizienz im Sinne des EnGe ist der Gebäudeenergieausweis der Kantone (GEAK®).
+<sup>1</sup> Der Nachweis für die Energieeffizienz im Sinne des EnGe ist der Gebäudeenergieausweis der Kantone (GEAK).
 
 <sup>2</sup> Der GEAK gilt für Wohnbauten, Verwaltungsgebäude und Schulen im Sinne der Norm SIA 380/1.
 
@@ -563,11 +563,18 @@ beschliesst:
 - d) Die U-Wert-Verbesserung der geförderten Bauteile beträgt mindestens 0,07 W/(m²·K).
 - e) Ab einem beantragten Förderbeitrag von 10'000 Franken muss ein GEAK Plus für das Gebäude vorgelegt werden.
 
-<sup>2</sup> Der Beitragssatz beläuft sich auf 60 Franken pro m² wärmegedämmtes Bauteil.
+<sup>2</sup> Der Beitragssatz beträgt 50 Franken pro Quadratmeter wärmegedämmtes Bauteil.
+
+<sup>2a</sup> Falls jedoch im Jahr vor dem Förderantrag gestützt auf Artikel 54b dieses Reglements ein Förderbeitrag für die Erstellung eines GEAK Plus gewährt wurde, wird der Gesamtbetrag der Finanzhilfe reduziert um:
+
+- a) 1000 Franken für ein Einfamilienhaus;
+- b) 1500 Franken für alle anderen Gebäudekategorien.
 
 <sup>3</sup> Der blosse Austausch der Fenster ist nicht förderberechtigt.
 
-<sup>4</sup> Diese Massnahme kann nicht mit anderen Fördermassnahmen zur Verbesserung der Gebäudehülle gemäss diesem Reglement kombiniert werden.
+<sup>4</sup> Diese Massnahme kann nicht mit anderen Fördermassnahmen zur Verbesserung der Gebäudehülle gemäss diesem Reglement kombiniert werden, mit Ausnahme der Massnahme nach Artikel 52a dieses Reglements.
+
+<sup>5</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
 
 [^42-1]: Anmerkung des Autors: Harmonisiertes Fördermodell der Kantone, das am 21. August 2015 von der Konferenz der kantonalen Energiedirektoren verabschiedet wurde.
 
@@ -580,13 +587,15 @@ beschliesst:
 - a) Die Anlage wird als Hauptheizung eingesetzt.
 - b) Die Anlage ersetzt eine Öl-, Erdgas- oder ortsfeste elektrische Widerstandsheizung.
 - c) Die Anlage hält die geltenden Vorschriften der Luftreinhalte-Verordnung des Bundes (LRV) ein.
-- d) Die Anlage verfügt über das Qualitätssiegel Holzenergie Schweiz oder ein gleichwertiges Label sowie über die Leistungsgarantie (zur Offerte) von EnergieSchweiz.
+- d) Die Anlage muss über eine Leistungserklärung gemäss der Verordnung über Bauprodukte (BauPV), eine Konformitätserklärung gemäss der Verordnung über die Anforderungen an die Energieeffizienz serienmässig hergestellter Anlagen, Fahrzeuge und Geräte (EnEV) und über eine Leistungsgarantie (in Ergänzung der Offerte) von EnergieSchweiz verfügen.
 
 <sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
 
 - a) Pauschalbeitrag von 3000 Franken pro Anlage;
-- b) Zusatzbeitrag von 8000 Franken für die Erstinstallation eines Wärmeverteilsystems in einem Einfamilienhaus, 5000 Franken pro Nutzeinheit in einem Mehrfamilienhaus und 500 Franken pro kW<sub>th</sub> bei anderen Gebäudekategorien;
+- b) …
 - c) Zusatzbeitrag von 1000 Franken für den Einbau eines Wassererwärmers, der direkt an das Heizsystem angeschlossen ist, als Ersatz einer bestehenden Anlage.
+
+<sup>3</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
 
 #### Art. 44
 
@@ -597,37 +606,43 @@ beschliesst:
 - a) Die Anlage wird als Hauptheizung eingesetzt.
 - b) Die Anlage ersetzt eine Öl-, Erdgas- oder ortsfeste elektrische Widerstandsheizung.
 - c) Die Anlage hält die geltenden Vorschriften der Luftreinhalte-Verordnung des Bundes (LRV) ein.
-- d) Die Anlage verfügt über das Qualitätssiegel Holzenergie Schweiz oder ein gleichwertiges Label sowie über die Leistungsgarantie (zur Offerte) von EnergieSchweiz.
+- d) Die Anlage muss über eine Leistungserklärung gemäss BauPV, eine Konformitätserklärung gemäss EnEV und über eine Leistungsgarantie (in Ergänzung der Offerte) von EnergieSchweiz verfügen.
 
 <sup>2</sup> Handbeschickte Öfen und Heizkessel sind nicht förderberechtigt.
 
 <sup>3</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
 
 - a) 3000 Franken pro Anlage sowie 50 Franken pro kW<sub>th</sub>;
-- b) Zusatzbeitrag von 8000 Franken für die Erstinstallation eines Wärmeverteilsystems in einem Einfamilienhaus, 5000 Franken pro Nutzeinheit in einem Mehrfamilienhaus und 500 Franken pro kW<sub>th</sub> bei anderen Gebäudekategorien;
+- b) …
 - c) Zusatzbeitrag von 1000 Franken für den Einbau eines Wassererwärmers, der direkt an das Heizsystem angeschlossen ist, als Ersatz einer bestehenden Anlage.
+
+<sup>4</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
 
 #### Art. 45
 
-**Automatische Holzfeuerung mit einer Leistung über 70 kW (M-04 HFM 2015)**
+**Automatische Holzfeuerung mit einer Leistung über 70 kW (IP-04)**
 
-<sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die Voraussetzungen nach Anhang 6a, Ziffer 1.1 EnV erfüllt sind.
 
-- a) Die Anlage mit Wärmenetz weist eine Feuerungswärmeleistung von höchstens 300 kW<sub>th</sub> auf. Bei Anlagen ohne Wärmenetz ist der Leistungsbereich nicht beschränkt.
-- b) Die Anlage ersetzt eine Öl-, Erdgas- oder ortsfeste elektrische Widerstandsheizung.
-- c) Die Anlage hält die geltenden Vorschriften der Luftreinhalte-Verordnung des Bundes (LRV) ein.
-- d) Die Anlage verfügt über das Qualitätssiegel Holzenergie Schweiz oder ein gleichwertiges Label sowie über die Leistungsgarantie (zur Offerte) von EnergieSchweiz.
+- a) …
+- b) …
+- c) …
+- d) …
 
-<sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
+<sup>2</sup> In Gebieten mit Pflicht zum Anschluss an eine Fernheizung werden keine Förderbeiträge ausgerichtet.
 
-- a) bis 500 kW<sub>th</sub>, 180 Franken pro kW<sub>th</sub>;
-- b) ab 500 kW<sub>th</sub>, 40'000 Franken pro Anlage sowie 100 Franken pro kW<sub>th</sub>;
-- c) Zusatzbeitrag von 8000 Franken für die Erstinstallation eines Wärmeverteilsystems in einem Einfamilienhaus, 5000 Franken pro Nutzeinheit in einem Mehrfamilienhaus und 500 Franken pro kW<sub>th</sub> bei anderen Gebäudekategorien;
-- d) Zusatzbeitrag von 1000 Franken für den Einbau eines Wassererwärmers, der direkt an das Heizsystem angeschlossen ist, als Ersatz einer bestehenden Anlage.
+- a) …
+- b) …
+- c) …
+- d) …
+
+<sup>3</sup> Die Finanzhilfe beträgt 360 Franken pro kWth.
+
+<sup>4</sup> Die Zusicherung bleibt drei Jahre ab dem Datum des Entscheids gültig.
 
 #### Art. 46
 
-**Luft/Wasser-Wärmepumpe (M-05 HFM 2015)**
+**Luft/Wasser-Wärmepumpe bis zu einer Leistung von 70 kW (M-05 HFM 2015)**
 
 <sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
 
@@ -642,17 +657,31 @@ beschliesst:
 <sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
 
 - a) 3500 Franken pro Anlage sowie 150 Franken pro kW<sub>th</sub>;
-- b) Zusatzbeitrag von 8000 Franken für die Erstinstallation eines Wärmeverteilsystems in einem Einfamilienhaus, 5000 Franken pro Nutzeinheit in einem Mehrfamilienhaus und 500 Franken pro kW<sub>th</sub> bei anderen Gebäudekategorien;
+- b) …
 - c) Zusatzbeitrag von 1000 Franken für den Einbau eines Wassererwärmers, der direkt an das Heizsystem angeschlossen ist, als Ersatz einer bestehenden Anlage.
+
+<sup>3</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
+
+#### Art. 46a
+
+**Luft/Wasser-Wärmepumpe mit einer Leistung über 70 kW (IP-05)**
+
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die Voraussetzungen nach Anhang 6a, Ziffer 1.2 EnV erfüllt sind.
+
+<sup>2</sup> In Gebieten mit Pflicht zum Anschluss an eine Fernheizung werden keine Förderbeiträge ausgerichtet.
+
+<sup>3</sup> Die Finanzhilfe beträgt 4000 Franken pro Anlage sowie 250 Franken pro kWth.
+
+<sup>4</sup> Die Zusicherung bleibt drei Jahre ab dem Datum des Entscheids gültig.
 
 #### Art. 47
 
-**Sole/Wasser-, Wasser/Wasser-Wärmepumpe (M-06 HFM 2015)**
+**Sole/Wasser- und Wasser/Wasser-Wärmepumpe bis zu einer Leistung von 70 kW (M-06 HFM 2015)**
 
-<sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
+<sup>1</sup> Förderbeiträge können für die Anlage gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
 
 - a) Die Anlage ist eine Elektromotor-Wärmepumpe.
-- b) Die Anlage mit Wärmenetz weist eine Feuerungswärmeleistung von höchstens 200 kW<sub>th</sub> auf. Bei Anlagen ohne Wärmenetz ist der Leistungsbereich nicht beschränkt.
+- b) …
 - c) Die Anlage wird als Hauptheizung eingesetzt.
 - d) Die Anlage ersetzt eine Öl-, Erdgas- oder ortsfeste elektrische Widerstandsheizung.
 - e) Die Anlage wird in einem Gebäude eingebaut, dessen Gebäudehülle nach GEAK mindestens die Energieklasse E erreicht.
@@ -662,16 +691,30 @@ beschliesst:
 
 <sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
 
-- a) bis 100 kW<sub>th</sub>, 5000 Franken pro Anlage sowie 300 Franken pro kW<sub>th</sub>;
-- b) von 100 bis 250 kW<sub>th</sub>, 27'000 Franken pro Anlage sowie 80 Franken pro kW<sub>th</sub>;
-- c) von 250 bis 500 kW<sub>th</sub>, 2400 Franken pro Anlage sowie 180 Franken pro kW<sub>th</sub>;
-- d) ab 500kW<sub>th</sub>, 42'400 Franken pro Anlage sowie 100 Franken pro kW<sub>th</sub>;
-- e) Zusatzbeitrag von 8000 Franken für die Erstinstallation eines Wärmeverteilsystems in einem Einfamilienhaus, 5000 Franken pro Nutzeinheit in einem Mehrfamilienhaus und 500 Franken pro kW<sub>th</sub> bei anderen Gebäudekategorien;
+- a) 5000 Franken pro Anlage sowie 300 Franken pro kWth;
+- b) …
+- c) …
+- d) …
+- e) …
 - f) Zusatzbeitrag von 1000 Franken für den Einbau eines Wassererwärmers, der direkt an das Heizsystem angeschlossen ist, als Ersatz einer bestehenden Anlage.
+
+<sup>3</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
+
+#### Art. 47a
+
+**Sole/Wasser- und Wasser/Wasser-Wärmepumpe mit einer Leistung über 70 kW (IP-06)**
+
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die Voraussetzungen nach Anhang 6a, Ziffer 1.3 EnV erfüllt sind.
+
+<sup>2</sup> In Gebieten mit Pflicht zum Anschluss an eine Fernheizung werden keine Förderbeiträge ausgerichtet.
+
+<sup>3</sup> Die Finanzhilfe beträgt 700 Franken pro kWth.
+
+<sup>4</sup> Die Zusicherung bleibt drei Jahre ab dem Datum des Entscheids gültig.
 
 #### Art. 48
 
-**Anschluss an ein Wärmenetz (M-07 HFM 2015)**
+**Anschluss an ein Wärmenetz bis zu einer Leistung von 70 kW (M-07 HFM 2015)**
 
 <sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
 
@@ -681,15 +724,27 @@ beschliesst:
 
 <sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
 
-- a) bis 100 kW<sub>th</sub>, 5000 Franken pro Anlage sowie 30 Franken pro kW<sub>th</sub>;
-- b) von 100 bis 250 kW<sub>th</sub>, 6000 Franken pro Anlage sowie 20 Franken prokW<sub>th</sub>;
-- c) ab 250 kW<sub>th</sub>, 9000 Franken pro Anlage sowie 10 Franken pro kW<sub>th</sub>;
-- d) Zusatzbeitrag von 8000 Franken für die Erstinstallation eines Wärmeverteilsystems in einem Einfamilienhaus, 5000 Franken pro Nutzeinheit in einem Mehrfamilienhaus und 500 Franken pro kW<sub>th</sub> bei anderen Gebäudekategorien;
+- a) 5000 Franken pro Anlage sowie 30 Franken pro kWth;
+- b) …
+- c) …
+- d) …
 - e) Zusatzbeitrag von 1000 Franken für den Einbau eines Wassererwärmers, der direkt an das Heizsystem angeschlossen ist, als Ersatz einer bestehenden Anlage.
+
+<sup>3</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
+
+#### Art. 48a
+
+**Anschluss an ein Wärmenetz mit einer Leistung über 70 kW (IP-07)**
+
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die Voraussetzungen nach Anhang 6a, Ziffer 1.4 EnV erfüllt sind.
+
+<sup>2</sup> Die Finanzhilfe beträgt 16'000 Franken pro Anlage sowie 80 Franken pro kWth.
+
+<sup>3</sup> Die Zusicherung bleibt drei Jahre ab dem Datum des Entscheids gültig.
 
 #### Art. 49
 
-**Solarkollektoranlagen (M-08 HFM 2015)**
+**Solarkollektoranlage bis zu einer Leistung von 70 kW (M-08 HFM 2015)**
 
 <sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
 
@@ -704,18 +759,31 @@ beschliesst:
 
 <sup>3</sup> Luftkollektoren, Heutrocknungs- und Schwimmbadheizungsanlagen sind nicht förderberechtigt.
 
+<sup>4</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
+
+#### Art. 49a
+
+**Solarkollektoranlage mit einer Leistung über 70 kW (IP-08)**
+
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die Voraussetzungen nach Anhang 6a, Ziffer 2 EnV erfüllt sind.
+
+<sup>2</sup> Die Finanzhilfe beträgt 20'000 Franken pro Anlage sowie 1000 Franken pro kW.
+
+<sup>3</sup> Die Zusicherung bleibt drei Jahre ab dem Datum des Entscheids gültig.
+
 #### Art. 50
 
-**Verbesserung der GEAK-Klasse der Gebäudehülle und der Gesamtenergieeffizienz (M-010 HFM 2015)**
+**Verbesserung der GEAK-Klasse der Gebäudehülle und der Gesamtenergieeffizienz (M-10 HFM 2015)**
 
 <sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
 
 - a) Die Baubewilligung für das Gebäude wurde vor dem Jahr 2000 ausgestellt.
 - b) Für das Gebäude muss ein GEAK erstellt werden können.
 - c) Die Verbesserung der GEAK-Effizienzklasse betrifft die Gebäudehülle und die Gesamtenergieeffizienz.
-- d) Ein GEAK Plus muss vor Beginn der Arbeiten vorgelegt werden.
+- d) Ein GEAK Plus wird vor Beginn der Arbeiten vorgelegt.
+- e) Die Grenzwerte für Sanierungen gemäss der Norm SIA 380/1 werden eingehalten.
 
-<sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
+<sup>2</sup> Bei der Gebäudehülle und der Gesamtenergieeffizienz wird die kleinere Verbesserung der Effizienzklasse berücksichtigt. Die Finanzhilfe wird nach den folgenden Grundsätzen festgelegt:
 
 <table>
 <tr><th>Verbesserung</th><th>Einfamilienhaus</th><th>Mehrfamilienhaus</th><th>Nicht-Wohnbau</th></tr>
@@ -726,13 +794,20 @@ beschliesst:
 <tr><td>+ 6 Klassen</td><td>180 Fr./m² EBF</td><td>120 Fr./m² EBF</td><td>100 Fr./m² EBF</td></tr>
 </table>
 
-<sup>3</sup> Diese Massnahme kann nicht mit anderen Fördermassnahmen zur Verbesserung der Gebäudehülle gemäss diesem Reglement kombiniert werden.
+<sup>2a</sup> Falls jedoch im Jahr vor dem Förderantrag gestützt auf Artikel 54b dieses Reglements ein Förderbeitrag für die Erstellung eines GEAK Plus gewährt wurde, wird der Gesamtbetrag der Finanzhilfe reduziert um
+
+- a) 1000 Franken für ein Einfamilienhaus;
+- b) 1500 Franken für alle anderen Gebäudekategorien.
+
+<sup>3</sup> Diese Massnahme kann nicht mit anderen Fördermassnahmen gemäss diesem Reglement kombiniert werden, mit Ausnahme der Massnahmen nach Artikel 52a, 54c und 54d dieses Reglements.
+
+<sup>4</sup> Die Zusicherung bleibt drei Jahre ab dem Datum des Entscheids gültig.
 
 [^50-1]: Anmerkung des Autors: EBF = Energiebezugsfläche.
 
 #### Art. 51
 
-**Umfassende Gesamtsanierung mit Minergie-Zertifikat (M-012 HFM 2015)**
+**Umfassende Gesamtsanierung mit Minergie-Zertifikat (M-12 HFM 2015)**
 
 <sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
 
@@ -748,11 +823,25 @@ beschliesst:
 <tr><td>Zusatzbeitrag ECO</td><td>10 Fr./m² EBF</td><td>10 Fr./m² EBF</td><td>10 Fr./m² EBF</td></tr>
 </table>
 
-<sup>3</sup> Diese Massnahme kann nicht mit anderen Fördermassnahmen zur Verbesserung der Gebäudehülle gemäss diesem Reglement kombiniert werden.
+<sup>3</sup> Diese Massnahme kann nicht mit anderen Fördermassnahmen gemäss diesem Reglement kombiniert werden, mit Ausnahme der Massnahmen nach Artikel 54c und 54d dieses Reglements.
+
+<sup>4</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
 
 #### Art. 52
 
 **…**
+
+#### Art. 52a
+
+**Vollständige Gebäudesanierung (Bonus für die Energieeffizienz der Gebäudehülle) (IP-14)**
+
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die Voraussetzungen nach Anhang 6a, Ziffer 4 EnV erfüllt sind.
+
+<sup>2</sup> Der Beitragssatz beträgt 60 Franken pro Quadratmeter wärmegedämmtes Bauteil sofern mindestens 90 % aller Hauptflächen des Gebäudes (Fassade und Dach ohne Wände und Boden gegen Erdreich) gemäss den Anforderungen der Massnahme nach Artikel 42 dieses Reglements wärmegedämmt werden. Diese Massnahme kann nur mit der Massnahme nach Artikel 42 dieses Reglements kombiniert werden.
+
+<sup>3</sup> Der Beitragssatz beträgt 30 Franken pro Quadratmeter Energiebezugsfläche, sofern das Gebäude nach der Sanierung für die Gebäudehülle die GEAK-Effizienzklasse C oder B aufweist. Diese Massnahme kann nur mit der Massnahme nach Artikel 50 dieses Reglements kombiniert werden.
+
+<sup>4</sup> Die Zusicherung bleibt zwei Jahre gültig, falls sie mit der Massnahme nach Artikel 42 dieses Reglements kombiniert wird. Sie bleibt drei Jahre gültig, falls sie mit der Massnahme nach Artikel 50 kombiniert wird.
 
 #### Art. 53
 
@@ -760,60 +849,64 @@ beschliesst:
 
 #### Art. 54
 
-**Neubau/Erweiterung Wärmenetz, Neubau / Erweiterung Wärmeerzeugungsanlage (M-018 HFM 2015)**
-
-<sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
-
-- a) Aufgrund des Netzneubaus/der Netzerweiterung oder des Neubaus/der Erweiterung von Wärmeerzeugungsanlagen wird gegenüber dem Zustand vor der Umsetzung zusätzlich Wärme aus erneuerbaren Energien oder Abwärme verteilt.
-- b) Die zusätzlich verteilte Wärme wird für die Erzeugung von Raumwärme und Warmwasser eingesetzt.
-- c) Die Wärmelieferung erfolgt an bestehende Bauten.
-- d) Eine Kombinierung mit der Massnahme «Anschluss an ein Wärmenetz» gemäss Artikel 48 dieses Reglements ist möglich.
-- e) Die Wärmenetzbetreiber stellen dem Kanton die notwendigen Angaben zur Vermeidung von Doppelzählungen im Sinne des HFM 2015 zur Verfügung.
-
-<sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
-
-- a) Neubau/Erweiterung Wärmenetz: 40 Franken pro MWh/Jahr;
-- b) Neubau/Erweiterung Wärmeerzeugungszentrale: 130 Franken pro MWh/Jahr.
+**…**
 
 #### Art. 54a
 
-**Ladestation für Elektrofahrzeuge**
-
-<sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
-
-- a) Die Ladestation muss fest installiert sein und einen privaten Parkplatz eines Ein- oder Mehrfamilienhauses, einschliesslich Stockwerkeigentum, ausrüsten.
-- b) Die Nennleistung pro Ladestation muss mindestens 11 kW betragen.
-- c) Der technische Anschluss der Anlage muss vom Verteilnetzbetreiber genehmigt werden.
-- d) Die Ladestation wird allein mit Strom aus erneuerbaren Energiequellen betrieben. Der Strom wird vor Ort erzeugt oder beim Elektrizitätsversorgungsunternehmen erworben.
-- e) Die Anlage muss kontrolliert und mit einem Sicherheitsnachweis im Sinne der Verordnung des Bundesrats vom 7. November 2001 über elektrische Niederspannungsinstallationen (NIV) zum Betrieb freigegeben werden.
-- f) Pro Wohneinheit kann nur eine Ladestation gefördert werden.
-
-<sup>2</sup> Die Finanzhilfe wird nach den folgenden Grundsätzen festgelegt:
-
-- a) 500 Franken für eine Ladestation an einem neuen Parkplatz;
-- b) 1000 Franken für eine Ladestation an einem bestehenden Parkplatz.
-
-<sup>3</sup> Die Massnahme gilt bis spätestens am 31. Dezember 2023 oder bis die dafür bereitgestellten Mittel aufgebraucht sind.
+**…**
 
 #### Art. 54b
 
-**Gebäudeenergieausweis der Kantone Plus (GEAK® Plus)**
+**Gebäudeenergieausweis der Kantone Plus (GEAK Plus)**
 
 <sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
 
 - a) Die Baubewilligung für das Gebäude wurde vor dem Jahr 2000 ausgestellt.
-- b) Der GEAK® Plus wird von einer Person ausgestellt, die sich auf der Liste der Expertinnen und Experten befindet, die von der GEAK®-Organisation zertifiziert sind.
-- c) Der GEAK® Plus wird fachgerecht erstellt, von der zertifizierten Expertin oder vom zertifizierten Experten unterschrieben und in der GEAK®-Datenbank veröffentlicht.
+- b) Die Verfasserin oder der Verfasser des GEAK Plus muss in der Liste der vom GEAK-Verein zertifizierten Expertinnen und Experten aufgeführt sein;
+- c) Der GEAK Plus wird fachgerecht erstellt, von der zertifizierten Expertin oder vom zertifizierten Experten unterschrieben und in der GEAK-Datenbank veröffentlicht;
 - d) Der Bericht enthält neben dem Ausgangszustand mindestens zwei Varianten, wobei eine davon eine Gesamtsanierung abbildet.
 - e) Die Offerte der zertifizierten Expertin oder des zertifizierten Experten muss mindestens eine einstündige Beratung bei der Übergabe des Berichts an die Eigentümerin oder den Eigentümer beinhalten.
-- f) Bei mehreren Gebäude-Identifikationsnummern (eidgenössischer Gebäudeidentifikator, EGID) oder bei identischen Gebäuden kann der Förderbeitrag auf ein einziges Gesuch beschränkt werden.
+- f) Bei mehreren Gebäude-Identifikationsnummern (eidgenössischer Gebäudeidentifikator, EGID) oder bei identischen Gebäuden kann der Förderbeitrag auf ein einziges Gesuch beschränkt werden;
+- g) Für die Erstellung des GEAK Plus besteht keine gesetzliche Pflicht.
 
 <sup>2</sup> Die Finanzhilfe wird nach den folgenden Grundsätzen festgelegt:
 
 - a) 1000 Franken für ein Einfamilienhaus;
 - b) 1500 Franken für alle anderen Gebäudekategorien.
 
-<sup>3</sup> Die Massnahme gilt bis spätestens am 31. Dezember 2024 oder bis die dafür bereitgestellten Mittel aufgebraucht sind.
+<sup>3</sup> Die Massnahme gilt bis spätestens am 31. Dezember 2026 oder bis die dafür bereitgestellten Mittel aufgebraucht sind.
+
+<sup>4</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig.
+
+#### Art. 54c
+
+**Unterstützung von Eigenverbrauchsgemeinschaften**
+
+<sup>1</sup> Finanzhilfen können gewährt werden, wenn die folgenden Bedingungen kumulativ erfüllt sind:
+
+- a) Ein neuer Zusammenschluss zum Eigenverbrauch (ZEV) oder ein ähnliches Modell wird geschaffen.
+- b) Ein eigener Stromzähler wird zusätzlich eingebaut.
+- c) Der Zusammenschluss mehrerer Verbraucher muss mindestens ein bestehendes Gebäude einschliessen.
+- d) Die Leistung der Anlage oder der Anlagen muss mindestens 10 % der gesamten Anschlussleistung der Gemeinschaft entsprechen.
+- e) Der technische Anschluss der Anlage an das Stromverteilnetz muss vom Verteilnetzbetreiber validiert werden.
+- f) Die Anlage muss kontrolliert und mit einem Sicherheitsnachweis im Sinne der NIV zum Betrieb freigegeben werden.
+
+<sup>2</sup> Die Finanzhilfe entspricht einem Pauschalbetrag von 750 Franken pro Eigenverbrauchsgemeinschaft.
+
+<sup>3</sup> Die Massnahme gilt bis am 31. Dezember 2026 oder bis die dafür bereitgestellten Mittel aufgebraucht sind.
+
+#### Art. 54d
+
+**Ersatz von dezentralen elektrischen Widerstandsheizungen oder von dezentralen, mit fossilen Energien betriebenen Heizungen (IP-19)**
+
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die Voraussetzungen nach Anhang 6a, Ziffer 3 EnV erfüllt sind.
+
+<sup>2</sup> Die Finanzhilfe wird nach den folgenden Grundsätzen festgelegt:
+
+- a) für eine EBF von höchstens 250 m2: 15'000 Franken pro Anlage;
+- b) für eine EBF ab 250 m2: 60 Franken pro m2 EBF.
+
+<sup>3</sup> Die Zusicherung bleibt drei Jahre ab dem Datum des Entscheids gültig.
 
 #### Art. 55
 
@@ -825,13 +918,13 @@ beschliesst:
 
 **Entscheidungsverfahren**
 
-<sup>1</sup> Nur für Massnahmen, die nicht von diesem Reglement und insbesondere von den Bestimmungen des Abschnitts 3 vorgeschrieben werden, können Finanzhilfen des Kantons gewährt werden.
+<sup>1</sup> Nur Massnahmen, die das vorliegende Reglement nicht vorschreibt, können eine staatliche Finanzhilfe erhalten.
 
-<sup>2</sup> Für alle Anträge müssen die vom Amt herausgegebenen offiziellen kantonalen Formulare in zwei Exemplaren beim Amt eingereicht werden.
+<sup>2</sup> Die vom Amt herausgegebenen offiziellen kantonalen Formulare sind beim Amt einzureichen.
 
 <sup>3</sup> Über die Zusicherung von Finanzhilfen entscheidet das Amt unter Berücksichtigung der im Staatshaushalt zur Verfügung stehenden Mittel.
 
-<sup>4</sup> Die Zusicherung bleibt zwei Jahre ab dem Datum des Entscheids gültig; nach Ablauf dieser Frist wird der Entscheid ungültig, wenn sich die begünstigte Person nicht meldet und keinen Nachweis erbringt, dass die Arbeiten mindestens kurz vor dem Abschluss stehen.
+<sup>4</sup> Nach Ablauf der Gültigkeitsdauer der Zusicherung wird der Entscheid ungültig, wenn sich die begünstigte Person nicht meldet und keinen Nachweis erbringt, dass die Arbeiten mindestens kurz vor dem Abschluss stehen.
 
 <sup>5</sup> Finanzhilfen werden erst ausbezahlt, wenn das Amt die detaillierte Abrechnung erhalten und kontrolliert hat; bei Holzheizungen muss zusätzlich die Bestätigung des Amtes für Umwelt über die Einhaltung der Luftreinhalte-Verordnung des Bundes (LRV) mitgeliefert werden. Die Zahlungen werden im Rahmen der im Staatshaushalt zur Verfügung stehenden Mittel ausgeführt.
 
@@ -845,12 +938,12 @@ beschliesst:
 
 - a) M-01 (Art. 42);
 - b) M-03 (Art. 44);
-- c) M-04 (Art. 45);
+- c) …
 - d) M-06 (Art. 47);
 - e) M-07 (Art. 48);
 - f) M-10 (Art. 50);
 - g) M-12 (Art. 51);
-- h) M-18 (Art. 54).
+- h) …
 
 #### Art. 57
 
