@@ -3,20 +3,19 @@ canton: OW
 number: "610.221"
 title: Ausführungsbestimmungen über das Interne Kontrollsystem IKS
 language: de
-version: 2021-10-01
-valid_until: 2024-12-31
-version_adopted: 2021-09-21
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2021-09-21
 in_force: 2021-10-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/610.221"
-pdf: "http://gdb.ow.ch/api/de/versions/1531/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1925/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über das Interne Kontrollsystem IKS
 
-vom 21.09.2021 (Stand 01.10.2021)
+vom 21.09.2021 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -79,7 +78,7 @@ beschliesst:
 
 <sup>2</sup> Das Finanzdepartement ist für die fachliche Führung (IKS-Fachstelle) verantwortlich und stellt die notwendigen Instrumente zur Verfügung.
 
-<sup>3</sup> Im Finanzdepartement wird die IKS-Fachstelle der Finanzverwaltung zugeordnet. Sie nimmt die fachlichen und verwaltungseinheitsübergreifenden Aufgaben war und stellt ein risikoorientiertes IKS sicher, in dem sie auf Basis der finanziellen Planung, der Buchführung und der finanziellen Berichterstattung die Schnittstellen zu anderen kantonalen Verwaltungseinheiten definiert.
+<sup>3</sup> Im Finanzdepartement wird die IKS-Fachstelle dem Departementssekretariat zugeordnet. Sie nimmt die fachlichen und verwaltungseinheitsübergreifenden Aufgaben wahr und stellt ein risikoorientiertes IKS sicher, in dem sie auf Basis der finanziellen Planung, der Buchführung und der finanziellen Berichterstattung die Schnittstellen zu anderen kantonalen Verwaltungseinheiten definiert.
 
 #### Art. 6
 
@@ -137,5 +136,15 @@ beschliesst:
 <sup>1</sup> Das Finanzdepartement wendet das IKS ab 1. Januar 2022 an. Die erstmalige Berichterstattung zum IKS erfolgt im Rahmen der Berichterstattung zur Staatsrechnung 2022.
 
 <sup>2</sup> Die weiteren kantonalen Verwaltungseinheiten wenden das IKS ab 1. Januar 2023 an. Die erstmalige Berichterstattung zum IKS erfolgt im Rahmen der Berichterstattung zur Staatsrechnung 2023.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2021, 31
+
+Ursprüngliches Inkrafttreten: 1. Oktober 2021
+
+Geändert durch:
+
+\- Nachtrag vom 17. Dezember 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 44)
 
 OGS 2021, 31
