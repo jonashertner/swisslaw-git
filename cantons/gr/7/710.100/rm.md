@@ -2,24 +2,24 @@
 canton: GR
 number: "710.100"
 title: Lescha da finanzas dal chantun Grischun
-short: lescha da finanzas; LFC
+short: "lescha da finanzas, LFC"
 language: rm
-version: 2017-01-01
-corrected: 2018-01-10
-version_adopted: 2016-02-02
+version: 2025-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-06-14
 adopted: 2011-10-19
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2709/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha da finanzas dal chantun Grischun
 
-(lescha da finanzas; LFC)
+(lescha da finanzas, LFC)
 
-dals 19-10-2011 (versiun dals 01-01-2017)
+dals 19-10-2011 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -246,7 +246,8 @@ concluda:
 - a) per expensas supplementaras fin a 50 000 francs u, sche quai importa dapli, fin a 2 pertschient per mintga credit singul;
 - b) per expensas supplementaras annualas fin 20 pertschient d'in credit d'impegn;
 - c) per expensas supplementaras, uschenavant ch'ellas vegnan gulivadas il medem onn da gestiun tras entradas supplementaras u tras expensas pli pitschnas che sa refereschan a la medema chaussa;
-- d) per spustaments da credits entaifer ils credits da renovaziun da las singulas categorias da vias sco er tranter contos da contribuziuns dal medem num dal quint economic e dal quint d'investiziun.
+- d) per spustaments da credits entaifer ils credits da renovaziun da las singulas categorias da vias sco er tranter contos da contribuziuns dal medem num dal quint economic e dal quint d'investiziun;
+- e) per expensas indispensablas da las autoritads giudizialas e quasi-giudizialas che stattan en in connex direct cun la giurisdicziun.
 
 #### Art. 22
 
@@ -430,19 +431,17 @@ concluda:
 
 #### Art. 39
 
-**Dretgira chantunala e dretgira administrativa**
+**Autoritads giudizialas**
 
-<sup>1</sup> Areguard las cumpetenzas da decider davart ils credits han la dretgira chantunala e la dretgira administrativa il medem status sco la regenza.
+<sup>1</sup> Areguard las cumpetenzas da decider davart ils credits han la Dretgira superiura e la Dretgira da giustia il medem status sco la Regenza.
 
-<sup>2</sup> Per expensas indispensablas che stattan en in connex direct cun la giurisdicziun na dovri betg in credit posteriur.
+<sup>2</sup> …
 
-<sup>3</sup> Uschenavant che quai è necessari per il sectur da la giustia, pon la dretgira chantunala e la dretgira administrativa relaschar disposiziuns finanzialas divergentas tras ordinaziuns, suenter avair tadlà il departament da finanzas e vischnancas sco er la controlla da finanzas.
+<sup>3</sup> Uschenavant che quai è necessari per il sectur da la giustia, po la Dretgira superiura relaschar disposiziuns finanzialas divergentas tras ordinaziuns, suenter avair tadlà il Departament da finanzas e vischnancas sco er la Controlla da finanzas.
 
 #### Art. 39a
 
-**Dretgiras regiunalas ed autoritads da mediaziun**
-
-<sup>1</sup> La dretgira chantunala regla en in'ordinaziun la cumpetenza da las dretgiras regiunalas e da las autoritads da mediaziun da decider davart ils credits sco er ulteriuras disposiziuns areguard las finanzas, suenter avair tadlà il departament da finanzas e vischnancas, la controlla da finanzas, las dretgiras regiunalas e las autoritads da mediaziun.
+**…**
 
 ## 8. Contribuziuns chantunalas
 

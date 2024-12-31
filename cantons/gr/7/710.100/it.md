@@ -4,13 +4,13 @@ number: "710.100"
 title: Legge sulla gestione finanziaria del Cantone dei Grigioni
 short: LGF
 language: it
-version: 2017-01-01
-corrected: 2018-01-10
-version_adopted: 2016-02-02
+version: 2025-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-06-14
 adopted: 2011-10-19
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2709/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3413/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2709/pdf_file"
 
 (LGF)
 
-del 19.10.2011 (stato 01.01.2017)
+del 19.10.2011 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -246,7 +246,8 @@ decide:
 - a) per le uscite supplementari fino a 50 000 franchi oppure, se superano tale importo, fino al 2 per cento per ciascun credito individuale;
 - b) per le uscite supplementari annue fino al 20 per cento di un credito d'impegno;
 - c) per le uscite supplementari, per quanto esse vengano compensate nello stesso anno d'esercizio con entrate supplementari o minori spese riferite allo stesso oggetto;
-- d) per trasferimenti di crediti all'interno dei crediti di sviluppo delle singole categorie di strade nonché tra voci di sussidio identiche del conto economico e del conto degli investimenti.
+- d) per trasferimenti di crediti all'interno dei crediti di sviluppo delle singole categorie di strade nonché tra voci di sussidio identiche del conto economico e del conto degli investimenti;
+- e) per uscite indispensabili delle autorità giudiziarie e prossime alla giustizia in relazione diretta alla giurisprudenza.
 
 #### Art. 22
 
@@ -430,19 +431,17 @@ decide:
 
 #### Art. 39
 
-**Tribunale cantonale e Tribunale amministrativo**
+**Autorità giudiziarie**
 
-<sup>1</sup> Per quanto riguarda le competenze decisionali relative ai crediti, il Tribunale cantonale e il Tribunale amministrativo sono equiparati al Governo.
+<sup>1</sup> Per quanto riguarda le competenze decisionali relative ai crediti, il Tribunale d'appello e il Tribunale della magistratura sono equiparati al Governo.
 
-<sup>2</sup> Per le uscite indispensabili in relazione diretta alla giurisprudenza materiale non è necessario un credito suppletivo.
+<sup>2</sup> …
 
-<sup>3</sup> Per quanto necessario per il settore giudiziario, il Tribunale cantonale e il Tribunale amministrativo possono, dopo aver sentito il Dipartimento delle finanze e dei comuni e il Controllo delle finanze, emanare tramite ordinanza disposizioni derogatorie di diritto finanziario.
+<sup>3</sup> Per quanto necessario per il settore giudiziario, il Tribunale d'appello può, dopo aver sentito il Dipartimento delle finanze e dei comuni e il Controllo delle finanze, emanare tramite ordinanza disposizioni derogatorie di diritto finanziario.
 
 #### Art. 39a
 
-**Tribunali regionali e autorità di conciliazione**
-
-<sup>1</sup> Il Tribunale cantonale disciplina in un'ordinanza la competenza decisionale relativa ai crediti e ulteriori disposizioni relative al diritto in materia di finanze concernenti i tribunali regionali e le autorità di conciliazione dopo aver sentito il Dipartimento delle finanze e dei comuni, il Controllo delle finanze, i tribunali regionali e le autorità di conciliazione.
+**…**
 
 ## 8. Sussidi cantonali
 

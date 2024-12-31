@@ -2,24 +2,24 @@
 canton: GR
 number: "710.100"
 title: Gesetz über den Finanzhaushalt des Kantons Graubünden
-short: Finanzhaushaltsgesetz; FHG
+short: "Finanzhaushaltsgesetz, FHG"
 language: de
-version: 2017-01-01
-corrected: 2018-01-10
-version_adopted: 2016-02-02
+version: 2025-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-06-14
 adopted: 2011-10-19
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2709/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Finanzhaushalt des Kantons Graubünden
 
-(Finanzhaushaltsgesetz; FHG)
+(Finanzhaushaltsgesetz, FHG)
 
-Vom 19.10.2011 (Stand 01.01.2017)
+Vom 19.10.2011 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -248,7 +248,8 @@ beschliesst:
 - a) für Mehrausgaben bis 50 000 Franken oder, wenn dies mehr ausmacht, bis zwei Prozent je Einzelkredit;
 - b) für jährliche Mehrausgaben bis 20 Prozent eines Verpflichtungskredites;
 - c) für Mehrausgaben, soweit sie durch sachbezogene Mehreinnahmen oder Minderausgaben im gleichen Rechnungsjahr ausgeglichen werden;
-- d) für Kreditumlagerungen innerhalb der Ausbaukredite der einzelnen Strassenkategorien sowie zwischen gleich lautenden Beitragskonten der Erfolgsrechnung und der Investitionsrechnung.
+- d) für Kreditumlagerungen innerhalb der Ausbaukredite der einzelnen Strassenkategorien sowie zwischen gleich lautenden Beitragskonten der Erfolgsrechnung und der Investitionsrechnung;
+- e) für unerlässliche Ausgaben der richterlichen und justiznahen Behörden in unmittelbarem Zusammenhang mit der Rechtsprechung.
 
 #### Art. 22
 
@@ -432,19 +433,17 @@ beschliesst:
 
 #### Art. 39
 
-**Kantons- und Verwaltungsgericht**
+**Richterliche Behörden**
 
-<sup>1</sup> Das Kantons- und das Verwaltungsgericht sind bezüglich der kreditmässigen Entscheidkompetenzen der Regierung gleichgestellt.
+<sup>1</sup> Das Obergericht und das Justizgericht sind bezüglich der kreditmässigen Entscheidkompetenzen der Regierung gleichgestellt.
 
-<sup>2</sup> Für unerlässliche Ausgaben im unmittelbaren Zusammenhang mit der materiellen Rechtsprechung ist kein Nachtragskredit nötig.
+<sup>2</sup> …
 
-<sup>3</sup> Soweit dies für den Justizbereich nötig ist, können das Kantons- und das Verwaltungsgericht nach Anhörung des Departementes für Finanzen und Gemeinden und der Finanzkontrolle durch Verordnung abweichende finanzrechtliche Bestimmungen erlassen.
+<sup>3</sup> Soweit dies für den Justizbereich nötig ist, kann das Obergericht nach Anhörung des Departementes für Finanzen und Gemeinden und der Finanzkontrolle durch Verordnung abweichende finanzrechtliche Bestimmungen erlassen.
 
 #### Art. 39a
 
-**Regionalgerichte und Schlichtungsbehörden**
-
-<sup>1</sup> Das Kantonsgericht regelt in einer Verordnung die kreditmässige Entscheidkompetenz sowie weitere finanzrechtliche Bestimmungen bezüglich der Regionalgerichte und Schlichtungsbehörden nach Anhörung des Departementes für Finanzen und Gemeinden, der Finanzkontrolle, der Regionalgerichte und der Schlichtungsbehörden.
+**…**
 
 ## 8. Kantonsbeiträge
 
