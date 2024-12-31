@@ -4,13 +4,12 @@ number: "550.110"
 title: "Verordnung über Besoldung, Auslagen und Spesen der Mitglieder des Korps der Kantonspolizei"
 short: BesPolV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-30
+version: 2025-01-01
+version_adopted: 2025-03-12
 adopted: 2017-12-20
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.110"
-pdf: "https://lex.vs.ch/api/de/versions/3099/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3099/pdf_file"
 
 (BesPolV)
 
-vom 20.12.2017 (Stand 01.01.2023)
+vom 20.12.2017 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -97,9 +96,9 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Der Kommandant setzt in den Dienstanweisungen die Bedingungen für die Nutzung von Dienst- und Privatfahrzeugen fest.
 
-<sup>3</sup> Dienstreisen ins Ausland müssen vom Kommandanten genehmigt werden.
+<sup>3</sup> Dienstreisen ins Ausland, einschliesslich der Durchreise, müssen vom Kommandanten genehmigt werden.
 
-<sup>4</sup> Im Rahmen von besonderen vom Kommandanten angeordneten Aufträgen, die in den Dienstanweisungen bestimmt sind, kann die Kostenrückerstattung für Zugreisen durch Verrechnung mit den gezahlten Vorschussbeträgen erfolgen.
+<sup>4</sup> In Abweichung von Artikel 7 Absatz 2 des Spesenreglements, kann im Rahmen von besonderen operativer vom Kommandanten angeordneten Aufträgen, die eine Anreise mit dem Zug erfordern, die Kostenrückerstattung für Zugreisen durch Verrechnung mit den gezahlten Vorschussbeträgen erfolgen.
 
 <sup>5</sup> Es gelten die Bestimmungen aus dem Spesenreglement vom 24. Juni 2010 und der dazugehörigen Anhänge (Kost und Logis).
 
@@ -171,15 +170,23 @@ verordnet:[^ingress-1]
 
 **Mietzulage**
 
-<sup>1</sup> Polizisten, deren Wohnort vorgegeben wird, können eine jährliche Mietzulage beantragen. Die Höhe dieser Zulage entspricht der Differenz zwischen 13 Prozent des Bruttogehalts des Vorjahres und dem Betrag der Durchschnittsmiete für eine Wohnung, die für die private Situation des betreffenden Mitarbeiters angemessen ist.
+<sup>1</sup> Polizisten, deren Wohnort vorgegeben wird, können eine Wohnungszulage von 700 Franken pro Monat beantragen.
 
-<sup>2</sup> In jedem Fall ist ausschliesslich der Kommandant für die Gewährung dieser Zulage zuständig.
+<sup>2</sup> In jedem Fall ist ausschliesslich der Kommandant für die Gewährung dieser Zulage zuständig, deren Modalitäten in einer Dienstanweisung festgelegt sind.
 
 #### Art. 14a
 
 **Entschädigung für Polizeihunde**
 
-<sup>1</sup> Der Staat entschädigt den Polizeihundeführer, vom Zeitpunkt des Erwerbs des Tieres bis zu dessen Pensionierung, mit einer vierteljährlichen Pauschale von 700 Franken für das Hundefutter.
+<sup>1</sup> Der Staat entschädigt den Polizeihundeführer, vom Zeitpunkt des Erwerbs des Tieres bis zu dessen Pensionierung, mit einer vierteljährlichen Pauschale von 1'000 Franken. Dieser Betrag wird für die Ernährung des Hundes sowie den Kauf und die Instandhaltung von Hundehütten und Käfigen gewährt, die für den privaten Transport benötigt werden.
+
+#### Art. 14b
+
+**Bekleidungszulage für Personenschutzaufgaben**
+
+<sup>1</sup> Polizisten, die zu Personenschutzaufgaben herangezogen werden und sich privat mit speziellen Kleidungsstücken ausstatten müssen, erhalten eine jährliche Zulage von höchstens 300 Franken.
+
+<sup>2</sup> In jedem Fall ist ausschliesslich der Kommandant für die Gewährung dieser Zulage zuständig, deren Modalitäten in einer Dienstanweisung festgelegt sind.
 
 #### Art. 15
 

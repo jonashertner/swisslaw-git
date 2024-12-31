@@ -4,13 +4,12 @@ number: "550.110"
 title: "Ordonnance concernant le traitement, les frais et indemnités des membres du corps de la police cantonale"
 short: OTraPol
 language: fr
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-30
+version: 2025-01-01
+version_adopted: 2025-03-12
 adopted: 2017-12-20
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.110"
-pdf: "https://lex.vs.ch/api/fr/versions/3099/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3470/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3099/pdf_file"
 
 (OTraPol)
 
-du 20.12.2017 (état 01.01.2023)
+du 20.12.2017 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -97,9 +96,9 @@ ordonne:[^ingress-1]
 
 <sup>2</sup> Le commandant fixe dans les instructions de service les modalités d'utilisation des véhicules de service et des véhicules privés.
 
-<sup>3</sup> Les déplacements de service à l'étranger doivent être autorisés par le commandant.
+<sup>3</sup> Les déplacements de service à l'étranger, y compris le transit, doivent être autorisés par le commandant.
 
-<sup>4</sup> Dans le cadre de missions particulières ordonnées par le commandant et fixées dans les instructions de service, le remboursement des frais de déplacements en train peut être effectué sur la base des montants effectivement avancés.
+<sup>4</sup> En dérogation de l’article 7 alinéa 2 du règlement sur les indemnités de déplacements, dans le cadre de missions opérationnelles particulières imposant le déplacement en train, le remboursement des frais peut être effectué sur la base des montants effectivement avancés.
 
 <sup>5</sup> Les dispositions contenues dans le règlement sur les indemnités de déplacements du 24 juin 2010 et son annexe (repas et hébergement) sont applicables.
 
@@ -171,15 +170,23 @@ ordonne:[^ingress-1]
 
 **Indemnité de logement**
 
-<sup>1</sup> Les agents dont le lieu de résidence est imposé peuvent demander une indemnité annuelle de logement. Le calcul de cette indemnité correspond à la différence entre le 13 pour-cent du salaire brut de l'année précédente et le montant du loyer moyen d'un appartement correspondant à la situation privée du collaborateur concerné.
+<sup>1</sup> Les agents dont le lieu de résidence est imposé peuvent demander une indemnité de logement de 700 francs par mois.
 
-<sup>2</sup> Dans tous les cas, seul le commandant est compétent pour l'octroi de cette indemnité.
+<sup>2</sup> Dans tous les cas, seul le commandant est compétent pour l'octroi de cette indemnité dont les modalités sont définies dans une instruction de service.
 
 #### Art. 14a
 
 **Indemnité pour les chiens de police**
 
-<sup>1</sup> L'Etat verse au conducteur de chien de police, dès l'acquisition de son animal et jusqu'à la retraite de ce dernier, un montant trimestriel forfaitaire de 700 francs pour l'alimentation de son animal.
+<sup>1</sup> L'Etat verse au conducteur de chien de police, dès l'acquisition de son animal et jusqu'à la retraite de ce dernier, un montant trimestriel forfaitaire de 1'000 francs. Ce montant est octroyé pour l'alimentation de son animal ainsi que pour l'achat et l'entretien des niches et cages nécessaires pour le transport à titre privé.
+
+#### Art. 14b
+
+**Indemnité d’habillement pour les missions de protection rapprochée**
+
+<sup>1</sup> Les agents qui sont appelés à effectuer des missions de protection rapprochée et qui doivent s’équiper à titre personnel de pièces d’habillement spécifiques reçoivent une indemnité annuelle maximale de 300 francs.
+
+<sup>2</sup> Dans tous les cas, seul le commandant est compétent pour l'octroi de cette indemnité dont les modalités sont définies dans une instruction de service.
 
 #### Art. 15
 
