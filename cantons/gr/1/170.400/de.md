@@ -4,13 +4,12 @@ number: "170.400"
 title: Gesetz über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden
 short: "Personalgesetz, PG"
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-01
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3283/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3380/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3283/pdf_file"
 
 (Personalgesetz, PG)
 
-Vom 14.06.2006 (Stand 01.01.2023)
+Vom 14.06.2006 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -683,7 +682,7 @@ beschliesst:
 
 **Unvereinbarkeit von Ämtern**
 
-<sup>1</sup> Die Mitarbeitenden dürfen nicht gleichzeitig Mitglied der Bundesversammlung, des Grossen Rates, der Regierung, des Kantons- oder Verwaltungsgerichts oder des Bankrates sein. Davon ausgenommen sind Mitarbeitende mit einem gesamten Arbeitsumfang beim Kanton von maximal 40 Prozent.
+<sup>1</sup> Die Mitarbeitenden dürfen nicht gleichzeitig Mitglied der Bundesversammlung, des Grossen Rates, der Regierung, des Obergerichts oder des Bankrates sein. Davon ausgenommen sind Mitarbeitende mit einem gesamten Arbeitsumfang beim Kanton von maximal 40 Prozent.
 
 <sup>2</sup> Wird eine Mitarbeiterin oder ein Mitarbeiter mit einem höheren Arbeitsumfang in eine dieser Behörden gewählt, ist der Arbeitsumfang entsprechend herabzusetzen. Ist dies aus betrieblichen Gründen nicht möglich, ist das Arbeitsverhältnis innert sechs Monaten nach der Wahl zu beenden.
 
@@ -774,16 +773,16 @@ beschliesst:
 
 **2. Für die selbstständigen kantonalen Anstalten sowie Gerichte und Schlichtungsbehörden**
 
-<sup>1</sup> Die selbstständigen kantonalen Anstalten sowie das Kantons- und das Verwaltungsgericht haben die gleichen Befugnisse wie die Regierung. Davon ausgenommen sind die Bestimmungen von Artikel 20, Artikel 29 Absatz 2, Artikel 35 Absatz 4, Artikel 36 Absatz 2, Artikel 37 Absatz 2, Artikel 47a Absatz 3 und Absatz 4 und Artikel 73 Absatz 2.
+<sup>1</sup> Die selbstständigen kantonalen Anstalten sowie das Obergericht haben die gleichen Befugnisse wie die Regierung. Davon ausgenommen sind die Bestimmungen von Artikel 20, Artikel 29 Absatz 2, Artikel 35 Absatz 4, Artikel 36 Absatz 2, Artikel 37 Absatz 2, Artikel 47a Absatz 3 und Absatz 4 und Artikel 73 Absatz 2.
 
-<sup>2</sup> Die selbstständigen kantonalen Anstalten sowie das Kantons- und das Verwaltungsgericht bestimmen die zuständigen Instanzen. Vorbehalten bleiben besondere Bestimmungen in den Organisationsgesetzen.
+<sup>2</sup> Die selbstständigen kantonalen Anstalten sowie das Obergericht bestimmen die zuständigen Instanzen. Vorbehalten bleiben besondere Bestimmungen in den Organisationsgesetzen.
 
 <sup>3</sup> Das Personalamt bereitet auf Antrag und gegen Entschädigung personalrechtliche Verträge, Verfügungen und Beschlüsse der selbstständigen kantonalen Anstalten sowie der Gerichte und Schlichtungsbehörden im Sinne von Artikel 59 Absatz 2 vor.
 
 <sup>4</sup> Die Einreihung der Stellen ist mit dem Personalamt abzusprechen. Wird zwischen der Anstalt oder dem Gericht und dem Personalamt keine Einigung erzielt, entscheidet endgültig
 
 - a) bei den selbstständigen kantonalen Anstalten die Regierung;
-- b) beim Kantons- und Verwaltungsgericht die vom Grossen Rat bezeichnete Kommission.
+- b) beim Obergericht die vom Grossen Rat bezeichnete Kommission.
 
 <sup>5</sup> Die selbstständigen kantonalen Anstalten können für ihre Mitarbeitenden die Ausführungsbestimmungen zu diesem Gesetz erlassen.
 
@@ -797,7 +796,7 @@ beschliesst:
 
 <sup>2</sup> Verfügungen der Dienststellen können an das vorgesetzte Departement und Verfügungen der Departemente, der Standeskanzlei und der Finanzkontrolle an die Regierung weitergezogen werden.
 
-<sup>3</sup> Verfügungen und Beschwerdeentscheide der Regierung und Beschwerdeentscheide der Departemente können an das Verwaltungsgericht weitergezogen werden.
+<sup>3</sup> Verfügungen und Beschwerdeentscheide der Regierung und Beschwerdeentscheide der Departemente können an das Obergericht weitergezogen werden.
 
 <sup>4</sup> Die Verfahren sind unter Vorbehalt mutwilliger Prozessführung kostenlos.
 
@@ -805,11 +804,11 @@ beschliesst:
 - b) …
 - c) …
 
-<sup>5</sup> Personalrechtliche Entscheide der selbstständigen kantonalen Anstalten können an das Verwaltungsgericht weitergezogen werden.
+<sup>5</sup> Personalrechtliche Entscheide der selbstständigen kantonalen Anstalten können an das Obergericht weitergezogen werden.
 
-<sup>5<sup>bis</sup></sup> Personalrechtliche Entscheide der Regionalgerichte können an das Kantonsgericht weitergezogen werden.
+<sup>5<sup>bis</sup></sup> Personalrechtliche Entscheide der Regionalgerichte und der Schlichtungsbehörden können an das Obergericht weitergezogen werden.
 
-<sup>6</sup> Personalrechtliche Entscheide des Kantonsgerichts, die dessen Mitarbeitende betreffen, können an das Verwaltungsgericht und personalrechtliche Entscheide des Verwaltungsgerichts, die dessen Mitarbeitende betreffen, an das Kantonsgericht weitergezogen werden.
+<sup>6</sup> Personalrechtliche Entscheide des Obergerichts, die dessen Mitarbeitende betreffen, können an das Justizgericht und personalrechtliche Entscheide des Justizgerichts, die dessen Mitarbeitende betreffen, an das Obergericht weitergezogen werden.
 
 #### Art. 67
 

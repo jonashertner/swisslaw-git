@@ -4,13 +4,12 @@ number: "170.400"
 title: Lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun
 short: "lescha dal persunal, LP"
 language: rm
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-01
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3283/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3380/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3283/pdf_file"
 
 (lescha dal persunal, LP)
 
-dals 14-06-2006 (versiun dals 01-01-2023)
+dals 14-06-2006 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -689,7 +688,7 @@ concluda:
 
 **Incumpatibilitad d'uffizis**
 
-<sup>1</sup> Las collavuraturas ed ils collavuraturs na dastgan betg esser a medem temp commembras u commembers da l'assamblea federala, dal cussegl grond, da la regenza, da la dretgira chantunala u da la dretgira administrativa ubain dal cussegl da banca. Exceptads da quai èn collavuraturas e collavuraturs che han in grad d'occupaziun total da maximalmain 40 pertschient tar il chantun.
+<sup>1</sup> Las collavuraturas ed ils collavuraturs na dastgan betg esser a medem temp commembras u commembers da l'Assamblea federala, dal Cussegl grond, da la Regenza, da la Dretgira superiura ubain dal Cussegl da banca. Exceptads da quai èn collavuraturas e collavuraturs che han in grad d'occupaziun total da maximalmain 40 pertschient tar il chantun.
 
 <sup>2</sup> Sch'ina collavuratura u sch'in collavuratur cun in grad d'occupaziun pli grond vegn elegì en ina da questas autoritads, sto il grad d'occupaziun vegnir reducì correspundentamain. Sche quai n'è betg pussaivel per motivs da manaschi, sto la relaziun da lavur vegnir terminada entaifer sis mais suenter l'elecziun.
 
@@ -780,16 +779,16 @@ concluda:
 
 **2. per ils instituts chantunals autonoms sco er per las dretgiras e per las autoritads da mediaziun**
 
-<sup>1</sup> Ils instituts chantunals autonoms sco er la Dretgira chantunala e la Dretgira administrativa han las medemas cumpetenzas sco la Regenza. Exceptadas da quai èn las disposiziuns da l'artitgel 20, da l'artitgel 29 alinea 2, da l'artitgel 35 alinea 4, da l'artitgel 36 alinea 2, da l'artitgel 37 alinea 2, da l'artitgel 47a alinea 3 ed alinea 4 e da l'artitgel 73 alinea 2.
+<sup>1</sup> Ils instituts chantunals autonoms sco er la Dretgira superiura han las medemas cumpetenzas sco la Regenza. Exceptadas da quai èn las disposiziuns da l'artitgel 20, da l'artitgel 29 alinea 2, da l'artitgel 35 alinea 4, da l'artitgel 36 alinea 2, da l'artitgel 37 alinea 2, da l'artitgel 47a alinea 3 ed alinea 4 e da l'artitgel 73 alinea 2.
 
-<sup>2</sup> Ils instituts chantunals autonoms sco er la dretgira chantunala e la dretgira administrativa fixeschan las instanzas cumpetentas. Resalvadas restan disposiziuns spezialas en las leschas d'organisaziun.
+<sup>2</sup> Ils instituts chantunals autonoms sco er la Dretgira superiura fixeschan las instanzas cumpetentas. Resalvadas restan disposiziuns spezialas en las leschas d'organisaziun.
 
 <sup>3</sup> L'uffizi da persunal prepara – sin dumonda e cunter indemnisaziun – contracts, disposiziuns e conclus dal dretg da persunal dals instituts chantunals autonoms sco er da las dretgiras e da las autoritads da mediaziun en il senn da l'artitgel 59 alinea 2.
 
 <sup>4</sup> La classificaziun da las plazzas sto vegnir coordinada cun l'uffizi da persunal. Sch'i na vegn betg chattada ina cunvegna tranter l'institut u tranter la dretgira e l'uffizi da persunal, decida definitivamain:
 
 - a) la regenza tar ils instituts chantunals autonoms;
-- b) la cumissiun designada dal cussegl grond tar la dretgira chantunala e tar la dretgira administrativa.
+- b) la cumissiun designada dal Cussegl grond tar la Dretgira superiura.
 
 <sup>5</sup> Per lur collavuraturas e per lur collavuraturs pon ils instituts chantunals autonoms relaschar las disposiziuns executivas tar questa lescha.
 
@@ -803,7 +802,7 @@ concluda:
 
 <sup>2</sup> Cunter disposiziuns dals posts da servetsch poi vegnir fatg recurs tar il departament superiur, cunter disposiziuns dals departaments, da la chanzlia chantunala e da la controlla da finanzas tar la regenza.
 
-<sup>3</sup> Cunter disposiziuns e cunter decisiuns da recurs da la regenza e cunter decisiuns da recurs dals departaments poi vegnir fatg recurs tar la dretgira administrativa.
+<sup>3</sup> Cunter disposiziuns e cunter decisiuns da recurs da la Regenza e cunter decisiuns da recurs dals departaments poi vegnir fatg recurs tar la Dretgira superiura.
 
 <sup>4</sup> Cun excepziun da process iniziads da levsenn èn las proceduras gratuitas.
 
@@ -811,11 +810,11 @@ concluda:
 - b) …
 - c) …
 
-<sup>5</sup> Cunter decisiuns dal dretg da persunal dals instituts chantunals autonoms poi vegnir fatg recurs tar la dretgira administrativa.
+<sup>5</sup> Cunter decisiuns dal dretg da persunal dals instituts chantunals autonoms poi vegnir fatg recurs tar la Dretgira superiura.
 
-<sup>5<sup>bis</sup></sup> Cunter decisiuns dal dretg da persunal da las dretgiras regiunalas poi vegnir fatg recurs tar la dretgira chantunala.
+<sup>5<sup>bis</sup></sup> Cunter decisiuns dal dretg da persunal da las dretgiras regiunalas e da las autoritads da mediaziun poi vegnir fatg recurs tar la Dretgira superiura.
 
-<sup>6</sup> Cunter decisiuns dal dretg da persunal da la dretgira chantunala che pertutgan sias collavuraturas e ses collavuraturs poi vegnir fatg recurs tar la dretgira administrativa, cunter decisiuns dal dretg da persunal da la dretgira administrativa che pertutgan sias collavuraturas e ses collavuraturs poi vegnir fatg recurs tar la dretgira chantunala.
+<sup>6</sup> Cunter decisiuns dal dretg da persunal da la Dretgira superiura che pertutgan sias collavuraturas e ses collavuraturs poi vegnir fatg recurs tar la Dretgira da giustia, cunter decisiuns dal dretg da persunal da la Dretgira da giustia che pertutgan sias collavuraturas e ses collavuraturs poi vegnir fatg recurs tar la Dretgira superiura.
 
 #### Art. 67
 

@@ -4,13 +4,12 @@ number: "170.400"
 title: Legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni
 short: "Legge sul personale, LCPers"
 language: it
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-01
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3283/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3380/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3283/pdf_file"
 
 (Legge sul personale, LCPers)
 
-del 14.06.2006 (stato 01.01.2023)
+del 14.06.2006 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -683,7 +682,7 @@ decide:
 
 **Incompatibilità di cariche**
 
-<sup>1</sup> I collaboratori non possono fare parte contemporaneamente dell'Assemblea federale, del Gran Consiglio, del Governo, del Tribunale cantonale, del Tribunale amministrativo o del Consiglio di Banca. Fanno eccezione i collaboratori con un volume di impiego totale presso il Cantone di al massimo il 40 per cento.
+<sup>1</sup> I collaboratori non possono fare parte contemporaneamente dell'Assemblea federale, del Gran Consiglio, del Governo, del Tribunale d'appello o del Consiglio di Banca. Fanno eccezione i collaboratori con un volume di impiego totale presso il Cantone di al massimo il 40 per cento.
 
 <sup>2</sup> Se un collaboratore con un volume di impiego superiore viene nominato in una di queste autorità, il volume di impiego deve essere ridotto di conseguenza. Se per motivi aziendali ciò non è possibile, il rapporto di lavoro deve essere disdetto entro sei mesi dalla nomina.
 
@@ -774,16 +773,16 @@ decide:
 
 **2. Per gli istituti cantonali autonomi, nonché i tribunali e le autorità di conciliazione**
 
-<sup>1</sup> Gli istituti cantonali autonomi, nonché il Tribunale cantonale e il Tribunale amministrativo hanno le stesse competenze del Governo. Fanno eccezione le disposizioni dell'articolo 20, dell'articolo 29 capoverso 2, dell'articolo 35 capoverso 4, dell'articolo 36 capoverso 2, dell'articolo 37 capoverso 2, dell'articolo 47a capoverso 3 e capoverso 4 nonché dell'articolo 73 capoverso 2.
+<sup>1</sup> Gli istituti cantonali autonomi, nonché il Tribunale d'appello hanno le stesse competenze del Governo. Fanno eccezione le disposizioni dell'articolo 20, dell'articolo 29 capoverso 2, dell'articolo 35 capoverso 4, dell'articolo 36 capoverso 2, dell'articolo 37 capoverso 2, dell'articolo 47a capoverso 3 e capoverso 4 nonché dell'articolo 73 capoverso 2.
 
-<sup>2</sup> Gli istituti cantonali autonomi, nonché il Tribunale cantonale e il Tribunale amministrativo stabiliscono le autorità competenti. Sono fatte salve disposizioni particolari contenute nelle leggi sull'organizzazione.
+<sup>2</sup> Gli istituti cantonali autonomi nonché il Tribunale d'appello stabiliscono le autorità competenti. Sono fatte salve disposizioni particolari contenute nelle leggi sull'organizzazione.
 
 <sup>3</sup> Su richiesta l'Ufficio del personale prepara dietro indennizzo i contratti, le disposizioni e le decisioni in materia di diritto del personale degli istituti cantonali autonomi, nonché dei tribunali e delle autorità di conciliazione ai sensi dell'articolo 59 capoverso 2.
 
 <sup>4</sup> La classificazione dei posti deve essere concordata con l'Ufficio del personale. Se l'istituto o il Tribunale e l'Ufficio del personale non giungono ad un accordo, decide in via definitiva:
 
 - a) il Governo per gli istituti cantonali autonomi;
-- b) la Commissione designata dal Gran Consiglio per il Tribunale cantonale e il Tribunale amministrativo.
+- b) la Commissione designata dal Gran Consiglio per il Tribunale d'appello.
 
 <sup>5</sup> Gli istituti cantonali autonomi possono emanare per i propri collaboratori le disposizioni esecutive della presente legge.
 
@@ -797,7 +796,7 @@ decide:
 
 <sup>2</sup> Le decisioni dei servizi possono essere impugnate dinanzi al Dipartimento preposto e le decisioni dei Dipartimenti, della Cancelleria dello Stato e del Controllo delle finanze dinanzi al Governo.
 
-<sup>3</sup> Le decisioni e le decisioni su ricorso del Governo nonché le decisioni su ricorso dei Dipartimenti possono essere impugnate dinanzi al Tribunale amministrativo.
+<sup>3</sup> Le decisioni e le decisioni su ricorso del Governo nonché le decisioni su ricorso dei Dipartimenti possono essere impugnate dinanzi al Tribunale d'appello.
 
 <sup>4</sup> I procedimenti sono gratuiti, tranne nei casi di temerarietà.
 
@@ -805,11 +804,11 @@ decide:
 - b) …
 - c) …
 
-<sup>5</sup> Le decisioni delle istituzioni cantonali indipendenti in materia di diritto del personale possono essere impugnate dinanzi al Tribunale amministrativo.
+<sup>5</sup> Le decisioni in materia di diritto del personale degli istituti cantonali autonomi possono essere impugnate dinanzi al Tribunale d'appello.
 
-<sup>5<sup>bis</sup></sup> Le decisioni dei Tribunali regionali in materia di diritto del personale possono essere impugnate dinanzi al Tribunale cantonale.
+<sup>5<sup>bis</sup></sup> Le decisioni in materia di diritto del personale dei tribunali regionali e delle autorità di conciliazione possono essere impugnate dinanzi al Tribunale d'appello.
 
-<sup>6</sup> Le decisioni del Tribunale cantonale in materia di diritto del personale che riguardano i propri collaboratori possono essere impugnate dinanzi al Tribunale amministrativo e le decisioni del Tribunale amministrativo in materia di diritto del personale che riguardano i propri collaboratori dinanzi al Tribunale cantonale.
+<sup>6</sup> Le decisioni in materia di diritto del personale del Tribunale d'appello che riguardano collaboratori di quest'ultimo possono essere impugnate dinanzi al Tribunale della magistratura e le decisioni in materia di diritto del personale del Tribunale della magistratura che riguardano collaboratori di quest'ultimo possono essere impugnate dinanzi al Tribunale d'appello.
 
 #### Art. 67
 
