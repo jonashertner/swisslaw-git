@@ -1,22 +1,22 @@
 ---
 canton: NW
 number: "742.111"
-title: Verordnung zur Prämienverbilligung für das Jahr 2024
+title: Verordnung zur Prämienverbilligung für das Jahr 2025
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-18
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1224/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1344/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zur Prämienverbilligung für das Jahr 2024
+# Verordnung zur Prämienverbilligung für das Jahr 2025
 
-vom 12.12.2023 (Stand 01.01.2024)
+vom 03.12.2024 (Stand 01.01.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -30,7 +30,7 @@ beschliesst:
 
 **Selbstbehalt, Anteil Reinvermögen**
 
-<sup>1</sup> Der Selbstbehalt für das Jahr 2024 beträgt 10 Prozent.
+<sup>1</sup> Der Selbstbehalt für das Jahr 2025 beträgt 10 Prozent.
 
 <sup>2</sup> Der für die Berechnung des Selbstbehalts massgebende Anteil des anrechenbaren Reinvermögens beträgt 20 Prozent.
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Richtprämien**
 
-<sup>1</sup> Die Richtprämien für das Jahr 2024 betragen für Bezügerinnen und Bezüger von Ergänzungsleistungen bei Erwachsenen Fr. 5'544.–, für junge Erwachsene Fr. 4'116.– und für Kinder Fr. 1'296.–.
+<sup>1</sup> Die Richtprämien für das Jahr 2025 betragen für Bezügerinnen und Bezüger von Ergänzungsleistungen bei Erwachsenen Fr. 5'772.–, für junge Erwachsene Fr. 4'272.– und für Kinder Fr. 1'332.–.
 
 <sup>2</sup> Die Richtprämien für die übrigen Personen betragen für Erwachsene Fr. 5'028.–, für junge Erwachsene Fr. 3'876.– und für Kinder Fr. 1'212.–.
 
@@ -46,13 +46,13 @@ beschliesst:
 
 **Steuerperiode**
 
-<sup>1</sup> Für die Prämienverbilligung im Jahre 2024 ist die Steuerperiode 2022 massgebend; ist diese nicht rechtskräftig veranlagt, ist die Steuerperiode 2021 massgebend.
+<sup>1</sup> Für die Prämienverbilligung im Jahre 2025 ist die Steuerperiode 2023 massgebend; ist diese nicht rechtskräftig veranlagt, ist die Steuerperiode 2022 massgebend.
 
 #### § 4
 
 **Prämienverbilligung bei Quellensteuer**
 
-<sup>1</sup> Für das Jahr 2024 gelten bei Personen, die an der Quelle besteuert werden, 80 Prozent des der Quellensteuer zugrunde liegenden Einkommens als massgebender Steuerwert. Massgebende Steuerperiode ist das Jahr 2023.
+<sup>1</sup> Für das Jahr 2025 gelten bei Personen, die an der Quelle besteuert werden, 80 Prozent des der Quellensteuer zugrunde liegenden Einkommens als massgebender Steuerwert. Massgebende Steuerperiode ist das Jahr 2024.
 
 #### § 5
 
@@ -60,4 +60,4 @@ beschliesst:
 
 <sup>1</sup> Beträge unter Fr. 100.– sind von der Auszahlung ausgeschlossen.
 
-2023-049
+2024-043
