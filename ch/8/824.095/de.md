@@ -3,18 +3,18 @@ sr: "824.095"
 title: Verordnung vom 16. Oktober 2024 über die Datenbearbeitung im automatisierten Informationssystem des Zivildiensts
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/595"
 language: de
-version: 2024-12-01
+version: 2025-01-01
 adopted: 2024-10-16
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20241201/de/xml/fedlex-data-admin-ch-eli-cc-2024-595-20241201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20241201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-595-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Datenbearbeitung im automatisierten Informationssystem des Zivildiensts
 
-vom 16. Oktober 2024 (Stand am 1. Dezember 2024)
+vom 16. Oktober 2024 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -78,9 +78,12 @@ An das Ziviconnect können zu den nachstehenden Zwecken die folgenden Dienste un
 
   - 1\. Fakturierung der Gebühren nach Artikel 111*b* der Zivildienstverordnung vom 11. September 1996[^4-1] (ZDV) sowie der Bussen nach Artikel 68 ZDG,
   - 2\. Fakturierung der Abgaben nach Artikel 46 ZDG,
-  - 3\. Gewährung der Finanzhilfen nach Artikel 47 ZDG.
+  - 3\. Gewährung der Finanzhilfen nach Artikel 47 ZDG;
+
+- g.[^4-2] das Informationssystem der Zentralen Ausgleichsstelle, über das Dienstleistende ihren Entschädigungsanspruch geltend machen können: zur Durchführung der Erwerbsersatzordnung.
 
 [^4-1]: [SR 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^4-2]: Eingefügt durch Anhang Ziff. 4 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## 2. Abschnitt: Grundsätze der Datenbearbeitung
 

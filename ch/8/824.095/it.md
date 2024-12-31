@@ -3,18 +3,18 @@ sr: "824.095"
 title: Ordinanza del 16 ottobre 2024 sul trattamento dei dati nel sistema automatizzato d’informazione del servizio civile
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/595"
 language: it
-version: 2024-12-01
+version: 2025-01-01
 adopted: 2024-10-16
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20241201/it/xml/fedlex-data-admin-ch-eli-cc-2024-595-20241201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20241201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-595-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati nel sistema automatizzato d’informazione del servizio civile
 
-del 16 ottobre 2024 (Stato 1° dicembre 2024)
+del 16 ottobre 2024 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -78,9 +78,12 @@ I seguenti servizi e organi possono essere collegati in linea a Ziviconnect per 
 
   - 1\. per la fatturazione delle tasse di cui all’articolo 111*b* dell’ordinanza dell’11 settembre 1996[^4-1] sul servizio civile (OSCi) e delle multe di cui all’articolo 68 LSC,
   - 2\. per la fatturazione dei tributi di cui all’articolo 46 LSC,
-  - 3\. per la concessione di aiuti finanziari di cui all’articolo 47 LSC.
+  - 3\. per la concessione di aiuti finanziari di cui all’articolo 47 LSC;
+
+- g.[^4-2] il sistema d’informazione dell’Ufficio centrale di compensazione tramite il quale le persone che prestano servizio possono esercitare il loro diritto alle indennità, per l’esecuzione dell’ordinamento delle indennità per perdita di guadagno.
 
 [^4-1]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^4-2]: Introdotta dall’all. n. 4 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## Sezione 2: Principi del trattamento dei dati
 
@@ -213,7 +216,7 @@ Sono conservati per cinque anni i dati riguardanti:
 
 L’ordinanza del 20 agosto 2014[^12-1] sul sistema d’informazione del servizio civile è abrogata.
 
-[^12-1]: [[RU 2014 2781](https://fedlex.data.admin.ch/eli/oc/2014/482); [2016 1927](https://fedlex.data.admin.ch/eli/oc/2016/332); [2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)n. I, II; [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)all. n. 31, [800](https://fedlex.data.admin.ch/eli/oc/2021/800)all. n. II 34; [2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)all. 2 n. II 115; [2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)all. 2 n. II 39]
+[^12-1]: [[RU 2014 2781](https://fedlex.data.admin.ch/eli/oc/2014/482); [2016 1927](https://fedlex.data.admin.ch/eli/oc/2016/332); [2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)cifre I, II; **2021** 132 all. n. 31, 800 all. cifra II 34; **2022** 568 all. 2 cifra II n. 115; **2023** 735 all. 2 cifra II n. 39]
 
 #### Art. 13
 

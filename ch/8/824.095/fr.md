@@ -3,18 +3,18 @@ sr: "824.095"
 title: Ordonnance du 16 octobre 2024 sur le traitement des données dans le système d’information automatisé du service civil
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/595"
 language: fr
-version: 2024-12-01
+version: 2025-01-01
 adopted: 2024-10-16
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20241201/fr/xml/fedlex-data-admin-ch-eli-cc-2024-595-20241201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20241201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-595-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données dans le système d’information automatisé du service civil
 
-du 16 octobre 2024 (État le 1<sup>er</sup> décembre 2024)
+du 16 octobre 2024 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -78,9 +78,12 @@ Les services et organismes suivants peuvent être connectés en ligne à Zivicon
 
   - 1\. pour la facturation des émoluments selon l’art. 111*b* de l’ordonnance du 11 septembre 1996 sur le service civil (OSCi)[^4-1] ainsi que des amendes selon l’art. 68 LSC,
   - 2\. pour la facturation des contributions conformément à l’art. 46 LSC,
-  - 3\. pour l’octroi des aides financières prévues à l’art. 47 LSC.
+  - 3\. pour l’octroi des aides financières prévues à l’art. 47 LSC;
+
+- g.[^4-2] le système d’information de la Centrale de compensation, par lequel les personnes qui effectuent un service peuvent faire valoir leur droit à l’indemnisation: pour l’exécution du régime des allocations pour perte de gain.
 
 [^4-1]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^4-2]: Introduite par l’annexe ch. 4 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## Section 2 Principes régissant le traitement des données
 
@@ -213,7 +216,7 @@ Les données suivantes sont conservées cinq ans:
 
 L’ordonnance du 20 août 2014 sur le système d’information du service civil[^12-1] est abrogée.
 
-[^12-1]: [[RO 2014 2781](https://fedlex.data.admin.ch/eli/oc/2014/482); [2016 1927](https://fedlex.data.admin.ch/eli/oc/2016/332); [2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)annexe ch. 31, [800](https://fedlex.data.admin.ch/eli/oc/2021/800)annexe ch. II 34; [2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)annexe 2 ch. II 115 ; [2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)annexe 2 ch. II 39]
+[^12-1]: [[RO 2014 2781](https://fedlex.data.admin.ch/eli/oc/2014/482); [2016 1927](https://fedlex.data.admin.ch/eli/oc/2016/332); [2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)annexe ch. 31, [800](https://fedlex.data.admin.ch/eli/oc/2021/800)annexe ch. II 34; [2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)annexe 2 ch. II 115; [2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)annexe 2 ch. II 39]
 
 #### Art. 13
 
