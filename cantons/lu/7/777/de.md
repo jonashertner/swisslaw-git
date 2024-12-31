@@ -4,13 +4,13 @@ number: "777"
 title: Verordnung zum Gesetz über die Verkehrsabgaben und den Vollzug des eidgenössischen Strassenverkehrsrechtes
 short: Strassenverkehrsverordnung
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-11-26
+version: 2025-01-01
+valid_until: 2025-08-31
+version_adopted: 2024-10-15
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/777"
-pdf: "https://srl.lu.ch/api/de/versions/3464/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4345/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3464/pdf_file"
 
 (Strassenverkehrsverordnung)
 
-vom 09.12.1986 (Stand 01.01.2020)
+vom 09.12.1986 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 5, 7, 14, 15, 17, 18 und 19 des Gesetzes über die Verkehrsabgaben und den Vollzug des eidgenössischen Strassenverkehrsrechtes vom 15. März 1994[^ingress-1] sowie § 13 Absatz 1 des Gebührengesetzes vom 14. September 1993[^ingress-2],
+gestützt auf die §§ 5, 7, 13, 14, 15, 17, 18 und 19 des Gesetzes über die Verkehrsabgaben und den Vollzug des eidgenössischen Strassenverkehrsrechtes vom 15. März 1994[^ingress-1] sowie § 13 Absatz 1 des Gebührengesetzes vom 14. September 1993[^ingress-2],
 
 auf Antrag des Militär-, Polizei- und Umweltschutzdepartementes,[^ingress-3]
 
@@ -77,7 +77,7 @@ beschliesst:
 - c. Arbeitsanhänger, landwirtschaftliche Anhänger sowie Anhänger an Motorrädern, Kleinmotorrädern, Leicht-, Klein- und dreirädrigen Motorfahrzeugen — Fr. 31.–
 - d. Motorfahrräder — Fr. 31.–
 
-<sup>2</sup> Für dreirädrige Motorfahrzeuge und Kleinmotorfahrzeuge bis 1 PS beträgt die Steuer Fr. 122.–; jede weitere PS beträgt Fr. 24.–.
+<sup>2</sup> Für dreirädrige Motorfahrzeuge und Kleinmotorfahrzeuge mit einer Leistung bis 13 Kilowatt beträgt die Steuer Fr. 165.–, für jedes weitere Kilowatt zusätzlich Fr. 1.90.
 
 <sup>3</sup> Für Fahrräder wird keine Steuer erhoben.
 
@@ -85,9 +85,19 @@ beschliesst:
 
 **Reduzierte Steuer**
 
-<sup>1</sup> Die Verkehrssteuer für Fahrzeuge mit Elektro-, Gas-, Wasserstoff-, Brennstoffzellen- oder Hybridantrieb der Fahrzeugarten gemäss § 13 Absatz 1d und 1h des Gesetzes beträgt 80 Prozent des entsprechenden Steueransatzes.
+<sup>1</sup> Die Verkehrssteuer für Personenwagen und schwere Personenwagen wird für das Jahr der ersten Inverkehrsetzung sowie für die vier darauffolgenden Jahre um 80 Prozent reduziert, wenn sie
 
-<sup>2</sup> Fahrzeughalter, welche die Steuervergünstigung beanspruchen, haben nachzuweisen, dass die Voraussetzungen erfüllt sind.
+- a. bei der ersten Inverkehrsetzung der Kategorie A oder B gemäss Energieetikette angehören und
+- b. einen tieferen CO₂-Emissionswert aufweisen als die Hälfte des jeweils aktuellen Zielwertes des Bundes gemäss Anhang 4a der Verordnung über die Reduktion der CO₂-Emissionen vom 30. November 2012[^4a-1].
+
+<sup>1<sup>bis</sup></sup> Die Verkehrssteuer für Kleinbusse, Lieferwagen, leichte Motorwagen, Sattelschlepper bis 3,5 t, leichte Sattelmotorfahrzeuge und Motorräder mit weissen Schildern wird für das Jahr der ersten Inverkehrsetzung sowie für die vier darauffolgenden Jahre um 80 Prozent reduziert, wenn
+
+- a. sie rein elektrisch (batterieelektrisch oder wasserstoffelektrisch) betrieben sind und
+- b. bei der ersten Inverkehrsetzung der Anteil der rein elektrischen Fahrzeuge an den in der entsprechenden Kategorie zugelassenen Fahrzeugen noch nicht 20 Prozent erreicht hat.
+
+<sup>2</sup> Halterinnen und Halter von Fahrzeugen, die eine reduzierte Steuer beanspruchen, haben den Nachweis zu erbringen, dass ihr Fahrzeug die Voraussetzungen erfüllt.
+
+[^4a-1]: SR [641.711](https://db.clex.ch/link/Bund/641.711/de)
 
 #### § 4b
 
@@ -143,7 +153,19 @@ beschliesst:
 
 **Steuerzuschlag**
 
-<sup>1</sup> Der Steuerzuschlag nach § 14 des Gesetzes wird für leichte Motorwagen auf 30 Prozent festgelegt.
+<sup>1</sup> Der Steuerzuschlag nach § 14 des Gesetzes wird für Personenwagen und schwere Personenwagen auf 15 Prozent festgelegt.
+
+<sup>2</sup> Als CO₂-Emissionswert wird der Wert des Fahrzeuges gemäss dem WLTP[^4f-1] verwendet. Für ein Fahrzeug ohne WLTP-Wert, aber mit NEFZ-Wert[^4f-2], wird der NEFZ-Wert mit einem Umrechnungsfaktor von 1,24 in WLTP-Einheiten umgerechnet. Für Fahrzeuge ohne Angaben werden die CO₂-Emissionen nach Anhang 4 der Verordnung des Bundes über die Reduktion der CO₂-Emissionen vom 30. November 2012[^4f-3] berechnet.
+
+[^4f-1]: Worldwide harmonized Light vehicles Test Procedure
+[^4f-2]: Neuer europäischer Fahrzyklus
+[^4f-3]: SR [641.711](https://db.clex.ch/link/Bund/641.711/de)
+
+#### § 4g
+
+**Abzug zur Kompensation von Mehrgewicht und Mehrleistung**
+
+<sup>1</sup> Der Kompensationsabzug für rein elektrische Fahrzeuge nach § 13 Absatz 3 des Gesetzes beträgt 20 Prozent.
 
 #### § 5
 
@@ -169,13 +191,9 @@ beschliesst:
 
 <sup>1</sup> Die Steuer wird nach den im nationalen Fahrzeugausweis eingetragenen Angaben berechnet.
 
-<sup>2</sup> 1000 cm³ Hubraum entsprechen 5,093 Steuer-PS.
+<sup>2</sup> …
 
-<sup>3</sup> Bei Personenwagen, Motorrädern, Kleinmotorfahrzeugen und dreirädrigen Motorfahrzeugen mit Elektro-, Gas-, Wasserstoff-, Brennstoffzellen- oder Hybridantrieb entspricht die Motorleistung in Kilowatt multipliziert mit einem Faktor der Anzahl Steuer-PS. Der Faktor beträgt:
-
-- a. für die ersten 75 kW — 0,075
-- b. für die nächsten 75 kW — 0,065
-- c. für die weiteren kW — 0,055
+<sup>3</sup> …
 
 #### § 8
 
@@ -253,7 +271,7 @@ beschliesst:
 
 **Anordnung der Teilnahme**
 
-<sup>1</sup> Das Strassenverkehrsamt kann für Fahrzeugführer, die wiederholt in verkehrsgefährdender Weise gegen Verkehrsregeln verstossen haben, die Teilnahme am Verkehrsunterricht anordnen.
+<sup>1</sup> Das Strassenverkehrsamt kann für Fahrzeugführerinnen und -führer, die wiederholt in verkehrsgefährdender Weise gegen Verkehrsregeln verstossen haben, die Teilnahme am Verkehrsunterricht anordnen.
 
 #### § 16
 
@@ -269,13 +287,13 @@ beschliesst:
 
 <sup>1</sup> Kontrollschilder dürfen nur vom Strassenverkehrsamt bezogen werden. Sie werden leihweise abgegeben und bleiben im Eigentum des Staates, ausgenommen befristete Schilder.
 
-<sup>2</sup> Unleserliche oder verbogene Kontrollschilder werden auf Kosten des Fahrzeughalters ersetzt.
+<sup>2</sup> Unleserliche oder verbogene Kontrollschilder werden auf Kosten des Fahrzeughalters oder der Fahrzeughalterin ersetzt.
 
 #### § 16b
 
 **Hinterlegung**
 
-<sup>1</sup> Werden Kontrollschilder hinterlegt, bleiben sie für mindestens ein Jahr auf den Namen des Halters reserviert.
+<sup>1</sup> Werden Kontrollschilder hinterlegt, bleiben sie für mindestens ein Jahr auf den Namen des Halters oder der Halterin reserviert.
 
 #### § 16c
 
@@ -285,10 +303,10 @@ beschliesst:
 
 <sup>2</sup> Davon ausgenommen ist die Übertragung von solchen Kontrollschildern
 
-- a. auf Geschwister sowie auf Personen, die in gerader Linie mit dem alten Halter verwandt sind,
+- a. auf Geschwister sowie auf Personen, die in gerader Linie mit dem alten Halter oder der alten Halterin verwandt sind,
 - b. auf Ehegatten und auf eingetragene Partner,
-- c. bei Übernahme von Geschäftsfahrzeugen infolge Kauf, Umstrukturierung, Namensänderung eines Unternehmens und dergleichen, sofern der neue Halter im Handelsregister eingetragen ist,
-- d. bei Firmengründungen, wenn der Gründer sein privates Fahrzeug in die Firma einbringt und diese im Handelsregister eingetragen ist.
+- c. bei Übernahme von Geschäftsfahrzeugen infolge Kauf, Umstrukturierung, Namensänderung eines Unternehmens und dergleichen, sofern der neue Halter oder die neue Halterin im Handelsregister eingetragen ist,
+- d. bei Firmengründungen, wenn der Gründer oder die Gründerin das private Fahrzeug in die Firma einbringt und diese im Handelsregister eingetragen ist.
 
 ## 7 Strassensignalisation
 
@@ -394,7 +412,7 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Veranlasst eine Gemeinde die Prüfung einer Strassensignalisation, kann die Dienststelle Verkehr und Infrastruktur eine Gebühr erheben. Diese bemisst sich nach dem Zeit- und Arbeitsaufwand, wobei von einem Stundenansatz von 50 bis 180 Franken ausgegangen wird.
+<sup>1</sup> Veranlasst eine Gemeinde die Prüfung einer Strassensignalisation, kann die Dienststelle Verkehr und Infrastruktur eine Gebühr erheben. Diese bemisst sich nach dem Zeit- und Arbeitsaufwand, wobei von einem Stundenansatz von 80 bis 180 Franken ausgegangen wird.
 
 <sup>2</sup> Zur Gebühr können die Ausfertigungskosten gemäss Gebührentarif und Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^26d-1] sowie die Auslagen gemäss Gebührengesetz vom 14. September 1993 in Rechnung gestellt werden.
 
