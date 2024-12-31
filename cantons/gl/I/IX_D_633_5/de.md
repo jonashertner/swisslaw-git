@@ -4,13 +4,12 @@ number: IX D/633/5
 title: Verordnung über die Viehsteuer
 short: "Viehsteuerverordnung, ViehStV"
 language: de
-version: 2024-06-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-14
+version: 2025-01-01
+version_adopted: 2025-03-25
 adopted: 2014-04-22
 in_force: 2014-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-D.633.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2455/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2551/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2455/pdf_file"
 
 (Viehsteuerverordnung, ViehStV)
 
-Vom 22.04.2014 (Stand 01.06.2024)
+Vom 22.04.2014 (Stand 01.01.2025)
 
 Der Regierungsrat,
 
@@ -35,8 +34,8 @@ verordnet:
 
 <sup>1</sup> Der Tierhalter oder die Tierhalterin respektive der Alpbewirtschafter oder die Alpbewirtschafterin (nachfolgend: Tierhalter) haben pro Tier zu entrichten:
 
-- a. Pferd, Maulesel, Maultier — 5.00 Franken;
-- b. Pony, Kleinpferde, Esel — 2.50 Franken;
+- a. Equiden — 3.50 Franken;
+- b. …
 - c. Rindvieh — 2.50 Franken;
 - d. Schwein (ohne Saugferkel) — 1.00 Franken;
 - e. Schaf und Ziegen — 0.60 Franken;
@@ -54,9 +53,13 @@ verordnet:
 
 **Einzug**
 
-<sup>1</sup> Die Viehsteuern werden dem Tierhalter oder der Tierhalterin gleichzeitig mit den Entsorgungsbeiträgen gemäss Artikel 13 Absatz 3 der Veterinärverordnung[^2-1] vom kantonstierärztlichen Dienst in Rechnung gestellt. Für die Berechnung gelten als Stichtage die Viehzählung gemäss landwirtschaftlicher Betriebsdatenerhebung und für ausserkantonale Alptiere der Tag der Alpfahrt.
+<sup>1</sup> Die Viehsteuern werden dem Tierhalter oder der Tierhalterin gleichzeitig mit den Entsorgungsbeiträgen gemäss Artikel 13 Absatz 3 der Veterinärverordnung[^2-1] vom kantonstierärztlichen Dienst in Rechnung gestellt.
 
 <sup>2</sup> Viehsteuern gemäss Artikel 1 und Entsorgungsbeiträge gemäss Absatz 1, die sich zusammen auf weniger als 20 Franken belaufen, werden nicht bezogen.
+
+<sup>3</sup> Für die Berechnung der Viehsteuern und Entsorgungsbeiträge wird die durchschnittliche Anzahl der im Vorjahr in der Tierverkehrsdatenbank «Agate» registrierten Tiere herangezogen. Falls diese Zahlen nicht vorliegen, wird der am 1. Januar des aktuellen Jahres in der Strukturdatenerhebung der Abteilung Landwirtschaft erfasste Tierbestand verwendet.
+
+<sup>4</sup> Für die Berechnung der Viehsteuern und Entsorgungsbeiträge von ausserkantonalen Alptieren ist der am 25. Juli des aktuellen Jahres in der Tierverkehrsdatenbank erfasste Bestand massgebend. Liegen diese Zahlen nicht vor, wird bei den Alpwirten nachgefragt.
 
 [^2-1]: GS [IX D/633/2](https://gesetze.gl.ch/data/IX-D.633.2/de)
 
