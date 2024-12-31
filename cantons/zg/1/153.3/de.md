@@ -4,13 +4,12 @@ number: "153.3"
 title: Delegationsverordnung
 short: DelV
 language: de
-version: 2024-12-20
-valid_until: 2024-12-31
-version_adopted: 2024-12-10
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2017-11-28
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.3"
-pdf: "https://bgs.zg.ch/api/de/versions/2653/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2657/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2653/pdf_file"
 
 (DelV)
 
-Vom 28. November 2017 (Stand 20. Dezember 2024)
+Vom 28. November 2017 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -120,46 +119,43 @@ beschliesst:
 - 1\. Beistandspflicht gegenüber den Gemeinden (§ 35 Abs. 1 des Gesetzes über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz, GG) vom 4. September 1980[^4-1]);
 - 2\. Erlass von Vorschriften über die Jagdprüfung, Abschluss von Vereinbarungen mit anderen Kantonen über die gegenseitige Anerkennung der Jagdprüfungen und Anordnungen von Massnahmen zur Verhütung und Bekämpfung von Wildkrankheiten (§ 6 Abs. 1 und 2 sowie § 26 Abs. 1 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-2]);
 - 3\. Beschluss über die Genehmigung von vertraglichen Unterschutzstellungen von nicht kantonseigenen Denkmälern sowie die Ausrichtung von kantonalen Beiträgen an die Restaurierung; diese Zuständigkeit betrifft nur Denkmäler, bei denen der erstmalige mutmassliche Kantonsbeitrag an die Restaurierung infolge der Unterschutzstellung den Betrag von Fr. 375'000.– nicht übersteigen wird und die Standortgemeinde damit einverstanden ist (§ 11 Abs. 5 Bst. a und d sowie § 24a Abs. 2 des Gesetzes über Denkmalpflege, Archäologie und Kulturgüterschutz (Denkmalschutzgesetz, DMSG) vom 26. April 1990[^4-3]);
-- 4\. Kantonsbeiträge an bauliche Massnahmen zum Schutz von Menschen oder erheblichen Sachwerten vor Naturereignissen, sofern der Kantonsbeitrag den Betrag von Fr. 200'000.– nicht übersteigt (§ 28 Abs. 1 Bst. d des Einführungsgesetzes zum Bundesgesetz über den Wald (EG Waldgesetz) vom 17. Dezember 1998[^4-4]);
-- 5\. Kantonsbeiträge an den Neubau oder den wesentlichen Ausbau von Waldstrassen, sofern der Kantonsbeitrag den Betrag von Fr. 200'000.– nicht übersteigt (§ 28 Abs. 1 Bst. e des Einführungsgesetzes zum Bundesgesetz über den Wald (EG Waldgesetz) vom 17. Dezember 1998[^4-5]);
-- 6\. Kantonsbeiträge an Massnahmen zur Verbesserung der Bewirtschaftungsstrukturen und an Selbsthilfemassnahmen der Wald- und der Holzwirtschaft, sofern der Kantonsbeitrag den Betrag von Fr. 200'000.– nicht übersteigt (§ 28 Abs. 1 Bst. f des Einführungsgesetzes zum Bundesgesetz über den Wald (EG Waldgesetz) vom 17. Dezember 1998[^4-6]);
-- 7\. Beschränkung der Zahl der Jagdpatente (§ 7 Abs. 1 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-7]);
-- 8\. Jagdzeitanpassungen zur Regulierung von Überbeständen (§ 13 Abs. 2 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-8]);
+- 4\. …
+- 5\. …
+- 6\. …
+- 7\. Beschränkung der Zahl der Jagdpatente (§ 7 Abs. 1 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-4]);
+- 8\. Jagdzeitanpassungen zur Regulierung von Überbeständen (§ 13 Abs. 2 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-5]);
 - 9\. Genehmigung von Rechtshandlungen altrechtlicher Fideikommisse. Das Geschäft ist dem Regierungsrat vorzulegen, sofern die Direktion erwägt, das Geschäft ganz oder teilweise nicht zu genehmigen oder die Genehmigung mit Auflagen zu verbinden;
 - 10\. …
-- 11\. Tätigkeit als Zentrale Behörde für das Haager Kindesschutzübereinkommen (HKsÜ) vom 19. Oktober 1996[^4-9], das Haager Erwachsenenschutzübereinkommen (HEsÜ) vom 13. Januar 2000[^4-10], das Haager Adoptionsübereinkommen (HAÜ) vom 29. Mai 1993[^4-11], das Bundesgesetz zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen (BG-HAÜ) vom 22. Juni 2001[^4-12] sowie als Vollzugsbehörde für Rückführungen bei Kindesentführungen (Art. 2 und 12 des Bundesgesetzes über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen [BG-KKE] vom 21. Dezember 2007[^4-13]);
-- 12\. Beiträge an die ausgewiesenen Aufwändungen von Institutionen, die sich der Förderung geschützter Tierarten im Sinne von Art. 7 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG) vom 20. Juni 1986[^4-14] widmen, sofern die Beiträge im Einzelfall Fr. 10'000.– und insgesamt pro Jahr Fr. 200'000.– nicht übersteigen (§ 18 Abs. 1 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-15]);
-- 13\. Genehmigung von gemeindlichen Einbürgerungsreglementen, sofern diese vorbehaltlos erfolgen können (§ 15 Abs. 2 des Gesetzes betreffend Erwerb und Verlust des Gemeinde- und des Kantonsbürgerrechts (Bürgerrechtsgesetz) vom 3. September 1992[^4-16]);
-- 14\. Entscheid über den Antrag zur Sperrung der Veröffentlichung von Personenangaben im Internet und Vollzug der Sperrung gemäss § 149a Abs. 2 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches für den Kanton Zug (EG ZGB) vom 17. August 1911[^4-17];
-- 15\. Ausrichtung von Bundesbeiträgen, die dem Kanton im Rahmen einer Programmvereinbarung mit dem Bund an die Restaurierung von Denkmälern sowie an archäologische Grabungen und Bauuntersuchungen zur Verfügung gestellt werden. Diese Zuständigkeit betrifft Denkmäler sowie alle archäologischen Grabungen und Bauuntersuchungen, bei denen der mutmassliche Bundesbeitrag an die Restaurierung den Betrag von Fr. 200'000.– nicht übersteigen wird (§ 10 Abs. 2 des Gesetzes über Denkmalpflege, Archäologie und Kulturgüterschutz (Denkmalschutzgesetz) vom 26. April 1990[^4-18]);
-- 16\. Ausrichtung von Beiträgen aus einer Programmvereinbarung mit dem Bund betreffend Umsetzung der spezifischen Integrationsförderung im Kanton (KIP); Art. 53 und Art. 58 und die Integrationdes Bundesgesetzes über die Ausländerinnen und Ausländer (Ausländer und Integrationsgesetz, AIG) vom 16. Dezember 2005[^4-19] sowie Art. 14 der Verordnung über die Integration von Ausländerinnen und Ausländern (VIntA) vom 15. August 2018[^4-20]. Davon ausgenommen sind die Themenbereiche «Zugang Arbeitsmarkt für Frauen» sowie «Angebot IBA 20+»;
-- 17\. Ernennung der Grundbuchverwalterin oder des Grundbuchverwalters (§ 6 Abs. 1 des Gesetzes über die öffentliche Beurkundung und die Beglaubigung in Zivilsachen (Beurkundungsgesetz; BeurkG) vom 3. Juni 1946[^4-21]; § 2 Abs. 1 der Verordnung über die Bereinigung der dinglichen Rechte und die Anlage des Grundbuches vom 29. Juni 1940[^4-22]);
+- 11\. Tätigkeit als Zentrale Behörde für das Haager Kindesschutzübereinkommen (HKsÜ) vom 19. Oktober 1996[^4-6], das Haager Erwachsenenschutzübereinkommen (HEsÜ) vom 13. Januar 2000[^4-7], das Haager Adoptionsübereinkommen (HAÜ) vom 29. Mai 1993[^4-8], das Bundesgesetz zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen (BG-HAÜ) vom 22. Juni 2001[^4-9] sowie als Vollzugsbehörde für Rückführungen bei Kindesentführungen (Art. 2 und 12 des Bundesgesetzes über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen [BG-KKE] vom 21. Dezember 2007[^4-10]);
+- 12\. Beiträge an die ausgewiesenen Aufwändungen von Institutionen, die sich der Förderung geschützter Tierarten im Sinne von Art. 7 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG) vom 20. Juni 1986[^4-11] widmen, sofern die Beiträge im Einzelfall Fr. 10'000.– und insgesamt pro Jahr Fr. 200'000.– nicht übersteigen (§ 18 Abs. 1 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-12]);
+- 13\. Genehmigung von gemeindlichen Einbürgerungsreglementen, sofern diese vorbehaltlos erfolgen können (§ 15 Abs. 2 des Gesetzes betreffend Erwerb und Verlust des Gemeinde- und des Kantonsbürgerrechts (Bürgerrechtsgesetz) vom 3. September 1992[^4-13]);
+- 14\. Entscheid über den Antrag zur Sperrung der Veröffentlichung von Personenangaben im Internet und Vollzug der Sperrung gemäss § 149a Abs. 2 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches für den Kanton Zug (EG ZGB) vom 17. August 1911[^4-14];
+- 15\. Ausrichtung von Bundesbeiträgen, die dem Kanton im Rahmen einer Programmvereinbarung mit dem Bund an die Restaurierung von Denkmälern sowie an archäologische Grabungen und Bauuntersuchungen zur Verfügung gestellt werden. Diese Zuständigkeit betrifft Denkmäler sowie alle archäologischen Grabungen und Bauuntersuchungen, bei denen der mutmassliche Bundesbeitrag an die Restaurierung den Betrag von Fr. 200'000.– nicht übersteigen wird (§ 10 Abs. 2 des Gesetzes über Denkmalpflege, Archäologie und Kulturgüterschutz (Denkmalschutzgesetz) vom 26. April 1990[^4-15]);
+- 16\. Ausrichtung von Beiträgen aus einer Programmvereinbarung mit dem Bund betreffend Umsetzung der spezifischen Integrationsförderung im Kanton (KIP); Art. 53 und Art. 58 und die Integrationdes Bundesgesetzes über die Ausländerinnen und Ausländer (Ausländer und Integrationsgesetz, AIG) vom 16. Dezember 2005[^4-16] sowie Art. 14 der Verordnung über die Integration von Ausländerinnen und Ausländern (VIntA) vom 15. August 2018[^4-17]. Davon ausgenommen sind die Themenbereiche «Zugang Arbeitsmarkt für Frauen» sowie «Angebot IBA 20+»;
+- 17\. Ernennung der Grundbuchverwalterin oder des Grundbuchverwalters (§ 6 Abs. 1 des Gesetzes über die öffentliche Beurkundung und die Beglaubigung in Zivilsachen (Beurkundungsgesetz; BeurkG) vom 3. Juni 1946[^4-18]; § 2 Abs. 1 der Verordnung über die Bereinigung der dinglichen Rechte und die Anlage des Grundbuches vom 29. Juni 1940[^4-19]);
 - 18\. Genehmigung und Unterzeichnung von Programmvereinbarungen mit dem Bund für Verbundaufgaben im Bereich des Katasterwesens;
-- 19\. Abschluss von Vereinbarungen und Ausrichtung von Beiträgen an sonstige Angebote gemäss § 33 des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf (LBBG) vom 6. Juli 2023[^4-23] bis zu einer Summe von Fr. 50'000.–.
+- 19\. Abschluss von Vereinbarungen und Ausrichtung von Beiträgen an sonstige Angebote gemäss § 33 des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf (LBBG) vom 6. Juli 2023[^4-20] bis zu einer Summe von Fr. 50'000.–.
 
 [^4-1]: BGS [171.1](https://bgs.zg.ch/data/171.1/de)
 [^4-2]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
 [^4-3]: BGS [423.11](https://bgs.zg.ch/data/423.11/de)
-[^4-4]: BGS [931.1](https://bgs.zg.ch/data/931.1/de)
-[^4-5]: BGS [931.1](https://bgs.zg.ch/data/931.1/de)
-[^4-6]: BGS [931.1](https://bgs.zg.ch/data/931.1/de)
-[^4-7]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
-[^4-8]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
-[^4-9]: SR [0.211.231.011](https://db.clex.ch/link/Bund/0.211.231.011/de)
-[^4-10]: SR [0.211.232.1](https://db.clex.ch/link/Bund/0.211.232.1/de)
-[^4-11]: SR [0.211.221.311](https://db.clex.ch/link/Bund/0.211.221.311/de)
-[^4-12]: SR [211.221.31](https://db.clex.ch/link/Bund/211.221.31/de)
-[^4-13]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
-[^4-14]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de)
-[^4-15]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
-[^4-16]: BGS [121.3](https://bgs.zg.ch/data/121.3/de)
-[^4-17]: BGS [211.1](https://bgs.zg.ch/data/211.1/de)
-[^4-18]: BGS [423.11](https://bgs.zg.ch/data/423.11/de)
-[^4-19]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
-[^4-20]: SR [142.205](https://db.clex.ch/link/Bund/142.205/de)
-[^4-21]: BGS [223.1](https://bgs.zg.ch/data/223.1/de)
-[^4-22]: BGS [215.32](https://bgs.zg.ch/data/215.32/de)
-[^4-23]: BGS [861.5](https://bgs.zg.ch/data/861.5/de)
+[^4-4]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
+[^4-5]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
+[^4-6]: SR [0.211.231.011](https://db.clex.ch/link/Bund/0.211.231.011/de)
+[^4-7]: SR [0.211.232.1](https://db.clex.ch/link/Bund/0.211.232.1/de)
+[^4-8]: SR [0.211.221.311](https://db.clex.ch/link/Bund/0.211.221.311/de)
+[^4-9]: SR [211.221.31](https://db.clex.ch/link/Bund/211.221.31/de)
+[^4-10]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
+[^4-11]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de)
+[^4-12]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
+[^4-13]: BGS [121.3](https://bgs.zg.ch/data/121.3/de)
+[^4-14]: BGS [211.1](https://bgs.zg.ch/data/211.1/de)
+[^4-15]: BGS [423.11](https://bgs.zg.ch/data/423.11/de)
+[^4-16]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
+[^4-17]: SR [142.205](https://db.clex.ch/link/Bund/142.205/de)
+[^4-18]: BGS [223.1](https://bgs.zg.ch/data/223.1/de)
+[^4-19]: BGS [215.32](https://bgs.zg.ch/data/215.32/de)
+[^4-20]: BGS [861.5](https://bgs.zg.ch/data/861.5/de)
 
 #### § 5
 
