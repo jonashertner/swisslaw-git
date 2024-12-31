@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgu
 short: StromVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20250101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240701/de"
 
 (Stromversorgungsgesetz, StromVG)
 
-vom 23. März 2007 (Stand am 1. Juli 2024)
+vom 23. März 2007 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 89, 91 Absatz 1, 96 und 97 Absatz 1 der Bundesverfassu
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 1611](https://fedlex.data.admin.ch/eli/fga/2005/197)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -76,12 +76,13 @@ Die Kantone und die Gemeinden können Konzessionen im Zusammenhang mit dem Über
 In diesem Gesetz bedeuten:
 
 - a. *Elektrizitätsnetz*: Anlage aus einer Vielzahl von Leitungen und den erforderlichen Nebenanlagen zur Übertragung und Verteilung von Elektrizität. Elektrizitätsleitungen mit kleiner räumlicher Ausdehnung zur Feinverteilung, wie auf Industriearealen oder innerhalb von Gebäuden, gelten nicht als Elektrizitätsnetze;
-- b. *Endverbraucher:* Kunden, welche Elektrizität für den eigenen Verbrauch kaufen. Ausgenommen hiervon ist der Elektrizitätsbezug für den Eigenbedarf eines Kraftwerkes sowie für den Antrieb von Pumpen in Pumpspeicherkraftwerken;
+- b.[^4-1] *Endverbraucher:* Kunden, welche Elektrizität für den eigenen Verbrauch oder zur Speicherung aus dem Netz beziehen;
 - c. *Erneuerbare Energien*: Wasserkraft, Sonnenenergie, Geothermie, Umgebungswärme, Windenergie und Energie aus Biomasse und aus Abfällen aus Biomasse;
+- c<sup>bis</sup>*.*[^4-2] *Erweiterte Eigenproduktion:* Elektrizitätsproduktion aus eigenen Anlagen und aufgrund von Bezügen, die auf Beteiligungen beruhen; gleichgestellt ist Elektrizität aufgrund der Abnahmepflicht nach Artikel 15 des Energiegesetzes vom 30. September 2016[^4-3] (EnG);
 - d. *Netzzugang*: Recht auf Netznutzung, um von einem Lieferanten freier Wahl Elektrizität zu beziehen oder Elektrizität in ein Netz einzuspeisen;
-- e. *Regelenergie*: Automatischer oder von Kraftwerken abrufbarer Einsatz von Elektrizität zur Einhaltung des geplanten Elektrizitätsaustausches und zur Gewährleistung des sicheren Netzbetriebes;
-- e<sup>bis</sup>.[^4-1] *Bilanzgruppe:* rechtlicher Zusammenschluss von Teilnehmern am Elektrizitätsmarkt, um gegenüber der nationalen Netzgesellschaft eine gemeinsame Mess- und Abrechnungseinheit innerhalb der Regelzone Schweiz zu bilden;
-- e<sup>ter</sup>.[^4-2] *Ausgleichsenergie:* Elektrizität, die zum Ausgleich der Differenz zwischen dem effektiven Bezug oder der effektiven Lieferung einer Bilanzgruppe und deren Bezug beziehungsweise deren Lieferung nach Fahrplan in Rechnung gestellt wird.
+- e*.*[^4-4] *Regelenergie:* automatisch oder manuell abrufbarer Einsatz von Elektrizität zur Einhaltung des geplanten Elektrizitätsaustausches und zur Gewährleistung des sicheren Netzbetriebes;
+- e<sup>bis</sup>.[^4-5] *Bilanzgruppe:* rechtlicher Zusammenschluss von Teilnehmern am Elektrizitätsmarkt, um gegenüber der nationalen Netzgesellschaft eine gemeinsame Mess- und Abrechnungseinheit innerhalb der Regelzone Schweiz zu bilden;
+- e<sup>ter</sup>.[^4-6] *Ausgleichsenergie:* Elektrizität, die zum Ausgleich der Differenz zwischen dem effektiven Bezug oder der effektiven Lieferung einer Bilanzgruppe und deren Bezug beziehungsweise deren Lieferung nach Fahrplan in Rechnung gestellt wird.
 - f. *Regelzone*: Gebiet, für dessen Netzregelung die nationale Netzgesellschaft verantwortlich ist. Die Regelzone wird physikalisch durch Messstellen festgelegt;
 - g. *Systemdienstleistungen*: Die für den sicheren Betrieb der Netze notwendigen Hilfsdienste. Diese umfassen insbesondere Systemkoordination, Bilanzmanagement, Primärregelung, Schwarzstart- und Inselbetriebsfähigkeit von Erzeugern, Spannungshaltung (inkl. Anteil Blindenergie), betriebliche Messungen und Ausgleich der Wirkverluste;
 - h. *Übertragungsnetz*: Elektrizitätsnetz, das der Übertragung von Elektrizität über grössere Distanzen im Inland sowie dem Verbund mit den ausländischen Netzen dient und in der Regel auf der Spannungsebene 220/380 kV betrieben wird;
@@ -89,8 +90,12 @@ In diesem Gesetz bedeuten:
 
 <sup>2</sup> Der Bundesrat kann die Begriffe nach Absatz 1 sowie weitere in diesem Gesetz verwendete Begriffe näher ausführen und veränderten technischen Voraussetzungen anpassen.
 
-[^4-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Juni 2015 ([AS 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [BBl 2014 3967](https://fedlex.data.admin.ch/eli/fga/2014/926)[3977](https://fedlex.data.admin.ch/eli/fga/2014/928)).
-[^4-2]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Juni 2015 ([AS 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [BBl 2014 3967](https://fedlex.data.admin.ch/eli/fga/2014/926)[3977](https://fedlex.data.admin.ch/eli/fga/2014/928)).
+[^4-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^4-2]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^4-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^4-4]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^4-5]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Juni 2015 ([AS 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [BBl 2014 3967](https://fedlex.data.admin.ch/eli/fga/2014/926)[3977](https://fedlex.data.admin.ch/eli/fga/2014/928)).
+[^4-6]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Juni 2015 ([AS 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [BBl 2014 3967](https://fedlex.data.admin.ch/eli/fga/2014/926)[3977](https://fedlex.data.admin.ch/eli/fga/2014/928)).
 
 ## 2. Kapitel: Versorgungssicherheit
 
@@ -114,36 +119,63 @@ In diesem Gesetz bedeuten:
 
 #### Art. 6
 
-**Lieferpflicht und Tarifgestaltung für feste Endverbraucher**
+**Lieferpflicht und Tarifgestaltung in der Grundversorgung[^6-1]**
 
-<sup>1</sup> Die Betreiber der Verteilnetze treffen die erforderlichen Massnahmen, damit sie in ihrem Netzgebiet den festen Endverbrauchern und den Endverbrauchern, die auf den Netzzugang verzichten, jederzeit die gewünschte Menge an Elektrizität mit der erforderlichen Qualität und zu angemessenen Tarifen liefern können.
+<sup>1</sup> Die Verteilnetzbetreiber treffen die erforderlichen Massnahmen, damit sie in ihrem Netzgebiet den festen Endverbrauchern und den Endverbrauchern, die auf den Netzzugang verzichten, jederzeit die gewünschte Menge an Elektrizität mit der erforderlichen Qualität und zu angemessenen Tarifen liefern können.[^6-2]
 
 <sup>2</sup> Als feste Endverbraucher im Sinne dieses Artikels gelten die Haushalte und die anderen Endverbraucher mit einem Jahresverbrauch von weniger als 100 MWh pro Verbrauchsstätte.
 
-<sup>3</sup> Die Betreiber der Verteilnetze legen in ihren Netzgebieten für feste Endverbraucher mit gleichartiger Verbrauchscharakteristik, die von der gleichen Spannungsebene Elektrizität beziehen, einen einheitlichen Elektrizitätstarif fest. Die Elektrizitätstarife sind für mindestens ein Jahr fest und sind aufgeschlüsselt nach Netznutzung, Energielieferung, Abgaben und Leistungen an Gemeinwesen zu veröffentlichen.
+<sup>2bis</sup> Die Verteilnetzbetreiber bieten in der Grundversorgung als Standard ein Elektrizitätsprodukt an, das insbesondere auf der Nutzung von inländischer erneuerbarer Energie beruht (Standardstromprodukt).[^6-3]
 
-<sup>4</sup> Zur Festlegung des Tarifbestandteils der Netznutzung gelten die Artikel 14 und 15. Für den Tarifbestandteil der Energielieferung hat der Netzbetreiber eine Kostenträgerrechnung zu führen. Der Umstand, dass feste Endverbraucher gegebenenfalls auch Energie einspeisen, darf bei der Festlegung des Tarifbestandteils der Energielieferung nicht berücksichtigt werden.[^6-1]
+<sup>3</sup> Die Verteilnetzbetreiber legen in ihren Netzgebieten für feste Endverbraucher mit gleichartiger Verbrauchscharakteristik, die von der gleichen Spannungsebene Elektrizität beziehen, einen einheitlichen Elektrizitätstarif fest.[^6-4] Die Elektrizitätstarife sind für mindestens ein Jahr fest und sind aufgeschlüsselt nach Netznutzung, Energielieferung, Abgaben und Leistungen an Gemeinwesen zu veröffentlichen.
 
-<sup>5</sup> Die Betreiber der Verteilnetze sind verpflichtet, Preisvorteile aufgrund ihres freien Netzzugangs anteilsmässig an die festen Endverbraucher weiterzugeben, nötigenfalls über Tarifanpassungen in den Folgejahren. Für Preisvorteile, die ein Jahr betreffen, das mehr als fünf Jahre zurückliegt, müssen keine solchen Tarifanpassungen mehr vorgenommen werden.[^6-2]
+<sup>4</sup> Für die Festlegung des Tarifbestandteils der Netznutzung gelten die Artikel 14−15*a*. Für den Tarifbestandteil der Energielieferung haben die Verteilnetzbetreiber eine Kostenträgerrechnung zu führen.[^6-5] Der Umstand, dass feste Endverbraucher gegebenenfalls auch Energie einspeisen, darf bei der Festlegung des Tarifbestandteils der Energielieferung nicht berücksichtigt werden.[^6-6]
 
-<sup>5bis</sup> Soweit die Betreiber der Verteilnetze die festen Endverbraucher mit Elektrizität aus erneuerbaren Energien beliefern, dürfen sie bis zum Auslaufen der Marktprämie nach Artikel 30 des Energiegesetzes vom 30. September 2016[^6-3] die Gestehungskosten dieser Elektrizität in die Tarife einrechnen und müssen Preisvorteile nach Absatz 5 nicht miteinrechnen. Dieses Recht gilt nur für Elektrizität aus Erzeugungskapazitäten im Inland abzüglich allfälliger Unterstützungen. Der Bundesrat regelt die Einzelheiten und kann Ausnahmen vorsehen.[^6-4]
+<sup>5</sup>
+
+Die Verteilnetzbetreiber setzen in der Grundversorgung die folgenden, durch den Bundesrat festzulegenden Mindestanteile an Elektrizität ab:
+
+- a. einen Mindestanteil von ihrer erweiterten Eigenproduktion aus erneuerbaren Energien aus dem Inland;
+- b. einen Mindestanteil Elektrizität aus erneuerbaren Energien aus Anlagen im Inland; reicht ihre erweiterte Eigenproduktion dafür nicht, so beschaffen sie die nötigen inländischen Mengen über mittel- und langfristige Bezugsverträge.[^6-7]
+
+<sup>5bis</sup>
+
+Die Verteilnetzbetreiber beachten ausserdem die folgenden Grundsätze:
+
+- a. Sie beschaffen die erforderliche Elektrizität mit Beschaffungsstrategien, die sie möglichst gegen Marktpreisschwankungen absichern.
+- b. Sie trennen die Beschaffungen für die Grundversorgung einerseits und für die Endverbraucher, die von ihrem Netzzugang Gebrauch machen, andererseits; sie weisen die Bezugsverträge, mit der ganzen oder einem Teil der Elektrizitätsmenge, mit Wirkung für die gesamte Laufzeit dem jeweiligen Segment zu und dokumentieren dies.
+- c. Sie können die Beschaffungen ohne Ausschreibung vornehmen, gewährleisten aber ein transparentes und diskriminierungsfreies Verfahren.
+- d.
+
+  In die Grundversorgungstarife dürfen nebst einem angemessenen Gewinn eingerechnet werden:
+
+  - 1\. bei eigenen Anlagen oder beteiligungsbedingten Bezügen: die durchschnittlichen Gestehungskosten dieser ganzen Produktion;
+  - 2\. bei Bezugsverträgen: die Beschaffungskosten;
+  - 3\. bei Abnahmen nach Artikel 15 EnG[^6-8]: die entsprechende Vergütung.[^6-9]
+
+<sup>5ter</sup> Die Verteilnetzbetreiber dürfen Kosten aufgrund von Zielvorgaben zur Steigerung der Effizienz nach Artikel 46*b* EnG nur anteilsmässig den festen Endverbrauchern und den Endverbrauchern, die auf den Netzzugang verzichten, belasten. Der Bundesrat kann diese Kosten begrenzen.[^6-10]
 
 <sup>6</sup> Feste Endverbraucher haben keinen Anspruch auf Netzzugang nach Artikel 13 Absatz 1.
 
-<sup>7</sup> Für den Zusammenschluss zum Eigenverbrauch gelten die Artikel 17 und 18 des Energiegesetzes vom 30. September 2016[^6-5].[^6-6]
+<sup>7</sup> Für den Zusammenschluss zum Eigenverbrauch gelten die Artikel 17 und 18 EnG.[^6-11]
 
-[^6-1]: Fassung gemäss Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^6-2]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^6-3]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^6-4]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^6-5]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^6-6]: Eingefügt durch Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-2]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-3]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-4]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-5]: Fassung des ersten und zweiten Satzes gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-6]: Fassung gemäss Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-7]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-8]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^6-9]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)). Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-10]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-11]: Eingefügt durch Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Noch nicht in Kraft ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762), [2018 1811](https://fedlex.data.admin.ch/eli/oc/2018/271)).
+[^7-1]: Nicht in Kraft gesetzt.
 
 ### 2. Abschnitt: Sicherstellung der Versorgung
 
@@ -160,16 +192,20 @@ Die Netzbetreiber koordinieren ihre Tätigkeiten. Ihnen obliegt insbesondere:
 - c. die Bereitstellung der benötigten Reserveleitungskapazität;
 - d. die Erarbeitung der technischen und betrieblichen Mindestanforderungen für den Netzbetrieb. Sie berücksichtigen dabei internationale Normen und Empfehlungen anerkannter Fachorganisationen.
 
-<sup>2</sup> …[^8-1]
+<sup>1bis</sup> Die Erzeuger, die Endverbraucher und die Speicherbetreiber unterstützen ihren Netzbetreiber bei Massnahmen zur Gewährleistung des sicheren Netzbetriebs. Sie befolgen seine Anweisungen bei Anordnungen nach Artikel 20*a*. Diese Pflichten gelten sinngemäss auch zwischen Netzbetreibern mit verbundenen Netzen.[^8-1]
 
-<sup>3</sup> Sie orientieren die Elektrizitätskommission (ElCom) jährlich über den Betrieb und die Belastung der Netze sowie über ausserordentliche Ereignisse.
+<sup>2</sup> …[^8-2]
 
-<sup>4</sup> Der Bundesrat kann für Betreiber kleiner Verteilnetze Erleichterungen in Bezug auf die Pflichten nach Absatz 3 vorsehen.[^8-2]
+<sup>3</sup> Die Netzbetreiber orientieren die Eidgenössische Elektrizitätskommission (ElCom) jährlich über den Betrieb und die Belastung der Netze sowie über ausserordentliche Ereignisse.[^8-3]
+
+<sup>4</sup> Der Bundesrat kann für Betreiber kleiner Verteilnetze Erleichterungen in Bezug auf die Pflichten nach Absatz 3 vorsehen.[^8-4]
 
 <sup>5</sup> Der Bundesrat sieht für Pflichtverletzungen Sanktionen einschliesslich Ersatzvornahmen vor.
 
-[^8-1]: Aufgehoben durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, mit Wirkung seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^8-2]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^8-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^8-2]: Aufgehoben durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, mit Wirkung seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^8-3]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^8-4]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 8a
 
@@ -180,6 +216,55 @@ Die Netzbetreiber koordinieren ihre Tätigkeiten. Ihnen obliegt insbesondere:
 <sup>2</sup> Der Bundesrat kann Ausnahmen vorsehen und, sofern zur Sicherstellung der Versorgung notwendig, die Pflicht nach Absatz 1 auf andere Dienstleister im Bereich der Elektrizitätsversorgung ausdehnen.
 
 [^8a-1]: Eingefügt durch Ziff. II 4 des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. Juli 2024 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 8b
+
+**Energiereserve für kritische Versorgungssituationen**[^8b-1]
+
+<sup>1</sup> Zur Absicherung gegen ausserordentliche Situationen wie kritische Versorgungsengpässe oder -ausfälle kann eine Energiereserve gebildet werden.
+
+<sup>2</sup>
+
+An der Bildung der Energiereserve nehmen teil:
+
+- a. obligatorisch: die Betreiber von Speicherwasserkraftwerken ab einer Speicherkapazität von 10 GWh, die Wasser vorhalten;
+- b. aufgrund von Ausschreibungen: die Speicherbetreiber und grössere Verbraucher mit einem Potenzial für Lastreduktion; diese Reserveteilnehmer erhalten ein Entgelt für das Vorhalten von Energie und für die Bereitschaft zur Lastreduktion.
+
+<sup>3</sup> Die ElCom legt die Dimensionierung und die übrigen Eckwerte der Wasserkraftreserve (Abs. 2 Bst. a) und der restlichen Reserve (Abs. 2 Bst. b) fest und überwacht die Umsetzung der Energiereserve.
+
+<sup>4</sup> Die nationale Netzgesellschaft unterstützt die ElCom und nimmt die operative Abwicklung der Energiereserve vor. Sie schliesst mit den Teilnehmern der Wasserkraftreserve eine Vereinbarung über die Teilnahme an der Reserve. Die betroffenen Betreiber legen selber fest, in welchen Speicherwasserkraftwerken sie die Reservemenge vorhalten, und können Abreden mit anderen Betreibern treffen, damit diese die Vorhaltung vornehmen; sie halten sich für diese Modalitäten an die Vorgaben nach Absatz 7 Buchstabe b. Für die restliche Reserve führt die nationale Netzgesellschaft die nötigen Ausschreibungen durch und schliesst mit den Betreibern und Verbrauchern, denen sie einen Zuschlag erteilt, ebenfalls eine Vereinbarung. Die Reserveteilnehmer erteilen der ElCom und der nationalen Netzgesellschaft die notwendigen Auskünfte und stellen die erforderlichen Unterlagen zur Verfügung.
+
+<sup>5</sup> Die Energiereserve steht zum Abruf frei, wenn an der Strombörse für den Folgetag die nachgefragte Menge Elektrizität das Angebot übersteigt (fehlende Markträumung). Die nationale Netzgesellschaft nimmt den Abruf nach einer durch die ElCom festgelegten Abrufordnung und in deren Rahmen diskriminierungsfrei vor.
+
+<sup>6</sup> Die Bilanzgruppen und die nachgelagerten Händler dürfen aus der Reserve abgerufene Energie nicht mit Gewinn und nicht ins Ausland verkaufen.
+
+<sup>7</sup>
+
+Der Bundesrat regelt die Einzelheiten und kann insbesondere Folgendes vorsehen:
+
+- a. die Bildung von einzelnen Reserveteilen für länger als ein Jahr, insbesondere bei der Wasserkraftreserve, und die Möglichkeit, zeitweise auf die Bildung eines Reserveteils zu verzichten oder ihn vorzeitig aufzulösen;
+- b. die Kriterien, nach denen bestimmt wird, welche Betreiber mit wieviel Energie obligatorisch an der Wasserkraftreserve teilnehmen müssen, wie sie die Energie auf ihre Speicherseen verteilen und wie sie ihre Vorhalteverpflichtungen durch andere Betreiber vornehmen lassen können, indem sie entsprechende Abreden treffen;
+- c. eine moderate Pauschalabgeltung für die Wasservorhaltung, welche die aktuelle Marktsituation, die Preisdifferenz am Strommarkt zwischen den Winter- und den Sommermonaten sowie den Wert der Flexibilität berücksichtigt;
+- d. Preisobergrenzen bei den Ausschreibungen;
+- e. Sanktionen bei der Missachtung von Reservepflichten;
+- f. einen ausnahmsweisen Abruf auch ohne fehlende Markträumung;
+- g. die Abrufentschädigung, die der Unterschiedlichkeit der Reserveteile Rechnung tragen kann;
+- h. ein Aufgeld zulasten der Bilanzgruppen, die einen Abruf veranlasst haben;
+- i. die allfällige Vorhaltung von Leistung.
+
+[^8b-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 8c
+
+**Erfassung und Weitergabe der Speicherseedaten**[^8c-1]
+
+<sup>1</sup> Der Bundesrat bezeichnet eine Stelle für die Erfassung von Füllstands-, Abfluss- und Zuflussdaten der Speicherseen. Die Kraftwerksbetreiber stellen ihr alle dazu erforderlichen Daten und Informationen zur Verfügung.
+
+<sup>2</sup> Die Stelle gibt die Daten der ElCom, dem Bundesamt für Energie (BFE), der nationalen Netzgesellschaft, der Organisation der wirtschaftlichen Landesversorgung und weiteren Bundesstellen im für deren Aufgabenerfüllung notwendigen Umfang weiter. Der Bundesrat regelt die Grundzüge der Berechtigung zum Zugang zu den Daten.
+
+<sup>3</sup> Die Daten werden vertraulich behandelt. Die Empfänger nach Absatz 2 stellen zudem mit technischen und organisatorischen Massnahmen sicher, dass die Daten ausschliesslich für den bei der Weitergabe angegebenen Zweck verwendet werden.
+
+[^8c-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666))*.*
 
 #### Art. 9
 
@@ -206,17 +291,63 @@ Wird ein Gewinn erwirtschaftet, so müssen allfällige Abgeltungen für Mehrkost
 - a. die Reduktion der Übertragungskosten der Hochspannungsnetze;
 - b. die Verstärkung oder den Ausbau der Hochspannungsnetze.
 
+#### Art. 9a
+
+**Zubau für die Stromproduktion im Winter**[^9a-1]
+
+<sup>1</sup> Zur Stärkung der Versorgungssicherheit im Winter soll per 2040 ein Zubau von Kraftwerken zur Erzeugung von erneuerbarer Energie von mindestens 6 TWh realisiert und unterstützt werden. Davon müssen mindestens 2 TWh sicher abrufbar sein.
+
+<sup>2</sup> Dieser Zubau ist in erster Linie mit Speicherwasserkraftwerken nach Anhang 2 sowie mit Solar- und Windkraftanlagen von nationalem Interesse zu erreichen.
+
+<sup>3</sup>
+
+Für Speicherwasserkraftwerke nach Anhang 2 sowie für das Wasserkraftwerk Chlus gilt, dass:
+
+- a. sie nur planungspflichtig sind, wenn eine Anlage an einem neuen Standort vorgesehen ist; dabei beschränkt sich die Planungspflicht auf die Durchführung eines Richtplanverfahrens nach Artikel 8 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^9a-2];
+- b. ihr Bedarf ausgewiesen ist;
+- c. sie standortgebunden sind;
+- d. das Interesse an ihrer Realisierung anderen nationalen Interessen grundsätzlich vorgeht; und
+- e. zusätzliche Ausgleichsmassnahmen zum Schutz von Biodiversität und Landschaft vorzusehen sind.
+
+<sup>4</sup>
+
+Für Solar- und Windkraftanlagen von nationalem Interesse nach Artikel 12 EnG[^9a-3], die in einem geeigneten Gebiet nach Artikel 10 Absatz 1 EnG und Artikel 8*b* des Raumplanungsgesetzes vom 22. Juni 1979, aber ausserhalb von Objekten nach Artikel 5 des Bundesgesetzes vom 1. Juli 1966[^9a-4] über den Natur- und Heimatschutz vorgesehen sind, gilt dass:
+
+- a. ihr Bedarf ausgewiesen ist;
+- b. sie standortgebunden sind; und
+- c. das Interesse an ihrer Realisierung anderen nationalen Interessen grundsätzlich vorgeht.
+
+<sup>5</sup> Der Bundesrat überprüft die Liste der in Anhang 2 aufgeführten Vorhaben regelmässig, erstmals zwei Jahre nach Inkrafttreten der Änderung vom 29. September 2023, unter Konsultation der Betroffenen, insbesondere der Kantone, der Betreiber und der Verbände, und beantragt der Bundesversammlung bei Bedarf sowie bei Nichtrealisierung von aufgeführten Projekten Ergänzungen der Liste.
+
+<sup>6</sup> Der Bundesrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass Unternehmen, die Projekte nach Absatz 5 nicht realisieren, die Projektunterlagen anderen Interessierten zugänglich machen müssen.
+
+[^9a-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^9a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^9a-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^9a-4]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+
+#### Art. 9a<sup>bis</sup>
+
+**Versorgungssicherheit durch Energieeffizienz**[^9abis-1]
+
+<sup>1</sup> Zur Stärkung der Versorgungssicherheit im Winter sind Massnahmen der Energieeffizienz umzusetzen, die bis spätestens 2035 zu einer Reduktion des Stromverbrauchs um 2 TWh führen.
+
+<sup>2</sup> Zeichnet sich ab, dass die angestrebten Effizienzgewinne nach Absatz 1 nicht erreicht werden können, so kann der Ausbau erneuerbarer Kraftwerke nach dem EnG[^9abis-2] intensiviert werden.
+
+[^9abis-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^9abis-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
 ### 3. Abschnitt: Netzentwicklung
 
 [^chap2-sec3-1]
 
 [^chap2-sec3-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019, Art. 9*d* seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-#### Art. 9a
+#### Art. 9a<sup>ter</sup>
 
-**Szenariorahmen**
+**Szenariorahmen**[^9ater-1]
 
-<sup>1</sup> Das Bundesamt für Energie (BFE) erstellt einen Szenariorahmen als Grundlage für die Netzplanung der Übertragungsnetze und Verteilnetze hoher Spannung. Es stützt sich dabei auf die energiepolitischen Ziele des Bundes und auf die gesamtwirtschaftlichen Rahmendaten und berücksichtigt das internationale Umfeld. Der Szenariorahmen geht von einer Gesamtenergiebetrachtung aus.
+<sup>1</sup> Das BFE erstellt einen Szenariorahmen als Grundlage für die Netzplanung der Übertragungsnetze und Verteilnetze hoher Spannung. Es stützt sich dabei auf die energiepolitischen Ziele des Bundes und auf die gesamtwirtschaftlichen Rahmendaten und berücksichtigt das internationale Umfeld. Der Szenariorahmen geht von einer Gesamtenergiebetrachtung aus.[^9ater-2]
 
 <sup>2</sup> Bei der Erstellung des Szenariorahmens bezieht das BFE die Kantone, die nationale Netzgesellschaft, die übrigen Netzbetreiber und weitere Betroffene angemessen mit ein. Diese stellen dem BFE die dafür erforderlichen Auskünfte und Unterlagen unentgeltlich zur Verfügung.
 
@@ -227,6 +358,9 @@ Wird ein Gewinn erwirtschaftet, so müssen allfällige Abgeltungen für Mehrkost
 <sup>5</sup> Der Szenariorahmen muss periodisch überprüft und nachgeführt werden. Der Bundesrat bestimmt die Periodizität; er kann bei ausserordentlichen Entwicklungen eine vorgezogene Nachführung des Szenariorahmens anordnen.
 
 <sup>6</sup> Der Szenariorahmen ist für Behörden zu Fragen der Elektrizitätsnetze verbindlich.
+
+[^9ater-1]: Urprünglich: Art. 9*a*.
+[^9ater-2]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 9b
 
@@ -252,7 +386,7 @@ Wird ein Gewinn erwirtschaftet, so müssen allfällige Abgeltungen für Mehrkost
 
 **Mehrjahrespläne**
 
-<sup>1</sup> Die Netzbetreiber erstellen für ihre Netze mit einer Nennspannung von über 36 kV auf der Grundlage des Szenariorahmens und entsprechend dem weiteren Bedarf für ihr Netzgebiet einen auf zehn Jahre ausgelegten Entwicklungsplan (Mehrjahresplan). Die nationale Netzgesellschaft legt ihren Mehrjahresplan innerhalb von neun Monaten nach Genehmigung des letzten Szenariorahmens durch den Bundesrat der ElCom zur Prüfung vor.
+<sup>1</sup> Die Netzbetreiber erstellen für ihre Netze mit einer Nennspannung von über 36 kV auf der Grundlage des Szenariorahmens und entsprechend dem weiteren Bedarf für ihr Netzgebiet einen auf den Zeitraum des Szenariorahmens ausgelegten Entwicklungsplan (Mehrjahresplan). Die nationale Netzgesellschaft legt ihren Mehrjahresplan innerhalb von zwölf Monaten nach Genehmigung des letzten Szenariorahmens durch den Bundesrat der ElCom zur Prüfung vor.[^9d-1]
 
 <sup>2</sup>
 
@@ -270,6 +404,8 @@ Die nationale Netzgesellschaft veröffentlicht ihren von der ElCom geprüften Me
 - a. die innere oder äussere Sicherheit der Schweiz nicht gefährdet wird;
 - b. die aussenpolitischen Interessen oder die internationalen Beziehungen der Schweiz nicht beeinträchtigt werden;
 - c. keine Berufs-, Geschäfts- oder Fabrikationsgeheimnisse offenbart werden.
+
+[^9d-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 9e
 
@@ -303,13 +439,38 @@ Die nationale Netzgesellschaft veröffentlicht ihren von der ElCom geprüften Me
 
 #### Art. 12
 
-**Information und Rechnungsstellung**
+**Information und Rechnungsstellung**[^12-1]
 
-<sup>1</sup> Die Netzbetreiber stellen die für die Netznutzung nötigen Informationen leicht zugänglich bereit und veröffentlichen die Netznutzungstarife, die Jahressumme der Netznutzungsentgelte, die Elektrizitätstarife, die technischen und betrieblichen Mindestanforderungen sowie die Jahresrechnungen.
+<sup>1</sup>
 
-<sup>2</sup> Sie stellen für die Netznutzung transparent und vergleichbar Rechnung. Die Abgaben und Leistungen an Gemeinwesen und die Zuschläge auf die Übertragungskosten des Hochspannungsnetzes sind gesondert auszuweisen. Soweit die Netzbetreiber auch Endverbraucher mit Elektrizität beliefern, ist dies auf der Rechnung getrennt auszuweisen.
+Die Netzbetreiber stellen die für die Netznutzung nötigen Informationen leicht zugänglich bereit und veröffentlichen:
 
-<sup>3</sup> Sie dürfen bei Lieferantenwechsel auf den vertraglich vorgesehenen Kündigungstermin keine Kosten für den Wechsel auferlegen.
+- a. die Netznutzungstarife;
+- b. die Elektrizitätstarife;
+- c. …
+- d. die Jahressumme der Netznutzungsentgelte;
+- e. die technischen und betrieblichen Mindestanforderungen für den Netzanschluss;
+- f. die Grundlagen zur Berechnung allfälliger Netzkostenbeiträge; und
+- g. die Jahresrechnungen.
+
+<sup>2</sup>
+
+Die Rechnungen, die den Endverbrauchern gestellt werden, müssen transparent und vergleichbar sein. In der Rechnung sind gesondert auszuweisen:
+
+- a. das Entgelt für die Elektrizität;
+- b. das Netznutzungsentgelt;
+- c. …
+- d. die Abgaben und Leistungen an Gemeinwesen;
+- e. der Netzzuschlag nach Artikel 35 EnG[^12-2];
+- f. die Kosten der Energiereserve nach Artikel 8*b*;
+- g. die Kosten für Netz- und Anschlussverstärkungen nach Artikel 15*b*;
+- h.[^12-3] die Kosten der Unterstützungsmassnahmen gemäss Artikel 14<sup>bis</sup>.
+
+<sup>3</sup> Die Netzbetreiber dürfen den Endverbrauchern bei einem Lieferantenwechsel auf den vertraglich vorgesehenen Kündigungstermin keine Kosten für den Wechsel auferlegen.
+
+[^12-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025, Abs. 1 Bst. c und 2 Bst. c seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^12-3]: Eingefügt durch Ziff. I der BG vom 20. Dez. 2024 (Dringliche Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten von strategischer Bedeutung), in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2028 ([AS 2024 787](https://fedlex.data.admin.ch/eli/oc/2024/787); [BBl 2024 710](https://fedlex.data.admin.ch/eli/fga/2024/710)).
 
 ### 2. Abschnitt: Netzzugang und Netznutzungsentgelt
 
@@ -328,15 +489,9 @@ Der Netzzugang kann mit schriftlicher Begründung innert zehn Arbeitstagen seit 
 - c. bei grenzüberschreitender Netznutzung vom ausländischen Staat kein Gegenrecht gewährt wird; oder
 - d. eine Ausnahme nach Artikel 17 Absatz 6 vorliegt.
 
-<sup>3</sup>
+<sup>3</sup> …[^13-1]
 
-Bei der Zuteilung von Kapazität im Netz haben gegenüber sonstigen Lieferungen Vorrang in der nachstehenden Reihenfolge:
-
-- a. Lieferungen an Endverbraucher nach Artikel 6 Absatz 1;
-- b.[^13-1] …
-- c. Lieferungen von Elektrizität aus erneuerbaren Energien, insbesondere Wasserkraft.
-
-[^13-1]: Noch nicht in Kraft.
+[^13-1]: Aufgehoben durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, mit Wirkung seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 14
 
@@ -367,6 +522,100 @@ Für die Festlegung der Netznutzungstarife gilt:
 [^14-3]: Fassung gemäss Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^14-4]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Juni 2015 ([AS 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [BBl 2014 3967](https://fedlex.data.admin.ch/eli/fga/2014/926)[3977](https://fedlex.data.admin.ch/eli/fga/2014/928)).
 
+#### Art. 14<sup>bis</sup>
+
+**Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten von strategischer Bedeutung**[^14bis-1]
+
+<sup>1</sup>
+
+Für Unternehmen, die mindestens seit dem Jahr 2023 Eisen-, Stahl- oder Aluminium mit einer Jahresproduktion von mindestens 20’000 Tonnen Metall aus mehrheitlich rezykliertem Material herstellen oder verarbeiten, können die Netznutzungsentgelte des Übertragungsnetzes und der Verteilnetze, mit Ausnahme der Anteile der Stromreserve und des Netzzuschlags, während vier Jahren reduziert werden, wenn:
+
+- a. sie ihren Sitz in der Schweiz haben;
+- b. ihre Elektrizitätskosten mindestens 5 Prozent der Bruttowertschöpfung ausmachen;
+- c. sie am Emissionshandelssystem der Schweiz teilnehmen.
+
+<sup>2</sup> Von der Reduktion ausgeschlossen sind Unternehmen, die im letzten abgeschlossenen Geschäftsjahr ein positives Jahresergebnis ausweisen.
+
+<sup>3</sup>
+
+Für die Gewährung der Reduktion müssen folgende Auflagen erfüllt werden:
+
+- a. Erhaltung des Produktionsstandorts, die anhand eines Geschäftsplans aufgezeigt wird;
+- b. Erarbeitung eines Netto-Null- Fahrplans nach Artikel 5 Absatz 2 des Bundesgesetzes vom 30. September 2022[^14bis-2] über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit;
+- c. Verzicht auf die Beschlussfassung über oder die Auszahlung von Dividenden und Tantiemen für die Jahre 2025–2028;
+- d. Verzicht auf die Beschlussfassung über oder Auszahlung von Sondervergütungen und variablen Vergütungen für die Mitglieder der Geschäftsleitung und des Verwaltungsrats für die Jahre 2025–2028;
+- e. Verzicht auf andere Mittelabflüsse wie die Gewährung von Darlehen an die und die Rückzahlung von Darlehen der Eigentümerinnen und Eigentümer oder der nahestehenden Personen für die Jahre 2025–2028;
+- f. Sicherheiten für den Fall der Nichterfüllung der Auflagen.
+
+<sup>4</sup> Die Reduktion kann nur erfolgen, wenn der Standortkanton Finanzhilfen zur Unterstützung von Unternehmen nach Absatz 1 gewährt. Die Finanzhilfen betragen mindestens die Hälfte der jeweiligen Reduktion.
+
+<sup>5</sup>
+
+Die Reduktion beträgt:
+
+- a. 50 Prozent im ersten Jahr;
+- b. 37,5 Prozent im zweiten Jahr;
+- c. 25 Prozent im dritten Jahr;
+- d. 12,5 Prozent im vierten Jahr.
+
+<sup>6</sup> Die Reduktion wird auf Gesuch hin gewährt. Das Gesuch ist bis spätestens 31. Mai 2025 beim Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) einzureichen.
+
+<sup>7</sup> Unternehmen, denen eine Reduktion gewährt worden ist, haben gegenüber dem UVEK jährlich den Nachweis der Einhaltung der Auflagen zu erbringen. Kann der Nachweis nicht erbracht werden, ist der Betrag, um den das Netznutzungsentgelt reduziert wurde, vollständig zurückzuerstatten.
+
+<sup>8</sup>
+
+Der Bundesrat kann weitere Kriterien festlegen. Er regelt die Einzelheiten, insbesondere:
+
+- a. Transparenzauflagen;
+- b. Rückzahlungsmodalitäten und Gewinnbeteiligung;
+- c. Sicherheiten;
+- d. Datenbearbeitung und Auskunftspflicht.
+
+<sup>9</sup> Die durch die Reduktion entgangenen Netznutzungsentgelte gelten als anrechenbare Kosten des Übertragungsnetzes. Der Bundesrat regelt die Einzelheiten.
+
+[^14bis-1]: Eingefügt durch Ziff. I der BG vom 20. Dez. 2024 (Dringliche Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten von strategischer Bedeutung), in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2028 ([AS 2024 787](https://fedlex.data.admin.ch/eli/oc/2024/787); [BBl 2024 710](https://fedlex.data.admin.ch/eli/fga/2024/710)).
+[^14bis-2]: [SR 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
+
+#### Art. 14a
+
+**Speicher, Bahnstromnetz und weitere Anlagen als Spezialfälle beim Netznutzungsentgelt und beim Elektrizitätsbezug**[^14a-1]
+
+<sup>1</sup>
+
+Es ist kein Netznutzungsentgelt geschuldet für:
+
+- a.
+
+  Kraftwerke bei den folgenden Elektrizitätsbezügen:
+
+  - 1\. Eigenbedarf eines Kraftwerks,
+  - 2\. Antrieb von Pumpen bei Pumpspeicherkraftwerken;
+
+- b. Speicher ohne Endverbrauch.
+
+<sup>2</sup> Das mit der Frequenz von 16,7 Hz betriebene Netz der Eisenbahnunternehmen (Bahnstromnetz) gilt beim Elektrizitätsbezug aus dem 50‑Hz-Netz als Endverbraucher.
+
+<sup>3</sup>
+
+Beim Bahnstromnetz ist analog zu Absatz 1 kein Netznutzungsentgelt geschuldet, wenn Elektrizität bezogen wird:
+
+- a. für den Eigenbedarf eines Kraftwerks;
+- b. für den Antrieb von Pumpen in Pumpspeicherkraftwerken und die anschliessend erzeugte Elektrizitätsmenge wieder in das 50‑Hz-Netz zurückgespeist wird; oder
+- c. aus Effizienzgründen ersatzweise aus dem 50‑Hz-Netz anstatt aus einem Pumpspeicherkraftwerk selbst; vorausgesetzt ist, dass dadurch innerhalb des Pumpspeicherkraftwerks ein zeitgleiches Pumpen und Turbinieren vermieden wird.
+
+<sup>4</sup> …
+
+<sup>5</sup>
+
+Der Bundesrat kann:
+
+- a. …
+- b. weitere Einzelheiten des Zusammenspiels zwischen 50‑Hz- und 16,7‑Hz-Netz regeln.
+
+<sup>6</sup> …
+
+[^14a-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025, Abs. 4, 5 Bst. a und 6 seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
 #### Art. 15
 
 **Anrechenbare Netzkosten**
@@ -377,9 +626,9 @@ Für die Festlegung der Netznutzungstarife gilt:
 
 Als Betriebskosten gelten die Kosten für die mit dem Betrieb der Netze direkt zusammenhängenden Leistungen. Dazu zählen insbesondere:
 
-- a. die Kosten für Systemdienstleistungen;
+- a.[^15-2] die Kosten für Systemdienstleistungen und die Energiereserve;
 - b. die Kosten für den Unterhalt der Netze;
-- c. die Entgelte für die Einräumung von Rechten und Dienstbarkeiten im Zusammenhang mit dem Netzbetrieb.[^15-2]
+- c. die Entgelte für die Einräumung von Rechten und Dienstbarkeiten im Zusammenhang mit dem Netzbetrieb.[^15-3]
 
 <sup>3</sup>
 
@@ -393,9 +642,9 @@ Die Kapitalkosten müssen auf der Basis der ursprünglichen Anschaffungs- bezieh
 Der Bundesrat regelt unter welchen Bedingungen und in welchem Umfang folgende Kosten anrechenbar und wie sie den Betriebs- und Kapitalkosten zuzuordnen sind:
 
 - a. die Kosten intelligenter Mess-, Steuer- und Regelsysteme, einschliesslich bestimmter Kosten für die Sensibilisierung im Bereich der Verbrauchsreduktion;
-- b. die Kosten für notwendige Informationsmassnahmen, die der Netzbetreiber für genehmigungspflichtige Vorhaben nach Artikel 16 des Elektrizitätsgesetzes vom 24. Juni 1902[^15-3] projektspezifisch trifft;
+- b. die Kosten für notwendige Informationsmassnahmen, die der Netzbetreiber für genehmigungspflichtige Vorhaben nach Artikel 16 des Elektrizitätsgesetzes vom 24. Juni 1902[^15-4] projektspezifisch trifft;
 - c. die Gebühren, die der Netzbetreiber nach Artikel 3*a* Absatz 2 des Elektrizitätsgesetzes entrichtet;
-- d. die Kosten innovativer Massnahmen nach Absatz 1.[^15-4]
+- d. die Kosten innovativer Massnahmen nach Absatz 1.[^15-5]
 
 <sup>4</sup>
 
@@ -405,21 +654,70 @@ Der Bundesrat legt die Grundlagen fest zur:
 - b. einheitlichen und verursachergerechten Überwälzung der Kosten sowie der Abgaben und Leistungen an Gemeinwesen. Dabei ist der Einspeisung von Elektrizität auf unteren Spannungsebenen Rechnung zu tragen.
 
 [^15-1]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15-2]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15-3]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^15-4]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15-2]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-3]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15-4]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^15-5]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 15a
 
-**Individuell in Rechnung gestellte Kosten für Ausgleichsenergie**[^15a-1]
+**Besondere Kosten des Übertragungsnetzes im Zusammenhang mit der Versorgungssicherheit**[^15a-1]
 
-<sup>1</sup> Die nationale Netzgesellschaft stellt den Bilanzgruppen die Kosten für die Ausgleichsenergie individuell in Rechnung.
+<sup>1</sup>
+
+Als anrechenbare Betriebskosten des Übertragungsnetzes gelten auch, soweit eine Kostendeckung durch andere Finanzierungsinstrumente nicht möglich ist:
+
+- a. die Kosten der bezeichneten Stelle für die Erfassung und Weitergabe der Speicherseedaten (Art. 8*c*);
+- b. die Kosten, die den Netzbetreibern, Erzeugern und Speicherbetreibern unmittelbar durch Massnahmen entstehen, die nach dem Landesversorgungsgesetz vom 17. Juni 2016[^15a-2] zur Sicherstellung der Elektrizitätsversorgung notwendig sind.
+
+<sup>2</sup> Das Bundesamt für wirtschaftliche Landesversorgung prüft vorab, ob die Voraussetzungen nach Absatz 1 Buchstabe b erfüllt sind. Es entscheidet nach Anhörung der ElCom, ob die Kosten als Übertragungsnetzkosten anrechenbar sind.
+
+<sup>3</sup> Der Bundesrat regelt, wie die dem Übertragungsnetz zugeordneten Kosten auszuweisen sind und wie sie den Berechtigten von der nationalen Netzgesellschaft erstattet werden.
+
+[^15a-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15a-2]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+
+#### Art. 15b
+
+**Erzeugungsbedingte Verstärkungen im Verteilnetz und von Anschlussleitungen**[^15b-1]
+
+<sup>1</sup> Die Kosten für notwendige Netzverstärkungen im Zusammenhang mit Produktionsanlagen sind anrechenbare Netzkosten des Netzbetreibers.
+
+<sup>2</sup> Lösen Anlagen zur Produktion von Elektrizität aus erneuerbaren Energien die Netzverstärkungen aus, sind die Kosten als Kosten des Übertragungsnetzes anrechenbar (Art. 15*a*) und werden von der nationalen Netzgesellschaft vergütet. Der Bundesrat kann Ober- und Untergrenzen vorsehen.
+
+<sup>3</sup> Für solche Anlagen mit Anschluss an das Mittelspannungsnetz und höher erfolgt die Vergütung auf Antrag des Verteilnetzbetreibers und nach Bewilligung der ElCom.
+
+<sup>4</sup> Für solche Anlagen mit Anschluss an das Niederspannungsnetz erhalten die Verteilnetzbetreiber auf Antrag eine pauschale Abgeltung für den generellen Bedarf an Netzverstärkungen, unabhängig von einer effektiven Realisierung.
+
+<sup>5</sup> Die Kosten für notwendige Verstärkungen von Anschlussleitungen von der Parzellengrenze bis zum Netzanschlusspunkt sind ebenfalls als Kosten des Übertragungsnetzes (Art. 15*a*) anrechenbar, falls die Verstärkungen durch die Einspeisung von Elektrizität aus erneuerbaren Energien aus Produktionsanlagen mit einer Anschlussleistung über 50 kW ausgelöst werden. Der Bundesrat kann ein Maximum der anrechenbaren Kosten pro kW der Anlage festlegen. Verbleibende Verstärkungskosten sind durch den Produzenten zu tragen.
+
+<sup>6</sup>
+
+Der Bundesrat regelt die Einzelheiten zu diesen Vorgaben und namentlich zur pauschalen Abgeltung. Für deren Bemessung orientiert er sich an den durchschnittlichen Netzverstärkungskosten je kW neu angeschlossener Anlageleistung. Er regelt ausserdem insbesondere:
+
+- a. das Verfahren und den Modus für die Mittelerhebung und die Auszahlungen durch die Netzgesellschaft;
+- b. Buchführungs- und Abschreibungsvorgaben zulasten der Verteilnetzbetreiber, um mehrfache Anrechnungen zu verhindern;
+- c. die Informationspflichten der Verteilnetzbetreiber zu den realisierten Netzverstärkungen, deren Kosten und den angeschlossenen Anlagen.
+
+[^15b-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 15c
+
+**Individuell in Rechnung zu stellende Kosten**[^15c-1]
+
+<sup>1</sup>
+
+Die nationale Netzgesellschaft stellt individuell in Rechnung:
+
+- a. den Bilanzgruppen: die Kosten für Ausgleichsenergie;
+- b. den Verteilnetzbetreibern und den direkt am Übertragungsnetz angeschlossenen Endverbrauchern: die Kosten, die sie für den Ausgleich von Wirkverlusten und im Zusammenhang mit Blindenergie verursacht haben.[^15c-2]
 
 <sup>2</sup> Sie legt die Preise für die Ausgleichsenergie so fest, dass ein Anreiz besteht, gesamtschweizerisch Regelenergie und Regelleistung effizient einzusetzen, und dass Missbräuche verhindert werden. Die Preise für die Ausgleichsenergie orientieren sich an den Kosten für Regelenergie.
 
 <sup>3</sup> Resultiert aus dem Verkauf von Ausgleichsenergie ein Gewinn, so ist er mit den Kosten der Systemdienstleistungen zu verrechnen.
 
-[^15a-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Juni 2015 ([AS 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [BBl 2014 3967](https://fedlex.data.admin.ch/eli/fga/2014/926)[3977](https://fedlex.data.admin.ch/eli/fga/2014/928)).
+[^15c-1]: Urprünglich: Art. 15*a*. Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Juni 2015 ([AS 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [BBl 2014 3967](https://fedlex.data.admin.ch/eli/fga/2014/926)[3977](https://fedlex.data.admin.ch/eli/fga/2014/928)).
+[^15c-2]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 (AS **2024** 679; BBl **2021** 1666).
 
 #### Art. 16
 
@@ -478,9 +776,15 @@ Er kann unter Berücksichtigung der Bundesgesetzgebung über das Messwesen festl
 - b. der Unterstützung von Tarifsystemen;
 - c. der Unterstützung weiterer Dienste und Anwendungen.
 
+### 2*b*. Abschnitt: …
+
+[^chap3-sec2b-1]
+
+[^chap3-sec2b-1]: Tritt am 1. Jan. 2026 ist Kraft ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
 #### Art. 17b
 
-**Intelligente Steuer- und Regelsysteme**
+**Intelligente Steuer- und Regelsysteme**[^17b-1]
 
 <sup>1</sup> Intelligente Steuer- und Regelsysteme sind Einrichtungen, mit denen ferngesteuert auf den Verbrauch, die Erzeugung oder die Speicherung von Strom, namentlich zur Optimierung des Eigenverbrauchs oder zur Sicherstellung eines stabilen Netzbetriebs, Einfluss genommen werden kann.
 
@@ -494,18 +798,116 @@ Der Bundesrat kann Vorgaben zum Einsatz von intelligenten Steuer- und Regelsyste
 
 <sup>3</sup> Der Einsatz von intelligenten Steuer- und Regelsystemen bei Endverbrauchern, Erzeugern und Speichern bedarf der Zustimmung der Betroffenen. Der Bundesrat kann Ausnahmen vorsehen.
 
+[^17b-1]: Eingefügt durch Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
 #### Art. 17c
 
-**Datenschutz**
+**Datenschutz**[^17c-1]
 
-<sup>1</sup> Auf die Bearbeitung von Personendaten im Zusammenhang mit intelligenten Mess-, Steuer- oder Regelsystemen findet das Datenschutzgesetz vom 25. September 2020[^17c-1] (DSG) Anwendung. Das DSG findet sinngemäss Anwendung auf die Bearbeitung von Daten juristischer Personen.[^17c-2]
+<sup>1</sup> Auf die Bearbeitung von Personendaten im Zusammenhang mit intelligenten Mess-, Steuer- oder Regelsystemen findet das Datenschutzgesetz vom 25. September 2020[^17c-2] (DSG) Anwendung. Das DSG findet sinngemäss Anwendung auf die Bearbeitung von Daten juristischer Personen.[^17c-3]
 
 <sup>2</sup> Der Bundesrat erlässt die Ausführungsbestimmungen über die Bearbeitung der Daten. Er kann besondere Bestimmungen vorsehen, namentlich im Zusammenhang mit Lastgangmessungen.
 
-[^17c-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^17c-2]: Fassung gemäss Anhang 1 Ziff. II 59 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^17c-1]: Eingefügt durch Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^17c-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^17c-3]: Fassung gemäss Anhang 1 Ziff. II 59 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### 3. Abschnitt: Schweizerisches Übertragungsnetz
+### 2*c*. Abschnitt: …
+
+#### Art. 17d und 17e
+
+[^17d17e-1]
+
+[^17d17e-1]: Tritt am 1. Jan. 2026 ist Kraft ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+### 2*d*. Abschnitt: Datenaustausch und Datenplattform
+
+[^chap3-sec2d-1]
+
+[^chap3-sec2d-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 17f
+
+**Grundsatz**
+
+<sup>1</sup> Die Netzbetreiber geben einander, den Unternehmen der Elektrizitätswirtschaft, den Bilanzgruppen, der nationalen Netzgesellschaft und der Vollzugsstelle nach Artikel 64 EnG[^17f-1] unmittelbar, unentgeltlich, diskriminierungsfrei und in der notwendigen Qualität alle Daten und Informationen bekannt, soweit dies für eine ordnungsgemässe Elektrizitätsversorgung nötig ist.
+
+<sup>2</sup> Der Zugang der Endverbraucher, der Erzeuger und der Speicherbetreiber zu ihren eigenen Messdaten richtet sich nach Artikel 17*a*<sup>bis</sup> Absätze 4 Buchstabe a, 5 und 6.
+
+[^17f-1]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 17g
+
+**Datenaustausch über die Datenplattform**
+
+<sup>1</sup>
+
+Der Austausch von Mess- und Stammdaten zwischen den Beteiligten nach Artikel 17*f* Absatz 1 erfolgt für die folgenden Zwecke über eine zentrale Datenplattform:
+
+- a. Abwicklung der Lieferantenwechsel;
+- b. Abrechnung der Netz-, der Elektrizitäts- und der Messkosten;
+- c. Prognose im Rahmen des Bilanzmanagements;
+- d. Erfassung der Elektrizität mittels Herkunftsnachweisen.
+
+<sup>2</sup> Die Stammdaten nach Absatz 1 werden auf der Datenplattform in der Schweiz gespeichert. Der Datenplattformbetreiber verwaltet die gespeicherten Daten und gewährleistet den Austausch der Mess- und Stammdaten zwischen den Beteiligten.
+
+<sup>3</sup> Den Bundesbehörden und den kantonalen Behörden wird nach Massgabe ihrer Berechtigung Zugang zur Datenplattform gewährt.
+
+<sup>4</sup>
+
+Der Bundesrat regelt die Prozesse des Datenaustausches und die näheren Aufgaben des Datenplattformbetreibers. Er kann die Datenplattform um folgende Funktionalitäten und Prozesse erweitern:
+
+- a. Analyse der Qualität des über die Datenplattform erfolgenden Datenaustausches;
+- b. Speicherung von Messdaten;
+- c. Bekanntgabe anonymisierter Mess- und Stammdatenaggregate an Dritte zum Zwecke der Forschung, der Versorgungssicherheit, der Stärkung des Wettbewerbs auf dem Elektrizitätsmarkt und der Erbringung von Energiedienstleistungen;
+- d. Austausch von Mess- und Stammdaten für die Nutzung der Flexibilität;
+- e. Gewährleistung des Rechts der Endverbraucher, der Erzeuger und der Speicherbetreiber auf Datenherausgabe und -übertragung.
+
+#### Art. 17h
+
+**Konstituierung des Datenplattformbetreibers**
+
+<sup>1</sup> Zur Errichtung und zum Betrieb der Datenplattform können Unternehmen der Elektrizitätswirtschaft und anderer Wirtschaftszweige den Datenplattformbetreiber in Form einer privatrechtlichen Kapitalgesellschaft oder Genossenschaft mit Sitz in der Schweiz konstituieren.
+
+<sup>2</sup> Die Statuten des Datenplattformbetreibers und deren Änderungen bedürfen der Genehmigung durch das UVEK. Das UVEK prüft dabei, ob die Statuten und deren Änderung den Anforderungen dieses Gesetzes genügen.
+
+<sup>3</sup> Wird der Datenplattformbetreiber nicht innert einer vom Bundesrat vorgegebenen Frist konstituiert, so überträgt der Bundesrat die Errichtung und den Betrieb der Datenplattform einer öffentlich-rechtlichen Stelle.
+
+<sup>4</sup> Die Kosten der Errichtung der Datenplattform werden vom Datenplattformbetreiber zurückerstattet.
+
+#### Art. 17i
+
+**Organisation und Finanzierung des Datenplattformbetreibers**
+
+<sup>1</sup> Der Datenplattformbetreiber muss von den einzelnen Unternehmen der Elektrizitätswirtschaft unabhängig sein. Er ist schweizerisch beherrscht.
+
+<sup>2</sup> Er beschränkt sich auf die Erfüllung der in diesem Gesetz und seinen Ausführungsbestimmungen vorgesehenen Aufgaben und ist nicht gewinnorientiert tätig.
+
+<sup>3</sup> Er deckt seine Kosten durch ein verursachergerechtes und kostendeckendes Entgelt, das er pro Messpunkt von den Verteilnetzbetreibern erhebt.
+
+<sup>4</sup> Der Bundesrat erlässt weitere Bestimmungen zur Organisation, zur Unabhängigkeit und zur Finanzierung des Datenplattformbetreibers.
+
+### 2*e*. Abschnitt: Datenschutz und Datensicherheit
+
+[^chap3-sec2e-1]
+
+[^chap3-sec2e-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 17j
+
+<sup>1</sup> Auf die Bearbeitung von Personendaten im Zusammenhang mit intelligenten Mess‑, Steuer- oder Regelsystemen findet das Datenschutzgesetz vom 25. September 2020[^17j-1] (DSG) Anwendung. Das DSG findet sinngemäss Anwendung auf die Bearbeitung von Daten juristischer Personen.
+
+<sup>2</sup> Der Datenplattformbetreiber kann zur Erfüllung seiner Aufgaben Daten juristischer Personen sowie Personendaten bearbeiten. Die Beteiligten nach Artikel 17*f* Absatz 1 erteilen ihm die für den Vollzug seiner Aufgaben notwendigen Auskünfte und stellen die dazu notwendigen Unterlagen zur Verfügung.
+
+<sup>3</sup> Der Bundesrat kann Bestimmungen zum Datenschutz, zur Datensicherheit und zur Prüfung ihrer Einhaltung vorsehen, namentlich für die Datenplattform und für die intelligenten Mess-, Steuer- und Regelsysteme, einschliesslich der damit verbundenen Einrichtungen.
+
+[^17j-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+
+### 3. Abschnitt: Schweizerisches Übertragungsnetz und nationale Netzgesellschaft
+
+[^chap3-sec3-1]
+
+[^chap3-sec3-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 18
 
@@ -517,11 +919,19 @@ Der Bundesrat kann Vorgaben zum Einsatz von intelligenten Steuer- und Regelsyste
 
 <sup>3</sup> Die Netzgesellschaft muss sicherstellen, dass ihr Kapital und die damit verbundenen Stimmrechte direkt oder indirekt mehrheitlich Kantonen und Gemeinden gehören.
 
-<sup>4</sup> Die Kantone, die Gemeinden und schweizerisch beherrschte Elektrizitätsversorgungsunternehmen haben ein Vorkaufsrecht an den Aktien der Netzgesellschaft. Die Statuten der Netzgesellschaft regeln die Einzelheiten.
+<sup>4</sup>
+
+Werden Aktien der nationalen Netzgesellschaft veräussert, so haben an diesen Aktien in der folgenden Rangordnung ein Vorkaufsrecht:
+
+- a. die Kantone;
+- b. die Gemeinden;
+- c. die schweizerisch beherrschten Elektrizitätsversorgungsunternehmen mit Sitz in der Schweiz.[^18-2]
+
+<sup>4bis</sup> Die Statuten der nationalen Netzgesellschaft regeln die Einzelheiten des Vorkaufsrechts.[^18-3]
 
 <sup>5</sup> Die Anteile der Netzgesellschaft dürfen nicht an einer Börse kotiert sein.
 
-<sup>6</sup> Die Netzgesellschaft darf weder Tätigkeiten in den Bereichen Elektrizitätserzeugung, -verteilung oder -handel ausüben noch Beteiligungen an Unternehmen besitzen, die in diesen Bereichen tätig sind. Der Bezug und die Lieferung von Elektrizität aus betriebsnotwendigen Gründen, insbesondere zur Bereitstellung der Systemdienstleistungen, sind zulässig.
+<sup>6</sup> Die Netzgesellschaft darf weder Tätigkeiten in den Bereichen Elektrizitätserzeugung, -verteilung oder -handel ausüben noch Beteiligungen an Unternehmen besitzen, die in diesen Bereichen tätig sind. Der Bezug und die Lieferung von Elektrizität aus betriebsnotwendigen Gründen, insbesondere zur Bereitstellung der Systemdienstleistungen, sind zulässig. Ebenfalls zulässig ist die regelzonenübergreifende Beschaffung von Systemdienstleistungen gemeinsam mit ausländischen Übertragungsnetzbetreibern.[^18-4]
 
 <sup>7</sup> Die Mehrheit der Mitglieder und der Präsident des Verwaltungsrates sowie die Mitglieder der Geschäftsleitung dürfen nicht Organen von juristischen Personen angehören, die Tätigkeiten in den Bereichen Elektrizitätserzeugung oder -handel ausüben, oder in einem Dienstleistungsverhältnis zu solchen juristischen Personen stehen.
 
@@ -530,6 +940,9 @@ Der Bundesrat kann Vorgaben zum Einsatz von intelligenten Steuer- und Regelsyste
 <sup>9</sup> Die Vertretung der verschiedenen Erzeuger- und Verbraucherregionen ist in den Organen sicherzustellen.
 
 [^18-1]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^18-2]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^18-3]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^18-4]: Dritter Satz eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 19
 
@@ -556,37 +969,56 @@ Der Bundesrat prüft dabei insbesondere, ob die Statuten oder deren Änderung ge
 Insbesondere hat sie folgende Aufgaben:
 
 - a. Sie betreibt und überwacht das gesamtschweizerische Übertragungsnetz und führt es als eine Regelzone. Sie hat die Verantwortung für die Planung und Kontrolle des gesamten Übertragungsnetzes.
-- b. Sie ist für das Bilanzmanagement verantwortlich und stellt die weiteren Systemdienstleistungen einschliesslich Bereitstellung von Regelenergie sicher. Die zu diesem Zweck benötigten Kraftwerkskapazitäten sind nach transparenten und diskriminierungsfreien Verfahren zu beschaffen.
-- c. Bei Gefährdung des stabilen Netzbetriebs ordnet sie die notwendigen Massnahmen an. Sie regelt die Einzelheiten mit den Kraftwerksbetreibern, den Netzbetreibern und weiteren Beteiligten.
+- b.[^20-1] Sie ist für das Bilanzmanagement verantwortlich und stellt die weiteren Systemdienstleistungen einschliesslich der Bereitstellung von Regelenergie sicher; sofern sie die Systemdienstleistungen nicht selber erbringt, beschafft sie diese nach marktorientierten, transparenten und diskriminierungsfreien Verfahren; verbrauchsseitig berücksichtigt sie dabei vorab Angebote mit effizienter Energienutzung.
+- c.[^20-2] Sie begegnet einer Gefährdung des sicheren Betriebs des Übertragungsnetzes mit den notwendigen Massnahmen (Art. 20*a*).
 - d. Sie erarbeitet transparente und diskriminierungsfreie Verfahren zur Handhabung von Engpässen.
 - e. Sie arbeitet mit den ausländischen Übertragungsnetzbetreibern zusammen und vertritt die Interessen der Schweiz in den entsprechenden Gremien.
-- f. [^20-1] Sie beteiligt sich an der Planung der europäischen Übertragungsnetze und stellt unter Berücksichtigung des Szenariorahmens die ausreichende internationale Vernetzung des schweizerischen Übertragungsnetzes sicher.
-- g.[^20-2] Sie informiert die Öffentlichkeit über die Begründung und den Stand der von ihr gemäss dem Mehrjahresplan geführten Projekte und legt deren Bedeutung für die Stromversorgung in der Schweiz dar.
-- h.[^20-3] Sie erteilt dem BFE und den Kantonen die für die Öffentlichkeitsarbeit nach Artikel 9*e* notwendigen Auskünfte und stellt ihnen die entsprechenden Unterlagen zur Verfügung.
+- f. [^20-3] Sie beteiligt sich an der Planung der europäischen Übertragungsnetze und stellt unter Berücksichtigung des Szenariorahmens die ausreichende internationale Vernetzung des schweizerischen Übertragungsnetzes sicher.
+- g.[^20-4] Sie informiert die Öffentlichkeit über die Begründung und den Stand der von ihr gemäss dem Mehrjahresplan geführten Projekte und legt deren Bedeutung für die Stromversorgung in der Schweiz dar.
+- h.[^20-5] Sie erteilt dem BFE und den Kantonen die für die Öffentlichkeitsarbeit nach Artikel 9*e* notwendigen Auskünfte und stellt ihnen die entsprechenden Unterlagen zur Verfügung.
 
-<sup>3</sup> Der Bundesrat kann die Netzgesellschaft verpflichten, für den Abruf von Regelenergie vorrangig Elektrizität aus erneuerbarer Energie, insbesondere aus Wasserkraft, einzusetzen.
+<sup>3</sup> …[^20-6]
 
-<sup>4</sup> Die nationale Netzgesellschaft kann zur Erfüllung ihrer Aufgaben im Einzelfall bei der ElCom die Enteignung beantragen. Die Verfahrensbestimmungen des Bundesgesetzes vom 20. Juni 1930[^20-4] über die Enteignung sind nicht anwendbar.
+<sup>4</sup> Die nationale Netzgesellschaft kann zur Erfüllung ihrer Aufgaben im Einzelfall bei der ElCom die Enteignung beantragen. Die Verfahrensbestimmungen des Bundesgesetzes vom 20. Juni 1930[^20-7] über die Enteignung sind nicht anwendbar.
 
-[^20-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^20-2]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^20-3]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^20-4]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^20-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^20-2]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^20-3]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^20-4]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^20-5]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^20-6]: Aufgehoben durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, mit Wirkung seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^20-7]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 20a
 
-**Prüfung der Vertrauenswürdigkeit**[^20a-1]
+**Massnahmen bei Gefährdung des sicheren Übertragungsnetzbetriebs**[^20a-1]
+
+<sup>1</sup> Die nationale Netzgesellschaft vereinbart mit den an das Übertragungsnetz angeschlossenen Verteilnetzbetreibern, Erzeugern, Endverbrauchern und Speicherbetreibern auf einheitliche Weise alle notwendigen Massnahmen, die sie zur Vermeidung oder zur Beseitigung einer Gefährdung des sicheren Betriebs des Übertragungsnetzes ergreift.
+
+<sup>2</sup> Die Verteilnetzbetreiber stellen mit entsprechenden Vereinbarungen sicher, dass sie ihre Verpflichtungen gegenüber der nationalen Netzgesellschaft erfüllen können.
+
+<sup>3</sup> Besteht eine unmittelbare und erhebliche Gefährdung, so ordnet die nationale Netzgesellschaft solche Massnahmen an, insbesondere beim Fehlen einer Vereinbarung. Sie meldet diese Anordnungen umgehend der ElCom.
+
+<sup>4</sup> Die nationale Netzgesellschaft ordnet Ersatzmassnahmen an, wenn Massnahmen nicht wie vereinbart oder angeordnet umgesetzt werden. Die durch Ersatzmassnahmen verursachten Mehrkosten tragen die Säumigen.
+
+<sup>5</sup> Im Übrigen und sofern es keine abweichende Vereinbarung zwischen der nationalen Netzgesellschaft und den Akteuren nach Absatz 1 gibt, sind die Kosten der Vorbereitung und der Durchführung von Massnahmen nach diesem Artikel den Kosten des Übertragungsnetzes zuzuordnen und nach Massgabe von Artikel 15 anrechenbar. Der Bundesrat kann Ausnahmen von der Zuordnung der Kosten vorsehen.
+
+[^20a-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 20b
+
+**Prüfung der Vertrauenswürdigkeit**[^20b-1]
 
 <sup>1</sup> Personen, die von der nationalen Netzgesellschaft in kritischen oder höchstkritischen Funktionen eingesetzt werden, werden zur Beurteilung des Sicherheitsrisikos periodisch auf ihre Vertrauenswürdigkeit hin geprüft.
 
 <sup>2</sup> Der Bundesrat legt fest, welche Personengruppen geprüft werden müssen. Er beschränkt sich dabei auf das erforderliche Mindestmass.
 
-<sup>3</sup> Die Vertrauenswürdigkeitsprüfungen werden von der Fachstelle nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^20a-2] (ISG) durchgeführt. Das Verfahren richtet sich sinngemäss nach den entsprechenden Bestimmungen des ISG.
+<sup>3</sup> Die Vertrauenswürdigkeitsprüfungen werden von der Fachstelle nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^20b-2] (ISG) durchgeführt. Das Verfahren richtet sich sinngemäss nach den entsprechenden Bestimmungen des ISG.
 
 <sup>4</sup> Die nationale Netzgesellschaft ersucht um Prüfung. Das Ergebnis ist ihr mitzuteilen und kurz zu begründen.
 
-[^20a-1]: Eingefügt durch Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Fassung gemäss Anhang 1 Ziff. 15 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^20a-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^20b-1]: Ursprünglich: Art. 20*a*. Eingefügt durch Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Fassung gemäss Anhang 1 Ziff. 15 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^20b-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 ## 4. Kapitel: Elektrizitätskommission
 
@@ -598,13 +1030,13 @@ Insbesondere hat sie folgende Aufgaben:
 
 <sup>2</sup> Die ElCom untersteht in ihren Entscheiden keinen Weisungen vom Bundesrat und vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation. Sie ist von den Verwaltungsbehörden unabhängig. Sie verfügt über ein eigenes Sekretariat.
 
-<sup>3</sup> Die ElCom kann das BFE[^21-1] beim Vollzug dieses Gesetzes beiziehen und ihm Weisungen erteilen.
+<sup>3</sup> …[^21-1]
 
 <sup>4</sup> Die ElCom erlässt ein Reglement über ihre Organisation und Geschäftsführung, das der Genehmigung des Bundesrates bedarf.
 
 <sup>5</sup> Die Kosten der ElCom werden durch Verwaltungsgebühren gedeckt. Der Bundesrat regelt die Einzelheiten.
 
-[^21-1]: Ausdruck gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^21-1]: Aufgehoben durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, mit Wirkung seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 22
 
@@ -614,13 +1046,15 @@ Insbesondere hat sie folgende Aufgaben:
 
 <sup>2</sup>
 
-Sie ist insbesondere zuständig für:
+Sie hat sowohl im Streitfall als auch von Amtes wegen insbesondere folgende Aufgaben:
 
-- a. den Entscheid im Streitfall über den Netzzugang, die Netznutzungsbedingungen, die Netznutzungstarife und -entgelte sowie die Elektrizitätstarife. Vorbehalten bleiben Abgaben und Leistungen an Gemeinwesen. Sie kann den Netzzugang vorsorglich verfügen;
-- b. die Überprüfung der Netznutzungstarife und –entgelte sowie der Elektrizitätstarife von Amtes wegen. Vorbehalten bleiben Abgaben und Leistungen an Gemeinwesen. Sie kann Absenkungen verfügen oder Erhöhungen untersagen;
-- c. den Entscheid über die Verwendung der Einnahmen nach Artikel 17 Absatz 5.
+- a. Sie entscheidet über den Netzzugang und die Netznutzungsbedingungen; sie kann den Netzzugang vorsorglich verfügen.
+- b.–d. …[^22-1]
+- e. Im Zusammenhang mit Massnahmen bei Gefährdung des sicheren Übertragungsnetzbetriebs (Art. 20*a*) verfügt sie nötigenfalls den Abschluss einer Vereinbarung zwischen den jeweiligen Parteien, einschliesslich der Vorgaben zum notwendigen Mindestinhalt; ausserdem entscheidet sie über die Zulässigkeit und die Kostenfolgen von angeordneten Massnahmen und von bei Nichtbefolgung solcher Anordnungen getroffenen Ersatzmassnahmen.
+- f. Sie trifft die Entscheide zur Energiereserve (Art. 8*b*), insbesondere auferlegt sie Sanktionen oder ordnet andere Massnahmen an.
+- g. Sie prüft die Kosten und Entgelte des Datenplattformbetreibers nach Artikel 17*h* Absatz 1 für die Errichtung und den Betrieb der Datenplattform, seine Unabhängigkeit und die Beschränkung seiner Tätigkeit auf die vorgesehenen Aufgaben.[^22-2]
 
-<sup>2bis</sup> Die ElCom prüft den von der nationalen Netzgesellschaft vorgelegten Mehrjahresplan, insbesondere den Bedarf an den darin vorgesehenen Projekten. Sie teilt der nationalen Netzgesellschaft das Ergebnis der Prüfung innerhalb von neun Monaten nach Einreichung schriftlich mit.[^22-1]
+<sup>2bis</sup> Die ElCom prüft den von der nationalen Netzgesellschaft vorgelegten Mehrjahresplan, insbesondere den Bedarf an den darin vorgesehenen Projekten. Sie teilt der nationalen Netzgesellschaft das Ergebnis der Prüfung innerhalb von neun Monaten nach Einreichung schriftlich mit.[^22-3]
 
 <sup>3</sup> Die ElCom beobachtet und überwacht die Entwicklung der Elektrizitätsmärkte im Hinblick auf eine sichere und erschwingliche Versorgung in allen Landesteilen. Sie überprüft zu diesem Zweck insbesondere den Zustand und Unterhalt des Übertragungsnetzes sowie die regionale Ausgewogenheit der Investitionen der nationalen Netzgesellschaft.
 
@@ -630,13 +1064,41 @@ Sie ist insbesondere zuständig für:
 
 <sup>6</sup> Die ElCom orientiert die Öffentlichkeit über ihre Tätigkeit und erstattet dem Bundesrat jährlich einen Tätigkeitsbericht.
 
-[^22-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^22-1]: Bis zum 31. Dez. 2025 gilt die bisherige Fassung der Bst. b und c aus [AS 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418): <sup>2</sup> Sie ist insbesondere zuständig für: b. die Überprüfung der Netznutzungstarife und –entgelte sowie der Elektrizitätstarife von Amtes wegen. Vorbehalten bleiben Abgaben und Leistungen an Gemeinwesen. Sie kann Absenkungen verfügen oder Erhöhungen untersagen; c. den Entscheid über die Verwendung der Einnahmen nach Artikel 17 Absatz 5.
+[^22-2]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025, Bst. b–d ab 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679), [789](https://fedlex.data.admin.ch/eli/oc/2024/789); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^22-3]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 22a
+
+**Veröffentlichung von Qualitäts- und Effizienzvergleichen**[^22a-1]
+
+<sup>1</sup> Die ElCom vergleicht in ihrem Regulierungsbereich (Art. 22 Abs. 1 und 2) die Verteilnetzbetreiber mit dem Ziel, die Transparenz für die Endverbraucher zu verbessern und zu einer angemessenen Qualität und einer erhöhten Effizienz der Leistungen beizutragen. Sie veröffentlicht die Ergebnisse, bezogen auf einzelne Verteilnetzbetreiber oder Gruppen von Verteilnetzbetreibern, mittels einer vergleichenden Darstellung.
+
+<sup>2</sup>
+
+Die ElCom stellt insbesondere in den folgenden Bereichen Vergleiche an:
+
+- a. Versorgungsqualität;
+- b. Netznutzungstarife und anrechenbare Netzkosten;
+- c. Elektrizitätstarife;
+- d. Qualität der Dienstleistungen im Netzbereich;
+- e. Investitionen in intelligente Netze;
+- f. Messwesen;
+- g. Wahrnehmung von Veröffentlichungs- und Bekanntgabepflichten.
+
+<sup>3</sup> Das BFE evaluiert die Vergleiche alle vier Jahre in einem Bericht. Sind keine genügenden Effizienzsteigerungen im Netzbereich mit entsprechenden Auswirkungen auf die Netzkosten feststellbar, so unterbreitet der Bundesrat der Bundesversammlung einen Erlassentwurf für die Einführung einer Anreizregulierung.
+
+[^22a-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 23
 
-**Rechtsschutz**
+**Rechtspflege**[^23-1]
 
-Gegen Verfügungen der ElCom kann beim Bundesverwaltungsgericht Beschwerde geführt werden.
+<sup>1</sup> Gegen die Verfügungen der ElCom kann nach den allgemeinen Bestimmungen über die Bundesrechtspflege Beschwerde geführt werden.
+
+<sup>2</sup> Die ElCom ist zur Beschwerde an das Bundesgericht berechtigt.
+
+[^23-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 ## 4*a*. Kapitel: Pilotprojekte
 
@@ -662,7 +1124,7 @@ Gegen Verfügungen der ElCom kann beim Bundesverwaltungsgericht Beschwerde gefü
 
 Der Bundesrat kann unter Vorbehalt von Artikel 7*a* Absatz 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^24-1] internationale Vereinbarungen, die in den Anwendungsbereich dieses Gesetzes fallen, abschliessen.
 
-[^24-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## 6. Kapitel: Auskunftspflicht, Amts- und Geschäftsgeheimnis, Aufsichtsabgabe
 
@@ -670,29 +1132,36 @@ Der Bundesrat kann unter Vorbehalt von Artikel 7*a* Absatz 2 des Regierungs- und
 
 **Auskunftspflicht und Amtshilfe**
 
-<sup>1</sup> Die Unternehmen der Elektrizitätswirtschaft sind verpflichtet, den zuständigen Behörden die für den Vollzug dieses Gesetzes erforderlichen Auskünfte zu erteilen und die notwendigen Unterlagen zur Verfügung zu stellen.
+<sup>1</sup> Die Unternehmen der Elektrizitätswirtschaft und der Datenplattformbetreiber sind verpflichtet, den zuständigen Behörden die für den Vollzug dieses Gesetzes, einschliesslich seiner Weiterentwicklung, erforderlichen Auskünfte zu erteilen und die notwendigen Unterlagen zur Verfügung zu stellen.[^25-1]
 
-<sup>2</sup> Amtsstellen des Bundes und der Kantone sind verpflichtet, an Abklärungen der ElCom und des BFE[^25-1] mitzuwirken und die notwendigen Unterlagen zur Verfügung zu stellen.
+<sup>2</sup> Amtsstellen des Bundes und der Kantone sind verpflichtet, an Abklärungen der ElCom und des BFE[^25-2] mitzuwirken und die notwendigen Unterlagen zur Verfügung zu stellen.
 
-[^25-1]: Ausdruck gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^25-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^25-2]: Ausdruck gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 26
 
 **Amts- und Geschäftsgeheimnis**
 
-<sup>1</sup> Personen, die mit dem Vollzug dieses Gesetzes beauftragt sind, unterstehen dem Amtsgeheimnis.
+<sup>1</sup> Personen, die mit dem Vollzug dieses Gesetzes, einschliesslich seiner Weiterentwicklung, beauftragt sind, unterstehen dem Amtsgeheimnis.[^26-1]
 
 <sup>2</sup> Sie dürfen keine Fabrikations- oder Geschäftsgeheimnisse preisgeben.
 
+[^26-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
 #### Art. 27
 
-**Datenschutz**
+**Datenbearbeitung[^27-1]**
 
-<sup>1</sup> Das BFE und die ElCom bearbeiten im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Daten über strafrechtliche Verfolgungen und Sanktionen (Art. 29).[^27-1]
+<sup>1</sup> Das BFE und die ElCom bearbeiten im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Daten über strafrechtliche Verfolgungen und Sanktionen (Art. 29).[^27-2]
+
+<sup>1bis</sup> Sie geben einander auf Anfrage die Daten weiter, welche die jeweils andere Behörde für die Erfüllung ihrer Aufgaben beschaffen dürfte. Entgegenstehende Vorschriften bleiben vorbehalten.[^27-3]
 
 <sup>2</sup> Sie können diese Daten elektronisch aufbewahren.
 
-[^27-1]: Fassung gemäss Anhang 1 Ziff. II 59 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^27-2]: Fassung gemäss Anhang 1 Ziff. II 59 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27-3]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 28
 
@@ -708,19 +1177,28 @@ Zur Deckung notwendiger Kosten aus der Zusammenarbeit der ElCom und des BFE mit 
 
 Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
-- a. Preisvorteile nicht oder in zu geringer Höhe weiter gibt (Art. 6);
+- a.[^29-1] …
 - b. die buchhalterische und rechtliche Entflechtung der Netzbereiche nicht oder falsch vornimmt oder Informationen aus dem Netzbetrieb für andere Tätigkeitsbereiche nutzt (Art. 10 und 33 Abs. 1);
 - c. die kostenrechnungsmässige Entflechtung der Netzbereiche nicht oder falsch vornimmt (Art. 11);
 - d. die Kosten für die Netznutzung in der Rechnung nicht oder falsch ausweist, oder für den Lieferantenwechsel widerrechtlich Kosten erhebt (Art. 12);
 - e. den Netzzugang widerrechtlich verweigert (Art. 13);
-- f. von den zuständigen Behörden verlangte Auskünfte verweigert oder unrichtige Angaben macht (Art. 25 Abs. 1);
+- f.[^29-2] von den zuständigen Behörden verlangte Auskünfte verweigert oder unrichtige Angaben macht (Art. 25 Abs. 1) oder die entsprechenden Pflichten gegenüber der nationalen Netzgesellschaft im Zusammenhang mit der Energiereserve verletzt (Art. 8*b* Abs. 4[^29-3]);
+- f<sup>bis</sup>.[^29-4] Energie aus einem Abruf der Energiereserve mit Gewinn oder ins Ausland verkauft (Art. 8*b* Abs. 6);
 - g. gegen eine Ausführungsvorschrift, deren Übertretung für strafbar erklärt wird, oder eine unter Hinweis auf die Strafandrohung dieses Artikels an ihn gerichtete Verfügung verstösst.
 
 <sup>2</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 20 000 Franken.
 
-<sup>3</sup> Das BFE verfolgt und beurteilt Widerhandlungen nach dem Bundesgesetz vom 22. März 1974[^29-1] über das Verwaltungsstrafrecht.
+<sup>2bis</sup> Kommt eine Busse von höchstens 20 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 des Bundesgesetzes vom 22. März 1974[^29-5] über das Verwaltungsstrafrecht (VStrR) strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann das BFE von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStR) zur Bezahlung der Busse verurteilen.[^29-6]
 
-[^29-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+<sup>3</sup> Das BFE verfolgt und beurteilt Widerhandlungen nach dem Bundesgesetz vom 22. März 1974[^29-7] über das Verwaltungsstrafrecht.
+
+[^29-1]: Aufgehoben durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, mit Wirkung seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^29-2]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^29-3]: Berichtigung der RedK der BVers vom 15. November 2023.
+[^29-4]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^29-5]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^29-6]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^29-7]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -730,11 +1208,15 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>1</sup> Die Kantone vollziehen die Artikel 5 Absätze 1–4 und 14 Absatz 4 erster Satz.
 
+<sup>1bis</sup> Das UVEK vollzieht Artikel 23*a*.[^30-1]
+
 <sup>2</sup> Der Bundesrat erlässt die erforderlichen Ausführungsbestimmungen.
 
 <sup>3</sup> Der Bundesrat kann den Erlass technischer oder administrativer Vorschriften dem BFE übertragen.
 
 <sup>4</sup> Der Bundesrat kann private Organisationen zum Vollzug beiziehen.
+
+[^30-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 31
 
@@ -764,7 +1246,7 @@ Die Einnahmen aus marktorientierten Zuteilungsverfahren nach Artikel 17 Absatz 5
 
 <sup>6</sup> Die nach den Absätzen 1 und 4 erforderlichen Umstrukturierungen sind von jeglichen direkten und indirekten Steuern des Bundes, der Kantone und Gemeinden befreit.
 
-[^33-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^33-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 33a
 
@@ -787,28 +1269,114 @@ Die Anlastung von Kosten für die Ausgleichsenergie, die gestützt auf das bishe
 [^33b-1]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Okt. 2017 ([AS 2017 4999](https://fedlex.data.admin.ch/eli/oc/2017/537); [BBl 2016 8313](https://fedlex.data.admin.ch/eli/fga/2016/1952)[8333](https://fedlex.data.admin.ch/eli/fga/2016/1954)).
 [^33b-2]: [AS 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)
 
+#### Art. 33c
+
+**Übergangsbestimmungen zur Änderung vom 29. September 2023**[^33c-1]
+
+<sup>1</sup> Die neuen Vorgaben zur Grundversorgung nach Artikel 6 sind erstmals für das Tarifjahr anwendbar, das auf das Inkrafttreten der Änderung vom 29. September 2023 folgt. Der Bundesrat kann für einzelne Vorgaben eine längere Übergangszeit vorsehen, wenn dies für die Anpassung durch die Verteilnetzbetreiber nötig ist.
+
+<sup>2</sup> Bei Bezugsverträgen nach Artikel 6 Absatz 5 und 5<sup>bis</sup>, die beim Inkrafttreten der Änderung vom 29. September 2023 am Laufen sind, muss sich der Verteilnetzbetreiber beim Inkrafttreten mit Wirkung für die Restvertragslaufzeit entscheiden, ob und mit welcher Energiemenge er sie dem Segment der Grundversorgung zuweist (Art. 6 Abs. 5<sup>bis</sup> Bst. b).
+
+<sup>3</sup> Die ElCom kann bei der Veröffentlichung von Qualitäts- und Effizienzvergleichen (Art. 22*a*) die Daten verwenden, die im Zeitpunkt des Inkrafttretens der Änderung vom 29. September 2023 bereits vorhanden sind. Die Daten dürfen frühestens das Jahr 2022 betreffen.
+
+[^33c-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
 #### Art. 34
 
 **Referendum und Inkrafttreten**
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Bundesrat bestimmt unter Vorbehalt von Absatz 3 das Inkrafttreten.
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.[^34-1]
 
-<sup>3</sup> Die Artikel 7 und 13 Absatz 3 Buchstabe b werden fünf Jahre nach Inkrafttreten dieses Gesetzes durch einen dem fakultativen Referendum unterstehenden Bundesbeschluss in Kraft gesetzt. Im gleichen Bundesbeschluss werden die Artikel 6, 13 Absatz 3 Buchstabe a und 29 Absatz 1 Buchstabe a aufgehoben.
+<sup>3</sup> …[^34-2]
 
-Datum des Inkrafttretens:[^34-1] 1. Januar 2008 Art. 21 und 22: 15. Juli 2007 Anhang Ziff. 2 (Art. 8 Abs. 1 Einleitungssatz und 3): 1. April 2008 Anhang Ziff. 2 (Art. 7*a* Abs. 2 und 3): 1. Mai 2008 Art. 13 Abs. 1 und 2; Anhang Ziff. 2 (restliche Bestimmungen): 1. Januar 2009 Art. 7 und 13 Abs. 3 Bst. b: zu einem späteren Zeitpunkt
+Datum des Inkrafttretens:[^34-3] 1. Januar 2008 Art. 21 und 22: 15. Juli 2007 Anhang Ziff. 2 (Art. 8 Abs. 1 Einleitungssatz und 3): 1. April 2008 Anhang Ziff. 2 (Art. 7*a* Abs. 2 und 3): 1. Mai 2008 Art. 13 Abs. 1 und 2; Anhang Ziff. 2 (restliche Bestimmungen): 1. Januar 2009
 
-[^34-1]: BRB vom 27. Juni 2007, V vom 28. Nov. 2007 ([AS 2007 6827](https://fedlex.data.admin.ch/eli/oc/2007/877), [2008 45](https://fedlex.data.admin.ch/eli/oc/2008/20)) und V vom 14. März 2008 ([AS 2008 775](https://fedlex.data.admin.ch/eli/oc/2008/191))
+[^34-1]: Fassung gemäss Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^34-2]: Aufgehoben durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, mit Wirkung seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^34-3]: BRB vom 27. Juni 2007, V vom 28. Nov. 2007 ([AS 2007 6827](https://fedlex.data.admin.ch/eli/oc/2007/877), [2008 45](https://fedlex.data.admin.ch/eli/oc/2008/20)) und V vom 14. März 2008 ([AS 2008 775](https://fedlex.data.admin.ch/eli/oc/2008/191))
 
-Anhang
+Anhang 1[^t-1]
 
 (Art. 31)
 
 ## Änderung bisherigen Rechts
 
+[^t-1]: Ursprünglich: Anhang.
+
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+…[^annex1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)konsultiert werden.
+[^annex1-lvlu1-1]: Die Änderungen können unter [AS 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)konsultiert werden.
+
+Anhang 2[^t-2]
+
+(Art. 9*a* Abs. 2, 3 und 5)
+
+## Speicherwasserkraftwerke
+
+[^t-2]: Eingefügt durch Ziff. II des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+Die nachfolgenden Vorhaben umfassen sämtliche zur Realisierung dieser Vorhaben nötigen und zur rationellen Nutzung der Wasserkraft gebotenen Massnahmen innerhalb eines Kraftwerks oder eines Kraftwerksgeflechts.
+
+\1. Vorhaben Chummensee Kanton Wallis Gemeinde Grengiols
+
+Ausbau der bestehenden Speicherkapazität im Chummibort-Tal. Schliessung der Lücke zwischen Heiligkreuz und Ze Binne. Pumpspeicherbetrieb zwischen Chummensee und Ze Binne.
+
+\2. Vorhaben Curnera-Nalps Kanton Graubünden Gemeinde Tujetsch
+
+Erhöhung der Staumauer des Lai di Curnera und Erhöhung der Staumauer des Lai da Nalps.
+
+\3. Vorhaben Gorner Kanton Wallis Gemeinde Zermatt
+
+Erstellung eines neuen Speichersees, Einleitung des Wassers in den Sammelkanal des Grande Dixence.
+
+\4. Vorhaben Gougra Kanton Wallis Gemeinde Anniviers
+
+Ausbau der oberen Stufe der Forces Motrices de la Gougra durch Erhöhung der Staumauer des Moirysees und Erhöhung Pumpkapazität in Mottec.
+
+\5. Vorhaben Griessee Kanton Wallis Gemeinde Obergoms
+
+Erhöhung der Staumauer des Griessees, neues Ausgleichsbecken und Pumpzentrale bei Altstafel. Benutzung der bestehenden Druckleitung und Infrastrukturen zwischen Altstafel und Griessee.
+
+\6. Vorhaben Grimselsee Kanton Bern Gemeinde Guttannen
+
+Erhöhung des Grimselsees um 23 m, Verlegung der Grimselpassstrasse.
+
+\7. Vorhaben Lac d’Emosson Kanton Wallis Gemeinden Salvan und Finhaut
+
+Erhöhung der Staumauer des Lac d’Emosson.
+
+\8. Vorhaben Lac des Toules Kanton Wallis Gemeinde Bourg-Saint-Pierre
+
+Erhöhung der Staumauer des Lac des Toules.
+
+\9. Vorhaben Lago del Sambuco Kanton Tessin Gemeinde Lavizzara
+
+Erhöhung der Staumauer des Lago del Sambuco und Erweiterung des Kraftwerks Peccia, Verlegung der Strasse entlang des Sees.
+
+\10. Vorhaben Lai de Marmorera Kanton Graubünden Gemeinde Surses
+
+Erhöhung der Staumauer des Lai da Marmorera, Anpassung der Julier-Passstrasse.
+
+\11. Vorhaben Mattmarksee Kanton Wallis Gemeinde Saas-Almagell
+
+Erhöhung des Staudamms des Mattmarksees.
+
+\12. Vorhaben Oberaarsee Kanton Bern Gemeinde Guttannen
+
+Erhöhung der Staumauer des Oberaarsees.
+
+\13. Vorhaben Oberaletsch klein Kanton Wallis Gemeinde Naters
+
+Nutzung des durch den Gletscherrückzug entstehenden Sees im Bereich Oberaletschgletscher, unterirdische Zentrale nahe dem Gebidemsee, keine Fassung zusätzlicher Gewässer.
+
+\14. Vorhaben Reusskaskade Kanton Uri Gemeinden Göschenen und Wassen
+
+Erhöhung des bestehenden Staudammes Göscheneralp, Option Ausbau des KW Wassen mit einer parallelen Stufe.
+
+\15. Vorhaben Trift Kanton Bern Gemeinde Innertkirchen
+
+Neuer Speichersee Trift, neue Fassung des Steingletschers, neue unterirdische Zentrale Trift, Einleitung in das bestehende System des Kraftwerks Oberhasli.
