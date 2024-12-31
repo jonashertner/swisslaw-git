@@ -1,136 +1,102 @@
 ---
 canton: BS
 number: BaB 172.400
-title: "Vereinbarung zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde der Stadt Basel einerseits und der Bürgergemeinde der Stadt Basel anderseits über die Unterstützung der bürgerlichen Armenanstalten und die Verwendung des Ertrages der Chr. Merian'schen Stiftung"
+title: Vereinbarung über die Genehmigungsanteile am Ertragsüberschuss des Stiftungsvermögens der Christoph Merian Stiftung
 short: Zusatzabkommen V
 language: de
-version: 1959-01-01
-valid_until: 2024-12-31
-version_adopted: 1959-03-24
+version: 2025-01-01
+version_adopted: 2023-09-13
 adopted: 2023-09-13
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20172.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3291/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6057/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vereinbarung zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde der Stadt Basel einerseits und der Bürgergemeinde der Stadt Basel anderseits über die Unterstützung der bürgerlichen Armenanstalten und die Verwendung des Ertrages der Chr. Merian'schen Stiftung
+# Vereinbarung über die Genehmigungsanteile am Ertragsüberschuss des Stiftungsvermögens der Christoph Merian Stiftung
 
-Unterstützung der bürgerlichen Armenanstalten | Basel: Bürgergemeinde[^t-1][^t-2][^t-3]
+Einwohnergemeinde Basel / Christoph Merian Stiftung
 
-Vom 24. November 1925 (Stand 1. Januar 1959)
+(Zusatzabkommen V)
 
-\1. Der Kanton Basel-Stadt und die Einwohnergemeinde der Stadt Basel überlassen der Bürgergemeinde für die bürgerlichen Armenanstalten
+Vom 13. September 2023 (Stand 1. Januar 2025)
 
-a) den vollen Ertrag der Chr. Merian’schen Stiftung, unter Wahrung des grundsätzlichen Anspruchs der Einwohnergemeinde;
+Die Einwohnergemeinde der Stadt Basel (nachgenannt Einwohnergemeinde), vertreten durch den Regierungsrat des Kantons Basel-Stadt, die Bürgergemeinde der Stadt Basel (nachgenannt Bürgergemeinde), vertreten durch den Bürgerrat und die Christoph Merian Stiftung (nachgenannt CMS), vertreten durch den Präsidenten der Stiftungskommission und den Direktor schliessen nachstehende Vereinbarung ab:
 
-b) den Drittel des Ertrages der Hundesteuer;
+Gemäss § 4 Abs. 1 lit. b des Ausscheidungsvertrages vom 6. Juni 1876 [^ingress-1] erhalten die Einwohnergemeinde alljährlich zwei Drittel und die Bürgergemeinde alljährlich ein Drittel vom Ertrag des Stiftungsvermögens der CMS (zweckgebunden für soziale Zwecke und der Erfüllung und Erleichterung städtischer Aufgaben zur Verfügung gestellt).
 
-c) drei Zehntel des Ertrags der Musik- und Tanzbewilligungsgebühren;
+Die vorgenannte Verteilung des Ertrags des Stiftungsvermögens der CMS wurde letztmals mit dem Zusatzabkommen IV zur Vereinbarung vom 24. November/22. Dezember 1925, resp. 26. November/14. Dezember 1926 über die Unterstützung der bürgerlichen Fürsorgeinstitutionen und die Verwendung des Ertrages der Christoph Merian Stiftung vom 22. Dezember 1975 [^ingress-2] angepasst.
 
-d) den vollen Ertrag der Billetsteuer, nach Abzug der Bezugskosten.
+In den letzten Jahren erfolgten eine Vielzahl von Änderungen in Bezug auf die Aufsicht über die CMS, die Zusammenarbeit mit der CMS sowie deren Rolle, die Modalitäten der Verwendung der Erträge des Stiftungsvermögens und die Genehmigungsprozesse. Diese sind in der Gemeindeordnung der Bürgergemeinde der Stadt Basel vom 22. Oktober 1985 [^ingress-3], dem Reglement für die Christoph Merian Stiftung vom 27. Juni 2017 [^ingress-4], dem Bericht Nr. 2138 der Bürgergemeinde und dem zugehörigen Bericht Nr. 2139 der Aufsichtskommission betreffend Strategie der Bürgergemeinde sowie im Beschluss des Regierungsrates vom 19. Januar 2016 (RRB 16/02/31) festgehalten. Sie bilden integrierenden Bestandteil dieser Vereinbarung.
 
-\2. Der Kanton Basel-Stadt zahlt an das Bürgerspital an ein allfälliges Betriebsdefizit einen jährlichen Beitrag von Fr. 500'000.–, unabhängig von den vertraglichen Leistungen an die Kliniken.
+Gestützt auf § 4 Abs. 1 lit. e des Ausscheidungsvertrages wird nachfolgend im Sinne einer Aktualisierung die Teilung der Erträge des Stiftungsvermögens der CMS vereinbart.
 
-\3. Die Bürgergemeinde verpflichtet sich, die unter Ziff. 1 lit. a und d festgesetzten Beiträge wie folgt zu verwenden:
+[^ingress-1]: SG [172.200](https://www.gesetzessammlung.bs.ch/data/172.200/de) / BaB 172.200.
+[^ingress-2]: SG [172.600](https://www.gesetzessammlung.bs.ch/data/172.600/de) / BaB 172.600.
+[^ingress-3]: BaB 111.100.
+[^ingress-4]: BaB 172.300.
 
-a) Die Beiträge werden zu ⅔ der Waisenanstalt, zu ⅓ dem bürgerlichen Armenamt zugewiesen und in die Betriebsrechnung dieser Anstalten eingestellt.
+## 1. Genehmigungsanteile
 
-b) Soweit die Einnahmen nicht für die laufenden Ausgaben notwendig sind, sind sie zur Wiederherstellung des gesetzlichen Vermögensbestandes zu verwenden. Der gesetzliche Vermögensbestand auf Ende 1924 wird festgesetzt:
+#### Ziff. 1.1
 
-für das bürgerliche Armenamt[^ingress-1] auf Fr. 1'107'414.44.
+<sup>1</sup> Die Mittelverwendung des Ertragsüberschusses des Stiftungsvermögens der selbständigen, öffentlich-rechtlichen CMS unterliegt je hälftig der Genehmigung durch die Einwohnergemeinde (Regierungsrat) und die Bürgergemeinde (Bürgerrat und Bürgergemeinderat).
 
-für die bürgerliche Waisenanstalt auf Fr. 3'222'681.74.
+## 2. Aufgaben und Zuständigkeiten
 
-Sobald der gesetzliche Vermögensbestand bei der einen Anstalt erreicht ist, sind die Überschüsse für die andere Anstalt zu verwenden. Ist bei beiden Anstalten der gesetzliche Vermögensbestand erreicht, so ist diese Vereinbarung zu revidieren.
+#### Ziff. 2.1
 
-c) Für die Rechnungsführung der beiden genannten Anstalten sollen folgende Bestimmungen gelten:
+**Christoph Merian Stiftung**
 
-I. Die Anteile an den Bürgerrechtsgebühren sind in der Betriebsrechnung aufzuführen.
+<sup>1</sup> Die CMS erarbeitet für vier Jahre gültige Förderprogramme und legt diese der Bürgergemeinde und der Einwohnergemeinde zur Genehmigung vor.
 
-II. Bauausgaben von über Fr. 20'000.– dürfen nur mit Zustimmung des Regierungsrates in die Betriebsrechnung eingestellt werden.
+<sup>2</sup> Die CMS ist für den gemäss Förderprogramm zweckgebundenen und wirkungsvollen Einsatz der Fördermittel der beiden Genehmigungsanteile verantwortlich. Sie prüft die Wirksamkeit des Mitteleinsatzes und setzt die Einwohnergemeinde und die Bürgergemeinde mit Reportings und ihrem Jahresbericht über die Mittelverwendung in Kenntnis.
 
-III. Vermögensverluste und Gewinne sind in die Vermögensrechnung einzustellen.
+#### Ziff. 2.2
 
-4.[^ingress-2]
+**Einwohnergemeinde**
 
-\5. Die Vereinbarung ist auf fünf Jahre[^ingress-3] fest abgeschlossen, nachher jeweilen auf sechs Monate auf Ende eines Jahres kündbar, erstmals am 30. Juni 1930 auf 31. Dezember 1930.
+<sup>1</sup> Das auf vier Jahre angelegte Förderprogramm der CMS steht unter dem Vorbehalt der Genehmigung des Regierungsrates als Vertreter der Einwohnergemeinde.
 
-Basel, den 24. November 1925/22. Dezember 1925
+#### Ziff. 2.3
 
-Im Namen der Bürgergemeinde der Stadt Basel
+**Bürgergemeinde**
 
-Der Bürgerrat:
+<sup>1</sup> Das auf vier Jahre angelegte Förderprogramm der CMS steht unter dem Vorbehalt der Genehmigung des Bürgerrates und des Bürgergemeinderates als Vertreter der Bürgergemeinde.
 
-Der Präsident: Ad. Burckhardt
+## 3. Anpassungen
 
-Der Bürgerratsschreiber: Dr. H. Hübsch
+#### Ziff. 3.1
 
-Im Namen des Kantons Basel-Stadt und
+<sup>1</sup> Sollten sich die im Ingress aufgeführten Grundlagen und regulatorischen Rahmenbedingungen ändern oder andere Erfordernisse es nötig machen, kann diese Vereinbarung unter Einhaltung einer Frist von 12 Monaten, erstmals frühestens auf den 31. Dezember 2028, danach jeweils auf das Ende einer Förderperiode angepasst werden.
 
-der Einwohnergemeinde der Stadt Basel
+*Schlussbestimmung*
 
-Der Regierungsrat:
+Diese Vereinbarung ist zu publizieren; sie tritt am 1. Januar 2025 in Kraft. Auf den gleichen Zeitpunkt werden die Vereinbarung zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde der Stadt Basel einerseits und der Bürgergemeinde der Stadt Basel anderseits über die Unterstützung der bürgerlichen Armenanstalten und die Verwendung des Ertrages der Chr. Merian’schen Stiftung vom 24. November 1925 sowie das Zusatzabkommen IV zur Vereinbarung vom 24. November/22. Dezember 1925, resp. 26. November/14. Dezember 1926 über die Unterstützung der bürgerlichen Fürsorgeinstitutionen und die Verwendung des Ertrages der Christoph Merian Stiftung vom 22. Dezember 1975 aufgehoben.
 
-Der Vizepräsident: Dr. F. Aemmer
+Basel, den 13. September 2023
 
-Der Sekretär: Dr. H. Matzinger
+Im Namen des Regierungsrates
 
-Genehmigt vom Grossen Rat am 25. November 1926 unter dem Vorbehalt, dass der Bürgergemeinde für die Waisenanstalt und das Armenamt an Stelle des unter Ziff. 1 lit. d der Vereinbarung erwähnten Ertrages der Billetsteuer ein jährlicher Staatsbeitrag von Fr. 400'000.– gewährt, ferner, dass die Vereinbarung, statt auf fünf Jahre, auf drei Jahre fest abgeschlossen und somit erstmals am 30. Juni 1928 auf 31. Dezember 1928 kündbar wird.
+Der Regierungspräsident: Beat Jans
 
-Namens des Grossen Rates
+Die Staatsschreiberin: Barbara Schüpbach-Guggenbühl
 
-Der Präsident: Jacob Tschopp
+Basel, den 4. September 2023
 
-Der I. Sekretär: A. Glatz
+Im Namen des Bürgerrates
 
-**Nachtrag**
+Der Präsident: Dr. Stefan Wehrle
 
-Entsprechend dem vom Grossen Rate in seinem Genehmigungsbeschluss vom 25. November 1926 gemachten Vorbehalt wird die vorstehende
+Der Bürgerratsschreiberin: Gabi Mächler
 
-«Vereinbarung»
+Basel, den 11. September 2023
 
-wie folgt abgeändert:
+Im Namen der Christoph Merian Stiftung
 
-1.[^ingress-4] Statt der in Ziff. 1 lit. d vorgesehenen Überlassung des Ertrages der Billetsteuer wird ein fester jährlicher Staatsbeitrag von Fr. 400'000.– gewährt.
+Der Präsident der Stiftungskommission: Dr. Lukas Faesch
 
-\2. Die Ziff. 5 wird durch folgende Fassung ersetzt: «Die Vereinbarung ist auf drei Jahre fest abgeschlossen, nachher jeweilen auf sechs Monate auf Ende eines Jahres kündbar, erstmals am 30. Juni 1928 auf 31. Dezember 1928.»
+Der Direktor: Dr. Beat von Wartburg
 
-Basel, den 26. November 1926
-
-Im Namen der Bürgergemeinde der Stadt Basel
-
-Der Bürgerrat:
-
-Der Präsident: Ad. Burckhardt
-
-Der Bürgerratsschreiber: Dr. H. Hübsch
-
-Im Namen des Kantons Basel-Stadt und
-
-der Einwohnergemeinde der Stadt Basel
-
-Der Regierungsrat:
-
-Der Präsident: Dr. F. Aemmer
-
-Der Sekretär: Dr. H. Matzinger
-
-Vereinbarung und Nachtrag genehmigt vom Weitern Bürgerrat
-
-am 14. Dezember 1926.
-
-Der Präsident: Ant. Portmann-Peter
-
-Der Bürgerratsschreiber: Dr. H. Hübsch
-
-[^t-1]: Dieser Erlass trägt ein Doppeldatum: 24. 11./22. 12. 1925. Aus technischen Gründen kann hier nur ein Datum genannt werden.
-[^t-2]: Vom Grossen Rat des Kantons Basel-Stadt genehmigt am 27. 11. 1926.
-[^t-3]: Grosse Teile dieser Vereinbarung sind obsolet, so insbesondere Ziff. 1 lit. b–d, Ziff. 2, Ziff. 3 lit. a und Ziff. 3 lit. c I. Um den ursprünglichen Zusammenhang zu wahren, wird hier der Text, mit Ausnahme von Ziff. 4, in vollem Wortlaut abgedruckt. Als noch gültig sind folgende Bestimmungen zu bezeichnen: Ziff. 1 lit. a, Ziff. 3 lit. b, Ziff. 3 lit. c II, III sowie der Nachtrag vom 26. 11./14. 12. 1926. – Vgl. auch die ergänzende Vereinbarung vom 22. 8. 1941 und das Zusatzabkommen IV vom 22. 12. 1975/27. 1. 1976.
-[^ingress-1]: Jetzt: Sozialhilfe Basel-Stadt.
-[^ingress-2]: Ziff. 4 aufgehoben durch § 6 des Vertrages betreffend den Klinikenbeitrag und die Defizitgarantie des Bürgerspitals vom 16./24. 3. 1959. Dieser Vertrag wurde seinerseits aufgehoben durch den Vertrag betreffend Übergang der Universitätskliniken an den Kanton vom 13./14. 12. 1971.
-[^ingress-3]: Siehe hiezu Änderung laut Nachtrag am Schluss.
-[^ingress-4]: Nachtrag Ziff. 1: Der feste jährliche Staatsbeitrag ist inzwischen gestiegen; die entsprechende Vereinbarung ist indessen nur in einem Briefwechsel festgehalten.
-
-KB 15.01.1927
+KB 16.09.2023
