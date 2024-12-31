@@ -3,20 +3,19 @@ canton: GR
 number: "215.050"
 title: Verordnung über die Bevorschussung von Unterhaltsbeiträgen für unterhaltsberechtigte Kinder
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-20
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 1986-05-31
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/215.050"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3294/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Bevorschussung von Unterhaltsbeiträgen für unterhaltsberechtigte Kinder
 
-Vom 31.05.1986 (Stand 01.01.2023)
+Vom 31.05.1986 (Stand 01.01.2025)
 
 Gestützt auf Art. 293 Abs. 2 des Schweizerischen Zivilgesetzbuches (ZGB)[^ingress-1] und Art. 51b[^ingress-2] des kantonalen Einführungsgesetzes zum ZGB[^ingress-3]
 
@@ -49,7 +48,7 @@ vom Grossen Rat erlassen am 31. Mai 1986[^ingress-4]
 
 **Begrenzung 1. Leistungen**
 
-<sup>1</sup> Die Unterhaltsbeiträge werden höchstens bis zum Betrag von 764 Franken je Kind und Monat bevorschusst.
+<sup>1</sup> Die Unterhaltsbeiträge werden höchstens bis zum Betrag von 780 Franken je Kind und Monat bevorschusst.
 
 #### Art. 4
 
@@ -57,13 +56,13 @@ vom Grossen Rat erlassen am 31. Mai 1986[^ingress-4]
 
 <sup>1</sup> Der Anspruch auf Bevorschussung von Unterhaltsbeiträgen besteht nur soweit, als zusammen mit den bevorschussten Unterhaltsbeiträgen folgende Einkommensgrenzen nicht überschritten werden:
 
-- a) beim nicht verpflichteten alleinstehenden Elternteil ein jährliches Einkommen von 45 817 Franken zuzüglich 7636 Franken für jedes weitere unterhaltsberechtigte Kind;
-- b) beim nicht verpflichteten verheirateten oder in eheähnlichem Verhältnis lebenden Elternteil ein unter Einschluss des Einkommens des Partners jährliches Nettoeinkommen von 61 090 Franken zuzüglich 7636 Franken für jedes weitere unterhaltsberechtigte Kind;
-- c) beim Halbwaisenkind ein jährliches Nettoeinkommen von 15 272 Franken.
+- a) beim nicht verpflichteten alleinstehenden Elternteil ein jährliches Einkommen von 46 814 Franken zuzüglich 7802 Franken für jedes weitere unterhaltsberechtigte Kind;
+- b) beim nicht verpflichteten verheirateten oder in eheähnlichem Verhältnis lebenden Elternteil ein unter Einschluss des Einkommens des Partners jährliches Nettoeinkommen von 62 419 Franken zuzüglich 7802 Franken für jedes weitere unterhaltsberechtigte Kind;
+- c) beim Halbwaisenkind ein jährliches Nettoeinkommen von 15 605 Franken.
 
 <sup>2</sup> Hat der nichtverpflichtete Elternteil oder sein Partner den Unterhalt für Kinder zu erbringen, die sich nicht unter seiner Obhut befinden, so erhöht sich die Einkommensgrenze um den Betrag der effektiven Unterhaltszahlungen.
 
-<sup>3</sup> Der den Freibetrag von 76 362 Franken übersteigende Teil des gesamten Nettovermögens wird zu einem Zehntel dem Einkommen zugerechnet.
+<sup>3</sup> Der den Freibetrag von 78 024 Franken übersteigende Teil des gesamten Nettovermögens wird zu einem Zehntel dem Einkommen zugerechnet.
 
 #### Art. 5
 
