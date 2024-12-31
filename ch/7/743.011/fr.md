@@ -4,11 +4,11 @@ title: "Ordonnance du 21 décembre 2006 sur les installations à câbles transpo
 short: OICa
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-14-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/fr"
 
 (Ordonnance sur les installations à câbles, OICa)
 
-du 21 décembre 2006 (État le 1<sup>er</sup> janvier 2024)
+du 21 décembre 2006 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1236,13 +1236,15 @@ Le fabricant doit conserver au moins pendant 30 ans:
 
 <sup>3</sup>
 
-Pour les entreprises de transport à câbles qui obtiennent des indemnités au sens de l’art. 49 LCdF[^58-2] ou des contributions au sens de l’art. 56 LCdF, les livres comptables doivent être tenus:
+Pour les entreprises de transport à câbles qui obtiennent des indemnités au sens de l’art. 49 LCdF[^58-2] ou qui ont obtenu des contributions au sens de l’art. 56 LCdF, les livres comptables doivent être tenus:[^58-3]
 
 - a. selon les dispositions de la section 7 de la LTV, et
-- b. selon les dispositions édictées par le DETEC en vertu de l’art. 35, al. 1 et 2, LTV.
+- b.[^58-4] selon les dispositions édictées par le Conseil fédéral en vertu de l’art. 35, al. 3, LTV et par l’OFT en vertu de l’art. 35, al. 4, LTV.
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^58-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^58-3]: Nouvelle teneur selon l’annexe 4 ch. II 4 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^58-4]: Nouvelle teneur selon l’annexe 4 ch. II 4 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 59
 
@@ -1529,7 +1531,7 @@ Annexe 1[^t-1]
 
 ## Documents à présenter à l’autorité qui délivre l’autorisation dans le cadre de la procédure d’approbation des plans
 
-[^t-1]: Mise à jour selon le ch. II de l’O du 2 sept. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) et le ch. II al. 1 de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^t-1]: Mise à jour par le ch. II de l’O du 2 sept. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) et le ch. II al. 1 de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 <sup>1</sup> L’entreprise de transport à câbles doit fournir à l’autorité qui délivre l’autorisation, en même temps que la demande d’approbation des plans, les documents suivants permettant d’évaluer la sécurité:
 
@@ -1598,7 +1600,7 @@ Annexe 3[^t-3]
 
 ## Documents à présenter à l’autorité qui délivre l’autorisation avec la demande d’autorisation d’exploiter (dossier de sécurité)
 
-[^t-3]: Mise à jour selon le ch. II de l’O du 2 sept. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) ) et le ch. II al. 1 de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^t-3]: Mise à jour par le ch. II de l’O du 2 sept. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) ) et le ch. II al. 1 de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 Pour obtenir l’autorisation d’exploiter, l’entreprise de transport à câbles doit présenter les documents suivants à l’autorité qui délivre l’autorisation:
 

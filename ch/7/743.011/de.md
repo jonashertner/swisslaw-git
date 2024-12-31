@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Dezember 2006 über Seilbahnen zur Personenbeförderu
 short: SebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-14-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/de"
 
 (Seilbahnverordnung, SebV)
 
-vom 21. Dezember 2006 (Stand am 1. Januar 2024)
+vom 21. Dezember 2006 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -371,7 +371,7 @@ Das BAV kann die Plangenehmigung mit der Auflage verbinden, dass spätestens fü
 
 **Baubeginn**
 
-<sup>1</sup> ...[^18-1]
+<sup>1</sup> …[^18-1]
 
 <sup>2</sup>
 
@@ -849,7 +849,7 @@ Sie erlischt mit:
 
 <sup>3</sup> Der Personalbestand muss so gross sein, dass ein sicherer Betrieb und eine vorschriftsgemässe Instandhaltung gewährleistet werden können.
 
-<sup>4</sup> ...[^45-1]
+<sup>4</sup> …[^45-1]
 
 [^45-1]: Aufgehoben durch Ziff. I der V vom 2. Sept. 2015, mit Wirkung seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
@@ -1228,13 +1228,15 @@ Das Seilbahnunternehmen muss der Aufsichtsbehörde auf Verlangen einreichen:
 
 <sup>3</sup>
 
-Seilbahnunternehmen, die Abgeltungen nach Artikel 49 EBG[^58-2] oder Beiträge nach Artikel 56 EBG erhalten, haben die Geschäftsbücher zu führen:
+Seilbahnunternehmen, die Abgeltungen nach Artikel 49 EBG[^58-2] erhalten oder Beiträge nach Artikel 56 EBG erhalten haben, haben die Geschäftsbücher zu führen:[^58-3]
 
 - a. nach den Bestimmungen des 7. Abschnitts des PBG; und
-- b. nach den Bestimmungen, die das UVEK gestützt auf Artikel 35 Absätze 1 und 2 PBG erlässt.
+- b.[^58-4] nach den Bestimmungen, die der Bundesrat gemäss Artikel 35 Absatz 3 PBG und das BAV gemäss Artikel 35 Absatz 4 PBG erlässt.
 
 [^58-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^58-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^58-3]: Fassung gemäss Anhang 4 Ziff. II 4 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^58-4]: Fassung gemäss Anhang 4 Ziff. II 4 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 59
 
@@ -1456,7 +1458,7 @@ Folgende Verordnungen werden aufgehoben:
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^71-1]
+…[^71-1]
 
 [^71-1]: Die Änderungen können unter [AS 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)konsultiert werden.
 
@@ -1539,7 +1541,7 @@ Anhang 1[^t-1]
 - 3\. Betriebskonzept und Bergungskonzept zur Rückführung der Fahrgäste;
 - 4\. technischer Bericht, enthaltend die Gestaltung, die Anordnung und den Verwendungszweck der hauptsächlichen Systemelemente (inklusive Übersichtszeichnungen aller Teilsysteme);
 - 5\. Konzept und Übersichtsschema der bahntechnischen elektrischen Einrichtungen, insbesondere der elektrischen Sicherheitseinrichtungen;
-- 6\. ...
+- 6\. …
 - 7\. Seilrechnung mit den Nachweisen über die minimalen und maximalen Seilkräfte, Angaben über das Spannsystem, das Einhalten der vorgeschriebenen Seilsicherheiten, die Reibwerte an der Antriebsscheibe und der minimalen Seilauflagekräfte auf den Stützen und den Seilrollen;
 - 8\. Gutachten unabhängiger fachkundiger Personen zu den Umwelteinflüssen auf die Seilbahn, namentlich zu den Baugrundverhältnissen, den Wind- und Schneeverhältnissen, der Vereisungsgefahr, der Lawinensituation, der Gefahr von Steinschlag, Rutschungen und Murgängen sowie zur Brandgefahr;
 - 9\. Bauorganisation und Verantwortlichkeiten bei der Erstellung der Seilbahn, namentlich wer gegenüber dem Seilbahnunternehmen für welche Teile der Seilbahn als Planer, Ersteller oder sachverständige Person verantwortlich ist;

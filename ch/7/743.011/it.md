@@ -4,11 +4,11 @@ title: Ordinanza del 21 dicembre 2006 sugli impianti a fune adibiti al trasporto
 short: OIFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/it"
 
 (Ordinanza sugli impianti a fune; OIFT)
 
-del 21 dicembre 2006 (Stato 1° gennaio 2024)
+del 21 dicembre 2006 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -626,7 +626,9 @@ All’attestato di conformità per un sottosistema devono essere allegati i segu
 
 **Rapporti di periti**
 
-<sup>1</sup> Occorre un rapporto di perizia per verificare
+<sup>1</sup>
+
+Occorre un rapporto di perizia per verificare:
 
 - a. la convenzione d’utilizzazione[^29-1] e la base del progetto;
 - b. i punti di contatto tra i sottosistemi e tra i sottosistemi e l’infrastruttura;
@@ -1234,13 +1236,15 @@ Su richiesta, l’impresa di trasporto a fune presenta all’autorità di vigila
 
 <sup>3</sup>
 
-Le imprese di trasporto a fune che beneficiano di indennità conformemente all’articolo 49 Lferr[^58-2] o di contributi conformemente all’articolo 56 della stessa legge tengono i libri contabili:
+Le imprese di trasporto a fune che ricevono indennità conformemente all’articolo 49 Lferr[^58-2] o hanno ricevuto contributi conformemente all’articolo 56 della stessa legge tengono i libri contabili:[^58-3]
 
 - a. conformemente alle disposizioni della sezione 7 LTV; e
-- b. conformemente alle disposizioni emanate dal DATEC in base all’articolo 35 capoversi 1 e 2 LTV.
+- b.[^58-4] conformemente alle disposizioni emanate dal Consiglio federale secondo l’articolo 35 capoverso 3 LTV e dall’UFT secondo l’articolo 35 capoverso 4 LTV.
 
 [^58-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^58-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^58-3]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^58-4]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 59
 
