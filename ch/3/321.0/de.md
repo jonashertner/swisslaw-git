@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20240701/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20250101/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20250101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20240701/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 1. Juli 2024)
+vom 13. Juni 1927 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 60 Absatz 1 und 123 Absätze 1 und 3 der Bundesverfass
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^ingress-3]: [BBl 1918 V 337](https://fedlex.data.admin.ch/eli/fga/1918/5_337_349_241)
 
@@ -77,7 +77,7 @@ Dem Militärstrafrecht unterstehen:
 
 [^3-1]: Fassung gemäss Ziff. IV Bst. a des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 [^3-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-5]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
@@ -171,7 +171,7 @@ Die dem Militärstrafrecht unterstehenden Personen bleiben für strafbare Handlu
 Für Personen, welche zum Zeitpunkt der Tat das 18. Altersjahr noch nicht vollendet haben, bleiben die Vorschriften des Jugendstrafgesetzes vom 20. Juni 2003[^9-2] (JStG) vorbehalten. Sind gleichzeitig eine vor und eine nach der Vollendung des 18. Altersjahres begangene Tat zu beurteilen, so ist Artikel 3 Absatz 2 JStG anwendbar. Zuständig sind die zivilen Behörden.
 
 [^9-1]: Fassung gemäss Art. 44 Ziff. 3 des Jugendstrafgesetzes vom 20. Juni 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); BBl **1999** 1979).
-[^9-2]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^9-2]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 ### b. Junge Erwachsene
 
@@ -181,7 +181,7 @@ Für Personen, welche zum Zeitpunkt der Tat das 18. Altersjahr noch nicht vollen
 
 <sup>2</sup> Artikel 61 des Strafgesetzbuches[^9a-1] ist ebenfalls anwendbar. Zuständig ist die Behörde des Vollzugskantons.
 
-[^9a-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9a-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 5. Räumlicher Geltungsbereich
 
@@ -215,7 +215,7 @@ Ist ein Täter auf Ersuchen der schweizerischen Behörde im Ausland verfolgt wor
 [^10-1]: Eingefügt durch Ziff. II des BG vom 19. Dez. 2003 ([AS 2004 2691](https://fedlex.data.admin.ch/eli/oc/2004/322); [BBl 2003 767](https://fedlex.data.admin.ch/eli/fga/2003/143)). Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^10-2]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^10-3]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^10-4]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^10-4]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Begehungsort
 
@@ -328,7 +328,7 @@ Wird jemand ohne Recht angegriffen oder unmittelbar mit einem Angriff bedroht, s
 
 <sup>4</sup> Konnte der Täter die Schuldunfähigkeit oder die Verminderung der Schuldfähigkeit vermeiden und dabei die in diesem Zustand begangene Tat voraussehen, so sind die Absätze 1–3 nicht anwendbar.
 
-[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Zweifelhafte Schuldfähigkeit
 
@@ -418,7 +418,7 @@ Besondere persönliche Verhältnisse, Eigenschaften und Umstände, welche die St
 
 <sup>4</sup> Die wahrheitsgetreue Berichterstattung über öffentliche Verhandlungen und amtliche Mitteilungen einer Behörde ist straflos.
 
-[^27-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Quellenschutz
 
@@ -434,8 +434,8 @@ Absatz 1 gilt nicht, wenn das Gericht feststellt, dass:
 - b.[^27a-1] ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel 115–117 des vorliegenden Gesetzes oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 141–143*a* und 153–156 dieses Gesetzes, nach den Artikeln 197 Absatz 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>septies</sup> des Strafgesetzbuchs[^27a-2] sowie nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^27a-3] (BetmG) nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.
 
 [^27a-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^27a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^27a-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^27a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^27a-3]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 ### Dritter Titel: Strafen und Massnahmen
 
@@ -476,7 +476,7 @@ Absatz 1 gilt nicht, wenn das Gericht feststellt, dass:
 <sup>4</sup> Für den Vollzug der Geldstrafe in Form von gemeinnütziger Arbeit ist Artikel 79*a* des Strafgesetzbuchs[^29-2] anwendbar.[^29-3]
 
 [^29-1]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^29-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^29-3]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Ersatzfreiheitsstrafe
@@ -540,7 +540,7 @@ Das Gericht kann statt auf eine Geldstrafe auf eine Freiheitsstrafe erkennen, we
 
 <sup>2</sup> Im Fall aktiven Dienstes kann der Bundesrat den militärischen Vollzug der Freiheitsstrafe einführen. Er regelt die Einzelheiten.
 
-[^34b-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^34b-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Nebenstrafe Degradation
 
@@ -590,7 +590,7 @@ Das Gericht kann statt auf eine Geldstrafe auf eine Freiheitsstrafe erkennen, we
 
 [^37-1]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^37-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^37-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^37-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. Gemeinsame Bestimmungen.
 
@@ -775,7 +775,7 @@ Die provisorische Einstellung ist nicht zulässig, wenn:
 [^46b-6]: Fassung gemäss Ziff. I 4 des BG vom 14. Dez 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^46b-7]: Eingefügt durch Ziff. I 4 des BG vom 14. Dez 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^46b-8]: Eingefügt durch Ziff. I 4 des BG vom 14. Dez 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^46b-9]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^46b-9]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 [^46b-10]: Fassung gemäss Ziff. I 4 des BG vom 14. Dez 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 ### Fünftes Kapitel: Massnahmen
@@ -790,7 +790,7 @@ Die provisorische Einstellung ist nicht zulässig, wenn:
 
 <sup>3</sup> Die Massnahmen werden nach dem Strafgesetzbuch vollzogen.
 
-[^47-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^47-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Ausschluss aus der Armee als sichernde Massnahme
 
@@ -810,7 +810,7 @@ Die provisorische Einstellung ist nicht zulässig, wenn:
 
 <sup>2</sup> Wird der Täter zu einer anderen Strafe verurteilt, so kann das Gericht den Ausschluss aus der Armee anordnen.
 
-[^49-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 1*a*. Landesverweisung.
 
@@ -841,7 +841,7 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 [^49a-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^49a-3]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^49a-4]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^49a-5]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^49a-5]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 ### b. Nicht obligatorische Landes-verweisung
 
@@ -852,7 +852,7 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 Das Gericht kann einen Ausländer für 3–15 Jahre des Landes verweisen, wenn er wegen eines Verbrechens oder Vergehens, das nicht von Artikel 49*a* erfasst wird, zu einer Strafe verurteilt oder gegen ihn eine Massnahme nach den Artikeln 59–61 oder 64 des Strafgesetzbuches[^49abis-2] angeordnet wird.
 
 [^49abis-1]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49abis-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49abis-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### c. Gemeinsame Bestimmungen. Wiederholungsfall
 
@@ -875,7 +875,7 @@ Das Gericht kann einen Ausländer für 3–15 Jahre des Landes verweisen, wenn e
 Der Vollzug richtet sich nach den Artikeln 66*c* und 66*d* des Strafgesetzbuchs[^49c-2].
 
 [^49c-1]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49c-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49c-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. Tätigkeitsverbot, Kontakt- und Rayonverbot.
 
@@ -921,7 +921,7 @@ Das Gericht kann in besonders leichten Fällen ausnahmsweise von der Anordnung e
 [^50-1]: Fassung gemäss Ziff. I 2 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^50-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^50-3]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^50-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^50-5]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^50-6]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50-7]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
@@ -940,7 +940,7 @@ Das Gericht kann in besonders leichten Fällen ausnahmsweise von der Anordnung e
 
 <sup>1</sup> Als berufliche Tätigkeiten im Sinne von Artikel 50 gelten Tätigkeiten in Ausübung eines Haupt- oder Nebenberufs oder -gewerbes oder eines Handelsgeschäfts. Als organisierte ausserberufliche Tätigkeiten gelten Tätigkeiten, die nicht oder nicht primär zu Erwerbszwecken und die im Rahmen eines Vereins oder einer anderen Organisation ausgeübt werden.
 
-<sup>2</sup> Das Tätigkeitsverbot nach Artikel 50 umfasst die Tätigkeiten, die der Täter selbstständig, als Organ einer juristischen Person oder Handelsgesellschaft, als Beauftragter oder als Vertreter einer anderen Person ausübt oder durch eine von seinen Weisungen abhängige Person ausüben lässt.
+<sup>2</sup> Das Tätigkeitsverbot nach Artikel 50 umfasst die Tätigkeiten, die der Täter selbstständig, als Organ einer juristischen Person oder Handelsgesellschaft oder in einer anderen Funktion, die im Handelsregister einzutragen ist, als Beauftragter oder als Vertreter einer anderen Person ausübt oder durch eine von seinen Weisungen abhängige Person ausüben lässt.[^50a-2]
 
 <sup>3</sup> Besteht die Gefahr, dass der Täter seine Tätigkeit auch zur Begehung von Straftaten missbraucht, wenn er sie nach Weisung und unter Kontrolle eines Vorgesetzten oder einer Aufsichtsperson ausübt, so ist ihm die Tätigkeit ganz zu untersagen.
 
@@ -964,13 +964,14 @@ Als Tätigkeiten mit regelmässigem Kontakt zu Minderjährigen oder zu anderen b
   - 8\. Transport,
   - 9\. direkter Verkauf oder Verleih oder direkte Vermittlung von spezifisch für die Bedürfnisse von Minderjährigen oder anderen besonders schutzbedürftigen Personen bestimmten Objekten, sofern dies die Haupttätigkeit der betreffenden Person darstellt;
 
-- b. andere Tätigkeiten, die vor allem oder wiederholt in Einrichtungen ausgeübt werden, die Dienstleistungen nach Buchstabe a anbieten; ausgenommen sind Tätigkeiten, bei denen örtlich oder zeitlich sichergestellt ist, dass kein Kontakt zu Minderjährigen oder anderen besonders schutzbedürften Personen stattfinden kann.[^50a-2]
+- b. andere Tätigkeiten, die vor allem oder wiederholt in Einrichtungen ausgeübt werden, die Dienstleistungen nach Buchstabe a anbieten; ausgenommen sind Tätigkeiten, bei denen örtlich oder zeitlich sichergestellt ist, dass kein Kontakt zu Minderjährigen oder anderen besonders schutzbedürften Personen stattfinden kann.[^50a-3]
 
-<sup>6</sup> Als besonders schutzbedürftig gelten Personen, die aufgrund ihres Alters, einer Krankheit oder einer langfristigen körperlichen, geistigen oder psychischen Beeinträchtigung bei alltäglichen Verrichtungen oder ihrer Lebensführung auf fremde Hilfe angewiesen sind.[^50a-3]
+<sup>6</sup> Als besonders schutzbedürftig gelten Personen, die aufgrund ihres Alters, einer Krankheit oder einer langfristigen körperlichen, geistigen oder psychischen Beeinträchtigung bei alltäglichen Verrichtungen oder ihrer Lebensführung auf fremde Hilfe angewiesen sind.[^50a-4]
 
 [^50a-1]: Fassung gemäss Ziff. I 2 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^50a-2]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50a-2]: Fassung gemäss Ziff. I 4 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^50a-3]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50a-4]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### b. Kontakt- und Rayonverbot
 
@@ -1034,7 +1035,7 @@ Der Täter kann bei der zuständigen Behörde um eine inhaltliche oder zeitliche
 <sup>9</sup> Missachtet der Verurteilte während der Dauer einer Probezeit ein Tätigkeitsverbot oder ein Kontakt- und Rayonverbot, so sind Artikel 294 des Strafgesetzbuches und die Bestimmungen des Strafgesetzbuchs über den Widerruf einer bedingten Strafe oder des bedingten Teils einer Strafe sowie über die Rückversetzung in den Straf- und Massnahmenvollzug anwendbar.
 
 [^50c-1]: Eingefügt durch Ziff. I 2 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^50c-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^50c-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^50c-3]: Aufgehoben durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), mit Wirkung seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50c-4]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50c-5]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
@@ -1061,7 +1062,7 @@ Der Täter kann bei der zuständigen Behörde um eine inhaltliche oder zeitliche
 Hat der Täter ein Motorfahrzeug zur Begehung eines Verbrechens oder Vergehens verwendet und besteht Wiederholungsgefahr, so kann das Gericht neben einer Strafe oder einer Massnahme nach den Artikeln 59–64 des Strafgesetzbuches[^50e-2] den Entzug des Lernfahr- oder Führerausweises für die Dauer von einem Monat bis zu fünf Jahren anordnen.
 
 [^50e-1]: Ursprünglich Art. 50*a*<sup>bis</sup>.
-[^50e-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^50e-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Veröffentlichung des Urteils
 
@@ -1124,7 +1125,7 @@ Hat der Täter ein Motorfahrzeug zur Begehung eines Verbrechens oder Vergehens v
 Das Gericht verfügt die Einziehung aller Vermögenswerte, welche der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen. Bei Vermögenswerten einer Person, die sich an einer solchen Organisation beteiligt oder sie unterstützt hat (Art. 260<sup>ter</sup> des Strafgesetzbuches[^52-2]), wird die Verfügungsmacht der Organisation bis zum Beweis des Gegenteils vermutet.
 
 [^52-1]: Fassung gemäss Anhang Ziff. II 4 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^52-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^52-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 6. Verwendung zu Gunsten des Geschädigten
 
@@ -1150,7 +1151,7 @@ Erleidet jemand durch ein Verbrechen oder ein Vergehen einen Schaden, der nicht 
 
 Die Artikel 93–96 des Strafgesetzbuches[^54-1] sind anwendbar.
 
-[^54-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^54-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Fünfter Titel: Die Verjährung
 
@@ -1299,7 +1300,7 @@ Die Bestimmungen des Ersten Teils gelten mit den nachfolgenden Änderungen auch 
 <sup>3</sup> Freiheitsentziehende Massnahmen (Art. 59–61 und 64 des Strafgesetzbuchs[^60b-2]), das Tätigkeitsverbot (Art. 50), das Kontakt- und Rayonverbot (Art. 50*b*) sowie die Veröffentlichung des Urteils (Art. 50*f*) sind nur in den vom Gesetz ausdrücklich bestimmten Fällen zulässig.[^60b-3]
 
 [^60b-1]: Fassung gemäss Ziff. I 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^60b-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^60b-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^60b-3]: Fassung gemäss Ziff. I 2 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### Busse
@@ -1629,7 +1630,7 @@ Mit Freiheitsstrafe bis zu 18 Monaten oder Geldstrafe wird bestraft, wer in der 
 [^81-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^81-3]: Fassung gemäss Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 [^81-4]: Eingefügt durch Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung) ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^81-5]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^81-5]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 [^81-6]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Militärdienstversäumnis und unerlaubte Entfernung
@@ -2162,7 +2163,7 @@ Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer im Zusammenhang 
 <sup>4</sup> In weniger schweren Fällen nach Absatz 1 Buchstaben c–g kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
 
 [^111-1]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^111-2]: Genfer Abk. vom 12. Aug. 1949 zur Verbesserung des Loses der Verwundeten und Kranken der bewaffneten Kräfte im Felde (GA I), [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); Genfer Abk. vom 12. Aug. 1949 zur Verbesserung des Loses der Verwundeten, Kranken und Schiffbrüchigen der bewaffneten Kräfte zur See (GA II), [SR 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); Genfer Abk. vom 12. Aug. 1949 über die Behandlung der Kriegsgefangenen (GA III), [SR 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); Genfer Abk. vom 12. Aug. 1949 über den Schutz von Zivilpersonen in Kriegszeiten (GA IV), [SR 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297).
+[^111-2]: Genfer Abk. vom 12. Aug. 1949 zur Verbesserung des Loses der Verwundeten und Kranken der bewaffneten Kräfte im Felde (GA I), [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); Genfer Abk. vom 12. Aug. 1949 zur Verbesserung des Loses der Verwundeten, Kranken und Schiffbrüchigen der bewaffneten Kräfte zur See (GA II), [SR 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); Genfer Abk. vom 12. Aug. 1949 über die Behandlung der Kriegsgefangenen (GA III), [SR 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); Genfer Abk. vom 12. Aug. 1949 über den Schutz von Zivilpersonen in Kriegszeiten (GA IV), [SR 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967).
 
 ### 3. Andere Kriegsverbrechen
 
@@ -2187,7 +2188,7 @@ Mit Freiheitsstrafe nicht unter drei Jahren wird bestraft, wer im Zusammenhang m
 <sup>3</sup> In weniger schweren Fällen kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
 
 [^112-1]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^112-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^112-2]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ### b. Ungerechtfertigte medizinische Behandlung, Verletzungen der sexuellen Selbstbestimmung und der Menschenwürde
 
@@ -2323,13 +2324,13 @@ Die Verfolgung von Taten nach dem sechsten Abschnitt oder dem sechsten Abschnitt
 - f. Artikel 16 des Patentgerichtsgesetzes vom 20. März 2009[^114b-6];
 - g. Artikel 50 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^114b-7].
 
-[^114b-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^114b-2]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^114b-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^114b-4]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^114b-5]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^114b-6]: [SR 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
-[^114b-7]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^114b-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^114b-2]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^114b-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^114b-4]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^114b-5]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^114b-6]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^114b-7]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ### Siebenter Abschnitt: Verbrechen oder Vergehen gegen Leib und Leben
 
@@ -2637,7 +2638,7 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 <sup>2.</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-[^136-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997). Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^136-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
 ### Arglistige Vermögensschädigung
 
@@ -2649,7 +2650,7 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-[^137-1]: Eingefügt durch Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^137-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
 ### Erpressung
 
@@ -3007,7 +3008,7 @@ wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
 
 <sup>3.</sup> In besonders schweren Fällen, namentlich wenn die Tat viele Menschen betrifft, kann der Täter mit lebenslänglicher Freiheitsstrafe bestraft werden.
 
-4.[^151c-2] Tritt der Täter von der Nötigung zurück und lässt er das Opfer frei, so kann er milder bestraft werden (Art. 42*a*).
+<sup>4.</sup> Tritt der Täter von der Nötigung zurück und lässt er das Opfer frei, so kann er milder bestraft werden (Art. 42*a*). [^151c-2]
 
 [^151c-1]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1981, in Kraft seit 1. Okt. 1982 ([AS 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 [^151c-2]: Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
@@ -3512,7 +3513,7 @@ Wer eine Urkunde, über die er nicht allein verfügen darf, beschädigt, vernich
 
 <sup>3</sup> Begünstigt der Täter seine Angehörigen oder jemand anderen, zu dem er in so nahen persönlichen Beziehungen steht, dass sein Verhalten entschuldbar ist, so bleibt er straflos.[^176-4]
 
-[^176-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^176-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^176-2]: Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 [^176-3]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1981 ([AS 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)). Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 [^176-4]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -3614,7 +3615,7 @@ Dem Disziplinarfehler gleichgestellt sind:
 - b. leichte Fälle von Widerhandlungen gegen die Gesetzgebung des Bundes über den Strassenverkehr gemäss den Bestimmungen von Artikel 218 Absatz 3;
 - c. Widerhandlungen gegen das BetmG[^180-1] gemäss den Bestimmungen von Artikel 218 Absatz 4.
 
-[^180-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^180-1]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 ### Strafbarkeit
 
@@ -3652,8 +3653,8 @@ Dem Disziplinarfehler gleichgestellt sind:
 
 <sup>2</sup> Die disziplinarische Verantwortlichkeit der Angehörigen des Grenzwachtkorps richtet sich nach den Bestimmungen des Bundespersonalgesetzes vom 24. März 2000[^183-1] und der Bundespersonalverordnung vom 3. Juli 2001[^183-2] sowie nach den Vorschriften des entsprechenden Reglements der Oberzolldirektion.
 
-[^183-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^183-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^183-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^183-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ### Verfolgungsverjährung
 
@@ -3699,10 +3700,8 @@ Der Verweis ist eine förmliche Verwarnung des Fehlbaren. Er ist ausdrücklich a
 
 Eine Disziplinarbusse kann für alle Disziplinarfehler ausgesprochen werden. Sie beträgt:
 
-- a. für im Dienst begangene Disziplinarfehler:
-- höchstens 500 Franken;
-- b. für ausserhalb des Dienstes begangene Disziplinarfehler:
-- höchstens 1000 Franken.
+- a. für im Dienst begangene Disziplinarfehler: höchstens 500 Franken;
+- b. für ausserhalb des Dienstes begangene Disziplinarfehler: höchstens 1000 Franken.
 
 ### Vollzug von Disziplinarbussen
 
@@ -3892,7 +3891,7 @@ Der Bundesrat regelt die Strafbefugnisse:
 
 <sup>2</sup> Die Anhaltung und die vorläufige Festnahme nach den Artikeln 54‑55*a* des Militärstrafprozesses vom 23. März 1979[^202-1] bleiben vorbehalten.
 
-[^202-1]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^202-1]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### Inhalt und Eröffnung der Strafverfügung
 
@@ -3957,7 +3956,7 @@ Einträge in der Strafkontrolle dürfen nur bekannt gegeben werden:
 
 [^book2-chap5-1]
 
-[^book2-chap5-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1, ParlG, [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^book2-chap5-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1, ParlG, [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### 1. Disziplinarbeschwerde.
 
@@ -4052,7 +4051,7 @@ Der Beschwerdeentscheid darf die ausgesprochene Strafe nicht verschärfen. Er ka
 
 <sup>7</sup> Der Entscheid ist endgültig.
 
-[^210-1]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^210-1]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### 3. Gemeinsame Bestimmungen.
 
@@ -4108,7 +4107,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 <sup>3</sup> Die Bestimmungen des Strafgesetzbuches[^215-1] über das Vollzugsregime von Strafen und Massnahmen sowie über die Rechte und Pflichten des Gefangenen sind auch auf Täter anwendbar, die nach bisherigem Recht verurteilt wurden.
 
-[^215-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^215-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Verjährung
 
@@ -4144,7 +4143,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 [^218-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. März 1968 ([AS 1968 212](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [BBl 1967 I 581](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
 [^218-2]: Fassung gemäss Ziff. III des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
-[^218-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245). Heute: von Art. 2 BetmG.
+[^218-3]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339). Heute: von Art. 2 BetmG.
 [^218-4]: Eingefügt durch Ziff. II des BG vom 21. Juni 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2512](https://fedlex.data.admin.ch/eli/oc/1991/2512_2512_2512); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Bürgerliche Gerichtsbarkeit
@@ -4267,11 +4266,9 @@ Ist jemand mehrerer strafbarer Handlungen beschuldigt, die teils der militärisc
 
 [^book3-tit6-1]: Fassung gemäss Ziff. III des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 
-### **Art. 228**<sup>─</sup>**232**
+****Art. 228**─**232**[^228232-1]**
 
-[^book3-tit6-lvlu1-1]
-
-[^book3-tit6-lvlu1-1]: Aufgehoben durch Ziff. III des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^228232-1]: Aufgehoben durch Ziff. III des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 
 ### Siebter Titel: Begnadigung und Amnestie
 
@@ -4364,7 +4361,7 @@ Bei Urteilen nach dem Militärstrafgesetz wird das Recht der Begnadigung ausgeü
 
 Wird in Bundesvorschriften auf Bestimmungen verwiesen, die durch dieses Gesetz geändert oder aufgehoben werden, so sind diese Verweisungen auf die entsprechenden Bestimmungen dieses Gesetzes zu beziehen.
 
-[^234-1]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)). Fassung gemäss Ziff. III des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^234-1]: Fassung gemäss Ziff. III des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 
 ### Vorbehalt geltenden Rechts
 
@@ -4375,8 +4372,8 @@ Vorbehalten bleiben:
 - 1\. die Strafbestimmungen der Verordnung vom 7. Dezember 1925[^235-1] über das militärische Kontrollwesen, die Strafbestimmungen des Bundesgesetzes vom 28. Juni 1878[^235-2] über den Militärpflichtersatz, und andere Bestimmungen des militärpolizeilichen Übertretungsrechtes;
 - 2\.[^235-3] das Disziplinarstrafrecht der Angehörigen des Grenzwachtkorps.
 
-[^235-1]: [AS **41** 755, **51** 171. BS **5** 398 Art. 92 Abs. 1]. Heute: die Strafbestimmungen der V vom 10. Dez. 2004 ([SR 511.22](https://fedlex.data.admin.ch/eli/cc/2004/817)).
-[^235-2]: [BS **5** 565. [AS 1959 2035](https://fedlex.data.admin.ch/eli/oc/1959/2035_2097_2125)Art. 48 Abs. 2 Bst. a]. Heute: die Strafbestimmungen des BG vom 12. Juni 1959 über die Wehrpflichtersatzabgabe ([SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)).
+[^235-1]: [AS **41** 755, **51** 171. BS **5** 398 Art. 92 Abs. 1]. Heute: die Strafbestimmungen der V vom 10. Dez. 2004 ([SR 511.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7392)).
+[^235-2]: [BS **5** 565. [AS 1959 2035](https://fedlex.data.admin.ch/eli/oc/1959/2035_2097_2125)Art. 48 Abs. 2 Bst. a]. Heute: die Strafbestimmungen des BG vom 12. Juni 1959 über die Wehrpflichtersatzabgabe ([SR 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)).
 [^235-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 
 ### Dem Militärstrafrecht unterstelltes Personal
@@ -4430,7 +4427,7 @@ Dieses Gesetz tritt mit dem 1. Januar 1928 in Kraft.
 [^u2-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^u2-3]: [AS 1975 55](https://fedlex.data.admin.ch/eli/oc/1975/55_55_55), [1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)
 [^u2-4]: [AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)
-[^u2-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^u2-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^u2-6]: Aufgehoben durch Anhang 1 Ziff. 7 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Übergangsbestimmung zur Änderung vom 19. Juni 2015

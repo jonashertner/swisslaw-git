@@ -4,18 +4,18 @@ title: Codice penale militare del 13 giugno 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20240701/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20250101/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20250101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale militare
 
-del 13 giugno 1927 (Stato 1° luglio 2024)
+del 13 giugno 1927 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -23,8 +23,8 @@ visti gli articoli 60 e 123 capoversi 1 e 3 della Costituzione federale[^ingress
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I n. 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^ingress-3]: FF **1918** II 241
 
 ## Libro primo: Diritto penale militare
@@ -33,7 +33,7 @@ decreta:
 
 [^book1-part1-1]
 
-[^book1-part1-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^book1-part1-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Capo primo: Del campo d’applicazione
 
@@ -73,13 +73,13 @@ Sono sottoposti al diritto penale militare:
 
 <sup>2</sup> Le persone di cui al capoverso 1 numeri 1, 2, 6, e 8 sono assoggettate al diritto penale militare per tutta la durata del loro impiego all’estero qualora commettano all’estero un reato ai sensi del presente codice.
 
-[^3-1]: Nuovo testo giusta il n. IV lett. a della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 6989](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^3-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^3-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
+[^3-1]: Nuovo testo giusta la cifra IV lett. a della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 6989](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^3-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
+[^3-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-4]: Nuovo testo giusta l’all. n. 3 della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^3-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^3-6]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^3-7]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^3-5]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^3-6]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
+[^3-7]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Estensione in caso di servizio attivo
 
@@ -126,9 +126,9 @@ In tempo di guerra sono sottoposte al diritto penale militare, oltre alle person
 
 <sup>2</sup> Alle disposizioni di cui al capoverso 1 numeri 1 lettera d e 5 si applicano le disposizioni sulla punibilità dei superiori (art. 114*a*).[^5-3]
 
-[^5-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^5-2]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^5-3]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^5-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^5-2]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^5-3]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Tempo di guerra
 
@@ -148,7 +148,7 @@ In tempo di guerra sono sottoposte al diritto penale militare, oltre alle person
 
 <sup>2</sup> Se a un reato comune (art. 115–179), a un genocidio, a un crimine contro l’umanità (art. 108, 109 e 114*a*) o a un crimine di guerra (art. 110–114*a* e 139) hanno partecipato, insieme a persone sottoposte al diritto penale militare, anche altre persone, queste rimangono soggette al diritto penale ordinario. È fatto salvo l’articolo 221*a*.
 
-[^7-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^7-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Applicazione del diritto penale ordinario
 
@@ -167,7 +167,7 @@ Le persone soggette al diritto penale militare rimangono sottoposte alla legge p
 Per le persone che, al momento del fatto, non avevano ancora compiuto i diciott’anni rimangono salve le disposizioni del diritto penale minorile del 20 giugno 2003[^9-2] (DPMin). Se vanno giudicati nel contempo un atto commesso prima del compimento dei diciott’anni e un atto commesso dopo, si applica l’articolo 3 capoverso 2 DPMin. Sono competenti le autorità civili.
 
 [^9-1]: Nuovo testo giusta l’art. 44 n. 3 del diritto penale minorile del 20 giu. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551): FF **1999** 1669).
-[^9-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^9-2]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 ### b. Giovani adulti
 
@@ -177,7 +177,7 @@ Per le persone che, al momento del fatto, non avevano ancora compiuto i diciott�
 
 <sup>2</sup> È parimenti applicabile l’articolo 61 del Codice penale svizzero[^9a-1]. L’autorità competente è quella del Cantone d’esecuzione.
 
-[^9a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9a-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 5. Condizioni di luogo
 
@@ -208,10 +208,10 @@ Fatta salva una crassa violazione dei principi della Costituzione federale e del
 
 <sup>4</sup> Il giudice decide se una misura non eseguita o solo parzialmente eseguita all’estero debba essere eseguita o continuata in Svizzera.
 
-[^10-1]: Introdotto dal n. II della LF del 19 dic. 2003 ([RU 2004 2691](https://fedlex.data.admin.ch/eli/oc/2004/322); [FF 2003 671](https://fedlex.data.admin.ch/eli/fga/2003/143)). Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^10-2]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^10-3]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^10-4]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^10-1]: Introdotto dalla cifra II della LF del 19 dic. 2003 ([RU 2004 2691](https://fedlex.data.admin.ch/eli/oc/2004/322); [FF 2003 671](https://fedlex.data.admin.ch/eli/fga/2003/143)). Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^10-2]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^10-3]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^10-4]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Luogo del reato
 
@@ -324,7 +324,7 @@ Ognuno ha il diritto di respingere in modo adeguato alle circostanze un’aggres
 
 <sup>4</sup> I capoversi 1–3 non sono applicabili se l’autore poteva evitare l’incapacità o la scemata imputabilità e prevedere così l’atto commesso in tale stato.
 
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Dubbio sull’imputabilità
 
@@ -342,7 +342,7 @@ Chiunque commette un reato non sapendo né potendo sapere di agire illecitamente
 
 [^book1-part1-tit2-lvl3-lvlu9-1]
 
-[^book1-part1-tit2-lvl3-lvlu9-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book1-part1-tit2-lvl3-lvlu9-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 #### Art. 20
 
@@ -350,7 +350,7 @@ Chiunque commette un reato non sapendo né potendo sapere di agire illecitamente
 
 <sup>2</sup> È pure punibile il subalterno che commette un reato su ordine di un superiore o eseguendo un altro ordine di carattere vincolante, se al momento del reato era consapevole della punibilità dell’atto. Il giudice può attenuare la pena.[^20-1]
 
-[^20-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^20-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### 4. Tentativo.
 
@@ -414,7 +414,7 @@ Si tiene conto delle speciali relazioni, qualità e circostanze personali che ag
 
 <sup>4</sup> Non soggiace a pena il resoconto veritiero di deliberazioni pubbliche e di comunicazioni ufficiali di un’autorità.
 
-[^27-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Tutela delle fonti
 
@@ -429,9 +429,9 @@ Il capoverso 1 non si applica se il giudice accerta che:
 - a. la testimonianza è necessaria per preservare da un pericolo imminente la vita o l’integrità fisica di una persona; oppure
 - b.[^27a-1] senza testimonianza non è possibile far luce su un omicidio ai sensi degli articoli 115–117 o su un altro crimine punito con una pena detentiva non inferiore a tre anni oppure su un reato ai sensi degli articoli 141–143*a* e 153–156 del presente Codice, degli articoli 197 capoverso 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>septies</sup> del Codice penale svizzero[^27a-2], o ai sensi dell’articolo 19 numero 2 della legge del 3 ottobre 1951[^27a-3] sugli stupefacenti (LStup), o non è possibile catturare il colpevole di un simile reato.
 
-[^27a-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^27a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^27a-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^27a-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^27a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^27a-3]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 ### Capo terzo: Delle pene e delle misure
 
@@ -439,7 +439,7 @@ Il capoverso 1 non si applica se il giudice accerta che:
 
 [^book1-part1-tit3-chap1-1]
 
-[^book1-part1-tit3-chap1-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^book1-part1-tit3-chap1-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### 1. Pena pecuniaria.
 
@@ -455,9 +455,9 @@ Il capoverso 1 non si applica se il giudice accerta che:
 
 <sup>4</sup> Il numero e l’importo delle aliquote giornaliere sono fissati nella sentenza.[^28-3]
 
-[^28-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^28-2]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^28-3]: Introdotto dal n. I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
+[^28-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^28-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^28-3]: Introdotto dalla cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 
 ### Esazione
 
@@ -471,9 +471,9 @@ Il capoverso 1 non si applica se il giudice accerta che:
 
 <sup>4</sup> Per l’esecuzione della pena pecuniaria in forma di lavoro di pubblica utilità si applica l’articolo 79*a* del Codice penale svizzero[^29-2].[^29-3]
 
-[^29-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29-3]: Introdotto dal n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^29-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^29-3]: Introdotto dalla cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Pena detentiva sostitutiva
 
@@ -483,9 +483,9 @@ Il capoverso 1 non si applica se il giudice accerta che:
 
 <sup>2</sup> Se la pena pecuniaria è stata inflitta da un’autorità amministrativa, il giudice decide sulla pena detentiva sostitutiva.
 
-<sup>3</sup> a <sup>5</sup> …[^30-1]
+<sup>3 a <sup>5</sup></sup> …[^30-1]
 
-[^30-1]: Abrogati dal n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^30-1]: Abrogati dalla cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### 2. …
 
@@ -493,7 +493,7 @@ Il capoverso 1 non si applica se il giudice accerta che:
 
 [^3133-1]
 
-[^3133-1]: Abrogati dal n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^3133-1]: Abrogati dalla cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### 3. Pena detentiva.
 
@@ -507,7 +507,7 @@ Il capoverso 1 non si applica se il giudice accerta che:
 
 <sup>2</sup> La durata massima della pena detentiva è di venti anni. La pena detentiva è a vita se la legge lo dichiara espressamente.
 
-[^34-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^34-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Pena detentiva in luogo della pena pecuniaria
 
@@ -526,7 +526,7 @@ Il giudice può pronunciare una pena detentiva invece di una pena pecuniaria se:
 
 <sup>3</sup> Sono salvi gli articoli 30 e 81 capoverso 1<sup>bis</sup>.
 
-[^34a-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^34a-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Esecuzione
 
@@ -536,7 +536,7 @@ Il giudice può pronunciare una pena detentiva invece di una pena pecuniaria se:
 
 <sup>2</sup> In caso di servizio attivo, il Consiglio federale può introdurre l’esecuzione militare della pena detentiva. Esso disciplina i particolari.
 
-[^34b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^34b-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Pena accessoria: degradazione
 
@@ -566,15 +566,15 @@ Il giudice può pronunciare una pena detentiva invece di una pena pecuniaria se:
 
 <sup>4</sup> Oltre alla pena condizionalmente sospesa il giudice può infliggere una multa ai sensi dell’articolo 60*c*.[^36-3]
 
-[^36-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)). Vedi anche la disp. trans. della mod. del 19 giu. 2015 alla fine del presente testo.
-[^36-2]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^36-3]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^36-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)). Vedi anche la disp. trans. della mod. del 19 giu. 2015 alla fine del presente testo.
+[^36-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^36-3]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### 2. Pena detentiva con condizionale parziale
 
 [^book1-part1-tit3-chap2-lvl2-1]
 
-[^book1-part1-tit3-chap2-lvl2-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^book1-part1-tit3-chap2-lvl2-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 #### Art. 37
 
@@ -584,9 +584,9 @@ Il giudice può pronunciare una pena detentiva invece di una pena pecuniaria se:
 
 <sup>3</sup> La parte sospesa e la parte da eseguire devono essere di almeno sei mesi. Le norme sulla concessione della liberazione condizionale (art. 86 del Codice penale svizzero[^37-2]) non sono applicabili alla parte da eseguire.[^37-3]
 
-[^37-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^37-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^37-3]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^37-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^37-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^37-3]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### 3. Disposizioni comuni.
 
@@ -618,7 +618,7 @@ Se il condannato supera con successo il periodo di prova, la pena sospesa non è
 
 <sup>4</sup> La revoca non può più essere ordinata dopo tre anni dalla scadenza del periodo di prova.
 
-[^40-1]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^40-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### III. Della commisurazione della pena
 
@@ -672,7 +672,7 @@ Il giudice attenua la pena se:
 
 <sup>3</sup> Nella commisurazione della pena unica secondo i capoversi 1 e 2, i reati che l’autore avesse commesso prima di aver compiuto i diciott’anni non devono incidere più di quanto sarebbe stato se fossero stati giudicati singolarmente.
 
-[^43-1]: Introdotto dal n. I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
+[^43-1]: Introdotto dalla cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 
 ### 4. Computo del carcere preventivo
 
@@ -680,7 +680,7 @@ Il giudice attenua la pena se:
 
 Il giudice computa nella pena il carcere preventivo scontato nell’ambito del procedimento in atto o di un altro procedimento. Un giorno di carcere corrisponde a un’aliquota giornaliera di pena pecuniaria.[^44-1]
 
-[^44-1]: Nuovo testo del secondo per. giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^44-1]: Nuovo testo del secondo per. giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### IV. Dell’impunità e della sospensione del procedimento
 
@@ -702,7 +702,7 @@ Se l’autore ha risarcito il danno o ha intrapreso tutto quanto si poteva ragio
 - b. l’interesse del pubblico e del danneggiato all’attuazione del procedimento penale sia di scarsa importanza; e
 - c. l’autore ammetta i fatti.
 
-[^45-1]: Nuovo testo giusta il n. I 3 della LF del 14 dic. 2018 che modifica la disciplina della riparazione, in vigore dal 1° lug. 2019 ([RU 2019 1809](https://fedlex.data.admin.ch/eli/oc/2019/336); [FF 2018 3193](https://fedlex.data.admin.ch/eli/fga/2018/1409)[4223](https://fedlex.data.admin.ch/eli/fga/2018/1707)).
+[^45-1]: Nuovo testo giusta la cifra I n. 3 della LF del 14 dic. 2018 che modifica la disciplina della riparazione, in vigore dal 1° lug. 2019 ([RU 2019 1809](https://fedlex.data.admin.ch/eli/oc/2019/336); [FF 2018 3193](https://fedlex.data.admin.ch/eli/fga/2018/1409)[4223](https://fedlex.data.admin.ch/eli/fga/2018/1707)).
 
 ### Autore duramente colpito
 
@@ -761,16 +761,16 @@ La sospensione provvisoria non è ammessa se:
 
 <sup>5</sup> Un procedimento disciplinare non entra in considerazione.
 
-[^46b-1]: Introdotto dal n. II della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), in vigore dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226)[1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^46b-1]: Introdotto dalla cifra II della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), in vigore dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226)[1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 [^46b-2]: Nuovo testo giusta l’art. 37 n. 2 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^46b-3]: Nuovo testo giusta il n. I 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^46b-4]: Introdotta dal n. I 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^46b-5]: Nuovo testo giusta il n. I 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^46b-6]: Nuovo testo giusta il n. I 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^46b-7]: Introdotto dal n. I 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^46b-8]: Introdotto dal n. I 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^46b-9]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^46b-10]: Nuovo testo giusta il n. I 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^46b-3]: Nuovo testo giusta la cifra I n. 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^46b-4]: Introdotta dalla cifra I n. 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^46b-5]: Nuovo testo giusta la cifra I n. 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^46b-6]: Nuovo testo giusta la cifra I n. 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^46b-7]: Introdotto dalla cifra I n. 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^46b-8]: Introdotto dalla cifra I n. 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^46b-9]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^46b-10]: Nuovo testo giusta la cifra I n. 4 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 ### V. Delle misure
 
@@ -784,7 +784,7 @@ La sospensione provvisoria non è ammessa se:
 
 <sup>3</sup> Le misure sono eseguite secondo il Codice penale svizzero.
 
-[^47-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^47-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Esclusione dall’esercito come misura di sicurezza
 
@@ -804,7 +804,7 @@ La sospensione provvisoria non è ammessa se:
 
 <sup>2</sup> Il giudice può escludere dall’esercito il condannato a un’altra pena.
 
-[^49-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 1*a*. Espulsione.
 
@@ -816,7 +816,7 @@ La sospensione provvisoria non è ammessa se:
 
 <sup>1</sup>
 
-Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici anni anni lo straniero condannato per uno dei seguenti reati, a prescindere dall’entità della pena inflitta:
+Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici anni lo straniero condannato per uno dei seguenti reati, a prescindere dall’entità della pena inflitta:
 
 - a. omicidio intenzionale (art. 115), assassinio (art. 116), omicidio passionale (art. 117), incitamento e aiuto al suicidio (art. 119);
 - b. lesioni personali gravi (art. 121), aggressione (art. 128*a*);
@@ -831,11 +831,11 @@ Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici ann
 
 <sup>3</sup> Il giudice può inoltre rinunciare a pronunciare l’espulsione se il fatto è stato commesso per legittima difesa discolpante (art. 16*a* cpv. 1) o in stato di necessità discolpante (art. 17*a* cpv. 1).
 
-[^49a-1]: Introdotto dal n. I 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49a-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^49a-3]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^49a-4]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^49a-5]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^49a-1]: Introdotto dalla cifra I n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^49a-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49a-3]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^49a-4]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49a-5]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 ### b. Espulsione non obbligatoria
 
@@ -845,8 +845,8 @@ Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici ann
 
 Il giudice può espellere dal territorio svizzero per un tempo da tre a quindici anni lo straniero condannato a una pena o nei confronti del quale è pronunciata una misura ai sensi degli articoli 59–61 o 64 del Codice penale svizzero[^49abis-2] per un crimine o un delitto non previsto nell’articolo 49*a*.
 
-[^49abis-1]: Introdotto dal n. I 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49abis-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49abis-1]: Introdotto dalla cifra I n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^49abis-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### c. Disposizioni comuni. Recidiva
 
@@ -858,7 +858,7 @@ Il giudice può espellere dal territorio svizzero per un tempo da tre a quindici
 
 <sup>2</sup> L’espulsione può essere pronunciata a vita se il condannato commette il nuovo reato mentre ha ancora effetto l’espulsione per il reato precedente.
 
-[^49b-1]: Introdotto dal n. I 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^49b-1]: Introdotto dalla cifra I n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 ### d. Esecuzione
 
@@ -868,8 +868,8 @@ Il giudice può espellere dal territorio svizzero per un tempo da tre a quindici
 
 L’esecuzione è retta dagli articoli 66*c* e 66*d* del Codice penale svizzero[^49c-2].
 
-[^49c-1]: Introdotto dal n. I 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49c-1]: Introdotto dalla cifra I n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^49c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. Interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate
 
@@ -910,22 +910,22 @@ Nei casi di esigua gravità, il giudice può, a titolo eccezionale, prescindere 
 
 <sup>6</sup> Il giudice può ordinare un’assistenza riabilitativa per la durata dell’interdizione.[^50-13]
 
-<sup>7</sup> ...[^50-14]
+<sup>7</sup> …[^50-14]
 
-[^50-1]: Nuovo testo giusta il n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^50-2]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^50-3]: Introdotto dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^50-5]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^50-6]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^50-7]: Nuovo testo giusta il n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-8]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^50-9]: Nuovo testo giusta il n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-10]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^50-11]: Introdotto dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-12]: Nuovo testo giusta il n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-13]: Nuovo testo giusta il n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-14]: Abrogato dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), con effetto dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-1]: Nuovo testo giusta la cifra I n. 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^50-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^50-3]: Introdotto dalla cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^50-5]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^50-6]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^50-7]: Nuovo testo giusta la cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-8]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^50-9]: Nuovo testo giusta la cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-10]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^50-11]: Introdotto dalla cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-12]: Nuovo testo giusta la cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-13]: Nuovo testo giusta la cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-14]: Abrogato dalla cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), con effetto dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### Contenuto e portata
 
@@ -935,7 +935,7 @@ Nei casi di esigua gravità, il giudice può, a titolo eccezionale, prescindere 
 
 <sup>1</sup> Sono considerate attività professionali ai sensi dellʼarticolo 50 le attività svolte nellʼesercizio, a titolo principale o accessorio, di una professione, di unʼindustria o di un commercio. Sono considerate attività extraprofessionali organizzate le attività svolte senza scopo di lucro o senza prevalente scopo di lucro nellʼambito di unʼassociazione o di unʼaltra organizzazione.
 
-<sup>2</sup> Lʼinterdizione ai sensi dellʼarticolo 50 vieta allʼautore di esercitare attività a titolo indipendente o in veste di organo di una persona giuridica o di una società commerciale, nonché di mandatario o rappresentante di terzi, come pure di farle esercitare da una persona sottoposta alle sue istruzioni.
+<sup>2</sup> Lʼinterdizione ai sensi dellʼarticolo 50 vieta allʼautore di esercitare attività a titolo indipendente o in veste di organo di una persona giuridica o di una società commerciale o in un’altra funzione da iscrivere nel registro di commercio, nonché di mandatario o rappresentante di terzi, come pure di farle esercitare da una persona sottoposta alle sue istruzioni.[^50a-2]
 
 <sup>3</sup> Se sussiste il rischio che lʼautore abusi della sua attività per commettere reati anche se sottoposto alle istruzioni e al controllo di un superiore o di un sorvegliante, lʼinterdizione verte sulla totalità dellʼattività considerata.
 
@@ -959,13 +959,14 @@ Sono considerate attività implicanti un contatto regolare con minorenni o altre
   - 8\. il trasporto,
   - 9\. la vendita e il prestito diretti di oggetti destinati specificamente ai minorenni o ad altre persone particolarmente vulnerabili, nonché l’attività di intermediario diretto in tale vendita o prestito, se essa rappresenta l’attività principale della persona in questione;
 
-- b. altre attività, esercitate soprattutto o regolarmente in istituti che offrono servizi di cui alla lettera a; sono eccettuate le attività per le quali è certo che, a causa della loro ubicazione o del loro orario, non possono implicare alcun contatto con minorenni o altre persone particolarmente vulnerabili.[^50a-2]
+- b. altre attività, esercitate soprattutto o regolarmente in istituti che offrono servizi di cui alla lettera a; sono eccettuate le attività per le quali è certo che, a causa della loro ubicazione o del loro orario, non possono implicare alcun contatto con minorenni o altre persone particolarmente vulnerabili.[^50a-3]
 
-<sup>6</sup> Sono considerate particolarmente vulnerabili le persone che, a causa dell’età, di una malattia o di una deficienza fisica, mentale o psichica di lunga durata, dipendono dall’aiuto di terzi nelle attività della vita quotidiana o nella determinazione della loro esistenza.[^50a-3]
+<sup>6</sup> Sono considerate particolarmente vulnerabili le persone che, a causa dell’età, di una malattia o di una deficienza fisica, mentale o psichica di lunga durata, dipendono dall’aiuto di terzi nelle attività della vita quotidiana o nella determinazione della loro esistenza.[^50a-4]
 
-[^50a-1]: Nuovo testo giusta il n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^50a-2]: Introdotto dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50a-3]: Introdotto dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50a-1]: Nuovo testo giusta la cifra I n. 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^50a-2]: Nuovo testo giusta la cifra I n. 4 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^50a-3]: Introdotto dalla cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50a-4]: Introdotto dalla cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### b. Divieto di avere contatti e di accedere ad aree determinate
 
@@ -989,7 +990,7 @@ Pronunciando il divieto di avere contatti o di accedere ad aree determinate il g
 
 <sup>5</sup> Se necessario per trattenere lʼautore dal commettere nuovi crimini o delitti contro un minorenne o una persona particolarmente vulnerabile, su proposta dellʼautorità di esecuzione il giudice può prorogare il divieto di volta in volta per cinque anni al massimo.
 
-[^50b-1]: Nuovo testo giusta il n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^50b-1]: Nuovo testo giusta la cifra I n. 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### c. Disposizioni comuni.
 
@@ -1013,7 +1014,7 @@ Lʼautore può chiedere allʼautorità competente di ridurre la durata o attenua
 
 - a. dopo almeno due anni di esecuzione, nel caso di unʼinterdizione di cui allʼarticolo 50 capoverso 1 o di un divieto di cui allʼarticolo 50*b*;
 - b. trascorsa la metà della durata dellʼinterdizione, ma dopo almeno tre anni di esecuzione, nel caso di unʼinterdizione di durata determinata di cui allʼarticolo 50 capoverso 2;
-- c.[^50c-3] ...
+- c.[^50c-3] …
 - d.[^50c-4] dopo almeno dieci anni di esecuzione, nel caso di un’interdizione a vita di cui all’articolo 50 capoverso 2<sup>bis</sup>.
 
 <sup>6</sup> Nei casi di cui al capoverso 4 o 5, lʼautorità competente sopprime lʼinterdizione o il divieto se non vi è da temere che lʼautore commetta altri crimini o delitti nellʼesercizio dellʼattività in questione o nel caso in cui abbia contatti con determinate persone o con i membri di un gruppo determinato e se lʼautore ha, per quanto si potesse ragionevolmente pretendere, risarcito il danno da lui causato.
@@ -1028,13 +1029,13 @@ Lʼautore può chiedere allʼautorità competente di ridurre la durata o attenua
 
 <sup>9</sup> Se, durante il periodo di prova, il condannato disattende un’interdizione di esercitare un’attività o un divieto di avere contatti e di accedere ad aree determinate, sono applicabili l’articolo 294 del Codice penale svizzero e le disposizioni del Codice penale svizzero sulla revoca della sospensione condizionale della pena, nonché sul ripristino dell’esecuzione della pena o della misura.[^50c-7]
 
-[^50c-1]: Introdotto dal n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^50c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^50c-3]: Abrogata dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), con effetto dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50c-4]: Nuovo testo giusta il n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50c-5]: Introdotto dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50c-6]: Introdotto dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50c-7]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^50c-1]: Introdotto dalla cifra I n. 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^50c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^50c-3]: Abrogata dalla cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), con effetto dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50c-4]: Nuovo testo giusta la cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50c-5]: Introdotto dalla cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50c-6]: Introdotto dalla cifra I n. 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50c-7]: Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Modifica o pronuncia a posteriori di unʼinterdizione o di un divieto
 
@@ -1046,7 +1047,7 @@ Lʼautore può chiedere allʼautorità competente di ridurre la durata o attenua
 
 <sup>2</sup> Se durante lʼesecuzione di una pena detentiva o di una misura privativa della libertà si constata che lʼautore adempie le condizioni per unʼinterdizione di cui allʼarticolo 50 capoverso 1 o 2 oppure per un divieto di cui allʼarticolo 50*b*, il giudice può ordinarli a posteriori su proposta dellʼautorità di esecuzione.
 
-[^50d-1]: Introdotto dal n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^50d-1]: Introdotto dalla cifra I n. 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### 3. Divieto di condurre
 
@@ -1057,7 +1058,7 @@ Lʼautore può chiedere allʼautorità competente di ridurre la durata o attenua
 Se l’autore ha utilizzato un veicolo a motore per commettere un crimine o un delitto e sussiste il rischio di un ulteriore abuso, il giudice può ordinare congiuntamente a una pena o a una misura secondo gli articoli 59–64 del Codice penale svizzero[^50e-2] il ritiro della licenza di allievo conducente o della licenza di condurre per una durata da un mese a cinque anni.
 
 [^50e-1]: Originario art. 50*a*<sup>bis</sup>.
-[^50e-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^50e-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Pubblicazione della sentenza
 
@@ -1119,8 +1120,8 @@ Se l’autore ha utilizzato un veicolo a motore per commettere un crimine o un d
 
 Il giudice ordina la confisca di tutti i valori patrimoniali di cui un’organizzazione criminale o terroristica ha facoltà di disporre. I valori appartenenti a una persona che abbia partecipato a una simile organizzazione o l’abbia sostenuta (art. 260<sup>ter</sup> del Codice penale svizzero[^52-2]) sono presunti sottoposti, fino a prova del contrario, alla facoltà di disporre dell’organizzazione.
 
-[^52-1]: Nuovo testo giusta l’all. n. II 4 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^52-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^52-1]: Nuovo testo giusta l’all. cifra II n. 4 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^52-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 6. Assegnamenti al danneggiato
 
@@ -1146,7 +1147,7 @@ Se, in seguito a un crimine o a un delitto, alcuno patisce un danno non coperto 
 
 Sono applicabili gli articoli 93–96 del Codice penale svizzero[^54-1].
 
-[^54-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^54-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Capo quinto: Della prescrizione
 
@@ -1171,8 +1172,8 @@ L’azione penale si prescrive:
 
 <sup>4</sup> La prescrizione dell’azione penale in caso di atti sessuali con fanciulli (art. 156) e di reati secondo gli articoli 115–117, 121 e 153–155, commessi su fanciulli minori di sedici anni, è retta dai capoversi 1–3 se il reato è stato commesso prima dell’entrata in vigore della modifica del presente Codice del 5 ottobre 2001[^55-3] e il relativo termine di prescrizione non è ancora scaduto a tale data.
 
-[^55-1]: Nuovo testo giusta il n. I 2 della LF del 21 giu. 2013 (Prolungamento dei termini di prescrizione dell’azione penale), in vigore dal 1° gen. 2014 ([RU 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [FF 2012 8119](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
-[^55-2]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^55-1]: Nuovo testo giusta la cifra I n. 2 della LF del 21 giu. 2013 (Prolungamento dei termini di prescrizione dell’azione penale), in vigore dal 1° gen. 2014 ([RU 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [FF 2012 8119](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
+[^55-2]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^55-3]: [RU 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430), [3146](https://fedlex.data.admin.ch/eli/oc/2002/465)
 
 ### Decorrenza
@@ -1234,10 +1235,10 @@ Sono imprescrittibili:
 
 <sup>3</sup> I capoversi 1 lettere a, c e d nonché 2 si applicano se il 1° gennaio 1983 l’azione penale o la pena non era ancora caduta in prescrizione secondo il diritto sino allora vigente. Il capoverso 1 lettera b si applica se al momento dell’entrata in vigore della modifica del 18 giugno 2010 della presente legge l’azione penale o la pena non era ancora caduta in prescrizione secondo il diritto sino allora vigente. Il capoverso 1 lettera e si applica se il 30 novembre 2008 l’azione penale o la pena non era ancora caduta in prescrizione secondo il diritto sino allora vigente.[^59-3] [^59-4]
 
-[^59-1]: Introdotta dal n. I 3 della LF del 15 giu. 2012 (Imprescrittibilità dei reati sessuali o di pornografia commessi su fanciulli impuberi) ([RU 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5393](https://fedlex.data.admin.ch/eli/fga/2011/883)). Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^59-2]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^59-3]: Per. introdotto dal n. I 1 della LF del 15 giu. 2012 (Imprescrittibilità dei reati sessuali o di pornografia commessi su fanciulli impuberi), in vigore dal 1° gen. 2013 ([RU 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5393](https://fedlex.data.admin.ch/eli/fga/2011/883)).
-[^59-4]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^59-1]: Introdotta dalla cifra I n. 3 della LF del 15 giu. 2012 (Imprescrittibilità dei reati sessuali o di pornografia commessi su fanciulli impuberi) ([RU 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5393](https://fedlex.data.admin.ch/eli/fga/2011/883)). Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^59-2]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^59-3]: Per. introdotto dalla cifra I n. 1 della LF del 15 giu. 2012 (Imprescrittibilità dei reati sessuali o di pornografia commessi su fanciulli impuberi), in vigore dal 1° gen. 2013 ([RU 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5393](https://fedlex.data.admin.ch/eli/fga/2011/883)).
+[^59-4]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Capo sesto: Della responsabilità dell’impresa
 
@@ -1257,7 +1258,6 @@ Sono considerate imprese ai sensi del presente articolo:
 
 - a. le persone giuridiche di diritto privato;
 - b. le persone giuridiche di diritto pubblico, eccettuati gli enti territoriali;
-
 - c. le società;
 - d. le ditte individuali.
 
@@ -1295,9 +1295,9 @@ Le disposizioni della parte prima del presente Codice si applicano anche alle co
 
 <sup>3</sup> Le misure privative della libertà (art. 59–61 e 64 del Codice penale svizzero[^60b-2]), lʼinterdizione di esercitare unʼattività (art. 50), il divieto di avere contatti e di accedere ad aree determinate (art. 50*b*) nonché la pubblicazione della sentenza (art. 50*f*) sono ammessi soltanto nei casi espressamente previsti dalla legge.[^60b-3]
 
-[^60b-1]: Nuovo testo giusta il n. I 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^60b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^60b-3]: Nuovo testo giusta il n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^60b-1]: Nuovo testo giusta la cifra I n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^60b-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^60b-3]: Nuovo testo giusta la cifra I n. 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### Multa
 
@@ -1313,13 +1313,13 @@ Le disposizioni della parte prima del presente Codice si applicano anche alle co
 
 <sup>5</sup> Per l’esazione e la commutazione si applicano per analogia gli arti-coli 29 e 30 capoverso 2.[^60c-1]
 
-[^60c-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^60c-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 60d
 
 [^60d-1]
 
-[^60d-1]: Abrogato dal n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^60d-1]: Abrogato dalla cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Prescrizione
 
@@ -1345,7 +1345,7 @@ L’azione penale e la pena si prescrivono in tre anni.
 
 <sup>4</sup> In tempo di guerra può essere pronunciata una pena detentiva. Se la disobbedienza avviene di fronte al nemico, può essere pronunciata la pena detentiva a vita.
 
-[^61-1]: Nuovo testo giusta il n. IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^61-1]: Nuovo testo giusta la cifra IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
 
 ### Vie di fatto, minacce
 
@@ -1357,10 +1357,10 @@ L’azione penale e la pena si prescrivono in tre anni.
 
 <sup>3</sup> In tempo di guerra può essere pronunciata una pena detentiva[^62-3] fino a cinque anni.[^62-4]
 
-[^62-1]: Nuova espr. giusta il n. II 1 cpv. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^62-2]: Nuovo testo giusta il n. I 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
-[^62-3]: Nuova espr. giusta il n. II 1 cpv. 1 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^62-4]: Introdotto dal n. I 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^62-1]: Nuova espr. giusta la cifra II n. 1 cpv. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^62-2]: Nuovo testo giusta la cifra I n. 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^62-3]: Nuova espr. giusta la cifra II n. 1 cpv. 1 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^62-4]: Introdotto dalla cifra I n. 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Sedizione
 
@@ -1374,8 +1374,8 @@ Gli agenti principali sono puniti più severamente; lo stesso avviene degli uffi
 
 <sup>2.</sup> Se la sedizione avviene in faccia al nemico, può essere pronunciata la pena detentiva a vita.[^63-2]
 
-[^63-1]: Nuova espr. giusta il n. II 1 cpv. 15 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^63-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^63-1]: Nuova espr. giusta la cifra II n. 1 cpv. 15 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^63-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Concerto per la sedizione
 
@@ -1463,8 +1463,8 @@ chiunque fa scientemente un rapporto inveritiero sopra un reclamo o una denuncia
 
 <sup>4</sup> In tempo di guerra può essere pronunciata la pena detentiva o pecuniaria.
 
-[^72-1]: Nuovo testo giusta il n. IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^72-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^72-1]: Nuovo testo giusta la cifra IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^72-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Abuso e sperpero di materiali
 
@@ -1482,8 +1482,8 @@ chiunque adopera abusivamente tali cose a lui accessibili,
 
 <sup>3.</sup> In tempo di guerra può essere pronunciata una pena detentiva.
 
-[^73-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^73-2]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^73-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^73-2]: Introdotto dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Vigliaccheria
 
@@ -1493,8 +1493,8 @@ chiunque adopera abusivamente tali cose a lui accessibili,
 
 Chiunque, in faccia al nemico, per vigliaccheria si tiene nascosto, fugge od abbandona arbitrariamente il suo posto, è punito con la pena detentiva a vita o con una pena detentiva[^74-2].
 
-[^74-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
-[^74-2]: Nuova espr. giusta il n. II 1 cpv. 16 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^74-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^74-2]: Nuova espr. giusta la cifra II n. 1 cpv. 16 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Capitolazione
 
@@ -1508,7 +1508,7 @@ il comandante di una fortezza o di un’altra piazza fortificata che la ceda sen
 
 il comandante di truppa, che nel combattimento abbandoni il suo posto o si arrenda con la sua truppa, senza avere prima fatto tutto quanto il suo dovere militare esigeva da lui.
 
-[^75-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^75-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Reati nel servizio di guardia
 
@@ -1518,7 +1518,7 @@ il comandante di truppa, che nel combattimento abbandoni il suo posto o si arren
 
 chiunque arbitrariamente abbandona il proprio posto di guardia o trasgredisce in altro modo le disposizioni sul servizio di guardia,
 
-è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. [^76-1]
+è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^76-1]
 
 1<sup>bis</sup>. Chiunque per negligenza si mette in istato di non poter adempiere i suoi doveri di servizio come guardia, è punito con una pena pecuniaria.[^76-2]
 
@@ -1556,7 +1556,7 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>2.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^78-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^78-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Omessa denuncia di reato
 
@@ -1582,9 +1582,9 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 
 <sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^80-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^80-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^80-3]: Nuovo testo del per. 2 giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^80-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^80-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^80-3]: Nuovo testo del per. 2 giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Capo quarto: Dei reati contro i doveri del servizio
 
@@ -1619,10 +1619,10 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 
 [^81-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^81-2]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^81-3]: Nuovo testo giusta il n. IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^81-4]: Introdotto dal n. IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968). Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^81-5]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^81-6]: Nuovo testo giusta il n. II 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^81-3]: Nuovo testo giusta la cifra IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^81-4]: Introdotto dalla cifra IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968). Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^81-5]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^81-6]: Nuovo testo giusta la cifra II n. 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Omissione del servizio e assenza ingiustificata
 
@@ -1649,11 +1649,11 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 <sup>5</sup> È fatto salvo l’articolo 84.[^82-6]
 
 [^82-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^82-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^82-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^82-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^82-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^82-5]: Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^82-6]: Nuovo testo giusta il n. II 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^82-4]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^82-5]: Nuovo testo giusta la cifra II n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^82-6]: Nuovo testo giusta la cifra II n. 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Omissione del servizio per negligenza
 
@@ -1678,11 +1678,11 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 <sup>4</sup> È fatto salvo l’articolo 84.[^83-6]
 
 [^83-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^83-2]: Nuova espr. giusta il n. II 1 cpv. 5 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^83-2]: Nuova espr. giusta la cifra II n. 1 cpv. 5 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 [^83-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^83-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^83-5]: Nuova espr. giusta il n. II 1 cpv. 17 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^83-6]: Nuovo testo giusta il n. II 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-4]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^83-5]: Nuova espr. giusta la cifra II n. 1 cpv. 17 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^83-6]: Nuovo testo giusta la cifra II n. 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Reati contro i doveri del servizio in caso di ammissione al servizio civile, assegnazione al servizio non armato e inabilità al servizio
 
@@ -1702,7 +1702,7 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 
 <sup>3</sup> Non è punito chi al momento in cui ha commesso il fatto non era in grado di entrare in servizio.
 
-[^84-1]: Nuovo testo giusta il n. II 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^84-1]: Nuovo testo giusta la cifra II n. 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Omissione illecita di raggiungere il corpo
 
@@ -1722,7 +1722,7 @@ chiunque, durante il tempo di guerra, essendo stato fatto prigioniero di guerra,
 
 [^book1-part2-chap5-lvl1-lvlu1-1]
 
-[^book1-part2-chap5-lvl1-lvlu1-1]: Nuovo testo giusta il n. II della LF del 10 ott. 1997, in vigore dal 1° apr. 1998 (RU **1998** 1852 856; [FF 1996 IV 449](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
+[^book1-part2-chap5-lvl1-lvlu1-1]: Nuovo testo giusta la cifra II della LF del 10 ott. 1997, in vigore dal 1° apr. 1998 (RU **1998** 1852 856; [FF 1996 IV 449](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 
 #### Art. 86
 
@@ -1736,8 +1736,8 @@ chiunque intenzionalmente rivela o rende accessibili a uno Stato estero o ai suo
 
 <sup>3.</sup> Se il colpevole ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-[^86-1]: Nuovo testo giusta il n. II della LF del 10 ott. 1997, in vigore dal 1° apr. 1998 (RU **1998** 1852 856; [FF 1996 IV 449](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
-[^86-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^86-1]: Nuovo testo giusta la cifra II della LF del 10 ott. 1997, in vigore dal 1° apr. 1998 (RU **1998** 1852 856; [FF 1996 IV 449](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
+[^86-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Sabotaggio
 
@@ -1757,8 +1757,8 @@ e scientemente nuoce con ciò alla difesa nazionale o la mette in pericolo,
 
 è punito con una pena detentiva sino a tre anni o con una pena pecuniaria, nei casi gravi con una pena detentiva non inferiore ad un anno[^86a-2].
 
-[^86a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685). Giusta il n. I 1 cpv. 2 della LF del 23 mar. 1979 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)), nella designazione degli articoli, le lettere «a», «b», «c», «d», ecc. sostituiscono i numerali «<sup>bis</sup>», «<sup>ter</sup>», «<sup>quater</sup>», «<sup>quinquies</sup>» ecc.
-[^86a-2]: Nuova espr. giusta il n. II 1 cpv. 17 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^86a-1]: Introdotto dalla cifra I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta la cifra I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685). Giusta la cifra I n. 1 cpv. 2 della LF del 23 mar. 1979 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)), nella designazione degli articoli, le lettere «a», «b», «c», «d», ecc. sostituiscono i numerali «<sup>bis</sup>», «<sup>ter</sup>», «<sup>quater</sup>», «<sup>quinquies</sup>» ecc.
+[^86a-2]: Nuova espr. giusta la cifra II n. 1 cpv. 17 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Tradimento militare
 
@@ -1772,8 +1772,8 @@ e scientemente nuoce con ciò alla difesa nazionale o la mette in pericolo,
 
 <sup>4.</sup> Se il colpevole ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-[^87-1]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^87-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^87-1]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^87-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Franchi tiratori
 
@@ -1783,7 +1783,7 @@ e scientemente nuoce con ciò alla difesa nazionale o la mette in pericolo,
 
 Chiunque, in tempo di guerra, intraprende atti di ostilità contro l’esercito svizzero, senza appartenere alla forza armata nemica riconosciuta dalla Svizzera, è punito con la pena detentiva a vita o con una pena detentiva non inferiore a tre anni.
 
-[^88-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^88-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Diffusione di notizie false
 
@@ -1793,7 +1793,7 @@ Chiunque, in tempo di guerra, intraprende atti di ostilità contro l’esercito 
 
 <sup>2</sup> Se il colpevole ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-[^89-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Uso d’armi contro la Confederazione
 
@@ -1805,7 +1805,7 @@ Chiunque, in tempo di guerra, intraprende atti di ostilità contro l’esercito 
 
 <sup>2</sup> Nei casi gravi, può essere pronunciata la pena detentiva a vita.
 
-[^90-1]: Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^90-1]: Nuovo testo giusta la cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Favoreggiamento del nemico
 
@@ -1821,8 +1821,8 @@ chiunque coopera o sottoscrive ad un prestito di uno Stato in guerra con la Sviz
 
 <sup>2.</sup> Nei casi gravi può essere pronunciata la pena detentiva a vita.[^91-2]
 
-[^91-1]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^91-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^91-1]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^91-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### 2. Violazione della neutralità.
 
@@ -1850,7 +1850,7 @@ chiunque arruola persone per servizi siffatti o li favorisce,
 
 <sup>3.</sup> La corrispondenza ed il materiale sono confiscati.
 
-[^93-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^93-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### 3. Indebolimento della forza difensiva del Paese.
 
@@ -1868,8 +1868,8 @@ chiunque arruola persone per servizi siffatti o li favorisce,
 
 <sup>4</sup> In tempo di guerra può essere pronunciata una pena detentiva.
 
-[^94-1]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
-[^94-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^94-1]: Nuovo testo giusta la cifra I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
+[^94-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mutilazione
 
@@ -1885,7 +1885,7 @@ chiunque mutila od in altro modo rende taluno, con suo consenso, inetto, del tut
 
 <sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.[^95-1]
 
-[^95-1]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^95-1]: Introdotto dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Frode per liberarsi del servizio
 
@@ -1907,8 +1907,8 @@ Se l’inadempimento dipende da negligenza, la pena è una pena detentiva sino a
 
 <sup>2.</sup> Nelle stesse pene incorrono i sottofornitori, mediatori od impiegati che sono stati cagione dell’inadempimento del contratto.
 
-[^97-1]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
-[^97-2]: Nuova espr. giusta il n. II 1 cpv. 3 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^97-1]: Nuovo testo giusta la cifra I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
+[^97-2]: Nuova espr. giusta la cifra II n. 1 cpv. 3 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 4. Attentati contro la sicurezza militare.
 
@@ -1926,7 +1926,7 @@ chiunque incita una persona obbligata al servizio militare a commettere un reato
 
 <sup>3.</sup> Se la provocazione o l’incitamento avviene in faccia al nemico, il colpevole è punito con una pena detentiva.
 
-[^98-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^98-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Mene contro la disciplina militare
 
@@ -1942,7 +1942,7 @@ chiunque si adopera alla formazione di gruppi siffatti o ne segue le istruzioni,
 
 è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^99-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^99-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Turbamento del servizio militare
 
@@ -1956,8 +1956,8 @@ chiunque si adopera alla formazione di gruppi siffatti o ne segue le istruzioni,
 
 <sup>3</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^100-1]: Nuovo testo giusta il n. I 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
-[^100-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^100-1]: Nuovo testo giusta la cifra I n. 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^100-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Ingiurie ad un militare
 
@@ -1989,7 +1989,7 @@ chiunque fa uso di tali ordini od istruzioni contraffatti o alterati,
 
 <sup>2.</sup> Se il colpevole ha agito per negligenza, la pena è una pena pecuniaria.
 
-[^103-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^103-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Incitamento di internati o di prigionieri all’insubordinazione
 
@@ -2009,7 +2009,7 @@ chiunque fa uso di tali ordini od istruzioni contraffatti o alterati,
 
 I compartecipi che hanno commesso atti di violenza contro le persone o le cose sono puniti con una pena detentiva da tre mesi a tre anni o con una pena pecuniaria non inferiore a 90 aliquote giornaliere.[^105-1]
 
-[^105-1]: Nuovo testo del secondo comma giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^105-1]: Nuovo testo del secondo comma giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violazione di segreti militari
 
@@ -2025,9 +2025,9 @@ I compartecipi che hanno commesso atti di violenza contro le persone o le cose s
 
 <sup>4</sup> Nei casi poco gravi si applica una pena disciplinare.[^106-3]
 
-[^106-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
-[^106-2]: Nuovo testo giusta il n. II della LF del 10 ott. 1997, in vigore dal 1° apr. 1998 (RU **1998** 1852 856; [FF 1996 IV 449](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
-[^106-3]: Introdotto dal n. I 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^106-1]: Nuovo testo giusta la cifra I della LF del 5 ott. 1967, in vigore dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
+[^106-2]: Nuovo testo giusta la cifra II della LF del 10 ott. 1997, in vigore dal 1° apr. 1998 (RU **1998** 1852 856; [FF 1996 IV 449](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
+[^106-3]: Introdotto dalla cifra I n. 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Disobbedienza a misure prese dalle autorità militari o civili
 
@@ -2045,13 +2045,13 @@ chiunque intenzionalmente contravviene agli ordini speciali od avvisi emanati pe
 
 <sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^107-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, invigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^107-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, invigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Capo sesto: Genocidio e crimini contro l’umanità
 
 [^book1-part2-chap6-1]
 
-[^book1-part2-chap6-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book1-part2-chap6-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Genocidio
 
@@ -2115,13 +2115,13 @@ Chiunque, nell’ambito di un attacco esteso o sistematico contro popolazioni ci
 
 <sup>3</sup> Nei casi meno gravi rientranti nel campo d’applicazione del capoverso 1 lettere c–j il giudice non può pronunciare una pena detentiva inferiore a un anno.
 
-[^109-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^109-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Capo sesto<sup>bis</sup>: Crimini di guerra
 
 [^book1-part2-chap6bis-1]
 
-[^book1-part2-chap6bis-1]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book1-part2-chap6bis-1]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### 1. Campo d’applicazione
 
@@ -2131,7 +2131,7 @@ Chiunque, nell’ambito di un attacco esteso o sistematico contro popolazioni ci
 
 Gli articoli 112–114 si applicano nel contesto di conflitti armati internazionali, inclusi i casi di occupazione, come pure nel contesto di conflitti armati non internazionali, sempreché non risulti diversamente dalla natura dei reati.
 
-[^110-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^110-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### 2. Gravi violazioni delle Convenzioni di Ginevra
 
@@ -2157,8 +2157,8 @@ Chiunque, nel contesto di un conflitto armato internazionale, viola in modo grav
 
 <sup>4</sup> Nei casi meno gravi rientranti nel campo d’applicazione del capoverso 1 lettere c–g il giudice non può pronunciare una pena detentiva inferiore a un anno.
 
-[^111-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^111-2]: Conv. di Ginevra del 12 ago. 1949 per migliorare la sorte dei feriti e dei malati delle forze armate in campagna (CG I),[RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180);Conv. di Ginevra del 12 ago. 1949 per migliorare la sorte dei feriti, dei malati e dei naufraghi delle forze armate di mare (CG II),[RS 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); Conv. di Ginevra del 12 ago. 1949 relativa al trattamento dei prigionieri di guerra(CG III), [RS 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); Conv. di Ginevra del 12 ago. 1949 per la protezione delle persone civili in tempo di guerra (CG IV),[RS 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297).
+[^111-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^111-2]: Conv. di Ginevra del 12 ago. 1949 per migliorare la sorte dei feriti e dei malati delle forze armate in campagna (CG I),[RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960);Conv. di Ginevra del 12 ago. 1949 per migliorare la sorte dei feriti, dei malati e dei naufraghi delle forze armate di mare (CG II),[RS 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); Conv. di Ginevra del 12 ago. 1949 relativa al trattamento dei prigionieri di guerra(CG III), [RS 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); Conv. di Ginevra del 12 ago. 1949 per la protezione delle persone civili in tempo di guerra (CG IV),[RS 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967).
 
 ### 3. Altri crimini di guerra
 
@@ -2182,8 +2182,8 @@ Chiunque, nel contesto di un conflitto armato, dirige attacchi contro:
 
 <sup>3</sup> Nei casi meno gravi il giudice non può pronunciare una pena detentiva inferiore a un anno.
 
-[^112-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^112-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^112-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^112-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ### b. Trattamento medico ingiustificato, lesione dell’autodetermi- nazione sessuale e della dignità umana
 
@@ -2203,8 +2203,8 @@ Chiunque, nel contesto di un conflitto armato:
 
 <sup>3</sup> Nei casi meno gravi il giudice non può pronunciare una pena detentiva inferiore a un anno.
 
-[^112a-1]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^112a-2]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^112a-1]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^112a-2]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### c. Reclutamento e impiego di bambini-soldato
 
@@ -2218,7 +2218,7 @@ Chiunque, nel contesto di un conflitto armato:
 
 <sup>3</sup> Nei casi meno gravi il giudice non può pronunciare una pena detentiva inferiore a un anno.
 
-[^112b-1]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^112b-1]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### d. Metodi di guerra vietati
 
@@ -2243,7 +2243,7 @@ Chiunque, nel contesto di un conflitto armato:
 
 <sup>3</sup> Nei casi meno gravi il giudice non può pronunciare una pena detentiva inferiore a un anno.
 
-[^112c-1]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^112c-1]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### e. Impiego di armi vietate
 
@@ -2263,7 +2263,7 @@ Chiunque, nel contesto di un conflitto armato:
 
 <sup>2</sup> In casi particolarmente gravi il giudice può pronunciare la pena detentiva a vita.
 
-[^112d-1]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^112d-1]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### 4. Rottura di un armistizio o della pace. Reati contro un parlamentario. Ritardo nel rimpatrio di prigionieri di guerra
 
@@ -2277,7 +2277,7 @@ Chiunque, nel contesto di un conflitto armato:
 - b. maltratta, ingiuria o trattiene senza motivo un parlamentario nemico o una persona che l’accompagna;
 - c. ritarda in modo ingiustificato il rimpatrio di prigionieri di guerra dopo la fine delle operazioni militari.
 
-[^113-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^113-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### 5. Altre violazioni del diritto internazionale umanitario
 
@@ -2289,13 +2289,13 @@ Chiunque, nel contesto di un conflitto armato:
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^114-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^114-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Capo sesto<sup>ter</sup>: Disposizioni comuni ai capi sesto e sesto<sup>bis</sup>
 
 [^book1-part2-chap6ter-1]
 
-[^book1-part2-chap6ter-1]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book1-part2-chap6ter-1]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Punibilità dei superiori
 
@@ -2319,13 +2319,13 @@ Il perseguimento dei reati previsti dai capi sesto e sesto<sup>bis</sup> e dall�
 - f. articolo 16 della legge del 20 marzo 2009[^114b-6] sul Tribunale federale dei brevetti;
 - g. articolo 50 della legge del 19 marzo 2010[^114b-7] sull’organizzazione delle autorità penali.
 
-[^114b-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^114b-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^114b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^114b-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^114b-5]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^114b-6]: [RS 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
-[^114b-7]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^114b-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^114b-2]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^114b-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^114b-4]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^114b-5]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^114b-6]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^114b-7]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ### Capo settimo: Dei reati contro la vita e l’integrità della persona
 
@@ -2339,7 +2339,7 @@ Il perseguimento dei reati previsti dai capi sesto e sesto<sup>bis</sup> e dall�
 
 Chiunque intenzionalmente uccide una persona è punito con una pena detentiva non inferiore a cinque anni, in quanto non ricorrano le condizioni previste negli articoli seguenti.
 
-[^115-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^115-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Assassinio
 
@@ -2349,8 +2349,8 @@ Chiunque intenzionalmente uccide una persona è punito con una pena detentiva no
 
 <sup>2</sup> …[^116-2]
 
-[^116-1]: Nuovo testo giusta il n. II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^116-2]: Abrogato dal n. I della LF del 20 mar. 1992, con effetto dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^116-1]: Nuovo testo giusta la cifra II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^116-2]: Abrogato dalla cifra I della LF del 20 mar. 1992, con effetto dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Omicidio passionale
 
@@ -2360,8 +2360,8 @@ Chiunque intenzionalmente uccide una persona è punito con una pena detentiva no
 
 Se il colpevole ha agito cedendo ad una violenta commozione dell’animo scusabile per le circostanze o in stato di profonda prostrazione, la pena è una pena detentiva da uno a dieci anni[^117-2].
 
-[^117-1]: Nuovo testo giusta il n. II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^117-2]: Nuova espr. giusta il n. II 1 cpv. 22 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^117-1]: Nuovo testo giusta la cifra II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^117-2]: Nuova espr. giusta la cifra II n. 1 cpv. 22 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Omicidio su richiesta della vittima
 
@@ -2371,7 +2371,7 @@ Se il colpevole ha agito cedendo ad una violenta commozione dell’animo scusabi
 
 Chiunque, per motivi onorevoli, segnatamente per pietà, cagiona la morte di una persona a sua seria e insistente richiesta, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^118-1]: Nuovo testo giusta il n. II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^118-1]: Nuovo testo giusta la cifra II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Incitamento e aiuto al suicidio
 
@@ -2387,7 +2387,7 @@ Chiunque per motivi egoistici incita alcuno al suicidio o gli presta aiuto è pu
 
 Chiunque per negligenza cagiona la morte di alcuno è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^120-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^120-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### 2. Lesioni personali.
 
@@ -2407,8 +2407,8 @@ chiunque intenzionalmente cagiona un altro grave danno al corpo od alla salute f
 - b. mutila il corpo, un organo o arto importante di una persona, o le produce la perdita dell’uso di un tale organo o arto, o le cagiona permanentemente incapacità al lavoro, infermità o malattia mentale, o le sfregia in modo grave e permanente il viso;
 - c. cagiona un altro grave danno al corpo od alla salute fisica o mentale di una persona.
 
-[^121-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^121-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^121-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^121-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Lesioni semplici. Vie di fatto
 
@@ -2418,15 +2418,15 @@ chiunque intenzionalmente cagiona un altro grave danno al corpo od alla salute f
 
 Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>2.</sup> e 3. ...[^122-1]
+<sup>2.</sup> e 3. …[^122-1]
 
-[^122-1]: Abrogati dal n. II della LF del 23 giu. 1989, con effetto dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^122-1]: Abrogati dalla cifra II della LF del 23 giu. 1989, con effetto dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 #### Art. 123
 
 [^123-1]
 
-[^123-1]: Abrogato dal n. II della LF del 23 giu. 1989, con effetto dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^123-1]: Abrogato dalla cifra II della LF del 23 giu. 1989, con effetto dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Lesioni colpose
 
@@ -2438,7 +2438,7 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>2.</sup> …[^124-1]
 
-[^124-1]: Abrogato dal n. I della LF del 5 ott. 1967, con effetto dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
+[^124-1]: Abrogato dalla cifra I della LF del 5 ott. 1967, con effetto dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
 
 ### 3. Messa in pericolo della vita o dell’integrità personale
 
@@ -2446,7 +2446,7 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 [^125127-1]
 
-[^125127-1]: Abrogati dal n. II della LF del 23 giu. 1989, con effetto dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^125127-1]: Abrogati dalla cifra II della LF del 23 giu. 1989, con effetto dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Rissa
 
@@ -2460,7 +2460,7 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>3</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^128-1]: Nuovo testo giusta il n. II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^128-1]: Nuovo testo giusta la cifra II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Aggressione
 
@@ -2472,14 +2472,14 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^128a-1]: Introdotto dal n. II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^128a-2]: Nuova espr. giusta il n. II 1 cpv. 6 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^128a-1]: Introdotto dalla cifra II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^128a-2]: Nuova espr. giusta la cifra II n. 1 cpv. 6 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Capo ottavo: Dei reati contro la proprietà
 
 [^book1-part2-chap8-1]
 
-[^book1-part2-chap8-1]: La composizione degli originari art. 129 a 137 è stata modificata dal n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^book1-part2-chap8-1]: La composizione degli originari art. 129 a 137 è stata modificata dalla cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
 ### Appropriazione semplice
 
@@ -2493,9 +2493,9 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.[^129-3]
 
-[^129-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^129-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^129-3]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^129-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129-3]: Introdotto dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Appropriazione indebita
 
@@ -2513,8 +2513,8 @@ se ha commesso il fatto a danno di un capo, di un subalterno o di un camerata, d
 
 <sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^130-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^130-2]: Nuova espr. giusta il n. II 1 cpv. 7 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^130-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^130-2]: Nuova espr. giusta la cifra II n. 1 cpv. 7 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Furto
 
@@ -2524,7 +2524,7 @@ se ha commesso il fatto a danno di un capo, di un subalterno o di un camerata, d
 
 <sup>1.</sup> Chiunque, per procacciare a sé o ad altri un indebito profitto, sottrae al fine di appropriarsene una cosa mobile altrui, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2.</sup> e 3. ...[^131-2]
+<sup>2.</sup> e 3. …[^131-2]
 
 <sup>4.</sup>
 
@@ -2537,9 +2537,9 @@ Il colpevole è punito con una pena detentiva da sei mesi a dieci an-ni se:
 
 <sup>5.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^131-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^131-2]: Abrogati dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^131-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^131-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^131-2]: Abrogati dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^131-3]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Rapina
 
@@ -2561,9 +2561,9 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>4.</sup> La pena è una pena detentiva non inferiore a cinque anni se il colpevole ha esposto la vittima a pericolo di morte, le ha cagionato una lesione personale grave o l’ha trattata con crudeltà.
 
-[^132-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^132-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^132-3]: Nuova espr. giusta il n. II 1 cpv. 10 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^132-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^132-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^132-3]: Nuova espr. giusta la cifra II n. 1 cpv. 10 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Sottrazione di una cosa mobile
 
@@ -2575,7 +2575,7 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^133-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^133-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
 ### Impiego illecito di valori patrimoniali
 
@@ -2587,7 +2587,7 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^133a-1]: Introdotto dal n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^133a-1]: Introdotto dalla cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
 ### Danneggiamento
 
@@ -2601,8 +2601,8 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>3</sup> Il giudice pronuncia una pena detentiva sino a cinque anni o una pena pecuniaria se il colpevole ha causato un danno considerevole o se, in tempo di guerra, ha per cattiveria o capriccio devastato la proprietà altrui.[^134-2]
 
-[^134-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^134-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^134-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^134-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Truffa
 
@@ -2612,15 +2612,15 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>1</sup> Chiunque, per procacciare a sé o ad altri un indebito profitto, inganna con astuzia una persona affermando cose false o dissimulando cose vere, oppure ne conferma subdolamente l’errore inducendola in tal modo ad atti pregiudizievoli al patrimonio proprio o altrui, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2</sup> ...[^135-2]
+<sup>2</sup> …[^135-2]
 
 <sup>3</sup> Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>4</sup> La pena è una pena detentiva da sei mesi a dieci anni se il colpevole fa mestiere della truffa.[^135-3]
 
-[^135-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^135-2]: Abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^135-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^135-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^135-2]: Abrogato dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^135-3]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Frode dello scotto
 
@@ -2632,7 +2632,7 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>2.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^136-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^136-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
 ### Danno patrimoniale procurato con astuzia
 
@@ -2644,7 +2644,7 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^137-1]: Introdotto dal n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^137-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
 ### Estorsione
 
@@ -2660,10 +2660,10 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>4.</sup> Se il colpevole minaccia di mettere[^137a-4] in pericolo la vita o l’integrità corporale di molte persone o di cagionare gravi danni a cose di grande interesse pubblico, la pena è una pena detentiva non inferiore a un anno.
 
-[^137a-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^137a-2]: Per. abrogato dal n. II 1 cpv. 25 della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^137a-3]: Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^137a-4]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^137a-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^137a-2]: Per. abrogato dalla cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^137a-3]: Nuovo testo giusta la cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^137a-4]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Ricettazione
 
@@ -2681,8 +2681,8 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>2.</sup> Il colpevole è punito con una pena detentiva da sei mesi a dieci anni se fa mestiere della ricettazione.[^137b-2]
 
-[^137b-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^137b-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^137b-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^137b-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Preda
 
@@ -2702,14 +2702,14 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>2</sup> Se il colpevole ha esercitato violenza contro una persona, le ha minacciato un pericolo imminente alla vita o alla salute o l’ha resa in altro modo incapace a opporre resistenza, è punito con una pena detentiva non inferiore a cinque anni.
 
-[^139-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^139-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^139-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^139-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 140
 
 [^140-1]
 
-[^140-1]: Abrogato dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, con effetto dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^140-1]: Abrogato dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, con effetto dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Capo nono: Della corruzione e della gestione infedele
 
@@ -2721,7 +2721,7 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 Chiunque offre, promette o procura un indebito vantaggio a un militare, a favore di lui o di terzi, per indurlo a commettere un atto o un’omissione in relazione con la sua attività di servizio e contrastante coi doveri d’ufficio o sottostante al suo potere d’apprezzamento, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-[^141-1]: Nuovo testo giusta il n. I 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
+[^141-1]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
 
 ### Concessione di vantaggi
 
@@ -2733,8 +2733,8 @@ Chiunque offre, promette o procura un indebito vantaggio a un militare, a favore
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^141a-1]: Introdotto dal n. I 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
-[^141a-2]: Nuovo testo giusta il n. II 2 della LF del 25 set. 2015 (Disposizioni penali sulla corruzione), in vigore dal 1° lug. 2016 ([RU 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [FF 2014 3099](https://fedlex.data.admin.ch/eli/fga/2014/787)).
+[^141a-1]: Introdotto dalla cifra I n. 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
+[^141a-2]: Nuovo testo giusta la cifra II n. 2 della LF del 25 set. 2015 (Disposizioni penali sulla corruzione), in vigore dal 1° lug. 2016 ([RU 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [FF 2014 3099](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
 ### Corruzione passiva
 
@@ -2744,7 +2744,7 @@ Chiunque offre, promette o procura un indebito vantaggio a un militare, a favore
 
 Chiunque domanda, si fa promettere o accetta un indebito vantaggio, per sé o per terzi, per commettere un atto o un’omissione in relazione con la sua attività di servizio e contrastante coi doveri d’ufficio o sottostante al suo potere d’apprezzamento, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-[^142-1]: Nuovo testo giusta il n. I 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
+[^142-1]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
 
 ### Accettazione di vantaggi
 
@@ -2756,8 +2756,8 @@ Chiunque domanda, si fa promettere o accetta un indebito vantaggio, per sé o pe
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^143-1]: Nuovo testo giusta il n. I 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
-[^143-2]: Nuovo testo giusta il n. II 2 della LF del 25 set. 2015 (Disposizioni penali sulla corruzione), in vigore dal 1° lug. 2016 ([RU 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [FF 2014 3099](https://fedlex.data.admin.ch/eli/fga/2014/787)).
+[^143-1]: Nuovo testo giusta la cifra I n. 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
+[^143-2]: Nuovo testo giusta la cifra II n. 2 della LF del 25 set. 2015 (Disposizioni penali sulla corruzione), in vigore dal 1° lug. 2016 ([RU 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [FF 2014 3099](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
 ### Disposizioni comuni agli articoli 141–143
 
@@ -2769,7 +2769,7 @@ Chiunque domanda, si fa promettere o accetta un indebito vantaggio, per sé o pe
 
 <sup>2.</sup> Non sono indebiti i vantaggi ammessi dalle norme in materia di rapporti di servizio e quelli di lieve entità, usuali nelle relazioni sociali.
 
-[^143a-1]: Introdotto dal n. I 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
+[^143a-1]: Introdotto dalla cifra I n. 2 della LF del 22 dic. 1999 (Revisione delle disposizioni penali in materia di corruzione), in vigore dal 1° mag. 2000 ([RU 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [FF 1999 4721](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
 
 ### Gestione infedele
 
@@ -2781,13 +2781,13 @@ Chiunque domanda, si fa promettere o accetta un indebito vantaggio, per sé o pe
 
 <sup>3</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^144-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^144-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 144a
 
 [^144a-1]
 
-[^144a-1]: Introdotto dal n. II 1 cpv. 25 della LF del 21 mar. 2003 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Abrogato dal n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^144a-1]: Introdotto dalla cifra II n. 1 cpv. 25 della LF del 21 mar. 2003 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Abrogato dalla cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Caso poco grave
 
@@ -2797,7 +2797,7 @@ Chiunque domanda, si fa promettere o accetta un indebito vantaggio, per sé o pe
 
 Vi è caso poco grave ai sensi delle disposizioni dei capi ottavo e nono segnatamente qualora l’atto sia diretto esclusivamente a un valore patrimoniale o danno di lieve entità.
 
-[^144b-1]: Introdotto dal n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^144b-1]: Introdotto dalla cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Capo decimo: Dei reati contro l’onore
 
@@ -2825,9 +2825,9 @@ chiunque divulga una tale incolpazione o un tale sospetto,
 
 <sup>7.</sup> …[^145-3]
 
-[^145-1]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
-[^145-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^145-3]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^145-1]: Nuovo testo giusta la cifra I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
+[^145-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^145-3]: Abrogato dalla cifra I n. 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Calunnia
 
@@ -2849,10 +2849,10 @@ Nei casi poco gravi si applica una pena disciplinare.[^146-2]
 
 <sup>4.</sup> …[^146-4]
 
-[^146-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^146-2]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° luglio 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
-[^146-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^146-4]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^146-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^146-2]: Nuovo testo giusta la cifra I della LF del 21 dic. 1950, in vigore dal 1° luglio 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
+[^146-3]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^146-4]: Abrogato dalla cifra I n. 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Disposizione comune
 
@@ -2862,7 +2862,7 @@ Nei casi poco gravi si applica una pena disciplinare.[^146-2]
 
 Alla diffamazione e alla calunnia verbali sono parificate la diffamazione e la calunnia commesse mediante scritti, immagini, gesti o qualunque altro mezzo.
 
-[^147-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^147-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Ingiuria
 
@@ -2870,9 +2870,9 @@ Alla diffamazione e alla calunnia verbali sono parificate la diffamazione e la c
 
 [^148-1]
 
-\1. Chiunque offende in altro modo con parole, scritti, immagini, gesti o vie di fatto l’onore di una persona è punito, a querela della parte lesa o dell’autorità competente a dare l’ordine di procedere all’istruzione preparatoria, con una pena pecuniaria sino a 90 aliquote giornaliere.[^148-2]
+<sup>1.</sup> Chiunque offende in altro modo con parole, scritti, immagini, gesti o vie di fatto l’onore di una persona è punito, a querela della parte lesa o dell’autorità competente a dare l’ordine di procedere all’istruzione preparatoria, con una pena pecuniaria sino a 90 aliquote giornaliere.[^148-2]
 
-...[^148-3]
+…[^148-3]
 
 Nei casi poco gravi si applica una pena disciplinare.
 
@@ -2882,10 +2882,10 @@ Se all’ingiuria si è immediatamente risposto con ingiuria o con vie di fatto,
 
 <sup>3.</sup> …[^148-4]
 
-[^148-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^148-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 [^148-2]: Correzione della Commissione di redazione dell’AF del 21 set. 2023, pubblicata il 25 set. 2023 ([RU 2023 538](https://fedlex.data.admin.ch/eli/oc/2023/538)).
-[^148-3]: Secondo comma abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^148-4]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^148-3]: Secondo comma abrogato dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^148-4]: Abrogato dalla cifra I n. 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Diritto di querela
 
@@ -2903,8 +2903,8 @@ Se all’ingiuria si è immediatamente risposto con ingiuria o con vie di fatto,
 
 <sup>5</sup> La desistenza dalla querela contro uno degli imputati vale per tutti. Essa non vale per un imputato che faccia opposizione.
 
-[^148a-1]: Introdotto dal n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685). Giusta il n. I 1 cpv. 2 della LF del 23 mar. 1979 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)), nella designazione degli articoli, le lettere «a», «b», «c», «d», ecc. sostituiscono i numerali «<sup>bis</sup>», «<sup>ter</sup>», «<sup>quater</sup>», «<sup>quinquies</sup>» ecc.
-[^148a-2]: Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^148a-1]: Introdotto dalla cifra I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685). Giusta la cifra I n. 1 cpv. 2 della LF del 23 mar. 1979 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)), nella designazione degli articoli, le lettere «a», «b», «c», «d», ecc. sostituiscono i numerali «<sup>bis</sup>», «<sup>ter</sup>», «<sup>quater</sup>», «<sup>quinquies</sup>» ecc.
+[^148a-2]: Nuovo testo giusta la cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Prescrizione dell’azione penale
 
@@ -2914,7 +2914,7 @@ Se all’ingiuria si è immediatamente risposto con ingiuria o con vie di fatto,
 
 L’azione penale per i reati contro l’onore si prescrive in quattro anni.
 
-[^148b-1]: Introdotto dal n. I 2 della LF del 23 mar. 1979 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)). Nuovo testo del comma giusta il n. II del 22 mar. 2002 (Prescrizione dell’azione penale), in vigore dal 1° ott. 2002 ([RU 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)[1513](https://fedlex.data.admin.ch/eli/fga/2000/342)).
+[^148b-1]: Introdotto dalla cifra I n. 2 della LF del 23 mar. 1979 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)). Nuovo testo del comma giusta la cifra II del 22 mar. 2002 (Prescrizione dell’azione penale), in vigore dal 1° ott. 2002 ([RU 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)[1513](https://fedlex.data.admin.ch/eli/fga/2000/342)).
 
 ### Capo undecimo: Dei reati contro la libertà
 
@@ -2928,7 +2928,7 @@ L’azione penale per i reati contro l’onore si prescrive in quattro anni.
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^149-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^149-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Coazione
 
@@ -2938,13 +2938,13 @@ L’azione penale per i reati contro l’onore si prescrive in quattro anni.
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^150-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^150-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 #### Art. 151
 
 [^151-1]
 
-[^151-1]: Abrogato dal n. I della LF del 9 ott. 1981, con effetto dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
+[^151-1]: Abrogato dalla cifra I della LF del 9 ott. 1981, con effetto dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 
 ### Sequestro di persona e rapimento
 
@@ -2956,7 +2956,7 @@ L’azione penale per i reati contro l’onore si prescrive in quattro anni.
 
 <sup>2.</sup> Parimente è punito chiunque rapisce una persona incapace di discernimento, inetta a resistere o minore di sedici anni.
 
-[^151a-1]: Introdotto dal n. I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
+[^151a-1]: Introdotto dalla cifra I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 
 ### Circostanze aggravanti
 
@@ -2974,7 +2974,7 @@ la privazione della libertà è durata più di dieci giorni o
 
 la salute della vittima è stata seriamente esposta a pericolo.
 
-[^151b-1]: Introdotto dal n. I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
+[^151b-1]: Introdotto dalla cifra I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 
 ### Presa d’ostaggio
 
@@ -2994,8 +2994,8 @@ chiunque, per costringere un terzo, sfrutta una tal situazione creata da altri,
 
 <sup>4.</sup> Se il colpevole desiste dalla coazione e lascia libera la vittima, la pena può essere attenuata (art. 42*a*).[^151c-2]
 
-[^151c-1]: Introdotto dal n. I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
-[^151c-2]: Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^151c-1]: Introdotto dalla cifra I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
+[^151c-2]: Nuovo testo giusta la cifra II n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Sparizione forzata
 
@@ -3018,13 +3018,13 @@ chiunque, per costringere un terzo, sfrutta una tal situazione creata da altri,
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^152-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^152-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Capo dodicesimo: Dei reati contro il buon costume
 
 [^book1-part2-chap12-1]
 
-[^book1-part2-chap12-1]: Nuovo testo giusta il n. II del DAF del 21 giu. 1991, in vigore dal 1° ott. 1992 ([RU 1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^book1-part2-chap12-1]: Nuovo testo giusta la cifra II del DAF del 21 giu. 1991, in vigore dal 1° ott. 1992 ([RU 1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Aggressione e coazione sessuali
 
@@ -3038,7 +3038,7 @@ chiunque, per costringere un terzo, sfrutta una tal situazione creata da altri,
 
 <sup>3</sup> Se il colpevole secondo il capoverso 2 ha agito con crudeltà oppure se ha fatto uso di un’arma pericolosa o di un altro oggetto pericoloso, la pena è una pena detentiva non inferiore a un anno.
 
-[^153-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^153-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Violenza carnale
 
@@ -3052,7 +3052,7 @@ chiunque, per costringere un terzo, sfrutta una tal situazione creata da altri,
 
 <sup>3</sup> Se il colpevole secondo il capoverso 2 ha agito con crudeltà oppure se ha fatto uso di un’arma pericolosa o di un altro oggetto pericoloso, la pena è una pena detentiva non inferiore a tre anni.
 
-[^154-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^154-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Atti sessuali con persone incapaci di discernimento o inette a resistere
 
@@ -3062,13 +3062,13 @@ chiunque, per costringere un terzo, sfrutta una tal situazione creata da altri,
 
 Chiunque profitta del fatto che una persona è incapace di discernimento o inetta a resistere per farle compiere o subire la congiunzione carnale, un atto analogo o un altro atto sessuale, è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
 
-[^155-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^155-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 155a
 
 [^155a-1]
 
-[^155a-1]: Abrogato dal n. II della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), con effetto dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226)[1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^155a-1]: Abrogato dalla cifra II della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), con effetto dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226)[1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Atti sessuali con fanciulli
 
@@ -3094,10 +3094,10 @@ coinvolge una tale persona in un atto sessuale,
 
 <sup>6.</sup> …[^156-4]
 
-[^156-1]: Introdotto dal n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^156-2]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^156-3]: Abrogato dal n. II della LF del 21 mar. 1997 , con effetto dal 1° set. 1997 ([RU 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1135](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1139).
-[^156-4]: Introdotto dal n. II della LF del 21 mar. 1997 ([RU 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1135](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1139). Abrogato dal n. II della LF del 5 ott. 2001 (Prescrizione dell’azione penale in generale e in caso di reati sessuali commessi su fanciulli), con effetto dal 1° ott. 2002 ([RU 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2609](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+[^156-1]: Introdotto dalla cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^156-2]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^156-3]: Abrogato dalla cifra II della LF del 21 mar. 1997 , con effetto dal 1° set. 1997 ([RU 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1135](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1139).
+[^156-4]: Introdotto dalla cifra II della LF del 21 mar. 1997 ([RU 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1135](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1139). Abrogato dalla cifra II della LF del 5 ott. 2001 (Prescrizione dell’azione penale in generale e in caso di reati sessuali commessi su fanciulli), con effetto dal 1° ott. 2002 ([RU 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2609](https://fedlex.data.admin.ch/eli/fga/2000/612)).
 
 ### Abuso della posizione militare
 
@@ -3107,7 +3107,7 @@ coinvolge una tale persona in un atto sessuale,
 
 Chiunque, profittando della sua posizione militare, fa compiere o subire un atto sessuale a una persona, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-[^157-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^157-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Inganno circa il carattere sessuale di un atto
 
@@ -3117,7 +3117,7 @@ Chiunque, profittando della sua posizione militare, fa compiere o subire un atto
 
 Chiunque, nell’esercizio di un’attività professionale o extraprofessionale organizzata nel settore sanitario fa compiere o subire ad una persona un atto sessuale ingannandola circa il carattere sessuale dell’atto o sfruttandone l’errore relativo al carattere dell’atto, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-[^158-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^158-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Esibizionismo
 
@@ -3133,7 +3133,7 @@ Chiunque, nell’esercizio di un’attività professionale o extraprofessionale 
 
 <sup>4</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^159-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^159-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Molestie sessuali
 
@@ -3151,9 +3151,9 @@ chiunque, mediante vie di fatto o, impudentemente, mediante parole, scritti o im
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^159a-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^159a-2]: Introdotto dal n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^159a-3]: Introdotto dal n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^159a-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^159a-2]: Introdotto dalla cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^159a-3]: Introdotto dalla cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Reato collettivo
 
@@ -3163,7 +3163,7 @@ chiunque, mediante vie di fatto o, impudentemente, mediante parole, scritti o im
 
 Se un reato previsto nel presente capo è stato commesso insieme da più persone, il giudice aumenta la pena. Non può tuttavia aumentare di oltre la metà il massimo della pena comminata. È in ogni modo vincolato al massimo legale della specie di pena.
 
-[^159b-1]: Nuovo testo giusta il n. I 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^159b-1]: Nuovo testo giusta la cifra I n. 4 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Capo tredicesimo: Dei reati di pericolo generale
 
@@ -3179,7 +3179,7 @@ Se un reato previsto nel presente capo è stato commesso insieme da più persone
 
 <sup>3</sup> Se dall’incendio è derivato soltanto un danno di lieve importanza, può essere pronunciata la pena detentiva sino a tre anni o una pena pecuniaria.
 
-[^160-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^160-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Incendio colposo
 
@@ -3191,8 +3191,8 @@ Se un reato previsto nel presente capo è stato commesso insieme da più persone
 
 <sup>2</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole mette per negligenza in pericolo la vita o l’integrità delle persone.
 
-[^160a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^160a-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^160a-1]: Introdotto dalla cifra I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta la cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^160a-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Esplosione
 
@@ -3208,7 +3208,7 @@ Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito,
 
 <sup>2.</sup> Se il colpevole ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria. Nei casi poco gravi si applica una pena disciplinare.
 
-[^161-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^161-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Uso delittuoso di materie esplosive o gas velenosi
 
@@ -3222,7 +3222,7 @@ Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito,
 
 <sup>3</sup> Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito, la pena è una pena detentiva non inferiore a tre anni.
 
-[^162-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^162-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Uso colposo di materie esplosive o gas velenosi
 
@@ -3236,10 +3236,10 @@ Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito,
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.[^163-4]
 
-[^163-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^163-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^163-3]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^163-4]: Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^163-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^163-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^163-3]: Introdotto dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^163-4]: Nuovo testo giusta la cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Fabbricazione, occultamento e trasporto di materie esplosive o gas velenosi
 
@@ -3253,10 +3253,10 @@ Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito,
 
 <sup>3</sup> Chiunque, sapendo o dovendo presumere che taluno si propone di fare uso delittuoso di materie esplosive o di gas velenosi, gli dà istruzioni per la loro fabbricazione, è punito con una pena detentiva da un mese a cinque anni o con una pena pecuniaria non inferiore a 30 ali-quote giornaliere.[^164-4]
 
-[^164-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^164-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^164-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^164-4]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^164-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^164-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^164-3]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^164-4]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Inondazione. Franamento
 
@@ -3272,7 +3272,7 @@ Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito,
 
 <sup>2.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza. Nei casi poco gravi si applica una pena disciplinare.
 
-[^165-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^165-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Danneggiamento d’impianti elettrici, di opere idrauliche e di opere di premunizione
 
@@ -3286,8 +3286,8 @@ Se ne è derivato soltanto un danno di lieve importanza, può essere pronunciata
 
 <sup>2.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza. Nei casi poco gravi si applica una pena disciplinare.
 
-[^166-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^166-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^166-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^166-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Propagazione di malattie dell’essere umano
 
@@ -3311,7 +3311,7 @@ Se il colpevole ha, con animo abietto, cagionato un grave danno, la pena è una 
 
 <sup>2.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza. Nei casi poco gravi si applica una pena disciplinare.
 
-[^168-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^168-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Inquinamento di acque potabili
 
@@ -3321,7 +3321,7 @@ Se il colpevole ha, con animo abietto, cagionato un grave danno, la pena è una 
 
 <sup>2</sup> Se il colpevole ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria. Nei casi poco gravi si applica una pena disciplinare.
 
-[^169-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^169-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Perturbamento della circolazione pubblica
 
@@ -3337,13 +3337,13 @@ Se il colpevole mette scientemente in pericolo la vita o l’integrità di molte
 
 <sup>3.</sup> Il numero 2 non è applicabile quando il perturbamento della circolazione pubblica è cagionato dalla violazione di norme della circolazione stradale.
 
-[^169a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^169a-1]: Introdotto dalla cifra I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 170
 
 [^170-1]
 
-[^170-1]: Abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^170-1]: Abrogato dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Perturbamento di pubblici servizi
 
@@ -3359,7 +3359,7 @@ chiunque intenzionalmente impedisce, perturba o mette in pericolo l’esercizio 
 
 <sup>2.</sup> La pena è una pena detentiva sino a un anno o una pena pecuniaria se il colpevole ha agito per negligenza. Nei casi poco gravi si applica una pena disciplinare.
 
-[^171-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^171-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Pubblica istigazione a un crimine o alla violenza
 
@@ -3371,12 +3371,12 @@ chiunque intenzionalmente impedisce, perturba o mette in pericolo l’esercizio 
 
 <sup>1bis</sup> La pubblica istigazione al genocidio (art. 108), da commettere in tutto o in parte in Svizzera, è punibile anche se l’istigazione avviene all’estero.[^171a-3]
 
-<sup>2</sup> ...[^171a-4]
+<sup>2</sup> …[^171a-4]
 
-[^171a-1]: Introdotto dal n. I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
-[^171a-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^171a-3]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^171a-4]: Abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^171a-1]: Introdotto dalla cifra I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
+[^171a-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^171a-3]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^171a-4]: Abrogato dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Atti preparatori punibili
 
@@ -3404,16 +3404,16 @@ chiunque intenzionalmente impedisce, perturba o mette in pericolo l’esercizio 
 
 <sup>3</sup> È parimente punibile chi commette gli atti preparatori all’estero, se i reati così preparati dovessero essere commessi in Svizzera. L’articolo 10 capoverso 2 è applicabile.[^171b-4]
 
-[^171b-1]: Introdotto dal n. I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
+[^171b-1]: Introdotto dalla cifra I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 [^171b-2]: Introdotta dall’all. 2 n. 3 del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione internazionale per la protezione di tutte le persone dalla sparizione forzata, in vigore dal 1° gen. 2017 ([RU 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [FF 2014 417](https://fedlex.data.admin.ch/eli/fga/2014/95)).
-[^171b-3]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^171b-4]: Nuovo testo del per. giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^171b-3]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^171b-4]: Nuovo testo del per. giusta la cifra II n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Discriminazione e incitamento all’odio
 
 [^book1-part2-chap13-lvlu16-1]
 
-[^book1-part2-chap13-lvlu16-1]: Nuovo testo giusta il n. I 2 della LF del 14 dic. 2018 (Discriminazione e incitamento all’odio basati sull’orientamento sessuale), in vigore dal 1° lug. 2020 ([RU 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [FF 2018 3209](https://fedlex.data.admin.ch/eli/fga/2018/1411)[4431](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
+[^book1-part2-chap13-lvlu16-1]: Nuovo testo giusta la cifra I n. 2 della LF del 14 dic. 2018 (Discriminazione e incitamento all’odio basati sull’orientamento sessuale), in vigore dal 1° lug. 2020 ([RU 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [FF 2018 3209](https://fedlex.data.admin.ch/eli/fga/2018/1411)[4431](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
 
 #### Art. 171c
 
@@ -3434,7 +3434,7 @@ chiunque rifiuta ad una persona o a un gruppo di persone, per la loro razza, etn
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
 [^171c-1]: Introdotto dall’art. 2 della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 2887](https://fedlex.data.admin.ch/eli/oc/1994/2887_2887_2887); FF **1992** II 217).
-[^171c-2]: Nuovo testo giusta il n. I 2 della LF del 14 dic. 2018 (Discriminazione e incitamento all’odio basati sull’orientamento sessuale), in vigore dal 1° lug. 2020 ([RU 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [FF 2018 3209](https://fedlex.data.admin.ch/eli/fga/2018/1411)[4431](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
+[^171c-2]: Nuovo testo giusta la cifra I n. 2 della LF del 14 dic. 2018 (Discriminazione e incitamento all’odio basati sull’orientamento sessuale), in vigore dal 1° lug. 2020 ([RU 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [FF 2018 3209](https://fedlex.data.admin.ch/eli/fga/2018/1411)[4431](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
 
 ### Capo quattordicesimo: Della falsità in atti
 
@@ -3454,8 +3454,8 @@ fa uso, a scopo d’inganno, di un tale documento,
 
 <sup>2.</sup> Nei casi di esigua gravità si applica una pena disciplinare.[^172-2]
 
-[^172-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^172-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^172-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^172-2]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Conseguimento fraudolento di una falsa attestazione
 
@@ -3469,7 +3469,7 @@ chiunque fa uso di un documento ottenuto in tal modo per ingannare altri sul fat
 
 è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-[^173-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^173-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Soppressione di documenti
 
@@ -3479,7 +3479,7 @@ chiunque fa uso di un documento ottenuto in tal modo per ingannare altri sul fat
 
 Chiunque, al fine di nuocere al patrimonio o ad altri diritti di una persona o di procacciare a sé o ad un terzo un indebito profitto, deteriora, distrugge, sopprime o sottrae un documento del quale non ha il diritto di disporre da solo, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-[^174-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^174-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Disposizioni comuni
 
@@ -3493,8 +3493,8 @@ Chiunque, al fine di nuocere al patrimonio o ad altri diritti di una persona o d
 
 <sup>3</sup> Le disposizioni degli articoli 172 a 174 si applicano parimente ai documenti stranieri.
 
-[^175-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^175-2]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^175-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^175-2]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
 ### Capo quindicesimo: Dei reati contro l’amministrazione della giustizia
 
@@ -3512,11 +3512,11 @@ Chiunque, al fine di nuocere al patrimonio o ad altri diritti di una persona o d
 
 <sup>3</sup> Se il colpevole favorisce un congiunto o un’altra persona con cui esistono relazioni personali così strette da rendere scusabile la sua condotta, il giudice prescinde da ogni pena.[^176-5]
 
-[^176-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^176-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^176-3]: Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF 1999 1669).
-[^176-4]: Introdotto dal n. I della LF del 9 ott. 1981 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)). Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^176-5]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^176-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^176-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^176-3]: Nuovo testo giusta la cifra II n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF 1999 1669).
+[^176-4]: Introdotto dalla cifra I della LF del 9 ott. 1981 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)). Nuovo testo giusta la cifra II n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^176-5]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Liberazione di detenuti
 
@@ -3530,8 +3530,8 @@ Chiunque, al fine di nuocere al patrimonio o ad altri diritti di una persona o d
 
 I compartecipi che hanno commesso atti di violenza contro le persone o le cose sono puniti con una pena detentiva da tre mesi a tre anni o con una pena pecuniaria non inferiore a 90 aliquote giornaliere.[^177-2]
 
-[^177-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^177-2]: Nuovo testo del secondo comma giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^177-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^177-2]: Nuovo testo del secondo comma giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Denuncia mendace
 
@@ -3547,7 +3547,7 @@ chiunque in altro modo ordisce mene subdole per provocare un procedimento penale
 
 <sup>2.</sup> Se la denuncia mendace concerne una contravvenzione o una man-canza di disciplina, la pena è una pena detentiva sino a un anno o una pena pecuniaria. Nei casi poco gravi si applica una pena disciplinare.
 
-[^178-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^178-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsa testimonianza, falsa perizia, falsa traduzione od interpretazione
 
@@ -3559,8 +3559,8 @@ chiunque in altro modo ordisce mene subdole per provocare un procedimento penale
 
 <sup>2</sup> Se la falsità concerne fatti non influenti sulla decisione del giudice, la pena è una pena pecuniaria[^179-2].
 
-[^179-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^179-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^179-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^179-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Attenuazione di pene o impunibilità
 
@@ -3577,7 +3577,7 @@ L’autore di un reato previsto nell’articolo 179 è esente da pena se ha fatt
 - a. si sarebbe esposto a procedimento penale; o
 - b. avrebbe esposto a procedimento penale un congiunto o un’al-tra persona con cui esistono relazioni personali così strette da rendere scusabile la sua condotta.
 
-[^179a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^179a-1]: Introdotto dalla cifra I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Procedura davanti a tribunali internazionali
 
@@ -3587,13 +3587,13 @@ L’autore di un reato previsto nell’articolo 179 è esente da pena se ha fatt
 
 Gli articoli 179 e 179*a* si applicano anche alla procedura davanti ai tribunali internazionali la cui competenza è riconosciuta come vincolante dalla Svizzera.
 
-[^179b-1]: Introdotto dal n. I 2 della LF del 22 giu. 2001 (Reati contro l’amministrazione della giustizia commessi davanti a tribunali internazionali), in vigore dal 1° lug. 2002 ([RU 2002 1491](https://fedlex.data.admin.ch/eli/oc/2002/236); FF **2002** 311).
+[^179b-1]: Introdotto dalla cifra I n. 2 della LF del 22 giu. 2001 (Reati contro l’amministrazione della giustizia commessi davanti a tribunali internazionali), in vigore dal 1° lug. 2002 ([RU 2002 1491](https://fedlex.data.admin.ch/eli/oc/2002/236); FF **2002** 311).
 
 ## Libro secondo: Ordinamento disciplinare
 
 [^book2-1]
 
-[^book2-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^book2-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
 
 ### Capo primo: Disposizioni generali
 
@@ -3617,7 +3617,7 @@ Sono equiparati alla mancanza di disciplina:
 - b. i casi poco gravi di violazione delle norme della legislazione federale sulla circolazione stradale conformemente alle disposizioni dell’articolo 218 capoverso 3;
 - c. le infrazioni alla legge federale del 3 ottobre 1951[^180-1] sugli stupefacenti e sulle sostanze psicotrope (LStup) conformemente alle disposizioni dell’articolo 218 capoverso 4.
 
-[^180-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^180-1]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 ### Punibilità
 
@@ -3655,8 +3655,8 @@ Sono equiparati alla mancanza di disciplina:
 
 <sup>2</sup> La responsabilità disciplinare dei membri del Corpo delle guardie di confine si fonda sulle disposizioni della legge del 24 marzo 2000[^183-1] sul personale federale e dell’ordinanza del 3 luglio 2001[^183-2] sul personale federale nonché sulle prescrizioni del pertinente regolamento della Direzione generale delle dogane.
 
-[^183-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^183-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^183-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^183-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ### Prescrizione della facoltà di perseguire
 
@@ -3703,8 +3703,7 @@ Con la riprensione si ammonisce formalmente la persona che ha mancato. La ripren
 La multa disciplinare può essere pronunciata per tutte le mancanze di disciplina. Essa ammonta:
 
 - a. per le mancanze di disciplina commesse in servizio: a 500 franchi al massimo;
-- b. per le mancanze di disciplina commesse fuori del servizio:
-- a 1000 franchi al massimo.
+- b. per le mancanze di disciplina commesse fuori del servizio: a 1000 franchi al massimo.
 
 ### Esecuzione delle multe disciplinari
 
@@ -3894,7 +3893,7 @@ Il Consiglio federale disciplina le attribuzioni penali:
 
 <sup>2</sup> Sono fatti salvi il fermo e l’arresto provvisorio a tenore degli artico-li 54–55*a* della procedura penale militare del 23 marzo 1979[^202-1] (PPM).
 
-[^202-1]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^202-1]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### Notificazione e contenuto della decisione disciplinare
 
@@ -3959,7 +3958,7 @@ Le iscrizioni contenute nel registro delle punizioni possono essere comunicate u
 
 [^book2-chap5-1]
 
-[^book2-chap5-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^book2-chap5-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### 1. Reclamo in materia disciplinare.
 
@@ -4054,8 +4053,8 @@ La decisione sul reclamo non può aggravare la pena pronunciata. È possibile in
 
 <sup>7</sup> La decisione è definitiva.
 
-[^210-1]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^210-2]: Nuova espr. giusta il n. I della la LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^210-1]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^210-2]: Nuova espr. giusta la cifra I della la LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### 3. Disposizioni comuni.
 
@@ -4099,7 +4098,7 @@ Il Consiglio federale emana le disposizioni esecutive.
 
 [^book3-tit1-1]
 
-[^book3-tit1-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^book3-tit1-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Esecuzione di sentenze anteriori
 
@@ -4111,7 +4110,7 @@ Il Consiglio federale emana le disposizioni esecutive.
 
 <sup>3</sup> Le disposizioni del Codice penale svizzero[^215-1] concernenti l’esecuzione di pene e misure nonché i diritti e doveri del detenuto sono applicabili anche a chi è stato condannato prima della loro entrata in vigore.
 
-[^215-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^215-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Prescrizione
 
@@ -4129,7 +4128,7 @@ Abrogato
 
 [^book3-tit2-1]
 
-[^book3-tit2-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^book3-tit2-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Giurisdizione militare
 
@@ -4145,10 +4144,10 @@ Abrogato
 
 <sup>4</sup> Soggiace alla giurisdizione militare anche chi, durante il servizio, consuma o possiede intenzionalmente e senza esserne autorizzato esigue quantità di stupefacenti a tenore dell’articolo 1 della LStup[^218-3] o, per assicurare il proprio consumo, commette un’infrazione di cui all’articolo 19 della medesima legge. L’autore è punito in via disciplinare.[^218-4]
 
-[^218-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
-[^218-2]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^218-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245). Ora: dell’art. 2 della LStup.
-[^218-4]: Introdotto dal n. II della LF del 21 giu. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2512](https://fedlex.data.admin.ch/eli/oc/1991/2512_2512_2512); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^218-1]: Nuovo testo giusta la cifra I della LF del 5 ott. 1967, in vigore dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
+[^218-2]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^218-3]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339). Ora: dell’art. 2 della LStup.
+[^218-4]: Introdotto dalla cifra II della LF del 21 giu. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2512](https://fedlex.data.admin.ch/eli/oc/1991/2512_2512_2512); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Giurisdizione ordinaria
 
@@ -4160,8 +4159,8 @@ Abrogato
 
 <sup>2</sup> Se il reato è in connessione con la posizione militare dell’incolpato, il procedimento può aver luogo soltanto coll’autorizzazione del DDPS[^219-3]. Eletto il comandante in capo dell’esercito, egli è competente per l’autorizzazione, qualora l’incolpato sia subordinato al comando dell’esercito.
 
-[^219-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
-[^219-2]: Nuovo testo giusta il n. II della LF del 21 giu. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2512](https://fedlex.data.admin.ch/eli/oc/1991/2512_2512_2512); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+[^219-1]: Nuovo testo giusta la cifra I della LF del 5 ott. 1967, in vigore dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
+[^219-2]: Nuovo testo giusta la cifra II della LF del 21 giu. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2512](https://fedlex.data.admin.ch/eli/oc/1991/2512_2512_2512); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^219-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il testo.
 
 ### Giurisdizione in caso di partecipazione di civili
@@ -4176,7 +4175,7 @@ Abrogato
 
 <sup>3</sup> Nei casi di cui al capoverso 2, il Consiglio federale può deferire al tribunale penale ordinario anche le persone soggette alla giurisdizione militare. Il giudice civile applica a queste persone il diritto penale militare.
 
-[^220-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^220-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Giurisdizione in caso di concorso di reati o di disposizioni penali
 
@@ -4201,7 +4200,7 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 - a. al tribunale militare, se l’accusato è sottoposto alla giurisdizione militare;
 - b. al tribunale ordinario, se l’accusato non è sottoposto alla giurisdizione militare.
 
-[^221a-1]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^221a-1]: Introdotto dalla cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Processo penale ordinario contro un militare in servizio
 
@@ -4230,27 +4229,27 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 
 [^book3-tit3-1]
 
-[^book3-tit3-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^book3-tit3-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 224
 
 [^224-1]
 
-[^224-1]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^224-1]: Abrogato dalla cifra I n. 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Capo quarto: Esecuzione della sentenza
 
 [^book3-tit4-1]
 
-[^book3-tit4-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^book3-tit4-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 225
 
 [^225-1]
 
-[^225-1]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^225-1]: Abrogato dalla cifra I n. 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Capo quinto: ...
+### Capo quinto: …
 
 #### Art. 226
 
@@ -4262,26 +4261,26 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 
 [^227-1]
 
-[^227-1]: Abrogato dal n. I della LF del 13 giu. 1941, con effetto dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^227-1]: Abrogato dalla cifra I della LF del 13 giu. 1941, con effetto dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
 ### Capo sesto: Procedura di riabilitazione
 
 [^book3-tit6-1]
 
-[^book3-tit6-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^book3-tit6-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 228 a 232
 
 [^228232-1]
 
-[^228232-1]: Abrogati dal n. III della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^228232-1]: Abrogati dalla cifra III della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Capo settimo: Grazia e amnistia
 
 [^book3-tit7-1][^book3-tit7-2]
 
-[^book3-tit7-1]: Introdotto dal n. II della LF del 13 giu. 1941, con effetto dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^book3-tit7-2]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^book3-tit7-1]: Introdotto dalla cifra II della LF del 13 giu. 1941, con effetto dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^book3-tit7-2]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### 1. Grazia
 
@@ -4293,7 +4292,7 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 
 La grazia può essere accordata per tutte le pene pronunciate mediante sentenza passata in giudicato, salvo per le pene disciplinari.
 
-[^232a-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^232a-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Competenza
 
@@ -4304,10 +4303,10 @@ La grazia può essere accordata per tutte le pene pronunciate mediante sentenza 
 Per le sentenze pronunciate in applicazione del Codice penale militare, il diritto di grazia spetta:
 
 - a. al Consiglio federale nelle cause giudicate da un tribunale militare; se è stato nominato il generale, a quest’ultimo;
-- [tab] b.[^232b-2] all’Assemblea federale nelle cause giudicate dal Tribunale penale federale;
+- b.[^232b-2] all’Assemblea federale nelle cause giudicate dal Tribunale penale federale;
 - c. all’autorità competente del Cantone, nelle cause giudicate dalle autorità cantonali.
 
-[^232b-1]: Nuovo testo giusta il n. I 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^232b-1]: Nuovo testo giusta la cifra I n. 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 [^232b-2]: Nuovo testo giusta l’all. n. 11 della LF del 4 ott. 2002 sul Tribunale penale federale, in vigore dal 1° apr. 2004 ([RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Domanda di grazia
@@ -4323,7 +4322,7 @@ Per le sentenze pronunciate in applicazione del Codice penale militare, il dirit
 <sup>4</sup> …[^232c-2]
 
 [^232c-1]: Nuovo testo giusta l’all. n. 22 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^232c-2]: Abrogato dal n. I della LF del 20 mar. 1992, con effetto dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^232c-2]: Abrogato dalla cifra I della LF del 20 mar. 1992, con effetto dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Effetti
 
@@ -4345,19 +4344,19 @@ Per le sentenze pronunciate in applicazione del Codice penale militare, il dirit
 
 <sup>2</sup> Con l’amnistia si esclude il perseguimento penale di determinati fatti o categorie di autori e si dispone il condono delle relative pene.
 
-[^232e-1]: Introdotto dal n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^232e-1]: Introdotto dalla cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Capo ottavo: Disposizioni completive e finali
 
 [^book3-tit8-1]
 
-[^book3-tit8-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^book3-tit8-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 233
 
 [^233-1]
 
-[^233-1]: Abrogato dal n. III della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^233-1]: Abrogato dalla cifra III della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Rimandi a disposizioni modificate o abrogate
 
@@ -4367,7 +4366,7 @@ Per le sentenze pronunciate in applicazione del Codice penale militare, il dirit
 
 I rimandi a disposizioni modificate o abrogate dal presente Codice, contenuti in altri atti normativi della Confederazione, s’interpretano come rimandi alle corrispondenti disposizioni del nuovo diritto.
 
-[^234-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^234-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Riserva didisposizioni di legge in vigore
 
@@ -4376,11 +4375,11 @@ I rimandi a disposizioni modificate o abrogate dal presente Codice, contenuti in
 Sono riservate:
 
 - 1\. le disposizioni penali dell’ordinanza del 7 dicembre 1925[^235-1] sui controlli militari, le disposizioni penali della legge federale del 28 giugno 1878[^235-2] sulla tassa d’esenzione del servizio militare e le altre disposizioni concernenti le contravvenzioni di polizia militare;
-- [tab] 2.[^235-3] le disposizioni disciplinari applicabili ai membri del Corpo delle guardie di confine.
+- 2\.[^235-3] le disposizioni disciplinari applicabili ai membri del Corpo delle guardie di confine.
 
-[^235-1]: [RU **41** 769, **51** 189. CS **5** 385 art. 92 cpv. 1]. Ora: le disp. penali dell’O del 10 dic. 2004 sui controlli militari ([RS 511.22](https://fedlex.data.admin.ch/eli/cc/2004/817)).
-[^235-2]: [CS **5** 151. [RU 1959 2125](https://fedlex.data.admin.ch/eli/oc/1959/2035_2097_2125)art. 48 cpv. 2 lett. a]. Ora: le disp. penali della LF del 12 giu. 1959 sulla tassa d’esenzione dall’obbligo militare ([RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)).
-[^235-3]: Nuovo testo giusta il n. II della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^235-1]: [RU **41** 769, **51** 189. CS **5** 385 art. 92 cpv. 1]. Ora: le disp. penali dell’O del 10 dic. 2004 sui controlli militari ([RS 511.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7392)).
+[^235-2]: [CS **5** 151. [RU 1959 2125](https://fedlex.data.admin.ch/eli/oc/1959/2035_2097_2125)art. 48 cpv. 2 lett. a]. Ora: le disp. penali della LF del 12 giu. 1959 sulla tassa d’esenzione dall’obbligo militare ([RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)).
+[^235-3]: Nuovo testo giusta la cifra II della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
 
 ### Ordinamento del personale sottoposto al diritto penale militare
 
@@ -4394,7 +4393,7 @@ Sono riservate:
 
 [^236a-1]
 
-[^236a-1]: Introdotto dal n. I della LF del 5 ott. 1990, in vigore dal 15 lug. 1991 ([RU 1991 1352](https://fedlex.data.admin.ch/eli/oc/1991/1352_1352_1352); [FF 1987 II 1100](https://fedlex.data.admin.ch/eli/fga/1987/2_1311_1335_1100)). Abrogato dal n. III della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^236a-1]: Introdotto dalla cifra I della LF del 5 ott. 1990, in vigore dal 15 lug. 1991 ([RU 1991 1352](https://fedlex.data.admin.ch/eli/oc/1991/1352_1352_1352); [FF 1987 II 1100](https://fedlex.data.admin.ch/eli/fga/1987/2_1311_1335_1100)). Abrogato dalla cifra III della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Entrata in vigore del Codice
 
@@ -4428,12 +4427,12 @@ Il presente Codice entra in vigore il 1° gennaio 1928.
 
 <sup>3</sup> Le disposizioni del Codice penale svizzero[^u2-5] concernenti l’esecuzione delle pene detentive (art. 74–85, 91 e 92) nonché l’assistenza riabilitativa, le norme di condotta e l’assistenza sociale volontaria (art. 93–96) sono applicabili anche a chi è stato condannato secondo il diritto anteriore.
 
-\2. ...[^u2-6]
+\2. …[^u2-6]
 
-[^u2-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
+[^u2-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^u2-3]: [RU 1975 55](https://fedlex.data.admin.ch/eli/oc/1975/55_55_55), [1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)
 [^u2-4]: [RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)452
-[^u2-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^u2-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^u2-6]: Abrogato dall’all. 1 n. 7 della LF del 17 giu. 2016 sul casellario giudiziale informatizzato VOSTRA, con effetto dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Disposizione transitoria della modifica del 19 giugno 2015

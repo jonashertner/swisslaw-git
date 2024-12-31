@@ -4,11 +4,11 @@ title: Code pénal militaire du 13 juin 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20250101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20240701/fr"
 
 (CPM)
 
-du 13 juin 1927 (État le 1<sup>er</sup> juillet 2024)
+du 13 juin 1927 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 60, al. 1, et 123, al. 1 et 3, de la Constitution[^ingress-1],[^ingr
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^ingress-3]: [FF 1918 V 349](https://fedlex.data.admin.ch/eli/fga/1918/5_337_349_241)
 
@@ -78,7 +78,7 @@ Sont soumis au droit pénal militaire:
 [^3-1]: Nouvelle teneur selon le ch. IV let. a de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 (RO **2004** 92; [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 [^3-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle PG CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^3-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-4]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-5]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle PG CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-6]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
@@ -172,7 +172,7 @@ Le droit pénal ordinaire s’applique aux personnes soumises au droit pénal mi
 Le droit pénal des mineurs du 20 juin 2003 (DPMin)[^9-2] s’applique aux personnes qui n’ont pas 18 ans le jour de l’acte. Lorsque l’auteur doit être jugé simultanément pour des infractions qu’il a commises avant et après l’âge de 18 ans, l’art. 3, al. 2, DPMin est applicable. Les autorités civiles sont compétentes.
 
 [^9-1]: Nouvelle teneur selon l’art. 44 de ch. 3 de la LF du 20 juin 2003 sur le droit pénal des mineurs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); FF **1999** 1787).
-[^9-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^9-2]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 ### b. Jeunes adultes
 
@@ -182,7 +182,7 @@ Le droit pénal des mineurs du 20 juin 2003 (DPMin)[^9-2] s’applique aux perso
 
 <sup>2</sup> L’art. 61 du code pénal (CP)[^9a-1] est également applicable. Le canton chargé de l’exécution est l’autorité compétente.
 
-[^9a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9a-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 5. Conditions de lieu
 
@@ -216,7 +216,7 @@ Sous réserve d’une violation grave des principes fondamentaux du droit consti
 [^10-1]: Introduit par le ch. II de la LF du 19 déc. 2003 ([RO 2004 2691](https://fedlex.data.admin.ch/eli/oc/2004/322); [FF 2003 693](https://fedlex.data.admin.ch/eli/fga/2003/143)). Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^10-2]: Introduit par le ch. I 2 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^10-3]: Introduit par le ch. I 2 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^10-4]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^10-4]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### Lieu de commission de l’acte
 
@@ -331,7 +331,7 @@ Quiconque, de manière contraire au droit, est attaqué ou menacé d’une attaq
 
 <sup>4</sup> Si l’auteur pouvait éviter l’irresponsabilité ou la responsabilité restreinte et prévoir l’acte commis en cet état, les al. 1 à 3 ne sont pas applicables.
 
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Doute sur la responsabilité de l’auteur
 
@@ -422,7 +422,7 @@ Les relations, qualités et circonstances personnelles particulières qui aggrav
 
 <sup>4</sup> L’auteur d’un compte rendu véridique de débats publics ou de déclarations officielles d’une autorité n’encourt aucune peine.
 
-[^27-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Protection des sources
 
@@ -438,8 +438,8 @@ L’al. 1 n’est pas applicable si le juge constate que:
 - b.[^27a-1] à défaut du témoignage, un homicide au sens des art. 115 à 117 du présent code ou un autre crime réprimé par une peine privative de liberté de trois ans au moins ou encore un délit au sens des art. 141 à 143*a* et 153 à 156 du présent code, des art. 197, al. 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> et 322<sup>septies</sup> CP[^27a-2], ou de l’art. 19, al. 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup**)**[^27a-3] ne peuvent être élucidés ou que la personne inculpée d’un tel acte ne peut être arrêtée.
 
 [^27a-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^27a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^27a-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^27a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^27a-3]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 ### Titre 3 Peines et mesures
 
@@ -480,7 +480,7 @@ L’al. 1 n’est pas applicable si le juge constate que:
 <sup>4</sup> L’art. 79*a* CP[^29-2] s’applique à l’exécution de la peine pécuniaire sous forme de travail d’intérêt général.[^29-3]
 
 [^29-1]: Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^29-3]: Introduit selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Peine privative de liberté de substitution
@@ -491,7 +491,7 @@ L’al. 1 n’est pas applicable si le juge constate que:
 
 <sup>2</sup> Si la peine pécuniaire est prononcée par une autorité administrative, un juge doit statuer sur la peine privative de liberté de substitution.
 
-<sup>3</sup> à <sup>5</sup> …[^30-1]
+<sup>3 à <sup>5</sup></sup> …[^30-1]
 
 [^30-1]: Abrogés par le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), avec effet au 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
@@ -544,7 +544,7 @@ Le juge peut prononcer une peine privative de liberté à la place d’une peine
 
 <sup>2</sup> En cas de service actif, le Conseil fédéral peut introduire l’exécution militaire de la peine privative de liberté. Il règle les modalités.
 
-[^34b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^34b-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Peine accessoire Dégradation
 
@@ -593,7 +593,7 @@ Le juge peut prononcer une peine privative de liberté à la place d’une peine
 <sup>3</sup> Tant la partie suspendue que la partie à exécuter doivent être de six mois au moins. Les règles d’octroi de la libération conditionnelle (art. 86 CP[^37-2]) ne s’appliquent pas à la partie à exécuter.[^37-3]
 
 [^37-1]: Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^37-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^37-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^37-3]: Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### 3. Dispositions communes
@@ -774,7 +774,7 @@ La procédure ne peut pas être suspendue provisoirement:
 [^46b-6]: Nouvelle teneur selon le ch. I 4 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^46b-7]: Introduit par le ch. I 4 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^46b-8]: Introduit par le ch. I 4 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^46b-9]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^46b-9]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### Chapitre 5 Mesures
 
@@ -788,7 +788,7 @@ La procédure ne peut pas être suspendue provisoirement:
 
 <sup>3</sup> Les mesures sont exécutées conformément au CP.
 
-[^47-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^47-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Exclusion de l’armée à titre de mesure de sûreté
 
@@ -808,7 +808,7 @@ La procédure ne peut pas être suspendue provisoirement:
 
 <sup>2</sup> Si l’auteur est condamné à une autre peine, le juge peut prononcer son exclusion de l’armée.
 
-[^49-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 1*a*. Expulsion
 
@@ -839,7 +839,7 @@ Le juge expulse de Suisse l’étranger qui est condamné pour l’une des infra
 [^49a-2]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^49a-3]: Nouvelle teneur selon le ch. I 4 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^49a-4]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^49a-5]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^49a-5]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 ### b. Expulsion non obligatoire
 
@@ -850,7 +850,7 @@ Le juge expulse de Suisse l’étranger qui est condamné pour l’une des infra
 Le juge peut expulser un étranger du territoire suisse pour une durée de trois à quinze ans si, pour un crime ou un délit non visé à l’art. 49*a*, celui-ci a été condamné à une peine ou a fait l’objet d’une mesure au sens des art. 59 à 61 ou 64 CP[^49abis-2].
 
 [^49abis-1]: Introduit par le ch. I 2 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49abis-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49abis-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### c. Dispositions communes. Récidive
 
@@ -873,7 +873,7 @@ Le juge peut expulser un étranger du territoire suisse pour une durée de trois
 L’exécution est régie par les art. 66*c* et 66*d* CP[^49c-2].
 
 [^49c-1]: Introduit par le ch. I 2 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^49c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. Interdiction d’exercer une activité, interdiction de contact et interdiction géographique
 
@@ -919,7 +919,7 @@ Dans les cas de très peu de gravité, le juge peut exceptionnellement renoncer 
 [^50-1]: Nouvelle teneur selon le ch. I 2 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^50-2]: Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^50-3]: Introduit par le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^50-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^50-5]: Nouvelle teneur selon le ch. I 4 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^50-6]: Nouvelle teneur selon le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50-7]: Nouvelle teneur selon le ch. I 4 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
@@ -938,7 +938,7 @@ Dans les cas de très peu de gravité, le juge peut exceptionnellement renoncer 
 
 <sup>1</sup> Sont des activités professionnelles au sens de l’art. 50 les activités déployées dans l’exercice à titre principal ou accessoire d’une profession, d’une industrie ou d’un commerce. Sont des activités non professionnelles organisées les activités exercées dans le cadre d’une association ou d’une autre organisation et ne servant pas, ou pas en premier lieu, des fins lucratives.
 
-<sup>2</sup> L’interdiction d’exercer une activité au sens de l’art. 50 consiste à interdire à l’auteur d’exercer une activité de manière indépendante, en tant qu’organe d’une personne morale ou d’une société commerciale ou au titre de mandataire ou de représentant d’un tiers ou de la faire exercer par une personne liée par ses instructions.
+<sup>2</sup> L’interdiction d’exercer une activité au sens de l’art. 50 consiste à interdire à l’auteur d’exercer une activité de manière indépendante, en tant qu’organe d’une personne morale ou d’une société commerciale, ou dans une autre fonction qui doit être inscrite au registre du commerce ou au titre de mandataire ou de représentant d’un tiers ou de la faire exercer par une personne liée par ses instructions.[^50a-2]
 
 <sup>3</sup> S’il y a lieu de craindre que l’auteur commette des infractions dans l’exercice de son activité alors même qu’il agit selon les instructions et sous le contrôle d’un supérieur ou d’un surveillant, le juge lui interdit totalement l’exercice de cette activité.
 
@@ -962,13 +962,14 @@ Par activités impliquant des contacts réguliers avec des mineurs ou d’autres
   - 8\. les transports,
   - 9\. la vente et le prêt directs d’objets destinés spécifiquement aux mineurs ou à d’autres personnes particulièrement vulnérables, ainsi que l’activité d’intermédiaire direct dans de telles ventes ou de tels prêts, pour autant qu’il s’agisse d’une activité exercée à titre principal;
 
-- b. les autres activités exercées principalement ou régulièrement dans des établissements qui offrent les prestations visées à la let. a, à l’exception de celles dont l’emplacement ou l’horaire garantit qu’elles ne peuvent pas impliquer de contacts avec des mineurs ou d’autres personnes particulièrement vulnérables.[^50a-2]
+- b. les autres activités exercées principalement ou régulièrement dans des établissements qui offrent les prestations visées à la let. a, à l’exception de celles dont l’emplacement ou l’horaire garantit qu’elles ne peuvent pas impliquer de contacts avec des mineurs ou d’autres personnes particulièrement vulnérables.[^50a-3]
 
-<sup>6</sup> Par personnes particulièrement vulnérables, on entend des personnes qui ont besoin de l’assistance d’autrui pour accomplir les actes ordinaires de la vie ou déterminer leur existence en raison de leur âge, d’une maladie ou d’une déficience corporelle, mentale ou psychique durable.[^50a-3]
+<sup>6</sup> Par personnes particulièrement vulnérables, on entend des personnes qui ont besoin de l’assistance d’autrui pour accomplir les actes ordinaires de la vie ou déterminer leur existence en raison de leur âge, d’une maladie ou d’une déficience corporelle, mentale ou psychique durable.[^50a-4]
 
 [^50a-1]: Nouvelle teneur selon le ch. I 2 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^50a-2]: Introduit par le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50a-2]: Nouvelle teneur selon le ch. I 4 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^50a-3]: Introduit par le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50a-4]: Introduit par le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### b. Interdiction de contact et interdiction géographique
 
@@ -1032,7 +1033,7 @@ L’auteur peut demander à l’autorité compétente de lever l’interdiction 
 <sup>9</sup> Si le condamné enfreint une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique durant le délai d’épreuve, l’art. 294 CP et les dispositions du CP sur la révocation du sursis ou du sursis partiel et sur la réintégration dans l’exécution de la peine ou de la mesure sont applicables.
 
 [^50c-1]: Introduit par le ch. I 2 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^50c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^50c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^50c-3]: Abrogée par le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50c-4]: Nouvelle teneur selon le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50c-5]: Introduit par le ch. I 2 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
@@ -1059,7 +1060,7 @@ L’auteur peut demander à l’autorité compétente de lever l’interdiction 
 Si l’auteur a utilisé un véhicule automobile pour commettre un crime ou un délit, le juge peut ordonner conjointement à une peine ou à une mesure prévue aux art. 59 à 64 CP[^50e-2] le retrait du permis d’élève conducteur ou du permis de conduire pour une durée de un mois à cinq ans s’il y a lieu de craindre de nouveaux abus.
 
 [^50e-1]: Anciennement art. 50*a*<sup>bis</sup>
-[^50e-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^50e-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. Publication du jugement
 
@@ -1122,7 +1123,7 @@ Si l’auteur a utilisé un véhicule automobile pour commettre un crime ou un d
 Le juge prononce la confiscation de toutes les valeurs patrimoniales sur lesquelles une organisation criminelle ou terroriste exerce un pouvoir de disposition. Les valeurs appartenant à une personne qui a participé ou apporté son soutien à une telle organisation (art. 260<sup>ter</sup> CP[^52-2]) sont présumées soumises, jusqu’à preuve du contraire, au pouvoir de disposition de l’organisation.
 
 [^52-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^52-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^52-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 6. Allocation au lésé
 
@@ -1148,7 +1149,7 @@ Si un crime ou un délit a causé à une personne un dommage qui n’est couvert
 
 Les art. 93 à 96 CP[^54-1] sont applicables.
 
-[^54-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^54-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Titre 5 Prescription
 
@@ -1297,7 +1298,7 @@ Les dispositions des titres 1 à 6 de la partie 1 du présent code s’appliquen
 <sup>3</sup> Les mesures entraînant une privation de liberté (art. 59 à 61 et 64 CP[^60b-2]), l’interdiction d’exercer une activité (art. 50), l’interdiction de contact et l’interdiction géographique (art. 50*b*) ainsi que la publication du jugement (art. 50*f*) ne peuvent être ordonnées que dans les cas expressément prévus par la loi.[^60b-3]
 
 [^60b-1]: Nouvelle teneur selon le ch. I 2 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^60b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^60b-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^60b-3]: Nouvelle teneur selon le ch. I 2 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 ### Amende
@@ -1663,7 +1664,7 @@ Est puni d’une peine privative de liberté de 18 mois au plus ou d’une peine
 [^81-4]: Nouvelle teneur selon le ch. IV let. b de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 [^81-5]: Introduit par le ch. IV let. b de la LF du 3 oct. 2003 (Révision du droit disciplinaire) ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^81-6]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^81-7]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^81-7]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 [^81-8]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^81-9]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^81-10]: Nouvelle teneur selon le ch. III 2 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
@@ -2233,7 +2234,7 @@ Est puni d’une peine privative de liberté de cinq ans au moins quiconque comm
 <sup>4</sup> Dans les cas de moindre gravité relevant de l’al. 1, let. c à g, il peut prononcer une peine privative de liberté d’un an au moins.
 
 [^111-1]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^111-2]: Conv. de Genève du 12 août 1949 pour l’amélioration du sort des blessés et des malades dans les forces armées en campagne (CG I), [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); conv. de Genève du 12 août 1949 pour l’amélioration du sort des blessés, des malades et des naufragés des forces armées sur mer (CG II), [RS 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); conv. de Genève du 12 août 1949 relative au traitement des prisonniers de guerre (CG III), [RS 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); conv. de Genève du 12 août 1949 relative à la protection des personnes civiles en temps de guerre (CG IV), [RS 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297).
+[^111-2]: Conv. de Genève du 12 août 1949 pour l’amélioration du sort des blessés et des malades dans les forces armées en campagne (CG I), [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); conv. de Genève du 12 août 1949 pour l’amélioration du sort des blessés, des malades et des naufragés des forces armées sur mer (CG II), [RS 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); conv. de Genève du 12 août 1949 relative au traitement des prisonniers de guerre (CG III), [RS 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); conv. de Genève du 12 août 1949 relative à la protection des personnes civiles en temps de guerre (CG IV), [RS 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967).
 
 ### 3. Autres crimes de guerre
 
@@ -2258,7 +2259,7 @@ Est puni d’une peine privative de liberté de trois ans au moins quiconque, da
 <sup>3</sup> Dans les cas de moindre gravité, le juge peut prononcer une peine privative de liberté d’un an au moins.
 
 [^112-1]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^112-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^112-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ### b. Traitement médical immotivé, atteinte au droit à l’autodétermination sexuelle ou à la dignité de la personne
 
@@ -2394,13 +2395,13 @@ La poursuite des actes visés aux chapitres 6 et 6<sup>bis</sup> et à l’art. 
 - f. art. 16 de la loi du 20 mars 2009 sur le Tribunal fédéral des brevets[^114b-6];
 - g. art. 50 de la loi du 19 mars 2010 sur les autorités de poursuite pénale[^114b-7].
 
-[^114b-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^114b-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^114b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^114b-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^114b-5]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^114b-6]: [RS 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
-[^114b-7]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^114b-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^114b-2]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^114b-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^114b-4]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^114b-5]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^114b-6]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^114b-7]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ### Chapitre 7 Crimes ou délits contre la vie et l’intégrité corporelle
 
@@ -3578,7 +3579,7 @@ Quiconque, dans le dessein de porter atteinte aux intérêts pécuniaires ou aux
 <sup>3</sup> L’auteur n’est pas punissable s’il favorise l’un de ses proches ou une autre personne avec laquelle il entretient des relations assez étroites pour rendre sa conduite excusable.
 
 [^176-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^176-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^176-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Faire évader des détenus
 
@@ -3678,7 +3679,7 @@ Sont assimilées aux fautes disciplinaires:
 - c. les infractions à la LStup[^180-2], conformément à l’art. 218, al. 4.
 
 [^180-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^180-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^180-2]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 ### Punissabilité
 
@@ -3722,8 +3723,8 @@ Sont assimilées aux fautes disciplinaires:
 
 <sup>2</sup> La responsabilité disciplinaire des membres du corps des gardes-frontière est régie par les dispositions de la loi du 24 mars 2000 sur le personnel de la Confédération[^183-1], par l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^183-2], ainsi que par les prescriptions du règlement de la Direction générale des douanes.
 
-[^183-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^183-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^183-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^183-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ### Prescription de la poursuite
 
@@ -3960,7 +3961,7 @@ Le Conseil fédéral règle l’étendue de la compétence disciplinaire:
 
 <sup>2</sup> L’appréhension et l’arrestation provisoire prévues aux art. 54 à 55*a* de la procédure pénale militaire du 23 mars 1979[^202-1] sont réservées.
 
-[^202-1]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^202-1]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### Contenu de la décision et notification
 
@@ -4025,7 +4026,7 @@ Des renseignements concernant les inscriptions portées au registre des sanction
 
 [^book2-chap5-1]
 
-[^book2-chap5-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^book2-chap5-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### 1. Recours disciplinaire
 
@@ -4122,7 +4123,7 @@ La décision sur recours ne peut aggraver la sanction prononcée. Elle peut pron
 
 <sup>7</sup> La décision du tribunal militaire est définitive.
 
-[^210-1]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^210-1]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### 3. Dispositions communes
 
@@ -4178,7 +4179,7 @@ Le Conseil fédéral édicte les dispositions nécessaires d’exécution du dro
 
 <sup>3</sup> Les dispositions du CP[^215-1] relatives au régime d’exécution des peines et des mesures, et aux droits et aux obligations du détenu s’appliquent aussi aux auteurs condamnés en vertu de l’ancien droit.
 
-[^215-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^215-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Prescription
 
@@ -4215,7 +4216,7 @@ Abrogé
 [^218-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1967, en vigueur depuis le 1<sup>er</sup> juil. 1968 ([RO 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 605](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
 [^218-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Mod.s découlant de la nouvelle PG CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^218-3]: Nouvelle teneur de la phrase selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^218-4]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245). Actuellement: art. 2 de la LStup.
+[^218-4]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339). Actuellement: art. 2 de la LStup.
 [^218-5]: Introduit par le ch. II de la LF du 21 juin 1991 ([RO 1991 2512](https://fedlex.data.admin.ch/eli/oc/1991/2512_2512_2512); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)). Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Tribunaux ordinaires
@@ -4444,7 +4445,7 @@ Pour les jugements rendus en vertu du code pénal militaire, le droit de grâce 
 
 Lorsqu’une prescription du droit fédéral renvoie à une disposition abrogée ou modifiée par le présent code, le renvoi s’applique à la disposition de ce code qui règle la matière.
 
-[^234-1]: Abrogé par le ch. I 2 de la LF du 23 mars 1979 ([RO 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)). Nouvelle teneur selon le ch. III de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787).
+[^234-1]: Nouvelle teneur selon le ch. III de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787).
 
 ### Réserve en faveur de dispositions du droit en vigueur
 
@@ -4456,8 +4457,8 @@ Sont réservées:[^235-1]
 - 2\.[^235-4] les dispositions disciplinaires applicables aux membres du corps des gardes-frontière.
 
 [^235-1]: Nouvelle teneur selon le ch. II de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^235-2]: [RO **41** 777, **51** 175. RS **5** 404 art. 92 al. 1]. Actuellement «les dispositions pénales de l’O du 10 déc. 2004» ([RS 511.22](https://fedlex.data.admin.ch/eli/cc/2004/817)).
-[^235-3]: [RS **5** 156. [RO 1959 2097](https://fedlex.data.admin.ch/eli/oc/1959/2035_2097_2125)art. 48 al. 2 let. a]. Actuellement «les dispositions pénales de la LF du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir» ([RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)).
+[^235-2]: [RO **41** 777, **51** 175. [RS 5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7227)404 art. 92 al. 1]. Actuellement «les dispositions pénales de l’O du 10 déc. 2004» ([RS 511.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7392)).
+[^235-3]: [[RS 5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7227)156. [RO 1959 2097](https://fedlex.data.admin.ch/eli/oc/1959/2035_2097_2125)art. 48 al. 2 let. a]. Actuellement «les dispositions pénales de la LF du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir» ([RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)).
 [^235-4]: Nouvelle teneur selon le ch. II de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 
 ### Statut du personnel soumis au droit pénal militaire
@@ -4511,7 +4512,7 @@ Le présent code entrera en vigueur le 1<sup>er</sup> janvier 1928.
 [^u2-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle PG CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^u2-3]: [RO 1975 55](https://fedlex.data.admin.ch/eli/oc/1975/55_55_55), [1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)
 [^u2-4]: [RO 1951 439](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)
-[^u2-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^u2-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^u2-6]: Abrogé par l’annexe 1 ch. 7 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Disposition transitoire de la modification du 19 juin 2015
