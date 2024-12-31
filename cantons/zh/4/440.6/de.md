@@ -3,10 +3,9 @@ canton: ZH
 number: "440.6"
 title: Gesetz über den Beitritt zur interkantonalen Kulturlastenvereinbarung
 language: de
-nachtrag: "115"
-valid_until: 2025-01-01
+nachtrag: "127"
 adopted: 2005-02-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-440_6-2005_02_14-2010_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-440_6-2005_02_14-2010_01_01-127.html"
 text: pdf
 ---
 
@@ -56,7 +55,7 @@ barung beigetreten ist. Zahlungspflichtiger Kanton ist ein Vereinbarungskanton, 
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 25 - 127
 
 - Die künstlerische Qualität der Institution strahlt über den Standortkanton hinaus in die umliegenden Nachfragekantone und ist für deren Bevölkerung nachweisbar von Interesse.
 
@@ -158,7 +157,7 @@ für jede überregionale Kultureinrichtung.
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 25 - 127
 
 <sup>7</sup> Für Kultureinrichtungen ohne eigenes Ensemble werden die anrechenbaren Kosten im Verhältnis des Anteils der überregionalen Kulturveranstaltungen an der Gesamtzahl der Veranstaltungen im Stammhaus herabgesetzt.
 
@@ -256,7 +255,7 @@ Kultur- und Kongresszentrum Luzern (KKL) Luzerner Theater Luzerner Sinfonieorche
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 25 - 127
 
 ### Anhang 2
 
@@ -264,7 +263,7 @@ Kultur- und Kongresszentrum Luzern (KKL) Luzerner Theater Luzerner Sinfonieorche
 
 Die Kantone Luzern und Zug erklären zu Art. 2 Abs. 3 Folgendes: In Berücksichtigung des eigenen Angebotes im Theater Casino Zug hat der Kanton Zug nur für 60% der vorgesehenen 80% (= 100%) des kulturellen Angebotes des KKL mit überregionaler Ausstrahlung Abgeltungen zu leisten.
 
-[^hZusatzprotokollder-1]: Fassung gemäss RRB vom 26. September 2018 (OS 73, 582).
+[^hZusatzprotokollder-1]: Fassung gemäss RRB vom 19. April 2023 (OS 78, 369). 1. 1. 25 - 127 7
 
 ### Anhang 3
 
@@ -276,9 +275,9 @@ Die Kantone Zürich und Aargau erklären zu Art. 11 Folgendes:
 
 <sup>1</sup> Aufgrund des vielfältigen Kulturangebots des Kantons Aargau, das auch von Zürcher Besuchenden in Ergänzung zu ihrem überregionalen Kulturangebot genutzt wird, reduziert sich die errechnete Aargauer Abgeltung um 16%.
 
-<sup>2</sup> Nach Abschluss der 5. Abgeltungsperiode gemäss Art. 8 der Vereinbarung wird über die Berechtigung und den Umfang der gewährten Reduktion neu verhandelt.
+<sup>2</sup> Nach Abschluss der 6. Abgeltungsperiode gemäss Art. 8 der Vereinbarung wird über die Berechtigung und den Umfang der gewährten Reduktion neu verhandelt.
 
-[^hZusatzprotokollder_2-1]: Fassung gemäss RRB vom 25. August 2021 (OS 76, 492). 1. 1. 22 - 115 7
+[^hZusatzprotokollder_2-1]: Fassung gemäss RRB vom 25. August 2021 (OS 76, 492).
 
 ### Anhang 4
 
@@ -318,3 +317,4 @@ Der Regierungsrat regelt die Einzelheiten über den Vollzug der Vereinbarung.
 - [4] Fassung gemäss RRB vom 11. März 2015 (OS 70, 102).
 - [5] Fassung gemäss RRB vom 11. März 2015 (OS 70, 103).
 - [6] Obsolet.
+- [7] Fassung gemäss RRB vom 26. September 2018 (OS 73, 582).
