@@ -4,13 +4,13 @@ number: "736"
 title: Planungs- und Bauverordnung
 short: PBV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-18
+version: 2025-01-01
+valid_until: 2025-05-31
+version_adopted: 2024-11-29
 adopted: 2013-10-29
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/736"
-pdf: "https://srl.lu.ch/api/de/versions/4273/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/4273/pdf_file"
 
 (PBV)
 
-vom 29.10.2013 (Stand 01.01.2023)
+vom 29.10.2013 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 52 Absatz 3 des Rohrleitungsgesetzes vom 4. Oktober 1963[^ingress-1], Artikel 28 Absatz 1 der Rohrleitungsverordnung vom 2. Februar 2000[^ingress-2] sowie die §§ 3 Absatz 2, 10a, 29, 35 Absatz 2, 38 Absatz 6, 39c Absatz 7, 39d Absatz 4, 54 Absatz 4, 61 Absätze 1 und 2, 65 Absatz 5, 77 Absatz 4, 100, 105h Absatz 1, 112a Absatz 3, 117b Absatz 3, 133 Absatz 4, 136 Absätze 3 und 4, 139 Absätze 2 und 4, 145 Absätze 1 und 6, 146 Absatz 3, 149, 157 Absatz 5, 174 Absatz 3, 182 Absatz 1, 184 Absatz 3, 188 Absätze 1 und 3, 192a Absatz 4, 193 Absatz 1, 198, 198a und 212 Absatz 3 des Planungs- und Baugesetzes vom 7. März 1989[^ingress-3],
+gestützt auf Artikel 52 Absatz 3 des Rohrleitungsgesetzes vom 4. Oktober 1963[^ingress-1], Artikel 28 Absatz 1 der Rohrleitungsverordnung vom 2. Februar 2000[^ingress-2] sowie die §§ 3 Absatz 2, 10a, 29, 35 Absatz 2, 38 Absatz 6, 39c Absatz 7, 39d Absatz 4, 54 Absatz 4, 61 Absätze 1 und 2, 65 Absatz 5, 77 Absatz 4, 100, 105h Absatz 1, 112a Absatz 3, 117b Absatz 3, 119 Absatz 2, 133 Absatz 4, 136 Absätze 3 und 4, 139 Absätze 2 und 4, 145 Absätze 1 und 6, 146 Absatz 3, 149, 157 Absatz 5, 174 Absatz 3, 182 Absatz 1, 184 Absatz 3, 188 Absätze 1 und 3, 192a Absatz 4, 193 Absatz 1, 198, 198a, 205c Absatz 2, 205g Absatz 3 und 212 Absatz 3 des Planungs- und Baugesetzes vom 7. März 1989[^ingress-3],
 
 auf Antrag des Bau-, Umwelt- und Wirtschaftsdepartementes,
 
@@ -386,6 +386,14 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 **Erschliessung durch die Gemeinde**
 
 <sup>1</sup> Erstellt die Gemeinde auf Gesuch hin anstelle der interessierten Grundeigentümerinnen und -eigentümer Erschliessungsanlagen oder einzelne Teile davon, kann sie für die mutmasslichen Kosten vor Beginn der Arbeiten Vorschüsse oder Sicherheiten verlangen.
+
+#### § 23a
+
+**Ladeinfrastruktur für Elektrofahrzeuge**
+
+<sup>1</sup> Die Anforderungen für die Ausbaustufe der Ladeinfrastruktur für Elektrofahrzeuge richten sich nach dem Merkblatt SIA 2060 «Infrastruktur für Elektrofahrzeuge in Gebäuden» (Ausgabe 2020).
+
+<sup>2</sup> Bei Parkplätzen für Bewohnerinnen und Bewohner sind mindestens 60 Prozent und bei Parkplätzen für Beschäftige mindestens 20 Prozent der Parkplätze mit einer ausreichenden Anschlussleitung sowie mit Leerrohren für eine zukünftige Installation der Ladeinfrastruktur gemäss Ausbaustufe C1 «Power to garage» auszurüsten.
 
 ## 3 Landumlegung
 
@@ -971,6 +979,40 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 <sup>3</sup> Bei der Ermittlung der Behandlungsdauer der einzelnen Fälle sind die für die Behebung von gerügten Mängeln des Baugesuchs benötigten Arbeitstage und solche während Sistierungen nicht mitzurechnen.
 
 <sup>4</sup> Werden die in den Absätzen 1 und 2 vorgegebenen Erreichungsgrade unterschritten, sind organisatorische Massnahmen vorzusehen.
+
+## 5a Kantonales Plangenehmigungsverfahren
+
+#### § 63a
+
+**Verfahren**
+
+<sup>1</sup> Für das Plangenehmigungsverfahren sind sinngemäss die Vorschriften für das Baubewilligungsverfahren gemäss den §§ 55 ff. anwendbar, soweit nichts Abweichendes festgelegt wird.
+
+<sup>2</sup> Mit dem Plangenehmigungsgesuch sind die für die Prüfung, die Beurteilung und die Interessenabwägung erforderlichen Unterlagen nach § 55 Absatz 2 einzureichen, soweit diese für die betreffende Anlage relevant sind. Zusätzlich sind – soweit erforderlich – einzureichen:
+
+- a. der massgebende Nutzungsplan,
+- b. die massgebenden Bau- und Zonenvorschriften,
+- c. der Planungsbericht nach Artikel 47 der Raumplanungsverordnung[^63a-1],
+- d. die notwendigen Unterlagen zur Prüfung der Umweltverträglichkeit,
+- e. das Enteignungsgesuch mit den erforderlichen Unterlagen,
+- f. das Konzessionsgesuch mit den erforderlichen Unterlagen.
+
+<sup>3</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement prüft die Unterlagen auf ihre Vollständigkeit und kann weitere für die Prüfung und Beurteilung der geplanten Anlage notwendige Unterlagen einverlangen. Es kann entsprechende Richtlinien erlassen.
+
+<sup>4</sup> Vor der öffentlichen Auflage des Gesuchs muss der Gesuchsteller oder die Gesuchstellerin die Veränderungen, welche die geplante Anlage im Gelände bewirkt, sichtbar machen, indem er oder sie diese aussteckt; bei Hochbauten sind Profile aufzustellen.
+
+<sup>5</sup> Als betroffen im Sinne von § 205c Absatz 4 PBG gelten Grundeigentümerinnen und Grundeigentümer sowie Gemeinden im Umkreis der zweifachen Gesamthöhe einer Windkraftanlage.
+
+<sup>6</sup> Das kantonale Plangenehmigungsverfahren ist bei Bedarf mit dem bundesrechtlichen Plangenehmigungsverfahren nach den Artikeln 16, 16a–16i und 17 des Elektrizitätsgesetzes vom 24. Juni 1902[^63a-2] zu koordinieren.
+
+[^63a-1]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de)
+[^63a-2]: SR [734.0](https://db.clex.ch/link/Bund/734.0/de)
+
+#### § 63b
+
+**Beteiligung an Stromerzeugung aus Windenergie**
+
+<sup>1</sup> Als betroffen im Sinne von § 205g Absatz 1 PBG gelten Gemeinden, deren Gemeindegebiet im Umkreis von 1,5 km um eine projektierte Windkraftanlage liegt.
 
 ## 6 Kosten
 
