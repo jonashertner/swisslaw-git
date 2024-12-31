@@ -4,13 +4,12 @@ number: "180.13"
 title: Verordnung über die Rechnungslegung der Bürgergemeinden und der Burgergemeinden
 short: Bürgergemeinderechnungsverordnung
 language: de
-version: 2014-01-01
-valid_until: 2024-12-31
-version_adopted: 2012-06-26
+version: 2025-01-01
+version_adopted: 2024-12-03
 adopted: 1999-10-12
 in_force: 2000-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180.13"
-pdf: "https://bl.clex.ch/api/de/versions/3998/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4055/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3998/pdf_file"
 
 (Bürgergemeinderechnungsverordnung)
 
-Vom 12.10.1999 (Stand 01.01.2014)
+Vom 12.10.1999 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -306,7 +305,7 @@ beschliesst:
 
 **Passation der Jahresrechnung**
 
-<sup>1</sup> Die Bürgergemeinden reichen die Jahresrechnung mit sämtlichen Verzeichnissen spätestens 2 Wochen nach dem Gemeindeversammlungsbeschluss dem Amt ein.
+<sup>1</sup> Die Bürgergemeinden reichen die Jahresrechnung mit sämtlichen Verzeichnissen spätestens 2 Wochen nach dem Gemeindeversammlungsbeschluss dem Generalsekretariat der Finanz- und Kirchendirektion ein.
 
 <sup>2</sup> Fristgerecht eingereichte Jahresrechnungen, zu denen die Direktion bis zum 30. September keinen Bericht erstattet hat, haben passiert.
 
