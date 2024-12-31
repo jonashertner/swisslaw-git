@@ -4,13 +4,12 @@ number: "495.010"
 title: Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen
 short: Interkantonale Kulturlastenvereinbarung
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-10-17
+version: 2025-01-01
+version_adopted: 2023-06-28
 adopted: 2003-07-01
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.010"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2668/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3680/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2668/pdf_file"
 
 (Interkantonale Kulturlastenvereinbarung)
 
-Vom 01.07.2003 (Stand 01.01.2019)
+Vom 01.07.2003 (Stand 01.01.2025)
 
 ## 1. Allgemeines
 
