@@ -1,33 +1,33 @@
 ---
 canton: SG
 number: "331.538"
-title: Regierungsbeschluss über die Prämienverbilligung 2024 für Personen im Kanton St.Gallen
+title: Regierungsbeschluss über die Prämienverbilligung 2025 für Personen im Kanton St.Gallen
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-05
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-10
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.538"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3568/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsbeschluss über die Prämienverbilligung 2024 für Personen im Kanton St.Gallen
+# Regierungsbeschluss über die Prämienverbilligung 2025 für Personen im Kanton St.Gallen
 
-vom 05.12.2023 (Stand 01.01.2024)
+vom 10.12.2024 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
 erlässt
 
-in Ausführung von Art. 19 der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^ingress-1]
+in Ausführung von [Art. 19](https://www.gesetzessammlung.sg.ch/data/331.111/de/art19) der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^ingress-1]
 
 als Beschluss:[^ingress-2]
 
 [^ingress-1]: sGS [331.111](https://www.gesetzessammlung.sg.ch/data/331.111/de).
-[^ingress-2]: In Vollzug ab 1. Januar 2024.
+[^ingress-2]: In Vollzug ab 1. Januar 2025.
 
 ## I. Referenzprämien
 
@@ -52,17 +52,17 @@ als Beschluss:[^ingress-2]
 <sup>1</sup> Die regionalen Referenzprämien betragen:
 
 - a) für eine erwachsene Person ab dem 26. Altersjahr:
-  - 1\. Region 1: Fr. 5'692.80
-  - 2\. Region 2: Fr. 5'274.–
-  - 3\. Region 3: Fr. 5'021.40
+  - 1\. Region 1: Fr. 6'054.60
+  - 2\. Region 2: Fr. 5'659.20
+  - 3\. Region 3: Fr. 5'448.–
 - b) für eine erwachsene Person bis zum vollendeten 25. Altersjahr:
-  - 1\. Region 1: Fr. 4'148.40
-  - 2\. Region 2: Fr. 3'877.20
-  - 3\. Region 3: Fr. 3'711.60
+  - 1\. Region 1: Fr. 4'345.20
+  - 2\. Region 2: Fr. 4'070.40
+  - 3\. Region 3: Fr. 3'932.40
 - c) für ein Kind:
-  - 1\. Region 1: Fr. 1'334.40
-  - 2\. Region 2: Fr. 1'237.20
-  - 3\. Region 3: Fr. 1'180.80
+  - 1\. Region 1: Fr. 1'408.80
+  - 2\. Region 2: Fr. 1'305.60
+  - 3\. Region 3: Fr. 1'260.–
 
 ## II. Belastungsgrenzen
 
@@ -78,18 +78,18 @@ als Beschluss:[^ingress-2]
 
 **Höhe**
 
-<sup>1</sup> Für Alleinstehende ohne Kinder mit einem massgebenden Einkommen bis Fr. 17'500.– beträgt die Belastungsgrenze: 10,40 Prozent. Diese erhöht sich für das gesamte massgebende Einkommen um je 0,0002 Prozentpunkte für jeden Franken, um den es Fr. 17'500.– übersteigt.
+<sup>1</sup> Für Alleinstehende ohne Kinder mit einem massgebenden Einkommen bis Fr. 18'700.– beträgt die Belastungsgrenze: 12,55 Prozent. Diese erhöht sich für das gesamte massgebende Einkommen um je 0,0002 Prozentpunkte für jeden Franken, um den es Fr. 18'700.– übersteigt.
 
-<sup>2</sup> Für Verheiratete ohne Kinder mit einem massgebenden Einkommen bis Fr. 26'250.– beträgt die Belastungsgrenze: 10,40 Prozent. Diese erhöht sich für das gesamte massgebende Einkommen um je 0,0003 Prozentpunkte für jeden Franken, um den es Fr. 26'250.– übersteigt.
+<sup>2</sup> Für Verheiratete ohne Kinder mit einem massgebenden Einkommen bis Fr. 28'050.– beträgt die Belastungsgrenze: 12,55 Prozent. Diese erhöht sich für das gesamte massgebende Einkommen um je 0,0003 Prozentpunkte für jeden Franken, um den es Fr. 28'050.– übersteigt.
 
 <sup>3</sup> Für Alleinstehende mit Kindern gilt Folgendes:
 
-- a) Bis zu einem massgebenden Einkommen von Fr. 17'500.–, zuzüglich Fr. 8'750.– für jede weitere erwachsene Person bis zum vollendeten 25. Altersjahr und zuzüglich Fr. 5'250.– für jedes Kind beträgt die Belastungsgrenze: 9,20 Prozent.
+- a) Bis zu einem massgebenden Einkommen von Fr. 18'700.–, zuzüglich Fr. 9'350.– für jede weitere erwachsene Person bis zum vollendeten 25. Altersjahr und zuzüglich Fr. 5'610.– für jedes Kind beträgt die Belastungsgrenze: 11,35 Prozent.
 - b) Für jeden Franken, den das massgebende Einkommen den Betrag nach Bst. a dieser Bestimmung übersteigt, erhöht sich die Belastungsgrenze für das gesamte massgebende Einkommen um 0,0002 Prozentpunkte für die alleinstehende Person, zuzüglich 0,00005 Prozentpunkte für jede weitere erwachsene Person bis zum vollendeten 25. Altersjahr und zuzüglich 0,00003 Prozentpunkte für jedes Kind. Die maximale Erhöhung der Belastungsgrenze beträgt 0,0003 Prozentpunkte.
 
 <sup>4</sup> Für Verheiratete mit Kindern gilt Folgendes:
 
-- a) Bis zu einem massgebenden Einkommen von Fr. 26'250.–, zuzüglich Fr. 8'750.– für jede weitere erwachsene Person bis zum vollendeten 25. Altersjahr und zuzüglich Fr. 5'250.– für jedes Kind beträgt die Belastungsgrenze: 10,65 Prozent.
+- a) Bis zu einem massgebenden Einkommen von Fr. 28'050.–, zuzüglich Fr. 9'350.– für jede weitere erwachsene Person bis zum vollendeten 25. Altersjahr und zuzüglich Fr. 5'610.– für jedes Kind beträgt die Belastungsgrenze: 12,80 Prozent.
 - b) Für jeden Franken, den das massgebende Einkommen den Betrag nach Bst. a dieser Bestimmung übersteigt, erhöht sich die Belastungsgrenze für das gesamte massgebende Einkommen um 0,00025 Prozentpunkte für die Verheirateten, zuzüglich 0,00005 Prozentpunkte für jede weitere erwachsene Person bis zum vollendeten 25. Altersjahr und zuzüglich 0,00003 Prozentpunkte für jedes Kind. Die maximale Erhöhung der Belastungsgrenze beträgt 0,00035 Prozentpunkte.
 
 ## III. Obergrenze des Einkommens
@@ -98,20 +98,20 @@ als Beschluss:[^ingress-2]
 
 **Betrag a) ordentlich besteuerte Personen**
 
-<sup>1</sup> Die massgebende Obergrenze des nach [Art. 12](https://www.gesetzessammlung.sg.ch/data/331.111/de/art12) Abs. 2 Ziff. 1 bis 5<sup>septies</sup> der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^6-1] ermittelten Reineinkommens zur Verbilligung der Referenzprämien nach Art. 65 Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^6-2] beträgt bei ordentlich besteuerten Personen:
+<sup>1</sup> Die massgebende Obergrenze des nach [Art. 12](https://www.gesetzessammlung.sg.ch/data/331.111/de/art12) Abs. 2 Ziff. 1 bis 5<sup>septies</sup> der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^6-1] ermittelten Reineinkommens zur Verbilligung der Referenzprämien nach [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^6-2] beträgt bei ordentlich besteuerten Personen:
 
-- a) für Alleinstehende ohne Kinder Fr. 39'300.–
-- b) für Alleinstehende mit einem Kind Fr. 61'800.–
-- c) für Alleinstehende mit zwei Kindern Fr. 61'800.–
-- d) für Alleinstehende mit drei Kindern Fr. 66'800.–
-- e) für Alleinstehende mit vier Kindern Fr. 71'800.–
-- f) für Alleinstehende mit fünf und mehr Kindern Fr. 76'800.–
-- g) für Verheiratete ohne Kinder Fr. 58'900.–
-- h) für Verheiratete mit einem Kind Fr. 81'400.–
-- i) für Verheiratete mit zwei Kindern Fr. 81'400.–
-- j) für Verheiratete mit drei Kindern Fr. 86'400.–
-- k) für Verheiratete mit vier Kindern Fr. 91'400.–
-- l) für Verheiratete mit fünf und mehr Kindern Fr. 96'400.–
+- a) für Alleinstehende ohne Kinder Fr. 40'400.–
+- b) für Alleinstehende mit einem Kind Fr. 63'500.–
+- c) für Alleinstehende mit zwei Kindern Fr. 63'500.–
+- d) für Alleinstehende mit drei Kindern Fr. 68'500.–
+- e) für Alleinstehende mit vier Kindern Fr. 73'500.–
+- f) für Alleinstehende mit fünf und mehr Kindern Fr. 78'500.–
+- g) für Verheiratete ohne Kinder Fr. 60'500.–
+- h) für Verheiratete mit einem Kind Fr. 83'700.–
+- i) für Verheiratete mit zwei Kindern Fr. 83'700.–
+- j) für Verheiratete mit drei Kindern Fr. 88'700.–
+- k) für Verheiratete mit vier Kindern Fr. 93'700.–
+- l) für Verheiratete mit fünf und mehr Kindern Fr. 98'700.–
 
 <sup>2</sup> [Art. 12](https://www.gesetzessammlung.sg.ch/data/331.111/de/art12) Abs. 3 der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^6-3] wird sachgemäss angewendet.
 
@@ -125,22 +125,22 @@ als Beschluss:[^ingress-2]
 
 <sup>1</sup> Die massgebende Obergrenze des Bruttoeinkommens zur Verbilligung der Referenzprämien nach [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^7-1] beträgt bei quellenbesteuerten Personen:
 
-- a) für Alleinstehende ohne Kinder Fr. 52'300.–
-- b) für Alleinstehende mit einem Kind Fr. 82'300.–
-- c) für Alleinstehende mit zwei Kindern Fr. 82'300.–
-- d) für Alleinstehende mit drei Kindern Fr. 89'000.–
-- e) für Alleinstehende mit vier Kindern Fr. 95'700.–
-- f) für Alleinstehende mit fünf und mehr Kindern Fr. 102'300.–
-- g) für Verheiratete ohne Kinder Fr. 78'500.–
-- h) für Verheiratete mit einem Kind Fr. 108'500.–
-- i) für Verheiratete mit zwei Kindern Fr. 108'500.–
-- j) für Verheiratete mit drei Kindern Fr. 115'200.–
-- k) für Verheiratete mit vier Kindern Fr. 121'800.–
-- l) für Verheiratete mit fünf und mehr Kindern Fr. 128'500.–
+- a) für Alleinstehende ohne Kinder Fr. 53'800.–
+- b) für Alleinstehende mit einem Kind Fr. 84'700.–
+- c) für Alleinstehende mit zwei Kindern Fr. 84'700.–
+- d) für Alleinstehende mit drei Kindern Fr. 91'300.–
+- e) für Alleinstehende mit vier Kindern Fr. 98'000.–
+- f) für Alleinstehende mit fünf und mehr Kindern Fr. 104'700.–
+- g) für Verheiratete ohne Kinder Fr. 80'700.–
+- h) für Verheiratete mit einem Kind Fr. 111'600.–
+- i) für Verheiratete mit zwei Kindern Fr. 111'600.–
+- j) für Verheiratete mit drei Kindern Fr. 118'200.–
+- k) für Verheiratete mit vier Kindern Fr. 124'900.–
+- l) für Verheiratete mit fünf und mehr Kindern Fr. 131'600.–
 
 <sup>2</sup> [Art. 12](https://www.gesetzessammlung.sg.ch/data/331.111/de/art12) Abs. 3 der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^7-2] wird sachgemäss angewendet.
 
 [^7-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 [^7-2]: sGS [331.111](https://www.gesetzessammlung.sg.ch/data/331.111/de).
 
-nGS 2023-083
+nGS 2024-065
