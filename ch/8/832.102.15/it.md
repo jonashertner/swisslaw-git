@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 18 ottobre 2011 concernente le riserve nell'assicu
 short: ORAMal-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/676"
 language: it
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2011-10-18
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/676/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2011-676-20210101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/676/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2011-676-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20210101/it"
 
 (ORAMal-DFI)
 
-del 18 ottobre 2011 (Stato 1° gennaio 2021)
+del 18 ottobre 2011 (Stato 1° gennaio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -66,15 +66,24 @@ Se non esistono attivi equivalenti deve essere determinato un valore conforme al
 
 <sup>1</sup> Il rischio attuariale è quantificato su un anno normale.
 
-<sup>2</sup> È determinato separatamente per l’assicurazione obbligatoria delle cure medico-sanitarie, per l’indennità giornaliera (assicurazione individuale e collettiva) e per la riassicurazione secondo l’articolo 28 della legge del 26 settembre 2014[^3-1] sulla vigilanza sull’assicurazione malattie (LVAMal)[^3-2].
+<sup>2</sup>
 
-<sup>3</sup> La ripartizione del risultato attuariale possibile è approssimata sulla base di una distribuzione normale, il cui valore medio corrisponde al risultato previsto dall’assicuratore all’inizio dell’anno. La varianza è calcolata per ogni singolo ramo assicurativo di cui al capoverso 2 considerando il rischio di fluttuazioni casuali delle prestazioni e di evoluzioni inattese delle prestazioni e della compensazione dei rischi.
+È determinato separatamente per:
 
-<sup>4</sup> Se l’assicuratore ha riassicurato prestazioni ai sensi dell’articolo 28 LVAMal[^3-3], è presa in considerazione la conseguente riduzione del rischio.
+- a. l’assicurazione obbligatoria delle cure medico-sanitarie per la Svizzera;
+- b. l’assicurazione obbligatoria delle cure medico-sanitarie per l’Unione europea, l’Islanda, la Norvegia e il Regno Unito;
+- c. l’assicurazione individuale d’indennità giornaliera;
+- d. l’assicurazione collettiva d’indennità giornaliera;
+- e. la riassicurazione secondo l’articolo 28 della legge del 26 settembre 2014[^3-1] sulla vigilanza sull’assicurazione malattie (LVAMal).[^3-2]
+
+<sup>3</sup> La ripartizione del risultato attuariale possibile è approssimata sulla base di una distribuzione normale, il cui valore medio corrisponde al risultato previsto dall’assicuratore all’inizio dell’anno. Questo risultato è reso plausibile impiegando un metodo comparativo. La varianza è calcolata per ogni singolo ramo assicurativo di cui al capoverso 2 considerando il rischio di fluttuazioni casuali delle prestazioni e di evoluzioni inattese delle prestazioni e della compensazione dei rischi.[^3-3]
+
+<sup>4</sup> Se l’assicuratore ha riassicurato prestazioni ai sensi dell’articolo 28 LVAMal[^3-4], è presa in considerazione la conseguente riduzione del rischio.
 
 [^3-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^3-2]: Rinvio adattato in applicazione dell’art. 12 cpv. 2 dell’O del 18 giu. 2004 sulle pubblicazioni ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^3-3]: Rinvio adattato in applicazione dell’art. 12 cpv. 2 dell’O del 18 giu. 2004 sulle pubblicazioni ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^3-2]: Nuovo testo giusta la cifra I dell'O del DFI del 17 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593))
+[^3-3]: Nuovo testo giusta la cifra I dell'O del DFI del 17 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593))
+[^3-4]: Rinvio adattato in applicazione dell’art. 12 cpv. 2 dell’O del 18 giu. 2004 sulle pubblicazioni ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 4
 
@@ -116,7 +125,7 @@ Il rischio di credito comprende i rischi di solvibilità e d’inadempimento che
 
 I dettagli del modello per la determinazione delle riserve minime sono definiti in un modulo elettronico. Esso è previsto nell’allegato.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6257](https://fedlex.data.admin.ch/eli/oc/2011/879)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6257](https://fedlex.data.admin.ch/eli/oc/2011/879)).
 
 ## Sezione 3: Scadenza per il rapporto
 
@@ -146,5 +155,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Introdotto dal n. II dell’O del DFI del 5 dic. 2011 ([RU 2011 6257](https://fedlex.data.admin.ch/eli/oc/2011/879)). Nuovo testo giusta il n. I dell’O del DFI del 6 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5161](https://fedlex.data.admin.ch/eli/oc/2020/894)).
-[^annexu1-lvlu1-1]: Conformemente all’art. 5 cpv. 1 lett. c della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), il modulo elettronico non è pubblicato nella RU. Questo può essere consultato all’indirizzo [www.ufsp.admin.ch](https://www.bag.admin.ch/bag/it/home/versicherungen/krankenversicherung/krankenversicherung-versicherer-aufsicht/reporting/kvg-solvenztest.html) nella rubrica Temi &gt; Assicurazioni &gt; Assicurazione malattie &gt; Assicuratori e vigilanza &gt; Rendicontazione &gt; Test di solvibilità LAMal. Fa stato la versione del 6 nov. 2020.
+[^t-1]: Introdotto dalla cifra II dell’O del DFI del 5 dic. 2011 ([RU 2011 6257](https://fedlex.data.admin.ch/eli/oc/2011/879)). Nuovo testo giusta la cifra II dell’O del DFI del 17 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593)).
+[^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2024/593](https://fedlex.data.admin.ch/eli/oc/2024/593) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

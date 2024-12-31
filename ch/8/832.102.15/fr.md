@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 18 octobre 2011 sur les réserves dans l'assurance-
 short: ORe-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/676"
 language: fr
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2011-10-18
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/676/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-676-20210101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/676/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-676-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20210101/fr"
 
 (ORe-DFI)
 
-du 18 octobre 2011 (État le 1<sup>er</sup> janvier 2021)
+du 18 octobre 2011 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -66,15 +66,24 @@ S’il n’existe pas d’actifs comparables, la valeur proche du marché peut �
 
 <sup>1</sup> Le risque actuariel est quantifié sur une année normale.
 
-<sup>2</sup> Il est calculé séparément pour l’assurance obligatoire des soins, l’assurance d’indemnités journalières (individuelle et collective) et pour la réassurance selon l’art. 28 de la loi fédérale du 26 septembre 2014 sur l’assurance-maladie sociale (LSAMal)[^3-1] [^3-2].
+<sup>2</sup>
 
-<sup>3</sup> La répartition du résultat actuariel possible est estimée sur la base d’une loi de Gauss. Sa moyenne correspond au résultat prévu par l’assureur au début de l’année. La variance est calculée pour chaque branche d’assurance mentionnée à l’al. 2, en tenant compte du risque de fluctuations aléatoires dans les prestations ainsi que d’une évolution inattendue des prestations et de la compensation des risques.
+Il est calculé séparément pour:
 
-<sup>4</sup> Si l’assureur a fait réassurer des prestations selon l’art. 28 LSAMal[^3-3], la diminution du risque qui en résulte sera prise en compte.
+- a. l’assurance obligatoire des soins pour la Suisse;
+- b. l’assurance obligatoire des soins pour l’Union européenne, l’Islande, la Norvège et le Royaume-Uni;
+- c. l’assurance individuelle d’indemnités journalières;
+- d. l’assurance collective d’indemnités journalières;
+- e. la réassurance selon l’art. 28 de la loi fédérale du 26 septembre 2014 sur la surveillance de l’assurance-maladie sociale (LSAMal)[^3-1].[^3-2]
+
+<sup>3</sup> La répartition du résultat actuariel possible est estimée sur la base d’une loi de Gauss. Sa moyenne correspond au résultat prévu par l’assureur au début de l’année; ce résultat est plausibilisé au moyen d’une méthode comparative. La variance est calculée pour chaque branche d’assurance mentionnée à l’al. 2, en tenant compte du risque de fluctuations aléatoires dans les prestations ainsi que d’une évolution inattendue des prestations et de la compensation des risques.[^3-3]
+
+<sup>4</sup> Si l’assureur a fait réassurer des prestations selon l’art. 28 LSAMal[^3-4], la diminution du risque qui en résulte sera prise en compte.
 
 [^3-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^3-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2016 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^3-3]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2016 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593)).
+[^3-4]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2016 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 4
 
@@ -146,5 +155,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Introduite par le ch. II de l’O du DFI du 5 déc. 2011 ([RO 2011 6257](https://fedlex.data.admin.ch/eli/oc/2011/879)). Nouvelle teneur selon le ch. I de l’O du DFI du 6 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5161](https://fedlex.data.admin.ch/eli/oc/2020/894)).
-[^annexu1-lvlu1-1]: Conformément à l’art. 5, al. 1, let. c, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le formulaire électronique n’est pas publié dans le RO. Il peut être consulté sous [www.ofsp.admin.ch](https://www.bag.admin.ch/bag/fr/home/versicherungen/krankenversicherung/krankenversicherung-versicherer-aufsicht/reporting/kvg-solvenztest.html) &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Présentation des rapports &gt; Test de solvabilité LAMal. La version en vigueur est celle du 6 novembre 2020.
+[^t-1]: Introduite par le ch. II de l’O du DFI du 5 déc. 2011 ([RO 2011 6257](https://fedlex.data.admin.ch/eli/oc/2011/879)). Nouvelle teneur selon le ch. II de l’O du DFI du 17 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/593](https://fedlex.data.admin.ch/eli/oc/2024/593) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

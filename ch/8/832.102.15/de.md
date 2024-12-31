@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 18. Oktober 2011 über die Reserven in der soziale
 short: ResV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/676"
 language: de
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2011-10-18
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/676/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2011-676-20210101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/676/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2011-676-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/676/20210101/de"
 
 (ResV-EDI)
 
-vom 18. Oktober 2011 (Stand am 1. Januar 2021)
+vom 18. Oktober 2011 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -66,15 +66,24 @@ Existieren keine vergleichbaren Aktiven, so ist ein marktnaher Wert durch ein Mo
 
 <sup>1</sup> Das versicherungstechnische Risiko wird für ein Normaljahr quantifiziert.
 
-<sup>2</sup> Es wird für die obligatorische Krankenpflegeversicherung, für die Taggeldversicherung (Einzel- und Kollektivversicherung) sowie für die Rückversicherung nach Artikel 28 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^3-1] (KVAG)[^3-2] separat ermittelt.
+<sup>2</sup>
 
-<sup>3</sup> Die Verteilung des möglichen versicherungstechnischen Erfolgs wird durch eine Normalverteilung approximiert. Deren Mittelwert entspricht dem vom Versicherer am Anfang des Jahres erwarteten Erfolg. Die Varianz wird für die einzelnen Versicherungszweige nach Absatz 2 errechnet; dabei werden das Risiko zufälliger Schwankungen der Leistungen sowie eine unerwartete Entwicklung von Leistungen und Risikoausgleich berücksichtigt.
+Es wird separat ermittelt für:
 
-<sup>4</sup> Hat der Versicherer Leistungen nach Artikel 28 KVAG[^3-3] rückversichern lassen, so wird dem dadurch verminderten Risiko Rechnung getragen.
+- a. die obligatorische Krankenpflegeversicherung für die Schweiz;
+- b. die obligatorische Krankenpflegeversicherung für die Europäische Union, Island, Norwegen und das Vereinigte Königreich;
+- c. die Einzeltaggeldversicherung;
+- d. die kollektive Taggeldversicherung;
+- e. die Rückversicherung nach Artikel 28 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^3-1] (KVAG).[^3-2]
+
+<sup>3</sup> Die Verteilung des möglichen versicherungstechnischen Erfolgs wird durch eine Normalverteilung approximiert. Deren Mittelwert entspricht dem vom Versicherer am Anfang des Jahres erwarteten Erfolg; dieser wird anhand einer Vergleichsmethode plausibilisiert. Die Varianz wird für die einzelnen Versicherungszweige nach Absatz 2 errechnet; dabei werden das Risiko zufälliger Schwankungen der Leistungen sowie eine unerwartete Entwicklung von Leistungen und Risikoausgleich berücksichtigt.[^3-3]
+
+<sup>4</sup> Hat der Versicherer Leistungen nach Artikel 28 KVAG[^3-4] rückversichern lassen, so wird dem dadurch verminderten Risiko Rechnung getragen.
 
 [^3-1]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^3-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2016 angepasst.
-[^3-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2016 angepasst.
+[^3-2]: Fassung gemäss Ziff. I der V des EDI vom 17. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593)).
+[^3-3]: Fassung gemäss Ziff. I der V des EDI vom 17. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593)).
+[^3-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2016 angepasst.
 
 #### Art. 4
 
@@ -146,5 +155,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Eingefügt durch Ziff. II der V des EDI vom 5. Dez. 2011 ([AS 2011 6257](https://fedlex.data.admin.ch/eli/oc/2011/879)). Fassung gemäss Ziff. I der V des EDI vom 6. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5161](https://fedlex.data.admin.ch/eli/oc/2020/894)).
-[^annexu1-lvlu1-1]: Das elektronische Formular wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Es kann unter [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home/versicherungen/krankenversicherung/krankenversicherung-versicherer-aufsicht/reporting/kvg-solvenztest.html) &gt; Versicherungen &gt; Krankenversicherung &gt; Versicherer und Aufsicht &gt; Reporting &gt; KVG-Solvenztest eingesehen werden. Es gilt die Fassung vom 6. November 2020.
+[^t-1]: Eingefügt durch Ziff. II der V des EDI vom 5. Dez. 2011 ([AS 2011 6257](https://fedlex.data.admin.ch/eli/oc/2011/879)). Fassung gemäss Ziff. II der V des EDI vom 17. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 593](https://fedlex.data.admin.ch/eli/oc/2024/593)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/593](https://fedlex.data.admin.ch/eli/oc/2024/593) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
