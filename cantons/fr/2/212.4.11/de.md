@@ -4,13 +4,12 @@ number: "212.4.11"
 title: Verordnung über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen
 short: IHBUV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-20
+version: 2025-01-01
+version_adopted: 2024-11-05
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/212.4.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7686/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Unterhaltsbeiträgen, Inkassohilfe und Bevorschussung – V
 
 (IHBUV)
 
-vom 14.12.2021 (Fassung in Kraft getreten am 01.01.2023)
+vom 14.12.2021 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,13 +34,15 @@ beschliesst:
 
 #### Art. 1
 
-**Zuständige Behörde (Art. 2 IHBUG)**
+**Zuständige Behörde (Art. 2 IHBUG[^1-1])**
 
 <sup>1</sup> Das Kantonale Sozialamt (KSA) ist die zuständige Behörde, welche die Inkassohilfe leistet und die Bevorschussung von familienrechtlichen Unterhaltsbeiträgen gewährt.
 
+[^1-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 #### Art. 2
 
-**Aufgaben (Art. 3 und 23 IHBUG)**
+**Aufgaben (Art. 3 und 23 IHBUG[^2-1])**
 
 <sup>1</sup> Für das Inkasso kann das KSA sämtliche erforderlichen zivilrechtlichen und strafrechtlichen Verfahren einleiten. Das KSA entscheidet, in Übereinstimmung mit den Interessen der unterhaltsberechtigten Personen, welche Verfahren einzuleiten sind; Fälle, in denen das KSA beschliesst, ein Inkassounternehmen für das Inkasso zu beauftragen, bleiben vorbehalten.
 
@@ -51,9 +52,11 @@ beschliesst:
 
 <sup>4</sup> Wenn nötig, organisiert das KSA die Übersetzung von Unterhaltstiteln und streckt die damit verbundenen Kosten vor.
 
+[^2-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 #### Art. 3
 
-**Informationsgesuch an andere Behörden (Art. 7 InkHV und Art. 4 IHBUG)**
+**Informationsgesuch an andere Behörden (Art. 7 InkHV[^3-1] und Art. 4 IHBUG[^3-2])**
 
 <sup>1</sup> Die Informationen, welche das KSA bei anderen Behörden einholen kann, müssen sich strikt auf die für die Erfüllung seines Auftrages unbedingt erforderlichen Informationen beschränken.
 
@@ -73,19 +76,24 @@ beschliesst:
 - l) das Betreibungsamt, für Betreibungs- und Verlustscheinregisterauszüge;
 - m) das Amt für Strassenverkehr und Schifffahrt, für Fahrzeugausweise.
 
+[^3-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
+[^3-2]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 ## 2 Voraussetzungen für den Anspruch auf Bevorschussung und Inkassohilfe
 
 ### 2.1 Allgemeine Bestimmungen
 
 #### Art. 4
 
-**Wohnsitz (Art. 5 Abs. 1 InkHV; Art. 5 Abs. 4 Bst. a IHBUG)**
+**Wohnsitz (Art. 5 Abs. 1 InkHV; Art. 5 Abs. 4 Bst. a IHBUG[^4-1])**
 
 <sup>1</sup> Um eine Bevorschussung oder Inkassohilfe zu erhalten, muss die unterhaltsberechtigte Person ihren zivilrechtlichen Wohnsitz im Kanton Freiburg haben.
 
+[^4-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 #### Art. 5
 
-**Person ausländischer Nationalität (Art. 5 Abs. 5 IHBUG)**
+**Person ausländischer Nationalität (Art. 5 Abs. 5 IHBUG[^5-1])**
 
 <sup>1</sup> Die unterhaltsberechtigte Person ausländischer Nationalität kann eine Unterhaltsbevorschussung während des Verfahrens zur Verlängerung ihres Ausländerausweises verlangen, ausser wenn die Voraussetzungen für eine Verlängerung des Aufenthalts nicht gegeben sind.
 
@@ -93,17 +101,21 @@ beschliesst:
 
 <sup>3</sup> Asylsuchende können keine Bevorschussung in Anspruch nehmen.
 
+[^5-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 #### Art. 6
 
-**Unterhaltstitel für das volljährige Kind (Art. 6 Abs. 2 und 3 IHBUG)**
+**Unterhaltstitel für das volljährige Kind (Art. 6 Abs. 2 und 3 IHBUG[^6-1])**
 
 <sup>1</sup> Damit eine Bevorschussung geleistet wird, muss das volljährige Kind dem KSA alle in seinem Besitz befindlichen Unterlagen zustellen, die aufzeigen, dass die unterhaltspflichtige Person im Zeitpunkt, als sie den nicht von der Justizbehörde genehmigten Vertrag unterzeichnete, über ausreichende Ressourcen verfügte, um den vorgesehenen Unterhaltsbeitrag zu bezahlen.
+
+[^6-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
 
 ### 2.2 Bevorschussung von Unterhaltsbeiträgen
 
 #### Art. 7
 
-**Beginn des Anspruchs auf Bevorschussung (Art. 7 und 10 IHBUG)**
+**Beginn des Anspruchs auf Bevorschussung (Art. 7 und 10 IHBUG[^7-1])**
 
 <sup>1</sup> Der Anspruch auf Bevorschussung besteht ab jenem Tag, an dem das vollständige Gesuch der Post oder dem KSA übergeben wird.
 
@@ -129,11 +141,17 @@ beschliesst:
 
 <sup>4</sup> Das KSA erbringt keine Hilfeleistungen für allfällige Unterhaltsausstände, die zum Zeitpunkt der Dossiereröffnung bereits bestehen.
 
+[^7-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 ### 2.3 Einkommens- und Vermögensgrenzen für die Bevorschussung (Art. 8 Abs. 3 IHBUG)
+
+[^7-2]
+
+[^7-2]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
 
 #### Art. 8
 
-**Massgebendes Einkommen (Art. 10 IHBUG)**
+**Massgebendes Einkommen (Art. 10 IHBUG[^8-1])**
 
 <sup>1</sup> Das massgebende Einkommen beinhaltet:
 
@@ -167,6 +185,8 @@ beschliesst:
 - a) die Schuldzinsen, insbesondere Hypothekarzinsen, gemäss der letzten Steuerveranlagung;
 - b) die bezahlten Unterhaltsbeiträge zugunsten eines Kindes, das nicht im gleichen Haushalt lebt.
 
+[^8-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 #### Art. 9
 
 **Massgebendes Vermögen**
@@ -196,12 +216,12 @@ beschliesst:
 <table>
 <tr><th>Bevorschussung</th><th>Einkommen (1 Erwachsene/r 1 Kind)</th><th>Einkommen (1 Erwachsene/r 2 Kinder)</th><th>Einkommen (1 Erwachsene/r 3 Kinder)</th><th>Einkommen (1 Erwachsene/r 4 Kinder)</th></tr>
 <tr><td>Höchstbetrag gemäss Art. 9 Abs. 1 Bst. a IHBUG</td><td>bis Fr. 4530</td><td>bis Fr. 5310</td><td>bis Fr. 6320</td><td>bis Fr. 7230</td></tr>
-<tr><td>Fr. 840</td><td>bis Fr. 4605</td><td>bis Fr. 5400</td><td>bis Fr. 6425</td><td>bis Fr. 7350</td></tr>
-<tr><td>Fr. 700</td><td>bis Fr. 4680</td><td>bis Fr. 5490</td><td>bis Fr. 6530</td><td>bis Fr. 7470</td></tr>
-<tr><td>Fr. 560</td><td>bis Fr. 4755</td><td>bis Fr. 5580</td><td>bis Fr. 6635</td><td>bis Fr. 7590</td></tr>
-<tr><td>Fr. 420</td><td>bis Fr. 4830</td><td>bis Fr. 5670</td><td>bis Fr. 6740</td><td>bis Fr. 7710</td></tr>
-<tr><td>Fr. 280</td><td>bis Fr. 4905</td><td>bis Fr. 5760</td><td>bis Fr. 6845</td><td>bis Fr. 7830</td></tr>
-<tr><td>Fr. 140</td><td>bis Fr. 4990</td><td>bis Fr. 5850</td><td>bis Fr. 6950</td><td>bis Fr. 7950</td></tr>
+<tr><td>Fr. 864</td><td>bis Fr. 4605</td><td>bis Fr. 5400</td><td>bis Fr. 6425</td><td>bis Fr. 7350</td></tr>
+<tr><td>Fr. 720</td><td>bis Fr. 4680</td><td>bis Fr. 5490</td><td>bis Fr. 6530</td><td>bis Fr. 7470</td></tr>
+<tr><td>Fr. 576</td><td>bis Fr. 4755</td><td>bis Fr. 5580</td><td>bis Fr. 6635</td><td>bis Fr. 7590</td></tr>
+<tr><td>Fr. 432</td><td>bis Fr. 4830</td><td>bis Fr. 5670</td><td>bis Fr. 6740</td><td>bis Fr. 7710</td></tr>
+<tr><td>Fr. 288</td><td>bis Fr. 4905</td><td>bis Fr. 5760</td><td>bis Fr. 6845</td><td>bis Fr. 7830</td></tr>
+<tr><td>Fr. 144</td><td>bis Fr. 4990</td><td>bis Fr. 5850</td><td>bis Fr. 6950</td><td>bis Fr. 7950</td></tr>
 <tr><td>Kein Anspruch auf Bevorschussung</td><td>ab Fr. 4991</td><td>ab Fr. 5851</td><td>ab Fr. 6951</td><td>ab Fr. 7951</td></tr>
 </table>
 
@@ -218,12 +238,12 @@ beschliesst:
 <table>
 <tr><th>Bevorschussung</th><th>Einkommen (2 Erwachsene 1 Kind)</th><th>Einkommen (2 Erwachsene 2 Kinder)</th><th>Einkommen (2 Erwachsene 3 Kinder)</th><th>Einkommen (2 Erwachsene 4 Kinder)</th></tr>
 <tr><td>Höchstbetrag gemäss Art. 9 Abs. 1 Bst. a IHBUG</td><td>bis Fr. 5480</td><td>bis Fr. 6230</td><td>bis Fr. 7240</td><td>bis Fr. 8150</td></tr>
-<tr><td>Fr. 840</td><td>bis Fr. 5565</td><td>bis Fr. 6330</td><td>bis Fr. 7360</td><td>bis Fr. 8280</td></tr>
-<tr><td>Fr. 700</td><td>bis Fr. 5650</td><td>bis Fr. 6430</td><td>bis Fr. 7480</td><td>bis Fr. 8410</td></tr>
-<tr><td>Fr. 560</td><td>bis Fr. 5735</td><td>bis Fr. 6530</td><td>bis Fr. 7600</td><td>bis Fr. 8540</td></tr>
-<tr><td>Fr. 420</td><td>bis Fr. 5820</td><td>bis Fr. 6630</td><td>bis Fr. 7720</td><td>bis Fr. 8670</td></tr>
-<tr><td>Fr. 280</td><td>bis Fr. 5905</td><td>bis Fr. 6730</td><td>bis Fr. 7840</td><td>bis Fr. 8800</td></tr>
-<tr><td>Fr. 140</td><td>bis Fr. 5990</td><td>bis Fr. 6830</td><td>bis Fr. 7960</td><td>bis Fr. 8930</td></tr>
+<tr><td>Fr. 864</td><td>bis Fr. 5565</td><td>bis Fr. 6330</td><td>bis Fr. 7360</td><td>bis Fr. 8280</td></tr>
+<tr><td>Fr. 720</td><td>bis Fr. 5650</td><td>bis Fr. 6430</td><td>bis Fr. 7480</td><td>bis Fr. 8410</td></tr>
+<tr><td>Fr. 576</td><td>bis Fr. 5735</td><td>bis Fr. 6530</td><td>bis Fr. 7600</td><td>bis Fr. 8540</td></tr>
+<tr><td>Fr. 432</td><td>bis Fr. 5820</td><td>bis Fr. 6630</td><td>bis Fr. 7720</td><td>bis Fr. 8670</td></tr>
+<tr><td>Fr. 288</td><td>bis Fr. 5905</td><td>bis Fr. 6730</td><td>bis Fr. 7840</td><td>bis Fr. 8800</td></tr>
+<tr><td>Fr. 144</td><td>bis Fr. 5990</td><td>bis Fr. 6830</td><td>bis Fr. 7960</td><td>bis Fr. 8930</td></tr>
 <tr><td>Kein Anspruch auf Bevorschussung</td><td>ab Fr. 5991</td><td>ab Fr. 6831</td><td>ab Fr. 7961</td><td>ab Fr. 8931</td></tr>
 </table>
 
@@ -242,12 +262,12 @@ beschliesst:
 <table>
 <tr><th>Einkommen</th><th>Bevorschussung</th></tr>
 <tr><td>bis Fr. 1200</td><td>Höchstbetrag gemäss Art. 9 Abs. 1 Bst. a IHBUG</td></tr>
-<tr><td>bis Fr. 1300</td><td>Fr. 840</td></tr>
-<tr><td>bis Fr. 1400</td><td>Fr. 700</td></tr>
-<tr><td>bis Fr. 1500</td><td>Fr. 560</td></tr>
-<tr><td>bis Fr. 1600</td><td>Fr. 420</td></tr>
-<tr><td>bis Fr. 1700</td><td>Fr. 280</td></tr>
-<tr><td>bis Fr. 1800</td><td>Fr. 140</td></tr>
+<tr><td>bis Fr. 1300</td><td>Fr. 864</td></tr>
+<tr><td>bis Fr. 1400</td><td>Fr. 720</td></tr>
+<tr><td>bis Fr. 1500</td><td>Fr. 576</td></tr>
+<tr><td>bis Fr. 1600</td><td>Fr. 432</td></tr>
+<tr><td>bis Fr. 1700</td><td>Fr. 288</td></tr>
+<tr><td>bis Fr. 1800</td><td>Fr. 144</td></tr>
 <tr><td>ab Fr. 1801</td><td>Kein Anspruch auf Bevorschussung</td></tr>
 </table>
 
@@ -311,6 +331,10 @@ beschliesst:
 
 ## 3 Observierung (Art. 19 Abs. 1 und Abs. 3 IHBUG)
 
+[^13-1]
+
+[^13-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 #### Art. 14
 
 **Einsichtnahme in das gesammelte Material**
@@ -337,7 +361,9 @@ beschliesst:
 
 **Vernichtung des gesammelten Materials**
 
-<sup>1</sup> Sobald ein Entscheid über die während Observierung gesammelten Daten rechtskräftig geworden ist, müssen sämtliche Dokumente und sämtliche Belege, die im Rahmen einer Observierung erlangt worden sind, zerstört werden; Artikel 19 Abs. 2 IHBUG bleibt vorbehalten.
+<sup>1</sup> Sobald ein Entscheid über die während Observierung gesammelten Daten rechtskräftig geworden ist, müssen sämtliche Dokumente und sämtliche Belege, die im Rahmen einer Observierung erlangt worden sind, zerstört werden; Artikel 19 Abs. 2 IHBUG[^16-1] bleibt vorbehalten.
+
+[^16-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
 
 ## 4 Inkassoauftrag
 
@@ -370,6 +396,11 @@ beschliesst:
 
 ## 5 Kosten der Inkassohilfe (Art. 17–19 InkHV und Art. 26 IHBUG)
 
+[^18-1][^18-2]
+
+[^18-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
+[^18-2]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
+
 #### Art. 19
 
 **Allgemeines**
@@ -378,7 +409,9 @@ beschliesst:
 
 <sup>2</sup> Kosten Dritter, insbesondere die Betreibungskosten, die Verfahrenskosten und die Übersetzungskosten, werden vom KSA vorgestreckt. Sie werden der unterhaltspflichtigen Person in Rechnung gestellt.
 
-<sup>3</sup> Die Kosten Dritter können der unterhaltsberechtigten Person in den Fällen nach Artikel 26 IHBUG und Artikel 20 dieser Verordnung auferlegt werden.
+<sup>3</sup> Die Kosten Dritter können der unterhaltsberechtigten Person in den Fällen nach Artikel 26 IHBUG[^19-1] und Artikel 20 dieser Verordnung auferlegt werden.
+
+[^19-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
 
 #### Art. 20
 
@@ -388,7 +421,7 @@ beschliesst:
 
 <sup>2</sup> Dazu müssen drei Voraussetzungen kumulativ erfüllt sein:
 
-- a) Die unterhaltsberechtigte Person hat falsche Informationen gegeben oder hat es unterlassen, aktuelle Informationen mitzuteilen, wodurch sie die Mitwirkung nach Artikel 7 IHBUG verletzt hat.
+- a) Die unterhaltsberechtigte Person hat falsche Informationen gegeben oder hat es unterlassen, aktuelle Informationen mitzuteilen, wodurch sie die Mitwirkung nach Artikel 7 IHBUG[^20-1] verletzt hat.
 - b) Gestützt auf diese Informationen sind Verfahren eingeleitet worden.
 - c) Dem KSA sind in diesen Verfahren Kosten auferlegt worden.
 
@@ -399,6 +432,8 @@ beschliesst:
 - c) Parteientschädigungen zulasten des KSA;
 - d) dem KSA in Rechnung gestellten Gebühren;
 - e) Übersetzungskosten.
+
+[^20-1]: SGF [212.4.1](https://bdlf.fr.ch/data/212.4.1/de)
 
 ## 6 Schlussbestimmungen
 

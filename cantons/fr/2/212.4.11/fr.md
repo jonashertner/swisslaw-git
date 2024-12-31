@@ -4,13 +4,12 @@ number: "212.4.11"
 title: "Ordonnance sur l'aide au recouvrement et l'avance de contributions d'entretien"
 short: OARACE
 language: fr
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-20
+version: 2025-01-01
+version_adopted: 2024-11-05
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/212.4.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7686/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8453/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Contributions d'entretien, aide au recouvrement et avance – O
 
 (OARACE)
 
-du 14.12.2021 (version entrée en vigueur le 01.01.2023)
+du 14.12.2021 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,13 +34,15 @@ Arrête:
 
 #### Art. 1
 
-**Autorité compétente (art. 2 LARACE)**
+**Autorité compétente (art. 2 LARACE[^1-1])**
 
 <sup>1</sup> Le Service de l'action sociale (SASoc) est l'autorité compétente en matière d'avances et d'aide au recouvrement des créances d'entretien du droit de la famille.
 
+[^1-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 #### Art. 2
 
-**Attributions (art. 3 et 23 LARACE)**
+**Attributions (art. 3 et 23 LARACE[^2-1])**
 
 <sup>1</sup> En vue du recouvrement, le SASoc peut introduire toutes les procédures nécessaires en matière civile ou pénale. Lui seul décide, conformément aux intérêts des personnes créancières d'entretien, quelles procédures doivent être introduites, sauf s'il décide de mandater une maison d'encaissement pour le recouvrement.
 
@@ -51,9 +52,11 @@ Arrête:
 
 <sup>4</sup> Le SASoc organise et avance les frais liés à la traduction des titres d'entretien si cela s'avère nécessaire.
 
+[^2-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 #### Art. 3
 
-**Demande de renseignements à d'autres autorités (art. 7 OAir et art. 4 LARACE)**
+**Demande de renseignements à d'autres autorités (art. 7 OAir[^3-1] et art. 4 LARACE[^3-2])**
 
 <sup>1</sup> Les renseignements que peut obtenir le SASoc auprès d'autres autorités doivent être strictement limités aux informations absolument nécessaires à l'exercice de son mandat.
 
@@ -73,19 +76,25 @@ Arrête:
 - l) l'Office des poursuites pour l'extrait des poursuites et l'extrait des actes de défaut de biens;
 - m) l'Office de la circulation et de la navigation, pour les permis d'immatriculation.
 
+[^3-1]: RS [211.214.32](https://db.clex.ch/link/Bund/211.214.32/fr)
+[^3-2]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 ## 2 Conditions du droit aux avances et à l'aide à l'encaissement
 
 ### 2.1 Généralités
 
 #### Art. 4
 
-**Domicile (art. 5 al. 1 OAir et art. 5 al. 4 let. a LARACE)**
+**Domicile (art. 5 al. 1 OAir[^4-1] et art. 5 al. 4 let. a LARACE[^4-2])**
 
 <sup>1</sup> Pour obtenir une avance ou une aide à l'encaissement, la personne créancière doit avoir son domicile civil dans le canton de Fribourg.
 
+[^4-1]: RS [211.214.32](https://db.clex.ch/link/Bund/211.214.32/fr)
+[^4-2]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 #### Art. 5
 
-**Personne de nationalité étrangère (art. 5 al. 5 LARACE)**
+**Personne de nationalité étrangère (art. 5 al. 5 LARACE[^5-1])**
 
 <sup>1</sup> La personne créancière de nationalité étrangère peut prétendre à l'avance de contribution d'entretien pendant la procédure de prolongation de son titre de séjour, à moins que les conditions de la prolongation ne soient pas réalisées.
 
@@ -93,17 +102,21 @@ Arrête:
 
 <sup>3</sup> Les requérants et requérantes d'asile ne peuvent pas bénéficier de l'avance.
 
+[^5-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 #### Art. 6
 
-**Titre d'entretien pour l'enfant majeur-e (art. 6 al. 2 et 3 LARACE)**
+**Titre d'entretien pour l'enfant majeur-e (art. 6 al. 2 et 3 LARACE[^6-1])**
 
 <sup>1</sup> Pour que des avances soient prestées, l'enfant majeur-e doit transmettre au SASoc tous les éléments en sa possession qui démontrent que le parent débiteur d'entretien disposait, au moment de la signature de la convention, non homologuée par l'autorité judiciaire, de ressources suffisantes pour s'acquitter de la contribution d'entretien prévue.
+
+[^6-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
 
 ### 2.2 Avances de contribution d'entretien
 
 #### Art. 7
 
-**Début du droit aux avances (art. 7 et 10 LARACE)**
+**Début du droit aux avances (art. 7 et 10 LARACE[^7-1])**
 
 <sup>1</sup> Le droit aux avances débute le jour où la demande complète est déposée à la poste ou en main du SASoc.
 
@@ -129,11 +142,17 @@ Arrête:
 
 <sup>4</sup> Le SASoc n'apporte aucune aide pour l'éventuel arriéré de contributions d'entretien existant au moment de l'ouverture du dossier.
 
+[^7-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 ### 2.3 Limites de revenus et de fortune pour l'avance (art. 8 al. 3 LARACE)
+
+[^7-2]
+
+[^7-2]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
 
 #### Art. 8
 
-**Revenu déterminant (art. 10 LARACE)**
+**Revenu déterminant (art. 10 LARACE[^8-1])**
 
 <sup>1</sup> Le revenu déterminant est composé:
 
@@ -167,6 +186,8 @@ Arrête:
 - a) les intérêts des dettes, notamment de la dette hypothécaire, selon le dernier avis de taxation;
 - b) les contributions d'entretien payées en faveur d'un enfant ne vivant pas dans le même ménage.
 
+[^8-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 #### Art. 9
 
 **Fortune déterminante**
@@ -196,12 +217,12 @@ Arrête:
 <table>
 <tr><th>Montant de l'avance</th><th>Revenus (1 adulte 1 enfant)</th><th>Revenus (1 adulte 2 enfants)</th><th>Revenus (1 adulte 3 enfants)</th><th>Revenus (1 adulte 4 enfants)</th></tr>
 <tr><td>Montant maximal selon l'art. 9 al. 1 let. a LARACE</td><td>jusqu'à Fr. 4530</td><td>jusqu'à Fr. 5310</td><td>jusqu'à Fr. 6320</td><td>jusqu'à Fr. 7230</td></tr>
-<tr><td>Fr. 840</td><td>jusqu'à Fr. 4605</td><td>jusqu'à Fr. 5400</td><td>jusqu'à Fr. 6425</td><td>jusqu'à Fr. 7350</td></tr>
-<tr><td>Fr. 700</td><td>jusqu'à Fr. 4680</td><td>jusqu'à Fr. 5490</td><td>jusqu'à Fr. 6530</td><td>jusqu'à Fr. 7470</td></tr>
-<tr><td>Fr. 560</td><td>jusqu'à Fr. 4755</td><td>jusqu'à Fr. 5580</td><td>jusqu'à Fr. 6635</td><td>jusqu'à Fr. 7590</td></tr>
-<tr><td>Fr. 420</td><td>jusqu'à Fr. 4830</td><td>jusqu'à Fr. 5670</td><td>jusqu'à Fr. 6740</td><td>jusqu'à Fr. 7710</td></tr>
-<tr><td>Fr. 280</td><td>jusqu'à Fr. 4905</td><td>jusqu'à Fr. 5760</td><td>jusqu'à Fr. 6845</td><td>jusqu'à Fr. 7830</td></tr>
-<tr><td>Fr. 140</td><td>jusqu'à Fr. 4990</td><td>jusqu'à Fr. 5850</td><td>jusqu'à Fr. 6950</td><td>jusqu'à Fr. 7950</td></tr>
+<tr><td>Fr. 864</td><td>jusqu'à Fr. 4605</td><td>jusqu'à Fr. 5400</td><td>jusqu'à Fr. 6425</td><td>jusqu'à Fr. 7350</td></tr>
+<tr><td>Fr. 720</td><td>jusqu'à Fr. 4680</td><td>jusqu'à Fr. 5490</td><td>jusqu'à Fr. 6530</td><td>jusqu'à Fr. 7470</td></tr>
+<tr><td>Fr. 576</td><td>jusqu'à Fr. 4755</td><td>jusqu'à Fr. 5580</td><td>jusqu'à Fr. 6635</td><td>jusqu'à Fr. 7590</td></tr>
+<tr><td>Fr. 432</td><td>jusqu'à Fr. 4830</td><td>jusqu'à Fr. 5670</td><td>jusqu'à Fr. 6740</td><td>jusqu'à Fr. 7710</td></tr>
+<tr><td>Fr. 288</td><td>jusqu'à Fr. 4905</td><td>jusqu'à Fr. 5760</td><td>jusqu'à Fr. 6845</td><td>jusqu'à Fr. 7830</td></tr>
+<tr><td>Fr. 144</td><td>jusqu'à Fr. 4990</td><td>jusqu'à Fr. 5850</td><td>jusqu'à Fr. 6950</td><td>jusqu'à Fr. 7950</td></tr>
 <tr><td>Pas de droit à l'avance</td><td>dès Fr. 4991</td><td>dès Fr. 5851</td><td>dès Fr. 6951</td><td>dès Fr. 7951</td></tr>
 </table>
 
@@ -218,12 +239,12 @@ Arrête:
 <table>
 <tr><th>Montant de l'avance</th><th>Revenus (2 adultes 1 enfant)</th><th>Revenus (2 adultes 2 enfants)</th><th>Revenus (2 adultes 3 enfants)</th><th>Revenus (2 adultes 4 enfants)</th></tr>
 <tr><td>Montant maximal selon l'art. 9 al. 1 let. a LARACE</td><td>jusqu'à Fr. 5480</td><td>jusqu'à Fr. 6230</td><td>jusqu'à Fr. 7240</td><td>jusqu'à Fr. 8150</td></tr>
-<tr><td>Fr. 840</td><td>jusqu'à Fr. 5565</td><td>jusqu'à Fr. 6330</td><td>jusqu'à Fr. 7360</td><td>jusqu'à Fr. 8280</td></tr>
-<tr><td>Fr. 700</td><td>jusqu'à Fr. 5650</td><td>jusqu'à Fr. 6430</td><td>jusqu'à Fr. 7480</td><td>jusqu'à Fr. 8410</td></tr>
-<tr><td>Fr. 560</td><td>jusqu'à Fr. 5735</td><td>jusqu'à Fr. 6530</td><td>jusqu'à Fr. 7600</td><td>jusqu'à Fr. 8540</td></tr>
-<tr><td>Fr. 420</td><td>jusqu'à Fr. 5820</td><td>jusqu'à Fr. 6630</td><td>jusqu'à Fr. 7720</td><td>jusqu'à Fr. 8670</td></tr>
-<tr><td>Fr. 280</td><td>jusqu'à Fr. 5905</td><td>jusqu'à Fr. 6730</td><td>jusqu'à Fr. 7840</td><td>jusqu'à Fr. 8800</td></tr>
-<tr><td>Fr. 140</td><td>jusqu'à Fr. 5990</td><td>jusqu'à Fr. 6830</td><td>jusqu'à Fr. 7960</td><td>jusqu'à Fr. 8930</td></tr>
+<tr><td>Fr. 864</td><td>jusqu'à Fr. 5565</td><td>jusqu'à Fr. 6330</td><td>jusqu'à Fr. 7360</td><td>jusqu'à Fr. 8280</td></tr>
+<tr><td>Fr. 720</td><td>jusqu'à Fr. 5650</td><td>jusqu'à Fr. 6430</td><td>jusqu'à Fr. 7480</td><td>jusqu'à Fr. 8410</td></tr>
+<tr><td>Fr. 576</td><td>jusqu'à Fr. 5735</td><td>jusqu'à Fr. 6530</td><td>jusqu'à Fr. 7600</td><td>jusqu'à Fr. 8540</td></tr>
+<tr><td>Fr. 432</td><td>jusqu'à Fr. 5820</td><td>jusqu'à Fr. 6630</td><td>jusqu'à Fr. 7720</td><td>jusqu'à Fr. 8670</td></tr>
+<tr><td>Fr. 288</td><td>jusqu'à Fr. 5905</td><td>jusqu'à Fr. 6730</td><td>jusqu'à Fr. 7840</td><td>jusqu'à Fr. 8800</td></tr>
+<tr><td>Fr. 144</td><td>jusqu'à Fr. 5990</td><td>jusqu'à Fr. 6830</td><td>jusqu'à Fr. 7960</td><td>jusqu'à Fr. 8930</td></tr>
 <tr><td>Pas de droit à l'avance</td><td>dès Fr. 5991</td><td>dès Fr. 6831</td><td>dès Fr. 7961</td><td>dès Fr. 8931</td></tr>
 </table>
 
@@ -242,12 +263,12 @@ Arrête:
 <table>
 <tr><th>Revenu</th><th>Montant de l'avance</th></tr>
 <tr><td>Jusqu'à Fr. 1200</td><td>Montant maximal selon art. 9 al. 1 let. a LARACE</td></tr>
-<tr><td>Jusqu'à Fr. 1300</td><td>Fr. 840</td></tr>
-<tr><td>Jusqu'à Fr. 1400</td><td>Fr. 700</td></tr>
-<tr><td>Jusqu'à Fr. 1500</td><td>Fr. 560</td></tr>
-<tr><td>Jusqu'à Fr. 1600</td><td>Fr. 420</td></tr>
-<tr><td>Jusqu'à Fr. 1700</td><td>Fr. 280</td></tr>
-<tr><td>Jusqu'à Fr. 1800</td><td>Fr. 140</td></tr>
+<tr><td>Jusqu'à Fr. 1300</td><td>Fr. 864</td></tr>
+<tr><td>Jusqu'à Fr. 1400</td><td>Fr. 720</td></tr>
+<tr><td>Jusqu'à Fr. 1500</td><td>Fr. 576</td></tr>
+<tr><td>Jusqu'à Fr. 1600</td><td>Fr. 432</td></tr>
+<tr><td>Jusqu'à Fr. 1700</td><td>Fr. 288</td></tr>
+<tr><td>Jusqu'à Fr. 1800</td><td>Fr. 144</td></tr>
 <tr><td>Dès Fr. 1801</td><td>Pas de droit à l'avance</td></tr>
 </table>
 
@@ -311,6 +332,10 @@ Arrête:
 
 ## 3 Observation (art. 19 al. 1 et 3 LARACE)
 
+[^13-1]
+
+[^13-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 #### Art. 14
 
 **Consultation du matériel recueilli**
@@ -337,7 +362,9 @@ Arrête:
 
 **Destruction du matériel recueilli**
 
-<sup>1</sup> Une fois la décision fondée sur les données récoltées lors de l'observation entrée en force, tous les documents et toutes les pièces obtenues dans le cadre d'une observation doivent être détruits, sous réserve de l'article 19 al. 2 LARACE.
+<sup>1</sup> Une fois la décision fondée sur les données récoltées lors de l'observation entrée en force, tous les documents et toutes les pièces obtenues dans le cadre d'une observation doivent être détruits, sous réserve de l'article 19 al. 2 LARACE[^16-1].
+
+[^16-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
 
 ## 4 Mandat de recouvrement
 
@@ -370,6 +397,11 @@ Arrête:
 
 ## 5 Frais de l'aide au recouvrement (art. 17-19 OAiR et art. 26 LARACE)
 
+[^18-1][^18-2]
+
+[^18-1]: RS [211.214.32](https://db.clex.ch/link/Bund/211.214.32/fr)
+[^18-2]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
+
 #### Art. 19
 
 **Généralités**
@@ -378,7 +410,9 @@ Arrête:
 
 <sup>2</sup> Les frais de tiers, notamment ceux de poursuite, de procédure et les frais de traduction, sont avancés par le SASoc. Ils sont facturés à la personne débitrice.
 
-<sup>3</sup> Les frais de tiers peuvent être mis à la charge de la personne créancière dans les cas visés à l'article 26 LARACE et à l'article 20 de la présente ordonnance.
+<sup>3</sup> Les frais de tiers peuvent être mis à la charge de la personne créancière dans les cas visés à l'article 26 LARACE[^19-1] et à l'article 20 de la présente ordonnance.
+
+[^19-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
 
 #### Art. 20
 
@@ -388,7 +422,7 @@ Arrête:
 
 <sup>2</sup> Pour ce faire, trois conditions cumulatives doivent être remplies:
 
-- a) la personne créancière a donné de fausses informations ou a omis de transmettre les informations actuelles, en violation de son devoir de collaboration prévu à l'article 7 LARACE;
+- a) la personne créancière a donné de fausses informations ou a omis de transmettre les informations actuelles, en violation de son devoir de collaboration prévu à l'article 7 LARACE[^20-1];
 - b) des procédures ont été introduites sur la base de ces informations;
 - c) des frais ont été mis à la charge du SASoc dans ces procédures.
 
@@ -399,6 +433,8 @@ Arrête:
 - c) les dépens mis à la charge du SASoc;
 - d) les émoluments facturés au SASoc;
 - e) les frais de traduction.
+
+[^20-1]: RSF [212.4.1](https://bdlf.fr.ch/data/212.4.1/fr)
 
 ## 6 Dispositions finales
 
