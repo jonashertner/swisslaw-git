@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2024-10-01
+version: 2025-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20241001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (État le 1<sup>er</sup> octobre 2024)
+du 27 mai 2020 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -940,11 +940,11 @@ Les laboratoires nationaux de référence doivent satisfaire aux exigences suiva
 
 <sup>4</sup> L’OSAV peut modifier les compétences et les tâches des laboratoires nationaux de référence.
 
-### Titre 3*a* Achats tests d’alcool
+## Titre 3*a* Achats tests d’alcool
 
-[^tit3-chap4-tit3a-1]
+[^tit3a-1]
 
-[^tit3-chap4-tit3a-1]: Introduit par l’annexe 4 ch. II 6 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^tit3a-1]: Introduit par l’annexe 4 ch. II 6 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 61a
 
@@ -1065,14 +1065,15 @@ L’autorité cantonale compétente transmet à l’OFSP, une fois par an, au pl
 
 <sup>2</sup> Les autorités compétentes élaborent des programmes de formation et les mettent en œuvre.
 
-<sup>3</sup> Seules les personnes au bénéfice d’une des formations mentionnées dans la présente ordonnance peuvent être chargées du contrôle officiel dans les cantons.
+<sup>3</sup> Seules les personnes au bénéfice d’une des formations mentionnées dans la présente ordonnance peuvent être chargées du contrôle officiel dans les cantons ou peuvent l’effectuer sous surveillance conformément à l’art. 77*a*.[^62-1]
 
 <sup>4</sup> L’OSAV et la Direction générale des douanes organisent un programme commun de formation pour les personnes chargées des contrôles à la frontière. Ils veillent à ce que les matières enseignées dans ces cours correspondent à l’état le plus récent de la technique et des connaissances scientifiques.
 
-<sup>5</sup> Les personnes chargées du contrôle des établissements de découpe soumis à autorisation en vertu de l’art. 21 ODAlOUs[^62-1] doivent être titulaires d’un certificat de capacité de vétérinaire officiel au sens de l’ordonnance du 16 novembre 2011 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public[^62-2].
+<sup>5</sup> Les personnes chargées du contrôle des établissements de découpe soumis à autorisation en vertu de l’art. 21 ODAlOUs[^62-2] doivent être titulaires d’un certificat de capacité de vétérinaire officiel au sens de l’ordonnance du 16 novembre 2011 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public[^62-3].
 
-[^62-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^62-2]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^62-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^62-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^62-3]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
 
 #### Art. 63
 
@@ -1090,6 +1091,8 @@ L’autorité cantonale compétente transmet à l’OFSP, une fois par an, au pl
 
 **Condition pour exercer une fonction officielle**
 
+<sup>1</sup>
+
 Toute personne souhaitant exercer une des fonctions suivantes doit posséder un diplôme sanctionnant la formation correspondante:
 
 - a. assistant officiel;
@@ -1098,6 +1101,10 @@ Toute personne souhaitant exercer une des fonctions suivantes doit posséder un 
 - d. inspecteur des denrées alimentaires;
 - e. chimiste cantonal suppléant;
 - f. chimiste cantonal.
+
+<sup>2</sup> Une personne n’ayant pas encore terminé la formation requise peut exercer les fonctions visées à l’al. 1, let. b à d, sous surveillance conformément à l’art. 77*a*.[^64-1]
+
+[^64-1]: Introduit par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### Section 2 Commission d’examen
 
@@ -1249,23 +1256,39 @@ Au 31 décembre, le chimiste cantonal notifie à l’OSAV la liste des personnes
 
 ### Chapitre 3 Diplôme fédéral en contrôle officiel des denrées alimentaires
 
-[^tit3a-chap3-1]
+[^tit4-chap3-1]
 
-[^tit3a-chap3-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^tit4-chap3-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 ### Section 1 Principes
 
 #### Art. 77
 
-<sup>1</sup> Le diplôme fédéral en contrôle des denrées alimentaires (DCAl) est une condition préalable à l’exercice de l’activité d’inspecteur des denrées alimentaires, de contrôleur des denrées alimentaires ou de responsable officiel des analyses.
+**Obtention du diplôme et activité**[^77-1]
 
-<sup>2</sup>
+<sup>1</sup>
 
-Quiconque souhaite obtenir le DCAl doit remplir les conditions suivantes:
+Quiconque souhaite obtenir le diplôme fédéral en contrôle officiel des denrées alimentaires (DCAl) doit remplir les conditions suivantes:
 
 - a. justifier d’une formation préalable;
-- b. avoir suivi la formation requise;
-- c. réussir l’examen de diplôme.
+- b. avoir terminé la formation requise;
+- c. avoir réussi l’examen de diplôme.
+
+<sup>2</sup> Le DCAl est une condition préalable à l’exercice de l’activité d’inspecteur des denrées alimentaires, de contrôleur des denrées alimentaires ou de responsable officiel des analyses.
+
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+
+#### Art. 77a
+
+**Activité sous surveillance**[^77a-1]
+
+<sup>1</sup> Toute personne qui a réussi l’examen de diplôme mais n’a pas encore terminé sa formation peut exercer l’activité d’inspecteur des denrées alimentaires, de contrôleur des denrées alimentaires ou de responsable officiel des analyses, sous la surveillance d’une personne titulaire d’un DCAl, d’un diplôme fédéral en direction du contrôle officiel des denrées alimentaires (DDCAl) ou d’un diplôme équivalent.
+
+<sup>2</sup> L’activité sous surveillance peut être exercée au maximum pendant deux ans à compter de la date de la décision attestant la réussite de l’examen de diplôme.
+
+<sup>3</sup> Dans des cas justifiés, le chimiste cantonal peut prolonger ce délai.
+
+[^77a-1]: Introduit par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### Section 2 Formation préalable et formation
 
@@ -1288,6 +1311,8 @@ La formation préalable consiste en:
 
 <sup>1</sup> La formation pour le DCAl dure au minimum trois mois.
 
+<sup>1bis</sup> Elle peut être terminée après l’examen de diplôme.[^79-1]
+
 <sup>2</sup>
 
 Elle comprend les matières suivantes:
@@ -1296,7 +1321,7 @@ Elle comprend les matières suivantes:
 - b. microbiologie des denrées alimentaires, hygiène des denrées alimentaires et hygiène d’établissement;
 - c. connaissance des marchandises et technologie des denrées alimentaires;
 - d. étiquetage et publicité relative aux denrées alimentaires et aux objets usuels;
-- e. appréciation de l’autocontrôle, y compris des bonnes pratiques de fabrication, principes HACCP conformément au *Codex Alimentarius*[^79-1];
+- e. appréciation de l’autocontrôle, y compris des bonnes pratiques de fabrication, principes HACCP conformément au *Codex Alimentarius*[^79-2];
 - f. inspections d’établissements, formation au service externe, prélèvements officiels d’échantillons;
 - g. fondements de l’analyse.
 
@@ -1304,10 +1329,11 @@ Elle comprend les matières suivantes:
 
 <sup>4</sup> L’inscription à la formation doit être adressée à l’OSAV.
 
-<sup>5</sup> Les émoluments perçus pour la formation sont calculés selon l’annexe 4, ch. 4.1.[^79-2]
+<sup>5</sup> Les émoluments perçus pour la formation sont calculés selon l’annexe 4, ch. 4.1.[^79-3]
 
-[^79-1]: [www.fao.org/fao-who-codexalimentarius](https://www.fao.org/fao-who-codexalimentarius) &gt; Textes du Codex &gt; Code d’usages &gt; Recherche: CXC 1-1969 &gt; CAC/RCP1-1969, Principes généraux d’hygiène alimentaire, modifiés en dernier lieu en 2003
-[^79-2]: Erratum du 14 juil. 2020, ne concerne que le texte italien ([RO 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
+[^79-1]: Introduit par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^79-2]: [www.fao.org/fao-who-codexalimentarius](https://www.fao.org/fao-who-codexalimentarius) &gt; Textes du Codex &gt; Code d’usages &gt; Recherche: CXC 1-1969 &gt; CAC/RCP1-1969, Principes généraux d’hygiène alimentaire, modifiés en dernier lieu en 2003
+[^79-3]: Erratum du 14 juil. 2020, ne concerne que le texte italien ([RO 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
 
 ### Section 3 Examen et diplôme
 
@@ -1340,13 +1366,16 @@ La partie théorique de l’examen de diplôme comprend les matières visées à
 Il joint à sa demande:
 
 - a. un curriculum vitæ présentant sa formation et son parcours professionnel;
-- b. les documents attestant sa formation préalable et sa formation.
+- b.[^82-1] le document attestant sa formation préalable.
 
-<sup>3</sup> Les documents attestant des formations visées à l’art. 79, al. 2, ne doivent pas dater de plus de dix ans.
+<sup>3</sup> …[^82-2]
 
 <sup>4</sup> L’OSAV décide de l’admission à l’examen sur proposition de la CE.
 
 <sup>5</sup> Les émoluments d’examen sont calculés selon l’annexe 4, ch. 3.1. Ils doivent être acquittés avant l’examen.
+
+[^82-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^82-2]: Abrogé par le ch. I de l’O du 16 oct. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 #### Art. 83
 
@@ -1398,15 +1427,17 @@ L’examen de diplôme est réussi:
 
 #### Art. 86
 
-**Diplôme**
+**Autorité délivrant le diplôme**[^86-1]
 
-Si l’examen est réussi, l’OSAV délivre le diplôme.
+L’OSAV délivre le diplôme.
+
+[^86-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### Chapitre 4 Diplôme fédéral en direction du contrôle officiel des denrées alimentaires
 
-[^tit3a-chap4-1]
+[^tit4-chap4-1]
 
-[^tit3a-chap4-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^tit4-chap4-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 ### Section 1 Principes
 
@@ -1414,7 +1445,7 @@ Si l’examen est réussi, l’OSAV délivre le diplôme.
 
 <sup>1</sup>
 
-Quiconque souhaite obtenir le diplôme fédéral en direction du contrôle des denrées alimentaires (DDCAl) doit remplir les conditions suivantes:
+Quiconque souhaite obtenir le DDCAl doit remplir les conditions suivantes:[^87-1]
 
 - a. être titulaire du DCAl;
 - b. justifier d’une formation théorique préalable;
@@ -1429,6 +1460,8 @@ L’activité de chimiste cantonal requiert:
 - b. un *master* dans l’un des domaines visés à l’art. 88, al. 1, let. a, ou un diplôme au sens de l’art. 88, al. 1, let. b.
 
 <sup>3</sup> L’activité de chimiste cantonal adjoint requiert l’obtention du DDCAl.
+
+[^87-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### Section 2 Formation préalable et formation
 
@@ -1559,9 +1592,9 @@ Toute personne nommée par le canton au titre de chimiste cantonal ou de chimist
 
 ### Chapitre 5 Données personnelles
 
-[^tit3a-chap5-1]
+[^tit4-chap5-1]
 
-[^tit3a-chap5-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^tit4-chap5-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 #### Art. 95a
 
@@ -2184,11 +2217,13 @@ Annexe 8
 
 [^annex8-lvlu1-1]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
 
-Annexe 9
+Annexe 9[^t-4]
 
 (art. 70, al. 1 et 2, let. b)
 
 ## Tâches spécifiques des assistants officiels
+
+[^t-4]: Mise à jour par le ch. II de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 - 1\. Prélèvement d’échantillons.
 - 2\.
@@ -2201,14 +2236,15 @@ Annexe 9
   - d. pratiquent le tatouage, le *piercing* ou le maquillage permanent.
 
 - 3\. Contrôle des eaux de douche et de baignade.
+- 4\. Contrôle du respect de la limite d’âge prévue pour la remise de boissons alcooliques aux jeunes de moins de 16 ans.
 
-Annexe 10[^t-4]
+Annexe 10[^t-5]
 
 (art. 95*a*, al. 2, et 95*c*, let. c)
 
 ## Données personnelles qui sont traitées dans le cadre de la présente ordonnance
 
-[^t-4]: Introduite par le ch. II al. 2 de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 ### Liste des données
 

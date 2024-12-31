@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2024-10-01
+version: 2025-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20241001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° ottobre 2024)
+del 27 maggio 2020 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -184,7 +184,7 @@ Le autorità di esecuzione competenti possono eseguire i seguenti controlli uffi
 <sup>2</sup> Esse registrano regolarmente i risultati dei controlli nel sistema d’informazione per i risultati di controlli e analisi secondo l’ordinanza del 27 aprile 2022[^6-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare. L’USAV determina il tipo di registrazione dei dati dopo aver consultato le autorità cantonali di esecuzione.[^6-2]
 
 [^6-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^6-2]: Introdotto dall’all. 4 n. II 5 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^6-2]: Introdotto dall’all. 4 cifra II n. 5 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 7
 
@@ -380,7 +380,7 @@ Le autorità cantonali assegnano alle aziende con l’autorizzazione un numero d
 
 [^19-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^19-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^19-3]: Nuovo testo giusta l’all. 4 n. II 5 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^19-3]: Nuovo testo giusta l’all. 4 cifra II n. 5 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 4: Attività di controllo supplementari sui giocattoli
 
@@ -938,7 +938,7 @@ I laboratori nazionali di riferimento devono:
 
 [^tit3a-1]
 
-[^tit3a-1]: Introdotto dall’all. 4 n. II 6 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^tit3a-1]: Introdotto dall’all. 4 cifra II n. 6 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 61a
 
@@ -1059,14 +1059,15 @@ L’autorità cantonale competente trasmette all’UFSP, una volta all’anno, a
 
 <sup>2</sup> Le autorità competenti sviluppano e attuano i programmi di formazione.
 
-<sup>3</sup> Soltanto le persone che dispongono di una delle formazioni menzionate nella presente ordinanza possono essere incaricate dei controlli ufficiali nel Cantone.
+<sup>3</sup> Soltanto le persone che dispongono di una delle formazioni menzionate nella presente ordinanza possono essere incaricate dei controlli ufficiali nel Cantone o eseguirli sotto sorveglianza ai sensi dell’articolo 77*a*.[^62-1]
 
 <sup>4</sup> L’USAV e l’Ufficio federale della dogana e della sicurezza dei confini organizzano congiuntamente corsi destinati alle persone incaricate del controllo alla frontiera. Provvedono affinché il contenuto di questi corsi corrisponda allo stato più recente della tecnica e della scienza.
 
-<sup>5</sup> Le persone che controllano le aziende di sezionamento con un’autorizzazione di cui all’articolo 21 ODerr[^62-1], devono disporre di un attestato di capacità di veterinario ufficiale secondo l’ordinanza del 16 novembre 2011[^62-2] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico.
+<sup>5</sup> Le persone che controllano le aziende di sezionamento con un’autorizzazione di cui all’articolo 21 ODerr[^62-2], devono disporre di un attestato di capacità di veterinario ufficiale secondo l’ordinanza del 16 novembre 2011[^62-3] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico.
 
-[^62-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^62-2]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^62-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^62-3]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
 
 #### Art. 63
 
@@ -1078,11 +1079,13 @@ L’autorità cantonale competente trasmette all’UFSP, una volta all’anno, a
 
 <sup>3</sup> La quota dei costi a carico dei singoli Cantoni è stabilita in base al numero di abitanti.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 #### Art. 64
 
 **Condizione per un’attività ufficiale**
+
+<sup>1</sup>
 
 Chi intende esercitare una delle seguenti funzioni deve disporre del diploma corrispondente:
 
@@ -1092,6 +1095,10 @@ Chi intende esercitare una delle seguenti funzioni deve disporre del diploma cor
 - d. ispettore delle derrate alimentari;
 - e. sostituto chimico cantonale;
 - f. chimico cantonale.
+
+<sup>2</sup> Chi non dispone ancora del diploma può esercitare le funzioni di cui al capoverso 1 lettere b–d sotto sorveglianza ai sensi dell’articolo 77*a*.[^64-1]
+
+[^64-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### Sezione 2: Commissione di esame
 
@@ -1247,15 +1254,31 @@ Il chimico cantonale comunica all’USAV entro il 31 dicembre di ogni anno i nom
 
 #### Art. 77
 
-<sup>1</sup> Il diploma federale per il controllo ufficiale delle derrate alimentari (DCA) è la condizione necessaria per esercitare l’attività di ispettore delle derrate alimentari, controllore delle derrate alimentari o analista ufficiale responsabile.
+**Conseguimento del diploma e attività**[^77-1]
 
-<sup>2</sup>
+<sup>1</sup>
 
-Chi intende ottenere il DCA deve:
+Chi intende conseguire il diploma federale per il controllo ufficiale delle derrate alimentari (DCA) deve:
 
 - a. comprovare la formazione preliminare;
-- b. aver assolto la formazione;
-- c. superare l’esame di diploma.
+- b. aver concluso la formazione;
+- c. aver superato l’esame di diploma.
+
+<sup>2</sup> Il DCA è la condizione necessaria per esercitare l’attività di ispettore delle derrate alimentari, controllore delle derrate alimentari o analista ufficiale responsabile.
+
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+
+#### Art. 77a
+
+**Attività sotto sorveglianza**[^77a-1]
+
+<sup>1</sup> Chi ha superato l’esame di diploma, ma non ha ancora concluso la formazione può esercitare l’attività di ispettore delle derrate alimentari, controllore delle derrate alimentari o analista ufficiale responsabile sotto la sorveglianza di una persona in possesso di un DAL, di un diploma federale per il controllo ufficiale di livello dirigenziale delle derrate alimentari (DCDA) o di un diploma equivalente.
+
+<sup>2</sup> L’attività sotto sorveglianza può essere esercitata per al massimo due anni dalla data della decisione di superamento dell’esame di diploma.
+
+<sup>3</sup> In casi motivati il chimico cantonale può approvare una proroga del termine.
+
+[^77a-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### Sezione 2: Formazione preliminare e formazione
 
@@ -1278,6 +1301,8 @@ Chi intende ottenere il DCA deve:
 
 <sup>1</sup> La formazione per il DCA dura almeno tre mesi.
 
+<sup>1bis</sup> Può essere conclusa anche dopo l’esame di diploma.[^79-1]
+
 <sup>2</sup>
 
 Include le seguenti materie:
@@ -1286,7 +1311,7 @@ Include le seguenti materie:
 - b. microbiologia delle derrate alimentari, igiene delle derrate alimentari e delle aziende;
 - c. merceologia e tecnologia delle derrate alimentari;
 - d. caratterizzazioni e pubblicità relative a derrate alimentari e oggetti d’uso;
-- e. valutazione del controllo autonomo, compresi la buona prassi di procedura e i principi HACCP secondo il *Codex Alimentarius*[^79-1];
+- e. valutazione del controllo autonomo, compresi la buona prassi di procedura e i principi HACCP secondo il *Codex Alimentarius*[^79-2];
 - f. ispezioni delle aziende, formazione del servizio esterno, campionatura ufficiale;
 - g. fondamenti di analitica.
 
@@ -1294,10 +1319,11 @@ Include le seguenti materie:
 
 <sup>4</sup> L’iscrizione alla formazione va inviata all’USAV.
 
-<sup>5</sup> Gli emolumenti per la formazione sono disciplinati nell’allegato 4 numero 4.1.[^79-2]
+<sup>5</sup> Gli emolumenti per la formazione sono disciplinati nell’allegato 4 numero 4.1.[^79-3]
 
-[^79-1]: [www.fao.org/fao-who-codexalimentarius](http://www.fao.org/fao-who-codexalimentarius) &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, modificato da ultimo nel 2003 (disponibile solamente in inglese, francese, spagnolo, arabo e cinese).
-[^79-2]: Correzione del 14 lug. 2020 ([RU 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
+[^79-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^79-2]: [www.fao.org/fao-who-codexalimentarius](http://www.fao.org/fao-who-codexalimentarius) &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, modificato da ultimo nel 2003 (disponibile solamente in inglese, francese, spagnolo, arabo e cinese).
+[^79-3]: Correzione del 14 lug. 2020 ([RU 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
 
 ### Sezione 3: Esame e diploma
 
@@ -1307,7 +1333,7 @@ Include le seguenti materie:
 
 La parte teorica dell’esame di diploma riguarda le materie di cui all’articolo 79 capoverso 2 lettere a–e.
 
-[^80-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^80-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 #### Art. 81
 
@@ -1330,13 +1356,16 @@ La parte teorica dell’esame di diploma riguarda le materie di cui all’artico
 All’iscrizione vanno allegati:
 
 - a. il curriculum vitae con la descrizione della formazione e dell’esperienza professionale;
-- b. le comprove dell’assolvimento della formazione preliminare e della formazione.
+- b.[^82-1] la comprova della conclusione della formazione preliminare.
 
-<sup>3</sup> Le comprove delle formazioni di cui all’articolo 79 capoverso 2 non devono risalire a più di 10 anni prima.
+<sup>3</sup> ...[^82-2]
 
 <sup>4</sup> L’USAV decide sull’ammissione all’esame su richiesta della CE.
 
 <sup>5</sup> L’emolumento per l’esame è disciplinato nell’allegato 4 numero 3.1 e deve essere versato prima dell’esame.
+
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^82-2]: Abrogato dalla cifra I dell’O del 16 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 #### Art. 83
 
@@ -1388,9 +1417,11 @@ L’esame di diploma è superato se:
 
 #### Art. 86
 
-**Diploma**
+**Autorità di rilascio**[^86-1]
 
-Se l’esame di diploma è superato, la CE rilascia il diploma.
+L’USAV rilascia il diploma.
+
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### Capitolo 4: Diploma federale per il controllo ufficiale di livello dirigenziale delle derrate alimentari
 
@@ -1400,7 +1431,7 @@ Se l’esame di diploma è superato, la CE rilascia il diploma.
 
 <sup>1</sup>
 
-Chi intende ottenere il diploma federale per il controllo ufficiale di livello dirigenziale delle derrate alimentari (DCDA) deve:
+Chi intende ottenere il DCDA deve:[^87-1]
 
 - a. essere in possesso del DCA;
 - b. comprovare la formazione preliminare teorica;
@@ -1415,6 +1446,8 @@ L’attività di chimico cantonale presuppone:
 - b. un diploma di master in una delle materie di cui all’articolo 88 capoverso 1 lettera a o un diploma di cui all’articolo 88 capoverso 1 lettera b.
 
 <sup>3</sup> L’attività di sostituto chimico cantonale presuppone il conseguimento del DCDA.
+
+[^87-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### Sezione 2: Formazione preliminare e formazione
 
@@ -1516,7 +1549,7 @@ All’iscrizione vanno allegati:
 
 <sup>4</sup> L’USAV comunica al candidato il risultato sotto forma di decisione.
 
-[^92-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 #### Art. 93
 
@@ -1547,7 +1580,7 @@ Chi è nominato chimico o suo sostituto dal Cantone senza essere ancora in posse
 
 [^tit4-chap5-1]
 
-[^tit4-chap5-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^tit4-chap5-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 #### Art. 95a
 
@@ -1626,8 +1659,8 @@ Le autorità cantonali di esecuzione trattano i dati personali:
 
 <sup>4</sup> Le autorità federali, le autorità cantonali di esecuzione e i terzi emanano regolamenti interni sulla forma del trattamento dei dati.
 
-[^97-1]: Abrogati dall’all. 2 n. II 107 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^97-2]: Nuovo testo giusta l’all. 2 n. II 107 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^97-1]: Abrogati dall’all. 2 cifra II n. 107 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^97-2]: Nuovo testo giusta l’all. 2 cifra II n. 107 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Sezione 2: Scambio di dati
 
@@ -1643,7 +1676,7 @@ Le autorità cantonali di esecuzione trattano i dati personali:
 
 <sup>4</sup> Le autorità e i terzi scambiano soltanto i dati personali che sono necessari per il destinatario. Se un documento contiene più dati personali, i dati non necessari per il destinatario sono cancellati o resi illeggibili.[^98-1]
 
-[^98-1]: Nuovo testo giusta l’all. 2 n. II 107 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^98-1]: Nuovo testo giusta l’all. 2 cifra II n. 107 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 99
 
@@ -1909,7 +1942,7 @@ Le partite con le seguenti derrate alimentari già inviate al momento dell’ent
 - b. melanzane (*Solanum melongena*), peperoni dolci (*Capsicum annuum*), peperoni del genere *Capsicum* e fagioli asparago (*Vigna unguiculata* ssp. *sesquipedalis*, V*igna unguiculata* ssp. *unguiculata*) dalla Repubblica Dominicana; e
 - c. arance, mandarini (compresi tangerini e satsuma), clementine, wilkings e altri ibridi simili di agrumi dalla Turchia.
 
-[^118a-1]: Introdotto dal n. I dell’O dell’USAV del 10 gen. 2022, in vigore dal 12 gen. 2022 ([RU 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
+[^118a-1]: Introdotto dalla cifra I dell’O dell’USAV del 10 gen. 2022, in vigore dal 12 gen. 2022 ([RU 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
 
 #### Art. 118b
 
@@ -1921,7 +1954,7 @@ Le partite con le seguenti derrate alimentari già inviate al momento dell’ent
 - b. miscele di additivi alimentari contenenti farina di semi di carrube o gomma di guar provenienti dall’India; e
 - c. miscele di additivi alimentari contenenti farina di semi di carrube provenienti dalla Malaysia o dalla Turchia.
 
-[^118b-1]: Introdotto dal n. I dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
+[^118b-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
 
 #### Art. 118c
 
@@ -1936,7 +1969,7 @@ Le partite con le seguenti derrate alimentari già inviate al momento dell’ent
 - e. gombo (okra) dal Vietnam;
 - f. estratto di vaniglia proveniente dagli Stati Uniti.
 
-[^118c-1]: Introdotto dal n. I dell’O dell’USAV dell’8 feb. 2023, in vigore dal 1° mar. 2023 ([RU 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
+[^118c-1]: Introdotto dalla cifra I dell’O dell’USAV dell’8 feb. 2023, in vigore dal 1° mar. 2023 ([RU 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
 
 #### Art. 118d
 
@@ -1947,7 +1980,7 @@ Le partite con le seguenti derrate alimentari già inviate al momento dell’ent
 - a. semi di albicocca non trasformati originari della Turchia;
 - b. pistacchi e prodotti derivati originari degli Stati Uniti, spediti dalla Turchia.
 
-[^118d-1]: Introdotto dal n. I dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+[^118d-1]: Introdotto dalla cifra I dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
 #### Art. 118e
 
@@ -1958,7 +1991,7 @@ Le partite con le seguenti derrate alimentari già inviate al momento dell’ent
 - a. gotu kola (*Centella asiatica*) proveniente dallo Sri Lanka;
 - b. peperoni del genere *Capsicum* provenienti dal Vietnam.
 
-[^118e-1]: Introdotto dal n. I dell’O dell’USAV del 9 lug. 2024, in vigore dal 1° ago. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
+[^118e-1]: Introdotto dalla cifra I dell’O dell’USAV del 9 lug. 2024, in vigore dal 1° ago. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
 
 #### Art. 119
 
@@ -1981,7 +2014,7 @@ Allegato 2[^t-1]
 
 ## Derrate alimentari non di origine animale provenienti da determinati Paesi che sono soggetti temporaneamente ai controlli ufficiali approfonditi secondo gli articoli 37−43
 
-[^t-1]: Aggiornato dal n. II dell’O dell’USAV del 9 lug. 2024, in vigore dal 1° ago. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
+[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 9 lug. 2024, in vigore dal 1° ago. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
 
 - 1\. Tutte le derrate alimentari iscritte nell’allegato I del regolamento di esecuzione (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato I.
@@ -1994,7 +2027,7 @@ Allegato 3[^t-2]
 
 ## Derrate alimentari di origine non animale provenienti da determinati Paesi, per la cui importazione a causa del rischio di contaminazione da micotossine, da residui di pesticidi o di contaminazione microbica valgono i controlli approfonditi con condizioni supplementari di cui agli articoli 37–43
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
 - 1\. Tutte le derrate alimentari iscritte nella tabella 1 dell’allegato II del regolamento di esecuzione (UE) 2019/1793[^annex3-lvlu1-1], ad eccezione della gomma di guar proveniente dall’India.
 - 2\. Derrate alimentari nella tabella 2 dell’allegato II del regolamento di esecuzione, che a causa del rischio di contaminazione da micotossine sono elencate nella tabella 1 dell’allegato II e contengono una quantità superiore al 20 per cento della derrata alimentare interessata indicata nella tabella 1.
@@ -2062,7 +2095,7 @@ Allegato 5[^t-3]
 
 ## Metodi per le campionature ufficiali nonché per le analisi, prove e diagnosi di laboratorio
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 1 dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 <table>
 <tr><th>Analita/i</th><th>Prodotto</th><th>Metodo</th></tr>
@@ -2171,11 +2204,13 @@ Allegato 8
 
 [^annex8-lvlu1-1]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
 
-Allegato 9
+Allegato 9[^t-4]
 
 (art. 70 cpv. 1 e 2 lett. b)
 
 ## Compiti specifici degli assistenti specializzati ufficiali
+
+[^t-4]: Aggiornato dalla cifra II dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 - 1\. Campionatura.
 - 2\.
@@ -2188,14 +2223,15 @@ Allegato 9
   - d. effettuano tatuaggi, piercing o applicano make-up permanente.
 
 - 3\. Controllo dell’acqua per piscine e docce.
+- 4\. Controllo del rispetto del limite d’età per la consegna di bevande alcoliche ai minori di 16 anni.
 
-Allegato 10[^t-4]
+Allegato 10[^t-5]
 
 (art. 95*a* cpv. 2 e 95*c* lett. c)
 
 ## Dati personali trattati nell’ambito della presente ordinanza
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^t-5]: Introdotto dalla cifra II cpv. 2 dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 ### Elenco dei dati
 

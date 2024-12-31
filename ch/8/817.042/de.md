@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2024-10-01
+version: 2025-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20241001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. Oktober 2024)
+vom 27. Mai 2020 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1065,14 +1065,15 @@ Die zuständige kantonale Behörde übermittelt dem BAG einmal jährlich spätes
 
 <sup>2</sup> Die zuständigen Behörden entwickeln Ausbildungsprogramme und setzen diese um.
 
-<sup>3</sup> Nur Personen mit einer in dieser Verordnung umschriebenen Ausbildung dürfen mit den amtlichen Kontrollen in den Kantonen betraut werden.
+<sup>3</sup> Nur Personen mit einer in dieser Verordnung umschriebenen Ausbildung dürfen mit den amtlichen Kontrollen in den Kantonen betraut werden oder dürfen diese unter Aufsicht nach Artikel 77*a* ausüben.[^62-1]
 
 <sup>4</sup> Das BLV und die Oberzolldirektion führen gemeinsam Schulungen für die mit der Kontrolle an der Grenze betrauten Personen durch. Sie sorgen dafür, dass der in diesen Schulungen vermittelte Stoff jeweils dem neuesten Stand von Technik und Wissenschaft entspricht.
 
-<sup>5</sup> Personen, die Zerlegebetriebe mit einer Bewilligung nach Artikel 21 LGV[^62-1] kontrollieren, müssen über ein Fähigkeitszeugnis als amtliche Tierärztin oder amtlicher Tierarzt nach der Verordnung vom 16. November 2011[^62-2] über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen verfügen.
+<sup>5</sup> Personen, die Zerlegebetriebe mit einer Bewilligung nach Artikel 21 LGV[^62-2] kontrollieren, müssen über ein Fähigkeitszeugnis als amtliche Tierärztin oder amtlicher Tierarzt nach der Verordnung vom 16. November 2011[^62-3] über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen verfügen.
 
-[^62-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^62-2]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^62-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^62-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^62-3]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
 
 #### Art. 63
 
@@ -1090,6 +1091,8 @@ Die zuständige kantonale Behörde übermittelt dem BAG einmal jährlich spätes
 
 **Voraussetzung für eine amtliche Tätigkeit**
 
+<sup>1</sup>
+
 Wer eine der folgenden Funktionen ausüben will, muss über die entsprechende abgeschlossene Ausbildung verfügen:
 
 - a. amtliche Fachassistentin oder amtlicher Fachassistent;
@@ -1098,6 +1101,10 @@ Wer eine der folgenden Funktionen ausüben will, muss über die entsprechende ab
 - d. Lebensmittelinspektorin oder Lebensmittelinspektor;
 - e. stellvertretende Kantonschemikerin oder stellvertretender Kantonschemiker;
 - f. Kantonschemikerin oder Kantonschemiker.
+
+<sup>2</sup> Wer die Ausbildung noch nicht abgeschlossen hat, darf die Funktionen nach Absatz 1 Buchstaben b–d unter Aufsicht nach Artikel 77*a* ausüben.[^64-1]
+
+[^64-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### 2. Abschnitt: Prüfungskommission
 
@@ -1253,15 +1260,31 @@ Die Kantonschemikerin oder der Kantonschemiker meldet dem BLV per jeweils 31. De
 
 #### Art. 77
 
-<sup>1</sup> Das eidgenössische Diplom für die amtliche Lebensmittelkontrolle (DAL) ist Voraussetzung für die Ausübung der Tätigkeit als Lebensmittelinspektorin oder Lebensmittelinspektor, als Lebensmittelkontrolleurin oder Lebensmittelkontrolleur oder als amtliche Prüfleiterin oder amtlicher Prüfleiter.
+**Erwerb und Tätigkeit**[^77-1]
 
-<sup>2</sup>
+<sup>1</sup>
 
-Wer das DAL erwerben will, muss:
+Wer das eidgenössische Diplom für die amtliche Lebensmittelkontrolle (DAL) erwerben will, muss:
 
 - a. die Vorbildung nachweisen;
-- b. die Ausbildung absolviert haben;
-- c. die Diplomprüfung bestehen.
+- b. die Ausbildung abgeschlossen haben;
+- c. die Diplomprüfung bestanden haben.
+
+<sup>2</sup> Das DAL ist Voraussetzung für die Ausübung der Tätigkeit als Lebensmittelinspektorin oder Lebensmittelinspektor, als Lebensmittelkontrolleurin oder Lebensmittelkontrolleur oder als amtliche Prüfleiterin oder amtlicher Prüfleiter.
+
+[^77-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+
+#### Art. 77a
+
+**Tätigkeit unter Aufsicht**[^77a-1]
+
+<sup>1</sup> Wer die Diplomprüfung bestanden, aber die Ausbildung noch nicht abgeschlossen hat, kann unter Aufsicht einer Person, die über ein DAL, ein eidgenössisches Diplom für die leitende amtliche Lebensmittelkontrolle (DLAL) oder ein äquivalentes Diplom verfügt, die Tätigkeit als Lebensmittelinspektorin oder Lebensmittelinspektor, als Lebensmittelkontrolleurin oder Lebensmittelkontrolleur oder als amtliche Prüfleiterin oder amtlicher Prüfleiter ausüben.
+
+<sup>2</sup> Die Tätigkeit unter Aufsicht darf ab dem Datum der Verfügung der bestandenen Diplomprüfung höchstens zwei Jahre ausgeübt werden.
+
+<sup>3</sup> In begründeten Fällen kann die Kantonschemikerin oder der Kantonschemiker eine Verlängerung der Frist bewilligen.
+
+[^77a-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### 2. Abschnitt: Vorbildung und Ausbildung
 
@@ -1284,6 +1307,8 @@ Die Vorbildung besteht aus:
 
 <sup>1</sup> Die Ausbildung für das DAL dauert mindestens drei Monate.
 
+<sup>1bis</sup> Sie kann auch nach der Diplomprüfung abgeschlossen werden.[^79-1]
+
 <sup>2</sup>
 
 Sie umfasst die folgenden Bereiche:
@@ -1292,7 +1317,7 @@ Sie umfasst die folgenden Bereiche:
 - b. Lebensmittelmikrobiologie, Lebensmittel- und Betriebshygiene;
 - c. Warenkunde und Lebensmitteltechnologie;
 - d. Kennzeichnungen und Anpreisungen von Lebensmitteln und Gebrauchsgegenständen;
-- e. Beurteilung der Selbstkontrolle unter Einschluss der guten Verfahrenspraxis sowie der HACCP-Grundsätze gemäss *Codex Alimentarius*[^79-1];
+- e. Beurteilung der Selbstkontrolle unter Einschluss der guten Verfahrenspraxis sowie der HACCP-Grundsätze gemäss *Codex Alimentarius*[^79-2];
 - f. Betriebsinspektionen, Schulung für den Aussendienst, amtliche Probenahme;
 - g. Grundlagen der Analytik.
 
@@ -1300,10 +1325,11 @@ Sie umfasst die folgenden Bereiche:
 
 <sup>4</sup> Die Anmeldung für die Ausbildung ist ans BLV zu richten.
 
-<sup>5</sup> Die Gebühren für die Ausbildung richten sich nach Anhang 4 Ziffer 4.1.[^79-2]
+<sup>5</sup> Die Gebühren für die Ausbildung richten sich nach Anhang 4 Ziffer 4.1.[^79-3]
 
-[^79-1]: [www.fao.org/fao-who-codexalimentarius](https://www.fao.org/fao-who-codexalimentarius) &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, zuletzt geändert 2003 (nur auf Englisch, Französisch, Spanisch, Arabisch und Chinesisch verfügbar).
-[^79-2]: Die Berichtigung vom 14. Juli 2020 betrifft nur den italienischen Text ([AS 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
+[^79-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^79-2]: [www.fao.org/fao-who-codexalimentarius](https://www.fao.org/fao-who-codexalimentarius) &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, zuletzt geändert 2003 (nur auf Englisch, Französisch, Spanisch, Arabisch und Chinesisch verfügbar).
+[^79-3]: Die Berichtigung vom 14. Juli 2020 betrifft nur den italienischen Text ([AS 2020 2907](https://fedlex.data.admin.ch/eli/oc/2020/539)).
 
 ### 3. Abschnitt: Prüfung und Diplom
 
@@ -1336,13 +1362,16 @@ Der theoretische Teil der Diplomprüfung erstreckt sich auf die Bereiche nach Ar
 Der Anmeldung sind beizulegen:
 
 - a. der Lebenslauf mit einer Beschreibung der Ausbildung und des beruflichen Werdegangs;
-- b. die Nachweise über die Abschlüsse der Vor- und der Ausbildung.
+- b.[^82-1] der Nachweis über den Abschluss der Vorbildung.
 
-<sup>3</sup> Die Nachweise der Ausbildungen nach Artikel 79 Absatz 2 dürfen nicht älter als 10 Jahre sein.
+<sup>3</sup> …[^82-2]
 
 <sup>4</sup> Das BLV entscheidet auf Antrag der PK über die Zulassung zur Prüfung.
 
 <sup>5</sup> Die Prüfungsgebühr richtet sich nach Anhang 4 Ziffer 3.1. Sie muss vor der Prüfung bezahlt werden.
+
+[^82-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
+[^82-2]: Aufgehoben durch Ziff. I der V vom 16. Okt. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 #### Art. 83
 
@@ -1394,9 +1423,11 @@ Die Diplomprüfung ist bestanden, wenn:
 
 #### Art. 86
 
-**Diplom**
+**Ausstellende Behörde**[^86-1]
 
-Ist die Diplomprüfung bestanden, so stellt das BLV das Diplom aus.
+Das BLV stellt das Diplom aus.
+
+[^86-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### 4. Kapitel: Eidgenössisches Diplom für die leitende amtliche Lebensmittelkontrolle
 
@@ -1406,7 +1437,7 @@ Ist die Diplomprüfung bestanden, so stellt das BLV das Diplom aus.
 
 <sup>1</sup>
 
-Wer das eidgenössische Diplom für die leitende amtliche Lebensmittelkontrolle (DLAL) erwerben will, muss:
+Wer das DLAL erwerben will, muss:[^87-1]
 
 - a. im Besitz des DAL sein;
 - b. die theoretische Vorbildung nachweisen;
@@ -1421,6 +1452,8 @@ Die Tätigkeit als Kantonschemikerin oder Kantonschemiker setzt voraus:
 - b. ein Masterdiplom in einem der in Artikel 88 Absatz 1 Buchstabe a aufgeführten Bereiche oder ein Diplom nach Artikel 88 Absatz 1 Buchstabe b.
 
 <sup>3</sup> Die Tätigkeit als stellvertretende Kantonschemikerin oder stellvertretender Kantonschemiker setzt den Erwerb des DLAL voraus.
+
+[^87-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 ### 2. Abschnitt: Vorbildung und Ausbildung
 
@@ -2177,11 +2210,13 @@ Anhang 8
 
 [^annex8-lvlu1-1]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
 
-Anhang 9
+Anhang 9[^t-4]
 
 (Art. 70 Abs. 1 und 2 Bst. b)
 
 ## Spezifische Aufgaben der amtlichen Fachassistentinnen und Fachassistenten
+
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
 
 - 1\. Probenahme;
 - 2\.
@@ -2193,15 +2228,16 @@ Anhang 9
   - c. Spielzeuge herstellen oder vertreiben,
   - d. tätowieren, piercen oder Permanent-Make-up anbringen;
 
-- 3\. Kontrolle von Dusch- und Badewasser.
+- 3\. Kontrolle von Dusch- und Badewasser;
+- 4\. Kontrolle der Einhaltung der Altersbeschränkung bei der Abgabe alkoholischer Getränke an Jugendliche unter 16 Jahren.
 
-Anhang 10[^t-4]
+Anhang 10[^t-5]
 
 (Art. 95*a* Abs. 2 und 95*c* Bst. c)
 
 ## Personendaten, die im Rahmen dieser Verordnung bearbeitet werden
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 ### Liste der Daten
 
