@@ -4,13 +4,12 @@ number: "673.343"
 title: Tarif für die Gebäudewasserversicherung der Aargauischen Gebäudeversicherung
 short: Tarif Gebäudewasser
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-18
+version: 2025-01-01
+version_adopted: 2024-05-14
 adopted: 2011-08-11
 in_force: 2012-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.343"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2891/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3685/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2891/pdf_file"
 
 (Tarif Gebäudewasser)
 
-Vom 11.08.2011 (Stand 01.01.2021)
+Vom 11.08.2011 (Stand 01.01.2025)
 
 Der Verwaltungsrat der Aargauischen Gebäudeversicherung,
 
-gestützt auf die §§ 34 und 36 Abs. 3 des Gesetzes über die Gebäudeversicherung (Gebäudeversicherungsgesetz, GebVG) vom 19. September 2006[^ingress-1] und § 15 Abs. 2 der Allgemeinen Versicherungsbedingungen für die Gebäudewasserversicherung (AVB Gebäudewasser) vom 27. April 2014[^ingress-2],
+gestützt auf die §§ 34 und 36 Abs. 3 des Gesetzes über die Gebäudeversicherung (Gebäudeversicherungsgesetz, GebVG) vom 19. September 2006[^ingress-1] und § 15 Abs. 2 der Allgemeinen Versicherungsbedingungen für die Gebäudewasserversicherung (AVB Gebäudewasser) vom 27. April 2012[^ingress-2],
 
 beschliesst:
 
@@ -32,46 +31,54 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Der vorliegende Tarif regelt die Zusammensetzung der Prämie und Abgabe (Beitrag) sowie die Bemessung der Prämie.
+**Zweck des Tarifs**
+
+<sup>1</sup> Der vorliegende Tarif regelt die Zusammensetzung der Beiträge für die Grundversicherung des Gebäudewasserrisikos und die Zusatzversicherung Aqua Plus sowie die Bemessung der Prämie.
 
 #### § 2
 
-<sup>1</sup> Der Beitrag setzt sich zusammen aus
+**Zusammensetzung der Beiträge**
 
-- a) Prämie für die Versicherung des Gebäudewasserrisikos und
-- b) Eidgenössische Stempelabgabe auf die Prämie für die Versicherung des Gebäudewasserrisikos.
+<sup>1</sup> Der Beitrag für die Grundversicherung des Gebäudewasserrisikos beziehungsweise die Zusatzversicherung Aqua Plus setzt sich zusammen aus:
+
+- a) Prämie für die Grundversicherung des Gebäudewasserrisikos beziehungsweise für die Zusatzversicherung Aqua Plus und
+- b) Eidgenössische Stempelabgabe auf der Prämie.
 
 #### § 3
 
-<sup>1</sup> Die Prämie für die Versicherung des Gebäudewasserrisikos errechnet sich durch Multiplikation von Gebäudeversicherungswert und Prämiensatz. Der Prämiensatz wird durch die Unterzeichnung des Antrages anerkannt.
+**Berechnung der Prämie**
+
+<sup>1</sup> Die Prämie für die Grundversicherung des Gebäudewasserrisikos beziehungsweise für die Zusatzversicherung Aqua Plus errechnet sich durch Multiplikation von Gebäudeversicherungswert und dem jeweiligen Prämiensatz. Die Versicherungsnehmerin beziehungsweise der Versicherungsnehmer anerkennt den Prämiensatz mit Unterzeichnung des Antrags zum Abschluss der Versicherung.
 
 #### § 4
+
+**Prämiensatz für die Grundversicherung des Gebäudewasserrisikos**
 
 <sup>1</sup> Die in ‰ des Gebäudeversicherungswerts festgelegten Prämiensätze betragen für Wohngebäude (inkl. Ferienhäuser) mit Selbstbehalt Fr. 200.– pro Schadenfall und Gebäude:
 
 <table>
 <tr><th>Versicherungswert in Fr.</th><th>Prämiensatz in ‰</th><th>Minimalprämie in Fr.</th></tr>
-<tr><td>bis und mit 0.5 Mio.</td><td>0.37</td><td>42.–</td></tr>
-<tr><td>über 0.5 Mio. bis 1 Mio.</td><td>0.33</td><td>185.–</td></tr>
-<tr><td>über 1 Mio. bis 2 Mio.</td><td>0.32</td><td>330.–</td></tr>
-<tr><td>über 2 Mio. bis 5 Mio.</td><td>0.25</td><td>640.–</td></tr>
-<tr><td>über 5 Mio. bis 10 Mio.</td><td>0.21</td><td>1'250.–</td></tr>
-<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.18</td><td>2'100.–</td></tr>
-<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.14</td><td>3'600.–</td></tr>
-<tr><td>über 50 Mio.</td><td>0.11</td><td>7'000.–</td></tr>
+<tr><td>bis und mit 0.5 Mio.</td><td>0.49</td><td>42.–</td></tr>
+<tr><td>über 0.5 Mio. bis 1 Mio.</td><td>0.40</td><td>245.–</td></tr>
+<tr><td>über 1 Mio. bis 2 Mio.</td><td>0.40</td><td>400.–</td></tr>
+<tr><td>über 2 Mio. bis 5 Mio.</td><td>0.32</td><td>800.–</td></tr>
+<tr><td>über 5 Mio. bis 10 Mio.</td><td>0.27</td><td>1'600.–</td></tr>
+<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.20</td><td>2'700.–</td></tr>
+<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.15</td><td>4'000.–</td></tr>
+<tr><td>über 50 Mio.</td><td>0.11</td><td>7'500.–</td></tr>
 </table>
 
 <sup>1<sup>bis</sup></sup> Die in ‰ des Gebäudeversicherungswerts festgelegten Prämiensätze betragen für Wohngebäude (inkl. Ferienhäuser) mit Selbstbehalt von Fr. 500.– pro Schadenfall und Gebäude:
 
 <table>
 <tr><th>Versicherungswert in Fr.</th><th>Prämiensatz in ‰</th><th>Minimalprämie in Fr.</th></tr>
-<tr><td>bis und mit 0.5 Mio.</td><td>0.33</td><td>37.–</td></tr>
-<tr><td>über 0.5 Mio. bis 1 Mio.</td><td>0.30</td><td>165.–</td></tr>
-<tr><td>über 1 Mio. bis 2 Mio.</td><td>0.29</td><td>300.–</td></tr>
-<tr><td>über 2 Mio. bis 5 Mio.</td><td>0.23</td><td>580.–</td></tr>
-<tr><td>über 5 Mio. bis 10 Mio.</td><td>0.19</td><td>1'150.–</td></tr>
-<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.17</td><td>1'900.–</td></tr>
-<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.13</td><td>3'400.–</td></tr>
+<tr><td>bis und mit 0.5 Mio.</td><td>0.45</td><td>37.–</td></tr>
+<tr><td>über 0.5 Mio. bis 1 Mio.</td><td>0.37</td><td>225.–</td></tr>
+<tr><td>über 1 Mio. bis 2 Mio.</td><td>0.37</td><td>370.–</td></tr>
+<tr><td>über 2 Mio. bis 5 Mio.</td><td>0.30</td><td>740.–</td></tr>
+<tr><td>über 5 Mio. bis 10 Mio.</td><td>0.25</td><td>1'500.–</td></tr>
+<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.18</td><td>2'500.–</td></tr>
+<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.13</td><td>3'600.–</td></tr>
 <tr><td>über 50 Mio.</td><td>0.10</td><td>6'500.–</td></tr>
 </table>
 
@@ -82,11 +89,11 @@ beschliesst:
 <tr><td>bis und mit 0.5 Mio.</td><td>0.59</td><td>59.–</td></tr>
 <tr><td>über 0.5 Mio. bis 1 Mio.</td><td>0.54</td><td>295.–</td></tr>
 <tr><td>über 1 Mio. bis 2 Mio.</td><td>0.50</td><td>540.–</td></tr>
-<tr><td>über 2 Mio. bis 5 Mio.</td><td>0.45</td><td>1'000.–</td></tr>
-<tr><td>über 5 Mio. bis 10 Mio.</td><td>0.40</td><td>2'250.–</td></tr>
-<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.34</td><td>4'000.–</td></tr>
-<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.30</td><td>6'800.–</td></tr>
-<tr><td>über 50 Mio.</td><td>0.25</td><td>15'000.–</td></tr>
+<tr><td>über 2 Mio. bis 5 Mio.</td><td>0.44</td><td>1'000.–</td></tr>
+<tr><td>über 5 Mio. bis 10 Mio.</td><td>0.38</td><td>2'200.–</td></tr>
+<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.29</td><td>3'800.–</td></tr>
+<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.18</td><td>5'800.–</td></tr>
+<tr><td>über 50 Mio.</td><td>0.12</td><td>9'000.–</td></tr>
 </table>
 
 <sup>2<sup>bis</sup></sup> Die in ‰ des Gebäudeversicherungswerts festgelegten Prämiensätze betragen für Gastwirtschaftsbetriebe, Hotels, Motels, Gasthäuser, Restaurants mit Selbstbehalt von Fr. 500.– pro Schadenfall und Gebäude:
@@ -98,9 +105,9 @@ beschliesst:
 <tr><td>über 1 Mio. bis 2 Mio.</td><td>0.45</td><td>490.–</td></tr>
 <tr><td>über 2 Mio. bis 5 Mio.</td><td>0.41</td><td>900.–</td></tr>
 <tr><td>über 5 Mio. bis 10 Mio.</td><td>0.35</td><td>2'050.–</td></tr>
-<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.31</td><td>3'500.–</td></tr>
-<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.27</td><td>6'200.–</td></tr>
-<tr><td>über 50 Mio.</td><td>0.23</td><td>13'500.–</td></tr>
+<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.28</td><td>3'500.–</td></tr>
+<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.17</td><td>5'600.–</td></tr>
+<tr><td>über 50 Mio.</td><td>0.11</td><td>8'500.–</td></tr>
 </table>
 
 <sup>3</sup> Die in ‰ des Gebäudeversicherungswerts festgelegten Prämiensätze betragen für übrige Gebäude mit Selbstbehalt Fr. 200.– pro Schadenfall und Gebäude:
@@ -131,21 +138,43 @@ beschliesst:
 <tr><td>über 50 Mio.</td><td>0.08</td><td>5'000.–</td></tr>
 </table>
 
-<sup>4</sup> Die Prämie für die Zusatzversicherung "Aqua plus" beträgt pro Gebäude Fr. 35.–.
+<sup>4</sup> …
 
 <sup>5</sup> Aus wichtigen Gründen kann die Geschäftsleitung abweichende Prämiensätze festlegen.
 
+#### § 4a
+
+**Prämiensatz für die Zusatzversicherung Aqua Plus**
+
+<sup>1</sup> Die in ‰ des Gebäudeversicherungswerts festgelegten Prämiensätze für die Zusatzversicherung Aqua Plus betragen:
+
+<table>
+<tr><th>Versicherungswert in Fr.</th><th>Prämiensatz in ‰</th><th>Minimalprämie in Fr.</th></tr>
+<tr><td>bis und mit 0.5 Mio.</td><td>0.043</td><td>35.–</td></tr>
+<tr><td>über 0.5 Mio. bis 1 Mio.</td><td>0.041</td><td>35.–</td></tr>
+<tr><td>über 1 Mio. bis 2 Mio.</td><td>0.039</td><td>41.–</td></tr>
+<tr><td>über 2 Mio. bis 5 Mio.</td><td>0.027</td><td>78.–</td></tr>
+<tr><td>über 5 Mio. bis 10 Mio.</td><td>0.016</td><td>135.–</td></tr>
+<tr><td>über 10 Mio. bis 20 Mio.</td><td>0.010</td><td>160.–</td></tr>
+<tr><td>über 20 Mio. bis 50 Mio.</td><td>0.005</td><td>200.–</td></tr>
+<tr><td>über 50 Mio.</td><td>0.003</td><td>250.–</td></tr>
+</table>
+
 #### § 5
 
-<sup>1</sup> Bei ausserordentlich schlechtem Schadenverlauf kann ein angemessener Zuschlag von bis zu 200 % oder ein erhöhter Selbstbehalt pro Schadenereignis von max. Fr. 10'000.– erhoben werden.
+**Anpassungen bei schlechtem Schadenverlauf**
+
+<sup>1</sup> Bei ausserordentlich schlechtem Schadenverlauf kann ein angemessener Prämienzuschlag und/oder ein erhöhter Selbstbehalt pro Schadenereignis erhoben werden.
 
 <sup>2</sup> Der Prämienzuschlag beziehungsweise der erhöhte Selbstbehalt kann mit der Auflage verbunden werden, geeignete Massnahmen zur Risikominderung zu ergreifen.
 
-<sup>3</sup> Der Zuschlag beziehungsweise der erhöhte Selbstbehalt wird aufgehoben, sobald die beziehungsweise der Versicherte den Nachweis erbracht hat, dass das besondere Risiko durch geeignete Massnahmen eliminiert worden ist.
+<sup>3</sup> Der Prämienzuschlag und/oder der erhöhte Selbstbehalt kann aufgehoben werden, sobald die Versicherte beziehungsweise der Versicherte den Nachweis erbracht hat, dass das besondere Risiko durch geeignete Massnahmen eliminiert worden ist.
 
 <sup>4</sup> Das Kündigungsrecht der Parteien gemäss § 13 Abs. 3 AVB Gebäudewasser bleibt von vorstehender Regelung unberührt.
 
 #### § 6
+
+**Bauzeitversicherung**
 
 <sup>1</sup> Die Prämie für die Bauzeitversicherung wird vorschüssig als Pauschale entsprechend den bei der Anmeldung deklarierten Baukosten erhoben. Die Pauschalen betragen inkl. Umgebungsarbeiten mit Selbstbehalt Fr. 200.– pro Schadenfall und Gebäude:
 
@@ -171,6 +200,8 @@ beschliesst:
 <sup>4</sup> Ergibt die Schätzung des fertigen Gebäudes eine Differenz zwischen den bei der Anmeldung der Bauzeitversicherung angegebenen Baukosten und dem rechtskräftigen Versicherungswert, die ausserhalb der Bandbreite gemäss der Tabelle in Absatz 1 liegt, wird die Beitragsdifferenz zurückgezahlt oder nacherhoben.
 
 #### § 7
+
+**Inkrafttreten**
 
 <sup>1</sup> Dieser Tarif ist in der Gesetzessammlung zu publizieren. Er tritt am 1. Januar 2012 in Kraft.
 
