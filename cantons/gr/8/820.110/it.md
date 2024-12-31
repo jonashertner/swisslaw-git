@@ -4,13 +4,12 @@ number: "820.110"
 title: "Ordinanza cantonale sulla protezione dell'ambiente"
 short: OCPAmb
 language: it
-version: 2016-01-01
-corrected: 2020-04-01
-version_adopted: 2015-06-30
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2002-08-13
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2584/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3862/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2584/pdf_file"
 
 (OCPAmb)
 
-del 13.08.2002 (stato 01.01.2016)
+del 13.08.2002 (stato 01.01.2025)
 
 emanata dal Governo il 13 agosto 2002
 
@@ -33,9 +32,9 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 **Competenza**
 
-<sup>1</sup> Il Dipartimento competente per la protezione dell'ambiente è il Dipartimento dell'educazione, cultura e protezione dell'ambiente.
+<sup>1</sup> Il Dipartimento competente per la protezione dell'ambiente è il Dipartimento formazione, ambiente e cultura.
 
-<sup>2</sup> Il Servizio specializzato per la protezione dell'ambiente è l'Ufficio per la natura e l'ambiente.
+<sup>2</sup> Il Servizio specializzato per la protezione dell'ambiente è l'Ufficio dell'ambiente.
 
 #### Art. 2
 
@@ -45,7 +44,7 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 <sup>2</sup> Il Governo, il Dipartimento e il Servizio possono stipulare contratti di cooperazione con imprese o associazioni di categoria.
 
-<sup>3</sup> Per controversie risultanti da tali contratti il Tribunale amministrativo cantonale può essere designato quale tribunale arbitrale.
+<sup>3</sup> Per controversie risultanti da tali contratti il Tribunale d'appello può essere designato quale tribunale arbitrale.
 
 #### Art. 3
 
@@ -136,7 +135,7 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 **2. Impianti ferroviari**
 
-<sup>1</sup> Il Dipartimento costruzioni, trasporti e foreste è competente per l'attuazione delle misure d'isolamento acustico presso edifici esistenti, in relazione al risanamento fonico delle ferrovie. Esso può delegare totalmente o parzialmente le sue competenze ai servizi.
+<sup>1</sup> Il Dipartimento infrastrutture, energia e mobilità è competente per l'attuazione delle misure d'isolamento acustico presso edifici esistenti, in relazione al risanamento fonico delle ferrovie. Esso può delegare totalmente o parzialmente le sue competenze ai servizi.
 
 #### Art. 12
 
@@ -204,7 +203,7 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 **Imballaggi per bevande**
 
-<sup>1</sup> L'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali attua gli articoli 4 - 6 dell'ordinanza sugli imballaggi per bevande.
+<sup>1</sup> L'Ufficio veterinario e alimentare attua gli articoli 4 - 6 dell'ordinanza sugli imballaggi per bevande.
 
 #### Art. 18
 
@@ -255,6 +254,54 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 #### Art. 23
 
 **…**
+
+#### Art. 23a
+
+**Sistemi parapalle artificiali negli impianti di tiro 1. Principi**
+
+<sup>1</sup> Impianti di tiro a 300 m, a 50 m e a 25 m nonché impianti per il tiro di caccia con bersagli fissi devono essere gestiti con sistemi parapalle omologati secondo lo stato della tecnica. Lo stato della tecnica si conforma alle prescrizioni della Confederazione per sistemi parapalle artificiali di impianti di tiro a 300 m, a 50 m e a 25 m[^23a-1].
+
+<sup>2</sup> Gli interstizi tra i singoli cassoni dei parapalle devono essere chiusi mediante piastre d'acciaio dotate di rivestimento in polietilene. Sui parapalle più esterni va applicata un'ulteriore piastra d'acciaio dotata di rivestimento in polietilene della larghezza di 1 m.
+
+<sup>3</sup> Impianti di tiro per armi di piccolo calibro devono essere gestiti con sistemi parapalle chiusi e privi di emissioni.
+
+<sup>4</sup> Impianti di tiro al cinghiale corrente devono essere gestiti con sistemi parapalle omologati.
+
+<sup>5</sup> Impianti per il tiro alla lepre con bersagli in movimento devono essere gestiti con sistemi parapalle speciali. L'area del pre-parapalle deve essere dotata di un rivestimento impermeabile di almeno 2 m di larghezza. Gli impianti devono essere coperti e dotati di una parete posteriore.
+
+<sup>6</sup> Gli impianti di tiro alla lepre con piattello rotolante a terra e gli impianti di tiro al piattello possono essere gestiti solo con proiettili e bersagli privi di sostanze inquinanti.
+
+[^23a-1]: Esercito svizzero, Regolamento 51.065, Questioni tecniche relative agli impianti di tiro per il tiro fuori del servizio (Istruzioni per gli impianti di tiro)
+
+#### Art. 23b
+
+**2. Manutenzione**
+
+<sup>1</sup> I gestori degli impianti di tiro sono responsabili per la manutenzione dei sistemi parapalle artificiali. Essi garantiscono che i lavori vengano svolti a regola d'arte e in modo rispettoso dell'ambiente. Occorre osservare le prescrizioni dei produttori.
+
+<sup>2</sup> Sulle superfici non riparate di impianti per il tiro alla lepre con bersagli in movimento, in particolare sulla superficie rivestita nell'area del pre-parapalle, i pallini devono essere raccolti dopo ogni esercizio di tiro, depositati temporaneamente in un contenitore chiuso e smaltiti in conformità alla legge. Anche i bossoli di plastica delle cartucce a pallini devono essere raccolti regolarmente e smaltiti in conformità alla legge.
+
+<sup>3</sup> Negli impianti di tiro alla lepre con piattello rotolante a terra e negli impianti di tiro al piattello i cocci dei piattelli e i bossoli di plastica delle cartucce a pallini devono essere raccolti regolarmente, tuttavia almeno una volta all'anno, e smaltiti in conformità alla legge.
+
+<sup>4</sup> I gestori di impianti per il tiro alla lepre con bersagli in movimento, di impianti di tiro alla lepre con piattello rotolante a terra e di impianti di tiro al piattello devono presentare un regolamento d'esercizio al Servizio entro il 31 dicembre 2020 e farlo approvare da quest'ultimo.
+
+#### Art. 23c
+
+**3. Obbligo di coordinamento con il risanamento dei siti contaminati**
+
+<sup>1</sup> Prima di installare sistemi parapalle artificiali occorre chiarire tempestivamente con il Servizio se il sito deve essere risanato con riguardo al diritto in materia di siti contaminati[^23c-1]. In tal caso occorre garantire che il sito venga risanato contemporaneamente all'installazione oppure che un risanamento futuro del sito contaminato non diventi sostanzialmente più difficile in seguito al progetto di costruzione[^23c-2]. Il progetto di costruzione necessita del consenso del Servizio[^23c-3].
+
+[^23c-1]: art. 8 segg. RS [814.680](https://db.clex.ch/link/Bund/814.680/it)
+[^23c-2]: art. 3 RS [814.680](https://db.clex.ch/link/Bund/814.680/it)
+[^23c-3]: art. 48 CSC [820.100](https://www.gr-lex.gr.ch/data/820.100/it)
+
+#### Art. 23d
+
+**4. Obbligo di notifica**
+
+<sup>1</sup> I Comuni notificano al Servizio eventuali impianti di tiro chiusi[^23d-1].
+
+[^23d-1]: art. 59b CSC [820.100](https://www.gr-lex.gr.ch/data/820.100/it)
 
 ## 5. Sussidi cantonali
 
@@ -389,7 +436,7 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 **Obbligo di denuncia**
 
-<sup>1</sup> Le collaboratrici e i collaboratori del Servizio devono denunciare all'Ufficio per la natura e l'ambiente tutte le infrazioni alla legislazione sulla protezione dell'ambiente e sulla protezione delle acque di cui vengono a conoscenza nell'esercizio della loro funzione ufficiale. Le infrazioni punibili devono essere denunciate alla Polizia cantonale.
+<sup>1</sup> Le collaboratrici e i collaboratori del Servizio devono denunciare all'Ufficio dell'ambiente tutte le infrazioni alla legislazione sulla protezione dell'ambiente e sulla protezione delle acque di cui vengono a conoscenza nell'esercizio della loro funzione ufficiale. Le infrazioni punibili devono essere denunciate alla Polizia cantonale.
 
 ## 8. Disposizioni finali
 
@@ -411,6 +458,23 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 <sup>1</sup> I contributi cantonali non ancora versati ai sensi dell'articolo 23 della legge sulla perequazione finanziaria (LPFC) vengono trattati in conformità al diritto previgente.
 
+#### Art. 39b
+
+**4. Sistemi parapalle artificiali negli impianti di tiro**
+
+<sup>1</sup> Gli interstizi chiusi con cataste di legna o altri materiali in sistemi parapalle artificiali già esistenti devono essere conformi a quanto prescritto dall'articolo 23a capoverso 2:
+
+- a) a risanamento dei siti contaminati avvenuto, prima che venga ripresa l'attività di tiro;
+- b) in caso di lavori di manutenzione e di riparazione di portata sostanziale su sistemi parapalle artificiali quali la sostituzione integrale o parziale dei sistemi parapalle artificiali, spostamenti dei sistemi parapalle artificiali oppure sostituzione del granulato;
+- c) in caso di decomposizione delle cataste di legna o in caso di altre limitazioni della funzionalità degli interstizi;
+- d) in caso di interstizi completamente aperti o di interstizi in cui la superficie chiusa è inferiore al 90 per cento della superficie complessiva.
+
+<sup>2</sup> Sistemi parapalle artificiali già esistenti i cui interstizi sono chiusi da cataste di legna o da altri materiali simili e che si trovano in impianti sottoposti a risanamento secondo il diritto in materia di siti contaminati devono essere sostituiti al più tardi entro il 31 dicembre 2024.
+
+<sup>3</sup> Per impianti di tiro di caccia già dotati di sistemi parapalle artificiali, la larghezza minima delle piastre d'acciaio laterali secondo l'articolo 23a capoverso 2 ammonta a 50 cm.
+
+<sup>4</sup> Impianti per il tiro alla lepre con bersagli in movimento già dotati di un sistema parapalle speciale possono continuare a essere gestiti senza riparo e senza parete posteriore al massimo fino al 31 dicembre 2030.
+
 #### Art. 40
 
 **Entrata in vigore**
@@ -419,5 +483,82 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 [^40-1]: Posta in vigore il 1° set. 2002 con DG del 13 ago. 2002
 [^40-2]: CSC [820.100](https://www.gr-lex.gr.ch/data/820.100/it)
+
+## A1 Appendice 1: Impianti artigianali e industriali (art. 4 cpv. 1 lett. f)
+
+#### Art. A1-1
+
+<sup>1</sup> L'elenco seguente non è esaustivo. Anche altri impianti dai quali ci si devono attendere emissioni simili per genere e quantità, necessitano dell'approvazione del Servizio e devono essere notificati a quest'ultimo:
+
+- a) Industria alimentare:
+  - 1\. Affumicatoio per carne
+  - 2\. Impianto di torrefazione
+- b) Agricoltura:
+  - 1\. Essiccatoio dell'erba
+- c) Industria tessile:
+  - 1\. Tintoria
+  - 2\. Conceria
+- d) Lavorazione del legno:
+  - 1\. Segheria
+  - 2\. Impianto di piallatura
+  - 3\. Falegnameria
+  - 4\. Officina di verniciatura e di lucidatura
+- e) Lavorazione di materie sintetiche:
+  - 1\. Impianto per rivestimento a polverizzazione
+  - 2\. Impianto di stampaggio ad iniezione
+  - 3\. Impianto per la produzione di materie sintetiche o di articoli di gomma
+- f) Estrazione e lavorazione di pietre e terra:
+  - 1\. Cava di pietra
+  - 2\. Impianto per la ghiaia
+  - 3\. Impianto per la produzione di cemento, calce e gesso
+  - 4\. Impianto per la miscelazione di asfalto
+  - 5\. Fabbrica di laterizi
+  - 6\. Impianto per il trattamento di materiale
+- g) Industria metallica:
+  - 1\. Fucina
+  - 2\. Officina di zincatura
+  - 3\. Impianto di galvanizzazione
+  - 4\. Officina del fabbro
+  - 5\. Fonderia
+  - 6\. Impianto di sabbiatura
+- h) Settore edilizio:
+  - 1\. Impresa edile con parco macchine e attrezzature
+  - 2\. Impresa di pittura
+  - 3\. Impresa di sverniciatura
+  - 4\. Cantieri di grandi dimensioni
+- i) Energia:
+  - 1\. Impianti per la produzione di biogas, gas di depurazione e simili
+  - 2\. Impianti per lo sfruttamento energetico di biogas, gas di depurazione e simili
+- j) Smaltimento dei rifiuti:
+  - 1\. Impianti di incenerimento dei rifiuti
+- k) Commercio:
+  - 1\. Stabilimenti per il commercio di nafta, diesel, benzina o di gas liquido
+  - 2\. Stazione di servizio
+  - 3\. Impianti per il trasbordo di merci polverose
+- l) Servizi:
+  - 1\. Forno per la pizza
+  - 2\. Officine per la verniciatura a spruzzo
+  - 3\. Autofficina
+  - 4\. Officina per la riparazione di altri veicoli a motore o altre macchine
+  - 5\. Lavanderia chimica
+  - 6\. Pulizia cisterne
+  - 7\. Crematorio
+  - 8\. Ospedale
+
+## A2 Appendice 2: Impianti di allevamento (art. 4 cpv. 1 lett. g)
+
+#### Art. A2-1
+
+**All'interno delle zone edificabili**
+
+<sup>1</sup> Sono considerati impianti di allevamento che causano un considerevole inquinamento dell'aria gli impianti di allevamento con una capacità per un numero di animali totale tale da causare un valore di immissione di odori superiore a 4.
+
+#### Art. A2-2
+
+**Al di fuori delle zone edificabili**
+
+<sup>1</sup> Sono considerati impianti di allevamento che causano un considerevole inquinamento dell'aria gli impianti di allevamento con una capacità per un numero di animali totale tale da causare un valore di immissione di odori superiore a 6.
+
+<sup>2</sup> Secondo le vigenti raccomandazioni della Stazione federale di ricerche in economia e tecnologia agricole di Tänikon sulle distanze minime da aziende di allevamento, l'immissione di odori viene misurata in base al numero di animali e dei fattori di immissione di odori per le diverse specie animali.
 
 -

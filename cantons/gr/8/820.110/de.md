@@ -4,13 +4,12 @@ number: "820.110"
 title: Kantonale Umweltschutzverordnung
 short: KUSV
 language: de
-version: 2016-01-01
-corrected: 2020-04-01
-version_adopted: 2015-06-30
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2002-08-13
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2584/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3862/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2584/pdf_file"
 
 (KUSV)
 
-Vom 13.08.2002 (Stand 01.01.2016)
+Vom 13.08.2002 (Stand 01.01.2025)
 
 Gestützt auf Art. 57 des Einführungsgesetzes über den Umweltschutz (Kantonales Umweltschutzgesetz, KUSG) vom 2. Dezember 2001[^ingress-1]
 
@@ -33,9 +32,9 @@ von der Regierung erlassen am 13. August 2002
 
 **Zuständigkeit**
 
-<sup>1</sup> Zuständiges Departement für den Umweltschutz ist das Erziehungs-, Kultur- und Umweltschutzdepartement.
+<sup>1</sup> Zuständiges Departement für den Umweltschutz ist das Departement für Bildung, Umwelt und Kultur.
 
-<sup>2</sup> Fachstelle für den Umweltschutz ist das Amt für Natur und Umwelt.
+<sup>2</sup> Fachstelle für den Umweltschutz ist das Amt für Umwelt.
 
 #### Art. 2
 
@@ -45,7 +44,7 @@ von der Regierung erlassen am 13. August 2002
 
 <sup>2</sup> Die Regierung, das Departement und die Fachstelle können mit Unternehmen oder Branchenverbänden Kooperationsverträge abschliessen.
 
-<sup>3</sup> Für Streitigkeiten aus solchen Verträgen kann das kantonale Verwaltungsgericht als Schiedsgericht bezeichnet werden.
+<sup>3</sup> Für Streitigkeiten aus solchen Verträgen kann das Obergericht als Schiedsgericht bezeichnet werden.
 
 #### Art. 3
 
@@ -136,7 +135,7 @@ von der Regierung erlassen am 13. August 2002
 
 **2. Eisenbahnanlagen**
 
-<sup>1</sup> Das Bau-, Verkehrs- und Forstdepartement ist zuständig für die Durchführung der Schallschutzmassnahmen an bestehenden Gebäuden im Zusammenhang mit der Lärmsanierung von Eisenbahnen. Es kann diese Befugnisse ganz oder teilweise seinen Dienststellen übertragen.
+<sup>1</sup> Das Departement für Infrastruktur, Energie und Mobilität ist zuständig für die Durchführung der Schallschutzmassnahmen an bestehenden Gebäuden im Zusammenhang mit der Lärmsanierung von Eisenbahnen. Es kann diese Befugnisse ganz oder teilweise seinen Dienststellen übertragen.
 
 #### Art. 12
 
@@ -204,7 +203,7 @@ von der Regierung erlassen am 13. August 2002
 
 **Getränkeverpackungen**
 
-<sup>1</sup> Das Amt für Lebensmittelsicherheit und Tiergesundheit vollzieht die Artikel 4 - 6 der Verordnung über Getränkeverpackungen.
+<sup>1</sup> Das Veterinär- und Lebensmittelamt vollzieht die Artikel 4 - 6 der Verordnung über Getränkeverpackungen.
 
 #### Art. 18
 
@@ -255,6 +254,54 @@ von der Regierung erlassen am 13. August 2002
 #### Art. 23
 
 **…**
+
+#### Art. 23a
+
+**Künstliche Kugelfangsysteme auf Schiessanlagen 1. Grundsätze**
+
+<sup>1</sup> Schiessanlagen für das Schiessen auf 300 m, 50 m und 25 m sowie Jagdschiessanlagen mit ortsfesten Zielen müssen mit homologierten Kugelfangsystemen nach dem Stand der Technik betrieben werden. Der Stand der Technik richtet sich nach den Vorgaben des Bundes für künstliche Kugelfangsysteme von 300-m-, 50-m- und 25-m-Schiessständen[^23a-1].
+
+<sup>2</sup> Zwischenräume zwischen den einzelnen Kugelfangkästen sind durch Stahlplatten mit einer Polyethylen-Verkleidung zu schliessen. An den äussersten Kugelfangkästen ist eine weitere Stahlplatte mit Polyethylen-Verkleidung von 1 m Breite anzubringen.
+
+<sup>3</sup> Kleinkaliberanlagen müssen mit geschlossenen, emissionsfreien Kugelfangsystemen betrieben werden.
+
+<sup>4</sup> Keileranlagen müssen mit homologierten Kugelfangsystemen betrieben werden.
+
+<sup>5</sup> Kipphasenanlagen müssen mit speziellen Kugelfangsystemen betrieben werden. Der Vorkugelfangbereich muss mit einer undurchlässigen Befestigung von mindestens 2 m Breite ausgestattet werden. Die Anlagen müssen überdacht sein und mit einer Rückwand gebaut werden.
+
+<sup>6</sup> Rollhasen- und Wurftaubenanlagen dürfen nur mit schadstofffreien Geschossen und Zielobjekten betrieben werden.
+
+[^23a-1]: Schweizer Armee, Reglement 51.065, Technische Belange der Schiessanlagen für das Schiesswesen ausser Dienst (Weisungen für Schiessanlagen)
+
+#### Art. 23b
+
+**2. Wartung und Unterhalt**
+
+<sup>1</sup> Die Betreiber der Schiessanlagen sind für Wartung und Unterhalt der künstlichen Kugelfangsysteme verantwortlich. Sie stellen sicher, dass die Arbeiten fach- und umweltgerecht vorgenommen werden. Dabei sind die Vorgaben der Hersteller zu beachten.
+
+<sup>2</sup> Auf den nicht überdachten Flächen von Kipphasenanlagen, insbesondere auf der befestigten Fläche im Vorkugelfangbereich, ist der Schrot nach jeder Schiessübung zu sammeln, in einem geschlossenen Behälter zwischenzulagern und gesetzeskonform zu entsorgen. Auch die Plastikpfropfen der Schrotpatronen sind regelmässig zu sammeln und gesetzeskonform zu entsorgen.
+
+<sup>3</sup> Bei Rollhasen- und Wurftaubenanlagen sind die Tontaubensplitter und Plastikpfropfen der Schrotpatronen regelmässig, mindestens aber einmal pro Jahr, zu sammeln und gesetzeskonform zu entsorgen.
+
+<sup>4</sup> Die Betreiber von Kipphasen-, Rollhasen- und Wurftaubenanlagen müssen der Fachstelle bis zum 31. Dezember 2020 ein Betriebsreglement unterbreiten und dieses von der Fachstelle genehmigen lassen.
+
+#### Art. 23c
+
+**3. Koordinationspflicht mit der Altlastensanierung**
+
+<sup>1</sup> Vor der Installation von künstlichen Kugelfangsystemen muss frühzeitig mit der Fachstelle abgeklärt werden, ob der Standort altlastenrechtlich sanierungsbedürftig ist[^23c-1]. Diesfalls ist sicherzustellen, dass der Standort gleichzeitig mit der Installation saniert wird oder dass eine spätere Altlastensanierung durch das Bauvorhaben nicht wesentlich erschwert wird[^23c-2]. Das Bauvorhaben bedarf der Zustimmung der Fachstelle[^23c-3].
+
+[^23c-1]: Art. 8 ff. SR [814.680](https://db.clex.ch/link/Bund/814.680/de)
+[^23c-2]: Art. 3 SR [814.680](https://db.clex.ch/link/Bund/814.680/de)
+[^23c-3]: Art. 48 BR [820.100](https://www.gr-lex.gr.ch/data/820.100/de)
+
+#### Art. 23d
+
+**4. Meldepflicht**
+
+<sup>1</sup> Die Gemeinden melden der Fachstelle allfällige gesperrte Schiessanlagen[^23d-1].
+
+[^23d-1]: Art. 59b BR [820.100](https://www.gr-lex.gr.ch/data/820.100/de)
 
 ## 5. Kantonsbeiträge
 
@@ -389,7 +436,7 @@ von der Regierung erlassen am 13. August 2002
 
 **Anzeigepflicht**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Fachstelle haben alle Verstösse gegen die Umweltschutz- und die Gewässerschutzgesetzgebung, von welchen sie bei ihrer amtlichen Tätigkeit Kenntnis erhalten, dem Amt für Natur und Umwelt zu melden. Die strafbaren Verstösse sind bei der Kantonspolizei anzuzeigen.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Fachstelle haben alle Verstösse gegen die Umweltschutz- und die Gewässerschutzgesetzgebung, von welchen sie bei ihrer amtlichen Tätigkeit Kenntnis erhalten, dem Amt für Umwelt zu melden. Die strafbaren Verstösse sind bei der Kantonspolizei anzuzeigen.
 
 ## 8. Schlussbestimmungen
 
@@ -411,6 +458,23 @@ von der Regierung erlassen am 13. August 2002
 
 <sup>1</sup> Die Abwicklung der noch offenen Kantonsbeiträge im Sinne von Artikel 23 des Finanzausgleichsgesetzes (FAG) richtet sich nach dem bisherigen Recht.
 
+#### Art. 39b
+
+**4. Künstliche Kugelfangsysteme auf Schiessanlagen**
+
+<sup>1</sup> Die mit Holzstapeln oder anderen Materialien ausgestatteten Zwischenräume bei bereits bestehenden künstlichen Kugelfangsystemen haben den Vorgaben gemäss Artikel 23a Absatz 2 zu entsprechen:
+
+- a) nach erfolgter Altlastensanierung vor der Wiederaufnahme des Schiessbetriebs;
+- b) bei wesentlichen Unterhalts- oder Reparaturarbeiten an den künstlichen Kugelfangsystemen wie vollständigem oder teilweisem Ersatz der künstlichen Kugelfangsysteme, örtlichen Verschiebungen der künstlichen Kugelfangsysteme oder Auswechseln des Granulats;
+- c) bei Verrottung der Holzstapel oder anderen Einschränkungen der Funktionsfähigkeit der Zwischenräume;
+- d) bei vollständig offenen Zwischenräumen oder Zwischenräumen, bei denen die geschlossene Fläche weniger als 90 Prozent der Gesamtfläche beträgt.
+
+<sup>2</sup> Bereits bestehende künstliche Kugelfangsysteme mit Holzstapeln oder anderen, ähnlichen Materialien in den Zwischenräumen, welche sich auf altlastenrechtlich sanierten Anlagen befinden, sind spätestens bis zum 31. Dezember 2024 zu ersetzen.
+
+<sup>3</sup> Bei Jagdschiessanlagen, welche bereits mit künstlichen Kugelfangsystemen ausgerüstet sind, beträgt die Mindestbreite der randlichen Stahlplatten nach Artikel 23a Absatz 2 50 cm.
+
+<sup>4</sup> Kipphasenanlagen, welche bereits mit einem speziellen Kugelfangsystem ausgerüstet sind, dürfen längstens bis zum 31. Dezember 2030 ohne Überdachung und Rückwand weiterbetrieben werden.
+
 #### Art. 40
 
 **In-Kraft-Treten**
@@ -419,5 +483,82 @@ von der Regierung erlassen am 13. August 2002
 
 [^40-1]: BR [820.100](https://www.gr-lex.gr.ch/data/820.100/de)
 [^40-2]: Mit RB vom 13. August 2002 auf den 1. September 2002 in Kraft gesetzt.
+
+## A1 Anhang 1: Gewerbe- und Industrieanlagen (Art. 4 Abs. 1 lit. f)
+
+#### Art. A1-1
+
+<sup>1</sup> Die nachfolgende Aufzählung ist nicht abschliessend. Weitere Anlagen, von denen Emissionen in ähnlicher Art und ähnlichem Umfang zu erwarten sind, bedürfen ebenfalls der Zustimmung der Fachstelle und sind dieser ebenfalls zu melden:
+
+- a) Nahrungsmittelindustrie:
+  - 1\. Fleischräucherei
+  - 2\. Kaffeerösterei
+- b) Landwirtschaft:
+  - 1\. Grastrocknerei
+- c) Textilindustrie:
+  - 1\. Färberei
+  - 2\. Gerberei
+- d) Holzverarbeitung:
+  - 1\. Sägewerk
+  - 2\. Hobelwerk
+  - 3\. Schreinerei
+  - 4\. Beiz- und Polierwerkstätte
+- e) Kunststoffverarbeitung:
+  - 1\. Pulverbeschichtungswerk
+  - 2\. Spritzgusswerk
+  - 3\. Anlage zur Herstellung von Kunststoffen oder Gummiwaren
+- f) Abbau und Verarbeitung von Steinen und Erden:
+  - 1\. Steinbruch
+  - 2\. Kieswerk
+  - 3\. Zement-, Kalk-, Gipswerk
+  - 4\. Asphaltmischanlage
+  - 5\. Ziegelei
+  - 6\. Anlage zur Materialaufbereitung
+- g) Metallindustrie:
+  - 1\. Schmiede
+  - 2\. Verzinkerei
+  - 3\. Galvanikbetrieb
+  - 4\. Schlosserei
+  - 5\. Giesserei
+  - 6\. Sandstrahlanlage
+- h) Baugewerbe:
+  - 1\. Bauunternehmen mit Gerätepark
+  - 2\. Malerbetrieb
+  - 3\. Ablaugerei
+  - 4\. Grössere Baustellen
+- i) Energie:
+  - 1\. Anlagen zur Herstellung von Biogas, Klärgas und dgl.
+  - 2\. Anlagen zur energetische Nutzung von Biogas, Klärgas und dgl.
+- j) Abfallentsorgung:
+  - 1\. Abfallverbrennungsanlage
+- k) Handel:
+  - 1\. Anlagen zum Handel mit Heizöl, Diesel, Benzin oder Flüssiggas
+  - 2\. Tankstelle
+  - 3\. Anlagen für den Umschlag staubende Güter
+- l) Dienstleistungen:
+  - 1\. Pizzaofen
+  - 2\. Spritzwerke
+  - 3\. Reparaturwerkstätte für Autos
+  - 4\. Reparaturwerkstätte für andere Fahrzeuge oder Maschinen
+  - 5\. Textilreinigung
+  - 6\. Tankreinigung
+  - 7\. Krematorium
+  - 8\. Spital
+
+## A2 Anhang 2: Tierhaltungsanlagen (Art. 4 Abs. 1 lit. g)
+
+#### Art. A2-1
+
+**Innerhalb von Bauzonen**
+
+<sup>1</sup> Als Tierhaltungsanlagen, die erhebliche Luftverunreinigungen verursachen, gelten Anlagen zur Tierhaltung mit einer Kapazität für so viele Tiere, dass diese insgesamt eine Geruchsbelastung (GB) von mehr als 4 verursachen.
+
+#### Art. A2-2
+
+**Ausserhalb von Bauzonen**
+
+<sup>1</sup> Als Tierhaltungsanlagen, die erhebliche Luftverunreinigungen verursachen, gelten Anlagen zur Tierhaltung mit einer Kapazität für so viele Tiere, dass diese insgesamt eine Geruchsbelastung (GB) von mehr als 6 verursachen.
+
+<sup>2</sup> DDie Geruchsbelastung (GB) wird gemäss den geltenden Empfehlungen über Mindestabstände von Tierhaltungsbetrieben der Eidgenössischen Forschungsanstalt für Agrarwirtschaft und Landtechnik, Tänikon, aufgrund der Anzahl Tiere und der Geruchsbelastungsfaktoren für die verschiedenen Tierarten ermittelt.
 
 -

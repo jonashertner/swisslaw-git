@@ -4,13 +4,12 @@ number: "820.110"
 title: "Ordinaziun chantunala davart la protecziun da l'ambient"
 short: OCPAmb
 language: rm
-version: 2016-01-01
-corrected: 2020-04-01
-version_adopted: 2015-06-30
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2002-08-13
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2584/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3862/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2584/pdf_file"
 
 (OCPAmb)
 
-dals 13-08-2002 (versiun dals 01-01-2016)
+dals 13-08-2002 (versiun dals 01-01-2025)
 
 sa basond sin l'art. 57 da la lescha introductiva tar la lescha federala davart la protecziun da l'ambient (lescha chantunala davart la protecziun da l'ambient; LCPAmb) dals 2 da december 2001[^ingress-1]
 
@@ -33,9 +32,9 @@ relaschada da la regenza ils 13 d'avust 2002
 
 **Cumpetenza**
 
-<sup>1</sup> Il departament cumpetent per la protecziun da l'ambient è il departament d'educaziun, cultura e protecziun da l'ambient.
+<sup>1</sup> Il departament cumpetent per la protecziun da l'ambient è il Departament da furmaziun, ambient e cultura.
 
-<sup>2</sup> Il post spezialisà per la protecziun da l'ambient è l'uffizi per la natira e l'ambient.
+<sup>2</sup> Il post spezialisà per la protecziun da l'ambient è l'Uffizi d'ambient.
 
 #### Art. 2
 
@@ -45,7 +44,7 @@ relaschada da la regenza ils 13 d'avust 2002
 
 <sup>2</sup> La regenza, il departament ed il post spezialisà pon stipular contracts da cooperaziun cun interpresas u cun federaziuns interprofessiunalas.
 
-<sup>3</sup> Per cuntraversas da tals contracts po vegnir nominada la dretgira administrativa chantunala sco dretgira da cumpromiss.
+<sup>3</sup> Per cuntraversas da tals contracts po vegnir nominada la Dretgira superiura sco dretgira da cumpromiss.
 
 #### Art. 3
 
@@ -136,7 +135,7 @@ relaschada da la regenza ils 13 d'avust 2002
 
 **2. viafiers**
 
-<sup>1</sup> Il departament da construcziun, traffic e selvicultura è cumpetent per la realisaziun da las mesiras d'isolaziun cunter canera vi dals edifizis existents en connex cun la correcziun acustica da viafiers. El po surdar questas cumpetenzas totalmain u parzialmain a ses posts da servetsch.
+<sup>1</sup> Il Departament d'infrastructura, energia e mobilitad è cumpetent per la realisaziun da las mesiras d'isolaziun cunter canera vi dals edifizis existents en connex cun la correcziun acustica da viafiers. El po surdar questas cumpetenzas totalmain u parzialmain a ses posts da servetsch.
 
 #### Art. 12
 
@@ -204,7 +203,7 @@ relaschada da la regenza ils 13 d'avust 2002
 
 **Emballadis da bavrondas**
 
-<sup>1</sup> L'uffizi per la segirezza da victualias e per la sanadad d'animals exequescha ils artitgels 4 fin 6 da l'ordinaziun davart ils emballadis per bavrondas.
+<sup>1</sup> L'Uffizi da veterinari e victualias exequescha ils artitgels 4 fin 6 da l'Ordinaziun davart ils emballadis per bavrondas.
 
 #### Art. 18
 
@@ -255,6 +254,54 @@ relaschada da la regenza ils 13 d'avust 2002
 #### Art. 23
 
 **…**
+
+#### Art. 23a
+
+**Sistems da tschiffaballas artifizials sin implants da tir 1. princips**
+
+<sup>1</sup> Implants da tir da 300 m, da 50 m e da 25 m sco er implants da tir da chatscha cun nodas fixas ston vegnir equipads cun sistems da tschiffaballas omologisads tenor il stadi da la tecnica. Il stadi da la tecnica sa drizza tenor las prescripziuns da la Confederaziun per sistems da tschiffaballas artifizials d'implants da tir da 300 m, da 50 m e da 25 m[^23a-1].
+
+<sup>2</sup> Las largias tranter las singulas chaschas da tschiffaballas ston vegnir serradas cun plattas d'atschal ch'èn surtratgas cun ina vetta da polietilen. Vi da las chaschas da tschiffaballas orasum sto vegnir fixada in'ulteriura platta d'atschal surtratga cun ina vetta da polietilen d'ina ladezza dad 1 m.
+
+<sup>3</sup> Implants da tir a caliber pitschen ston vegnir equipads cun sistems da tschiffaballas serrads e senza emissiuns.
+
+<sup>4</sup> Ils indrizs cun portg selvadi ston vegnir equipads cun sistems da tschiffaballas omologisads.
+
+<sup>5</sup> Ils indrizs cun lieurs che cupitgan ston vegnir equipads cun sistems da tschiffaballas spezials. Davant il tschiffaballas stoi vegnir installà in sectur rinforzà impermeabel d'almain 2 m ladezza. Ils indrizs ston avair in tetg ed ina paraid davos.
+
+<sup>6</sup> Ils indrizs cun lieurs che rodlan ed ils implants da tir sin columbas d'arschiglia dastgan vegnir duvrads mo cun projectils e cun objects en mira senza substanzas nuschaivlas.
+
+[^23a-1]: Armada svizra, Reglament 51.065, Aspects tecnics dals implants da tir per ils fatgs da tir ordaifer il servetsch (directivas per implants da tir)
+
+#### Art. 23b
+
+**2. reparatura e mantegniment**
+
+<sup>1</sup> Ils gestiunaris dals implants da tir èn responsabels per la reparatura ed il mantegniment dals sistems da tschiffaballas artifizials. Els garanteschan che las lavurs vegnian fatgas en moda professiunala ed ecologica. Per quest intent ston vegnir observadas las prescripziuns dals producents.
+
+<sup>2</sup> Sin las surfatschas senza tetg dals indrizs cun lieurs che cupitgan, en spezial en il sectur rinforzà davant il tschiffaballas, ston ils ballins vegnir rimnads suenter mintga exercizi da tir, depositads en in recipient serrà e dismess confurm a la lescha. Er ils stapuns da plastic da las patronas cun ballins ston vegnir rimnads e dismess regularmain confurm a la lescha.
+
+<sup>3</sup> Sin indrizs da lieurs che rodlan e sin implants da tir sin columbas d'arschiglia ston las stgaglias da las columbas d'arschiglia ed ils stapuns da plastic da las patronas cun ballins vegnir rimnads regularmain, almain ina giada per onn, e dismess confurm a la lescha.
+
+<sup>4</sup> Ils gestiunaris d'indrizs da lieurs che cupitgan, d'indrizs da lieurs che rodlan e d'implants da tir sin columbas d'arschiglia ston suttametter al post spezialisà fin ils 31 da december 2020 in reglament da gestiun e laschar approvar quel dal post spezialisà.
+
+#### Art. 23c
+
+**3. obligaziun da coordinaziun cun la sanaziun dals lieus contaminads**
+
+<sup>1</sup> Avant che installar sistems da tschiffaballas artifizials stoi vegnir sclerì a temp cun il post spezialisà, sch'il lieu sto vegnir sanà tenor il dretg davart la sanaziun dals lieus contaminads[^23c-1]. Sche quai è il cas, stoi vegnir garantì ch'il lieu vegnia sanà durant l'installaziun u ch'ina sanaziun futura na vegnia betg difficultada considerablamain tras il project da construcziun[^23c-2]. Il project da construcziun sto avair il consentiment dal post spezialisà[^23c-3].
+
+[^23c-1]: art. 8 ss. CS [814.680](https://db.clex.ch/link/Bund/814.680/rm)
+[^23c-2]: art. 3 CS [814.680](https://db.clex.ch/link/Bund/814.680/rm)
+[^23c-3]: art. 48 DG [820.100](https://www.gr-lex.gr.ch/data/820.100/rm)
+
+#### Art. 23d
+
+**4. obligaziun d'annunzia**
+
+<sup>1</sup> Las vischnancas annunzian al post spezialisà eventuals implants da tir bloccads[^23d-1].
+
+[^23d-1]: art. 59b DG [820.100](https://www.gr-lex.gr.ch/data/820.100/rm)
 
 ## 5. Contribuziuns chantunalas
 
@@ -389,7 +436,7 @@ relaschada da la regenza ils 13 d'avust 2002
 
 **Obligaziun d'annunzia**
 
-<sup>1</sup> Las collavuraturas ed ils collavuraturs dal post spezialisà ston annunziar a l'uffizi per la natira e l'ambient tut las cuntravenziuns cunter la legislaziun davart la protecziun da l'ambient e davart la protecziun da las auas, da las qualas ellas u els vegnan a savair tar lur activitad uffiziala. Las cuntravenziuns chastiablas ston vegnir annunziadas a la polizia chantunala.
+<sup>1</sup> Las collavuraturas ed ils collavuraturs dal post spezialisà ston annunziar a l'Uffizi d'ambient tut las cuntravenziuns cunter la legislaziun davart la protecziun da l'ambient e davart la protecziun da las auas, da las qualas ellas u els vegnan a savair tar lur activitad uffiziala. Las cuntravenziuns chastiablas ston vegnir annunziadas a la Polizia chantunala.
 
 ## 8. Disposiziuns finalas
 
@@ -411,6 +458,23 @@ relaschada da la regenza ils 13 d'avust 2002
 
 <sup>1</sup> Las contribuziuns chantunalas anc avertas en il senn da l'artitgel 23 da la lescha davart la gulivaziun da finanzas (LGF) vegnan regladas tenor il dretg vegl.
 
+#### Art. 39b
+
+**4. sistems da tschiffaballas artifizials sin implants da tir**
+
+<sup>1</sup> Las largias ch'èn equipadas cun mantuns da laina u d'autras materialias tar sistems da tschiffaballas artifizials gia existents ston correspunder a las prescripziuns tenor l'artitgel 23a alinea 2:
+
+- a) suenter la realisaziun da la sanaziun dals lieus contaminads avant la reavertura dal manaschi da tir;
+- b) en cas da lavurs essenzialas da reparatura u da mantegniment vi dals sistems da tschiffaballas artifizials sco per exempel remplazzar cumplettamain u per part ils sistems da tschiffaballas artifizials, dischlocar ils sistems da tschiffaballas artifizials u remplazzar il granulat;
+- c) sch'ils mantuns da laina èn daventads marschs u sche la funcziunalitad da las largias vegn restrenschida autramain;
+- d) en cas da largias dal tuttafatg avertas u da largias, nua che la surfatscha serrada importa main che 90 pertschient da la surfatscha totala.
+
+<sup>2</sup> Sistems da tschiffaballas artifizials gia existents cun mantuns da laina u d'autras materialias sumegliantas en las largias, che sa chattan sin implants ch'èn vegnids sanads tenor il dretg davart la sanaziun dals lieus contaminads, ston vegnir remplazzads fin il pli tard ils 31 da december 2024.
+
+<sup>3</sup> Sin implants da tir da chatscha ch'èn gia equipads cun sistems da tschiffaballas artifizials, importa la ladezza minimala da las plattas d'atschal a l'ur tenor l'artitgel 23a alinea 2 50 cm.
+
+<sup>4</sup> Ils indrizs cun lieurs che cupitgan ch'èn gia equipads cun in sistem da tschiffaballas spezial dastgan vegnir duvrads fin maximalmain ils 31 da december 2030 senza tetg e senza paraid davos.
+
 #### Art. 40
 
 **Entrada en vigur**
@@ -419,5 +483,82 @@ relaschada da la regenza ils 13 d'avust 2002
 
 [^40-1]: mess en vigur cun CR dals 13 d'avust 2002 per il 1. da settember 2002
 [^40-2]: DG [820.100](https://www.gr-lex.gr.ch/data/820.100/rm)
+
+## A1 Agiunta 1: Stabiliments da mastergn e d'industria (art. 4 al. 1 lit. f)
+
+#### Art. A1-1
+
+<sup>1</sup> La suandanta enumeraziun n'è betg definitiva. Ulteriurs stabiliments, dals quals ins sto spetgar emissiuns d'ina sumeglianta sort e d'ina sumeglianta dimensiun, dovran er il consentiment dal post spezialisà e ston er vegnir annunziads a quel:
+
+- a) industria d'aliments:
+  - 1\. stanza da fimentar charn
+  - 2\. brassaria da café
+- b) agricultura:
+  - 1\. stanza per setgar
+- c) industria da textilias:
+  - 1\. tenscharia
+  - 2\. gerbaria
+- d) elavuraziun da laina:
+  - 1\. resgia
+  - 2\. ufficina da splanar
+  - 3\. scrinaria
+  - 4\. ufficinas d'empizzida e da polier
+- e) elavuraziun da materia artifiziala:
+  - 1\. ufficina da surtratgas da pulvra
+  - 2\. ufficinas d'injecziuns da plastic
+  - 3\. stabiliment per producir materia artifiziala u rauba da gumma
+- f) demontascha ed elavuraziun da crappa e da terras:
+  - 1\. chava da crappa
+  - 2\. implant da gera
+  - 3\. implant da cement, da chaltschina e da gip
+  - 4\. stabiliment per maschadar asfalt
+  - 5\. fabrica da quadrels
+  - 6\. stabiliment per elavurar material
+- g) industria da metal:
+  - 1\. fuschina
+  - 2\. ufficina per zincar
+  - 3\. manaschi da galvanisar
+  - 4\. serraria
+  - 5\. cularia
+  - 6\. stabiliment da sablunar
+- h) industria da construcziun:
+  - 1\. interpresa da construcziun cun parc da guaffens
+  - 2\. manaschi da pictura
+  - 3\. ufficina da bugadar
+  - 4\. plazzas da construcziun pli grondas
+- i) energia:
+  - 1\. stabiliments per producir biogas, gas da serenera e raubas sumegliantas
+  - 2\. stabiliments per l'utilisaziun energetica da biogas, da gas da serenera e raubas sumegliantas
+- j) dismessa da rument:
+  - 1\. stabiliment per arder ruments
+- k) commerzi:
+  - 1\. stabiliments per il commerzi cun ieli da stgaudar, cun diesel, cun benzin u cun gas liquid
+  - 2\. tancadi
+  - 3\. stabiliments per transtgargiar rauba che fa pulvra
+- l) servetschs:
+  - 1\. furn da pizza
+  - 2\. indrizs da sprizzar
+  - 3\. ufficinas da reparar autos
+  - 4\. ufficinas da reparar auters vehichels u maschinas
+  - 5\. lavandaria da textilias
+  - 6\. nettegiament da tancs
+  - 7\. crematori
+  - 8\. ospital
+
+## A2 Agiunta 2: Stabiliments per la tratga d'animals (art. 4 al. 1 lit. g)
+
+#### Art. A2-1
+
+**Entaifer las zonas da construcziun**
+
+<sup>1</sup> Sco stabiliments per la tratga d'animals che chaschunan impestaziuns considerablas da l'aria valan stabiliments per la tratga d'animals cun ina capacitad per uschè blers animals che quels chaschunan ensemen ina immissiun d'odurs (IO) da dapli che 4.
+
+#### Art. A2-2
+
+**Ordaifer las zonas da construcziun**
+
+<sup>1</sup> Sco stabiliments per la tratga d'animals che chaschunan impestaziuns considerablas da l'aria valan stabiliments per la tratga d'animals cun ina capacitad per uschè blers animals che quels chaschunan ensemen ina immissiun d'odurs (IO) da dapli che 6.
+
+<sup>2</sup> L'immissiun d'odurs (IO) vegn eruida tenor las recumandaziuns vertentas davart distanzas minimalas da manaschis per la tratga d'animals da l'institut federal da perscrutaziun per agricultura e tecnica agrara, Tänikon, sin basa da la quantitad d'animals e sin basa dals facturs da l'immissiun d'odurs per differentas spezias d'animals.
 
 -
