@@ -2,277 +2,256 @@
 canton: NW
 number: "141.1"
 title: Gesetz über die amtlichen Veröffentlichungen
-short: Publikationsgesetz
+short: "Publikationsgesetz, PuG"
 language: de
-version: 2000-10-01
-corrected: 2021-10-07
-version_adopted: 2000-04-19
+version: 2025-01-01
+version_adopted: 2023-08-30
 adopted: 2023-08-30
 in_force: 2025-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/141.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/22/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1322/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die amtlichen Veröffentlichungen (Publikationsgesetz)
+# Gesetz über die amtlichen Veröffentlichungen
 
-vom 19. April 2000[^t-1]
+(Publikationsgesetz, PuG)
 
-Der Landrat von Nidwalden,
+vom 30.08.2023 (Stand 01.01.2025)
 
-gestützt auf Art. 60 der Kantonsverfassung,
-
-beschliesst:
-
-[^t-1]: A 2000, 681, 1250
-
-### I. AMTLICHE PUBLIKATIONSORGANE
-
-### A. Amtsblatt
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Grundsatz**
+**Gegenstand**
 
-Das «Amtsblatt des Kantons Nidwalden» (Amtsblatt) ist das ordentliche Publikationsorgan für die amtlichen Veröffentlichungen aller öffentlichrechtlichen Körperschaften im Kanton.
+<sup>1</sup> Dieses Gesetz regelt die amtlichen Veröffentlichungen (Publikationen) und die amtlichen Publikationsorgane.
+
+<sup>2</sup> Als Publikationen gelten:
+
+- 1\. amtliche Veröffentlichungen, welche die Gesetzgebung vorschreibt;
+- 2\. Veröffentlichungen des kantonalen Rechts in der Chronologischen und in der Systematischen Gesetzessammlung.
 
 #### Art. 2
 
-**Inhalt**
+**Geltungsbereich**
 
-- 1\. Publikationen öffentlichrechtlicher Körperschaften Im Amtsblatt sind zu veröffentlichen:
-
-- 1\. die Kantonsverfassung, die kantonalen Gesetze, Verordnungen, Reglemente und übrigen Erlasse, die rechtsetzende allgemeinverbindliche Bestimmungen enthalten;
-
-- 2\. interkantonale Verträge mit rechtsetzendem Inhalt;
-
-- 3\. weitere Erlasse, soweit der Regierungsrat deren Veröffentlichung anordnet;
-
-- 4\. Beschlüsse, Entscheide, Berichte, Kreisschreiben und Bekanntmachungen des Landrates, des Regierungsrates und seiner Direktionen, der Gerichte sowie von kantonalen Kommissionen, soweit die betreffende Behörde die Veröffentlichung im Amtsblatt beschliesst;
-
-**1**
-
-1.3.2001 - 31 5. Bekanntmachungen kantonaler Amtsstellen;
-
-- 6\. Erlasse, Beschlüsse und Kreisschreiben eidgenössischer Behörden, soweit der Regierungsrat deren Veröffentlichung anordnet;
-
-- 7\. amtliche Bekanntmachungen öffentlichrechtlicher Körperschaften;
-
-- 8\. aufgrund der Gesetzgebung vorgeschriebene Veröffentlichungen.
+<sup>1</sup> Dieses Gesetz gilt für öffentlich-rechtliche Körperschaften und Anstalten sowie für Organisationen, die öffentliche Aufgaben wahrnehmen.
 
 #### Art. 3
 
-**2. weitere Publikationen**
+**Amtliche Publikationsorgane**
 
-<sup>1</sup> Der Regierungsrat kann weitere Publikationen insbesondere Inserate von öffentlichrechtlichen Körperschaften und Privaten ermöglichen.
+<sup>1</sup> Die amtlichen Publikationsorgane sind:
 
-<sup>2</sup> Inserate mit rechts- oder sittenwidrigen Inhalten werden nicht ins Amtsblatt aufgenommen. In Zweifelsfällen entscheidet die Staatskanzlei endgültig.
-
-### B. Gesetzessammlung
+- 1\. das Amtsblatt (A);
+- 2\. die Chronologische Gesetzessammlung (CNG);
+- 3\. die Systematische Gesetzessammlung (NG).
 
 #### Art. 4
 
-**Grundsatz**
+**Publikationsform**
 
-<sup>1</sup> Die «Nidwaldner Gesetzessammlung» (Gesetzessammlung) ist eine nach Sachgebieten geordnete Loseblattsammlung des an einem bestimmten Stichtag geltenden kantonalen Rechts.
+<sup>1</sup> Die Publikationen nach diesem Gesetz erfolgen über öffentlich zugängliche Online-Plattformen, deren Betrieb der Kanton sicherstellt.
 
-<sup>2</sup> Erlasse mit einer Geltungsdauer bis zu sechs Monaten werden nicht aufgenommen.
-
-<sup>3</sup> Die Gesetzessammlung wird regelmässig auf bestimmte Stichtage nachgeführt.
+<sup>2</sup> Die Unveränderbarkeit der rechtsgültigen Publikationen ist durch geeignete Massnahmen sicherzustellen.
 
 #### Art. 5
 
-**Inhalt**
+**Verantwortlichkeit**
 
-<sup>1</sup> In der Gesetzessammlung werden alle rechtsetzenden allgemeinverbindlichen Erlasse veröffentlicht, welche Personen Pflichten auferlegen oder Rechte einräumen oder die Organisation, die Zuständigkeit und die Aufgaben der Behörden oder das Verfahren regeln.
+<sup>1</sup> Die Publikationspflichtigen sind für ihre Publikationen im Amtsblatt verantwortlich.
 
-<sup>2</sup> Der Regierungsrat kann weitere Erlasse in die Gesetzessammlung aufnehmen.
-
-<sup>3</sup> Erlasse werden nur mit dem Titel und der Fundstelle aufgenommen, sofern sie durch Verweisung gemäss Art. 12 veröffentlicht wurden, oder ausnahmsweise wenn sie sich an einen klar umschriebenen, begrenzten Personenkreis wenden oder einer Totalrevision bedürfen.
-
-<sup>4</sup> Sind kantonale Erlasse infolge der Änderung von Bundesrecht als Ganzes nicht mehr anwendbar, ordnet der Regierungsrat deren Entfernung aus der Gesetzessammlung an. Der Beschluss ist im Amtsblatt zu veröffentlichen.
-
-### C. Gemeinsame Bestimmungen
+<sup>2</sup> Die Staatskanzlei ist für die Veröffentlichung der Gesetzessammlungen verantwortlich.
 
 #### Art. 6
 
-**Register**
+**Zugang, Bezug**
 
-<sup>1</sup> Über den Inhalt des Amtsblattes gemäss Artikel 2 wird jährlich ein Sachregister erstellt.
+<sup>1</sup> Der elektronische Zugang zu den amtlichen Publikationsorganen ist unentgeltlich.
 
-<sup>2</sup> Die Gesetzessammlung enthält ein alphabetisches und ein systematisches Register.
+<sup>2</sup> Die amtlichen Publikationsorgane können bei der Staatskanzlei elektronisch eingesehen werden.
 
-<sup>3</sup> Jeder einzelne Band der Gesetzessammlung enthält ein Register der Abkürzungen sowie ein systematisches Register des im betreffenden Band enthaltenen Rechtsstoffes.
+<sup>3</sup> Gegen Gebühr können bei der Staatskanzlei einzelne Erlasse aus der Chronologischen und der Systematischen Gesetzessammlung in gedruckter Form bezogen werden.
 
 #### Art. 7
 
-**Massgeblicher Text**
+**Ordentliche Publikation**
 
-Stimmt der Inhalt der Gesetzessammlung nicht mit der Veröffentlichung im Amtsblatt überein, gilt die Fassung des Amtsblattes.
+<sup>1</sup> Die ordentlichen Publikationen erfolgen in demjenigen amtlichen Publikationsorgan, welches dieses Gesetz vorschreibt.
+
+<sup>2</sup> Vorbehalten bleiben Publikationen in anderen Publikationsorganen gemäss der Spezialgesetzgebung.
 
 #### Art. 8
 
-**Preise für die Publikationen im Amtsblatt**
+**Ausserordentliche Publikation**
 
-Der Regierungsrat legt die Preise für die Publikationen der öffentlichrechtlichen Körperschaften und für die weiteren Publikationen im Amtsblatt fest.
+<sup>1</sup> In Notfällen, bei besonderer zeitlicher Dringlichkeit oder dergleichen kann eine Publikation in ausserordentlicher Weise erfolgen.
+
+<sup>2</sup> Die ausserordentliche Publikation erfolgt insbesondere durch:
+
+- 1\. die Presse;
+- 2\. das Radio oder das Fernsehen;
+- 3\. das Internet;
+- 4\. öffentliche Aushänge; oder
+- 5\. Zirkulare, Rundschreiben oder andere zweckmässige Mittel.
+
+<sup>3</sup> Die ordentliche Publikation ist sobald als möglich nachzuholen.
 
 #### Art. 9
 
-**Preis, Abgabe und Bezug**
+**Publikation durch Verweis 1. Voraussetzungen**
 
-Der Regierungsrat regelt die Einzelheiten über Preis, Abgabe und Bezug der amtlichen Publikationsorgane.
+<sup>1</sup> Publikationen können ausnahmsweise allein mit dem Titel und der Fundstelle oder Bezugsquelle erfolgen, wenn sie:
 
-### II. ARTEN UND ZEITPUNKT DER VERÖFFENTLICHUNG
+- 1\. technischer Natur sind und sich ausschliesslich an Fachleute wenden;
+- 2\. sich aus besonderen Gründen nicht für die Veröffentlichung in den amtlichen Publikationsorganen eignen; oder
+- 3\. durch den Bund oder eine interkantonale Organisation in schriftlicher oder elektronischer Form in einem in der Schweiz unentgeltlich zugänglichen offiziellen Publikationsorgan veröffentlicht werden.
 
 #### Art. 10
 
-**Ordentliche Publikation**
+**2. Einsichtnahme**
 
-Die ordentliche Publikation erfolgt im Amtsblatt.
+<sup>1</sup> Erfolgt die Publikation durch Verweis, haben die Publikationspflichtigen die Möglichkeit zur Einsichtnahme sicherzustellen.
+
+## 2 Amtsblatt
 
 #### Art. 11
 
-**Ausserordentliche Publikation**
+**Inhalt**
 
-<sup>1</sup> Eine Bekanntmachung erfolgt auf andere Weise, wenn:
+<sup>1</sup> Die rechtlich vorgeschriebenen Publikationen sind im Amtsblatt zu veröffentlichen, soweit sie nicht in der Chronologischen Gesetzessammlung erscheinen.
 
-**3**
+<sup>2</sup> Die Publikation von Referendumsvorlagen richtet sich nach Art. 20 des Wahl- und Abstimmungsgesetzes (WAG)[^11-1].
 
-1.3.2001 - 31 1. dies zur Sicherstellung der Wirkung unerlässlich ist;
+<sup>3</sup> Die öffentlich-rechtlichen Körperschaften und Anstalten sowie die Organisationen, die öffentliche Aufgaben wahrnehmen, können weitere Bekanntmachungen im Amtsblatt veröffentlichen.
 
-- 2\. die ordentliche Publikation vor dem Inkrafttreten wegen Dringlichkeit oder anderer ausserordentlicher Verhältnisse nicht möglich ist.
-
-<sup>2</sup> Die ordentliche Publikation im Amtsblatt ist sobald als möglich nachzuholen.
+[^11-1]: NG 132.2
 
 #### Art. 12
 
-**Veröffentlichung durch Verweisung**
+**Gedruckte Fassung**
 
-<sup>1</sup> Rechtsetzende Erlasse, Teile davon sowie Pläne, die sich wegen ihres besonderen Charakters nicht für die Veröffentlichung im Amtsblatt eignen, werden in diesem angezeigt und auf Verlangen abgegeben oder können eingesehen werden.
+<sup>1</sup> Das Amtsblatt kann beim Kanton gegen Gebühr zusätzlich als gedruckte Fassung bezogen werden.
 
-<sup>2</sup> Dies erfolgt insbesondere, wenn sie:
-
-- 1\. technischer Natur sind und sich nur an Fachleute wenden;
-
-- 2\. sich aus besonderen, namentlich drucktechnischen Gründen nicht für die Publikation in den amtlichen Publikationsorganen eignen.
+<sup>2</sup> Massgebend sind die auf der Online-Plattform veröffentlichten Publikationen.
 
 #### Art. 13
 
-**Veröffentlichung, Inkrafttreten**
+**Publikationszeitpunkt**
 
-<sup>1</sup> Die Veröffentlichung rechtsetzender Erlasse soll mindestens zehn Tage vor ihrem Inkrafttreten erfolgen.
+<sup>1</sup> Das Amtsblatt erscheint einmal wöchentlich.
 
-<sup>2</sup> Ist der Zeitpunkt des Inkrafttretens eines rechtsetzenden Erlasses nicht festgelegt, wird er vom Regierungsrat bestimmt; vorbehalten bleibt Art. 24 des Wahl- und Abstimmungsgesetzes[^13-1].
+<sup>2</sup> Der Regierungsrat legt den Publikationstag in einer Verordnung fest.
 
-[^13-1]: NG 132.2
+<sup>3</sup> Die Herausgabe der gedruckten Fassung darf nicht vor der Publikation auf der Online-Plattform erfolgen.
+
+<sup>4</sup> Die Staatskanzlei kann anordnen, dass für einzelne Wochen auf die Publikation verzichtet wird.
 
 #### Art. 14
 
-**Informatikunterstützte Informationssysteme**
+**Einsichtnahme 1. Grundsatz**
 
-Die amtlichen Publikationsorgane werden soweit als möglich zusätzlich auf informatikunterstützten Informationssystemen der Öffentlichkeit zugänglich gemacht.
+<sup>1</sup> Das Amtsblatt ist öffentlich einsehbar.
+
+<sup>2</sup> Die Staatskanzlei erschliesst das Amtsblatt mit einer Suchfunktion, die eine Suche insbesondere nach Rubrik, publizierenden Stellen und Stichworten einschliesslich Personendaten ermöglicht.
 
 #### Art. 15
 
-**Veröffentlichung durch Dritte**
+**2. Datenschutz a) Personendaten**
 
-<sup>1</sup> Der Regierungsrat kann Dritte mit der Herausgabe der amtlichen Publikationsorgane beauftragen.
-
-<sup>2</sup> Die mechanische oder elektronische Übernahme der amtlichen Publikationsorgane und deren Verwertung in unveränderter Form bedürfen der Bewilligung des Regierungsrates.
-
-### III. PUBLIKATIONSPFLICHT
+<sup>1</sup> Veröffentlichungen dürfen Personendaten enthalten, soweit dies gesetzlich vorgesehen ist.
 
 #### Art. 16
 
-**Rechtswirkungen**
+**b) Beschränkung der Einsichtnahme**
 
-<sup>1</sup> Rechtsetzende kantonale Erlasse verpflichten nur, wenn sie nach diesem Gesetz veröffentlicht worden sind.
+<sup>1</sup> Amtliche Publikationen im Amtsblatt sind während der Dauer der Publikation mit geeigneten Massnahmen gegen den automatisierten Bezug von Personendaten durch Dritte zu schützen.
 
-<sup>2</sup> Wird ein rechtsetzender Erlass durch Verweisung oder auf ausserordentlichem Weg bekanntgemacht, bleibt den Betroffenen der Nachweis offen, dass sie den Erlass nicht kannten und ihn trotz pflichtgemässer Sorgfalt nicht kennen konnten.
+<sup>2</sup> Der Regierungsrat legt in einer Verordnung für die einzelnen Publikationsinhalte mit Personendaten die Fristen fest, während denen die Suchfunktion der Öffentlichkeit zur Verfügung steht. Im Anschluss daran sind die Publikationen für die Öffentlichkeit nicht mehr zugänglich.
+
+<sup>3</sup> Die Publikationspflichtigen entscheiden über die Einsichtnahme in Publikationsinhalte, welche der Öffentlichkeit nicht mehr zur Verfügung stehen. Vorbehalten bleiben abweichende Regelungen in der Archivierungsgesetzgebung[^16-1].
+
+[^16-1]: NG 323.1
+
+## 3 Chronologische Gesetzessammlung
 
 #### Art. 17
 
-**Ausnahmen von der Publikationspflicht**
+**Inhalt**
 
-Rechtsetzende Erlasse, die im Interesse der Gesamtverteidigung geheim gehalten werden müssen, werden nicht veröffentlicht.
+<sup>1</sup> Die Chronologische Gesetzessammlung enthält in zeitlicher Abfolge die rechtsgültigen Erlasse des kantonalen Rechts.
+
+<sup>2</sup> Darin sind zu veröffentlichen:
+
+- 1\. die Kantonsverfassung;
+- 2\. die kantonalen Gesetze;
+- 3\. die rechtsetzenden Vereinbarungen sowie zugehörige Beitrittsbeschlüsse;
+- 4\. die kantonalen Verordnungen;
+- 5\. die Verfassung der Landeskirche, der evangelisch-reformierten Kirche sowie der weiteren öffentlich-rechtlich anerkannten Kirchen;
+- 6\. alle übrigen Bestimmungen rechtsetzender Natur.
+
+<sup>3</sup> Die Staatskanzlei veröffentlicht die Erlasse umgehend nach der Festlegung ihres Inkrafttretens in der Chronologischen Gesetzessammlung.
 
 #### Art. 18
 
-**Recht zur Einsichtnahme**
+**Rechtswirkung**
 
-<sup>1</sup> In den Gemeindekanzleien können eingesehen werden:
+<sup>1</sup> Rechtsetzende Bestimmungen sind grundsätzlich nur verpflichtend, wenn sie in der Chronologischen Sammlung veröffentlicht worden sind.
 
-- 1\. die Gesetzessammlung;
-
-- 2\. das Amtsblatt des laufenden und des vergangenen Jahres;
-
-- 3\. die kommunalen Erlasse.
-
-<sup>2</sup> In der Staatskanzlei kann jede Person:
-
-- 1\. die amtlichen Publikationsorgane einsehen, einschliesslich der Erlasse, die durch Verweisung gemäss Art. 12 veröffentlicht wurden;
-
-- 2\. die Amtliche und die Systematische Sammlung des Bundesrechts einsehen;
-
-- 3\. den vollständigen Text ausserordentlich bekanntgemachter Bundeserlasse, die in der Amtlichen Sammlung des Bundesrechts noch nicht veröffentlicht wurden, einsehen und beziehen.
-
-### IV. SCHLUSSBESTIMMUNGEN
+<sup>2</sup> Werden sie erst nach ihrem Inkrafttreten veröffentlicht, entstehen daraus nur Rechte und Pflichten ab dem Zeitpunkt des Inkrafttretens, soweit das rückwirkende Inkrafttreten ausdrücklich vorgesehen ist.
 
 #### Art. 19
 
-**Vollzug**
+**Massgebendes Recht**
 
-Der Regierungsrat erlässt die zum Vollzug erforderlichen Ausführungsbestimmungen.
+<sup>1</sup> Die Chronologische Gesetzessammlung ist massgebend, wenn ihr Inhalt nicht mit der Systematischen Gesetzessammlung übereinstimmt.
 
-**5**
-
-1.3.2001 - 31
+## 4 Systematische Gesetzessammlung
 
 #### Art. 20
 
-**Änderung bisherigen Rechts**
+**Inhalt**
 
-### 1. Einführungsverordnung zum Obligationenrecht
+<sup>1</sup> Die Systematische Gesetzessammlung ist die laufend nachgeführte, bereinigte und nach Sachgebieten geordnete Sammlung des kantonalen Rechts.
 
-§ 46 der Einführungsverordnung vom 3. Juli 1976 zum Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) (Einführungsverordnung zum Obligationenrecht)[^h1Einführungsverord-1] wird aufgehoben.
-
-[^h1Einführungsverord-1]: NG 221.1
+<sup>2</sup> Die Staatskanzlei veröffentlicht die rechtsetzenden Bestimmungen im Zeitpunkt des Inkrafttretens in der Systematischen Gesetzessammlung. Vorbehalten bleiben rückwirkende Inkraftsetzungen.
 
 #### Art. 21
 
-**2. Kantonale Jagdverordnung**
+**Berichtigungen**
 
-§ 21 Abs. 1 Ziff. 3 und § 30 der Vollziehungsverordnung vom 2. Dezember 1992 zum Einführungsgesetz zur Bundesgesetzgebung über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonale Jagdverordnung)[^21-1] werden aufgehoben.
+<sup>1</sup> Die Staatskanzlei berichtigt formlos in der Systematischen Gesetzessammlung inhaltlich bedeutungslose Fehler in Grammatik, Rechtschreibung, Darstellung oder dergleichen, die den Sinn einer Bestimmung weder ändern noch verfälschen.
 
-[^21-1]: NG 841.11
+<sup>2</sup> Sie passt offensichtlich falsche Angaben wie veraltete oder unzutreffende Bezeichnungen von Verwaltungseinheiten, Verweise, Fundstellen, Abkürzungen oder dergleichen an. Die Anpassungen sind zu kennzeichnen.
+
+## 5 Erlasse des Bundes
 
 #### Art. 22
 
-**Aufhebung bisherigen Rechts**
+**Einsichtnahme**
 
-Es werden aufgehoben:
+<sup>1</sup> Die Amtliche und die Systematische Sammlung des Bundesrechts sowie das Bundesblatt können bei der Staatskanzlei eingesehen werden.
 
-- 1\. die Verordnung vom 26. März 1977 über die amtlichen Bekanntmachungen (Publikationsverordnung)[^22-1];
-
-- 2\. die Verordnung vom 26. März 1977 über das Amtsblatt[^22-2];
-
-- 3\. der Landsgemeindebeschluss vom 30. April 1916 betreffend die Neuanlage des Gesetzbuches[^22-3];
-
-- 4\. die Verordnung vom 26. März 1977 über die Herausgabe einer bereinigten Sammlung der kantonalen Erlasse (Gesetzbuchverordnung)[^22-4].
-
-[^22-1]: A 1977, 420, 793
-[^22-2]: A 1977, 422, 793
-[^22-3]: A 1916, 236; Erwägungen: A 1916, 193
-[^22-4]: A 1977, 427, 793
+## 6 Vollzugs- und Übergangsbestimmungen
 
 #### Art. 23
 
-**Inkrafttreten**
+**Vollzug**
 
-<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum, ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug erforderlichen Bestimmungen in einer Verordnung.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.[^23-1]
+#### Art. 24
 
-[^23-1]: Datum des Inkrafttretens: 1. Oktober 2000
+**Übergangsbestimmung 1. massgebendes Recht**
+
+<sup>1</sup> Besteht für einen Teil der Systematischen Gesetzessammlung keine Grundlage in der Chronologischen Gesetzessammlung, ist die Fassung des Amtsblatts massgebend.
+
+#### Art. 25
+
+**2. Einsichtnahme in das Amtsblatt**
+
+<sup>1</sup> Amtsblätter, die vor dem Inkrafttreten dieses Gesetzes elektronisch zugänglich gemacht worden sind, können höchstens während zweier Jahre ab dem Datum des Erscheinens im Internet eingesehen werden.
+
+2024-041
