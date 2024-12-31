@@ -4,13 +4,12 @@ number: "412.211"
 title: Verordnung über die Organisation des Berufsbildungswesens
 short: BbO
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-05
+version: 2025-01-01
+version_adopted: 2024-10-22
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.211"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2728/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2834/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ BbO
 
 (BbO)
 
-vom 25.11.2014 (Stand 01.01.2024)
+vom 25.11.2014 (Stand 01.01.2025)
 
 ## 1. Kantonale Organisation
 
@@ -44,16 +43,25 @@ vom 25.11.2014 (Stand 01.01.2024)
 
 **Berufsbildungskommission**
 
-<sup>1</sup> Die Berufsbildungskommission setzt sich aus Vertretern und Vertreterinnen von Ausbildungsbetrieben, Schulen und Prüfungskommissionen, welche zusammen sämtliche Ausbildungssektoren abdecken, zusammen. Mindestens 80 % der Mitglieder haben in ihrem Verantwortungsbereich Lernende.
+<sup>1</sup> Die Berufsbildungskommission setzt sich aus neun bis elf Mitgliedern zusammen, die unter anderem folgende Bereiche und Organisationen vertreten:
 
-<sup>2</sup> Sie unterstützt das Departement in seinen strategischen Prozessen bezüglich dualer Berufsbildung als Kombination von Bildung in beruflicher Praxis und von allgemeiner und berufskundlicher schulischer Bildung. Sie kann Anträge an das Departement stellen.
+- 1\. Ausbildungsbetriebe
+- 2\. Sekundarstufe I
+- 3\. Berufsfachschule
+- 4\. höhere Berufsbildung
+- 5\. Prüfungskommission Thurgau
+- 6\. Industrie- und Handelskammer Thurgau
+- 7\. Thurgauer Gewerbeverband
+- 8\. Verband Thurgauer Landwirtschaft
 
-<sup>3</sup> Sie fördert die duale Berufsbildung durch deren Pflege, ständige Weiterentwicklung und Ausrichtung auf die Bedürfnisse des Wirtschaftsraumes Thurgau.
+<sup>2</sup> Sie unterstützt das Departement in seinen strategischen Prozessen bezüglich beruflicher Grundbildung und höherer Berufsbildung. Sie kann Anträge an das Departement stellen.
+
+<sup>3</sup> Sie fördert die berufliche Grundbildung und höhere Berufsbildung durch deren Pflege, ständige Weiterentwicklung und Ausrichtung auf die Bedürfnisse des Wirtschaftsraums Thurgau.
 
 <sup>4</sup> Sie nimmt insbesondere folgende Aufgaben wahr:
 
 - 1\. Erfahrungsaustausch zwischen Ausbildungs- und Schulbetrieben
-- 2\. Beobachtung von Bedürfnissen und Entwicklungen bezüglich Berufsberatung und dualer Berufsbildung
+- 2\. Beobachtung von Bedürfnissen und Entwicklungen bezüglich Berufsberatung und Berufsbildung
 - 3\. Beratung des Departementes betreffend Verbesserungs- und Innovationspotential sowie erkannten Herausforderungen
 
 #### § 3
@@ -72,7 +80,7 @@ vom 25.11.2014 (Stand 01.01.2024)
 - 2\. Lehraufsicht:
   - 2\.1 Überwachung der Ausbildungsverhältnisse, insbesondere der Einhaltung der Jugendschutzvorschriften
   - 2\.2 Beratung und Unterstützung der an der beruflichen Bildung Beteiligten
-  - 2\.3 Sicherstellung der Qualifikationsverfahren in Zusammenarbeit mit den Prüfungskommissionen und den Berufsverbänden
+  - 2\.3 Sicherstellung der Qualifikationsverfahren in Zusammenarbeit mit der Prüfungskommission Thurgau und den Berufsverbänden
   - 2\.4 Überwachung der Qualitätssicherungsmassnahmen in den Betrieben und überbetrieblichen Kursen
 - 3\. Gesamtführung der Bildungszentren:
   - 3\.1 finanzielle, personelle und administrative Gesamtführung der Bildungszentren
