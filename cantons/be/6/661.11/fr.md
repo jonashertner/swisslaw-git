@@ -4,13 +4,13 @@ number: "661.11"
 title: Loi sur les impôts
 short: LI
 language: fr
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-16
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-27
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3007/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3018/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3007/pdf_file"
 
 (LI)
 
-du 21.05.2000 (état au 01.03.2024)
+du 21.05.2000 (état au 01.01.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -809,19 +809,19 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour cent</th><th>Revenu imposable en CHF</th></tr>
-<tr><td>1,55 pour les premiers</td><td>3200</td></tr>
-<tr><td>1,65 pour les</td><td>3200 suivants</td></tr>
-<tr><td>2,85 pour les</td><td>9600 suivants</td></tr>
-<tr><td>3,65 pour les</td><td>15'800 suivants</td></tr>
-<tr><td>3,80 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>4,30 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>4,85 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>5,20 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>5,70 pour les</td><td>40'700 suivants</td></tr>
-<tr><td>5,85 pour les</td><td>53'100 suivants</td></tr>
-<tr><td>5,95 pour les</td><td>53'100 suivants</td></tr>
-<tr><td>6,20 pour les</td><td>53'100 suivants</td></tr>
-<tr><td>6,40 pour les</td><td>138'100 suivants</td></tr>
+<tr><td>1,55 pour les premiers</td><td>3300</td></tr>
+<tr><td>1,65 pour les</td><td>3300 suivants</td></tr>
+<tr><td>2,85 pour les</td><td>9800 suivants</td></tr>
+<tr><td>3,65 pour les</td><td>16'000 suivants</td></tr>
+<tr><td>3,80 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>4,30 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>4,85 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>5,20 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>5,70 pour les</td><td>41'400 suivants</td></tr>
+<tr><td>5,85 pour les</td><td>54'000 suivants</td></tr>
+<tr><td>5,95 pour les</td><td>54'000 suivants</td></tr>
+<tr><td>6,20 pour les</td><td>54'000 suivants</td></tr>
+<tr><td>6,40 pour les</td><td>140'400 suivants</td></tr>
 <tr><td>6,50 pour le surplus</td><td></td></tr>
 </table>
 
@@ -829,19 +829,19 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour cent</th><th>Revenu imposable en CHF</th></tr>
-<tr><td>1,95 pour les premiers</td><td>3200</td></tr>
-<tr><td>2,90 pour les</td><td>3200 suivants</td></tr>
-<tr><td>3,60 pour les</td><td>9600 suivants</td></tr>
-<tr><td>4,15 pour les</td><td>15'800 suivants</td></tr>
-<tr><td>4,45 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>5,00 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>5,60 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>5,75 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>5,90 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>6,05 pour les</td><td>26'300 suivants</td></tr>
-<tr><td>6,15 pour les</td><td>36'800 suivants</td></tr>
-<tr><td>6,30 pour les</td><td>85'000 suivants</td></tr>
-<tr><td>6,40 pour les</td><td>148'700 suivants</td></tr>
+<tr><td>1,95 pour les premiers</td><td>3300</td></tr>
+<tr><td>2,90 pour les</td><td>3300 suivants</td></tr>
+<tr><td>3,60 pour les</td><td>9800 suivants</td></tr>
+<tr><td>4,15 pour les</td><td>16'000 suivants</td></tr>
+<tr><td>4,45 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>5,00 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>5,60 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>5,75 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>5,90 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>6,05 pour les</td><td>26'700 suivants</td></tr>
+<tr><td>6,15 pour les</td><td>37'400 suivants</td></tr>
+<tr><td>6,30 pour les</td><td>86'400 suivants</td></tr>
+<tr><td>6,40 pour les</td><td>151'200 suivants</td></tr>
 <tr><td>6,50 pour le surplus</td><td></td></tr>
 </table>
 
@@ -883,13 +883,13 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour cent</th><th>Prestation en capital imposable en CHF</th></tr>
-<tr><td>0,65 pour les premiers</td><td>54'100</td></tr>
-<tr><td>0,90 pour les</td><td>54'100 suivants</td></tr>
-<tr><td>1,15 pour les</td><td>108'300 suivants</td></tr>
-<tr><td>1,30 pour les</td><td>108'300 suivants</td></tr>
-<tr><td>1,50 pour les</td><td>216'500 suivants</td></tr>
-<tr><td>1,80 pour les</td><td>324'800 suivants</td></tr>
-<tr><td>1,90 pour les</td><td>541'400 suivants</td></tr>
+<tr><td>0,65 pour les premiers</td><td>55'100</td></tr>
+<tr><td>0,90 pour les</td><td>55'100 suivants</td></tr>
+<tr><td>1,15 pour les</td><td>110'100 suivants</td></tr>
+<tr><td>1,30 pour les</td><td>110'100 suivants</td></tr>
+<tr><td>1,50 pour les</td><td>220'200 suivants</td></tr>
+<tr><td>1,80 pour les</td><td>330'300 suivants</td></tr>
+<tr><td>1,90 pour les</td><td>550'600 suivants</td></tr>
 <tr><td>2,00 pour le surplus</td><td></td></tr>
 </table>
 
@@ -897,14 +897,14 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour cent</th><th>Prestation en capital imposable en CHF</th></tr>
-<tr><td>0,65 pour les premiers</td><td>27'100</td></tr>
-<tr><td>0,85 pour les</td><td>27'100 suivants</td></tr>
-<tr><td>1,10 pour les</td><td>54'100 suivants</td></tr>
-<tr><td>1,15 pour les</td><td>54'100 suivants</td></tr>
-<tr><td>1,30 pour les</td><td>108'300 suivants</td></tr>
-<tr><td>1,60 pour les</td><td>162'400 suivants</td></tr>
-<tr><td>1,85 pour les</td><td>270'700 suivants</td></tr>
-<tr><td>1,90 pour les</td><td>541'400 suivants</td></tr>
+<tr><td>0,65 pour les premiers</td><td>27'600</td></tr>
+<tr><td>0,85 pour les</td><td>27'600 suivants</td></tr>
+<tr><td>1,10 pour les</td><td>55'100 suivants</td></tr>
+<tr><td>1,15 pour les</td><td>55'100 suivants</td></tr>
+<tr><td>1,30 pour les</td><td>110'100 suivants</td></tr>
+<tr><td>1,60 pour les</td><td>165'200 suivants</td></tr>
+<tr><td>1,85 pour les</td><td>275'300 suivants</td></tr>
+<tr><td>1,90 pour les</td><td>550'600 suivants</td></tr>
 <tr><td>2,00 pour le surplus</td><td></td></tr>
 </table>
 

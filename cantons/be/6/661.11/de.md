@@ -4,13 +4,13 @@ number: "661.11"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-16
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-27
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3007/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3018/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3007/pdf_file"
 
 (StG)
 
-vom 21.05.2000 (Stand 01.03.2024)
+vom 21.05.2000 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -808,19 +808,19 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer in Prozent</th><th>zu versteuerndes Einkommen in CHF</th></tr>
-<tr><td>1,55 für die ersten</td><td>3200</td></tr>
-<tr><td>1,65 für die weiteren</td><td>3200</td></tr>
-<tr><td>2,85 für die weiteren</td><td>9600</td></tr>
-<tr><td>3,65 für die weiteren</td><td>15'800</td></tr>
-<tr><td>3,80 für die weiteren</td><td>26'300</td></tr>
-<tr><td>4,30 für die weiteren</td><td>26'300</td></tr>
-<tr><td>4,85 für die weiteren</td><td>26'300</td></tr>
-<tr><td>5,20 für die weiteren</td><td>26'300</td></tr>
-<tr><td>5,70 für die weiteren</td><td>40'700</td></tr>
-<tr><td>5,85 für die weiteren</td><td>53'100</td></tr>
-<tr><td>5,95 für die weiteren</td><td>53'100</td></tr>
-<tr><td>6,20 für die weiteren</td><td>53'100</td></tr>
-<tr><td>6,40 für die weiteren</td><td>138'100</td></tr>
+<tr><td>1,55 für die ersten</td><td>3300</td></tr>
+<tr><td>1,65 für die weiteren</td><td>3300</td></tr>
+<tr><td>2,85 für die weiteren</td><td>9800</td></tr>
+<tr><td>3,65 für die weiteren</td><td>16'000</td></tr>
+<tr><td>3,80 für die weiteren</td><td>26'700</td></tr>
+<tr><td>4,30 für die weiteren</td><td>26'700</td></tr>
+<tr><td>4,85 für die weiteren</td><td>26'700</td></tr>
+<tr><td>5,20 für die weiteren</td><td>26'700</td></tr>
+<tr><td>5,70 für die weiteren</td><td>41'400</td></tr>
+<tr><td>5,85 für die weiteren</td><td>54'000</td></tr>
+<tr><td>5,95 für die weiteren</td><td>54'000</td></tr>
+<tr><td>6,20 für die weiteren</td><td>54'000</td></tr>
+<tr><td>6,40 für die weiteren</td><td>140'400</td></tr>
 <tr><td>6,50 für jedes weitere Einkommen</td><td></td></tr>
 </table>
 
@@ -828,19 +828,19 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer in Prozent</th><th>zu versteuerndes Einkommen in CHF</th></tr>
-<tr><td>1,95 für die ersten</td><td>3200</td></tr>
-<tr><td>2,90 für die weiteren</td><td>3200</td></tr>
-<tr><td>3,60 für die weiteren</td><td>9600</td></tr>
-<tr><td>4,15 für die weiteren</td><td>15'800</td></tr>
-<tr><td>4,45 für die weiteren</td><td>26'300</td></tr>
-<tr><td>5,00 für die weiteren</td><td>26'300</td></tr>
-<tr><td>5,60 für die weiteren</td><td>26'300</td></tr>
-<tr><td>5,75 für die weiteren</td><td>26'300</td></tr>
-<tr><td>5,90 für die weiteren</td><td>26'300</td></tr>
-<tr><td>6,05 für die weiteren</td><td>26'300</td></tr>
-<tr><td>6,15 für die weiteren</td><td>36'800</td></tr>
-<tr><td>6,30 für die weiteren</td><td>85'000</td></tr>
-<tr><td>6,40 für die weiteren</td><td>148'700</td></tr>
+<tr><td>1,95 für die ersten</td><td>3300</td></tr>
+<tr><td>2,90 für die weiteren</td><td>3300</td></tr>
+<tr><td>3,60 für die weiteren</td><td>9800</td></tr>
+<tr><td>4,15 für die weiteren</td><td>16'000</td></tr>
+<tr><td>4,45 für die weiteren</td><td>26'700</td></tr>
+<tr><td>5,00 für die weiteren</td><td>26'700</td></tr>
+<tr><td>5,60 für die weiteren</td><td>26'700</td></tr>
+<tr><td>5,75 für die weiteren</td><td>26'700</td></tr>
+<tr><td>5,90 für die weiteren</td><td>26'700</td></tr>
+<tr><td>6,05 für die weiteren</td><td>26'700</td></tr>
+<tr><td>6,15 für die weiteren</td><td>37'400</td></tr>
+<tr><td>6,30 für die weiteren</td><td>86'400</td></tr>
+<tr><td>6,40 für die weiteren</td><td>151'200</td></tr>
 <tr><td>6,50 für jedes weitere Einkommen</td><td></td></tr>
 </table>
 
@@ -880,13 +880,13 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer in Prozent</th><th>zu versteuernde Kapitalleistung in CHF</th></tr>
-<tr><td>0,65 für die ersten</td><td>54'100</td></tr>
-<tr><td>0,90 für die weiteren</td><td>54'100</td></tr>
-<tr><td>1,15 für die weiteren</td><td>108'300</td></tr>
-<tr><td>1,30 für die weiteren</td><td>108'300</td></tr>
-<tr><td>1,50 für die weiteren</td><td>216'500</td></tr>
-<tr><td>1,80 für die weiteren</td><td>324'800</td></tr>
-<tr><td>1,90 für die weiteren</td><td>541'400</td></tr>
+<tr><td>0,65 für die ersten</td><td>55'100</td></tr>
+<tr><td>0,90 für die weiteren</td><td>55'100</td></tr>
+<tr><td>1,15 für die weiteren</td><td>110'100</td></tr>
+<tr><td>1,30 für die weiteren</td><td>110'100</td></tr>
+<tr><td>1,50 für die weiteren</td><td>220'200</td></tr>
+<tr><td>1,80 für die weiteren</td><td>330'300</td></tr>
+<tr><td>1,90 für die weiteren</td><td>550'600</td></tr>
 <tr><td>2,00 für jedes weitere Einkommen</td><td></td></tr>
 </table>
 
@@ -894,14 +894,14 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer in Prozent</th><th>zu versteuernde Kapitalleistung in CHF</th></tr>
-<tr><td>0,65 für die ersten</td><td>27'100</td></tr>
-<tr><td>0,85 für die weiteren</td><td>27'100</td></tr>
-<tr><td>1,10 für die weiteren</td><td>54'100</td></tr>
-<tr><td>1,15 für die weiteren</td><td>54'100</td></tr>
-<tr><td>1,30 für die weiteren</td><td>108'300</td></tr>
-<tr><td>1,60 für die weiteren</td><td>162'400</td></tr>
-<tr><td>1,85 für die weiteren</td><td>270'700</td></tr>
-<tr><td>1,90 für die weiteren</td><td>541'400</td></tr>
+<tr><td>0,65 für die ersten</td><td>27'600</td></tr>
+<tr><td>0,85 für die weiteren</td><td>27'600</td></tr>
+<tr><td>1,10 für die weiteren</td><td>55'100</td></tr>
+<tr><td>1,15 für die weiteren</td><td>55'100</td></tr>
+<tr><td>1,30 für die weiteren</td><td>110'100</td></tr>
+<tr><td>1,60 für die weiteren</td><td>165'200</td></tr>
+<tr><td>1,85 für die weiteren</td><td>275'300</td></tr>
+<tr><td>1,90 für die weiteren</td><td>550'600</td></tr>
 <tr><td>2,00 für jedes weitere Einkommen</td><td></td></tr>
 </table>
 
