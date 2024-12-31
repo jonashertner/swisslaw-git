@@ -3,20 +3,19 @@ canton: BL
 number: "112.10"
 title: Verordnung zum Bundesgesetz über die Ausländerinnen und Ausländer
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-06-05
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2013-05-14
 in_force: 2013-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/112.10"
-pdf: "https://bl.clex.ch/api/de/versions/2240/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4114/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über die Ausländerinnen und Ausländer
 
-Vom 14.05.2013 (Stand 01.01.2019)
+Vom 14.05.2013 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -34,7 +33,7 @@ beschliesst:
 
 <sup>1</sup> Für den Vollzug des Bundesgesetzes über die Ausländerinnen und Ausländer[^1-1] und dessen Ausführungsverordnungen sind zuständig:
 
-- a. das Amt für Migration und Bürgerrecht als kantonale Ausländerbehörde;
+- a. das Amt für Migration, Integration und Bürgerrecht als kantonale Ausländerbehörde;
 - b. das Kantonale Amt für Industrie, Gewerbe und Arbeit (KIGA) als kantonale Arbeitsmarktbehörde.
 
 [^1-1]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
