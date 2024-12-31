@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 2022 sul casellario giudiziale informatizzato V
 short: OCaGi
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/698"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2022-10-19
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-698-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2022-698-20250101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20240101/it"
 
 (Ordinanza sul casellario giudiziale, OCaGi)
 
-del 19 ottobre 2022 (Stato 1° gennaio 2024)
+del 19 ottobre 2022 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1063,7 +1063,8 @@ Sulla base di questo elenco, VOSTRA comunica quotidianamente a PISA, in forma st
 - a. per le sentenze originarie, i dati che figurano in linea nell’estratto 2 per autorità secondo l’allegato 2, ad eccezione dei dati salvati nella sezione «Informazioni complementari» (allegato 2 n. 1.9) e delle copie elettroniche dei moduli di comunicazione esteri (allegato 2 n. 4.2);
 - b. per le decisioni successive, i dati che figurano in linea nell’estratto 2 per autorità secondo l’allegato 3, ad eccezione dei dati salvati nella sezione «Informazioni complementari» (allegato 3 n. 1.6) e delle copie elettroniche dei moduli di comunicazione esteri (allegato 3 n. 1.7.2);
 - c. per i procedimenti penali pendenti, i dati che figurano in linea nell’estratto 2 per autorità secondo l’allegato 4, ad eccezione dei dati salvati nella sezione «Informazioni complementari» (allegato 4 n. 1.4) e delle note per la direzione del procedimento (allegato 4 n. 3).
-- [tab] <sup>3</sup> La persona interessata è identificata nella comunicazione a PISA soltanto con il suo numero AVS.
+
+<sup>3</sup> La persona interessata è identificata nella comunicazione a PISA soltanto con il suo numero AVS.
 
 #### Art. 56
 
@@ -1201,6 +1202,57 @@ La comunicazione comprende i seguenti dati:
 <sup>4</sup> L’autorità competente dello Stato d’origine può indicare se la comunicazione deve essere redatta in tedesco, francese o italiano.
 
 <sup>5</sup> Il Servizio del casellario giudiziale trasmette manualmente la comunicazione all’autorità competente dello Stato d’origine almeno una volta al mese.
+
+#### Art. 61a
+
+**Comunicazione all’autorità federale di alta vigilanza sul registro di commercio**[^61a-1]
+
+### (art. 64*a* LCaGi)
+
+<sup>1</sup> La banca dati centrale delle persone di cui all’articolo 928*b* del Codice delle obbligazioni[^61a-2] comunica trimestralmente a VOSTRA, mediante un’interfaccia elettronica, un elenco aggiornato dei numeri AVS delle persone ivi registrate con il loro numero AVS.
+
+<sup>2</sup>
+
+Sulla base di tale elenco, il giorno successivo VOSTRA comunica all’autorità federale di alta vigilanza sul registro di commercio, mediante la stessa interfaccia, i dati seguenti in forma strutturata:
+
+- a.
+
+  indicazioni generali concernenti la comunicazione:
+
+  - 1\. il titolo dell’avviso (all. 5 n. 1.2),
+  - 2\. la descrizione del mandato (all. 5 n. 1.3),
+  - 3\. la data di creazione dell’avviso (all. 5 n. 1.4),
+  - 4\. il destinatario dell’avviso (all. 5 n. 1.5.1);
+
+- b.
+
+  indicazioni concernenti una vigente interdizione di esercitare un’attività disposta nei confronti delle persone interessate:
+
+  - 1\.
+
+    indicazioni personali:
+
+    - – il numero AVS (all. 1 n. 1.1.1),
+    - – l’ID incarto (all. 1 n. 1.4.1),
+
+  - 2\.
+
+    indicazioni concernenti la sentenza originaria o la decisione successiva, in cui è stata disposta l’interdizione:
+
+    - – la data della sentenza (all. 2 n. 1.1) e il numero dell’incarto (all. 2 n. 1.3), oppure
+    - – la data della decisione (all. 3 n. 1.1) e il numero dell’incarto (all. 3 n. 1.3),
+
+  - 3\.
+
+    indicazioni concernenti l’interdizione di esercitare un’attività:
+
+    - – la designazione dell’interdizione (all. 2 n. 3.1 o all. 3 n. 9.1),
+    - – il contenuto attualmente in vigore dell’interdizione come da dispositivo della decisione (all. 2 n. 3.4.4.1.2 o all. 3 n. 9.2, 24.2 e 25.2),
+    - – la data prevista per la fine dell’interdizione (all. 2 n. 3.4.4.2.5 o all. 3 n. 9.2),
+    - – data e ora dell’iscrizione dell’interdizione (all. 2 n. 1.9.1.1 o all. 3 n. 1.6.1.1).
+
+[^61a-1]: Introdotto dall’all. dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^61a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Capitolo 7: Comunicazione di decesso a VOSTRA
 
@@ -2109,7 +2161,7 @@ II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annex10-lvlu1-2]
+…[^annex10-lvlu1-2]
 
 [^annex10-lvlu1-1]: [[RU 2006 4503](https://fedlex.data.admin.ch/eli/oc/2006/694); [2008 51](https://fedlex.data.admin.ch/eli/oc/2008/23), [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 13; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 13; [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 2; [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)all. 3 n. 3, [3637](https://fedlex.data.admin.ch/eli/oc/2011/505)all. n. II 2; [2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)II; [2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)n. I 10, [4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. II 4; [2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766); [2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 55; [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)all. n 15]
 [^annex10-lvlu1-2]: Le mod. possono essere consultate alla [RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698).

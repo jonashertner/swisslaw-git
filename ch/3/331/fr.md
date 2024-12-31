@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2022 sur le casier judiciaire informatique VOST
 short: OCJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/698"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2022-10-19
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-698-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-698-20250101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20240101/fr"
 
 (Ordonnance sur le casier judiciaire, OCJ)
 
-du 19 octobre 2022 (État le 1<sup>er</sup> janvier 2024)
+du 19 octobre 2022 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1063,7 +1063,8 @@ Sur la base de cette liste, VOSTRA signale chaque jour au SIPA via l’interface
 - a. pour les jugements: les données qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités selon l’annexe 2, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 2, ch. 1.9) et des copies électroniques des formulaires de communication étrangers (annexe 2, ch. 4.2);
 - b. pour les décisions ultérieures: les données qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités selon l’annexe 3, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 3, ch. 1.6) et des copies électroniques des formulaires de communication étrangers (annexe 3, ch. 1.7.2);
 - c. pour les procédures pénales en cours: les données qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités selon l’annexe 4, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 4, ch. 1.4) et des notes à la direction de la procédure (annexe 4, ch. 3).
-- [tab] <sup>3</sup> La personne concernée est identifiée uniquement par son numéro AVS dans les communications au SIPA.
+
+<sup>3</sup> La personne concernée est identifiée uniquement par son numéro AVS dans les communications au SIPA.
 
 #### Art. 56
 
@@ -1201,6 +1202,57 @@ La communication comprend les données suivantes:
 <sup>4</sup> L’autorité compétente de l’État d’origine peut indiquer si elle doit recevoir les communications en allemand, français ou italien.
 
 <sup>5</sup> Le Service du casier judiciaire transmet manuellement, chaque mois au moins, les communications à l’autorité compétente de l’État d’origine.
+
+#### Art. 61a
+
+**Communication à l’autorité fédérale de haute surveillance du registre du commerce**[^61a-1]
+
+### (Art. 64*a* LCJ)
+
+<sup>1</sup> La base de données centrale des personnes visée à l’art. 928*b* du code des obligations[^61a-2] communique tous les trois mois à VOSTRA, par l’intermédiaire d’une interface électronique, une liste actualisée des numéros AVS des personnes qui y sont enregistrées.
+
+<sup>2</sup>
+
+Sur la base de cette liste, VOSTRA communique le jour suivant, via la même interface, à l’autorité fédérale de haute surveillance du registre du commerce, les données suivantes, sous forme structurée:
+
+- a.
+
+  les indications générales relatives à la communication:
+
+  - 1\. titre de la communication (annexe 5, ch. 1.2),
+  - 2\. tâche (annexe 5, ch. 1.3),
+  - 3\. date et heure d’établissement de la communication (annexe 5, ch. 1.4),
+  - 4\. destinataire de la communication (annexe 5, ch. 1.5.1);
+
+- b.
+
+  les indications relatives à une interdiction d’exercer une activité en vigueur pour les personnes concernées:
+
+  - 1\.
+
+    indications personnelles:
+
+    - – n<sup>o</sup> AVS (annexe 1, ch. 1.1.1)
+    - – ID du dossier (annexe 1, ch. 1.4.1),
+
+  - 2\.
+
+    indications relatives au jugement ou à la décision ultérieure, dans le cadre desquels l’interdiction a été ordonnée:
+
+    - – date du jugement (annexe 2, ch. 1.1) et numéro de dossier (annexe 2, ch. 1.3), ou
+    - – date de la décision (annexe 3, ch. 1.1) et numéro de dossier (annexe 3, ch. 1.3),
+
+  - 3\.
+
+    indications relatives à l’interdiction d’exercer une activité:
+
+    - – désignation de l’interdiction (annexe 2, ch. 3.1, ou annexe 3, ch. 9.1)
+    - – contenu en vigueur de l’interdiction selon le dispositif de la décision (annexe 2, ch. 3.4.4.1.2, ou annexe 3, ch. 9.2, 24.2 et 25.2)
+    - – date à laquelle l’interdiction devrait cesser d’avoir effet (annexe 2, ch. 3.4.4.2.5, ou annexe 3, ch. 9.2)
+    - – date et heure de la première saisie de l’interdiction (annexe 2, ch. 1.9.1.1, ou annexe 3, ch. 1.6.1.1).
+
+[^61a-1]: Introduit par l’annexe de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^61a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Chapitre 7 Communication des décès à VOSTRA
 
