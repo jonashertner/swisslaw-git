@@ -3,20 +3,19 @@ canton: GL
 number: VI E/331/3
 title: Ausführungsbestimmungen über die Fischerei im Linthkanal
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-06-16
+version: 2025-01-01
+version_adopted: 2024-06-13
 adopted: 2010-06-14
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.331.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1962/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2529/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Fischerei im Linthkanal
 
-Vom 14.06.2010 (Stand 01.01.2018)
+Vom 14.06.2010 (Stand 01.01.2025)
 
 Die Fischereikommission für den Zürichsee, Linthkanal und Walensee,
 
@@ -77,8 +76,8 @@ beschliesst:
 <sup>1</sup> Für die Fischerei sind folgende Fanggeräte und Hilfsmittel erlaubt:
 
 - a. eine Angelrute;
-- b. höchstens zwei Köder;
-- c. natürliche und künstliche Köder mit maximal zwei Anbissstellen pro Köder (ein Einfach- oder ein Mehrfachhaken gilt als eine Anbissstelle);
+- b. höchstens ein Köder, der am Ende der Montage befestigt sein muss;
+- c. natürliche und künstliche Köder mit höchstens zwei Anbissstellen (ein Einfach- oder ein Mehrfachhaken gilt als eine Anbissstelle);
 - d. tote Köderfische, Köderfisch-Imitationen (Löffel, Spinner, Wobler, Gummifische und in ihrer Wirkung vergleichbare Köder) sind nur in der Zeit vom 1. Februar bis zum 30. September erlaubt;
 - e. Feumer (Kescher) zum Anlanden gefangener Fische;
 - f. Fanggeräte zum Köderfischfang gemäss Artikel 7.
@@ -136,7 +135,7 @@ beschliesst:
 
 **Fangzahlbeschränkung**
 
-<sup>1</sup> Fischerinnen und Fischer dürfen an einem Tag höchstens vier Forellen oder Äschen sowie höchstens sechs Felchen fangen.
+<sup>1</sup> Fischereiberechtigte dürfen an einem Tag höchstens eine Forelle und eine Äsche sowie höchstens sechs Felchen entnehmen.
 
 <sup>2</sup> Fischerinnen und Fischer dürfen in einem Kalenderjahr höchstens 100 Edelfische (Forellen, Äschen und Felchen) fangen.
 
@@ -144,7 +143,7 @@ beschliesst:
 
 **Schongebiete**
 
-<sup>1</sup> Die Fischereikommission kann Schongebiete festlegen. Sie setzt die Fischereiberechtigten in geeigneter Weise darüber in Kenntnis.
+<sup>1</sup> Die Fischereikommission kann Schongebiete festlegen (vgl. Anhang). Sie setzt die Fischereiberechtigten in geeigneter Weise darüber in Kenntnis.
 
 #### Art. 13
 
