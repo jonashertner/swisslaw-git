@@ -4,13 +4,12 @@ number: "163.2"
 title: Verordnung über die Fähigkeitsprüfung für den Anwaltsberuf und die Beurkundungsprüfung für Rechtsanwältinnen und Rechtsanwälte
 short: Anwaltsprüfungsverordnung
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-12
+version: 2025-01-01
+version_adopted: 2024-10-23
 adopted: 2021-11-12
 in_force: 2022-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/163.2"
-pdf: "https://bgs.zg.ch/api/de/versions/2276/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2659/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2276/pdf_file"
 
 (Anwaltsprüfungsverordnung)
 
-Vom 12. November 2021 (Stand 1. Januar 2022)
+Vom 12. November 2021 (Stand 1. Januar 2025)
 
 Das Obergericht des Kantons Zug,
 
@@ -63,30 +62,35 @@ beschliesst:
 
 #### § 3
 
-**Schriftliche Prüfung; Inhalt**
+**Schriftliche Prüfung; Inhalt und Ablauf**
 
-<sup>1</sup> Die schriftliche Prüfung besteht aus der Fallbearbeitung in zwei Rechtsgebieten und aus der Erstellung öffentlicher Urkunden samt Beantwortung von Ergänzungsfragen (Beurkundungsprüfung).
+<sup>1</sup> Die schriftliche Prüfung umfasst die folgenden drei Gebiete:
 
-<sup>2</sup> Bei der Fallbearbeitung werden folgende Rechtsgebiete geprüft:
+- a) Fallbearbeitung im Zivilrecht und Zivilprozessrecht inkl. Gerichtsorganisation, wobei dieser Teil auch Fragen zum Schuldbetreibungs- und Konkursrecht enthalten kann;
+- b) Fallbearbeitung im Strafrecht und Strafprozessrecht inkl. Gerichtsorganisation oder im Staats- und Verwaltungsrecht inkl. Verwaltungsrechtspflege;
+- c) Erstellung öffentlicher Urkunden samt Beantwortung von Ergänzungsfragen (Beurkundungsprüfung).
 
-- a) Zivilrecht und Zivilprozessrecht inkl. Gerichtsorganisation;
-- b) Strafrecht und Strafprozessrecht inkl. Gerichtsorganisation oder Staats- und Verwaltungsrecht inkl. Verwaltungsrechtspflege.
+<sup>2</sup> …
 
-<sup>3</sup> Für die Bearbeitung der Fälle und die Beurkundungsprüfung stehen der Kandidatin bzw. dem Kandidaten je fünf Stunden zur Verfügung.
+<sup>3</sup> Für die Prüfung in den drei Gebieten stehen je fünf Stunden zur Verfügung.
 
-<sup>4</sup> Die schriftliche Prüfung ist unter Aufsicht in der Regel im Zeitraum einer Woche abzulegen.
+<sup>4</sup> Die schriftliche Prüfung ist unter Aufsicht im Zeitraum einer Woche abzulegen.
+
+<sup>5</sup> Wird die Prüfung in mindestens einem Gebiet aus entschuldbarem Grund nicht angetreten oder abgebrochen, gilt die Kandidatin bzw. der Kandidat für die ganze Prüfung als entschuldigt. Beim nachfolgenden Termin ist die Prüfung wiederum in sämtlichen Gebieten abzulegen.
 
 #### § 4
 
 **Schriftliche Prüfung; Bewertung und Wiederholung**
 
-<sup>1</sup> Die einzelnen Arbeiten werden als gut, genügend oder ungenügend bewertet.
+<sup>1</sup> Die Arbeiten in den einzelnen Gebieten werden als gut, genügend oder ungenügend bewertet.
 
-<sup>2</sup> Die schriftliche Prüfung ist bestanden, wenn die Kommission alle drei Arbeiten mindestens als genügend bewertet.
+<sup>2</sup> Die schriftliche Prüfung ist bestanden, wenn die Kommission die Arbeiten in allen drei Gebieten mindestens als genügend bewertet.
 
-<sup>3</sup> Wird eine Arbeit als ungenügend bewertet, ist die Prüfung im betreffenden Rechtsgebiet zu wiederholen. Die Wiederholungsprüfung ist in der Regel innert sechs Monaten abzulegen. Die Präsidentin bzw. der Präsident der Kommission bestimmt den Zeitpunkt der Wiederholung. In begründeten Fällen kann sie bzw. er diese Frist erstrecken.
+<sup>3</sup> Wird eine Arbeit als ungenügend bewertet, ist die Prüfung im betreffenden Gebiet zu wiederholen. Die Wiederholungsprüfung ist in der Regel innert sechs Monaten abzulegen. Die Präsidentin bzw. der Präsident der Kommission bestimmt den Zeitpunkt der Wiederholung. In begründeten Fällen kann sie bzw. er diese Frist erstrecken.
 
-<sup>4</sup> Wird auch bei der Wiederholung eine Arbeit als ungenügend bewertet, so wird die Kandidatin bzw. der Kandidat abgewiesen, womit die Zulassung zur Anwaltsprüfung erlischt. Ein erneutes Gesuch um Zulassung ist nach Ablauf von zwei Jahren zulässig.
+<sup>3a</sup> Die Wiederholungsprüfung ist unter Aufsicht im Zeitraum einer Woche abzulegen. Wird sie in mindestens einem Gebiet aus entschuldbarem Grund nicht angetreten oder abgebrochen, gilt die Kandidatin bzw. der Kandidat für die ganze Prüfung als entschuldigt. Beim nachfolgenden Termin ist die Wiederholungsprüfung in allen vor Antritt der Wiederholungsprüfung noch nicht bestandenen Gebieten abzulegen.
+
+<sup>4</sup> Wird auch eine Arbeit der Wiederholungsprüfung als ungenügend bewertet, so wird die Kandidatin bzw. der Kandidat abgewiesen, womit die Zulassung zur Anwaltsprüfung erlischt. Ein erneutes Gesuch um Zulassung ist nach Ablauf von zwei Jahren zulässig.
 
 #### § 5
 
@@ -178,7 +182,7 @@ beschliesst:
 - e) ein Auszug aus dem Betreibungsregister;
 - f) eine Bestätigung über das Gegenrecht des Patentkantons im Sinne von § 2 Abs. 3 des Gesetzes über die öffentliche Beurkundung und die Beglaubigung in Zivilsachen vom 3. Juni 1946[^13-1];
 - g) der Nachweis über die Einzahlung des Kostenvorschusses an die Gerichtskasse;
-- h) eine Erklärung, wonach die Kandidatin bzw. der Kandidat bisher auch ausserkantonal nicht definitiv abgewiesen wurde.
+- h) eine Erklärung, wonach die Kandidatin bzw. der Kandidat bisher auch ausserkantonal nicht endgültig abgewiesen wurde.
 
 <sup>3</sup> Personen, welche in einem kantonalen Anwaltsregister eingetragen sind, können anstelle der Beilagen gemäss Abs. 2 Bst. b–e einen Registerauszug beilegen.
 
