@@ -4,13 +4,12 @@ number: "630.1"
 title: Finanzausgleichsgesetz
 short: FiAG
 language: de
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-26
+version: 2025-01-01
+version_adopted: 2024-10-31
 adopted: 2017-03-24
 in_force: 2017-05-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/630.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1799/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1916/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1799/pdf_file"
 
 (FiAG)
 
-vom 24.03.2017 (Stand 01.08.2020)
+vom 24.03.2017 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -67,15 +66,23 @@ beschliesst:
 
 **Ressourcenpotenzial**
 
-<sup>1</sup> Zur Feststellung der Unterschiede in der finanziellen Leistungsfähigkeit der Einwohnergemeinden wird das Ressourcenpotenzial pro Einwohner berechnet.
+<sup>1</sup> Das Ressourcenpotenzial einer Einwohnergemeinde entspricht ihren fiskalisch ausschöpfbaren Ressourcen sowie ihren Wasserzinserträgen. Zur Feststellung der Unterschiede in der finanziellen Leistungsfähigkeit der Einwohnergemeinden wird das Ressourcenpotenzial pro Einwohner berechnet.
 
-<sup>2</sup> Die Basis für die Berechnung des Ressourcenpotenzials einer Einwohnergemeinde bildet der Ertrag der einfachen Steuer aus der Einkommens-, der Vermögens- und der Nebensteuern wie Grundstückgewinn- und Handänderungssteuern sowie der Gewinn- und Kapitalsteuern des Kantons.
+<sup>2</sup> Das Ressourcenpotenzial wird berechnet auf der Grundlage:
 
-<sup>3</sup> Der Ertrag der einfachen Steuer von natürlichen Personen wird durch die Zahl der Einwohner der Einwohnergemeinde dividiert und mit dem gewichteten, durchschnittlichen Steuerfuss aller Einwohnergemeinden multipliziert.
+- a. der Einkommens- und Vermögenssteuern der natürlichen Personen gemäss einfacher Kantonssteuer (einschliesslich Aufwandsteuern und Nachsteuern);
+- b. der einfachen Steuer auf Kapitalleistungen aus Vorsorge;
+- c. der Grundstückgewinnsteuern der natürlichen Personen gemäss einfacher Kantonssteuer;
+- d. der Quellensteuern gemäss einfacher Kantonssteuer;
+- e. der Handänderungssteuern;
+- f. der Gewinn- und Kapitalsteuern der juristischen Personen (einschliesslich Nachsteuern und Grundstückgewinnsteuern);
+- g. der Wasserzinsen.
 
-<sup>4</sup> Der Ertrag von juristischen Personen wird durch die Zahl der Einwohner der Einwohnergemeinde dividiert und auf den Einwohnergemeindeanteil am Ertrag der juristischen Personen hochgerechnet.
+<sup>3</sup> Der Ertrag der einfachen Steuern gemäss Absatz 2 Buchstaben a bis d wird mit dem gewichteten, durchschnittlichen Steuerfuss aller Einwohnergemeinden multipliziert. Dieses Ergebnis dividiert durch die Zahl der Einwohner der Einwohnergemeinde ergibt das Ressourcenpotenzial pro Einwohner.
 
-<sup>5</sup> Massgebend ist der Steuerertrag des aktuellen Rechnungsjahrs.
+<sup>4</sup> Der Ertrag der Steuern gemäss Absatz 2 Buchstaben e und f sowie die Wasserzinsen werden durch die Zahl der Einwohner der Einwohnergemeinde dividiert.
+
+<sup>5</sup> Massgebend sind der Steuerertrag und der Wasserzinsertrag des aktuellen Rechnungsjahrs.
 
 #### Art. 5
 
@@ -91,19 +98,23 @@ beschliesst:
 
 <sup>1</sup> Liegt der Ressourcenindex einer Einwohnergemeinde unter der Mindestausstattung, so ist sie ausgleichsberechtigt.
 
-<sup>2</sup> Der Ausgleichsbetrag berechnet sich wie folgt: Vom Wert der Mindestausstattung je Einwohner gemäss Art. 3 dieses Gesetzes wird das Ressourcenpotenzial der ausgleichsberechtigten Einwohnergemeinde je Einwohner gemäss Art. 4 Abs. 2 dieses Gesetzes abgezählt; das Ergebnis wird mit dem durchschnittlichen nach Einwohnerzahl gewichteten Einwohnergemeindesteuerfuss und der Einwohnerzahl der ausgleichsberechtigten Einwohnergemeinde multipliziert.
+<sup>1a</sup> Die für die Berechnung des Ressourcenausgleichs massgebende Einwohnerzahl basiert auf der ständigen Wohnbevölkerung sowie dem Bestand an Zweitwohnungen der entsprechenden Einwohnergemeinde. Der Zweitwohnungsbestand wird mit 20 Prozent zur massgebenden Einwohnerzahl dazugezählt.
+
+<sup>2</sup> Der Ausgleichsbetrag berechnet sich wie folgt: Vom Wert der Mindestausstattung je Einwohner gemäss Art. 3 dieses Gesetzes wird das Ressourcenpotenzial der ausgleichsberechtigten Einwohnergemeinde je Einwohner abgezogen; das Ergebnis wird mit der Einwohnerzahl der ausgleichsberechtigten Einwohnergemeinde multipliziert.
 
 <sup>3</sup> Übersteigt die Summe des Ausgleichsbetrags für die Mindestausstattung von 85 Prozent die Summe von 6 Millionen Franken, so wird die Mindestausstattung herabgesetzt. Die Herabsetzung berechnet sich nach der Formel 85 – ( ( ( A / 1 000 000 ) – 6 ) / 2 ), wobei A für die Summe des Ausgleichsbetrags bei einer Mindestausstattung von 85 Punkten steht.
+
+<sup>4</sup> Erfolgt eine Kürzung des Ausgleichsbetrags gemäss Absatz 3, so wird der gekürzte Ausgleichsbetrag um das prozentuale Wachstum des Ressourcenpotenzials aller Einwohnergemeinden zum Vorjahreswert erhöht. Ist die Veränderung zum Vorjahr negativ, findet keine weitere Anpassung des gekürzten Ausgleichsbetrags statt.
 
 #### Art. 7
 
 **Finanzierung des Ressourcenausgleichs**
 
-<sup>1</sup> Liegt der Ressourcenindex einer Einwohnergemeinde über 95 Prozent des durchschnittlichen kantonalen Ressourcenindexes, so ist sie ausgleichspflichtig.
+<sup>1</sup> Liegt der Ressourcenindex einer Einwohnergemeinde über 85 Prozent des durchschnittlichen kantonalen Ressourcenindexes, so ist sie ausgleichspflichtig.
 
-<sup>2</sup> Der Gesamtbeitrag der ausgleichspflichtigen Einwohnergemeinden in den Ressourcenausgleich entspricht der Beitragssumme, die benötigt wird, damit alle Einwohnergemeinden die Mindestausstattung gemäss Art. 5 dieses Gesetzes erreichen.
+<sup>2</sup> Der Gesamtbeitrag der ausgleichspflichtigen Einwohnergemeinden in den Ressourcenausgleich entspricht der Beitragssumme die benötigt wird, um den Ausgleichsbeitrag zu finanzieren. Die ausgleichspflichtigen Einwohnergemeinden beteiligen sich im Verhältnis ihrer Ressourcenpotenziale an der Finanzierung.
 
-<sup>3</sup> Der Beitrag der ausgleichspflichtigen Einwohnergemeinde richtet sich nach dem Verhältnis der Differenz des Ressourcenpotenzials der ausgleichspflichtigen Einwohnergemeinden und 95 Prozent des durchschnittlichen Ressourcenpotenzials aller Einwohnergemeinden multipliziert mit der Anzahl Einwohner.
+<sup>3</sup> …
 
 ## 3. Lastenausgleich
 
@@ -125,13 +136,13 @@ beschliesst:
 
 **Dotation, Anpassung und Finanzierung des Lastenausgleichs**
 
-<sup>1</sup> Der Lastenausgleich wird finanziert durch jährliche Beiträge des Kantons in der Höhe von 1,4 Prozent des Nettoertrags der Staatssteuern samt Nebensteuern, mindestens aber mit 1,2 Millionen Franken.
+<sup>1</sup> Der Lastenausgleich wird finanziert durch jährliche Beiträge des Kantons in der Höhe von 1,6 Millionen Franken. Der Betrag ist indexiert, wobei auf die letzte jeweilige Teuerung per November abgestellt wird (Landesindex der Konsumentenpreise, Basis November 2024). Der Betrag von 1,6 Millionen Franken darf dabei nicht unterschritten werden, vorbehalten bleibt eine Kürzung aufgrund von Absatz 4.
 
-<sup>2</sup> Auszugleichen ist die Unterdeckung, die sich aus der Differenz des Normaufwands einer Einwohnergemeinde zum Durchschnittsnormaufwand pro Einwohner aller Gemeinden, multipliziert mit der Einwohnerzahl der ausgleichsberechtigten Einwohnergemeinde, ergibt.
+<sup>2</sup> Auszugleichen ist die Unterdeckung, die sich aus der Differenz des Normaufwands einer Einwohnergemeinde zum Durchschnittsnormaufwand pro Einwohner aller Gemeinden, multipliziert mit der Einwohnerzahl (ständige Wohnbevölkerung) der ausgleichsberechtigten Einwohnergemeinde, ergibt.
 
-<sup>3</sup> Entsprechen die verfügbaren Mittel gemäss Absatz 1 nicht dem Lastenausgleich gemäss Absatz 2, so wird der Lastenausgleich der anspruchsberechtigten Einwohnergemeinden anteilsmässig angepasst.
+<sup>3</sup> Übersteigt der errechnete Lastenausgleich gemäss Absatz 2 die gemäss Absatz 1 zur Verfügung stehenden Mittel, so wird der Lastenausgleich der anspruchsberechtigten Einwohnergemeinden anteilsmässig gekürzt.
 
-<sup>4</sup> Übersteigen die verfügbaren Mittel gemäss Absatz 1 die auszugleichende Unterdeckung gemäss Absatz 2, so wird mit dem Überschuss der Strukturausgleich gemäss Art. 13 dieses Gesetzes aufgestockt.
+<sup>4</sup> Übersteigen die verfügbaren Mittel gemäss Absatz 1 die auszugleichende Unterdeckung gemäss Absatz 2, so wird maximal der für den Ausgleich der Unterdeckung benötigte Betrag ausgeschüttet.
 
 ## 4. Strukturausgleich
 
@@ -145,7 +156,7 @@ beschliesst:
 
 **Kriterien für den Strukturausgleich**
 
-<sup>1</sup> Anspruch auf einen Strukturausgleich haben jene Einwohnergemeinden, deren Einwohnerzahl tiefer ist als der Durchschnitt aller Einwohnergemeinden.
+<sup>1</sup> Anspruch auf einen Strukturausgleich haben jene Einwohnergemeinden, deren Einwohnerzahl (ständige Wohnbevölkerung) tiefer ist als der Durchschnitt aller Einwohnergemeinden.
 
 <sup>2</sup> Massgebend für die Verteilung des Strukturausgleichs ist die Differenz zwischen der Einwohnerzahl der Einwohnergemeinde und der durchschnittlichen Einwohnerzahl aller Einwohnergemeinden. Der Strukturausgleich wird im Verhältnis dieser Differenz auf die berechtigten Einwohnergemeinden verteilt.
 
@@ -153,7 +164,7 @@ beschliesst:
 
 **Dotation, Anpassung und Finanzierung des Strukturausgleichs**
 
-<sup>1</sup> Der Strukturausgleich wird finanziert durch jährliche Beiträge des Kantons in der Höhe von 2,6 Prozent des Nettoertrags der Staatssteuern samt Nebensteuern, mindestens aber mit 2 Millionen Franken.
+<sup>1</sup> Der Strukturausgleich wird finanziert durch jährliche Beiträge des Kantons in der Höhe von 2,9 Millionen Franken. Der Betrag ist indexiert, wobei auf die letzte jeweilige Teuerung per November abgestellt wird (Landesindex der Konsumentenpreise, Basis November 2024). Der Betrag von 2,9 Millionen Franken darf dabei nicht unterschritten werden.
 
 ## 5. Berechnungsgrundlagen und Auszahlung der Finanzausgleichsbeiträge
 
@@ -205,6 +216,8 @@ beschliesst:
 
 <sup>4</sup> Der Ressourcenausgleich für das Jahr 2020 wird im Januar 2021 nach den Bestimmungen des Nachtrags vom 26. Juni 2020 berechnet und ausgerichtet.
 
+<sup>5</sup> Die Bestimmungen des Nachtrags vom 31. Oktober 2024 werden erstmals für das Jahr 2025 angewendet.
+
 #### Art. 18
 
 **Evaluation**
@@ -227,6 +240,8 @@ OGS 2009, 42, OGS 2010, 13)
 
 OGS 2009, 42, OGS 2010, 13)
 
-\- Nachtrag vom 26. Juni 2020 (OGS 2020, 27), Botschaft und Vorlage des Regierungsrats vom 30. März 2020, Kantonsratssitzungen vom 28. Mai und 26. Juni 2020 (22.20.02), in Kraft seit 1. August 2020 (OGS 2020, 33)
+\- Nachtrag vom 26. Juni 2020 (OGS 2020, 27), Botschaft und Vorlage des Regierungsrats vom 30. März 2020, Kantonsratssitzungen vom 28. Mai und 26. Juni 2020 (22.20.02), in Kraft seit 1. August 2020 (OGS 2020, 33),
+
+\- Nachtrag vom 31. Oktober 2024 (OGS 2024, 28), Botschaft und Vorlage des Regierungsrats vom 4. Juni 2024, Kantonsratssitzungen vom 12. September und 31. Oktober 2024 (22.24.07), in Kraft seit 1. Januar 2025 (OGS 2024, 40)
 
 OGS 2017, 12
