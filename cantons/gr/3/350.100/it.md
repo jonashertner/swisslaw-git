@@ -4,13 +4,13 @@ number: "350.100"
 title: "Legge d'applicazione del Codice di diritto processuale penale svizzero"
 short: LACPP
 language: it
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3222/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3392/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3222/pdf_file"
 
 (LACPP)
 
-del 16.06.2010 (stato 01.01.2022)
+del 16.06.2010 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -135,7 +135,9 @@ decide:
 - b) procuratori pubblici e magistrati dei minorenni;
 - c) funzionari incaricati e impiegati della cancelleria.
 
-<sup>2</sup> All'occorrenza il Governo può designare procuratori pubblici e magistrati dei minorenni a titolo straordinario.
+<sup>1<sup>bis</sup></sup> All'occorrenza la Commissione del Gran Consiglio competente per la giustizia designa procuratori pubblici a titolo straordinario per condurre procedimenti penali rivolti contro membri del Governo.
+
+<sup>2</sup> Negli altri casi, all'occorrenza il Governo designa procuratori pubblici e magistrati dei minorenni a titolo straordinario.
 
 #### Art. 9
 
@@ -183,7 +185,7 @@ decide:
 - a) l'emanazione di decreti di non luogo a procedere;
 - b) l'attribuzione di casi alle sezioni o ai procuratori pubblici;
 - c) l'approvazione di decreti di non luogo a procedere, di sospensione e di abbandono dei capi procuratori pubblici e del capo magistrato dei minorenni;
-- d) l'opposizione contro decreti penali che non provengono dalla Procura pubblica;
+- d) l'opposizione contro decreti penali di altre autorità amministrative cantonali;
 - e) l'adozione di rimedi giuridici e la rappresentanza della Procura pubblica dinanzi all'autorità d'impugnazione;
 - f) le questioni relative alla competenza davanti ai Tribunali federali;
 - g) l'emanazione di direttive interne.
@@ -295,16 +297,16 @@ decide:
 
 <sup>1</sup> Il tribunale regionale funge da tribunale penale di prima istanza.
 
-<sup>2</sup> Esso decide nella composizione di cinque giudici:
+<sup>2</sup> Esso decide nella composizione di giudice unico:
 
-- a) in merito a questioni giuridiche di importanza fondamentale;
-- b) su ordine del presidente;
-- c) se la Procura pubblica:
-  - 1\. chiede una pena detentiva superiore ai cinque anni;
-  - 2\. chiede un internamento o una misura terapeutica stazionaria;
-  - 3\. chiede una privazione della libertà superiore ai cinque anni, in caso di contemporanea revoca di sanzioni condizionali.
+- a) in merito a contravvenzioni;
+- b) in merito a crimini o delitti, se la Procura pubblica non chiede una pena detentiva superiore a un anno, un internamento secondo l'articolo 64 del Codice penale svizzero[^19-1] o una misura privativa della libertà e se il presidente non intende disporre una tale sanzione.
+- c) …
 
-<sup>3</sup> Negli altri casi il tribunale regionale decide nella composizione di tre giudici.
+<sup>3</sup> Negli altri casi il tribunale regionale decide nella composizione prevista dalla legge sull'organizzazione giudiziaria[^19-2].
+
+[^19-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
+[^19-2]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 20
 
@@ -322,9 +324,9 @@ decide:
 
 #### Art. 22
 
-**Tribunale d'appello e autorità di impugnazione**
+**Giurisdizione d'appello e di reclamo**
 
-<sup>1</sup> Il Tribunale cantonale esercita la funzione di tribunale d'appello e di autorità di impugnazione in cause penali e penali minorili.
+<sup>1</sup> Il Tribunale d'appello esercita la funzione di giurisdizione d'appello e di reclamo in cause penali e penali minorili.
 
 ## 4. Disposizioni complementari
 
@@ -413,9 +415,9 @@ decide:
 
 **Eccezioni all'obbligo di procedere**
 
-<sup>1</sup> I membri del Gran Consiglio e del Governo, nonché del Tribunale cantonale e del Tribunale amministrativo non sono perseguibili penalmente per le loro esternazioni in Gran Consiglio o nelle sue commissioni.
+<sup>1</sup> I membri del Gran Consiglio e del Governo nonché i giudici del Tribunale d'appello non sono perseguibili penalmente per le loro esternazioni in Gran Consiglio o nelle sue commissioni.
 
-<sup>2</sup> Se i membri del Governo, i giudici e gli attuari del Tribunale cantonale e del Tribunale amministrativo commettono crimini e delitti durante l'esercizio delle loro funzioni, essi possono essere perseguiti penalmente solo con l'autorizzazione della Commissione del Gran Consiglio competente per la giustizia.
+<sup>2</sup> Se i membri del Governo nonché delle autorità giudiziarie e gli attuari delle autorità giudiziarie commettono crimini e delitti nell'esercizio delle loro funzioni, essi possono essere perseguiti penalmente solo con l'autorizzazione della Commissione del Gran Consiglio competente per la giustizia.
 
 #### Art. 31
 
@@ -473,6 +475,12 @@ decide:
 
 [^35-1]: CSC [180.500](https://www.gr-lex.gr.ch/data/180.500/it)
 
+#### Art. 35a
+
+**Impugnazione da parte di autorità**
+
+<sup>1</sup> La Procura pubblica e le altre autorità amministrative cantonali competenti per il perseguimento e il giudizio di fattispecie di contravvenzione cantonali possono impugnare le decisioni dei tribunali regionali dinanzi al Tribunale d'appello.
+
 #### Art. 36
 
 **Conservazione e consultazione degli atti**
@@ -500,7 +508,7 @@ decide:
 <sup>4</sup> L'ammontare della tariffa viene disciplinato con ordinanza dal:
 
 - a) Governo per procedure davanti ad autorità amministrative e alla Procura pubblica[^37-3];
-- b) Tribunale cantonale per procedure giudiziarie[^37-4].
+- b) Tribunale d'appello per procedure giudiziarie[^37-4].
 
 [^37-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 [^37-2]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
@@ -552,6 +560,8 @@ decide:
 **Autorità amministrative cantonali**
 
 <sup>1</sup> Se una legge affida il perseguimento e il giudizio di contravvenzioni secondo il diritto cantonale o federale a un'autorità amministrativa cantonale, la competenza spetta all'ufficio competente in materia, senza un'attribuzione particolare.
+
+<sup>1<sup>bis</sup></sup> La Procura pubblica può presentare opposizione contro decreti d'accusa di altre autorità amministrative cantonali.
 
 <sup>2</sup> La procedura si conforma al Codice di procedura penale[^42-1] e alla presente legge. Sono fatte salve particolari prescrizioni procedurali.
 
@@ -718,6 +728,8 @@ decide:
 **Diritto transitorio**
 
 <sup>1</sup> Le infrazioni contro disposizioni penali della legge sulla giustizia penale dell'8 giugno 1958 commesse prima dell'entrata in vigore della presente legge e non ancora giudicate da un giudice vengono giudicate secondo le disposizioni dell'appendice alla presente legge.
+
+<sup>2</sup> I procedimenti pendenti al momento dell'entrata in vigore della modifica della presente legge vengono portati avanti dalle autorità competenti secondo il nuovo diritto.
 
 #### Art. 56
 

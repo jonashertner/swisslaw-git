@@ -4,13 +4,13 @@ number: "350.100"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EGzStPO
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3222/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3392/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3222/pdf_file"
 
 (EGzStPO)
 
-Vom 16.06.2010 (Stand 01.01.2022)
+Vom 16.06.2010 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -135,7 +135,9 @@ beschliesst:
 - b) Staatsanwältinnen und Staatsanwälten sowie Jugendanwältinnen und Jugendanwälten;
 - c) Sachbearbeiterinnen und Sachbearbeitern sowie Kanzleiangestellten.
 
-<sup>2</sup> Bei Bedarf kann die Regierung ausserordentliche Staatsanwältinnen und Staatsanwälte sowie Jugendanwältinnen und Jugendanwälte bestellen.
+<sup>1<sup>bis</sup></sup> Die für die Justiz zuständige Kommission des Grossen Rates bestellt bei Bedarf ausserordentliche Staatsanwältinnen und Staatsanwälte, um Strafverfahren zu führen, die sich gegen Mitglieder der Regierung richten.
+
+<sup>2</sup> In den anderen Fällen bestellt die Regierung bei Bedarf ausserordentliche Staatsanwältinnen und Staatsanwälte sowie Jugendanwältinnen und Jugendanwälte.
 
 #### Art. 9
 
@@ -183,7 +185,7 @@ beschliesst:
 - a) Erlass von Nichtanhandnahmeverfügungen;
 - b) Zuteilung von Fällen an die Abteilungen oder an Staatsanwältinnen und Staatsanwälte;
 - c) Genehmigung von Nichtanhandnahme-, Sistierungs- und Einstellungsverfügungen der Leitenden Staatsanwältinnen und Leitenden Staatsanwälte und der Leitenden Jugendanwältin oder des Leitenden Jugendanwaltes;
-- d) Einsprache gegen Strafbefehle, die nicht von der Staatsanwaltschaft stammen;
+- d) Einsprache gegen Strafbefehle von anderen kantonalen Verwaltungsbehörden;
 - e) Ergreifen von Rechtsmitteln und Vertretung der Staatsanwaltschaft vor der Rechtsmittelinstanz;
 - f) Gerichtsstandsfragen vor eidgenössischen Gerichten;
 - g) Erlass von internen Richtlinien.
@@ -295,16 +297,16 @@ beschliesst:
 
 <sup>1</sup> Das Regionalgericht amtet als erstinstanzliches Strafgericht.
 
-<sup>2</sup> Es entscheidet in Fünferbesetzung:
+<sup>2</sup> Es entscheidet in einzelrichterlicher Kompetenz:
 
-- a) über Rechtsfragen von grundsätzlicher Bedeutung;
-- b) auf Anordnung der oder des Vorsitzenden;
-- c) wenn die Staatsanwaltschaft:
-  - 1\. eine Freiheitsstrafe von mehr als fünf Jahren beantragt;
-  - 2\. eine Verwahrung oder eine stationäre therapeutische Massnahme beantragt;
-  - 3\. bei gleichzeitig zu widerrufenden bedingten Sanktionen einen Freiheitsentzug von mehr als fünf Jahren beantragt.
+- a) über Übertretungen;
+- b) über Verbrechen oder Vergehen, wenn die Staatsanwaltschaft nicht eine Freiheitsstrafe von mehr als einem Jahr, eine Verwahrung nach Artikel 64 des Schweizerischen Strafgesetzbuchs[^19-1] oder eine freiheitsentziehende Massnahme beantragt und die oder der Vorsitzende keine solche Sanktion anordnen will.
+- c) …
 
-<sup>3</sup> In den anderen Fällen entscheidet das Regionalgericht in Dreierbesetzung.
+<sup>3</sup> In den anderen Fällen entscheidet das Regionalgericht in der im Gerichtsorganisationsgesetz[^19-2] vorgesehenen Besetzung.
+
+[^19-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^19-2]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 #### Art. 20
 
@@ -324,7 +326,7 @@ beschliesst:
 
 **Berufungsgericht und Beschwerdeinstanz**
 
-<sup>1</sup> Das Kantonsgericht amtet als Berufungsgericht und als Beschwerdeinstanz in Straf- und Jugendstrafsachen.
+<sup>1</sup> Das Obergericht amtet als Berufungsgericht und als Beschwerdeinstanz in Straf- und Jugendstrafsachen.
 
 ## 4. Ergänzende Bestimmungen
 
@@ -413,9 +415,9 @@ beschliesst:
 
 **Ausnahmen vom Verfolgungszwang**
 
-<sup>1</sup> Die Mitglieder des Grossen Rates und der Regierung sowie des Kantons- und des Verwaltungsgerichts sind für ihre Äusserungen im Grossen Rat oder in dessen Kommissionen strafrechtlich nicht verfolgbar.
+<sup>1</sup> Die Mitglieder des Grossen Rates und der Regierung sowie des Obergerichts sind für ihre Äusserungen im Grossen Rat oder in dessen Kommissionen strafrechtlich nicht verfolgbar.
 
-<sup>2</sup> Die Mitglieder der Regierung sowie die Richterinnen und Richter und die Aktuarinnen und Aktuare des Kantons- und des Verwaltungsgerichts können wegen im Amt begangener Verbrechen und Vergehen nur mit Ermächtigung der für die Justiz zuständigen Kommission des Grossen Rates strafrechtlich verfolgt werden.
+<sup>2</sup> Die Mitglieder der Regierung sowie der richterlichen Behörden und die Aktuarinnen sowie Aktuare der richterlichen Behörden können wegen im Amt begangener Verbrechen und Vergehen nur mit Ermächtigung der für die Justiz zuständigen Kommission des Grossen Rates strafrechtlich verfolgt werden.
 
 #### Art. 31
 
@@ -473,6 +475,12 @@ beschliesst:
 
 [^35-1]: BR [180.500](https://www.gr-lex.gr.ch/data/180.500/de)
 
+#### Art. 35a
+
+**Weiterzug durch Behörden**
+
+<sup>1</sup> Die Staatsanwaltschaft und die weiteren kantonalen Verwaltungsbehörden, die für die Verfolgung und Beurteilung von kantonalen Übertretungstatbeständen zuständig sind, können Entscheide der Regionalgerichte an das Obergericht weiterziehen.
+
 #### Art. 36
 
 **Aktenaufbewahrung und Akteneinsicht**
@@ -500,7 +508,7 @@ beschliesst:
 <sup>4</sup> Die Höhe der Gebühr wird durch Verordnung geregelt durch:
 
 - a) die Regierung für Verfahren vor Verwaltungsbehörden und der Staatsanwaltschaft[^37-3];
-- b) das Kantonsgericht für gerichtliche Verfahren[^37-4].
+- b) das Obergericht für gerichtliche Verfahren[^37-4].
 
 [^37-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 [^37-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
@@ -552,6 +560,8 @@ beschliesst:
 **Kantonale Verwaltungsbehörden**
 
 <sup>1</sup> Überträgt ein Gesetz die Verfolgung und Beurteilung von Übertretungen nach kantonalem oder Bundesrecht einer kantonalen Verwaltungsbehörde, liegt die Zuständigkeit ohne eine besondere Zuweisung beim sachlich zuständigen Amt.
+
+<sup>1<sup>bis</sup></sup> Die Staatsanwaltschaft kann gegen Strafbefehle von anderen kantonalen Verwaltungsbehörden Einsprache erheben.
 
 <sup>2</sup> Das Verfahren richtet sich nach der Strafprozessordnung[^42-1] und diesem Gesetz. Besondere Verfahrensvorschriften bleiben vorbehalten.
 
@@ -718,6 +728,8 @@ beschliesst:
 **Übergangsrecht**
 
 <sup>1</sup> Vor dem Inkrafttreten dieses Gesetzes begangene, noch nicht richterlich beurteilte Widerhandlungen gegen Strafbestimmungen des Gesetzes über die Strafrechtspflege vom 8. Juni 1958 werden nach den Bestimmungen des Anhanges zu diesem Gesetz beurteilt.
+
+<sup>2</sup> Verfahren, die bei Inkrafttreten der Änderung dieses Gesetzes hängig sind, werden von den nach neuem Recht zuständigen Behörden weitergeführt.
 
 #### Art. 56
 

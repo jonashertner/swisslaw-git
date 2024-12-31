@@ -4,13 +4,13 @@ number: "350.100"
 title: Lescha introductiva tar il cudesch da procedura penala svizzer
 short: LItCPP
 language: rm
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3222/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3392/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3222/pdf_file"
 
 (LItCPP)
 
-dals 16-06-2010 (versiun dals 01-01-2022)
+dals 16-06-2010 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -135,7 +135,9 @@ concluda:
 - b) da procuraturas publicas e da procuraturs publics sco er da procuraturas e da procuraturs per giuvenils;
 - c) da referendarias e da referendaris sco er d'emploiadas e d'emploiads da chanzlia.
 
-<sup>2</sup> En cas da basegn po la regenza nominar procuraturas publicas extraordinarias e procuraturs publics extraordinaris sco er procuraturas extraordinarias e procuraturs extraordinaris per giuvenils.
+<sup>1<sup>bis</sup></sup> La cumissiun dal Cussegl grond ch'è cumpetenta per la giustia nominescha en cas da basegn procuraturas publicas extraordinarias e procuraturs publics extraordinaris per manar proceduras penalas che sa drizzan cunter commembras e commembers da la Regenza.
+
+<sup>2</sup> En ils ulteriurs cas nominescha la Regenza en cas da basegn procuraturas publicas extraordinarias e procuraturs publics extraordinaris sco er procuraturas extraordinarias e procuraturs extraordinaris per giuvenils.
 
 #### Art. 9
 
@@ -183,7 +185,7 @@ concluda:
 - a) relaschar disposiziuns da betg avrir l'inquisiziun penala;
 - b) attribuir cas a las partiziuns u a las procuraturas publicas ed als procuraturs publics;
 - c) approvar disposiziuns da betg avrir, da sistir u da suspender l'inquisiziun penala ch'èn vegnidas relaschadas da las procuraturas publicas directivas e dals procuraturs publics directivs sco er da la procuratura directiva u dal procuratur directiv per giuvenils;
-- d) far protesta cunter mandats penals che na derivan betg da la procura publica;
+- d) far protesta cunter mandats penals d'autras autoritads administrativas chantunalas;
 - e) prender meds legals e represchentar la procura publica davant l'instanza da meds legals;
 - f) decider la cumpetenza territoriala davant tribunals da la confederaziun;
 - g) relaschar directivas internas.
@@ -295,16 +297,16 @@ concluda:
 
 <sup>1</sup> La dretgira regiunala è la dretgira penala d'emprima instanza.
 
-<sup>2</sup> Ella decida en in gremi da tschintg:
+<sup>2</sup> Ella decida en cumpetenza da derschadra singula u da derschader singul:
 
-- a) davart dumondas giuridicas d'impurtanza fundamentala;
-- b) sin ordinaziun da la parsura u dal parsura;
-- c) sche la procura publica:
-  - 1\. propona in chasti che privescha da la libertad da passa 5 onns;
-  - 2\. propona in internament u ina mesira terapeutica staziunara;
-  - 3\. propona ina privaziun da la libertad da passa 5 onns en cas da sancziuns cundiziunadas ch'èn da revocar a medem temp.
+- a) davart surpassaments;
+- b) davart crims u davart delicts, sche la Procura publica na propona betg in chasti da detenziun da passa 1 onn, in internament tenor l'artitgel 64 dal Cudesch penal svizzer[^19-1] u ina mesira da detenziun e sche la parsura u il parsura na vul betg ordinar ina tala sancziun.
+- c) …
 
-<sup>3</sup> En ils ulteriurs cas decida la dretgira regiunala en ina cumposiziun da trais.
+<sup>3</sup> En ils ulteriurs cas decida la dretgira regiunala en la cumposiziun previsa en la Lescha davart l'organisaziun giudiziala[^19-2].
+
+[^19-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
+[^19-2]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 20
 
@@ -324,7 +326,7 @@ concluda:
 
 **Dretgira d'appellaziun ed instanza da recurs**
 
-<sup>1</sup> La dretgira chantunala è la dretgira d'appellaziun e l'instanza da recurs en chaussas penalas ed en chaussas penalas da giuvenils.
+<sup>1</sup> La Dretgira superiura è la dretgira d'appellaziun e l'instanza da recurs en chaussas penalas ed en chaussas penalas da giuvenils.
 
 ## 4. Disposiziuns cumplementaras
 
@@ -413,9 +415,9 @@ concluda:
 
 **Excepziuns da l'obligaziun da persecuziun**
 
-<sup>1</sup> Ils commembers dal cussegl grond e da la regenza sco er da la dretgira chantunala e da la dretgira administrativa na pon betg vegnir persequitads penalmain pervia da lur remartgas en il cussegl u en sias cumissiuns.
+<sup>1</sup> Las commembras ed ils commembers dal Cussegl grond e da la Regenza sco er da la Dretgira superiura na pon betg vegnir persequitads penalmain pervia da lur remartgas en il cussegl u en sias cumissiuns.
 
-<sup>2</sup> Las commembras ed ils commembers da la regenza sco er las derschadras ed ils derschaders, las actuaras ed ils actuars da la dretgira chantunala e da la dretgira administrativa pon vegnir persequitads penalmain pervia da crims e da delicts commess en uffizi mo cun l'autorisaziun da la cumissiun dal cussegl grond ch'è cumpetenta per la giustia.
+<sup>2</sup> Las commembras ed ils commembers da la Regenza e da las autoritads giudizialas sco er las actuaras ed ils actuars da las autoritads giudizialas pon vegnir persequitads penalmain pervia da crims e da delicts commess en uffizi mo cun l'autorisaziun da la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia.
 
 #### Art. 31
 
@@ -473,6 +475,12 @@ concluda:
 
 [^35-1]: DG [180.500](https://www.gr-lex.gr.ch/data/180.500/rm)
 
+#### Art. 35a
+
+**Recurs tras las autoritads**
+
+<sup>1</sup> La Procura publica e las ulteriuras autoritads administrativas chantunalas ch'èn cumpetentas per persequitar e per giuditgar surpassaments chantunals, pon far recurs tar la Dretgira superiura cunter decisiuns da las dretgiras regiunalas.
+
 #### Art. 36
 
 **Archivaziun ed invista da las actas**
@@ -500,7 +508,7 @@ concluda:
 <sup>4</sup> L'autezza da la taxa vegn reglada en in'ordinaziun:
 
 - a) da la regenza per proceduras davant autoritads administrativas e da la procura publica[^37-3];
-- b) da la dretgira chantunala per proceduras giudizialas[^37-4].
+- b) da la Dretgira superiura per proceduras giudizialas[^37-4].
 
 [^37-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
 [^37-2]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
@@ -552,6 +560,8 @@ concluda:
 **Autoritads administrativas chantunalas**
 
 <sup>1</sup> Sch'ina lescha surdat la persecuziun ed il giudicament da surpassaments tenor il dretg chantunal u federal ad in'autoritad administrativa chantunala, sa chatta la cumpetenza – senza in'attribuziun speziala – tar l'uffizi responsabel en chaussa.
+
+<sup>1<sup>bis</sup></sup> La Procura publica po far protesta cunter mandats penals d'autras autoritads administrativas chantunalas.
 
 <sup>2</sup> La procedura sa drizza tenor il cudesch da procedura penala[^42-1] e tenor questa lescha. Resalvadas restan prescripziuns da procedura spezialas.
 
@@ -718,6 +728,8 @@ concluda:
 **Dretg transitoric**
 
 <sup>1</sup> Cuntravenziuns cunter disposiziuns penalas da la lescha davart la procedura penala dals 8 da zercladur 1958[^55-1] ch'èn vegnidas commessas avant l'entrada en vigur da la lescha qua avant maun e che n'èn anc betg vegnidas giuditgadas d'ina dretgira vegnan giuditgadas tenor las disposiziuns da l'agiunta tar la lescha qua avant maun.
+
+<sup>2</sup> Proceduras ch'èn pendentas il mument che la midada da questa lescha entra en vigur, vegnan manadas vinavant da las autoritads ch'èn cumpetentas tenor il dretg nov.
 
 [^55-1]: CUL 1958, 141; DG [350.000](https://www.gr-lex.gr.ch/data/350.000/rm)
 
