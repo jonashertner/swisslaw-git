@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2020 über Überbrückungsleistungen für älte
 short: ÜLG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/de"
 
 (ÜLG)
 
-vom 19. Juni 2020 (Stand am 1. Januar 2024)
+vom 19. Juni 2020 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -159,25 +159,25 @@ Als Ausgaben werden anerkannt:
 
   als Betrag für den allgemeinen Lebensbedarf pro Jahr:
 
-  - 1\. bei alleinstehenden Personen: 20 100 Franken,
-  - 2\. bei Ehepaaren: 30 150 Franken,
-  - 3\. bei Kindern, die das 11. Altersjahr vollendet haben, aber noch minderjährig sind, oder die noch in Ausbildung stehen und weniger als 25 Jahre alt sind: 10 515 Franken; dabei gilt für die ersten zwei Kinder der volle Betrag, für zwei weitere Kinder je zwei Drittel und für die übrigen Kinder je ein Drittel dieses Betrags,
-  - 4\. bei Kindern, die das 11. Altersjahr noch nicht vollendet haben: 7380 Franken; dabei gilt für das erste Kind der volle Betrag; für jedes weitere Kind reduziert er sich um einen Sechstel des vorangehenden Betrags; der Betrag für das fünfte Kind gilt auch für weitere Kinder;
+  - 1\. bei alleinstehenden Personen: 20 670 Franken,
+  - 2\. bei Ehepaaren: 31 005 Franken,
+  - 3\. bei Kindern, die das 11. Altersjahr vollendet haben, aber noch minderjährig sind, oder die noch in Ausbildung stehen und weniger als 25 Jahre alt sind: 10 815 Franken; dabei gilt für die ersten zwei Kinder der volle Betrag, für zwei weitere Kinder je zwei Drittel und für die übrigen Kinder je ein Drittel dieses Betrags,
+  - 4\. bei Kindern, die das 11. Altersjahr noch nicht vollendet haben: 7590 Franken; dabei gilt für das erste Kind der volle Betrag; für jedes weitere Kind reduziert er sich um einen Sechstel des vorangehenden Betrags; der Betrag für das fünfte Kind gilt auch für weitere Kinder;
 
 - b.[^9-2]
 
   der Mietzins einer Wohnung und die damit zusammenhängenden Nebenkosten; wird eine Schlussabrechnung für die Nebenkosten erstellt, so ist weder eine Nach- noch eine Rückzahlung zu berücksichtigen; als jährlicher Höchstbetrag werden anerkannt:
 
-  - 1\. für eine allein lebende Person: 17 580 Franken in der Region 1, 17 040 Franken in der Region 2 und 15 540 Franken in der Region 3,
+  - 1\. für eine allein lebende Person: 18 900 Franken in der Region 1, 18 300 Franken in der Region 2 und 16 680 Franken in der Region 3,
   - 2\.
 
     bei mehreren im gleichen Haushalt lebenden Personen zusätzlich:
 
-    - – für die zweite Person: 3240 Franken in der Region 1, 3180 Franken in der Region 2 und 3240 Franken in der Region 3
-    - – für die dritte Person: 2280 Franken in der Region 1 und 1920 Franken in den Regionen 2 und 3
-    - – für die vierte Person: 2100 Franken in der Region 1, 1980 Franken in der Region 2 und 1680 Franken in der Region 3,
+    - – für die zweite Person: 3420 Franken in der Region 1, 3420 Franken in der Region 2 und 3480 Franken in der Region 3
+    - – für die dritte Person: 2460 Franken in der Region 1 und 2040 Franken in den Regionen 2 und 3
+    - – für die vierte Person: 2280 Franken in der Region 1, 2160 Franken in der Region 2 und 1800 Franken in der Region 3,
 
-  - 3\. bei Notwendigkeit der Miete einer rollstuhlgängigen Wohnung: zusätzlich 6420 Franken;
+  - 3\. bei Notwendigkeit der Miete einer rollstuhlgängigen Wohnung: zusätzlich 6900 Franken;
 
 - c. anstelle des Mietzinses der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben; Buchstabe b gilt sinngemäss;
 - d. Gewinnungskosten bis zur Höhe des Bruttoerwerbseinkommens;
@@ -204,8 +204,8 @@ Für Personen, die in gemeinschaftlichen Wohnformen leben und bei denen keine ge
 
 <sup>7</sup> Der Bundesrat überprüft mindestens alle zehn Jahre, ob und in welchem Ausmass die Höchstbeträge die effektiven Mietzinse der Bezügerinnen und Bezüger von Überbrückungsleistungen decken und veröffentlicht die Ergebnisse seiner Prüfung. Er nimmt die Überprüfung und Veröffentlichung früher vor, wenn sich der Mietpreisindex um mehr als 10 Prozent seit der letzten Überprüfung verändert hat.
 
-[^9-1]: Beträge angepasst gemäss Art. 1 der V 23 vom 12. Okt. 2022 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Jan. 2023 ([AS 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
-[^9-2]: Beträge angepasst gemäss Art. 2 der V 23 vom 12. Okt. 2022 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Jan. 2023 ([AS 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^9-1]: Beträge angepasst gemäss Art. 1 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^9-2]: Beträge angepasst gemäss Art. 2 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^9-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 10
@@ -216,27 +216,28 @@ Für Personen, die in gemeinschaftlichen Wohnformen leben und bei denen keine ge
 
 Als Einnahmen werden angerechnet:
 
-- a. zwei Drittel der Erwerbseinkünfte in Geld oder Naturalien, soweit sie bei alleinstehenden Personen jährlich 1000 Franken und bei Ehepaaren und Personen mit minderjährigen oder noch in Ausbildung stehenden und weniger als 25 Jahre alten Kindern 1500 Franken übersteigen; das Erwerbseinkommen von Ehegatten ohne Anspruch auf Überbrückungsleistungen wird zu 80 Prozent angerechnet;
+- a.[^10-1] zwei Drittel der Erwerbseinkünfte in Geld oder Naturalien, soweit sie bei alleinstehenden Personen jährlich 1300 Franken und bei Ehepaaren und Personen mit minderjährigen oder noch in Ausbildung stehenden und weniger als 25 Jahre alten Kindern 1950 Franken übersteigen; das Erwerbseinkommen von Ehegatten ohne Anspruch auf Überbrückungsleistungen wird zu 80 Prozent angerechnet;
 - b. Einkünfte aus beweglichem und unbeweglichem Vermögen einschliesslich des Jahreswerts einer Nutzniessung oder eines Wohnrechts oder des Jahresmietwerts einer Liegenschaft, an der die Bezügerin oder der Bezüger oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, Eigentum hat und die von mindestens einer dieser Personen bewohnt wird;
-- c. ein Fünfzehntel des Reinvermögens, soweit es bei alleinstehenden Personen 30 000 Franken, bei Ehepaaren 50 000 Franken und bei minderjährigen oder noch in Ausbildung stehenden und weniger als 25 Jahre alten Kindern 15 000 Franken übersteigt; gehört der Bezügerin oder dem Bezüger oder einer anderen Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, eine Liegenschaft, die mindestens von einer dieser Personen bewohnt wird, so ist nur der 112 500 Franken übersteigende Wert der Liegenschaft beim Vermögen zu berücksichtigen; Solidaritätsbeiträge nach Artikel 4 Absatz 1 des Bundesgesetzes vom 30. September 2016[^10-1] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981 sind beim Vermögen nicht zu berücksichtigen;
+- c. ein Fünfzehntel des Reinvermögens, soweit es bei alleinstehenden Personen 30 000 Franken, bei Ehepaaren 50 000 Franken und bei minderjährigen oder noch in Ausbildung stehenden und weniger als 25 Jahre alten Kindern 15 000 Franken übersteigt; gehört der Bezügerin oder dem Bezüger oder einer anderen Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, eine Liegenschaft, die mindestens von einer dieser Personen bewohnt wird, so ist nur der 112 500 Franken übersteigende Wert der Liegenschaft beim Vermögen zu berücksichtigen; Solidaritätsbeiträge nach Artikel 4 Absatz 1 des Bundesgesetzes vom 30. September 2016[^10-2] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981 sind beim Vermögen nicht zu berücksichtigen;
 - d. Renten, Pensionen und andere wiederkehrende Leistungen;
 - e. Leistungen aus Verpfründungsvertrag und ähnlichen Vereinbarungen;
 - f. Familienzulagen;
 - g. familienrechtliche Unterhaltsbeiträge;
-- h. die individuelle Prämienverbilligung nach Artikel 65 Absatz 1 des Bundesgesetzes vom 18. März 1994[^10-2] über die Krankenversicherung (KVG).
+- h. die individuelle Prämienverbilligung nach Artikel 65 Absatz 1 des Bundesgesetzes vom 18. März 1994[^10-3] über die Krankenversicherung (KVG).
 
 <sup>2</sup>
 
 Nicht angerechnet werden:
 
-- a. Verwandtenunterstützungen nach den Artikeln 328–330 des Zivilgesetzbuches[^10-3];
+- a. Verwandtenunterstützungen nach den Artikeln 328–330 des Zivilgesetzbuches[^10-4];
 - b. Unterstützungen der öffentlichen Sozialhilfe;
 - c. Hilflosenentschädigungen der Sozialversicherungen;
 - d. Stipendien und andere Ausbildungsbeihilfen für Kinder in Ausbildung unter 25 Jahre.
 
-[^10-1]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
-[^10-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^10-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-1]: Beträge angepasst gemäss Art. 3 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^10-2]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^10-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^10-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 11
 

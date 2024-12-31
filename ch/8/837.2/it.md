@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 2020 sulle prestazioni transitorie per i dis
 short: LPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20240101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/it"
 
 (LPTD)
 
-del 19 giugno 2020 (Stato 1° gennaio 2024)
+del 19 giugno 2020 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -53,7 +53,6 @@ La presente legge si prefigge di migliorare la protezione sociale dei lavoratori
 Chi ha compiuto i 60 anni di età e ha esaurito il diritto all’indennità di disoccupazione ha diritto a prestazioni transitorie destinate a coprire il fabbisogno vitale, fino al momento in cui:
 
 - a. raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^3-1] sull’assicurazione per la vecchiaia e i superstiti; o
-
 - b. ha diritto alla riscossione anticipata della rendita di vecchiaia, se in quel momento è prevedibile che al raggiungimento dell’età di riferimento avrà diritto alle prestazioni complementari secondo la legge federale del 6 ottobre 2006[^3-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC).[^3-3]
 
 <sup>2</sup> Ha esaurito il diritto all’indennità di disoccupazione chi ha esaurito il diritto alle indennità giornaliere dell’assicurazione contro la disoccupazione (AD) oppure perde il diritto alle indennità giornaliere dell’AD alla scadenza del termine quadro per la riscossione della prestazione e non può aprire un nuovo termine quadro per la riscossione.
@@ -160,25 +159,25 @@ Sono riconosciute le spese seguenti:
 
   un importo destinato alla copertura del fabbisogno generale vitale, per anno:
 
-  - 1\. 20 100 franchi per le persone sole,
-  - 2\. 30 150 franchi per le coppie sposate,
-  - 3\. 10 515 franchi per i figli che hanno compiuto gli 11 anni di età ma sono ancora minorenni e quelli di età inferiore a 25 anni ancora in formazione; per i primi due figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
-  - 4\. 7380 franchi per i figli che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante, per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
+  - 1\. 20 670 franchi per le persone sole;
+  - 2\. 31 005 franchi per le coppie sposate,
+  - 3\. 10 815 franchi per i figli che hanno compiuto gli 11 anni di età ma sono ancora minorenni e quelli di età inferiore a 25 anni ancora in formazione; per i primi due figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
+  - 4\. 7590 franchi per i figli che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante, per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
 
 - b.[^9-2]
 
   la pigione di un appartamento e le relative spese accessorie; in caso di conguaglio per le spese accessorie, non si tiene conto né del saldo attivo né di quello passivo; l’importo massimo annuo riconosciuto è il seguente:
 
-  - 1\. 17 580 franchi nella regione 1, 17 040 franchi nella regione 2 e 15 540 franchi nella regione 3 per le persone che vivono sole,
+  - 1\. 18 900 franchi nella regione 1, 18 300 franchi nella regione 2 e 16 680 franchi nella regione 3 per le persone che vivono sole,
   - 2\.
 
     se più persone vivono nella stessa economia domestica, un supplemento di:
 
-    - – 3240 franchi nella regione 1, 3180 franchi nella regione 2 e 3240 franchi nella regione 3 per la seconda persona
-    - – 2280 franchi nella regione 1 e 1920 franchi nelle regioni 2 e 3 per la terza persona
-    - – 2100 franchi nella regione 1, 1980 franchi nella regione 2 e 1680 franchi nella regione 3 per la quarta persona,
+    - – 3420 franchi nella regione 1, 3420 franchi nella regione 2 e 3480 franchi nella regione 3 per la seconda persona
+    - – 2460 franchi nella regione 1 e 2040 franchi nelle regioni 2 e 3 per la terza persona
+    - – 2280 franchi nella regione 1, 2160 franchi nella regione 2 e 1800 franchi nella regione 3 per la quarta persona,
 
-  - 3\. 6420 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
+  - 3\. 6900 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
 
 - c. in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietarie, usufruttuarie o sul quale hanno un diritto d’abitazione; la lettera b si applica per analogia;
 - d. le spese per il conseguimento del reddito, fino a concorrenza del reddito lordo dell’attività lucrativa;
@@ -205,8 +204,8 @@ Per le persone che condividono l’alloggio e per le quali non è effettuato un 
 
 <sup>7</sup> Il Consiglio federale verifica almeno ogni dieci anni se e in che misura gli importi massimi coprono le pigioni effettive dei beneficiari di prestazioni transitorie e pubblica i risultati del suo esame. Anticipa l’esame e la pubblicazione se l’indice delle pigioni ha subito una variazione di oltre il 10 per cento dall’ultimo esame.
 
-[^9-1]: Importi adeguati dall’art. 1 dell’O 23 del 12 ott. 2022 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° gen. 2023 ([RU 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
-[^9-2]: Importi adeguati dall’art. 2 dell’O 23 del 12 ott. 2022 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° gen. 2023 ([RU 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^9-1]: Importi adeguati dall’art. 1 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^9-2]: Importi adeguati dall’art. 2 dell’O del 28 ago. 2024s ull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^9-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 10
@@ -217,27 +216,28 @@ Per le persone che condividono l’alloggio e per le quali non è effettuato un 
 
 Sono computati come reddito:
 
-- a. due terzi dei redditi da attività lucrativa in denaro o in natura, per quanto superino annualmente 1000 franchi per le persone sole e 1500 franchi per le coppie sposate e le persone con figli minorenni o di età inferiore a 25 anni ancora in formazione; per i coniugi che non hanno diritto alla prestazione transitoria, il reddito da attività lucrativa è computato in ragione dell’80 per cento;
+- a.[^10-1] due terzi dei redditi da attività lucrativa in denaro o in natura, per quanto superino annualmente 1300 franchi per le persone sole e 1950 franchi per le coppie sposate e le persone con figli minorenni o di età inferiore a 25 anni ancora in formazione; per i coniugi che non hanno diritto alla prestazione transitoria, il reddito da attività lucrativa è computato in ragione dell’80 per cento;
 - b. i proventi della sostanza mobile e immobile, incluso il valore annuo di un usufrutto o di un diritto di abitazione oppure il valore locativo annuo di un immobile di cui il beneficiario della prestazione transitoria o un’altra persona compresa nel calcolo di questa prestazione sono proprietari e che serve quale abitazione ad almeno una di queste persone;
-- c. un quindicesimo della sostanza netta, per quanto superi 30 000 franchi per le persone sole, 50 000 franchi per le coppie sposate e 15 000 franchi per i figli minorenni o di età inferiore a 25 anni ancora in formazione; se il beneficiario della prestazione transitoria o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietari di un immobile che serve quale abitazione ad almeno una di queste persone, soltanto il valore dell’immobile eccedente 112 500 franchi è computato quale sostanza; il contributo di solidarietà di cui all’articolo 4 capoverso 1 della legge federale del 30 settembre 2016[^10-1] sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981 non è computato quale sostanza;
+- c. un quindicesimo della sostanza netta, per quanto superi 30 000 franchi per le persone sole, 50 000 franchi per le coppie sposate e 15 000 franchi per i figli minorenni o di età inferiore a 25 anni ancora in formazione; se il beneficiario della prestazione transitoria o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietari di un immobile che serve quale abitazione ad almeno una di queste persone, soltanto il valore dell’immobile eccedente 112 500 franchi è computato quale sostanza; il contributo di solidarietà di cui all’articolo 4 capoverso 1 della legge federale del 30 settembre 2016[^10-2] sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981 non è computato quale sostanza;
 - d. le rendite, le pensioni e le altre prestazioni periodiche;
 - e. le prestazioni derivanti da un contratto di vitalizio o da una convenzione analoga;
 - f. gli assegni familiari;
 - g. le pensioni alimentari previste dal diritto di famiglia;
-- h. la riduzione individuale dei premi secondo l’articolo 65 capoverso 1 della legge federale del 18 marzo 1994[^10-2] sull’assicurazione malattie (LAMal).
+- h. la riduzione individuale dei premi secondo l’articolo 65 capoverso 1 della legge federale del 18 marzo 1994[^10-3] sull’assicurazione malattie (LAMal).
 
 <sup>2</sup>
 
 Non sono computati:
 
-- a. le prestazioni dei parenti secondo gli articoli 328–330 del Codice civile[^10-3];
+- a. le prestazioni dei parenti secondo gli articoli 328–330 del Codice civile[^10-4];
 - b. le prestazioni dell’aiuto pubblico sociale;
 - c. gli assegni per grandi invalidi delle assicurazioni sociali;
 - d. le borse di studio e altri aiuti all’istruzione per i figli di età inferiore a 25 anni ancora in formazione.
 
-[^10-1]: [<sup>RS</sup> <sup>211.223.13</sup>](https://fedlex.data.admin.ch/eli/cc/2017/145)
-[^10-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^10-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-1]: Importi adeguati dall’art. 3 cpv. 2 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^10-2]: [<sup>RS</sup> <sup>211.223.13</sup>](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^10-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^10-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 11
 

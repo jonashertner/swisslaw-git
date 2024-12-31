@@ -4,11 +4,11 @@ title: Loi fédérale du 19 juin 2020 sur les prestations transitoires pour les 
 short: LPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/fr"
 
 (LPtra)
 
-du 19 juin 2020 (État le 1<sup>er</sup> janvier 2024)
+du 19 juin 2020 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -159,25 +159,25 @@ Les dépenses reconnues comprennent:
 
   les montants destinés à la couverture des besoins vitaux, soit par année:
 
-  - 1\. 20 100 francs pour les personnes seules,
-  - 2\. 30 150 francs pour les couples,
-  - 3\. 10 515 francs pour les enfants mineurs âgés de 11 ans ou plus et pour les enfants encore en formation âgés de moins de 25 ans, la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
-  - 4\. 7380 francs pour les enfants âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
+  - 1\. 20 670 francs pour les personnes seules,
+  - 2\. 31 005 francs pour les couples,
+  - 3\. 10 815 francs pour les enfants mineurs âgés de 11 ans ou plus et pour les enfants encore en formation âgés de moins de 25 ans, la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
+  - 4\. 7590 francs pour les enfants âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
 
 - b.[^9-2]
 
   le loyer d’un appartement et les frais accessoires y relatifs; en cas de présentation d’un décompte final des frais accessoires, ni demande de restitution, ni paiement rétroactif ne peuvent être pris en considération; le montant annuel maximal reconnu est de:
 
-  - 1\. pour une personne vivant seule: 17 580 francs dans la région 1, 17 040 francs dans la région 2 et 15 540 francs dans la région 3,
+  - 1\. pour une personne vivant seule: 18 900 francs dans la région 1, 18 300 francs dans la région 2 et 16 680 francs dans la région 3,
   - 2\.
 
     si plusieurs personnes vivent dans le même ménage:
 
-    - – pour la deuxième personne: un supplément de 3240 francs dans la région 1, de 3180 francs dans la région 2 et de 3240 francs dans la région 3
-    - – pour la troisième personne: un supplément de 2280 francs dans la région 1 et de 1920 francs dans les régions 2 et 3
-    - – pour la quatrième personne: un supplément de 2100 francs dans la région 1, de 1980 francs dans la région 2 et de 1680 francs dans la région 3,
+    - – pour la deuxième personne: un supplément de 3420 francs dans la région 1, de 3420 francs dans la région 2 et de 3480 francs dans la région 3
+    - – pour la troisième personne: un supplément de 2460 francs dans la région 1 et de 2040 francs dans les régions 2 et 3
+    - – pour la quatrième personne: un supplément de 2280 francs dans la région 1, de 2160 francs dans la région 2 et de 1800 francs dans la région 3,
 
-  - 3\. 6420 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
+  - 3\. 6900 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
 
 - c. la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul des prestations transitoires ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie;
 - d. les frais d’obtention du revenu, jusqu’à concurrence du revenu brut de l’activité lucrative;
@@ -204,8 +204,8 @@ Pour les personnes vivant en communauté d’habitation, lorsqu’il n’y a pas
 
 <sup>7</sup> Le Conseil fédéral examine au moins tous les dix ans si et dans quelle mesure les montants maximaux couvrent le loyer effectif des bénéficiaires de prestations transitoires et rend publics les résultats de son examen. Il procède à cet examen et à la publication plus tôt si l’indice des loyers a évolué de plus de 10 % depuis le dernier examen.
 
-[^9-1]: Montants mis à jour par l’art. 1 de l’O 23 du 12 oct. 2022 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
-[^9-2]: Montants mis à jour par l’art. 2 de l’O 23 du 12 oct. 2022 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^9-1]: Montants adaptés selon l’art. 1 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^9-2]: Montants adaptés selon l’art. 2 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
 [^9-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 10
@@ -216,27 +216,28 @@ Pour les personnes vivant en communauté d’habitation, lorsqu’il n’y a pas
 
 Les revenus déterminants comprennent:
 
-- a. deux tiers des ressources en espèces ou en nature provenant de l’exercice d’une activité lucrative, pour autant qu’elles excèdent annuellement 1000 francs pour les personnes seules et 1500 francs pour les couples et les personnes qui ont des enfants mineurs ou des enfants encore en formation âgés de moins de 25 ans; le revenu de l’activité lucrative du conjoint qui n’a pas droit aux prestations transitoires est pris en compte à hauteur de 80 %;
+- a.[^10-1] deux tiers des ressources en espèces ou en nature provenant de l’exercice d’une activité lucrative, pour autant qu’elles excèdent annuellement 1300 francs pour les personnes seules et 1950 francs pour les couples et les personnes qui ont des enfants mineurs ou des enfants encore en formation âgés de moins de 25 ans; le revenu de l’activité lucrative du conjoint qui n’a pas droit aux prestations transitoires est pris en compte à hauteur de 80 %;
 - b. le produit de la fortune mobilière et immobilière, y compris la valeur annuelle d’un usufruit ou d’un droit d’habitation ou la valeur locative annuelle d’un immeuble dont le bénéficiaire de prestations transitoires ou une autre personne comprise dans le calcul de ces prestations est propriétaire, et qui sert d’habitation à l’une de ces personnes au moins;
-- c. un quinzième de la fortune nette, dans la mesure où elle dépasse 30 000 francs pour les personnes seules, 50 000 francs pour les couples et 15 000 francs pour les enfants mineurs ou les enfants encore en formation âgés de moins de 25 ans; si le bénéficiaire de prestations transitoires ou une autre personne comprise dans le calcul de ces prestations est propriétaire d’un immeuble qui sert d’habitation à l’une de ces personnes au moins, seule la valeur de l’immeuble supérieure à 112 500 francs entre en considération au titre de la fortune; les contributions de solidarité prévues à l’art. 4, al. 1, de la loi fédérale du 30 septembre 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981[^10-1] n’entrent pas en considération au titre de la fortune;
+- c. un quinzième de la fortune nette, dans la mesure où elle dépasse 30 000 francs pour les personnes seules, 50 000 francs pour les couples et 15 000 francs pour les enfants mineurs ou les enfants encore en formation âgés de moins de 25 ans; si le bénéficiaire de prestations transitoires ou une autre personne comprise dans le calcul de ces prestations est propriétaire d’un immeuble qui sert d’habitation à l’une de ces personnes au moins, seule la valeur de l’immeuble supérieure à 112 500 francs entre en considération au titre de la fortune; les contributions de solidarité prévues à l’art. 4, al. 1, de la loi fédérale du 30 septembre 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981[^10-2] n’entrent pas en considération au titre de la fortune;
 - d. les rentes, pensions et autres prestations périodiques;
 - e. les prestations touchées en vertu d’un contrat d’entretien viager ou de toute autre convention analogue;
 - f. les allocations familiales;
 - g. les contributions d’entretien prévues par le droit de la famille;
-- h. la réduction individuelle des primes au sens de l’art. 65, al. 1, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^10-2].
+- h. la réduction individuelle des primes au sens de l’art. 65, al. 1, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^10-3].
 
 <sup>2</sup>
 
 Ne sont pas pris en compte:
 
-- a. les aliments fournis par les parents en vertu des art. 328 à 330 du code civil[^10-3];
+- a. les aliments fournis par les parents en vertu des art. 328 à 330 du code civil[^10-4];
 - b. les prestations d’aide sociale;
 - c. les allocations pour impotent des assurances sociales;
 - d. les bourses d’études et autres aides financières destinées à l’instruction qui sont octroyées pour les enfants en formation âgés de moins de 25 ans.
 
-[^10-1]: [RS 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
-[^10-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^10-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-1]: Montants adaptés selon l’art. 3 al. 2 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^10-2]: [RS 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^10-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^10-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 11
 
@@ -504,7 +505,7 @@ La modification d’autres actes est réglée en annexe.
 
 <sup>1</sup> Les personnes qui sont arrivées en fin de droit dans l’assurance-chômage avant l’entrée en vigueur de la présente loi n’ont pas droit aux prestations transitoires.
 
-<sup>1bis</sup> ...[^30-1]
+<sup>1bis</sup> …[^30-1]
 
 <sup>2</sup> L’art. 10, al. 1, let. c, 3<sup>e</sup> partie de la phrase, s’applique également aux contributions de solidarité versées avant l’entrée en vigueur de la présente loi.
 
@@ -530,6 +531,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373).
