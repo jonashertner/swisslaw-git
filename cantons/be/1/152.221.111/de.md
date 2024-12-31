@@ -4,13 +4,13 @@ number: "152.221.111"
 title: "Verordnung über die Organisation und die Aufgaben der Wirtschafts-, Energie- und Umweltdirektion"
 short: "Organisationsverordnung WEU, OrV WEU"
 language: de
-version: 2021-07-01
-valid_until: 2024-12-31
-version_adopted: 2021-05-26
+version: 2025-01-01
+valid_until: 2025-10-31
+version_adopted: 2024-11-20
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2296/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3092/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2296/pdf_file"
 
 (Organisationsverordnung WEU, OrV WEU)
 
-vom 18.10.1995 (Stand 01.07.2021)
+vom 18.10.1995 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -40,10 +40,10 @@ beschliesst:
 - a im Gebiet der wirtschaftlichen Entwicklung,
 - b im Gebiet des Arbeitsmarkts,
 - c in den Gebieten Energie, Luftreinhaltung und Immissionsschutz,
-- d im Gebiet der Landwirtschaft (einschliesslich Berufsbildung),
+- d im Gebiet der Landwirtschaft einschliesslich Berufsbildung,
 - e im Gebiet des Veterinärwesens,
 - f in den Gebieten Wald und Naturgefahren,
-- g im Gebiet der Lebensmittel,
+- g in den Gebieten Lebensmittel und Gebrauchsgegenstände sowie Tabakprodukte und elektronische Zigaretten,
 - h im Gebiet der Chemikalien,
 - i in den Gebieten Natur- und Bodenschutz,
 - k in den Gebieten Fischerei und Renaturierung öffentlicher Gewässer,
@@ -175,12 +175,13 @@ beschliesst:
 - e die Bearbeitung der Antworten auf parlamentarische Vorstösse, die Überwachung des Vollzugs und die Vorbereitung parlamentarischer Geschäfte,
 - f die Vermittlung des Verkehrs mit dem Regierungsrat, der Staatskanzlei, den Organen des Grossen Rates, den Direktionen sowie den Behörden des Bundes und anderer Kantone, soweit er nicht einer anderen Dienststelle übertragen ist,
 - g alle Rechtsfragen der Direktion und ihrer Ämter, ausgenommen das AVA,
-- g1 die Instruktion von Beschwerden gegen Verfügungen der Ämter mit Ausnahme des AVA und die Vertretung der Direktion sowie des Regierungsrates im Rahmen der Zuständigkeit der Direktion vor kantonalen und eidgenössischen Gerichten und Rechtsmittelinstanzen durch die Rechtsabteilung,
+- g1 die Instruktion von Beschwerdeverfahren der Direktion und die Vertretung der Direktion sowie des Regierungsrates im Rahmen der Zuständigkeit der Direktion vor kantonalen und eidgenössischen Gerichten und Rechtsmittelinstanzen durch die Rechtsabteilung,
 - g2 die Vorbereitung der Gesetzgebung im Zuständigkeitsbereich der Direktion und die Unterstützung der Ämter bei ihren Gesetzgebungsaufgaben,
 - h das Finanz-, Rechnungs- und Personalwesen, die Zweisprachigkeit, die Informatik und die Kommunikation der ganzen Direktion, mit Ausnahme des Finanz- und Rechnungswesens des AVA in den durch das Bundesrecht finanzierten Vollzugsaufgaben,
 - h1 die Koordination weiterer Querschnittsaufgaben der Direktion (z.B. Raumnutzung, Beschaffungswesen),
 - i …
-- k die administrative Betreuung der GVB und der BKW AG gemäss Richtlinien über die Führung, Steuerung und Aufsicht von Trägern öffentlicher Aufgaben,
+- k die administrative Betreuung der GVB und der BKW AG gemäss Richtlinien über die Führung, Steuerung und Aufsicht von anderen Trägern öffentlicher Aufgaben und Beteiligungen im öffentlichen Interesse (PCG-Richtlinien),
+- k1 die Wahrnehmung der Eignerrolle bei den von der Direktion betreuten anderen Trägerinnen und Trägern öffentlicher Aufgaben und Beteiligungen im öffentlichen Interesse, sofern dies aus Governance-Gründen erforderlich ist,
 - l die Leitung von Projekten oder Gremien von strategischer Bedeutung für den Kanton oder die Wirtschafts-, Energie- und Umweltdirektion im Auftrag der Direktorin oder des Direktors.
 
 <sup>2</sup> …
@@ -212,7 +213,7 @@ beschliesst:
 - o die polizeilichen Aufgaben im Naturschutz, in der Fischerei und in der Jagd,
 - p …
 - q die Führungsunterstützungs- und Querschnittsaufgaben in seinem Zuständigkeitsbereich,
-- r die administrative Betreuung der Bernischen Stiftung für Agrarkredite gemäss Richtlinien über die Führung, Steuerung und Aufsicht von Trägern öffentlicher Aufgaben.
+- r die administrative Betreuung der Bernischen Stiftung für Agrarkredite gemäss PCG-Richtlinien.
 
 <sup>2</sup> Dem Amt für Landwirtschaft und Natur sind die landwirtschaftlichen und bäuerlich-hauswirtschaftlichen Bildungs- und Beratungszentren unterstellt.
 
@@ -240,6 +241,7 @@ beschliesst:
 <sup>1</sup> Das Amt für Wald und Naturgefahren ist zuständig für
 
 - a die Erhaltung und den Schutz des Waldes und seiner Funktionen,
+- a1 die Erhaltung und die Förderung der Lebensraum- und Artenvielfalt im Wald,
 - b die Waldwirtschaft und die Waldverbesserung sowie deren Förderung,
 - c die Staatswaldbewirtschaftung,
 - d–e …
@@ -268,7 +270,7 @@ beschliesst:
 - i die Statistik und Beobachtung der Entwicklungen in seinem Zuständigkeitsbereich,
 - k …
 - l die Führungsunterstützungs- und Querschnittsaufgaben in seinem Zuständigkeitsbereich,
-- m die administrative Betreuung der Flughafen Bern AG, der Messepark Bern AG und der Made in Bern AG gemäss Richtlinien über die Führung, Steuerung und Aufsicht von Trägern öffentlicher Aufgaben.
+- m die administrative Betreuung der Flughafen Bern AG, der Messepark Bern AG und der Made in Bern AG gemäss PCG-Richtlinien.
 
 <sup>2</sup> …
 
@@ -293,7 +295,7 @@ beschliesst:
 - d die kantonale Arbeitslosenkasse (ALK),
 - e die Steuerungsgruppe für interinstitutionelle Zusammenarbeit (IIZ).
 
-<sup>3</sup> Es ist zuständig für die Führungsunterstützung und Querschnittsaufgaben im eigenen Zuständigkeitsbereich
+<sup>3</sup> Es ist zuständig für die Führungsunterstützungs- und Querschnittsaufgaben in seinem Zuständigkeitsbereich.
 
 #### Art. 11
 
@@ -310,12 +312,14 @@ beschliesst:
 <sup>3</sup> Es ist insbesondere zuständig für
 
 - a den Vollzug der eidgenössischen Lebensmittelgesetzgebung mit Ausnahme der Bereiche Primärproduktion von Lebensmitteln tierischer Herkunft und Schlachtung,
+- a1 den Vollzug der eidgenössischen Tabakproduktegesetzgebung, soweit der Vollzug nicht in die Zuständigkeit anderer Ämter, anderer Direktionen oder der Gemeinden fällt,
 - b den Vollzug der eidgenössischen Chemikaliengesetzgebung nach den Bestimmungen der Einführungsverordnung vom 24. Mai 2006 zur eidgenössischen Chemikaliengesetzgebung (EV ChemG)[^11a-2],
 - c den Vollzug der Verordnung des Bundesrates vom 27. Februar 1991 über den Schutz vor Störfällen (Störfallverordnung, StFV)[^11a-3] nach den Bestimmungen der Einführungsverordnung vom 22. September 1993 zur eidgenössischen Störfallverordnung (EV StFV)[^11a-4],
 - d den Vollzug der eidgenössischen Strahlenschutzgesetzgebung, soweit der Vollzug nicht dem Bund vorbehalten ist,
-- e den Vollzug der Verordnung des Bundesrates vom 5. Juli 2000 über Getränkeverpackungen (VGV)[^11a-5], der Verordnung des Bundesrates vom 15. Juni 2001 über Gefahrgutbeauftragte für die Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässern (Gefahrgutbeauftragtenverordnung, GGBV)[^11a-6], der Verordnung des Bundesrates vom 9. Mai 2012 über den Umgang mit Organismen in geschlossenen Systemen (Einschliessungsverordnung, ESV)[^11a-7] sowie der Verordnung des Bundesrates vom 10. September 2008 über den Umgang mit Organismen in der Umwelt (Freisetzungsverordnung, FrSV)[^11a-8],
-- f den Vollzug der Verordnung des Bundesrates vom 26. November 2003 über die Deklaration für landwirtschaftliche Erzeugnisse aus in der Schweiz verbotener Produktion (Landwirtschaftliche Deklarationsverordnung, LDV)[^11a-9],
-- g den Vollzug der Marktüberwachung nach der Verordnung des Bundesrates vom 10. Januar 2001 über das Inverkehrbringen von Düngern (Dünger-Verordnung, DüV)[^11a-10],
+- d1 den Vollzug des ersten Abschnitts (Verwendung von Solarien) und - soweit Personen mit einem Sachkundenachweis mit Prüfung betroffen sind - des zweiten Abschnitts (Verwendung von Produkten für kosmetische Zwecke) der Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG)[^11a-5],
+- e den Vollzug der Verordnung des Bundesrates vom 5. Juli 2000 über Getränkeverpackungen (VGV)[^11a-6], der Verordnung des Bundesrates vom 15. Juni 2001 über Gefahrgutbeauftragte für die Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässern (Gefahrgutbeauftragtenverordnung, GGBV)[^11a-7], der Verordnung des Bundesrates vom 9. Mai 2012 über den Umgang mit Organismen in geschlossenen Systemen (Einschliessungsverordnung, ESV)[^11a-8] sowie der Verordnung des Bundesrates vom 10. September 2008 über den Umgang mit Organismen in der Umwelt (Freisetzungsverordnung, FrSV)[^11a-9],
+- f den Vollzug der Verordnung des Bundesrates vom 26. November 2003 über die Deklaration für landwirtschaftliche Erzeugnisse aus in der Schweiz verbotener Produktion (Landwirtschaftliche Deklarationsverordnung, LDV)[^11a-10],
+- g den Vollzug der Marktüberwachung nach der Verordnung des Bundesrates vom 1. November 2023 über das Inverkehrbringen von Düngern (Düngerverordnung, DüV)[^11a-11],
 - h das Bewilligungswesen in seinem Bereich,
 - i die Führungsunterstützungs- und Querschnittsaufgaben in seinem Zuständigkeitsbereich.
 
@@ -327,12 +331,13 @@ beschliesst:
 [^11a-2]: BSG [813.151](https://www.belex.sites.be.ch/data/813.151/de)
 [^11a-3]: SR [814.012](https://db.clex.ch/link/Bund/814.012/de)
 [^11a-4]: BSG [820.131](https://www.belex.sites.be.ch/data/820.131/de)
-[^11a-5]: SR [814.621](https://db.clex.ch/link/Bund/814.621/de)
-[^11a-6]: SR [741.622](https://db.clex.ch/link/Bund/741.622/de)
-[^11a-7]: SR [814.912](https://db.clex.ch/link/Bund/814.912/de)
-[^11a-8]: SR [814.911](https://db.clex.ch/link/Bund/814.911/de)
-[^11a-9]: SR [916.51](https://db.clex.ch/link/Bund/916.51/de)
-[^11a-10]: SR [916.171](https://db.clex.ch/link/Bund/916.171/de)
+[^11a-5]: SR [814.711](https://db.clex.ch/link/Bund/814.711/de)
+[^11a-6]: SR [814.621](https://db.clex.ch/link/Bund/814.621/de)
+[^11a-7]: SR [741.622](https://db.clex.ch/link/Bund/741.622/de)
+[^11a-8]: SR [814.912](https://db.clex.ch/link/Bund/814.912/de)
+[^11a-9]: SR [814.911](https://db.clex.ch/link/Bund/814.911/de)
+[^11a-10]: SR [916.51](https://db.clex.ch/link/Bund/916.51/de)
+[^11a-11]: SR [916.171](https://db.clex.ch/link/Bund/916.171/de)
 
 #### Art. 11b
 

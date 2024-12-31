@@ -4,13 +4,13 @@ number: "152.221.111"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'économie, de l'énergie et de l'environnement *"
 short: "Ordonnance d'organisation DEEE, OO DEEE"
 language: fr
-version: 2021-07-01
-valid_until: 2024-12-31
-version_adopted: 2021-05-26
+version: 2025-01-01
+valid_until: 2025-10-31
+version_adopted: 2024-11-20
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2296/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3092/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2296/pdf_file"
 
 (Ordonnance d'organisation DEEE, OO DEEE)
 
-du 18.10.1995 (état au 01.07.2021)
+du 18.10.1995 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -40,10 +40,10 @@ arrête:
 - a du développement économique,
 - b du marché de l'emploi,
 - c de l'énergie, de la protection de l'air et de la protection contre les immissions,
-- d de l'agriculture (y compris la formation professionnelle),
+- d de l'agriculture, y compris la formation professionnelle,
 - e des affaires vétérinaires,
 - f de la forêt et des dangers naturels,
-- g des denrées alimentaires,
+- g des denrées alimentaires et des objets usuels ainsi que des produits du tabac et des cigarettes électroniques,
 - h des produits chimiques,
 - i de la protection de la nature et du sol,
 - k de la pêche et de la régénération des eaux publiques,
@@ -175,12 +175,13 @@ arrête:
 - e l'élaboration et la bonne exécution des réponses aux interventions parlementaires ainsi que la préparation des affaires parlementaires;
 - f la liaison avec le Conseil-exécutif, la Chancellerie d'Etat, les organes du Grand Conseil, les Directions ainsi que les autorités de la Confédération et d'autres cantons dans la mesure où cette tâche n'est pas attribuée à un autre service;
 - g les questions juridiques qui se posent au sein de la Direction et de ses offices, exception faite de l'OAC;
-- g1 par l'entremise du Service juridique, l'instruction des recours contre les décisions des offices, exception faire de l'OAC, et la représentation de la Direction ainsi que du Conseil-exécutif dans les limites des compétences de la Direction, devant les instances de recours et les tribunaux cantonaux et fédéraux;
+- g1 par l'entremise du Service juridique, l'instruction des procédures de recours de la Direction et la représentation de la Direction ainsi que du Conseil-exécutif dans les limites des compétences de la Direction, devant les instances de recours et les tribunaux cantonaux et fédéraux;
 - g2 la préparation de la législation relevant du champ de compétences de la Direction et le soutien aux offices dans leur activité législative;
 - h les activités qui ont trait aux finances, à la comptabilité, au personnel, au bilinguisme, à l'informatique et à la communication au sein de la Direction, exception faite des finances et de la comptabilité de l'OAC pour les tâches d'exécution financées par le droit fédéral;
 - h1 la coordination d'autres tâches interoffices de la Direction (p. ex. utilisation des locaux, marchés publics);
 - i …
-- k la gestion administrative de l'AIB et de BKW SA selon les lignes directrices sur la conduite, le pilotage et la surveillance des organisations chargées de tâches publiques;
+- k la gestion administrative de l'AIB et de BKW SA selon les Lignes directrices sur la conduite, le pilotage et la surveillance des autres organisations chargées de tâches publiques et des participations relevant de l’intérêt public (Lignes directrices du canton de Berne sur la gouvernance des entreprises publiques);
+- k1 l'exercice du rôle de propriétaire auprès des autres organisations chargées de tâches publiques et des participations relevant de l'intérêt public gérées par la Direction, lorsque cela est nécessaire pour des raisons de gouvernance;
 - l la direction, sur mandat du directeur ou de la directrice, des projets et comités qui revêtent une importance stratégique pour le canton ou la Direction de l'économie, de l'énergie et de l'environnement.
 
 <sup>2</sup> …
@@ -212,7 +213,7 @@ arrête:
 - o les tâches de police ayant trait à la protection de la nature, à la pêche et à la chasse;
 - p …
 - q les tâches de soutien à la conduite et les tâches interoffices relevant de son champ de compétences;
-- r la gestion administrative de la Fondation bernoise de crédit agricole selon les lignes directrices sur la conduite, le pilotage et la surveillance des organisations chargées de tâches publiques.
+- r la gestion administrative de la Fondation bernoise de crédit agricole selon les Lignes directrices du canton de Berne sur la gouvernance des entreprises publiques.
 
 <sup>2</sup> Les centres de formation et de vulgarisation en matière d'agriculture et d'économie ménagère rurale sont subordonnés à l'Office de l'agriculture et de la nature.
 
@@ -240,6 +241,7 @@ arrête:
 <sup>1</sup> L'Office des forêts et des dangers naturels est compétent pour
 
 - a la conservation et la protection des forêts et des fonctions de celle-ci;
+- a1 la conservation et la promotion de la diversité des habitats et des espèces en forêt;
 - b l'économie forestière et les améliorations forestières ainsi que pour leur promotion;
 - c la gestion des forêts domaniales;
 - d–e …
@@ -268,7 +270,7 @@ arrête:
 - i la statistique et l'observation des développements relevant de son champ de compétences;
 - k …
 - l les tâches de soutien à la conduite et les tâches interoffices relevant de son champ de compétences;
-- m la gestion administrative de Flughafen Bern SA, de Messepark Bern AG et de Made in Bern AG selon les lignes directrices sur la conduite, le pilotage et la surveillance des organisations chargées de tâches publiques.
+- m la gestion administrative de Flughafen Bern SA, de Messepark Bern AG et de Made in Bern AG selon les Lignes directrices du canton de Berne sur la gouvernance des entreprises publiques.
 
 <sup>2</sup> …
 
@@ -310,12 +312,14 @@ arrête:
 <sup>3</sup> Il est en particulier compétent pour
 
 - a l’exécution de la législation fédérale sur les denrées alimentaires, à l'exception des domaines de la production primaire de denrées alimentaires d'origine animale et de l'abattage;
+- a1 l'exécution de la législation fédérale sur les produits du tabac, pour autant qu'elle ne relève pas de la compétence d'autres offices, d'autres Directions ou des communes;
 - b l'exécution de la législation fédérale sur les produits chimiques conformément aux dispositions de l'ordonnance du 24 mai 2006 portant introduction à la loi fédérale sur les produits chimiques (OiLChim)[^11a-2];
 - c l'exécution de l'ordonnance fédérale du 27 février 1991 sur la protection contre les accidents majeurs (ordonnance sur les accidents majeurs, OPAM)[^11a-3], conformément aux dispositions de l'ordonnance du 22 septembre 1993 d'introduction de l'ordonnance fédérale sur les accidents majeurs (OiOPAM)[^11a-4];
 - d l'exécution de la législation fédérale sur la radioprotection, pour autant qu'elle ne relève pas de la Confédération;
-- e l’exécution de l’ordonnance fédérale du 5 juillet 2000 sur les emballages pour boissons (OEB)[^11a-5], de l’ordonnance fédérale du 15 juin 2001 sur les conseillers à la sécurité pour le transport de marchandises dangereuses par route, par rail ou par voie navigable (ordonnance sur les conseillers à la sécurité, OCS)[^11a-6], de l’ordonnance fédérale du 9 mai 2012 sur l’utilisation des organismes en milieu confiné (ordonnance sur l’utilisation confinée, OUC)[^11a-7] ainsi que de l’ordonnance fédérale du 10 septembre 2008 sur l’utilisation d’organismes dans l’environnement (ordonnance sur la dissémination dans l’environnement, ODE)[^11a-8];
-- f l'exécution de l'ordonnance fédérale du 26 novembre 2003 relative à la déclaration de produits agricoles issus de modes de production interdits en Suisse (ordonnance agricole sur la déclaration, OAgrD)[^11a-9];
-- g l'exécution de la surveillance du marché en vertu de l'ordonnance fédérale du 10 janvier 2001 sur la mise en circulation des engrais (ordonnance sur les engrais, OEng)[^11a-10];
+- d1 l'exécution de la section 1 (Utilisation de solariums) et - si des personnes disposant d'une attestation de compétences sanctionnant un examen sont concernées - de la section 2 (Utilisation de produits à visées esthétiques) de l'ordonnance du 27 février 2019 relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son (O-LRNIS)[^11a-5];
+- e l’exécution de l’ordonnance fédérale du 5 juillet 2000 sur les emballages pour boissons (OEB)[^11a-6], de l’ordonnance fédérale du 15 juin 2001 sur les conseillers à la sécurité pour le transport de marchandises dangereuses par route, par rail ou par voie navigable (ordonnance sur les conseillers à la sécurité, OCS)[^11a-7], de l’ordonnance fédérale du 9 mai 2012 sur l’utilisation des organismes en milieu confiné (ordonnance sur l’utilisation confinée, OUC)[^11a-8] ainsi que de l’ordonnance fédérale du 10 septembre 2008 sur l’utilisation d’organismes dans l’environnement (ordonnance sur la dissémination dans l’environnement, ODE)[^11a-9];
+- f l'exécution de l'ordonnance fédérale du 26 novembre 2003 relative à la déclaration de produits agricoles issus de modes de production interdits en Suisse (ordonnance agricole sur la déclaration, OAgrD)[^11a-10];
+- g l'exécution de la surveillance du marché en vertu de l'ordonnance fédérale du 1<sup>er</sup> novembre 2023 sur la mise en circulation des engrais (ordonnance sur les engrais, OEng)[^11a-11];
 - h les autorisations relevant de son domaine;
 - i les tâches de soutien à la conduite et les tâches interoffices relevant de son champ de compétences.
 
@@ -327,12 +331,13 @@ arrête:
 [^11a-2]: RSB [813.151](https://www.belex.sites.be.ch/data/813.151/fr)
 [^11a-3]: RS [814.012](https://db.clex.ch/link/Bund/814.012/fr)
 [^11a-4]: RSB [820.131](https://www.belex.sites.be.ch/data/820.131/fr)
-[^11a-5]: RS [814.621](https://db.clex.ch/link/Bund/814.621/fr)
-[^11a-6]: RS [741.622](https://db.clex.ch/link/Bund/741.622/fr)
-[^11a-7]: RS [814.912](https://db.clex.ch/link/Bund/814.912/fr)
-[^11a-8]: RS [814.911](https://db.clex.ch/link/Bund/814.911/fr)
-[^11a-9]: RS [916.51](https://db.clex.ch/link/Bund/916.51/fr)
-[^11a-10]: RS [916.171](https://db.clex.ch/link/Bund/916.171/fr)
+[^11a-5]: RS [814.711](https://db.clex.ch/link/Bund/814.711/fr)
+[^11a-6]: RS [814.621](https://db.clex.ch/link/Bund/814.621/fr)
+[^11a-7]: RS [741.622](https://db.clex.ch/link/Bund/741.622/fr)
+[^11a-8]: RS [814.912](https://db.clex.ch/link/Bund/814.912/fr)
+[^11a-9]: RS [814.911](https://db.clex.ch/link/Bund/814.911/fr)
+[^11a-10]: RS [916.51](https://db.clex.ch/link/Bund/916.51/fr)
+[^11a-11]: RS [916.171](https://db.clex.ch/link/Bund/916.171/fr)
 
 #### Art. 11b
 
