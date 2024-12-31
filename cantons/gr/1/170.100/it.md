@@ -4,13 +4,13 @@ number: "170.100"
 title: Legge sul Gran Consiglio
 short: LGC
 language: it
-version: 2023-10-01
-valid_until: 2024-12-31
+version: 2025-01-01
+valid_until: 2025-04-30
 version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3314/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3378/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3314/pdf_file"
 
 (LGC)
 
-del 08.12.2005 (stato 01.10.2023)
+del 08.12.2005 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -190,7 +190,7 @@ decide:
 
 **Commissione parlamentare d'inchiesta**
 
-<sup>1</sup> Se si verificano avvenimenti di grande portata nell'amministrazione dello Stato o della giustizia, che necessitano di particolari chiarimenti, il Gran Consiglio può, dopo aver udito il Governo risp. le massime autorità giudiziarie, istituire una Commissione parlamentare d'inchiesta.
+<sup>1</sup> Se si verificano avvenimenti di grande portata nell'amministrazione dello Stato o della giustizia tali da richiedere particolari chiarimenti, il Gran Consiglio può, dopo aver udito il Governo o il Tribunale d'appello, istituire una Commissione parlamentare d'inchiesta.
 
 <sup>2</sup> La Commissione parlamentare d'inchiesta accerta le fattispecie e fornisce ulteriori criteri di giudizio. Essa riferisce al Gran Consiglio e formula proposte.
 
@@ -248,9 +248,9 @@ decide:
 
 **In generale 1. Diritto all'informazione e alla visione degli atti**
 
-<sup>1</sup> Per giudicare affari loro attribuiti, le commissioni hanno il diritto di richiedere informazioni utili e, dopo aver udito il Governo, la massima autorità giudiziaria o le commissioni di vigilanza sui notai e sugli avvocati, di prendere visione dei necessari atti ufficiali.
+<sup>1</sup> Per giudicare affari loro attribuiti, le commissioni hanno il diritto di richiedere informazioni utili e, dopo aver udito il Governo, il Tribunale d'appello o il Tribunale della magistratura, di prendere visione dei necessari atti ufficiali.
 
-<sup>2</sup> I diritti d'informazione e di verifica, di cui alla presente sezione, nei confronti dei tribunali e delle commissioni di vigilanza sui notai e sugli avvocati concernono in ogni caso solo questioni inerenti la gestione e l'amministrazione della giustizia.
+<sup>2</sup> I diritti d'informazione e di verifica nei confronti delle autorità giudiziarie previsti dalla presente sezione concernono solo questioni inerenti l'amministrazione della giustizia.
 
 #### Art. 28
 
@@ -309,7 +309,7 @@ decide:
 
 **Commissione di giustizia e sicurezza; particolari diritti d'informazione**
 
-<sup>1</sup> Oltre ai diritti generali d'informazione previsti per le commissioni specifiche, dal Tribunale cantonale e dal Tribunale amministrativo, nonché dalle commissioni di vigilanza sui notai e sugli avvocati la Commissione di giustizia e sicurezza può, nel quadro della sua vigilanza sulla gestione e sull'amministrazione della giustizia e per quanto rilevante ai fini dell'adempimento dei suoi compiti, in particolare:
+<sup>1</sup> Oltre ai diritti generali d'informazione previsti per le commissioni specifiche, dal Tribunale d'appello nonché dal Tribunale della magistratura la Commissione di giustizia e sicurezza può, nel quadro della sua vigilanza sull'amministrazione della giustizia e per quanto rilevante ai fini dell'adempimento dei suoi compiti, in particolare:
 
 - a) esigere rapporti scritti;
 - b) convocare i presidenti alle deliberazioni e interrogarli in merito ai rapporti di gestione;
@@ -342,7 +342,9 @@ decide:
 
 **Scioglimento 1. In generale**
 
-<sup>1</sup> Il Governo può sciogliere dal vincolo del segreto d'ufficio per il rilascio di informazioni membri del Governo e persone dell'Amministrazione e può autorizzare costoro alla consegna di atti ufficiali sottostanti al segreto d'ufficio. A tale scopo per quanto riguarda giudici e persone dell'amministrazione della giustizia sono competenti le massime autorità giudiziarie.
+<sup>1</sup> Il Governo può sciogliere dal vincolo del segreto d'ufficio per il rilascio di informazioni membri del Governo e persone dell'Amministrazione e può autorizzare costoro alla consegna di atti ufficiali sottostanti al segreto d'ufficio.
+
+<sup>2</sup> Il Tribunale d'appello può liberare i membri delle autorità giudiziarie e delle altre autorità soggette alla vigilanza del Tribunale d'appello dal segreto d'ufficio per il rilascio di informazioni o autorizzarli a consegnare atti ufficiali soggetti al segreto d'ufficio.
 
 #### Art. 37
 
@@ -508,7 +510,7 @@ decide:
 
 **Istruzione e presentazione della proposta**
 
-<sup>1</sup> I ricorsi di vigilanza indirizzati al Gran Consiglio contro il Governo vengono istruiti dalla Commissione della gestione, quelli contro il Tribunale cantonale e il Tribunale amministrativo dalla Commissione di giustizia e sicurezza.
+<sup>1</sup> I ricorsi di vigilanza indirizzati al Gran Consiglio contro il Governo vengono istruiti dalla Commissione della gestione, quelli contro il Tribunale d'appello e il Tribunale della magistratura dalla Commissione di giustizia e sicurezza.
 
 <sup>2</sup> La commissione istruente procede a tutti i chiarimenti opportuni e sottopone al Gran Consiglio per la successiva sessione un rapporto e una proposta.
 
@@ -608,6 +610,14 @@ decide:
 
 <sup>2</sup> Per quanto possibile, il Governo sottopone il progetto di ordinanza governativa di esecuzione per informazione alla Commissione competente.
 
+#### Art. 64b
+
+**Messaggi**
+
+<sup>1</sup> Di norma il Governo motiva i propri decreti mediante messaggi.
+
+<sup>2</sup> I messaggi che concernono principalmente questioni dell'amministrazione della giustizia devono essere elaborati in collaborazione con il Tribunale d'appello.
+
 ### 6.2. Rapporti speciali
 
 #### Art. 65
@@ -646,6 +656,33 @@ decide:
 <sup>1</sup> Il Governo informa per tempo le competenti commissioni permanenti, riguardo ad imminenti trattative relative a convenzioni internazionali o intercantonali in ambito legislativo.
 
 <sup>2</sup> Nel corso delle trattative le commissioni offrono consulenza al Governo e possono sottoporre proposte riguardo al contenuto delle convenzioni.
+
+## 6a. Rapporti tra Tribunale d'appello e Gran Consiglio
+
+#### Art. 68a
+
+**Richieste**
+
+<sup>1</sup> Il Tribunale d'appello può chiedere al Gran Consiglio che incarichi il Governo di elaborare un progetto costituzionale o legislativo concernente l'amministrazione della giustizia.
+
+<sup>2</sup> Il Tribunale d'appello presenta tali richieste al Gran Consiglio tramite il Governo.
+
+<sup>3</sup> Il Governo non può modificare le richieste del Tribunale d'appello. Esso può formulare osservazioni e richieste divergenti.
+
+<sup>4</sup> Per il resto la trattazione e la deliberazione relative alla richiesta del Tribunale d'appello si conformano alle regole valide per la trattazione di incarichi dei membri del Gran Consiglio.
+
+#### Art. 68b
+
+**Partecipazioni a sedute del Gran Consiglio e delle commissioni**
+
+<sup>1</sup> Il presidente del Tribunale d'appello può partecipare a sedute del Gran Consiglio e delle sue commissioni:
+
+- a) relative ad affari di gestione finanziaria concernenti la giustizia;
+- b) relative al rapporto di gestione del Tribunale d'appello;
+- c) relative a modifiche costituzionali o legislative suggerite dal Tribunale d'appello;
+- d) relative a progetti legislativi concernenti principalmente l'amministrazione della giustizia.
+
+<sup>2</sup> Il presidente del Tribunale d'appello ha voto consultivo e può presentare richieste. Può farsi accompagnare da persone attive nell'ambito dell'amministrazione della giustizia o da esperti esterni.
 
 ## 7. Disposizioni finali
 

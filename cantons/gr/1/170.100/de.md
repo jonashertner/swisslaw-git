@@ -4,13 +4,13 @@ number: "170.100"
 title: Gesetz über den Grossen Rat
 short: Grossratsgesetz; GRG
 language: de
-version: 2023-10-01
-valid_until: 2024-12-31
+version: 2025-01-01
+valid_until: 2025-04-30
 version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3314/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3378/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3314/pdf_file"
 
 (Grossratsgesetz; GRG)
 
-Vom 08.12.2005 (Stand 01.10.2023)
+Vom 08.12.2005 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -190,7 +190,7 @@ beschliesst:
 
 **Parlamentarische Untersuchungskommission**
 
-<sup>1</sup> Bedürfen Vorkommnisse von grosser Tragweite in der Staats- oder Justizverwaltung der besonderen Klärung, kann der Grosse Rat nach Anhören der Regierung beziehungsweise der obersten Gerichtsbehörden eine parlamentarische Untersuchungskommission einsetzen.
+<sup>1</sup> Bedürfen Vorkommnisse von grosser Tragweite in der Staats- oder Justizverwaltung der besonderen Klärung, kann der Grosse Rat nach Anhören der Regierung beziehungsweise des Obergerichts eine parlamentarische Untersuchungskommission einsetzen.
 
 <sup>2</sup> Die parlamentarische Untersuchungskommission ermittelt die Sachverhalte und beschafft weitere Beurteilungsgrundlagen. Sie erstattet dem Grossen Rat Bericht und stellt Antrag.
 
@@ -248,9 +248,9 @@ beschliesst:
 
 **Allgemein 1. Auskunfts- und Akteneinsichtsrecht**
 
-<sup>1</sup> Die Kommissionen haben zur Beurteilung der ihnen zugewiesenen Geschäfte das Recht, die zweckdienlichen Auskünfte einzuholen und nach Anhören der Regierung, der obersten Gerichtsbehörde oder der Aufsichtskommissionen über die Notare und die Rechtsanwälte in die erforderlichen Amtsakten Einsicht zu nehmen.
+<sup>1</sup> Die Kommissionen haben zur Beurteilung der ihnen zugewiesenen Geschäfte das Recht, die zweckdienlichen Auskünfte einzuholen und nach Anhören der Regierung, des Obergerichts oder des Justizgerichts in die erforderlichen Amtsakten Einsicht zu nehmen.
 
-<sup>2</sup> Die gemäss diesem Abschnitt bestehenden Informations- und Prüfungsrechte gegenüber den Gerichten und Aufsichtskommissionen über die Notare und die Rechtsanwälte beziehen sich in jedem Fall nur auf Fragen der Geschäftsführung und Justizverwaltung.
+<sup>2</sup> Die gemäss diesem Abschnitt bestehenden Informations- und Prüfungsrechte gegenüber den richterlichen Behörden beziehen sich nur auf Fragen der Justizverwaltung.
 
 #### Art. 28
 
@@ -309,7 +309,7 @@ beschliesst:
 
 **Kommission für Justiz und Sicherheit; besondere Informationsrechte**
 
-<sup>1</sup> Die Kommission für Justiz und Sicherheit kann im Rahmen ihrer Aufsicht bezüglich Geschäftsführung und Justizverwaltung, sofern dies zur Erfüllung ihrer Aufgaben von Bedeutung ist, vom Kantons- und Verwaltungsgericht sowie von den Aufsichtskommissionen über die Notare und die Rechtsanwälte neben den für Sachkommissionen vorgesehenen allgemeinen Informationsrechten insbesondere:
+<sup>1</sup> Die Kommission für Justiz und Sicherheit kann im Rahmen ihrer Aufsicht bezüglich der Justizverwaltung, sofern dies zur Erfüllung ihrer Aufgaben von Bedeutung ist, vom Obergericht sowie vom Justizgericht neben den für Sachkommissionen vorgesehenen allgemeinen Informationsrechten insbesondere:
 
 - a) schriftliche Berichte verlangen;
 - b) die Präsidentinnen oder die Präsidenten zu den Beratungen beiziehen und zu den Rechenschaftsberichten befragen;
@@ -342,7 +342,9 @@ beschliesst:
 
 **Entbindung 1. Im Allgemeinen**
 
-<sup>1</sup> Mitglieder der Regierung und Personen aus der Verwaltung können durch die Regierung für die Erteilung von Auskünften vom Amtsgeheimnis entbunden und zur Herausgabe von Amtsakten ermächtigt werden, die dem Amtsgeheimnis unterstehen. Bei Richtern und Personen der Justizverwaltung sind hiefür die obersten Gerichtsbehörden zuständig.
+<sup>1</sup> Mitglieder der Regierung und Personen aus der Verwaltung können durch die Regierung für die Erteilung von Auskünften vom Amtsgeheimnis entbunden und zur Herausgabe von Amtsakten ermächtigt werden, die dem Amtsgeheimnis unterstehen.
+
+<sup>2</sup> Mitglieder der richterlichen Behörden und der weiteren unter der Aufsicht des Obergerichts stehenden Behörden können durch das Obergericht für die Erteilung von Auskünften vom Amtsgeheimnis entbunden oder zur Herausgabe von Amtsakten ermächtigt werden, die dem Amtsgeheimnis unterstehen.
 
 #### Art. 37
 
@@ -508,7 +510,7 @@ beschliesst:
 
 **Instruktion und Antragstellung**
 
-<sup>1</sup> An den Grossen Rat gerichtete Aufsichtsbeschwerden gegen die Regierung werden von der Geschäftsprüfungskommission, solche gegen das Kantons- und das Verwaltungsgericht von der Kommission für Justiz und Sicherheit instruiert.
+<sup>1</sup> An den Grossen Rat gerichtete Aufsichtsbeschwerden gegen die Regierung werden von der Geschäftsprüfungskommission, solche gegen das Obergericht und das Justizgericht von der Kommission für Justiz und Sicherheit instruiert.
 
 <sup>2</sup> Die instruierende Kommission nimmt alle sachdienlichen Abklärungen vor und unterbreitet dem Grossen Rat auf die nächste Session hin Bericht und Antrag.
 
@@ -608,6 +610,14 @@ beschliesst:
 
 <sup>2</sup> Soweit möglich, unterbreitet die Regierung den Entwurf zur regierungsrätlichen Ausführungsverordnung der zuständigen Kommission zur Information.
 
+#### Art. 64b
+
+**Botschaften**
+
+<sup>1</sup> Die Regierung begründet ihre Beschlüsse in der Regel durch Botschaften.
+
+<sup>2</sup> Botschaften, die hauptsächlich Angelegenheiten der Justizverwaltung betreffen, sind in Zusammenarbeit mit dem Obergericht auszuarbeiten.
+
 ### 6.2. Besondere Berichte
 
 #### Art. 65
@@ -646,6 +656,33 @@ beschliesst:
 <sup>1</sup> Die Regierung orientiert die jeweils zuständigen ständigen Kommissionen frühzeitig über anstehende internationale und interkantonale Vertragsverhandlungen im Rechtssetzungsbereich.
 
 <sup>2</sup> Die Kommissionen stehen der Regierung während den Vertragsverhandlungen beratend zur Seite und können dieser Vorschläge zum Inhalt der Verträge unterbreiten.
+
+## 6a. Geschäftsverkehr zwischen dem Obergericht und dem Grossen Rat
+
+#### Art. 68a
+
+**Anträge**
+
+<sup>1</sup> Das Obergericht kann beim Grossen Rat beantragen, die Regierung zu beauftragen, eine die Justizverwaltung betreffende Verfassungs- oder Gesetzesvorlage auszuarbeiten.
+
+<sup>2</sup> Das Obergericht legt dem Grossen Rat solche Anträge über die Regierung vor.
+
+<sup>3</sup> Die Regierung darf die Anträge des Obergerichts nicht abändern. Sie kann Bemerkungen und abweichende Anträge formulieren.
+
+<sup>4</sup> Im Übrigen richten sich die Behandlung und die Beratung des Antrags des Obergerichts nach den Regelungen, die für die Behandlung von Aufträgen der Mitglieder des Grossen Rates gelten.
+
+#### Art. 68b
+
+**Beteiligung an Rats- und Kommissionssitzungen**
+
+<sup>1</sup> Die Präsidentin oder der Präsident des Obergerichts kann an Sitzungen des Grossen Rates und seiner Kommissionen teilnehmen:
+
+- a) über die Justiz betreffende Finanzhaushaltsgeschäfte;
+- b) über den Geschäftsbericht des Obergerichts;
+- c) über vom Obergericht angeregte Verfassungs- oder Gesetzesänderungen;
+- d) über Rechtsetzungsvorhaben, die hauptsächlich die Justizverwaltung betreffen.
+
+<sup>2</sup> Die Präsidentin oder der Präsident des Obergerichts hat beratende Stimme und kann Anträge stellen. Sie oder er kann sich von Personen aus der Justizverwaltung oder von aussenstehenden Sachverständigen begleiten lassen.
 
 ## 7. Schlussbestimmungen
 

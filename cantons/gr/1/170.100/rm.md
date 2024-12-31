@@ -4,13 +4,13 @@ number: "170.100"
 title: Lescha davart il cussegl grond
 short: LCG
 language: rm
-version: 2023-10-01
-valid_until: 2024-12-31
+version: 2025-01-01
+valid_until: 2025-04-30
 version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3314/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3378/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3314/pdf_file"
 
 (LCG)
 
-dals 08-12-2005 (versiun dals 01-10-2023)
+dals 08-12-2005 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -190,7 +190,7 @@ concluda:
 
 **Cumissiun d'inquisiziun parlamentara**
 
-<sup>1</sup> Sche eveniments da gronda impurtanza en l'administraziun publica u giudiziala basegnan in scleriment spezial, po il cussegl grond incaricar – suenter avair consultà la regenza respectivamain las autoritads giudizialas supremas – ina cumissiun d'inquisiziun parlamentara.
+<sup>1</sup> Sche eveniments da gronda impurtanza en l'administraziun publica u giudiziala basegnan in scleriment spezial, po il Cussegl grond incaricar – suenter avair consultà la Regenza respectivamain la Dretgira superiura – ina cumissiun d'inquisiziun parlamentara.
 
 <sup>2</sup> La cumissiun d'inquisiziun parlamentara eruescha ils fatgs e procura per ulteriuras basas da giudicament. Ella rapporta al cussegl grond e fa ina proposta.
 
@@ -248,9 +248,9 @@ concluda:
 
 **En general 1. dretg da survegnir infurmaziuns e da prender invista da las actas**
 
-<sup>1</sup> Per giuditgar las fatschentas assegnadas ad ellas han las cumissiuns il dretg da sa procurar las infurmaziuns cunvegnentas e da prender invista da las actas uffizialas necessarias suenter avair consultà la regenza, las autoritads giudizialas supremas u las cumissiuns da surveglianza per las notaras e per ils notars e per las advocatas e per ils advocats.
+<sup>1</sup> Per giuditgar las fatschentas assegnadas ad ellas han las cumissiuns il dretg da sa procurar las infurmaziuns cunvegnentas e da prender invista da las actas uffizialas necessarias suenter avair consultà la Regenza, la Dretgira superiura u la Dretgira da giustia.
 
-<sup>2</sup> Ils dretgs d'infurmaziun e da controlla ch'existan tenor questa part envers las dretgiras ed envers las cumissiuns da surveglianza per las notaras e per ils notars e per las advocatas e per ils advocats sa refereschan en mintga cas mo a dumondas da la gestiun e da l'administraziun giudiziala.
+<sup>2</sup> Ils dretgs d'infurmaziun e da controlla ch'existan tenor questa part envers las autoritads giudizialas sa refereschan mo a dumondas da l'administraziun giudiziala.
 
 #### Art. 28
 
@@ -309,7 +309,7 @@ concluda:
 
 **Cumissiun per giustia e segirezza; dretgs spezials da survegnir infurmaziuns**
 
-<sup>1</sup> Da la dretgira chantunala e da la dretgira administrativa sco er da las cumissiuns da surveglianza per las notaras e per ils notars e per las advocatas e per ils advocats po la cumissiun per giustia e segirezza – en il rom da sia surveglianza concernent la gestiun e l'administraziun giudiziala, sche quai è d'impurtanza per ademplir sias incumbensas, ed ultra dals dretgs generals da survegnir infurmaziuns ch'èn previs per las cumissiuns spezialas – cunzunt:
+<sup>1</sup> Da la Dretgira superiura sco er da la Dretgira da giustia po la Cumissiun per giustia e segirezza – en il rom da sia surveglianza concernent l'administraziun giudiziala, sche quai è d'impurtanza per ademplir sias incumbensas, ed ultra dals dretgs generals da survegnir infurmaziuns ch'èn previs per las cumissiuns spezialas – cunzunt:
 
 - a) pretender rapports en scrit;
 - b) clamar las presidentas u ils presidents a las tractativas e dumandar ellas u els davart ils rapports da gestiun;
@@ -342,7 +342,9 @@ concluda:
 
 **Liberaziun 1. en general**
 
-<sup>1</sup> Commembras e commembers da la regenza e persunas da l'administraziun pon vegnir liberads tras la regenza dal secret d'uffizi per dar scleriments e pon vegnir autorisads d'extrader actas uffizialas ch'èn suttamessas al secret d'uffizi. Tar derschadras u tar derschaders e tar persunas da l'administraziun giudiziala èn cumpetentas las autoritads giudizialas supremas per quai.
+<sup>1</sup> Commembras e commembers da la Regenza e persunas da l'administraziun pon vegnir liberads tras la Regenza dal secret d'uffizi per dar scleriments e pon vegnir autorisads d'extrader actas uffizialas ch'èn suttamessas al secret d'uffizi.
+
+<sup>2</sup> Commembras e commembers da las autoritads giudizialas e da las ulteriuras autoritads che stattan sut la surveglianza da la Dretgira superiura pon vegnir liberads tras la Dretgira superiura dal secret d'uffizi per dar infurmaziuns u pon vegnir autorisads d'extrader actas uffizialas ch'èn suttamessas al secret d'uffizi.
 
 #### Art. 37
 
@@ -510,7 +512,7 @@ concluda:
 
 **Instrucziun e proposta**
 
-<sup>1</sup> Recurs da surveglianza cunter la regenza drizzads al cussegl grond vegnan instruids da la cumissiun da gestiun, tals cunter la dretgira chantunala e la dretgira administrativa vegnan instruids da la cumissiun per giustia e segirezza.
+<sup>1</sup> Recurs da surveglianza cunter la Regenza drizzads al Cussegl grond vegnan instruids da la Cumissiun da gestiun, tals cunter la Dretgira superiura e cunter la Dretgira da giustia vegnan instruids da la Cumissiun per giustia e segirezza.
 
 <sup>2</sup> La cumissiun che instruescha fa tut ils scleriments utils e suttametta al cussegl grond in rapport ed ina proposta per la proxima sessiun.
 
@@ -612,6 +614,14 @@ concluda:
 
 <sup>2</sup> Sche pussaivel suttametta la Regenza il sboz da l'ordinaziun executiva da la Regenza per infurmaziun a la cumissiun cumpetenta.
 
+#### Art. 64b
+
+**Missivas**
+
+<sup>1</sup> La Regenza motivescha ses conclus per regla tras missivas.
+
+<sup>2</sup> Missivas che pertutgan principalmain fatschentas da l'administraziun giudiziala ston vegnir elavuradas en collavuraziun cun la Dretgira superiura.
+
 ### 6.2. RAPPORTS SPEZIALS
 
 #### Art. 65
@@ -650,6 +660,33 @@ concluda:
 <sup>1</sup> La regenza orientescha las cumissiuns permanentas mintgamai cumpetentas ad ura davart las proximas tractativas contractualas internaziunalas ed interchantunalas sin il champ legislativ.
 
 <sup>2</sup> Durant las tractativas contractualas accumpognan las cumissiuns la regenza en moda consultativa e pon suttametter a quella propostas davart il cuntegn dals contracts.
+
+## 6a. Correspundenza tranter la Dretgira superiura ed il Cussegl grond
+
+#### Art. 68a
+
+**Propostas**
+
+<sup>1</sup> La Dretgira superiura po dumandar il Cussegl grond d'incumbensar la Regenza d'elavurar in project constituziunal u in project da lescha che concerna l'administraziun giudiziala.
+
+<sup>2</sup> La Dretgira superiura suttametta talas dumondas a la Regenza per mauns dal Cussegl grond.
+
+<sup>3</sup> La Regenza na dastga betg midar las dumondas da la Dretgira superiura. Ella po formular remartgas e dumondas divergentas.
+
+<sup>4</sup> Dal rest sa drizzan il tractament e la debatta da la dumonda da la Dretgira superiura tenor las regulaziuns che valan per tractar incumbensas da las commembras e dals commembers dal Cussegl grond.
+
+#### Art. 68b
+
+**Participaziun a las sesidas dal cussegl e da las cumissiuns**
+
+<sup>1</sup> La presidenta u il president da la Dretgira superiura po sa participar a las sesidas dal Cussegl grond e da sias cumissiuns che tractan:
+
+- a) fatschentas da finanzas che concernan la giustia;
+- b) il rapport da gestiun da la Dretgira superiura;
+- c) midadas constituziunalas u midadas da lescha incitadas da la Dretgira superiura;
+- d) projects legislativs che concernan principalmain l'administraziun giudiziala.
+
+<sup>2</sup> La presidenta u il president da la Dretgira superiura ha vusch consultativa e po far propostas. Ella u el po sa laschar accumpagnar da persunas da l'administraziun giudiziala ubain d'expertas e d'experts externs.
 
 ## 7. Disposiziuns finalas
 
