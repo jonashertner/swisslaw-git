@@ -4,13 +4,13 @@ number: "640.71"
 title: "Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung"
 short: "Verordnung Sonderpädagogik, Vo SoPä"
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+valid_until: 2026-07-31
+version_adopted: 2024-11-19
 adopted: 2021-06-22
 in_force: 2021-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.71"
-pdf: "https://bl.clex.ch/api/de/versions/3864/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4004/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3864/pdf_file"
 
 (Verordnung Sonderpädagogik, Vo SoPä)
 
-Vom 22.06.2021 (Stand 01.08.2024)
+Vom 22.06.2021 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -159,7 +159,10 @@ beschliesst:
 
 <sup>6</sup> Die Abteilungsgrösse im Textilen Gestalten, im Nichttextilen Gestalten und im Musikalischen Grundkurs in der Primarschule bzw. im Textilen Gestalten, im Werken und in Hauswirtschaft in der Sekundarschule beträgt maximal 9 Schülerinnen und Schüler.
 
-<sup>7</sup> Den Kleinklassen der Sekundarschule stehen für individuelle Betreuungsaufgaben wie Hausaufgabenhilfe und Berufswahlvorbereitung 5 Lektionen pro Kleinklasse zur Verfügung.
+<sup>7</sup> Den Kleinklassen der Sekundarschule stehen für individuelle Betreuungsaufgaben wie beispielsweise Hausaufgabenhilfe und Berufswahlvorbereitung bis zu 5 Lektionen pro Kleinklasse zur Verfügung. Voraussetzungen für die Inanspruchnahme sind:
+
+- a. Es handelt sich um eine Mehrjahrgangsklasse oder eine Kleinklasse der 3. Sekundarklasse.
+- b. In der Kleinklasse werden mindestens 8 Schülerinnen und Schüler unterrichtet.
 
 #### § 9
 
