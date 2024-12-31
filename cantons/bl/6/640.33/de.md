@@ -4,13 +4,12 @@ number: "640.33"
 title: Verordnung über den Betrieb der Schuladministrationslösung SAL
 short: Vo SAL
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2021-06-01
 in_force: 2021-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.33"
-pdf: "https://bl.clex.ch/api/de/versions/3861/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4095/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3861/pdf_file"
 
 (Vo SAL)
 
-Vom 01.06.2021 (Stand 01.08.2024)
+Vom 01.06.2021 (Stand 01.01.2025)
 
 Der Regierungsrat,
 
@@ -54,38 +53,43 @@ beschliesst:
 
 **Zugriffsberechtigung**
 
-<sup>1</sup> Die Schuladministrationslösung SAL besteht aus den beiden Applikationen «schulNetz» und «InfoCockpit» («Vertragsworkflow»).
+<sup>1</sup> Die Schuladministrationslösung SAL besteht aus den beiden Applikationen «schulNetz» und «Vertragsworkflow».
 
 <sup>2</sup> Die Applikation «schulNetz» unterstützt alle relevanten Administrationsprozesse für die Schulen. Sie umfasst die Bereiche:
 
 - a. Schulmandant: Jede angeschlossene Schule verwaltet in ihrem Mandanten alle relevanten Administrationsprozesse der eigenen Schule.
 - b. Kantonsmandant: Über diesen werden schulübergreifende Applikationsteile administriert.
 
-<sup>3</sup> Die Applikation «InfoCockpit» («Vertragsworkflow») unterstützt die HR-Prozesse im Bereich der Anstellung von Lehrpersonen.
+<sup>3</sup> Die Applikation «Vertragsworkflow» unterstützt die HR-Prozesse im Bereich der Anstellung von Lehrpersonen.
 
-<sup>4</sup> Die Authentisierung für die beiden Applikationen «schulNetz» und «InfoCockpit» («Vertragsworkflow») erfolgt über die entsprechende Serviceplattform des Kantons.
+<sup>4</sup> Die Authentisierung für die beiden Applikationen «schulNetz» und «Vertragsworkflow» erfolgt über die entsprechenden Serviceplattformen des Kantons.
 
 <sup>5</sup> Die Autorisierung für die Applikationen «schulNetz» erfolgt rollenbasiert gemäss den in Anhang 1 festgelegten Rollen sowie Berechtigungen für folgende Stellen (jeweils für Volksschulen, Gymnasien und Berufsfachschulen):
 
-- a. Schülerinnen und Schüler sowie Erziehungsberechtigte über den Account ihrer minderjährigen Kinder;
-- b. Fachlehrpersonen;
+- a. Schülerinnen und Schüler und Berufslernende sowie Erziehungsberechtigte über den Account ihrer minderjährigen Kinder;
+- b. Fachlehrpersonen, Sozialpädagoginnen und Sozialpädagogen sowie Klassenassistenzen;
 - c. Klassenlehrpersonen;
-- d. Personen mit pädagogisch-therapeutischem Auftrag;
-- e. Schulleitungen und Schulsekretariate;
-- f. Amt für Daten und Statistik;
-- g. Dienststellen der Bildungs-, Kultur- und Sportdirektion gemäss § 59d Bildungsgesetz vom 6. Juni 2002[^3-1];
-- h. Schulräte der kantonalen und kommunalen Schulen;
-- i. Gemeinderäte der kommunalen Schulen, sofern diese für die Schulführung eingesetzt werden.
+- d. Personen mit pädagogisch-therapeutischem Auftrag (Logopädinnen und Logopäden, Therapeutinnen und Therapeuten der Psychomotorik);
+- e. Heilpädagoginnen und Heilpädagogen sowie Betreuende in der BerufsWegBereitung;
+- f. Lehrpersonen mit einer Anstellung bei Drittanbietern, die eine unterrichtsbezogene Aufgabe an einer öffentlichen Schule haben;
+- g. Schulleitungen;
+- h. Mitarbeitende der Schulsekretariate;
+- i. Dienststellen der Bildungs-, Kultur- und Sportdirektion (BKSD): Amt für Volksschulen (AVS); Generalsekretariat (GS), Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH);
+- j. Amt für Daten und Statistik;
+- k. Vorgesetzte der Schulleitungen (Schulrat, Gemeinderat, AVS, BMH);
+- l. Mitarbeitende der Schulsozialdienste;
+- m. Mitarbeitende der Hausdienste;
+- n. Mitarbeitende der Schulbibliotheken;
+- o. Religionslehrpersonen;
+- p. Ausbildungsverantwortliche Lehrbetrieb.
 
 <sup>6</sup> Die Zugriffsberechtigungen werden durch folgende Personen vergeben, verwaltet und kontrolliert:
 
 - a. die Anwendungsverantwortliche oder den Anwendungsverantwortlichen SAL im Kantonsmandanten von «schulNetz»;
 - b. die schulinterne oder den schulinternen Useradmin in den Schulmandanten von «schulNetz»;
-- c. die Anwendungsverantwortliche oder den Anwendungsverantwortlichen SAL für das «InfoCockpit» («Vertragsworkflow»).
+- c. die Anwendungsverantwortliche oder den Anwendungsverantwortlichen SAL für die Applikation («Vertragsworkflow»).
 
 <sup>7</sup> Für die Aktualisierung von vergebenen Berechtigungen ist die zuständige Stelle gemäss Abs. 6 verantwortlich.
-
-[^3-1]: [SGS 640](https://bl.clex.ch/data/640/de/art59d)
 
 ## 2 Datenbearbeitung
 
@@ -95,9 +99,9 @@ beschliesst:
 
 <sup>1</sup> In der Schuladministrationslösung SAL werden die in Anhang 1 aufgeführten Kategorien von Personendaten mit den dort vorgesehenen Berechtigungen bearbeitet.
 
-<sup>2</sup> Schülerinnen und Schülern sowie im Falle ihrer Minderjährigkeit den Erziehungsberechtigten ist auch über die in Anhang 1 aufgeführten Berechtigungen hinaus auf Anfrage hin beim Schulsekretariat jederzeit voller Zugang zu ihren in der Schuladministrationslösung SAL gehaltenen Daten zu gewähren.
+<sup>2</sup> Schülerinnen und Schülern und Berufslernenden sowie im Falle ihrer Minderjährigkeit den Erziehungsberechtigten ist auch über die in Anhang 1 aufgeführten Berechtigungen hinaus auf Anfrage hin beim Schulsekretariat jederzeit voller Zugang zu ihren in der Schuladministrationslösung SAL gehaltenen Daten zu gewähren.
 
-<sup>3</sup> Minderjährige Schülerinnen und Schüler der Sekundarstufe I und II sind bei beabsichtigter Zugangsgewährung gegenüber Erziehungsberechtigten vorgängig von der Schulleitung anzuhören. Bei Primarschülerinnen und Primarschülern richtet sich das Anhörungsrecht nach der Urteilsfähigkeit.
+<sup>3</sup> Minderjährige Schülerinnen und Schüler der Sekundarstufe I und II und minderjährige Berufslernende sind bei beabsichtigter Zugangsgewährung gegenüber Erziehungsberechtigten vorgängig von der Schulleitung anzuhören. Bei Primarschülerinnen und Primarschülern richtet sich das Anhörungsrecht nach der Urteilsfähigkeit.
 
 <sup>4</sup> Wo Schülerinnen und Schüler sowie deren Erziehungsberechtigte keinen persönlichen elektronischen Zugriff zur SAL haben, gewährleistet das Schulsekretariat jederzeit den Zugang zu den in SAL gehaltenen Daten.
 
@@ -130,9 +134,9 @@ beschliesst:
 
 **Schülerinnen- und Schülerdaten**
 
-<sup>1</sup> Bei einem Wechsel der Schule werden folgende zentral gehaltenen Stammdaten gemäss Anhang 1 direkt weitergegeben:
+<sup>1</sup> Bei einem Wechsel der Schule werden folgende zentral gehaltenen Stammdaten direkt weitergegeben:
 
-- a. Schülerinnen und Schüler:
+- a. Schülerinnen und Schüler sowie Berufslernende:
   - 1\. Name,
   - 2\. Vorname,
   - 3\. Geburtsdatum,
@@ -157,9 +161,24 @@ beschliesst:
   - 4\. E-Mail-Adresse,
   - 5\. Telefonnummern.
 
-<sup>2</sup> Zusätzlich wird bei einem Wechsel innerhalb der Primarstufe und der Sekundarstufe I sowie beim Übertritt von der Primar- in die Sekundarstufe das Datenfeld «Konfession» weitergegeben.
+<sup>2</sup> Bei einem Wechsel innerhalb der Primarstufe oder der Sekundarstufe I werden zudem folgende Daten weitergegeben:
 
-<sup>3</sup> Alle übrigen Daten werden nicht weitergegeben. Sie sind im Bedarfsfall bei den Erziehungsberechtigten bzw. den Schülerinnen und Schülern neu zu erheben.
+- a. Zeugnisse;
+- b. Standortbestimmungen;
+- c. laufende sonderpädagogische Massnahmen inkl. Indikationen;
+- d. laufender Nachteilsausgleich;
+- e. relevante disziplinarische Massnahmen;
+- f. Noten (bei einem unterjährigen Wechsel);
+- g. Konfession.
+
+<sup>2<sup>bis</sup></sup> Bei einem Übertritt von der Primarstufe in die Sekundarstufe I werden zudem folgende Daten weitergegeben werden:
+
+- a. Zeugnisse der 6. Klasse der Primarstufe;
+- b. laufende sonderpädagogische Massnahmen inkl. Indikationen;
+- c. laufender Nachteilsausgleich;
+- d. Konfession.
+
+<sup>3</sup> …
 
 ## 4 Datenlöschung
 
@@ -167,7 +186,7 @@ beschliesst:
 
 **Schülerinnen- und Schülerdaten im Schulmandant**
 
-<sup>1</sup> Die Daten über Schülerinnen und Schüler werden spätestens 5 Jahre nach dem Austritt aus der jeweiligen Schule dem Staatsarchiv zur Archivierung angeboten. Das Staatsarchiv entscheidet über die Archivwürdigkeit.
+<sup>1</sup> Die Daten über Schülerinnen und Schüler und Berufslernende werden spätestens 10 Jahre nach dem Austritt aus der jeweiligen Schule dem Staatsarchiv zur Archivierung angeboten. Das Staatsarchiv entscheidet über die Archivwürdigkeit.
 
 <sup>2</sup> Nach dem Übernahmeentscheid des Staatsarchivs werden sämtliche Daten in der Schuladministrationslösung SAL gelöscht.
 
@@ -179,7 +198,7 @@ beschliesst:
 
 **Löschung der Stammdaten**
 
-<sup>1</sup> Die zentral gehaltenen Stammdaten gemäss Anhang 1 werden spätestens 5 Jahre nach ihrer letzten Verwendung gelöscht.
+<sup>1</sup> Die zentral gehaltenen Stammdaten werden spätestens 10 Jahre nach ihrer letzten Verwendung gelöscht.
 
 <sup>2</sup> Zuständig ist die/der Anwendungsverantwortliche SAL.
 
