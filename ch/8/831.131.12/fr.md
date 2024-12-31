@@ -4,11 +4,11 @@ title: "Ordonnance du 29 novembre 1995 sur le remboursement aux étrangers des c
 short: OR-AVS
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/688_688_688"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1995-11-29
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/688_688_688/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-688_688_688-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/688_688_688/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-688_688_688-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20240101/fr"
 
 (OR–AVS)
 
-du 29 novembre 1995 (État le 1<sup>er</sup> janvier 2024)
+du 29 novembre 1995 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -27,7 +27,7 @@ arrête:
 
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^ingress-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l'O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
 
 #### Art. 1
 
@@ -88,26 +88,30 @@ Les cotisations remboursées ainsi que les périodes de cotisations correspondan
 
 #### Art. 7
 
-**Extinction et prescription**
+**Extinction**[^7-1]
 
-Le droit au remboursement s’éteint par le décès de la personne ayant droit à la prestation. Il se prescrit par cinq ans dès l’accomplissement de l’événement assuré.
+Le droit au remboursement s’éteint par le décès de la personne ayant droit à la prestation.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 465](https://fedlex.data.admin.ch/eli/oc/2024/465)).
 
 #### Art. 8
 
 **Procédure et compétence**[^8-1]
 
-<sup>1</sup> La demande de remboursement est en principe déposée auprès de la Caisse suisse de compensation.
+<sup>1</sup> La demande de remboursement est déposée auprès de la Caisse suisse de compensation.[^8-2]
 
-<sup>2</sup> Avant le départ de Suisse, elle peut toutefois être déposée auprès de la caisse de compensation compétente pour la perception des cotisations.
+<sup>2</sup> …[^8-3]
 
-<sup>3</sup> Les art. 122, 123 et 125 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^8-2] sont applicables par analogie à la détermination et au versement des cotisations remboursables.
+<sup>3</sup> Les art. 122, 123 et 125 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^8-4] sont applicables par analogie à la détermination et au versement des cotisations remboursables.
 
 <sup>4</sup> Les cotisations remboursables sont versées seulement lorsque tous les revenus de l’activité lucrative de la personne concernée ont été inscrits au compte individuel (art. 138 et 139 RAVS).
 
 <sup>5</sup> Les frais résultant du transfert de cotisations à l’étranger sont à la charge du destinataire.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3344](https://fedlex.data.admin.ch/eli/oc/2002/503)).
-[^8-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 465](https://fedlex.data.admin.ch/eli/oc/2024/465)).
+[^8-3]: Abrogé par le ch. I de l’O du 28 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 465](https://fedlex.data.admin.ch/eli/oc/2024/465)).
+[^8-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 9
 
