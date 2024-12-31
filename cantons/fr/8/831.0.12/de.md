@@ -3,13 +3,12 @@ canton: FR
 number: "831.0.12"
 title: Verordnung über die Richtsätze für die Bemessung der materiellen Hilfe nach dem Sozialhilfegesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-20
+version: 2025-01-01
+version_adopted: 2024-09-24
 adopted: 2006-05-02
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/831.0.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7872/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8058/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7872/pdf_file"
 
 Sozialhilfe, Bemessung der materiellen Hilfe – V
 
-vom 02.05.2006 (Fassung in Kraft getreten am 01.01.2024)
+vom 02.05.2006 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -56,12 +55,12 @@ beschliesst:
 
 <table>
 <tr><th>Haushaltsgrösse</th><th>Monatliche Pauschale</th><th>Äquivalenzskala: Multiplikator</th><th>Monatliche Pauschale je Person (gerundet)</th></tr>
-<tr><td>1 Person</td><td>Fr. 1'015</td><td>1,00</td><td>Fr. 1'015</td></tr>
-<tr><td>2 Personen</td><td>Fr. 1'554</td><td>1,53</td><td>Fr. 777</td></tr>
-<tr><td>3 Personen</td><td>Fr. 1'887</td><td>1,86</td><td>Fr. 629</td></tr>
-<tr><td>4 Personen</td><td>Fr. 2'172</td><td>2,14</td><td>Fr. 543</td></tr>
-<tr><td>5 Personen</td><td>Fr. 2'455</td><td>2,42</td><td>Fr. 491</td></tr>
-<tr><td>je weitere Person</td><td>+ Fr. 206</td><td></td><td></td></tr>
+<tr><td>1 Person</td><td>Fr. 1031</td><td>1,00</td><td>Fr. 1031</td></tr>
+<tr><td>2 Personen</td><td>Fr. 1577</td><td>1,53</td><td>Fr. 789</td></tr>
+<tr><td>3 Personen</td><td>Fr. 1918</td><td>1,86</td><td>Fr. 639</td></tr>
+<tr><td>4 Personen</td><td>Fr. 2206</td><td>2,14</td><td>Fr. 552</td></tr>
+<tr><td>5 Personen</td><td>Fr. 2495</td><td>2,42</td><td>Fr. 499</td></tr>
+<tr><td>je weitere Person</td><td>+ Fr. 209</td><td></td><td></td></tr>
 </table>
 
 #### Art. 3
