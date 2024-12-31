@@ -4,11 +4,11 @@ title: "Ordinanza del 22 maggio 2002 concernente la libera circolazione delle pe
 short: OLCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: it
-version: 2023-04-01
+version: 2025-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2002-261-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230401/it"
 
 (Ordinanza sulla libera circolazione delle persone, OLCP)[^t-1]
 
-del 22 maggio 2002 (Stato 1° aprile 2023)
+del 22 maggio 2002 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo giusta il n. III 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^t-1]: Nuovo testo giusta la cifra III 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 Il Consiglio federale svizzero,
 
@@ -34,7 +34,7 @@ ordina:
 [^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^ingress-6]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 [^ingress-7]: [RS 0.946.293.671.2](https://fedlex.data.admin.ch/eli/cc/2020/1073)
-[^ingress-8]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^ingress-8]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Sezione 1: Oggetto e campo d’applicazione
 
@@ -50,9 +50,9 @@ ordina:
 
 <sup>3</sup> Disciplina anche la procedura di notificazione dei prestatori indipendenti di servizi contemplati dall’accordo sulla mobilità dei prestatori di servizi.[^1-3]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^1-2]: Introdotto dal n. III 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^1-3]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^1-2]: Introdotto dalla cifra III n. 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^1-3]: Introdotto dalla cifra I dell’O del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
 
 #### Art. 2
 
@@ -69,10 +69,10 @@ ordina:
 <sup>5</sup> La procedura di notificazione per una prestazione della durata massima di 90 giorni lavorativi per anno civile secondo l’articolo 9 capoverso 1<sup>bis</sup> primo e secondo periodo nonché le sanzioni secondo l’articolo 32*a* capoverso 1 si applicano anche ai prestatori indipendenti di servizi contemplati dall’accordo sulla mobilità dei prestatori di servizi.[^2-5]
 
 [^2-1]: Per quanto concerne la relazione Svizzera-Liechtenstein, si applica il Prot. del 21 giu. 2001, che è parte integrante dell’Acc. di emendamento della Conv. AELS.
-[^2-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^2-4]: Introdotto dal n. III 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^2-5]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^2-4]: Introdotto dalla cifra III n. 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^2-5]: Introdotto dalla cifra I dell’O del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
 
 #### Art. 3
 
@@ -80,7 +80,7 @@ ordina:
 
 <sup>1</sup> La presente ordinanza non si applica ai cittadini dell’UE e dell’AELS e ai loro familiari il cui statuto è disciplinato dall’articolo 43 capoversi 1 lettere a–d, 2 e 3 dell’ordinanza del 24 ottobre 2007[^3-2] sull’ammissione, il soggiorno e l’attività lucrativa (OASA).
 
-<sup>2</sup> Le disposizioni sui contingenti massimi risultanti dall’applicazione dell’articolo 10 paragrafo 4*d* primo e secondo periodo dell’Accordo sulla libera circolazione delle persone non si applicano ai cittadini della Croazia il cui statuto è disciplinato dall’articolo 43 capoverso 1 lettere e–h OASA.[^3-3]
+<sup>2</sup> ...[^3-3]
 
 <sup>3</sup> ...[^3-4]
 
@@ -88,18 +88,18 @@ ordina:
 
 <sup>5</sup> ...[^3-6]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^3-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^3-3]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
-[^3-4]: Introdotto dal n. I dell’O del 25 apr. 2012 ([RU 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Abrogato dal n. I dell’O del 13 apr. 2016, con effetto dal 1° giu. 2016 ([RU 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
-[^3-5]: Introdotto dal n. I dell’O del 22 mag. 2013 ([RU 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Abrogato dal n. I dell’O del 30 apr. 2014, con effetto dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^3-6]: Introdotto dal n. I dell’O del 10 mag. 2017 ([RU 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Abrogato dal n. I dell’O del 15 mag. 2019 (Fine dei contingenti di permessi B per i lavoratori dell’UE-2), con effetto dal 1° giu. 2019 ([RU 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
+[^3-3]: Abrogato dalla cifra I dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
+[^3-4]: Introdotto dalla cifra I dell’O del 25 apr. 2012 ([RU 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Abrogato dalla cifra I dell’O del 13 apr. 2016, con effetto dal 1° giu. 2016 ([RU 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
+[^3-5]: Introdotto dalla cifra I dell’O del 22 mag. 2013 ([RU 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Abrogato dalla cifra I dell’O del 30 apr. 2014, con effetto dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
+[^3-6]: Introdotto dalla cifra I dell’O del 10 mag. 2017 ([RU 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Abrogato dalla cifra I dell’O del 15 mag. 2019 (Fine dei contingenti di permessi B per i lavoratori dell’UE-2), con effetto dal 1° giu. 2019 ([RU 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
 
 ## Sezione 2: Tipi di permessi e carte di soggiorno
 
 [^sec2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
+[^sec2-1]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 
 #### Art. 4
 
@@ -119,12 +119,12 @@ ordina:
 
 <sup>4</sup> I cittadini dell’UE e dell’AELS che svolgono un’attività lucrativa in Svizzera per un massimo di tre mesi complessivi per anno civile non necessitano di un permesso di soggiorno di breve durata UE/AELS.[^4-6]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^4-2]: Nuova espr. giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^4-3]: Nuovo testo giusta il n. I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^4-5]: Introdotto dal n. I dell’O del 2 mag. 2007 ([RU 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^4-6]: Introdotto dal n. I dell’O del 18 feb. 2004 ([RU 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-2]: Nuova espr. giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-5]: Introdotto dalla cifra I dell’O del 2 mag. 2007 ([RU 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Abrogato dalla cifra I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-6]: Introdotto dalla cifra I dell’O del 18 feb. 2004 ([RU 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 5
 
@@ -132,7 +132,7 @@ ordina:
 
 Ai cittadini dell’UE e dell’AELS e ai loro familiari è rilasciato un permesso di domicilio UE/AELS illimitato in virtù dell’articolo 34 LStrI e gli articoli 60–63 della OASA[^5-2], nonché in conformità degli accordi di domicilio conclusi dalla Svizzera.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^5-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
 #### Art. 6
@@ -145,10 +145,10 @@ Ai cittadini dell’UE e dell’AELS e ai loro familiari è rilasciato un permes
 
 <sup>3</sup> Il rilascio e la presentazione delle carte di soggiorno per stranieri sono retti dagli articoli 71–72 OASA[^6-3].[^6-4]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^6-2]: Nuovo testo giusta l’all. n. 1 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 [^6-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^6-4]: Nuovo testo giusta il n. I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 
 ## Sezione 3: Entrata, procedura di notificazione e di permesso
 
@@ -165,14 +165,9 @@ Per i familiari di cittadini dell’UE o dell’AELS e per i prestatori di servi
 
 #### Art. 8
 
-**Assicurazione del permesso**[^8-1]
+[^8-1]
 
-### (art. 1 par. 1 e 27 par. 2 all. I in combinato disposto con l’art. 10 par. 2*c* e 4*c* dell’Acc. sulla libera circolazione delle persone)
-
-Per l’entrata in Svizzera in vista dell’esercizio di un’attività lucrativa che necessita di un permesso UE/AELS, i cittadini della Croazia possono chiedere l’assicurazione del permesso (art. 5 OASA[^8-2]).
-
-[^8-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
-[^8-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^8-1]: Abrogato dalla cifra I dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 
 #### Art. 9
 
@@ -194,14 +189,14 @@ Per l’entrata in Svizzera in vista dell’esercizio di un’attività lucrativ
 
 <sup>4</sup> I frontalieri che durante la settimana dimorano in Svizzera sono tenuti a notificarsi presso l’autorità competente nel luogo di dimora. Il capoverso 1 si applica per analogia.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
 [^9-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^9-4]: Nuovo testo giusta il n. I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^9-4]: Nuovo testo giusta la cifra I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
 [^9-5]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
 [^9-6]: [RS 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
-[^9-7]: Introdotto dal n. I dell’O del 13 mar. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Nuovo testo giusta l’all. n. 1 dell’O del 16 apr. 2013, in vigore dal 15 mag. 2013 ([RU 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
-[^9-8]: Introdotto dal n. I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^9-7]: Introdotto dalla cifra I dell’O del 13 mar. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Nuovo testo giusta l’all. n. 1 dell’O del 16 apr. 2013, in vigore dal 15 mag. 2013 ([RU 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
+[^9-8]: Introdotto dalla cifra I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
 [^9-9]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^9-10]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, in vigore dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 [^9-11]: Nuovo testo giusta l’all. n. 1 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
@@ -210,45 +205,25 @@ Per l’entrata in Svizzera in vista dell’esercizio di un’attività lucrativ
 
 [^sec4-1]
 
-[^sec4-1]: Nuovo testo giusta il n. I dell’O del 24 apr. 2013 (Mantenimento dei contingenti di permessi B nei confronti degli Stati dell’UE-8), in vigore dal 1° mag. 2013 ([RU 2013 1247](https://fedlex.data.admin.ch/eli/oc/2013/277)).
+[^sec4-1]: Nuovo testo giusta la cifra I dell’O del 24 apr. 2013 (Mantenimento dei contingenti di permessi B nei confronti degli Stati dell’UE-8), in vigore dal 1° mag. 2013 ([RU 2013 1247](https://fedlex.data.admin.ch/eli/oc/2013/277)).
 
-#### Art. 10
+#### Art. 10 e 11
 
-**Computo sui contingenti massimi**[^10-1]
+[^1011-1]
 
-### (art. 10 dell’Acc. sulla libera circolazione delle persone)
-
-Il permesso non è computato sui contingenti massimi stabiliti conformemente all’Accordo sulla libera circolazione delle persone se il cittadino della Croazia:
-
-- a. non è entrato in Svizzera e ha rinunciato a svolgervi un’attività lucrativa, oppure
-- b. ha lasciato la Svizzera entro 90 giorni lavorativi dall’inizio dell’attività lucrativa.
-
-[^10-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
-
-#### Art. 11
-
-**Ripartizione dei contingenti massimi**[^11-1]
-
-La Segreteria di Stato della migrazione (SEM) ripartisce per i cittadini della Croazia i contingenti massimi stabiliti conformemente all’articolo 10 dell’Accordo sulla libera circolazione delle persone.
-
-[^11-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^1011-1]: Abrogati dalla cifra I dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 
 #### Art. 12
 
-**Deroghe ai contingenti massimi**[^12-1]
+**Deroghe ai contingenti massimi[^12-2]**[^12-1]
 
-### (art. 10 par. 4*d* dell’Acc. sulla libera circolazione delle persone)
-
-<sup>1</sup> Le deroghe previste dalla LStrI e dall’OASA[^12-2] si applicano per analogia ai contingenti massimi fissati per i cittadini della Croazia.
-
-<sup>2</sup> I permessi di dimora UE/AELS rilasciati a cittadini della Croazia in virtù dell’articolo 27 paragrafo 3 lettera a dell’allegato I dell’Accordo sulla libera circolazione delle persone sono eccettuati dai contingenti massimi.
-
-<sup>3</sup> I contingenti massimi non si applicano ai cittadini della Croazia che svolgono un’attività lucrativa in qualità di dottorandi o postdottorandi presso scuole universitarie svizzere anche se cambiano posto o professione.
+<sup>1</sup> a <sup>3</sup> ... [^12-3]
 
 <sup>4</sup> I contingenti massimi non si applicano ai cittadini del Liechtenstein.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
-[^12-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
+[^12-3]: Abrogati dalla cifra I dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 
 ## Sezione 5: Prestazione transfrontaliera di servizi
 
@@ -260,7 +235,7 @@ La Segreteria di Stato della migrazione (SEM) ripartisce per i cittadini della C
 
 Le persone che forniscono un servizio transfrontaliero nel contesto di un accordo di prestazione di servizi tra la Svizzera e l’UE[^13-2] o l’AELS non necessitano di un permesso di soggiorno di breve durata per i soggiorni fino a 90 giorni lavorativi per anno civile. Se il servizio supera i 90 giorni lavorativi, è rilasciato un permesso di soggiorno di breve durata UE/AELS o un permesso di dimora UE/AELS per la durata del servizio.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 18 feb. 2004, in vigore dal 1° giu. 2004 ([RU 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 18 feb. 2004, in vigore dal 1° giu. 2004 ([RU 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)).
 [^13-2]: Stati membri al momento della firma dell’Acc. del 21 giu. 1999 sulla libera circolazione delle persone.
 
 #### Art. 14
@@ -271,8 +246,8 @@ Le persone che forniscono un servizio transfrontaliero nel contesto di un accord
 
 <sup>2</sup> ...[^14-2]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2005, in vigore dal 1° apr. 2006 ([RU 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)).
-[^14-2]: Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2005, in vigore dal 1° apr. 2006 ([RU 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)).
+[^14-2]: Abrogato dalla cifra I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 15
 
@@ -284,9 +259,9 @@ Le persone che forniscono un servizio transfrontaliero nel contesto di un accord
 
 <sup>2</sup> Per l’ammissione sono applicabili le disposizioni della LStrI e dell’OASA[^15-2].[^15-3]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
 [^15-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^15-3]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
+[^15-3]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 
 ## Sezione 6: Dimora senza attività lucrativa
 
@@ -301,7 +276,7 @@ Le persone che forniscono un servizio transfrontaliero nel contesto di un accord
 <sup>2</sup> I mezzi finanziari a disposizione di un cittadino dell’UE o dell’AELS avente diritto a una rendita o dei suoi familiari sono considerati sufficienti se superano l’importo che autorizzerebbe un richiedente svizzero e se del caso i suoi familiari a percepire le prestazioni complementari giusta la legge federale del 19 marzo 1965[^16-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità.
 
 [^16-1]: Queste direttive possono essere ordinate presso la Conferenza svizzera delle istituzioni dell’azione sociale (CSIAS), Mühlenplatz 3, 3000 Berna 13.
-[^16-2]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535),[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)n. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)n. IV. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Vedi ora la LF del 6 ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^16-2]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535);[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II n. 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699);[1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)cifra IV. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Vedi ora la LF del 6 ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
 
 #### Art. 17
 
@@ -323,7 +298,7 @@ Già dopo i primi due anni, le autorità competenti possono, se lo ritengono nec
 
 <sup>3</sup> Questo permesso può essere prorogato fino a un anno purché i cittadini dell’UE e dell’AELS dimostrino i loro sforzi di ricerca e sussista una prospettiva reale di impiego.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 13 mar. 2015, in vigore dal 1° apr. 2015 ([RU 2015 849](https://fedlex.data.admin.ch/eli/oc/2015/159)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 13 mar. 2015, in vigore dal 1° apr. 2015 ([RU 2015 849](https://fedlex.data.admin.ch/eli/oc/2015/159)).
 
 #### Art. 19
 
@@ -347,7 +322,7 @@ Se non sono adempite le condizioni per l’ammissione in vista di un soggiorno s
 
 [^21-1]
 
-[^21-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^21-1]: Abrogato dalla cifra I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Sezione 8: Diritto di rimanere in Svizzera
 
@@ -371,8 +346,8 @@ Ai cittadini dell’UE e dell’AELS o ai loro familiari che possono prevalersi 
 
 <sup>2</sup> Per quanto concerne il permesso di domicilio UE/AELS si applica l’articolo 63 LStrI.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 
 #### Art. 24
 
@@ -382,7 +357,7 @@ Ai cittadini dell’UE e dell’AELS o ai loro familiari che possono prevalersi 
 
 Le misure di allontanamento o di respingimento disposte dalle competenti autorità federali o cantonali secondo gli articoli 60–68 LStrI valgono per tutto il territorio della Svizzera.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 
 #### Art. 25
 
@@ -404,7 +379,7 @@ I permessi giusta la presente ordinanza sono rilasciati dalle autorità cantonal
 
 [^27-1]
 
-[^27-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^27-1]: Abrogato dalla cifra I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 28
 
@@ -412,7 +387,7 @@ I permessi giusta la presente ordinanza sono rilasciati dalle autorità cantonal
 
 Il controllo dei permessi dei cittadini dell’UE e dell’AELS da parte della Segreteria di Stato della migrazione (SEM)[^28-2] è retto dall’articolo 99 LStrI e dagli articoli 83 e 85 OASA[^28-3].
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^28-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
 [^28-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
@@ -425,13 +400,13 @@ La SEM è competente per:
 - a. l’approvazione dei primi permessi di dimora e delle proroghe per i cittadini dell’UE e dell’AELS non esercitanti attività lucrativa secondo l’articolo 20;
 - b. il controllo dei permessi giusta l’articolo 28.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 30
 
 [^30-1]
 
-[^30-1]: Abrogato dal n. II dell’O del 20 ott. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638)).
+[^30-1]: Abrogato dalla cifra II dell’O del 20 ott. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638)).
 
 ## Sezione 11: ...
 
@@ -439,13 +414,13 @@ La SEM è competente per:
 
 [^31-1]
 
-[^31-1]: Abrogato dal n. II 3 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^31-1]: Abrogato dalla cifra II n. 3 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ## Sezione 12: Disposizioni penali e sanzioni amministrative
 
 [^sec12-1]
 
-[^sec12-1]: Nuovo testo giusta il n. I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^sec12-1]: Nuovo testo giusta la cifra I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
 
 #### Art. 32
 
@@ -453,7 +428,7 @@ La SEM è competente per:
 
 Le sanzioni amministrative sono rette dall’articolo 122 LStrI.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^32-2]: Introdotta dall’all. n. 1 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 #### Art. 32a
@@ -464,7 +439,7 @@ Le sanzioni amministrative sono rette dall’articolo 122 LStrI.
 
 <sup>2</sup> È punito con una multa fino a 1000 franchi chiunque, intenzionalmente o per negligenza, viola l’obbligo di notificazione previsto all’articolo 9 capoverso 3.
 
-[^32a-1]: Introdotto dal n. I dell’O del 13 mar. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Nuovo testo giusta l’all. n. 1 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^32a-1]: Introdotto dalla cifra I dell’O del 13 mar. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Nuovo testo giusta l’all. n. 1 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 ## Sezione 13: Esecuzione
 
@@ -510,16 +485,9 @@ Per le procedure pendenti al momento dell’entrata in vigore della presente ord
 
 #### Art. 38
 
-**Disciplinamento transitorio**[^38-1]
+[^38-1]
 
-### (art. 10 dell’Acc. sulla libera circolazione delle persone e art. 26–34 all. I dell’Acc. sulla libera circolazione delle persone)
-
-In applicazione dell’articolo 10 paragrafo 4*d* primo e secondo periodo dell’Accordo sulla libera circolazione delle persone, i contingenti annuali massimi di nuovi permessi rilasciati ai lavoratori (salariati e indipendenti) della Croazia sono fissati come segue:
-
-- a. 1053 permessi di soggiorno di breve durata UE/AELS;
-- b. 1204 permessi di dimora UE/AELS.
-
-[^38-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 123](https://fedlex.data.admin.ch/eli/oc/2023/123)).
+[^38-1]: Abrogato dalla cifra I dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 
 ## Sezione 17: Entrata in vigore
 
