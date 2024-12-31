@@ -4,11 +4,11 @@ title: Ordinanza del 24 novembre 2004 sulle indennità di perdita di guadagno (O
 short: OIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/it"
 
 (OIPG)
 
-del 24 novembre 2004 (Stato 1° luglio 2024)
+del 24 novembre 2004 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -58,11 +58,15 @@ Le persone che non rispondono ai requisiti di cui all’articolo 1 sono consider
 
 #### Art. 3
 
-**Formazione di monitori per Gioventù e Sport (G+S)**
+**Persone che partecipano ai corsi di formazione dei quadri di Gioventù e Sport**
 
 ### (art. 1*a* cpv. 4 LIPG)
 
+[^3-1]
+
 L’Ufficio federale dello sport definisce quali sono i corsi che danno diritto all’indennità ai sensi dell’articolo 1*a* capoverso 4 LIPG.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ### Sezione 2: Calcolo dell’indennità
 
@@ -85,17 +89,21 @@ L’indennità per lavoratori salariati è calcolata sulla base dell’ultimo sa
 - g.[^4-5] accoglimento di un bambino di età inferiore a quattro anni in vista dell’adozione (adottando);
 - h.[^4-6] altri motivi non imputabili a colpa propria.
 
-<sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività lucrativa dipendente per un periodo più lungo o che avrebbe percepito un salario significativamente superiore a quello percepito prima dell’entrata in servizio, l’indennità è calcolata sulla base del salario che essa avrebbe potuto percepire. Se ha portato a termine la sua formazione subito prima dell’entrata in servizio o l’avrebbe conclusa durante il medesimo, l’indennità è calcolata sulla base del salario iniziale percepito di norma per la professione in questione nella regione in cui sarebbe stata esercitata.
+<sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività lucrativa dipendente per un periodo più lungo o che avrebbe percepito un salario significativamente superiore a quello percepito prima dell’entrata in servizio, l’indennità è calcolata sulla base del salario che essa avrebbe potuto percepire.[^4-7]
 
-<sup>3</sup> Per chi collabora ad un’azienda della propria famiglia senza essere retribuito in termini monetari e presta servizio prima del 1° gennaio dell’anno successivo a quello in cui ha compiuto vent’anni, l’indennità è calcolata sulla base del salario mensile globale ai sensi dell’articolo 14 capoverso 3 dell’ordinanza del 31 ottobre 1947[^4-7] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
+<sup>2bis</sup> Per la persona che ha portato a termine la sua formazione subito prima dell’entrata in servizio o che l’avrebbe conclusa durante il medesimo, l’indennità è calcolata sulla base del salario percepito per la professione in questione. Vanno presi come riferimento i valori centrali della Rilevazione della struttura dei salari (RSS) dell’Ufficio federale di statistica. Nel singolo caso possono essere impiegati altri valori statistici, se il reddito non figura nella RSS. In caso di differenze di reddito tra i sessi, va utilizzato il valore più elevato.[^4-8]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+<sup>3</sup> Per chi collabora ad un’azienda della propria famiglia senza essere retribuito in termini monetari e presta servizio prima del 1° gennaio dell’anno successivo a quello in cui ha compiuto vent’anni, l’indennità è calcolata sulla base del salario mensile globale ai sensi dell’articolo 14 capoverso 3 dell’ordinanza del 31 ottobre 1947[^4-9] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^4-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^4-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-5]: Introdotta dal n. I dell’O del 12 mag. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-6]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-7]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-5]: Introdotta dalla cifra I dell’O del 12 mag. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-6]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-7]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
+[^4-8]: Introdotto dalla cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
+[^4-9]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -122,7 +130,7 @@ Il reddito giornaliero medio percepito prima dell’entrata in servizio è calco
 
 <sup>4</sup> Le parti del salario pagate regolarmente ma solo una volta all’anno o a intervalli di più mesi, sono convertite in salario giornaliero medio e aggiunte al reddito determinato in base al capoverso 2.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 6
 
@@ -156,10 +164,10 @@ L’indennità per lavoratori indipendenti è calcolata sulla base del reddito d
 
 <sup>3</sup> Nel caso di un lavoratore indipendente che non è tenuto a pagare prima dell’entrata in servizio i contributi previsti dalla legge federale del 20 dicembre 1946[^7-5] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), l’indennità è calcolata sulla base del reddito conseguito durante l’anno precedente l’entrata in servizio.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^7-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^7-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-4]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-4]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^7-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 8
@@ -245,7 +253,7 @@ Ha diritto all’assegno per l’azienda chi svolge la sua attività lucrativa p
 
 ### (art. 19 cpv. 3 LIPG)
 
-<sup>1</sup> Il diritto a un’indennità si esercita mediante un formulario ufficiale, completo della documentazione necessaria.
+<sup>1</sup> La domanda d’indennità è presentata tramite il sistema d’informazione di cui all’articolo 21*a* LIPG o un formulario ufficiale cartaceo, allegando la documentazione necessaria.[^15-1]
 
 <sup>2</sup>
 
@@ -253,14 +261,17 @@ L’Ufficio federale delle assicurazioni sociali distribuisce il formulario per 
 
 - a. gli stati maggiori e le unità militari;
 - b. gli uffici della protezione civile incaricati di convocare;
-- c. l’organo federale responsabile dell’esecuzione del servizio civile[^15-1] e i suoi incaricati;
+- c. l’organo federale responsabile dell’esecuzione del servizio civile[^15-2] e i suoi incaricati;
 - d. l’Ufficio federale dello sport.
 
-<sup>3</sup> Il formulario per l’esercizio del diritto all’indennità è consegnato alla fine del servizio. Se il servizio dura più di 30 giorni, il formulario è consegnato dopo dieci giorni e in seguito alla fine di ogni mese civile.
+<sup>3</sup> La domanda d’indennità è generata alla fine del servizio. Se il servizio dura più di 30 giorni, la domanda è generata dopo dieci giorni e, in seguito, alla fine di ogni mese civile.[^15-3]
 
-<sup>4</sup> Se una persona o i suoi congiunti necessitano il versamento dell’indennità in tempi più ristretti, i formulari per l’esercizio del diritto all’indennità vanno consegnati durante tutto il servizio ogni dieci giorni.
+<sup>4</sup> Se una persona o i suoi congiunti necessitano del versamento dell’indennità in tempi più ristretti, la domanda d’indennità è generata ogni dieci giorni durante tutto il servizio.[^15-4]
 
-[^15-1]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^15-2]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
+[^15-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^15-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 16
 
@@ -276,18 +287,20 @@ L’Ufficio federale delle assicurazioni sociali distribuisce il formulario per 
 
 <sup>4</sup> Ogni giorno di servizio che dà diritto a un’indennità può essere attestato una volta sola.
 
-<sup>5</sup> Nel caso sia stato consegnato un formulario per l’esercizio del diritto all’indennità sbagliato o il formulario sia andato perduto, la cassa di compensazione competente rilascia un formulario sostitutivo. In tale formulario essa attesta, sulla base del libretto di servizio, dell’attestazione di frequenza del corso o di un estratto del sistema d’informazione del servizio civile, i giorni di servizio che danno diritto a un’indennità.[^16-2]
+<sup>5</sup> In caso di presentazione della domanda d’indennità mediante un formulario ufficiale cartaceo, se questo contiene errori o è andato perduto la cassa di compensazione competente rilascia un formulario sostitutivo. In tale formulario essa attesta, sulla base dei dati contenuti nel sistema d’informazione di cui all’articolo 21*a* LIPG, del libretto di servizio, dell’attestazione di frequenza del corso o di un estratto del sistema d’informazione del servizio civile, il numero dei giorni di servizio che danno diritto a un’indennità.[^16-2]
 
 [^16-1]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
-[^16-2]: Nuovo testo giusta il n. III 2 dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 17
 
-**Dichiarazione di salario da parte del datore di lavoro**
+**Dichiarazione del salario da parte del datore di lavoro**[^17-1]
 
 ### (art. 19 cpv. 3 LIPG)
 
-Se una persona che presta servizio è indennizzata come lavoratore salariato, il datore di lavoro è tenuto ad attestare, mediante il formulario per l’esercizio del diritto a un’indennità, il salario determinante per il calcolo della stessa, il salario versato durante il servizio nonché la durata dell’impiego.
+Se una persona che presta servizio è indennizzata quale lavoratore salariato, il datore di lavoro attesta il salario determinante per il calcolo dell’indennità, il salario versato durante il servizio nonché la durata dell’impiego. Lo fa conformemente alla procedura stabilita dalla cassa di compensazione competente oppure mediante un formulario ufficiale cartaceo.
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 18
 
@@ -295,9 +308,11 @@ Se una persona che presta servizio è indennizzata come lavoratore salariato, il
 
 ### (art. 17 cpv. 1 LIPG)
 
-<sup>1</sup> I congiunti e il datore di lavoro della persona che presta servizio, in virtù dell’articolo 17 capoverso 1 LIPG, sono autorizzati ad esercitare il diritto all’indennità presso la cassa di compensazione competente e si procurano direttamente, se necessario, l’attestato dei giorni di servizio che danno diritto a un’indennità e la dichiarazione di salario. Gli articoli 15–17 si applicano per analogia.
+<sup>1</sup> I congiunti e il datore di lavoro della persona che presta servizio autorizzati ad agire in sua vece in virtù dell’articolo 17 capoverso 1 LIPG esercitano il diritto all’indennità presso la cassa di compensazione competente e si procurano direttamente, se necessario, l’attestato dei giorni di servizio che danno diritto a un’indennità e la dichiarazione di salario. Gli articoli 15–17 si applicano per analogia.[^18-1]
 
 <sup>2</sup> Nel caso sussista un diritto ad un assegno a favore di persone che lavorano per l’azienda di famiglia ai sensi dell’articolo 14, l’articolo 17 capoverso 1 lettera b LIPG è applicabile, per analogia, anche per il titolare dell’azienda.
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 19
 
@@ -307,7 +322,7 @@ Se una persona che presta servizio è indennizzata come lavoratore salariato, il
 
 <sup>1</sup>
 
-Competente per ricevere i formulari, fissare e pagare le indennità è:
+La cassa di compensazione competente per ricevere la domanda d’indennità e per fissare e pagare le indennità è:[^19-1]
 
 - a. per le persone tenute a pagare i contributi AVS: la cassa di compensazione competente per la riscossione dei contributi prima dell’entrata in servizio;
 - b. per le persone domiciliate in Svizzera, non soggette al pagamento dei contributi: la cassa di compensazione cantonale del loro Cantone di domicilio;
@@ -316,6 +331,93 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 <sup>2</sup> Se più casse di compensazione sono competenti, la persona avente diritto all’indennità sceglie tra di esse.
 
 <sup>3</sup> La domanda del lavoratore salariato deve pervenire per il tramite del suo datore di lavoro.
+
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+#### Art. 19a
+
+**Trasmissione della domanda d’indennità**[^19a-1]
+
+### (art. 19 cpv. 3 LIPG)
+
+<sup>1</sup> La cassa di compensazione competente riceve la domanda non appena la persona che presta servizio l’ha convalidata nel sistema d’informazione di cui all’articolo 21*a* LIPG.
+
+<sup>2</sup> Se la domanda non è convalidata entro 30 giorni dal momento in cui è stata generata, l’Ufficio centrale di compensazione (UCC) invia il formulario ufficiale cartaceo alla persona che presta servizio.
+
+<sup>3</sup> Se la domanda è depositata mediante il formulario ufficiale cartaceo, la persona che presta servizio deve inviarlo personalmente alla cassa di compensazione competente.
+
+[^19a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+### Sezione 5*a:* Sistema d’informazione
+
+[^chap1-sec5a-1]
+
+[^chap1-sec5a-1]: Introdotta dalla cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+#### Art. 19b
+
+**Contenuto del sistema d’informazione e comunicazione dei dati**
+
+### (art. 21*a* cpv. 4 lett. b LIPG)
+
+<sup>1</sup>
+
+Il sistema d’informazione di cui all’articolo 21*a* LIPG contiene i seguenti dati:
+
+- a. i seguenti dati relativi alla persona che presta servizio: numero AVS, cognome, nomi, data di nascita, sesso, indirizzo di domicilio, indirizzo di posta elettronica e numero di telefono;
+- b. i dati relativi al periodo di servizio, segnatamente il numero di controllo, la data di entrata in servizio secondo l’ordine di marcia o la convocazione, il periodo di servizio, il codice del servizio, le mutazioni, il numero di giorni di soldo;
+- c. i seguenti dati relativi ai figli della persona che presta servizio: il numero AVS, il cognome, i nomi, la data di nascita, il rapporto di filiazione, l’attestato di formazione e, se del caso, il formulario per i figli elettivi e i figli del coniuge;
+- d. le spese supplementari per la custodia dei figli;
+- e. le informazioni sull’attività esercitata prima del periodo di servizio;
+- f. le coordinate per il pagamento dell’indennità;
+- g. i documenti attestanti i dati di cui alle lettere a–f, se non provengono da uno dei sistemi d’informazione o uno dei registri di cui all’articolo 21*a* capoverso 2 LIPG;
+- h. i dati tecnici relativi alla gestione della domanda d’indennità.
+
+<sup>2</sup>
+
+I dati di cui al capoverso 1 sono trasmessi alla cassa di compensazione competente per il trattamento della domanda d’indennità:
+
+- a. quando la persona che presta servizio l’ha convalidata nel sistema d’informazione;
+- b. quando una domanda d’indennità è depositata mediante il formulario ufficiale cartaceo; o
+- c. su richiesta di una persona autorizzata ad agire secondo l’articolo 17 capoverso 1 LIPG.
+
+#### Art. 19c
+
+**Accesso al sistema d’informazione**
+
+### (art. 21*a* cpv. 4 lett. d LIPG)
+
+Hanno accesso al sistema d’informazione di cui all’articolo 21*a* LIPG:
+
+- a. la persona che presta servizio, per completare e convalidare la domanda d’indennità;
+- b. la cassa di compensazione competente, per trattare la domanda;
+- c. l’UCC, per gestire il sistema d’informazione.
+
+#### Art. 19d
+
+**Protezione dei dati e sicurezza delle informazioni**
+
+### (art. 21*a* cpv. 4 lett. f LIPG)
+
+L’UCC adotta i provvedimenti organizzativi e tecnici necessari per garantire la sicurezza dei dati.
+
+#### Art. 19e
+
+**Durata di conservazione**
+
+### (art. 21*a* cpv. 4 lett. c LIPG)
+
+<sup>1</sup> I dati sono conservati nel sistema d’informazione per cinque anni a contare dalla fine del servizio che dà diritto all’indennità.
+
+<sup>2</sup> I giustificativi allegati alla domanda sono cancellati dopo che la persona prestante servizio ha convalidato la domanda d’indennità.
+
+#### Art. 19f
+
+**Responsabilità**
+
+### (art. 21*a* cpv. 4 lett. a LIPG)
+
+L’UCC è responsabile della protezione dei dati del sistema d’informazione di cui all’articolo 21*a* LIPG.
 
 ### Sezione 6: Fissazione e pagamento dell’indennità
 
@@ -335,7 +437,7 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 
 ### (art. 19 LIPG)
 
-<sup>1</sup> Una volta ricevuto il formulario, la cassa di compensazione o il datore di lavoro paga senza indugio l’importo dovuto o lo compensa ai sensi dell’articolo 19 capoverso 2 LPGA o dell’articolo 20 capoverso 2 LAVS[^21-1].
+<sup>1</sup> Una volta ricevuta la domanda, la cassa di compensazione o il datore di lavoro paga senza indugio l’importo dovuto o lo compensa ai sensi dell’articolo 19 capoverso 2 LPGA o dell’articolo 20 capoverso 2 LAVS[^21-1].[^21-2]
 
 <sup>2</sup> L’articolo 19 capoverso 2 LPGA può essere applicato anche nel caso in cui il servizio abbia luogo del tutto o in parte durante il tempo libero del lavoratore salariato o il datore di lavoro sia domiciliato all’estero.
 
@@ -344,6 +446,7 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 <sup>4</sup> Come ricevute valgono i giustificativi interni delle casse, le attestazioni di conteggio di Postfinance e le distinte del conto bancario.
 
 [^21-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 22
 
@@ -361,7 +464,7 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 
 [^chap2-1]
 
-[^chap2-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^chap2-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 ### Sezione 1: Inizio ed estinzione del diritto all’indennità
 
@@ -375,7 +478,7 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 
 <sup>2</sup> La madre ha inoltre diritto all’indennità se la gravidanza è durata almeno 23 settimane.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 24
 
@@ -385,7 +488,7 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 
 La prova che il neonato deve restare in ospedale per almeno due settimane consecutive immediatamente dopo la nascita deve essere fornita mediante un attestato medico.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 #### Art. 25
 
@@ -397,8 +500,8 @@ La prova che il neonato deve restare in ospedale per almeno due settimane consec
 
 Il diritto all’indennità di maternità si estingue il giorno in cui la madre riprende l’attività lucrativa, indipendentemente dal grado di occupazione.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 ### Sezione 2: Durata minima del periodo d’assicurazione
 
@@ -415,8 +518,8 @@ Per determinare la durata minima del periodo d’assicurazione secondo l’artic
 - a. che applica l’accordo del 21 giugno 1999[^26-3] tra la Confederazione svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, con il suo allegato II, e i regolamenti n. 1408/71 e n. 574/72[^26-4] nella loro versione modificata[^26-5];
 - b. facente parte dell’Associazione europea di libero scambio.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^26-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^26-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^26-4]: R (CEE) n. 574/72 del Consiglio, del 21 mar. 1972, che stabilisce le modalità di applicazione del R (CEE) n. 1408/71, GU L 74 del 27 mar. 1972, pag. 1 (parimenti codificato dal R (CE) n. 118/97 del Consiglio, del 2 dic. 1996, GU L 28 del 30 gen. 1997, pag. 1); modificato da ultimo dal R (CE) n. 307/1999 del Consiglio, dell’8 feb. 1999 (GU L 38 del 12 feb. 1999, pag. 1).
 [^26-5]: Una versione consolidata provvisoria del testo dei R (CEE) n. 1408/71 e n. 574/72, ivi comprese le mod. introdotte mediante il R (CE) del Consiglio n. 307/1999, può essere richiesta all’Ufficio federale delle assicurazioni sociali, 3003 Berna. Fa fede solo la versione pubblicata sulla Gazzetta Ufficiale della Comunità europea.
@@ -435,8 +538,8 @@ In caso di parto prematuro il periodo d’assicurazione stabilito all’articolo
 - b. a 7 mesi, se il parto ha luogo tra il settimo e l’ottavo mese di gravidanza;
 - c. a 6 mesi, se il parto ha luogo prima del settimo mese di gravidanza.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Sezione 3: Durata minima del periodo di attività lucrativa
 
@@ -453,8 +556,8 @@ Per determinare la durata minima del periodo di attività lucrativa secondo l’
 - a. che applica l’accordo del 21 giugno 1999[^28-3] tra la Confederazione svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, con il suo allegato II, e i regolamenti n. 1408/71 e n. 574/72[^28-4] nella loro versione modificata[^28-5];
 - b. facente parte dell’Associazione europea di libero scambio.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-2]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^28-2]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^28-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^28-4]: R (CEE) n. 574/72 del Consiglio, del 21 mar. 1972, che stabilisce le modalità di applicazione del R (CEE) n. 1408/71, GU L 74 del 27 mar. 1972, pag. 1 (parimenti codificato dal R (CE) n. 118/97 del Consiglio, del 2 dic. 1996, GU L 28 del 30 gen. 1997, pag. 1); modificato da ultimo dal R (CE) n. 307/1999 del Consiglio, dell’8 feb. 1999 (GU L 38 del 12 feb. 1999, pag. 1).
 [^28-5]: Una versione consolidata provvisoria del testo dei R (CEE) n. 1408/71 e n. 574/72, ivi comprese le mod. introdotte mediante il regolamento (CE) del Consiglio n. 307/1999, può essere richiesta all’Ufficio federale delle assicurazioni sociali, 3003 Berna. Fa fede solo la versione pubblicata sulla Gazzetta Ufficiale della Comunità europea.
@@ -467,7 +570,7 @@ Per determinare la durata minima del periodo di attività lucrativa secondo l’
 
 Per determinare la durata minima del periodo di attività lucrativa secondo l’articolo 16*b* capoverso 1 lettera b o 16*i* capoverso 1 lettera c LIPG si tiene conto anche dei periodi durante i quali la persona avente diritto ha prestato servizio ai sensi dell’articolo 1*a* LIPG.
 
-[^28a-1]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^28a-1]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 29
 
@@ -505,12 +608,12 @@ L’altro genitore secondo il capoverso 2 lettera a ha diritto a indennità gior
 - a. non ha esaurito le indennità giornaliere dell’assicurazione contro la disoccupazione prima della nascita del figlio e il termine quadro per la riscossione delle prestazioni è ancora aperto il giorno dopo la fine del congedo per l’altro genitore in caso di decesso della madre; e
 - b. è disponibile un attestato medico secondo l’articolo 24.[^29-6]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^29-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^29-3]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^29-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-5]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^29-6]: Introdotto dal n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-3]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^29-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-5]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-6]: Introdotto dalla cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 30
 
@@ -525,9 +628,9 @@ La madre o l’altro genitore che, al momento della nascita del figlio, sono inc
 - a. fino alla nascita del figlio hanno beneficiato di un’indennità per perdita di guadagno dovuta a malattia o infortunio versata da un’assicurazione sociale o da un’assicurazione privata oppure di indennità giornaliere dell’assicurazione per l’invalidità; o
 - b. al momento della nascita del figlio, pur avendo già perso il diritto a percepire il salario, hanno un rapporto di lavoro ancora valido.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^30-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 ### Sezione 4: Calcolo dell’indennità
 
@@ -556,15 +659,15 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 
 <sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.[^31-9]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^31-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^31-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^31-5]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^31-6]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^31-7]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^31-8]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^31-9]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-5]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-6]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-7]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-8]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^31-9]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 32
 
@@ -574,7 +677,7 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 
 Alla madre o all’altro genitore che esercita un’attività lucrativa indipendente si applica per analogia l’articolo 7 capoversi 1 e 1<sup>bis</sup>.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 33
 
@@ -584,7 +687,7 @@ Alla madre o all’altro genitore che esercita un’attività lucrativa indipend
 
 Se la madre o l’altro genitore esercita contemporaneamente un’attività lucrativa dipendente e una indipendente, l’indennità è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoversi 1 e 1<sup>bis</sup> e 31.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 ### Sezione 5: Esercizio del diritto, fissazione e pagamento dell’indennità
 
@@ -604,7 +707,7 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 <sup>2</sup> L’articolo 19 capoversi 2 e 3 si applica per analogia.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 34a
 
@@ -620,8 +723,8 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 <sup>4</sup> L’organo competente rilascia alla madre che partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, un attestato secondo cui per le sedute in questione non è prevista una supplenza. La madre inoltra questo attestato alla cassa di compensazione.[^34a-2]
 
-[^34a-1]: Introdotto dal n. I dell’O del 21 ott. 2020 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^34a-2]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^34a-1]: Introdotto dalla cifra I dell’O del 21 ott. 2020 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^34a-2]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 #### Art. 35
 
@@ -639,23 +742,23 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 <sup>5</sup> Per il versamento dell’indennità si applica per analogia l’articolo 21 capoversi 3 e 4.[^35-5]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^35-4]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^35-5]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^35-4]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^35-5]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 ## Capitolo 2*a*: Indennità di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio
 
 [^chap2a-1]
 
-[^chap2a-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^chap2a-1]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 ### Sezione 1: Diritto di genitori affilianti, matrigne e patrigni nonché della madre e dell’altro genitore disoccupati o incapaci al lavoro
 
 [^chap2a-sec1-1]
 
-[^chap2a-sec1-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^chap2a-sec1-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 35a
 
@@ -686,7 +789,7 @@ Una matrigna o un patrigno ha diritto secondo l’articolo 16*n* capoversi 1 e 2
 
 Il diritto della madre disoccupata o dell’altro genitore disoccupato è retto dall’articolo 16*n* capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o dell’altro genitore e fino all’inizio del diritto la madre o l’altro genitore ha percepito un’indennità giornaliera dell’assicurazione contro la disoccupazione.
 
-[^35c-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35c-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 35d
 
@@ -701,9 +804,9 @@ Il diritto della madre o dell’altro genitore incapace al lavoro è retto dall�
 - a.[^35d-3] fino all’inizio del diritto, la madre o l’altro genitore incapace al lavoro ha percepito indennità giornaliere dell’assicurazione per l’invalidità o un’indennità per perdita di guadagno dovuta a malattia o infortunio versata da un’altra assicurazione sociale o da un’assicurazione privata; o
 - b. all’inizio del diritto, pur avendo già perso il diritto a percepire il salario, ha un rapporto di lavoro ancora valido.
 
-[^35d-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35d-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35d-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35d-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35d-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35d-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 ### Sezione 2: Calcolo dell’indennità
 
@@ -738,10 +841,10 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 
 <sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.
 
-[^35f-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35f-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35f-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^35f-3]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35f-4]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-3]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-4]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35g
 
@@ -751,7 +854,7 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 
 Ai lavoratori indipendenti aventi diritto si applica per analogia l’articolo 7 capoversi 1 e 1<sup>bis</sup>.
 
-[^35g-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35g-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35h
 
@@ -761,7 +864,7 @@ Ai lavoratori indipendenti aventi diritto si applica per analogia l’articolo 7
 
 L’indennità per gli aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoversi 1 e 1<sup>bis</sup> e 35*f*.
 
-[^35h-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35h-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Sezione 3: Esercizio del diritto, fissazione e pagamento dell’indennità
 
@@ -803,14 +906,14 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 
 <sup>4</sup> Per la fissazione e il pagamento dell’indennità delle persone che abitano all’estero si applica per analogia l’articolo 22.
 
-[^35k-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35k-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^35k-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ## Capitolo 2*b*: Indennità in caso di adozione
 
 [^chap2b-1]
 
-[^chap2b-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^chap2b-1]: Introdotto dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Sezione 1: Durata minima del periodo d’assicurazione e durata minima del periodo di attività lucrativa
 
@@ -856,7 +959,7 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 
 <sup>2</sup> Gli articoli 5 e 6 si applicano per analogia.
 
-[^35n-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35n-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35n-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 35o
@@ -885,7 +988,7 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 
 <sup>1</sup> Competente per ricevere la domanda nonché fissare e pagare le indennità è la Cassa federale di compensazione (CFC).
 
-- [tab] <sup>2</sup> La domanda del lavoratore salariato deve pervenire per il tramite del suo datore di lavoro.
+<sup>2</sup> La domanda del lavoratore salariato deve pervenire per il tramite del suo datore di lavoro.
 
 #### Art. 35r
 
@@ -930,30 +1033,29 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 <table>
 <tr><th colspan="2">Reddito annuo dell’attività lucrativa</th><th></th><th>Tasso di contributo in percentuale del reddito dell’attività lucrativa</th></tr>
 <tr><th>di almeno fr.</th><th colspan="2">ma inferiore a fr.</th><th></th></tr>
-<tr><td>9800</td><td colspan="2">17 500</td><td>0,269</td></tr>
-<tr><td>17 500</td><td colspan="2">21 300</td><td>0,275</td></tr>
-<tr><td>21 300</td><td colspan="2">23 800</td><td>0,281</td></tr>
-<tr><td>23 800</td><td colspan="2">26 300</td><td>0,287</td></tr>
-<tr><td>26 300</td><td colspan="2">28 800</td><td>0,293</td></tr>
-<tr><td>28 800</td><td colspan="2">31 300</td><td>0,299</td></tr>
-<tr><td>31 300</td><td colspan="2">33 800</td><td>0,312</td></tr>
-<tr><td>33 800</td><td colspan="2">36 300</td><td>0,324</td></tr>
-<tr><td>36 300</td><td colspan="2">38 800</td><td>0,336</td></tr>
-<tr><td>38 800</td><td colspan="2">41 300</td><td>0,349</td></tr>
-<tr><td>41 300</td><td colspan="2">43 800</td><td>0,361</td></tr>
-<tr><td>43 800</td><td colspan="2">46 300</td><td>0,373</td></tr>
-<tr><td>46 300</td><td colspan="2">48 800</td><td>0,392</td></tr>
-<tr><td>48 800</td><td colspan="2">51 300</td><td>0,410</td></tr>
-<tr><td>51 300</td><td colspan="2">53 800</td><td>0,429</td></tr>
-<tr><td>53 800</td><td colspan="2">56 300</td><td>0,448</td></tr>
-<tr><td>56 300</td><td colspan="2">58 800</td><td>0,466 .[^36-3]</td></tr>
+<tr><td>10 100</td><td colspan="2">17 600</td><td>0,269</td></tr>
+<tr><td>17 600</td><td colspan="2">23 000</td><td>0,275</td></tr>
+<tr><td>23 000</td><td colspan="2">25 500</td><td>0,281</td></tr>
+<tr><td>25 500</td><td colspan="2">28 000</td><td>0,287</td></tr>
+<tr><td>28 000</td><td colspan="2">30 500</td><td>0,293</td></tr>
+<tr><td>30 500</td><td colspan="2">33 000</td><td>0,299</td></tr>
+<tr><td>33 000</td><td colspan="2">35 500</td><td>0,312</td></tr>
+<tr><td>35 500</td><td colspan="2">38 000</td><td>0,324</td></tr>
+<tr><td>38 000</td><td colspan="2">40 500</td><td>0,336</td></tr>
+<tr><td>40 500</td><td colspan="2">43 000</td><td>0,349</td></tr>
+<tr><td>43 000</td><td colspan="2">45 500</td><td>0,361</td></tr>
+<tr><td>45 500</td><td colspan="2">48 000</td><td>0,373</td></tr>
+<tr><td>48 000</td><td colspan="2">50 500</td><td>0,392</td></tr>
+<tr><td>50 500</td><td colspan="2">53 000</td><td>0,410</td></tr>
+<tr><td>53 000</td><td colspan="2">55 500</td><td>0,429</td></tr>
+<tr><td>55 500</td><td colspan="2">58 000</td><td>0,448</td></tr>
+<tr><td>58 000</td><td colspan="2">60 500</td><td>0,466</td></tr>
 </table>
 
-<sup>2</sup> Le persone che non esercitano un’attività lucrativa versano un contributo da 24 a 1200 franchi annui. Gli articoli 28–30 OAVS si applicano per analogia.
+<sup>2</sup> Le persone che non esercitano un’attività lucrativa versano un contributo da 25 a 1250 franchi annui. Gli articoli 28–30 OAVS si applicano per analogia.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^36-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^36-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 610](https://fedlex.data.admin.ch/eli/oc/2022/610)).
 
 #### Art. 37
 
@@ -1035,13 +1137,13 @@ Se la LIPG e la presente ordinanza non stabiliscono altrimenti, sono applicabili
 
 #### Art. 43
 
-**Esecuzione**
+**Esecuzione**[^43-1]
 
 <sup>1</sup> Il Dipartimento federale dell’interno è incaricato dell’esecuzione.
 
-<sup>2</sup> Può emanare disposizioni d’esecuzione concernenti gli organi di esecuzione come pure, d’accordo con il Dipartimento federale della difesa, della protezione della popolazione e dello sport e il Dipartimento federale dell’economia, della formazione e della ricerca[^43-1], raccomandazioni rivolte ai contabili dell’esercito e della protezione civile, ai responsabili per l’organizzazione della formazione di monitori per Gioventù e Sport (G+S) e agli organi responsabili dell’esecuzione del servizio civile.
+<sup>2</sup> Può emanare disposizioni d’esecuzione concernenti gli organi di esecuzione come pure, d’accordo con il Dipartimento federale della difesa, della protezione della popolazione e dello sport e il Dipartimento federale dell’economia, della formazione e della ricerca, raccomandazioni rivolte ai contabili dell’esercito e della protezione civile, ai responsabili per l’organizzazione dei corsi di formazione dei quadri di Gioventù e Sport e agli organi responsabili dell’esecuzione del servizio civile.
 
-[^43-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 44
 
@@ -1052,7 +1154,7 @@ Le seguenti ordinanze sono abrogate:
 - 1\. ordinanza del 24 dicembre 1959[^44-1] sulle indennità per perdita di guadagno (OIPG)
 - 2\. ordinanza del 31 luglio 1972[^44-2] sulle indennità per perdita di guadagno ai partecipanti ai corsi per monitori di «Gioventù e Sport»
 
-[^44-1]: [[RU 1959 2240](https://fedlex.data.admin.ch/eli/oc/1959/2143_2209_2240); [1964 332](https://fedlex.data.admin.ch/eli/oc/1964/337_329_332); [1969 324](https://fedlex.data.admin.ch/eli/oc/1969/315_323_324); [1973 2056](https://fedlex.data.admin.ch/eli/oc/1973/__2056), [2153](https://fedlex.data.admin.ch/eli/oc/1973/2153_2153_2153); [1976 63](https://fedlex.data.admin.ch/eli/oc/1976/63_63_63); [1981 1020](https://fedlex.data.admin.ch/eli/oc/1981/1020_1020_1020)art. 5; [1983 919](https://fedlex.data.admin.ch/eli/oc/1983/919_919_919)art. 5; [1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397); [1992 1842](https://fedlex.data.admin.ch/eli/oc/1992/1842_1842_1842); [1994 2177](https://fedlex.data.admin.ch/eli/oc/1994/2177_2177_2177); [1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)app. 3 n. 9; [1999 1854](https://fedlex.data.admin.ch/eli/oc/1999/305); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 8, [3350](https://fedlex.data.admin.ch/eli/oc/2002/506), [3942](https://fedlex.data.admin.ch/eli/oc/2002/618); [2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)n. II; [2004 4377](https://fedlex.data.admin.ch/eli/oc/2004/667)]
+[^44-1]: [[RU 1959 2240](https://fedlex.data.admin.ch/eli/oc/1959/2143_2209_2240); [1964 332](https://fedlex.data.admin.ch/eli/oc/1964/337_329_332); [1969 324](https://fedlex.data.admin.ch/eli/oc/1969/315_323_324); [1973 2056](https://fedlex.data.admin.ch/eli/oc/1973/__2056), [2153](https://fedlex.data.admin.ch/eli/oc/1973/2153_2153_2153); [1976 63](https://fedlex.data.admin.ch/eli/oc/1976/63_63_63); [1981 1020](https://fedlex.data.admin.ch/eli/oc/1981/1020_1020_1020)art. 5; [1983 919](https://fedlex.data.admin.ch/eli/oc/1983/919_919_919)art. 5; [1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397); [1992 1842](https://fedlex.data.admin.ch/eli/oc/1992/1842_1842_1842); [1994 2177](https://fedlex.data.admin.ch/eli/oc/1994/2177_2177_2177); [1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)app. 3 n. 9; [1999 1854](https://fedlex.data.admin.ch/eli/oc/1999/305); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 8, [3350](https://fedlex.data.admin.ch/eli/oc/2002/506), [3942](https://fedlex.data.admin.ch/eli/oc/2002/618); [2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)cifra II; [2004 4377](https://fedlex.data.admin.ch/eli/oc/2004/667)]
 [^44-2]: [[RU 1972 1954](https://fedlex.data.admin.ch/eli/oc/1972/1750_1774_1954)]
 
 #### Art. 45

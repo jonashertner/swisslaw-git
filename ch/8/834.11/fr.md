@@ -4,11 +4,11 @@ title: Ordonnance du 24 novembre 2004 sur les allocations pour perte de gain (OA
 short: OAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20250101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/fr"
 
 (OAPG)[^t-1]
 
-du 24 novembre 2004 (État le 1<sup>er</sup> juillet 2024)
+du 24 novembre 2004 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
@@ -60,11 +60,15 @@ Les personnes qui ne remplissent pas l’une des conditions énoncées à l’ar
 
 #### Art. 3
 
-**Personnes participant aux cours de formation des cadres de Jeunesse et Sport (J+S)**
+**Personnes qui participent aux cours de formation des cadres «Jeunesseet sport»**
 
 ### (art. 1*a*, al. 4, LAPG)
 
+[^3-1]
+
 L’Office fédéral du sport désigne les cours qui, conformément à l’art. 1*a*, al. 4, LAPG, donnent droit à l’allocation.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ### Section 2 Calcul de l’allocation
 
@@ -87,17 +91,21 @@ L’allocation des salariés est calculée sur la base du dernier salaire déter
 - g.[^4-5] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
 - h.[^4-6] d’autres motifs n’impliquant aucune faute de sa part.
 
-<sup>2</sup> Pour les personnes qui rendent vraisemblable que, durant le service, elles auraient entrepris une activité salariée de longue durée ou gagné sensiblement plus qu’avant d’entrer en service, l’allocation est calculée d’après le revenu qu’elles ont perdu. Pour les personnes qui ont achevé leur formation professionnelle immédiatement avant d’entrer en service et pour celles qui l’auraient achevée pendant la période où elles effectuent leur service, l’allocation est calculée sur la base du salaire initial versé selon l’usage local dans la profession concernée.
+<sup>2</sup> Pour les personnes qui rendent vraisemblable que, durant le service, elles auraient entrepris une activité salariée de longue durée ou gagné sensiblement plus qu’avant d’entrer en service, l’allocation est calculée d’après le revenu qu’elles ont perdu.[^4-7]
 
-<sup>3</sup> Pour les membres de la famille qui travaillent avec l’exploitant sans recevoir de salaire en espèces et qui accomplissent un service avant le 1<sup>er</sup> janvier de l’année suivant celle au cours de laquelle ils ont atteint l’âge de 20 ans, l’allocation est calculée d’après le salaire global déterminé selon l’art. 14, al. 3, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^4-7].
+<sup>2bis</sup> Pour les personnes qui ont achevé leur formation professionnelle immédiatement avant d’entrer en service et pour celles qui l’auraient achevée pendant la période où elles effectuent leur service, l’allocation est calculée sur la base du salaire versé dans la profession concernée. Les valeurs médianes de l’enquête suisse sur la structure des salaires (ESS) de l’Office fédéral de la statistique font foi. D’autres valeurs statistiques peuvent être utilisées dans des cas particuliers si le revenu en question n’est pas représenté dans l’ESS. En cas de différence de revenu entre les sexes, la valeur la plus élevée doit être utilisée.[^4-8]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+<sup>3</sup> Pour les membres de la famille qui travaillent avec l’exploitant sans recevoir de salaire en espèces et qui accomplissent un service avant le 1<sup>er</sup> janvier de l’année suivant celle au cours de laquelle ils ont atteint l’âge de 20 ans, l’allocation est calculée d’après le salaire global déterminé selon l’art. 14, al. 3, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^4-9].
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^4-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-5]: Introduite par le ch. I de l’O du 12 mai 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^4-6]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-7]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-7]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
+[^4-8]: Introduit par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
+[^4-9]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -247,7 +255,7 @@ Les personnes qui exercent leur activité principale dans une exploitation agric
 
 ### (art. 19, al. 3, LAPG)
 
-<sup>1</sup> La demande d’allocation doit être faite au moyen d’un formulaire officiel, accompagné des justificatifs requis.
+<sup>1</sup> La demande d’allocation, accompagnée des justificatifs requis, est déposée au moyen du système d’information prévu à l’art. 21*a* LAPG ou d’un formulaire papier officiel.[^15-1]
 
 <sup>2</sup>
 
@@ -255,14 +263,17 @@ L’Office fédéral des assurances sociales remet le formulaire de demande et l
 
 - a. aux états-majors et aux unités;
 - b. aux autorités de protection civile chargées des convocations;
-- c. à l’organe fédéral chargé de l’exécution du service civil[^15-1] et à leurs chargés d’exécution;
+- c. à l’organe fédéral chargé de l’exécution du service civil[^15-2] et à leurs chargés d’exécution;
 - d. à l’Office fédéral du sport.
 
-<sup>3</sup> Le formulaire de demande d’allocation est remis à la fin du service. Si le service dure plus de 30 jours, un formulaire est remis après dix jours, puis à la fin de chaque mois civil.
+<sup>3</sup> La demande d’allocation est créée à la fin du service. Si le service dure plus de 30 jours, la demande est créée après dix jours, puis à la fin de chaque mois civil.[^15-3]
 
-<sup>4</sup> Si une personne a besoin de recevoir l’allocation à intervalles plus courts pour assurer son entretien ou celui de sa famille, les formulaires de demande sont remis tous les dix jours, et ce, pendant toute la période du service.
+<sup>4</sup> Si une personne a besoin de recevoir l’allocation à intervalles plus courts pour assurer son entretien ou celui de sa famille, la demande d’allocation est créée tous les dix jours, et ce, pendant toute la période du service.[^15-4]
 
-[^15-1]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^15-2]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^15-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 16
 
@@ -278,18 +289,20 @@ L’Office fédéral des assurances sociales remet le formulaire de demande et l
 
 <sup>4</sup> Les jours donnant droit à l’allocation ne doivent être attestés qu’une seule fois.
 
-<sup>5</sup> Si une personne a remis un formulaire de demande erroné ou que le formulaire a été égaré, la caisse de compensation compétente établit un duplicata. Elle y atteste le nombre de jours donnant droit à l’allocation en se fondant sur le livret de service, sur l’attestation de cours ou sur un extrait du système d’information du service civil.[^16-2]
+<sup>5</sup> La caisse de compensation compétente établit un duplicata lorsqu’une demande d’allocation est déposée au moyen d’un formulaire papier officiel et qu’elle contient des éléments erronés ou que le formulaire a été égaré. Elle y atteste le nombre de jours donnant droit à l’allocation en se fondant sur les données contenues dans le système d’information prévu à l’art. 21*a* LAPG, sur le livret de service, sur l’attestation de cours ou sur un extrait du système d’information du service civil.[^16-2]
 
 [^16-1]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
-[^16-2]: Nouvelle teneur selon le ch. III 2 de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 17
 
-**Attestation de salaire établie par l’employeur**
+**Attestation du salaire par l’employeur**[^17-1]
 
 ### (art. 19, al. 3, LAPG)
 
-Lorsque la personne astreinte au service a droit à une allocation en tant que salariée, l’employeur atteste sur le formulaire de demande le montant du salaire déterminant l’allocation, le montant du salaire versé durant le service et la durée d’occupation.
+Lorsque la personne qui effectue un service a droit à une allocation en tant que salarié, l’employeur atteste le montant du salaire déterminant l’allocation, le montant du salaire versé durant le service et la durée d’occupation. Il le fait soit conformément à la procédure établie par la caisse de compensation compétente, soit au moyen d’un formulaire papier officiel.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 18
 
@@ -297,9 +310,11 @@ Lorsque la personne astreinte au service a droit à une allocation en tant que s
 
 ### (art. 17, al. 1, LAPG)
 
-<sup>1</sup> Les proches ou l’employeur de la personne astreinte au service qui ont qualité pour agir selon l’art. 17, al. 1, LAPG font valoir le droit à l’allocation auprès de la caisse de compensation compétente; au besoin, ils sollicitent personnellement la production de l’attestation du nombre de jours de service donnant droit à l’allocation et de l’attestation de salaire. Les art. 15 à 17 s’appliquent par analogie.
+<sup>1</sup> Les proches ou l’employeur de la personne qui effectue un service qui ont qualité pour agir selon l’art. 17, al. 1, LAPG font valoir le droit à l’allocation auprès de la caisse de compensation compétente; au besoin, ils sollicitent personnellement la production de l’attestation du nombre de jours de service donnant droit à l’allocation et de l’attestation de salaire. Les art. 15 à 17 s’appliquent par analogie.[^18-1]
 
 <sup>2</sup> Lorsqu’un membre de sa famille a droit à une allocation d’exploitation selon l’art. 14, l’art. 17, al. 1, let. b, LAPG s’applique également par analogie à l’exploitant agricole.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 19
 
@@ -309,7 +324,7 @@ Lorsque la personne astreinte au service a droit à une allocation en tant que s
 
 <sup>1</sup>
 
-La caisse de compensation compétente pour le dépôt de la demande, pour la fixation et le paiement des allocations est:
+La caisse de compensation compétente pour la réception de la demande d’allocation et pour la fixation et le paiement des allocations est:[^19-1]
 
 - a. pour les personnes astreintes au paiement de cotisations AVS, la caisse qui a perçu les cotisations avant l’entrée en service;
 - b. pour les personnes résidant en Suisse qui sont exemptées de l’obligation de payer des cotisations, la caisse cantonale de compensation de leur lieu de domicile;
@@ -318,6 +333,93 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 <sup>2</sup> Si plusieurs caisses sont compétentes, l’ayant droit choisit l’une d’entre elles.
 
 <sup>3</sup> Pour le dépôt de la demande, les personnes salariées doivent agir par l’intermédiaire de leur employeur.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+#### Art. 19a
+
+**Transmission de la demande d’allocation**[^19a-1]
+
+### (art. 19, al. 3, LAPG)
+
+<sup>1</sup> La caisse de compensation compétente reçoit la demande dès que la personne qui effectue un service l’a validée dans le système d’information prévu à l’art. 21*a* LAPG.
+
+<sup>2</sup> Si la demande n’est pas validée dans les 30 jours suivant sa création, la Centrale de compensation (CdC) transmet le formulaire papier officiel à la personne qui effectue un service.
+
+<sup>3</sup> Si la demande est déposée au moyen du formulaire papier officiel, la personne qui effectue un service doit l’adresser elle-même à la caisse de compensation compétente.
+
+[^19a-1]: Introduit par le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+### Section 5*a* Système d’information
+
+[^chap1-sec5a-1]
+
+[^chap1-sec5a-1]: Introduite par le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+#### Art. 19b
+
+**Contenu du système d’information et communication des données**
+
+### (art. 21*a*, al. 4, let. b, LAPG)
+
+<sup>1</sup>
+
+Le système d’information prévu à l’art. 21*a* LAPG contient les données suivantes:
+
+- a. les données relatives à la personne effectuant un service suivantes: le numéro AVS, le nom de famille, les prénoms, la date de naissance, le sexe, l’adresse de domicile, l’adresse de courrier électronique et le numéro de téléphone;
+- b. les données relatives à la période de service, notamment le numéro de contrôle, la date d’entrée en service selon l’ordre de marche ou la convocation, la période de service, le code du service, les mutations et le nombre de jours soldés;
+- c. les données relatives aux enfants de la personne effectuant un service suivantes: le numéro AVS, le nom de famille, les prénoms, la date de naissance, le lien de filiation, l’attestation de formation et, le cas échéant, le formulaire sur les enfants recueillis et les enfants du conjoint;
+- d. les informations relatives aux coûts supplémentaires pour la garde des enfants;
+- e. les informations relatives à l’activité exercée avant la période de service;
+- f. les coordonnées pour le versement de l’allocation;
+- g. les documents permettant d’attester les données mentionnées aux let. a à f si elles ne proviennent pas d’un des systèmes d’information ou registres mentionnés à l’art. 21*a*, al. 2, LAPG;
+- h. les données techniques relatives à la gestion de la demande d’allocation.
+
+<sup>2</sup>
+
+Les données visées à l’al. 1 sont transmises à la caisse de compensation compétente pour le traitement de la demande d’allocation:
+
+- a. lorsque la personne effectuant un service a validé la demande dans le système d’information;
+- b. lorsqu’une demande d’allocation est déposée au moyen du formulaire papier officiel, ou
+- c. sur requête d’une personne ayant qualité pour agir selon l’art. 17, al. 1, LAPG.
+
+#### Art. 19c
+
+**Accès au système d’information**
+
+### (art. 21*a*, al. 4, let. d, LAPG)
+
+Ont accès au système d’information prévu à l’art. 21*a* LAPG:
+
+- a. la personne qui effectue un service, pour compléter et valider la demande d’allocation;
+- b. la caisse de compensation compétente, pour le traitement de la demande;
+- c. la CdC, pour l’exploitation du système d’information.
+
+#### Art. 19d
+
+**Protection des données et sécurité de l’information**
+
+### (art. 21*a*, al. 4, let. f, LAPG)
+
+La CdC prend les mesures organisationnelles et techniques nécessaires pour sécuriser les données.
+
+#### Art. 19e
+
+**Durée de conservation**
+
+### (art. 21*a*, al. 4, let. c, LAPG)
+
+<sup>1</sup> Les données sont conservées dans le système d’information pendant cinq ans à compter de la fin du service donnant droit aux allocations.
+
+<sup>2</sup> Les pièces jointes à la demande sont supprimées une fois que la personne qui effectue un service a validé la demande d’allocation.
+
+#### Art. 19f
+
+**Responsabilité**
+
+### (art. 21*a*, al. 4, let. a, LAPG)
+
+La CdC est responsable de la protection des données du système d’information prévu à l’art. 21*a* LAPG.
 
 ### Section 6 Fixation et paiement de l’allocation
 
@@ -337,7 +439,7 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 ### (art. 19 LAPG)
 
-<sup>1</sup> À la réception de chaque formulaire de demande, la caisse de compensation ou l’employeur versent le montant correspondant ou procèdent s’il y a lieu à la compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS[^21-1].
+<sup>1</sup> À la réception de chaque demande, la caisse de compensation ou l’employeur versent le montant correspondant ou procèdent s’il y a lieu à la compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS[^21-1].[^21-2]
 
 <sup>2</sup> L’art. 19, al. 2, LPGA s’applique également si la période de service se déroule partiellement ou entièrement en dehors des heures de travail de la personne salariée ou si son employeur a son siège à l’étranger.
 
@@ -346,6 +448,7 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 <sup>4</sup> Constituent des preuves du paiement les justificatifs internes des caisses, l’attestation d’exécution de Postfinance ou l’avis de débit de la banque.
 
 [^21-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 22
 
@@ -365,7 +468,7 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 [^chap2-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
-## Section 1 Début et extinction du droit à l’allocation
+### Section 1 Début et extinction du droit à l’allocation
 
 #### Art. 23
 
@@ -387,15 +490,20 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 La preuve que le nouveau-né doit rester en milieu hospitalier de manière ininterrompue durant deux semaines au moins suivant immédiatement la naissance doit être fournie au moyen d’un certificat médical.
 
-**Art. 25**[^24-2] Extinction du droit de la mère
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
-(art. 16*d*, al. 3, première partie de la phrase, LAPG)[^24-3]
+#### Art. 25
+
+**Extinction du droit de la mère**[^25-1]
+
+### (art. 16*d*, al. 3, première partie de la phrase, LAPG)
+
+[^25-2]
 
 Le droit de la mère à l’allocation s’éteint le jour où celle-ci reprend une activité lucrative, quel que soit son taux d’occupation.
 
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^24-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^24-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 ### Section 2 Durée minimale de l’affiliation
 
@@ -644,15 +752,15 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 
 ## Chapitre 2*a* Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
 
-[^chap2b-1]
+[^chap2a-1]
 
-[^chap2b-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^chap2a-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 ### Section 1 Droit des parents nourriciers, des beaux-parents et de la mère ou de l’autre parent au chômage ou en incapacité de travail
 
-[^chap2b-sec1-1]
+[^chap2a-sec1-1]
 
-[^chap2b-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^chap2a-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 35a
 
@@ -804,9 +912,9 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 
 ## Chapitre 2*b* Allocation d’adoption
 
-[^chap3-1]
+[^chap2b-1]
 
-[^chap3-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^chap2b-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Section 1 Durées minimales d’assurance et d’exercice d’une activité lucrative
 
@@ -845,7 +953,7 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 - b. d’un accident;
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
-- e.[^35n-1] d’un congé de maternité au sens de l’art. 329*f* CO[^35n-2] ou d’un congé de l’autre parent au sens de lart. 329*g* ou 329*g*<sup>bis</sup> CO;
+- e.[^35n-1] d’un congé de maternité au sens de l’art. 329*f* CO[^35n-2] ou d’un congé de l’autre parent au sens de l’art. 329*g* ou 329*g*<sup>bis</sup> CO;
 - f. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG;
 - g. de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
 - h. d’autres motifs n’impliquant aucune faute de sa part.
@@ -924,32 +1032,31 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 <sup>1</sup> La cotisation sur le revenu d’une activité lucrative s’élève à 0,5 %. Dans les limites du barème dégressif mentionné à l’art. 21 RAVS[^36-2], les cotisations sont calculées comme suit:
 
 <table>
-<tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour-cent du revenu</th></tr>
+<tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour cent du revenu</th></tr>
 <tr><th>d’au moins fr.</th><th colspan="2">mais inférieur à fr.</th><th></th></tr>
-<tr><td>9 800</td><td colspan="2">17 500</td><td>0,269</td></tr>
-<tr><td>17 500</td><td colspan="2">21 300</td><td>0,275</td></tr>
-<tr><td>21 300</td><td colspan="2">23 800</td><td>0,281</td></tr>
-<tr><td>23 800</td><td colspan="2">26 300</td><td>0,287</td></tr>
-<tr><td>26 300</td><td colspan="2">28 800</td><td>0,293</td></tr>
-<tr><td>28 800</td><td colspan="2">31 300</td><td>0,299</td></tr>
-<tr><td>31 300</td><td colspan="2">33 800</td><td>0,312</td></tr>
-<tr><td>33 800</td><td colspan="2">36 300</td><td>0,324</td></tr>
-<tr><td>36 300</td><td colspan="2">38 800</td><td>0,336</td></tr>
-<tr><td>38 800</td><td colspan="2">41 300</td><td>0,349</td></tr>
-<tr><td>41 300</td><td colspan="2">43 800</td><td>0,361</td></tr>
-<tr><td>43 800</td><td colspan="2">46 300</td><td>0,373</td></tr>
-<tr><td>46 300</td><td colspan="2">48 800</td><td>0,392</td></tr>
-<tr><td>48 800</td><td colspan="2">51 300</td><td>0,410</td></tr>
-<tr><td>51 300</td><td colspan="2">53 800</td><td>0,429</td></tr>
-<tr><td>53 800</td><td colspan="2">56 300</td><td>0,448</td></tr>
-<tr><td>56 300</td><td colspan="2">58 800</td><td>0,466 [^36-3]</td></tr>
+<tr><td>10 100</td><td colspan="2">17 600</td><td>0,269</td></tr>
+<tr><td>17 600</td><td colspan="2">23 000</td><td>0,275</td></tr>
+<tr><td>23 000</td><td colspan="2">25 500</td><td>0,281</td></tr>
+<tr><td>25 500</td><td colspan="2">28 000</td><td>0,287</td></tr>
+<tr><td>28 000</td><td colspan="2">30 500</td><td>0,293</td></tr>
+<tr><td>30 500</td><td colspan="2">33 000</td><td>0,299</td></tr>
+<tr><td>33 000</td><td colspan="2">35 500</td><td>0,312</td></tr>
+<tr><td>35 500</td><td colspan="2">38 000</td><td>0,324</td></tr>
+<tr><td>38 000</td><td colspan="2">40 500</td><td>0,336</td></tr>
+<tr><td>40 500</td><td colspan="2">43 000</td><td>0,349</td></tr>
+<tr><td>43 000</td><td colspan="2">45 500</td><td>0,361</td></tr>
+<tr><td>45 500</td><td colspan="2">48 000</td><td>0,373</td></tr>
+<tr><td>48 000</td><td colspan="2">50 500</td><td>0,392</td></tr>
+<tr><td>50 500</td><td colspan="2">53 000</td><td>0,410</td></tr>
+<tr><td>53 000</td><td colspan="2">55 500</td><td>0,429</td></tr>
+<tr><td>55 500</td><td colspan="2">58 000</td><td>0,448</td></tr>
+<tr><td>58 000</td><td colspan="2">60 500</td><td>0,466</td></tr>
 </table>
 
-<sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 24 à 1200 francs par an. Les art. 28 à 30 RAVS s’appliquent par analogie.
+<sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 25 à 1250 francs par an. Les art. 28 à 30 RAVS s’appliquent par analogie.
 
-[^36-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^36-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^36-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 610](https://fedlex.data.admin.ch/eli/oc/2022/610)).
 
 #### Art. 37
 
@@ -1022,22 +1129,22 @@ L’art. 79<sup>bis</sup> RAVS[^40-1] s’applique aux créances en restitution 
 
 **Dispositions applicables**[^42-1]
 
-Les chap. IV et VI et les art. 34 à 43 et 205 à 212<sup>bis</sup> RAVS[^42-2] s’appliquent par analogie, sous réserve des dispositions contraires de la LAPG et du présent règlement.
+Les chap. IV et VI et les art. 34 à 43 et 205 à 212<sup>bis</sup> RAVS[^42-2] s’appliquent par analogie, sous réserve des dispositions contraires de la LAPG et de la présente ordonnance.
 
-[^42-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 [^42-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 ## Chapitre 4 Dispositions finales
 
 #### Art. 43
 
-**Exécution**
+**Exécution**[^43-1]
 
-<sup>1</sup> Le Département fédéral de l’intérieur est chargé de l’exécution du présent règlement.
+<sup>1</sup> Le Département fédéral de l’intérieur est chargé de l’exécution de la présente ordonnance.
 
-<sup>2</sup> Il peut édicter des dispositions d’exécution à l’intention des organes d’exécution et, en accord avec le Département fédéral de la défense, de la protection de la population et des sports et le Département fédéral de l’économie, de la formation et de la recherche[^43-1], des directives à l’intention des comptables de l’armée et de la protection civile, des organisateurs de formation des cadres de Jeunesse et Sport (J+S) et des organes chargés de l’exécution du service civil.
+<sup>2</sup> Il peut édicter des dispositions d’exécution à l’intention des organes d’exécution et, en accord avec le Département fédéral de la défense, de la protection de la population et des sports et le Département fédéral de l’économie, de la formation et de la recherche, des directives à l’intention des comptables de l’armée et de la protection civile, des organisateurs de cours de formation des cadres de «Jeunesse et sport» et des organes chargés de l’exécution du service civil.
 
-[^43-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 44
 
@@ -1045,8 +1152,8 @@ Les chap. IV et VI et les art. 34 à 43 et 205 à 212<sup>bis</sup> RAVS[^42-2] 
 
 Sont abrogés:
 
-- a. le règlement du 24 décembre 1959 sur les allocations pour perte de gain (RAPG)[^44-1];
-- b. l’ordonnance du 31 juillet 1972 concernant les allocations pour perte de gain en faveur des personnes participant aux cours de chefs de «Jeunesse et Sport»[^44-2].
+- 1\. le règlement du 24 décembre 1959 sur les allocations pour perte de gain (RAPG)[^44-1];
+- 2\. l’ordonnance du 31 juillet 1972 concernant les allocations pour perte de gain en faveur des personnes participant aux cours de chefs de «Jeunesse et Sport»[^44-2].
 
 [^44-1]: [[RO 1959 2209](https://fedlex.data.admin.ch/eli/oc/1959/2143_2209_2240),[1964 329](https://fedlex.data.admin.ch/eli/oc/1964/337_329_332),[1969 323](https://fedlex.data.admin.ch/eli/oc/1969/315_323_324),[1973 2056](https://fedlex.data.admin.ch/eli/oc/1973/2056_2056_2056)[2153](https://fedlex.data.admin.ch/eli/oc/1973/2153_2153_2153),[1976 63](https://fedlex.data.admin.ch/eli/oc/1976/63_63_63),[1981 1020](https://fedlex.data.admin.ch/eli/oc/1981/1020_1020_1020)art. 5, [1983 919](https://fedlex.data.admin.ch/eli/oc/1983/919_919_919)art. 5,[1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397),[1992 1842](https://fedlex.data.admin.ch/eli/oc/1992/1842_1842_1842),[1994 2177](https://fedlex.data.admin.ch/eli/oc/1994/2177_2177_2177),[1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)app. 3 ch. 9,[1999 1854](https://fedlex.data.admin.ch/eli/oc/1999/305),[2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)appendice 2 ch. 8 [3350](https://fedlex.data.admin.ch/eli/oc/2002/506), [3942](https://fedlex.data.admin.ch/eli/oc/2002/618),[2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)ch. II, [2004 4377](https://fedlex.data.admin.ch/eli/oc/2004/667)]
 [^44-2]: [[RO 1972 1774](https://fedlex.data.admin.ch/eli/oc/1972/1750_1774_1954)]
@@ -1067,6 +1174,8 @@ L’allocation de base quotidienne des personnes qui font le service civil et qu
 
 #### Art. 47
 
-**Entrée en vigueur**
+**Entrée en vigueur**[^47-1]
 
-Le présent règlement entre en vigueur le 1<sup>er</sup> juillet 2005.
+La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2005.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).

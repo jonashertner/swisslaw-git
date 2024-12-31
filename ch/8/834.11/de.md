@@ -4,11 +4,11 @@ title: Erwerbsersatzverordnung vom 24. November 2004 (EOV)
 short: EOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20250101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/de"
 
 (EOV)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Juli 2024)
+vom 24. November 2004 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
@@ -60,11 +60,15 @@ Personen, welche keine der Voraussetzungen nach Artikel 1 erfüllen, gelten als 
 
 #### Art. 3
 
-**Kaderbildung von Jugend und Sport (J+S)**
+**Kaderbildung von «Jugend und Sport»**
 
 ### (Art. 1*a* Abs. 4 EOG)
 
+[^3-1]
+
 Das Bundesamt für Sport bestimmt die Kurse, die nach Artikel 1*a* Absatz 4 EOG Anspruch auf Entschädigung geben.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ### 2. Abschnitt: Berechnung der Entschädigung
 
@@ -87,9 +91,11 @@ Die Entschädigung für Arbeitnehmerinnen und Arbeitnehmer wird aufgrund des let
 - g.[^4-5] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
 - h.[^4-6] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
 
-<sup>2</sup> Für Personen, die glaubhaft machen, dass sie während des Dienstes eine unselbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten oder einen wesentlich höheren Lohn als vor dem Einrücken erzielt hätten, wird die Entschädigung auf Grund des Lohns berechnet, der ihnen entgangen ist. Haben sie unmittelbar vor dem Einrücken ihre Ausbildung abgeschlossen oder hätten sie diese während des Dienstes beendet, so wird die Entschädigung auf Grund des ortsüblichen Anfangslohns im betreffenden Beruf berechnet.
+<sup>2</sup> Für Personen, die glaubhaft machen, dass sie während des Dienstes eine unselbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten oder einen wesentlich höheren Lohn als vor dem Einrücken erzielt hätten, wird die Entschädigung auf Grund des Lohns berechnet, der ihnen entgangen ist.[^4-7]
 
-<sup>3</sup> Für mitarbeitende Familienmitglieder ohne Barlohn, die vor dem 1. Januar nach Vollendung ihres 20. Altersjahres Dienst leisten, wird die Entschädigung auf Grund des Globallohns nach Artikel 14 Absatz 3 der Verordnung vom 31. Oktober 1947[^4-7] über die Alters- und Hinterlassenenversicherung (AHVV) berechnet.
+<sup>2bis</sup> Für Personen, die unmittelbar vor dem Einrücken ihre Ausbildung abgeschlossen haben oder diese während des Dienstes beendet hätten, wird die Entschädigung auf Grund des Lohns im betreffenden Beruf berechnet. Massgebend sind die Zentralwerte der Lohnstrukturerhebung (LSE) des Bundesamtes für Statistik. Andere statistische Werte können im Einzelfall beigezogen werden, falls das Einkommen nicht in der LSE abgebildet ist. Bei Einkommensunterschieden zwischen den Geschlechtern ist der höhere Wert zu verwenden.[^4-8]
+
+<sup>3</sup> Für mitarbeitende Familienmitglieder ohne Barlohn, die vor dem 1. Januar nach Vollendung ihres 20. Altersjahres Dienst leisten, wird die Entschädigung auf Grund des Globallohns nach Artikel 14 Absatz 3 der Verordnung vom 31. Oktober 1947[^4-9] über die Alters- und Hinterlassenenversicherung (AHVV) berechnet.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
@@ -97,7 +103,9 @@ Die Entschädigung für Arbeitnehmerinnen und Arbeitnehmer wird aufgrund des let
 [^4-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^4-6]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-7]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-7]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
+[^4-8]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
+[^4-9]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -247,23 +255,26 @@ Anspruch auf die Betriebszulage haben Personen, die als mitarbeitende Familienmi
 
 ### (Art. 19 Abs. 3 EOG)
 
-<sup>1</sup> Der Anspruch auf eine Entschädigung ist auf einem offiziellen Anmeldeformular geltend zu machen, dem die erforderlichen Belege beizulegen sind.
+<sup>1</sup> Der Anspruch auf eine Entschädigung ist zusammen mit den erforderlichen Belegen über das Informationssystem nach Artikel 21*a* EOG oder auf einem offiziellen Papierformular geltend zu machen.[^15-1]
 
 <sup>2</sup>
 
-Das Bundesamt für Sozialversicherungen[^15-1] gibt das Anmeldeformular und die besonderen Formulare folgenden Stellen ab:
+Das Bundesamt für Sozialversicherungen[^15-2] gibt das Anmeldeformular und die besonderen Formulare folgenden Stellen ab:
 
 - a. den militärischen Stäben und Einheiten;
 - b. den aufbietenden Stellen des Zivilschutzes;
-- c. der Vollzugsstelle des Bundes für den Zivildienst[^15-2] sowie ihren Vollzugsbeauftragten;
+- c. der Vollzugsstelle des Bundes für den Zivildienst[^15-3] sowie ihren Vollzugsbeauftragten;
 - d. dem Bundesamt für Sport.
 
-<sup>3</sup> Das Anmeldeformular ist am Ende des Dienstes abzugeben. Dauert der Dienst länger als 30 Tage, so ist das Anmeldeformular nach zehn Tagen und danach am Ende jedes Kalendermonats abzugeben.
+<sup>3</sup> Die Anmeldung hat am Ende des Dienstes zu erfolgen. Dauert der Dienst länger als 30 Tage, so hat die Anmeldung nach zehn Tagen und danach am Ende jedes Kalendermonats zu erfolgen.[^15-4]
 
-<sup>4</sup> Sind eine Person oder ihre Angehörigen auf die Auszahlung der Entschädigung in kürzeren Abständen angewiesen, so sind die Anmeldeformulare während des ganzen Dienstes alle zehn Tage abzugeben.
+<sup>4</sup> Sind eine Person oder ihre Angehörigen auf die Auszahlung der Entschädigung in kürzeren Abständen angewiesen, so hat die Anmeldung während des ganzen Dienstes alle zehn Tage zu erfolgen.[^15-5]
 
-[^15-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^15-2]: Seit 1.1.2019: Bundesamt für Zivildienst.
+[^15-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^15-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^15-3]: Seit 1.1.2019: Bundesamt für Zivildienst.
+[^15-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^15-5]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 16
 
@@ -279,18 +290,20 @@ Das Bundesamt für Sozialversicherungen[^15-1] gibt das Anmeldeformular und die 
 
 <sup>4</sup> Jeder entschädigungsberechtigte Diensttag darf nur einmal bescheinigt werden.
 
-<sup>5</sup> Wurde ein falsches Anmeldeformular abgegeben oder ist das Anmeldeformular verloren gegangen, so stellt die zuständige Ausgleichkasse ein Ersatzformular aus. Sie bescheinigt darauf anhand des Dienstbüchleins, des Ausweises über den Kursbesuch oder eines Auszugs aus dem Informationssystem des Zivildiensts die entschädigungsberechtigten Diensttage.[^16-2]
+<sup>5</sup> Wurde die Anmeldung auf einem offiziellen Papierformular geltend gemacht und wurden darin falsche Angaben gemacht oder ist das Papierformular verloren gegangen, so stellt die zuständige Ausgleichkasse ein Ersatzformular aus. Sie bescheinigt darauf anhand der im Informationssystem gemäss Artikel 21*a* EOG enthaltenen Daten, des Dienstbüchleins, des Ausweises über den Kursbesuch oder eines Auszugs aus dem Informationssystem des Zivildiensts die Diensttage, die zu einer Entschädigung berechtigen.[^16-2]
 
 [^16-1]: Seit 1.1.2019: Bundesamt für Zivildienst.
-[^16-2]: Fassung gemäss Ziff. III 2 der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 17
 
-**Lohnbescheinigung durch den Arbeitgeber**
+**Lohnbescheinigung durch den Arbeitgeber**[^17-1]
 
 ### (Art. 19 Abs. 3 EOG)
 
-Wird eine Dienst leistende Person als Arbeitnehmer oder Arbeitnehmerin entschädigt, so hat der Arbeitgeber auf dem Anmeldeformular den für die Berechnung der Entschädigung massgebenden Lohn, den Lohn während der Dienstleistung sowie die Dauer der Beschäftigung zu bescheinigen.
+Wird eine dienstleistende Person als Arbeitnehmerin oder Arbeitnehmer entschädigt, so hat der Arbeitgeber den für die Berechnung der Entschädigung massgebenden Lohn, den Lohn während der Dienstleistung sowie die Dauer der Beschäftigung zu bescheinigen. Er stellt die Bescheinigung entweder gemäss dem von der zuständigen Ausgleichskasse festgelegten Verfahren oder auf dem offiziellen Papierformular aus.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 18
 
@@ -298,9 +311,11 @@ Wird eine Dienst leistende Person als Arbeitnehmer oder Arbeitnehmerin entschäd
 
 ### (Art. 17 Abs. 1 EOG)
 
-<sup>1</sup> Angehörige und Arbeitgeber der Dienst leistenden Person, die dazu nach Artikel 17 Absatz 1 EOG befugt sind, machen den Entschädigungsanspruch bei der zuständigen Ausgleichskasse geltend und holen, soweit nötig, die Bescheinigung über die anspruchsberechtigten Diensttage und die Lohnbescheinigung selbst ein. Die Artikel 15–17 gelten sinngemäss.
+<sup>1</sup> Angehörige und Arbeitgeber der Dienst leistenden Person, die dazu nach Artikel 17 Absatz 1 EOG befugt sind, machen den Entschädigungsanspruch bei der zuständigen Ausgleichskasse geltend und holen, soweit nötig, die Bescheinigung über die Diensttage, die zu einer Entschädigung berechtigen, und die Lohnbescheinigung selbst ein. Die Artikel 15–17 gelten sinngemäss.[^18-1]
 
 <sup>2</sup> Besteht Anspruch auf eine Betriebszulage für ein mitarbeitendes Familienmitglied nach Artikel 14, so gilt Artikel 17 Absatz 1 Buchstabe b EOG sinngemäss auch für den Betriebsinhaber oder die Betriebsinhaberin.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 19
 
@@ -310,7 +325,7 @@ Wird eine Dienst leistende Person als Arbeitnehmer oder Arbeitnehmerin entschäd
 
 <sup>1</sup>
 
-Zuständig für die Entgegennahme der Anmeldung, die Festsetzung und die Ausrichtung der Entschädigung ist:
+Zuständig für die Entgegennahme der Anmeldung sowie für die Festsetzung und die Ausrichtung der Entschädigung ist:[^19-1]
 
 - a. für AHV-beitragspflichtige Personen: die Ausgleichskasse, die vor dem Einrücken für den Beitragsbezug zuständig war;
 - b. für Personen mit Wohnsitz in der Schweiz, die der Beitragspflicht nicht unterstellt sind: die kantonale Ausgleichskasse ihres Wohnsitzkantons;
@@ -319,6 +334,93 @@ Zuständig für die Entgegennahme der Anmeldung, die Festsetzung und die Ausrich
 <sup>2</sup> Sind mehrere Ausgleichskassen zuständig, so wählt die entschädigungsberechtigte Person die Ausgleichskasse.
 
 <sup>3</sup> Die Anmeldung von Arbeitnehmerinnen und Arbeitnehmern ist über deren Arbeitgeber einzureichen.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+#### Art. 19a
+
+**Übermittlung der Anmeldung**[^19a-1]
+
+### (Art. 19 Abs. 3 EOG)
+
+<sup>1</sup> Die zuständige Ausgleichskasse erhält die Anmeldung, sobald die dienstleistende Person sie im Informationssystem nach Artikel 21*a* EOG freigegeben hat.
+
+<sup>2</sup> Wird die Anmeldung nicht innerhalb von 30 Tagen ab Einreichung freigegeben, so lässt die Zentrale Ausgleichsstelle (ZAS) der dienstleistenden Person das offizielle Papierformular zukommen.
+
+<sup>3</sup> Erfolgt die Anmeldung mittels des offiziellen Papierformulars, so muss die dienstleistende Person dieses selbst bei der zuständigen Ausgleichskasse einreichen.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+### 5*a*. Abschnitt: Informationssystem
+
+[^chap1-sec5a-1]
+
+[^chap1-sec5a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+
+#### Art. 19b
+
+**Inhalt des Informationssystems und Datenbekanntgabe**
+
+### (Art. 21*a* Abs. 4 Bst. b EOG)
+
+<sup>1</sup>
+
+Das Informationssystem nach Artikel 21*a* EOG enthält folgende Daten:
+
+- a. die folgenden Daten der dienstleistenden Person: die AHV-Nummer, den Familiennamen, die Vornamen, das Geburtsdatum, das Geschlecht, die Wohnadresse, die E-Mail-Adresse und die Telefonnummer;
+- b. die Daten zum Dienst, insbesondere die Kontrollnummer, das Einrückungsdatum gemäss Marschbefehl oder Einberufung, die Dienstperiode, den Code der Dienstleistung, Mutationen und die Anzahl besoldete Diensttage;
+- c. die folgenden Daten zu den Kindern der dienstleistenden Person: die AHV-Nummer, den Familiennamen, die Vornamen, das Geburtsdatum, das Kindesverhältnis, den Ausbildungsnachweis und gegebenenfalls das Formular zu Pflegekindern und zu Kindern der Ehegattin oder des Ehegatten;
+- d. die Angaben zu den zusätzlichen Kosten für die Kinderbetreuung;
+- e. die Angaben zur vordienstlichen Tätigkeit;
+- f. die Angaben zur Auszahlung der Entschädigung;
+- g. die Dokumente zur Bescheinigung der in den Buchstaben a–f angegebenen Daten, sofern diese nicht aus einem der in Artikel 21*a* Absatz 2 EOG genannten Informationssysteme oder Register stammen;
+- h. die technischen Daten betreffend die Anmeldungsabwicklung.
+
+<sup>2</sup>
+
+Die Daten nach Absatz 1 werden der zuständigen Ausgleichskasse zur Bearbeitung der Anmeldung übermittelt:
+
+- a. sobald die dienstleistende Person die Anmeldung im Informationssystem freigegeben hat;
+- b. sobald eine Anmeldung auf dem offiziellen Papierformular eingereicht wurde; oder
+- c. auf Antrag einer nach Artikel 17 Absatz 1 EOG befugten Person.
+
+#### Art. 19c
+
+**Zugriff auf das Informationssystem**
+
+### (Art. 21*a* Abs. 4 Bst. d EOG)
+
+Zugriff auf das Informationssystem nach Artikel 21*a* EOG haben:
+
+- a. die dienstleistende Person zur Ergänzung und zur Freigabe der Anmeldung;
+- b. die zuständige Ausgleichskasse zur Bearbeitung der Anmeldung;
+- c. die ZAS für den Betrieb des Informationssystems.
+
+#### Art. 19d
+
+**Datenschutz und Informationssicherheit**
+
+### (Art. 21*a* Abs. 4 Bst. f EOG)
+
+Die ZAS trifft die für die Datensicherheit erforderlichen organisatorischen und technischen Massnahmen.
+
+#### Art. 19e
+
+**Aufbewahrungsdauer**
+
+### (Art. 21*a* Abs. 4 Bst. c EOG)
+
+<sup>1</sup> Die Daten werden nach Ende des Dienstes der zu einer Entschädigung berechtigt, während fünf Jahren im Informationssystem aufbewahrt.
+
+<sup>2</sup> Die eingereichten Belege werden gelöscht, sobald die dienstleistende Person die Anmeldung freigegeben hat.
+
+#### Art. 19f
+
+**Verantwortung**
+
+### (Art. 21*a* Abs. 4 Bst. a EOG)
+
+Die ZAS ist verantwortlich für den Datenschutz des Informationssystems nach Artikel 21*a* EOG.
 
 ### 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung
 
@@ -338,7 +440,7 @@ Zuständig für die Entgegennahme der Anmeldung, die Festsetzung und die Ausrich
 
 ### (Art. 19 EOG)
 
-<sup>1</sup> Nach Eingang des Anmeldeformulars zahlt die Ausgleichskasse oder der Arbeitgeber unverzüglich den entsprechenden Betrag aus oder verrechnet ihn nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG[^21-1].
+<sup>1</sup> Nach Eingang der Anmeldung zahlt die Ausgleichskasse oder der Arbeitgeber unverzüglich den entsprechenden Betrag aus oder verrechnet ihn nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG[^21-1].[^21-2]
 
 <sup>2</sup> Artikel 19 Absatz 2 ATSG ist auch anwendbar, wenn der Dienst ganz oder teilweise in die Freizeit der Arbeitnehmerin oder des Arbeitnehmers fällt oder der Arbeitgeber seinen Sitz im Ausland hat.
 
@@ -347,6 +449,7 @@ Zuständig für die Entgegennahme der Anmeldung, die Festsetzung und die Ausrich
 <sup>4</sup> Als Zahlungsnachweise gelten die kasseninternen Belege, Verrechnungsausweise der Postfinance oder Belastungsanzeigen der Bank.
 
 [^21-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 22
 
@@ -932,30 +1035,29 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 <table>
 <tr><th colspan="2">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozent des Erwerbseinkommens</th></tr>
 <tr><th>von mindestens</th><th colspan="2">aber weniger als</th><th></th></tr>
-<tr><td>9 800</td><td colspan="2">17 500</td><td>0,269</td></tr>
-<tr><td>17 500</td><td colspan="2">21 300</td><td>0,275</td></tr>
-<tr><td>21 300</td><td colspan="2">23 800</td><td>0,281</td></tr>
-<tr><td>23 800</td><td colspan="2">26 300</td><td>0,287</td></tr>
-<tr><td>26 300</td><td colspan="2">28 800</td><td>0,293</td></tr>
-<tr><td>28 800</td><td colspan="2">31 300</td><td>0,299</td></tr>
-<tr><td>31 300</td><td colspan="2">33 800</td><td>0,312</td></tr>
-<tr><td>33 800</td><td colspan="2">36 300</td><td>0,324</td></tr>
-<tr><td>36 300</td><td colspan="2">38 800</td><td>0,336</td></tr>
-<tr><td>38 800</td><td colspan="2">41 300</td><td>0,349</td></tr>
-<tr><td>41 300</td><td colspan="2">43 800</td><td>0,361</td></tr>
-<tr><td>43 800</td><td colspan="2">46 300</td><td>0,373</td></tr>
-<tr><td>46 300</td><td colspan="2">48 800</td><td>0,392</td></tr>
-<tr><td>48 800</td><td colspan="2">51 300</td><td>0,410</td></tr>
-<tr><td>51 300</td><td colspan="2">53 800</td><td>0,429</td></tr>
-<tr><td>53 800</td><td colspan="2">56 300</td><td>0,448</td></tr>
-<tr><td>56 300</td><td colspan="2">58 800</td><td>0,466.[^36-3]</td></tr>
+<tr><td>10 100</td><td colspan="2">17 600</td><td>0,269</td></tr>
+<tr><td>17 600</td><td colspan="2">23 000</td><td>0,275</td></tr>
+<tr><td>23 000</td><td colspan="2">25 500</td><td>0,281</td></tr>
+<tr><td>25 500</td><td colspan="2">28 000</td><td>0,287</td></tr>
+<tr><td>28 000</td><td colspan="2">30 500</td><td>0,293</td></tr>
+<tr><td>30 500</td><td colspan="2">33 000</td><td>0,299</td></tr>
+<tr><td>33 000</td><td colspan="2">35 500</td><td>0,312</td></tr>
+<tr><td>35 500</td><td colspan="2">38 000</td><td>0,324</td></tr>
+<tr><td>38 000</td><td colspan="2">40 500</td><td>0,336</td></tr>
+<tr><td>40 500</td><td colspan="2">43 000</td><td>0,349</td></tr>
+<tr><td>43 000</td><td colspan="2">45 500</td><td>0,361</td></tr>
+<tr><td>45 500</td><td colspan="2">48 000</td><td>0,373</td></tr>
+<tr><td>48 000</td><td colspan="2">50 500</td><td>0,392</td></tr>
+<tr><td>50 500</td><td colspan="2">53 000</td><td>0,410</td></tr>
+<tr><td>53 000</td><td colspan="2">55 500</td><td>0,429</td></tr>
+<tr><td>55 500</td><td colspan="2">58 000</td><td>0,448</td></tr>
+<tr><td>58 000</td><td colspan="2">60 500</td><td>0,466</td></tr>
 </table>
 
-<sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 24–1200 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
+<sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 25–1250 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^36-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^36-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^36-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 610](https://fedlex.data.admin.ch/eli/oc/2022/610)).
 
 #### Art. 37
 
@@ -1037,14 +1139,13 @@ Soweit im EOG und in dieser Verordnung nichts Abweichendes bestimmt wird, gelten
 
 #### Art. 43
 
-**Vollzug**
+**Vollzug**[^43-1]
 
 <sup>1</sup> Das Eidgenössische Departement des Innern ist mit dem Vollzug beauftragt.
 
-<sup>2</sup> Es kann Ausführungsbestimmungen für die Durchführungsstellen, sowie, im Einvernehmen mit dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung[^43-1], Weisungen an die Rechnungsführer der Armee und des Zivilschutzes, die Organisatoren der Kaderbildung von Jugend und Sport (J+S) und die Vollzugsstellen des Zivildienstes[^43-2] erlassen.
+<sup>2</sup> Es kann Ausführungsbestimmungen für die Durchführungsstellen sowie, im Einvernehmen mit dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung, Weisungen an die Rechnungsführer der Armee und des Zivilschutzes, die Organisatoren der Kaderbildung von «Jugend und Sport» und die Vollzugsstellen des Zivildienstes erlassen.
 
-[^43-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
-[^43-2]: Seit 1.1.2019: Bundesamt für Zivildienst.
+[^43-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 44
 
