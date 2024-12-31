@@ -4,13 +4,12 @@ number: VII E/1/3/1
 title: Verordnung über den Vollzug der Verordnung über den Energiefonds
 short: "Energiefondsvollzugsverordnung, VV Enf"
 language: de
-version: 2023-05-01
-valid_until: 2024-12-31
-version_adopted: 2023-04-04
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2018-03-06
 in_force: 2018-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.3.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2420/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2524/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2420/pdf_file"
 
 (Energiefondsvollzugsverordnung, VV Enf)
 
-Vom 06.03.2018 (Stand 01.05.2023)
+Vom 06.03.2018 (Stand 01.01.2025)
 
 Der Regierungsrat,
 
@@ -53,9 +52,11 @@ erlässt:
 
 <sup>3</sup> Bei unvollständig ausgefüllten Gesuchen wird eine Frist zur Nachreichung der fehlenden Unterlagen gewährt. Als Stichtag für die Einreichung gilt der Zeitpunkt der vollständig eingereichten Unterlagen.
 
-<sup>4</sup> Die detaillierten Förderbedingungen sind den spezifischen Gesuchsformularen zu entnehmen. Die modulspezifischen Bestimmungen des durch die Konferenz der kantonalen Energiedirektoren am 21. August 2015 verabschiedeten harmonisierten Fördermodells (HFM 2015) sind verbindlich.
+<sup>4</sup> Die detaillierten Förderbedingungen sind den spezifischen Gesuchsformularen zu entnehmen. Die modulspezifischen Bestimmungen des durch die Konferenz der kantonalen Energiedirektoren am 21. August 2015 verabschiedeten harmonisierten Fördermodells (HFM 2015) sowie von Artikel 54a und Anhang 6a der Energieverordnung[^3-1] sind verbindlich.
 
 <sup>5</sup> Für einzelne Förderbereiche (z.B. Fotovoltaik) kann in begründeten Fällen ein vereinfachtes, einstufiges Verfahren gewählt werden.
+
+[^3-1]: SR 730.01
 
 #### Art. 4
 
@@ -91,6 +92,12 @@ erlässt:
 
 **…**
 
+#### Art. 7a
+
+**Gesamtsanierung**
+
+<sup>1</sup> Für die Gesamtsanierung (mehr als 90 % aller Aussenflächen Dach und Fassaden) wird ein Bonusbeitrag ausbezahlt.
+
 #### Art. 8
 
 **Ersatzneubauten**
@@ -117,13 +124,13 @@ erlässt:
 
 **Ersatz von Heizöl-, Erdgas- oder Elektroheizungen**
 
-<sup>1</sup> Für den Ersatz von dezentralen ​Elektrospeichern durch Wärmepumpen, Holzfeuerungen oder Anschluss an ein Fernwärmenetz wird ein Förderbeitrag gewährt.
+<sup>1</sup> Für den Ersatz von dezentralen ​elektrischen Widerstandsheizungen durch Wärmepumpen, Holzfeuerungen oder Anschluss an ein Fernwärmenetz wird ein Förderbeitrag gewährt.
 
-<sup>2</sup> Beim Ersatz von dezentralen Elektro-Einzelspeichern durch Wärmepumpen, Holzzentralheizungen oder Anschluss an ein Fernwärmenetz wird an den Einbau des Wärmeverteilsystems ein Förderbeitrag gewährt.
+<sup>2</sup> Beim Ersatz einer bestehenden dezentralen Heizöl-, Erdgas- oder elektrischen Widerstandsheizung ohne hydraulisches Wärmeverteilsystem durch eine mit erneuerbaren Energien betriebene Hauptheizung mit einem hydraulischen Wärmeverteilsystem wird an den Einbau des Wärmeverteilsystems ein Förderbeitrag gewährt.
 
 <sup>3</sup> Für den Ersatz von Heizöl-, Erdgas- oder zentralen Elektroheizungen im Nicht-Wohnbereich durch Wärmepumpen, Holzfeuerungen oder Anschluss an ein Fernwärmenetz wird ein Förderbeitrag gewährt.
 
-<sup>4</sup> Für den Ersatz von Heizöl-, Erdgas- oder zentralen Elektroheizungen in Gebäuden mit überwiegender Wohnnutzung durch Wärmepumpen, Holzfeuerungen oder Anschluss an ein Fernwärmenetz wird ein Förderbeitrag gewährt. Der Fördersatz wird ab dem 1. Januar 2028 reduziert. Massgeblich ist der Zeitpunkt der Eingabe des Baugesuchs.
+<sup>4</sup> Für den Ersatz von Heizöl-, Erdgas- oder zentralen Elektroheizungen in Gebäuden mit überwiegender Wohnnutzung durch Wärmepumpen, Holzfeuerungen oder Anschluss an ein Fernwärmenetz wird ein Förderbeitrag gewährt. Der Fördersatz wird ab dem 1. Januar 2028 reduziert. Massgeblich ist der Zeitpunkt der Eingabe des vollständigen Fördergesuchs.
 
 #### Art. 12
 
