@@ -4,13 +4,12 @@ number: "836.100"
 title: Kantonale Verordnung über die Familienzulagen
 short: kFamZV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-07
+version: 2025-01-01
+version_adopted: 2024-11-06
 adopted: 2009-01-14
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/836.100"
-pdf: "https://lex.vs.ch/api/de/versions/3104/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3394/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3104/pdf_file"
 
 (kFamZV)
 
-vom 14.01.2009 (Stand 01.01.2023)
+vom 14.01.2009 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -27,9 +26,9 @@ eingesehen das Bundesgesetz über die Familienzulagen vom 24. März 2006 (FamZG)
 
 eingesehen das Ausführungsgesetz zum Bundesgesetz über die Familienzulagen vom 11. September 2008 (AGFamZG);
 
-auf Antrag des Departements für Gesundheit, Sozialwesen und Energie,
+auf auf Antrag des für die Gesundheit zuständigen Departements,
 
-beschliesst:
+verordnet:
 
 ## 1 Allgemeine Bestimmungen
 
@@ -408,6 +407,8 @@ beschliesst:
 - a) die zur Verfügung stehenden finanziellen Mittel;
 - b) die familiären Verhältnisse der betreffenden Personen.
 
+<sup>3</sup> Die Bezüger von Ergänzungsleistungen haben keinen Anspruch auf eine Haushaltszulage.
+
 #### Art. 45a
 
 **Bezüger der einmaligen Hilfe für kranke oder verletzte Kinder**
@@ -423,6 +424,14 @@ beschliesst:
 **Bezüger der Geburts- oder Adoptionszulage für arbeitslose Personen**
 
 <sup>1</sup> Anspruch auf die Geburts- oder Adoptionszulage haben die im Kanton wohnhaften Eltern mit Bezugsberechtigung auf Arbeitslosengeld, von denen keine der Personen das Anrecht auf eine Geburts- oder Adoptionszulage für das Kind geltend machen kann.
+
+#### Art. 45c
+
+**Bezüger für die Unterstützung bei Zahnarztkosten**
+
+<sup>1</sup> Anspruch auf Unterstützung bei Zahnarztkosten haben im Kanton wohnhafte Bezüger von Haushaltszulagen, welche die vom Staatsrat festgelegten Einkommensgrenzen nicht überschreiten, sofern sie nicht Sozialhilfe beziehen.
+
+<sup>2</sup> Der Staatsrat legt jährlich die Einkommensgrenzen fest, welche zum Bezug der Unterstützung berechtigen, wobei er sich auf die in Artikel 45 Absatz 2 erwähnten Kriterien bezieht.
 
 #### Art. 46
 
@@ -463,6 +472,14 @@ beschliesst:
 
 <sup>3</sup> Die Hilfe ist einmalig erneuerbar, wenn die Pflege oder die Krankenhausbehandlung eine Dauer von 3 Monaten übersteigt.
 
+#### Art. 49b
+
+<sup>1</sup> Der Höchstbetrag pro Familie der Unterstützung darf die Grenze nicht überschreiten, die jedes Jahr vom Staatsrat unter den in Artikel 45c Absatz 3 AGFamZG genannten Bedingungen festgelegt wird.
+
+<sup>2</sup> Es können nur Zahnbehandlungen in der Schweiz berücksichtigt werden, die von den Haushaltsmitgliedern im Jahr nach dem Entscheid über die Gewährung des kantonalen Fonds (massgebliche Periode) vorgenommen wurden. Massgeblich ist die Familiensituation, welche bei der Gewährung der Haushaltshilfe vorherrscht.
+
+<sup>3</sup> Die Frist für die Einreichung der Kosten ist der 31. Dezember des Jahres, welche auf die Mitteilung des Anspruchs auf Haushaltszulage folgt.
+
 #### Art. 50
 
 **Meldepflicht**
@@ -491,6 +508,14 @@ beschliesst:
 
 <sup>1</sup> Die Familien müssen bei der Fondsverwaltung ein Gesuch hinterlegen.
 
+#### Art. 52b
+
+**Modalitäten für die Unterstützung bei Zahnarztkosten**
+
+<sup>1</sup> Der Anspruch auf Unterstützung bei Zahnarztkosten wird auf der Grundlage der massgeblichen Einkommen ermittelt, welche bei der Bestimmung der Haushaltszulage berücksichtigt werden.
+
+<sup>2</sup> Haushalte, welche die vom Staatsrat festgelegten Einkommensgrenzen gemäss Artikel 45c Absatz 2 nicht überschreiten, werden ab 1. Januar nach der Mitteilung an den kantonalen Fonds über die Möglichkeit informiert, die entstandenen Zahnarztkosten einzureichen.
+
 #### Art. 53
 
 **Zustellung**
@@ -504,6 +529,14 @@ beschliesst:
 **Zahlung der Haushaltungszulage**
 
 <sup>1</sup> Sofern der Anspruch auf die Leistung festgesetzt werden konnte, wird die jährliche Haushaltungszulage im Dezember ausbezahlt. Sie wird nur auf ein Post- oder Bankkonto in der Schweiz überwiesen. Wenn die Angaben des Zahlungskontos fehlen, werden die daraus entstehenden Kosten von der Zulage abgezogen.
+
+<sup>2</sup> Der Anspruch auf Leistungen erlischt zwei Jahre nach dem Ende des Jahres, für welches die Leistung geschuldet war.
+
+#### Art. 54a
+
+**Auszahlung für die Unterstützung bei Zahnarztkosten**
+
+<sup>1</sup> Nach der Festsetzung wird die Unterstützung bei Zahnarztkosten an dieselbe Zahlungsadresse ausbezahlt, welche in Artikel 54 für die Haushaltszulage angegeben ist.
 
 #### Art. 55
 

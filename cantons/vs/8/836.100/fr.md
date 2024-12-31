@@ -4,13 +4,12 @@ number: "836.100"
 title: Ordonnance cantonale sur les allocations familiales
 short: OcAFam
 language: fr
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-07
+version: 2025-01-01
+version_adopted: 2024-11-06
 adopted: 2009-01-14
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/836.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3104/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3394/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3104/pdf_file"
 
 (OcAFam)
 
-du 14.01.2009 (état 01.01.2023)
+du 14.01.2009 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -27,9 +26,9 @@ vu la loi fédérale sur les allocations familiales du 24 mars 2006 (LAFam) et l
 
 vu la loi d'application de la loi fédérale sur les allocations familiales du 11 septembre 2008 (LALAFam);
 
-sur la proposition du Département de la santé, des affaires sociales et de l'énergie,
+sur la proposition du département en charge de la santé,
 
-arrête:
+ordonne:
 
 ## 1 Dispositions générales
 
@@ -408,6 +407,8 @@ arrête:
 - a) les moyens financiers à disposition;
 - b) la situation familiale des personnes concernées.
 
+<sup>3</sup> Les bénéficiaires de prestations complémentaires n'ont pas droit à l'allocation de ménage.
+
 #### Art. 45a
 
 **Bénéficiaires de l’aide unique pour enfant malade ou accidenté**
@@ -423,6 +424,14 @@ arrête:
 **Bénéficiaires de l’allocation de naissance ou d’adoption pour personnes au chômage**
 
 <sup>1</sup> Peuvent bénéficier de l’allocation de naissance ou d’adoption, les parents domiciliés dans le canton, au bénéfice d’une indemnité de chômage, dont aucune personne ne peut faire valoir de droit à une allocation de naissance ou d’adoption pour l’enfant.
+
+#### Art. 45c
+
+**Bénéficiaires de l'aide aux frais dentaires**
+
+<sup>1</sup> Peuvent bénéficier de l’aide aux frais dentaires les bénéficiaires de l’allocation de ménage domiciliés dans le canton ne dépassant pas les limites de revenu déterminées par le Conseil d’Etat, pour autant qu’ils ne soient pas bénéficiaires de l’aide sociale.
+
+<sup>2</sup> Le Conseil d’Etat fixe annuellement les limites de revenu donnant droit à l’aide en se référant aux critères mentionnés à l’article 45 alinéa 2.
 
 #### Art. 46
 
@@ -463,6 +472,16 @@ arrête:
 
 <sup>3</sup> L’aide est renouvelable une fois, en cas de durée des soins ou du traitement hospitalier supérieur à 3 mois.
 
+#### Art. 49b
+
+**Détermination du droit à l’aide aux frais dentaires**
+
+<sup>1</sup> Le montant maximal par famille de l’aide ne peut dépasser la limite fixée chaque année par le Conseil d’Etat aux conditions énoncées à l’article 45c alinéa 3 LALAFam.
+
+<sup>2</sup> Seuls les traitements dentaires entrepris en Suisse par les membres du ménage durant l’année suivant la décision d’octroi du Fonds cantonal (période déterminante) peuvent être pris en considération. La situation familiale déterminante est celle qui prévaut lors de l’octroi de l’aide au ménage.
+
+<sup>3</sup> Le délai de présentation des frais est fixé au 31 décembre de l’année suivant la notification du droit à l’allocation de ménage.
+
 #### Art. 50
 
 **Obligation de renseigner**
@@ -491,6 +510,14 @@ arrête:
 
 <sup>1</sup> Les familles doivent présenter une demande auprès de l'administration du fonds.
 
+#### Art. 52b
+
+**Modalités pour l’aide aux frais dentaires**
+
+<sup>1</sup> Le droit à l'aide aux frais dentaires est déterminé sur la base des revenus déterminants pris en compte pour la détermination de l’aide au ménage.
+
+<sup>2</sup> Les ménages ne dépassant pas les limites de revenu déterminés par le Conseil d’Etat conformément à l’article 45c alinéa 2 sont informés de la possibilité de présenter les frais dentaires encourus dès le 1<sup>er</sup> janvier suivant la notification du Fonds cantonal.
+
 #### Art. 53
 
 **Notification**
@@ -504,6 +531,14 @@ arrête:
 **Versement de l’allocation de ménage**
 
 <sup>1</sup> Pour autant que le droit à la prestation ait pu être fixé, l'allocation annuelle de ménage est versée uniquement en Suisse, en décembre, sur un compte postal ou bancaire de l'assuré. A défaut d'indications nécessaires au paiement sur un compte, les frais seront déduits de l'allocation.
+
+<sup>2</sup> Le droit aux prestations s'éteint deux ans après la fin de l'année pour laquelle la prestation était due.
+
+#### Art. 54a
+
+**Versement de l’aide aux frais dentaires**
+
+<sup>1</sup> Une fois fixée, l’aide aux frais dentaires est versée à la même adresse de paiement que celle mentionnée à l’article 54 pour l’allocation de ménage.
 
 #### Art. 55
 
