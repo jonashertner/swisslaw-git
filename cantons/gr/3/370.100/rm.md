@@ -4,13 +4,12 @@ number: "370.100"
 title: Lescha davart la giurisdicziun administrativa
 short: LGA
 language: rm
-version: 2024-04-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-16
+version: 2025-01-01
+version_adopted: 2024-08-30
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3360/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3521/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3360/pdf_file"
 
 (LGA)
 
-dals 31-08-2006 (versiun dals 01-04-2024)
+dals 31-08-2006 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -127,10 +126,11 @@ concluda:
 
 **Decisiun**
 
-<sup>1</sup> Sche la recusaziun è dispitaivla, vegn la decisiun prendida en absenza da la persuna pertutgada:
+<sup>1</sup> Sche la recusaziun è dispitaivla, vegn la decisiun prendida:
 
-- a) da la dretgira ch'è cumpetenta en la chaussa principala en cas da recusaziun d'ina persuna giudiziala;
-- b) da l'autoritad colleghiala en cas da recusaziun da sias commembras e da ses commembers;
+- a) da la parsura u dal parsura da la dretgira ch'è cumpetenta en la chaussa principala, en cas da recusaziun d'ulteriuras persunas giudizialas;
+- a<sup>bis</sup>) da la substituta u dal substitut da la parsura u dal parsura, en cas da recusaziun da la parsura u dal parsura;
+- b) da l'autoritad colleghiala – en absenza da la persuna pertutgada – en cas da recusaziun da sias commembras e da ses commembers;
 - c) da la scheffa u dal schef dal departament en cas da recusaziun d'emploiadas e d'emploiads dal departament respectiv;
 - d) da las autoritads superiuras en tut ils auters cas.
 
@@ -229,7 +229,7 @@ concluda:
 
 <sup>1</sup> Ils fatgs ston vegnir eruids d'uffizi.
 
-<sup>2</sup> Las persunas ch'èn participadas a la procedura èn obligadas da cooperar a la constataziun dals fatgs.
+<sup>2</sup> Las persunas ch'èn participadas a la procedura èn obligadas da cooperar a la constataziun dals fatgs. L'obligaziun da cooperar scroda, sch'ellas sa faschessan culpaivlas tras quai.
 
 <sup>3</sup> L'autoritad retschertga las cumprovas necessarias; en quest connex n'è ella betg liada vi da pretensiuns per eruir ils fatgs.
 
@@ -431,7 +431,7 @@ concluda:
 
 <sup>1</sup> Cunter decisiuns d'in post da servetsch u d'instituts dependents da dretg public chantunal po vegnir fatg recurs administrativ tar il departament superiur.
 
-<sup>2</sup> Il recurs administrativ è exclus, sch'i dat – tenor la lescha – la pussaivladad da far protesta u da far directamain recurs tar la dretgira administrativa.
+<sup>2</sup> Il recurs administrativ è exclus, sch'i dat – tenor la lescha – la pussaivladad da far protesta u da far directamain recurs tar la Dretgira superiura.
 
 <sup>3</sup> Cunter decisiuns dals departaments e da la chanzlia chantunala po vegnir fatg recurs administrativ tar la regenza, sche la lescha prevesa expressivamain quai.
 
@@ -521,7 +521,7 @@ concluda:
 
 <sup>2</sup> L'instanza da recurs po midar la decisiun contestada a favur u a disfavur da la partida recurrenta. Sch'ella ha l'intenziun da decider a disfavur da la partida recurrenta, sto ella l'emprim dar la pussaivladad a las partidas da prender posiziun sco er da retrair il recurs.
 
-## 4. Procedura davant la dretgira administrativa
+## 4. Proceduras davant la Dretgira superiura
 
 ### 4.1. Prescripziuns generalas
 
@@ -536,6 +536,19 @@ concluda:
 <sup>2</sup> Scrittiras giuridicas sin palpiri ston vegnir suttascrittas ed inoltradas en dus exemplars.
 
 <sup>3</sup> Sch'ina inoltraziun na satisfa betg a las pretensiuns legalas u sch'ella è redigida en ina furma incunvegnenta, sch'ella n'è betg legibla u sch'ella è senza basegn memia voluminusa, vegn fixà in termin adequat per rectifitgar la mancanza, e quai cun smanatschar ch'i na vegnia uschiglio betg entrà en l'inoltraziun.
+
+#### Art. 38a
+
+**Correspundenza giuridica electronica**
+
+<sup>1</sup> Actas giuridicas ed autras dumondas pon vegnir inoltradas a la dretgira sin via electronica.
+
+<sup>2</sup> Cun il consentiment da las partidas pertutgadas po la dretgira trametter disposiziuns e decisiuns sin via electronica.
+
+<sup>3</sup> En la correspundenza giuridica electronica sto vegnir duvrada la signatura electronica qualifitgada tenor la Lescha federala davart la signatura electronica[^38a-1]. Ultra da quai vala l'Ordinaziun davart la communicaziun electronica en il rom da process civils e penals sco er da proceduras da scussiun e concurs[^38a-2] confurm al senn.
+
+[^38a-1]: CS [943.03](https://db.clex.ch/link/Bund/943.03/rm)
+[^38a-2]: CS [272.1](https://db.clex.ch/link/Bund/272.1/rm) en la versiun dal 1. da december 2019
 
 #### Art. 39
 
@@ -572,7 +585,7 @@ concluda:
 
 **Recurs da process**
 
-<sup>1</sup> Disposiziuns preventivas e proceduralas pon vegnir contestadas tar la dretgira administrativa entaifer 10 dis.
+<sup>1</sup> Disposiziuns preventivas e proceduralas pon vegnir contestadas tar la Dretgira superiura entaifer 10 dis.
 
 ### 4.1.2. Tractativa giudiziala e sentenzia
 
@@ -580,7 +593,7 @@ concluda:
 
 **Cumposiziun**
 
-<sup>1</sup> La dretgira administrativa decida per regla en ina cumposiziun da trais derschadras e derschaders.
+<sup>1</sup> La Dretgira superiura decida per regla en ina cumposiziun da trais derschadras e derschaders.
 
 <sup>2</sup> Ella decida en tschintg davart:
 
@@ -591,7 +604,7 @@ concluda:
 
 <sup>3</sup> Ella decida en cumpetenza da derschadra singula u da derschader singul:
 
-- a) sche la valur en dispita na surpassa betg 5000 francs e sch'i n'è betg prescrit in gremi da tschintg;
+- a) sche la valur en dispita na surpassa betg 10 000 francs e sch'i n'è betg prescrit in gremi da tschintg;
 - b) sch'in med legal è evidentamain inadmissibel u è evidentamain motivà u nunmotivà.
 
 <sup>4</sup> Cas che ston vegnir decidids tenor l'alinea 3 en cumpetenza da derschadra singula u da derschader singul, pon vegnir decidids en ina cumposiziun da trais, sche la derschadra singula cumpetenta u il derschader singul cumpetent ordinescha quai.
@@ -600,7 +613,7 @@ concluda:
 
 **Sentenzia**
 
-<sup>1</sup> La dretgira administrativa tira per regla sia sentenzia senza tractativa giudiziala e sin basa da las actas.
+<sup>1</sup> La Dretgira superiura tira per regla sia sentenzia senza tractativa giudiziala sin basa da las actas.
 
 #### Art. 45
 
@@ -624,7 +637,7 @@ concluda:
 
 **Dumondas preliminaras e sentenzia parziala**
 
-<sup>1</sup> La dretgira administrativa è er cumpetenta da respunder las dumondas preliminaras ch'èn indispensablas per giuditgar la chaussa principala.
+<sup>1</sup> La Dretgira superiura è er cumpetenta per respunder las dumondas preliminaras ch'èn indispensablas per giuditgar la chaussa principala.
 
 <sup>2</sup> Ella po suspender la procedura, fin che l'instanza ch'è per ordinari cumpetenta ha decidì la dumonda preliminara.
 
@@ -634,7 +647,7 @@ concluda:
 
 **Renunzia ad ina motivaziun da la sentenzia**
 
-<sup>1</sup> La dretgira administrativa po communitgar ina sentenzia en il dispositiv, e quai senza motivaziun u cun ina motivaziun curta. Mintga partida po pretender en scrit entaifer 30 dis dapi la communicaziun ina sentenzia motivada cumplettamain. Sche ni l'ina ni l'autra partida na pretenda ina motivaziun entaifer quest termin, entra la sentenzia en vigur legala.
+<sup>1</sup> La Dretgira superiura po communitgar ina sentenzia en il dispositiv, e quai senza motivaziun u cun ina motivaziun curta. Mintga partida po pretender en scrit entaifer 30 dis dapi la communicaziun ina sentenzia motivada cumplettamain. Sche ni l'ina ni l'autra partida na pretenda ina motivaziun entaifer quest termin, entra la sentenzia en vigur legala.
 
 <sup>2</sup> Las partidas ston vegnir fatgas attentas a la pussaivladad da laschar motivar la sentenzia ed a las consequenzas giuridicas.
 
@@ -648,14 +661,16 @@ concluda:
 
 **Admissibladad**
 
-<sup>1</sup> La dretgira administrativa giuditgescha recurs cunter:
+<sup>1</sup> La Dretgira superiura giuditgescha recurs cunter:
 
 - a) decisiuns da vischnancas, d'autras corporaziuns e d'instituts autonoms da dretg chantunal, uschenavant che quellas decisiuns na pon betg vegnir contestadas tar in'autra instanza u n'èn betg definitivas tenor il dretg chantunal u federal;
 - b) decisiuns da posts da servetsch da l'administraziun chantunala e d'instituts dependents da dretg chantunal, uschenavant ch'il dretg chantunal prevesa il recurs direct;
 - c) decisiuns dals departaments chantunals, uschenavant che quellas decisiuns n'èn betg definitivas tenor il dretg chantunal u federal u na pon betg vegnir contestadas tar in'autra instanza;
 - d) decisiuns da la regenza davart dispitas da dretg public, uschenavant che quellas decisiuns n'èn betg definitivas tenor il dretg chantunal u federal;
 - e) decisiuns che na pon – cuntrari a las prescripziuns generalas da cumpetenza – betg vegnir examinadas da la regenza pervia d'implitgadadad u pervia d'auters motivs;
-- f) decisiuns da baselgias chantunalas renconuschidas e da lur cumins-baselgia, uschenavant ch'i vegn fatga valair ina violaziun dal dretg relaschà dal stadi, sco er dispitas da dretg administrativ ch'èn vegnidas assegnadas da las baselgias chantunalas a la dretgira administrativa per las laschar giuditgar;
+- f) decisiuns da baselgias chantunalas renconuschidas e da lur cumins-baselgia, uschenavant ch'ellas pon vegnir contestadas davant il Tribunal federal, sco er dispitas da dretg administrativ che vegnan assegnadas da las baselgias chantunalas a la Dretgira superiura per las laschar giuditgar;
+- f<sup>bis</sup>) decisiuns da surveglianza ierarchica da la Dretgira da giustia che pertutgan commembras e commembers da la Dretgira da giustia e decisiuns da surveglianza ierarchica da las dretgiras regiunalas;
+- f<sup>ter</sup>) decisiuns da surveglianza ierarchica dal Cussegl grond che pertutgan las commembras ed ils commembers dal Cussegl grond, da la Regenza, da la Dretgira da giustia, da las dretgiras regiunalas e da la Dretgira chantunala da mesiras repressivas;
 - g) decisiuns d'autras autoritads, uschenavant che quai è previs tras la lescha.
 
 <sup>2</sup> Sco dretgira chantunala d'assicuranzas giuditgescha ella recurs cunter:
@@ -694,7 +709,7 @@ concluda:
 
 **Termin**
 
-<sup>1</sup> Il recurs sto vegnir inoltrà en scrit tar la dretgira administrativa entaifer 30 dis dapi la communicaziun da la decisiun contestada.
+<sup>1</sup> Il recurs sto vegnir inoltrà en scrit a la Dretgira superiura entaifer 30 dis dapi la communicaziun da la decisiun contestada.
 
 <sup>2</sup> Il termin per contestar ordinaziuns proceduralas e mesiras preventivas importa 10 dis.
 
@@ -726,19 +741,19 @@ concluda:
 
 <sup>1</sup> L'instanza precedenta po midar la decisiun contestada fin il mument da la sentenzia en il senn da las propostas da la partida recurrenta.
 
-<sup>2</sup> La decisiun midada sto vegnir communitgada a la dretgira administrativa.
+<sup>2</sup> La decisiun midada sto vegnir communitgada a la Dretgira superiura.
 
-<sup>3</sup> La dretgira administrativa sto tractar il recurs mo, sche quel n'ha betg pers ses object tras la decisiun midada.
+<sup>3</sup> La Dretgira superiura sto tractar il recurs mo, sche quel n'ha betg pers ses object tras la decisiun midada.
 
 #### Art. 56
 
 **Autorisaziun da decider**
 
-<sup>1</sup> Cun resalva da disposiziuns legalas divergentas è la dretgira administrativa liada vi da las propostas da las partidas.
+<sup>1</sup> Cun resalva da disposiziuns legalas divergentas è la Dretgira superiura liada vi da las propostas da las partidas.
 
-<sup>2</sup> Sche la dretgira administrativa n'è betg liada vi da las propostas da las partidas, po ella midar ina decisiun a disfavur da la partida recurrenta u conceder a quella dapli che quai ch'ella ha pretendì. En quest cas sto ella l'emprim dar la pussaivladad a las partidas da prender posiziun sco er da retrair il recurs.
+<sup>2</sup> Sche la Dretgira superiura n'è betg liada vi da las propostas da las partidas, po ella midar ina decisiun a disfavur da la partida recurrenta u conceder a quella dapli che quai ch'ella ha pretendì. En quest cas sto ella l'emprim dar la pussaivladad a las partidas da prender posiziun sco er da retrair il recurs.
 
-<sup>3</sup> Sche la dretgira administrativa abolescha la decisiun contestada, decida ella sezza u returna la chaussa per laschar decider da nov.
+<sup>3</sup> Sche la Dretgira superiura abolescha la decisiun contestada, decida ella sezza u returna la chaussa per laschar decider da nov.
 
 ### 4.3. Recurs constituziunal
 
@@ -746,7 +761,7 @@ concluda:
 
 **Admissibladad**
 
-<sup>1</sup> Sco dretgira constituziunala giuditgescha la dretgira administrativa recurs cunter:
+<sup>1</sup> Sco dretgira constituziunala giuditgescha la Dretgira superiura recurs cunter:
 
 - a) relaschs legislativs;
 - b) intervenziuns en il dretg da votar sco er en elecziuns ed en votaziuns;
@@ -781,7 +796,7 @@ concluda:
 
 **Termin**
 
-<sup>1</sup> Il recurs sto vegnir inoltrà en scrit tar la dretgira administrativa entaifer 30 dis dapi la communicaziun da la decisiun contestada u dapi la publicaziun uffiziala.
+<sup>1</sup> Il recurs sto vegnir inoltrà en scrit a la Dretgira superiura entaifer 30 dis dapi la communicaziun da la decisiun contestada u dapi la publicaziun uffiziala.
 
 <sup>2</sup> En cas da recurs cunter intervenziuns en il dretg da votar sco er cunter elecziuns e cunter votaziuns importa il termin 10 dis dapi:
 
@@ -794,17 +809,17 @@ concluda:
 
 **Sentenzia**
 
-<sup>1</sup> La dretgira administrativa abolescha il relasch contestà u la decisiun contestada, sche tal u sche tala cuntrafa a la constituziun u a la lescha.
+<sup>1</sup> La Dretgira superiura abolescha il relasch contestà u la decisiun contestada, sche tal u tala cuntrafa a la constituziun u a la lescha.
 
 <sup>2</sup> A medem temp ordinescha ella che questa decisiun vegnia publitgada adequatamain.
 
-<sup>3</sup> Uschenavant ch'ina violaziun da la constituziun na po betg vegnir abolida autramain, relascha la dretgira administrativa las ordinaziuns necessarias.
+<sup>3</sup> Uschenavant ch'ina violaziun da la constituziun na po betg vegnir abolida autramain, relascha la Dretgira superiura las ordinaziuns necessarias.
 
 #### Art. 62
 
 **Dretg subsidiar**
 
-<sup>1</sup> Uschenavant che questa part na cuntegna naginas prescripziuns, vegnan applitgadas las disposiziuns davart la procedura da recurs davant la dretgira administrativa.
+<sup>1</sup> Uschenavant che questa part na cuntegna naginas prescripziuns, vegnan applitgadas las disposiziuns davart la procedura da recurs giudizial administrativ.
 
 ### 4.4. Plant da dretg administrativ
 
@@ -812,38 +827,71 @@ concluda:
 
 **Admissibladad**
 
-<sup>1</sup> La dretgira administrativa giuditgescha en la procedura da plant:
+<sup>1</sup> La Dretgira superiura giuditgescha en la procedura da plant:
 
 - a) dispitas da dretg public ed administrativ tranter corporaziuns ed instituts da dretg public che han la medema posiziun in envers l'auter;
 - b) dispitas pervia da contracts da dretg public;
-- c) pretensiuns d'indemnisaziun che resultan da la lescha davart la responsabladad dal stadi[^63-1];
+- c) pretensiuns d'indemnisaziun che resultan da la Lescha davart la responsabladad dal stadi, uschenavant che nagina autra autoritad n'è determinada;
 - d) pretensiuns d'indemnisaziun che resultan dad acts legitims da corporaziuns e d'instituts da dretg public, uschenavant ch'igl exista ina basa legala respectiva ed uschenavant che naginas autras autoritads n'èn determinadas;
 - e) pretensiuns da dretg patrimonial or d'ina relaziun da servetsch publica, uschenavant che naginas autras autoritads n'èn determinadas;
-- f) dispitas da dretg public ed administrativ ch'èn vegnidas assegnadas tenor ina prescripziun speziala a la dretgira administrativa per las laschar giuditgar;
-- g) dispitas, a las qualas las baselgias chantunalas renconuschidas u lur cumins-baselgia èn participads, uschenavant che quellas èn assegnadas da las baselgias chantunalas a la dretgira administrativa u uschenavant ch'il dretg relaschà dal stadi vegn appellà.
+- f) dispitas da dretg public ed administrativ ch'èn vegnidas assegnadas tenor ina prescripziun speziala a la Dretgira superiura per las laschar giuditgar;
+- g) dispitas, a las qualas las baselgias chantunalas renconuschidas u lur cumins-baselgia èn participads, uschenavant ch'ellas pon vegnir contestadas davant il Tribunal federal, u dispitas ch'èn assegnadas da las baselgias chantunalas a la Dretgira superiura per las laschar giuditgar.
 
 <sup>2</sup> Sco dretgira d'assicuranzas giuditgescha ella en la procedura da plant:
 
-- a) dispitas en il senn da l'artitgel 73 da la lescha federala davart la prevenziun professiunala per vegliadetgna, survivents ed invaliditad (LPP)[^63-2];
-- b) dispitas en il senn da l'artitgel 47 da la lescha davart la surveglianza da las assicuranzas (LSA)[^63-3].
+- a) dispitas en il senn da l'artitgel 73 da la lescha federala davart la prevenziun professiunala per vegliadetgna, survivents ed invaliditad (LPP)[^63-1];
+- b) dispitas en il senn da l'artitgel 85 da la Lescha davart la surveglianza da las assicuranzas (LSA)[^63-2] e da l'artitgel 7 dal Cudesch da procedura civila svizzer[^63-3].
 
-[^63-1]: DG [170.050](https://www.gr-lex.gr.ch/data/170.050/rm)
-[^63-2]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
-[^63-3]: CS [961.01](https://db.clex.ch/link/Bund/961.01/rm)
+[^63-1]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
+[^63-2]: CS [961.01](https://db.clex.ch/link/Bund/961.01/rm)
+[^63-3]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 
 #### Art. 64
 
 **Litispendenza**
 
-<sup>1</sup> Il plant daventa pendent tras l'inoltraziun tar la dretgira administrativa.
+<sup>1</sup> Il plant daventa pendent tras l'inoltraziun a la Dretgira superiura.
 
 #### Art. 65
 
 **Dretg subsidiar**
 
-<sup>1</sup> Uschenavant che questa part na cuntegna naginas prescripziuns, vegnan applitgadas las disposiziuns davart la procedura da recurs davant la dretgira administrativa.
+<sup>1</sup> Uschenavant che questa part na cuntegna naginas prescripziuns, vegnan applitgadas las disposiziuns davart la procedura da recurs davant la Dretgira superiura.
 
 <sup>2</sup> Sch'i na pon vegnir prendidas naginas prescripziuns or da questa lescha, vegnan applitgadas las disposiziuns che valan per la procedura civila confurm al senn.
+
+## 4a. Proceduras davant la Dretgira da giustia
+
+#### Art. 65a
+
+**Recurs giudizial administrativ**
+
+<sup>1</sup> La Dretgira da giustia giuditgescha sco ultima instanza recurs cunter:
+
+- a) decisiuns da surveglianza ierarchica da la Dretgira superiura che pertutgan commembras e commembers da la Dretgira superiura;
+- b) decisiuns da surveglianza ierarchica dal Cussegl grond che pertutgan commembras e commembers da la Dretgira superiura;
+- c) decisiuns da la Dretgira superiura areguard il dretg da persunal che pertutgan las collavuraturas ed ils collavuraturs da la Dretgira superiura;
+- d) decisiuns da la cumissiun da surveglianza;
+- e) decisiuns da la Dretgira superiura concernent dumondas da recusaziun, uschenavant ch'i dovra ina decisiun d'ina autoritad chantunala da meds legals per pudair far recurs tar il Tribunal federal;
+- f) ulteriuras decisiuns, uschenavant che quai è previs tras lescha u vegn pretendì dal dretg federal.
+
+<sup>2</sup> Las premissas per far recurs e la procedura da recurs sa drizzan tenor las reglas che valan per la procedura da recurs giudizial administrativ davant la Dretgira superiura.
+
+#### Art. 65b
+
+**Conflicts da cumpetenza**
+
+<sup>1</sup> La Dretgira da giustia decida definitivamain davart conflicts da cumpetenza tranter organs da la giurisdicziun, per ils quals la lescha na prevesa nagina autra regulaziun da soluziun.
+
+<sup>2</sup> Ella vegn appellada d'in organ da la giurisdicziun, sch'igl exista unitad davart il conflict da cumpetenza.
+
+#### Art. 65c
+
+**Procedura da plant giudizial administrativ**
+
+<sup>1</sup> En la procedura da plant giudizial administrativ giuditgescha la Dretgira da giustia sco suletta instanza chantunala pretensiuns d'indemnisaziun che resultan da la Lescha davart la responsabladad dal stadi[^65c-1] e che vegnan assegnadas ad ella per laschar giuditgar.
+
+[^65c-1]: DG [170.050](https://www.gr-lex.gr.ch/data/170.050/rm)
 
 ## 5. Meds legals extraordinaris e meds giuridics
 
@@ -883,7 +931,7 @@ concluda:
 
 <sup>1</sup> L'object dal recurs da surveglianza pon esser acts u omissiuns d'autoritads administrativas sco er da corporaziuns e d'instituts da dretg public chantunal ch'èn suttamess a la surveglianza da la regenza.
 
-<sup>2</sup> Il recurs è mo admissibel, sche la violaziun da dretg che vegn pretendida na po betg vegnir contestada tras in med legal u tras in plant tar la dretgira administrativa u tar la regenza.
+<sup>2</sup> Il recurs è mo admissibel, sche la violaziun da dretg che vegn pretendida na po betg vegnir contestada tras in med legal u tras in plant tar la Dretgira superiura u tar la Regenza.
 
 #### Art. 69
 
@@ -949,14 +997,11 @@ concluda:
 - b) las taxas per emetter e per communitgar la decisiun;
 - c) las expensas en daner blut.
 
-<sup>2</sup> La taxa dal stadi importa maximalmain 20 000 francs. Ella sa drizza tenor la dimensiun e la difficultad da la chaussa sco er tenor l'interess e la capacitad economica da las persunas ch'èn obligadas da surpigliar ils custs. En proceduras davant la dretgira administrativa che chaschunan custs spezialmain gronds s'augmenta il rom da las taxas a 100 000 francs. Sch'i vegn desistì d'ina sentenzia motivada cumplettamain, vegn reducida adequatamain la taxa dal stadi.
+<sup>2</sup> La taxa dal stadi importa maximalmain 20 000 francs. Ella sa drizza tenor la dimensiun e la difficultad da la chaussa sco er tenor l'interess e la capacitad economica da las persunas ch'èn obligadas da surpigliar ils custs. En proceduras davant la Dretgira superiura che chaschunan custs spezialmain gronds s'augmenta il rom da las taxas a 100 000 francs. Sch'i vegn desistì d'ina sentenzia motivada cumplettamain, vegn reducida adequatamain la taxa dal stadi.
 
-<sup>3</sup> Per proceduras davant autoritads administrativas chantunalas regla la regenza tras in'ordinaziun[^75-1] las tariffas per la taxa dal stadi, l'autezza da las taxas per emetter e per communitgar la decisiun sco er l'indemnisaziun da las expensas en daner blut.
+<sup>3</sup> Per proceduras davant autoritads administrativas chantunalas regla la Regenza tras in'ordinaziun las tariffas per la taxa dal stadi, l'autezza da las taxas per emetter e per communitgar la decisiun sco er l'indemnisaziun da las expensas en daner blut.
 
-<sup>4</sup> Per proceduras davant la dretgira administrativa regla la dretgira administrativa tras in'ordinaziun[^75-2] l'autezza da las taxas per emetter e per communitgar la decisiun sco er l'indemnisaziun da las expensas en daner blut.
-
-[^75-1]: DG [370.120](https://www.gr-lex.gr.ch/data/370.120/rm)
-[^75-2]: DG [370.110](https://www.gr-lex.gr.ch/data/370.110/rm)
+<sup>4</sup> Per proceduras davant la Dretgira superiura regla la Dretgira superiura, per proceduras davant la Dretgira da giustia la Dretgira da giustia tras in'ordinaziun l'autezza da las taxas per emetter e per communitgar la decisiun sco er l'indemnisaziun da las expensas en daner blut.
 
 #### Art. 76
 
@@ -976,7 +1021,7 @@ concluda:
 
 <sup>1</sup> Sch'ina partida fa in process gratuit, sto ella restituir ils custs relaschads ed ils custs da la represchentanza legala, sche sias relaziuns d'entrada e da facultad èn sa meglieradas e sch'ella è en cas da far quai. Il dretg dal chantun sin ina restituziun surannescha suenter 10 onns dapi che la decisiun è entrada en vigur.
 
-<sup>2</sup> Davart l'obligaziun da restituziun decida l'uffizi che vegn designà da la regenza. Cunter sia decisiun poi vegnir fatg recurs tar la dretgira administrativa.
+<sup>2</sup> Davart l'obligaziun da restituziun decida l'uffizi che vegn designà da la Regenza. Cunter sia decisiun poi vegnir fatg recurs tar la Dretgira superiura.
 
 <sup>3</sup> Tras la procedura d'invista renda l'administraziun da taglia accessiblas las datas necessarias a l'uffizi ch'è cumpetent per far valair ils dretgs da restituziun. En las vischnancas ha il post ch'è cumpetent per las restituziuns il dretg da prender invista da las datas necessarias sur l'uffizi da taglia.
 
@@ -1012,7 +1057,7 @@ concluda:
 
 <sup>2</sup> L'execuziun d'ina decisiun da recurs è chaussa da quella autoritad che ha decidì en emprima instanza. Sche quella n'ademplescha betg u betg correctamain sia obligaziun, po vegnir fatg diever da l'agid da l'instanza da meds legals.
 
-<sup>3</sup> L'execuziun da las mesiras disponidas u ordinadas da la dretgira administrativa è chaussa dal departament ch'è cumpetent per la giustia.
+<sup>3</sup> L'execuziun da las mesiras disponidas u ordinadas da la Dretgira superiura e da la Dretgira da giustia è chaussa dal departament ch'è cumpetent per la giustia.
 
 <sup>4</sup> Resalvadas restan disposiziuns divergentas d'auters relaschs.
 
@@ -1087,17 +1132,15 @@ concluda:
 
 <sup>4</sup> La surannaziun dals process gratuits ch'èn vegnids concedids avant che la revisiun parziala da la lescha davart las advocatas ed ils advocats[^85-1] dals 21 d'october 2008 è entrada en vigur, cumenza cur che questa lescha entra en vigur.
 
+<sup>5</sup> Proceduras ch'èn pendentas davant la Dretgira administrativa il mument che la midada da questa lescha entra en vigur, vegnan surdadas a la dretgira ch'è cumpetenta tenor il dretg nov, cura che la revisiun parziala entra en vigur.
+
+<sup>6</sup> Las disposiziuns da l'artitgel 38a davart la correspundenza giuridica electronica en la procedura davant la Dretgira superiura restan en vigur, fin che la Lescha federala davart las plattafurmas per la communicaziun electronica en il sectur giudizial (LPCEG) è entrada en vigur e fin che la plattafurma Justitia.Swiss che sa basa sin questa lescha, vegn dada liber per la procedura administrativa chantunala respectivamain per la procedura giudiziala administrativa chantunala. La Regenza vegn autorisada da constatar, sche las cundiziuns èn ademplidas. Cura che quest conclus entra en vigur, vegnan l'artitgel 38a e l'artitgel 85 alinea 6 abolids automaticamain.
+
 [^85-1]: DG [310.100](https://www.gr-lex.gr.ch/data/310.100/rm)
 
 #### Art. 85b
 
-**Recurs u appellaziun da dretg civil tar la dretgira chantunala**
-
-<sup>1</sup> Cunter decisiuns finalas d'emprima instanza da la dretgira administrativa che stattan en in connex direct cun il dretg civil tenor l'artitgel 72 alinea 2 litera b da la lescha davart il tribunal federal[^85b-1], po vegnir fatg recurs u appellaziun da dretg civil tar la dretgira chantunala.
-
-<sup>2</sup> Questa disposiziun vala er per cas ch'èn pendents davant la dretgira administrativa, cur ch'ella entra en vigur.
-
-[^85b-1]: CS [173.110](https://db.clex.ch/link/Bund/173.110/rm)
+**…**
 
 #### Art. 86
 

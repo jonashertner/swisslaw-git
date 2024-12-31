@@ -4,13 +4,12 @@ number: "370.100"
 title: Legge sulla giustizia amministrativa
 short: LGA
 language: it
-version: 2024-04-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-16
+version: 2025-01-01
+version_adopted: 2024-08-30
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3360/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3521/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3360/pdf_file"
 
 (LGA)
 
-del 31.08.2006 (stato 01.04.2024)
+del 31.08.2006 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -127,10 +126,11 @@ decide:
 
 **Decisione**
 
-<sup>1</sup> Se la ricusazione è contestata, in assenza della persona interessata decide:
+<sup>1</sup> Se la ricusazione è contestata, decide:
 
-- a) il tribunale competente per la causa principale, in casi di ricusazione di un membro del tribunale;
-- b) l'autorità collegiale, in casi di ricusazione dei propri membri;
+- a) il presidente del tribunale competente nel merito in casi di ricusazione di altri membri del tribunale;
+- a<sup>bis</sup>) il sostituto del presidente in casi di ricusazione del presidente;
+- b) l'autorità collegiale, in assenza della persona interessata, in casi di ricusazione dei propri membri;
 - c) il Direttore del Dipartimento, in casi di ricusazione di impiegati del rispettivo Dipartimento;
 - d) l'autorità preposta, negli altri casi.
 
@@ -229,7 +229,7 @@ decide:
 
 <sup>1</sup> La fattispecie deve essere rilevata d'ufficio.
 
-<sup>2</sup> Gli interessati alla procedura sono obbligati a collaborare al rilevamento della fattispecie.
+<sup>2</sup> Gli interessati alla procedura sono obbligati a collaborare al rilevamento della fattispecie. L'obbligo di collaborare decade se ciò comporterebbe addebiti penali nei loro confronti.
 
 <sup>3</sup> L'autorità assume le prove necessarie, ma non è vincolata alle richieste riguardanti il rilevamento della fattispecie.
 
@@ -429,7 +429,7 @@ decide:
 
 <sup>1</sup> Le decisioni di un servizio o di istituti dipendenti del diritto pubblico cantonale possono essere impugnate con ricorso amministrativo al Dipartimento preposto.
 
-<sup>2</sup> Il ricorso amministrativo è escluso, quando sono possibili l'opposizione o direttamente il ricorso al Tribunale amministrativo.
+<sup>2</sup> Il ricorso amministrativo è escluso, quando secondo la legge sono possibili l'opposizione o direttamente il ricorso al Tribunale d'appello.
 
 <sup>3</sup> Le decisioni dei Dipartimenti e della Cancelleria dello Stato possono essere impugnate con ricorso amministrativo al Governo, se ciò è espressamente previsto dalla legge.
 
@@ -519,7 +519,7 @@ decide:
 
 <sup>2</sup> L'autorità di ricorso può modificare la decisione impugnata a vantaggio o a svantaggio della parte ricorrente. Se essa propende per la seconda opzione, deve prima dare alle parti la possibilità di prendere posizione o di ritirare il ricorso.
 
-## 4. Procedura dinanzi al Tribunale amministrativo
+## 4. Procedura dinanzi al Tribunale d'appello
 
 ### 4.1. Norme generali
 
@@ -534,6 +534,19 @@ decide:
 <sup>2</sup> Le memorie in formato cartaceo devono essere firmate e inoltrate in duplice copia.
 
 <sup>3</sup> Se un'istanza non soddisfa i requisiti legali o se essa è redatta in forma indecorosa, illeggibile o inutilmente estesa, viene stabilito un termine adeguato per l'eliminazione del vizio, con l'avvertimento che in caso contrario non si entrerà nel merito dell'istanza.
+
+#### Art. 38a
+
+**Scambio di atti giuridici per via elettronica**
+
+<sup>1</sup> Le memorie e altre istanze possono essere inoltrate al tribunale per via elettronica.
+
+<sup>2</sup> Con il consenso delle parti interessate, il tribunale può trasmettere per via elettronica provvedimenti e decisioni.
+
+<sup>3</sup> Nello scambio di atti giuridici per via elettronica occorre utilizzare la firma elettronica qualificata conformemente alla legge sulla firma elettronica[^38a-1]. Vale inoltre per analogia l'ordinanza sulla comunicazione per via elettronica nell'ambito di procedimenti civili e penali nonché di procedure d'esecuzione e fallimento[^38a-2].
+
+[^38a-1]: RS [943.03](https://db.clex.ch/link/Bund/943.03/it)
+[^38a-2]: RS [272.1](https://db.clex.ch/link/Bund/272.1/it) nella versione del 1° dicembre 2019
 
 #### Art. 39
 
@@ -570,7 +583,7 @@ decide:
 
 **Ricorso procedurale**
 
-<sup>1</sup> Decisioni provvisionali e decisioni determinanti il corso della procedura possono essere impugnate entro dieci giorni dinanzi al Tribunale amministrativo.
+<sup>1</sup> Decisioni provvisionali e decisioni determinanti il corso della procedura possono essere impugnate entro dieci giorni dinanzi al Tribunale d'appello.
 
 ### 4.1.2. Dibattimento in Tribunale e sentenza
 
@@ -578,7 +591,7 @@ decide:
 
 **Composizione**
 
-<sup>1</sup> Il Tribunale amministrativo decide di regola nella composizione di tre giudici.
+<sup>1</sup> Il Tribunale d'appello decide di regola nella composizione di tre giudici.
 
 <sup>2</sup> Il Tribunale amministrativo decide nella composizione di cinque giudici su:
 
@@ -589,7 +602,7 @@ decide:
 
 <sup>3</sup> Esso decide nella composizione di giudice unico, quando:
 
-- a) il valore litigioso non supera i 5000 franchi e non è prescritta una composizione di cinque giudici;
+- a) il valore litigioso non supera i 10 000 franchi e non è prescritta una composizione di cinque giudici;
 - b) un rimedio giuridico è palesemente inammissibile o palesemente fondato o infondato.
 
 <sup>4</sup> Casi in cui conformemente al capoverso 3 è tenuto a decidere un giudice unico possono essere decisi in composizione di tre membri se il giudice unico competente lo dispone.
@@ -598,7 +611,7 @@ decide:
 
 **Sentenza**
 
-<sup>1</sup> Il Tribunale amministrativo pronuncia la sentenza, di regola senza dibattimento in Tribunale, in base agli atti.
+<sup>1</sup> Il Tribunale d'appello pronuncia la sentenza, di regola senza dibattimento in tribunale, in base agli atti.
 
 #### Art. 45
 
@@ -622,7 +635,7 @@ decide:
 
 **Pregiudiziali e sentenza parziale**
 
-<sup>1</sup> Il Tribunale amministrativo è competente anche per la risposta a pregiudiziali necessaria per giudicare l'oggetto principale.
+<sup>1</sup> Il Tribunale d'appello è competente anche per la risposta a pregiudiziali necessaria per giudicare l'oggetto principale.
 
 <sup>2</sup> Esso ha facoltà di sospendere il procedimento finché una pregiudiziale sia stata decisa dall'istanza di regola competente a giudicarla.
 
@@ -632,7 +645,7 @@ decide:
 
 **Rinuncia alla motivazione della sentenza**
 
-<sup>1</sup> Il Tribunale amministrativo può comunicare una sentenza nel dispositivo, senza motivazione oppure con una motivazione breve. Ogni parte può richiedere per iscritto una sentenza interamente motivata entro 30 giorni dalla comunicazione della stessa. Se entro tale termine nessuna delle parti richiede una motivazione, la sentenza cresce in giudicato.
+<sup>1</sup> Il Tribunale d'appello può comunicare una sentenza nel dispositivo senza motivazione oppure con una motivazione breve. Ogni parte può richiedere per iscritto una sentenza interamente motivata entro 30 giorni dalla comunicazione della stessa. Se entro tale termine nessuna delle parti richiede una motivazione, la sentenza cresce in giudicato.
 
 <sup>2</sup> Le parti devono essere rese attente alla possibilità della motivazione della sentenza e alle conseguenze giuridiche.
 
@@ -646,14 +659,16 @@ decide:
 
 **Ammissibilità**
 
-<sup>1</sup> Il Tribunale amministrativo giudica i ricorsi contro:
+<sup>1</sup> Il Tribunale d'appello giudica i ricorsi contro:
 
 - a) decisioni dei comuni, di altri enti e degli istituti indipendenti di diritto cantonale, che non siano suscettibili di impugnazione presso un'altra istanza o non siano definitive secondo il diritto cantonale o federale;
 - b) decisioni degli uffici dell'Amministrazione cantonale e di istituti dipendenti di diritto cantonale, se il diritto cantonale prevede l'impugnazione diretta;
 - c) decisioni dei Dipartimenti cantonali, che non siano definitive secondo il diritto cantonale o federale o non siano suscettibili di impugnazione presso un'altra istanza;
 - d) decisioni del Governo in merito a controversie di diritto pubblico, che non siano definitive secondo il diritto cantonale o federale;
 - e) decisioni che per presunzione di parzialità o per altri motivi non possono essere giudicate dal Governo, nonostante le norme generali di competenza;
-- f) decisioni delle Chiese di Stato riconosciute e dei loro comuni parrocchiali, se si fa valere una violazione di norme giuridiche emanate dallo Stato, e controversie di diritto amministrativo assegnate per il giudizio al Tribunale amministrativo dalle Chiese di Stato;
+- f) decisioni delle Chiese di Stato riconosciute e dei loro comuni parrocchiali, se possono essere impugnate dinanzi al Tribunale federale, e controversie di diritto amministrativo assegnate per il giudizio al Tribunale d'appello dalle Chiese di Stato;
+- f<sup>bis</sup>) decisioni di vigilanza gerarchica del Tribunale della magistratura concernenti giudici del Tribunale della magistratura e decisioni di vigilanza gerarchica dei tribunali regionali;
+- f<sup>ter</sup>) decisioni di vigilanza gerarchica del Gran Consiglio concernenti membri del Gran Consiglio, del Governo, giudici del Tribunale della magistratura, dei tribunali regionali nonché il giudice cantonale dei provvedimenti coercitivi;
 - g) decisioni di altre autorità, per quanto ciò sia previsto dalla legge.
 
 <sup>2</sup> Quale Tribunale cantonale delle assicurazioni giudica ricorsi contro:
@@ -692,7 +707,7 @@ decide:
 
 **Termine**
 
-<sup>1</sup> Il ricorso deve essere inoltrato per iscritto al Tribunale amministrativo entro 30 giorni dalla comunicazione della decisione impugnata.
+<sup>1</sup> Il ricorso deve essere inoltrato per iscritto al Tribunale d'appello entro 30 giorni dalla comunicazione della decisione impugnata.
 
 <sup>2</sup> Il termine per il ricorso di disposizioni determinanti il corso della procedura e misure provvisionali è di dieci giorni.
 
@@ -724,19 +739,19 @@ decide:
 
 <sup>1</sup> Fino alla pronuncia della sentenza, l'istanza precedente può modificare la decisione impugnata nel senso delle richieste del ricorrente.
 
-<sup>2</sup> La decisione modificata deve essere comunicata al Tribunale amministrativo.
+<sup>2</sup> La decisione modificata deve essere comunicata al Tribunale d'appello.
 
-<sup>3</sup> Il Tribunale amministrativo deve esaminare il ricorso soltanto nella misura in cui esso non sia divenuto privo d'oggetto in seguito alla modifica della decisione.
+<sup>3</sup> Il Tribunale d'appello deve esaminare il ricorso soltanto nella misura in cui esso non sia divenuto privo d'oggetto in seguito alla modifica della decisione.
 
 #### Art. 56
 
 **Competenze del Tribunale**
 
-<sup>1</sup> Fatte salve disposizioni legali derogatorie, il Tribunale amministrativo è vincolato alle richieste delle parti.
+<sup>1</sup> Fatte salve disposizioni legali derogatorie, il Tribunale d'appello è vincolato alle richieste delle parti.
 
-<sup>2</sup> Se il Tribunale amministrativo non è vincolato alle richieste delle parti, esso può modificare una decisione a svantaggio della parte ricorrente oppure concederle più di quanto ha richiesto. In tal caso occorre prima dare alle parti la possibilità di prendere posizione o di ritirare il ricorso.
+<sup>2</sup> Se il Tribunale d'appello non è vincolato alle richieste delle parti, esso può modificare una decisione a svantaggio della parte ricorrente oppure concederle più di quanto ha richiesto. In tal caso occorre prima dare alle parti la possibilità di prendere posizione o di ritirare il ricorso.
 
-<sup>3</sup> Quando il Tribunale amministrativo revoca una decisione impugnata, emana esso stesso la nuova decisione o rinvia la causa per la nuova decisione.
+<sup>3</sup> Quando il Tribunale d'appello revoca una decisione impugnata, emana esso stesso la nuova decisione o rinvia la causa per la nuova decisione.
 
 ### 4.3. Ricorso costituzionale
 
@@ -744,7 +759,7 @@ decide:
 
 **Ammissibilità**
 
-<sup>1</sup> In veste di Corte costituzionale, il Tribunale amministrativo giudica i ricorsi contro:
+<sup>1</sup> In veste di Corte costituzionale, il Tribunale d'appello giudica i ricorsi contro:
 
 - a) atti legislativi;
 - b) attentati al diritto di voto, nonché elezioni e votazioni;
@@ -779,7 +794,7 @@ decide:
 
 **Termine**
 
-<sup>1</sup> Il ricorso deve essere inoltrato per iscritto al Tribunale amministrativo entro 30 giorni dalla comunicazione della decisione impugnata o dalla pubblicazione ufficiale.
+<sup>1</sup> Il ricorso deve essere inoltrato per iscritto al Tribunale d'appello entro 30 giorni dalla comunicazione della decisione impugnata o dalla pubblicazione ufficiale.
 
 <sup>2</sup> In caso di ricorsi contro attentati al diritto di voto, nonché contro elezioni e votazioni il termine è di dieci giorni dalla:
 
@@ -792,17 +807,17 @@ decide:
 
 **Sentenza**
 
-<sup>1</sup> Il Tribunale amministrativo abroga l'atto normativo impugnato o la decisione impugnata, se è anticostituzionale o illegale.
+<sup>1</sup> Il Tribunale d'appello abroga l'atto normativo impugnato o la decisione impugnata, se è anticostituzionale o illegale.
 
 <sup>2</sup> Esso dispone contemporaneamente l'adeguata pubblicazione di questa decisione.
 
-<sup>3</sup> Qualora alla violazione della Costituzione non possa essere posto altro rimedio, il Tribunale amministrativo emana le disposizioni necessarie.
+<sup>3</sup> Qualora alla violazione della Costituzione non possa essere posto altro rimedio, il Tribunale d'appello emana le disposizioni necessarie.
 
 #### Art. 62
 
 **Diritto sussidiario**
 
-<sup>1</sup> Per quanto questa sezione non contenga alcuna prescrizione, si applicano le disposizioni sulla procedura di ricorso dinanzi al Tribunale amministrativo.
+<sup>1</sup> Per quanto questa sezione non contenga alcuna prescrizione, si applicano le disposizioni sulla procedura di ricorso giudiziario.
 
 ### 4.4. Azione giudiziaria
 
@@ -810,37 +825,71 @@ decide:
 
 **Ammissibilità**
 
-<sup>1</sup> Il Tribunale amministrativo giudica nella procedura d'azione:
+<sup>1</sup> Il Tribunale d'appello giudica nella procedura d'azione:
 
 - a) controversie di diritto pubblico e amministrativo fra enti e istituti di diritto pubblico equivalenti nella gerarchia;
 - b) controversie derivanti da contratti di diritto pubblico;
-- c) pretese di indennizzo risultanti dalla legge sulla responsabilità dello Stato;
+- c) pretese di indennizzo risultanti dalla legge sulla responsabilità dello Stato, se nessun'altra autorità è competente a giudicare;
 - d) pretese di indennizzo risultanti da operazioni legittime di enti e istituti di diritto pubblico, se vi è una base legale per farlo e nessun'altra autorità è competente a giudicare;
 - e) pretese pecuniarie risultanti da un rapporto di servizio pubblico, se nessun'altra autorità è competente a giudicare;
-- f) controversie di diritto pubblico e amministrativo assegnate per il giudizio al Tribunale amministrativo da una norma speciale;
-- g) controversie a cui partecipano le Chiese riconosciute dallo Stato o i loro comuni parrocchiali, se sono assegnate al Tribunale amministrativo dalle Chiese di Stato o se viene invocato il diritto cantonale.
+- f) controversie di diritto pubblico e amministrativo assegnate per il giudizio al Tribunale d'appello da una norma speciale;
+- g) controversie a cui partecipano le Chiese riconosciute dallo Stato o i loro comuni parrocchiali, se possono essere impugnate dinanzi al Tribunale federale, oppure che sono assegnate per il giudizio al Tribunale d'appello dalle Chiese di Stato.
 
 <sup>2</sup> In veste di Tribunale delle assicurazioni esso giudica nella procedura d'azione:
 
 - a) controversie ai sensi dell'articolo 73 della legge federale sulla previdenza professionale per la vecchiaia, i superstiti e l'invalidità (LPP)[^63-1];
-- b) controversie ai sensi dell'articolo 47 della legge sulla sorveglianza degli assicuratori (LSA)[^63-2].
+- b) controversie ai sensi dell'articolo 85 della legge sulla sorveglianza degli assicuratori (LSA)[^63-2] e dell'articolo 7 del Codice di diritto processuale civile svizzero[^63-3].
 
 [^63-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/it)
 [^63-2]: RS [961.01](https://db.clex.ch/link/Bund/961.01/it)
+[^63-3]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
 #### Art. 64
 
 **Litispendenza**
 
-<sup>1</sup> La litispendenza ha inizio con la presentazione dell'azione al Tribunale amministrativo.
+<sup>1</sup> La litispendenza ha inizio con la presentazione dell'azione al Tribunale d'appello.
 
 #### Art. 65
 
 **Diritto sussidiario**
 
-<sup>1</sup> Per quanto questa sezione non contenga alcuna norma, si applicano le disposizioni sulla procedura di ricorso dinanzi al Tribunale amministrativo.
+<sup>1</sup> Per quanto questa sezione non contenga alcuna prescrizione, si applicano le disposizioni sulla procedura di ricorso dinanzi al Tribunale d'appello.
 
 <sup>2</sup> Qualora la presente legge non preveda alcuna norma, si applicano per analogia le disposizioni valide per la procedura civile.
+
+## 4a. Procedura dinanzi al Tribunale della magistratura
+
+#### Art. 65a
+
+**Ricorso giudiziario**
+
+<sup>1</sup> Il Tribunale della magistratura giudica quale autorità di ultima istanza ricorsi contro:
+
+- a) decisioni di vigilanza gerarchica del Tribunale d'appello concernenti giudici del Tribunale d'appello;
+- b) decisioni di vigilanza gerarchica del Gran Consiglio concernenti giudici del Tribunale d'appello;
+- c) decisioni di diritto del personale del Tribunale d'appello concernenti collaboratori del Tribunale d'appello;
+- d) decisioni della commissione di vigilanza;
+- e) decisioni del Tribunale d'appello concernenti domande di ricusa, se l'impugnazione dinanzi al Tribunale federale presuppone una decisione di un'autorità di impugnazione cantonale;
+- f) altre decisioni, se ciò è previsto dalla legge o necessario in base al diritto federale.
+
+<sup>2</sup> I presupposti per il ricorso e per la procedura di ricorso si conformano alle norme valide per la procedura di ricorso giudiziario dinanzi al Tribunale d'appello.
+
+#### Art. 65b
+
+**Conflitti di competenza**
+
+<sup>1</sup> Il Tribunale della magistratura decide in via definitiva in caso di conflitti di competenza tra organi giudiziari per la cui soluzione la legge non prevede altre norme.
+
+<sup>2</sup> A esso si appella un organo giudiziario in caso di accordo circa l'esistenza di un conflitto di competenza.
+
+#### Art. 65c
+
+**Procedura d'azione giudiziaria amministrativa**
+
+<sup>1</sup> Nella procedura d'azione giudiziaria amministrativa, quale unica istanza cantonale il Tribunale della magistratura giudica pretese di indennizzo risultanti dalla legge sulla responsabilità dello Stato[^65c-1] che gli sono state attribuite per il giudizio.
+
+[^65c-1]: CSC [170.050](https://www.gr-lex.gr.ch/data/170.050/it)
 
 ## 5. Rimedi giuridici straordinari e espedienti giuridici
 
@@ -880,7 +929,7 @@ decide:
 
 <sup>1</sup> Possono essere oggetto del ricorso di vigilanza atti o omissioni da parte di autorità amministrative, enti e istituti di diritto pubblico cantonale sottoposti alla vigilanza del Governo.
 
-<sup>2</sup> Il ricorso è ricevibile solo se l'asserita violazione del diritto non può essere denunciata mediante rimedi giuridici o azione al Tribunale amministrativo o al Governo.
+<sup>2</sup> Il ricorso è ricevibile solo se l'asserita violazione del diritto non può essere denunciata mediante rimedi giuridici o azione al Tribunale d'appello o al Governo.
 
 #### Art. 69
 
@@ -946,14 +995,11 @@ decide:
 - b) tasse per compilazioni e comunicazioni della decisione;
 - c) esborsi in contanti.
 
-<sup>2</sup> La tassa di Stato ammonta al massimo a 20 000 franchi. Essa si calcola in base al volume e alla difficoltà della causa, nonché in base all'interesse e alle risorse economiche di chi deve assumersi le spese. In procedure dinanzi al Tribunale amministrativo che causano spese particolarmente elevate il limite delle tasse aumenta a 100 000 franchi. In caso di rinuncia ad una sentenza interamente motivata, la tassa di Stato viene adeguatamente ridotta.
+<sup>2</sup> La tassa di Stato ammonta al massimo a 20 000 franchi. Essa si calcola in base al volume e alla difficoltà della causa, nonché in base all'interesse e alle risorse economiche di chi deve assumersi le spese. In procedure dinanzi al Tribunale d'appello che causano spese particolarmente elevate il limite delle tasse sale a 100 000 franchi. In caso di rinuncia ad una sentenza interamente motivata, la tassa di Stato viene adeguatamente ridotta.
 
-<sup>3</sup> Per procedure dinanzi ad autorità amministrative cantonali, il Governo disciplina tramite ordinanza[^75-1] le aliquote per la tassa di Stato, l'ammontare delle tasse per compilazioni e comunicazioni, nonché il rimborso degli esborsi in contanti.
+<sup>3</sup> Per procedure dinanzi ad autorità amministrative cantonali, il Governo disciplina tramite ordinanza le aliquote per la tassa di Stato, l'ammontare delle tasse per compilazioni e comunicazioni, nonché il rimborso degli esborsi in contanti.
 
-<sup>4</sup> Per procedure dinanzi al Tribunale amministrativo, il Tribunale amministrativo disciplina tramite ordinanza[^75-2] l'ammontare delle tasse per compilazioni e comunicazioni, nonché il rimborso degli esborsi in contanti.
-
-[^75-1]: CSC [370.120](https://www.gr-lex.gr.ch/data/370.120/it)
-[^75-2]: CSC [370.110](https://www.gr-lex.gr.ch/data/370.110/it)
+<sup>4</sup> L'ammontare delle tasse per compilazioni e comunicazioni nonché il rimborso degli esborsi in contanti vengono disciplinati tramite ordinanza dal Tribunale d'appello per procedure dinanzi al Tribunale d'appello e dal Tribunale della magistratura per procedure dinanzi al Tribunale della magistratura.
 
 #### Art. 76
 
@@ -973,7 +1019,7 @@ decide:
 
 <sup>1</sup> La parte beneficiaria dell'assistenza giudiziaria gratuita deve rimborsare le spese che le sono state condonate e le spese del patrocinio legale, se le sue condizioni di reddito o di sostanza sono migliorate ed essa è in grado di farlo. Il diritto del Cantone al risarcimento cade in prescrizione dopo dieci anni dal passaggio in giudicato della decisione.
 
-<sup>2</sup> L'ufficio designato dal Governo decide sull'obbligo di rimborso. Tale decisione può essere impugnata mediante ricorso presso il Tribunale amministrativo.
+<sup>2</sup> L'ufficio designato dal Governo decide sull'obbligo di rimborso. Tale decisione può essere impugnata mediante ricorso presso il Tribunale d'appello.
 
 <sup>3</sup> Mediante una procedura di richiamo l'Amministrazione delle imposte rende accessibili i dati necessari all'ufficio competente per l'esercizio dei diritti di rimborso. Nei comuni, l'ufficio competente per l'esercizio dei diritti di rimborso è autorizzato a prendere visione dei dati necessari tramite l'Ufficio fiscale.
 
@@ -1009,7 +1055,7 @@ decide:
 
 <sup>2</sup> L'esecuzione di una decisione su ricorso spetta all'autorità che ha deciso in prima istanza. Se questa non ottempera o non ottempera in modo corretto al proprio dovere, si può ricorrere all'aiuto dell'autorità di ricorso.
 
-<sup>3</sup> L'esecuzione delle misure decise o disposte dal Tribunale amministrativo spetta al Dipartimento competente in materia di giustizia.
+<sup>3</sup> L'esecuzione delle misure decise o disposte dal Tribunale d'appello e dal Tribunale della magistratura spetta al Dipartimento competente in materia di giustizia.
 
 <sup>4</sup> Sono fatte salve disposizioni derogatorie di altri atti normativi.
 
@@ -1083,15 +1129,13 @@ decide:
 
 <sup>4</sup> Il termine di prescrizione dei casi di assistenza giudiziaria gratuita concessa prima dell'entrata in vigore della revisione parziale della legge sugli avvocati del 21 ottobre 2008 inizia a decorrere con l'entrata in vigore della presente legge.
 
+<sup>5</sup> I procedimenti pendenti dinanzi al Tribunale amministrativo al momento dell'entrata in vigore della modifica della presente legge vengono trasferiti al tribunale competente secondo il nuovo diritto con effetto al momento dell'entrata in vigore.
+
+<sup>6</sup> Le disposizioni dell'articolo 38a relative allo scambio di atti giuridici per via elettronica nel procedimento dinanzi al Tribunale d'appello rimangono in vigore finché la legge federale concernente le piattaforme per la comunicazione elettronica nella giustizia (LCEG) sarà posta in vigore e la piattaforma Justitia.Swiss per la procedura amministrativa cantonale rispettivamente per la procedura giudiziaria amministrativa cantonale basata su di essa sarà approvata. Il Governo viene autorizzato a stabilire l'adempimento delle condizioni. Se questo decreto passa in giudicato, l'articolo 38a e l'articolo 85 capoverso 6 vengono abrogati automaticamente.
+
 #### Art. 85b
 
-**Ricorso in materia civile o appello dinanzi al Tribunale cantonale**
-
-<sup>1</sup> Le decisioni finali di prima istanza del Tribunale amministrativo che conformemente all'articolo 72 capoverso 2 lettera b LTF[^85b-1] si trovano in rapporto diretto con il diritto civile possono essere impugnate con ricorso in materia civile o appello dinanzi al Tribunale cantonale.
-
-<sup>2</sup> Questa disposizione fa stato anche per i casi pendenti dinanzi al Tribunale amministrativo al momento della sua entrata in vigore.
-
-[^85b-1]: RS[173.110](https://db.clex.ch/link/Bund/173.110/it)
+**…**
 
 #### Art. 86
 

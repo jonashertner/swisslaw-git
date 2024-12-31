@@ -4,13 +4,12 @@ number: "370.100"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2024-04-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-16
+version: 2025-01-01
+version_adopted: 2024-08-30
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3360/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3521/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3360/pdf_file"
 
 (VRG)
 
-Vom 31.08.2006 (Stand 01.04.2024)
+Vom 31.08.2006 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -127,10 +126,11 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Ist der Ausstand streitig, entscheidet in Abwesenheit der betroffenen Person:
+<sup>1</sup> Ist der Ausstand streitig, entscheidet:
 
-- a) das in der Hauptsache zuständige Gericht in Ausstandsfällen einer Gerichtsperson;
-- b) die Kollegialbehörde in Ausstandsfällen ihrer Mitglieder;
+- a) die oder der Vorsitzende des in der Hauptsache zuständigen Gerichts in Ausstandsfällen von weiteren Gerichtspersonen;
+- a<sup>bis</sup>) die Stellvertreterin oder der Stellvertreter der oder des Vorsitzenden in Ausstandsfällen der oder des Vorsitzenden;
+- b) die Kollegialbehörde in Abwesenheit der betroffenen Person in Ausstandsfällen ihrer Mitglieder;
 - c) die Departementsvorsteherin oder der Departementsvorsteher in Ausstandsfällen von Angestellten des jeweiligen Departements;
 - d) die vorgesetzte Behörde in den übrigen Fällen.
 
@@ -229,7 +229,7 @@ beschliesst:
 
 <sup>1</sup> Der Sachverhalt ist von Amtes wegen zu ermitteln.
 
-<sup>2</sup> Die am Verfahren Beteiligten sind verpflichtet, an der Feststellung des Sachverhalts mitzuwirken.
+<sup>2</sup> Die am Verfahren Beteiligten sind verpflichtet, an der Feststellung des Sachverhalts mitzuwirken. Die Mitwirkungspflicht entfällt, wenn sie sich dadurch strafrechtlich belasten würden.
 
 <sup>3</sup> Die Behörde erhebt die notwendigen Beweise, wobei sie an Begehren zur Ermittlung des Sachverhalts nicht gebunden ist.
 
@@ -431,7 +431,7 @@ beschliesst:
 
 <sup>1</sup> Entscheide einer Dienststelle oder von unselbstständigen Anstalten des kantonalen öffentlichen Rechts können mit Verwaltungsbeschwerde an das vorgesetzte Departement weitergezogen werden.
 
-<sup>2</sup> Die Verwaltungsbeschwerde ist ausgeschlossen, wenn gemäss Gesetz die Einsprache oder direkt die Beschwerde an das Verwaltungsgericht offen steht.
+<sup>2</sup> Die Verwaltungsbeschwerde ist ausgeschlossen, wenn gemäss Gesetz die Einsprache oder direkt die Beschwerde an das Obergericht offen steht.
 
 <sup>3</sup> Entscheide der Departemente und der Standeskanzlei können mit Verwaltungsbeschwerde an die Regierung weitergezogen werden, wenn das Gesetz dies ausdrücklich vorsieht.
 
@@ -521,7 +521,7 @@ beschliesst:
 
 <sup>2</sup> Die Beschwerdeinstanz kann den angefochtenen Entscheid zu Gunsten oder zu Ungunsten der beschwerdeführenden Partei ändern. Beabsichtigt sie Letzteres, hat sie den Parteien vorgängig Gelegenheit zur Stellungnahme sowie zum Rückzug der Beschwerde zu geben.
 
-## 4. Verfahren vor Verwaltungsgericht
+## 4. Verfahren vor Obergericht
 
 ### 4.1. Allgemeine Vorschriften
 
@@ -536,6 +536,19 @@ beschliesst:
 <sup>2</sup> Rechtsschriften in Papierform sind zu unterzeichnen und im Doppel einzureichen.
 
 <sup>3</sup> Genügt eine Eingabe den gesetzlichen Erfordernissen nicht oder ist sie in unziemlicher Form abgefasst, unleserlich oder unnötig umfangreich, wird eine angemessene Frist zur Behebung des Mangels angesetzt mit der Androhung, dass auf die Eingabe sonst nicht eingetreten werde.
+
+#### Art. 38a
+
+**Elektronischer Rechtsverkehr**
+
+<sup>1</sup> Rechtsschriften und andere Eingaben können dem Gericht elektronisch eingereicht werden.
+
+<sup>2</sup> Mit Einverständnis der betroffenen Parteien kann das Gericht Verfügungen und Entscheide elektronisch zustellen.
+
+<sup>3</sup> Im elektronischen Rechtsverkehr ist die qualifizierte elektronische Signatur gemäss Bundesgesetz über die elektronische Signatur[^38a-1] zu verwenden. Im Weiteren gilt die Verordnung über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren[^38a-2] sinngemäss.
+
+[^38a-1]: SR [943.03](https://db.clex.ch/link/Bund/943.03/de)
+[^38a-2]: SR [272.1](https://db.clex.ch/link/Bund/272.1/de) in der Fassung vom 1. Dezember 2019
 
 #### Art. 39
 
@@ -572,7 +585,7 @@ beschliesst:
 
 **Prozessbeschwerde**
 
-<sup>1</sup> Vorsorgliche und prozessleitende Verfügungen können innert zehn Tagen beim Verwaltungsgericht angefochten werden.
+<sup>1</sup> Vorsorgliche und prozessleitende Verfügungen können innert zehn Tagen beim Obergericht angefochten werden.
 
 ### 4.1.2. Gerichtsverhandlung und Urteilsfindung
 
@@ -580,7 +593,7 @@ beschliesst:
 
 **Besetzung**
 
-<sup>1</sup> Das Verwaltungsgericht entscheidet in der Regel in der Besetzung mit drei Richterinnen und Richtern.
+<sup>1</sup> Das Obergericht entscheidet in der Regel in der Besetzung mit drei Richterinnen und Richtern.
 
 <sup>2</sup> Es entscheidet in Fünferbesetzung über
 
@@ -591,7 +604,7 @@ beschliesst:
 
 <sup>3</sup> Es entscheidet in einzelrichterlicher Kompetenz, wenn:
 
-- a) der Streitwert 5000 Franken nicht überschreitet und keine Fünferbesetzung vorgeschrieben ist;
+- a) der Streitwert 10 000 Franken nicht überschreitet und keine Fünferbesetzung vorgeschrieben ist;
 - b) ein Rechtsmittel offensichtlich unzulässig oder offensichtlich begründet oder unbegründet ist.
 
 <sup>4</sup> Fälle, die gemäss Absatz 3 in einzelrichterlicher Kompetenz zu entscheiden sind, können in Dreierbesetzung entschieden werden, wenn die zuständige Einzelrichterin oder der zuständige Einzelrichter dies anordnet.
@@ -600,7 +613,7 @@ beschliesst:
 
 **Urteilsfindung**
 
-<sup>1</sup> Das Verwaltungsgericht fällt sein Urteil in der Regel ohne Gerichtsverhandlung aufgrund der Akten.
+<sup>1</sup> Das Obergericht fällt sein Urteil in der Regel ohne Gerichtsverhandlung aufgrund der Akten.
 
 #### Art. 45
 
@@ -624,7 +637,7 @@ beschliesst:
 
 **Vorfragen und Teilurteil**
 
-<sup>1</sup> Das Verwaltungsgericht ist auch zu der für die Beurteilung der Hauptsache unerlässlichen Beantwortung von Vorfragen zuständig.
+<sup>1</sup> Das Obergericht ist auch zu der für die Beurteilung der Hauptsache unerlässlichen Beantwortung von Vorfragen zuständig.
 
 <sup>2</sup> Es kann das Verfahren aussetzen, bis die Vorfrage durch die ordentlicherweise zuständige Instanz entschieden ist.
 
@@ -634,7 +647,7 @@ beschliesst:
 
 **Verzicht auf Urteilsbegründung**
 
-<sup>1</sup> Das Verwaltungsgericht kann ein Urteil im Dispositiv ohne Begründung oder mit einer Kurzbegründung mitteilen. Jede Partei kann innert 30 Tagen seit der Mitteilung schriftlich ein vollständig begründetes Urteil verlangen. Verlangt keine Partei innert Frist eine Begründung, erwächst das Urteil in Rechtskraft.
+<sup>1</sup> Das Obergericht kann ein Urteil im Dispositiv ohne Begründung oder mit einer Kurzbegründung mitteilen. Jede Partei kann innert 30 Tagen seit der Mitteilung schriftlich ein vollständig begründetes Urteil verlangen. Verlangt keine Partei innert Frist eine Begründung, erwächst das Urteil in Rechtskraft.
 
 <sup>2</sup> Die Parteien sind auf die Möglichkeit der Urteilsbegründung und die Rechtsfolgen aufmerksam zu machen.
 
@@ -648,14 +661,16 @@ beschliesst:
 
 **Zulässigkeit**
 
-<sup>1</sup> Das Verwaltungsgericht beurteilt Beschwerden gegen:
+<sup>1</sup> Das Obergericht beurteilt Beschwerden gegen:
 
 - a) Entscheide von Gemeinden, von anderen Körperschaften und von selbstständigen Anstalten des kantonalen Rechts, soweit diese nicht bei einer anderen Instanz angefochten werden können oder nach kantonalem oder eidgenössischem Recht endgültig sind;
 - b) Entscheide von Dienststellen der kantonalen Verwaltung und von unselbstständigen Anstalten des kantonalen Rechts, soweit das kantonale Recht den direkten Weiterzug vorsieht;
 - c) Entscheide der kantonalen Departemente, soweit diese nicht nach kantonalem oder eidgenössischem Recht endgültig sind oder bei einer anderen Instanz angefochten werden können;
 - d) Entscheide der Regierung über öffentlichrechtliche Streitigkeiten, soweit diese nicht nach kantonalem oder eidgenössischem Recht endgültig sind;
 - e) Entscheide, die von der Regierung entgegen den allgemeinen Zuständigkeitsvorschriften wegen Befangenheit oder aus anderen Gründen nicht überprüft werden können;
-- f) Entscheide anerkannter Landeskirchen und ihrer Kirchgemeinden, soweit eine Verletzung des vom Staat erlassenen Rechts geltend gemacht wird, sowie verwaltungsrechtliche Streitigkeiten, die dem Verwaltungsgericht von den Landeskirchen zur Beurteilung zugewiesen worden sind;
+- f) Entscheide anerkannter Landeskirchen und ihrer Kirchgemeinden, soweit sie beim Bundesgericht angefochten werden können, sowie verwaltungsrechtliche Streitigkeiten, die dem Obergericht von den Landeskirchen zur Beurteilung zugewiesen sind;
+- f<sup>bis</sup>) dienstaufsichtsrechtliche Entscheide des Justizgerichts, die Mitglieder des Justizgerichts betreffen, und dienstaufsichtsrechtliche Entscheide der Regionalgerichte;
+- f<sup>ter</sup>) dienstaufsichtsrechtliche Entscheide des Grossen Rates, die Mitglieder des Grossen Rates, der Regierung, des Justizgerichts, der Regionalgerichte und des kantonalen Zwangsmassnahmengerichts betreffen;
 - g) Entscheide anderer Behörden, soweit dies gesetzlich vorgesehen ist.
 
 <sup>2</sup> Es beurteilt als kantonales Versicherungsgericht Beschwerden gegen:
@@ -694,7 +709,7 @@ beschliesst:
 
 **Frist**
 
-<sup>1</sup> Die Beschwerde ist schriftlich innert 30 Tagen seit Mitteilung des angefochtenen Entscheids beim Verwaltungsgericht einzureichen.
+<sup>1</sup> Die Beschwerde ist schriftlich innert 30 Tagen seit Mitteilung des angefochtenen Entscheids beim Obergericht einzureichen.
 
 <sup>2</sup> Die Frist zur Anfechtung von verfahrensleitenden Anordnungen und vorsorglichen Massnahmen beträgt zehn Tage.
 
@@ -726,19 +741,19 @@ beschliesst:
 
 <sup>1</sup> Die Vorinstanz kann den angefochtenen Entscheid bis zur Urteilsfindung im Sinn der Anträge der beschwerdeführenden Partei abändern.
 
-<sup>2</sup> Der abgeänderte Entscheid ist dem Verwaltungsgericht mitzuteilen.
+<sup>2</sup> Der abgeänderte Entscheid ist dem Obergericht mitzuteilen.
 
-<sup>3</sup> Das Verwaltungsgericht hat die Beschwerde nur noch insoweit zu behandeln, als sie durch den abgeänderten Entscheid nicht gegenstandslos geworden ist.
+<sup>3</sup> Das Obergericht hat die Beschwerde nur noch insoweit zu behandeln, als sie durch den abgeänderten Entscheid nicht gegenstandslos geworden ist.
 
 #### Art. 56
 
 **Urteilsbefugnis**
 
-<sup>1</sup> Das Verwaltungsgericht ist unter Vorbehalt abweichender gesetzlicher Bestimmungen an die Anträge der Parteien gebunden.
+<sup>1</sup> Das Obergericht ist unter Vorbehalt abweichender gesetzlicher Bestimmungen an die Anträge der Parteien gebunden.
 
-<sup>2</sup> Ist das Verwaltungsgericht nicht an die Anträge der Parteien gebunden, kann es einen Entscheid zu Ungunsten der beschwerdeführenden Partei ändern oder dieser mehr zusprechen, als sie verlangt hat. In diesem Fall ist den Parteien vorher Gelegenheit zur Stellungnahme sowie zum Rückzug der Beschwerde zu geben.
+<sup>2</sup> Ist das Obergericht nicht an die Anträge der Parteien gebunden, kann es einen Entscheid zu Ungunsten der beschwerdeführenden Partei ändern oder dieser mehr zusprechen, als sie verlangt hat. In diesem Fall ist den Parteien vorher Gelegenheit zur Stellungnahme sowie zum Rückzug der Beschwerde zu geben.
 
-<sup>3</sup> Hebt das Verwaltungsgericht den angefochtenen Entscheid auf, entscheidet es selbst oder weist die Sache zum neuen Entscheid zurück.
+<sup>3</sup> Hebt das Obergericht den angefochtenen Entscheid auf, entscheidet es selbst oder weist die Sache zum neuen Entscheid zurück.
 
 ### 4.3. Verfassungsbeschwerde
 
@@ -746,7 +761,7 @@ beschliesst:
 
 **Zulässigkeit**
 
-<sup>1</sup> Das Verwaltungsgericht beurteilt als Verfassungsgericht Beschwerden gegen:
+<sup>1</sup> Das Obergericht beurteilt als Verfassungsgericht Beschwerden gegen:
 
 - a) rechtsetzende Erlasse;
 - b) Eingriffe in das Stimmrecht sowie Wahlen und Abstimmungen;
@@ -781,7 +796,7 @@ beschliesst:
 
 **Frist**
 
-<sup>1</sup> Die Beschwerde ist schriftlich innert 30 Tagen seit Mitteilung des angefochtenen Entscheids oder seit der amtlichen Veröffentlichung beim Verwaltungsgericht einzureichen.
+<sup>1</sup> Die Beschwerde ist schriftlich innert 30 Tagen seit Mitteilung des angefochtenen Entscheids oder seit der amtlichen Veröffentlichung beim Obergericht einzureichen.
 
 <sup>2</sup> Bei Beschwerden gegen Eingriffe in das Stimmrecht sowie Wahlen und Abstimmungen beträgt die Frist zehn Tage seit der:
 
@@ -794,17 +809,17 @@ beschliesst:
 
 **Urteil**
 
-<sup>1</sup> Das Verwaltungsgericht hebt den angefochtenen Erlass oder Entscheid auf, soweit er verfassungs- oder gesetzwidrig ist.
+<sup>1</sup> Das Obergericht hebt den angefochtenen Erlass oder Entscheid auf, soweit er verfassungs- oder gesetzwidrig ist.
 
 <sup>2</sup> Es ordnet gleichzeitig die angemessene Veröffentlichung dieses Entscheids an.
 
-<sup>3</sup> Soweit die Verfassungsverletzung nicht anders behoben werden kann, erlässt das Verwaltungsgericht die erforderlichen Anordnungen.
+<sup>3</sup> Soweit die Verfassungsverletzung nicht anders behoben werden kann, erlässt das Obergericht die erforderlichen Anordnungen.
 
 #### Art. 62
 
 **Subsidiäres Recht**
 
-<sup>1</sup> Soweit dieser Abschnitt keine Vorschriften enthält, sind die Bestimmungen über das Beschwerdeverfahren vor Verwaltungsgericht anwendbar.
+<sup>1</sup> Soweit dieser Abschnitt keine Vorschriften enthält, sind die Bestimmungen über das verwaltungsgerichtliche Beschwerdeverfahren anwendbar.
 
 ### 4.4. Verwaltungsgerichtliche Klage
 
@@ -812,37 +827,71 @@ beschliesst:
 
 **Zulässigkeit**
 
-<sup>1</sup> Das Verwaltungsgericht beurteilt im Klageverfahren:
+<sup>1</sup> Das Obergericht beurteilt im Klageverfahren:
 
 - a) staats- und verwaltungsrechtliche Streitigkeiten zwischen öffentlichrechtlichen Körperschaften und Anstalten, die einander gleichgeordnet sind;
 - b) Streitigkeiten aus öffentlichrechtlichen Verträgen;
-- c) Entschädigungsansprüche aus dem Staatshaftungsgesetz;
+- c) Entschädigungsansprüche aus dem Gesetz über die Staatshaftung, soweit keine andere Behörde bestimmt ist;
 - d) Entschädigungsansprüche aus rechtmässigen Handlungen öffentlichrechtlicher Körperschaften und Anstalten, soweit dafür eine Rechtsgrundlage besteht und keine andere Behörde bestimmt ist;
 - e) vermögensrechtliche Ansprüche aus öffentlichem Dienstverhältnis, soweit keine andere Behörde bestimmt ist;
-- f) staats- und verwaltungsrechtliche Streitigkeiten, die dem Verwaltungsgericht gemäss besonderer Vorschrift zur Beurteilung zugewiesen sind;
-- g) Streitigkeiten, an denen die anerkannten Landeskirchen oder ihre Kirchgemeinden beteiligt sind, soweit sie von den Landeskirchen dem Verwaltungsgericht zugewiesen sind oder vom Staat erlassenes Recht angerufen wird.
+- f) staats- und verwaltungsrechtliche Streitigkeiten, die dem Obergericht gemäss besonderer Vorschrift zur Beurteilung zugewiesen sind;
+- g) Streitigkeiten, an denen die anerkannten Landeskirchen oder ihre Kirchgemeinden beteiligt sind, soweit sie beim Bundesgericht angefochten werden können, oder die von den Landeskirchen dem Obergericht zur Beurteilung zugewiesen sind.
 
 <sup>2</sup> Es beurteilt als Versicherungsgericht im Klageverfahren:
 
 - a) Streitigkeiten im Sinn von Artikel 73 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^63-1];
-- b) Streitigkeiten im Sinn von Artikel 47 des Versicherungsaufsichtsgesetzes (VAG)[^63-2].
+- b) Streitigkeiten im Sinn von Artikel 85 des Versicherungsaufsichtsgesetzes (VAG)[^63-2] und Artikel 7 der Schweizerischen Zivilprozessordnung[^63-3].
 
 [^63-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 [^63-2]: SR [961.01](https://db.clex.ch/link/Bund/961.01/de)
+[^63-3]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### Art. 64
 
 **Rechtshängigkeit**
 
-<sup>1</sup> Die Klage wird durch Einreichung beim Verwaltungsgericht rechtshängig.
+<sup>1</sup> Die Klage wird durch Einreichung beim Obergericht rechtshängig.
 
 #### Art. 65
 
 **Subsidiäres Recht**
 
-<sup>1</sup> Soweit dieser Abschnitt keine Vorschriften enthält, sind die Bestimmungen über das Beschwerdeverfahren vor Verwaltungsgericht anwendbar.
+<sup>1</sup> Soweit dieser Abschnitt keine Vorschriften enthält, sind die Bestimmungen über das Beschwerdeverfahren vor Obergericht anwendbar.
 
 <sup>2</sup> Kann diesem Gesetz keine Vorschrift entnommen werden, finden die für das Zivilverfahren geltenden Bestimmungen sinngemäss Anwendung.
+
+## 4a. Verfahren vor Justizgericht
+
+#### Art. 65a
+
+**Verwaltungsgerichtliche Beschwerde**
+
+<sup>1</sup> Das Justizgericht beurteilt letztinstanzlich Beschwerden gegen:
+
+- a) dienstaufsichtsrechtliche Entscheide des Obergerichts, die Mitglieder des Obergerichts betreffen;
+- b) dienstaufsichtsrechtliche Entscheide des Grossen Rates, die Mitglieder des Obergerichts betreffen;
+- c) personalrechtliche Entscheide des Obergerichts, die Mitarbeitende des Obergerichts betreffen;
+- d) Entscheide der Aufsichtskommission;
+- e) Entscheide des Obergerichts betreffend Ausstandsbegehren, soweit der Weiterzug an das Bundesgericht einen Entscheid einer kantonalen Rechtsmittelbehörde voraussetzt;
+- f) weitere Entscheide, soweit dies gesetzlich vorgesehen oder von Bundesrechts wegen erforderlich ist.
+
+<sup>2</sup> Die Voraussetzungen für die Beschwerdeführung und das Beschwerdeverfahren richten sich nach den Regeln, die für das verwaltungsgerichtliche Beschwerdeverfahren vor dem Obergericht gelten.
+
+#### Art. 65b
+
+**Kompetenzkonflikte**
+
+<sup>1</sup> Das Justizgericht entscheidet endgültig über Kompetenzkonflikte zwischen Organen der Rechtsprechung, für deren Lösung das Gesetz keine andere Regelung vorsieht.
+
+<sup>2</sup> Es wird von einem Organ der Rechtsprechung angerufen, wenn Einigkeit über den Kompetenzkonflikt besteht.
+
+#### Art. 65c
+
+**Verwaltungsgerichtliches Klageverfahren**
+
+<sup>1</sup> Im verwaltungsgerichtlichen Klageverfahren beurteilt das Justizgericht als einzige kantonale Instanz Entschädigungsansprüche aus dem Gesetz über die Staatshaftung[^65c-1], die ihm zur Beurteilung zugewiesen sind.
+
+[^65c-1]: BR [170.050](https://www.gr-lex.gr.ch/data/170.050/de)
 
 ## 5. Ausserordentliche Rechtsmittel und Rechtsbehelfe
 
@@ -882,7 +931,7 @@ beschliesst:
 
 <sup>1</sup> Gegenstand der Aufsichtsbeschwerde können Handlungen oder Unterlassungen von Verwaltungsbehörden sowie Körperschaften und Anstalten des kantonalen öffentlichen Rechts bilden, die der Aufsicht durch die Regierung unterliegen.
 
-<sup>2</sup> Die Beschwerde ist nur zulässig, wenn die behauptete Rechtsverletzung nicht durch Rechtsmittel oder Klage beim Verwaltungsgericht oder bei der Regierung gerügt werden kann.
+<sup>2</sup> Die Beschwerde ist nur zulässig, wenn die behauptete Rechtsverletzung nicht durch Rechtsmittel oder Klage beim Obergericht oder bei der Regierung gerügt werden kann.
 
 #### Art. 69
 
@@ -948,14 +997,11 @@ beschliesst:
 - b) den Gebühren für Ausfertigungen und Mitteilungen des Entscheids;
 - c) den Barauslagen.
 
-<sup>2</sup> Die Staatsgebühr beträgt höchstens 20 000 Franken. Sie richtet sich nach dem Umfang und der Schwierigkeit der Sache sowie nach dem Interesse und der wirtschaftlichen Leistungsfähigkeit der Kostenpflichtigen. In Verfahren vor Verwaltungsgericht, die einen besonders grossen Aufwand verursachen, erhöht sich der Gebührenrahmen auf 100 000 Franken. Bei Verzicht auf ein vollständig begründetes Urteil wird die Staatsgebühr angemessen reduziert.
+<sup>2</sup> Die Staatsgebühr beträgt höchstens 20 000 Franken. Sie richtet sich nach dem Umfang und der Schwierigkeit der Sache sowie nach dem Interesse und der wirtschaftlichen Leistungsfähigkeit der Kostenpflichtigen. In Verfahren vor Obergericht, die einen besonders grossen Aufwand verursachen, erhöht sich der Gebührenrahmen auf 100 000 Franken. Bei Verzicht auf ein vollständig begründetes Urteil wird die Staatsgebühr angemessen reduziert.
 
-<sup>3</sup> Für Verfahren vor kantonalen Verwaltungsbehörden regelt die Regierung die Gebührenansätze für die Staatsgebühr, die Höhe der Gebühren für Ausfertigungen und Mitteilungen sowie den Ersatz der Barauslagen durch Verordnung[^75-1].
+<sup>3</sup> Für Verfahren vor kantonalen Verwaltungsbehörden regelt die Regierung die Gebührenansätze für die Staatsgebühr, die Höhe der Gebühren für Ausfertigungen und Mitteilungen sowie den Ersatz der Barauslagen durch Verordnung.
 
-<sup>4</sup> Für Verfahren vor Verwaltungsgericht regelt das Verwaltungsgericht die Höhe der Gebühren für Ausfertigungen und Mitteilungen sowie den Ersatz der Barauslagen durch Verordnung[^75-2].
-
-[^75-1]: BR [370.120](https://www.gr-lex.gr.ch/data/370.120/de)
-[^75-2]: BR [370.110](https://www.gr-lex.gr.ch/data/370.110/de)
+<sup>4</sup> Für Verfahren vor dem Obergericht regelt das Obergericht, für Verfahren vor dem Justizgericht das Justizgericht die Höhe der Gebühren für Ausfertigungen und Mitteilungen sowie den Ersatz der Barauslagen durch Verordnung.
 
 #### Art. 76
 
@@ -975,7 +1021,7 @@ beschliesst:
 
 <sup>1</sup> Prozessiert eine Partei unentgeltlich, hat sie das Erlassene und die Kosten der Rechtsvertretung zu erstatten, wenn sich ihre Einkommens- oder Vermögensverhältnisse gebessert haben und sie hierzu in der Lage ist. Der Anspruch des Kantons auf Rückerstattung verjährt in zehn Jahren nach Rechtskraft des Entscheides.
 
-<sup>2</sup> Über die Verpflichtung zur Rückerstattung entscheidet das von der Regierung bezeichnete Amt. Dessen Entscheid kann mit Beschwerde beim Verwaltungsgericht angefochten werden.
+<sup>2</sup> Über die Verpflichtung zur Rückerstattung entscheidet das von der Regierung bezeichnete Amt. Dessen Entscheid kann mit Beschwerde beim Obergericht angefochten werden.
 
 <sup>3</sup> Die Steuerverwaltung macht dem für die Geltendmachung der Erstattungsansprüche zuständigen Amt die notwendigen Daten mittels Abrufverfahren zugänglich. In den Gemeinden ist die für die Rückerstattung zuständige Stelle berechtigt, die notwendigen Daten über das Steueramt einzusehen.
 
@@ -1011,7 +1057,7 @@ beschliesst:
 
 <sup>2</sup> Der Vollzug eines Beschwerdeentscheids obliegt derjenigen Behörde, die erstinstanzlich befunden hat. Kommt diese ihrer Verpflichtung nicht oder nicht richtig nach, kann die Hilfe der Rechtsmittelinstanz in Anspruch genommen werden.
 
-<sup>3</sup> Die Vollstreckung der vom Verwaltungsgericht verfügten oder angeordneten Massnahmen obliegt dem für die Justiz zuständigen Departement.
+<sup>3</sup> Die Vollstreckung der vom Obergericht und vom Justizgericht verfügten oder angeordneten Massnahmen obliegt dem für die Justiz zuständigen Departement.
 
 <sup>4</sup> Abweichende Vorschriften anderer Erlasse bleiben vorbehalten.
 
@@ -1085,15 +1131,13 @@ beschliesst:
 
 <sup>4</sup> Die Verjährung der vor Inkrafttreten der Teilrevision des Anwaltsgesetzes vom 21. Oktober 2008 gewährten unentgeltlichen Prozessführungen beginnt mit dem Inkrafttreten dieses Gesetzes zu laufen.
 
+<sup>5</sup> Verfahren, die bei Inkrafttreten der Änderung dieses Gesetzes beim Verwaltungsgericht hängig sind, werden mit dem Inkrafttreten auf das nach neuem Recht zuständige Gericht übertragen.
+
+<sup>6</sup> Die Bestimmungen von Artikel 38a über den elektronischen Rechtsverkehr im Verfahren vor Obergericht bleiben in Kraft, bis das Bundesgesetz über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) in Kraft getreten ist und die darauf basierende Plattform Justitia.Swiss für das kantonale Verwaltungsverfahren beziehungsweise Verwaltungsgerichtsverfahren freigegeben wird. Die Regierung wird ermächtigt, den Eintritt der Bedingungen festzustellen. Wird dieser Beschluss rechtskräftig, treten Artikel 38a und Artikel 85 Absatz 6 automatisch ausser Kraft.
+
 #### Art. 85b
 
-**Zivilrechtliche Beschwerde oder Berufung an das Kantonsgericht**
-
-<sup>1</sup> Erstinstanzliche Endentscheide des Verwaltungsgerichts, die gemäss Artikel 72 Absatz 2 Litera b BGG[^85b-1] in unmittelbarem Zusammenhang mit Zivilrecht stehen, können mit zivilrechtlicher Beschwerde oder Berufung an das Kantonsgericht weitergezogen werden.
-
-<sup>2</sup> Diese Bestimmung gilt auch für Fälle, die bei ihrem Inkrafttreten am Verwaltungsgericht hängig sind.
-
-[^85b-1]: SR [173.110](https://db.clex.ch/link/Bund/173.110/de)
+**…**
 
 #### Art. 86
 
