@@ -3,20 +3,19 @@ canton: SG
 number: "854.351.2"
 title: Ausführungsbestimmungen über die Fischerei im Linthkanal
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-06-16
+version: 2025-01-01
+version_adopted: 2024-06-13
 adopted: 2010-06-14
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/854.351.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2332/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3718/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Fischerei im Linthkanal
 
-vom 14.06.2010 (Stand 01.01.2018)
+vom 14.06.2010 (Stand 01.01.2025)
 
 Die Fischereikommission für den Zürichsee, Linthkanal und Walensee,
 
@@ -78,8 +77,8 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Für die Fischerei sind folgende Fanggeräte und Hilfsmittel erlaubt:
 
 - a) eine Angelrute;
-- b) höchstens zwei Köder;
-- c) natürliche und künstliche Köder mit maximal zwei Anbissstellen pro Köder (ein Einfach- oder ein Mehrfachhaken gilt als eine Anbissstelle);
+- b) höchstens ein Köder, der am Ende der Montage befestigt sein muss;
+- c) natürliche und künstliche Köder mit höchstens zwei Anbissstellen (ein Einfach- oder ein Mehrfachhaken gilt als eine Anbissstelle);
 - d) tote Köderfische, Köderfisch-Imitationen (Löffel, Spinner, Wobler, Gummifische und in ihrer Wirkung vergleichbare Köder) sind nur in der Zeit vom 1. Februar bis zum 30. September erlaubt;
 - e) Feumer (Kescher) zum Anlanden gefangener Fische;
 - f) Fanggeräte zum Köderfischfang gemäss § 7.
@@ -137,7 +136,7 @@ beschliesst:[^ingress-2]
 
 **Fangzahlbeschränkung**
 
-<sup>1</sup> Fischerinnen und Fischer dürfen an einem Tag höchstens 4 Forellen oder Äschen sowie höchstens 6 Felchen fangen.
+<sup>1</sup> Fischereiberechtigte dürfen an einem Tag höchstens eine Forelle und eine Äsche sowie höchstens 6 Felchen entnehmen.
 
 <sup>2</sup> Fischerinnen und Fischer dürfen in einem Kalenderjahr höchstens 100 Edelfische (Forellen, Äschen und Felchen) fangen.
 
