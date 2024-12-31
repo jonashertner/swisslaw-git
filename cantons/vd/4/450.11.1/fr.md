@@ -4,7 +4,7 @@ number: "450.11.1"
 title: "RÈGLEMENT du 29.05.2024 d'application de la loi du 30 août 2022 sur la protection du patrimoine naturel et paysager (RLPrPNP)"
 short: RLPrPNP
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/450.11.1?id=703fefb4-b0c2-4e02-88c7-4a64d62b628d"
 ---
 
@@ -107,7 +107,7 @@ arrête
 
 #### Art. 8
 
-**Espèces animales et végétales protégées au niveau cantonal (art. 12 al. 1 let. a et b LPrPNP) [^7-6]**
+**Espèces protégées au niveau cantonal (art. 12 al. 1 let. a et b LPrPNP) [^7-6]**
 
 <sup>1</sup> Les espèces animales et végétales qui font l'objet d'une protection au niveau cantonal sont définies dans le règlement du 7 juillet 2004 d'exécution de la loi du 28 février 1989 sur la faune (RLFaune)[^8-1] et le règlement du 15 août 2007 d'application de la loi du 29 novembre 1978 sur la pêche (RLPêche)[^8-2], ainsi qu'aux annexes 1 et 2 du présent règlement.
 
@@ -122,7 +122,9 @@ arrête
 
 <sup>4</sup> Le ramassage des escargots de Bourgogne (Helix pomatia) est interdit dans les objets protégés au sens des articles 24 à 27 de la loi[^8-4]. Ailleurs, il peut être autorisé par le service, pour autant que la taille de la coquille soit supérieure ou égale à 35 mm. L'autorisation précise le périmètre et les modalités de ramassage, ainsi que sa durée de validité.
 
-[^7-6]: Modif. 1 du 11.12.2024: Modification tArt; entrée en vigueur au 01.01.2025; Introduction Al. 5; entrée en vigueur au 01.01.2025; Introduction Art. 12, Al. 2, a-c; entrée en vigueur au 01.01.2025; Introduction Art. 12, Al. 2bis,3bis; entrée en vigueur au 01.01.2025
+<sup>5</sup> Les habitats des espèces, en particulier des champignons, qui sont tributaires de vieux arbres et de bois mort, inventoriés comme objets dignes de protection selon l'article 20 alinéa 1 lettre e de la loi, sont, dans la mesure du possible et dans le respect des principes de la planification forestière, pris en compte dans la création de réserves forestières au sens de l'article 52 de la loi forestière cantonale.
+
+[^7-6]: Modif. 1 du 11.12.2024: Modification tArt; entrée en vigueur au 01.01.2025; Introduction Al. 5; entrée en vigueur au 01.01.2025
 [^8-1]: Règlement d'exécution du 07.07.2004 de la loi du 28.02.1989 sur la faune ([BLV 922.03.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03.1?id=21dd947f-7594-4427-8826-31b464078f96))
 [^8-2]: Règlement du 15.08.2007 d'application de la loi du 29 novembre 1978 sur la pêche ([BLV 923.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/923.01.1?id=dc9cd2aa-05b4-44a0-a2d1-8133d0e86ae7))
 [^8-3]: Loi du 30.08.2022 sur la protection du patrimoine naturel et paysager ([BLV 450.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/450.11?id=4a786a8c-4557-4af3-8af3-8f3e90811acf))
@@ -172,17 +174,25 @@ arrête
 
 <sup>1</sup> La récolte de champignons non protégés à des fins domestiques, hors des jardins et des vergers privés, est :
 
-- a. interdite du premier au sept de chaque mois, sauf si la récolte a lieu dans le cadre d'événements organisés par l'Association Suisse Romande de la Truffe, l'Association Première région truffière de Suisse ou par l'Association pour le développement du nord vaudois, ou des Marchés aux Truffes annuels de la Côte ou de Bonvillars.
+- a. ...
 - b. limitée à une quantité de deux kg par personne et par jour, toutes espèces confondues ;
 - c. admise de sept à vingt heures ;
 
-<sup>2</sup> La récolte de champignons non protégés à des fins lucratives, hors des jardins et vergers privés, est soumise à une autorisation du service. L'autorisation mentionne les espèces dont la récolte et la vente sont autorisées, ainsi que les modalités de prélèvement. Elle ne peut être délivrée qu'à une personne attestant du suivi d'un cours dispensé par l'Association suisse des organes officiels de contrôle des champignons ou reconnue comme équivalente.
+<sup>2</sup> La récolte de champignons non protégés à des fins lucratives, hors des jardins et vergers privés, est :
+
+- a. limitée à une quantité de six kg par personne et par jour, toutes espèces confondues ;
+- b. admise de sept à vingt heures ;
+- c. soumise à une autorisation du service.
+
+<sup>2bis</sup> L'autorisation ne peut être délivrée qu'à une personne attestant du suivi d'un cours dispensé par l'Association suisse des organes officiels de contrôle des champignons ou reconnue comme équivalente. Elle mentionne les espèces dont la récolte et la vente sont autorisées, ainsi que les modalités de prélèvement.
 
 <sup>3</sup> La récolte par grattage, râtelage du sol ou tout autre moyen permettant un prélèvement de masse est interdite.
 
+<sup>3bis</sup> La destruction des champignons réalisée sans but de récolte est interdite.
+
 <sup>4</sup> L'article 11 alinéa 4 est applicable aux champignons non protégés.
 
-[^11-3]: Modif. 1 du 11.12.2024: Introduction Art. 8, Al. 5; entrée en vigueur au 01.01.2025; Abrogation Al. 1, a; entrée en vigueur au 01.01.2025; Modification Al. 2; entrée en vigueur au 01.01.2025; Introduction Al. 2, a-c; entrée en vigueur au 01.01.2025; Introduction Al. 2bis,3bis; entrée en vigueur au 01.01.2025
+[^11-3]: Modif. 1 du 11.12.2024: Abrogation Al. 1, a; entrée en vigueur au 01.01.2025; Modification Al. 2; entrée en vigueur au 01.01.2025; Introduction Al. 2, a-c; entrée en vigueur au 01.01.2025; Introduction Al. 2bis,3bis; entrée en vigueur au 01.01.2025
 
 #### Art. 13
 
@@ -745,34 +755,34 @@ Annexes [^50-1]
 
 1
 
-[Liste des espèces végétales et animales protégées au niveau cantonal - interdiction d'atteinte](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/1?dmev=01.07.2024)
+[Liste des espèces végétales et animales protégées au niveau cantonal - interdiction d'atteinte](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/1?dmev=01.01.2025)
 
 2
 
-[Liste des espèces végétales protégées au niveau cantonal - restrictions de récolte](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/2?dmev=01.07.2024)
+[Liste des espèces végétales protégées au niveau cantonal - restrictions de récolte](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/2?dmev=01.01.2025)
 
 3
 
-[Interventions sans préjudice pour la conservation du patrimoine arboré](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/3?dmev=01.07.2024)
+[Interventions sans préjudice pour la conservation du patrimoine arboré](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/3?dmev=01.01.2025)
 
 4
 
-[Calcul de la taxe compensatoire - suppression d'arbre pour motifs d'aménagement et de construction et compensation en nature impossible](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/4?dmev=01.07.2024)
+[Calcul de la taxe compensatoire - suppression d'arbre pour motifs d'aménagement et de construction et compensation en nature impossible](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/4?dmev=01.01.2025)
 
 5
 
-[Liste des organismes dont il est prouvé qu'ils causent des dommages aux humains, aux animaux ou à l'environnement ou qu'ils portent atteinte à la diversité biologique et à l'utilisation durable de ses éléments](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/5?dmev=01.07.2024)
+[Liste des organismes dont il est prouvé qu'ils causent des dommages aux humains, aux animaux ou à l'environnement ou qu'ils portent atteinte à la diversité biologique et à l'utilisation durable de ses éléments](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/5?dmev=01.01.2025)
 
 6
 
-[Liste des organismes dont il est supposé qu'ils causent ou causeront des dommages aux humains, aux animaux ou à l'environnement ou qu'ils portent ou porteront atteinte à la diversité biologique et à l'utilisation durable de ses éléments](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/6?dmev=01.07.2024)
+[Liste des organismes dont il est supposé qu'ils causent ou causeront des dommages aux humains, aux animaux ou à l'environnement ou qu'ils portent ou porteront atteinte à la diversité biologique et à l'utilisation durable de ses éléments](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/6?dmev=01.01.2025)
 
 7
 
-[Modalités de calcul des subventions](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/7?dmev=01.07.2024)
+[Modalités de calcul des subventions](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/7?dmev=01.01.2025)
 
 8
 
-[Liste et montants des amendes d'ordre](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/8?dmev=01.07.2024)
+[Liste et montants des amendes d'ordre](https://prestations.vd.ch/pub/blv-publication/api/actes/703fefb4-b0c2-4e02-88c7-4a64d62b628d/annexes/8?dmev=01.01.2025)
 
-[^50-1]: Modif. 1 du 11.12.2024: Introduction Art. 8, Al. 5; entrée en vigueur au 01.01.2025; Introduction Art. 12, Al. 2, a-c; entrée en vigueur au 01.01.2025; Introduction Art. 12, Al. 2bis,3bis; entrée en vigueur au 01.01.2025; Modification Annexes, Ann. 2,8; entrée en vigueur au 01.01.2025
+[^50-1]: Modif. 1 du 11.12.2024: Modification Annexes, Ann. 2,8; entrée en vigueur au 01.01.2025
