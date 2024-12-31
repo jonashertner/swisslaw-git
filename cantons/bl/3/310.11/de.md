@@ -4,13 +4,13 @@ number: "310.11"
 title: Finanzhaushaltsverordnung
 short: Vo FHG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-05
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-17
 adopted: 2017-11-14
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310.11"
-pdf: "https://bl.clex.ch/api/de/versions/3784/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4124/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3784/pdf_file"
 
 (Vo FHG)
 
-Vom 14.11.2017 (Stand 01.01.2024)
+Vom 14.11.2017 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -321,6 +321,40 @@ beschliesst:
 
 <sup>2</sup> Die Leistungsaufträge werden jährlich auf ihre Aktualität überprüft und bei Bedarf angepasst.
 
+#### § 25a
+
+**Festsetzung von Gebühren ([§ 9](https://bl.clex.ch/data/310/de/art9) FHG)**
+
+<sup>1</sup> Bei der Festsetzung der Gebühren ist zu berücksichtigen, dass der Gebührenertrag die gesamten Kosten des betreffenden Verwaltungszweigs nicht oder nur geringfügig übersteigen soll (Kostendeckungsprinzip).
+
+<sup>2</sup> Die zu berücksichtigenden Kosten eines Verwaltungszweigs bestehen aus:
+
+- a. den geplanten laufenden Ausgaben;
+- b. Aufwendungen für angemessene Rückstellungen, Abschreibungen und Reserven.
+
+<sup>3</sup> Sind die Kosten einer einzelnen Leistung nicht ermittelbar, so sind die Kosten des ganzen Verwaltungszweigs, maximal jedoch diejenigen des jeweiligen Profit-Centers gemäss AFP, massgebend.
+
+<sup>4</sup> Steht eine nach Abs. 1 festgesetzte Gebühr in einem offensichtlichen Missverhältnis zum objektiven Wert der Leistung, ist sie stattdessen nach diesem objektiven Wert festzusetzen (Äquivalenzprinzip).
+
+<sup>5</sup> Der Regierungsrat kann in den vom Gesetz vorgesehenen Fällen die Befreiungen und Ausnahmen von der Gebührenpflicht in der Verordnung regeln.
+
+<sup>6</sup> Die Gebühren fallen an die Staatskasse, sofern keine besondere gesetzliche Zweckbestimmung vorgesehen ist.
+
+#### § 25b
+
+**Überprüfung von Gebühren ([§ 9](https://bl.clex.ch/data/310/de/art9) FHG)**
+
+<sup>1</sup> Die Dienststellen und die Landeskanzlei überprüfen die erhobenen Gebühren im Hinblick auf die Deckung der entsprechenden Kosten in folgender Periodizität:
+
+- a. bei Gebühreneinnahmen von über CHF 1 Mio.: — jährlich;
+- b. bei Gebühreneinnahmen von über CHF 200'000.–: — mindestens alle 2 Jahre;
+- c. bei Gebühreneinnahmen von über CHF 20'000.–: — mindestens alle 4 Jahre;
+- d. bei Gebühreneinnahmen von unter CHF 20'000.– oder wenn die Gebührenhöhe nicht in der Kompetenz des Kantons Basel-Landschaft liegt: — wird keine Überprüfung vorgegeben.
+
+<sup>2</sup> Liegen die Gebühreneinnahmen um mehr als 5 % über oder unter den Kosten des entsprechenden Verwaltungszweigs, melden die Dienststellen bzw. die Landeskanzlei dies der Direktionsvorsteherin oder dem Direktionsvorsteher bzw. der Landschreiberin oder dem Landschreiber.
+
+<sup>3</sup> Bleibt die Über- oder Unterdeckung nach Abs. 2 während 4 Jahren im Durchschnitt bestehen, sind die Gebühren innerhalb von 2 Jahren anzupassen. Ausgenommen bleiben Unterdeckungen im Sinne von § 25a Abs. 4.
+
 #### § 26
 
 **Intern zu verrechnende Leistungen ([§ 30](https://bl.clex.ch/data/310/de/art30) FHG)**
@@ -387,6 +421,12 @@ beschliesst:
 <sup>4</sup> Die Finanz- und Kirchendirektion nimmt die Umlagen der Konzerngemeinkosten vor, überprüft den Umlageschlüssel periodisch und beantragt dem Regierungsrat die notwendige Anpassungen.
 
 <sup>5</sup> Die Finanz- und Kirchendirektion bestimmt den kalkulatorischen Zinssatz.
+
+#### § 30a
+
+**Voraussetzungen für Ausgaben ([§ 33](https://bl.clex.ch/data/310/de/art33) FHG)**
+
+<sup>1</sup> Für Bürgschaften und vergleichbare Eventualverbindlichkeiten (§ 32 Abs. 2 Bst. c FHG) sowie Einnahmenverzichte (§ 32 Abs. 2 Bst. d FHG) entfällt die Voraussetzung eines vorhandenen Budgetkredits gemäss § 33 Abs. 1 Bst. b FHG.
 
 ## 3 Ausgaben
 
@@ -513,7 +553,7 @@ beschliesst:
 
 <sup>2</sup> Die Volkswirtschafts- und Gesundheitsdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
-- a. die Investitionsbeiträge für Alters- und Pflegeheime;
+- a. …
 - b. die stationären Aufenthalte in Spitälern und Kliniken;
 - c. den Kantonsbeitrag an das SECO für Arbeitsvermittlung und arbeitsmarktliche Massnahmen;
 - d. die Revier- und Pflegebeiträge gemäss der kantonalen Waldgesetzgebung;
@@ -871,9 +911,9 @@ beschliesst:
 - d. Fonds zur Förderung des Wohnungsbaus gemäss Gesetz über die Wohnbauförderung (WBFG) vom 30. März 2023[^67-5];
 - e. Wirtschaftsförderungsfonds gemäss Gesetz zur Förderung der Standortqualität (Standortförderungsgesetz) vom 19. April 2007[^67-6];
 - f. Fischhegefonds gemäss Fischereigesetz vom 11. Februar 1999[^67-7];
-- g. Tierseuchenkasse gemäss Landwirtschaftsgesetz Basel-Landschaft (LG BL) vom 8. Januar 1998[^67-8];
-- h. Schutzplatzfonds gemäss Verordnung zum Bevölkerungsschutzgesetz im Kanton Basel-Landschaft (Vo BSG BL) vom 24. August 2004[^67-9];
-- i. Gasttaxe gemäss Gesetz über die Erhebung einer Gasttaxe (Gasttaxengesetz) vom 29. November 2012[^67-10].
+- g. …
+- h. Schutzplatzfonds gemäss Verordnung zum Bevölkerungsschutzgesetz im Kanton Basel-Landschaft (Vo BSG BL) vom 24. August 2004[^67-8];
+- i. Gasttaxe gemäss Gesetz über die Erhebung einer Gasttaxe (Gasttaxengesetz) vom 29. November 2012[^67-9].
 
 [^67-1]: LRB Nr. 1049
 [^67-2]: LRB Nr. 1300
@@ -882,8 +922,7 @@ beschliesst:
 [^67-5]: [SGS 842](https://bl.clex.ch/data/842/de)
 [^67-6]: [SGS 501](https://bl.clex.ch/data/501/de)
 [^67-7]: [SGS 530](https://bl.clex.ch/data/530/de)
-[^67-8]: [SGS 510](https://bl.clex.ch/data/510/de)
-[^67-9]: [SGS 731.11](https://bl.clex.ch/data/731.11/de)
-[^67-10]: [SGS 548](https://bl.clex.ch/data/548/de)
+[^67-8]: [SGS 731.11](https://bl.clex.ch/data/731.11/de)
+[^67-9]: [SGS 548](https://bl.clex.ch/data/548/de)
 
 GS 2017.064
