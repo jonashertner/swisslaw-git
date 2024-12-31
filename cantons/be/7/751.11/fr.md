@@ -4,13 +4,12 @@ number: "751.11"
 title: "Loi sur l'entretien et sur l'aménagement des eaux"
 short: "Loi sur l'aménagement des eaux, LAE"
 language: fr
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-24
+version: 2025-01-01
+version_adopted: 2024-09-09
 adopted: 1989-02-14
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/751.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1916/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3133/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1916/pdf_file"
 
 (Loi sur l'aménagement des eaux, LAE)
 
-du 14.02.1989 (état au 01.08.2020)
+du 14.02.1989 (état au 01.01.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -617,7 +616,9 @@ arrête:
 
 **Cours d’eau pour lesquels les communes sont assujetties à l’obligation d’aménager les eaux 1 Entretien des eaux**
 
-<sup>1</sup> Le canton verse des subventions à hauteur de 33 pour cent pour les frais des communes engendrés par l’entretien majeur des eaux. Le Conseil-exécutif définit l’entretien majeur.
+<sup>1</sup> Le canton verse des subventions à hauteur de 66 pour cent pour les frais des communes engendrés par l’entretien des eaux bénéficiant d’indemnités fédérales.
+
+<sup>1a</sup> Il verse des subventions à hauteur de 33 pour cent pour les frais des communes engendrés par l’entretien majeur des eaux restant. Le Conseil-exécutif définit l’entretien majeur des eaux.
 
 <sup>2</sup> La subvention du canton peut être réduite équitablement si les frais en faveur desquels elle est allouée sont dus au fait que l’entretien des eaux a été négligé.
 

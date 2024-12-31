@@ -4,13 +4,12 @@ number: "751.11"
 title: Gesetz über Gewässerunterhalt und Wasserbau
 short: "Wasserbaugesetz, WBG"
 language: de
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-24
+version: 2025-01-01
+version_adopted: 2024-09-09
 adopted: 1989-02-14
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/751.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1916/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3133/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1916/pdf_file"
 
 (Wasserbaugesetz, WBG)
 
-vom 14.02.1989 (Stand 01.08.2020)
+vom 14.02.1989 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -614,7 +613,9 @@ beschliesst:
 
 **Fliessgewässer mit Wasserbaupflicht der Gemeinden 1 Gewässerunterhalt**
 
-<sup>1</sup> Der Kanton leistet an die Kosten des wesentlichen Gewässerunterhalts der Gemeinden Beiträge von 33 Prozent. Der Regierungsrat bezeichnet den wesentlichen Gewässerunterhalt.
+<sup>1</sup> Der Kanton leistet Beiträge von 66 Prozent an die Kosten der Gemeinden für den Gewässerunterhalt, für den der Bund Abgeltungen gewährt.
+
+<sup>1a</sup> Er leistet Beiträge von 33 Prozent an die Kosten der Gemeinden für den übrigen, wesentlichen Gewässerunterhalt. Der Regierungsrat bezeichnet den wesentlichen Gewässerunterhalt.
 
 <sup>2</sup> Der Beitrag des Kantons kann angemessen herabgesetzt werden, wenn die Kosten, an die er geleistet wird, auf eine Vernachlässigung des Gewässerunterhalts zurückzuführen sind.
 
