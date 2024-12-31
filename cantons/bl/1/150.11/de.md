@@ -4,13 +4,13 @@ number: "150.11"
 title: Verordnung zum Personalgesetz
 short: Personalverordnung
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-03
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.11"
-pdf: "https://bl.clex.ch/api/de/versions/3874/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4053/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3874/pdf_file"
 
 (Personalverordnung)
 
-Vom 19.12.2000 (Stand 01.08.2024)
+Vom 19.12.2000 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -901,15 +901,15 @@ beschliesst:
 
 - a. Gemeinderat:
   - 1\. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
-  - 2\. die Leiterin oder der Leiter der Stabsstelle Gemeinden,
-  - 3\. die Vorsteherin oder der Vorsteher des Amts für Daten und Statistik,
-  - 4\. die Leiterin oder der Leiter der Abteilung Gemeinderechnungswesen;
+  - 2\. die Leiterin oder der Leiter des Fachbereichs Gemeinden der Finanz- und Kirchendirektion;
+  - 3\. …
+  - 4\. …
 - b. Schulräte der kommunalen Schulen:
   - 1\. die Generalsekretärin oder der Generalsekretär der Bildungs-, Kultur- und Sportdirektion,
   - 2\. die Mitglieder der Dienststellenleitung und der Hauptabteilungsleitungen des Amts für Volksschulen;
 - c. Sozialhilfebehörde:
   - 1\. die Vorsteherin oder der Vorsteher des Kantonalen Sozialamts,
-  - 2\. die Leiterin oder der Leiter der Abteilung Unterstützungen;
+  - 2\. die Leiterin oder der Leiter der Abteilung Sozialhilfe und Asyl;
 - d. Kindes- und Erwachsenenschutzbehörde:
   - 1\. die Generalsekretärin oder der Generalsekretär der Sicherheitsdirektion,
   - 2\. die Leiterin oder der Leiter des Bereichs Zivilrecht der Sicherheitsdirektion;
@@ -918,12 +918,12 @@ beschliesst:
   - 2\. die Vorsteherin oder der Vorsteher des Bauinspektorats,
   - 3\. die Leiterinnen und Leiter der Bauabteilungen;
 - f. Rechnungsprüfungskommission:
-  - 1\. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
-  - 2\. die Vorsteherin oder der Vorsteher des Amts für Daten und Statistik,
-  - 3\. die Leiterin oder der Leiter der Abteilung Gemeinderechnungswesen;
+  - 1\. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion;
+  - 2\. …
+  - 3\. …
 - g. Geschäftsprüfungskommission:
   - 1\. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
-  - 2\. die Leiterin oder der Leiter der Stabsstelle Gemeinden.
+  - 2\. die Leiterin oder der Leiter des Fachbereichs Gemeinden der Finanz- und Kirchendirektion.
 
 ## 7 Geschützte Arbeitsplätze
 
