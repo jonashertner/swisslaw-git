@@ -5,11 +5,12 @@ title: Gesetz über die digitale Verwaltung
 short: DVG
 language: de
 version: 2024-04-01
+corrected: 2025-01-01
 version_adopted: 2023-10-16
 adopted: 2023-10-16
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/177.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3522/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -323,10 +324,11 @@ beschliesst:
 
 <sup>1</sup> Gegen Entscheide über die Verweigerung oder die Einschränkung des Zugangs zum E-Government-Portal oder einzelner Dienstleistungen über das E-Government-Portal sowie über die Deaktivierung des E-Kontos kann innert 30 Tagen Einsprache bei der zuständigen Verwaltungseinheit erhoben werden.
 
-<sup>2</sup> Gegen Einspracheentscheide kann innert 30 Tagen seit Zustellung des Entscheids beim Obergericht schriftlich Beschwerde erhoben werden.
+<sup>2</sup> Gegen Einspracheentscheide kann innert 30 Tagen seit Zustellung des Entscheids beim Verwaltungsgericht[^26-1] schriftlich Beschwerde erhoben werden.
 
-<sup>3</sup> Das Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^26-1].
+<sup>3</sup> Das Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^26-2].
 
-[^26-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+[^26-1]: Nach dem Inkrafttreten des Gerichtsorganisationsgesetzes vom 14. Juni 2022: beim Obergericht
+[^26-2]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
 2024-005

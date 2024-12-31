@@ -5,11 +5,12 @@ title: "Lescha davart l'administraziun digitala"
 short: LAD
 language: rm
 version: 2024-04-01
+corrected: 2025-01-01
 version_adopted: 2023-10-16
 adopted: 2023-10-16
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/177.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3522/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -323,10 +324,11 @@ concluda:
 
 <sup>1</sup> Cunter decisiuns pertutgant la refusa u la restricziun d'acceder al portal dad e‑government u a singuls servetschs sur il portal dad e‑government sco er pertutgant la deactivaziun dal e‑conto poi vegnir fatg protesta entaifer 30 dis tar l'unitad administrativa cumpetenta.
 
-<sup>2</sup> Cunter decisiuns da protesta poi vegnir fatg recurs en scrit tar la Dretgira superiura entaifer 30 dis suenter la consegna da la decisiun.
+<sup>2</sup> Cunter decisiuns da protesta poi vegnir fatg recurs en scrit tar la Dretgira administrativa[^26-1] entaifer 30 dis suenter la consegna da la decisiun.
 
-<sup>3</sup> La procedura sa drizza tenor la Lescha davart la giurisdicziun administrativa[^26-1].
+<sup>3</sup> La procedura sa drizza tenor la Lescha davart la giurisdicziun administrativa[^26-2].
 
-[^26-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+[^26-1]: Suenter l'entrada en vigur da la Lescha davart l'organisaziun giudiziala dals 14 da zercladur 2022: tar la Dretgira superiura
+[^26-2]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
 2024-005

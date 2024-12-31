@@ -5,11 +5,12 @@ title: "Legge sull'amministrazione digitale"
 short: LADig
 language: it
 version: 2024-04-01
+corrected: 2025-01-01
 version_adopted: 2023-10-16
 adopted: 2023-10-16
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/177.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3522/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3359/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -323,10 +324,11 @@ decide:
 
 <sup>1</sup> Contro decisioni relative al rifiuto o alla limitazione dell'accesso al portale di e-government o a singoli servizi offerti tramite il portale di e-government nonché alla disattivazione dell'eConto è data facoltà di opposizione entro 30 giorni all'unità amministrativa competente.
 
-<sup>2</sup> Contro decisioni su opposizione è data facoltà di ricorso scritto al Tribunale d'appello entro 30 giorni dal recapito della decisione.
+<sup>2</sup> Contro decisioni su opposizione è data facoltà di ricorso scritto al Tribunale amministrativo[^26-1] entro 30 giorni dal recapito della decisione.
 
-<sup>3</sup> La procedura si conforma alla legge sulla giustizia amministrativa[^26-1].
+<sup>3</sup> La procedura si conforma alla legge sulla giustizia amministrativa[^26-2].
 
-[^26-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+[^26-1]: Dopo l'entrata in vigore della legge sull'organizzazione giudiziaria del 14 giugno 2022: al Tribunale d'appello
+[^26-2]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 2024-005
