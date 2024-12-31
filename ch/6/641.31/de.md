@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. März 1969 über die Tabakbesteuerung (Tabaksteuerg
 short: TStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: de
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20241001-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20241001/de"
 
 (Tabaksteuergesetz, TStG)[^t-1]
 
-vom 21. März 1969 (Stand am 1. Oktober 2024)
+vom 21. März 1969 (Stand am 1. Januar 2025)
 
 [^t-1]: Eingefügt durch Anhang Ziff. 8 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -949,7 +949,7 @@ Anhang I[^t-2]
 
 ## Steuertarif für Zigaretten
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 des BG vom 19. Dez. 2008 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Bereinigt gemäss Ziff. I der V vom 14. Nov. 2012 (Steuertarife für Tabakfabrikate und Ersatzprodukte), in Kraft seit 1. Dez. 2012 ([AS 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Siehe auch die UeB dieser Änd. hiervor. Die alten Steuertarife sind in [AS 2010 4279](https://fedlex.data.admin.ch/eli/oc/2010/617)auffindbar.
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 des BG vom 19. Dez. 2008 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Bereinigt gemäss Ziff. I der V vom 14. Nov. 2012 (Steuertarife für Tabakfabrikate und Ersatzprodukte), in Kraft seit 1. Dez. 2012 ([AS 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Siehe auch die UeB 14.11.2012 hiervor. Die alten Steuertarife sind in [AS 2010 4279](https://fedlex.data.admin.ch/eli/oc/2010/617)auffindbar.
 
 Die Steuer beträgt 11,832 Rappen je Stück und 25 Prozent des Kleinhandelspreises, mindestens 21,210 Rappen je Stück.
 
@@ -964,14 +964,15 @@ Anhang II[^t-3]
 
 ## Steuertarif für Zigarren und Zigarillos
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 1 des BG vom 19. Dez. 2008 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Bereinigt gemäss Ziff. I der V vom 14. Nov. 2012 (Steuertarife für Tabakfabrikate und Ersatzprodukte), in Kraft seit 1. Dez. 2012 ([AS 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Siehe auch die UeB dieser Änd. hiervor. Die alten Steuertarife sind in [AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)auffindbar.
+[^t-3]: Fassung gemäss Ziff. II Abs. 1 des BG vom 19. Dez. 2008 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Bereinigt gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
-Die Steuer beträgt 0,56 Rappen je Stück und 1 Prozent des Kleinhandelspreises.
+Die Steuer beträgt 0,76 Rappen je Stück und 1 Prozent des Kleinhandelspreises.
 
 Anmerkungen
 
 - 1\. Die dem Bundesrat nach Artikel 11 Absatz 2 Buchstabe b zustehende Befugnis, die Steuersätze um 300 Prozent zu erhöhen, bezieht sich auf die nach der Stückzahl bemessene Steuer, nicht aber auf den nach dem Kleinhandelspreis bemessenen Steueranteil.
 - 2\. Der Gesamtsteuersatz je 1000 Stück, der sich aus dem nach der Stückzahl und dem nach dem Kleinhandelspreis bemessenen Steueranteil ergibt, ist auf die nächsten 5 Rappen aufzurunden. Bruchteile von Rappen zählen nicht.
+- [tab]
 
 Anhang III[^t-4]
 
@@ -979,14 +980,15 @@ Anhang III[^t-4]
 
 ## Steuertarif für Feinschnitttabak und Wasserpfeifentabak
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 1 des BG vom 19. Dez. 2008 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Bereinigt gemäss Ziff. I der V vom 14. Nov. 2012 (Steuertarife für Tabakfabrikate und Ersatzprodukte) ([AS 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)) und Ziff. II des BG vom 17. März 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [BBl 2016 5153](https://fedlex.data.admin.ch/eli/fga/2016/1113)). Siehe auch die UeB Änd. 14.11.2012 hiervor. Die alten Steuertarife sind in [AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)auffindbar.
+[^t-4]: Fassung gemäss Ziff. II Abs. 1 des BG vom 19. Dez. 2008 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Bereinigt gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
-Die Steuer beträgt Fr. 38.00 je kg und 25 Prozent des Kleinhandelspreises, mindestens Fr. 80.00 je kg.
+Die Steuer für Feinschnitttabak und Wasserpfeifentabak beträgt Fr. 46.00 je Kilogramm und 25 Prozent des Kleinhandelspreises, mindestens Fr. 90.00 je Kilogramm.
 
 Anmerkungen
 
 - 1\. Die dem Bundesrat nach Artikel 11 Absatz 2 Buchstabe c zustehende Befugnis, die Steuersätze um 80 Prozent zu erhöhen, bezieht sich auf die nach Kilogramm bemessene Steuer sowie auf die Mindeststeuer je Kilogramm, nicht aber auf den nach dem Kleinhandelspreis bemessenen Steueranteil.
 - 2\. Der Gesamtsteuersatz je Kilogramm, der sich aus dem nach Kilogramm und dem nach dem Kleinhandelspreis bemessenen Steueranteil ergibt, ist auf die nächsten 5 Rappen aufzurunden. Bruchteile von Rappen zählen nicht.
+- [tab]
 
 Anhang IV[^t-5]
 
@@ -994,14 +996,15 @@ Anhang IV[^t-5]
 
 ## Steuertarif für anderen Rauchtabak als Feinschnitttabak und übrige Tabakfabrikate (Rollentabak, Zigarrenabschnitte und andere) sowie für Kau- und Schnupftabak
 
-[^t-5]: Bereinigt gemäss Ziff. I der V vom 14. Nov. 2012 (Steuertarife für Tabakfabrikate und Ersatzprodukte), in Kraft seit 1. Dez. 2012 ([AS 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Siehe auch die UeB dieser Änd. hiervor. Die alten Steuertarife sind in [AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)auffindbar.
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 des BG vom 19. Dez. 2008 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Bereinigt gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
 Die Steuer beträgt:
 
 - a. für anderen Rauchtabak als Feinschnitttabak und übrige Tabakfabrikate (Rollentabak, Zigarrenabschnitte und andere):
-- 12 Prozent des Kleinhandelspreises;
+- 16 Prozent des Kleinhandelspreises;
 - b. für Kau- und Schnupftabak:
-- 6 Prozent des Kleinhandelspreises.
+- 10 Prozent des Kleinhandelspreises.
+- [tab]
 
 Anhang V[^t-6]
 

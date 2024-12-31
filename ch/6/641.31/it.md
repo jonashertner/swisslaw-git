@@ -4,18 +4,18 @@ title: "Legge federale del 21 marzo 1969 sull'imposizione del tabacco (Legge sul
 short: LImT
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: it
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20241001-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’imposizione del tabacco (Legge sull’imposizione del tabacco, LImT)
 
-del 21 marzo 1969 (Stato 1° ottobre 2024)[^t-1]
+del 21 marzo 1969 (Stato 1° gennaio 2025)[^t-1]
 
 [^t-1]: Introdotto dall’all. n. 8. della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -26,14 +26,14 @@ visti gli articoli 103 e 131 capoverso 1 lettera a della Costituzione federale[^
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
 [^ingress-3]: [FF 1968 II 580](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)
 
 ## Sezione 1: Disposizioni generali
 
 [^sec1-1]
 
-[^sec1-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec1-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Imposizione del tabacco
 
@@ -47,10 +47,10 @@ decreta:
 
 <sup>3</sup> Salvo disposizioni speciali della presente legge, ai prodotti di sostituzione si applicano le disposizioni per i tabacchi manufatti.[^1-4]
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
-[^1-2]: Espr. stralciata giusta il n. I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-3]: [[RU 1969 1289](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289), [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)art. 4 cpv. 1, [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321), [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)n. I 5, [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590), [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376), [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 25, [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419). [RU 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 43]. Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
-[^1-4]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^1-2]: Espr. stralciata giusta la cifra I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-3]: [[RU 1969 1289](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289), [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)art. 4 cpv. 1, [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321), [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)cifra I n. 5, [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590), [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376), [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 25, [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419). [RU 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 43]. Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^1-4]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 
 ### II. Autorità
 
@@ -60,7 +60,7 @@ decreta:
 
 Per quanto concerne le tasse gravanti sui tabacchi manufatti (imposta sul tabacco, dazi, imposta sul valore aggiunto), l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) emana le istruzioni e prende le decisioni che non sono espressamente riservate ad un’altra autorità. Esso ha la facoltà d’impartire alle ditte iscritte nel registro dei fabbricanti, importatori e negozianti di materiale greggio, istruzioni circa le indicazioni, giustificazioni e misure necessarie per riscuotere e rimborsare le tasse nonché per operare dei controlli.
 
-[^2-1]: Nuovo testo giusta il n. I 19 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^2-1]: Nuovo testo giusta la cifra I n. 19 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### III. Diritto applicabile
 
@@ -72,7 +72,7 @@ Salvo disposizioni speciali della presente legge o delle rispettive ordinanze, i
 
 [^sec2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec2-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Oggetto dell’imposta
 
@@ -92,9 +92,9 @@ Sottostanno all’imposta:
 
 <sup>4</sup> È considerato «Svizzera» il territorio doganale secondo l’articolo 3 capoverso 1 della legge del 18 marzo 2005[^4-4] sulle dogane (LD).[^4-5]
 
-[^4-1]: Abrogata dal n. I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^4-2]: Introdotta dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
-[^4-3]: Abrogato dal n. I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^4-1]: Abrogata dalla cifra I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^4-2]: Introdotta dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^4-3]: Abrogato dalla cifra I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^4-4]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^4-5]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -112,7 +112,7 @@ Sono esenti dall’imposta:
 [^5-1]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^5-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^5-3]: Abrogata dall’all. n. 8 della L del 18 mar. 2005 sulle dogane, con effetto dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^5-4]: Introdotta dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^5-4]: Introdotta dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ### III. Obbligati al pagamento
 
@@ -158,7 +158,7 @@ Sono responsabili solidalmente con il contribuente o il successore fiscale:
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec3-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Inizio dell’obbligo
 
@@ -175,7 +175,7 @@ L’imposta è dovuta:
 <sup>2</sup> Se i tabacchi manufatti prodotti in Svizzera, non imballati definitivamente per essere smerciati al consumatore, sono consegnati a persone o ditte non iscritte nel registro di cui all’articolo 13, oppure vanno ad altra destinazione, l’imposta è dovuta dal fabbricante non appena la merce lascia l’azienda; l’aliquota d’imposta applicabile è quella che grava sul prodotto fabbricato, pronto al consumo, maggiormente imposto.
 
 [^9-1]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^9-2]: Introdotta dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^9-2]: Introdotta dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### II. Base del calcolo
 
@@ -201,12 +201,12 @@ L’imposta sui prodotti di sostituzione è stabilita come segue:
 
 <sup>3</sup> Il prezzo che il fabbricante o l’importatore ha stampato sugli imballaggi per la vendita al minuto non può essere superato al momento della vendita.[^10-6]
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
-[^10-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
-[^10-3]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^10-4]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^10-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
+[^10-3]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^10-4]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 [^10-5]: Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
-[^10-6]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^10-6]: Introdotto dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ### III. Calcolo dell’imposta (tariffa delle imposte)
 
@@ -230,22 +230,22 @@ Per cofinanziare i contributi della Confederazione all’assicurazione per la ve
 
 <sup>3</sup> In caso di aumento dell'imposta il Consiglio federale può prendere provvedimenti per evitare che l'efficacia dell'aumento fiscale venga differita. Può segnatamente obbligare i produttori e gli importatori a limitare, fino all'entrata in vigore dell'aumento, la produzione e l'importazione alle vendite realizzate in un periodo comparabile dell'anno precedente, tenendo conto dell'evoluzione della domanda.[^11-4]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 [^11-2]: [RU 2003 2460](https://fedlex.data.admin.ch/eli/oc/2003/361)
-[^11-3]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^11-4]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^11-4]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 #### Art. 12
 
 [^12-1]
 
-[^12-1]: Abrogato dal n. I della LF del 24 mar. 1995, con effetto dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^12-1]: Abrogato dalla cifra I della LF del 24 mar. 1995, con effetto dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ## Sezione 4: Riscossione e restituzione dell’imposta
 
 [^sec4-1]
 
-[^sec4-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec4-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Disposizioni fondamentali
 
@@ -286,16 +286,13 @@ L’iscrizione è subordinata alle seguenti condizioni:
 
 Mediante un impegno di garanzia (revers) depositato presso la Direzione generale delle dogane:
 
-- a. i fabbricanti di tabacchi manufatti:
-- si obbligano a lavorare nella propria azienda o a consegnare unicamente a ditte iscritte nel registro il materiale greggio, importato o acquistato in Svizzera, come anche i tabacchi manufatti, non pronti al consumo, che essi hanno fabbricato o acquistato dalla produzione indigena;
-- b. gli importatori e i negozianti di materiale greggio destinato alla fabbricazione industriale di tabacchi manufatti:
-- si obbligano a consegnare il materiale greggio unicamente alle ditte iscritte nel registro;
-- c. i fabbricanti di tabacchi manufatti, gli importatori di tabacchi manufatti ...[^14-1] destinati ad essere rivenduti e i negozianti e gli importatori di materiale greggio:
-- si obbligano ad osservare le prescrizioni commerciali della presente legge e dell’ordinanza 15 dicembre 1969[^14-2] concernente l’imposizione sul tabacco.
+- a. i fabbricanti di tabacchi manufatti si obbligano a lavorare nella propria azienda o a consegnare unicamente a ditte iscritte nel registro il materiale greggio, importato o acquistato in Svizzera, come anche i tabacchi manufatti, non pronti al consumo, che essi hanno fabbricato o acquistato dalla produzione indigena;
+- b. gli importatori e i negozianti di materiale greggio destinato alla fabbricazione industriale di tabacchi manufatti, si obbligano a consegnare il materiale greggio unicamente alle ditte iscritte nel registro;
+- c. i fabbricanti di tabacchi manufatti, gli importatori di tabacchi manufatti ...[^14-1] destinati ad essere rivenduti e i negozianti e gli importatori di materiale greggio si obbligano ad osservare le prescrizioni commerciali della presente legge e dell’ordinanza 15 dicembre 1969[^14-2] concernente l’imposizione sul tabacco.
 
 <sup>2</sup> Ai titolari di impegni di garanzia (revers) è assegnato un numero di controllo.
 
-[^14-1]: Espr. stralciata giusta il n. I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^14-1]: Espr. stralciata giusta la cifra I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^14-2]: Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
 
 ### 3. Misure di controllo
@@ -308,8 +305,8 @@ Mediante un impegno di garanzia (revers) depositato presso la Direzione generale
 
 <sup>3</sup> La distruzione di materiale greggio e tabacchi manufatti non ancora imposti è subordinata all’autorizzazione dell’UDSC.
 
-[^15-1]: Nuova espr. giusta il n. I 19 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^15-2]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^15-1]: Nuova espr. giusta la cifra I 19 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^15-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### 4. Prescrizioni di commercio
 
@@ -337,9 +334,9 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 <sup>4</sup> Per l’applicazione della presente legge, l’ordinanza 15 dicembre 1969[^16-4] concernente l’imposizione sul tabacco può imporre obblighi suppletivi ai commercianti e ai negozianti di tabacchi manufatti.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^16-2]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^16-3]: Abrogato dal n. I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^16-2]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^16-3]: Abrogato dalla cifra I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^16-4]: Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
 
 ### II. Determinazio- ne e pagamento dell’imposta
@@ -348,7 +345,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 [^sec4-lvlII-lvl1-1]
 
-[^sec4-lvlII-lvl1-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec4-lvlII-lvl1-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 #### Art. 17
 
@@ -362,7 +359,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 [^sec4-lvlII-lvl2-1]
 
-[^sec4-lvlII-lvl2-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec4-lvlII-lvl2-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 #### Art. 18
 
@@ -376,18 +373,18 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 <sup>4</sup> L’importo dell’imposta può essere stabilito sotto forma di decisione individuale automatizzata ai sensi dell’articolo 21 della legge federale del 25 settembre 2020[^18-5] sulla protezione dei dati.[^18-6]
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^18-2]: Introdotto dal n. I 5 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^18-2]: Introdotto dalla cifra I 5 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 [^18-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^18-4]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^18-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^18-6]: Introdotto dall’all. 1 n. II 50 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-6]: Introdotto dall’all. 1 cifra II n. 50 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Esigibilità
 
 [^sec4-lvlII-lvl3-1]
 
-[^sec4-lvlII-lvl3-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec4-lvlII-lvl3-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 #### Art. 19
 
@@ -395,7 +392,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 <sup>2</sup> Per le importazioni in traffico postale e turistico, per cui l’importatore non produce una dichiarazione doganale scritta (art. 18 cpv. 3) e nei casi in cui non sussiste una garanzia conformemente all’articolo 21, l’imposta dev’essere pagata secondo le disposizioni concernenti i tributi doganali.[^19-2]
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^19-2]: Nuovo testo giusta l’all. n. 8 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ### II<sup>bis</sup>. Interessi
@@ -412,7 +409,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 <sup>4</sup> Il Dipartimento federale delle finanze fissa i tassi d’interesse.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### III. Garanzia e pegno fiscale
 
@@ -423,7 +420,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 <sup>2</sup> La Confederazione ha un diritto di pegno legale sui tabacchi manufatti per cui l’imposta è dovuta (diritto di pegno in materia d’imposta sul tabacco). Le nome sul pegno doganale sono applicabili per analogia.
 
 [^21-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^21-2]: Nuovo testo dei per. giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^21-2]: Nuovo testo dei per. giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### IV. Riscossione posticipata e restituzione d’ufficio dell’imposta
 
@@ -447,8 +444,8 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 <sup>5</sup> Il credito fiscale si prescrive in ogni caso in quindici anni, a contare dall’anno civile in cui è sorto.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^23-2]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^23-2]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### VI. Rimborso e condono
 
@@ -456,7 +453,7 @@ Per i tabacchi manufatti pronti al consumo, qui menzionati, sono autorizzati uni
 
 [^sec4-lvlVI-lvl1-1]
 
-[^sec4-lvlVI-lvl1-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec4-lvlVI-lvl1-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 #### Art. 24
 
@@ -472,9 +469,9 @@ L’imposta sui tabacchi manufatti fabbricati in Svizzera e sui tabacchi manufat
 
 <sup>3</sup> L’imposta rimborsata è nuovamente dovuta in caso di reimportazione della merce in questione.
 
-[^24-1]: Nuovo testo giusta il n. I 3 della LF del 17 dic. 2010 sull’acquisto di merci nei negozi in zona franca di tasse degli aeroporti, in vigore dal 1° giu. 2011 ([RU 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1921](https://fedlex.data.admin.ch/eli/fga/2010/380)).
+[^24-1]: Nuovo testo giusta la cifra I n. 3 della LF del 17 dic. 2010 sull’acquisto di merci nei negozi in zona franca di tasse degli aeroporti, in vigore dal 1° giu. 2011 ([RU 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1921](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^24-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^24-3]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^24-3]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^24-4]: Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
 
 ### 2. Condono
@@ -492,14 +489,14 @@ L’imposta sui tabacchi manufatti fabbricati in Svizzera e sui tabacchi manufat
 
 <sup>2</sup> Il Consiglio federale disciplina la procedura.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^25-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ## Sezione 5: Depositi fiscali autorizzati
 
 [^sec5-1]
 
-[^sec5-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec5-1]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Fabbricazione, trattamento, gestione
 
@@ -511,7 +508,7 @@ L’imposta sui tabacchi manufatti fabbricati in Svizzera e sui tabacchi manufat
 
 <sup>2</sup> Per gestione si intende in particolare l’immagazzinamento, la ricezione e la preparazione in vista della spedizione.
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### II. Autorizzazione
 
@@ -535,7 +532,7 @@ L’autorizzazione è ritirata se:
 - a. le condizioni di rilascio non sono più adempiute; o
 - b. il gestore del deposito fiscale autorizzato non osserva gli impegni previsti dalla presente legge.
 
-[^26a-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^26a-1]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### III. Vigilanza
 
@@ -545,7 +542,7 @@ L’autorizzazione è ritirata se:
 
 I depositi fiscali autorizzati sottostanno alla vigilanza dell’UDSC.
 
-[^26b-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^26b-1]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### IV. Garanzie
 
@@ -555,7 +552,7 @@ I depositi fiscali autorizzati sottostanno alla vigilanza dell’UDSC.
 
 I gestori di depositi fiscali autorizzati prestano garanzia secondo l’articolo 21 capoverso 1 per l’imposta e gli altri tributi.
 
-[^26c-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^26c-1]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### V. Controlli
 
@@ -565,7 +562,7 @@ I gestori di depositi fiscali autorizzati prestano garanzia secondo l’articolo
 
 I gestori di depositi fiscali autorizzati sottostanno alle misure di controllo di cui all’articolo 15.
 
-[^26d-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^26d-1]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### VI. Trasporto
 
@@ -586,13 +583,13 @@ La garanzia termina quando:
 
 <sup>4</sup> Il gestore del deposito fiscale autorizzato annuncia all’UDSC ogni spedizione di tabacchi manufatti non ancora imposti.
 
-[^26e-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^26e-1]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ## Sezione 6: Tabacco indigeno
 
 [^sec6-1]
 
-[^sec6-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec6-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Determinazione dei prezzi alla produzione
 
@@ -602,13 +599,13 @@ La garanzia termina quando:
 
 Il Consiglio federale stabilisce, dopo aver udito le cerchie interessate, i prezzi alla produzione secondo le sorte e qualità come anche i supplementi per le spese di ritiro e fermentazione del tabacco.
 
-[^27-1]: Nuovo testo giusta il n. I 31 della LF del 9 ott. 1992 concernente la riduzione di aiuti finanziari e di indennità, in vigore dal 1° gen. 1993 ([RU 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325); [FF 1992 III 294](https://fedlex.data.admin.ch/eli/fga/1992/3_349_341_294)).
+[^27-1]: Nuovo testo giusta la cifra I n. 31 della LF del 9 ott. 1992 concernente la riduzione di aiuti finanziari e di indennità, in vigore dal 1° gen. 1993 ([RU 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325); [FF 1992 III 294](https://fedlex.data.admin.ch/eli/fga/1992/3_349_341_294)).
 
 ### II. Assunzione da parte dei fabbricanti di tabacchi manufatti; fondo di finanziamento del tabacco indigeno e fondo di prevenzione del tabagismo
 
 [^sec6-lvlII-1]
 
-[^sec6-lvlII-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec6-lvlII-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 #### Art. 28
 
@@ -627,11 +624,11 @@ Il Consiglio federale può:
 <sup>4</sup> Il fondo di prevenzione del tabagismo di cui al capoverso 2 lettera c è gestito da un’organizzazione di prevenzione e sottostà alla vigilanza dell’Ufficio federale della sanità pubblica in collaborazione con l’Ufficio federale dello sport.[^28-6]
 
 [^28-1]: Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
-[^28-2]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^28-3]: Introdotta dal n. I della LF del 21 mar. 2003 ([RU 2003 2460](https://fedlex.data.admin.ch/eli/oc/2003/361); [FF 2002 2453](https://fedlex.data.admin.ch/eli/fga/2002/363)).l Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^28-4]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
-[^28-5]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^28-6]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^28-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^28-3]: Introdotta dalla cifra I della LF del 21 mar. 2003 ([RU 2003 2460](https://fedlex.data.admin.ch/eli/oc/2003/361); [FF 2002 2453](https://fedlex.data.admin.ch/eli/fga/2002/363)).l Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^28-4]: Nuovo testo giusta la cifra I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^28-5]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^28-6]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### III. Collaborazione dei Cantoni e delle organizzazioni
 
@@ -643,7 +640,7 @@ Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organi
 
 [^sec7-1]
 
-[^sec7-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec7-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 #### Art. 30
 
@@ -655,13 +652,13 @@ Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organi
 
 <sup>3</sup> La prescrizione è interrotta da qualsiasi azione ufficiale per far valere la restituzione; essa è sospesa fintanto che l’assoggettato non può essere escusso in Svizzera.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ## Sezione 8: Rimedi giuridici
 
 [^sec8-1]
 
-[^sec8-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec8-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Reclamo
 
@@ -689,7 +686,7 @@ Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organi
 
 <sup>3</sup> Le decisioni di prima istanza delle direzioni di circondario emanate sulla base della presente legge possono essere impugnate entro 30 giorni mediante ricorso alla Direzione generale delle dogane.
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
 [^32-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 33
@@ -702,7 +699,7 @@ Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organi
 
 [^sec9-1]
 
-[^sec9-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec9-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Infrazioni
 
@@ -712,7 +709,7 @@ Il Consiglio federale può chiedere la collaborazione dei Cantoni e delle organi
 
 [^34-1]
 
-[^34-1]: Abrogato dal n. I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^34-1]: Abrogato dalla cifra I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### 2. Sottrazione
 
@@ -732,7 +729,7 @@ Chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto 
 
 <sup>3</sup> In caso di circostanze aggravanti, l’importo massimo della multa è aumentato della metà. Può inoltre essere pronunciata una pena detentiva fino a un anno.
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^35-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 ### 3. Messa in pericolo dell’imposta
@@ -762,9 +759,9 @@ Chiunque, intenzionalmente o per negligenza, compromette l’applicazione legale
 
 <sup>4</sup> È fatta salva l’azione penale conformemente all’articolo 285 del Codice penale[^36-4] se si tratta di un’infrazione ai sensi del capoverso 1 lettera e.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^36-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^36-3]: Introdotto dal n. I 5 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^36-3]: Introdotto dalla cifra I n. 5 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 [^36-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### 4. Ricettazione fiscale
@@ -785,7 +782,7 @@ Chiunque acquista, riceve in dono, in pegno o comunque in consegna, occulta, aiu
 
 Il tentativo di infrazione fiscale è punibile.
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^38-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### 5<sup>bis</sup>. Circostanze aggravanti
 
@@ -798,7 +795,7 @@ Sono circostanze aggravanti:
 - a. l’incitamento di una o più persone a commettere un’infrazione fiscale;
 - b. la commissione di infrazioni fiscali per mestiere o per abitudine.
 
-[^38a-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^38a-1]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### 6. Inosservanza di prescrizioni d’ordine
 
@@ -818,7 +815,7 @@ Sono circostanze aggravanti:
 
 Se la multa applicabile non supera i 100 000 franchi e se la determinazione delle persone punibili secondo l’articolo 6 DPA[^40-2] esige provvedimenti d’inchiesta sproporzionati all’entità della pena, si può prescindere da un procedimento contro dette persone e, in loro vece, condannare l’azienda (art. 7 DPA) al pagamento della multa.
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^40-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 41
@@ -835,7 +832,7 @@ Se la multa applicabile non supera i 100 000 franchi e se la determinazione dell
 
 Se un atto costituisce contemporaneamente una sottrazione o messa in pericolo dell’imposta o una frode fiscale e un’infrazione doganale, la pena applicabile è quella prevista per l’infrazione più grave; essa può essere aumentata adeguatamente.
 
-[^42-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^42-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### II. Diritto applicabile
 
@@ -847,7 +844,7 @@ Se un atto costituisce contemporaneamente una sottrazione o messa in pericolo de
 
 <sup>2</sup> L’autorità incaricata del procedimento e del giudizio è l’UDSC.
 
-[^43-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^43-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^43-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 ### II<sup>bis</sup>. Prescrizione dell’azione penale
@@ -858,7 +855,7 @@ Se un atto costituisce contemporaneamente una sottrazione o messa in pericolo de
 
 La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2 DPA[^43a-2] si applica a tutte le infrazioni fiscali.
 
-[^43a-1]: Introdotto dal n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^43a-1]: Introdotto dalla cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^43a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 ### III. Provvedimenti
@@ -877,13 +874,13 @@ La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2
 
 Il provento delle multe è devoluto alla cassa federale.
 
-[^44bis-1]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+[^44bis-1]: Introdotto dalla cifra I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ## Sezione 10: Disposizioni finali
 
 [^sec10-1]
 
-[^sec10-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^sec10-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 
 ### I. Tariffa dei dazi sui tabacchi
 
@@ -893,7 +890,7 @@ Il provento delle multe è devoluto alla cassa federale.
 
 La tariffa dei dazi sui tabacchi è prevista al capitolo 24 della tariffa generale allegata alla legge del 9 ottobre 1986[^45-2] sulla tariffa delle dogane.
 
-[^45-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^45-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^45-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871); giusta l’art. 5 cpv. 1 della L sulle pubblicazioni ufficiali del 18 giu. 2004 ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la tariffa generale e le sue modifiche non sono pubblicate nella RU. Il testo di queste modifiche può essere consultato presso la Direzione generale delle dogane, 3003 Berna. Inoltre le modifiche sono riprese nella tariffa generale pubblicata su Internet all’indirizzo www.dogana.admin.ch.
 
 ### II. Abrogazione del diritto anteriore
@@ -945,7 +942,7 @@ Allegato I[^t-2]
 
 ## Tariffa d’imposta per le sigarette
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 della LF del 19 dic. 2008 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dal n. I dell’O del 14 nov. 2012 (Tariffa d’imposta per i tabacchi manufatti e i prodotti di sostituzione), in vigore dal 1° dic. 2012 ([RU 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Vedi anche le disp. trans. di detta mod. qui avanti (precedenti tariffe cfr. [RU 2010 4279](https://fedlex.data.admin.ch/eli/oc/2010/617)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 della LF del 19 dic. 2008 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dalla cifra I dell’O del 14 nov. 2012 (Tariffa d’imposta per i tabacchi manufatti e i prodotti di sostituzione), in vigore dal 1° dic. 2012 ([RU 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Vedi anche le disp. trans. di detta mod. qui avanti (precedenti tariffe cfr. [RU 2010 4279](https://fedlex.data.admin.ch/eli/oc/2010/617)).
 
 L’imposta ammonta a 11,832 centesimi il pezzo e al 25 per cento del prezzo al minuto, ma almeno a 21,210 centesimi il pezzo.
 
@@ -960,9 +957,9 @@ Allegato II[^t-3]
 
 ## Tariffa d’imposta per i sigari e i cigarillos
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 della LF del 19 dic. 2008 ([[RU 2009 5561](http://www.admin.ch/ch/i/as/2009/5561.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/676); [[FF 2008 423](http://www.admin.ch/ch/i/ff/2008/423.pdf)](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dal n. I dell’O del 14 nov. 2012 (Tariffa d’imposta per i tabacchi manufatti e i prodotti di sostituzione), in vigore dal 1° dic. 2012 ([RU 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Vedi anche le disp. trans. di detta mod. qui avanti (precedenti tariffe cfr. [RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 1 della LF del 19 dic. 2008 ([[RU 2009 5561](http://www.admin.ch/ch/i/as/2009/5561.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/676); [[FF 2008 423](http://www.admin.ch/ch/i/ff/2008/423.pdf)](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dalla cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
-L’imposta ammonta a 0,56 centesimi il pezzo e all’1 per cento del prezzo al minuto.
+L’imposta ammonta a 0,76 centesimi il pezzo e all’1 per cento del prezzo al minuto.
 
 Osservazioni
 
@@ -975,14 +972,14 @@ Allegato III[^t-4]
 
 ## Tariffa d’imposta per il tabacco trinciato fine e il tabacco per pipe ad acqua
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 1 della LF del 19 dic. 2008 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dal n. I dell’O del 14 nov. 2012 (Tariffa d’imposta per i tabacchi manufatti e i prodotti di sostituzione) ([RU 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)) e dal n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)). Vedi anche le disp. trans. delal mod. del 14 nov. 2011 qui avanti (precedenti tariffe cfr. [RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)).
+[^t-4]: Nuovo testo giusta la cifra II cpv. 1 della LF del 19 dic. 2008 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dalla cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
-L’imposta ammonta a 38 franchi il chilogrammo e al 25 per cento del prezzo al minuto, ma almeno a 80 franchi il chilogrammo.
+L’imposta ammonta a 46 franchi il chilogrammo e al 25 per cento del prezzo al minuto, ma almeno a 90 franchi il chilogrammo.
 
 Osservazioni
 
-- 1\. La competenza di cui dispone il Consiglio federale giusta l’articolo 11 capoverso 2 lettera c di aumentare dell’80 per cento le aliquote d’imposta si riferisce all’imposta stabilita per chilogrammo e all’imposta minima per chilogrammo, ma non alla parte d’imposta stabilita in funzione del prezzo di vendita al minuto.
-- 2\. L’aliquota d’imposta globale per chilogrammo risultante dall’elemento specifico relativo al peso in chilogrammi e dall’elemento proporzionale relativo al prezzo di vendita al minuto dev’essere arrotondato ai 5 centesimi per eccesso. Le frazioni di centesimo non contano.
+- 1\. La competenza di cui dispone il Consiglio federale giusta l’articolo 11 capo-verso 2 lettera c di aumentare dell’80 per cento le aliquote d’imposta si riferi-sce all’imposta stabilita per chilogrammo e all’imposta minima per chilogram-mo, ma non alla parte d’imposta stabilita in funzione del prezzo di vendita al minuto.
+- 2\. L’aliquota d’imposta globale per chilogrammo risultante dall’elemento specifi-co relativo al peso in chilogrammi e dall’elemento proporzionale relativo al prezzo di vendita al minuto dev’essere arrotondato ai 5 centesimi per eccesso. Le frazioni di centesimo non contano.
 
 Allegato IV[^t-5]
 
@@ -990,14 +987,14 @@ Allegato IV[^t-5]
 
 ## Tariffa d’imposta per il tabacco da fumo diverso dal tabacco trinciato fine e per gli altri tabacchi manufatti (tabacco in rotoli, spuntature di sigari e altro) e per il tabacco da masticare e da fiuto
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del 14 nov. 2012 (Tariffa d’imposta per i tabacchi manufatti e i prodotti di sostituzione), in vigore dal 1° dic. 2012 ([RU 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Vedi anche le disp. trans. di detta mod. qui avanti (precedenti tariffe cfr. [RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 1 della LF del 19 dic. 2008 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Aggiornato dalla cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
 L’imposta ammonta a:
 
 - a. per il tabacco da fumo diverso dal tabacco trinciato fine e per gli altri tabacchi manufatti (tabacco in rotoli, spuntature di sigari e altro):
-- 12 per cento del prezzo al minuto;
+- 16 per cento del prezzo al minuto;
 - b. per il tabacco da masticare e da fiuto:
-- 6 per cento del prezzo al minuto.
+- 10 per cento del prezzo al minuto.
 
 Allegato V[^t-6]
 
@@ -1005,7 +1002,7 @@ Allegato V[^t-6]
 
 ## Tariffa d’imposta per i prodotti di sostituzione
 
-[^t-6]: Nuovo testo giusta il n. II della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^t-6]: Nuovo testo giusta la cifra II della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 
 - 1\. Per i prodotti contenenti nicotina che possono essere consumati mediante sigarette elettroniche ricaricabili, l’imposta ammonta a 0,20 franchi per millilitro.
 - 2\. Per i prodotti che possono essere consumati mediante sigarette elettroniche monouso, l’imposta ammonta a 1 franco per millilitro.

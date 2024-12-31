@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 mars 1969 sur l'imposition du tabac (LTab)"
 short: LTab
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: fr
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20241001-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20241001/fr"
 
 (LTab)[^t-1]
 
-du 21 mars 1969 (État le 1<sup>er</sup> octobre 2024)
+du 21 mars 1969 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Introduit par l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -43,7 +43,7 @@ arrête:
 
 [^1-1]
 
-<sup>1</sup> La Confédération perçoit un impôt sur les tabacs manufacturés ...[^1-2] ainsi que sur les matières qui sont utilisées de la même manière que le tabac (produits de substitution).
+<sup>1</sup> La Confédération perçoit un impôt sur les tabacs manufacturés …[^1-2] ainsi que sur les matières qui sont utilisées de la même manière que le tabac (produits de substitution).
 
 <sup>2</sup> Les expressions «tabacs manufacturés et produits de substitution» utilisés dans la présente loi sont définis dans l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^1-3].
 
@@ -85,10 +85,10 @@ Sauf dispositions spéciales de la présente loi et des ordonnances fondées sur
 Sont soumis à l’impôt:
 
 - a. les tabacs manufacturés fabriqués industriellement en Suisse et prêts à la consommation, ainsi que les tabacs manufacturés importés;
-- b.[^4-1] ...
+- b.[^4-1] …
 - c.[^4-2] les produits de substitution.
 
-<sup>2</sup> ...[^4-3]
+<sup>2</sup> …[^4-3]
 
 <sup>3</sup> Sont réputés prêts à la consommation les tabacs manufacturés qui, jusqu’à la consommation, ne subissent aucun processus ultérieur de fabrication industrielle.
 
@@ -107,7 +107,7 @@ Sont soumis à l’impôt:
 Sont exonérés de l’impôt:
 
 - a.[^5-1] les marchandises admises en franchise de droits de douane en vertu de l’art. 8 LD[^5-2];
-- b.[^5-3] ...
+- b.[^5-3] …
 - c. les tabacs manufacturés non destinés à la consommation;
 - d.[^5-4] les tabacs manufacturés et préparations destinées à atténuer l’asthme, si elles sont enregistrées comme médicaments.
 
@@ -273,7 +273,7 @@ La Direction générale des douanes tient un registre:
 
 L’inscription a lieu aux conditions suivantes:
 
-- a. les fabricants et importateurs de tabacs manufacturés ... doivent avoir leur domicile en Suisse ou un établissement principal inscrit en Suisse, déposer un revers conformément à l’art. 14 et fournir des sûretés selon l’art. 21;
+- a. les fabricants et importateurs de tabacs manufacturés … doivent avoir leur domicile en Suisse ou un établissement principal inscrit en Suisse, déposer un revers conformément à l’art. 14 et fournir des sûretés selon l’art. 21;
 - b. les importateurs et les marchands de matières brutes doivent avoir leur domicile en Suisse ou un établissement principal inscrit en Suisse et déposer un revers conformément à l’art. 14.
 
 <sup>4</sup> Tout changement ayant trait à la raison sociale, au domicile personnel, au siège de l’entreprise ou à l’activité commerciale doit être annoncé à la Direction générale des douanes. Les maisons qui abandonnent leur activité commerciale, leur domicile ou leur siège commercial en Suisse seront radiées du registre.
@@ -292,7 +292,7 @@ Doivent s’engager par un revers déposé auprès de la Direction générale de
 
 - a. les fabricants de tabacs manufacturés:
 - à mettre en oeuvre dans leur propre entreprise ou à ne remettre qu’à des entreprises inscrites au registre les matières brutes qu’ils ont importées ou acquises en Suisse ainsi que les tabacs manufacturés, non encore prêts à la consommation, qu’ils ont fabriqués ou acquis de la production indigène;
-- b. les importateurs et les marchands de matières brutes destinées à la fabrication industrielle de tabacs manufacturés ...[^14-1]:
+- b. les importateurs et les marchands de matières brutes destinées à la fabrication industrielle de tabacs manufacturés …[^14-1]:
 - à ne remettre les matières brutes qu’à des entreprises inscrites au registre;
 - c. les fabricants de tabacs manufacturés, les importateurs de tabacs manufacturés destinés à la revente, ainsi que les marchands et importateurs de matières brutes:
 - à observer les prescriptions commerciales établies dans la présente loi et dans l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^14-2].
@@ -337,7 +337,7 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 - b. tabac à coupe fine: contenu de 250 gr au maximum;
 - c. tabac coupé, autre que celui à coupe fine: contenu de 1000 gr au maximum.
 
-<sup>3</sup> ...[^16-3]
+<sup>3</sup> …[^16-3]
 
 <sup>4</sup> Aux fins de l’application de la présente loi, l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^16-4] prévoit que les fabricants et les marchands de tabacs manufacturés peuvent être astreints à des obligations supplémentaires.
 
@@ -424,7 +424,7 @@ Seuls les emballages pour la vente au détail désignés ci-après sont autoris�
 
 <sup>1</sup> Les fabricants et les importateurs de tabacs manufacturés inscrits au registre prévu à l’art. 13 doivent fournir des sûretés dans les formes prévues à l’art. 76 LD[^21-1]. Les sûretés couvrent toutes les créances de l’OFDF à l’égard du fabricant et de l’importateur, résultant ou découlant de l’assujettissement à l’impôt sur le tabac, au droit de douane et à la taxe sur la valeur ajoutée.[^21-2] Les sûretés ne peuvent être libérées que lorsque l’assujetti a satisfait à toutes ses obligations. Le montant des sûretés est fixé par la Direction générale des douanes.
 
-<sup>2</sup> La Confédération a un droit de gage légal sur les tabacs manufacturés ... pour lesquels les redevances sont dues (droit de gage concernant l’impôt sur le tabac). Les prescriptions régissant le gage douanier sont applicables par analogie.
+<sup>2</sup> La Confédération a un droit de gage légal sur les tabacs manufacturés … pour lesquels les redevances sont dues (droit de gage concernant l’impôt sur le tabac). Les prescriptions régissant le gage douanier sont applicables par analogie.
 
 [^21-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^21-2]: Nouvelle teneur des phrases selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
@@ -713,7 +713,7 @@ Le Conseil fédéral peut faire appel à la collaboration des cantons et d’org
 
 ### I. Infractions
 
-### 1. ...
+### 1. …
 
 #### Art. 34
 
@@ -919,7 +919,7 @@ Sont abrogés au moment de l’entrée en vigueur de la présente loi:
 [^46-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^46-2]: [RO 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277)
 
-### III. ...
+### III. …
 
 #### Art. 47
 
@@ -956,7 +956,7 @@ Annexe I[^t-2]
 
 ## Tarif d’impôt pour les cigarettes
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de la LF du 19 déc. 2008 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)). Mise à jour selon le ch. I de l’O du 14 nov. 2012 (Tarifs d’impôt pour les tabacs manufacturés et les produits de substitution), en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Voir également, ci-avant, les disp. trans. relatives à cette mod. Les anciens tarifs d’impôt figurent au [RO 2010 4279](https://fedlex.data.admin.ch/eli/oc/2010/617).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de la LF du 19 déc. 2008 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)). Mise à jour par le ch. I de l’O du 14 nov. 2012 (Tarifs d’impôt pour les tabacs manufacturés et les produits de substitution), en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Voir également, ci-avant, les disp. trans. relatives à cette mod. Les anciens tarifs d’impôt figurent au [RO 2010 4279](https://fedlex.data.admin.ch/eli/oc/2010/617).
 
 L’impôt se monte à 11,832 centimes par pièce et à 25 % du prix de vente au détail, mais au moins à 21,210 centimes par pièce.
 
@@ -971,9 +971,9 @@ Annexe II[^t-3]
 
 ## Tarif d’impôt pour les cigares et les cigarillos
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 1 de la LF du 19 déc. 2008 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)). Mise à jour selon le ch. I de l’O du 14 nov. 2012 (Tarifs d’impôt pour les tabacs manufacturés et les produits de substitution), en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Voir également, ci-avant, les disp. trans. relatives à cette mod. Les anciens tarifs d’impôt figurent au [RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676).
+[^t-3]: Nouvelle teneur selon le ch. II al. 1 de la LF du 19 déc. 2008 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)). Mise à jour par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
-L’impôt se monte à 0,56 centime par pièce et à 1 % du prix de vente au détail.
+L’impôt se monte à 0,76 centime par pièce et à 1 % du prix de vente au détail.
 
 Remarques
 
@@ -986,9 +986,9 @@ Annexe III[^t-4]
 
 ## Tarif d’impôt pour le tabac à coupe fine et le tabac pour pipe à eau
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 1 de la LF du 19 déc. 2008 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)). Mise à jour selon le ch. I de l’O du 14 nov. 2012 (Tarifs d’impôt pour les tabacs manufacturés et les produits de substitution) ([RO 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)) et le ch. II de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4971](https://fedlex.data.admin.ch/eli/fga/2016/1113)). Voir également, ci-avant, les disp. trans. relatives à la mod. du 14 nov. 2012. Les anciens tarifs d’impôt figurent au [RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676).
+[^t-4]: Nouvelle teneur selon le ch. II al. 1 de la LF du 19 déc. 2008 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)). Mise à jour par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
-L’impôt se monte à 38 fr. 00 par kg et à 25 % du prix de vente au détail, mais à 80 fr. 00 au moins par kg.
+L’impôt pour le tabac à coupe fine et le tabac pour pipe à eau se monte à 46 fr. 00 par kilogramme et à 25 % du prix de vente au détail, mais à 90 fr. 00 au moins par kilogramme.
 
 Remarques
 
@@ -1001,14 +1001,14 @@ Annexe IV[^t-5]
 
 ## Tarif d’impôt pour le tabac à fumer autre que le tabac à coupe fine et les autres tabacs manufacturés (tabac en rouleaux, rognures de cigares et autres), ainsi que pour le tabac à mâcher et à priser
 
-[^t-5]: Mise à jour selon le ch. I de l’O du 14 nov. 2012 (Tarifs d’impôt pour les tabacs manufacturés et les produits de substitution), en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6085](https://fedlex.data.admin.ch/eli/oc/2012/719)). Voir également, ci-avant, les disp. trans. relatives à cette mod. Les anciens tarifs d’impôt figurent au [RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676).
+[^t-5]: Nouvelle teneur selon le ch. II al. 1 de la LF du 19 déc. 2008 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)). Mise à jour par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 580](https://fedlex.data.admin.ch/eli/oc/2024/580)).
 
 L’impôt se monte:
 
 - a. pour le tabac à fumer autre que le tabac à coupe fine et les autres tabacs manufacturés (tabac en rouleaux, rognures de cigares et autres):
-- à 12 % du prix de vente au détail;
+- à 16 % du prix de vente au détail;
 - b. pour le tabac à mâcher et à priser:
-- à 6 % du prix de vente au détail.
+- à 10 % du prix de vente au détail.
 
 Annexe V[^t-6]
 
