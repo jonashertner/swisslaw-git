@@ -3,32 +3,32 @@ sr: "916.151.1"
 title: "Ordinanza del DEFR del 7 dicembre 1998 concernente il materiale di moltiplicazione di specie campicole, foraggere e orticole (Ordinanza del DEFR sul materiale di moltiplicazione di piante campicole e foraggere)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/121"
 language: it
-version: 2021-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1999-121-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/121/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1999-121-20250101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/121/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR concernente il materiale di moltiplicazione di specie campicole, foraggere e orticole
 
-(Ordinanza del DEFR sul materiale di moltiplicazione di piante campicole e foraggere)**[^t-1]**
+(Ordinanza del DEFR sul materiale di moltiplicazione di piante campicole e foraggere)[^t-1]
 
-del 7 dicembre 1998 (Stato 1° gennaio 2021)
+del 7 dicembre 1998 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
-Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)*[^ingress-1]*,
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
 visti gli articoli 4 capoversi 1 e 2, 5 capoversi 2 e 3, 10 capoversi 3 e 5, 11 capoversi 1<sup>bis</sup><sup>,</sup>, 2 e 3, 12 capoversi 3 e 4, 13, 14 capoversi 1<sup>bis</sup>, 2, 3 e 5, 15 capoversi 3 e 4, 16, 17 capoversi 2 e 6, nonché 21 capoverso 1 dell’ordinanza del 7 dicembre 1998[^ingress-2] sul materiale di moltiplicazione,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^ingress-2]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^ingress-2]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -68,7 +68,7 @@ Per quanto riguarda il granturco, il sorgo spp. e il girasole:[^2-2]
 
 <sup>7</sup> Per varietà di nicchia si intende una varietà locale, una varietà obsoleta, per le piante foraggere un ecotipo, oppure un’altra varietà a cui non si applicano le esigenze poste per l’ammissione nel catalogo delle varietà secondo la sezione 3. Sono eccettuate le varietà geneticamente modificate.[^2-6]
 
-<sup>8</sup> e <sup>9</sup> ...[^2-7]
+<sup>8 e <sup>9</sup></sup> …[^2-7]
 
 <sup>10</sup> Le sementi monogermi di barbabietole sono sementi geneticamente monogermi.[^2-8]
 
@@ -82,19 +82,19 @@ Per quanto riguarda il granturco, il sorgo spp. e il girasole:[^2-2]
 
 <sup>15</sup> Per varietà sperimentale s’intende una varietà per cui è stata inoltrata una domanda di ammissione nel catalogo delle varietà di cui all’articolo 13 oppure in un catalogo delle varietà di uno Stato membro dell’Unione europea. Sono eccettuate le varietà geneticamente modificate.[^2-13]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^2-5]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^2-6]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^2-7]: Introdotti dal n. I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogati dal n. I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^2-8]: Introdotto dal n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^2-9]: Introdotto dal n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^2-10]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^2-11]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^2-12]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^2-13]: Introdotto dal n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^2-6]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^2-7]: Introdotti dalla cifra I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogati dalla cifra I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^2-8]: Introdotto dalla cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^2-9]: Introdotto dalla cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^2-10]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^2-11]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^2-12]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^2-13]: Introdotto dalla cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 3
 
@@ -107,7 +107,7 @@ Per sementi di prebase si intendono le sementi di moltiplicazione:
 - c. che rispondono, fatte salve le disposizioni dell’articolo 24 capoverso 6, alle condizioni previste negli allegati 3 e 4 per le sementi di base;
 - d. prodotte e certificate in senso lato (s.l.) secondo le disposizioni della presente ordinanza.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
 
 #### Art. 4
 
@@ -127,8 +127,8 @@ Per sementi di base si intendono le sementi di moltiplicazione:
 
 Le sementi di base sono destinate alla produzione di:
 
-- a.[^4-4] sementi delle categorie «sementi certificate», «sementi certificate di prima riproduzione» o «sementi certificate di seconda riproduzione» per l’avena, l’orzo, la scagliola, la segale, il frumento, la spelta e il triticale, eccetto i loro ibridi, nonché per la soia, il lino, ...[^4-5], il lupino, il pisello da foraggio, la veccia e l’erba medica;
-- b.[^4-6] sementi certificate di prima riproduzione per le varietà dei generi e delle specie di piante foraggere, eccetto il lupino, il pisello da foraggio, la veccia e l’erba medica, nonché per le varietà di ravizzone, senape bruna, colza, ...[^4-7], girasole, senape bianca e barbabietole;
+- a.[^4-4] sementi delle categorie «sementi certificate», «sementi certificate di prima riproduzione» o «sementi certificate di seconda riproduzione» per l’avena, l’orzo, la scagliola, la segale, il frumento, la spelta e il triticale, eccetto i loro ibridi, nonché per la soia, il lino, …[^4-5], il lupino, il pisello da foraggio, la veccia e l’erba medica;
+- b.[^4-6] sementi certificate di prima riproduzione per le varietà dei generi e delle specie di piante foraggere, eccetto il lupino, il pisello da foraggio, la veccia e l’erba medica, nonché per le varietà di ravizzone, senape bruna, colza, …[^4-7], girasole, senape bianca e barbabietole;
 - c. sementi certificate per gli ibridi di avena, orzo, segale, frumento, spelta e triticale;
 - d. sementi certificate, di ibridi «Top Cross» o di ibridi intervarietali per le varietà a impollinazione libera di granturco, sorgo e erba del Sudan;
 - e. sementi di ibridi semplici o di ibridi «Top Cross» per le sementi di linee inbred di granturco, sorgo e erba del Sudan;
@@ -137,16 +137,16 @@ Le sementi di base sono destinate alla produzione di:
 - h.[^4-9] sementi di ibridi a tre vie o di ibridi doppi per le sementi di ibridi semplici di girasole;
 - i.[^4-10] sementi certificate per gli ortaggi.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^4-5]: Espr. stralciata dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-6]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^4-7]: Espr. stralciata dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-8]: Introdotta dal n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^4-9]: Introdotta dal n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^4-10]: Introdotta dal n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^4-5]: Espr. stralciata dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-6]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^4-7]: Espr. stralciata dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-8]: Introdotta dalla cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^4-9]: Introdotta dalla cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^4-10]: Introdotta dalla cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 5
 
@@ -154,7 +154,7 @@ Le sementi di base sono destinate alla produzione di:
 
 <sup>1</sup>
 
-Per sementi certificate di scagliola eccetto i suoi ibridi, segale, sorgo, erba del Sudan, granturco, colza, ravizzone, senape bruna, ..., girasole, senape bianca, barbabietole e ortaggi, nonché di ibridi di avena, orzo, frumento, spelta e di varietà autogame di triticale come pure di generi e specie di piante foraggere eccetto lupino, pisello da foraggio, veccia ed erba medica si intendono le sementi:[^5-2]
+Per sementi certificate di scagliola eccetto i suoi ibridi, segale, sorgo, erba del Sudan, granturco, colza, ravizzone, senape bruna, …, girasole, senape bianca, barbabietole e ortaggi, nonché di ibridi di avena, orzo, frumento, spelta e di varietà autogame di triticale come pure di generi e specie di piante foraggere eccetto lupino, pisello da foraggio, veccia ed erba medica si intendono le sementi:[^5-2]
 
 - a. derivanti direttamente da sementi di base o, su domanda del costitutore, da sementi di prebase;
 - b.[^5-3] previste per una produzione diversa da quella di sementi;
@@ -163,7 +163,7 @@ Per sementi certificate di scagliola eccetto i suoi ibridi, segale, sorgo, erba 
 
 <sup>2</sup>
 
-Per sementi certificate di prima riproduzione di avena, orzo, frumento, spelta e triticale, eccetto i loro ibridi, nonché di lupino, pisello da foraggio, veccia, erba medica, ..., lino tessile, lino oleaginoso e soia si intendono le sementi di moltiplicazione:[^5-4]
+Per sementi certificate di prima riproduzione di avena, orzo, frumento, spelta e triticale, eccetto i loro ibridi, nonché di lupino, pisello da foraggio, veccia, erba medica, …, lino tessile, lino oleaginoso e soia si intendono le sementi di moltiplicazione:[^5-4]
 
 - a. derivanti direttamente da sementi di base o, su domanda del costitutore, da sementi di prebase;
 - b. previste per la produzione di sementi della categoria «sementi certificate di seconda riproduzione» o per una produzione diversa da quella di sementi;
@@ -172,20 +172,21 @@ Per sementi certificate di prima riproduzione di avena, orzo, frumento, spelta e
 
 <sup>3</sup>
 
-Per sementi certificate di seconda riproduzione di avena, orzo, frumento, spelta e triticale, eccetto i loro ibridi, nonché di lupino, pisello da foraggio, veccia, erba medica, ..., lino tessile, lino oleaginoso e soia si intendono le sementi:[^5-5]
+Per sementi certificate di seconda riproduzione di avena, orzo, frumento, spelta e triticale, eccetto i loro ibridi, nonché di lupino, pisello da foraggio, veccia, erba medica, …, lino tessile, lino oleaginoso e soia si intendono le sementi:[^5-5]
 
 - a. derivanti direttamente da sementi delle categorie «sementi di base», «sementi certificate di prima riproduzione» o, su domanda del costitutore, della categoria «sementi di prebase»;
 - b. previste per una produzione diversa da quella di sementi;
 - c. che rispondono alle condizioni previste negli allegati 3 e 4 per le sementi certificate di seconda riproduzione;
 - d. prodotte e certificate (s.l.) secondo le disposizioni della presente ordinanza.
-- [tab] <sup>4</sup> ...[^5-6]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^5-4]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^5-5]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^5-6]: Abrogato dal n. I dell’O del DEFR del 2 mag. 2005, con effetto dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+<sup>4</sup> …[^5-6]
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^5-5]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^5-6]: Abrogato dalla cifra I dell’O del DEFR del 2 mag. 2005, con effetto dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 6
 
@@ -197,7 +198,7 @@ Per sementi commerciali si intendono le sementi che:
 - b. rispondono alle condizioni previste nell’allegato 4 per le sementi commerciali;
 - c. sono state ammesse secondo le disposizioni della presente ordinanza.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
 
 #### Art. 6a
 
@@ -209,7 +210,7 @@ Per sementi standard si intendono le sementi che:
 - b. sono soprattutto previste per la produzione di ortaggi; e
 - c. sono conformi alle condizioni stabilite nell’allegato 4 per le sementi standard.
 
-[^6a-1]: Introdotto dal n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^6a-1]: Introdotto dalla cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 7
 
@@ -241,7 +242,7 @@ Per il materiale iniziale e le singole generazioni si applicano le seguenti desi
 - d. terza generazione: PB<sub>3</sub>
 - e. quarta generazione PB<sub>4</sub>
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 8
 
@@ -268,9 +269,9 @@ Per le singole generazioni di tuberi-seme di base si applicano le seguenti desig
 - c. terza generazione: SE<sub>2</sub>
 - d. quarta generazione: E .[^8-3]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^8-3]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 9
 
@@ -289,7 +290,7 @@ Per tuberi-seme certificati si intendono i tuberi di patate:
 
 <sup>3</sup> Qualora sorgessero difficoltà di approvvigionamento con tuberi-seme di base, l’UFAG[^9-1] può, su domanda, autorizzare la produzione di tuberi-seme certificati a partire da tuberi-seme certificati sempreché questi ultimi rispondano alle condizioni previste negli allegati 3 e 4 per i tuberi-seme di base.
 
-[^9-1]: Nuova espr. giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-1]: Nuova espr. giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 10
 
@@ -309,15 +310,15 @@ Per tuberi-seme certificati si intendono i tuberi di patate:
 
 Possono essere utilizzate come sementi di moltiplicazione di cereali nonché di piante oleaginose e da fibra ai sensi del capoverso 5 unicamente:
 
-- a. le sementi di prebase o di base per le varietà di granturco, segale, sorgo, erba del Sudan e scagliola, per le varietà ibridi di avena, orzo, frumento, spelta e triticale nonché per le varietà di colza, ravizzone, senape bruna, ..., girasole, senape bianca e barbabietole;
-- b. le sementi di prebase, di base o certificate della prima generazione per le varietà diverse dagli ibridi di avena, orzo, frumento, spelta e triticale nonché per le varietà di lupino, pisello da foraggio, veccia, erba medica, ..., lino tessile, lino oleaginoso e soia.[^10-3]
+- a. le sementi di prebase o di base per le varietà di granturco, segale, sorgo, erba del Sudan e scagliola, per le varietà ibridi di avena, orzo, frumento, spelta e triticale nonché per le varietà di colza, ravizzone, senape bruna, …, girasole, senape bianca e barbabietole;
+- b. le sementi di prebase, di base o certificate della prima generazione per le varietà diverse dagli ibridi di avena, orzo, frumento, spelta e triticale nonché per le varietà di lupino, pisello da foraggio, veccia, erba medica, …, lino tessile, lino oleaginoso e soia.[^10-3]
 
 <sup>7</sup> Per le varietà di piante foraggere diverse dal lupino, dal pisello da foraggio, dalla veccia e dall’erba medica possono essere utilizzate come sementi di moltiplicazione di piante foraggere ai sensi del capoverso 5 unicamente le sementi di prebase o di base.[^10-4]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
 
 #### Art. 11
 
@@ -334,9 +335,9 @@ Per piccoli imballaggi CE di barbabietole si intendono gli imballaggi contenenti
 - a. per le sementi monogermi o di precisione: fino a 100 000 glomeruli o semi oppure fino a concorrenza di un peso netto di 2,5 kg, esclusi gli antiparassitari granulati, le sostanze di rivestimento o altri additivi solidi;
 - b. per le sementi diverse dalle sementi monogermi o di precisione: fino a concorrenza di un peso netto di 10 kg, esclusi gli antiparassitari granulati, le sostanze di rivestimento o altri additivi solidi.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^11-3]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^11-3]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 12
 
@@ -348,10 +349,10 @@ Per piccoli imballaggi CE di barbabietole si intendono gli imballaggi contenenti
 
 <sup>3</sup> Su domanda, l’UFAG può accettare per la certificazione un lotto composto di tuberi-seme della stessa varietà e di un’unica classe proveniente da parcelle diverse di un medesimo produttore. Qualora una parte del lotto composto non soddisfi le esigenze relative alla classe annunciata, la corrispondente classe inferiore serve per la designazione dell’insieme del lotto composto.
 
-<sup>4</sup> e <sup>5</sup> ...[^12-2]
+<sup>4 e <sup>5</sup></sup> …[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^12-2]: Abrogati dal n. I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^12-2]: Abrogati dalla cifra I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ### Sezione 3: Ammissione nel catalogo delle varietà
 
@@ -381,9 +382,9 @@ Non deve essere effettuato alcun esame giusta l’articolo 17:
 - b. per l’ammissione di varietà (linee inbred, ibridi), le cui sementi vanno impiegate soltanto quali componenti per la produzione di varietà ibride, che adempiono le condizioni di cui all’articolo 5 capoverso 1 lettere a e b dell’ordinanza del 7 dicembre 1998 sulle sementi;[^15-2]
 - c.[^15-3] per l’ammissione di varietà di ortaggi.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^15-2]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^15-3]: Introdotta dal n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^15-2]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^15-3]: Introdotta dalla cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 16
 
@@ -403,7 +404,7 @@ Il richiedente è tenuto a:
 
 <sup>3</sup> L’UFAG può respingere una domanda di ammissione se le indicazioni del fascicolo mostrano che la varietà non adempie manifestamente le esigenze relative al valore agronomico e di utilizzazione.
 
-[^16-1]: Introdotta dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^16-1]: Introdotta dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 16a
 
@@ -423,7 +424,7 @@ Esiste un ostacolo per la determinazione di una designazione della varietà in p
 
 <sup>3</sup> Se dopo aver ammesso una varietà nel catalogo delle varietà emerge che vi è un impedimento per quanto concerne la relativa designazione, il richiedente è tenuto a proporre una designazione della varietà conforme alla presente ordinanza. L’UFAG può dare l’autorizzazione affinché possa essere utilizzata in via provvisoria anche la precedente designazione. In questo caso fissa le modalità secondo cui è possibile utilizzare in via provvisoria anche la precedente designazione.
 
-[^16a-1]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^16a-1]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art 17
 
@@ -469,9 +470,9 @@ Per la produzione e la certificazione (s.l.) sono ammessi unicamente le sementi 
 - e. condizionate da un’organizzazione di moltiplicazione riconosciuta o, nel caso dei tuberi-seme di patate, sotto la responsabilità di una tale organizzazione;
 - f. la cui conformità alle esigenze previste nell’allegato 4 è stata controllata sulla base dell’esame di un campione ufficiale.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^20-2]: Catalogo comune delle varietà delle specie di piante agricole, ventottesima edizione integrale, nella versione secondo GU C 302A del 12.12.2009, pag. 1, modificato da ultimo dal secondo complemento alla ventottesima edizione integrale, GU C 72A del 20.3.2010. Catalogo comune delle varietà delle specie di ortaggi, ventottesima edizione integrale, nella versione secondo GU C 248A del 16.10.2009, pag. 1, modificato da ultimo dal secondo complemento alla ventottesima edizione integrale, GU C 55A del 5.3.2010.
-[^20-3]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 21
 
@@ -512,8 +513,8 @@ Le organizzazioni di moltiplicazione sono tenute a:
 - c. organizzare e accompagnare le ispezioni ufficiali in campo;
 - d.[^22-2] fornire, su richiesta dell’UFAG, una descrizione ufficiale delle varietà le cui sementi devono essere certificate (s.l.).
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^22-2]: Introdotta dal n. I dell’O del DEFR dell’8 mar. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^22-2]: Introdotta dalla cifra I dell’O del DEFR dell’8 mar. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
 
 #### Art. 22a
 
@@ -537,9 +538,9 @@ Le organizzazioni di condizionamento sono tenute a:
 - b. fornire all’UFAG indicazioni esatte circa l’importazione, l’acquisto in Svizzera, l’accettazione, il condizionamento e la commercializzazione di sementi certificate (s.l.) e di sementi commerciali nonché il numero di etichette ufficiali utilizzate;
 - c.[^22a-3] eseguire la richiusura degli imballaggi di sementi sotto la vigilanza dell’UFAG.
 
-[^22a-1]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^22a-2]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^22a-3]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^22a-1]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^22a-2]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^22a-3]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 23
 
@@ -557,9 +558,9 @@ Le organizzazioni di condizionamento sono tenute a:
 
 <sup>6</sup> In caso di rifiuto di una coltura di moltiplicazione, il produttore può presentare un’opposizione scritta all’UFAG entro tre giorni feriali dalla notifica del rifiuto. L’UFAG è tenuto a eseguire una controperizia entro sette giorni feriali dalla ricezione dell’opposizione. Durante questo periodo non possono essere apportate modifiche allo stato della coltura di moltiplicazione.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^23-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^23-3]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^23-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^23-3]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 24
 
@@ -577,27 +578,27 @@ L’UFAG certifica (s.l.) un lotto di sementi se:
 
 <sup>3</sup> I lotti respinti possono venir presentati nuovamente per la certificazione (s.l.) dopo aver subito un ulteriore condizionamento (essiccazione, nuova cernita, ecc.). A tal fine dev’essere prelevato un nuovo campione ufficiale.
 
-<sup>4</sup> ...[^24-4]
+<sup>4</sup> …[^24-4]
 
-<sup>5</sup> L’UFAG rale può, sulla base dei risultati dell’analisi di un campione, certificare provvisoriamente un lotto di sementi non cernite e autorizzarne la commercializzazione fino al primo destinatario. Le organizzazioni di moltiplicazione sono tenute, su richiesta dell’UFAG, a produrre un elenco con nome e indirizzo del primo destinatario. Immediatamente dopo il condizionamento di un lotto, un campione ufficiale va prelevato e spedito a un laboratorio ufficiale. La commercializzazione dev’essere immediatamente interrotta se i risultati dell’analisi del campione ufficiale non soddisfano le esigenze stabilite nell’allegato 4.[^24-5]
+<sup>5</sup> L’UFAG può, sulla base dei risultati dell’analisi di un campione, certificare provvisoriamente un lotto di sementi non cernite e autorizzarne la commercializzazione fino al primo destinatario. Le organizzazioni di moltiplicazione sono tenute, su richiesta dell’UFAG, a produrre un elenco con nome e indirizzo del primo destinatario. Immediatamente dopo il condizionamento di un lotto, un campione ufficiale va prelevato e spedito a un laboratorio ufficiale. La commercializzazione dev’essere immediatamente interrotta se i risultati dell’analisi del campione ufficiale non soddisfano le esigenze stabilite nell’allegato 4.[^24-5]
 
 <sup>6</sup> In deroga al capoverso 1 e all’articolo 20 lettera f, le sementi di prebase e di base che, per quanto concerne la loro facoltà germinativa, non soddisfano le esigenze previste nell’allegato 4 possono essere certificate. Il fornitore dichiara su un’etichetta supplementare, contenente il proprio nome ed indirizzo, la facoltà germinativa del lotto.[^24-6]
 
 <sup>7</sup> Se una partita viene respinta sulla base del controllo ufficiale di laboratorio, il produttore può presentare un’opposizione scritta all’UFAG entro 30 giorni.[^24-7]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^24-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^24-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^24-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 [^24-3]: Nuovo testo giusta l’all. 13 n. 1 dell’O del DEFR e del DATEC del 14 nov. 2019 concernente l’O sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)).
-[^24-4]: Abrogato dal n. I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^24-5]: Nuovo testo giusta il n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^24-6]: Nuovo testo giusta il n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^24-7]: Introdotto dal n. I dell’O del DEFR del 2 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)).
+[^24-4]: Abrogato dalla cifra I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^24-5]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^24-6]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^24-7]: Introdotto dalla cifra I dell’O del DEFR del 2 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)).
 
 #### Art. 25
 
 [^25-1]
 
-[^25-1]: Abrogato dal n. I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^25-1]: Abrogato dalla cifra I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 26
 
@@ -611,8 +612,8 @@ L’UFAG certifica (s.l.) un lotto di sementi se:
 
 <sup>4</sup> Le persone per i compiti di cui all’articolo 23 non possono trarre profitto dall’esito dell’esame.[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^26-2]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^26-2]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 ### Sezione 5: Commercializzazione
 
@@ -643,17 +644,17 @@ Le sementi e i tuberi-seme possono essere commercializzati soltanto sotto forma 
 
 <sup>5</sup> L’UFAG può autorizzare la commercializzazione di piccole quantità di sementi e tuberi-seme che non soddisfano le esigenze di cui all’articolo 20 e destinati a prove sperimentali o scopi scientifici.[^27-5]
 
-<sup>6</sup> ...[^27-6]
+<sup>6</sup> …[^27-6]
 
 <sup>7</sup> In deroga alle disposizioni di cui all’articolo 20, l’UFAG può autorizzare la commercializzazione di sementi non ancora condizionate, sempreché siano state ispezionate in campo e che adempiano le esigenze di cui all’allegato 3. L’UFAG stabilisce, caso per caso, le esigenze che devono essere rispettate.[^27-7]
 
 [^27-1]: Vedi nota all’art. 20 lett. a.
-[^27-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^27-3]: Introdotto dal n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^27-4]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^27-5]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)).
-[^27-6]: Abrogato dal n. I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^27-7]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^27-3]: Introdotto dalla cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^27-4]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^27-5]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)).
+[^27-6]: Abrogato dalla cifra I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^27-7]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 27a
 
@@ -663,7 +664,7 @@ Le sementi e i tuberi-seme possono essere commercializzati soltanto sotto forma 
 
 <sup>2</sup> Gli imballaggi devono essere chiusi da una persona riconosciuta sotto la responsabilità di un’organizzazione di moltiplicazione o di condizionamento riconosciuta.
 
-[^27a-1]: Introdotto dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^27a-1]: Introdotto dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 27b
 
@@ -680,7 +681,7 @@ L’organizzazione di condizionamento deve effettuare le seguenti registrazioni 
 
 <sup>3</sup> L’UFAG può richiedere un campione ufficiale di sementi o tuberi-seme il cui imballagio è stato richiuso.
 
-[^27b-1]: Introdotto dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^27b-1]: Introdotto dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 28
 
@@ -712,7 +713,7 @@ Sull’etichetta di ogni imballaggio richiuso in aggiunta alle disposizioni prev
 
 <sup>5</sup> L’etichetta è stampata dall’organizzazione di moltiplicazione o di condizionamento. L’UFAG può autorizzare che le etichette siano stampate da un altro ente e nel luogo di imballaggio. Pone le condizioni per la stampa e riconosce la conformità dell’etichetta alle disposizioni della presente ordinanza. Può esigere che il numero d’ordine ufficiale dell’etichetta sia prestampato sotto la sua vigilanza.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 29
 
@@ -726,20 +727,22 @@ Sull’etichetta di ogni imballaggio richiuso in aggiunta alle disposizioni prev
 
 <sup>4</sup> L’UFAG può revocare l’autorizzazione se la varietà produce effetti collaterali inaccettabili per le persone, gli animali o l’ambiente.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 30
 
 **Varietà sperimentali**
 
-1 Le sementi e i tuberi-seme di varietà sperimentali possono essere commercializzati per moltiplicazione susseguente o a scopi scientifici senza che la varietà sia stata ammessa nel catalogo delle varietà, se:
+<sup>1</sup>
+
+Le sementi e i tuberi-seme di varietà sperimentali possono essere commercializzati per moltiplicazione susseguente o a scopi scientifici senza che la varietà sia stata ammessa nel catalogo delle varietà, se:
 
 - a. la varietà è stata notificata all’UFAG; e
 - b. le sementi o i tuberi-seme sono commercializzati con l’indicazione «varietà non ancora ufficialmente iscritta» ed «esclusivamente per prove e analisi».[^30-1]
 
 <sup>2</sup> L’UFAG può determinare la quantità massima di sementi o di tuberi-seme che possono essere commercializzati per ogni varietà sperimentale.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 31
 
@@ -762,7 +765,7 @@ Per la commercializzazione di quantitativi superiori a 2 kg di sementi importate
 - g. quantitativo di sementi;
 - h. numero di lotto.
 
-[^31a-1]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^31a-1]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 ## Capitolo 2: Disposizioni speciali
 
@@ -793,8 +796,8 @@ Le indicazioni relative al valore agronomico e di utilizzazione menzionate nell�
 
 <sup>4</sup> L’UFAG può respingere una domanda di ammissione se le indicazioni mostrano che per uno dei caratteri osservati la varietà raggiunge il valore eliminatorio previsto nell’allegato 2.
 
-[^32-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^32-2]: Introdotto dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^32-1]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^32-2]: Introdotto dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 33
 
@@ -814,7 +817,7 @@ La rete di prove è riconosciuta se:
 - b. le varietà standard, definite dall’UFAG, sono integrate nello schema sperimentale;
 - c. le prove sono eseguite secondo uno schema sperimentale che consenta l’analisi statistica dei risultati.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 34
 
@@ -828,7 +831,7 @@ Le organizzazioni di moltiplicazione sono tenute a:
 - b. notificare all’UFAG le sementi di moltiplicazione distribuite ai produttori riconosciuti;
 - c. fornire all’UFAG indicazioni esatte circa l’accettazione, il condizionamento e la commercializzazione di sementi certificate (s.l.) nonché il numero di etichette ufficiali utilizzate.
 
-<sup>2</sup> Un’organizzazione di moltiplicazione può gestire una o più centrali di cernita riconosciute dall’Ufficio federale. Ogni centrale di cernita deve soddisfare le esigenze previste dall’articolo 22 capoverso 1 lettere a e b.
+<sup>2</sup> Un’organizzazione di moltiplicazione può gestire una o più centrali di cernita riconosciute dall’UFAG. Ogni centrale di cernita deve soddisfare le esigenze previste dall’articolo 22 capoverso 1 lettere a e b.
 
 #### Art. 35
 
@@ -846,7 +849,7 @@ Le sementi di diverse varietà di una specie di cereali o le sementi di cereali 
 - b. la composizione del miscuglio è comunicata all’UFAG;
 - c. il miscuglio è condizionato da un’organizzazione di condizionamento riconosciuta dall’UFAG.
 
-[^35a-1]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^35a-1]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 ### Sezione 2: Patate
 
@@ -856,13 +859,13 @@ Le sementi di diverse varietà di una specie di cereali o le sementi di cereali 
 
 <sup>1</sup> L’articolo 32 capoversi 3 e 3<sup>bis</sup> si applica anche alle patate.[^36-2]
 
-<sup>2</sup> ...[^36-3]
+<sup>2</sup> …[^36-3]
 
 <sup>3</sup> L’UFAG può rifiutare una domanda di ammissione se i risultati dell’esame preliminare mostrano che la varietà non soddisfa le esigenze previste nell’allegato 2.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^36-3]: Abrogato dal n. I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^36-3]: Abrogato dalla cifra I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 37
 
@@ -900,9 +903,9 @@ Le organizzazioni di moltiplicazione sono tenute a:
 
 <sup>5</sup> Gli imballaggi di cui all’articolo 27*a* devono essere nuovi e i recipienti puliti ed esenti da residui di inibitori della germogliazione.[^38-3]
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^38-2]: Introdotto dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^38-3]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^38-2]: Introdotto dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^38-3]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 38a
 
@@ -914,7 +917,7 @@ Le organizzazioni di moltiplicazione sono tenute a:
 
 <sup>3</sup> Gli imballaggi di sementi di patate devono essere muniti di un’etichetta del fornitore. Questa deve contenere le indicazioni di cui all’allegato 5 capitolo B lettera C.
 
-[^38a-1]: Introdotto dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^38a-1]: Introdotto dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 39
 
@@ -952,10 +955,10 @@ Per le patate da semina che sono state ottenute mediante moltiplicazione in vitr
 - b. le disposizioni applicabili a queste patate da semina;
 - c. le designazioni applicabili per queste patate da semina.[^39-4]
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^39-2]: Introdotta dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^39-3]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^39-4]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^39-2]: Introdotta dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^39-3]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^39-4]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 39a
 
@@ -978,8 +981,8 @@ In deroga alle disposizioni dell’articolo 24, un lotto di tuberi-seme di patat
 
 <sup>2</sup> L’UFAG fissa la quantità massima per la certificazione (s.l.) in virtù del capo-verso 1.
 
-[^39a-1]: Introdotto dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^39a-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^39a-1]: Introdotto dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^39a-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 40
 
@@ -991,7 +994,7 @@ In deroga alle disposizioni dell’articolo 24, un lotto di tuberi-seme di patat
 
 <sup>3</sup> L’UFAG può prelevare campioni di tuberi-seme e sottoporli a controlli al fine di verificare se sono conformi alle prescrizioni della presente ordinanza, in particolare a quelle previste nell’allegato 6.
 
-### Sezione 3: Piante foraggere, piante oleaginose e da fibra****
+### Sezione 3: Piante foraggere, piante oleaginose e da fibra
 
 [^chap2-sec3-1]
 
@@ -1007,20 +1010,20 @@ In deroga alle disposizioni dell’articolo 24, un lotto di tuberi-seme di patat
 
 <sup>3</sup> L’UFAG può respingere una domanda di ammissione se le indicazioni mostrano che per uno dei caratteri osservati la varietà raggiunge il valore eliminatorio previsto nell’allegato 2.
 
-[^40a-1]: Introdotto dal n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^40a-2]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^40a-1]: Introdotto dalla cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^40a-2]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 40b
 
 [^40b-1]
 
-[^40b-1]: Introdotto dal n. I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogato dal n. I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^40b-1]: Introdotto dalla cifra I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogato dalla cifra I dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 41
 
 **Produzione di sementi certificate**
 
-<sup>1</sup> ...[^41-1]
+<sup>1</sup> …[^41-1]
 
 <sup>2</sup>
 
@@ -1030,9 +1033,9 @@ Le organizzazioni di moltiplicazione sono tenute a:
 - b. notificare all’UFAG le sementi di moltiplicazione distribuite ai produttori riconosciuti;
 - c. fornire all’UFAG indicazioni esatte circa l’accettazione, il condizionamento e la commercializzazione di sementi certificate (s.l.) nonché il numero di etichette ufficiali utilizzate.
 
-<sup>3</sup> Un’organizzazione di moltiplicazione può gestire una o più centrali di cernita riconosciute dall’Ufficio federale. Ogni centrale di cernita deve soddisfare le esigenze dell’articolo 22 capoverso 1 lettere a e b.
+<sup>3</sup> Un’organizzazione di moltiplicazione può gestire una o più centrali di cernita riconosciute dall’UFAG. Ogni centrale di cernita deve soddisfare le esigenze dell’articolo 22 capoverso 1 lettere a e b.
 
-[^41-1]: Abrogato dal n. I dell’O del DEFR dell’8 mar. 2002, con effetto dal 1<sup>o</sup> giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
+[^41-1]: Abrogato dalla cifra I dell’O del DEFR dell’8 mar. 2002, con effetto dal 1<sup>o</sup> giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
 
 #### Art. 42
 
@@ -1048,15 +1051,15 @@ In deroga alle disposizioni degli articoli da 20 a 24, l’UFAG ammette come sem
 
 <sup>2</sup> I campioni ufficiali sono prelevati e inviati al laboratorio dell’UFAG, immediatamente dopo la cernita dei singoli lotti, da una persona riconosciuta. L’organizzazione di moltiplicazione conserva per almeno un anno un doppio di ogni singolo campione ufficiale. Il peso dei lotti e dei campioni è stabilito nell’allegato 4.
 
-<sup>3</sup> ...[^42-1]
+<sup>3</sup> …[^42-1]
 
-[^42-1]: Abrogato dal n. I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^42-1]: Abrogato dalla cifra I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 43
 
 [^43-1]
 
-[^43-1]: Abrogato dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^43-1]: Abrogato dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 44
 
@@ -1068,15 +1071,15 @@ In deroga alle disposizioni degli articoli da 20 a 24, l’UFAG ammette come sem
 
 <sup>3</sup> Per l’etichettatura di piccoli imballaggi di cui al capoverso 1 si applica l’articolo 28 capoversi 1, 4 e 5. In deroga all’articolo 28 capoverso 1 l’etichetta può essere stampata sull’imballaggio.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 45
 
 **Commercializzazione**
 
-<sup>1</sup> ...[^45-1]
+<sup>1</sup> …[^45-1]
 
-<sup>1bis</sup> ...[^45-2]
+<sup>1bis</sup> …[^45-2]
 
 <sup>2</sup> Possono essere commercializzati anche lotti omogenei di sementi della categoria «sementi commerciali» delle specie seguenti:[^45-3]
 
@@ -1120,11 +1123,11 @@ In deroga alle disposizioni degli articoli da 20 a 24, l’UFAG ammette come sem
 
 <sup>6</sup> La prima commercializzazione di miscugli di sementi e di piccoli imballaggi di piante foraggere prodotti in Svizzera è riservata alle organizzazioni di condizionamento riconosciute giusta l’articolo 22*a*.[^45-5]
 
-[^45-1]: Abrogato dal n. I dell’O del DEFR dell’8 mar. 2002, con effetto dal 1<sup>o</sup> giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
-[^45-2]: Introdotto dal n. I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogato dal n. I dell’O del DEFR dell’8 mar. 2002, con effetto dal 1<sup>o</sup> giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
-[^45-3]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^45-4]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
-[^45-5]: Nuovo testo giusta il n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^45-1]: Abrogato dalla cifra I dell’O del DEFR dell’8 mar. 2002, con effetto dal 1° giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
+[^45-2]: Introdotto dalla cifra I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogato dalla cifra I dell’O del DEFR dell’8 mar. 2002, con effetto dal 1<sup>o</sup> giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
+[^45-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^45-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^45-5]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 46
 
@@ -1150,18 +1153,18 @@ In deroga alle disposizioni del capoverso 1 lettera b:
 - c.[^46-5] previa autorizzazione dell’UFAG, i miscugli di sementi destinati a scopi speciali possono contenere sementi di specie diverse da quelle menzionate nell’allegato 1;
 - d. [^46-6] previa autorizzazione dell’UFAG, i miscugli di sementi possono contenere sementi delle varietà di cui all’articolo 29.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^46-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^46-3]: Introdotta dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^46-4]: Introdotta dal n. I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
-[^46-5]: Introdotta dal n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^46-6]: Introdotta dal n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^46-3]: Introdotta dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^46-4]: Introdotta dalla cifra I dell’O del DEFR del 2 mag. 2005, in vigore dal 10 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
+[^46-5]: Introdotta dalla cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^46-6]: Introdotta dalla cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
-### Sezione 4:**** Barbabietole
+### Sezione 4: Barbabietole
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Nuovo testo giusta il n. I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
+[^chap2-sec4-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 dic. 1999, in vigore dal 1° feb. 2000 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)).
 
 #### Art. 47
 
@@ -1175,7 +1178,7 @@ In deroga alle disposizioni del capoverso 1 lettera b:
 
 [^48-1]
 
-[^48-1]: Abrogato dal n. I dell’O del DEFR dell’8 mar. 2002, con effetto dal 1<sup>o</sup> giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
+[^48-1]: Abrogato dalla cifra I dell’O del DEFR dell’8 mar. 2002, con effetto dal 1<sup>o</sup> giu. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
 
 #### Art. 49
 
@@ -1189,15 +1192,15 @@ Abrogato
 
 <sup>1</sup> L’UFAG è preposto all’esecuzione della presente ordinanza e può emanare le necessarie disposizioni d’esecuzione.
 
-<sup>2</sup> ...[^50-1]
+<sup>2</sup> …[^50-1]
 
-[^50-1]: Introdotto dal n. I dell’O del DEFR dell’8 mar. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)). Abrogato dal n. I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^50-1]: Introdotto dalla cifra I dell’O del DEFR dell’8 mar. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)). Abrogato dalla cifra I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 50a
 
 [^50a-1]
 
-[^50a-1]: Introdotto dal n. I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogato dal n. I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^50a-1]: Introdotto dalla cifra I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogato dalla cifra I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 51
 
@@ -1205,25 +1208,25 @@ Abrogato
 
 Le sementi di ortaggi di cui all’allegato 1 prodotte prima del 31 dicembre 2010, possono essere commercializzate conformemente al diritto previgente fino al 31 dicembre 2012.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 7 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 51a
 
 [^51a-1]
 
-[^51a-1]: Introdotto dal n. I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogato dal n. I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^51a-1]: Introdotto dalla cifra I dell’O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Abrogato dalla cifra I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 51b
 
 [^51b-1]
 
-[^51b-1]: Introdotto dal n. I dell’O del DEFR dell’8 mar. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)). Abrogato dal n. I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^51b-1]: Introdotto dalla cifra I dell’O del DEFR dell’8 mar. 2002 ([RU 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)). Abrogato dalla cifra I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 51c
 
 [^51c-1]
 
-[^51c-1]: Introdotto dal n. I dell’O del DEFR del 2 nov. 2006 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)). Abrogato dal n. I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
+[^51c-1]: Introdotto dalla cifra I dell’O del DEFR del 2 nov. 2006 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)). Abrogato dalla cifra I dell’O del DEFR del 7 giu. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
 #### Art. 51d
 
@@ -1247,7 +1250,7 @@ Le sementi di ortaggi di cui all’allegato 1 prodotte prima del 31 dicembre 201
 <tr><td>Classe E</td><td>Classe A</td></tr>
 </table>
 
-[^51d-1]: Introdotto dal n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^51d-1]: Introdotto dalla cifra I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 52
 
@@ -1255,13 +1258,13 @@ Le sementi di ortaggi di cui all’allegato 1 prodotte prima del 31 dicembre 201
 
 La presente ordinanza entra in vigore il 1° gennaio 1999.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 1, 13, 46)
 
 ## Lista dei generi e delle specie
 
-[^t-2]: Aggiornato dal n. II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)) e dal n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-2]: Aggiornato dalla cifra II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)) e dalla cifra II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ### Capitolo A: Generi e specie per i quali può venir allestito un catalogo delle varietà
 
@@ -1459,13 +1462,13 @@ Allegato 1*[^t-2]*
 <tr><td>– var. mais soffiato</td><td>Mais soffiato</td></tr>
 </table>
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 14, 32, 36, 49)
 
 ## Esigenze concernenti il valore agronomico e di utilizzazione
 
-[^t-3]: Aggiornato dal n. II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 2 nov. 2006 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)) e dal n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-3]: Aggiornato dalla cifra II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 2 nov. 2006 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)) e dalla cifra II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ### Capitolo A: Esigenze concernenti il valore agronomico e di utilizzazione dei cereali
 
@@ -1588,25 +1591,25 @@ vs = valore assoluto
 ### 2.1 Avena
 
 <table>
-<tr><th colspan="2">Caratteri osservati</th><th colspan="2"></th><th colspan="2">Valori eliminatori</th><th></th><th colspan="3">Differenze necessarie per l’ottenimento di un bonus o di un malus rispetto alla media delle varietà standard</th></tr>
-<tr><th></th><th colspan="3">unità</th><th>valori considerati per le prove preliminari</th><th colspan="2">valori considerati per le prove d’omologazione</th><th colspan="2">bonus (+1)</th><th>malus (–1)</th></tr>
-<tr><td colspan="10">Caratteri principali</td></tr>
-<tr><td>Rdt. granella (15% H<sub>2</sub>O)</td><td colspan="3">in q/ha</td><td></td><td colspan="2">&lt; –5 (rdt. std)</td><td colspan="2"></td><td></td></tr>
-<tr><td>Allettamento</td><td colspan="3">nota (1-9)</td><td>&gt; 5 (vs)</td><td colspan="2">≥ 2 (vs)</td><td colspan="2">≤ –1</td><td>≥ +1</td></tr>
-<tr><td>Precocità</td><td colspan="3">spigatura</td><td></td><td colspan="2">&gt; 5 (vs)</td><td colspan="2">≤ –2</td><td>≥ +3</td></tr>
-<tr><td></td><td colspan="3">std ± giorni</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>PE</td><td colspan="3">kg</td><td>&lt; 48 (vs)</td><td colspan="2">&lt; 48 (vs)</td><td colspan="2">≥ +1</td><td>≤ –2</td></tr>
-<tr><td>Mal bianco</td><td colspan="3">nota (1-9)</td><td>&gt; 6 (vs)</td><td colspan="2">≥ 6 (vs)</td><td colspan="2">≤ –1</td><td>≥ +1</td></tr>
-<tr><td>Proteina</td><td colspan="3">%</td><td>&lt; 9 (vs)</td><td colspan="2">&lt; 9 (vs)</td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="10">Caratteri circostanziali</td></tr>
-<tr><td>Danni dell’inverno</td><td colspan="3">nota (1-9)</td><td></td><td colspan="2">&gt; 3 (std)</td><td colspan="2">≤ –2</td><td>≥ +2</td></tr>
-<tr><td>(avena autunnale)</td><td colspan="3"></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>Altre osservazioni</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>Altezza della pianta</td><td colspan="2">cm</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>PMG</td><td colspan="2">g</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>Colore della granella Fibra grezza</td><td colspan="2">g/MS</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>Sfalcio verde: – Rdt. in semine pure</td><td colspan="2">% MS</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>– Rdt. in miscuglio</td><td colspan="2">[tab] % MS</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td>[tab]</td><td colspan="2">[tab]</td></tr>
+<tr><th colspan="2">Caratteri osservati</th><th></th><th colspan="2">Valori eliminatori</th><th></th><th colspan="2">Differenze necessarie per l’ottenimento di un bonus o di un malus rispetto alla media delle varietà standard</th><th></th></tr>
+<tr><th></th><th colspan="2">unità</th><th>valori considerati per le prove preliminari</th><th colspan="2">valori considerati per le prove d’omologazione</th><th>bonus (+1)</th><th colspan="2">malus (–1)</th></tr>
+<tr><td colspan="9">Caratteri principali</td></tr>
+<tr><td>Rdt. granella (15% H<sub>2</sub>O)</td><td colspan="2">in q/ha</td><td></td><td colspan="2">&lt; –5 (rdt std)</td><td></td><td colspan="2"></td></tr>
+<tr><td>Allettamento</td><td colspan="2">nota (1–9)</td><td>&gt; 5 (vs)</td><td colspan="2">≥ 2 (std)</td><td>≤ –1</td><td colspan="2">≥ +1</td></tr>
+<tr><td>Precocità</td><td colspan="2">spigatura std ± giorni</td><td></td><td colspan="2">&gt; 5 (std)</td><td>≤ –2</td><td colspan="2">≥ +3</td></tr>
+<tr><td>PE</td><td colspan="2">kg</td><td>&lt; 48 (vs)</td><td colspan="2">&lt; 48 (vs)</td><td>≥ +1</td><td colspan="2">≤ –2</td></tr>
+<tr><td>Mal bianco</td><td colspan="2">nota (1–9)</td><td>&gt; 6 (vs)</td><td colspan="2">≥ 6 (vs)</td><td>≤ –1</td><td colspan="2">≥ +1</td></tr>
+<tr><td>Proteina</td><td colspan="2">%</td><td>&lt; 9 (vs)</td><td colspan="2">&lt; 9 (vs)</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="9">Caratteri circostanziali</td></tr>
+<tr><td>Danni dell’inverno (avena autunnale)</td><td colspan="2">nota (1–9)</td><td></td><td colspan="2">&gt; 3 (std)</td><td>≤ –2</td><td colspan="2">≥ +2</td></tr>
+<tr><td colspan="9">Altre osservazioni</td></tr>
+<tr><td>Altezza della pianta</td><td colspan="2">cm</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>PMG</td><td colspan="2">g</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>Colore della granella Fibra grezza</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>Fibre brute</td><td colspan="2">g/MS</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>Sfalcio verde:</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>– Rdt. in semine pure</td><td colspan="2">% MS</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>– Rdt. in miscuglio</td><td colspan="2">% MS</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 </table>
 
 ### 2.2 Orzo
@@ -1701,7 +1704,7 @@ vs = valore assoluto
 <tr><td colspan="7"><sup>2</sup> carattere non tenuto in considerazione per il frumento per la fabbricazione di biscotti.</td></tr>
 </table>
 
-### 5 Spelta
+### 2.5 Spelta
 
 <table>
 <tr><th colspan="2">Caratteri osservati</th><th></th><th colspan="2">Valori eliminatori</th><th></th><th colspan="2">Differenze necessarie per l’ottenimento di un bonus o di un malus rispetto alla media delle varietà standard</th></tr>
@@ -1806,7 +1809,7 @@ vs = valore assoluto
 <table>
 <tr><th>Caratteri considerati per il calcolo degli indici</th><th>Risultato della varietà in esame</th><th colspan="2">Valore medio delle due migliori varietà standard</th><th>Fattore di pondera-zione</th><th>Formula di calcolo degli indici</th></tr>
 <tr><td colspan="6">Indice rendimento (A)</td></tr>
-<tr><td>Rendimento in q/ha di granella al 15 % H<sub>2</sub>O</td><td>a<sub>1</sub></td><td colspan="2">a<sub>2</sub></td><td>1,0</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20210101/it/xml/image/image1.png)</td></tr>
+<tr><td>Rendimento in q/ha di granella al 15 % H<sub>2</sub>O</td><td>a<sub>1</sub></td><td colspan="2">a<sub>2</sub></td><td>1,0</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/it/xml/image/image1.png)</td></tr>
 <tr><td colspan="6">Indice precocità (B)</td></tr>
 <tr><td>Contenuto in materia secca della granella al raccolto (%)</td><td>b<sub>1</sub></td><td>b<sub>2</sub></td><td colspan="2">2,5</td><td>(b<sub>1</sub> – b<sub>2</sub>) x 2,5 = B</td></tr>
 <tr><td colspan="6">Indice resistenza all’allettamento (C)</td></tr>
@@ -1920,7 +1923,7 @@ Per determinati caratteri menzionati al numero 4 del presente capitolo sono fiss
 <tr><td colspan="6">Sviluppo e malattie di tipo parassitario in campo</td></tr>
 <tr><td>Regolarità della levata (nota)</td><td>c–a</td><td>1.0</td><td></td><td>1.0</td><td></td></tr>
 <tr><td>Peronospora delle foglie (nota)</td><td>c–a</td><td>3.0</td><td></td><td>3.0</td><td></td></tr>
-<tr><td>[tab] Virosi</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Virosi</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– mosaico (Y) (%)</td><td>c–a</td><td>1.0</td><td></td><td>1.0</td><td></td></tr>
 <tr><td>– accartocciamento delle foglie (R) (%)</td><td>c–a</td><td>1.0</td><td></td><td>1.0</td><td></td></tr>
 <tr><td>Erwinia (%)</td><td>c–a</td><td>1.0</td><td></td><td>1.0</td><td></td></tr>
@@ -1933,7 +1936,7 @@ Per determinati caratteri menzionati al numero 4 del presente capitolo sono fiss
 <tr><td>Rhizoctonia</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– pustola</td><td>c–a</td><td>0.1</td><td></td><td>0.1</td><td></td></tr>
 <tr><td>– deformante</td><td>c–a</td><td>1.0</td><td>&gt; 5.0</td><td>1.0</td><td>&gt; 5.0</td></tr>
-<tr><td>[tab] Scabbia</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Scabbia</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– comune</td><td>c–a</td><td>0.5</td><td></td><td>0.5</td><td></td></tr>
 <tr><td>– polverulenta</td><td>c–a</td><td>1.0</td><td>&gt; 5.0</td><td>1.0</td><td>&gt; 5.0</td></tr>
 <tr><td>– argentea</td><td>c–a</td><td>0.25</td><td></td><td>0.25</td><td></td></tr>
@@ -1999,11 +2002,9 @@ Il valore globale è calcolato sulla base della media dei risultati delle prove.
 
 Il valore globale di ogni specie è calcolato applicando la formula seguente:
 
-X = (somma delle note per i caratteri osservati secondo la priorità A) x 2
-
-Y =. (somma delle note per i caratteri osservati secondo la priorità B)
-
-Z = numero di note
+- X = (somma delle note per i caratteri osservati secondo la priorità A) x 2
+- Y = (somma delle note per i caratteri osservati secondo la priorità B)
+- Z = numero di note
 
 Il valore globale della varietà è calcolato applicando la formula: (X + Y)/Z
 
@@ -2019,11 +2020,14 @@ I bonus e i malus sono correzioni sotto forma di punti aggiunti o sottratti, cal
 
 - a. I caratteri osservati considerati per il calcolo del valore globale di ogni specie nonché la loro priorità sono fissati nella tabella 1 del presente capitolo.
 - b. La scala delle note è graduata da 1 a 9: 1 è la nota migliore, 9 la peggiore.
-- c. Le note vengono attribuite in base ai sistemi di valutazione seguenti:
+- c.
+
+  Le note vengono attribuite in base ai sistemi di valutazione seguenti:
+
+  - 1\. Secondo l’analisi statistica:
 
 <table>
 <tr><td></td><td></td><td>Note</td></tr>
-<tr><td>1. Secondo l’analisi statistica:</td><td></td><td></td></tr>
 <tr><td>Valore rispetto alla media della prova (o degli standard)</td><td></td><td></td></tr>
 <tr><td>Differenza positiva:</td><td>&gt; ppds (p = 0,01)</td><td>1</td></tr>
 <tr><td></td><td>&gt; ppds (p = 0,05)</td><td>2</td></tr>
@@ -2036,7 +2040,7 @@ I bonus e i malus sono correzioni sotto forma di punti aggiunti o sottratti, cal
 <tr><td></td><td>&gt; ppds (p = 0,01)</td><td>9</td></tr>
 </table>
 
-- [tab] 2. Secondo la valutazione:
+- 2\. Secondo la valutazione:
 
 <table>
 <tr><td>Nota</td><td>Valore alla levata Facoltà di ricaccio Resistenza alle malattie<sup>1</sup></td><td>Forza di concorrenza (100 - parte in %) della varietà / 10 = indice di concorrenza</td><td>Costituzione della foglia</td><td>Persistenza Lacune in % della copertura del suolo</td></tr>
@@ -2132,7 +2136,7 @@ Favetta, pisello da foraggio e lupino
 <tr><td>Peso di mille grani:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– pisello da foraggio e lupino azzurro</td><td>b–a</td><td>g</td><td></td><td></td><td>+20</td><td>–20</td></tr>
 <tr><td>– favetta e lupino bianco</td><td>b– a</td><td>g</td><td></td><td></td><td>+30</td><td>–30</td></tr>
-<tr><td>Tenore proteico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20210101/it/xml/image/image2.png)</td><td>%</td><td></td><td>&lt; –10</td><td>+2</td><td>–2</td></tr>
+<tr><td>Tenore proteico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/it/xml/image/image2.png)</td><td>%</td><td></td><td>&lt; –10</td><td>+2</td><td>–2</td></tr>
 <tr><td>Idoneità al taglio (altezza delle piante al raccolto)</td><td>b–a</td><td>cm</td><td></td><td></td><td>+5</td><td>–5</td></tr>
 <tr><td>Stato sanitario</td><td>b–a</td><td>Note</td><td></td><td></td><td>+1</td><td>–1</td></tr>
 <tr><td>Danni dell’inverno pisello autunnale (riduzione della coltura)</td><td>b–a</td><td>%</td><td></td><td></td><td>+10</td><td>–10</td></tr>
@@ -2150,17 +2154,9 @@ L’esame distingue tra colture di semi oleaginosi delle specie colza autunnale,
 
 ### 1.1 Caratteri osservati
 
-- a. Caratteri principali:
-
-devono essere osservati nelle prove preliminari e nelle prove ufficiali.
-
-- b. Caratteri circostanziali:
-
-devono essere osservati sempreché le condizioni lo permettano.
-
-- c. Altre osservazioni:
-
-si tratta di informazioni supplementari e dell’osservazione di problemi particolari. Questi caratteri non sono sistematicamente considerati per l’esame della varietà.
+- a. Caratteri principali: devono essere osservati nelle prove preliminari e nelle prove ufficiali.
+- b. Caratteri circostanziali: devono essere osservati sempreché le condizioni lo permettano.
+- c. Altre osservazioni: si tratta di informazioni supplementari e dell’osservazione di problemi particolari. Questi caratteri non sono sistematicamente considerati per l’esame della varietà.
 
 ### 1.2 Valori eliminatori
 
@@ -2282,7 +2278,7 @@ Senape bruna, senape bianca e ravizzone
 <tr><td colspan="6">Nota: 1 = molto buona, 3 = buona, 5 = sufficiente, 7 = scadente, 9 = molto scadente</td></tr>
 </table>
 
-### Capitolo E: Esigenze concernenti il valore agronomico e di utilizzazione della barbabietola da zucchero e della barbabietola da foraggio
+### Capitolo E Esigenze concernenti il valore agronomico e di utilizzazione della barbabietola da zucchero e della barbabietola da foraggio
 
 ### 1 In generale
 
@@ -2293,13 +2289,8 @@ L’esame distingue fra barbabietole da zucchero che tollerano la rizomania, bar
 ### 1.2 Caratteri osservati
 
 - a. Caratteri principali: devono essere sistematicamente osservati nelle prove ufficiali.
-- b. Caratteri circostanziali:
-
-devono essere osservati sempreché le condizioni lo permettano.
-
-- c. Altre osservazioni:
-
-si tratta di informazioni supplementari e dell’osservazione di problemi particolari. Questi caratteri non sono sistematicamente considerati per l’esame della varietà.
+- b. Caratteri circostanziali: devono essere osservati sempreché le condizioni lo permettano.
+- c. Altre osservazioni: si tratta di informazioni supplementari e dell’osservazione di problemi particolari. Questi caratteri non sono sistematicamente considerati per l’esame della varietà.
 
 ### 1.3 Valori eliminatori
 
@@ -2392,13 +2383,13 @@ B. Barbabietole da foraggio
 <tr><td colspan="5">Valore globale = rendimento in sostanza secca + punto(i) bonus</td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 3–5, 7–10, 23, 38 e 39*a*)
 
 ## Ispezione in campo ed esigenze poste alle colture
 
-[^t-4]: Aggiornato dal n. II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 2 nov. 2006 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), dall’all. 13 n. 1 dell’O del DEFR e del DATEC del 14 nov. 2019 concernente l’O sulla salute dei vegetali ([RU 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)) e dal n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-4]: Aggiornato dalla cifra II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 2 nov. 2006 ([RU 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), dall’all. 13 n. 1 dell’O del DEFR e del DATEC del 14 nov. 2019 concernente l’O sulla salute dei vegetali ([RU 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)), dalla cifra II cpv. 1 dell’O del DEFR dell’11 nov. 2020 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)) e dalla cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 640](https://fedlex.data.admin.ch/eli/oc/2024/640)).
 
 ### Capitolo A: Ispezione in campo ed esigenze poste alle colture di cereali
 
@@ -2437,11 +2428,15 @@ Sono valutati i seguenti criteri:
 
 Le colture sono valutate in base alla seguente scala:
 
-- [tab] 1 = ottime
-- [tab] 3 = buone
-- [tab] 5 = sufficienti
-- [tab] 7 = scadenti
-- [tab] 9 = molto scadenti
+1 = ottime
+
+3 = buone
+
+5 = sufficienti
+
+7 = scadenti
+
+9 = molto scadenti
 
 Se una nota è inferiore a 5, la coltura è respinta.
 
@@ -2467,10 +2462,10 @@ Ibridi, linee inbred e varietà ad impollinazione libera del granturco
 
 <table>
 <tr><td></td><td></td><td>Per cento</td></tr>
-<tr><td>1. produzione di sementi di base:</td><td>[tab] linea inbred</td><td>[tab] 0,1</td></tr>
+<tr><td>1. produzione di sementi di base:</td><td>linea inbred</td><td>0,1</td></tr>
 <tr><td></td><td>ibrido semplice</td><td>0,1</td></tr>
 <tr><td></td><td>varietà ad impollinazione libera</td><td>0,5</td></tr>
-<tr><td>2. produzione di sementi certificate:</td><td>[tab] componenti di varietà ibride</td><td></td></tr>
+<tr><td>2. produzione di sementi certificate:</td><td>componenti di varietà ibride</td><td></td></tr>
 <tr><td></td><td>– linea inbred</td><td>0,2</td></tr>
 <tr><td></td><td>– ibrido semplice</td><td>0,2</td></tr>
 <tr><td></td><td>– varietà ad impollinazione libera</td><td>1,0</td></tr>
@@ -2587,7 +2582,7 @@ Le distanze d’isolamento fra la coltura e le fonti vicine di pollini che posso
 <tr><td>– per la produzione di sementi certificate</td><td>250</td></tr>
 <tr><td>Triticale (varietà autogame)</td><td></td></tr>
 <tr><td>– per la produzione di sementi di base</td><td>50</td></tr>
-<tr><td>– per la produzione di sementi certificate</td><td>[tab] 20</td></tr>
+<tr><td>– per la produzione di sementi certificate</td><td>20</td></tr>
 <tr><td>Ibridi di avena, orzo, grano tenero, spelta</td><td></td></tr>
 <tr><td>Ibridi di avena, orzo, grano tenero, spelta, eccetto ibridi CMS di orzo</td><td>25 m</td></tr>
 </table>
@@ -2651,7 +2646,7 @@ Sulle particelle di moltiplicazione non si può coltivare la stessa specia per a
 
 ### 1 Condizioni relative alla superficie coltiva
 
-- 1\.1 ...
+- 1\.1 …
 - 1\.2 Rispetto a colture vicine indesiderate devono essere mantenute le seguenti distanze d’isolamento:
 
 <table>
@@ -2759,9 +2754,13 @@ L’UFAG fissa il numero di anni di raccolto autorizzati per ogni specie o grupp
 
 ### 3 Numero ed epoca delle ispezioni
 
-Dev’essere effettuata almeno un’ispezione delle colture.
+- 3\.1 Deve aver luogo almeno un’ispezione delle colture di moltiplicazione per raccolto o, nel caso delle colture per le quali sono possibili diversi anni di raccolto o diversi raccolti all’anno, per crescita del raccolto.
+- 3\.2
 
-Le colture devono essere in uno stato di sviluppo che consente di esprimere una valutazione corretta.
+  L’ispezione deve aver luogo nel seguente momento:
+
+  - – graminacee: durante la comparsa delle infiorescenze;
+  - – leguminose e crocifere: durante la fioritura.
 
 ### 4 Valutazione e limiti di tolleranza
 
@@ -2774,24 +2773,33 @@ Sono valutati i seguenti criteri:
 
 ### 4.1 Stato generale
 
-Le colture sono valutate in base alla seguente scala:
+- 4\.1.1
 
-- [tab] 1 = ottime
-- [tab] 3 = buone
-- [tab] 5 = sufficienti
-- [tab] 7 = scadenti
-- [tab] 9 = molto scadenti
+  Devono essere eseguite le seguenti misure di cura:
 
-Se una nota è inferiore a 5, la particella è respinta.
+  - a. sfalcio dei bordi del campo;
+  - b. sfalcio delle strisce divisorie dalle colture vicine.
 
-Le colture destinate alla produzione di sementi devono essere sane e sviluppate normalmente. La presenza di uno o più difetti enumerati qui appresso può pregiudicare la valutazione di altri caratteri (p. es. la purezza varietale).
+- 4\.1.2
 
-L’attribuzione della nota considera la possibilità di valutare correttamente le colture e le cure prestate alla coltura. Sono valutati i seguenti criteri:
+  Le colture sono valutate in base alla seguente scala:
 
-- a. irregolarità,
-- b. presenza di malerbe,
-- c. presenza di malattie o di parassiti,
-- d. allettamento.
+  - [tab] 1 = ottime
+  - [tab] 3 = buone
+  - [tab] 5 = sufficienti
+  - [tab] 7 = scadenti
+  - [tab] 9 = molto scadenti
+
+- 4\.1.3 Se una nota è inferiore a 5, la coltura di moltiplicazione è respinta.
+- 4\.1.4
+
+  Sono valutati i seguenti criteri:
+
+  - a. irregolarità;
+  - b. crescita di piante spontanee;
+  - c. presenza di malerbe;
+  - d. danni causanti da organismi nocivi o animali selvatici;
+  - e. danni causati dal maltempo.
 
 ### 4.2 Identità e purezza varietali
 
@@ -2806,8 +2814,8 @@ Numero massimo di piante non conformi
 <tr><th>Specie</th><th>sementi di prebase e di base</th><th>sementi certificate di prima riproduzione</th></tr>
 <tr><td>Lolium e Festulolium spp.</td><td>2</td><td>10</td></tr>
 <tr><td>*Poa pratensis*</td><td></td><td></td></tr>
-<tr><td>– varietà apomittiche monoclonali</td><td>[tab] 5</td><td>[tab] 60</td></tr>
-<tr><td>– altre varietà</td><td>[tab] 5</td><td>[tab] 40</td></tr>
+<tr><td>– varietà apomittiche monoclonali</td><td>5</td><td>60</td></tr>
+<tr><td>– altre varietà</td><td>5</td><td>40</td></tr>
 <tr><td>Graminacee (tranne *Lolium, x Festulolium* e *Poa* spp.)</td><td>3</td><td>10</td></tr>
 <tr><td>Leguminose (tranne *Pisum* e *Vicia* spp.)</td><td>3</td><td>10</td></tr>
 </table>
@@ -2821,15 +2829,6 @@ Purezza varietale
 <tr><td colspan="3">*Brassica* spp.<sup>1</sup>*, Poa pratensis*<sup>2</sup></td><td colspan="2">99,7</td><td colspan="2">98</td><td></td></tr>
 <tr><td colspan="8"><sup>1</sup> Concerne unicamente le specie *Pisum*, *Vicia* e *Brassica* spp. menzionate nell’allegato 1 numeri 3.2 e 3.3</td></tr>
 <tr><td colspan="8"><sup>2</sup> Varietà che sono state classificate apomittiche monoclonali</td></tr>
-</table>
-
-Piante di ricaccio
-
-<table>
-<tr><td></td><td colspan="2">Numero massimo di piante generative recanti semi per m<sup>2</sup></td></tr>
-<tr><td>Specie</td><td>Sementi di prebase e di base</td><td>Sementi certificate di prima riproduzione</td></tr>
-<tr><td>Leguminose</td><td>0</td><td>10</td></tr>
-<tr><td>Graminacee</td><td>0</td><td>10</td></tr>
 </table>
 
 ### 4.3 Distanza d’isolamento
@@ -2848,22 +2847,32 @@ Queste distanze non devono essere osservate se esiste una protezione sufficiente
 
 **4.3.2** Le colture per la produzione di sementi di specie autogame (*Pisum sativum, Vicia faba*) o delle varietà di *Poa pratensis* ammesse come apomittiche monoclonali devono essere chiaramente separate da qualsiasi altra coltura.
 
-### 4.4 Altre specie indesiderabili
+### 4.4 Altre specie
 
 <table>
 <tr><th></th><th></th><th colspan="2">Numero massimo di piante tollerato</th></tr>
 <tr><th></th><th></th><th colspan="2">Particelle di produzione di:</th></tr>
-<tr><th>Specie</th><th>Altre specie indesiderabili</th><th>sementi di prebase e di base</th><th>sementi certificate di prima riproduzione</th></tr>
-<tr><td>*Trifolium* spp.</td><td>*Trifolium, Medicago, Meliotus* e *Lotus* spp.(\*)</td><td>4 per ara</td><td>20 per ara</td></tr>
+<tr><th>Specie</th><th>Altre specie</th><th>sementi di prebase e di base</th><th>sementi certificate di prima riproduzione</th></tr>
+<tr><td>Tutte le specie di graminacee (tranne *Alopecurus pratensis*)</td><td>Graminacee, tranne *Lolium* spp. (\*)</td><td>4 per ara</td><td>15 per ara</td></tr>
+<tr><td></td><td>*Lolium* spp.</td><td>1 per ara</td><td>10 per ara</td></tr>
+<tr><td></td><td>*Alopecurus myosuroides*</td><td>2 per ara</td><td>10 per ara</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Meliotus* e *Lotus* spp.</td><td>10 per ara</td><td>20 per ara</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 per ha</td><td>3 per ha</td></tr>
+<tr><td>*Alopecurus* *pratensis*</td><td>Graminacee (\*)</td><td>4 per ara</td><td>15 per ara</td></tr>
+<tr><td></td><td>*Alopecurus myosuroides*</td><td>1 per ara</td><td>5 per ara</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Meliotus* e *Lotus* spp.</td><td>10 per ara</td><td>20 per ara</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 pro ha</td><td>3 pro ha</td></tr>
+<tr><td>Tutte le specie di leguminose (tranne *Onobrychis viciifolia*)</td><td>Graminacee, tranne *Poa* spp.</td><td>30 per ara</td><td>80 per ara</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Melilotus* e *Lotus* spp.</td><td>4 per ara</td><td>10 per ara</td></tr>
 <tr><td></td><td>*Cuscuta* spp. (cuscuta del trifoglio)</td><td>0</td><td>0</td></tr>
-<tr><td></td><td>*Rumex obtusifolius, Rumex crispus* (romice crespo)</td><td>10 per ha</td><td>20 per ha</td></tr>
-<tr><td>*Lolium* spp. *o x Festulolium* spp.</td><td>altri *Lolium* spp.</td><td>2 per ara</td><td>10 per ara</td></tr>
-<tr><td>Graminacee</td><td>altre graminacee(\*\*)</td><td>4 per ara</td><td>20 per ara</td></tr>
-<tr><td></td><td>*Rumex obtusifolius, Rumex crispus* (romice crespo)</td><td>10 per ha</td><td>20 per ha</td></tr>
-<tr><td></td><td>*Alopecurus myosuroides* e *Bromus* spp.</td><td>4 per ara</td><td>10 per ara</td></tr>
-<tr><td>*Pisum e Vicia* spp.</td><td>altri *Pisum,Vicia* spp. e *Raphanus* spp.</td><td>4 per ara</td><td>20 per ara</td></tr>
-<tr><td colspan="4">(\*) tranne: *Trifolium repens* nel *Trifolium pratense*</td></tr>
-<tr><td colspan="4">(\*\*) tranne: spica venti (*Apera spicaventi*) per tutte le specie; specie di poa (*Poa* spp.) per tutte le specie tranne le altre specie di poa; *Phleum* spp. per tutte le specie, tranne le altre specie di *Phleum* spp.</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 pro ha</td><td>3 pro ha</td></tr>
+<tr><td></td><td>*Polygonum* spp., *Plantago* spp., *Silene* spp., *Lychnis* spp., *Geranium* spp., *Sinapis* *arvensis**,* *Chenopodium album, Echinochioa crus-galli, Setaria* *glauca, Cirsium* spp.</td><td>5 per ara</td><td>10 per ara</td></tr>
+<tr><td>*Onobrychis* *viciifolia*</td><td>Graminacee, tranne *Poa* spp.</td><td>30 per ara</td><td>80 per ara</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Melilotus e Lotus* spp.</td><td>15 per ara</td><td>40 per ara</td></tr>
+<tr><td></td><td>*Cuscuta* spp. (cuscuta del trifoglio)</td><td>0</td><td>0</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 pro ha</td><td>3 pro ha</td></tr>
+<tr><td></td><td>*Polygonum* spp., *Plantago* spp., *Silene* spp., *Lychnis* spp., *Geranium* spp., *Sinapis* *arvensis*, *Chenopodium album, Echinochioa crus-galli, Setaria glauca, Cirsium* spp.</td><td>15 per ara</td><td>40 per ara</td></tr>
+<tr><td colspan="4">(\*) tranne: spica venti (*Apera spicaventi*) per tutte le specie; specie di poa (*Poa* spp.) per tutte le specie tranne le altre specie di poa; *Phleum* spp. per tutte le specie, tranne le altre specie di *Phleum* spp.</td></tr>
 </table>
 
 ### Capitolo D: Ispezione in campo ed esigenze poste alle colture di sementi di piante oleaginose e da fibra
@@ -2896,11 +2905,15 @@ Sono valutati i seguenti criteri:
 
 Le colture sono valutate in base alla seguente scala:
 
-- [tab] 1 = ottime
-- [tab] 3 = buone
-- [tab] 5 = sufficienti
-- [tab] 7 = scadenti
-- [tab] 9 = molto scadenti
+1 = ottime
+
+3 = buone
+
+5 = sufficienti
+
+7 = scadenti
+
+9 = molto scadenti
 
 Se una nota è inferiore a 5, la particella è respinta.
 
@@ -2923,7 +2936,7 @@ Le colture che non corrispondono alla varietà dichiarata sono rifiutate.
 
 Sono considerate piante non conformi tutte le piante della stessa specie che non corrispondono al tipo varietale.
 
-Le colture di *Brassica juncea, Brassica nigra, Carthamus tinct**o**rius, Carum carvi* e gli ibridi di *Helianthus a**n**nuus* e di *Brassica napus* devono rispondere alle condizioni seguenti:
+Le colture di *Brassica juncea, Brassica nigra, Carthamus tinctorius, Carum carvi* e gli ibridi di *Helianthus annuus* e di *Brassica napus* devono rispondere alle condizioni seguenti:
 
 Brassica juncea, Brassica nigra, Carthamus tinctorius e Carum carvi diversi dagli ibridi
 
@@ -2979,7 +2992,7 @@ La coltura deve essere conforme alle norme seguenti relative alla distanza da fo
 
 <table>
 <tr><th>Coltura</th><th>Distanza minima</th></tr>
-<tr><td>*Brassica* *spp*. diversa da *Brassica napus; Carthamus tinct**o**rius; Carum carvi; Sinapis alba:*</td><td></td></tr>
+<tr><td>*Brassica* *spp*. diversa da *Brassica napus; Carthamus tinctorius; Carum carvi; Sinapis alba:*</td><td></td></tr>
 <tr><td>– per la produzione di sementi di base</td><td>400 m</td></tr>
 <tr><td>– per la produzione di sementi certificate</td><td>200 m</td></tr>
 <tr><td>Brassica napus:</td><td></td></tr>
@@ -3007,13 +3020,13 @@ Queste distanze possono non essere osservate se esiste una protezione sufficient
   - A. *Beta vulgaris*
 
 <table>
-<tr><td>1. Rispetto a qualsiasi fonte di polline del genere *Beta* non compresa sotto</td><td colspan="2">1000 metri,</td></tr>
-<tr><td>2. Rispetto a fonti di polline di varietà della stessa sottospecie appartenente a un gruppo diverso di varietà:</td><td colspan="2"></td></tr>
-<tr><td>– per le sementi di base</td><td colspan="2">1000 metri,</td></tr>
-<tr><td>– per le sementi certificate</td><td colspan="2">600 metri,</td></tr>
-<tr><td>3. Rispetto a fonti di polline di varietà della stessa sottospecie appartenente allo stesso gruppo di varietà:</td><td colspan="2"></td></tr>
-<tr><td colspan="2">– per le sementi di base</td><td colspan="2">600 metri,</td></tr>
-<tr><td colspan="2">– per le sementi certificate</td><td colspan="2">300 metri.</td></tr>
+<tr><td>1. Rispetto a qualsiasi fonte di polline del genere *Beta* non compresa sotto</td><td>1000 metri,</td></tr>
+<tr><td>2. Rispetto a fonti di polline di varietà della stessa sottospecie appartenente a un gruppo diverso di varietà:</td><td></td></tr>
+<tr><td>– per le sementi di base</td><td>1000 metri,</td></tr>
+<tr><td>– per le sementi certificate</td><td>600 metri,</td></tr>
+<tr><td>3. Rispetto a fonti di polline di varietà della stessa sottospecie appartenente allo stesso gruppo di varietà:</td><td></td></tr>
+<tr><td>– per le sementi di base</td><td colspan="2">600 metri,</td></tr>
+<tr><td>– per le sementi certificate</td><td colspan="2">300 metri.</td></tr>
 </table>
 
 - I gruppi di varietà di cui ai punti 2 e 3 sono stabiliti secondo la procedura di cui all’articolo 46 paragrafo 2.
@@ -3050,13 +3063,13 @@ Queste distanze possono non essere osservate se esiste una protezione sufficient
 
 - Queste distanze non devono essere osservate se esiste una protezione sufficiente contro qualsiasi impollinazione estranea indesiderabile.
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 3–10, 20, 24, 29, 35, 38, 39, 39*a* e 42)
 
 ## Campionatura, peso dei lotti ed esigenze poste alle sementi e ai tuberi-seme
 
-[^t-5]: Aggiornato dal n. II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), dal n. I dell’O del DEFR del 18 ott. 2017 ([RU 2017 6417](https://fedlex.data.admin.ch/eli/oc/2017/708)), dall’all. 13 n. 1 dell’O del DEFR e del DATEC del 14 nov. 2019 concernente l’O sulla salute dei vegetali ([RU 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)) e dal n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-5]: Aggiornato dalla cifra II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), dalla cifra I dell’O del DEFR del 18 ott. 2017 ([RU 2017 6417](https://fedlex.data.admin.ch/eli/oc/2017/708)), dall’all. 13 n. 1 dell’O del DEFR e del DATEC del 14 nov. 2019 concernente l’O sulla salute dei vegetali ([RU 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)) e dalla cifra II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ### Capitolo A: Campionatura, peso dei lotti ed esigenze poste alle sementi di cereali
 
@@ -3109,9 +3122,9 @@ I pesi dei lotti e dei campioni figurano nella tabella qui di seguito.
 <tr><td>sementi di base</td><td>80</td><td>98</td><td>15</td><td>4</td><td></td><td>1<sup>7</sup></td><td>3</td><td>0</td><td>1</td><td>1</td><td colspan="2"></td></tr>
 <tr><td>sementi certificate, 1<sup>a</sup> e 2<sup>a</sup> riprod.</td><td>80</td><td>98</td><td>15</td><td>10</td><td></td><td>7</td><td>7</td><td>0</td><td>3</td><td>3</td><td colspan="2"></td></tr>
 <tr><td>Granturco</td><td>90<sup>5</sup></td><td>98</td><td>14</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="14">[tab] *Note:*</td></tr>
+<tr><td colspan="14">Note:</td></tr>
 <tr><td colspan="12"><sup>1</sup> Per i campioni non cerniti non viene analizzata la purezza.</td></tr>
-<tr><td colspan="12"><sup>2</sup> *...*</td></tr>
+<tr><td colspan="12">2 …</td></tr>
 <tr><td colspan="12"><sup>3</sup> Per i campioni non cerniti vengono tollerati complessivamente 30 semi di *Raphanus raphanistrum, Agrostemma githago, Gallium aparine, Vicia* spp. Per la scagliola il numero massimo di semi di altre specie si riferisce a un peso dei campioni pari a 200 g.</td></tr>
 <tr><td colspan="12"><sup>4</sup> La tolleranza è di 4 scleroti o frammenti nella segale ibrida. La presenza di 5 scleroti o frammenti di scleroti in un campione del peso prescritto è considerata conforme alle norme se un secondo campione dello stesso peso non contiene più di 4 scleroti o frammenti di scleroti.</td></tr>
 <tr><td colspan="12"><sup>5</sup> Per i campioni non cerniti, la facoltà germinativa minima è del 95 %.</td></tr>
@@ -3125,16 +3138,16 @@ I pesi dei lotti e dei campioni figurano nella tabella qui di seguito.
 
 ### 1 Norme relative al calibro
 
-1.1 Il calibro minimo dei tuberi-seme dev’essere tale da non consentire il passaggio attraverso un setaccio con maglie quadrate di:
+- 1\.1
 
-- a. 25 mm di lato;
-- b. ....
+  Il calibro minimo dei tuberi-seme dev’essere tale da non consentire il passaggio attraverso un setaccio con maglie quadrate di:
 
-1.2 Per i tuberi di dimensione eccessiva per passare attraverso un setaccio con maglie quadrate di 35 mm di lato, i limiti di calibro superiori e inferiori sono espressi con un multiplo di cinque.
+  - a. 25 mm di lato;
+  - b. …
 
-1.3 All’atto della cernita di un lotto, la differenza massima tra le dimensioni dei lati delle maglie quadrate dei due setacci utilizzati non dev’essere superiore a 25 mm.
-
-1.4 I lotti non devono contenere più del 3 per cento del peso di tuberi-seme di calibro inferiore a quello minimo, né più del 3 per cento del peso di tuberi-seme di calibro superiore a quello massimo indicato.
+- 1\.2 Per i tuberi di dimensione eccessiva per passare attraverso un setaccio con maglie quadrate di 35 mm di lato, i limiti di calibro superiori e inferiori sono espressi con un multiplo di cinque.
+- 1\.3 All’atto della cernita di un lotto, la differenza massima tra le dimensioni dei lati delle maglie quadrate dei due setacci utilizzati non dev’essere superiore a 25 mm.
+- 1\.4 I lotti non devono contenere più del 3 per cento del peso di tuberi-seme di calibro inferiore a quello minimo, né più del 3 per cento del peso di tuberi-seme di calibro superiore a quello massimo indicato.
 
 ### 2 Qualità dei lotti di tuberi-seme di patate
 
@@ -3262,7 +3275,7 @@ I campioni prelevati dai lotti di moltiplicazione importati devono essere fornit
 
 Le sementi devono adempiere le norme e le condizioni seguenti:
 
-- **3.1** **Le sementi devono presentare identità e purezza varietali. La purezza varietale minima viene esaminata di norma mediante isp****e****zioni in campo s****e****condo le disposizioni dell’allegato 3.**
+- **3.1** **Le sementi devono presentare identità e purezza varietali. La purezza varietale minima viene esaminata di norma mediante ispezioni in campo secondo le disposizioni dell’allegato 3.**
 - **3.2** **Sementi certificate di prima riproduzione**
 
 <table>
@@ -3326,14 +3339,14 @@ Le sementi devono adempiere le norme e le condizioni seguenti:
 <tr><td>*Brassica oleracea convar. acephala*</td><td>75</td><td></td><td>98</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td>0.3</td><td>0.3</td><td>0</td><td>0</td><td>10</td><td>12</td></tr>
 <tr><td>*Phacelia tanacetifolia*</td><td>80</td><td></td><td>96</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td></td><td>12</td></tr>
 <tr><td>*Plantago lanceolata*</td><td>75</td><td></td><td>85</td><td>11</td><td>1.5</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>10</td><td>12</td></tr>
-<tr><td>*Raphanus sativus var.* *ole**i**formis*</td><td>80</td><td></td><td>97</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td>0.3</td><td>0.3</td><td>0</td><td>0</td><td>5</td><td></td></tr>
+<tr><td>*Raphanus sativus var.* *oleiformis*</td><td>80</td><td></td><td>97</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td>0.3</td><td>0.3</td><td>0</td><td>0</td><td>5</td><td></td></tr>
 </table>
 
 Legenda delle norme relative alle sementi certificate di prima riproduzione
 
 - 1 Tutti i semi freschi e sani non germinati in seguito a trattamento preliminare devono essere considerati come plantule normali.
 - 2 Entro i limiti massimi ammessi i semi duri devono essere considerati come plantule normali.
-- 3 ...
+- 3 …
 - 4 Sono tenute in considerazione pure l’Avena ludoviciana e l’Avena sterilis.
 - 5 Sono tenuti in considerazione tutti i Rumex spp. eccetto i Rumex acetosella e Rumex maritimus.
 - 6 Un contenuto massimo totale pari a 0,8 per cento in peso di semi di altre specie di Poa non deve essere considerato come impurezza.
@@ -3351,7 +3364,6 @@ Legenda delle norme relative alle sementi certificate di prima riproduzione
 
 - 16 La percentuale in numero di semi di lupino amaro in varietà diverse dal lupino amaro non deve superare il 2,5 per cento.
 - 17 Il tenore di acqua viene appurato soltanto se all’atto della campionatura o dell’esame di qualità sorge il dubbio che sia stato superato il valore massimo.
-
 - **3.3** **Sementi di prebase e di base**
 
 <table>
@@ -3411,17 +3423,17 @@ Legenda delle norme relative alle sementi certificate di prima riproduzione
 <tr><td>*Vicia sativa*</td><td>85</td><td>20</td><td>98</td><td>15</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr><td>*Vicia villosa*</td><td>85</td><td>20</td><td>98</td><td>15</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr><td>Altre specie</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>*Brassica napus var. napobrassica*</td><td>80</td><td></td><td>98</td><td>11</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td></td><td>0</td><td>0</td><td></td></tr>
+<tr><td>*Brassica napus var.* *napobrassica*</td><td>80</td><td></td><td>98</td><td>11</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td></td><td>0</td><td>0</td><td></td></tr>
 <tr><td>*Brassica oleracea convar. acephala*</td><td>75</td><td></td><td>98</td><td>11</td><td>0.3</td><td>20</td><td>3</td><td></td><td></td><td></td><td>0</td><td>0</td><td></td></tr>
 <tr><td>*Phacelia tanacetifolia*</td><td>80</td><td></td><td>96</td><td>11</td><td>0.3</td><td>20</td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td></td></tr>
-<tr><td>*Raphanus sativus var. ole**i**formis*</td><td>80</td><td></td><td>97</td><td>11</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td></td><td>0</td><td>0</td><td></td></tr>
+<tr><td>*Raphanus sativus var.* *oleiformis*</td><td>80</td><td></td><td>97</td><td>11</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td></td><td>0</td><td>0</td><td></td></tr>
 </table>
 
 Legenda delle norme relative alle sementi di prebase e di base
 
 - 1 Tutti i semi freschi e sani non germinati in seguito a trattamento preliminare devono essere considerati come plantule normali.
 - 2 Entro i limiti massimi ammessi i semi duri devono essere considerati come plantule normali.
-- 3 ...
+- 3 …
 - 4 Sono tenute in considerazione pure l’Avena ludoviciana e l’Avena sterilis.
 - 5 Sono tenuti in considerazione tutti i Rumex spp. eccetto i Rumex acetosalla e Rumex maritimus.
 - 6 Un contenuto massimo totale pari a 80 semi di Poa spp. non deve essere considerato come impurezza.
@@ -3436,7 +3448,7 @@ Legenda delle norme relative alle sementi di prebase e di base
 - **3.4** **Sementi commerciali**
 
 <table>
-<tr><th>Specie</th><th>Capacità di germinazione (in %)</th><th>Tenore massimo di semi duri (in %)</th><th>Purezza varietale specifica (in %)</th><th>Tenore di acqua (in %)</th><th colspan="7">Numero massimo di semi di altre specie in un campione in % del peso 3<sup>\*)</sup></th><th colspan="3">Numero massimo di semi di altre specie in un campione secondo il numero 1 colonna 4 (Totale per colonna)</th><th>Legenda <sup>\*) \*)</sup> = vedasi il commento nella legenda relativa alle sementi commerciali</th></tr>
+<tr><th>Specie</th><th>Capacità di germinazione (in %)</th><th>Tenore massimo di semi duri (in %)</th><th>Purezza varietale specifica (in %)</th><th>Tenore di acqua (in %)</th><th colspan="7">Numero massimo di semi di altre specie in un campione in % del peso 3<sup>\*)</sup></th><th colspan="3">Numero massimo di semi di altre specie in un campione secondo il numero 1 colonna 4 (Totale per colonna)</th><th>Legenda <sup>\*)</sup> <sup>\*)</sup> = vedasi il commento nella legenda relativa alle sementi commerciali</th></tr>
 <tr><th></th><th>1<sup>\*)</sup></th><th>2<sup>\*)</sup></th><th></th><th></th><th>totale</th><th>una sola specie</th><th>Agropyron repens</th><th>Alopecu-rus myo-suroides</th><th>Melilotus spp.</th><th>Raphanus raphani-strum</th><th>Sinapis arvensis</th><th>Avena fatua 4<sup>\*)</sup></th><th>Cuscuta spp.</th><th>Rumex spp. 5<sup>\*)</sup></th><th></th></tr>
 <tr><td>Poaceae (Gramineae)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>*Cynodon dactylon*</td><td>70</td><td></td><td>90</td><td>13</td><td>3.0</td><td>2.0</td><td>0.3</td><td>0.3</td><td></td><td></td><td></td><td>0</td><td>0</td><td>2</td><td>8</td></tr>
@@ -3473,8 +3485,8 @@ I pesi dei lotti e dei campioni figurano nella tabella qui di seguito.
 È consentita una tolleranza del 5 per cento sul peso massimo dei lotti.
 
 <table>
-<tr><td>Specie</td><td colspan="3">Peso massimo dei lotti (t)</td><td colspan="2">Peso minimo dei campioni (g)</td><td>Peso minimo dei campioni per la determinazione del numero massimo di altre specie (g)</td></tr>
-<tr><td>1</td><td colspan="3">2</td><td colspan="2">3</td><td>4</td></tr>
+<tr><th>Specie</th><th colspan="3">Peso massimo dei lotti (t)</th><th colspan="2">Peso minimo dei campioni (g)</th><th>Peso minimo dei campioni per la determinazione del numero massimo di altre specie (g)</th></tr>
+<tr><th>1</th><th colspan="3">2</th><th colspan="2">3</th><th>4</th></tr>
 <tr><td colspan="3">*Brassica rapa*</td><td>10</td><td colspan="2">200</td><td>70</td></tr>
 <tr><td colspan="3">*Brassica juncea*</td><td>10</td><td colspan="2">100</td><td>40</td></tr>
 <tr><td>*Brassica napus*</td><td colspan="3">10</td><td colspan="2">200</td><td>100</td></tr>
@@ -3555,7 +3567,7 @@ Legenda delle norme relative alle sementi di base e alle sementi certificate
 - b. La determinazione del contenuto totale di semi di altre specie di piante è necessaria soltanto se vi sono dubbi in merito al rispetto delle condizioni di cui alla colonna 5.
 - c. La determinazione del contenuto in numero di semi di *Cuscuta* spp. è necessaria soltanto se vi sono dubbi in merito al rispetto delle condizioni di cui alla colonna 7.
 - d. La presenza di un seme di *Cuscuta* spp. in un campione del peso stabilito non deve essere considerata come impurezza se un secondo campione dello stesso peso è esente da semi di *Cuscuta* spp.
-- e. Le sementi sono esenti da semi di *Orobanche* spp.; la presenza di un seme di *Oroba**n**che* spp. in un campione di 100 g non deve essere considerata come impurezza se un secondo campione di 200 g è esente da semi di *Orobanche* spp.
+- e. Le sementi sono esenti da semi di *Orobanche* spp.; la presenza di un seme di *Orobanche* spp. in un campione di 100 g non deve essere considerata come impurezza se un secondo campione di 200 g è esente da semi di *Orobanche* spp.
 - f. Il tenore di acqua viene appurato soltanto se all’atto della campionatura o dell’esame di qualità sorge il dubbio che sia stato superato il valore massimo.
 
 ### Capitolo E: Campionatura, peso dei lotti ed esigenze poste alle sementi di barbabietole
@@ -3576,9 +3588,9 @@ Le sementi devono presentare identità e purezza varietali in misura sufficiente
 Le sementi adempiono inoltre le seguenti condizioni:
 
 <table>
-<tr><td>Specie</td><td>Facoltà germinativa minima (in % di glomeruli o di sementi pure)</td><td>Purezza minima specifica (in % del peso)</td><td>Tasso massimo d’umidità (in % del peso) <sup>1</sup></td></tr>
+<tr><th>Specie</th><th>Facoltà germinativa minima (in % di glomeruli o di sementi pure)</th><th>Purezza minima specifica (in % del peso)</th><th>Tasso massimo d’umidità (in % del peso) <sup>1</sup></th></tr>
 <tr><td>Barbabietole da zucchero</td><td></td><td></td><td></td></tr>
-<tr><td>– Sementi monogermi</td><td>[tab] 80</td><td>[tab] 97</td><td>[tab] 15</td></tr>
+<tr><td>– Sementi monogermi</td><td>80</td><td>97</td><td>15</td></tr>
 <tr><td>– Sementi di precisione</td><td>75</td><td>97</td><td>15</td></tr>
 <tr><td>– Sementi plurigermi di varietà con una quota di diploidi superiore all’85 %</td><td>73</td><td>97</td><td>15</td></tr>
 <tr><td>– Altre sementi</td><td>68</td><td>97</td><td>15</td></tr>
@@ -3599,35 +3611,26 @@ Il peso di semi di altre piante non deve superare lo 0,3 per cento.
   - 1\. almeno il 90 per cento dei glomeruli germinati devono dare una sola plantula,
   - 2\. il contenuto di glomeruli che danno tre plantule o più non deve superare il 5 per cento rispetto ai glomeruli germinati.
 
-- b.
-
-  Sementi di precisione di barbabietole da zucchero:
-
-  - [tab] Almeno il 70 per cento dei glomeruli germinati devono dare una sola plantula. Il contenuto di glomeruli che danno tre plantule o più non deve superare il 5 per cento rispetto ai glomeruli germinati.
-
-- c.
-
-  Sementi di precisione di barbabietole da foraggio:
-
-  - [tab] Per le varietà la cui quota di diploidi è superiore all’85 per cento, almeno il 58 per cento dei glomeruli germinati deve dare una sola plantula. Per tutte le altre sementi, almeno il 63 per cento dei glomeruli germinati deve dare una sola plantula. Il contenuto di glomeruli che danno tre plantule o più non deve superare il 5 per cento rispetto ai glomeruli germinati.
-
+- b. Sementi di precisione di barbabietole da zucchero:
+- Almeno il 70 per cento dei glomeruli germinati devono dare una sola plantula. Il contenuto di glomeruli che danno tre plantule o più non deve superare il 5 per cento rispetto ai glomeruli germinati.
+- c. Sementi di precisione di barbabietole da foraggio:
+- Per le varietà la cui quota di diploidi è superiore all’85 per cento, almeno il 58 per cento dei glomeruli germinati deve dare una sola plantula. Per tutte le altre sementi, almeno il 63 per cento dei glomeruli germinati deve dare una sola plantula. Il contenuto di glomeruli che danno tre plantule o più non deve superare il 5 per cento rispetto ai glomeruli germinati.
 - d. Per le sementi della categoria «sementi di base» il peso di impurezze innocue non deve superare l’1,0 per cento. Per le sementi della categoria «sementi certificate» il peso di impurezze innocue non deve superare lo 0,5 per cento. Per quanto riguarda le sementi rivestite di queste due categorie, la rispondenza alle condizioni è verificata sulla base di campioni di sementi trasformate, parzialmente decorticate (lucidate o frantumate), ma non ancora rivestite. È fatto salvo l’esame ufficiale della purezza analitica minima delle sementi rivestite.
 
 ### Capitolo F: Campionatura, peso dei lotti ed esigenze poste alle sementi di ortaggi
 
 ### 1 Peso dei lotti e dei campioni
 
-### 1. Peso massimo di un lotto
+- **1.** **Peso massimo di un lotto**
 
 <table>
-<tr><td>a. Sementi di *Phase**o**lus occineus, Phaseolus vulgaris, Pisum sativum* e *Vicia faba*</td><td>30 tonnellate</td></tr>
+<tr><td>a. Sementi di *Phaseolus occineus, Phaseolus vulgaris, Pisum sativum* e *Vicia faba*</td><td>30 tonnellate</td></tr>
 <tr><td>b. Sementi di dimensioni uguali o superiori a quelle delle cariossidi di grano, escluse quelle di *Phaseolus occineus, Phaseolus vulgaris, Pisum sativum* e *Vicia faba*</td><td>20 tonnellate</td></tr>
 <tr><td>c. Sementi di dimensioni inferiori a quelle delle cariossidi di grano</td><td>10 tonnellate</td></tr>
 </table>
 
 - Il peso massimo di un lotto non può eccedere di oltre il 5 per cento il peso massimo prescritto.
-
-### 2. Peso minimo di un campione
+- **2.** **Peso minimo di un campione**
 
 <table>
 <tr><th>Specie</th><th>Peso (g)</th></tr>
@@ -3674,12 +3677,12 @@ Il peso di semi di altre piante non deve superare lo 0,3 per cento.
 ### 2 Esigenze poste alle sementi
 
 - 1\. Le sementi devono presentare identità e purezza varietali in misura sufficiente.
-- 2\. ...
+- 2\. …
 - 3\.
 
   Le sementi devono inoltre essere conformi alle seguenti esigenze:
 
-  - [tab] a. Norme
+  - a. Norme
 
 <table>
 <tr><th>Specie</th><th>Purezza minima specifica (in % del peso)</th><th>Tenore massimo di semi di altre specie di piante (in % del peso)</th><th>Facoltà germinativa minima (in % di glomeruli o di sementi pure)</th></tr>
@@ -3726,15 +3729,15 @@ Il peso di semi di altre piante non deve superare lo 0,3 per cento.
 <tr><td colspan="4">Nel caso delle varietà di Zea mays (granoturco dolce — tipi super dolci) la facoltà germinativa minima richiesta è dell’80 % delle sementi pure. L’etichetta reca la dicitura «Facoltà germinativa minima 80 %».</td></tr>
 </table>
 
-- [tab] b. ...
+- b. …
 
-Allegato 5*[^t-6]*
+Allegato 5[^t-6]
 
 (art. 15, 27*b*, 28, 30, 38*a*, 44 e 45)
 
 ## Etichettatura
 
-[^t-6]: Aggiornato dal n. II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)) del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), e dal n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-6]: Aggiornato dalla cifra II delle O del DEFR del 22 dic. 1999 ([RU 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)) del 2 mag. 2005 ([RU 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), del 7 giu. 2010 ([RU 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), e dalla cifra II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ### Capitolo A: Etichettatura delle sementi di cereali
 
@@ -3750,7 +3753,7 @@ Allegato 5*[^t-6]*
   - 2\. iscrizione «Normativa CE»,
   - 3\. servizio di certificazione e Paese («CH» o «Svizzera»),
   - 4\. numero di riferimento del lotto,
-  - 5\. mese e anno della chiusura indicati con la dicitura: «chiuso il ... (mese e anno)»,
+  - 5\. mese e anno della chiusura indicati con la dicitura: «chiuso il … (mese e anno)»,
   - 6\. specie (denominazione latina),
   - 7\. designazione della varietà,
   - 8\. categoria,
@@ -3768,7 +3771,7 @@ Allegato 5*[^t-6]*
   - 1\. miscuglio (specie e varietà),
   - 2\. servizio di certificazione e Paese («CH» o «Svizzera»),
   - 3\. numero di riferimento del lotto,
-  - 4\. mese e anno della chiusura indicati con la dicitura: «chiuso il ... (mese e anno)»,
+  - 4\. mese e anno della chiusura indicati con la dicitura: «chiuso il … (mese e anno)»,
   - 5\. specie, varietà, categoria, Paese di produzione e proporzione e percentuale di peso di ciascun componente,
   - 6\. numero ufficiale d’identificazione,
   - 7\. peso netto o lordo (compresa l’indicazione corrispondente) o numero di semi,
@@ -3785,7 +3788,7 @@ L’etichetta deve fornire le seguenti indicazioni:
 - 2\. iscrizione «Normativa CE»,
 - 3\. servizio e Paese di certificazione,
 - 4\. numero d’identificazione del produttore o numero d’identificazione del lotto,
-- 5\. mese e anno della chiusura indicati con la dicitura: «chiuso il ... (mese e anno)»,
+- 5\. mese e anno della chiusura indicati con la dicitura: «chiuso il … (mese e anno)»,
 - 6\. designazione della varietà,
 - 7\. Paese di produzione,
 - 8\. categoria e classe,
@@ -3841,7 +3844,7 @@ La dimensione minima dell’etichetta è di 110 mm × 67 mm.
   - 2\. iscrizione «Normativa CE»,
   - 3\. servizio di certificazione e Paese,
   - 4\. numero di riferimento del lotto,
-  - 5\. mese e anno della chiusura indicati con la dicitura «chiuso il ... (mese e anno)» oppure mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa alla certificazione indicati con la dicitura “campione prelevato il ... (mese e anno)»,
+  - 5\. mese e anno della chiusura indicati con la dicitura «chiuso il … (mese e anno)» oppure mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa alla certificazione indicati con la dicitura “campione prelevato il … (mese e anno)»,
   - 6\. specie (denominazione latina),
   - 7\. designazione della varietà,
   - 8\. categoria,
@@ -3851,7 +3854,7 @@ La dimensione minima dell’etichetta è di 110 mm × 67 mm.
   - 12\. per le sementi certificate di seconda riproduzione e delle riproduzioni successive da sementi di base: numero delle generazioni dalla semente di base,
   - 13\. per le sementi provenienti da stock precedenti, la dicitura «rianalizzate il … (mese e anno)» può completare il testo dell’etichetta. A tale proposito può essere utilizzata una vignetta autoadesiva ufficiale che viene incollata sull’etichetta originale. Tale vignetta deve indicare la data del prelievo del campione,
   - 14\. per le sementi di prebase anche il numero delle generazioni precedenti delle sementi delle categorie «sementi certificate» o «sementi di prima generazione»,
-  - 1\. per le sementi di varietà di graminacee che non hanno subito un esame del valore agronomico e di utilizzazione giusta l’articolo 15 capoverso 2 lettera a «non destinate ad essere utilizzate come piante foraggere».
+  - per le sementi di varietà di graminacee che non hanno subito un esame del valore agronomico e di utilizzazione giusta l’articolo 15 capoverso 2 lettera a «non destinate ad essere utilizzate come piante foraggere».
 
 - b.
 
@@ -3862,7 +3865,7 @@ La dimensione minima dell’etichetta è di 110 mm × 67 mm.
   - 3\. «Sementi commerciali (non certificate per la varietà)»
   - 4\. servizio di certificazione e Paese,
   - 5\. numero di riferimento del lotto,
-  - 6\. mese e anno della chiusura indicati con la dicitura «chiuso il ... (mese e anno)” oppure mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa all’ammissione come sementi commerciali indicati con la dicitura «campione prelevato il ... (mese e anno)”,
+  - 6\. mese e anno della chiusura indicati con la dicitura «chiuso il … (mese e anno)” oppure mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa all’ammissione come sementi commerciali indicati con la dicitura «campione prelevato il … (mese e anno)”,
   - 7\. specie (denominazione latina),
   - 8\. Paese di produzione,
   - 9\. peso netto o lordo (compresa l’indicazione corrispondente) o numero di semi,
@@ -3873,10 +3876,10 @@ La dimensione minima dell’etichetta è di 110 mm × 67 mm.
 
   Per i miscugli di sementi:
 
-  - 1\. «Miscuglio di sementi per ... (utilizzazione prevista)»,
+  - 1\. «Miscuglio di sementi per … (utilizzazione prevista)»,
   - 2\. servizio che ha proceduto alla chiusura e Paese,
   - 3\. numero di riferimento,
-  - 4\. mese e anno della chiusura indicati con la dicitura «chiuso il ... (mese e anno)»,
+  - 4\. mese e anno della chiusura indicati con la dicitura «chiuso il … (mese e anno)»,
   - 5\. proporzione in peso di ciascuna delle componenti indicate secondo la specie e, se necessario, secondo le varietà; la menzione della denominazione del miscuglio è sufficiente se la proporzione in peso è resa nota per iscritto all’acquirente o se è ufficialmente depositata,
   - 6\. peso netto o lordo (compresa l’indicazione corrispondente) o numero di semi,
   - 7\. natura dell’additivo e sua proporzione in peso in caso di utilizzazione di antiparassitari granulati, di sostanze di rivestimento delle sementi o di altri additivi solidi,
@@ -3884,7 +3887,7 @@ La dimensione minima dell’etichetta è di 110 mm × 67 mm.
 
 ### 1.2 Dimensioni minime
 
-110 mm × 67 mm
+- 110 mm × 67 mm
 
 ### 2. Etichette del fornitore o scritta sull’imballaggio (piccolo imballaggio CE)
 
@@ -3941,8 +3944,8 @@ Indicazioni prescritte
     - – numero di riferimento, che consente di risalire ai lotti utilizzati;
     - – Paese.
 
-  - 5\. ...
-  - 6\. «Miscugli di sementi per ... (utilizzazione prevista)»
+  - 5\. …
+  - 6\. «Miscugli di sementi per … (utilizzazione prevista)»
   - 7\. peso netto o lordo o numero di semi puri,
   - 8\. in caso di indicazione del peso e di utilizzazione di antiparassitari granulati, di sostanze di rivestimento delle sementi o di altri additivi solidi, l’indicazione della natura dell’additivo e il rapporto approssimativo tra il peso di semi puri e il peso totale,
   - 9\. proporzione in peso delle diverse componenti indicate secondo le specie e, se necessario, secondo le varietà o la menzione della denominazione del miscuglio, se la proporzione in peso può essere comunicata all’acquirente su sua richiesta e se è ufficialmente depositata.
@@ -3959,9 +3962,9 @@ Indicazioni prescritte
   - 2\. iscrizione «Normativa CE»,
   - 3\. servizio di certificazione e Paese,
   - 4\. numero di riferimento del lotto,
-  - 5\. mese e anno della chiusura, indicati con la dicitura «chiuso il ... (mese e anno)»
+  - 5\. mese e anno della chiusura, indicati con la dicitura «chiuso il … (mese e anno)»
   - oppure
-  - mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa alla certificazione, indicati con la dicitura «campione prelevato il ... (mese e anno)»,
+  - mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa alla certificazione, indicati con la dicitura «campione prelevato il … (mese e anno)»,
   - 6\. specie (denominazione latina),
   - 7\. designazione della varietà,
   - 8\. categoria,
@@ -3992,14 +3995,14 @@ Indicazioni prescritte
   - 3\. «Sementi commerciali (non certificate per la varietà)»,
   - 4\. servizio di certificazione e Paese,
   - 5\. numero di riferimento del lotto,
-  - 6\. mese e anno della chiusura, indicati con la dicitura «chiuso il ... (mese e anno)»
+  - 6\. mese e anno della chiusura, indicati con la dicitura «chiuso il … (mese e anno)»
   - oppure
-  - mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa all’ammissione come sementi commerciali, indicati con la dicitura «campione prelevato il ... (mese e anno)»,
+  - mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa all’ammissione come sementi commerciali, indicati con la dicitura «campione prelevato il … (mese e anno)»,
   - 7\. specie (denominazione latina),
   - 8\. Paese di produzione,
   - 9\. peso netto o lordo dichiarato,
   - 10\. natura dell’additivo e sua proporzione in peso in caso di utilizzazione di antiparassitari granulati, di sostanze di rivestimento delle sementi o di altri additivi solidi,
-  - 11\. per le sementi provenienti da stock precedenti, la dicitura «rianalizzate il ... (mese e anno)» può completare il testo dell’etichetta. A tale proposito può essere utilizzata una vignetta autoadesiva ufficiale che viene incollata sull’etichetta originale; tale vignetta deve indicare la data del prelievo del campione analizzato per la ricertificazione.
+  - 11\. per le sementi provenienti da stock precedenti, la dicitura «rianalizzate il … (mese e anno)» può completare il testo dell’etichetta. A tale proposito può essere utilizzata una vignetta autoadesiva ufficiale che viene incollata sull’etichetta originale; tale vignetta deve indicare la data del prelievo del campione analizzato per la ricertificazione.
 
 ### 2 Dimensioni minime
 
@@ -4015,9 +4018,9 @@ Indicazioni prescritte
 - 2\. iscrizione «Normativa CE»,
 - 3\. servizio di certificazione e Paese,
 - 4\. numero di riferimento del lotto,
-- 5\. mese e anno della chiusura, indicati con la dicitura «chiuso il ... (mese e anno)»
+- 5\. mese e anno della chiusura, indicati con la dicitura «chiuso il … (mese e anno)»
 - oppure
-- mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa alla certificazione, indicati con la dicitura «campione prelevato il ... (mese e anno)»,
+- mese e anno dell’ultimo prelievo ufficiale di campioni per la decisione relativa alla certificazione, indicati con la dicitura «campione prelevato il … (mese e anno)»,
 - 6\. specie (denominazione latina); indicazione che precisa se si tratta di barbabietole da zucchero o da foraggio,
 - 7\. designazione della varietà,
 - 8\. categoria,
@@ -4099,13 +4102,13 @@ Indicazioni prescritte
 
 - [tab] 110 mm × 67 mm
 
-Allegato 6*[^t-7]*
+Allegato 6[^t-7]
 
 (art. 40)
 
 ## Condizioni poste alle colture che discendono direttamente da patate da semina
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-7]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ### 1 Identità varietale
 

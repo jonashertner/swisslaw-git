@@ -3,31 +3,31 @@ sr: "916.151.1"
 title: "Verordnung des WBF vom 7. Dezember 1998 über Vermehrungsmaterial von Ackerpflanzen-, Futterpflanzen- und Gemüsearten (WBF-Vermehrungsmaterialverordnung Acker- und Futterpflanzen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/121"
 language: de
-version: 2021-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-121-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/121/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-121-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/121/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über Vermehrungsmaterial von Ackerpflanzen-, Futterpflanzen- und Gemüsearten
 
-(WBF-Vermehrungsmaterialverordnung Acker- und Futterpflanzen)**[^t-1]**
+(WBF-Vermehrungsmaterialverordnung Acker- und Futterpflanzen)[^t-1]
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2021)
+vom 7. Dezember 1998 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
-Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)*[^ingress-1]*,
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
 gestützt auf die Artikel 4 Absätze 1 und 2, 5 Absätze 2 und 3, 10 Absätze 3 und 5, 11 Absätze 1<sup>bis</sup>, 2 und 3, 12 Absätze 3 und 4, 13, 14 Absätze 1<sup>bis</sup>, 2, 3 und 5, 15 Absätze 3 und 4, 16, 17 Absätze 2 und 6 sowie 21 Absatz 1 der Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^ingress-2]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^ingress-2]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 [^ingress-3]: Fassung gemäss Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -68,7 +68,7 @@ Bei Mais, Sorghum spp. und Sonnenblumen ist eine:[^2-2]
 
 <sup>7</sup> Als Nischensorte gilt eine Landsorte, eine alte Sorte, bei Futterpflanzen ein Ökotypus, oder eine sonstige Sorte, an die die Anforderungen für die Aufnahme in den Sortenkatalog nach Abschnitt 3 nicht gestellt werden. Ausgenommen sind gentechnisch veränderte Sorten.[^2-6]
 
-<sup>8</sup> und <sup>9</sup> ...[^2-7]
+<sup>8 und <sup>9</sup></sup> …[^2-7]
 
 <sup>10</sup> Als Monogermsaatgut von Betarüben gilt genetisch einkeimiges Saatgut.[^2-8]
 
@@ -127,8 +127,8 @@ Als Basissaatgut gilt Vermehrungssaatgut, das:
 
 Basissaatgut dient:
 
-- a.[^4-4] zur Erzeugung von Saatgut der Kategorien «zertifiziertes Saatgut», «zertifiziertes Saatgut der ersten Vermehrung» oder «zertifiziertes Saatgut der zweiten Vermehrung» bei Hafer, Gerste, Kanariengras, Roggen, Weizen, Dinkel und Triticale ausser deren Hybriden sowie für Soja, Lein, ...[^4-5], Lupine, Futtererbse, Wicke und Luzerne;
-- b.[^4-6] zur Erzeugung von zertifiziertem Saatgut der ersten Vermehrung bei Sorten der Gattungen und Arten von Futterpflanzen ausser Lupinen, Futtererbsen, Wicken, Luzernen, sowie bei Sorten von Rübsen, Sareptasenf, Raps, ...[^4-7], Sonnenblume, Weissem Senf und Betarüben;
+- a.[^4-4] zur Erzeugung von Saatgut der Kategorien «zertifiziertes Saatgut», «zertifiziertes Saatgut der ersten Vermehrung» oder «zertifiziertes Saatgut der zweiten Vermehrung» bei Hafer, Gerste, Kanariengras, Roggen, Weizen, Dinkel und Triticale ausser deren Hybriden sowie für Soja, Lein, …[^4-5], Lupine, Futtererbse, Wicke und Luzerne;
+- b.[^4-6] zur Erzeugung von zertifiziertem Saatgut der ersten Vermehrung bei Sorten der Gattungen und Arten von Futterpflanzen ausser Lupinen, Futtererbsen, Wicken, Luzernen, sowie bei Sorten von Rübsen, Sareptasenf, Raps, …[^4-7], Sonnenblume, Weissem Senf und Betarüben;
 - c. zur Erzeugung von zertifiziertem Saatgut bei Hybriden von Hafer, Gerste, Roggen, Weizen, Dinkel und Triticale;
 - d. zur Erzeugung von zertifiziertem Saatgut von «Top Cross»-Hybriden oder Sortenkreuzungshybriden bei frei abblühenden Sorten von Mais, Sorghum und Sudangras;
 - e. zur Erzeugung von Saatgut von Einfach-Hybriden oder von «Top Cross»-Hybriden bei Saatgut von Inzuchtlinien von Mais, Sorghum oder Sudangras;
@@ -154,7 +154,7 @@ Basissaatgut dient:
 
 <sup>1</sup>
 
-Als zertifiziertes Saatgut von Kanariengras ausser dessen Hybriden, von Roggen, Sorghum, Sudangras, Mais, Raps, Rübse, Sareptasenf, ..., Sonnenblume, Weissem Senf, Betarüben und Gemüse, von Hybriden von Hafer, Gerste, Weizen, Dinkel und selbstbestäubenden Sorten von Triticale sowie der Gattungen und Arten von Futterpflanzen ausser Lupine, Futtererbse, Wicke und Luzerne gilt Saatgut, das:[^5-2]
+Als zertifiziertes Saatgut von Kanariengras ausser dessen Hybriden, von Roggen, Sorghum, Sudangras, Mais, Raps, Rübse, Sareptasenf, …, Sonnenblume, Weissem Senf, Betarüben und Gemüse, von Hybriden von Hafer, Gerste, Weizen, Dinkel und selbstbestäubenden Sorten von Triticale sowie der Gattungen und Arten von Futterpflanzen ausser Lupine, Futtererbse, Wicke und Luzerne gilt Saatgut, das:[^5-2]
 
 - a. direkt von Basissaatgut oder, auf Gesuch des Züchters, von Prebasissaatgut abstammt;
 - b.[^5-3] nicht zur Erzeugung von Saatgut bestimmt ist;
@@ -163,7 +163,7 @@ Als zertifiziertes Saatgut von Kanariengras ausser dessen Hybriden, von Roggen, 
 
 <sup>2</sup>
 
-Als zertifiziertes Saatgut der ersten Vermehrung von Hafer, Gerste, Weizen, Dinkel und Triticale ausser deren Hybriden, sowie von Lupine, Futtererbse, Wicke, Luzerne, ..., Faserlein, Öllein und Soja gilt Vermehrungssaatgut, das:[^5-4]
+Als zertifiziertes Saatgut der ersten Vermehrung von Hafer, Gerste, Weizen, Dinkel und Triticale ausser deren Hybriden, sowie von Lupine, Futtererbse, Wicke, Luzerne, …, Faserlein, Öllein und Soja gilt Vermehrungssaatgut, das:[^5-4]
 
 - a. direkt von Basissaatgut oder, auf Gesuch des Züchters, von Prebasissaatgut abstammt;
 - b. für die Produktion von Saatgut der Kategorie «zertifiziertes Saatgut der zweiten Vermehrung» oder für eine andere Produktion ausser jener von Saatgut vorgesehen ist;
@@ -172,13 +172,14 @@ Als zertifiziertes Saatgut der ersten Vermehrung von Hafer, Gerste, Weizen, Dink
 
 <sup>3</sup>
 
-Als zertifiziertes Saatgut der zweiten Vermehrung von Hafer, Gerste, Weizen, Dinkel und Triticale ausser deren Hybriden, sowie von Lupine, Futtererbse, Wicke, Luzerne, ..., Faserlein, Öllein und Soja gilt Saatgut, das:[^5-5]
+Als zertifiziertes Saatgut der zweiten Vermehrung von Hafer, Gerste, Weizen, Dinkel und Triticale ausser deren Hybriden, sowie von Lupine, Futtererbse, Wicke, Luzerne, …, Faserlein, Öllein und Soja gilt Saatgut, das:[^5-5]
 
 - a. direkt von Saatgut der Kategorien «Basissaatgut» , «zertifiziertes Saatgut der ersten Vermehrung» oder, auf Gesuch des Züchters, der Kategorie «Prebasissaatgut» abstammt;
 - b. nicht zur Erzeugung von Saatgut bestimmt ist;
 - c. den in den Anhängen 3 und 4 festgelegten Bedingungen für zertifiziertes Saatgut der zweiten Vermehrung entspricht; und
 - d. nach den Regeln dieser Verordnung produziert und anerkannt worden ist.
-- [tab] <sup>4</sup> ...[^5-6]
+
+<sup>4</sup> …[^5-6]
 
 [^5-1]: Fassung gemäss Ziff. I der V des WBF vom 7. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^5-2]: Fassung gemäss Ziff. I der V des WBF vom 7. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
@@ -310,8 +311,8 @@ Als zertifiziertes Pflanzgut gelten Knollen von Kartoffeln, die:
 
 Als Vermehrungssaatgut von Getreide sowie Öl- und Faserpflanzen im Sinne von Absatz 5 kann nur verwendet werden:
 
-- a. Prebasis- und Basissaatgut für die Sorten von Mais, Roggen, Sorghum, Sudangras und Kanariengras sowie für Hybridsorten von Hafer, Gerste, Weizen, Dinkel und Triticale, bzw. für die Sorten von Raps, Rübsen, Sareptasenf, ..., Sonnenblume, Weissem Senf und Betarüben;
-- b. Prebasis- und Basissaatgut sowie zertifiziertes Saatgut der ersten Vermehrung für die Sorten von Hafer, Gerste, Weizen, Dinkel und Triticale ausser deren Hybriden, bzw. für die Sorten von Lupine, Futtererbse, Wicke, Luzerne, ..., Faserlein, Öllein und Soja.[^10-3]
+- a. Prebasis- und Basissaatgut für die Sorten von Mais, Roggen, Sorghum, Sudangras und Kanariengras sowie für Hybridsorten von Hafer, Gerste, Weizen, Dinkel und Triticale, bzw. für die Sorten von Raps, Rübsen, Sareptasenf, …, Sonnenblume, Weissem Senf und Betarüben;
+- b. Prebasis- und Basissaatgut sowie zertifiziertes Saatgut der ersten Vermehrung für die Sorten von Hafer, Gerste, Weizen, Dinkel und Triticale ausser deren Hybriden, bzw. für die Sorten von Lupine, Futtererbse, Wicke, Luzerne, …, Faserlein, Öllein und Soja.[^10-3]
 
 <sup>7</sup> Als Vermehrungssaatgut von Futterpflanzen im Sinne von Absatz 5 darf für Futterpflanzensorten ausser Lupine, Futtererbse, Wicke und Luzerne nur Prebasis- und Basissaatgut verwendet werden.[^10-4]
 
@@ -349,7 +350,7 @@ Als Kleinpackungen EG von Betarüben gelten Packungen mit folgendem zertifiziert
 
 <sup>3</sup> Auf Gesuch hin kann das BLW einen Mischposten von Pflanzgut einer einzigen Sorte und Klasse zur Anerkennung zulassen, das vom gleichen Produzenten in verschiedenen Parzellen produziert wird. Falls ein Teil des Mischpostens die Anforderungen der vorgesehenen Klasse nicht erfüllt, wird die entsprechende tiefere Klasse für die Bezeichnung des gesamten Mischpostens verwendet.
 
-<sup>4</sup> und <sup>5</sup> ...[^12-2]
+<sup>4 und <sup>5</sup></sup> …[^12-2]
 
 [^12-1]: Fassung gemäss Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 [^12-2]: Aufgehoben durch Ziff. I der V des WBF vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
@@ -559,7 +560,7 @@ Die Aufbereitungsorganisationen sind verpflichtet:
 <sup>6</sup> Bei Ablehnung eines Vermehrungsbestandes kann der Produzent innerhalb einer Frist von drei Arbeitstagen nach der Mitteilung schriftlich beim BLW Einsprache erheben. Das BLW ist verpflichtet, innerhalb von sieben Tagen nach Eingang der Einsprache eine Gegenexpertise durchzuführen. Innerhalb dieser Frist dürfen keine Veränderungen am Zustand des Vermehrungsbestandes vorgenommen werden.
 
 [^23-1]: Fassung gemäss Ziff. I der V des WBF vom 7. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^23-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^23-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 [^23-3]: Fassung gemäss Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 24
@@ -578,7 +579,7 @@ Ein Saatgutposten wird durch das BLW anerkannt, wenn er:
 
 <sup>3</sup> Abgewiesene Posten können nach einer zusätzlichen Aufbereitung (Trocknung, Nachreinigung usw.) erneut zur Anerkennung vorgelegt werden. Zu diesem Zweck muss ein neues offizielles Muster gezogen werden.
 
-<sup>4</sup> ...[^24-4]
+<sup>4</sup> …[^24-4]
 
 <sup>5</sup> Das BLW kann aufgrund einer Musteruntersuchung ungereinigte Posten provisorisch anerkennen und ihr Inverkehrbringen bis zum ersten Abnehmer bewilligen. Die Vermehrungsorganisationen sind verpflichtet, auf Verlangen des BLW eine Liste mit Name und Adresse des ersten Abnehmers zur Verfügung zu stellen. Ein offizielles Muster wird sofort nach der Aufbereitung des Postens gezogen und an ein offizielles Labor gesandt. Das Inverkehrbringen muss sofort gestoppt werden, wenn das offizielle Muster gemäss den Ergebnissen der Untersuchung den in Anhang 4 festgelegten Anforderungen nicht entspricht.[^24-5]
 
@@ -587,7 +588,7 @@ Ein Saatgutposten wird durch das BLW anerkannt, wenn er:
 <sup>7</sup> Wird ein Posten aufgrund der offiziellen Laborkontrolle abgewiesen, so kann der Produzent innerhalb von 30 Tagen schriftlich beim BLW Einsprache erheben.[^24-7]
 
 [^24-1]: Fassung gemäss Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^24-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^24-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 [^24-3]: Fassung gemäss Anhang 13 Ziff. 1 der V des WBF und des UVEK vom 14. Nov. 2019 zur Pflanzengesundheitsverordnung, in Kraft seit 1. Jan. 2020 ([AS 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)).
 [^24-4]: Aufgehoben durch Ziff. I der V des WBF vom 7. Juni 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^24-5]: Fassung gemäss Ziff. I der V des WBF vom 2. Mai 2005, in Kraft seit 10. Mai 2005 ([AS 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
@@ -644,7 +645,7 @@ Saat- und Pflanzgut darf nur in homogenen Posten sowie in Verpackungen in Verkeh
 
 <sup>5</sup> Zu Forschungs- und Versuchszwecken kann das BLW das Inverkehrbringen kleiner Mengen von Saat- und Pflanzgut gestatten, das den Anforderungen nach Artikel 20 nicht entspricht.[^27-5]
 
-<sup>6</sup> ...[^27-6]
+<sup>6</sup> …[^27-6]
 
 <sup>7</sup> In Abweichung von den Bestimmungen nach Artikel 20 kann das BLW das Inverkehrbringen von Saatgut, das noch nicht aufbereitet ist, gestatten, sofern es erfolgreich feldbesichtigt ist und die Anforderungen nach Anhang 3 erfüllt. Das BLW verfügt die Auflagen von Fall zu Fall.[^27-7]
 
@@ -796,7 +797,7 @@ Die Angaben über die Anbau- und Verwendungseignung nach Artikel 16 Absatz 2 Buc
 
 <sup>4</sup> Das BLW kann ein Aufnahmegesuch ablehnen, wenn aus den gemachten Angaben hervorgeht, dass eines der beobachteten Merkmale der betreffenden Sorte den Ausscheidungswert nach Anhang 2 erreicht.
 
-[^32-1]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^32-1]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 [^32-2]: Eingefügt durch Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 33
@@ -859,7 +860,7 @@ Saatgut verschiedener Sorten einer Getreideart oder Saatgut von Getreide verschi
 
 <sup>1</sup> Die Artikel 32 Absätze 3 und 3<sup>bis</sup> gelten auch für Kartoffeln.[^36-2]
 
-<sup>2</sup> ...[^36-3]
+<sup>2</sup> …[^36-3]
 
 <sup>3</sup> Das BLW kann ein Aufnahmegesuch ablehnen, wenn die Ergebnisse der Vorversuche zeigen, dass die Sorte die in Anhang 2 festgelegten Anforderungen nicht erfüllt.
 
@@ -958,7 +959,7 @@ Das BLW kann für Pflanzkartoffeln, die durch Mikrovermehrung erzeugt worden sin
 
 [^39-1]: Fassung gemäss Ziff. I der V des WBF vom 7. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^39-2]: Eingefügt durch Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^39-3]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^39-3]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 [^39-4]: Eingefügt durch Ziff. I der V des WBF vom 2. Mai 2005, in Kraft seit 10. Mai 2005 ([AS 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 39a
@@ -983,7 +984,7 @@ In Abweichung von den Bestimmungen nach Artikel 24 wird ein Pflanzgutposten von 
 <sup>2</sup> Das BLW legt die Höchstmenge fest, die nach Absatz 1 anerkannt werden kann.
 
 [^39a-1]: Eingefügt durch Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^39a-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^39a-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 40
 
@@ -995,7 +996,7 @@ In Abweichung von den Bestimmungen nach Artikel 24 wird ein Pflanzgutposten von 
 
 <sup>3</sup> Das BLW kann Pflanzgutmuster ziehen und sie kontrollieren lassen, um ihre Übereinstimmung mit den Anforderungen dieser Verordnung, insbesondere jenen nach Anhang 6, zu überprüfen.
 
-### 3. Abschnitt: Futter-, Öl- und Faserpflanzen****
+### 3. Abschnitt: Futter-, Öl- und Faserpflanzen
 
 [^chap2-sec3-1]
 
@@ -1024,7 +1025,7 @@ In Abweichung von den Bestimmungen nach Artikel 24 wird ein Pflanzgutposten von 
 
 **Produktion von anerkanntem Saatgut**
 
-<sup>1</sup> ...[^41-1]
+<sup>1</sup> …[^41-1]
 
 <sup>2</sup>
 
@@ -1052,7 +1053,7 @@ In Abweichung von den Artikeln 20–24 lässt das BLW einen Saatgutposten als Ha
 
 <sup>2</sup> Die offiziellen Muster werden unmittelbar nach beendeter Reinigung der einzelnen Posten durch eine vom BLW zugelassene Person gezogen und an das Labor des BLW geschickt. Die Vermehrungsorganisationen behalten während mindestens einem Jahr ein Doppel von jedem offiziellen Muster. Das Gewicht der Posten und Muster ist in Anhang 4 festgelegt.
 
-<sup>3</sup> ...[^42-2]
+<sup>3</sup> …[^42-2]
 
 [^42-1]: Fassung gemäss Ziff. I der V des WBF vom 7. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^42-2]: Aufgehoben durch Ziff. I der V des WBF vom 7. Juni 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
@@ -1079,30 +1080,43 @@ In Abweichung von den Artikeln 20–24 lässt das BLW einen Saatgutposten als Ha
 
 **Inverkehrbringen**
 
-<sup>1</sup> ...[^45-1]
+<sup>1</sup> …[^45-1]
 
-<sup>1bis</sup> ...[^45-2]
+<sup>1bis</sup> …[^45-2]
 
-<sup>2</sup>
+<sup>2</sup> Bei folgenden Arten können auch homogene Saatgutposten der Kategorie «Handelssaatgut» in Verkehr gebracht werden:[^45-3]
 
-Bei folgenden Arten können auch homogene Saatgutposten der Kategorie «Handelssaatgut» in Verkehr gebracht werden:[^45-3]
+*Antyllis vulneraria*
 
-- [tab] Antyllis vulneraria
-- [tab] *Brassica juncea* L.
-- [tab] *Bromus stamineus* Desv.
-- [tab] *Cynodon dactylon* (L.) Pers.
-- [tab] *Cynosorus cristatus* L.
-- [tab] *Hedysarum coronarium* L.
-- [tab] *Lotus uliginosus* Schk.
-- [tab] *Melilotus alba* Medikus
-- [tab] *Melilotus officinalis* (L.) Pallas
-- [tab] *Onobrychis viciifolia* Scop.
-- [tab] *Phalaris aquatica* L.
-- [tab] *Poa annua* L.
-- [tab] *Sinapis alba* L.
-- [tab] *Trigonella foenum-graecum* L.
-- [tab] *Vicia faba* L. *(partim)*
-- [tab] *Vicia pannonica* Crantz.[^45-4]
+*Brassica juncea* L.
+
+*Bromus stamineus* Desv.
+
+*Cynodon dactylon* (L.) Pers.
+
+*Cynosorus cristatus* L.
+
+*Hedysarum coronarium* L.
+
+*Lotus uliginosus* Schk.
+
+*Melilotus alba* Medikus
+
+*Melilotus officinalis* (L.) Pallas
+
+*Onobrychis viciifolia* Scop.
+
+*Phalaris aquatica* L.
+
+*Poa annua* L.
+
+*Sinapis alba* L.
+
+*Trigonella foenum-graecum* L.
+
+*Vicia faba* L. *(partim)*
+
+*Vicia pannonica* Crantz.[^45-4]
 
 <sup>3</sup> Das BLW kann das Inverkehrbringen von Ökotypen von nicht unter Absatz 2 aufgeführten Arten mit dem Ziel der Nutzung und Erhaltung der phytogenetischen Ressourcen erlauben; es legt entsprechende Bedingungen fest.
 
@@ -1110,7 +1124,7 @@ Bei folgenden Arten können auch homogene Saatgutposten der Kategorie «Handelss
 
 <sup>5</sup> Das erste Inverkehrbringen von in der Schweiz produziertem Handelssaatgut darf nur durch zugelassene Vermehrungsorganisationen nach Artikel 22 erfolgen.
 
-- [tab] <sup>6</sup> Das erste Inverkehrbringen von in der Schweiz produzierten Saatgutmischungen und Kleinpackungen von Futterpflanzen ist den zugelassenen Aufbereitungsorganisationen nach Artikel 22*a* vorbehalten.[^45-5]
+<sup>6</sup> Das erste Inverkehrbringen von in der Schweiz produzierten Saatgutmischungen und Kleinpackungen von Futterpflanzen ist den zugelassenen Aufbereitungsorganisationen nach Artikel 22*a* vorbehalten.[^45-5]
 
 [^45-1]: Aufgehoben durch Ziff. I der V des WBF vom 8. März 2002, mit Wirkung seit 1. Juni 2002 ([AS 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
 [^45-2]: Eingefügt durch Ziff. I der V des WBF vom 22. Dez. 1999 ([AS 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)). Aufgehoben durch Ziff. I der V des WBF vom 8. März 2002, mit Wirkung seit 1. Juni 2002 ([AS 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)).
@@ -1149,7 +1163,7 @@ In Abweichung von Absatz 1 Buchstabe b:
 [^46-5]: Eingefügt durch Ziff. I der V des WBF vom 7. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^46-6]: Eingefügt durch Ziff. I der V des WBF vom 7. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
-### 4. Abschnitt:**** Betarüben
+### 4. Abschnitt: Betarüben
 
 [^chap2-sec4-1]
 
@@ -1181,7 +1195,7 @@ Aufgehoben
 
 <sup>1</sup> Das BLW vollzieht diese Verordnung; es kann die erforderlichen Vollzugsbestimmungen erlassen.
 
-<sup>2</sup> ...[^50-1]
+<sup>2</sup> …[^50-1]
 
 [^50-1]: Eingefügt durch Ziff. I der V des WBF vom 8. März 2002 ([AS 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)). Aufge- hoben durch Ziff. I der V des WBF vom 7. Juni 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
@@ -1247,7 +1261,7 @@ Saatgut der Gemüsearten nach Anhang 1, das vor dem 31. Dezember 2010 produziert
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 1, 13, 46)
 
@@ -1346,7 +1360,7 @@ Anhang 1*[^t-2]*
 
 <table>
 <tr><td>*Brassica napus* L. var. *napobrassica* (L.) Rchb.</td><td>Kohlrübe, Futterraps</td></tr>
-<tr><td>*Brassica oleracea* L. *convar. acephala* (DC) *Alef. var. medullosa* Thell + *var. viridis* L.</td><td>Futterkohl</td></tr>
+<tr><td>*Brassica oleracea* L. *convar.* *acephala* (DC) *Alef. var. medullosa* Thell + *var. viridis* L.</td><td>Futterkohl</td></tr>
 <tr><td>*Phacelia tanacetifolia* Benth.</td><td>Phazelie</td></tr>
 <tr><td>*Plantago lanceolata* L.</td><td>Spitzwegerich</td></tr>
 <tr><td>*Raphanus sativus* L. *var. oleiformis* Pers.</td><td>Ölrettich</td></tr>
@@ -1451,7 +1465,7 @@ Anhang 1*[^t-2]*
 <tr><td>– Puffmais Gruppe</td><td>Puffmais</td></tr>
 </table>
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 14, 32, 36, 49)
 
@@ -1525,7 +1539,7 @@ Der Gesamt-Sortenwert wird nach einem Gesamtindex berechnet. Die Formel zur Bere
 
 ### 1.6 Technologische Qualität des Weizens (Weichweizen)
 
-Die technologische Qualität des Brotweizens wird aufgrund des «Bewertungsschemas 90» (Saurer und al.; 1991; Landwirtschaft Schweiz 4 (1–2); 55–57) bestimmt.
+Die technologische Qualität des Brotweizens wird aufgrund des «Bewertungsschemas 90» (Saurer und al.; 1991; Landwirtschaft Schweiz 4 (1–2); 55–57) bestimmt:
 
 - – Weizen mit einer sehr guten Backqualität ist Weizen, der mehr als 130 Punkte aufweist;
 - – Weizen mit einer guten Backqualität ist Weizen, der mehr als 110 Punkte aufweist;
@@ -1579,7 +1593,7 @@ Abkürzungen:
 <tr><td>Rohfaser</td><td colspan="2">g/TS</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 <tr><td>Grünschnittertrag:</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 <tr><td>– Ertrag Reinsaat</td><td colspan="2">Prozent TS</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>– Ertrag Mischsaat</td><td colspan="2">[tab] Prozent TS</td><td>[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td>[tab]</td></tr>
+<tr><td>– Ertrag Mischsaat</td><td colspan="2">Prozent TS</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 </table>
 
 ### 2.2 Gerste
@@ -1631,34 +1645,36 @@ Abkürzungen:
 ### 2.4 Weizen (Weichweizen)
 
 <table>
-<tr><th colspan="2">Beobachtete Merkmale</th><th></th><th colspan="2">Ausscheidungswerte</th><th></th><th colspan="2">Nötige Unterschiede im Vergleich mit dem Durchschnitt der Standarde für den Erhalt eines Bonus oder Malus</th></tr>
-<tr><th></th><th colspan="2">Einheit</th><th>Werte für die Vorversuche</th><th colspan="2">Mittelwerte der 2-jährigen offiziellen Sortenprüfung</th><th>Bonus (+1,5)</th><th>Malus (-1,5)</th></tr>
-<tr><td colspan="8">Hauptmerkmale</td></tr>
-<tr><td>Kornertrag (15 % H<sub>2</sub>O)</td><td colspan="2">in dt/ha</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>Standfestigkeit</td><td colspan="2">Note (1–9)</td><td>&gt; 5 (AW)</td><td colspan="2">&gt; 2 (Std)</td><td>£ –1 (Std)</td><td>³ +1 (Std)</td></tr>
-<tr><td>Frühreife</td><td colspan="2">Ährenschieben Std ± Tage</td><td></td><td colspan="2">&gt; 5 (Std)</td><td>£ –2 (Std)</td><td>³ +3 (Std)</td></tr>
-<tr><td>HLG</td><td colspan="2">kg</td><td>&lt; 72 (AW)</td><td colspan="2">&lt; 72 (AW)</td><td>³ +1 (Std)</td><td>£ –2 (Std)</td></tr>
-<tr><td>Mehltau</td><td colspan="2">Note (1–9)</td><td>&gt; 6 (AW)</td><td colspan="2">³ 6 (AW)</td><td>£ 3 (AW)</td><td>³ 4,5 (AW)</td></tr>
-<tr><td>Gelbrost</td><td colspan="2">Note (1–9)</td><td>&gt; 6 (AW)</td><td colspan="2">³ 6 (AW)</td><td>£ 3 (AW)</td><td>³ 4,5 (AW)</td></tr>
-<tr><td>Braunrost</td><td colspan="2">Note (1–9)</td><td>&gt; 6 (AW)</td><td colspan="2">³ 6 (AW)</td><td>£ 3 (AW)</td><td>³ 4,5 (AW)</td></tr>
-<tr><td>Spelzenbräune Blatt</td><td colspan="2">Index</td><td></td><td colspan="2">&gt; 25 (Std) und &gt; 125 (AW)</td><td>£ –15 (Std)</td><td>³ +15 (Std)</td></tr>
-<tr><td>Spelzenbräune Ähre</td><td colspan="2">Index</td><td></td><td colspan="2">&gt; 40 (Std) und &gt; 125 (AW)</td><td>£ –10 (Std)</td><td>³ +20 (Std)</td></tr>
-<tr><td>Septoria tritici</td><td colspan="2">Index</td><td></td><td colspan="2">&gt; 25 (Std)</td><td>£ –15 (Std)</td><td>³ +15 (Std)</td></tr>
-<tr><td>Ährenfusarien</td><td colspan="2">Note (1–9)</td><td>&gt; 8 (AW)</td><td colspan="2">&gt; 7 (AW)</td><td>&lt; 4 (AW)</td><td>&gt; 6 (AW)</td></tr>
-<tr><td>Zeleny<sup>1</sup></td><td colspan="2"></td><td>&lt; 20 (AW)</td><td colspan="2">&lt; 20 (AW)</td><td></td><td></td></tr>
-<tr><td>Protein<sup>1 2</sup></td><td colspan="2">Prozent</td><td>&lt; 10 (AW)</td><td colspan="2">&lt; 10 (AW)</td><td></td><td></td></tr>
-<tr><td>Backqualität<sup>1</sup></td><td colspan="2"></td><td>nicht backfähig</td><td colspan="2">nicht backfähig</td><td></td><td></td></tr>
-<tr><td colspan="8">Neben-Merkmale</td></tr>
-<tr><td>Auswuchs<sup>1</sup></td><td colspan="2">Note (1–9)</td><td></td><td colspan="2">&gt; 6 (AW)</td><td>£ –2 (Std)</td><td>³+2 (Std)</td></tr>
-<tr><td>Überwinterung (Winter-Weizen)</td><td colspan="2">Note (1–9)</td><td></td><td colspan="2">&gt; 2 (Std)</td><td>£ –2 (Std)</td><td>³+2 (Std)</td></tr>
-<tr><td>Schwarzrost (Sommer-Weizen)</td><td colspan="2">Note (1–9)</td><td>&gt; 7 (AW)</td><td colspan="2">&gt; 7 (AW)</td><td>£ –2 (Std)</td><td>³+3 (Std)</td></tr>
-<tr><td>Spelzenbräune</td><td colspan="2">Note (1–9)</td><td>&gt; 7 (AW)</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td colspan="8">Andere Beobachtungen</td></tr>
-<tr><td>Pflanzenlänge</td><td colspan="2">cm</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>TKG</td><td colspan="2">g</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>Alternanz</td><td colspan="2">Note</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>HB</td><td colspan="2">Note (1–9)</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td colspan="8">[tab] Bemerkungen: <sup>1</sup> Für die Aufnahme von Futterweizensorten werden diese Merkmale nicht berücksichtigt. <sup>2</sup> Für die Aufnahme von Biskuitweizensorten wird dieses Merkmal nicht berücksichtigt.</td></tr>
+<tr><th colspan="2">Beobachtete Merkmale</th><th colspan="2">Ausscheidungswerte</th><th></th><th colspan="2">Nötige Unterschiede im Vergleich mit dem Durchschnitt der Standarde für den Erhalt eines Bonus oder Malus</th></tr>
+<tr><th></th><th>Einheit</th><th>Werte für die Vorversuche</th><th colspan="2">Mittelwerte der 2-jährigen offiziellen Sortenprüfung</th><th>Bonus (+1,5)</th><th>Malus (–1,5)</th></tr>
+<tr><td colspan="7">Hauptmerkmale</td></tr>
+<tr><td>Kornertrag (15 % H<sub>2</sub>O)</td><td>in dt/ha</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>Standfestigkeit</td><td>Note (1–9)</td><td>&gt; 5 (AW)</td><td colspan="2">&gt; 2 (Std)</td><td>≤ – 1 (Std)</td><td>≥ + 1 (Std)</td></tr>
+<tr><td>Frühreife</td><td>Ährenschieben std ± Tage</td><td></td><td colspan="2">&gt; 5 (Std)</td><td>≤ – 2 (Std)</td><td>≥ + 3 (Std)</td></tr>
+<tr><td>HLG</td><td>kg</td><td>&lt; 72 (AW)</td><td colspan="2">&lt; 72 (AW)</td><td>≥ + 1 (Std)</td><td>≤ – 2 (Std)</td></tr>
+<tr><td>Mehltau</td><td>Note (1–9)</td><td>&gt; 6 (AW)</td><td colspan="2">≥ 6 (AW)</td><td>≤ 3 (AW)</td><td>≥ 4,5 (AW)</td></tr>
+<tr><td>Gelbrost</td><td>Note (1–9)</td><td>&gt; 6 (AW)</td><td colspan="2">≥ 6 (AW)</td><td>≤ 3 (AW)</td><td>≥ 4,5 (AW)</td></tr>
+<tr><td>Braunrost</td><td>Note (1–9)</td><td>&gt; 6 (AW)</td><td colspan="2">≥ 6 (AW)</td><td>≤ 3 (AW)</td><td>≥ 4,5 (AW)</td></tr>
+<tr><td>Spelzenbräune Blatt</td><td>Index</td><td></td><td colspan="2">&gt; 25 (Std) und &gt; 125 (AW)</td><td>≤ – 15 (Std)</td><td>≥ + 15 (Std)</td></tr>
+<tr><td>Spelzenbräune Ähre</td><td>Index</td><td></td><td colspan="2">&gt; 40 (Std) und &gt; 125 (AW)</td><td>≤ – 10 (Std)</td><td>≥ + 20 (Std)</td></tr>
+<tr><td>Septoria tritici</td><td>Index</td><td></td><td colspan="2">&gt; 25 (Std)</td><td>≤ – 15 (Std)</td><td>≥ + 15 (Std)</td></tr>
+<tr><td>Ährenfusarien</td><td>Note (1–9)</td><td>&gt; 8 (AW)</td><td colspan="2">&gt; 7 (AW)</td><td>&lt; 4 (AW)</td><td>&gt; 6 (AW)</td></tr>
+<tr><td>Zeleny<sup>1</sup></td><td></td><td>&lt; 20 (AW)</td><td colspan="2">&lt; 20 (AW)</td><td></td><td></td></tr>
+<tr><td>Protein<sup>1 2</sup></td><td>Prozent</td><td>&lt; 10 (AW)</td><td colspan="2">&lt; 10 (AW)</td><td></td><td></td></tr>
+<tr><td>Backqualität<sup>1</sup></td><td></td><td>nicht backfähig</td><td colspan="2">nicht backfähig</td><td></td><td></td></tr>
+<tr><td colspan="7">Neben-Merkmale</td></tr>
+<tr><td>Auswuchs<sup>1</sup></td><td>Note (1–9)</td><td></td><td colspan="2">&gt; 6 (AW)</td><td>≤ – 2 (Std)</td><td>≥ + 2 (Std)</td></tr>
+<tr><td>Überwinterung (Winter-Weizen)</td><td>Note (1–9)</td><td></td><td colspan="2">&gt; 2 (Std)</td><td>≤ – 2 (Std)</td><td>≥ + 2 (Std)</td></tr>
+<tr><td>Schwarzrost (Sommer-Weizen)</td><td>Note (1–9)</td><td>&gt; 7 (AW)</td><td colspan="2">&gt; 7 (AW)</td><td>≤ – 2 (Std)</td><td>≥ + 3 (Std)</td></tr>
+<tr><td>Spelzenbräune</td><td>Note (1–9)</td><td>&gt; 7 (AW)</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="7">Andere Beobachtungen</td></tr>
+<tr><td>Pflanzenlänge</td><td>cm</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>TKG</td><td>g</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>Alternanz</td><td>Note</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>HB</td><td>Note (1–9)</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="7">Bemerkungen:</td></tr>
+<tr><td colspan="7"><sup>1</sup> Für die Aufnahme von Futterweizensorten werden diese Merkmale nicht berücksichtigt.</td></tr>
+<tr><td colspan="7"><sup>2</sup> Für die Aufnahme von Biskuitweizensorten wird dieses Merkmal nicht berücksichtigt.</td></tr>
 </table>
 
 ### 2.5 Dinkel
@@ -1761,21 +1777,24 @@ Abkürzungen:
 ### 2.7.2 Indexberechnung für Körnermais
 
 <table>
-<tr><th colspan="2">Benützte Merkmale für die Berechnung der Indexe</th><th colspan="2">Leistung der Sorte in der Prüfung</th><th colspan="2">Mittelwert der 2 besten Standardsorten</th><th colspan="2">Gewichtungsfaktor</th><th colspan="6">Berechnungsformel der Indexe</th></tr>
-<tr><td colspan="2">Index – Ertrag (A)</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td></tr>
-<tr><td colspan="2">Körnerertrag 15 % H<sub>2</sub>0 (dt/ha)</td><td colspan="2">a<sub>1</sub></td><td colspan="2">a<sub>2</sub></td><td colspan="2">1,0</td><td colspan="2"></td><td>{</td><td>(a<sub>1</sub> − a<sub>2</sub>) × 100 a<sub>2</sub></td><td>}</td><td>´1,0=A</td></tr>
-<tr><td colspan="2">Index – Reife (B)</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td></tr>
-<tr><td colspan="2">TS-Gehalt (%)</td><td colspan="2">b<sub>1</sub></td><td colspan="2">b<sub>2</sub></td><td colspan="2">2,5</td><td colspan="2"></td><td colspan="4">(b<sub>1</sub> − b<sub>2</sub>) ´ 2,5 = B</td></tr>
-<tr><td colspan="2">Index – Standfestigkeit (C)</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td></tr>
-<tr><td colspan="2">Wurzellagerung Vegetation (%)</td><td colspan="2">c<sub>1</sub></td><td colspan="2">c<sub>2</sub></td><td colspan="2">0,25</td><td colspan="2"></td><td colspan="4">(c<sub>2</sub> − c<sub>1</sub>) ´ 0,25</td></tr>
-<tr><td colspan="2">Wurzellagerung Ernte (%)</td><td colspan="2">c<sub>3</sub></td><td colspan="2">c<sub>4</sub></td><td colspan="2">0,75</td><td colspan="2">+</td><td colspan="4">(c<sub>4</sub> − c<sub>3</sub>) ´ 0,75</td></tr>
-<tr><td colspan="2">Stengelbruch (%)</td><td colspan="2">c<sub>5</sub></td><td colspan="2">c<sub>6</sub></td><td colspan="2">0,75</td><td colspan="2">+ =</td><td colspan="4">(c<sub>6</sub> − c<sub>5</sub>) ´ 0,75 C</td></tr>
-<tr><td colspan="2">Index – Krankheit (D)</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td></tr>
-<tr><td colspan="2">Stengelfäule (%)</td><td colspan="2">d<sub>1</sub></td><td colspan="2">d<sub>2</sub></td><td colspan="2">0,25</td><td colspan="2"></td><td colspan="4">(d<sub>2</sub> − d<sub>1</sub>) ´ 0,25</td></tr>
-<tr><td colspan="2">Beulenbrand (%)</td><td colspan="2">d<sub>3</sub></td><td colspan="2">d<sub>4</sub></td><td colspan="2">0,25</td><td colspan="2">+ =</td><td colspan="4">(d<sub>4</sub> − d<sub>3</sub>) ´ 0,25 D</td></tr>
-<tr><td colspan="2">Index – Jugendentwicklung (E)</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="2">Jugendentwicklung (Note \*)</td><td colspan="2">e<sub>1</sub></td><td colspan="2">e<sub>2</sub></td><td colspan="2">0,5</td><td colspan="2"></td><td colspan="4">(e<sub>2</sub> − e<sub>1</sub>) ´ 0,5 = E</td></tr>
-<tr><td colspan="14">*Gesamtindex für Körnermais = A + B + C + D + E* \* Note 1 = sehr gut, Note 9 = sehr schlecht</td></tr>
+<tr><th>Benützte Merkmale für die Berechnung der Indexe</th><th>Leistung der Sorte in der Prüfung</th><th>Mittelwert der 2 besten Standardsorten</th><th colspan="2">Gewichtungsfaktor</th><th>Berechnungsformel der Indexe</th></tr>
+<tr><td colspan="6">Index – Ertrag (A)</td></tr>
+<tr><td>Körnerertrag 15 % H<sub>2</sub>0 (dt/ha)</td><td>a<sub>1</sub></td><td colspan="2">a<sub>2</sub></td><td>1,0</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="6">Index – Reife (B)</td></tr>
+<tr><td>TS-Gehalt (%)</td><td>b<sub>1</sub></td><td>b<sub>2</sub></td><td colspan="2">2,5</td><td>(b<sub>1</sub> – b<sub>2</sub>) x 2,5 = B</td></tr>
+<tr><td colspan="6">Index – Standfestigkeit (C)</td></tr>
+<tr><td>Wurzellagerung Vegetation (%)</td><td>c<sub>1</sub></td><td>c<sub>2</sub></td><td colspan="2">0,25</td><td>(c<sub>2</sub> – c<sub>1</sub>) x 0,25</td></tr>
+<tr><td>Wurzellagerung Ernte (%)</td><td>c<sub>3</sub></td><td>c<sub>4</sub></td><td colspan="2">0,75</td><td>+ (c<sub>4</sub> – c<sub>3</sub>) x 0,75</td></tr>
+<tr><td>Stengelbruch (%)</td><td>c<sub>5</sub></td><td>c<sub>6</sub></td><td colspan="2">0,75</td><td>+ (c<sub>6</sub> – c<sub>5</sub>) x 0,75</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2"></td><td>= C</td></tr>
+<tr><td colspan="6">Index – Krankheit (D)</td></tr>
+<tr><td>Stengelfäule (%)</td><td>d<sub>1</sub></td><td>d<sub>2</sub></td><td colspan="2">0,25</td><td>(d<sub>2</sub> – d<sub>1</sub>) x 0,25</td></tr>
+<tr><td>Beulenbrand (%)</td><td>d<sub>3</sub></td><td>d<sub>4</sub></td><td colspan="2">0,25</td><td>+ (d<sub>4</sub> – d<sub>3</sub>) x 0,25</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2"></td><td>= D</td></tr>
+<tr><td colspan="6">Index – Jugendentwicklung (E)</td></tr>
+<tr><td>Jugendentwicklung (Note \*)</td><td>e<sub>1</sub></td><td>e<sub>2</sub></td><td colspan="2">0,5</td><td>(e<sub>2</sub> – e<sub>1</sub>) x 0,5 = E</td></tr>
+<tr><td colspan="6">*Gesamtindex für Körnermais* = A + B + C + D + E</td></tr>
+<tr><td colspan="6">\* Note 1 = sehr gut, Note 9 = sehr schlecht</td></tr>
 </table>
 
 ### 2.7.3 Indexberechnung für Silomais
@@ -1919,10 +1938,8 @@ Ein Vorversuch wird nur bei Ackerbohnen, Futtererbsen und Lupinen durchgeführt.
 ### 1.2 Beobachtete Merkmale
 
 - a. Hauptmerkmale: Diese werden in den Vorversuchen und den offiziellen Versuchen beobachtet. Man unterscheidet zwischen wichtigen Eigenschaften mit Priorität A und Eigenschaften mit weniger Bedeutung mit Priorität B.
-- b. Neben-Merkmale:
-- Diese werden beobachtet, sofern es die Bedingungen erlauben.
-- c. Andere Beobachtungen:
-- Es handelt sich um zusätzliche Informationen und die Beobachtung von speziellen Problemen. Diese Merkmale sind nicht prüfungsrelevant.
+- b. Neben-Merkmale: Diese werden beobachtet, sofern es die Bedingungen erlauben.
+- c. Andere Beobachtungen: Es handelt sich um zusätzliche Informationen und die Beobachtung von speziellen Problemen. Diese Merkmale sind nicht prüfungsrelevant.
 
 ### 1.3 Ausscheidungswerte
 
@@ -1951,7 +1968,13 @@ Der Gesamt-Sortenwert wird nach dem Durchschnitt der Ergebnisse der Versuche ber
 
 ### 1.4.1 Gräserarten, Leguminosen und andere Arten
 
-Der Gesamtsortenwert wird für jede Art gemäss der nachstehenden Formel berechnet: X = (Total der Noten für die beobachteten Merkmale mit Priorität A) × 2 Y = (Total der Noten für die beobachteten Merkmale mit Priorität B) Z = Anzahl der Noten Gesamtsortenwert = (X + Y) / Z
+Der Gesamtsortenwert wird für jede Art gemäss der nachstehenden Formel berechnet:
+
+- X = (Total der Noten für die beobachteten Merkmale mit Priorität A) × 2
+- Y = (Total der Noten für die beobachteten Merkmale mit Priorität B)
+- Z = Anzahl der Noten
+
+Gesamtsortenwert = (X + Y) / Z
 
 ### 1.4.2 Ackerbohnen, Futtererbsen und Lupinen
 
@@ -1965,33 +1988,41 @@ Bonus- und Malus-Werte entstehen durch Korrekturen in Form von Zusatz- oder Abzu
 
 - a. Die beobachteten Merkmale, die für die Berechnung des Gesamtsortenwertes verwendet werden, sowie ihre Priorität sind für jede Art in der Tabelle 1 dieses Kapitels festgehalten.
 - b. Die Notenbewertung der Bonitierung beträgt 1 bis 9; 1 ist die beste Note und 9 die schlechteste.
-- c. Die Notenzuteilung verläuft gemäss dem nachstehenden Notensystem:
+- c.
+
+  Die Notenzuteilung verläuft gemäss dem nachstehenden Notensystem:
+
+  - 1\. Nach Varianzanalyse:
 
 <table>
-<tr><td colspan="3">1. Nach Varianzanalyse:</td><td colspan="4"></td><td></td></tr>
-<tr><td colspan="3">Wert im Verhältnis zu dem Versuchsmittel (oder Standard)</td><td colspan="4"></td><td>Note</td></tr>
-<tr><td colspan="3">Positive Differenz:</td><td colspan="4">&gt; KGD (p = 0,01)</td><td>1</td></tr>
-<tr><td colspan="3"></td><td colspan="4">&gt; KGD (p = 0,05)</td><td>2</td></tr>
-<tr><td colspan="3"></td><td colspan="4">&gt; 2/3 KGD (p = 0,05)</td><td>3</td></tr>
-<tr><td colspan="3"></td><td colspan="4">&gt; 1/3 KGD (p = 0,05)</td><td>4</td></tr>
-<tr><td colspan="3">Gleich wie Versuchsmittel (oder Standard):</td><td colspan="4"></td><td>5</td></tr>
-<tr><td colspan="3">Negative Differenz:</td><td colspan="4">&gt; 1/3 KGD (p = 0,05)</td><td>6</td></tr>
-<tr><td colspan="3"></td><td colspan="4">&gt; 2/3 KGD (p = 0,05)</td><td>7</td></tr>
-<tr><td colspan="3"></td><td colspan="4">&gt; KGD (p = 0,05)</td><td>8</td></tr>
-<tr><td colspan="3"></td><td colspan="4">&gt; KGD (p = 0,01)</td><td>9</td></tr>
-<tr><td colspan="3">KGD = kleinst gesicherte Differenz</td><td colspan="4"></td><td></td></tr>
-<tr><td colspan="3">2. Nach Bonituren:</td><td colspan="4"></td><td></td></tr>
-<tr><td>Note</td><td>Jugendentwicklung Nachwuchsvermögen Krankheitsresistenz<sup>1</sup></td><td colspan="2">Konkurrenzkraft (100-Anteil in %) der Sorte/ 10 = Konkurrenzzahl</td><td colspan="2">Beschaffenheit Blatt</td><td colspan="2">Ausdauer Fehlstellen in % der gesamten Bodenbedeckung</td></tr>
-<tr><td>1</td><td>sehr gut</td><td colspan="2">(100–90 %) = 10/10 =</td><td>1</td><td>sehr fein</td><td colspan="2">0 bis 10</td></tr>
-<tr><td>2</td><td>sehr gut bis gut</td><td colspan="2">(100–80 %) = 20/10 =</td><td>2</td><td></td><td colspan="2">20</td></tr>
-<tr><td>3</td><td>gut</td><td colspan="2"></td><td>3</td><td></td><td colspan="2">30</td></tr>
-<tr><td>4</td><td>gut bis mittel</td><td colspan="2"></td><td>4</td><td></td><td colspan="2">40</td></tr>
-<tr><td>5</td><td>mittel</td><td colspan="2"></td><td>5</td><td></td><td colspan="2">50</td></tr>
-<tr><td>6</td><td>mittel bis gering</td><td colspan="2"></td><td>6</td><td></td><td colspan="2">60</td></tr>
-<tr><td>7</td><td>gering</td><td colspan="2"></td><td>7</td><td></td><td colspan="2">70</td></tr>
-<tr><td>8</td><td>gering bis sehr gering</td><td colspan="2"></td><td>8</td><td></td><td colspan="2">80</td></tr>
-<tr><td>9</td><td>sehr gering</td><td colspan="2">(100–10 %) = 90/10 =</td><td>9</td><td>sehr grob</td><td colspan="2">90 bis 100</td></tr>
-<tr><td colspan="8"><sup>1</sup> bonitiert nach Krankheitsbildern</td></tr>
+<tr><td></td><td></td><td>Note</td></tr>
+<tr><td>Wert im Verhältnis zu dem Versuchsmittel (oder Standard)</td><td></td><td></td></tr>
+<tr><td>Positive Differenz:</td><td>&gt; KGD (p = 0,01)</td><td>1</td></tr>
+<tr><td></td><td>&gt; KGD (p = 0,05)</td><td>2</td></tr>
+<tr><td></td><td>&gt; 2/3 KGD (p = 0,05)</td><td>3</td></tr>
+<tr><td></td><td>&gt; 1/3 KGD (p = 0,05)</td><td>4</td></tr>
+<tr><td>Gleich wie Versuchsmittel (oder Standard):</td><td></td><td>5</td></tr>
+<tr><td>Negative Differenz:</td><td>&gt; 1/3 KGD (p = 0,05)</td><td>6</td></tr>
+<tr><td></td><td>&gt; 2/3 KGD (p = 0,05)</td><td>7</td></tr>
+<tr><td></td><td>&gt; KGD (p = 0,05)</td><td>8</td></tr>
+<tr><td></td><td>&gt; KGD (p = 0,01)</td><td>9</td></tr>
+<tr><td>KGD = kleinst gesicherte Differenz</td><td></td><td></td></tr>
+</table>
+
+- 2\. Nach Bonituren:
+
+<table>
+<tr><td>Note</td><td>Jugendentwicklung Nachwuchsvermögen Krankheitsresistenz<sup>1</sup></td><td>Konkurrenzkraft (100-Anteil in %) der Sorte/ 10 = Konkurrenzzahl</td><td colspan="2">Beschaffenheit Blatt</td><td>Ausdauer Fehlstellen in % der gesamten Bodenbedeckung</td></tr>
+<tr><td>1</td><td>sehr gut</td><td>(100–90 %) = 10/10 =</td><td>1</td><td>sehr fein</td><td>0 bis 10</td></tr>
+<tr><td>2</td><td>sehr gut bis gut</td><td>(100–80 %) = 20/10 =</td><td>2</td><td></td><td>20</td></tr>
+<tr><td>3</td><td>gut</td><td></td><td>3</td><td></td><td>30</td></tr>
+<tr><td>4</td><td>gut bis mittel</td><td></td><td>4</td><td></td><td>40</td></tr>
+<tr><td>5</td><td>mittel</td><td></td><td>5</td><td></td><td>50</td></tr>
+<tr><td>6</td><td>mittel bis gering</td><td></td><td>6</td><td></td><td>60</td></tr>
+<tr><td>7</td><td>gering</td><td></td><td>7</td><td></td><td>70</td></tr>
+<tr><td>8</td><td>gering bis sehr gering</td><td></td><td>8</td><td></td><td>80</td></tr>
+<tr><td>9</td><td>sehr gering</td><td>(100–10 %) = 90/10 =</td><td>9</td><td>sehr grob</td><td>90 bis 100</td></tr>
+<tr><td colspan="6"><sup>1</sup> bonitiert nach Krankheitsbildern</td></tr>
 </table>
 
 ### 1.5.2 Ackerbohnen, Futtererbsen und Lupinen
@@ -2074,7 +2105,7 @@ Ackerbohnen, Futtererbsen und Lupinen
 <tr><td>Tausendkorngewicht:</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>– Futtererbsen und Schmalblättrige Lupine</td><td>b–a</td><td>g</td><td></td><td colspan="2"></td><td>+20</td><td>–20</td></tr>
 <tr><td>– Ackerbohnen und Weisse Lupine</td><td>b– a</td><td>g</td><td></td><td colspan="2"></td><td>+30</td><td>–30</td></tr>
-<tr><td>Eiweissgehalt</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20210101/de/xml/image/image1.png)</sub></td><td>%</td><td></td><td colspan="2">&lt; –10</td><td>+2</td><td>–2</td></tr>
+<tr><td>Eiweissgehalt</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/de/xml/image/image2.png)</sub></td><td>%</td><td></td><td colspan="2">&lt; –10</td><td>+2</td><td>–2</td></tr>
 <tr><td>Erntbarkeit (Pflanzen- länge bei der Ernte)</td><td>b–a</td><td>cm</td><td></td><td colspan="2"></td><td>+5</td><td>–5</td></tr>
 <tr><td>Gesundheitszustand</td><td>b–a</td><td>Note</td><td></td><td colspan="2"></td><td>+1</td><td>–1</td></tr>
 <tr><td>Überwinterung Winter- futtererbsen (Bestandes- verminderung)</td><td>b–a</td><td>%</td><td></td><td colspan="2"></td><td>+10</td><td>–10</td></tr>
@@ -2144,7 +2175,7 @@ Winter- und Sommerraps, Sonnenblume und Öllein
 <tr><td>Kornertrag (A)</td><td>(a/b)\*100</td><td>%</td><td>&lt; 90%</td><td>&lt; 95 %</td></tr>
 <tr><td>Frühreife bis Reife (B)</td><td>b–a</td><td>% (H<sub>2</sub>O)</td><td></td><td>&lt; – 3</td></tr>
 <tr><td>Ölgehalt (C)</td><td>a–b</td><td>%</td><td>&lt; – 3</td><td>&lt; – 3</td></tr>
-<tr><td>Glukosinolatgehalt (ganze Körner)<sup>1</sup></td><td></td><td>μmolg<sup>–1</sup></td><td>&gt; 20</td><td>&gt; 20</td></tr>
+<tr><td>Glukosinolatgehalt (ganze Körner)<sup>1</sup></td><td></td><td>µmolg<sup>–1</sup></td><td>&gt; 20</td><td>&gt; 20</td></tr>
 <tr><td>Erucasäuregehalt<sup>1</sup></td><td></td><td>%</td><td>&gt; 2</td><td>&gt; 2</td></tr>
 <tr><td colspan="5">Nebenmerkmale</td></tr>
 <tr><td>Frühlagerung (D)</td><td>b–a</td><td>Note (1–9)</td><td></td><td>&lt; – 3</td></tr>
@@ -2157,13 +2188,13 @@ Winter- und Sommerraps, Sonnenblume und Öllein
 <tr><td>Kräftigkeit Ende Winter<sup>3</sup></td><td>b–a</td><td>Note (1–9)</td><td></td><td></td></tr>
 <tr><td colspan="5">a: Ergebnis der geprüften Sorten</td></tr>
 <tr><td colspan="5">b: Durchschnitt der Resultate der Standardsorten</td></tr>
-<tr><td colspan="5">[tab] Gesamtwert für Winterraps = A + B + C + D + E + F</td></tr>
-<tr><td colspan="5">[tab] Gesamtwert für Sommerraps = A + B + C + D</td></tr>
-<tr><td colspan="5">[tab] Gesamtwert für Sonnenblumen und Öllein = A + B + C + D + G</td></tr>
+<tr><td colspan="5">Gesamtwert für Winterraps = A + B + C + D + E + F</td></tr>
+<tr><td colspan="5">Gesamtwert für Sommerraps = A + B + C + D</td></tr>
+<tr><td colspan="5">Gesamtwert für Sonnenblumen und Öllein = A + B + C + D + G</td></tr>
 <tr><td colspan="5"><sup>1</sup> Betrifft nur Raps</td></tr>
 <tr><td colspan="5"><sup>2</sup> Betrifft nur Sonnenblumen und Öllein</td></tr>
 <tr><td colspan="5"><sup>3</sup> Betrifft nur winterharte Kulturen</td></tr>
-<tr><td colspan="5">[tab] Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
+<tr><td colspan="5">Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
 </table>
 
 Tabelle 2
@@ -2184,14 +2215,14 @@ Soja
 <tr><td>Vegetationshöhe</td><td>e–d</td><td>cm</td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="7">a: Relativer Ertrag für die geprüfte Sorte</td></tr>
 <tr><td colspan="7">b: Relativer Referenzertrag, berechnet gemäss b = mx + c:</td></tr>
-<tr><td colspan="7">[tab] m = Ertrag pro zusätzliches Grad × Tag (auf Basis der Standardsorten berechnet)</td></tr>
+<tr><td colspan="7">m = Ertrag pro zusätzliches Grad × Tag (auf Basis der Standardsorten berechnet)</td></tr>
 <tr><td colspan="7">x = Anzahl Grad ×Vegetationstage der geprüften Sorte</td></tr>
 <tr><td colspan="7">c = Konstante (auf Basis der Standardsorten berechnet)</td></tr>
 <tr><td colspan="7">d = Ergebnisse der geprüften Sorte</td></tr>
 <tr><td colspan="7">e = Durchschnitt der Resultate der Standardsorten</td></tr>
-<tr><td colspan="7">[tab] Ergebnis auf eine Einheit gerundet</td></tr>
-<tr><td colspan="7">[tab] Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
-<tr><td colspan="7">[tab] Gesamtwert = Körnerertrag + Punkt(e) des Bonuswertes</td></tr>
+<tr><td colspan="7">Ergebnis auf eine Einheit gerundet</td></tr>
+<tr><td colspan="7">Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
+<tr><td colspan="7">Gesamtwert = Körnerertrag + Punkt(e) des Bonuswertes</td></tr>
 </table>
 
 Tabelle 3
@@ -2212,8 +2243,8 @@ Sareptasenf, Weisser Senf und Rübsen
 <tr><td>Gesundheitszustand (pro beobachtetes Merkmal)</td><td>b–a</td><td>Note (1–9)</td><td></td><td></td></tr>
 <tr><td colspan="5">a: Ergebnis der geprüften Sorten</td></tr>
 <tr><td colspan="5">b: Durchschnitt der Resultate der Standardsorten</td></tr>
-<tr><td colspan="5">[tab] Gesamwert = 100 + A + B + C + D</td></tr>
-<tr><td colspan="5">[tab] Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
+<tr><td colspan="5">Gesamwert = 100 + A + B + C + D</td></tr>
+<tr><td colspan="5">Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
 </table>
 
 ### Kapitel E: Anforderungen in Bezug auf die Anbau- und Verwendungseignung für Zuckerrübe und Futterrübe
@@ -2291,8 +2322,8 @@ A. Zuckerrüben
 <tr><td colspan="5">b: Durchschnitt der Resultate der Standardsorten</td></tr>
 <tr><td colspan="5"><sup>1</sup> Ergebnis auf eine Einheit gerundet</td></tr>
 <tr><td colspan="5"><sup>2</sup> Ergebnisse auf 1/10 Einheit gerundet</td></tr>
-<tr><td colspan="5">[tab] Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
-<tr><td colspan="5">[tab] Gesamtwert = Ertrag raffinierter Zucker + Punkt(e) des Bonuswertes</td></tr>
+<tr><td colspan="5">Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
+<tr><td colspan="5">Gesamtwert = Ertrag raffinierter Zucker + Punkt(e) des Bonuswertes</td></tr>
 </table>
 
 Tabelle 2
@@ -2316,18 +2347,18 @@ B. Futterrüben
 <tr><td>Andere agronomische Merkmale (pro beobachtetes Merkmal)</td><td>b–a</td><td>Note (1–9)</td><td></td><td></td></tr>
 <tr><td colspan="5">a: Ergebnis der geprüften Sorten</td></tr>
 <tr><td colspan="5">b: Durchschnitt der Resultate der Standardsorten</td></tr>
-<tr><td colspan="5">[tab] Ergebnis auf eine Einheit gerundet</td></tr>
-<tr><td colspan="5">[tab] Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
-<tr><td colspan="5">[tab] Gesamtwert = Trockensubstanzertrag + Punkt(e) des Bonuswertes</td></tr>
+<tr><td colspan="5">Ergebnis auf eine Einheit gerundet</td></tr>
+<tr><td colspan="5">Note: 1 = sehr gut, 3 = gut, 5 = genügend, 7 = schlecht, 9 = sehr schlecht</td></tr>
+<tr><td colspan="5">Gesamtwert = Trockensubstanzertrag + Punkt(e) des Bonuswertes</td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 3–5, 7–10, 23, 38 und 39*a*)
 
 ## Feldbesichtigung und Anforderungen an die Kulturen
 
-[^t-4]: Bereinigt gemäss Ziff. II der V des WBF vom 22. Dez. 1999 ([AS 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), vom 2. Mai 2005 ([AS 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), vom 2. Nov. 2006 ([AS 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)), vom 7. Juni 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)) und Anhang 13 Ziff. 1 der V des WBF und des UVEK vom 14. Nov. 2019 zur Pflanzengesundheitsverordnung ([AS 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)) und Ziff. II Abs. 1 der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-4]: Bereinigt gemäss Ziff. II der V des WBF vom 22. Dez. 1999 ([AS 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), vom 2. Mai 2005 ([AS 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), vom 2. Nov. 2006 ([AS 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)), vom 7. Juni 2010 ([AS 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), Anhang 13 Ziff. 1 der V des WBF und des UVEK vom 14. Nov. 2019 zur Pflanzengesundheitsverordnung ([AS 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)), Ziff. II Abs. 1 der V des WBF vom 11. Nov. 2020 ([AS 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)) und Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 640](https://fedlex.data.admin.ch/eli/oc/2024/640)).
 
 ### Kapitel A: Feldbesichtigung und Anforderungen an die Kulturen von Getreidesaatgut
 
@@ -2364,7 +2395,17 @@ Folgende Kriterien werden beurteilt:
 
 ### 2.1 Allgemeiner Stand
 
-Die Bestände werden nach folgender Notenskala bewertet: 1 = sehr gut 3 = gut 5 = genügend 7 = schlecht 9 = sehr schlecht
+Die Bestände werden nach folgender Notenskala bewertet:
+
+1 = sehr gut
+
+3 = gut
+
+5 = genügend
+
+7 = schlecht
+
+9 = sehr schlecht
 
 Bei einer Note unter 5 wird der Bestand abgewiesen.
 
@@ -2406,12 +2447,12 @@ Hybriden, Inzuchtlinien und offen abblühende Sorten von Mais
 
   - 1\. Zum Zeitpunkt der Empfängnisfähigkeit der Narben des weiblichen Elternteils sind genügend Pflanzen des männlichen Elternteils mit ausreichender Pollenabgabe vorhanden (Synchronisation).
   - 2\. Wenn erforderlich, wird entfahnt;
-  - 3\. Zum Zeitpunkt, in dem mehr als 5 Prozent der Pflanzen des weiblichen Elternteils empfangsfähige Narben aufweist, darf im Bestand der Anteil der Pflanzen des weiblichen Elternteils, die Pollen abgeben, höchstens betragen:
+  - 3\.
 
-<table>
-<tr><td>– bei einer Feldbesichtigung</td><td>1 %</td></tr>
-<tr><td>– bei allen Feldbesichtigungen</td><td>2 %</td></tr>
-</table>
+    Zum Zeitpunkt, in dem mehr als 5 Prozent der Pflanzen des weiblichen Elternteils empfangsfähige Narben aufweist, darf im Bestand der Anteil der Pflanzen des weiblichen Elternteils, die Pollen abgeben, höchstens betragen:
+
+    - – bei einer Feldbesichtigung 1 %
+    - – bei allen Feldbesichtigungen 2 %
 
 - c. Pflanzen werden als Pollen ausschüttend gezählt, wenn auf 50 mm oder mehr der Hauptachse oder ihrer Verzweigungen die Antheren aus den Spelzen ausgetreten sind und Pollen abgegeben haben oder Pollen abgeben;
 - d. Ein Bestand zur Erzeugung von zertifiziertem Saatgut bei Verwendung der männlichen Sterilität, in dem der männliche Elternteil die Fertilität des weiblichen Elternteils nicht wiederherstellt, muss in einem für die entsprechende Sorte definierten Verhältnis auch männlich fertile Pflanzen des weiblichen Elternteils enthalten. Dies gilt nicht, wenn nach der Ernte Saatgut des männlich sterilen und männlich fertilen weiblichen Elternteils in einem für die entsprechende Sorte definierten Verhältnis gemischt wird;
@@ -2419,12 +2460,12 @@ Hybriden, Inzuchtlinien und offen abblühende Sorten von Mais
 
 Hybriden von Roggen und offen abblühender Roggen
 
-- a. Die Anzahl Abweicher darf folgende Zahlen nicht überschreiten:
+- a.
 
-<table>
-<tr><td>1.</td><td>Für die Produktion von Basissaatgut:</td><td>1 je 30 m<sup>2</sup></td></tr>
-<tr><td>2.</td><td>Für die Produktion von zertifiziertem Saatgut:</td><td>1 je 10 m<sup>2</sup></td></tr>
-</table>
+  Die Anzahl Abweicher darf folgende Zahlen nicht überschreiten:
+
+  - 1\. Für die Produktion von Basissaatgut: 1 je 30 m<sup>2</sup>
+  - 2\. Für die Produktion von zertifiziertem Saatgut: 1 je 10 m<sup>2</sup>
 
 - b. Bei der Produktion von zertifiziertem Saatgut von Hybridroggen gilt die angegebene Norm ausschliesslich für die weibliche Komponente.
 - c. Bei Verwendung der männlichen Sterilität muss die männlich sterile Komponente einen Sterilitätsgrad von mindestens 98 Prozent aufweisen. Dieser wird in Kontrollparzellen untersucht.
@@ -2435,7 +2476,7 @@ Triticale
 Bei selbstbefruchtenden Triticale-Sorten wird die folgende minimale Sortenreinheit verlangt:
 
 <table>
-<tr><td>Kategorie</td><td>Minimale Sortenreinheit (%)</td></tr>
+<tr><th>Kategorie</th><th>Minimale Sortenreinheit (%)</th></tr>
 <tr><td>Basissaatgut</td><td>99,7</td></tr>
 <tr><td>Zertifiziertes Saatgut der 1. Vermehrung</td><td>99,0</td></tr>
 <tr><td>Zertifiziertes Saatgut der 2. Vermehrung</td><td>98,0</td></tr>
@@ -2573,7 +2614,7 @@ Auf der Vermehrungsfläche darf während mindestens zwei Jahren nicht die gleich
 
 ### 1 Bedingungen für die Anbaufläche
 
-- 1\.1 ...
+- 1\.1 …
 - 1\.2 Folgende Isolationsabstände sind gegenüber einer unerwünschten Nachbarkultur einzuhalten:
 
 <table>
@@ -2591,12 +2632,10 @@ Auf der Vermehrungsfläche darf während mindestens zwei Jahren nicht die gleich
 
 ### 2 Anzahl der offiziellen Feldbesichtigungen
 
--
+Die Anzahl der offiziellen Feldbesichtigungen beträgt:
 
-  Die Anzahl der offiziellen Feldbesichtigungen beträgt:
-
-  - a. drei auf Kulturen, die für die Produktion von Vorstufenpflanzgut bestimmt sind;
-  - b. zwei auf Kulturen, die für die Produktion von Basis- und zertifiziertem Pflanzgut bestimmt sind.
+- a. drei auf Kulturen, die für die Produktion von Vorstufenpflanzgut bestimmt sind;
+- b. zwei auf Kulturen, die für die Produktion von Basis- und zertifiziertem Pflanzgut bestimmt sind.
 
 ### 3 Krautvernichtung
 
@@ -2682,11 +2721,15 @@ Auf Parzellen müssen mindestens die untenstehenden Jahre ohne Anbau der gleiche
 
 Das BLW legt die maximale Anzahl Erntejahre für jede Art oder Artengruppe fest.
 
-### 3 Anzahl und Zeitpunkt der Besichtigung
+### 3 Anzahl und Zeitpunkt der Feldbesichtigung
 
-Es findet mindestens eine Feldbesichtigung statt.
+- 3\.1 Es muss mindestens eine Feldbesichtigung der Vermehrungsbestände pro Ernte oder, in Kulturen, die mehrere Erntejahre oder mehrere Ernten im Jahr erlauben, pro Ernteaufwuchs stattfinden.
+- 3\.2
 
-Die Kulturen sind in einem Entwicklungszustand zu besichtigen, welcher eine eindeutige Beurteilung der Bestände erlaubt.
+  Die Feldbesichtigung muss zu folgendem Zeitpunkt stattfinden:
+
+  - – Gräser: während des Erscheinens der Blütenstände;
+  - – Leguminosen und Kreuzblütler: während der Blüte.
 
 ### 4 Beurteilung und Anerkennungsgrenzen
 
@@ -2699,18 +2742,33 @@ Folgende Kriterien werden beurteilt:
 
 ### 4.1 Allgemeiner Stand
 
-Die Bestände werden nach folgender Notenskala bewertet: 1 = sehr gut 3 = gut 5 = genügend 7 = schlecht 9 = sehr schlecht
+- 4\.1.1
 
-Bei einer Note, die schlechter als 5 ist, wird der Bestand abgewiesen.
+  Folgende Pflegemassnahmen müssen durchgeführt worden sein:
 
-Bestände zur Produktion von Saatgut müssen normal entwickelt und gesund sein. Beim Auftreten von einem oder mehreren unten aufgelisteten Mängel kann die Beurteilung weiterer Merkmale (z.B. Sortenreinheit) beeinträchtigt werden.
+  - a. Mahd der Feldränder;
+  - b. Mahd der Trennstreifen zu benachbarten Kulturen.
 
-Die Notengebung trägt der Beurteilbarkeit der Saatgutbestände sowie der Pflege dieser Bestände Rechnung. Folgende Kriterien werden bewertet:
+- 4\.1.2
 
-- a. Unausgeglichenheit;
-- b. Verunkrautung;
-- c. Befall durch Krankheiten und tierische Schädlinge;
-- d. Lagerung.
+  Die Vermehrungsbestände werden nach folgender Notenskala bewertet:
+
+  - [tab] 1 = sehr gut
+  - [tab] 3 = gut
+  - [tab] 5 = genügend
+  - [tab] 7 = schlecht
+  - [tab] 9 = sehr schlecht
+
+- 4\.1.3 Bei einer Note, die schlechter als 5 ist, wird der Vermehrungsbestand abgewiesen.
+- 4\.1.4
+
+  Folgende Kriterien werden bewertet:
+
+  - a. Unausgeglichenheit;
+  - b. Durchwuchs;
+  - c. Verunkrautung;
+  - d. Schäden durch Schadorganismen oder Wildtiere;
+  - e. Witterungsschäden.
 
 ### 4.2 Sortenechtheit und Sortenreinheit
 
@@ -2742,15 +2800,6 @@ Sortenreinheit
 <tr><td><sup>2</sup></td><td colspan="8">Sorten, die als apomiktische Einklonsorten eingestuft worden sind.</td></tr>
 </table>
 
-Pflanzen aus Ausfallsamen
-
-<table>
-<tr><td></td><td colspan="2">Maximale Anzahl generativer Pflanzen mit triebbildenden Halmen pro m<sup>2</sup></td></tr>
-<tr><td>Art</td><td>Prebasis- und Basissaatgut</td><td>zertifiziertes Saatgut der ersten Vermehrung</td></tr>
-<tr><td>Leguminosen</td><td>0</td><td>10</td></tr>
-<tr><td>Gramineen</td><td>0</td><td>10</td></tr>
-</table>
-
 ### 4.3 Isolationsabstand
 
 **4.3.1** Der Bestand muss folgende Abstände zu benachbarten Quellen von Pollen aufweisen, die zu unerwünschter Fremdbestäubung führen können:
@@ -2767,22 +2816,32 @@ Diese Abstände brauchen nicht eingehalten zu werden, sofern eine ausreichende A
 
 **4.3.2** Die Parzellen zur Produktion von Saatgut selbstbefruchtender Arten (*Pi**sum* sativum*, Vicia faba*) oder Sorten von *Poa pratensis* registriert als apomiktisch monoklonal müssen eindeutig von allen anderen Kulturen getrennt sein.
 
-### 4.4 Andere unerwünschte Arten
+### 4.4 Fremde Arten
 
 <table>
 <tr><th></th><th></th><th colspan="2">Maximale tolerierte Anzahl Pflanzen</th></tr>
 <tr><th></th><th></th><th colspan="2">Parzellen zur Produktion von:</th></tr>
-<tr><th>Art</th><th>andere unerwünschte Arten</th><th>Prebasis- und Basis-Saatgut</th><th>zertifiziertem Saatgut der ersten Vermehrung</th></tr>
-<tr><td>*Trifolium* spp.</td><td>*Trifolium, Medicago, Meliotus* und *Lotus* spp. (\*)</td><td>4 pro Are</td><td>20 pro Are</td></tr>
+<tr><th>Art</th><th>Fremde Arten</th><th>Prebasis- und Basis-Saatgut</th><th>zertifiziertem Saatgut der ersten Vermehrung</th></tr>
+<tr><td>Alle Gräserarten (ausser *Alopecurus pratensis*)</td><td>Gräser, ausgenommen *Lolium* spp. (\*)</td><td>4 pro Are</td><td>15 pro Are</td></tr>
+<tr><td></td><td>*Lolium* spp.</td><td>1 pro Are</td><td>10 pro Are</td></tr>
+<tr><td></td><td>*Alopecurus myosuroides*</td><td>2 pro Are</td><td>10 pro Are</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Meliotus* und *Lotus* spp.</td><td>10 pro Are</td><td>20 pro Are</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 pro ha</td><td>3 pro ha</td></tr>
+<tr><td>*Alopecurus* *pratensis*</td><td>Gräser (\*)</td><td>4 pro Are</td><td>15 pro Are</td></tr>
+<tr><td></td><td>*Alopecurus myosuroides*</td><td>1 pro Are</td><td>5 pro Are</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Meliotus* und *Lotus* spp.</td><td>10 pro Are</td><td>20 pro Are</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 pro ha</td><td>3 pro ha</td></tr>
+<tr><td>Alle Leguminosenarten (ausser *Onobrychis* *viciifolia*)</td><td>Gräser, ausgenommen *Poa* spp.</td><td>30 pro Are</td><td>80 pro Are</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Melilotus* und *Lotus* spp.</td><td>4 pro Are</td><td>10 pro Are</td></tr>
 <tr><td></td><td>*Cuscuta* spp. (Kleeseide)</td><td>0</td><td>0</td></tr>
-<tr><td></td><td>Rumex *obtusifolius,* *Rumex crispus* (breit blättriger Ampfer)</td><td>10 pro ha</td><td>20 pro ha</td></tr>
-<tr><td>*Lolium* spp. oder x *Festulolium* spp.</td><td>andere *Lolium* spp.</td><td>2 pro Are</td><td>10 pro Are</td></tr>
-<tr><td>Gramineen</td><td>andere Gramineen (\*\*)</td><td>4 pro Are</td><td>20 pro Are</td></tr>
-<tr><td></td><td>*Rumex obtusifolius Rumex crispus* (breitblättriger Ampfer)</td><td>10 pro ha</td><td>20 pro ha</td></tr>
-<tr><td></td><td>*Alopecurus myosuroides* und *Bromus* spp.</td><td>4 pro Are</td><td>10 pro Are</td></tr>
-<tr><td>Pisum und Vicia spp.</td><td>andere Pisum, Vicia spp. und Raphanus spp.</td><td>4 pro Are</td><td>20 pro Are</td></tr>
-<tr><td colspan="4">(\*) ausser: Trifolium repens in Trifolium pratense</td></tr>
-<tr><td colspan="4">(\*\*) ausser Windhalm (*Apera spica venti*) bei allen Arten; Rispengrasarten (*Poa* spp.) bei allen Arten ausser bei anderen Rispengrasarten; *Phleum* spp. bei allen Arten ausser bei anderen *Phleum* spp.</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 pro ha</td><td>3 pro ha</td></tr>
+<tr><td></td><td>*Polygonum* spp., *Plantago* spp., *Silene* spp., *Lychnis* spp., *Geranium* spp., *Sinapis* *arvensis**, Chenopodium album, Echinochioa crus-galli, Setaria glauca, Cirsium* spp.</td><td>5 pro Are</td><td>10 pro Are</td></tr>
+<tr><td>*Onobrychis* *viciifolia*</td><td>Gräser, ausgenommen *Poa* spp.</td><td>30 pro Are</td><td>80 pro Are</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Melilotus* und *Lotus* spp.</td><td>15 pro Are</td><td>40 pro Are</td></tr>
+<tr><td></td><td>*Cuscuta* spp. (Kleeseide)</td><td>0</td><td>0</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 pro ha</td><td>3 pro ha</td></tr>
+<tr><td></td><td>*Polygonum* spp., *Plantago* spp., *Silene* spp., *Lychnis* spp., *Geranium* spp., *Sinapis arvensis, Chenopodium album,* *Echinochioa* *crus-galli, Setaria glauca, Cirsium* spp.</td><td>15 pro Are</td><td>40 pro Are</td></tr>
+<tr><td colspan="4">(\*) ausser Windhalm (*Apera spica venti*) bei allen Arten; Rispengrasarten (*Poa* spp.) bei allen Arten ausser bei anderen Rispengrasarten; *Phleum* spp. bei allen Arten ausser bei anderen *Phleum* spp.</td></tr>
 </table>
 
 ### Kapitel D: Feldbesichtigung und Anforderungen an die Kulturen von Öl- und Faserpflanzensaatgut
@@ -2846,7 +2905,7 @@ Bestände, die nicht der angemeldeten Sorte entsprechen, werden abgewiesen.
 
 Abweicher sind alle Pflanzen der gleichen Art, die nicht dem typischen Sortenbild entsprechen.
 
-Bestände von *Brassica juncea, Brassica nigra, Carthamus tincto**rius, Carum carvi* und Hybriden von *Helianthus annuus* und *Brass**i**ca napus* müssen folgende Anforderungen erfüllen:
+Bestände von *Brassica juncea, Brassica nigra, Carthamus tincto**rius, Carum carvi* und Hybriden von *Helianthus annuus* und *Brassica napus* müssen folgende Anforderungen erfüllen:
 
 Brassica juncea, Brassica nigra, Carthamus tinctorius und Carum carvi ausser Hybriden
 
@@ -2973,9 +3032,7 @@ Diese Abstände brauchen nicht eingehalten zu werden, sofern eine ausreichende A
 
 - Diese Entfernungen brauchen nicht eingehalten zu werden, sofern eine ausreichende Abschirmung gegen eine unerwünschte Fremdbestäubung vorhanden ist.
 
-- [tab]
-
-Anhang 4*[^t-5]*
+Anhang 4[^t-5]
 
 (Art. 3–10, 20, 24, 29, 35, 38, 39, 39*a* und 42)
 
@@ -3034,14 +3091,14 @@ Es gelten die folgenden Posten- und Mustergrössen. Die maximalen Postengrössen
 <tr><td colspan="2">Mais</td><td>90<sup>5</sup></td><td>98</td><td>14</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td colspan="12">Bemerkungen:</td></tr>
 <tr><td></td><td colspan="12"><sup>1</sup> Bei ungereinigten Mustern wird die Reinheit nicht untersucht.</td></tr>
-<tr><td></td><td colspan="12"><sup>2</sup> ...</td></tr>
+<tr><td></td><td colspan="12"><sup>2</sup> …</td></tr>
 <tr><td></td><td colspan="12"><sup>3</sup> Bei ungereinigten Mustern werden insgesamt 30 Samen von *Raphanus raphanistrum, Agrostemma githago, Gallium aparine, Vicia* spp. toleriert. Bei Kanariengras bezieht sich der Höchstbesatz an fremden Arten auf eine Mustergrösse von 200g.</td></tr>
 <tr><td></td><td colspan="12"><sup>4</sup> Bei Hybridroggen werden maximal 4 Mutterkornsklerotien toleriert. Das Vorhandensein von 5 Sklerotien oder Bruchstücken von Sklerotien in einer Probe mit dem vorgeschriebenen Gewicht wird als den Normen genügend befunden, wenn in einer zweiten Probe mit demselben Gewicht nicht mehr als 4 Sklerotien oder Bruchstücke von Sklerotien vorhanden sind.</td></tr>
 <tr><td></td><td colspan="12"><sup>5</sup> Bei ungereinigten Mustern wird 95 % Keimfähigkeit gefordert.</td></tr>
 <tr><td></td><td colspan="12"><sup>6</sup> Ein Korn von *Avena fatua*, *A. sterilis*, *A. ludoviciana* oder *Lolium temulentum* gilt in einer Probe mit dem vorgeschriebenen Gewicht nicht als Unreinheit, wenn eine zweite Probe mit demselben Gewicht keine Körner dieser Arten enthält</td></tr>
 <tr><td></td><td colspan="12"><sup>7</sup> Ein zweites Korn gilt nicht als Unreinheit, wenn eine zweite Probe mit demselben Gewicht keine Körner anderer Getreidearten enthält.</td></tr>
 <tr><td></td><td colspan="12"><sup>8</sup> Für Sorten der Art *Avena sativa*, die amtlich als vom Typ **«**Nackthafer» und für Sorten der Art *Hordeum vulgare*, die amtlich als vom Typ «Nacktgerste» eingestuft sind, gilt die Mindestkeimfähigkeit von 75 % der reinen Körner. Das amtliche Etikett trägt demzufolge den Hinweis **«**Mindestkeimfähigkeit 75 %».</td></tr>
-<tr><td>[tab]</td><td colspan="12"><sup>9</sup> Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt, dass der Höchstwert überschritten ist.</td></tr>
+<tr><td></td><td colspan="12"><sup>9</sup> Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt, dass der Höchstwert überschritten ist.</td></tr>
 </table>
 
 ### Kapitel B: Anforderungen an die Kartoffel-Pflanzgutposten
@@ -3053,7 +3110,7 @@ Es gelten die folgenden Posten- und Mustergrössen. Die maximalen Postengrössen
   Die Mindestgrössen der Knollen müssen so sein, dass sie nicht durch ein Sieb mit folgenden quadratischen Querschnitten gehen:
 
   - a. 25 mm Seitenlänge
-  - b. ...
+  - b. …
 
 - 1\.2 Bei Knollen, die zu gross sind, um durch ein Sieb mit quadratischem Querschnitt von 35 mm Seitenlänge zu gehen, werden die Ober- und Untergrenzen der Sortierung durch ein Vielfaches von 5 ausgedrückt.
 - 1\.3 Der Unterschied der Seitenlängen der quadratischen Querschnitte der zur Sortierung der Knollen eines Postens verwendeten Siebe darf 25 mm nicht übersteigen.
@@ -3112,7 +3169,7 @@ Die maximalen Postengrössen dürfen die angegebenen Zahlen höchstens um 5 Proz
 <tr><th>Art</th><th>Höchstgewicht eines Postens (in Tonnen)</th><th>Mindestgewicht einer aus einem Posten zu ziehen- den Probe (in Gramm)</th><th>Minimale Mustergrösse für die Bestimmung der fremden Samen (in Gramm)</th></tr>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
 <tr><td>Poaceae (Gramineae)</td><td></td><td></td><td></td></tr>
-<tr><td>*Agrostis canina*</td><td>10<sup>1</sup></td><td>*5**0*</td><td>*5*</td></tr>
+<tr><td>*Agrostis canina*</td><td>10<sup>1</sup></td><td>*50*</td><td>*5*</td></tr>
 <tr><td>*Agrostis gigantea*</td><td>10<sup>1</sup></td><td>50</td><td>5</td></tr>
 <tr><td>*Agrostis stolonifera*</td><td>10<sup>1</sup></td><td>50</td><td>5</td></tr>
 <tr><td>*Agrostis capillaris*</td><td>10<sup>1</sup></td><td>50</td><td>5</td></tr>
@@ -3167,7 +3224,7 @@ Die maximalen Postengrössen dürfen die angegebenen Zahlen höchstens um 5 Proz
 <tr><td>*Vicia sativa*</td><td>25</td><td>1000</td><td>1000</td></tr>
 <tr><td>*Vicia villosa*</td><td>20</td><td>1000</td><td>1000</td></tr>
 <tr><td>Andere Arten</td><td></td><td></td><td></td></tr>
-<tr><td>*Brassica napus v**ar.napobrassica*</td><td>10</td><td>200</td><td>100</td></tr>
+<tr><td>*Brassica napus var.napobrassica*</td><td>10</td><td>200</td><td>100</td></tr>
 <tr><td>*Brassica oleracea convar. acephala*</td><td>10</td><td>200</td><td>100</td></tr>
 <tr><td>*Phacelia tanacetifolia*</td><td>10</td><td>300</td><td>40</td></tr>
 <tr><td>*Plantago lanceolata*</td><td>5</td><td>20</td><td>2</td></tr>
@@ -3181,8 +3238,6 @@ Muster von Vermehrungssaatgut müssen dem zuständigen Dienst bis zum 15. Septem
 
 Die Muster der importierten Vermehrungsposten sind mit der entsprechenden offiziellen Etikette oder den Anerkennungsgutachten der ursprünglichen Anerkennungsstelle versehen einzusenden.
 
-- [tab]
-
 ### 3 Anforderungen an das Saatgut
 
 Das Saatgut muss folgende Normen und sonstige Voraussetzungen erfüllen:
@@ -3191,7 +3246,7 @@ Das Saatgut muss folgende Normen und sonstige Voraussetzungen erfüllen:
 - **3.2** **Zertifiziertes Saatgut der ersten Vermehrung**
 
 <table>
-<tr><th>Art</th><th>Keimfähig-keit in %</th><th>Maximaler Anteil harter Samen in %</th><th>Techni- sche Min-destrein- heit in %</th><th>Feuchtig-keits- gehalt in %</th><th colspan="7">Höchstanteil an Körnern fremder Arten in Gewichtsprozent 3<sup>\*)</sup></th><th colspan="3">Höchstanteil an Körnern fremder Arten in einem Muster nach Ziffer 1, Spalte 4 (Gesamtzahl je Spalte)</th><th>Bemerkungen <sup>\*) \*)</sup> = Erklärender Text unter Bemerkungen zum zertifizierten Saatgut der ersten Vermehrung</th></tr>
+<tr><th>Art</th><th>Keimfähig-keit in %</th><th>Maximaler Anteil harter Samen in %</th><th>Techni- sche Min-destrein- heit in %</th><th>Feuchtig-keits- gehalt in %</th><th colspan="7">Höchstanteil an Körnern fremder Arten in Gewichtsprozent 3<sup>\*)</sup></th><th colspan="3">Höchstanteil an Körnern fremder Arten in einem Muster nach Ziffer 1, Spalte 4 (Gesamtzahl je Spalte)</th><th>Bemerkungen <sup>\*)</sup> <sup>\*)</sup> = Erklärender Text unter Bemerkungen zum zertifizierten Saatgut der ersten Vermehrung</th></tr>
 <tr><th></th><th>1<sup>\*)</sup></th><th>2<sup>\*)</sup></th><th></th><th></th><th>insgesamt</th><th>eine einzelne Art</th><th>Agropyron repens</th><th>Alopecurus myosuroides</th><th>Melilotus spp.</th><th>Raphanus raphanis-trum</th><th>Sinapis arvensis</th><th>Avena fatua 4<sup>\*)</sup></th><th>Cuscuta spp.</th><th>Rumex spp. 5<sup>\*)</sup></th><th></th></tr>
 <tr><td>Poaceae (Gramineae)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>*Agrostis canina*</td><td>75</td><td></td><td>90</td><td>13</td><td>2.0</td><td>1.0</td><td>0.3</td><td>0.3</td><td></td><td></td><td></td><td>0</td><td>0</td><td>2</td><td>12</td></tr>
@@ -3248,7 +3303,7 @@ Das Saatgut muss folgende Normen und sonstige Voraussetzungen erfüllen:
 <tr><td>*Vicia villosa*</td><td>85</td><td>20</td><td>98</td><td>15</td><td>1.0</td><td>0.5</td><td></td><td></td><td>0.3</td><td></td><td></td><td>0</td><td>0</td><td>5</td><td>8</td></tr>
 <tr><td>Andere Arten</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>*Brassica napus* var*.napobrassica*</td><td>80</td><td></td><td>98</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td>0.3</td><td>0.3</td><td>0</td><td>0</td><td>5</td><td>12</td></tr>
-<tr><td>*Brassica oleracea convar. acephala*</td><td>75</td><td></td><td>98</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td>0.3</td><td>0.3</td><td>0</td><td>0</td><td>10</td><td>12</td></tr>
+<tr><td>*Brassica oleracea* *convar. acephala*</td><td>75</td><td></td><td>98</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td>0.3</td><td>0.3</td><td>0</td><td>0</td><td>10</td><td>12</td></tr>
 <tr><td>*Phacelia tanacetifolia*</td><td>80</td><td></td><td>96</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td></td><td>12</td></tr>
 <tr><td>*Plantago lanceolata*</td><td>75</td><td></td><td>85</td><td>11</td><td>1.5</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>10</td><td>12</td></tr>
 <tr><td>*Raphanus sativus* var*. oleiformis*</td><td>80</td><td></td><td>97</td><td>11</td><td>1.0</td><td>0.5</td><td></td><td></td><td></td><td>0.3</td><td>0.3</td><td>0</td><td>0</td><td>5</td><td></td></tr>
@@ -3258,7 +3313,7 @@ Bemerkungen zum zertifizierten Saatgut der ersten Vermehrung
 
 - 1 Alle frischen und gesunden, nach Vorbehandlung nicht gekeimten Körner gelten als normale Keimlinge.
 - 2 Hartschalige Körner gelten bis zum genannten Höchstanteil als normale Keimlinge.
-- 3 ...
+- 3 …
 - 4 Auch Avena ludoviciana und Avena sterilis sind zu berücksichtigen.
 - 5 Alle Rumex spp. ausser Rumex acetosella und Rumex maritimus sind zu berücksichtigen.
 - 6 Ein Höchstanteil von 0,8 Prozent des Gewichtes an Körnern anderer Poa-Arten insgesamt gilt nicht als Unreinheit.
@@ -3279,7 +3334,6 @@ Bemerkungen zum zertifizierten Saatgut der ersten Vermehrung
 
 - 16 Der zahlenmässige Anteil an Körnern von Bitterlupinen überschreitet in bitterstoffarmen Lupinensorten nicht 2,5 Prozent.
 - 17 Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt, dass der Höchstwert überschritten ist.
-
 - **3.3** **Prebasis- und Basissaatgut**
 
 <table>
@@ -3349,7 +3403,7 @@ Bemerkungen zum Prebasis- und Basis-Saatgut
 
 - 1 Alle frischen und gesunden, nach Vorbehandlung nicht gekeimten Körner gelten als normale Keimlinge.
 - 2 Hartschalige Körner gelten bis zum genannten Höchstanteil als normale Keimlinge.
-- 3 ...
+- 3 …
 - 4 Auch Avena ludoviciana und Avena sterilis sind zu berücksichtigen.
 - 5 Alle Rumex spp. ausser Rumex acetosella und Rumex maritimus sind zu berücksichtigen.
 - 6 Ein Höchstanteil von 80 Körnern von Poa spp. insgesamt gilt nicht als Unreinheit.
@@ -3361,7 +3415,6 @@ Bemerkungen zum Prebasis- und Basis-Saatgut
 - 12 Die Bestimmung der Anzahl Cuscuta spp. erfolgt in einem doppelt so schweren Muster wie normal vorgeschrieben.
 - 13 Bei bitterstoffarmen Lupinensorten überschreitet der zahlenmässige Anteil an bitteren Körnern nicht 1 Prozent.
 - 14 Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt, dass der Höchstwert überschritten ist.
-
 - **3.4** **Handelssaatgut**
 
 <table>
@@ -3383,7 +3436,7 @@ Bemerkungen zum Handels-Saatgut
 
 - 1 Alle frischen und gesunden, nach Vorbehandlung nicht gekeimten Körner gelten als normale Keimlinge.
 - 2 Hartschalige Körner gelten bis zum genannten Höchstanteil als normale Keimlinge.
-- 3 ...
+- 3 …
 - 4 Auch Avena ludoviciana und Avena sterilis sind zu berücksichtigen.
 - 5 Alle Rumex spp. ausser Rumex acetosella und Rumex maritimus sind zu berücksichtigen.
 - 6 Ein Höchstanteil von 3 Prozent des Gewichtes an Körnern anderer Poa spp. insgesamt gilt nicht als Unreinheit. Bei Poa annua gelten 10 Prozent des Gewichtes von Körnern anderer Poa spp. insgesamt nicht als Unreinheit.
@@ -3456,7 +3509,7 @@ Basissaatgut und zertifiziertes Saatgut
 
 <table>
 <tr><td>Art und Kategorie</td><td colspan="2">Mindest-keim-fähigkeit (in % der reinen Körner)</td><td>Feuchtig- keitsgehalt (in %)</td><td colspan="2">Technische Reinheit (in % des Gewichtes)</td><td colspan="12">Höchstanteil an Körnern fremder Arten in einem Muster nach Ziffer 1, Spalte 4 (Gesamtzahl je Spalte)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td>Technische Mindest-reinheit</td><td>Höchstanteil an Körnern anderer Pflanzen- arten</td><td>Insgesamt (a)</td><td>*Avena fatua, Avena ludovi- ciana, Avena sterilis*</td><td colspan="2">*Cuscuta* spp.</td><td colspan="2">*Raphanus raphanis- trum*</td><td colspan="2">*Rumex* spp*.* ausser *R**u**mex acetosella*</td><td>*Alopecurus myo- suroides*</td><td>*Lolium remotum*</td><td colspan="2">Anforderungen hinsichtlich des Anteils an Körnern von *Orobanche*</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td>Technische Mindest-reinheit</td><td>Höchstanteil an Körnern anderer Pflanzen- arten</td><td>Insgesamt (a)</td><td>*Avena fatua, Avena ludovi-* *ciana, Avena sterilis*</td><td colspan="2">*Cuscuta* spp.</td><td colspan="2">*Raphanus raphanis-* *trum*</td><td colspan="2">*Rumex* spp*.* ausser *Rumex* *acetosella*</td><td>*Alopecurus myo-* *suroides*</td><td>*Lolium* *remotum*</td><td colspan="2">Anforderungen hinsichtlich des Anteils an Körnern von *Orobanche*</td></tr>
 <tr><td></td><td colspan="2">1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td colspan="2">7</td><td colspan="2">8</td><td colspan="2">9</td><td>10</td><td>11</td><td colspan="2">12</td></tr>
 <tr><td>*Brassica* spp:</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>– Basissaatgut</td><td>85</td><td colspan="2">11</td><td>98</td><td>0,3</td><td>–</td><td>0</td><td>0 (c) (d)</td><td colspan="2">10</td><td colspan="2">5</td><td colspan="2"></td><td></td><td></td></tr>
@@ -3469,7 +3522,7 @@ Basissaatgut und zertifiziertes Saatgut
 <tr><td>– Öllein</td><td>85</td><td colspan="2">11</td><td>99</td><td>–</td><td>15</td><td>0</td><td>0 (c) (d)</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">4</td><td>2</td><td></td></tr>
 <tr><td>Papaver somniferum</td><td>80</td><td colspan="2"></td><td>98</td><td>–</td><td>25 (b)</td><td>0</td><td>0 (c) (d)</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>Art und Kategorie</td><td colspan="2">Mindest-keim-fähigkeit (in % der reinen Körner)</td><td>Feuchtig- keitsgehalt (in %)</td><td colspan="2">Technische Reinheit (in % des Gewichtes)</td><td colspan="12">Höchstanteil an Körnern fremder Arten in einem Muster nach Ziffer 1, Spalte 4 (Gesamtzahl je Spalte)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td>Technische Mindest-reinheit</td><td>Höchstanteil an Körnern anderer Pflanzen- arten</td><td>Insgesamt (a)</td><td>*Avena fatua, Avena ludovi- ciana, Avena sterilis*</td><td colspan="2">*Cuscuta* spp.</td><td colspan="2">*Raphanus raphanis- trum*</td><td colspan="2">*Rumex* spp*.* ausser *R**u**mex acetosella*</td><td>*Alopecurus myo- suroides*</td><td>*Lolium remotum*</td><td colspan="2">Anforderungen hinsichtlich des Anteils an Körnern von *Orobanche*</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td>Technische Mindest-reinheit</td><td>Höchstanteil an Körnern anderer Pflanzen- arten</td><td>Insgesamt (a)</td><td>*Avena fatua, Avena ludovi-* *ciana, Avena sterilis*</td><td colspan="2">*Cuscuta* spp.</td><td colspan="2">*Raphanus raphanis-* *trum*</td><td colspan="2">*Rumex* spp*.* ausser *Rumex* *acetosella*</td><td>*Alopecurus myo-* *suroides*</td><td>*Lolium* *remotum*</td><td colspan="2">Anforderungen hinsichtlich des Anteils an Körnern von *Orobanche*</td></tr>
 <tr><td></td><td colspan="2">1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td colspan="2">7</td><td colspan="2">8</td><td colspan="2">9</td><td>10</td><td>11</td><td colspan="2">12</td></tr>
 <tr><td>Sinapis alba:</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>– Basissaatgut</td><td colspan="2">85</td><td>11</td><td>98</td><td>0,3</td><td>–</td><td>0</td><td colspan="2">0 (c) (d)</td><td>10</td><td colspan="2">2</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
@@ -3530,77 +3583,78 @@ Der gewichtsmässige Anteil an Samen anderer Pflanzen überschreitet nicht 0,3 P
   - 1\. Aus mindestens 90 Prozent der gekeimten Knäuel entwickelt sich nur ein einziger Keimling.
   - 2\. Der Anteil an Knäueln mit drei und mehr Keimlingen überschreitet nicht 5 Prozent der gekeimten Knäuel.
 
-- b. Präzisionssaatgut von Zuckerrüben: Aus mindestens 70 Prozent der gekeimten Knäuel entwickelt sich nur ein einziger Keimling. Der Anteil an Knäueln mit drei und mehr Keimlingen überschreitet nicht 5 Prozent der gekeimten Knäuel.
-- c. Präzisionssaatgut von Futterrüben: Bei Sorten, bei denen der Anteil an Diploiden 85 Prozent übersteigt, entwickelt sich aus mindestens 58 Prozent und bei allem übrigen Saatgut aus mindestens 63 Prozent der gekeimten Knäuel nur ein einziger Keimling. Der Anteil an Knäueln mit drei und mehr Keimlingen überschreitet nicht 5 Prozent der gekeimten Knäuel.
+- b. Präzisionssaatgut von Zuckerrüben:
+- Aus mindestens 70 Prozent der gekeimten Knäuel entwickelt sich nur ein einziger Keimling. Der Anteil an Knäueln mit drei und mehr Keimlingen überschreitet nicht 5 Prozent der gekeimten Knäuel.
+- c. Präzisionssaatgut von Futterrüben:
+- Bei Sorten, bei denen der Anteil an Diploiden 85 Prozent übersteigt, entwickelt sich aus mindestens 58 Prozent und bei allem übrigen Saatgut aus mindestens 63 Prozent der gekeimten Knäuel nur ein einziger Keimling. Der Anteil an Knäueln mit drei und mehr Keimlingen überschreitet nicht 5 Prozent der gekeimten Knäuel.
 - d. Bei Saatgut der Kategorie «Basissaatgut» überschreitet der gewichtsmässige Anteil an unschädlichen Verunreinigungen nicht 1,0 Prozent. Bei Saatgut der Kategorie «zertifiziertes Saatgut» überschreitet dieser Anteil nicht 0,5 Prozent. Bei umhülltem Saatgut dieser beiden Kategorien wird die Einhaltung dieser Bedingung anhand von Stichproben geprüft, die aus verarbeitetem Saatgut gezogen werden, das teilweise geschält (geschliffen oder zerkleinert), jedoch noch nicht umhüllt worden ist; vorbehalten bleibt die amtliche Prüfung der Mindestanalysenreinheit des umhüllten Saatguts.
 
 ### Kapitel F: Bemusterung, Postengrösse und Anforderungen an Saatgut der Gemüsearten
 
 ### 1 Posten- und Mustergrössen
 
-- 1\. Höchstgewicht einer Partie
+- **1.** **Höchstgewicht einer Partie**
 
 <table>
 <tr><td>a. Samen von Phaseolus occineus, Phaseolus vulgaris, Pisum sativum und Vicia faba</td><td>30 Tonnen</td></tr>
-<tr><td>b. Samen von der Grösse der Weizenkörner und grösser, ausgenommen *Phaseolus occineus, Phaseolus vu**l**garis, Pisum sativum* und *Vicia faba*</td><td>20 Tonnen</td></tr>
+<tr><td>b. Samen von der Grösse der Weizenkörner und grösser, ausgenommen *Phaseolus occineus, Phaseolus vulgaris, Pisum sativum* und *Vicia faba*</td><td>20 Tonnen</td></tr>
 <tr><td>c. Kleinere Samen</td><td>10 Tonnen</td></tr>
 </table>
 
 - Das Höchstgewicht einer Partie darf nicht um mehr als 5 % überschritten werden.
-- 2\. Mindestgewicht einer Probe
+- **2.** **Mindestgewicht einer Probe**
 
 <table>
 <tr><th>Art</th><th>Gewicht (in g)</th></tr>
-<tr><th>*Allium cepa*</th><th>25</th></tr>
-<tr><th>*Allium fistulosum*</th><th>15</th></tr>
-<tr><th>*Allium porrum*</th><th>20</th></tr>
-<tr><th>*Allium sativum*</th><th>20</th></tr>
-<tr><th>*Allium schoenoprasum*</th><th>15</th></tr>
-<tr><th>*Anthricus cerefolium*</th><th>20</th></tr>
-<tr><th>*Apium graveolens*</th><th>5</th></tr>
-<tr><th>*Asparagus officinalis*</th><th>100</th></tr>
-<tr><th>*Beta vulgaris*</th><th>100</th></tr>
-<tr><th>*Brassica oleracea*</th><th>25</th></tr>
-<tr><th>*Brassica rapa*</th><th>20</th></tr>
-<tr><th>*Capsicum annuum*</th><th>40</th></tr>
-<tr><th>*Cichorium intybus (partim)* Treibzichorie (Chicorée, Belgische Zichorie, Witloof), Gewöhnliche Blattzichorie (Italienische Zichorie)</th><th>15</th></tr>
-<tr><th>*Cichorium intybus (partim)* (Wurzelzichorie)</th><th>50</th></tr>
-<tr><th>*Cichorium endivia*</th><th>15</th></tr>
-<tr><th>*Citrullus lanatus*</th><th>250</th></tr>
-<tr><th>*Cucumis melo*</th><th>100</th></tr>
-<tr><th>*Cucumis sativus*</th><th>25</th></tr>
-<tr><th>*Cucurbita maxima*</th><th>250</th></tr>
-<tr><th>*Cucurbita pepo*</th><th>150</th></tr>
-<tr><th>*Cynara cardunculus*</th><th>50</th></tr>
-<tr><th>*Daucus carota*</th><th>10</th></tr>
-<tr><th>*Foeniculum vulgare*</th><th>25</th></tr>
-<tr><th>*Lactuca sativa*</th><th>10</th></tr>
-<tr><th>*Lycopersicon esculentum*</th><th>20</th></tr>
-<tr><th>*Petroselinum crispum*</th><th>10</th></tr>
-<tr><th>*Phaseolus coccineus*</th><th>1000</th></tr>
-<tr><th>*Phaseolus vulgaris*</th><th>700</th></tr>
-<tr><th>Art</th><th>Gewicht (in g)</th></tr>
-<tr><th>*Pisum sativum*</th><th>500</th></tr>
-<tr><th>*Raphanus sativus*</th><th>50</th></tr>
-<tr><th>*Rheum rhabarbarum*</th><th>135</th></tr>
-<tr><th>*Scorzonera hispanica*</th><th>30</th></tr>
-<tr><th>*Solanum melongena*</th><th>20</th></tr>
-<tr><th>*Spinacia oleracea*</th><th>75</th></tr>
-<tr><th>*Valerianella locusta*</th><th>20</th></tr>
-<tr><th>*Vicia faba*</th><th>1000</th></tr>
-<tr><th>*Zea mays*</th><th>1000</th></tr>
-<tr><th colspan="2">Bei F-1-Hybridsorten der vorgenannten Arten kann das Mindestgewicht der Probe bis auf ein Viertel des angegebenen Gewichts herabgesetzt werden. Die Probe muss jedoch mindestens ein Gewicht von 5 g haben und mindestens 400 Körner enthalten.</th></tr>
+<tr><td>*Allium cepa*</td><td>25</td></tr>
+<tr><td>*Allium fistulosum*</td><td>15</td></tr>
+<tr><td>*Allium porrum*</td><td>20</td></tr>
+<tr><td>*Allium sativum*</td><td>20</td></tr>
+<tr><td>*Allium schoenoprasum*</td><td>15</td></tr>
+<tr><td>*Anthricus cerefolium*</td><td>20</td></tr>
+<tr><td>*Apium graveolens*</td><td>5</td></tr>
+<tr><td>*Asparagus officinalis*</td><td>100</td></tr>
+<tr><td>*Beta vulgaris*</td><td>100</td></tr>
+<tr><td>*Brassica oleracea*</td><td>25</td></tr>
+<tr><td>*Brassica rapa*</td><td>20</td></tr>
+<tr><td>*Capsicum annuum*</td><td>40</td></tr>
+<tr><td>*Cichorium intybus (partim)* Treibzichorie (Chicorée, Belgische Zichorie, Witloof), Gewöhnliche Blattzichorie (Italienische Zichorie)</td><td>15</td></tr>
+<tr><td>*Cichorium intybus (partim)* (Wurzelzichorie)</td><td>50</td></tr>
+<tr><td>*Cichorium endivia*</td><td>15</td></tr>
+<tr><td>*Citrullus lanatus*</td><td>250</td></tr>
+<tr><td>*Cucumis melo*</td><td>100</td></tr>
+<tr><td>*Cucumis sativus*</td><td>25</td></tr>
+<tr><td>*Cucurbita maxima*</td><td>250</td></tr>
+<tr><td>*Cucurbita pepo*</td><td>150</td></tr>
+<tr><td>*Cynara cardunculus*</td><td>50</td></tr>
+<tr><td>*Daucus carota*</td><td>10</td></tr>
+<tr><td>*Foeniculum vulgare*</td><td>25</td></tr>
+<tr><td>*Lactuca sativa*</td><td>10</td></tr>
+<tr><td>*Lycopersicon esculentum*</td><td>20</td></tr>
+<tr><td>*Petroselinum crispum*</td><td>10</td></tr>
+<tr><td>*Phaseolus coccineus*</td><td>1000</td></tr>
+<tr><td>*Phaseolus vulgaris*</td><td>700</td></tr>
+<tr><td>*Pisum sativum*</td><td>500</td></tr>
+<tr><td>*Raphanus sativus*</td><td>50</td></tr>
+<tr><td>*Rheum rhabarbarum*</td><td>135</td></tr>
+<tr><td>*Scorzonera hispanica*</td><td>30</td></tr>
+<tr><td>*Solanum melongena*</td><td>20</td></tr>
+<tr><td>*Spinacia oleracea*</td><td>75</td></tr>
+<tr><td>*Valerianella locusta*</td><td>20</td></tr>
+<tr><td>*Vicia faba*</td><td>1000</td></tr>
+<tr><td>*Zea mays*</td><td>1000</td></tr>
+<tr><td colspan="2">Bei F-1-Hybridsorten der vorgenannten Arten kann das Mindestgewicht der Probe bis auf ein Viertel des angegebenen Gewichts herabgesetzt werden. Die Probe muss jedoch mindestens ein Gewicht von 5 g haben und mindestens 400 Körner enthalten.</td></tr>
 </table>
 
 ### 2 Anforderungen an das Saatgut
 
 - 1\. Das Saatgut ist ausreichend sortenecht und sortenrein.
-- 2\. ...
+- 2\. …
 - 3\.
 
   Das Saatgut genügt folgenden weiteren Anforderungen:
 
-  - [tab] a. Normen:
+  - a. Normen:
 
 <table>
 <tr><th>Species</th><th>Technische Mindestreinheit (in % des Gewichts)</th><th>Höchstanteil an Körnern anderer Pflanzenarten (in % des Gewichts)</th><th>Mindestkeimfähigkeit (in % der reinen Körner oder Knäuel)</th></tr>
@@ -3647,9 +3701,9 @@ Der gewichtsmässige Anteil an Samen anderer Pflanzen überschreitet nicht 0,3 P
 <tr><td colspan="4">Bei Sorten von *Zea mays* (betrifft Zuckermais «super sweet») beträgt die erforderliche Mindestkeimfähigkeit nur 80 % der reinen Körner. Das Etikett wird mit dem Hinweis «Mindestkeimfähigkeit 80 %» versehen.</td></tr>
 </table>
 
-- [tab] b. ...
+- b. …
 
-Anhang 5*[^t-6]*
+Anhang 5[^t-6]
 
 (Art. 15, 27*b*, 28, 30, 38*a*, 44 und 45)
 
@@ -3668,7 +3722,7 @@ Anhang 5*[^t-6]*
   - 2\. Eintragung «EG-Norm»
   - 3\. Anerkennungsstelle und Land («CH» oder «Schweiz»)
   - 4\. Postennummer
-  - 5\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am ... (Monat und Jahr)
+  - 5\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am … (Monat und Jahr)
   - 6\. Art (lateinischer Name)
   - 7\. Sortenbezeichnung
   - 8\. Saatgutkategorie
@@ -3677,19 +3731,19 @@ Anhang 5*[^t-6]*
   - 11\. Sofern Granulate, Substanzen zur Saatgutpillierung oder andere solide Zusatzmittel verwendet werden, werden die entsprechenden Stoffe und deren Gewichtsanteil deklariert
   - 12\. Bei zertifiziertem Saatgut von Hybriden wird die Sortenbezeichnung mit dem Wortlaut «Hybrid» ergänzt.
   - Bei Basissaatgut von Hybriden oder bei der Produktion von Linienmischungen wird die Bezeichnung der Linie, der Einfachhybride oder der Komponente mit dem Wortlaut «Komponente» ergänzt
-  - 13\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am ... (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme.
+  - 13\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am … (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme.
   - 14\. zusätzlich bei Vorstufensaatgut die Anzahl der dem Saatgut der Kategorien «Zertifiziertes Saatgut» oder «Zertifiziertes Saatgut der ersten Generation» vorhergehenden Generationen.
 
 - b. Für Saatgutmischungen
   - 1\. Mischung (Arten und Sorten)
   - 2\. Anerkennungsstelle und Land («CH» oder «Schweiz»)
   - 3\. Postennummer
-  - 4\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am ... (Monat und Jahr)
+  - 4\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am … (Monat und Jahr)
   - 5\. Art, Sorte, Saatgutkategorie, Produktionsland und Gewichtsanteil in Prozent jeder Komponente
   - 6\. Amtliche Kennnummer,
   - 7\. Netto- oder Bruttogewicht (einschliesslich Vermerk) oder Anzahl Körner
   - 8\. Sofern Granulate, Substanzen zur Saatgutpillierung oder andere solide Zusatzstoffe verwendet werden, werden die entsprechenden Stoffe und deren Gewichtsanteil deklariert
-  - 9\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am ... (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme.
+  - 9\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am … (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme.
 
 ### Kapitel B: Etikettierung für Pflanzkartoffeln
 
@@ -3701,7 +3755,7 @@ Folgende Angaben müssen auf der Etikette enthalten sein:
 - 2\. Eintragung «EG-Norm»;
 - 3\. Anerkennungsstelle und Land;
 - 4\. Kennnummer des Produzenten oder Identifikationsnummer der Partie;
-- 5\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am ... (Monat und Jahr);
+- 5\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am … (Monat und Jahr);
 - 6\. Sortenbezeichnung;
 - 7\. Land, in welchem das Saatgut produziert wurde;
 - 8\. Kategorie und Klasse;
@@ -3757,9 +3811,9 @@ Die minimale Grösse einer Etikette beträgt 110 mm × 67 mm.
   - 2\. Eintragung «EG-Norm»,
   - 3\. Anerkennungsstelle und Land,
   - 4\. Bezugsnummer der Partie,
-  - 5\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am ...» (Monat und Jahr),
+  - 5\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am …» (Monat und Jahr),
   - oder
-  - Monat und Jahr der letzten für die Entscheidung über die Anerkennung bestimmten amtlichen Probenahmen, ausgedrückt durch den Vermerk: «Probenahme ...» (Monat und Jahr),
+  - Monat und Jahr der letzten für die Entscheidung über die Anerkennung bestimmten amtlichen Probenahmen, ausgedrückt durch den Vermerk: «Probenahme …» (Monat und Jahr),
   - 6\. Art (lateinische Bezeichnung),
   - 7\. Sortenbezeichnung,
   - 8\. Kategorie,
@@ -3767,7 +3821,7 @@ Die minimale Grösse einer Etikette beträgt 110 mm × 67 mm.
   - 10\. Netto- oder Bruttogewicht (einschliesslich Vermerk) oder Anzahl Körner,
   - 11\. Sofern Granulate, Substanzen zur Saatgutpillierung oder andere solide Zusatzmittel verwendet werden, werden die entsprechenden Stoffe und deren Gewichtsanteil deklariert,
   - 12\. Bei zertifiziertem Saatgut der zweiten und folgenden Vermehrungen nach Basissaatgut Zahl der Generationen nach Basissaatgut,
-  - 13\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am ... (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme,
+  - 13\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am … (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme,
   - 14\. Zusätzlich bei Prebasissaatgut die Anzahl der dem Saatgut der Kategorien «Zertifiziertes Saatgut» oder «Zertifiziertes Saatgut der ersten Generation» vorhergehenden Generationen,
   - 15\. Bei Saatgut von Gräsersorten, bei denen keine Prüfung der Anbau- und Verwendungseignung nach Artikel 15 Absatz 2 Buchstabe a stattgefunden hat: «Nicht zur Nutzung als Futterpflanzen bestimmt».
 
@@ -3780,23 +3834,27 @@ Die minimale Grösse einer Etikette beträgt 110 mm × 67 mm.
   - 3\. «Handelssaatgut (nicht nach der Sorte anerkannt)»,
   - 4\. Anerkennungsstelle und Land,
   - 5\. Postennummer,
-  - 6\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am ...» (Monat und Jahr),
+  - 6\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am …» (Monat und Jahr),
   - oder
-  - Monat und Jahr der letzten für die Entscheidung über die Zulassung als Handelssaatgut bestimmten amtlichen Probenahmen, ausgedrückt durch den Vermerk: «Probenahme ...» (Monat und Jahr),
+  - Monat und Jahr der letzten für die Entscheidung über die Zulassung als Handelssaatgut bestimmten amtlichen Probenahmen, ausgedrückt durch den Vermerk: «Probenahme …» (Monat und Jahr),
   - 7\. Art (lateinische Bezeichnung),
   - 8\. Land, in welchem das Saatgut produziert wurde,
   - 9\. Netto- oder Bruttogewicht (einschliesslich Vermerk) oder Anzahl Körner,
   - 10\. Sofern Granulate, Substanzen zur Saatgutpillierung oder andere solide Zusatzmittel verwendet werden, werden die entsprechenden Stoffe und deren Gewichtsanteil deklariert,
-  - 11\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am ... (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme.
-  - c. Für Saatgutmischungen:
-  - 1\. «Saatgutmischung für ... (Verwendungszweck)»,
+  - 11\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am … (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme.
+
+- c.
+
+  Für Saatgutmischungen:
+
+  - 1\. «Saatgutmischung für … (Verwendungszweck)»,
   - 2\. Verschliessungsstelle und Land,
   - 3\. Referenznummer,
-  - 4\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am ...» (Monat und Jahr),
+  - 4\. Monat und Jahr des Verschlusses mit dem Wortlaut: «Verschluss am …» (Monat und Jahr),
   - 5\. Gewichtsverhältnis der verschiedenen Bestandteile nach Arten und gegebenenfalls nach Sorten; es genügt die Angabe der Mischungsbezeichnung, wenn das Gewichtsverhältnis dem Erwerber schriftlich zur Kenntnis gegeben wird und bei einer amtlichen Stelle niedergelegt ist,
   - 6\. Netto- oder Bruttogewicht (einschliesslich Vermerk) oder Anzahl Körner,
   - 7\. Sofern Granulate, Substanzen zur Saatgutpillierung oder andere solide Zusatzmittel verwendet werden, werden die entsprechenden Stoffe und deren Gewichtsanteil deklariert,
-  - 8\. Im Falle von überlagerter Saatgutmischung kann der Text der Etikette mit dem Wortlaut «neu analysiert am ... (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme.
+  - 8\. Im Falle von überlagerter Saatgutmischung kann der Text der Etikette mit dem Wortlaut «neu analysiert am … (Monat, Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette, die auf die ursprüngliche Etikette befestigt wird, verwendet werden. Diese Etikette muss die folgende Angabe enthalten: Datum der Probenahme.
 
 ### 1.2 Mindestgrösse
 
@@ -3857,8 +3915,8 @@ Vorgeschriebene Angaben
     - – Bezugsnummer, die ein Zurückgreifen auf die verwendeten Partien gestattet,
     - – Land,
 
-  - 5\. ...
-  - 6\. «Saatgutmischung für ... (Verwendungszweck)»,
+  - 5\. …
+  - 6\. «Saatgutmischung für … (Verwendungszweck)»,
   - 7\. Netto- oder Bruttogewicht oder Zahl der reinen Körner,
   - 8\. Bei Angabe des Gewichtes und bei Verwendung von granulierten Schädlingsbekämpfungsmitteln, Hüllmasse oder sonstigen festen Zusätzen die Art des Zusatzes sowie das ungefähre Verhältnis zwischen dem Gewicht der reinen Körner und dem Gesamtgewicht,
   - 9\. Gewichtsverhältnis der verschiedenen Bestandteile nach Arten und gegebenenfalls nach Sorten; es genügen Teile dieser Angaben, soweit sie von den Mitgliedstaaten für auf ihrem Gebiet abgepackte Kleinpackungen gefordert werden, sowie die Angabe der Mischungsbezeichnung, wenn das Gewichtsverhältnis dem Erwerber auf Anfrage zur Kenntnis gegeben werden kann und bei einer amtlichen Stelle niedergelegt ist.
@@ -3875,7 +3933,9 @@ Vorgeschriebene Angaben
   - 2\. Eintragung «EG-Norm»,
   - 3\. Anerkennungsstelle und Land,
   - 4\. Postennummer,
-  - 5\. Monat und Jahr der Verschliessung, ausgedrückt durch den Vermerk: «Verschliessung ...» (Monat und Jahr) oder Monat und Jahr der letzten, zur Entscheidung über die Anerkennung bestimmten amtlichen Probenahme, ausgedrückt durch den Vermerk: «Probennahme ...» (Monat und Jahr),
+  - 5\. Monat und Jahr der Verschliessung, ausgedrückt durch den Vermerk: «Verschliessung …» (Monat und Jahr)
+  - oder
+  - Monat und Jahr der letzten, zur Entscheidung über die Anerkennung bestimmten amtlichen Probenahme, ausgedrückt durch den Vermerk: «Probennahme …» (Monat und Jahr),
   - 6\. Art (lateinische Bezeichnung),
   - 7\. Sortenbezeichnung,
   - 8\. Kategorie,
@@ -3893,14 +3953,10 @@ Vorgeschriebene Angaben
     - – für zertifiziertes Saatgut:
     - Bezeichnung der Sorte, der das Saatgut angehört, mit den Zusatz «Hybrid»,
 
-  - 13\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am ...» (Monat und Jahr) ergänzt werden. Dabei kann eine amtliche Klebeetikette verwendet werden, die auf der ursprünglichen Etikette befestigt wird. Diese Etikette muss folgende Angabe enthalten: Datum der Probenahme.
+  - 13\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am …» (Monat und Jahr) ergänzt werden. Dabei kann eine amtliche Klebeetikette verwendet werden, die auf der ursprünglichen Etikette befestigt wird. Diese Etikette muss folgende Angabe enthalten: Datum der Probenahme.
 
-- a<sup>bis</sup>.
-
-  Für zertifiziertes Saatgut einer Verbundsorte:
-
-  - Es gelten die unter Buchstabe a verlangten Angaben, ausser dass anstelle der Sortenbezeichnung die Bezeichnung der Verbundsorte (Angabe «Verbundsorte» und Bezeichnung) und die Gewichtsprozentsätze der verschiedenen Sortenkomponenten anzugeben sind; die Angabe der Bezeichnung der Verbundsorte reicht aus, wenn der Gewichtsprozentsatz dem Käufer auf Verlangen schriftlich mitgeteilt und amtlich festgehalten wurde.
-
+- a<sup>bis</sup>. Für zertifiziertes Saatgut einer Verbundsorte:
+- Es gelten die unter Buchstabe a verlangten Angaben, ausser dass anstelle der Sortenbezeichnung die Bezeichnung der Verbundsorte (Angabe «Verbundsorte» und Bezeichnung) und die Gewichtsprozentsätze der verschiedenen Sortenkomponenten anzugeben sind; die Angabe der Bezeichnung der Verbundsorte reicht aus, wenn der Gewichtsprozentsatz dem Käufer auf Verlangen schriftlich mitgeteilt und amtlich festgehalten wurde.
 - b.
 
   Bei Handelssaatgut:
@@ -3910,13 +3966,14 @@ Vorgeschriebene Angaben
   - 3\. «Handelssaatgut (nicht nach der Sorte anerkannt)»,
   - 4\. Anerkennungsstelle und Land,
   - 5\. Postennummer,
-  - 6\. Monat und Jahr der Verschliessung, ausgedrückt durch den Vermerk: «Verschliessung ...» (Monat und Jahr) oder
-  - Monat und Jahr der letzten für die Entscheidung über die Zulassung als Handelssaatgut bestimmten amtlichen Probenahme, ausgedrückt durch den Vermerk: «Probenahme ...» (Monat und Jahr**)**,
+  - 6\. Monat und Jahr der Verschliessung, ausgedrückt durch den Vermerk: «Verschliessung …» (Monat und Jahr)
+  - oder
+  - Monat und Jahr der letzten für die Entscheidung über die Zulassung als Handelssaatgut bestimmten amtlichen Probenahme, ausgedrückt durch den Vermerk: «Probenahme …» (Monat und Jahr**)**,
   - 7\. Art (lateinische Bezeichnung),
   - 8\. Erzeugerland,
   - 9\. Netto- oder Bruttogewicht,
   - 10\. Sofern granulierte Schädlingsbekämpfungsmittel, Substanzen zur Saatgutpillierung oder andere solide Zusatzmittel verwendet werden, werden die entsprechenden Stoffe und deren Gewichtsanteil deklariert,
-  - 11\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am ... (Monat Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette verwendet werden, die auf der ursprünglichen Etikette befestigt wird. Diese Etikette muss folgende Angabe enthalten: Datum der Probenahme für die Nachprüfung.
+  - 11\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am … (Monat Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette verwendet werden, die auf der ursprünglichen Etikette befestigt wird. Diese Etikette muss folgende Angabe enthalten: Datum der Probenahme für die Nachprüfung.
 
 ### 2 Mindestgrösse
 
@@ -3932,7 +3989,9 @@ Vorgeschriebene Angaben
 - 2\. Eintragung «EG-Norm»,
 - 3\. Anerkennungsstelle und Land,
 - 4\. Postennummer,
-- 5\. Monat und Jahr der Verschliessung, ausgedrückt durch den Vermerk: «Verschliessung ...» (Monat und Jahr) oder Monat und Jahr der letzten für die Entscheidung über die Anerkennung bestimmten amtlichen Probenahme, ausgedrückt durch den Vermerk: «Probenahme ...» (Monat und Jahr),
+- 5\. Monat und Jahr der Verschliessung, ausgedrückt durch den Vermerk: «Verschliessung …» (Monat und Jahr)
+- oder
+- Monat und Jahr der letzten für die Entscheidung über die Anerkennung bestimmten amtlichen Probenahme, ausgedrückt durch den Vermerk: «Probenahme …» (Monat und Jahr),
 - 6\. Art (lateinische Bezeichnung); ferner ist anzugeben, ob es sich um Zucker- oder Futterrüben handelt,
 - 7\. Sortenbezeichnung,
 - 8\. Kategorie,
@@ -3941,7 +4000,7 @@ Vorgeschriebene Angaben
 - 11\. Sofern granulierte Schädlingsbekämpfungsmittel, Substanzen zur Saatgutpillierung oder andere solide Zusatzmittel verwendet werden, werden die entsprechenden Stoffe und deren Gewichtsanteil deklariert,
 - 12\. Bei Monogermsaatgut: Zusatz «Monogermsaatgut»,
 - 13\. Bei Präzisionssaatgut: Zusatz «Präzisionssaatgut»,
-- 14\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am ... (Monat Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette verwendet werden, die auf der ursprünglichen Etikette befestigt wird. Diese Etikette muss folgende Angabe enthalten: Datum der Probenahme.
+- 14\. Im Falle von überlagertem Saatgut kann der Text der Etikette mit dem Wortlaut «neu analysiert am … (Monat Jahr)» ergänzt werden. Dabei kann eine amtliche Klebeetikette verwendet werden, die auf der ursprünglichen Etikette befestigt wird. Diese Etikette muss folgende Angabe enthalten: Datum der Probenahme.
 
 ### 1.2 Mindestgrösse
 
@@ -3973,7 +4032,7 @@ Vorgeschriebene Angaben
 - 1\. EG-Norm;
 - 2\. Anerkennungsstelle und Mitgliedstaat oder deren Zeichen;
 - 2*a*. Amtliche Kennnummer;
-- 3\. Monat und Jahr der Verschliessung ausgedrückt durch den Vermerk «Verschliessung ...» (Monat und Jahr) oder Monat und Jahr der letzten, für die Entscheidung über die Anerkennung bestimmten amtlichen Probenahme, ausgedrückt durch den Vermerk «Probenahme ...» (Monat und Jahr);
+- 3\. Monat und Jahr der Verschliessung ausgedrückt durch den Vermerk «Verschliessung …» (Monat und Jahr) oder Monat und Jahr der letzten, für die Entscheidung über die Anerkennung bestimmten amtlichen Probenahme, ausgedrückt durch den Vermerk «Probenahme …» (Monat und Jahr);
 - 4\. Bezugsnummer der Partie;
 - 5\. Art, zumindest in lateinischen Buchstaben die Angabe der botanischen Bezeichnung (gegebenenfalls abgekürzt und ohne Namen der Autoren) oder der landesüblichen Bezeichnung oder beider Bezeichnungen;
 - 6\. Sorte, zumindest in lateinischen Buchstaben angegeben;
@@ -3989,7 +4048,7 @@ Vorgeschriebene Angaben
   - – für Basissaatgut in anderen Fällen: Bezeichnung der Komponente, der das Basissaatgut angehört, die kodiert angegeben werden kann, ergänzt durch die Angabe der Sorte, mit oder ohne Angabe ihrer Funktion (männliche oder weibliche Komponente), mit dem Zusatz «Komponente»,
   - – für zertifiziertes Saatgut: Bezeichnung der Sorte, der das Saatgut angehört, mit dem Zusatz «Hybrid»;
 
-- 12\. Wenn mindestens die Keimfähigkeit erneut geprüft wurde, können die Worte «erneut geprüft ...» (Monat und Jahr) angegeben werden.
+- 12\. Wenn mindestens die Keimfähigkeit erneut geprüft wurde, können die Worte «erneut geprüft …» (Monat und Jahr) angegeben werden.
 
 ### II. Mindestgrösse
 
@@ -4013,7 +4072,7 @@ Vorgeschriebene Angaben
 
 - [tab] 110 × 67 mm
 
-Anhang 6*[^t-7]*
+Anhang 6[^t-7]
 
 (Art. 40)
 

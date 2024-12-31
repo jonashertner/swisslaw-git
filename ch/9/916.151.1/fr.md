@@ -3,31 +3,31 @@ sr: "916.151.1"
 title: "Ordonnance du DEFR du 7 décembre 1998 sur le matériel de multiplication des espèces de grandes cultures, de cultures fourragères et de cultures maraîchères (Ordonnance du DEFR sur le matériel de multiplication des grandes cultures et cultures fourragères)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/121"
 language: fr
-version: 2021-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-121-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/121/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-121-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/121/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR sur le matériel de multiplication des espèces de grandes cultures, de cultures fourragères et de cultures maraîchères
 
-(Ordonnance du DEFR sur le matériel de multiplication des grandes cultures et cultures fourragères)**[^t-1]**
+(Ordonnance du DEFR sur le matériel de multiplication des grandes cultures et cultures fourragères)[^t-1]
 
-du 7 décembre 1998 (Etat le 1<sup>er</sup> janvier 2021)
+du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
-Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)*[^ingress-1]*,
+Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
 vu les art. 4, al. 1 et 2, 5, al. 2 et 3, 10, al. 3 et 5, 11, al. 1<sup>bis</sup> à 3, 12, al. 3 et 4, 13, 14, al. 1<sup>bis</sup> à 3 et 5, 15, al. 3 et 4, 16, 17, al. 2 et 6, et 21, al. 1, de l’ordonnance du 7 décembre 1998 sur le matériel de multiplication[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-2]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^ingress-2]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 ## Chapitre 1 Dispositions générales
@@ -68,7 +68,7 @@ Dans le cas du maïs, du Sorghum spp. et du tournesol, on entend par:[^2-2]
 
 <sup>7</sup> Par variété de niche, on entend, à l’exception des variétés génétiquement modifiées, une variété du pays, une ancienne variété, dans le cas des plantes fourragères un écotype, ou toute autre variété qui ne doit pas répondre aux exigences, visées à la section 3, relatives à l’enregistrement dans le catalogue des variétés.[^2-6]
 
-<sup>8</sup> et <sup>9</sup> ...[^2-7]
+<sup>8 et <sup>9</sup></sup> …[^2-7]
 
 <sup>10</sup> Par semences monogermes de betteraves, on entend des semences génétiquement monogermes.[^2-8]
 
@@ -127,8 +127,8 @@ Par semences de base, on entend les semences de multiplication:
 
 Les semences de base sont destinées à:
 
-- a.[^4-4] la production de semences des catégories «semences certifiées», «semences certifiées de la première reproduction» ou «semences certifiées de la deuxième reproduction» pour l’avoine, l’orge, l’alpiste, le seigle, le blé, l’épeautre et le triticale autres que leurs hybrides respectifs, ainsi que pour le soja, le lin, ...[^4-5], les lupins, le pois protéagineux, les vesces et les luzernes;
-- b.[^4-6] la production de semences certifiées de la première reproduction pour les variétés des genres et espèces de plantes fourragères autres que les lupins, le pois protéagineux, les vesces et les luzernes, ainsi que pour les variétés de navette, de moutarde brune, de colza, ...[^4-7], de tournesol, de moutarde blanche et de betteraves;
+- a.[^4-4] la production de semences des catégories «semences certifiées», «semences certifiées de la première reproduction» ou «semences certifiées de la deuxième reproduction» pour l’avoine, l’orge, l’alpiste, le seigle, le blé, l’épeautre et le triticale autres que leurs hybrides respectifs, ainsi que pour le soja, le lin, …[^4-5], les lupins, le pois protéagineux, les vesces et les luzernes;
+- b.[^4-6] la production de semences certifiées de la première reproduction pour les variétés des genres et espèces de plantes fourragères autres que les lupins, le pois protéagineux, les vesces et les luzernes, ainsi que pour les variétés de navette, de moutarde brune, de colza, …[^4-7], de tournesol, de moutarde blanche et de betteraves;
 - c. la production de semences certifiées pour les hybrides d’avoine, d’orge, de seigle, de blé, d’épeautre et de triticale;
 - d. la production de semences certifiées, d’hybrides «Top Cross» ou d’hybrides intervariétaux pour les variétés à pollinisation libre de maïs, de sorgho et de sorgho du Soudan;
 - e. la production de semences d’hybrides simples ou d’hybrides «Top Cross» pour les semences de lignées inbred de maïs, de sorgho et de sorgho du Soudan;
@@ -154,7 +154,7 @@ Les semences de base sont destinées à:
 
 <sup>1</sup>
 
-Par semences certifiées d’alpiste à l’exception de ses hybrides, de seigle, de sorgho, de sorgho du Soudan, de maïs, de colza, de navette, de moutarde brune, ..., de tournesol, de moutarde blanche, de betteraves et de légumes, d’hybrides d’avoine, d’orge, de blé, d’épeautre et de variétés à pollinisation directe de triticale, ainsi que des genres et des espèces de plantes fourragères exceptés les lupins, les pois protéagineux, les vesces et la luzerne, on entend les semences:[^5-2]
+Par semences certifiées d’alpiste à l’exception de ses hybrides, de seigle, de sorgho, de sorgho du Soudan, de maïs, de colza, de navette, de moutarde brune, …, de tournesol, de moutarde blanche, de betteraves et de légumes, d’hybrides d’avoine, d’orge, de blé, d’épeautre et de variétés à pollinisation directe de triticale, ainsi que des genres et des espèces de plantes fourragères exceptés les lupins, les pois protéagineux, les vesces et la luzerne, on entend les semences:[^5-2]
 
 - a. issues directement de semences de base ou, à la demande de l’obtenteur, de semences de pré-base;
 - b.[^5-3] prévues pour une production autre que celle de semences;
@@ -163,7 +163,7 @@ Par semences certifiées d’alpiste à l’exception de ses hybrides, de seigle
 
 <sup>2</sup>
 
-Par semences certifiées de la première reproduction d’avoine, d’orge, de blé, d’épeautre et de triticale autres que leurs hybrides respectifs, ainsi que de lupins, de pois protéagineux, de vesces, de luzerne, ..., de lin textile, de lin oléagineux et de soja, on entend les semences de multiplication:[^5-4]
+Par semences certifiées de la première reproduction d’avoine, d’orge, de blé, d’épeautre et de triticale autres que leurs hybrides respectifs, ainsi que de lupins, de pois protéagineux, de vesces, de luzerne, …, de lin textile, de lin oléagineux et de soja, on entend les semences de multiplication:[^5-4]
 
 - a. issues directement de semences de base ou, à la demande de l’obtenteur, de semences de pré-base;
 - b. prévues soit pour la production de semences de la catégorie «certifiées de la deuxième reproduction», soit pour une production autre que celle de semences;
@@ -172,13 +172,14 @@ Par semences certifiées de la première reproduction d’avoine, d’orge, de b
 
 <sup>3</sup>
 
-Par semences certifiées de la deuxième reproduction d’avoine, d’orge, de blé, d’épeautre et de triticale autres que leurs hybrides respectifs, ainsi que de lupins, de pois protéagineux, de vesces, de luzernes, ..., de lin textile, de lin oléagineux et de soja, on entend les semences:[^5-5]
+Par semences certifiées de la deuxième reproduction d’avoine, d’orge, de blé, d’épeautre et de triticale autres que leurs hybrides respectifs, ainsi que de lupins, de pois protéagineux, de vesces, de luzernes, …, de lin textile, de lin oléagineux et de soja, on entend les semences:[^5-5]
 
 - a. issues directement de semences des catégories «semences de base», «semences certifiées de la première reproduction» ou, à la demande de l’obtenteur, de la catégorie «semences de pré-base»;
 - b. prévues pour une production autre que celle de semences;
 - c. répondant aux conditions fixées aux annexes 3 et 4 pour les semences certifiées de la deuxième reproduction;
 - d. produites et certifiées (s.l.) selon les règles de la présente ordonnance.
-- [tab] <sup>4</sup> ... [^5-6]
+
+<sup>4</sup> … [^5-6]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 7 juin 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 7 juin 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
@@ -309,8 +310,8 @@ Par plants certifiés, on entend les tubercules de pommes de terre:
 
 Ne peuvent être utilisées comme semences de multiplication de céréales et de plantes oléagineuses et à fibres au sens de l’al. 5 que:
 
-- a. les semences de pré-base ou de base pour les variétés de maïs, de seigle, de sorgho, de sorgho du Soudan et d’alpiste ainsi que pour les variétés hybrides d’avoine, d’orge, de blé, d’épeautre et de triticale, de même que pour les variétés de colza, de navette, de moutarde brune, ..., de tournesol, de moutarde blanche et de betteraves;
-- b. les semences de pré-base, de base ou certifiées de la première génération, pour les variétés d’avoine, d’orge, de blé, d’épeautre et de triticale autres que leurs hybrides respectifs, ainsi que pour les variétés de lupins, de pois protéagineux, de vesces, de luzernes, ..., de lin textile, de lin oléagineux et de soja.[^10-3]
+- a. les semences de pré-base ou de base pour les variétés de maïs, de seigle, de sorgho, de sorgho du Soudan et d’alpiste ainsi que pour les variétés hybrides d’avoine, d’orge, de blé, d’épeautre et de triticale, de même que pour les variétés de colza, de navette, de moutarde brune, …, de tournesol, de moutarde blanche et de betteraves;
+- b. les semences de pré-base, de base ou certifiées de la première génération, pour les variétés d’avoine, d’orge, de blé, d’épeautre et de triticale autres que leurs hybrides respectifs, ainsi que pour les variétés de lupins, de pois protéagineux, de vesces, de luzernes, …, de lin textile, de lin oléagineux et de soja.[^10-3]
 
 <sup>7</sup> Pour les variétés de plantes fourragères autres que les lupins, le pois protéagineux, les vesces et les luzernes, ne peuvent être utilisées comme semences de multiplication de plantes fourragères au sens de l’al. 5 que les semences de pré-base et de base.[^10-4]
 
@@ -348,7 +349,7 @@ Par petits emballages CE de betteraves, on entend les emballages contenant les s
 
 <sup>3</sup> L’OFAG peut, sur demande, accepter à la certification un lot composé de plants d’une même variété et d’une seule classe provenant de parcelles distinctes d’un même producteur. Lorsqu’une des parties du lot composé ne remplit pas les exigences requises pour la classe annoncée, c’est la classe inférieure correspondante qui sert à la désignation de l’ensemble du lot composé.
 
-<sup>4</sup> et <sup>5</sup> ...[^12-2]
+<sup>4 et <sup>5</sup></sup> …[^12-2]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 [^12-2]: Abrogés par le ch. I de l’O du DEFR du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
@@ -558,7 +559,7 @@ Les établissements conditionneurs sont tenus:
 <sup>6</sup> En cas de refus d’une parcelle de multiplication, le producteur peut faire opposition par écrit auprès de l’OFAG dans un délai de trois jours ouvrables à compter de la date de la notification du refus. L’OFAG est tenu d’effectuer une contre-expertise dans les sept jours ouvrables suivant la réception de l’opposition. Aucune modification ne doit être apportée à l’état de la parcelle de multiplication pendant ce délai.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 7 juin 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
-[^23-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^23-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 [^23-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
 #### Art. 24
@@ -577,7 +578,7 @@ Un lot de semences est certifié (s.l.) par l’OFAG si:
 
 <sup>3</sup> Les lots refusés peuvent être présentés une nouvelle fois à la certification (s.l.) après un conditionnement complémentaire (séchage, retriage, etc.). À cet effet, un nouvel échantillon officiel est prélevé.
 
-<sup>4</sup> ... [^24-4]
+<sup>4</sup> … [^24-4]
 
 <sup>5</sup> L’OFAG peut, sur la base des résultats de l’analyse d’un échantillon, certifier provisoirement un lot de semences non triées et autoriser sa mise en circulation jusqu’au premier destinataire. Les établissements multiplicateurs sont tenus, sur demande de l’OFAG, de mettre à sa disposition une liste mentionnant le nom et l’adresse du premier destinataire. Un échantillon officiel est prélevé et envoyé au laboratoire officiel immédiatement après le conditionnement du lot. La mise en circulation doit cesser immédiatement si les résultats des analyses de l’échantillon officiel ne satisfont pas aux exigences fixées à l’annexe 4.[^24-5]
 
@@ -586,7 +587,7 @@ Un lot de semences est certifié (s.l.) par l’OFAG si:
 <sup>7</sup> Lorsqu’un lot est refusé à la suite du contrôle en laboratoire officiel, le producteur peut faire opposition par écrit auprès de l’OFAG dans les 30 jours.[^24-7]
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^24-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^24-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 [^24-3]: Nouvelle teneur selon l’annexe 13 ch. 1 de l’O du DEFR et du DETEC du 14 nov. 2019 relative à l’ordonnance sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)).
 [^24-4]: Abrogé par le ch. I de l’O du DEFR du 7 juin 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^24-5]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 mai 2005, en vigueur depuis le 10 mai 2005 ([RO 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
@@ -643,9 +644,9 @@ Les semences et les plants ne peuvent être mis en circulation qu’en lots homo
 
 <sup>5</sup> L’OFAG peut autoriser, à des fins de recherches et d’essais, la mise en circulation de petites quantités de semences et de plants ne répondant pas aux exigences de l’art. 20.[^27-5]
 
-<sup>6</sup> ...[^27-6]
+<sup>6</sup> …[^27-6]
 
-- [tab] <sup>7</sup> En dérogation aux dispositions de l’art. 20, l’OFAG peut autoriser la mise en circulation de semences non encore conditionnées, pour autant qu’elles aient passé le contrôle avec succès et que les exigences prévues à l’annexe 3 soient satisfaites. L’OFAG décide cas par cas des obligations à satisfaire.[^27-7]
+<sup>7</sup> En dérogation aux dispositions de l’art. 20, l’OFAG peut autoriser la mise en circulation de semences non encore conditionnées, pour autant qu’elles aient passé le contrôle avec succès et que les exigences prévues à l’annexe 3 soient satisfaites. L’OFAG décide cas par cas des obligations à satisfaire.[^27-7]
 
 [^27-1]: Voir la note à l’art. 20, let. a.
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 7 juin 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
@@ -677,7 +678,8 @@ L’établissement conditionneur procède aux enregistrements suivants concernan
 
 - a. indications sur la quantité et la répartition des lots de semences et plants dont l’emballage est refermé, ainsi qu’interventions et traitements auxquels les semences et plantes sont soumis;
 - b. preuve que les semences et plants ont été emballés conformément aux exigences de la présente ordonnance.
-- [tab] <sup>3</sup> L’OFAG peut exiger un échantillon officiel des semences et plants dont les emballages ont été refermés.
+
+<sup>3</sup> L’OFAG peut exiger un échantillon officiel des semences et plants dont les emballages ont été refermés.
 
 [^27b-1]: Introduit par le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 
@@ -856,7 +858,7 @@ Les semences de différentes variétés d’une espèce de céréales ou les sem
 
 <sup>1</sup> Les art. 32, al. 3 et 3<sup>bis</sup>, s’appliquent également aux pommes de terre.[^36-2]
 
-<sup>2</sup> ...[^36-3]
+<sup>2</sup> …[^36-3]
 
 <sup>3</sup> L’OFAG peut refuser une demande d’enregistrement si les résultats de l’examen préliminaire montrent que la variété ne remplit pas les exigences fixées dans l’annexe 2.
 
@@ -891,7 +893,7 @@ Les établissements multiplicateurs sont tenus:
 <tr><td>Classe UE E</td><td>Classe A [^38-1]</td></tr>
 </table>
 
-<sup>1</sup> <sup>bis</sup> Si le nombre de générations de plants importés de la classe UE PB n’est pas connu, lesdits plans sont attribués à la quatrième génération.[^38-2]
+<sup>1bis</sup> Si le nombre de générations de plants importés de la classe UE PB n’est pas connu, lesdits plans sont attribués à la quatrième génération.[^38-2]
 
 <sup>2</sup> Surdemande et lorsquela généalogie et les exigences des lots de plants importés correspondent à celles de l’une des classes définies à l’art. 8, l’OFAG peut décider selon les cas que la classe qui peut être produite soit désignée par la classe inférieure correspondante.
 
@@ -956,7 +958,7 @@ Pour les plants de pommes de terre qui ont été obtenus par micromultiplication
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
 [^39-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 7 juin 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^39-3]: Introduite par le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^39-4]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^39-4]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 [^39-5]: Introduit par le ch. I de l’O du DEFR du 2 mai 2005, en vigueur depuis le 10 mai 2005 ([RO 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)).
 
 #### Art. 39a
@@ -967,21 +969,21 @@ Pour les plants de pommes de terre qui ont été obtenus par micromultiplication
 
 En dérogation aux dispositions de l’art. 24, un lot de plants de pommes de terre issus de semences de pommes de terre (True Potato Seeds) est reconnu par l’OFAG en tant que plant de base ou plant certifié, à condition que les plants:
 
-- a. remplissent les exigences fixées à l’art. 20 concernant la production et la certification, à l’exception des normes de calibrage fixées à l’annexe 4;
-- b.
+- remplissent les exigences fixées à l’art. 20 concernant la production et la certification, à l’exception des normes de calibrage fixées à l’annexe 4;
+-
 
   soient produits à partir de plantons qui:
 
   - 1\. remplissent les exigences fixées à l’annexe 3, et
   - 2\. ont été produits à base de semences de pommes de terre issues d’un croisement par voie sexuée provenant de la sélection consanguine de lignées parentales et qui remplissent les exigences fixées aux annexes 3 et 4;
 
-- c. soient produits à partir de trois générations au maximum de plants de base et de plants certifiés issus de semences de pomme de terre; les tubercules récoltés sur la base des plantons représentent la première génération; et
-- d. satisfassent aux exigences fixées aux art. 4 et 5 de l’OSaVé-DEFR-DETEC[^39a-2] pour ce qui est des seuils et des mesures contre la présence d’organismes réglementés non de quarantaine.
+- soient produits à partir de trois générations au maximum de plants de base et de plants certifiés issus de semences de pomme de terre; les tubercules récoltés sur la base des plantons représentent la première génération; et
+- satisfassent aux exigences fixées aux art. 4 et 5 de l’OSaVé-DEFR-DETEC[^39a-2] pour ce qui est des seuils et des mesures contre la présence d’organismes réglementés non de quarantaine.
 
 <sup>2</sup> L’OFAG fixe la quantité maximale qui peut être reconnue selon l’al. 1.
 
 [^39a-1]: Introduit par le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
-[^39a-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^39a-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 40
 
@@ -993,7 +995,7 @@ En dérogation aux dispositions de l’art. 24, un lot de plants de pommes de te
 
 <sup>3</sup> L’OFAG peut prélever des échantillons de plants et les soumettre à des contrôles en vue de vérifier leur conformité aux exigences de la présente ordonnance, en particulier celles fixées à l’annexe 6.
 
-### Section 3 Plantes fourragères, oléagineuses et à fibres****
+### Section 3 Plantes fourragères, oléagineuses et à fibres
 
 [^chap2-sec3-1]
 
@@ -1022,7 +1024,7 @@ En dérogation aux dispositions de l’art. 24, un lot de plants de pommes de te
 
 **Production de semences certifiées**
 
-<sup>1</sup> ...[^41-1]
+<sup>1</sup> …[^41-1]
 
 <sup>2</sup>
 
@@ -1050,7 +1052,7 @@ En dérogation aux art. 20 à 24, l’OFAG admet un lot de semences comme semenc
 
 <sup>2</sup> Les échantillons officiels sont prélevés et envoyés par une personne agréée au laboratoire de l’OFAG, sitôt le triage d’un lot terminé. L’établissement multiplicateur conserve pendant au moins une année un double de chaque échantillon officiel. Le poids des lots et des échantillons est fixé à l’annexe 4.
 
-<sup>3</sup> ...[^42-1]
+<sup>3</sup> …[^42-1]
 
 [^42-1]: Abrogé par le ch. I de l’O du DEFR du 7 juin 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
@@ -1076,9 +1078,9 @@ En dérogation aux art. 20 à 24, l’OFAG admet un lot de semences comme semenc
 
 **Mise en circulation**
 
-<sup>1</sup> ...[^45-1]
+<sup>1</sup> …[^45-1]
 
-<sup>1bis</sup> ...[^45-2]
+<sup>1bis</sup> …[^45-2]
 
 <sup>2</sup> Pour les espèces suivantes, des lots homogènes de semences de la catégorie «semences commerciales» peuvent également être mis en circulation: [^45-3]
 
@@ -1112,7 +1114,7 @@ Trigonella foenum-graecum L.
 
 Vicia faba L. (partim)
 
-Vicia pannonica Crantz.*[^45-4]*
+Vicia pannonica Crantz.[^45-4]
 
 <sup>3</sup> L’OFAG peut autoriser, dans un but d’utilisation et de conservation des ressources phytogénétiques, la mise en circulation d’écotypes d’espèces qui ne sont pas citées à l’al. 2; il en fixe les conditions.
 
@@ -1159,7 +1161,7 @@ En dérogation à l’al. 1, let. b:
 [^46-5]: Introduite par le ch. I de l’O du DEFR du 7 juin 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 [^46-6]: Introduite par le ch. I de l’O du DEFR du 7 juin 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
-### Section 4**** Betteraves
+### Section 4 Betteraves
 
 [^chap2-sec4-1]
 
@@ -1191,7 +1193,7 @@ Abrogé
 
 <sup>1</sup> L’OFAG est chargé de l’application de la présente ordonnance; il peut édicter les dispositions d’exécution nécessaires.
 
-<sup>2</sup> ...[^50-1]
+<sup>2</sup> …[^50-1]
 
 [^50-1]: Introduit par le ch. I de l’O du DEFR du 8 mars 2002 ([RO 2002 1489](https://fedlex.data.admin.ch/eli/oc/2002/235)). Abrogé par le ch. I de l’O du DEFR du 7 juin 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)).
 
@@ -1257,7 +1259,7 @@ Les semences de légumes figurant à l’annexe 1 produites avant le 31 décembr
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1999.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 1, 13, 46)
 
@@ -1442,7 +1444,7 @@ Annexe 1*[^t-2]*
 <tr><td>*Phaseolus coccineus* L.</td><td>haricot d’Espagne</td></tr>
 <tr><td>*Phaseolus vulgaris* L.</td><td></td></tr>
 <tr><td>– Groupe haricot commun</td><td>haricot commun</td></tr>
-<tr><td>[tab] Groupe haricot nain</td><td>haricot nain, haricot à rames</td></tr>
+<tr><td>– Groupe haricot nain</td><td>haricot nain, haricot à rames</td></tr>
 <tr><td>*Pisum sativum* L. (partim)</td><td></td></tr>
 <tr><td>– Groupe pois rond</td><td>pois, pois rond</td></tr>
 <tr><td>– Groupe pois ridé</td><td>pois ridé</td></tr>
@@ -1461,7 +1463,7 @@ Annexe 1*[^t-2]*
 <tr><td>– Groupe maïs à éclater</td><td>maïs à éclater</td></tr>
 </table>
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 14, 32, 36, 49)
 
@@ -1787,7 +1789,7 @@ std = par rapport à la valeur des standards
 <table>
 <tr><th>Caractéristiques retenues pour le calcul des indices</th><th>Résultat de la variété en examen</th><th>Valeur moyenne des deux meilleures variétés standard</th><th colspan="2">Facteur de pondération</th><th>Formule de calcul des indices</th></tr>
 <tr><td colspan="6">Indice rendement (A)</td></tr>
-<tr><td>rendement en dt/ha de grains à 15% H<sub>2</sub>0</td><td>a<sub>1</sub></td><td colspan="2">a<sub>2</sub></td><td>1,0</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20210101/fr/xml/image/image1.png)</td></tr>
+<tr><td>rendement en dt/ha de grains à 15% H<sub>2</sub>0</td><td>a<sub>1</sub></td><td colspan="2">a<sub>2</sub></td><td>1,0</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/fr/xml/image/image1.png)</td></tr>
 <tr><td colspan="6">Indice précocité (B)</td></tr>
 <tr><td>teneur en matière sèche des grains à la récolte (%)</td><td>b<sub>1</sub></td><td>b<sub>2</sub></td><td colspan="2">2,5</td><td>(b<sub>1</sub> – b<sub>2</sub>) x 2,5 = B</td></tr>
 <tr><td colspan="6">Indice résistance à la verse (C)</td></tr>
@@ -1905,7 +1907,7 @@ Des valeurs éliminatoires distinctes sont déterminées pour certaines caracté
 <tr><td>Développement et maladies de type parasitaire au champ</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>Régularité à la levée (note)</td><td>c–a</td><td>1.0</td><td colspan="2"></td><td>1.0</td><td colspan="2"></td></tr>
 <tr><td>Mildiou sur feuillage (note)</td><td>c–a</td><td>3.0</td><td colspan="2"></td><td>3.0</td><td colspan="2"></td></tr>
-<tr><td>[tab] Viroses</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>Viroses</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>– PVY (%)</td><td>c–a</td><td>1.0</td><td colspan="2"></td><td>1.0</td><td colspan="2"></td></tr>
 <tr><td>– PLRV (%)</td><td>c–a</td><td>1.0</td><td colspan="2"></td><td>1.0</td><td colspan="2"></td></tr>
 <tr><td>Erwinia (%)</td><td>c–a</td><td>1.0</td><td colspan="2"></td><td>1.0</td><td colspan="2"></td></tr>
@@ -1914,11 +1916,11 @@ Des valeurs éliminatoires distinctes sont déterminées pour certaines caracté
 <tr><td>Mildiou sur tubercule</td><td>c–a</td><td>1.0</td><td colspan="2">&gt; 5.0</td><td>1.0</td><td colspan="2">&gt; 5.0</td></tr>
 <tr><td>Pourriture autre que mildiou</td><td>c–a</td><td>1.0</td><td colspan="2">&gt; 5.0</td><td>1.0</td><td colspan="2">&gt; 5.0</td></tr>
 <tr><td>Mop top ou rattel</td><td>c–a</td><td>1.0</td><td colspan="2">&gt; 6.0</td><td>1.0</td><td colspan="2">&gt; 6.0</td></tr>
-<tr><td>[tab] PVY<sup>NTN</sup></td><td>c–a</td><td>1.0</td><td colspan="2">&gt; 3.0</td><td>1.0</td><td colspan="2">&gt; 3.0</td></tr>
-<tr><td>[tab] Rhizoctone</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>PVY<sup>NTN</sup></td><td>c–a</td><td>1.0</td><td colspan="2">&gt; 3.0</td><td>1.0</td><td colspan="2">&gt; 3.0</td></tr>
+<tr><td>Rhizoctone</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>– pustule</td><td>c–a</td><td>0.1</td><td colspan="2"></td><td>0.1</td><td colspan="2"></td></tr>
 <tr><td>– déformant</td><td>c–a</td><td>1.0</td><td colspan="2">&gt; 5.0</td><td>1.0</td><td colspan="2">&gt; 5.0</td></tr>
-<tr><td>[tab] Gale</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>Gale</td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>– commune</td><td>c–a</td><td>0.5</td><td colspan="2"></td><td>0.5</td><td colspan="2"></td></tr>
 <tr><td>– poudreuse</td><td>c–a</td><td>1.0</td><td colspan="2">&gt; 5.0</td><td>1.0</td><td colspan="2">&gt; 5.0</td></tr>
 <tr><td>– argentée</td><td>c–a</td><td>0.25</td><td colspan="2"></td><td>0.25</td><td colspan="2"></td></tr>
@@ -1951,12 +1953,9 @@ Un examen préliminaire n’est réalisé que pour la féverole, le pois protéa
 
 ### 1.2 Caractéristiques observées
 
-- a. Caractéristiques principales:
-- Elles sont observées lors des essais préliminaires et des essais officiels. On distingue les caractéristiques importantes (priorité A) et les caractéristiques secondaires (priorité B).
-- b. Caractéristiques circonstancielles:
-- Elles sont observées pour autant que les conditions le permettent.
-- c. Autres observations:
-- Ce sont des informations descriptives complémentaires et l’observation de problèmes particuliers. Ces caractéristiques ne sont pas systématiquement retenues pour l’examen de la variété.
+- a. Caractéristiques principales: Elles sont observées lors des essais préliminaires et des essais officiels. On distingue les caractéristiques importantes (priorité A) et les caractéristiques secondaires (priorité B).
+- b. Caractéristiques circonstancielles: Elles sont observées pour autant que les conditions le permettent.
+- c. Autres observations: Ce sont des informations descriptives complémentaires et l’observation de problèmes particuliers. Ces caractéristiques ne sont pas systématiquement retenues pour l’examen de la variété.
 
 ### 1.3 Valeurs éliminatoires
 
@@ -2005,11 +2004,14 @@ Les bonus et malus constituent des corrections sous forme de points ajoutés ou 
 
 - a. Les caractéristiques observées retenues pour le calcul de la valeur globale ainsi que leur priorité sont fixés pour chaque espèce au tableau 1 du présent chapitre.
 - b. Le barème des notes s’échelonne de 1 à 9, 1 étant la meilleure note, 9 la moins bonne.
-- c. L’attribution des notes s’effectue sur la base des systèmes de notation suivants:
+- c.
+
+  L’attribution des notes s’effectue sur la base des systèmes de notation suivants:
+
+  - 1\. Selon analyse statistique:
 
 <table>
 <tr><td></td><td></td><td>Note</td></tr>
-<tr><td>1. Selon analyse statistique:</td><td></td><td></td></tr>
 <tr><td>Valeur par rapport à la moyenne de l’essai (ou des standards)</td><td></td><td></td></tr>
 <tr><td>Différence positive:</td><td>&gt; ppds (p = 0,01)</td><td>1</td></tr>
 <tr><td></td><td>&gt; ppds (p = 0,05)</td><td>2</td></tr>
@@ -2023,7 +2025,7 @@ Les bonus et malus constituent des corrections sous forme de points ajoutés ou 
 <tr><td>ppds = plus petite différence significative</td><td></td><td></td></tr>
 </table>
 
-- [tab] 2. Selon notation:
+- 2\. Selon notation:
 
 <table>
 <tr><th>Note</th><th>Vigueur à la levée Faculté de repousse Résistance aux maladies<sup>1</sup></th><th>Force de concurrence (100- part en %) de la variété/10 = indice de concurrence</th><th>Constitution de la feuille</th><th>Persistance Lacunes en % de la couverture du sol</th></tr>
@@ -2119,7 +2121,7 @@ Féverole, pois protéagineux et lupin
 <tr><td>Poids de 1000 grains:</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>– Pois protéagineux et lupin bleu</td><td>b–a</td><td>g</td><td></td><td colspan="2"></td><td>+20</td><td>–20</td></tr>
 <tr><td>– Féverole et lupin blanc</td><td>b– a</td><td>g</td><td></td><td colspan="2"></td><td>+30</td><td>–30</td></tr>
-<tr><td>Teneur en protéines</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20210101/fr/xml/image/image2.png)</td><td>%</td><td></td><td colspan="2">&lt; –10</td><td>+2</td><td>–2</td></tr>
+<tr><td>Teneur en protéines</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/121/20250101/fr/xml/image/image2.png)</td><td>%</td><td></td><td colspan="2">&lt; –10</td><td>+2</td><td>–2</td></tr>
 <tr><td>Maturité (hauteur des plantes au moment de la récolte)</td><td>b–a</td><td>cm</td><td></td><td colspan="2"></td><td>+5</td><td>–5</td></tr>
 <tr><td>État sanitaire</td><td>b–a</td><td>Note</td><td></td><td colspan="2"></td><td>+1</td><td>–1</td></tr>
 <tr><td>Hivernage des pois protéagineux d’automne (diminution du nombre de plantes)</td><td>b–a</td><td>%</td><td></td><td colspan="2"></td><td>+10</td><td>–10</td></tr>
@@ -2366,13 +2368,13 @@ B. Betteraves fourragères
 <tr><td colspan="5">Valeur globale = rendement en matière sèche + point(s) de bonification</td></tr>
 </table>
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 3 à 5, 7 à 10, 23, 38 et 39*a*)
 
 ## Visite des cultures et exigences auxquelles doivent satisfaire les cultures
 
-[^t-4]: Mise à jour par le ch. II des O du DEFR du 22 déc. 1999 ([RO 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), du 2 mai 2005 ([RO 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), du 2 nov. 2006 ([RO 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)), du 7 juin 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), l’annexe 13 ch. 1 al. 1 de l’O du DEFR et du DETEC du 14 nov. 2019 relative à l’ordonnance sur la santé des végétaux ([RO 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)) et le ch. II al. 1 de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)).
+[^t-4]: Mise à jour par le ch. II des O du DEFR du 22 déc. 1999 ([RO 2000 513](https://fedlex.data.admin.ch/eli/oc/2000/97)), du 2 mai 2005 ([RO 2005 1945](https://fedlex.data.admin.ch/eli/oc/2005/329)), du 2 nov. 2006 ([RO 2006 5179](https://fedlex.data.admin.ch/eli/oc/2006/787)), du 7 juin 2010 ([RO 2010 2763](https://fedlex.data.admin.ch/eli/oc/2010/361)), l’annexe 13 ch. 1 al. 1 de l’O du DEFR et du DETEC du 14 nov. 2019 relative à l’ordonnance sur la santé des végétaux ([RO 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787)), le ch. II al. 1 de l’O du DEFR du 11 nov. 2020 ([RO 2020 5531](https://fedlex.data.admin.ch/eli/oc/2020/961)) et le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 640](https://fedlex.data.admin.ch/eli/oc/2024/640)).
 
 ### Chapitre A Visite des cultures et exigences auxquelles doivent satisfaire les cultures de semences de céréales
 
@@ -2530,7 +2532,7 @@ Hybrides d’avoine, d’orge, de blé tendre, d’épeautre et de variétés de
     - – en ce qui concerne les cultures destinées à la production de semences de base: 0,1 % pour la lignée de conservation (maintainer) et la lignée de restauration (restorer) et 0,2 % pour les composants CMS femelles;
     - – en ce qui concerne les cultures destinées à la production de semences certifiées: 0,3 % pour la oignée de restauration (restorer) et les composants CMS femelles et 0,5 %, lorsque les composants CMS femelles sont constituée d’un seul hybride.
 
-  - 1\.
+  -
 
     Le taux de stérilité mâle des composants femelles doit au moins représenter:
 
@@ -2549,8 +2551,8 @@ Les distances d’isolement entre la culture et les sources voisines de pollen p
 <tr><th>– pour la production de semences de base</th><th>100</th></tr>
 <tr><th>– pour la production de semences certifiées</th><th>50</th></tr>
 <tr><th>*Sorghum* spp.</th><th></th></tr>
-<tr><th>– pour la production de semences de base</th><th>400 ; dans les régions où la présence de *S. halepense* ou de *S. sudanense* peuvent provoquer une pollinisation étrangère indésirable, la distance minimale de 800 m s’applique aux cultures destinées à la production de semence de base de *Sorghum* spp.</th></tr>
-<tr><th>– pour la production de semences certifiées</th><th>200 ; dans les régions où la présence de *S. halepense* ou de *S. sudanense* peuvent provoquer une pollinisation étrangère indésirable, la distance minimale de 400 m s’applique aux cultures destinées à la production de semence certifiées de *Sorghum* spp.</th></tr>
+<tr><th>– pour la production de semences de base</th><th>400; dans les régions où la présence de *S. halepense* ou de *S. sudanense* peuvent provoquer une pollinisation étrangère indésirable, la distance minimale de 800 m s’applique aux cultures destinées à la production de semence de base de *Sorghum* spp.</th></tr>
+<tr><th>– pour la production de semences certifiées</th><th>200; dans les régions où la présence de *S. halepense* ou de *S. sudanense* peuvent provoquer une pollinisation étrangère indésirable, la distance minimale de 400 m s’applique aux cultures destinées à la production de semence certifiées de *Sorghum* spp.</th></tr>
 <tr><td>maïs</td><td>200</td></tr>
 <tr><td>semences de base de seigle hybride</td><td></td></tr>
 <tr><td>– avec stérilité mâle</td><td>1000</td></tr>
@@ -2624,7 +2626,7 @@ Dans la parcelle de multiplication, la même espèce ne doit pas être cultivée
 
 ### 1 Conditions applicables au champ de production
 
-- 1\.1 ...
+- 1\.1 …
 - 1\.2 Les distances d’isolation suivantes doivent être respectées par rapport à un voisinage indésirable:
 
 <table>
@@ -2733,9 +2735,13 @@ L’OFAG fixe le nombre maximum d’années de récoltes autorisées pour chaque
 
 ### 3 Nombre et dates des visites
 
-Au moins une visite des cultures doit être effectuée.
+- 3\.1 Au moins une visite des parcelles de multiplication doit être effectuée par récolte; si une culture peut être récoltée pendant plusieurs années ou plusieurs fois par année, au moins une visite doit être effectuée pour chaque repousse.
+- 3\.2
 
-Les cultures doivent se trouver dans un état de développement propre à permettre un examen correct.
+  La visite des cultures doit avoir lieu au moment suivant:
+
+  - – pour les graminées, pendant l’apparition des inflorescences;
+  - – pour les légumineuses et les crucifères, pendant la floraison.
 
 ### 4 Appréciation et tolérances
 
@@ -2748,28 +2754,33 @@ Les critères suivants sont examinés:
 
 ### 4.1 État général
 
-Les cultures sont notées selon l’échelle suivante:
+- 4\.1.1
 
-1 = très bien
+  Les mesures d’entretien suivantes doivent avoir été réalisées:
 
-3 = bien
+  - a. Fauche des bordures des champs;
+  - b. Fauche des bandes de séparation par rapport aux cultures voisines.
 
-5 = suffisant
+- 4\.1.2
 
-7 = mauvais
+  Les parcelles de multiplication sont notées selon l’échelle suivante:
 
-9 = très mauvais
+  - [tab] 1 = très bien
+  - [tab] 3 = bien
+  - [tab] 5 = suffisant
+  - [tab] 7 = mauvais
+  - [tab] 9 = très mauvais
 
-Si une note est moins bonne que 5, la parcelle n’est pas admise.
+- 4\.1.3 Si une note est moins bonne que 5, la parcelle n’est pas admise.
+- 4\.1.4
 
-Les cultures destinées à la production de semences doivent être saines et normalement développées. La présence d’un ou plusieurs des défauts énumérés ci-après peut affecter l’appréciation d’autres caractéristiques (p. ex. pureté variétale).
+  La culture de la parcelle est notée en fonction des critères suivants:
 
-L’attribution de la note tient compte de la possibilité d’apprécier correctement la culture et des soins apportés à la culture. La culture est notée en fonction des critères suivants:
-
-- a. l’irrégularité,
-- b. la présence d’adventices,
-- c. la présence de maladies ou de ravageurs,
-- d. la verse.
+  - a. l’irrégularité;
+  - b. les repousses;
+  - c. la présence d’adventices;
+  - d. les dégâts causés par les organismes nuisibles ou les animaux sauvages;
+  - e. les dégâts causés par les intempéries.
 
 ### 4.2 Authenticité et pureté variétale
 
@@ -2786,7 +2797,7 @@ Nombre maximal de plantes non conformes
 <tr><td>Poa pratensis</td><td></td><td colspan="2"></td></tr>
 <tr><td>– variétés apomictiques monoclonales</td><td>5</td><td colspan="2">60</td></tr>
 <tr><td>– autres variétés</td><td>5</td><td colspan="2">40</td></tr>
-<tr><td>Graminées (excepté *Lolium*, *x Festul**o**lium* et *Poa* spp.)</td><td>3</td><td colspan="2">10</td></tr>
+<tr><td>Graminées (excepté *Lolium*, *x Festulolium* et *Poa* spp.)</td><td>3</td><td colspan="2">10</td></tr>
 <tr><td>Légumineuses (excepté *Pisum* et *Vicia* spp.)</td><td>3</td><td colspan="2">10</td></tr>
 </table>
 
@@ -2796,18 +2807,9 @@ Pureté variétale
 <tr><th colspan="2">Espèce</th><th colspan="4">Pureté variétale minimale (en %)</th><th></th><th></th></tr>
 <tr><th colspan="2"></th><th colspan="2">Semences de pré‑base et de base</th><th>Semences certifiées de la première reproduction</th><th colspan="3">Semences certifiées de la deuxième reproduction</th></tr>
 <tr><td colspan="2">*Pisum, Vicia* spp.<sup>1</sup></td><td colspan="2">99,7</td><td>99</td><td colspan="3">98</td></tr>
-<tr><td colspan="2">*Brassica* spp.<sup>1</sup>, *Poa prate**n**sis*<sup>2</sup></td><td colspan="2">99,7</td><td>98</td><td colspan="3"></td></tr>
+<tr><td colspan="2">*Brassica* spp.<sup>1</sup>, *Poa pratensis*<sup>2</sup></td><td colspan="2">99,7</td><td>98</td><td colspan="3"></td></tr>
 <tr><td colspan="8"><sup>1</sup> ne concerne que les espèces de Pisum, Vicia et Brassica spp. mentionnées à l’annexe 1, ch. 3.2 et 3.3</td></tr>
 <tr><td colspan="8"><sup>2</sup> variétés classées en tant que variétés apomictiques monoclonales.</td></tr>
-</table>
-
-Plantes de repousse
-
-<table>
-<tr><th>Espèce</th><th colspan="2">Nombre maximal de plantes génératives portant des épis par m<sup>2</sup></th><th></th></tr>
-<tr><th></th><th>Semences de pré-base et de base</th><th colspan="2">Semences certifiées de la première reproduction</th></tr>
-<tr><td>Légumineuses</td><td>0</td><td colspan="2">10</td></tr>
-<tr><td>Graminées</td><td>0</td><td colspan="2">10</td></tr>
 </table>
 
 ### 4.3 Distances d’isolement
@@ -2826,22 +2828,32 @@ Lorsqu’il existe une protection suffisante contre toute pollinisation étrang�
 
 **4.3.2** Les cultures de production de semences des espèces autogames (*Pisum sativum, Vicia faba*) ou des variétés de *Poa pratensis* enregistrées comme apomictiques monoclonales doivent être nettement séparées de toute autre culture.
 
-### 4.4 Autres espèces indésirables
+### 4.4 Autres espèces
 
 <table>
-<tr><th>Espèce</th><th>Autres espèces indésirables</th><th colspan="2">Nombre maximum toléré de plantes</th></tr>
+<tr><th></th><th></th><th colspan="2">Nombre maximum toléré de plantes</th></tr>
 <tr><th></th><th></th><th colspan="2">Parcelles de production de:</th></tr>
-<tr><th></th><th></th><th>Semences de pré-base et de base</th><th>Semences certifiées de la première reproduction</th></tr>
-<tr><td>*Trifolium* spp.</td><td>*Trifolium, Medicago, Meliotus* et *Lotus* spp. (\*)</td><td>4 par are</td><td>20 par are</td></tr>
+<tr><th>Espèce</th><th>Autres espèces</th><th>Semences de pré-base et de base</th><th>Semences certifiées de la première reproduction</th></tr>
+<tr><td>Toutes les espèces de graminées (excepté *Alopecurus pratensis*)</td><td>Graminées, excepté *Lolium* spp. (\*)</td><td>4 par are</td><td>15 par are</td></tr>
+<tr><td></td><td>*Lolium* spp.</td><td>1 par are</td><td>10 par are</td></tr>
+<tr><td></td><td>*Alopecurus myosuroides*</td><td>2 par are</td><td>10 par are</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Meliotus* et *Lotus* spp.</td><td>10 par are</td><td>20 par are</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 par ha</td><td>3 par ha</td></tr>
+<tr><td>*Alopecurus* *pratensis*</td><td>Graminées (\*)</td><td>4 par are</td><td>15 par are</td></tr>
+<tr><td></td><td>*Alopecurus myosuroides*</td><td>1 par are</td><td>5 par are</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Meliotus* et *Lotus* spp.</td><td>10 par are</td><td>20 par are</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 par ha</td><td>3 par ha</td></tr>
+<tr><td>Toutes les espèces de légumineuses (excepté *Onobrychis viciifolia*)</td><td>Graminées, excepté *Poa* spp.</td><td>30 par are</td><td>80 par are</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Melilotus* et *Lotus* spp. (\*)</td><td>4 par are</td><td>10 par are</td></tr>
 <tr><td></td><td>*Cuscuta* spp. (cuscute du trèfle)</td><td>0</td><td>0</td></tr>
-<tr><td></td><td>*Rumex obtusifolius, Rumex crispus* (rumex à larges feuilles)</td><td>10 par ha</td><td>20 par ha</td></tr>
-<tr><td>*Lolium* spp. ou *x Festulolium* spp.</td><td>autres *Lolium* spp.</td><td>2 par are</td><td>10 par are</td></tr>
-<tr><td>Graminées</td><td>autres graminées (\*\*)</td><td>4 par are</td><td>20 par are</td></tr>
-<tr><td></td><td>*Rumex obtusifolius, Rumex crispus* (rumex à larges feuilles)</td><td>10 par ha</td><td>20 par ha</td></tr>
-<tr><td></td><td>*Alopecurus myosuroides* et *Bromus* spp.</td><td>4 par are</td><td>10 par are</td></tr>
-<tr><td>*Pisum* et *Vicia* spp.</td><td>autres *Pisum,Vicia* spp. et *Raphanus* spp.</td><td>4 par are</td><td>20 par are</td></tr>
-<tr><td colspan="4">(\*) excepté: Trifolium repens dans Trifolium pratense</td></tr>
-<tr><td colspan="4">(\*\*) excepté: Agrostide jouet du vent (Apera spica venti) pour toutes les espèces; espèces de pâturin (*Poa* spp.) pour toutes les espèces excepté les autres espèces de pâturins; *Phleum* spp. pour toutes les espèces, excepté les autres espèces de *Phleum* spp.</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 par ha</td><td>3 par ha</td></tr>
+<tr><td></td><td>*Polygonum* spp., *Plantago* spp., *Silene* spp., *Lychnis* spp., *Geranium* spp., *Sinapis* *arvensis**, Chenopodium album, Echinochioa crus-galli, Setaria glauca, Cirsium* spp.</td><td>5 par are</td><td>10 par are</td></tr>
+<tr><td>*Onobrychis* *viciifolia*</td><td>Graminées, excepté *Poa* spp.</td><td>30 par are</td><td>80 par are</td></tr>
+<tr><td></td><td>*Trifolium, Medicago,* *Melilotus* et *Lotus* spp.</td><td>15 par are</td><td>40 par are</td></tr>
+<tr><td></td><td>*Cuscuta* spp. (cuscute du trèfle)</td><td>0</td><td>0</td></tr>
+<tr><td></td><td>*Rumex* spp.</td><td>2 par ha</td><td>3 par ha</td></tr>
+<tr><td></td><td>*Polygonum* spp., *Plantago* spp., *Silene* spp., *Lychnis* spp., *Geranium* spp., *Sinapis* *arvensis**, Chenopodium album,* *Echinochioa* *crus-galli, Setaria glauca, Cirsium* spp.</td><td>15 par are</td><td>40 par are</td></tr>
+<tr><td colspan="4">(\*) excepté: agrostide jouet du vent (*Apera spica venti*) pour toutes les espèces; espèces de pâturin (*Poa* spp.) pour toutes les espèces excepté les autres espèces de pâturins; *Phleum* spp. pour toutes les espèces, excepté les autres espèces de *Phleum* spp.</td></tr>
 </table>
 
 ### Chapitre D Visite des cultures et exigences auxquelles doivent satisfaire les cultures de semences de plantes oléagineuses et à fibres
@@ -2854,7 +2866,7 @@ Dans le cas des hybrides de colza, la culture doit être implantée dans un cham
 
 ### 2 Visites (nombre et dates)
 
-Les cultures autres que celles d’hybrides d’*Heliantus annuus* et de *Brass**i**ca napus* doivent faire l’objet d’une visite au moins.
+Les cultures autres que celles d’hybrides d’*Heliantus annuus* et de *Brassica napus* doivent faire l’objet d’une visite au moins.
 
 Les hybrides d’*Helianthus annuus* doivent faire l’objet de deux visites au moins.
 
@@ -2868,8 +2880,7 @@ Les critères suivants sont examinés:
 
 - a. l’état général;
 - b. l’authenticité et la pureté variétales;
-- c. la distance d’isolement;
-- d. les maladies transmissibles par les semences.
+- c. la distance d’isolement.
 
 ### 3.1 État général
 
@@ -2906,7 +2917,7 @@ Les cultures qui ne correspondent pas à la variété annoncée sont refusées.
 
 Sont réputées impures toutes les plantes de la même espèce qui ne correspondent pas au type variétal.
 
-Les cultures de *Brassica juncea, Brassica nigra, Carthamus tinct**o**rius, Carum carvi* et d’hybrides d’*Helianthus annuus* et de *Brassica napus* doivent remplir les conditions suivantes:
+Les cultures de *Brassica juncea, Brassica nigra, Carthamus tinctorius, Carum carvi* et d’hybrides d’*Helianthus annuus* et de *Brassica napus* doivent remplir les conditions suivantes:
 
 Brassica juncea, Brassica nigra, Carthamus tinctorius et Carum carvi, à l’exception des hybrides
 
@@ -3006,7 +3017,7 @@ Ces distances peuvent ne pas être observées lorsqu’il existe une protection 
 <tr><td>1. par rapport à des sources de pollen étranger susceptible de provoquer une détérioration sérieuse dans les variétés des espèces de *Brassica*:</td><td></td></tr>
 <tr><td>– pour les semences de base</td><td>1000 m</td></tr>
 <tr><td>– pour les semences certifiées</td><td>600 m</td></tr>
-<tr><td>2. par rapport à d’autres sources de pollen étranger susceptible de se croiser avec des variétés des espèces de *Brass**i**ca*:</td><td></td></tr>
+<tr><td>2. par rapport à d’autres sources de pollen étranger susceptible de se croiser avec des variétés des espèces de *Brassica*:</td><td></td></tr>
 <tr><td>– pour les semences de base</td><td>500 m</td></tr>
 <tr><td>– pour les semences certifiées</td><td>300 m</td></tr>
 </table>
@@ -3033,7 +3044,7 @@ Ces distances peuvent ne pas être observées lorsqu’il existe une protection 
 
 - Ces distances peuvent ne pas être observées lorsqu’il existe une protection suffisante contre toute pollinisation étrangère indésirable.
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 (art. 3 à 10, 20, 24, 29, 35, 38, 39, 39*a* et 42)
 
@@ -3090,15 +3101,15 @@ Les poids des lots et des échantillons figurent dans le tableau ci-dessous. Une
 <tr><td colspan="2">semences de base</td><td>80</td><td>98</td><td>15</td><td colspan="2">4</td><td></td><td>1<sup>7</sup></td><td>3</td><td>0</td><td>1</td><td>1</td><td colspan="2"></td></tr>
 <tr><td colspan="2">semences certifiées, 1<sup>re</sup> et 2<sup>e</sup> reprod.</td><td>80</td><td>98</td><td>15</td><td colspan="2">10</td><td></td><td>7</td><td>7</td><td>0</td><td>3</td><td>3</td><td colspan="2"></td></tr>
 <tr><td colspan="2">maïs</td><td>90<sup>5</sup></td><td>98</td><td>14</td><td colspan="2">0</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td colspan="15"><sup>1</sup> Dans le cas des échantillons non triés, la pureté n’est pas analysée.</td></tr>
-<tr><td>[tab]</td><td colspan="15">2 ...</td></tr>
-<tr><td>[tab]</td><td colspan="15"><sup>3</sup> Dans le cas des échantillons non triés, la tolérance est de 30 semences de *R. raphanistrum*, *A. githago*, *G. ap**a**rine* ou *Vicia spp.* au total. Pour l’alpiste, le nombre maximal de graines d’autres espèces se réfère à un poids des échantillons de 200 g.</td></tr>
-<tr><td>[tab]</td><td colspan="15"><sup>4</sup> La tolérance est de 4 sclérotes ou fragments dans le seigle hybride. La présence de 5 sclérotes ou fragments de sclérotes dans un échantillon du poids prescrit est considérée comme étant conforme aux normes lorsqu’un deuxième échantillon du même poids ne contient pas plus de 4 sclérotes ou fragments de sclérotes.</td></tr>
-<tr><td>[tab]</td><td colspan="15"><sup>5</sup> Dans le cas des échantillons non triés, la faculté germinative minimale est de 95 %.</td></tr>
-<tr><td>[tab]</td><td colspan="15"><sup>6</sup> Un grain d’*Avena fatua*, d’*A*. *sterilis*, d’*A*. *ludoviciana* ou de *Lolium* *temulentum* dans un échantillon du poids fixé n’est pas considéré comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.</td></tr>
-<tr><td>[tab]</td><td colspan="15"><sup>7</sup> Une deuxième graine n’est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines d’autres espèces de céréales.</td></tr>
-<tr><td>[tab]</td><td colspan="15"><sup>8</sup> Pour les variétés de l’espèce *Avena sativa*, reconnues officiellement comme étant du type **«**avoine aux grains nus», et pour les variétés de l’espèce *Hordeum vulgare*, reconnues officiellement comme étant du type **«**orge aux grains nus», la faculté germinative minimale est de 75 % des graines pures. C’est pourquoi l’étiquette officielle porte l’indication «faculté germinative minimale de 75 %».</td></tr>
-<tr><td>[tab]</td><td colspan="15"><sup>9</sup> Le taux d’humidité est examiné seulement si l’on soupçonne, lors du prélèvement d’échantillons ou de l’analyse des caractéristiques, que la limite autorisée a été dépassée.</td></tr>
+<tr><td></td><td colspan="15"><sup>1</sup> Dans le cas des échantillons non triés, la pureté n’est pas analysée.</td></tr>
+<tr><td></td><td colspan="15"><sup>2</sup> …</td></tr>
+<tr><td></td><td colspan="15"><sup>3</sup> Dans le cas des échantillons non triés, la tolérance est de 30 semences de *R. raphanistrum*, *A. githago*, *G. aparine* ou *Vicia spp.* au total. Pour l’alpiste, le nombre maximal de graines d’autres espèces se réfère à un poids des échantillons de 200 g.</td></tr>
+<tr><td></td><td colspan="15"><sup>4</sup> La tolérance est de 4 sclérotes ou fragments dans le seigle hybride. La présence de 5 sclérotes ou fragments de sclérotes dans un échantillon du poids prescrit est considérée comme étant conforme aux normes lorsqu’un deuxième échantillon du même poids ne contient pas plus de 4 sclérotes ou fragments de sclérotes.</td></tr>
+<tr><td></td><td colspan="15"><sup>5</sup> Dans le cas des échantillons non triés, la faculté germinative minimale est de 95 %.</td></tr>
+<tr><td></td><td colspan="15"><sup>6</sup> Un grain d’*Avena fatua*, d’*A*. *sterilis*, d’*A*. *ludoviciana* ou de *Lolium* *temulentum* dans un échantillon du poids fixé n’est pas considéré comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.</td></tr>
+<tr><td></td><td colspan="15"><sup>7</sup> Une deuxième graine n’est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines d’autres espèces de céréales.</td></tr>
+<tr><td></td><td colspan="15"><sup>8</sup> Pour les variétés de l’espèce *Avena sativa*, reconnues officiellement comme étant du type **«**avoine aux grains nus», et pour les variétés de l’espèce *Hordeum vulgare*, reconnues officiellement comme étant du type **«**orge aux grains nus», la faculté germinative minimale est de 75 % des graines pures. C’est pourquoi l’étiquette officielle porte l’indication «faculté germinative minimale de 75 %».</td></tr>
+<tr><td></td><td colspan="15"><sup>9</sup> Le taux d’humidité est examiné seulement si l’on soupçonne, lors du prélèvement d’échantillons ou de l’analyse des caractéristiques, que la limite autorisée a été dépassée.</td></tr>
 </table>
 
 ### Chapitre B Exigences auxquelles doivent satisfaire les lots de plants de pommes de terre
@@ -3110,7 +3121,7 @@ Les poids des lots et des échantillons figurent dans le tableau ci-dessous. Une
   Le calibre minimum des plants doit être tel qu’ils ne puissent passer au travers d’une maille carrée de:
 
   - a. 25 mm de côté;
-  - b. ...
+  - b. …
 
 - 1\.2 Pour les tubercules excédant le calibre d’une maille carrée de 35 mm de côté, les limites supérieure et inférieure du calibre sont exprimées en multiples de cinq.
 - 1\.3 L’écart maximum de calibre des tubercules d’un lot doit être tel que la différence de dimensions entre les côtés des deux mailles carrées n’excède pas 25 mm.
@@ -3190,7 +3201,7 @@ Une tolérance de 5 % est admise pour le poids maximum des lots.
 <tr><td>Lolium perenne</td><td>10<sup>1</sup></td><td>200</td><td>60</td></tr>
 <tr><td>*Lolium x hybridum*</td><td>10<sup>1</sup></td><td>200</td><td>60</td></tr>
 <tr><td>Phalaris aquatica</td><td>10<sup>1</sup></td><td>100</td><td>50</td></tr>
-<tr><td>*Phleum* *nodosum*</td><td>10<sup>1</sup></td><td>50</td><td>10</td></tr>
+<tr><td>*Phleum nodosum*</td><td>10<sup>1</sup></td><td>50</td><td>10</td></tr>
 <tr><td>Phleum pratense</td><td>10<sup>1</sup></td><td>50</td><td>10</td></tr>
 <tr><td>Poa annua</td><td>10<sup>1</sup></td><td>50</td><td>10</td></tr>
 <tr><td>Poa nemoralis</td><td>10<sup>1</sup></td><td>50</td><td>5</td></tr>
@@ -3242,7 +3253,7 @@ Les échantillons prélevés dans les lots de multiplication importés doivent �
 
 Les semences doivent répondre aux normes et aux conditions usuelles suivantes:
 
-- **3.1** **Les semences possèdent suffisamment d’identité et de pureté variétales. La pureté minimale variétale est contrôlée principalement lors de la visite des cultures effe****c****tuée selon les exigences visées à l’annexe 3.**
+- **3.1** **Les semences possèdent suffisamment d’identité et de pureté variétales. La pureté minimale variétale est contrôlée principalement lors de la visite des cultures effectuée selon les exigences visées à l’annexe 3.**
 - **3.2** **Semences certifiées de la première reproduction**
 
 <table>
@@ -3306,21 +3317,21 @@ Les semences doivent répondre aux normes et aux conditions usuelles suivantes:
 <tr><td>Brassica oleracea convar. acephala</td><td>75</td><td></td><td colspan="2">98</td><td>11</td><td colspan="2">1.0</td><td colspan="2">0.5</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>0.3</td><td colspan="8">0.3</td><td>0</td><td>0</td><td colspan="3">10</td><td>12</td></tr>
 <tr><td>Phacelia tanacetifolia</td><td>80</td><td></td><td colspan="2">96</td><td>11</td><td colspan="2">1.0</td><td colspan="2">0.5</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="8"></td><td>0</td><td>0</td><td colspan="3"></td><td>12</td></tr>
 <tr><td>*Plantago lanceolata*</td><td>75</td><td></td><td colspan="2">85</td><td>11</td><td colspan="2">1,5</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="8"></td><td>0</td><td>0</td><td colspan="3">10</td><td>12</td></tr>
-<tr><td>Raphanus sativus var. oleiformis</td><td>80</td><td></td><td colspan="2">97</td><td>11</td><td colspan="2">1.0</td><td colspan="2">0.5</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>0.3</td><td colspan="8">0.3</td><td>0</td><td>0</td><td colspan="3">5</td><td></td></tr>
+<tr><td>*Raphanus sativus var. oleiformis*</td><td>80</td><td></td><td colspan="2">97</td><td>11</td><td colspan="2">1.0</td><td colspan="2">0.5</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>0.3</td><td colspan="8">0.3</td><td>0</td><td>0</td><td colspan="3">5</td><td></td></tr>
 </table>
 
 Légende des normes relatives aux semences certifiées de la première reproduction
 
 - 1 Toutes les graines fraîches et saines non germées après prétraitement sont considérées comme des plantules normales.
 - 2 À concurrence de la teneur maximale indiquée, les graines dures sont considérées comme des plantules normales.
-- 3 ...
+- 3 …
 - 4 *Avena ludoviciana* et *Avena sterilis* sont également prises en compte.
 - 5 Tous les *Rumex* spp. autres que *Rumex acetosella* et *Rumex maritimus* sont pris en compte.
 - 6 Une teneur maximale totale de 0,8 % en poids de semences d’autres espèces de *Poa* n’est pas considérée comme une impureté.
 - 7 Une teneur maximale de 1 % en poids de semences de *Trifolium pratense* n’est pas considérée comme une impureté.
 - 8 Une teneur maximale totale de 0,5 % en poids de semences de *Lupinus albus*, *Lupinus angustifolius*, *Lupinus luteus*, *Pisum sativum*, *Vicia faba*, *Vicia pannonica*, *Vicia sa**tiva* et *Vicia villosa* dans une autre espèce correspondante, n’est pas considérée comme une impureté.
 - 9 Le pourcentage maximal fixé en poids de semences d’une seule espèce ne s’applique pas aux semences de *Poa* spp.
-- 10 Une teneur maximale totale de deux graines d’*Avena fatua*, *Avena ludovi**ciana* et *Av**e**na sterilis* dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
+- 10 Une teneur maximale totale de deux graines d’*Avena fatua*, *Avena ludovi**ciana* et *Avena sterilis* dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
 - 11 La présence d’une graine d’*Avena fatua*, *Avena ludoviciana* et *Avena steri**lis* dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon d’un poids égal à deux fois celui fixé est exempt de graines de ces espèces.
 - 12 La présence d’une graine de *Cuscuta* spp. dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon de même poids est exempt de graines de *Cuscuta* spp.
 - 13 Le poids de l’échantillon pour le dénombrement de graines de *Cuscuta* spp. est égal au double du poids fixé normalement.
@@ -3334,7 +3345,6 @@ Légende des normes relatives aux semences certifiées de la première reproduct
 
 - 16 Le pourcentage en nombre de semences de lupin amer dans d’autres variétés autres que celles de lupin amer ne dépasse pas 2,5 %.
 - 17 Le taux d’humidité est examiné seulement si l’on soupçonne, lors du prélèvement d’échantillons ou de l’analyse des caractéristiques, que la limite autorisée a été dépassée.
-- [tab]
 - **3.3** **Semences de prébase et de base**
 
 <table>
@@ -3394,29 +3404,28 @@ Légende des normes relatives aux semences certifiées de la première reproduct
 <tr><td>Vicia sativa</td><td>85</td><td>20</td><td>98</td><td>15</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td>0</td><td>0</td><td colspan="7">0</td><td></td></tr>
 <tr><td>Vicia villosa</td><td>85</td><td>20</td><td>98</td><td>15</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td>0</td><td>0</td><td colspan="7">0</td><td></td></tr>
 <tr><td>Autres espèces</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td></td></tr>
-<tr><td>*Brassica napus var. nap**o**brassica*</td><td>80</td><td></td><td>98</td><td>11</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td></td><td>0</td><td colspan="7">0</td><td></td></tr>
+<tr><td>*Brassica napus var. napobrassica*</td><td>80</td><td></td><td>98</td><td>11</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td></td><td>0</td><td colspan="7">0</td><td></td></tr>
 <tr><td>*Brassica oleracea con**var. acephala*</td><td>75</td><td></td><td>98</td><td>11</td><td>0.3</td><td>20</td><td>3</td><td></td><td></td><td></td><td>0</td><td colspan="7">0</td><td></td></tr>
 <tr><td>*Phacelia tanacetifolia*</td><td>80</td><td></td><td>96</td><td>11</td><td>0.3</td><td>20</td><td></td><td></td><td></td><td></td><td>0</td><td colspan="7">0</td><td></td></tr>
-<tr><td>*Raphanus sativus var. ole**i**formis*</td><td>80</td><td></td><td>97</td><td>11</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td></td><td>0</td><td colspan="7">0</td><td></td></tr>
+<tr><td>*Raphanus sativus var. oleiformis*</td><td>80</td><td></td><td>97</td><td>11</td><td>0.3</td><td>20</td><td>2</td><td></td><td></td><td></td><td>0</td><td colspan="7">0</td><td></td></tr>
 </table>
 
 Légende des normes relatives aux semences de prébase et de base
 
 - 1 Toutes les graines fraîches et saines non germées après prétraitement sont considérées comme des plantules normales
 - 2 À concurrence de la teneur maximale indiquée, les graines dures sont considérées comme des plantules normales.
-- 3 ...
+- 3 …
 - 4 *Avena ludoviciana* et *Avena sterilis* sont également prises en compte.
 - 5 Tous les *Rumex* spp. autres que *Rumex acetosalla* et *Rumex maritimus* sont pris en compte.
 - 6 Une teneur maximale totale de 80 graines de *Poa* spp. n’est pas considérée comme une impureté.
 - 7 La teneur maximale totale en semences de *Poa* spp. d’une espèce autre que celle à examiner ne doit pas dépasser 1 dans un échantillon de 500 graines.
 - 8 Une teneur maximale totale de 20 graines de *Poa* spp. n’est pas considérée comme une impureté.
 - 9 La présence d’une graine de *Melilotus* spp. dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon correspondant à deux fois le poids fixé est exempt de graines de *Melilotus* spp.
-- 10 Une teneur maximale totale de deux graines d’*Avena fatua*, *Avena ludovi**ciana* et *Av**e**na sterilis* dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
+- 10 Une teneur maximale totale de deux graines d’*Avena fatua*, *Avena ludovi**ciana* et *Avena sterilis* dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
 - 11 La présence d’une graine d’*Avena fatua*, *Avena ludoviciana* et *Avena sterilis* dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon d’un poids égal à deux fois celui fixé est exempt de graines de ces espèces.
 - 12 Le poids de l’échantillon pour le dénombrement de graines de *Cuscuta* spp. est égal au double du poids prescrit.
 - 13 Le pourcentage en nombre de semences de lupin amer ne dépasse pas 1 %.
 - 14 Le taux d’humidité est examiné seulement si l’on soupçonne, lors du prélèvement d’échantillons ou de l’analyse des caractéristiques, que la limite autorisée a été dépassée.
-
 - **3.4** **Semences commerciales**
 
 <table>
@@ -3438,11 +3447,11 @@ Légende des normes relatives aux semences commerciales
 
 - 1 Toutes les graines fraîches et saines non germées après prétraitement sont considérées comme des plantules normales.
 - 2 À concurrence de la teneur maximale indiquée, les graines dures sont considérées comme des plantules normales.
-- 3 ...
+- 3 …
 - 4 *Avena ludoviciana* et *Avena sterilis* sont également prises en compte.
 - 5 Tous les *Rumex* spp. autres que *Rumex acetosella* et *Rumex maritimus* sont pris en compte.
 - 6 Une teneur maximale totale de 3 % en poids de semences d’autres espèces de *Poa* n’est pas considérée comme une impureté. Pour *Poa annua*, une teneur maximale totale de 10 % en poids de semences d’autres espèces de *Poa* n’est pas considérée comme une impureté.
-- 7 Une teneur maximale totale de deux graines d’*Avena fatua*, *Avena ludovi**ciana* et *Av**e**na sterilis* dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
+- 7 Une teneur maximale totale de deux graines d’*Avena fatua*, *Avena ludovi**ciana* et *Avena sterilis* dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
 - 8 La présence d’une graine de *Cuscuta* spp. dans un échantillon du poids fixé n’est pas considérée comme une impureté si un second échantillon de même poids est exempt de graines de *Cuscuta* spp.
 - 9 Le poids de l’échantillon pour le dénombrement de graines de *Cuscuta* spp. est égal au double du poids prescrit pour l’espèce correspondante.
 - 10 La présence d’une graine de *Cuscuta* spp. dans l’échantillon du poids prescrit n’est pas considérée comme une impureté si un second échantillon d’un poids égal à deux fois le poids prescrit est exempt de graines de *Cuscuta* spp.
@@ -3511,7 +3520,7 @@ Semences de base et semences certifiées
 
 <table>
 <tr><th>Espèce et catégorie</th><th>Faculté germinative minimale (% des graines pures)</th><th>Teneur en eau (en %)</th><th colspan="2">Pureté spécifique (en % du poids)</th><th></th><th colspan="8">Nombre maximal de graines d’autres espèces dans un échantillon selon ch. 1, colonne 4 (total par colonne)</th></tr>
-<tr><th></th><th></th><th></th><th>Pureté minimale spécifique</th><th colspan="2">Teneur maximale totale en graines d’autres espèces de plantes</th><th>Total (a)</th><th>*Avena fatua, Avena ludovi- ciana, Avena sterilis*</th><th>*Cuscuta* spp.</th><th>*Raphanus raphanistrum*</th><th>*Rume*x spp. autre que *Rumex ace**tosella*</th><th>*Alopecurus myosuroides*</th><th>*Lolium remotum*</th><th>Conditions quant au nombre de graines d’*Orobanche*</th></tr>
+<tr><th></th><th></th><th></th><th>Pureté minimale spécifique</th><th colspan="2">Teneur maximale totale en graines d’autres espèces de plantes</th><th>Total (a)</th><th>*Avena fatua, Avena ludovi-* *ciana, Avena sterilis*</th><th>*Cuscuta* spp.</th><th>*Raphanus raphanistrum*</th><th>*Rume*x spp. autre que *Rumex ace**tosella*</th><th>*Alopecurus myosuroides*</th><th>*Lolium remotum*</th><th>Conditions quant au nombre de graines d’*Orobanche*</th></tr>
 <tr><th></th><th>1</th><th>2</th><th>3</th><th colspan="2">4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr>
 <tr><td>*Brassica* spp:</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– semences de base</td><td>85</td><td>11</td><td>98</td><td colspan="2">0,3</td><td>–</td><td>0</td><td>0 (c) (d)</td><td>10</td><td>5</td><td></td><td></td><td></td></tr>
@@ -3581,15 +3590,17 @@ Le pourcentage des semences d’autres plantes ne dépasse pas 0,3 % du poids.
   - 1\. Au minimum 90 % des glomérules germés ne donnent qu’une seule plantule.
   - 2\. la proportion de glomérules donnant trois plantules ou plus ne dépasse pas 5 %, calculés sur les glomérules germés.
 
-- b. Semences de précision de betteraves sucrières: Au minimum 70 % des glomérules germés ne donnent qu’une seule plantule. La proportion de glomérules donnant trois plantules ou plus ne dépasse pas 5%, calculés sur les glomérules germés.
-- c. Semences de précision de betteraves fourragères: Pour les variétés dont la proportion de diploïdes dépasse 85 %, au moins 58 % des glomérules germés ne donnent qu’une seule plantule; pour toutes les autres semences, au moins 63 % des glomérules germés ne donnent qu’une seule plantule. La proportion de glomérules donnant trois plantules ou plus ne dépasse pas 5 %, calculés sur les glomérules germés.
+- b. Semences de précision de betteraves sucrières:
+- Au minimum 70 % des glomérules germés ne donnent qu’une seule plantule. La proportion de glomérules donnant trois plantules ou plus ne dépasse pas 5%, calculés sur les glomérules germés.
+- c. Semences de précision de betteraves fourragères:
+- Pour les variétés dont la proportion de diploïdes dépasse 85 %, au moins 58 % des glomérules germés ne donnent qu’une seule plantule; pour toutes les autres semences, au moins 63 % des glomérules germés ne donnent qu’une seule plantule. La proportion de glomérules donnant trois plantules ou plus ne dépasse pas 5 %, calculés sur les glomérules germés.
 - d. Pour les semences de la catégorie «Semences de base», le pourcentage des matières inertes ne dépasse pas 1,0 % du poids. Pour les semences de la catégorie «Semences certifiées», le pourcentage des matières inertes ne dépasse pas 0,5 % du poids. En ce qui concerne les semences enrobées de ces deux catégories, le respect de ces conditions est vérifié sur la base d’échantillons de semences transformées qui ont été partiellement décortiquées (polies ou broyées) mais qui n’ont pas encore été enrobées. L’examen officiel de la pureté analytique minimale des semences enrobées demeure réservé.
 
 ### Chapitre F Échantillonnage, poids des lots et exigences auxquelles doivent satisfaire les semences des légumes
 
 ### 1 Poids des lots et des échantillons
 
-### 1. Poids maximal d’un lot de semences
+- **1.** **Poids maximal d’un lot de semences**
 
 <table>
 <tr><td>a. Semences de Phaseolus occineus, Phaseolus vulgaris, Pisum sativum et Vicia faba</td><td>30 tonnes</td></tr>
@@ -3598,8 +3609,7 @@ Le pourcentage des semences d’autres plantes ne dépasse pas 0,3 % du poids.
 </table>
 
 - Le poids maximal d’un lot ne peut être dépassé de plus de 5 %.
-
-### 2. Poids minimal d’un échantillon
+- **2.** **Poids minimal d’un échantillon**
 
 <table>
 <tr><td>Espèce</td><td>Poids (en g)</td></tr>
@@ -3616,7 +3626,7 @@ Le pourcentage des semences d’autres plantes ne dépasse pas 0,3 % du poids.
 <tr><td>*Brassica rapa*</td><td>20</td></tr>
 <tr><td>*Capsicum annuum*</td><td>40</td></tr>
 <tr><td>*Cichorium intybus (partim)* chicorée witloof (endive), chicorée à larges feuilles (chicorée italienne)</td><td>15</td></tr>
-<tr><td>*Cichorium i**n**tybus (partim)* (chicorée industrielle)</td><td>50</td></tr>
+<tr><td>*Cichorium intybus (partim)* (chicorée industrielle)</td><td>50</td></tr>
 <tr><td>*Cichorium endivia*</td><td>15</td></tr>
 <tr><td>*Citrullus lanatus*</td><td>250</td></tr>
 <tr><td>*Cucumis melo*</td><td>100</td></tr>
@@ -3646,12 +3656,12 @@ Le pourcentage des semences d’autres plantes ne dépasse pas 0,3 % du poids.
 ### 2 Exigences auxquelles doivent satisfaire les semences
 
 - 1\. Les semences possèdent suffisamment d’identité et de pureté variétales.
-- 2\. ...
+- 2\. …
 - 3\.
 
   Les semences répondent, en outre, aux conditions suivantes:
 
-  - [tab] a) Normes
+  - a) Normes
 
 <table>
 <tr><th>Espèce</th><th>Pureté spécifique (en % du poids)</th><th>Teneur maximale en graines d’autres espèces de plantes (% du poids)</th><th>Faculté germinative minimale (% des semences pures ou des glomérules)</th></tr>
@@ -3698,9 +3708,9 @@ Le pourcentage des semences d’autres plantes ne dépasse pas 0,3 % du poids.
 <tr><td colspan="4">Dans le cas de certaines variétés de *Zea mays* (maïs doux‚ types super sweet), la faculté germinative minimale requise est réduite à 80 % des semences pures. L’étiquette porte la mention «Faculté germinative minimale 80 %».</td></tr>
 </table>
 
-- [tab] b) ...
+- b) …
 
-Annexe 5*[^t-6]*
+Annexe 5[^t-6]
 
 (art. 15, 27*b*, 28, 30, 38*a*, 44 et 45)
 
@@ -3710,43 +3720,42 @@ Annexe 5*[^t-6]*
 
 ### Chapitre A Étiquetage des semences de céréales
 
-- 1\. La taille minimale de l’étiquette est de 110 mm × 67 mm.
-- 2\.
+\1. La taille minimale de l’étiquette est de 110 mm × 67 mm.
 
-  L’étiquette doit comporter les indications suivantes:
+\2. L’étiquette doit comporter les indications suivantes:
 
-  - a.
+- a.
 
-    pour toutes les catégories hormis les mélanges de semences:
+  pour toutes les catégories hormis les mélanges de semences:
 
-    - 1\. le numéro d’ordre officiel,
-    - 2\. l’inscription «normes CE»,
-    - 3\. le service et le pays de certification («CH» ou «Suisse»),
-    - 4\. le numéro de référence du lot,
-    - 5\. le mois et l’année de la fermeture exprimés par la mention: «fermé le ... .(mois et année)»,
-    - 6\. l’espèce (dénomination latine),
-    - 7\. la dénomination de la variété,
-    - 8\. la catégorie,
-    - 9\. le pays de production,
-    - 10\. le poids net ou brut (y compris la remarque correspondante) ou le nombre de graines,
-    - 11\. la nature de l’additif et sa proportion en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
-    - 12\. le mot «hybride» complétant la dénomination de la variété s’agissant des semences d’hybrides, le mot «composant» complétant la dénomination de la lignée, de l’hybride simple ou du composant s’il s’agit de semences de base d’hybrides ou de semences pour la production des mélanges de lignées,
-    - 13\. pour les semences en report, les mots «réanalysée ... (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon,
-    - 14\. pour les semences de pré-base: le nombre de générations précédant les semences de la catégorie «semences certifiées» ou «semences certifiées de la première génération».
+  - 1\. le numéro d’ordre officiel,
+  - 2\. l’inscription «normes CE»,
+  - 3\. le service et le pays de certification («CH» ou «Suisse»),
+  - 4\. le numéro de référence du lot,
+  - 5\. le mois et l’année de la fermeture exprimés par la mention: «fermé le … (mois et année)»,
+  - 6\. l’espèce (dénomination latine),
+  - 7\. la dénomination de la variété,
+  - 8\. la catégorie,
+  - 9\. le pays de production,
+  - 10\. le poids net ou brut (y compris la remarque correspondante) ou le nombre de graines,
+  - 11\. la nature de l’additif et sa proportion en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
+  - 12\. le mot «hybride» complétant la dénomination de la variété s’agissant des semences d’hybrides, le mot «composant» complétant la dénomination de la lignée, de l’hybride simple ou du composant s’il s’agit de semences de base d’hybrides ou de semences pour la production des mélanges de lignées,
+  - 13\. pour les semences en report, les mots «réanalysée … (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon,
+  - 14\. pour les semences de pré-base: le nombre de générations précédant les semences de la catégorie «semences certifiées» ou «semences certifiées de la première génération».
 
-  - b.
+- b.
 
-    pour les mélanges de semences:
+  pour les mélanges de semences:
 
-    - 1\. le mélange (espèces et variétés),
-    - 2\. le service et pays de certification («CH» ou «Suisse»),
-    - 3\. le numéro de référence du lot,
-    - 4\. le mois et l’année de la fermeture exprimés par la mention: «fermé le ... (mois et année)»,
-    - 5\. l’espèce, la variété, la catégorie, le pays de production et la proportion de chacun des composants en pour-cent du poids,
-    - 6\. le numéro d’ordre officiel,
-    - 7\. le poids net ou brut (y compris l’indication) ou nombre de graines,
-    - 8\. la nature de l’additif et sa proportion en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
-    - 9\. pour les semences en report, les mots «réanalysée ... (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
+  - 1\. le mélange (espèces et variétés),
+  - 2\. le service et pays de certification («CH» ou «Suisse»),
+  - 3\. le numéro de référence du lot,
+  - 4\. le mois et l’année de la fermeture exprimés par la mention: «fermé le … (mois et année)»,
+  - 5\. l’espèce, la variété, la catégorie, le pays de production et la proportion de chacun des composants en pour-cent du poids,
+  - 6\. le numéro d’ordre officiel,
+  - 7\. le poids net ou brut (y compris l’indication) ou nombre de graines,
+  - 8\. la nature de l’additif et sa proportion en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
+  - 9\. pour les semences en report, les mots «réanalysée … (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
 
 ### Chapitre B Étiquetage des plants de pommes de terre
 
@@ -3758,7 +3767,7 @@ L’étiquette doit comporter les indications suivantes:
 - 2\. l’inscription «Règles et normes CE»;
 - 3\. le service et pays de certification;
 - 4\. le numéro d’identification du producteur ou le numéro d’identification du lot;
-- 5\. le mois et l’année de fermeture exprimé par la mention: «fermé en ... (mois et année)»;
+- 5\. le mois et l’année de fermeture exprimé par la mention: «fermé en … (mois et année)»;
 - 6\. la dénomination de la variété;
 - 7\. le pays de production;
 - 8\. la catégorie et la classe;
@@ -3798,8 +3807,7 @@ La taille minimale de l’étiquette est de 110 mm × 67 mm.
 - f. la variété,
 - g. l’indication «semences de pommes de terre (True Potato Seeds)»,
 - h. le poids net ou brut déclaré, ou le nombre déclaré de semences,
-
-i. en cas d’indication du poids et de l’emploi de pesticides granulés, de substances d’enrobage ou d’autres additifs solides, l’indication de la nature de l’additif ainsi que du rapport approximatif entre le poids de semences pures et le poids total.
+- i. en cas d’indication du poids et de l’emploi de pesticides granulés, de substances d’enrobage ou d’autres additifs solides, l’indication de la nature de l’additif ainsi que du rapport approximatif entre le poids de semences pures et le poids total.
 
 ### Chapitre C Étiquetage des semences de plantes fourragères
 
@@ -3815,9 +3823,9 @@ i. en cas d’indication du poids et de l’emploi de pesticides granulés, de s
   - 2\. l’inscription «Règles et normes CE»,
   - 3\. le service et le pays de certification,
   - 4\. le numéro de référence du lot,
-  - 5\. le mois et l’année de la fermeture exprimés par la mention: «fermé ...» (mois et année),
+  - 5\. le mois et l’année de la fermeture exprimés par la mention: «fermé …» (mois et année),
   - ou
-  - le mois et l’année du dernier prélèvement officiel d’échantillons en vue de la certification exprimés par la mention «échantillonné ...» (mois et année).
+  - le mois et l’année du dernier prélèvement officiel d’échantillons en vue de la certification exprimés par la mention «échantillonné …» (mois et année).
   - 6\. l’espèce (dénomination latine),
   - 7\. la dénomination de la variété,
   - 8\. la catégorie,
@@ -3825,7 +3833,7 @@ i. en cas d’indication du poids et de l’emploi de pesticides granulés, de s
   - 10\. le poids net ou brut (y compris la remarque correspondante) ou le nombre déclaré de graines pures,
   - 11\. la nature et la proportion de l’additif en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
   - 12\. pour les semences certifiées de la deuxième reproduction et des reproductions suivantes à partir de semences de base: le nombre de générations à partir des semences de base,
-  - 13\. pour les semences en report, les mots «réanalysée ... (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée Cette étiquette doit mentionner la date du prélèvement de l’échantillon,
+  - 13\. pour les semences en report, les mots «réanalysée … (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée Cette étiquette doit mentionner la date du prélèvement de l’échantillon,
   - 14\. pour les semences de pré-base: le nombre de générations précédant les semences de la catégorie «semences certifiées» ou «semences certifiées de la première génération»,
   - 15\. pour les semences de variétés de graminées n’ayant pas subi un examen de la valeur culturale et d’utilisation selon l’art. 15, al. 2, let. a: l’expression «non destinées à être utilisées en tant que plantes fourragères».
 
@@ -3838,31 +3846,31 @@ i. en cas d’indication du poids et de l’emploi de pesticides granulés, de s
   - 3\. «Semences commerciales (non certifiées pour la variété)»,
   - 4\. le service et le pays de certification,
   - 5\. le numéro de référence du lot,
-  - 6\. le mois et l’année de la fermeture exprimés par la mention: fermé ... (mois et année),
+  - 6\. le mois et l’année de la fermeture exprimés par la mention: fermé … (mois et année),
   - ou
-  - le mois et l’année du dernier prélèvement officiel d’échantillons en vue de l’admission en tant que semences commerciales, exprimés par la mention: «échantillonné ... (mois et année)»,
+  - le mois et l’année du dernier prélèvement officiel d’échantillons en vue de l’admission en tant que semences commerciales, exprimés par la mention: «échantillonné … (mois et année)»,
   - 7\. l’espèce (dénomination latine),
   - 8\. le pays de production,
   - 9\. le poids net ou brut (y compris la remarque correspondante) ou le nombre de graines,
   - 10\. la nature et la proportion de l’additif en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
-  - 11\. pour les semences en report, les mots «réanalysée ... (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
+  - 11\. pour les semences en report, les mots «réanalysée … (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
 
 - c.
 
   Pour les mélanges de semences:
 
-  - 1\. «Mélange de semences pour ... (utilisation prévue)»,
+  - 1\. «Mélange de semences pour … (utilisation prévue)»,
   - 2\. le service qui a procédé à la fermeture et pays,
   - 3\. le numéro de référence,
-  - 4\. le mois et l’année de la fermeture exprimé par la mention: «fermé ... (mois et année)»,
+  - 4\. le mois et l’année de la fermeture exprimé par la mention: «fermé … (mois et année)»,
   - 5\. la proportion en poids des différents composants indiqués selon les espèces et, le cas échéant, selon les variétés; la mention de la dénomination du mélange est suffisante si la proportion en poids est portée par écrit à la connaissance de l’acheteur et si elle est officiellement déposée,
   - 6\. le poids net ou brut (y compris la remarque correspondante) ou le nombre de graines,
   - 7\. la nature et la proportion de l’additif en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
-  - 8\. pour les mélanges de semences en report, les mots «réanalysée ... (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
+  - 8\. pour les mélanges de semences en report, les mots «réanalysée … (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
 
 ### 1.2 Dimensions minimales
 
-110 mm × 67 mm
+- 110 mm × 67 mm
 
 ### 2. Étiquettes du fournisseur ou inscription sur l’emballage (petit emballage CE)
 
@@ -3919,8 +3927,8 @@ Indications prescrites
     - – le numéro de référence permettant d’identifier les lots utilisés,
     - – le pays,
 
-  - 5\. ...
-  - 6\. «Mélange de semences destiné à ... (utilisation)»,
+  - 5\. …
+  - 6\. «Mélange de semences destiné à … (utilisation)»,
   - 7\. le poids net ou brut ou le nombre de graines pures,
   - 8\. en cas d’indication du poids et d’emploi de pesticides granulés, de substances d’enrobage ou d’autres additifs solides, l’indication de la nature de l’additif ainsi que du rapport approximatif entre le poids de graines pures et le poids total,
   - 9\. la proportion en poids des différents constituants indiqués selon les espèces et, le cas échéant, selon les variétés indiquées ou la mention de la dénomination du mélange si la proportion en poids peut être communiquée à l’acheteur sur sa demande et si elle est déposée officiellement.
@@ -3937,9 +3945,9 @@ Indications prescrites
   - 2\. l’inscription «Règles et normes CE»,
   - 3\. le service et le pays de certification,
   - 4\. le numéro de référence du lot,
-  - 5\. le mois et l’année de la fermeture, exprimés par la mention: «fermé ...» (mois et année),
+  - 5\. le mois et l’année de la fermeture, exprimés par la mention: «fermé …» (mois et année),
   - ou
-  - le mois et l’année du dernier prélèvement officiel d’échantillons en vue de la certification, exprimés par la mention «échantillonné ...» (mois et année),
+  - le mois et l’année du dernier prélèvement officiel d’échantillons en vue de la certification, exprimés par la mention «échantillonné …» (mois et année),
   - 6\. l’espèce (dénomination latine),
   - 7\. la dénomination de la variété,
   - 8\. la catégorie,
@@ -3957,7 +3965,7 @@ Indications prescrites
     - – pour les semences certifiées:
     - la dénomination de la variété à laquelle appartiennent les semences, accompagnée du mot «hybride»,
 
-  - 13\. pour les semences en report, les mots «réanalysée ... (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
+  - 13\. pour les semences en report, les mots «réanalysée … (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
 
 - a<sup>bis</sup>. Pour les semences certifiées d’une association variétale:
 - Les indications requises au point a restent applicables, hormis le fait que la dénomination de la variété doit être remplacée par la dénomination de l’association variétale (indication «association variétale» et sa dénomination) et que les pourcentages en poids des différents composants doivent être énumérés par variété; l’indication de la dénomination de l’association variétale suffit si le pourcentage en poids a été notifié par écrit à l’acheteur, à sa demande, et a été enregistré officiellement.
@@ -3970,14 +3978,14 @@ Indications prescrites
   - 3\. «Semences commerciales (non certifiées pour la variété)»,
   - 4\. le service et le pays de certification,
   - 5\. le numéro de référence du lot,
-  - 6\. le mois et l’année de la fermeture, exprimés par la mention: «fermé ...» (mois et année) ,
+  - 6\. le mois et l’année de la fermeture, exprimés par la mention: «fermé …» (mois et année) ,
   - ou
-  - le mois et l’année du dernier prélèvement officiel d’échantillons en vue de l’admission en tant que semences commerciales, exprimés par la mention: «échantillonné ... » (mois et année),
+  - le mois et l’année du dernier prélèvement officiel d’échantillons en vue de l’admission en tant que semences commerciales, exprimés par la mention: «échantillonné …» (mois et année),
   - 7\. l’espèce (dénomination latine),
   - 8\. le pays de production,
   - 9\. le poids net ou brut,
   - 10\. la nature et la proportion de l’additif en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
-  - 11\. pour les semences en report, les mots «réanalysé ... » (mois et année) peuvent compléter le texte de l’étiquette; ces indications peuvent figurer sur une vignette adhésive officielle apposée sur l’étiquette; cette vignette doit mentionner la date du prélèvement de l’échantillon analysé pour la recertification.
+  - 11\. pour les semences en report, les mots «réanalysé …» (mois et année) peuvent compléter le texte de l’étiquette; ces indications peuvent figurer sur une vignette adhésive officielle apposée sur l’étiquette; cette vignette doit mentionner la date du prélèvement de l’échantillon analysé pour la recertification.
 
 ### 2 Dimensions minimales
 
@@ -3993,9 +4001,9 @@ Indications prescrites
 - 2\. l’inscription «Règles et normes CE»,
 - 3\. le service et le pays de certification,
 - 4\. le numéro de référence du lot,
-- 5\. le mois et l’année de la fermeture, exprimés par la mention: «fermé ...» (mois et année)
+- 5\. le mois et l’année de la fermeture, exprimés par la mention: «fermé …» (mois et année)
 - ou
-- le mois et l’année du dernier prélèvement officiel d’échantillons en vue de la certification, exprimés par la mention «échantillonné ...» (mois et année),
+- le mois et l’année du dernier prélèvement officiel d’échantillons en vue de la certification, exprimés par la mention «échantillonné …» (mois et année),
 - 6\. l’espèce (dénomination latine)et l’indication précisant s’il s’agit de betteraves sucrières ou fourragères,
 - 7\. la dénomination de la variété,
 - 8\. la catégorie,
@@ -4004,7 +4012,7 @@ Indications prescrites
 - 11\. la nature et la proportion de l’additif en cas d’utilisation de pesticides granulés, de substances d’enrobage ou d’autres additifs solides,
 - 12\. pour les semences monogermes: mention «semences monogermes»,
 - 13\. pour les semences de précision: mention «semences de précision»,
-- 14\. pour les semences en report, les mots «réanalysée ... (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
+- 14\. pour les semences en report, les mots «réanalysée … (mois et année)» peuvent être indiqués. Une étiquette auto-collante officielle, collée par-dessus l’étiquette d’origine, peut être utilisée. Cette étiquette doit mentionner la date du prélèvement de l’échantillon.
 
 ### 1.2 Dimensions minimales
 
@@ -4036,7 +4044,7 @@ Indications prescrites
 - 1\. «Règles et normes CE»,
 - 2\. service de certification et État membre, ou leur sigle distinctif,
 - 2*a*. le numéro d’ordre officiel,
-- 3\. mois et année de la fermeture exprimés par la mention: «fermé ... (mois et année)», ou mois et année du dernier prélèvement officiel d’échantillons en vue de la certification, exprimés par la mention «échantillonné ... (mois et année)»,
+- 3\. mois et année de la fermeture exprimés par la mention: «fermé … (mois et année)», ou mois et année du dernier prélèvement officiel d’échantillons en vue de la certification, exprimés par la mention «échantillonné … (mois et année)»,
 - 4\. numéro de référence du lot,
 - 5\. espèce, indiquée au moins en caractères latins, sous sa dénomination botanique, qui peut figurer sous forme abrégée et sans les noms des auteurs, ou sous sa dénomination usuelle dans le pays, ou sous ces deux dénominations,
 - 6\. variété, indiquée au moins en caractères latins,
@@ -4052,7 +4060,7 @@ Indications prescrites
   - – pour les autres semences de base: la dénomination des composants auxquels appartiennent les semences de base, qui peut être indiquée sous forme de code, accompagnée de l’indication de la variété, avec ou sans référence à sa fonction (mâle ou femelle), et accompagnée du mot «composants»
   - – pour les semences certifiées: la dénomination de la variété à laquelle appartiennent les semences, accompagnée du mot «hybride»,
 
-- 12\. dans le cas où la germination au moins a été réanalysée, les mots «réanalysée ... (mois et année)» peuvent être indiqués.
+- 12\. dans le cas où la germination au moins a été réanalysée, les mots «réanalysée … (mois et année)» peuvent être indiqués.
 
 ### II. Dimensions minimales de l’étiquette
 
