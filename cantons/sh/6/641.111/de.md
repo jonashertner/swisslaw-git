@@ -3,20 +3,20 @@ canton: SH
 number: "641.111"
 title: Verordnung über die direkten Steuern
 language: de
-version: 2024-11-01
-valid_until: 2024-12-31
-version_adopted: 2024-10-29
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-12
 adopted: 2001-01-26
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1965/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1966/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die direkten Steuern
 
-Vom 26.01.2001 (Stand 01.11.2024)
+Vom 26.01.2001 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -221,15 +221,9 @@ beschliesst:
 
 <sup>1</sup> Übernimmt der Arbeitgeber die vollumfängliche Beitragsleistung für die Vorsorge des Arbeitnehmers, so kann dieser seine übrigen Versicherungsbeiträge nur gemäss Art. 35 Abs. 1 lit. g ohne Erhöhung geltend machen.
 
-#### § 27
+#### § 27–28
 
 **…**
-
-#### § 28
-
-**Art. 35 Abs. 1 lit. l StG**
-
-<sup>1</sup> Nicht als Zuwendungen gelten Mitgliederbeiträge und mitgliederbeitragsähnliche Leistungen.
 
 #### § 28a
 
@@ -261,7 +255,7 @@ beschliesst:
 
 <sup>2</sup> Nur an ausländischen Börsen gehandelte Titel werden zum letzten Tageskurs der Steuerperiode bewertet unter Berücksichtigung der Umrechnungskurse, wie sie in der in Abs. 1 erwähnten Liste festgelegt sind.
 
-<sup>3</sup> Die Bewertung der nicht kotierten Wertpapiere erfolgt auf Grund der Wegleitung zur Bewertung von Wertpapieren ohne Kurswert für die Vermögenssteuer; sie wird durch die kantonale Steuerverwaltung vorgenommen.
+<sup>3</sup> …
 
 #### § 32–33
 
@@ -614,6 +608,8 @@ beschliesst:
 #### § 80a
 
 <sup>1</sup> Die zuständigen Verwaltungsbehörden des Kantons und der Gemeinden melden der Kantonalen Steuerverwaltung jährlich, wem und in welcher Höhe Beiträge ausgerichtet wurden für Massnahmen, die der effizienten Energienutzung, der Nutzung erneuerbarer Energien und der Nutzung von Umgebungs-, Erd- und Abwärme dienen.
+
+<sup>2</sup> Das Sozialversicherungsamt meldet der Kantonalen Steuerverwaltung, wem und in welcher Höhe eine Verbilligung der Prämien der sozialen Krankenversicherung gewährt wurde.
 
 #### § 80b
 
