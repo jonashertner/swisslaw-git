@@ -3,20 +3,20 @@ sr: "131.219"
 title: "Constitution du canton de Fribourg, du 16 mai 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/2129_cc"
 language: fr
-version: 2019-03-22
+version: 2025-01-01
 adopted: 2004-05-16
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20190322/fr/xml/fedlex-data-admin-ch-eli-cc-2004-2129_cc-20190322-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/2129_cc/20190322/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-2129_cc-20250101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/2129_cc/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du canton de Fribourg
 
-du 16 mai 2004 (État le 22 mars 2019)[^t-1]
+du 16 mai 2004 (État le 1<sup>er</sup> janvier 2025)[^t-1]
 
-[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Nous, peuple du canton de Fribourg,
 
@@ -46,7 +46,7 @@ nous nous donnons la présente Constitution.
 
 <sup>1</sup> Le canton comprend le territoire qui lui est garanti par la Confédération.
 
-<sup>2</sup> Sa capitale est la ville de Fribourg, Freiburg en allemand.
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20250101/fr/xml/image/image1.png)</sup> Sa capitale est la ville de Fribourg, Freiburg en allemand.
 
 <sup>3</sup> Ses armoiries sont: «Coupé de sable et d’argent».
 
@@ -654,9 +654,12 @@ L’État et les communes encouragent la formation des adultes.
 
 <sup>1</sup> L’État s’emploie à la promotion de la santé et veille à ce que toute personne ait accès à des soins de qualité égale.
 
-<sup>2</sup> Il prend des mesures visant à protéger la population contre la fumée passive.[^68-1]
+<sup>1a</sup> Il assure des soins urgents accessibles 24 heures sur 24 et 7 jours sur 7 dans toutes les régions du canton.[^68-1]
 
-[^68-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2009. Garantie de l’Ass. féd. du 8 juin 2010 ([FF 2010 3977](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 ch. 3 [1955](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+<sup>2</sup> Il prend des mesures visant à protéger la population contre la fumée passive.[^68-2]
+
+[^68-1]: Accepté en votation populaire du 9 juin 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 3; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^68-2]: Accepté en votation populaire du 30 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009. Garantie de l’Ass. féd. du 8 juin 2010 ([FF 2010 3977](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 ch. 3 [1955](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 ### Étrangères et étrangers
 
@@ -1345,7 +1348,7 @@ Les partis politiques, les groupements politiques, les comités de campagne ains
 
 <sup>4</sup> Pour le surplus, la loi règle l’application. Elle tient notamment compte du secret professionnel.
 
-[^139a-1]: Accepté en [votation populaire du 4 mars 2018](http://www.admin.ch/ch/f/pore/va/20180304/index.html). Garantie de l’Ass. féd. du 22 mars 2019 ([FF 2019 2821](https://fedlex.data.admin.ch/eli/fga/2019/791)art. 3, [2018 7719](https://fedlex.data.admin.ch/eli/fga/2018/2724)). Cette disposition entrera en vigueur à la même date que la loi qui réglera son application.
+[^139a-1]: Accepté en votation populaire du 4 mars 2018. Garantie de l’Ass. féd. du 22 mars 2019 ([FF 2019 2821](https://fedlex.data.admin.ch/eli/fga/2019/791)art. 3, [2018 7719](https://fedlex.data.admin.ch/eli/fga/2018/2724)). Cette disposition entrera en vigueur à la même date que la loi qui réglera son application.
 
 ## Titre IX Églises et communautés religieuses
 
@@ -2197,6 +2200,8 @@ Situations
 - – d’urgence 75
 
 Société civile 137 à 139
+
+Soins urgents 68<sup>1</sup>*<sup>a</sup>*
 
 Solidarité
 

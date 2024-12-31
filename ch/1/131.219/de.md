@@ -3,20 +3,20 @@ sr: "131.219"
 title: "Verfassung des Kantons Freiburg, vom 16. Mai 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/2129_cc"
 language: de
-version: 2019-03-22
+version: 2025-01-01
 adopted: 2004-05-16
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20190322/de/xml/fedlex-data-admin-ch-eli-cc-2004-2129_cc-20190322-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/2129_cc/20190322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2004-2129_cc-20250101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/2129_cc/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Freiburg
 
-vom 16. Mai 2004 (Stand am 22. März 2019)[^t-1]
+vom 16. Mai 2004 (Stand am 1. Januar 2025)[^t-1]
 
-[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 Wir, das Volk des Kantons Freiburg,
 
@@ -46,7 +46,7 @@ geben uns folgende Verfassung:
 
 <sup>1</sup> Der Kanton umfasst das Gebiet, das ihm durch die Eidgenossenschaft gewährleistet ist.
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20190322/de/xml/image/image1.png)</sup> Die Hauptstadt ist Freiburg, auf Französisch Fribourg.
+<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20250101/de/xml/image/image1.png) Die Hauptstadt ist Freiburg, auf Französisch Fribourg.
 
 <sup>3</sup> Das Wappen ist: Von Schwarz und Weiss geteilt.
 
@@ -383,7 +383,9 @@ Die Behörden sorgen dafür, dass die Grund- und Sozialrechte, soweit sie sich d
 
 #### Art. 39
 
-<sup>1</sup> Stimm- und wahlberechtigt in kantonalen Angelegenheiten sind mündige
+<sup>1</sup>
+
+Stimm- und wahlberechtigt in kantonalen Angelegenheiten sind mündige:
 
 - a. Schweizerinnen und Schweizer, die im Kanton Wohnsitz haben;
 - b. Auslandschweizerinnen und Auslandschweizer, die über das freiburgische Bürgerrecht verfügen oder im Kanton Wohnsitz hatten.
@@ -469,7 +471,9 @@ Obligatorisch der Volksabstimmung unterliegen:
 
 #### Art. 48
 
-<sup>1</sup> Stimm- und wahlberechtigt in Gemeindeangelegenheiten sind mündige
+<sup>1</sup>
+
+Stimm- und wahlberechtigt in Gemeindeangelegenheiten sind mündige:
 
 - a. Schweizerinnen und Schweizer in ihrer Wohnsitzgemeinde;
 - b. niederlassungsberechtigte Ausländerinnen und Ausländer in ihrer Wohnsitzgemeinde, wenn sie seit mindestens fünf Jahren im Kanton Wohnsitz haben.
@@ -650,9 +654,12 @@ Staat und Gemeinden fördern die Erwachsenenbildung.
 
 <sup>1</sup> Der Staat bemüht sich um die Gesundheitsförderung und sorgt dafür, dass jeder Person die gleichen Pflegeleistungen zugänglich sind.
 
-<sup>2</sup> Er ergreift Massnahmen zum Schutz der Bevölkerung vor dem Passivrauchen.[^68-1]
+<sup>1a</sup> Er stellt die Notfallpflege rund um die Uhr und an 7 Tagen in der Woche in allen Regionen des Kantons sicher.[^68-1]
 
-[^68-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 1. Jan. 2009. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 3 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+<sup>2</sup> Er ergreift Massnahmen zum Schutz der Bevölkerung vor dem Passivrauchen.[^68-2]
+
+[^68-1]: Angenommen in der Volksabstimmung vom 9. Juni 2024, in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 3; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^68-2]: Angenommen in der Volksabstimmung vom 30. Nov. 2008, in Kraft seit 1. Jan. 2009. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 3 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 ### Ausländerinnen und Ausländer
 
@@ -1341,7 +1348,7 @@ Politische Parteien, politische Gruppierungen, Kampagnenkomitees und Organisatio
 
 <sup>4</sup> Im Übrigen regelt das Gesetz die Anwendung. Es berücksichtigt insbesondere das Berufsgeheimnis.
 
-[^139a-1]: Angenommen in der [Volksabstimmung vom 4. März 2018](http://www.admin.ch/ch/d/pore/va/20180304/index.html). Gewährleistungsbeschluss vom 22. März 2019 ([BBl 2019 2861](https://fedlex.data.admin.ch/eli/fga/2019/791)Art. 3, [2018 7741](https://fedlex.data.admin.ch/eli/fga/2018/2724)). Diese Bestimmung wird zusammen mit dem Ausführungsgesetz in Kraft treten.
+[^139a-1]: Angenommen in der Volksabstimmung vom 4. März 2018. Gewährleistungsbeschluss vom 22. März 2019 ([BBl 2019 2861](https://fedlex.data.admin.ch/eli/fga/2019/791)Art. 3, [2018 7741](https://fedlex.data.admin.ch/eli/fga/2018/2724)). Diese Bestimmung wird zusammen mit dem Ausführungsgesetz in Kraft treten.
 
 ## IX. Titel: Kirchen und Religionsgemeinschaften
 
@@ -1978,6 +1985,8 @@ Abhängige Personen 63
 
 **Petitionsrecht** 25
 
+**Pflege (Notfallpflege)** 68<sup>1a</sup>
+
 **Pflichten** 7
 
 **Planung** 101, 112
@@ -2336,4 +2345,4 @@ Abhängige Personen 63
 
 **Zuständigkeitskonflikte** 105
 
-**Zweisprachigkeit** 6
+- [tab] **Zweisprachigkeit** 6

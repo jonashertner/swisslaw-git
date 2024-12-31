@@ -3,11 +3,11 @@ sr: "131.219"
 title: "Costituzione del Cantone di Friburgo, del 16 maggio 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/2129_cc"
 language: it
-version: 2019-03-22
+version: 2025-01-01
 adopted: 2004-05-16
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20190322/it/xml/fedlex-data-admin-ch-eli-cc-2004-2129_cc-20190322-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/2129_cc/20190322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2004-2129_cc-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/2129_cc/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/2129_cc/20190322/it"
 
 Traduzione[^t-1]
 
-del 16 maggio 2004 (Stato 22 marzo 2019)[^t-2]
+del 16 maggio 2004 (Stato 1° gennaio 2025)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. e nell’ediz. franc. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 Noi, Popolo del Cantone di Friburgo,
 
@@ -49,7 +49,7 @@ ci siamo dati la presente Costituzione.
 
 <sup>1</sup> Il Cantone comprende il territorio che gli è garantito dalla Confederazione.
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20190322/it/xml/image/image1.png)</sup> La capitale è la città di Friburgo (Fribourg in francese e Freiburg in tedesco).
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/2129_cc/20250101/it/xml/image/image1.png)</sup> La capitale è la città di Friburgo (Fribourg in francese e Freiburg in tedesco).
 
 <sup>3</sup> Lo stemma è: «Troncato di nero e di argento».
 
@@ -657,9 +657,12 @@ Lo Stato e i Comuni promuovono l’educazione degli adulti.
 
 <sup>1</sup> Lo Stato si adopera per la promozione della salute e provvede affinché ogni persona abbia accesso a cure qualitativamente equivalenti.
 
-<sup>2</sup> Esso prende provvedimenti per proteggere la popolazione dal fumo passivo.[^68-1]
+<sup>1a</sup> Garantisce la fornitura di cure urgenti 24 ore su 24 e 7 giorni su 7 in tutte le regioni del Cantone.[^68-1]
 
-[^68-1]: Accettato nella [votazione popolare del 30 nov. 2008](http://www.admin.ch/ch/i/pore/va/20081130/index.html), in vigore dal 1° gen. 2009. Garanzia dell’AF dell’8 giu. 2010 ([FF 2010 3839](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 n. 3 [1905](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+<sup>2</sup> Esso prende provvedimenti per proteggere la popolazione dal fumo passivo.[^68-2]
+
+[^68-1]: Accettata nella votazione popolare del 9 giu. 2024, in vigore dal 1° gen. 2025. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 3; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^68-2]: Accettato nella votazione popolare del 30 nov. 2008, in vigore dal 1° gen. 2009. Garanzia dell’AF dell’8 giu. 2010 ([FF 2010 3839](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 n. 3 [1905](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 ### Stranieri
 
@@ -1348,7 +1351,7 @@ I partiti, i gruppi politici, i comitati di campagne e le organizzazioni che par
 
 <sup>4</sup> Per il resto la legge disciplina l’applicazione. Le disposizioni d’applicazione tengono conto in particolare del segreto professionale.
 
-[^139a-1]: Accettato in [votazione popolare del 4 mar. 2018](http://www.admin.ch/ch/i/pore/va/20180304/index.html). Garanzia dell’AF del 22 mar. 2019 ([FF 2019 2487](https://fedlex.data.admin.ch/eli/fga/2019/791)art. 3, [2018 6535](https://fedlex.data.admin.ch/eli/fga/2018/2724)). Attualmente non ancora in vigore. Lo entrerà solo al momento dell’entrata in vigore della L che ne regola l’applicazione.
+[^139a-1]: Accettato in votazione popolare del 4 mar. 2018. Garanzia dell’AF del 22 mar. 2019 ([FF 2019 2487](https://fedlex.data.admin.ch/eli/fga/2019/791)art. 3, [2018 6535](https://fedlex.data.admin.ch/eli/fga/2018/2724)). Attualmente non ancora in vigore. Lo entrerà solo al momento dell’entrata in vigore della L che ne regola l’applicazione.
 
 ## Titolo IX: Chiese e comunità religiose
 
@@ -1491,972 +1494,972 @@ Aggregazioni 135
 
 Amministrazione 118
 
-- [tab] – alta vigilanza del Gran Consiglio sull’ 104
-- [tab] – direzione dell’ 110
-- [tab] – organizzazione dell’ 118
-- [tab] – segreteria del Gran Consiglio 97
+- – alta vigilanza del Gran Consiglio sull’ 104
+- – direzione dell’ 110
+- – organizzazione dell’ 118
+- – segreteria del Gran Consiglio 97
 
 Amnistia e grazia
 
-- [tab] – accordo della 105
+- – accordo della 105
 
 Associazione 23, 27, 138
 
-- [tab] – associazione intercomunale 51, 129, 134
-- [tab] – autonomia comunale 129
-- [tab] – diritto di costituire un’ 23, 27
+- – associazione intercomunale 51, 129, 134
+- – autonomia comunale 129
+- – diritto di costituire un’ 23, 27
 
 Autorità
 
-- [tab] – accesso alla giustizia 30
-- [tab] – atti delle autorità 91
-- [tab] – autorità
-  - [tab] – cantonali 85 ss
+- – accesso alla giustizia 30
+- – atti delle autorità 91
+- – autorità
+  - – cantonali 85 ss
   - – Consiglio di Stato 106 ss
   - – Gran Consiglio 94 ss
   - – Giustizia 120 ss
-  - [tab] – comunali 129 ss
+  - – comunali 129 ss
 
-- [tab] – autorità giudiziaria 30
-- [tab] – diritti
-  - [tab] – fondamentali 37
-  - [tab] – sociali 37
+- – autorità giudiziaria 30
+- – diritti
+  - – fondamentali 37
+  - – sociali 37
 
-- [tab] – divisione dei poteri 85
-- [tab] – eleggibilità 86
-- [tab] – informazione 88
-- [tab] – lingua 17
-- [tab] – petizione 25
-- [tab] – risposta motivata 25
-- [tab] – veto del Gran Consiglio 93
+- – divisione dei poteri 85
+- – eleggibilità 86
+- – informazione 88
+- – lingua 17
+- – petizione 25
+- – risposta motivata 25
+- – veto del Gran Consiglio 93
 
 Bilancio
 
-- [tab] – approvazione del bilancio di previsione 102
-- [tab] – consultazione del bilancio 84
+- – approvazione del bilancio di previsione 102
+- – consultazione del bilancio 84
 
 Cantone
 
-- [tab] – approvazione dell’adesione del Cantone ai trattati
-  - [tab] – intercantonali 100
-  - [tab] – internazionali 100
+- – approvazione dell’adesione del Cantone ai trattati
+  - – intercantonali 100
+  - – internazionali 100
 
-- [tab] – autorità suprema del 94
-- [tab] – Cantone di Friburgo 1
-- [tab] – cittadinanza attiva del 39, 48
-- [tab] – collaborazione con
-  - [tab] – altri Cantoni 5
-  - [tab] – Confederazione 5
-  - [tab] – organizzazioni internazionali 5
-  - [tab] – nazionali 5
-  - [tab] – regionali 5
+- – autorità suprema del 94
+- – Cantone di Friburgo 1
+- – cittadinanza attiva del 39, 48
+- – collaborazione con
+  - – altri Cantoni 5
+  - – Confederazione 5
+  - – organizzazioni internazionali 5
+  - – nazionali 5
+  - – regionali 5
 
-- [tab] – conflitti di competenza tra le autorità superiori del 105
-- [tab] – domicilio nel 39, 40, 48, 86
-- [tab] – eleggibilità 86
-- [tab] – elezione dei deputati al Consiglio degli Stati 40
-- [tab] – equa rappresentanza alle regioni del 95
-- [tab] – lingue ufficiali del 6
-- [tab] – politica del 110
-- [tab] – promozione
-  - [tab] – degli scambi culturali tra le regioni del Cantone e l’esterno 79
-  - [tab] – della cooperazione tra le regioni del Cantone e l’esterno 79
+- – conflitti di competenza tra le autorità superiori del 105
+- – domicilio nel 39, 40, 48, 86
+- – eleggibilità 86
+- – elezione dei deputati al Consiglio degli Stati 40
+- – equa rappresentanza alle regioni del 95
+- – lingue ufficiali del 6
+- – politica del 110
+- – promozione
+  - – degli scambi culturali tra le regioni del Cantone e l’esterno 79
+  - – della cooperazione tra le regioni del Cantone e l’esterno 79
 
-- [tab] – quale circondario elettorale unico 106
-- [tab] – rapporti con le autorità del 17
-- [tab] – rappresentanza del 114
-- [tab] – relazioni tra le comunità linguistiche nazionali 6
-- [tab] – territorio del 2
+- – quale circondario elettorale unico 106
+- – rapporti con le autorità del 17
+- – rappresentanza del 114
+- – relazioni tra le comunità linguistiche nazionali 6
+- – territorio del 2
 
 Chiesa (e) 140 ss
 
-- [tab] – altre
-  - [tab] – Chiese 142
-  - [tab] – comunità religiose 142
+- – altre
+  - – Chiese 142
+  - – comunità religiose 142
 
-- [tab] – autonomia delle Chiese riconosciute 141
-- [tab] – Chiese riconosciute 141
-- [tab] – diritto di organizzare un insegnamento religioso nell’ambito della scuola dell’obbligo 64
-- [tab] – organizzazione delle 140
-- [tab] – riconoscimento di ruolo importante alle 140
-- [tab] – statuto di diritto pubblico delle Chiese
-  - [tab] – cattolica romana 141
-  - [tab] – evangelica riformata 141
+- – autonomia delle Chiese riconosciute 141
+- – Chiese riconosciute 141
+- – diritto di organizzare un insegnamento religioso nell’ambito della scuola dell’obbligo 64
+- – organizzazione delle 140
+- – riconoscimento di ruolo importante alle 140
+- – statuto di diritto pubblico delle Chiese
+  - – cattolica romana 141
+  - – evangelica riformata 141
 
 Cittadinanza
 
-- [tab] – cittadinanza
-  - [tab] – attiva 39, 40, 48, 86, 131
-  - [tab] – cantonale 39
+- – cittadinanza
+  - – attiva 39, 40, 48, 86, 131
+  - – cantonale 39
 
-- [tab] – conferimento della 69, 105
-- [tab] – eleggibilità 86
-- [tab] – elezioni 40
-- [tab] – promozione dello spirito di 137
-- [tab] – stranieri 69
+- – conferimento della 69, 105
+- – eleggibilità 86
+- – elezioni 40
+- – promozione dello spirito di 137
+- – stranieri 69
 
 Commissione (i)
 
-- [tab] – elezione membri delle 103
+- – elezione membri delle 103
 
 Compito/i
 
-- [tab] – adempimento
-  - [tab] – dei compiti 52
-  - [tab] – sussidiario 105
+- – adempimento
+  - – dei compiti 52
+  - – sussidiario 105
 
-- [tab] – alta vigilanza su delegatari di compiti pubblici 104
-- [tab] – associazioni intercomunale per adempiere 134
-- [tab] – Comuni 130
-- [tab] – danno causato illecitamente nell’adempimento dei compiti pubblici 90
-- [tab] – delega
-  - [tab] – di compiti a terzi 53
-  - [tab] – ad associazioni 138
+- – alta vigilanza su delegatari di compiti pubblici 104
+- – associazioni intercomunale per adempiere 134
+- – Comuni 130
+- – danno causato illecitamente nell’adempimento dei compiti pubblici 90
+- – delega
+  - – di compiti a terzi 53
+  - – ad associazioni 138
 
-- [tab] – distretti 136
-- [tab] – principio di
-  - [tab] – trasparenza 52
-  - [tab] – solidarietà 52
-  - [tab] – sussidiarietà 52
+- – distretti 136
+- – principio di
+  - – trasparenza 52
+  - – solidarietà 52
+  - – sussidiarietà 52
 
-- [tab] – pubblici 52 ss
-- [tab] – raccolta di
-  - [tab] – altri tributi necessari all’esecuzione dei loro compiti 81
-  - [tab] – imposte necessarie all’esecuzione dei compiti 81
+- – pubblici 52 ss
+- – raccolta di
+  - – altri tributi necessari all’esecuzione dei loro compiti 81
+  - – imposte necessarie all’esecuzione dei compiti 81
 
-- [tab] – responsabilità 90
-- [tab] – ripartizione
-  - [tab] – dei compiti da parte di terzi 53
-  - [tab] – tra Comuni 53 Stato 53
+- – responsabilità 90
+- – ripartizione
+  - – dei compiti da parte di terzi 53
+  - – tra Comuni 53 Stato 53
 
-- [tab] – verifica periodica dei 82
+- – verifica periodica dei 82
 
 Comune (i) 129 ss
 
-- [tab] – accoglienza degli 69
-- [tab] – adempimento dei compiti affidati dalla Costituzione 130
-- [tab] – adempimento
-  - [tab] – dei loro compiti da parte dei 52
-  - [tab] – di compiti da parte di terzi 54
+- – accoglienza degli 69
+- – adempimento dei compiti affidati dalla Costituzione 130
+- – adempimento
+  - – dei loro compiti da parte dei 52
+  - – di compiti da parte di terzi 54
 
-- [tab] – aggregazioni di 135
-- [tab] – alloggio 56
-- [tab] – amministrative regionali 134
-- [tab] – approntano un aiuto sociale 55
-- [tab] – approvvigionamento idrico 77
-- [tab] – associazioni 138
-- [tab] – associazioni di 51
-  - [tab] – intercomunali 129
+- – aggregazioni di 135
+- – alloggio 56
+- – amministrative regionali 134
+- – approntano un aiuto sociale 55
+- – approvvigionamento idrico 77
+- – associazioni 138
+- – associazioni di 51
+  - – intercomunali 129
 
-- [tab] – attività di tempo 80
-- [tab] – cittadinanza attiva 48
-- [tab] – collaborazione intercomunale 134
-- [tab] – comprensione tra le generazioni 62
-- [tab] – Comuni
-  - [tab] – con Consiglio comunale 50
-  - [tab] – senza Consiglio comunale 50
+- – attività di tempo 80
+- – cittadinanza attiva 48
+- – collaborazione intercomunale 134
+- – comprensione tra le generazioni 62
+- – Comuni
+  - – con Consiglio comunale 50
+  - – senza Consiglio comunale 50
 
-- [tab] – conoscenza
-  - [tab] – del patrimonio culturale 73
-  - [tab] – della natura 73
+- – conoscenza
+  - – del patrimonio culturale 73
+  - – della natura 73
 
-- [tab] – delega di compiti a terzi 54
-- [tab] – determinazione e riscossione di
-  - [tab] – imposte comunali 132
-  - [tab] – tasse comunali 132
+- – delega di compiti a terzi 54
+- – determinazione e riscossione di
+  - – imposte comunali 132
+  - – tasse comunali 132
 
-- [tab] – diritti politici comunali 48 ss
-- [tab] – disparità che colpiscono i disabili 9
-- [tab] – domicilio nel 48
-- [tab] – educazione degli adulti 66
-- [tab] – elezione dei 49
-- [tab] – emolumento amministrativo per il conferimento della cittadinanza 69
-- [tab] – enti di diritto pubblico con propria personalità giuridica 129
-- [tab] – garanzia dell’autonomia del 129
-- [tab] – gestione delle finanze pubbliche 82
-- [tab] – integrazione
-  - [tab] – degli gli stranieri 69
-  - [tab] – sociale 61
+- – diritti politici comunali 48 ss
+- – disparità che colpiscono i disabili 9
+- – domicilio nel 48
+- – educazione degli adulti 66
+- – elezione dei 49
+- – emolumento amministrativo per il conferimento della cittadinanza 69
+- – enti di diritto pubblico con propria personalità giuridica 129
+- – garanzia dell’autonomia del 129
+- – gestione delle finanze pubbliche 82
+- – integrazione
+  - – degli gli stranieri 69
+  - – sociale 61
 
-- [tab] – istituzione di monopoli 58
-- [tab] – istruzione di base
-  - [tab] – gratuita 64
-  - [tab] – obbligatoria 64
+- – istituzione di monopoli 58
+- – istruzione di base
+  - – gratuita 64
+  - – obbligatoria 64
 
-- [tab] – lingue 6
-- [tab] – lotta contro ogni forma di
-  - [tab] – immissione nociva 71
-  - [tab] – inquinamento 71
+- – lingue 6
+- – lotta contro ogni forma di
+  - – immissione nociva 71
+  - – inquinamento 71
 
-- [tab] – mantenimento
-  - [tab] – dell’ordine pubblico 76
-  - [tab] – della sicurezza 76
+- – mantenimento
+  - – dell’ordine pubblico 76
+  - – della sicurezza 76
 
-- [tab] – membri delle autorità 131
-- [tab] – naturalizzazione degli stranieri 69
-- [tab] – organi dei
-  - [tab] – Assemblea comunale 131
-  - [tab] – Consiglio comunale
-  - [tab] – Municipio 131
+- – membri delle autorità 131
+- – naturalizzazione degli stranieri 69
+- – organi dei
+  - – Assemblea comunale 131
+  - – Consiglio comunale
+  - – Municipio 131
 
-- [tab] – organizzazioni della società civile 137
-- [tab] – partiti 139
-- [tab] – perequazione finanziaria 133
-- [tab] – persone
-  - [tab] – vulnerabili 63
-  - [tab] – affette da dipendenza 63
+- – organizzazioni della società civile 137
+- – partiti 139
+- – perequazione finanziaria 133
+- – persone
+  - – vulnerabili 63
+  - – affette da dipendenza 63
 
-- [tab] – politica dei giovani 61
-- [tab] – preservazione
-  - [tab] – del patrimonio culturale 73
-  - [tab] – della natura 73
+- – politica dei giovani 61
+- – preservazione
+  - – del patrimonio culturale 73
+  - – della natura 73
 
-- [tab] – prevenzione e contrasto efficace
-  - [tab] – delle catastrofi 75
-  - [tab] – situazioni di emergenza 75
+- – prevenzione e contrasto efficace
+  - – delle catastrofi 75
+  - – situazioni di emergenza 75
 
-- [tab] – promozione del bene 3
-- [tab] – protezione della diversità 59
-- [tab] – ripartizione
-  - [tab] – dei compiti tra Comuni 53
-  - [tab] – Stato 53
-  - [tab] – territoriale tradizionale delle lingue 6
+- – promozione del bene 3
+- – protezione della diversità 59
+- – ripartizione
+  - – dei compiti tra Comuni 53
+  - – Stato 53
+  - – territoriale tradizionale delle lingue 6
 
-- [tab] – riscossione di
-  - [tab] – altri tributi 81
-  - [tab] – imposte 81
+- – riscossione di
+  - – altri tributi 81
+  - – imposte 81
 
-- [tab] – ruolo delle
-  - [tab] – Chiese 140
-  - [tab] – comunità religiose 140
+- – ruolo delle
+  - – Chiese 140
+  - – comunità religiose 140
 
-- [tab] – salvaguardia dell’ambiente naturale 71
-- [tab] – situazioni di precariato 55
-- [tab] – solidarietà tra le generazioni 62
-- [tab] – strutture di accoglienza
-  - [tab] – dalla prima infanzia fino all’inizio della scuola dell’obbligo 60
-  - [tab] – parascolastiche 60
+- – salvaguardia dell’ambiente naturale 71
+- – situazioni di precariato 55
+- – solidarietà tra le generazioni 62
+- – strutture di accoglienza
+  - – dalla prima infanzia fino all’inizio della scuola dell’obbligo 60
+  - – parascolastiche 60
 
-- [tab] – uguaglianza di
-  - [tab] – diritto 9
-  - [tab] –fatto 9
+- – uguaglianza di
+  - – diritto 9
+  - – fatto 9
 
-- [tab] – utilizzazione del
-  - [tab] – suolo 72
-  - [tab] – territorio 72
+- – utilizzazione del
+  - – suolo 72
+  - – territorio 72
 
-- [tab] – vigilanza
-  - [tab] – sui 115
-  - [tab] – sulle finanze dei Comuni 84
+- – vigilanza
+  - – sui 115
+  - – sulle finanze dei Comuni 84
 
-- [tab] – vita culturale 79
+- – vita culturale 79
 
 Comunità religiose 140 ss
 
-- [tab] – diritto
-  - [tab] – di organizzare un insegnamento religioso nell’ambito della scuola dell’obbligo 64
-  - [tab] – privato 142
+- – diritto
+  - – di organizzare un insegnamento religioso nell’ambito della scuola dell’obbligo 64
+  - – privato 142
 
-- [tab] – libera organizzano delle 140
-- [tab] – ruolo delle comunità religiose 140
+- – libera organizzano delle 140
+- – ruolo delle comunità religiose 140
 
 Confederazione
 
-- [tab] – agricoltura e silvicoltura 74
-- [tab] – collaborazione con la 5, 74
-- [tab] – Friburgo Cantone della 1
-- [tab] – relazioni esterne 5
+- – agricoltura e silvicoltura 74
+- – collaborazione con la 5, 74
+- – Friburgo Cantone della 1
+- – relazioni esterne 5
 
 Consiglio degli Stati
 
-- [tab] – elezione
-  - [tab] – dei deputati friburghesi al Consiglio degli Stati 40
-  - [tab] – secondo il sistema maggioritario 40
+- – elezione
+  - – dei deputati friburghesi al Consiglio degli Stati 40
+  - – secondo il sistema maggioritario 40
 
 Consiglio della magistratura 125 ss
 
-- [tab] – composizione del 126
-- [tab] – elezione da parte del Gran Consiglio
-  - [tab] – dei membri del potere giudiziario 103
-  - [tab] – del 103, 126
-  - [tab] – del Ministero pubblico 103
+- – composizione del 126
+- – elezione da parte del Gran Consiglio
+  - – dei membri del potere giudiziario 103
+  - – del 103, 126
+  - – del Ministero pubblico 103
 
-- [tab] – preavviso su candidature 128
-- [tab] – ruolo del 125
-- [tab] – vigilanza da parte del 127
+- – preavviso su candidature 128
+- – ruolo del 125
+- – vigilanza da parte del 127
 
 Consiglio di Stato 106 ss
 
-- [tab] – alta vigilanza sul 104
-- [tab] – Consiglio della magistratura 126
-- [tab] – Consiglio di Stato
-  - [tab] – composizione del 106
-  - [tab] – bilancio di previsione 113
-  - [tab] – conto di Stato 113
-  - [tab] – direzione dell’amministrazione da parte del 110
-  - [tab] – elezione del 106
-  - [tab] – esercizio del potere esecutivo da parte del 110
-  - [tab] – della vigilanza sui Comuni 115
-  - [tab] – nomine 116
-  - [tab] – organizzazione dell’’amministrazione 118
-  - [tab] – organo di mediazione indipendente 119
-  - [tab] – pericoli seri, diretti e imminenti 117
-  - [tab] – politica del Cantone 110
-  - [tab] – preparazione dei disegni di atti legislativi 111
-  - [tab] – presentazione del programma di legislatura 112
-  - [tab] – piano finanziario 112
-  - [tab] – presidente del 103, 107
-  - [tab] – rapporti con il Gran Consiglio 109
-  - [tab] – relazioni esterne 114 segreteria del 108
+- – alta vigilanza sul 104
+- – Consiglio della magistratura 126
+- – Consiglio di Stato
+  - – composizione del 106
+  - – bilancio di previsione 113
+  - – conto di Stato 113
+  - – direzione dell’amministrazione da parte del 110
+  - – elezione del 106
+  - – esercizio del potere esecutivo da parte del 110
+  - – della vigilanza sui Comuni 115
+  - – nomine 116
+  - – organizzazione dell’’amministrazione 118
+  - – organo di mediazione indipendente 119
+  - – pericoli seri, diretti e imminenti 117
+  - – politica del Cantone 110
+  - – preparazione dei disegni di atti legislativi 111
+  - – presentazione del programma di legislatura 112
+  - – piano finanziario 112
+  - – presidente del 103, 107
+  - – rapporti con il Gran Consiglio 109
+  - – relazioni esterne 114 segreteria del 108
 
-- [tab] – elezione da parte del Gran Consiglio del presidente del Consiglio di Stato 103
-- [tab] – elezione popolare dei membri del 40
-- [tab] – esame del
-  - [tab] – piano finanziario del 101
-  - [tab] – programma di legislatura 101
+- – elezione da parte del Gran Consiglio del presidente del Consiglio di Stato 103
+- – elezione popolare dei membri del 40
+- – esame del
+  - – piano finanziario del 101
+  - – programma di legislatura 101
 
-- [tab] – immunità 89
-- [tab] – incompatibilità 87
-- [tab] – informazione 88
-- [tab] – libertà di parola 89
-- [tab] – rapporti con il 98
-- [tab] – riunione del Gran Consiglio su richiesta del 96
-- [tab] – trattati
-  - [tab] – intercantonali 100
-  - [tab] – internazionali 100
+- – immunità 89
+- – incompatibilità 87
+- – informazione 88
+- – libertà di parola 89
+- – rapporti con il 98
+- – riunione del Gran Consiglio su richiesta del 96
+- – trattati
+  - – intercantonali 100
+  - – internazionali 100
 
 Consiglio Nazionale
 
-- [tab] – diritto federale 40
-- [tab] – durata del mandato dei membri cantonali del 40
-- [tab] – elezione dei membri cantonali del 40
+- – diritto federale 40
+- – durata del mandato dei membri cantonali del 40
+- – elezione dei membri cantonali del 40
 
 Costituente
 
-- [tab] – elezione della 144
-- [tab] – proroga dei poteri della 144
-- [tab] – revisione totale della Costituzione 144
+- – elezione della 144
+- – proroga dei poteri della 144
+- – revisione totale della Costituzione 144
 
 Costituzione
 
-- [tab] – adempimento dei
-  - [tab] – compiti affidati dalla 130
-  - [tab] – doveri imposti dalla 7
+- – adempimento dei
+  - – compiti affidati dalla 130
+  - – doveri imposti dalla 7
 
-- [tab] – amministrata della giustizia da parte delle autorità previste dalla 120
-- [tab] – entrata in vigore della presente 146
-- [tab] – legislazione 111
-- [tab] – proposta della revisione della 99
-- [tab] – referendum obbligatorio 45
-- [tab] – revisione
-  - [tab] – parziale della 41, 145
-  - [tab] – totale della 41, 144
+- – amministrata della giustizia da parte delle autorità previste dalla 120
+- – entrata in vigore della presente 146
+- – legislazione 111
+- – proposta della revisione della 99
+- – referendum obbligatorio 45
+- – revisione
+  - – parziale della 41, 145
+  - – totale della 41, 144
 
-- [tab] – sussidiarietà 105
+- – sussidiarietà 105
 
 Dignità umana
 
-- [tab] – intangibilità della 8
+- – intangibilità della 8
 
 Diritti
 
-- [tab] – fondamentali 8 ss
-- [tab] – politici
-  - [tab] – Comunali 48 ss
-  - [tab] – cantonali 39 ss
+- – fondamentali 8 ss
+- – politici
+  - – Comunali 48 ss
+  - – cantonali 39 ss
 
-- [tab] – sociali 33 ss
+- – sociali 33 ss
 
 **Disposizioni finali** 146 ss
 
 **Durata**
 
-- [tab] – durata di validità limitata 92
-- [tab] – mandato dei membri cantonali al Consiglio
-  - [tab] – degli Stati 40
-  - [tab] – nazionale 40
+- – durata di validità limitata 92
+- – mandato dei membri cantonali al Consiglio
+  - – degli Stati 40
+  - – nazionale 40
 
 **Eleggibilità** 86
 
 Elezioni
 
-- [tab] – da parte del Gran Consiglio 103
-- [tab] – elezioni popolari
-  - [tab] – dei deputati friburghesi al Consiglio degli Stati 40
-  - [tab] – dei membri del Consiglio di Stato 40
-  - [tab] – del Consiglio comunale 49
-  - [tab] – del membri Gran Consiglio 40
-  - [tab] – del Municipio 49
-  - [tab] – del prefetti 40
+- – da parte del Gran Consiglio 103
+- – elezioni popolari
+  - – dei deputati friburghesi al Consiglio degli Stati 40
+  - – dei membri del Consiglio di Stato 40
+  - – del Consiglio comunale 49
+  - – del membri Gran Consiglio 40
+  - – del Municipio 49
+  - – del prefetti 40
 
-- [tab] – preavviso
-  - [tab] – del Consiglio della magistratura 128
-  - [tab] – in occasione delle elezioni giudiziarie 125
+- – preavviso
+  - – del Consiglio della magistratura 128
+  - – in occasione delle elezioni giudiziarie 125
 
 **Espropriazione**
 
-- [tab] – piena indennità in caso di 28
+- – piena indennità in caso di 28
 
 Finanze 81 ss
 
 Giudice/i
 
-- [tab] – giudice di carriera 87
-- [tab] – giurisdizione
-  - [tab] – amministrativa 122
-  - [tab] – civile 122, 123
-  - [tab] – penale 122, 123
+- – giudice di carriera 87
+- – giurisdizione
+  - – amministrativa 122
+  - – civile 122, 123
+  - – penale 122, 123
 
-- [tab] – incompatibilità 87
+- – incompatibilità 87
 
 **Gran Consiglio** 94 ss
 
-- [tab] – atti legislativi del 91
-- [tab] – bilancio di previsione 113
-- [tab] – chiesta di votazione popolare 46
-- [tab] – circostanze straordinarie 117
-- [tab] – Consiglio della magistratura 126
-  - [tab] – preavviso delle candidature 128
-  - [tab] – informazione del 127
+- – atti legislativi del 91
+- – bilancio di previsione 113
+- – chiesta di votazione popolare 46
+- – circostanze straordinarie 117
+- – Consiglio della magistratura 126
+  - – preavviso delle candidature 128
+  - – informazione del 127
 
-- [tab] – conto di Stato annuale 113
-- [tab] – dichiarazione d’invalidità delle iniziative popolari 43
-- [tab] – disegni di atti legislativi 111
-- [tab] – elezione
-  - [tab] – dei membri del 40
-  - [tab] – del presidente del Tribunale cantonale 124
+- – conto di Stato annuale 113
+- – dichiarazione d’invalidità delle iniziative popolari 43
+- – disegni di atti legislativi 111
+- – elezione
+  - – dei membri del 40
+  - – del presidente del Tribunale cantonale 124
 
-- [tab] – Gran Consiglio
-  - [tab] – alta vigilanza del 104
-  - [tab] – approvazione del
+- – Gran Consiglio
+  - – alta vigilanza del 104
+  - – approvazione del
   - – bilancio di previsione 102
   - – conto di Stato annuale 102
-  - [tab] – competenze del 99
-  - [tab] – composizione del 95
-  - [tab] – elezione
+  - – competenze del 99
+  - – composizione del 95
+  - – elezione
   - – da parte del 103
   - – del 95
   - – del presidente del Consiglio di Stato 107
-  - [tab] – pianificazione 101
-  - [tab] – rapporti con il Consiglio di Stato 98
-  - [tab] – ruolo del 94 sedute del 96
-  - [tab] – segreteria del 9
+  - – pianificazione 101
+  - – rapporti con il Consiglio di Stato 98
+  - – ruolo del 94 sedute del 96
+  - – segreteria del 9
 
-- [tab] – immunità dei membri del 89
-- [tab] – incompatibilità 87
-- [tab] – informazione dei membri del 88
-- [tab] – libertà di parola dei membri del 89
-- [tab] – mezzi necessari per assicurare la
-  - [tab] – celerità della giustizia 120
-  - [tab] – qualità della giustizia 120
+- – immunità dei membri del 89
+- – incompatibilità 87
+- – informazione dei membri del 88
+- – libertà di parola dei membri del 89
+- – mezzi necessari per assicurare la
+  - – celerità della giustizia 120
+  - – qualità della giustizia 120
 
-- [tab] – mozione al 47
-- [tab] – presentazione del
-  - [tab] – piano finanziario 112
-  - [tab] – programma di legislatura 122
+- – mozione al 47
+- – presentazione del
+  - – piano finanziario 112
+  - – programma di legislatura 122
 
-- [tab] – rapporti con il Gran Consiglio 109
-- [tab] – referendum obbligatorio 45
-- [tab] – relazioni esterne 114
-- [tab] – revisione
-  - [tab] – parziale della Costituzione 145
-  - [tab] – totale della Costituzione 144
+- – rapporti con il Gran Consiglio 109
+- – referendum obbligatorio 45
+- – relazioni esterne 114
+- – revisione
+  - – parziale della Costituzione 145
+  - – totale della Costituzione 144
 
-- [tab] – trattati
-  - [tab] – intercantonali 100
-  - [tab] – internazionali 100
+- – trattati
+  - – intercantonali 100
+  - – internazionali 100
 
-- [tab] – trattazione dell’iniziativa popolare da parte del 44
-- [tab] – trattazione di mozioni popolari da parte del Gran Consiglio 47
-- [tab] – urgenza degli atti del 92
-- [tab] – veto del 93
+- – trattazione dell’iniziativa popolare da parte del 44
+- – trattazione di mozioni popolari da parte del Gran Consiglio 47
+- – urgenza degli atti del 92
+- – veto del 93
 
 **Imposta (e)**
 
-- [tab] – cantonali 102
-- [tab] – comunali 132
-- [tab] – determinazione da parte
-  - [tab] – dei comuni delle imposte comunali 132
-  - [tab] – del Gran Consiglio delle imposte cantonali 102
+- – cantonali 102
+- – comunali 132
+- – determinazione da parte
+  - – dei comuni delle imposte comunali 132
+  - – del Gran Consiglio delle imposte cantonali 102
 
-- [tab] – di culto 143
-- [tab] – riscossione da parte
-  - [tab] – delle imposte di culto 143
-  - [tab] – di Comuni di 82 Stato di 82
+- – di culto 143
+- – riscossione da parte
+  - – delle imposte di culto 143
+  - – di Comuni di 82 Stato di 82
 
 Indennità
 
-- [tab] – in caso di espropriazione 28
+- – in caso di espropriazione 28
 
 Iniziativa
 
-- [tab] – aggregazioni 135
-- [tab] – diritto d’ 50
-  - [tab] – diritto d iniziativa nelle Associazioni di Comuni 51
+- – aggregazioni 135
+- – diritto d’ 50
+  - – diritto d iniziativa nelle Associazioni di Comuni 51
 
-- [tab] – forma dell’ 42
-  - [tab] – progetto elaborato 42
-  - [tab] – proposta generica 42
+- – forma dell’ 42
+  - – progetto elaborato 42
+  - – proposta generica 42
 
-- [tab] – oggetto dell’iniziativa popolare 41
-- [tab] – trattazione da parte del Gran Consiglio 44
-- [tab] – revisione
-  - [tab] – parziale della Costituzione 145
-  - [tab] – totale della Costituzione 144
+- – oggetto dell’iniziativa popolare 41
+- – trattazione da parte del Gran Consiglio 44
+- – revisione
+  - – parziale della Costituzione 145
+  - – totale della Costituzione 144
 
-- [tab] – iniziativa popolare 144, 145
+- – iniziativa popolare 144, 145
 
 Istruzione
 
-- [tab] – di base 18, 64
-- [tab] – diritto a un’istruzione di base
-  - [tab] – garantito 18
-  - [tab] – gratuita 18
-  - [tab] – sufficiente 18
+- – di base 18, 64
+- – diritto a un’istruzione di base
+  - – garantito 18
+  - – gratuita 18
+  - – sufficiente 18
 
-- [tab] – per tutti i fanciulli 64
-- [tab] – vigilanza dello Stato su scuole private
-  - [tab] – che assicurano l’istruzione di base 67
-  - [tab] – sussidiate 67
+- – per tutti i fanciulli 64
+- – vigilanza dello Stato su scuole private
+  - – che assicurano l’istruzione di base 67
+  - – sussidiate 67
 
 **Interesse pubblico**
 
-- [tab] – delega dell’adempimento di compiti a terzi 54
-- [tab] – limitazioni a diritti fondamentali 38
-- [tab] – monopoli 58
-- [tab] – principi dell’attività statale 4
-- [tab] – regalìe 58
-- [tab] – sostegno di organizzazioni della società civile 137
+- – delega dell’adempimento di compiti a terzi 54
+- – limitazioni a diritti fondamentali 38
+- – monopoli 58
+- – principi dell’attività statale 4
+- – regalìe 58
+- – sostegno di organizzazioni della società civile 137
 
 **Legge/i**
 
-- [tab] – accesso alla giustizia 30
-- [tab] – adempiono dei compiti affidati 130
-- [tab] – amministrazione della giustizia 120
-- [tab] – associazioni di Comuni 51
-- [tab] – autorizzazione per
-  - [tab] – manifestazioni su suolo pubblico 24
-  - [tab] – riunioni su suolo pubblico 24
+- – accesso alla giustizia 30
+- – adempiono dei compiti affidati 130
+- – amministrazione della giustizia 120
+- – associazioni di Comuni 51
+- – autorizzazione per
+  - – manifestazioni su suolo pubblico 24
+  - – riunioni su suolo pubblico 24
 
-- [tab] – circondari elettorali 95
-- [tab] – competenze elettorali 103
-- [tab] – delega a terzi di compiti 54
-- [tab] – deleghe delle competenze legislative 93
-- [tab] – diritto di
-  - [tab] – eleggere in materia comunale 48
-  - [tab] – votare in materia comunale 48
+- – circondari elettorali 95
+- – competenze elettorali 103
+- – delega a terzi di compiti 54
+- – deleghe delle competenze legislative 93
+- – diritto di
+  - – eleggere in materia comunale 48
+  - – votare in materia comunale 48
 
-- [tab] – distretti 136
-- [tab] – divieto di sciopero per certe categorie di persone 27
-- [tab] – eleggibilità alle funzioni 86
-- [tab] – esclusione dal diritto di voto 39
-- [tab] – esclusione del diritto di
-  - [tab] – eleggere in materia comunale 48
-  - [tab] – votare in materia comunale 48
+- – distretti 136
+- – divieto di sciopero per certe categorie di persone 27
+- – eleggibilità alle funzioni 86
+- – esclusione dal diritto di voto 39
+- – esclusione del diritto di
+  - – eleggere in materia comunale 48
+  - – votare in materia comunale 48
 
-- [tab] – finanze 113
-- [tab] – forme degli atti delle autorità 91
-- [tab] – incompatibilità 87
-- [tab] – iniziativa popolare
-  - [tab] – abrogazione di una 41
-  - [tab] – emanazione di una 41
-  - [tab] – modifica di una 41
+- – finanze 113
+- – forme degli atti delle autorità 91
+- – incompatibilità 87
+- – iniziativa popolare
+  - – abrogazione di una 41
+  - – emanazione di una 41
+  - – modifica di una 41
 
-- [tab] – istituzione di autorità giudiziarie speciali 123
-- [tab] – legislazione 111
-- [tab] – levata dell’immunità dei membri del
-  - [tab] – Consiglio di Stato 89
-  - [tab] – Gran Consiglio 89
+- – istituzione di autorità giudiziarie speciali 123
+- – legislazione 111
+- – levata dell’immunità dei membri del
+  - – Consiglio di Stato 89
+  - – Gran Consiglio 89
 
-- [tab] – limitazione di un diritto
-  - [tab] – fondamentale 38
-  - [tab] – sociale 38
+- – limitazione di un diritto
+  - – fondamentale 38
+  - – sociale 38
 
-- [tab] – motivazione per iscritto delle decisioni 29
-- [tab] – naturalizzazione degli stranieri 69
-- [tab] – procedura giudiziaria 31
-- [tab] – pubblicità delle sedute del Gran Consiglio 96
-- [tab] – referendum facoltativo 46
-- [tab] – responsabilità degli enti pubblici 90
-- [tab] – revoca dei membri del
-  - [tab] – Ministero pubblico 121
-  - [tab] – potere giudiziario 121
+- – motivazione per iscritto delle decisioni 29
+- – naturalizzazione degli stranieri 69
+- – procedura giudiziaria 31
+- – pubblicità delle sedute del Gran Consiglio 96
+- – referendum facoltativo 46
+- – responsabilità degli enti pubblici 90
+- – revoca dei membri del
+  - – Ministero pubblico 121
+  - – potere giudiziario 121
 
-- [tab] – ripartizione dei compiti tra
-  - [tab] – Comuni 53
-  - [tab] – Stato 53
+- – ripartizione dei compiti tra
+  - – Comuni 53
+  - – Stato 53
 
-- [tab] – riscossione delle imposte di culto 143
-- [tab] – Tribunale cantonale 124
-- [tab] – uguaglianza dinanzi alla 9
+- – riscossione delle imposte di culto 143
+- – Tribunale cantonale 124
+- – uguaglianza dinanzi alla 9
 
 **Libertà**
 
-- [tab] – d’informazione 19
-- [tab] – dei mezzi di comunicazione sociale 20
-- [tab] – dell’arte 21
-- [tab] – dell’insegnamento 22
-- [tab] – della ricerca scientifici 22
-- [tab] – di coscienza 15
-- [tab] – di credo 15
-- [tab] – di lingua 17
-- [tab] – di movimento 11
-- [tab] – di opinione 19
-- [tab] – di parola 89
-- [tab] – diritto alla libertà personale 11
-- [tab] – economica 26, 57
-- [tab] – scelta di forma di convivenza 14
-- [tab] – scopi perseguiti dallo Stato nel rispetto della 3
-- [tab] – sindacale 27
+- – d’informazione 19
+- – dei mezzi di comunicazione sociale 20
+- – dell’arte 21
+- – dell’insegnamento 22
+- – della ricerca scientifici 22
+- – di coscienza 15
+- – di credo 15
+- – di lingua 17
+- – di movimento 11
+- – di opinione 19
+- – di parola 89
+- – diritto alla libertà personale 11
+- – economica 26, 57
+- – scelta di forma di convivenza 14
+- – scopi perseguiti dallo Stato nel rispetto della 3
+- – sindacale 27
 
 **Lingua**
 
-- [tab] – bilinguismo 6
-- [tab] – comunità linguistiche 6
-- [tab] – istruzione di base 64
-- [tab] – libertà di 17
-- [tab] – lingue ufficiali del Cantone 6
-- [tab] – minoranze linguistiche 6
-- [tab] – prima lingua straniera 64
+- – bilinguismo 6
+- – comunità linguistiche 6
+- – istruzione di base 64
+- – libertà di 17
+- – lingue ufficiali del Cantone 6
+- – minoranze linguistiche 6
+- – prima lingua straniera 64
 
 **Maggioritario**
 
-- [tab] – elezione dei deputati
-  - [tab] – al Consiglio degli Stati 40
-  - [tab] – del Consiglio di Stato 106
+- – elezione dei deputati
+  - – al Consiglio degli Stati 40
+  - – del Consiglio di Stato 106
 
-- [tab] – sistema 40, 106
+- – sistema 40, 106
 
 Municipio
 
-- [tab] – elezione dei membri del 49
-- [tab] – organi dei comuni 131
+- – elezione dei membri del 49
+- – organi dei comuni 131
 
 Nomine
 
-- [tab] – nomine da parte del Consiglio di Stato 116
+- – nomine da parte del Consiglio di Stato 116
 
 **Ordinanza/e**
 
-- [tab] – atti delle autorità 91
+- – atti delle autorità 91
 
 **Ordine pubblico**
 
-- [tab] – mantenimento dell’ 76
+- – mantenimento dell’ 76
 
 Organizzazione/i
 
-- [tab] – organizzazioni
-  - [tab] – internazionali 5
-  - [tab] – nazionali 5 regionali 5
+- – organizzazioni
+  - – internazionali 5
+  - – nazionali 5 regionali 5
 
-- [tab] – libertà sindacale 27
-- [tab] – organizzazione delle Chiese riconosciute 141
-- [tab] – organizzazione generale della giustizia 120
-- [tab] – sostegno delle organizzazioni della società civile 137
+- – libertà sindacale 27
+- – organizzazione delle Chiese riconosciute 141
+- – organizzazione generale della giustizia 120
+- – sostegno delle organizzazioni della società civile 137
 
 Pace
 
-- [tab] – del lavoro 27
-- [tab] – giudicature di 123
-- [tab] – giudici di 123
-- [tab] – libertà sindacale 27
+- – del lavoro 27
+- – giudicature di 123
+- – giudici di 123
+- – libertà sindacale 27
 
 Partiti 139
 
-- [tab] – funzionamento della democrazia 139
+- – funzionamento della democrazia 139
 
 Periodo amministrativo 153
 
 Perequazione finanziaria 133
 
-- [tab] – disparità tra i Comuni 153
+- – disparità tra i Comuni 153
 
 Petizione
 
-- [tab] – diritto di 25
+- – diritto di 25
 
 Popolo
 
-- [tab] – aggregazioni di comuni 135
-- [tab] – benessere della popolazione 130
-- [tab] – diritti del 94
-- [tab] – elezione dal
-  - [tab] – Popolo del Consiglio di Stato 106
-  - [tab] – prefetto da parte del 136
+- – aggregazioni di comuni 135
+- – benessere della popolazione 130
+- – diritti del 94
+- – elezione dal
+  - – Popolo del Consiglio di Stato 106
+  - – prefetto da parte del 136
 
-- [tab] – elezioni dei
-  - [tab] – deputati friburghesi al Consiglio degli Stati 40
-  - [tab] – membri del
+- – elezioni dei
+  - – deputati friburghesi al Consiglio degli Stati 40
+  - – membri del
   - – Consiglio di Stato 40
   - – Gran Consiglio 40
-  - [tab] – prefetti 40
+  - – prefetti 40
 
-- [tab] – iniziativa popolare 41
-- [tab] – mozione popolare 47
-- [tab] – popolazione
-  - [tab] – consultazione della 51
-  - [tab] – informazione della 51
+- – iniziativa popolare 41
+- – mozione popolare 47
+- – popolazione
+  - – consultazione della 51
+  - – informazione della 51
 
-- [tab] – protezione della popolazione 3
-- [tab] – provvedimenti per proteggere la popolazione 68
-- [tab] – referendum
-  - [tab] – facoltativo 46
-  - [tab] – obbligatorio 45
+- – protezione della popolazione 3
+- – provvedimenti per proteggere la popolazione 68
+- – referendum
+  - – acoltativo 46
+  - – obbligatorio 45
 
-- [tab] – revisione
-  - [tab] – parziale della Costituzione 145
-  - [tab] – totale della Costituzione 144
+- – revisione
+  - – parziale della Costituzione 145
+  - – totale della Costituzione 144
 
-- [tab] – scambi tra i popoli 70
-- [tab] – urgenza 92
+- – scambi tra i popoli 70
+- – urgenza 92
 
 Progetti
 
-- [tab] – controprogetto del Gran Consiglio 44
-- [tab] – forma dell’iniziativa popolare 42
-- [tab] – revisione totale della Costituzione 144
+- – controprogetto del Gran Consiglio 44
+- – forma dell’iniziativa popolare 42
+- – revisione totale della Costituzione 144
 
 Proposta generica
 
-- [tab] – iniziativa popolare 42
+- – iniziativa popolare 42
 
 **Proporzionale**
 
-- [tab] – elezione dei membri del Gran Consiglio 95
-- [tab] – maternità 33
-- [tab] – sistema proporzionale 95
+- – elezione dei membri del Gran Consiglio 95
+- – maternità 33
+- – sistema proporzionale 95
 
 Proprietà 28
 
-- [tab] – accesso alla 56
-- [tab] – espropriazione 28
-- [tab] – garanzia della 28
+- – accesso alla 56
+- – espropriazione 28
+- – garanzia della 28
 
 Pubblicità
 
-- [tab] – gestione finanziaria 82
+- – gestione finanziaria 82
 
 Referendum
 
-- [tab] – atti delle autorità 91
-- [tab] – diritto di referendum degli elettori 50, 51
-- [tab] – facoltativo 46
-- [tab] – obbligatorio 45
-- [tab] – referendum finanziario 99
-- [tab] – urgenza 92
+- – atti delle autorità 91
+- – diritto di referendum degli elettori 50, 51
+- – facoltativo 46
+- – obbligatorio 45
+- – referendum finanziario 99
+- – urgenza 92
 
 Responsabilità ingresso, 90
 
-- [tab] – assunzione della propria 7
-- [tab] – degli enti pubblici 90
-- [tab] – degli operatori scientifici verso
-  - [tab] – gli esseri umani 22
-  - [tab] – la fauna 22
-  - [tab] – la flora 12
+- – assunzione della propria 7
+- – degli enti pubblici 90
+- – degli operatori scientifici verso
+  - – gli esseri umani 22
+  - – la fauna 22
+  - – la flora 12
 
-- [tab] – dell’essere umano 3
-- [tab] – istruzione di base 64
-- [tab] – per atto
-  - [tab] – illecito 91
-  - [tab] – lecito 90
+- – dell’essere umano 3
+- – istruzione di base 64
+- – per atto
+  - – illecito 91
+  - – lecito 90
 
-- [tab] – senso di 64
+- – senso di 64
 
 Revisione della Costituzione 144 ss
 
-- [tab] – proposta del Gran Consiglio di 99
-- [tab] – revisione
-  - [tab] – parziale 145
-  - [tab] – totale 144
+- – proposta del Gran Consiglio di 99
+- – revisione
+  - – parziale 145
+  - – totale 144
 
 Scuola (e)
 
-- [tab] – strutture di accoglienza 60
-- [tab] – formazione 64
-- [tab] – diritto di organizzare un insegnamento religioso nell’ambito della scuola dell’obbligo 64
+- – strutture di accoglienza 60
+- – formazione 64
+- – diritto di organizzare un insegnamento religioso nell’ambito della scuola dell’obbligo 64
 
 **Sesso**
 
-- [tab] – cittadinanza
-  - [tab] – cantonale attiva 39
-  - [tab] – comunale attiva 48
+- – cittadinanza
+  - – cantonale attiva 39
+  - – comunale attiva 48
 
-- [tab] – coppia omosessuale 14
-- [tab] – unione domestica 14
+- – coppia omosessuale 14
+- – unione domestica 14
 
 **Sistema**
 
-- [tab] – di prestazioni in favore di ogni figlio 60
-- [tab] – elezione dei membri del
-  - [tab] – Consiglio di Stato 106
-  - [tab] – Gran Consiglio 95
+- – di prestazioni in favore di ogni figlio 60
+- – elezione dei membri del
+  - – Consiglio di Stato 106
+  - – Gran Consiglio 95
 
-- [tab] – maggioritario 40, 106
-- [tab] – proporzionale 95
+- – maggioritario 40, 106
+- – proporzionale 95
 
 **Società civile** 137 ss
 
 **Stato**
 
-- [tab] – accoglienza degli stranieri 69
-- [tab] – aggregazioni 135
-- [tab] – agricoltura e silvicoltura 74
-- [tab] – aiuto
-  - [tab] – sociale 55
-  - [tab] – umanitario 70
+- – accoglienza degli stranieri 69
+- – aggregazioni 135
+- – agricoltura e silvicoltura 74
+- – aiuto
+  - – sociale 55
+  - – umanitario 70
 
-- [tab] – alloggio 56
-- [tab] – approvazione
-  - [tab] – del bilancio di previsione 102
-  - [tab] – dello conto di Stato annuale 102
+- – alloggio 56
+- – approvazione
+  - – del bilancio di previsione 102
+  - – dello conto di Stato annuale 102
 
-- [tab] – approvvigionamento
-  - [tab] – energetico 77
-  - [tab] – idrico 77
+- – approvvigionamento
+  - – energetico 77
+  - – idrico 77
 
-- [tab] – assetto del territorio 72
-- [tab] – attività dello 4
-- [tab] – bilinguismo 6
-- [tab] – buona intesa 6
-- [tab] – Cancelleria dello 98, 108, 109
-- [tab] – cancelliere dello 108
-- [tab] – catastrofi e situazioni di emergenza 75
-- [tab] – Chiese
-  - [tab] – cattolica romana 141
-  - [tab] – evangelica riformata 141
+- – assetto del territorio 72
+- – attività dello 4
+- – bilinguismo 6
+- – buona intesa 6
+- – Cancelleria dello 98, 108, 109
+- – cancelliere dello 108
+- – catastrofi e situazioni di emergenza 75
+- – Chiese
+  - – cattolica romana 141
+  - – evangelica riformata 141
 
-- [tab] – chiese riconosciute 141
-- [tab] – collaborazione intercomunale 134
-- [tab] – commercio equo 70
-- [tab] – comprensione 6
-- [tab] – conferimento della cittadinanza 69
-- [tab] – conto di Stato 113
-- [tab] – cooperazione allo sviluppo 70
-- [tab] – delega di compiti a terzi 54, 137
-- [tab] – divieto dell’arbitrarietà 10
-- [tab] – equilibrio corrente delle proprie finanze 83
-- [tab] – formazione
-  - [tab] – liceale 65
-  - [tab] – professionale 65
-  - [tab] – secondaria 65
-  - [tab] – superiore 65
+- – chiese riconosciute 141
+- – collaborazione intercomunale 134
+- – commercio equo 70
+- – comprensione 6
+- – conferimento della cittadinanza 69
+- – conto di Stato 113
+- – cooperazione allo sviluppo 70
+- – delega di compiti a terzi 54, 137
+- – divieto dell’arbitrarietà 10
+- – equilibrio corrente delle proprie finanze 83
+- – formazione
+  - – liceale 65
+  - – professionale 65
+  - – secondaria 65
+  - – superiore 65
 
-- [tab] – gestione delle finanze pubbliche 82
-- [tab] – integrazione degli
-  - [tab] – sociale 61
-  - [tab] – stranieri 69
+- – gestione delle finanze pubbliche 82
+- – integrazione degli
+  - – sociale 61
+  - – stranieri 69
 
-- [tab] – istituzioni di monopoli 58
-- [tab] – istruzione di base
-  - [tab] – gratuita 64
-  - [tab] – obbligatoria 64
+- – istituzioni di monopoli 58
+- – istruzione di base
+  - – gratuita 64
+  - – obbligatoria 64
 
-- [tab] – lingua 6
-- [tab] – lotta contro
-  - [tab] – le immissioni nocive 71
-  - [tab] – ogni forma di inquinamento 71
+- – lingua 6
+- – lotta contro
+  - – le immissioni nocive 71
+  - – ogni forma di inquinamento 71
 
-- [tab] – monopolio della forza pubblica 76
-- [tab] – natura e patrimonio culturale 73
-- [tab] – naturalizzazione degli stranieri 69
-- [tab] – perequazione finanziaria 133
-- [tab] – persone
-  - [tab] – affette da dipendenza 63
-  - [tab] – vulnerabili 63
+- – monopolio della forza pubblica 76
+- – natura e patrimonio culturale 73
+- – naturalizzazione degli stranieri 69
+- – perequazione finanziaria 133
+- – persone
+  - – affette da dipendenza 63
+  - – vulnerabili 63
 
-- [tab] – politica dei giovani 61
-- [tab] – prestazioni in favore di ogni figlio 60
-- [tab] – prevenzione di situazioni di precariato 55
-- [tab] – principi dell’attività dello 52
-- [tab] – promozione
-  - [tab] – del civismo 137
-  - [tab] – dell’accesso alla proprietà
+- – politica dei giovani 61
+- – prestazioni in favore di ogni figlio 60
+- – prevenzione di situazioni di precariato 55
+- – principi dell’attività dello 52
+- – promozione
+  - – del civismo 137
+  - – dell’accesso alla proprietà
   - – dell’abitazione 56
   - – dell’aiuto all’alloggio 56
   - – della costruzione di abitazioni 56
-  - [tab] – dell’uguaglianza di
+  - – dell’uguaglianza di
   - – diritto 9
   - – fatto 9
-  - [tab] –dello spirito di cittadinanza 137
+  - – dello spirito di cittadinanza 137
 
-- [tab] – promozione della salute 68
-- [tab] – protezione delle famiglie 59
-- [tab] – provvedimenti per
-  - [tab] – compensare le disparità che colpiscono i disabili 9
-  - [tab] – favorire i disabili 9
+- – promozione della salute 68
+- – protezione delle famiglie 59
+- – provvedimenti per
+  - – compensare le disparità che colpiscono i disabili 9
+  - – favorire i disabili 9
 
-- [tab] – referendum
-  - [tab] – facoltativo 46
-  - [tab] – obbligatorio 45
+- – referendum
+  - – facoltativo 46
+  - – obbligatorio 45
 
-- [tab] – relazioni tra le generazioni 62
-- [tab] – riconoscimento del ruolo importante delle
-  - [tab] – Chiese 140
-  - [tab] – comunità religiose 140
+- – relazioni tra le generazioni 62
+- – riconoscimento del ruolo importante delle
+  - – Chiese 140
+  - – comunità religiose 140
 
-- [tab] – ripartizione dei compiti tra
-  - [tab] – Comuni 53
-  - [tab] – Stato 53
+- – ripartizione dei compiti tra
+  - – Comuni 53
+  - – Stato 53
 
-- [tab] – ripartizione territoriale tradizionale delle lingue 6
-- [tab] – riscossione di
-  - [tab] – altri tributi 81
-  - [tab] – imposte 81
+- – ripartizione territoriale tradizionale delle lingue 6
+- – riscossione di
+  - – altri tributi 81
+  - – imposte 81
 
-- [tab] – salvaguardia dell’ambiente naturale 71
-- [tab] – scambi tra
-  - [tab] – i popoli 70
-  - [tab] – le comunità linguistiche 6
+- – salvaguardia dell’ambiente naturale 71
+- – scambi tra
+  - – i popoli 70
+  - – le comunità linguistiche 6
 
-- [tab] – scopi dello 3
-- [tab] – sicurezza e ordine pubblici 76
-- [tab] – sostegno
-  - [tab] – alle associazioni 138
-  - [tab] – delle organizzazioni della società civile 137
-  - [tab] – finanziario 139
-  - [tab] – delle famiglie 59
+- – scopi dello 3
+- – sicurezza e ordine pubblici 76
+- – sostegno
+  - – alle associazioni 138
+  - – delle organizzazioni della società civile 137
+  - – finanziario 139
+  - – delle famiglie 59
 
-- [tab] – sport e tempo libero 80
-- [tab] – Stato di diritto
-  - [tab] – democratico 1
-  - [tab] – liberale 1 sociale 1
+- – sport e tempo libero 80
+- – Stato di diritto
+  - – democratico 1
+  - – liberale 1 sociale 1
 
-- [tab] – strutture di accoglienza, dalla prima infanzia fino all’inizio della scuola 60
-- [tab] – sussidio alle scuole private d’utilità 67
-- [tab] – trasporti e comunicazioni 78
-- [tab] – vigilanza sulle finanze dello 84
-- [tab] – vita culturale 79
+- – strutture di accoglienza, dalla prima infanzia fino all’inizio della scuola 60
+- – sussidio alle scuole private d’utilità 67
+- – trasporti e comunicazioni 78
+- – vigilanza sulle finanze dello 84
+- – vita culturale 79
 
 **Stemma** 2
 
 Territorio
 
-- [tab] – ambiente e territorio 71
-- [tab] – assetto del 72
-- [tab] – del Cantone 2
-- [tab] – distretti amministrativi 136
-- [tab] – territorio che gli è garantito dalla Confederazione 2
+- – ambiente e territorio 71
+- – assetto del 72
+- – del Cantone 2
+- – distretti amministrativi 136
+- – territorio che gli è garantito dalla Confederazione 2
 
 Trasparenza
 
-- [tab] – obbligo di 139*a*
-- [tab] – principio di 52
+- – obbligo di 139*a*
+- – principio di 52
 
 Tribunale (i)
 
-- [tab] – autorità giudiziarie speciali 123
-- [tab] – divieto dei tribunali d’eccezione 31
-- [tab] – elezione da parte del Gran Consiglio del presidente del Tribunale cantonale 103
-- [tab] – giurisdizione
-  - [tab] – amministrativa 123
+- – autorità giudiziarie speciali 123
+- – divieto dei tribunali d’eccezione 31
+- – elezione da parte del Gran Consiglio del presidente del Tribunale cantonale 103
+- – giurisdizione
+  - – amministrativa 123
   - – Tribunale cantonale 123, 124
-  - [tab] – civile 123
+  - – civile 123
   - – giudicature di pace 123
   - – giudici di pace 123
   - – Tribunale cantonale 123
   - – tribunali civili 123
-  - [tab] – penale 123
+  - – penale 123
   - – Camera penale dei minorenni 123
   - – giudici istruttori 123
   - – prefetti 123
@@ -2465,57 +2468,58 @@ Tribunale (i)
   - – economico 123
   - – tribunali penali 123
 
-- [tab] – procedura giudiziaria 31
+- – procedura giudiziaria 31
 
 Uguaglianza 9
 
-- [tab] – di
-  - [tab] – diritto 9
-  - [tab] – fatto 9
+- – di
+  - – diritto 9
+  - – fatto 9
 
-- [tab] – dinanzi alla legge 9
-- [tab] – imposte 81
+- – dinanzi alla legge 9
+- – imposte 81
 
 Vigilanza
 
-- [tab] – alta vigilanza esercitata dal Gran Consiglio 104
-- [tab] – delega al Tribunale cantonale della vigilanza amministrativa 127
-- [tab] – delegatari sottostanno alla vigilanza dell’ente delegante 54
-- [tab] – persone sottoposte alla vigilanza del Consiglio di Stato 109
-- [tab] – vigilanza
-  - [tab] – amministrativa sul
+- – alta vigilanza esercitata dal Gran Consiglio 104
+- – delega al Tribunale cantonale della vigilanza amministrativa 127
+- – delegatari sottostanno alla vigilanza dell’ente delegante 54
+- – persone sottoposte alla vigilanza del Consiglio di Stato 109
+- – vigilanza
+  - – amministrativa sul
   - – Ministero pubblico 127
   - – potere giudiziario 127
-  - [tab] – disciplinare sul
+  - – disciplinare sul
   - – Ministero pubblico 127
   - – potere giudiziario 127
 
-- [tab] – vigilanza
-  - [tab] – del Consiglio di Stato sui Comuni 115
-  - [tab] – su scuole private
+- – vigilanza
+  - – del Consiglio di Stato sui Comuni 115
+  - – su scuole private
   - – che assicurano l’istruzione di base 67
   - – sussidiate 67
-  - [tab] – sul potere giudiziario 125
-  - [tab] – sulle finanze
+  - – sul potere giudiziario 125
+  - – sulle finanze
   - – dei Comuni 84
   - – dello Stato 84
 
 Vita privata 12
 
-- [tab] – diritto al rispetto della 12
+- – diritto al rispetto della 12
 
 Votazioni
 
-- [tab] – referendum facoltativo 46
+- – referendum facoltativo 46
 
 Voto
 
-- [tab] – cittadinanza attiva in materia
-  - [tab] – cantonale 39
-  - [tab] – comunale 48
+- – cittadinanza attiva in materia
+  - – cantonale 39
+  - – comunale 48
 
-- [tab] – esclusione dal diritto di 48
-- [tab] – referendum
-  - [tab] – facoltativo 46
-  - [tab] – obbligatorio 45
-  - [tab] – voto dei membri del Gran Consiglio 96
+- – esclusione dal diritto di 48
+- – referendum
+  - – facoltativo 46
+  - – obbligatorio 45
+
+- – voto dei membri del Gran Consiglio 96
