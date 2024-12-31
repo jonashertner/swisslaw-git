@@ -3,20 +3,19 @@ canton: BL
 number: "715.111"
 title: "Verwaltungsvereinbarung zwischen dem Kanton Basel-Landschaft und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Polizei Basel-Landschaft und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung"
 language: de
-version: 2009-10-13
-valid_until: 2024-12-31
-version_adopted: 2009-10-13
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2009-10-13
 in_force: 2009-10-13
 url: "https://bl.clex.ch/app/de/texts_of_law/715.111"
-pdf: "https://bl.clex.ch/api/de/versions/2448/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verwaltungsvereinbarung zwischen dem Kanton Basel-Landschaft und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Polizei Basel-Landschaft und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung
 
-Vom 13.10.2009 (Stand 13.10.2009)
+Vom 13.10.2009 (Stand 01.01.2025)
 
 Der Kanton Basel-Landschaft und die Schweizerische Eidgenossenschaft, vertreten durch das Finanzdepartement,
 
@@ -266,7 +265,7 @@ beschliessen:
 
 #### Art. 26
 
-**Wegweisungsverfahren Absprache Amt für Migration BL**
+**Wegweisungsverfahren, Absprache Amt für Migration, Integration und Bürgerrecht BL**
 
 <sup>1</sup> Das GWK eröffnet und vollzieht, soweit möglich, Wegweisungen aus dem Kanton BL selbständig.
 
