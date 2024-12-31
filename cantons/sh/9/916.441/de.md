@@ -1,201 +1,101 @@
 ---
 canton: SH
 number: "916.441"
-title: Verordnung über die Entschädigung der Beauftragten der Tierseuchenbekämpfung und des Tierschutzes
+title: Verordnung über die Entschädigung der Beauftragten im Bereich des Veterinärwesens
 language: de
-version: 2010-01-01
-corrected: 2024-06-16
-version_adopted: 2010-03-23
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/916.441"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/287/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1959/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Entschädigung der Beauftragten der Tierseuchenbekämpfung und des Tierschutzes
+# Verordnung über die Entschädigung der Beauftragten im Bereich des Veterinärwesens
 
-vom 18. Oktober 1994
+Vom 17.12.2024 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 59 Abs. 1 des Bundesgesetzes vom 1. Juli 1966 über die Bekämpfung von Tierseuchen[^t-1],
+gestützt auf Art. 59 Abs. 1 des Tierseuchengesetzes[^ingress-1], Art. 42 Abs. 1 des Tierschutzgesetzes[^ingress-2], Art. 50 Abs. 1 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände[^ingress-3] und Art. 26 des Hundegesetzes[^ingress-4],
 
 verordnet:
 
-[^t-1]: SR 916.40.
+[^ingress-1]: SR 916.40
+[^ingress-2]: SR 455
+[^ingress-3]: SR 817.0
+[^ingress-4]: SHR 455.200
 
-### I. Festlegung der Ansätze
-
-[^hIFestlegungderAn-1]: Fassung gemäss RRB vom 23. März 2010, in Kraft getreten am 1. Januar 2010 (Amtsblatt 2010, S. 461).
+## 1 Geltungsbereich
 
 #### § 1
 
-**Taxpunkte**[^hIFestlegungderAn-1]
+<sup>1</sup> Diese Verordnung regelt die Entschädigung der Tierärztinnen und Tierärzte sowie der weiteren Beauftragten gemäss § 5 dieser Verordnung im Rahmen von Aufträgen der Vollzugsbehörde.
 
-<sup>1</sup> Die Entschädigungsansätze werden grundsätzlich in Taxpunkten (TP) festgelegt.
+<sup>2</sup> Aufträge im Rahmen der Schlachttieruntersuchung und der Fleischkontrolle richten sich nach der Verordnung über die Gebühren für die Fleischkontrolle und über die Entschädigung der Fleischkontrollorgane[^1-1].
 
-<sup>2</sup> Ein TP beträgt Fr. 1.48. Ab 1. Januar 2011 wird dieser jeweils der Teuerung angepasst analog der Besoldung des Staatspersonals.
+[^1-1]: SHR 817.102
 
-### II. Entschädigung der Tierärzte und Tierärztinnen
+## 2 Grundsätze
 
 #### § 2
 
-**Allgemeine Entschädigung**
+<sup>1</sup> Die für amtliche Aufgaben beigezogenen Beauftragten werden grundsätzlich nach Zeitaufwand entschädigt.
 
-<sup>1</sup> Für die amtlich vom Kanton angeordneten Verrichtungen bei der Bekämpfung anzeigepflichtiger Tierseuchen oder im Bereich des Tierschutzes, für die Vornahme der vom Kantonstierarzt oder der Kantonstierärztin (Veterinäramt) angeordneten Inspektionen, Rapporterstattungen und dergleichen werden nach Zeitaufwand 70 Taxpunkte entschädigt. Ausgenommen sind Verrichtungen gemäss Abs. 2 sowie §§ 3-5.[^2-1]
+<sup>2</sup> Die Reise-, Verpflegungs- und Ausrüstungsentschädigungen, die Auslagen für Klein-, Verbrauchs- und Büromaterial, Postgebühren und das Entgelt für Impf-, Sektions- und Begleitberichte sowie für die Kennzeichnung der Tiere mit Ohrenmarken sind im Stundenansatz inbegriffen.
 
-Amtsblatt 1994, S. 1330; Rechtsbuch 1964, Nr. 150.
+<sup>3</sup> Für Aufträge innerhalb des Kantons werden keine zusätzlichen Entschädigungen für den Anfahrtsweg ausgerichtet. Für Fahrten ausserhalb des Kantons übernimmt der Kanton die Kosten, sofern das Veterinäramt diese angeordnet oder diesen vorgängig zugestimmt hat.
 
-<sup>2</sup> Für den Besuch amtlich vom Kanton angeordneter Fortbildungskurse und Tagungen im Interesse der Tierseuchenbekämpfung oder des Tierschutzes werden entschädigt:
+<sup>4</sup> Fallen im Rahmen der Leistungserbringung zusätzliche Auslagen und Aufwendungen an, insbesondere für den Auftrag zu beschaffende Medikamente, medizinisches Material, Beprobungsutensilien und dergleichen, werden diese vom Kanton übernommen, sofern die Vollzugsbehörde diese angeordnet oder diesen vorgängig zugestimmt hat.
 
-**270 TP 150 TP**
+<sup>5</sup> Die Vollzugsbehörde kann abweichende Stundenansätze, Leistungsvereinbarungen oder Entschädigungspauschalen insbesondere für wiederholte oder regelmässige Tätigkeiten vorsehen.
 
-- a) für den ganzen Tag
+<sup>6</sup> Der Regierungsrat passt die Ansätze der Teuerung an.
 
-- b) für den halben Tag
-
-<sup>3</sup> Die Reise- und Verpflegungsentschädigungen richten sich nach der Verordnung über die Spesenvergütungen an das Staatspersonal[^2-2].
-
-[^2-1]: Fassung gemäss RRB vom 18. November 2008, in Kraft getreten am 1. Januar 2009 (Amtsblatt 2008, S. 1719).
-[^2-2]: SHR 180.112.
+## 3 Entschädigung der Tierärztinnen und Tierärzte
 
 #### § 3
 
-**Rindertuberkolose**
+<sup>1</sup> Der pauschale Stundenansatz für amtliche Aufgaben beträgt Fr. 180.00.
 
-Für die Bestandesuntersuchungen durch die Kontrolltierärzte und Kontrollierärztinnen bei der Bekämpfung der Rindertuberkulose beträgt die Entschädigung:
-
-**28 TP 5 TP**
-
-- a) Grundtaxe je Bestand
-
-- b) Tuberkulinisierung oder Kontrolle je Tier
-
-**7 TP**
-
-- c) Sektion eines Tieres anlässlich der Fleischuntersuchung
+<sup>2</sup> Tätigkeiten ausserhalb der ordentlichen Arbeitszeiten (Montag bis Freitag, 06:00 Uhr bis 20:00 Uhr) und am Wochenende sowie an Feier- und Ruhetagen werden mit einem Zuschlag von Fr. 70.00 pro Stunde entschädigt.
 
 #### § 4
 
-**Probeentnahmen**
+<sup>1</sup> Für den Besuch von von der Vollzugsbehörde angeordneter oder genehmigter fachspezifischer Weiterbildungen und Tagungen werden entschädigt:
 
-<sup>1</sup> Für Probeentnahmen durch die Kontrolltierärzte und Kontrolltierärztinnen bei der Bekämpfung meldepflichtiger Tierkrankheiten sowie für die vom Veterinäramt angeordneten Untersuchungen beträgt die Entschädigung:
+- a) für den ganzen Tag — Fr. 450.00
+- b) für den halben Tag — Fr. 350.00
 
-**22 TP**
+<sup>2</sup> Für kürzere als einen halben Tag angeordnete oder genehmigte fachspezifische Weiterbildungen und Tagungen gemäss Abs. 1 gilt § 3 Abs. 1, wobei die maximale Entschädigung bei Fr. 350.00 liegt.
 
-- a) Grundtaxe je Bestand
+<sup>3</sup> Zusätzlich werden in der Regel die Kurskosten durch den Kanton übernommen.
 
-**5 TP 6 TP 8 TP 4 TP**
+<sup>4</sup> Die Reise- und Verpflegungsentschädigungen für Weiterbildungen und Tagungen richten sich nach der Verordnung über die Spesenvergütungen an das Staatspersonal[^4-1]. Die Vollzugsbehörde kann über zusätzliche Spesenentschädigungen entscheiden.
 
-- b) Entnahme einer Blutprobe bei Anbindehaltung je Tier bei Laufstallhaltung je Tier bei Altstieren je Tier
+[^4-1]: SHR 118.112
 
-- c) Entnahme von Einzelmilchproben je Probe
-
-**15 TP 14 TP 5 TP**
-
-- d) Entnahme von Proben zusammengemischter Milch von höchsten fünf Einzelgemelken je Probe
-
-- e) Entnahme von Kotyledonen je Probe
-
-- f) Entnahme von Kotproben je Probe
-
-<sup>2</sup> In Einzelfällen, bei denen die Verrichtungen gemäss Abs. 1 den ordentlichen Aufwand übersteigen, kann das Veterinäramt die Entschädigung nach § 2 festsetzen.
+## 4 Entschädigung von weiteren Beauftragten
 
 #### § 5
 
-**Schutzimpfungen**
-
-Für angeordnete Schutzimpfungen der Klauentierbestände durch die Kontrolltierärzte und Kontrolltierärztinnen beträgt die Entschädigung:
-
-**18 TP**
-
-- a) Grundtaxe je Bestand
-
-**3 TP**
-
-- b) bei Impfung je Tier
+<sup>1</sup> Für angeordnete Verrichtungen legt die Vollzugsbehörde die Entschädigung nach pflichtgemässem Ermessen fest, wobei der Stundenansatz Fr. 35.00 bis maximal Fr. 200.00 beträgt. Die Vollzugsbehörde legt aufgrund der Aufgabe, des Aufwands sowie für die auszuführende Verrichtung erforderlichen Ausbildung der oder des Beauftragten den Stundenansatz fest.
 
 #### § 6
 
-In den Ansätzen gemäss §§ 3-5 sind die Reise-, Verpflegungs- und Ausrüstungsentschädigungen, die Postgebühren und das Entgelt für Impf-, Sektions- und Begleitberichte sowie für die Kennzeichnung der Tiere mit Ohrenmarken inbegriffen. Bei gleichzeitigen Probeentnahmen zur Untersuchung auf verschiedene Tierkrankheiten wird nur eine Grundtaxe entschädigt.
+<sup>1</sup> Für den Besuch von von der Vollzugsbehörde angeordneter oder genehmigter fachspezifischer Weiterbildungen und Tagungen werden entschädigt:
 
-[^6-1]: Eingefügt durch RRB vom 18. November 2008, in Kraft getreten am 1. Januar 2009 (Amtsblatt 2008, S. 1719).
+- a) für den ganzen Tag — Fr. 350.00
+- b) für den halben Tag — Fr. 270.00
 
-### IIa. Entschädigung der nicht tierärztlichen Kontrolleure und Kontrolleurinnen
+<sup>2</sup> Für kürzere als einen halben Tag angeordnete oder genehmigte fachspezifische Weiterbildungen und Tagungen gemäss Absatz 1 gilt der von der Vollzugsbehörde festgelegte Stundenansatz gemäss § 5 Abs. 1, wobei die maximale Entschädigung bei Fr. 270.00 liegt.
 
-[^6-1]
+<sup>3</sup> Zusätzlich werden in der Regel die Kurskosten durch den Kanton übernommen.
 
-[^hIIaEntschädigungd-1]: Eingefügt durch RRB vom 18. November 2008, in Kraft getreten am 1. Januar 2009 (Amtsblatt 2008, S. 1719).
+<sup>4</sup> Die Reise- und Verpflegungsentschädigungen für Weiterbildungen und Tagungen richten sich nach der Verordnung über die Spesenvergütungen an das Staatspersonal[^6-1]. Die Vollzugsbehörde kann über zusätzliche Spesenentschädigungen entscheiden.
 
-#### § 6a
+[^6-1]: SHR 118.112
 
-**Aufwandentschädigung**[^hIIaEntschädigungd-1]
-
-<sup>1</sup> Für angeordnete Verrichtungen, insbesondere im Bereich des Tierschutzvollzugs, richtet sich die Entschädigung für Personen mit Hochschulabschluss, insbesondere in Agrarwissenschaften und Biologie, nach § 2.
-
-<sup>2</sup> Für angeordnete Verrichtungen, insbesondere im Bereich des Tierschutzvollzugs, beträgt die Entschädigung für übrige Beauftragte pro Stunde 25 TP. Für Reise- und Verpflegungsentschädigungen gilt § 2 Abs. 3.
-
-#### § 7
-
-**Stunden- und Kursentschädigungen**
-
-<sup>1</sup> Die Entschädigung für die einzelnen Verrichtungen des Bieneninspektors oder der Bieneninspektorin sowie des Stellvertreters oder der Stellvertreterin wird wie folgt festgesetzt:
-
-**24 TP**
-
-- a) Beanspruchung bei der Bekämpfung anzeigepflichtger Bienenseuchen je Stunde
-
-**160 TP 80 TP**
-
-- b) Teilnahme an Kursen oder Tagungen für den ganzen Tag für den halben Tag
-
-<sup>2</sup> Die Reise- und Verpflegungsentschädigungen richten sich nach der Verordnung über die Spesenvergütungen an das Staatspersonal[^7-1].
-
-[^7-1]: SHR 180.112.
-
-### IV. Entschädigung der Schatzungsexperten und Schatzungsexpertinnen
-
-#### § 8
-
-**Stundenentschädigung**
-
-Die Schatzungsexperten und Schatzungsexpertinnen erhalten eine Entschädigung von 28 Taxpunkten pro Stunde sowie Reise- und Verpflegungsentschädigungen gemäss Verordnung über die Spesenvergütungen an das Staatspersonal.[^8-1]
-
-[^8-1]: SHR 180.112.
-
-### V. Entschädigung der Viehinspektoren und Viehinspektorinnen
-
-[^hVEntschädigungder-1]: Aufgehoben durch RRB vom 23. Januar 2001, in Kraft getreten am 1. Februar 2001 (Amtsblatt 2001, S. 239).
-
-#### § 9
-
-[^hVEntschädigungder-1]
-
-### VI. Schlussbestimmungen
-
-#### § 10
-
-**Änderung bisherigen Rechts**
-
-Die kantonale Tierseuchenverordnung vom 23. Dezember 1991[^10-1] wird wie folgt geändert:
-
-[^10-1]: SHR 916.431.
-
-#### § 22
-
-**Abs. 2**
-
-<sup>2</sup> Die Entschädigungen für amtliche Tätigkeiten richten sich nach der Verordnung über die Entschädigung der Beauftragten der Tierseuchenbekämpfung und des Tierschutzes.
-
-#### § 11
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1995 in Kraft. Sie ist im Amtsblatt zu veröffentlichen[^11-1] und in die kantonale Gesetzessammlung aufzunehmen.
-
-<sup>2</sup> Sie ersetzt die gleichnamige Verordnung vom 15. Dezember 1987.
-
-Fussnoten:
-
-[^11-1]: Amtsblatt 1994, S. 1330.
+2024-14
