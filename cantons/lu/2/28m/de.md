@@ -3,20 +3,20 @@ canton: LU
 number: 28m
 title: "Verordnung über die Errichtung, Organisation und Finanzierung der zentralen Statistikstelle"
 language: de
-version: 2023-12-31
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-12
 adopted: 2007-06-15
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/28m"
-pdf: "https://srl.lu.ch/api/de/versions/4162/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4355/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Errichtung, Organisation und Finanzierung der zentralen Statistikstelle
 
-vom 15.06.2007 (Stand 31.12.2023)
+vom 15.06.2007 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -55,6 +55,7 @@ beschliesst:
 - a. die Aufgaben der kantonalen Statistik gemäss § 4 des Statistikgesetzes,
 - b. die Koordination, die Durchführung und die Qualitätskontrolle der Registerharmonisierung und die Führung der kantonalen Register gemäss § 2 des Gesetzes über die Harmonisierung amtlicher Register (Registergesetz) vom 25. Mai 2009[^2a-1],
 - c. die Berechnung der Finanzausgleichsleistungen gemäss § 1 Absatz 2 der Verordnung über den Finanzausgleich vom 3. Dezember 2002[^2a-2],
+- d. die Berechnung der Verteilung des Gemeindeanteils am Ertrag der Mindestbesteuerung grosser Unternehmensgruppen auf die Einwohnergemeinden.
 
 [^2a-1]: SRL Nr. [25](https://srl.lu.ch/data/25/de)
 [^2a-2]: SRL Nr. [611](https://srl.lu.ch/data/611/de)
