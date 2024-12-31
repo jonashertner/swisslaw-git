@@ -3,20 +3,19 @@ canton: OW
 number: "641.415"
 title: Ausführungsbestimmungen über die zeitliche Bemessung der Steuer bei juristischen Personen
 language: de
-version: 1995-10-01
-valid_until: 2024-12-31
-version_adopted: 1996-05-06
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 1995-05-30
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.415"
-pdf: "http://gdb.ow.ch/api/de/versions/195/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1937/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die zeitliche Bemessung der Steuer bei juristischen Personen
 
-vom 30.05.1995 (Stand 01.10.1995)
+vom 30.05.1995 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -56,7 +55,7 @@ beschliesst:
 
 <sup>2</sup> Ordentliche und ausserordentliche Gewinne und Verluste (Art. 103 StG) werden auch bei Beginn und Ende der Steuerpflicht bzw. bei jedem über- oder unterjährigen Geschäftsjahr in ihrem tatsächlichen Umfang, ohne Umrechnung auf zwölf Monate, zusammengerechnet. In diesen Fällen sind für die Satzbestimmung die ordentlichen Gewinne auf zwölf Monate umzurechnen; die Umrechnung erfolgt aufgrund der Dauer der Steuerpflicht (Geschäftsjahr). Die ausserordentlichen Faktoren (namentlich Kapitalgewinne und buchmässig realisierte Wertvermehrungen) werden dagegen auch für die Satzbestimmung nicht umgerechnet.
 
-<sup>3</sup> Beim gänzlichen oder teilweisen Wegfall der Steuerpflicht (Art. 103 Abs. 2 StG) sind alle davon betroffenen, bisher unversteuert gebliebenen stillen Reserven zusammen mit dem Reingewinn des betreffenden Geschäftsjahres zu versteuern.
+<sup>3</sup> Beim gänzlichen oder teilweisen Wegfall der Steuerpflicht (Art. 103 Abs. 3 StG) sind alle davon betroffenen, bisher unversteuert gebliebenen stillen Reserven zusammen mit dem Reingewinn des betreffenden Geschäftsjahres zu versteuern.
 
 #### Art. 4
 
@@ -75,6 +74,12 @@ beschliesst:
 <sup>2</sup> Die Steuern der juristischen Personen werden am 31. Oktober desjenigen Kalenderjahres fällig, in dem die Steuerperiode (das Geschäftsjahr) endet (Art. 245 StG).
 
 <sup>3</sup> Anwendbar sind die am Ende der Steuerperiode geltenden Steuersätze und Steuerfüsse (Art. 105 StG).
+
+#### Art. 5a
+
+**Wechsel des Sitzes innerhalb des Kantons**
+
+<sup>1</sup> Verlegt eine juristische Person ihren Sitz innerhalb des Kantons, so bleibt die primäre Steuerpflicht bis Ende der Steuerperiode bei derjenigen Gemeinde bestehen, in der die juristische Person am 1. Januar der Steuerperiode ihren Sitz hatte.
 
 ## 2. Wechsel zur einjährigen Veranlagung, Übergangsbestimmungen
 
@@ -130,6 +135,8 @@ Ursprüngliche Fundstelle: OGS 1995, 80
 
 geändert durch
 
-\- Nachtrag vom 6. Mai 1996, in Kraft rückwirkend seit 1. Oktober 1995 (OGS 1997, 13)
+\- Nachtrag vom 6. Mai 1996, in Kraft rückwirkend seit 1. Oktober 1995 (OGS 1997, 13),
+
+\- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38)
 
 OGS 1995, 80
