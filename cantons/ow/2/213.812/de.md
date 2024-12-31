@@ -1,22 +1,21 @@
 ---
 canton: OW
 number: "213.812"
-title: Regierungsratsbeschluss über die Förderungsorte und die Verteilung der Bewilligungen betreffend den Erwerb von Grundstücken durch Personen im Ausland für die Jahre 2023/2024
+title: Regierungsratsbeschluss über die Förderungsorte und die Verteilung der Bewilligungen betreffend den Erwerb von Grundstücken durch Personen im Ausland für die Jahre 2025/2026
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-31
+version: 2025-01-01
+version_adopted: 2024-11-05
 adopted: 2024-11-05
 in_force: 2025-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/213.812"
-pdf: "http://gdb.ow.ch/api/de/versions/1748/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1897/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss über die Förderungsorte und die Verteilung der Bewilligungen betreffend den Erwerb von Grundstücken durch Personen im Ausland für die Jahre 2023/2024
+# Regierungsratsbeschluss über die Förderungsorte und die Verteilung der Bewilligungen betreffend den Erwerb von Grundstücken durch Personen im Ausland für die Jahre 2025/2026
 
-vom 31.10.2022 (Stand 01.01.2023)
+vom 05.11.2024 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -54,10 +53,10 @@ beschliesst:
 
 **Gültigkeitsdauer**
 
-<sup>1</sup> Dieser Beschluss gilt ab 1. Januar 2023 bis 31. Dezember 2024.
+<sup>1</sup> Dieser Beschluss gilt ab 1. Januar 2025 bis 31. Dezember 2026.
 
 <sup>2</sup> Er ist dem Bundesamt für Justiz zur Kenntnis zu bringen[^3-1].
 
-[^3-1]: SR [211.412.41](https://db.clex.ch/link/Bund/211.412.41/de) (Art. 36 Abs. 3)
+[^3-1]: Art. 36 Abs. 3 BewG; SR 211.412.41
 
-OGS 2022, 23
+OGS 2024, 29
