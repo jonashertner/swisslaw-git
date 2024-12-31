@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20240101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20240101-de-xml-23.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250101-de-xml-33.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Januar 2024)
+vom 30. März 1911 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -179,7 +179,7 @@ Ist für einen Vertrag die schriftliche Form gesetzlich vorgeschrieben, so gilt 
 
 <sup>3</sup> Für den Blinden ist die Unterschrift nur dann verbindlich, wenn sie beglaubigt ist, oder wenn nachgewiesen wird, dass er zur Zeit der Unterzeichnung den Inhalt der Urkunde gekannt hat.
 
-[^14-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^14-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^14-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Dez. 2003 über die elektronische Signatur ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)). Fassung gemäss Anhang Ziff. II 4 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### d. Ersatz der Unterschrift
@@ -445,9 +445,9 @@ Die nachfolgenden Bestimmungen sind auf Verträge über bewegliche Sachen und Di
 <sup>3</sup> Bei wesentlicher Veränderung der Kaufkraft des Geldes passt der Bundesrat den in Absatz 1 Buchstabe b genannten Betrag entsprechend an.
 
 [^40a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 1990, in Kraft seit 1. Juli 1991 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)).
-[^40a-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^40a-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^40a-3]: Fassung gemäss Ziff. II des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^40a-4]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^40a-4]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^40a-5]: Eingefügt durch Ziff. II des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### II. Grundsatz
@@ -745,7 +745,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 <sup>3</sup> Der Bundesrat umschreibt die Sicherheitsvorkehrungen im Sinne von Absatz 2.
 
 [^59a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Dez. 2003 über die elektronische Signatur ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)). Fassung gemäss Anhang Ziff. II 4 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^59a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^59a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### G. Verjährung
 
@@ -945,7 +945,7 @@ Soll die Erfüllung einer Verbindlichkeit oder eine andere Rechtshandlung mit de
 
 <sup>2</sup> Abweichende Vereinbarungen bleiben vorbehalten.
 
-[^78-1]: Hinsichtlich der gesetzlichen Frist des eidgenössischen Rechts und der kraft eidgenössischen Rechts von Behörden angesetzten Fristen wird heute der Samstag einem anerkannten Feiertag gleichgestellt (Art. 1 des BG vom 21. Juni 1963 über den Fristenlauf an Samstagen – [SR 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^78-1]: Hinsichtlich der gesetzlichen Frist des eidgenössischen Rechts und der kraft eidgenössischen Rechts von Behörden angesetzten Fristen wird heute der Samstag einem anerkannten Feiertag gleichgestellt (Art. 1 des BG vom 21. Juni 1963 über den Fristenlauf an Samstagen – [SR 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### III. Erfüllung zur Geschäftszeit
 
@@ -1119,8 +1119,8 @@ Kann die Erfüllung der schuldigen Leistung aus einem andern in der Person des G
 
 <sup>2</sup> Für die Vollstreckung gelten die Bestimmungen des Bundesgesetzes vom 11. April 1889[^97-1] über Schuldbetreibung und Konkurs sowie der Zivilprozessordnung vom 19. Dezember 2008[^97-2] (ZPO).[^97-3]
 
-[^97-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^97-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^97-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^97-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^97-3]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 2. Bei Verbindlichkeit zu einem Tun oder Nichttun
@@ -1964,7 +1964,7 @@ Wo das Gesetz für die Übertragung von Forderungen besondere Bestimmungen aufst
 <sup>4</sup> Die Übernahme des Vermögens oder des Geschäfts von Handelsgesellschaften, Genossenschaften, Vereinen, Stiftungen und Einzelunternehmen, die im Handelsregister eingetragen sind, richtet sich nach den Vorschriften des Fusionsgesetzes vom 3. Oktober 2003[^181-2].[^181-3]
 
 [^181-1]: Fassung gemäss Anhang Ziff. 2 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^181-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^181-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^181-3]: Eingefügt durch Anhang Ziff. 2 des Fusionsgesetzes vom 3. Okt. 2003 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)). Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### VI. …
@@ -2088,7 +2088,7 @@ Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkä
 <sup>2</sup> Ist die Streitverkündung ohne Veranlassung des Verkäufers unterblieben, so wird dieser von der Verpflichtung zur Gewährleistung insoweit befreit, als er zu beweisen vermag, dass bei rechtzeitig erfolgter Streitverkündung ein günstigeres Ergebnis des Prozesses zu erlangen gewesen wäre.
 
 [^193-1]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^193-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^193-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### b. Herausgabe ohne richterliche Entscheidung
 
@@ -2134,7 +2134,7 @@ Ist die Entwehrung eine vollständige, so ist der Kaufvertrag als aufgehoben zu 
 Für Kulturgüter im Sinne von Artikel 2 Absatz 1 des Kulturgütertransfergesetzes vom 20. Juni 2003[^196a-2] verjährt die Klage auf Gewährleistung des veräusserten Rechts ein Jahr, nachdem der Käufer den Mangel entdeckt hat, in jedem Fall jedoch 30 Jahre nach dem Vertragsabschluss.
 
 [^196a-1]: Eingefügt durch Art. 32 Ziff. 2 des Kulturgütertransfergesetzes vom 20. Juni 2003, in Kraft seit 1. Juni 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^196a-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^196a-2]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ### III. Gewährleistung wegen Mängel der Kaufsache
 
@@ -2283,7 +2283,7 @@ Eine Vereinbarung über die Verkürzung der Verjährungsfrist ist ungültig, wen
 <sup>6</sup> Der Verkäufer kann die Verjährung nicht geltend machen, wenn ihm eine absichtliche Täuschung des Käufers nachgewiesen wird. Dies gilt nicht für die 30-jährige Frist gemäss Absatz 3.
 
 [^210-1]: Fassung gemäss Ziff. I des BG vom 16. März 2012 (Verjährungsfristen der Gewährleistungsansprüche. Verlängerung und Koordination), in Kraft seit 1. Jan. 2013 ([AS 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [BBl 2011 2889](https://fedlex.data.admin.ch/eli/fga/2011/424)[3903](https://fedlex.data.admin.ch/eli/fga/2011/597)).
-[^210-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^210-2]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ### C. Verpflichtungen des Käufers
 
@@ -2425,7 +2425,7 @@ Will der Vorkaufsberechtigte sein Vorkaufsrecht ausüben, so muss er es innert d
 Für die Veräusserung von landwirtschaftlichen Grundstücken gilt zudem das Bundesgesetz vom 4. Oktober 1991[^218-2] über das bäuerliche Bodenrecht.
 
 [^218-1]: Fassung gemäss Art. 92 Ziff. 2 des BG vom 4. Okt. 1991 über das bäuerliche Bodenrecht, in Kraft seit 1. Jan. 1994 ([AS 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^218-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^218-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### D. Gewährleistung
 
@@ -3020,7 +3020,7 @@ Erhebt ein Dritter einen Anspruch auf die Sache, der sich mit den Rechten des Mi
 
 #### Art. 259g
 
-<sup>1</sup> Verlangt der Mieter einer unbeweglichen Sache vom Vermieter die Beseitigung eines Mangels, so muss er ihm dazu schriftlich eine angemessene Frist setzen und kann ihm androhen, dass er bei unbenütztem Ablauf der Frist Mietzinse die künftig fällig werden bei einer vom Kanton bezeichneten Stelle hinterlegen wird. Er muss die Hinterlegung dem Vermieter schriftlich ankündigen.
+<sup>1</sup> Verlangt der Mieter einer unbeweglichen Sache vom Vermieter die Beseitigung eines Mangels, so muss er ihm dazu schriftlich eine angemessene Frist setzen und kann ihm androhen, dass er bei unbenütztem Ablauf der Frist Mietzinse, die künftig fällig werden, bei einer vom Kanton bezeichneten Stelle hinterlegen wird. Er muss die Hinterlegung dem Vermieter schriftlich ankündigen.
 
 <sup>2</sup> Mit der Hinterlegung gelten die Mietzinse als bezahlt.
 
@@ -3041,7 +3041,7 @@ Erhebt ein Dritter einen Anspruch auf die Sache, der sich mit den Rechten des Mi
 Das Verfahren richtet sich nach der ZPO[^259i-2].
 
 [^259i-1]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^259i-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^259i-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### H. Erneuerungen und Änderungen
 
@@ -3555,7 +3555,7 @@ Will der Mieter eine Erstreckung des Mietverhältnisses verlangen, so muss er da
 
 <sup>5</sup> Weist die zuständige Behörde ein Begehren des Mieters betreffend Anfechtung der Kündigung ab, so prüft sie von Amtes wegen, ob das Mietverhältnis erstreckt werden kann.[^273-3]
 
-[^273-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^273-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^273-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^273-3]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -3625,7 +3625,7 @@ Die Bestimmungen über die Pacht von Wohn- und Geschäftsräumen gelten auch fü
 
 <sup>2</sup> Im Übrigen gilt das Obligationenrecht mit Ausnahme der Bestimmungen über die Pacht von Wohn- und Geschäftsräumen.[^276a-2]
 
-[^276a-1]: [SR 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^276a-1]: [SR 221.213.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866)
 [^276a-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### B. Inventaraufnahme
@@ -3936,7 +3936,7 @@ Der Verpächter von Geschäftsräumen hat für einen verfallenen und einen laufe
 Das Verfahren richtet sich nach der ZPO[^301-2].
 
 [^301-1]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^301-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^301-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### R. Viehpacht und Viehverstellung
 
@@ -4299,7 +4299,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 <sup>2</sup> Die Abtretung und die Verpfändung künftiger Lohnforderungen zur Sicherung anderer Verbindlichkeiten sind nichtig.
 
 [^325-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1990, in Kraft seit 1. Juli 1991 ([AS 1991 974](https://fedlex.data.admin.ch/eli/oc/1991/974_974_974); [BBl 1989 III 1233](https://fedlex.data.admin.ch/eli/fga/1989/3_1233__), [1990 I 120](https://fedlex.data.admin.ch/eli/fga/1990/1_120_108_103)).
-[^325-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^325-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### V. Akkordlohnarbeit
 
@@ -4398,7 +4398,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie dessen Eignung für das Arbeitsverhältnis betreffen oder zur Durchführung des Arbeitsvertrages erforderlich sind. Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^328b-2].[^328b-3]
 
 [^328b-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 1992 über den Datenschutz, in Kraft seit 1. Juli 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
-[^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^328b-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 18 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### VIII. Freizeit, Ferien und Urlaub
@@ -4575,7 +4575,7 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 <sup>5</sup> Der Arbeitgeber ist über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
 
 [^329i-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### 8. Adoptions- urlaub
 
@@ -4592,7 +4592,7 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 <sup>4</sup> Er kann wochen- oder tageweise bezogen werden.
 
 [^329j-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^329j-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^329j-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### IX. Übrige Pflichten
 
@@ -4725,7 +4725,7 @@ Der Bundesrat bestimmt:
 [^331d-1]: Eingefügt durch Ziff. II des BG vom 17. Dez. 1993 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Jan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 [^331d-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 1 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^331d-3]: Fassung gemäss Anhang Ziff. 11 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^331d-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^331d-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^331d-5]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 2. Vorbezug
@@ -4752,11 +4752,11 @@ Der Bundesrat bestimmt:
 
 [^331e-1]: Eingefügt durch Ziff. II des BG vom 17. Dez. 1993 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Jan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 [^331e-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^331e-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^331e-4]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^331e-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^331e-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^331e-4]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^331e-5]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^331e-6]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^331e-7]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^331e-7]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^331e-8]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 3. Einschränkungen während einer Unterdeckung der Vorsorgeeinrichtung
@@ -5495,7 +5495,7 @@ Das Arbeitsverhältnis ist durch schriftlichen Vertrag zu regeln, der namentlich
 
 <sup>3</sup> Artikel 34 des Bundesgesetzes vom 2. April 1908[^348b-1] über den Versicherungsvertrag bleibt vorbehalten.
 
-[^348b-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^348b-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### III. Besondere Pflichten des Arbeitgebers
 
@@ -6594,7 +6594,7 @@ Der Vertrag bedarf zu seiner Gültigkeit der schriftlichen Form und hat folgende
 
 <sup>2</sup> Bei der Bearbeitung der Personendaten des Auftraggebers ist der Beauftragte zur Geheimhaltung verpflichtet; die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^406g-1] bleiben vorbehalten.[^406g-2]
 
-[^406g-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^406g-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^406g-2]: Fassung gemäss Anhang 1 Ziff. II 18 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### G. Herabsetzung
@@ -6759,7 +6759,7 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Börsenmäkler, 
 
 <sup>3</sup> Die Artikel 34 und 44 Absatz 3 des Bundesgesetzes vom 2. April 1908[^418e-1] über den Versicherungsvertrag bleiben vorbehalten.
 
-[^418e-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^418e-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### D. Pflichten des Auftraggebers
 
@@ -7945,7 +7945,7 @@ Der Leibrentenvertrag bedarf zu seiner Gültigkeit der schriftlichen Form.
 
 Die Bestimmungen dieses Gesetzes über den Leibrentenvertrag finden keine Anwendung auf Leibrentenverträge, die unter dem Bundesgesetz vom 2. April 1908[^520-1] über den Versicherungsvertrag stehen, vorbehältlich der Vorschrift betreffend die Entziehbarkeit des Rentenanspruchs.
 
-[^520-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^520-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### B. Verpfründung
 
@@ -8445,7 +8445,7 @@ Die Prokura sowie eine Handlungsvollmacht zum Betriebe des ganzen Gewerbes könn
 
 <sup>3</sup> Die Rechte der Gesellschaftsgläubiger im Konkurse des einzelnen Gesellschafters richten sich nach den Vorschriften des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^571-1].
 
-[^571-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^571-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### D. Stellung der Privatgläubiger eines Gesellschafters
 
@@ -8930,7 +8930,7 @@ Im Konkurse des Kommanditärs haben weder die Gesellschaftsgläubiger noch die G
 
 <sup>5</sup> Werden Aktientitel ausgegeben, so müssen sie von mindestens einem Mitglied des Verwaltungsrats unterschrieben sein.[^622-8]
 
-[^622-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^622-1]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^622-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-3]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
@@ -8956,7 +8956,7 @@ Im Konkurse des Kommanditärs haben weder die Gesellschaftsgläubiger noch die G
 
 <sup>1</sup> Die Aktien dürfen nur zum Nennwert oder zu einem diesen übersteigenden Betrage ausgegeben werden. Vorbehalten bleibt die Ausgabe neuer Aktien, die an Stelle ausgefallener Aktien treten.
 
-<sup>2</sup> e <sup>3</sup> …[^624-1]
+<sup>2 e <sup>3</sup></sup> …[^624-1]
 
 [^624-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -9107,7 +9107,7 @@ Dem Errichtungsakt sind folgende Unterlagen beizulegen:
 <sup>3</sup> Als Einlagen in Geld gelten Einzahlungen in der Währung, auf die das Aktienkapital lautet, sowie Einzahlungen in anderen zum Aktienkapital frei konvertierbaren Währungen.
 
 [^633-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^633-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^633-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### b. Sacheinlagen
 
@@ -9512,7 +9512,7 @@ Aktien, die vor der Eintragung der Kapitalerhöhung ins Handelsregister ausgegeb
 <sup>4</sup> Vorbehalten bleiben die Vorschriften des Bankengesetzes vom 8. November 1934[^653-2] über das Wandlungskapital.
 
 [^653-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^653-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### 2. Schranken
 
@@ -9610,7 +9610,7 @@ Dieses Vorwegzeichnungsrecht kann beschränkt oder aufgehoben werden, wenn:
 
 [^653e-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^653e-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^653e-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-3]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^653e-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Prüfungsbestätigung
@@ -10473,6 +10473,20 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [^684-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
+### III. Bei überschuldeten Gesellschaften ohne Geschäftstätigkeit und ohne Aktiven
+
+#### Art. 684a
+
+[^684a-1]
+
+<sup>1</sup> Hat eine Gesellschaft keine Geschäftstätigkeit und keine verwertbaren Aktiven mehr und ist sie überschuldet, so ist die Übertragung von Aktien nichtig.
+
+<sup>2</sup> Hat das Handelsregisteramt im Zusammenhang mit einer Anmeldung einen begründeten Verdacht auf eine solche Aktienübertragung, so fordert es die Gesellschaft auf, ihre aktuelle unterzeichnete und, falls die Gesellschaft eine Revisionsstelle hat, geprüfte Jahresrechnung einzureichen. Kommt die Gesellschaft der Aufforderung nicht nach oder bestätigt die Jahresrechnung den Verdacht, so verweigert das Handelsregisteramt die beantragte Eintragung.
+
+<sup>3</sup> Artikel 934 ist vorbehalten.
+
+[^684a-1]: Eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+
 ### H. Beschränkung der Übertragbarkeit
 
 ### I. Gesetzliche Beschränkung
@@ -10766,8 +10780,8 @@ Der Verwaltungsrat stellt sicher, dass die Aktionäre insbesondere die Möglichk
 <sup>3</sup> Als Depotvertreter gelten die dem Bankengesetz vom 8. November 1934[^689e-2] unterstellten Institute und die Finanzinstitute nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^689e-3].
 
 [^689e-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^689e-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^689e-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^689e-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^689e-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### e. Bekanntgabe
 
@@ -11087,8 +11101,8 @@ Entspricht die Generalversammlung dem Antrag nicht, so können Aktionäre innerh
 <sup>3</sup> Die Statuten können die Einzelheiten regeln, insbesondere durch Verweisung auf eine Schiedsordnung. Sie stellen jedenfalls sicher, dass Personen, die von den Rechtswirkungen des Schiedsspruchs direkt betroffen sein können, über die Einleitung und die Beendigung des Verfahrens informiert werden und sich bei der Bestellung des Schiedsgerichts und als Intervenienten am Verfahren beteiligen können.
 
 [^697n-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^697n-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^697n-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^697n-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^697n-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### Dritter Abschnitt: Organisation der Aktiengesellschaft
 
@@ -11402,7 +11416,7 @@ Ein Beschluss der Generalversammlung, der mindestens zwei Drittel der vertretene
 <sup>3</sup> Namenaktionäre, die einem Beschluss über die Zweckänderung oder die Einführung von Stimmrechtsaktien nicht zugestimmt haben, sind während sechs Monaten nach dessen Veröffentlichung im Schweizerischen Handelsamtsblatt an statutarische Beschränkungen der Übertragbarkeit der Aktien nicht gebunden.
 
 [^704-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991. in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^704-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^704-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^704-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^704-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -11876,14 +11890,14 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 Die Benachrichtigung des Gerichts kann unterbleiben:
 
 - 1\. wenn Gesellschaftsgläubiger im Ausmass der Überschuldung im Rang hinter alle anderen Gläubiger zurücktreten und ihre Forderungen stunden, sofern der Rangrücktritt den geschuldeten Betrag und die Zinsforderungen während der Dauer der Überschuldung umfasst; oder
-- 2\. solange begründete Aussicht besteht, dass die Überschuldung innert angemessener Frist, spätestens aber 90 Tage nach Vorliegen der geprüften Zwischenabschlüssen, behoben werden kann und dass die Forderungen der Gläubiger nicht zusätzlich gefährdet werden.
+- 2\. solange begründete Aussicht besteht, dass die Überschuldung innert angemessener Frist, spätestens aber 90 Tage nach Vorliegen der geprüften Zwischenabschlüsse, behoben werden kann und dass die Forderungen der Gläubiger nicht zusätzlich gefährdet werden.
 
 <sup>5</sup> Verfügt die Gesellschaft über keine Revisionsstelle, so obliegen dem zugelassenen Revisor die Anzeigepflichten der eingeschränkt prüfenden Revisionsstelle.
 
 <sup>6</sup> Der Verwaltungsrat und die Revisionsstelle oder der zugelassene Revisor handeln mit der gebotenen Eile.
 
 [^725b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^725b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^725b-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 4. Aufwertung von Grundstücken und Beteiligungen
 
@@ -11962,13 +11976,18 @@ Folgende Gesellschaften müssen ihre Jahresrechnung und gegebenenfalls ihre Konz
 
 <sup>1</sup> Sind die Voraussetzungen für eine ordentliche Revision nicht gegeben, so muss die Gesellschaft ihre Jahresrechnung durch eine Revisionsstelle eingeschränkt prüfen lassen.
 
-<sup>2</sup> Mit der Zustimmung sämtlicher Aktionäre kann auf die eingeschränkte Revision verzichtet werden, wenn die Gesellschaft nicht mehr als zehn Vollzeitstellen im Jahresdurchschnitt hat.
+<sup>2</sup> Mit der Zustimmung sämtlicher Aktionäre kann auf die eingeschränkte Revision verzichtet werden, wenn die Gesellschaft nicht mehr als zehn Vollzeitstellen im Jahresdurchschnitt hat. Der Verzicht gilt nur für künftige Geschäftsjahre und muss vor Beginn des Geschäftsjahres beim Handelsregisteramt angemeldet werden.[^727a-1]
+
+<sup>2bis</sup> Der Anmeldung des Verzichts im Handelsregister muss die Jahresrechnung des zuletzt abgelaufenen Geschäftsjahres beigelegt werden.[^727a-2]
 
 <sup>3</sup> Der Verwaltungsrat kann die Aktionäre schriftlich um Zustimmung ersuchen. Er kann für die Beantwortung eine Frist von mindestens 20 Tagen ansetzen und darauf hinweisen, dass das Ausbleiben einer Antwort als Zustimmung gilt.
 
 <sup>4</sup> Haben die Aktionäre auf eine eingeschränkte Revision verzichtet, so gilt dieser Verzicht auch für die nachfolgenden Jahre. Jeder Aktionär hat jedoch das Recht, spätestens zehn Tage vor der Generalversammlung eine eingeschränkte Revision zu verlangen. Die Generalversammlung muss diesfalls die Revisionsstelle wählen.
 
 <sup>5</sup> Soweit erforderlich passt der Verwaltungsrat die Statuten an und meldet dem Handelsregister die Löschung oder die Eintragung der Revisionsstelle an.
+
+[^727a-1]: Zweiter Satze eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^727a-2]: Eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### II. Anforderungen an die Revisionsstelle
 
@@ -11980,7 +11999,7 @@ Folgende Gesellschaften müssen ihre Jahresrechnung und gegebenenfalls ihre Konz
 
 <sup>2</sup> Die übrigen Gesellschaften, die zur ordentlichen Revision verpflichtet sind, müssen als Revisionsstelle einen zugelassenen Revisionsexperten nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 bezeichnen. Sie müssen Prüfungen, die nach den gesetzlichen Vorschriften durch einen zugelassenen Revisor vorzunehmen sind, ebenfalls von einem zugelassenen Revisionsexperten durchführen lassen.
 
-[^727b-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^727b-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### 2. Bei eingeschränkter Revision
 
@@ -11988,7 +12007,7 @@ Folgende Gesellschaften müssen ihre Jahresrechnung und gegebenenfalls ihre Konz
 
 Die Gesellschaften, die zur eingeschränkten Revision verpflichtet sind, müssen als Revisionsstelle einen zugelassenen Revisor nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^727c-1] bezeichnen.
 
-[^727c-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^727c-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### III. Ordentliche Revision
 
@@ -12685,7 +12704,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 <sup>4</sup> In die Berechnung des Schadens der Gesellschaft sind Forderungen von Gesellschaftsgläubigern, die im Rang hinter alle anderen Gläubiger zurückgetreten sind, nicht einzubeziehen.[^757-3]
 
 [^757-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^757-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^757-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^757-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Wirkung des Entlastungsbeschlusses
@@ -13140,6 +13159,16 @@ Von dieser Regelung können die Statuten abweichen, indem sie:
 <sup>1</sup> Ist für die Abtretung von Stammanteilen die Zustimmung der Gesellschafterversammlung erforderlich, so wird die Abtretung erst mit dieser Zustimmung rechtswirksam.
 
 <sup>2</sup> Lehnt die Gesellschafterversammlung das Gesuch um Zustimmung zur Abtretung nicht innerhalb von sechs Monaten nach Eingang ab, so gilt die Zustimmung als erteilt.
+
+### d. Bei überschuldeten Gesellschaften ohne Geschäftstätigkeit und ohne Aktiven
+
+#### Art. 787a
+
+[^787a-1]
+
+Betreffend die Abtretung von Stammanteilen bei überschuldeten Gesellschaften ohne Geschäftstätigkeit und ohne verwertbare Aktiven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
+
+[^787a-1]: Eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### 2. Besondere Erwerbsarten
 
@@ -13994,7 +14023,7 @@ Der Beschluss der Generalversammlung oder der Verwaltung über eine Änderung de
 
 <sup>2</sup> Die von einer konzessionierten Versicherungsgenossenschaft mit den Mitgliedern abgeschlossenen Versicherungsverträge unterstehen in gleicher Weise wie die von ihr mit Dritten abgeschlossenen Versicherungsverträge den Bestimmungen des Bundesgesetzes vom 2. April 1908[^841-1] über den Versicherungsvertrag.
 
-[^841-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^841-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### Dritter Abschnitt: Verlust der Mitgliedschaft
 
@@ -14325,7 +14354,7 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 
 <sup>4</sup> Das Verfahren wird durch eine Verordnung des Bundesrates geregelt.[^873-2]
 
-[^873-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^873-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^873-2]: Fassung gemäss Ziff. II 10 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### f. Änderung der Haftungsbestimmungen
@@ -14740,8 +14769,8 @@ Eine ordentliche Revision der Jahresrechnung durch eine Revisionsstelle können 
 Bei Genossenschaften mit persönlicher Haftung oder Nachschusspflicht der Genossenschafter hat die Revisionsstelle festzustellen, ob das Genossenschafterverzeichnis[^907-2] korrekt geführt wird. Verfügt die Genossenschaft über keine Revisionsstelle, so muss die Verwaltung das Genossenschafterverzeichnis[^907-3] durch einen zugelassenen Revisor prüfen lassen.
 
 [^907-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^907-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^907-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^907-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^907-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### D. Mängel in der Organisation
 
@@ -14973,19 +15002,37 @@ Rechtseinheiten im Sinne dieses Titels sind:
 
 <sup>2</sup> Sofern das Gesetz nichts anderes vorsieht, teilen Gerichte und Verwaltungsbehörden des Bundes und der Kantone den Handelsregisterämtern Tatsachen mit, die eine Pflicht zur Eintragung, Änderung oder Löschung im Handelsregister begründen.
 
+<sup>2bis</sup> Die Oberaufsichtsbehörde des Bundes über das Handelsregister sorgt dafür, dass die zentrale Datenbank Personen keine Einträge enthält, die mit dem Tätigkeitsverbot nach Artikel 67 des Strafgesetzbuchs[^928a-1], Artikel 50 des Militärstrafgesetzes vom 13. Juni 1927[^928a-2] oder Artikel 16*a* Absatz 1 des Jugendstrafgesetzes vom 20. Juni 2003[^928a-3] unvereinbar sind. Sie prüft insbesondere die gemäss Artikel 64*a* des Strafregistergesetzes vom 17. Juni 2016[^928a-4] gemeldeten Tätigkeitsverbote auf ihre Vereinbarkeit mit den in der zentralen Datenbank Personen eingetragenen Funktionen.[^928a-5]
+
+<sup>2ter</sup> Stellt sie eine Unvereinbarkeit fest, so informiert sie das zuständige kantonale Handelsregisteramt.[^928a-6]
+
+<sup>2quater</sup> Das kantonale Handelsregisteramt fordert die Rechtseinheit auf, die erforderlichen Massnahmen zu ergreifen.[^928a-7]
+
 <sup>3</sup> Auskünfte und Mitteilungen erfolgen gebührenfrei.
+
+[^928a-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^928a-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^928a-3]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^928a-4]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^928a-5]: Eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928a-6]: Eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928a-7]: Eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### C. Zentrale Datenbanken
 
 #### Art. 928b
 
-<sup>1</sup> Die Oberaufsichtsbehörde des Bundes betreibt die zentralen Datenbanken über die Rechtseinheiten und die Personen, die in den kantonalen Registern eingetragen sind. Die zentralen Datenbanken dienen der Verknüpfung der Daten, der Unterscheidung und dem Auffinden der eingetragenen Rechtseinheiten und Personen.
+<sup>1</sup> Die Oberaufsichtsbehörde des Bundes über das Handelsregister betreibt die zentralen Datenbanken über die Rechtseinheiten und die Personen, die in den kantonalen Registern eingetragen sind.[^928b-1] Die zentralen Datenbanken dienen der Verknüpfung der Daten, der Unterscheidung und dem Auffinden der eingetragenen Rechtseinheiten und Personen.
 
-<sup>2</sup> Die Datenerfassung für die zentrale Datenbank Rechtseinheiten obliegt der Oberaufsichtsbehörde des Bundes. Diese macht die öffentlichen Daten der Rechtseinheiten für Einzelabfragen im Internet gebührenfrei zugänglich.
+<sup>2</sup> Die Datenerfassung für die zentrale Datenbank Rechtseinheiten obliegt der Oberaufsichtsbehörde des Bundes über das Handelsregister.[^928b-2] Diese macht die öffentlichen Daten der Rechtseinheiten für Einzelabfragen im Internet gebührenfrei zugänglich.
 
-<sup>3</sup> Die Datenerfassung für die zentrale Datenbank Personen obliegt den Handelsregisterämtern.
+<sup>3</sup> Die Datenerfassung für die zentrale Datenbank Personen obliegt den Handelsregisterämtern. Die Oberaufsichtsbehörde des Bundes über das Handelsregister macht die Daten der natürlichen Personen für Einzelabfragen im Internet gebührenfrei zugänglich.[^928b-3]
 
 <sup>4</sup> Der Bundist für die Sicherheit der Informationssysteme und die Rechtmässigkeit der Datenbearbeitung verantwortlich.
+
+[^928b-1]: Fassung gemäss Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928b-2]: Fassung gemäss Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928b-3]: Zweiter Satz eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### D. AHV-Nummer und Personennummer
 
@@ -15019,7 +15066,7 @@ Rechtseinheiten im Sinne dieses Titels sind:
 
 Die im Handelsregister eingetragenen Rechtseinheiten erhalten eine Unternehmens-Identifikationsnummer nach dem Bundesgesetz vom 18. Juni 2010[^930-1] über die Unternehmens-Identifikationsnummer.
 
-[^930-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^930-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ### III. Eintragungspflicht und freiwillige Eintragung
 
@@ -15148,7 +15195,7 @@ Die Handelsregisterbehörden prüfen, ob die rechtlichen Voraussetzungen für ei
 
 <sup>3</sup> Bei Stiftungen und Rechtseinheiten, die gemäss Kollektivanlagengesetz vom 23. Juni 2006[^939-1] der Aufsicht unterstellt sind, wird die Angelegenheit der Aufsichtsbehörde überwiesen.
 
-[^939-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^939-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### H. Ordnungsbussen
 
@@ -15183,7 +15230,9 @@ Der Bundesrat regelt die Erhebung der Gebühren im Einzelnen, insbesondere:
 
 <sup>2</sup> Jeder Kanton bezeichnet ein oberes Gericht als einzige Beschwerdeinstanz.
 
-<sup>3</sup> Die kantonalen Gerichte teilen ihre Entscheide unverzüglich dem Handelsregisteramt mit und eröffnen sie der Oberaufsichtsbehörde des Bundes.
+<sup>3</sup> Die kantonalen Gerichte teilen ihre Entscheide unverzüglich dem Handelsregisteramt mit und eröffnen sie der Oberaufsichtsbehörde des Bundes über das Handelsregister.[^942-1]
+
+[^942-1]: Fassung gemäss Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### K. Verordnung
 
@@ -15378,7 +15427,7 @@ Lediglich über die Einnahmen und Ausgaben sowie über die Vermögenslage müsse
 
 <sup>3</sup> Für die Unternehmen nach Absatz 2 gelten die Grundsätze ordnungsmässiger Buchführung sinngemäss.
 
-[^957-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^957-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Buchführung
 
@@ -15994,7 +16043,7 @@ Von dieser Pflicht befreit sind Unternehmen, die von einem anderen Unternehmen k
 - 1\. für welches Absatz 1 anwendbar ist; oder
 - 2\. das einen gleichwertigen Bericht nach ausländischem Recht erstellen muss.
 
-[^964a-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^964a-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### B. Zweck und Inhalt des Berichts
 
@@ -16403,7 +16452,7 @@ Im Übrigen richtet sich:
 - 2\. das Pfandrecht an Registerwertrechten nach den für Wertpapiere geltenden Bestimmungen über das Pfandrecht an Forderungen und anderen Rechten (Art. 899–906 ZGB).
 
 [^973g-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^973g-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^973g-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### V. Kraftloserklärung
 
@@ -17518,7 +17567,7 @@ Erachtet das Gericht die Darstellung des Gesuchstellers über den frühern Besit
 
 <sup>2</sup> Fällt der letzte Tag einer Frist, innerhalb deren eine dieser Handlungen vorgenommen werden muss, auf einen Sonntag oder einen anderen staatlich anerkannten Feiertag[^1081-1], so wird die Frist bis zum nächsten Werktage verlängert. Feiertage, die in den Lauf einer Frist fallen, werden bei der Berechnung der Frist mitgezählt.
 
-[^1081-1]: Hinsichtlich der gesetzlichen Fristen des eidgenössischen Rechts und der kraft eidgenössischen Rechts von Behörden angesetzten Fristen wird heute der Samstag einem anerkannten Feiertag gleichgestellt (Art. 1 des BG vom 21. Juni 1963 über den Fristenlauf an Samstagen – [SR 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^1081-1]: Hinsichtlich der gesetzlichen Fristen des eidgenössischen Rechts und der kraft eidgenössischen Rechts von Behörden angesetzten Fristen wird heute der Samstag einem anerkannten Feiertag gleichgestellt (Art. 1 des BG vom 21. Juni 1963 über den Fristenlauf an Samstagen – [SR 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### b. Fristberechnung
 
@@ -17933,7 +17982,7 @@ Der Bezogene, der einen durch Indossament übertragbaren Check einlöst, ist ver
 
 <sup>2</sup> Dasselbe gilt, wenn der Inhaber infolge von Massnahmen, die auf Grund des Bankengesetzes vom 8. November 1934[^1126-1] getroffen worden sind, über die Gutschrift beim Bezogenen nicht verfügen kann.
 
-[^1126-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1126-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### c. Rechte des Inhabers bei Verweigerung der Gutschrift oder der Ausgleichung
 
@@ -18014,7 +18063,7 @@ Checks, die nicht auf den Inhaber gestellt sind und in einem anderen Lande als d
 
 In diesem Abschnitt sind unter der Bezeichnung «Bankier» Firmen zu verstehen, die dem Bankengesetz vom 8. November 1934[^1135-1] unterstehen.
 
-[^1135-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1135-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### 2. Fristbestimmungen
 
@@ -18028,7 +18077,7 @@ In diesem Abschnitt sind unter der Bezeichnung «Bankier» Firmen zu verstehen, 
 
 Feiertage, die in den Lauf einer Frist fallen, werden bei der Berechnung der Frist mitgezählt.
 
-[^1136-1]: Hinsichtlich der gesetzlichen Fristen des eidgenössischen Rechts und der kraft eidgenössischen Rechts von Behörden angesetzten Fristen wird heute der Samstag einem anerkannten Feiertag gleichgestellt (Art. 1 des BG vom 21. Juni 1963 über den Fristenlauf an Samstagen – [SR 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^1136-1]: Hinsichtlich der gesetzlichen Fristen des eidgenössischen Rechts und der kraft eidgenössischen Rechts von Behörden angesetzten Fristen wird heute der Samstag einem anerkannten Feiertag gleichgestellt (Art. 1 des BG vom 21. Juni 1963 über den Fristenlauf an Samstagen – [SR 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### b. Fristberechnung
 
@@ -18178,7 +18227,7 @@ Anweisungen, die im Texte der Urkunde nicht als Wechsel bezeichnet sind, aber au
 
 Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^1150-1] betreffend die Wechselbetreibung finden auf die Anweisung an Ordre keine Anwendung.
 
-[^1150-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1150-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### II. Zahlungsversprechen an Ordre
 
@@ -18190,7 +18239,7 @@ Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^
 
 <sup>3</sup> Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^1151-1] betreffend die Wechselbetreibung finden auf das Zahlungsversprechen an Ordre keine Anwendung.
 
-[^1151-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1151-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### C. Andere indossierbare Papiere
 
@@ -18384,7 +18433,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wertpapier ausges
 
 <sup>4</sup> Missbraucht der Schuldner das Recht auf Stundung, so kann sie von der oberen kantonalen Nachlassbehörde auf Begehren eines Anleihensgläubigers aufgehoben werden.
 
-[^1166-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1166-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Abhaltung
 
@@ -18569,7 +18618,7 @@ Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche
 
 <sup>2</sup> Auf die pfandversicherten Anleihensgläubiger kommen, soweit eine über die Wirkungen des Nachlassverfahrens hinausgehende Einschränkung ihrer Gläubigerrechte stattfinden soll, die Bestimmungen über die Gläubigergemeinschaft zur Anwendung.
 
-[^1184-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1184-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Anleihen von Eisenbahn- oder Schiffahrtsunternehmungen
 
@@ -18605,7 +18654,7 @@ II. Dieses Gesetz tritt mit dem 1. Januar 1912 in Kraft.
 
 Der Bundesrat ist beauftragt, auf Grundlage der Bestimmungen des Bundesgesetzes vom 17. Juni 1874[^u1-3] betreffend die Volksabstimmung über Bundesgesetze und Bundesbeschlüsse die Bekanntmachung dieses Gesetzes zu veranstalten.
 
-[^u1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233).
+[^u1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703).
 [^u1-2]: Die Änderungen können unter [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)konsultiert werden.
 [^u1-3]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 Abs. 3; [1978 712](https://fedlex.data.admin.ch/eli/oc/1978/712_712_712)Art. 89 Bst. b]
 
@@ -18763,7 +18812,7 @@ Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem I
 
 <sup>2</sup> Die Bestimmungen der Gesetzesänderung vom 23. Dezember 2011 werden mit ihrem Inkrafttreten auf bestehende Unternehmen anwendbar.
 
-[^u5-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u5-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Kaufmännische Buchführung und Rechnungslegung
 
@@ -18791,7 +18840,7 @@ Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem I
 
 <sup>2</sup> Die Bestimmungen der Änderung vom 12. Dezember 2014 werden mit ihrem Inkrafttreten auf bestehende Gesellschaften anwendbar.
 
-[^u6-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u6-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Anpassung von Statuten und Reglementen
 
@@ -18823,7 +18872,7 @@ Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem I
 
 <sup>2</sup> Die Bestimmungen der Änderung vom 25. September 2015 werden mit ihrem Inkrafttreten auf bestehende Rechtseinheiten anwendbar.
 
-[^u7-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u7-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Anpassung eingetragener Firmen
 
@@ -18851,7 +18900,7 @@ Wurde die Firma einer Kollektiv-, Kommandit- oder Kommanditaktiengesellschaft vo
 
 <sup>2</sup> Das neue Recht wird mit seinem Inkrafttreten auf bestehende Rechtseinheiten anwendbar.
 
-[^u8-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u8-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Eintragungspflicht von Instituten des öffentlichen Rechts
 
@@ -18873,7 +18922,7 @@ Institute des öffentlichen Rechts, die vor Inkrafttreten des neuen Rechts erric
 
 <sup>2</sup> Die Bestimmungen der Änderung vom 21. Juni 2019 werden mit Inkrafttreten auf bestehende Gesellschaften anwendbar.
 
-[^u9-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u9-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Meldung der Ausnahmefälle beim Handelsregisteramt
 
@@ -18956,7 +19005,7 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungspapiere an e
 
 <sup>2</sup> Die Bestimmungen des neuen Rechts werden mit seinem Inkrafttreten auf bestehende Gesellschaften anwendbar.
 
-[^u10-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u10-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Anpassung von Statuten und Reglementen
 
@@ -19102,17 +19151,17 @@ Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 - 12\. Artikel 64[^u13-6-11] und 72 Absatz 2 Buchstabe *a* des Arbeitsgesetzes vom 13. März 1964[^u13-6-12].
 
 [^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)Ziff. I-III, [1968 64](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 611; [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 37, [2350](https://fedlex.data.admin.ch/eli/oc/1992/2350_2350_2350); [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Anhang Ziff. 1]
-[^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9878)
 [^u13-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)Art. 14 Abs. 2; [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)Art. 21 Ziff. 3]
 [^u13-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 69]
 [^u13-6-5]: [AS **1949** II 1293]
 [^u13-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)Art. 1; [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688); [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590); [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335); [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207), [1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14, [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472); [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763); [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 921, 942, [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931); [1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 6; [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640); [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. c; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 51; [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 25; [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611); [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 Ziff. 5, [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)Art. 36 Abs. 1; [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)Art. 92 Ziff. 4, [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571), [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 11; [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 Ziff. 3, [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 2; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Anhang Ziff. 2, [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783); [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187), [1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Bst. c]
-[^u13-6-7]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Heute: BG über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG).
-[^u13-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^u13-6-7]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Heute: BG über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG).
+[^u13-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5888)
 [^u13-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)Art. 22 Abs. 2 Bst. b;[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)Art. 35; [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)Ziff. III; **1971** 751; [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50), [570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_); [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 7; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 22; **1993** 2043 Anhang Ziff. 3; [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)Art. 71]
 [^u13-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [428](https://fedlex.data.admin.ch/eli/oc/1965/428__); [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89); [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885); [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)Ziff. III; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)Art. 75]
 [^u13-6-11]: Dieser Art. ist heute aufgehoben.
-[^u13-6-12]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^u13-6-12]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ### Anpassung altrechtlicher Verhältnisse
 
@@ -19182,7 +19231,7 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 - 5\. Die Bestimmung des Artikels 505 Absatz 2 findet nur Anwendung auf Konkurse, die mindestens drei Monate nach Inkrafttreten des Gesetzes eröffnet, sowie auf Nachlassstundungen, die mindestens drei Monate nach Inkrafttreten des Gesetzes bewilligt worden sind.
 - 6\. Die in Artikel 509 Absatz 3 genannte Frist beginnt für altrechtliche Bürgschaften erst mit dem Inkrafttreten des Gesetzes zu laufen.
 
-[^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^u15-3]: Fassung gemäss Anhang Ziff. 2 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ## Schluss- und Übergangsbestimmungen zu den Titeln XXIV–XXXIII
@@ -19197,7 +19246,7 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
 Die Vorschriften des Schlusstitels des Zivilgesetzbuches[^u16-1-1] finden auch Anwendung auf dieses Gesetz.
 
-[^u16-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u16-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Anpassung alter Gesellschaften an das neue Recht
 
@@ -19332,7 +19381,7 @@ Für Fälle, auf die die Bestimmungen der Verordnung vom 20. Februar 1918[^u16-1
 
 Die Vorschriften des Bankengesetzes vom 8. November 1934[^u16-16-1] bleiben vorbehalten.
 
-[^u16-16-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^u16-16-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### II. Abänderung einzelner Vorschriften
 
@@ -19374,7 +19423,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind die damit im Widerspruch stehenden zi
 
 Der Schlusstitel des Zivilgesetzbuches[^u17-1-1] gilt für dieses Gesetz.
 
-[^u17-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u17-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Anpassung an das neue Recht
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20240101-fr-xml-23.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250101-fr-xml-33.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 1<sup>er</sup> janvier 2024)
+du 30 mars 1911 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -181,7 +181,7 @@ Lorsque la loi exige qu’un contrat soit fait en la forme écrite, cette règle
 
 <sup>3</sup> La signature des aveugles ne les oblige que si elle a été dûment légalisée, ou s’il est établi qu’ils ont connu le texte de l’acte au moment de signer.
 
-[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^14-2]: Introduit par l’annexe ch. 2 de la LF du 19 déc. 2003 sur la signature électronique ([RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5423](https://fedlex.data.admin.ch/eli/fga/2001/889)). Nouvelle teneur selon l’annexe ch. II 4 de la LF du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### d. Marques pouvant remplacer la signature
@@ -447,9 +447,9 @@ Les dispositions ci-après sont applicables aux contrats portant sur des choses 
 <sup>3</sup> En cas de modification importante du pouvoir d’achat de la monnaie, le Conseil fédéral adapte en conséquence le montant indiqué à l’al. 1, let. b.
 
 [^40a-1]: Introduit par le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> juil. 1991 ([RO 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [FF 1986 II 360](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)).
-[^40a-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^40a-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^40a-3]: Nouvelle teneur selon le ch. II de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); FF **20****1****7** 4767).
-[^40a-4]: RS **2****2****1.229.1**
+[^40a-4]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^40a-5]: Introduit par le ch. II de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### II. Principe
@@ -623,7 +623,7 @@ Le juge peut, en tenant compte de circonstances particulières, allouer à la vi
 
 [^48-1]
 
-[^48-1]: Abrogé par l’art. 21 al. 1 de la LF du 30 sept. 1943 sur la concurrence déloyale, avec effet au 1<sup>er</sup> mars 1945 (RS **2** 945).
+[^48-1]: Abrogé par l’art. 21 al. 1 de la LF du 30 sept. 1943 sur la concurrence déloyale, avec effet au 1<sup>er</sup> mars 1945 ([RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)945).
 
 ### 3. Atteinte à la personnalité
 
@@ -747,7 +747,7 @@ Le juge peut, en tenant compte de circonstances particulières, allouer à la vi
 <sup>3</sup> Le Conseil fédéral arrête les mesures de sécurité à prendre au sens de l’al. 2.
 
 [^59a-1]: Introduit par l’annexe ch. 2 de la LF du 19 déc. 2003 sur la signature électronique ([RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5423](https://fedlex.data.admin.ch/eli/fga/2001/889)). Nouvelle teneur selon l’annexe ch. II 4 de la LF du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^59a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^59a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### G. Prescription
 
@@ -803,7 +803,7 @@ Le juge peut, en tenant compte de circonstances particulières, allouer à la vi
 
 <sup>3</sup> Sont réservées les dispositions de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^63-1] relatives à la répétition de l’indu.
 
-[^63-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^63-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### B. Étendue de la restitution
 
@@ -949,7 +949,7 @@ Lorsqu’une obligation doit être exécutée ou quelque autre acte juridique ac
 
 <sup>2</sup> Les conventions contraires demeurent réservées.
 
-[^78-1]: Pour les délais légaux de droit fédéral et pour les délais fixés par des autorités conformément au droit fédéral, le samedi est actuellement assimilé à un jour férié reconnu officiellement (art. 1 de la LF du 21 juin 1963 sur la supputation des délais comprenant un samedi; [RS 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^78-1]: Pour les délais légaux de droit fédéral et pour les délais fixés par des autorités conformément au droit fédéral, le samedi est actuellement assimilé à un jour férié reconnu officiellement (art. 1 de la LF du 21 juin 1963 sur la supputation des délais comprenant un samedi; [RS 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### III. Heures consacrées aux affaires
 
@@ -1123,8 +1123,8 @@ Le débiteur est autorisé à consigner ou à se départir du contrat, comme dan
 
 <sup>2</sup> Les dispositions de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^97-1] et du code de procédure civile du 19 décembre 2008 (CPC)[^97-2] s’appliquent à l’exécution.[^97-3]
 
-[^97-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^97-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^97-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^97-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^97-3]: Nouvelle teneur selon l’annexe 1 ch. II 5 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 2. Obligations de faire et de ne pas faire
@@ -1376,7 +1376,7 @@ Celui qui s’est obligé en faveur d’un tiers ne peut compenser sa dette avec
 
 <sup>2</sup> L’inadmissibilité ou la révocabilité de la compensation en cas de faillite du débiteur est régie par la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^123-1].
 
-[^123-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^123-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### II. Effets
 
@@ -1972,7 +1972,7 @@ Sont réservées les règles spéciales auxquelles la loi soumet la cession de c
 <sup>4</sup> La cession d’un patrimoine ou d’une entreprise appartenant à des sociétés commerciales, à des sociétés coopératives, à des associations, à des fondations ou à des entreprises individuelles qui sont inscrites au registre du commerce, est régie par les dispositions de la loi du 3 octobre 2003 sur la fusion[^181-2].[^181-3]
 
 [^181-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2003 sur la fusion, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^181-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^181-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^181-3]: Introduit par l’annexe ch. 2 de la LF du 3 oct. 2003 sur la fusion, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### VI. …
@@ -2096,7 +2096,7 @@ Sauf usage ou convention contraire, les frais de la délivrance, notamment ceux 
 <sup>2</sup> Lorsque le défaut de dénonciation d’instance n’est pas imputable au vendeur, celui-ci est libéré de son obligation de garantie dans la mesure où il prouve que le procès aurait pu avoir une issue plus favorable si l’instance lui avait été dénoncée à temps.
 
 [^193-1]: Nouvelle teneur selon l’annexe 1 ch. II 5 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^193-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^193-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### b. Abandon de la chose sans décision judiciaire
 
@@ -2142,7 +2142,7 @@ En cas d’éviction totale, la vente est réputée résiliée et l’acheteur a
 Pour les biens culturels au sens de l’art. 2, al. 1, de la loi du 20 juin 2003 sur le transfert des biens culturels[^196a-2], l’action en garantie en cas d’éviction se prescrit par un an à compter du moment où l’acheteur a découvert les défauts; elle se prescrit dans tous les cas par 30 ans à compter de la conclusion du contrat*.*
 
 [^196a-1]: Introduit par l’art. 32 ch. 2 de la LF du 20 juin 2003 sur le transfert des biens culturels, en vigueur depuis le 1<sup>er</sup> juin 2005 ([RO 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 505](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^196a-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^196a-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ### III. Garantie en raison des défauts de la chose
 
@@ -2291,7 +2291,7 @@ Toute clause prévoyant une réduction du délai de prescription est nulle si le
 <sup>6</sup> Le vendeur ne peut invoquer la prescription s’il est prouvé qu’il a induit l’acheteur en erreur intentionnellement. Cette dernière disposition ne s’applique pas au délai de 30 ans prévu à l’al. 3.
 
 [^210-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012 (Prescription de la garantie pour défauts. Prolongation et coordination), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [FF 2011 2699](https://fedlex.data.admin.ch/eli/fga/2011/424)[3655](https://fedlex.data.admin.ch/eli/fga/2011/597)).
-[^210-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^210-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ### C. Obligations de l’acheteur
 
@@ -2437,7 +2437,7 @@ Si le titulaire du droit de préemption entend exercer son droit, il doit l’in
 L’aliénation des immeubles agricoles est en outre régie par la loi fédérale du 4 octobre 1991 sur le droit foncier rural[^218-2].
 
 [^218-1]: Nouvelle teneur selon l’art. 92 ch. 2 de la LF du 4 oct. 1991 sur le droit foncier rural, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 889](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^218-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^218-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### D. Garantie
 
@@ -3053,7 +3053,7 @@ Si un tiers fait valoir sur la chose un droit incompatible avec celui du locatai
 La procédure est régie par le CPC[^259i-2].
 
 [^259i-1]: Nouvelle teneur selon l’annexe 1 ch. II 5 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^259i-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^259i-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### H. Rénovation et modification
 
@@ -3567,7 +3567,7 @@ Le locataire qui veut demander une prolongation du bail doit saisir l’autorit�
 
 <sup>5</sup> Lorsque l’autorité compétente rejette une requête en annulabilité du congé introduite par le locataire, elle examine d’office si le bail peut être prolongé. [^273-3]
 
-[^273-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^273-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^273-2]: Nouvelle teneur selon l’annexe 1 ch. II 5 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^273-3]: Nouvelle teneur selon l’annexe 1 ch. II 5 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -3637,7 +3637,7 @@ Les dispositions concernant les baux à ferme portant sur des habitations ou des
 
 <sup>2</sup> Au surplus, le code des obligations est applicable, à l’exception des dispositions relatives aux baux à ferme portant sur des habitations ou des locaux commerciaux.[^276a-2]
 
-[^276a-1]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^276a-1]: [RS 221.213.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866)
 [^276a-2]: Nouvelle teneur selon l’annexe 1 ch. II 5 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### B. Inventaire
@@ -3948,7 +3948,7 @@ Le bailleur a, pour la garantie du fermage de l’année écoulée et de l’ann
 La procédure est régie par le CPC[^301-2].
 
 [^301-1]: Nouvelle teneur selon l’annexe 1 ch. II 5 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^301-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^301-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### R. Bail à cheptel
 
@@ -4311,7 +4311,7 @@ Le travailleur exécute en personne le travail dont il s’est chargé, à moins
 <sup>2</sup> Sont nulles la cession et la mise en gage de salaires futurs en garantie d’autres obligations.
 
 [^325-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1990, en vigueur depuis le 1<sup>er</sup> juil. 1991 ([RO 1991 974](https://fedlex.data.admin.ch/eli/oc/1991/974_974_974); [FF 1989 III 1189](https://fedlex.data.admin.ch/eli/fga/1989/3__1189_), [1990 I 108](https://fedlex.data.admin.ch/eli/fga/1990/1_120_108_103)).
-[^325-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^325-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### V. Travail aux pièces ou à la tâche
 
@@ -4409,7 +4409,7 @@ Le travailleur exécute en personne le travail dont il s’est chargé, à moins
 L’employeur ne peut traiter des données concernant le travailleur que dans la mesure où ces données portent sur les aptitudes du travailleur à remplir son emploi ou sont nécessaires à l’exécution du contrat de travail. En outre, les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^328b-2] sont applicables.[^328b-3]
 
 [^328b-1]: Introduit par l’annexe ch. 2 de la LF du 19 juin 1992 sur la protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
-[^328b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^328b-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^328b-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 18 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### VIII. Congés et vacances
@@ -4587,7 +4587,7 @@ Le travailleur a droit à un congé payé pour la prise en charge d’un membre 
 <sup>5</sup> L’employeur est informé sans délai des modalités selon lesquelles le congé est pris et de tout changement.
 
 [^329i-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^329i-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^329i-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### 8. Congé d’adoption
 
@@ -4604,7 +4604,7 @@ Le travailleur a droit à un congé payé pour la prise en charge d’un membre 
 <sup>4</sup> Le congé d’adoption peut être pris sous la forme de journées ou de semaines.
 
 [^329j-1]: Introduit par l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^329j-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^329j-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### IX. Autres obligations
 
@@ -4732,7 +4732,7 @@ Le Conseil fédéral détermine:
 [^331d-1]: Introduit par le ch. II de la LF du 17 déc. 1993 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 229](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 [^331d-2]: Nouvelle teneur de la phrase selon l’annexe ch. 1 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^331d-3]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^331d-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^331d-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^331d-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 2. Versement anticipé
@@ -4759,11 +4759,11 @@ Le Conseil fédéral détermine:
 
 [^331e-1]: Introduit par le ch. II de la LF du 17 déc. 1993 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 229](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 [^331e-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^331e-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^331e-4]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^331e-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^331e-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^331e-4]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^331e-5]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^331e-6]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^331e-7]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^331e-7]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^331e-8]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 3. Limitations en cas de découvert de l’institution de prévoyance
@@ -5504,7 +5504,7 @@ Le contrat doit être fait par écrit et régler notamment:
 
 <sup>3</sup> L’art. 34 de la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^348b-1] est réservé.
 
-[^348b-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^348b-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### III. Obligations spéciales de l’employeur
 
@@ -6601,7 +6601,7 @@ Le contrat n’est valable que s’il est établi en la forme écrite et contien
 
 <sup>2</sup> Lors du traitement de données personnelles concernant le mandant, le mandataire est tenu à un devoir de discrétion; les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^406g-1] sont réservées.[^406g-2]
 
-[^406g-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^406g-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^406g-2]: Nouvelle teneur selon l’annexe 1 ch. II 18 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### G. Rémunération et frais excessifs
@@ -6764,7 +6764,7 @@ Les cantons peuvent soumettre à des prescriptions spéciales les agents de chan
 
 <sup>3</sup> Les art. 34 et 44, al. 3, de la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^418e-1] sont réservés.
 
-[^418e-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^418e-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### D. Obligations du mandant
 
@@ -7950,7 +7950,7 @@ Le contrat de rente viagère n’est valable que s’il a été fait en la forme
 
 Les dispositions ci-dessus ne s’appliquent pas aux contrats de rente viagère soumis à la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^520-1]; sous réserve toutefois de ce qui est prescrit pour l’insaisissabilité de la rente.
 
-[^520-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^520-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### B. Contrat d’entretien viager
 
@@ -8451,7 +8451,7 @@ Il ne peut être désigné de fondé de procuration ni de mandataire commercial 
 
 <sup>3</sup> Les droits des créanciers sociaux dans la faillite d’un associé sont régis par la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^571-1].
 
-[^571-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^571-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### D. Situation des créanciers personnels d’un associé
 
@@ -8936,7 +8936,7 @@ Les créanciers sociaux et la société ne jouissent, dans la faillite d’un co
 
 <sup>5</sup> Lorsque des titres sont émis, ils sont signés par un membre du conseil d’administration au moins.[^622-8]
 
-[^622-1]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^622-1]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^622-2]: Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-3]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)). Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
@@ -8962,7 +8962,7 @@ Les créanciers sociaux et la société ne jouissent, dans la faillite d’un co
 
 <sup>1</sup> Les actions ne peuvent être émises qu’au pair ou à un cours supérieur. Demeure réservée l’émission de nouvelles actions destinées à remplacer celles qui ont été annulées.
 
-<sup>2</sup> et <sup>3</sup> …[^624-1]
+<sup>2 et <sup>3</sup></sup> …[^624-1]
 
 [^624-1]: Abrogés par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -9114,7 +9114,7 @@ Doivent être annexés à l’acte constitutif:
 <sup>3</sup> Ont qualité d’apports en espèces les versements effectués dans la monnaie dans laquelle le capital-actions est libellé, ainsi que les versements effectués dans une monnaie librement convertible autre que celle dans laquelle est fixé le capital-actions.
 
 [^633-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^633-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^633-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### b. En nature
 
@@ -9519,7 +9519,7 @@ Les actions émises avant l’inscription au registre du commerce de l’augment
 <sup>4</sup> Les dispositions de la loi du 8 novembre 1934 sur les banques[^653-2] concernant le capital convertible sont réservées.
 
 [^653-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^653-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### 2. Limites
 
@@ -9617,7 +9617,7 @@ Ce droit de souscription prioritaire peut être limité ou supprimé:
 
 [^653e-1]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^653e-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^653e-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-3]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^653e-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Attestation de vérification
@@ -10480,6 +10480,20 @@ Des parts de bénéfice ne peuvent être attribuées aux membres du conseil d’
 
 [^684-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
+### III. Sociétés surendettées sans activité commerciale ni actifs
+
+#### Art. 684a
+
+[^684a-1]
+
+<sup>1</sup> Le transfert d’actions est nul si la société n’a plus d’activité commerciale ni d’actifs réalisables et si elle est surendettée.
+
+<sup>2</sup> Si, dans le cadre d’une réquisition, le registre du commerce a un soupçon fondé d’un tel transfert d’actions, il somme la société de produire les derniers comptes annuels signés; si la société dispose d’un organe de révision, elle produira les derniers comptes annuels révisés. Si la société ne donne pas suite à cette demande ou si les comptes annuels viennent confirmer le soupçon, l’inscription au registre du commerce est refusée.
+
+<sup>3</sup> L’art. 934 est réservé.
+
+[^684a-1]: Introduit par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+
 ### H. Restriction à la transmissibilité
 
 ### I. Restriction légale
@@ -10773,8 +10787,8 @@ Le conseil d’administration s’assure que les actionnaires ont notamment la p
 <sup>3</sup> Sont considérés comme représentants dépositaires les établissements soumis à la loi du 8 novembre 1934 sur les banques[^689e-2] et les établissements financiers au sens de la loi fédérale du 15 juin 2018 sur les établissements financiers[^689e-3].
 
 [^689e-1]: Introduit par le ch. I de la LF du 4 oct. 1991 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^689e-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^689e-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^689e-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^689e-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### e. Communication
 
@@ -11093,8 +11107,8 @@ Si l’assemblée générale ne donne pas suite à la proposition, des actionnai
 <sup>3</sup> Les statuts peuvent régler les modalités, notamment par le biais d’un renvoi à un règlement d’arbitrage. Ils veillent à ce que les personnes qui peuvent être directement concernées par les effets juridiques de la sentence arbitrale soient informées de l’introduction et de la conclusion de la procédure et puissent participer à la constitution du tribunal arbitral et à la procédure en tant qu’intervenants.
 
 [^697n-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^697n-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^697n-3]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^697n-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^697n-3]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### Chapitre III: Organisation de la société
 
@@ -11409,7 +11423,7 @@ Une décision de l’assemblée générale recueillant au moins les deux tiers d
 <sup>3</sup> Les titulaires d’actions nominatives qui n’ont pas adhéré à une décision ayant pour objet la transformation du but social ou l’introduction d’actions à droit de vote privilégié ne sont pas liés par les restrictions statutaires de la transmissibilité des actions pendant un délai de six mois à compter de la publication de cette décision dans la *Feuille officielle suisse du commerce.*
 
 [^704-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^704-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^704-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^704-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^704-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -11468,7 +11482,7 @@ Sont en particulier annulables les décisions qui:
 - 3\. entraînent pour les actionnaires une inégalité de traitement ou un préjudice non justifiés par le but de la société;
 - 4\. suppriment le but lucratif de la société sans l’accord de tous les actionnaires.[^706-1]
 
-<sup>3</sup> et <sup>4</sup> …[^706-2]
+<sup>3 et <sup>4</sup></sup> …[^706-2]
 
 <sup>5</sup> Le jugement qui annule une décision de l’assemblée générale est opposable à tous les actionnaires, et chacun d’eux peut s’en prévaloir.
 
@@ -11891,7 +11905,7 @@ Le conseil d’administration n’est pas tenu d’aviser le tribunal:
 <sup>6</sup> Le conseil d’administration, l’organe de révision ou le réviseur agréé agissent avec célérité.
 
 [^725b-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^725b-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^725b-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 4. Réévaluation des immeubles et des participations
 
@@ -11973,13 +11987,18 @@ Les sociétés suivantes sont tenues de soumettre leurs comptes annuels et, le c
 
 <sup>1</sup> Lorsque les conditions d’un contrôle ordinaire ne sont pas remplies, la société soumet ses comptes annuels au contrôle restreint d’un organe de révision.
 
-<sup>2</sup> Moyennant le consentement de l’ensemble des actionnaires, la société peut renoncer au contrôle restreint lorsque son effectif ne dépasse pas dix emplois à plein temps en moyenne annuelle.
+<sup>2</sup> Moyennant le consentement de l’ensemble des actionnaires, la société peut renoncer au contrôle restreint lorsque son effectif ne dépasse pas dix emplois à plein temps en moyenne annuelle. La renonciation ne vaut que pour les exercices futurs et son inscription au registre du commerce doit être requise avant le début de l’exercice.[^727a-1]
+
+<sup>2bis</sup> L’inscription de la renonciation au registre du commerce doit être accompagnée des comptes annuels du dernier exercice écoulé.[^727a-2]
 
 <sup>3</sup> Le conseil d’administration peut requérir par écrit le consentement des actionnaires. Il peut fixer un délai de réponse de 20 jours au moins et leur indiquer qu’un défaut de réponse équivaut à un consentement.
 
 <sup>4</sup> Lorsque les actionnaires ont renoncé au contrôle restreint, cette renonciation est également valable les années qui suivent. Chaque actionnaire a toutefois le droit d’exiger un contrôle restreint au plus tard dix jours avant l’assemblée générale. Celle-ci doit alors élire l’organe de révision.
 
 <sup>5</sup> Au besoin, le conseil d’administration procède à l’adaptation des statuts et requiert que l’organe de révision soit radié du registre du commerce.
+
+[^727a-1]: Phrase introduite par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^727a-2]: Introduit par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### II. Exigences auxquelles les organes de révision doivent satisfaire
 
@@ -11991,7 +12010,7 @@ Les sociétés suivantes sont tenues de soumettre leurs comptes annuels et, le c
 
 <sup>2</sup> Les autres sociétés tenues à un contrôle ordinaire désignent comme organe de révision un expert-réviseur agréé au sens de la loi du 16 décembre 2005 sur la surveillance de la révision. Elles doivent également charger un expert-réviseur agréé de réaliser les contrôles qui, selon la loi, doivent être effectués par un réviseur agréé.
 
-[^727b-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^727b-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### 2. Pour un contrôle restreint
 
@@ -11999,7 +12018,7 @@ Les sociétés suivantes sont tenues de soumettre leurs comptes annuels et, le c
 
 Les sociétés tenues à un contrôle restreint désignent comme organe de révision un réviseur agréé au sens de la loi du 16 décembre 2005 sur la surveillance de la révision[^727c-1].
 
-[^727c-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^727c-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### III. Contrôle ordinaire
 
@@ -12087,8 +12106,8 @@ L’organe de révision informe également l’assemblée générale lorsqu’il
 
 <sup>3</sup> Si la société est manifestement surendettée et que le conseil d’administration omet d’en aviser le tribunal, l’organe de révision avertit ce dernier.[^728c-2]
 
-[^728c-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^728c-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^728c-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^728c-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### IV. Contrôle restreint
 
@@ -12702,7 +12721,7 @@ Les fondateurs, les membres du conseil d’administration et toutes les personne
 <sup>4</sup> Les créances des créanciers sociaux qui ont accepté qu’elles soient placées à un rang inférieur à celui de toutes les autres créances ne sont pas prises en compte dans le calcul du dommage de la société.[^757-3]
 
 [^757-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^757-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^757-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^757-3]: Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Effet de la décharge
@@ -13157,6 +13176,16 @@ Les statuts peuvent déroger à cette réglementation:
 <sup>1</sup> Lorsque l’assemblée des associés doit approuver la cession de parts sociales, celle-ci ne déploie ses effets qu’une fois l’approbation donnée.
 
 <sup>2</sup> L’approbation est réputée accordée si l’assemblée des associés ne la refuse pas dans les six mois qui suivent la réception de la requête.
+
+### d. Sociétés surendettées sans activité commerciale ni actifs
+
+#### Art. 787a
+
+[^787a-1]
+
+S’agissant de la cession de parts sociales de sociétés surendettées sans activité commerciale ni actifs réalisables, les prescriptions du droit de la société anonyme s’appliquent par analogie.
+
+[^787a-1]: Introduit par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### 2. Modes particuliers d’acquisition
 
@@ -14012,7 +14041,7 @@ Toute décision de l’assemblée générale ou de l’administration modifiant 
 
 <sup>2</sup> Les contrats d’assurance qu’une société d’assurance concessionnaire a conclus avec ses membres sont assujettis aux dispositions de la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^841-1] de la même façon que les contrats d’assurance conclus par elle avec des tiers.
 
-[^841-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^841-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### Chapitre III: Perte de la qualité d’associé
 
@@ -14231,7 +14260,7 @@ Les associés exercent, dans l’assemblée générale ou dans les votations par
 
 <sup>1</sup> Les statuts peuvent notamment prévoir la constitution de fonds destinés soit à créer et à soutenir des institutions[^862-1] de prévoyance[^862-2] au profit d’employés et d’ouvriers de l’entreprise, soit à favoriser des associés.
 
-<sup>2</sup> à <sup>4</sup> …[^862-3]
+<sup>2 à <sup>4</sup></sup> …[^862-3]
 
 [^862-1]: Nouveau terme selon le ch. I let. c de la LF du 21 mars 1958, en vigueur depuis le 1<sup>er</sup> juil. 1958 ([RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [FF 1956 II 845](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)).
 [^862-2]: Nouveau terme selon le ch. I let. c de la LF du 21 mars 1958, en vigueur depuis le 1<sup>er</sup> juil. 1958 ([RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [FF 1956 II 845](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)).
@@ -14353,7 +14382,7 @@ Ne sont pas valables les dispositions statutaires qui limitent la responsabilit�
 
 <sup>4</sup> Une ordonnance du Conseil fédéral déterminera la procédure à suivre.[^873-2]
 
-[^873-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^873-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^873-2]: Nouvelle teneur selon le ch. II 10 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### f. Modification du régime de la responsabilité
@@ -15000,19 +15029,37 @@ Par entités juridiques au sens du présent titre, on entend:
 
 <sup>2</sup> Sauf disposition contraire de la loi, les tribunaux et les autorités administratives de la Confédération et des cantons communiquent aux offices du registre du commerce les faits nécessitant une inscription, une modification ou une radiation.
 
+<sup>2bis</sup> L’autorité fédérale de haute surveillance du registre du commerce veille à ce que la base de données centrale des personnes ne comporte pas d’inscriptions incompatibles avec l’interdiction d’exercer une activité en vertu de l’art. 67 du code pénal[^928a-1], de l’art. 50 du code pénal militaire du 13 juin 1927[^928a-2] ou de l’art. 16*a,* al. 1, du droit pénal des mineurs du 20 juin 2003[^928a-3]. Elle vérifie notamment si les fonctions enregistrées dans la base de données centrale des personnes sont compatibles avec les interdictions d’exercer une activité communiquées en vertu de l’art. 64*a* de la loi du 17 juin 2016 sur le casier judiciaire[^928a-4].[^928a-5]
+
+<sup>2ter</sup> Si elle constate une incompatibilité, elle informe l’office cantonal du registre du commerce compétent.[^928a-6]
+
+<sup>2quater</sup> L’office cantonal du registre du commerce somme l’entité juridique de prendre les mesures nécessaires.[^928a-7]
+
 <sup>3</sup> Les renseignements et communications ne sont pas soumis à émolument.
+
+[^928a-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^928a-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^928a-3]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^928a-4]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^928a-5]: Introduit par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928a-6]: Introduit par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928a-7]: Introduit par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### C. Bases de données centrales
 
 #### Art. 928b
 
-<sup>1</sup> L’autorité de haute surveillance de la Confédération gère les bases de données centrales des entités juridiques et des personnes inscrites dans les registres des cantons. Les bases de données centrales permettent de différencier et de rechercher les entités juridiques et les personnes inscrites, et de mettre ces données en relation.
+<sup>1</sup> L’autorité fédérale de haute surveillance du registre du commerce gère les bases de données centrales des entités juridiques et des personnes inscrites dans les registres des cantons.[^928b-1] Les bases de données centrales permettent de différencier et de rechercher les entités juridiques et les personnes inscrites, et de mettre ces données en relation.
 
-<sup>2</sup> La saisie dans la base de données centrale des entités juridiques incombe à l’autorité de haute surveillance de la Confédération. Celle-ci fait en sorte que les données publiques des entités juridiques puissent faire gratuitement l’objet d’interrogations spécifiques sur Internet.
+<sup>2</sup> La saisie dans la base de données centrale des entités juridiques incombe à l’autorité fédérale de haute surveillance du registre du commerce.[^928b-2] Celle-ci fait en sorte que les données publiques des entités juridiques puissent faire gratuitement l’objet d’interrogations spécifiques sur Internet.
 
-<sup>3</sup> La saisie dans la base de données centrale des personnes incombe aux offices du registre du commerce.
+<sup>3</sup> La saisie dans la base de données centrale des personnes incombe aux offices du registre du commerce. L’autorité fédérale de haute surveillance du registre du commerce fait en sorte que les données des personnes physiques puissent faire gratuitement l’objet d’interrogations spécifiques sur Internet.[^928b-3]
 
 <sup>4</sup> La Confédération est responsable de la sécurité des systèmes d’information et de la légalité du traitement des données.
+
+[^928b-1]: Nouvelle teneur selon le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928b-2]: Nouvelle teneur selon le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928b-3]: Phrase introduite par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### D. Numéro AVS et numéro personnel
 
@@ -15042,7 +15089,7 @@ Par entités juridiques au sens du présent titre, on entend:
 
 Les entités juridiques inscrites au registre du commerce reçoivent un numéro d’identification des entreprises tel qu’il est prévu par la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^930-1].
 
-[^930-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^930-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ### III. Inscription obligatoire et inscription volontaire
 
@@ -15171,7 +15218,7 @@ Les autorités du registre du commerce vérifient que les conditions légales re
 
 <sup>3</sup> Pour les fondations et les entités juridiques qui sont soumises à surveillance en vertu de la loi du 23 juin 2006 sur les placements collectifs[^939-1], l’affaire est transmise à l’autorité de surveillance.
 
-[^939-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^939-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### H. Amendes d’ordre
 
@@ -15206,7 +15253,9 @@ Le Conseil fédéral fixe les modalités de la perception des émoluments, en pa
 
 <sup>2</sup> Chaque canton désigne un tribunal supérieur comme unique instance de recours.
 
-<sup>3</sup> Les autorités judiciaires cantonales communiquent immédiatement leurs décisions à l’office du registre du commerce et les notifient à l’autorité de haute surveillance de la Confédération.
+<sup>3</sup> Les autorités judiciaires cantonales communiquent immédiatement leurs décisions à l’office du registre du commerce et les notifient à l’autorité fédérale de haute surveillance du registre du commerce.[^942-1]
+
+[^942-1]: Nouvelle teneur selon le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### K. Ordonnance
 
@@ -15398,7 +15447,7 @@ Les entreprises suivantes ne tiennent qu’une comptabilité des recettes et des
 
 <sup>3</sup> Le principe de régularité de la comptabilité s’applique par analogie aux entreprises visées à l’al. 2.
 
-[^957-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^957-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Comptabilité
 
@@ -16012,7 +16061,7 @@ Sont libérées de cette obligation, les entreprises qui sont contrôlées par u
 - 1\. à laquelle l’al. 1 est applicable, ou
 - 2\. qui doit établir un rapport équivalent en vertu du droit étranger.
 
-[^964a-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^964a-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### B. But et contenu du rapport
 
@@ -16421,7 +16470,7 @@ Au surplus:
 - 2\. le droit de gage sur les droits-valeurs inscrits est régi par les dispositions relatives au gage sur les créances et autres droits applicables aux papiers-valeurs (art. 899 à 906 CC).
 
 [^973g-1]: Introduit par le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^973g-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^973g-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### V. Annulation
 
@@ -17530,8 +17579,8 @@ Après ces justifications, le juge somme le détenteur inconnu de produire la le
 
 <sup>2</sup> Lorsqu’un de ces actes doit être accompli dans un certain délai dont le dernier jour est un dimanche ou un autre jour reconnu férié[^1081-2] par l’État, ce délai est prorogé jusqu’au premier jour ouvrable qui en suit l’expiration. Les jours fériés intermédiaires sont compris dans la computation du délai.
 
-[^1081-1]: Pour les délais légaux de droit fédéral et pour les délais fixés par des autorités conformément au droit fédéral, le samedi est actuellement assimilé à un jour férié reconnu officiellement (art. 1 de la LF du 21 juin 1963 sur la supputation des délais comprenant un samedi; [RS 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
-[^1081-2]: Pour les délais légaux de droit fédéral et pour les délais fixés par des autorités conformément au droit fédéral, le samedi est actuellement assimilé à un jour férié reconnu officiellement (art. 1 de la LF du 21 juin 1963 sur la supputation des délais comprenant un samedi; [RS 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^1081-1]: Pour les délais légaux de droit fédéral et pour les délais fixés par des autorités conformément au droit fédéral, le samedi est actuellement assimilé à un jour férié reconnu officiellement (art. 1 de la LF du 21 juin 1963 sur la supputation des délais comprenant un samedi; [RS 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
+[^1081-2]: Pour les délais légaux de droit fédéral et pour les délais fixés par des autorités conformément au droit fédéral, le samedi est actuellement assimilé à un jour férié reconnu officiellement (art. 1 de la LF du 21 juin 1963 sur la supputation des délais comprenant un samedi; [RS 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### b. Calcul des délais
 
@@ -17974,7 +18023,7 @@ Le tiré qui paie un chèque endossable est obligé de vérifier la régularité
 
 <sup>2</sup> Il en est de même du porteur qui, par suite de mesures prises en application de la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^1126-1], ne peut pas disposer de son avoir auprès du tiré.
 
-[^1126-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1126-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### c. Droits du porteur en cas de refus d’opérer virement ou compensation
 
@@ -18055,7 +18104,7 @@ Sauf les chèques au porteur, tout chèque émis dans un pays et payable dans un
 
 Dans le présent chapitre, le mot «banquier» comprend les raisons de commerce qui sont soumises à la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^1135-1].
 
-[^1135-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1135-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### 2. Délais
 
@@ -18067,7 +18116,7 @@ Dans le présent chapitre, le mot «banquier» comprend les raisons de commerce 
 
 <sup>2</sup> Lorsque le dernier jour du délai accordé par la loi pour l’accomplissement des actes relatifs au chèque et notamment pour la présentation ou pour l’établissement du protêt ou d’un acte équivalent, est un dimanche ou un autre jour reconnu férié[^1136-1] par l’État, ce délai est prorogé jusqu’au premier jour ouvrable qui en suit l’expiration. Les jours fériés intermédiaires sont compris dans la computation du délai.
 
-[^1136-1]: Pour les délais légaux de droit fédéral et pour les délais fixés par des autorités conformément au droit fédéral, le samedi est actuellement assimilé à un jour férié reconnu officiellement (art. 1 de la LF du 21 juin 1963 sur la supputation des délais comprenant un samedi; [RS 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^1136-1]: Pour les délais légaux de droit fédéral et pour les délais fixés par des autorités conformément au droit fédéral, le samedi est actuellement assimilé à un jour férié reconnu officiellement (art. 1 de la LF du 21 juin 1963 sur la supputation des délais comprenant un samedi; [RS 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### b. Calcul des délais
 
@@ -18217,7 +18266,7 @@ Les assignations qui ne sont pas définies dans le titre comme effets de change,
 
 Les dispositions de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^1150-1] relatives à la poursuite pour effets de change ne sont pas applicables à l’assignation à ordre.
 
-[^1150-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1150-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### II. Promesse de payer à ordre
 
@@ -18229,7 +18278,7 @@ Les dispositions de la loi fédérale du 11 avril 1889 sur la poursuite pour det
 
 <sup>3</sup> Les dispositions de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^1151-1] relatives à la poursuite pour effets de change ne sont pas applicables aux promesses de payer à ordre.
 
-[^1151-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1151-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### C. Autres titres endossables
 
@@ -18423,7 +18472,7 @@ Les titres représentatifs de marchandises émis comme papiers-valeurs par un en
 
 <sup>4</sup> L’autorité cantonale supérieure en matière de concordat peut, à la demande d’un créancier, révoquer le sursis dont le débiteur ferait abus.
 
-[^1166-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1166-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Réunion
 
@@ -18608,7 +18657,7 @@ Tout obligataire qui n’a pas adhéré aux décisions visées par les art. 1180
 
 <sup>2</sup> Les règles de la communauté des créanciers s’appliquent aux créanciers de l’emprunt garantis par gage, en tant que des restrictions seraient apportées à leurs droits dans une mesure excédant les effets du concordat.
 
-[^1184-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1184-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Emprunts d’entreprises de chemins de fer ou de navigation
 
@@ -18644,9 +18693,9 @@ II. La présente loi entrera en vigueur le 1<sup>er</sup> janvier 1912.
 
 Le Conseil fédéral est chargé, conformément aux dispositions de la loi fédérale du 17 juin 1874 concernant les votations populaires sur les lois et arrêtés fédéraux[^u1-3], de publier la présente loi.
 
-[^u1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^u1-2]: Les mod. peuvent être consultées au [RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377).
-[^u1-3]: [RS **1** 162; [RO 1962 827](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 al. 3. [RO 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 89 let. b]
+[^u1-3]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)162; [RO 1962 827](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 al. 3. [RO 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 89 let. b]
 
 ## Dispositions finales de la modification du 23 mars 1962
 
@@ -18802,7 +18851,7 @@ La disposition de la présente modification est applicable dès l’exercice qui
 
 <sup>2</sup> La modification du 23 décembre 2011 s’applique dès son entrée en vigueur à toutes les sociétés existantes.
 
-[^u5-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u5-1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Comptabilité commerciale et présentation des comptes
 
@@ -18830,7 +18879,7 @@ La disposition de la présente modification est applicable dès l’exercice qui
 
 <sup>2</sup> Les dispositions de la modification du 12 décembre 2014 s’appliquent dès son entrée en vigueur à toutes les sociétés existantes.
 
-[^u6-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u6-1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Adaptation des statuts et des règlements
 
@@ -18862,7 +18911,7 @@ La disposition de la présente modification est applicable dès l’exercice qui
 
 <sup>2</sup> Les dispositions de la modification du 25 septembre 2015 s’appliquent dès son entrée en vigueur aux entités juridiques existantes.
 
-[^u7-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u7-1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Adaptation des raisons de commerce inscrites
 
@@ -18890,7 +18939,7 @@ Le droit exclusif à la raison de commerce d’une société en nom collectif, d
 
 <sup>2</sup> Le nouveau droit s’applique à toutes les entités juridiques existantes dès son entrée en vigueur.
 
-[^u8-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u8-1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Inscription obligatoire des instituts de droit public
 
@@ -18912,7 +18961,7 @@ Les instituts de droit public constitués avant l’entrée en vigueur du nouvea
 
 <sup>2</sup> Les dispositions de la modification du 21 juin 2019 s’appliquent dès leur entrée en vigueur aux sociétés existantes.
 
-[^u9-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u9-1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Communication des exceptions à l’office du registre du commerce
 
@@ -18995,7 +19044,7 @@ Les art. 4 à 8 s’appliquent aux sociétés qui n’ont pas de titres de parti
 
 <sup>2</sup> Les dispositions du nouveau droit s’appliquent dès son entrée en vigueur à toutes les sociétés existantes.
 
-[^u10-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u10-1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Adaptation des statuts et des règlements
 
@@ -19140,17 +19189,17 @@ Sont abrogés dès l’entrée en vigueur de la présente loi:
 - 11\. les art. 20, al. 2, et 59 de la loi fédérale du 20 septembre 1963 sur la formation professionnelle[^u13-6-10];
 - 12\. les art. 64 et 72, al. 2, let. a*,* de la loi fédérale du 13 mars 1964 sur le travail dans l’industrie, l’artisanat et le commerce (loi sur le travail)[^u13-6-11].
 
-[^u13-6-1]: [RS **8** 283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)annexe ch. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)annexe ch. 1]
-[^u13-6-2]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
-[^u13-6-3]: [RS **8** 231; [RO 1951 1239](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 al. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [RO 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 ch. 3]
-[^u13-6-4]: [RS **2** 768; [RO 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
+[^u13-6-1]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)annexe ch. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)annexe ch. 1]
+[^u13-6-2]: [RS 821.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9878)
+[^u13-6-3]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)231; [RO 1951 1239](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 al. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [RO 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 ch. 3]
+[^u13-6-4]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)768; [RO 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
 [^u13-6-5]: [RO **1949** II 1394]
-[^u13-6-6]: [[RO 1953 1095](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1962 1185](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14, [1967 766](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088),[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931), [1979 2060](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640),[1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. c,[1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)appendice ch. 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611),[1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 ch. 5 [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)art. 36 al. 1, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)art. 92 ch. 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 ch. 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)ch. I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)annexe ch. 2,[1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 15; RS **2** 189 disp. fin. trans. tit. X, art. 6 ch. 7. [RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe let. c].
-[^u13-6-7]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Actuellement: LF sur les allocations pour perte de gain en cas de service et de maternité.
-[^u13-6-8]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^u13-6-6]: [[RO 1953 1095](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1962 1185](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14, [1967 766](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088),[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931), [1979 2060](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640),[1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. c,[1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)appendice ch. 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611),[1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 ch. 5 [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)art. 36 al. 1, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)art. 92 ch. 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 ch. 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)ch. I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)annexe ch. 2,[1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 15; [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)189 disp. fin. trans. tit. X, art. 6 ch. 7. [RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe let. c].
+[^u13-6-7]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Actuellement: LF sur les allocations pour perte de gain en cas de service et de maternité.
+[^u13-6-8]: [RS 221.215.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5888)
 [^u13-6-9]: [[RO 1962 1127](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131), **1964** 423 art. 22 al. 2 let. b,[1968 81](https://fedlex.data.admin.ch/eli/oc/1968/81_81_83)[1065](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)art. 35, [1969 318](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)ch. III, **1971** 751, [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50)[570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_), [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)appendice ch. 7, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 22, [1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)annexe ch. 3. [RO 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)art. 71]
 [^u13-6-10]: [[RO 1965 325](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [1968 87](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89), [1972 1709](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)ch. III, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 331. [RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)art. 75]
-[^u13-6-11]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57). L’art. 64 a actuellement une nouvelle teneur.
+[^u13-6-11]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884). L’art. 64 a actuellement une nouvelle teneur.
 
 ### Adaptation des rapports juridiques nés sous l’empire de l’ancien droit
 
@@ -19220,7 +19269,7 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 - 5\. l’art. 505, al. 2, n’est applicable qu’aux faillites et sursis concordataires prononcés trois mois au moins après l’entrée en vigueur de la loi;
 - 6\. le délai indiqué à l’art. 509, al. 3, ne court que du jour de l’entrée en vigueur de la loi.
 
-[^u15-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^u15-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^u15-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ## Dispositions finales et transitoires des titres vingt‑quatrième à trente-troisième
@@ -19235,7 +19284,7 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 
 Les dispositions du titre final du code civil[^u16-1-1] sont applicables aux matières régies par la présente loi.
 
-[^u16-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u16-1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Adaptation des sociétés de l’ancien droit au nouveau régime légal
 
@@ -19375,7 +19424,7 @@ Les dispositions de l’ordonnance du 20 février 1918[^u16-13-1] sur la communa
 
 Demeurent réservées les prescriptions de la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^u16-16-1].
 
-[^u16-16-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^u16-16-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### II. Modification de certaines prescriptions
 
@@ -19391,7 +19440,7 @@ Demeurent réservées les prescriptions de la loi fédérale du 8 novembre 1934 
 
 Sont abrogées, à compter de l’entrée en vigueur de la présente loi, toutes les dispositions contraires du droit civil fédéral, en particulier la troisième partie du code fédéral des obligations, du 14 juin 1881[^u16-18-1], intitulée: «Des sociétés commerciales, des papiers-valeurs et des raisons de commerce» (art. 552 à 715, 720 à 880).
 
-[^u16-18-1]: [[RO 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 449; RS **2** 776 art. 103 al. 1. RS **2** 3 tit. fin. art. 60 al. 2]
+[^u16-18-1]: [[RO 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 449; [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)776 art. 103 al. 1. [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)3 tit. fin. art. 60 al. 2]
 
 ### M. Entrée en vigueur de la présente loi
 
@@ -19417,7 +19466,7 @@ Sont abrogées, à compter de l’entrée en vigueur de la présente loi, toutes
 
 Le titre final du code civil[^u17-1-1] est applicable à la présente loi.
 
-[^u17-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u17-1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Adaptation au nouveau régime légal
 

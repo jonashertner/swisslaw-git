@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20240101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20240101-en-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250101-en-xml-27.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 January 2024)
+of 30 March 1911 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -183,7 +183,7 @@ Where the law requires that a contract be done in writing, the requirement also 
 
 <sup>3</sup> The signature of a blind person is binding only if it has been duly certified or if it is proved that he was aware of the terms of the document at the time of signing.
 
-[^14-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^14-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^14-2]: Inserted by Annex No 2 to the FA of 19 Dec. 2003 on Electronic Signatures ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)). Amended by Annex No II 4 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### d. Mark in lieu of signature
@@ -449,9 +449,9 @@ The following provisions apply to contracts relating to goods and services inten
 <sup>3</sup> In the event of significant change to the purchasing power of the national currency, the Federal Council shall adjust the sum indicated in para. 1 let. b accordingly.
 
 [^40a-1]: Inserted by No I of the FA of 5 Oct. 1990, in force since 1 July 1991 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)).
-[^40a-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^40a-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^40a-3]: Amended by No II of the FA of 19 June 2020, in force since 1 Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^40a-4]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^40a-4]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^40a-5]: Inserted by No II of the FA of 19 June 2020, in force since 1 Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### II. General principle
@@ -479,7 +479,7 @@ A customer may revoke his offer to enter into a contract or his acceptance of su
 
 The customer has no right of revocation:
 
-- a. if he expressly requested the contractual negotiations;
+- if he expressly requested the contractual negotiations;
 - b. if he declared his offer or acceptance at a stand at a market or trade fair.
 
 [^40c-1]: Inserted by No I of the FA of 5 Oct. 1990 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Amended by No I of the FA of 18 June 1993, in force since 1 Jan. 1994 ([AS 1993 3120](https://fedlex.data.admin.ch/eli/oc/1993/3120_3120_3120); BBl **1993** I 757).
@@ -749,7 +749,7 @@ In cases of homicide or personal injury, the court may award the victim of perso
 <sup>3</sup> The Federal Council defines the security precautions to be taken pursuant to paragraph 2.
 
 [^59a-1]: Inserted by Annex No 2 to the FA of 19 Dec. 2003 on Electronic Signatures ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)). Amended by Annex No II 4 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^59a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^59a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### G. Prescription
 
@@ -949,7 +949,7 @@ Where an obligation must be discharged or some other transaction accomplished wi
 
 <sup>2</sup> Any agreement to the contrary is unaffected.
 
-[^78-1]: In relation to the statutory time limits under federal law and the time limits fixed by authorities by virtue of federal law, Saturday is now regarded as equivalent to a public holiday (Art. 1 of the FA of 21 June 1963 on the Application of Limitation Periods to Saturdays; [SR 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^78-1]: In relation to the statutory time limits under federal law and the time limits fixed by authorities by virtue of federal law, Saturday is now regarded as equivalent to a public holiday (Art. 1 of the FA of 21 June 1963 on the Application of Limitation Periods to Saturdays; [SR 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### III. Performance during business hours
 
@@ -1123,8 +1123,8 @@ The obligor is entitled to deposit his performance or to withdraw from the contr
 
 <sup>2</sup> The procedure for debt enforcement is governed by the provisions of the Federal Act of 11 April 1889[^97-1] on Debt Collection and Bankruptcy and the Civil Procedure Code of 19 December 2008[^97-2] (CPC).[^97-3]
 
-[^97-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^97-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^97-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^97-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^97-3]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 2. Obligation to act or refrain from action
@@ -1968,7 +1968,7 @@ Where the law envisages special provisions governing the assignment of claims, t
 <sup>4</sup> The takeover by assignment of assets or businesses of commercial enterprises, cooperatives, associations, foundations or sole proprietorships registered in the commercial register is governed by the provisions of the Mergers Act of 3 October 2003[^181-2].[^181-3]
 
 [^181-1]: Amended by Annex No 2 to the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^181-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^181-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^181-3]: Inserted by Annex No 2 to the Mergers Act of 3 Oct. 2003 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)). Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### VI. ...
@@ -2092,7 +2092,7 @@ Unless otherwise provided by agreement or custom, the seller bears the costs of 
 <sup>2</sup> In the event of failure to serve the third-party notice for reasons not attributable to the seller, he is released from his warranty obligation to the extent that he can prove that the outcome would have been more favourable had the third-party notice been served promptly.
 
 [^193-1]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^193-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^193-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### b. Surrender of object without court decision
 
@@ -2138,7 +2138,7 @@ In the case of full dispossession, the contract of sale is deemed terminated and
 In the case of objects of cultural heritage within the meaning of Article 2 paragraph 1 of the Cultural Property Transfer Act of 20 June 2003[^196a-2], actions for breach of warranty of title prescribe one year after the buyer discovered the defect of title but in any event 30 years after the contract was concluded.
 
 [^196a-1]: Inserted by Art. 32 No 2 of the Cultural Property Transfer Act of 20 June 2003, in force since 1 June 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^196a-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^196a-2]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ### III. Warranty of quality and fitness
 
@@ -2287,7 +2287,7 @@ An agreement to reduce the prescriptive period is null and void if:
 <sup>6</sup> The seller may not invoke the prescriptive period if it is proved that he wilfully misled the buyer. The foregoing does not apply to the 30-year period under paragraph 3.
 
 [^210-1]: Amended by No I of the FA of 16 March 2012 (Prescription of Guarantee Claims. Extension and Coordination), in force since 1 Jan. 2013 ([AS 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [BBl 2011 2889](https://fedlex.data.admin.ch/eli/fga/2011/424)[3903](https://fedlex.data.admin.ch/eli/fga/2011/597)).
-[^210-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^210-2]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ### C. Obligations of the buyer
 
@@ -2429,7 +2429,7 @@ A person wishing to exercise his right of pre-emption must give notice of his in
 The Federal Act of 4 October 1991[^218-2] on Rural Land Rights applies to the sale of agricultural properties.
 
 [^218-1]: Amended by Art. 92 No 2 of the FA of 4 Oct. 1991 on Rural Land Rights, in force since 1 Jan. 1994 ([AS 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^218-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^218-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### D. Warranty
 
@@ -3045,7 +3045,7 @@ Where a third party claims a right over the object that is incompatible with the
 The procedure is governed by the CPO[^259i-2].
 
 [^259i-1]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^259i-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^259i-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### H. Renovations and modifications
 
@@ -3559,7 +3559,7 @@ A tenant wishing to apply for a lease extension must submit his request to the c
 
 <sup>5</sup> Where the competent authority rejects a request made by the tenant relating to challenging termination, it must examine ex officio whether the lease may be extended.[^273-3]
 
-[^273-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^273-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^273-2]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^273-3]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -3593,11 +3593,11 @@ A tenant wishing to apply for a lease extension must submit his request to the c
 
 ### Section Four: ...
 
-[^part2-tit8-chap4-1]
-
-[^part2-tit8-chap4-1]: Repealed by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-
 #### Art. 274–274g
+
+[^274274g-1]
+
+[^274274g-1]: Repealed by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### Title Eight<sup>bis</sup>: The Usufructuary Lease
 
@@ -3629,7 +3629,7 @@ The provisions governing usufructuary leases of residential and commercial premi
 
 <sup>2</sup> In other respects the Code of Obligations applies with the exception of the provisions governing leases of residential and commercial premises.[^276a-2]
 
-[^276a-1]: [SR 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^276a-1]: [SR 221.213.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866)
 [^276a-2]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### B. Inventory
@@ -3940,7 +3940,7 @@ The lessor of commercial premises has the same right of lien in respect of the r
 The procedure is governed by the CPO[^301-2].
 
 [^301-1]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^301-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^301-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### R. Livestock lease
 
@@ -4303,7 +4303,7 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 <sup>2</sup> Any assignment or pledge of future salary claims as security for other obligations is void.
 
 [^325-1]: Amended by No I of the FA of 14 Dec. 1990, in force since 1 July 1991 ([AS 1991 974](https://fedlex.data.admin.ch/eli/oc/1991/974_974_974); [BBl 1989 III 1233](https://fedlex.data.admin.ch/eli/fga/1989/3_1233__), [1990 I 120](https://fedlex.data.admin.ch/eli/fga/1990/1_120_108_103)).
-[^325-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^325-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### V. Piece work
 
@@ -4402,7 +4402,7 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 The employer may handle data concerning the employee only to the extent that such data concern the employee’s suitability for his job or are necessary for the performance of the employment contract. In all other respects, the provisions of the Data Protection Act of 25 September 2020[^328b-2] apply.[^328b-3]
 
 [^328b-1]: Inserted by Annex No 2 to the FA of 19 June 1992 on Data Protection, in force since 1 July 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
-[^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^328b-3]: Second sentence amended by Annex 1 No II 18 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### VIII. Days off work, holidays, and leave
@@ -4461,7 +4461,7 @@ The employer may not reduce the holiday entitlement of:
 [^329b-1]: Amended by Art. 117 of the FA of 25 June 1982 on Unemployment Insurance, in force since 1 Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Amended by Art. 13 of the FA of 6 Oct. 1989 on Youth Work, in force since 1 Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
 [^329b-3]: Amended by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^329b-4]: Amended by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-4]: Inserted by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^329b-5]: Amended by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-6]: Inserted by No I of the FA of 16 Dec. 1983, in force since 1 July 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
@@ -4579,7 +4579,7 @@ An employee is entitled to paid leave for the time he or she spends caring for a
 <sup>5</sup> The employer must be informed immediately about the arrangements made for taking the leave and about any changes to these arrangements.
 
 [^329i-1]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### 8. Adoption leave
 
@@ -4596,7 +4596,7 @@ An employee is entitled to paid leave for the time he or she spends caring for a
 <sup>4</sup> It may be taken in full weeks or on a day-to-day basis.
 
 [^329j-1]: Inserted by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^329j-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^329j-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### IX. Other duties
 
@@ -4729,7 +4729,7 @@ The Federal Council determines:
 [^331d-1]: Inserted by No II of the FA of 17 Dec. 1993 on the Promotion of Home Ownership using Occupational Pension Benefits, in force since 1 Jan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 [^331d-2]: Second sentence amended by Annex No 1 of the FA of 19 June 2015 (Pension Equality on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^331d-3]: Amended by Annex No 11 to the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^331d-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^331d-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^331d-5]: Amended by Annex No 1 of the FA of 19 June 2015 (Pension Equality on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 2. Early withdrawal
@@ -4756,11 +4756,11 @@ The Federal Council determines:
 
 [^331e-1]: Inserted by No II of the FA of 17 Dec. 1993 on the Promotion of Home Ownership using Occupational Pension Benefits, in force since 1 Jan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 [^331e-2]: Amended by Annex No 1 of the FA of 19 June 2015 (Pension Equality on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^331e-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^331e-4]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^331e-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^331e-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^331e-4]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^331e-5]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^331e-6]: Amended by Annex 1 of the FA of 19 June 2015 (Pension Equality on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^331e-7]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^331e-7]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^331e-8]: Amended by Annex No 1 of the FA of 19 June 2015 (Pension Equality on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 3. Restrictions if the benefits scheme has a cover deficit
@@ -5131,7 +5131,7 @@ After the probation period has expired, the employer may not terminate the emplo
 - c<sup>bis</sup>.[^336c-4] before the end of the extended period of maternity leave in accordance with Article 329*f* paragraph 2;
 - c<sup>ter</sup>.[^336c-5] between the start of leave in accordance with Article 329*f* paragraph 3 and the last day of leave taken, but for a maximum of three months from the end of the period in accordance with letter c;
 - c<sup>quater</sup>.[^336c-6] for as long as the employee is entitled to carer’s leave under Article 329*i*, but for no longer than six months from the day on which the period within which to take the leave begins;
-- [tab] c<sup>quinquies</sup>.[^336c-7] while leave is being taken in accordance with Article 329*g*<sup>bis</sup>;
+- c<sup>quinquies</sup>.[^336c-7] while leave is being taken in accordance with Article 329*g*<sup>bis</sup>;
 - d. while the employee is participating with the employer’s consent in an overseas aid project ordered by the competent federal authority.
 
 <sup>2</sup> Any notice of termination given during the proscribed periods stipulated in paragraph 1 is void; by contrast, where such notice was given prior to the commencement of a proscribed period but the notice period has not yet expired at that juncture, it is suspended and does not resume until the proscribed period has ended.
@@ -5499,7 +5499,7 @@ The employment relationship is defined by written contract which stipulates in p
 
 <sup>3</sup> Article 34 of the Federal Act of 2 April 1908[^348b-1] on Insurance Policies is reserved.
 
-[^348b-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^348b-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### III. Special obligations of the employer
 
@@ -6008,7 +6008,7 @@ Article 332: paragraph 4 (remuneration for inventions);
 
 Article 333: paragraph 3 (liability in the event of transfer of employment relationships);
 
-Article 335*c*: (notice periods)[^362-12]
+Article 335*c*: paragraph 3 (notice periods)[^362-12]
 
 Article 335*i*: (duty to negotiate in order to conclude a social plan)[^362-13]
 
@@ -6511,7 +6511,7 @@ If it is anticipated that the mandator will become permanently incapable of judg
 
 Actions taken by the mandatee before he became aware of the termination of the mandate are binding on the mandator or his heir as if the contract had still been in force.
 
-### <sup>Section One</sup><sup><sup>bis</sup></sup> <sup>:</sup> The Marriage or Partnership Brokerage Mandate
+### <sup>Section One</sup><sup>bis</sup> <sup>:</sup> The Marriage or Partnership Brokerage Mandate
 
 [^part2-tit13-chap1bis-1]
 
@@ -6598,7 +6598,7 @@ The contract must be done in writing and contain the following information:
 
 <sup>2</sup> When processing the mandator’s personal data, the mandatee is bound by a duty of discretion; the provisions of the Data Protection Act of 25 September 2020[^406g-1] apply.[^406g-2]
 
-[^406g-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^406g-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^406g-2]: Amended by Annex 1 No II 18 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### G. Reduction
@@ -6763,7 +6763,7 @@ The cantons reserve the right to enact special regulations governing stockbroker
 
 <sup>3</sup> Articles 34 and 44 paragraph 3 of the Federal Act of 2 April 1908 on Insurance Policies[^418e-1] are reserved.
 
-[^418e-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^418e-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### D. Obligations of the principal
 
@@ -7949,7 +7949,7 @@ The life annuity agreement is valid only if done in writing.
 
 The provisions of this Code governing life annuity agreements do not apply to life annuity agreements subject to the Federal Act of 2 April 1908[^520-1] on Insurance Policies, with the exception of the provision governing withdrawal of annuity entitlements.
 
-[^520-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^520-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### B. Lifetime maintenance agreement
 
@@ -8449,7 +8449,7 @@ A registered attorney or commercial agent may be appointed to manage the busines
 
 <sup>3</sup> The rights of partnership creditors in the event of the bankruptcy of a partner are governed by the Debt Collection and Bankruptcy Act of 11 April 1889[^571-1].
 
-[^571-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^571-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### D. Position of personal creditors of partners
 
@@ -8635,19 +8635,19 @@ On completion of the liquidation, the liquidators apply to have the partnership�
 
 ### B. Special cases
 
-### C. Interruption
-
 #### Art. 592
 
 <sup>1</sup> The five-year prescriptive period may not be invoked against a creditor seeking satisfaction solely from undivided partnership assets.
 
 <sup>2</sup> Where a partner takes over the partnership’s business with all its assets and liabilities, he may not invoke the five-year prescriptive period against its creditors. By contrast, for partners who have left the partnership, the five-year prescriptive period is replaced by the three-year prescriptive period in accordance with the principles governing assumption of debt; the same applies in the event that a third party takes over the partnership’s business with all its assets and liabilities.[^592-1]
 
-**Art. 593**
+[^592-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### C. Interruption
+
+#### Art. 593
 
 An interruption of the prescriptive period as against an ongoing partnership or another partner does not interrupt the prescriptive period as against a departing partner.
-
-[^592-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Title Twenty-Five: The Limited Partnership
 
@@ -8934,7 +8934,7 @@ In the event of the bankruptcy of a limited partner, neither the partnership’s
 
 <sup>5</sup> If share certificates are issued, they must be signed by at least one member of the board of directors.[^622-8]
 
-[^622-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^622-1]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^622-2]: Amended by No I 1 of the FA of 25. Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-3]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
@@ -9111,7 +9111,7 @@ The following documents must be appended to the deed of incorporation:
 <sup>3</sup> Money contributions are payments in the currency of the share capital and payments in freely convertible currencies that are different from that of the share capital.
 
 [^633-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^633-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^633-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### b. Contributions in kind
 
@@ -9209,9 +9209,9 @@ If special privileges are granted on foundation to the founding members or other
 
 ### I. Company
 
-[^part3-tit26-chap1-lvlG-1]
+[^part3-tit26-chap1-lvlF-lvlI-1]
 
-[^part3-tit26-chap1-lvlG-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlF-lvlI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 640
 
@@ -9241,9 +9241,9 @@ The company must be entered in the commercial register at the place where it has
 
 ### I. Time; Entry conditions not satisfied
 
-[^part3-tit26-chap1-lvlH-lvlI-1]
+[^part3-tit26-chap1-lvlG-lvlI-1]
 
-[^part3-tit26-chap1-lvlH-lvlI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlG-lvlI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 643
 
@@ -9259,9 +9259,9 @@ The company must be entered in the commercial register at the place where it has
 
 ### II. Nullity of shares issued before registration
 
-[^part3-tit26-chap1-lvlH-lvlII-1]
+[^part3-tit26-chap1-lvlG-lvlII-1]
 
-[^part3-tit26-chap1-lvlH-lvlII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlG-lvlII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 644
 
@@ -9313,7 +9313,9 @@ The resolution adopted by the general meeting or the board of directors concerni
 
 <sup>1</sup> The general meeting may resolve to make an ordinary increase in share capital.
 
-<sup>2</sup> The resolution of the general meeting must be done as a public deed and contain the following information:
+<sup>2</sup>
+
+The resolution of the general meeting must be done as a public deed and contain the following information:
 
 - 1\. the nominal value or, if applicable, the maximum nominal value by which the share capital is to be increased;
 - 2\. the number or, if applicable, the nominal value and type of newly issued shares and preferential rights pertaining to specific classes of shares;
@@ -9344,9 +9346,9 @@ The resolution adopted by the general meeting or the board of directors concerni
 
 ### 2. Share subscription
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl2-1]
+[^part3-tit26-chap1-lvlI-lvlI-lvl2-1]
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl2-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlI-lvlI-lvl2-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652
 
@@ -9370,9 +9372,9 @@ The resolution adopted by the general meeting or the board of directors concerni
 
 ### 3. Subscription right and issue price
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl3-1]
+[^part3-tit26-chap1-lvlI-lvlI-lvl3-1]
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl3-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlI-lvlI-lvl3-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652b
 
@@ -9392,9 +9394,9 @@ The resolution adopted by the general meeting or the board of directors concerni
 
 ### 4. Making of contributions
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl4-1]
+[^part3-tit26-chap1-lvlI-lvlI-lvl4-1]
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl4-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlI-lvlI-lvl4-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652c
 
@@ -9406,9 +9408,9 @@ Unless the law provides otherwise, capital contributions must be made in accorda
 
 ### 5. Increase from equity capital
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl5-1]
+[^part3-tit26-chap1-lvlI-lvlI-lvl5-1]
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl5-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlI-lvlI-lvl5-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652d
 
@@ -9431,9 +9433,9 @@ The equity capital used to meet the amount of the increase is shown:
 
 ### 6. Capital increase report
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl6-1]
+[^part3-tit26-chap1-lvlI-lvlI-lvl6-1]
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl6-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlI-lvlI-lvl6-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652e
 
@@ -9452,9 +9454,9 @@ The board of directors shall draw up a written report in which it gives account 
 
 ### 7. Audit confirmation
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl7-1]
+[^part3-tit26-chap1-lvlI-lvlI-lvl7-1]
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl7-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlI-lvlI-lvl7-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652f
 
@@ -9505,14 +9507,16 @@ Shares issued prior to entering the capital increase in the commercial register 
 
 [^653-1]
 
-<sup>1</sup> The general meeting resolve to create contingent capital by granting shareholders, creditors of bonds or similar debt instruments, employees, members of the board of directors of the company or another company in the group or third parties the right to subscribe for new shares (conversion and option rights).<sup>2</sup> The share capital automatically increases whenever and to the extent that such conversion or option rights are exercised and the contribution obligations are discharged by payment or offsetting.
+<sup>1</sup> The general meeting resolve to create contingent capital by granting shareholders, creditors of bonds or similar debt instruments, employees, members of the board of directors of the company or another company in the group or third parties the right to subscribe for new shares (conversion and option rights).
+
+<sup>2</sup> The share capital automatically increases whenever and to the extent that such conversion or option rights are exercised and the contribution obligations are discharged by payment or offsetting.
 
 <sup>3</sup> The provisions on increasing the share capital from contingent capital also apply *mutatis mutandis* in the event that conversion and acquisition requirements are imposed.
 
 <sup>4</sup> The foregoing paragraphs are subject to the regulations of the Banking Act of 8 November 1934[^653-2] on reserve capital.
 
 [^653-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^653-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### 2. Restrictions
 
@@ -9610,7 +9614,7 @@ This priority subscription right may be restricted or cancelled if:
 
 [^653e-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^653e-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^653e-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-3]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^653e-4]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Audit confirmation
@@ -9760,7 +9764,7 @@ The resolution of the general meeting on reducing the share capital must be done
 
 [^653p-1]
 
-<sup>1</sup> If the share capital is reduced in order to partly or fully correct a situation of negative net worth caused by losses and if a licensed audit expert confirms to the general meeting that the amount of the capital reduction does not exceed the amount of the negative net worth, the provisions relating to an ordinary capital reduction on securing claims, the interim account, the audit confirmation and the declarations of the board of directors do not apply.<sup>2</sup> The resolution of the general meeting shall contain the information specified in Article 653*n*. It shall make reference to the result of the audit report and amend the articles of association.
+<sup>1</sup> If the share capital is reduced in order to partly or fully correct a situation of negative net worth caused by losses and if a licensed audit expert confirms to the general meeting that the amount of the capital reduction does not exceed the amount of the negative net worth, the provisions relating to an ordinary capital reduction on securing claims, the interim account, the audit confirmation and the declarations of the board of directors do not apply.
 
 <sup>2</sup> The resolution of the general meeting shall contain the information specified in Article 653*n*. It shall make reference to the result of the audit report and amend the articles of association.
 
@@ -9828,7 +9832,6 @@ If a capital band is introduced, the articles of association must specify the fo
 - 4\. the number, nominal value and type of shares and the preferential rights of individual classes of shares or participation certificates;
 - 5\. the nature and value of special privileges and the names of the beneficiaries;
 - 6\. restrictions on the transferability of newly registered shares;
-
 - 7\. any restriction or cancellation of the subscription right or the good cause for which the board of directors may restrict or cancel the subscription right, and the allocation of subscription rights that have not been exercised or have been withdrawn;
 - 8\. the requirements for exercising contractually acquired subscription rights;
 - 9\. the authorisation of the board of directors to increase the capital with contingent capital and the information specified in Article 653*b*;
@@ -9870,11 +9873,11 @@ If a capital band is introduced, the articles of association must specify the fo
 
 ### V. Preference shares
 
-### <sup><sup>1.</sup></sup> <sup><sup>Require</sup></sup><sup>-</sup><sup><sup>ments</sup></sup>
+### <sup>1.</sup> <sup>Require</sup>-<sup>ments</sup>
 
-[^part3-tit26-chap1-lvlJ-lvlV-lvl1-1]
+[^part3-tit26-chap1-lvlI-lvlV-lvl1-1]
 
-[^part3-tit26-chap1-lvlJ-lvlV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlI-lvlV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 654
 
@@ -9892,9 +9895,9 @@ If a capital band is introduced, the articles of association must specify the fo
 
 ### 2. Status of preference shares
 
-[^part3-tit26-chap1-lvlJ-lvlV-lvl2-1]
+[^part3-tit26-chap1-lvlI-lvlV-lvl2-1]
 
-[^part3-tit26-chap1-lvlJ-lvlV-lvl2-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlI-lvlV-lvl2-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 656
 
@@ -9906,9 +9909,9 @@ If a capital band is introduced, the articles of association must specify the fo
 
 ### I. Definition; applicable regulations
 
-[^part3-tit26-chap1-lvlK-lvlI-1]
+[^part3-tit26-chap1-lvlJ-lvlI-1]
 
-[^part3-tit26-chap1-lvlK-lvlI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlJ-lvlI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656a
 
@@ -10000,9 +10003,9 @@ They shall be calculated based solely on the share capital:
 
 ### 2. Notice of and information on resolutions of general meetings
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]
+[^part3-tit26-chap1-lvlJ-lvlIII-lvl2-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlJ-lvlIII-lvl2-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656d
 
@@ -10059,9 +10062,9 @@ The articles of association may grant participation certificate holders the righ
 
 ### K. Dividend rights certificates
 
-[^part3-tit26-chap1-lvlL-1]
+[^part3-tit26-chap1-lvlK-1]
 
-[^part3-tit26-chap1-lvlL-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap1-lvlK-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 657
 
@@ -10127,9 +10130,9 @@ The articles of association may grant participation certificate holders the righ
 
 <sup>2</sup> The controlling company must show a separate amount equivalent to the acquisition value of these shares for the shares in accordance with paragraph 1 as statutory retained earnings.
 
-**Section Two: Rights and Obligations of Shareholders**
-
 [^659b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### Section Two: Rights and Obligations of Shareholders
 
 ### A. Entitlement to a share of the profits and proceeds of liquidation
 
@@ -10176,6 +10179,8 @@ Unless the articles of association provide otherwise, the share of the profits a
 [^663a663b-1]
 
 [^663a663b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), with effect from 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+
+### B. …
 
 #### Art. 663b<sup>bis</sup>
 
@@ -10339,9 +10344,9 @@ Losses must be offset in the following order against:
 
 ### III. Interest before commencement of operations
 
-[^part3-tit26-chap1-lvlD-lvlIII-1]
+[^part3-tit26-chap2-lvlD-lvlIII-1]
 
-[^part3-tit26-chap1-lvlD-lvlIII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlD-lvlIII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 676
 
@@ -10351,9 +10356,9 @@ Losses must be offset in the following order against:
 
 ### IV. Shares of profits paid to board members
 
-[^part3-tit26-chap1-lvlD-lvlIV-1]
+[^part3-tit26-chap2-lvlD-lvlIV-1]
 
-[^part3-tit26-chap1-lvlD-lvlIV-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlD-lvlIV-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 677
 
@@ -10399,9 +10404,9 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ### III. Shares of profits paid to board members on insolvency
 
-[^part3-tit26-chap1-lvlE-lvlIII-1]
+[^part3-tit26-chap2-lvlE-lvlIII-1]
 
-[^part3-tit26-chap1-lvlE-lvlIII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap2-lvlE-lvlIII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 679
 
@@ -10414,7 +10419,7 @@ Shares of the profit may be paid to members of the board of directors only out o
 [^679-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^679-2]: Repealed by Annex of the FA of 21 June 2013, with effect from 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
-### F. . Shareholder’s duty to contribute
+### F. Shareholder’s duty to contribute
 
 ### I. Object
 
@@ -10471,6 +10476,20 @@ Shares of the profit may be paid to members of the board of directors only out o
 <sup>2</sup> Transfer by means of transaction may also be effected by handing over the endorsed share certificate to the acquirer.
 
 [^684-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+
+### III. In the case of overindebted companies that do not operate as a business and have no assets
+
+#### Art. 684a
+
+[^684a-1]
+
+<sup>1</sup> If a company no longer operates as a business, no longer has any disposable assets and is overindebted, the transfer of shares is null and void.
+
+<sup>2</sup> If the commercial register office in connection with a notification reasonably suspects such a share transfer, it shall request the company to submit its current signed and, if the company has an auditor, audited annual accounts. If the company fails to comply with this request or if the annual accounts confirm the suspicion, the commercial register office shall refuse the requested entry.
+
+<sup>3</sup> Article 934 remains reserved.
+
+[^684a-1]: Inserted by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### H. Restricted transferability
 
@@ -10631,9 +10650,9 @@ After hearing the parties involved the company may delete entries in the share r
 
 ### 5. Registered shares not fully paid in
 
-[^part3-tit26-chap1-lvlH-lvlII-lvl5-1]
+[^part3-tit26-chap2-lvlH-lvlII-lvl5-1]
 
-[^part3-tit26-chap1-lvlH-lvlII-lvl5-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlH-lvlII-lvl5-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 687
 
@@ -10765,8 +10784,8 @@ The board of directors shall ensure that the shareholders are able in particular
 <sup>3</sup> Institutions subject to the Federal Act of 8 November 1934[^689e-2] on Banks and Savings Banks and financial institutions in accordance with the Financial Institutions Act of 15 June 2018[^689e-3] are deemed to be custodians acting as representatives.
 
 [^689e-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^689e-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^689e-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^689e-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^689e-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### e. Disclosure
 
@@ -10782,9 +10801,9 @@ The board of directors shall ensure that the shareholders are able in particular
 
 ### 4. Multiple beneficiaries
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl4-2]
+[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]
 
-[^part3-tit26-chap1-lvlJ-lvlI-lvl4-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 690
 
@@ -11055,9 +11074,9 @@ Where the general meeting rejects the motion, shareholders may within three mont
 
 ### III. Failure to comply with obligations to give notice
 
-[^part3-tit26-chap1-lvlK-lvlIII-1]
+[^part3-tit26-chap2-lvlK-lvlIII-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-1]: Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^part3-tit26-chap2-lvlK-lvlIII-1]: Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
@@ -11086,8 +11105,8 @@ Where the general meeting rejects the motion, shareholders may within three mont
 <sup>3</sup> The articles of association may regulate the details, in particular by reference to arbitration regulations. They shall in any event ensure that persons who may be directly affected by the legal consequences of the arbitral award are notified of the instigation and conclusion of the proceedings and may participate in appointing the arbitral tribunal and in the proceedings as an intervening party.
 
 [^697n-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^697n-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^697n-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^697n-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^697n-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### Section Three Organisation of the Company Limited by Shares
 
@@ -11401,7 +11420,7 @@ A resolution by the general meeting requires at least two-thirds of the votes re
 <sup>3</sup> Registered shareholders who did not vote in favour of a resolution to amend the company’s objects or to introduce shares with preferential right to vote are not bound by restrictions on the transferability of their shares imposed by the articles of association for the six months following publication of such resolutions in the Swiss Official Gazette of Commerce.
 
 [^704-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^704-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^704-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^704-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^704-4]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -11427,9 +11446,9 @@ No resolutions may be passed on motions relating to agenda items for which due n
 
 ### VI. Right to remove
 
-[^part3-tit26-chap2-lvlA-lvlVI-1]
+[^part3-tit26-chap3-lvlA-lvlVI-1]
 
-[^part3-tit26-chap2-lvlA-lvlVI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap3-lvlA-lvlVI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 705
 
@@ -11443,15 +11462,17 @@ No resolutions may be passed on motions relating to agenda items for which due n
 
 ### 1. Right of action and grounds
 
-[^part3-tit26-chap2-lvlA-lvlVII-lvl1-1]
+[^part3-tit26-chap3-lvlA-lvlVII-lvl1-1]
 
-[^part3-tit26-chap2-lvlA-lvlVII-lvl1-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlA-lvlVII-lvl1-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 706
 
 <sup>1</sup> The board of directors and every shareholder may challenge resolutions of the general meeting which violate the law or the articles of association by bringing action against the company before the court.
 
-<sup>2</sup> In particular, challenges may be brought against resolutions which
+<sup>2</sup>
+
+In particular, challenges may be brought against resolutions which:
 
 - 1\. remove or restrict the rights of shareholders in breach of the law or the articles of association;
 - 2\. remove or restrict the rights of shareholders in an improper manner;
@@ -11482,9 +11503,9 @@ No resolutions may be passed on motions relating to agenda items for which due n
 
 ### VIII. Nullity
 
-[^part3-tit26-chap2-lvlA-lvlVIII-1]
+[^part3-tit26-chap3-lvlA-lvlVIII-1]
 
-[^part3-tit26-chap2-lvlA-lvlVIII-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlA-lvlVIII-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 706b
 
@@ -11500,17 +11521,17 @@ In particular, resolutions of the general meeting shall be void if they:
 
 ### B. The Board of Directors
 
-[^part3-tit26-chap2-lvlB-1]
+[^part3-tit26-chap3-lvlB-1]
 
-[^part3-tit26-chap2-lvlB-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap3-lvlB-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### I. In general
 
 ### 1. Eligibility
 
-[^part3-tit26-chap2-lvlB-lvlI-lvl1-1]
+[^part3-tit26-chap3-lvlB-lvlI-lvl1-1]
 
-[^part3-tit26-chap2-lvlB-lvlI-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap3-lvlB-lvlI-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 707
 
@@ -11531,9 +11552,9 @@ In particular, resolutions of the general meeting shall be void if they:
 
 ### 2. Representation of shareholder classes and groups
 
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]
+[^part3-tit26-chap3-lvlB-lvlI-lvl2-1]
 
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlI-lvl2-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 709
 
@@ -11707,9 +11728,9 @@ The board of directors shall have the following non-transferable and inalienable
 
 ### 1. In general
 
-[^part3-tit26-chap2-lvlB-lvlIV-lvl1-1]
+[^part3-tit26-chap3-lvlB-lvlIV-lvl1-1]
 
-[^part3-tit26-chap2-lvlB-lvlIV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap3-lvlB-lvlIV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 717
 
@@ -11776,9 +11797,9 @@ If the company is represented in the conclusion of a contract by the person with
 
 ### 4. Signatures
 
-[^part3-tit26-chap2-lvlB-lvlV-lvl4-1]
+[^part3-tit26-chap3-lvlB-lvlV-lvl4-1]
 
-[^part3-tit26-chap2-lvlB-lvlV-lvl4-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlV-lvl4-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 719
 
@@ -11792,9 +11813,9 @@ The persons with authority to represent the company must sign by appending their
 
 ### 5. Registered attorneys and commercial agents
 
-[^part3-tit26-chap2-lvlB-lvlV-lvl5-1]
+[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]
 
-[^part3-tit26-chap2-lvlB-lvlV-lvl5-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 721
 
@@ -11806,9 +11827,9 @@ The board of directors may appoint registered attorneys and other commercial age
 
 ### VI. Directors’ and officers’ liability
 
-[^part3-tit26-chap2-lvlB-lvlVI-1]
+[^part3-tit26-chap3-lvlB-lvlVI-1]
 
-[^part3-tit26-chap2-lvlB-lvlVI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap3-lvlB-lvlVI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 722
 
@@ -11880,7 +11901,7 @@ Notification of the court is not required:
 <sup>6</sup> The board of directors and the external auditor or the licensed auditor shall act with the required urgency.
 
 [^725b-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^725b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^725b-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 4. Revaluation of immovable property and participations
 
@@ -11898,9 +11919,9 @@ Notification of the court is not required:
 
 ### VIII. Dismissal and suspension
 
-[^part3-tit26-chap2-lvlB-lvlVIII-1]
+[^part3-tit26-chap3-lvlB-lvlVIII-1]
 
-[^part3-tit26-chap2-lvlB-lvlVIII-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap3-lvlB-lvlVIII-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 726
 
@@ -11912,9 +11933,9 @@ Notification of the court is not required:
 
 ### C. External Auditors
 
-[^part3-tit26-chap2-lvlC-1]
+[^part3-tit26-chap3-lvlC-1]
 
-[^part3-tit26-chap2-lvlC-1]: Amended by No I 1 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680))..
+[^part3-tit26-chap3-lvlC-1]: Amended by No I 1 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680))..
 
 ### I. Audit requirement
 
@@ -11959,13 +11980,18 @@ The following companies must have their annual accounts and if applicable their 
 
 <sup>1</sup> If the requirements for an ordinary audit are not met, the company must have its annual accounts reviewed by an external auditor in a limited audit.
 
-<sup>2</sup> With the consent of all the shareholders, a limited audit may be dispensed with if the company does not have more than ten full-time employees on annual average.
+<sup>2</sup> With the consent of all the shareholders, a limited audit may be dispensed with if the company does not have more than ten full-time employees on annual average. Dispensing with the audit is only permitted for future financial years and notification thereof must be given to the commercial register office before the start of the financial year.[^727a-1]
+
+<sup>2bis</sup> The annual accounts for the most recently completed financial year must be enclosed with notification to the commercial register that the audit is being dispensed with.[^727a-2]
 
 <sup>3</sup> The board of directors may request the shareholders in writing for their consent. It may set a period of at least 20 days for reply and give notice that failure to reply will be regarded as consent.
 
 <sup>4</sup> If the shareholders have dispensed with a limited audit, this also applies for subsequent years. Any shareholder has however the right, at the latest 10 days before the general meeting, to request a limited audit. In such an event, the general meeting must appoint the external auditor.
 
 <sup>5</sup> The board of directors shall amend the articles of association to the extent required and apply to the commercial register for the deletion or the registration of the external auditor.
+
+[^727a-1]: Second sentence inserted by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^727a-2]: Inserted by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### II. Requirements for the external auditor
 
@@ -11977,7 +12003,7 @@ The following companies must have their annual accounts and if applicable their 
 
 <sup>2</sup> Other companies that are required to have an ordinary audit must appoint as external auditor a licensed audit expert in terms of the Auditor Oversight Act of 16 December 2005. They must also arrange for audits that must be carried out in terms of the statutory provisions by a licensed auditor to be carried out by a licensed audit expert.
 
-[^727b-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^727b-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### 2. In a limited audit
 
@@ -11985,7 +12011,7 @@ The following companies must have their annual accounts and if applicable their 
 
 Companies that are required to have a limited audit must appoint as external auditor a licensed auditor in terms of the Auditor Oversight Act of 16 December 2005[^727c-1].
 
-[^727c-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^727c-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### III. Ordinary audit
 
@@ -12074,9 +12100,9 @@ In addition, it informs the general meeting of any infringements of the law or t
 
 ### 1. Independence of the external auditor
 
-[^part3-tit26-chap2-lvlC-lvlIV-lvl1-1]
+[^part3-tit26-chap3-lvlC-lvlIV-lvl1-1]
 
-[^part3-tit26-chap2-lvlC-lvlIV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap3-lvlC-lvlIV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 729
 
@@ -12188,9 +12214,9 @@ If the company is obviously overindebted and the board of directors fails to not
 
 ### D. Defects in the Organisation of the Company
 
-[^part3-tit26-chap2-lvlD-1]
+[^part3-tit26-chap3-lvlD-1]
 
-[^part3-tit26-chap2-lvlD-1]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlD-1]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 731b
 
@@ -12224,9 +12250,9 @@ The court may in particular:
 
 ### Section Four: Remuneration in Companies whose Shares are Listed on a Stock Exchange
 
-[^part3-tit26-chap3-1]
+[^part3-tit26-chap4-1]
 
-[^part3-tit26-chap3-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023, Art. 734*f* in force since 1 Jan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit26-chap4-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023, Art. 734*f* in force since 1 Jan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### A. Scope of application
 
@@ -12483,9 +12509,9 @@ The dissolved company shall enter into liquidation, except in cases involving a 
 
 ### 1. Appointment
 
-[^part3-tit26-chap4-lvlB-lvlII-lvl1-1]
+[^part3-tit26-chap5-lvlB-lvlII-lvl1-1]
 
-[^part3-tit26-chap4-lvlB-lvlII-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap5-lvlB-lvlII-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 740
 
@@ -12645,7 +12671,7 @@ Founder members, members of the board of directors and all persons involved in e
 
 [^755-1]
 
-All persons engaged in auditing the annual and consolidated accounts, the company’s foundation, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
+<sup>1</sup> All persons engaged in auditing the annual and consolidated accounts, the company’s foundation, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
 
 <sup>2</sup> If the audit is conducted by a public audit office or by one of its employees, the relevant public authority is liable. Legal action against persons involved in the audit is governed by public law.[^755-2]
 
@@ -12682,7 +12708,7 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 <sup>4</sup> In assessing the damage to the company, the claims of the company’s creditors that have been subordinated to those of all other creditors shall not be included.[^757-3]
 
 [^757-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^757-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^757-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^757-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Effect of the resolution of release
@@ -13138,6 +13164,16 @@ The articles of association made deviate from the foregoing by:
 
 <sup>2</sup> If the members’ general meeting fails to refuse consent to the assignment within six months of its receipt, consent is deemed to have been granted.
 
+### d. In the case of overindebted companies that do not operate as a business and have no assets
+
+#### Art. 787a
+
+[^787a-1]
+
+The provisions of the law on companies limited by shares apply accordingly to the assignment of capital contributions in overindebted companies that do not operate as a business and have no disposable assets.
+
+[^787a-1]: Inserted by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+
 ### 2. Special forms of acquisition
 
 #### Art. 788
@@ -13556,7 +13592,7 @@ A resolution of the members’ general meeting passed by a majority of at least 
 - 8\. applying to the court to exclude a company member for good cause;
 - 9\. excluding a company member on the grounds specified in the articles of association planned;
 - 10\. relocating the seat of the company;
-- [tab] 10<sup>bis</sup>.[^808b-2] introducing an arbitration clause into the articles of association;
+- 10<sup>bis</sup>.[^808b-2] introducing an arbitration clause into the articles of association;
 - 11\. dissolving the company.
 
 <sup>2</sup> Provisions of the articles of association stipulating larger majorities than those required by law for certain resolutions may only be introduced, amended or repealed if approved by the required majority.[^808b-3]
@@ -13871,7 +13907,7 @@ The articles of association must contain provisions concerning:
 
 - 1\.[^832-1] the business name and seat of the cooperative;
 - 2\. the objects of the cooperative;
-- [tab] 3. and 4.[^832-2] …
+- 3\. and 4.[^832-2] …
 - 5\.[^832-3] the form of the cooperative’s communications with its members.
 
 [^832-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -13991,7 +14027,7 @@ A resolution of the general assembly or the board on an amendment of the article
 
 <sup>2</sup> Insurance policies concluded by a licensed insurance cooperative with its members are subject to the Federal Act of 2 April 1908[^841-1] on Insurance Policies in the same manner as insurance policies concluded with third parties.
 
-[^841-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^841-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### Section Three: Loss of Membership
 
@@ -14121,11 +14157,13 @@ The members all have equal rights and obligations, unless the law makes an excep
 
 The rights of members to participate in the affairs of the cooperative, in particular with regard to the management of its business and the promotion of the cooperative’s interests, are exercised by taking part in the general assembly of members or, where prescribed by law, in ballots.
 
-### II. Control by the members 1. Notice of the annual report
+### II. Control by the members
 
-[^part3-tit29-chap4-lvlD-lvlII-1]
+### 1. Notice of the annual report
 
-[^part3-tit29-chap4-lvlD-lvlII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^part3-tit29-chap4-lvlD-lvlII-lvl1-1]
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 856
 
@@ -14152,9 +14190,9 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 ### III. Rights to share in the annual profit
 
-[^part3-tit29-chap4-lvlD-lvlII-lvl2-1]
+[^part3-tit29-chap4-lvlD-lvlIII-1]
 
-[^part3-tit29-chap4-lvlD-lvlII-lvl2-1]: Term in accordance with No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). This amendment has been made in the provisions specified in the AS.
+[^part3-tit29-chap4-lvlD-lvlIII-1]: Term in accordance with No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). This amendment has been made in the provisions specified in the AS.
 
 ### 1. ...
 
@@ -14320,7 +14358,7 @@ Any provisions made in the articles of association which limit liability to a sp
 
 <sup>4</sup> The procedure is determined by Federal Council ordinance.[^873-2]
 
-[^873-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^873-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^873-2]: Amended by No II 10 of the FA of 20 March 2008 on the Formal Revision of Federal Legislation, in force since 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3452; [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### f. Amendment of liability provisions
@@ -14732,11 +14770,11 @@ An ordinary audit of the annual accounts may be requested by:
 
 [^907-1]
 
-<sup>1</sup> In the case of cooperatives in which the members are personally liable or liable to make additional capital contributions, the external auditor must verify that the membership list[^907-2] has been kept correctly. If the cooperative has no external auditor, the board must arrange for the membership list[^907-3] to be verified by a licensed auditor.
+In the case of cooperatives in which the members are personally liable or liable to make additional capital contributions, the external auditor must verify that the membership list[^907-2] has been kept correctly. If the cooperative has no external auditor, the board must arrange for the membership list[^907-3] to be verified by a licensed auditor.
 
 [^907-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^907-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^907-3]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^907-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^907-3]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### D. Defects in organisation
 
@@ -14968,19 +15006,37 @@ Legal entities for the purpose of this Title are:
 
 <sup>2</sup> Unless the law provides otherwise, federal and cantonal courts and administrative authorities shall notify the commercial register offices of facts that require registration, amendment or deletion in the commercial register.
 
+<sup>2bis</sup> The federal supervisory authority for the commercial register shall ensure that the central database on persons does not contain entries that are incompatible with any activity prohibition order under Article 67 des Criminal Code[^928a-1], Article 50 of the Military Criminal Code of 13 June 1927[^928a-2] or Article 16*a* paragraph 1 of the Juvenile Criminal Law Act of 20 June 2003[^928a-3]. It shall in particular verify whether activity prohibition orders notified in accordance with Article 64*a* of the Criminal Records Register Act of 17 June 2016[^928a-4] are compatible with the functions entered in the central database for persons.[^928a-5]
+
+<sup>2ter</sup> If they establish incompatibility, they shall inform the cantonal commercial register office concerned.[^928a-6]
+
+<sup>2quater</sup> The cantonal commercial register office shall request the legal entity to take the required measures.[^928a-7]
+
 <sup>3</sup> Information and notifications are provided free of charge.
+
+[^928a-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^928a-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^928a-3]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^928a-4]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^928a-5]: Inserted by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928a-6]: Inserted by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928a-7]: Inserted by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### C. Central databases
 
 #### Art. 928b
 
-<sup>1</sup> The Federal Supervisory Authority operates the central databases on the legal entities and persons recorded in the cantonal registers. The central databases allow the registered legal entities and persons to be found, and their data to be linked and differentiated.
+<sup>1</sup> The federal supervisory authority for the commercial register operates the central databases on the legal entities and persons recorded in the cantonal registers.[^928b-1] The central databases allow the registered legal entities and persons to be found, and their data to be linked and differentiated.
 
-<sup>2</sup> The Federal Supervisory Authority is responsible for compiling the data for the central database on legal entities. It shall make the public data on legal entities available online free of charge for individual queries.
+<sup>2</sup> The federal supervisory authority for the commercial register is responsible for compiling the data for the central database on legal entities.[^928b-2] It shall make the public data on legal entities available online free of charge for individual queries.
 
-<sup>3</sup> The commercial register offices are responsible for compiling the data for the central database on persons.
+<sup>3</sup> The commercial register offices are responsible for compiling the data for the central database on persons. The federal supervisory authority for the commercial register shall make the data on natural persons available free of charge on the internet for individual queries.[^928b-3]
 
 <sup>4</sup> The Confederationis responsible for the security of the information systems and the legality of the data processing.
+
+[^928b-1]: Amended by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928b-2]: Amended by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928b-3]: Second sentence inserted by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### D. OASI number and personal number
 
@@ -15014,7 +15070,7 @@ Legal entities for the purpose of this Title are:
 
 The legal entities entered in the commercial register registered are assigned a business identification number in accordance with the Federal Act of 18 June 2010[^930-1] on the Business Identification Number.
 
-[^930-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^930-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ### III. Obligation to register and voluntary registration
 
@@ -15046,7 +15102,7 @@ The legal entities entered in the commercial register registered are assigned a 
 
 ### V. Ex officio deletion
 
-### 1. Legal entities without business operations and without assets
+### 1. Legal entities that do not operate as a business and that have no assets
 
 #### Art. 934
 
@@ -15143,7 +15199,7 @@ The commercial register authorities shall verify whether the legal requirements 
 
 <sup>3</sup> In the case of foundations and legal entities that are subject to supervision under the Collective Investment Schemes Act of 23 June 2006[^939-1], the matter shall be referred to the supervisory authority.
 
-[^939-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^939-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### H. Fixed penalties
 
@@ -15178,7 +15234,9 @@ The Federal Council shall regulate the charging of the individual fees, in parti
 
 <sup>2</sup> Each canton shall designate a higher court as the sole appellate authority.
 
-<sup>3</sup> The cantonal courts shall give notice of their decisions to the commercial register office without delay and shall also give notice thereof to the federal oversight authority.
+<sup>3</sup> The cantonal courts shall give notice of their decisions to the commercial register office without delay and shall also give notice thereof to the federal oversight authority for the commercial register.[^942-1]
+
+[^942-1]: Amended by No I 1 of the FA of 18 March 2022 on Combating Abuse of Bankruptcy Procedures, in force since 1 Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### K. Ordinance
 
@@ -15373,7 +15431,7 @@ The following need only keep accounts on income and expenditure and on their ass
 
 <sup>3</sup> For undertakings in accordance with paragraph 2, recognised accounting principles apply *mutatis mutandis*.
 
-[^957-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^957-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Accounting
 
@@ -15987,7 +16045,7 @@ The foregoing requirement does not apply to undertakings that are controlled by 
 - 1\. to which paragraph 1 applies; or
 - 2\. that must prepare an equivalent report under foreign law.
 
-[^964a-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^964a-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### B. Purpose and content of the report
 
@@ -16307,13 +16365,13 @@ The special provisions governing negotiable securities, such as bills of exchang
 [^973c-1]: Inserted by Annex No 3 of the Uncertificated Securities Act of 3 Oct. 2008, in force since 1 Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 [^973c-2]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
+### H. Ledger-based securities
+
 ### I. Establishment
 
 #### Art. 973d
 
 [^973d-1]
-
-H. Ledger-based securities
 
 <sup>1</sup>
 
@@ -16365,7 +16423,9 @@ The obligor may raise against a claim deriving from a ledger-based security only
 
 <sup>1</sup> The transfer of the ledger-based security is subject to the provisions of the registration agreement.
 
-<sup>2</sup> If the creditor of a ledger-based security is declared bankrupt, if his or her property is distrained or if a debt restructuring moratorium is authorised, the creditor's decisions regarding ledger-based securities are legally binding and effective against third parties, provided that they
+<sup>2</sup>
+
+If the creditor of a ledger-based security is declared bankrupt, if his or her property is distrained or if a debt restructuring moratorium is authorised, the creditor's decisions regarding ledger-based securities are legally binding and effective against third parties, provided that they:
 
 - 1\. were made beforehand;
 - 2\. have become irrevocable under the rules of the securities ledger or another trading facility; and
@@ -16396,7 +16456,7 @@ In other respects:
 - 2\. the pledging of ledger-based securities is governed by the provisions on liens on debts and other rights as applicable for certificated securities (Arts. 899–906 of the CC).
 
 [^973g-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^973g-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^973g-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### V. Cancellation
 
@@ -16415,6 +16475,8 @@ In other respects:
 #### Art. 973i
 
 [^973i-1]
+
+<sup>1</sup>
 
 The obligor under a ledger-based security or a right that is offered as such must inform each acquirer of:
 
@@ -16716,7 +16778,9 @@ Where a bill of exchange that was incomplete when it was negotiated is completed
 
 <sup>1</sup> The endorsement transfers all rights arising from the bill of exchange.
 
-<sup>2</sup> If it is a blank endorsement, the bearer may
+<sup>2</sup>
+
+If it is a blank endorsement, the bearer may:
 
 - 1\. add his name or the name of another person to the endorsement;
 - 2\. endorse the bill further by blank endorsement or endorsement to a specified person;
@@ -16888,15 +16952,7 @@ The holder or any person merely in possession of the bill of exchange may presen
 
 #### Art. 1023
 
-1 A bill of exchange may be drawn:
-
-on sight;
-
-for a specified time after sight;
-
-for a specified time after drawing;
-
-on a specified date.
+<sup>1</sup> A bill of exchange may be drawn: on sight; for a specified time after sight; for a specified time after drawing; on a specified date.
 
 <sup>2</sup> Bills of exchange with other maturity dates or with several consecutive maturity dates are void.
 
@@ -17515,7 +17571,7 @@ Where the court is satisfied that the applicant was in possession of the bill of
 
 <sup>2</sup> Where the last day of a time limit within which such an action must be taken falls on a Sunday or a public holiday[^1081-1], the time limit is extended to include the next working day. Holidays falling within the time limit are included when computing it.
 
-[^1081-1]: In relation to the statutory time limits under federal law and the time limits fixed by authorities by virtue of federal law, Saturday is now regarded as equivalent to a public holiday (Art. 1 of the FA of 21 June 1963 on the Application of Limitation Periods to Saturdays; [SR 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^1081-1]: In relation to the statutory time limits under federal law and the time limits fixed by authorities by virtue of federal law, Saturday is now regarded as equivalent to a public holiday (Art. 1 of the FA of 21 June 1963 on the Application of Limitation Periods to Saturdays; [SR 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### b. Computing time limits
 
@@ -17636,8 +17692,8 @@ A promissory note contains:
 - 3\. the due date;
 - 4\. the place of payment;
 - 5\. the name of the person to whom or to whose order payment is to be made;
-- 7\. the date on which and place at which the note is made;
-- 8\. the maker’s signature.
+- 6\. the date on which and place at which the note is made;
+- 7\. the maker’s signature.
 
 ### 2. Required content lacking
 
@@ -17704,7 +17760,7 @@ A cheque contains:
 - 3\. the name of the person who is to pay (drawee);
 - 4\. the place of payment;
 - 5\. the date and the place of issue;
-- 8\. the drawer’s signature.
+- 6\. the drawer’s signature.
 
 ### 2. Required content lacking
 
@@ -17956,7 +18012,7 @@ A drawee honouring a cheque transferred by endorsement is obliged to check that 
 
 <sup>2</sup> The same applies in the event that the bearer cannot obtain the account credit from the drawee as a result of measures taken pursuant to the Federal Act of 8 November 1934 on Banks and Savings Banks[^1126-1].
 
-[^1126-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1126-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### c. Bearer’s rights in the event of refusal of account credit or settlement
 
@@ -18037,7 +18093,7 @@ Cheques may be issued in several identical duplicates if they are not made out t
 
 For the purposes of this Section, the term ‘banker’ is understood to mean any institution subject to the Federal Act of 8 November 1934[^1135-1] on Banks and Savings Banks.
 
-[^1135-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1135-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### 2. Setting time limits
 
@@ -18051,7 +18107,7 @@ For the purposes of this Section, the term ‘banker’ is understood to mean an
 
 Holidays falling within the time limit are included when computing it.
 
-[^1136-1]: In relation to the statutory time limits under federal law and the time limits fixed by authorities by virtue of federal law, Saturday is now regarded as equivalent to a public holiday (Art. 1 of the FA of 21 June 1963 on the Application of Limitation Periods to Saturdays; [SR 173.110.3](https://fedlex.data.admin.ch/eli/cc/1963/819_815_843)).
+[^1136-1]: In relation to the statutory time limits under federal law and the time limits fixed by authorities by virtue of federal law, Saturday is now regarded as equivalent to a public holiday (Art. 1 of the FA of 21 June 1963 on the Application of Limitation Periods to Saturdays; [SR 173.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5588)).
 
 ### b. Computing time limits
 
@@ -18083,9 +18139,9 @@ When computing the time limits envisaged in this law, the day on which they comm
 
 ### a. Law of the place of issue
 
-#### Art. 1040
+#### Art. 1140
 
-<sup>1</sup> The effects of cheque declarations are determined pursuant to the law of the country in whose territory such declarations were signed.
+The effects of cheque declarations are determined pursuant to the law of the country in whose territory such declarations were signed.
 
 ### b. Law of the place of payment
 
@@ -18201,7 +18257,7 @@ Where a payment instruction is not designated as a bill of exchange in the text 
 
 The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[^1150-1] governing the enforcement of bills of exchange do not apply to payment instructions to order.
 
-[^1150-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1150-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### II. Promise to pay to order
 
@@ -18213,7 +18269,7 @@ The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[^1150-
 
 <sup>3</sup> The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[^1151-1] governing the enforcement of bills of exchange do not apply to promises to pay to order.
 
-[^1151-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1151-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### C. Other endorsable securities
 
@@ -18229,11 +18285,11 @@ The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[^1150-
 
 ### A. Requirements
 
-### . In general
+### I. In general
 
-[^part5-tit33-chap7-lvlB-1]
+[^part5-tit33-chap7-lvlA-lvlI-1]
 
-[^part5-tit33-chap7-lvlB-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^part5-tit33-chap7-lvlA-lvlI-1]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 1153
 
@@ -18407,7 +18463,7 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 <sup>4</sup> Where the borrower abuses the right to obtain a stay of enforcement, at the request of a bond creditor it may be lifted by the higher cantonal composition authority.
 
-[^1166-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1166-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Holding the meeting
 
@@ -18592,7 +18648,7 @@ Any resolution within the meaning of Articles 1180 and 1181 which contravenes th
 
 <sup>2</sup> The provisions governing the community of creditors apply to creditors holding bonds secured by a charge, to the extent that any restriction of their creditors’ rights is to be imposed above and beyond the effects of the composition proceedings.
 
-[^1184-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1184-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Bonds issued by railway or inland waterways transport companies
 
@@ -18628,7 +18684,7 @@ II. This Act enters into force on 1 January 1912.
 
 The Federal Council is charged with making arrangements to publicise this Code on the basis of the provisions of the Federal Act of 17 June 1874[^u1-3] on Referendums on Federal Acts and Federal Council Decrees.
 
-[^u1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233). The amendment below is inserted in the said enactment.
+[^u1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703). The amendment below is inserted in the said enactment.
 [^u1-2]: The amendments may be consulted under [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377).
 [^u1-3]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 para. 3, [1978 712](https://fedlex.data.admin.ch/eli/oc/1978/712_712_712)Art. 89 No b]
 
@@ -18636,7 +18692,7 @@ The Federal Council is charged with making arrangements to publicise this Code o
 
 [^u2-1]
 
-[^u2-1]: Inserted by No II of the FA of 23 March 1962, in force since 1 Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085)1056; [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)).
+[^u2-1]: [AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085)1056; [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)
 
 ### A. Preferential payments on bankruptcy
 
@@ -18674,7 +18730,7 @@ The Federal Council determines the date on which this Act enters into force.
 
 [^u3-1]
 
-[^u3-1]: Inserted by No III of the FA of 16. Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 (AS 2007 4791; [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^u3-1]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
 ### A. General rule
 
@@ -18786,7 +18842,7 @@ The provision in this amendment applies from the first financial year beginning 
 
 <sup>2</sup> The provisions of the Amendment of 23 December 2011 apply to existing undertakings from the date on which it comes into force.
 
-[^u5-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u5-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Commercial accounting and financial reporting
 
@@ -18814,7 +18870,7 @@ The provision in this amendment applies from the first financial year beginning 
 
 <sup>2</sup> The provisions of the Amendment of 12 December 2014 apply to existing companies on coming into force.
 
-[^u6-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u6-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Adapting articles of association and regulations
 
@@ -18846,7 +18902,7 @@ The provision in this amendment applies from the first financial year beginning 
 
 <sup>2</sup> The provisions of the Amendment of 25. September 2015 apply to existing legal entities on coming into force.
 
-[^u7-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u7-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Amendment of registered business names
 
@@ -18874,7 +18930,7 @@ If the business name of a general or limited partnership or partnership limited 
 
 <sup>2</sup> The new law shall apply to existing legal entities on its coming into force.
 
-[^u8-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u8-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Registration obligation for public institutions
 
@@ -18896,7 +18952,7 @@ Public institutions established before the new law comes into force and which pr
 
 <sup>2</sup> The provisions of the Amendment of 21 June 2019 apply on its commencement to existing companies.
 
-[^u9-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u9-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Reporting exceptions to the commercial register office
 
@@ -18979,7 +19035,7 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 <sup>2</sup> The provisions of the new law become applicable to existing companies when it comes into force.
 
-[^u10-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u10-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Amendment of articles of association and regulations
 
@@ -19125,17 +19181,17 @@ The following provisions are repealed on the commencement of this Act:
 - 12\. Art. 64[^u13-6-11] and 72 paragraph 2 letter *a* of the Employment Act of 13 March 1964[^u13-6-12].
 
 [^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)No I–III; **1968** 64; **1977** 2249 No I, 611; **1978** 1836 Annex No 4; **1982** 196, 1676 Annex No 1, 2184 Art. 114; **1990** 1091; **1991** 362 No II, 412; **1992** 288 Annex No 37, 2350; **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Annex No 1]
-[^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9878)
 [^u13-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)Art. 14 para. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)Art. 21 No 3]
 [^u13-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 69]
 [^u13-6-5]: [AS **1949** II 1293]
 [^u13-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)Art. 1; [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688); [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590); [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335); [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207), [1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14, [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472); [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763); [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I, 921, 942, [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931); [1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 6; [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640); [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 lett. c; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 51, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 25, [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611); [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 No 5, [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)Art. 36 para. 1; [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)Art. 92 No 4, [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571), [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Annex No 11; [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 3, [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)No I 2; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Annex No 2, [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783); [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187), [1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex lett. c]
-[^u13-6-7]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Now: Federal Act on Compensation for Loss of Earnings for Persons on Military Service or Maternity Leave (Loss of Earnings Compensation Act, LECA).
-[^u13-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^u13-6-7]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Now: Federal Act on Compensation for Loss of Earnings for Persons on Military Service or Maternity Leave (Loss of Earnings Compensation Act, LECA).
+[^u13-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5888)
 [^u13-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)Art. 22 para. 2 No b;[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)Art. 35; [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)No III; **1971** 751; [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50), [570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_); [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Annex No 7; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 22; **1993** 2043 Annex No 3; [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)Art. 71]
 [^u13-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [428](https://fedlex.data.admin.ch/eli/oc/1965/428__); [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89); [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885); [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)No III; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)Art. 75]
 [^u13-6-11]: This Art. has now been repealed.
-[^u13-6-12]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^u13-6-12]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ### Amendment of legal relations governed by the old law
 
@@ -19205,7 +19261,7 @@ The Federal Council determines the commencement date of this Act.
 - 5\. Article 505 paragraph 2 applies only to bankruptcy proceedings commenced at least three months after this Act comes into force, and to debt restructuring moratoriums approved at least three months after this Act comes into force.
 - 6\. The time limit mentioned in Article 509 paragraph 3 begins to run for contracts of surety under the old law when this Act comes into force.
 
-[^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^u15-3]: Amended by Annex No 2 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 ## Final and Transitional Provisions to Titles XXIV‑XXXIII
@@ -19220,7 +19276,7 @@ The Federal Council determines the commencement date of this Act.
 
 The provisions of the Final Title of the Civil Code[^u16-1-1] also apply to this Act.
 
-[^u16-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u16-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Adaptation of existing companies to the new law
 
@@ -19303,7 +19359,7 @@ Savings bank and deposit account books, and savings and deposit certificates iss
 
 #### Art. 10
 
-Shares that were issued before this Act comes into force may
+Shares that were issued before this Act comes into force may:
 
 - 1\. continue to have a nominal value of less than 100 francs;
 - 2\. be reduced in nominal value to less than 100 francs in the event of a reduction in the basic capital within three years of this Act coming into force.
@@ -19355,7 +19411,7 @@ The Ordinance of 20 February 1918[^u16-13-1] relating to the community of bond c
 
 The provisions of the Banking Act of 8 November 1934[^u16-16-1] are reserved.
 
-[^u16-16-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^u16-16-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### II. Amendment of individual provisions
 
@@ -19397,7 +19453,7 @@ On the entry into force of this Act, the federal private law provisions that are
 
 The Final Title of the Civil Code[^u17-1-1] applies to this Act.
 
-[^u17-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u17-1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### B. Amendment in accordance with the new law
 
@@ -19469,15 +19525,13 @@ The Federal Council shall determine the commencement date.
 
 [^u18-1]: Inserted by No II of the FA of 1. April 1949, in force since 1 Jan. 1950 (AS **1949** I 791; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
 
-- 1\. ...[^u18-2]
-- 2\. ...[^u18-3]
+- 1\. and 2. ...[^u18-2]
 - 3\. The resolutions of the community of creditors passed under the previous law remain valid under the new law.
 - For resolutions passed after this Act comes into force, the provisions of the new law apply.
 - However, if a borrower has already been granted facilitations under the previous law by resolutions of the community of creditors that are equivalent or correspond to those provided for in Article 1170, appropriate account must be taken thereof in the application of this provision.
 - In all other respects, the Final and Transitional Provisions of the Federal Act of 18 December 1936 on the Revision of Titles XXIV–XXXIII of the Code of Obligations apply.
-- 4\. On commencement of this Act, contradictory provisions, and in particular the Ordinance of the Federal Council of 20 February 1918[^u18-4] on the Community of Bond Creditors, are repealed.
+- 4\. On commencement of this Act, contradictory provisions, and in particular the Ordinance of the Federal Council of 20 February 1918[^u18-3] on the Community of Bond Creditors, are repealed.
 - 5\. The Federal Council shall determine the commencement date of this Act.
 
 [^u18-2]: The amendments may be consulted under AS **1949** I 791.
-[^u18-3]: The amendments may be consulted under AS **1949** I 791.
-[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-3]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
