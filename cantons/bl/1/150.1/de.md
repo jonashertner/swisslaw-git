@@ -4,13 +4,13 @@ number: "150.1"
 title: Dekret zum Personalgesetz
 short: Personaldekret
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-30
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-28
 adopted: 2000-06-08
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.1"
-pdf: "https://bl.clex.ch/api/de/versions/3841/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3841/pdf_file"
 
 (Personaldekret)
 
-Vom 08.06.2000 (Stand 01.01.2024)
+Vom 08.06.2000 (Stand 01.01.2025)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -420,7 +420,7 @@ beschliesst:
 
 - a. Flugreisen ins Ausland: effektive Kosten der günstigsten Flugverbindung;
 - b. Bahnreisen ins Ausland: effektive Kosten für Fahrten der 1. Klasse;
-- c. Bahnreisen im Inland (ausserhalb des Tarifverbunds Nordwestschweiz): effektive Kosten für Fahrten der 1. Klasse, solange die Auslagen für Bahnreisen den doppelten Preis für ein 1-jähriges ½-Tax-Abonnement (Preis am 1. Januar des jeweiligen Jahres) nicht übersteigen; danach werden für den darüber liegenden Betrag nur noch die ½-Tax-Preise erstattet;
+- c. Bahnreisen im Inland (ausserhalb des Tarifverbunds Nordwestschweiz): effektive Kosten für Fahrten der 1. Klasse, solange die Auslagen für Bahnreisen den doppelten Preis für ein 1-jähriges Halbtax-Abonnement (Preis am 1. Januar des jeweiligen Jahres) nicht übersteigen; danach werden für den darüber liegenden Betrag nur noch die Halbtax-Preise erstattet;
 - d. auswärtige Übernachtungen: effektive Kosten.
 
 #### § 32
@@ -433,7 +433,7 @@ beschliesst:
 
 - a. Flugreisen ins Ausland: effektive Kosten der günstigsten Flugverbindung;
 - b. Bahnreisen ins Ausland: effektive Kosten für Fahrten der 1. Klasse;
-- c. Bahnreisen im Inland (ausserhalb des Tarifverbunds Nordwestschweiz): effektive Kosten für Fahrten der 1. Klasse, solange die Auslagen für Bahnreisen den doppelten Preis für ein 1-jähriges ½-Tax-Abonnement (Preis am 1. Januar des jeweiligen Jahres) nicht übersteigen; danach werden für den darüber liegenden Betrag nur noch die ½-Tax-Preise erstattet;
+- c. Bahnreisen im Inland (ausserhalb des Tarifverbunds Nordwestschweiz): effektive Kosten für Fahrten der 1. Klasse, solange die Auslagen für Bahnreisen den doppelten Preis für ein 1-jähriges Halbtax-Abonnement (Preis am 1. Januar des jeweiligen Jahres) nicht übersteigen; danach werden für den darüber liegenden Betrag nur noch die Halbtax-Preise erstattet;
 - d. auswärtige Übernachtungen: effektive Kosten.
 
 <sup>1 <sup>bis</sup></sup> Der Vizepräsidentin oder dem Vizepräsidenten des Kantonsgerichts werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang 2 Ziff. 2, Ansatz A 4.2, ausgerichtet.
@@ -443,15 +443,15 @@ beschliesst:
 <sup>2</sup> Den Chefärztinnen und Chefärzten der kantonalen Krankenanstalten werden 13 Monatslöhne gemäss Anhang 2 Ziff. 2 ausgerichtet:
 
 - a. operierende Chefärztinnen/Chefärzte — Ansätze B 1,
-- b. nichtoperierende Chefärztinnen/Chefärzte — Ansätze B 2,
+- b. nicht operierende Chefärztinnen/Chefärzte — Ansätze B 2,
 - c. Institutsleiterinnen/Institutsleiter — Ansätze B 3.
 
 <sup>2<sup>bis</sup></sup> Den Leitenden Ärztinnen und Leitenden Ärzten der Kantonsspitäler und Kantonalen Psychiatrischen Dienste werden 13 Monatslöhne gemäss Anhang 2 Ziff. 2 ausgerichtet:
 
-- a. operierende Leitende Ärztinnen/Leitende Ärzte — 80% der Ansätze B 1,
-- b. nichtoperierende Leitende Ärztinnen/Leitende Ärzte — 80% der Ansätze B 2,
-- c. Institutsleiterinnen/Institutsleiter — 80% der Ansätze B 3,
-- d. Leitende Ärztinnen/Leitende Ärzte ohne vergütungsberechtigte Nebentätigkeit — 80% der Ansätze B 2.
+- a. operierende Leitende Ärztinnen/Leitende Ärzte — 80 % der Ansätze B 1,
+- b. nicht operierende Leitende Ärztinnen/Leitende Ärzte — 80 % der Ansätze B 2,
+- c. Institutsleiterinnen/Institutsleiter — 80 % der Ansätze B 3,
+- d. Leitende Ärztinnen/Leitende Ärzte ohne vergütungsberechtigte Nebentätigkeit — 80 % der Ansätze B 2.
 
 <sup>2<sup>ter</sup></sup> Den Chefärztinnen und Chefärzten sowie den Leitenden Ärztinnen und Leitenden Ärzten der Kantonsspitäler und Kantonalen Psychiatrischen Dienste mit vergütungsberechtigter Nebentätigkeit kann ein nichtindexierter Leistungsanteil ausgerichtet werden.
 
