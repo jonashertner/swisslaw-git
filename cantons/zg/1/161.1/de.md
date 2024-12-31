@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Zivil- und Strafrechtspflege
 short: "Gerichtsorganisationsgesetz, GOG"
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-08-25
+version: 2025-01-01
+valid_until: 2025-01-02
+version_adopted: 2024-01-25
 adopted: 2010-08-26
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2389/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2552/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,23 @@ pdf: "https://bgs.zg.ch/api/de/versions/2389/pdf_file"
 
 (Gerichtsorganisationsgesetz, GOG)
 
-Vom 26. August 2010 (Stand 1. Januar 2023)
+Vom 26. August 2010 (Stand 1. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 14 und Art. 445 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-1], Art. 4, Art. 5, Art. 54 Abs. 2, Art. 68 Abs. 2 lit. d, Art. 129, Art. 142 Abs. 3 und Art. 356 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-2], Art. 6 Abs. 2, Art. 7 Abs. 3 und Art. 8 der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009[^ingress-3], Art. 91 Abs. 3 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-4], Art. 13 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^ingress-5] sowie gestützt auf § 41 Abs. 1 Bst. b und l, § 54 Abs. 3, § 56, § 58 und § 63 Abs. 1 der Kantonsverfassung (KV)[^ingress-6],
+gestützt auf
+
+• Art. 14 und Art. 445 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-1],
+
+•Art. 4, Art. 5, Art. 54 Abs. 2, Art. 68 Abs. 2 lit. d, Art. 129, Art. 142 Abs. 3 und Art. 356 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-2],
+
+• Art. 6 Abs. 2, Art. 7 Abs. 3 und Art. 8 der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009[^ingress-3],
+
+• Art. 91 Abs. 3 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-4],
+
+• Art. 13 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^ingress-5]
+
+• § 41 Abs. 1 Bst. b und l, § 54 Abs. 3, § 56, § 58 und § 63 Abs. 1 der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-6],
 
 beschliesst:
 
@@ -465,13 +477,7 @@ beschliesst:
 
 #### § 33
 
-**Zwangsmassnahmengericht**
-
-<sup>1</sup> Die Funktion des Zwangsmassnahmengerichts wird durch eine Einzelrichterin oder einen Einzelrichter des Strafgerichts wahrgenommen. Die Geschäftsordnung regelt die Einzelheiten.
-
-<sup>2</sup> Das Zwangsmassnahmengericht ist auch zuständig für die Verlängerung der Löschungsfrist in Fällen erheblicher Wiederholungsgefahr gemäss Art. 13 Abs. 1 Bst. b ViCLAS-Konkordat[^33-1].
-
-[^33-1]: BGS [511.2](https://bgs.zg.ch/data/511.2/de)
+**…**
 
 #### § 34
 
@@ -486,6 +492,29 @@ beschliesst:
 **Kanzlei**
 
 <sup>1</sup> Die Kanzlei wird von einer Gerichtsschreiberin oder einem Gerichtsschreiber als Kanzleivorsteherin oder Kanzleivorsteher geleitet.
+
+### 2.1.5. Zwangsmassnahmengericht
+
+#### § 35a
+
+**Organisation**
+
+<sup>1</sup> Die Funktion des Zwangsmassnahmengerichts wird durch drei vom Kantonsrat auf Antrag des Obergerichts gewählte Mitglieder des Kantonsgerichts wahrgenommen.
+
+<sup>2</sup> Falls die gewählten Personen verhindert sind, die Funktion des Zwangsmassnahmengerichts wahrzunehmen, sind ersatzweise alle Mitglieder des Kantonsgerichts einsetzbar.
+
+<sup>3</sup> Das Obergericht regelt die Amtsführung und die Organisation in einer Verordnung.
+
+#### § 35b
+
+**Zuständigkeit**
+
+<sup>1</sup> Das Zwangsmassnahmengericht nimmt sämtliche Aufgaben gemäss Art. 18 StPO[^35b-1] wahr. Es erfüllt zudem alle weiteren Aufgaben, die ihm vom Bundesrecht oder vom kantonalen Recht zugewiesen werden.
+
+<sup>2</sup> Es ist überdies zuständig für die Verlängerung der Löschungsfrist in Fällen erheblicher Wiederholungsgefahr gemäss Art. 13 Abs. 1 Bst. b ViCLAS-Konkordat[^35b-2].
+
+[^35b-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^35b-2]: BGS [511.2](https://bgs.zg.ch/data/511.2/de)
 
 ### 2.2. Schlichtungsbehörden
 
@@ -1612,6 +1641,14 @@ beschliesst:
 <sup>1</sup> Gerichtliche Verbote, die nach bisherigem kantonalem Prozessrecht ausgesprochen wurden, bleiben in Kraft.
 
 <sup>2</sup> Nach Inkrafttreten des neuen Rechts begangene Widerhandlungen werden gestützt auf Art. 258 ZPO geahndet; ist die publizierte Strafandrohung milder, gilt diese.
+
+#### § 127a
+
+**Zwangsmassnahmengericht**
+
+<sup>1</sup> Die per 31. Dezember 2024 hängigen Fälle des Zwangsmassnahmengerichts werden nach dem alten Recht und von den zuständigen Einzelrichterinnen bzw. Einzelrichtern des Strafgerichts weitergeführt.
+
+<sup>2</sup> Alle anderen Verfahren werden nach dem neuen Recht geführt.
 
 ### 8.2. Änderung bisherigen Rechts
 
