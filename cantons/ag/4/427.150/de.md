@@ -4,13 +4,12 @@ number: "427.150"
 title: Interkantonale Vereinbarung über den schweizerischen Hochschulbereich
 short: Hochschulkonkordat
 language: de
-version: 2017-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-06-23
+version: 2025-01-01
+version_adopted: 2024-10-25
 adopted: 2013-06-20
 in_force: 2015-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/427.150"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2378/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3860/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2378/pdf_file"
 
 (Hochschulkonkordat)
 
-Vom 20.06.2013 (Stand 01.01.2017)
+Vom 20.06.2013 (Stand 01.01.2025)
 
 Die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK),
 
