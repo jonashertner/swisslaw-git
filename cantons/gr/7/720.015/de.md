@@ -4,13 +4,13 @@ number: "720.015"
 title: Ausführungsbestimmungen zur Steuergesetzgebung
 short: ABzStG
 language: de
-version: 2024-01-01
-corrected: 2024-01-24
-version_adopted: 2024-01-23
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-18
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3347/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3347/pdf_file"
 
 (ABzStG)
 
-Vom 27.11.2007 (Stand 01.01.2024)
+Vom 27.11.2007 (Stand 01.01.2025)
 
 Gestützt auf Art. 182 Abs. 4 des Bundesgesetzes über die direkte Bundessteuer vom 14. Dezember 1990 (DBG)[^ingress-1] sowie Art. 72 Abs. 3 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden vom 14. Dezember 1990 (StHG)[^ingress-2] sowie Art. 73 Abs. 1 des Bundesgesetzes über die Verrechnungssteuer vom 13. Oktober 1965 (VStG)[^ingress-3] sowie Art. 15 der bundesrätlichen Verordnung über die Anrechnung ausländischer Quellensteuern vom 22. August 1967[^ingress-4] sowie die bundesrätliche Verordnung zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996[^ingress-5] sowie Art. 45 Abs. 1 der Verfassung des Kantons Graubünden vom 18. Mai 2003 / 14. September 2003[^ingress-6]
 
@@ -38,9 +38,13 @@ von der Regierung erlassen am 27. November 2007
 
 #### Art. 1
 
-**1. Steuerfaktoren des Kindes (Art. 10 Abs. 6 StG)**
+**1. Andere steuerbare Werte (Art. 8 Abs. 1 lit. a, lit. a<sup>bis</sup> und lit. f StG[^1-1])**
 
-<sup>1</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge werden die Steuerfaktoren des Kindes im Sinne von Artikel 10 Absatz 5 StG[^1-1] dem Elternteil zugerechnet, welchem die Entlastung gemäss Artikel 39 Absatz 3 StG gewährt wird.
+<sup>1</sup> Natürliche Personen ohne Wohnsitz oder Aufenthalt in der Schweiz sind kraft wirtschaftlicher Zugehörigkeit steuerpflichtig, wenn sie:
+
+- a) im Kanton eine selbständige oder unselbständige Erwerbstätigkeit ausüben;
+- b) eine unselbständige Erwerbstätigkeit für einen Arbeitgeber mit Sitz, tatsächlicher Verwaltung oder Betriebsstätte im Kanton ausüben und der Schweiz nach dem anwendbaren internationalen Abkommen im Steuerbereich mit dem jeweiligen Nachbarstaat ein Besteuerungsrecht betreffend die im Ausland ausgeübte Erwerbstätigkeit eingeräumt wird;
+- c) für Arbeit im internationalen Verkehr an Bord eines Schiffs oder eines Luftfahrzeugs oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber mit Sitz, tatsächlicher Verwaltung oder Betriebsstätte im Kanton erhalten; davon ausgenommen bleibt die Besteuerung von Seeleuten für die Erwerbstätigkeit an Bord eines von einem solchen Arbeitgeber unter Schweizer Flagge betriebenen Seeschiffs.
 
 [^1-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
 
@@ -48,9 +52,15 @@ von der Regierung erlassen am 27. November 2007
 
 **…**
 
+#### Art. 1b
+
+**2. Steuerfaktoren des Kindes (Art. 10 Abs. 6 StG)**
+
+<sup>1</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge werden die Steuerfaktoren des Kindes im Sinne von Artikel 10 Absatz 5 StG dem Elternteil zugerechnet, welchem die Entlastung gemäss Artikel 39 Absatz 3 StG gewährt wird.
+
 #### Art. 2
 
-**2. Personengemeinschaften**
+**3. Personengemeinschaften**
 
 <sup>1</sup> Personengemeinschaften ohne juristische Persönlichkeit, die nach Artikel 11 Absatz 2 StG[^2-1] als Ganzes besteuert werden, sind am Orte des Sitzes, der tatsächlichen Verwaltung oder des letzten Wohnsitzes des Erblassers steuerpflichtig.
 
@@ -58,7 +68,7 @@ von der Regierung erlassen am 27. November 2007
 
 #### Art. 2a
 
-**3. Besteuerung nach dem Aufwand (Art. 15 Abs. 1 lit. a StG)**
+**4. Besteuerung nach dem Aufwand (Art. 15 Abs. 1 lit. a StG)**
 
 <sup>1</sup> Der Mindestbetrag gemäss Artikel 15 Absatz 1 Litera a StG entspricht jenem von Artikel 14 Absatz 3 Litera a DBG[^2a-1].
 
@@ -363,9 +373,18 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 ### 3.1. Allgemeine Bestimmungen
 
+#### Art. 24c
+
+**1. Ohne Niederlassungsbewilligung oder mit Wohnsitz im Ausland (Art. 98 Abs. 1 lit. b<sup>bis</sup> und lit. c StG)**
+
+<sup>1</sup> Der Besteuerung an der Quelle unterliegen:
+
+- a) in einem Nachbarstaat wohnhafte Arbeitnehmer für ihr im Ausland erzieltes Einkommen aus unselbständiger Erwerbstätigkeit für einen Arbeitgeber mit Sitz, tatsächlicher Verwaltung oder Betriebsstätte im Kanton, sofern der Schweiz nach dem anwendbaren internationalen Abkommen im Steuerbereich mit dem jeweiligen Nachbarstaat ein Besteuerungsrecht betreffend die im Ausland ausgeübte Erwerbstätigkeit eingeräumt wird. Artikel 98 Absatz 2 StG findet keine Anwendung;
+- b) im Ausland wohnhafte Arbeitnehmer, die für Arbeit im internationalen Verkehr an Bord eines Schiffs oder eines Luftfahrzeugs oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber mit Sitz, tatsächlicher Verwaltung oder Betriebsstätte im Kanton erhalten; davon ausgenommen bleibt die Besteuerung von Seeleuten für die Erwerbstätigkeit an Bord eines von einem solchen Arbeitgeber unter Schweizer Flagge betriebenen Seeschiffs. Artikel 98 Absatz 2 StG findet keine Anwendung.
+
 #### Art. 25
 
-**1. Tarife**
+**2. Tarife**
 
 <sup>1</sup> Für den Steuerabzug an der Quelle werden die folgenden Tarifcodes den nachstehend aufgeführten Kategorien zugewiesen:
 
@@ -392,15 +411,15 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 <sup>1<sup>bis</sup></sup> Die Quellensteuer (inkl. Anteil Gemeinde und Kirche) auf Ersatzeinkünfte mit dem Tarifcode G beträgt:
 
 - a) 0,0 % für die ersten Fr. 18 000.–
-- b) 9,8 % für die weiteren Fr. 6000.–
-- c) 14,0 % für die weiteren Fr. 12 000.–
-- d) 16,4 % für die weiteren Fr. 12 000.–
-- e) 17,8 % für die weiteren Fr. 12 000.–
-- f) 17,1 % für die weiteren Fr. 30 000.–
-- g) 17,7 % für die weiteren Fr. 30 000.–
-- h) 19,1 % für die weiteren Fr. 60 000.–
-- i) 21,2 % für die weiteren Fr. 640 000.–
-- j) 20,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 820 000.– übersteigt.
+- b) 9,5 % für die weiteren Fr. 6000.–
+- c) 13,5 % für die weiteren Fr. 12 000.–
+- d) 16,0 % für die weiteren Fr. 12 000.–
+- e) 17,5 % für die weiteren Fr. 12 000.–
+- f) 17,0 % für die weiteren Fr. 30 000.–
+- g) 17,5 % für die weiteren Fr. 30 000.–
+- h) 18,7 % für die weiteren Fr. 60 000.–
+- i) 20,0 % für die weiteren Fr. 640 000.–
+- j) 19,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 820 000.– übersteigt.
 
 <sup>1<sup>ter</sup></sup> Die Quellensteuer der Grenzgängerinnen und Grenzgänger nach Absatz 1 Litera n - r beträgt 80 Prozent der Quellensteuer nach dem Tarifcode, für den sie die Voraussetzungen erfüllen.
 
@@ -415,7 +434,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 26
 
-**2. Berechnung der Quellensteuer**
+**3. Berechnung der Quellensteuer**
 
 <sup>1</sup> Für den Steuerabzug massgebend sind die Verhältnisse im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung.
 
@@ -437,13 +456,13 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 27a
 
-**3. Ersatzeinkünfte**
+**4. Ersatzeinkünfte**
 
 <sup>1</sup> Der Quellensteuer unterworfen sind alle Ersatzeinkünfte aus Arbeitsverhältnissen sowie aus Kranken-, Unfall-, Invaliden- und Arbeitslosenversicherung. Dazu gehören insbesondere Taggelder, Entschädigungen, Teilrenten und an deren Stelle tretende Kapitalleistungen.
 
 #### Art. 27b
 
-**4. Ordentliche Veranlagung bei Vergütungen aus dem Ausland**
+**5. Ordentliche Veranlagung bei Vergütungen aus dem Ausland**
 
 <sup>1</sup> Erhält eine steuerpflichtige Person die Vergütungen von einem nicht in der Schweiz ansässigen Schuldner der steuerbaren Leistung, so wird sie im ordentlichen Verfahren veranlagt.
 
@@ -649,9 +668,25 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>3</sup> Die Arbeitnehmer müssen dem Arbeitgeber Änderungen von Sachverhalten melden, die für die Erhebung der Quellensteuer massgebend sind. Der Arbeitgeber meldet die Änderungen innerhalb der Fristen nach den Absätzen 1 und 2 der zuständigen Steuerbehörde.
 
+#### Art. 41abis
+
+**d) Bescheinigung bei unterjähriger Beendigung des Arbeitsverhältnisses für in Frankreich wohnhafte Arbeitnehmer**
+
+<sup>1</sup> Der bisherige Arbeitgeber muss dem in Frankreich wohnhaften Arbeitnehmer bei unterjähriger Beendigung des Arbeitsverhältnisses auf dessen Verlangen eine Bescheinigung nach Artikel 48b Absatz 1 ABzStG ausstellen. Die Bescheinigung muss folgende Angaben enthalten:
+
+- a) Name, Vorname und Adresse des Arbeitnehmers zum Zeitpunkt des Austritts;
+- b) Zeitraum der beschränkten Steuerpflicht während der Anstellung im Kalenderjahr;
+- c) durchschnittlicher Beschäftigungsgrad in Prozent im Zeitraum nach Litera b;
+- d) Anzahl Arbeitstage in Form temporärer Einsätze im Ansässigkeitsstaat im Zeitraum nach Litera b;
+- e) Anzahl Arbeitstage in Form temporärer Einsätze in Drittstaaten im Zeitraum nach Litera b;
+- f) Anzahl Telearbeitstage oder Telearbeitsquote in Prozent im Ansässigkeitsstaat im Zeitraum nach Litera b, ohne Berücksichtigung der temporären Einsätze nach Litera d und Litera e;
+- g) Anzahl Übernachtungen in der Schweiz für Arbeitnehmer, die der Vereinbarung vom 11. April 1983 zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern[^41abis-1] unterliegen.
+
+[^41abis-1]: BBl 1983 II 535
+
 #### Art. 41b
 
-**d) Notwendige Vertretung**
+**e) Notwendige Vertretung**
 
 <sup>1</sup> Die Steuerbehörden können von einer steuerpflichtigen Person mit Wohnsitz oder Sitz im Ausland verlangen, dass sie einen Vertreter in der Schweiz bezeichnet.
 
@@ -659,7 +694,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 42
 
-**e) Verfügung über Steuerpflicht (Art. 133 StG)**
+**f) Verfügung über Steuerpflicht (Art. 133 StG)**
 
 <sup>1</sup> Die steuerpflichtige Person kann von der Veranlagungsbehörde bis zum 31. März des auf die Fälligkeit der Leistung folgenden Steuerjahres eine Verfügung über Bestand und Umfang der Steuerpflicht verlangen, wenn sie:
 
@@ -670,7 +705,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 43
 
-**f) Nachforderung und Rückerstattung**
+**g) Nachforderung und Rückerstattung**
 
 <sup>1</sup> Hat der Schuldner der steuerbaren Leistung den Steuerabzug nicht oder ungenügend vorgenommen, wird er zur Nachzahlung nebst Zins verpflichtet. Der Rückgriff des Schuldners auf den Steuerpflichtigen bleibt vorbehalten.
 
@@ -684,7 +719,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 44
 
-**g) Rechtsmittel**
+**h) Rechtsmittel**
 
 <sup>1</sup> Gegen eine Verfügung über die Quellensteuer kann neben dem Steuerpflichtigen auch der Schuldner der steuerbaren Leistung Einsprache nach Artikel 137 StG[^44-1] erheben.
 
@@ -766,6 +801,22 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 <sup>1</sup> Die Steuererklärung kann auch in elektronischer Form eingereicht werden. Der Steuerpflichtige kann zwischen der Einreichung in Papierform und der elektronischen Einreichung wählen.
 
 <sup>2</sup> …
+
+#### Art. 48b
+
+**2. Bescheinigungspflicht Dritter (Art. 129 Abs. 3 StG)**
+
+<sup>1</sup> Bei einem unterjährigen Austritt muss der bisherige Arbeitgeber dem Arbeitnehmer nach Artikel 98 Absatz 1 Litera b StG und Artikel 24c Absatz 1 Litera a ABzStG im Zeitpunkt der Beendigung des Arbeitsverhältnisses auf dessen Verlangen eine Bescheinigung mit den relevanten Angaben über die unselbständige Erwerbstätigkeit ausstellen, die für die Umsetzung des jeweiligen internationalen Abkommens im Steuerbereich erforderlich sind. Das Eidgenössische Finanzdepartement regelt in Zusammenarbeit mit den Kantonen die Einzelheiten.
+
+#### Art. 48c
+
+**3. Meldepflicht Dritter (Art. 130 Abs. 1 lit. h und Abs. 2 StG)**
+
+<sup>1</sup> Den Veranlagungsbehörden haben für jedes Steuerjahr beziehungsweise für jede Steuerperiode eine Bescheinigung einzureichen:
+
+- a) die Arbeitgeber über die Lohndaten zu Arbeitnehmern nach Artikel 98 Absatz 1 Litera b StG und Artikel 24c Absatz 1 Litera a ABzStG, für die ein internationales Abkommen im Steuerbereich den internationalen automatischen Austausch von Informationen über diese Daten vorsieht.
+
+<sup>2</sup> Der steuerpflichtigen Person ist ein Doppel der Bescheinigung zuzustellen.
 
 ### 4.3. Bezug und Sicherung
 

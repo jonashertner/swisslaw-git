@@ -4,13 +4,13 @@ number: "720.015"
 title: Disposizioni esecutive della legislazione sulle imposte
 short: DELIG
 language: it
-version: 2024-01-01
-corrected: 2024-01-24
-version_adopted: 2024-01-23
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-18
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3347/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3536/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3347/pdf_file"
 
 (DELIG)
 
-del 27.11.2007 (stato 01.01.2024)
+del 27.11.2007 (stato 01.01.2025)
 
 emanate dal Governo il 27 novembre 2007
 
@@ -38,9 +38,13 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 1
 
-**1. Fattori fiscali del figlio (art. 10 cpv. 6 LIG)**
+**1. Altri valori imponibili (art. 8 cpv. 1 lett. a, lett. a<sup>bis</sup> e lett. f LIG[^1-1])**
 
-<sup>1</sup> In caso di contribuenti tassati separatamente con autorità parentale congiunta, i fattori fiscali del figlio ai sensi dell'articolo 10 capoverso 5 LIG[^1-1] vengono assegnati al titolare dell'autorità parentale a cui viene concesso lo sgravio conformemente all'articolo 39 capoverso 3 LIG.
+<sup>1</sup> Le persone fisiche senza domicilio o dimora in Svizzera sono imponibili in forza di appartenenza economica se:
+
+- a) esercitano un'attività lucrativa indipendente o dipendente nel Cantone;
+- b) esercitano un'attività lucrativa dipendente per un datore di lavoro con sede, amministrazione effettiva o stabilimento d'impresa nel Cantone e, in virtù della convenzione internazionale applicabile in ambito fiscale conclusa con lo Stato confinante interessato, alla Svizzera è accordato il diritto di imposizione dell'attività lucrativa esercitata all'estero;
+- c) ricevono un salario o altre rimunerazioni da un datore di lavoro con sede, amministrazione effettiva o stabilimento d'impresa nel Cantone a motivo della loro attività nel traffico internazionale a bordo di navi o battelli, di un aeromobile o di un veicolo da trasporto stradale; è esclusa l'imposizione dei marittimi per l'attività lucrativa a bordo di una nave battente bandiera svizzera e il cui esercizio fa capo a tale datore di lavoro.
 
 [^1-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
 
@@ -48,9 +52,15 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **…**
 
+#### Art. 1b
+
+**2. Fattori fiscali del figlio (art. 10 cpv. 6 LIG)**
+
+<sup>1</sup> In caso di contribuenti tassati separatamente con autorità parentale congiunta, i fattori fiscali del figlio ai sensi dell'articolo 10 capoverso 5 LIG vengono assegnati al titolare dell'autorità parentale a cui viene concesso lo sgravio conformemente all'articolo 39 capoverso 3 LIG.
+
 #### Art. 2
 
-**2. Unioni di persone**
+**3. Unioni di persone**
 
 <sup>1</sup> Le unioni di persone senza personalità giuridica che secondo l'articolo 11 capoverso 2 LIG[^2-1] vengono tassate come un tutto sono assoggettate all'obbligo fiscale nel luogo della sede, dell'amministrazione effettiva o dell'ultimo domicilio del testatore.
 
@@ -58,7 +68,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 2a
 
-**3. Imposizione secondo il dispendio (art. 15 cpv. 1 lett. a LIG)**
+**4. Imposizione secondo il dispendio (art. 15 cpv. 1 lett. a LIG)**
 
 <sup>1</sup> L'importo minimo conformemente all'articolo 15 capoverso 1 lettera a LIG corrisponde a quello dell'articolo 14 capoverso 3 lettera a LIFD[^2a-1].
 
@@ -361,9 +371,18 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 ### 3.1. Disposizioni generali
 
+#### Art. 24c
+
+**1. Senza permesso di residenza o con domicilio all'estero (art. 98 cpv. 1 lett. b<sup>bis</sup> e lett. c LIG)**
+
+<sup>1</sup> Sono soggetti all'imposizione alla fonte:
+
+- a) i lavoratori domiciliati in uno Stato confinante per il loro reddito conseguito all'estero da attività lucrativa dipendente esercitata per un datore di lavoro con sede, amministrazione effettiva o stabilimento d'impresa nel Cantone, a condizione che, in virtù della convenzione internazionale applicabile in ambito fiscale conclusa con lo Stato confinante interessato, alla Svizzera sia accordato il diritto di imposizione dell'attività lucrativa esercitata all'estero. L'articolo 98 capoverso 2 LIG non trova applicazione;
+- b) i lavoratori che ricevono un salario o altre rimunerazioni da un datore di lavoro con sede, amministrazione effettiva o stabilimento d'impresa nel Cantone a motivo della loro attività nel traffico internazionale a bordo di navi o battelli, di un aeromobile o di un veicolo da trasporto stradale; è esclusa l'imposizione dei marittimi per l'attività lucrativa a bordo di una nave battente bandiera svizzera e il cui esercizio fa capo a tale datore di lavoro. L'articolo 98 capoverso 2 LIG non trova applicazione.
+
 #### Art. 25
 
-**1. Tariffe**
+**2. Tariffe**
 
 <sup>1</sup> Per la ritenuta d'imposta alla fonte, alle categorie indicate di seguito vengono assegnati i seguenti tariffari:
 
@@ -390,15 +409,15 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 <sup>1<sup>bis</sup></sup> L'imposta alla fonte (compresa la quota di comune e Chiesa) sui proventi compensativi cui si applica il tariffario G è fissata come segue:
 
 - a) 0,0 % per i primi fr. 18 000.–
-- b) 9,8 % per i successivi fr. 6000.–
-- c) 14,0 % per i successivi fr. 12 000.–
-- d) 16,4 % per i successivi fr. 12 000.–
-- e) 17,8 % per i successivi fr. 12 000.–
-- f) 17,1 % per i successivi fr. 30 000.–
-- g) 17,7 % per i successivi fr. 30 000.–
-- h) 19,1 % per i successivi fr. 60 000.–
-- i) 21,2 % per i successivi fr. 640 000.–
-- j) 20,0 % per l'intero reddito imponibile, se questo supera fr. 820 000.–.
+- b) 9,5 % per i successivi fr. 6000.–
+- c) 13,5 % per i successivi fr. 12 000.–
+- d) 16,0 % per i successivi fr. 12 000.–
+- e) 17,5 % per i successivi fr. 12 000.–
+- f) 17,0 % per i successivi fr. 30 000.–
+- g) 17,5 % per i successivi fr. 30 000.–
+- h) 18,7 % per i successivi fr. 60 000.–
+- i) 20,0 % per i successivi fr. 640 000.–
+- j) 19,0 % per l'intero reddito imponibile, se questo supera fr. 820 000.–.
 
 <sup>1<sup>ter</sup></sup> L'imposta alla fonte applicata ai lavoratori frontalieri di cui all'articolo 1 lettere n - r ammonta all'80 percento dell'imposta alla fonte secondo il tariffario per il quale i lavoratori frontalieri adempiono le condizioni.
 
@@ -413,7 +432,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 26
 
-**2. Calcolo dell'imposta alla fonte**
+**3. Calcolo dell'imposta alla fonte**
 
 <sup>1</sup> Per la deduzione fiscale sono determinanti le condizioni al momento del pagamento, del versamento, dell'accreditamento o della compensazione della prestazione imponibile.
 
@@ -435,13 +454,13 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 27a
 
-**3. Proventi compensativi**
+**4. Proventi compensativi**
 
 <sup>1</sup> Sono assoggettati all'imposta alla fonte tutti i proventi compensativi del reddito da attività lucrativa derivanti da un rapporto di lavoro nonché dall'assicurazione malattie, dall'assicurazione contro gli infortuni, dall'assicurazione per l'invalidità e dall'assicurazione contro la disoccupazione. Ne fanno parte in particolare le indennità giornaliere, le indennità, le rendite parziali e le prestazioni in capitale versate in loro vece.
 
 #### Art. 27b
 
-**4. Tassazione ordinaria in caso di rimunerazioni dall'estero**
+**5. Tassazione ordinaria in caso di rimunerazioni dall'estero**
 
 <sup>1</sup> Se riceve rimunerazioni da un debitore della prestazione imponibile non residente in Svizzera, il contribuente è tassato secondo la procedura ordinaria.
 
@@ -647,9 +666,25 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>3</sup> I lavoratori devono comunicare al datore di lavoro ogni modifica di un fatto determinante per la riscossione dell'imposta alla fonte. Il datore di lavoro comunica le modifiche all'autorità fiscale competente entro le scadenze di cui ai capoversi 1 e 2.
 
+#### Art. 41abis
+
+**d) Attestazione in caso di fine del rapporto di lavoro nel corso dell'anno per i lavoratori domiciliati in Francia**
+
+<sup>1</sup> In caso di fine del rapporto di lavoro nel corso dell'anno di un lavoratore domiciliato in Francia, il datore di lavoro rilascia al lavoratore, su richiesta di quest'ultimo, un'attestazione secondo l'articolo 48b capoverso 1 DELIG. L'attestazione deve contenere le seguenti indicazioni:
+
+- a) il cognome, il nome e l'indirizzo del datore di lavoro al momento della fine del rapporto di lavoro;
+- b) il periodo dell'assoggettamento limitato durante il rapporto di lavoro nell'anno civile;
+- c) il tasso di occupazione medio, espresso in per cento, per il periodo di cui alla lettera b;
+- d) il numero di giorni di lavoro svolti sotto forma di impieghi temporanei nello Stato di residenza per il periodo di cui alla lettera b;
+- e) il numero di giorni di lavoro svolti sotto forma di impieghi temporanei in Stati terzi per il periodo di cui alla lettera b;
+- f) il numero di giorni di telelavoro o la quota di telelavoro espressa in per cento nello Stato di residenza per il periodo di cui alla lettera b, senza tenere conto degli impieghi temporanei di cui alla lettera d e alla lettera e;
+- g) il numero di pernottamenti in Svizzera per i lavoratori soggetti all'accordo dell'11 aprile 1983 tra il Consiglio federale svizzero e il governo della Repubblica francese concernente l'imposizione delle rimunerazioni dei frontalieri[^41abis-1].
+
+[^41abis-1]: FF 1983 II 535
+
 #### Art. 41b
 
-**d) Rappresentanza obbligatoria**
+**e) Rappresentanza obbligatoria**
 
 <sup>1</sup> Le autorità fiscali possono esigere che il contribuente con domicilio o sede all'estero designi un rappresentante in Svizzera.
 
@@ -682,7 +717,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 44
 
-**g) Rimedi giuridici**
+**h) Rimedi giuridici**
 
 <sup>1</sup> Contro una decisione concernente l'imposta alla fonte, oltre al contribuente, anche il debitore della prestazione imponibile può presentare reclamo ai sensi dell'articolo 137 LIG[^44-1].
 
@@ -764,6 +799,22 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 <sup>1</sup> La dichiarazione d'imposta può essere inoltrata anche in forma elettronica. Il contribuente può scegliere tra l'inoltro per via cartacea e l'inoltro per via elettronica.
 
 <sup>2</sup> …
+
+#### Art. 48b
+
+**2. Obbligo di terzi di rilasciare attestazioni (art. 129 cpv. 3 LIG)**
+
+<sup>1</sup> Se il rapporto d'impiego di un lavoratore di cui all'articolo 98 capoverso 1 lettera b LIG e all'articolo 24c capoverso 1 lettera a DELIG termina nel corso dell'anno, al momento della fine del rapporto di lavoro il datore di lavoro precedente rilascia, su richiesta del lavoratore, un'attestazione contenente i dati rilevanti relativi all'attività lucrativa dipendente necessari all'applicazione della pertinente convenzione internazionale in ambito fiscale. Il Dipartimento federale delle finanze disciplina i dettagli in collaborazione con i Cantoni.
+
+#### Art. 48c
+
+**3. Obbligo di notifica a terzi (art. 130 cpv. 1 lett. h e cpv. 2 LIG)**
+
+<sup>1</sup> Per ogni anno fiscale rispettivamente per ogni periodo fiscale devono presentare un'attestazione alle autorità di tassazione:
+
+- a) i datori di lavoro, sui dati salariali concernenti i lavoratori di cui all'articolo 98 capoverso 1 lettera b LIG e all'articolo 24c capoverso 1 lettera a DELIG, se una convenzione internazionale in ambito fiscale prevede lo scambio automatico a livello internazionale di informazioni relative a questi dati.
+
+<sup>2</sup> Al contribuente è inviata una copia dell'attestazione.
 
 ### 4.3. Riscossione e garanzia
 
