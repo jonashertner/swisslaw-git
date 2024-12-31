@@ -4,13 +4,12 @@ number: "381.19"
 title: Verordnung über die qualitativen Mindestanforderungen an Pflege und Betreuung in stationären Einrichtungen für Betagte
 short: PQV
 language: de
-version: 2016-01-01
-valid_until: 2024-12-31
-version_adopted: 2015-11-10
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2015-11-10
 in_force: 2016-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.19"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2268/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3734/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2268/pdf_file"
 
 (PQV)
 
-vom 10.11.2015 (Stand 01.01.2016)
+vom 10.11.2015 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -41,7 +40,7 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Die qualitativen Mindestanforderungen nach diesem Erlass gelten für stationäre Einrichtungen für Betagte, die betrieben werden von:
 
 - a) öffentlich-rechtlichen Körperschaften;
-- b) privaten Institutionen mit Leistungsvereinbarung einer politischen Gemeinde oder Bewilligung des Departementes des Innern.
+- b) privaten Institutionen mit Leistungsvereinbarung einer politischen Gemeinde oder Bewilligung des Departementes des Innern oder des Gesundheitsdepartementes.
 
 #### Art. 2
 
