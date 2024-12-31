@@ -3,13 +3,13 @@ canton: BS
 number: RiE 162.110
 title: Personalreglement
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-17
 adopted: 2002-07-16
 in_force: 2002-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6099/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6493/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6099/pdf_file"
 
 Personalreglement | Riehen: Einwohnergemeinde
 
-Vom 16. Juli 2002 (Stand 1. Januar 2024)
+Vom 16. Juli 2002 (Stand 1. Januar 2025)
 
 Der Gemeinderat Riehen
 
@@ -158,13 +158,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 #### § 10
 
-**Wohnsitzpflicht**
-
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind in der Regel frei in der Wahl ihres Wohnsitzes.
-
-<sup>2</sup> Sie können zur Wohnsitznahme in der Gemeinde oder in der näheren Umgebung oder zum Bezug einer Dienstwohnung verpflichtet werden, wenn sie Bereitschafts- oder Abwartsdienst leisten oder ihren Arbeitsort aus anderen Gründen rasch erreichen müssen.
-
-<sup>3</sup> Aus den gleichen Gründen kann die Pflicht zur Wohnsitznahme in der Gemeinde oder in der näheren Umgebung oder zum Bezug einer Dienstwohnung bei einem Funktionswechsel gemäss § 12 und § 13 Abs. 1 dieses Reglements nachträglich angeordnet werden.
+**…**
 
 #### § 11
 
@@ -188,15 +182,17 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 #### § 14
 
-**Beschäftigung von Mitarbeiterinnen und Mitarbeitern im Pensionierungsalter**
+**Beschäftigung von Mitarbeitenden nach Erreichen der ordentlichen Altersgrenze**
 
-<sup>1</sup> Aus betrieblichen Gründen kann gemäss § 39 Abs. 2 der Personalordnung im Ausnahmefall eine Weiterbeschäftigung über die ordentliche Altersgrenze hinaus vereinbart werden. Der Vertrag wird befristet auf ein Jahr abgeschlossen. Er kann im Bedarfsfall zweimal um höchstens je ein weiteres Jahr verlängert werden.
+<sup>1</sup> Mitarbeitende, welche die ordentliche Altersgrenze erreicht haben, können aus betrieblichen Gründen gemäss § 39 Abs. 2 der Personalordnung[^14-1] befristet weiter beschäftigt werden. Dies gilt auch für ehemalige oder neue Mitarbeitende, die nach dem Erreichen ihrer ordentlichen Altersgrenze eingesetzt werden sollen.
 
-<sup>2</sup> In der Regel ist vor Abschluss einer Vereinbarung eine vertrauensärztliche Untersuchung durchzuführen.
+<sup>2</sup> Die Anstellung erfolgt mit einem befristeten privatrechtlichen Arbeitsvertrag. Er kann zweimal verlängert werden, maximal bis zum Erreichen des 70. Altersjahres.
 
-<sup>3</sup> Die Gemeindepräsidentin oder der Gemeindepräsident bewilligt auf Antrag der Anstellungsinstanz und nach Rücksprache mit dem zuständigen Mitglied des Gemeinderats und der Leitung des Fachbereichs Personal die Weiterbeschäftigung.
+<sup>3</sup> Abweichend von Abs. 2 kann das Arbeitsverhältnis von Mitarbeitenden der Gemeindeschulen, die während eines Schulsemesters die ordentliche Altersgrenze erreicht haben, bis zum Semesterende mit einem befristeten öffentlich-rechtlichen Arbeitsvertrag verlängert werden. Erfolgt im Anschluss eine Weiterbeschäftigung, gilt Abs. 2.
 
-<sup>4</sup> Unter den Bedingungen von Abs. 1 bis 3 können auch neue oder ehemalige Mitarbeiterinnen und Mitarbeiter, welche die ordentliche Altersgrenze erreicht haben, angestellt werden.
+<sup>4</sup> …
+
+[^14-1]: SG [RiE 162.100](https://www.gesetzessammlung.bs.ch/data/RiE%20162.100/de)
 
 ## III. Arbeitszeit
 
@@ -290,7 +286,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Vertrauensarbeitszeit**
 
-<sup>1</sup> Für die Verwaltungsleiterin oder den Verwaltungsleiter sowie für die Generalsekretärin oder den Generalsekretär gilt die Vertrauensarbeitszeit. Sie sind von der Erfassung der Arbeitszeit gemäss § 17 befreit.
+<sup>1</sup> Für die Verwaltungsleiterin oder den Verwaltungsleiter, für die Generalsekretärin oder den Generalsekretär sowie für die Abteilungsleitungen und die Leitungen der Stabsstellen, die Mitglieder der Erweiterten Geschäftsleitung sind, gilt die Vertrauensarbeitszeit. Sie sind von der Erfassung der Arbeitszeit gemäss § 17 befreit.
 
 <sup>2</sup> Die Vertrauensarbeitszeit orientiert sich an der Jahresarbeitszeit auf der Basis von 41.5 Stunden pro Woche.
 
@@ -298,9 +294,19 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>4</sup> Die §§ 18 Abs. 1 und 2, 19 bis 19b sowie 21 bis 23a kommen nicht zur Anwendung.
 
-<sup>5</sup> Abwesenheiten in Folge von Ferien, unverschuldeter Arbeitsunfähigkeit oder bezahltem Urlaub sind zu dokumentieren.
+<sup>5</sup> Abwesenheiten in Folge von Ferien, Weiterbildungen, unverschuldeter Arbeitsunfähigkeit oder bezahltem Urlaub sind zu dokumentieren.
 
-<sup>6</sup> Die Arbeitsbelastung wird regelmässig mit der Gemeindepräsidentin oder dem Gemeindepräsidenten besprochen und schriftlich festgehalten. Bei einer länger dauernden Überbeanspruchung trifft der Gemeinderat entsprechende Massnahmen.
+<sup>6</sup> Die Arbeitsbelastung wird regelmässig mit der oder dem Vorgesetzten sowie dem zuständigen Gemeinderatsmitglied besprochen. Bei einer länger dauernden Überbeanspruchung trifft der Gemeinderat entsprechende Massnahmen.
+
+#### § 19e
+
+**Ausgleich Vertrauensarbeitszeit**
+
+<sup>1</sup> Als Ausgleich für allfällige Mehrleistungen werden den Mitarbeitenden mit Vertrauensarbeitszeit fünf Ferientage pro Kalenderjahr gutgeschrieben.
+
+<sup>2</sup> Der Bezug dieser Ferientage richtet sich nach den personalrechtlichen Bestimmungen zum Ferienbezug.
+
+<sup>3</sup> Wird das Arbeitsverhältnis unterjährig aufgelöst, reduziert sich der Anspruch auf zusätzliche Ferientage gemäss Abs. 1 anteilmässig.
 
 #### § 20
 
@@ -1126,6 +1132,18 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 #### § 73
 
 **…**
+
+#### § 73a
+
+**Fakultative Vertrauensarbeitszeit[^73a-1]**
+
+<sup>1</sup> Für Abteilungsleitungen und Leitungen der Stabsstellen, die am 31. Dezember 2024 Mitglieder der Erweiterten Geschäftsleitung sind, ist die Vertrauensarbeitszeit gemäss § 19d fakultativ und wird individuell vereinbart.
+
+<sup>2</sup> Im Rahmen der Vereinbarung zur Vertrauensarbeitszeit regeln die Vertragsparteien die Modalitäten für den Umgang eines allfälligen bestehenden Guthabens von Mehrleistungen im Zeitpunkt des Beginns der Vertrauensarbeitszeit.
+
+<sup>3</sup> Wird die Vereinbarung betreffend Vertrauensarbeitszeit unterjährig oder mit Beendigung des Arbeitsverhältnisses aufgehoben, reduziert sich der Anspruch auf zusätzliche Ferientage gemäss § 19e anteilmässig.
+
+[^73a-1]: befristet bis 31. Dezember 2026 (KB 18.11.2024)
 
 #### § 74
 
