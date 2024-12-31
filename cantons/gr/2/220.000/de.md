@@ -4,13 +4,12 @@ number: "220.000"
 title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: EGzSchKG
 language: de
-version: 2017-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-02-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2014-04-23
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/220.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2703/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3389/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2703/pdf_file"
 
 (EGzSchKG)
 
-Vom 23.04.2014 (Stand 01.01.2017)
+Vom 23.04.2014 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -59,9 +58,11 @@ beschliesst:
 
 **Organisationsreglement**
 
-<sup>1</sup> Die Führung der Betreibungs- und Konkursämter sowie allfälliger Aussenstellen ist Sache der Regionen. Die Region erlässt dazu ein Organisationsreglement, soweit sie dazu durch dieses Gesetz ermächtigt und beauftragt wird.
+<sup>1</sup> Die Führung der Betreibungs- und Konkursämter sowie allfälliger Aussenstellen ist Sache der Regionen.
 
-<sup>2</sup> Das Organisationsreglement enthält insbesondere Bestimmungen über die ordnungsgemässe Durchführung der Betreibungen und Konkurse in der Region sowie den zweckmässigen Einsatz von Personal und Mittel.
+<sup>1<sup>bis</sup></sup> Soweit es für die Wahrnehmung dieser Aufgabe erforderlich ist, sind die Regionen berechtigt, in die Geschäftsführung der Betreibungs- und Konkursämter sowie allfälliger Aussenstellen Einsicht zu nehmen.
+
+<sup>2</sup> Die Regionen regeln die Führung der Betreibungs- und Konkursämter sowie allfälliger Aussenstellen in einem Organisationsreglement, soweit sie dazu durch dieses Gesetz ermächtigt und beauftragt werden. Das Organisationsreglement enthält insbesondere Bestimmungen über die ordnungsgemässe Durchführung der Betreibungen und Konkurse in der Region sowie den zweckmässigen Einsatz von Personal und Mittel.
 
 <sup>3</sup> Das Organisationsreglement ist der Aufsichtsbehörde zur Genehmigung vorzulegen.
 
@@ -95,7 +96,7 @@ beschliesst:
 
 **Mitteilung und Veröffentlichung**
 
-<sup>1</sup> Die Region hat die Ernennung und den Rücktritt von Amtspersonen unverzüglich der Aufsichtsbehörde mitzuteilen.
+<sup>1</sup> Die Region hat die Ernennung und den Rücktritt von Amtspersonen unverzüglich der Aufsichtsbehörde mitzuteilen. Sie informiert die Aufsichtsbehörde über Amtspflichtverletzungen von Betreibungs- und Konkursbeamtinnen oder Betreibungs- und Konkursbeamten, welche die Anordnung einer Disziplinarmassnahme rechtfertigen könnten.
 
 <sup>2</sup> Bei Änderungen der personellen Zusammensetzung hat die Region die Namen der betreffenden Personen angemessen zu publizieren. Die Aufsichtsbehörde informiert periodisch über die personelle Zusammensetzung der Betreibungs- und Konkursämter.
 
@@ -145,7 +146,9 @@ beschliesst:
 
 **Aufsichtsbehörde**
 
-<sup>1</sup> Einzige kantonale Aufsichtsbehörde gemäss Artikel 13 und Beschwerdeinstanz gemäss Artikel 17 des Bundesgesetzes über Schuldbetreibung und Konkurs ist das Kantonsgericht.
+<sup>1</sup> Einzige kantonale Aufsichtsbehörde gemäss Artikel 13 und Beschwerdeinstanz gemäss Artikel 17 des Bundesgesetzes über Schuldbetreibung und Konkurs ist das Obergericht.
+
+<sup>2</sup> Das Obergericht bezeichnet die zuständigen Organe in der Geschäftsordnung.
 
 #### Art. 14
 
@@ -165,7 +168,7 @@ beschliesst:
 
 <sup>3</sup> Sie kann Einführungs- und Weiterbildungskurse durchführen und die Teilnahme für obligatorisch erklären.
 
-<sup>4</sup> Sie kann einen Beratungsdienst unterhalten, der die Betreibungs- und Konkursämter in Fragen der allgemeinen Geschäftsführung und in konkreten Einzelfällen berät.
+<sup>4</sup> Sie unterhält einen Beratungsdienst, der die Betreibungs- und Konkursämter in Fragen der allgemeinen Geschäftsführung und in konkreten Einzelfällen berät.
 
 <sup>5</sup> Sie genehmigt den Zusammenschluss zweier oder mehrerer Betreibungs- oder Konkursämter, die Schaffung von Aussenstellen sowie das Organisationsreglement.
 
@@ -175,11 +178,28 @@ beschliesst:
 
 <sup>1</sup> Die Aufsichtsbehörde übt die ihr gemäss Artikel 14 Absatz 2 des Bundesgesetzes über Schuldbetreibung und Konkurs zustehenden Disziplinarbefugnisse aus.
 
+#### Art. 16a
+
+**Betreibungs- und Konkursinspektorinnen und -inspektoren**
+
+<sup>1</sup> Die Aufsichtsbehörde ernennt eine oder mehrere Betreibungs- und Konkursinspektorinnen oder einen oder mehrere Betreibungs- und Konkursinspektoren.
+
+<sup>2</sup> Die Betreibungs- und Konkursinspektorinnen sowie die Betreibungs- und Konkursinspektoren:
+
+- a) prüfen mindestens einmal jährlich die Geschäftsführung der Betreibungs- und Konkursämter und teilen dem Obergericht das Ergebnis der Prüfung mit;
+- b) erteilen Auskünfte an die Betreibungs- und Konkursbeamtinnen und die Betreibungs- und Konkursbeamten;
+- c) geben den Betreibungs- und Konkursbeamtinnen und den Betreibungs- und Konkursbeamten Hilfestellung bei der Erledigung von Amtsgeschäften;
+- d) sind für die Weiterbildung zuständig.
+
+<sup>3</sup> Die Regierung legt das Taggeld für die im Nebenamt tätigen Betreibungs- und Konkursinspektorinnen sowie Betreibungs- und Konkursinspektoren fest. Sie kann von den in Artikel 70 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden[^16a-1] vorgesehenen Ansätzen abweichen.
+
+[^16a-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
+
 ### 2.2. Verfahren
 
 #### Art. 17
 
-**Verfahren vor Kantonsgericht 1. als Aufsichtsbehörde**
+**Verfahren vor Obergericht 1. als Aufsichtsbehörde**
 
 <sup>1</sup> Beschwerden gemäss Artikel 17 des Bundesgesetzes über Schuldbetreibung und Konkurs sowie Gesuche und Anzeigen sind schriftlich einzureichen.
 
@@ -195,11 +215,11 @@ beschliesst:
 
 <sup>1</sup> Die Aufsichtsbehörde kann aufgrund einer Anzeige oder von Amtes wegen ein Disziplinarverfahren eröffnen.
 
-<sup>2</sup> Sie teilt dies der betroffenen Amtsperson mit und nimmt die nötigen Abklärungen vor.
+<sup>2</sup> Sie teilt dies der betroffenen Amtsperson sowie der betroffenen Region mit und nimmt die nötigen Abklärungen vor.
 
 <sup>3</sup> Nach Abschluss der Untersuchung erhält die betroffene Person Gelegenheit zur Stellungnahme; nötigenfalls ist eine mündliche Verhandlung durchzuführen.
 
-<sup>4</sup> Der Disziplinarentscheid wird unter Angabe des Sachverhaltes und der wesentlichen Erwägungen schriftlich eröffnet.
+<sup>4</sup> Der Disziplinarentscheid wird unter Angabe des Sachverhaltes und der wesentlichen Erwägungen der betroffenen Person sowie der betroffenen Region schriftlich eröffnet.
 
 <sup>5</sup> Im Übrigen sind die Bestimmungen des Verwaltungsrechtspflegegesetzes über das Verfahren vor kantonalen Verwaltungsbehörden sinngemäss anwendbar.
 
@@ -217,15 +237,11 @@ beschliesst:
 
 <sup>1</sup> Das Regionalgericht ist unteres Nachlassgericht.
 
-<sup>2</sup> Das Kantonsgericht ist oberes kantonales Nachlassgericht.
+<sup>2</sup> Das Obergericht ist oberes kantonales Nachlassgericht.
 
 #### Art. 21
 
-**Gewerbsmässige Vertretung**
-
-<sup>1</sup> Zur gewerbsmässigen Vertretung sind in allen Verfahren Anwältinnen und Anwälte befugt, die nach dem Anwaltsgesetz vom 23. Juni 2000 berechtigt sind, Parteien vor schweizerischen Gerichten zu vertreten.
-
-<sup>2</sup> Die Vertretung in Angelegenheiten des summarischen Verfahrens nach Artikel 251 der Zivilprozessordnung, im Beschwerdeverfahren nach Artikel 17 des Bundesgesetzes über Schuldbetreibung und Konkurs sowie im Verfahren vor dem Betreibungs- und Konkursamt ist davon ausgenommen.
+**…**
 
 #### Art. 22
 

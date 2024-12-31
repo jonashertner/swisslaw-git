@@ -4,13 +4,12 @@ number: "220.000"
 title: "Legge d'applicazione della legge federale sulla esecuzione e sul fallimento"
 short: LAdLEF
 language: it
-version: 2017-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-02-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2014-04-23
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/220.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2703/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3389/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2703/pdf_file"
 
 (LAdLEF)
 
-del 23.04.2014 (stato 01.01.2017)
+del 23.04.2014 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -59,9 +58,11 @@ decide:
 
 **Regolamento di organizzazione**
 
-<sup>1</sup> La gestione degli uffici d'esecuzione e dei fallimenti, nonché di eventuali uffici esterni compete alle regioni. La regione emana a questo scopo un regolamento di organizzazione, nella misura in cui la presente legge le conferisca l'autorizzazione e l'incarico in tal senso.
+<sup>1</sup> La gestione degli uffici d'esecuzione e dei fallimenti, nonché di eventuali uffici esterni compete alle regioni.
 
-<sup>2</sup> Il regolamento di organizzazione contiene in particolare disposizioni sul regolare svolgimento delle esecuzioni e dei fallimenti nella regione, nonché sull'impiego adeguato di personale e mezzi.
+<sup>1<sup>bis</sup></sup> Se necessario per svolgere questo compito, le regioni hanno diritto di prendere visione della gestione degli uffici d'esecuzione e dei fallimenti nonché di eventuali uffici esterni.
+
+<sup>2</sup> Le regioni disciplinano la gestione degli uffici d'esecuzione e dei fallimenti nonché di eventuali uffici esterni in un regolamento di organizzazione, nella misura in cui la presente legge le autorizzi e le incarichi di farlo. Il regolamento di organizzazione contiene in particolare disposizioni sul regolare svolgimento delle esecuzioni e dei fallimenti nella regione, nonché sull'impiego adeguato di personale e mezzi.
 
 <sup>3</sup> Il regolamento di organizzazione va sottoposto per approvazione all'autorità di vigilanza.
 
@@ -95,7 +96,7 @@ decide:
 
 **Comunicazione e pubblicazione**
 
-<sup>1</sup> La regione deve comunicare senza indugio all'autorità di vigilanza la nomina e le dimissioni di ufficiali.
+<sup>1</sup> La regione deve comunicare senza indugio all'autorità di vigilanza la nomina e le dimissioni di ufficiali. Essa informa l'autorità di vigilanza in merito a violazioni dei doveri d'ufficio da parte di ufficiali esecutori e dei fallimenti che potrebbero giustificare la disposizione di una misura disciplinare.
 
 <sup>2</sup> In caso di modifiche nell'organico, la regione deve pubblicare adeguatamente i nomi delle persone in questione. L'autorità di vigilanza informa periodicamente in merito all'organico degli uffici d'esecuzione e dei fallimenti.
 
@@ -145,7 +146,9 @@ decide:
 
 **Autorità di vigilanza**
 
-<sup>1</sup> Unica autorità cantonale di vigilanza conformemente all'articolo 13 e autorità di ricorso conformemente all'articolo 17 della legge federale sulla esecuzione e sul fallimento è il Tribunale cantonale.
+<sup>1</sup> Unica autorità cantonale di vigilanza conformemente all'articolo 13 e autorità di ricorso conformemente all'articolo 17 della legge federale sulla esecuzione e sul fallimento è il Tribunale d'appello.
+
+<sup>2</sup> Il Tribunale d'appello designa gli organi competenti nel regolamento interno.
 
 #### Art. 14
 
@@ -165,7 +168,7 @@ decide:
 
 <sup>3</sup> Essa può organizzare corsi d'introduzione e di perfezionamento e dichiararne obbligatoria la partecipazione.
 
-<sup>4</sup> Essa può gestire un servizio di consulenza che consiglia gli uffici d'esecuzione e dei fallimenti in questioni riguardanti la gestione generale e in casi concreti.
+<sup>4</sup> Essa gestisce un servizio di consulenza che consiglia gli uffici d'esecuzione e dei fallimenti in questioni riguardanti la gestione generale e in casi concreti.
 
 <sup>5</sup> Essa approva l'unificazione di due o più uffici d'esecuzione e dei fallimenti, la creazione di uffici esterni, nonché il regolamento di organizzazione.
 
@@ -175,11 +178,28 @@ decide:
 
 <sup>1</sup> L'autorità di vigilanza esercita i poteri disciplinari che le spettano conformemente all'articolo 14 capoverso 2 della legge federale sulla esecuzione e sul fallimento.
 
+#### Art. 16a
+
+**Ispettori delle esecuzioni e dei fallimenti**
+
+<sup>1</sup> L'autorità di vigilanza nomina uno o più ispettori delle esecuzioni e dei fallimenti.
+
+<sup>2</sup> Gli ispettori delle esecuzioni e dei fallimenti:
+
+- a) controllano la gestione degli uffici d'esecuzione e dei fallimenti almeno una volta all'anno e comunicano il risultato del controllo al Tribunale d'appello;
+- b) forniscono informazioni agli ufficiali esecutori e dei fallimenti;
+- c) aiutano gli ufficiali esecutori e dei fallimenti nel disbrigo delle pratiche;
+- d) sono competenti per il perfezionamento professionale.
+
+<sup>3</sup> Il Governo stabilisce l'indennità giornaliera per gli ispettori delle esecuzioni e dei fallimenti attivi a titolo accessorio. Esso può prevedere deroghe agli importi previsti dall'articolo 70 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni[^16a-1].
+
+[^16a-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
+
 ### 2.2. Procedura
 
 #### Art. 17
 
-**Procedura dinanzi al Tribunale cantonale 1. quale autorità di vigilanza**
+**Procedura dinanzi al Tribunale d'appello 1. quale autorità di vigilanza**
 
 <sup>1</sup> I ricorsi conformemente all'articolo 17 della legge federale sulla esecuzione e sul fallimento, nonché le domande e le denunce devono essere inoltrati per iscritto.
 
@@ -195,11 +215,11 @@ decide:
 
 <sup>1</sup> L'autorità di vigilanza può avviare un procedimento disciplinare sulla base di una denuncia oppure d'ufficio.
 
-<sup>2</sup> Essa comunica tale fatto all'ufficiale interessato ed effettua le indagini necessarie.
+<sup>2</sup> Essa comunica tale fatto all'ufficiale interessato nonché alla regione interessata ed effettua le indagini necessarie.
 
 <sup>3</sup> Terminata l'istruttoria, alla persona interessata viene data l'opportunità di prendere posizione; se necessario va eseguito un dibattimento.
 
-<sup>4</sup> La decisione disciplinare viene comunicata per iscritto indicando la fattispecie e i considerandi essenziali.
+<sup>4</sup> La decisione disciplinare viene comunicata per iscritto alla persona interessata nonché alla regione interessata indicando la fattispecie e i considerandi essenziali.
 
 <sup>5</sup> Per il resto sono applicabili per analogia le disposizioni della legge sulla giustizia amministrativa relative alla procedura dinanzi ad autorità amministrative cantonali.
 
@@ -217,15 +237,11 @@ decide:
 
 <sup>1</sup> Il tribunale regionale è giudice dei concordati inferiore.
 
-<sup>2</sup> Il Tribunale cantonale è giudice dei concordati superiore.
+<sup>2</sup> Il Tribunale d'appello è giudice dei concordati superiore.
 
 #### Art. 21
 
-**Rappresentanza professionale**
-
-<sup>1</sup> Sono autorizzati a esercitare la rappresentanza professionale in tutti i procedimenti gli avvocati legittimati a esercitare la rappresentanza dinanzi a un tribunale svizzero secondo la legge del 23 giugno 2000 sugli avvocati.
-
-<sup>2</sup> Fa eccezione la rappresentanza nelle pratiche evase in procedura sommaria secondo l'articolo 251 del Codice di procedura civile, nella procedura di ricorso secondo l'articolo 17 della legge federale sulla esecuzione e sul fallimento, nonché nel procedimento dinanzi all'ufficio d'esecuzione e dei fallimenti.
+**…**
 
 #### Art. 22
 

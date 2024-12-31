@@ -4,13 +4,12 @@ number: "220.000"
 title: Lescha introductiva tar la lescha federala davart la scussiun ed il concurs
 short: LItLSC
 language: rm
-version: 2017-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-02-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2014-04-23
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/220.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2703/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3389/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2703/pdf_file"
 
 (LItLSC)
 
-dals 23-04-2014 (versiun dals 01-01-2017)
+dals 23-04-2014 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -59,9 +58,11 @@ concluda:
 
 **Reglament d'organisaziun**
 
-<sup>1</sup> La gestiun dals uffizis da scussiun e da concurs sco er d'eventuals posts externs è chaussa da las regiuns. Per quest intent relascha la regiun in reglament d'organisaziun, uschenavant ch'ella vegn autorisada ed incumbensada tras questa lescha da far quai.
+<sup>1</sup> La gestiun dals uffizis da scussiun e da concurs sco er d'eventuals posts externs è chaussa da las regiuns.
 
-<sup>2</sup> Il reglament d'organisaziun cuntegna en spezial disposiziuns davart l'execuziun regulara da las scussiuns e dals concurs en la regiun sco er davart l'engaschament adequat dal persunal e dals meds finanzials.
+<sup>1<sup>bis</sup></sup> Sche quai è necessari per ademplir questa incumbensa, han las regiuns il dretg da prender invista da la gestiun dals uffizis da scussiun e da concurs sco er d'eventuals posts externs.
+
+<sup>2</sup> Las regiuns reglan la direcziun dals uffizis da scussiun e da concurs sco er d'eventuals posts externs en in reglament d'organisaziun, uschenavant ch'ellas vegnan autorisadas ed incumbensadas tras questa lescha da far quai. Il reglament d'organisaziun cuntegna en spezial disposiziuns davart l'execuziun regulara da las scussiuns e dals concurs en la regiun sco er davart l'engaschament adequat dal persunal e dals meds finanzials.
 
 <sup>3</sup> Il reglament d'organisaziun sto vegnir suttamess a l'approvaziun da l'autoritad da surveglianza.
 
@@ -95,7 +96,7 @@ concluda:
 
 **Communicaziun e publicaziun**
 
-<sup>1</sup> La regiun sto communitgar immediatamain a l'autoritad da surveglianza la nominaziun e la demissiun da persunas d'uffizi.
+<sup>1</sup> La regiun sto communitgar immediatamain a l'autoritad da surveglianza la nominaziun e la demissiun da persunas d'uffizi. Ella infurmescha l'autoritad da surveglianza davart violaziuns da l'obligaziun d'uffizi ch'èn vegnidas commessas da funcziunarias e da funcziunaris da scussiun e da concurs e che pudessan giustifitgar l'ordinaziun d'ina mesira disciplinara.
 
 <sup>2</sup> Sch'i dat mutaziuns tar il persunal, sto la regiun publitgar en moda adequata ils nums da las persunas respectivas. L'autoritad da surveglianza infurmescha periodicamain davart la cumposiziun dal persunal dals uffizis da scussiun e da concurs.
 
@@ -153,9 +154,9 @@ concluda:
 
 **Autoritad da surveglianza**
 
-<sup>1</sup> L'unica autoritad chantunala da surveglianza tenor l'artitgel 13 sco er l'unica instanza da recurs tenor l'artitgel 17 da la lescha federala davart la scussiun ed il concurs[^13-1] è la dretgira chantunala.
+<sup>1</sup> L'unica autoritad chantunala da surveglianza tenor l'artitgel 13 sco er l'unica instanza da recurs tenor l'artitgel 17 da la Lescha federala davart la scussiun ed il concurs è la Dretgira superiura.
 
-[^13-1]: CS [281.1](https://db.clex.ch/link/Bund/281.1/rm)
+<sup>2</sup> La Dretgira superiura designescha ils organs cumpetents en l'urden da gestiun.
 
 #### Art. 14
 
@@ -175,7 +176,7 @@ concluda:
 
 <sup>3</sup> Ella po organisar curs d'introducziun e da perfecziunament e declerar che la participaziun saja obligatorica.
 
-<sup>4</sup> Ella po manar in servetsch da cussegliaziun che cusseglia ils uffizis da scussiun e da concurs en dumondas da la gestiun generala ed en cas singuls concrets.
+<sup>4</sup> Ella maina in servetsch da cussegliaziun che cusseglia ils uffizis da scussiun e da concurs en dumondas da la gestiun generala ed en cas singuls concrets.
 
 <sup>5</sup> Ella dat il consentiment per unir dus u plirs uffizis da scussiun e da concurs sco er per crear posts externs ed approvescha il reglament d'organisaziun.
 
@@ -187,11 +188,28 @@ concluda:
 
 [^16-1]: CS [281.1](https://db.clex.ch/link/Bund/281.1/rm)
 
+#### Art. 16a
+
+**Inspecturas ed inspecturs da scussiun e da concurs**
+
+<sup>1</sup> L'autoritad da surveglianza nominescha ina u pliras inspecturas ubain in u plirs inspecturs da scussiun e da concurs.
+
+<sup>2</sup> Las inspecturas ed ils inspecturs da scussiun e da concurs:
+
+- a) controlleschan almain ina giada per onn la gestiun dals uffizis da scussiun e da concurs e communitgeschan il resultat da la controlla a la Dretgira superiura;
+- b) dattan infurmaziuns a las funcziunarias ed als funcziunaris da scussiun e da concurs;
+- c) porschan agid a las funcziunarias ed als funcziunaris da scussiun e da concurs per liquidar fatschentas uffizialas;
+- d) èn responsabels per la furmaziun supplementara.
+
+<sup>3</sup> La Regenza fixescha la diaria per las inspecturas ed ils inspecturs da scussiun e da concurs che lavuran en uffizi accessoric. Ella po divergiar da las tariffas previsas en l'artitgel 70 da la Lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun[^16a-1].
+
+[^16a-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
+
 ### 2.2. Procedura
 
 #### Art. 17
 
-**Procedura davant la dretgira chantunala 1. sco autoritad da surveglianza**
+**Procedura davant la Dretgira superiura 1. sco autoritad da surveglianza**
 
 <sup>1</sup> Recurs tenor l'artitgel 17 da la lescha federala davart la scussiun ed il concurs[^17-1] sco er dumondas e denunzias ston vegnir inoltradas en scrit.
 
@@ -210,11 +228,11 @@ concluda:
 
 <sup>1</sup> Sin basa d'ina denunzia u d'uffizi po l'autoritad da surveglianza avrir ina procedura disciplinara.
 
-<sup>2</sup> Ella communitgescha quai a la persuna d'uffizi pertutgada e fa ils scleriments necessaris.
+<sup>2</sup> Ella communitgescha quai a la persuna d'uffizi pertutgada sco er a la regiun pertutgada e fa ils scleriments necessaris.
 
 <sup>3</sup> Suenter la finiziun da l'inquisiziun survegn la persuna pertutgada la pussaivladad da prender posiziun; sche necessari sto vegnir fatga ina tractativa a bucca.
 
-<sup>4</sup> La decisiun disciplinara vegn communitgada en scrit cun inditgar ils fatgs e las consideraziuns essenzialas.
+<sup>4</sup> La decisiun disciplinara vegn communitgada en scrit a la persuna pertutgada sco er a la regiun pertutgada cun inditgar ils fatgs e las consideraziuns essenzialas.
 
 <sup>5</sup> Dal rest èn applitgablas confurm al senn las disposiziuns da la lescha davart la giurisdicziun administrativa[^18-1] concernent la procedura davant autoritads administrativas chantunalas.
 
@@ -236,19 +254,11 @@ concluda:
 
 <sup>1</sup> La dretgira regiunala è la dretgira inferiura da moratori.
 
-<sup>2</sup> La dretgira chantunala è la dretgira da moratori chantunala superiura.
+<sup>2</sup> La Dretgira superiura è la dretgira da moratori chantunala superiura.
 
 #### Art. 21
 
-**Represchentanza professiunala**
-
-<sup>1</sup> Autorisads a la represchentanza professiunala en tut las proceduras èn las advocatas ed ils advocats che han il dretg da represchentar partidas davant dretgiras svizras tenor la lescha federala davart las advocatas ed ils advocats dals 23 da zercladur 2000[^21-1].
-
-<sup>2</sup> Exceptada da quai è la represchentanza en chaussas da la procedura summarica tenor l'artitgel 251 dal cudesch da procedura civila[^21-2], en proceduras da recurs tenor l'artitgel 17 da la lescha federala davart la scussiun ed il concurs[^21-3] sco er en proceduras davant l'uffizi da scussiun e da concurs.
-
-[^21-1]: CS [935.61](https://db.clex.ch/link/Bund/935.61/rm)
-[^21-2]: CS [272](https://db.clex.ch/link/Bund/272/rm)
-[^21-3]: CS [281.1](https://db.clex.ch/link/Bund/281.1/rm)
+**…**
 
 #### Art. 22
 
