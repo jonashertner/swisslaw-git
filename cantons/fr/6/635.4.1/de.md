@@ -4,13 +4,12 @@ number: "635.4.1"
 title: Gesetz über die Besteuerung der Motorfahrzeuge und Anhänger
 short: BMfzAG
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-02-11
+version: 2025-01-01
+version_adopted: 2024-11-19
 adopted: 2021-02-11
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/635.4.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6817/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8108/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Besteuerung der Motorfahrzeuge und Anhänger – G
 
 (BMfzAG)
 
-vom 11.02.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 11.02.2021 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -203,83 +202,83 @@ beschliesst:
 <sup>1</sup> Für Motorfahrzeuge und Anhänger wird folgende Steuer geschuldet (in Franken):
 
 - 1\. Motorfahrrad
-  - a) Elektrisches oder ähnliches Motorfahrrad mit Kontrollschild, unteilbare Jahressteuer — Fr. 20.–
-  - b) Anderes Motorfahrrad, unteilbare Jahressteuer — Fr. 40.–
+  - a) Elektrisches oder ähnliches Motorfahrrad mit Kontrollschild, unteilbare Jahressteuer — Fr. 21
+  - b) Anderes Motorfahrrad, unteilbare Jahressteuer — Fr. 42
 - 2\. Traktor, Arbeitsmaschine, Arbeitskarren, Motorkarren und ähnliche Motorfahrzeuge
-  - a) Einachser — Fr. 35.–
-  - b) bis zu einem Gesamtgewicht von 3500 kg — Fr. 115.–
-  - c) mit einem Gesamtgewicht von 3501 kg bis 7500 kg — Fr. 175.–
-  - d) mit einem Gesamtgewicht ab 7501 kg — Fr. 235.–
+  - a) Einachser — Fr. 37
+  - b) bis zu einem Gesamtgewicht von 3500 kg — Fr. 121
+  - c) mit einem Gesamtgewicht von 3501 kg bis 7500 kg — Fr. 184
+  - d) mit einem Gesamtgewicht ab 7501 kg — Fr. 247
 - 3\. Berufsschilder
-  - a) Motorrad, Anhänger — Fr. 150.–
-  - b) Landwirtschaftsfahrzeug — Fr. 300.–
-  - c) Motorwagen — Fr. 600.–
+  - a) Motorrad, Anhänger — Fr. 158
+  - b) Landwirtschaftsfahrzeug — Fr. 316
+  - c) Motorwagen — Fr. 631
 - 4\. Personenwagen, Kleinbusse und ähnliche Motorfahrzeuge mit einem Gesamtgewicht von max. 3500 kg; Motorwagen, Lieferwagen, Sattelschlepper und ähnliche Motorfahrzeuge mit einem Gesamtgewicht von max. 2800 kg
-  - a) bis 25 kW — Fr. 246.–
-  - b) von 26 bis 50 kW — Fr. 311.–
-  - c) von 51 bis 75 kW — Fr. 376.–
-  - d) von 76 bis 100 kW — Fr. 441.–
-  - e) von 101 bis 125 kW — Fr. 506.–
-  - f) von 126 bis 150 kW — Fr. 571.–
-  - g) von 151 bis 175 kW — Fr. 656.–
-  - h) von 176 bis 200 kW — Fr. 741.–
-  - i) von 201 bis 225 kW — Fr. 826.–
-  - j) von 226 bis 250 kW — Fr. 911.–
-  - k) von 251 bis 300 kW — Fr. 1'081.–
-  - l) von 301 bis 350 kW — Fr. 1'251.–
-  - m) ab 351 kW — Fr. 1'421.–
+  - a) bis 25 kW — Fr. 259
+  - b) von 26 bis 50 kW — Fr. 327
+  - c) von 51 bis 75 kW — Fr. 396
+  - d) von 76 bis 100 kW — Fr. 464
+  - e) von 101 bis 125 kW — Fr. 532
+  - f) von 126 bis 150 kW — Fr. 601
+  - g) von 151 bis 175 kW — Fr. 690
+  - h) von 176 bis 200 kW — Fr. 780
+  - i) von 201 bis 225 kW — Fr. 869
+  - j) von 226 bis 250 kW — Fr. 958
+  - k) von 251 bis 300 kW — Fr. 1137
+  - l) von 301 bis 350 kW — Fr. 1316
+  - m) ab 351 kW — Fr. 1495
 - 5\. Motorwagen, Lieferwagen, Sattelschlepper und ähnliche Motorfahrzeuge mit einem Gesamtgewicht von 2801 bis 3500 kg
-  - a) von 2801 bis 3200 kg — Fr. 489.–
-  - b) von 3201 bis 3500 kg — Fr. 719.–
+  - a) von 2801 bis 3200 kg — Fr. 514
+  - b) von 3201 bis 3500 kg — Fr. 756
 - 6\. Motorrad, dreirädriges Motorfahrzeug, Kleinmotorfahrzeug, Motorschlitten und ähnliche Motorfahrzeuge
-  - a) bis 3 kW — Fr. 98.–
-  - b) von 4 bis 5 kW — Fr. 108.–
-  - c) von 6 bis 7 kW — Fr. 128.–
-  - d) von 8 bis 11 kW — Fr. 148.–
-  - e) von 12 bis 22 kW — Fr. 168.–
-  - f) von 23 bis 50 kW — Fr. 188.–
-  - g) von 51 bis 80 kW — Fr. 208.–
-  - h) von 81 bis 110 kW — Fr. 228.–
-  - i) ab 111 kW — Fr. 248.–
+  - a) bis 3 kW — Fr. 103
+  - b) von 4 bis 5 kW — Fr. 114
+  - c) von 6 bis 7 kW — Fr. 135
+  - d) von 8 bis 11 kW — Fr. 156
+  - e) von 12 bis 22 kW — Fr. 177
+  - f) von 23 bis 50 kW — Fr. 198
+  - g) von 51 bis 80 kW — Fr. 219
+  - h) von 81 bis 110 kW — Fr. 240
+  - i) ab 111 kW — Fr. 261
 - 7\. Motorwagen, Lastwagen, Sattelschlepper, Sattelmotorfahrzeug und ähnliche Motorfahrzeuge mit einem Gesamtgewicht über 3500 kg
-  - a) von 3501 bis 7500 kg — Fr. 1'084.–
-  - b) von 7501 bis 14'000 kg — Fr. 1'584.–
-  - c) von 14'001 bis 20'000 kg — Fr. 2'084.–
-  - d) von 20'001 bis 26'000 kg — Fr. 2'584.–
-  - e) von 26'001 bis 32'000 kg — Fr. 3'084.–
-  - f) ab 32'001 kg — Fr. 3'584.–
+  - a) von 3501 bis 7500 kg — Fr. 1140
+  - b) von 7501 bis 14'000 kg — Fr. 1666
+  - c) von 14'001 bis 20'000 kg — Fr. 2192
+  - d) von 20'001 bis 26'000 kg — Fr. 2718
+  - e) von 26'001 bis 32'000 kg — Fr. 3244
+  - f) ab 32'001 kg — Fr. 3770
 - 8\. Gesellschaftswagen (Autocar), Bus und ähnliche Fahrzeuge
-  - a) von 3501 bis 5000 kg — Fr. 1'296.–
-  - b) von 5001 bis 7500 kg — Fr. 1'496.–
-  - c) von 7501 bis 10'000 kg — Fr. 1'696.–
-  - d) von 10'001 bis 15'000 kg — Fr. 1'896.–
-  - e) von 15'001 bis 20'000 kg — Fr. 2'096.–
-  - f) von 20'001 bis 25'000 kg — Fr. 2'296.–
-  - g) ab 25'001 kg — Fr. 2'496.–
+  - a) von 3501 bis 5000 kg — Fr. 1363
+  - b) von 5001 bis 7500 kg — Fr. 1574
+  - c) von 7501 bis 10'000 kg — Fr. 1784
+  - d) von 10'001 bis 15'000 kg — Fr. 1995
+  - e) von 15'001 bis 20'000 kg — Fr. 2205
+  - f) von 20'001 bis 25'000 kg — Fr. 2415
+  - g) ab 25'001 kg — Fr. 2626
 - 9\. Anhänger, Sattelanhänger und ähnliche Anhänger
-  - a) bis 300 kg — Fr. 34.–
-  - b) von 301 bis 600 kg — Fr. 79.–
-  - c) von 601 bis 1200 kg — Fr. 133.–
-  - d) von 1201 bis 2500 kg — Fr. 238.–
-  - e) von 2501 bis 5000 kg — Fr. 358.–
-  - f) von 5001 bis 7500 kg — Fr. 488.–
-  - g) von 7501 bis 10'000 kg — Fr. 618.–
-  - h) von 10'001 bis 12'500 kg — Fr. 748.–
-  - i) ab 12'501 kg — Fr. 878.–
+  - a) bis 300 kg — Fr. 36
+  - b) von 301 bis 600 kg — Fr. 83
+  - c) von 601 bis 1200 kg — Fr. 140
+  - d) von 1201 bis 2500 kg — Fr. 250
+  - e) von 2501 bis 5000 kg — Fr. 377
+  - f) von 5001 bis 7500 kg — Fr. 513
+  - g) von 7501 bis 10'000 kg — Fr. 650
+  - h) von 10'001 bis 12'500 kg — Fr. 787
+  - i) ab 12'501 kg — Fr. 924
 - 10\. Anhänger, Sattelanhänger und ähnliche Motorfahrzeuge, die in der Landwirtschaft oder als Arbeitsfahrzeug eingesetzt werden
 - 10\.1 Landwirtschaft
-  - a) bis 600 kg — Fr. 14.–
-  - b) von 601 bis 3500 kg — Fr. 34.–
-  - c) von 3501 bis 7500 kg — Fr. 74.–
-  - d) ab 7501 kg — Fr. 124.–
+  - a) bis 600 kg — Fr. 15
+  - b) von 601 bis 3500 kg — Fr. 36
+  - c) von 3501 bis 7500 kg — Fr. 78
+  - d) ab 7501 kg — Fr. 130
 - 10\.2 Arbeitsfahrzeuge
-  - a) bis 600 kg — Fr. 34.–
-  - b) von 601 bis 3500 kg — Fr. 74.–
-  - c) von 3501 bis 7500 kg — Fr. 154.–
-  - d) ab 7501 kg — Fr. 254.–
+  - a) bis 600 kg — Fr. 36
+  - b) von 601 bis 3500 kg — Fr. 78
+  - c) von 3501 bis 7500 kg — Fr. 162
+  - d) ab 7501 kg — Fr. 267
 
 #### Art. A1-2
 
-<sup>1</sup> Die oben stehenden Beträge entsprechen dem Index der Konsumentenpreise beim Stand von 101,7 Punkten (Grundlage Dezember 2015 = 100 Punkte).
+<sup>1</sup> Die oben stehenden Beträge entsprechen dem Index der Konsumentenpreise beim Stand von 106,1 Punkten (Grundlage Dezember 2020 = 100 Punkte).
 
 2021\_021
