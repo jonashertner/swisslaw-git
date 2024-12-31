@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2023 sulla messa in commercio di concimi (Ord
 short: OCon
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: it
-version: 2024-08-13
+version: 2025-01-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240813/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240813-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/it"
 
 (Ordinanza sui concimi, OCon)
 
-del 1° novembre 2023 (Stato 13 agosto 2024)
+del 1° novembre 2023 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -120,7 +120,7 @@ Si intende per:
 
 **Obblighi del fabbricante**
 
-<sup>1</sup> Il fabbricante garantisce che le disposizioni della presente ordinanza relative all’omologazione, alla produzione, all’etichettatura, comprese quelle dell’articolo 1 capoverso 3, e ai dati da fornire nel registro dei prodotti siano adempiute.
+<sup>1</sup> Il fabbricante garantisce che le disposizioni della presente ordinanza relative all’omologazione, alla produzione, all’obbligo di comunicare le forniture di concimi e all’etichettatura, comprese le disposizioni di cui all’articolo 1 capoverso 3 e quelle relative ai dati da fornire nel registro dei prodotti siano adempiute.[^3-1]
 
 <sup>2</sup> Deve essere titolare dell’autorizzazione prima di mettere in commercio un concime soggetto ad autorizzazione.
 
@@ -128,17 +128,21 @@ Si intende per:
 
 <sup>4</sup> Fintanto che il concime è messo in commercio, conserva i documenti che sono serviti ai fini della valutazione e della classificazione e, se necessario, li mette a disposizione delle autorità.
 
+[^3-1]: Nuovo testo giusta l’all n. 2 dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+
 #### Art. 4
 
 **Obblighi dell’importatore**
 
-<sup>1</sup> L’importatore garantisce che le disposizioni della presente ordinanza relative all’omologazione, alla produzione, all’etichettatura, comprese quelle dell’articolo 1 capoverso 3, e ai dati da fornire nel registro dei prodotti siano adempiute.
+<sup>1</sup> L’importatore garantisce che le disposizioni della presente ordinanza relative all’omologazione, alla produzione, all’obbligo di comunicare le forniture di concimi e all’etichettatura, comprese le disposizioni di cui all’articolo 1 capoverso 3 e quelle relative ai dati da fornire nel registro dei prodotti siano adempiute.[^4-1]
 
 <sup>2</sup> Deve essere titolare dell’autorizzazione per poter importare un concime soggetto ad autorizzazione.
 
 <sup>3</sup> Garantisce la qualità, l’esattezza e la completezza dei dati forniti nel registro dei prodotti.
 
 <sup>4</sup> Fintanto che il concime è messo in commercio, conserva i documenti che sono serviti ai fini della valutazione e della classificazione e, se necessario, li mette a disposizione delle autorità.
+
+[^4-1]: Nuovo testo giusta l’all n. 2 dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 5
 
@@ -530,12 +534,15 @@ Se un richiedente intende mettere in commercio un concime già autorizzato sotto
 
 <sup>1</sup> Chi cede o trasferisce concimi contenenti azoto e fosforo ad aziende, gestori o ad altri acquirenti, deve comunicare ogni cessione o trasferimento con la relativa quantità e i quantitativi di sostanze nutritive in essa contenuti ai sensi dell’OSIAgr[^29-1].
 
-<sup>2</sup> Non devono essere comunicate le quantità fino al massimo 105 chilogrammi di azoto o 15 chilogrammi di fosforo per anno civile se il gestore non è tenuto a fornire la prova che le esigenze ecologiche sono rispettate in virtù dell’articolo 11 dell’ordinanza del 23 ottobre 2013[^29-2] sui pagamenti diretti.
+<sup>1bis</sup> Se i concimi sono importati direttamente, l’obbligo di comunicare ricade sull’importatore.[^29-2]
+
+<sup>2</sup> Non devono essere comunicate le quantità fino al massimo 105 chilogrammi di azoto o 15 chilogrammi di fosforo per anno civile se il gestore non è tenuto a fornire la prova che le esigenze ecologiche sono rispettate in virtù dell’articolo 11 dell’ordinanza del 23 ottobre 2013[^29-3] sui pagamenti diretti.
 
 <sup>3</sup> I detentori di impianti di compostaggio o di fermentazione che lavorano più di 100 tonnellate di materiale compostabile o fermentabile per anno civile e cedono concimi aziendali o concimi ottenuti dal riciclaggio ai sensi dei capoversi 1 e 2 devono registrare nel sistema d’informazione anche le materie prime per il compostaggio o la fermentazione.
 
 [^29-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^29-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^29-2]: Introdotto dall’all n. 2 dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^29-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 30
 
@@ -547,7 +554,7 @@ Se un richiedente intende mettere in commercio un concime già autorizzato sotto
 
 <sup>3</sup> I detentori di impianti devono far effettuare le necessarie analisi secondo la direttiva dell’UFAG[^30-1], onde determinare i tenori di sostanze nutritive e le proprietà di cui all’allegato 1 numero 2 PFC 100 e 101 nonché garantire che le esigenze di cui all’articolo 9 siano soddisfatte. Mettono immediatamente a disposizione dell’UFAG e delle autorità cantonali i risultati delle analisi.
 
-[^30-1]: La direttiva è disponibile sul sito Internet www.ufag.admin.ch &gt; Produzione sostenibile &gt; Concimi &gt; Omologazione dei concimi.
+[^30-1]: La direttiva è disponibile sul sito Internet www.blw.admin.ch/it/concimi.
 
 ## Capitolo 4: Etichettatura e pubblicità
 

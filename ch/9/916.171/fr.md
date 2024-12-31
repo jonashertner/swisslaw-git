@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2023 sur la mise en circulation de
 short: OEng
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: fr
-version: 2024-08-13
+version: 2025-01-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240813/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240813-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/fr"
 
 (Ordonnance sur les engrais, OEng)
 
-du 1<sup>er</sup> novembre 2023 (État le 13 août 2024)
+du 1<sup>er</sup> novembre 2023 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -120,7 +120,7 @@ On entend par:
 
 **Obligations du fabricant**
 
-<sup>1</sup> Le fabricant s’assure que les dispositions de la présente ordonnance relatives à l’homologation, à la production, à l’étiquetage, y compris les dispositions de l’art. 1, al. 3, et aux données à fournir dans le registre des produits sont respectées.
+<sup>1</sup> Le fabricant s’assure que les dispositions de la présente ordonnance relatives à l’homologation, à la production, à l’obligation de communiquer les livraisons d’engrais, à l’étiquetage, y compris les dispositions de l’art. 1, al. 3, et aux données à fournir dans le registre des produits sont respectées.[^3-1]
 
 <sup>2</sup> Il doit être titulaire de l’autorisation avant de mettre sur le marché un engrais soumis à autorisation.
 
@@ -128,17 +128,21 @@ On entend par:
 
 <sup>4</sup> Il conserve et tient si nécessaire à la disposition des autorités, aussi longtemps que l’engrais est mis sur le marché, les documents qui ont servi à son évaluation et à sa classification.
 
+[^3-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+
 #### Art. 4
 
 **Obligations de l’importateur**
 
-<sup>1</sup> L’importateur s’assure que les dispositions de la présente ordonnance relatives à l’homologation, à la production, à l’étiquetage, y compris les dispositions de l’art. 1, al. 3, et aux données à fournir dans le registre des produits sont respectées.
+<sup>1</sup> L’importateur s’assure que les dispositions de la présente ordonnance relatives à l’homologation, à la production, à l’obligation de communiquer les livraisons d’engrais, à l’étiquetage, y compris les dispositions de l’art. 1, al. 3, et aux données à fournir dans le registre des produits sont respectées.[^4-1]
 
 <sup>2</sup> Il doit être titulaire de l’autorisation pour pouvoir importer un engrais soumis à autorisation.
 
 <sup>3</sup> Il s’assure de la qualité, de l’exactitude et de l’exhaustivité des données fournies dans le registre des produits.
 
 <sup>4</sup> Il conserve et tient si nécessaire à la disposition des autorités, aussi longtemps que l’engrais est mis sur le marché, les documents qui ont servi à son évaluation et à sa classification.
+
+[^4-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 5
 
@@ -531,12 +535,15 @@ Lorsqu’un demandeur veut mettre en circulation un engrais déjà autorisé sou
 
 <sup>1</sup> Quiconque cède ou transfère des engrais contenant de l’azote et du phosphore à des entreprises, à des exploitants ou à d’autres acquéreurs est tenu de communiquer chaque cession ou transfert en indiquant la quantité d’engrais et les quantités d’éléments fertilisants contenus, conformément à l’OSIAgr[^29-1].
 
-<sup>2</sup> Les quantités ne dépassant pas 105 kg d’azote ou 15 kg de phosphore par année civile ne doivent pas être communiquées si l’exploitant n’est pas soumis à l’obligation de réaliser les prestations écologiques requises visées à l’art. 11 de l’ordonnance du 23 octobre 2013 sur les paiements directs[^29-2].
+<sup>1bis</sup> Si les engrais proviennent directement de l’étranger, c’est l’importateur qui est assujetti à l’obligation de communiquer.[^29-2]
+
+<sup>2</sup> Les quantités ne dépassant pas 105 kg d’azote ou 15 kg de phosphore par année civile ne doivent pas être communiquées si l’exploitant n’est pas soumis à l’obligation de réaliser les prestations écologiques requises visées à l’art. 11 de l’ordonnance du 23 octobre 2013 sur les paiements directs[^29-3].
 
 <sup>3</sup> Les détenteurs d’installations de compostage ou de méthanisation qui traitent plus de 100 t de matières compostables ou méthanisables par année civile, qui cèdent des engrais de ferme ou des engrais de recyclage au sens des al. 1 et 2 doivent également communiquer dans le système d’information les matières premières destinées à être compostées ou méthanisées.
 
 [^29-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^29-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^29-2]: Introduit par l’annexe ch. 2 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^29-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 30
 
@@ -548,7 +555,7 @@ Lorsqu’un demandeur veut mettre en circulation un engrais déjà autorisé sou
 
 <sup>3</sup> Les détenteurs d’installations doivent, conformément à la directive de l’OFAG[^30-1], faire effectuer les analyses nécessaires pour déterminer les teneurs en éléments fertilisants et les propriétés visés aux PFC 100 et 101, ch. 2, de l’annexe 1 et s’assurer que les exigences de l’art. 9 sont satisfaites. Ils mettent sans délai les résultats des analyses à la disposition de l’OFAG et des autorités cantonales.
 
-[^30-1]: La directive peut être consultée à l’adresse suivante sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Production durable &gt; Engrais &gt; Homologation des engrais.
+[^30-1]: La directive peut être consultée à l’adresse suivante sous [www.blw.admin.ch/fr/engrais](http://www.blw.admin.ch/fr/engrais).
 
 ## Chapitre 4 Étiquetage et publicité
 

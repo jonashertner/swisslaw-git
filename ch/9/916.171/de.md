@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2023 über das Inverkehrbringen von Düngern 
 short: DüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: de
-version: 2024-08-13
+version: 2025-01-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240813/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240813-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/de"
 
 (Düngerverordnung, DüV)
 
-vom 1. November 2023 (Stand am 13. August 2024)
+vom 1. November 2023 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -120,7 +120,7 @@ In dieser Verordnung bedeuten:
 
 **Pflichten des Herstellers**
 
-<sup>1</sup> Der Hersteller stellt sicher, dass die in dieser Verordnung festgelegten Vorschriften für die Zulassung, Produktion und Kennzeichnung, einschliesslich Artikel 1 Absatz 3, sowie für die im Produkteregister einzutragenden Daten eingehalten werden.
+<sup>1</sup> Der Hersteller stellt sicher, dass die in dieser Verordnung festgelegten Vorschriften zu Zulassung, Produktion, Mitteilungspflicht für Düngerlieferungen und Kennzeichnung, einschliesslich der Bestimmungen von Artikel 1 Absatz 3, und zu den im Produkteregister einzutragenden Daten eingehalten werden.[^3-1]
 
 <sup>2</sup> Um einen bewilligungspflichtigen Dünger in Verkehr bringen zu können, muss der Hersteller im Besitz der Bewilligung sein.
 
@@ -128,17 +128,21 @@ In dieser Verordnung bedeuten:
 
 <sup>4</sup> Solange ein Dünger in Verkehr gebracht wird, bewahrt der Hersteller die Dokumente auf, die zur Beurteilung und Einstufung des Düngers verwendet wurden, und hält diese bei Bedarf den Vollzugsbehörden zur Verfügung.
 
+[^3-1]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+
 #### Art. 4
 
 **Pflichten des Importeurs**
 
-<sup>1</sup> Der Importeur stellt sicher, dass die in dieser Verordnung festgelegten Vorschriften für die Zulassung, Produktion und Kennzeichnung, einschliesslich Artikel 1 Absatz 3, sowie für die im Produkteregister einzutragenden Daten eingehalten werden.
+<sup>1</sup> Der Importeur stellt sicher, dass die in dieser Verordnung festgelegten Vorschriften zu Zulassung, Produktion, Mitteilungspflicht für Düngerlieferungen und Kennzeichnung, einschliesslich der Bestimmungen von Artikel 1 Absatz 3, und zu den im Produkteregister einzutragenden Daten eingehalten werden.[^4-1]
 
 <sup>2</sup> Um einen bewilligungspflichtigen Dünger importieren zu können, muss der Importeur im Besitz der Bewilligung sein.
 
 <sup>3</sup> Er stellt die Qualität, die Richtigkeit und die Vollständigkeit der im Produkteregister eingetragenen Daten sicher.
 
 <sup>4</sup> Solange ein Dünger in Verkehr gebracht wird, bewahrt der Importeur die Dokumente auf, die zur Beurteilung und Einstufung des Düngers verwendet wurden, und stellt diese bei Bedarf den Vollzugsbehörden zur Verfügung.
+
+[^4-1]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 5
 
@@ -530,12 +534,15 @@ Möchte ein Gesuchsteller einen bereits bewilligten Dünger unter seinem eigenen
 
 <sup>1</sup> Wer stickstoff- und phosphorhaltige Dünger an Betriebe, Bewirtschafterinnen und Bewirtschafter oder andere Abnehmerinnen und Abnehmer ab- oder weitergibt, muss jede Ab- oder Weitergabe unter Angabe der Düngermenge und der darin enthaltenen Nährstoffmengen gemäss der ISLV[^29-1] mitteilen.
 
-<sup>2</sup> Nicht mitgeteilt werden müssen Mengen bis höchstens 105 kg Stickstoff und 15 kg Phosphor pro Kalenderjahr, sofern der Bewirtschafter oder die Bewirtschafterin den ökologischen Leistungsnachweis nach Artikel 11 der Direktzahlungsverordnung vom 23. Oktober 2013[^29-2] nicht erbringen muss.
+<sup>1bis</sup> Werden Dünger direkt eingeführt, so überträgt sich die Mitteilungspflicht auf den Importeur.[^29-2]
+
+<sup>2</sup> Nicht mitgeteilt werden müssen Mengen bis höchstens 105 kg Stickstoff und 15 kg Phosphor pro Kalenderjahr, sofern der Bewirtschafter oder die Bewirtschafterin den ökologischen Leistungsnachweis nach Artikel 11 der Direktzahlungsverordnung vom 23. Oktober 2013[^29-3] nicht erbringen muss.
 
 <sup>3</sup> Inhaber von Kompostierungs- oder Vergärungsanlagen, die pro Kalenderjahr mehr als 100 t kompostier- oder vergärbares Material verarbeiten und Hof- oder Recyclingdünger nach den Absätzen 1 und 2 abgeben, müssen auch die Ausgangsmaterialien für die Kompostierung oder die Vergärung im Informationssystem mitteilen.
 
 [^29-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^29-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^29-2]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^29-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 30
 
@@ -547,7 +554,7 @@ Möchte ein Gesuchsteller einen bereits bewilligten Dünger unter seinem eigenen
 
 <sup>3</sup> Die Inhaber von Anlagen müssen in Übereinstimmung mit der Weisung des BLW[^30-1] die notwendigen Analysen durchführen lassen, um die Nährstoffgehalte und die Eigenschaften nach Anhang 1 Ziffer 2 PFC 100 und 101 zu bestimmen und sicherzustellen, dass die Anforderungen nach Artikel 9 erfüllt sind. Sie stellen die Ergebnisse der Analysen unverzüglich dem BLW und den kantonalen Behörden zur Verfügung.
 
-[^30-1]: Die Weisung ist abrufbar unter: www.blw.admin.ch &gt; Nachhaltige Produktion &gt; Dünger &gt; Zulassung von Düngern.
+[^30-1]: Die Weisung ist abrufbar unter: [www.blw.admin.ch/de/duenger](http://www.blw.admin.ch/de/duenger).
 
 ## 4. Kapitel: Kennzeichnung und Anpreisungen
 
@@ -727,7 +734,7 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 5 geregelt.
 
 <sup>2</sup> Dünger, die vor dem 1. Januar 2024 angemeldet wurden, dürfen bis zum Ablauf der Gültigkeitsdauer der Anmeldung in Verkehr gebracht werden. Jede Änderung des Düngers oder von dessen Kennzeichnung bedingt eine Registrierung oder Bewilligung des Düngers nach den Bestimmungen dieser Verordnung.
 
-<sup>3</sup> Dünger, die vor dem 1. Januar 2024 bewilligt wurden, dürfen bis zum Ablauf der Gültigkeitsdauer der Bewilligung für das Inverkehrbringen in Verkehr gebracht werden. Jede Änderung des Düngers oder von dessen Kennzeichnung bedingt, dass ein neues Bewilligungsgesuch gemäss den Bestimmungen dieser Verordnung eingereicht wird
+<sup>3</sup> Dünger, die vor dem 1. Januar 2024 bewilligt wurden, dürfen bis zum Ablauf der Gültigkeitsdauer der Bewilligung für das Inverkehrbringen in Verkehr gebracht werden. Jede Änderung des Düngers oder von dessen Kennzeichnung bedingt, dass ein neues Bewilligungsgesuch gemäss den Bestimmungen dieser Verordnung eingereicht wird.
 
 <sup>4</sup>
 
