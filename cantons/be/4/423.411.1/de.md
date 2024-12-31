@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Kantonale Kulturförderungsverordnung
 short: KKFV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-22
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-13
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2957/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3099/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2957/pdf_file"
 
 (KKFV)
 
-vom 13.11.2013 (Stand 01.01.2024)
+vom 13.11.2013 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -739,7 +739,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - q Bären Buchsi (Standortgemeinde Münchenbuchsee),
 - r Heitere Fahne (Standortgemeinde Bern, Köniz),
 - s Berner Puppen Theater (Standortgemeinde Bern),
-- t Kulturfabrikbiglen (Standortgemeinde Biglen, Jaberg, Konolfingen, Landiswil, Muri bei Bern, Oberdiessbach, Oberthal).
+- t …
 
 #### Art. A1-5
 

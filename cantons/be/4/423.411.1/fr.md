@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Ordonnance sur l’encouragement des activités culturelles
 short: OEAC
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-22
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-13
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2957/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3099/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2957/pdf_file"
 
 (OEAC)
 
-du 13.11.2013 (état au 01.01.2024)
+du 13.11.2013 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -739,7 +739,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - q Bären Buchsi (commune-siège Münchenbuchsee),
 - r Heitere Fahne (commune-siège Berne, Köniz),
 - s Berner Puppen Theater (commune-siège Berne),
-- t Kulturfabrikbiglen (commune-siège Biglen, Jaberg, Konolfingen, Landiswil, Muri bei Bern, Oberdiessbach, Oberthal).
+- t …
 
 #### Art. A1-5
 
