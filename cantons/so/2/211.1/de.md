@@ -3,20 +3,19 @@ canton: SO
 number: "211.1"
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-06
+version: 2025-01-01
+version_adopted: 2024-06-25
 adopted: 1954-04-04
 in_force: 1955-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/211.1"
-pdf: "https://bgs.so.ch/api/de/versions/5424/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5487/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 
-Vom 04.04.1954 (Stand 01.01.2024)
+Vom 04.04.1954 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -1910,13 +1909,11 @@ beschliesst:
 
 <sup>1</sup> Bis zur Unterzeichnung des Inventars durch die Erben und den Amtschreiber kann der Amtschreiber auf Antrag der Erben anstelle der Schätzung des Gemeindepräsidenten eine neue Schätzung anordnen.
 
-<sup>2</sup> Grundstücke sind in jedem Falle durch die Bezirksschätzungskommission nach dem Gesetz über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe vom 24. September 1972[^192-1], die Wertschriften und Beweglichkeiten durch einen oder mehrere vom Amtschreiber bezeichnete Experten neu zu schätzen.
+<sup>2</sup> Grundstücke, Wertschriften und Beweglichkeiten sind durch einen oder mehrere vom Amtschreiber bezeichnete Experten neu zu schätzen.
 
 <sup>3</sup> Können sich die Erben über den Wert trotz neuer Schätzung nicht einigen, sind sie durch den Amtschreiber an den Richter zu weisen.
 
 <sup>4</sup> Vorbehalten bleibt die landwirtschaftliche Sondergesetzgebung.
-
-[^192-1]: BGS [618.111](https://bgs.so.ch/data/618.111/de).
 
 #### § 192bis
 
@@ -3357,21 +3354,21 @@ beschliesst:
 
 **A. Zuständigkeit I. Amtsgerichtspräsident**
 
-<sup>1</sup> Der Amtsgerichtspräsident ist im summarischen Verfahren zuständig:
+<sup>1</sup> Der Amtsgerichtspräsident ist zuständig:
 
 - a) zur Entziehung oder Beschränkung der Geschäftsführungs- oder Vertretungsbefugnis (Art. 565, 603, 767 Abs. 1 und 815 Abs. 2 OR);
-- b) zum Entscheid bei Widerspruch eines Gesellschafters gegen einen von den Liquidatoren beschlossenen Verkauf von Grundstücken zu einem Gesamtübernahmepreis, gegen die Ablehnung eines solchen oder gegen die beschlossene Art der Veräusserung (Art. 585 Abs. 3 und 619 OR);
-- c) zum Erlass der Verfügung über Auskunft und Einsicht an Gesellschafter, Aktionäre, Gläubiger und Genossenschafter (Art. 697 Abs. 4, 697h Abs. 2, 802 Abs. 4 und 857 Abs. 3 OR);
+- b) …
+- c) …
 - c<sup>bis</sup>) …
-- d) zur Einberufung der Generalversammlung bei der Aktiengesellschaft und der Genossenschaft und der Gesellschaftsversammlung bei der Gesellschaft mit beschränkter Haftung im Falle der Weigerung oder Säumnis der Verwaltung (Art. 699 Abs. 4, 805 Abs. 5 und 881 Abs. 3 OR);
-- e) zur Ernennung und Abberufung eines Organs einer Gesellschaft (Art. 731b Abs. 1-3, 890 Abs. 2 und 941a Abs. 1 und 3 OR);
-- f) zur Ernennung des Sachverständigen im Falle des Artikels 600 Absatz 3 OR);
-- g) zur Bestimmung eines Vertreters für die Aktiengesellschaft, die Gesellschaft mit beschränkter Haftung oder die Genossenschaft im Falle der Anfechtung von Beschlüssen der Generalversammlung durch die Verwaltung (Art. 706 Abs. 2, 808c und 891 Abs. 1 OR);
-- h) zum Erlass der erforderlichen Verfügungen im Falle eines privatrechtlichen Einspruches gegen eine vollzogene oder noch nicht vollzogene Eintragung im Handelsregister (Art. 162 Abs. 5 der Handelsregisterverordnung);
-- i) zu vorsorglichen Massnahmen bei Klage auf Auflösung einer Kollektivgesellschaft (Art. 574 Abs. 3 OR);
-- j) zur Bestellung und Abberufung der Liquidatoren bei den Handelsgesellschaften und bei der Genossenschaft (Art. 583 Abs. 2, 619 Abs. 1, 740 Abs. 4, 741 Abs. 2 und 913 Abs. 1 OR);
-- k) zur Anordnung der Wiedereintragung einer gelöschten Rechtseinheit ins Handelsregister (Art. 164 Abs. 1 der Handelsregisterverordnung);
-- l) zum Entscheid über die Aufrechterhaltung der Eintragung einer Gesellschaft im Handelsregister (Art. 938a Abs. 2 OR und Art. 155 Abs. 4 der Handelsregisterverordnung);
+- d) …
+- e) …
+- f) …
+- g) …
+- h) …
+- i) …
+- j) …
+- k) …
+- l) …
 - m) zur Bestimmung des wirklichen Werts von Stammanteilen (Art. 789 OR).
 
 #### § 356
