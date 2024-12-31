@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 1959 sur l'assurance-invalidité (LAI)"
 short: LAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20240101-fr-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20250101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20240101/fr"
 
 (LAI)[^t-1]
 
-du 19 juin 1959 (État le 1<sup>er</sup> janvier 2024)
+du 19 juin 1959 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Abréviation introduite par le ch. II 1 de la LF du 24 juin 1977 (9<sup>e</sup> révision de l’AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -93,15 +93,15 @@ Sont soumis à l’obligation de payer des cotisations les assurés et les emplo
 
 <sup>1</sup> La LAVS[^3-2] s’applique par analogie à la fixation des cotisations de l’assurance-invalidité. Une cotisation de 1,4 % est perçue sur le revenu d’une activité lucrative. Les cotisations des personnes assurées obligatoirement, qui sont calculées selon le barème dégressif, sont échelonnées de la même manière que les cotisations dues à l’assurance-vieillesse et survivants. En l’occurrence, il y a lieu de maintenir le rapport entre le taux en pour-cent mentionné ci-dessus et le taux de cotisation non réduit fixé à l’art. 8, al. 1, de la LAVS. Son art. 9<sup>bis</sup> est applicable par analogie.[^3-3]
 
-<sup>1bis</sup> Les personnes n’exerçant aucune activité lucrative paient une cotisation en fonction de leur condition sociale. La cotisation minimale s’élève à 68 francs[^3-4] par an pour l’assurance obligatoire et à 136 francs[^3-5] pour l’assurance facultative au sens de l’art. 2 LAVS. La cotisation maximale correspond à 50 fois la cotisation minimale de l’assurance obligatoire.[^3-6]
+<sup>1bis</sup> Les personnes n’exerçant aucune activité lucrative paient une cotisation en fonction de leur condition sociale. La cotisation minimale s’élève à 70 francs[^3-4] par an pour l’assurance obligatoire et à 140 francs[^3-5] pour l’assurance facultative au sens de l’art. 2 LAVS. La cotisation maximale correspond à 50 fois la cotisation minimale de l’assurance obligatoire.[^3-6]
 
 <sup>2</sup> Les cotisations sont perçues sous la forme d’un supplément aux cotisations de l’AVS. Les art. 11 et 14 à 16 LAVS, y compris les dérogations à la LPGA[^3-7], sont applicables par analogie.[^3-8]
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1967, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [FF 1967 I 677](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
 [^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4601](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^3-4]: Montant adapté selon l’art. 6 de l’O 23 du 12 oct. 2022 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^3-5]: Montant adapté selon l’art. 6 de l’O 23 du 12 oct. 2022 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^3-4]: Montant adapté selon l’art. 6 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^3-5]: Montant adapté selon l’art. 6 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^3-6]: Introduit par l’annexe ch. 1 de la LF du 23 juin 2000 ([RO 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4601](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^3-7]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^3-8]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -115,9 +115,9 @@ Sont soumis à l’obligation de payer des cotisations les assurés et les emplo
 
 ### A. Conseils axés sur la réadaptation
 
-[^part1-chap3-1]
+[^part1-chap2a-lvlA-1]
 
-[^part1-chap3-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^part1-chap2a-lvlA-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 3a
 
@@ -130,9 +130,9 @@ Lorsque la réadaptation professionnelle d’un assuré ou le maintien d’un as
 
 ### B. Détection précoce
 
-[^part1-chap3-lvlA-1]
+[^part1-chap2a-lvlB-1]
 
-[^part1-chap3-lvlA-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^part1-chap2a-lvlB-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 3a<sup>bis</sup>
 
@@ -344,9 +344,9 @@ L’employeur collabore activement avec l’office AI. Il contribue à la mise e
 
 ### B. Mesures d’intervention précoce
 
-[^part1-chap4-lvlB-1]
+[^part1-chap3-lvlB-1]
 
-[^part1-chap4-lvlB-1]: Introduit par le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^part1-chap3-lvlB-1]: Introduit par le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
 #### Art. 7d
 
@@ -380,9 +380,9 @@ Les offices AI peuvent ordonner les mesures suivantes:
 
 ### C. Mesures de réadaptation et indemnités journalières
 
-[^part1-chap4-lvlC-1]
+[^part1-chap3-lvlC-1]
 
-[^part1-chap4-lvlC-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^part1-chap3-lvlC-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
 ### I. Droit aux prestations
 
@@ -671,9 +671,9 @@ Il peut régler le remboursement des médicaments:
 
 ### II<sup>bis</sup>. Conseils et suivi
 
-[^part1-chap4-lvlC-lvlIIbis-1]
+[^part1-chap3-lvlC-lvlIIbis-1]
 
-[^part1-chap4-lvlC-lvlIIbis-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^part1-chap3-lvlC-lvlIIbis-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 14<sup>quater</sup>
 
@@ -694,9 +694,9 @@ L’assuré ainsi que son employeur ont droit à des conseils et à un suivi:
 
 ### II<sup>ter</sup>. Mesures de réinsertion préparant à la réadaptation professionnelle
 
-[^part1-chap4-lvlC-lvlIIter-1]
+[^part1-chap3-lvlC-lvlIIter-1]
 
-[^part1-chap4-lvlC-lvlIIter-1]: Anciennement ch. II<sup>bis</sup>. Introduit par le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^part1-chap3-lvlC-lvlIIter-1]: Anciennement ch. II<sup>bis</sup>. Introduit par le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
 #### Art. 14a
 
@@ -873,10 +873,6 @@ Une aide en capital peut être allouée à l’assuré invalide susceptible d’
 [^18d-1]: Anciennement art. 18*b*. Introduit par le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
 ### IV. …
-
-[^part1-chap4-lvlC-lvlIV-1]
-
-[^part1-chap4-lvlC-lvlIV-1]: Abrogé par le ch. II 25 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 19
 
@@ -1145,9 +1141,9 @@ Sont payées sur les indemnités journalières les cotisations:
 
 ### VII. Libre choix de l’assuré, collaboration, tarifs et tribunaux arbitraux
 
-[^part1-chap4-lvlC-lvlVII-1]
+[^part1-chap3-lvlC-lvlVII-1]
 
-[^part1-chap4-lvlC-lvlVII-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003 (4<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 3045](https://fedlex.data.admin.ch/eli/fga/2001/617)).
+[^part1-chap3-lvlC-lvlVII-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003 (4<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 3045](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
 #### Art. 26
 
@@ -1297,15 +1293,15 @@ En cas de manquement à l’obligation de communiquer les informations prévue �
 
 ### D. Rentes
 
-[^part1-chap4-lvlD-1]
+[^part1-chap3-lvlD-1]
 
-[^part1-chap4-lvlD-1]: Anciennement let. C.
+[^part1-chap3-lvlD-1]: Anciennement let. C.
 
 ### I. Droit à la rente
 
-[^part1-chap4-lvlD-lvlI-1]
+[^part1-chap3-lvlD-lvlI-1]
 
-[^part1-chap4-lvlD-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^part1-chap3-lvlD-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
 #### Art. 28
 
@@ -1579,9 +1575,9 @@ Le premier jour du mois qui suit la décision de l’office AI concernant le tau
 
 ### E. Allocation pour impotent
 
-[^part1-chap4-lvlE-1]
+[^part1-chap3-lvlE-1]
 
-[^part1-chap4-lvlE-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^part1-chap3-lvlE-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
 #### Art. 42
 
@@ -1611,7 +1607,7 @@ Le droit à l’allocation pour impotent s’éteint au plus tard à la fin du m
 [^42-3]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^42-4]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^42-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^42-6]: Intrdouit par l’annexe ch. 2 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^42-6]: Introduit par l’annexe ch. 2 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^42-7]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (6<sup>e</sup> révision AI, 1<sup>er</sup> volet), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 42<sup>bis</sup>
@@ -1649,9 +1645,9 @@ Le droit à l’allocation pour impotent s’éteint au plus tard à la fin du m
 
 ### E<sup>bis</sup>. Contribution d’assistance
 
-[^part1-chap4-lvlEbis-1]
+[^part1-chap3-lvlEbis-1]
 
-[^part1-chap4-lvlEbis-1]: Introduit par le ch. I de la LF du 18 mars 2011 (6<sup>e</sup> révision AI, 1<sup>er</sup> volet), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
+[^part1-chap3-lvlEbis-1]: Introduit par le ch. I de la LF du 18 mars 2011 (6<sup>e</sup> révision AI, 1<sup>er</sup> volet), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 
 #### Art. 42<sup>quater</sup>
 
@@ -1735,9 +1731,9 @@ L’assurance peut réduire la contribution d’assistance ou refuser de l’oct
 
 ### F. Cumul de prestations
 
-[^part1-chap4-lvlF-1]
+[^part1-chap3-lvlF-1]
 
-[^part1-chap4-lvlF-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^part1-chap3-lvlF-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
 #### Art. 43
 
@@ -1777,9 +1773,9 @@ Le Conseil fédéral détermine si, et dans quelle mesure, les assurés qui ont 
 
 ### G. Dispositions diverses
 
-[^part1-chap4-lvlG-1]
+[^part1-chap3-lvlG-1]
 
-[^part1-chap4-lvlG-1]: Anciennement let. F.
+[^part1-chap3-lvlG-1]: Anciennement let. F.
 
 #### Art. 46
 
@@ -1844,7 +1840,7 @@ Les prestations arriérées sont allouées à l’assuré pour des périodes plu
 
 L’office AI décide de mettre en œuvre ou non des mesures de réadaptation (art. 28, al. 1, let. a), douze mois au plus tard après que l’assuré a fait valoir son droit aux prestations selon l’art. 29, al. 1, LPGA[^49-2].
 
-[^49-1]: Abrogé par l’annexe ch. 8 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168). Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^49-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^49-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 50
@@ -1901,9 +1897,9 @@ Le Conseil fédéral peut déléguer à l’OFAS des tâches d’exécution dans
 
 ### A. Les offices AI
 
-[^part1-chap5-lvlA-1]
+[^part1-chap4-lvlA-1]
 
-[^part1-chap5-lvlA-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 1991 (3<sup>e</sup> révision de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^part1-chap4-lvlA-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 1991 (3<sup>e</sup> révision de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 54
 
@@ -2069,9 +2065,9 @@ La tenue des comptes des offices AI est, dans le cadre de la révision des caiss
 
 ### B. Les caisses de compensation
 
-[^part1-chap5-lvlB-1]
+[^part1-chap4-lvlB-1]
 
-[^part1-chap5-lvlB-1]: Anciennement avant l’art. 55. Nouvelle teneur selon le ch. I de la LF du 22 mars 1991 (3<sup>e</sup> révision de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^part1-chap4-lvlB-1]: Anciennement avant l’art. 55. Nouvelle teneur selon le ch. I de la LF du 22 mars 1991 (3<sup>e</sup> révision de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 60
 
@@ -2112,9 +2108,9 @@ Le Conseil fédéral règle la collaboration entre les offices AI et les organes
 
 ### C. La surveillance de la Confédération
 
-[^part1-chap5-lvlC-1]
+[^part1-chap4-lvlC-1]
 
-[^part1-chap5-lvlC-1]: Anciennement let. D.
+[^part1-chap4-lvlC-1]: Anciennement let. D.
 
 #### Art. 64
 
@@ -2157,9 +2153,9 @@ La Commission fédérale de l’assurance-vieillesse, survivants et invalidité 
 
 ### D. Dispositions diverses
 
-[^part1-chap5-lvlD-1]
+[^part1-chap4-lvlD-1]
 
-[^part1-chap5-lvlD-1]: Anciennement let. E.
+[^part1-chap4-lvlD-1]: Anciennement let. E.
 
 #### Art. 66
 
@@ -2437,7 +2433,9 @@ L’office AI compétent se prononce par voie de décision:
 
 **Particularités du contentieux**[^69-1]
 
-<sup>1</sup> En dérogation aux art. 52 et 58 LPGA[^69-2],
+<sup>1</sup>
+
+En dérogation aux art. 52 et 58 LPGA[^69-2]:
 
 - a. les décisions des offices AI cantonaux peuvent directement faire l’objet d’un recours devant le tribunal des assurances du domicile de l’office concerné;
 - b.[^69-3] les décisions de l’office AI pour les assurés résidant à l’étranger peuvent directement faire l’objet d’un recours devant le Tribunal administratif fédéral.[^69-4]
@@ -2552,7 +2550,7 @@ Les prestations prévues par la présente loi sont couvertes par:
 
 - a. les cotisations des assurés et des employeurs, conformément aux art. 2 et 3;
 - b.[^77-2] les contributions de la Confédération;
-- [tab] b<sup>bis</sup>.[^77-3] les recettes qui résultent du relèvement, effectué pour l’assurance, des taux de la taxe sur la valeur ajoutée;
+- b<sup>bis</sup>.[^77-3] les recettes qui résultent du relèvement, effectué pour l’assurance, des taux de la taxe sur la valeur ajoutée;
 - c.[^77-4] les rendements de la fortune du Fonds de compensation de l’assurance-invalidité, conformément à l’art. 79;
 - d.[^77-5] les recettes provenant des actions récursoires contre le tiers responsable.
 
@@ -2663,7 +2661,7 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 
 <sup>3</sup> Le Conseil fédéral adapte les renvois aux actes de l’Union européenne visés aux al. 1 et 2 chaque fois qu’une modification de l’annexe II de l’accord sur la libre circulation des personnes et de l’appendice 2 de l’annexe K de la convention AELE est adoptée.
 
-<sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Commu-nauté européenne» figurant dans la présente loi désignent les États auxquels s’applique l’accord sur la libre circulation des personnes.
+<sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurant dans la présente loi désignent les États auxquels s’applique l’accord sur la libre circulation des personnes.
 
 [^80a-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
 [^80a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)

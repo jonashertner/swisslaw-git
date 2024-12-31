@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung (IVG)
 short: IVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20240101-de-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20240101/de"
 
 (IVG)[^t-1]
 
-vom 19. Juni 1959 (Stand am 1. Januar 2024)
+vom 19. Juni 1959 (Stand am 1. Januar 2025)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. II 1 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -96,15 +96,15 @@ Beitragspflichtig sind die in den Artikeln 3 und 12 AHVG[^2-2] genannten Versich
 
 <sup>1</sup> Für die Beitragsbemessung gilt sinngemäss das AHVG[^3-2]. Die Beiträge vom Einkommen aus einer Erwerbstätigkeit betragen 1,4 Prozent. Die Beiträge der obligatorisch versicherten Personen, die in Anwendung der sinkenden Beitragsskala berechnet werden, werden in gleicher Weise abgestuft wie die Beiträge der Alters- und Hinterlassenenversicherung. Dabei wird das Verhältnis gewahrt zwischen dem vorstehend erwähnten Prozentsatz und dem unverminderten Beitragssatz nach Artikel 8 Absatz 1 AHVG. Dessen Artikel 9<sup>bis</sup> gilt sinngemäss.[^3-3]
 
-<sup>1bis</sup> Die Nichterwerbstätigen entrichten einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt pro Jahr 68 Franken[^3-4], wenn sie obligatorisch, und 136 Franken[^3-5], wenn sie freiwillig nach Artikel 2 AHVG versichert sind. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag der obligatorischen Versicherung.[^3-6]
+<sup>1bis</sup> Die Nichterwerbstätigen entrichten einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt pro Jahr 70 Franken[^3-4], wenn sie obligatorisch, und 140 Franken[^3-5], wenn sie freiwillig nach Artikel 2 AHVG versichert sind. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag der obligatorischen Versicherung.[^3-6]
 
 <sup>2</sup> Die Beiträge werden als Zuschläge zu den Beiträgen der Alters- und Hinterlassenenversicherung erhoben. Die Artikel 11 und 14–16 AHVG[^3-7] sind sinngemäss anwendbar mit ihren jeweiligen Abweichungen vom ATSG[^3-8].[^3-9]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
 [^3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^3-4]: Beitrag gemäss Art. 6 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^3-5]: Beitrag gemäss Art. 6 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^3-4]: Beitrag gemäss Art. 6 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^3-5]: Beitrag gemäss Art. 6 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^3-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 23. Juni 2000 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Fassung gemäss Anhang Ziff. 2 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^3-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-8]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -878,10 +878,6 @@ Eingliederungsfähigen invaliden Versicherten kann eine Kapitalhilfe zur Aufnahm
 [^18d-1]: Ursprünglich: Art. 18*b*. Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
 ### IV. …
-
-[^part1-chap3-lvlC-lvlIV-1]
-
-[^part1-chap3-lvlC-lvlIV-1]: Aufgehoben durch Ziff. II 25 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 19
 
@@ -1891,7 +1887,7 @@ Der Entscheid über die Durchführung von Eingliederungsmassnahmen (Art. 28 Abs.
 Der Bundesrat kann dem BSV Aufgaben der Durchführung übertragen in den Bereichen:
 
 - a.[^53-3] Abgabe von Hilfsmitteln nach Artikel 21<sup>quater</sup>;
-- [tab] a<sup>bis</sup>.[^53-4] …
+- a<sup>bis</sup>.[^53-4] …
 - b. wissenschaftliche Auswertungen nach Artikel 68;
 - c. gesamtschweizerische Information über die Versicherungsleistungen nach Artikel 68<sup>ter</sup>;
 - d. Pilotversuche nach Artikel 68<sup>quater</sup>; und

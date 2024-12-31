@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 1959 sull’assicurazione per l’invalidit�
 short: LAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20240101-it-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20240101/it"
 
 (LAI)[^t-1]
 
-del 19 giugno 1959 (Stato 1° gennaio 2024)
+del 19 giugno 1959 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
@@ -95,15 +95,15 @@ Sono tenuti a pagare i contributi gli assicurati e i datori di lavoro indicati n
 
 <sup>1</sup> La LAVS[^3-2] è applicabile, per analogia, al calcolo dei contributi dell’assicurazione per l’invalidità. Il contributo sul reddito di un’attività lucrativa è dell’1,4 per cento. I contributi delle persone assicurate obbligatoriamente, calcolati secondo la tavola scalare, sono graduati nello stesso modo dei contributi dell’assicurazione vecchiaia e superstiti. In tale ambito, è mantenuto il rapporto tra la percentuale summenzionata e il tasso non ridotto di contribuzione secondo l’articolo 8 capoverso 1 della LAVS. L’articolo 9<sup>bis</sup> della LAVS è applicabile per analogia.[^3-3]
 
-<sup>1bis</sup> Le persone senza attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 68 franchi[^3-4] all’anno se sono assicurate obbligatoriamente e di 136 franchi[^3-5] all’anno se sono assicurate facoltativamente in virtù dell’articolo 2 LAVS. Il contributo massimo corrisponde a 50 volte il contributo minimo dell’assicurazione obbligatoria.[^3-6]
+<sup>1bis</sup> Le persone senza attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 70 franchi[^3-4] all’anno se sono assicurate obbligatoriamente e di 140 franchi[^3-5] all’anno se sono assicurate facoltativamente in virtù dell’articolo 2 LAVS. Il contributo massimo corrisponde a 50 volte il contributo minimo dell’assicurazione obbligatoria.[^3-6]
 
 <sup>2</sup> I contributi sono riscossi come supplemento ai contributi dell’AVS. Gli articoli 11 e 14–16 LAVS[^3-7] sono applicabili per analogia con le rispettive deroghe alla LPGA[^3-8].[^3-9]
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 1° gen. 1968 ([RU 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29)42; [FF 1967 I 513](https://fedlex.data.admin.ch/eli/fga/1967/1_864_894_513)).
 [^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-3]: Nuovo testo giusta l’all. n. 1 della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^3-4]: Importo giusta l’art. 6 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^3-5]: Importo giusta l’art. 6 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^3-4]: Importo giusta l’art. 6 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^3-5]: Importo giusta l’art. 6 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^3-6]: Introdotto dall’all. n. 1 della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta l’all. n. 2 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^3-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-8]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -189,7 +189,7 @@ Sono legittimati a effettuare tale comunicazione:
 
 <sup>3</sup> Le persone o istituzioni ai sensi del capoverso 2 lettere b–m devono previamente informare l’assicurato o il suo rappresentante legale in merito alla comunicazione.[^3b-8]
 
-<sup>4</sup> ...[^3b-9]
+<sup>4</sup> …[^3b-9]
 
 [^3b-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^3b-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
@@ -424,11 +424,11 @@ I provvedimenti d’integrazione sono:
 - a<sup>bis</sup>.[^8-8] la consulenza e l’accompagnamento;
 - a<sup>ter</sup>.[^8-9] i provvedimenti di reinserimento per preparare all’integrazione professionale;
 - b.[^8-10] i provvedimenti professionali;
-- c. [^8-11] ...
+- c. [^8-11] …
 - d. la consegna[^8-12] di mezzi ausiliari;
-- e. [^8-13] ...
+- e. [^8-13] …
 
-<sup>4</sup> ...[^8-14]
+<sup>4</sup> …[^8-14]
 
 [^8-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 1° gen. 1968 ([RU 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [FF 1967 I 513](https://fedlex.data.admin.ch/eli/fga/1967/1_864_894_513)).
 [^8-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -460,7 +460,7 @@ I beneficiari di una rendita hanno diritto a provvedimenti di reintegrazione pur
 
 <sup>3</sup> I provvedimenti di reinserimento possono essere assegnati più volte e avere una durata complessiva superiore a un anno.
 
-<sup>4</sup> ... [^8a-4]
+<sup>4</sup> … [^8a-4]
 
 <sup>5</sup> Il Consiglio federale può stabilire gli importi massimi a disposizione degli uffici AI per i provvedimenti di cui al capoverso 2.[^8a-5]
 
@@ -724,7 +724,7 @@ Sono considerati provvedimenti di reinserimento i seguenti provvedimenti mirati 
 
 <sup>3</sup> I provvedimenti di reinserimento possono essere assegnati più volte. Il singolo provvedimento non può durare più di un anno; in casi eccezionali questa durata può essere prolungata di un anno al massimo.[^14a-4]
 
-<sup>4</sup> *...*[^14a-5]
+<sup>4</sup> *…*[^14a-5]
 
 <sup>5</sup> I provvedimenti da attuare nell’azienda sono presi e realizzati in stretta collaborazione con il datore di lavoro. L’assicurazione può versare un contributo al datore di lavoro. Il Consiglio federale stabilisce il suo importo, nonché la durata e le condizioni del suo versamento.[^14a-6]
 
@@ -785,7 +785,7 @@ Sono parificati alla prima formazione professionale:
 
 <sup>2</sup> L’ufficio AI decide l’attuazione immediata di questi provvedimenti non appena risulti da un esame sommario che le condizioni necessarie sono adempiute.
 
-<sup>3</sup> e <sup>4</sup> ...[^18-4]
+<sup>3</sup> e <sup>4</sup> …[^18-4]
 
 [^18-1]: Nuovo testo giusta il n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^18-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -878,11 +878,7 @@ Un aiuto in capitale può essere accordato agli assicurati invalidi idonei all�
 
 [^18d-1]: Originario art. 18*b*. Introdotto dal n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
-### IV. ...
-
-[^part1-chap3-lvlC-lvlIV-1]
-
-[^part1-chap3-lvlC-lvlIV-1]: Abrogato dal n. II 25 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+### IV. …
 
 #### Art. 19
 
@@ -1030,9 +1026,9 @@ Il Consiglio federale stabilisce a quali condizioni sono versate le indennità g
 
 <sup>1bis</sup> Nel caso dei provvedimenti di reintegrazione di cui all’articolo 8*a*, l’indennità di base ammonta all’80 per cento del reddito lavorativo conseguito dall’assicurato immediatamente prima dell’inizio del provvedimento; tuttavia non deve superare l’80 per cento dell’importo massimo dell’indennità giornaliera.[^23-3]
 
-<sup>2</sup> ...[^23-4]
+<sup>2</sup> …[^23-4]
 
-<sup>2bis</sup> ...[^23-5]
+<sup>2bis</sup> …[^23-5]
 
 <sup>3</sup> Per il calcolo del reddito lavorativo di cui ai capoversi 1 e 1<sup>bis</sup> è determinante il reddito medio sul quale sono riscossi i contributi secondo la LAVS[^23-6] (reddito determinante).[^23-7]
 
@@ -1066,7 +1062,7 @@ La prestazione per i figli ammonta per ogni figlio al 2 per cento dell’importo
 
 <sup>2</sup> L’indennità giornaliera di cui all’articolo 22 capoverso 1 è ridotta se supera il reddito lavorativo determinante, inclusi gli assegni legali per i figli e per la formazione.[^24-4]
 
-<sup>3</sup> ...[^24-5]
+<sup>3</sup> …[^24-5]
 
 <sup>4</sup> Se fino al momento dell’integrazione l’assicurato aveva diritto a un’indennità giornaliera secondo la LAINF, l’indennità giornaliera corrisponde almeno a quella versata fino allora dall’assicurazione contro gli infortuni.
 
@@ -1161,11 +1157,11 @@ Sulle indennità giornaliere sono pagati contributi:
 
 <sup>1</sup> L’assicurato ha libera scelta tra i medici, chiropratici, dentisti e farmacisti che sono autorizzati a esercitare la loro professione sotto la propria responsabilità professionale conformemente alla legge del 23 giugno 2006[^26-2] sulle professioni mediche o che esercitano la loro professione nel settore pubblico sotto la propria responsabilità professionale.[^26-3]
 
-<sup>2</sup> ...[^26-4]
+<sup>2</sup> …[^26-4]
 
 <sup>3</sup> I medici con diploma federale, autorizzati da un Cantone a gestire una farmacia privata, sono parificati, nei limiti di questa autorizzazione, ai farmacisti designati nel capoverso 1.
 
-<sup>4</sup> ...[^26-5]
+<sup>4</sup> …[^26-5]
 
 [^26-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 1° gen. 1968 ([RU 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [FF 1967 I 513](https://fedlex.data.admin.ch/eli/fga/1967/1_864_894_513)).
 [^26-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
@@ -1327,7 +1323,7 @@ L’assicurato ha diritto a una rendita se:
 
 <sup>1bis</sup> La rendita secondo il capoverso 1 non è concessa fintantoché non sono esaurite le possibilità d’integrazione secondo l’articolo 8 capoversi 1<sup>bis</sup> e 1<sup>ter</sup>.[^28-3]
 
-<sup>2</sup> ...[^28-4]
+<sup>2</sup> …[^28-4]
 
 [^28-1]: Nuovo testo giusta il n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^28-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -1467,7 +1463,7 @@ Il primo giorno del mese successivo a quello in cui l’ufficio AI pronuncia la 
 
 <sup>1</sup> Le persone legittimate alla rendita d’invalidità hanno diritto a una rendita completiva per ogni figlio che, qualora esse fossero morte, avrebbe diritto a una rendita per orfani dell’assicurazione per la vecchiaia e i superstiti.
 
-<sup>2</sup> ...[^35-2]
+<sup>2</sup> …[^35-2]
 
 <sup>3</sup> I figli elettivi affiliati soltanto dopo l’insorgere dell’invalidità non danno diritto alla rendita completiva salvo qualora si tratti di figli dell’altro coniuge.[^35-3]
 
@@ -1489,7 +1485,7 @@ Il primo giorno del mese successivo a quello in cui l’ufficio AI pronuncia la 
 
 <sup>2</sup> Le disposizioni della LAVS[^36-2] si applicano per analogia al calcolo delle rendite ordinarie. Il Consiglio federale può emanare prescrizioni completive.[^36-3]
 
-<sup>3</sup> ...[^36-4]
+<sup>3</sup> …[^36-4]
 
 <sup>4</sup> Le quote pagate all’AVS prima dell’entrata in vigore della presente legge sono computate.
 
@@ -1535,7 +1531,7 @@ Il primo giorno del mese successivo a quello in cui l’ufficio AI pronuncia la 
 
 <sup>2</sup> Il Consiglio federale stabilisce tuttavia un importo minimo.[^38bis-4]
 
-<sup>3</sup> ...[^38bis-5]
+<sup>3</sup> …[^38bis-5]
 
 [^38bis-1]: Introdotto dal n. II della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 [^38bis-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -1551,7 +1547,7 @@ Il primo giorno del mese successivo a quello in cui l’ufficio AI pronuncia la 
 
 <sup>1</sup> Il diritto dei cittadini svizzeri alle rendite straordinarie è disciplinato dalla LAVS[^39-1].[^39-2]
 
-<sup>2</sup> ...[^39-3]
+<sup>2</sup> …[^39-3]
 
 <sup>3</sup> Anche gli stranieri e gli apolidi invalidi, che da bambini hanno adempiuto le condizioni stabilite nell’articolo 9 capoverso 3, hanno diritto a una rendita straordinaria.[^39-4]
 
@@ -1576,7 +1572,7 @@ Il primo giorno del mese successivo a quello in cui l’ufficio AI pronuncia la 
 [^40-4]: Nuovo testo giusta l’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^40-5]: Nuovo testo giusta l’all. n. 3 della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
-### IV. ...
+### IV. …
 
 #### Art. 41
 
@@ -1727,7 +1723,7 @@ Il Consiglio federale stabilisce:
 Il diritto si estingue nel momento in cui l’assicurato:
 
 - a. non adempie più le condizioni di cui all’articolo 42<sup>quater</sup>;
-- [tab] b.[^42septies-2] anticipa la riscossione della totalità della rendita di vecchiaia in virtù dell’articolo 40 capoverso 1 LAVS[^42septies-3] o raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS; o
+- b.[^42septies-2] anticipa la riscossione della totalità della rendita di vecchiaia in virtù dell’articolo 40 capoverso 1 LAVS[^42septies-3] o raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS; o
 - c. decede.
 
 [^42septies-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -1894,7 +1890,7 @@ La decisione in merito all’esecuzione dei provvedimenti d’integrazione (art.
 Il Consiglio federale può delegare all’UFAS compiti d’esecuzione nei settori:
 
 - a.[^53-3] della consegna di mezzi ausiliari secondo l’articolo 21<sup>quater</sup>;
-- [tab] a<sup>bis</sup>.[^53-4] ...
+- a<sup>bis</sup>.[^53-4] …
 - b. delle analisi scientifiche secondo l’articolo 68;
 - c. dell’informazione nazionale sulle prestazioni dell’assicurazione secondo l’articolo 68<sup>ter</sup>;
 - d. dei progetti pilota secondo l’articolo 68<sup>quater</sup>;
@@ -2034,9 +2030,9 @@ Il Consiglio federale può ordinare che, in deroga all’articolo 49 capoverso 1
 
 <sup>1</sup> Gli uffici AI si organizzano in modo da garantire che i compiti elencati nell’articolo 57 siano eseguiti con professionalità ed efficienza nel rispetto delle prescrizioni legali e delle istruzioni della Confederazione.[^59-3]
 
-<sup>2</sup> ...[^59-4]
+<sup>2</sup> …[^59-4]
 
-<sup>2bis</sup> ...[^59-5]
+<sup>2bis</sup> …[^59-5]
 
 <sup>3</sup> Gli uffici AI possono far capo a specialisti dell’aiuto privato agli invalidi, ad esperti, a centri d’osservazione medica e professionale, a servizi specializzati nell’integrazione degli stranieri, a servizi d’interpretariato interculturale, nonché a servizi di altre istituzioni preposte alle assicurazioni sociali.[^59-6]
 
@@ -2109,7 +2105,7 @@ I compiti delle casse di compensazione sono in particolare i seguenti:
 
 Il Consiglio federale disciplina la collaborazione tra gli uffici AI e gli organi dell’AVS.
 
-...[^61-2]
+…[^61-2]
 
 [^61-1]: Nuovo testo giusta il n. I della LF del 22 mar. 1991 (3<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 1992 ([RU 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 [^61-2]: Tit. abrogato dal n. I della LF del 22 mar. 1991 (3<sup>a</sup> revisione dell’AI), con effetto dal 1° gen. 1992 ([RU 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
@@ -2478,7 +2474,7 @@ Gli articoli 87 a 91 della LAVS[^70-1] sono applicabili alle persone che violano
 
 ## Parte 2: Il promovimento dell’aiuto agli invalidi
 
-### I. ...
+### I. …
 
 #### Art. 71
 
@@ -2535,7 +2531,7 @@ Il Consiglio federale stabilisce i limiti massimi dei sussidi previsti dall’ar
 
 [^75bis-1]: Introdotto dall’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896). Abrogato dall’all. n. 108 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### III. ...
+### III. …
 
 #### Art. 76
 
@@ -2561,7 +2557,7 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 
 - a. dai contributi degli assicurati e dei datori di lavoro conformemente agli articoli 2 e 3;
 - b.[^77-2] dai contributi della Confederazione;
-- [tab] b<sup>bis</sup>.[^77-3] dalle entrate che risultano per l’assicurazione dall’aumento, a suo favore, dell’aliquota dell’imposta sul valore aggiunto;
+- b<sup>bis</sup>.[^77-3] dalle entrate che risultano per l’assicurazione dall’aumento, a suo favore, dell’aliquota dell’imposta sul valore aggiunto;
 - c.[^77-4] dai redditi del patrimonio del Fondo di compensazione dell’assicurazione invalidità secondo l’articolo 79;
 - d.[^77-5] dalle entrate del regresso contro i terzi responsabili.
 
@@ -2634,7 +2630,7 @@ L’amministrazione del Fondo di compensazione AI è retta dalla legge del 16 gi
 
 #### Art. 80
 
-**...[^80-2]**[^80-1]
+**…[^80-2]**[^80-1]
 
 Le disposizioni della LAVS[^80-3] concernenti la vigilanza sull’equilibrio finanziario sono applicabili per analogia.
 
@@ -2702,9 +2698,9 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 
 #### Art. 83
 
-<sup>1</sup> ...[^83-1]
+<sup>1</sup> …[^83-1]
 
-<sup>2</sup> ...[^83-2]
+<sup>2</sup> …[^83-2]
 
 [^83-1]: Abrogato dall’all. n. 14 della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^83-2]: Abrogato dal n. I della LF del 9 ott. 1986, con effetto dal 1° gen. 1988 ([RU 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [FF 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
@@ -2721,7 +2717,7 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 
 <sup>1</sup> Le persone già invalide prima dell’entrata in vigore della presente legge sono legittimate alle prestazioni conformemente a questa. A tale scopo, è ammesso che l’invalidità si sia manifestata al momento dell’entrata in vigore della presente legge.
 
-<sup>2</sup> e <sup>3</sup> ...[^85-1]
+<sup>2</sup> e <sup>3</sup> …[^85-1]
 
 [^85-1]: Abrogati dal n. I della LF del 9 ott. 1986, con effetto dal 1° gen. 1988 ([RU 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [FF 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
 
@@ -2746,17 +2742,17 @@ Art. 27 cpv. 1 e 2, 53 a 59, 60 cpv. 2, 62, 64, 66,67 cpv. 1, 81, 84: 15 ottobre
 
 [^u1-1]: [RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)III 2; [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)
 
-### a. ...
+### a. …
 
-### b....
+### b.…
 
 [^u1-lvlb-1]
 
 [^u1-lvlb-1]: Abrogata dal n. II 40 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### c. ...
+### c. …
 
-### d. ...
+### d. …
 
 [^u1-lvld-1]
 
@@ -2769,7 +2765,7 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 [^u1-lvle-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^u1-lvle-2]: Nuovo testo giusta l’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### f....
+### f.…
 
 [^u1-lvlf-1]
 
@@ -2785,7 +2781,7 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 
 <sup>2</sup> Le rendite assegnate in base a un grado d’invalidità inferiore al 40 per cento devono essere rivedute (art. 41 LAI) entro un anno dall’entrata in vigore della presente legge. Se la revisione rileva un grado d’invalidità del 33 <sup>1</sup>/<sub>3</sub> per cento almeno, l’importo della rendita in corso è mantenuto fintanto che siano adempiuti i presupposti per i casi di rigore.
 
-<sup>3</sup> ...[^u2-2]
+<sup>3</sup> …[^u2-2]
 
 [^u2-2]: Abrogato dal n. II 40 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -2807,7 +2803,7 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 
 <sup>1</sup> Le lettere c capoversi 1–9, f capoverso 2 e g capoverso 1 delle disposizioni transitorie relative alla LAVS[^u4-2] si applicano per analogia.
 
-<sup>2</sup> ...
+<sup>2</sup> …
 
 <sup>3</sup> L’articolo 9 capoverso 3 si applica anche ai casi assicurativi verificatisi prima dell’entrata in vigore della presente disposizione. Nondimeno, il diritto ai provvedimenti d’integrazione sorge soltanto con l’entrata in vigore della revisione.
 
@@ -2864,9 +2860,8 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 
 <sup>5</sup> Per il calcolo comparativo secondo il capoverso 4 sono determinanti:
 
-nel caso dell’assegno per grandi invalidi e del sussidio di assistenza per minorenni grandi invalidi: l’importo mensile fissato mediante decisione formale (senza il sussidio alle spese di pensione);
-
-nel caso dei contributi alle spese per le cure a domicilio: l’importo medio mensile versato nei 12 mesi precedenti l’esame.
+- a. nel caso dell’assegno per grandi invalidi e del sussidio di assistenza per minorenni grandi invalidi: l’importo mensile fissato mediante decisione formale (senza il sussidio alle spese di pensione);
+- b. nel caso dei contributi alle spese per le cure a domicilio: l’importo medio mensile versato nei 12 mesi precedenti l’esame.
 
 <sup>6</sup> I sussidi di assistenza correnti e i contributi alle spese per le cure a domicilio prestate all’estero vengono versate nell’attuale importo anche dopo l’entrata in vigore della presente modifica di legge, sempre che ne siano adempiute le condizioni.
 
@@ -2895,7 +2890,7 @@ Le nuove disposizioni sono applicabili anche alle indennità giornaliere per i p
 
 [^u7-lvld-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-### e. ...
+### e. …
 
 [^u7-lvle-1]
 
@@ -2937,7 +2932,7 @@ Le indennità giornaliere versate secondo il diritto anteriore per i provvedimen
 
 <sup>2</sup> L’importo da rimborsare è diminuito del quattro per cento per ogni anno di utilizzazione conforme alla destinazione prevista.
 
-<sup>3</sup> ...[^u10-3]
+<sup>3</sup> …[^u10-3]
 
 <sup>5</sup> Le prestazioni finanziate secondo il capoverso 4 lettera a sono escluse dal contributo della Confederazione di cui all’articolo 78 capoverso 1. Nell’allegato gli importi complessivi di cui al capoverso 4 lettera b sono suddivisi per singolo Cantone.[^u10-4]
 
@@ -2986,23 +2981,23 @@ Le indennità giornaliere versate secondo il diritto anteriore per i provvedimen
 
 [^u12-1]: [RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)
 
-### a. Garanzia dei diritti acquisiti per le indennità giornaliere versate per i provvedimenti d’integrazione in corso
+a. Garanzia dei diritti acquisiti per le indennità giornaliere versate per i provvedimenti d’integrazione in corso
 
 Le indennità giornaliere che all’entrata in vigore della presente modifica sono versate in virtù dei previgenti articoli 22 capoverso 1<sup>bis</sup> e 23 capoversi 2 e 2<sup>bis</sup> continuano a essere versate sino all’abbandono o alla conclusione del provvedimento che le ha giustificate.
 
-### b. Adeguamento delle rendite correnti per i beneficiari che non hanno ancora 55 anni compiuti
+b. Adeguamento delle rendite correnti per i beneficiari che non hanno ancora 55 anni compiuti
 
-<sup>1</sup> I beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica non hanno ancora 55 anni compiuti continuano ad avere diritto alla rendita precedente fintantoché il loro grado d’invalidità non subisca una modificazione secondo l’articolo 17 capoverso 1 LPGA[^u12-lvlb-1].
+<sup>1</sup> I beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica non hanno ancora 55 anni compiuti continuano ad avere diritto alla rendita precedente fintantoché il loro grado d’invalidità non subisca una modificazione secondo l’articolo 17 capoverso 1 LPGA[^u12-2].
 
 <sup>2</sup> Essi continuano ad avere diritto alla rendita precedente anche dopo una modificazione del grado d’invalidità secondo l’articolo 17 capoverso 1 LPGA se l’applicazione dell’articolo 28*b* della presente legge comporta una diminuzione della rendita precedente in caso di aumento del grado d’invalidità o un suo aumento in caso di riduzione del grado d’invalidità.
 
 <sup>3</sup> Per i beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica non hanno ancora 30 anni compiuti, la regolamentazione del diritto alla rendita secondo l’articolo 28*b* della presente legge è applicata al più tardi dieci anni dopo l’entrata in vigore della presente modifica. Se ne risulta un importo della rendita inferiore a quello precedente, all’assicurato viene versato l’importo precedente fintantoché il suo grado d’invalidità non subisca una modificazione secondo l’articolo 17 capoverso 1 LPGA.
 
-[^u12-lvlb-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-
-### c. Non adeguamento delle rendite correnti per i beneficiari che hanno 55 anni compiuti
+c. Non adeguamento delle rendite correnti per i beneficiari che hanno 55 anni compiuti
 
 Ai beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica hanno 55 anni compiuti continua ad applicarsi il diritto anteriore.
+
+[^u12-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 Allegato[^t-2]
 
