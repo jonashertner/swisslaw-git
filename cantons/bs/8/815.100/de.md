@@ -4,13 +4,12 @@ number: "815.100"
 title: Gesetz betreffend Tagesbetreuung von Kindern
 short: "Tagesbetreuungsgesetz, TBG"
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-18
+version: 2025-01-01
+version_adopted: 2022-10-20
 adopted: 2019-05-08
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/815.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6142/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6844/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kinderbetreuung
 
 (Tagesbetreuungsgesetz, TBG)
 
-Vom 8. Mai 2019 (Stand 1. August 2024)
+Vom 8. Mai 2019 (Stand 1. Januar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -298,9 +297,12 @@ beschliesst:
 
 **Datenbearbeitung**
 
-<sup>1</sup> Das zuständige Departement und die zuständigen Stellen der Gemeinden können im Rahmen ihrer gesetzlichen Aufgabenerfüllung, wozu namentlich die Planung, die Kontrolle und die Überprüfung der Wirksamkeit der Tagesbetreuungsangebote im Kanton sowie die Information der Öffentlichkeit darüber und die Information, Beratung und Unterstützung der Eltern gehören, gemäss den Bestimmungen des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010 sowie des Harmonisierungsgesetzes Sozialleistungen Personendaten bearbeiten.
+<sup>1</sup> Das zuständige Departement und die zuständigen Stellen der Gemeinden können im Rahmen ihrer gesetzlichen Aufgabenerfüllung, wozu namentlich die Planung, die Kontrolle und die Überprüfung der Wirksamkeit der Tagesbetreuungsangebote im Kanton sowie die Information der Öffentlichkeit darüber und die Information, Beratung und Unterstützung der Eltern gehören, gemäss den Bestimmungen des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010[^24-1] sowie des Harmonisierungsgesetzes Sozialleistungen[^24-2] Personendaten bearbeiten.
 
 <sup>2</sup> Sie können Kindertagesstätten, Tagesfamilien sowie Tagesfamilienorganisationen Personendaten bekanntgeben, soweit dies zu ihrer Aufgabenerfüllung erforderlich beziehungsweise, bei besonderen Personendaten, zwingend notwendig ist.
+
+[^24-1]: SG [153.260](https://www.gesetzessammlung.bs.ch/data/153.260/de)
+[^24-2]: Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG; SG [890.700](https://www.gesetzessammlung.bs.ch/data/890.700/de)
 
 #### § 25
 
