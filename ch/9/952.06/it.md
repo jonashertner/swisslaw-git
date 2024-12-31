@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2012 sulla liquidità delle banche e delle soc
 short: OLiq
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-883-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-883-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20230101/it"
 
 (Ordinanza sulla liquidità, OLiq)[^t-1]
 
-del 30 novembre 2012 (Stato 1° gennaio 2023)
+del 30 novembre 2012 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo testo giusta l’all. 1 n. II 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -42,6 +42,17 @@ ordina:
 <sup>2</sup> La FINMA emana disposizioni tecniche di esecuzione.
 
 [^1-1]: Nuovo testo giusta l’all. 1 n. II 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+#### Art. 1a
+
+**Standard minimi di Basilea**[^1a-1]
+
+<sup>1</sup> Per standard minimi di Basilea si intendono i documenti del Comitato di Basilea per la vigilanza bancaria che la presente ordinanza dichiara determinanti, in particolare ai fini del calcolo delle esigenze in materia di liquidità.
+
+<sup>2</sup> La versione determinante degli standard minimi di Basilea da applicare è riportata nell’allegato 1 e nell’allegato 1 dell’ordinanza del 1° giugno 2012[^1a-2] sui fondi propri (OFoP).
+
+[^1a-1]: Introdotto dall’all. n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^1a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 2
 
@@ -135,9 +146,9 @@ La scelta degli scenari di stress deve tener conto dei seguenti elementi:
 
 #### Art. 11
 
-**Compiti della società di audit**
+[^11-1]
 
-La società di audit è tenuta a confermare l’adempimento delle esigenze qualitative conformemente alle disposizioni tecniche di esecuzione della FINMA riguardanti gli articoli 5–10.
+[^11-1]: Abrogato dal n. I dell’O dell’11 set. 2020, con effettto dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 ### Sezione 2: Esigenze quantitative: quota di liquidità a breve termine
 
@@ -246,20 +257,24 @@ Gli attivi della categoria 1 comprendono i seguenti valori patrimoniali:
   - 8\. di una banca multilaterale di sviluppo;
 
 - c<sup>bis</sup>. i titoli negoziabili garantiti dalle istituzioni elencate nella lettera c;
-- d. i titoli negoziabili che consistono in crediti nella valuta del Paese nei confronti di un Governo centrale o una banca centrale, emessi dal Governo centrale interessato o dalla banca centrale nel Paese interessato o nel Paese di provenienza della banca, se il Governo centrale presenta una ponderazione del rischio superiore allo 0 per cento conformemente al paragrafo 53 del metodo standard secondo Basilea II[^15a-1]; nonché
-- e. i titoli negoziabili che rappresentano crediti in valuta estera nei confronti della Confederazione o della Banca nazionale svizzera (BNS) fino a concorrenza del deflusso netto di fondi dovuto alla situazione di stress, nella valuta estera in cui si presenta il rischio di liquidità; questo vale anche se per la Svizzera la ponderazione del rischio supera lo 0 per cento conformemente al paragrafo 53 del metodo standard secondo Basilea II.
+- d.[^15a-1] i titoli negoziabili che consistono in crediti nella valuta del Paese nei confronti di un Governo centrale o una banca centrale, emessi dal Governo centrale interessato o dalla banca centrale nel Paese interessato o nel Paese di provenienza della banca, se il Governo centrale presenta una ponderazione del rischio superiore allo 0 per cento conformemente all’allegato 2 numero 1.1 OFoP[^15a-2]; nonché
+- e.[^15a-3] i titoli negoziabili che rappresentano crediti in valuta estera nei confronti della Confederazione o della Banca nazionale svizzera (BNS) fino a concorrenza del deflusso netto di fondi dovuto alla situazione di stress, nella valuta estera in cui si presenta il rischio di liquidità; questo vale anche se per la Svizzera la ponderazione del rischio supera lo 0 per cento conformemente all’allegato 2 numero 1.1 OFoP.
 
 <sup>2</sup>
 
 I titoli negoziabili di cui al capoverso 1 lettere c e c<sup>bis</sup> possono rientrare nella categoria 1 solo se soddisfano le seguenti condizioni:
 
-- a. presentano una ponderazione del rischio dello 0 per cento conformemente al paragrafo 53 del metodo standard secondo Basilea II;
+- a.[^15a-4] presentano una ponderazione del rischio dello 0 per cento conformemente all’allegato 2 numero 1 o 3.2 OFoP;
 - b. in caso di crediti garantiti, sussiste la garanzia esplicita, irrevocabile e incondizionata di un Governo centrale o di un ente territoriale subordinato oppure la responsabilità solidale di più enti territoriali;
-- c. non rappresentano un impegno di un istituto finanziario ai sensi dell’allegato 1 o di una società correlata a un istituto finanziario. Costituiscono un’eccezione i prestiti di istituti finanziari istituiti da un Governo centrale o dal Governo di un ente territoriale di diritto pubblico subordinato, allo scopo di assegnare prestiti con finalità di incentivazione su mandato statale, su base non concorrenziale e senza scopo di lucro.
+- c. non rappresentano un impegno di un istituto finanziario ai sensi dell’allegato 1*a*[^15a-5] o di una società correlata a un istituto finanziario. Costituiscono un’eccezione i prestiti di istituti finanziari istituiti da un Governo centrale o dal Governo di un ente territoriale di diritto pubblico subordinato, allo scopo di assegnare prestiti con finalità di incentivazione su mandato statale, su base non concorrenziale e senza scopo di lucro.
 
 <sup>3</sup> Gli attivi della categoria 1 sono calcolati al valore attuale di mercato.
 
-[^15a-1]: Comitato di Basilea per la vigilanza bancaria - Basilea II: International Convergence of Capital Measurement and Capital Standards A Revised Framework Comprehensive Version; consultabile al sito: www.bis.org &gt; Monetary & financial stability &gt; Basel Committee on Banking Supervision &gt; Basel III &gt; Related Information Basel II – June 2006 (comprehensive version).
+[^15a-1]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15a-3]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-4]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-5]: Nuova espressione giusta il n. 3 cpv. 1 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 15b
 
@@ -280,24 +295,24 @@ Gli attivi della categoria 2a comprendono i seguenti valori patrimoniali:
   - 6\. di una banca multilaterale di sviluppo;
 
 - a<sup>bis</sup>. i titoli negoziabili garantiti dalle istituzioni elencate nella lettera a;
-- b. i prestiti di imprese negoziabili compresi i titoli del mercato monetario, se sono emessi da società che né singolarmente né in correlazione ad altre sono considerate quale istituto finanziario ai sensi dell’allegato 1; e
+- b. i prestiti di imprese negoziabili compresi i titoli del mercato monetario, se sono emessi da società che né singolarmente né in correlazione ad altre sono considerate quale istituto finanziario ai sensi dell’allegato 1*a*; e
 - c.[^15b-2] i titoli di credito negoziabili, coperti e disciplinati da leggi speciali, che non sono stati emessi dalla banca stessa o da un altro istituto finanziario ad essa correlato ai sensi dell’allegato 1; possono essere conteggiati anche i prestiti ipotecari emessi dalle centrali di emissione di obbligazioni fondiarie conformemente alla legge del 25 giugno 1930[^15b-3] sulle obbligazioni fondiarie (LOF).
 
 <sup>2</sup>
 
 I titoli negoziabili di cui al capoverso 1 lettere a e a<sup>bis</sup> possono rientrare nella categoria 2a solo se soddisfano le seguenti condizioni:
 
-- a. presentano una ponderazione del rischio del 20 per cento al massimo conformemente al paragrafo 53 del metodo standard secondo Basilea II;
-- b. non rappresentano un debito di un istituto finanziario ai sensi dell’allegato 1 o di una società correlata a un istituto finanziario. Costituiscono un’eccezione i prestiti di istituti finanziari istituiti da un Governo centrale o dal Governo di un ente territoriale di diritto pubblico subordinato, allo scopo di assegnare prestiti con finalità di incentivazione su mandato statale, su base non concorrenziale e senza scopo di lucro.
+- a.[^15b-4] presentano una ponderazione del rischio del 20 per cento al massimo conformemente all’allegato 2 numeri 1–3 OFoP[^15b-5];
+- b. non rappresentano un debito di un istituto finanziario ai sensi dell’allegato 1*a* o di una società correlata a un istituto finanziario. Costituiscono un’eccezione i prestiti di istituti finanziari istituiti da un Governo centrale o dal Governo di un ente territoriale di diritto pubblico subordinato, allo scopo di assegnare prestiti con finalità di incentivazione su mandato statale, su base non concorrenziale e senza scopo di lucro.
 
 <sup>3</sup>
 
 I prestiti di imprese di cui al capoverso 1 lettera b e i titoli di credito coperti conformemente al capoverso 1 lettera c possono rientrare nella categoria 2a se:
 
-- a. dispongono di almeno una valutazione a lungo termine corrispondente alla classe di rating 1 o 2 secondo l’allegato 2 OFoP[^15b-4];
-- b. in mancanza di tale valutazione dispongono di una valutazione a corto termine equiparabile eseguita da un’agenzia di rating riconosciuta dalla FINMA;
+- a.[^15b-6] dispongono di una valutazione a lungo termine delle classi di rating 1 o 2 secondo l’allegato 2 OFoP;
+- b.[^15b-7] dispongono di una valutazione a breve termine della classe di rating 1 secondo l’articolo 64*a* capoverso 2 OFoP;
 - c. servono a coprire i deflussi all’estero e dispongono di una valutazione equiparabile a quella di cui alla lettera a o b eseguita da un’agenzia di rating riconosciuta dalla rispettiva autorità nazionale di vigilanza; o
-- d. non dispongono di una valutazione di cui alle lettere a–c, ma la loro probabilità di inadempienza, valutata internamente, corrisponde a una valutazione della classe di rating 1 o 2 secondo l’allegato 2 OFoP.[^15b-5]
+- d. non dispongono di una valutazione di cui alle lettere a–c, ma la loro probabilità di inadempienza, valutata internamente, corrisponde a una valutazione della classe di rating 1 o 2 secondo l’allegato 2 OFoP.[^15b-8]
 
 <sup>4</sup> Gli attivi della categoria 2a sono valutati al valore attuale di mercato, applicando una riduzione del valore pari al 15 per cento.
 
@@ -306,15 +321,18 @@ I prestiti di imprese di cui al capoverso 1 lettera b e i titoli di credito cope
 La FINMA può assegnare alla categoria 2 (attivi della categoria 2b) ulteriori attivi che:
 
 - a. hanno comprovato di essere una fonte affidabile di liquidità anche in condizioni di tensione nei mercati pronti contro termine o a contante; e
-- b. non sono stati emessi da un istituto finanziario ai sensi dell’allegato 1 o da una società correlata a un istituto finanziario.
+- b. non sono stati emessi da un istituto finanziario ai sensi dell’allegato 1*a* o da una società correlata a un istituto finanziario.
 
 <sup>6</sup> Gli attivi della categoria 2b sono valutati al valore attuale di mercato, applicando una riduzione del valore pari almeno al 50 per cento.
 
 [^15b-1]: Abrogati dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^15b-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^15b-3]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^15b-4]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^15b-5]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15b-4]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15b-5]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15b-6]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15b-7]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15b-8]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 15c
 
@@ -572,7 +590,7 @@ Per singoli istituti appartenenti a un gruppo finanziario la FINMA può ammetter
 I crediti e gli impegni possono essere compensati tra loro soltanto se:
 
 - a. si tratta di un’operazione di finanziamento garantita effettuata con la medesima controparte; e
-- b. le condizioni di cui al paragrafo 33 (i) della normativa di Basilea sull’indice di leva finanziaria (*Leverage Ratio*)[^17i-2] sono soddisfatte.
+- b.[^17i-2] le condizioni di cui al numero 30.37 dello standard minimo di Basilea per il «leverage ratio» (LEV) nella versione riportata nell’allegato 1 numero 7 OFoP[^17i-3] sono soddisfatte.
 
 <sup>4</sup>
 
@@ -583,7 +601,8 @@ La FINMA emana disposizioni di esecuzione per il calcolo:
 - c. di operazioni di finanziamento garantite senza limitazione della durata.
 
 [^17i-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17i-2]: Comitato di Basilea per la vigilanza bancaria – Basilea III: L’indice di leva finanziaria e i requisiti di informativa pubblica, gennaio 2014, consultabile al sito www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+[^17i-2]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17i-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 17j
 
@@ -593,14 +612,16 @@ La FINMA emana disposizioni di esecuzione per il calcolo:
 
 <sup>2</sup> I crediti da operazioni su derivati si calcolano in base ai valori di sostituzione positivi dei contratti in essere al prezzo di mercato.
 
-<sup>3</sup> Se sussistono accordi di compensazione tra la banca e la rispettiva controparte che soddisfano le condizioni di cui ai paragrafi 8 e 9 dell’allegato della normativa di Basilea sul *Leverage Ratio*[^17j-2], per le operazioni su derivati contemplate da questi accordi sono determinanti i valori di sostituzione netti.
+<sup>3</sup> Se sussistono accordi di compensazione tra la banca e la rispettiva controparte che soddisfano le condizioni di cui al numero 30 LEV nella versione riportata nell’allegato 1 numero 7 OFoP[^17j-2], per le operazioni su derivati contemplate da questi accordi sono determinanti i valori di sostituzione netti.[^17j-3]
 
 <sup>4</sup> Nel calcolo degli impegni da operazioni su derivati le garanzie depositate sotto forma di margini di variazione devono essere dedotte dall’importo del valore di sostituzione negativo a prescindere dal tipo di garanzia.
 
-<sup>5</sup> Nel calcolo dei crediti da operazioni su derivati le garanzie ricevute non possono essere dedotte dall’importo del valore di sostituzione positivo, salvo se la banca ha ricevuto garanzie da margini di variazione sotto forma di attivi della categoria 1 secondo l’articolo 15*a* e le altre condizioni di cui al paragrafo 25 della normativa di Basilea sul *Leverage Ratio* sono soddisfatte.
+<sup>5</sup> Nel calcolo dei crediti da operazioni su derivati le garanzie ricevute non possono essere dedotte dall’importo del valore di sostituzione positivo, salvo se la banca ha ricevuto garanzie da margini di variazione sotto forma di attivi della categoria 1 secondo l’articolo 15*a* e le altre condizioni di cui al numero 30 LEV nella versione riportata nell’allegato 1 numero 7 OFoP sono soddisfatte.[^17j-4]
 
 [^17j-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17j-2]: Comitato di Basilea per la vigilanza bancaria – Basilea III: L’indice di leva finanziaria e i requisiti di informativa pubblica, gennaio 2014, consultabile al sito www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+[^17j-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17j-3]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17j-4]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 17k
 
@@ -645,9 +666,9 @@ L’importo del RSF si calcola:
 - a. assegnando i valori contabili degli attivi e delle posizioni fuori bilancio alle categorie RSF secondo l’allegato 5 e ponderandoli mediante moltiplicazione per il rispettivo fattore RSF; e
 - b. sommando i valori contabili ponderati secondo la lettera *a* per tutte le categorie RSF.
 
-<sup>2</sup> Il valore contabile degli attivi e delle posizioni fuori bilancio è calcolato secondo il valore esposto nella chiusura. Le correzioni di valore devono essere prese in considerazione secondo il paragrafo 52 del metodo standard secondo Basilea II e del paragrafo 12 della normativa di Basilea sul *Leverage Ratio*[^17m-2].
+<sup>2</sup> Il valore contabile degli attivi e delle posizioni fuori bilancio è calcolato secondo il valore esposto nella chiusura. Le correzioni di valore devono essere prese in considerazione secondo il numero 20.1 dello standard minimo di Basilea per il calcolo delle posizioni ponderate in funzione dei rischi di credito (CRE) nella versione riportata nell’allegato 1 numero 4 OFoP[^17m-2] e secondo il numero 30 LEV nella versione riportata nell’allegato 1 numero 7 OFoP.[^17m-3]
 
-<sup>3</sup> Nel calcolo del valore contabile di crediti ipotecari su immobili non gravati secondo l’allegato 5 numero 5.1 devono essere dedotti tutti gli attivi costituiti in pegno quali garanzie per mutui in obbligazioni fondiarie secondo la LOF[^17m-3].
+<sup>3</sup> Nel calcolo del valore contabile di crediti ipotecari su immobili non gravati secondo l’allegato 5 numeri 5.1 e 5.1*a* devono essere dedotti tutti gli attivi costituiti in pegno quali garanzie per mutui in obbligazioni fondiarie secondo la LOF[^17m-4].[^17m-5]
 
 <sup>4</sup> Nel calcolo del valore contabile di crediti ipotecari gravati e della durata per i quali tali crediti sono gravati occorre partire dal valore contabile e dalla durata residua dei mutui in obbligazioni fondiarie da porre in garanzia.
 
@@ -656,8 +677,10 @@ L’importo del RSF si calcola:
 <sup>6</sup> Su richiesta della BNS, la FINMA può ridurre temporaneamente i fattori RSF di determinate operazioni se ciò permette di contrastare gravi difficoltà di attuazione della politica monetaria.
 
 [^17m-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17m-2]: Comitato di Basilea per la vigilanza bancaria – Basilea III: L’indice di leva finanziaria e i requisiti di informativa pubblica, gennaio 2014, consultabile al sito www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
-[^17m-3]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^17m-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17m-3]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17m-4]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^17m-5]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 17n
 
@@ -873,7 +896,7 @@ Il 30 per cento dell’importo ottenuto dal seguente calcolo, se positivo, è co
 
 - a. crediti ipotecari su immobili, che la banca tiene a disposizione quali garanzie per l’ottenimento di un sostegno straordinario di liquidità della BNS e che soddisfano i requisiti posti dalla BNS a tali garanzie;
 - b. dedotte le riduzioni del valore previste dalla BNS per i crediti ipotecari su immobili di cui alla lettera a;
-- c. dedotto il cinque per cento dell’esposizione totale della banca secondo l’articolo 46 capoverso 2 OFoP.
+- c.[^20a-4] dedotto il 5 per cento dell’esposizione totale della banca secondo l’articolo 42*a* OFoP.
 
 <sup>5</sup> Le HQLA che conformemente all’articolo 15*c* capoverso 8 non sono computate e altre HQLA secondo i capoversi 1 e 2 del presente articolo che una succursale o un’unità consolidata detiene per soddisfare le esigenze locali in materia di liquidità possono essere computate nel volume dei valori patrimoniali computabili della banca nella misura in cui tale succursale o unità contribuisce al fabbisogno di liquidità della banca, risultante dalle esigenze particolari in materia di liquidità.
 
@@ -882,6 +905,7 @@ Il 30 per cento dell’importo ottenuto dal seguente calcolo, se positivo, è co
 [^20a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 [^20a-2]: Nuovo testo giusta l’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^20a-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^20a-4]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 20b
 
@@ -994,9 +1018,9 @@ Per i rischi di liquidità che non sono coperti o non sono coperti a sufficienza
 
 <sup>1</sup> Il mancato adempimento delle esigenze particolari in materia di liquidità è ammesso in circostanze straordinarie. Le banche devono comunicare senza indugio alla FINMA se si verifica o si profila un mancato adempimento.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+<sup>2</sup> In caso di mancato adempimento la banca deve indicare con quali misure ed entro quale termine le esigenze particolari in materia di liquidità saranno di nuovo soddisfatte. La FINMA approva il termine. Se alla scadenza del termine le esigenze particolari in materia di liquidità non sono soddisfatte, la FINMA può ordinare le misure necessarie.
 
-### <sup>2</sup> In caso di mancato adempimento la banca deve indicare con quali misure ed entro quale termine le esigenze particolari in materia di liquidità saranno di nuovo soddisfatte. La FINMA approva il termine. Se alla scadenza del termine le esigenze particolari in materia di liquidità non sono soddisfatte, la FINMA può ordinare le misure necessarie.
+[^26-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 27
 
@@ -1044,10 +1068,13 @@ Nell’ambito dell’esecuzione della presente ordinanza, la FINMA consulta la B
 
 [^31a-1]
 
-**Art. 31**b[^31a-2]
-
 [^31a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
-[^31a-2]: Introdotto dal n. I dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Abrogato dall’all. n. 3 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 31b
+
+[^31b-1]
+
+[^31b-1]: Introdotto dal n. I dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Abrogato dall’all. n. 3 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 31c
 
@@ -1081,13 +1108,40 @@ Nell’ambito dell’esecuzione della presente ordinanza, la FINMA consulta la B
 
 Allegato 1[^t-2]
 
+(art. 1*a* cpv. 2)
+
+## Standard minimi di Basilea
+
+[^t-2]: Introdotto dal n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+Consultabili su [www.sif.admin.ch](https://www.sif.admin.ch/sif/it/home/finanzmarktpolitik/regolamentazione-mercati-finanziari/basler-mindeststandards.html) &gt; Politica e strategia dei mercati finanziari &gt; Regolamentazione dei mercati finanziari &gt; Standard minimi di Basilea
+
+<table>
+<tr><th>Numero</th><th>Titolo</th><th>Data di riferimento</th></tr>
+<tr><td>1.</td><td>Liquidity Coverage Ratio (LCR)</td><td></td></tr>
+<tr><td>Numero 10 LCR:</td><td>Definition and application</td><td>31.01.2022</td></tr>
+<tr><td>Numero 20 LCR:</td><td>Calculation</td><td>31.05.2023</td></tr>
+<tr><td>Numero 30 LCR:</td><td>High-quality liquid assets</td><td>31.01.2022</td></tr>
+<tr><td>Numero 31 LCR:</td><td>Alternative liquidity approaches</td><td>31.01.2022</td></tr>
+<tr><td>Numero 40 LCR:</td><td>Cash inflows and outflows</td><td>31.05.2023</td></tr>
+<tr><td>Numero 90 LCR:</td><td>Transition</td><td>31.01.2022</td></tr>
+<tr><td>Numero 99 LCR:</td><td>Application guidance</td><td>31.01.2022</td></tr>
+<tr><td>2.</td><td>Net stable funding ratio (NSF)</td><td></td></tr>
+<tr><td>Numero 10 NSF:</td><td>Definition and applications</td><td>31.01.2022</td></tr>
+<tr><td>Numero 20 NSF:</td><td>Calculation and reporting</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 NSF:</td><td>Available and required stable finding</td><td>31.01.2022</td></tr>
+<tr><td>Numero 99 NSF:</td><td>Definitions and applications</td><td>31.01.2022</td></tr>
+</table>
+
+Allegato 1a[^t-3]
+
 (art. 15*a* cpv. 2 lett. c e 15*b* cpv. 2 lett. b)
 
 ## Istituto finanziario
 
-[^t-2]: Introdotto dal n. II dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^t-3]: Originario all. 1. Introdotto dal n. II dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
-A. Sono considerate quale istituto finanziario le imprese che forniscono una o più prestazioni di servizi nei seguenti settori
+A. Sono considerate quale istituto finanziario le imprese che forniscono una o più prestazioni di servizi nei seguenti settori:
 
 - 1\. Servizi assicurativi e servizi connessi
   - 1\.1 Assicurazione diretta (coassicurazione compresa)
@@ -1119,13 +1173,13 @@ B. Sono considerate quale istituto finanziario anche le strutture holding nelle 
 
 C. Non sono considerate quale istituto finanziario le filiali di istituti non finanziari che non dispongono dell’autorizzazione di esercitare come banca e che forniscono una o più delle attività sopracitate esclusivamente a società di gruppo.
 
-Allegato 2[^t-3]
+Allegato 2[^t-4]
 
 (art. 16 cpv. 3)
 
 ## Deflussi di fondi e tassi di deflusso
 
-[^t-3]: Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dal n. II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), dal n. II cpv. 1 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) e dall’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-4]: Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dal n. II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), dal n. II cpv. 1 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) e dall’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th>Categorie di deflusso</th><th>Tasso di deflusso (percentuale)</th></tr>
@@ -1212,13 +1266,13 @@ Allegato 2[^t-3]
 <tr><td>15. Deflussi di fondi interni al gruppo (solo per il singolo istituto)</td><td>100</td></tr>
 </table>
 
-Allegato 3[^t-4]
+Allegato 3[^t-5]
 
 (art. 16 cpv. 5)
 
 ## Afflussi di fondi e tassi di afflusso
 
-[^t-4]: Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dal n. II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) e dal n. II cpv. 1 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-5]: Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dal n. II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) e dal n. II cpv. 1 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Categorie di afflusso</th><th>Tasso di afflusso (percentuale)</th></tr>
@@ -1243,13 +1297,13 @@ Allegato 3[^t-4]
 <tr><td>7. Afflussi di fondi infragruppo entro 30 giorni di calendario (solo per il singolo istituto)</td><td>100</td></tr>
 </table>
 
-Allegato 4[^t-5]
+Allegato 4[^t-6]
 
 (art. 17*k*)
 
 ## Fattori di ponderazione dell’ammontare di provvista stabile disponibile (ASF)
 
-[^t-5]: Introdotto dal n. II cpv. 2 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-6]: Introdotto dal n. II cpv. 2 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th colspan="2">Categorie ASF</th><th>Fattore di ponderazione (percentuale)</th></tr>
@@ -1277,13 +1331,13 @@ Allegato 4[^t-5]
 
 [^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
-Allegato 5[^t-6]
+Allegato 5[^t-7]
 
 (art. 17*m*)
 
 ## Fattore di ponderazione dell’ammontare di provvista stabile obbligatoria (RSF)
 
-[^t-6]: Introdotto dal n. II cpv. 2 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Aggiornato dal n. II dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-7]: Introdotto dal n. II cpv. 2 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Aggiornato dal n. II dell’O del 3 giu. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)) e dall’all. n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th colspan="2">Categorie RSF</th><th colspan="2">Fattore di ponderazione (percentuale)</th></tr>
@@ -1311,15 +1365,18 @@ Allegato 5[^t-6]
 <tr><td colspan="2">4.3 Tutti i depositi presso istituti finanziari, i prestiti concessi a questi ultimi nonché i crediti nei confronti di banche centrali con una durata residua compresa fra sei mesi e meno di un anno</td><td colspan="2">50</td></tr>
 <tr><td colspan="2">4.4 Depositi operativi presso altri istituti finanziari sui quali si applica un fattore ASF del 50 % secondo la categoria ASF 5.2</td><td colspan="2">50</td></tr>
 <tr><td colspan="2">4.5 Tutti i restanti attivi con una durata residua inferiore a un anno che non sono gravati o sono gravati per un periodo inferiore a un anno</td><td colspan="2">50</td></tr>
-<tr><td colspan="2">5.1 Crediti ipotecari non gravati su immobili con una durata residua pari o superiore a un anno e una ponderazione del rischio pari o inferiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito</td><td colspan="2">65</td></tr>
+<tr><td colspan="2">5.1 Crediti ipotecari non gravati su immobili d’abitazione con un tasso di anticipo del 60 % al massimo nonché con una durata residua pari o superiore a un anno e una ponderazione del rischio del 35 % al massimo secondo l’allegato 3 numeri 3.1 e 3.2 OFoP[^annex5-lvlu1-1] in combinato disposto con gli articoli 66*a* e 72*c* capoverso 6 OFoP</td><td colspan="2">65</td></tr>
+<tr><td colspan="2">5.1*a* L’85 per cento dei crediti ipotecari non gravati su immobili d’abitazione con un tasso di anticipo superiore al 60 % nonché con una durata residua pari o superiore a un anno e una ponderazione del rischio del 35 % al massimo secondo l’allegato 3 numero 3.1 OFoP in combinato disposto con gli articoli 66*a* e 72*c* capoverso 6 OFoP</td><td colspan="2">65</td></tr>
 <tr><td colspan="2">5.2 Tutti i restanti depositi e prestiti non gravati:</td><td colspan="2">65</td></tr>
 <tr><td colspan="2">a. con una durata residua pari o superiore a un anno;</td><td colspan="2"></td></tr>
-<tr><td colspan="2">b. con una ponderazione del rischio pari o inferiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito;</td><td colspan="2"></td></tr>
+<tr><td colspan="2">b. con una ponderazione in funzione del rischio del 35 % al massimo secondo l’allegato 2 o 3 OFoP;</td><td colspan="2"></td></tr>
 <tr><td colspan="2">c. non rientranti nelle categorie RSF 2, 3.4, 4.3 o 4.4; e</td><td colspan="2"></td></tr>
 <tr><td colspan="2">d. che non rappresentano depositi presso istituti finanziari né prestiti concessi a questi ultimi.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5.3 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 5.1 e 5.2</td><td colspan="2">65</td></tr>
+<tr><td colspan="2">5.3 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 5.1, 5.1*a* e 5.2</td><td colspan="2">65</td></tr>
 <tr><td colspan="2">6.1 Margini iniziali per operazioni su derivati pagati in contanti, mediante titoli o altri attivi e contributi pagati in contanti o mediante altri attivi al fondo di garanzia di una controparte centrale, salvo se ai margini iniziali per operazioni su derivati pagati in contanti o mediante altri attivi è assegnato un fattore RSF più elevato; in tal caso si applica il fattore RSF più elevato</td><td colspan="2">85</td></tr>
-<tr><td colspan="2">6.2 Altri depositi e prestiti non gravati né in sofferenza con una ponderazione del rischio superiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito e con una durata residua pari o superiore a un anno, senza i depositi presso istituti finanziari e i prestiti concessi a questi ultimi</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">6.1*a* Crediti ipotecari non gravati su immobili d’abitazione con una durata residua pari o superiore a un anno e una ponderazione del rischio superiore al 35 % secondo l’allegato 3 numeri 3.1 e 3.2 OFoP in combinato disposto con gli articoli 66*a* e 72*c* capoverso 6 OFoP</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">6.1*b* Il 15 % dei crediti ipotecari non gravati su immobili d’abitazione con un tasso di anticipo superiore al 60 % nonché con una durata residua pari o superiore a un anno e una ponderazione del rischio del 35 % al massimo secondo l’allegato 3 numero 3.1 OFoP in combinato disposto con gli articoli 66*a* e 72*c* capoverso 6 OFoP</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">6.2 Altri depositi e prestiti non gravati né in sofferenza con una ponderazione del rischio superiore al 35 % secondo l’allegato 2 o 3 OFoP e con una durata residua pari o superiore a un anno, senza i depositi presso istituti finanziari e i prestiti concessi a questi ultimi</td><td colspan="2">85</td></tr>
 <tr><td colspan="2">6.3 Titoli non gravati né annullati con una durata residua di almeno un anno che non sono ammessi come HQLA, comprese le azioni negoziate in borsa non rientranti nella categoria RSF 4.1</td><td colspan="2">85</td></tr>
 <tr><td colspan="2">6.4 Materie prime fisiche negoziate, compresi i metalli preziosi</td><td colspan="2">85</td></tr>
 <tr><td colspan="2">6.5 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 6.1–6.4</td><td colspan="2">85</td></tr>
@@ -1335,13 +1392,15 @@ Allegato 5[^t-6]
 <tr><td>9.2 Impegni eventuali da garanzie e crediti documentari non correlati a finanziamenti di operazioni commerciali</td><td colspan="2">5 % del valore nominale in sospeso</td></tr>
 </table>
 
-Allegato 6[^t-7]
+[^annex5-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+Allegato 6[^t-8]
 
 (art. 23 cpv. 3)
 
 ## Deflussi di fondi e tassi di deflusso per le banche di rilevanza sistemica nel periodo dal 31° al 90° giorno di calendario
 
-[^t-7]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-8]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><td>Categorie di deflusso</td><td>Tasso di deflusso (percentuale)</td></tr>
@@ -1362,13 +1421,13 @@ Allegato 6[^t-7]
 <tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>50</td></tr>
 </table>
 
-Allegato 7[^t-8]
+Allegato 7[^t-9]
 
 (art. 23 cpv. 3)
 
 ## Afflussi di fondi e tassi di afflusso per le banche di rilevanza sistemica nel periodo dal 31° al 90° giorno di calendario
 
-[^t-8]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-9]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><td>Categorie di afflusso</td><td>Tasso di afflusso (percentuale)</td></tr>
@@ -1383,23 +1442,23 @@ Allegato 7[^t-8]
 <tr><td>– da 61 a 90 giorni di calendario</td><td>50</td></tr>
 </table>
 
-Allegato 8[^t-9]
+Allegato 8[^t-10]
 
 (art. 24)
 
 ## Titoli computabili per le banche di rilevanza sistemica
 
-[^t-9]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-10]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><td>Titoli</td><td>Riduzione del valore (percentuale)</td></tr>
 <tr><td>1. Titoli che rappresentano crediti nei confronti di un Governo centrale, di una banca centrale, di un ente territoriale subordinato dotato di autonomia di bilancio e del diritto di riscuotere imposte o di un altro ente di diritto pubblico, della Banca dei regolamenti internazionali, del Fondo monetario internazionale, della Banca centrale europea, dell’Unione europea o di banche multilaterali di sviluppo, se tali titoli:</td><td></td></tr>
 <tr><td>– in virtù dell’articolo 15*d* non possono essere computati come HQLA</td><td>25</td></tr>
 <tr><td>– per altri motivi non possono essere computati come HQLA</td><td>60</td></tr>
-<tr><td>2. Prestiti di imprese compresi i titoli del mercato monetario, se sono emessi da società che né singolarmente né in correlazione ad altre sono considerate quale istituto finanziario ai sensi dell’allegato 1, se tali strumenti:</td><td></td></tr>
+<tr><td>2. Prestiti di imprese compresi i titoli del mercato monetario, se sono emessi da società che né singolarmente né in correlazione ad altre sono considerate quale i istituto finanziario ai sensi dell’allegato 1*a*, se tali strumenti:</td><td></td></tr>
 <tr><td>– in virtù dell’articolo 15*d* non possono essere computati come HQLA</td><td>25</td></tr>
 <tr><td>– per altri motivi non possono essere computati come HQLA</td><td>60</td></tr>
-<tr><td>3. Titoli di credito coperti che non sono stati emessi dalla banca stessa o da un altro istituto finanziario ai sensi dell’allegato 1 ad essa correlato, se tali titoli di credito:</td><td></td></tr>
+<tr><td>3. Titoli di credito coperti che non sono stati emessi dalla banca stessa o da un altro istituto finanziario ai sensi dell’allegato 1*a* ad essa correlato, se tali titoli di credito:</td><td></td></tr>
 <tr><td>– in virtù dell’articolo 15*d* non possono essere computati come HQLA</td><td>25</td></tr>
 <tr><td>– per altri motivi non possono essere computati come HQLA</td><td>60</td></tr>
 <tr><td>4. Azioni, se:</td><td></td></tr>

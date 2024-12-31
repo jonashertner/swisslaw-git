@@ -4,11 +4,11 @@ title: "Ordonnance du 30 novembre 2012 sur les liquidités des banques et des ma
 short: OLiq
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-883-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-883-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20230101/fr"
 
 (Ordonnance sur les liquidités, OLiq)[^t-1]
 
-du 30 novembre 2012 (État le 1<sup>er</sup> janvier 2023)
+du 30 novembre 2012 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 11 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -42,6 +42,17 @@ arrête:
 <sup>2</sup> La FINMA édicte les dispositions d’exécution techniques.
 
 [^1-1]: Nouvelle teneur selon l’annexe 1 ch. II 11 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+#### Art. 1a
+
+**Normes minimales de Bâle**[^1a-1]
+
+<sup>1</sup> Par normes minimales de Bâle au sens de la présente ordonnance, on entend les documents du Comité de Bâle sur le contrôle bancaire que la présente ordonnance déclare déterminants, en particulier pour le calcul des fonds propres nécessaires.
+
+<sup>2</sup> La version déterminante des normes minimales de Bâle est mentionnée à l’annexe 1 et à l’annexe 1 de l’ordonnance du 1<sup>er</sup> juin 2012 sur les fonds propres (OFR)[^1a-2].
+
+[^1a-1]: Introduit par l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^1a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 2
 
@@ -246,20 +257,24 @@ Les actifs de la catégorie 1 comprennent les actifs suivants:
   - 8\. des banques multilatérales de développement;
 
 - c<sup>bis</sup>. titres négociables garantis par des institutions selon liste sous let. c;
-- d. titres négociables ayant valeur de créances sur un gouvernement central ou une banque centrale, émis en monnaie locale par le gouvernement central ou la banque centrale dans le pays où est pris le risque de liquidité ou dans le pays d’origine de la banque, pour un gouvernement central ayant une pondération de risque supérieure à 0 % selon le par. 53 de l’approche standard de Bâle II[^15a-1];
-- e. titres négociables ayant valeur de créances sur la Confédération ou la Banque nationale suisse (BNS), émis en devises, jusqu’à concurrence de la sortie nette de trésorerie attendue en cas de crise dans la devise dans laquelle le risque de liquidité est pris; cela vaut même si la Suisse a une pondération de risque supérieure à 0 % selon le par. 53 de l’approche standard de Bâle II.
+- d.[^15a-1] titres négociables ayant valeur de créances sur un gouvernement central ou une banque centrale, émis en monnaie locale par le gouvernement central ou la banque centrale dans le pays où est pris le risque de liquidité ou dans le pays d’origine de la banque, pour un gouvernement central ayant une pondération en fonction des risques supérieure à 0 % selon l’annexe 2, ch. 1.1, OFR[^15a-2];
+- e.[^15a-3] titres négociables ayant valeur de créances sur la Confédération ou la Banque nationale suisse (BNS), émis en devises, jusqu’à concurrence de la sortie nette de trésorerie attendue en cas de crise dans la devise dans laquelle le risque de liquidité est pris; cela vaut même si la Suisse a une pondération en fonction des risques supérieure à 0 % selon l’annexe 2, ch. 1.1, OFR.
 
 <sup>2</sup>
 
 Les titres négociables au sens de l’al. 1, let. c et c<sup>bis</sup>, ne peuvent être pris en compte dans la catégorie 1 que s’ils remplissent les conditions suivantes:
 
-- a. ils sont assortis d’une pondération de risque de 0 % selon le par. 53 de l’approche standard de Bâle II;
+- a.[^15a-4] ils sont assortis d’une pondération en fonction des risques de 0 % selon l’annexe 2, ch. 1 ou 3.2, OFR;
 - b. en cas de créances garanties, il existe soit une garantie expresse, irrévocable et inconditionnelle d’un gouvernement central ou d’une collectivité territoriale subordonnée, soit la responsabilité solidaire de plusieurs collectivités territoriales;
-- c. il ne s’agit pas d’engagements d’un établissement financier au sens de l’annexe 1, ni d’une société liée à un établissement financier. Font exception les emprunts émis par des établissements financiers qui ont été créés par un gouvernement central ou par le gouvernement d’une collectivité territoriale subordonnée et ont pour but d’accorder, sur mandat de l’État, des prêts incitatifs sur une base non concurrentielle et à des fins non lucratives.
+- c. il ne s’agit pas d’engagements d’un établissement financier au sens de l’annexe 1*a*[^15a-5], ni d’une société liée à un établissement financier. Font exception les emprunts émis par des établissements financiers qui ont été créés par un gouvernement central ou par le gouvernement d’une collectivité territoriale subordonnée et ont pour but d’accorder, sur mandat de l’État, des prêts incitatifs sur une base non concurrentielle et à des fins non lucratives.
 
 <sup>3</sup> Les actifs de la catégorie 1 sont évalués à la valeur actuelle de marché.
 
-[^15a-1]: Comité de Bâle sur le contrôle bancaire – Bâle II: Convergence internationale de la mesure et des normes de fonds propres. Dispositif révisé. Version compilée; disponible sous: www.bis.org &gt; Monetary & financial stability &gt; Basel Committee on Banking Supervision &gt; Basel III &gt; Related Information Basel II - June 2006 (comprehensive version)
+[^15a-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15a-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-5]: Nouvelle expression selon l’annexe ch. 3 al. 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 15b
 
@@ -280,24 +295,24 @@ Les actifs de la catégorie 2a comprennent les actifs suivants:
   - 6\. des banques multilatérales de développement;
 
 - a<sup>bis</sup>. titres négociables garantis par des institutions selon liste sous let. a;
-- b. emprunts d’entreprises négociables, y compris les papiers monétaires, à condition qu’ils aient été émis par des sociétés ne constituant pas, seules ou comme entités liées, un établissement financier au sens de l’annexe 1;
-- c.[^15b-2] titres de créance couverts et négociables de droit spécial qui n'ont pas été émis par la banque elle-même, ni par un autre établissement financier au sens de l’annexe 1 qui lui est lié; les lettres de gage émises par les centrales d’émission en vertu de la loi du 25 juin 1930 sur l’émission des lettres de gages (LLG)[^15b-3] peuvent être prises en compte.
+- b. emprunts d’entreprises négociables, y compris les papiers monétaires, à condition qu’ils aient été émis par des sociétés ne constituant pas, seules ou comme entités liées, un établissement financier au sens de l’annexe 1*a*;
+- c.[^15b-2] titres de créance couverts et négociables de droit spécial qui n’ont pas été émis par la banque elle-même, ni par un autre établissement financier au sens de l’annexe 1*a* qui lui est lié; les lettres de gage émises par les centrales d’émission en vertu de la loi du 25 juin 1930 sur l’émission des lettres de gages (LLG)[^15b-3] peuvent être prises en compte.
 
 <sup>2</sup>
 
 Les titres négociables au sens de l’al. 1, let. a et a<sup>bis</sup>, ne peuvent être pris en compte dans la catégorie 2a que s’ils remplissent les conditions suivantes:
 
-- a. ils sont assortis d’une pondération de risque de 20 % au plus selon le par. 53 de l’approche standard de Bâle II;
-- b. il ne s’agit pas d’engagements d’un établissement financier au sens de l’annexe 1, ni d’une société liée à un établissement financier. Font exception les emprunts émis par des établissements financiers qui ont été créés par un gouvernement central ou par le gouvernement d’une collectivité territoriale subordonnée et ont pour but d’accorder, sur mandat de l’État, des prêts incitatifs sur une base non concurrentielle et à des fins non lucratives.
+- a.[^15b-4] ils sont assortis d’une pondération en fonction des risques de 20 % au maximum selon l’annexe 2, ch. 1 à 3, OFR[^15b-5];
+- b. il ne s’agit pas d’engagements d’un établissement financier au sens de l’annexe 1*a*, ni d’une société liée à un établissement financier. Font exception les emprunts émis par des établissements financiers qui ont été créés par un gouvernement central ou par le gouvernement d’une collectivité territoriale subordonnée et ont pour but d’accorder, sur mandat de l’État, des prêts incitatifs sur une base non concurrentielle et à des fins non lucratives.
 
 <sup>3</sup>
 
 Les emprunts d’entreprises au sens de l’al. 1, let. b, et les titres de créance couverts au sens de l’al. 1, let. c, peuvent être pris en compte dans la catégorie 2a:
 
-- a. s’ils bénéficient d’une notation à long terme des classes de notation 1 ou 2 selon l’annexe 2 de l’OFR[^15b-4];
-- b. s’ils bénéficient, en l’absence d’une telle notation, d’une notation à court terme de qualité équivalente attribuée par une agence de notation reconnue par la FINMA;
+- a. s’ils bénéficient d’une notation à long terme des classes de notation 1 ou 2 selon l’annexe 2 de l’OFR[^15b-6];
+- b.[^15b-7] s’ils bénéficient d’une notation à court terme de la classe de notation 1 selon l’art. 64*a*, al. 2, OFR;
 - c. s’ils servent à couvrir des sorties de trésorerie à l’étranger et bénéficient d’une notation de qualité équivalente aux exigences des let. a ou b attribuée par une agence de notation reconnue par l’autorité de surveillance nationale concernée, ou
-- d. si, sans bénéficier d’une notation au sens des let. a à c, ils ont fait l’objet d’une évaluation interne ayant établi que leur probabilité de défaillance est équivalente à celle résultant d’une notation des classes de notation 1 ou 2 selon l’annexe 2 de l’OFR.[^15b-5]
+- d. si, sans bénéficier d’une notation au sens des let. a à c, ils ont fait l’objet d’une évaluation interne ayant établi que leur probabilité de défaillance est équivalente à celle résultant d’une notation des classes de notation 1 ou 2 selon l’annexe 2 de l’OFR.[^15b-8]
 
 <sup>4</sup> Les actifs de la catégorie 2a sont évalués à la valeur actuelle de marché avec une décote de 15 %.
 
@@ -306,15 +321,18 @@ Les emprunts d’entreprises au sens de l’al. 1, let. b, et les titres de cré
 La FINMA peut désigner d’autres actifs de la catégorie 2 (actifs de la catégorie 2b), à condition qu’ils:
 
 - a. aient fait la preuve qu’ils constituent une source fiable de liquidités sur les marchés repo ou au comptant, même en période de tensions, et qu’ils
-- b. n’aient pas été émis par un établissement financier au sens de l’annexe 1, ni par une société liée à un établissement financier.
+- b. n’aient pas été émis par un établissement financier au sens de l’annexe 1*a*, ni par une société liée à un établissement financier.
 
 <sup>6</sup> Les actifs de la catégorie 2b sont évalués à la valeur actuelle de marché avec une décote d’au moins 50 %.
 
 [^15b-1]: Abrogés par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^15b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^15b-3]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^15b-4]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^15b-5]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15b-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15b-5]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15b-6]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15b-7]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15b-8]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 15c
 
@@ -471,7 +489,7 @@ La FINMA règle:
 
 <sup>1</sup> La FINMA détermine la forme et le contenu des formulaires servant à justifier le respect du LCR (justificatif de liquidité). Elle peut prévoir des allégements pour les banques des catégories 4 et 5 au sens de l’annexe 3 de l’OB[^17c-2].
 
-<sup>2</sup> Les banques se fondent, pour l'évaluation des positions indiquées dans le justificatif de liquidité, sur la clôture établie selon les prescriptions comptables.
+<sup>2</sup> Les banques se fondent, pour l’évaluation des positions indiquées dans le justificatif de liquidité, sur la clôture établie selon les prescriptions comptables.
 
 <sup>3</sup> Les banques qui ne sont pas d’importance systémique remettent le justificatif de liquidité à la BNS mensuellement, dans les 20 jours suivant le dernier jour du mois. La FINMA peut fixer à la demande d’une banque, dans des cas justifiés, une moindre fréquence des annonces.
 
@@ -482,7 +500,7 @@ La FINMA règle:
 La FINMA fixe des obligations d’annoncer spéciales pour les banques qui:
 
 - a. détiennent des positions dans des devises significatives au sens de l’art. 17*a*, al. 1;
-- b. se financent dans une mesure importante auprès de succursales à l'étranger, conformément à l’art. 14, al. 5.
+- b. se financent dans une mesure importante auprès de succursales à l’étranger, conformément à l’art. 14, al. 5.
 
 <sup>6</sup> Elle peut exiger, dans le justificatif de liquidité, des annonces supplémentaires concernant des actifs ayant une incidence sur les liquidités qui ne sont pas des HQLA.
 
@@ -509,11 +527,11 @@ La FINMA peut fixer, pour les sorties et entrées de trésorerie entre une soci�
 
 [^17e-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
-## Section 2*a* Exigences quantitatives: ratio de financement
+### Section 2*a* Exigences quantitatives: ratio de financement
 
-[^chap4-1]
+[^chap3-sec2a-1]
 
-[^chap4-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec2a-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17f
 
@@ -572,7 +590,7 @@ S’agissant des établissements individuels faisant partie de groupes financier
 Les créances et les engagements ne peuvent être compensés entre eux que:
 
 - a. si l’opération de financement garantie est conclue avec une seule et même contrepartie, et
-- b. si les conditions énoncées au par. 33(i) du dispositif de Bâle régissant le ratio d’endettement maximal *(leverage ratio)*[^17i-2] sont remplies.
+- b.[^17i-2] si les conditions énoncées au ch. 30.37 des normes minimales de Bâle relatives au ratio d’endettement maximal (*leverage ratio*, LEV) dans leur teneur selon l’annexe 1, ch. 7, OFR[^17i-3], sont remplies.
 
 <sup>4</sup>
 
@@ -583,7 +601,8 @@ La FINMA édicte des dispositions d’exécution pour le calcul:
 - c. des opérations de financement garanties sans limitation de durée.
 
 [^17i-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17i-2]: Comité de Bâle sur le contrôle bancaire (2014), Bâle III: ratio de levier et exigences de publicité; disponible sous www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+[^17i-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17i-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 17j
 
@@ -593,14 +612,16 @@ La FINMA édicte des dispositions d’exécution pour le calcul:
 
 <sup>2</sup> Les créances découlant d’opérations sur dérivés se calculent à l’aide des valeurs de remplacement positives des contrats en cours au prix du marché.
 
-<sup>3</sup> S’il existe entre la banque et sa contrepartie des accords de compensation qui remplissent les conditions énoncées aux par. 8 et 9 de l’annexe du dispositif de Bâle régissant le *leverage ratio*[^17j-2], les valeurs de remplacement nettes sont déterminantes pour les opérations sur dérivés couvertes par ces accords.
+<sup>3</sup> S’il existe entre la banque et sa contrepartie des accords de compensation qui remplissent les conditions énoncées au ch. 30 LEV dans leur teneur selon l’annexe 1, ch. 7, OFR[^17j-2], les valeurs de remplacement nettes sont déterminantes pour les opérations sur dérivés couvertes par ces accords.[^17j-3]
 
 <sup>4</sup> Lors du calcul des engagements découlant d’opérations sur dérivés, les garanties déposées sous la forme de marges variables doivent être déduites du montant de la valeur de remplacement négative, quel que soit le type de garantie.
 
-<sup>5</sup> Lors du calcul des créances découlant d’opérations sur dérivés, les garanties reçues ne peuvent pas être déduites du montant de la valeur de remplacement positive, à moins que la banque ait reçu des garanties provenant de marges variables sous la forme d’actifs de la catégorie 1 au sens de l’art. 15*a* et que les autres conditions énoncées au par. 25 du dispositif de Bâle régissant le *leverage ratio* soient remplies.
+<sup>5</sup> Lors du calcul des créances découlant d’opérations sur dérivés, les garanties reçues ne peuvent pas être déduites du montant de la valeur de remplacement positive, à moins que la banque ait reçu des garanties provenant de marges variables sous la forme d’actifs de la catégorie 1 au sens de l’art. 15*a* et que les autres conditions énoncées au ch. 30 LEV dans leur teneur selon l’annexe 1, ch. 7, OFR soient remplies.[^17j-4]
 
 [^17j-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17j-2]: Comité de Bâle sur le contrôle bancaire (2014), Bâle III: ratio de levier et exigences de publicité; disponible sous www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+[^17j-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17j-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17j-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 17k
 
@@ -645,9 +666,9 @@ Le montant du RSF se calcule:
 - a. en affectant les valeurs comptables des actifs et des positions hors bilan aux catégories RSF prévues à l’annexe 5 et en les pondérant en les multipliant par le coefficient RSF correspondant, et
 - b. en additionnant les valeurs comptables pondérées selon la let. a pour toutes les catégories RSF.
 
-<sup>2</sup> La valeur comptable des actifs et des positions hors bilan est calculée selon la valeur indiquée dans les comptes. Il faut tenir compte des corrections de valeur selon le par. 52 de l’approche standard de Bâle II et le par. 12 du dispositif de Bâle régissant le *leverage ratio*[^17m-2].
+<sup>2</sup> La valeur comptable des actifs et des positions hors bilan est calculée selon la valeur indiquée dans les comptes. Il est tenu compte des corrections de valeur selon le ch. 20.1 des normes minimales de Bâle relatives au calcul des positions pondérées en fonction des risques de crédit (*calculation of RWA for credit risk*, CRE) dans la teneur de l’annexe 1, ch. 4, OFR[^17m-2] et selon le ch. 30 LEV dans la teneur de l’annexe 1, ch. 7, OFR.[^17m-3]
 
-<sup>3</sup> Lors du calcul de la valeur comptable des créances hypothécaires non grevées sur l’objet d’habitation selon l’annexe 5, ch. 5.1, la totalité des actifs mis en gage à titre de sûretés pour les prêts sur lettre de gage au sens de la LLG[^17m-3] doit être déduite.
+<sup>3</sup> Lors du calcul de la valeur comptable des créances hypothécaires non grevées sur l’objet d’habitation selon l’annexe 5, ch. 5.1 et 5.1*a*, la totalité des actifs mis en gage à titre de sûretés pour les prêts sur lettre de gage au sens de la LLG[^17m-4] doit être déduite.[^17m-5]
 
 <sup>4</sup> Le calcul de la valeur comptable des créances hypothécaires grevées et de la durée pour laquelle elles sont grevées se fonde sur la valeur comptable et la durée résiduelle des prêts à couvrir.
 
@@ -656,8 +677,10 @@ Le montant du RSF se calcule:
 <sup>6</sup> À la demande de la BNS, elle peut réduire temporairement les coefficients RSF de certaines opérations si cela permet d’éviter une entrave sérieuse à la mise en œuvre de la politique monétaire.
 
 [^17m-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17m-2]: Comité de Bâle sur le contrôle bancaire (2014), Bâle III: ratio de levier et exigences de publicité; disponible sous www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
-[^17m-3]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^17m-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17m-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17m-4]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^17m-5]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 17n
 
@@ -747,9 +770,9 @@ La FINMA peut déterminer des coefficients ASF et RSF différents de ceux prévu
 
 ### Section 2*b* Simplification pour les banques particulièrement liquides et bien capitalisées des catégories 4 et 5
 
-[^chap4-sec1-1]
+[^chap3-sec2b-1]
 
-[^chap4-sec1-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec2b-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17t
 
@@ -786,9 +809,9 @@ Les banques communiquent à la FINMA, dans le cadre du système d’annonce gén
 
 ### Section 4 Paramètres d’observation
 
-[^chap4-sec2a-1]
+[^chap3-sec4-1]
 
-[^chap4-sec2a-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec4-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 18a
 
@@ -796,9 +819,9 @@ La FINMA peut collecter, parallèlement aux données concernant le LCR et le NSF
 
 ### Section 5 Tâches de la société d’audit
 
-[^chap4-sec3-1]
+[^chap3-sec5-1]
 
-[^chap4-sec3-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec5-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 18b
 
@@ -873,7 +896,7 @@ Sur le total du calcul ci-après, 30 % peuvent être pris en compte en tant qu�
 
 - a. créances hypothécaires que la banque tient à disposition en tant que sûretés pour recourir à une aide extraordinaire fournie par la BNS sous forme de liquidités et qui répondent aux exigences de la BNS concernant les sûretés de ce type;
 - b. moins les décotes fixées par la BNS pour les créances hypothécaires visées à la let. a;
-- c. moins 5 % de l’engagement total de la banque selon l’art. 46, al. 2, OFR.
+- c.[^20a-4] moins 5 % de l’engagement total de la banque selon l’art. 42*a* OFR.
 
 <sup>5</sup> Les HQLA qui ne sont pas pris en compte selon l’art. 15*c*, al. 8, et les autres HQLA visés aux al. 1 et 2 du présent article qu’une succursale ou une entité consolidée détient pour respecter les exigences locales en matière de liquidités peuvent être comptabilisés dans l’encours des actifs de la banque qui peuvent être pris en compte, pour autant que cette succursale ou entité consolidée contribue au besoin de liquidités de la banque résultant des exigences particulières en matière de liquidités.
 
@@ -882,6 +905,7 @@ Sur le total du calcul ci-après, 30 % peuvent être pris en compte en tant qu�
 [^20a-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 [^20a-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^20a-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^20a-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 20b
 
@@ -900,9 +924,9 @@ La banque respecte les exigences arrêtées dans le présent chapitre lorsque:
 
 ### Section 2 Exigences de base
 
-[^chap5-sec2-1]
+[^chap4-sec2-1]
 
-[^chap5-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^chap4-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 21
 
@@ -947,9 +971,9 @@ Les titres visés à l’annexe 8 peuvent être pris en compte au titre des exig
 
 ### Section 2*a* Exigences supplémentaires spécifiques à l’établissement
 
-[^chap5-sec2a-1]
+[^chap4-sec2a-1]
 
-[^chap5-sec2a-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^chap4-sec2a-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 25
 
@@ -1084,11 +1108,38 @@ La FINMA consulte la BNS aux fins de l’exécution de la présente ordonnance.
 
 Annexe 1[^t-2]
 
+(art. 1*a*, al. 2)
+
+## Normes minimales de Bâle
+
+[^t-2]: Introduite par l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+Disponibles sous [www.sif.admin.ch](http://www.sif.admin.ch) &gt; Politique et stratégie en matière de marchés financiers &gt; Réglementation des marchés financiers &gt; Normes minimales de Bâle
+
+<table>
+<tr><th>Chiffre</th><th>Titre</th><th>Date de référence</th></tr>
+<tr><td>1.</td><td>Liquidity Coverage Ratio (LCR)</td><td></td></tr>
+<tr><td>Ch. 10 LCR:</td><td>Definitions and application</td><td>31.01.2022</td></tr>
+<tr><td>Ch. 20 LCR:</td><td>Calculation</td><td>31.05.2023</td></tr>
+<tr><td>Ch. 30 LCR:</td><td>High-quality liquid assets</td><td>31.01.2022</td></tr>
+<tr><td>Ch. 31 LCR:</td><td>Alternative liquidity approaches</td><td>31.01.2022</td></tr>
+<tr><td>Ch. 40 LCR:</td><td>Cash inflows and outflows</td><td>31.05.2023</td></tr>
+<tr><td>Ch. 90 LCR:</td><td>Transition</td><td>31.01.2022</td></tr>
+<tr><td>Ch. 99 LCR:</td><td>Application guidance</td><td>31.01.2022</td></tr>
+<tr><td>2.</td><td>Net stable funding ratio (NSF)</td><td></td></tr>
+<tr><td>Ch. 10 NSF:</td><td>Definitions and application</td><td>31.01.2022</td></tr>
+<tr><td>Ch. 20 NSF:</td><td>Calculation and reporting</td><td>31.01.2022</td></tr>
+<tr><td>Ch. 30 NSF:</td><td>Available and required stable finding</td><td>31.01.2022</td></tr>
+<tr><td>Ch. 99 NSF:</td><td>Definitions and applications</td><td>31.01.2022</td></tr>
+</table>
+
+Annexe 1a[^t-3]
+
 (art. 15*a*, al. 2, let. c, et 15*b*, al. 2, let. b)
 
 ## Établissement financier
 
-[^t-2]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^t-3]: Anciennement annexe 1. Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par les ch. I et II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 A. Sont réputées établissements financiers les entreprises fournissant un ou plusieurs des services qui sont énumérés ci-dessous par domaine:
 
@@ -1118,22 +1169,20 @@ A. Sont réputées établissements financiers les entreprises fournissant un ou 
 
   - 2\.7 Participation à des émissions de titres de toutes natures et fourniture de services en rapport avec ces émissions
   - 2\.8 Courtage monétaire
-  - 2\.9 Conservation et administration de titres[^annex1-lvlu1-1]
+  - 2\.9 Conservation et administration de titres
   - 2\.10 *Private equity* et véhicules similaires servant à l’acquisition de participations
 
 B. Sont également réputées établissements financiers les structures de holding dont le périmètre de consolidation inclut des prestataires de services visés à la let. A.
 
 C. Ne sont pas réputées établissements financiers les filiales de financement d’établissements non financiers qui ne possèdent pas de licence bancaire et exercent une ou plusieurs des activités susmentionnées exclusivement pour le compte de sociétés du groupe.
 
-[^annex1-lvlu1-1]: Nouvelle expression selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Il a été tenu compte de cette mod. dans tout le texte.
-
-Annexe 2[^t-3]
+Annexe 2[^t-4]
 
 (art. 16, al. 3)
 
 ## Sorties de trésorerie et taux de sortie
 
-[^t-3]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), le ch. II al. 1 de l’O du 11 sept. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) et l’annexe ch. 3 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-4]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par les ch. I et II de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), le ch. II al. 1 de l’O du 11 sept. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)), l’annexe ch. 3 de l’O du 23 nov. 2022 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)) et l’annexe ch. 3 al. 2 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th>Catégories de sorties</th><th>Taux de sortie (en pour‑cent)</th></tr>
@@ -1161,9 +1210,9 @@ Annexe 2[^t-3]
 <tr><td>3.1 Opérations de financement garanties avec la BNS, couvertes par des actifs de la catégorie 2*b* ou des actifs qui ne sont pas des actifs HQLA («actifs non HQLA»), ainsi que swaps de sûretés incluant l’échange d’actifs de la même catégorie et non dénoués</td><td>0</td></tr>
 <tr><td>3.2 Opérations de financement garanties par des actifs de la catégorie 2b ou des actifs non HQLA, avec comme contrepartie:</td><td></td></tr>
 <tr><td>– soit le propre gouvernement central ou des banques multilatérales de développement</td><td></td></tr>
-<tr><td>– soit des collectivités territoriales nationales subordonnées et d’autres corporations de droit public présentant une pondération de risque de 20 % au plus</td><td>25</td></tr>
+<tr><td>– soit des collectivités territoriales nationales subordonnées et d’autres corporations de droit public présentant une pondération en fonction des risques de 20 % au plus</td><td>25</td></tr>
 <tr><td>3.3 Swaps de sûretés incluant l’échange d’actifs de la catégorie 2b contre des actifs de la catégorie 2a</td><td>[tab] 35</td></tr>
-<tr><td>3.4 Opérations de financement garanties, couvertes par des actifs de la catégorie 2b et qui n’ont pas été conclues avec comme contrepartie le propre gouvernement central, des banques multilatérales de développement ou des corporations de droit public nationales présentant une pondération de risque de 20 % au plus</td><td>[tab] 50</td></tr>
+<tr><td>3.4 Opérations de financement garanties, couvertes par des actifs de la catégorie 2b et qui n’ont pas été conclues avec comme contrepartie le propre gouvernement central, des banques multilatérales de développement ou des corporations de droit public nationales présentant une pondération en fonction des risques de 20 % au plus</td><td>[tab] 50</td></tr>
 <tr><td>3.5 Swaps de sûretés incluant l’échange d’actifs de la catégorie 2b contre des actifs de la catégorie 1 ou celui d’actifs non HQLA contre des actifs de la catégorie 2b</td><td>50</td></tr>
 <tr><td>3.6 Swaps de sûretés incluant l’échange d’actifs non HQLA contre des actifs de la catégorie 2a</td><td>85</td></tr>
 <tr><td>3.7 Toutes les autres opérations de financement garanties par des actifs non HQLA et tous les autres swaps de sûretés incluant l’échange d’actifs non HQLA contre des actifs de la catégorie 1</td><td>100</td></tr>
@@ -1220,13 +1269,13 @@ Annexe 2[^t-3]
 <tr><td>15. Sorties de trésorerie internes à un groupe (établissement individuel seulement)</td><td>100</td></tr>
 </table>
 
-Annexe 3[^t-4]
+Annexe 3[^t-5]
 
 (art. 16, al. 5)
 
 ## Entrées de trésorerie et taux d’entrée
 
-[^t-4]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) et le ch. II al. 1 de l’O 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-5]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) et le ch. II al. 1 de l’O 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Catégories d’entrées</th><th>Taux d’entrée (en pour-cent)</th></tr>
@@ -1251,13 +1300,13 @@ Annexe 3[^t-4]
 <tr><td>7. Entrées de trésorerie intragroupe dans les 30 jours (établissement individuel seulement)</td><td colspan="3">100</td></tr>
 </table>
 
-Annexe 4[^t-5]
+Annexe 4[^t-6]
 
 (art. 17*k*)
 
 ## Coefficients de pondération du financement stable disponible (ASF)
 
-[^t-5]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-6]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Catégorie ASF</th><th>Coefficient de pondération (en %)</th></tr>
@@ -1285,13 +1334,13 @@ Annexe 4[^t-5]
 
 [^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
-Annexe 5[^t-6]
+Annexe 5[^t-7]
 
 (art. 17*m*)
 
 ## Coefficients de pondération du financement stable exigé (RSF)
 
-[^t-6]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Mise à jour par l’erratum du 21 juin 2021 ([RO 2022 366](https://fedlex.data.admin.ch/eli/oc/2022/366)) et le ch. II de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-7]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Mise à jour par le ch. II de l’O du 3 juin 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)), l’erratum du 21 juin 2022 ([RO 2022 366](https://fedlex.data.admin.ch/eli/oc/2022/366)) et l’annexe ch. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th colspan="3">Catégorie RSF</th><th colspan="2">Coefficient de pondération (en %)</th></tr>
@@ -1321,15 +1370,18 @@ Annexe 5[^t-6]
 <tr><td colspan="3">4.3 Tous les dépôts auprès d’établissements financiers, prêts à ces établissements et créances sur les banques centrales ayant une durée résiduelle égale ou supérieure à six mois et inférieure à un an</td><td colspan="2">50</td></tr>
 <tr><td colspan="3">4.4 Dépôts opérationnels auprès d’autres établissements financiers se voyant appliquer un coefficient ASF de 50 % selon la catégorie ASF 5.2</td><td colspan="2">50</td></tr>
 <tr><td colspan="3">4.5 Tous les autres actifs ayant une durée résiduelle inférieure à un an, qui ne sont pas grevés ou qui sont grevés pour une durée inférieure à un an</td><td colspan="2">50</td></tr>
-<tr><td colspan="3">5.1 Créances hypothécaires non grevées sur objet d’habitation, ayant une durée résiduelle égale ou supérieure à un an et une pon-dération de risque inférieure ou égale à 35 % selon l’approche standard de Bâle II concernant les risques de crédit</td><td colspan="2">65</td></tr>
+<tr><td colspan="3">5.1 Créances hypothécaires non grevées sur objet d’habitation, ayant une quotité de financement de 60 % au maximum, une durée résiduelle égale ou supérieure à un an et une pondération en fonction des risques de 35 % au maximum selon l’annexe 3, ch. 3.1 et 3.2, OFR[^annex5-lvlu1-1] en relation avec les art. 66*a* et 72*c*, al. 6, OFR</td><td colspan="2">65</td></tr>
+<tr><td colspan="3">5.1*a* 85 % des créances hypothécaires non grevées sur objet d’habitation, ayant une quotité de financement supérieure à 60 %, une durée résiduelle égale ou supérieure à un an et une pondération en fonction des risque de 35 % au maximum selon l’annexe 3, ch. 3.1, OFR en relation avec les art. 66*a* et 72*c*, al. 6, OFR</td><td colspan="2">65</td></tr>
 <tr><td colspan="3">5.2 Tous les autres dépôts et prêts non grevés:</td><td colspan="2">65</td></tr>
 <tr><td colspan="3">a. ayant une durée résiduelle égale ou supérieure à un an;</td><td colspan="2"></td></tr>
-<tr><td colspan="3">b. ayant une pondération de risque inférieure ou égale à 35 % selon l’approche standard de Bâle II concernant les risques de crédit;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">b. ayant une pondération en fonction des risque de 35 % au maximum selon les annexes 2 ou 3 de l’OFR;</td><td colspan="3"></td></tr>
 <tr><td colspan="3">c. ne figurant pas dans les catégories RSF 2, 3.4, 4.3 ou 4.4, et</td><td colspan="3"></td></tr>
 <tr><td colspan="3">d. ne constituant pas des dépôts auprès d’établissements financiers ni des prêts à ces établissements.</td><td colspan="3"></td></tr>
-<tr><td colspan="3">5.3 Actifs grevés pendant une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 5.1 et 5.2</td><td colspan="3">65</td></tr>
+<tr><td colspan="3">5.3 Actifs grevés pendant une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 5.1, 5.1*a* et 5.2</td><td colspan="3">65</td></tr>
 <tr><td colspan="3">6.1 Marges initiales d’opérations sur dérivés versées en espèces, en titres ou en d’autres actifs et contributions en espèces ou en d’autres actifs au fonds de défaillance d’une contrepartie centrale, sauf si les marges initiales d’opérations sur dérivés versées en titres ou en d’autres actifs se voient appliquer un coefficient RSF plus élevé. Dans ce cas, c’est le coefficient plus élevé qui s’applique</td><td colspan="3">85</td></tr>
-<tr><td colspan="3">6.2 Autres dépôts et prêts non grevés qui ne sont pas en souffrance, ayant une pondération de risque supérieure à 35 % selon l’approche standard de Bâle II concernant les risques de crédit et une durée résiduelle égale ou supérieure à un an, hors dépôts auprès d’établissements financiers et prêts à ces établissements</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">6.1*a* Créances hypothécaires non grevées sur objet d’habitation, ayant une durée résiduelle égale ou supérieure à un an et une pondération en fonction des risque supérieure à 35 % selon l’annexe 3, ch. 3.1 et 3.2, OFR en relation avec les art. 66*a* et 72*c*, al. 6, OFR</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">6.1*b* 15 % des créances hypothécaires non grevées sur objet d’habitation, ayant une quotité de financement supérieure à 60 %, une durée résiduelle égale ou supérieure à un an et une pondération en fonction des risque de 35 % au maximum selon l’annexe 3, ch. 3.1, OFR en relation avec les art. 66*a* et 72*c*, al. 6, OFR</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">6.2 Autres dépôts et prêts non grevés qui ne sont pas en souffrance, ayant une pondération en fonction des risque supérieure à 35 % selon l’annexe 2 ou 3 de l’OFR et une durée résiduelle égale ou supérieure à un an, hors dépôts auprès d’établissements financiers et prêts à ces établissements</td><td colspan="3">85</td></tr>
 <tr><td colspan="3">6.3 Titres non grevés ayant une durée résiduelle d’au moins un an, qui ne sont pas en défaut et ne remplissent pas les critères des HQLA, y compris les actions négociées en bourse, pour autant qu’ils ne figurent pas dans la catégorie RSF 4.1</td><td colspan="3">85</td></tr>
 <tr><td colspan="3">6.4 Matières premières négociées physiquement, y compris les métaux précieux</td><td colspan="3">85</td></tr>
 <tr><td colspan="3">6.5 Actifs grevés pendant une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 6.1 à 6.4</td><td></td><td colspan="2">85</td></tr>
@@ -1353,13 +1405,15 @@ Annexe 5[^t-6]
 <tr><td colspan="3">9.2 Engagements conditionnels découlant de garanties et de lettres de crédit non liés à des financements de transactions commerciales</td><td colspan="3">5 % de l’encours nominal</td></tr>
 </table>
 
-Annexe 6[^t-7]
+[^annex5-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+Annexe 6[^t-8]
 
 (art. 23, al. 3)
 
 ## Sorties de trésorerie et taux de sortie des banques d’importance systémique sur une période de 31 à 90 jours
 
-[^t-7]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-8]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th>Catégories de sorties</th><th>Taux de sortie (en %)</th></tr>
@@ -1380,13 +1434,13 @@ Annexe 6[^t-7]
 <tr><td>– avec une échéance résiduelle ou un préavis de retrait de 61 à 90 jours</td><td>50</td></tr>
 </table>
 
-Annexe 7[^t-8]
+Annexe 7[^t-9]
 
 (art. 23, al. 3)
 
 ## Entrées de trésorerie et taux d’entrée des banques d’importance systémique sur une période de 31 à 90 jours
 
-[^t-8]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-9]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th>Catégories d’entrées</th><th>Taux d’entrée (en %)</th></tr>
@@ -1401,23 +1455,23 @@ Annexe 7[^t-8]
 <tr><td>– de 61 à 90 jours</td><td>50</td></tr>
 </table>
 
-Annexe 8[^t-9]
+Annexe 8[^t-10]
 
 (art. 24)
 
 ## Titres pouvant être pris en compte par les banques d’importance systémique
 
-[^t-9]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-10]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th>Titres</th><th>Décote (en %)</th></tr>
 <tr><td>1. Titres ayant valeur de créances sur un gouvernement central, une banque centrale, une collectivité territoriale subordonnée, mais autonome sur le plan budgétaire et habilitée à lever des impôts, ou une autre corporation de droit public, la Banque des règlements internationaux, le Fonds monétaire international, la Banque centrale européenne, l’Union européenne ou des banques multilatérales de développement, si ces titres:</td><td></td></tr>
 <tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA en vertu de l’art. 15*d*</td><td>25</td></tr>
 <tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA pour d’autres motifs</td><td>60</td></tr>
-<tr><td>2. Emprunts d’entreprises, y compris les papiers monétaires, à condition qu’ils aient été émis par des sociétés ne constituant pas, seules ou comme entités liées, un établissement financier au sens de l’annexe 1, si ces instruments:</td><td></td></tr>
+<tr><td>2. Emprunts d’entreprises, y compris les papiers monétaires, à condition qu’ils aient été émis par des sociétés ne constituant pas, seules ou comme entités liées, un établissement financier au sens de l’annexe 1*a*, si ces instruments:</td><td></td></tr>
 <tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA en vertu de l’art. 15*d*</td><td>25</td></tr>
 <tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA pour d’autres motifs</td><td>60</td></tr>
-<tr><td>3. Titres de créance couverts qui n’ont pas été émis par la banque elle-même, ni par un autre établissement financier au sens de l’annexe 1 qui lui est lié, si ces titres de créance:</td><td></td></tr>
+<tr><td>3. Titres de créance couverts qui n’ont pas été émis par la banque elle-même, ni par un autre établissement financier au sens de l’annexe 1*a* qui lui est lié, si ces titres de créance:</td><td></td></tr>
 <tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA en vertu de l’art. 15*d*</td><td>25</td></tr>
 <tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA pour d’autres motifs</td><td>60</td></tr>
 <tr><td>4. Actions, si elles:</td><td></td></tr>

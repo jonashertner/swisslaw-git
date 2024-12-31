@@ -4,11 +4,11 @@ title: "Verordnung vom 30. November 2012 über die Liquidität der Banken und We
 short: LiqV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20230101/de"
 
 (Liquiditätsverordnung, LiqV)[^t-1]
 
-vom 30. November 2012 (Stand am 1. Januar 2023)
+vom 30. November 2012 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 11 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -42,6 +42,17 @@ verordnet:
 <sup>2</sup> Die FINMA erlässt technische Ausführungsbestimmungen.
 
 [^1-1]: Fassung gemäss Anhang 1 Ziff. II 11 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+#### Art. 1a
+
+**Basler Mindeststandards**[^1a-1]
+
+<sup>1</sup> Als Basler Mindeststandards gelten in dieser Verordnung diejenigen Dokumente des Basler Ausschusses für Bankenaufsicht, die diese Verordnung für massgebend erklärt, insbesondere für die Berechnung der Liquiditätsanforderungen.
+
+<sup>2</sup> Die jeweils massgebende Fassung der Basler Mindeststandards ist in Anhang 1 sowie in Anhang 1 der Eigenmittelverordnung vom 1. Juni 2012[^1a-2] (ERV) aufgeführt.
+
+[^1a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^1a-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 2
 
@@ -187,11 +198,12 @@ Die FINMA regelt:
 - b. inwieweit bei Finanzgruppen mit Holdingstruktur die Obergesellschaft als Einzelinstitut von der Erfüllung der LCR befreit werden kann;
 - c.[^14-2] inwieweit für Banken der Kategorien 4 und 5 nach Anhang 3 der Bankenverordnung vom 30. April 2014[^14-3] (BankV) Erleichterungen beim Nachweis zur Erfüllung der LCR vorgesehen werden können.
 
-<sup>4</sup> Sie kann im Einzelfall:
+<sup>4</sup>
 
-a.[^14-4] von der aufsichtsrechtlichen Konsolidierungspflicht nach Artikel 7 der Eigenmittelverordnung vom 1. Juni 2012[^14-5] (ERV) abweichende Anordnungen erlassen, wenn dies erforderlich ist, um zusätzliche, aus Liquiditätsrisikoperspektive massgebliche Beteiligungen zu erfassen;
+Sie kann im Einzelfall:
 
-b. höhere Anforderungen an die LCR einer Bank stellen, wenn dies wegen deren Geschäftsaktivitäten, den eingegangenen Liquiditätsrisiken, der Geschäftsstrategie, der Qualität des Liquiditätsrisikomanagements oder des Entwicklungsstands der verwendeten Techniken notwendig ist.
+- a.[^14-4] von der aufsichtsrechtlichen Konsolidierungspflicht nach Artikel 7 der Eigenmittelverordnung vom 1. Juni 2012[^14-5] (ERV) abweichende Anordnungen erlassen, wenn dies erforderlich ist, um zusätzliche, aus Liquiditätsrisikoperspektive massgebliche Beteiligungen zu erfassen;
+- b. höhere Anforderungen an die LCR einer Bank stellen, wenn dies wegen deren Geschäftsaktivitäten, den eingegangenen Liquiditätsrisiken, der Geschäftsstrategie, der Qualität des Liquiditätsrisikomanagements oder des Entwicklungsstands der verwendeten Techniken notwendig ist.
 
 <sup>5</sup> Finanziert sich ein Einzelinstitut zu einem bedeutenden Teil über Niederlassungen im Ausland, so kann die FINMA von ihm zusätzlich verlangen, die LCR zu berechnen, ohne die erwarteten Zuflüsse aus diesen Niederlassungen in die Berechnung einzubeziehen. Basierend auf ihrer Risikoeinschätzung kann sie in diesem Fall weitere Anforderungen an die Erfüllung der LCR festlegen.[^14-6]
 
@@ -246,21 +258,25 @@ Aktiva der Kategorie 1 umfassen folgende Vermögenswerte:
   - 8\. multilateralen Entwicklungsbanken;
 
 - c<sup>bis</sup>. marktgängige Wertpapiere, die von den Institutionen nach Buchstabe c garantiert werden;
-- d. marktgängige Wertpapiere, die Forderungen gegenüber einer Zentralregierung oder einer Zentralbank in Landeswährung darstellen, die von der betreffenden Zentralregierung oder der Zentralbank in dem Land, in dem das Liquiditätsrisiko anfällt, oder im Herkunftsland der Bank begeben werden, wenn die Zentralregierung ein Risikogewicht von mehr als 0 Prozent nach Absatz 53 des Standardansatzes unter Basel II[^15a-2] aufweist; sowie
-- e. marktgängige Wertpapiere, die Forderungen gegenüber der Eidgenossenschaft oder der Schweizerischen Nationalbank (SNB) in Fremdwährung darstellen, bis zur Höhe des stressbedingten Nettomittelabflusses in der betreffenden Fremdwährung, in der das Liquiditätsrisiko eingegangen wird; dies gilt auch dann, wenn das Risikogewicht der Schweiz mehr als 0 Prozent nach Absatz 53 des Standardansatzes unter Basel II beträgt.
+- d.[^15a-2] marktgängige Wertpapiere, die Forderungen gegenüber einer Zentralregierung oder einer Zentralbank in Landeswährung darstellen, die von der betreffenden Zentralregierung oder der Zentralbank in dem Land, in dem das Liquiditätsrisiko anfällt, oder im Herkunftsland der Bank begeben werden, wenn die Zentralregierung ein Risikogewicht von mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV[^15a-3] aufweist; sowie
+- e.[^15a-4] marktgängige Wertpapiere, die Forderungen gegenüber der Eidgenossenschaft oder der Schweizerischen Nationalbank (SNB) in Fremdwährung darstellen, bis zur Höhe des stressbedingten Nettomittelabflusses in der betreffenden Fremdwährung, in der das Liquiditätsrisiko eingegangen wird; dies gilt auch dann, wenn das Risikogewicht der Schweiz mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV beträgt.
 
 <sup>2</sup>
 
 Die marktgängigen Wertpapiere nach Absatz 1 Buchstaben c und c<sup>bis</sup> können nur der Kategorie 1 zugerechnet werden, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a. Sie weisen ein Risikogewicht von 0 Prozent nach Absatz 53 des Standardansatzes unter Basel II auf.
+- a.[^15a-5] Sie weisen ein Risikogewicht von 0 Prozent nach Anhang 2 Ziffer 1 oder 3.2 ERV auf.
 - b. Bei garantierten Forderungen ist entweder die Garantie einer Zentralregierung oder einer untergeordneten Gebietskörperschaft ausdrücklich, unwiderruflich und unbedingt oder eine solidarische Haftung mehrerer Gebietskörperschaften gegeben.
-- c. Es handelt sich nicht um eine Verbindlichkeit eines Finanzinstituts nach Anhang 1 oder einer mit einem Finanzinstitut verbundenen Gesellschaft. Ausgenommen hiervon sind Anleihen von Finanzinstituten, die von einer Zentralregierung oder von einer Regierung einer untergeordneten Gebietskörperschaft eingerichtet wurden, um in staatlichem Auftrag auf nicht-wettbewerblicher, nicht-gewinnorientierter Basis Förderdarlehen zu vergeben.
+- c. Es handelt sich nicht um eine Verbindlichkeit eines Finanzinstituts nach Anhang 1*a*[^15a-6] oder einer mit einem Finanzinstitut verbundenen Gesellschaft. Ausgenommen hiervon sind Anleihen von Finanzinstituten, die von einer Zentralregierung oder von einer Regierung einer untergeordneten Gebietskörperschaft eingerichtet wurden, um in staatlichem Auftrag auf nicht-wettbewerblicher, nicht-gewinnorientierter Basis Förderdarlehen zu vergeben.
 
 <sup>3</sup> Aktiva der Kategorie 1 werden zum aktuellen Marktwert bewertet.
 
 [^15a-1]: Ausdruck gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^15a-2]: Basler Ausschuss für Bankenaufsicht – Basel II: International Convergence of Capital Measurement and Capital Standards A Revised Framework Comprehensive Version; abrufbar unter: www.bis.org &gt; Monetary & financial stability &gt; Basel Committee on Banking Supervision &gt; Basel III &gt; Related Information Basel II – June 2006 (comprehensive version)
+[^15a-2]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-3]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15a-4]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-5]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-6]: Ausdruck gemäss Anhang Ziff. 3 Abs. 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 15b
 
@@ -281,31 +297,44 @@ Aktiva der Kategorie 2a umfassen folgende Vermögenswerte:
   - 6\. multilateralen Entwicklungsbanken;
 
 - a<sup>bis</sup> marktgängige Wertpapiere, die von den Institutionen nach Buchstabe a garantiert werden;
-- b. marktgängige Unternehmensanleihen einschliesslich Geldmarktpapiere, wenn diese von Gesellschaften emittiert wurden, die weder allein noch verbunden mit anderen als Finanzinstitut nach Anhang 1 gelten; und
-- c.[^15b-2] marktgängige, spezialgesetzlich gedeckte Schuldverschreibungen, die nicht von der Bank selbst oder einem mit ihr verbundenen anderen Finanzinstitut nach Anhang 1 emittiert wurden; Pfandbriefanleihen, begeben durch die Pfandbriefzentralen nach dem Pfandbriefgesetz vom 25. Juni 1930[^15b-3] (PfG), können angerechnet werden.
-- [tab] <sup>2</sup> Die marktgängigen Wertpapiere nach Absatz 1 Buchstaben a und a<sup>bis</sup> können nur der Kategorie 2a zugerechnet werden, wenn sie die folgenden Voraussetzungen erfüllen:
-- a. Sie weisen ein Risikogewicht von höchstens 20 Prozent gemäss Absatz 53 des Standardansatzes unter Basel II auf.
-- b. Es handelt sich nicht um eine Verbindlichkeit eines Finanzinstituts nach Anhang 1 oder einer mit einem Finanzinstitut verbundenen Gesellschaft. Ausgenommen hiervon sind Anleihen von Finanzinstituten, die von einer Zentralregierung oder von einer Regierung einer untergeordneten Gebietskörperschaft eingerichtet wurden, um in staatlichem Auftrag auf nicht-wettbewerblicher, nicht-gewinnorientierter Basis Förderdarlehen zu vergeben.
+- b. marktgängige Unternehmensanleihen einschliesslich Geldmarktpapiere, wenn diese von Gesellschaften emittiert wurden, die weder allein noch verbunden mit anderen als Finanzinstitut nach Anhang 1*a* gelten; und
+- c.[^15b-2] marktgängige, spezialgesetzlich gedeckte Schuldverschreibungen, die nicht von der Bank selbst oder einem mit ihr verbundenen anderen Finanzinstitut nach Anhang 1*a* emittiert wurden; Pfandbriefanleihen, begeben durch die Pfandbriefzentralen nach dem Pfandbriefgesetz vom 25. Juni 1930[^15b-3] (PfG), können angerechnet werden.
+
+<sup>2</sup>
+
+Die marktgängigen Wertpapiere nach Absatz 1 Buchstaben a und a<sup>bis</sup> können nur der Kategorie 2a zugerechnet werden, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a.[^15b-4] Sie weisen ein Risikogewicht von höchstens 20 Prozent nach Anhang 2 Ziffern 1–3 ERV[^15b-5] auf.
+- b. Es handelt sich nicht um eine Verbindlichkeit eines Finanzinstituts nach Anhang 1*a* oder einer mit einem Finanzinstitut verbundenen Gesellschaft. Ausgenommen hiervon sind Anleihen von Finanzinstituten, die von einer Zentralregierung oder von einer Regierung einer untergeordneten Gebietskörperschaft eingerichtet wurden, um in staatlichem Auftrag auf nicht-wettbewerblicher, nicht-gewinnorientierter Basis Förderdarlehen zu vergeben.
 
 <sup>3</sup>
 
 Die Unternehmensanleihen nach Absatz 1 Buchstabe b und die gedeckten Schuldverschreibungen nach Absatz 1 Buchstabe c können der Kategorie 2a zugerechnet werden, wenn sie:
 
-- a. mindestens über ein langfristiges Rating der Ratingklassen 1 oder 2 nach Anhang 2 der ERV[^15b-4] verfügen;
-- b. sofern kein solches Rating vorliegt, über ein gleichwertiges kurzfristiges Rating einer von der FINMA anerkannten Ratingagentur verfügen;
+- a.[^15b-6] über ein langfristiges Rating der Ratingklassen 1 oder 2 nach Anhang 2 ERV verfügen;
+- b.[^15b-7] über ein Kurzfrist-Rating der Ratingklasse 1 nach Artikel 64*a* Absatz 2 ERV verfügen;
 - c. zur Deckung von Abflüssen im Ausland dienen und über ein Rating einer von der jeweiligen nationalen Aufsichtsbehörde anerkannten Ratingagentur verfügen, das einem Rating nach Buchstabe a oder b gleichwertig ist; oder
-- d. über kein Rating nach den Buchstaben a–c verfügen, aber institutsintern mit einer Ausfallwahrscheinlichkeit bewertet werden, die einem Rating der Ratingklassen 1 oder 2 nach Anhang 2 ERV gleichkommt.[^15b-5]
-- [tab] <sup>4</sup> Aktiva der Kategorie 2a werden zum aktuellen Marktwert mit einem Wertabschlag von 15 Prozent bewertet.
-- [tab] <sup>5</sup> Die FINMA kann weitere Aktiva der Kategorie 2 (Aktiva der Kategorie 2b) bezeichnen, sofern diese:
+- d. über kein Rating nach den Buchstaben a–c verfügen, aber institutsintern mit einer Ausfallwahrscheinlichkeit bewertet werden, die einem Rating der Ratingklassen 1 oder 2 nach Anhang 2 ERV gleichkommt.[^15b-8]
+
+<sup>4</sup> Aktiva der Kategorie 2a werden zum aktuellen Marktwert mit einem Wertabschlag von 15 Prozent bewertet.
+
+<sup>5</sup>
+
+Die FINMA kann weitere Aktiva der Kategorie 2 (Aktiva der Kategorie 2b) bezeichnen, sofern diese:
+
 - a. sich nachweislich selbst unter angespannten Marktbedingungen an den Repo- oder Kassamärkten als eine verlässliche Liquiditätsquelle erwiesen haben; und
-- b. nicht von einem Finanzinstitut nach Anhang 1 oder einer mit einem Finanzinstitut verbundenen Gesellschaft emittiert worden sind.
-- [tab] <sup>6</sup> Aktiva der Kategorie 2b werden zum aktuellen Marktwert bewertet und erfahren einen Wertabschlag von mindestens 50 Prozent.
+- b. nicht von einem Finanzinstitut nach Anhang 1*a* oder einer mit einem Finanzinstitut verbundenen Gesellschaft emittiert worden sind.
+
+<sup>6</sup> Aktiva der Kategorie 2b werden zum aktuellen Marktwert bewertet und erfahren einen Wertabschlag von mindestens 50 Prozent.
 
 [^15b-1]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^15b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^15b-3]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^15b-4]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^15b-5]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15b-4]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15b-5]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15b-6]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15b-7]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15b-8]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 15c
 
@@ -563,7 +592,7 @@ Für Einzelinstitute, die zu einer Finanzgruppe gehören, kann die FINMA zulasse
 Forderungen und Verbindlichkeiten dürfen nur miteinander verrechnet werden, wenn:
 
 - a. es sich um ein besichertes Finanzierungsgeschäft mit ein und derselben Gegenpartei handelt; und
-- b. die Bedingungen nach Absatz 33(i) des Basler Regelwerks zur Höchstverschuldungsquote *(Leverage Ratio)*[^17i-2] erfüllt sind.
+- b.[^17i-2] die Bedingungen nach Ziffer 30.37 des Basler Mindeststandards zur Höchstverschuldungsquote (LEV) in der Fassung nach Anhang 1 Ziffer 7 ERV[^17i-3] erfüllt sind.
 
 <sup>4</sup>
 
@@ -574,7 +603,8 @@ Die FINMA erlässt Ausführungsbestimmungen für die Berechnung:
 - c. von besicherten Finanzierungsgeschäften ohne Laufzeitbeschränkung.
 
 [^17i-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17i-2]: Basler Ausschuss für Bankenaufsicht (2014): Basel III Leverage Ratio Framework and Disclosure Requirements; abrufbar unter www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+[^17i-2]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17i-3]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 17j
 
@@ -584,14 +614,16 @@ Die FINMA erlässt Ausführungsbestimmungen für die Berechnung:
 
 <sup>2</sup> Forderungen aus Derivatgeschäften berechnen sich anhand der positiven Wiederbeschaffungswerte der ausstehenden Kontrakte zum Marktpreis.
 
-<sup>3</sup> Bestehen Verrechnungsvereinbarungen zwischen der Bank und ihrer Gegenpartei, die die Bedingungen der Absätze 8 und 9 im Anhang des Basler Regelwerks zur Leverage Ratio[^17j-2] erfüllen, so sind für die durch diese Vereinbarungen gedeckten Derivategeschäfte die Netto-Wiederbeschaffungswerte massgeblich.
+<sup>3</sup> Bestehen Verrechnungsvereinbarungen zwischen der Bank und ihrer Gegenpartei, die die Bedingungen nach Ziffer 30 LEV in der Fassung nach Anhang 1 Ziffer 7 ERV[^17j-2] erfüllen, so sind für die durch diese Vereinbarungen gedeckten Derivatgeschäfte die Netto-Wiederbeschaffungswerte massgeblich.[^17j-3]
 
 <sup>4</sup> Bei der Berechnung der Verbindlichkeiten aus Derivatgeschäften sind die in Form von Nachschusszahlungen hinterlegten Sicherheiten unabhängig von der Art der Sicherheit vom Betrag des negativen Wiederbeschaffungswerts abzuziehen.
 
-<sup>5</sup> Bei der Berechnung der Forderungen aus Derivatgeschäften dürfen keine erhaltenen Sicherheiten vom Betrag des positiven Wiederbeschaffungswerts abgezogen werden, es sei denn, die Bank hat Sicherheiten aus Nachschusszahlungen in Form von Aktiva der Kategorie 1 nach Artikel 15*a* erhalten und die weiteren Bedingungen nach Absatz 25 des Basler Regelwerks zur Leverage Ratio sind erfüllt.
+<sup>5</sup> Bei der Berechnung der Forderungen aus Derivatgeschäften dürfen keine erhaltenen Sicherheiten vom Betrag des positiven Wiederbeschaffungswerts abgezogen werden, es sei denn, die Bank hat Sicherheiten aus Nachschusszahlungen in Form von Aktiva der Kategorie 1 nach Artikel 15*a* erhalten und die weiteren Bedingungen nach Ziffer 30 LEV in der Fassung nach Anhang 1 Ziffer 7 ERV sind erfüllt.[^17j-4]
 
 [^17j-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17j-2]: Basler Ausschuss für Bankenaufsicht (2014): Basel III Leverage Ratio Framework and Disclosure Requirements; abrufbar unter www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+[^17j-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17j-3]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17j-4]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 17k
 
@@ -636,9 +668,9 @@ Der Betrag der RSF berechnet sich, indem:
 - a. die Buchwerte der Aktiva und Ausserbilanzpositionen den RSF-Kategorien nach Anhang 5 zugewiesen und durch Multiplikation mit dem jeweiligen RSF-Faktor gewichtet werden; und
 - b. die nach Buchstabe a gewichteten Buchwerte über alle RSF-Kategorien addiert werden.
 
-<sup>2</sup> Der Buchwert der Aktiva und Ausserbilanzpositionen berechnet sich nach ihrem im Abschluss ausgewiesenen Wert. Wertberichtigungen sind nach Absatz 52 des Standardansatzes unter Basel II und Absatz 12 des Basler Regelwerks zur Leverage Ratio[^17m-2] zu berücksichtigen.
+<sup>2</sup> Der Buchwert der Aktiva und Ausserbilanzpositionen berechnet sich nach ihrem im Abschluss ausgewiesenen Wert. Wertberichtigungen sind nach Ziffer 20.1 des Basler Mindeststandards zur Berechnung der nach Risiko gewichteten Positionen für Kreditrisiken (CRE) in der Fassung nach Anhang 1 Ziffer 4 ERV[^17m-2] und nach Kapitel 30 LEV in der Fassung nach Anhang 1 Ziffer 7 ERV zu berücksichtigen.[^17m-3]
 
-<sup>3</sup> Bei der Berechnung des Buchwerts von lastenfreien Hypothekarforderungen für Wohnliegenschaften nach Anhang 5 Ziffer 5.1 sind die als Sicherheiten für Pfandbriefdarlehen nach PfG[^17m-3] verpfändeten Aktiven gesamthaft in Abzug zu bringen.
+<sup>3</sup> Bei der Berechnung des Buchwerts von lastenfreien Hypothekarforderungen für Wohnliegenschaften nach Anhang 5 Ziffern 5.1 und 5.1a sind die als Sicherheiten für Pfandbriefdarlehen nach dem PfG[^17m-4] verpfändeten Aktiven gesamthaft in Abzug zu bringen.[^17m-5]
 
 <sup>4</sup> Bei der Berechnung des Buchwerts von belasteten Hypothekarforderungen und der Dauer ihrer Belastung ist vom Buchwert und der Restlaufzeit der zu sichernden Pfandbriefdarlehen auszugehen.
 
@@ -647,8 +679,10 @@ Der Betrag der RSF berechnet sich, indem:
 <sup>6</sup> Sie kann auf Antrag der SNB die RSF-Faktoren von bestimmten Geschäften temporär reduzieren, soweit damit einer massgeblichen Erschwerung der Umsetzung der Geldpolitik entgegengewirkt werden kann.
 
 [^17m-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17m-2]: Basler Ausschuss für Bankenaufsicht (2014): Basel III Leverage Ratio Framework and Disclosure Requirements; abrufbar unter www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
-[^17m-3]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^17m-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17m-3]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^17m-4]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^17m-5]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 17n
 
@@ -864,7 +898,7 @@ Von der Summe gemäss folgender Berechnung sind 30 Prozent als Vermögenswert an
 
 - a. Hypothekarforderungen, die die Bank als Sicherheiten für den Bezug einer ausserordentlichen Liquiditätshilfe der SNB bereithält und die die Anforderungen der SNB an solche Sicherheiten erfüllen;
 - b. abzüglich der von der SNB vorgegebenen Wertabschläge auf den Hypothekarforderungen nach Buchstabe a;
-- c. abzüglich fünf Prozent des Gesamtengagements der Bank nach Artikel 46 Absatz 2 ERV.
+- c.[^20a-4] abzüglich 5 Prozent des Gesamtengagements der Bank nach Artikel 42*a* ERV.
 
 <sup>5</sup> HQLA, die nach Artikel 15*c* Absatz 8 nicht angerechnet werden, und weitere HQLA nach den Absätzen 1 und 2 des vorliegenden Artikels, die eine Niederlassung oder eine konsolidierte Einheit zur Erfüllung der lokalen Liquiditätsanforderungen hält, dürfen so weit an den Bestand der anrechenbaren Vermögenswerte der Bank angerechnet werden, als diese Niederlassung oder Einheit zum Liquiditätsbedarf der Bank beiträgt, der sich aus den besonderen Liquiditätsanforderungen ergibt.
 
@@ -873,6 +907,7 @@ Von der Summe gemäss folgender Berechnung sind 30 Prozent als Vermögenswert an
 [^20a-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 [^20a-2]: Fassung gemäss Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^20a-3]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^20a-4]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 20b
 
@@ -1075,11 +1110,38 @@ Die FINMA zieht die SNB beim Vollzug dieser Verordnung beratend bei.
 
 Anhang 1[^t-2]
 
+(Art. 1*a* Abs. 2)
+
+## Basler Mindeststandards
+
+[^t-2]: Eingefügt durch Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+Abrufbar unter [www.sif.admin.ch](http://www.sif.admin.ch) &gt; Finanzmarktpolitik und -strategie &gt; Finanzmarktregulierung &gt; Basler Mindeststandards
+
+<table>
+<tr><th>Ziffer</th><th>Titel</th><th>Referenzdatum</th></tr>
+<tr><td>**1.**</td><td>**Liquidity Coverage Ratio (LCR)**</td><td></td></tr>
+<tr><td>Ziffer 10 LCR:</td><td>Definition and application</td><td>31.01.2022</td></tr>
+<tr><td>Ziffer 20 LCR:</td><td>Calculation</td><td>31.05.2023</td></tr>
+<tr><td>Ziffer 30 LCR:</td><td>High-quality liquid assets</td><td>31.01.2022</td></tr>
+<tr><td>Ziffer 31 LCR:</td><td>Alternative liquidity approaches</td><td>31.01.2022</td></tr>
+<tr><td>Ziffer 40 LCR:</td><td>Cash inflows and outflows</td><td>31.05.2023</td></tr>
+<tr><td>Ziffer 90 LCR:</td><td>Transition</td><td>31.01.2022</td></tr>
+<tr><td>Ziffer 99 LCR:</td><td>Application guidance</td><td>31.01.2022</td></tr>
+<tr><td>**2.**</td><td>**Net stable funding ratio (NSF)**</td><td></td></tr>
+<tr><td>Ziffer 10 NSF:</td><td>Definition and applications</td><td>31.01.2022</td></tr>
+<tr><td>Ziffer 20 NSF:</td><td>Calculation and reporting</td><td>31.01.2022</td></tr>
+<tr><td>Ziffer 30 NSF:</td><td>Available and required stable finding</td><td>31.01.2022</td></tr>
+<tr><td>Ziffer 99 NSF:</td><td>Definitions and applications</td><td>31.01.2022</td></tr>
+</table>
+
+Anhang 1a[^t-3]
+
 (Art. 15*a* Abs. 2 Bst. c und 15*b* Abs. 2 Bst. b)
 
 ## Finanzinstitut
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^t-3]: Ursprünglich: Anhang 1. Eingefügt durch Ziff. II der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
 A. Als Finanzinstitut gelten Unternehmen, die eine oder mehrere der untenstehenden Dienstleistungen in folgenden Bereichen erbringen:
 
@@ -1113,13 +1175,13 @@ B. Als Finanzinstitut gelten auch Holdingstrukturen, in denen Anbieter von Diens
 
 C. Nicht als Finanzinstitut gelten Finanzierungstöchter von Nicht-Finanzinstituten, die über keine Bankenbewilligung verfügen und die eine oder mehrere der oben genannten Tätigkeiten ausschliesslich für Konzerngesellschaften erbringen.
 
-Anhang 2[^t-3]
+Anhang 2[^t-4]
 
 (Art. 16 Abs. 3)
 
 ## Mittelabflüsse und Abflussraten
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), Ziff. II Abs. 1 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) und Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-4]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), Ziff. II Abs. 1 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) und Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th>Abflusskategorien</th><th></th><th>Abflussrate (in Prozent)</th></tr>
@@ -1207,13 +1269,13 @@ Anhang 2[^t-3]
 <tr><td>15. Gruppeninterne Mittelabflüsse (nur für Einzelinstitut)</td><td></td><td>100</td></tr>
 </table>
 
-Anhang 3[^t-4]
+Anhang 3[^t-5]
 
 (Art. 16 Abs. 5)
 
 ## Mittelzuflüsse und Zuflussraten
 
-[^t-4]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) und Ziff. II Abs. 1 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-5]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) und Ziff. II Abs. 1 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Zuflusskategorien</th><th></th><th>Zuflussrate (in Prozent)</th></tr>
@@ -1238,13 +1300,13 @@ Anhang 3[^t-4]
 <tr><td>7. Gruppeninterne Mittelzuflüsse innert 30 Kalendertagen (nur für Einzelinstitut)</td><td></td><td>100</td></tr>
 </table>
 
-Anhang 4[^t-5]
+Anhang 4[^t-6]
 
 (Art. 17*k*)
 
 ## Gewichtungsfaktoren der verfügbaren stabilen Finanzierung (ASF)
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>ASF-Kategorien</th><th>Gewichtungsfaktor (in Prozent)</th></tr>
@@ -1272,13 +1334,13 @@ Anhang 4[^t-5]
 
 [^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
-Anhang 5[^t-6]
+Anhang 5[^t-7]
 
 (Art. 17*m*)
 
 ## Gewichtungsfaktoren der erforderlichen stabilen Finanzierung (RSF)
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Bereinigt gemäss Ziff. II der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-7]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Bereinigt gemäss Ziff. II der V vom 3. Juni 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)) und Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th>RSF-Kategorien</th><th>Gewichtungsfaktor (in %)</th></tr>
@@ -1309,15 +1371,17 @@ Anhang 5[^t-6]
 <tr><td>4.3 Sämtliche Einlagen bei Finanzinstituten, Ausleihungen an diese sowie Forderungen gegenüber Zentralbanken mit einer Restlaufzeit von mindestens sechs Monaten und weniger als einem Jahr</td><td>50</td></tr>
 <tr><td>4.4 Operative Einlagen bei anderen Finanzinstituten auf die ein ASF-Faktor von 50 % nach ASF-Kategorie 5.2 angewendet wird</td><td>50</td></tr>
 <tr><td>4.5 Alle übrigen Aktiva mit einer Restlaufzeit von weniger als einem Jahr, welche lastenfrei oder für weniger als ein Jahr belastet sind.</td><td>50</td></tr>
-<tr><td>5.1 Lastenfreie Hypothekarforderungen für Wohnliegenschaften mit einer Restlaufzeit von einem Jahr oder mehr und einem Risikogewicht von 35 % oder weniger nach dem Standardansatz unter Basel II für Kreditrisiken</td><td>65</td></tr>
-<tr><td>[tab]</td><td></td></tr>
+<tr><td>5.1 Lastenfreie Hypothekarforderungen für Wohnliegenschaften mit einem Belehnungsgrad von maximal 60 % sowie mit einer Restlaufzeit von einem Jahr oder mehr und einem Risikogewicht von maximal 35 % nach Anhang 3 Ziffern 3.1 und 3.2 ERV[^annex5-lvlu1-1] in Verbindung mit den Artikeln 66*a* und 72*c* Absatz 6 ERV</td><td>65</td></tr>
+<tr><td>5.1*a* 85 % der lastenfreien Hypothekarforderungen für Wohnliegenschaften mit einem Belehnungsgrad von über 60 % sowie mit einer Restlaufzeit von einem Jahr oder mehr und einem Risikogewicht von maximal 35 % nach Anhang 3 Ziffer 3.1 ERV in Verbindung mit den Artikeln 66*a* und 72*c* Absatz 6 ERV</td><td>65</td></tr>
 <tr><td>5.2 Alle übrigen lastenfreien Einlagen sowie Ausleihungen:</td><td>65</td></tr>
-<tr><td>a. mit einer Restlaufzeit von einem Jahr oder mehr; b. mit einem Risikogewicht von 35 % oder weniger nach dem Standardansatz unter Basel II für Kreditrisiken;</td><td></td></tr>
+<tr><td>a. mit einer Restlaufzeit von einem Jahr oder mehr; b. mit einem Risikogewicht von maximal 35 % nach Anhang 2 oder 3 ERV;</td><td></td></tr>
 <tr><td>c. die nicht unter die RSF-Kategorien 2, 3.4, 4.3 oder 4.4 fallen; und</td><td></td></tr>
 <tr><td>d. die weder Einlagen bei Finanzinstituten noch Ausleihungen an diese darstellen.</td><td></td></tr>
-<tr><td>5.3 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 5.1 und 5.2 fielen, wenn sie lastenfrei wären</td><td>65</td></tr>
+<tr><td>5.3 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 5.1, 5.1*a* und 5.2 fielen, wenn sie lastenfrei wären</td><td>65</td></tr>
 <tr><td>6.1 In bar, in Wertpapieren oder anderen Aktiva einbezahlte Ersteinschussmargen für Derivatgeschäfte und in bar oder in anderen Aktiva einbezahlte Beträge an den Ausfallfonds einer zentralen Gegenpartei, es sei denn, die in Wertpapieren oder anderen Aktiva einbezahlten Ersteinschussmargen für Derivatgeschäfte erhalten einen höheren RSF-Faktor. In diesem Fall gilt der höhere RSF-Faktor</td><td>85</td></tr>
-<tr><td>6.2 Sonstige lastenfreie, nicht notleidende Einlagen sowie Ausleihungen mit einem Risikogewicht von mehr als 35 % nach dem Standardansatz unter Basel II für Kreditrisiken und mit einer Restlaufzeit von einem Jahr oder mehr, ohne Einlagen bei Finanzinstituten sowie Ausleihungen an diese</td><td>85</td></tr>
+<tr><td>6.1*a* Lastenfreie Hypothekarforderungen für Wohnliegenschaften mit einer Restlaufzeit von einem Jahr oder mehr und einem Risikogewicht von mehr als 35 % nach Anhang 3 Ziffern 3.1 und 3.2 ERV in Verbindung mit den Artikeln 66*a* und 72*c* Absatz 6 ERV</td><td>85</td></tr>
+<tr><td>6.1*b* 15 % der lastenfreien Hypothekarforderungen für Wohnliegenschaften mit einem Belehnungsgrad von über 60 % sowie mit einer Restlaufzeit von einem Jahr oder mehr und einem Risikogewicht von maximal 35 % nach Anhang 3 Ziffer 3.1 ERV in Verbindung mit den Artikeln 66*a* und 72*c* Absatz 6 ERV</td><td>85</td></tr>
+<tr><td>6.2 Sonstige lastenfreie, nicht notleidende Einlagen sowie Ausleihungen mit einem Risikogewicht von mehr als 35 % nach Anhang 2 oder 3 ERV und mit einer Restlaufzeit von einem Jahr oder mehr, ohne Einlagen bei Finanzinstituten sowie Ausleihungen an diese</td><td>85</td></tr>
 <tr><td>6.3 Lastenfreie, nicht ausgefallene Wertpapiere mit einer Restlaufzeit von mindestens einem Jahr, die nicht als HQLA zulässig sind, einschliesslich börsengehandelter Aktien, sofern sie nicht unter die RSF-Kategorie 4.1 fallen</td><td>85</td></tr>
 <tr><td>6.4 Physisch gehandelte Rohstoffe einschliesslich Edelmetallen</td><td>85</td></tr>
 <tr><td>6.5 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 6.1–6.4 fielen, wenn sie lastenfrei wären</td><td>85</td></tr>
@@ -1335,19 +1399,22 @@ Anhang 5[^t-6]
 <tr><td>g. Versicherungsvermögenswerte (*insurance assets*);</td><td></td></tr>
 <tr><td>h. Beteiligungen an Tochtergesellschaften;</td><td></td></tr>
 <tr><td>i. ausgefallene Wertpapiere.</td><td></td></tr>
+<tr><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>7.5 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 7.1–7.4 fielen, wenn sie lastenfrei wären</td><td>[tab] 100</td></tr>
 <tr><td>8 Bedingt widerrufliche sowie unwiderrufliche Kredit- und Liquiditätsfazilitäten für alle Kundinnen und Kunden</td><td>5 % des jeweils nicht in Anspruch genommenen Teils</td></tr>
 <tr><td>9.1 Eventualverpflichtungen im Zusammenhang mit Handelsfinanzierungen</td><td>0 % des ausstehenden Nominalbetrags</td></tr>
 <tr><td>9.2 Eventualverpflichtungen aus Garantien und Akkreditiven, die nicht mit Handelsfinanzierungen zusammenhängen</td><td>5 % des ausstehenden Nominalbetrags</td></tr>
 </table>
 
-Anhang 6[^t-7]
+[^annex5-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+Anhang 6[^t-8]
 
 (Art. 23 Abs. 3)
 
 ## Mittelabflüsse und Abflussraten bei systemrelevanten Banken im Zeitraum von Kalendertag 31 bis 90
 
-[^t-7]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-8]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th>Abflusskategorien</th><th>Abflussrate (in Prozent)</th></tr>
@@ -1368,13 +1435,13 @@ Anhang 6[^t-7]
 <tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>50</td></tr>
 </table>
 
-Anhang 7[^t-8]
+Anhang 7[^t-9]
 
 (Art. 23 Abs. 3)
 
 ## Mittelzuflüsse und Zuflussraten bei systemrelevanten Banken im Zeitraum von Kalendertag 31 bis 90
 
-[^t-8]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-9]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th>Zuflusskategorien</th><th>Zuflussrate (in Prozent)</th></tr>
@@ -1389,13 +1456,13 @@ Anhang 7[^t-8]
 <tr><td>– von 61 bis 90 Kalendertagen</td><td>50</td></tr>
 </table>
 
-Anhang 8[^t-9]
+Anhang 8[^t-10]
 
 (Art. 24)
 
 ## Anrechenbare Wertpapiere bei systemrelevanten Banken
 
-[^t-9]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-10]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th>Wertpapiere</th><th>Wertabschlag (in Prozent)</th></tr>
