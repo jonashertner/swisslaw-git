@@ -1,22 +1,22 @@
 ---
 canton: FR
 number: "820.62"
-title: "Ordonnance fixant la part cantonale aux coûts des prestations de soins aigus et de transition pour l'année 2024"
+title: "Ordonnance fixant la part cantonale aux coûts des prestations de soins aigus et de transition pour l'année 2025"
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-02-28
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-02-20
 adopted: 2025-02-10
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/820.62"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7743/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7964/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance fixant la part cantonale aux coûts des prestations de soins aigus et de transition pour l'année 2024
+# Ordonnance fixant la part cantonale aux coûts des prestations de soins aigus et de transition pour l'année 2025
 
-du 28.02.2023 (version entrée en vigueur le 01.01.2024)
+du 20.02.2024 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -28,6 +28,6 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> La part cantonale aux coûts des prestations de soins aigus et de transition est fixée à 55 % pour l'année 2024.
+<sup>1</sup> La part cantonale aux coûts des prestations de soins aigus et de transition est fixée à 55 % pour l'année 2025.
 
-2023\_025
+2024\_015

@@ -1,22 +1,22 @@
 ---
 canton: FR
 number: "820.62"
-title: Verordnung über den Kantonsanteil für das Jahr 2024 an den Kosten der Leistungen der Akut- und Übergangspflege
+title: Verordnung über den Kantonsanteil für das Jahr 2025 an den Kosten der Leistungen der Akut- und Übergangspflege
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-02-28
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-02-20
 adopted: 2025-02-10
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/820.62"
-pdf: "https://bdlf.fr.ch/api/de/versions/7743/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7964/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Kantonsanteil für das Jahr 2024 an den Kosten der Leistungen der Akut- und Übergangspflege
+# Verordnung über den Kantonsanteil für das Jahr 2025 an den Kosten der Leistungen der Akut- und Übergangspflege
 
-vom 28.02.2023 (Fassung in Kraft getreten am 01.01.2024)
+vom 20.02.2024 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -28,6 +28,6 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Der Kantonsanteil an den Kosten der Leistungen der Akut- und Übergangspflege für das Jahr 2024 beträgt 55 %.
+<sup>1</sup> Der Kantonsanteil an den Kosten der Leistungen der Akut- und Übergangspflege für das Jahr 2025 beträgt 55 %.
 
-2023\_025
+2024\_015
