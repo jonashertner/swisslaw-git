@@ -4,13 +4,12 @@ number: RiE 164.110
 title: Reglement über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen
 short: Lohnreglement
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2008-12-09
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20164.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6098/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Besoldung und Entschädigung
 
 (Lohnreglement)
 
-Vom 9. Dezember 2008 (Stand 1. Januar 2024)
+Vom 9. Dezember 2008 (Stand 1. Januar 2025)
 
 Der Gemeinderat Riehen,
 
@@ -493,7 +492,7 @@ E bedeutet: «erfüllt die Erwartungen teilweise».
 - a) das Mitarbeiterförderungssystem;
 - b) die Aufbewahrung der Leistungsbeurteilungen und Akteneinsicht;
 - c) die Ausrichtung von Anerkennungsprämien für betriebliche Verbesserungsvorschläge;
-- d) die Vergünstigung der Dienstwohnungen.
+- d) …
 
 ## VI. Rechtsmittel und Verfahren
 
