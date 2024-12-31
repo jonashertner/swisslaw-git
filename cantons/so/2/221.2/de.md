@@ -4,13 +4,12 @@ number: "221.2"
 title: Einführungsgesetz zur Schweizerischen Zivilprozessordnung
 short: EG ZPO
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-07-05
+version: 2025-01-01
+version_adopted: 2024-06-25
 adopted: 2010-03-10
 in_force: 2011-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/221.2"
-pdf: "https://bgs.so.ch/api/de/versions/4648/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5488/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4648/pdf_file"
 
 (EG ZPO)
 
-Vom 10.03.2010 (Stand 01.01.2018)
+Vom 10.03.2010 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -112,18 +111,18 @@ beschliesst:
   - 1\. Losbildung bei der Erbteilung (Art. 611 Abs. 2);
   - 2\. Anordnung der Art der Versteigerung von Erbschaftssachen (Art. 612 Abs. 3);
   - 3\. Anordnung der Inventaraufnahme bei der Nutzniessung (Art. 763);
-  - 4\. Hinterlegung von geschuldeten Beträgen durch den Grundpfandschuldner (Art. 861 Abs. 2);
+  - 4\. Hinterlegung von geschuldeten Beträgen durch den Grundpfandschuldner (Art. 851 Abs. 2);
   - 5\. …
   - 6\. Berichtigung von Grundbucheintragungen (Art. 977).
 - b) Obligationenrecht (OR)[^6-3]:
-  - 1\. Sicherheitsleistung bei der Schuldübernahme (Art. 175 Abs. 3);
+  - 1\. …
   - 2\. Anordnung der Untersuchung des Tieres bei Gewährsmängeln (Art. 202 Abs. 1);
   - 3\. Feststellung des Tatbestandes und Anordnung betreffend den Verkauf bei Bemängelung übersandter Sachen (Art. 204 Abs. 2 und 3);
-  - 4\. Ermächtigung eines Ehegatten oder eines Partners bzw. einer Partnerin zur Wohnungskündigung (Art. 266m Abs. 2 und 3);
+  - 4\. …
   - 5\. Anordnung betreffend Feststellung des Tatbestandes und den Verkauf von Kommissionsgütern (Art. 427 Abs. 1 und 3);
   - 6\. Anordnung betreffend die Versteigerung von Kommissionsgütern (Art. 435);
   - 7\. Anordnung betreffend Festsetzung des Tatbestandes, den Verkauf und die Hinterlegung von Frachtgütern (Art. 444 Abs. 2, 445 und 453 Abs. 1);
-  - 8\. Kraftloserklärung von Wertpapieren (Art. 971, 972, 977, 982 bis 988, 1072 bis 1080, 1098, 1143 Ziff. 19).
+  - 8\. …
 
 [^6-1]: Die Aufzählungen wurden gemäss RRB 2010/980 vom 1. Juni 2010 angepasst.
 [^6-2]: SR [210](https://db.clex.ch/link/Bund/210/de).
@@ -257,7 +256,7 @@ beschliesst:
 
 **6. Rechtshilfe**
 
-<sup>1</sup> Rechtshilfehandlungen auf Ersuchen ausländischer Gerichte richten nach Artikel 11 des Bundesgesetzes über das Internationale Privatrecht (IPRG)[^21-1].
+<sup>1</sup> Rechtshilfehandlungen auf Ersuchen ausländischer Gerichte richten sich nach Artikel 11 des Bundesgesetzes über das Internationale Privatrecht (IPRG) vom 18. Dezember 1987[^21-1].
 
 <sup>2</sup> Die Besorgung der Rechtshilfegesuche kann der Gerichtspräsident oder die Gerichtspräsidentin unter seiner bzw. ihrer Verantwortung dem Gerichtsschreiber, der Gerichtsschreiberin oder einem Mitarbeiter oder einer Mitarbeiterin mit entsprechender Ausbildung übertragen. Ergeben sich Nachteile aus der Übertragung, so kann das Obergericht diese aufheben oder einschränken.
 
