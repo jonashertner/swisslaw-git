@@ -4,17 +4,16 @@ number: "951.1"
 title: Kantonalbankgesetz (ZKBG)
 short: ZKBG
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 1997-09-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-951_1-1997_09_28-1998_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-951_1-1997_09_28-1998_01_01-127.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Kantonalbankgesetz<sup>12</sup>
+# Kantonalbankgesetz (ZKBG)<sup>21</sup>
 
 (vom 28. September 1997)[^t-1]
 
@@ -66,7 +65,7 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 <sup>4</sup> Der Bankrat erlässt ein Reglement über die Entschädigung, welches vom Kantonsrat zu genehmigen ist.
 
@@ -164,7 +163,7 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 **3**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 <sup>4</sup> Die Kommission verfügt über die Informationsrechte der Aufsichtskommissionen gemäss Kantonsratsgesetz[^12-1]. Die Bank erteilt der Kommission die Auskünfte und gibt ihr die Unterlagen heraus, die sie zur Erfüllung ihrer Aufgaben benötigt.<sup>17</sup>
 
@@ -206,9 +205,7 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 - 2\. die Oberaufsicht über die mit der Geschäftsführung betrauten Personen, namentlich im Hinblick auf die Befolgung der Gesetze und Reglemente,
 
-- 3\. die Wahl der Präsidentin oder des Präsidenten und der Stellvertreterin oder des Stellvertreters, der Sekretärin oder des Sekretärs des Bankrates sowie von zwei Ersatzleuten des Bankpräsidiums,
-
-- 4\. die Ernennung und Abberufung der Mitglieder der Generaldirektion und deren Stellvertreterinnen und Stellvertreter, der Leiterinnen und Leiter der Geschäftsstellen im Direktionsrang sowie der Chefinspektorin oder des Chefinspektors und der Stellvertreterin oder des Stellvertreters der Chefinspektorin oder des Chefinspektors,
+- 3\. die Wahl der Präsidentin oder des Präsidenten und der Stellvertreterin oder des Stellvertreters, der Sekretärin oder des Sekretärs des Bankrates sowie von zwei Ersatzleuten des Bankpräsidiums, 4.<sup>21</sup> die Ernennung und Abberufung der Mitglieder der Generaldirektion und von deren Stellvertreterinnen und Stellvertreter, der Leiterinnen und Leiter der Geschäftsstellen im Direktionsrang sowie der Leiterin oder des Leiters Audit und der Stellvertreterin oder des Stellvertreters der Leiterin oder des Leiters Audit,
 
 - 5\. das Antragsrecht für die Wahl der Revisionsstelle,
 
@@ -230,17 +227,15 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 § 15 a.<sup>7</sup> <sup>1</sup> Der Bankrat bildet Ausschüsse, welchen er Aufgaben im Bereich der Oberleitung und der Oberaufsicht überträgt. Die Aufgaben und Befugnisse werden im Organisationsreglement[^15-2] umschrieben.
 
-<sup>2</sup> Zu bilden sind insbesondere:
+<sup>2</sup> Zu bilden sind insbesondere:<sup>21</sup> 1. ein Prüfausschuss,
 
-- 1\. ein Prüfungsausschuss,
+- 2\. ein Entschädigungs- und Personalausschuss,
 
-- 2\. ein Entschädigungsausschuss,
-
-- 3\. ein Risiko-Management-Ausschuss, 4.<sup>14</sup> ein IT-Ausschuss.
+- 3\. ein Risikoausschuss, 4.<sup>14</sup> ein IT-Ausschuss.
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Die Mitglieder des Bankpräsidiums dürfen dem Prüfungsausschuss nicht angehören.
 
@@ -262,7 +257,7 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 § 17.<sup>15</sup> <sup>1</sup> Der Generaldirektion obliegt die Geschäftsführung der Bank.
 
-<sup>2</sup> Sie ist zuständig für die Ernennung und Entlassung des Kaders, mit Ausnahme desjenigen des Inspektorats.
+<sup>2</sup> Sie ist zuständig für die Ernennung und Entlassung des Kaders, mit Ausnahme desjenigen des Audits.<sup>21</sup>
 
 <sup>3</sup> Über die Organisation der Generaldirektion und die Zuständigkeit ihrer Mitglieder wird ein Reglement erlassen.
 
@@ -272,11 +267,11 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 <sup>2</sup> Die Revisionsstelle prüft, ob die Buchführung, die Jahresrechnung und die Gewinnverteilung den gesetzlichen Vorschriften entsprechen. Sie berichtet zuhanden des Kantonsrates schriftlich über das Ergebnis ihrer Prüfung und empfiehlt Abnahme, mit oder ohne Einschränkung, oder Rückweisung der Jahresrechnung. Sie erstattet den Spezialbericht im Sinne von § 12 Abs. 3 Ziff. 5 zuhanden der kantonsrätlichen Kommission. Als Prüfgesellschaft im Sinne von Art. 24 Abs. 1 des Bundesgesetzes vom 22. Juni 2007 über die Eidgenössische Finanzmarktaufsicht (FINMAG)[^15-3] führt sie die gemäss den Finanzmarktgesetzen vorgeschriebenen Prüfungen durch.
 
-**Inspektorat**
+**Audit**
 
-§ 19.<sup>8</sup> <sup>1</sup> Die interne Revision wird durch ein von der Generaldirektion unabhängiges, dem Bankrat direkt unterstelltes Inspektorat durchgeführt. Das Inspektorat berichtet dem Bankpräsidium und dem Prüfungsausschuss zuhanden des Bankrats.
+§ 19.<sup>21</sup> <sup>1</sup> Die interne Revision wird durch ein von der Generaldirektion unabhängiges, dem Bankrat direkt unterstelltes Audit durchgeführt. Das Audit berichtet dem Bankpräsidium und dem Prüfausschuss zuhanden des Bankrates.
 
-<sup>2</sup> Die Chefinspektorin oder der Chefinspektor ist zuständig für die Ernennung und Entlassung des ihr oder ihm unterstellten Kaders.
+<sup>2</sup> Die Leiterin oder der Leiter Audit ist zuständig für die Ernennung und Entlassung des ihr oder ihm unterstellten Kaders.
 
 [^15-1]: SR 220.
 [^15-2]: Nicht in LS.
@@ -316,7 +311,7 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 **7**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 [^hSiebterAbschnittH-1]: SR 220.
 
@@ -328,7 +323,7 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 **Verwendung der Dividende**
 
-§ 26 a.<sup>14</sup> Der Kanton verwendet die Dividende zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Dotationskapitals. Vom verbleibenden Betrag steht ein Drittel den politischen Gemeinden im Verhältnis zur Einwohnerzahl zu.
+§ 26 a.<sup>21</sup> Der Kanton verwendet die Dividende zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Dotationskapitals. Der verbleibende Betrag wird unter Anrechnung des Rohertrags der Ergänzungssteuer zur Umsetzung der Mindestbesteuerung grosser Unternehmensgruppen so aufgeteilt, dass dem Kanton zwei Drittel und den Gemeinden der restliche Betrag zusteht. Die Zuteilung an die politischen Gemeinden erfolgt im Verhältnis zur Einwohnerzahl.
 
 ### Neunter Abschnitt: Personalvorsorge
 
@@ -378,6 +373,8 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 <sup>20</sup> Fassung gemäss G vom 27. März 2023 (OS 78, 411; ABl 2022-12-02). In Kraft seit 1. Januar 2024.
 
+<sup>21</sup> Fassung gemäss G vom 9. September 2024 (OS 79, 474; ABl 2023-12-22). In Kraft seit 1. Januar 2025.
+
 **9**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
