@@ -3,20 +3,19 @@ canton: BL
 number: "850.21"
 title: Verordnung über die Konsultativkommission Sozialhilfe
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-12-04
+version: 2025-01-01
+version_adopted: 2024-12-03
 adopted: 2018-12-04
 in_force: 2019-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.21"
-pdf: "https://bl.clex.ch/api/de/versions/2312/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4057/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Konsultativkommission Sozialhilfe
 
-Vom 04.12.2018 (Stand 01.01.2019)
+Vom 04.12.2018 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft
 
@@ -60,7 +59,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die KKSH setzt sich zusammen aus der Vorsteherin oder dem Vorsteher der Finanz- und Kirchendirektion, je 1 Vertretung des Verbands Basellandschaftlicher Gemeinden («VBLG») und des Verbands für Sozialhilfe des Kantons Basel-Landschaft («VSO»), maximal 12 Vertretungen der Einwohnergemeinden, 3 Vertretungen des Kantonalen Sozialamtes sowie 1 Vertretung der Stabsstelle Gemeinden oder der Abteilung Gemeindefinanzen.
+<sup>1</sup> Die KKSH setzt sich zusammen aus der Vorsteherin oder dem Vorsteher der Finanz- und Kirchendirektion, je 1 Vertretung des Verbands Basellandschaftlicher Gemeinden («VBLG») und des Verbands für Sozialhilfe des Kantons Basel-Landschaft («VSO»), maximal 12 Vertretungen der Einwohnergemeinden, 3 Vertretungen des Kantonalen Sozialamts sowie 1 Vertretung des Fachbereichs Gemeinden.
 
 <sup>2</sup> Sie kann zu spezifischen Themen zuständige Personen der Kantonsverwaltung sowie weitere Personen zuziehen.
 
