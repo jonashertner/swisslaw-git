@@ -4,13 +4,12 @@ number: "861.514"
 title: Reglement über die Eigenleistungen im Rahmen des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf
 short: "Reglement Eigenleistung, RegE"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-15
+version: 2025-01-01
+version_adopted: 2024-11-29
 adopted: 2011-02-02
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.514"
-pdf: "https://bgs.zg.ch/api/de/versions/2515/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2644/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2515/pdf_file"
 
 (Reglement Eigenleistung, RegE)
 
-Vom 2. Februar 2011 (Stand 1. Januar 2024)
+Vom 2. Februar 2011 (Stand 1. Januar 2025)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -77,9 +76,9 @@ beschliesst:
 
 **Erwachsene mit Anspruch auf Ergänzungsleistungen mit Aufenthalt in einer stationären Einrichtung**
 
-<sup>1</sup> Die Eigenleistung für den Aufenthalt in einer stationären Einrichtung für Personen mit Behinderung (Behindertenwohnheime) beträgt Fr. 191.10 pro Kalendertag zuzüglich einer allfälligen Hilflosenentschädigung (HE) pro Aufenthaltstag.
+<sup>1</sup> Die Eigenleistung für den Aufenthalt in einer stationären Einrichtung für Personen mit Behinderung (Behindertenwohnheime) beträgt Fr. 196.50 pro Kalendertag zuzüglich einer allfälligen Hilflosenentschädigung (HE) pro Aufenthaltstag.
 
-<sup>1a</sup> Die Eigenleistung für den Aufenthalt in einer anderen stationären Einrichtung beträgt Fr. 137.65 pro Kalendertag zuzüglich einer allfälligen Hilflosenentschädigung (HE) pro Aufenthaltstag.
+<sup>1a</sup> Die Eigenleistung für den Aufenthalt in einer anderen stationären Einrichtung beträgt Fr. 141.60 pro Kalendertag zuzüglich einer allfälligen Hilflosenentschädigung (HE) pro Aufenthaltstag.
 
 <sup>2</sup> Die Herabsetzung der Eigenleistung bei Abwesenheit beträgt Fr. 30.– pro Tag.
 
