@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection de la population (OProP)
 short: OProP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/889"
 language: fr
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/889/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-889-20210101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/889/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-889-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20210101/fr"
 
 (OProP)
 
-du 11 novembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 novembre 2020 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -885,6 +885,16 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 <sup>3</sup> Les cantons demeurent responsables de la disponibilité et de la gestion technique des sirènes jusqu’au transfert.
 
 <sup>4</sup> Les cantons et les communes sont responsables de la résiliation des contrats de maintenance de leurs sirènes.
+
+#### Art. 63a
+
+**Disposition transitoire relative à la modification du 13 décembre 2024**[^63a-1]
+
+<sup>1</sup> L’OFPP indemnise les cantons conformément à l’art. 99, al. 1<sup>bis</sup>, LPPCi, pour les dépenses en matière d’exploitation et d’entretien des sirènes fixes. Il peut édicter des prescriptions techniques.
+
+<sup>2</sup> Le transfert de la propriété des sirènes à l’OFPP intervient au plus tard le 31 décembre 2028. Les modalités du transfert doivent être fixées en accord avec l’OFPP au moins 18 mois auparavant.
+
+[^63a-1]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 775](https://fedlex.data.admin.ch/eli/oc/2024/775)).
 
 #### Art. 64
 

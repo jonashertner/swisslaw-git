@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2020 über den Bevölkerungsschutz (Bevölke
 short: BevSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/889"
 language: de
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/889/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-889-20210101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/889/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-889-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20210101/de"
 
 (Bevölkerungsschutzverordnung, BevSV)
 
-vom 11. November 2020 (Stand am 1. Januar 2021)
+vom 11. November 2020 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -886,6 +886,16 @@ Die Aufhebung und die Änderung anderer Erlasse sind in Anhang 3 geregelt.
 
 <sup>4</sup> Die Kantone und Gemeinden sind zuständig für die fristgerechte Auflösung der Wartungsverträge für ihre Sirenen.
 
+#### Art. 63a
+
+**Übergangsbestimmung zur Änderung vom 13. Dezember 2024**[^63a-1]
+
+<sup>1</sup> Das BABS vergütet den Kantonen im Rahmen von Artikel 99 Absatz 1<sup>bis</sup> BZG die Aufwendungen für Betrieb und Unterhalt der stationären Sirenen. Es kann technische Vorgaben erlassen.
+
+<sup>2</sup> Die Übertragung des Eigentums an den Sirenen auf das BABS erfolgt spätestens am 31. Dezember 2028. Die Übertragung ist mit dem BABS mindestens 18 Monate vorher abzusprechen.
+
+[^63a-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 775](https://fedlex.data.admin.ch/eli/oc/2024/775)).
+
 #### Art. 64
 
 **Inkrafttreten**
@@ -1007,11 +1017,11 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex3-lvlu1-6]
+…[^annex3-lvlu1-6]
 
-[^annex3-lvlu1-1]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)[5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 Ziff. 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791), [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103), [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Anhang 5 Ziff. II 1]
+[^annex3-lvlu1-1]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746), [5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 Ziff. 2; [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791); [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103); [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Anhang 5 Ziff. II 1]
 [^annex3-lvlu1-2]: [[AS 2017 609](https://fedlex.data.admin.ch/eli/oc/2017/104)]
-[^annex3-lvlu1-3]: [[AS 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690), [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Anhang 2 Ziff. II 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Anhang 2 Ziff. II 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Anhang 5 Ziff. II 2]
+[^annex3-lvlu1-3]: [[AS 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690); [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Anhang 2 Ziff. II 2; [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Anhang 2 Ziff. II 2, [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Anhang 5 Ziff. II 2]
 [^annex3-lvlu1-4]: [[AS 2011 5247](https://fedlex.data.admin.ch/eli/oc/2011/754)]
 [^annex3-lvlu1-5]: [[AS 1996 440](https://fedlex.data.admin.ch/eli/oc/1996/440_440_440)]
 [^annex3-lvlu1-6]: Die Änderungen können unter [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)konsultiert werden.

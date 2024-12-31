@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 novembre 2020 sulla protezione della popolazione (OPP
 short: OPPop
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/889"
 language: it
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/889/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-889-20210101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/889/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2020-889-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/889/20210101/it"
 
 (OPPop)
 
-dell’11 novembre 2020 (Stato 1° gennaio 2021)
+dell’11 novembre 2020 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -886,6 +886,16 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>4</sup> I Cantoni e i Comuni sono responsabili della disdetta dei contratti di manutenzione conclusi per le sirene entro i termini prestabiliti.
 
+#### Art. 63a
+
+**Disposizione transitoria della modifica del 13 dicembre 2024**[^63a-1]
+
+<sup>1</sup> Ai sensi dell’articolo 99 capoverso 1<sup>bis</sup> LPPC, l’UFPP rimborsa ai Cantoni al massimo le spese per l’esercizio e la manutenzione delle sirene fisse. Può emanare direttive tecniche.
+
+<sup>2</sup> Il trasferimento della proprietà delle sirene all’UFPP avviene entro il 31 dicembre 2028. Il trasferimento deve essere convenuto con l’UFPP almeno 18 mesi prima.
+
+[^63a-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2024 775](https://fedlex.data.admin.ch/eli/oc/2024/775)).
+
 #### Art. 64
 
 **Entrata in vigore**
@@ -1009,9 +1019,9 @@ I seguenti atti normativi sono modificati some segue:
 
 ...[^annex3-lvlu1-6]
 
-[^annex3-lvlu1-1]: [[RU 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)[5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791), [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103), [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 n. II 1]
+[^annex3-lvlu1-1]: [[RU 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746), [5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 2; [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791); [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103); [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 n. II 1]
 [^annex3-lvlu1-2]: [[RU 2017 609](https://fedlex.data.admin.ch/eli/oc/2017/104)]
-[^annex3-lvlu1-3]: [[RU 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690), [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 2 n. II 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 n. II 2]
+[^annex3-lvlu1-3]: [[RU 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690); [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 2; [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 2 n. II 2, [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 n. II 2]
 [^annex3-lvlu1-4]: [[RU 2011 5247](https://fedlex.data.admin.ch/eli/oc/2011/754)]
 [^annex3-lvlu1-5]: [[RU 1996 440](https://fedlex.data.admin.ch/eli/oc/1996/440_440_440)]
 [^annex3-lvlu1-6]: Le mod. possono essere consultate alla [RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889).
