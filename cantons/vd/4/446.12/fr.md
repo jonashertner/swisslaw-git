@@ -4,7 +4,7 @@ number: "446.12"
 title: LOI du 08.04.2014 sur le patrimoine mobilier et immatériel (LPMI)
 short: LPMI
 language: fr
-version: 2021-03-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/446.12?id=f9bd60c5-294f-400c-819e-9ea617afdad4"
 ---
 
@@ -460,21 +460,20 @@ décrète
 
 <sup>3</sup> Ces fonds sont créés par décret du Grand Conseil.
 
-<sup>4</sup> Les fonds existants suivants :
+<sup>4</sup> Les fonds existants suivants sont destinés à faciliter l'achat d'objets culturels mobiliers, le financement de travaux de restauration ou scientifiques, l'organisation d'expositions particulières ou d'événements spéciaux ainsi que des publications :
 
 - a. ...
-- b. fonds des musées cantonaux d'archéologie;
+- b. fonds des musées cantonaux d'archéologie et des sciences naturelles ;
 - c. fonds des publications du Musée cantonal d'archéologie et d'histoire ;
 - d. fonds de la Bibliothèque cantonale et universitaire ;
 - e. fonds des acquisitions pour l'Université de Lausanne ;
-- f. fonds de coordination du réseau vaudois des bibliothèques affiliées au Réseau romand et tessinois (RERO),
-
-sont destinés à faciliter l'achat d'objets culturels mobiliers, le financement de travaux de restauration, l'organisation d'expositions temporaires particulières ou d'événements spéciaux ainsi que des publications.
+- f. fonds de coordination du réseau vaudois des bibliothèques affiliées au Réseau romand et tessinois (RERO).
 
 <sup>5</sup> Les fonds spécifiques des institutions patrimoniales cantonales sont alimentées :
 
 - - par un crédit annuel porté au budget du département ;
-- - par des dons ou des legs.
+- - par des dons ou des legs ;
+- - par des contributions ponctuelles de tiers.
 
 <sup>6</sup> Ils sont inscrits au bilan de l'Etat et gérés par le département.
 
