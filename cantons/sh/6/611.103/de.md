@@ -3,20 +3,19 @@ canton: SH
 number: "611.103"
 title: Finanzhaushaltsverordnung
 language: de
-version: 2024-12-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2024-12-17
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/611.103"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1956/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1957/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Finanzhaushaltsverordnung
 
-Vom 12.12.2017 (Stand 01.12.2024)
+Vom 12.12.2017 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -62,13 +61,18 @@ beschliesst:
 
 <sup>1</sup> Die Ausgabenbefugnis ist das Recht, im Rahmen des genehmigten Budgetkredits finanzielle Verpflichtungen einzugehen.
 
-<sup>2</sup> Unter Vorbehalt abweichender Regelungen steht die Ausgabenbefugnis zu:
+<sup>2</sup> Unter Vorbehalt abweichender Regelungen steht die Befugnis für neue Ausgaben zu:
 
-- a) dem Regierungsrat
-- b) den Departementen bei Ausgaben bis Fr. 100'000.00 pro Geschäftsvorfall in ihrem Zuständigkeitsbereich
-- c) den Verwaltungseinheiten bei Ausgaben bis Fr. 30'000.00 pro Geschäftsvorfall in ihrem Zuständigkeitsbereich
+- a) dem Regierungsrat,
+- b) den Departementen für Ausgaben bis Fr. 100'000.00 pro Geschäftsvorfall in ihrem Zuständigkeitsbereich,
+- c) den Verwaltungseinheiten für Ausgaben bis Fr. 30'000.00 pro Geschäftsvorfall in ihrem Zuständigkeitsbereich.
 
-<sup>3</sup> Die Ausgabenbefugnis kann von der jeweils zuständigen Stelle im Sinne von Abs. 2 an bestimmte Personen einer untergeordneten Verwaltungseinheit delegiert werden. Die Delegation ist der Finanzverwaltung mitzuteilen.
+<sup>3</sup> Unter Vorbehalt abweichender Regelungen des zuständigen Departementes steht die Befugnis für gebundene Ausgaben zu:
+
+- a) den Departementen in ihrem Zuständigkeitsbereich,
+- b) den Verwaltungseinheiten in ihrem Zuständigkeitsbereich für zugesicherte oder durchlaufende Beiträge; für gesetzlich oder vertraglich bezüglich Zweck, Höhe, Auszahlungsjahr und Empfänger feststehende Verpflichtungen; für weitere Ausgaben bis Fr. 100'000.00 pro Geschäftsvorfall.
+
+<sup>4</sup> Abweichende Regelungen sind der Finanzverwaltung mitzuteilen.
 
 #### § 5
 
@@ -84,21 +88,21 @@ beschliesst:
 
 **Nachtrags- und Exekutivkredit**
 
-<sup>1</sup> Ein Nachtragskredit ist zu beantragen, wenn eine neue einmalige Ausgabe Mehrkosten von über Fr. 100'000.00 oder neue jährlich wiederkehrende Ausgaben Mehrkosten von über Fr. 20'000.00 verursacht.
+<sup>1</sup> Ein Nachtragskredit ist vor dem Eingehen einer Verpflichtung zu beantragen, wenn eine neue einmalige Ausgabe nicht budgetierte Mehrkosten von über Fr. 100'000.00 oder eine neue jährlich wiederkehrende Ausgabe nicht budgetierte Mehrkosten von über Fr. 20'000.00 verursacht.
 
-<sup>2</sup> Ein Exekutivkredit ist für Ausgaben von mehr als Fr. 10'000.00 zu beantragen, wenn der genehmigte Budgetkredit um mehr als 10 Prozent überschritten wird.
+<sup>2</sup> Ein Exekutivkredit ist vor dem Eingehen einer Verpflichtung zu beantragen, wenn eine neue Ausgabe nicht budgetierte Mehrkosten unter den Schwellenwerten gemäss Abs. 1 verursacht. Bei Mehrkosten bis 10'000 Franken muss kein Exekutivkredit eingeholt werden.
 
-<sup>3</sup> Es sind Angaben zu machen:
+<sup>3</sup> Bei Anträgen nach Abs. 1 und 2 sind Angaben zu machen:
 
-- a) zu den Ursachen und der Notwendigkeit der Krediterhöhung
-- b) zur zeitlichen Dringlichkeit und
-- c) zum Einfluss auf den Kreditbedarf der Finanzplanjahre
+- a) zu den Ursachen und der Notwendigkeit der Krediterhöhung,
+- b) zur zeitlichen Dringlichkeit,
+- c) zum Einfluss auf den Kreditbedarf der Finanzplanjahre.
 
-<sup>4</sup> Gesammelt vor dem Jahresabschluss zu beantragen sind Exekutivkredite:
+<sup>4</sup> Gesammelt im Nachgang mit dem Jahresabschluss zu beantragen sind Exekutivkredite:
 
-- a) wenn es sich um gebundene Ausgaben handelt
-- b) wenn die Ausgaben auf einer anderen Finanzposition budgetiert wurden
-- c) wenn den Ausgaben im gleichen Rechnungsjahr entsprechende sachbezogene Einnahmen gegenüberstehen
+- a) wenn es sich um gebundene Ausgaben handelt und der genehmigte Budgetkredit um mehr als 10 Prozent und mehr als 10'000 Franken überschritten wurde,
+- b) wenn die Ausgaben auf einer anderen Finanzposition budgetiert wurden,
+- c) wenn den Ausgaben im gleichen Rechnungsjahr entsprechende sachbezogene Einnahmen gegenüberstehen.
 
 #### § 7
 
@@ -178,11 +182,11 @@ beschliesst:
 
 <sup>1</sup> Zahlungen dürfen nur vorgenommen werden, wenn die finanzielle Verpflichtung von einer ausgabenbefugten Person angewiesen worden ist.
 
-<sup>2</sup> Die ausgabenbefugten Personen sind für ihren Zuständigkeitsbereich auch anweisungsberechtigt. Sie können weitere anweisungsberechtigte Personen bestimmen. Diese sind der Finanzverwaltung bekannt zu geben.
+<sup>2</sup> Die ausgabenbefugten Personen sind für ihren Zuständigkeitsbereich anweisungsberechtigt. Sie können weitere anweisungsberechtigte Personen bestimmen. Diese sind der Finanzverwaltung bekannt zu geben.
 
 <sup>3</sup> Wer mit der Anweisung begünstigt wird, darf die Unterschrift für die Anweisung nicht selbst erteilen.
 
-<sup>4</sup> Für die Anweisung von zugesicherten oder durchlaufenden Beiträgen sowie gesetzlich oder vertraglich bezüglich Zweck, Höhe, Auszahlungsjahr und Empfänger feststehenden finanziellen Verpflichtungen sind die zuständigen Verwaltungseinheiten befugt.
+<sup>4</sup> …
 
 #### § 14
 
