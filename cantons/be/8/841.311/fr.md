@@ -4,13 +4,13 @@ number: "841.311"
 title: "Ordonnance portant introduction de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI"
 short: Oi LPC
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-08
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-08-28
 adopted: 2009-09-16
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/841.311"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2900/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3074/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2900/pdf_file"
 
 (Oi LPC)
 
-du 16.09.2009 (état au 01.01.2024)
+du 16.09.2009 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -33,6 +33,8 @@ arrête:
 [^ingress-2]: RSB 841.31
 
 ## 1 Prestation complémentaire annuelle
+
+### 1.1 Personnes vivant dans un foyer ou un hôpital
 
 #### Art. 1
 
@@ -68,10 +70,10 @@ arrête:
 
 <sup>1</sup> Pour les personnes occupant en permanence ou pour une longue durée une place de la liste des hôpitaux et établissements médico-sociaux du canton de Berne (art. 2, al. 1, lit. a), les montants journaliers maximaux reconnus au titre de dépenses sont les suivants:
 
-- a Degré de soins 0: — CHF 176.95
-- b Degré de soins 1: — CHF 178.90
-- c Degré de soins 2: — CHF 192.40
-- d Degrés de soins 3 à 12: — CHF 199.95
+- a Degré de soins 0: — CHF 180.55
+- b Degré de soins 1: — CHF 182.70
+- c Degré de soins 2: — CHF 196.60
+- d Degrés de soins 3 à 12: — CHF 203.55
 
 <sup>2</sup> Les soins requis sont évalués au moyen du système de classification en degrés de soins et de décompte des prestations BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem) ou de l’instrument RAI (resident assessment instrument).
 
@@ -111,6 +113,34 @@ arrête:
 
 <sup>1</sup> Pour les personnes qui, en permanence ou pour une longue durée, occupent une place de la liste des hôpitaux et établissements médico-sociaux ou séjournent dans un foyer ou un hôpital au sens de l’article 2, alinéa 1, lettre *b*, chiffre 2 ou article 2, alinéa 1, lettre *c*, la somme mensuelle de 387 francs est reconnue au titre de dépenses personnelles.
 
+### 1.2 Prime effective pour l'assurance obligatoire des soins
+
+#### Art. 6a
+
+<sup>1</sup> L'Office des assurances sociales (OAS), à la demande de la CCB, s’enquiert auprès des assureurs des primes effectives de l’assurance obligatoire des soins (art. 16d OPC-AVS/AI) pour procéder au nouveau calcul annuel des prétentions aux prestations complémentaires.
+
+<sup>2</sup> Il communique à la CCB les primes effectives des bénéficiaires des prestations complémentaires indiquées à l’alinéa 1 dans un délai de 14 jours civils à compter de la requête de la CCB.
+
+### 1.3 Restitution des prestations complémentaires légalement perçues
+
+#### Art. 6b
+
+<sup>1</sup> Lorsque la personne décédée vivait seule et qu’elle-même ou la personne prédécédée avec laquelle elle était mariée ou le couple marié a bénéficié des prestations complémentaires dans les dix ans précédant le décès de la conjointe survivante ou du conjoint survivant, la préfecture adresse à la CCB une copie du procès-verbal de scellés en vue de
+
+- a l’information préliminaire des héritières et des héritiers concernant une éventuelle obligation de restitution,
+- b l'évaluation du montant de la succession dans les cas où aucun inventaire n’est dressé.
+
+<sup>2</sup> Si la perception de prestations complémentaires est mentionnée dans le procès-verbal de scellés (art. 11c, al. 1 LiLPC), la préfecture met à la disposition de la CCB les documents suivants:
+
+- a une copie de la décision ordonnant l’établissement d’un inventaire public ou d’un inventaire fiscal (art. 19, al. 2 de l’ordonnance du 18 octobre 2000 sur l’établissement d’inventaires[^6b-1]) ou
+- b une copie de la lettre qu’elle a envoyée à la commune dans les cas où il y a lieu d’ordonner un inventaire successoral (art. 19, al. 3 de l’ordonnance sur l’établissement d’inventaires).
+
+<sup>3</sup> La préfecture adresse à la CCB, à la demande de celle-ci, une copie de l’inventaire (al. 2) sans annexe.
+
+<sup>4</sup> Les alinéas 1 à 3 s’appliquent également aux personnes décédées qui étaient liées par un partenariat enregistré.
+
+[^6b-1]: RSB [214.431.1](https://www.belex.sites.be.ch/data/214.431.1/fr)
+
 ## 2 Remboursement des frais de maladie et d’invalidité
 
 ### 2.1 Dispositions générales
@@ -127,9 +157,7 @@ arrête:
 
 **Montant des frais de maladie et d’invalidité à rembourser 1. Principe**
 
-<sup>1</sup> Les frais de maladie et d’invalidité sont remboursés par année civile au maximum à concurrence des montants prévus par l’article 14, alinéas 3 à 5 LPC et l’article 19b de l’ordonnance du Conseil fédéral du 15 janvier 1971 sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité (OPC AVS/AI)[^8-1].
-
-[^8-1]: RS 831.301
+<sup>1</sup> Les frais de maladie et d’invalidité sont remboursés par année civile au maximum à concurrence des montants prévus par l’article 14, alinéas 3 à 5 LPC et l’article 19b OPC-AVS/AI.
 
 #### Art. 9
 

@@ -4,13 +4,13 @@ number: "841.311"
 title: "Einführungsverordnung zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: EV ELG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-08
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-08-28
 adopted: 2009-09-16
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/841.311"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2900/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3074/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2900/pdf_file"
 
 (EV ELG)
 
-vom 16.09.2009 (Stand 01.01.2024)
+vom 16.09.2009 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -33,6 +33,8 @@ beschliesst:
 [^ingress-2]: BSG 841.31
 
 ## 1 Jährliche Ergänzungsleistung
+
+### 1.1 In Heimen oder Spitälern lebende Personen
 
 #### Art. 1
 
@@ -69,10 +71,10 @@ beschliesst:
 
 <sup>1</sup> Für Personen, die dauernd oder längere Zeit einen Platz der Spital- und Pflegeheimliste des Kantons Bern belegen (Art. 2 Abs. 1 Bst. a), werden als Ausgaben folgende täglichen Höchstbeträge anerkannt:
 
-- a Pflegestufe 0: — CHF 176.95
-- b Pflegestufe 1: — CHF 178.90
-- c Pflegestufe 2: — CHF 192.40
-- d Pflegestufen 3 bis 12: — CHF 199.95
+- a Pflegestufe 0: — CHF 180.55
+- b Pflegestufe 1: — CHF 182.70
+- c Pflegestufe 2: — CHF 196.60
+- d Pflegestufen 3 bis 12: — CHF 203.55
 
 <sup>2</sup> Der Pflegeaufwand ist mit dem Bewohnerbeurteilungssystem BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem) oder RAI (Resident Assessment Instrument) zu erheben.
 
@@ -112,6 +114,34 @@ beschliesst:
 
 <sup>1</sup> Für Personen, die dauernd oder längere Zeit einen Platz der Spital- und Pflegeheimliste belegen oder dauernd oder längere Zeit in einem Heim oder Spital nach Artikel 2 Absatz 1 Buchstabe b Ziffer 2 oder Artikel 2 Absatz 1 Buchstabe c leben, werden monatlich 387 Franken für persönliche Auslagen anerkannt.
 
+### 1.2 Tatsächliche Prämie für die obligatorische Krankenpflegeversicherung
+
+#### Art. 6a
+
+<sup>1</sup> Das Amt für Sozialversicherungen (ASV) fragt bei den Versicherern auf Verlangen der AKB die tatsächlichen Prämien für die obligatorische Krankenpflegeversicherung (Art. 16d ELV) für die jährliche Neuberechnung der Ansprüche auf Ergänzungsleistungen an.
+
+<sup>2</sup> Es stellt der AKB die nach Absatz 1 gemeldeten tatsächlichen Prämien der Bezügerinnen und Bezüger von Ergänzungsleistungen innert 14 Kalendertagen seit Ersuchen durch die AKB zur Verfügung.
+
+### 1.3 Rückerstattung rechtmässig bezogener Ergänzungsleistungen
+
+#### Art. 6b
+
+<sup>1</sup> War eine verstorbene Person alleinstehend und hat sie oder ihre vorverstorbene Ehegattin bzw. ihr vorverstorbener Ehegatte oder haben beide Ehegatten in den zehn Jahren vor dem Tod der zweitverstorbenen Person Ergänzungsleistungen bezogen, stellt das Regierungsstatthalteramt der AKB eine Kopie des Siegelungsprotokolls für folgende Zwecke zu:
+
+- a die Vorinformation der Erben über eine allfällige Rückerstattungspflicht,
+- b die Ermittlung der Höhe des Nachlasses in Fällen, in denen kein Inventar errichtet wird.
+
+<sup>2</sup> Ist im Siegelungsprotokoll der Bezug von Ergänzungsleistungen vermerkt worden (Art. 11c Abs. 1 EG ELG), stellt das Regierungsstatthalteramt der AKB folgende Unterlagen zu:
+
+- a eine Kopie der Anordnung des öffentlichen Inventars oder des Steuerinventars (Art. 19 Abs. 2 der Verordnung vom 18. Oktober 2000 über die Errichtung des Inventars[^6b-1]) oder
+- b eine Kopie des Überweisungsschreibens an die Gemeinde in Fällen, in denen ein Erbschaftsinventar angeordnet werden muss (Art. 19 Abs. 3 der Verordnung über die Errichtung des Inventars).
+
+<sup>3</sup> Das Regierungsstatthalteramt stellt der AKB auf Verlangen eine Kopie des Inventars (Abs. 2) ohne Beilagen zu.
+
+<sup>4</sup> Die Absätze 1 bis 3 gelten auch für verstorbene Person, die in eingetragener Partnerschaft gelebt haben.
+
+[^6b-1]: BSG [214.431.1](https://www.belex.sites.be.ch/data/214.431.1/de)
+
 ## 2 Vergütung der Krankheits- und Behinderungskosten
 
 ### 2.1 Allgemeine Bestimmungen
@@ -130,9 +160,7 @@ beschliesst:
 
 **Höhe der zu vergütenden Krankheits- und Behinderungskosten 1. Grundsatz**
 
-<sup>1</sup> Für Krankheits- und Behinderungskosten werden pro Kalenderjahr höchstens die Beträge nach Artikel 14 Absätze 3 bis 5 ELG und Artikel 19b der Verordnung des Bundesrates vom 15. Januar 1971 über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV)[^8-1] vergütet.
-
-[^8-1]: SR 831.301
+<sup>1</sup> Für Krankheits- und Behinderungskosten werden pro Kalenderjahr höchstens die Beträge nach Artikel 14 Absätze 3 bis 5 ELG und Artikel 19b ELV vergütet.
 
 #### Art. 9
 
