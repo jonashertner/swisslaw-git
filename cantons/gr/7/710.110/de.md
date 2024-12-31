@@ -4,13 +4,12 @@ number: "710.110"
 title: Verordnung über den kantonalen Finanzhaushalt
 short: FHV
 language: de
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-08-20
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3458/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3784/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3458/pdf_file"
 
 (FHV)
 
-Vom 25.09.2012 (Stand 01.09.2024)
+Vom 25.09.2012 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -49,7 +48,7 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>2</sup> Die Budgetbotschaft wird im Sinne eines integrierten Aufgaben- und Finanzplans (IAFP) mit einem Finanzplan für drei Jahre, einem Jahresprogramm und insbesondere mit folgenden Angaben ergänzt:
 
-- a) erläuternder Bericht mit den Anträgen der Regierung sowie des Kantons- und des Verwaltungsgerichts an den Grossen Rat;
+- a) erläuternder Bericht mit den Anträgen der Regierung sowie des Obergerichts an den Grossen Rat;
 - b) Nachweis über die Einhaltung der finanzpolitischen Richtwerte des Grossen Rates.
 
 <sup>3</sup> Sofern ein starker Bezug zum Budget oder zur Rechnungslegung besteht, können mit der Botschaft zum Budget oder zur Jahresrechnung auch Anträge für die Schaffung oder Revision von grossrätlichen Rechtserlassen aufgenommen werden. Die Regierung muss diesem Vorgehen vorgängig zustimmen.
@@ -99,7 +98,7 @@ von der Regierung erlassen am 25. September 2012
 <sup>1</sup> Ergänzend zu den Einzelkrediten gemäss Artikel 15 Absatz 2 und Artikel 36 Absatz 2 des Finanzhaushaltsgesetzes[^4-1] sind insbesondere folgende Konten als Einzelkredite zu führen:
 
 - a) Konten im Rahmen von Programmvereinbarungen mit dem Bund;
-- b) Interne Verrechnungen zwischen Spezialfinanzierungen, den Sonderrechnungen sowie den kantonalen Gerichten einerseits und anderen Rechnungsrubriken andererseits;
+- b) interne Verrechnungen zwischen Spezialfinanzierungen, den Sonderrechnungen sowie den Gerichten einerseits und anderen Rechnungsrubriken andererseits;
 - c) Konten mit Beträgen, die von den Dienststellen nicht beeinflussbar und betragsmässig wesentlich sind;
 - d) Konten mit Beträgen, die nicht im unmittelbaren Zusammenhang mit dem Leistungsauftrag der Dienststellen stehen;
 - e) Konten mit Beträgen ohne Rechtsgrundlage zur Erfüllung einer verfassungsmässigen Aufgabe gemäss Artikel 33 Absatz 1 Litera a des Finanzhaushaltsgesetzes.
@@ -423,7 +422,7 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>1</sup> Interne Verrechnungen sind Gutschriften und Belastungen zwischen Dienststellen für erbrachte Leistungen.
 
-<sup>2</sup> Sie sind nur vorzunehmen, wenn sie für die verursachergerechte Festlegung der Globalbudgets, für die Rechnungsstellung gegenüber Dritten sowie für die Verrechnung gegenüber Spezialfinanzierungen, den Sonderrechnungen und den kantonalen Gerichten notwendig sind.
+<sup>2</sup> Sie sind nur vorzunehmen, wenn sie für die verursachergerechte Festlegung der Globalbudgets, für die Rechnungsstellung gegenüber Dritten sowie für die Verrechnung gegenüber Spezialfinanzierungen, den Sonderrechnungen und den Gerichten notwendig sind.
 
 <sup>3</sup> Sie sind möglichst zu pauschalieren und auf die effektiven Kosten auszurichten.
 
@@ -519,7 +518,7 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>2</sup> Die Standeskanzlei ist kreditmässig einem Departement gleichgestellt.
 
-<sup>3</sup> Die Aufsichtskommission über Rechtsanwälte und die Notariatskommission fallen kreditmässig in den Zuständigkeitsbereich des Departementes für Justiz, Sicherheit und Gesundheit.
+<sup>3</sup> …
 
 #### Art. 40
 
@@ -588,7 +587,7 @@ von der Regierung erlassen am 25. September 2012
 
 - a) die Vergabe von Arbeiten;
 - b) den Einkauf von Gütern, Waren und Dienstleistungen; den Kauf und Tausch von Liegenschaften im Verwaltungsvermögen sowie Dienstbarkeiten;
-- c) den Abschluss von Pacht-, Miet-, Leasing- und für den Kanton kostenwirksame Versicherungsverträgen;
+- c) den Abschluss von Pacht-, Miet-, Leasing- und für den Kanton kostenwirksamen Versicherungsverträgen;
 - d) die Führung von Prozessen und den Abschluss von Vergleichen;
 - e) die Gewährung und Kündigung von Darlehen des Verwaltungsvermögens;
 - f) den Erwerb von Beteiligungen sowie das Eingehen von Eventualverbindlichkeiten.
@@ -699,5 +698,209 @@ von der Regierung erlassen am 25. September 2012
 <sup>1</sup> Diese Verordnung tritt am 1. Dezember 2012 in Kraft.
 
 <sup>2</sup> Für den Abschluss der Jahresrechnung 2012 gilt noch die Verordnung über den kantonalen Finanzhaushalt vom 14. Dezember 2004.
+
+## A1 Anhang 1: Aufbau des Rechnungswesens (Art. 17)
+
+#### Art. A1-1
+
+**Finanzvermögen**
+
+<sup>1</sup> Das Finanzvermögen (FV) wird wie folgt unterteilt:
+
+- a) flüssige Mittel und kurzfristige Geldanlagen
+- b) Forderungen
+- c) kurzfristige Finanzanlagen
+- d) aktive Rechnungsabgrenzungen
+- e) Vorräte und angefangene Arbeiten
+- f) langfristige Finanzanlagen
+- g) Sach- und immaterielle Anlagen FV
+- h) Forderungen gegenüber Spezialfinanzierungen und Fonds im Fremdkapital
+
+#### Art. A1-2
+
+**Verwaltungsvermögen**
+
+<sup>1</sup> Das Verwaltungsvermögen (VV) wird wie folgt unterteilt:
+
+- a) Sachanlagen VV
+- b) immaterielle Anlagen VV
+- c) Darlehen VV
+- d) Beteiligungen, Grundkapitalien VV
+- e) Investitionsbeiträge
+
+#### Art. A1-3
+
+**Fremdkapital**
+
+<sup>1</sup> Das Fremdkapital wird wie folgt unterteilt:
+
+- a) laufende Verbindlichkeiten
+- b) kurzfristige Finanzverbindlichkeiten
+- c) passive Rechnungsabgrenzungen
+- d) kurzfristige Rückstellungen
+- e) langfristige Finanzverbindlichkeiten
+- f) langfristige Rückstellungen
+- g) Verbindlichkeiten gegenüber Spezialfinanzierungen und Fonds im Fremdkapital
+
+#### Art. A1-4
+
+**Eigenkapital**
+
+<sup>1</sup> Das Eigenkapital wird wie folgt unterteilt:
+
+- a) Spezialfinanzierungen im Eigenkapital
+- b) Fonds im Eigenkapital
+- c) Vorfinanzierungen
+- d) übriges Eigenkapital
+- e) Bilanzüberschuss / Bilanzfehlbetrag unterteilt in Jahresergebnis und kumulierte Ergebnisse der Vorjahre
+
+#### Art. A1-5
+
+**Eigenkapitalnachweis**
+
+<sup>1</sup> Der Eigenkapitalnachweis zeigt die Ursachen der Veränderung des Eigenkapitals.
+
+<sup>2</sup> Es sind folgende Bilanzkonten detailliert aufzuführen:
+
+- a) Spezialfinanzierungen im Eigenkapital
+- b) Fonds im Eigenkapital
+- c) Vorfinanzierungen
+- d) übriges Eigenkapital
+- e) Bilanzüberschuss / Bilanzfehlbetrag unterteilt in Jahresergebnis und kumulierte Ergebnisse der Vorjahre
+
+#### Art. A1-6
+
+**Rückstellungsspiegel**
+
+<sup>1</sup> Im Rückstellungsspiegel sind alle wesentlichen Rückstellungen einzeln aufzuführen.
+
+<sup>2</sup> Die Rückstellungen sind nach Kategorien zu gliedern.
+
+<sup>3</sup> Der Rückstellungsspiegel enthält:
+
+- a) Bezeichnung der Rückstellungsart
+- b) Kommentar zur Rückstellungsart
+- c) Stand Rückstellungshöhe Ende Vorjahr in Franken
+- d) Stand Rückstellungen Ende laufendes Jahr in Franken
+- e) Kommentar zur Veränderung der Rückstellungen
+
+#### Art. A1-7
+
+**Beteiligungs- und Gewährleistungsspiegel**
+
+<sup>1</sup> Der Beteiligungsspiegel enthält insbesondere:
+
+- a) Darlehen und Beteiligungen, die mit der öffentlichen Aufgabenerfüllung im Zusammenhang stehen
+- b) Formen der interkantonalen Zusammenarbeit und die ausgelagerten Trägerschaften, an denen der Kanton als Mitglied oder Träger beteiligt ist
+
+<sup>2</sup> Im Gewährleistungsspiegel sind alle Tatbestände aufzuführen, aus denen sich in Zukunft eine wesentliche Verpflichtung ergeben kann. Er umfasst insbesondere:
+
+- a) Eventualverbindlichkeiten, bei denen der Kanton zugunsten Dritter eine Verpflichtung eingeht, insbesondere Bürgschaften, Garantieverpflichtungen und Defizitgarantien
+- b) Leasingverbindlichkeiten
+- c) sonstige Sachverhalte mit Eventualcharakter, falls diese noch nicht als Rückstellungen verbucht wurden, wie Konventionalstrafen und Reuegelder
+- d) zugesicherte und noch offene Kantonsbeiträge an Einzelvorhaben Dritter ausserhalb von Vereinbarungen mit dem Bund und ausserhalb von Verpflichtungskrediten sowie ohne Beiträge zulasten von Spezialfinanzierungen im Fremdkapital
+
+#### Art. A1-8
+
+**Anlagespiegel**
+
+<sup>1</sup> Der Anlagespiegel enthält die Summe der Anlagebuchwerte und die kumulierten Abschreibungen zu Beginn und am Ende der Periode.
+
+<sup>2</sup> Die Bruttobuchwerte sind bezogen auf folgende Bewegungen abzustimmen:
+
+- a) Zugänge
+- b) Abgänge und Veräusserungen
+- c) Zuwächse oder Abnahmen während der Periode, die aus Neubewertungen, Wertsteigerungen oder Wertverlusten resultieren
+- d) Abschreibungen
+- e) andere Bewegungen
+
+#### Art. A1-9
+
+**Artengliederung Erfolgsrechnung**
+
+<sup>1</sup> Die Erfolgsrechnung umfasst folgende Aufwand- und Ertragsarten:
+
+- a) Personalaufwand
+- b) Sach- und übriger Betriebsaufwand
+- c) Abschreibungen des Verwaltungsvermögens
+- d) Finanzaufwand
+- e) Einlagen in Fonds und Spezialfinanzierungen
+- f) Transferaufwand
+- g) durchlaufende Beiträge
+- h) ausserordentlicher Aufwand
+- i) interne Verrechnungen
+- j) Fiskalertrag
+- k) Regalien und Konzessionen
+- l) Entgelte
+- m) übrige Erträge
+- n) Finanzertrag
+- o) Entnahmen aus Spezialfinanzierungen und Fonds
+- p) Transferertrag
+- q) durchlaufende Beiträge
+- r) ausserordentlicher Ertrag
+- s) interne Verrechnungen
+
+#### Art. A1-10
+
+**Artengliederung Investitionsrechnung**
+
+<sup>1</sup> Die Investitionsrechnung umfasst:
+
+- a) Sachanlagen
+- b) Investitionen auf Rechnung Dritter
+- c) immaterielle Anlagen
+- d) Darlehen
+- e) Beteiligungen und Grundkapitalien
+- f) eigene Investitionsbeiträge
+- g) durchlaufende Investitionsbeiträge
+- h) ausserordentliche Investitionsausgaben
+- i) Übertragungen von Sachanlagen in das Finanzvermögen
+- j) Rückerstattungen von Investitionsausgaben auf Rechnung Dritter
+- k) Übertragung immaterielle Anlagen in das Finanzvermögen
+- l) Investitionsbeiträge für eigene Rechnung
+- m) Rückzahlung von Darlehen
+- n) Übertragung von Beteiligungen
+- o) Rückzahlung eigener Investitionsbeiträge
+- p) durchlaufende Investitionsbeiträge
+- q) ausserordentliche Investitionseinnahmen
+
+#### Art. A1-11
+
+**Funktionale Gliederung**
+
+<sup>1</sup> Die Erfolgsrechnung und die Investitionsrechnung sind nach folgenden Funktionen gegliedert:
+
+- a) Allgemeine Verwaltung (0)
+- b) Öffentliche Ordnung und Sicherheit, Verteidigung (1)
+- c) Bildung (2)
+- d) Kultur, Sport und Freizeit, Kirche (3)
+- e) Gesundheit (4)
+- f) Soziale Sicherheit (5)
+- g) Verkehr und Nachrichtenübermittlung (6)
+- h) Umweltschutz und Raumordnung (7)
+- i) Volkswirtschaft (8)
+- j) Finanzen und Steuern (9)
+
+#### Art. A1-12
+
+**Zusätzliche Angaben**
+
+<sup>1</sup> Der Anhang enthält zusätzlich insbesondere:
+
+- a) Rechnungsgrundsätze
+- b) die Funktionale Gliederung der Erfolgs- und Investitionsrechnung
+- c) ein Verzeichnis der Finanzanlagen
+- d) ein Verzeichnis der Liegenschaften
+- e) ein Verzeichnis der Verbindlichkeiten gegenüber den Spezialfinanzierungen und den Fonds im Fremdkapital
+- f) Spezialfinanzierung Finanzausgleich für Gemeinden und Spezialfinanzierung Strassen
+- g) den Ausweis des erweiterten Eigenkapitals
+- h) nicht bezifferbare Eventualforderungen
+- i) den Ausweis der offenen derivativen Finanzinstrumente
+- j) Sicherheitsleistungen und Mietzinshinterlegungen
+- k) Angaben zu Ereignissen nach dem Bilanzstichtag
+- l) den Stand der Beanspruchung der Verpflichtungskredite
+- m) ein Verzeichnis der Empfänger von Kantonsbeiträgen von mehr als drei Millionen Franken
+- n) den Ausweis der Programmvereinbarungen mit dem Bund
+- o) die Finanzkennzahlen
 
 -

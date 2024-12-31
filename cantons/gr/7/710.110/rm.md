@@ -4,13 +4,12 @@ number: "710.110"
 title: Ordinaziun da finanzas dal chantun Grischun
 short: OFC
 language: rm
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-08-20
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3458/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3784/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3458/pdf_file"
 
 (OFC)
 
-dals 25-09-2012 (versiun dals 01-09-2024)
+dals 25-09-2012 (versiun dals 01-01-2025)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1],
 
@@ -49,7 +48,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>2</sup> La missiva tar il budget vegn cumplettada en il senn d'in plan d'incumbensas e da finanzas integrà (PIFI) cun in plan da finanzas per 3 onns, cun in program annual ed en spezial cun las suandantas indicaziuns:
 
-- a) in rapport explicativ al cussegl grond che cuntegna las propostas da la regenza sco er da la dretgira chantunala e da la dretgira administrativa;
+- a) in rapport explicativ al Cussegl grond che cuntegna las propostas da la Regenza sco er da la Dretgira superiura;
 - b) ina cumprova davart l'observanza da las directivas da la politica da finanzas dal cussegl grond.
 
 <sup>3</sup> Sch'i dat in ferm connex cun il budget u cun il rendaquint, pon vegnir surpigliadas – cun la missiva tar il budget u tar il quint annual – er propostas per crear u per reveder relaschs giuridics dal cussegl grond. La regenza sto approvar ordavant quest proceder.
@@ -99,7 +98,7 @@ relaschada da la regenza ils 25 da settember 2012
 <sup>1</sup> Cumplementarmain als credits singuls tenor l'artitgel 15 alinea 2 e l'artitgel 36 alinea 2 da la Lescha da finanzas[^4-1] ston cunzunt ils suandants contos vegnir manads sco credits singuls:
 
 - a) ils contos en il rom da cunvegnas da program cun la confederaziun;
-- b) las scuntradas internas tranter per l'ina las finanziaziuns spezialas, ils quints spezials sco er las dretgiras chantunalas e per l'autra las autras rubricas da quint;
+- b) las scuntradas internas tranter las finanziaziuns spezialas, ils quints spezials sco er las dretgiras d'ina vart e las autras rubricas da quint da l'autra vart;
 - c) ils contos cun imports considerabels che na pon betg vegnir influenzads dals posts da servetsch;
 - d) ils contos cun imports che n'han betg in connex direct cun l'incarica da prestaziun dals posts da servetsch;
 - e) ils contos cun imports senza basa giuridica per ademplir ina incumbensa constituziunala tenor l'artitgel 33 alinea 1 litera a da la Lescha da finanzas.
@@ -423,7 +422,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>1</sup> Scuntradas internas èn bunificaziuns e grevezzas tranter posts da servetsch per prestaziuns furnidas.
 
-<sup>2</sup> Ellas ston vegnir fatgas mo, sch'ellas èn necessarias per fixar ils budgets globals confurm a la chaschunadra u al chaschunader, per facturar envers terzas persunas sco er per scuntrar envers finanziaziuns spezialas, envers ils quints spezials ed envers las dretgiras chantunalas.
+<sup>2</sup> Ellas ston vegnir fatgas mo, sch'ellas èn necessarias per fixar ils budgets globals confurm a la chaschunadra u al chaschunader, per facturar envers terzas persunas sco er per scuntrar envers finanziaziuns spezialas, envers ils quints spezials ed envers las dretgiras.
 
 <sup>3</sup> Sche pussaivel ston ellas vegnir pauschalisadas ed orientadas als custs effectivs.
 
@@ -519,7 +518,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>2</sup> Areguard ils credits ha la chanzlia chantunala il medem status sco in departament.
 
-<sup>3</sup> La cumissiun da surveglianza davart las advocatas e davart ils advocats e la cumissiun da notariat fan part – areguard il credit – dal champ da cumpetenza dal departament da giustia, segirezza e sanadad.
+<sup>3</sup> …
 
 #### Art. 40
 
@@ -699,5 +698,209 @@ relaschada da la regenza ils 25 da settember 2012
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. da december 2012.
 
 <sup>2</sup> Per serrar il quint annual 2012 vala anc l'ordinaziun davart las finanzas dal chantun Grischun dals 14 da december 2004.
+
+## A1 Agiunta 1: Structura da la contabilitad (art. 17)
+
+#### Art. A1-1
+
+**Facultad finanziala**
+
+<sup>1</sup> La facultad finanziala (FF) vegn structurada sco suonda:
+
+- a) meds finanzials liquids ed investiziuns da daners da curta durada
+- b) pretensiuns
+- c) investiziuns finanzialas da curta durada
+- d) posiziuns transitoricas activas
+- e) provisiuns e lavurs cumenzadas
+- f) investiziuns finanzialas a lunga vista
+- g) investiziuns materialas ed immaterialas FF
+- h) pretensiuns envers finanziaziuns spezialas e fonds en il chapital ester
+
+#### Art. A1-2
+
+**Facultad administrativa**
+
+<sup>1</sup> La facultad administrativa (FA) vegn structurada sco suonda:
+
+- a) investiziuns materialas FA
+- b) investiziuns immaterialas FA
+- c) emprests FA
+- d) participaziuns, chapitals da basa FA
+- e) contribuziuns d'investiziun
+
+#### Art. A1-3
+
+**Chapital ester**
+
+<sup>1</sup> Il chapital ester vegn structurà sco suonda:
+
+- a) obligaziuns currentas
+- b) obligaziuns finanzialas da curta durada
+- c) posiziuns transitoricas passivas
+- d) retenziuns da curta durada
+- e) debits finanzials da lunga durada
+- f) retenziuns da lunga durada
+- g) obligaziuns envers finanziaziuns spezialas e fonds en il chapital ester
+
+#### Art. A1-4
+
+**Agen chapital**
+
+<sup>1</sup> L'agen chapital vegn structurà sco suonda:
+
+- a) finanziaziuns spezialas en l'agen chapital
+- b) fonds en l'agen chapital
+- c) prefinanziaziuns
+- d) ulteriur agen chapital
+- e) surpli da bilantscha / deficit da bilantscha sutdividì en resultat annual e resultats cumulads dals onns precedents
+
+#### Art. A1-5
+
+**Cumprova da l'agen chapital**
+
+<sup>1</sup> La cumprova da l'agen chapital mussa ils motivs da la midada da l'agen chapital.
+
+<sup>2</sup> Ils suandants contos da bilantscha ston vegnir inditgads detagliadamain:
+
+- a) finanziaziuns spezialas en l'agen chapital
+- b) fonds en l'agen chapital
+- c) prefinanziaziuns
+- d) ulteriur agen chapital
+- e) surpli da bilantscha / deficit da bilantscha sutdividì en resultat annual e resultats cumulads dals onns precedents
+
+#### Art. A1-6
+
+**Glista da las retenziuns**
+
+<sup>1</sup> Sin la glista da las retenziuns ston vegnir menziunadas separadamain tut las retenziuns essenzialas.
+
+<sup>2</sup> Las retenziuns ston vegnir structuradas tenor categorias.
+
+<sup>3</sup> La glista da las retenziuns cumpiglia:
+
+- a) la designaziun dal gener da la retenziun
+- b) in commentari davart il gener da la retenziun
+- c) il stadi da las retenziuns a la fin da l'onn precedent en francs
+- d) il stadi da las retenziuns a la fin da l'onn current en francs
+- e) in commentari davart la midada da las retenziuns
+
+#### Art. A1-7
+
+**Glista da las participaziuns e da las garanzias**
+
+<sup>1</sup> La glista da las participaziuns cuntegna en spezial:
+
+- a) emprests e participaziuns che stattan en connex cun l'adempliment da las incumbensas publicas
+- b) furmas da la collavuraziun interchantunala e las instituziuns purtadras excorporadas, a las qualas il chantun è participà sco commember u sco purtader
+
+<sup>2</sup> En la glista da las garanzias ston vegnir inscrits tut ils causals, dals quals po resultar en il futur in'obligaziun finanziala essenziala. Ella cumpiglia en spezial:
+
+- a) obligaziuns finanzialas eventualas, cun las qualas la vischnanca surpiglia in'obligaziun finanziala a favur da terzas persunas, en spezial cauziuns, obligaziuns da garanzia e garanzias da deficit
+- b) obligaziuns da leasing
+- c) ulteriurs fatgs da caracter eventual, sco chastis convenziunals e chaparras penalas, nun che quels sajan gia vegnids cudeschads sco retenziuns
+- d) contribuziuns chantunalas garantidas ed anc pendentas a favur da projects singuls da terzas persunas ordaifer cunvegnas cun la Confederaziun ed ordaifer credits d'impegn sco er senza contribuziuns sin donn e cust da finanziaziuns spezialas en il chapital ester
+
+#### Art. A1-8
+
+**Glista da las investiziuns**
+
+<sup>1</sup> La glista da las investiziuns cuntegna la summa da las valurs d'investiziun cudeschadas e las amortisaziuns cumuladas al cumenzament ed a la fin da la perioda.
+
+<sup>2</sup> Las valurs cudeschadas bruttas ston vegnir accordadas areguard ils suandants moviments:
+
+- a) entradas
+- b) sortidas ed alienaziuns
+- c) augments u reducziuns durant la perioda, che resultan da novas valitaziuns, d'augments u da perditas da valur
+- d) amortisaziuns
+- e) auters moviments
+
+#### Art. A1-9
+
+**Structura dals geners dal quint economic**
+
+<sup>1</sup> Il quint economic cumpiglia ils suandants geners d'expensas e da retgavs:
+
+- a) custs da persunal
+- b) custs materials ed ulteriurs custs da manaschi
+- c) amortisaziuns da la facultad administrativa
+- d) custs finanzials
+- e) apports a fonds ed a finanziaziuns spezialas
+- f) custs da transfers
+- g) contribuziuns transitoricas
+- h) custs extraordinaris
+- i) scuntradas internas
+- j) retgav fiscal
+- k) regals e concessiuns
+- l) indemnisaziuns
+- m) ulteriurs retgavs
+- n) retgav finanzial
+- o) prelevaziuns da finanziaziuns spezialas e da fonds
+- p) retgav da transfers
+- q) contribuziuns transitoricas
+- r) retgav extraordinari
+- s) scuntradas internas
+
+#### Art. A1-10
+
+**Structura dals geners dal quint d'investiziun**
+
+<sup>1</sup> Il quint d'investiziun cumpiglia:
+
+- a) investiziuns materialas
+- b) investiziuns a quint da terzas persunas
+- c) bains d'investiziun immaterials
+- d) emprests
+- e) participaziuns e chapitals da basa
+- f) atgnas contribuziuns d'investiziun
+- g) contribuziuns d'investiziun transitoricas
+- h) expensas d'investiziun extraordinarias
+- i) transferiments da bains d'investiziun materials en la facultad finanziala
+- j) restituziuns d'expensas d'investiziun a quint da terzas persunas
+- k) transferiment d'investiziuns immaterialas en la facultad finanziala
+- l) contribuziuns d'investiziun a favur da l'agen quint
+- m) rembursament d'emprests
+- n) transferiment da participaziuns
+- o) rembursament d'atgnas contribuziuns d'investiziun
+- p) contribuziuns d'investiziun transitoricas
+- q) entradas d'investiziun extraordinarias
+
+#### Art. A1-11
+
+**Structura funcziunala**
+
+<sup>1</sup> Il quint economic ed il quint d'investiziun èn structurads tenor las suandantas funcziuns:
+
+- a) Administraziun generala (0)
+- b) Urden public e segirezza publica, defensiun (1)
+- c) Furmaziun (2)
+- d) Cultura, sport e temp liber, baselgia (3)
+- e) Sanadad (4)
+- f) Segirezza sociala (5)
+- g) Contact e telecommunicaziun (6)
+- h) Protecziun da l'ambient ed organisaziun dal territori (7)
+- i) Economia publica (8)
+- j) Finanzas e taglias (9)
+
+#### Art. A1-12
+
+**Indicaziuns supplementaras**
+
+<sup>1</sup> L'agiunta cuntegna supplementarmain en spezial:
+
+- a) ils princips da rendaquint
+- b) la structura funcziunala dal quint economic e dal quint d'investiziun
+- c) ina glista da las investiziuns finanzialas
+- d) ina glista da las immobiglias
+- e) ina glista da las obligaziuns envers las finanziaziuns spezialas ed envers ils fonds en il chapital ester
+- f) la finanziaziun speziala Gulivaziun da finanzas per las vischnancas e las finanziaziuns spezialas Vias
+- g) la cumprova da l'agen chapital extendì
+- h) credits garantids betg quantifitgabels
+- i) la cumprova dals instruments finanzials derivativs pendents
+- j) prestaziuns da garanzia e deposits da tschains da locaziun
+- k) indicaziuns davart ils eveniments suenter il di da referenza da la bilantscha
+- l) il stadi dal diever dals credits d'impegn
+- m) ina glista da las retschavidras e dals retschaviders da contribuziuns chantunalas da passa 3 milliuns francs
+- n) la cumprova da las cunvegnas da program cun la Confederaziun
+- o) ils indicaturs da finanzas
 
 -

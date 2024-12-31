@@ -4,13 +4,12 @@ number: "710.110"
 title: Ordinanza sulla gestione finanziaria cantonale
 short: OGFC
 language: it
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-08-20
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3458/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3784/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3458/pdf_file"
 
 (OGFC)
 
-del 25.09.2012 (stato 01.09.2024)
+del 25.09.2012 (stato 01.01.2025)
 
 emanata dal Governo il 25 settembre 2012
 
@@ -49,7 +48,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 <sup>2</sup> Il messaggio sul preventivo viene completato ai sensi di un piano dei compiti e delle finanze integrato (PCFI) con un piano finanziario triennale, un programma annuale e in particolare con le indicazioni seguenti:
 
-- a) rapporto esplicativo con le proposte del Governo, nonché del Tribunale cantonale e del Tribunale amministrativo a destinazione del Gran Consiglio;
+- a) rapporto esplicativo con le proposte del Governo nonché del Tribunale d'appello a destinazione del Gran Consiglio;
 - b) prova del rispetto dei valori indicativi finanziari del Gran Consiglio.
 
 <sup>3</sup> Qualora esista un forte riferimento al preventivo o alla presentazione dei conti, con il messaggio relativo al preventivo o al conto annuale possono venire riprese anche proposte per la creazione o la revisione di atti normativi del Gran Consiglio. Tale procedura deve essere approvata in precedenza dal Governo.
@@ -99,7 +98,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 <sup>1</sup> Quale complemento ai crediti individuali conformemente all'articolo 15 capoverso 2 e all'articolo 36 capoverso 2 della legge sulla gestione finanziaria[^4-1] vanno tenuti in particolare i seguenti conti quali crediti individuali:
 
 - a) conti nel quadro di accordi di programma con la Confederazione;
-- b) compensazioni interne tra i finanziamenti speciali, i conti speciali, nonché i tribunali cantonali da un lato e altre rubriche dei conti dall'altro;
+- b) compensazioni interne tra i finanziamenti speciali, i conti speciali, nonché i tribunali da un lato e altre rubriche dei conti dall'altro;
 - c) conti con importi non influenzabili dai servizi e significativi in termini di importo;
 - d) conti con importi senza relazione diretta con il mandato di prestazioni dei servizi;
 - e) conti con importi senza base giuridica per l'adempimento di un compito costituzionale conformemente all'articolo 33 capoverso 1 lettera a della legge sulla gestione finanziaria.
@@ -423,7 +422,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 <sup>1</sup> Le compensazioni interne sono accrediti e addebiti tra servizi per prestazioni fornite.
 
-<sup>2</sup> Esse vanno effettuate solo se necessarie per la determinazione causale del preventivo globale, per la fatturazione nei confronti di terzi, nonché per il conteggio con finanziamenti speciali, con conti speciali e con i tribunali cantonali.
+<sup>2</sup> Esse vanno effettuate solo se necessarie per la determinazione causale del preventivo globale, per la fatturazione nei confronti di terzi, nonché per il conteggio con finanziamenti speciali, con conti speciali e con i tribunali.
 
 <sup>3</sup> Esse vanno indicate per quanto possibile tramite forfetarie e orientate ai costi effettivi.
 
@@ -519,7 +518,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 <sup>2</sup> Per quanto riguarda i crediti, la Cancelleria dello Stato è equiparata a un dipartimento.
 
-<sup>3</sup> La Commissione di vigilanza sugli avvocati e la Commissione notarile rientrano, per quanto riguarda i crediti, nella sfera di competenze del Dipartimento di giustizia, polizia e sanità.
+<sup>3</sup> …
 
 #### Art. 40
 
@@ -699,5 +698,209 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 <sup>1</sup> La presente ordinanza entra in vigore il 1° dicembre 2012.
 
 <sup>2</sup> Per la chiusura del conto annuale 2012 vale ancora l'ordinanza sulla gestione finanziaria cantonale del 14 dicembre 2004.
+
+## A1 Allegato 1: Struttura della contabilità (art. 17)
+
+#### Art. A1-1
+
+**Beni patrimoniali**
+
+<sup>1</sup> I beni patrimoniali (BP) vengono suddivisi come segue:
+
+- a) liquidità e investimenti di denaro a breve termine
+- b) crediti
+- c) investimenti finanziari a breve termine
+- d) delimitazioni contabili attive
+- e) scorte e lavori in corso
+- f) investimenti finanziari a lungo termine
+- g) investimenti materiali e immateriali BP
+- h) crediti verso finanziamenti speciali e fondi nel capitale di terzi
+
+#### Art. A1-2
+
+**Beni amministrativi**
+
+<sup>1</sup> I beni amministrativi (BA) vengono suddivisi come segue:
+
+- a) investimenti materiali BA
+- b) investimenti immateriali BA
+- c) mutui BA
+- d) partecipazioni e capitali azionari BA
+- e) contributi per investimenti
+
+#### Art. A1-3
+
+**Capitale di terzi**
+
+<sup>1</sup> Il capitale di terzi viene suddiviso come segue:
+
+- a) impegni correnti
+- b) impegni finanziari a breve termine
+- c) delimitazioni contabili passive
+- d) accantonamenti a breve termine
+- e) impegni finanziari a lungo termine
+- f) accantonamenti a lungo termine
+- g) impegni a favore di finanziamenti speciali e fondi nel capitale di terzi
+
+#### Art. A1-4
+
+**Capitale proprio**
+
+<sup>1</sup> Il capitale proprio viene suddiviso come segue:
+
+- a) finanziamenti speciali nel capitale proprio
+- b) fondi nel capitale proprio
+- c) prefinanziamenti
+- d) altro capitale proprio
+- e) eccedenza di bilancio / disavanzo di bilancio ripartiti in risultato annuale e risultati cumulati degli anni precedenti
+
+#### Art. A1-5
+
+**Documentazione del capitale proprio**
+
+<sup>1</sup> La documentazione del capitale proprio mostra le cause delle variazioni del capitale proprio.
+
+<sup>2</sup> Vanno indicati dettagliatamente i seguenti conti di bilancio:
+
+- a) finanziamenti speciali nel capitale proprio
+- b) fondi nel capitale proprio
+- c) prefinanziamenti
+- d) altro capitale proprio
+- e) eccedenza di bilancio / disavanzo di bilancio ripartiti in risultato annuale e risultati cumulati degli anni precedenti
+
+#### Art. A1-6
+
+**Specchietto degli accantonamenti**
+
+<sup>1</sup> Nello specchietto degli accantonamenti vanno indicati singolarmente tutti gli accantonamenti sostanziali.
+
+<sup>2</sup> Gli accantonamenti vanno articolati a seconda della categoria.
+
+<sup>3</sup> Lo specchietto degli accantonamenti contiene:
+
+- a) designazione del tipo di accantonamento
+- b) commento sul tipo di accantonamento
+- c) stato dell'importo degli accantonamenti alla fine dell'anno precedente in franchi
+- d) stato degli accantonamenti alla fine dell'anno corrente in franchi
+- e) commento in merito alla modifica degli accantonamenti
+
+#### Art. A1-7
+
+**Specchietto delle partecipazioni e delle garanzie**
+
+<sup>1</sup> Lo specchietto delle partecipazioni contiene segnatamente:
+
+- a) mutui e partecipazioni in relazione all'adempimento di compiti pubblici
+- b) forme di collaborazione intercantonale ed enti esternalizzati, ai quali il Cantone partecipa quale membro o responsabile
+
+<sup>2</sup> Nello specchietto delle garanzie vanno presentate tutte le fattispecie dalle quali in futuro può risultare un considerevole impegno. Esso comprende segnatamente:
+
+- a) impegni eventuali con i quali il Cantone si impegna a favore di terzi, in particolare fideiussioni, impegni di garanzia e garanzie del disavanzo
+- b) obbligazioni locative
+- c) altre fattispecie con carattere eventuale quali pene convenzionali e pene di recesso, se queste non sono ancora state contabilizzate quali accantonamenti
+- d) sussidi cantonali garantiti e ancora in sospeso per progetti singoli di terzi al di fuori di accordi con la Confederazione e al di fuori di crediti d'impegno nonché senza sussidi a carico di finanziamenti speciali nel capitale di terzi
+
+#### Art. A1-8
+
+**Specchietto degli investimenti**
+
+<sup>1</sup> Lo specchietto degli investimenti contiene la somma dei valori contabili degli investimenti e gli ammortamenti cumulati all'inizio e alla fine del periodo.
+
+<sup>2</sup> I valori contabili lordi vanno coordinati in relazione ai seguenti movimenti:
+
+- a) entrate
+- b) uscite e alienazioni
+- c) incrementi o diminuzioni durante il periodo, che risultano da nuove valutazioni, incrementi di valore o perdite di valore
+- d) ammortamenti
+- e) altri movimenti
+
+#### Art. A1-9
+
+**Articolazione per tipi del conto economico**
+
+<sup>1</sup> Il conto economico comprende i seguenti tipi di spese e di ricavi:
+
+- a) spese per il personale
+- b) spese per beni e servizi e altre spese d'esercizio
+- c) ammortamenti dei beni amministrativi
+- d) spese finanziarie
+- e) versamenti in fondi e finanziamenti speciali
+- f) spese di riversamento
+- g) contributi da riversare
+- h) spese straordinarie
+- i) compensazioni interne
+- j) gettito fiscale
+- k) regalie e concessioni
+- l) ricavi e tasse
+- m) ricavi diversi
+- n) ricavi finanziari
+- o) prelevamenti da finanziamenti speciali e fondi
+- p) ricavi da riversamenti
+- q) contributi da riversare
+- r) ricavi straordinari
+- s) compensazioni interne
+
+#### Art. A1-10
+
+**Articolazione per tipi del conto degli investimenti**
+
+<sup>1</sup> Il conto degli investimenti comprende:
+
+- a) investimenti materiali
+- b) investimenti per conto di terzi
+- c) investimenti immateriali
+- d) mutui
+- e) partecipazioni e capitali azionari
+- f) contributi propri per investimenti
+- g) contributi per investimenti da riversare
+- h) uscite straordinarie per investimenti
+- i) trasferimenti di investimenti materiali nei beni patrimoniali
+- j) rimborsi da uscite per investimenti per conto di terzi
+- k) trasferimento di investimenti immateriali nei beni patrimoniali
+- l) contributi per investimenti per conto proprio
+- m) restituzione di mutui
+- n) trasferimento di partecipazioni
+- o) restituzione di contributi propri per investimenti
+- p) contributi per investimenti da riversare
+- q) entrate straordinarie per investimenti
+
+#### Art. A1-11
+
+**Articolazione funzionale**
+
+<sup>1</sup> Il conto economico e il conto degli investimenti sono articolati secondo le seguenti funzioni:
+
+- a) Amministrazione generale (0)
+- b) Ordine pubblico e sicurezza, difesa (1)
+- c) Formazione (2)
+- d) Cultura, sport e tempo libero, chiesa (3)
+- e) Sanità (4)
+- f) Sicurezza sociale (5)
+- g) Trasporti e comunicazioni (6)
+- h) Protezione dell'ambiente e assetto del territorio (7)
+- i) Economia pubblica (8)
+- j) Finanze e imposte (9)
+
+#### Art. A1-12
+
+**Indicazioni supplementari**
+
+<sup>1</sup> In via supplementare, l'allegato contiene in particolare:
+
+- a) i principi contabili
+- b) l'articolazione funzionale del conto economico e del conto degli investimenti
+- c) un elenco degli investimenti finanziari
+- d) un elenco degli immobili
+- e) un elenco degli impegni nei confronti di finanziamenti speciali e di fondi nel capitale di terzi
+- f) finanziamento speciale perequazione finanziaria per i comuni e finanziamento speciale strade
+- g) la presentazione del capitale proprio allargato
+- h) i crediti eventuali non quantificabili
+- i) la presentazione degli strumenti finanziari derivati in sospeso
+- j) le prestazioni di sicurezza e cauzioni d'affitto
+- k) indicazioni relative a eventi dopo la data di chiusura del bilancio
+- l) lo stato dell'utilizzo dei crediti d'impegno
+- m) un elenco dei beneficiari di sussidi cantonali superiori a tre milioni di franchi
+- n) il riepilogo degli accordi di programma con la Confederazione
+- o) gli indicatori finanziari
 
 -
