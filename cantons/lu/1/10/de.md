@@ -4,13 +4,13 @@ number: "10"
 title: Stimmrechtsgesetz
 short: StRG
 language: de
-version: 2023-03-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-28
+version: 2025-01-01
+valid_until: 2025-05-31
+version_adopted: 2024-06-17
 adopted: 1988-10-25
 in_force: 1989-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/10"
-pdf: "https://srl.lu.ch/api/de/versions/4051/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4869/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4051/pdf_file"
 
 (StRG)
 
-vom 25.10.1988 (Stand 01.03.2023)
+vom 25.10.1988 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
