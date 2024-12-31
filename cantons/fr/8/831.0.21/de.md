@@ -3,13 +3,12 @@ canton: FR
 number: "831.0.21"
 title: Verordnung über die Errichtung eines kantonalen Sozialfonds
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-09
+version: 2025-01-01
+version_adopted: 2024-06-04
 adopted: 2006-12-05
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/831.0.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/6694/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8020/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6694/pdf_file"
 
 Kantonaler Sozialfonds – V
 
-vom 05.12.2006 (Fassung in Kraft getreten am 01.01.2021)
+vom 05.12.2006 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -60,7 +59,7 @@ beschliesst:
 
 <sup>1</sup> Der Fonds wird gespeist durch:
 
-- a) den Anteil an den Nettogewinnen der Gesellschaft der Loterie Romande gemäss der Verordnung über die Verteilung der Nettogewinne der Gesellschaft der Loterie Romande, das heisst jährlich 500 000 Franken;
+- a) den Anteil an den Nettogewinnen der Gesellschaft der Loterie Romande gemäss der Verordnung über die Verteilung der Nettogewinne der Gesellschaft der Loterie Romande;
 - b) Legate und Schenkungen;
 - c) den Ertrag aus dem Vermögen des Fonds;
 - d) weitere Mittel, die ihm zugeteilt werden können.

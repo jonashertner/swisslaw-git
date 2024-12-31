@@ -3,13 +3,12 @@ canton: FR
 number: "831.0.21"
 title: "Ordonnance concernant la création d'un Fonds cantonal de l'action sociale"
 language: fr
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-09
+version: 2025-01-01
+version_adopted: 2024-06-04
 adopted: 2006-12-05
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/831.0.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6694/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8020/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6694/pdf_file"
 
 Fonds cantonal de l'action sociale – O
 
-du 05.12.2006 (version entrée en vigueur le 01.01.2021)
+du 05.12.2006 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -60,7 +59,7 @@ Arrête:
 
 <sup>1</sup> Le Fonds est alimenté par:
 
-- a) la part des bénéfices nets de la Société de la Loterie de la Suisse romande visée par l'ordonnance concernant la répartition des bénéfices nets de la Société de la Loterie de la Suisse romande, soit 500'000 francs annuellement;
+- a) la part des bénéfices nets de la Société de la Loterie de la Suisse romande visée par l'ordonnance concernant la répartition des bénéfices nets de la Société de la Loterie de la Suisse romande;
 - b) les legs et dons consentis en sa faveur;
 - c) le produit de la fortune du Fonds;
 - d) toutes les autres ressources qui peuvent lui être affectées.
