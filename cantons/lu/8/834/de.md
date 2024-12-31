@@ -3,20 +3,19 @@ canton: LU
 number: "834"
 title: Vollzugsverordnung zur eidgenössischen Chemikaliengesetzgebung
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-30
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2009-04-28
 in_force: 2009-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/834"
-pdf: "https://srl.lu.ch/api/de/versions/3875/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4324/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zur eidgenössischen Chemikaliengesetzgebung
 
-vom 28.04.2009 (Stand 01.01.2022)
+vom 28.04.2009 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -53,7 +52,7 @@ beschliesst:
 
 **Informationsaustausch**
 
-<sup>1</sup> Die für den Vollzug der Chemikaliengesetzgebung zuständigen kantonalen Behörden stellen sich die zur Erfüllung ihrer Aufgaben erforderlichen Daten gegenseitig zur Verfügung. Sie können zu diesem Zweck automatisierte Abrufverfahren einrichten. Soweit es sich um vertrauliche Daten im Zusammenhang mit der Zusammensetzung von Zubereitungen handelt, gilt Artikel 87 Absatz 4 der Verordnung über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikalienverordnung) vom 18. Mai 2005[^3-1] sinngemäss.
+<sup>1</sup> Die für den Vollzug der Chemikaliengesetzgebung zuständigen kantonalen Behörden stellen sich die zur Erfüllung ihrer Aufgaben erforderlichen Daten gegenseitig zur Verfügung. Sie können zu diesem Zweck automatisierte Abrufverfahren einrichten. Soweit es sich um vertrauliche Daten im Zusammenhang mit der Zusammensetzung von Zubereitungen handelt, gilt Artikel 75 Absatz 5 der Verordnung über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikalienverordnung, ChemV) vom 5. Juni 2015[^3-1] sinngemäss.
 
 [^3-1]: SR [813.11](https://db.clex.ch/link/Bund/813.11/de)
 
@@ -81,11 +80,16 @@ beschliesst:
 
 #### § 6
 
-<sup>1</sup> Die Dienststelle Lebensmittelkontrolle und Verbraucherschutz kann für Tätigkeiten aus dem Vollzug der Chemikaliengesetzgebung Gebühren erheben.
+<sup>1</sup> Die Dienststelle Lebensmittelkontrolle und Verbraucherschutz erhebt für Kontrollen, die zu Beanstandungen führen, Gebühren.
 
-<sup>2</sup> Die Höhe der Gebühren richtet sich nach dem Gebührentarif und der Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^6-1].
+<sup>2</sup> Aufwände bei Kontrollen, die zu Beanstandungen führen, werden mit einem Stundenansatz von 40 bis 85 Aufwandpunkten verrechnet. Der Wert eines Aufwandpunktes beträgt Fr. 2.30.
 
-[^6-1]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
+<sup>3</sup> Daneben können insbesondere folgende Gebühren anfallen:
+
+- a. Wegpauschale bei Probenerhebungen und Kontrollen — 20 Aufwandpunkte
+- b. erster beanstandeter Sachverhalt bei Kontrollen — 30 Aufwandpunkte
+- c. jeder weitere beanstandete Sachverhalt — 15 Aufwandpunkte
+- d. Administration (pro Stunde) — 60 Aufwandpunkte
 
 ## 3a Rechtsschutz
 
