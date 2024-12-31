@@ -3,11 +3,11 @@ sr: "916.472"
 title: Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV)
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20240701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20240701/de"
 
 (Gebührenverordnung BLV)[^t-1]
 
-vom 30. Oktober 1985 (Stand am 1. Juli 2024)
+vom 30. Oktober 1985 (Stand am 1. Januar 2025)
 
 [^t-1]: Kurztitel eingefügt gemäss Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2011 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -26,14 +26,14 @@ gestützt auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^ingress-3]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-4]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-5]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-6]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-7]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^ingress-8]: [SR 0.916.443.961.41](https://fedlex.data.admin.ch/eli/cc/2012/274)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^ingress-3]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-4]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-5]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-6]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-7]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^ingress-8]: [SR 0.916.443.961.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4063)
 [^ingress-9]: Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -53,7 +53,7 @@ Diese Verordnung regelt die Gebühren für Verfügungen und Dienstleistungen des
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^2-2] (AllgGebV).
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^2-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -87,8 +87,8 @@ Das BLV[^4-2] kann für Verfügungen und Dienstleistungen von aussergewöhnliche
 - c. Kosten für Untersuchungen in eigenen oder fremden Laboratorien.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^5-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^5-3]: [[AS 1997 167](https://fedlex.data.admin.ch/eli/oc/1997/167_167_167). [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 2]. Siehe heute: die Art. 8*l*-8*t* der Regierungs- und Verwaltungsorganisationsverordnung vom vom 25. Nov. 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^5-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^5-3]: [[AS 1997 167](https://fedlex.data.admin.ch/eli/oc/1997/167_167_167). [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 2]. Siehe heute: die Art. 8*l*-8*t* der Regierungs- und Verwaltungsorganisationsverordnung vom vom 25. Nov. 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 #### Art. 6
 
@@ -101,7 +101,7 @@ Das BLV[^4-2] kann für Verfügungen und Dienstleistungen von aussergewöhnliche
 <sup>3</sup> Die Gebühr für die grenztierärztliche Untersuchung wird für jede zur Untersuchung angenommene Sendung erhoben, unabhängig davon, ob diese zur Einfuhr zugelassen, zurückgewiesen oder sonst wie beanstandet wird.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^6-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^6-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 7
 
@@ -124,7 +124,7 @@ Das BLV[^4-2] kann für Verfügungen und Dienstleistungen von aussergewöhnliche
 <sup>2</sup> Wird eine vom Zollamt erhobene Gebühr (Art. 6) zusammen mit der Zollveranlagung angefochten oder bezieht sich die Beschwerde lediglich auf einen Rechnungsfehler, so richten sich Zuständigkeit und Verfahren nach Artikel 109 des Zollgesetzes vom 1. Oktober 1925[^8-2].
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^8-2]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^8-2]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 9–14
 
@@ -181,11 +181,11 @@ Die Gebühren für die Kontrollen von Sendungen durch die Kontrollorgane nach Ar
 [^15-2]: Fassung gemäss Anhang Ziff. II 4 der V vom 4. Sept. 2013 über den Verkehr mit Tieren und Pflanzen geschützter Arten, in Kraft seit 1. Okt. 2013 ([AS 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 [^15-3]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 [^15-4]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^15-5]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^15-6]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^15-5]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^15-6]: [SR 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 [^15-7]: Eingefügt durch Anhang Ziff. II 4 der V vom 4. Sept. 2013 über den Verkehr mit Tieren und Pflanzen geschützter Arten ([AS 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 [^15-8]: Eingefügt durch Anhang Ziff. II 4 der V vom 4. Sept. 2013 über den Verkehr mit Tieren und Pflanzen geschützter Arten, in Kraft seit 1. Okt. 2013 ([AS 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^15-9]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^15-9]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^15-10]: Eingefügt durch Anhang Ziff. II 4 der V vom 4. Sept. 2013 über den Verkehr mit Tieren und Pflanzen geschützter Arten ([AS 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)). Fassung gemäss Anhang 8 Ziff. 6 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 16
@@ -211,7 +211,7 @@ Für Sendungen aus Drittstaaten, die für Drittstaaten bestimmt sind, beträgt d
 Für Sendungen, die ohne die nach Artikel 18 der Verordnung vom 18. November 2015[^17a-2] über die Ein‑, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS) erforderliche Voranmeldung eingeführt oder durchgeführt werden, wird für die Umtriebe eine Zusatzgebühr von 150 Franken erhoben.
 
 [^17a-1]: Eingefügt durch Ziff. I der V vom 27. Aug. 2008 ([AS 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^17a-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^17a-2]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 #### Art. 17b
 
@@ -220,9 +220,9 @@ Für Sendungen, die ohne die nach Artikel 18 der Verordnung vom 18. November 201
 Für die Verfügung von Massnahmen nach Artikel 68 EDAV-DS[^17b-2], Artikel 30 der Verordnung vom 28. November 2014[^17b-3] über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht) sowie den Artikeln 28–28*b* und 34–38 der Verordnung vom 4. September 2013[^17b-4] über den Verkehr mit Tieren und Pflanzen geschützter Arten erhebt das BLV eine Gebühr von 120 Franken.
 
 [^17b-1]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^17b-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^17b-3]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
-[^17b-4]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^17b-2]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^17b-3]: [SR 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
+[^17b-4]: [SR 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 
 #### Art. 18
 
@@ -239,11 +239,11 @@ Für die Verfügung von Massnahmen nach Artikel 68 EDAV-DS[^17b-2], Artikel 30 d
 <sup>3</sup> Die Gebühr für die Annulation einer Bewilligung nach den Absätzen 1, 1<sup>ter</sup> und 2 beträgt 20 Franken.[^18-8]
 
 [^18-1]: Fassung gemäss Anhang 6 Ziff. II 4 der V vom 28. Nov. 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren, in Kraft seit 29. Dez. 2014 ([AS 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
-[^18-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^18-3]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^18-2]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^18-3]: [SR 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
 [^18-4]: Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^18-5]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Aufgehoben durch Ziff. II 2 der V vom 31. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^18-6]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^18-6]: [SR 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 [^18-7]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^18-8]: Eingefügt durch Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
@@ -261,8 +261,8 @@ Für die Verfügung von Massnahmen nach Artikel 68 EDAV-DS[^17b-2], Artikel 30 d
 
 <sup>3</sup> Die Gebühr für die Annulation einer Bewilligung nach Absatz 2 beträgt 10 Franken.[^19-4]
 
-[^19-1]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^19-2]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^19-1]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^19-2]: [SR 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 [^19-3]: Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^19-4]: Eingefügt durch Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
@@ -290,7 +290,7 @@ Zusätzlich zu den Gebühren werden die folgenden Auslagen in Rechnung gestellt:
 
 [^20-1]: [[AS 1959 1103](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137); [1962 279](https://fedlex.data.admin.ch/eli/oc/1962/279_285_288), [1229](https://fedlex.data.admin.ch/eli/oc/1962/1229_1271_1283); [1964 595](https://fedlex.data.admin.ch/eli/oc/1964/595_592_600); [1968 111](https://fedlex.data.admin.ch/eli/oc/1968/111_111_115), [1615](https://fedlex.data.admin.ch/eli/oc/1968/1615_1663_1581); [1971 70](https://fedlex.data.admin.ch/eli/oc/1971/70_74_74); [1973 133](https://fedlex.data.admin.ch/eli/oc/1973/133_133_135), 320; [1974 1](https://fedlex.data.admin.ch/eli/oc/1974/1_1_1); [1976 2699](https://fedlex.data.admin.ch/eli/oc/1976/2699_2699_2699); [1977 1413](https://fedlex.data.admin.ch/eli/oc/1977/1413_1413_1413)Ziff. I und II, 2155; **1979** 1287; **1982** 938; **1984** 394, 1285; **1986** 193, 2091; **1987** 941; **1988** 7; **1989** 8, 1217; **1990** 102, 1736; **1991** 1075, 1078, 1145, 1380, 1642; **1992** 3; **1993** 820 Anhang Ziff. 1, 1565 Art. 13 Abs. 1, 2812; **1994** 2, 269, 364; **1995** 3, 3867 Anhang Ziff. 8, 5067; **1997** 230, 299; **1998** 726; **2000** 419 Anhang Ziff. 1, 2953. [AS 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. I 2]
 [^20-2]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2011 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
-[^20-3]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^20-3]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### 3*a*. Abschnitt: …
 
@@ -357,8 +357,6 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 <tr><td>b. für leitende amtliche Tierärztinnen und Tierärzte</td><td>2500.–</td></tr>
 <tr><td>c. für amtliche Fachexpertinnen und Fachexperten</td><td>2500.–</td></tr>
 <tr><td>d.[^24a-2] für amtliche Fachassistentinnen und Fachassistente Schlachttier- und Fleischuntersuchung</td><td>1000.–</td></tr>
-<tr><td>[tab]</td><td></td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>e.[^24a-3] für amtliche Fachassistentinnen und Fachassistenten für weitere Aufgaben</td><td>1000.–</td></tr>
 </table>
 
@@ -380,16 +378,18 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 [^24a-4]: Fassung gemäss Anhang 2 Ziff. II 8 der V vom 16. Nov. 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen, in Kraft seit 1. Jan. 2012 ([AS 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 [^24a-5]: Fassung gemäss Anhang 2 Ziff. II 8 der V vom 16. Nov. 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen, in Kraft seit 1. Jan. 2012 ([AS 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### 9. Abschnitt: Benutzung des Informationssystems Animex-ch
+### 9. Abschnitt: Benutzung der Informationssysteme Animex ch und E Cert
 
 [^chap2-sec9-1][^chap2-sec9-2]
 
 [^chap2-sec9-1]: Eingefügt durch Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2012 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
-[^chap2-sec9-2]: Ausdruck gemäss Ziff. III 2 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^chap2-sec9-2]: Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 24b
 
-<sup>1</sup> Das BLV erhebt für die Benutzung des Informationssystems Animex-ch von den Kantonen folgende Gebühren:
+**Benutzung des Informationssystems Animex-ch[^24b-1]**
+
+<sup>1</sup> Das BLV erhebt für die Benutzung des Informationssystems Animex-ch[^24b-2] von den Kantonen folgende Gebühren:
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -401,6 +401,17 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 </table>
 
 <sup>2</sup> Übernimmt das BLV die Aufgaben eines Kantons, der selbst nicht mit dem Informationssystem Animex-ch arbeitet, so beträgt die Gebühr das Zweifache des Betrages nach Absatz 1.
+
+[^24b-1]: Eingefügt durch Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^24b-2]: Ausdruck gemäss Ziff. III 2 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+#### Art. 24b<sup>bis</sup>
+
+**Benutzung des Informationssystems E-Cert**[^24bbis-1]
+
+Das BLV erhebt für die Benutzung des Informationssystems E-Cert von den Exporteuren eine Gebühr von 30 Franken pro Gesundheitsbescheinigung.
+
+[^24bbis-1]: Eingefügt durch Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### 10. Abschnitt: Zulassung von Pflanzenschutzmitteln
 
@@ -426,7 +437,7 @@ Das BLV erhebt für die Prüfungen und die Kontrollen nach der Pflanzenschutzmit
 <tr><td>h. Bearbeitung eines Zulassungsgesuches für im Ausland zugelassene Pflanzenschutzmittel, die in der Schweiz bewilligten Pflanzenschutzmitteln entsprechen (Art. 36 Abs. 3 PSMV)</td><td>50.–</td></tr>
 </table>
 
-[^24c-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^24c-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ## 3. Kapitel: Schlussbestimmungen
 

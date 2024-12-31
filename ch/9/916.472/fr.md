@@ -3,11 +3,11 @@ sr: "916.472"
 title: "Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l'OSAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20240701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20240701/fr"
 
 (Ordonnance sur les émoluments de l’OSAV, OEmol-OSAV)[^t-1]
 
-du 30 octobre 1985 (État le 1<sup>er</sup> juillet 2024)
+du 30 octobre 1985 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Tit. introduit par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -26,14 +26,14 @@ vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement
 
 arrête:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-4]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^ingress-8]: [RS 0.916.443.961.41](https://fedlex.data.admin.ch/eli/cc/2012/274)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-4]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-5]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-6]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^ingress-8]: [RS 0.916.443.961.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4063)
 [^ingress-9]: Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## Chapitre 1 Dispositions générales
@@ -53,7 +53,7 @@ La présente ordonnance régit les émoluments pour les décisions et les presta
 L’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^2-2] s’applique, sauf disposition particulière de la présente ordonnance.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^2-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -87,8 +87,8 @@ Les débours comprennent, outre les frais énumérés à l’art. 6 OGEmol[^5-2]
 - c. les coûts des examens exécutés dans les laboratoires de l’OSAV ou confiés à d’autres laboratoires.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^5-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^5-3]: **[**[RO 1997 167](https://fedlex.data.admin.ch/eli/oc/1997/167_167_167). [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 2]. Voir actuellement l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^5-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^5-3]: **[**[RO 1997 167](https://fedlex.data.admin.ch/eli/oc/1997/167_167_167). [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 2]. Voir actuellement l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 #### Art. 6
 
@@ -101,7 +101,7 @@ Les débours comprennent, outre les frais énumérés à l’art. 6 OGEmol[^5-2]
 <sup>3</sup> Les émoluments pour la visite vétérinaire de frontière sont perçus pour tout lot contrôlé, qu’il soit admis à l’importation, refoulé ou contesté d’une autre manière.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^6-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^6-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 7
 
@@ -124,7 +124,7 @@ Les débours comprennent, outre les frais énumérés à l’art. 6 OGEmol[^5-2]
 <sup>2</sup> Si un recours porte à la fois sur des émoluments perçus par le bureau de douane (art. 6) et les droits perçus par la douane ou si le recours ne concerne qu’une erreur de calcul, la compétence et la procédure sont régies par l’art. 109 de la loi fédérale du 1<sup>er</sup> octobre 1925 sur les douanes[^8-2].
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^8-2]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la loi du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^8-2]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la loi du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 9 à 14
 
@@ -180,11 +180,11 @@ Les émoluments pour les opérations de contrôle des lots effectuées par les o
 [^15-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 [^15-2]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 [^15-3]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^15-4]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^15-5]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^15-4]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^15-5]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 [^15-6]: Introduit par l’annexe ch. II 4 de l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 [^15-7]: Introduit par l’annexe ch. II 4 de l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^15-8]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^15-8]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^15-9]: Introduit par l’annexe ch. II 4 de l’O du 4 sept. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)). Nouvelle teneur selon l’annexe 8 ch. 6 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 16
@@ -206,7 +206,7 @@ Les émoluments pour les lots transitant de pays tiers à pays tiers sont fixés
 Un émolument supplémentaire de 150 francs est perçu pour le surcroît de travail occasionné par les lots importés ou en transit qui n’ont pas fait l’objet d’une notification préalable comme l’exige l’art. 18 de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE‑PT)[^17a-2].
 
 [^17a-1]: Introduit par le ch. I de l’O du 27 août 2008 ([RO 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^17a-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^17a-2]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 #### Art. 17b
 
@@ -215,9 +215,9 @@ Un émolument supplémentaire de 150 francs est perçu pour le surcroît de trav
 L’OSAV perçoit un émolument de 120 francs pour toute décision relative aux mesures visées aux art. 68 OITE‑PT[^17b-2], 30 de l’ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE-AC)[^17b-3], 28 à 28*b* et 34 à 38 de l’ordonnance du 4 septembre 2013 sur la circulation des espèces de faune et de flore protégées[^17b-4].
 
 [^17b-1]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^17b-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^17b-3]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
-[^17b-4]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^17b-2]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^17b-3]: [RS 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
+[^17b-4]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 
 #### Art. 18
 
@@ -234,11 +234,11 @@ L’OSAV perçoit un émolument de 120 francs pour toute décision relative aux 
 <sup>3</sup> L’émolument perçu pour l’annulation d’une autorisation visée à l’al. 1, 1<sup>ter</sup> ou 2 est de 20 francs.[^18-8]
 
 [^18-1]: Nouvelle teneur selon l’annexe 6 ch. II 4 de l’O du 28 nov. 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie, en vigueur depuis le 29 déc. 2014 ([RO 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
-[^18-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^18-3]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^18-2]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^18-3]: [RS 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
 [^18-4]: Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^18-5]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Abrogé par le ch. II 2 de l’O du 31 mai 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^18-6]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^18-6]: [RS 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 [^18-7]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^18-8]: Introduit par le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
@@ -256,8 +256,8 @@ L’OSAV perçoit un émolument de 120 francs pour toute décision relative aux 
 
 <sup>3</sup> L’émolument perçu pour l’annulation d’une autorisation visée à l’al. 2 est de 10 francs.[^19-4]
 
-[^19-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^19-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^19-1]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^19-2]: [RS 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 [^19-3]: Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^19-4]: Introduit par le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
@@ -285,7 +285,7 @@ Les débours ci-après sont facturés en plus des émoluments:
 
 [^20-1]: [[RO 1959 1141](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137), [1962 285](https://fedlex.data.admin.ch/eli/oc/1962/279_285_288)[1271](https://fedlex.data.admin.ch/eli/oc/1962/1229_1271_1283), [1964 592](https://fedlex.data.admin.ch/eli/oc/1964/595_592_600), [1968 111](https://fedlex.data.admin.ch/eli/oc/1968/111_111_115)[1700](https://fedlex.data.admin.ch/eli/oc/1968/1655_1700_1619), [1971 74](https://fedlex.data.admin.ch/eli/oc/1971/70_74_74), [1973 133](https://fedlex.data.admin.ch/eli/oc/1973/133_133_135)[320](https://fedlex.data.admin.ch/eli/oc/1973/_320_), [1974 1](https://fedlex.data.admin.ch/eli/oc/1974/1_1_1), [1976 2699](https://fedlex.data.admin.ch/eli/oc/1976/2699_2699_2699), [1977 1413](https://fedlex.data.admin.ch/eli/oc/1977/1413_1413_1413)ch. I et II 2155, **1979** 1287, **1982** 938, **1984** 394 1285, **1986** 193 2091, **1987** 941, **1988** 7, **1989** 8 1217, **1990** 102 1736, **1991** 1075 1078 1145 1380 1642, **1992** 3, **1993** 820 annexe ch. 1 1565 art. 13 al. 1 2812, **1994** 2 269 364, **1995** 3 3867 annexe ch. 8 5067, **1997** 230 299, **1998** 726, **2000** 419 annexe ch. 1 2953. [RO 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)annexe ch. I 2]
 [^20-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
-[^20-3]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^20-3]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### Section 3*a* …
 
@@ -375,16 +375,18 @@ Pour l’agrément d’un laboratoire de diagnostic, de même que pour la révoc
 [^24a-5]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 16 nov. 2011 (Formation des personnes travaillant dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 [^24a-6]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 16 nov. 2011 (Formation des personnes travaillant dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### Section 9 Utilisation du système informatique animex-ch
+### Section 9 Utilisation des systèmes d’information animex.ch et eCert
 
 [^chap2-sec9-1][^chap2-sec9-2]
 
 [^chap2-sec9-1]: Introduite par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
-[^chap2-sec9-2]: Nouvelle expression selon le ch. III 2 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Il a été tenu compte de cette mod. dans tout le texte.
+[^chap2-sec9-2]: Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 24b
 
-<sup>1</sup> Pour l’utilisation du système informatique animex-ch, l’OSAV prélève les émoluments suivants:
+**Utilisation du système d’information animex-ch[^24b-1]**
+
+<sup>1</sup> Pour l’utilisation du système informatique animex-ch[^24b-2], l’OSAV prélève les émoluments suivants:
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -396,6 +398,17 @@ Pour l’agrément d’un laboratoire de diagnostic, de même que pour la révoc
 </table>
 
 <sup>2</sup> Si l’OSAV assume des tâches d’un canton qui ne travaille pas avec le système informatique animex-ch, l’émolument est deux fois supérieur au montant fixé à l’al. 1.
+
+[^24b-1]: Introduit par le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^24b-2]: Nouvelle expression selon le ch. III 2 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 24b<sup>bis</sup>
+
+**Utilisation du système d’information eCert**[^24bbis-1]
+
+Pour l’utilisation du système d’information eCert, l’OSAV prélève auprès des exportateurs un émolument de 30 francs par certificat sanitaire établi.
+
+[^24bbis-1]: Introduit par le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Section 10 Homologation des produits phytosanitaires
 
@@ -421,7 +434,7 @@ L’OSAV prélève les émoluments suivants pour les examens et contrôles visé
 <tr><td>h. Traitement d’une demande d’homologation de produits phytosanitaires homologués à l’étranger qui correspondent à des produits phytosanitaires autorisés en Suisse (art. 36, al. 3, OPPh)</td><td>50.–</td></tr>
 </table>
 
-[^24c-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^24c-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ## Chapitre 3 Dispositions finales
 

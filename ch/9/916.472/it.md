@@ -3,11 +3,11 @@ sr: "916.472"
 title: "Ordinanza del 30 ottobre 1985 sulle tasse dell'Ufficio federale della sicurezza alimentare e di veterinaria (Ordinanza sulle tasse dell'USAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20240701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20240701/it"
 
 (Ordinanza sulle tasse dell’USAV)[^t-1]
 
-del 30 ottobre 1985 (Stato 1° luglio 2024)
+del 30 ottobre 1985 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2011 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -26,15 +26,15 @@ visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-1] sull’organi
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-4]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^ingress-8]: [RS 0.916.443.961.41](https://fedlex.data.admin.ch/eli/cc/2012/274)
-[^ingress-9]: Nuovo testo giusta il n. II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-4]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-5]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-6]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^ingress-8]: [RS 0.916.443.961.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4063)
+[^ingress-9]: Nuovo testo giusta la cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -52,8 +52,8 @@ La presente ordinanza disciplina le tasse per le decisioni e le prestazioni di s
 
 Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^2-2] sugli emolumenti (OgeEm).
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^2-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^2-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -65,7 +65,7 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 <sup>3</sup> La tariffa oraria per la tassa calcolata in funzione del dispendio di tempo è di 140 franchi.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
 
 #### Art. 4
 
@@ -73,8 +73,8 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 Per le decisioni e le prestazioni di eccezionale entità, particolare difficoltà o urgenza, l’USAV[^4-2] può riscuotere un supplemento fino al 50 per cento della tassa.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^4-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([[RU 2004 4937](https://www.fedlex.admin.ch/eli/oc/2004/746/it)](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^4-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ( [[RU 2004 4937](https://www.fedlex.admin.ch/eli/oc/2004/746/it)](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -86,9 +86,9 @@ Oltre agli esborsi di cui all’articolo 6 OgeEm[^5-2] sono fatturati:
 - b. le spese per l’assunzione di prove, le perizie scientifiche, gli esami speciali o la ricerca di materiale o documentazione;
 - c. i costi per esami effettuati in laboratori dell’USAV o affidati ad altri laboratori.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^5-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^5-3]: [[RU 1997 167](https://fedlex.data.admin.ch/eli/oc/1997/167_167_167). [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 2]. Vedi ora l’O del 25 nov. 19981 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^5-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^5-3]: [[RU 1997 167](https://fedlex.data.admin.ch/eli/oc/1997/167_167_167). [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)cifra II 2]. Vedi ora l’O del 25 nov. 19981 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 #### Art. 6
 
@@ -100,8 +100,8 @@ Oltre agli esborsi di cui all’articolo 6 OgeEm[^5-2] sono fatturati:
 
 <sup>3</sup> La tassa per la visita veterinaria di confine è riscossa per tutti gli invii accettati alla visita indipendentemente dal fatto che siano ammessi all’importazione, respinti o contestati in altro modo.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^6-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^6-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 7
 
@@ -113,7 +113,7 @@ Oltre agli esborsi di cui all’articolo 6 OgeEm[^5-2] sono fatturati:
 
 <sup>3</sup> Le tasse fino a 200 franchi possono essere riscosse contro rimborso.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
 
 #### Art. 8
 
@@ -123,14 +123,14 @@ Oltre agli esborsi di cui all’articolo 6 OgeEm[^5-2] sono fatturati:
 
 <sup>2</sup> Se la tassa riscossa dall’ufficio doganale (art. 6) e i dazi sono impugnati contemporaneamente o se il ricorso concerne unicamente un errore di calcolo, la competenza e la procedura sono disciplinate dall’articolo 109 della legge federale del 1° ottobre 1925[^8-2] sulle dogane.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^8-2]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 n. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644);[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7;[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^8-2]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644);[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7;[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. cifra II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 9 a 14
 
 [^914-1]
 
-[^914-1]: Abrogati dal n. I dell’O del 16 giu. 2006, con effetto dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^914-1]: Abrogati dalla cifra I dell’O del 16 giu. 2006, con effetto dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
 
 ## Capitolo 2: Tariffa delle tasse
 
@@ -138,7 +138,7 @@ Oltre agli esborsi di cui all’articolo 6 OgeEm[^5-2] sono fatturati:
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 18 apr. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).
+[^chap2-sec1-1]: Nuovo testo giusta la cifra I dell’O del 18 apr. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).
 
 #### Art. 15
 
@@ -177,15 +177,15 @@ Le tasse per i controlli di partite da parte degli organi di controllo secondo l
 
 <sup>5</sup> Se in caso di importazione di piante vive è riscossa una tassa per il controllo secondo l’articolo 49 dell’ordinanza del 31 ottobre 2018[^15-8] sulla salute dei vegetali, si rinuncia alla riscossione della tassa di cui al capoverso 4 lettera a.[^15-9]
 
-[^15-1]: Nuovo testo giusta l’all. n. II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^15-2]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^15-3]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^15-4]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^15-5]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
-[^15-6]: Introdotto dall’all. n. II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^15-7]: Introdotto dall’all. n. II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^15-8]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^15-9]: Introdotto dall’all. n. II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)). Nuovo testo giusta l’all. 8 n. 6 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^15-1]: Nuovo testo giusta l’all. cifra II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
+[^15-2]: Introdotto dall’all. cifra II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^15-3]: Introdotto dall’all. cifra II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^15-4]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^15-5]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
+[^15-6]: Introdotto dall’all. cifra II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
+[^15-7]: Introdotto dall’all. cifra II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
+[^15-8]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^15-9]: Introdotto dall’all. cifra II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)). Nuovo testo giusta l’all. 8 n. 6 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art.16
 
@@ -205,8 +205,8 @@ Per le partite in transito da Paesi terzi verso Paesi terzi la tassa ammonta a 4
 
 Per le partite importate o fatte transitare senza la necessaria notifica preventiva di cui all’articolo 18 dell’ordinanza del 18 novembre 2015[^17a-2] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi (OITE‑PT) è riscossa una tassa supplementare di 150 franchi.
 
-[^17a-1]: Introdotto dal n. I dell’O del 27 ago. 2008 ([RU 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Nuovo testo giusta il n. II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^17a-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^17a-1]: Introdotto dalla cifra I dell’O del 27 ago. 2008 ([RU 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Nuovo testo giusta la cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^17a-2]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 #### Art. 17b
 
@@ -214,10 +214,10 @@ Per le partite importate o fatte transitare senza la necessaria notifica prevent
 
 Per la disposizione di misure secondo l’articolo 68 OITE‑PT[^17b-2], l’articolo 30 dell’ordinanza del 28 novembre 2014[^17b-3] concernente l’importazione, il transito e l’esportazione di animali da compagnia (OITEAc) e gli articoli 28–28*b* e 34–38 dell’ordinanza del 4 settembre 2013[^17b-4] sulla circolazione delle specie di fauna e di flora protette l’USAV riscuote una tassa di 120 franchi.
 
-[^17b-1]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Nuovo testo giusta il n. II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^17b-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^17b-3]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
-[^17b-4]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^17b-1]: Introdotto dall’all. cifra II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Nuovo testo giusta la cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^17b-2]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^17b-3]: [RS 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
+[^17b-4]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 
 #### Art. 18
 
@@ -233,20 +233,20 @@ Per la disposizione di misure secondo l’articolo 68 OITE‑PT[^17b-2], l’art
 
 <sup>3</sup> La tassa per l’annullamento di un’autorizzazione di cui ai capoversi 1, 1<sup>ter</sup> e 2 ammonta a 20 franchi.[^18-8]
 
-[^18-1]: Nuovo testo giusta il n. II 4 dell’all. 6 all’O del 28 nov. 2014 concernente l’importazione’ il transito e l’esportazione di animali da compagnia, in vigore dal 29 dic. 2014 ([RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
-[^18-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^18-3]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
-[^18-4]: Nuovo testo giusta il n. II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^18-5]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Abrogato dal n. II 2 dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-1]: Nuovo testo giusta la cifra II 4 dell’all. 6 all’O del 28 nov. 2014 concernente l’importazione’ il transito e l’esportazione di animali da compagnia, in vigore dal 29 dic. 2014 ([RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
+[^18-2]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^18-3]: [RS 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
+[^18-4]: Nuovo testo giusta la cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-5]: Introdotto dall’all. cifra II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Abrogato dalla cifra II 2 dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^18-6]: RS **916.433.11**
-[^18-7]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Nuovo testo giusta il n. II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^18-8]: Introdotto dal n. II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-7]: Introdotto dall’all. cifra 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Nuovo testo giusta la cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-8]: Introdotto dalla cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 2: Autorizzazioni e certificati di esportazione
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nuovo testo giusta l’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^chap2-sec2-1]: Nuovo testo giusta l’all. cifra II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 #### Art. 19
 
@@ -256,10 +256,10 @@ Per la disposizione di misure secondo l’articolo 68 OITE‑PT[^17b-2], l’art
 
 <sup>3</sup> La tassa per l’annullamento di un’autorizzazione di cui al capoverso 2 ammonta a 10 franchi.[^19-4]
 
-[^19-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^19-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^19-3]: Nuovo testo giusta il n. II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^19-4]: Introdotto dal n. II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^19-1]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^19-2]: [RS 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
+[^19-3]: Nuovo testo giusta la cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^19-4]: Introdotto dalla cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 3: Autorizzazione di sistemi di stabulazione e impianti di stabulazione
 
@@ -283,9 +283,9 @@ Oltre alle tasse sono computate le spese seguenti:
 - b. le spese per il materiale;
 - c.[^20-2] le spese per l’esame pratico (art. 82 cpv. 2 dell’O del 23 apr. 2008[^20-3] sulla protezione degli animali).
 
-[^20-1]: [[RU 1959 1137](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137); [1962 288](https://fedlex.data.admin.ch/eli/oc/1962/279_285_288), [1283](https://fedlex.data.admin.ch/eli/oc/1962/1229_1271_1283); [1964 600](https://fedlex.data.admin.ch/eli/oc/1964/595_592_600); [1968 115](https://fedlex.data.admin.ch/eli/oc/1968/111_111_115), [1619](https://fedlex.data.admin.ch/eli/oc/1968/1655_1700_1619); [1971 74](https://fedlex.data.admin.ch/eli/oc/1971/70_74_74); **1973** 139; [1974 5](https://fedlex.data.admin.ch/eli/oc/1974/5_5_5); [1976 2699](https://fedlex.data.admin.ch/eli/oc/1976/2699_2699_2699); [1977 1413](https://fedlex.data.admin.ch/eli/oc/1977/1413_1413_1413), [2155](https://fedlex.data.admin.ch/eli/oc/1977/2155_2155_2155); [1979 1287](https://fedlex.data.admin.ch/eli/oc/1979/1287_1287_1287); [1982 938](https://fedlex.data.admin.ch/eli/oc/1982/938_938_938); [1984 394](https://fedlex.data.admin.ch/eli/oc/1984/394_394_394); [1986 193](https://fedlex.data.admin.ch/eli/oc/1986/193_193_193), [2091](https://fedlex.data.admin.ch/eli/oc/1986/2091_2091_2091); [1987 941](https://fedlex.data.admin.ch/eli/oc/1987/941_941_941); [1988 7](https://fedlex.data.admin.ch/eli/oc/1988/7_7_7); [1989 8](https://fedlex.data.admin.ch/eli/oc/1989/8_8_8), [1217](https://fedlex.data.admin.ch/eli/oc/1989/1217_1217_1217); [1990 102](https://fedlex.data.admin.ch/eli/oc/1990/102_102_102), [1736](https://fedlex.data.admin.ch/eli/oc/1990/1736_1736_1736); [1991 1075](https://fedlex.data.admin.ch/eli/oc/1991/1075_1075_1075), [1078](https://fedlex.data.admin.ch/eli/oc/1991/1078_1078_1078), [1145](https://fedlex.data.admin.ch/eli/oc/1991/1145_1145_1145), [1380](https://fedlex.data.admin.ch/eli/oc/1991/1380_1380_1380), [1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642); [1992 3](https://fedlex.data.admin.ch/eli/oc/1992/3_3_3); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 1, [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)art. 13 cpv. 1, [2812](https://fedlex.data.admin.ch/eli/oc/1993/2812_2812_2812); [1994 2](https://fedlex.data.admin.ch/eli/oc/1994/2_2_2), [269](https://fedlex.data.admin.ch/eli/oc/1994/269_269_269), [364](https://fedlex.data.admin.ch/eli/oc/1994/364_364_364); [1995 3](https://fedlex.data.admin.ch/eli/oc/1995/3_3_3), [3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)all. n. 8, [5067](https://fedlex.data.admin.ch/eli/oc/1995/5067_5067_5067); [1997 230](https://fedlex.data.admin.ch/eli/oc/1997/230_230_230), [299](https://fedlex.data.admin.ch/eli/oc/1997/299_299_299); [1998 726](https://fedlex.data.admin.ch/eli/oc/1998/726_726_726); [1999 577](https://fedlex.data.admin.ch/eli/oc/1999/74); [2000 419](https://fedlex.data.admin.ch/eli/oc/2000/93)all. n. 1 [2953](https://fedlex.data.admin.ch/eli/oc/2000/525). [RU 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)all. n. I 2]
+[^20-1]: [[RU 1959 1137](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137); [1962 288](https://fedlex.data.admin.ch/eli/oc/1962/279_285_288), [1283](https://fedlex.data.admin.ch/eli/oc/1962/1229_1271_1283); [1964 600](https://fedlex.data.admin.ch/eli/oc/1964/595_592_600); [1968 115](https://fedlex.data.admin.ch/eli/oc/1968/111_111_115), [1619](https://fedlex.data.admin.ch/eli/oc/1968/1655_1700_1619); [1971 74](https://fedlex.data.admin.ch/eli/oc/1971/70_74_74); **1973** 139; [1974 5](https://fedlex.data.admin.ch/eli/oc/1974/5_5_5); [1976 2699](https://fedlex.data.admin.ch/eli/oc/1976/2699_2699_2699); [1977 1413](https://fedlex.data.admin.ch/eli/oc/1977/1413_1413_1413), [2155](https://fedlex.data.admin.ch/eli/oc/1977/2155_2155_2155); [1979 1287](https://fedlex.data.admin.ch/eli/oc/1979/1287_1287_1287); [1982 938](https://fedlex.data.admin.ch/eli/oc/1982/938_938_938); [1984 394](https://fedlex.data.admin.ch/eli/oc/1984/394_394_394); [1986 193](https://fedlex.data.admin.ch/eli/oc/1986/193_193_193), [2091](https://fedlex.data.admin.ch/eli/oc/1986/2091_2091_2091); [1987 941](https://fedlex.data.admin.ch/eli/oc/1987/941_941_941); [1988 7](https://fedlex.data.admin.ch/eli/oc/1988/7_7_7); [1989 8](https://fedlex.data.admin.ch/eli/oc/1989/8_8_8), [1217](https://fedlex.data.admin.ch/eli/oc/1989/1217_1217_1217); [1990 102](https://fedlex.data.admin.ch/eli/oc/1990/102_102_102), [1736](https://fedlex.data.admin.ch/eli/oc/1990/1736_1736_1736); [1991 1075](https://fedlex.data.admin.ch/eli/oc/1991/1075_1075_1075), [1078](https://fedlex.data.admin.ch/eli/oc/1991/1078_1078_1078), [1145](https://fedlex.data.admin.ch/eli/oc/1991/1145_1145_1145), [1380](https://fedlex.data.admin.ch/eli/oc/1991/1380_1380_1380), [1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642); [1992 3](https://fedlex.data.admin.ch/eli/oc/1992/3_3_3); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 1, [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)art. 13 cpv. 1, [2812](https://fedlex.data.admin.ch/eli/oc/1993/2812_2812_2812); [1994 2](https://fedlex.data.admin.ch/eli/oc/1994/2_2_2), [269](https://fedlex.data.admin.ch/eli/oc/1994/269_269_269), [364](https://fedlex.data.admin.ch/eli/oc/1994/364_364_364); [1995 3](https://fedlex.data.admin.ch/eli/oc/1995/3_3_3), [3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)all. n. 8, [5067](https://fedlex.data.admin.ch/eli/oc/1995/5067_5067_5067); [1997 230](https://fedlex.data.admin.ch/eli/oc/1997/230_230_230), [299](https://fedlex.data.admin.ch/eli/oc/1997/299_299_299); [1998 726](https://fedlex.data.admin.ch/eli/oc/1998/726_726_726); [1999 577](https://fedlex.data.admin.ch/eli/oc/1999/74); [2000 419](https://fedlex.data.admin.ch/eli/oc/2000/93)all. n. 1 [2953](https://fedlex.data.admin.ch/eli/oc/2000/525). [RU 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)all. cifra I 2]
 [^20-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2011 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
-[^20-3]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^20-3]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### Sezione 3*a*: ...
 
@@ -301,13 +301,13 @@ Oltre alle tasse sono computate le spese seguenti:
 
 [^21-1]
 
-[^21-1]: Abrogato dal n. I dell’O del 18 apr. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).
+[^21-1]: Abrogato dalla cifra I dell’O del 18 apr. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).
 
 #### Art. 21a
 
 [^21a-1]
 
-[^21a-1]: Introdotto dall’art. 89 n. 6 dell’O del 20 aprile 1988 concernente l’importazione’ il transito e l’esportazione di animali e prodotti animali ([RU 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Abrogato dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^21a-1]: Introdotto dall’art. 89 n. 6 dell’O del 20 aprile 1988 concernente l’importazione’ il transito e l’esportazione di animali e prodotti animali ([RU 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Abrogato dall’all. cifra II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 ### Sezione 5: ...
 
@@ -333,14 +333,14 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 
 [^24-1]
 
-[^24-1]: Abrogato dal n. I dell’O dell’8 mar. 2002, con effetto dal 1° giu. 2002 ([RU 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)).
+[^24-1]: Abrogato dalla cifra I dell’O dell’8 mar. 2002, con effetto dal 1° giu. 2002 ([RU 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)).
 
 ### Sezione 8: Perfezionamento ed esami degli organi incaricati di assumere le varie funzioni nel settore veterinario pubblico
 
 [^chap2-sec8-1][^chap2-sec8-2]
 
 [^chap2-sec8-1]: Introdotta dall’all. 3 n. 5 dell’O del 17 mag. 1995 sull’igiene delle carni ([RU 1995 1666](https://fedlex.data.admin.ch/eli/oc/1995/1666_1666_1666)). Nuovo testo giusta l’all. 2 n. 6 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
-[^chap2-sec8-2]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^chap2-sec8-2]: Nuovo testo giusta l’all. 2 cifra II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
 #### Art. 24a
 
@@ -368,22 +368,24 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 
 <sup>3</sup> Per il rilascio dell’attestato di capacità ai candidati che hanno superato l’esame, esso riscuote una tassa di 50 franchi.
 
-[^24a-1]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
-[^24a-2]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
-[^24a-3]: Introdotta dall’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
-[^24a-4]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinariopubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
-[^24a-5]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-1]: Nuovo testo giusta l’all. 2 cifra II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-2]: Nuovo testo giusta l’all. 2 cifra II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-3]: Introdotta dall’all. 2 cifra II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-4]: Nuovo testo giusta l’all. 2 cifra II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinariopubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-5]: Nuovo testo giusta l’all. 2 cifra II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### Sezione 9: Utilizzo del sistema d’informazione animex-ch
+### Sezione 9: Utilizzo dei sistemi d’informazione animex-ch e E‑Cert
 
 [^chap2-sec9-1][^chap2-sec9-2]
 
 [^chap2-sec9-1]: Introdotta dall’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2012 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
-[^chap2-sec9-2]: Nuova espr. giusta il n. III 2 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^chap2-sec9-2]: Nuovo testo giusta la cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° gen. 2025 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 24b
 
-<sup>1</sup> Per l’utilizzo del sistema d’informazione animex-ch l’Ufficio federale riscuote dai Cantoni le tasse seguenti:
+**Utilizzo del sistema d’informazione animex-ch[^24b-1]**
+
+<sup>1</sup> Per l’utilizzo del sistema d’informazione animex-ch[^24b-2] l’Ufficio federale riscuote dai Cantoni le tasse seguenti:
 
 <table>
 <tr><th colspan="2"></th><th>Fr.</th></tr>
@@ -395,6 +397,17 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 </table>
 
 <sup>2</sup> Se l’USAV svolge i compiti di un Cantone che non lavora con il sistema d’informazione animex-ch, la tassa ammonta al doppio dell’importo di cui al capoverso 1.
+
+[^24b-1]: Introdotto dalla cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° gen. 2025 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^24b-2]: Nuova espressione. giusta la cifra III 2 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 (RU 2021 926). Di detta mod. è tenuto conto in tutto il presente testo
+
+#### Art. 24b<sup>bis</sup>
+
+**Utilizzo del sistema d’informazione E-Cert**[^24bbis-1]
+
+Per l’utilizzo del sistema d’informazione E-Cert l’Ufficio federale riscuote dagli esportatori una tassa di 30 franchi per certificato sanitario.
+
+[^24bbis-1]: Introdotto dalla cifra II 2 dell’O del 31 mag. 2024, in vigore dal 1° gen. 2025 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 10: Omologazione di prodotti fitosanitari
 
@@ -420,7 +433,7 @@ Per gli esami e i controlli secondo l’ordinanza del 12 maggio 2010[^24c-1] sui
 <tr><td>h. trattamento di una domanda d’omologazione di prodotti fitosanitari omologati all’estero che corrispondono a prodotti fitosanitari autorizzati in Svizzera (art. 36 cpv. 3 OPF)</td><td>50.–</td></tr>
 </table>
 
-[^24c-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^24c-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ## Capitolo 3: Disposizioni finali
 
@@ -452,4 +465,4 @@ La presente ordinanza entra in vigore il 1° gennaio 1986.
 
 Allegato[^t-2]
 
-[^t-2]: Introdotto dal n. II dell’O dell’8 mar. 2002 ([RU 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)). Abrogato dal n. I dell’O del 18 apr. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).
+[^t-2]: Introdotto dalla cifra II dell’O dell’8 mar. 2002 ([RU 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)). Abrogato dalla cifra I dell’O del 18 apr. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).
