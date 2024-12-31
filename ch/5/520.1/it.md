@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 2019 sulla protezione della popolazione e 
 short: LPPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-887-20230901-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2020-887-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/it"
 
 (LPPC)
 
-del 20 dicembre 2019 (Stato 1° settembre 2023)
+del 20 dicembre 2019 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1351,13 +1351,16 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>1</sup> I Cantoni continuano ad approntare le sirene secondo quanto disposto dalla Confederazione (art. 9 cpv. 2) per quattro anni al massimo dall’entrata in vigore della presente legge. Durante tale periodo provvedono alla loro manutenzione e permanente prontezza d’impiego. A tal fine la Confederazione versa ai Cantoni un’indennità annua pari a 400 franchi al massimo per sirena.
 
+<sup>1bis</sup> I Cantoni continuano ad approntare le sirene secondo quanto disposto dalla Confederazione (art. 9 cpv. 2) al massimo sino al 31 dicembre 2028. Durante tale periodo provvedono alla loro manutenzione e permanente prontezza d’impiego. A tal fine la Confederazione versa ai Cantoni un’indennità annua pari a 600 franchi al massimo per sirena.[^99-1]
+
 <sup>2</sup> La Confederazione può prefinanziare mediante mutui senza interessi l’ammodernamento tecnico degli impianti di trasmissione del sistema di radiocomunicazione mobile di sicurezza del tipo stazione base T-BS400e (art. 18 e 23) acquistati dai Cantoni, a condizione che tale soluzione consenta di abbreviare l’esercizio parallelo e risulti complessivamente più economica. I Cantoni restituiscono il prefinanziamento entro il 2028.
 
 <sup>3</sup> I Cantoni possono disporre che, per le persone le quali all’entrata in vigore della presente legge sono già state soggette all’obbligo di prestare servizio di protezione civile per 12 anni oppure hanno già prestato 245 giorni di servizio, l’obbligo di prestare servizio sia prolungato sino alla fine dell’anno in cui compiono i 40 anni. Il prolungamento può essere disposto soltanto se necessario per mantenere l’effettivo richiesto e se la carenza di militi è una conseguenza della riduzione della durata del servizio prevista dalla presente legge. Il prolungamento è ammesso soltanto nei cinque anni successivi all’entrata in vigore della presente legge.
 
-<sup>4</sup> I Cantoni sottopongono all’UFPP la pianificazione del fabbisogno di impianti di protezione secondo l’articolo 68 entro cinque anni dall’entrata in vigore della presente legge. La Confederazione versa il contributo forfettario annuale secondo il diritto previgente (art. 71 cpv. 3 della legge federale del 4 ottobre 2002[^99-1] sulla protezione della popolazione e sulla protezione civile) per sei anni dall’entrata in vigore della presente legge. In questi sei anni non sono concesse autorizzazioni per la soppressione di impianti di protezione secondo l’articolo 71 della presente legge.
+<sup>4</sup> I Cantoni sottopongono all’UFPP la pianificazione del fabbisogno di impianti di protezione secondo l’articolo 68 entro cinque anni dall’entrata in vigore della presente legge. La Confederazione versa il contributo forfettario annuale secondo il diritto previgente (art. 71 cpv. 3 della legge federale del 4 ottobre 2002[^99-2] sulla protezione della popolazione e sulla protezione civile) per sei anni dall’entrata in vigore della presente legge. In questi sei anni non sono concesse autorizzazioni per la soppressione di impianti di protezione secondo l’articolo 71 della presente legge.
 
-[^99-1]: [RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
+[^99-1]: Introdotto dalla cifra I della LF del 20 dic. 2024, vigore il 1° gen. 2025 al 31 dic. 2028 ([RU 2024 786](https://fedlex.data.admin.ch/eli/oc/2024/786); [FF 2024 1650](https://fedlex.data.admin.ch/eli/fga/2024/1650)).
+[^99-2]: [RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
 
 #### Art. 100
 
@@ -1387,5 +1390,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)n. II cpv. 1 lett. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7]
+[^annexu1-lvlu1-1]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)cifra II cpv. 1 lett. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887).

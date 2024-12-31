@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Dezember 2019 über den Bevölkerungsschutz und den
 short: BZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20230901-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/de"
 
 (Bevölkerungs- und Zivilschutzgesetz, BZG)
 
-vom 20. Dezember 2019 (Stand am 1. September 2023)
+vom 20. Dezember 2019 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1351,13 +1351,16 @@ Die Aufhebung und die Änderung anderer Erlasse sind im Anhang geregelt.
 
 <sup>1</sup> Die Kantone stellen noch bis längstens vier Jahre nach Inkrafttreten dieses Gesetzes die Sirenen nach den Vorgaben des Bundes bereit (Art. 9 Abs. 2). Sie sorgen so lange für den Unterhalt und für die ständige Betriebsbereitschaft der Sirenen. Der Bund entschädigt die Kantone dafür mit höchstens 400 Franken pro Sirene und Jahr.
 
+<sup>1bis</sup> Die Kantone stellen noch längstens bis zum 31. Dezember 2028 die Sirenen nach den Vorgaben des Bundes bereit (Art. 9 Abs. 2). Sie sorgen so lange für den Unterhalt und für die ständige Betriebsbereitschaft der Sirenen. Der Bund entschädigt die Kantone dafür mit höchstens 600 Franken pro Sirene und Jahr.[^99-1]
+
 <sup>2</sup> Der Bund kann den Kantonen die technische Nachrüstung ihrer beschafften Sendeanlagen des mobilen Sicherheitsfunksystems Typ Basisstation T-BS400e (Art. 18 und 23) mittels zinslosem Darlehen vorfinanzieren, sofern damit der Parallelbetrieb verkürzt werden kann und diese Lösung insgesamt wirtschaftlicher ist. Die Kantone zahlen die Vorfinanzierung bis spätestens 2028 zurück.
 
 <sup>3</sup> Die Kantone können vorsehen, dass sich für Schutzdienstpflichtige, die bei Inkrafttreten des Gesetzes bereits zwölf Jahre schutzdienstpflichtig waren oder 245 Diensttage geleistet haben, die Schutzdienstpflicht bis zum Ende des Jahres, in dem sie 40 Jahre alt werden, verlängert. Die Verlängerung der Schutzdienstpflicht darf nur vorgesehen werden, wenn sie zur Erhaltung des erforderlichen Bestandes notwendig und der Unterbestand eine Folge der Reduktion der Dienstpflichtdauer nach diesem Gesetz ist. Die Verlängerung der Schutzdienstpflicht ist bis längstens fünf Jahre nach Inkrafttreten dieses Gesetzes möglich.
 
-<sup>4</sup> Die Kantone reichen bis spätestens fünf Jahre nach Inkrafttreten dieses Gesetzes dem BABS die Bedarfsplanung für die Schutzanlagen nach Artikel 68 ein. Der Bund richtet den jährlichen Pauschalbetrag bis sechs Jahre nach Inkrafttreten nach bisherigem Recht aus (Art. 71 Abs. 3 des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002[^99-1]). In diesen sechs Jahren werden keine Genehmigungen zur Aufhebung von Schutzanlagen nach Artikel 71 erteilt.
+<sup>4</sup> Die Kantone reichen bis spätestens fünf Jahre nach Inkrafttreten dieses Gesetzes dem BABS die Bedarfsplanung für die Schutzanlagen nach Artikel 68 ein. Der Bund richtet den jährlichen Pauschalbetrag bis sechs Jahre nach Inkrafttreten nach bisherigem Recht aus (Art. 71 Abs. 3 des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002[^99-2]). In diesen sechs Jahren werden keine Genehmigungen zur Aufhebung von Schutzanlagen nach Artikel 71 erteilt.
 
-[^99-1]: [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
+[^99-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2028 ([AS 2024 786](https://fedlex.data.admin.ch/eli/oc/2024/786); [BBl 2024 1650](https://fedlex.data.admin.ch/eli/fga/2024/1650)).
+[^99-2]: [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
 
 #### Art. 100
 

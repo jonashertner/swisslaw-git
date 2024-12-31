@@ -4,11 +4,11 @@ title: Lescha federala dals 20 da december 2019 davart la protecziun da la popul
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: rm
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20230901-rm-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20250101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPCi)
 
-dals 20 da december 2019 (versiun dal 1. da settember 2023)
+dals 20 da december 2019 (versiun dal 1. da schaner 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1353,13 +1353,16 @@ L’aboliziun e la midada d’auters decrets èn regladas en l’agiunta.
 
 <sup>1</sup> Ils chantuns mettan anc a disposiziun las sirenas tenor las prescripziuns da la Confederaziun durant maximalmain fin 4 onns suenter l’entrada en vigur da questa lescha (art. 9 al. 2). Durant quest temp procuran els per il mantegniment e per la disponibladad permanenta da la sirenas. Per quest intent indemnisescha la Confederaziun ils chantuns cun maximalmain 400 francs per sirena e per onn.
 
+<sup>1bis</sup> Ils chantuns mettan anc a disposiziun las sirenas tenor las prescripziuns da la Confederaziun fin maximalmain ils 31 da december 2028 (art. 9 al. 2). Durant quest temp procuran els per il mantegniment e per la disponibladad permanenta da la sirenas. Per quest intent indemnisescha la Confederaziun ils chantuns cun maximalmain 600 francs per sirena e per onn.[^99-1]
+
 <sup>2</sup> Cun agid d’emprests senza tschains po la Confederaziun prefinanziar per ils chantuns la modernisaziun tecnica da lur implants da transmissiun acquistads dal sistem da func mobil da segirezza dal tip staziun da basa T-BS400e (art. 18 e 23), premess che questa soluziun permettia da scursanir il manaschi parallel e saja tut en tut pli economica. Ils chantuns restitueschan la prefinanziaziun fin il pli tard l’onn 2028.
 
 <sup>3</sup> Per persunas ch’èn gia stadas obligadas durant 12 onns da far servetsch da protecziun civila u che han gia fatg 245 dis da servetsch il mument che questa lescha entra en vigur, pon ils chantuns prevair che l’obligaziun da far servetsch da protecziun civila vegnia prolungada fin la fin da l’onn ch’ellas cumpleneschan 40 onns. L’obligaziun da far servetsch da protecziun civila dastga vegnir prolungada mo, sch’ella è indispensabla per mantegnair l’effectiv necessari da la protecziun civila e sche l’effectiv insuffizient è ina consequenza da la reducziun da la durada da l’obligaziun da far servetsch da protecziun civila tenor questa lescha. La prolungaziun da l’obligaziun da far servetsch da protecziun civila è pussaivla fin maximalmain 5 onns suenter l’entrada en vigur da questa lescha.
 
-<sup>4</sup> Ils chantuns inoltreschan al UFPP la planisaziun dal basegn per ils stabiliments da protecziun tenor l’artitgel 68 fin il pli tard 5 onns suenter l’entrada en vigur da questa lescha. Fin 6 onns suenter l’entrada en vigur da questa lescha paja la Confederaziun la pauschala annuala tenor il dretg vertent (art. 71 al. 3 da la Lescha federala dals 4 d’october 2002[^99-1] davart la protecziun da la populaziun e la protecziun civila). Durant quests 6 onns na vegnan concedidas naginas approvaziuns per abolir stabiliments da protecziun tenor l’artitgel 71.
+<sup>4</sup> Ils chantuns inoltreschan al UFPP la planisaziun dal basegn per ils stabiliments da protecziun tenor l’artitgel 68 fin il pli tard 5 onns suenter l’entrada en vigur da questa lescha. Fin 6 onns suenter l’entrada en vigur da questa lescha paja la Confederaziun la pauschala annuala tenor il dretg vertent (art. 71 al. 3 da la Lescha federala dals 4 d’october 2002[^99-2] davart la protecziun da la populaziun e la protecziun civila). Durant quests 6 onns na vegnan concedidas naginas approvaziuns per abolir stabiliments da protecziun tenor l’artitgel 71.
 
-[^99-1]: [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
+[^99-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2024, en vigur dal 1. da schan. 2025 fin ils 31 da dec. 2028 ([AS 2024 786](https://fedlex.data.admin.ch/eli/oc/2024/786); [BBl 2024 1650](https://fedlex.data.admin.ch/eli/fga/2024/1650)).
+[^99-2]: [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
 
 #### Art. 100
 

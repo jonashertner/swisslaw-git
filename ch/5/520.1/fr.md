@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 2019 sur la protection de la population et
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: fr
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20230901-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/fr"
 
 (LPPCi)
 
-du 20 décembre 2019 (État le 1<sup>er</sup> septembre 2023)
+du 20 décembre 2019 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1351,13 +1351,16 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 
 <sup>1</sup> Les cantons continuent de mettre les sirènes à disposition conformément aux directives de la Confédération (art. 9, al. 2) pendant quatre ans au plus à compter de l’entrée en vigueur de la présente loi. Ils veillent pendant cette période à l’entretien et à la disponibilité opérationnelle permanente des sirènes. La Confédération les indemnise à hauteur de 400 francs au plus par an et par sirène.
 
+<sup>1bis</sup> Les cantons continuent de mettre les sirènes à disposition conformément aux directives de la Confédération (art. 9, al. 2), au plus tard jusqu’au 31 décembre 2028. Ils veillent pendant cette période à l’entretien et à la disponibilité opérationnelle permanente des sirènes. La Confédération les indemnise à hauteur de 600 francs au plus par an et par sirène.[^99-1]
+
 <sup>2</sup> La Confédération peut préfinancer l’équipement technique supplémentaire des émetteurs du système radio mobile de sécurité de type station de base T-BS400e (art. 18 et 23) au moyen de prêts sans intérêt, pour autant que cette solution permette de raccourcir la durée de l’exploitation en parallèle et qu’elle soit globalement plus économique. Les cantons remboursent le préfinancement en 2028 au plus tard.
 
 <sup>3</sup> Les cantons peuvent prévoir que, pour les personnes qui ont déjà été astreintes au service obligatoire pendant 12 ans ou qui ont déjà accompli 245 jours de service à l’entrée en vigueur de la présente loi, l’obligation de servir soit prolongée jusqu’à la fin de l’année au cours de laquelle ces personnes atteignent l’âge de 40 ans. Cette prolongation ne peut être prévue que si elle est indispensable au maintien des effectifs nécessaires et que le sous-effectif résulte de la réduction de la durée du service prévue par la présente loi. Elle est possible pendant cinq ans à compter de l’entrée en vigueur de la présente loi.
 
-<sup>4</sup> Les cantons envoient à l’OFPP la planification des besoins en matière de constructions protégées visée à l’art. 68 cinq ans au plus tard à compter de l’entrée en vigueur de la présente loi. La Confédération verse le montant forfaitaire annuel au sens de l’art. 71, al. 3, de l’ancien droit[^99-1] pendant six ans au plus à compter de l’entrée en vigueur de la présente loi. Aucune approbation n’est accordée pour la désaffectation des constructions protégées au sens de l’art. 71 durant cette période.
+<sup>4</sup> Les cantons envoient à l’OFPP la planification des besoins en matière de constructions protégées visée à l’art. 68 cinq ans au plus tard à compter de l’entrée en vigueur de la présente loi. La Confédération verse le montant forfaitaire annuel au sens de l’art. 71, al. 3, de l’ancien droit[^99-2] pendant six ans au plus à compter de l’entrée en vigueur de la présente loi. Aucune approbation n’est accordée pour la désaffectation des constructions protégées au sens de l’art. 71 durant cette période.
 
-[^99-1]: [RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
+[^99-1]: Introduit par le ch. I de la LF du 20 déc. 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2028 ([RO 2024 786](https://fedlex.data.admin.ch/eli/oc/2024/786); [FF 2024 1650](https://fedlex.data.admin.ch/eli/fga/2024/1650)).
+[^99-2]: [RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
 
 #### Art. 100
 
