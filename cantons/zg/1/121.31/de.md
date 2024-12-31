@@ -4,13 +4,12 @@ number: "121.31"
 title: Verordnung zum kantonalen Bürgerrechtsgesetz
 short: kant. BüV
 language: de
-version: 2009-09-27
-valid_until: 2024-12-31
-version_adopted: 2010-01-26
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 1992-11-25
 in_force: 1992-11-25
 url: "https://bgs.zg.ch/app/de/texts_of_law/121.31"
-pdf: "https://bgs.zg.ch/api/de/versions/700/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/700/pdf_file"
 
 (kant. BüV)
 
-Vom 25. November 1992 (Stand 27. September 2009)
+Vom 25. November 1992 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -86,6 +85,18 @@ beschliesst:
 
 <sup>3</sup> Sind die nach Abs. 1 Ziffern 2 und 3 verlangten Ausweise nicht oder nur sehr schwer erhältlich, so kann die Direktion des Innern von deren Vorlegung befreien.
 
+#### § 6a
+
+**Zweifel über genügende Sprachkenntnisse**
+
+<sup>1</sup> Zweifel gemäss § 5 Abs. 5 des Gesetzes [^6a-1] liegen insbesondere dann vor, wenn die Direktion des Innern oder der Bürgerrat im Rahmen der persönlichen Gespräche feststellt, dass die Bewerberin bzw. der Bewerber nicht über genügende Sprachkenntnisse verfügt.
+
+<sup>2</sup> Liegen Zweifel nach Abs. 1 vor, ist ein neuer Sprachnachweis im Sinne von § 5 Abs. 6 Bst. d des Gesetzes zu absolvieren. Der Zivilstands- und Bürgerrechtsdienst führt eine Liste der anerkannten Stellen nach § 5 Abs. 5 des Gesetzes.
+
+<sup>3</sup> Die Kosten des Sprachnachweises im Sinne von § 5 Abs. 6 Bst. d des Gesetzes sind von der Bewerberin oder dem Bewerber zu tragen.
+
+[^6a-1]: BGS [121.3](https://bgs.zg.ch/data/121.3/de)
+
 #### § 7
 
 **Behandlung und Weiterleitung**
@@ -123,21 +134,11 @@ beschliesst:
 
 #### § 10a
 
-**Heimatausweis: Zweck, Ausstellung und Gültigkeit**
-
-<sup>1</sup> Mit dem Heimatausweis bestätigt die Einwohnerkontrolle den Aufenthalt im Sinne einer Aufenthaltsgemeinde gemäss Art. 3 lit. c des Registerharmonisierungsgesetzes[^10a-1].
-
-<sup>2</sup> Heimatausweise werden auf Grund der hinterlegten Heimatscheine ausgestellt.
-
-<sup>3</sup> Heimatausweise gelten nur in der Schweiz und während höchstens eines Jahres. In Ausnahmefällen, insbesondere für Heimaufenthalte und zu Studienzwecken, kann der Heimatausweis auch für eine längere Zeit ausgestellt werden.
-
-[^10a-1]: SR [431.02](https://db.clex.ch/link/Bund/431.02/de)
+**…**
 
 #### § 10b
 
-**Kontrolle**
-
-<sup>1</sup> Die Kontrolle über abgegebene Heimatausweise ist Aufgabe der Schriftenkontrolle, welche von der Einwohnerkontrolle geführt wird.
+**…**
 
 ## 2. Verlust des Bürgerrechts durch Verzicht
 
@@ -194,12 +195,6 @@ beschliesst:
 
 #### § 16
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt sofort in Kraft.
-
-<sup>2</sup> Auf den Zeitpunkt des Inkrafttretens wird die Vollziehungsverordnung zum Gesetz betreffend Erwerb und Verlust des Gemeinde- und des Kantonsbürgerrechts vom 3. Juni 1966[^16-1] aufgehoben.
-
-[^16-1]: GS 19, 155
+**…**
 
 GS 24, 139
