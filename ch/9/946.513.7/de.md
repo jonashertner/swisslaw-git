@@ -4,20 +4,22 @@ title: Verordnung vom 10. März 2006 über die Gebühren der Schweizerischen Akk
 short: GebV-Akk
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/177"
 language: de
-version: 2012-01-01
+version: 2025-01-01
 adopted: 2006-03-10
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/177/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2006-177-20120101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/177/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/177/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-177-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/177/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Gebühren des Staatssekretariats für Wirtschaft im Bereich der Akkreditierung
+# Verordnung über die Gebühren der Schweizerischen Akkreditierungsstelle
 
-(GebV-Akk)
+(GebV-Akk)[^t-1]
 
-vom 10. März 2006 (Stand am 1. Januar 2012)
+vom 10. März 2006 (Stand am 1. Januar 2025)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
 
 Der Schweizerische Bundesrat,
 
@@ -31,11 +33,11 @@ verordnet:
 
 **Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Gebühren für Verfügungen und Dienstleistungen des Staatssekretariats für Wirtschaft (SECO) bzw. der Schweizerischen Akkreditierungsstelle (SAS) auf dem Gebiet der Akkreditierung.[^1-1]
+<sup>1</sup> Diese Verordnung regelt die Gebühren für Verfügungen und Dienstleistungen der Schweizerischen Akkreditierungsstelle (SAS).[^1-1]
 
 <sup>2</sup> Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^1-2].
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3463](https://fedlex.data.admin.ch/eli/oc/2011/468)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
 [^1-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 1a
@@ -53,10 +55,12 @@ verordnet:
 
 **Gebührenzuschlag**
 
-Das SECO kann folgende Gebührenzuschläge zum ordentlichen Gebührensatz erheben:
+Die SAS[^2-1] kann folgende Gebührenzuschläge zum ordentlichen Gebührensatz erheben:
 
 - a. bis zu 50 Prozent für Tätigkeiten, die auf Ersuchen hin dringlich oder ausserhalb der normalen Arbeitszeit verrichtet werden; und
 - b. bis zu 100 Prozent für Tätigkeiten, zu deren Erledigung besondere Erfahrungen aus früheren Tätigkeiten genutzt werden, so dass die gebührenpflichtige Person ohne Gebührenzuschlag im Vergleich zu Vorgängern einen ungerechtfertigten Gebührenvorteil hätte.
+
+[^2-1]: Ausdruck gemäss Ziff. I der V vom 23. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 3
 
@@ -74,13 +78,13 @@ Das SECO kann folgende Gebührenzuschläge zum ordentlichen Gebührensatz erhebe
 
 **Voranschlag**
 
-Das SECO unterrichtet die gebührenpflichtige Person vorgängig über die voraussichtlich anfallenden Kosten.
+Die SAS unterrichtet die gebührenpflichtige Person vorgängig über die voraussichtlich anfallenden Kosten.
 
 #### Art. 5
 
 **Teilrechnungen**
 
-<sup>1</sup> Für länger dauernde Arbeiten kann das SECO Teilleistungen in Rechnung stellen.
+<sup>1</sup> Für länger dauernde Arbeiten kann die SAS Teilleistungen in Rechnung stellen.
 
 <sup>2</sup> Verursacht die gebührenpflichtige Person einen Unterbruch oder Abbruch der gebührenpflichtigen Tätigkeit, so werden die bereits angefallenen Gebühren in Rechnung gestellt.
 
@@ -93,12 +97,12 @@ Das SECO unterrichtet die gebührenpflichtige Person vorgängig über die voraus
 Der Gebührenansatz für eine Arbeitsstunde beträgt:
 
 <table>
-<tr><td></td><td></td><td>Franken</td></tr>
-<tr><td>a.</td><td>für Mitarbeiterinnen und Mitarbeiter des Administrativbereichs</td><td>130.–</td></tr>
-<tr><td>b.</td><td>für leitende Begutachterinnen und Begutachter des Akkreditierungsbereichs</td><td>220.–</td></tr>
+<tr><th></th><th>Franken</th></tr>
+<tr><td>a. für Mitarbeiterinnen und Mitarbeiter des Administrativbereichs</td><td>140.–</td></tr>
+<tr><td>b. für leitende Begutachterinnen und Begutachter des Akkreditierungsbereichs</td><td>235.–</td></tr>
 </table>
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3463](https://fedlex.data.admin.ch/eli/oc/2011/468)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
 
 #### Art. 7
 
@@ -118,7 +122,7 @@ Der Gebührenansatz für eine Arbeitsstunde beträgt:
 
 <sup>1</sup>
 
-Für jährlich wiederkehrende administrative Arbeiten zugunsten der akkreditierten Stellen erhebt das SECO jährlich eine Gebühr, namentlich für:
+Für jährlich wiederkehrende administrative Arbeiten zugunsten der akkreditierten Stellen erhebt die SAS jährlich eine Gebühr, namentlich für:
 
 - a. die Nachführung der Dossiers der akkreditierten Stellen;
 - b. die Vertretung der Interessen der akkreditierten Stellen im In- und Ausland;
@@ -127,29 +131,45 @@ Für jährlich wiederkehrende administrative Arbeiten zugunsten der akkreditiert
 <sup>2</sup> Die Jahresgebühr beträgt für:
 
 <table>
-<tr><td></td><td></td><td>Franken</td></tr>
-<tr><td>a.</td><td>Inspektions- und Zertifizierungsstellen für Produkte und Personen sowie Hersteller von Referenzmaterialien</td><td>3850.–</td></tr>
-<tr><td>b.</td><td>Kalibrierstellen und Prüfstellen Typ A</td><td>2000.–</td></tr>
-<tr><td>c.</td><td>Prüfstellen Typ B</td><td>2450.–</td></tr>
-<tr><td>d.</td><td>Prüfstellen Typ C, Anbieter von Eignungsprüfungen sowie Personalzertifizierungsstellen</td><td>3100.–</td></tr>
-<tr><td>e.</td><td>Zertifizierungsstellen für Managementsysteme</td><td>2000.–</td></tr>
-<tr><td>f.</td><td>und zusätzlich für jedes gültige Zertifikat der Stelle</td><td>25.–</td></tr>
+<tr><th></th><th>Franken</th></tr>
+<tr><td>a. Prüflaboratorien Typ A</td><td>2400.–</td></tr>
+<tr><td>b. Prüflaboratorien Typ B</td><td>3100.–</td></tr>
+<tr><td>c. Prüflaboratorien Typ C</td><td>3800.–</td></tr>
+<tr><td>d. Kalibrierlaboratorien</td><td>2400.–</td></tr>
+<tr><td>e. medizinische Laboratorien Typ A</td><td>2400.–</td></tr>
+<tr><td>f. medizinische Laboratorien Typ B</td><td>3100.–</td></tr>
+<tr><td>g. medizinische Laboratorien Typ C</td><td>3800.–</td></tr>
+<tr><td>h. Hersteller von Referenzmaterialien</td><td>3800.–</td></tr>
+<tr><td>i. Anbieter von Eignungsprüfungen Typ A</td><td>3100.–</td></tr>
+<tr><td>j. Anbieter von Eignungsprüfungen Typ B</td><td>3800.–</td></tr>
+<tr><td>k. Inspektionsstellen</td><td>3800.–</td></tr>
+<tr><td>l. Zertifizierungsstellen für Managementsysteme</td><td>3800.–</td></tr>
+<tr><td>und zusätzlich für jedes gültige Zertifikat der Zertifizierungsstelle für Managementsysteme</td><td>10.–</td></tr>
+<tr><td>m. Zertifizierungsstellen für Personen</td><td>3800.–</td></tr>
+<tr><td>n. Zertifizierungsstellen für Produkte, Prozesse und Dienstleistungen</td><td>3800.–</td></tr>
+<tr><td>o. Biobanken</td><td>3800.–</td></tr>
+<tr><td>p. Validierungs- und Verifizierungsstellen</td><td>3800.–</td></tr>
 </table>
 
-<sup>3</sup> Kalibrier-, Prüf-, Inspektions- und Zertifizierungsstellen für Produkte und Personen bezahlen für jede Geschäftsstelle zusätzlich eine Jahresgebühr von 500 Franken.
+<sup>3</sup> Verfügt eine akkreditierte Stelle über mehrere Geschäftsstellen, so wird für jede zusätzliche Geschäftsstelle eine Jahresgebühr von 500 Franken erhoben.
 
-<sup>4</sup>
+<sup>4</sup> Wird die Akkreditierung gestützt auf Artikel 21 der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^8-2] (AkkBV) suspendiert, so werden die Jahresgebühren vollumfänglich in Rechnung gestellt.
 
-Organisationen mit mehreren akkreditierten Stellen nach Absatz 2 Buchstaben a–d erhalten folgende Rabatte:
+<sup>5</sup> Verzichtet eine Stelle auf ihre Akkreditierung oder wird ihr diese entzogen, so werden die Gebühren für das laufende Jahr *pro rata temporis* erhoben. Die Gebühren sind innerhalb von 60 Tagen nach Verzicht auf die Akkreditierung beziehungsweise nach rechtskräftigem Entzug der Akkreditierung zu entrichten.
 
-- a. 20 Prozent der Jahresgebühren, wenn sie zwei akkreditierte Stellen haben;
-- b. 30 Prozent der Jahresgebühren, wenn sie drei oder mehr akkreditierte Stellen haben.
+[^8-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
+[^8-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
-<sup>5</sup> Die Jahresgebühren dürfen pro Organisation 35 000 Franken nicht überschreiten.
+#### Art. 8a
 
-<sup>6</sup> Verzichtet eine Stelle auf ihre Akkreditierung oder wird ihr diese entzogen, so muss sie die Gebühren für das laufende Jahr *pro rata temporis* innerhalb von 60 Tagen nach Verzicht auf die Akkreditierung beziehungsweise nach rechtskräftigem Entzug der Akkreditierung entrichten.
+**Anpassung der Gebühren und der Akkreditierungstypen**[^8a-1]
 
-[^8-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3463](https://fedlex.data.admin.ch/eli/oc/2011/468)).
+<sup>1</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung kann die Gebühren nach den Artikeln 6, 7 und 8 jeweils auf den nächstfolgenden Jahresanfang an den Landesindex der Konsumentenpreise anpassen, sofern dieser seit der letzten Anpassung eine Teuerung von mindestens 5 Prozent erfahren hat.
+
+<sup>2</sup> Es kann die Akkreditierungstypen nach Artikel 8 Absatz 2 an die Akkreditierungstypen nach Anhang 2 AkkBV[^8a-2] anpassen und die Jahresgebühren für neu hinzugekommene Akkreditierungstypen festlegen.
+
+[^8a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
+[^8a-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 9
 
