@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2024-06-21
+version: 2025-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240621/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240621-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240621/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240621/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (État le 21 juin 2024)
+du 11 août 1999 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1206,9 +1206,11 @@ Les personnes visées à l’art. 102*m*, al. 3, peuvent être habilitées à as
 
 #### Art. 53a
 
-**Début du délai de recours en cas de décision prise à l’égard d’un requérant d’asile mineur non accompagné**
+**Début du délai de recours en cas de décision prise à l’égard d’un requérant d’asile mineur non accompagné**[^53a-1]
 
 Lorsqu’un requérant d’asile mineur non accompagné ne dispose ni d’un tuteur ni d’un curateur ni même d’un représentant légal, la décision de première instance doit être notifiée à l’intéressé et à la personne de confiance. Le délai de recours commence à courir le jour suivant la notification la plus tardive de ladite décision.
+
+[^53a-1]: Introduit par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -1333,18 +1335,18 @@ Annexe 3[^t-3]
 
 ## Clé d’attribution proportionnelle à la population
 
-[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 7 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 645](https://fedlex.data.admin.ch/eli/oc/2023/645)).
+[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 11 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 674](https://fedlex.data.admin.ch/eli/oc/2024/674)).
 
 <table>
 <tr><th></th><th>En pourcentage</th><th></th><th>En pourcentage</th></tr>
 <tr><td>Argovie</td><td>8,1</td><td>Nidwald</td><td>0,5</td></tr>
 <tr><td>Appenzell Rhodes-Extérieures</td><td>0,6</td><td>Obwald</td><td>0,4</td></tr>
 <tr><td>Appenzell Rhodes-Intérieures</td><td>0,2</td><td>Schaffhouse</td><td>1,0</td></tr>
-<tr><td>Bâle-Campagne</td><td>3,4</td><td>Schwyz</td><td>1,9</td></tr>
+<tr><td>Bâle-Campagne</td><td>3,3</td><td>Schwyz</td><td>1,9</td></tr>
 <tr><td>Bâle-Ville</td><td>2,2</td><td>Soleure</td><td>3,2</td></tr>
 <tr><td>Berne</td><td>11,9</td><td>Saint-Gall</td><td>6,0</td></tr>
 <tr><td>Fribourg</td><td>3,8</td><td>Tessin</td><td>4,0</td></tr>
-<tr><td>Genève</td><td>5,8</td><td>Thurgovie</td><td>3,3</td></tr>
+<tr><td>Genève</td><td>5,9</td><td>Thurgovie</td><td>3,3</td></tr>
 <tr><td>Glaris</td><td>0,5</td><td>Uri</td><td>0,4</td></tr>
 <tr><td>Grisons</td><td>2,3</td><td>Vaud</td><td>9,4</td></tr>
 <tr><td>Jura</td><td>0,8</td><td>Valais</td><td>4,1</td></tr>

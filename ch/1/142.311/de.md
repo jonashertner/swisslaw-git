@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2024-06-21
+version: 2025-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240621/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240621-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240621/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240621/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 21. Juni 2024)
+vom 11. August 1999 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -919,7 +919,7 @@ Neu eingereiste Personen, denen nach Artikel 68 Absatz 1 oder Artikel 69 Absatz 
 
 ### (Art. 74 Abs. 2 AsylG)
 
-Schutzbedürftige mit einer Aufenthaltsbewilligung nach Artikel 33 AIG[^46-1] erhalten einen auf höchstens ein Jahr befristeten Ausweis B. Der Aufenthaltskanton verlängert ihn unter Vorbehalt von Absatz 2 in der Regel um jeweils höchstens ein Jahr.[^46-2]
+<sup>1</sup> Schutzbedürftige mit einer Aufenthaltsbewilligung nach Artikel 33 AIG[^46-1] erhalten einen auf höchstens ein Jahr befristeten Ausweis B. Der Aufenthaltskanton verlängert ihn unter Vorbehalt von Absatz 2 in der Regel um jeweils höchstens ein Jahr.[^46-2]
 
 <sup>2</sup> Die Aufenthaltsbewilligung ist nur so lange gültig, wie der vorübergehende Schutz besteht. Sie erlischt in dem Zeitpunkt, den der Bundesrat für die Aufhebung des vorübergehenden Schutzes festlegt.
 
@@ -1205,9 +1205,11 @@ Personen nach Artikel 102*m* Absatz 3 können zur amtlichen Verbeiständung insb
 
 #### Art. 53a
 
-**Beginn der Beschwerdefrist bei Verfügungen an unbegleitete minderjährige Asylsuchende**
+**Beginn der Beschwerdefrist bei Verfügungen an unbegleitete minderjährige Asylsuchende**[^53a-1]
 
 Verfügt die unbegleitete minderjährige asylsuchende Person nicht über einen Vormund, eine Beistandschaft oder Rechtsvertretung, so ist die erstinstanzliche Verfügung der minderjährigen Person sowie der Vertrauensperson zu eröffnen. Die Beschwerdefrist beginnt an dem auf die spätere Eröffnung dieser Verfügung folgenden Tag zu laufen.
+
+[^53a-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -1332,18 +1334,18 @@ Anhang 3[^t-3]
 
 ## Schlüssel zur bevölkerungsproportionalen Zuweisung
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 8. Juni 2018 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Fassung gemäss Ziff. I der V des EJPD vom 7. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 645](https://fedlex.data.admin.ch/eli/oc/2023/645)).
+[^t-3]: Eingefügt durch Ziff. II der V vom 8. Juni 2018 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Fassung gemäss Ziff. I der V des EJPD vom 11. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 674](https://fedlex.data.admin.ch/eli/oc/2024/674)).
 
 <table>
 <tr><th></th><th>in Prozent</th><th></th><th>in Prozent</th></tr>
 <tr><td>Aargau</td><td>8,1</td><td>Nidwalden</td><td>0,5</td></tr>
 <tr><td>Appenzell AR</td><td>0,6</td><td>Obwalden</td><td>0,4</td></tr>
 <tr><td>Appenzell IR</td><td>0,2</td><td>Schaffhausen</td><td>1,0</td></tr>
-<tr><td>Basel-Landschaft</td><td>3,4</td><td>Schwyz</td><td>1,9</td></tr>
+<tr><td>Basel-Landschaft</td><td>3,3</td><td>Schwyz</td><td>1,9</td></tr>
 <tr><td>Basel-Stadt</td><td>2,2</td><td>Solothurn</td><td>3,2</td></tr>
 <tr><td>Bern</td><td>11,9</td><td>St. Gallen</td><td>6,0</td></tr>
 <tr><td>Freiburg</td><td>3,8</td><td>Tessin</td><td>4,0</td></tr>
-<tr><td>Genf</td><td>5,8</td><td>Thurgau</td><td>3,3</td></tr>
+<tr><td>Genf</td><td>5,9</td><td>Thurgau</td><td>3,3</td></tr>
 <tr><td>Glarus</td><td>0,5</td><td>Uri</td><td>0,4</td></tr>
 <tr><td>Graubünden</td><td>2,3</td><td>Waadt</td><td>9,4</td></tr>
 <tr><td>Jura</td><td>0,8</td><td>Wallis</td><td>4,1</td></tr>
