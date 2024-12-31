@@ -3,20 +3,20 @@ canton: SG
 number: "217.32"
 title: Personalreglement der Universität St.Gallen (HSG)
 language: de
-version: 2023-09-20
-valid_until: 2024-12-31
-version_adopted: 2024-03-01
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-17
 adopted: 2014-05-05
 in_force: 2014-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.32"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3645/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalreglement der Universität St.Gallen (HSG)
 
-vom 05.05.2014 (Stand 20.09.2023)
+vom 05.05.2014 (Stand 01.01.2025)
 
 Der Universitätsrat der Universität St.Gallen
 
