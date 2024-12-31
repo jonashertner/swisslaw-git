@@ -4,11 +4,10 @@ number: "811.11"
 title: Verordnung über die universitären Medizinalberufe (MedBV)
 short: MedBV
 language: de
-version: "2023-02-01"
-nachtrag: "120"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2008-05-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-811_11-2008_05_28-2008_07_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-811_11-2008_05_28-2008_07_01-127.html"
 text: pdf
 ---
 
@@ -67,7 +66,7 @@ Die Bewilligung wird jeweils für die Dauer von zehn Jahren erteilt, jedoch län
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 25 - 127
 
 ### B. Vertretung
 
@@ -157,7 +156,7 @@ Die Bewilligung wird jeweils für die Dauer von zehn Jahren erteilt, jedoch län
 
 **3**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Praktikantinnen und Praktikanten im Sinne von § 7 dürfen nur unter ständiger Aufsicht einer universitären Medizinalperson Tätigkeiten im Sinne von § 3 GesG[^9-1] vornehmen.
 
@@ -253,7 +252,7 @@ Die selbstständig tätige Person meldet der zuständigen Stelle schriftlich:
 
 **5**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 25 - 127
 
 - e. die Meldung von Neueröffnung, Verlegung und Schliessung von Standorten,
 
@@ -347,36 +346,24 @@ Für die Beschäftigung von Chiropraktorinnen und Chiropraktoren in Spitälern, 
 
 **7**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 25 - 127
 
-<sup>3</sup> Sie sind im Rahmen ihrer Berufsausübung zur Anwendung von verschreibungspflichtigen und nicht verschreibungspflichtigen Arzneimitteln berechtigt. Mit Bewilligung der Gesundheitsdirektion sind sie befugt, ohne ärztliche Verschreibung folgende Impfungen mit Totimpfstoffen vorzunehmen:
+<sup>3</sup> Sie sind im Rahmen ihrer Berufsausübung zur Anwendung von verschreibungspflichtigen und nicht verschreibungspflichtigen Arzneimitteln berechtigt. Mit Bewilligung der Gesundheitsdirektion sind sie befugt, ohne ärztliche Verschreibung bei Personen ab 16 Jahren Impfungen gemäss nationalem Impfplan vorzunehmen. Sie sind nicht befugt, Impfungen mit Lebendimpfstoffen und, unter Vorbehalt anderslautender Weisungen der Gesundheitsdirektion, Off-Label-Use-Impfungen vorzunehmen.[^h4AbschnittApothe-2]
 
-- a. Impfung gegen Grippe,
-
-- b. Impfung gegen Frühsommer-Meningoenzephalitis (FSME),
-
-- c. Impfung gegen Hepatitis A und B,
-
-- d. Impfung gegen Diphtherie, Tetanus, Pertussis und Poliomyelitis, e.[^h4AbschnittApothe-2] Impfung gegen Covid-19,
-
-- f. Impfung gegen Gürtelrose (Herpes Zoster), bei Personen ab 65 Jahren.
-
-<sup>4</sup> Impfungen durch Apothekerinnen und Apotheker sind unzulässig bei a. Kontraindikation,
+<sup>4</sup> Impfungen durch Apothekerinnen und Apotheker sind unzulässig bei[^h4AbschnittApothe-2] a. Kontraindikation,
 
 - b. Schwangerschaft, ausser bei Impfungen aufgrund ärztlicher Verschreibung,
 
 - c. Immunschwäche,
 
-- d. Autoimmunkrankheit,
-
-- e. Personen unter 16 Jahren.
+- d. Autoimmunkrankheit.
 
 <sup>5</sup> Die Bewilligung nach Abs. 3 Satz 2 wird Apothekerinnen und Apothekern erteilt, die über eine genügende fachliche Aus- oder Weiterbildung verfügen.
 
 <sup>6</sup> Apothekerinnen und Apotheker können für das Aufziehen und die Injektion des Impfstoffs Personen mit Berufen aus dem Gesundheitswesen mit entsprechender Aus- oder Weiterbildung beiziehen. Die beigezogenen Personen handeln unter Aufsicht und in Verantwortung der Apothekerin oder des Apothekers.
 
-[^h4AbschnittApothe-1]: Fassung gemäss RRB vom 23. November 2022 (OS 78, 55; ABl 2022-12-02). In Kraft seit 1. Februar 2023. 1. 4. 23 - 120 11
-[^h4AbschnittApothe-2]: Eingefügt durch RRB vom 3. Februar 2021 (OS 76, 30; ABl 2021-02-12). In Kraft seit 17. Februar 2021.
+[^h4AbschnittApothe-1]: Fassung gemäss RRB vom 23. November 2022 (OS 78, 55; ABl 2022-12-02). In Kraft seit 1. Februar 2023.
+[^h4AbschnittApothe-2]: Fassung gemäss RRB vom 23. Oktober 2024 (OS 79, 464; ABl 2024-11-08). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 11
 
 #### § 25
 
@@ -446,7 +433,7 @@ Vorbehältlich abweichender Zuständigkeitsregelungen sind folgende Stellen für
 
 **9**
 
-- 1\. 4. 23 - 120 § 30. <sup>1</sup> Mit Busse bis Fr. 10 000 wird bestraft, wer vorsätzlich:
+- 1\. 1. 25 - 127 § 30. <sup>1</sup> Mit Busse bis Fr. 10 000 wird bestraft, wer vorsätzlich:
 
 **Strafbestimmungen**
 
@@ -483,4 +470,5 @@ Diese Verordnung tritt am 1. Juli 2008 in Kraft.
 ## Weitere Fussnoten
 
 - [7] Fassung gemäss RRB vom 29. April 2020 (OS 75, 310; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
+- [8] Eingefügt durch RRB vom 3. Februar 2021 (OS 76, 30; ABl 2021-02-12). In Kraft seit 17. Februar 2021.
 - [9] Eingefügt durch RRB vom 27. Oktober 2021 (OS 76, 439; ABl 2021-10-29). In Kraft seit 5. November 2021.
