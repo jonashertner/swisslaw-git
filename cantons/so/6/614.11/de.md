@@ -4,13 +4,12 @@ number: "614.11"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2024-09-03
 adopted: 1985-12-01
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.11"
-pdf: "https://bgs.so.ch/api/de/versions/5503/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5503/pdf_file"
 
 (Steuergesetz)
 
-Vom 01.12.1985 (Stand 01.03.2024)
+Vom 01.12.1985 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -263,6 +262,8 @@ beschliesst:
 
 <sup>1</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, haften solidarisch für die Gesamtsteuer. Jeder Gatte haftet jedoch nur für seinen Anteil an der Gesamtsteuer, wenn einer von beiden zahlungsunfähig ist. Ferner haften sie solidarisch für denjenigen Teil der Gesamtsteuer, der auf das Kindereinkommen und Kindervermögen entfällt.
 
+<sup>1<sup>bis</sup></sup> Bei rechtlich oder tatsächlich getrennter Ehe entfällt die Solidarhaftung auch für alle noch offenen Steuerschulden.
+
 <sup>2</sup> Mit dem Steuerpflichtigen haften solidarisch
 
 - a) die unter elterlicher Sorge stehenden Kinder für ihren Anteil an der Gesamtsteuer;
@@ -498,6 +499,19 @@ beschliesst:
 
 <sup>2</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
 
+- a) Bei garantierten Leistungen aus Leibrentenversicherungen, die dem Bundesgesetz über den Versicherungsvertrag vom 2. April 1908[^29-1] (Versicherungsvertragsgesetz, VVG) unterstehen, ist der im Zeitpunkt des Vertragsabschlusses auf der Grundlage von Artikel 36 Absatz 1 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^29-2] bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+  - 1\. Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt:
+  - . Ertragsanteil = [1 - ((1 + m)^22 - 1) / (22 × m × (1 + m)^23)] × 100%
+  - 2\. Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+- b) Bei Überschussleistungen aus Leibrentenversicherungen, die dem VVG unterstehen, entspricht der Ertragsanteil 70 Prozent dieser Leistungen.
+- c) Bei Leistungen aus ausländischen Leibrentenversicherungen, aus Leibrenten- und aus Verpfründungsverträgen ist die Höhe der um 0.5 Prozentpunkte erhöhten annualisierten Rendite zehnjähriger Bundesobligationen (r) während des betreffenden Steuerjahres und der neun vorangegangenen Jahre massgebend:
+  - 1\. Ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt:
+  - . Ertragsanteil = [1 - ((1 + r)^22 - 1) / (22 × r × (1 + r)^23)] × 100%
+  - 2\. Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.
+
+[^29-1]: SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de).
+[^29-2]: SR [961.01](https://db.clex.ch/link/Bund/961.01/de).
+
 #### § 30
 
 **7. Einkünfte aus beruflicher Vorsorge**
@@ -692,7 +706,7 @@ beschliesst:
 <sup>1</sup> Von den Einkünften werden abgezogen
 
 - a) die privaten Schuldzinsen im Umfang der nach den §§ 26 bis 27 steuerbaren Vermögenserträge und weiterer 50'000 Franken; davon ausgenommen sind die Schuldzinsen für Darlehen, die eine Kapitalgesellschaft einer an ihrem Kapital massgeblich beteiligten oder ihr sonst nahestehenden natürlichen Person zu Bedingungen gewährt, die erheblich von den im Geschäftsverkehr unter Dritten üblichen Bedingungen abweichen;
-- b) die dauernden Lasten sowie 40% der bezahlten Leibrenten;
+- b) die dauernden Lasten sowie der Ertragsanteil nach § 29 Absatz 2 Buchstabe c der Leistungen aus Leibrenten- und Verpfründungsverträgen;
 - c) 1000 Franken vom niedrigeren Erwerbseinkommen bei in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehegatten, wenn beide Ehegatten unabhängig voneinander ein Erwerbseinkommen erzielen; ein gleicher Abzug ist zulässig bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten;
 - d) die nachgewiesenen Kosten für die Drittbetreuung von Kindern, die das 14. Altersjahr noch nicht vollendet haben und die mit der steuerpflichtigen Person, die für ihren Unterhalt sorgt, im gleichen Haushalt leben, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen, höchstens jedoch 25'000 Franken je Kind;
 - e) …
@@ -795,9 +809,9 @@ beschliesst:
 
 **2. Teuerung und kalte Progression**
 
-<sup>1</sup> Der Regierungsrat passt bei jedem Anstieg der Teuerung um 5% seit Inkrafttreten dieses Gesetzes oder seit der letzten Anpassung die Tarifstufen in § 44, die allgemeinen Abzüge in § 41 und die Sozialabzüge in § 43 sowie den Mindestbetrag in § 20 Absatz 4 dem Stand des Landesindexes der Konsumentenpreise an.
+<sup>1</sup> Bei der Einkommenssteuer der natürlichen Personen werden die Folgen der kalten Progression durch die gleichmässige Anpassung der Tarifstufen und der in Frankenbeträgen festgesetzten Abzüge vom Einkommen voll ausgeglichen. Die Beiträge sind auf 100 Franken auf- oder abzurunden.
 
-<sup>2</sup> Massgebend ist der Indexstand ein Jahr vor Beginn der Steuerperiode, erstmals am 31. Dezember 2023; die Anpassung erfolgt frühestens auf die Steuerperiode 2025.
+<sup>2</sup> Der Regierungsrat passt die Tarifstufen in § 44 und die in Frankenbeträgen festgesetzten Abzüge vom Einkommen sowie den Mindestbetrag in § 20 Absatz 4 jährlich durch Verordnung an den Landesindex der Konsumentenpreise an. Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode. Bei negativem Teuerungsverlauf ist eine Anpassung ausgeschlossen. Der auf eine negative Teuerung folgende Ausgleich erfolgt auf der Basis des letzten Ausgleichs.
 
 #### § 46
 
@@ -2289,7 +2303,7 @@ beschliesst:
 - a) Arbeitgeber über ihre Leistungen an Arbeitnehmer;
 - b) …
 - c) Gläubiger und Schuldner über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen;
-- d) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen;
+- d) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen; bei Leibrentenversicherungen, die dem VVG unterstehen, müssen sie zusätzlich das Abschlussjahr, die Höhe der garantierten Leibrente, den gesamten steuerbaren Ertragsanteil nach § 29 Absatz 2 sowie die Überschussleistungen und den Ertragsanteil aus diesen Leistungen nach § 29 Absatz 2 Buchstabe b ausweisen;
 - e) Treuhänder, Vermögensverwalter, Pfandgläubiger, Beauftragte und andere Personen, die Vermögen des Steuerpflichtigen in Besitz oder in Verwaltung haben oder hatten, über dieses Vermögen und seine Erträgnisse;
 - f) Personen, die mit dem Steuerpflichtigen Geschäfte tätigen oder getätigt haben, über die beiderseitigen Ansprüche und Leistungen;
 - g) …
@@ -2354,13 +2368,25 @@ beschliesst:
 
 <sup>4</sup> Die Veranlagungsbehörde kann die Veranlagungsverfügung von sich aus während der Einsprachefrist berichtigen. Berichtigungen zu Ungunsten des Steuerpflichtigen sind zu begründen.
 
+#### § 148bis
+
+**4. Veranlagung mithilfe von algorithmischen Systemen**
+
+<sup>1</sup> Die Veranlagung kann auch mithilfe von algorithmischen Entscheid- und Unterstützungssystemen (algorithmische Systeme) erfolgen.
+
+<sup>2</sup> Die eingesetzten algorithmischen Systeme können gestützt auf definierte Regeln und durch maschinelles Lernen die eingereichten Steuerunterlagen analysieren, mit anderen Steuerdaten vergleichen, daraus Muster erkennen und Berechnungen für die zu veranlagende Steuerperiode erstellen. Der Regierungsrat regelt den Funktionsumfang der algorithmischen Systeme in einer Verordnung.
+
+<sup>3</sup> Die Steuerpflichtigen werden im Rahmen der Aufforderung zur Einreichung der Steuererklärung gemäss § 140 Absatz 1 über den möglichen Einsatz und die Funktionsweise der verwendeten algorithmischen Systeme informiert. Veranlagungsverfügungen, die mithilfe von algorithmischen Systemen erfolgen, werden entsprechend ausgewiesen.
+
+<sup>4</sup> Das Steueramt stellt den Datenschutz und die Datensicherheit der eingesetzten algorithmischen Systeme durch angemessene technische und organisatorische Massnahmen und geeignete Kontrollen sicher. Der Regierungsrat regelt die Massnahmen in einer Verordnung.
+
 #### § 149
 
 **III. Einsprache 1. Voraussetzungen**
 
 <sup>1</sup> Gegen die Veranlagungsverfügung können der Steuerpflichtige, das Finanzdepartement und die beteiligte Gemeinde, gegen Verfügungen über Fristerstreckungen und Beweisauflagen kann der Steuerpflichtige bei der verfügenden Behörde schriftlich Einsprache erheben.
 
-<sup>2</sup> Die Einsprache gegen die Veranlagungsverfügung ist innert 30 Tagen, die Einsprache gegen die Verfügung über eine Fristerstreckung oder Beweisauflage innert 10 Tagen, von der Zustellung an gerechnet, einzureichen.
+<sup>2</sup> Die Einsprache ist innert 30 Tagen, von der Zustellung an gerechnet, einzureichen.
 
 <sup>3</sup> Richtet sich die Einsprache gegen eine einlässlich begründete Veranlagungsverfügung, so kann sie von der Einsprachebehörde mit Zustimmung des Einsprechers und der übrigen Antragsteller als Rekurs an das Kantonale Steuergericht weitergeleitet werden.
 
@@ -2817,7 +2843,7 @@ beschliesst:
 
 <sup>3</sup> Werden Steuern an Ehegatten zurückerstattet, die in tatsächlich und rechtlich ungetrennter Ehe leben, kann die Zahlung an jeden der beiden Ehegatten erfolgen.
 
-<sup>4</sup> Sind Steuerbeträge, die für beide Ehegatten geleistet wurden, nach ihrer Scheidung, rechtlichen oder tatsächlichen Trennung zurückzuerstatten, erfolgt die Rückerstattung je zur Hälfte an jeden der beiden Ehegatten. Vorbehalten bleiben anders lautende Vereinbarungen der Ehegatten, welche diese der zuständigen Bezugsbehörde bekanntgegeben haben.
+<sup>4</sup> Sind Steuerbeträge, die für beide Ehegatten geleistet wurden, nach ihrer Scheidung, rechtlichen oder tatsächlichen Trennung zurückzuerstatten, erfolgt die Rückerstattung je zur Hälfte an jeden der beiden Ehegatten. Vorbehalten bleiben anders lautende Vereinbarungen der Ehegatten, welche diese der zuständigen Bezugsbehörde innert 30 Tagen nach Eröffnung der Rechnung bekanntgegeben haben.
 
 <sup>5</sup> …
 
@@ -3329,7 +3355,7 @@ wird mit Busse bestraft.
 - a) der Ehegatte und der eingetragene Partner oder die eingetragene Partnerin;
 - b) die Nachkommen, die Adoptivkinder und ihre Nachkommen sowie die Eltern und Adoptiveltern;
 - c) Stiftungen, deren Destinatäre ausschliesslich Nachkommen, Adoptivkinder und ihre Nachkommen sind;
-- d) die in § 90 Absatz 1 Buchstaben a-k genannten Gemeinwesen, Anstalten und juristischen Personen mit Sitz in der Schweiz sowie andere Kantone, ausserkantonale Gemeinden und ihre Anstalten, sofern diese nicht wirtschaftliche Zwecke verfolgen.
+- d) die in § 90 Absatz 1 Buchstaben a-k genannten Gemeinwesen, Anstalten und juristischen Personen mit Sitz in der Schweiz, die Vereine, soweit sie ideelle Zwecke verfolgen, sowie andere Kantone, ausserkantonale Gemeinden und ihre Anstalten, sofern diese nicht wirtschaftliche Zwecke verfolgen.
 
 <sup>2</sup> Körperschaften im Sinne von Absatz 1 Buchstabe d, die ihren Sitz im Ausland haben, sind von der Steuerpflicht befreit, soweit Gegenrecht gehalten wird.
 
@@ -3376,7 +3402,7 @@ wird mit Busse bestraft.
 
 - a) Klasse 1: Stiefeltern und Stiefkinder, Pflegeeltern und Pflegekinder, sofern das Pflegeverhältnis während mindestens zwei Jahren bestanden hat, sowie die Nachkommen von Stief- und Pflegekindern;
 - b) Klasse 2: Geschwister und Halbgeschwister;
-- c) Klasse 3: Grosseltern und Schwiegereltern;
+- c) Klasse 3: Grosseltern und Schwiegereltern, sowie Lebenspartnerinnen oder Lebenspartner, die zum Zeitpunkt der Entstehung des Steueranspruchs mit der zuwendenden Person seit mindestens fünf Jahren ununterbrochen in Wohngemeinschaft mit gleichem steuerlichem Wohnsitz gelebt haben;
 - d) Klasse 4: Onkel und Tanten, Neffen und Nichten;
 - e) Klasse 5: alle weiteren Steuerpflichtigen.
 
@@ -3472,7 +3498,7 @@ wird mit Busse bestraft.
 
 <sup>1</sup> Für die Steuerberechnung gelten die §§ 229-232. Hat der Empfänger innert fünf Jahren mehrere Zuwendungen vom gleichen Schenker erhalten, bestimmt sich der Steuersatz nach dem Gesamtbetrag aller Zuwendungen.
 
-<sup>2</sup> Von jeder Zuwendung werden 14'100 Franken abgezogen. Macht ein Schenker mehrere Zuwendungen an den gleichen Empfänger, so wird dieser Abzug innert fünf Jahren insgesamt nur einmal gewährt.
+<sup>2</sup> Von jeder Zuwendung werden 15'200 Franken abgezogen. Macht ein Schenker mehrere Zuwendungen an den gleichen Empfänger, so wird dieser Abzug innert fünf Jahren insgesamt nur einmal gewährt.
 
 #### § 240
 
