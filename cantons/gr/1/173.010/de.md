@@ -1,29 +1,28 @@
 ---
 canton: GR
 number: "173.010"
-title: Übergangsverordnung des Obergerichts
-short: ÜVOG
+title: Verordnung über die Organisation und Geschäftsführung des Obergerichts
+short: OGV
 language: de
-version: 2024-07-15
-valid_until: 2024-12-31
-version_adopted: 2024-05-30
+version: 2025-01-01
+version_adopted: 2024-10-31
 adopted: 2024-10-31
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3448/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3477/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Übergangsverordnung des Obergerichts
+# Verordnung über die Organisation und Geschäftsführung des Obergerichts
 
-(ÜVOG)
+(OGV)
 
-Vom 13.02.2024 (Stand 15.07.2024)
+Vom 31.10.2024 (Stand 01.01.2025)
 
-Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung[^ingress-1] und Art. 40 Abs. 2 lit. a sowie Art. 43 des Gerichtsorganisationsgesetzes[^ingress-2]
+Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung[^ingress-1] und Art. 43 des Gerichtsorganisationsgesetzes[^ingress-2]
 
-vom Obergericht erlassen am 13. Februar 2024
+vom Obergericht erlassen am 31. Oktober 2024
 
 [^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 [^ingress-2]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
@@ -32,28 +31,28 @@ vom Obergericht erlassen am 13. Februar 2024
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung präzisiert die Organisation und Justizverwaltung des Obergerichts sowie dessen Aufsichtstätigkeit für die Übergangszeit bis zum Inkrafttreten der zu erlassenden Geschäftsordnung.
+<sup>1</sup> Diese Verordnung präzisiert die Organisation und die Geschäftsführung des Obergerichts.
 
-<sup>2</sup> Die Bestimmungen des vorliegenden Erlasses finden nur insoweit Anwendung, als die ihr zugrundeliegenden Bestimmungen des Gerichtsorganisationsgesetzes vom 14. Juni 2022 durch Beschluss der Regierung[^1-1] in Kraft gesetzt worden sind.
+<sup>2</sup> Im Bereich der Justizaufsicht bestimmt sie, welchem Organ des Obergerichts die einzelnen Aufgaben der Organ- und Dienstaufsicht obliegen. Im Übrigen sind die Durchführung der Aufsicht und die Tätigkeit des Obergerichts als oberstes justizinternes Leitungs- und Führungsorgan Gegenstand der Verordnung über die Justizaufsicht[^1-1].
 
-[^1-1]: siehe AGS 2023-008 und AGS 2024-003
+[^1-1]: BR [173.200](https://www.gr-lex.gr.ch/data/173.200/de)
 
 ## 2. Organisation
 
-### 2.1. Abteilungen und Kammern
+### 2.1. Abteilungen
 
 #### Art. 2
 
-**Im Allgemeinen**
+**Gliederung**
 
 <sup>1</sup> Das Obergericht umfasst die folgenden Abteilungen:
 
-- a) eine verfassungs- und verwaltungsrechtliche Abteilung;
-- b) eine sozialversicherungsrechtliche und schiedsgerichtliche Abteilung;
-- c) eine zivilrechtliche Abteilung;
-- d) eine strafrechtliche Abteilung.
+- a) die Verfassungs- und verwaltungsrechtliche Abteilung;
+- b) die Sozialversicherungsrechtliche und schiedsgerichtliche Abteilung;
+- c) die Zivilrechtliche Abteilung;
+- d) die Strafrechtliche Abteilung.
 
 <sup>2</sup> Die Abteilungen gliedern sich in folgende Kammern:
 
@@ -73,19 +72,362 @@ vom Obergericht erlassen am 13. Februar 2024
   - 1\. Erste strafrechtliche Kammer;
   - 2\. Zweite strafrechtliche Kammer.
 
+### 2.2. Kammern
+
 #### Art. 3
+
+**Erste verfassungs- und verwaltungsrechtliche Kammer**
+
+<sup>1</sup> Die Erste verfassungs- und verwaltungsrechtliche Kammer entscheidet über Beschwerden und Klagen aus den Rechtsgebieten des Verfassungs- und Verwaltungsrechts, die keiner anderen Kammer zugewiesen sind, insbesondere aus folgenden Rechtsgebieten:
+
+- a) politische Rechte;
+- b) Aufenthalt, Niederlassung und Bürgerrecht;
+- c) Ausländerrecht und Zwangsmassnahmen im Ausländerrecht;
+- d) Gewerbepolizei;
+- e) Grundstückerwerb durch Personen im Ausland;
+- f) Konzessionen;
+- g) übriges Polizeirecht;
+- h) Personalrecht;
+- i) Notariatsrecht;
+- j) Erziehung und Kultur;
+- k) Strassenrecht;
+- l) Submissionen;
+- m) Wasserwirtschaft und öffentliche Dienste;
+- n) öffentliche Sachen;
+- o) Regressforderungen aus Staatshaftung;
+- p) Öffentlichkeitsprinzip;
+- q) Wirtschaftsförderungsmassnahmen;
+- r) übriges Verwaltungsrecht.
+
+#### Art. 4
+
+**Zweite verwaltungsrechtliche Kammer**
+
+<sup>1</sup> Die Zweite verwaltungsrechtliche Kammer entscheidet über Beschwerden und Klagen aus folgenden Rechtsgebieten:
+
+- a) Gebühren;
+- b) Ersatzabgaben;
+- c) Perimeter und übrige Beiträge;
+- d) kantonale und kommunale Steuern;
+- e) direkte Bundessteuer;
+- f) Kirchensteuer;
+- g) Gästetaxe, Beherbergungsabgabe und Tourismusförderungsabgabe;
+- h) Enteignung;
+- i) amtliche Bewertung;
+- j) Katastrophenhilfe, Feuerwehr und Zivilschutz.
+
+#### Art. 5
+
+**Dritte verwaltungsrechtliche Kammer**
+
+<sup>1</sup> Die Dritte verwaltungsrechtliche Kammer entscheidet über Beschwerden und Klagen aus folgenden Rechtsgebieten:
+
+- a) Bauen ausserhalb der Bauzonen;
+- b) Baurecht;
+- c) Natur-, Heimat- und Denkmalschutz;
+- d) Ortsplanung;
+- e) Umwelt- und Gewässerschutz;
+- f) Waldrecht;
+- g) Gebäude- und Elementarschaden;
+- h) Landwirtschaft;
+- i) Strassen- und Wasserbau;
+- j) Grundbuch.
+
+#### Art. 6
+
+**Erste sozialversicherungsrechtliche Kammer**
+
+<sup>1</sup> Die Erste sozialversicherungsrechtliche Kammer entscheidet über Beschwerden und Klagen aus folgenden Rechtsgebieten:
+
+- a) Invalidenversicherung;
+- b) Krankenversicherung;
+- c) Militärversicherung;
+- d) Gesundheitswesen und Tierschutz;
+- e) Sozialhilfe;
+- f) Rückforderung von gewährter unentgeltlicher Rechtspflege.
+
+#### Art. 7
+
+**Zweite sozialversicherungsrechtliche Kammer**
+
+<sup>1</sup> Die Zweite sozialversicherungsrechtliche Kammer entscheidet über Beschwerden und Klagen aus folgenden Rechtsgebieten:
+
+- a) Alters- und Hinterlassenenversicherung;
+- b) Unfallversicherung;
+- c) Arbeitslosenversicherung;
+- d) berufliche Vorsorge;
+- e) Ergänzungsleistungen und Erwerbsersatzordnung;
+- f) Familienzulagen;
+- g) Opferhilfe.
+
+#### Art. 8
+
+**Schiedsgericht in sozialversicherungsrechtlichen Angelegenheiten**
+
+<sup>1</sup> Das Schiedsgericht in sozialversicherungsrechtlichen Angelegenheiten entscheidet über Streitigkeiten zwischen Versicherern und Leistungserbringern, für die das eidgenössische Sozialversicherungsrecht ein Schiedsgerichtsverfahren vorsieht.
+
+<sup>2</sup> Seine Zusammensetzung richtet sich nach Artikel 89 Absatz 4 des Bundesgesetzes über die Krankenversicherung[^8-1] und Artikel 4 Absatz 2 des Einführungsgesetzes zum Schlichtungs- und Schiedsgerichtsverfahren nach eidgenössischem Sozialversicherungsrecht[^8-2].
+
+[^8-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^8-2]: BR [370.300](https://www.gr-lex.gr.ch/data/370.300/de)
+
+#### Art. 9
+
+**Erste zivilrechtliche Kammer**
+
+<sup>1</sup> Die Erste zivilrechtliche Kammer entscheidet über zivilrechtliche Streitigkeiten, bei denen das Obergericht einzige kantonale Instanz ist, sowie über zivilrechtliche Berufungen, Beschwerden und Revisionen aus folgenden Rechtsgebieten:
+
+- a) Zivilgesetzbuch;
+- b) mit dem Zivilgesetzbuch zusammenhängende Erlasse, insbesondere Fortpflanzungsmedizingesetz[^9-1], Datenschutzgesetz[^9-2], Bundesgesetz über das bäuerliche Bodenrecht[^9-3], Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland[^9-4].
+
+[^9-1]: SR [810.11](https://db.clex.ch/link/Bund/810.11/de)
+[^9-2]: SR [235.1](https://db.clex.ch/link/Bund/235.1/de)
+[^9-3]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
+[^9-4]: SR [211.412.41](https://db.clex.ch/link/Bund/211.412.41/de)
+
+#### Art. 10
+
+**Zweite zivilrechtliche Kammer**
+
+<sup>1</sup> Die Zweite zivilrechtliche Kammer entscheidet über zivilrechtliche Streitigkeiten, bei denen das Obergericht einzige kantonale Instanz ist, sowie über zivilrechtliche Berufungen, Beschwerden und Revisionen aus folgenden Rechtsgebieten:
+
+- a) Obligationenrecht;
+- b) mit dem Obligationenrecht zusammenhängende Bereiche, insbesondere Haftpflichtrecht nach Spezialgesetzen, Versicherungsvertragsrecht, Gleichstellung von Frau und Mann, Konsumentenschutz, Fusionsgesetz[^10-1];
+- c) privates Wettbewerbsrecht, Kartellrecht und geistiges Eigentum;
+- d) Schiedsgerichtsbarkeit in zivilrechtlichen Streitigkeiten;
+- e) Staatshaftung.
+
+[^10-1]: SR [221.301](https://db.clex.ch/link/Bund/221.301/de)
+
+#### Art. 11
+
+**Schuldbetreibungs- und Konkurskammer**
+
+<sup>1</sup> Die Schuldbetreibungs- und Konkurskammer nimmt die dem Obergericht als Aufsichtsbehörde über Schuldbetreibung und Konkurs obliegenden Aufgaben wahr.
+
+<sup>2</sup> Sie entscheidet zudem über Beschwerden gegen die im summarischen Verfahren beurteilten Angelegenheiten des Schuldbetreibungs- und Konkursrechts (Art. 251 ZPO[^11-1]).
+
+[^11-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+
+#### Art. 12
+
+**Erste strafrechtliche Kammer**
+
+<sup>1</sup> Die Erste strafrechtliche Kammer ist Berufungsgericht im Sinne der Strafprozessordnung[^12-1].
+
+<sup>2</sup> Sie entscheidet zudem als Berufungsinstanz im Sinne der Jugendstrafprozessordnung[^12-2].
+
+[^12-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^12-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
+
+#### Art. 13
+
+**Zweite strafrechtliche Kammer**
+
+<sup>1</sup> Die Zweite strafrechtliche Kammer ist Beschwerdeinstanz im Sinne der Strafprozessordnung[^13-1] und entscheidet über strafrechtliche Beschwerden nach kantonalem Recht. Ausgenommen sind Zwangsmassnahmen im Ausländerrecht.
+
+<sup>2</sup> Sie entscheidet zudem als Beschwerdeinstanz im Sinne der Jugendstrafprozessordnung[^13-2].
+
+[^13-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^13-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
+
+#### Art. 14
+
+**Zuweisung im Zweifelsfall**
+
+<sup>1</sup> Für die Zuteilung eines Geschäfts an eine Kammer ist die Rechtsfrage massgeblich, auf der das Schwergewicht der Entscheidung liegt.
+
+<sup>2</sup> Geht es zur Hauptsache um prozessuale Streitigkeiten, den Kostenpunkt, die Gewährung der unentgeltlichen Rechtspflege oder die Vollstreckung eines Urteils, so wird die Zuständigkeit aufgrund der dem Entscheid zugrundeliegenden materiell-rechtlichen Hauptfrage bestimmt.
+
+<sup>3</sup> Kommen für die Behandlung einer Streitigkeit mehrere Kammern in Frage, bestimmen deren Vorsitzende die zuständige Kammer im gegenseitigen Einvernehmen. Kommt keine Einigung zustande, wird die Zuweisung von der Präsidentin oder vom Präsidenten vorgenommen.
+
+#### Art. 15
 
 **Kammerzusammensetzung**
 
 <sup>1</sup> Jeder Kammer gehören mindestens eine Vorsitzende oder ein Vorsitzender, eine Stellvertreterin oder ein Stellvertreter und eine zusätzliche Richterin oder ein zusätzlicher Richter an.
 
-<sup>2</sup> In italienisch- oder romanischsprachigen Verfahren hat eine sprachkundige Richterin oder ein sprachkundiger Richter den Vorsitz in der entsprechenden Kammer inne.
+<sup>2</sup> Die Zusammensetzung der Kammern wird veröffentlicht.
 
-<sup>3</sup> Die Zusammensetzung der Kammern wird veröffentlicht.
+#### Art. 16
 
-### 2.2. Aktuariat
+**Spruchkörperbildung**
 
-#### Art. 4
+<sup>1</sup> Der Spruchkörper einer Kammer besteht in der Regel aus der oder dem jeweiligen Vorsitzenden, einer Stellvertreterin oder einem Stellvertreter und einer zusätzlichen Richterin oder einem zusätzlichen Richter.
+
+<sup>2</sup> Als Vorsitzende oder Vorsitzender amtet eine Richterin oder ein Richter, welche oder welcher der Verfahrenssprache kundig ist.
+
+<sup>3</sup> Ist eine Kammer mit mehreren Vorsitzenden oder mehr als drei Richterinnen oder Richtern besetzt, erfolgt die Zuteilung nach einem im Voraus festgelegten Schlüssel, der sich nach der Reihenfolge der Geschäftseingänge, nach Rechtsgebieten oder anderen sachlichen Kriterien bestimmt.
+
+<sup>4</sup> Soweit der Spruchkörper nicht nach den Absätzen 1 bis 3 zusammengesetzt werden kann, sind bei dessen Bestimmung namentlich folgende Kriterien zu berücksichtigen:
+
+- a) die Fachkenntnisse in einem bestimmten Bereich;
+- b) die Ausgewogenheit der Belastung der Richterinnen und Richter, wobei den funktionsbedingten Zusatzbelastungen sowie den Pensen der Richterinnen und Richter Rechnung zu tragen ist;
+- c) die Mitwirkung von Mitgliedern beiderlei Geschlechts je nach der Natur der Sache;
+- d) die Mitwirkung an früheren Entscheiden im gleichen Sachgebiet;
+- e) die Konnexität der Fälle;
+- f) die Sprache;
+- g) die Abwesenheiten, insbesondere Krankheit und Ferien.
+
+<sup>5</sup> Das zur Einsitznahme angefragte Mitglied wird angehört. Bei Meinungsverschiedenheit entscheidet die Präsidentin oder der Präsident.
+
+<sup>6</sup> Die oder der Vorsitzende amtet als Einzelrichterin oder Einzelrichter, soweit eine einzelrichterliche Zuständigkeit besteht.
+
+<sup>7</sup> Ist eine Besetzung mit fünf Richterinnen und Richtern vorgesehen oder wird eine solche angeordnet (Art. 38 Abs. 2 und Abs. 4 GOG[^16-1]), bestimmt die oder der Vorsitzende die weiteren Richterinnen und Richter nach den Kriterien gemäss Absatz 4.
+
+[^16-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+
+### 2.3. Verfahren
+
+### 2.3.1. Verfahrensleitung
+
+#### Art. 17
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Vorsitzenden sind als Instruktionsrichterinnen oder Instruktionsrichter für die Verfahrensleitung der ihnen zugeteilten Fälle zuständig.
+
+<sup>2</sup> Sie leiten die Verfahren selbst und können bei Bedarf eine Aktuarin oder einen Aktuar beiziehen.
+
+#### Art. 18
+
+**Aufgaben**
+
+<sup>1</sup> Im Rahmen der Verfahrensleitung kommen den Vorsitzenden insbesondere folgende Aufgaben zu:
+
+- a) die Anweisungen an die Kanzlei betreffend die Erfassung und die Bearbeitung der Fälle gemäss den gerichtsinternen Vorgaben;
+- b) der Erlass der notwendigen prozessleitenden Verfügungen einschliesslich Verfügungen über vorsorgliche Massnahmen und die unentgeltliche Rechtspflege;
+- c) die Durchführung von Beweisverfahren, soweit dafür nicht der ganze Spruchkörper zuständig ist;
+- d) die Prüfung, ob sich Rechtsfragen von grundsätzlicher Bedeutung stellen;
+- e) die Anordnung und die Leitung von Verhandlungen.
+
+<sup>2</sup> Die oder der Vorsitzende kann den Erlass prozessleitender Verfügungen und die Durchführung von Beweisverfahren durch den ganzen Spruchkörper anordnen.
+
+<sup>3</sup> Verfügungen und Korrespondenz können im Auftrag der oder des Vorsitzenden vom Aktuariat oder von der Kanzlei unterzeichnet werden. Bei Verhinderung unterzeichnen die jeweilige Stellvertreterin oder der jeweilige Stellvertreter in Vertretung oder in eigenem Namen.
+
+#### Art. 19
+
+**Verhandlung**
+
+<sup>1</sup> Findet eine Verhandlung vor dem Kollegialgericht statt, werden die Akten zusammen mit allfälligen Aufzeichnungen über Vorabklärungen den Mitgliedern des Spruchkörpers im Voraus zur Verfügung gestellt.
+
+<sup>2</sup> Die oder der Vorsitzende kann die Anwesenheit der Polizei während der Verhandlung anordnen.
+
+<sup>3</sup> Die Richterinnen und Richter sowie Aktuarinnen und Aktuare tragen an Verhandlungen korrekte Kleidung.
+
+### 2.3.2. Entscheidfindung
+
+#### Art. 20
+
+**Entscheidvorbereitung**
+
+<sup>1</sup> Die oder der Vorsitzende bereitet den Fall für die Zirkulation oder die Beratung im Kollegialgericht vor.
+
+<sup>2</sup> In Verfahren ohne mündliche Verhandlung wird in der Regel ein umfassender Entscheidentwurf oder ein zumindest stichwortartiges Referat mit einem Antrag verfasst.
+
+<sup>3</sup> Die oder der Vorsitzende kann für die Abklärung einzelner Fragen oder die Redaktion eines Referats oder des Entscheidentwurfs oder einzelner Teile davon eine Aktuarin oder einen Aktuar beiziehen.
+
+#### Art. 21
+
+**Entscheidfällung auf dem Zirkularweg**
+
+<sup>1</sup> Soll der Entscheid auf dem Zirkularweg gefällt werden, wird der Entscheidentwurf samt Akten bei den übrigen Mitgliedern des Spruchkörpers in Zirkulation gesetzt.
+
+<sup>2</sup> Sind diese mit dem Dispositiv und der Begründung einverstanden, wird der Entwurf zum Entscheid erhoben.
+
+<sup>3</sup> Eine Beratung findet statt, wenn ein Mitglied des Spruchkörpers einen Abänderungsantrag stellt und die oder der Vorsitzende am Entwurf festhält. Ansonsten kann ein neuer Entscheidentwurf in Zirkulation gesetzt werden.
+
+#### Art. 22
+
+**Entscheidfällung mit Beratung 1. Grundsatz**
+
+<sup>1</sup> Findet in Verfahren ohne mündliche Verhandlung eine Beratung statt, werden die Akten samt allfälligem Entscheidentwurf oder Referat den Mitgliedern des Spruchkörpers mindestens fünf Arbeitstage im Voraus zur Verfügung gestellt. Mit deren Einverständnis oder in besonders dringlichen Fällen kann diese Frist unterschritten werden.
+
+<sup>2</sup> Nach der Entscheidfällung unterzeichnen alle Mitglieder des Spruchkörpers das Dispositiv.
+
+<sup>3</sup> Die Begründung samt Akten wird vor der Ausfertigung den weiteren Mitgliedern des Spruchkörpers zur Genehmigung vorgelegt.
+
+#### Art. 23
+
+**2. Virtuelle Beratung**
+
+<sup>1</sup> In begründeten Fällen und mit dem Einverständnis aller Mitglieder des Spruchkörpers können einzelne oder alle Mitglieder an der Beratung per Ton- und Bildübertragung (Videokonferenz) teilnehmen.
+
+<sup>2</sup> Bei der Durchführung müssen folgende Voraussetzungen erfüllt sein:
+
+- a) die Übertragung von Ton und Bild zwischen sämtlichen an der Beratung teilnehmenden Personen erfolgt zeitgleich;
+- b) die oder der Vorsitzende identifiziert zu Beginn alle Teilnehmenden und stellt ihre Anwesenheit fest;
+- c) eine funktionierende Übertragung von Ton und Bild muss während der virtuellen Beratung gewährleistet sein. Bei erheblichen technischen Störungen ist die Beratung zu unterbrechen. Können diese Störungen behoben werden, ist die Beratung fortzusetzen; andernfalls ist sie abzubrechen;
+- d) es findet keine Aufzeichnung statt. Die Protokollierung richtet sich nach den Bestimmungen für physische Beratungen;
+- e) der Datenschutz und die Datensicherheit sind gewährleistet.
+
+<sup>3</sup> Mit dem Einverständnis sämtlicher Mitglieder des Spruchkörpers kann auf die Übertragung des Bildes verzichtet werden.
+
+<sup>4</sup> Wird der Entscheid in der Beratung gefällt, bestätigen die Mitglieder des Spruchkörpers, die virtuell teilgenommen haben, das Dispositiv elektronisch.
+
+<sup>5</sup> Im Übrigen richten sich die technischen Voraussetzungen und die Anforderungen an den Datenschutz und an die Datensicherheit nach Artikel 141b der Zivilprozessordnung[^23-1] und nach der Verordnung über den Einsatz elektronischer Mittel zur Ton- und Bildübertragung in Zivilverfahren[^23-2].
+
+[^23-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^23-2]: SR [272.2](https://db.clex.ch/link/Bund/272.2/de)
+
+#### Art. 24
+
+**Nachträgliche Begründung**
+
+<sup>1</sup> Verlangt eine Partei nachträglich eine Begründung, so wird diese samt Akten vor der Ausfertigung den weiteren Mitgliedern des Spruchkörpers zur Genehmigung vorgelegt.
+
+#### Art. 25
+
+**Unterschrift**
+
+<sup>1</sup> Hat bei der Entscheidfällung eine Aktuarin oder ein Aktuar mitgewirkt, wird der Entscheid von der oder dem Vorsitzenden sowie der Aktuarin oder dem Aktuar unterzeichnet. Ansonsten unterzeichnet die oder der Vorsitzende alleine.
+
+<sup>2</sup> Bei Verhinderung unterzeichnen die jeweilige Stellvertreterin oder der jeweilige Stellvertreter in Vertretung.
+
+#### Art. 26
+
+**Veröffentlichung**
+
+<sup>1</sup> Die Veröffentlichung der Entscheide richtet sich nach der Verordnung über die Information der Öffentlichkeit durch die richterlichen Behörden[^26-1].
+
+<sup>2</sup> Die Verwaltungskommission wählt die Entscheide aus, welche die Vorsitzenden zur Veröffentlichung in der Praxis des Obergerichts (POG) und in anderen Publikationsorganen vorschlagen.
+
+[^26-1]: BR [173.520](https://www.gr-lex.gr.ch/data/173.520/de)
+
+### 2.3.3. Weiterzug
+
+#### Art. 27
+
+**Vernehmlassung vor der oberen Instanz**
+
+<sup>1</sup> Die oder der Vorsitzende entscheidet über die Einreichung einer Vernehmlassung im Rechtsmittelverfahren vor der oberen Instanz.
+
+<sup>2</sup> Sie oder er kann die weiteren Mitglieder des Spruchkörpers einbeziehen.
+
+#### Art. 28
+
+**Rechtskraft- und Vollstreckbarkeitsbescheinigung**
+
+<sup>1</sup> Ist der Entscheid rechtskräftig oder vollstreckbar, stellt das Generalsekretariat auf Verlangen einer Partei eine entsprechende Bescheinigung aus.
+
+### 2.4. Aktuariat
+
+#### Art. 29
+
+**Aufgaben**
+
+<sup>1</sup> Die Aktuarinnen und Aktuare sind insbesondere mit folgenden Aufgaben betraut:
+
+- a) der Mitarbeit bei der Prozessinstruktion;
+- b) dem Abklären von Rechts- und Tatfragen sowie dem Verfassen von Referaten und Entscheidentwürfen;
+- c) der Protokollführung an den Gerichtsverhandlungen und -beratungen;
+- d) der Teilnahme an der Entscheidfindung mit beratender Stimme;
+- e) der Redaktion der Entscheide;
+- f) der Übernahme weiterer, von der Präsidentin oder dem Präsidenten zugewiesener Aufgaben.
+
+<sup>2</sup> Das Aktuariat kann eine Ansprechperson bestimmen, welche als Bindeglied zur Richterschaft und zu den zentralen Diensten wirkt.
+
+#### Art. 30
 
 **Zuteilung**
 
@@ -95,7 +437,13 @@ vom Obergericht erlassen am 13. Februar 2024
 
 <sup>3</sup> Ist eine Stelle im Aktuariat neu zu besetzen, ist den Aktuarinnen und Aktuaren die Möglichkeit einzuräumen, einen Wechsel in der Zuteilung zu beantragen.
 
-#### Art. 5
+#### Art. 31
+
+**Aktuarinnen und Aktuare ad hoc**
+
+<sup>1</sup> Der Beizug von Aktuarinnen und Aktuaren ad hoc erfolgt, sofern dies für die Bewältigung der Geschäftslast notwendig erscheint.
+
+#### Art. 32
 
 **Substitutinnen und Substituten**
 
@@ -107,73 +455,92 @@ vom Obergericht erlassen am 13. Februar 2024
 
 ### 3.1. Gesamtgericht
 
-#### Art. 6
+#### Art. 33
 
 **Zusammensetzung**
 
-<sup>1</sup> Das Gesamtgericht setzt sich aus allen ordentlichen Richterinnen und Richtern zusammen.
+<sup>1</sup> Das Gesamtgericht setzt sich aus allen ordentlichen Oberrichterinnen und Oberrichtern zusammen.
 
-#### Art. 7
+#### Art. 34
 
 **Aufgaben und Befugnisse**
 
-<sup>1</sup> Das Gesamtgericht übt alle Befugnisse aus, die ihm durch das Gerichtsorganisationsgesetz zugewiesen werden.
+<sup>1</sup> Das Gesamtgericht übt alle Befugnisse aus, die ihm durch das Gerichtsorganisationsgesetz[^34-1] zugewiesen werden.
 
 <sup>2</sup> In seine Zuständigkeit fallen zudem:
 
-- a) die Festlegung der Anzahl der weiteren Mitglieder der Verwaltungskommission und deren Wahl vor jeder Amtsperiode;
+- a) die Festlegung der Anzahl der weiteren Mitglieder der Verwaltungskommission und deren Wahl vor jeder Amtsdauer;
 - b) die Antragstellung der gemäss Finanzhaushaltsrecht notwendigen Nachtragskredite an die Geschäftsprüfungskommission des Grossen Rates;
 - c) die Genehmigung von mit dem Budget unterbreiteten Stellenschaffungsanträgen an den Grossen Rat;
 - d) die Festlegung der Grundzüge der Besoldung und sonstiger Entschädigungen der Mitarbeitenden und der Aktuarinnen und Aktuare ad hoc des Obergerichts;
-- e) die Einreihung der Stellen der weiteren hauptamtlichen Mitglieder der richterlichen Behörden;
-- f) die Einreihung der Stellen der Mitarbeitenden des Obergerichts, des Justizgerichts und der weiteren richterlichen Behörden in die Funktionsklassen nach geltendem Personalrecht;
+- e) die Einreihung der Stellen der weiteren hauptamtlichen Mitglieder der richterlichen Behörden in die Funktionsklassen nach kantonalem Personalrecht;
+- f) die Einreihung der Stellen der Mitarbeitenden des Obergerichts, des Justizgerichts und der weiteren richterlichen Behörden in die Funktionsklassen nach kantonalem Personalrecht;
 - g) die Genehmigung von Vereinbarungen über die Übertragung von Aufgaben auf andere Dienststellen und von langfristigen Verträgen;
-- h) Anträge an den Grossen Rat betreffend Gesamtstellenumfang sowie Anzahl Oberrichterinnen und Oberrichter und deren Beschäftigungsgrad für eine neue Amtsperiode;
-- i) Anträge an den Grossen Rat betreffend Erhöhung der personellen Dotierung des Obergerichts während der Amtsperiode;
-- j) Festlegung des Beschäftigungsgrads der Vermittlerinnen und Vermittler.
+- h) die Anträge an den Grossen Rat betreffend Gesamtstellenumfang sowie Anzahl Oberrichterinnen und Oberrichter und deren Beschäftigungsgrad für eine neue Amtsdauer;
+- i) die Anträge an den Grossen Rat auf Erhöhung der personellen Dotierung des Obergerichts während der Amtsdauer an den Grossen Rat;
+- j) die Beschlussfassung über die Änderung des Beschäftigungsgrads von Oberrichterinnen und Oberrichtern während der Amtsdauer oder aufgrund von Geburt oder Adoption;
+- k) die Anträge auf Ergänzungswahl für das Obergericht;
+- l) die Anträge auf Zuwahl von ausserordentlichen Richterinnen und Richtern für das Obergericht;
+- m) die Anträge an den Grossen Rat betreffend Bezeichnung der Mitglieder des kantonalen Zwangsmassnahmengerichts;
+- n) die Anträge und Stellungnahmen an den Grossen Rat betreffend die personelle Dotierung der Regionalgerichte vor den Erneuerungswahlen oder während laufender Amtsdauer;
+- o) die Festlegung des Beschäftigungsgrads der Vermittlerinnen und Vermittler;
+- p) die Anträge auf Einleitung von durch den Grossen Rat zu führenden dienstaufsichtsrechtlichen Verfahren.
 
-#### Art. 8
+[^34-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+
+#### Art. 35
 
 **Sitzungen**
 
-<sup>1</sup> Eine Sitzung wird von der Präsidentin oder dem Präsidenten einberufen oder wenn dies mindestens fünf Richterinnen und Richter verlangen.
+<sup>1</sup> Das Gesamtgericht tagt in der Regel alle zwei Monate.
 
-<sup>2</sup> Jedes Mitglied des Gesamtgerichts kann mit begründetem Antrag verlangen, dass ein Geschäft traktandiert wird.
+<sup>2</sup> Eine ausserordentliche Sitzung kann von der Präsidentin oder dem Präsidenten einberufen werden oder wenn dies mindestens fünf Oberrichterinnen und Oberrichter verlangen.
 
-<sup>3</sup> Die Beschlussfassung im Gesamtgericht erfolgt entweder anlässlich einer Sitzung oder in einem Zirkulationsverfahren.
+<sup>3</sup> Jedes Mitglied des Gesamtgerichts kann mit begründetem Antrag verlangen, dass ein Geschäft traktandiert wird.
 
-<sup>4</sup> Jedes Mitglied des Gesamtgerichts hat eine Stimme und ist zur Stimmabgabe verpflichtet.
+<sup>4</sup> Die Beschlussfassung im Gesamtgericht erfolgt entweder anlässlich einer Sitzung oder in einem Zirkularverfahren.
 
-<sup>5</sup> Die Beschlüsse, für die das Gesamtgericht zuständig ist, werden mit der absoluten Mehrheit der Stimmen der an der Sitzung anwesenden oder am Zirkularverfahren teilnehmenden Richterinnen und Richter gefasst. Bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident.
+<sup>5</sup> Jedes Mitglied des Gesamtgerichts hat eine Stimme und ist, ausser bei Wahlen, zur Stimmabgabe verpflichtet.
 
-<sup>6</sup> Bei Wahlen entscheidet im ersten Wahlgang das absolute Mehr. Dieses ist die nächsthöhere ganze Zahl, welche sich nach Teilung der Gesamtzahl aller gültigen Stimmen für kandidierende Personen geteilt durch die doppelte Zahl der freien Sitze ergibt. Stimmenthaltungen sowie leere und ungültige Stimmen werden nicht gezählt. Haben mehr Personen das absolute Mehr erreicht, als Sitze zu besetzen sind, gelten diejenigen mit den höchsten Stimmenzahlen als gewählt. Erreicht niemand das absolute Mehr oder sind weniger Personen gewählt, als Sitze zu besetzen sind, findet ein zweiter Wahlgang statt, in welchem die Personen mit den höchsten Stimmenzahlen gewählt sind (relatives Mehr). Im Übrigen gilt das Gesetz über die politischen Rechte im Kanton Graubünden sinngemäss.
+<sup>6</sup> Die Beschlüsse werden mit der absoluten Mehrheit der Stimmen der an der Sitzung anwesenden oder am Zirkularverfahren teilnehmenden Oberrichterinnen und Oberrichter gefasst. Bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident.
 
-<sup>7</sup> Die Protokolle der Sitzungen des Gesamtgerichts werden dem Gesamtgericht zur Genehmigung unterbreitet.
+<sup>7</sup> Bei Wahlen entscheidet im ersten Wahlgang das absolute Mehr. Dieses ist die nächsthöhere ganze Zahl, welche sich nach Teilung der Gesamtzahl aller gültigen Stimmen für kandidierende Personen durch die doppelte Zahl der freien Sitze ergibt. Stimmenthaltungen sowie leere und ungültige Stimmen werden nicht gezählt. Haben mehr Personen das absolute Mehr erreicht, als Sitze zu besetzen sind, gelten diejenigen mit den höchsten Stimmenzahlen als gewählt. Erreicht niemand das absolute Mehr oder sind weniger Personen gewählt, als Sitze zu besetzen sind, findet ein zweiter Wahlgang statt, in welchem die Personen mit den höchsten Stimmenzahlen gewählt sind (relatives Mehr). Im Übrigen gilt das Gesetz über die politischen Rechte im Kanton Graubünden[^35-1] sinngemäss.
+
+<sup>8</sup> Die Protokolle der Sitzungen werden dem Gesamtgericht zur Genehmigung unterbreitet.
+
+[^35-1]: BR [150.100](https://www.gr-lex.gr.ch/data/150.100/de)
 
 ### 3.2. Präsidium
 
-#### Art. 9
+#### Art. 36
 
-**Präsidialaufgaben und Befugnisse**
+**Aufgaben und Befugnisse**
 
-<sup>1</sup> Die Präsidentin oder der Präsident führt das Obergericht und überwacht seine Geschäftstätigkeit. Sie oder er übt alle Befugnisse aus, die ihr oder ihm durch das Gerichtsorganisationsgesetz zugewiesen werden.
+<sup>1</sup> Die Präsidentin oder der Präsident führt das Obergericht und überwacht seine Geschäftstätigkeit. Sie oder er übt alle Befugnisse aus, die ihr oder ihm durch das Gerichtsorganisationsgesetz[^36-1] zugewiesen werden.
 
 <sup>2</sup> Ihr oder ihm obliegen zudem folgende Aufgaben:
 
-- a) die Teilnahme an den Sitzungen des Grossen Rates zum Budget;
-- b) der Verkehr mit den für das Obergericht zuständigen Kommissionen des Grossen Rates und mit den kantonalen Ämtern;
-- c) die Aufsicht über die Generalsekretärin oder den Generalsekretär und über die informationsbeauftragte Person;
-- d) die Besetzung der Praktikumsstellen.
+- a) die Teilnahme an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zum Geschäftsbericht;
+- b) die Teilnahme an den Sitzungen des Grossen Rates zu Justizvorlagen;
+- c) der Verkehr mit den für das Obergericht zuständigen Kommissionen des Grossen Rates und mit den kantonalen Ämtern;
+- d) die Tätigung von Ausgaben im Rahmen des genehmigten Budgets und des kantonalen Finanzrechts für Verpflichtungen bis 50 000 Franken;
+- e) die Gewährleistung der Kreditkontrolle sowie die Verantwortung für eine sparsame und wirtschaftliche Kreditverwendung und für ein zweckmässiges Kontrollsystem;
+- f) die Aufsicht über die Aktuarinnen und Aktuare, die Generalsekretärin oder den Generalsekretär und die Informationsbeauftragte oder den Informationsbeauftragten;
+- g) die Besetzung der Praktikumsstellen.
 
 <sup>3</sup> Die Vizepräsidentin oder der Vizepräsident unterstützt die Präsidentin oder den Präsidenten bei der Erfüllung ihrer oder seiner Aufgaben.
 
-<sup>4</sup> Ist die Präsidentin oder der Präsident verhindert, wird sie oder er durch die Vizepräsidentin oder den Vizepräsidenten vertreten. Ihr oder ihm stehen die Präsidialzuständigkeiten zu.
+<sup>4</sup> Ist die Präsidentin oder der Präsident verhindert, wird sie oder er durch die Vizepräsidentin oder den Vizepräsidenten vertreten. Ihr oder ihm stehen die Präsidialbefugnisse zu.
 
-<sup>5</sup> Die Präsidentin oder der Präsident ist befugt, für besondere, in ihre oder seine Kompetenz fallende Tätigkeiten auch die übrigen Richterinnen und Richter beizuziehen.
+<sup>5</sup> Die Präsidentin oder der Präsident wird im zeitlichen Umfang der präsidialen Tätigkeit von Rechtsprechungsaufgaben entlastet.
+
+<sup>6</sup> Die Präsidentin oder der Präsident ist befugt, für besondere, in ihre oder seine Kompetenz fallende Tätigkeiten auch die übrigen Oberrichterinnen und Oberrichter beizuziehen.
+
+[^36-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 ### 3.3. Verwaltungskommission
 
-#### Art. 10
+#### Art. 37
 
 **Zusammensetzung**
 
@@ -183,20 +550,21 @@ vom Obergericht erlassen am 13. Februar 2024
 
 <sup>3</sup> Besteht die Verwaltungskommission aus mehr als drei Mitgliedern, kann sie einen Ausschuss bilden, dem sie die Erledigung bestimmter Geschäfte übertragen kann.
 
-<sup>4</sup> Der Ausschuss besteht aus drei Mitgliedern. Die Verwaltungskommission regelt die Stellvertretung bei Verhinderungs- oder Ausstandsgründen.
+<sup>4</sup> Der Ausschuss besteht aus drei Mitgliedern. Die Verwaltungskommission regelt die Stellvertretung bei Verhinderung oder Ausstand.
 
-#### Art. 11
+#### Art. 38
 
 **Aufgaben und Befugnisse 1. Im Allgemeinen**
 
 <sup>1</sup> Der Verwaltungskommission obliegen alle in die Zuständigkeit des Obergerichts fallenden Aufgaben der Justizverwaltung, die weder durch Gesetz noch Verordnung einem anderen Organ zugewiesen sind.
 
-<sup>2</sup> An einen Ausschuss delegierbar sind namentlich folgende Geschäfte:
+<sup>2</sup> An einen Ausschuss sind namentlich folgende Geschäfte delegierbar:
 
-- a) Entbindung vom Amtsgeheimnis;
-- b) Sorge für die Einhaltung der Offenlegungspflichten.
+- a) die Entbindung vom Amtsgeheimnis;
+- b) die Sorge für die Einhaltung der Offenlegungspflichten;
+- c) die Geschäfte der Justizaufsicht.
 
-#### Art. 12
+#### Art. 39
 
 **2. Aufgaben der Justizverwaltung**
 
@@ -204,214 +572,188 @@ vom Obergericht erlassen am 13. Februar 2024
 
 <sup>2</sup> In ihre Kompetenz fallen insbesondere:
 
-- a) die jährliche Festsetzung des Lohns der Mitarbeitenden;
-- b) Anträge auf Stellenschaffungen für Mitarbeitende des Obergerichts;
-- c) Anträge auf Genehmigung von Vereinbarungen über die Übertragung von Aufgaben auf andere Dienststellen und von langfristigen Verträgen;
-- d) die Vorbereitung der Bewilligungen von Nebenbeschäftigungen der Oberrichterinnen und Oberrichter und der Aktuarinnen und Aktuare des Obergerichts.
+- a) die jährliche Festsetzung des Lohns und der Leistungsprämien der Mitarbeitenden des Obergerichts;
+- b) die Anträge auf Stellenschaffungen für Mitarbeitende des Obergerichts;
+- c) die periodische Überprüfung der von den Abteilungen, Kammern und einzelnen Mitgliedern des Obergerichts zu bewältigenden Geschäftslast;
+- d) die Anträge auf Genehmigung von Vereinbarungen über die Übertragung von Aufgaben auf andere Dienststellen und von langfristigen Verträgen;
+- e) der Abschluss von Verträgen mit Aktuarinnen und Aktuaren ad hoc;
+- f) die Bewilligung von Nebenbeschäftigungen der Oberrichterinnen und Oberrichter und der Aktuarinnen und Aktuare des Obergerichts;
+- g) die Anträge an die Kommission für Justiz und Sicherheit des Grossen Rates auf Bezeichnung einer Stellvertretung bei Verhinderung oder Ausstand (Art. 39 Abs. 2 GOG[^39-1]).
 
-#### Art. 13
+<sup>3</sup> Für die in die Zuständigkeit der Verwaltungskommission fallenden Entscheide über Disziplinarmassnahmen gegen Mitglieder des Obergerichts ist eine Delegation an den Ausschuss ausgeschlossen.
+
+[^39-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+
+#### Art. 40
 
 **3. Justizaufsicht**
 
 <sup>1</sup> Die Verwaltungskommission ist verantwortlich für die Wahrnehmung der dem Obergericht obliegenden Aufgaben im Bereich:
 
-- a) der Aufsicht über die Regionalgerichte, das kantonale Zwangsmassnahmengericht und die Schlichtungsbehörde für Gleichstellungssachen;
+- a) der Aufsicht über die Regionalgerichte, das kantonale Zwangsmassnahmengericht, die Schlichtungsbehörde für Gleichstellungssachen, die Notariatskommission, die Aufsichtskommission über die Rechtsanwältinnen und Rechtsanwälte, die Schlichtungsbehörde für Sozialversicherungssachen und die Enteignungskommission;
 - b) der Oberaufsicht über die von den Regionalgerichten beaufsichtigten Schlichtungsbehörden.
 
 <sup>2</sup> Sie behandelt alle die vorgenannten Behörden betreffenden Geschäfte der Justizaufsicht, die dem Obergericht gesetzlich oder durch Verordnung übertragen und nicht dem Gesamtgericht vorbehalten sind.
 
 <sup>3</sup> In ihre Kompetenz fallen insbesondere:
 
-- a) die Genehmigung der Geschäftsordnungen der Regionalgerichte;
-- b) die Bewilligung von Stellenschaffungsanträgen für Mitarbeitende der beaufsichtigten Behörden und deren Aufnahme ins Budget (unter Vorbehalt der Genehmigung durch das Gesamtgericht und den Grossen Rat);
-- c) die Zustimmung zum Abschluss langfristiger Verträge (unter Vorbehalt der Genehmigung durch das Gesamtgericht);
-- d) die Vorbereitung der Bewilligungen von Nebenbeschäftigungen von Mitgliedern der Schlichtungsbehörde für Gleichstellungssachen, der Schlichtungsbehörde für Sozialversicherungssachen und der Enteignungskommission.
+- a) die Behandlung von Aufsichtsbeschwerden gemäss Artikel 97 des Gerichtsorganisationsgesetzes[^40-1] gegen Behörden oder deren Mitglieder, welche der direkten Aufsicht des Obergerichts unterstehen;
+- b) die Genehmigung der Geschäftsordnungen der Regionalgerichte;
+- c) die Durchführung des Eignungsverfahrens für die Regionalrichterinnen und Regionalrichter;
+- d) die Anträge auf Durchführung des Zuwahlverfahrens für ausserordentliche Regionalrichterinnen und Regionalrichter;
+- e) die Bezeichnung einer ausserordentlichen Stellvertretung, wenn ein Regionalgericht oder die Schlichtungsbehörde für Gleichstellungssachen wegen Verhinderung oder Ausstand nicht ordnungsgemäss besetzt werden kann;
+- f) die Bewilligung von Stellenschaffungsanträgen für Mitarbeitende der beaufsichtigten Behörden und deren Aufnahme ins Budget (unter Vorbehalt der Genehmigung durch das Gesamtgericht und den Grossen Rat);
+- g) die Zustimmung zum Abschluss langfristiger Verträge der beaufsichtigten Behörden (unter Vorbehalt der Genehmigung durch das Gesamtgericht);
+- h) die Bewilligung von Nebenbeschäftigungen von Mitgliedern der Schlichtungsbehörde für Gleichstellungssachen, der Schlichtungsbehörde für Sozialversicherungssachen und der Enteignungskommission;
+- i) die Genehmigung des Budgets und der Jahresrechnung der Schlichtungsbehörde für Sozialversicherungssachen.
 
-#### Art. 14
+[^40-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+
+#### Art. 41
 
 **Sitzungen**
 
-<sup>1</sup> Jedes Mitglied der Verwaltungskommission kann die Einberufung einer Sitzung oder die Traktandierung eines Geschäfts verlangen.
+<sup>1</sup> Die Verwaltungskommission tagt in der Regel alle zwei Wochen.
 
-<sup>2</sup> Die Beschlüsse, für die die Verwaltungskommission zuständig ist, werden mit der absoluten Mehrheit der Stimmen der an der Sitzung anwesenden oder am Zirkularverfahren teilnehmenden Richterinnen und Richter gefasst. Bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident.
+<sup>2</sup> Jedes Mitglied der Verwaltungskommission kann die Einberufung einer Sitzung oder die Traktandierung eines Geschäfts verlangen.
 
-<sup>3</sup> Jedes Mitglied hat eine Stimme und ist zur Stimmabgabe verpflichtet.
+<sup>3</sup> Die Beschlüsse werden mit der absoluten Mehrheit der Stimmen der an der Sitzung anwesenden oder am Zirkularverfahren teilnehmenden Richterinnen und Richter gefasst. Bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident.
 
-<sup>4</sup> Die Einberufung und die Traktandenliste samt den entsprechenden Unterlagen werden den Mitgliedern der Verwaltungskommission und des Gesamtgerichts zugestellt. Jedes Mitglied des Gesamtgerichts kann mit begründetem Antrag verlangen, dass ein Geschäft im Gesamtgericht traktandiert wird. Ausgenommen davon sind Geschäfte der Justizaufsicht (Art. 13).
+<sup>4</sup> Jedes Mitglied hat eine Stimme und ist, ausser bei Wahlen, zur Stimmabgabe verpflichtet.
 
-<sup>5</sup> Die von der Verwaltungskommission genehmigten Protokolle werden allen Mitgliedern des Gesamtgerichts zugestellt. Ausgenommen davon sind Geschäfte der Justizaufsicht (Art. 13).
+<sup>5</sup> Die Einberufung und die Traktandenliste samt der entsprechenden Unterlagen werden den Mitgliedern der Verwaltungskommission und des Gesamtgerichts zugestellt. Jedes Mitglied des Gesamtgerichts kann mit begründetem Antrag verlangen, dass ein Geschäft zur Konsultation im Gesamtgericht traktandiert wird. Ausgenommen davon sind Geschäfte der Organ- und Dienstaufsicht.
 
-### 3.4. Erweiterte Verwaltungskommission
+<sup>6</sup> Die von der Verwaltungskommission genehmigten Protokolle werden allen Mitgliedern des Gesamtgerichts zugestellt. Ausgenommen davon sind Geschäfte der Organ- und Dienstaufsicht.
 
-#### Art. 15
+### 3.4. Oberrichterinnen und Oberrichter
 
-**Aufgaben**
+#### Art. 42
 
-<sup>1</sup> Die erweiterte Verwaltungskommission sorgt für den regelmässigen Informationsfluss und die Koordination der Interessen zwischen dem Obergericht und den unter seiner Aufsicht stehenden richterlichen Behörden.
+**Konfliktregelung**
 
-<sup>2</sup> Die fünf Mitglieder der Regionalgerichte nehmen auch die Interessen der unter der Aufsicht der Regionalgerichte stehenden Schlichtungsbehörden wahr.
+<sup>1</sup> Konflikte zwischen Oberrichterinnen und Oberrichtern werden nach Möglichkeit gerichtsintern beigelegt.
 
-<sup>3</sup> Die erweiterte Verwaltungskommission erarbeitet und bespricht Grundlagen für eine einheitliche Geschäftsführung der richterlichen Behörden und die Ausübung der Justizaufsicht durch das Obergericht.
+<sup>2</sup> Die Beteiligten sind verpflichtet, zunächst das Gespräch unter sich und dann gegebenenfalls innerhalb der betroffenen Abteilung zu suchen.
 
-<sup>4</sup> Sie nimmt ferner die ihr im Rahmen der Projektorganisation zugewiesenen Aufgaben beim Digitalisierungsprojekt Justitia 4.0 wahr.
+<sup>3</sup> Führen diese Gespräche nicht zu einer Einigung, wird die Angelegenheit der Präsidentin oder dem Präsidenten des Obergerichts unterbreitet. Sie oder er zieht bei Bedarf die Verwaltungskommission bei. Diese trifft geeignete Massnahmen.
 
-<sup>5</sup> In Konkretisierung und Ergänzung von Artikel 116 Absatz 2 des Gerichtsorganisationsgesetzes werden der erweiterten Verwaltungskommission vor der Beschlussfassung durch das Obergericht insbesondere folgende Angelegenheiten der Justizaufsicht zur Beratung vorgelegt:
-
-- a) sämtliche vom Obergericht zu erlassenden Verordnungen, von denen das Zwangsmassnahmengericht, die Regionalgerichte und die von ihnen beaufsichtigten Schlichtungsbehörden betroffen sind;
-- b) die Stelleneinreihungen der hauptamtlichen Mitglieder und der Mitarbeitenden der richterlichen Behörden;
-- c) an das Zwangsmassnahmengericht, die Regionalgerichte oder die von ihnen beaufsichtigten Schlichtungsbehörden gerichtete allgemeine Weisungen mit Ausnahme der jährlichen Weisungen betreffend Budget und Jahresrechnung sowie von Weisungen technischer Natur (namentlich im Bereich der Informatik);
-- d) Konzepte über die Organisation von Aufgaben der Justizverwaltung.
-
-<sup>6</sup> Die Konsultation der erweiterten Verwaltungskommission ersetzt in der Regel die Einholung von Vernehmlassungen bei den betroffenen richterlichen Behörden. Diese bleiben berechtigt, dem Obergericht eine individuelle Stellungnahme einzureichen.
-
-#### Art. 16
-
-**Einberufung und Beschlussfassung**
-
-<sup>1</sup> Die Präsidentin oder der Präsident des Obergerichts beruft die Sitzungen ein und leitet diese.
-
-<sup>2</sup> Jedes Mitglied kann beim Präsidium die Einberufung einer Sitzung oder die Traktandierung von Angelegenheiten der Justizaufsicht verlangen.
-
-<sup>3</sup> Die Mitglieder werden zu den Sitzungen schriftlich oder auf elektronischem Weg und unter Angabe der Traktanden eingeladen. Allfällige Unterlagen werden der Einladung beigelegt oder zur Einsicht aufgelegt.
-
-<sup>4</sup> Die Generalsekretärin oder der Generalsekretär des Obergerichts führt das Protokoll und nimmt an den Sitzungen mit beratender Stimme teil.
-
-<sup>5</sup> Zu den Sitzungen können bei Bedarf weitere Personen mit beratender Stimme beigezogen werden.
-
-<sup>6</sup> Die erweiterte Verwaltungskommission fasst ihre Beschlüsse mit der absoluten Mehrheit der Stimmen der an der Sitzung teilnehmenden Mitglieder. Eine Beschlussfassung auf dem Zirkularweg ist ausgeschlossen.
-
-<sup>7</sup> Die Protokolle der Sitzungen werden den Mitgliedern des Obergerichts sowie den Präsidentinnen und Präsidenten der Regionalgerichte zur Kenntnis gebracht. Über die Information der anderen beaufsichtigten Behörden entscheidet die Präsidentin oder der Präsident des Obergerichts.
+<sup>4</sup> Scheitern sämtliche internen Versuche zur Beilegung des Konflikts und handelt es sich um eine wesentliche Angelegenheit, die im Rahmen der Oberaufsicht von Bedeutung sein kann, informiert die Verwaltungskommission die Kommission für Justiz und Sicherheit.
 
 ### 3.5. Zentrale Dienste
 
-#### Art. 17
+#### Art. 43
 
 **Generalsekretariat**
 
-<sup>1</sup> Das Generalsekretariat ist die Stabsstelle des Obergerichts hinsichtlich der zentralen Dienste sowie für das Gesamtgericht, die Verwaltungskommission, die erweiterte Verwaltungskommission und die Präsidentin oder den Präsidenten.
+<sup>1</sup> Das Generalsekretariat ist die Stabsstelle des Obergerichts.
 
 <sup>2</sup> Die Generalsekretärin oder der Generalsekretär leitet und überwacht die zentralen Dienste, namentlich die Gerichtskanzlei, das Finanz- und Rechnungswesen und die Informatik.
 
 <sup>3</sup> Ihr oder ihm obliegen insbesondere folgende Aufgaben:
 
-- a) Vorbereitung der Geschäfte des Gesamtgerichts, der Verwaltungskommission und der erweiterten Verwaltungskommission unter der Leitung der Präsidentin oder des Präsidenten;
-- b) Teilnahme an den Sitzungen des Gesamtgerichts, der Verwaltungskommission und der erweiterten Verwaltungskommission mit beratender Stimme und als Protokollführerin oder Protokollführer;
-- c) Umsetzung der Beschlüsse der Leitungsorgane mit der Präsidentin oder dem Präsidenten;
-- d) Unterstützung der Präsidentin oder des Präsidenten bei der Erfüllung ihrer oder seiner Aufgaben und bei der Vertretung nach aussen;
-- e) Sicherstellung der Informatik für die kantonalen Gerichte;
-- f) Koordination und Überwachung des Finanz- und Rechnungswesens;
-- g) Sicherstellung des internen Informationswesens;
-- h) Leitung der Bereiche Sicherheit, Logistik, Immobilie, Archiv und Bibliothek für das Obergericht;
-- i) Geschäftsverkehr mit der kantonalen Verwaltung und mit Dritten;
-- j) Zuständigkeit für das Personalwesen am Obergericht, soweit es nicht ausdrücklich anderen Organen vorbehalten ist;
-- k) Organisation von Weiterbildungsveranstaltungen und weiteren Anlässen für das Obergericht;
-- l) Beratung der erstinstanzlichen Gerichte in der Erfüllung ihrer administrativen Aufgaben;
-- m) Führung des Registers über die Interessenbindungen.
+- a) die Vorbereitung der Geschäfte des Gesamtgerichts, der Verwaltungskommission und der erweiterten Verwaltungskommission unter der Leitung der Präsidentin oder des Präsidenten;
+- b) die Teilnahme an den Sitzungen des Gesamtgerichts, der Verwaltungskommission und der erweiterten Verwaltungskommission mit beratender Stimme und als Protokollführerin oder Protokollführer;
+- c) die Umsetzung der Beschlüsse der Leitungsorgane in Zusammenarbeit mit der Präsidentin oder dem Präsidenten;
+- d) die Unterstützung der Präsidentin oder des Präsidenten bei der Erfüllung ihrer oder seiner Aufgaben und bei der Vertretung nach aussen;
+- e) die Sicherstellung der Informatik für die kantonalen Gerichte;
+- f) die Koordination und Überwachung des Finanz- und Rechnungswesens;
+- g) die Tätigung von Ausgaben im Rahmen des genehmigten Budgets und des kantonalen Finanzrechts für Verpflichtungen bis 5000 Franken in ihrem oder seinem Aufgabenbereich;
+- h) die Sicherstellung des internen Informationswesens;
+- i) die Leitung der Bereiche Sicherheit, Logistik, Immobilie, Archiv und Bibliothek für das Obergericht;
+- j) den Geschäftsverkehr mit der kantonalen Verwaltung und mit Dritten;
+- k) die Zuständigkeit für das Personalwesen am Obergericht, soweit es nicht ausdrücklich anderen Organen vorbehalten ist;
+- l) die Organisation von Weiterbildungsveranstaltungen und weiterer Anlässe für das Obergericht;
+- m) die Beratung der erstinstanzlichen Gerichte in der Erfüllung ihrer administrativen Aufgaben;
+- n) die Führung des Registers über die Interessenbindungen.
 
 <sup>4</sup> Der Generalsekretärin oder dem Generalsekretär können weitere Aufgaben übertragen werden, namentlich im Bereich der Rechtshilfe.
 
-<sup>5</sup> Wird eine Stellvertreterin oder ein Stellvertreter bestellt, so obliegt ihr oder ihm die Vertretung in allen Funktionen und die Unterstützung in der Erledigung der Aufgaben des Generalsekretariats.
+<sup>5</sup> Wird eine Stellvertreterin oder ein Stellvertreter bestellt, obliegt ihr oder ihm die Vertretung in allen Funktionen und die Unterstützung in der Erledigung der Aufgaben des Generalsekretariats.
 
-### 3.6. Nebenbeschäftigungen
+#### Art. 44
 
-#### Art. 18
+**Gerichtskanzlei**
 
-**Bewilligungsverfahren**
+<sup>1</sup> Die Gerichtskanzlei erfüllt insbesondere folgende Aufgaben:
 
-<sup>1</sup> Das Bewilligungsgesuch zur Ausübung einer Nebenbeschäftigung ist bei der zuständigen Behörde einzureichen.
+- a) die Erfassung aller eingehenden Fälle;
+- b) die Ausführung von Verfahrensinstruktionen nach Anweisung der Verfahrensleitung;
+- c) die Mitteilung von Entscheiden;
+- d) die Erledigung des fallbezogenen Rechnungswesens;
+- e) die Gewährleistung des Schalterdienstes;
+- f) die Erledigung von Korrespondenz und Telefonverkehr;
+- g) die Archivierung von Prozessakten;
+- h) die Erledigung weiterer administrativer Arbeiten im Zusammenhang mit dem Gerichtsbetrieb und dem Personalwesen auf Anweisung der Generalsekretärin oder des Generalsekretärs.
 
-<sup>2</sup> Das Bewilligungsgesuch hat die notwendigen Angaben über die Art und den Umfang der Nebenbeschäftigung sowie über den Zeitaufwand, der voraussichtlich damit verbunden ist, zu enthalten.
+<sup>2</sup> Der Gerichtskanzlei steht die Leiterin oder der Leiter der Kanzlei vor. Sie oder er ist verantwortlich für eine effiziente Organisation der Kanzlei sowie die Führung der Mitarbeitenden der Kanzlei und sorgt für eine speditive Erledigung der anfallenden Arbeiten.
 
-<sup>3</sup> Die zuständige Behörde prüft das Gesuch insbesondere unter folgenden Aspekten:
+<sup>3</sup> Wird eine Stellvertreterin oder ein Stellvertreter bestellt, obliegt ihr oder ihm die Vertretung der Leiterin oder des Leiters in allen Funktionen.
 
-- a) Vorliegen einer verfassungsrechtlich oder gesetzlich untersagten Nebenbeschäftigung;
-- b) mögliche Beeinträchtigung der Ausübung der Amtspflichten, der Unabhängigkeit und des Ansehens der richterlichen Behörde;
-- c) Interessenkonflikte;
-- d) Ausmass der Beanspruchung der Arbeitskraft;
-- e) Vereinbarkeit mit der amtlichen Stellung.
+<sup>4</sup> Die Gerichtskanzlei untersteht der Leitung und der Überwachung durch die Generalsekretärin oder den Generalsekretär.
 
-<sup>4</sup> Die Bewilligung kann mit Auflagen, Bedingungen und Befristungen verknüpft werden.
+#### Art. 45
 
-### 3.7. Präsidialkonferenz der Regionalgerichte
+**Informatik**
 
-#### Art. 19
+<sup>1</sup> Die Informatik stellt in Zusammenarbeit mit dem kantonalen Amt für Informatik den Betrieb der Informatik bei allen richterlichen Behörden sicher.
 
-**Aufgaben**
+<sup>2</sup> Der Informatik steht die oder der IT-Verantwortliche vor. Sie oder er ist verantwortlich für eine effiziente Organisation der Informatik sowie die Führung der Mitarbeitenden der Informatik und sorgt für eine speditive Erledigung der anfallenden Arbeiten.
 
-<sup>1</sup> Die Regionalgerichte bilden zur Beschlussfassung über Geschäfte der Justizverwaltung, welche sie gemäss Gesetz oder Verordnung gemeinsam zu besorgen haben, die Präsidialkonferenz der Regionalgerichte.
+<sup>3</sup> Die Informatik ist administrativ dem Obergericht angegliedert und steht unter der Leitung und Überwachung der Generalsekretärin oder des Generalsekretärs.
 
-<sup>2</sup> In ihre Zuständigkeit fallen insbesondere folgende Geschäfte:
+#### Art. 46
 
-- a) Wahl der fünf Mitglieder der erweiterten Verwaltungskommission (Art. 117 Abs. 2 des Gerichtsorganisationsgesetzes[^19-1]);
-- b) Bezeichnung des Regionalgerichts, dem die Stabsstelle für die Regionalgerichte administrativ angegliedert ist;
-- c) Verabschiedung des Reglements über die Organisation der Stabsstelle;
-- d) Verabschiedung der Stellenbeschreibung und des Pflichtenhefts der Stabsstelle;
-- e) Besetzung der Stabsstelle (Anstellung und Kündigung).
+**Informationsstelle**
 
-[^19-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+<sup>1</sup> Die Informationsstelle gewährleistet die Information des Obergerichts, der Regionalgerichte sowie der Schlichtungsbehörden nach aussen.
 
-#### Art. 20
+<sup>2</sup> Der Informationsstelle steht die oder der Informationsbeauftragte vor. Ihr oder ihm obliegen insbesondere folgende Aufgaben:
 
-**Zusammensetzung und Einberufung**
+- a) die Unterstützung des Obergerichts, der Regionalgerichte und der Schlichtungsbehörden in allen Informations- und Medienfragen;
+- b) die Information der Medien über laufende Verfahren nach Rücksprache mit der Verfahrensleitung;
+- c) die Sicherstellung des Internetauftritts;
+- d) die Publikation der Urteile des Obergerichts und von ausgewählten Urteilen der Regionalgerichte;
+- e) die Unterstützung der Generalsekretärin oder des Generalsekretärs bei der internen Kommunikation des Obergerichts;
+- f) die Organisation des Akkreditierungswesens.
 
-<sup>1</sup> Der Präsidialkonferenz gehören die Präsidentinnen und Präsidenten der Regionalgerichte an. Diese werden bei Verhinderung durch die Vizepräsidentinnen oder Vizepräsidenten vertreten.
+<sup>3</sup> Der Informationsstelle können weitere Aufgaben übertragen werden.
 
-<sup>2</sup> Die Mitglieder der Präsidialkonferenz wählen für die verbleibende Dauer der Amtsperiode aus ihrer Mitte eine Vorsitzende oder einen Vorsitzenden sowie eine Stellvertreterin oder einen Stellvertreter. Eine Ersatzwahl für die verbleibende Dauer einer Amtsperiode ist möglich.
+<sup>4</sup> Die Informationsstelle untersteht der Präsidentin oder dem Präsidenten des Obergerichts.
 
-<sup>3</sup> Die Vorsitzende oder der Vorsitzende vertritt die Präsidialkonferenz nach aussen und leitet deren Sitzungen. Sie oder er beruft eine Sitzung ein, sobald ein Geschäft zur Beurteilung ansteht oder mindestens drei Mitglieder dies verlangen, jedenfalls aber einmal pro Jahr.
+#### Art. 47
 
-<sup>4</sup> Die Einladungen erfolgen schriftlich oder auf elektronischem Weg und unter Angabe der Traktanden. Allfällige Unterlagen werden der Einladung beigelegt oder zur Einsicht aufgelegt.
+**Rechnungswesen**
 
-#### Art. 21
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär erstellt zusammen mit der Fachperson für Rechnungswesen und der Finanzverwaltung das Budget und die Jahresrechnung des Obergerichts zu Handen des Gesamtgerichts und des Grossen Rates.
 
-**Beschlussfassung**
+<sup>2</sup> Die Generalsekretärin oder der Generalsekretär überwacht zusammen mit der Fachperson für Rechnungswesen die Budgetkredite und bereitet rechtzeitig die erforderlichen Anträge für die Nachtragskredite vor.
 
-<sup>1</sup> Beschlüsse der Präsidialkonferenz sind gültig, wenn an der Sitzung oder am Zirkularverfahren mindestens sieben Mitglieder mitwirken.
+<sup>3</sup> Der Fachperson für Rechnungswesen obliegen zudem insbesondere folgende Aufgaben:
 
-<sup>2</sup> Jedes Mitglied hat eine Stimme und ist zur Stimmabgabe verpflichtet.
+- a) die Betreuung des Rechnungswesens des Obergerichts mit der Kontrolle des fallbezogenen Rechnungswesens;
+- b) die Erstellung des Budgets und der Jahresrechnung des Obergerichts in Zusammenarbeit mit der Generalsekretärin oder dem Generalsekretär zu Handen des Gesamtgerichts;
+- c) die Überwachung der Budgetkredite des Obergerichts;
+- d) die Betreuung des internen Kontrollsystems des Obergerichts;
+- e) die Erstellung der Budget- und Jahresabschlussweisungen an die Regionalgerichte;
+- f) die Prüfung und die Bereinigung des Budgets der Regionalgerichte;
+- g) die Prüfung der Jahresrechnung der Regionalgerichte;
+- h) die Beratung der Regionalgerichte im Finanz- und Rechnungswesen.
 
-<sup>3</sup> Die Präsidialkonferenz fasst ihre Beschlüsse mit der Mehrheit der Stimmen der anwesenden Mitglieder. Bei Wahlen entscheidet die Mehrheit der Stimmen der anwesenden Mitglieder; bei Stimmengleichheit entscheidet das Los.
+<sup>4</sup> Die Fachperson für das Rechnungswesen untersteht der Leitung und der Überwachung durch die Generalsekretärin oder den Generalsekretär.
 
-<sup>4</sup> Eine Beschlussfassung im Zirkularverfahren bedarf der Einstimmigkeit; jedes Mitglied kann eine mündliche Beratung verlangen.
+<sup>5</sup> Die Finanzverwaltung ist zuständig für administrative Abschreibungen von nicht eintreibbaren Forderungen des Obergerichts. Bei Beträgen über 10 000 Franken pro Fall ist dafür das Einverständnis der Präsidentin oder des Präsidenten einzuholen.
 
-<sup>5</sup> Im Übrigen gilt für die Beschlussfassung Artikel 3 Absatz 2 des Gerichtsorganisationsgesetzes[^21-1] sinngemäss.
+#### Art. 48
 
-[^21-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+**Auslagerung spezieller Tätigkeiten**
 
-### 3.8. Stabsstelle für die Regionalgerichte
+<sup>1</sup> Das Obergericht kann in Absprache mit der zuständigen Departementsvorsteherin oder dem zuständigen Departementsvorsteher bestimmte Dienststellen der kantonalen Verwaltung mit Tätigkeiten betrauen, die nicht zu seinem Kernbereich gehören, wie:
 
-#### Art. 22
+- a) Aufgaben des Finanz- und Rechnungswesens;
+- b) personalrechtliche Aufgaben und das Lohnwesen;
+- c) der Betrieb der Informatikinfrastruktur sowie der Fachapplikationen;
+- d) die Betreuung der Gerichtsräumlichkeiten (Unterhalt, Reinigung).
 
-**Aufgaben**
+<sup>2</sup> Das Obergericht regelt mit den Dienststellen die Entschädigung für deren Aufwand.
 
-<sup>1</sup> Unter Vorbehalt der Bewilligung der Stellenschaffung durch den Grossen Rat erhalten die Regionalgerichte eine Stabsstelle, welche sie bei der Wahrnehmung der Aufsicht über die Vermittlerämter und die Schlichtungsbehörden für Mietsachen sowie bei der Erfüllung ihrer Aufgaben der Justizverwaltung unterstützt.
-
-<sup>2</sup> Der Stabsstelle obliegen insbesondere folgende Aufgaben:
-
-- a) Erarbeitung eines Konzepts für die einheitliche Durchführung der Aufsichtstätigkeit der Regionalgerichte und der Hilfsmittel, die zur Umsetzung des Konzepts erforderlich sind (z.B. Checklisten, Formulare, Vorlagen für Weisungen und Berichterstattung);
-- b) Begleitung von periodischen Aussprachen und Kontrollen der beaufsichtigten Behörden sowie Verfassen der diesbezüglichen Berichte;
-- c) Beratung der Regionalgerichte bei der Behandlung von Aufsichtsbeschwerden oder dienstaufsichtsrechtlichen Verfahren, die in deren Zuständigkeit fallen;
-- d) Teilnahme an den Sitzungen der erweiterten Verwaltungskommission des Obergerichts und Unterstützung der fünf Mitglieder der Regionalgerichte bei der Vorbereitung der traktandierten Geschäfte;
-- e) Teilnahme an der Regionalgerichtskonferenz samt Protokollführung und Unterstützung ihrer Präsidentin oder ihres Präsidenten bei der Vorbereitung und Umsetzung der an der Konferenz behandelten Geschäfte;
-- f) Unterstützung der Präsidentin oder des Präsidenten der Regionalgerichtskonferenz bei der Erfüllung von weiteren Aufgaben, welche sie oder er für die Gesamtheit der Regionalgerichte wahrnimmt;
-- g) Beratung der Regionalgerichte in der Erfüllung ihrer administrativen Aufgaben und Bereitstellung der dazu erforderlichen Informationen;
-- h) Entwicklung von Organisationshandbüchern, standardisierten Gerichtsverwaltungsprozessen und weiteren Hilfsmitteln zur Vereinheitlichung der Geschäftsführung der Regionalgerichte;
-- i) Unterstützung der Informationsstelle des Obergerichts bei der Gestaltung des Internetauftritts der Regionalgerichte, der Vermittlerämter und der Schlichtungsbehörden für Mietsachen sowie bei der Publikation von Entscheiden der Regionalgerichte;
-- j) Unterstützung der IT-verantwortlichen Person des Obergerichts bei der Organisation der Informatik für die Regionalgerichte;
-- k) Organisation von periodischen Treffen mit justiznahen Verwaltungsbehörden, Verbänden und Fachstellen.
-
-<sup>3</sup> Der Stabsstelle können weitere Aufgaben übertragen werden, namentlich im Bereich des Datenschutzes, der Weiterbildung und Schulung von Mitgliedern und Mitarbeitenden der Regionalgerichte, der Unterstützung bei Aufgaben der Rechtsprechung oder der Mitwirkung bei Projekten.
-
-#### Art. 23
-
-**Organisation**
-
-<sup>1</sup> Die Stabsstelle untersteht der Leitung und der Aufsicht der Vorsitzenden oder des Vorsitzenden der Präsidialkonferenz.
-
-<sup>2</sup> Administrativ ist die Stabsstelle dem von der Präsidialkonferenz bezeichneten Regionalgericht angegliedert. Sie verfügt dort über einen Arbeitsplatz und kann zur Verrichtung administrativer Arbeiten die Hilfe der Gerichtskanzlei in Anspruch nehmen. Die Kosten der Stabsstelle (unter Einschluss allfälliger projektbezogener Kosten) bilden Bestandteil des Budgets und der Jahresrechnung des betreffenden Regionalgerichts.
-
-<sup>3</sup> Unter Vorbehalt der Befugnisse der Präsidialkonferenz übt ihre Vorsitzende oder ihr Vorsitzender die aus dem öffentlich-rechtlichen Arbeitsvertrag fliessenden Rechte und Pflichten aus. Soweit erforderlich spricht sie oder er sich dabei vorgängig mit der Präsidentin oder dem Präsidenten des Regionalgerichts ab, dem die Stabsstelle administrativ angegliedert ist.
-
-<sup>4</sup> Die Einzelheiten der administrativen Angliederung und der Organisation der Stabsstelle regelt die Präsidialkonferenz in einem Reglement.
-
-2024-004
+2024-031
