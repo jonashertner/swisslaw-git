@@ -4,13 +4,13 @@ number: "425.060"
 title: "Ordinanza sulla procedura d'ammissione alle scuole medie superiori"
 short: "Ordinanza sull'ammissione"
 language: it
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2024-04-29
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-04-04
 adopted: 2008-09-02
 in_force: 2008-09-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.060"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3428/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3451/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3428/pdf_file"
 
 (Ordinanza sull'ammissione)
 
-del 02.09.2008 (stato 01.08.2024)
+del 02.09.2008 (stato 01.01.2025)
 
 emanata dal Governo il 2 settembre 2008
 
@@ -122,7 +122,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **5. Vie legali**
 
-<sup>1</sup> Una volta esaurite le vie di impugnazione interne alla scuola, le decisioni concernenti il mancato superamento di esami scritti e il mancato superamento della procedura d'ammissione possono essere impugnate entro dieci giorni mediante ricorso al Tribunale amministrativo.
+<sup>1</sup> Una volta esaurite le vie di impugnazione interne alla scuola, le decisioni concernenti il mancato superamento di esami scritti e il mancato superamento della procedura d'ammissione possono essere impugnate entro dieci giorni mediante ricorso al Tribunale d'appello.
 
 ## 2. Organizzazione dell'esame d'ammissione cantonale
 

@@ -4,13 +4,13 @@ number: "425.060"
 title: Verordnung über das Aufnahmeverfahren an den Mittelschulen
 short: AufnahmeV
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2024-04-29
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-04-04
 adopted: 2008-09-02
 in_force: 2008-09-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.060"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3428/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3451/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3428/pdf_file"
 
 (AufnahmeV)
 
-Vom 02.09.2008 (Stand 01.08.2024)
+Vom 02.09.2008 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1] sowie Art. 19 des Mittelschulgesetzes[^ingress-2]
 
@@ -122,7 +122,7 @@ von der Regierung erlassen am 2. September 2008
 
 **5. Rechtsweg**
 
-<sup>1</sup> Nach Ausschöpfung des schulinternen Rechtsmittelverfahrens können Entscheide über nicht bestandene schriftliche Prüfungen und das nicht bestandene Aufnahmeverfahren innert zehn Tagen beim Verwaltungsgericht angefochten werden.
+<sup>1</sup> Nach Ausschöpfung des schulinternen Rechtsmittelverfahrens können Entscheide über nicht bestandene schriftliche Prüfungen und das nicht bestandene Aufnahmeverfahren innert zehn Tagen beim Obergericht angefochten werden.
 
 ## 2. Organisation der kantonalen Aufnahmeprüfung
 

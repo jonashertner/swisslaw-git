@@ -4,13 +4,13 @@ number: "425.060"
 title: "Ordinaziun davart la procedura d'admissiun a las scolas medias"
 short: "ordinaziun d'admissiun a las scolas medias"
 language: rm
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2024-04-29
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-04-04
 adopted: 2008-09-02
 in_force: 2008-09-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.060"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3428/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3451/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3428/pdf_file"
 
 (ordinaziun d'admissiun a las scolas medias)
 
-dals 02-09-2008 (versiun dals 01-08-2024)
+dals 02-09-2008 (versiun dals 01-01-2025)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1] sco er sin l'art. 19 da la lescha davart las scolas medias[^ingress-2]
 
@@ -122,7 +122,7 @@ relaschada da la regenza ils 2 da settember 2008
 
 **5. via giudiziala**
 
-<sup>1</sup> Suenter che la procedura da meds legals entaifer la scola è exaurida, pon decisiuns davart examens en scrit betg reussids e davart la procedura d'admissiun betg reussida vegnir contestadas tar la dretgira administrativa entaifer 10 dis.
+<sup>1</sup> Suenter che la procedura da meds legals entaifer la scola è exaurida, pon decisiuns davart examens en scrit betg reussids e davart la procedura d'admissiun betg reussida vegnir contestadas tar la Dretgira superiura entaifer 10 dis.
 
 ## 2. Organisaziun da l'examen d'admissiun chantunal
 
