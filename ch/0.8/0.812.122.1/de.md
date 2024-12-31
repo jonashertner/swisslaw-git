@@ -3,11 +3,11 @@ sr: "0.812.122.1"
 title: Übereinkommen vom 16. November 1989 gegen Doping (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1989-11-16
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20250101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 1238; BBl **1992** II 1345
 
 Abgeschlossen in Strassburg am 16. November 1989 Von der Bundesversammlung genehmigt am 22. September 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 5. November 1992 In Kraft getreten für die Schweiz am 1. Januar 1993
 
-(Stand am 1. Januar 2024)
+(Stand am 1. Januar 2025)
 
 [^t-1]: [AS 1993 1237](https://fedlex.data.admin.ch/eli/oc/1993/1237_1237_1237)
 
@@ -283,12 +283,12 @@ Der Generalsekretär des Europarats notifiziert den Vertragsparteien, den andere
 
 Anhang[^t-2]
 
-## Liste der verbotenen Wirkstoffe und Methoden 2024/Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)
+## Liste der verbotenen Wirkstoffe und Methoden 2025/Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)
 
 [^annexu1-lvlu1-1]
 
-[^t-2]: Fassung gemäss Beschluss vom 10. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2024 84](https://fedlex.data.admin.ch/eli/oc/2024/84)).
-[^annexu1-lvlu1-1]: Dieser Anhang wird in der AS nicht publiziert; die «Liste der verbotenen Wirkstoffe und Methoden 2024/Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)» kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter [www.antidoping.ch](https://www.antidoping.ch) abgerufen werden.
+[^t-2]: Fassung gemäss Beschluss vom 18. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 115](https://fedlex.data.admin.ch/eli/oc/2025/115)).
+[^annexu1-lvlu1-1]: Dieser Anhang wird in der AS nicht publiziert; die «Liste der verbotenen Wirkstoffe und Methoden 2025 / Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)» kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: [www.antidoping.ch](https://www.antidoping.ch) abgerufen werden.
 
 Geltungsbereich am 30. November 2017[^t-3]
 
@@ -351,7 +351,7 @@ Geltungsbereich am 30. November 2017[^t-3]
 <tr><td>Vereinigtes Königreich</td><td>16. November</td><td>1989 U</td><td>1. März</td><td>1990</td></tr>
 <tr><td>Insel Man</td><td>1. Oktober</td><td>1993</td><td>1. Dezember</td><td>1993</td></tr>
 <tr><td>Zypern</td><td>2. Februar</td><td>1994</td><td>1. April</td><td>1994</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Gilt nicht für Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Gilt nicht für Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 1993 1238](https://fedlex.data.admin.ch/eli/oc/1993/1238_1238_1238), **1995** 4421, [1998 880](https://fedlex.data.admin.ch/eli/oc/1998/880_880_880), [1999 2857](https://fedlex.data.admin.ch/eli/oc/1999/447), [2000 2584](https://fedlex.data.admin.ch/eli/oc/2000/409), [2002 473](https://fedlex.data.admin.ch/eli/oc/2002/111), [2003 2371](https://fedlex.data.admin.ch/eli/oc/2003/336), [2004 1307](https://fedlex.data.admin.ch/eli/oc/2004/157), [2005 1007](https://fedlex.data.admin.ch/eli/oc/2005/119), [2007 4465](https://fedlex.data.admin.ch/eli/oc/2007/627), [2009 1133](https://fedlex.data.admin.ch/eli/oc/2009/182), [2012 433](https://fedlex.data.admin.ch/eli/oc/2012/49)und [2018 33](https://fedlex.data.admin.ch/eli/oc/2018/15). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-3]: [AS 1993 1238](https://fedlex.data.admin.ch/eli/oc/1993/1238_1238_1238); **1995** 4421; [1998 880](https://fedlex.data.admin.ch/eli/oc/1998/880_880_880); [1999 2857](https://fedlex.data.admin.ch/eli/oc/1999/447); [2000 2584](https://fedlex.data.admin.ch/eli/oc/2000/409); [2002 473](https://fedlex.data.admin.ch/eli/oc/2002/111); [2003 2371](https://fedlex.data.admin.ch/eli/oc/2003/336); [2004 1307](https://fedlex.data.admin.ch/eli/oc/2004/157); [2005 1007](https://fedlex.data.admin.ch/eli/oc/2005/119); [2007 4465](https://fedlex.data.admin.ch/eli/oc/2007/627); [2009 1133](https://fedlex.data.admin.ch/eli/oc/2009/182); [2012 433](https://fedlex.data.admin.ch/eli/oc/2012/49); [2018 33](https://fedlex.data.admin.ch/eli/oc/2018/15). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
