@@ -4,13 +4,12 @@ number: "631.1"
 title: Gesetz über den Finanz- und Lastenausgleich
 short: FILAG
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-03-09
+version: 2025-01-01
+version_adopted: 2024-06-04
 adopted: 2000-11-27
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/631.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3065/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3087/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3065/pdf_file"
 
 (FILAG)
 
-vom 27.11.2000 (Stand 01.01.2022)
+vom 27.11.2000 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -498,9 +497,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat gleicht Gemeinden, welche durch eine Zusammenlegung bei der Mindestausstattung oder bei den Massnahmen für besonders belastete Gemeinden finanzielle Einbussen erleiden, die Differenz während einer Übergangszeit von höchstens zehn Jahren ganz oder teilweise aus. Er kann durch Verordnung bestimmen, dass die Beiträge mit zunehmender Dauer der Übergangsfrist reduziert werden.
 
-<sup>2</sup> Zusammenlegungswilligen Gemeinden kann der Regierungsrat für die Vorbereitung, für Informationsmassnahmen und für die Umsetzung projektbezogene Zuschüsse von bis zu 70'000 Franken ausrichten.
-
-<sup>3</sup> Sind am Zusammenschluss mehr als zwei Gemeinden beteiligt, so erhöht sich der Zuschuss um maximal 10'000 Franken pro zusätzliche Gemeinde, höchstens aber auf 120'000 Franken.
+<sup>2–3</sup> …
 
 #### Art. 35
 
@@ -683,15 +680,13 @@ beschliesst:
 
 - a Finanzierung der Differenzzahlungen für die Begrenzung der maximalen Belastung aufgrund der Wirkungen dieses Gesetzes,
 - b Massnahmen für besondere Härtefälle,
-- c Ausgleich bei Zusammenlegung gemäss Artikel 34 Absatz 1 sowie Finanzhilfen an Gemeindezusammenschlüsse nach dem Gesetz vom 25. November 2004 zur Förderung von Gemeindezusammenschlüssen (Gemeindefusionsgesetz, GFG)[^49-1],
+- c Ausgleich bei Zusammenlegung gemäss Artikel 34 Absatz 1,
 - d zusätzliche Massnahmen zur Förderung der Grundsätze und Zielsetzungen dieses Gesetzes,
 - e vollständige oder teilweise Finanzierung von Korrekturen gemäss Artikel 36.
 
 <sup>3</sup> Der Regierungsrat entscheidet über die Verwendung der Fondsmittel und bewilligt die Ausgaben. Erste Priorität hat die Finanzierung der Sonderfallregelungen.
 
 <sup>4</sup> Reichen die Fondsmittel zur Finanzierung der Sonderfallregelungen gemäss Artikel 45 Absatz 3 nicht aus, werden die Differenzzahlungen anteilsmässig gekürzt.
-
-[^49-1]: BSG 170.12
 
 #### Art. 50
 

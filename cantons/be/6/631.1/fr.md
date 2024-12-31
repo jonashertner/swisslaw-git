@@ -4,13 +4,12 @@ number: "631.1"
 title: Loi sur la péréquation financière et la compensation des charges
 short: LPFC
 language: fr
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-03-09
+version: 2025-01-01
+version_adopted: 2024-06-04
 adopted: 2000-11-27
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/631.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3065/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3087/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3065/pdf_file"
 
 (LPFC)
 
-du 27.11.2000 (état au 01.01.2022)
+du 27.11.2000 (état au 01.01.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -498,9 +497,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif accorde aux communes qui, du fait d’une fusion, subissent des pertes financières sur la dotation minimale ou sur les mesures prises en faveur des communes supportant des charges financières particulièrement lourdes, la compensation totale ou partielle de la différence pendant une période transitoire de dix ans au plus. Il peut décider par voie d’ordonnance que l’allongement de la durée de la période transitoire entraîne la réduction du montant de la compensation.
 
-<sup>2</sup> Le Conseil-exécutif peut verser aux communes désireuses de fusionner des prestations complémentaires d’un montant allant jusqu’à 70'000 francs pour la préparation, des mesures d’information et la mise en œuvre des projets.
-
-<sup>3</sup> En cas de fusion de plus de deux communes, la prestation complémentaire est majorée de 10'000 francs au plus par commune supplémentaire, mais de 120'000 francs au maximum.
+<sup>2–3</sup> …
 
 #### Art. 35
 
@@ -683,15 +680,13 @@ arrête:
 
 - a financement de la compensation de la différence visant à limiter le supplément de charges maximal résultant de la présente loi,
 - b mesures pour cas de rigueur particuliers,
-- c compensation en cas de fusion conformément à l'article 34, alinéa 1 et aide financière accordée aux communes qui fusionnent en application de la loi du 25 novembre 2004 sur l'encouragement des fusions de communes (loi sur les fusions de communes, LFCo)[^49-1],
+- c compensation en cas de fusion conformément à l'article 34, alinéa 1,
 - d mesures supplémentaires destinées à promouvoir les principes et les objectifs de la présente loi,
 - e financement total ou partiel des corrections au sens de l’article 36.
 
 <sup>3</sup> Le Conseil-exécutif décide de l'utilisation des ressources du fonds et autorise les dépenses. La priorité est accordée au financement de la réglementation des cas spéciaux.
 
 <sup>4</sup> Si les ressources du Fonds pour les cas spéciaux conformément à l'article 45, 3 e alinéa ne suffisent pas, les versements effectués dans le cadre de la compensation de la différence sont réduits proportionnellement.
-
-[^49-1]: RSB 170.12
 
 #### Art. 50
 
