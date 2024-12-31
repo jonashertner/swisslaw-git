@@ -4,13 +4,12 @@ number: "162.420"
 title: Verordnung über den Schwangerschafts- und Mutterschaftsurlaub
 short: SMUV
 language: de
-version: 2021-07-01
-valid_until: 2024-12-31
-version_adopted: 2020-11-24
+version: 2025-01-01
+version_adopted: 2024-05-28
 adopted: 1987-10-13
 in_force: 1987-11-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5775/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Schwangerschafts- und Mutterschaftsurlaub: Verordnung | Staatspersonal: Dienstve
 
 (SMUV)
 
-Vom 13. Oktober 1987 (Stand 1. Juli 2021)
+Vom 13. Oktober 1987 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -47,20 +46,22 @@ beschliesst:
 
 **Dauer**
 
-<sup>1</sup> Der Mitarbeiterin wird auf die Niederkunft hin ein bezahlter Schwangerschafts- und Mutterschaftsurlaub von 16 Wochen gewährt. Der Schwangerschaftsurlaub beginnt frühestens zwei Wochen vor der voraussichtlichen Niederkunft. Der Mutterschaftsurlaub dauert mindestens 14 Wochen. Er kann – unter Verzicht auf einen Schwangerschaftsurlaub – höchstens 16 Wochen nach der Niederkunft und bei einer Verlängerung gemäss § 2a höchstens 24 Wochen dauern.
+<sup>1</sup> Der Mitarbeiterin wird vor der Niederkunft ein bezahlter Schwangerschaftsurlaub von maximal drei Wochen gewährt. Dieser kann frühestens drei Wochen vor dem ärztlich errechneten Geburtstermin angetreten werden.
+
+<sup>1<sup>bis</sup></sup> Der Mitarbeiterin wird unter Vorbehalt von Abs. 6 nach der Niederkunft ein bezahlter Mutterschaftsurlaub von 16 Wochen gewährt.
 
 <sup>2</sup> Die individuelle Regelung des Schwangerschafts- und/oder Mutterschaftsurlaubs ist spätestens vier Monate vor der voraussichtlichen Niederkunft mit der Vorgesetzten bzw. dem Vorgesetzten und der Personalchefin bzw. dem Personalchef schriftlich zu vereinbaren. Über den voraussichtlichen Termin der Niederkunft ist ein Arztzeugnis vorzulegen.
 
 <sup>3</sup> Der Anspruch auf bezahlten Mutterschaftsurlaub entsteht:
 
-- a) wenn das Kind lebensfähig geboren wird; oder
+- a) wenn das Kind lebensfähig geboren wird oder
 - b) wenn die Schwangerschaft mindestens 23 Wochen gedauert hat.
 
-<sup>4</sup> Krankheit oder Unfall nach Antritt des Mutterschaftsurlaubs verlängert den Urlaub nicht.
+<sup>4</sup> Krankheit oder Unfall nach Antritt des Schwangerschafts- oder Mutterschaftsurlaubs verlängert den Urlaub nicht.
 
-<sup>5</sup> Mitarbeiterinnen, die sich für einen Schwangerschaftsurlaub entscheiden und krank werden oder verunfallen, haben Anspruch auf Verlängerung des Mutterschaftsurlaubs im Ausmass der ärztlich bescheinigten Absenz in den letzten zwei Wochen vor der Niederkunft.
+<sup>5</sup> …
 
-<sup>6</sup> Wird das Arbeitsverhältnis von der Mitarbeiterin auf den Niederkunftstermin hin aufgelöst bzw. auf deren Wunsch nach dem Mutterschaftsurlaub nicht für mindestens zwölf Wochen fortgesetzt, wird ein bezahlter Urlaub von insgesamt vierzehn Wochen gewährt. Dieser beginnt am Tag der Niederkunft. Der Anspruch auf bezahlten Schwangerschaftsurlaub entfällt.
+<sup>6</sup> Wird das Arbeitsverhältnis von der Mitarbeiterin auf den Niederkunftstermin hin aufgelöst bzw. auf deren Wunsch nach dem Mutterschaftsurlaub nicht für mindestens zwölf Wochen fortgesetzt, beträgt dieser 14 Wochen.
 
 <sup>7</sup> Die Gewährung von bezahltem Schwangerschafts- und Mutterschaftsurlaub hat keine Kürzung des Ferienanspruchs zur Folge.
 
