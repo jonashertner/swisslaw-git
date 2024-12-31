@@ -4,13 +4,12 @@ number: "427.200"
 title: Legge sulle scuole universitarie e sulla ricerca
 short: LSUR
 language: it
-version: 2016-01-01
-corrected: 2019-09-01
-version_adopted: 2015-12-22
+version: 2025-01-01
+version_adopted: 2024-06-11
 adopted: 2012-10-24
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/427.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2644/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3489/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2644/pdf_file"
 
 (LSUR)
 
-del 24.10.2012 (stato 01.01.2016)
+del 24.10.2012 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -65,7 +64,7 @@ decide:
 
 **Cooperazioni**
 
-<sup>1</sup> Le scuole universitarie e i centri di ricerca cooperano nel loro settore con l'economia, nonché con organizzazioni e istituzioni del mondo della formazione, della scienza e della ricerca nazionali ed estere.
+<sup>1</sup> Le scuole universitarie e i centri di ricerca cooperano nel loro settore con l'economia nonché con organizzazioni e istituzioni del mondo della formazione, della scienza e della ricerca nazionali ed estere, segnatamente con le scuole specializzate superiori.
 
 #### Art. 5
 
@@ -83,6 +82,18 @@ decide:
 
 <sup>3</sup> Il Cantone sostiene le scuole universitarie e i centri di ricerca nella creazione di spin-off domiciliati nel Cantone e può versare contributi a questo scopo.
 
+#### Art. 6a
+
+**Protezione delle denominazioni e dei titoli**
+
+<sup>1</sup> Le denominazioni di istituti accademici sono protette in conformità alla legge federale sulla promozione e sul coordinamento del settore universitario svizzero[^6a-1].
+
+<sup>2</sup> I titoli conseguiti presso una scuola universitaria cantonale o riconosciuta dal Cantone sono protetti.
+
+<sup>3</sup> I titoli acquisiti in maniera illegittima vengono revocati dall'istituto che li ha conferiti.
+
+[^6a-1]: RS [414.20](https://db.clex.ch/link/Bund/414.20/it)
+
 ## 2. Scuole universitarie con ente responsabile cantonale
 
 #### Art. 7
@@ -99,21 +110,21 @@ decide:
 
 **Scuole universitarie esistenti**
 
-<sup>1</sup> L'Alta scuola pedagogica dei Grigioni (ASP GR) e la Scuola universitaria per la tecnica e l'economia di Coira (UTE Coira) sono scuole universitarie con ente responsabile cantonale.
+<sup>1</sup> L'Alta scuola pedagogica dei Grigioni (ASP GR) e la Scuola universitaria professionale dei Grigioni (SUP GR) sono scuole universitarie con ente responsabile cantonale.
 
 #### Art. 9
 
 **ASP GR**
 
-<sup>1</sup> L'ASP GR provvede alla formazione di insegnanti, tenendo particolarmente conto delle esigenze del Cantone e dei Cantoni limitrofi. Propone programmi bachelor in pedagogia e può svolgere programmi master.
+<sup>1</sup> L'ASP GR propone cicli di studio bachelor e master nel settore della formazione degli insegnanti, in particolare per la scuola popolare nonché per le scuole di maturità, tenendo particolarmente conto delle esigenze del Cantone trilingue e dei Cantoni limitrofi.
 
-<sup>2</sup> Essa promuove il perfezionamento professionale di insegnanti di tutti i gradi della scuola popolare e la formazione dei docenti di pratica professionale, si occupa di ricerca applicata e sviluppo nel settore della scuola popolare e offre servizi a terzi.
+<sup>2</sup> Essa promuove il perfezionamento professionale in tutti i gradi della scuola popolare e delle scuole di maturità, si occupa di ricerca applicata e sviluppo nel settore della scuola popolare e offre servizi a terzi.
 
 #### Art. 10
 
-**UTE Coira**
+**SUP GR**
 
-<sup>1</sup> L'UTE Coira propone programmi bachelor e master in campo tecnico ed economico.
+<sup>1</sup> La SUP GR propone cicli di studio bachelor e master nell'interesse dell'economia grigionese e pone i propri punti chiave sulla tecnica e sull'economia.
 
 <sup>2</sup> Essa promuove il perfezionamento professionale di quadri dell'economia e dell'amministrazione, si occupa di ricerca applicata e sviluppo e fornisce servizi per terzi.
 
@@ -131,7 +142,7 @@ decide:
 
 **Organi delle scuole universitarie e nomina**
 
-<sup>1</sup> Ogni scuola universitaria dispone di organi propri. Si tratta del consiglio di scuola universitaria, comprendente al massimo sette membri, della direzione della scuola universitaria e dell'ufficio di revisione.
+<sup>1</sup> Ogni scuola universitaria dispone di organi propri. Si tratta del consiglio di scuola universitaria, comprendente almeno cinque membri, della direzione della scuola universitaria e dell'ufficio di revisione.
 
 <sup>2</sup> Il Governo nomina il consiglio di scuola universitaria e il presidente. Nel fare questo tiene conto degli interessi dell'economia e degli istituti di formazione.
 
@@ -144,6 +155,7 @@ decide:
 <sup>1</sup> In qualità di organo strategico interno alla scuola, il consiglio di scuola universitaria è competente in particolare per:
 
 - a) la pianificazione e il controllo del raggiungimento degli obiettivi in relazione al mandato di prestazioni conferito dal Governo;
+- a<sup>bis</sup>) la determinazione di nuovi cicli di studio bachelor e master;
 - b) l'approvazione del preventivo a destinazione del Governo e la vigilanza sulla gestione finanziaria;
 - c) la determinazione, in forma di regolamento, dell'organizzazione di direzione, nonché delle direttive per la presentazione del rapporto e per la gestione della qualità;
 - d) la nomina e la destituzione del rettore, dei membri della direzione della scuola universitaria e dei docenti a titolo principale;
@@ -223,7 +235,7 @@ decide:
 
 <sup>1</sup> Il Governo attribuisce alle scuole universitarie con ente responsabile cantonale un mandato di prestazioni con contributo globale.
 
-<sup>2</sup> Se un istituto di scuola universitaria senza ente responsabile cantonale dispone di un'autorizzazione d'esercizio e se vi è un interesse cantonale sufficiente, il Governo può attribuire un mandato di prestazioni con contributo globale.
+<sup>2</sup> Se un istituto di scuola universitaria senza ente responsabile cantonale dispone di un'autorizzazione d'esercizio e se vi è un interesse cantonale sufficiente, il Governo può attribuire un mandato di prestazioni con contributo globale oppure con una forfetaria orientata alle prestazioni.
 
 #### Art. 21
 
@@ -235,7 +247,8 @@ decide:
 - b) l'approvazione dei mandati di prestazioni;
 - c) lo sblocco dei contributi globali annuali, in virtù del credito di preventivo approvato dal Gran Consiglio;
 - d) la determinazione dei criteri per la verifica del raggiungimento degli obiettivi di mandati di prestazioni, nonché direttive per l'allestimento del preventivo e la presentazione dei conti;
-- e) l'emanazione di disposizioni per le scuole universitarie con ente responsabile cantonale che disciplinano la partecipazione, le questioni finanziarie e contabili, la gestione immobiliare, nonché la garanzia della proprietà sugli immobili.
+- e) l'emanazione di disposizioni per le scuole universitarie con ente responsabile cantonale che disciplinano la partecipazione, le questioni finanziarie e contabili, la gestione immobiliare, nonché la garanzia della proprietà sugli immobili;
+- f) l'autorizzazione di nuovi settori di studio.
 
 #### Art. 22
 
@@ -277,7 +290,9 @@ decide:
 
 **Contributi per la collaborazione**
 
-<sup>1</sup> Il Dipartimento può sostenere misure che favoriscono la collaborazione e il coordinamento delle singole scuole universitarie e dei singoli centri di ricerca con la formazione professionale superiore e il grado secondario II.
+<sup>1</sup> Il Dipartimento può avviare o sostenere misure che favoriscono la collaborazione e il coordinamento tra le singole scuole universitarie e i singoli centri di ricerca. Per quanto possibile devono essere coinvolti la formazione professionale superiore e il grado secondario II.
+
+<sup>2</sup> Il Dipartimento può concedere contributi orientati alle prestazioni per la formazione terziaria e per la ricerca da fondi cantonali a destinazione vincolata o da finanziamenti speciali ai sensi delle disposizioni della legislazione sulla gestione finanziaria.
 
 #### Art. 27
 
@@ -317,7 +332,7 @@ decide:
 
 **Vie legali**
 
-<sup>1</sup> Una volta esaurita la procedura di impugnazione interna alla scuola, le seguenti decisioni delle scuole universitarie con ente responsabile cantonale possono essere impugnate entro dieci giorni tramite ricorso al Tribunale amministrativo:
+<sup>1</sup> Una volta esaurita la procedura di impugnazione interna alla scuola, le seguenti decisioni delle scuole universitarie con ente responsabile cantonale possono essere impugnate entro dieci giorni tramite ricorso al Tribunale d'appello:
 
 - a) decisioni concernenti la mancata ammissione agli studi;
 - b) decisioni concernenti l'esclusione durante gli studi;

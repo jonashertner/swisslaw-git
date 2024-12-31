@@ -4,13 +4,12 @@ number: "427.200"
 title: Lescha davart las scolas autas e la perscrutaziun
 short: LSAP
 language: rm
-version: 2016-01-01
-corrected: 2019-09-01
-version_adopted: 2015-12-22
+version: 2025-01-01
+version_adopted: 2024-06-11
 adopted: 2012-10-24
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/427.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2644/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2644/pdf_file"
 
 (LSAP)
 
-dals 24-10-2012 (versiun dals 01-01-2016)
+dals 24-10-2012 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -65,7 +64,7 @@ concluda:
 
 **Cooperaziuns**
 
-<sup>1</sup> En lur champ d'incumbensas coopereschan las scolas autas ed ils instituts da perscrutaziun cun l'economia sco er cun organisaziuns e cun instituziuns naziunalas ed estras dal sectur da la furmaziun, da la scienza e da la perscrutaziun.
+<sup>1</sup> En lur champ d'incumbensas coopereschan las scolas autas ed ils instituts da perscrutaziun cun l'economia sco er cun organisaziuns e cun instituziuns naziunalas ed estras dal sectur da la furmaziun, da la scienza e da la perscrutaziun, en spezial er cun las scolas spezialisadas superiuras.
 
 #### Art. 5
 
@@ -83,6 +82,18 @@ concluda:
 
 <sup>3</sup> Il chantun sustegna las scolas autas ed ils instituts da perscrutaziun tar fundaziuns d'interpresas tras excorporaziun che han lur domicil en il Grischun; el po pajar contribuziuns per quai.
 
+#### Art. 6a
+
+**Protecziun da las designaziuns e dals titels**
+
+<sup>1</sup> Las designaziuns da las instituziuns dal sectur da las scolas autas èn protegidas tenor la Lescha federala davart l'agid a las scolas autas e davart la coordinaziun en il sectur da las scolas autas svizras[^6a-1].
+
+<sup>2</sup> Ils titels che vegnan acquistads ad ina scola auta dal chantun u ad ina scola auta renconuschida dal chantun, èn protegids.
+
+<sup>3</sup> Titels ch'èn vegnids acquistads illegalmain, vegnan retratgs da l'instituziun che als ha surdà.
+
+[^6a-1]: CS [414.20](https://db.clex.ch/link/Bund/414.20/rm)
+
 ## 2. Scolas autas purtadas dal chantun
 
 #### Art. 7
@@ -99,21 +110,21 @@ concluda:
 
 **Scolas autas existentas**
 
-<sup>1</sup> La scola auta da pedagogia dal Grischun (SAPGR) e la scola auta da tecnica ed economia Cuira (SATE) èn scolas autas che vegnan purtadas dal chantun.
+<sup>1</sup> La scola auta da pedagogia dal Grischun (SAPGR) e la scola auta spezialisada dal Grischun (SASGR) èn scolas autas che vegnan purtadas dal chantun.
 
 #### Art. 9
 
 **SAPGR**
 
-<sup>1</sup> La SAPGR procura per la scolaziun da las persunas d'instrucziun. En quest connex resguarda ella spezialmain ils basegns dal Grischun e dals chantuns vischins. Ella porscha programs da bachelor en pedagogia e po manar tras programs da master.
+<sup>1</sup> La SAPGR porscha studis da bachelor e da master en il sectur da la furmaziun da persunas d'instrucziun, en spezial per las scolas popularas sco er per las scolas da maturitad; en quest connex resguarda ella spezialmain ils basegns dal chantun triling e dals chantuns vischins.
 
-<sup>2</sup> Ella promova la furmaziun supplementara da persunas d'instrucziun da tut ils stgalims da la scola populara e la scolaziun da las persunas d'instrucziun da praticum, fa perscrutaziun applitgada e svilup applitgà en il sectur da la scola populara e porscha servetschs a terzas persunas.
+<sup>2</sup> Ella promova la furmaziun supplementara sin tut ils stgalims da las scolas popularas e da las scolas da maturitad, fa perscrutaziun applitgada e svilup applitgà en il sectur da la scola populara e porscha servetschs a terzas persunas.
 
 #### Art. 10
 
-**SATE Cuira**
+**SASGR**
 
-<sup>1</sup> La SATE Cuira porscha programs da bachelor e da master en tecnica ed en economia.
+<sup>1</sup> La SASGR porscha studis da bachelor e da master ch'èn en l'interess da l'economia publica dal Grischun e metta ses accents sin la tecnica e sin l'economia.
 
 <sup>2</sup> Ella promova la furmaziun supplementara da forzas da cader da l'economia e da l'administraziun, fa perscrutaziun applitgada e svilup applitgà e porscha servetschs a terzas persunas.
 
@@ -131,7 +142,7 @@ concluda:
 
 **Organs da las scolas autas ed elecziun**
 
-<sup>1</sup> Mintga scola auta ha ses agens organs. Quai èn il cussegl da la scola auta che cumpiglia maximalmain set commembras e commembers, la direcziun da la scola auta ed il post da revisiun.
+<sup>1</sup> Mintga scola auta ha ses agens organs. Quai èn il cussegl da la scola auta che cumpiglia almain tschintg commembras e commembers, la direcziun da la scola auta ed il post da revisiun.
 
 <sup>2</sup> La regenza elegia il cussegl da la scola auta e designescha ses presidi. En quest connex resguarda ella ils interess da l'economia e da las instituziuns da scolaziun.
 
@@ -144,6 +155,7 @@ concluda:
 <sup>1</sup> Il cussegl da la scola auta sco organ strategic intern è spezialmain cumpetent per:
 
 - a) planisar e survegliar che las finamiras fixadas en connex cun l'incarica da prestaziun da la regenza vegnian cuntanschidas;
+- a<sup>bis</sup>) determinar novs studis da bachelor e da master;
 - b) deliberar il preventiv per mauns da la regenza e survegliar las finanzas;
 - c) fixar l'organisaziun directiva sco er las directivas per il reporting e per il manaschament da qualitad en furma d'in reglament;
 - d) eleger e destituir la rectura u il rectur, las commembras ed ils commembers da la direcziun da la scola auta sco er las docentas ed ils docents en uffizi principal;
@@ -223,7 +235,7 @@ concluda:
 
 <sup>1</sup> La regenza conceda a las scolas autas che vegnan purtadas dal chantun ina incarica da prestaziun cun contribuziun globala.
 
-<sup>2</sup> Sch'ina instituziun dal sectur da las scolas autas che na vegn betg purtada dal chantun ha ina permissiun da manaschi e sch'igl è avant maun in interess chantunal suffizient, po la regenza conceder ina incarica da prestaziun cun contribuziun globala.
+<sup>2</sup> Sch'ina instituziun dal sectur da las scolas autas che na vegn betg purtada dal chantun ha ina permissiun da manaschi e sch'igl è avant maun in interess chantunal suffizient, po la Regenza conceder ina incarica da prestaziun cun contribuziun globala ubain cun ina pauschala orientada a la prestaziun.
 
 #### Art. 21
 
@@ -235,7 +247,8 @@ concluda:
 - b) approvar las incaricas da prestaziun;
 - c) deliberar las contribuziuns globalas annualas sin basa dal credit tenor il preventiv ch'è vegnì approvà dal cussegl grond;
 - d) fixar ils criteris per controllar che las finamiras da las incaricas da prestaziun sco er da las prescripziuns per la budgetaziun e per il rendaquint sajan ademplidas;
-- e) relaschar disposiziuns per scolas autas purtadas dal chantun che reglan la cooperaziun, las finanzas e la contabilitad, il manaschament d'immobiglias sco er la segiraziun da la proprietad immobigliara.
+- e) relaschar disposiziuns per scolas autas purtadas dal chantun che reglan la cooperaziun, las finanzas e la contabilitad, il manaschament d'immobiglias sco er la segiraziun da la proprietad immobigliara;
+- f) permetter novs secturs da studi.
 
 #### Art. 22
 
@@ -277,7 +290,9 @@ concluda:
 
 **Contribuziuns per la collavuraziun**
 
-<sup>1</sup> Il departament po sustegnair mesiras che promovan la collavuraziun e la coordinaziun da las singulas scolas autas e dals singuls instituts da perscrutaziun cun la furmaziun professiunala superiura e cun il stgalim secundar II.
+<sup>1</sup> Il departament po iniziar u sustegnair mesiras che promovan la collavuraziun e la coordinaziun tranter las singulas scolas autas ed ils singuls instituts da perscrutaziun. Sche pussaivel duain er vegnir integrads la furmaziun professiunala superiura ed il stgalim secundar II.
+
+<sup>2</sup> Per la furmaziun terziara e per la perscrutaziun po il departament conceder contribuziuns orientadas a la prestaziun ord fonds chantunals liads ad in intent ubain ord finanziaziuns spezialas en il senn da las disposiziuns da la legislaziun davart las finanzas.
 
 #### Art. 27
 
@@ -317,7 +332,7 @@ concluda:
 
 **Via giudiziala**
 
-<sup>1</sup> Suenter che la procedura da meds legals entaifer la scola è exaurida, poi vegnir fatg recurs cunter las suandantas decisiuns da las scolas autas che vegnan purtadas dal chantun entaifer 10 dis tar la dretgira administrativa:
+<sup>1</sup> Suenter che la procedura da meds legals entaifer la scola è exaurida, poi vegnir fatg recurs cunter las suandantas decisiuns da las scolas autas che vegnan purtadas dal chantun entaifer 10 dis tar la Dretgira superiura:
 
 - a) decisiuns concernent l'inadmissiun al studi;
 - b) decisiuns concernent l'extrada durant il studi;
