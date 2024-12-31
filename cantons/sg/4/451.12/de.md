@@ -1,461 +1,281 @@
 ---
 canton: SG
 number: "451.12"
-title: Verordnung über das Informationssystem der Kantonspolizei
+title: Verordnung über die polizeilichen Datenverarbeitungssysteme
 language: de
-version: 2006-07-01
-valid_until: 2024-12-31
-version_adopted: 2006-05-16
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2024-12-10
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/451.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/66/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3738/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über das Informationssystem der Kantonspolizei
+# Verordnung über die polizeilichen Datenverarbeitungssysteme
 
-vom 16.05.2006 (Stand 01.07.2006)
+vom 10.12.2024 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
 erlässt
 
-gestützt auf Art. 39 des Polizeigesetzes vom 10. April 1980[^ingress-1]
+in Ausführung von [Art. 39](https://www.gesetzessammlung.sg.ch/data/451.1/de/art39) des Polizeigesetzes vom 10. April 1980[^ingress-1]
 
 als Verordnung:[^ingress-2]
 
 [^ingress-1]: sGS [451.1](https://www.gesetzessammlung.sg.ch/data/451.1/de).
-[^ingress-2]: Im Amtsblatt veröffentlicht am 26. Juni 2006, ABl 2006, 1711 ff.; in Vollzug ab 1. Juli 2006.
+[^ingress-2]: In Vollzug ab 1. Januar 2025.
 
-## I. Allgemeine Bestimmungen
+## I. Art und Umfang der gespeicherten Daten
 
 #### Art. 1
 
-**Geltungsbereich**
+**Datenarten**
 
-<sup>1</sup> Diese Verordnung regelt das Informationssystem zur Führung polizeilicher Register.
+<sup>1</sup> Die Datenverarbeitungssysteme der Polizei umfassen folgende Datenarten:
+
+- a) Personalien;
+- b) Journaldaten;
+- c) Daten der operativen Verwaltung;
+- d) verwaltungspolizeiliche Daten;
+- e) Notruf- und Gefahrenmeldedaten;
+- f) sicherheitsrelevante Daten;
+- g) kriminalpolizeiliche Daten;
+- h) kriminalpräventive Daten;
+- i) verkehrspolizeiliche und verkehrstechnische Daten;
+- j) Daten weiterer polizeirelevanter Ereignisse.
 
 #### Art. 2
 
-**Verwendung des Informationssystems**
+**Personalien**
 
-<sup>1</sup> Die Kantonspolizei verwendet das Informationssystem für:
+<sup>1</sup> Personalien sind alle Angaben, die der eindeutigen Identifizierung einer natürlichen Person dienen und zur Erfüllung polizeilicher Aufgaben notwendig sind.
 
-- a) die Sammlung der zur Erfüllung ihrer Aufgaben notwendigen Daten;
-- b) den Zugriff auf Daten der Applikationen von Gemeinden, des Kantons und des Bundes, soweit dafür eine Rechtsgrundlage besteht;
-- c) Verwaltung und Archivierung der Akten;
-- d) die Verarbeitung der Hotelmeldeschein-Daten.
+<sup>2</sup> Folgende Personendaten werden als Personalien gespeichert:
 
-## II. Datensammung der Kantonspolizei
+- a) Namen, Vornamen, Geburtsnamen, Alias- und Spitznamen;
+- b) Geschlecht;
+- c) Geburtsdatum;
+- d) gesetzliche Vertreterin oder gesetzlicher Vertreter;
+- e) Wohnort und Aufenthaltsort;
+- f) Nationalität und Heimatort;
+- g) Beruf;
+- h) Kontaktdaten wie Telefonnummer und E-Mail-Adresse;
+- i) Erfassungs- und Mutationsdaten.
+
+<sup>3</sup> Insbesondere folgende weiteren Personendaten können als Personalien gespeichert werden:
+
+- a) Geburtsort und Geburtsstaat;
+- b) Sterbedatum;
+- c) Sprache;
+- d) Ausweisdaten;
+- e) AHV-Nummer;
+- f) Zivilstand;
+- g) Religions- und Konfessionszugehörigkeit;
+- h) Arbeitsort;
+- i) Namen und Vornamen der Eltern;
+- j) Namen und Vornamen der Ehepartnerin oder des Ehepartners, der eingetragenen Partnerin oder des eingetragenen Partners;
+- k) Namen und Vornamen der Kinder;
+- l) Personen-, Fahndungs- und Warnhinweise;
+- m) Personenbeschreibungen und erkennungsdienstliche Daten;
+- n) Personen- und Fallverbindungen;
+- o) Haftdaten;
+- p) strafrechtliche, verwaltungsrechtliche und disziplinarische Verfahren und Sanktionen;
+- q) Aufenthaltsstatus.
 
 #### Art. 3
 
-**Daten a) im Allgemeinen**
+**Journaldaten**
 
-<sup>1</sup> Die Datensammlung der Kantonspolizei umfasst:
+<sup>1</sup> Journaldaten umfassen alle Angaben über Ereignisse und Meldungen, die den Geschäftsgang der Polizei protokollieren.
 
-- a) Grunddaten;
-- b) erkennungsdienstliche Daten;
-- c) Haftdaten;
-- d) Fahndungsdaten;
-- e) tatbestandsbezogene Daten;
-- f) Asservatsdaten;
-- g) Waffendaten;
-- h) Unfalldaten;
-- i) Journaldaten;
-- j) Daten abgelegter Akten.
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten betreffend:
+
+- a) Meldungen, Anzeigen oder Ereignisse;
+- b) Massnahmen und Anordnungen.
 
 #### Art. 4
 
-**b) Grunddaten**
+**Daten der operativen Verwaltung**
 
-<sup>1</sup> Grunddaten werden über natürliche Personen gespeichert, über die erkennungsdienstliche Daten, Haftdaten, Fahndungsdaten, tatbestandsbezogene Daten, Waffendaten, Unfalldaten oder archivierte Akten vorliegen.
+<sup>1</sup> Daten der operativen Verwaltung umfassen alle Angaben der allgemeinen administrativen Geschäftstätigkeit der Polizei, die zur Erfüllung polizeilicher Aufgaben notwendig sind.
 
-<sup>2</sup> Es können gespeichert werden:
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten betreffend:
 
-- a) Namen und Vornamen;
-- b) Geburtsdatum und Geburtsort;
-- c) Heimatort und Heimatland;
-- d) Geschlecht;
-- e) Wohnort;
-- f) Namen und Vornamen der Eltern;
-- g) Zivilstand sowie Namen und Vornamen der Ehegattin oder des Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners;
-- h) Beruf;
-- i) Beteiligungsart;
-- j) Personenhinweise;
-- k) Aufenthaltsstatus bei tatverdächtigen Personen ausländischer Staatsangehörigkeit.
-
-<sup>3</sup> Über juristische Personen können folgende Grunddaten gespeichert werden:
-
-- 1\. Firma;
-- 2\. Branche;
-- 3\. Adresse;
-- 4\. Beteiligungsart.
+- a) vertragliche und beschaffungsrechtliche Angelegenheiten;
+- b) die Bearbeitung von Eingaben über den Post- und Fernmeldeverkehr;
+- c) die Erfassung und Verwaltung von Barbeständen und Fundgegenständen;
+- d) Verwaltungs- und Rechtsmittelverfahren.
 
 #### Art. 5
 
-**c) erkennungsdienstliche Daten**
+**Verwaltungspolizeiliche Daten**
 
-<sup>1</sup> Erkennungsdienstliche Daten sind Angaben über erkennungsdienstliche Unterlagen.[^5-1]
+<sup>1</sup> Verwaltungspolizeiliche Daten umfassen alle Angaben, die der Durchsetzung von Verwaltungsvorschriften zur Aufrechterhaltung der öffentlichen Ruhe, Ordnung und Sicherheit sowie der zwangsweisen Durchsetzung behördlicher Anordnungen dienen.
 
-<sup>2</sup> Es können gespeichert werden:
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten betreffend:
 
-- a) Abnahmestelle, Abnahmedatum und Abnahmegrund;
-- b) Ausweisdaten;
-- c) Audio- und Videodaten;
-- d) Signalement und besondere Merkmale;
-- e) Hinweise auf Fingerabdrücke, Schriftproben und Spurenvergleiche;
-- f) administrative Angaben im Zusammenhang mit einem DNA-Profil.[^5-2]
-
-[^5-1]: Art. [33](https://www.gesetzessammlung.sg.ch/data/451.1/de/art33.) ff. PG, sGS [451.1](https://www.gesetzessammlung.sg.ch/data/451.1/de).
-[^5-2]: BG über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz) vom 20. Juni 2003, SR [363](https://db.clex.ch/link/Bund/363/de).
+- a) Kontrollen von Personen und Einrichtungen;
+- b) Erteilung und Überprüfung von Bewilligungen;
+- c) Aufträge und polizeiliche Unterstützungen von anderen Behörden oder Amtsstellen;
+- d) Justizvollzug;
+- e) Haus- und Betretungsverbote.
 
 #### Art. 6
 
-**d) Haftdaten**
+**Notruf- und Gefahrenmeldedaten**
 
-<sup>1</sup> Haftdaten sind Angaben über Personen, die verhaftet oder vorläufig festgenommen wurden.
+<sup>1</sup> Notruf- und Gefahrenmeldedaten umfassen alle Angaben zu Notfallereignissen, die bei der Notrufzentrale erhoben werden.
 
-<sup>2</sup> Es können gespeichert werden:
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten:
 
-- a) Eintrittsdaten;
-- b) Haftorte und Haftgründe;
-- c) Entlassungsdaten;
-- d) zuständige Stelle;
-- e) Transporte;
-- f) administrative Hinweise.
+- a) die im Rahmen von Notfallmeldungen aufgezeichnet und dokumentiert werden;
+- b) die im Zusammenhang mit Ruf- und Meldesystemen erfasst werden.
 
 #### Art. 7
 
-**e) Fahndungsdaten**
+**Sicherheitsrelevante Daten**
 
-<sup>1</sup> Fahndungsdaten sind Angaben über Personen, die zur Fahndung ausgeschrieben sind.
+<sup>1</sup> Sicherheitsrelevante Daten umfassen alle Angaben, die von der Polizei zur Erfüllung der ihr durch sicherheitsbezogene Erlasse zugewiesenen Aufgaben erhoben werden.
 
-<sup>2</sup> Es können gespeichert werden:
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten betreffend:
 
-- a) Fahndungsauftrag und Fahndungsgrund;
-- b) Fahndungshinweise;
-- c) Auftraggeberin oder Auftraggeber;
-- d) Ausschreibungsdaten und Verfalldaten.
+- a) die Umsetzung der Privatdetektivverordnung vom 18. November 1980[^7-1];
+- b) die Umsetzung der Verordnung über die Ausübung von Bewachungs-, Ordnungs- und Sicherheitsaufgaben vom 14. Dezember 2004[^7-2];
+- c) die Umsetzung der Waffengesetzgebung und der Sprengstoffgesetzgebung.
+
+[^7-1]: sGS [451.13](https://www.gesetzessammlung.sg.ch/data/451.13/de).
+[^7-2]: sGS [451.14](https://www.gesetzessammlung.sg.ch/data/451.14/de).
 
 #### Art. 8
 
-**f) tatbestandsbezogene Daten**
+**Kriminalpolizeiliche Daten**
 
-<sup>1</sup> Tatbestandsbezogene Daten sind Angaben über polizeirelevante Ereignisse.
+<sup>1</sup> Kriminalpolizeiliche Daten umfassen alle Angaben, die von der Polizei zur Verfolgung von Straftaten erhoben werden.
 
-<sup>2</sup> Es können gespeichert werden:
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten betreffend:
 
-- a) Art des Ereignisses;
-- b) Örtlichkeit und Zeit;
-- c) Grunddaten der beteiligten Personen samt Art der Beteiligung;
-- d) Tatvorgehen und Tatmittel;
-- e) kriminaltechnische Daten;
-- f) Audio- und Videodaten;
-- g) Schädigungsgrad der verletzten Person;
-- h) Deliktsgut und Fundgut;
-- i) Hinweise auf tatverdächtige Personen sowie deren Art der Beteiligung;
-- j) Verbindungen zu artgleichen Ereignissen;
-- k) Ausschreibungen.
-
-<sup>3</sup> Angaben über Strafanzeigen, die ausschliesslich wegen Übertretung im Strassenverkehr erfolgen, und über gemeindepolizeiliche Ermittlungen werden nicht gespeichert. Angaben betreffend Übertretung wegen Fahrens in angetrunkenem Zustand werden gespeichert.
+- a) die Beteiligung an Straftaten;
+- b) Fahndung, Spurensicherung und Asservate;
+- c) erkennungsdienstliche Daten;
+- d) die Sicherstellung von Gegenständen und Fahrzeugen;
+- e) die kriminalpolizeilichen Phänomene und ereignisorientierte Kriminalanalyse;
+- f) Bild- und Videomaterial;
+- g) die Zwangsmassnahmen.
 
 #### Art. 9
 
-**g) Asservatsdaten**
+**Kriminalpräventive Daten**
 
-<sup>1</sup> Als Asservatsdaten können Angaben über Sachen und Spuren sowie die dazugehörenden administrativen Hinweise gespeichert werden.
+<sup>1</sup> Kriminalpräventive Daten umfassen alle Angaben in Bezug auf die polizeiliche Gefahrenabwehr sowie Erkennung und Verhütung von Straftaten, einschliesslich die Präventionsarbeit sowie das Bedrohungs- und Risikomanagement.
+
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten betreffend:
+
+- a) die polizeiliche Sicherheitsberatung;
+- b) die polizeiliche Lagedarstellung;
+- c) die Fallbearbeitung im Bedrohungs- und Risikomanagement;
+- d) die Informationsbeschaffung in der nachrichtendienstlichen Tätigkeit.
 
 #### Art. 10
 
-**h) Waffendaten**
+**Verkehrspolizeiliche und verkehrstechnische Daten**
 
-<sup>1</sup> Waffendaten sind Angaben über waffentechnische Spezifikationen und Waffenbewilligungen.[^10-1]
+<sup>1</sup> Verkehrspolizeiliche und verkehrstechnische Daten umfassen alle Angaben im Zusammenhang mit der Überwachung und Durchsetzung der Strassenverkehrsgesetzgebung, der Sicherstellung der Betriebsbereitschaft und der Betriebssicherheit der technischen Anlagen sowie des Strassenunterhalts.
 
-<sup>2</sup> Es können gespeichert werden:
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten betreffend:
 
-- a) waffentechnische Angaben;
-- b) Herkunft und Lieferantin oder Lieferant der Waffe;
-- c) Angaben zur Sicherstellung der Waffe;
-- d) Waffenerwerberin oder Waffenerwerber und Waffenbesitzerin oder Waffenbesitzer;
-- e) Inhaberin oder Inhaber der Waffenbewilligung;
-- f) administrative Hinweise.
+- a) Ordnungsbussen nach Anhang 1 der eidgenössischen Ordnungsbussenverordnung vom 16. Januar 2019[^10-1];
+- b) Video-, Bild- und Tonaufzeichnungen im Strassenverkehr;
+- c) statistische Erhebungen im Strassenverkehr;
+- d) verkehrsrechtliche Bewilligungen;
+- e) die Durchführung von begleiteten Transporten oder Transporten nach der eidgenössischen Verordnung über Gefahrengutbeauftragte für die Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässern vom 15. Juni 2001[^10-2].
 
-[^10-1]: BG über Waffen, Waffenzubehör und Munition vom 20. Juni 1997, SR [514.54](https://db.clex.ch/link/Bund/514.54/de), und eidgV über Waffen, Waffenzubehör und Munition vom 21. September 1998, SR [514.541](https://db.clex.ch/link/Bund/514.541/de).
+[^10-1]: SR [314.11](https://db.clex.ch/link/Bund/314.11/de).
+[^10-2]: SR [741.622](https://db.clex.ch/link/Bund/741.622/de).
 
 #### Art. 11
 
-**i) Unfalldaten**
+**Daten weiterer polizeirelevanter Ereignisse**
 
-<sup>1</sup> Unfalldaten sind Angaben über Unfälle im Strassenverkehr.
+<sup>1</sup> Daten weiterer polizeirelevanter Ereignisse umfassen alle Angaben, die anlässlich von polizeilichen Einsätzen anfallen, weitreichende Auswirkungen auf die betroffenen Personen haben und keinen strafrechtlichen Bezug aufweisen.
 
-<sup>2</sup> Es können gespeichert werden:
+<sup>2</sup> Gespeichert werden können insbesondere Personendaten betreffend:
 
-- a) Angaben zum Unfall oder Ereignis;
-- b) Örtlichkeit und Zeit;
-- c) beteiligte Personen samt Art der Beteiligung;
-- d) Schädigungsgrad der verletzten Personen;
-- e) Fahrzeughalterin oder Fahrzeughalter und Fahrzeuglenkerin oder Fahrzeuglenker;
-- f) fahrzeugtechnische Angaben;
-- g) Spuren;
-- h) Audio- und Videodaten.
+- a) aussergewöhnliche Todesfälle und Suizide;
+- b) Grossereignisse und Katastrophen;
+- c) Vermisstenfälle;
+- d) Entweichungen;
+- e) Arbeitsunfälle;
+- f) fürsorgerische Unterbringungen.
 
 #### Art. 12
 
-**j) Journaldaten**
+**Datenverknüpfungen**
 
-<sup>1</sup> Im Journal werden Angaben über dienststellenbezogene Ereignisse und Anzeigen gespeichert.
+<sup>1</sup> Soweit dies zur Bearbeitung polizeilich relevanter Ereignisse erforderlich ist, kann die Polizei Daten nach Art. 2 bis 11 dieses Erlasses verknüpfen und hierzu Auswertungssysteme benutzen. Nicht zulässig ist dabei:
 
-<sup>2</sup> Es können gespeichert werden:
+- a) der Einsatz von komplexen algorithmischen Entscheidsystemen;
+- b) die vollautomatische Auswertung zur Wahrscheinlichkeitsberechnung zukünftiger Straftaten.
 
-- a) Person, welche die Meldung oder Anzeige erstattet hat;
-- b) Art des Ereignisses;
-- c) Örtlichkeit und Zeit;
-- d) beteiligte Personen samt Art der Beteiligung;
-- e) Tatvorgehen;
-- f) Deliktsgut und Fundgut;
-- g) Hinweise auf Spuren;
-- h) beteiligte Fahrzeuge.
+<sup>2</sup> Die Ergebnisse von Datenverknüpfungen können eigenständig gespeichert und bearbeitet werden.
+
+## II. Datenaustausch
 
 #### Art. 13
 
-**k) abgelegte Akten**
+**Schnittstellen und gemeinsame Datenverarbeitungssysteme**
 
-<sup>1</sup> Abgelegte Akten können elektronisch registriert, verwaltet und ausgewertet werden.
+<sup>1</sup> Die Polizei kann nach [Art. 39<sup>quater</sup>](https://www.gesetzessammlung.sg.ch/data/451.1/de/art39quater) Abs. 3 Bst. a des Polizeigesetzes vom 10. April 1980[^13-1] Schnittstellen von Informationssystemen des Bundes, der Kantone und der Gemeinden zum eigenen zentralen Informationssystem einrichten.
 
-## III. Löschung von Daten
+<sup>2</sup> Die Polizei kann nach [Art. 39<sup>quater</sup>](https://www.gesetzessammlung.sg.ch/data/451.1/de/art39quater) Abs. 3 Bst. b des Polizeigesetzes vom 10. April 1980[^13-2] folgende gemeinsamen Informationssysteme mit oder ohne gemeinsame Datenhaltung mit den Polizeibehörden des Bundes, der Kantone und der Gemeinden betreiben:
+
+- a) ereignisbasierte Datenbanken zwecks Erkennung von serieller Kriminalität;
+- b) eine Plattform für den organisationsübergreifenden polizeilichen Lageinformationsaustausch.
+
+[^13-1]: sGS [451.1](https://www.gesetzessammlung.sg.ch/data/451.1/de).
+[^13-2]: sGS [451.1](https://www.gesetzessammlung.sg.ch/data/451.1/de).
+
+## III. Datenlöschung
 
 #### Art. 14
 
-**Grunddaten**
+**Grundsatz**
 
-<sup>1</sup> Grunddaten werden spätestens nach sechs Monaten gelöscht, nachdem keine Verbindung zu anderen Daten mehr vorliegt.
+<sup>1</sup> Wurde eine Person als Täterin oder Täter ermittelt, erfolgt die Löschung der Personendaten aller betroffenen Personen:
+
+- a) 90 Jahre nach Ausführung der letzten strafbaren Tätigkeit bei unverjährbaren Delikten;
+- b) 40 Jahre nach Ausführung der letzten strafbaren Tätigkeit, wenn die angedrohte Höchststrafe lebenslängliche Freiheitsstrafe ist;
+- c) 35 Jahre nach Ausführung der letzten strafbaren Tätigkeit, wenn die angedrohte Höchststrafe zehn oder mehr Jahre Freiheitsstrafe ist;
+- d) 30 Jahre nach Ausführung der letzten strafbaren Tätigkeit, wenn die angedrohte Höchststrafe wenigstens fünf und weniger als zehn Jahre Freiheitsstrafe ist;
+- e) 25 Jahre nach Ausführung der letzten strafbaren Tätigkeit, wenn die angedrohte Höchststrafe mehr als ein und weniger als fünf Jahre Freiheitsstrafe ist;
+- f) 15 Jahre nach Ausführung der letzten strafbaren Tätigkeit, wenn die angedrohte Höchststrafe weniger als ein Jahr Freiheitsstrafe ist;
+- g) 10 Jahre nach Ausführung der letzten strafbaren Tätigkeit bei Übertretungen.
+
+<sup>2</sup> Wurde keine Person als Täterin oder Täter ermittelt, erfolgt die Löschung aller betroffenen Personendaten sachgemäss nach den Fristen der Verfolgungsverjährung nach [Art. 97](https://db.clex.ch/link/Bund/311.0/de) des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937[^14-1].
+
+<sup>3</sup> Sicherheitsrelevante Daten nach Art. 7 dieses Erlasses werden spätestens 90 Jahre nach ihrer Erhebung gelöscht.
+
+<sup>4</sup> Daten des Bedrohungs- und Risikomanagements nach Art. 9 Abs. 2 Bst. c dieses Erlasses werden gemäss den Fristen nach [Art. 27<sup>septies</sup>](https://www.gesetzessammlung.sg.ch/data/451.1/de/art27septies) des Polizeigesetzes vom 10. April 1980[^14-2] gelöscht.
+
+<sup>5</sup> Für polizeilich relevante Ereignisse im Zusammenhang mit ungeklärten Vermisstenfällen erhobene Daten werden spätestens nach 90 Jahren gelöscht.
+
+<sup>6</sup> Übrige Personendaten, die nicht unter Abs. 1 bis 5 dieser Bestimmung fallen, werden unter Vorbehalt von spezialgesetzlichen oder bundesrechtlichen Bestimmungen zehn Jahre nach ihrer Erhebung gelöscht.
+
+<sup>7</sup> Das Polizeikommando kann bei Ausnahmefällen von besonderer Bedeutung die Aufbewahrung der Daten zur Wahrung wichtiger polizeilicher oder öffentlicher Interessen angemessen verlängern, höchstens auf 50 Jahre nach deren Erhebung.
+
+<sup>8</sup> Personendaten nach Abs. 1 bis 7 dieser Bestimmung werden vor Ablauf der ordentlichen Löschfrist gelöscht, wenn für die weitere Aufbewahrung keine überwiegenden öffentlichen Interessen mehr bestehen.
+
+[^14-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+[^14-2]: sGS [451.1](https://www.gesetzessammlung.sg.ch/data/451.1/de).
 
 #### Art. 15
 
-**Erkennungsdienstliche Daten**
+**Historisierung**
 
-<sup>1</sup> Erkennungsdienstliche Daten werden fünfzehn Jahre nach der Beschaffung gelöscht.
+<sup>1</sup> Sind von einer Person Daten zu verschiedenen Delikten gespeichert, werden diese Daten bis zum Ablauf der letzten Löschfrist aufbewahrt.
 
-<sup>2</sup> Wenn zu diesem Zeitpunkt noch Haftdaten, Fahndungsdaten oder tatbestandsbezogene Daten gespeichert sind, verlängert sich die Aufbewahrungsdauer bis zur Löschung dieser Daten.
+<sup>2</sup> Bei Freispruch, Einstellung oder Nichtanhandnahme von Strafverfahren ergänzt die Polizei die Daten der betroffenen Person. Die Strafbehörde, die den Entscheid gefällt hat, erstattet der Polizei nach Eintritt der Rechtskraft unverzüglich Meldung.
 
-<sup>3</sup> Vorbehalten bleibt die vorzeitige Löschung, wenn:
-
-- a) erkennungsdienstliche Unterlagen nach Art. 36 des Polizeigesetzes vom 10. April 1980[^15-1] vernichtet werden;
-- b) es das Bundesrecht vorschreibt.[^15-2]
-
-<sup>4</sup> Angaben über Personen, die ausschliesslich zur Feststellung ihrer Identität erkennungsdienstlich behandelt wurden, werden nach der Identitätsfeststellung gelöscht.
-
-[^15-1]: sGS [451.1](https://www.gesetzessammlung.sg.ch/data/451.1/de).
-[^15-2]: Art. 16 ff. des BG über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen vom 20. Juni 2003, SR [363](https://db.clex.ch/link/Bund/363/de).
-
-#### Art. 16
-
-**Haftdaten**
-
-<sup>1</sup> Haftdaten werden zehn Jahre nach der Entlassung der betroffenen Person aus dem Gefängnis oder aus der Anstalt gelöscht.
-
-#### Art. 17
-
-**Fahndungsdaten**
-
-<sup>1</sup> Fahndungsdaten werden innert drei Monaten nach dem Widerruf des Fahndungsauftrags, spätestens mit Eintritt der Verfolgungs- oder Vollstreckungsverjährung, gelöscht.
-
-#### Art. 18
-
-**Tatbestandsbezogene Daten a) geklärte Delikte**
-
-<sup>1</sup> Tatbestandsbezogene Daten über geklärte Delikte werden spätestens nach Ablauf der Vollstreckungsverjährung gelöscht.
-
-<sup>2</sup> Tatbestandsbezogene Daten werden nach Eintritt der Rechtskraft gelöscht, wenn das Strafverfahren definitiv eingestellt oder die betroffene Person freigesprochen wird.
-
-<sup>3</sup> Die Untersuchungsorgane melden der Polizei die Tatsachen, welche die Löschung begründen, in der Regel durch Zustellung einer Kopie des Verfügungsdispositivs.
-
-#### Art. 19
-
-**b) ungeklärte Delikte**
-
-<sup>1</sup> Tatbestandsbezogene Daten über ungeklärte Delikte werden mit Eintritt der Verfolgungsverjährung gelöscht.
-
-<sup>2</sup> Daten über Delikts- und Fundgut können solange aufbewahrt werden, als ein polizeiliches Interesse daran besteht.
-
-#### Art. 20
-
-**Asservatsdaten**
-
-<sup>1</sup> Fallbezogene Asservatsdaten werden gelöscht, wenn:
-
-- a) die dazugehörenden Falldaten gelöscht werden;
-- b) es die untersuchende Stelle verfügt;
-- c) es das Bundesrecht[^20-1] vorschreibt.
-
-<sup>2</sup> Nicht fallbezogene Asservatsdaten werden zehn Jahre nach der Erhebung gelöscht, wenn nicht ein überwiegendes polizeiliches Interesse an einer weiteren Aufbewahrung besteht.
-
-[^20-1]: Art. 16 ff. des BG über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen vom 20. Juni 2003, SR [363](https://db.clex.ch/link/Bund/363/de).
-
-#### Art. 21
-
-**Waffendaten**
-
-<sup>1</sup> Waffendaten werden gelöscht, wenn kein polizeiliches Interesse mehr daran besteht.
-
-<sup>2</sup> Angaben über Waffenbewilligungen werden nach Ablauf der Gültigkeitsdauer der Bewilligung gelöscht.
-
-#### Art. 22
-
-**Unfalldaten**
-
-<sup>1</sup> Daten über Strassenverkehrsunfälle mit Todesfolge werden spätestens fünfzehn Jahre nach dem Unfall gelöscht.
-
-<sup>2</sup> Andere Unfalldaten werden spätestens nach zehn Jahren gelöscht.
-
-#### Art. 23
-
-**Journaldaten**
-
-<sup>1</sup> Journaldaten werden spätestens zehn Jahre nach der Erfassung gelöscht.
-
-#### Art. 24
-
-**Aktenverwaltung**
-
-<sup>1</sup> Daten im Register der abgelegten Akten werden mit Ablauf der Aktenlauffrist nach Art. 28 dieses Erlasses gelöscht.
-
-#### Art. 25
-
-**Löschung vor Ablauf der Frist**
-
-<sup>1</sup> Personendaten und Dokumente werden vor Ablauf der ordentlichen Löschungsfristen gelöscht, wenn keine überwiegenden Interessen für die weitere Aufbewahrung mehr bestehen.
-
-## IV. Archivierte Akten
-
-#### Art. 26
-
-**Allgemeines**
-
-<sup>1</sup> Akten werden in Papierform oder elektronisch archiviert.
-
-#### Art. 27
-
-**Aktenvernichtung**
-
-<sup>1</sup> Die Aktenvernichtung erfolgt nach Ablauf der jeweiligen Aktenlauffrist.
-
-#### Art. 28
-
-**Aktenlauffristen**
-
-<sup>1</sup> Akten von ungeklärten Delikten werden spätestens nach Eintritt der Verfolgungsverjährung vernichtet, wenn kein überwiegendes Interesse an der weiteren Aufbewahrung besteht.
-
-<sup>2</sup> Andere tatbestandsbezogene Akten werden vernichtet, wenn für eine weitere Aufbewahrung kein polizeiliches Interesse mehr besteht.
-
-<sup>3</sup> Akten von geklärten Delikten werden spätestens nach Ablauf der Vollstreckungsverjährung vernichtet. Liegt kein Delikt vor oder wird keine tatverdächtige Person aufgeführt, beträgt die Aktenlauffrist:
-
-- a) bei Ereignissen mit Todesfolge 20 Jahre nach dem Ereignis;
-- b) bei Brand-, Freizeit-, Strassenverkehrs- und Arbeitsunfällen ohne Todesfolge 15 Jahre nach dem Ereignis;
-- c) in den übrigen Fällen zehn Jahre nach dem Ereignis.
-
-<sup>4</sup> Wird das Strafverfahren definitiv eingestellt oder die betroffene Person freigesprochen, werden die Akten nach Eingang der entsprechenden Meldung der Untersuchungsbehörde vernichtet.
-
-## V. Hotelkontrolle
-
-#### Art. 29
-
-**Hotelmeldescheine**
-
-<sup>1</sup> Hotelmeldescheine[^29-1] enthalten Angaben über Beherbergerinnen oder Beherberger, die gewerbsmässig Übernachtungsmöglichkeiten anbieten, und von übernachtenden Gästen.
-
-<sup>2</sup> Es können gespeichert werden:
-
-- a) Namen und Vornamen;
-- b) Geburtsdatum und Staatsangehörigkeit;
-- c) Ausweisdaten;
-- d) Ankunfts- und Abreisedatum des Gastes;
-- e) Name der Beherbergerin oder des Beherbergers und Adresse.
-
-<sup>3</sup> Spätestens nach fünf Jahren werden die Hotelmeldedaten gelöscht und die Meldescheine vernichtet.
-
-<sup>4</sup> Das Register dient ausschliesslich der Fahndung nach Personen.
-
-[^29-1]: Art. [52<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/451.1/de/art52bis.)PG, sGS [451.1](https://www.gesetzessammlung.sg.ch/data/451.1/de).
-
-## VI. Datensicherung
-
-#### Art. 30
-
-**Zugriff**
-
-<sup>1</sup> Die Mitarbeitenden der Kantonspolizei und der Stadtpolizei St.Gallen haben auf diejenigen Daten Zugriff, die sie zur Erfüllung ihrer Aufgaben benötigen.
-
-#### Art. 31
-
-**Massnahmen**
-
-<sup>1</sup> Das Polizeikommando und die zugriffsberechtigten Polizeistellen sichern die Daten durch:
-
-- a) Regelung der Zugriffs- und Eingabeberechtigung durch Festlegung der Mutationsberechtigungen, Protokollierung und Kontrolle von Zugriffen über Log-Files;
-- b) Schutz der Räume, in denen sich Datenbestände befinden, gegen den Zutritt Unbefugter;
-- c) technische Massnahmen zum Schutz der Daten gegen unbefugte Kenntnisnahme, Bearbeitung und Entwendung.
-
-## VII. Auskunfts-, Berichtigungs- und Löschungsverfahren
-
-#### Art. 32
-
-**Zuständigkeit**
-
-<sup>1</sup> Die Kantonspolizei entscheidet über Auskunfts-, Berichtigungs- und Löschungsbegehren. Vorbehalten bleibt die Zuständigkeit der Organe der Strafrechtspflege nach dem Strafprozessgesetz vom 1. Juli 1999.[^32-1]
-
-<sup>2</sup> Sie kann auf Gesuch Einsicht in bei ihr vorhandene Akten gewähren, wenn das Strafverfahren im Ausland geführt wird.
-
-[^32-1]: sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de), Art. [67](https://www.gesetzessammlung.sg.ch/data/962.1/de/art67.) und [174](https://www.gesetzessammlung.sg.ch/data/962.1/de/art174.).
-
-#### Art. 33
-
-**Ausweis**
-
-<sup>1</sup> Wer ein Auskunftsbegehren stellt, weist sich über seine Identität aus.
-
-#### Art. 34
-
-**Gegendarstellung**
-
-<sup>1</sup> Die Kantonspolizei hat die Richtigkeit der Daten zu beweisen, wenn die betroffene Person die Unrichtigkeit behauptet.
-
-<sup>2</sup> Kann weder die Richtigkeit noch die Unrichtigkeit von Personendaten bewiesen werden, ist auf Verlangen der betroffenen Person eine Gegendarstellung in die Datensammlung aufzunehmen.
-
-#### Art. 35
-
-**Gebühren**
-
-<sup>1</sup> Auskunft, Berichtigung und Löschung erfolgen kostenlos.
-
-<sup>2</sup> Eine Gebühr kann verlangt werden, wenn:
-
-- a) die Behandlung eines Gesuchs einen erheblichen Verwaltungsaufwand erfordert;
-- b) die betroffene Person innert der letzten zwölf Monate die gleiche Auskunft erhalten hat.
-
-## VIII. Schlussbestimmungen
-
-#### Art. 36
-
-**[^36-1]**
-
-[^36-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
-
-#### Art. 37
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Verordnung über die elektronische Datenverarbeitung für kriminalpolizeiliche Register vom 17. März 1987[^37-1] wird aufgehoben.
-
-[^37-1]: nGS 22–28 (sGS 451.12).
-
-#### Art. 38
-
-**Vollzugsbeginn**
-
-<sup>1</sup> Dieser Erlass wird ab 1. Juli 2006 angewendet.
-
-nGS 41-55
+nGS 2024-064
