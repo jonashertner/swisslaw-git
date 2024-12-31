@@ -3,29 +3,29 @@ canton: BL
 number: "143.12"
 title: Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion
 language: de
-version: 2023-07-01
-valid_until: 2024-12-31
-version_adopted: 2023-05-30
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-17
 adopted: 2018-06-26
 in_force: 2018-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.12"
-pdf: "https://bl.clex.ch/api/de/versions/3614/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4318/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion
 
-Vom 26.06.2018 (Stand 01.07.2023)
+Vom 26.06.2018 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 20 Abs. 4, § 21 Abs. 1 und § 24 Abs. 1 des Gesetzes vom 28. September 2017[^ingress-1] über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL) sowie § 4 Abs. 1 der Verordnung vom 19. Dezember 2017[^ingress-2] zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL),
+gestützt auf § 20 Abs. 4, § 21 Abs. 1 und § 24 Abs. 1 des Gesetzes über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL) vom 28. September 2017[^ingress-1] sowie § 4 Abs. 1 der Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL) vom 19. Dezember 2017[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 2017.083, SGS [140](https://bl.clex.ch/data/140/de/art20)
-[^ingress-2]: GS 2017.086, SGS [140.11](https://bl.clex.ch/data/140.11/de/art4)
+[^ingress-1]: [SGS 140](https://bl.clex.ch/data/140/de/art20)
+[^ingress-2]: [SGS 140.11](https://bl.clex.ch/data/140.11/de/art4)
 
 ## 1 Die Direktion
 
@@ -43,9 +43,9 @@ beschliesst:
 
 **Gliederung**
 
-<sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 11 der Verordnung vom 19. Dezember 2017[^2-1] zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft.
+<sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 11 der Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft vom 19. Dezember 2017[^2-1].
 
-[^2-1]: GS 2017.086, SGS [140.11](https://bl.clex.ch/data/140.11/de/art11)
+[^2-1]: [SGS 140.11](https://bl.clex.ch/data/140.11/de/art11)
 
 #### § 3
 
@@ -114,13 +114,13 @@ beschliesst:
 
 <sup>1</sup> Die Befugnis zur Vergabe von Aufträgen richtet sich nach dem Reglement über die Zuständigkeit für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion[^8-1].
 
-<sup>2</sup> Die Befugnis zur Vergabe von Aufträgen für Beratungsdienstleistungen von über CHF 50'000 obliegt der Direktionsvorsteherin oder dem Direktionsvorsteher.
+<sup>2</sup> Die Befugnis zur Vergabe von Aufträgen für Beratungsdienstleistungen von über CHF 50'000.– obliegt der Direktionsvorsteherin oder dem Direktionsvorsteher.
 
 <sup>3</sup> Leistungsvereinbarungen und sonstige Verträge sind dem Generalsekretariat vor der Unterzeichnung zur rechtlichen Prüfung vorzulegen.
 
 <sup>4</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher regelt die Befugnis zur Unterzeichnung von Leistungsvereinbarungen und sonstigen Verträgen im Reglement zur Dienstordnung.
 
-[^8-1]: GS 2018.015, SGS [143.121](https://bl.clex.ch/data/143.121/de)
+[^8-1]: [SGS 143.121](https://bl.clex.ch/data/143.121/de)
 
 #### § 9
 
@@ -201,17 +201,17 @@ beschliesst:
 
 <sup>1</sup> Das AGI vollzieht sämtliche Aufgaben in den Fachbereichen Vermessung und Geoinformation, die dem Kanton durch eidgenössisches oder kantonales Recht sowie durch Regierungsratsbeschluss übertragen sind.
 
-### 2.6 Amt für Wald beider Basel (AfW beider Basel)
+### 2.6 Amt für Wald und Wild beider Basel (AfWW beider Basel)
 
 #### § 17
 
 **Organisation**
 
-<sup>1</sup> Das AfW beider Basel gliedert sich neben einem allfälligen Stabsdienst in folgende Abteilungen:
+<sup>1</sup> Das AfWW beider Basel gliedert sich neben einem allfälligen Stabsdienst in folgende Abteilungen:
 
-- a. Fachbereiche;
-- b. Kreisforstingenieure;
-- c. Fachstelle Jagd und Fischerei.
+- a. Fachdienste Wald;
+- b. Kreisdienste;
+- c. Wildtiere, Jagd und Fischerei.
 
 #### § 18
 
@@ -241,9 +241,9 @@ beschliesst:
 
 <sup>2</sup> Der Ebenrain ist in Zusammenarbeit mit dem Hochbauamt verantwortlich für die Verwaltung des Schlosses Ebenrain und die Pflege des Parks.
 
-<sup>3</sup> Der Ebenrain ist zuständige Registrierungsstelle gemäss Art. 7 der Tierseuchenverordnung (TSV) vom 27. Juni 1995[^20-1].
+<sup>3</sup> Der Ebenrain ist die zuständige Registrierungsstelle gemäss Art. 7 der Tierseuchenverordnung (TSV) vom 27. Juni 1995[^20-1].
 
-[^20-1]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de)
+[^20-1]: [SR 916.401](https://db.clex.ch/link/Bund/916.401/de)
 
 ### 2.8 Amt für Lebensmittelsicherheit und Veterinärwesen (ALV)
 
