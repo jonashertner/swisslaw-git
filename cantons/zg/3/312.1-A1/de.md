@@ -4,13 +4,12 @@ number: 312.1-A1
 title: "Übertretungsstrafgesetz (Anhang: Bussenkatalog gemäss § 15 ÜStG)"
 short: ÜStG
 language: de
-version: 2023-07-01
-valid_until: 2024-12-31
-version_adopted: 2023-01-26
+version: 2025-01-01
+version_adopted: 2024-01-25
 adopted: 2013-05-23
 in_force: 2013-10-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/312.1-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/2425/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2642/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,15 @@ pdf: "https://bgs.zg.ch/api/de/versions/2425/pdf_file"
 
 (ÜStG)
 
-Vom 23. Mai 2013 (Stand 1. Juli 2023)
+Vom 23. Mai 2013 (Stand 1. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 335 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-1] und auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-2],
+gestützt auf
+
+• Art. 335 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-1]
+
+• § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-2],
 
 beschliesst:
 
@@ -145,10 +148,17 @@ beschliesst:
 
 <sup>1</sup> Busse in Franken
 
-- 7\.1 Vorsätzlicher oder fahrlässiger Verstoss gegen eingeschränkte oder verbotene störende Tätigkeiten im Wald (§ 9 Abs. 3 in Verbindung mit § 33 EG Waldgesetz[^Ziff7-1]): 100.–
-- 7\.2 Vorsätzliches oder fahrlässiges Missachten der Melde- und Bewilligungspflicht für Veranstaltungen im Wald (§ 11 in Verbindung mit § 33 EG Waldgesetz): 200.–
+- 7\.1 Verstoss gegen eingeschränkte oder verbotene störende Tätigkeiten im Wald (§ 9 Abs. 3 in Verbindung mit § 33 EG Waldgesetz[^Ziff7-1]): 100.–
+- 7\.2 Missachten der Melde- und Bewilligungspflicht für Veranstaltungen im Wald (§ 11 in Verbindung mit § 33 EG Waldgesetz): 200.–
 - 7\.3 …
-- 7\.4 Vorsätzliche oder fahrlässige nachteilige Nutzung des Waldes ohne Ausnahmebewilligung (§ 11a in Verbindung mit 33 EG Waldgesetz): 100.–
+- 7\.4 Nachteilige Nutzung des Waldes ohne Ausnahmebewilligung (§ 11a in Verbindung mit 33 EG Waldgesetz): 100.–
+- 7\.5 Laufenlassen von Hunden ausser Sichtdistanz im Wald und am Waldrand (§ 9 Abs. 4 in Verbindung mit § 33 EG Waldgesetz): 100.–
+- 7\.6 Verstoss gegen die Hundeleinenpflicht im Wald und am Waldrand vom 1. April bis 31. Juli (§ 9 Abs. 4 in Verbindung mit § 33 EG Waldgesetz): 100.–
+- 7\.7 Nicht jederzeit abrufbare Hunde im Wald und am Waldrand (§ 9 Abs. 4 in Verbindung mit § 33 EG Waldgesetz): 100.–
+- 7\.8 Missachten des Verbots, Feuer zu entfachen (§ 16 Abs. 4 in Verbindung mit § 33 EG Waldgesetz): 200.–
+- 7\.9 Fliegenlassen von Drohnen im Wald bis 50 Meter über Boden (§ 9 Abs. 5 in Verbindung mit § 33 EG Waldgesetz): 100.–
+
+<sup>2</sup> Die Tatbestände von Abs. 1 sind erfüllt, wenn sie vorsätzlich oder fahrlässig begangen werden.
 
 [^Ziff7-1]: BGS [931.1](https://bgs.zg.ch/data/931.1/de)
 
