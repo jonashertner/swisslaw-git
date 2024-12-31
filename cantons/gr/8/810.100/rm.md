@@ -4,55 +4,52 @@ number: "810.100"
 title: Lescha davart il dretg da las auas dal chantun Grischun
 short: LDAG
 language: rm
-version: 2013-01-01
-corrected: 2014-11-07
-version_adopted: 2012-09-25
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1995-03-12
 in_force: 1995-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/810.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1684/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3420/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha davart il dretg da las auas dal chantun Grischun (LDAG)
+# Lescha davart il dretg da las auas dal chantun Grischun
 
-acceptada dal pievel ils 12 da mars 1995[^t-1]
+(LDAG)
 
-I. Disposiziuns generalas
+dals 12-03-1995 (versiun dals 01-01-2025)
 
-[^t-1]: M dals 13 da zercladur 1994, 193; PCG 1994/95, 334 (1. lectura),
+acceptada dal pievel ils 12 da mars 1995[^ingress-1]
+
+[^ingress-1]: M dals 13 da zercladur 1994, 193; PCG 1994/95, 334 (1. lectura), 697 (2. lectura)
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
 **Champ d'applicaziun**
 
-Questa lescha ordinescha l'utilisaziun da las auas publicas dal chantun Grischun per producir energia electrica sco er per proveder las vischnancas ed il chantun cun forza electrica.
+<sup>1</sup> Questa lescha ordinescha l'utilisaziun da las auas publicas dal chantun Grischun per producir energia electrica sco er per proveder las vischnancas ed il chantun cun forza electrica.
 
 #### Art. 2
 
 **Intent**
 
-Questa lescha ha l'intent da:
+<sup>1</sup> Questa lescha ha l'intent da:
 
 - a) utilisar raziunalmain la forza idraulica indigena a favur da las vischnancas, da las regiuns e dal chantun;
-
 - b) optimar ed augmentar la prestaziun da las ovras idraulicas existentas;
-
 - c) cumplettar las forzas idraulicas en moda raschunaivla per l'economia e giustifitgabla per l'ambient;
-
 - d) proveder il chantun en moda segira, suffizienta e per gronda part autonoma cun energia uschè favuraivla sco pussaivel;
-
 - e) coordinar ils interess da las vischnancas, da las regiuns e dal chantun e drizzar quels sche pussaivel vers ina finamira communabla sco er
-
 - f) reglar las cumpetenzas entaifer il chantun, mantegnend l'autonomia communala.
 
 #### Art. 3
 
 **Egualitad da las schlattainas**
 
-Las indicaziuns davart las persunas e davart las funcziuns en questa lescha sa refereschan ad omaduas schlattainas, uschenavant ch'i na resulta nagut auter or dal senn da questa lescha.
+<sup>1</sup> Las indicaziuns davart las persunas e davart las funcziuns en questa lescha sa refereschan ad omaduas schlattainas, uschenavant ch'i na resulta nagut auter or dal senn da questa lescha.
 
 #### Art. 4
 
@@ -66,55 +63,45 @@ Las indicaziuns davart las persunas e davart las funcziuns en questa lescha sa r
 
 **Cussegliaziun da las vischnancas**
 
-<sup>1</sup>[^5-1]Il chantun cusseglia las vischnancas sin giavisch en dumondas da l'utilisaziun da la forza idraulica.
+<sup>1</sup> Il chantun cusseglia las vischnancas sin giavisch en dumondas da l'utilisaziun da la forza idraulica.
 
 <sup>2</sup> Per regla è questa cussegliaziun dal chantun gratuita.
-
-[^5-1]: versiun tenor l'art. 19 da la lescha davart il provediment d'electricitad, DG 812.100; entrà en vigur il 1. da settember 2009
 
 #### Art. 6
 
 **Noziuns**
 
-En questa lescha signifitgeschan:
+<sup>1</sup> En questa lescha signifitgeschan:
 
 - a) utilisaziun da la forza idraulica: utilisaziun da la forza natirala da l'aua sco er quella che resulta cun pumpar aua en ina posiziun pli auta. En quest connex ha l'utilisaziun l'intent da producir energia;
-
 - b) implant da pumpadi: implant ch'è abel da duvrar repetidamain a maun da pumpas aua d'auas publicas per producir energia electrica u da pussibilitar per il medem intent ina utilisaziun che surpassa la forza idraulica natirala. Pumpas puramain d'apport na valan betg sco implants da pumpadi;
-
 - c) pumpa d'apport: indriz da pumpadi che maina aua d'auas publicas en in implant electric senza pussibilitar che quella vegnia utilisada repetidamain per producir energia electrica;
-
 - d) tschains d'aua: la taxa ch'il concessiunari debitescha annualmain a las vischnancas per l'utilisaziun da l'aua;
-
 - e) taglia sin ovras idraulicas: la taxa ch'il concessiunari debitescha annualmain al chantun;
-
 - f) prestaziun brutta: la media da prestaziun mecanica brutta da l'aua calculada sin fundament da la pendenza utilisabla e sin la quantitad utilisabla;
+- g) …
 
-- g) ...[^6-1]
+## 2. Utilisaziun da la forza idraulica
 
-[^6-1]: abolì tenor l'art. 19 da la lescha davart il provediment d'electricitad, DG 812.100; entrà en vigur il 1. da settember 2009 2 1-1-2013
-
-### II. Utilisaziun da la forza idraulica
-
-- 1\. CUMPETENZAS
+### 2.1. Cumpetenzas
 
 #### Art. 7
 
 **Concessiun dal dretg d'utilisaziun**
 
-Las vischnancas pon trair a niz sezzas la forza idraulica da lur auas u dar tras concessiun il dretg d'utilisaziun a terzas persunas.
+<sup>1</sup> Las vischnancas pon trair a niz sezzas la forza idraulica da lur auas u dar tras concessiun il dretg d'utilisaziun a terzas persunas.
 
 #### Art. 8
 
 **Concessiuns coerentas**
 
-Per utilisar ina aua publica che sa chatta sin il territori da pliras vischnancas sto vegnir acquistada ina concessiun da mintgina da quellas vischnancas. Quellas concessiuns ston vegnir coordinadas ina cun l'autra.
+<sup>1</sup> Per utilisar ina aua publica che sa chatta sin il territori da pliras vischnancas sto vegnir acquistada ina concessiun da mintgina da quellas vischnancas. Quellas concessiuns ston vegnir coordinadas ina cun l'autra.
 
 #### Art. 9
 
 **Concessiuns per implants da pumpadi**
 
-Per construir in implant da pumpadi ston ins avair la concessiun da quella vischnanca sin il territori da la quala las parts bletschas da l'implant vegnan a sa chattar.
+<sup>1</sup> Per construir in implant da pumpadi ston ins avair la concessiun da quella vischnanca sin il territori da la quala las parts bletschas da l'implant vegnan a sa chattar.
 
 #### Art. 10
 
@@ -130,15 +117,13 @@ Per construir in implant da pumpadi ston ins avair la concessiun da quella visch
 
 **Autoritads d'approvaziun**
 
-<sup>1</sup>[^11-1]Las concessiuns che las vischnancas han dà ston vegnir approvadas da la regenza per esser valaivlas. Il medem vala er per midadas u per transferiments da concessiuns. L'artitgel 2bis da la constituziun chantunala[^11-2] resta resalvà. Il project sto vegnir approvà (art. 58) da la regenza.
+<sup>1</sup> Las concessiuns che las vischnancas han dà ston vegnir approvadas da la regenza per esser valaivlas. Il medem vala er per midadas u per transferiments da concessiuns. L'artitgel 2<sup>bis</sup> da la constituziun chantunala[^11-1] resta resalvà. Il project sto vegnir approvà (art. 58) da la regenza.
 
 <sup>2</sup> Medemamain sto in project da la vischnanca, che ha l'intent d'utilisar sez la forza idraulica da sias auas, vegnir approvà da la regenza.
 
-<sup>3</sup> ...[^11-3]
+<sup>3</sup> …
 
-[^11-1]: versiun tenor il conclus dal pievel dals 7 da favrter 1999; M dals 11 d'avust 1998; PCG 1998/99 397
-[^11-2]: DG 110.100
-[^11-3]: abolì tenor il conclus dal pievel dals 7da favrer 1999; vesair A tar l'art. 11 al. 1 1-1-2013 3
+[^11-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 
 #### Art. 12
 
@@ -148,11 +133,9 @@ Per construir in implant da pumpadi ston ins avair la concessiun da quella visch
 
 <sup>2</sup> La regenza tracta ordavant cun las vischnancas e resguarda en moda adequata ils avantatgs ed ils dischavantatgs che resultan per ellas da l'utilisaziun previsa. Ella resguarda en quest connex er ils interess publics surordinads.
 
-[^12-1]: abolì tenor l'art. 50 da la lescha da finanzas dal chantun Grischun, DG 710.100; entrà en vigur il 1. da schaner 2013 4 1-1-2013
-
 #### Art. 13
 
-[^12-1]
+**…**
 
 #### Art. 14
 
@@ -178,27 +161,26 @@ Per construir in implant da pumpadi ston ins avair la concessiun da quella visch
 
 **Collaudaziun**
 
-La collaudaziun dals implants idraulics vegn fatga dal departament cumpetent.
+<sup>1</sup> La collaudaziun dals implants idraulics vegn fatga dal departament cumpetent.
 
 #### Art. 17
 
 **Surveglianza**
 
-La surveglianza davart l'utilisaziun da las auas publicas è chaussa da la regenza.
+<sup>1</sup> La surveglianza davart l'utilisaziun da las auas publicas è chaussa da la regenza.
 
-- 2\. LIMITS D'UTILISAZIUN
+### 2.2. Limits d'utilisaziun
 
 #### Art. 18
 
 **Resalvas a favur da las vischnancas**
 
-Las vischnancas han il dretg:
+<sup>1</sup> Las vischnancas han il dretg:
 
 - a) da colliar durant la construcziun da l'ovra sin agens custs indrizs per il provediment d'aua da baiver e d'aua da stizzar fieu sco er indrizs che servan a sauar cun in'ovra idraulica;
-
 - b) da duvrar senza dretg d'indemnisaziun dal concessiunari tant da l'aua concedida sco quai ch'i fa cumprovadamain basegn per garantir il provediment d'aua da baiver ed aua per situaziuns extraordinarias, cunzunt per stizzar fieu sco er per sauar. La retratga d'aua na dastga betg restrenscher essenzialmain l'utilisaziun da la forza idraulica, uschiglio sto ella vegnir indemnisada.
 
-- 3\. CONCESSIUNARI E CUNTEGN DA LA CONCESSIUN
+### 2.3. Concessiunari e cuntegn da la concessiun
 
 #### Art. 19
 
@@ -214,17 +196,13 @@ Las vischnancas han il dretg:
 
 **Agen chapital**
 
-La regenza po pretender che l'agen chapital dal concessiunari importia 20 pertschient dals custs d'investiziun.
+<sup>1</sup> La regenza po pretender che l'agen chapital dal concessiunari importia 20 pertschient dals custs d'investiziun.
 
 #### Art. 21
 
 **Plirs candidats**
 
-Sch'i dat plirs candidats per utilisar la forza idraulica da la medema aua, ha la vischnanca – cun accordar sco er cun transferir ina concessiun – da preferir quel candidat che resguarda il meglier ils interess publics e che garantescha l'utilisaziun la pli cunvegnenta.
-
-**5**
-
-1-1-2013
+<sup>1</sup> Sch'i dat plirs candidats per utilisar la forza idraulica da la medema aua, ha la vischnanca – cun accordar sco er cun transferir ina concessiun – da preferir quel candidat che resguarda il meglier ils interess publics e che garantescha l'utilisaziun la pli cunvegnenta.
 
 #### Art. 22
 
@@ -241,26 +219,16 @@ Sch'i dat plirs candidats per utilisar la forza idraulica da la medema aua, ha l
 <sup>1</sup> Mintga concessiun fixescha:
 
 - a) la persuna e la sedia dal concessiunari;
-
 - b) la dimensiun dal dretg d'utilisaziun concedì;
-
 - c) la quantitad d'aua restanta che sto vegnir observada;
-
 - d) la durada da la concessiun;
-
 - e) la represchentanza da la communitad en l'administraziun dal concessiunari;
-
 - f) ils implants ils pli impurtants;
-
 - g) las prestaziuns economicas impundidas al concessiunari;
-
 - h) l'obligaziun da s'assicurar dal concessiunari;
-
 - i) ils termins per il cumenzament da las lavurs da construcziun e da renovaziun sco er per metter en funcziun l'implant electric;
-
 - k) la scadenza da la concessiun;
-
-- 1) la recumpra, sch'ina tala vegn stipulada da las partidas.
+- l) la recumpra, sch'ina tala vegn stipulada da las partidas.
 
 <sup>2</sup> L'ordinaziun regla ils detagls. Quella cuntegna er in catalog da disposiziuns da concessiun facultativas.
 
@@ -282,19 +250,15 @@ Sch'i dat plirs candidats per utilisar la forza idraulica da la medema aua, ha l
 
 <sup>2</sup> In'alienaziun da parts da l'implant ch'èn engrevgiadas da la scadenza da la concessiun durant che la concessiun vala, dovra il consentiment da las vischnancas concessiunaras e dal chantun.
 
-**6**
-
-1-1-2013
-
 <sup>3</sup> Sch'il concessiunari alienescha parts da l'implant ch'èn engrevgiadas da la scadenza da la concessiun senza il consentiment da las vischnancas concessiunaras e dal chantun, ha el da cumpensar il donn a quels.
 
-- 4\. EXECUZIUN DA LA CONCESSIUN
+### 2.4. Execuziun da la concessiun
 
 #### Art. 26
 
 **Collaudaziun dals implants**
 
-Implants idraulics novs e renovads ston vegnir collaudads entaifer 1 onn dapi ch'els èn vegnids mess en funcziun.
+<sup>1</sup> Implants idraulics novs e renovads ston vegnir collaudads entaifer 1 onn dapi ch'els èn vegnids mess en funcziun.
 
 #### Art. 27
 
@@ -312,7 +276,7 @@ Implants idraulics novs e renovads ston vegnir collaudads entaifer 1 onn dapi ch
 
 **Midadas vi dals implants**
 
-Tut las midadas intenziunadas vi d'implants electrics existents ston vegnir communitgadas a las vischnancas concessiunaras ed a la regenza avant che cumenzar cun ellas.
+<sup>1</sup> Tut las midadas intenziunadas vi d'implants electrics existents ston vegnir communitgadas a las vischnancas concessiunaras ed a la regenza avant che cumenzar cun ellas.
 
 #### Art. 29
 
@@ -323,7 +287,6 @@ Tut las midadas intenziunadas vi d'implants electrics existents ston vegnir comm
 <sup>2</sup> La regenza è – en enclegientscha cun las vischnancas concessiunaras e suenter avair consultà il concessiunari – autorisada da tut temp:
 
 - a) d'ordinar in'examinaziun dals implants en il senn da l'alinea 1;
-
 - b) d'ordinar las mesiras necessarias per restabilir e per mantegnair il stadi prescrit en l'alinea 1 ed eventualmain er d'ordinar execuziuns d'uffizi sin ils custs dal concessiunari.
 
 #### Art. 30
@@ -334,15 +297,11 @@ Tut las midadas intenziunadas vi d'implants electrics existents ston vegnir comm
 
 <sup>2</sup> La participaziun finanziala vegn calculada sin fundament d'in plan da tschains e d'amortisaziun stipulà cun il concessiunari.
 
-**7**
-
-1-1-2013
-
 <sup>3</sup> Las vischnancas ed il chantun pon ordinar communablamain la renovaziun da l'implant.
 
 <sup>4</sup> Sch'i vegnan ordinadas renovaziuns en il senn da l'alinea 1, han las vischnancas ed il chantun da sa participar a las investiziuns. L'alinea 2 vala confurm al senn.
 
-- 5\. PRESTAZIUNS DAL CONCESSIUNARI
+### 2.5. Prestaziuns dal concessiunari
 
 #### Art. 31
 
@@ -350,7 +309,7 @@ Tut las midadas intenziunadas vi d'implants electrics existents ston vegnir comm
 
 <sup>1</sup> Cun dar, cun midar e cun transferir las concessiuns èn las vischnancas autorisadas d'incassar ina taxa da concessiun unica.
 
-<sup>2</sup>[^31-1]Quella importa 30 fin 80 pertschient dal tschains d'aua debità annualmain a las vischnancas concessiunaras en il cas che la forza idraulica concedida vegn utilisada cumplettamain. Ella po vegnir fixada tenor liber appreziar, sch'i na vegnan debitads nagins tschains d'aua.
+<sup>2</sup> Quella importa 30 fin 80 pertschient dal tschains d'aua debità annualmain a las vischnancas concessiunaras en il cas che la forza idraulica concedida vegn utilisada cumplettamain. Ella po vegnir fixada tenor liber appreziar, sch'i na vegnan debitads nagins tschains d'aua.
 
 <sup>3</sup> En cas da concessiuns d'implants da pumpadi sto vegnir pajada a las vischnancas ina taxa da concessiun da 3 fin 6 francs per kilowat da la prestaziun da la pumpa installada. La regenza po adattar questas tariffas a las relaziuns midadas.
 
@@ -361,8 +320,6 @@ Tut las midadas intenziunadas vi d'implants electrics existents ston vegnir comm
 <sup>6</sup> Sch'i vegn fixada in'autra durada da la concessiun sco quella numnada en l'artitgel 23 alineas 1 e 2, vegnan calculadas las taxas da concessiun e dal stadi tenor la divergenza da la durada.
 
 <sup>7</sup> Per prolungar termins da construcziun pon las vischnancas ed il chantun incassar ina taxa, e quai independentamain in da l'auter. Quella importa fin 20 pertschient dal tschains d'aua debità annualmain tenor il dretg federal e sto vegnir pajada per onn ch'il termin da construcziun è vegnì prolungà.
-
-[^31-1]: versiun tenor il conclus dal pievel dals 7 da favrer 1999; vesair A tar l'art. 11 al. 1 8 1-1-2013
 
 #### Art. 32
 
@@ -380,15 +337,11 @@ Tut las midadas intenziunadas vi d'implants electrics existents ston vegnir comm
 
 <sup>2</sup> Il tschains d'aua e la taglia sin ovras idraulicas vegnan calculads tenor las disposiziuns dal dretg federal. L'eruida da la prestaziun brutta, per la quala i exista in'obligaziun da pajar taxas po er sa basar sin l'energia electrica producida. En quest cas ston dentant vegnir quintadas vitiers las quantitads d'aua utilisablas e la pendenza.
 
-<sup>3</sup>[^33-1]Il tschains d'aua che las vischnancas fixeschan na dastga betg surpassar la mesadad dal maximum dal tschains d'aua respectiv tenor il dretg federal.
+<sup>3</sup> Il tschains d'aua che las vischnancas fixeschan na dastga betg surpassar la mesadad dal maximum dal tschains d'aua respectiv tenor il dretg federal.
 
-<sup>4</sup>[^33-2]Il chantun incassa ina taglia sin ovras idraulicas en la dimensiun da la mesadad dal maximum dal tschains d'aua respectiv tenor il dretg federal.
+<sup>4</sup> Il chantun incassa ina taglia sin ovras idraulicas en la dimensiun da la mesadad dal maximum dal tschains d'aua respectiv tenor il dretg federal.
 
-<sup>5</sup>[^33-3]La part dal tschains d'aua che sto vegnir consegnada a la confederaziun per garantir las prestaziuns da gulivaziun per perditas da l'utilisaziun da la forza idraulica pajan las vischnancas cun il dretg dal tschains d'aua ed il chantun mez per in.
-
-[^33-1]: versiun tenor il conclus dal pievel dals 7 da favrer 1999; vesair A tar l'art. 11 al. 1
-[^33-2]: versiun tenor il conclus dal pievel dals 7 da favrer 1999; vesair A tar l'art. 11 al. 1
-[^33-3]: integraziun tenor conclus dal pievel dals 7 da favrer 1999; vesair A tar l'art. 11 al. 1 1-1-2013 9
+<sup>5</sup> La part dal tschains d'aua che sto vegnir consegnada a la confederaziun per garantir las prestaziuns da gulivaziun per perditas da l'utilisaziun da la forza idraulica pajan las vischnancas cun il dretg dal tschains d'aua ed il chantun mez per in.
 
 #### Art. 34
 
@@ -408,7 +361,7 @@ Tut las midadas intenziunadas vi d'implants electrics existents ston vegnir comm
 
 **Pussaivladads da reducziun**
 
-Sch'il manaschi d'in implant electric vegn restrenschì considerablamain per consequenza da lavurs da renovaziun, po il chantun – sin dumonda motivada – reducir transitoricamain en moda adequata tant la taglia sin ovras idraulicas sco er sia part da la taglia sin implants da pumpadi .
+<sup>1</sup> Sch'il manaschi d'in implant electric vegn restrenschì considerablamain per consequenza da lavurs da renovaziun, po il chantun – sin dumonda motivada – reducir transitoricamain en moda adequata tant la taglia sin ovras idraulicas sco er sia part da la taglia sin implants da pumpadi .
 
 #### Art. 36
 
@@ -426,15 +379,15 @@ Sch'il manaschi d'in implant electric vegn restrenschì considerablamain per con
 
 <sup>2</sup> La regenza regla ils detagls.
 
-- 6\. FIN DA LA CONCESSIUN
+[^37-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
 
-[^37-1]: DG 720.000 10 1-1-2013
+### 2.6. Fin da la concessiun
 
 #### Art. 38
 
 **Scadenza ordinaria**
 
-La concessiun scada senza auter cun la scadenza da la durada da la concessiun.
+<sup>1</sup> La concessiun scada senza auter cun la scadenza da la durada da la concessiun.
 
 #### Art. 39
 
@@ -443,11 +396,8 @@ La concessiun scada senza auter cun la scadenza da la durada da la concessiun.
 <sup>1</sup> En enclegientscha cun las vischnancas concessiunaras po la concessiun vegnir declerada da la regenza sco persa, sch'il concessiunari:
 
 - a) manchenta ils termins imponids ad el tras la concessiun, cunzunt per il mussament da finanzas, per il certificat d'assicuranza sco er per la construcziun e per metter en funcziun l'implant electric;
-
 - b) tralascha las lavurs da mantegniment prescrittas tenor la lescha e tenor contract;
-
 - c) na tegna betg en funcziun in implant electric existent durant 2 onns;
-
 - d) violescha grevamain obligaziuns impurtantas, malgrà ch'el è vegnì admonì.
 
 <sup>2</sup> Las vischnancas concessiunaras pon permetter – cun l'approvaziun da la regenza – prolungaziuns adequatas dals termins.
@@ -471,11 +421,8 @@ La concessiun scada senza auter cun la scadenza da la durada da la concessiun.
 <sup>2</sup> La cunvegna da recumpra sto cuntegnair almain il suandant:
 
 - a) il termin da la recumpra;
-
 - b) l'indemnisaziun da la recumpra u criteris detagliads per eruir ina tala;
-
 - c) il termin da la preannunzia per la decleraziun concernent l'execuziun da la recumpra; quel sto importar almain 5 onns;
-
 - d) en cas che pliras vischnancas èn participadas: il quorum necessari per executar il dretg da recumpra.
 
 <sup>3</sup> Las parts da pliras vischnancas vegnan calculadas tenor lur parts vi da la forza idraulica dada. La part dal chantun correspunda a la mesadad da la cumproprietad.
@@ -485,10 +432,6 @@ La concessiun scada senza auter cun la scadenza da la durada da la concessiun.
 **Return a la proprietaria**
 
 <sup>1</sup> Sche la concessiun va a fin tras la scadenza da sia durada, tras scadenza u tras renunzia, turnan ils implants ch'èn vegnids construids sin terren public u privat per accumular, ed enchaschar, per manar vitiers u per deviar l'aua u per metter en circulaziun l'aua, las turbinas e las pumpas, inclusiv ils edifizis, en ils quals ellas sa chattan, las parts accessoricas, ils bains immobigliars che servan al manaschi da l'implant ed ils dretgs a bains immobigliars esters, gratuitamain e libers da chargias mez e mez al chantun ed a las vischnancas.
-
-**11**
-
-1-1-2013
 
 <sup>2</sup> Il mument da la scadenza da la concessiun han las vischnancas concessiunaras ed il chantun il dretg da surpigliar – cunter ina indemnisaziun adequata – ils implants destinads per producir e per transportar l'energia electrica sco er ils bajetgs da servetsch ed ils edifizis d'administraziun. Il concessiunari po pretender da surpigliar quests implants, sche quels pon vegnir utilisads cunvegnentamain per l'ulteriura utilisaziun da la forza idraulica.
 
@@ -516,10 +459,6 @@ La concessiun scada senza auter cun la scadenza da la durada da la concessiun.
 
 <sup>3</sup> Il departament cumpetent e las vischnancas pon prender invista da las actas da taglia dals concessiunaris.
 
-**12**
-
-1-1-2013
-
 #### Art. 45
 
 **Indemnisaziun per la renunzia da surpigliar ils implants**
@@ -540,9 +479,9 @@ La concessiun scada senza auter cun la scadenza da la durada da la concessiun.
 
 **Mesiras provisoricas**
 
-Sche las modalitads per utilisar la forza idraulica n'èn anc betg fixadas areguard la scadenza d'ina concessiun, prenda la regenza – suenter avair consultà d'uffizi las vischnancas u sin ina dumonda correspundenta – las mesiras provisoricas che permettan da cuntinuar cun il manaschi e che survegnan in stadi effectiv u legal u che mantegnan interess periclitads.
+<sup>1</sup> Sche las modalitads per utilisar la forza idraulica n'èn anc betg fixadas areguard la scadenza d'ina concessiun, prenda la regenza – suenter avair consultà d'uffizi las vischnancas u sin ina dumonda correspundenta – las mesiras provisoricas che permettan da cuntinuar cun il manaschi e che survegnan in stadi effectiv u legal u che mantegnan interess periclitads.
 
-- 7\. RENOVAZIUNS DA LA CONCESSIUN
+### 2.7. Renovaziuns da la concessiun
 
 #### Art. 48
 
@@ -554,9 +493,7 @@ Sche las modalitads per utilisar la forza idraulica n'èn anc betg fixadas aregu
 
 <sup>3</sup> Sch'il concessiunari actual inoltrescha almain 10 onns avant che la concessiun scada ina dumonda da concessiun, han las vischnancas concessiunaras da decider entaifer 2 onns, sch'ellas èn prontas d'entrar en la dumonda da renovaziun. Sch'ellas n'observan betg quest termin, vegn la durada da la concessiun existenta prolungada per la durada dal surpassament dal termin.
 
-**13**
-
-1-1-2013 8. PROCEDURA
+### 2.8. Procedura
 
 #### Art. 49
 
@@ -568,7 +505,7 @@ Sche las modalitads per utilisar la forza idraulica n'èn anc betg fixadas aregu
 
 <sup>3</sup> Ils proprietaris da bains immobigliars èn obligads da tolerar l'execuziun da talas lavurs preparatoricas. Donns e disturbis che resultan eventualmain ston vegnir indemnisads cumplainamain. Sch'igl è necessari vegn quai fixà en la procedura tenor la lescha d'expropriaziun dal chantun Grischun[^49-1].
 
-[^49-1]: DG 803.100 14 1-1-2013
+[^49-1]: DG [803.100](https://www.gr-lex.gr.ch/data/803.100/rm)
 
 #### Art. 50
 
@@ -610,12 +547,10 @@ Sche las modalitads per utilisar la forza idraulica n'èn anc betg fixadas aregu
 
 **c) legitimaziun da far protesta**
 
-Legitimads da far protesta èn:
+<sup>1</sup> Legitimads da far protesta èn:
 
 - a) tgi ch'è pertutgà dal project da concessiun ed ha in interess degn da vegnir protegì da realisar, impedir u midar quel;
-
 - b) las vischnancas pertutgadas;
-
 - c) organisaziuns per la protecziun da l'ambient ch'èn tenor il dretg federal autorisadas da far protesta, sch'ellas han la pussaivladad da far ina protesta da dretg administrativ cunter la decisiun chantunala en l'ultima instanza tar la dretgira federala en chaussa.
 
 #### Art. 55
@@ -634,20 +569,17 @@ Legitimads da far protesta èn:
 
 **e) exposiziun publica da la decisiun d'approvaziun, meds legals**
 
-<sup>1</sup>[^56-1]La decisiun d'approvaziun da la concessiun, il rapport ecologic sco er il giudicament dal post chantunal spezialisà per la protecziun da l'ambient vegnan exponids publicamain durant 30 dis tar il departament cumpetent. Resalvadas restan las obligaziuns legalas dal secret professiunal sco er il dretg da prender invista da las actas da las persunas legitimadas da far recurs.
+<sup>1</sup> La decisiun d'approvaziun da la concessiun, il rapport ecologic sco er il giudicament dal post chantunal spezialisà per la protecziun da l'ambient vegnan exponids publicamain durant 30 dis tar il departament cumpetent. Resalvadas restan las obligaziuns legalas dal secret professiunal sco er il dretg da prender invista da las actas da las persunas legitimadas da far recurs.
 
 <sup>2</sup> L'exposiziun sto vegnir publitgada en il fegl uffizial dal chantun, inditgond las ulteriuras permissiuns ch'èn eventualmain vegnidas concedidas.
 
-<sup>3</sup>[^56-2]Cunter la decisiun d'approvaziun da la concessiun po vegnir fatg recurs entaifer 30 dis tar la dretgira administrativa. Il dretg da recurs cumpeta er a las vischnancas.
-
-[^56-1]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3325; entrà en vigur il 1. da schaner 2007 1-1-2013 15
-[^56-2]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3325; entrà en vigur il 1. da schaner 2007
+<sup>3</sup> Cunter la decisiun d'approvaziun da la concessiun po vegnir fatg recurs entaifer 30 dis tar la Dretgira superiura. Il dretg da recurs cumpeta er a las vischnancas.
 
 #### Art. 57
 
 **4. procedura d'approvaziun dal project a) dumonda, inoltraziun, meds legals**
 
-Per inoltrar, per exponer publicamain e per publitgar la dumonda d'approvaziun dal project sco er areguard la pussaivladad da far protesta valan ils artitgels 52 e 53 alineas 1 fin 3 confurm al senn. La legitimaziun da far protesta sa drizza tenor l'artitgel 54.
+<sup>1</sup> Per inoltrar, per exponer publicamain e per publitgar la dumonda d'approvaziun dal project sco er areguard la pussaivladad da far protesta valan ils artitgels 52 e 53 alineas 1 fin 3 confurm al senn. La legitimaziun da far protesta sa drizza tenor l'artitgel 54.
 
 #### Art. 58
 
@@ -661,7 +593,7 @@ Per inoltrar, per exponer publicamain e per publitgar la dumonda d'approvaziun d
 
 **c) exposiziun publica, meds legals**
 
-Areguard l'exposiziun publica da la decisiun d'approvaziun dal project e da la procedura da meds legals vala l'artitgel 56 confurm al senn.
+<sup>1</sup> Areguard l'exposiziun publica da la decisiun d'approvaziun dal project e da la procedura da meds legals vala l'artitgel 56 confurm al senn.
 
 #### Art. 60
 
@@ -673,51 +605,81 @@ Areguard l'exposiziun publica da la decisiun d'approvaziun dal project e da la p
 
 <sup>3</sup> La procedura e l'obligaziun d'indemnisaziun sa drizzan tenor la lescha federala davart l'expropriaziun.[^60-1]
 
-[^60-1]: CS 711 16 1-1-2013
+[^60-1]: CS [711](https://db.clex.ch/link/Bund/711/rm)
 
-### III. Provediment cun energia electrica
-
-[^hIIIProvedimentcun-1]: abolì tenor l'art. 19 da la lescha davart il provediment d'electricitad, DG 812.100; entrà en vigur il 1. da settember 2009
+## 3. Provediment cun energia electrica
 
 #### Art. 61
 
-**– 71[^hIIIProvedimentcun-1]**
+**…**
 
-[^61-1]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3325; entrà en vigur il 1. da schaner 2007
+#### Art. 62
 
-### IV. Disposiziuns penalas
+**…**
 
-[^61-1]
+#### Art. 63
 
-[^hIVDisposiziunspen-1]: abolì tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3325; entrà en vigur il 1. da schaner 2007
+**…**
+
+#### Art. 64
+
+**…**
+
+#### Art. 65
+
+**…**
+
+#### Art. 66
+
+**…**
+
+#### Art. 67
+
+**…**
+
+#### Art. 68
+
+**…**
+
+#### Art. 69
+
+**…**
+
+#### Art. 70
+
+**…**
+
+#### Art. 71
+
+**…**
+
+## 4. Disposiziuns penalas
 
 #### Art. 72
 
-[^hIVDisposiziunspen-1]
-
-[^72-1]: abolì tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3325; entrà en vigur il 1. da schaner 2007
+**…**
 
 #### Art. 73
 
-[^72-1]
-
-[^73-1]: abolì tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3325; entrà en vigur il 1. da schaner 2007
+**…**
 
 #### Art. 74
 
-[^73-1]
+**…**
 
 #### Art. 75
 
-**penalas a) multas**
+**1. disposiziuns penalas a) multas**
 
-<sup>1</sup> Cuntravenziuns cunter la lescha qua avant maun, cunter sias disposiziuns[^75-1] <sup>)</sup>1. disposiziuns executivas e cunter las disposiziuns e decisiuns che sa basan sin quellas, vegnan chastiadas da la regenza cun ina multa da fin 100 000 francs.
+<sup>1</sup> Cuntravenziuns cunter la lescha qua avant maun, cunter sias disposiziuns executivas e cunter las disposiziuns e decisiuns che sa basan sin quellas, vegnan chastiadas dal departament ch'è cumpetent per l'utilisaziun da la forza idraulica cun ina multa da fin 100 000 francs.
 
 <sup>2</sup> Cuntravenziuns per negligientscha, l'emprova e la cumplicitad èn chastiablas.
 
-<sup>3</sup> Resalvà resta il dretg da la regenza da declerar la concessiun sco persa, sco er il dretg da l'execuziun d'uffizi.
+<sup>3</sup> En cas levs poi vegnir desistì d'in chasti.
 
-[^75-1]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3325; entrà en vigur il 1. da schaner 2007 1-1-2013 17
+<sup>4</sup> La procedura sa drizza tenor las disposiziuns da la lescha davart la giurisdicziun administrativa.
+
+<sup>5</sup> Resalvà resta il dretg da la regenza da declerar la concessiun sco persa, sco er il dretg da l'execuziun d'uffizi.
 
 #### Art. 76
 
@@ -729,51 +691,45 @@ Areguard l'exposiziun publica da la decisiun d'approvaziun dal project e da la p
 
 #### Art. 77
 
-**1 )2. execuziun d'uffizi**
+**2. execuziun d'uffizi**
 
-Sche implants èn vegnids construids senza resguardar la lescha, sias disposiziuns executivas e las disposiziuns e decisiuns che sa basan sin quellas, po la regenza laschar allontanar quel sco er laschar restabilir il stadi d'origin, e quai a cust dal chaschunader.
+<sup>1</sup> Sche implants èn vegnids construids senza resguardar la lescha, sias disposiziuns executivas e las disposiziuns e decisiuns che sa basan sin quellas, po la regenza laschar allontanar quel sco er laschar restabilir il stadi d'origin, e quai a cust dal chaschunader.
 
-### V. Disposiziuns finalas
+## 5. Disposiziuns finalas
 
 #### Art. 78
 
 **1. disposiziuns executivas**
 
-Il cussegl grond relascha las disposiziuns executivas necessarias tar questa lescha[^78-1]. Quellas entran en vigur il medem mument sco la lescha.
+<sup>1</sup> Il cussegl grond relascha las disposiziuns executivas necessarias tar questa lescha[^78-1]. Quellas entran en vigur il medem mument sco la lescha.
 
-[^78-1]: DG 810.110
+[^78-1]: DG [810.110](https://www.gr-lex.gr.ch/data/810.110/rm)
 
 #### Art. 79
 
 **2. aboliziun dal dretg vertent**
 
-La lescha concernent l'utilisaziun da las auas publicas dal chantun Grischun per construir ovras idraulicas dals 18 da mars 1906[^79-1] vegn abolida.
+<sup>1</sup> La lescha concernent l'utilisaziun da las auas publicas dal chantun Grischun per construir ovras idraulicas dals 18 da mars 1906[^79-1] vegn abolida.
 
 [^79-1]: vDG 1018 e midadas en la CUL tenor il register da materias dal DG
 
 #### Art. 80
 
-**3. midada da relaschs**
+**3. midada da relaschs[^80-1]**
 
-La lescha da vischnancas da l'avrigl 1974[^80-1] vegn midada sco suonda: art. 9 lit. f:
-
-- f) dar e midar essenzialmain concessiuns per utilisar las auas, conceder auters dretgs d'utilisaziun speziala ed exequir il dretg da scadenza da la concessiun en il senn da la legislaziun davart il dretg da las auas; art. 10 lit. d:
-
-- d) dar e midar essenzialmain concessiuns per utilisar las auas, conceder auters dretgs d'utilisaziun speziala cun ina durada da passa 30 onns sco er exequir il dretg da scadenza da la concessiun en il senn da la legislaziun davart il dretg da las auas;
-
-[^80-1]: DG 175.050 18 1-1-2013
+[^80-1]: Las midadas dal dretg vertent na vegnan betg inditgadas.
 
 #### Art. 81
 
 **4. disposiziuns transitoricas a) concessiuns anc betg dadas**
 
-Cun l'entrada en vigur da questa lescha ston tut ils projects che dovran ina concessiun, davart la quala las autoritads da concessiun n'han anc betg decidì, vegnir giuditgads tenor las disposiziuns novas.
+<sup>1</sup> Cun l'entrada en vigur da questa lescha ston tut ils projects che dovran ina concessiun, davart la quala las autoritads da concessiun n'han anc betg decidì, vegnir giuditgads tenor las disposiziuns novas.
 
 #### Art. 82
 
 **b) concessiuns existentas**
 
-Questa lescha vegn applitgada per concessiuns existentas, sch'i na vegnan betg violads tras quai dretgs bain acquistads.
+<sup>1</sup> Questa lescha vegn applitgada per concessiuns existentas, sch'i na vegnan betg violads tras quai dretgs bain acquistads.
 
 #### Art. 83
 
@@ -787,23 +743,20 @@ Questa lescha vegn applitgada per concessiuns existentas, sch'i na vegnan betg v
 
 **d) obligaziun d'avair in'assicuranza**
 
-L'attest d'assicuranza tenor l'artitgel 27 alinea 2 sto vegnir cumprovà per ovras existentas e per ovras en construcziun entaifer 2 onns dapi che la lescha è entrada en vigur.
+<sup>1</sup> L'attest d'assicuranza tenor l'artitgel 27 alinea 2 sto vegnir cumprovà per ovras existentas e per ovras en construcziun entaifer 2 onns dapi che la lescha è entrada en vigur.
 
 #### Art. 85
 
 **e) obligaziun da far ina inventarisaziun**
 
-Tar concessiuns existentas sto l'inventari da las parts da l'implant ch'èn engrevgiadas da la scadenza da la concessiun tenor l'artitgel 25 alinea 1 vegnir inoltrà al departament cumpetent entaifer 2 onns dapi che la lescha è entrada en vigur.
+<sup>1</sup> Tar concessiuns existentas sto l'inventari da las parts da l'implant ch'èn engrevgiadas da la scadenza da la concessiun tenor l'artitgel 25 alinea 1 vegnir inoltrà al departament cumpetent entaifer 2 onns dapi che la lescha è entrada en vigur.
 
 #### Art. 86
 
 **5. entrada en vigur**
 
-Questa lescha vegn messa en vigur[^86-1] da la regenza suenter ch'ella è vegnida acceptada dal pievel.
+<sup>1</sup> Questa lescha vegn messa en vigur[^86-1] da la regenza suenter ch'ella è vegnida acceptada dal pievel.
 
-[^86-1]: messa en vigur cun CR dals 27 da settember 2005 per il 1. da schaner 2006 1-1-2013 19
+[^86-1]: messa en vigur cun CR dals 20 da zercladur 1995 per il 1. da fanadur 1995
 
-## Weitere Fussnoten
-
-- [697] (2. lectura) 1-1-2013 1
-- [1] versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3325; entrà en vigur il 1. da schaner 2007
+-

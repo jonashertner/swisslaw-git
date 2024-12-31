@@ -4,55 +4,52 @@ number: "810.100"
 title: "Legge sui diritti d'acqua del Cantone dei Grigioni"
 short: LGDA
 language: it
-version: 2013-01-01
-corrected: 2014-11-07
-version_adopted: 2012-09-25
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1995-03-12
 in_force: 1995-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/810.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1684/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3420/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sui diritti d'acqua del Cantone dei Grigioni (LGDA)
+# Legge sui diritti d'acqua del Cantone dei Grigioni
 
-accettata dal Popolo il 12 marzo 1995[^t-1]
+(LGDA)
 
-I. Disposizioni generali
+del 12.03.1995 (stato 01.01.2025)
 
-[^t-1]: M 13 giu. 1994, 193. PGC 1994/95, 334 (1a lettura), 697 (2a lettura) 1.1.2013 1
+accettata dal Popolo il 12 marzo 1995[^ingress-1]
+
+[^ingress-1]: M 13 giu. 1994, 193. PGC 1994/95, 334 (1a lettura), 697 (2a lettura)
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
 **Campo d'applicazione**
 
-La presente legge disciplina lo sfruttamento delle acque pubbliche del Cantone dei Grigioni per la produzione di energia elettrica nonché per l'approvvigionamento di corrente elettrica dei comuni e del Cantone.
+<sup>1</sup> La presente legge disciplina lo sfruttamento delle acque pubbliche del Cantone dei Grigioni per la produzione di energia elettrica nonché per l'approvvigionamento di corrente elettrica dei comuni e del Cantone.
 
 #### Art. 2
 
 **Scopo**
 
-La presente legge persegue i seguenti scopi:
+<sup>1</sup> La presente legge persegue i seguenti scopi:
 
 - a) lo sfruttamento razionale della forza idrica indigena nell'interesse dei comuni, delle regioni e del Cantone;
-
 - b) l'ottimizzazione e l'aumento del rendimento delle centrali idroelettriche esistenti;
-
 - c) il potenziamento delle forze idriche, razionale dal profilo economicoenergetico e rispettoso dell'ambiente;
-
 - d) l'approvvigionamento sicuro, sufficiente e di gran lunga autonomo del Cantone con energia ad un prezzo quanto mai conveniente;
-
 - e) il coordinamento degli interessi dei comuni, delle regioni e del Cantone, i quali nel limite del possibile devono essere orientati verso un obiettivo comune, come pure
-
 - f) la regolamentazione delle competenze all'interno del Cantone, nel rispetto dell'autonomia comunale.
 
 #### Art. 3
 
 **Parificazione dei sessi**
 
-Le designazioni di persone e di funzioni contenute nella presente legge si riferiscono ad entrambi i sessi, se non risulta altrimenti dal senso della legge.
+<sup>1</sup> Le designazioni di persone e di funzioni contenute nella presente legge si riferiscono ad entrambi i sessi, se non risulta altrimenti dal senso della legge.
 
 #### Art. 4
 
@@ -66,55 +63,45 @@ Le designazioni di persone e di funzioni contenute nella presente legge si rifer
 
 **Consulenza ai comuni**
 
-<sup>1</sup>[^5-1]Su richiesta dei comuni il Cantone presta loro consulenza in materia di sfruttamento della forza idrica.
+<sup>1</sup> Su richiesta dei comuni il Cantone presta loro consulenza in materia di sfruttamento della forza idrica.
 
 <sup>2</sup> Di regola detta consulenza del Cantone è gratuita.
-
-[^5-1]: Testo giusta art. 19 della legge sull'approvvigionamento elettrico del Cantone dei Grigioni, CSC 812.100; entrata in vigore il 1° settembre 2009
 
 #### Art. 6
 
 **Nozioni**
 
-Nozioni ai sensi della presente legge:
+<sup>1</sup> Nozioni ai sensi della presente legge:
 
 - a) sfruttamento della forza idrica: sfruttamento della forza idrica naturale come pure di quella che viene pompata ad un livello più alto. In questo caso lo sfruttamento ha lo scopo di produrre energia.
-
 - b) stazione di pompaggio: impianto che per mezzo di pompe è in grado di utilizzare ripetutamente l'acqua proveniente da corsi d'acqua pubblici per la produzione di energia elettrica oppure di consentire uno sfruttamento che mira allo stesso scopo e va oltre la forza idrica naturale. Semplici pompe d'alimentazione non sono considerate stazioni di pompaggio.
-
 - c) pompa d'alimentazione: impianto di pompaggio che fa affluire ad una centrale elettrica l'acqua proveniente da acque pubbliche senza che sia reso possibile il suo ripetuto sfruttamento per la produzione di energia elettrica.
-
 - d) canone d'acqua: il contributo per lo sfruttamento dell'acqua che il concessionario deve versare annualmente ai comuni.
-
 - e) imposta sugli impianti idraulici: la tassa dovuta annualmente dal concessionario al Cantone.
-
 - f) potenza lorda: la potenza lorda dinamica media dell'acqua calcolata sulla base del salto e della portata utilizzabili.
+- g) …
 
-- g) ...[^6-1]
+## 2. Sfruttamento della forza idrica
 
-[^6-1]: Abrogazione giusta art. 19 della legge sull'approvvigionamento elettrico del Cantone dei Grigioni, CSC 812.100; entrata in vigore il 1° settembre 2009 2 1.1.2013
-
-### II. Sfruttamento della forza idrica
-
-- 1\. COMPETENZE
+### 2.1. Competenze
 
 #### Art. 7
 
 **Concessione del diritto di sfruttamento**
 
-I comuni possono usare per proprio conto la forza idrica delle loro acque oppure concedere il diritto di sfruttamento mediante il rilascio di una concessione a terzi.
+<sup>1</sup> I comuni possono usare per proprio conto la forza idrica delle loro acque oppure concedere il diritto di sfruttamento mediante il rilascio di una concessione a terzi.
 
 #### Art. 8
 
 **Concessioni connesse**
 
-Per lo sfruttamento di un corso d'acqua pubblico che si trova sul territorio di più comuni è necessario ottenere una concessione da ognuno di questi comuni. Queste concessioni devono concordare tra di loro.
+<sup>1</sup> Per lo sfruttamento di un corso d'acqua pubblico che si trova sul territorio di più comuni è necessario ottenere una concessione da ognuno di questi comuni. Queste concessioni devono concordare tra di loro.
 
 #### Art. 9
 
 **Concessioni per stazioni di pompaggio**
 
-Per la costruzione di una stazione di pompaggio occorre la concessione di quei comuni, sul cui territorio vengono a trovarsi le parti bagnate dell'impianto.
+<sup>1</sup> Per la costruzione di una stazione di pompaggio occorre la concessione di quei comuni, sul cui territorio vengono a trovarsi le parti bagnate dell'impianto.
 
 #### Art. 10
 
@@ -126,20 +113,17 @@ Per la costruzione di una stazione di pompaggio occorre la concessione di quei c
 
 <sup>3</sup> Spettano alla sovrastanza comunale le decisioni relative all'avvio di trattative in vista di rinnovi di concessioni ai sensi dell'articolo 48 capoverso 3.
 
-[^10-1]: Testo giusta decreto popolare del 7 febbraio 1999; M dell'11 ago. 1998; PGC 1998/99, 397
-
 #### Art. 11
 
-**Autorità di approvazione**[^10-1]
+**Autorità di approvazione**
 
 <sup>1</sup> Le concessioni rilasciate dai comuni, come pure loro modifiche o trasferimenti necessitano per essere valide dell'approvazione del Governo. Rimane riservato l'articolo 2bis della Costituzione cantonale.[^11-1] L'approvazione del progetto (art. 58) è effettuata dal Governo.
 
 <sup>2</sup> Parimenti un progetto del comune di utilizzare esso stesso la forza idrica delle sue acque necessita dell'approvazione del Governo.
 
-<sup>3</sup> ...[^11-2]
+<sup>3</sup> …
 
-[^11-1]: CSC 110.100
-[^11-2]: Abrogazione giusta decreto popolare del 7 febbraio 1999; vedi nota art. 11 cpv. 1 1.1.2013 3
+[^11-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 
 #### Art. 12
 
@@ -149,11 +133,9 @@ Per la costruzione di una stazione di pompaggio occorre la concessione di quei c
 
 <sup>2</sup> Il Governo tratta preliminarmente con i comuni e tiene conto in modo adeguato dei vantaggi e degli svantaggi per essi risultanti dal previsto sfruttamento. Esso tiene conto inoltre degli interessi pubblici superiori.
 
-[^12-1]: Abrogazione giusta art. 50 della legge sulla gestione finanziaria, CSC 710.100, entrata in vigore il 1° gennaio 2013 4 1.1.2013
-
 #### Art. 13
 
-[^12-1]
+**…**
 
 #### Art. 14
 
@@ -179,27 +161,26 @@ Per la costruzione di una stazione di pompaggio occorre la concessione di quei c
 
 **Collaudo**
 
-Il collaudo degli impianti idroelettrici è effettuato dal Dipartimento competente.
+<sup>1</sup> Il collaudo degli impianti idroelettrici è effettuato dal Dipartimento competente.
 
 #### Art. 17
 
 **Vigilanza**
 
-La vigilanza sullo sfruttamento delle acque pubbliche incombe al Governo.
+<sup>1</sup> La vigilanza sullo sfruttamento delle acque pubbliche incombe al Governo.
 
-- 2\. LIMITAZIONI ALLO SFRUTTAMENTO
+### 2.2. Limitazioni allo sfruttamento
 
 #### Art. 18
 
 **Riserve a favore dei comuni**
 
-I comuni hanno il diritto di:
+<sup>1</sup> I comuni hanno il diritto di:
 
 - a) durante la costruzione dell'opera, allacciare a proprie spese ad una centrale idroelettrica impianti per l'approvvigionamento di acqua potabile e di acqua per lo spegnimento nonché impianti che servono all'irrigazione;
-
 - b) senza pretesa di indennizzo da parte del concessionario per la quantità d'acqua concessa, e ciò nella misura di bisogni accertati, utilizzare acqua per garantirsi l'approvvigionamento di acqua potabile e, in situazioni straordinarie segnatamente per l'impiego in casi d'incendio come pure a scopo d'irrigazione. Il prelievo di acqua non deve pregiudicare in modo considerevole lo sfruttamento della forza idrica, altrimenti deve essere indennizzato.
 
-- 3\. CONCESSIONARIO E CONTENUTO DELLA CONCESSIONE
+### 2.3. Concessionario e contenuto della concessione
 
 #### Art. 19
 
@@ -215,23 +196,19 @@ I comuni hanno il diritto di:
 
 **Capitale proprio**
 
-Il Governo può pretendere che il capitale proprio del concessionario ammonti al 20 percento delle spese d'investimento.
+<sup>1</sup> Il Governo può pretendere che il capitale proprio del concessionario ammonti al 20 percento delle spese d'investimento.
 
 #### Art. 21
 
 **In caso di più concorrenti**
 
-Tra più concorrenti per lo sfruttamento della forza idrica dello stesso corso d'acqua, il comune deve, all'atto del rilascio come pure del trasferimento di una concessione, dare la preferenza a quel concorrente che meglio tutela gli interessi pubblici e che garantisce lo sfruttamento più razionale.
+<sup>1</sup> Tra più concorrenti per lo sfruttamento della forza idrica dello stesso corso d'acqua, il comune deve, all'atto del rilascio come pure del trasferimento di una concessione, dare la preferenza a quel concorrente che meglio tutela gli interessi pubblici e che garantisce lo sfruttamento più razionale.
 
 #### Art. 22
 
 **Diritto di partecipazione**
 
 <sup>1</sup> Il Cantone ed i comuni concedenti hanno il diritto di partecipare a società idroelettriche.
-
-**5**
-
-1.1.2013
 
 <sup>2</sup> Ai comuni al momento del rilascio, della modifica, del trasferimento di concessioni e al Cantone al momento della loro approvazione, deve essere data la possibilità di partecipare alla società, anche senza l'obbligo di acquistare energia contro assunzione dei costi annui.
 
@@ -242,25 +219,15 @@ Tra più concorrenti per lo sfruttamento della forza idrica dello stesso corso d
 <sup>1</sup> Ogni concessione stabilisce:
 
 - a) la persona e la sede del concessionario;
-
 - b) l'estensione del diritto di sfruttamento concesso;
-
 - c) il deflusso minimo che deve essere rispettato;
-
 - d) la durata della concessione;
-
 - e) la rappresentanza dell'ente pubblico nell'amministrazione del concessionario;
-
 - f) gli impianti più importanti;
-
 - g) le prestazioni economiche imposte al concessionario;
-
 - h) l'obbligo di assicurazione del concessionario;
-
 - i) le scadenze per l'inizio dei lavori di costruzione o di trasformazione come pure per la messa in esercizio della centrale elettrica;
-
 - k) la riversione;
-
 - l) il ricupero, se questo è stato pattuito dalle parti.
 
 <sup>2</sup> L‘ordinanza regolamenta i particolari. Questa contiene inoltre un catalogo delle disposizioni facoltative della concessione.
@@ -283,19 +250,15 @@ Tra più concorrenti per lo sfruttamento della forza idrica dello stesso corso d
 
 <sup>2</sup> Un'alienazione di parti d'impianto gravate da riversione durante la durata corrente di una concessione necessita dell'approvazione dei comuni concedenti e del Cantone.
 
-**6**
-
-1.1.2013
-
 <sup>3</sup> Se il concessionario aliena parti d'impianto gravate da riversione senza l'approvazione dei comuni concedenti e del Cantone è tenuto a risarcire questi del danno.
 
-- 4\. ESERCIZIO DELLA CONCESSIONE
+### 2.4. Esercizio della concessione
 
 #### Art. 26
 
 **Collaudo degli impianti**
 
-Gli impianti idroelettrici nuovi o trasformati devono essere collaudati entro un anno dalla loro messa in esercizio.
+<sup>1</sup> Gli impianti idroelettrici nuovi o trasformati devono essere collaudati entro un anno dalla loro messa in esercizio.
 
 #### Art. 27
 
@@ -313,7 +276,7 @@ Gli impianti idroelettrici nuovi o trasformati devono essere collaudati entro un
 
 **Modifiche agli impianti**
 
-Tutte le modifiche previste a centrali idroelettriche esistenti devono essere portate a conoscenza dei comuni concedenti e del Governo prima della loro esecuzione.
+<sup>1</sup> Tutte le modifiche previste a centrali idroelettriche esistenti devono essere portate a conoscenza dei comuni concedenti e del Governo prima della loro esecuzione.
 
 #### Art. 29
 
@@ -324,12 +287,7 @@ Tutte le modifiche previste a centrali idroelettriche esistenti devono essere po
 <sup>2</sup> Il Governo è autorizzato in ogni momento, d'intesa con i comuni concedenti e dopo aver ascoltato il concessionario, a:
 
 - a) ordinare un controllo degli impianti ai sensi del capoverso 1;
-
 - b) disporre le misure necessarie alla costituzione e al mantenimento dello stato prescritto al capoverso 1 ed eventualmente anche a decretare esecuzioni d'ufficio a spese del concessionario.
-
-**7**
-
-1.1.2013
 
 #### Art. 30
 
@@ -343,7 +301,7 @@ Tutte le modifiche previste a centrali idroelettriche esistenti devono essere po
 
 <sup>4</sup> Se vengono ordinati dei rinnovi ai sensi del capoverso 1, i comuni e il Cantone devono partecipare agli investimenti. Il capoverso 2 fa stato per analogia.
 
-- 5\. PRESTAZIONI DEL CONCESSIONARIO
+### 2.5. Prestazioni del concessionario
 
 #### Art. 31
 
@@ -351,7 +309,7 @@ Tutte le modifiche previste a centrali idroelettriche esistenti devono essere po
 
 <sup>1</sup> I comuni sono autorizzati all'atto del rilascio, della modifica e del trasferimento di concessioni, a riscuotere una tassa unica di concessione.
 
-<sup>2</sup>[^31-1]Questa ammonta dal trenta all'ottanta percento del canone d'acqua dovuto annualmente ai comuni concedenti in caso di sfruttamento completo della forza idrica concessa. Essa deve essere fissata a discrezione, se non sono dovuti canoni d'acqua.
+<sup>2</sup> Questa ammonta dal trenta all'ottanta percento del canone d'acqua dovuto annualmente ai comuni concedenti in caso di sfruttamento completo della forza idrica concessa. Essa deve essere fissata a discrezione, se non sono dovuti canoni d'acqua.
 
 <sup>3</sup> In caso di concessioni per stazioni di pompaggio si deve versare ai comuni una tassa di concessione da tre a sei franchi per Kilowatt di potenza installata delle pompe. Il Governo può adeguare queste aliquote alle mutate condizioni.
 
@@ -362,8 +320,6 @@ Tutte le modifiche previste a centrali idroelettriche esistenti devono essere po
 <sup>6</sup> Se viene fissata una durata della concessione diversa da quella prevista all'articolo 24 capoversi 1 e 2, la tassa di concessione e la tassa di Stato si calcolano conformemente alla durata di validità derogatoria.
 
 <sup>7</sup> Per la proroga di termini di costruzione i comuni e il Cantone possono indipendentemente l'uno dall'altro riscuotere una tassa. Questa ammonta fino al 20 percento del canone d'acqua annuale dovuto giusta il diritto federale e deve essere versata per ogni anno di proroga del termine di costruzione.
-
-[^31-1]: Testo giusta decreto popolare del 7 febbraio 1999; vedi nota art. 11 cpv. 1 8 1.1.2013
 
 #### Art. 32
 
@@ -381,15 +337,11 @@ Tutte le modifiche previste a centrali idroelettriche esistenti devono essere po
 
 <sup>2</sup> Canone d'acqua e imposta sugli impianti idraulici sono calcolati secondo le norme del diritto federale. L'accertamento della potenza lorda soggetta a tassazione può basarsi anche sull'energia elettrica prodotta. In questo caso tuttavia si devono aggiungere le portate utilizzabili e il salto, che malgrado la concessione non vengono utilizzati.
 
-<sup>3</sup>[^33-1]Il canone d'acqua fissato dai comuni non può superare la metà del corrispondente canone d'acqua massimo previsto dal diritto federale.
+<sup>3</sup> Il canone d'acqua fissato dai comuni non può superare la metà del corrispondente canone d'acqua massimo previsto dal diritto federale.
 
-<sup>4</sup>[^33-2]Il Cantone riscuote un'imposta sugli impianti idraulici che ammonta alla metà del corrispondente canone d'acqua massimo previsto dal diritto federale.
+<sup>4</sup> Il Cantone riscuote un'imposta sugli impianti idraulici che ammonta alla metà del corrispondente canone d'acqua massimo previsto dal diritto federale.
 
-<sup>5</sup>[^33-3]La quota del canone d'acqua che deve essere consegnata alla Confederazione per garantire le prestazioni compensative per le perdite dovute alla mancata utilizzazione della forza idrica, viene assunta in ragione della metà dai comuni aventi diritto al canone d'acqua e dal Cantone.
-
-[^33-1]: Testo giusta decreto popolare del 7 feb. 1999; vedi nota art. 11 cpv. 1
-[^33-2]: Testo giusta decreto popolare del 7 feb. 1999; vedi nota art. 11 cpv. 1
-[^33-3]: Introduzione giusta decreto popolare del 7 feb. 1999; vedi nota art. 11 cpv. 1 1.1.2013 9
+<sup>5</sup> La quota del canone d'acqua che deve essere consegnata alla Confederazione per garantire le prestazioni compensative per le perdite dovute alla mancata utilizzazione della forza idrica, viene assunta in ragione della metà dai comuni aventi diritto al canone d'acqua e dal Cantone.
 
 #### Art. 34
 
@@ -409,7 +361,7 @@ Tutte le modifiche previste a centrali idroelettriche esistenti devono essere po
 
 **Possibilità di riduzione**
 
-Se l'esercizio di una centrale idroelettrica risulta notevolmente pregiudicato in seguito a lavori di rinnovo, il Cantone può, su richiesta motivata, ridurre temporaneamente in modo adeguato sia l'imposta sugli impianti idraulici sia la sua quota dell'imposta sulle stazioni di pompaggio.
+<sup>1</sup> Se l'esercizio di una centrale idroelettrica risulta notevolmente pregiudicato in seguito a lavori di rinnovo, il Cantone può, su richiesta motivata, ridurre temporaneamente in modo adeguato sia l'imposta sugli impianti idraulici sia la sua quota dell'imposta sulle stazioni di pompaggio.
 
 #### Art. 36
 
@@ -427,15 +379,15 @@ Se l'esercizio di una centrale idroelettrica risulta notevolmente pregiudicato i
 
 <sup>2</sup> Il Governo regolamenta i particolari.
 
-- 6\. FINE DELLA CONCESSIONE
+[^37-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
 
-[^37-1]: CSC 720.000 10 1.1.2013
+### 2.6. Fine della concessione
 
 #### Art. 38
 
 **Scadenza ordinaria**
 
-La concessione si estingue automaticamente allo scadere della durata convenuta della stessa.
+<sup>1</sup> La concessione si estingue automaticamente allo scadere della durata convenuta della stessa.
 
 #### Art. 39
 
@@ -444,11 +396,8 @@ La concessione si estingue automaticamente allo scadere della durata convenuta d
 <sup>1</sup> La concessione può essere dichiarata decaduta dal Governo d'intesa con i comuni concedenti, se il concessionario:
 
 - a) trascura le scadenze impostegli dalla concessione, segnatamente per la giustificazione finanziaria, il certificato d'assicurazione nonché per la costruzione e la messa in esercizio dell'impianto;
-
 - b) omette i lavori di manutenzione previsti dalla legge e dal contratto;
-
 - c) non mantiene in esercizio una centrale esistente per due anni;
-
 - d) viola gravemente importanti doveri nonostante ammonimento.
 
 <sup>2</sup> I comuni concedenti possono accordare, con l'approvazione del Governo, adeguate proroghe delle scadenze.
@@ -472,18 +421,11 @@ La concessione si estingue automaticamente allo scadere della durata convenuta d
 <sup>2</sup> La convenzione di ricupero deve presentare il contenuto minimo seguente:
 
 - a) il termine di ricupero;
-
 - b) l'indennizzo di ricupero oppure criteri dettagliati per la sua determinazione;
-
 - c) il termine di preavviso per la dichiarazione concernente l'esercizio del ricupero, dovendo questo essere di almeno cinque anni;
-
 - d) in caso di partecipazione di più comuni: il quorum richiesto per l'esercizio del diritto di ricupero.
 
 <sup>3</sup> Le quote di più comuni si determinano secondo le loro aliquote nella forza idrica concessa. L'aliquota del Cantone corrisponde alla metà della comproprietà.
-
-**11**
-
-1.1.2013
 
 #### Art. 42
 
@@ -513,13 +455,7 @@ La concessione si estingue automaticamente allo scadere della durata convenuta d
 
 <sup>1</sup> La determinazione dell'indennizzo in caso di riversione di impianti di produzione e trasmissione di energia elettrica è di competenza dei comuni, del Cantone e del concessionario. Questa deve essere eseguita secondo i criteri generali di valutazione aziendale riconosciuti al momento.
 
-<sup>2</sup> Su richiesta del Cantone e dei comuni il concessionario deve in qualsiasi momento mettere a disposizione tutta la documentazione e le informa-
-
-**12**
-
-**13**
-
-1.1.2013 zioni, quali i conteggi annuali di ammortamento, di accantonamento in vista della riversione e di rinnovo, necessarie al calcolo dell'indennizzo.
+<sup>2</sup> Su richiesta del Cantone e dei comuni il concessionario deve in qualsiasi momento mettere a disposizione tutta la documentazione e le informazioni, quali i conteggi annuali di ammortamento, di accantonamento in vista della riversione e di rinnovo, necessarie al calcolo dell'indennizzo.
 
 <sup>3</sup> Gli atti fiscali dei concessionari sono accessibili al Dipartimento competente e ai comuni per una presa in visione.
 
@@ -543,9 +479,9 @@ La concessione si estingue automaticamente allo scadere della durata convenuta d
 
 **Misure provvisorie**
 
-Fintanto che le modalità relative allo sfruttamento della forza idrica non sono ancora determinate riguardo alla scadenza di una concessione, il Governo, dopo aver udito i comuni d'ufficio o su relativa richiesta, adotta le misure provvisorie che permettono la continuazione dell'esercizio e che conservano uno stato di fatto o di diritto oppure salvaguardano interessi in pericolo.
+<sup>1</sup> Fintanto che le modalità relative allo sfruttamento della forza idrica non sono ancora determinate riguardo alla scadenza di una concessione, il Governo, dopo aver udito i comuni d'ufficio o su relativa richiesta, adotta le misure provvisorie che permettono la continuazione dell'esercizio e che conservano uno stato di fatto o di diritto oppure salvaguardano interessi in pericolo.
 
-- 7\. RINNOVO DELLA CONCESSIONE
+### 2.7. Rinnovo della concessione
 
 #### Art. 48
 
@@ -557,9 +493,7 @@ Fintanto che le modalità relative allo sfruttamento della forza idrica non sono
 
 <sup>3</sup> Se l'attuale concessionario presenta una domanda di concessione almeno dieci anni prima della scadenza della concessione, i comuni concedenti sono tenuti a decidere entro due anni se sono disposti ad esaminare una domanda di rinnovo. Se non rispettano questo termine, la durata della concessione esistente viene prolungata del periodo che ha superato il termine.
 
-**14**
-
-1.1.2013 8. PROCEDURA
+### 2.8. Procedura
 
 #### Art. 49
 
@@ -575,11 +509,9 @@ Fintanto che le modalità relative allo sfruttamento della forza idrica non sono
 
 **2. Procedura di concessione a) Domanda di concessione**
 
-<sup>1</sup> Le domande di rilascio, modifica o trasferimento di una concessione di diritti d'acqua devono essere presentate ai comuni interessati.
+<sup>1</sup> Le domande di rilascio, modifica o trasferimento di una concessione di diritti d'acqua devono essere presentate ai comuni interessati. Il richiedente deve al contempo informare il Governo sull'inoltro della domanda.
 
-<sup>2</sup> Il richiedente deve al contempo informare il Governo sull'inoltro della domanda.
-
-<sup>3</sup> I comuni e il Cantone tendono ad una stretta collaborazione.
+<sup>2</sup> I comuni e il Cantone tendono ad una stretta collaborazione.
 
 #### Art. 51
 
@@ -605,8 +537,6 @@ Fintanto che le modalità relative allo sfruttamento della forza idrica non sono
 
 <sup>2</sup> L‘esposizione deve essere pubblicata dal Dipartimento competente sul Foglio Ufficiale Cantonale e dai comuni interessati nel modo usuale per il luogo.
 
-1.1.2013
-
 <sup>3</sup> La pubblicazione contiene l'avviso che contro il progetto può essere presentata opposizione scritta presso il Governo durante il termine di esposizione. Le opposizioni devono essere presentate al Dipartimento competente all'attenzione del Governo.
 
 <sup>4</sup> Se il progetto che sta alla base della richiesta di approvazione della concessione presenta già le elaborazioni richieste per i progetti di costruzione, il Dipartimento competente ordina il profilamento durante il termine di esposizione.
@@ -615,12 +545,10 @@ Fintanto che le modalità relative allo sfruttamento della forza idrica non sono
 
 **c) Legittimazione ad opporsi**
 
-Hanno il diritto di opporsi:
+<sup>1</sup> Hanno il diritto di opporsi:
 
 - a) chi è toccato dal progetto di concessione ed ha un interesse degno di protezione alla sua realizzazione, al suo impedimento o alla sua modifica;
-
 - b) i comuni interessati;
-
 - c) le organizzazioni per la protezione dell'ambiente alle quali è stato riconosciuto dal diritto federale il diritto di ricorrere, nella misura in cui contro la decisione di ultima istanza cantonale rimanga loro aperta nelle questione la possibilità del ricorso di diritto amministrativo al Tribunale Federale.
 
 #### Art. 55
@@ -639,20 +567,17 @@ Hanno il diritto di opporsi:
 
 **e) Pubblica esposizione della decisione di approvazione, mezzi di impugnazione**
 
-<sup>1</sup>[^56-1]La decisione di approvazione di una concessione, il rapporto sull'impatto ambientale nonché la valutazione dell'Ufficio cantonale per la protezione dell'ambiente sono esposti pubblicamente durante 30 giorni presso il Dipartimento competente. Rimangono riservati gli obblighi legali di segretezza nonché il diritto delle persone legittimate a ricorrere di prendere visione degli atti.
+<sup>1</sup> La decisione di approvazione di una concessione, il rapporto sull'impatto ambientale nonché la valutazione dell'Ufficio cantonale per la protezione dell'ambiente sono esposti pubblicamente durante 30 giorni presso il Dipartimento competente. Rimangono riservati gli obblighi legali di segretezza nonché il diritto delle persone legittimate a ricorrere di prendere visione degli atti.
 
 <sup>2</sup> Un’esposizione deve essere pubblicata sul Foglio Ufficiale Cantonale con l'indicazione delle ulteriori autorizzazioni eventualmente rilasciate.
 
-<sup>3</sup>[^56-2]La decisione di approvazione della concessione può essere impugnata entro 30 giorni con ricorso al Tribunale amministrativo. Anche i comuni sono legittimati a ricorrere.
-
-[^56-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrato in vigore il 1° gennaio 2007 1.1.2013 15
-[^56-2]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrato in vigore il 1° gennaio 2007
+<sup>3</sup> La decisione di approvazione della concessione può essere impugnata entro 30 giorni con ricorso al Tribunale d'appello. Anche i comuni sono legittimati a ricorrere.
 
 #### Art. 57
 
 **4. Procedura di approvazione del progetto a) Domanda, inoltro, mezzi di impugnazione**
 
-Per l'inoltro, la pubblica esposizione e la pubblicazione della domanda di approvazione del progetto come pure per quanto concerne le possibilità di opposizione valgono per analogia gli articoli 52 e 53 capoversi da 1 a 3. La legittimazione a presentare opposizione si conforma all'articolo 54.
+<sup>1</sup> Per l'inoltro, la pubblica esposizione e la pubblicazione della domanda di approvazione del progetto come pure per quanto concerne le possibilità di opposizione valgono per analogia gli articoli 52 e 53 capoversi da 1 a 3. La legittimazione a presentare opposizione si conforma all'articolo 54.
 
 #### Art. 58
 
@@ -666,7 +591,7 @@ Per l'inoltro, la pubblica esposizione e la pubblicazione della domanda di appro
 
 **c) Pubblica esposizione, mezzi di impugnazione**
 
-Per quanto concerne la pubblica esposizione della decisione di approvazione del progetto e la procedura d'impugnazione vale per analogia l'articolo 56.
+<sup>1</sup> Per quanto concerne la pubblica esposizione della decisione di approvazione del progetto e la procedura d'impugnazione vale per analogia l'articolo 56.
 
 #### Art. 60
 
@@ -678,48 +603,81 @@ Per quanto concerne la pubblica esposizione della decisione di approvazione del 
 
 <sup>3</sup> La procedura e l'obbligo d'indennizzo si conformano alla legge federale sulla espropriazione.[^60-1]
 
-[^60-1]: RS 711 16 1.1.2013
+[^60-1]: RS [711](https://db.clex.ch/link/Bund/711/it)
 
-### III. Approvvigionamento di energia elettrica
-
-[^hIIIApprovvigioname-1]: Abrogazione giusta art. 19 della legge sull'approvvigionamento elettrico del Cantone dei Grigioni, CSC 812.100; entrata in vigore il 1° settembre 2009
+## 3. Approvvigionamento di energia elettrica
 
 #### Art. 61
 
-**-71[^hIIIApprovvigioname-1]**
+**…**
 
-[^61-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrato in vigore il 1° gennaio 2007
+#### Art. 62
 
-### IV. Disposizioni penali
+**…**
 
-[^61-1]
+#### Art. 63
 
-[^hIVDisposizionipen-1]: Abrogazione giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrata in vigore il 1° gennaio 2007
-[^hIVDisposizionipen-2]: Abrogazione giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrata in vigore il 1° gennaio 2007
+**…**
+
+#### Art. 64
+
+**…**
+
+#### Art. 65
+
+**…**
+
+#### Art. 66
+
+**…**
+
+#### Art. 67
+
+**…**
+
+#### Art. 68
+
+**…**
+
+#### Art. 69
+
+**…**
+
+#### Art. 70
+
+**…**
+
+#### Art. 71
+
+**…**
+
+## 4. Disposizioni penali
 
 #### Art. 72
 
-**-74[^hIVDisposizionipen-2]**[^hIVDisposizionipen-1]
+**…**
+
+#### Art. 73
+
+**…**
+
+#### Art. 74
+
+**…**
 
 #### Art. 75
 
-**penali a) Multa**
+**1. Disposizioni penali a) Multa**
 
-<sup>1</sup>[^75-1]Le contravvenzioni alla presente legge, alle sue disposizioni di esecu-[^75-2]1. Disposizioni zione, alle disposizioni e alle decisioni emanate sulla base di queste, sono punite dal dipartimento competente per lo sfruttamento della forza idrica con multa fino a 100 000 franchi.
+<sup>1</sup> Le contravvenzioni alla presente legge, alle sue disposizioni di esecuzione, alle disposizioni e alle decisioni emanate sulla base di queste, sono punite dal dipartimento competente per lo sfruttamento della forza idrica con multa fino a 100 000 franchi.
 
 <sup>2</sup> Sono punibili le contravvenzioni per negligenza, tentativo e complicità.
 
-<sup>3</sup>[^75-3]Nei casi di lieve entità si può prescindere da ogni pena.
+<sup>3</sup> Nei casi di lieve entità si può prescindere da ogni pena.
 
-<sup>4</sup>[^75-4]La procedura si conforma alle disposizioni della legge sulla giustizia amministrativa.
+<sup>4</sup> La procedura si conforma alle disposizioni della legge sulla giustizia amministrativa.
 
-<sup>5</sup>[^75-5]Rimane riservato il diritto del Governo di dichiarare decaduta la concessione nonché il diritto all'esecuzione d'ufficio.
-
-[^75-1]: Testo giusta numero 22 dell'appendice alla LACPP, FUC 2010, 2471; entrato in vigore il 1° gennaio 2011
-[^75-2]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrato in vigore il 1° gennaio 2007
-[^75-3]: Introduzione giusta numero 22 dell'appendice alla LACPP, FUC 2010, 2471; entrata in vigore il 1° gennaio 2011
-[^75-4]: Introduzione giusta numero 22 dell'appendice alla LACPP, FUC 2010, 2471; entrata in vigore il 1° gennaio 2011
-[^75-5]: Nuova numerazione del capoverso a seguito dell'introduzione dei capoversi 3 e 1.1.2013 17
+<sup>5</sup> Rimane riservato il diritto del Governo di dichiarare decaduta la concessione nonché il diritto all'esecuzione d'ufficio.
 
 #### Art. 76
 
@@ -731,53 +689,45 @@ Per quanto concerne la pubblica esposizione della decisione di approvazione del 
 
 #### Art. 77
 
-**1)2. Esecuzione d'ufficio**
+**2. Esecuzione d'ufficio**
 
-Il Governo può rimuovere a spese dell'autore impianti che sono stati costruiti in violazione della legge, delle sue disposizioni di esecuzione, delle disposizioni e delle decisioni emanate sulla base di queste nonché può far ristabilire lo stato originale.
+<sup>1</sup> Il Governo può rimuovere a spese dell'autore impianti che sono stati costruiti in violazione della legge, delle sue disposizioni di esecuzione, delle disposizioni e delle decisioni emanate sulla base di queste nonché può far ristabilire lo stato originale.
 
-### V. Disposizioni finali
+## 5. Disposizioni finali
 
 #### Art. 78
 
 **1. Disposizioni di esecuzione**
 
-Il Gran Consiglio emana le necessarie disposizioni di esecuzione della presente legge.[^78-1] Queste entrano in vigore contemporaneamente alla legge.
+<sup>1</sup> Il Gran Consiglio emana le necessarie disposizioni di esecuzione della presente legge.[^78-1]Queste entrano in vigore contemporaneamente alla legge.
 
-[^78-1]: CSC 810.110
+[^78-1]: CSC [810.110](https://www.gr-lex.gr.ch/data/810.110/it)
 
 #### Art. 79
 
 **2. Abrogazioni**
 
-La legge sull'utilizzazione delle acque pubbliche del Cantone dei Grigioni per l'erezione di impianti idraulici del 18 marzo 1906[^79-1] viene abrogata.
+<sup>1</sup> La legge sull'utilizzazione delle acque pubbliche del Cantone dei Grigioni per l'erezione di impianti idraulici del 18 marzo 1906[^79-1] viene abrogata.
 
 [^79-1]: PDG, 348
 
 #### Art. 80
 
-**3. Modifica di atti legislativi**
+**3. Modifica di atti legislativi[^80-1]**
 
-La legge sui comuni del 28 aprile 1974[^80-1] viene modificata come segue: Art. 9 lett. f.:
-
-- f) il rilascio e la modifica sostanziale di concessioni di sfruttamento idrico, la costituzione di altri speciali diritti di congodimento e l'esercizio del diritto di riversione nel quadro della legislazione sul diritto delle acque;
-
-Art. 10 lett. d:
-
-- d) il rilascio e la modifica sostanziale di concessioni di sfruttamento idrico, la costituzione di altri speciali diritti di congodimento con una durata di oltre 30 anni nonché l'esercizio del diritto di riversione nel quadro della legislazione sul diritto delle acque.
-
-[^80-1]: CSC 175.050 18 1.1.2013
+[^80-1]: Le modifiche del diritto previgente non vengono indicate.
 
 #### Art. 81
 
 **4. Disposizioni transitorie a) Concessioni non ancora rilasciate**
 
-Con l'entrata in vigore della presente legge tutti i progetti per i quali occorre una concessione e sui quali le autorità di concessione non si sono ancora pronunciate devono essere giudicati secondo le nuove disposizioni.
+<sup>1</sup> Con l'entrata in vigore della presente legge tutti i progetti per i quali occorre una concessione e sui quali le autorità di concessione non si sono ancora pronunciate devono essere giudicati secondo le nuove disposizioni.
 
 #### Art. 82
 
 **b) Concessioni esistenti**
 
-La presente legge viene applicata alle concessioni esistenti per quanto in tal modo non vengano lesi diritti acquisiti.
+<sup>1</sup> La presente legge viene applicata alle concessioni esistenti per quanto in tal modo non vengano lesi diritti acquisiti.
 
 #### Art. 83
 
@@ -791,22 +741,20 @@ La presente legge viene applicata alle concessioni esistenti per quanto in tal m
 
 **d) Obbligo di assicurazione**
 
-La comprova dell'assicurazione ai sensi dell'articolo 27 capoverso 2 deve essere prodotta per impianti esistenti e in costruzione entro due anni dall'entrata in vigore della legge.
+<sup>1</sup> La comprova dell'assicurazione ai sensi dell'articolo 27 capoverso 2 deve essere prodotta per impianti esistenti e in costruzione entro due anni dall'entrata in vigore della legge.
 
 #### Art. 85
 
 **e) Obbligo di redigere un inventario**
 
-Per le concessioni esistenti l'inventario delle parti d'impianto gravate da riversione giusta l'articolo 25 capoverso 1 deve essere inoltrato al Dipartimento competente entro due anni dall'entrata in vigore della legge.
+<sup>1</sup> Per le concessioni esistenti l'inventario delle parti d'impianto gravate da riversione giusta l'articolo 25 capoverso 1 deve essere inoltrato al Dipartimento competente entro due anni dall'entrata in vigore della legge.
 
 #### Art. 86
 
 **5. Entrata in vigore**
 
-La presente legge viene dichiarata in vigore dal Governo[^86-1] dopo l'accettazione da parte del Popolo.
+<sup>1</sup> La presente legge viene dichiarata in vigore dal Governo[^86-1] dopo l'accettazione da parte del Popolo.
 
-[^86-1]: Dichiarata in vigore per il 1o luglio 1995 con DG 20 giugno 1995 1.1.2013 19
+[^86-1]: Dichiarata in vigore per il 1° luglio 1995 con DG 20 giugno 1995
 
-## Altre note
-
-- [1] Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrato in vigore il 1° gennaio 2007
+-

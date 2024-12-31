@@ -4,55 +4,52 @@ number: "810.100"
 title: Wasserrechtsgesetz des Kantons Graubünden
 short: BWRG
 language: de
-version: 2013-01-01
-corrected: 2014-11-07
-version_adopted: 2012-09-25
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1995-03-12
 in_force: 1995-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/810.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1684/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3420/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Wasserrechtsgesetz des Kantons Graubünden (BWRG)
+# Wasserrechtsgesetz des Kantons Graubünden
 
-Vom Volke angenommen am 12. März 1995[^t-1]
+(BWRG)
 
-I. Allgemeine Bestimmungen
+Vom 12.03.1995 (Stand 01.01.2025)
 
-[^t-1]: B vom 13. Juni 1994, 193; GRP 1994/95, 334 (1. Lesung), 697 (2. Lesung) 01.01.2013 1
+Vom Volke angenommen am 12. März 1995[^ingress-1]
+
+[^ingress-1]: B vom 13. Juni 1994, 193; GRP 1994/95, 334 (1. Lesung), 697 (2. Lesung)
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Geltungsbereich**
 
-Dieses Gesetz ordnet die Nutzung der öffentlichen Gewässer des Kantons Graubünden zur Produktion von elektrischer Energie sowie die Stromversorgung der Gemeinden und des Kantons.
+<sup>1</sup> Dieses Gesetz ordnet die Nutzung der öffentlichen Gewässer des Kantons Graubünden zur Produktion von elektrischer Energie sowie die Stromversorgung der Gemeinden und des Kantons.
 
 #### Art. 2
 
 **Zweck**
 
-Dieses Gesetz bezweckt:
+<sup>1</sup> Dieses Gesetz bezweckt:
 
 - a) die rationelle Nutzung der einheimischen Wasserkraft zum Wohle der Gemeinden, der Regionen und des Kantons;
-
 - b) die Optimierung und Leistungserhöhung bestehender Wasserkraftwerke;
-
 - c) einen energiewirtschaftlich sinnvollen und umweltmässig vertretbaren Weiterausbau der Wasserkräfte;
-
 - d) eine sichere, ausreichende und weitgehend eigenständige Versorgung des Kantons mit möglichst preisgünstiger Energie;
-
 - e) die Koordination der Interessen der Gemeinden, der Regionen und des Kantons, welche nach Möglichkeit auf ein gemeinsames Ziel auszurichten sind sowie
-
 - f) die Regelung von Zuständigkeiten innerhalb des Kantons, unter Wahrung der Gemeindeautonomie.
 
 #### Art. 3
 
 **Gleichstellung der Geschlechter**
 
-Personen- und Funktionsbezeichnungen in diesem Gesetz beziehen sich auf beide Geschlechter, soweit sich aus dem Sinn des Gesetzes nicht etwas anderes ergibt.
+<sup>1</sup> Personen- und Funktionsbezeichnungen in diesem Gesetz beziehen sich auf beide Geschlechter, soweit sich aus dem Sinn des Gesetzes nicht etwas anderes ergibt.
 
 #### Art. 4
 
@@ -66,55 +63,45 @@ Personen- und Funktionsbezeichnungen in diesem Gesetz beziehen sich auf beide Ge
 
 **Beratung der Gemeinden**
 
-<sup>1</sup>[^5-1]Der Kanton steht den Gemeinden auf deren Ersuchen in Fragen der Wasserkraftnutzung beratend zur Seite.
+<sup>1</sup> Der Kanton steht den Gemeinden auf deren Ersuchen in Fragen der Wasserkraftnutzung beratend zur Seite.
 
 <sup>2</sup> In der Regel erfolgt diese Beratung des Kantons unentgeltlich.
-
-[^5-1]: Fassung gemäss Art. 19 Stromversorgungsgesetz, BR 812.100; am 1. September 2009 in Kraft getreten
 
 #### Art. 6
 
 **Begriffe**
 
-In diesem Gesetz bedeuten:
+<sup>1</sup> In diesem Gesetz bedeuten:
 
-- a) Wasserkraftnutzung: Nutzung der natürlichen Wasserkraft sowie derjenigen, die durch Pumpen von Wasser in eine höhere Lage entsteht. Dabei erfolgt die Nutzung zum Zwecke der Energiegewinnung.
-
-- b) Pumpwerk: Anlage, die mittels Pumpen in der Lage ist, Wasser aus öffentlichen Gewässern wiederholt zur Produktion von elektrischer Energie zu verwenden oder eine Nutzung über die natürliche Wasserkraft hinaus zum gleichen Zweck zu ermöglichen. Reine Zubringerpumpen gelten nicht als Pumpwerke.
-
-- c) Zubringerpumpe: Pumpanlage, die Wasser aus öffentlichen Gewässern einem Kraftwerk zuleitet, ohne dessen wiederholte Nutzung zur Produktion von elektrischer Energie zu ermöglichen.
-
-- d) Wasserzins: Die vom Konzessionär den Gemeinden jährlich geschuldete Abgabe für die Wassernutzung.
-
-- e) Wasserwerksteuer: Die vom Konzessionär dem Kanton jährlich geschuldete Abgabe.
-
+- a) Wasserkraftnutzung: Nutzung der natürlichen Wasserkraft sowie derjenigen, die durch Pumpen von Wasser in eine höhere Lage entsteht. Dabei erfolgt die Nutzung zum Zwecke der Energiegewinnung;
+- b) Pumpwerk: Anlage, die mittels Pumpen in der Lage ist, Wasser aus öffentlichen Gewässern wiederholt zur Produktion von elektrischer Energie zu verwenden oder eine Nutzung über die natürliche Wasserkraft hinaus zum gleichen Zweck zu ermöglichen. Reine Zubringerpumpen gelten nicht als Pumpwerke;
+- c) Zubringerpumpe: Pumpanlage, die Wasser aus öffentlichen Gewässern einem Kraftwerk zuleitet, ohne dessen wiederholte Nutzung zur Produktion von elektrischer Energie zu ermöglichen;
+- d) Wasserzins: Die vom Konzessionär den Gemeinden jährlich geschuldete Abgabe für die Wassernutzung;
+- e) Wasserwerksteuer: Die vom Konzessionär dem Kanton jährlich geschuldete Abgabe;
 - f) Bruttoleistung: Die gestützt auf das nutzbare Gefälle und die nutzbare Wassermenge berechnete mittlere mechanische Bruttoleistung des Wassers.
+- g) …
 
-- g) …[^6-1]
+## 2. Nutzung der Wasserkraft
 
-[^6-1]: Aufgehoben gemäss Art. 19 Stromversorgungsgesetz, BR 812.100; am 1. September 2009 in Kraft getreten 2 01.01.2013
-
-### II. Nutzung der Wasserkraft
-
-- 1\. ZUSTÄNDIGKEITEN
+### 2.1. Zuständigkeiten
 
 #### Art. 7
 
 **Verleihung des Nutzungsrechtes**
 
-Die Gemeinden können die Wasserkraft ihrer Gewässer selbst nutzen oder das Nutzungsrecht mittels Konzession Dritten verleihen.
+<sup>1</sup> Die Gemeinden können die Wasserkraft ihrer Gewässer selbst nutzen oder das Nutzungsrecht mittels Konzession Dritten verleihen.
 
 #### Art. 8
 
 **Zusammenhängende Konzessionen**
 
-Für die Nutzung eines öffentlichen Gewässers, welches sich auf Gebiet mehrerer Gemeinden befindet, muss von jeder dieser Gemeinden eine Konzession erworben werden. Diese sind aufeinander abzustimmen.
+<sup>1</sup> Für die Nutzung eines öffentlichen Gewässers, welches sich auf Gebiet mehrerer Gemeinden befindet, muss von jeder dieser Gemeinden eine Konzession erworben werden. Diese sind aufeinander abzustimmen.
 
 #### Art. 9
 
 **Pumpwerkkonzessionen**
 
-Zur Erstellung eines Pumpwerkes ist die Konzession jener Gemeinden erforderlich, auf deren Gebiet die benetzten Anlageteile zu stehen kommen.
+<sup>1</sup> Zur Erstellung eines Pumpwerkes ist die Konzession jener Gemeinden erforderlich, auf deren Gebiet die benetzten Anlageteile zu stehen kommen.
 
 #### Art. 10
 
@@ -130,15 +117,13 @@ Zur Erstellung eines Pumpwerkes ist die Konzession jener Gemeinden erforderlich,
 
 **Genehmigungsbehörden**
 
-<sup>1</sup>[^11-1]Die von den Gemeinden erteilten Konzessionen bedürfen ebenso wie deren Änderungen oder Übertragungen zu ihrer Gültigkeit der Genehmigung der Regierung. Artikel 2bis der Kantonsverfassung[^11-2] bleibt vorbehalten. Die Projektgenehmigung (Art. 58) erfolgt durch die Regierung.
+<sup>1</sup> Die von den Gemeinden erteilten Konzessionen bedürfen ebenso wie deren Änderungen oder Übertragungen zu ihrer Gültigkeit der Genehmigung der Regierung. Artikel 2<sup>bis</sup> der Kantonsverfassung[^11-1] bleibt vorbehalten. Die Projektgenehmigung (Art. 58) erfolgt durch die Regierung.
 
 <sup>2</sup> Ebenso bedarf ein Projekt der Gemeinde, die Wasserkraft ihrer Gewässer selbst zu nutzen, der Genehmigung der Regierung.
 
-<sup>3</sup> ...[^11-3]
+<sup>3</sup> …
 
-[^11-1]: Fassung gemäss Volksbeschluss vom 7. Februar 1999; B vom 11. August 1998; GRP 1998/99, 397
-[^11-2]: BR 110.100
-[^11-3]: Aufgehoben gemäss Volksbeschluss vom 7. Februar 1999; siehe FN zu Art. 11 Abs. 1 01.01.2013 3
+[^11-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
 #### Art. 12
 
@@ -148,11 +133,9 @@ Zur Erstellung eines Pumpwerkes ist die Konzession jener Gemeinden erforderlich,
 
 <sup>2</sup> Die Regierung verhandelt vorgängig mit den Gemeinden und berücksichtigt die Vor- und Nachteile der vorgesehenen Nutzung für sie in angemessener Weise. Sie berücksichtigt dabei auch übergeordnete öffentliche Interessen.
 
-[^12-1]: Aufgehoben gemäss Art. 50 des Gesetzes über den Finanzhaushalt, BR 710.100; am 1. Januar 2013 in Kraft getreten. 4 01.01.2013
-
 #### Art. 13
 
-[^12-1]
+**…**
 
 #### Art. 14
 
@@ -178,27 +161,26 @@ Zur Erstellung eines Pumpwerkes ist die Konzession jener Gemeinden erforderlich,
 
 **Kollaudation**
 
-Die Kollaudation der Wasserkraftanlagen erfolgt durch das zuständige Departement.
+<sup>1</sup> Die Kollaudation der Wasserkraftanlagen erfolgt durch das zuständige Departement.
 
 #### Art. 17
 
 **Aufsicht**
 
-Die Aufsicht über die Nutzung der öffentlichen Gewässer obliegt der Regierung.
+<sup>1</sup> Die Aufsicht über die Nutzung der öffentlichen Gewässer obliegt der Regierung.
 
-- 2\. NUTZUNGSSCHRANKEN
+### 2.2. Nutzungsschranken
 
 #### Art. 18
 
 **Vorbehalte zugunsten der Gemeinden**
 
-Den Gemeinden steht das Recht zu:
+<sup>1</sup> Den Gemeinden steht das Recht zu:
 
 - a) während des Baus des Werkes auf eigene Kosten Anlagen der Trinkwasser- und Löschwasserversorgung sowie der Bewässerung dienende Anlagen mit einem Wasserkraftwerk zu verknüpfen;
-
 - b) ohne Entschädigungsanspruch des Konzessionärs von der konzedierten Wassermenge im Umfange der ausgewiesenen Bedürfnisse, Wasser zur Sicherstellung der Trinkwasserversorgung und in ausserordentlichen Situationen Wasser, namentlich für den Einsatz in Brandfällen sowie zu Bewässerungszwecken, zu gebrauchen. Der Wasserbezug darf die Nutzung der Wasserkraft nicht wesentlich beeinträchtigen, ansonsten er zu entschädigen ist.
 
-- 3\. KONZESSIONÄR UND KONZESSIONSINHALT
+### 2.3. Konzessionär und Konzessionsinhalt
 
 #### Art. 19
 
@@ -214,13 +196,13 @@ Den Gemeinden steht das Recht zu:
 
 **Eigenkapital**
 
-Die Regierung kann verlangen, dass das Eigenkapital des Konzessionärs 20 Prozent der Anlagekosten beträgt.
+<sup>1</sup> Die Regierung kann verlangen, dass das Eigenkapital des Konzessionärs 20 Prozent der Anlagekosten beträgt.
 
 #### Art. 21
 
 **Mehrere Bewerber**
 
-Unter mehreren Bewerbern für die Nutzung der Wasserkraft desselben Gewässers hat die Gemeinde bei der Erteilung sowie Übertragung einer Konzession jenem Bewerber den Vorzug zu geben, der die öffentlichen Interessen am besten und die zweckmässigste Nutzung gewährleistet.
+<sup>1</sup> Unter mehreren Bewerbern für die Nutzung der Wasserkraft desselben Gewässers hat die Gemeinde bei der Erteilung sowie Übertragung einer Konzession jenem Bewerber den Vorzug zu geben, der die öffentlichen Interessen am besten und die zweckmässigste Nutzung gewährleistet.
 
 #### Art. 22
 
@@ -237,30 +219,16 @@ Unter mehreren Bewerbern für die Nutzung der Wasserkraft desselben Gewässers h
 <sup>1</sup> Jede Konzession bestimmt:
 
 - a) die Person und den Sitz des Konzessionärs;
-
 - b) den Umfang des verliehenen Nutzungsrechtes;
-
 - c) die einzuhaltende Restwassermenge;
-
 - d) die Dauer der Konzession;
-
-**5**
-
-**6**
-
-01.01.2013 e) die Vertretung des Gemeinwesens in der Verwaltung des Konzessionärs;
-
+- e) die Vertretung des Gemeinwesens in der Verwaltung des Konzessionärs;
 - f) die wichtigsten Anlagen;
-
 - g) die dem Konzessionär auferlegten wirtschaftlichen Leistungen;
-
 - h) die Versicherungspflicht des Konzessionärs;
-
 - i) die Fristen für den Beginn von Bau- oder Umbauarbeiten sowie für die Inbetriebnahme des Kraftwerkes;
-
 - k) den Heimfall;
-
-- 1) den Rückkauf, sofern ein solcher von den Parteien vereinbart wird.
+- l) den Rückkauf, sofern ein solcher von den Parteien vereinbart wird.
 
 <sup>2</sup> Einzelheiten regelt die Verordnung. Diese enthält auch einen Katalog fakultativer Konzessionsbestimmungen.
 
@@ -284,21 +252,19 @@ Unter mehreren Bewerbern für die Nutzung der Wasserkraft desselben Gewässers h
 
 <sup>3</sup> Veräussert der Konzessionär heimfallbelastete Anlageteile ohne Zustimmung der Konzessionsgemeinden und des Kantons, hat er diesen den Schaden zu ersetzen.
 
-- 4\. AUSÜBUNG DER KONZESSION
+### 2.4. Ausübung der Konzession
 
 #### Art. 26
 
 **Kollaudation der Anlagen**
 
-Neue oder umgebaute Wasserkraftanlagen sind innerhalb eines Jahres nach deren Inbetriebnahme zu kollaudieren.
+<sup>1</sup> Neue oder umgebaute Wasserkraftanlagen sind innerhalb eines Jahres nach deren Inbetriebnahme zu kollaudieren.
 
 #### Art. 27
 
 **Haftung und Versicherung**
 
 <sup>1</sup> Die Eigentümer von Kraftwerkanlagen haften nach Bundesrecht.
-
-01.01.2013
 
 <sup>2</sup> Die Eigentümer haben für ihre Haftung eine Haftpflichtversicherung bei einem zum Geschäftsbetrieb in der Schweiz ermächtigten Versicherer abzuschliessen.
 
@@ -310,7 +276,7 @@ Neue oder umgebaute Wasserkraftanlagen sind innerhalb eines Jahres nach deren In
 
 **Veränderungen an den Anlagen**
 
-Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Verleihungsgemeinden und der Regierung vor deren Ausführung zur Kenntnis zu bringen.
+<sup>1</sup> Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Verleihungsgemeinden und der Regierung vor deren Ausführung zur Kenntnis zu bringen.
 
 #### Art. 29
 
@@ -321,7 +287,6 @@ Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Ver
 <sup>2</sup> Die Regierung ist im Einvernehmen mit den Konzessionsgemeinden und nach Anhören des Konzessionärs jederzeit befugt:
 
 - a) eine Überprüfung der Anlagen im Sinne von Absatz 1 anzuordnen;
-
 - b) die zur Herstellung und Erhaltung des in Absatz 1 vorgeschriebenen Zustandes erforderlichen Massnahmen und allenfalls auch Ersatzvornahmen auf Kosten des Konzessionärs anzuordnen.
 
 #### Art. 30
@@ -336,7 +301,7 @@ Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Ver
 
 <sup>4</sup> Werden Erneuerungen im Sinne von Absatz 1 angeordnet, haben sich Gemeinden und Kanton an den Investitionen zu beteiligen. Absatz 2 gilt sinngemäss.
 
-- 5\. LEISTUNGEN DES KONZESSIONÄRS
+### 2.5. Leistungen des Konzessionärs
 
 #### Art. 31
 
@@ -344,11 +309,7 @@ Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Ver
 
 <sup>1</sup> Die Gemeinden sind berechtigt, bei der Erteilung, Änderung und Übertragung von Konzessionen eine einmalige Konzessionsgebühr zu erheben.
 
-**7**
-
-01.01.2013
-
-<sup>2</sup>[^31-1]Diese beträgt dreissig bis achtzig Prozent des bei vollständiger Nutzung der verliehenen Wasserkraft den Konzessionsgemeinden jährlich geschuldeten Wasserzinses. Sie ist nach freiem Ermessen festzulegen, wenn keine Wasserzinsen geschuldet sind.
+<sup>2</sup> Diese beträgt 30 bis 80 Prozent des bei vollständiger Nutzung der verliehenen Wasserkraft den Konzessionsgemeinden jährlich geschuldeten Wasserzinses. Sie ist nach freiem Ermessen festzulegen, wenn keine Wasserzinsen geschuldet sind.
 
 <sup>3</sup> Bei Konzessionen für Pumpwerke ist den Gemeinden eine Konzessionsgebühr von drei bis sechs Franken pro Kilowatt installierte Pumpenleistung zu entrichten. Die Regierung kann diese Ansätze den veränderten Verhältnissen anpassen.
 
@@ -359,8 +320,6 @@ Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Ver
 <sup>6</sup> Wird eine andere als in Artikel 24 Absatz 1 und 2 genannte Konzessionsdauer festgelegt, bemessen sich die Konzessions- und Staatsgebühr entsprechend der abweichenden Laufzeit.
 
 <sup>7</sup> Für die Erstreckung von Baufristen können die Gemeinden und der Kanton unabhängig voneinander eine Gebühr erheben. Diese beträgt bis zu 20 Prozent des gemäss Bundesrecht jährlich geschuldeten Wasserzinses und ist pro Jahr der verlängerten Baufrist zu entrichten.
-
-[^31-1]: Fassung gemäss Volksbeschluss vom 7. Februar 1999; siehe FN zu Art. 11 Abs. 1 8 01.01.2013
 
 #### Art. 32
 
@@ -378,15 +337,11 @@ Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Ver
 
 <sup>2</sup> Wasserzins und Wasserwerksteuer werden nach den bundesrechtlichen Bestimmungen berechnet. Die Ermittlung der abgabepflichtigen Bruttoleistung kann auch von der erzeugten elektrischen Energie ausgehen. In diesem Falle sind jedoch die nutzbaren Wassermengen und das Gefälle, die trotz Verleihung nicht genutzt werden, hinzuzurechnen.
 
-<sup>3</sup>[^33-1]Der von den Gemeinden festgesetzte Wasserzins darf die Hälfte des jeweiligen bundesrechtlichen Wasserzinsmaximums nicht übersteigen.
+<sup>3</sup> Der von den Gemeinden festgesetzte Wasserzins darf die Hälfte des jeweiligen bundesrechtlichen Wasserzinsmaximums nicht übersteigen.
 
-<sup>4</sup>[^33-2]Der Kanton erhebt eine Wasserwerksteuer in der Höhe der Hälfte des jeweiligen bundesrechtlichen Wasserzinsmaximums.
+<sup>4</sup> Der Kanton erhebt eine Wasserwerksteuer in der Höhe der Hälfte des jeweiligen bundesrechtlichen Wasserzinsmaximums.
 
-<sup>5</sup>[^33-3]Den Anteil des Wasserzinses, der dem Bund zur Sicherstellung von Ausgleichsleistungen für Einbussen der Wasserkraftnutzung abzuliefern ist, tragen die wasserzinsberechtigten Gemeinden und der Kanton je zur Hälfte.
-
-[^33-1]: Fassung gemäss Volksbeschluss vom 7. Februar 1999; siehe FN zu Art. 11 Abs. 1
-[^33-2]: Fassung gemäss Volksbeschluss vom 7. Februar 1999; siehe FN zu Art. 11 Abs. 1
-[^33-3]: Einfügung gemäss Volksbeschluss vom 7. Februar 1999; siehe FN zu Art. 11 Abs. 1 01.01.2013 9
+<sup>5</sup> Den Anteil des Wasserzinses, der dem Bund zur Sicherstellung von Ausgleichsleistungen für Einbussen der Wasserkraftnutzung abzuliefern ist, tragen die wasserzinsberechtigten Gemeinden und der Kanton je zur Hälfte.
 
 #### Art. 34
 
@@ -394,9 +349,9 @@ Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Ver
 
 <sup>1</sup> Die Eigentümer von Pumpwerken haben den Konzessionsgemeinden und dem Kanton eine jährliche Pumpwerksteuer zu entrichten.
 
-<sup>2</sup> Diese beträgt für Gemeinden und Kanton je Rp. 0.075 pro aufgewendete kWh Pumpenergie, mindestens jedoch Fr. 1.–/kW für Werke mit 50 und mehr Megawatt (MW) installierter Pumpleistung und Fr. 0.25/kW für kleinere Werke. Für Pumpwerke mit einer installierten Pumpenleistung von weniger als 1 MW wird keine Steuer erhoben.
+<sup>2</sup> Diese beträgt für Gemeinden und Kanton je 0.075 Rappen pro aufgewendete kWh Pumpenergie, mindestens jedoch 1 Franken/kW für Werke mit 50 und mehr Megawatt (MW) installierter Pumpleistung und 0.25 Franken/kW für kleinere Werke. Für Pumpwerke mit einer installierten Pumpenleistung von weniger als 1 MW wird keine Steuer erhoben.
 
-<sup>3</sup> In den ersten drei Betriebsjahren kann die Regierung den Minimalansatz von Fr. 1.–/kW gemäss Absatz 2 für den Kanton um maximal die Hälfte reduzieren.
+<sup>3</sup> In den ersten drei Betriebsjahren kann die Regierung den Minimalansatz von 1 Franken/kW gemäss Absatz 2 für den Kanton um maximal die Hälfte reduzieren.
 
 <sup>4</sup> Die Aufteilung der Pumpwerksteuer unter den Gemeinden erfolgt nach Massgabe der für die Aufteilung der einmaligen Konzessionsgebühr geltenden Grundsätze.
 
@@ -406,7 +361,7 @@ Alle beabsichtigten Veränderungen an bestehenden Wasserwerkanlagen sind den Ver
 
 **Reduktionsmöglichkeiten**
 
-Wird der Betrieb eines Kraftwerkes als Folge von Erneuerungsarbeiten erheblich beeinträchtigt, kann der Kanton sowohl die Wasserwerksteuer als auch seinen Anteil an der Pumpwerksteuer auf begründetes Begehren hin vorübergehend angemessen reduzieren.
+<sup>1</sup> Wird der Betrieb eines Kraftwerkes als Folge von Erneuerungsarbeiten erheblich beeinträchtigt, kann der Kanton sowohl die Wasserwerksteuer als auch seinen Anteil an der Pumpwerksteuer auf begründetes Begehren hin vorübergehend angemessen reduzieren.
 
 #### Art. 36
 
@@ -424,15 +379,15 @@ Wird der Betrieb eines Kraftwerkes als Folge von Erneuerungsarbeiten erheblich b
 
 <sup>2</sup> Die Einzelheiten regelt die Regierung.
 
-- 6\. ENDE DER KONZESSION
+[^37-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
 
-[^37-1]: BR 720.000 10 01.01.2013
+### 2.6. Ende der Konzession
 
 #### Art. 38
 
 **Ordentlicher Ablauf**
 
-Die Konzession erlischt ohne weiteres durch Ablauf der vereinbarten Konzessionsdauer.
+<sup>1</sup> Die Konzession erlischt ohne weiteres durch Ablauf der vereinbarten Konzessionsdauer.
 
 #### Art. 39
 
@@ -441,11 +396,8 @@ Die Konzession erlischt ohne weiteres durch Ablauf der vereinbarten Konzessionsd
 <sup>1</sup> Die Konzession kann von der Regierung im Einvernehmen mit den Konzessionsgemeinden als verwirkt erklärt werden, wenn der Konzessionär:
 
 - a) die ihm durch die Konzession auferlegten Fristen, namentlich für den Finanzausweis, den Versicherungsausweis sowie den Bau und die Inbetriebnahme des Werkes versäumt;
-
 - b) die gesetzlich und vertraglich vorgeschriebenen Unterhaltsarbeiten unterlässt;
-
 - c) ein bestehendes Werk zwei Jahre lang nicht betreibt;
-
 - d) wichtige Pflichten trotz Mahnung grob verletzt.
 
 <sup>2</sup> Die Konzessionsgemeinden können mit Genehmigung der Regierung angemessene Fristverlängerungen bewilligen.
@@ -469,11 +421,8 @@ Die Konzession erlischt ohne weiteres durch Ablauf der vereinbarten Konzessionsd
 <sup>2</sup> Die Rückkaufsvereinbarung muss folgenden Minimalinhalt aufweisen:
 
 - a) Rückkaufstermin;
-
 - b) Rückkaufsentschädigung oder detaillierte Kriterien zur Ermittlung derselben;
-
 - c) Vorankündigungsfrist für die Erklärung betreffend Ausübung des Rückkaufes, wobei diese mindestens fünf Jahre betragen muss;
-
 - d) bei Beteiligung mehrerer Gemeinden: erforderliches Quorum zur Ausübung des Rückkaufsrechtes.
 
 <sup>3</sup> Die Anteile mehrerer Gemeinden bemessen sich nach ihren Anteilen an der verliehenen Wasserkraft. Der Anteil des Kantons entspricht dem hälftigen Miteigentum.
@@ -490,13 +439,7 @@ Die Konzession erlischt ohne weiteres durch Ablauf der vereinbarten Konzessionsd
 
 <sup>4</sup> Gemeinden und Kanton sind befugt, auf die Ausübung des Heimfallrechtes zu verzichten.
 
-<sup>5</sup> Werden die Anlagen des Konzessionärs nach erfolgtem Verzicht auf die Ausübung des Heimfallrechtes ganz oder teilweise nicht weiterbenutzt, ist
-
-**11**
-
-**12**
-
-01.01.2013 der Konzessionär verpflichtet, auf seine Kosten die nötig werdenden Sicherungs- und Wiederherstellungsarbeiten vorzunehmen.
+<sup>5</sup> Werden die Anlagen des Konzessionärs nach erfolgtem Verzicht auf die Ausübung des Heimfallrechtes ganz oder teilweise nicht weiterbenutzt, ist der Konzessionär verpflichtet, auf seine Kosten die nötig werdenden Sicherungs- und Wiederherstellungsarbeiten vorzunehmen.
 
 #### Art. 43
 
@@ -532,15 +475,13 @@ Die Konzession erlischt ohne weiteres durch Ablauf der vereinbarten Konzessionsd
 
 <sup>2</sup> Die Kosten dieser Abklärungen gehen in der Regel zu Lasten des Kantons.
 
-01.01.2013
-
 #### Art. 47
 
 **Provisorische Massnahmen**
 
-Sofern die Modalitäten für die Wasserkraftnutzung im Hinblick auf den Ablauf einer Konzession noch nicht festgelegt sind, trifft die Regierung nach Anhörung der Gemeinden von Amtes wegen oder auf entsprechendes Begehren die provisorischen Massnahmen, die den Weiterbetrieb erlauben und die einen tatsächlichen oder rechtlichen Zustand erhalten oder gefährdete Interessen wahren.
+<sup>1</sup> Sofern die Modalitäten für die Wasserkraftnutzung im Hinblick auf den Ablauf einer Konzession noch nicht festgelegt sind, trifft die Regierung nach Anhörung der Gemeinden von Amtes wegen oder auf entsprechendes Begehren die provisorischen Massnahmen, die den Weiterbetrieb erlauben und die einen tatsächlichen oder rechtlichen Zustand erhalten oder gefährdete Interessen wahren.
 
-- 7\. KONZESSIONSERNEUERUNG
+### 2.7. Konzessionserneuerung
 
 #### Art. 48
 
@@ -552,7 +493,7 @@ Sofern die Modalitäten für die Wasserkraftnutzung im Hinblick auf den Ablauf e
 
 <sup>3</sup> Reicht der bisherige Konzessionär mindestens zehn Jahre vor Ablauf der Konzession ein Konzessionsgesuch ein, haben die Konzessionsgemeinden innert zwei Jahren zu entscheiden, ob sie bereit sind, auf ein Erneuerungsgesuch einzutreten. Halten sie diese Frist nicht ein, verlängert sich die Dauer der bestehenden Konzession um die Dauer der Überschreitung der Frist.
 
-- 8\. VERFAHREN
+### 2.8. Verfahren
 
 #### Art. 49
 
@@ -564,7 +505,7 @@ Sofern die Modalitäten für die Wasserkraftnutzung im Hinblick auf den Ablauf e
 
 <sup>3</sup> Die Grundeigentümer sind verpflichtet, die Ausführung dieser Vorarbeiten zu dulden. Eventuell entstehende Schäden und Störungen sind voll zu entschädigen. Nötigenfalls wird dies im Verfahren gemäss kantonalem Enteignungsgesetz[^49-1] festgelegt.
 
-[^49-1]: BR 803.100 01.01.2013 13
+[^49-1]: BR [803.100](https://www.gr-lex.gr.ch/data/803.100/de)
 
 #### Art. 50
 
@@ -606,17 +547,11 @@ Sofern die Modalitäten für die Wasserkraftnutzung im Hinblick auf den Ablauf e
 
 **c) Einsprachelegitimation**
 
-Zur Einsprache sind berechtigt:
+<sup>1</sup> Zur Einsprache sind berechtigt:
 
 - a) wer vom Kozessionsprojekt berührt ist und ein schutzwürdiges Interesse an dessen Realisierung, Verhinderung oder Änderung hat;
-
 - b) die betroffenen Gemeinden;
-
 - c) Umweltschutzorganisationen, welchen vom Bundesrecht die Beschwerdeberechtigung zuerkannt worden ist, sofern und soweit ihnen gegen den kantonal letztinstanzlichen Entscheid in der Sache die Möglichkeit zur Verwaltungsgerichtsbeschwerde an das Bundesgericht offensteht.
-
-**14**
-
-01.01.2013
 
 #### Art. 55
 
@@ -634,20 +569,17 @@ Zur Einsprache sind berechtigt:
 
 **e) Öffentliche Auflage des Genehmigungsentscheides, Rechtsmittel**
 
-<sup>1</sup>[^56-1]Der Konzessionsgenehmigungsentscheid, der Umweltverträglichkeitsbericht sowie die Beurteilung der kantonalen Umweltschutzfachstelle werden während 30 Tagen beim zuständigen Departement öffentlich aufgelegt. Vorbehalten bleiben die gesetzlichen Geheimhaltungspflichten sowie das Akteneinsichtsrecht der Beschwerdelegitimierten.
+<sup>1</sup> Der Konzessionsgenehmigungsentscheid, der Umweltverträglichkeitsbericht sowie die Beurteilung der kantonalen Umweltschutzfachstelle werden während 30 Tagen beim zuständigen Departement öffentlich aufgelegt. Vorbehalten bleiben die gesetzlichen Geheimhaltungspflichten sowie das Akteneinsichtsrecht der Beschwerdelegitimierten.
 
 <sup>2</sup> Die Auflage ist im Kantonsamtsblatt unter Hinweis auf die allfällig erteilten weiteren Bewilligungen zu publizieren.
 
-<sup>3</sup>[^56-2]Der Konzessionsgenehmigungsentscheid kann innert 30 Tagen mit Beschwerde an das Verwaltungsgericht weitergezogen werden. Das Beschwerderecht steht auch den Gemeinden zu.
-
-[^56-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3325, am 1. Januar 2007 in Kraft getreten.
-[^56-2]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3325, am 1. Januar 2007 in Kraft getreten. 01.01.2013 15
+<sup>3</sup> Der Konzessionsgenehmigungsentscheid kann innert 30 Tagen mit Beschwerde an das Obergericht weitergezogen werden. Das Beschwerderecht steht auch den Gemeinden zu.
 
 #### Art. 57
 
 **4. Projektgenehmigungsverfahren a) Gesuch, Einreichung, Rechtsmittel**
 
-Für die Einreichung, die öffentliche Auflage und die Publikation des Projektgenehmigungsgesuches sowie bezüglich der Einsprachemöglichkeit gelten die Artikel 52 und 53 Absatz 1 bis 3 sinngemäss. Die Einsprachelegitimation richtet sich nach Artikel 54.
+<sup>1</sup> Für die Einreichung, die öffentliche Auflage und die Publikation des Projektgenehmigungsgesuches sowie bezüglich der Einsprachemöglichkeit gelten die Artikel 52 und 53 Absatz 1 bis 3 sinngemäss. Die Einsprachelegitimation richtet sich nach Artikel 54.
 
 #### Art. 58
 
@@ -661,7 +593,7 @@ Für die Einreichung, die öffentliche Auflage und die Publikation des Projektge
 
 **c) Öffentliche Auflage, Rechtsmittel**
 
-Bezüglich der öffentlichen Auflage des Projektgenehmigungsentscheides und des Rechtsmittelverfahrens gilt Artikel 56 sinngemäss.
+<sup>1</sup> Bezüglich der öffentlichen Auflage des Projektgenehmigungsentscheides und des Rechtsmittelverfahrens gilt Artikel 56 sinngemäss.
 
 #### Art. 60
 
@@ -671,48 +603,83 @@ Bezüglich der öffentlichen Auflage des Projektgenehmigungsentscheides und des 
 
 <sup>2</sup> Das Enteignungsrecht wird von der Regierung gemeinsam mit dem Konzessionsgenehmigungsentscheid erteilt.
 
-<sup>3</sup> Das Verfahren und die Entschädigungspflicht richten sich nach dem Bundesgesetz über die Enteignung.[^60-1]
+<sup>3</sup> Das Verfahren und die Entschädigungspflicht richten sich nach dem Bundesgesetz über die Enteignung[^60-1].
 
-[^60-1]: SR 711
+[^60-1]: SR [711](https://db.clex.ch/link/Bund/711/de)
 
-### III. Versorgung mit elektrischer Energie
-
-[^hIIIVersorgungmit-1]: Aufgehoben gemäss Art. 19 Stromversorgungsgesetz, BR 812.100; am 1. September 2009 in Kraft getreten
+## 3. Versorgung mit elektrischer Energie
 
 #### Art. 61
 
-**– 71[^hIIIVersorgungmit-1]**
+**…**
 
-[^61-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3325, am 1. Januar 2007 in Kraft getreten.
+#### Art. 62
 
-### IV. Strafbestimmungen
+**…**
 
-[^61-1]
+#### Art. 63
 
-[^hIVStrafbestimmunge-1]: Aufgehoben gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3325, am 1. Januar 2007 in Kraft getreten.
+**…**
+
+#### Art. 64
+
+**…**
+
+#### Art. 65
+
+**…**
+
+#### Art. 66
+
+**…**
+
+#### Art. 67
+
+**…**
+
+#### Art. 68
+
+**…**
+
+#### Art. 69
+
+**…**
+
+#### Art. 70
+
+**…**
+
+#### Art. 71
+
+**…**
+
+## 4. Strafbestimmungen
 
 #### Art. 72
 
-**– 74[^hIVStrafbestimmunge-1]**
+**…**
+
+#### Art. 73
+
+**…**
+
+#### Art. 74
+
+**…**
 
 #### Art. 75
 
-**5)1. Strafbestimmungen a) Busse**
+**1. Strafbestimmungen a) Busse**
 
-<sup>1</sup>[^75-1]Widerhandlungen gegen das vorliegende Gesetz, seine Vollzugsbestim-mungen und die sich darauf stützenden Verfügungen und Entscheide wer-den von dem für die Wasserkraftnutzung zuständigen Departement mit Busse bis zu 100 000 Franken bestraft.
+<sup>1</sup> Widerhandlungen gegen das vorliegende Gesetz, seine Vollzugsbestimmungen und die sich darauf stützenden Verfügungen und Entscheide werden von dem für die Wasserkraftnutzung zuständigen Departement mit Busse bis zu 100 000 Franken bestraft.
 
 <sup>2</sup> Fahrlässige Widerhandlungen, Versuch und Gehilfenschaft sind strafbar.
 
-<sup>3</sup>[^75-2]In leichten Fällen kann von einer Strafe abgesehen werden.
+<sup>3</sup> In leichten Fällen kann von einer Strafe abgesehen werden.
 
-<sup>4</sup>[^75-3]Das Verfahren richtet sich nach den Bestimmungen des Verwaltungsrechtspflegegesetzes.
+<sup>4</sup> Das Verfahren richtet sich nach den Bestimmungen des Verwaltungsrechtspflegegesetzes.
 
-<sup>5</sup>[^75-4]Vorbehalten bleiben das Recht der Regierung, die Konzession als verwirkt zu erklären, sowie das Recht zur Ersatzvornahme.
-
-[^75-1]: Fassung gemäss Anhang Ziffer 22 EGzStPO, KA 2010, 2412; am 1. Januar 2011 in Kraft getreten 16 01.01.2013
-[^75-2]: Einfügung gemäss Anhang Ziffer 22 EGzStPO, KA 2010, 2412; am 1. Januar 2011 in Kraft getreten
-[^75-3]: Einfügung gemäss Anhang Ziffer 22 EGzStPO, KA 2010, 2412; am 1. Januar 2011 in Kraft getreten
-[^75-4]: Neue Absatznummerierung als Folge der Einfügung der Absätze 3 und 4
+<sup>5</sup> Vorbehalten bleiben das Recht der Regierung, die Konzession als verwirkt zu erklären, sowie das Recht zur Ersatzvornahme.
 
 #### Art. 76
 
@@ -724,55 +691,45 @@ Bezüglich der öffentlichen Auflage des Projektgenehmigungsentscheides und des 
 
 #### Art. 77
 
-**vornahme**
+**2. Ersatzvornahme**
 
-Die Regierung kann Anlagen, die in Missachtung des Gesetzes, seiner[^77-1]2. Ersatz-Vollzugsbestimmungen und von sich darauf stützenden Verfügungen und Entscheiden erstellt worden sind, auf Kosten des Verursachers beseitigen sowie den ursprünglichen Zustand wiederherstellen lassen.
+<sup>1</sup> Die Regierung kann Anlagen, die in Missachtung des Gesetzes, seiner Vollzugsbestimmungen und von sich darauf stützenden Verfügungen und Entscheiden erstellt worden sind, auf Kosten des Verursachers beseitigen sowie den ursprünglichen Zustand wiederherstellen lassen.
 
-[^77-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3325, am 1. Januar 2007 in Kraft getreten.
-
-### V. Schlussbestimmungen
+## 5. Schlussbestimmungen
 
 #### Art. 78
 
 **1. Vollzugsbestimmungen**
 
-Der Grosse Rat erlässt die zu diesem Gesetz erforderlichen Vollzugsbestimmungen[^78-1]. Diese treten gleichzeitig mit dem Gesetz in Kraft.
+<sup>1</sup> Der Grosse Rat erlässt die zu diesem Gesetz erforderlichen Vollzugsbestimmungen[^78-1]. Diese treten gleichzeitig mit dem Gesetz in Kraft.
 
-[^78-1]: BR 810.110
+[^78-1]: BR [810.110](https://www.gr-lex.gr.ch/data/810.110/de)
 
 #### Art. 79
 
 **2. Aufhebung bisherigen Rechts**
 
-Das Gesetz betreffend die Benutzung der öffentlichen Gewässer des Kantons Graubünden zur Errichtung von Wasserwerken vom 18. März 1906[^79-1] 1906[^79-1] wird aufgehoben.
+<sup>1</sup> Das Gesetz betreffend die Benutzung der öffentlichen Gewässer des Kantons Graubünden zur Errichtung von Wasserwerken vom 18. März 1906[^79-1] wird aufgehoben.
 
 [^79-1]: aRB 1018 und Änderung in der AGS gemäss Sachwortregister BR
 
 #### Art. 80
 
-**3. Änderung von Erlassen**
+**3. Änderung von Erlassen[^80-1]**
 
-Das Gemeindegesetz vom April 1974[^80-1] wird wie folgt geändert:
-
-Art. 9 lit. f:
-
-- f) die Erteilung und wesentliche Änderung von Wassernutzungskonzessionen, die Einräumung anderer Sondernutzungsrechte und die Ausübung des Heimfallrechts im Sinne der Wasserrechtsgesetzgebung; Art. 10 lit. d:
-
-- d) die Erteilung und wesentliche Änderung von Wassernutzungskonzessionen, die Einräumung anderer Sondernutzungsrechte mit einer Dauer von über 30 Jahren sowie die Ausübung des Heimfallrechts im Sinne der Wasserrechtsgesetzgebung.
-
-[^80-1]: BR 175.050 01.01.2013 17
+[^80-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
 #### Art. 81
 
 **4. Übergangsbestimmungen a) Noch nicht erteilte Konzessionen**
 
-Mit Inkrafttreten dieses Gesetzes sind alle konzessionsbedürftigen Vorhaben, über welche die Konzessionsbehörden noch nicht entschieden haben, nach den neuen Bestimmungen zu beurteilen.
+<sup>1</sup> Mit Inkrafttreten dieses Gesetzes sind alle konzessionsbedürftigen Vorhaben, über welche die Konzessionsbehörden noch nicht entschieden haben, nach den neuen Bestimmungen zu beurteilen.
 
 #### Art. 82
 
 **b) Bestehende Konzessionen**
 
-Dieses Gesetz findet auf bestehende Konzessionen Anwendung, soweit dadurch nicht wohlerworbene Rechte verletzt werden.
+<sup>1</sup> Dieses Gesetz findet auf bestehende Konzessionen Anwendung, soweit dadurch nicht wohlerworbene Rechte verletzt werden.
 
 #### Art. 83
 
@@ -786,22 +743,20 @@ Dieses Gesetz findet auf bestehende Konzessionen Anwendung, soweit dadurch nicht
 
 **d) Versicherungspflicht**
 
-Der Versicherungsnachweis gemäss Artikel 27 Absatz 2 ist für bestehende und im Bau befindliche Werke innerhalb von zwei Jahren nach Inkrafttreten des Gesetzes zu erbringen.
+<sup>1</sup> Der Versicherungsnachweis gemäss Artikel 27 Absatz 2 ist für bestehende und im Bau befindliche Werke innerhalb von zwei Jahren nach Inkrafttreten des Gesetzes zu erbringen.
 
 #### Art. 85
 
 **e) Inventarisierungspflicht**
 
-Das Inventar der heimfallbelasteten Anlageteile gemäss Artikel 25 Absatz 1 ist bei bestehenden Konzessionen innerhalb von zwei Jahren nach Inkrafttreten des Gesetzes dem zuständigen Departement einzureichen.
+<sup>1</sup> Das Inventar der heimfallbelasteten Anlageteile gemäss Artikel 25 Absatz 1 ist bei bestehenden Konzessionen innerhalb von zwei Jahren nach Inkrafttreten des Gesetzes dem zuständigen Departement einzureichen.
 
 #### Art. 86
 
 **5. Inkrafttreten**
 
-Dieses Gesetz wird nach Annahme durch das Volk von der Regierung in Kraft[^86-1] gesetzt.
+<sup>1</sup> Dieses Gesetz wird nach Annahme durch das Volk von der Regierung in Kraft[^86-1] gesetzt.
 
-[^86-1]: Mit RB vom 20. Juni 1995 auf den 1. Juli 1995 in Kraft gesetzt 18 01.01.2013
+[^86-1]: Mit RB vom 20. Juni 1995 auf den 1. Juli 1995 in Kraft gesetzt.
 
-## Weitere Fussnoten
-
-- [5] Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3325, am 1. Januar 2007 in Kraft getreten.
+-
