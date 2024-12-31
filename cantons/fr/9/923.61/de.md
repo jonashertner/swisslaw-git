@@ -1,23 +1,22 @@
 ---
 canton: FR
 number: "923.61"
-title: "Ausführungsreglement zum Konkordat über die Fischerei im Murtensee in den Jahren 2022, 2023 und 2024"
+title: "Ausführungsreglement zum Konkordat über die Fischerei im Murtensee in den Jahren 2025, 2026 und 2027"
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-07-06
+version: 2025-01-01
+version_adopted: 2024-06-21
 adopted: 2024-06-21
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/923.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/7082/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8111/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Ausführungsreglement zum Konkordat über die Fischerei im Murtensee in den Jahren 2022, 2023 und 2024
+# Ausführungsreglement zum Konkordat über die Fischerei im Murtensee in den Jahren 2025, 2026 und 2027
 
-vom 6. Juli 2021
+vom 21.06.2024
 
 ## Die Interkantonale Kommission für die Fischerei im Murtensee
 
@@ -37,7 +36,7 @@ gestützt auf das Konkordat vom 19. Mai 2003 über die Fischerei im Murtensee;
 
 **Terminologie**
 
-<sup>1</sup> In diesem Reglement wird aus Gründen der Lesbarkeit das generische Maskulinum verwendet und bezeichnet somit auch weibliche Personen.
+<sup>1</sup> In diesem Reglement wird aus Gründen der Lesbarkeit das generische Maskulinum verwendet; dieses bezeichnet somit auch weibliche Personen.
 
 #### Art. 2
 
@@ -59,7 +58,7 @@ des Fangaktes.
 
 **Konsultativkommission**
 
-<sup>1</sup> Die Mitglieder der Konsultativkommission werden von der Interkantonalen Kommission für die Fischerei im Murtensee (die Interkantonale Kommission) beim Vorsitzwechsel der Kantone bestimmt.
+<sup>1</sup> Die Mitglieder der Konsultativkommission werden von der Interkantonalen Kommission für die Fischerei im Murtensee (die Interkantonale Kommission) beim Wechsel des Vorsitzkantons bestimmt.
 
 <sup>2</sup> Sie werden aus den verschiedenen Fischereiorganisationen ausgewählt, nachdem diese angehört wurden.
 
@@ -81,29 +80,33 @@ des Fangaktes.
 
 **45 cm**
 
-Forelle vom 16. Januar bis 23. Oktober 2022
+Forelle vom 12. Januar bis 19. Oktober 2025
 
-vom 15. Januar bis 22. Oktober 2023
+vom 18. Januar bis 25. Oktober 2026
 
-vom 14. Januar bis 20. Oktober 2024
+vom 17. Januar bis 24. Oktober 2027
 
 **30 cm**
 
 Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. April bis 31. Dezember Wels vom 1. Januar bis 14. Mai vom 16. Juni bis 31. Dezember Barsch (Egli) vom 1. Januar bis 14. April vom 1. Juni bis 31. Dezember Zander vom 1. Januar bis 14. April vom 1. Juni bis 31. Dezember
 
-**50 cm**
+**45 cm**
 
-**15 cm**
+**50 cm**
 
 **–**
 
-<sup>2</sup> Das Fangen von Aalen, Bitterlingen und Nasen ist verboten.
+**–**
 
-<sup>3</sup> Sportfischer dürfen keine Krebse fangen.
+<sup>2</sup> Jeder gefangene Barsch (Egli) muss aufbewahrt werden und darf keinesfalls wieder ins Wasser entlassen werden.
 
-<sup>4</sup> Geschützte Fische oder solche, die das in Absatz 1 vorgeschriebene Mindestmass nicht erreichen und die von den Fischern als nicht mehr lebensfähig beurteilt werden, müssen sofort getötet und wieder ins Wasser ausgesetzt werden. Werden sie als lebensfähig beurteilt, so dürfen sie nicht getötet werden und müssen ebenfalls sofort und sorgfältig wieder ins Wasser zurückgesetzt werden. Felchen, Barsche (Egli), und Zander, die mit Netzen oder Reusen gefangen werden, können jedoch behalten werden.
+<sup>3</sup> Das Fangen von Aalen, Bitterlingen und Nasen ist verboten.
 
-<sup>5</sup> Krebse, die von Berufsfischern im Murtensee gefangen wurden, dürfen ausserhalb des Sees nicht lebendig transportiert werden.
+<sup>4</sup> Sportfischer dürfen keine Krebse fangen.
+
+<sup>5</sup> Geschützte Fische oder solche, die das in Absatz 1 vorgeschriebene Mindestmass nicht erreichen und die von den Fischern als nicht mehr lebensfähig beurteilt werden, müssen sofort getötet und wieder ins Wasser ausgesetzt werden. Werden sie als lebensfähig beurteilt, so dürfen sie nicht getötet werden und müssen ebenfalls sofort und sorgfältig wieder ins Wasser zurückgesetzt werden. Felchen, Barsche (Egli), und Zander, die mit Netzen oder Reusen gefangen werden, können jedoch behalten werden.
+
+<sup>6</sup> Krebse, die von Berufsfischern im Murtensee gefangen wurden, dürfen ausserhalb des Sees nicht lebendig transportiert werden.
 
 #### Art. 5
 
@@ -126,8 +129,6 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 #### Art. 6
 
 **Verbotene Methoden**
-
-**45 cm**
 
 <sup>1</sup> Es ist verboten:
 
@@ -175,7 +176,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 - a) das Fischen mit einer schwimmenden Angel, die mit einem festsitzenden Schwimmer und einem einfachen Angelhaken versehen ist, und zwar vom Ufer aus, im Wasser stehend oder von einem Wasserfahrzeug aus;
 
-- b) für Kinder unter 14 Jahren das Fischen von einem Wasserfahrzeug aus, vorausgesetzt, das Kind steht unter der Aufsicht eines Patentinhabers, der über einen Sachkundenachweis (siehe Art. 13) verfügt;
+- b) für Kinder unter 14 Jahren das Fischen von einem Wasserfahrzeug aus, vorausgesetzt, das Kind steht unter der Aufsicht eines Patentinhabers, der über einen Sachkundenachweis (Art. 14) verfügt;
 
 - c) für Kinder unter 14 Jahren das Fischen mit der Gambe oder mit der Wurfangel vom Ufer aus oder im Wasser stehend.
 
@@ -201,7 +202,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>2</sup> Der Inhaber des Zusatzpatents für Gastfischer muss über ein Jahrespatent für die Sportfischerei (Patent C oder D) verfügen.
 
-<sup>3</sup> Der Gast muss vom selben Wasserfahrzeug aus wie der Inhaber des Sportfischereipatents fischen. Er untersteht der Kontrolle und der Verantwortung des Patentinhabers.
+<sup>3</sup> Der Gast muss vom selben Wasserfahrzeug oder vom Ufer aus, in der Nähe des Inhabers des Sportfischereipatents fischen. Er untersteht der Kontrolle und der Verantwortung des Patentinhabers.
 
 <sup>4</sup> Der Gast darf die Schleppangeln des Inhabers des Patents C, den er begleitet, benutzen.
 
@@ -211,11 +212,11 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 #### Art. 11
 
-**Dauer und Gültigkeit des Patents**
+**Gültigkeitsdauer der Patente**
 
 <sup>1</sup> Jahrespatente sind für das laufende Kalenderjahr gültig.
 
-<sup>2.</sup> Das Tagespatent C oder D ist auf einen Tag beschränkt.
+<sup>2</sup> Das Tagespatent C oder D ist auf einen Tag beschränkt.
 
 #### Art. 12
 
@@ -253,7 +254,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>3</sup> Die Modalitäten und der Preis werden in gegenseitigem Einverständnis der beiden Konkordatskantone von Fall zu Fall festgelegt.
 
-### 5. Bewilligte Fischereigeräte und Methoden
+- 5\. Bewilligte Fischereigeräte und Methoden
 
 #### Art. 16
 
@@ -265,7 +266,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>3</sup> Nur die Schleppangel darf von einem absichtlich getriebenen Wasserfahrzeug aus verwendet werden.
 
-<sup>4</sup> Abgesehen von der Gambe, der Wurfangel und der Schleppangel dürfen höchstens 4 Angeln verwendet werden.
+<sup>4</sup> Abgesehen von der Gambe, der Wurfangel und der Schleppangel dürfen höchstens 3 Angeln verwendet werden.
 
 #### Art. 17
 
@@ -291,17 +292,15 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>2</sup> Es darf nur eine Gambe verwendet werden, und zwar unter folgenden Bedingungen:
 
-- a) Für den Fang von Barschen (Egli) darf sie vom 15. April bis 31. Mai nicht verwendet werden.
+- a) Für den Fang von Barschen (Egli) darf sie vom 15. April bis 31. Mai nicht verwendet werden und für den Fang von Felchen (Palée) darf sie vom 15. Oktober bis 31. Dezember nicht verwendet werden.
 
-- b) Für den Fang von Felchen (Palée) darf sie vom 15. Oktober bis 31. Dezember nicht verwendet werden.
+- b) Sie darf mit höchstens 5 einfachen Angelhaken verwendet werden.
 
-- c) Sie darf mit höchstens 5 einfachen Angelhaken verwendet werden.
+- c) Ihre Verwendung von einem absichtlich getriebenen Wasserfahrzeug aus ist nicht gestattet, und es ist verboten, das Wasserfahrzeug an einer Boje oder einem Fischereigerät zu befestigen oder sich diesen auf weniger als 50 m zu nähern.
 
-- d) Ihre Verwendung von einem absichtlich getriebenen Wasserfahrzeug aus ist nicht gestattet, und es ist verboten, das Wasserfahrzeug an einer Boje oder einem Fischereigerät zu befestigen oder sich diesen auf weniger als 50 m zu nähern.
+- d) Das Werfen mit der Gambe von einem Wasserfahrzeug aus ist verboten.
 
-- e) Das Werfen mit der Gambe von einem Wasserfahrzeug aus ist verboten.
-
-- f) Die Beschwerung der Gambe darf nur am Ende der Angel oder oberhalb des letzten Hakens angebracht werden.
+- e) Die Beschwerung der Gambe darf nur am Ende der Angel oder oberhalb des letzten Hakens angebracht werden.
 
 #### Art. 19
 
@@ -309,7 +308,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>1</sup> Die Senkangel ist eine beschwerte Angel ohne Schwimmer oder mit einem Laufzapfen, die den Boden nicht berührt.
 
-<sup>2</sup> Es dürfen höchstens 4 Senkangeln verwendet werden.
+<sup>2</sup> Es dürfen höchstens 3 Senkangeln verwendet werden.
 
 <sup>3</sup> Sie darf einen einzigen Köder mit einfachen, doppelten oder dreifachen Angelhaken, insgesamt jedoch höchstens 9 Schenkel aufweisen.
 
@@ -319,7 +318,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>1</sup> Die Schwebangel ist eine beschwerte Angel mit einem festsitzenden Schwimmer oder eine nicht beschwerte Angel ohne Schwimmer. Sie liegt nicht auf dem Grund auf.
 
-<sup>2</sup> Es dürfen höchstens 4 Schwebangeln verwendet werden.
+<sup>2</sup> Es dürfen höchstens 3 Schwebangeln verwendet werden.
 
 <sup>3</sup> Sie darf einen einzigen Köder mit einfachen, doppelten oder dreifachen Angelhaken, insgesamt jedoch höchstens 9 Schenkel aufweisen.
 
@@ -329,7 +328,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>1</sup> Die Setzangel ist eine beschwerte Angel, deren Beschwerung auf dem Grund aufliegt.
 
-<sup>2</sup> Es dürfen höchstens 4 Setzangeln verwendet werden.
+<sup>2</sup> Es dürfen höchstens 3 Setzangeln verwendet werden.
 
 <sup>3</sup> Sie darf einen einzigen Köder mit einfachen, doppelten oder dreifachen Angelhaken, insgesamt jedoch höchstens 9 Schenkel aufweisen.
 
@@ -339,7 +338,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>1</sup> Die Wurfangel ist eine beschwerte Angel ohne Schwimmer, deren Köder ausgeworfen und dann vom Fischer zurückgezogen wird.
 
-<sup>2</sup> Es dürfen höchstens 2 Wurfangeln verwendet werden.
+<sup>2</sup> Es darf nur eine Wurfangel verwendet werden.
 
 <sup>3</sup> Sie darf einen einzigen Köder mit einfachen, doppelten oder dreifachen Angelhaken, insgesamt jedoch höchstens 9 Schenkel aufweisen.
 
@@ -357,7 +356,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 - c) Sie darf nur für den Fang von Köderfischen und nur für den Eigenbedarf des Inhabers des Fischereipatents verwendet werden.
 
-- d) Mit der Köderfischsenke dürfen nur Fische der in Artikel 3 Abs. 1 dieses Reglements nicht genannten Arten gefangen werden.
+- d) Mit der Köderfischsenke dürfen nur Fische der in Artikel 4 Abs. 1 dieses Reglements nicht genannten Arten gefangen werden.
 
 #### Art. 24
 
@@ -399,15 +398,11 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 **Köder**
 
-<sup>1</sup> Die Verwendung von lebenden Köderfischen für den Fang von Raubfischen ist nur Sportfischern, die Inhaber eines SaNa sind, erlaubt.
+<sup>1</sup> Es ist verboten, folgende Köder zu verwenden:
 
-<sup>2</sup> Lebende Köderfische dürfen nur am Maul am Angelhaken befestigt werden.
+- a) lebende Fische;
 
-<sup>3</sup> Als Köder dürfen nicht verwendet werden:
-
-- a) Fische, die nicht im Murtensee gefangen wurden;
-
-- b) Fische, die zu einer im Murtensee standortfremden Art gehören;
+- b) Fische, die nicht im Murtensee gefangen wurden;
 
 - c) Fische mit Gefährdungsstatus 1, 2, 3 oder 4 gemäss Anhang 2;
 
@@ -415,27 +410,23 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 - e) Krebse.
 
-<sup>4</sup> Lebende Köderfische müssen spätestens bei Fischereischluss wieder ins Wasser zurückgesetzt werden.
-
 - 6\. Fang und Statistik
 
 #### Art. 29
 
 **Kontrolle und Hälterung der gefangenen Fische**
 
-<sup>1</sup> Fische müssen schonend gefangen werden.
+<sup>1</sup> Fische müssen schonend gefangen und behandelt werden.
 
 <sup>2</sup> Zum Verzehr bestimmte Fische sind unverzüglich zu töten. Fischer, die über einen SaNa gemäss Artikel 5a VBGF verfügen, dürfen lebende Fische kurzfristig hältern, vorausgesetzt, dass diese nicht verletzt sind; die Fische dürfen durch die Hälterung nicht leiden.
 
 <sup>3</sup> Als kurzfristig gilt grundsätzlich bis am Ende des Fangtags. Ausnahmen können gemacht werden bei Fischen, die vor der Konsumation in sauberem Wasser gehältert werden müssen (Wels, Karpfen und andere Weissfische im Sommer).
 
-<sup>4</sup> Die gefangenen Fische dürfen vor dem Ende des Fischereiausflugs nicht so verstümmelt werden, dass ihre Grösse und Anzahl nicht mehr ermittelt werden kann.
+<sup>4</sup> Die gefangenen Fische dürfen vor dem Ende des Fischereiausflugs nicht so verstümmelt werden, dass ihre Grösse und Anzahl nicht mehr ermittelt werden können.
 
-<sup>5</sup> Gehälterte Fische, mit Ausnahme lebender Köderfische, dürfen nicht wieder ins Wasser ausgesetzt werden.
+<sup>5</sup> Gehälterte Fische dürfen nicht wieder ins Wasser ausgesetzt werden.
 
-<sup>6</sup> Die Bestimmungen der Absätze 2–4 gelten nicht für lebende Köderfische.
-
-<sup>7</sup> Fische müssen gemäss den Anforderungen der eidgenössischen Tierschutzverordnung und der dazugehörigen Vollzugshilfe getötet werden.
+<sup>6</sup> Fische müssen gemäss den Anforderungen der eidgenössischen Tierschutzverordnung und der dazugehörigen Vollzugshilfe getötet werden.
 
 #### Art. 30
 
@@ -451,11 +442,11 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 - 70 Barsche (Egli);
 
-- 8 Zander;
-
 - 8 Felchen;
 
 - 5 Hechte;
+
+- 5 Zander;
 
 - 2 Forellen.
 
@@ -463,11 +454,13 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 - 1500 Barsche (Egli);
 
+- 100 Felchen;
+
 - 100 Hechte;
 
-- 20 Forellen;
+- 50 Zander;
 
-- 100 Felchen.
+- 20 Forellen.
 
 <sup>3</sup> Wird ein Inhaber eines Sportfischereipatents von einer Person, die keine patentpflichtige Fischerei ausübt, oder von einem Kind unter 14 Jahren begleitet, so darf der Ertrag dieser Personen zusammen die in diesem Artikel festgesetzten Höchstmengen nicht überschreiten.
 
@@ -477,7 +470,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 **Kontrollheft und Statistikbogen**
 
-<sup>1</sup> Inhaber eines Jahrespatents für Sportfischer müssen ihr Kontrollheft, in dem sie das Datum, die Zahl und das Gewicht ihrer Fänge und der Fänge ihrer Gäste unmittelbar nach dem Fang, mit unlöschbarer Tinte eingetragen haben, bei sich haben, entsprechend der im Kontrollheft enthaltenen Vorschriften.
+<sup>1</sup> Inhaber eines Jahrespatents für Sportfischerei müssen ihr Kontrollheft, in dem sie das Datum, die Zahl und das Gewicht ihrer Fänge und der Fänge ihrer Gäste unmittelbar nach dem Fang mit unlöschbarer Tinte eingetragen haben, bei sich haben, entsprechend der im Kontrollheft enthaltenen Vorschriften.
 
 <sup>2</sup> Inhaber eines Tagespatents für Sportfischerei müssen ihren Statistikbogen, in dem sie die Zahl und das Gewicht ihrer Fänge unmittelbar nach dem Fang mit unlöschbarer Tinte eingetragen haben, bei sich haben.
 
@@ -603,11 +596,17 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>1</sup> Es gelten folgende Begriffsbestimmungen:
 
-- a) Netz: jedes Fischereigerät, das aus einem weichen Maschengeflecht aus Natur- oder Kunstfasern besteht; es ist verankert, schwimmend oder auf den Grund gesetzt;
+- a) Netz: jedes Fischereigerät, das aus einem weichen Maschengeflecht aus Natur- oder Kunstfasern besteht; es ist verankert, schwimmend oder auf
 
-- b) einfaches Netz: besteht aus einem einzelnen viereckigen Maschengeflecht;
+den Grund gesetzt;
 
-- c) Spiegelnetz: besteht aus einer Schicht mit kleiner Maschenweite und einer oder zwei darüberliegenden Schichten mit grosser Maschenweite;
+- b) einfaches Netz: besteht aus einem einzelnen viereckigen
+
+Maschengeflecht;
+
+- c) Spiegelnetz: besteht aus einer Schicht mit kleiner Maschenweite und einer oder zwei darüberliegenden Schichten mit grosser
+
+Maschenweite;
 
 - d) Satz: eine Reihe miteinander verbundener Netze;
 
@@ -619,9 +618,13 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 - h) Reuse: jede Fisch- oder Krebsfalle aus einem Maschennetz aus natürlichen oder synthetischen Fasern oder Metalldraht, das starr auf ein Gerüst gespannt ist;
 
-- i) Krebswaage: eine auf dem Grund gesetzte Falle, die mit einer Schnur mit der Oberfläche verbunden ist; sie besteht aus einem oder mehreren aufeinanderliegenden Ringen, die mit Maschendraht oder mit einem Netz miteinander verbunden sind; der untere Ring wird mit Maschendraht oder mit einem Netz verschlossen;
+- i) Krebswaage: eine auf dem Grund gesetzte Falle, die mit einer Schnur mit der Oberfläche verbunden ist; sie besteht aus einem oder mehreren aufeinanderliegenden Ringen, die mit Maschendraht oder mit einem Netz miteinander verbunden sind; der untere Ring wird mit Maschendraht oder mit einem Netz
 
-- j) Schnur: verankerte Angel; sie kann sitzend oder schwimmend sein.
+verschlossen;
+
+- j) Schnur: verankerte Angel; sie kann sitzend oder
+
+schwimmend sein.
 
 #### Art. 43
 
@@ -643,7 +646,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 <sup>4</sup> Die Maschenweite entspricht dieser Markierung.
 
-<sup>5.</sup> Die Maschenweite der Reusen entspricht dem Mittelwert von 10 aufeinanderfolgenden Maschen, die mit einem Massstab gemäss der kürzesten Distanz zwischen zwei gegenüberliegenden Seiten und ohne Berücksichtigung der Schnurstärke gemessen werden.
+<sup>5</sup> Die Maschenweite der Reusen entspricht dem Mittelwert von 10 aufeinanderfolgenden Maschen, die mit einem Massstab gemäss der kürzesten Distanz zwischen zwei gegenüberliegenden Seiten und ohne Berücksichtigung der Schnurstärke gemessen werden.
 
 #### Art. 44
 
@@ -697,7 +700,7 @@ Felchen vom 1. Januar bis 14. Oktober Hecht vom 1. Januar bis 14. März vom 16. 
 
 **Bodennetze mit 45 mm Maschenweite**
 
-Der Gebrauch des Bodennetzes mit einer Maschenweite von mindestens 45 mm unterliegt folgenden Einschränkungen:
+<sup>1</sup> Der Gebrauch des Bodennetzes mit einer Maschenweite von mindestens 45 mm unterliegt folgenden Einschränkungen:
 
 - a) Nur 6 dieser Netze dürfen höher als 2 m sein.
 
@@ -711,7 +714,7 @@ Der Gebrauch des Bodennetzes mit einer Maschenweite von mindestens 45 mm unterli
 
 **Schwebnetz mit mindestens 45 mm Maschenweite**
 
-Der Gebrauch des Schwebnetzes unterliegt folgenden Einschränkungen:
+<sup>1</sup> Der Gebrauch des Schwebnetzes unterliegt folgenden Einschränkungen:
 
 - a) Die Maschenweite muss mindestens 45 mm betragen.
 
@@ -729,7 +732,7 @@ Der Gebrauch des Schwebnetzes unterliegt folgenden Einschränkungen:
 
 **Netz mit 26–29,9 mm Maschenweite**
 
-Der Gebrauch eines einzigen über 2 m hohen Netzes mit einer Maschenweite von 26–29,9 mm, das sitzend oder schwimmend gesetzt werden kann, ist unter folgenden Bedingungen gestattet:
+<sup>1</sup> Der Gebrauch eines einzigen über 2 m hohen Netzes mit einer Maschenweite von 26–29,9 mm, das sitzend oder schwimmend gesetzt werden kann, ist unter folgenden Bedingungen gestattet:
 
 - a) Dieses Gerät ersetzt 4 Netze nach Artikel 46.
 
@@ -753,7 +756,7 @@ Der Gebrauch eines einzigen über 2 m hohen Netzes mit einer Maschenweite von 26
 
 **Netz für den Fang von Kleinfischen**
 
-Jeder Kanton kann mit dem Einverständnis des anderen Kantons den Gebrauch von Netzen für den Fang von Kleinfischen bewilligen. Die Masse dieser Geräte können von den Bestimmungen in Artikel 44 abweichen.
+<sup>1</sup> Jeder Kanton kann mit dem Einverständnis des anderen Kantons den Gebrauch von Netzen für den Fang von Kleinfischen bewilligen. Die Masse dieser Geräte können von den Bestimmungen in Artikel 44 abweichen.
 
 #### Art. 52
 
@@ -773,7 +776,7 @@ Jeder Kanton kann mit dem Einverständnis des anderen Kantons den Gebrauch von N
 
 **Schnur**
 
-Die Inhaber des Patents A dürfen beliebig viele Setzschnüre und Schwebschnüre verwenden, wobei letztere höchstens 500 einfache, doppelte oder dreifache Angelhaken aufweisen dürfen.
+<sup>1</sup> Die Inhaber des Patents A dürfen beliebig viele Setzschnüre und schwimmende Schnüre verwenden, wobei letztere höchstens 500 einfache, doppelte oder dreifache Angelhaken aufweisen dürfen.
 
 #### Art. 54
 
@@ -789,33 +792,49 @@ Die Inhaber des Patents A dürfen beliebig viele Setzschnüre und Schwebschnüre
 
 **Abweichungen von den bewilligten Wassertiefen**
 
-Wenn nötig, können die für die Fischerei zuständigen Dienststellen der Konkordatskantone in gegenseitigem Einverständnis und für eine befristete Dauer für den Gebrauch der Netze Abweichungen von den vorgeschriebenen Wassertiefen nach den Artikeln 45–50 festlegen.
+<sup>1</sup> Wenn nötig können die für die Fischerei zuständigen Dienststellen der Konkordatskantone in gegenseitigem Einverständnis und für eine befristete Dauer für den Gebrauch der Netze Abweichungen von den vorgeschriebenen Wassertiefen nach den Artikeln 45–50 festlegen.
 
 #### Art. 56
 
 **Köder**
 
-<sup>1</sup> Berufsfischern ist die Verwendung von lebenden Köderfischen für den Fang von Raubfischen nach denselben Bedingungen wie für die Sportfischerei (Artikel 28) erlaubt.
+<sup>1</sup> Berufsfischern ist die Verwendung von lebenden Köderfischen für den Fang von Raubfischen ausschliesslich in Gebieten mit Wasserpflanzen erlaubt.
 
-<sup>2</sup> Berufsfischer dürfen zusätzlich lebende Köderfische für die Fischerei mit der Schnur (Art. 53 und 54) verwenden.
+<sup>2</sup> Die Verwendung von lebenden Köderfischen ist nur beim Angeln mit folgenden Geräten erlaubt: Setzschnur und schwimmende Schnur (Schäubli).
+
+<sup>3</sup> Lebende Köderfische dürfen nur durch das Maul am Haken befestigt werden.
+
+<sup>4</sup> Es ist verboten, folgende Köder zu verwenden:
+
+- a) Fische, die nicht im Murtensee gefangen wurden;
+
+- b) Fische, die zu einer im Murtensee standortfremden Art gehören;
+
+- c) Fische mit Gefährdungsstatus 1, 2, 3 oder 4 gemäss Anhang 2;
+
+- d) Fisch- und Amphibieneier;
+
+- e) Krebse.
+
+<sup>5</sup> Lebende Köderfische müssen spätestens bei Fischereischluss wieder ins Wasser zurückgesetzt werden.
 
 #### Art. 57
 
 **Pflicht, die Geräte zu heben**
 
-<sup>1</sup> Die Patentinhaber müssen ihre Geräte, die Reuse ausgenommen, die innerhalb des Zeitraums vom 1. Mai bis 30. September in weniger als 20 m Tiefe gesetzt wurden, innert 24 Stunden heben.
+<sup>1</sup> Die Patentinhaber müssen ihre Fischereigeräte innert 48 Stunden heben. Diese Frist beträgt 24 Stunden für Geräte, die Reuse ausgenommen, die innerhalb des Zeitraums vom 1. Mai bis 30. September in weniger als 20 m Tiefe gesetzt wurden.
 
-<sup>2</sup> Bei anhaltend schlechtem Wetter können die Fischereiaufseher Ausnahmen von Absatz 1 gestatten.
+<sup>2</sup> Bei anhaltend schlechtem Wetter können die für die Fischereiaufsicht zuständigen Beamten Ausnahmen von Absatz 1 gestatten.
 
 #### Art. 58
 
 **Kennzeichnung der Netze und Reusen**
 
-Jedes ins Wasser ausgesetzte oder ausgelegte Fischereigerät muss mit einem schwimmenden Kennzeichen versehen sein, das den Namen und Vornamen des Eigentümers des Geräts aufweist. Zudem muss Folgendes beachtet werden:
+<sup>1</sup> Jedes ins Wasser ausgesetzte oder ausgelegte Fischereigerät muss mit einem schwimmenden Kennzeichen versehen sein, das den Namen und Vornamen des Eigentümers des Geräts aufweist. Zudem muss Folgendes beachtet werden:
 
 - a) Die Netze und Sätze werden an jedem Ende mit einer Boje von mindestens 10 l oder mit einer Fahne versehen, die mindestens 60 cm aus dem Wasser ragt.
 
-- b) Die Kennzeichen, die das Ende eines bestimmten Netzes oder Satzes markieren, müssen vom selben Typ (Boje oder Fahne) und von derselben Farbe sein.
+- b) Die Kennzeichen, welche die Enden eines bestimmten Netzes oder Satzes markieren, müssen vom selben Typ (Boje oder Fahne) und von derselben Farbe sein.
 
 - c) Jede Reuse und jede Schwebschnur mit Ausnahme des Schäublis wird mit einer Boje von mindestens 10 l versehen; alle Kennzeichen einer Reuse müssen gut sichtbar mit dem Grossbuchstaben «N» versehen werden.
 
@@ -823,13 +842,13 @@ Jedes ins Wasser ausgesetzte oder ausgelegte Fischereigerät muss mit einem schw
 
 - e) Die Kennzeichen dürfen nur mit einer Kette oder einem Metallkabel befestigt werden, wenn die ersten 2 Meter der Kette bzw. des Kabels unter der Wasseroberfläche durch eine steife Hülle geschützt oder durch ein Seil ersetzt werden.
 
-### 10. Fang und Statistik
+- 10\. Fang und Statistik
 
 #### Art. 59
 
 **Kontrolle und Hälterung der gefangenen Fische**
 
-<sup>1</sup> Fische und Krebse müssen schonend gefangen werden.
+<sup>1</sup> Fische und Krebse müssen schonend gefangen und behandelt werden.
 
 <sup>2</sup> Zum Verzehr bestimmte Fische müssen unverzüglich getötet werden. Berufsfischer dürfen lebende Fische kurzfristig hältern; die Fische dürfen durch die Hälterung nicht leiden.
 
@@ -851,11 +870,11 @@ Jedes ins Wasser ausgesetzte oder ausgelegte Fischereigerät muss mit einem schw
 
 <sup>1</sup> Berufsfischern ist es erlaubt, unter folgenden Bedingungen Fisch- und Krebsabfälle im Murtensee zu versenken:
 
-- a) die Abfälle müssen von Fischen und Krebsen stammen, die im Murtensee gefangen wurden;
+- a) Die Abfälle müssen von Fischen und Krebsen stammen, die im Murtensee gefangen wurden.
 
-- b) die Abfälle müssen mindestens eine Stunde nach Sonnenuntergang bis zu einer Stunde vor Sonnenaufgang versenkt werden;
+- b) Die Abfälle müssen mindestens eine Stunde nach Sonnenuntergang bis zu einer Stunde vor Sonnenaufgang versenkt werden.
 
-- c) die Wassertiefe muss an diesem Ort mindestens 30 m betragen.
+- c) Die Wassertiefe muss an diesem Ort mindestens 30 m betragen.
 
 <sup>2</sup> Berufsfischer, die Fische bearbeiten, die nicht aus dem Murtensee stammen, dürfen keine Abfälle im Sinne von Absatz 1 versenken.
 
@@ -865,13 +884,13 @@ Jedes ins Wasser ausgesetzte oder ausgelegte Fischereigerät muss mit einem schw
 
 **Organisation**
 
-Die für die Fischerei zuständigen Dienststellen der Konkordatskantone ernennen die Fischer, die berechtigt sind, während der Schonzeit namentlich Elterntiere für die Fischzucht zu fangen, und setzen die entsprechenden Bedingungen fest.
+<sup>1</sup> Die für die Fischerei zuständigen Dienststellen der Konkordatskantone ernennen die Fischer, die berechtigt sind, während der Schonzeit namentlich Elterntiere für die Fischzucht zu fangen, und setzen die entsprechenden Bedingungen fest.
 
 #### Art. 63
 
 **Fischzuchtanlagen**
 
-Fischzuchtanlagen im See (schwimmende oder untergetauchte), die der Erzeugung von Speisefischen dienen, sind verboten.
+<sup>1</sup> Fischzuchtanlagen im See (schwimmende oder untergetauchte), die der Erzeugung von Speisefischen dienen, sind verboten.
 
 ### 4. KAPITEL Schlussbestimmungen
 
@@ -911,21 +930,27 @@ Fischzuchtanlagen im See (schwimmende oder untergetauchte), die der Erzeugung vo
 
 <sup>3</sup> Eine Widerhandlung gilt als Rückfall, wenn sie auf eine gleichartige Straftat folgt. Sie gilt nicht als erster Rückfall, sofern seit der letzten Widerhandlung mehr als drei Jahre verstrichen sind; sie gilt nicht als zweiter Rückfall, sofern die letzte Widerhandlung mehr als fünf Jahre zurückliegt.
 
-<sup>4</sup> Bei besonders schwer wiegenden oder wiederholten Widerhandlungen kann die Entzugsdauer des Patents verlängert werden. Bei geringfügigen Widerhandlungen kann sie ausnahmsweise gekürzt werden.
+<sup>4</sup> Bei besonders schwerwiegenden oder wiederholten Widerhandlungen kann die Entzugsdauer des Patents verlängert werden. Bei geringfügigen Widerhandlungen kann sie ausnahmsweise gekürzt werden.
 
 #### Art. 66
 
-Vor Inkrafttreten dieses Reglements entstandene Tatbestände Die vor dem Inkrafttreten dieses Reglements verfügten verwaltungsrechtlichen Massnahmen des Fischereirechts und entstandenen Straftatbestände werden bei der Anwendung der Artikel 64 und 65 berücksichtigt.
+**Vor Inkrafttreten dieses Reglements entstandene Tatbestände**
+
+<sup>1</sup> Die vor dem Inkrafttreten dieses Reglements verfügten verwaltungsrechtlichen Massnahmen des Fischereirechts und entstandenen Straftatbestände werden bei der Anwendung der Artikel 64 und 65 berücksichtigt.
 
 - 13\. Inkrafttreten, Aufhebung bisherigen Rechts und Veröffentlichung
 
 #### Art. 67
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2022 in Kraft.
+<sup>1</sup> Dieses Reglement tritt am 1. Januar 2025 in Kraft.
 
-<sup>2</sup> Das Ausführungsreglement vom 14. Juni 2018 zum Konkordat über die Fischerei im Murtensee in den Jahren 2019, 2020 und 2021 wird aufgehoben.
+<sup>2</sup> Das Ausführungsreglement vom 6. Juli 2021 zum Konkordat über die Fischerei im Murtensee in den Jahren 2022, 2023 und 2024 wird aufgehoben.
 
-<sup>3</sup> Es wird in den amtlichen Publikationsorganen der Konkordatskantone veröffentlicht .
+<sup>3</sup> Es wird in den amtlichen Publikationsorganen der Konkordatskantone veröffentlicht.
+
+### Genehmigung durch den Bund
+
+— Die Artikel 4-7, 16-31, 4, 44-57 und 59 dieses Reglements wurden am 14.11.2024 vom das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt (ASF INFO 2024-47).
 
 ## ANHANG 1
 
@@ -933,13 +958,11 @@ Vor Inkrafttreten dieses Reglements entstandene Tatbestände Die vor dem Inkraft
 
 **TAGESPATENT**
 
-### JAHRESPATENT Fischereipatent Erwachsene Minderjährige
+### JAHRESPATENT Fischereipatent Erwachsene Minderjährige Fr.
 
 **Erwachsene Minderjährige**
 
 **Fr. Fr. Fr.**
-
-### Fr.
 
 **500.–**
 
@@ -949,11 +972,15 @@ Berufspatent (Patent A)
 
 **(Ausgeschlossen) (Ausgeschlossen) (Ausgeschlossen)**
 
-Spezialberufspatent 250.– (Patent B) Sportfischereipatent mit Schleppangel (Patent C) Sportfischereipatent ohne Schleppangel (Patent D)
+Spezialberufspatent 250.– (Patent B)
 
 **120.– 60.– 20.– 20.–**
 
+Sportfischereipatent mit Schleppangel (Patent C)
+
 **70.– 35.– 15.– 15.–**
+
+Sportfischereipatent ohne Schleppangel (Patent D)
 
 **50.–**
 
@@ -961,7 +988,7 @@ Spezialberufspatent 250.– (Patent B) Sportfischereipatent mit Schleppangel (Pa
 
 Zusatzpatent für Gastfischer
 
-### Personen, die nicht in einem der beiden Konkordatskantone Freiburg und Waadt wohnen (Art. 12 und 35)
+### Personen die nicht in einem der beiden Konkordatskantone Freiburg und Waadt wohnen (Art. 12 und 35)
 
 **JAHRESPATENT TAGESPATENT**
 
@@ -971,17 +998,15 @@ Zusatzpatent für Gastfischer
 
 **(Ausgeschlossen) (Ausgeschlossen) (Ausgeschlossen) (Ausgeschlossen)**
 
-Berufspatent (Patent A) Spezialberufspatent (Patent B)
+Berufspatent (Patent A)
 
 **(Ausgeschlossen) (Ausgeschlossen) (Ausgeschlossen) (Ausgeschlossen)**
 
+Spezialberufspatent (Patent B) Sportfischereipatent mit Schleppangel (Patent C) Sportfischereipatent ohne Schleppangel (Patent D)
+
 **240.– 120.– 20.– 20.–**
 
-Sportfischereipatent mit Schleppangel (Patent C)
-
 **140.– 70.– 15.– 15.–**
-
-Sportfischereipatent ohne Schleppangel (Patent D)
 
 **100.–**
 
@@ -991,13 +1016,13 @@ Zusatzpatent für Gastfischer
 
 ## ANHANG 2
 
-### Gefährdungsstatus der Fische im Murtensee (Art. 28 Abs. 4)
+### Gefährdungsstatus der Fische im Murtensee (Art. 28 Abs 1 und 56 Abs. 4)
 
-**Gefährdungsstatus 1)**
+### Nom vernaculaire/ Name deutsch/ Wissenschaftlicher Gefährdungs-
 
-### Nom vernaculaire/ Name deutsch/ Name
+**Name status 1**
 
-local lokal wissenschaftlich
+local lokal
 
 ### Anguillidae
 
@@ -1007,27 +1032,31 @@ Anguille Aal Anguilla anguilla
 
 ### Cobitidae
 
-**DU, E 2**
+**2**
 
-Loche de rivière Dorngrundel Cobitis taenia Cobite italiano Cobite italiano Cobitis bilineata
+Cobite italiano, Cobite italiano, Cobitis bilineata Loche transalpine Dorngrundel Loche de rivière Steinbeisser Cobitis taenia
+
+**DU, E**
 
 ### Coregonidae
 
 **4, E**
 
-Corégones Felchenartige Coregonus spp.
+Corégones Felchen Coregonus spp.
 
 ### Cyprinidae
 
-**NG 3, E NG 4 4 1, E 4 NG NG NG 2, E NG**
+**NG 3, E**
 
-Brème franche Brachsmen Abramis brama Spirlin Schneider Alburnoides bipunctatus Ablette Laube Alburnus alburnus Barbeau Barbe Barbus barbus Brème bordelière Blicke Blicca bjoerkna Nase Nase Chondrostoma nasus Carpe Karpfen Cyprinus carpio Goujon Gründling Gobio gobio Vandoise Hasel Leuciscus leuciscus Vairon Elritze Phoxinus phoxinus Bouvière Bitterling Rhodeus amarus Gardon, Rotauge Rutilus rutilus Vengeron Rotengle Rotfeder Scardinius erythrophthalmus
+Brème franche Brachsmen Abramis brama Spirlin Schneider Alburnoides bipunctatus Ablette Laube Alburnus alburnus Barbeau Barbe Barbus barbus Brème bordelière Blicke Blicca bjoerkna Nase Nase Chondrostoma nasus 1, E Carpe Karpfen Cyprinus carpio Goujon Gründling Gobio gobio Vandoise Hasel Leuciscus leuciscus Vairon Elritze Phoxinus phoxinus Bouvière Bitterling Rhodeus amarus Gardon, Vengeron Rotauge Rutilus rutilus Rotengle Rotfeder Scardinius erythrophthalmus
 
-**Gefährdungsstatus 1) NG 3, E NG**
+### Nom vernaculaire/ Name deutsch/ Wissenschaftlicher Gefährdungs-
 
-### Nom vernaculaire/ Name deutsch/ Name
+**Name status 1**
 
-local lokal wissenschaftlich Chevaine Alet Squalius cephalus Blageon Strömer Telestes souffia Tanche Schleie Tinca tinca
+local lokal Chevaine Alet Squalius cephalus Blageon Strömer Telestes souffia Tanche Schleie Tinca tinca
+
+**NG 3, E NG**
 
 ### Esocidae
 
@@ -1055,45 +1084,49 @@ Loche franche Schmerle, Barbatula barbatula Bartgrundel
 
 ### Percidae
 
-**NG NG**
+**NG 4 4**
 
-Grémille Kaulbarsch Gymnocephalus cernua Perche Flussbarsch, Perca fluviatilis Egli
+**NG**
+
+Grémille Kaulbarsch Gymnocephalus cernua Perche Flussbarsch, Egli Perca fluviatilis
+
+**NG**
 
 ### Salmonidae
+
+**4 NG NG NG 2, E NG NG**
 
 **4 2 3**
 
 Truite de rivière Bachforelle Salmo trutta Truite lacustre Seeforelle Salmo trutta Omble-chevalier Seesaibling Salvelinus umbla
 
-**NG**
-
 ### Siluridae
 
 **NG, E**
 
-Silure glâne Wels Silurus glanis NG = nicht gefährdet, DU = Datenlage ungenügend, E = europäisch geschützt nach Berner Konvention.
+Silure glâne Wels Silurus glanis
 
 ## ANHANG 3
 
 ### Nicht zur Fauna des Murtensees gehörende Fisch- und Krebsarten
 
-**Name wissenschaftlich**
-
 ### Nom vernaculaire/ Name deutsch/
+
+**Wissenschaftlicher Name**
 
 local lokal
 
 ### Centrarchidae
 
-**Lepomis gibbosus**
+**Lepomis gibbosus Micropterus salmoides**
 
-Perche soleil Sonnenbarsch
+Perche soleil Sonnenbarsch Black-bass à Forellenbarsch grande bouche
 
 ### Cyprinidae
 
-**Carassius auratus Carassius gibelio Carassius carassius**
+**Carassius auratus Carassius gibelio Carassius carassius Hypophthalmichthys**
 
-Poisson rouge Goldfisch Carpe prussienne Giebel Carassin Karausche
+Poisson rouge Goldfisch Carpe prussienne Giebel Carassin Karausche Carpe marbrée Marmorkarpfen nobilis
 
 ### Percidae
 
@@ -1107,11 +1140,11 @@ Sandre Zander
 
 Truite arc-en-ciel Regenbogenforelle
 
-### Astacidae
+### Decapoda
 
 **Faxonius limosus**
 
-Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signalkrebs
+Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signalkrebs Crabe chinois Chinesische Wollhandkrabbe
 
 ## ANHANG 4
 
@@ -1127,9 +1160,9 @@ Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signal
 
 23 26 28 30 32 33 34 35 36 38 40 45 50 60
 
-**Pacifastacus leniusculus**
-
 ### Fischereinetzhöhe im Wasser HP = 5 m
+
+**Pacifastacus leniusculus Eriocheir sinensis**
 
 **Netzhöhe geschlossene Maschen (m)**
 
@@ -1137,11 +1170,20 @@ Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signal
 
 **110 5,0 103 5,0 95 4,9 90 4,9 85 5,0 80 5,0 64 5,0 57 4,9 48 5,0**
 
-26 28 30 32 34 36 45 50 60
+26 28 30 32 34 36 45 50 60 Inkrafttreten für den Kanton Freiburg: 1. Januar 2025
+
+### Änderungstabelle – Nach Beschlussdatum
+
+### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
+
+21.06.2024 Erlass Grunderlass 01.01.2025 2024\_070
+
+### Änderungstabelle – Nach Artikel
+
+### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
+
+Erlass Grunderlass 21.06.2024 01.01.2025 2024\_070
 
 ## Weitere Fussnoten
 
-- [1] = vom Aussterben bedroht,
-- [2] = stark gefährdet,
-- [3] = gefährdet,
-- [4] = potenziell gefährdet,
+- [1] Gefährdungsstatus der Art nach Anhang 1 der Verordnung vom 24. November 1993 zum Bundesgesetz über die Fischerei: 1 = vom Aussterben bedroht, 2 = stark gefährdet, 3 = gefährdet, 4 = potenziell gefährdet, NG = nicht gefährdet, DU = Datenlage ungenügend, E = europäisch geschützt nach Berner Konvention.

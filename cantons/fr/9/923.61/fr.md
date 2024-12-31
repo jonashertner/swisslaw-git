@@ -1,33 +1,32 @@
 ---
 canton: FR
 number: "923.61"
-title: "Règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2022, 2023 et 2024"
+title: "Règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2025, 2026 et 2027"
 language: fr
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-07-06
+version: 2025-01-01
+version_adopted: 2024-06-21
 adopted: 2024-06-21
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/923.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7082/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8111/pdf_file"
 text: pdf
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
 
-# Règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2022, 2023 et 2024
+# Règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2025, 2026 et 2027
 
-du 6 juillet 2021
+du 21.06.2024
 
 ## La Commission intercantonale de la pêche dans le lac de Morat
 
-Vu la loi fédérale du 21 juin 1991 sur la pêche (LFSP) ;
+Vu la loi fédérale du 21 juin 1991 sur la pêche (LFSP);
 
-Vu l’ordonnance fédérale du 24 novembre 1993 relative à la loi fédérale sur la pêche (OLFP) ;
+Vu l’ordonnance fédérale du 24 novembre 1993 relative à la loi fédérale sur la pêche (OLFP);
 
-Vu l’ordonnance fédérale du 23 avril 2008 sur la protection des animaux (OPAn) ;
+Vu l’ordonnance fédérale du 23 avril 2008 sur la protection des animaux (OPAn);
 
-Vu le concordat du 19 mai 2003 sur la pêche dans le lac de Morat ;
+Vu le concordat du 19 mai 2003 sur la pêche dans le lac de Morat;
 
 ## Edicte les dispositions suivantes :
 
@@ -43,17 +42,17 @@ CHAPITRE PREMIER Dispositions générales
 
 **Définition**
 
-<sup>1.</sup> On entend par :
+<sup>1</sup> On entend par :
 
-- a) pêche passive : celle où le pêcheur n’intervient que pour tendre ou relever l’engin mais ne manipule pas ce dernier lors du processus de capture proprement dit ;
+- a) pêche passive: celle où le pêcheur n’intervient que pour tendre ou relever l’engin mais ne manipule pas ce dernier lors du processus de capture proprement dit;
 
-- b) pêche active : celle où le pêcheur manipule l’engin lors du
+- b) pêche active: celle où le pêcheur manipule l’engin lors du
 
-processus de capture ;
+processus de capture;
 
-- c) embarcation : tout bateau, radeau, engin de plage (belly boat, float tube, matelas pneumatiques et autres bouées) ou engin analogue, qu’il soit amarré ou non.
+- c) embarcation: tout bateau, radeau, engin de plage (belly boat, float tube, matelas pneumatiques et autres bouées) ou engin analogue, qu’il soit amarré ou non.
 
-### 1. Organisation
+- 1\. Organisation
 
 #### Art. 3
 
@@ -77,33 +76,35 @@ processus de capture ;
 
 **Longueur minimale 45 cm**
 
-### Espèce Période de pèche autorisée
+### Espèce Période de pêche autorisée
 
-Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023 – du 14 janvier au 20 octobre 2024 Corégone du 1<sup>er</sup> janvier au 14 octobre Brochet – du 1<sup>er</sup> janvier au 14 mars – du 16 avril au 31 décembre Silure – du 1<sup>er</sup> janvier au 14 mai – du 16 juin au 31 décembre Perche – du 1<sup>er</sup> janvier au 14 avril – du 1<sup>er</sup> juin au 31 décembre Sandre – du 1<sup>er</sup> janvier au 14 avril – du 1<sup>er</sup> juin au 31 décembre
+Truite – du 12 janvier au 19 octobre 2025 – du 18 janvier au 25 octobre 2026 – du 17 janvier au 24 octobre 2027 Corégone – du 1<sup>er</sup> janvier au 14 octobre Brochet – du 1<sup>er</sup> janvier au 14 mars – du 16 avril au 31 décembre Silure – du 1<sup>er</sup> janvier au 14 mai – du 16 juin au 31 décembre Perche – du 1<sup>er</sup> janvier au 14 avril – du 1<sup>er</sup> juin au 31 décembre Sandre – du 1<sup>er</sup> janvier au 14 avril – du 1<sup>er</sup> juin au 31 décembre
 
 **30 cm 45 cm**
 
 **50 cm**
 
-**15 cm**
+**–**
 
 **–**
 
-<sup>2</sup> La pêche de l’anguille, de la bouvière et du nase est interdite.
+<sup>2</sup> Toute perche capturée doit être conservée et ne peut en aucun cas être remise à l’eau.
 
-<sup>3</sup> La capture des écrevisses par des pêcheurs de loisir est interdite.
+<sup>3</sup> La pêche de l’anguille, de la bouvière et du nase est interdite.
 
-<sup>4</sup> Les poissons protégés ou qui n’atteignent pas la taille prescrite à l’alinéa 1, qui sont jugés non viables par le pêcheur, doivent être immédiatement mis à mort et remis à l’eau. S’ils sont jugés viables, ils ne doivent pas être mis à mort et doivent être immédiatement et soigneusement remis à l’eau, à l’exception des corégones, des perches et des sandres capturés au moyen de filets ou de nasses qui peuvent être conservés.
+<sup>4</sup> La capture des écrevisses par des pêcheurs de loisir est interdite.
 
-<sup>5</sup> Les écrevisses pêchées par des pêcheurs professionnels dans le lac de Morat ne peuvent pas être transportées vivantes hors du plan d’eau.
+<sup>5</sup> Les poissons protégés ou qui n’atteignent pas la taille prescrite à l’alinéa 1, qui sont jugés non viables par le pêcheur, doivent être immédiatement mis à mort et remis à l’eau. S’ils sont jugés viables, ils ne doivent pas être mis à mort et doivent être immédiatement et soigneusement remis à l’eau, à l’exception des corégones, des perches et des sandres capturés au moyen de filets ou de nasses qui peuvent être conservés.
+
+<sup>6</sup> Les écrevisses pêchées par des pêcheurs professionnels dans le lac de Morat ne peuvent pas être transportées vivantes hors du plan d’eau.
 
 #### Art. 5
 
 **Heures de pêche**
 
-<sup>1</sup> La pêche est autorisée pendant les heures suivantes :
+<sup>1</sup> La pêche est autorisée pendant les heures suivantes:
 
-- durant l’heure d’été : de 4 à 22 heures ;
+- durant l’heure d’été : de 4 à 22 heures;
 
 - durant l’heure d’hiver : de 6 à 19 heures.
 
@@ -121,13 +122,13 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>1</sup> Il est interdit :
 
-- a) de capturer, d’étourdir ou de tuer des organismes aquatiques au moyen du courant électrique ou d’explosifs ;
+- a) de capturer, d’étourdir ou de tuer des organismes aquatiques au moyen du courant électrique ou d’explosifs;
 
-- b) de faire usage d’appareils acoustiques, d’appareils électroniques ou de sources lumineuses pour attirer des organismes aquatiques, à l’exception du bâton à silures (« Wallerholz ») et des leurres artificiels ;
+- b) de faire usage d’appareils acoustiques, d’appareils électroniques ou de sources lumineuses pour attirer des organismes aquatiques, à l’exception du bâton à silures (« Wallerholz ») et des leurres artificiels;
 
-- c) d’attirer des organismes aquatiques au moyen de substances dispersées dans l’eau, notamment l’amorçage ;
+- c) d’attirer des organismes aquatiques au moyen de substances dispersées dans l’eau, notamment l’amorçage;
 
-- d) de faire usage de la plongée subaquatique en scaphandre ou en apnée dans l’exercice de la pêche ;
+- d) de faire usage de la plongée subaquatique en scaphandre ou en apnée dans l’exercice de la pêche;
 
 - e) de pêcher à la main, au moyen de lacets ou d’engins servant à harponner ou blesser les poissons.
 
@@ -137,19 +138,19 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>1</sup> Il est interdit de pêcher :
 
-- a) à l’intérieur de la partie lacustre du canal de la Broye et dans un rayon de 100 mètres à compter de l’extrémité de ses môles au moyen de filets et de nasses ;
+- a) à l’intérieur de la partie lacustre du canal de la Broye et dans un rayon de 100 mètres à compter de l’extrémité de ses môles au moyen de filets et de nasses;
 
-- b) à l’embouchure de la Broye, sur le périmètre lacustre, dans tous les périmètres balisés ;
+- b) à l’embouchure de la Broye, sur le périmètre lacustre, dans tous les périmètres balisés;
 
-- c) dans un rayon de 300 mètres de l’embouchure de la Broye, du Chandon et du ruisseau de Löwenberg, pendant la période de protection de la truite ;
+- c) dans un rayon de 300 mètres de l’embouchure de la Broye, du Chandon et du ruisseau de Löwenberg, pendant la période de protection de la truite;
 
-- d) des môles et des embarcadères, lors du départ ou de l’arrivée d’un bateau assurant un service public ;
+- d) des môles et des embarcadères, lors du départ ou de l’arrivée d’un bateau assurant un service public;
 
 - e) à moins de 30 mètres des zones de baignade balisées.
 
-<sup>2</sup> A l’entrée ainsi qu’à l’intérieur des ports, il est interdit :
+<sup>2</sup> A l’entrée ainsi qu’à l’intérieur des ports, il est interdit:
 
-- a) de lancer des lignes ou de pêcher au moyen d’une ligne au lancer ;
+- a) de lancer des lignes ou de pêcher au moyen d’une ligne au lancer;
 
 - b) de tendre des filets et de poser des nasses de manière à gêner la navigation ou à mettre en danger les bateaux et leurs occupants.
 
@@ -161,11 +162,11 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Pêche libre**
 
-<sup>1</sup> La pêche sans permis est autorisée selon les modalités suivantes :
+<sup>1</sup> La pêche sans permis est autorisée selon les modalités suivantes:
 
-- a) la pêche avec une ligne flottante, munie d’un flotteur fixe et d’un hameçon simple, que la pêche soit exercée de terre, même en pénétrant dans l’eau, ou d’une embarcation ;
+- a) la pêche avec une ligne flottante, munie d’un flotteur fixe et d’un hameçon simple, que la pêche soit exercée de terre, même en pénétrant dans l’eau, ou d’une embarcation;
 
-- b) la pêche pratiquée d’une embarcation par un enfant âgé de moins de 14 ans, à la condition qu’il soit sous la responsabilité d’un titulaire de permis et que ce dernier soit en possession d’une attestation de compétence (cf. art. 13) ;
+- b) la pêche pratiquée d’une embarcation par un enfant âgé de moins de 14 ans, à la condition qu’il soit sous la responsabilité d’un titulaire de permis et que ce dernier soit en possession d’une attestation de compétence (art. 14);
 
 - c) la pêche à la gambe ou au lancer exercée de terre, même en pénétrant dans l’eau, par un enfant âgé de moins de 14 ans.
 
@@ -175,11 +176,11 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Catégories de permis de pêche de loisir**
 
-<sup>1</sup> Les permis sont les suivants :
+<sup>1</sup> Les permis sont les suivants:
 
-- a) le permis de pêche de loisir avec traîne (permis C), donnant le droit de pêcher avec les engins mentionnés aux articles 17 à 26 ;
+- a) le permis de pêche de loisir avec traîne (permis C), donnant le droit de pêcher avec les engins mentionnés aux articles 17 à 26;
 
-- b) le permis de pêche de loisir sans traîne (permis D), donnant le droit de pêcher avec les engins mentionnés aux articles 18 à 26 ;
+- b) le permis de pêche de loisir sans traîne (permis D), donnant le droit de pêcher avec les engins mentionnés aux articles 18 à 26;
 
 - c) le permis additionnel « hôte », donnant au titulaire d’un permis de pêche de loisir le droit de se faire accompagner par un seul hôte, qui aura le droit de pêcher avec les engins mentionnés aux articles 18 à 26.
 
@@ -191,7 +192,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>2</sup> Le titulaire du permis additionnel « hôte » doit être titulaire d’un permis de pêche annuel de loisir (permis C ou D).
 
-<sup>3</sup> L’hôte doit exercer la pêche depuis la même embarcation que le titulaire d’un permis de pêche de loisir et sous le contrôle et la responsabilité de celuici.
+<sup>3</sup> L’hôte doit exercer la pêche depuis la même embarcation, ou à terre, à proximité du titulaire d’un permis de pêche de loisir et sous le contrôle et la responsabilité de celui-ci.
 
 <sup>4</sup> L’hôte a le droit de manier les lignes traînantes du titulaire de permis C qu’il accompagne.
 
@@ -201,7 +202,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 #### Art. 11
 
-**Durée et validité des permis**
+**Durée de validité des permis**
 
 <sup>1</sup> Les permis annuels sont valables pour l’année civile en cours.
 
@@ -243,7 +244,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>3</sup> Les modalités et le prix sont fixés de cas en cas d’un commun accord par les services de la pêche des deux cantons concordataires.
 
-- 5\. Normes d’utilisation des engines et moyens de pêche autorisés
+- 5\. Normes d’utilisation des engins et moyens de pêche autorisés
 
 #### Art. 16
 
@@ -255,7 +256,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>3</sup> Seule la ligne traînante peut être utilisée depuis une embarcation mue volontairement.
 
-<sup>4</sup> Hormis la gambe, la ligne au lancer et la ligne traînante, il est permis d’utiliser au maximum 4 lignes.
+<sup>4</sup> Hormis la gambe, la ligne au lancer et la ligne traînante, il est permis d’utiliser au maximum 3 lignes.
 
 #### Art. 17
 
@@ -279,19 +280,17 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>1</sup> La gambe est une ligne plongeante animée à la main d’un mouvement vertical.
 
-<sup>2</sup> Une seule gambe peut être utilisée, aux conditions suivantes :
+<sup>2</sup> Une seule gambe peut être utilisée, aux conditions suivantes:
 
-- a) son usage est interdit pour la pêche de la perche du 15 avril au 31 mai ;
+- a) son usage est interdit pour la pêche de la perche du 15 avril au 31 mai et pour la pêche du corégone (palée) du 15 octobre au 31 décembre;
 
-- b) son usage est interdit pour la pêche du corégone (palée) du 15 octobre au 31 décembre ;
+- b) elle ne peut être utilisée qu’avec 5 hameçons simples au maximum;
 
-- c) elle ne peut être utilisée qu’avec 5 hameçons simples au maximum ;
+- c) son usage est interdit à partir d’une embarcation mue volontairement, et il est interdit d’attacher l’embarcation à une boille ou à un engin de pêche ou de s’en approcher à moins de 50 mètres;
 
-- d) son usage est interdit à partir d’une embarcation mue volontairement et il est interdit d’attacher l’embarcation à une boille ou à un engin de pêche ou de s’en approcher à moins de 50 mètres ;
+- d) il est interdit de lancer la gambe depuis une embarcation;
 
-- e) il est interdit de lancer la gambe depuis une embarcation ;
-
-- f) le lest de la gambe ne peut être fixé qu’à l’extrémité de la ligne ou audessus du dernier hameçon.
+- e) le lest de la gambe ne peut être fixé qu’à l’extrémité de la ligne ou audessus du dernier hameçon.
 
 #### Art. 19
 
@@ -299,7 +298,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>1</sup> La ligne plongeante est une ligne lestée, sans flotteur ou munie d’un flotteur coulissant et qui ne repose pas sur le fond.
 
-<sup>2</sup> Il est permis d’utiliser au maximum 4 lignes plongeantes.
+<sup>2</sup> Il est permis d’utiliser au maximum 3 lignes plongeantes.
 
 <sup>3</sup> Elle est munie d’un seul appât comprenant des hameçons simples, doubles ou triples, munis au maximum de 9 branches au total.
 
@@ -309,7 +308,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>1</sup> La ligne flottante est une ligne lestée munie d’un flotteur fixe ou non, lestée et sans flotteur. Elle ne repose pas sur le fond.
 
-<sup>2</sup> Il est permis d’utiliser au maximum 4 lignes flottantes.
+<sup>2</sup> Il est permis d’utiliser au maximum 3 lignes flottantes.
 
 <sup>3</sup> Elle est munie d’un seul appât comprenant des hameçons simples, doubles ou triples, munis au maximum de 9 branches au total.
 
@@ -319,7 +318,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>1</sup> La ligne dormante est une ligne lestée, dont le ou les lests reposent sur le fond.
 
-<sup>2</sup> Il est permis d’utiliser au maximum 4 lignes dormantes.
+<sup>2</sup> Il est permis d’utiliser au maximum 3 lignes dormantes.
 
 <sup>3</sup> Elle est munie d’un seul appât comprenant des hameçons simples, doubles ou triples, munis au maximum de 9 branches au total.
 
@@ -329,7 +328,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>1</sup> La ligne au lancer est une ligne lestée sans flotteur, dont l’appât est lancé au loin, puis ramené activement vers le pêcheur.
 
-<sup>2</sup> Il est permis d’utiliser 2 lignes au lancer.
+<sup>2</sup> Il est permis d’utiliser une seule ligne au lancer.
 
 <sup>3</sup> Elle est munie d’un seul appât comprenant des hameçons simples, doubles ou triples, munis au maximum de 9 branches au total.
 
@@ -339,15 +338,15 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>1</sup> Le carrelet est un filet carré qui est maintenu tendu horizontalement au moyen d’arceaux réunis à leur sommet.
 
-<sup>2</sup> Il est permis d’utiliser un seul carrelet. Son usage est réglé comme il suit :
+<sup>2</sup> Il est permis d’utiliser un seul carrelet. Son usage est réglé comme il suit:
 
-- a) le carrelet ne peut avoir plus de 1 mètre de côté ;
+- a) le carrelet ne peut avoir plus de 1 mètre de côté;
 
-- b) il ne peut être posé à plus de 1 mètre de profondeur ;
+- b) il ne peut être posé à plus de 1 mètre de profondeur;
 
-- c) il ne peut servir qu’à la capture de poissons utilisés comme appâts et uniquement pour les propres besoins du titulaire de permis de pêche ;
+- c) il ne peut servir qu’à la capture de poissons utilisés comme appâts et uniquement pour les propres besoins du titulaire de permis de pêche;
 
-- d) seuls les poissons qui n’appartiennent pas aux espèces citées à l’article 3
+- d) seuls les poissons qui n’appartiennent pas aux espèces citées à l’article 4
 
 - al. 1 peuvent être capturés au moyen du carrelet.
 
@@ -391,29 +390,17 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Appâts**
 
-<sup>1</sup> L’utilisation des poissons d’appât vivants pour la pêche de poissons carnassiers est permise uniquement aux pêcheurs de loisir titulaires d’une attestation de compétence (SaNa).
+<sup>1</sup> Il est interdit d’utiliser comme appâts:
 
-<sup>2</sup> L’usage de poissons d’appât vivants n’est autorisé que dans les zones envahies par les plantes aquatiques, pour la pêche au moyen des engins suivants :
+- a) des poissons vivants;
 
-- a) la ligne flottante, plongeante (hormis la gambe) et dormante, pratiquée depuis une embarcation non mue volontairement ;
+- b) des poissons n’ayant pas été capturés dans le lac de Morat;
 
-- b) le torchon utilisé par les titulaires d’un permis de pêche de loisir.
+- c) des poissons dont le statut de menace est 1, 2, 3 ou 4 selon l’annexe 2;
 
-<sup>3</sup> Les poissons d’appât vivants doivent être fixés à l’hameçon uniquement par la bouche.
-
-<sup>4</sup> Il est interdit d’utiliser comme appâts :
-
-- a) les poissons n’ayant pas été capturés dans le lac de Morat ;
-
-- b) des poissons appartenant à des espèces étrangères au lac de Morat ;
-
-- c) des poissons dont le statut de menace est 1, 2, 3 ou 4 selon l’annexe 2 ;
-
-- d) des œufs de poissons et de batraciens ;
+- d) des œufs de poissons et de batraciens;
 
 - e) des écrevisses.
-
-<sup>5</sup> Les poissons d’appât vivants doivent être remis à l’eau au plus tard à l’heure de fermeture de la pêche.
 
 - 6\. Capture et statistiques
 
@@ -421,7 +408,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Contrôle et détention du poisson pêché**
 
-<sup>1</sup> La capture des poissons doit être effectuée avec ménagement.
+<sup>1</sup> La capture et la manipulation des poissons doivent être effectuées avec ménagement.
 
 <sup>2</sup> Les poissons destinés à la consommation doivent être mis à mort sans tarder. Toutefois, les pêcheurs titulaires d’une attestation de compétence (SaNa), au sens de l’article 5a OLFP, peuvent stocker pour une courte durée des poissons vivants, pour autant qu’ils ne soient pas blessés. Ces poissons ne doivent pas souffrir du fait du stockage.
 
@@ -429,11 +416,9 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 <sup>4</sup> Les poissons capturés ne doivent pas être mutilés d’une manière ne permettant plus de déterminer leur taille ou leur nombre avant la fin de la partie de pêche.
 
-<sup>5</sup> Il est interdit de remettre à l’eau un poisson qui a été stocké, à l’exception des poissons d’appât vivants.
+<sup>5</sup> Il est interdit de remettre à l’eau un poisson qui a été stocké.
 
-<sup>6</sup> Les prescriptions des alinéas 2 à 4 ne sont pas applicables pour les poissons d’appât vivants.
-
-<sup>7</sup> La mise à mort des poissons doit être effectuée conformément aux exigences de l’ordonnance fédérale du 23 avril 2008 sur la protection des animaux et de l’aide à l’exécution y relative.
+<sup>6</sup> La mise à mort des poissons doit être effectuée conformément aux exigences de l’ordonnance fédérale du 23 avril 2008 sur la protection des animaux et de l’aide à l’exécution y relative.
 
 #### Art. 30
 
@@ -445,27 +430,29 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Nombre maximal de poissons capturés**
 
-<sup>1</sup> Le titulaire du permis de pêche de loisir, ainsi que la personne pratiquant un mode de pêche non soumis au régime des permis, ne peuvent capturer par jour plus de :
+<sup>1</sup> Le titulaire du permis de pêche de loisir, ainsi que la personne pratiquant un mode de pêche non soumis au régime des permis, ne peuvent capturer par jour plus de:
 
-- 70 perches ;
+- 70 perches;
 
-- 8 sandres ;
+- 8 corégones;
 
-- 8 corégones ;
+- 5 brochets;
 
-- 5 brochets ;
+- 5 sandres;
 
 - 2 truites.
 
-<sup>2</sup> Le titulaire du permis de pêche de loisir, ainsi que la personne pratiquant un mode de pêche non soumis au régime des permis, ne peuvent capturer par année civile plus de :
+<sup>2</sup> Le titulaire du permis de pêche de loisir, ainsi que la personne pratiquant un mode de pêche non soumis au régime des permis, ne peuvent capturer par année civile plus de:
 
-- 1500 perches ;
+- 1500 perches;
 
-- 100 brochets ;
+- 100 corégones;
 
-- 20 truites ;
+- 100 brochets;
 
-- 100 corégones.
+- 50 sandres;
+
+- 20 truites.
 
 <sup>3</sup> Si le titulaire d’un permis de pêche de loisir est accompagné d’une personne pratiquant un mode de pêche non soumis au régime des permis ou d’un enfant âgé de moins de 14 ans révolus, le produit total de la pêche pratiquée par les intéressés ne peut dépasser les normes fixées par le présent article.
 
@@ -473,17 +460,17 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 #### Art. 32
 
-**Carnet de contrôle**
+**Carnet de contrôle et feuille de statistique**
 
-<sup>1</sup> Les titulaires d’un permis de pêche annuel de loisir doivent être munis de leur carnet de contrôle dans lequel ils mentionnent immédiatement après la capture, à l’encre indélébile, la date, le nombre et le poids de leurs captures, y compris celles de leur hôte, conformément aux indications figurant dans le carnet de contrôle.
+<sup>1</sup> Les titulaires d’un permis de pêche de loisir annuel doivent être munis de leur carnet de contrôle dans lequel ils mentionnent immédiatement après la capture, à l’encre indélébile, la date, le nombre et le poids de leurs captures, y compris celles de leur hôte, conformément aux indications figurant dans le carnet de contrôle.
 
-<sup>2</sup> Les titulaires d’un permis journalier de pêche de loisir doivent être munis de leur feuille de statistique sur laquelle ils mentionnent immédiatement après la capture, à l’encre indélébile, la date, le nombre et le poids de leurs captures.
+<sup>2</sup> Les titulaires d’un permis de pêche de loisir journalier doivent être munis de leur feuille de statistique sur laquelle ils mentionnent immédiatement après la capture, à l’encre indélébile, la date, le nombre et le poids de leurs captures.
 
 <sup>3</sup> Le carnet de contrôle doit être présenté, sur demande, aux organes chargés de la surveillance de la pêche et restitué dans les quinze jours suivant la fin de l’année civile au service qui l’a délivré.
 
 <sup>4</sup> La feuille de statistique doit être présentée, sur demande, aux organes chargés de la surveillance de la pêche et restituée au service ou à la préfecture qui l’a délivrée. Les prescriptions édictées en vertu de l’article 12 al. 1 let. F du concordat du 19 mai 2003 sur la pêche dans le lac de Morat (ci-après : le concordat) ne sont pas applicables.
 
-<sup>5</sup> Lorsque le titulaire ne respecte pas les exigences fixées à l’alinéa 1 ou 2, l’agent chargé de la surveillance de la pêche séquestre respectivement le carnet de contrôle ou la feuille de statistique ainsi que le permis de pêche, puis les remet au service de la pêche du canton qui les a délivrés ; ce dernier les retient jusqu’à droit connu sur les plans administratif et pénal.
+<sup>5</sup> Lorsque le titulaire ne respecte pas les exigences fixées à l’alinéa 1 ou 2, l’agent chargé de la surveillance de la pêche peut séquestrer respectivement le carnet de contrôle ou la feuille de statistique ainsi que le permis de pêche, puis les remettre au service de la pêche du canton qui les a délivrés ; ce dernier peut les retenir jusqu’à droit connu sur les plans administratif et pénal.
 
 <sup>6</sup> Un titulaire de permis annuel ne peut détenir plus d’un carnet de contrôle.
 
@@ -495,9 +482,9 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Catégories de permis de pêche professionnelle**
 
-<sup>1</sup> Les permis sont les suivants :
+<sup>1</sup> Les permis sont les suivants:
 
-- a) le permis de pêche professionnelle (permis A), donnant le droit de pêcher avec tous les engins mentionnés à l’article 41 ;
+- a) le permis de pêche professionnelle (permis A), donnant le droit de pêcher avec tous les engins mentionnés à l’article 41;
 
 - b) le permis spécial de pêche professionnelle (permis B), donnant le droit de pêcher avec tous les engins mentionnés à l’article 41.
 
@@ -519,7 +506,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Prix des permis de pêche**
 
-<sup>1</sup> Les prix des permis figurent à l’annexe 1.
+<sup>1</sup> Les prix des permis figurent à l’Annexe 1.
 
 #### Art. 36
 
@@ -545,15 +532,15 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Branches**
 
-<sup>1</sup> L’examen porte sur les branches suivantes :
+<sup>1</sup> L’examen porte sur les branches suivantes:
 
-- a) connaissances de la faune aquatique du lac ;
+- a) connaissances de la faune aquatique du lac;
 
-- b) engins et modes de pêche ;
+- b) engins et modes de pêche;
 
-- c) pratique de la pêche ;
+- c) pratique de la pêche;
 
-- d) législations fédérale et intercantonale sur la pêche ;
+- d) législations fédérale et intercantonale sur la pêche;
 
 - e) connaissances en matière de protection des animaux.
 
@@ -561,7 +548,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Appréciation**
 
-<sup>1</sup> Chaque membre de la commission apprécie les connaissances des candidats et leur attribue une note pour chaque branche selon le barème suivant : 6 points = très bien 5 points = bien 4 points = suffisant 3 points = insuffisant 2 points = éliminatoire 1 point = éliminatoire
+<sup>1</sup> Chaque membre de la commission apprécie les connaissances des candidats et leur attribue une note pour chaque branche selon le barème suivant: 6 points = très bien 5 points = bien 4 points = suffisant 3 points = insuffisant 2 points = éliminatoire 1 point = éliminatoire
 
 <sup>2</sup> La note obtenue pour la branche « pratique de la pêche » est comptée deux fois, celle de toutes les autres branches une seule fois pour le calcul de la moyenne générale.
 
@@ -573,7 +560,7 @@ Truite – du 16 janvier au 23 octobre 2022 – du 15 janvier au 22 octobre 2023
 
 **Echec**
 
-En cas d’échec, le candidat peut se présenter à nouveau devant la commission d’examen, mais au maximum deux fois et au plus tôt à l’expiration d’un délai d’une année.
+<sup>1</sup> En cas d’échec, le candidat peut se présenter à nouveau devant la commission d’examen, mais au maximum deux fois et au plus tôt à l’expiration d’un délai d’une année.
 
 - 9\. Normes d’utilisation des engins et moyens de pêche autorisés
 
@@ -581,13 +568,13 @@ En cas d’échec, le candidat peut se présenter à nouveau devant la commissio
 
 **Engins de pêche**
 
-<sup>1</sup> Les seuls engins de pêche dont l’utilisation est autorisée sont les suivants :
+<sup>1</sup> Les seuls engins de pêche dont l’utilisation est autorisée sont les suivants:
 
-- a) le filet à simple toile ou tramaillé ;
+- a) le filet à simple toile ou tramaillé;
 
-- b) la nasse ;
+- b) la nasse;
 
-- c) le fil dormant ;
+- c) le fil dormant;
 
 - d) les engins de pêche admis pour la pêche de loisir définis aux articles 17 à 26 du présent règlement.
 
@@ -597,29 +584,29 @@ En cas d’échec, le candidat peut se présenter à nouveau devant la commissio
 
 **Filets et autres engins**
 
-<sup>1</sup> On entend par :
+<sup>1</sup> On entend par:
 
-- a) filet : tout engin de pêche comprenant une toile faite de mailles en fibres naturelles ou synthétiques ; il est ancré, flottant ou posé sur le fond ;
+- a) filet: tout engin de pêche comprenant une toile faite de mailles en fibres naturelles ou synthétiques; il est ancré, flottant ou posé sur le fond;
 
-- b) filet à simple toile : composé d’une seule nappe rectangulaire ;
+- b) filet à simple toile: composé d’une seule nappe rectangulaire;
 
-- c) filet tramaillé : composé d’une toile à petites mailles et d’une ou de deux toiles superposées à grandes mailles ;
+- c) filet tramaillé: composé d’une toile à petites mailles et d’une ou de deux toiles superposées à grandes mailles;
 
-- d) couble : ensemble de filets attachés les uns aux autres ;
+- d) couble: ensemble de filets attachés les uns aux autres;
 
-- e) longueur d’un filet : elle est donnée par la longueur du chalame ;
+- e) longueur d’un filet: elle est donnée par la longueur du chalame;
 
-- f) hauteur d’un filet : elle se détermine compte non tenu des chevalets, les mailles étant ouvertes.
+- f) hauteur d’un filet: elle se détermine compte non tenu des chevalets, les mailles étant ouvertes;
 
-- g) pêche en battue : le fait de chasser volontairement le poisson en
+- g) pêche en battue: le fait de chasser volontairement le poisson en
 
-direction d’un filet ;
+direction d’un filet;
 
-- h) nasse : tout piège à poissons ou à écrevisses constitué d’un réseau de mailles en fibres naturelles ou synthétiques ou de fil métallique, le tout tendu de façon rigide sur une armature ;
+- h) nasse: tout piège à poissons ou à écrevisses constitué d’un réseau de mailles en fibres naturelles ou synthétiques ou de fil métallique, le tout tendu de façon rigide sur une armature;
 
-- i) balance à écrevisses : piège posé sur le fond et relié à la surface par un fil. Elle est constituée d’un ou plusieurs anneaux superposés, reliés entre eux par du treillis ou un filet ; l’anneau inférieur est refermé par un treillis ou un filet ;
+- i) balance à écrevisses: piège posé sur le fond et relié à la surface par un fil. Elle est constituée d’un ou plusieurs anneaux superposés, reliés entre eux par du treillis ou un filet; l’anneau inférieur est refermé par un treillis ou un filet;
 
-- j) fil : le fil est une ligne ancrée ; il peut être de fond ou flottant.
+- j) fil: le fil est une ligne ancrée; il peut être de fond ou flottant.
 
 #### Art. 43
 
@@ -629,13 +616,13 @@ direction d’un filet ;
 
 <sup>2</sup> Cet appareil est muni d’un poinçon comprenant un « N » et une silhouette de poisson.
 
-<sup>3</sup> Il est utilisé comme il suit :
+<sup>3</sup> Il est utilisé comme il suit:
 
-- a) l’appareil est tenu de la main droite, de manière que le poids se trouve en bas et la pointe dirigée vers la gauche ;
+- a) l’appareil est tenu de la main droite, de manière que le poids se trouve en bas et la pointe dirigée vers la gauche;
 
-- b) deux mailles consécutives dans le sens horizontal sont superposées ;
+- b) deux mailles consécutives dans le sens horizontal sont superposées;
 
-- c) la pointe du triangle que forme l’appareil est introduite dans ces deux mailles jusqu’au point où le bras inférieur coïncide avec les traits apposés sur le côté vertical du triangle ;
+- c) la pointe du triangle que forme l’appareil est introduite dans ces deux mailles jusqu’au point où le bras inférieur coïncide avec les traits apposés sur le côté vertical du triangle;
 
 - d) les nœuds supérieur et inférieur doivent se trouver en face du repère correspondant à une même maille.
 
@@ -649,15 +636,15 @@ direction d’un filet ;
 
 <sup>1</sup> Seuls les filets définis aux articles 45 à 51 peuvent être utilisés.
 
-<sup>2</sup> Leurs caractéristiques et leur usage sont réglés comme il suit :
+<sup>2</sup> Leurs caractéristiques et leur usage sont réglés comme il suit:
 
-- a) Le filet à simple toile ne doit pas avoir plus de 100 mètres de long et plus de 5 mètres de haut. Il peut être utilisé comme filet de fond ou filet flottant (filet « de lève »).
+- a) Le filet à simple toile ne doit pas avoir plus de 100 mètres de long et plus de 5 mètres de haut. Il peut être utilisé comme filet de fond ou filet flottant (filet « de lève »);
 
-- b) Le filet tramaillé, qui ne peut être utilisé que de fond, ne doit pas avoir plus de 100 mètres de long et plus de 2 mètres de haut. Ses mailles doivent être de 45 millimètres au minimum.
+- b) Le filet tramaillé, qui ne peut être utilisé que de fond, ne doit pas avoir plus de 100 mètres de long et plus de 2 mètres de haut. Ses mailles doivent être de 45 millimètres au minimum;
 
-- c) Le filet de fond doit reposer sur le fond sur toute sa longueur. Il est permis de tendre simultanément 25 filets de fond au maximum, toutes dimensions de mailles confondues.
+- c) Le filet de fond doit reposer sur le fond sur toute sa longueur. Il est permis de tendre simultanément 25 filets de fond au maximum, toutes dimensions de mailles confondues;
 
-- d) Le filet flottant doit être ancré et tendu au minimum à 2 mètres sous la surface du lac. Il doit être soutenu par des flotteurs répartis d’une manière égale sur sa longueur.
+- d) Le filet flottant doit être ancré et tendu au minimum à 2 mètres sous la surface du lac. Il doit être soutenu par des flotteurs répartis d’une manière égale sur sa longueur;
 
 - e) Les filets ne peuvent être attachés les uns aux autres que dans le sens de la longueur.
 
@@ -667,13 +654,13 @@ direction d’un filet ;
 
 **Filet de fond de 23 à 28,9 mm de maille**
 
-<sup>1</sup> L’usage du filet de fond de 23 à 28,9 mm de maille est réglé comme il suit :
+<sup>1</sup> L’usage du filet de fond de 23 à 28,9 mm de maille est réglé comme il suit:
 
-- a) sa hauteur ne peut dépasser 2 mètres ;
+- a) sa hauteur ne peut dépasser 2 mètres;
 
-- b) du 1<sup>er</sup> décembre au 31 mai, il est permis d’utiliser au maximum 10 filets de 26 millimètres de maille au minimum ;
+- b) du 1<sup>er</sup> décembre au 31 mai, il est permis d’utiliser au maximum 10 filets de 26 millimètres de maille au minimum;
 
-- c) du 1<sup>er</sup> juin au 30 novembre, il est permis d’utiliser 3 filets de 23 millimètres de maille au minimum et 7 filets de 26 millimètres de maille au minimum ;
+- c) du 1<sup>er</sup> juin au 30 novembre, il est permis d’utiliser 3 filets de 23 millimètres de maille au minimum et 7 filets de 26 millimètres de maille au minimum;
 
 - d) du 1<sup>er</sup> mars au 31 mai et du 1<sup>er</sup> décembre au 31 décembre, ce filet ne peut pas être tendu à moins de 15 mètres de profondeur.
 
@@ -681,11 +668,11 @@ direction d’un filet ;
 
 **Filet de fond de 29 à 31,9 mm de maille**
 
-<sup>1</sup> L’usage du filet de fond de 29 à 31,9 mm de maille est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet de fond de 29 à 31,9 mm de maille est soumis aux restrictions suivantes:
 
-- a) sa hauteur ne peut dépasser 2 mètres ;
+- a) sa hauteur ne peut dépasser 2 mètres;
 
-- b) du 1<sup>er</sup> mars au 31 mai et du 15 octobre au jour précédant la date d’ouverture de la pêche de la truite, ce filet ne peut pas être tendu à moins de 15 mètres de profondeur ;
+- b) du 1<sup>er</sup> mars au 31 mai et du 15 octobre au jour précédant la date d’ouverture de la pêche de la truite, ce filet ne peut pas être tendu à moins de 15 mètres de profondeur;
 
 - c) du 1<sup>er</sup> au 31 mai, pour la capture des cyprinidés (poissons blancs), il est permis d’utiliser au maximum 4 filets tendus à 3 mètres de profondeur au maximum.
 
@@ -695,13 +682,13 @@ direction d’un filet ;
 
 **Filet de fond de 45 millimètres de maille**
 
-<sup>1</sup> L’usage du filet de fond de 45 millimètres de maille au minimum est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet de fond de 45 millimètres de maille au minimum est soumis aux restrictions suivantes:
 
-- a) seuls 6 de ces filets peuvent avoir plus de 2 mètres de hauteur ;
+- a) seuls 6 de ces filets peuvent avoir plus de 2 mètres de hauteur;
 
-- b) un filet de plus de 2 mètres de hauteur remplace 3 filets de 2 mètres de hauteur ;
+- b) un filet de plus de 2 mètres de hauteur remplace 3 filets de 2 mètres de hauteur;
 
-- c) de l’ouverture de la pêche de la truite au dernier jour de février, ce filet peut être tendu à toute profondeur ;
+- c) de l’ouverture de la pêche de la truite au dernier jour de février, ce filet peut être tendu à toute profondeur;
 
 - d) du 1<sup>er</sup> mars au 30 avril et pendant la période de protection de la truite, ce filet ne peut être tendu à moins de 10 mètres de profondeur.
 
@@ -709,17 +696,17 @@ direction d’un filet ;
 
 **Filet flottant de 45 millimètres de maille au minimum**
 
-<sup>1</sup> L’usage du filet flottant est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet flottant est soumis aux restrictions suivantes:
 
-- a) ses mailles doivent avoir 45 millimètres au minimum ;
+- a) ses mailles doivent avoir 45 millimètres au minimum;
 
-- b) il est interdit de tendre plus de 2 de ces filets ;
+- b) il est interdit de tendre plus de 2 de ces filets;
 
-- c) il n’est autorisé que de l’ouverture de la pêche de la truite au 14 octobre ;
+- c) il n’est autorisé que de l’ouverture de la pêche de la truite au 14 octobre;
 
-- d) ce filet ne peut pas être tendu à moins de 15 m de profondeur ;
+- d) ce filet ne peut pas être tendu à moins de 15 m de profondeur;
 
-- e) du samedi à 7 heures au dimanche à 16 heures, ce filet est interdit et doit être retiré du lac ;
+- e) du samedi à 7 heures au dimanche à 16 heures, ce filet est interdit et doit être retiré du lac;
 
 - f) les coubles doivent être tendues en ligne droite, perpendiculairement au grand axe du lac.
 
@@ -727,13 +714,13 @@ direction d’un filet ;
 
 **Filet de 26 à 29,9 mm de maille**
 
-L’usage d’un seul filet de plus de 2 mètres de hauteur et de 26 à 29,9 mm de maille, tendu de fond ou de lève, est autorisé avec les restrictions suivantes :
+<sup>1</sup> L’usage d’un seul filet de plus de 2 mètres de hauteur et de 26 à 29,9 mm de maille, tendu de fond ou de lève, est autorisé avec les restrictions suivantes:
 
-- a) cet engin remplace 4 des filets de fond prévus à l’article 46 ;
+- a) cet engin remplace 4 des filets de fond prévus à l’article 46;
 
-- b) il est interdit pendant la période de protection des corégones ;
+- b) il est interdit pendant la période de protection des corégones;
 
-- c) du 1<sup>er</sup> mars au 31 mai, il ne peut pas être tendu à moins de 15 mètres de profondeur ;
+- c) du 1<sup>er</sup> mars au 31 mai, il ne peut pas être tendu à moins de 15 mètres de profondeur;
 
 - d) du samedi à 7 heures au dimanche à 16 heures, ce filet est interdit et doit être retiré du lac.
 
@@ -759,11 +746,11 @@ L’usage d’un seul filet de plus de 2 mètres de hauteur et de 26 à 29,9 mm 
 
 <sup>1</sup> La nasse ne doit pas avoir plus de 2 mètres de long, ainsi qu’une largeur, une hauteur ou un diamètre de plus de 1,25 m. Elle peut avoir une ou deux entrées. La dimension de ses mailles doit être de 23 millimètres au minimum.
 
-<sup>2</sup> L’usage de la nasse est soumis aux restrictions suivantes :
+<sup>2</sup> L’usage de la nasse est soumis aux restrictions suivantes:
 
-- a) du 1<sup>er</sup> juin au dernier jour de février, il est permis de poser au maximum 10 nasses ;
+- a) du 1<sup>er</sup> juin au dernier jour de février, il est permis de poser au maximum 10 nasses;
 
-- b) du début de la période de protection du brochet au 31 mai, il est permis de poser au maximum 2 nasses ;
+- b) du début de la période de protection du brochet au 31 mai, il est permis de poser au maximum 2 nasses;
 
 - c) pendant la période de protection du brochet, il est interdit de poser la nasse à moins de 2 mètres de profondeur.
 
@@ -787,37 +774,53 @@ L’usage d’un seul filet de plus de 2 mètres de hauteur et de 26 à 29,9 mm 
 
 **Dérogations aux profondeurs autorisées**
 
-En cas de besoin, les services de la pêche des cantons concordataires peuvent fixer, d’un commun accord et pour une durée limitée, des profondeurs d’utilisation des filets autres que celles qui sont définies aux articles 45 à 50.
+<sup>1</sup> En cas de besoin, les services de la pêche des cantons concordataires peuvent fixer, d’un commun accord et pour une durée limitée, des profondeurs d’utilisation des filets autres que celles qui sont définies aux articles 45 à 50.
 
 #### Art. 56
 
 **Appâts**
 
-<sup>1</sup> Les pêcheurs professionnels sont autorisés à utiliser des poissons d’appât vivants selon les moyens et aux conditions fixées pour la pêche de loisir (art. 28).
+<sup>1</sup> Les pêcheurs professionnels sont autorisés à utiliser des poissons d’appât vivants, exclusivement dans les zones envahies par des plantes aquatiques.
 
-<sup>2</sup> Ils sont également autorisés à utiliser de tels appâts vivants pour la pêche au moyen du fil (art. 53 et 54).
+<sup>2</sup> L’usage de poissons d’appât vivants n’est autorisé qu’au moyen des engins suivants : le fil dormant ainsi que le fil flottant (torchon).
+
+<sup>3</sup> Les poissons d’appât vivants doivent être fixés à l’hameçon uniquement par la bouche.
+
+<sup>4</sup> Il est interdit d’utiliser comme appâts:
+
+- a) des poissons n’ayant pas été capturés dans le lac de Morat;
+
+- b) des poissons appartenant à des espèces étrangères au lac de Morat;
+
+- c) des poissons dont le statut de menace est 1, 2, 3 ou 4 selon l’annexe 2;
+
+- d) des œufs de poissons et de batraciens;
+
+- e) des écrevisses.
+
+<sup>5</sup> Les poissons d’appât vivants doivent être remis à l’eau au plus tard à l’heure de fermeture de la pêche.
 
 #### Art. 57
 
 **Obligation de relever les engins**
 
-<sup>1</sup> Les titulaires de permis sont tenus de relever leurs engins de pêche dans les vingt-quatre heures s’il s’agit d’un engin autre qu’une nasse, tendu ou posé à moins de 20 mètres de profondeur dans la période du 1<sup>er</sup> mai au 30 septembre.
+<sup>1</sup> Les titulaires de permis sont tenus de relever leurs engins de pêche dans les quarante-huit heures. Ce délai est de vingt-quatre heures s’il s’agit d’un engin autre qu’une nasse, tendu ou posé à moins de 20 mètres de profondeur dans la période du 1<sup>er</sup> mai au 30 septembre.
 
-<sup>2</sup> En cas de mauvais temps prolongé, les gardes-pêche peuvent autoriser des dérogations à l’alinéa 1.
+<sup>2</sup> En cas de mauvais temps prolongé, les agents chargés de la surveillance de la pêche peuvent autoriser des dérogations à l’alinéa 1.
 
 #### Art. 58
 
 **Signalisation des filets et des nasses**
 
-<sup>1</sup> Tout engin de pêche posé ou tendu dans l’eau doit être muni d’un insigne flottant portant le nom et le prénom de son propriétaire. Ces insignes sont les suivants :
+<sup>1</sup> Tout engin de pêche posé ou tendu dans l’eau doit être muni d’un insigne flottant portant le nom et le prénom de son propriétaire. Ces insignes sont les suivants:
 
-- a) les filets et les coubles de filets seront munis à chaque extrémité d’une boille de 10 litres au minimum ou d’un drapeau émergeant de 60 centimètres au moins ;
+- a) les filets et les coubles de filets seront munis à chaque extrémité d’une boille de 10 litres au minimum ou d’un drapeau émergeant de 60 centimètres au moins;
 
-- b) les insignes qui marquent les extrémités d’un même filet ou d’une même couble de filets doivent être de même type (boille ou drapeau) et de même couleur ;
+- b) les insignes qui marquent les extrémités d’un même filet ou d’une même couble de filets doivent être de même type (boille ou drapeau) et de même couleur;
 
-- c) chaque nasse et chaque fil flottant autre que le torchon doit être muni d’une boille de 10 litres au minimum ; chaque insigne de nasse doit être marqué de manière bien visible de la lettre majuscule « N » ;
+- c) chaque nasse et chaque fil flottant autre que le torchon doit être muni d’une boille de 10 litres au minimum ; chaque insigne de nasse doit être marqué de manière bien visible de la lettre majuscule « N »;
 
-- d) le torchon et la bouteille à vairons doivent également être munis d’un insigne qui permette d’identifier lisiblement le titulaire du permis ;
+- d) le torchon et la bouteille à vairons doivent également être munis d’un insigne qui permet d’identifier lisiblement le titulaire du permis;
 
 - e) les insignes ne peuvent être fixés à l’aide d’une chaîne ou d’un câble métallique que si cette chaîne ou ce câble est protégé par une gaine rigide sur les deux premiers mètres en dessous de la surface du lac ou si ces deux premiers mètres sont remplacés par une corde.
 
@@ -827,7 +830,7 @@ En cas de besoin, les services de la pêche des cantons concordataires peuvent f
 
 **Contrôle et détention du poisson pêché**
 
-<sup>1</sup> La capture des poissons et des écrevisses doit être effectuée avec ménagement.
+<sup>1</sup> La capture et la manipulation des poissons et des écrevisses doit être effectuée avec ménagement.
 
 <sup>2</sup> Les poissons destinés à la consommation doivent être mis à mort sans tarder. Toutefois, les pêcheurs professionnels peuvent stocker pour une courte durée des poissons vivants ; ces poissons ne doivent pas souffrir du fait du stockage.
 
@@ -849,9 +852,9 @@ En cas de besoin, les services de la pêche des cantons concordataires peuvent f
 
 <sup>1</sup> Les pêcheurs professionnels sont autorisés à immerger des déchets de poissons et d’écrevisses dans le lac de Morat, aux conditions suivantes :
 
-- a) les déchets doivent être issus de poissons et d’écrevisses pêchés dans le lac de Morat ;
+- a) les déchets doivent être issus de poissons et d’écrevisses pêchés dans le lac de Morat;
 
-- b) les déchets doivent être immergés depuis une heure après le coucher du soleil jusqu’à une heure avant le lever de soleil ;
+- b) les déchets doivent être immergés depuis une heure après le coucher du soleil jusqu’à une heure avant le lever du soleil;
 
 - c) la profondeur doit être d’au moins 30 mètres au lieu d’immersion.
 
@@ -881,17 +884,17 @@ En cas de besoin, les services de la pêche des cantons concordataires peuvent f
 
 <sup>1</sup> En cas d’infraction grave, le permis de pêche est retiré par le service qui l’a délivré, une fois que la décision pénale est devenue exécutoire.
 
-<sup>2</sup> Le permis peut être retiré notamment :
+<sup>2</sup> Le permis peut être retiré notamment:
 
-- a) en cas d’utilisation d’engins de pêche ou en pêchant avec des méthodes ou des moyens non autorisés selon les dispositions du concordat ou des règlements qui en découlent ;
+- a) en cas d’utilisation d’engins de pêche ou en pêchant avec des méthodes ou des moyens non autorisés selon les dispositions du concordat ou des règlements qui en découlent;
 
-- b) en cas de pêche dans les zones de protection ou pendant les périodes de protection définies dans les règlements qui découlent du concordat ;
+- b) en cas de pêche dans les zones de protection ou pendant les périodes de protection définies dans les règlements qui découlent du concordat;
 
-- c) en cas d’infraction aux dispositions du présent règlement, concernant la dimension des filets et des nasses ou de leurs mailles, le nombre d’engins autorisés (hormis la bouteille à vairons, la nasse à écrevisses, la balance, ainsi que la filoche), les périodes ou les heures pendant lesquelles la pêche est interdite ou limitée, les longueurs minimales des poissons, l’inscription des prises dans le carnet de contrôle, ainsi que la non restitution du carnet de contrôle dans les délais impartis ;
+- c) en cas d’infraction aux dispositions du présent règlement, concernant la dimension des filets et des nasses ou de leurs mailles, le nombre d’engins autorisés (hormis la bouteille à vairons, la nasse à écrevisses, la balance, ainsi que la filoche), les périodes ou les heures pendant lesquelles la pêche est interdite ou limitée, les longueurs minimales des poissons, l’inscription des prises dans le carnet de contrôle, ainsi que la nonrestitution du carnet de contrôle dans les délais impartis;
 
-- d) en cas d’infraction aux dispositions des articles 31 al. 1 let. a ou 54 al. 2 let. b, c, d ou e du concordat ;
+- d) en cas d’infraction aux dispositions des articles 31 al. 1 let. a ou 54 al. 2 let. b, c, d ou e du concordat;
 
-- e) en cas d’introduction dans le lac, ses affluents ou son émissaire de nouvelles espèces de poissons ou d’écrevisses ou d’espèces non indigènes selon le droit fédéral ;
+- e) en cas d’introduction dans le lac, ses affluents ou son émissaire de nouvelles espèces de poissons ou d’écrevisses ou d’espèces non indigènes selon le droit fédéral;
 
 - f) en cas de récidive à une infraction aux dispositions des règlements découlant du concordat, concernant la profondeur à laquelle des engins de pêche peuvent être utilisés ou aux dispositions du présent règlement concernant l’obligation de relever les engins de pêche.
 
@@ -923,11 +926,15 @@ En cas de besoin, les services de la pêche des cantons concordataires peuvent f
 
 **Entrée en vigueur, abrogation et publication**
 
-<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2022.
+<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2025.
 
-<sup>2</sup> Il abroge le règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2019, 2020 et 2021 du 14 juin 2018.
+<sup>2</sup> Il abroge le règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2022, 2023 et 2024 du 6 juillet 2021.
 
 <sup>3</sup> Il est publié dans les organes officiels des cantons concordataires.
+
+### Approbation fédérale
+
+— Les articles 4 à 7, 16 à 31, 41, 44 à 57 et 59 du présent règlement ont été approuvés par le Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC) le 14.11.2024 (ROF INFO 2024-47).
 
 ## ANNEXE 1
 
@@ -937,23 +944,15 @@ dans les cantons concordataires de Fribourg et Vaud (art. 12 et 35)
 
 **JOURNALIER**
 
-### ANNUEL Genre de permis Adultes Mineurs Adultes Mineurs
+### ANNUEL Genre de permis Adultes Mineurs Adultes Mineurs Fr. Fr.
 
 **Fr. Fr.**
 
-### Fr. Fr.
-
-Permis de pêche professionnelle 500.– (Exclus) (Exclus) (Exclus) (permis A)
-
-Permis spécial de pêche professionnelle 250.– (Exclus) (Exclus) (Exclus) (permis B)
+Permis de pêche professionnelle 500.– (Exclus) (Exclus) (Exclus) (permis A) Permis spécial de pêche professionnelle 250.– (Exclus) (Exclus) (Exclus) (permis B) Permis de pêche de loisir avec traîne 120.– 60.– (permis C) Permis de pêche de loisir sans traîne 70.– 35.– (permis D)
 
 **20.– 20.–**
 
-Permis de pêche de loisir avec traîne 120.– 60.– (permis C)
-
 **15.– 15.–**
-
-Permis de pêche de loisir sans traîne 70.– 35.– (permis D)
 
 Permis additionnel 50.– (Exclus) (Exclus) (Exclus) « hôte »
 
@@ -963,9 +962,11 @@ concordataires de Fribourg et Vaud (art. 12 et 35)
 
 **JOURNALIER**
 
-### ANNUEL Genre de permis Adultes Mineurs Adultes Mineurs Fr. Fr.
+### ANNUEL Genre de permis Adultes Mineurs Adultes Mineurs
 
 **Fr. Fr.**
+
+### Fr. Fr.
 
 Permis de pêche professionnelle (Exclus) (Exclus) (Exclus) (Exclus) (permis A)
 
@@ -983,9 +984,9 @@ Permis additionnel 100.– (Exclus) (Exclus) (Exclus) « hôte »
 
 ## ANNEXE 2
 
-### Statut de menace des poissons dans le lac de Morat (art. 28 al. 4)
+### Statut de menace des poissons dans le lac de Morat (art. 28 al. 1 et 56 al. 4)
 
-**Statut de menace 1)**
+**Statut de menace 1**
 
 ### Nom vernaculaire/ Name deutsch/ Dénomination
 
@@ -999,9 +1000,11 @@ Anguille Aal Anguilla anguilla
 
 ### Cobitidae
 
-**DI, E 2**
+**2**
 
-Loche de rivière Dorngrundel Cobitis taenia Cobite italiano Cobite italiano Cobitis bilineata
+Cobite italiano, Cobite italiano, Cobitis bilineata Loche transalpine Dorngrundel Loche de rivière Steinbeisser Cobitis taenia
+
+**DI, E**
 
 ### Coregonidae
 
@@ -1015,11 +1018,13 @@ Corégones Felchen Coregonus spp.
 
 Brème franche Brachsmen Abramis brama Spirlin Schneider Alburnoides bipunctatus Ablette Laube Alburnus alburnus NM Barbeau Barbe Barbus barbus Brème bordelière Blicke Blicca bjoerkna Nase Nase Chondrostoma nasus 1, E Carpe Karpfen Cyprinus carpio Goujon Gründling Gobio gobio Vandoise Hasel Leuciscus leuciscus NM Vairon Elritze Phoxinus phoxinus NM Bouvière Bitterling Rhodeus amarus Gardon, Vengeron Rotauge Rutilus rutilus Rotengle Rotfeder Scardinius erythrophthalmus
 
-**Statut de menace 1) NM 3, E NM**
+**Statut de menace 1**
 
 ### Nom vernaculaire/ Name deutsch/ Dénomination
 
-local lokal scientifique Chevaine Alet Squalius cephalus Blageon Strömer Telestes souffia Tanche Schleie Tinca tinca
+local lokal scientifique Chevaine Alet Squalius cephalus NM Blageon Strömer Telestes souffia Tanche Schleie Tinca tinca
+
+**3, E NM**
 
 ### Esocidae
 
@@ -1073,9 +1078,7 @@ Silure glâne Wels Silurus glanis
 
 ## ANNEXE 3
 
-### Espèces de poissons et d’écrevisses étrangères à la faune
-
-du lac de Morat
+### Espèces de poissons et d’écrevisses étrangères à la faune du lac de Morat
 
 **Dénomination scientifique**
 
@@ -1085,15 +1088,15 @@ local lokal
 
 ### Centrarchidae
 
-**Lepomis gibbosus**
+**Lepomis gibbosus Micropterus salmoides**
 
-Perche soleil Sonnenbarsch
+Perche soleil Sonnenbarsch Black-bass à Forellenbarsch grande bouche
 
 ### Cyprinidae
 
-**Carassius auratus Carassius gibelio Carassius carassius**
+**Carassius auratus Carassius gibelio Carassius carassius Hypophthalmichthys**
 
-Poisson rouge Goldfisch Carpe prussienne Giebel Carassin Karausche
+Poisson rouge Goldfisch Carpe prussienne Giebel Carassin Karausche Carpe marbrée Marmorkarpfen nobilis
 
 ### Percidae
 
@@ -1107,11 +1110,11 @@ Sandre Zander
 
 Truite arc-en-ciel Regenbogenforelle
 
-### Astacidae
+### Decapoda
 
 **Faxonius limosus**
 
-Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signalkrebs
+Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signalkrebs Crabe chinois Chinesische Wollhandkrabbe
 
 ## ANNEXE 4
 
@@ -1129,7 +1132,7 @@ Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signal
 
 ### Hauteur du filet en pêche HP = 5 m
 
-**Pacifastacus leniusculus**
+**Pacifastacus leniusculus Eriocheir sinensis**
 
 **Hauteur du filet mailles fermées (m)**
 
@@ -1137,12 +1140,22 @@ Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signal
 
 **5,0 5,0 4,9 4,9 5,0 5,0 5,0 4,9 5,0**
 
-26 110 28 103 30 95 32 90 34 85 36 80 45 64 50 57 60 48
+26 110 28 103 30 95 32 90 34 85 36 80 45 64 50 57 60 48 Entrée en vigueur pour le canton de Fribourg: 1<sup>er</sup> janvier 2025.
+
+### Tableau des modifications – Par date d'adoption
+
+### Adoption Elément touché Type de Entrée en Source (ROF depuis
+
+modification vigueur 2002) 21.06.2024 Acte acte de base 01.01.2025 2024\_070
+
+### Tableau des modifications – Par article
+
+### Elément touché Type de Adoption Entrée en Source (ROF depuis
+
+modification vigueur 2002)
+
+Acte acte de base 21.06.2024 01.01.2025 2024\_070
 
 ## Autres notes
 
-- [1] = menacée d’extinction,
-- [24] novembre 1993 relative à la loi fédérale sur la pêche) :
-- [2] = fortement menacée,
-- [3] = menacée,
-- [4] = potentiellement menacée, NM = non menacée, DI = données insuffisantes, E = protégée à l’échelle européenne selon la Convention de Berne.
+- [1] Statut de menace de l’espèce selon annexe 1 de l’ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche : 1 = menacée d’extinction, 2 = fortement menacée, 3 = menacée, 4 = potentiellement menacée, NM = non menacée, DI = données insuffisantes, E = protégée à l’échelle européenne selon la Convention de Berne.
