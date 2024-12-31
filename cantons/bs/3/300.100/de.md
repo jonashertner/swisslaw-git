@@ -4,13 +4,12 @@ number: "300.100"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-05
+version: 2025-01-01
+version_adopted: 2024-10-16
 adopted: 2011-09-21
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/300.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6372/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6461/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gesundheitsgesetz | Gesundheit
 
 (GesG)
 
-Vom 21. September 2011 (Stand 1. August 2024)
+Vom 21. September 2011 (Stand 1. Januar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -691,11 +690,22 @@ beschliesst:
 
 #### § 59
 
-**eHealth**
+**eHealth-Pilotprojekte**
 
-<sup>1</sup> Der Kanton kann zur Erprobung von neuen Technologien und Anwendungen im Bereich eHealth Modellversuche durchführen.
+<sup>1</sup> Der Kanton kann zur Erprobung von neuen Technologien und Anwendungen im Bereich eHealth Pilotprojekte durchführen.
 
 <sup>2</sup> Der Regierungsrat regelt die zu bearbeitenden Personendaten und Zugriffsrechte. Die Freiwilligkeit der Teilnahme ist gewährleistet.
+
+#### § 59a
+
+**Elektronisches Patientendossier**
+
+<sup>1</sup> Der Kanton fördert die Verbreitung des elektronischen Patientendossiers.
+
+<sup>2</sup> Zu diesem Zweck kann der Regierungsrat insbesondere:
+
+- a) Beiträge für die Eröffnung und den Betrieb von elektronischen Patientendossiers gewähren;
+- b) sich an Projekten beteiligen.
 
 #### § 60
 
