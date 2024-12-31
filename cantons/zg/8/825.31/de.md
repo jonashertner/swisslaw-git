@@ -3,20 +3,19 @@ canton: ZG
 number: "825.31"
 title: Vollziehungsverordnung zum Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen
 language: de
-version: 2021-05-15
-valid_until: 2024-12-31
-version_adopted: 2021-05-11
+version: 2025-01-01
+version_adopted: 2024-10-01
 adopted: 1980-07-08
 in_force: 1980-08-14
 url: "https://bgs.zg.ch/app/de/texts_of_law/825.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2233/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2621/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollziehungsverordnung zum Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen
 
-Vom 8. Juli 1980 (Stand 15. Mai 2021)
+Vom 8. Juli 1980 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -74,9 +73,7 @@ beschliesst:
 - h) er nimmt Meldungen der Ärzte und Spitäler über Erkrankungen, Verdachtfälle und Ausscheider entgegen. Er leitet die Meldungen an das Bundesamt für Gesundheitswesen weiter (Art. 27 Abs. 1 des Epidemiengesetzes);
 - i) er nimmt Meldungen der anerkannten Laboratorien über mikrobiologische und serologische Feststellungen entgegen (Art. 27 Abs. 2 des Epidemiengesetzes);
 - k) …
-- l) er stellt Leichenpässe aus (Art. 16 Abs. 3 der bundesrätlichen Verordnung über Transport und Beisetzung ansteckungsgefährlicher Leichen sowie Transport von Leichen von und ins Ausland vom 17. Juni 1974[^3-1]).
-
-[^3-1]: SR [818.61](https://db.clex.ch/link/Bund/818.61/de)
+- l) …
 
 #### § 4
 
