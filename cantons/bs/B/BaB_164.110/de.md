@@ -3,13 +3,12 @@ canton: BS
 number: BaB 164.110
 title: Reglement zur Lohnordnung
 language: de
-version: 2017-09-01
-valid_until: 2024-12-31
-version_adopted: 2017-06-06
+version: 2025-01-01
+version_adopted: 2024-12-03
 adopted: 1999-02-16
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20164.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5529/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6521/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5529/pdf_file"
 
 Lohnreglement | Basel: Bürgergemeinde
 
-Vom 16. Februar 1999 (Stand 1. September 2017)
+Vom 16. Februar 1999 (Stand 1. Januar 2025)
 
 Der Bürgerat der Stadt Basel
 
@@ -166,15 +165,24 @@ erlässt in Ausführung von § 19 der Ordnung betreffend Entlöhnung der Mitarbe
 
 <sup>2</sup> Bei einem Funktionswechsel besteht kein Anspruch auf Besitzstand.
 
-## 4. Lohnanpassungen (§ 6 LO)
+## 4. Lohnanpassungen (§ 5a und § 6 LO)
 
-### 4. 1. Generelle und individuelle Lohnanpassungen (§ 6 Abs. 1 und 2 LO)
+### 4. 1. Generelle und individuelle Lohnanpassungen (§ 5a und § 6 Abs. 1 und 2 LO)
 
 #### § 13
 
 **Zuständigkeit**
 
 <sup>1</sup> Die vom Bürgerrat beschlossene individuelle und/oder generelle Lohnanpassung wird jährlich durch die Personalstelle der Institution nach den vom Bürgerrat vorgegebenen Richtlinien umgesetzt und tritt erstmals jeweils per Januar des Folgejahres in Kraft.
+
+#### § 13a
+
+**Berechnung der ausserordentlichen generellen Lohnanpassung**
+
+<sup>1</sup> Die vom Bürgerrat gewährte ausserordentliche generelle Lohnanpassung für Personalgruppen, bei deren Lohnentwicklung ein kantonaler Teuerungsausgleich zu berücksichtigen ist, berechnet sich wie folgt:
+
+- a) Ist der gewährte kantonale Teuerungsausgleich höher als die vom Bürgerrat beschlossene generelle Lohnanpassung, wird den betreffenden Personalgruppen die entsprechende Differenz ausgeglichen, sofern der Kanton der Institution diese Kosten direkt vergütet.
+- b) Ist der gewährte kantonale Teuerungsausgleich tiefer als die vom Bürgerrat beschlossene generelle Lohnanpassung erhalten die betreffenden Personalgruppen keine Differenzzahlung.
 
 #### § 14
 
