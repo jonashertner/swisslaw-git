@@ -4,13 +4,12 @@ number: "941.24"
 title: Verordnung zum Energiegesetz über Staatsbeiträge
 short: EnGVB
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-09-15
+version: 2025-01-01
+version_adopted: 2024-09-02
 adopted: 2012-09-25
 in_force: 2013-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/941.24"
-pdf: "https://bgs.so.ch/api/de/versions/5000/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5491/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5000/pdf_file"
 
 (EnGVB)
 
-Vom 25.09.2012 (Stand 01.01.2021)
+Vom 25.09.2012 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -103,7 +102,7 @@ beschliesst:
 
 <sup>3</sup> Für die Installation von Anlagen in Bauten mit überdurchschnittlich hohem Energieverbrauch (Elektrizität und Wärme) werden keine Beiträge geleistet.
 
-<sup>4</sup> Beiträge nach § 2 dürfen unter Anrechnung von Beiträgen des Bundes und Dritter nach § 1 Absatz 3 50 Prozent der Gesamtaufwendungen nicht übersteigen.
+<sup>4</sup> Beiträge nach § 2 dürfen unter Anrechnung von Beiträgen des Bundes und Dritter nach § 1 Absatz 3 60 Prozent der Gesamtaufwendungen nicht übersteigen.
 
 #### § 4
 
@@ -175,7 +174,7 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Für Gesuche, die vor dem 1. Januar 2020 eingereicht worden sind, aber noch keine Beitragszusicherung rechtskräftig ist, gilt das alte Recht.
+<sup>1</sup> Für Gesuche, die vor dem 1. Januar 2025 eingereicht worden sind, aber noch keine Beitragszusicherung rechtskräftig ist, gilt das alte Recht.
 
 RRB Nr. 2012/1967 vom 25. September 2012.
 
