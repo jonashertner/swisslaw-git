@@ -4,13 +4,13 @@ number: "421.000"
 title: Legge per le scuole popolari del Cantone dei Grigioni
 short: Legge scolastica
 language: it
-version: 2021-03-01
-corrected: 2023-08-23
-version_adopted: 2020-10-19
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-14
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3146/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3543/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3146/pdf_file"
 
 (Legge scolastica)
 
-del 21.03.2012 (stato 01.03.2021)
+del 21.03.2012 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -576,7 +576,7 @@ decide:
 
 <sup>2</sup> In caso di sostanziali cambiamenti della situazione, il Dipartimento può annullare la revoca.
 
-<sup>3</sup> Il Dipartimento comunica al Segretariato generale della Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE) la revoca e la nuova concessione del diritto all'insegnamento.
+<sup>3</sup> Il Dipartimento comunica al Segretariato generale della Conferenza delle direttrici e dei direttori cantonali della pubblica educazione (CDPE) la revoca e la nuova concessione del diritto all'insegnamento.
 
 #### Art. 59
 
@@ -945,9 +945,9 @@ decide:
 
 <sup>2</sup> Provvedimenti e decisioni del consiglio scolastico in questioni concernenti la scuola possono essere impugnati entro dieci giorni dinanzi al Dipartimento, se la legge non stabilisce altrimenti.
 
-<sup>3</sup> Decisioni di attribuzione negative e decisioni concernenti la mancata promozione e la promozione possono essere impugnate entro dieci giorni dinanzi all'Ufficio. L'Ufficio può prevedere una procedura di riesame speciale. Le decisioni dell'Ufficio possono essere impugnate entro dieci giorni dinanzi al Tribunale amministrativo.
+<sup>3</sup> Decisioni di attribuzione negative e decisioni concernenti la mancata promozione e la promozione possono essere impugnate entro dieci giorni dinanzi all'Ufficio. L'Ufficio può prevedere una procedura di riesame speciale. Le decisioni dell'Ufficio possono essere impugnate entro dieci giorni dinanzi al Tribunale d'appello.
 
-<sup>4</sup> Le decisioni dell'Ufficio sulla disposizione e sulla revoca di provvedimenti di pedagogia specializzata nel settore ad alta soglia possono essere impugnate entro dieci giorni dinanzi al Tribunale amministrativo.
+<sup>4</sup> Le decisioni dell'Ufficio sulla disposizione e sulla revoca di provvedimenti di pedagogia specializzata nel settore ad alta soglia possono essere impugnate entro dieci giorni dinanzi al Tribunale d'appello.
 
 #### Art. 96
 

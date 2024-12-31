@@ -4,13 +4,13 @@ number: "421.000"
 title: Lescha davart las scolas popularas dal chantun Grischun
 short: lescha da scola
 language: rm
-version: 2021-03-01
-corrected: 2023-08-23
-version_adopted: 2020-10-19
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-14
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3146/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3146/pdf_file"
 
 (lescha da scola)
 
-dals 21-03-2012 (versiun dals 01-03-2021)
+dals 21-03-2012 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -141,7 +141,7 @@ concluda:
 
 #### Art. 12
 
-**Entrada en scola, spustament e suspensiun da l'obligaziun d'ir a scola**
+**Entrada en scola, anticipaziun e suspensiun da l'obligaziun d'ir a scola**
 
 <sup>1</sup> Uffants che han cumplenì il 5avel onn da vegliadetgna fin ils 31 da december pon entrar en il stgalim da scolina cun il cumenzament da l'onn da scola dal medem onn chalendar.
 
@@ -578,7 +578,7 @@ concluda:
 
 <sup>2</sup> Sche las relaziuns sa midan en moda essenziala, po il departament revocar la retratga.
 
-<sup>3</sup> Il departament communitgescha al secretariat general da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica (CDEP) la retratga e la reconcessiun da la permissiun d'instruir.
+<sup>3</sup> Il departament communitgescha al secretariat general da la Conferenza da las directuras e dals directurs chantunals da l'educaziun publica (CDEP) la retratga e la reconcessiun da la permissiun d'instruir.
 
 #### Art. 59
 
@@ -955,9 +955,9 @@ concluda:
 
 <sup>2</sup> Cunter disposiziuns e cunter decisiuns dal cussegl da scola en fatgs da scola poi vegnir fatg recurs tar il departament entaifer 10 dis, nun che la lescha disponia insatge auter.
 
-<sup>3</sup> Cunter decisiuns d'assegnaziun negativas e cunter disposiziuns che concernan la nunpromoziun respectivamain la promoziun poi vegnir fatg recurs tar l'uffizi entaifer 10 dis. L'uffizi po prevair ina procedura speziala per giuditgar ils recurs. Cunter decisiuns da l'uffizi poi vegnir fatg recurs tar la dretgira administrativa entaifer 10 dis.
+<sup>3</sup> Cunter decisiuns d'assegnaziun negativas e cunter disposiziuns che concernan la nunpromoziun respectivamain la promoziun poi vegnir fatg recurs tar l'uffizi entaifer 10 dis. L'uffizi po prevair ina procedura speziala per giuditgar ils recurs. Cunter decisiuns da l'uffizi poi vegnir fatg recurs tar la Dretgira superiura entaifer 10 dis.
 
-<sup>4</sup> Cunter disposiziuns da l'uffizi che concernan l'ordinaziun e l'aboliziun da mesiras da la pedagogia speziala en il sectur pretensius poi vegnir fatg recurs tar la dretgira administrativa entaifer 10 dis.
+<sup>4</sup> Cunter disposiziuns da l'uffizi che concernan l'ordinaziun e l'aboliziun da mesiras da la pedagogia speziala en il sectur pretensius poi vegnir fatg recurs tar la Dretgira superiura entaifer 10 dis.
 
 #### Art. 96
 

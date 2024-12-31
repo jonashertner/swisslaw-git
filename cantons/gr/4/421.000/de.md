@@ -4,13 +4,13 @@ number: "421.000"
 title: Gesetz für die Volksschulen des Kantons Graubünden
 short: Schulgesetz
 language: de
-version: 2021-03-01
-corrected: 2023-08-23
-version_adopted: 2020-10-19
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-14
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3146/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3146/pdf_file"
 
 (Schulgesetz)
 
-Vom 21.03.2012 (Stand 01.03.2021)
+Vom 21.03.2012 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -578,7 +578,7 @@ beschliesst:
 
 <sup>2</sup> Bei wesentlicher Änderung der Verhältnisse kann das Departement den Entzug widerrufen.
 
-<sup>3</sup> Das Departement meldet dem Generalsekretariat der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) den Entzug und die Wiedereinräumung der Unterrichtsberechtigung.
+<sup>3</sup> Das Departement meldet dem Generalsekretariat der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) den Entzug und die Wiedereinräumung der Unterrichtsberechtigung.
 
 #### Art. 59
 
@@ -947,9 +947,9 @@ beschliesst:
 
 <sup>2</sup> Verfügungen und Entscheide des Schulrats in Schulangelegenheiten können innert zehn Tagen an das Departement weitergezogen werden, sofern das Gesetz nichts anderes bestimmt.
 
-<sup>3</sup> Negative Zuweisungsentscheide und Verfügungen betreffend Nichtpromotion beziehungsweise Promotion können innert zehn Tagen an das Amt weitergezogen werden. Das Amt kann ein besonderes Verfahren zur Einsprachebeurteilung vorsehen. Entscheide des Amtes können innert zehn Tagen an das Verwaltungsgericht weitergezogen werden.
+<sup>3</sup> Negative Zuweisungsentscheide und Verfügungen betreffend Nichtpromotion beziehungsweise Promotion können innert zehn Tagen an das Amt weitergezogen werden. Das Amt kann ein besonderes Verfahren zur Einsprachebeurteilung vorsehen. Entscheide des Amtes können innert zehn Tagen an das Obergericht weitergezogen werden.
 
-<sup>4</sup> Verfügungen des Amtes über die Anordnung und Aufhebung von sonderpädagogischen Massnahmen im hochschwelligen Bereich können innert zehn Tagen an das Verwaltungsgericht weitergezogen werden.
+<sup>4</sup> Verfügungen des Amtes über die Anordnung und Aufhebung von sonderpädagogischen Massnahmen im hochschwelligen Bereich können innert zehn Tagen an das Obergericht weitergezogen werden.
 
 #### Art. 96
 
