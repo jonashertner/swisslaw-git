@@ -4,7 +4,7 @@ number: "831.21"
 title: "LOI du 13.11.2007 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité (LVPC)"
 short: LVPC
 language: fr
-version: 2021-03-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/831.21?id=6e0918d1-9c59-4b02-8cc5-2cd9be0582b8"
 ---
 
@@ -89,16 +89,16 @@ décrète
 
 **Montant reconnu pour les dépenses personnelles [^3-4]**
 
-<sup>1</sup> Le montant mensuel reconnu pour les dépenses personnelles selon l'article 10, alinéa 2, lettre b, LPC[^3a-1], s'élève au moins à :
+<sup>1</sup> Le montant mensuel reconnu pour les dépenses personnelles selon l'article 10, alinéa 2, lettre b, LPC, que la personne séjourne en institution vaudoise ou sise hors du canton de Vaud, s'élève au moins à :
 
-- a. Fr. 400.- pour une personne séjournant dans un établissement socio-éducatif s'occupant du handicap physique, handicap psychique, handicap mental ou polyhandicap ;
-- b. Fr. 400.- pour une personne séjournant dans un établissement médico-social ou home non médicalisé à mission psychiatrique ;
-- c. Fr. 275.- pour une personne séjournant dans un établissement médico-social ou home non médicalisé à mission gériatrique et/ou psychiatrique de l'âge avancé.
+- a. Fr. 400.- pour une personne majeure séjournant dans un établissement socio-éducatif s'occupant du handicap physique, handicap psychique, handicap mental ou polyhandicap ;
+- b. Fr. 400.- pour une personne majeure séjournant dans un établissement médico-social ou home non médicalisé à mission psychiatrique ;
+- c. Fr. 275.- pour une personne majeure séjournant dans un établissement médico-social ou home non médicalisé à mission gériatrique et/ou psychiatrique de l'âge avancé.
+- d. Fr. 360.- pour une personne mineure, et pour une personne majeure si celle-ci est encore suivie par la direction générale en charge de l'enfance et de la jeunesse. Le Conseil d'Etat fixe dans le règlement les modalités d'application pour ces deux catégories de bénéficiaires.
 
 <sup>2</sup> Le Conseil d'Etat peut adapter le montant pour dépenses personnelles, sans excéder toutefois 30% des montants fixés à l'alinéa premier.
 
-[^3-4]: Modif. 2 du 23.09.2014: Introduction Al. 1 c; entrée en vigueur au 01.01.2015; Introduction Al. 1 a-b; entrée en vigueur au 01.01.2016 · Modif. 4 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021 · Modif. 5 du 04.11.2025: Modification Al. 1; entrée en vigueur au 01.01.2025; Modification Al. 1, a-c; entrée en vigueur au 01.01.2025; Introduction Al. 1, d; entrée en vigueur au 01.01.2025; Introduction Art. 9b; entrée en vigueur au 01.01.2025
-[^3a-1]: Loi fédérale du 06.10.2006 sur les prestations complémentaires à l'AVS et à l'AI (RS 831.30)
+[^3-4]: Modif. 2 du 23.09.2014: Introduction Al. 1 c; entrée en vigueur au 01.01.2015; Introduction Al. 1 a-b; entrée en vigueur au 01.01.2016 · Modif. 4 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021 · Modif. 5 du 04.11.2025: Modification Al. 1; entrée en vigueur au 01.01.2025; Modification Al. 1, a-c; entrée en vigueur au 01.01.2025; Introduction Al. 1, d; entrée en vigueur au 01.01.2025
 
 #### Art. 4
 
@@ -132,19 +132,27 @@ décrète
 
 #### Art. 7
 
-**Répartition des frais [^6-1]**
+**Prise en charge des frais [^6-1]**
 
-<sup>1</sup> Les frais d'administration de la Caisse pour l'exécution de la présente loi sont à la charge de l'Etat. Les frais des agences d'assurances sociales sont supportés par les communes.
+<sup>1</sup> Les frais d'administration de la Caisse pour l'exécution de la présente loi sont à la charge de l'Etat. La couverture des frais des agences d'assurances sociales est régie par un règlement du Conseil d'Etat.
 
-[^6-1]: Modif. 5 du 04.11.2025: Introduction Art. 3a, Al. 1, d; entrée en vigueur au 01.01.2025; Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Art. 9b; entrée en vigueur au 01.01.2025
+[^6-1]: Modif. 5 du 04.11.2025: Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025
+
+#### Art. 9b
+
+**Disposition transitoire de la loi du 4 novembre 2025 [^7-1]**
+
+<sup>1</sup> La modification du 4 novembre 2025 des articles 3a et 7 porte effet dès le 1<sup>er</sup> janvier 2025.
+
+[^7-1]: Modif. 5 du 04.11.2025: Introduction tArt; entrée en vigueur au 01.01.2025; Introduction Al. 1; entrée en vigueur au 01.01.2025; Introduction Art. 9b; entrée en vigueur au 01.01.2025
 
 #### Art. 8
 
-**Procédure et voie de droit [^7-1]**
+**Procédure et voie de droit [^9b-1]**
 
 <sup>1</sup> Les décisions sur opposition de la Caisse peuvent faire l'objet d'un recours au Tribunal cantonal.
 
-[^7-1]: Modif. 1 du 06.05.2008: Modification Art. 8; entrée en vigueur au 01.01.2009 · Modif. 4 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 1; entrée en vigueur au 01.03.2021
+[^9b-1]: Modif. 1 du 06.05.2008: Modification Art. 8; entrée en vigueur au 01.01.2009 · Modif. 4 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 1; entrée en vigueur au 01.03.2021
 
 #### Art. 9
 
