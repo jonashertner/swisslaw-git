@@ -4,11 +4,11 @@ title: Europäisches Übereinkommen vom 26. Mai 2000 über die internationale Be
 short: ADN
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/153"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2000-05-26
 in_force: 2011-03-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2011-153-20230101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2011-153-20250101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Abgeschlossen in Genf am 26. Mai 2000 Von der Bundesversammlung genehmigt am 1. 
 
 In Kraft getreten für die Schweiz am 8. März 2011
 
-(Stand am 1. Januar 2023)
+(Stand am 1. Januar 2025)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 1. Okt. 2010 ([AS 2011 1013](https://fedlex.data.admin.ch/eli/oc/2011/152))
 
@@ -68,7 +68,7 @@ Die beigefügte Verordnung umfasst:
 - c. Allgemeine Übergangsbestimmungen;
 - d. Zusätzliche Übergangsbestimmungen, die auf besonderen Binnenwasserstrassen gelten.
 
-[^2-1]: Der Text dieser Verordnung wird nicht in der AS veröffentlicht. Er wurde zusammen mit seinen Änd. vom Generalsekretär der Vereinten Nationen in Anwendung von Artikel 20 am 2. Okt. 2012 ([AS 2012 7483](https://fedlex.data.admin.ch/eli/oc/2012/897)), am 2. Okt. 2014 ([AS 2014 4709](https://fedlex.data.admin.ch/eli/oc/2014/795)), am 7. Okt. 2016 ([AS 2016 3865](https://fedlex.data.admin.ch/eli/oc/2016/653)), am 15. Okt. 2018 ([AS 2018 5393](https://fedlex.data.admin.ch/eli/oc/2018/812)) und am 7. Dez. 2022 auf den 1. Jan. 2023 in Kraft gesetzt ([AS 2024 278](https://fedlex.data.admin.ch/eli/oc/2024/278)). Die Schweiz, Deutschland und die Niederlande haben Abweichungen beschlossen, welche vom 19. Aug. 2016 bis zum 31. Dez. 2019 ([AS 2016 3097](https://fedlex.data.admin.ch/eli/oc/2016/519)) und vom 10. Nov. 2016 bis zum 31. Dez. 2021 ([AS 2016 5303](https://fedlex.data.admin.ch/eli/oc/2016/839)) anwendbar sind. Die Schweiz, Deutschland, Luxemburg und die Niederlande haben Abweichungen beschlossen, welche vom 1. Juni 2017 bis zum 31. Dez. 2018 anwendbar sind ([AS 2017 3537](https://fedlex.data.admin.ch/eli/oc/2017/389)). Der Text dieser Verordnung kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen, gratis eingesehen oder im Internet unter: [www.bav.admin.ch](http://www.bav.admin.ch) &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen vom 26. Mai 2000 über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2023) oder: [www.ccr-zkr.org](http://www.ccr-zkr.org) &gt; Dokumente &gt; Übereinkommen, Vereinbarungen und Geschäftsordnung &gt; Übereinkommen und Vereinbarungen &gt; Andere die ZKR betreffende Übereinkommen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) [2023] abgerufen werden.
+[^2-1]: Der Text dieser Verordnung wird nicht in der AS veröffentlicht. Er wurde zusammen mit seinen Änd. vom Generalsekretär der Vereinten Nationen in Anwendung von Artikel 20 am 2. Okt. 2012 ([AS 2012 7483](https://fedlex.data.admin.ch/eli/oc/2012/897)), am 2. Okt. 2014 ([AS 2014 4709](https://fedlex.data.admin.ch/eli/oc/2014/795)), am 7. Okt. 2016 ([AS 2016 3865](https://fedlex.data.admin.ch/eli/oc/2016/653)), am 15. Okt. 2018 ([AS 2018 5393](https://fedlex.data.admin.ch/eli/oc/2018/812)), am 7. Dez. 2022 ([AS 2024 278](https://fedlex.data.admin.ch/eli/oc/2024/278)) und am 11. Dez. 2024 auf den 1. Jan. 2025 in Kraft gesetzt (AS **202****5** 281). Die Schweiz, Deutschland und die Niederlande haben Abweichungen beschlossen, welche vom 19. Aug. 2016 bis zum 31. Dez. 2019 ([AS 2016 3097](https://fedlex.data.admin.ch/eli/oc/2016/519)) und vom 10. Nov. 2016 bis zum 31. Dez. 2021 ([AS 2016 5303](https://fedlex.data.admin.ch/eli/oc/2016/839)) anwendbar sind. Die Schweiz, Deutschland, Luxemburg und die Niederlande haben Abweichungen beschlossen, welche vom 1. Juni 2017 bis zum 31. Dez. 2018 anwendbar sind ([AS 2017 3537](https://fedlex.data.admin.ch/eli/oc/2017/389)). Der Text dieser Verordnung wird nicht in der AS veröffentlicht. Er kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter [www.bav.admin.ch](https://www.bav.admin.ch/bav/de/home.html) &gt; Rechtliches &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2025) oder: [www.ccr-zkr.org](https://www.ccr-zkr.org) &gt; Dokumente &gt; Übereinkommen, Vereinbarungen und Geschäftsordnung &gt; Übereinkommen und Vereinbarungen &gt; Andere die ZKR betreffende Übereinkommen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) [2025] oder: [https://unece.org/](https://unece.org/) &gt; our work &gt; programmes &gt; transport &gt; dangerous goods &gt; legal instruments and recomendations &gt; ADN &gt; ADN 2025 abgerufen werden.
 
 #### Art. 3
 
@@ -364,11 +364,9 @@ Die Schweiz erklärt, dass dieses Übereinkommen nicht gilt:
 - a. für den Rhein oberhalb der Strassenbrücke Rheinfelden;
 - b. für den Boden-, Genfer-, Langen- und Luganersee.
 
-#### Art. 14
+Art. 14 Abs. 3 Bst. b
 
-**Abs. 3 Bst. b**
-
-Die Schweiz erklärt, dass die Anwendung dieses Übereinkommens auf dem Rhein unterhalb der Mittleren Rheinbrücke in Basel der Übereinstimmung mit den Verfahren nach den Statuten der Zentralkommission für die Rheinschifffahrt unterliegt. Infolgedessen sind die Bestimmungen des Übereinkommens und seiner Anlagen sowie deren Änderungen gemäss der Revidierten Rheinschifffahrtsakte vom 17. Oktober 1868[^declu2-14-1] zwischen Baden, Bayern, Frankreich, Hessen, den Niederlanden und Preussen umzusetzen.
+Die Schweiz erklärt, dass die Anwendung dieses Übereinkommens auf dem Rhein unterhalb der Mittleren Rheinbrücke in Basel der Übereinstimmung mit den Verfahren nach den Statuten der Zentralkommission für die Rheinschifffahrt unterliegt. Infolgedessen sind die Bestimmungen des Übereinkommens und seiner Anlagen sowie deren Änderungen gemäss der Revidierten Rheinschifffahrtsakte vom 17. Oktober 1868[^t-4] zwischen Baden, Bayern, Frankreich, Hessen, den Niederlanden und Preussen umzusetzen.
 
 [^t-3]: Art. 1 Abs. 3 des BB vom 1. Okt. 2010 ([AS 2011 1013](https://fedlex.data.admin.ch/eli/oc/2011/152))
-[^declu2-14-1]: [SR 0.747.224.101](https://fedlex.data.admin.ch/eli/cc/1967/1597_1645_1638)
+[^t-4]: [SR 0.747.224.101](https://fedlex.data.admin.ch/eli/cc/1967/1597_1645_1638)

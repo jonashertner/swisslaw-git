@@ -4,11 +4,11 @@ title: Accord européen du 26 mai 2000 relatif au transport international des ma
 short: ADN
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/153"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2000-05-26
 in_force: 2011-03-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-153-20230101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-153-20250101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument d’adhésion déposé par la Suisse le 8 février 2011
 
 Entré en vigueur pour la Suisse le 8 mars 2011
 
-(État le 1<sup>er</sup> janvier 2023)
+(État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 1<sup>er</sup> oct. 2010 ([RO 2011 1013](https://fedlex.data.admin.ch/eli/oc/2011/152))
 
@@ -72,7 +72,7 @@ Le Règlement annexé comprend:
 - c) des dispositions transitoires générales;
 - d) des dispositions transitoires supplémentaires applicables sur des voies de navigation intérieures spécifiques.
 
-[^2-1]: Le texte de ce R n’est pas publié au RO. En application de l’art. 20 de l’ADN, il a été modifié par les D du Secrétaire général de l’ONU du 2 oct. 2012 ([RO 2012 7483](https://fedlex.data.admin.ch/eli/oc/2012/897)), du 2oct. 2014 ([RO 2014 4709](https://fedlex.data.admin.ch/eli/oc/2014/795)), du 7 oct. 2016 ([RO 2016 3865](https://fedlex.data.admin.ch/eli/oc/2016/653)), du 15 oct. 2018 ([RO 2018 5393](https://fedlex.data.admin.ch/eli/oc/2018/812)) et du 7 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2024 278](https://fedlex.data.admin.ch/eli/oc/2024/278)). La Suisse, l’Allemagne et les Pays-Bas sont convenues de dérogations applicables du 19 août 2016 au 31 déc. 2019 ([RO 2016 3097](https://fedlex.data.admin.ch/eli/oc/2016/519)) et du 10 nov. 2016 au 31 déc. 2021 ([RO 2016 5303](https://fedlex.data.admin.ch/eli/oc/2016/839)). La Suisse, l’Allemagne, le Luxembourg et les Pays-Bas sont convenues de dérogations appliquables du 1<sup>er</sup> juin 2017 au 31 déc. 2018 ([RO 2017 3537](https://fedlex.data.admin.ch/eli/oc/2017/389)). Le texte du présent R peut être consulté gratuitement à l’Office fédéral des transports, Mühlestrasse 6, 3063 Ittigen, ou téléchargé sur le site [www.bav.admin.ch](http://www.bav.admin.ch) &gt; Droit &gt; Autres bases légales et prescriptions &gt; Conventions internationales &gt; Accord européen du 26 mai 2000 relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN 2023) ou [www.ccr-zkr.org](http://www.ccr-zkr.org) &gt; Documents &gt; Conventions, accords et Règlement intérieur &gt; Autres conventions intéressant la CCNR &gt; Accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) [2023].
+[^2-1]: Le texte de ce R n’est pas publié au RO. En application de l’art. 20 de l’ADN, il a été modifié par les D du Secrétaire général de l’ONU du 2 oct. 2012 ([RO 2012 7483](https://fedlex.data.admin.ch/eli/oc/2012/897)), du 2oct. 2014 ([RO 2014 4709](https://fedlex.data.admin.ch/eli/oc/2014/795)), du 7 oct. 2016 ([RO 2016 3865](https://fedlex.data.admin.ch/eli/oc/2016/653)), du 15 oct. 2018 ([RO 2018 5393](https://fedlex.data.admin.ch/eli/oc/2018/812)), du 7 déc. 2022 ([RO 2024 278](https://fedlex.data.admin.ch/eli/oc/2024/278)) et du 11 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 381](https://fedlex.data.admin.ch/eli/oc/2025/381)). La Suisse, l’Allemagne et les Pays-Bas sont convenues de dérogations applicables du 19 août 2016 au 31 déc. 2019 ([RO 2016 3097](https://fedlex.data.admin.ch/eli/oc/2016/519)) et du 10 nov. 2016 au 31 déc. 2021 ([RO 2016 5303](https://fedlex.data.admin.ch/eli/oc/2016/839)). La Suisse, l’Allemagne, le Luxembourg et les Pays-Bas sont convenues de dérogations appliquables du 1<sup>er</sup> juin 2017 au 31 déc. 2018 ([RO 2017 3537](https://fedlex.data.admin.ch/eli/oc/2017/389)). Le texte du présent R peut être consulté gratuitement à l’Office fédéral des transports, Mühlestrasse 6, 3063 Ittigen, ou téléchargé sur le site [www.bav.admin.ch](https://www.bav.admin.ch/bav/fr) &gt; Droit &gt; Conventions internationales &gt; Accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN 2025) ou [www.ccr-zkr.org](https://www.ccr-zkr.org/10000000-fr.html) &gt; Documents &gt; Conventions, accords et Règlement intérieur &gt; Autres conventions intéressant la CCNR &gt; Accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) [2025] ou [https://unece.org/](https://unece.org/) &gt; our work &gt; programmes &gt; transport &gt; dangerous goods &gt; legal instruments and recommendations &gt; ADN &gt; ADN 2025.
 
 #### Art. 3
 
