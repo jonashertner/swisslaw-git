@@ -3,20 +3,20 @@ canton: LU
 number: "778"
 title: Verordnung über den Gebührenbezug des Strassenverkehrsamtes
 language: de
-version: 2019-04-01
-valid_until: 2024-12-31
-version_adopted: 2019-03-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-10
 adopted: 2001-10-30
 in_force: 2002-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/778"
-pdf: "https://srl.lu.ch/api/de/versions/3400/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4318/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Gebührenbezug des Strassenverkehrsamtes
 
-vom 30.10.2001 (Stand 01.04.2019)
+vom 30.10.2001 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -134,7 +134,7 @@ beschliesst:
 
 <sup>1</sup> Die Gebühr beträgt für die Kontrolle
 
-- a. des Prüfberichts (Form. 13.20 A) aus Selbstabnahme durch Garagen — Fr. 20.–
+- a. der Zulassungsunterlagen — Fr. 20.–
 - b. des Abnahmeprotokolls von Unternehmen des Bootsbaugewerbes — Fr. 20.–
 - c. der Bestätigung über die Mängelbehebung — Fr. 20.–
 - d. der Dokumente direkt importierter Fahrzeuge oder der Bescheinigungen für die Fahrzeugzulassung — Fr. 20.– bis Fr. 200.–
@@ -170,7 +170,7 @@ beschliesst:
 - a. Gruppenprüfungen:
   - 1\. Basistheorie pro Person — Fr. 30.–
   - 2\. Zusatztheorie pro Person — Fr. 30.–
-  - 3\. schriftliche Prüfung zum Erwerb des Fähigkeitsausweises für den Personen- und Gütertransport pro Person — Fr. 45.–
+  - 3\. Prüfungen zum Erwerb des Fähigkeitsausweises für den Personen- und Gütertransport pro Person und Prüfung — Fr. 30.–
 - b. Einzelprüfung — Fr. 120.–
 
 #### § 15
@@ -201,9 +201,10 @@ beschliesst:
 - b. die Bearbeitung eines Gesuches für den Führerausweis der Kategorie D, der Spezialkategorien G und M, für die Eintragung der Codes Nr. 121 und 122 im Führerausweis sowie für den Schiffsführerausweis — Fr. 30.–
 - c. das Ausstellen eines Schiffsführerausweises oder eines internationalen Führerausweises — Fr. 50.–
 - d. den Ersatz eines Lernfahr- oder Schiffsführerausweises infolge Verlusts (Duplikat) oder Änderungen irgendwelcher Art — Fr. 30.–
-- e. das erstmalige Ausstellen eines Führerausweises im Kreditkartenformat (FAK) — Fr. 45.–
-- f. den Ersatz eines Führerausweises im Kreditkartenformat (FAK) infolge Verlusts oder Änderungen irgendwelcher Art — Fr. 25.–
+- e. das erstmalige Ausstellen eines Führerausweises — Fr. 45.–
+- f. den Ersatz eines Führerausweises infolge Verlusts oder Änderungen irgendwelcher Art — Fr. 25.–
 - g. die Umschreibung eines ausländischen Führerausweises — Fr. 95.–
+- h. das Ausstellen und den Ersatz eines Führer- oder Lernfahrausweises in elektronischer Form zu einem bestehenden physischen Ausweis — Fr. 10.–
 
 <sup>2</sup> …
 
@@ -237,11 +238,11 @@ beschliesst:
 <sup>2</sup> Die Gebühren betragen für
 
 - a. die Ausgabe hinterlegter Kontrollschilder — Fr. 20.–
-- b. die Rücksendung eines Kontrollschilderpaares an den bisherigen Standortkanton — Fr. 10.–
-- c. die Rücksendung eines Einzelkontrollschildes an den bisherigen Standortkanton — Fr. 6.–
-- d. die Zustellung eines Kontrollschilderpaares per Post — Fr. 10.–
-- e. die Zustellung eines Einzelkontrollschildes per Post — Fr. 6.–
-- f. den Austausch der Kontrollschilder per Post — Fr. 18.–
+- b. die Rücksendung eines Kontrollschilderpaares an den bisherigen Standortkanton — Fr. 12.–
+- c. die Rücksendung eines Einzelkontrollschildes an den bisherigen Standortkanton — Fr. 8.–
+- d. die Zustellung eines Kontrollschilderpaares per Post — Fr. 12.–
+- e. die Zustellung eines Einzelkontrollschildes per Post — Fr. 8.–
+- f. den Austausch der Kontrollschilder per Post — Fr. 20.–
 
 <sup>3</sup> Die Gebühr für die Übertragung von Kontrollschildern mit weissem Grund und schwarzer Schrift auf einen anderen Halter oder eine andere Halterin im Rahmen von § 16c Absatz 2 der Strassenverkehrsverordnung vom 9. Dezember 1986[^19-1] beträgt:
 
@@ -252,7 +253,8 @@ beschliesst:
 
 - a. Namensänderungen natürlicher Personen,
 - b. Namensänderungen von Einzelunternehmen sowie von Kollektiv- und Kommanditgesellschaften ohne Änderung der Rechtsform,
-- c. Firmenänderungen von Einzelunternehmen sowie von juristischen Personen ohne Änderung der Rechtsform.
+- c. Firmenänderungen von Einzelunternehmen sowie von juristischen Personen ohne Änderung der Rechtsform,
+- d. Erbgang auf den überlebenden Ehegatten oder die überlebende Ehegattin beziehungsweise auf den überlebenden eingetragenen Partner oder die überlebende eingetragene Partnerin.
 
 <sup>4</sup> Für die Zuteilung einer bestimmten Kontrollschildnummer mit weissem Grund und schwarzer Schrift für Motorwagen, Motorräder, Klein- und dreirädrige Motorfahrzeuge gemäss dem Wunsch des Halters oder der Halterin verlangt das Strassenverkehrsamt eine Zusatzgebühr, welche sich an der Nachfrage orientiert.
 
@@ -289,11 +291,11 @@ beschliesst:
   - 4\. ab 51 Haltern oder Fahrzeugen — Fr. 40.–
 - h. Auskünfte an Versicherer (pro Fahrzeug) — Fr. 8.–
 - i. das Ausstellen der internationalen Versicherungskarte — Fr. 20.–
-- j. den Eignungstest nach dreimaligem Prüfungsversagen — Fr. 230.–
+- j. den Eignungstest nach dreimaligem Prüfungsversagen — Fr. 260.–
 - k. das Ausstellen der CE-Schiffsprüfungsprotokolle — Fr. 40.–
 - l. das Ausstellen von ADR/SDR-Zulassungsbescheinigungen — Fr. 40.–
 - m. die Verlängerung von ADR/SDR-Zulassungsbescheinigungen — Fr. 20.–
-- n. das Aufgebot zur periodischen Kontrolluntersuchung für Personen über 70 Jahre und Inhaberinnen und Inhaber von Ausweisen berufsmässiger Kategorien (medizinische Gruppen 1 und 2) — Fr. 25.–
+- n. das Aufgebot zur periodischen Kontrolluntersuchung für Personen über 75 Jahre und Inhaberinnen und Inhaber von Ausweisen berufsmässiger Kategorien (medizinische Gruppen 1 und 2) — Fr. 25.–
 - o. das Ausstellen oder die Verlängerung einer Ärzteparkkarte — Fr. 50.–
 
 <sup>2</sup> …
@@ -363,7 +365,7 @@ beschliesst:
 - e. die Bewilligung zur Verwendung von Lautsprechern an Motorfahrzeugen — Fr. 20.–
 - f. die Bewilligung zur Eröffnung einer Fahrschule (Art. 55 Abs. 2 VZV) — Fr. 100.–
 - g. die Behandlung eines Gesuchs um Steuererlass oder Steuerermässigung — Fr. 50.–
-- h. die Kontrolle der Fahrschulen und des Verkehrskundeunterrichts — Fr. 130.–
+- h. die Kontrolle der Fahrschulen und des Verkehrskundeunterrichts — Fr. 195.–
 - i. die Kontrolle der praktischen Grundschulung bei den Motorrädern — Fr. 260.–
 - j. die Erteilung oder Änderung der Bewilligung zum Einbau von Fahrt- und Restwegschreibern sowie von Geschwindigkeitsbegrenzungseinrichtungen — Fr. 20.– bis Fr. 400.–
 - k. die Abgabe der Parkkarte für behinderte Personen und Organisationen, die gehbehinderte Personen befördern — Fr. 25.–
