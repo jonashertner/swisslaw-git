@@ -4,13 +4,13 @@ number: "172.200"
 title: "Ordonnance sur le personnel de l'Etat du Valais"
 short: OcPers
 language: fr
-version: 2022-11-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-26
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-20
 adopted: 2011-06-22
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.200"
-pdf: "https://lex.vs.ch/api/fr/versions/3080/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3407/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3080/pdf_file"
 
 (OcPers)
 
-du 22.06.2011 (état 01.11.2022)
+du 22.06.2011 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -280,7 +280,7 @@ ordonne:
 
 <sup>2</sup> Pour une durée d'engagement maximum d'une année, lors notamment de remplacement ou de travaux urgents, aucune mise au concours n'est nécessaire. L’engagement des employés sans mise au concours ne peut être prolongé au-delà d’une année, sans mise au concours externe.
 
-<sup>3</sup> Dans le cadre de la mobilité professionnelle, les postes à repourvoir rangés dans les classes de traitement 11 à 26 sont mis au concours à l’interne de l'Administration cantonale via l’intranet du SRH (bourse de mobilité interne) ou peuvent, sur demande de l'autorité d'engagement concernée et d'entente avec le SRH, être seulement mis au concours à l’interne du et par le service. Seuls les employés qui ont été engagés par l’autorité compétente au moyen d'une mise au concours externe peuvent être pris en considération pour les mises au concours internes.
+<sup>3</sup> Afin d'encourager la mobilité professionnelle, les postes à repourvoir rangés dans les classes 11 à 26 de l’échelle des salaires, peuvent être mis au concours seulement en interne du service ou de l'administration cantonale. Lorsqu’aucun poste n’est vacant au sein d’un service, une mise au concours d’une fonction peut toujours être faite à l’interne du service, indépendamment de la classe salariale. Toutefois, seuls les employés qui ont été engagés par l’autorité compétente au moyen d’une mise au concours externe peuvent être pris en considération pour les mises aux concours internes.
 
 <sup>4</sup> Les postes à repourvoir en externe sont mis au concours par le SRH dans le Bulletin officiel et dans la Bourse de l’emploi électronique du canton. Demeure réservée la publication de la mise au concours dans d'autres moyens de parution. Le SRH peut, sur demande, financer des annonces individuelles notamment quand il s’agit d’une fonction de cadre, de spécialiste ou si le marché du travail le nécessite.
 

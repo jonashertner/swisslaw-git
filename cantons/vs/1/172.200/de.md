@@ -4,13 +4,13 @@ number: "172.200"
 title: Verordnung über das Personal des Staates Wallis
 short: kVPers
 language: de
-version: 2022-11-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-26
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-20
 adopted: 2011-06-22
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.200"
-pdf: "https://lex.vs.ch/api/de/versions/3080/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3407/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3080/pdf_file"
 
 (kVPers)
 
-vom 22.06.2011 (Stand 01.11.2022)
+vom 22.06.2011 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -211,7 +211,7 @@ verordnet:
 
 <sup>2</sup> Folgende Kategorien können als Unterbereiche des Angestelltenstatuts betrachtet werden:
 
-- a) das Statut des Lehrlings, definiert im Lehrlingsreglement der kantonalen Verwaltung;
+- a) das Statut der Lernenden, definiert im Reglement über die Lernenden der kantonalen Verwaltung;
 - b) das Statut des Praktikanten, definiert durch einen Staatsratsentscheid;
 - c) das Statut des halbgeschützten Beschäftigten, definiert durch eine Weisung des Staatsrats.
 
@@ -249,9 +249,9 @@ verordnet:
 
 <sup>2</sup> Die Departementsvorsteher stellen die Angestellten in den Endlohnklassen 11 bis 26 an.
 
-<sup>3</sup> Die Dienstchefs stellen die halbgeschützten Beschäftigten, die Praktikanten sowie Angestellten für eine befristete Dauer an, sofern die maximale Anstellungsdauer ein Jahr beträgt, mit der Möglichkeit einer Verlängerung von höchstens einem Jahr.
+<sup>3</sup> Die Dienstchefs stellen die halbgeschützten Beschäftigten, die Praktikanten sowie Angestellten für eine befristete Dauer an, sofern die maximale Anstellungsdauer ein Jahr beträgt, mit der Möglichkeit einer Verlängerung von höchstens einem Jahr unter Vorbehalt der Anwendung von Artikel 21 Absatz 2.
 
-<sup>4</sup> Die DPM stellt die Lehrlinge an, mit der Vormeinung der betroffenen Dienststellen.
+<sup>4</sup> Die DPM stellt die Lernenden an, mit der Vormeinung der betroffenen Dienststellen.
 
 <sup>5</sup> Die Angestellten können grundsätzlich nur im Rahmen des jährlich festgelegten Personalbudgets und im Rahmen des im Organigramm der Dienststelle festgelegten Beschäftigungsgrades angestellt werden.
 
@@ -280,9 +280,9 @@ verordnet:
 
 <sup>2</sup> Für eine Anstellung von maximal einem Jahr, insbesondere bei Stellvertretungen oder dringenden Arbeiten, ist keine Ausschreibung notwendig. Die Anstellung der Angestellten ohne Stellenausschreibung kann ohne externe Stellenausschreibung nicht länger als ein Jahr verlängert werden.
 
-<sup>3</sup> Im Rahmen der beruflichen Mobilität werden die zu besetzenden Stellen in den Lohnklassen 11 bis 26 innerhalb der Kantonsverwaltung mittels Intranet der DPM (Interne Mobilitätsbörse) ausgeschrieben oder können auf Anfrage der zuständigen Anstellungsinstanz und im Einvernehmen mit der DPM, lediglich innerhalb und durch die Dienststelle ausgeschrieben werden. Für die internen Stellenausschreibungen können lediglich diejenigen Angestellten berücksichtigt werden, welche bereits aufgrund einer externen Stellenausschreibung durch die zuständige Anstellungsinstanz angestellt worden sind.
+<sup>3</sup> Um die berufliche Mobilität zu fördern, können die zu besetzenden Stellen in den Lohnklassen 11 bis 26 der Lohntabelle auch nur intern innerhalb der Dienststelle oder der kantonalen Verwaltung ausgeschrieben werden. Wenn in einer Dienststelle keine Stelle frei ist, kann eine Funktion unabhängig von der Lohnklasse immer intern in der Dienststelle ausgeschrieben werden. Bei internen Stellenausschreibungen können jedoch nur Angestellte berücksichtigt werden, die von der zuständigen Behörde durch eine externe Stellenausschreibung eingestellt wurden.
 
-<sup>4</sup> Die neu zu besetzenden Stellen werden von der DPM im Amtsblatt und in der kantonalen elektronischen Stellenbörse ausgeschrieben. Vorbehalten bleibt die Veröffentlichung der Ausschreibung mit anderen Mitteln. Die DPM kann, auf Anfrage, Einzelinserate finanzieren, insbesondere wenn es sich um eine Kader- oder Spezialistenfunktion handelt oder es die Arbeitsmarktlage erfordert.
+<sup>4</sup> Die extern neu zu besetzenden Stellen werden von der DPM im Amtsblatt und in der kantonalen elektronischen Stellenbörse ausgeschrieben. Vorbehalten bleibt die Veröffentlichung der Ausschreibung mit anderen Mitteln. Die DPM kann, auf Anfrage, Einzelinserate finanzieren, insbesondere wenn es sich um eine Kader- oder Spezialistenfunktion handelt oder es die Arbeitsmarktlage erfordert.
 
 <sup>5</sup> In ausserordentlichen Fällen und im Rahmen der finanziellen Mittel der gesuchstellenden Departemente und Dienststellen kann die DPM für die Rekrutierung eines neuen Angestellten spezialisierte Unternehmen beauftragen.
 
