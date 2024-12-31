@@ -4,11 +4,11 @@ title: Zivilstandsverordnung vom 28. April 2004 (ZStV)
 short: ZStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: de
-version: 2024-11-18
+version: 2025-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241118/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241118-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/de"
 
 (ZStV)
 
-vom 28. April 2004 (Stand am 18. November 2024)
+vom 28. April 2004 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1381,9 +1381,10 @@ Ist kein Formular vorgesehen oder ist dessen Verwendung nicht zweckmässig, so e
 - e. mündlich an Zivilstandsämter und Aufsichtsbehörden, wenn die anfragende Person zweifelsfrei identifiziert werden kann;
 - f. durch eine nicht beglaubigte Kopie aus den Zivilstandsregistern, die als Archivgut gemäss Artikel 6*a* Absatz 3 gelten.
 
-<sup>3</sup> Für Behörden ausserhalb des Zivilstandswesens richtet sich der Zugriff im Abrufverfahren auf Daten, die im Personenstandsregister geführt werden, nach Artikel 43*a* Absatz 4 ZGB.
+<sup>3</sup> Für Behörden ausserhalb des Zivilstandswesens richtet sich der Zugriff im Abrufverfahren auf Daten, die im Personenstandsregister geführt werden, nach Artikel 43*a* Absätze 4 und 5 ZGB.[^47-2]
 
 [^47-1]: Fassung gemäss Anhang Ziff. II 2 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^47-2]: Fassung gemäss Anhang Ziff. 1 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 47a
 

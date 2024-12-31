@@ -4,11 +4,11 @@ title: "Ordonnance du 28 avril 2004 sur l'état civil (OEC)"
 short: OEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: fr
-version: 2024-11-18
+version: 2025-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241118/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241118-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/fr"
 
 (OEC)
 
-du 28 avril 2004 (État le 18 novembre 2024)
+du 28 avril 2004 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1384,9 +1384,10 @@ En l’absence de formule ou lorsque son utilisation n’est pas adéquate, les 
 - e. oralement aux offices de l’état civil et aux autorités de surveillance lorsque l’interlocuteur peut être identifié avec certitude.
 - f. par une copie non légalisée pour les registres de l’état civil considérés comme des archives au sens de l’art. 6*a*, al. 3.
 
-<sup>3</sup> L’art. 43*a*, al. 4, CC régit l’accès en ligne aux données du registre de l’état civil par des autorités externes à l’état civil.
+<sup>3</sup> L’art. 43*a*, al. 4 et 5, CC régit l’accès en ligne aux données du registre de l’état civil par des autorités externes à l’état civil.[^47-2]
 
 [^47-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^47-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 47a
 

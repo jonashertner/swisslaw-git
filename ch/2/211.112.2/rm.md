@@ -4,11 +4,11 @@ title: "Ordinaziun dals 28 d'avrigl 2004 davart il stadi civil (OSC)"
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: rm
-version: 2024-11-18
+version: 2025-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241118/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241118-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20250101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OSC)
 
-dals 28 d’avrigl 2004 (versiun dals 18 da november 2024)
+dals 28 d’avrigl 2004 (versiun dal 1. da schaner 2025)
 
 Il Cussegl federal svizzer,
 
@@ -1383,9 +1383,10 @@ Sch’i n’è betg previs in formular u sche sia utilisaziun n’è betg cunveg
 - e. a bucca als uffizis dal stadi civil ed a las autoritads da surveglianza, sche la persuna petenta po vegnir identifitgada senza dubi;
 - f. cun ina copia legalisada or dals registers dal stadi civil che valan sco archivalias tenor l’artitgel 6*a* alinea 3.
 
-<sup>3</sup> Per autoritads ordaifer ils fatgs dal stadi civil sa drizza l’access en la procedura d’invista a datas manadas en il register dal stadi civil tenor l’artitgel 43*a* alinea 4 CCS.
+<sup>3</sup> Per autoritads ordaifer ils fatgs dal stadi civil sa drizza l’access en la procedura d’invista a datas manadas en il register dal stadi civil tenor l’artitgel 43*a* alineas 4 e 5 CCS.[^47-2]
 
 [^47-1]: Versiun tenor la cifra II 2 da l’agiunta da l’O dals 8 da dec. 2017 davart l’emissiun da documents publics electronics e da legalisaziuns electronicas, en vigur dapi il 1. da favr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^47-2]: Versiun tenor la cifra 1 da l’agiunta da l’O dals 20 da nov. 2024 (digitalisaziun en l’urden da cumpensaziun dal gudogn: fasa d’introducziun dal sistem d’infurmaziun), en vigur dapi il 1. da schan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 47a
 

@@ -4,11 +4,11 @@ title: Ordinanza del 28 aprile 2004 sullo stato civile (OSC)
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: it
-version: 2024-11-18
+version: 2025-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241118/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241118-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/it"
 
 (OSC)
 
-del 28 aprile 2004 (Stato 18 novembre 2024)
+del 28 aprile 2004 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -43,7 +43,7 @@ ordina:
 
 <sup>4</sup> I Cantoni informano l’UFSC prima di modificare un circondario dello stato civile.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 1a
 
@@ -57,9 +57,9 @@ ordina:
 
 <sup>4</sup> L’uso di altri locali per la celebrazione dei matrimoni e la conversione delle unioni domestiche registrate in matrimoni nel quadro di una cerimonia è soggetto ad autorizzazione dell’autorità di vigilanza; sono fatti salvi i casi in conformità con l’articolo 70 capoverso 2.[^1a-3]
 
-[^1a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^1a-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^1a-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^1a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^1a-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^1a-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 2
 
@@ -79,11 +79,11 @@ Essi possono incaricare gli uffici dello stato civile speciali di documentare:
 
 <sup>4</sup> Più Cantoni possono costituire uffici dello stato civile speciali in comune. Concludono i necessari accordi d’intesa con l’UFSC[^2-5].
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^2-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^2-3]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^2-5]: Nuova espr. giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^2-5]: Nuova espr. giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -123,9 +123,9 @@ Per essere nominato o eletto ufficiale dello stato civile sono richiesti:
 
 <sup>6</sup> ... [^4-3]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^4-2]: Abrogata dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^4-3]: Abrogato dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^4-2]: Abrogata dalla cifra I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^4-3]: Abrogato dalla cifra I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 5
 
@@ -154,18 +154,18 @@ In materia di stato civile le rappresentanze svizzere all’estero svolgono in p
 
 <sup>4</sup> L’UFSC emana le necessarie istruzioni ed esercita la vigilanza.[^5-12]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^5-4]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^5-5]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^5-6]: Introdotta dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^5-7]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^5-4]: Introdotta dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^5-5]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^5-6]: Introdotta dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^5-7]: Introdotta dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^5-8]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^5-9]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-9]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^5-10]: [RS 195.11](https://fedlex.data.admin.ch/eli/cc/2015/654)
-[^5-11]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^5-12]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^5-11]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^5-12]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 6
 
@@ -173,7 +173,7 @@ In materia di stato civile le rappresentanze svizzere all’estero svolgono in p
 
 L’UFSC fissa i moduli da utilizzare in forma cartacea o elettronica nell’ambito dello stato civile per il rilascio di documenti dai registri dello stato civile e dal registro elettronico dello stato civile
 
-[^6-1]: Nuovo testo giusta l’all. n. II 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^6-1]: Nuovo testo giusta l’all. cifra II n. 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 6a
 
@@ -185,9 +185,9 @@ L’UFSC fissa i moduli da utilizzare in forma cartacea o elettronica nell’amb
 
 <sup>3</sup> I registri dello stato civile tenuti prima dei periodi menzionati nell’articolo 92*a* capoverso 1 sono considerati archivi.[^6a-3]
 
-[^6a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^6a-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^6a-3]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^6a-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^6a-3]: Introdotto dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 ## Capitolo 2: Oggetto della documentazione
 
@@ -220,11 +220,11 @@ Sono documentati:[^7-1]
 - q.[^7-4] registrazione dell’unione domestica;
 - r.[^7-5] scioglimento dell’unione domestica registrata.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^7-2]: Abrogata dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^7-3]: Introdotta dal n. I dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Abrogata dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^7-4]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^7-5]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^7-2]: Abrogata dalla cifra I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^7-3]: Introdotta dalla cifra I dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Abrogata dalla cifra I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^7-4]: Introdotta dalla cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-5]: Introdotta dalla cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 8
 
@@ -301,7 +301,7 @@ I seguenti dati sulla persona sono tenuti e documentati nel registro dello stato
   - 2\. data: valida a partire da/valida fino a,
   - 3\. motivo dello scioglimento.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 8a
 
@@ -335,7 +335,7 @@ Nel registro dello stato civile sono tenuti ulteriori informazioni e dati che no
 - j. se noti, i dati relativi alla filiazione genetica e biologica di un bambino concepito all’estero nell’ambito di una maternità surrogata o dono di ovuli o spermatozoi e non registrati nei dati di filiazione (art. 8 lett. g);
 - k. ulteriori osservazioni sulle particolarità di una determinata fattispecie.
 
-[^8a-1]: Introdotto dall’all. n. 2 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^8a-1]: Introdotto dall’all. n. 2 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^8a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^8a-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
@@ -349,8 +349,8 @@ Nel registro dello stato civile sono tenuti ulteriori informazioni e dati che no
 
 <sup>3</sup> Nel caso di infanti nati morti, cognome e nomi possono essere iscritti se le persone autorizzate a dare il nome (art. 37*c* cpv. 1) lo auspicano.[^9-2]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 9a
 
@@ -362,7 +362,7 @@ Nel registro dello stato civile sono tenuti ulteriori informazioni e dati che no
 
 <sup>3</sup> La venuta al mondo di un infante privo di vita non è documentata nel registro dello stato civile né comunicata all’Ufficio federale di statistica. Su domanda può essere documentata se avviene in concomitanza con una nascita ai sensi dell’articolo 9.
 
-[^9a-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 9b
 
@@ -381,7 +381,7 @@ Alla comunicazione devono essere allegati i seguenti documenti:
 
 <sup>4</sup> L’ufficio dello stato civile conserva la comunicazione e i documenti allegati. Gli articoli 31–33 si applicano per analogia.
 
-[^9b-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^9b-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^9b-2]: Disponibile gratuitamente sul sito www.ufsc.admin.ch
 
 #### Art. 9c
@@ -394,7 +394,7 @@ Alla comunicazione devono essere allegati i seguenti documenti:
 
 <sup>3</sup> Su richiesta dell’autore della comunicazione, l’infante venuto al mondo privo di vita può figurare nella conferma con cognome e nomi. Per la scelta del cognome, si applicano per analogia gli articoli 37 e 37*a*; per motivi degni di rispetto è possibile derogare ai suddetti articoli.
 
-[^9c-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^9c-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 10
 
@@ -420,10 +420,10 @@ Per trovatello si intende un infante esposto di filiazione ignota.
 
 <sup>7</sup> Il riconoscimento va comunicato alla madre e al figlio, rispettivamente, dopo la sua morte, ai discendenti, con la menzione delle disposizioni degli articoli 260*a*–260*c* CC.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^11-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^11-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^11-4]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^11-4]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 11a
 
@@ -431,7 +431,7 @@ Per trovatello si intende un infante esposto di filiazione ignota.
 
 Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figlio riconosciuto dal padre riceve, indipendentemente dall’attribuzione dell’autorità parentale, il cognome da celibe o nubile del genitore che portano gli altri figli in comune della coppia secondo l’articolo 270*a* CC.
 
-[^11a-1]: Introdotto dal n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^11a-1]: Introdotto dalla cifra I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 
 #### Art. 11b
 
@@ -441,7 +441,7 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>2</sup> Nel contempo i genitori stipulano una convenzione sull’assegnazione degli accrediti per compiti educativi secondo l’articolo 52*f*<sup>bis</sup> capoverso 3 dell’ordinanza del 31 ottobre 1947[^11b-3] sull’assicurazione per la vecchiaia e per i superstiti oppure consegnano tale convenzione alla competente autorità di protezione dei minori entro tre mesi.[^11b-4]
 
-[^11b-1]: Introdotto dal n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^11b-1]: Introdotto dalla cifra I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 [^11b-2]: La correzione del 1° lug. 2014 concerne soltanto il testo francese ([RU 2014 2049](https://fedlex.data.admin.ch/eli/oc/2014/353)).
 [^11b-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 [^11b-4]: Entrata in vigore il 1° gen. 2015.
@@ -456,16 +456,16 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>3</sup> Le firme sono autenticate.[^12-4]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^12-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12-4]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 12a
 
 [^12a-1]
 
-[^12a-1]: Introdotto dal n. I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abrogato dalla cifra I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 13
 
@@ -475,7 +475,7 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>2</sup> La firma è autenticata.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 
 #### Art. 13a
 
@@ -485,7 +485,7 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>2</sup> La firma è autenticata.
 
-[^13a-1]: Introdotto dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 
 #### Art. 14
 
@@ -501,11 +501,11 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>5</sup> Nel caso in cui un cittadino svizzero formuli una dichiarazione concernente il cambiamento del sesso iscritto nel registro dello stato civile secondo l’articolo 14*b*, questa vale quale dichiarazione di assoggettamento del sesso al diritto svizzero.[^14-5]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^14-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^14-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^14-4]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^14-5]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^14-4]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14-5]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 14a
 
@@ -515,7 +515,7 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>2</sup> La firma è autenticata.
 
-[^14a-1]: Introdotto dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 
 #### Art. 14b
 
@@ -527,7 +527,7 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>3</sup> Se il dichiarante o il rappresentante legale dimostra che non è manifestamente esigibile che egli si rechi all’ufficio dello stato civile, la dichiarazione o il consenso possono essere ricevuti in un altro luogo, segnatamente in un ospedale, una casa di riposo o un penitenziario.[^14b-2]
 
-[^14b-1]: Introdotto dal n. I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14b-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^14b-2]: Correzione del 18 nov. 2024 ([RU 2024 651](https://fedlex.data.admin.ch/eli/oc/2024/651)).
 
 ## Capitolo 3: Procedura di documentazione
@@ -548,8 +548,8 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>5</sup> In occasione di una documentazione sono aggiornati i dati di tutti gli interessati.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^15-2]: Per. introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^15-2]: Per. introdotto dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 15a
 
@@ -577,11 +577,11 @@ Uno straniero i cui dati non sono disponibili è rilevato nel registro dello sta
 
 <sup>6</sup> Il set di dati può essere completato presentando successivamente i documenti mancanti.
 
-[^15a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^15a-2]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^15a-3]: Introdotto dal n. I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abrogato dal n. I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^15a-4]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^15a-5]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^15a-2]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^15a-3]: Introdotto dalla cifra I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abrogato dalla cifra I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^15a-4]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^15a-5]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 15b
 
@@ -605,16 +605,16 @@ Possono essere rilevate nel registro dello stato civile con una o più identità
 
 <sup>5</sup> La registrazione, le comunicazioni, le comunicazioni ufficiali e la divulgazione dei dati sono eseguiti nel singolo caso secondo le istruzioni del SIS.[^15b-10]
 
-[^15b-1]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^15b-1]: Introdotto dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^15b-2]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
 [^15b-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^15b-4]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^15b-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^15b-6]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^15b-7]: [RS 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)
-[^15b-8]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^15b-9]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^15b-10]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^15b-8]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^15b-9]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^15b-10]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 16
 
@@ -642,13 +642,13 @@ L’autorità dello stato civile esamina se:
 
 <sup>8</sup> L’autorità dello stato civile che ha motivo di ritenere nullo un matrimonio o un’unione domestica registrata ne informa l’autorità competente per promuovere l’azione di nullità (art. 106 cpv. 1 secondo periodo CC e art. 9 cpv. 2 secondo periodo LUD) e avverte l’autorità di vigilanza. [^16-7]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-2]: Espr. stralciata giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^16-3]: Abrogato dal n. I dell’O del 28 giu. 2006, con effetto dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-4]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-5]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^16-6]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^16-7]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^16-2]: Espr. stralciata giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^16-3]: Abrogato dalla cifra I dell’O del 28 giu. 2006, con effetto dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^16-4]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^16-5]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^16-6]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^16-7]: Introdotto dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 16a
 
@@ -667,7 +667,7 @@ Agli interessati può essere chiesta una conferma scritta della correttezza dei 
 
 <sup>4</sup> La conferma della correttezza dei dati è archiviata assieme ai documenti giustificativi del processo di documentazione.
 
-[^16a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^16a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^16a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 17
@@ -685,7 +685,7 @@ L’autorità di vigilanza può autorizzare nel caso singolo la prova di dati su
 
 <sup>3</sup> L’autorità di vigilanza che non si considera competente emana una decisione formale e invita la persona interessata ad adire i tribunali competenti per accertare lo stato civile.[^17-1]
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 18
 
@@ -716,16 +716,16 @@ La firma autografa va apposta in presenza della persona competente per la ricezi
 
 <sup>2</sup> Se una persona disposta ad apporre la propria firma non è in grado di firmare, il funzionario competente secondo l’articolo 4 o 5 annota tale circostanza per scritto e ne indica il motivo.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^18-2]: Introdotta dal n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^18-4]: Abrogata dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^18-5]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^18-6]: Introdotta dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^18-7]: Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-8]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^18-9]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^18-10]: Abrogata dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^18-2]: Introdotta dalla cifra I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-4]: Abrogata dalla cifra I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-5]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-6]: Introdotta dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-7]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^18-8]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-9]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-10]: Abrogata dalla cifra I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 18a
 
@@ -737,7 +737,7 @@ La firma autografa va apposta in presenza della persona competente per la ricezi
 
 <sup>3</sup> Il funzionario che dubita dell’autenticità di una firma o non è certo che il documento sia stato allestito dall’autorità competente può chiederne l’autenticazione da parte del servizio competente in Svizzera o all’estero.
 
-[^18a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^18a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 19
 
@@ -745,7 +745,7 @@ La firma autografa va apposta in presenza della persona competente per la ricezi
 
 I dati dello stato civile comprovati vanno documentati senza indugio.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 19a
 
@@ -757,7 +757,7 @@ I dati dello stato civile comprovati vanno documentati senza indugio.
 
 <sup>3</sup> Se ha accettato documenti contenenti errori, l’interessato deve essere sentito prima di rettificarli.
 
-[^19a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 ### Sezione 2: Competenza
 
@@ -773,7 +773,7 @@ I dati dello stato civile comprovati vanno documentati senza indugio.
 
 <sup>4</sup> Qualora in un secondo tempo vengano accertati la filiazione, il luogo o l’ora di nascita, la documentazione effettuata in virtù del capoverso 3 è radiata su decisione dell’autorità di vigilanza e la nascita è nuovamente documentata.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 20a
 
@@ -791,7 +791,7 @@ I dati dello stato civile comprovati vanno documentati senza indugio.
 
 <sup>6</sup> Qualora sia successivamente accertata l’identità della persona deceduta, l’ufficio dello stato civile competente, su decisione dell’autorità di vigilanza, la indica a complemento della documentazione effettuata in virtù del capoverso 5 e documenta nuovamente la morte.
 
-[^20a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 20b
 
@@ -803,7 +803,7 @@ I dati dello stato civile comprovati vanno documentati senza indugio.
 
 <sup>3</sup> Se non possono essere presentati documenti di stato civile, le nascite e le morti avvenute all’estero sono documentate sulla base di una decisione giudiziaria dall’ufficio dello stato civile della sede dell’autorità giudiziaria competente secondo il diritto cantonale (art. 40 cpv. 1 lett. a).
 
-[^20b-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^20b-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^20b-2]: [RS 748.225.1](https://fedlex.data.admin.ch/eli/cc/1960/81_85_86)
 [^20b-3]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
 
@@ -819,10 +819,10 @@ I dati dello stato civile comprovati vanno documentati senza indugio.
 
 <sup>4</sup> La ricezione della dichiarazione a comprova di dati non controversi prevista nell’articolo 17 è di competenza dell’ufficio dello stato civile che ha rilevato lo straniero nel registro dello stato civile.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^21-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^21-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^21-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^21-4]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 22
 
@@ -856,11 +856,11 @@ Le decisioni e i documenti esteri concernenti lo stato civile di stranieri sono 
 
 <sup>5</sup> La denuncia dei reati constatati e le misure di protezione sono rette dall’articolo 16 capoverso 7. L’obbligo d’informare l’autorità competente per promuovere l’azione di nullità dei matrimoni o delle unioni domestiche registrate viziati da una causa di nullità è retto dall’articolo 16 capoverso 8.[^23-5]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^23-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^23-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^23-4]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^23-5]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^23-4]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^23-5]: Introdotto dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 23a
 
@@ -872,7 +872,7 @@ Su richiesta, qualsiasi ufficio dello stato civile è competente per:
 - b. la modifica dell’iscrizione;
 - c. la cancellazione dell’iscrizione.
 
-[^23a-1]: Introdotto dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 
 ### Sezione 3: Registrazione dei dati
 
@@ -893,8 +893,8 @@ Come cognome da celibe o nubile di una persona è registrato il cognome che ques
 
 <sup>4</sup> Non è possibile omettere nomi, tradurli o modificarne l’ordine.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^24-2]: Nuovo testo giusta n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 
 #### Art. 25
 
@@ -917,23 +917,23 @@ Titoli e gradi non sono registrati.
 
 <sup>3</sup> Se il luogo dell’evento si trova in una regione la cui appartenenza a uno Stato è controversa, il nome dello Stato è documentato conformemente alla lista dei Codici degli Stati e dei territori gestita dall’Ufficio federale della statistica e utilizzata nelle statistiche della Confederazione[^26-4].[^26-5]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^26-2]: La lista della denominazione degli Stati è consultabile sul sito [www.bk.admin.ch](https://www.bk.admin.ch/bk/it/home.html) &gt; Sostegno al Governo &gt; Lingue &gt; Terminologia &gt; Elenco degli Stati.
-[^26-3]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^26-3]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^26-4]: La lista Codici degli Stati e dei territori utilizzata nelle statistiche della Confederazione è consultabile sul sito [www.bfs.admin.ch](https://www.bfs.admin.ch/bfs/it/home.html) &gt; Basi statistiche e rilevazioni &gt; Stati e territori.
-[^26-5]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^26-5]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 27
 
 [^27-1]
 
-[^27-1]: Abrogato dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^27-1]: Abrogato dalla cifra I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 ### Sezione 4: Documentazione
 
 [^chap3-sec4-1]
 
-[^chap3-sec4-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^chap3-sec4-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 28
 
@@ -960,10 +960,10 @@ Se concerne più autorità di vigilanza, la modifica spetta all’autorità di v
 
 <sup>4</sup> …[^29-4]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^29-3]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^29-4]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^29-4]: Abrogato dalla cifra I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 29a
 
@@ -971,7 +971,7 @@ Se concerne più autorità di vigilanza, la modifica spetta all’autorità di v
 
 Se un Cantone, a causa di una temporanea carenza, non dispone di personale idoneo per modificare i dati dello stato civile, le modifiche possono essere eseguite, per un periodo di tempo limitato e d’intesa con l’UFSC, da un’autorità dello stato civile di un altro Cantone.
 
-[^29a-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^29a-1]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 30
 
@@ -981,7 +981,7 @@ Se un Cantone, a causa di una temporanea carenza, non dispone di personale idone
 
 <sup>2</sup> Se concerne più Cantoni, la competenza è retta per analogia dall’articolo 29.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 ### Sezione 6: Documenti giustificativi
 
@@ -997,7 +997,7 @@ Se un Cantone, a causa di una temporanea carenza, non dispone di personale idone
 
 <sup>4</sup> I documenti giustificativi relativi alla documentazione di dati dello stato civile, inoltrati alla Segreteria di Stato della migrazione (SEM) secondo l’articolo 2*b* dell’ordinanza 1 dell’11 agosto 1999[^31-2] sull’asilo, sono conservati da quest’ultima. La SEM li tiene a disposizione delle autorità dello stato civile.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^31-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 32
@@ -1010,8 +1010,8 @@ Se un Cantone, a causa di una temporanea carenza, non dispone di personale idone
 
 <sup>3</sup> Agli atti di stato civile stranieri nonché alle decisioni giudiziarie e amministrative straniere che non possono essere restituiti si applica il capoverso 1.[^32-2]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^32-2]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^32-2]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 33
 
@@ -1037,9 +1037,9 @@ La nascita è notificata:
 - c. dall’autorità competente conformemente al diritto cantonale se si tratta di un trovatello (art. 38);
 - d. da qualsiasi autorità ne venga a conoscenza se non è stata notificata.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^34-3]: Introdotta dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^34-3]: Introdotta dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 34a
 
@@ -1057,8 +1057,8 @@ La morte è notificata:
 
 <sup>3</sup> La persona che ha assistito alla morte o ha rinvenuto il cadavere di uno sconosciuto è tenuta a informare senza indugio l’autorità di polizia. Quest’ultima notifica la morte all’ufficio dello stato civile.[^34a-2]
 
-[^34a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^34a-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^34a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^34a-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 
 #### Art. 35
 
@@ -1082,15 +1082,15 @@ La morte è notificata:
 
 <sup>8</sup> La trasmissione di notificazioni e certificati medici in forma elettronica è retta dall’articolo 89 capoverso 4.[^35-9]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^35-3]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^35-4]: Nuovo testo giusta del per. giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^35-5]: Introdotto dal n. I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^35-3]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^35-4]: Nuovo testo giusta del per. giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-5]: Introdotto dalla cifra I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^35-6]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
-[^35-7]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^35-8]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^35-9]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-7]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^35-8]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-9]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 35a
 
@@ -1102,7 +1102,7 @@ La morte è notificata:
 
 <sup>3</sup> Il sesso notificato a posteriori va documentato per ordine dell’autorità cantonale di vigilanza sullo stato civile. Essa ordina, se del caso, la rettifica dell’iscrizione dei nomi del bambino.
 
-[^35a-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^35a-1]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 36
 
@@ -1128,8 +1128,8 @@ La morte è notificata:
 
 <sup>5</sup> Le firme sono autenticate se la dichiarazione di cui al capoverso 3 non è fatta al momento della notificazione della nascita.
 
-[^37-1]: Introdotto dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^37-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 
 #### Art. 37a
 
@@ -1147,7 +1147,7 @@ La morte è notificata:
 
 <sup>6</sup> Le firme sono autenticate se la dichiarazione non è fatta al momento della notificazione della nascita.
 
-[^37a-1]: Introdotto dal n. I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^37a-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 
 #### Art. 37b
 
@@ -1157,7 +1157,7 @@ La morte è notificata:
 
 <sup>2</sup> Il figlio deve dare il suo consenso personalmente. In Svizzera può darlo a qualsiasi ufficiale dello stato civile. All’estero può darlo alla rappresentanza svizzera.
 
-[^37b-1]: Introdotto dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^37b-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 
 #### Art. 37c
 
@@ -1213,11 +1213,11 @@ L’autorità giudiziaria comunica:
 
 <sup>2</sup> L’obbligo ufficiale di comunicazione include anche il riconoscimento di un figlio effettuato dinanzi al tribunale (art. 260 cpv. 3 CC).
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^40-3]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^40-4]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^40-5]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^40-3]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^40-4]: Introdotta dalla cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^40-5]: Introdotta dalla cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 41
 
@@ -1231,10 +1231,10 @@ Le autorità amministrative comunicano le decisioni seguenti:[^41-1]
 - d. [^41-3] il cambiamento del cognome con cambiamento del diritto di cittadinanza e di attinenza (art. 271 cpv. 2 CC);
 - e.[^41-4] l’accertamento della cittadinanza (art. 43 cpv. 1 della L del 20 giu. 2014[^41-5] sulla cittadinanza).
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^41-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^41-3]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^41-4]: Introdotta dal n. I dell’O del 4 giu. 2010 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Nuovo testo giusta l’all. n. II 4 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^41-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^41-3]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^41-4]: Introdotta dalla cifra I dell’O del 4 giu. 2010 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Nuovo testo giusta l’all. cifra II n. 4 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^41-5]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 
 #### Art. 42
@@ -1252,8 +1252,8 @@ I tribunali e le autorità amministrative competenti conformemente al diritto ca
 
 <sup>2</sup> La comunicazione di cui al capoverso 1 lettera b è fatta dall’autorità competente per la pubblicazione (art. 557 cpv. 1 CC) in forma di estratto del testamento.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^42-2]: Introdotta dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^42-2]: Introdotta dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 43
 
@@ -1278,11 +1278,11 @@ Le autorità giudiziarie comunicano inoltre le sentenze e i riconoscimenti alle 
 
 <sup>7</sup> Alle comunicazioni in forma elettronica si applica l’articolo 89 capoverso 4.[^43-5]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^43-3]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^43-4]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^43-5]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^43-3]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^43-4]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^43-5]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 ## Capitolo 6: Divulgazione dei dati
 
@@ -1315,10 +1315,10 @@ L’allestimento su richiesta degli atti dello stato civile è disciplinato come
 
 <sup>4</sup> Se più uffici dello stato civile sono competenti e se dal trattamento della domanda da parte di più uffici risulterebbe un onere relativamente importante, l’UFSC può stabilire quale ufficio è competente per la divulgazione dei dati o divulgare i dati esso stesso.[^44a-4]
 
-[^44a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^44a-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^44a-3]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^44a-4]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^44a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^44a-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^44a-3]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^44a-4]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 45
 
@@ -1328,8 +1328,8 @@ L’allestimento su richiesta degli atti dello stato civile è disciplinato come
 
 <sup>2</sup> I dati dello stato civile non aggiornati (art. 16 cpv. 1 lett. c) o non ancora documentati in modo giuridicamente soddisfacente (art. 28), da modificare (art. 29 e 30) o bloccati (art. 46) possono essere divulgati soltanto previa autorizzazione dell’autorità di vigilanza.[^45-2]
 
-[^45-1]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^45-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^45-1]: Abrogato dalla cifra I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^45-2]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 46
 
@@ -1350,10 +1350,10 @@ L’autorità di vigilanza dispone il blocco della divulgazione di dati dello st
 
 <sup>3</sup> È fatto salvo il diritto del figlio adottivo all’informazione circa l’identità dei genitori del sangue (art. 268*c* CC).
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^46-2]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^46-3]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^46-4]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^46-2]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^46-3]: Introdotta dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^46-4]: Introdotto dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 46a
 
@@ -1363,7 +1363,7 @@ L’autorità di vigilanza dispone il blocco della divulgazione di dati dello st
 
 <sup>2</sup> Essa revoca il blocco non appena può escludere l’eventualità di un uso abusivo dei dati.
 
-[^46a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^46a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 47
 
@@ -1382,9 +1382,10 @@ Se non è previsto alcun modulo o non è opportuno usarlo, la divulgazione è ef
 - e. oralmente agli uffici dello stato civile e alle autorità di vigilanza, se il richiedente può essere identificato con certezza.
 - f. mediante una copia non autenticata dei registri dello stato civile considerati archivi secondo l’articolo 6*a* capoverso 3.
 
-<sup>3</sup> L’accesso mediante procedura di richiamo ai dati del registro dello stato civile da parte delle autorità esterne allo stato civile è retto dall’articolo 43a capoverso 4 CC.
+<sup>3</sup> L’accesso mediante procedura di richiamo ai dati del registro dello stato civile da parte delle autorità esterne allo stato civile è retto dall’articolo 43*a* capoversi 4 e 5 CC.[^47-2]
 
-[^47-1]: Nuovo testo giusta l’all. n. II 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^47-1]: Nuovo testo giusta l’all. cifra II n. 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^47-2]: Nuovo testo giusta l’all. n. 1 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 47a
 
@@ -1396,7 +1397,7 @@ Se non è previsto alcun modulo o non è opportuno usarlo, la divulgazione è ef
 
 <sup>3</sup> All’autenticazione ai sensi dell’articolo 18*a* capoverso 2 dei documenti di partenza si applica l’ordinanza del 8 dicembre 2017[^47a-2] sulla realizzazione di atti pubblici e autenticazioni in forma elettronica (OAPuE), in particolare l’articolo 17 OAPuE.
 
-[^47a-1]: Introdotto dall’all. n. II 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^47a-1]: Introdotto dall’all. cifra II n. 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^47a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 #### Art. 47b
@@ -1413,9 +1414,9 @@ Se non è previsto alcun modulo o non è opportuno usarlo, la divulgazione è ef
 
 <sup>5</sup> Alla trasmissione di documenti di stato civile si applica l’articolo 89 capoverso 4.[^47b-3]
 
-[^47b-1]: Introdotto dall’all. n. II 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^47b-1]: Introdotto dall’all. cifra II n. 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^47b-2]: [RS 943.033](https://fedlex.data.admin.ch/eli/cc/2011/680)
-[^47b-3]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^47b-3]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 48
 
@@ -1435,7 +1436,7 @@ I documenti giusta l’articolo 47 hanno la stessa forza probatoria dei supporti
 
 La divulgazione d’ufficio è effettuata senza indugio.
 
-[^48a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^48a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 49
 
@@ -1454,11 +1455,11 @@ Per permettere la tenuta del registro del controllo degli abitanti, l’ufficio 
 
 <sup>3</sup> L’invio dei dati avviene automaticamente in forma elettronica.[^49-6]
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^49-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^49-3]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^49-4]: Abrogata dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^49-5]: Nuova espressione giusta l’all. n. II 8 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il testo.
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^49-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^49-3]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^49-4]: Abrogata dalla cifra I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^49-5]: Nuova espressione giusta l’all. cifra II n. 8 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il testo.
 [^49-6]: Vedi anche l’art. 99*b*.
 
 #### Art. 49a
@@ -1475,7 +1476,7 @@ Se l’interessato è titolare di un diritto di patriziato o di corporazione nel
 - b. ogni modifica del cognome, dello stato civile o della cittadinanza;
 - c. ogni modifica dei dati dello stato civile.
 
-[^49a-1]: Introdotto dal n. I dell’O del 9 dic. 2005 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)). Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^49a-1]: Introdotto dalla cifra I dell’O del 9 dic. 2005 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)). Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 50
 
@@ -1499,15 +1500,15 @@ L’ufficio dello stato civile competente per la documentazione comunica all’a
 
 <sup>3</sup> L’autorità di vigilanza che riceve una domanda di riconoscimento di un matrimonio celebrato all’estero con un minorenne lo comunica all’autorità di protezione dei minori del luogo di domicilio di quest’ultimo.[^50-9]
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^50-2]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^50-3]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^50-4]: Introdotta dal n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)). Seconda parte del per. in vigore dal 1° gen. 2015 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^50-5]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^50-6]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^50-7]: Introdotta dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^50-8]: Abrogato dal n. I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^50-9]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^50-2]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^50-3]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-4]: Introdotta dalla cifra I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)). Seconda parte del per. in vigore dal 1° gen. 2015 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^50-5]: Introdotta dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-6]: Introdotta dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-7]: Introdotta dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^50-8]: Abrogato dalla cifra I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^50-9]: Introdotto dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 51
 
@@ -1524,12 +1525,12 @@ L’ufficio dello stato civile competente per la documentazione comunica alla Se
 
 <sup>2</sup> L’ufficio dello stato civile competente per la preparazione del matrimonio procede inoltre alle comunicazioni previste agli articoli 67 capoverso 5 e 74*a* capoverso 6 lettere b e c nonché capoverso 7.[^51-6]
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^51-2]: La designatzione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1°gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
-[^51-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^51-4]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^51-5]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^51-6]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^51-3]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^51-4]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^51-5]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^51-6]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 52
 
@@ -1548,7 +1549,7 @@ L’ufficio dello stato civile competente per la documentazione comunica alla Se
 
 Il registro dello stato civile trasmette automaticamente una corrispondente informazione elettronica alla banca dati RIPOL di cui all’articolo 15 della legge federale del 13 giugno 2008[^52a-2] sui sistemi d’informazione di polizia della Confederazione in caso di modifica dei dati d’identità RIPOL, a cui l’Ufficio federale di polizia ha accesso secondo la tabella che figura nell’allegato.
 
-[^52a-1]: Introdotto dal n. I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)[5111](https://fedlex.data.admin.ch/eli/oc/2016/811)). Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^52a-1]: Introdotto dalla cifra I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)[5111](https://fedlex.data.admin.ch/eli/oc/2016/811)). Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^52a-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 
 #### Art. 53
@@ -1565,7 +1566,7 @@ L’ufficio dello stato civile competente per la documentazione comunica all’U
 
 <sup>2</sup> I dati sono trasmessi automaticamente in forma elettronica.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 54
 
@@ -1577,7 +1578,7 @@ L’ufficio dello stato civile competente per la documentazione comunica all’U
 
 <sup>3</sup> Le comunicazioni di cui al capoverso 1 sono trasmesse dall’ufficio dello stato civile direttamente al SIS all’attenzione della rappresentanza estera, sempre che la convenzione internazionale non preveda un disciplinamento divergente.[^54-1]
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 55
 
@@ -1607,14 +1608,14 @@ L’avviso avviene senza indugio e contiene, nella misura in cui siano disponibi
 
 <sup>3</sup> I principi concernenti il segreto d’ufficio (art. 44) si applicano anche all’autorità che riceve le comunicazioni o le notificazioni.[^56-2]
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
-[^56-2]: Introdotto dal n. I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
+[^56-2]: Introdotto dalla cifra I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
 
 #### Art. 57
 
 [^57-1]
 
-[^57-1]: Abrogato dal n. I dell’O del 26 ott. 2016, con effetto dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^57-1]: Abrogato dalla cifra I dell’O del 26 ott. 2016, con effetto dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 ### Sezione 3: Divulgazione su richiesta
 
@@ -1626,7 +1627,7 @@ L’avviso avviene senza indugio e contiene, nella misura in cui siano disponibi
 
 <sup>2</sup> Le richieste della Croce Rossa Svizzera nell’ambito dell’adempimento dei suoi compiti, segnatamente per quanto riguarda la ricerca di origini e di persone scomparse, sono equiparate alle richieste di tribunali e autorità amministrative svizzere.[^58-1]
 
-[^58-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^58-1]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 59
 
@@ -1650,7 +1651,7 @@ I dati sono divulgati tenendo conto del diritto della protezione dei dati che im
 
 <sup>3</sup> Se i dati sono divulgati per svolgere ricerche su determinate persone, i risultati possono essere pubblicati soltanto con il consenso scritto di queste ultime. Spetta al ricercatore ottenere il consenso.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 61
 
@@ -1694,8 +1695,8 @@ L’esecuzione della procedura preparatoria spetta:
 
 <sup>3</sup> Quando uno dei fidanzati è in pericolo di morte, l’ufficiale dello stato civile del luogo di soggiorno di tale fidanzato può, dietro presentazione di un attestato medico, espletare la procedura preparatoria e celebrare il matrimonio.[^62-2]
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^62-2]: Introdotto dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^62-2]: Introdotto dalla cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 63
 
@@ -1705,7 +1706,7 @@ L’esecuzione della procedura preparatoria spetta:
 
 <sup>2</sup> I fidanzati dimoranti all’estero possono inoltrare la domanda per il tramite della rappresentanza svizzera competente.[^63-1]
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 64
 
@@ -1721,8 +1722,8 @@ Alla domanda d’esecuzione della procedura preparatoria i fidanzati allegano i 
 
 <sup>2</sup> I fidanzati che non hanno la cittadinanza svizzera allegano inoltre un documento che provi la legalità del loro soggiorno in Svizzera fino al giorno in cui è prevista la celebrazione del matrimonio.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^64-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^64-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 65
 
@@ -1753,16 +1754,16 @@ L’ufficiale dello stato civile rende attenti i fidanzati del loro obbligo di d
 
 <sup>3</sup> In casi motivati la dichiarazione conformemente al capoverso 1 può essere raccolta al di fuori dei locali ufficiali.[^65-10]
 
-[^65-1]: Abrogata dal n. I dell’O del 7 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^65-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
-[^65-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^65-4]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^65-1]: Abrogata dalla cifra I dell’O del 7 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^65-2]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
+[^65-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^65-4]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^65-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^65-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^65-7]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il testo.
-[^65-8]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^65-9]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^65-10]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^65-8]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^65-9]: Introdotto dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^65-10]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 66
 
@@ -1783,10 +1784,10 @@ Inoltre, esso esamina se:
 
 <sup>3</sup> L’ufficio dello stato civile può verificare la legalità del soggiorno nel Sistema d’informazione centrale sulla migrazione. In caso di dubbi, può incaricare di tale verifica l’autorità cantonale competente in materia di migrazione del luogo di domicilio o di soggiorno di uno dei fidanzati. Questa autorità deve informare l’ufficio senza indugio e gratuitamente.[^66-4]
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^66-2]: Introdotta dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^66-3]: Introdotta dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^66-4]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^66-2]: Introdotta dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^66-3]: Introdotta dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^66-4]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 67
 
@@ -1804,10 +1805,10 @@ Inoltre, esso esamina se:
 
 <sup>6</sup> La denuncia dei reati constatati e le misure di protezione sono rette dall’articolo 16 capoverso 7.[^67-4]
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^67-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^67-3]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^67-4]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^67-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^67-3]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^67-4]: Introdotto dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 68
 
@@ -1815,7 +1816,7 @@ Inoltre, esso esamina se:
 
 Il matrimonio può essere celebrato entro tre mesi dalla comunicazione della decisione relativa al risultato positivo della procedura preparatoria.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3815](https://fedlex.data.admin.ch/eli/oc/2019/696)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3815](https://fedlex.data.admin.ch/eli/oc/2019/696)).
 
 #### Art. 69
 
@@ -1825,7 +1826,7 @@ Il matrimonio può essere celebrato entro tre mesi dalla comunicazione della dec
 
 <sup>2</sup> I fidanzati che risiedono all’estero possono rilasciare la dichiarazione di cui all’articolo 65 capoverso 1 presso una rappresentanza svizzera all’estero. In casi eccezionali motivati, con l’autorizzazione dell’ufficio dello stato civile, la dichiarazione può essere raccolta anche da un pubblico ufficiale straniero che autentica la firma.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 ### Sezione 2: Celebrazione del matrimonio
 
@@ -1839,7 +1840,7 @@ Il matrimonio può essere celebrato entro tre mesi dalla comunicazione della dec
 
 <sup>3</sup> Se la procedura preparatoria è stata espletata in un altro circondario dello stato civile, i fidanzati producono l’autorizzazione per la celebrazione del matrimonio.[^70-1]
 
-[^70-1]: Introdotto dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^70-1]: Introdotto dalla cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 71
 
@@ -1861,8 +1862,8 @@ Il matrimonio può essere celebrato entro tre mesi dalla comunicazione della dec
 
 <sup>5</sup> Se sussistono circostanze secondo cui la domanda di matrimonio manifestamente non corrisponde alla libera volontà dei fidanzati, l’ufficiale dello stato civile rifiuta di celebrare il matrimonio e annulla l’autorizzazione della celebrazione mediante una decisione scritta notificata ai fidanzati e all’ufficiale dello stato civile che ha svolto la procedura preparatoria. Denuncia i fatti alle autorità di perseguimento penale (art. 16 cpv. 7).[^71-2]
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^71-2]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^71-2]: Introdotto dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 72
 
@@ -1892,14 +1893,14 @@ La domanda deve essere presentata all’ufficio dello stato civile che celebra i
 <sup>3</sup> Simultaneamente con la decisione sulla domanda di autorizzazione l’autorità di vigilanza decide sull’esecuzione nella forma scritta della procedura preparatoria del matrimonio (art. 69).[^73-3]
 
 [^73-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^73-2]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^73-3]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^73-2]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^73-3]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 74
 
 [^74-1]
 
-[^74-1]: Abrogato dal n. I dell’O del 27 mar. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^74-1]: Abrogato dalla cifra I dell’O del 27 mar. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 74a
 
@@ -1927,11 +1928,11 @@ L’ufficiale dello stato civile comunica per scritto il rifiuto di eseguire la 
 
 <sup>8</sup> La denuncia dei reati constatati e le misure di protezione sono rette dall’articolo 16 capoverso 7.[^74a-5]
 
-[^74a-1]: Introdotto dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
-[^74a-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^74a-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
+[^74a-2]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^74a-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^74a-4]: Introdotto dal n. I dell’O del 4 giu. 2010 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^74a-5]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^74a-4]: Introdotto dalla cifra I dell’O del 4 giu. 2010 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^74a-5]: Introdotto dalla cifra I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 ### Sezione 4: Certificato di capacità al matrimonio
 
@@ -1941,13 +1942,13 @@ L’ufficiale dello stato civile comunica per scritto il rifiuto di eseguire la 
 
 <sup>2</sup> La competenza e la procedura sono rette per analogia dalle disposizioni sulla procedura preparatoria del matrimonio in Svizzera (art. 62–67, 69 e 74*a*). Se non vi è domicilio in Svizzera, è competente l’ufficio dello stato civile del luogo di attinenza di uno dei fidanzati.[^75-1]
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 ## Capitolo 7*a*: Conversione dell’unione domestica registrata in matrimonio
 
 [^chap7a-1]
 
-[^chap7a-1]: Introdotto dal n. I dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^chap7a-1]: Introdotto dalla cifra I dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 75a a 75m
 
@@ -1983,7 +1984,7 @@ Se, su domanda congiunta dei partner registrati, la dichiarazione di conversione
 
 [^chap8-1]
 
-[^chap8-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^chap8-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 76
 
@@ -1995,7 +1996,7 @@ Se, su domanda congiunta dei partner registrati, la dichiarazione di conversione
 
 <sup>3</sup> I servizi che usano il sistema sono responsabili nel loro campo della protezione e della sicurezza dei dati.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 77
 
@@ -2007,7 +2008,7 @@ Se, su domanda congiunta dei partner registrati, la dichiarazione di conversione
 
 <sup>3</sup> I Cantoni forniscono le loro prestazioni di cui agli articoli 78–78*b* senza essere indennizzati dalla Confederazione.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 78
 
@@ -2017,7 +2018,7 @@ Se, su domanda congiunta dei partner registrati, la dichiarazione di conversione
 
 <sup>2</sup> Sono rappresentati in una commissione tecnica e mettono a disposizione specialisti.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 78a
 
@@ -2036,7 +2037,7 @@ La commissione tecnica ha in particolare i seguenti compiti:
 
 <sup>4</sup> L’UFG può disciplinare i dettagli dell’organizzazione della commissione tecnica in un regolamento.
 
-[^78a-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^78a-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 78b
 
@@ -2053,7 +2054,7 @@ Gli specialisti collaborano in particolare:
 - c. al collaudo del sistema;
 - d. alla documentazione del sistema.
 
-[^78b-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^78b-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 79
 
@@ -2067,9 +2068,9 @@ Gli specialisti collaborano in particolare:
 
 <sup>4</sup> Le domande di accesso ai dati mediante procedura di richiamo secondo l’articolo 43*a* capoverso 4 CC sono presentate all’UFG.[^79-3]
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^79-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^79-3]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^79-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^79-3]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 79a
 
@@ -2077,7 +2078,7 @@ Gli specialisti collaborano in particolare:
 
 L’UFG è responsabile della salvaguardia dei dati del sistema.
 
-[^79a-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^79a-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 80
 
@@ -2085,7 +2086,7 @@ L’UFG è responsabile della salvaguardia dei dati del sistema.
 
 I dati sono registrati con il set di caratteri ISO-Norm 8859-1 + Latin Extended-A[^80-2].
 
-[^80-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^80-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^80-2]: La norma può essere ottenuta a pagamento presso l’Associazione svizzera normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch. Può inoltre essere consultata gratuitamente sul sito Internet dell’Organizzazione nazionale per la normalizzazione, www.iso.org.
 
 ## Capitolo 9: Protezione e sicurezza dei dati
@@ -2099,7 +2100,7 @@ I dati sono registrati con il set di caratteri ISO-Norm 8859-1 + Latin Extended-
 <sup>2</sup> L’informazione è rilasciata conformemente all’articolo 47. Le spese sono rette dall’ordinanza del 27 ottobre 1999[^81-1] sugli emolumenti in materia di stato civile.[^81-2]
 
 [^81-1]: [RS 172.042.110](https://fedlex.data.admin.ch/eli/cc/1999/490)
-[^81-2]: Nuovo testo giusta l’all. n. II 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^81-2]: Nuovo testo giusta l’all. cifra II n. 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 82
 
@@ -2123,15 +2124,15 @@ I dati sono registrati con il set di caratteri ISO-Norm 8859-1 + Latin Extended-
 
 <sup>4</sup> L’IFPDT, nell’ambito della sua vigilanza, si coordina con l’UFSC e se necessario con le autorità cantonali della protezione dei dati.[^83-3]
 
-[^83-1]: Nuovo testo giusta il n. II 6 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
-[^83-2]: Introdotto dall’all. 2 n. II 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^83-3]: Introdotto dall’all. 2 n. II 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-1]: Nuovo testo giusta la cifra II n. 6 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^83-2]: Introdotto dall’all. 2 cifra II n. 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-3]: Introdotto dall’all. 2 cifra II n. 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 10: Vigilanza e competenze delle autorità federali
 
 [^chap10-1]
 
-[^chap10-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^chap10-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 84
 
@@ -2171,11 +2172,11 @@ Il SIS è responsabile degli aspetti tecnici della gestione, dello sviluppo e de
 - d. scambio e acquisizione di atti dello stato civile;
 - e. armonizzazione dei registri con il numero AVS.[^84-5]
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^84-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^84-3]: Nuova espr. giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Di detta mod. è tenuto conto in tutto il testo.
-[^84-4]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^84-5]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^84-2]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^84-3]: Nuova espr. giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Di detta mod. è tenuto conto in tutto il testo.
+[^84-4]: Introdotto dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^84-5]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 85
 
@@ -2196,9 +2197,9 @@ Le autorità di vigilanza fanno rapporto ogni anno all’UFSC su:[^85-1]
 
 <sup>3</sup> ...[^85-3]
 
-[^85-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^85-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^85-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^85-3]: Abrogato dal n. I dell’O del 26 ott. 2016, con effetto dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^85-3]: Abrogato dalla cifra I dell’O del 26 ott. 2016, con effetto dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 86
 
@@ -2210,7 +2211,7 @@ Le autorità di vigilanza fanno rapporto ogni anno all’UFSC su:[^85-1]
 
 <sup>3</sup> La procedura e i rimedi giuridici sono retti dagli articoli 89 e 90.
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 87
 
@@ -2226,7 +2227,7 @@ Le autorità di vigilanza fanno rapporto ogni anno all’UFSC su:[^85-1]
 
 Se per un gruppo di dati dello stato civile che sono oggetto di documentazioni è necessario eseguire uno stesso adeguamento di natura puramente tecnica, l’UFSC può incaricare il Servizio Infostar mediante decisione scritta di adeguare tali dati nel registro dello stato civile.
 
-[^88-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^88-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 ## Capitolo 11: Procedura e rimedi giuridici
 
@@ -2258,12 +2259,12 @@ Le procedure tra privati e autorità dello stato civile possono essere eseguite 
 
 <sup>5</sup> Le decisioni possono essere notificate per via elettronica alle parti che hanno acconsentito a questa modalità di trasmissione.[^89-6]
 
-[^89-1]: Nuovo testo giusta il n. II 17 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^89-2]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^89-3]: Nuovo testo giusta il n. I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
+[^89-1]: Nuovo testo giusta la cifra II n. 17 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^89-2]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^89-3]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
 [^89-4]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^89-5]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^89-6]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^89-5]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^89-6]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 90
 
@@ -2279,9 +2280,9 @@ Le procedure tra privati e autorità dello stato civile possono essere eseguite 
 
 <sup>5</sup> Le decisioni su ricorso cantonali devono essere notificate all’UFSC all’indirizzo dell’UFG. Su richiesta di queste autorità devono essere notificate anche decisioni di prima istanza.[^90-3]
 
-[^90-1]: Nuovo testo giusta il n. II 17 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^90-2]: Nuovo testo giusta il n. II 17 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^90-3]: Nuovo testo giusta il n. II 17 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^90-1]: Nuovo testo giusta la cifra II n. 17 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^90-2]: Nuovo testo giusta la cifra II n. 17 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^90-3]: Nuovo testo giusta la cifra II n. 17 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ## Capitolo 12: Disposizione penale
 
@@ -2301,7 +2302,7 @@ Le procedure tra privati e autorità dello stato civile possono essere eseguite 
 
 Dopo l’introduzione del sistema di documentazione Infostar, non devono più essere compiute documentazioni con altri mezzi informatici. L’UFSC disciplina la transizione.
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 92a
 
@@ -2322,11 +2323,11 @@ L’ufficio dello stato civile competente in virtù del diritto cantonale deve p
 
 <sup>3</sup> Se è possibile divulgare i dati accedendo a un supporto elettronico, le indicazioni secondo l’articolo 93 capoverso 1 e le modifiche secondo l’articolo 98 vanno aggiornate soltanto nella versione elettronica dei registri.
 
-[^92a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^92a-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^92a-3]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^92a-4]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^92a-5]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^92a-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^92a-2]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-3]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-4]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-5]: Introdotto dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 92b
 
@@ -2342,9 +2343,9 @@ L’ufficio dello stato civile competente in virtù del diritto cantonale deve p
 
 <sup>4</sup> Gli interessati possono consultare i propri dati personali nei registri cartacei e nei documenti giustificativi, se la divulgazione non è manifestamente esigibile in un’altra forma.
 
-[^92b-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^92b-2]: Nuovo testo giusta dell’all. n. II 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^92b-3]: Introdotto dal n. I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Nuovo testo giusta l’all. n. II 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^92b-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^92b-2]: Nuovo testo giusta dell’all. cifra II n. 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^92b-3]: Introdotto dalla cifra I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Nuovo testo giusta l’all. cifra II n. 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 92c
 
@@ -2358,9 +2359,9 @@ L’ufficio dello stato civile competente in virtù del diritto cantonale deve p
 
 <sup>3</sup> La salvaguardia dei documenti giustificativi relativi ai registri dello stato civile cartacei è retta dall’articolo 32 capoverso 2.
 
-[^92c-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^92c-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^92c-3]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^92c-1]: Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^92c-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^92c-3]: Introdotto dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 93
 
@@ -2370,13 +2371,13 @@ L’ufficio dello stato civile competente in virtù del diritto cantonale deve p
 
 <sup>2</sup> L’UFSC emana le istruzioni necessarie.
 
-[^93-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^93-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 94
 
 [^94-1]
 
-[^94-1]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^94-1]: Abrogato dalla cifra I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 95
 
@@ -2388,8 +2389,8 @@ L’ufficio dello stato civile competente in virtù del diritto cantonale deve p
 
 <sup>3</sup> In casi eccezionali motivati l’autorità di vigilanza può prorogare il termine di cui al capoverso 2 se è garantita un’esecuzione tecnicamente corretta dei compiti.
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^95-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^95-2]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 96
 
@@ -2406,16 +2407,16 @@ Il diritto cantonale può prevedere che determinati membri di un esecutivo comun
 
 <sup>2</sup> L’autorità di vigilanza fa rapporto all’UFSC in merito alle persone nominate nel quadro del suo pertinente obbligo (art. 85 cpv. 2).[^96-4]
 
-[^96-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^96-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^96-3]: Introdotto dal n. I dell’O del 31 ott. 2018 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^96-4]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^96-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^96-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-3]: Introdotto dalla cifra I dell’O del 31 ott. 2018 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Abrogato dalla cifra I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-4]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 97
 
 [^97-1]
 
-[^97-1]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^97-1]: Abrogato dalla cifra I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 
 #### Art. 98
 
@@ -2464,9 +2465,9 @@ Vanno radiate dal registro delle famiglie le iscrizioni concernenti:
 
 <sup>7</sup> I registri dello stato civile considerati archivi (art. 6*a* cpv. 3) non sono aggiornati.[^98-3]
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^98-2]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^98-3]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^98-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^98-2]: Introdotta dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^98-3]: Introdotto dalla cifra I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 99
 
@@ -2495,7 +2496,7 @@ I seguenti atti sono abrogati:
 
 <sup>3</sup> La procedura concernente l’attribuzione, la verifica e la divulgazione del numero AVS è retta dagli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^99a-2] sull’assicurazione per la vecchiaia e per i superstiti.
 
-[^99a-1]: Introdotto dall’all. n. 2 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^99a-1]: Introdotto dall’all. n. 2 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^99a-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 99b
@@ -2504,13 +2505,13 @@ I seguenti atti sono abrogati:
 
 Se l’amministrazione comunale del luogo di domicilio o di soggiorno della persona interessata non soddisfa le condizioni per l’invio dei dati secondo l’articolo 49 capoverso 3, i dati sono comunicati in forma cartacea fino al 31 dicembre 2014.
 
-[^99b-1]: Introdotto dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^99b-1]: Introdotto dalla cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 
 #### Art. 99c
 
 [^99c-1]
 
-[^99c-1]: Introdotto dall’all. n. II 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)). Abrogato dal n. I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^99c-1]: Introdotto dall’all. cifra II n. 2 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)). Abrogato dalla cifra I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 99d
 
@@ -2518,13 +2519,13 @@ Se l’amministrazione comunale del luogo di domicilio o di soggiorno della pers
 
 Entro cinque anni dall’entrata in vigore della modifica, la persona che ha messo al mondo un infante privo di vita o che si dichiara per scritto procreatore può comunicare all’ufficio dello stato civile la venuta al mondo di un infante privo di vita avvenuta prima dell’entrata in vigore della modifica e farsi rilasciare una conferma.
 
-[^99d-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)[5447](https://fedlex.data.admin.ch/eli/oc/2018/823)).
+[^99d-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)[5447](https://fedlex.data.admin.ch/eli/oc/2018/823)).
 
 #### Art. 99e
 
 [^99e-1]
 
-[^99e-1]: Introdotto dal n. I dell’O del 27 ott. 2021 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)). Abrogato dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^99e-1]: Introdotto dalla cifra I dell’O del 27 ott. 2021 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)). Abrogato dalla cifra I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 99f
 
@@ -2545,7 +2546,7 @@ La domanda può essere presentata:
 
 <sup>5</sup> Per la domanda va utilizzato il modulo messo a disposizione dall’UFSC.
 
-[^99f-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^99f-1]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 100
 
@@ -2565,7 +2566,7 @@ Allegato[^t-1]
 
 ## Diritti d’accesso
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Aggiornato dal n. II dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)) e dalla correzione del 10 set. 2013 ([RU 2013 3021](https://fedlex.data.admin.ch/eli/oc/2013/587)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Aggiornato dal cifra II dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)) e dalla correzione del 10 set. 2013 ([RU 2013 3021](https://fedlex.data.admin.ch/eli/oc/2013/587)).
 
 Abbreviazioni
 
