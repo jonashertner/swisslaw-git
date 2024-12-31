@@ -4,13 +4,13 @@ number: "150.100"
 title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
-version: 2024-01-01
-corrected: 2023-08-22
-version_adopted: 2021-02-16
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3333/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3375/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3333/pdf_file"
 
 (LDPC)
 
-dals 17-06-2005 (versiun dals 01-01-2024)
+dals 17-06-2005 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -234,10 +234,10 @@ concluda:
 
 **Elecziuns da renovaziun 1. invit**
 
-<sup>1</sup> Fin il pli tard il 14avel glindesdi avant il di d'elecziun sto vegnir publitgà l'invit d'inoltrar propostas electoralas:
+<sup>1</sup> L'invit d'inoltrar propostas electoralas sto vegnir publitgà:
 
 - a) per elecziuns chantunalas tras la chanzlia chantunala;
-- b) per elecziuns dal cussegl grond tras las cumissiuns regiunalas;
+- b) …
 - c) per elecziuns da las dretgiras regiunalas tras las cumissiuns administrativas da las dretgiras regiunalas;
 - d) per elecziuns communalas tras las chanzlias communalas.
 
@@ -247,7 +247,11 @@ concluda:
 - b) la data d'in segund scrutini;
 - c) il lieu ed il termin per inoltrar propostas electoralas per in segund scrutini.
 
-<sup>3</sup> Per elecziuns chantunalas e regiunalas vegn l'invit publitgà en il fegl uffizial dal chantun, per elecziuns communalas en la moda usitada al lieu.
+<sup>3</sup> L'invit vegn:
+
+- a) per elecziuns chantunalas fin il pli tard il 14avel glindesdi avant il di d'elecziun en il Fegl uffizial chantunal;
+- b) per elecziuns da las dretgiras regiunalas fin il pli tard il 20avel glindesdi avant il di d'elecziun en il Fegl uffizial chantunal;
+- c) per elecziuns communalas fin il pli tard il 14avel glindesdi avant il di d'elecziun en la moda usitada al lieu.
 
 #### Art. 19c
 
@@ -277,18 +281,18 @@ concluda:
 
 **c) inoltraziun**
 
-<sup>1</sup> Las propostas electoralas ston arrivar fin il pli tard il novavel glindesdi avant il di d'elecziun:
+<sup>1</sup> Las propostas electoralas ston:
 
-- a) per elecziuns chantunalas tar la chanzlia chantunala;
-- b) per elecziuns dal cussegl grond tar la cumissiun regiunala cumpetenta;
-- c) per elecziuns da las dretgiras regiunalas tar la cumissiun administrativa cumpetenta;
-- d) per elecziuns communalas tar la chanzlia communala.
+- a) per elecziuns chantunalas fin il pli tard il 9avel glindesdi avant il di d'elecziun tar la Chanzlia chantunala;
+- b) …
+- c) per elecziuns da las dretgiras regiunalas fin il pli tard il 14avel glindesdi avant il di d'elecziun tar la cumissiun administrativa cumpetenta;
+- d) per elecziuns communalas fin il pli tard il 9avel glindesdi avant il di d'elecziun tar la chanzlia communala cumpetenta.
 
 <sup>2</sup> Propostas electoralas che vegnan inoltradas suenter quest termin na vegnan betg en consideraziun.
 
 #### Art. 19f
 
-**d) rectificaziun**
+**d) rectificaziun e communicaziun**
 
 <sup>1</sup> L'instanza d'inoltraziun controllescha cuntinuadamain che las propostas electoralas inoltradas adempleschian las pretensiuns formalas, che las candidatas ed ils candidats sajan elegibels e che las suttascripziuns sajan valaivlas.
 
@@ -298,11 +302,13 @@ concluda:
 
 <sup>4</sup> Suenter la scadenza dal termin d'annunzia èsi exclus d'eliminar mancanzas.
 
+<sup>5</sup> La cumissiun administrativa da la dretgira regiunala cumpetenta communitgescha a la Dretgira superiura a temp las propostas electoralas inoltradas ed infurmescha la Dretgira superiura davart propostas electoralas betg admessas.
+
 #### Art. 19g
 
 **e) retratga**
 
-<sup>1</sup> Retratgas da propostas electoralas ston arrivar tar l'instanza d'inoltraziun fin il pli tard il novavel venderdi avant il di d'elecziun.
+<sup>1</sup> Retratgas da propostas electoralas ston arrivar tar l'instanza d'inoltraziun fin il pli tard il 9avel venderdi avant il di d'elecziun en cas d'elecziuns chantunalas e communalas e fin il pli tard il 14avel venderdi avant il di d'elecziun en cas d'elecziuns da las dretgiras regiunalas.
 
 <sup>2</sup> La persuna proponida sto dar ses consentiment en scrit a la retratga.
 
@@ -348,7 +354,7 @@ concluda:
 
 **Realisaziun**
 
-<sup>1</sup> In'elecziun taciturna ha lieu, sch'il dumber da persunas proponidas valaivlamain correspunda al dumber da sezs che stattan a disposiziun. Cas cuntrari ha lieu in scrutini public.
+<sup>1</sup> In'elecziun taciturna ha lieu, sch'il dumber da persunas proponidas valaivlamain correspunda al dumber da sezs che stattan a disposiziun, uschenavant che la Dretgira superiura n'è betg da l'avis ch'ina candidata u in candidat na saja betg adattà. Cas cuntrari ha lieu in scrutini public.
 
 <sup>2</sup> La cumissiun administrativa da la dretgira regiunala cumpetenta decida immediatamain, sche l'elecziun taciturna ha lieu, e publitgescha questa decisiun en il fegl uffizial dal chantun sco er en la moda usitada al lieu.
 
@@ -699,39 +705,60 @@ concluda:
 
 #### Art. 49
 
-**Procedura 1. introducziun, instrucziun**
+**Procedura 1. conclus d'introducziun**
 
-<sup>1</sup> Il cussegl grond iniziescha d'uffizi u sin denunzia ina procedura da destituziun da l'uffizi, sch'el survegn enconuschientscha d'in motiv da destituziun da l'uffizi.
+<sup>1</sup> Il Cussegl grond iniziescha d'uffizi u sin denunzia ina procedura da destituziun da l'uffizi, sch'igl exista in suspect inizial motivà ch'i saja avant maun in motiv per ina destituziun da l'uffizi.
 
-<sup>2</sup> L'instrucziun dal conclus d'iniziaziun, la realisaziun da l'inquisiziun e l'instrucziun da la decisiun finala èn chaussa da la cumissiun per giustia e segirezza.
+<sup>2</sup> L'emprim èsi da tadlar la commembra pertutgada u il commember pertutgà. Ulteriurs scleriments ston vegnir fatgs, sch'els èn indispensabels per prender il conclus d'introducziun.
 
 #### Art. 50
 
-**2. inquisiziun**
-
-<sup>1</sup> Ils fatgs ston vegnir eruids d'uffizi.
-
-<sup>2</sup> Las disposiziuns davart ils meds d'inquisiziun, davart l'obligaziun da cooperar da las persunas participadas, davart l'attenziun giuridica e davart l'invista da las actas en la lescha davart la giurisdicziun administrativa[^50-1] vegnan applitgadas confurm al senn.
-
-[^50-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+**…**
 
 #### Art. 51
 
-**3. suspensiun da l'uffizi**
+**2. suspensiun da l'uffizi**
 
-<sup>1</sup> Sch'igl èn avant maun indizis avunda per in motiv da destituziun da l'uffizi tenor l'artitgel 48, po il cussegl grond concluder cun la maioritad da trais quarts da las commembras e dals commembers preventivamain ina suspensiun da l'uffizi, e quai cun u senza reducziun u sistida dal salari.
+<sup>1</sup> Cun ina maioritad da trais quarts da las commembras e dals commembers po il Cussegl grond concluder ina suspensiun da l'uffizi, sche l'existenza d'in motiv per ina destituziun da l'uffizi è vegnida fatga valair vardaivlamain e sch'il funcziunament da l'autoritad pertutgada è periclità.
+
+<sup>2</sup> Questa ordinaziun po vegnir colliada cun ina reducziun dal salari fin a la mesadad dal salari, sch'in return en l'uffizi po vegnir exclus cun fitg gronda probabilitad e sch'i vegn permess a la persuna pertutgada d'exercitar in'activitad da gudogn.
 
 #### Art. 52
 
-**4. decisiun**
+**3. decisiun finala**
 
-<sup>1</sup> Decisiuns ston vegnir motivadas e communitgadas a las persunas pertutgadas en scrit sco er munidas cun ina indicaziun dals meds legals.
+<sup>1</sup> Il Cussegl grond terminescha la procedura da destituziun da l'uffizi, saja quai cun ordinar ina destituziun da l'uffizi u cun metter ad acta la procedura da destituziun da l'uffizi.
+
+<sup>2</sup> Sch'il quorum per la destituziun da l'uffizi na vegn betg cuntanschì, vala la procedura da destituziun da l'uffizi sco messa ad acta.
+
+#### Art. 52a
+
+**4. instrucziun e proposta**
+
+<sup>1</sup> La cumissiun dal Cussegl grond ch'è cumpetenta per la giustia è l'autoritad instruenta e maina la procedura da destituziun da l'uffizi fin a la decisiun finala.
+
+<sup>2</sup> Per la durada da la procedura da destituziun da l'uffizi prenda la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia las ordinaziuns preventivas e proceduralas necessarias, nun ch'il Cussegl grond saja cumpetent en chaussa. Ella po dumandar il Cussegl grond d'ordinar ina destituziun da l'uffizi.
+
+<sup>3</sup> Cura che las cumprovas necessarias èn registradas, suttametta la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia al Cussegl grond, per la proxima sessiun, in rapport ed ina proposta:
+
+- a) d'introducir u da betg introducir ina procedura da destituziun da l'uffizi, sch'ina tala proposta n'è betg evidentamain nunmotivada;
+- b) d'ordinar ina destituziun da l'uffizi u da metter ad acta la procedura da destituziun da l'uffizi.
 
 #### Art. 53
 
-**5. meds legals**
+**5. regulaziuns cumplementaras**
 
-<sup>1</sup> Decisiuns dal cussegl grond che concernan la suspensiun da l'uffizi e la destituziun da l'uffizi pon vegnir contestadas entaifer 30 dis dapi la communicaziun tar la dretgira administrativa.
+<sup>1</sup> Las commembras ed ils commembers dal Cussegl grond e da la Regenza pon vegnir obligads da sa suttametter ad ina controlla tras la media u il medi da confidenza.
+
+<sup>2</sup> Sche la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia suttametta propostas al Cussegl grond, pon las fracziuns tadlar la persuna pertutgada sco er autras commembras ed auters commembers da l'autoritad pertutgada.
+
+<sup>3</sup> Proceduras da destituziun da l'uffizi èn gratuitas. En cas da levsenn pon vegnir incassads custs da procedura.
+
+<sup>4</sup> Las decisiuns dal Cussegl grond sco er las decisiuns preventivas e proceduralas da la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia pon vegnir contestadas tar la Dretgira superiura, sch'ellas chaschunan in dischavantatg che na sa lascha probablamain betg pli eliminar pli tard.
+
+<sup>5</sup> Per la procedura da destituziun da l'uffizi valan dal rest las disposiziuns da la Lescha davart la giurisdicziun administrativa[^53-1] confurm al senn.
+
+[^53-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
 ## 4. Procedura d'iniziativa
 
@@ -1178,7 +1205,7 @@ concluda:
 
 <sup>3</sup> Tar la cumissiun cumpetenta dal cussegl grond po vegnir fatg recurs pervia da la violaziun dal dretg da votar e pervia dad irregularitads tar la preparaziun u tar l'execuziun da las elecziuns da la regenza.
 
-<sup>4</sup> Tar la dretgira administrativa po vegnir fatg recurs cunter las explicaziuns da votaziun dal cussegl grond. Cun resalva da l'artitgel 97 sa drizza la procedura tenor la lescha davart la giurisdicziun administrativa.
+<sup>4</sup> Tar la Dretgira superiura po vegnir fatg recurs cunter las explicaziuns da votaziun dal Cussegl grond. Cun resalva da l'artitgel 97 sa drizza la procedura tenor la Lescha davart la giurisdicziun administrativa.
 
 #### Art. 96
 
@@ -1193,7 +1220,7 @@ concluda:
 <sup>1</sup> Ils recurs ston vegnir inoltrads entaifer trais dis dapi la scuverta dal motiv da recurs, il pli tard però il terz di suenter la publicaziun uffiziala dals resultats d'ina elecziun u d'ina votaziun, a las suandantas instanzas:
 
 - a) a la chanzlia chantunala: recurs tenor l'artitgel 95 alineas 1 fin 3;
-- b) a la dretgira administrativa: recurs tenor l'artitgel 95 alinea 4.
+- b) a la Dretgira superiura: recurs tenor l'artitgel 95 alinea 4.
 
 #### Art. 98
 
@@ -1231,9 +1258,9 @@ concluda:
 
 #### Art. 102
 
-**Recurs tar la dretgira administrativa**
+**Recurs tar la Dretgira superiura**
 
-<sup>1</sup> Cunter decisiuns da la regenza, dal cussegl grond e da la cumissiun cumpetenta dal cussegl grond sco er da las autoritads da las dretgiras regiunalas, da las regiuns e da las vischnancas po vegnir recurrì tar la dretgira administrativa pervia da violaziun da dretgs politics.
+<sup>1</sup> Cunter decisiuns da la Regenza, dal Cussegl grond e da la cumissiun cumpetenta dal Cussegl grond sco er da las autoritads da las dretgiras regiunalas, da las regiuns e da las vischnancas po vegnir recurrì tar la Dretgira superiura pervia da violaziun da dretgs politics.
 
 <sup>2</sup> La procedura sa drizza tenor la lescha davart la giurisdicziun administrativa[^102-1].
 

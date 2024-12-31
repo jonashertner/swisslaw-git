@@ -4,13 +4,13 @@ number: "150.100"
 title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
-version: 2024-01-01
-corrected: 2023-08-22
-version_adopted: 2021-02-16
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3333/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3375/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3333/pdf_file"
 
 (LDPC)
 
-del 17.06.2005 (stato 01.01.2024)
+del 17.06.2005 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -234,10 +234,10 @@ decide:
 
 **Elezioni di rinnovo 1. Invito**
 
-<sup>1</sup> Entro il quattordicesimo lunedì precedente la data dell'elezione deve essere pubblicato l'invito all'inoltro di proposte di candidatura:
+<sup>1</sup> L'invito all'inoltro di proposte di candidatura deve essere pubblicato:
 
 - a) in caso di elezioni cantonali da parte della Cancelleria dello Stato;
-- b) in caso di elezioni del Gran Consiglio da parte dei comitati regionali;
+- b) …
 - c) in caso di elezioni dei tribunali regionali da parte delle commissioni amministrative dei tribunali regionali;
 - d) in caso di elezioni comunali da parte delle cancellerie comunali.
 
@@ -247,7 +247,11 @@ decide:
 - b) la data di un eventuale secondo turno elettorale;
 - c) il luogo e il termine per l'inoltro di proposte di candidatura per un secondo turno elettorale.
 
-<sup>3</sup> In caso di elezioni cantonali e regionali l'invito viene pubblicato sul Foglio ufficiale cantonale, in caso di elezioni comunali nelle forme usuali del luogo.
+<sup>3</sup> L'invito viene pubblicato:
+
+- a) in caso di elezioni cantonali entro il quattordicesimo lunedì precedente la data dell'elezione nel Foglio ufficiale cantonale;
+- b) in caso di elezioni regionali entro il ventesimo lunedì precedente la data dell'elezione nel Foglio ufficiale cantonale;
+- c) in caso di elezioni comunali entro il quattordicesimo lunedì precedente la data dell'elezione nei mezzi di pubblicazione usuali del luogo.
 
 #### Art. 19c
 
@@ -277,18 +281,18 @@ decide:
 
 **c) Inoltro**
 
-<sup>1</sup> Le proposte di candidatura devono pervenire entro il nono lunedì precedente la data dell'elezione:
+<sup>1</sup> Le proposte di candidatura devono pervenire:
 
-- a) alla Cancelleria dello Stato, in caso di elezioni cantonali;
-- b) al comitato regionale competente, in caso di elezioni del Gran Consiglio;
-- c) alla commissione amministrativa competente, in caso di elezioni dei tribunali regionali;
-- d) alla cancelleria comunale competente, in caso di elezioni comunali.
+- a) alla Cancelleria dello Stato, in caso di elezioni cantonali, entro il nono lunedì precedente la data dell'elezione;
+- b) …
+- c) alla commissione amministrativa competente, in caso di elezioni dei tribunali regionali, entro il quattordicesimo lunedì precedente la data dell'elezione;
+- d) alla cancelleria comunale competente, in caso di elezioni comunali, entro il nono lunedì precedente la data dell'elezione.
 
 <sup>2</sup> Le proposte di candidatura inoltrate dopo questo termine non entrano in considerazione.
 
 #### Art. 19f
 
-**d) Correzione**
+**d) Rettifica e comunicazione**
 
 <sup>1</sup> L'autorità competente per la ricezione delle proposte di candidatura verifica le proposte di candidatura man mano che pervengono riguardo ai requisiti formali, all'eleggibilità dei candidati e alla validità delle firme.
 
@@ -298,11 +302,13 @@ decide:
 
 <sup>4</sup> Una volta scaduto il termine di annuncio, non è più possibile eliminare vizi.
 
+<sup>5</sup> La commissione amministrativa del tribunale regionale competente comunica al Tribunale d'appello le proposte di candidatura pervenute tempestivamente e informa il Tribunale d'appello in merito a proposte di candidatura non ammesse.
+
 #### Art. 19g
 
 **e) Ritiro**
 
-<sup>1</sup> Ritiri di proposte di candidatura devono pervenire all'autorità competente per la ricezione delle proposte di candidatura entro il nono venerdì precedente la data dell'elezione.
+<sup>1</sup> I ritiri di proposte di candidatura devono pervenire all'autorità competente per la ricezione delle proposte di candidatura entro il nono venerdì precedente la data dell'elezione in caso di elezioni cantonali e comunali ed entro il quattordicesimo lunedì precedente la data dell'elezione in caso di elezioni dei tribunali regionali.
 
 <sup>2</sup> La persona proposta deve acconsentire per iscritto al ritiro della candidatura.
 
@@ -348,7 +354,7 @@ decide:
 
 **Applicazione**
 
-<sup>1</sup> Si procede a un'elezione tacita quando il numero delle persone validamente proposte corrisponde al numero di seggi da assegnare. In caso contrario si procede a un'elezione pubblica.
+<sup>1</sup> Un'elezione è tacita quando il numero delle persone validamente proposte corrisponde al numero di seggi da assegnare, se il Tribunale d'appello non ritiene inidoneo nessun candidato. In caso contrario si procede a un'elezione pubblica.
 
 <sup>2</sup> La commissione amministrativa del tribunale regionale competente decide senza indugio in merito all'applicazione dell'elezione tacita e pubblica la decisione nel Foglio ufficiale cantonale e nei mezzi di pubblicazione usuali del luogo.
 
@@ -699,37 +705,60 @@ decide:
 
 #### Art. 49
 
-**Procedura 1. Avvio, istruzione**
+**Procedura 1. Decreto d'avvio**
 
-<sup>1</sup> Il Gran Consiglio avvia d'ufficio o su denuncia una procedura di destituzione se viene a conoscenza di un motivo di destituzione.
+<sup>1</sup> Il Gran Consiglio avvia d'ufficio o su segnalazione un procedimento di destituzione, se è dato un sospetto iniziale fondato relativo alla sussistenza di un motivo di destituzione.
 
-<sup>2</sup> L'istruzione del decreto d'avvio, lo svolgimento dell'istruttoria e l'istruzione della decisione finale competono alla Commissione di giustizia e sicurezza.
+<sup>2</sup> Va previamente sentito il membro interessato. Occorre procedere a ulteriori accertamenti nella misura in cui siano indispensabili per l'adozione del decreto d'avvio.
 
 #### Art. 50
 
-**2. Istruttoria**
-
-<sup>1</sup> La fattispecie deve essere rilevata d'ufficio.
-
-<sup>2</sup> Vengono applicate per analogia le disposizioni sui mezzi d'istruttoria, sull'obbligo di collaborazione degli interessati, sul diritto di essere ascoltato e di prendere visione degli atti, contenute nella legge sulla giustizia amministrativa.
+**…**
 
 #### Art. 51
 
-**3. Sospensione**
+**2. Sospensione**
 
-<sup>1</sup> Se vi sono indizi sufficienti per un motivo di destituzione ai sensi dell'articolo 48, il Gran Consiglio può decidere con la maggioranza di tre quarti dei membri una sospensione cautelativa con o senza riduzione o soppressione del versamento del salario.
+<sup>1</sup> A maggioranza di tre quarti dei membri, il Gran Consiglio può decidere una sospensione se è stata resa credibile la sussistenza di un motivo di destituzione e se il funzionamento dell'autorità interessata è minacciato.
+
+<sup>2</sup> Questa disposizione può essere associata a una riduzione del salario fino alla metà dello stesso, se molto probabilmente un ritorno in carica può essere escluso e alla persona interessata viene consentito l'esercizio di un'attività lucrativa.
 
 #### Art. 52
 
-**4. Decisione**
+**3. Decisione finale**
 
-<sup>1</sup> Le decisioni vanno motivate e comunicate per iscritto agli interessati con un avvertimento circa i mezzi d'impugnazione.
+<sup>1</sup> Il Gran Consiglio conclude il procedimento di destituzione disponendo una destituzione oppure abbandonando il procedimento di destituzione.
+
+<sup>2</sup> Se il quorum per la destituzione non viene raggiunto, il procedimento di destituzione è considerato abbandonato.
+
+#### Art. 52a
+
+**4. Istruzione e presentazione della proposta**
+
+<sup>1</sup> La commissione del Gran Consiglio competente per la giustizia dirige il procedimento di destituzione fino alla decisione finale quale autorità che si occupa dell'istruzione.
+
+<sup>2</sup> Per la durata del procedimento di destituzione, la commissione del Gran Consiglio competente per la giustizia adotta le necessarie disposizioni provvisionali e determinanti il corso della procedura, nella misura in cui non sia competente il Gran Consiglio. Essa può chiedere una sospensione al Gran Consiglio.
+
+<sup>3</sup> Se le prove necessarie sono state rilevate, in vista della prossima sessione la commissione del Gran Consiglio competente per la giustizia sottopone al Gran Consiglio rapporto e richiesta:
+
+- a) di avviare o di non avviare un procedimento di destituzione, se una tale richiesta non è palesemente infondata;
+- b) di disporre una destituzione o di abbandonare il procedimento di destituzione.
 
 #### Art. 53
 
-**5. Rimedi giuridici**
+**5. Regolamentazioni complementari**
 
-<sup>1</sup> Le decisioni del Gran Consiglio concernenti la sospensione e la destituzione possono venire impugnate presso il Tribunale amministrativo entro 30 giorni dalla comunicazione.
+<sup>1</sup> I membri del Gran Consiglio e del Governo possono essere obbligati a sottoporsi a una visita da parte di un medico di fiducia.
+
+<sup>2</sup> Se la commissione del Gran Consiglio competente per la giustizia sottopone delle richieste al Gran Consiglio, le frazioni possono sentire la persona interessata e altri membri dell'autorità interessata.
+
+<sup>3</sup> I procedimenti di destituzione sono gratuiti. In caso di temerarietà possono essere riscosse spese procedurali.
+
+<sup>4</sup> Le decisioni del Gran Consiglio nonché le decisioni provvisionali e determinanti il corso della procedura adottate dalla commissione del Gran Consiglio competente per la giustizia che comportano uno svantaggio probabilmente irreparabile in futuro possono essere impugnate dinanzi al Tribunale d'appello.
+
+<sup>5</sup> Per il resto per la procedura di destituzione fanno stato per analogia le disposizioni della legge sulla giustizia amministrativa[^53-1].
+
+[^53-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 ## 4. Iniziativa
 
@@ -1176,7 +1205,7 @@ decide:
 
 <sup>3</sup> Può essere presentato ricorso alla commissione competente del Gran Consiglio per violazione del diritto di voto e irregolarità nella preparazione o nello svolgimento delle elezioni del Governo.
 
-<sup>4</sup> È data la facoltà di presentare ricorso al Tribunale amministrativo concernente le spiegazioni del Gran Consiglio. Fatto salvo l'articolo 97, la procedura si conforma alla legge sulla giustizia amministrativa.
+<sup>4</sup> Può essere presentato ricorso al Tribunale d'appello contro le spiegazioni di voto del Gran Consiglio. Fatto salvo l'articolo 97, la procedura si conforma alla legge sulla giustizia amministrativa.
 
 #### Art. 96
 
@@ -1191,7 +1220,7 @@ decide:
 <sup>1</sup> I ricorsi devono essere presentati entro tre giorni dalla rilevazione del motivo d'impugnazione, tuttavia non oltre il terzo giorno seguente la pubblicazione ufficiale dei risultati di un'elezione o votazione alle seguenti autorità:
 
 - a) alla Cancelleria dello Stato: ricorsi conformemente all'articolo 95 capoversi 1-3;
-- b) al Tribunale amministrativo: ricorsi conformemente all'articolo 95 capoverso 4.
+- b) al Tribunale d'appello: ricorsi conformemente all'articolo 95 capoverso 4.
 
 #### Art. 98
 
@@ -1227,9 +1256,9 @@ decide:
 
 #### Art. 102
 
-**Impugnazione dinanzi al Tribunale amministrativo**
+**Impugnazione dinanzi al Tribunale d'appello**
 
-<sup>1</sup> Le decisioni del Governo, del Gran Consiglio e della Commissione competente del Gran Consiglio, nonché delle autorità dei tribunali regionali, delle regioni e dei comuni sono soggette al ricorso dinanzi al Tribunale amministrativo per violazione dei diritti politici.
+<sup>1</sup> Le decisioni del Governo, del Gran Consiglio e della commissione competente del Gran Consiglio, nonché delle autorità dei tribunali regionali, delle regioni e dei comuni sono soggette a ricorso per violazione dei diritti politici dinanzi al Tribunale d'appello.
 
 <sup>2</sup> La procedura si conforma alla legge sulla giustizia amministrativa[^102-1].
 

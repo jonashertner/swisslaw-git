@@ -4,13 +4,13 @@ number: "150.100"
 title: Gesetz über die politischen Rechte im Kanton Graubünden
 short: GPR
 language: de
-version: 2024-01-01
-corrected: 2023-08-22
-version_adopted: 2021-02-16
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3333/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3375/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3333/pdf_file"
 
 (GPR)
 
-Vom 17.06.2005 (Stand 01.01.2024)
+Vom 17.06.2005 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -234,10 +234,10 @@ beschliesst:
 
 **Erneuerungswahlen 1. Aufforderung**
 
-<sup>1</sup> Bis spätestens am vierzehntletzten Montag vor dem Wahltag ist die Aufforderung zur Einreichung von Wahlvorschlägen zu publizieren:
+<sup>1</sup> Die Aufforderung zur Einreichung von Wahlvorschlägen ist zu publizieren:
 
 - a) bei kantonalen Wahlen von der Standeskanzlei;
-- b) bei Grossratswahlen von den Regionalausschüssen;
+- b) …
 - c) bei Regionalgerichtswahlen von den Verwaltungskommissionen der Regionalgerichte;
 - d) bei kommunalen Wahlen von den Gemeindekanzleien.
 
@@ -247,7 +247,11 @@ beschliesst:
 - b) Datum eines zweiten Wahlganges;
 - c) Ort und Frist der Einreichung von Wahlvorschlägen für einen zweiten Wahlgang.
 
-<sup>3</sup> Die Publikation der Aufforderung erfolgt bei kantonalen und regionalen Wahlen im Kantonsamtsblatt, bei kommunalen Wahlen in ortsüblicher Weise.
+<sup>3</sup> Die Publikation der Aufforderung erfolgt:
+
+- a) bei kantonalen Wahlen bis spätestens am vierzehntletzten Montag vor dem Wahltag im Kantonsamtsblatt;
+- b) bei Regionalgerichtswahlen bis spätestens am zwanzigletzten Montag vor dem Wahltag im Kantonsamtsblatt;
+- c) bei kommunalen Wahlen bis spätestens am vierzehntletzten Montag vor dem Wahltag in ortsüblicher Weise.
 
 #### Art. 19c
 
@@ -277,18 +281,18 @@ beschliesst:
 
 **c) Einreichung**
 
-<sup>1</sup> Wahlvorschläge müssen bis spätestens am neuntletzten Montag vor dem Wahltag eintreffen:
+<sup>1</sup> Wahlvorschläge müssen eintreffen:
 
-- a) bei kantonalen Wahlen bei der Standeskanzlei;
-- b) bei Grossratswahlen beim zuständigen Regionalausschuss;
-- c) bei Regionalgerichtswahlen bei der zuständigen Verwaltungskommission;
-- d) bei kommunalen Wahlen bei der zuständigen Gemeindekanzlei.
+- a) bei kantonalen Wahlen bis spätestens am neuntletzten Montag vor dem Wahltag bei der Standeskanzlei;
+- b) …
+- c) bei Regionalgerichtswahlen bis spätestens am vierzehntletzten Montag vor dem Wahltag bei der zuständigen Verwaltungskommission;
+- d) bei kommunalen Wahlen bis spätestens am neuntletzten Montag vor dem Wahltag bei der zuständigen Gemeindekanzlei.
 
 <sup>2</sup> Nach diesem Zeitpunkt eingereichte Wahlvorschläge fallen ausser Betracht.
 
 #### Art. 19f
 
-**d) Bereinigung**
+**d) Bereinigung und Mitteilung**
 
 <sup>1</sup> Die Einreichungsinstanz prüft fortlaufend die eingegangenen Wahlvorschläge in Bezug auf die Formerfordernisse, die Wählbarkeit der Kandidierenden und die Gültigkeit der Unterschriften.
 
@@ -298,11 +302,13 @@ beschliesst:
 
 <sup>4</sup> Nach Ablauf der Anmeldefrist ist eine Behebung von Mängeln ausgeschlossen.
 
+<sup>5</sup> Die Verwaltungskommission des zuständigen Regionalgerichts teilt dem Obergericht rechtzeitig eingegangene Wahlvorschläge mit und informiert das Obergericht über nicht zugelassene Wahlvorschläge.
+
 #### Art. 19g
 
 **e) Rückzug**
 
-<sup>1</sup> Rückzüge von Wahlvorschlägen müssen bis spätestens am neuntletzten Freitag vor dem Wahltag bei der Einreichungsinstanz eintreffen.
+<sup>1</sup> Rückzüge von Wahlvorschlägen müssen bei kantonalen und kommunalen Wahlen bis spätestens am neuntletzten Freitag vor dem Wahltag, bei den Regionalgerichtswahlen bis spätestens am vierzehntletzten Freitag vor dem Wahltag bei der Einreichungsinstanz eintreffen.
 
 <sup>2</sup> Die vorgeschlagene Person muss dem Rückzug schriftlich zustimmen.
 
@@ -348,7 +354,7 @@ beschliesst:
 
 **Zustandekommen**
 
-<sup>1</sup> Eine Stille Wahl kommt zustande, wenn die Zahl der gültig vorgeschlagenen Personen der Zahl der zu vergebenden Sitze entspricht. Andernfalls findet ein öffentlicher Wahlgang statt.
+<sup>1</sup> Eine Stille Wahl kommt zustande, wenn die Zahl der gültig vorgeschlagenen Personen der Zahl der zu vergebenden Sitze entspricht, sofern das Obergericht keine Kandidierenden für ungeeignet hält. Andernfalls findet ein öffentlicher Wahlgang statt.
 
 <sup>2</sup> Die Verwaltungskommission des zuständigen Regionalgerichts entscheidet unverzüglich über das Zustandekommen der Stillen Wahl und veröffentlicht den Entscheid im Kantonsamtsblatt und in ortsüblicher Weise.
 
@@ -699,37 +705,60 @@ beschliesst:
 
 #### Art. 49
 
-**Verfahren 1. Einleitung, Instruktion**
+**Verfahren 1. Einleitungsbeschluss**
 
-<sup>1</sup> Der Grosse Rat leitet von Amtes wegen oder auf Anzeige hin ein Amtsenthebungsverfahren ein, wenn er von einem Amtsenthebungsgrund Kenntnis erhält.
+<sup>1</sup> Der Grosse Rat leitet von Amtes wegen oder auf Anzeige hin ein Amtsenthebungsverfahren ein, wenn ein begründeter Anfangsverdacht für das Vorliegen eines Amtsenthebungsgrunds besteht.
 
-<sup>2</sup> Die Instruktion des Einleitungsbeschlusses, die Durchführung der Untersuchung und die Instruktion des Endentscheides obliegen der Kommission für Justiz und Sicherheit.
+<sup>2</sup> Das betroffene Mitglied ist vorgängig anzuhören. Weitere Abklärungen sind vorzunehmen, soweit sie für die Fällung des Einleitungsbeschlusses unerlässlich sind.
 
 #### Art. 50
 
-**2. Untersuchung**
-
-<sup>1</sup> Der Sachverhalt ist von Amtes wegen zu ermitteln.
-
-<sup>2</sup> Die Bestimmungen über die Untersuchungsmittel, die Mitwirkungspflicht der Beteiligten, das rechtliche Gehör und die Akteneinsicht im Verwaltungsrechtspflegegesetz finden sinngemäss Anwendung.
+**…**
 
 #### Art. 51
 
-**3. Amtseinstellung**
+**2. Amtseinstellung**
 
-<sup>1</sup> Liegen hinreichende Anhaltspunkte für einen Amtsenthebungsgrund gemäss Artikel 48 vor, kann der Grosse Rat mit der Mehrheit von drei Vierteln der Mitglieder vorsorglicherweise eine Amtseinstellung, mit oder ohne Lohnkürzung oder -streichung, beschliessen.
+<sup>1</sup> Der Grosse Rat kann mit einer Mehrheit von drei Vierteln der Mitglieder eine Amtseinstellung beschliessen, wenn das Vorliegen eines Amtsenthebungsgrunds glaubhaft gemacht wurde und das Funktionieren der betroffenen Behörde gefährdet ist.
+
+<sup>2</sup> Diese Anordnung kann mit einer Lohnkürzung bis zur Hälfte des Lohnes verbunden werden, wenn eine Rückkehr in das Amt mit überwiegender Wahrscheinlichkeit ausgeschlossen werden kann und der betroffenen Person erlaubt wird, eine Erwerbstätigkeit auszuüben.
 
 #### Art. 52
 
-**4. Entscheid**
+**3. Endentscheid**
 
-<sup>1</sup> Entscheide sind zu begründen und den Betroffenen schriftlich sowie mit einer Rechtsmittelbelehrung versehen zu eröffnen.
+<sup>1</sup> Der Grosse Rat schliesst das Amtsenthebungsverfahren ab, indem er eine Amtsenthebung anordnet oder das Amtsenthebungsverfahren einstellt.
+
+<sup>2</sup> Wird das Quorum für die Amtsenthebung nicht erreicht, gilt das Amtsenthebungsverfahren als eingestellt.
+
+#### Art. 52a
+
+**4. Instruktion und Antragstellung**
+
+<sup>1</sup> Die für die Justiz zuständige Kommission des Grossen Rates leitet das Amtsenthebungsverfahren als instruierende Behörde bis zum Endentscheid.
+
+<sup>2</sup> Die für die Justiz zuständige Kommission des Grossen Rates trifft für die Dauer des Amtsenthebungsverfahrens die erforderlichen vorsorglichen und verfahrensleitenden Anordnungen, soweit nicht der Grosse Rat zuständig ist. Sie kann beim Grossen Rat eine Amtseinstellung beantragen.
+
+<sup>3</sup> Sind die notwendigen Beweise erhoben, unterbreitet die für die Justiz zuständige Kommission des Grossen Rates dem Grossen Rat auf die nächste Session hin Bericht und Antrag:
+
+- a) auf Einleitung oder Nichteinleitung eines Amtsenthebungsverfahrens, sofern ein solcher Antrag nicht offensichtlich unbegründet ist;
+- b) auf Anordnung einer Amtsenthebung oder Einstellung des Amtsenthebungsverfahrens.
 
 #### Art. 53
 
-**5. Rechtsmittel**
+**5. Ergänzende Regelungen**
 
-<sup>1</sup> Entscheide des Grossen Rates betreffend Amtseinstellung und Amtsenthebung können innert 30 Tagen seit der Mitteilung beim Verwaltungsgericht angefochten werden.
+<sup>1</sup> Die Mitglieder des Grossen Rates und der Regierung können zu einer vertrauensärztlichen Untersuchung verpflichtet werden.
+
+<sup>2</sup> Richtet sich die für die Justiz zuständige Kommission des Grossen Rates mit Anträgen an den Grossen Rat, können die Fraktionen die betroffene Person und andere Mitglieder der betroffenen Behörde anhören.
+
+<sup>3</sup> Amtsenthebungsverfahren sind kostenlos. Bei Mutwilligkeit können Verfahrenskosten erhoben werden.
+
+<sup>4</sup> Die Entscheide des Grossen Rates sowie die vorsorglichen und verfahrensleitenden Entscheide der für die Justiz zuständigen Kommission des Grossen Rates, die einen Nachteil zur Folge haben, der sich später voraussichtlich nicht mehr beheben lässt, können beim Obergericht angefochten werden.
+
+<sup>5</sup> Im Übrigen gelten für das Amtsenthebungsverfahren die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^53-1] sinngemäss.
+
+[^53-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
 ## 4. Initiativverfahren
 
@@ -1176,7 +1205,7 @@ beschliesst:
 
 <sup>3</sup> Bei der zuständigen grossrätlichen Kommission kann Beschwerde geführt werden wegen Verletzung des Stimmrechts und wegen Unregelmässigkeiten bei der Vorbereitung oder Durchführung der Regierungsratswahlen.
 
-<sup>4</sup> Beim Verwaltungsgericht kann Beschwerde gegen die Abstimmungserläuterungen des Grossen Rates geführt werden. Das Verfahren richtet sich unter Vorbehalt von Artikel 97 nach dem Gesetz über die Verwaltungsrechtspflege.
+<sup>4</sup> Beim Obergericht kann Beschwerde gegen die Abstimmungserläuterungen des Grossen Rates geführt werden. Das Verfahren richtet sich unter Vorbehalt von Artikel 97 nach dem Gesetz über die Verwaltungsrechtspflege.
 
 #### Art. 96
 
@@ -1191,7 +1220,7 @@ beschliesst:
 <sup>1</sup> Die Beschwerden sind innert drei Tagen seit der Entdeckung des Beschwerdegrundes, spätestens jedoch am dritten Tag nach der amtlichen Bekanntgabe der Ergebnisse einer Wahl oder Abstimmung bei folgenden Instanzen einzureichen:
 
 - a) bei der Standeskanzlei: Beschwerden gemäss Artikel 95 Absätze 1 bis 3;
-- b) beim Verwaltungsgericht: Beschwerden gemäss Artikel 95 Absatz 4.
+- b) beim Obergericht: Beschwerden gemäss Artikel 95 Absatz 4.
 
 #### Art. 98
 
@@ -1227,9 +1256,9 @@ beschliesst:
 
 #### Art. 102
 
-**Weiterzug ans Verwaltungsgericht**
+**Weiterzug ans Obergericht**
 
-<sup>1</sup> Entscheide der Regierung, des Grossen Rates und der zuständigen grossrätlichen Kommission sowie der Behörden der Regionalgerichte, Regionen und Gemeinden unterliegen der Beschwerde wegen Verletzung von politischen Rechten an das Verwaltungsgericht.
+<sup>1</sup> Entscheide der Regierung, des Grossen Rates und der zuständigen grossrätlichen Kommission sowie der Behörden der Regionalgerichte, Regionen und Gemeinden unterliegen der Beschwerde wegen Verletzung von politischen Rechten an das Obergericht.
 
 <sup>2</sup> Das Verfahren richtet sich nach dem Verwaltungsrechtspflegegesetz[^102-1].
 
