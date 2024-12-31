@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 2005 über die Primärproduktion (VPrP)
 short: VPrP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/752"
 language: de
-version: 2020-07-01
+version: 2025-01-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/752/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2005-752-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/752/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2005-752-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20200701/de"
 
 (VPrP)
 
-vom 23. November 2005 (Stand am 1. Juli 2020)
+vom 23. November 2005 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -44,18 +44,31 @@ Sie gilt auch für:
 - c. das Behandeln von Primärprodukten, die zur Verwendung als Futtermittel auf dem Erzeugerbetrieb bestimmt sind;
 - d. die Beförderung von Primärprodukten zum Erstabnehmer.
 
-<sup>3</sup> ...[^1-1]
+<sup>3</sup>
 
-[^1-1]: Aufgehoben durch Ziff. II der V vom 29. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723)).
+Sie gilt nicht für:
+
+- a. das Jagen;
+- b. das Fischen;
+- c. das Ernten wild wachsender Erzeugnisse.[^1-1]
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 #### Art. 2
 
 **Begriffe**
 
+<sup>1</sup>
+
 In dieser Verordnung gelten die folgenden Begriffe:
 
 - a. *Primärproduktion:* die Erzeugung, die Aufzucht und der Anbau von Primärprodukten einschliesslich das Ernten, das Melken und die Aufzucht und Haltung landwirtschaftlicher Nutztiere vor dem Schlachten.
-- b. *Primärprodukte:* Pflanzen, Tiere und daraus gewonnene Erzeugnisse der Primärproduktion, die zur Verwendung als Lebensmittel oder Futtermittel bestimmt sind.
+- b.[^2-1] *Primärprodukte:* Pflanzen, Algen und Mikroalgen, Pilze und Tiere sowie daraus gewonnene Erzeugnisse der Primärproduktion, die zur Verwendung als Lebensmittel oder Futtermittel bestimmt sind.
+
+<sup>2</sup> Für Mikroalgen und Pilze gelten die gestützt auf diese Verordnung erlassenen Ausführungsbestimmungen zur Pflanzenproduktion.[^2-2]
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 #### Art. 3
 
@@ -94,21 +107,22 @@ Sie müssen dafür sorgen, dass:
 
 - a. das Personal nicht akut an einer durch Lebensmittel übertragbaren Krankheit leidet;
 - b. das Personal in Bezug auf die Gesundheitsmassnahmen unterrichtet wird;
-- c. Kontaminationen durch Tiere, Schädlinge, Abfälle, schädliche Bestandteile der Luft, des Wassers und des Bodens sowie durch Rückstände von chemischen Stoffen und Verpackungsmaterial von Futtermitteln vermieden werden;
+- c.[^4-1] Kontaminationen durch Tiere, Schädlinge, Abfälle, schädliche Bestandteile der Luft, des Wassers und des Bodens, durch Rückstände von chemischen Stoffen, durch Dünger sowie durch Futtermittel und deren Verpackungsmaterial vermieden werden;
 - d. Primärprodukte so produziert, gelagert, behandelt und befördert werden, dass diese in ihrer hygienischen Qualität und Sauberkeit nicht beeinträchtigt werden;
 - e. Ergebnisse von Untersuchungen von Proben von pflanzlichem, tierischem und sonstigem Material, die für die Gesundheit von Mensch und Tier von Belang sind, berücksichtigt werden;
 - f. beim Einbringen neuer Tiere in einen Bestand besondere Sicherheitsvorkehrungen gegen Ansteckungen mit Krankheiten vorgesehen werden.
 
 <sup>4</sup>
 
-Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^4-1] legt Anforderungen fest an:
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^4-2] legt Anforderungen fest an:
 
 - a. die Produktion von einzelnen Primärprodukten;
 - b. die Rückverfolgbarkeit.
 
 <sup>5</sup> Es kann vorschreiben, dass die Betriebe über ihre Produktion Buch führen.
 
-[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^4-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 5
 
@@ -138,7 +152,7 @@ Wer feststellt oder Grund zur Annahme hat, dass er Primärprodukte abgegeben hat
 
 <sup>2</sup> Sie sorgen dafür, dass die Kontrollen der Primärproduktion nach dieser Verordnung in die Kontrollen nach der Landwirtschafts-, Tierseuchen- und Heilmittelgesetzgebung integriert werden.
 
-<sup>3</sup> und <sup>4</sup> ...[^7-1]
+<sup>3 und <sup>4</sup></sup> …[^7-1]
 
 [^7-1]: Aufgehoben durch Anhang 4 Ziff. 5 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, mit Wirkung seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
@@ -148,7 +162,7 @@ Wer feststellt oder Grund zur Annahme hat, dass er Primärprodukte abgegeben hat
 
 <sup>1</sup> Die Kontrollen richten sich nach der Verordnung vom 27. Mai 2020[^8-2] über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände.[^8-3]
 
-<sup>1bis</sup> ...[^8-4]
+<sup>1bis</sup> …[^8-4]
 
 <sup>2</sup> Die Kontrolleurinnen und Kontrolleure müssen von den Betrieben, die sie kontrollieren, unabhängig sein. In den Fällen nach Artikel 10 des Bundesgesetzes vom 20. Dezember 1968[^8-5] über was Verwaltungsstrafverfahren müssen sie in den Ausstand treten.
 
@@ -164,13 +178,13 @@ Wer feststellt oder Grund zur Annahme hat, dass er Primärprodukte abgegeben hat
 
 **Zuständigkeit der Bundesämter**[^9-1]
 
-<sup>1</sup> Das BLW beaufsichtigt in Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) den Vollzug der Vorschriften über die Primärproduktion in den Kantonen. Es kann nach Anhörung der zuständigen kantonalen Behörden Weisungen betreffend die Kontrolle erlassen. Vorbehalten bleibt Artikel 16 der Milchprüfungsverordnung vom 20. Oktober 2010[^9-2].[^9-3]
+<sup>1</sup> Das BLW beaufsichtigt in Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) den Vollzug der Vorschriften über die Primärproduktion in den Kantonen. Das BLW und das BLV können nach Anhörung der zuständigen kantonalen Behörden Weisungen betreffend die Kontrolle erlassen. Vorbehalten bleibt Artikel 16 der Milchprüfungsverordnung vom 20. Oktober 2010[^9-2].[^9-3]
 
 <sup>2</sup> Das BLW erstellt gemeinsam mit dem BLV[^9-4] und nach Anhörung der zuständigen kantonalen Behörden einen mehrjährigen nationalen Kontrollplan.
 
 [^9-1]: Fassung gemäss Ziff. I 11 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen), in Kraft seit 1. Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^9-2]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^9-3]: Fassung gemäss Anhang 4 Ziff. 5 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^9-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 [^9-4]: Ausdruck gemäss Anhang 4 Ziff. 5 Abs. 2 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 10
@@ -209,7 +223,7 @@ Das BLW genehmigt im Einvernehmen mit dem BLV die Leitlinien, wenn sie:
 <sup>4</sup> Die Anwendung der Leitlinien ist für die Betriebe freiwillig.
 
 [^11-1]: Fassung gemäss Anhang 4 Ziff. 5 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^11-2]: www.fao.org/fao-who-codexalimentarius &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, zuletzt geändert 2003 (nur auf Englisch, Französisch, Spanisch, Arabisch und Chinesisch verfügbar).
+[^11-2]: [www.fao.org/fao-who-codexalimentarius](http://www.fao.org/fao-who-codexalimentarius) &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, zuletzt geändert 2003 (nur auf Englisch, Französisch, Spanisch, Arabisch und Chinesisch verfügbar).
 
 #### Art. 12
 

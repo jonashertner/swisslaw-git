@@ -4,11 +4,11 @@ title: Ordonnance du 23 novembre 2005 sur la production primaire (OPPr)
 short: OPPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/752"
 language: fr
-version: 2020-07-01
+version: 2025-01-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/752/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-752-20200701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/752/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-752-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20200701/fr"
 
 (OPPr)
 
-du 23 novembre 2005 (Etat le 1<sup>er</sup> juillet 2020)
+du 23 novembre 2005 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -44,18 +44,31 @@ Elle s’applique également:
 - c. au traitement de produits primaires destinés à être utilisés comme aliments pour animaux dans l’exploitation qui les a produits;
 - d. au transport de produits primaires jusque chez le premier acquéreur.
 
-<sup>3</sup> …[^1-1]
+<sup>3</sup>
 
-[^1-1]: Abrogé par le ch. II de l’O du 29 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723)).
+Elle ne s’applique pas:
+
+- a. à la chasse;
+- b. à la pêche;
+- c. à la cueillette de produits sauvages.[^1-1]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 #### Art. 2
 
 **Définitions**
 
+<sup>1</sup>
+
 Dans la présente ordonnance, on entend par:
 
 - a. *production primaire*: la production, l’élevage et la culture de produits primaires, y compris la récolte, la traite et la production d’animaux de rente avant l’abattage.
-- b. *produits primaires*: les plantes, les animaux et les produits issus de la production primaire d’origine végétale ou animale qui sont destinés à la consommation humaine ou à la consommation animale.
+- b.[^2-1] *produits primaires:* les plantes, les algues et microalgues, les champignons, les animaux et tout produit issu de la production primaire d’origine végétale ou animale qui sont destinés à l’alimentation humaine ou animale.
+
+<sup>2</sup> Les dispositions d’exécution sur la production végétale édictées en vertu de la présente ordonnance s’appliquent aux microalgues et aux champignons.[^2-2]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^2-2]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 #### Art. 3
 
@@ -67,18 +80,20 @@ Dans la présente ordonnance, on entend par:
 
 La notification obligatoire visée à l’al. 1 n’est pas applicable aux exploitations qui remplissent les critères suivants:
 
-- a. la surface de l’exploitation est inférieure à 1 hectare de surface agricole utile, 30 ares de cultures spéciales au sens de l’art. 15 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^3-3] ou 10 ares de surfaces cultivées toute l’année sous abri au sens de l’art. 14, al. 1, let. e, OTerm;
-- b. l’exploitation ne doit pas être enregistrée selon les art. 7, 18*a* ou 21 de l’ordonnance du 27 juin 1995 sur les épizooties[^3-4];
-- c. l’exploitation remet exclusivement ses produits primaires en petites quantités à des consommateurs directement ou par l’intermédiaire de commerces locaux pratiquant la vente au détail.[^3-5]
+- a.[^3-3] la surface de l’exploitation est inférieure à 1 hectare de surface agricole utile, 30 ares de cultures spéciales au sens de l’art. 15 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^3-4] et 10 ares de surfaces cultivées toute l’année sous abri au sens de l’art. 14, al. 1, let. e, OTerm;
+- b.[^3-5] l’exploitation ne doit pas être enregistrée selon les art. 7, 18*a* ou 21 de l’ordonnance du 27 juin 1995 sur les épizooties[^3-6], et
+- c. l’exploitation remet exclusivement ses produits primaires en petites quantités à des consommateurs directement ou par l’intermédiaire de commerces locaux pratiquant la vente au détail.[^3-7]
 
-<sup>3</sup> L’OFAG[^3-6] tient un registre des exploitations annoncées. Il édicte à l’intention des cantons des directives concernant la manière de recueillir les données.
+<sup>3</sup> L’OFAG[^3-8] tient un registre des exploitations annoncées. Il édicte à l’intention des cantons des directives concernant la manière de recueillir les données.
 
 [^3-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^3-2]: Nouvelle teneur selon l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^3-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^3-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-5]: Nouvelle teneur selon l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^3-6]: Nouvelle expression selon l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^3-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^3-6]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^3-7]: Nouvelle teneur selon l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^3-8]: Nouvelle expression selon l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
@@ -94,21 +109,22 @@ Elles veillent à ce que:
 
 - a. le personnel ne souffre pas d’une maladie aiguë, transmise par des denrées alimentaires;
 - b. le personnel soit informé en matière de mesures sanitaires;
-- c. des contaminations par les animaux, les parasites, les déchets, l’air, l’eau et le sol ainsi que par des résidus de substances chimiques et les emballages des aliments pour animaux soient évitées;
+- c.[^4-1] des contaminations par les animaux, les parasites, les déchets, l’air, l’eau et le sol ainsi que par les résidus de substances chimiques, les engrais et les aliments pour animaux et leurs emballages soient évitées;
 - d. les produits primaires soient produits, entreposés, traités et transportés de manière à ce que leur qualité hygiénique et leur propreté ne soient pas altérées;
 - e. les résultats des analyses effectuées sur des échantillons de matériel végétal, animal ou de toute autre nature et revêtant une importance pour la santé humaine ou animale soient pris en considération;
 - f. lors de l’arrivée de nouveaux animaux dans un cheptel, des mesures de sécurité soient prises contre la contamination par des maladies.
 
 <sup>4</sup>
 
-Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^4-1] établit les exigences concernant:
+Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^4-2] établit les exigences concernant:
 
 - a. la production de produits primaires;
 - b. la traçabilité.
 
 <sup>5</sup> Il peut prescrire que les exploitations doivent tenir un registre relatif à leur production.
 
-[^4-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^4-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
 
@@ -138,7 +154,7 @@ Quiconque constate ou a des raisons d’admettre qu’il a cédé des produits p
 
 <sup>2</sup> Ils veillent à ce que les contrôles de la production primaire effectués en vertu de la présente ordonnance soient intégrés aux contrôles effectués en vertu des législations sur l’agriculture, les épizooties et les produits thérapeutiques.
 
-<sup>3</sup> et <sup>4</sup> ...[^7-1]
+<sup>3 et <sup>4</sup></sup> ...[^7-1]
 
 [^7-1]: Abrogés par l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
@@ -164,13 +180,13 @@ Quiconque constate ou a des raisons d’admettre qu’il a cédé des produits p
 
 **Compétence des offices fédéraux**[^9-1]
 
-<sup>1</sup> L’OFAG, en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), surveille l’exécution des prescriptions sur la production primaire dans les cantons. Il peut édicter des instructions sur les contrôles après avoir consulté les autorités cantonales compétentes. Les dispositions figurant à l’art. 16 de l’ordonnance du 20 octobre 2010 sur le contrôle du lait[^9-2] sont réservées.[^9-3]
+<sup>1</sup> L’OFAG, en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), surveille l’exécution des prescriptions sur la production primaire dans les cantons. L’OFAG et l’OSAV peuvent édicter des instructions sur les contrôles après avoir consulté les autorités cantonales compétentes. Les dispositions figurant à l’art. 16 de l’ordonnance du 20 octobre 2010 sur le contrôle du lait[^9-2] sont réservées.[^9-3]
 
 <sup>2</sup> Après avoir consulté les autorités cantonales compétentes, l’OFAG établit avec l’OSAV[^9-4] un programme de contrôle national pluriannuel.
 
 [^9-1]: Nouvelle teneur selon le ch. I 11 de l’O du 4 sept. 2013 (Réorganisation de la sécurité alimentaire et des affaires vétérinaires), en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^9-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^9-3]: Nouvelle teneur selon l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 [^9-4]: Nouvelle expression selon l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 10
@@ -209,7 +225,7 @@ L’OFAG approuve ces guides, en accord avec l’OSAV, aux conditions suivantes:
 <sup>4</sup> L’application des guides est facultative pour les exploitants.
 
 [^11-1]: Nouvelle teneur selon l’annexe 4 ch. 5 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^11-2]: www.fao.org/fao-who-codexalimentarius &gt; Textes du Codex &gt; Code d’usages &gt; Principes généraux d’hygiène alimentaire, modifié en dernier lieu en 2003
+[^11-2]: [www.fao.org/fao-who-codexalimentarius](http://www.fao.org/fao-who-codexalimentarius) &gt; Textes du Codex &gt; Code d’usages &gt; Principes généraux d’hygiène alimentaire, modifié en dernier lieu en 2003
 
 #### Art. 12
 

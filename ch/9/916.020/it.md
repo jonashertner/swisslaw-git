@@ -4,11 +4,11 @@ title: Ordinanza del 23 novembre 2005 concernente la produzione primaria (OPPrim
 short: OPPrim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/752"
 language: it
-version: 2020-07-01
+version: 2025-01-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/752/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2005-752-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/752/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2005-752-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/752/20200701/it"
 
 (OPPrim)
 
-del 23 novembre 2005 (Stato 1° luglio 2020)
+del 23 novembre 2005 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -44,18 +44,31 @@ Essa si applica altresì:
 - c. alla manipolazione di prodotti primari destinati a essere utilizzati come alimenti per animali all’interno dell’azienda che li ha prodotti;
 - d. al trasporto di prodotti primari per la consegna al primo acquirente.
 
-<sup>3</sup> …[^1-1]
+<sup>3</sup>
 
-[^1-1]: Abrogato dal n. II dell’O del 29 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723)).
+Essa non si applica:
+
+- a. alla caccia;
+- b. alla pesca;
+- c. alla raccolta di prodotti selvatici.[^1-1]
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 #### Art. 2
 
 **Definizioni**
 
+<sup>1</sup>
+
 Nella presente ordinanza si intende per:
 
 - a. *produzione primaria:* la produzione, l’allevamento e la coltivazione di prodotti primari, compresi il raccolto, la mungitura, l’allevamento e la detenzione di animali da reddito agricoli prima della macellazione.
-- b. *prodotti primari*: vegetali, animali e prodotti della produzione primaria di origine vegetale o animale destinati a essere utilizzati come derrate alimentari o alimenti per animali.
+- b.[^2-1] *prodotti primari**:* vegetali, alghe e microalghe, funghi, animali e tutti i prodotti della produzione primaria di origine vegetale o animale destinati all’alimentazione umana o animale.
+
+<sup>2</sup> Alle microalghe e ai funghi si applicano le disposizioni d’esecuzione sulla produzione vegetale emanate secondo la presente ordinanza.[^2-2]
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^2-2]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 #### Art. 3
 
@@ -68,17 +81,18 @@ Nella presente ordinanza si intende per:
 L’obbligo di notifica di cui al capoverso 1 non si applica alle aziende che soddisfano i seguenti criteri:
 
 - a. la cui superficie è inferiore a un ettaro di superficie agricola utile, 30 are di colture speciali secondo lʼarticolo 15 dellʼordinanza del 7 dicembre 1998[^3-3] sulla terminologia agricola e sul riconoscimento delle forme di azienda (OTerm) e 10 are di colture protette secondo lʼarticolo 14 capoverso 1 lettera e OTerm;
-- b. per le quali non sussiste l’obbligo di registrazione ai sensi degli articoli 7, 18*a* o 21 dell’ordinanza del 27 giugno 1995[^3-4] sulle epizoozie;
-- c. che forniscono ai consumatori, direttamente o per il tramite di esercizi di commercio al dettaglio locali, esclusivamente prodotti primari di propria produzione in piccole quantità.[^3-5]
+- b.[^3-4] per le quali non sussiste l’obbligo di registrazione ai sensi degli articoli 7, 18*a* o 21 dell’ordinanza del 27 giugno 1995[^3-5] sulle epizoozie; e
+- c. che forniscono ai consumatori, direttamente o per il tramite di esercizi di commercio al dettaglio locali, esclusivamente prodotti primari di propria produzione in piccole quantità.[^3-6]
 
-<sup>3</sup> L’UFAG[^3-6] tiene un registro delle aziende notificate. Esso emana direttive a destinazione dei Cantoni in merito alle modalità di rilevazione dei dati.
+<sup>3</sup> L’UFAG[^3-7] tiene un registro delle aziende notificate. Esso emana direttive a destinazione dei Cantoni in merito alle modalità di rilevazione dei dati.
 
 [^3-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^3-2]: Nuovo testo giusta l’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^3-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^3-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-5]: Nuovo testo giusta l’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^3-6]: Nuova espressione giusta l’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^3-5]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^3-6]: Nuovo testo giusta l’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^3-7]: Nuova espr. giusta l’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -94,21 +108,22 @@ Esse provvedono affinché:
 
 - a. il personale non soffra di alcuna malattia acuta trasmessa da derrate alimentari;
 - b. il personale sia informato sulle misure sanitarie;
-- c. le contaminazioni attraverso animali, parassiti, scarti, componenti nocive dell’aria, dell’acqua e del suolo nonché attraverso residui di sostanze chimiche e materiale d’imballaggio di alimenti per animali siano evitate;
+- c.[^4-1] le contaminazioni attraverso animali, parassiti, scarti, componenti nocive dell’aria, dell’acqua e del suolo nonché attraverso residui di sostanze chimiche, concimi e alimenti per animali nonché i loro imballaggi siano evitate;
 - d. i prodotti primari siano fabbricati, immagazzinati, manipolati e trasportati in modo da non pregiudicarne la qualità igienica e la pulizia;
 - e. i risultati delle analisi effettuate su campioni di materiale vegetale, animale o di altro genere che abbiano rilevanza per la salute dell’uomo e degli animali siano considerati;
 - f. al momento dell’introduzione di nuovi animali in un effettivo, siano previste particolari misure di sicurezza per prevenire la contaminazione da malattie.
 
 <sup>4</sup>
 
-Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^4-1] fissa le esigenze in materia di:
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^4-2] fissa le esigenze in materia di:
 
 - a. produzione di prodotti primari;
 - b. tracciabilità.
 
 <sup>5</sup> Il DEFR può prescrivere che le aziende tengano un registro relativo alla loro produzione.
 
-[^4-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
+[^4-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -138,7 +153,7 @@ Chiunque constati o abbia motivo di presumere di aver consegnato prodotti primar
 
 <sup>2</sup> I Cantoni provvedono affinché i controlli della produzione primaria effettuati ai sensi della presente ordinanza siano integrati in quelli previsti dalla legislazione sull’agricoltura, sulle epizoozie e sugli agenti terapeutici.
 
-<sup>3</sup> e <sup>4</sup> ...[^7-1]
+<sup>3 e <sup>4</sup></sup> ...[^7-1]
 
 [^7-1]: Abrogati dall’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
@@ -164,14 +179,14 @@ Chiunque constati o abbia motivo di presumere di aver consegnato prodotti primar
 
 **Competenze degli Uffici federali**[^9-1]
 
-<sup>1</sup> LʼUFAG, in collaborazione con lʼUfficio federale della sicurezza alimentare e di veterinaria (USAV), vigila sullʼesecuzione delle prescrizioni relative alla produzione primaria nei Cantoni. Può emanare istruzioni sul controllo dopo aver consultato le competenti autorità cantonali. Sono fatte salve le disposizioni dellʼarticolo 16 dellʼordinanza del 20 ottobre 2010[^9-2] sul controllo del latte.[^9-3]
+<sup>1</sup> LʼUFAG, in collaborazione con lʼUfficio federale della sicurezza alimentare e di veterinaria (USAV), vigila sull’esecuzione delle prescrizioni relative alla produzione primaria nei Cantoni. L’UFAG e l’USAV possono emanare istruzioni sul controllo dopo aver consultato le competenti autorità cantonali. Sono fatte salve le disposizioni dell’articolo 16 dell’ordinanza del 20 ottobre 2010[^9-2] sul controllo del latte.[^9-3]
 
 <sup>2</sup> LʼUFAG, dopo aver sentito le competenti autorità cantonali e dʼintesa con lʼUSAV[^9-4], allestisce un piano di controllo nazionale pluriennale.
 
-[^9-1]: Nuovo testo giusta il n. I 11 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 [^9-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
 [^9-3]: Nuovo testo giusta l’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^9-4]: Nuova espressione giusta l’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-4]: Nuova espr. giusta l’all. 4 n. 5 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 10
 
@@ -187,7 +202,7 @@ LʼUFAG, dopo aver sentito le competenti autorità cantonali e la Direzione gene
 
 <sup>2</sup> I piani d’emergenza devono essere se necessario adeguati, in particolare in caso di riorganizzazione delle competenti autorità o sulla base delle conoscenze acquisite fra l’altro nell’ambito di esercitazioni in preparazione a situazioni di crisi.
 
-[^10-1]: Nuovo testo giusta il n. I 11 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
+[^10-1]: Nuovo testo giusta la cifra I n. 11 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 
 #### Art. 11
 
@@ -200,7 +215,7 @@ LʼUFAG, dopo aver sentito le competenti autorità cantonali e la Direzione gene
 LʼUFAG approva le linee direttive dʼintesa con lʼUSAV se:
 
 - a. sono state elaborate in accordo con le cerchie interessate;
-- b. rispettano le pertinenti regole procedurali del *Codex Ali**mentarius*[^11-2];
+- b. rispettano le pertinenti regole procedurali del *Codex Alimentarius*[^11-2];
 - c. sono attuabili nei settori citati; e
 - d. possono essere applicate nellʼambito delle disposizioni di cui agli articoli 4–6.
 
