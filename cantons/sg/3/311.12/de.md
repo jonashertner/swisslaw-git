@@ -4,13 +4,12 @@ number: "311.12"
 title: Verordnung über den Schutz vor Passivrauchen
 short: VSP
 language: de
-version: 2014-01-01
-valid_until: 2024-12-31
-version_adopted: 2013-11-19
+version: 2025-01-01
+version_adopted: 2024-11-19
 adopted: 2010-02-16
 in_force: 2010-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/311.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1349/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3693/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1349/pdf_file"
 
 (VSP)
 
-vom 16.02.2010 (Stand 01.01.2014)
+vom 16.02.2010 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -169,6 +168,16 @@ als Verordnung:[^ingress-3]
 **b) Zutrittsrecht**
 
 <sup>1</sup> Die zuständigen kantonalen Stellen und die zuständige Gemeindebehörde können allgemein zugängliche Räume und Rauchzimmer während den Öffnungszeiten unangemeldet auf die Einhaltung der Bestimmungen der Gesetzgebung über den Schutz vor dem Passivrauchen überprüfen.
+
+## II<sup>bis</sup>. Testkäufe
+
+#### Art. 10a
+
+**Zuständige Behörde des Kantons**
+
+<sup>1</sup> Das Amt für Gesundheitsvorsorge ist zuständige kantonale Behörde für Testkäufe nach [Art. 24](https://db.clex.ch/link/Bund/818.32/de) des Bundesgesetzes über Tabakprodukte und elektronische Zigaretten vom 1. Oktober 2021[^10a-1].
+
+[^10a-1]: SR [818.32](https://db.clex.ch/link/Bund/818.32/de).
 
 ## III. Strafbestimmung
 
