@@ -4,13 +4,12 @@ number: "721.800"
 title: "Règlement concernant l'exécution de la loi sur l'utilisation des forces hydrauliques"
 short: RELcFH
 language: fr
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-11-10
+version: 2025-01-01
+version_adopted: 2024-08-21
 adopted: 1990-07-04
 in_force: 1990-11-23
 url: "https://lex.vs.ch/app/fr/texts_of_law/721.800"
-pdf: "https://lex.vs.ch/api/fr/versions/2122/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3442/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2122/pdf_file"
 
 (RELcFH)
 
-du 04.07.1990 (état 01.01.2018)
+du 04.07.1990 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -349,7 +348,7 @@ f = facteur de correction tenant compte des hauteurs de chute et des débits dis
 
 **Fonds de préfinancement des FMV (art. 71 al. 2 LcFH)**
 
-<sup>1</sup> Le fonds créé par l'article 71 alinéa 2 LcFH est un fonds spécial géré par le Département des finances, à qui il incombe de placer les sommes déposées aux meilleures conditions de rendement et de sécurité.
+<sup>1</sup> Le fonds créé par l'article 71 alinéa 2 LcFH est un fonds spécial géré par le Département des finances.
 
 <sup>2</sup> Lorsque le capital social des Forces motrices valaisannes SA est augmenté, l'administration de la société demandera au Conseil d'Etat de mettre des montants du fonds spécial à disposition pour libérer les actions nouvellement émises.
 

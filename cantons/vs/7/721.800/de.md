@@ -4,13 +4,12 @@ number: "721.800"
 title: Reglement betreffend die Ausführung des Gesetzes über die Nutzbarmachung der Wasserkräfte
 short: RAkWRG
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-11-10
+version: 2025-01-01
+version_adopted: 2024-08-21
 adopted: 1990-07-04
 in_force: 1990-11-23
 url: "https://lex.vs.ch/app/de/texts_of_law/721.800"
-pdf: "https://lex.vs.ch/api/de/versions/2122/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2122/pdf_file"
 
 (RAkWRG)
 
-vom 04.07.1990 (Stand 01.01.2018)
+vom 04.07.1990 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -349,7 +348,7 @@ f = Korrekturfaktor für ungenützte Wassermengen und Gefälle
 
 **Vorausfinanzierungsfonds WEG (Art. 71 Abs. 2 kWRG)**
 
-<sup>1</sup> Beim nach Artikel 71 Absatz 2 kWRG gebildeten Fonds handeltes sich um einen Spezialfonds, der vom Finanzdepartement verwaltet wird. Diesem obliegt die sichere Anlage der hinterlegten Summen zu den bestmöglichen Ertragsbedingungen.
+<sup>1</sup> Beim nach Artikel 71 Absatz 2 kWRG gebildeten Fonds handeltes sich um einen Spezialfonds, der vom Finanzdepartement verwaltet wird.
 
 <sup>2</sup> Sobald das Aktienkapital der Walliser Elektrizitätsgesellschaft AG erhöht wird, verlangt die Verwaltung der Gesellschaft beim Staatsrat, dass Beträge von diesem Spezialfonds zur Liberierung der neu herausgegebenen Aktien zur Verfügung gestellt werden.
 
