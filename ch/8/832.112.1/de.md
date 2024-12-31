@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über den Risikoausgleich in der Krankenv
 short: VORA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-674-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-674-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20240101/de"
 
 (VORA)
 
-vom 19. Oktober 2016 (Stand am 1. Januar 2024)
+vom 19. Oktober 2016 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -85,7 +85,7 @@ Für die Zuteilung auf die Kalenderjahre ist der Zeitraum des Aufenthalts massge
 
 <sup>2</sup> In der PCG-Liste werden zu jeder PCG die Arzneimittel aufgeführt, die dieser PCG zugeordnet sind. Zu jedem dieser Arzneimittel wird die weltweit geltende Handelsnummer (Global Trade Item Number, GTIN-Code) und die Anzahl der standardisierten Tagesdosen pro Darreichungsform und pro Packung angegeben.[^4-4]
 
-<sup>3</sup> Ein Arzneimittel kann nur einer einzigen PCG zugeordnet werden. [^4-5]
+<sup>3</sup> Ein Arzneimittel kann nur einer einzigen PCG zugeordnet werden.[^4-5]
 
 <sup>4</sup> Das EDI kann Hierarchisierungen unter den PCG vorsehen, wenn mehrere PCG das gleiche oder ein verwandtes gesundheitliches Problem betreffen.
 
@@ -139,19 +139,20 @@ Für die Gruppierung der Daten und die Berechnung des Risikoausgleichs muss der 
 - e. Aufenthalt in einem Spital oder Pflegeheim;
 - f. GTIN-Code und Anzahl Packungen pro Arzneimittel der Spezialitätenliste;
 - g. Anzahl Monate, während deren die Person bei ihm versichert ist;
-- h. Bruttoleistungen;
+- h.[^6-3] Bruttoleistungen abzüglich der Rückerstattungen, die ihm Inhaberinnen von Zulassungen für Arzneimittel geleistet haben;
 - i. Kostenbeteiligungen.
 
 <sup>2</sup> Er gliedert die Daten in zwei Datensätze. Der erste Datensatz enthält die Daten für das Jahr vor der Datenlieferung, der zweite diejenigen für das vorletzte Jahr vor der Datenlieferung.
 
-<sup>3</sup> Die Versicherer müssen die Daten bis zum 31. März liefern.[^6-3]
+<sup>3</sup> Die Versicherer müssen die Daten bis zum 31. März liefern.[^6-4]
 
-<sup>4</sup> Für die Datenlieferung zu berücksichtigen sind die bis Ende Februar abgerechneten Leistungen und erfassten Änderungen des Versichertenbestandes, die das für den Datensatz massgebliche Kalenderjahr betreffen. [^6-4]
+<sup>4</sup> Für die Datenlieferung zu berücksichtigen sind die bis Ende Februar abgerechneten Leistungen und erfassten Änderungen des Versichertenbestandes, die das für den Datensatz massgebliche Kalenderjahr betreffen.[^6-5]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 [^6-2]: Ausdruck gemäss Anhang Ziff. II 39 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^6-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^6-4]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^6-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-5]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 7
 

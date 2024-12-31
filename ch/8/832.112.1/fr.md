@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur la compensation des risques dans l'ass
 short: OCoR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-674-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-674-20250101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20240101/fr"
 
 (OCoR)
 
-du 19 octobre 2016 (État le 1<sup>er</sup> janvier 2024)
+du 19 octobre 2016 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -83,7 +83,7 @@ La date du traitement est déterminante pour l’attribution du séjour à une a
 
 <sup>1ter</sup> Un PCG non autonome regroupe les médicaments utilisés pour traiter une affection qui n’est en soi pas particulièrement coûteuse, mais qui, en combinaison avec une autre affection donnée particulièrement coûteuse, peut induire des coûts supplémentaires et augmenter encore le risque de maladie. Le PCG non autonome forme, avec le PCG relatif à l’autre affection particulièrement coûteuse, un PCG combiné.[^4-3]
 
-<sup>2</sup> La liste indique, pour chaque PCG, les médicaments attribués à ce PCG. Pour chacun de ces médicaments, elle indique le code article international (*Global Trade Item* *Number*, code GTIN) et le nombre de doses quotidiennes standard par forme galénique et par emballage.[^4-4]
+<sup>2</sup> La liste indique, pour chaque PCG, les médicaments attribués à ce PCG. Pour chacun de ces médicaments, elle indique le code article international (*Global Trade Item Number*, code GTIN) et le nombre de doses quotidiennes standard par forme galénique et par emballage.[^4-4]
 
 <sup>3</sup> Un médicament ne peut être attribué qu’à un seul PCG. [^4-5]
 
@@ -139,19 +139,20 @@ Pour le regroupement des données et le calcul de la compensation des risques, l
 - e. séjour dans un hôpital ou un établissement médico-social;
 - f. code GTIN et nombre d’emballages par médicament figurant sur la liste des spécialités;
 - g. nombre de mois durant lesquels l’assuré a été assuré chez lui;
-- h. prestations brutes;
+- h.[^6-3] prestations brutes, après déduction des restitutions qui lui ont été versées par les titulaires d’autorisation de mise sur le marché de médicaments;
 - i. participation aux coûts.
 
 <sup>2</sup> Il présente les données en deux ensembles de données. Le premier ensemble contient les données pour l’année qui précède la livraison, le deuxième, celles pour la dernière année avant l’année qui précède la livraison des données.
 
-<sup>3</sup> Les assureurs livrent les données le 31 mars au plus tard.[^6-3]
+<sup>3</sup> Les assureurs livrent les données le 31 mars au plus tard.[^6-4]
 
-<sup>4</sup> Sont pris en compte pour la livraison des données les prestations décomptées jusqu’à fin février et les changements dans l’effectif des assurés qui concernent l’année civile déterminante pour l’ensemble de données. [^6-4]
+<sup>4</sup> Sont pris en compte pour la livraison des données les prestations décomptées jusqu’à fin février et les changements dans l’effectif des assurés qui concernent l’année civile déterminante pour l’ensemble de données.[^6-5]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 [^6-2]: Nouvelle expression selon l’annexe ch. II 39 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^6-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^6-4]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-5]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 7
 
@@ -571,7 +572,7 @@ L’ordonnance du 12 avril 1995 sur la compensation des risques dans l’assuran
 
 **Modification d’un autre acte**
 
-<sup>…</sup> [^31-1]
+…[^31-1]
 
 [^31-1]: La mod. peut être consultée au [RO 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674).
 

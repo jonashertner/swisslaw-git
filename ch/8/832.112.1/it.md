@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 2016 sulla compensazione dei rischi nell'assicu
 short: OCoR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-674-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-674-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20240101/it"
 
 (OCoR)
 
-del 19 ottobre 2016 (Stato 1° gennaio 2024)
+del 19 ottobre 2016 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -139,19 +139,20 @@ Per il raggruppamento dei dati e il calcolo della compensazione dei rischi, l’
 - e. degenza in un ospedale o in una casa di cura;
 - f. codice GTIN e numero di confezioni per medicamento iscritto nell’elenco delle specialità;
 - g. durata in mesi dell’assicurazione;
-- h. prestazioni lorde;
+- h.[^6-3] prestazioni lorde, detratte le restituzioni versate dai titolari dell’omologazione all’assicuratore per i medicamenti;
 - i. partecipazioni ai costi.
 
 <sup>2</sup> L’assicuratore suddivide i dati in due insiemi di dati. Il primo insieme contiene i dati riguardanti l’anno precedente la fornitura, mentre il secondo quelli riguardanti il penultimo anno precedente la fornitura.
 
-<sup>3</sup> Gli assicuratori devono fornire i dati entro il 31 marzo.[^6-3]
+<sup>3</sup> Gli assicuratori devono fornire i dati entro il 31 marzo.[^6-4]
 
-<sup>4</sup> La fornitura di dati deve prendere in considerazione le prestazioni fatturate fino a fine febbraio e i cambiamenti registrati nell’effettivo degli assicurati riguardanti l’anno civile determinante per l’insieme di dati.[^6-4]
+<sup>4</sup> La fornitura di dati deve prendere in considerazione le prestazioni fatturate fino a fine febbraio e i cambiamenti registrati nell’effettivo degli assicurati riguardanti l’anno civile determinante per l’insieme di dati.[^6-5]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 [^6-2]: Nuova espr. giusta l’all. n. II 39 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^6-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^6-4]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^6-3]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2025 ([RU 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^6-4]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-5]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 7
 
@@ -453,13 +454,13 @@ Dopo ogni calcolo della compensazione dei rischi, allestisce una statistica:
   - 6\. il numero di assicurati per 13 o più mesi, indicando i nomi e i numeri d’identificazione dei loro assicuratori, per Cantone,
   - 7\. il numero di assicurati per 13 o più mesi in due anni consecutivi, indicando i nomi e i numeri d’identificazione dei loro assicuratori, per Cantone. [^22-2]
 
-- [tab] <sup>2bis</sup> I gruppi di rischio costituiti da assicurati che insieme raggiungono meno di 120 mesi d’assicurazione non sono riportati nella statistica.[^22-3]
+<sup>2bis</sup> I gruppi di rischio costituiti da assicurati che insieme raggiungono meno di 120 mesi d’assicurazione non sono riportati nella statistica.[^22-3]
 
 <sup>3</sup> Essa redige ogni anno un rapporto sull’esecuzione della compensazione dei rischi.
 
 <sup>4</sup> La statistica e il rapporto devono essere pubblicati ogni anno entro il 10 giugno.[^22-4]
 
-<sup>5</sup> *...*[^22-5]
+<sup>5</sup> *…*[^22-5]
 
 <sup>6</sup>
 
@@ -571,7 +572,7 @@ L’ordinanza del 12 aprile 1995[^30-1] sulla compensazione dei rischi nell’as
 
 **Modifica di un altro atto normativo**
 
-...[^31-1]
+…[^31-1]
 
 [^31-1]: La mod. può essere consultata alla [RU 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674).
 
