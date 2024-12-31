@@ -4,11 +4,11 @@ title: "Ordonnance du 25 avril 2018 sur les aides financières à l'accueil extr
 short: OAAcc
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: fr
-version: 2023-02-01
+version: 2025-01-01
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-316-20230201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/fr"
 
 (OAAcc)
 
-du 25 avril 2018 (État le 1<sup>er</sup> février 2023)
+du 25 avril 2018 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -47,12 +47,12 @@ La présente ordonnance règle pour les aides financières visées à l’art. 1
 
 La présente ordonnance s’applique:
 
-- a. aux structures visées au chapitre 2 qui ouvrent, augmentent leur offre ou commencent la réalisation d’une mesure au plus tard le 31 décembre 2024;
-- b. aux projets à caractère novateur visés au chapitre 3 qui débutent au plus tard le 31 décembre 2024;
-- c. aux augmentations de subventions visées au chapitre 4 prenant effet au plus tard le 31 décembre 2024;
-- d. aux projets visés au chapitre 5 dont l’élaboration du concept détaillé débute au plus tard le 31 décembre 2024.
+- a. aux structures visées au chap. 2 qui ouvrent, augmentent leur offre de façon significative ou commencent la réalisation d’une mesure au plus tard le 31 décembre 2026;
+- b. aux projets à caractère novateur visés au chap. 3 qui débutent au plus tard le 31 décembre 2026;
+- c. aux augmentations de subventions visées au chap. 4 prenant effet au plus tard le 31 décembre 2026;
+- d. aux projets visés au chap. 5 dont l’élaboration du concept détaillé débute au plus tard le 31 décembre 2026.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 ## Chapitre 2 Aides financières à la création de places d’accueil extra-familial pour enfants
 
@@ -582,34 +582,43 @@ L’ordonnance du 9 décembre 2002 sur les aides financières à l’accueil ext
 
 #### Art. 40
 
-**Aides financières prévues aux chapitres 2 et 3**[^40-1]
+**Aides financières prévues aux chap. 2 et 3**[^40-1]
 
 <sup>1</sup>
 
-Peuvent être déposées jusqu’au 28 février 2023:
+Peuvent être déposées jusqu’au 31 mars 2025:
 
-- a. les demandes d’aides financières pour les structures (chap. 2) qui ouvrent, augmentent leur offre ou commencent la réalisation d’une mesure entre le 1<sup>er</sup> février 2023 et le 28 février 2023;
-- b. les demandes d’aides financières pour les projets à caractère novateur (chap. 3) qui débutent entre le 1<sup>er</sup> février 2023 et le 28 février 2023.
+- a. les demandes d’aides financières pour les structures (chap. 2) qui ouvrent, augmentent leur offre de façon significative ou commencent la réalisation d’une mesure entre le 1<sup>er</sup> janvier 2025 et le 31 mars 2025;
+- b. les demandes d’aides financières pour les projets à caractère novateur (chap. 3) qui débutent entre le 1<sup>er</sup> janvier 2025 et le 31 mars 2025.
 
 <sup>2</sup>
 
-Peuvent être déposées jusqu’au 30 décembre 2024:
+Peuvent être déposées jusqu’au 30 décembre 2026:
 
-- a. les demandes d’aides financières pour les structures (chap. 2) qui ouvrent, augmentent leur offre ou commencent la réalisation d’une mesure au plus tard le 31 décembre 2024;
-- b. les demandes d’aides financières pour les projets à caractère novateur (chap. 3) qui débutent au plus tard le 31 décembre 2024.
+- a. les demandes d’aides financières pour les structures (chap. 2) qui ouvrent, augmentent leur offre de façon significative ou commencent la réalisation d’une mesure au plus tard le 31 décembre 2026;
+- b. les demandes d’aides financières pour les projets à caractère novateur (chap. 3) qui débutent au plus tard le 31 décembre 2026.
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 #### Art. 41
 
-**Aides financières prévues aux chapitres 4 et 5**[^41-1]
+**Aides financières prévues aux chap. 4 et 5**[^41-1]
 
-Peuvent être déposées jusqu’au 30 décembre 2024 :
+<sup>1</sup>
 
-- a. les demandes d’aides financières pour les augmentations de subventions (chap. 4) prenant effet au plus tard le 31 décembre 2024;
-- b. les demandes d’aides financières pour les projets (chap. 5) dont l’élaboration du concept détaillé débute au plus tard le 31 décembre 2024.
+Peuvent être déposées jusqu’au 31 mars 2025:
 
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+- a. les demandes d’aides financières pour les augmentations de subventions (chap. 4) prenant effet entre le 1<sup>er</sup> janvier 2025 et le 31 mars 2025;
+- b. les demandes d’aides financières pour les projets (chap. 5) dont l’élaboration du concept détaillé débute entre le 1<sup>er</sup> janvier 2025 et le 31 mars 2025.
+
+<sup>2</sup>
+
+Peuvent être déposées jusqu’au 30 décembre 2026:
+
+- a. les demandes d’aides financières pour les augmentations de subventions (chap. 4) prenant effet au plus tard le 31 décembre 2026;
+- b. les demandes d’aides financières pour les projets (chap. 5) dont l’élaboration du concept détaillé débute au plus tard le 31 décembre 2026.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 ### Section 3 Entrée en vigueur et durée de validité
 
@@ -625,8 +634,11 @@ Peuvent être déposées jusqu’au 30 décembre 2024 :
 
 <sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2024.[^42-2]
 
+<sup>5</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2026.[^42-3]
+
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 [^42-2]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^42-3]: Introduit par le ch. I de l’O du 29 janv. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 Annexe 1
 

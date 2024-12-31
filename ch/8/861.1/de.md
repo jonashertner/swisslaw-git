@@ -4,11 +4,11 @@ title: Verordnung vom 25. April 2018 über Finanzhilfen für familienergänzende
 short: KBFHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: de
-version: 2023-02-01
+version: 2025-01-01
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2018-316-20230201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/de"
 
 (KBFHV)
 
-vom 25. April 2018 (Stand am 1. Februar 2023)
+vom 25. April 2018 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -47,12 +47,12 @@ Diese Verordnung regelt für die Finanzhilfen nach Artikel 1 Absatz 2 KBFHG:
 
 Diese Verordnung gilt für:
 
-- a. Institutionen nach dem 2. Kapitel, die spätestens am 31. Dezember 2024 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
-- b. Projekte mit Innovationscharakter nach dem 3. Kapitel, die spätestens am 31. Dezember 2024 beginnen;
-- c. Subventionserhöhungen nach dem 4. Kapitel, die spätestens auf den 31. Dezember 2024 wirksam werden;
-- d. Projekte nach dem 5. Kapitel, bei denen mit der Erarbeitung des Detailkonzepts spätestens am 31. Dezember 2024 begonnen wird.
+- a. Institutionen nach dem 2. Kapitel, die spätestens am 31. Dezember 2026 ihren Betrieb aufnehmen, ihr Angebot wesentlich erhöhen oder mit der Durchführung einer Massnahme beginnen;
+- b. Projekte mit Innovationscharakter nach dem 3. Kapitel, die spätestens am 31. Dezember 2026 beginnen;
+- c. Subventionserhöhungen nach dem 4. Kapitel, die spätestens auf den 31. Dezember 2026 wirksam werden;
+- d. Projekte nach dem 5. Kapitel, bei denen mit der Erarbeitung des Detailkonzepts spätestens am 31. Dezember 2026 begonnen wird.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 ## 2. Kapitel: Finanzhilfen für die Schaffung von familienergänzenden Betreuungsplätzen für Kinder
 
@@ -586,30 +586,39 @@ Die Verordnung vom 9. Dezember 2002[^39-1] über Finanzhilfen für familienergä
 
 <sup>1</sup>
 
-Bis zum 28. Februar 2023 können eingereicht werden:
+Bis zum 31. März 2025 können eingereicht werden:
 
-- a. Gesuche um Finanzhilfen für Institutionen (2. Kapitel), die zwischen dem 1. und dem 28. Februar 2023 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
-- b. Gesuche um Finanzhilfen für Projekte mit Innovationscharakter (3. Kapitel), die zwischen dem 1. und dem 28. Februar 2023 beginnen.
+- a. Gesuche um Finanzhilfen für Institutionen (2. Kapitel), die zwischen dem 1. Januar 2025 und dem 31. März 2025 ihren Betrieb aufnehmen, ihr Angebot wesentlich erhöhen oder mit der Durchführung einer Massnahme beginnen;
+- b. Gesuche um Finanzhilfen für Projekte mit Innovationscharakter (3. Kapitel), die zwischen dem 1. Januar 2025 und dem 31. März 2025 beginnen.
 
 <sup>2</sup>
 
-Bis zum 30. Dezember 2024 können eingereicht werden:
+Bis zum 30. Dezember 2026 können eingereicht werden:
 
-- a. Gesuche um Finanzhilfen für Institutionen (2. Kapitel), die spätestens am 31. Dezember 2024 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
-- b. Gesuche um Finanzhilfen für Projekte mit Innovationscharakter (3. Kapitel), die spätestens am 31. Dezember 2024 beginnen.
+- a. Gesuche um Finanzhilfen für Institutionen (2. Kapitel), die spätestens am 31. Dezember 2026 ihren Betrieb aufnehmen, ihr Angebot wesentlich erhöhen oder mit der Durchführung einer Massnahme beginnen;
+- b. Gesuche um Finanzhilfen für Projekte mit Innovationscharakter (3. Kapitel), die spätestens am 31. Dezember 2026 beginnen.
 
-[^40-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^40-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 #### Art. 41
 
 **Finanzhilfen nach dem 4. und 5. Kapitel**[^41-1]
 
-Bis zum 30. Dezember 2024 können eingereicht werden:
+<sup>1</sup>
 
-- a. Gesuche um Finanzhilfen für Subventionserhöhungen (4. Kapitel), die bis spätestens 31. Dezember 2024 wirksam werden;
-- b. Gesuche um Finanzhilfen für Projekte (5. Kapitel), bei denen mit der Erarbeitung des Detailkonzepts bis spätestens 31. Dezember 2024 begonnen wird.
+Bis zum 31. März 2025 können eingereicht werden:
 
-[^41-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+- a. Gesuche um Finanzhilfen für Subventionserhöhungen (4. Kapitel), die zwischen dem 1. Januar 2025 und dem 31. März 2025 wirksam werden;
+- b. Gesuche um Finanzhilfen für Projekte (5. Kapitel), bei denen mit der Erarbeitung des Detailkonzepts zwischen dem 1. Januar 2025 und dem 31. März 2025 begonnen wird.
+
+<sup>2</sup>
+
+Bis zum 30. Dezember 2026 können eingereicht werden:
+
+- a. Gesuche um Finanzhilfen für Subventionserhöhungen (4. Kapitel), die bis spätestens am 31. Dezember 2026 wirksam werden;
+- b. Gesuche um Finanzhilfen für Projekte (5. Kapitel), bei denen mit der Erarbeitung des Detailkonzepts bis spätestens am 31. Dezember 2026 begonnen wird.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 ### 3. Abschnitt: Inkrafttreten und Geltungsdauer
 
@@ -625,8 +634,11 @@ Bis zum 30. Dezember 2024 können eingereicht werden:
 
 <sup>4</sup> Die Geltungsdauer der Verordnung wird bis zum 31. Dezember 2024 verlängert.[^42-2]
 
+<sup>5</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2026 verlängert.[^42-3]
+
 [^42-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 [^42-2]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^42-3]: Eingefügt durch Ziff. I der V vom 29. Jan. 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 Anhang 1
 

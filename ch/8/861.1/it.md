@@ -4,11 +4,11 @@ title: Ordinanza del 25 aprile 2018 sugli aiuti finanziari per la custodia di ba
 short: OACust
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: it
-version: 2023-02-01
+version: 2025-01-01
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2018-316-20230201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/it"
 
 (OACust)
 
-del 25 aprile 2018 (Stato 1° febbraio 2023)
+del 25 aprile 2018 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -47,12 +47,12 @@ La presente ordinanza disciplina, per quanto concerne gli aiuti finanziari di cu
 
 La presente ordinanza si applica:
 
-- a. alle strutture secondo il capitolo 2 che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento al più tardi il 31 dicembre 2024;
-- b. ai progetti a carattere innovativo secondo il capitolo 3 avviati al più tardi il 31 dicembre 2024;
-- c. agli aumenti dei sussidi secondo il capitolo 4 che hanno effetto al più tardi il 31 dicembre 2024;
-- d. ai progetti secondo il capitolo 5, il cui piano dettagliato inizia a essere elaborato al più tardi il 31 dicembre 2024.
+- a. alle strutture secondo il capitolo 2 che iniziano l’attività, aumentano l’offerta in modo significativo o avviano l’esecuzione di un provvedimento al più tardi il 31 dicembre 2026;
+- b. ai progetti a carattere innovativo secondo il capitolo 3 avviati al più tardi il 31 dicembre 2026;
+- c. agli aumenti dei sussidi secondo il capitolo 4 che hanno effetto al più tardi il 31 dicembre 2026;
+- d. ai progetti secondo il capitolo 5 il cui piano dettagliato inizia a essere elaborato al più tardi il 31 dicembre 2026.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 29 gen. 2025, in vigore dal 1° gen. 2025 ([RU 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 ## Capitolo 2: Aiuti finanziari per l’istituzione di posti per la custodia di bambini complementare alla famiglia
 
@@ -93,8 +93,8 @@ Per aumento significativo dell’offerta si intende:[^4-1]
 
 <sup>4</sup> La struttura di custodia collettiva diurna esistente che prosegue la sua attività sotto la responsabilità di un nuovo organismo o che viene riaperta non è considerata una nuova struttura. Questo vale, in particolare, se vengono ripresi bambini, personale o parti dell’infrastruttura della struttura di custodia collettiva diurna esistente.[^4-2]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
-[^4-2]: Per. introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^4-2]: Per. introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 5
 
@@ -142,8 +142,8 @@ Per aumento significativo dell’offerta si intende:[^7-1]
 
 <sup>4</sup> La struttura di custodia parascolastica esistente che prosegue la sua attività sotto la responsabilità di un nuovo organismo o che viene riaperta non è considerata una nuova struttura. Questo vale, in particolare, se vengono ripresi bambini, personale o parti dell’infrastruttura della struttura di custodia parascolastica esistente.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
-[^7-2]: Per. introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^7-2]: Per. introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 8
 
@@ -209,7 +209,7 @@ La domanda di aiuti finanziari deve essere corredata di:
 
 <sup>3</sup> L’UFAS emana una direttiva sulla presentazione delle domande e allestisce i corrispondenti moduli.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 13
 
@@ -449,8 +449,8 @@ Nel quadro dell’offerta di servizi per la custodia parascolastica sono conside
 - a. orari di apertura usuali: i periodi senza lezioni compresi tra le ore 7 e le 18, per cinque giorni alla settimana durante tutte le settimane scolastiche;
 - b.[^29-2] orari di apertura ampliati in misura significativa: almeno dieci ore supplementari alla settimana o almeno otto settimane supplementari all’anno durante le vacanze scolastiche, oltre agli orari di apertura di cui alla lettera a o agli orari di apertura precedenti l’ampliamento, se questi erano più lunghi degli orari di apertura di cui alla lettera a.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 30
 
@@ -586,30 +586,39 @@ L’ordinanza del 9 dicembre 2002[^39-1] sugli aiuti finanziari per la custodia 
 
 <sup>1</sup>
 
-Fino al 28 febbraio 2023 possono essere presentate:
+Fino al 31 marzo 2025 possono essere presentate:
 
-- a. domande di aiuti finanziari per strutture (capitolo 2) che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento tra il 1° e il 28 febbraio 2023;
-- b. domande di aiuti finanziari per progetti a carattere innovativo (capitolo 3) che iniziano tra il 1° e il 28 febbraio 2023.
+- a. domande di aiuti finanziari per strutture (cap. 2) che iniziano l’attività, aumentano l’offerta in modo significativo o avviano l’esecuzione di un provvedimento tra il 1° gennaio e il 31 marzo 2025;
+- b. domande di aiuti finanziari per progetti a carattere innovativo (cap. 3) che iniziano tra il 1° gennaio e il 31 marzo 2025.
 
 <sup>2</sup>
 
-Fino al 30 dicembre 2024 possono essere presentate:
+Fino al 30 dicembre 2026 possono essere presentate:
 
-- a. domande di aiuti finanziari per strutture (capitolo 2) che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento al più tardi il 31 dicembre 2024;
-- b. domande di aiuti finanziari per progetti a carattere innovativo (capitolo 3) che iniziano al più tardi il 31 dicembre 2024.
+- a. domande di aiuti finanziari per strutture (cap. 2) che iniziano l’attività, aumentano l’offerta in modo significativo o avviano l’esecuzione di un provvedimento al più tardi il 31 dicembre 2026;
+- b. domande di aiuti finanziari per progetti a carattere innovativo (cap. 3) che iniziano al più tardi il 31 dicembre 2026.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 29 gen. 2025, in vigore dal 1° gen. 2025 ([RU 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 #### Art. 41
 
 **Aiuti finanziari di cui ai capitoli 4 e 5**[^41-1]
 
-Fino al 30 dicembre 2024 possono essere presentate:
+<sup>1</sup>
 
-- a. domande di aiuti finanziari per aumenti dei sussidi (capitolo 4) che hanno effetto al più tardi il 31 dicembre 2024;
-- b. domande di aiuti finanziari per progetti (capitolo 5) il cui piano dettagliato inizia a essere elaborato al più tardi il 31 dicembre 2024.
+Fino al 31 marzo 2025 possono essere presentate:
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 (RU **2022** 868).
+- a. domande di aiuti finanziari per aumenti dei sussidi (cap. 4) che hanno effetto tra il 1° gennaio e il 31 marzo 2025;
+- b. domande di aiuti finanziari per progetti (cap. 5) il cui piano dettagliato inizia a essere elaborato tra il 1° gennaio e il 31 marzo 2025.
+
+<sup>2</sup>
+
+Fino al 30 dicembre 2026 possono essere presentate:
+
+- a. domande di aiuti finanziari per aumenti dei sussidi (cap. 4) che hanno effetto al più tardi il 31 dicembre 2026;
+- b. domande di aiuti finanziari per progetti (cap. 5) il cui piano dettagliato inizia a essere elaborato al più tardi il 31 dicembre 2026.
+
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 29 gen. 2025, in vigore dal 1° gen. 2025 (RU **2025** 101).
 
 ### Sezione 3: Entrata in vigore e durata di validità
 
@@ -625,8 +634,11 @@ Fino al 30 dicembre 2024 possono essere presentate:
 
 <sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2024.[^42-2]
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
-[^42-2]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+<sup>5</sup> La durata di validità della presente ordinanza è prorogata fino al 31 dicembre 2026.[^42-3]
+
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^42-2]: Introdotto dalla cifra I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
+[^42-3]: Introdotto dalla cifra I dell’O del 29 gen. 2025, in vigore dal 1° gen. 2025 ([RU 2025 101](https://fedlex.data.admin.ch/eli/oc/2025/101)).
 
 Allegato 1
 
