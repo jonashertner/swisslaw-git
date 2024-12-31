@@ -4,11 +4,11 @@ title: "Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassen
 short: BVV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/de"
 
 (BVV 2)
 
-vom 18. April 1984 (Stand am 1. Januar 2024)
+vom 18. April 1984 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -265,12 +265,12 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement vom massgebenden Lohn der AHV ab
 
 ### (Art. 8 BVG)
 
-<sup>1</sup> Für Personen, die gemäss Artikel 2 BVG obligatorisch zu versichern sind und die bei einem Arbeitgeber einen massgebenden AHV-Lohn von mehr als 22 050 Franken beziehen, muss ein Betrag in der Höhe von mindestens 3675 Franken versichert werden.[^3a-2]
+<sup>1</sup> Für Personen, die gemäss Artikel 2 BVG obligatorisch zu versichern sind und die bei einem Arbeitgeber einen massgebenden AHV-Lohn von mehr als 22 680 Franken beziehen, muss ein Betrag in der Höhe von mindestens 3780 Franken versichert werden.[^3a-2]
 
 <sup>2</sup> Der versicherte Mindestlohn nach Absatz 1 gilt auch für die obligatorische Versicherung von Personen, bei denen die Grenzbeträge nach Artikel 4 gekürzt werden.
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
+[^3a-2]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
 
 #### Art. 4
 
@@ -293,13 +293,13 @@ Die Grenzbeträge nach den Artikeln 2, 7, 8 und 46 BVG werden wie folgt erhöht:
 
 <table>
 <tr><th>Bisherige Beträge Franken</th><th>Neue Beträge Franken</th></tr>
-<tr><td>21 510</td><td>22 050</td></tr>
-<tr><td>25 095</td><td>25 725</td></tr>
-<tr><td>86 040</td><td>88 200</td></tr>
-<tr><td>3 585</td><td>3 675</td></tr>
+<tr><td>22 050</td><td>22 680</td></tr>
+<tr><td>25 725</td><td>26 460</td></tr>
+<tr><td>88 200</td><td>90 720</td></tr>
+<tr><td>3675</td><td>3780</td></tr>
 </table>
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
 
 #### Art. 6
 
@@ -406,12 +406,10 @@ Tritt der Versicherte während des Jahres in die Vorsorgeeinrichtung ein, so mus
 
 ### (Art. 15 Abs. 2 BVG)
 
-b.[^12-2] für den Zeitraum vom 1. Januar 2003 bis zum 31. Dezember 2003: mindestens mit 3,25 Prozent;
-
 Das Altersguthaben wird verzinst:
 
 - a. für den Zeitraum bis 31. Dezember 2002: mindestens mit 4 Prozent;
-
+- b.[^12-2] für den Zeitraum vom 1. Januar 2003 bis zum 31. Dezember 2003: mindestens mit 3,25 Prozent;
 - c.[^12-3] für den Zeitraum vom 1. Januar 2004 bis zum 31. Dezember 2004: mindestens mit 2,25 Prozent;
 - d.[^12-4] für den Zeitraum vom 1. Januar 2005 bis zum 31. Dezember 2007: mindestens mit 2,5 Prozent;
 - e.[^12-5] für den Zeitraum vom 1. Januar 2008 bis zum 31. Dezember 2008: mindestens mit 2,75 Prozent;
@@ -1162,7 +1160,7 @@ Mit der Unabhängigkeit nicht vereinbar ist insbesondere:
 
 [^35a-2]
 
-- [tab] <sup>1</sup> Liegt eine Unterdeckung vor, so klärt die Revisionsstelle spätestens bei ihrer ordentlichen Prüfung ab, ob die Meldung an die Aufsichtsbehörde nach Artikel 44 erfolgt ist. Bei fehlender Meldung erstattet sie der Aufsichtsbehörde unverzüglich Bericht.[^35a-3]
+<sup>1</sup> Liegt eine Unterdeckung vor, so klärt die Revisionsstelle spätestens bei ihrer ordentlichen Prüfung ab, ob die Meldung an die Aufsichtsbehörde nach Artikel 44 erfolgt ist. Bei fehlender Meldung erstattet sie der Aufsichtsbehörde unverzüglich Bericht.[^35a-3]
 
 <sup>2</sup>
 
@@ -1326,7 +1324,7 @@ Vorsorgeeinrichtungen im System der Vollkapitalisierung sowie Vorsorgeeinrichtun
 
 - a. über die Unterdeckung, insbesondere über deren Ausmass und die Ursachen. Die Meldung an die Aufsichtsbehörde muss spätestens dann erfolgen, wenn die Unterdeckung gemäss Anhang aufgrund der Jahresrechnung ausgewiesen ist;
 - b. über die zur Behebung der Unterdeckung ergriffenen Massnahmen und über den Zeitraum, in welchem die Unterdeckung voraussichtlich behoben werden kann;
-- a. über die Umsetzung des Massnahmenkonzepts und über die Wirksamkeit der Massnahmen. Diese Information muss periodisch erfolgen.
+- c. über die Umsetzung des Massnahmenkonzepts und über die Wirksamkeit der Massnahmen. Diese Information muss periodisch erfolgen.
 
 <sup>3</sup> Bei Unterschreitung des Mindestzinssatzes nach Artikel 65*d* Absatz 4 BVG muss die Vorsorgeeinrichtung zusätzlich darlegen, dass die Massnahmen nach Artikel 65*d* Absatz 3 Buchstaben a und b BVG für die Behebung der Unterdeckung ungenügend sind.
 
@@ -1735,9 +1733,9 @@ Als Anlagen für das Vermögen einer Vorsorgeeinrichtung sind zulässig:
 - c. Immobilien im Allein- oder Miteigentum, einschliesslich Bauten im Baurecht sowie Bauland;
 - d. Beteiligungen an Gesellschaften wie Aktien und Partizipationsscheine, ähnliche Wertschriften wie Genussscheine, sowie Genossenschaftsanteilscheine; Beteiligungen an Gesellschaften und ähnlichen Wertschriften sind zugelassen, wenn sie an einer Börse kotiert sind oder an einem anderen geregelten, dem Publikum offenstehenden Markt gehandelt werden;
 - d<sup>bis</sup>.[^53-2] Anlagen in Infrastrukturen;
-- [tab]
+- d<sup>ter</sup>.[^53-3]
 
-  d<sup>ter</sup>.[^53-3]Anlagen in nicht kotierten Forderungen gegenüber Schuldnern (*Private Debt*) oder in Beteiligungen an nicht kotierten Gesellschaften (*Private Equity*), die:
+  Anlagen in nicht kotierten Forderungen gegenüber Schuldnern (*Private Debt*) oder in Beteiligungen an nicht kotierten Gesellschaften (*Private Equity*), die:
 
   - 1\. ihren Sitz in der Schweiz haben, und
   - 2\. in der Schweiz operativ tätig sind;
@@ -1852,19 +1850,13 @@ Anlagen in Beteiligungen nach Artikel 53 Absatz 1 Buchstabe d dürfen sich bezog
 
 Für die einzelnen Anlagekategorien gelten bezogen auf das Gesamtvermögen folgende Begrenzungen:
 
-a.[^55-2] 50 Prozent: für schweizerische Grundpfandtitel auf Immobilien, Bauten im Baurecht sowie Bauland; diese dürfen höchstens zu 80 Prozent des Verkehrswertes belehnt sein; Pfandbriefe werden wie Grundpfandtitel behandelt;
-
-b. 50 Prozent: für Anlagen in Aktien;
-
-c. 30 Prozent: für Anlagen in Immobilien, wovon maximal ein Drittel im Ausland;
-
-d. 15 Prozent: für alternative Anlagen;
-
-e. 30 Prozent: für Fremdwährungen ohne Währungssicherung;
-
-f.[^55-3] 10 Prozent: für Anlagen in Infrastruktur;
-
-g.[^55-4] 5 Prozent: für Anlagen nach Artikel 53 Absatz 1 Buchstabe d<sup>ter</sup>.
+- a.[^55-2] 50 Prozent: für schweizerische Grundpfandtitel auf Immobilien, Bauten im Baurecht sowie Bauland; diese dürfen höchstens zu 80 Prozent des Verkehrswertes belehnt sein; Pfandbriefe werden wie Grundpfandtitel behandelt;
+- b. 50 Prozent: für Anlagen in Aktien;
+- c. 30 Prozent: für Anlagen in Immobilien, wovon maximal ein Drittel im Ausland;
+- d. 15 Prozent: für alternative Anlagen;
+- e. 30 Prozent: für Fremdwährungen ohne Währungssicherung;
+- f.[^55-3] 10 Prozent: für Anlagen in Infrastruktur;
+- g.[^55-4] 5 Prozent: für Anlagen nach Artikel 53 Absatz 1 Buchstabe d<sup>ter</sup>.
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^55-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
@@ -2192,12 +2184,12 @@ Für die nachfolgend aufgeführten Jahrgänge und deren ordentliches Rentenalter
 
 [^chap7-sec1c-1]: Eingefügt durch Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
-**Art. 62**d
+#### Art. 62d
 
-Das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^chap7-sec1c-2] des Bundesgesetzes vom 20. Dezember 1946[^chap7-sec1c-3] über die Alters- und Hinterlassenenversicherung festgelegte Referenzalter gilt auch als BVG-Referenzalter der Frauen.
+Das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^62d-1] des Bundesgesetzes vom 20. Dezember 1946[^62d-2] über die Alters- und Hinterlassenenversicherung festgelegte Referenzalter gilt auch als BVG-Referenzalter der Frauen.
 
-[^chap7-sec1c-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^chap7-sec1c-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^62d-1]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^62d-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### 2. Abschnitt: Inkrafttreten
 
@@ -2344,7 +2336,7 @@ Anhang[^t-1]
 
 <sup>1</sup> Der Deckungsgrad der Vorsorgeeinrichtung wird wie folgt ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/de/xml/image/image1.png)
 
 Wobei für Vv gilt: Die gesamten Aktiven per Bilanzstichtag zu Marktwerten bilanziert, vermindert um Verbindlichkeiten, passive Rechnungsabgrenzung und Arbeitgeberbeitragsreserven, soweit keine Vereinbarung über einen Verwendungsverzicht des Arbeitgebers vorliegt. Es ist das effektive Vorsorgevermögen massgebend, wie es aus der tatsächlichen finanziellen Lage nach Artikel 47 Absatz 2 hervorgeht. Eine Arbeitgeberbeitragsreserve mit Verwendungsverzicht (AGBR mit Verwendungsverzicht), die Wertschwankungsreserven und die Umlageschwankungsreserven sind dem verfügbaren Vorsorgevermögen zuzurechnen.
 

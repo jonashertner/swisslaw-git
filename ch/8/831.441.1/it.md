@@ -4,11 +4,11 @@ title: "Ordinanza del 18 aprile 1984 sulla previdenza professionale per la vecch
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/it"
 
 (OPP 2)
 
-del 18 aprile 1984 (Stato 1° gennaio 2024)
+del 18 aprile 1984 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -28,13 +28,13 @@ ordina:
 [^ingress-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^ingress-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^ingress-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## Capitolo 1: Principi della previdenza professionale
 
 [^chap1-1]
 
-[^chap1-1]: Introdotto dal n. I dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^chap1-1]: Introdotto dalla cifra I dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
 
 ### Sezione 1: Adeguatezza
 
@@ -64,7 +64,7 @@ Un piano di previdenza con possibilità di scelta della strategia d’investimen
 - a. sono adempiute le condizioni previste al capoverso 2 lettera b; e
 - b. per il calcolo dell’importo massimo della somma d’acquisto non possono essere presi in considerazione contributi superiori in media al 25 per cento del salario assicurato per anno di contribuzione possibile, senza interessi.[^1-1]
 
-[^1-1]: Introdotto dal n. I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
+[^1-1]: Introdotto dalla cifra I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
 
 #### Art. 1a
 
@@ -124,7 +124,7 @@ Un piano di previdenza con possibilità di scelta della strategia d’investimen
 
 <sup>5</sup> All’interno di uno stesso collettivo di assicurati le strategie d’investimento devono essere proposte a tutti gli assicurati. Il risultato degli investimenti di una strategia d’investimento deve essere attribuito secondo criteri uniformi agli averi degli assicurati di un collettivo che hanno scelto tale strategia.
 
-[^1e-1]: Nuovo testo giusta il n. I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
+[^1e-1]: Nuovo testo giusta la cifra I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
 
 ### Sezione 3: Parità di trattamento
 
@@ -155,7 +155,7 @@ Il principio della pianificazione previdenziale è rispettato quando l’istitut
 <sup>2</sup> Negli istituti di previdenza che applicano esclusivamente la previdenza più estesa ed extraobbligatoria, il principio d’assicurazione è parimenti rispettato quando, conformemente al regolamento, l’avere di vecchiaia è alimentato senza la copertura dei rischi di decesso e d’invalidità nei casi in cui, in ragione del rischio considerevolmente accresciuto rilevato da un esame medico, la copertura dei predetti rischi è esclusa dall’assicurazione. In questi casi le prestazioni di vecchiaia possono essere versate solo in forma di rendita.
 
 [^1h-1]: Vedi anche la lett. c delle disp. fin della mod. del 10 giu. 2005 alla fine del presente testo.
-[^1h-2]: Nuovo testo del primo e secondo per. giusta il n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^1h-2]: Nuovo testo del primo e secondo per. giusta la cifra I n. 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 ### Sezione 6: Età minima per il pensionamento anticipato
 
@@ -214,10 +214,10 @@ I seguenti salariati non sottostanno all’assicurazione obbligatoria:
 <sup>4</sup> I salariati che non sono sottoposti all’assicurazione obbligatoria in virtù del capoverso 1 lettere b e c possono farsi assicurare a titolo facoltativo conformemente all’articolo 46 LPP.
 
 [^1j-1]: Originario art. 1.
-[^1j-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2008, in vigore dal 1° gen. 2009 ([RU 2008 3551](https://fedlex.data.admin.ch/eli/oc/2008/457)).
-[^1j-3]: Nuovo testo giusta il n. I dell’O del 25 giu. 2008, in vigore dal 1° gen. 2009 ([RU 2008 3551](https://fedlex.data.admin.ch/eli/oc/2008/457)).
+[^1j-2]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2008, in vigore dal 1° gen. 2009 ([RU 2008 3551](https://fedlex.data.admin.ch/eli/oc/2008/457)).
+[^1j-3]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2008, in vigore dal 1° gen. 2009 ([RU 2008 3551](https://fedlex.data.admin.ch/eli/oc/2008/457)).
 [^1j-4]: Nuovo testo giusta l’all. n. 2 dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^1j-5]: Nuovo testo giusta il n. I 3 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^1j-5]: Nuovo testo giusta la cifra I n. 3 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 1k
 
@@ -230,7 +230,7 @@ I salariati assunti o impiegati per un periodo limitato sottostanno all’assicu
 - a. il rapporto di lavoro è prolungato, senza interruzione, oltre i tre mesi: in tal caso il salariato è assicurato dal momento in cui è stato convenuto il prolungamento;
 - b. sono stati a più riprese assunti dallo stesso datore di lavoro, o impiegati dalla stessa impresa che presta il personale, per un periodo complessivamente superiore a tre mesi e senza interruzioni superiori a tre mesi: in tal caso il salariato è assicurato dall’inizio del quarto mese di lavoro; se prima dell’inizio del rapporto di lavoro è stato tuttavia convenuto che il salariato è assunto o impiegato per una durata complessiva superiore a tre mesi, l’assoggettamento comincia contemporaneamente al rapporto di lavoro.
 
-[^1k-1]: Introdotto dal n. I dell’O del 25 giu. 2008, in vigore dal 1° gen. 2009 ([RU 2008 3551](https://fedlex.data.admin.ch/eli/oc/2008/457)).
+[^1k-1]: Introdotto dalla cifra I dell’O del 25 giu. 2008, in vigore dal 1° gen. 2009 ([RU 2008 3551](https://fedlex.data.admin.ch/eli/oc/2008/457)).
 
 #### Art. 2
 
@@ -240,7 +240,7 @@ I salariati assunti o impiegati per un periodo limitato sottostanno all’assicu
 
 I lavoratori occupati in un’impresa acquisitrice nell’ambito di una fornitura di personale a prestito conformemente alla legge federale del 6 ottobre 1989[^2-2] sul collocamento e il personale a prestito sono considerati impiegati dell’impresa che presta il personale.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^2-2]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 
 #### Art. 3
@@ -265,12 +265,12 @@ Nel suo regolamento l’istituto di previdenza può derogare al salario determin
 
 ### (art. 8 LPP)
 
-<sup>1</sup> Per le persone che sottostanno all’assicurazione obbligatoria ai sensi dell’articolo 2 LPP e che percepiscono da un datore di lavoro un salario determinante AVS superiore a 22 050 franchi, deve essere assicurato un importo di almeno 3675 franchi.[^3a-2]
+<sup>1</sup> Per le persone che sottostanno all’assicurazione obbligatoria ai sensi dell’articolo 2 LPP e che percepiscono da un datore di lavoro un salario determinante AVS superiore a 22 680 franchi, deve essere assicurato un importo di almeno 3780 franchi.[^3a-2]
 
 <sup>2</sup> Il salario minimo assicurato secondo il capoverso 1 vale anche per l’assicurazione obbligatoria di persone per le quali gli importi limite sono ridotti conformemente all’articolo 4.
 
-[^3a-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
+[^3a-1]: Introdotto dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^3a-2]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
 
 #### Art. 4
 
@@ -291,13 +291,13 @@ Gli importi limite di cui agli articoli 2, 7, 8 e 46 LPP sono aumentati come seg
 
 <table>
 <tr><th>Importi precedenti in fr.</th><th>Nuovi importi in fr.</th></tr>
-<tr><td>21 510</td><td>22 050</td></tr>
-<tr><td>25 095</td><td>25 725</td></tr>
-<tr><td>86 040</td><td>88 200</td></tr>
-<tr><td>3 585</td><td>3675</td></tr>
+<tr><td>22 050</td><td>22 680</td></tr>
+<tr><td>25 725</td><td>26 460</td></tr>
+<tr><td>88 200</td><td>90 720</td></tr>
+<tr><td>3 675</td><td>3 780</td></tr>
 </table>
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
 
 #### Art. 6
 
@@ -328,7 +328,7 @@ Gli importi limite di cui agli articoli 2, 7, 8 e 46 LPP sono aumentati come seg
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^8-1]: Abrogato dalla cifra I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 9
 
@@ -348,11 +348,11 @@ Gli importi limite di cui agli articoli 2, 7, 8 e 46 LPP sono aumentati come seg
 
 <sup>5</sup> Il fondo di garanzia versa alle casse di compensazione dell’AVS un’indennità di 9 franchi per ogni caso esaminato nell’ambito della verifica dell’affiliazione dei datori di lavoro ad esse assoggettati (art. 11 cpv. 4 LPP). Entro il 31 marzo dell’anno successivo, le casse di compensazione dell’AVS annunciano al fondo di garanzia i controlli da esse effettuati mediante il formulario prescritto dall’UFAS[^9-4].[^9-5]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^9-4]: Nuova espr. giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^9-5]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^9-4]: Nuova espr. giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^9-5]: Introdotto dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 10
 
@@ -362,7 +362,7 @@ Gli importi limite di cui agli articoli 2, 7, 8 e 46 LPP sono aumentati come seg
 
 Il datore di lavoro deve annunciare all’istituto di previdenza tutti i salariati sottoposti all’assicurazione obbligatoria e fornire le indicazioni necessarie alla tenuta dei conti di vecchiaia e al calcolo dei contributi. Deve inoltre fornire all’ufficio di revisione tutte le informazioni di cui quest’ultimo necessita per il disbrigo delle proprie incombenze.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 ### Sezione 3: Conti individuali di vecchiaia e prestazioni di libero passaggio
 
@@ -396,7 +396,7 @@ Se l’assicurato entra nell’istituto di previdenza nel corso dell’anno, all
 - b. l’interesse sull’importo dell’avere di vecchiaia trasferito, calcolato dal giorno di pagamento della prestazione di libero passaggio;
 - c. gli accrediti di vecchiaia senza interessi per la frazione d’anno in cui l’assicurato ha fatto parte dell’istituto di previdenza.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° lug. 1997 ([RU 1996 3452](https://fedlex.data.admin.ch/eli/oc/1996/3452_3452_3452)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 1996, in vigore dal 1° lug. 1997 ([RU 1996 3452](https://fedlex.data.admin.ch/eli/oc/1996/3452_3452_3452)).
 
 #### Art. 12
 
@@ -418,23 +418,23 @@ Sull’avere di vecchiaia si corrisponde un interesse minimo:
 - j.[^12-10] j. per il periodo a partire dal 1° gennaio 2017 fino al 31 dicembre 2023: dell’1 per cento al minimo;
 - k.[^12-11] per il periodo a partire dal 1° gennaio 2024: dell’1,25 per cento al minimo.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)).
-[^12-3]: Introdotta dal n. I dell’O del 10 set.. 2003 ([RU 2003 3523](https://fedlex.data.admin.ch/eli/oc/2003/501)). Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)).
-[^12-4]: Introdotta dal n. I dell’O del 1° set. 2004 ([RU 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)). Nuovo testo giusta il n. I dell’O del 5 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4441](https://fedlex.data.admin.ch/eli/oc/2007/617)).
-[^12-5]: Introdotta dal n. I dell’O del 5 set. 2007 ([RU 2007 4441](https://fedlex.data.admin.ch/eli/oc/2007/617)). Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5189](https://fedlex.data.admin.ch/eli/oc/2008/728)).
-[^12-6]: Introdotta dal n. I dell’O del 22 ott. 2008 ([RU 2008 5189](https://fedlex.data.admin.ch/eli/oc/2008/728)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5035](https://fedlex.data.admin.ch/eli/oc/2011/737)).
-[^12-7]: Introdotta dal n. I dell’O del 2 nov. 2011 ([RU 2011 5035](https://fedlex.data.admin.ch/eli/oc/2011/737)). Nuovo testo giusta il n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)).
-[^12-8]: Introdotta dal n. I dell’O del 30 ott. 2013 ([RU 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)). Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)).
-[^12-9]: Introdotta dal n. I dell’O del 28 ott. 2015 ([RU 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)). Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
-[^12-10]: Introdotta dal n. I dell’O del 26 ott. 2016 ([RU 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)). Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
-[^12-11]: Introdotta dal n. I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 1° set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)).
+[^12-3]: Introdotta dalla cifra I dell’O del 10 set.. 2003 ([RU 2003 3523](https://fedlex.data.admin.ch/eli/oc/2003/501)). Nuovo testo giusta la cifra I dell’O del 1° set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)).
+[^12-4]: Introdotta dalla cifra I dell’O del 1° set. 2004 ([RU 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)). Nuovo testo giusta la cifra I dell’O del 5 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4441](https://fedlex.data.admin.ch/eli/oc/2007/617)).
+[^12-5]: Introdotta dalla cifra I dell’O del 5 set. 2007 ([RU 2007 4441](https://fedlex.data.admin.ch/eli/oc/2007/617)). Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5189](https://fedlex.data.admin.ch/eli/oc/2008/728)).
+[^12-6]: Introdotta dalla cifra I dell’O del 22 ott. 2008 ([RU 2008 5189](https://fedlex.data.admin.ch/eli/oc/2008/728)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5035](https://fedlex.data.admin.ch/eli/oc/2011/737)).
+[^12-7]: Introdotta dalla cifra I dell’O del 2 nov. 2011 ([RU 2011 5035](https://fedlex.data.admin.ch/eli/oc/2011/737)). Nuovo testo giusta la cifra I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)).
+[^12-8]: Introdotta dalla cifra I dell’O del 30 ott. 2013 ([RU 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)). Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)).
+[^12-9]: Introdotta dalla cifra I dell’O del 28 ott. 2015 ([RU 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)). Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
+[^12-10]: Introdotta dalla cifra I dell’O del 26 ott. 2016 ([RU 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
+[^12-11]: Introdotta dalla cifra I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
 
 #### Art. 12a e 12b
 
 [^12a12b-1]
 
-[^12a12b-1]: Introdotti dal n. I dell’O del 23 ott. 2002 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)). Abrogati dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^12a12b-1]: Introdotti dalla cifra I dell’O del 23 ott. 2002 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)). Abrogati dalla cifra I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 13
 
@@ -461,7 +461,7 @@ L’età determinante il tasso applicabile al calcolo degli accrediti di vecchia
 <sup>4</sup> Se il diritto a una rendita d’invalidità si estingue in seguito a scomparsa dell’invalidità, l’assicurato ha diritto a una prestazione di libero passaggio il cui importo corrisponde al suo avere di vecchiaia.
 
 [^14-1]: Vedi anche le disp. fin. della mod. del 18 ago. 2004 alla fine del presente testo.
-[^14-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° lug. 1997 ([RU 1996 3452](https://fedlex.data.admin.ch/eli/oc/1996/3452_3452_3452)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 9 dic. 1996, in vigore dal 1° lug. 1997 ([RU 1996 3452](https://fedlex.data.admin.ch/eli/oc/1996/3452_3452_3452)).
 [^14-3]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 15
@@ -474,7 +474,7 @@ L’età determinante il tasso applicabile al calcolo degli accrediti di vecchia
 
 <sup>2</sup> La parte dell’avere di vecchiaia fondata sull’invalidità parziale deve essere trattata secondo l’articolo 14. L’avere di vecchiaia fondato su un’attività lucrativa continuata è equiparato all’avere di vecchiaia di un assicurato che esercita un’attività lucrativa a tempo pieno ed è trattato, in caso di fine del rapporto di lavoro, secondo gli articoli 3–5 LFLP.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^15-2]: Nuovo testo giusta l’all. n. 3 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 15a
@@ -493,7 +493,7 @@ L’istituto di previdenza o di libero passaggio determina la quota dell’avere
 
 <sup>2</sup> Al momento del trasferimento della prestazione di libero passaggio a un nuovo istituto di previdenza o di libero passaggio, il precedente istituto di previdenza o di libero passaggio comunica al nuovo istituto i dati di cui al capoverso 1. Se omette di farlo, il nuovo istituto gli chiede di comunicarglieli.
 
-[^15a-1]: Introdotto dal n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 #### Art. 15b
 
@@ -505,7 +505,7 @@ L’istituto di previdenza o di libero passaggio determina la quota dell’avere
 
 <sup>2</sup> L’avere di vecchiaia non può essere accertato se i precedenti istituti e il nuovo istituto non dispongono dei dati necessari.
 
-[^15b-1]: Introdotto dal n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^15b-1]: Introdotto dalla cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 #### Art. 16
 
@@ -517,14 +517,14 @@ L’istituto di previdenza o di libero passaggio determina la quota dell’avere
 
 <sup>2</sup> Nella remunerazione di un istituto di libero passaggio, gli interessi sono accreditati all’avere di vecchiaia e al rimanente avere di previdenza in modo proporzionale. I proventi e le perdite derivanti dal risparmio in titoli di cui all’articolo 13 capoverso 5 dell’ordinanza del 3 ottobre 1994[^16-2] sul libero passaggio (OLP) sono ripartiti parimenti in modo proporzionale sull’avere di vecchiaia e sul rimanente avere di previdenza.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 [^16-2]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
 
 ### Sezione 3*a*: Scioglimento dei contratti
 
 [^chap1a-sec3a-1]
 
-[^chap1a-sec3a-1]: Introdotta dal n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
+[^chap1a-sec3a-1]: Introdotta dalla cifra I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 
 #### Art. 16a
 
@@ -534,7 +534,7 @@ L’istituto di previdenza o di libero passaggio determina la quota dell’avere
 
 <sup>1</sup> In caso di scioglimento dei contratti tra gli istituti di assicurazione e gli istituti di previdenza che soggiacciono alla LFLP, la riserva matematica corrisponde all’importo che l’istituto di assicurazione esigerebbe dall’istituto di previdenza per concludere un nuovo contratto concernente lo stesso effettivo di assicurati e di titolari di rendite nello stesso momento e per le stesse prestazioni. Le spese derivanti dalla conclusione di un nuovo contratto non sono conteggiate. Il tasso d’interesse tecnico corrisponde al massimo al tasso più elevato secondo l’articolo 8 OLP[^16a-1].
 
-<sup>2</sup> Gli istituti di assicurazione operanti nel settore della previdenza professionale regolano il calcolo della riserva matematica conformemente al capoverso 1 e sottopongono il suo disciplinamento all’approvazione dell'Autorità federale di vigilanza dei mercati finanziari[^16a-2].
+<sup>2</sup> Gli istituti di assicurazione operanti nel settore della previdenza professionale regolano il calcolo della riserva matematica conformemente al capoverso 1 e sottopongono il suo disciplinamento all’approvazione dell’Autorità federale di vigilanza dei mercati finanziari[^16a-2].
 
 <sup>3</sup> L’istituto di previdenza che trasferisce beneficiari di rendite a un altro istituto di previdenza comunica a quest’ultimo ogni informazione necessaria al calcolo e al versamento delle prestazioni.
 
@@ -616,7 +616,7 @@ Un effettivo è considerato finanziato in misura sufficiente se il patrimonio di
 <sup>3</sup> Se durante l’anno precedente l’insorgenza dell’evento assicurato, l’interessato non ha fruito completamente della sua capacità di guadagno a causa di malattia, infortunio o per altri motivi analoghi, il salario coordinato è calcolato in base a un salario corrispondente a una capacità di guadagno completa.
 
 [^18-1]: Vedi anche le disp. fin. della mod. del 18 ago. 2004 alla fine del presente testo.
-[^18-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 19
 
@@ -630,7 +630,7 @@ Un effettivo è considerato finanziato in misura sufficiente se il patrimonio di
 
 <sup>3</sup> La riduzione è calcolata secondo le disposizioni regolamentari applicabili per il calcolo della rendita d’invalidità. Il momento determinante per il calcolo della riduzione è quello del promovimento della procedura di divorzio.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 #### Art. 20
 
@@ -656,7 +656,7 @@ In caso di morte dell’ex partner registrato, l’ex partner registrato superst
 
 <sup>4</sup> Le prestazioni per i superstiti dell’istituto di previdenza possono essere ridotte se, sommate alle prestazioni per i superstiti dell’AVS, superano le pretese derivanti dalla sentenza di divorzio o di scioglimento dell’unione domestica registrata; la riduzione è limitata all’importo eccedente. A tale riguardo, le rendite per i superstiti dell’AVS sono conteggiate soltanto nella misura in cui siano superiori a un proprio diritto a una rendita d’invalidità dell’AI o a una rendita di vecchiaia dell’AVS.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 [^20-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
 #### Art. 20a
@@ -667,7 +667,7 @@ In caso di morte dell’ex partner registrato, l’ex partner registrato superst
 
 I contributi versati dall’assicurato secondo l’articolo 20*a* capoverso 1 lettera c LPP comprendono anche le somme di acquisto da esso versate.
 
-[^20a-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 ### Sezione 5: …
 
@@ -675,7 +675,7 @@ I contributi versati dall’assicurato secondo l’articolo 20*a* capoverso 1 le
 
 [^2123-1]
 
-[^2123-1]: Abrogati dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^2123-1]: Abrogati dalla cifra I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 ### Sezione 6: Coordinamento con altre prestazioni e altri redditi
 
@@ -760,20 +760,20 @@ Se l’assicurato ha raggiunto l’età di riferimento, l’istituto di previden
 
 ### (art. 34*a* LPP)
 
-<sup>1</sup> ...[^25-3]
+<sup>1</sup> …[^25-3]
 
 <sup>2</sup> L’istituto di previdenza non è tenuto a compensare il rifiuto o la riduzione di prestazioni dell’assicurazione contro gli infortuni o dell’assicurazione militare se queste assicurazioni hanno ridotto o rifiutato prestazioni fondandosi sugli articoli 21 della legge federale del 6 ottobre 2000[^25-4] sulla parte generale del diritto delle assicurazioni sociali (LPGA), 37 e 39 della LAINF[^25-5], o 65 e 66 LAM[^25-6].[^25-7]
 
 <sup>3</sup> …[^25-8]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 1992, in vigore dal 1° gen. 1993 ([RU 1992 2234](https://fedlex.data.admin.ch/eli/oc/1992/2234_2234_2234)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 1992, in vigore dal 1° gen. 1993 ([RU 1992 2234](https://fedlex.data.admin.ch/eli/oc/1992/2234_2234_2234)).
 [^25-2]: Nuovo testo giusta l’all. n. 1 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^25-3]: Abrogato dall’all. n. 1 dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^25-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-5]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^25-6]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^25-7]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^25-8]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^25-7]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^25-8]: Abrogato dalla cifra I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 26
 
@@ -789,7 +789,7 @@ L’istituto di previdenza può differire il diritto a prestazioni d’invalidit
 - b. se le indennità giornaliere sono state finanziate almeno per la metà dal datore di lavoro.
 
 [^26-1]: Originario art. 27.
-[^26-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3729](https://fedlex.data.admin.ch/eli/oc/2002/579)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3729](https://fedlex.data.admin.ch/eli/oc/2002/579)).
 
 #### Art. 26a
 
@@ -803,7 +803,7 @@ L’istituto di previdenza può differire il diritto a prestazioni d’invalidit
 
 <sup>2</sup> Tale importo può tuttavia essere utilizzato per il conguaglio della previdenza professionale se, in assenza di rendite per i figli, la rendita d’invalidità non è ridotta.
 
-[^26a-1]: Originario art. 25*a*. Introdotto dal n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^26a-1]: Originario art. 25*a*. Introdotto dalla cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 [^26a-2]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^26a-3]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -829,7 +829,7 @@ Se la rendita d’invalidità ridotta è inferiore alla parte di rendita assegna
 
 <sup>4</sup> Se una parte di rendita assegnata è oggetto di compensazione conformemente all’articolo 124*c* CC, per l’applicazione dei capoversi 2 e 3 è determinante la differenza tra le pretese reciproche dei coniugi.
 
-[^26b-1]: Originario art. 25*b*. Introdotto dal n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^26b-1]: Originario art. 25*b*. Introdotto dalla cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 [^26b-2]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^26b-3]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -837,7 +837,7 @@ Se la rendita d’invalidità ridotta è inferiore alla parte di rendita assegna
 
 [^chap1a-sec7-1]
 
-[^chap1a-sec7-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap1a-sec7-1]: Introdotta dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 27
 
@@ -892,8 +892,8 @@ Sono segnatamente prestazioni di uguale natura:
 
 <sup>3</sup> La limitazione del diritto di regresso dell’istituto di previdenza vien meno se e per quanto la persona contro cui è esercitato il regresso è assicurata obbligatoriamente per la responsabilità civile.[^27c-2]
 
-[^27c-1]: Nuovo testo giusta il n. I 3 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^27c-2]: Introdotto dal n. II 4 dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^27c-1]: Nuovo testo giusta la cifra I 3 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^27c-2]: Introdotto dalla cifra II 4 dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
 #### Art. 27d
 
@@ -935,7 +935,7 @@ Se al regresso partecipano più assicuratori, essi designano un unico rappresent
 
 [^chap1a-sec8-1]
 
-[^chap1a-sec8-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap1a-sec8-1]: Introdotta dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 27g
 
@@ -954,10 +954,10 @@ Se al regresso partecipano più assicuratori, essi designano un unico rappresent
 <sup>3</sup> I disavanzi tecnici sono determinati secondo l’articolo 44. Un’eventuale deduzione di un disavanzo tecnico si opera individualmente sulla prestazione d’uscita. Se la prestazione d’uscita è già stata versata senza diminuzioni, l’assicurato deve restituire l’importo corrispondente alla deduzione.
 
 [^27g-1]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giugno 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^27g-2]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^27g-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^27g-4]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)) Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^27g-5]: Nuovo testo giusta il n. I dell’O del 1° apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
+[^27g-2]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^27g-3]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^27g-4]: Introdotto dalla cifra I dell’O del 27 ott. 2004 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)) Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^27g-5]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
 #### Art. 27h
 
@@ -975,14 +975,14 @@ Se al regresso partecipano più assicuratori, essi designano un unico rappresent
 
 <sup>5</sup> Il diritto collettivo su accantonamenti e riserve di fluttuazione non sussiste se la liquidazione parziale o totale dell’istituto di previdenza è stata causata dal gruppo che esce collettivamente.
 
-[^27h-1]: Nuovo testo giusta il n. I dell’O del 1° apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
-[^27h-2]: Nuovo testo giusta il n. I dell’O del 1° apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
+[^27h-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
+[^27h-2]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
 ### Sezione 9: Conservazione di documenti relativi alla previdenza
 
 [^chap1a-sec9-1]
 
-[^chap1a-sec9-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap1a-sec9-1]: Introdotta dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 27i
 
@@ -1004,9 +1004,9 @@ Gli istituti di previdenza e gli istituti che gestiscono i conti o le polizze di
 
 <sup>2</sup> I documenti possono essere conservati su supporti non cartacei a condizione, tuttavia, che rimangano sempre leggibili.
 
-[^27i-1]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^27i-2]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^27i-3]: Nuovo testo giusta il n. I 3 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^27i-1]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^27i-2]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^27i-3]: Nuovo testo giusta la cifra I n. 3 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 27j
 
@@ -1097,7 +1097,7 @@ Alla fine dell’anno civile, l’istituto di previdenza consegna all’assicura
 
 [^chap3-sec1-1]
 
-[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^chap3-sec1-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 ### (art. 51 e 51*a* LPP)
 
@@ -1109,7 +1109,7 @@ L’organo supremo di un istituto di previdenza deve contare almeno quattro memb
 
 [^chap3-sec2-1]
 
-[^chap3-sec2-1]: Tit. introdotto dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^chap3-sec2-1]: Introdotto dalla cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 34
 
@@ -1133,7 +1133,7 @@ Sono incompatibili con l’indipendenza in particolare:
 
 <sup>3</sup> Le disposizioni concernenti l’indipendenza si applicano a tutte le persone partecipanti alla revisione. Se l’ufficio di revisione è una società di persone o una persona giuridica, le disposizioni concernenti l’indipendenza si applicano anche ai membri dell’organo superiore di direzione o amministrazione e ad altre persone con funzione decisionale.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 35
 
@@ -1147,7 +1147,7 @@ Sono incompatibili con l’indipendenza in particolare:
 
 <sup>3</sup> Qualora la gestione, l’amministrazione o l’amministrazione del patrimonio di un istituto di previdenza sia interamente o parzialmente delegata a terzi, l’ufficio di revisione esamina debitamente anche l’attività di questi ultimi.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 35a
 
@@ -1169,10 +1169,10 @@ Nel suo rapporto annuale, l’ufficio di revisione indica in particolare:[^35a-4
 
 <sup>3</sup> L’ufficio di controllo segnala all’organo paritetico supremo le lacune rilevate nel programma di misure.
 
-[^35a-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^35a-2]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^35a-3]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^35a-4]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^35a-1]: Introdotto dalla cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^35a-2]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^35a-3]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^35a-4]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 36
 
@@ -1192,32 +1192,32 @@ L’ufficio di revisione è tenuto a informare senza indugio l’autorità di vi
 - b. il suo mandato scade; o
 - c. gli è stata revocata l’abilitazione ai sensi della legge del 16 dicembre 2005[^36-2] sui revisori.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^36-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### Sezione 3: Perito in materia di previdenza professionale
 
 [^chap3-sec3-1]
 
-[^chap3-sec3-1]: Originaria Sez. 2. Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^chap3-sec3-1]: Originaria Sez. 2. Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 37
 
 [^37-1]
 
-[^37-1]: Abrogato dal n. I dell’O del 10 e 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^37-1]: Abrogato dalla cifra I dell’O del 10 e 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 38
 
 [^38-1]
 
-[^38-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^38-1]: Abrogato dalla cifra I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 39
 
 [^39-1]
 
-[^39-1]: Abrogato dal n. I dell’O del 10 e 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^39-1]: Abrogato dalla cifra I dell’O del 10 e 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 40
 
@@ -1241,7 +1241,7 @@ Sono incompatibili con l’indipendenza in particolare:
 
 <sup>3</sup> Le disposizioni concernenti l’indipendenza si applicano a tutte le persone partecipanti alla verifica. Se il perito è una società di persone o una persona giuridica, le disposizioni concernenti l’indipendenza si applicano anche ai membri dell’organo superiore di direzione o amministrazione e ad altre persone con funzione decisionale.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 41
 
@@ -1253,7 +1253,7 @@ Sono incompatibili con l’indipendenza in particolare:
 
 Esplicando il suo mandato, il perito deve conformarsi alle direttive dell’autorità di vigilanza. È tenuto ad informare senza indugio l’autorità di vigilanza se la situazione dell’istituto di previdenza richiede un intervento rapido o se il suo mandato scade.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 41a
 
@@ -1269,8 +1269,8 @@ Esplicando il suo mandato, il perito deve conformarsi alle direttive dell’auto
 
 <sup>3</sup> Il perito fa rapporto all’autorità di vigilanza, se un istituto di previdenza non adotta misure o se le misure prese non bastano a riassorbire l’importo scoperto.
 
-[^41a-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^41a-2]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^41a-1]: Introdotto dalla cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^41a-2]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 ## Capitolo 4: Finanziamento
 
@@ -1303,7 +1303,7 @@ Un istituto di previdenza che vuole assumersi la copertura dei rischi deve adott
 
 <sup>4</sup> Se la misura di sicurezza supplementare consiste in una riserva supplementare, questa dev’essere contabilizzata separatamente.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
 
 #### Art. 44
 
@@ -1325,9 +1325,9 @@ Gli istituti di previdenza gestiti secondo il sistema della capitalizzazione int
 
 <sup>3</sup> Se l’interesse applicato è inferiore a quello minimo di cui all’articolo 65*d* capoverso 4 LPP, l’istituto di previdenza deve inoltre dimostrare che le misure ai sensi dell’articolo 65*d* capoverso 3 lettere a e b LPP non bastano a riassorbire l’importo scoperto.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^44-2]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^44-3]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^44-2]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^44-3]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 44a
 
@@ -1343,7 +1343,7 @@ Gli istituti di previdenza gestiti secondo il sistema della capitalizzazione int
 
 <sup>4</sup> Se esiste una RCDL con rinuncia all’utilizzazione, il perito calcola il grado di copertura con e senza l’attribuzione di questa riserva al patrimonio disponibile.
 
-[^44a-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^44a-1]: Introdotto dalla cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 
 #### Art. 44b
 
@@ -1355,19 +1355,19 @@ Gli istituti di previdenza gestiti secondo il sistema della capitalizzazione int
 
 <sup>2</sup> In caso di liquidazione parziale dell’istituto di previdenza insufficientemente coperto, la RCDL con rinuncia all’utilizzazione va sciolta a favore degli aventi diritto nella misura in cui si riferisce al capitale previdenziale scoperto da trasferire.
 
-[^44b-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^44b-1]: Introdotto dalla cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 
 #### Art. 44c
 
 [^44c-1]
 
-[^44c-1]: Originario art. 44*a*. Introdotto dal n. I dell’O del 23 ott. 2002 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)). Abrogato dal n. I dell’O del 10 e 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^44c-1]: Originario art. 44*a*. Introdotto dalla cifra I dell’O del 23 ott. 2002 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)). Abrogato dalla cifra I dell’O del 10 e 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 45
 
 [^45-1]
 
-[^45-1]: Abrogato dal n. I dell’O del 10 e 22 giu. 2011, con effetto dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^45-1]: Abrogato dalla cifra I dell’O del 10 e 22 giu. 2011, con effetto dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 46
 
@@ -1386,13 +1386,13 @@ Nel caso in cui le riserve di fluttuazione non siano state interamente alimentat
 
 <sup>3</sup> Questa disposizione non si applica agli istituti di previdenza di associazioni e agli istituti di previdenza che assicurano più datori di lavoro in strette relazioni economiche o finanziarie.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 ### Sezione 2: Contabilità e rendiconto
 
 [^chap4-sec2-1]
 
-[^chap4-sec2-1]: Nuovo testo giusta il n. I dell’O del 24 apr. 1996, in vigore dal 1° lug. 1996 ([RU 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)).
+[^chap4-sec2-1]: Nuovo testo giusta la cifra I dell’O del 24 apr. 1996, in vigore dal 1° lug. 1996 ([RU 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)).
 
 #### Art. 47
 
@@ -1410,13 +1410,13 @@ Nel caso in cui le riserve di fluttuazione non siano state interamente alimentat
 
 <sup>4</sup> Si applicano inoltre gli articoli 957*a*, 958 capoverso 3, 958*c* capoversi 1 e 2 nonché 958*f* del Codice delle obbligazioni[^47-6], relativi alla contabilità commerciale.[^47-7]
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 24 apr. 1996, in vigore dal 1° lug. 1996 ([RU 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)).
-[^47-2]: Nuovo testo giusta il n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^47-3]: Nuovo testo giusta il n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 24 apr. 1996, in vigore dal 1° lug. 1996 ([RU 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)).
+[^47-2]: Nuovo testo giusta la cifra I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
+[^47-3]: Nuovo testo giusta la cifra I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 [^47-4]: Indirizzo per l’ordinazione: Verlag SKV, Hans Huber-Strasse 4, Casella postale 687, 8027 Zurigo; www.verlagskv.ch
-[^47-5]: Nuovo testo giusta il n. I dell’O del 13 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4143](https://fedlex.data.admin.ch/eli/oc/2013/764)).
+[^47-5]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4143](https://fedlex.data.admin.ch/eli/oc/2013/764)).
 [^47-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^47-7]: Nuovo testo giusta il n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^47-7]: Nuovo testo giusta la cifra I n. 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 #### Art. 48
 
@@ -1449,17 +1449,17 @@ Nel conto d’esercizio sono indicate le spese di amministrazione seguenti:
 
 <sup>3</sup> Qualora per uno o più investimenti le spese di amministrazione del patrimonio non possano essere indicate, l’entità del corrispondente patrimonio investito deve figurare separatamente nell’allegato al conto annuale. Ogni singolo investimento recherà menzione dell’ISIN (*International Securities Identification Number*), dell’offerente, della denominazione del prodotto, della quantità e del valore di mercato al termine fissato. L’organo supremo analizza annualmente la ponderazione e decide in merito alla continuazione di questa politica d’investimento.[^48a-5]
 
-[^48a-1]: Introdotto dal n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^48a-2]: Introdotta dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^48a-3]: Introdotta dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^48a-4]: Introdotta dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^48a-5]: Introdotto dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^48a-1]: Introdotto dalla cifra I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
+[^48a-2]: Introdotta dalla cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^48a-3]: Introdotta dalla cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^48a-4]: Introdotta dalla cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^48a-5]: Introdotto dalla cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 ### Sezione 2*a*: Trasparenza
 
 [^chap4-sec2a-1]
 
-[^chap4-sec2a-1]: Introdotta dal n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
+[^chap4-sec2a-1]: Introdotta dalla cifra I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 
 #### Art. 48b
 
@@ -1482,7 +1482,7 @@ Devono inoltre informare ogni cassa pensioni affiliata in merito a:
 - b. la chiave di ripartizione applicata in seno all’istituto collettivo;
 - c. la quota di eccedenze spettante alla cassa pensioni affiliata.
 
-[^48b-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^48b-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 48c
 
@@ -1494,13 +1494,13 @@ Devono inoltre informare ogni cassa pensioni affiliata in merito a:
 
 <sup>2</sup> La commissione di previdenza comunica per scritto agli assicurati che ne fanno richiesta le informazioni concernenti la cassa pensioni affiliata.
 
-[^48c-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^48c-1]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 48d
 
 [^48d-1]
 
-[^48d-1]: Abrogato dal n. I dell’O del 10 e 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^48d-1]: Abrogato dalla cifra I dell’O del 10 e 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 48e
 
@@ -1510,13 +1510,13 @@ Devono inoltre informare ogni cassa pensioni affiliata in merito a:
 
 L’istituto di previdenza stabilisce in un regolamento le norme per costituire accantonamenti e riserve di fluttuazione. A tal fine deve osservare il principio della continuità.
 
-[^48e-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^48e-1]: Introdotto dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 ### Sezione 2*b*: Integrità e lealtà dei responsabili
 
 [^chap4-sec2b-1]
 
-[^chap4-sec2b-1]: Introdotta dal n. I dell’O del 18 ago. 2004 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)). Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^chap4-sec2b-1]: Introdotta dalla cifra I dell’O del 18 ago. 2004 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)). Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 48f
 
@@ -1545,17 +1545,17 @@ Possono essere incaricate di amministrare il patrimonio soltanto le persone o is
 - i.[^48f-7] i datori di lavoro che amministrano il patrimonio del loro istituto di previdenza;
 - j.[^48f-8] le associazioni di datori di lavoro e le associazioni di salariati che amministrano il patrimonio dell’istituto di previdenza della loro associazione.
 
-<sup>5</sup> <sup>a</sup> <sup>7</sup> ...[^48f-9]
+<sup>5</sup> a <sup>7</sup> …[^48f-9]
 
-[^48f-1]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1349](https://fedlex.data.admin.ch/eli/oc/2013/317)).
+[^48f-1]: Nuovo testo giusta la cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1349](https://fedlex.data.admin.ch/eli/oc/2013/317)).
 [^48f-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^48f-3]: Nuovo testo giusta l’all. 1 n. II 7 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^48f-3]: Nuovo testo giusta l’all. 1 cifra II n. 7 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^48f-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^48f-5]: Nuovo testo giusta l’all. 1 n. II 7 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^48f-5]: Nuovo testo giusta l’all. 1 cifra II n. 7 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^48f-6]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^48f-7]: Introdotta dall’all. 1 n. II 7 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^48f-8]: Introdotta dall’all. 1 n. II 7 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^48f-9]: Abrogati dall’all. 1 n. II 7 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^48f-7]: Introdotta dall’all. 1 cifra II n. 7 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^48f-8]: Introdotta dall’all. 1 cifra II n. 7 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^48f-9]: Abrogati dall’all. 1 cifra II n. 7 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 48g
 
@@ -1595,8 +1595,6 @@ Possono essere incaricate di amministrare il patrimonio soltanto le persone o is
 
 ### (art. 53*a* lett. a LPP)
 
-<sup>1</sup>
-
 Le persone e le istituzioni incaricate di amministrare il patrimonio devono agire nell’interesse dell’istituto. In particolare, non sono autorizzate a:
 
 - a. sfruttare la conoscenza di mandati dell’istituto per effettuare in anticipo, parallelamente o subito dopo le medesime transazioni per conto proprio (*front/parallel/after running*);
@@ -1635,8 +1633,8 @@ Le persone e le istituzioni incaricate di amministrare il patrimonio devono agir
 
 <sup>2</sup> I valori di riscatto dei contratti d’assicurazione collettiva possono pure essere conglobati nel patrimonio.[^49-2]
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^49-2]: Nuovo testo giusta il n. I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^49-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 
 #### Art. 49a
 
@@ -1657,8 +1655,8 @@ L’organo superiore ha in particolare i seguenti compiti:
 
 <sup>3</sup> Nell’emanare le prescrizioni di cui al capoverso 2 lettere c e d, può riferirsi a norme e regole di organizzazioni e associazioni generalmente riconosciute.
 
-[^49a-1]: Introdotto dal n. I dell’O del 24 apr. 1996 ([RU 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)). Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^49a-2]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^49a-1]: Introdotto dalla cifra I dell’O del 24 apr. 1996 ([RU 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)). Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^49a-2]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 50
 
@@ -1680,14 +1678,14 @@ L’organo superiore ha in particolare i seguenti compiti:
 
 <sup>6</sup> L’osservanza degli articoli 53–57 non esime dall’obbligo di rispettare le prescrizioni dei capoversi 1–3. Questo non si applica agli investimenti secondo l’articolo 54 capoverso 2 lettere c e d.[^50-8]
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 20 mar. 2000, in vigore dal 1° apr. 2000 ([RU 2000 1265](https://fedlex.data.admin.ch/eli/oc/2000/204)).
-[^50-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^50-3]: Nuovo testo giusta il n. I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
-[^50-4]: Nuovo testo giusta il n. I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
-[^50-5]: Introdotto dal n. I dell’O del 19 set. 2008 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)). Nuovo testo giusta il n. I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
-[^50-6]: Introdotto dal n. I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
-[^50-7]: Introdotto dal n. I dell’O del 19 set. 2008 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)). Nuovo testo giusta il n. I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
-[^50-8]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 20 mar. 2000, in vigore dal 1° apr. 2000 ([RU 2000 1265](https://fedlex.data.admin.ch/eli/oc/2000/204)).
+[^50-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^50-3]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
+[^50-4]: Nuovo testo giusta la cifra I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
+[^50-5]: Introdotto dalla cifra I dell’O del 19 set. 2008 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)). Nuovo testo giusta la cifra I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
+[^50-6]: Introdotto dalla cifra I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
+[^50-7]: Introdotto dalla cifra I dell’O del 19 set. 2008 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)). Nuovo testo giusta la cifra I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
+[^50-8]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 
 #### Art. 51
 
@@ -1768,15 +1766,15 @@ I crediti non elencati al capoverso 1 lettera b, d<sup>bis</sup> o d<sup>ter</su
 
 <sup>6</sup> La legge del 23 giugno 2006[^53-10] sugli investimenti collettivi e le relative disposizioni d’esecuzione si applicano per analogia ai prestiti di valori mobiliari e alle operazioni di pensione. Le operazioni di pensione in cui l’istituto di previdenza agisce quale cedente non sono ammesse.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
-[^53-2]: Introdotta dal n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-3]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
-[^53-4]: Nuovo testo giusta il n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-5]: Per. introdotto dal n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)). Nuovo testo del per. giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
-[^53-6]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
-[^53-7]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
-[^53-8]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
-[^53-9]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
+[^53-2]: Introdotta dalla cifra I n. 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^53-3]: Introdotta dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-4]: Nuovo testo giusta la cifra I n. 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^53-5]: Per. introdotto dalla cifra I n. 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)). Nuovo testo del per. giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-6]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-7]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-8]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-9]: Introdotta dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 [^53-10]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 53a
@@ -1794,7 +1792,7 @@ Sono considerati a basso rischio gli investimenti seguenti:
 
 <sup>2</sup> La durata media di tutti i crediti non può superare i cinque anni. I derivati sono ammessi unicamente a copertura di crediti in valuta estera.
 
-[^53a-1]: Introdotto dal n. I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^53a-1]: Introdotto dalla cifra I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 54
 
@@ -1815,7 +1813,7 @@ Il limite massimo stabilito nel capoverso 1 può essere superato per i crediti s
 
 <sup>3</sup> I capoversi 1 e 2 si applicano anche in caso di prodotti derivati, quali prodotti strutturati o certificati.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 
 #### Art. 54a
 
@@ -1825,7 +1823,7 @@ Il limite massimo stabilito nel capoverso 1 può essere superato per i crediti s
 
 Gli investimenti in partecipazioni secondo l’articolo 53 capoverso 1 lettera d non possono superare, per ogni società, il 5 per cento del patrimonio totale.
 
-[^54a-1]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^54a-1]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 
 #### Art. 54b
 
@@ -1839,8 +1837,8 @@ Gli investimenti in partecipazioni secondo l’articolo 53 capoverso 1 lettera d
 
 <sup>3</sup> Un istituto di previdenza che propone diverse strategie nell’ambito di uno stesso piano di previdenza non può costituire in pegno immobili.[^54b-2]
 
-[^54b-1]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^54b-2]: Introdotto dal n. I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
+[^54b-1]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^54b-2]: Introdotto dalla cifra I dell’O del 30 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
 
 #### Art. 55
 
@@ -1858,10 +1856,10 @@ Alle singole categorie d’investimento si applicano i seguenti limiti riferiti 
 - f.[^55-3] 10 per cento: per gli investimenti in infrastrutture;
 - g.[^55-4] 5 per cento: per gli investimenti di cui all’articolo 53 capoverso 1 lettera d<sup>ter</sup>.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^55-2]: Nuovo testo giusta il n. I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
-[^55-3]: Introdotta dal n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^55-4]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^55-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
+[^55-3]: Introdotta dalla cifra I n. 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^55-4]: Introdotta dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 
 #### Art. 56
 
@@ -1888,10 +1886,10 @@ Le quote di investimenti diretti comprese negli investimenti collettivi si aggiu
 
 <sup>4</sup> Le partecipazioni a investimenti collettivi sono equiparate agli investimenti diretti quando esse adempiono le condizioni dei capoversi 2 e 3.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 20 mar. 2000, in vigore dal 1° apr. 2000 ([RU 2000 1265](https://fedlex.data.admin.ch/eli/oc/2000/204)).
-[^56-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^56-3]: Introdotta dal n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^56-4]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 20 mar. 2000, in vigore dal 1° apr. 2000 ([RU 2000 1265](https://fedlex.data.admin.ch/eli/oc/2000/204)).
+[^56-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^56-3]: Introdotta dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^56-4]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 
 #### Art. 56a
 
@@ -1913,8 +1911,8 @@ Le quote di investimenti diretti comprese negli investimenti collettivi si aggiu
 
 <sup>7</sup> Il conto annuale deve indicare integralmente tutti gli strumenti derivati correnti.
 
-[^56a-1]: Introdotto dal n. I dell’O del 24 apr. 1996, in vigore dal 1° lug. 1996 ([RU 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)).
-[^56a-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^56a-1]: Introdotto dalla cifra I dell’O del 24 apr. 1996, in vigore dal 1° lug. 1996 ([RU 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)).
+[^56a-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 
 #### Art. 57
 
@@ -1930,9 +1928,9 @@ Le quote di investimenti diretti comprese negli investimenti collettivi si aggiu
 
 <sup>4</sup> I crediti dell’istituto di previdenza nei confronti del datore di lavoro devono essere rimunerati con un interesse conforme a quello del mercato.[^57-3]
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^57-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^57-3]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
+[^57-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^57-3]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 
 #### Art. 58
 
@@ -1951,12 +1949,12 @@ Valgono come garanzia:[^58-3]
 
 <sup>3</sup> In casi particolari, l’autorità di vigilanza può autorizzare altri tipi di garanzia.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 1° giu. 1993, in vigore dal 1° lug. 1993 ([RU 1993 1881](https://fedlex.data.admin.ch/eli/oc/1993/1881_1881_1881)).
-[^58-2]: Nuovo testo giusta il n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^58-3]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 1° giu. 1993, in vigore dal 1° lug. 1993 ([RU 1993 1881](https://fedlex.data.admin.ch/eli/oc/1993/1881_1881_1881)).
+[^58-2]: Nuovo testo giusta la cifra I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
+[^58-3]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^58-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^58-5]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^58-6]: Nuovo testo giusta il n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
+[^58-5]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^58-6]: Nuovo testo giusta la cifra I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 
 #### Art. 58a
 
@@ -1970,8 +1968,8 @@ Valgono come garanzia:[^58-3]
 
 <sup>3</sup> L’istituto di previdenza deve informare senza indugio il proprio ufficio di revisione delle comunicazioni ai sensi dei capoversi 1 e 2.[^58a-2]
 
-[^58a-1]: Introdotto dal n. I dell’O del 1° giu. 1993, in vigore dal 1° lug. 1993 ([RU 1993 1881](https://fedlex.data.admin.ch/eli/oc/1993/1881_1881_1881)).
-[^58a-2]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^58a-1]: Introdotto dalla cifra I dell’O del 1° giu. 1993, in vigore dal 1° lug. 1993 ([RU 1993 1881](https://fedlex.data.admin.ch/eli/oc/1993/1881_1881_1881)).
+[^58a-2]: Nuovo testo giusta la cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 59
 
@@ -1984,20 +1982,20 @@ Le disposizioni della presente sezione si applicano per analogia anche:
 - a. alle fondazioni di previdenza di cui all’articolo 89*a* capoverso 6 del Codice civile[^59-2];
 - b. al fondo di garanzia.
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 24 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 975](https://fedlex.data.admin.ch/eli/oc/2016/171)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 24 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 975](https://fedlex.data.admin.ch/eli/oc/2016/171)).
 [^59-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 60
 
 [^60-1]
 
-[^60-1]: Abrogato dal n. I dell’O del 1° apr. 2009, con effetto dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
+[^60-1]: Abrogato dalla cifra I dell’O del 1° apr. 2009, con effetto dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
 ## Capitolo 5: Acquisto, salario assicurabile e reddito assicurabile
 
 [^chap5-1]
 
-[^chap5-1]: Introdotto dal n. I dell’O del 27 nov. 2000 ([RU 2000 3086](https://fedlex.data.admin.ch/eli/oc/2000/559)). Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^chap5-1]: Introdotto dalla cifra I dell’O del 27 nov. 2000 ([RU 2000 3086](https://fedlex.data.admin.ch/eli/oc/2000/559)). Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
 
 #### Art. 60a
 
@@ -2033,7 +2031,7 @@ Il limite di riscatto giusta il capoverso 1 primo periodo non è applicabile se 
 - b. l’istituto di previdenza svizzero permetta il trasferimento; e
 - c. per il trasferimento l’assicurato non faccia valere nessuna deduzione dalle imposte dirette federali, cantonali e comunali.
 
-[^60b-1]: Nuovo testo giusta il n. I dell’O del 24 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4587](https://fedlex.data.admin.ch/eli/oc/2010/660)).
+[^60b-1]: Nuovo testo giusta la cifra I dell’O del 24 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4587](https://fedlex.data.admin.ch/eli/oc/2010/660)).
 
 #### Art. 60c
 
@@ -2059,7 +2057,7 @@ Nei casi in cui il rimborso di un prelievo anticipato per la promozione della pr
 
 [^chap6-1]
 
-[^chap6-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2909](https://fedlex.data.admin.ch/eli/oc/2000/509)).
+[^chap6-1]: Introdotto dalla cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2909](https://fedlex.data.admin.ch/eli/oc/2000/509)).
 
 #### Art. 60e
 
@@ -2072,7 +2070,7 @@ Nei casi in cui il rimborso di un prelievo anticipato per la promozione della pr
 <sup>3</sup> L’emolumento può essere ridotto o condonato in caso di indigenza dell’assoggettato o per altri gravi motivi.
 
 [^60e-1]: Originario art. 60*b* ([RU 2005 5257](https://fedlex.data.admin.ch/eli/oc/2005/729)).
-[^60e-2]: Introdotto dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^60e-2]: Introdotto dalla cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^60e-3]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 
 #### Art. 60e<sup>bis</sup>
@@ -2081,7 +2079,7 @@ Nei casi in cui il rimborso di un prelievo anticipato per la promozione della pr
 
 L’UFAS è legittimato a interporre ricorso al Tribunale federale contro le decisioni dei tribunali cantonali e del Tribunale amministrativo federale.
 
-[^60ebis-1]: Introdotto dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^60ebis-1]: Introdotto dalla cifra I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 ## Capitolo 7: Disposizioni finali
 
@@ -2093,7 +2091,7 @@ L’UFAS è legittimato a interporre ricorso al Tribunale federale contro le dec
 
 [^chap7-sec1-1]
 
-[^chap7-sec1-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2909](https://fedlex.data.admin.ch/eli/oc/2000/509)).
+[^chap7-sec1-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2909](https://fedlex.data.admin.ch/eli/oc/2000/509)).
 
 #### Art. 60f
 
@@ -2103,10 +2101,10 @@ L’UFAS è legittimato a interporre ricorso al Tribunale federale contro le dec
 
 <sup>2</sup> L’ordinanza del 17 febbraio 1988[^60f-3] sulla costituzione in pegno di diritti degli istituti di previdenza è abrogata.[^60f-4]
 
-[^60f-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2909](https://fedlex.data.admin.ch/eli/oc/2000/509)). Originario art. 60*c* ([RU 2005 5257](https://fedlex.data.admin.ch/eli/oc/2005/729)).
+[^60f-1]: Introdotto dalla cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2909](https://fedlex.data.admin.ch/eli/oc/2000/509)). Originario art. 60*c* ([RU 2005 5257](https://fedlex.data.admin.ch/eli/oc/2005/729)).
 [^60f-2]: [[RU 1988 97](https://fedlex.data.admin.ch/eli/oc/1988/97_97_97)]
 [^60f-3]: [[RU 1988 382](https://fedlex.data.admin.ch/eli/oc/1988/382_382_382)]
-[^60f-4]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^60f-4]: Introdotto dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 61
 
@@ -2123,13 +2121,13 @@ L’ordinanza del 31 ottobre 1947[^61-1] sull’assicurazione per la vecchiaia e
 
 [^62-1]
 
-[^62-1]: Abrogato dal n. IV 50 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^62-1]: Abrogato dalla cifra IV n. 50 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ### Sezione 1*a*: Disposizioni d’esecuzione relative alla lettera e delle disposizioni transitorie della 1<sup>a</sup> revisione della LPP
 
 [^chap7-sec1a-1]
 
-[^chap7-sec1a-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap7-sec1a-1]: Introdotta dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 62a
 
@@ -2149,7 +2147,7 @@ Questa età di pensionamento è parimenti determinante per:
 
 [^chap7-sec1b-1]
 
-[^chap7-sec1b-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap7-sec1b-1]: Introdotta dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 62b
 
@@ -2204,7 +2202,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1985.
 
 [^u1-1]
 
-[^u1-1]: [RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603). Abrogate dal n. IV 50 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u1-1]: [RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603). Abrogate dalla cifra IV n. 50 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni finali della modifica del 24 marzo 2004
 
@@ -2335,13 +2333,14 @@ Allegato[^t-1]
 
 ## Calcolo dell’importo scoperto
 
-[^t-1]: Introdotto dal n. II dell’O del 21 mag. 2003 ([RU 2003 1725](https://fedlex.data.admin.ch/eli/oc/2003/259)). Nuovo testo giusta il n. II dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^t-1]: Introdotto dalla cifra II dell’O del 21 mag. 2003 ([RU 2003 1725](https://fedlex.data.admin.ch/eli/oc/2003/259)). Nuovo testo giusta la cifra II dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 <sup>1</sup> Il grado di copertura dell’istituto di previdenza è determinato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/it/xml/image/image1.png)
 
-- Pp corrisponde a: Tutti gli attivi alla data di chiusura del bilancio a valori di mercato, al netto degli obblighi, del conto terzi e delle riserve di contributi del datore di lavoro per le quali non vi è un accordo di rinuncia all’utilizzazione. È determinante il patrimonio di previdenza effettivo risultante dalla situazione finanziaria reale conformemente all’articolo 47 capoverso 2. La riserva di contributi dei datori di lavoro con rinuncia all’utilizzazione (RCDL con rinuncia all’utilizzazione), le riserve di fluttuazione e le riserve di fluttuazione nella ripartizione devono essere aggiunte al patrimonio di previdenza disponibile.
-- Cp corrisponde a: Capitale di previdenza attuariale necessario nel giorno di chiusura del bilancio (capitali a risparmio e capitali di copertura), compresi i necessari consolidamenti (p. es. in ragione dell’aumento della speranza di vita).
+Pp corrisponde a: Tutti gli attivi alla data di chiusura del bilancio a valori di mercato, al netto degli obblighi, del conto terzi e delle riserve di contributi del datore di lavoro per le quali non vi è un accordo di rinuncia all’utilizzazione. È determinante il patrimonio di previdenza effettivo risultante dalla situazione finanziaria reale conformemente all’articolo 47 capoverso 2. La riserva di contributi dei datori di lavoro con rinuncia all’utilizzazione (RCDL con rinuncia all’utilizzazione), le riserve di fluttuazione e le riserve di fluttuazione nella ripartizione devono essere aggiunte al patrimonio di previdenza disponibile.
+
+Cp corrisponde a: Capitale di previdenza attuariale necessario nel giorno di chiusura del bilancio (capitali a risparmio e capitali di copertura), compresi i necessari consolidamenti (p. es. in ragione dell’aumento della speranza di vita).
 
 <sup>2</sup> Se il grado di copertura così calcolato è inferiore al 100 per cento, vi è copertura insufficiente ai sensi dell’articolo 44 capoverso 1.

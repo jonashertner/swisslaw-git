@@ -4,11 +4,11 @@ title: "Ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieilless
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/fr"
 
 (OPP 2)
 
-du 18 avril 1984 (État le 1<sup>er</sup> janvier 2024)
+du 18 avril 1984 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -265,12 +265,12 @@ L’institution de prévoyance peut, dans son règlement, s’écarter comme il 
 
 ### (art. 8 LPP)
 
-<sup>1</sup> Pour les personnes qui sont assurées obligatoirement selon l’art. 2 LPP et qui perçoivent d’un même employeur un salaire AVS supérieur à 22 050 francs, un montant de 3675 francs au moins doit être assuré.[^3a-2]
+<sup>1</sup> Pour les personnes qui sont assurées obligatoirement selon l’art. 2 LPP et qui perçoivent d’un même employeur un salaire AVS supérieur à 22 680 francs, un montant de 3780 francs au moins doit être assuré.[^3a-2]
 
 <sup>2</sup> Le salaire assuré minimal prévu à l’al. 1 est aussi valable pour l’assurance obligatoire des personnes pour lesquelles les montants-limites ont été réduits conformément à l’art. 4.
 
 [^3a-1]: Introduit parle ch. I de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
+[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
 
 #### Art. 4
 
@@ -293,13 +293,13 @@ Les montants-limites fixés aux art. 2, 7, 8 et 46 LPP sont adaptés comme suit:
 
 <table>
 <tr><th>Anciens montants Francs</th><th>Nouveaux montants Francs</th></tr>
-<tr><td>21 510</td><td>22 050</td></tr>
-<tr><td>25 095</td><td>25 725</td></tr>
-<tr><td>86 040</td><td>88 200</td></tr>
-<tr><td>3 585</td><td>3 675</td></tr>
+<tr><td>22 050</td><td>22 680</td></tr>
+<tr><td>25 725</td><td>26 460</td></tr>
+<tr><td>88 200</td><td>90 720</td></tr>
+<tr><td>3675</td><td>3780</td></tr>
 </table>
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
 
 #### Art. 6
 
@@ -1165,7 +1165,8 @@ Dans son rapport annuel, il indique notamment:[^35a-4]
 - a. si les placements concordent avec la capacité de risque de l’institution de prévoyance en découvert et si les art. 49*a*, 50 et 59 sont respectés. Les indications sur les placements auprès de l’employeur doivent être mises en évidence;
 - b. si les mesures destinées à résorber le découvert ont été décidées par l’organe compétent, avec l’avis de l’expert en matière de prévoyance professionnelle, si elles ont été mises en œuvre dans le cadre des dispositions légales et du concept de mesures, et si les obligations d’informer ont été respectées;
 - c. si l’efficacité des mesures destinées à résorber le découvert a été surveillée et si ces mesures ont été adaptées à l’évolution de la situation.
-- [tab] <sup>3</sup> Il signale à l’organe paritaire suprême les manquements constatés au niveau du concept de mesures.
+
+<sup>3</sup> Il signale à l’organe paritaire suprême les manquements constatés au niveau du concept de mesures.
 
 [^35a-1]: Introduit par le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^35a-2]: Nouvelle teneur selon le ch. I de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
@@ -1261,9 +1262,11 @@ L’expert doit se conformer aux directives de l’autorité de surveillance dan
 
 [^41a-2]
 
-- [tab] <sup>1</sup> En cas de découvert, l’expert établit chaque année un rapport actuariel.
-- [tab] <sup>2</sup> Il indique notamment dans ce rapport si les mesures prises par l’organe compétent pour résorber le découvert correspondent aux conditions énoncées à l’art. 65*d* LPP et dans quelle mesure elles ont été efficaces.
-- [tab] <sup>3</sup> Il rédige un rapport à l’attention de l’autorité de surveillance si une institution de prévoyance ne prend pas de mesures ou prend des mesures insuffisantes pour résorber le découvert.
+<sup>1</sup> En cas de découvert, l’expert établit chaque année un rapport actuariel.
+
+<sup>2</sup> Il indique notamment dans ce rapport si les mesures prises par l’organe compétent pour résorber le découvert correspondent aux conditions énoncées à l’art. 65*d* LPP et dans quelle mesure elles ont été efficaces.
+
+<sup>3</sup> Il rédige un rapport à l’attention de l’autorité de surveillance si une institution de prévoyance ne prend pas de mesures ou prend des mesures insuffisantes pour résorber le découvert.
 
 [^41a-1]: Introduit par le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^41a-2]: Nouvelle teneur selon le ch. I de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
@@ -1409,7 +1412,7 @@ Les institutions collectives ou communes soumises à la LFLP peuvent accorder un
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du 24 avr. 1996, en vigueur depuis le 1<sup>er</sup> juil. 1996 ([RO 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)).
 [^47-2]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 [^47-3]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^47-4]: Commande: Editions SKV, Hans Huber-Strasse 4, case postale 687, 8027 Zurich; www.verlagskv.ch.
+[^47-4]: Commande: Editions SKV, Hans Huber-Strasse 4, case postale 687, 8027 Zurich; [www.verlagskv.ch](http://www.verlagskv.ch).
 [^47-5]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4143](https://fedlex.data.admin.ch/eli/oc/2013/764)).
 [^47-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^47-7]: Nouvelle teneur selon le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
@@ -1675,7 +1678,7 @@ Il a notamment pour tâche de:
 <sup>6</sup> Le respect des art. 53 à 57 ne délie pas de l’obligation de se conformer aux prescriptions des al. 1 à 3. Cette exigence ne s’applique pas aux placements selon l’art. 54, al. 2, let. c et d.[^50-8]
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 20 mars 2000, en vigueur depuis le 1<sup>er</sup> avr. 2000 ([RO 2000 1265](https://fedlex.data.admin.ch/eli/oc/2000/204)).
-[^50-2]: Introduit par le ch. I de l’O du 24 avr. 1996 ([RO 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)). Nouvelle teneur selon le ch. I de l’O du 19 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
+[^50-2]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^50-3]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^50-4]: Nouvelle teneur selon le ch. I de l’O du 30 août 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
 [^50-5]: Introduit par le ch. I de l’O du 19 sept. 2008 ([RO 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)). Nouvelle teneur selon le ch. I de l’O du 6 juin 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
@@ -2332,9 +2335,10 @@ Annexe[^t-1]
 
 <sup>1</sup> Le taux de couverture de l’institution de prévoyance est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/fr/xml/image/image1.png)
 
-- où Fp: est égal à l’ensemble des actifs à la date du bilan et à la valeur du marché, diminués des engagements, des passifs de régularisation et des réserves de cotisations de l’employeur, pour autant qu’aucun accord sur une renonciation à leur utilisation par l’employeur n’ait été conclu, la fortune de prévoyance effective, telle qu’elle ressort de la situation financière réelle au sens de l’art. 47, al. 2, étant déterminante; une réserve de cotisations de l’employeur incluant une déclaration de renonciation à leur utilisation, les réserves de fluctuation de valeur et les réserves de fluctuation dans la répartition ne sont pas déduites de la fortune de prévoyance disponible, et
-- où Cp: est égal au capital de prévoyance actuariel nécessaire à la date du bilan (capital d’épargne et capital de couverture), y compris les renforcements nécessaires (au vu par ex. de l’augmentation de l’espérance de vie).
+où Fp: est égal à l’ensemble des actifs à la date du bilan et à la valeur du marché, diminués des engagements, des passifs de régularisation et des réserves de cotisations de l’employeur, pour autant qu’aucun accord sur une renonciation à leur utilisation par l’employeur n’ait été conclu, la fortune de prévoyance effective, telle qu’elle ressort de la situation financière réelle au sens de l’art. 47, al. 2, étant déterminante; une réserve de cotisations de l’employeur incluant une déclaration de renonciation à leur utilisation, les réserves de fluctuation de valeur et les réserves de fluctuation dans la répartition ne sont pas déduites de la fortune de prévoyance disponible, et
+
+où Cp: est égal au capital de prévoyance actuariel nécessaire à la date du bilan (capital d’épargne et capital de couverture), y compris les renforcements nécessaires (au vu par ex. de l’augmentation de l’espérance de vie).
 
 <sup>2</sup> Si le taux de couverture est inférieur à 100 %, il existe un découvert au sens de l’art. 44, al. 1.
