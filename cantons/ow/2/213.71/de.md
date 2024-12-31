@@ -4,13 +4,12 @@ number: "213.71"
 title: Verordnung über die amtliche Schätzung der Grundstücke und das Grundpfandrecht
 short: Schätzungs- und Grundpfandverordnung
 language: de
-version: 2017-06-01
-valid_until: 2024-12-31
-version_adopted: 2016-12-01
+version: 2025-01-01
+version_adopted: 2024-05-23
 adopted: 2006-10-26
 in_force: 2007-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/213.71"
-pdf: "http://gdb.ow.ch/api/de/versions/1363/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1903/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1363/pdf_file"
 
 (Schätzungs- und Grundpfandverordnung)
 
-vom 26.10.2006 (Stand 01.06.2017)
+vom 26.10.2006 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -72,7 +71,8 @@ beschliesst:
 
 - a. der Ertrags- bzw. der Steuerwert[^4-1];
 - b. der Grundpfandschätzungswert (Belastungsgrenze) für die Errichtung des Grundpfands gemäss Art. 793 ff. ZGB[^4-2];
-- c. der Verkehrswert.
+- c. der Verkehrswert;
+- d. der Mietwert der Wohnungen.
 
 <sup>2</sup> Der Ertrags- bzw. der Steuerwert und der Grundpfandschätzungswert (Belastungsgrenze) werden nach den Bestimmungen des Bundesgesetzes über das bäuerliche Bodenrecht[^4-3] und den dazu erlassenen Ausführungsbestimmungen ermittelt.
 
@@ -134,6 +134,12 @@ beschliesst:
 
 <sup>1</sup> Bei der Ermittlung des Verkehrswertes von Bauland sind insbesondere die örtlichen Verhältnisse, die Lage, die Überbauungswahrscheinlichkeit sowie der Erschliessungsgrad angemessen zu berücksichtigen.
 
+#### Art. 10a
+
+**Verkehrswert von gewerblichen und industriellen Betrieben**
+
+<sup>1</sup> Bei der Ermittlung des Verkehrswertes von Grundstücken, die ausschliesslich oder vorwiegend gewerblichen oder industriellen Zwecken dienen, sind insbesondere die technische Entwertung und die Zweckmässigkeit der Anlagen, die Nutzungsmöglichkeiten sowie die Möglichkeiten des Grundstückverkaufs angemessen zu berücksichtigen.
+
 #### Art. 11
 
 **…**
@@ -142,7 +148,7 @@ beschliesst:
 
 **Realwert**
 
-<sup>1</sup> Der Realwert eines Grundstücks setzt sich zusammen aus der Summe des Landwerts, dem Zeitwert der Bauten sowie den Umgebungsanlagen und den Baunebenkosten.
+<sup>1</sup> Der Realwert eines Grundstücks setzt sich zusammen aus der Summe des Landwerts und des Zeitwerts der Bauten.
 
 <sup>2</sup> Als Landwert gilt der Wert, den Land im Baugebiet in ähnlicher Lage erreicht hat und der voraussichtlich während einer längeren Zeitspanne erreicht werden kann.
 
@@ -174,7 +180,7 @@ beschliesst:
 
 <sup>4</sup> Bauzonen ohne zugewiesenen Landwert (Zonen für öffentliche Bauten und Anlagen, Klosterzonen, Kurzonen, Campingzonen, Grünzonen usw.) werden unter Berücksichtigung der jeweiligen Nutzung individuell durch die Steuerverwaltung bewertet.
 
-<sup>5</sup> Der Regierungsrat erlässt je Gemeinde einen Landwertplan mit höchstens acht Landwertzonen in der Preisbandbreite von Fr. 100.– bis 800.– pro m². Die Preisbandbreite kann entsprechend der Entwicklung auf dem Liegenschaftenmarkt gesenkt oder um höchstens 20 Prozent erhöht werden.
+<sup>5</sup> Der Regierungsrat erlässt je Gemeinde einen Landwertplan mit höchstens zehn Landwertzonen in der Preisbandbreite von Fr. 200.– bis 1 400.– pro m². Die Preisbandbreite kann entsprechend der Entwicklung auf dem Liegenschaftenmarkt gesenkt oder um höchstens zehn Prozent erhöht werden.
 
 #### Art. 15
 
@@ -184,19 +190,13 @@ beschliesst:
 
 **Teilrevision**
 
-<sup>1</sup> Der Regierungsrat legt die Faktoren der schematischen, formelmässigen Bewertung für die Grundstückschätzung gemäss Artikel 17 dieser Verordnung alle acht Jahre fest.
+<sup>1</sup> Der Regierungsrat legt die Faktoren der schematischen, formelmässigen Bewertung für die Grundstückschätzung gemäss Artikel 23 dieser Verordnung fest und passt sie bei Bedarf an. Eine solche Anpassung gilt für alle Gemeinden gleichzeitig, unabhängig vom Rotationsprinzip gemäss Absatz 2.
 
-<sup>2</sup> Das Formular zur Festsetzung des Steuerwerts wird dem Grundeigentümer oder der Grundeigentümerin alle acht Jahre neu zugestellt.
+<sup>2</sup> Die Bewertung der Grundstücke erfolgt pro Gemeinde alle sieben Jahre in einem separaten Kalenderjahr mit folgender Reihenfolge: Sachseln, Lungern, Sarnen, Giswil, Alpnach, Kerns, Engelberg.
 
 #### Art. 17
 
-**Grundstückschätzung**
-
-<sup>1</sup> Der Regierungsrat erlässt die notwendigen Ausführungsbestimmungen zur Festsetzung des Steuerwerts von Grundstücken, welcher dem Real- oder Ertragswert entspricht. Die Schätzung wird anhand des Formulars zur Festsetzung des Steuerwerts vorgenommen.
-
-<sup>2</sup> Sollte der nach Absatz 1 ermittelte Steuerwert nicht den tatsächlichen Verhältnissen entsprechen, kann der Steuerwert mittels individueller Schätzung nach anerkannten Grundsätzen der Liegenschaftenschätzung durch die kantonale Steuerverwaltung vorgenommen werden.
-
-<sup>3–6</sup> …
+**…**
 
 #### Art. 17a
 
@@ -227,17 +227,7 @@ beschliesst:
 
 #### Art. 18a
 
-**Pflichten des Grundeigentümers oder der Grundeigentümerin**
-
-<sup>1</sup> Das Formular zur Festsetzung des Steuerwerts ist vom Grundeigentümer oder der Grundeigentümerin wahrheitsgetreu und vollständig auszufüllen und samt den vorgeschriebenen Beilagen innert der auf dem Formular aufgedruckten Frist bei der kantonalen Steuerverwaltung einzureichen.
-
-<sup>2</sup> Das passwortgeschützte Formular kann auch online ausgefüllt und eingereicht werden.
-
-<sup>3</sup> Die kantonale Steuerverwaltung gibt dem Grundeigentümer oder der Grundeigentümerin sämtliche ihr bekannten Daten, welche zur Festsetzung des Steuerwerts benötigt werden, auf dem Formular bekannt. Diese Werte sind durch den Grundeigentümer oder die Grundeigentümerin zu kontrollieren, zu korrigieren und zu ergänzen.
-
-<sup>4</sup> Unterlässt es der Grundeigentümer oder die Grundeigentümerin, das Formular oder die Beilagen (oder an deren Stelle den vorgegebenen Datenträger) einzureichen, oder reicht er oder sie ein mangelhaft ausgefülltes Formular ein, so kann er oder sie gemahnt werden, das Versäumte innert angemessener Frist nachzuholen. Die durch die schuldhafte Verletzung von Verfahrenspflichten verursachten Kosten, insbesondere auch für den Beizug von Sachverständigen, Durchführung von Augenscheinen, Kontrollen oder Beizug weiterer Dokumente, können ganz oder teilweise dem Grundeigentümer oder der Grundeigentümerin auferlegt werden.
-
-<sup>5</sup> Falls der Steuerverwaltung bereits alle Daten bekannt sind und es sich um kleinere Objekte handelt, kann auf den Versand des Formulars verzichtet werden. Die Schätzungswerte werden direkt mit einer schriftlichen Verfügung gemäss Art. 21 dieser Verordnung eröffnet.
+**…**
 
 #### Art. 18b
 
@@ -245,12 +235,9 @@ beschliesst:
 
 <sup>1</sup> Die kantonale Steuerverwaltung setzt den Steuerwert fest.
 
-<sup>2</sup> Sie kann insbesondere Sachverständige beiziehen, Augenscheine oder Kontrollen durchführen und Einsicht in weitere Dokumente wie Kaufverträge, Baupläne, Rechnungen, Versicherungspolicen usw. verlangen.
+<sup>2</sup> Sie kann insbesondere Sachverständige beiziehen, Augenscheine oder Kontrollen durchführen und Einsicht in weitere Dokumente wie Kaufverträge, Baupläne, Rechnungen, Versicherungspolicen, Mieterspiegel, Mietverträge, usw. verlangen.
 
-<sup>3</sup> Die kantonale Steuerverwaltung kann den Steuerwert nach pflichtgemässem Ermessen festlegen:
-
-- a. wenn der Grundeigentümer oder die Grundeigentümerin das Formular zur Festsetzung des Steuerwerts nicht einreicht;
-- b. wenn die Schätzung mangels zuverlässigen Unterlagen nicht einwandfrei festgelegt werden kann.
+<sup>3</sup> Die kantonale Steuerverwaltung kann den Steuerwert nach pflichtgemässem Ermessen festlegen, wenn die Schätzung mangels zuverlässigen Unterlagen nicht einwandfrei festgelegt werden kann.
 
 #### Art. 18c
 
@@ -283,9 +270,9 @@ beschliesst:
 
 **Eröffnung der Schätzungswerte**
 
-<sup>1</sup> Die Schätzungswerte werden dem Grundeigentümer oder der Grundeigentümerin oder einer Stellvertretung mit einer schriftlichen Verfügung eröffnet.
+<sup>1</sup> Der Steuerwert wird der steuerpflichtigen Person in der ordentlichen Veranlagungsverfügung eröffnet. Schätzungen, welche nicht den Steuerwert betreffen, werden dem Grundeigentümer oder der Grundeigentümerin, dem Nutzniesser oder der Nutzniesserin sowie den weiteren Auftraggebern oder Auftraggeberinnen mit einer schriftlichen Verfügung eröffnet.
 
-<sup>2</sup> Dem zuständigen Grundbuch wird der landwirtschaftliche Schätzungswert für die Belastungsgrenze zugestellt, sobald die Schätzung rechtskräftig geworden ist.
+<sup>2</sup> Das Amt für Landwirtschaft und Umwelt stellt dem zuständigen Grundbuch den landwirtschaftlichen Schätzungswert für die Belastungsgrenze zu.
 
 <sup>3</sup> …
 
@@ -315,7 +302,7 @@ beschliesst:
 
 **Übergangsrecht**
 
-<sup>1</sup> Die aufgrund des bisherigen Rechts ermittelten Schätzungswerte gelten bis zu einer neuen Schätzung weiter.
+<sup>1</sup> Die aufgrund des bisherigen Rechts ermittelten Schätzungswerte gelten solange weiter, bis das Grundstück nach Art. 16 bzw. Art. 18 neu bewertet wird.
 
 <sup>2</sup> Als Grundlage für Nachschätzungen bestehender Perimeter haben jene Ausgangswerte zu dienen, die in den einzelnen Perimeterprotokollen genannt sind. Um eine sachgerechte und rechtsgleiche Bewertung zu erhalten, sind nötigenfalls Ausgleiche zu treffen.
 
@@ -357,7 +344,11 @@ geändert durch
 
 \- Gesetz über die Neuregelung der Grundstückschätzungen vom 16. April 2014 (Abstimmungserläuterungen zur Volksabstimmung vom 30. November 2014, OGS 2014, 50), Botschaft und Antrag des Regierungsratsvom 3. Dezember 2013, Kantonsratsprotokolle vom 20. März und 16. April 2014 (22.13.03), Abstimmungsergebnis der Volksabstimmung vom 30. November 2014 (OGS 2014, 51), in Kraft seit 1. Januar 2017 (OGS 2015, 36),
 
-\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26)
+\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26),
+
+\- Nachtrag zum Schätzungs- und Grundpfandgesez vom 28. Oktober 2021 (OGS 2021, 36), Botschaft und Vorlage des Regierungsrats vom 31. Mai 2021, Kantonsratssitzungen vom 9. September und 28. Oktober 2021 (22.21.02), in Kraft seit 1. Januar 2025 (OGS 2021, 43),
+
+\- Nachtrag zum Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht (Schätzungs- und Grundpfandgesetz) vom 23. Mai 2024 (OGS 2024 36), Botschaft und Vorlage des Regierungsrats vom 28. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.01), angenommen an der Volksabstimmung vom 24. November 2024 (ABl 2024, 1697), in Kraft seit 1. Januar 2025 (OGS 2024, 37)
 
 Änderung der Zuständigkeit
 
