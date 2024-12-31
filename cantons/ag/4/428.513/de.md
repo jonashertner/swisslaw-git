@@ -4,13 +4,13 @@ number: "428.513"
 title: Verordnung über die Schulung von Kindern und Jugendlichen mit Behinderungen sowie die besonderen Förder- und Stützmassnahmen
 short: VSBF
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-10-26
+version: 2025-01-01
+valid_until: 2026-07-31
+version_adopted: 2024-10-30
 adopted: 2006-11-08
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.513"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3265/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3697/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3265/pdf_file"
 
 (VSBF)
 
-Vom 08.11.2006 (Stand 01.01.2023)
+Vom 08.11.2006 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -57,7 +57,7 @@ beschliesst:
 
 **Behinderung**
 
-<sup>1</sup> Als Behinderung gemäss dieser Verordnung gilt bei Kindern und Jugendlichen eine stark eingeschränkte Funktionsfähigkeit ihrer Aktivitäten und Partizipation gemäss der InternationaI Classification of Function, Disability and Health (ICF, Version 2001), die ausgelöst wird durch hemmende Umweltfaktoren sowie im Regelfall zusätzlich durch ausgeprägte Beeinträchtigungen und Störungen von Körperfunktionen, wie namentlich eine
+<sup>1</sup> Als Behinderung gemäss dieser Verordnung gilt bei Kindern und Jugendlichen eine stark eingeschränkte Funktionsfähigkeit ihrer Aktivitäten und Partizipation gemäss der InternationaI Classification of Functioning, Disability and Health (ICF, Version 2001), die ausgelöst wird durch hemmende Umweltfaktoren sowie im Regelfall zusätzlich durch ausgeprägte Beeinträchtigungen und Störungen von Körperfunktionen, wie namentlich eine
 
 - a) …
 - b) …
@@ -282,7 +282,8 @@ beschliesst:
 
 - a) spezifische Abklärungen,
 - b) logopädische Therapie,
-- c) fachliche Beratung und Anleitung der Eltern.
+- c) fachliche Beratung und Anleitung der Eltern,
+- d) fachliche Beratung und Anleitung von Fachpersonen in Kindertagesstätten oder Spielgruppen sowie von Tagesfamilien.
 
 <sup>2</sup> Die Logopädie dauert in der Regel längstens bis zum Eintritt in den Kindergarten.
 
@@ -330,7 +331,7 @@ beschliesst:
 <sup>1</sup> Sprachheilunterricht für Kinder und Jugendliche mit einer Störung des Sprechens und der Sprache umfasst
 
 - a) Abklärungen und Kontrollen,
-- b) logopädische Therapie oder Legasthenietherapie,
+- b) logopädische Therapie oder Lese-Rechtschreibstörung-Therapie,
 - c) fachliche Beratung und Anleitung der Lehrpersonen und der Eltern.
 
 <sup>2</sup> Der Sprachheilunterricht beginnt frühestens mit dem Eintritt in den Kindergarten und endet in der Regel spätestens mit dem Austritt aus der Volksschule.
@@ -374,17 +375,17 @@ beschliesst:
 
 #### § 30
 
-**Sprachheilunterricht, Zuweisung und Abklärung**
+**Sprachheilunterricht, Abklärung**
 
-<sup>1</sup> Die Zuweisung zum Sprachheilunterricht erfolgt durch den Gemeinderat am Schulort.
+<sup>1</sup> …
 
-<sup>2</sup> Die Zuweisung zur logopädischen Therapie setzt eine Abklärung durch eine Logopädin oder einen Logopäden voraus.
+<sup>2</sup> Die logopädische Therapie setzt eine Abklärung durch eine Logopädin oder einen Logopäden voraus.
 
-<sup>3</sup> Die Zuweisung zur Legasthenietherapie setzt eine Abklärung durch eine Sprachheilfachperson voraus.
+<sup>3</sup> Die Lese-Rechtschreibstörung-Therapie setzt eine Abklärung durch eine Logopädin oder einen Logopäden oder eine andere Fachperson voraus.
 
 <sup>4</sup> Bei allgemeinen Lernstörungen und bei schwerer Störung des Sprechens und der Sprache erfolgt eine zusätzliche Beurteilung durch den Schulpsychologischen Dienst.
 
-<sup>5</sup> Für Abklärungen, die nicht von einer zuständigen Sprachheilfachperson der Gemeinde beziehungsweise vom Schulpsychologischen Dienst durchgeführt wurden, entfällt jede Leistungspflicht von Kanton und Gemeinden. Das Gleiche gilt für Sprachtherapien, die nicht vom zuständigen Gemeinderat angeordnet wurden.
+<sup>5</sup> Für Abklärungen und Therapien, die nicht von einer zuständigen Fachperson der Gemeinde beziehungsweise vom Schulpsychologischen Dienst durchgeführt wurden, entfällt jede Leistungspflicht von Kanton und Gemeinden.
 
 #### § 31
 
