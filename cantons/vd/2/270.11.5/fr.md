@@ -4,7 +4,7 @@ number: "270.11.5"
 title: TARIF du 28.09.2010 des frais judiciaires civils (TFJC)
 short: TFJC
 language: fr
-version: 2024-05-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/270.11.5?id=5848c893-424d-4a98-8f8d-a613dcd497b9"
 ---
 
@@ -939,7 +939,9 @@ Autorité compétente Emolument - Juge de paix : 100 francs - Président et trib
 
 <sup>3</sup> Pour les litiges portant sur un contrat de travail ou relevant de la loi du 6 octobre 1989 sur le service de l'emploi et la location de services [^67-1] lorsque la valeur litigieuse n'excède pas 100'000 francs, l'émolument est réduit de moitié.
 
-[^66-1]: Modif. 8 du 11.10.2024: Introduction Al. 4; entrée en vigueur au 01.01.2025; Introduction Art. 76, Al. 6; entrée en vigueur au 01.01.2025
+<sup>4</sup> Si la motivation de la décision n'est pas demandée, l'émolument est réduit d'un tiers.
+
+[^66-1]: Modif. 8 du 11.10.2024: Introduction Al. 4; entrée en vigueur au 01.01.2025
 [^67-1]: Loi fédérale du 06.10.1989 sur le service de l'emploi et la location de services (RS 823.11)
 
 #### Art. 68
@@ -1057,7 +1059,9 @@ Valeur litigieuse Emolument - de 0 à 2'000 francs : 100 francs - de 2'001 à 5'
 
 <sup>5</sup> Pour les litiges portant sur un contrat de travail ou relevant de la loi du 6 octobre 1989 sur le service de l'emploi et la location de services [^76-2] lorsque la valeur litigieuse n'excède pas 100'000 francs, l'émolument est réduit de moitié.
 
-[^75-1]: Modif. 8 du 11.10.2024: Introduction Art. 67, Al. 4; entrée en vigueur au 01.01.2025; Introduction Al. 6; entrée en vigueur au 01.01.2025
+<sup>6</sup> Si la motivation de la décision n'est pas demandée, l'émolument est réduit d'un tiers.
+
+[^75-1]: Modif. 8 du 11.10.2024: Introduction Al. 6; entrée en vigueur au 01.01.2025
 [^76-1]: Abrogé et remplacé par Code de droit privé judiciaire vaudois du 12.01.2010 ([BLV 211.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.02?id=ad4e8c23-b444-4fb7-82a3-3149dc38ed0e))
 [^76-2]: Loi fédérale du 06.10.1989 sur le service de l'emploi et la location de services (RS 823.11)
 
