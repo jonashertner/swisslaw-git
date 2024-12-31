@@ -4,13 +4,13 @@ number: "740.111"
 title: Verordnung über die Geoinformation im Kanton Aargau
 short: "Kantonale Geoinformationsverordnung, KGeoIV"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-18
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-13
 adopted: 2011-11-16
 in_force: 2012-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/740.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3367/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3702/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3367/pdf_file"
 
 (Kantonale Geoinformationsverordnung, KGeoIV)
 
-Vom 16.11.2011 (Stand 01.01.2024)
+Vom 16.11.2011 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -483,7 +483,7 @@ beschliesst:
 
 **Archivierung und Historisierung der Auszüge**
 
-<sup>1</sup> Das Vermessungsamt erlässt in Zusammenarbeit mit dem Staatsarchiv Weisungen über Archivierung und Historisierung der Auszüge gemäss Art. 65–67 der Technischen Verordnung des VBS über die amtliche Vermessung (TVAV) vom 10. Juni 1994[^35-1].
+<sup>1</sup> Das Vermessungsamt erlässt in Zusammenarbeit mit dem Staatsarchiv Weisungen über Archivierung und Historisierung gemäss Art. 21 der Verordnung des VBS über die amtliche Vermessung (VAV-VBS) vom 24. August 2023[^35-1].
 
 [^35-1]: SR [211.432.21](https://db.clex.ch/link/Bund/211.432.21/de)
 
@@ -541,8 +541,8 @@ beschliesst:
 - d) die Festlegung der Ortschaften gemäss § 26 KGeoIG,
 - e) die Regulierung von Gemeindegrenzen,
 - f) die Zuteilung der Nachführungskreise der amtlichen Vermessung gemäss § 20 Abs. 3 KGeoIG,
-- g) den Abschluss der Leistungsvereinbarungen mit den Nachführungsgeometerinnen und Nachführungsgeometern gemäss § 20 Abs. 4 KGeoIG,
-- h) den Abschluss von Vereinbarungen mit Bahnunternehmungen im Sinne von Art. 46 Abs. 3 VAV.
+- g) den Abschluss der Leistungsvereinbarungen mit den Nachführungsgeometerinnen und Nachführungsgeometern gemäss § 20 Abs. 4 KGeoIG.
+- h) …
 
 #### § 41
 
@@ -561,13 +561,14 @@ beschliesst:
 <sup>1</sup> Die Nachführungsgeometerinnen und Nachführungsgeometer sind in ihrem Nachführungskreis zuständig für
 
 - a) die laufende Nachführung der amtlichen Vermessung, einschliesslich der Vermarkungs- und Vermessungsarbeiten,
+- a<sup>bis</sup>) die Unterzeichnung von Mutationsurkunden gemäss Art. 46a VAV,
 - b) die Nachführung und Verwaltung des originalen und massgeblichen Datenbestands gemäss Art. 43 Abs. 2 VAV,
 - c) die Gewährleistung des Meldewesens der Nachführung,
 - d) den Geschäftsverkehr mit dem Grundbuch betreffend die Nachführung,
 - e) die Gewährung des Zugangs zu den Daten der amtlichen Vermessung,
 - f) die Datenabgabe,
 - g) das Ausstellen von Auszügen,
-- h) die Beglaubigung von Auszügen,
+- h) die Beglaubigung von Auszügen gemäss Art. 37 VAV,
 - i) die nachträgliche Beglaubigung,
 - j) die Nachführung des Waldgrenzenplans und die Erstellung von Plänen für Rodungsgesuche.
 
@@ -614,7 +615,7 @@ beschliesst:
 
 <sup>1</sup> Die für die Bewilligung von Bauten, Strassenbauten und Infrastruktureinrichtungen zuständigen Stellen des Kantons und der Gemeinden melden der zuständigen Nachführungsgeometerin beziehungsweise dem zuständigen Nachführungsgeometer innert 10 Tagen
 
-- a) die rechtskräftigen Bewilligungen von Vorhaben, die zu Veränderungen in einer oder mehreren Informationsebenen der amtlichen Vermessung führen und
+- a) die rechtskräftigen Bewilligungen von Vorhaben, die zu Veränderungen in einer oder mehreren Geobasisdatensätzen der amtlichen Vermessung führen und
 - b) die Abnahme solcher Vorhaben.
 
 ### 4.4 Kosten
@@ -669,9 +670,7 @@ beschliesst:
 
 #### § 51
 
-**Lagebezug**
-
-<sup>1</sup> Für die amtliche Vermessung gilt für das ganze Kantonsgebiet bis zum 31. Dezember 2015 das Lagebezugssystem CH1903 mit Lagebezugsrahmen LV03, ab dem 1. Januar 2016 das Lagebezugssystem CH1903+ mit Lagebezugsrahmen LV95.
+**…**
 
 #### § 52
 
