@@ -4,13 +4,13 @@ number: "142.11"
 title: Dienstordnung der Finanz- und Kirchendirektion
 short: Do FKD
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-11
+version: 2025-01-01
+valid_until: 2026-03-31
+version_adopted: 2024-12-03
 adopted: 2022-05-10
 in_force: 2022-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.11"
-pdf: "https://bl.clex.ch/api/de/versions/3934/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4052/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3934/pdf_file"
 
 (Do FKD)
 
-Vom 10.05.2022 (Stand 01.07.2024)
+Vom 10.05.2022 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -135,12 +135,15 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Das Generalsekretariat ist wie folgt gegliedert:
+<sup>1</sup> Das Generalsekretariat ist in folgende Fachbereiche gegliedert:
 
-- a. Stab
-- b. Personal;
-- c. Stabsstelle Gemeinden;
-- d. Digitale Transformation.
+- a. Kommunikation;
+- b. Recht und Finanzen;
+- c. Personal;
+- d. Gemeinden, bestehend aus dem Kompetenzzentrum Gemeindefinanzen und dem Kompetenzzentrum Gemeinderecht;
+- e. Digitale Transformation.
+
+<sup>2</sup> Die Generalsekretärin bzw. der Generalsekretär bildet zusammen mit den Leitungen Kommunikation und Recht und Finanzen den Stab.
 
 #### § 9
 
@@ -155,7 +158,9 @@ beschliesst:
 - e. Kompetenzzentrum für allgemeine Gemeindefragen und Aufsicht über die Gemeinden (exklusive Gemeindefinanzen);
 - f. Wahrnehmung der Aufgaben im Zusammenhang mit den Landeskirchen und Religionsgemeinschaften sowie der Aufsicht über die «Stiftung Kirchengut» im Auftrag des Regierungsrats;
 - g. Kompetenzzentrum für Kommunikation und Medienpolitik;
-- h. Digitale Transformation und Organisationsentwicklung in der Direktion.
+- h. digitale Transformation und Organisationsentwicklung in der Direktion;
+- i. Kompetenzzentrum für Gemeindefinanzen (Finanzausgleich und Aufgabenteilung, Gemeinderechnungslegung und Gemeindefinanzaufsicht);
+- j. Weiterentwicklung der Ergänzungsleistungen.
 
 ### 2.2 Gleichstellung BL
 
@@ -340,25 +345,23 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Daten und Statistik ist wie folgt gegliedert:
 
-- a. Stabsaufgaben:
-  - 1\. Kompetenzteam Datenmanagement,
-  - 2\. Softwareentwicklung/Data Engineering;
-- b. Fachstelle Register (Stammdaten):
-  - 1\. Kantonales Personenregister arbo,
+- a. Abteilung Softwareentwicklung/Data Engineering;
+- b. Data Services;
+- c. Fachstelle Register (Stammdaten):
+  - 1\. Kantonales Personenregister arbo;
   - 2\. Kantonales Gebäude- und Wohnungsregister (kGWR);
-- c. Fach- und Koordinationsstelle Open Government Data (OGD);
-- d. Abteilung Statistik:
-  - 1\. Data Science,
-  - 2\. Fachbereich Demografie,
-  - 3\. Fachbereich Raum und Umwelt,
-  - 4\. Fachbereich Boden,
-  - 5\. Fachbereich Wirtschaft,
-  - 6\. Fachbereich Bau- und Wohnungswesen,
-  - 7\. Fachbereich Soziales,
-  - 8\. Fachbereich Gesundheit,
-  - 9\. Fachbereich Bildung,
-  - 10\. Fachbereich Finanzen;
-- e. Abteilung Gemeindefinanzen.
+- d. Fach- und Koordinationsstelle Open Government Data (OGD);
+- e. Abteilung Statistik:
+  - 1\. Data Science;
+  - 2\. Fachbereich Demografie;
+  - 3\. Fachbereich Raum und Umwelt;
+  - 4\. Fachbereich Boden;
+  - 5\. Fachbereich Wirtschaft;
+  - 6\. Fachbereich Bau- und Wohnungswesen;
+  - 7\. Fachbereich Soziales;
+  - 8\. Fachbereich Gesundheit;
+  - 9\. Fachbereich Bildung;
+  - 10\. Fachbereich Finanzen.
 
 #### § 19
 
@@ -371,16 +374,13 @@ beschliesst:
 - c. fachliche Beratung der kantonalen Dienststellen und Behörden bei der Aufbereitung und Publikation ihrer Behördendaten als Open Government Data (OGD);
 - d. Vollzug der kantonalen Statistikaufgaben gemäss Statistikgesetz vom 21. Februar 2008[^19-2];
 - e. Vollzug von Bundesstatistiken gemäss Bundesstatistikgesetz (BStatG) vom 9. Oktober 1992[^19-3];
-- f. Aufsicht über die Gemeindefinanzen, insbesondere über die Budgets und die Jahresrechnungen gemäss Gemeindegesetz (GemG) vom 28. Mai 1970[^19-4];
-- g. Berechnung und Durchführung des Finanzausgleichs unter den Gemeinden inkl. Härtebeiträge gemäss Finanzausgleichsgesetz (FAG) vom 25. Juni 2009[^19-5];
-- h. Überwachung und Weiterentwicklung Ergänzungsleistungen in der EL-Kommission gemäss Ergänzungsleistungsgesetz (ELG) vom 15. Februar 1973[^19-6].
+- f. …
+- g. …
+- h. …
 
 [^19-1]: [SGS 111](https://bl.clex.ch/data/111/de)
 [^19-2]: [SGS 107](https://bl.clex.ch/data/107/de)
 [^19-3]: [SR 431.01](https://db.clex.ch/link/Bund/431.01/de)
-[^19-4]: [SGS 180](https://bl.clex.ch/data/180/de)
-[^19-5]: [SGS 185](https://bl.clex.ch/data/185/de)
-[^19-6]: [SGS 833](https://bl.clex.ch/data/833/de)
 
 ### 2.7 Kantonales Sozialamt (KSA)
 
