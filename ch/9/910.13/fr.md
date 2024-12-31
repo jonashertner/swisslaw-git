@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les paiements directs versés dans l'a
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: fr
-version: 2024-05-30
+version: 2025-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20240530/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20240530-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20240530/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20250101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20240530/fr"
 
 (Ordonnance sur les paiements directs, OPD)
 
-du 23 octobre 2013 (État le 30 mai 2024)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -265,7 +265,7 @@ Les prescriptions de la législation sur la protection des animaux applicables �
 
 <sup>2</sup>
 
-Sont imputables en tant que surfaces de promotion de la biodiversité les surfaces visées aux art. 55, al. 1, let. a à k, n, p et q, et 71*b* ainsi qu’à l’annexe 1, ch. 3, et les arbres visés à l’art. 55, al. 1<sup>bis</sup>, qui:[^14-1]
+Sont imputables en tant que surfaces de promotion de la biodiversité les surfaces visées aux art. 55, al. 1, let. a à k, n et p, et 71*b*, ainsi qu’à l’annexe 1, ch. 3, et les arbres visés à l’art. 55, al. 1<sup>bis</sup>, qui:[^14-1]
 
 - a. sont situées sur la surface de l’exploitation et à une distance de 15 km au maximum par la route du centre d’exploitation ou d’une unité de production, et
 - b. appartiennent à l’exploitant ou se situent sur les terres affermées par l’exploitant.
@@ -274,25 +274,18 @@ Sont imputables en tant que surfaces de promotion de la biodiversité les surfac
 
 <sup>4</sup> En ce qui concerne les bandes semées pour organismes utiles dans les cultures pérennes visées à l’art. 71*b*, al. 1, let. b, 5 % de la surface de cultures pérennes sont imputables.[^14-3]
 
-<sup>5</sup> Les céréales en lignes de semis espacées visées à l’art. 55, al. 1, let. q sont uniquement imputables pour les exploitations selon l’art. 14*a,* al. 1.[^14-4]
+<sup>5</sup> …[^14-4]
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^14-3]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^14-4]: Introduit par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^14-4]: Introduit par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 14a
 
-**Part des surfaces de promotion de la biodiversité sur les terres assolées**[^14a-1]
+[^14a-1]
 
-<sup>1</sup> En vue de la réalisation de la part requise de surfaces de promotion de la biodiversité visée à l’art. 14, al. 1, les exploitations disposant de plus de 3 hectares de terres ouvertes dans la zone de plaine et celle des collines doivent présenter une part minimale de surfaces de promotion de la biodiversité de 3,5 % sur les terres assolées dans ces zones. Cette disposition ne s’applique qu’aux surfaces situées sur le territoire national.[^14a-2]
-
-<sup>2</sup> Sont imputables en tant que surfaces de promotion de la biodiversité sur terres assolées les surfaces visées aux art. 55, al. 1, let. h à k, p, sur terres ouvertes, et q et 71*b*, al. 1, let. a, qui remplissent les exigences visées à l’art. 14, al. 2, let. a et b.
-
-<sup>3</sup> Au maximum la moitié de la part requise de surfaces de promotion de la biodiversité peut être réalisée via l’imputation des céréales en lignes de semis espacées (art. 55, al. 1, let. q); seule cette surface est imputable pour la réalisation de la part requise de surfaces de promotion de la biodiversité selon l’art. 14, al. 1.
-
-[^14a-1]: Introduit par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^14a-2]: Nouvelle teneur selon le ch. III de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^14a-1]: Introduit par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 15
 
@@ -367,7 +360,7 @@ Les services cantonaux compétents peuvent accorder des autorisations spéciales
 <sup>8</sup> Les surfaces d’essai ne sont pas assujetties aux prescriptions d’utilisation visées à l’annexe 1, ch. 6.1, 6.2 et 6.3. Le requérant doit passer une convention écrite avec l’exploitant et la faire parvenir au service phytosanitaire cantonal, avec le descriptif de l’essai.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^18-2]: Les seuils de tolérance en vigueur sont disponibles sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises; Informations complémentaires; Documentation.
+[^18-2]: Les seuils de tolérance en vigueur sont disponibles sous [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 [^18-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 19
@@ -404,8 +397,8 @@ Si la convention passée entre ces exploitations ne concerne que certains élém
 
 - a. bilan de fumure équilibré visé à l’art. 13;
 - b. part appropriée de surfaces de promotion de la biodiversité visées à l’art. 14;
-- c. les exigences réunies des art. 16 à 18.
-- d.[^22-1] part de surfaces de promotion de la biodiversité sur les terres assolées selon l’art. 14*a*.
+- c. les exigences réunies des art. 16 à 18;
+- d.[^22-1] …
 
 <sup>3</sup>
 
@@ -416,7 +409,7 @@ La convention doit être approuvée par le canton. Elle est approuvée lorsque:
 - c. les exploitations ont désigné un organisme de contrôle commun;
 - d. aucune des exploitations n’a conclu par ailleurs une autre convention de réalisation en commun des PER.
 
-[^22-1]: Introduite par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^22-1]: Introduite par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 23
 
@@ -697,11 +690,12 @@ Le canton adapte la charge usuelle d’une exploitation d’estivage ou de pâtu
 
 - a. le requérant dépose un plan d’exploitation qui justifie une charge plus importante;
 - b. un changement de la proportion entre moutons et autres animaux est prévu;
-- c. des mutations de surfaces l’exigent.
+- c. des mutations de surfaces l’exigent;
+- d.[^41-1] la surface pâturable ou son rendement ont fortement changé suite à la construction de grandes installations photovoltaïques.
 
 <sup>2</sup>
 
-Il réduit la charge usuelle en tenant compte de l’avis des services cantonaux spécialisés, en particulier du service de la protection de la nature, si:
+Il réduit la charge usuelle si:[^41-2]
 
 - a. la charge en bétail ne dépassant pas la charge usuelle a néanmoins conduit à des dommages écologiques;
 - b. les charges cantonales n’ont pas permis de remédier aux dégâts écologiques;
@@ -711,21 +705,23 @@ Il réduit la charge usuelle en tenant compte de l’avis des services cantonaux
 
 <sup>3bis</sup>
 
-Pour le versement des contributions à partir de 2024, il adapte la charge usuelle en bétail pour les exploitations d’estivage et de pâturages communautaires qui gardent des moutons, à l’exception des brebis laitières, si la charge moyenne au cours des années de référence 2022 et 2023, calculée sur la base des coefficients UGB fixés aux ch. 3.2 à 3.4 de l’annexe de l’OTerm[^41-1], est supérieure à 100 % de l’ancienne charge usuelle. La nouvelle charge usuelle correspond à:
+Pour le versement des contributions à partir de 2024, il adapte la charge usuelle en bétail pour les exploitations d’estivage et de pâturages communautaires qui gardent des moutons, à l’exception des brebis laitières, si la charge moyenne au cours des années de référence 2022 et 2023, calculée sur la base des coefficients UGB fixés aux ch. 3.2 à 3.4 de l’annexe de l’OTerm[^41-3], est supérieure à 100 % de l’ancienne charge usuelle. La nouvelle charge usuelle correspond à:
 
 - a. pour les exploitations dont la charge en bétail durant les années de référence était inférieure ou égale à 100 % de la charge usuelle: cette charge, mais calculée avec les coefficients UGB fixés aux ch. 3.2 à 3.4 de l’annexe de l’OTerm;
-- b. pour les exploitations dont la charge en bétail durant les années de référence était supérieure à 100 % de la charge usuelle: la charge usuelle appliquée jusque-là, multipliée par la charge moyenne en bétail durant les années de référence, calculée cependant avec les coefficients UGB fixés aux ch. 3.2 à 3.4 de l’annexe de l’OTerm, divisée par la charge en bétail moyenne durant les années de référence.[^41-2]
+- b. pour les exploitations dont la charge en bétail durant les années de référence était supérieure à 100 % de la charge usuelle: la charge usuelle appliquée jusque-là, multipliée par la charge moyenne en bétail durant les années de référence, calculée cependant avec les coefficients UGB fixés aux ch. 3.2 à 3.4 de l’annexe de l’OTerm, divisée par la charge en bétail moyenne durant les années de référence.[^41-4]
 
-<sup>3ter</sup> Dans le cas des exploitations d’estivage et des exploitations de pâturages communautaires où ce sont essentiellement des chèvres qui sont estivées, le canton peut, sur demande, augmenter la charge usuelle en bétail conformément à l’art. 40, al. 1, let. b, en fonction de la différence de charge en bétail concernant les chevreaux et les cabris. L’al. 3<sup>bis</sup> s’applique par analogie pour le calcul.[^41-3]
+<sup>3ter</sup> Dans le cas des exploitations d’estivage et des exploitations de pâturages communautaires où ce sont essentiellement des chèvres qui sont estivées, le canton peut, sur demande, augmenter la charge usuelle en bétail conformément à l’art. 40, al. 1, let. b, en fonction de la différence de charge en bétail concernant les chevreaux et les cabris. L’al. 3<sup>bis</sup> s’applique par analogie pour le calcul.[^41-5]
 
-<sup>3quater</sup> Si, pour cause de force majeure ou en raison de la présence de grands prédateurs, la charge en bétail a été réduite et que l’exploitant a communiqué les événements en question conformément à l’art. 106, al. 3, le canton corrige en conséquence la valeur calculée sur la base des al. 3<sup>bis</sup> ou 3<sup>ter</sup>.[^41-4]
+<sup>3quater</sup> Si, pour cause de force majeure ou en raison de la présence de grands prédateurs, la charge en bétail a été réduite et que l’exploitant a communiqué les événements en question conformément à l’art. 106, al. 3, le canton corrige en conséquence la valeur calculée sur la base des al. 3<sup>bis</sup> ou 3<sup>ter</sup>.[^41-6]
 
 <sup>4</sup> L’exploitant peut recourir dans les 30 jours contre l’adaptation de la charge usuelle et exiger un réexamen de la décision sur la base d’un plan d’exploitation. Il doit présenter ce plan dans le délai d’une année.
 
-[^41-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^41-2]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nouvelle teneur selon ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
-[^41-3]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nouvelle teneur selon ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
-[^41-4]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^41-1]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^41-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^41-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^41-4]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nouvelle teneur selon ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^41-5]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nouvelle teneur selon ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^41-6]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ## Titre 2 Contributions
 
@@ -973,7 +969,7 @@ Les contributions à la biodiversité sont versées par hectare pour les surface
 - n. surfaces viticoles présentant une biodiversité naturelle;
 - o. surfaces herbagères et surfaces à litière riches en espèces dans la région d’estivage;
 - p. surfaces de promotion de la biodiversité spécifiques à la région;
-- q.[^55-5] céréales en lignes de semis espacées.
+- q.[^55-5] …
 
 <sup>1bis</sup>
 
@@ -1006,7 +1002,7 @@ Pour les surfaces suivantes, les contributions ne sont versées que dans les zon
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^55-3]: Abrogée par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^55-4]: Abrogée par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^55-5]: Introduite par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^55-5]: Introduite par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^55-6]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 [^55-7]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^55-8]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
@@ -1041,7 +1037,7 @@ L’exploitant est tenu d’exploiter les surfaces de promotion de la biodiversi
 - a.[^57-2] …
 - b. les jachères tournantes, pendant au moins un an;
 - c. les jachères florales, les bandes culturales extensives et les ourlets sur terres assolées: pendant au moins deux ans;
-- c<sup>bis</sup>.[^57-3] les céréales en lignes de semis espacées: du semis à la récolte;
+- c<sup>bis</sup>.[^57-3] …
 - d. toutes les autres surfaces: pendant au moins huit ans.
 
 <sup>1bis</sup>
@@ -1057,7 +1053,7 @@ Il est tenu d’exploiter les arbres visés à l’art. 55, al. 1<sup>bis</sup>,
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^57-2]: Abrogée par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^57-3]: Introduite par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^57-3]: Introduite par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^57-4]: Introduit par le ch. I de l’O du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 #### Art. 58
@@ -1066,7 +1062,7 @@ Il est tenu d’exploiter les arbres visés à l’art. 55, al. 1<sup>bis</sup>,
 
 <sup>1</sup> La contribution est versée lorsque les exigences auxquelles doit satisfaire le niveau de qualité I selon l’annexe 4 sont remplies.
 
-<sup>2</sup> Aucun engrais ne doit être épandu sur les surfaces de promotion de la biodiversité. Une fumure selon l’annexe 4 est autorisée sur les prairies peu intensives, les pâturages extensifs, les pâturages boisés, les bandes culturales extensives, les surfaces viticoles présentant une biodiversité naturelle et les surfaces de promotion de la biodiversité dans la région d’estivage. La fumure est autorisée pour les arbres fruitiers à haute-tige et les céréales en lignes de semis espacées.[^58-1]
+<sup>2</sup> Aucun engrais ne doit être épandu sur les surfaces de promotion de la biodiversité. Une fumure selon l’annexe 4 est autorisée sur les prairies peu intensives, les pâturages extensifs, les pâturages boisés, les bandes culturales extensives, les surfaces viticoles présentant une biodiversité naturelle et les surfaces de promotion de la biodiversité dans la région d’estivage. La fumure est autorisée pour les arbres fruitiers à haute-tige.[^58-1]
 
 <sup>3</sup> Il convient de lutter contre les plantes posant des problèmes comme le rumex, le chardon des champs, le séneçon jacobée ou les plantes néophytes envahissantes; il y a lieu notamment d’en empêcher la propagation.
 
@@ -1078,7 +1074,7 @@ Aucun produit phytosanitaire ne doit être utilisé sur les surfaces de promotio
 - b. les traitements avec des produits phytosanitaires sur les pâturages boisés avec l’accord de l’autorité cantonale en charge de l’économie forestière et uniquement dans le respect des interdictions et restrictions d’emploi en vigueur;
 - c. les traitements avec des produits phytosanitaires sur des surfaces viticoles présentant une biodiversité naturelle selon l’annexe 4, ch. 14.1.4;
 - d. les traitements avec des produits phytosanitaires des arbres fruitiers haute-tige visés à l’annexe 1, ch. 8.1.2, let. b;
-- e.[^58-2] les traitements phytosanitaires dans les céréales en lignes de semis espacées selon l’annexe 4, ch. 17.[^58-3]
+- e.[^58-2] …[^58-3]
 
 <sup>5</sup> Le produit de la fauche de surfaces de promotion de la biodiversité doit être évacué, à l’exception du produit de la fauche des ourlets sur terres assolées, des jachères florales, des jachères tournantes et des surfaces viticoles présentant une biodiversité naturelle.[^58-4]
 
@@ -1092,8 +1088,8 @@ Aucun produit phytosanitaire ne doit être utilisé sur les surfaces de promotio
 
 <sup>10</sup> Pour combattre par des moyens mécaniques les plantes posant problème, le canton peut autoriser la pâture ou des exceptions aux exigences en matière d’exploitation.[^58-10]
 
-[^58-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^58-2]: Introduite par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^58-2]: Introduite par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^58-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^58-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^58-5]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
@@ -1118,7 +1114,7 @@ Aucun produit phytosanitaire ne doit être utilisé sur les surfaces de promotio
 <sup>5</sup> Pour l’ensemencement des surfaces de promotion de la biodiversité visées à l’art. 55, al. 1, let. a à e, g et o, il faut privilégier aux mélanges de semences standardisés la fleur de foin locale ou les graines de foin obtenues par battage issues de prairies permanentes de longue durée.
 
 [^58a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^58a-2]: La composition valable pour les mélanges de semences appropriés est disponible sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Contributions à la biodiversité.
+[^58a-2]: La composition valable pour les mélanges de semences appropriés est disponible sous [www.blw.admin.ch/fr/contributions-biodiversite](https://www.blw.admin.ch/fr/contributions-biodiversite).
 
 #### Art. 59
 
@@ -1341,12 +1337,12 @@ Aucune contribution n’est versée pour:
 - a. le maïs;
 - b. les céréales ensilées;
 - c. les cultures spéciales;
-- d. les surfaces de promotion de la biodiversité visées à l’art. 55, à l’exception des céréales en lignes de semis espacées;
+- d.[^68-2] les surfaces de promotion de la biodiversité visées à l’art. 55, à l’exception des céréales en lignes de semis espacées lorsqu’il s’agit de surfaces de promotion de la biodiversité spécifiques à la région;
 - e. les cultures dans lesquelles les insecticides et fongicides ne doivent pas être utilisés en vertu de l’art. 18, al. 1 à 5.
 
 <sup>3</sup>
 
-Du semis à la récolte de la culture principale, la culture doit être effectuée sans recours aux produits phytosanitaires suivants contenant des substances chimiques figurant à l’annexe 1, partie A, OPPh[^68-2] qui ont les types d’action suivants:
+Du semis à la récolte de la culture principale, la culture doit être effectuée sans recours aux produits phytosanitaires suivants contenant des substances chimiques figurant à l’annexe 1, partie A, OPPh[^68-3] qui ont les types d’action suivants:
 
 - a. phytorégulateur;
 - b. fongicide;
@@ -1365,14 +1361,15 @@ En dérogation à l’al. 3, les traitements suivants sont autorisés:
 
 <sup>5</sup> Les exigences de l’al. 3 doivent être respectées par culture principale dans l’ensemble de l’exploitation.
 
-<sup>6</sup> La contribution pour le blé fourrager est versée lorsque la variété de blé cultivé est enregistrée dans la liste des variétés recommandées pour le blé fourrager d’Agroscope et de Swiss Granum[^68-3].
+<sup>6</sup> La contribution pour le blé fourrager est versée lorsque la variété de blé cultivé est enregistrée dans la liste des variétés recommandées pour le blé fourrager d’Agroscope et de Swiss Granum[^68-4].
 
-<sup>7</sup> Sur demande, les céréales destinées à la production de semences et agréées en vertu de l’ordonnance d’exécution relative à l’ordonnance du 7 décembre 1998 sur le matériel de multiplication[^68-4] peuvent être exemptées de l’exigence énoncée à l’al. 3. Les exploitants annoncent les surfaces et cultures principales concernées au service cantonal compétent.
+<sup>7</sup> Sur demande, les céréales destinées à la production de semences et agréées en vertu de l’ordonnance d’exécution relative à l’ordonnance du 7 décembre 1998 sur le matériel de multiplication[^68-5] peuvent être exemptées de l’exigence énoncée à l’al. 3. Les exploitants annoncent les surfaces et cultures principales concernées au service cantonal compétent.
 
 [^68-1]: Nouvelle teneur selon le ch. III de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^68-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^68-3]: La liste est disponible sous [www.swissgranum.ch](http://www.swissgranum.ch).
-[^68-4]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^68-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^68-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^68-4]: La liste est disponible sous [www.swissgranum.ch](http://www.swissgranum.ch).
+[^68-5]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 #### Art. 69
 
@@ -1465,7 +1462,7 @@ La contribution pour le non-recours aux herbicides dans les grandes cultures et 
 
 Aucune contribution visée à l’al. 1 n’est versée pour:
 
-- a.[^71a-1] les surfaces de promotion de la biodiversité selon l’art. 55, à l’exception des céréales en lignes de semis espacées et des surfaces viticoles présentant une biodiversité naturelle;
+- a.[^71a-1] les surfaces de promotion de la biodiversité selon l’art. 55, à l’exception des céréales en lignes de semis espacées, lorsqu’il s’agit de surfaces de promotion de la biodiversité spécifiques à la région, et des surfaces viticoles présentant une biodiversité naturelle;
 - b. les bandes semées pour organismes utiles dans les terres ouvertes selon l’art. 71*b*, al. 1, let. a;
 - c. la culture de champignons;
 - d. les surfaces cultivées toute l’année sous abri.
@@ -1516,7 +1513,7 @@ L’utilisation d’herbicides est autorisée dans:
 
 <sup>3.</sup> pour l’élimination des fanes.
 
-[^71a-1]: Nouvelle teneur selon le ch. III de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^71a-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### Section 4 Contribution pour la biodiversité fonctionnelle sous forme d’une contribution pour les bandes semées pour organismes utiles
 
@@ -1612,7 +1609,7 @@ Les bandes semées pour organismes utiles peuvent être fauchées comme suit:
 
 [^71b-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-3]: La composition valable pour les mélanges de semences appropriés est disponible sous [www.blw.admin.ch](http://www.blw.admin.ch/) &gt; Instruments &gt; Paiements directs &gt; Contributions au système de production &gt; Contribution pour les bandes semées pour organismes utiles.
+[^71b-3]: La composition valable pour les mélanges de semences appropriés est disponible sous [www.blw.admin.ch/fr/contributions-systeme-production](https://www.blw.admin.ch/fr/contributions-systeme-production).
 [^71b-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
@@ -2485,9 +2482,11 @@ Si des exploitations d’estivage et des exploitations de pâturages communautai
 
 #### Art. 109a
 
-[^109a-1]
+**Déduction lors du versement des contributions**[^109a-1]
 
-[^109a-1]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Abrogé par le ch. I de l’O du 24 janv. 2024, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2024 42](https://fedlex.data.admin.ch/eli/oc/2024/42)).
+Le montant octroyé pour les paiements directs selon l’art. 2, let. a, b, c, ch. 1, e et f, est réduit de 1,7 % lors du versement en 2025.
+
+[^109a-1]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 110
 
@@ -2610,7 +2609,7 @@ Les contributions ne sont pas réduites pour les années 2015 et 2016:
 Pour le calcul de la correction linéaire selon le module complémentaire 6 et du bilan import-export selon le module complémentaire 7 du guide Suisse-Bilan, version 1.8[^115b-2], le canton peut fixer lui-même la période de référence pour les années 2015 et 2016. Pour les poulets de chair, la période de référence correspond à l’année civile.
 
 [^115b-1]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^115b-2]: Les modules complémentaires 6 et 7 du Suisse-Bilan sont téléchargeables sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol &gt; Instruction concernant la prise en compte des aliments appauvris en éléments nutritifs dans le cadre de Suisse-Bilan, édition 1.8 (modules complémentaire 6 et 7) juillet 2015
+[^115b-2]: Les modules complémentaires 6 et 7 du Suisse-Bilan sont téléchargeables sous [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 
 #### Art. 115c
 
@@ -2686,6 +2685,17 @@ Pour le calcul de la correction linéaire selon le module complémentaire 6 et d
 [^115g-3]: Introduit par le ch. I de l’O du 24 janv. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 42](https://fedlex.data.admin.ch/eli/oc/2024/42)).
 [^115g-4]: Introduit par le ch. I de l’O du 24 janv. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 42](https://fedlex.data.admin.ch/eli/oc/2024/42)).
 
+#### Art. 115h
+
+**Dispositions transitoires relatives à la modification du 6 novembre 2024**[^115h-1]
+
+<sup>1</sup> En cas de manquement constaté conformément à l’annexe 8, ch. 2.2.9a, let. d, les paiements directs ne sont pas réduits en 2025 et 2026.
+
+<sup>2</sup> …[^115h-2]
+
+[^115h-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^115h-2]: En vigueur le 1<sup>er</sup> janv. 2027.
+
 #### Art. 116
 
 **Abrogation d’autres actes**
@@ -2724,7 +2734,7 @@ Annexe 1[^t-1]
 
 ## Prestations écologiques requises
 
-[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), le ch. I de l’O de l’OFAG du 5 oct. 2022 ([RO 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur du 1<sup>er</sup> janv. 2024 au 31 déc. 2026 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), le ch. I de l’O de l’OFAG du 5 oct. 2022 ([RO 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025, sous réserve du ch. 2.1.3, en vigueur jusqu’au 31 déc. 2026 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Enregistrements
 
@@ -2776,9 +2786,13 @@ Annexe 1[^t-1]
 <tr><td>f. Zone de montagne IV</td><td>[tab] 0,8</td><td>[tab] 0,8</td></tr>
 </table>
 
-- 2\.1.9b Le calcul des UGB par hectare de surface fertilisable se fonde sur la somme:
-- a. de l’effectif des animaux de rente en UGB selon l’art. 36, al. 3 et 4, et
-- b. des quantités d’azote et de phosphore des engrais de ferme et de recyclage selon HODUFLU et des engrais minéraux utilisés, en UGB.
+- 2\.1.9b
+
+  Le calcul des UGB par hectare de surface fertilisable se fonde sur la somme:
+
+  - a. de l’effectif des animaux de rente en UGB selon l’art. 36, al. 3 et 4, et
+  - b. de la quantité totale d’azote ou de phosphore des engrais employés, en UGB.
+
 - 2\.1.9c Pour la conversion en UGB des quantités d’azote et de phosphore visées au ch. 2.1.9b, let. b, les quantités d’azote ou de phosphore sont divisées par les valeurs suivantes:
 
 <table>
@@ -2788,15 +2802,15 @@ Annexe 1[^t-1]
 <tr><td>b. Engrais minéraux</td><td>[tab] –</td><td>[tab] 53,55</td><td>[tab] 35,00</td></tr>
 </table>
 
-- 2\.1.10 Dans les cas spéciaux, par exemple lorsqu’il s’agit d’exploitations pratiquant des cultures spéciales et la garde d’animaux sans base fourragère, les cantons peuvent exiger un bilan de fumure même si les limites prévues au ch. 2.1.9 ne sont pas atteintes.
+- 2\.1.10 Dans les cas spéciaux, notamment pour les exploitations pratiquant des cultures spéciales ou la garde d’animaux sans base fourragère, les cantons peuvent exiger un bilan de fumure même si les limites prévues aux ch. 2.1.9 et 2.1.9a ne sont pas atteintes.
 - 2\.1.11 Les rendements en MS des prairies et pâturages fixés dans le tableau 3 du guide Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-4] servent de valeurs maximales pour le bilan de fumure équilibré. Si les rendements annoncés dépassent ces valeurs, ils doivent être justifiés à l’aide d’une estimation de la valeur de rendement. Le canton peut refuser les estimations de la valeur de rendement non plausibles. Le demandeur doit démontrer à ses frais la plausibilité de ses estimations sur demande du canton.
 - 2\.1.12 La clôture de la correction linéaire selon le module complémentaire 6 et du bilan import-export selon le module complémentaire 7 de la méthode «Suisse-Bilanz», selon le ch. 2.1.1, doit avoir lieu entre le 1<sup>er</sup> avril et le 31 août de l’année de contributions. La période de calcul doit comprendre au moins les dix mois précédents. La correction linéaire ou le bilan import-export réalisés doivent être déposés auprès de l’organe d’exécution cantonal au plus tard le 30 septembre de l’année de contributions.
-- 2\.1.13 Les exploitations qui ont conclu des conventions sur la correction linéaire selon le module complémentaire 6 ou sur le bilan import-export selon le module complémentaire 7 de la méthode «Suisse-Bilanz», version 1.10, doivent utiliser les teneurs en éléments fertilisants spécifiques à l’exploitation pour les transferts d’engrais de ferme saisis dans HODUFLU.
+- 2\.1.13 Les exploitations qui ont conclu des conventions sur la correction linéaire selon le module complémentaire 6 ou sur le bilan import-export selon le module complémentaire 7 de la méthode «Suisse-Bilanz», doivent utiliser les teneurs en éléments fertilisants spécifiques à l’exploitation pour les transferts d’engrais de ferme saisis dans système central d’information sur la gestion des éléments fertilisants.
 
-[^annex1-lvlu1-lvl2-lvl21-1]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex1-lvlu1-lvl2-lvl21-1]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 [^annex1-lvlu1-lvl2-lvl21-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^annex1-lvlu1-lvl2-lvl21-3]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl2-lvl21-4]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex1-lvlu1-lvl2-lvl21-4]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 
 ### 2.2 Analyses du sol
 
@@ -2806,7 +2820,7 @@ Annexe 1[^t-1]
 - 2\.2.4 L’agrément des laboratoires ainsi que la reconnaissance des méthodes d’analyse et des prescriptions en matière d’échantillonnage relèvent de la compétence de l’OFAG. À cette fin, il procède régulièrement à des analyses interlaboratoires et publie chaque année une liste des laboratoires agréés, les méthodes d’analyse et les prescriptions reconnues en matière d’échantillonnage.
 - 2\.2.5 Les laboratoires agréés mettent à la disposition de l’OFAG les données souhaitées concernant les analyses du sol, à des fins d’analyse statistique.
 
-[^annex1-lvlu1-lvl2-lvl22-1]: Le module «2/ Caractéristiques et analyses du sol» est disponible à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD) &gt; Bases légales
+[^annex1-lvlu1-lvl2-lvl22-1]: Le module «2/ Caractéristiques et analyses du sol» est disponible à l’adresse suivante: [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 
 ### 3 Surfaces de promotion de la biodiversité imputables et ne donnant pas droit à des contributions
 
@@ -2915,7 +2929,7 @@ Annexe 1[^t-1]
   - f. lambda-cyhalothrine;
   - g. métazachlore;
   - h. nicosulfuron;
-  - i. S-métolachlore;
+  - i. …
   - j. terbuthylazine.
 
 - 6\.1.2 Dans le cas des cultures suivantes, les substances actives concernées visées au ch. 6.1.1 peuvent être utilisées contre les organismes nuisibles suivants:
@@ -2959,12 +2973,13 @@ Annexe 1[^t-1]
 - 6\.1a.3 Le rinçage de la pompe, des filtres, des tuyaux et des buses doit être effectué dans le champ.
 - 6\.1a.4
 
-  Lors de l’application de produits phytosanitaires, des mesures doivent être prises pour réduire la dérive et le ruissellement conformément aux instructions du service d’homologation des produits phytosanitaires de l’office fédéral de la sécurité alimentaire et des affaires vétérinaires du 23 février 2022 relatives aux mesures de réduction des risques lors de l’application de produits phytosanitaires[^annex1-lvlu1-lvl6-lvl61a-1]. Cette disposition n’est pas applicable aux utilisations dans des serres fermées. Conformément aux instructions, le nombre de points suivant doit être atteint:
+  Lors de l’application de produits phytosanitaires qui contiennent des substances chimiques visées à l’annexe 1, partie A, OPPh[^annex1-lvlu1-lvl6-lvl61a-1], des mesures doivent être prises pour réduire la dérive et le ruissellement conformément aux instructions du service d’homologation des produits phytosanitaires de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires du 4 juin 2024 relatives aux mesures de réduction des risques lors de l’application de produits phytosanitaires[^annex1-lvlu1-lvl6-lvl61a-2]. Cette disposition n’est pas applicable au traitement plante par plante, aux utilisations dans des serres fermées et à l’utilisation de substances chimiques visées à l’annexe 1, partie A, OPPh dont le type d’action exercée est «substance à faible risque». Conformément aux instructions, le nombre de points suivant doit être atteint:
 
   - a. réduction de la dérive: au moins 1 point;
   - b. réduction du ruissellement sur des surfaces présentant une déclivité de plus de 2 % et qui sont adjacentes, dans le sens de la pente, à des cours d’eau ainsi qu’à des routes ou à des chemins drainés: au moins 1 point.
 
-[^annex1-lvlu1-lvl6-lvl61a-1]: Les directives peuvent être consultées à l’adresse suivante: [www.blv.admin.ch](https://www.blv.admin.ch) &gt; Homologation produits phytosanitaires &gt; Instructions et fiches techniques &gt; Protection des eaux superficielles et des biotopes
+[^annex1-lvlu1-lvl6-lvl61a-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^annex1-lvlu1-lvl6-lvl61a-2]: Les directives peuvent être consultées à l’adresse suivante: [www.blv.admin.ch](http://www.blv.admin.ch)&gt; Homologation produits phytosanitaires &gt; Instructions et fiches techniques &gt; Protection des eaux superficielles et des biotopes.
 
 ### 6.2 Prescriptions applicables aux grandes cultures et à la culture fourragère
 
@@ -2978,7 +2993,7 @@ Annexe 1[^t-1]
 
 <table>
 <tr><th>Culture</th><th>Herbicides en prélevée</th></tr>
-<tr><td>a. Céréales</td><td>Traitement partiel ou de surface Lors de l’emploi d’herbicides en prélevée dans les cultures céréalières, il importe de garder au moins un témoin non traité par culture</td></tr>
+<tr><td>a. Céréales</td><td>Traitement partiel ou de surface</td></tr>
 <tr><td>b. Colza</td><td>Traitement partiel ou de surface</td></tr>
 <tr><td>c. Maïs</td><td>Traitement en bande</td></tr>
 <tr><td>d. Pommes de terre/pommes de terre de consommation</td><td>Traitement en bande, traitement partiel ou de surface</td></tr>
@@ -2995,7 +3010,7 @@ Annexe 1[^t-1]
 <tr><td>b. Colza</td><td>Méligèthe: toutes les substances actives autorisées, à l’exception des substances figurant au ch. 6.1.1</td></tr>
 <tr><td>c. Betteraves sucrières</td><td>Puceron: pirimicarbe, spirotétramate, flonicamide</td></tr>
 <tr><td>d. Pommes de terre</td><td>*Doryphore: azadirachtine, spinosad ou sur la base de* *Bacillus thuringiensis* *Puceron: spirotétramate et flonicamide*</td></tr>
-<tr><td>e. Pois protéagineux, féveroles, tabac et tournesol</td><td>Puceron: pirimicarbe, pymétrozine, spirotétramate et flonicamide</td></tr>
+<tr><td>e. Pois protéagineux, féveroles, tabac et tournesol</td><td>Puceron: pirimicarbe, spirotétramate et flonicamide</td></tr>
 <tr><td>f. Maïs</td><td>Pyrale du maïs: *Trichogramme spp*.</td></tr>
 </table>
 
@@ -3079,7 +3094,7 @@ Annexe 2[^t-2]
 
 ## Dispositions particulières concernant l’estivage et la région d’estivage
 
-[^t-2]: Mise à jour par le ch. II des O du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)) et le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-2]: Mise à jour par le ch. II des O du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Surfaces interdites au pacage
 
@@ -3166,8 +3181,8 @@ La charge maximale suivante est appliquée:
 - 4\.1.6 Les places pour la nuit sont choisies et utilisées de manière à éviter des dommages écologiques.
 - 4\.1.7 L’exploitant tient un journal de pâture.
 - 4\.1.8 La pâture a lieu au plus tôt vingt jours après la fonte des neiges.
-- 4\.1.9 Des filets synthétiques ne sont utilisés que pour clôturer les places pour la nuit ainsi que, dans des terrains difficiles ou en cas de forte pression de pacage, comme aide au pacage pendant la présence autorisée des animaux. Les filets synthétiques sont retirés immédiatement après tout changement de parc. Si l’utilisation de filets synthétiques pose des problèmes aux animaux sauvages, le canton peut imposer des charges concernant l’installation d’une clôture et, si nécessaire, limiter l’utilisation de filets synthétiques sur les places pour la nuit.
-- 4\.1.10 Dans le cadre des stratégies individuelles de protection des troupeaux visées à l’art. 47*b*, le canton peut autoriser l’exploitant à déroger aux ch. 4.1.4 et 4.1.6.
+- 4\.1.9 Des filets synthétiques ne peuvent être utilisés que pendant la pâture. Ils doivent être retirés immédiatement après tout changement de parc ou de surface de pâturage. Le canton peut imposer des charges concernant l’installation d’une clôture et, si nécessaire, limiter l’utilisation de filets synthétiques sur les places pour la nuit, afin de tenir suffisamment compte de la protection des animaux sauvages.
+- 4\.1.10 Dans le cadre des stratégies individuelles de protection des troupeaux visées à l’art. 47*b*, le canton peut autoriser l’exploitant à déroger aux ch. 4.1.4 et 4.1.6, ainsi qu’à l’obligation de retirer les filets synthétiques conformément au ch. 4.1.9. L’autorisation de laisser des filets synthétiques en place au-delà de la durée de séjour n’est octroyée que si la protection des animaux sauvages est suffisamment prise en considération.
 
 ### 4.2 Pâturage tournant
 
@@ -3179,7 +3194,7 @@ La charge maximale suivante est appliquée:
 - 4\.2.6 L’exploitant tient un journal de pâture.
 - 4\.2.7 La pâture a lieu au plus tôt vingt jours après la fonte des neiges.
 - 4\.2.8 Le ch. 4.1.9 s’applique aux filets synthétiques.
-- 4\.2.9 Dans le cadre des stratégies individuelles de protection des troupeaux visées à l’art. 47*b*, le canton peut autoriser l’exploitant à déroger au ch. 4.2.4.
+- 4\.2.9 Dans le cadre des stratégies individuelles de protection des troupeaux visées à l’art. 47*b*, le canton peut autoriser l’exploitant à déroger au ch. 4.2.4, ainsi qu’à l’obligation de retirer les filets synthétiques conformément au ch. 4.1.9. L’autorisation de laisser des filets synthétiques en place au-delà de la durée de séjour n’est octroyée que si la protection des animaux sauvages est suffisamment prise en considération.
 
 ### 4.2a …
 
@@ -3209,7 +3224,7 @@ Annexe 4[^t-3]
 
 ## Conditions que doivent remplir les surfaces de promotion de la biodiversité
 
-[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), l’erratum du 7 fév. 2017 ([RO 2017 513](https://fedlex.data.admin.ch/eli/oc/2017/90)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) et le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), l’erratum du 7 fév. 2017 ([RO 2017 513](https://fedlex.data.admin.ch/eli/oc/2017/90)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### A Surfaces de promotion de la biodiversité
 
@@ -3227,7 +3242,7 @@ Annexe 4[^t-3]
 
 - 1\.1.2 Le canton peut, en accord avec le service cantonal de protection de la nature, avancer de deux semaines au plus les dates de fauche dans les régions du versant sud des Alpes à végétation particulièrement précoce.
 - 1\.1.3 Seule la fauche est autorisée sur ces surfaces. Si les conditions pédologiques sont bonnes et sauf convention contraire, les surfaces peuvent être utilisées pour le pacage entre le 1<sup>er</sup> septembre et le 30 novembre.
-- 1\.1.4 L’autorité cantonale peut, en accord avec le service cantonal de protection de la nature, autoriser que les surfaces dont la composition floristique n’est pas satisfaisante soient exploitées de manière appropriée ou débarrassées de leur végétation par des moyens mécaniques ou chimiques pour être réensemencées.
+- 1\.1.4 Le canton peut autoriser que les surfaces dont la composition floristique n’est pas satisfaisante soient exploitées de manière appropriée ou débarrassées de leur végétation par des moyens mécaniques ou chimiques pour être réensemencées.
 
 ### 1.2 Niveau de qualité II
 
@@ -3335,9 +3350,9 @@ Annexe 4[^t-3]
 
 - 10\.1.1
 
-  Définition: bordures de culture exploitées de manière extensive qui:
+  Définition: surfaces de grandes cultures exploitées de manière extensive qui:
 
-  - a. sont aménagées sur toute la longueur des cultures, et
+  - a. sont aménagées sous forme de bordure sur toute la longueur des cultures ou sur l’ensemble de la surface, et
   - b. sont ensemencées de céréales, de millet, de colza, de tournesols, de légumineuses à graines ou de lin.
 
 - 10\.1.2 Aucun engrais azoté ne peut être utilisé.
@@ -3472,19 +3487,6 @@ Annexe 4[^t-3]
 
 - 16\.1.1 Définition: milieux naturels présentant un intérêt écologique, mais qui ne correspondent pas aux éléments visés aux ch. 1 à 15 et 17.
 - 16\.1.2 Les charges et les conditions d’autorisation sont définies par le service cantonal de protection de la nature, en accord avec le service cantonal de l’agriculture et l’OFAG.
-
-### 17 Céréales en lignes de semis espacées
-
-### 17.1 Niveau de qualité I
-
-- 17\.1.1 Définition: surfaces comprenant des céréales de printemps ou d’automne sur lesquelles au moins 40 % des rangs sur la largeur du semoir ne sont pas semés.
-- 17\.1.2 L’intervalle entre les rangs dans les zones non semées représente au moins 30 cm.
-- 17\.1.3 L’utilisation de produits phytosanitaires qui sont admis pour les céréales dans les grandes cultures sur la base de l’OPPh[^annex4-lvlu1-lvlA-lvl17-lvl171-1] est permise sous réserve du ch. 17.1.4.
-- 17\.1.4 Les plantes posant des problèmes peuvent être combattues au printemps, soit par l’intermédiaire d’un hersage unique au plus tard le 15 avril, soit par une application unique d’herbicides.
-- 17\.1.5 Les sous-semis comprenant du trèfle ou des mélanges de trèfle et de graminées sont autorisés.
-- 17\.1.6 La combinaison de céréales en lignes de semis espacées et de bandes culturales extensives sur la même surface n’est pas autorisée.
-
-[^annex4-lvlu1-lvlA-lvl17-lvl171-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### B Mise en réseau
 
@@ -3651,7 +3653,7 @@ Annexe 5[^t-5]
 
 ## Exigences spécifiques du programme pour la production de lait et de viande basée sur les herbages (PLVH)
 
-[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) et le ch. II al. 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Définition des aliments pour animaux et de la ration
 
@@ -3670,7 +3672,7 @@ Annexe 5[^t-5]
 - 1\.3 Les autres aliments et les composants d’aliments pour animaux non énumérés sont considérés comme des aliments complémentaires.
 - 1\.4 Si la part de fourrage de base dans un aliment complémentaire est supérieure à 20 %, la part de fourrage de base doit être comptabilisés dans le bilan du fourrage de base.
 - 1\.5 La ration annuelle par animal correspond à la consommation de MS totale d’une année.
-- 1\.6 Les produits visés au ch. 1.1.2 peuvent être comptabilisés comme fourrage de base jusqu’à un maximum de 5 % de la ration totale.
+- 1\.6 Les produits visés au ch. 1.1.3 peuvent être comptabilisés comme fourrage de base jusqu’à un maximum de 5 % de la ration totale.
 
 [^annex5-lvlu1-lvl1-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
@@ -3685,10 +3687,10 @@ Annexe 5[^t-5]
 - 3\.3 Les rendements en MS des prairies et pâturages fixés dans le tableau 3 du guide Suisse-Bilan[^annex5-lvlu1-lvl3-4] servent de valeurs maximales pour le bilan fourrager. Si les rendements annoncés dépassent ces valeurs, ils doivent être justifiés à l’aide d’une estimation de la valeur de rendement. Le canton peut refuser les estimations de la valeur de rendement non plausibles. Le demandeur doit démontrer à ses frais la plausibilité de ses estimations sur demande du canton.
 - 3\.4 Les exploitations qui n’affourragent leurs animaux qu’avec de l’herbe des prairies et pâturages au sens du ch. 1.2 sont dispensées du calcul du bilan fourrager.
 
-[^annex5-lvlu1-lvl3-1]: Les éditions applicables de la méthode PLVH peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Contributions au système de production &gt; Contribution pour la production de lait et de viande basée sur les herbages.
-[^annex5-lvlu1-lvl3-2]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex5-lvlu1-lvl3-1]: Les éditions applicables de la méthode PLVH peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch/fr/contributions-systeme-production](https://www.blw.admin.ch/fr/contributions-systeme-production).
+[^annex5-lvlu1-lvl3-2]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 [^annex5-lvlu1-lvl3-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^annex5-lvlu1-lvl3-4]: Le guide est disponible sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol &gt; Guide Suisse-Bilan, édition 1.13, août 2015.
+[^annex5-lvlu1-lvl3-4]: Le guide est disponible sous [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 
 ### 4 Exigences relatives à la documentation
 
@@ -3711,7 +3713,7 @@ Annexe 6[^t-6]
 
 ## Exigences spécifiques relatives aux contributions pour le bien‑être des animaux
 
-[^t-6]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)[7789](https://fedlex.data.admin.ch/eli/oc/2017/891)). Mise à jour par le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) et du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 des O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) et du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-6]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)[7789](https://fedlex.data.admin.ch/eli/oc/2017/891)). Mise à jour par le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) et du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 des O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) et du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### A Exigences relatives aux contributions SST
 
@@ -3751,7 +3753,7 @@ Annexe 6[^t-6]
 
 - 2\.5
 
-  La détention individuelle dans un box à aire unique ou à plusieurs aires, comprenant une aire de repos selon le ch. 2.1, let. a, est admise dans les situations suivantes:
+  La détention individuelle ou en groupe dans un box à aire unique ou à plusieurs aires, comprenant une aire de repos selon le ch. 2.1, let. a, est admise dans les situations suivantes:
 
   - a. durant dix jours au maximum avant et après la date présumée du vêlage; il n’est pas permis d’entraver l’animal;
   - b. dans le cas des animaux malades ou blessés; il est permis de les entraver uniquement si la maladie ou la blessure le requiert impérieusement.
@@ -4158,7 +4160,7 @@ Annexe 6a[^t-7]
 - 4\.1 L’exploitant est tenu d’effectuer les enregistrements sur l’alimentation animale selon les instructions concernant la prise en compte des aliments appauvris en éléments nutritifs dans le cadre de Suisse-Bilanz. Sont applicables l’édition du guide Suisse-Bilanz[^annex6a-lvlu1-lvl4-1] valable à partir du 1<sup>er</sup> janvier de l’année en cours et celle valable à partir du 1<sup>er</sup> janvier de l’année précédente. L’exploitant peut choisir laquelle des deux éditions il souhaite appliquer.
 - 4\.2 Sont déterminants la teneur en protéines brutes exprimée en g/MJ EDP des aliments pour animaux compris dans la correction linéaire clôturée ou dans le bilan import/export conformément à l’annexe 1, ch. 2.1.12.
 
-[^annex6a-lvlu1-lvl4-1]: Les éditions applicables du guide peuvent être consultées sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex6a-lvlu1-lvl4-1]: Les éditions applicables du guide peuvent être consultées sous [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 
 ### 5 Vérification du respect de la valeur limite
 
@@ -4170,7 +4172,7 @@ Annexe 7[^t-8]
 
 ## Taux des contributions
 
-[^t-8]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 20 mai 2015 ([RO 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. I de l’O du 15 fév. 2017 ([RO 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), les ch. II et III de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) et le ch. II al. 1 et III de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-8]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 20 mai 2015 ([RO 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. I de l’O du 15 fév. 2017 ([RO 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), les ch. II et III de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II al. 1 et III de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Contributions au paysage cultivé
 
@@ -4249,7 +4251,7 @@ Annexe 7[^t-8]
 - 2\.1.3 Échelonnement:
 
 <table>
-<tr><td>Surface</td><td>Taux de réduction des contributions</td></tr>
+<tr><th>Surface</th><th>Taux de réduction des contributions</th></tr>
 <tr><td>jusqu’à 60 ha</td><td>0 %</td></tr>
 <tr><td>plus de 60 à 80 ha</td><td>20 %</td></tr>
 <tr><td>plus de 80 à 100 ha</td><td>40 %</td></tr>
@@ -4311,7 +4313,6 @@ Annexe 7[^t-8]
 <tr><td>*11.* *Prairies riveraines*</td><td>300</td><td colspan="2"></td></tr>
 <tr><td>*12.* *Surfaces herbagères et surfaces à litière riches en espèces dans la région d’estivage*</td><td>–</td><td colspan="2">150, mais au max 300 par PN</td></tr>
 <tr><td>*13.* *Surface de promotion de la biodiversité spécifique de la région*</td><td>–</td><td colspan="2">–</td></tr>
-<tr><td>*14.* *Céréales en lignes de semis espacées*</td><td>300</td><td colspan="2"></td></tr>
 </table>
 
 - 3\.1.2 Les contributions sont les suivantes:
@@ -4329,7 +4330,7 @@ Annexe 7[^t-8]
 - 3\.2.1 La Confédération prend en charge au maximum 90 % des montants suivants par an:
 
 <table>
-<tr><td>a. par ha de surfaces visées au ch. 3.1.1, ch. 4 et 14</td><td>500 fr.</td></tr>
+<tr><td>a. par ha de pâturage extensif et pâturage boisé</td><td>500 fr.</td></tr>
 <tr><td>b. par ha de surfaces visées au ch. 3.1.1, ch. 1 à 3, 5 à 11 et 13</td><td>1000 fr.</td></tr>
 <tr><td>c. par arbre visé au ch. 3.1.2, ch. 1 et 2</td><td>5 fr.</td></tr>
 </table>
@@ -4498,7 +4499,7 @@ Annexe 8[^t-9]
 
 ## Réduction des paiements directs
 
-[^t-9]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), les errata des 17 janv. 2017 ([RO 2017 133](https://fedlex.data.admin.ch/eli/oc/2017/40)), 26 sept. 2017 ([RO 2017 5061](https://fedlex.data.admin.ch/eli/oc/2017/551)), 14 nov. 2017 ([RO 2017 6021](https://fedlex.data.admin.ch/eli/oc/2017/662)) et le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) et le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-9]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), les errata des 17 janv. 2017 ([RO 2017 133](https://fedlex.data.admin.ch/eli/oc/2017/40)), 26 sept. 2017 ([RO 2017 5061](https://fedlex.data.admin.ch/eli/oc/2017/551)), 14 nov. 2017 ([RO 2017 6021](https://fedlex.data.admin.ch/eli/oc/2017/662)) et le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Généralités
 
@@ -4622,7 +4623,7 @@ Annexe 8[^t-9]
 <table>
 <tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
 <tr><td>a. Plan d’exploitation, liste des parcelles, rapport sur la rotation des cultures ou formulaire sur les parts de cultures disponible, bulletins de livraison des engrais de ferme ou extrait d’HODUFLU, enregistrements des aliments NPr, analyses du sol (de plus de 10 ans), tests des pulvérisateurs de plus de 3 ans incomplets, manquants, erronés, inutilisables ou invalides (annexe 1, ch. 1, 2.2 et 6.1a.1)</td><td>50 fr. par document ou par analyse du sol La réduction n’est effectuée que si le manquement est encore présent à l’expiration du délai supplémentaire accordé ou si le document n’est pas fourni</td></tr>
-<tr><td>b. Bilan de fumure (y compris les justificatifs nécessaires) incomplet, manquant, erroné ou inutilisable (annexe 1, ch. 1)</td><td>200 fr. Si le manquement est encore présent après l’expiration du délai supplémentaire accordé, 110 points sont déduits</td></tr>
+<tr><td>b. Bilan de fumure (y compris les justificatifs nécessaires) incomplet, manquant, erroné ou inutilisable (annexe 1, ch. 1)</td><td>[tab] 200 fr. Si le manquement est encore présent après l’expiration du délai supplémentaire accordé de 10 jours au maximum, 110 points sont déduits</td></tr>
 <tr><td>c. Calendrier des prairies ou carnet des prés, carnet des champs ou fiches de cultures, incomplets, manquants, erronés ou inutilisables; actualisation: jusqu’à une semaine avant le contrôle (annexe 1, ch. 1)</td><td>200 fr. par document</td></tr>
 <tr><td>d. Bilan de fumure simplifié (y compris les justificatifs nécessaires) incomplet, manquant, erroné ou inutilisable (annexe 1, ch. 2.1.9a)</td><td>200 fr. Délai supplémentaire pour le bilan de fumure selon la méthode «Suisse-Bilanz»</td></tr>
 </table>
@@ -4633,7 +4634,6 @@ Annexe 8[^t-9]
 <tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
 <tr><td>a. Moins de 7 % de surface de promotion de la biodiversité à la SAU (cultures spéciales: 3,5 %); (art. 14)</td><td>20 points par % de moins, au moins 10 points</td></tr>
 <tr><td>b. Exploitation non conforme aux prescriptions des objets inscrits dans les inventaires d’importance nationale, y compris les zones tampon (art. 15)</td><td>[tab] 5 points par objet</td></tr>
-<tr><td>c.[^annex8-lvlu1-lvl2-lvl22-1] Moins de 3,5 % de surface de promotion de la biodiversité sur des terres assolées situées sur le territoire national dans la zone de plaine et dans celle des collines (art. 14*a*)</td><td>[tab] 20 points par % de moins, au moins 10 points</td></tr>
 </table>
 
 - 2\.2.5 Bordures tampon
@@ -4658,8 +4658,8 @@ Annexe 8[^t-9]
 <tr><td>Non-respect des exigences concernant les pauses entre les cultures (seulement les exploitations bio); (art. 16, al. 4)</td><td colspan="2"></td><td>100 points × terres ouvertes concernées/SAU Au max. 30 points au total pour tous les manquements visés à la let. d</td></tr>
 <tr><td>e. Pas de couverture du sol (art. 17)</td><td colspan="2">Absence de culture d’automne ou de culture intercalaire/engrais vert</td><td>600 fr./ha × surface de la parcelle en ha</td></tr>
 <tr><td>f. Pertes de sol visibles liées aux pratiques agricoles sur la même parcelle exploitée (art. 17 et annexe 1, ch. 5)</td><td colspan="2"></td><td>Pas de réduction dans le premier cas et pas de réduction en cas de récidive si un plan de mesures reconnu par le canton a été respecté. En cas de récidive, s’il n’existe pas de plan de mesures reconnu par le canton ou si un plan de mesures reconnu n’a pas été respecté: 900 fr./ha × surface de la parcelle exploitée en ha, min. 500 fr., max. 5000 fr. En cas d’échange de surfaces, la réduction est appliquée à l’exploitant qui est responsable de la mise en œuvre du plan de mesures ou des mesures prises de manière autonome.</td></tr>
-<tr><td colspan="2">g. Exigences non respectées concernant les témoins (annexe 1, ch. 6.2)</td><td></td><td>5 points par culture</td></tr>
-<tr><td colspan="2">h. Utilisation de produits phytosanitaires entre le 15 novembre et le 15 février (annexe 1, ch. 6.2.1) Utilisation de produits phytosanitaires non autorisés ou interdits et utilisation incorrecte (annexe 1, ch. 6.1, 6.2 et 6.3) Utilisation incorrecte des herbicides (annexe 1, ch. 6.2.2) Lutte sans prise en compte ou sans dépassement du seuil de tolérance (art. 18, al. 2, annexe 1, ch. 6.2.3) Exigences non respectées concernant l’utilisation d’insecticides, en pulvérisation ou en granulés (annexe 1, ch. 6.2.3)</td><td></td><td>Pour chaque manquement: 600 fr./ha × surface concernée en ha</td></tr>
+<tr><td colspan="2">g. …</td><td></td><td></td></tr>
+<tr><td colspan="2">h. Lutte sans prise en compte ou sans dépassement du seuil de tolérance (art. 18, al. 2, annexe 1, ch. 6.2.3) i. Utilisation de produits phytosanitaires non autorisés (art. 18, al. 3) j. Utilisation de produits phytosanitaires entre le 15 novembre et le 15 février sans autorisation spéciale (annexe 1, ch. 6.2.1) k. Utilisation incorrecte des herbicides ou utilisation sans autorisation spéciale (art. 18, al. 4 et 7, annexe 1, ch. 6.1.1, 6.1.2, 6.2.2 et 6.3) l. Utilisation incorrecte des insecticides ou utilisation sans autorisation spéciale (art. 18, al. 4 et 7, annexe 1, ch. 6.1.1, 6.1.2, 6.2.3 et 6.3)</td><td></td><td>Pour chaque manquement: 600 fr./ha × surface concernée en ha</td></tr>
 </table>
 
 - 2\.2.7 Arboriculture
@@ -4688,8 +4688,9 @@ Annexe 8[^t-9]
 <table>
 <tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
 <tr><td>a. Les pulvérisateurs à prise de force ou autotractés d’une contenance de plus de 400 litres utilisés pour la protection des végétaux n’ont pas de réservoir d’eau claire ou de système de nettoyage interne automatique (annexe 1, ch. 6.1a.2)</td><td>500 fr.</td></tr>
-<tr><td>b. Lors de l’utilisation de produits phytosanitaires, les charges fixées dans l’autorisation concernant le ruissellement et la dérive n’ont pas été respectées (annexe 1, ch. 6.1a.4)</td><td>600 fr./ha × surface concernée en ha</td></tr>
-<tr><td>c. Les mesures de réduction de la dérive n’ont pas permis d’obtenir au moins 1 point et/ou les mesures de réduction du ruissellement n’ont pas permis d’obtenir au moins 1 point (annexe 1, ch. 6.1a.4)</td><td>600 fr./ha × surface concernée en ha</td></tr>
+<tr><td>b. …</td><td></td></tr>
+<tr><td>c. Les mesures de réduction de la dérive n’ont pas permis d’obtenir au moins 1 point (annexe 1, ch. 6.1a.4)</td><td>600 fr./ha × surface concernée en ha</td></tr>
+<tr><td>d. Les mesures de réduction du ruissellement n’ont pas permis d’obtenir au moins 1 point (annexe 1, ch. 6.1a.4)</td><td>600 fr./ha × surface concernée en ha</td></tr>
 </table>
 
 - 2\.2.10 Projets de développement des PER
@@ -4698,8 +4699,6 @@ Annexe 8[^t-9]
 <tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
 <tr><td>Les exigences des PER ou les dérogations autorisées par l’OFAG ne sont pas respectées (art. 25*a*).</td><td>Réduction analogue aux ch. 2.2.1 à 2.2.9</td></tr>
 </table>
-
-[^annex8-lvlu1-lvl2-lvl22-1]: En vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### 2.3 Protection des animaux
 
@@ -4906,13 +4905,6 @@ Annexe 8[^t-9]
 <tr><td>Conditions et charges non respectées; bordure tampon large de moins de 50 cm; des engrais ou produits phytosanitaires ont été utilisés (annexe 1, ch. 3.1 et 3.2.3)</td><td>Chaque manquement: 200 fr.</td></tr>
 </table>
 
-- 2\.4.25 Céréales en lignes de semis espacées
-
-<table>
-<tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
-<tr><td>[tab] Q I: conditions et charges non respectées (art. 57 et 58, annexe 4, ch. 17)</td><td>200 % x CQ I</td></tr>
-</table>
-
 ### 2.4*a* Contributions à la biodiversité: contribution pour la mise en réseau
 
 - 2\.4a.1 Les réductions des contributions doivent être fixées par le canton dans le cadre du projet régional de mise en réseau. Elles doivent correspondre au moins aux réductions mentionnées aux ch. 2.4a.2 et 2.4a.3.
@@ -4941,7 +4933,7 @@ Annexe 8[^t-9]
 - Les points concernant les manquements visés aux ch. 5a.2 à 2.5a.5 sont convertis en réductions comme suit: somme des points moins 10 points, divisée par 100, multipliée ensuite par la totalité des contributions pour l’agriculture biologique.
 - Si aucun manquement n’est constaté pour les points de contrôle mentionnés aux ch. 2.5a.2 à 2.5a.5, une marge de tolérance sera appliquée au manquement concernant l’élevage (ch. 2.5a.6 à 2.5a.10): somme des montants forfaitaires moins 200 francs.
 - Les manquements constatés dans la garde des animaux/élevage (ch. 2.5a.6 à 2.5a.10) entraînent des points de pénalité qui s’ajoutent aux montants forfaitaires.
-- Si, en additionnant les points de pénalité concernant l’agriculture biologique (ch. 2.5a.2 à 2.5a.10) et les PER (ch. 2.2) ainsi que 25 % des points dans le domaine des SRPA (ch. 2.9.10 à 2.9.14), on obtient 110 points ou plus, aucune contribution n’est versée pour l’agriculture biologique pendant l’année de contributions concernée.
+- Si, en additionnant les points de pénalité concernant l’agriculture biologique (ch. 2.5a.2 à 2.5a.10) et les PER (ch. 2.2) ainsi que 25 % des points dans le domaine des SRPA et de la contribution à la mise au pâturage (ch. 2.9.4 à 2.9.5), on obtient 110 points ou plus, aucune contribution n’est versée pour l’agriculture biologique pendant l’année de contributions concernée.
 - Dans tous les cas, cependant, les réductions ne peuvent être appliquées que dans la limite du montant des contributions pour l’agriculture biologique.
 - Dans le premier cas de récidive, les points et les montants forfaitaires sont doublés. À partir du deuxième cas de récidive, ils sont multipliés par quatre. Ces dispositions ne s’appliquent pas aux ch. 2.5a.3, let. g, et 2.5a.10.
 - 2\.5a.2 Généralités
@@ -5262,7 +5254,7 @@ Annexe 8[^t-9]
 <tr><td>b. La ration alimentaire complète de l’ensemble des porcs gardés dans l’exploitation dépasse la valeur limite spécifique à l’exploitation en protéines brutes en grammes par mégajoule d’énergie digestible porcs (g/MJ EDP) (annexe 6*a*, ch. 3 et 5) Les aliments ne présentent pas une valeur nutritive adaptée aux besoins des animaux (art. 82*c*, al. 1). Dans l’engraissement des porcs, moins de deux rations alimentaires ayant des teneurs différentes en protéines brutes en g/MJ EDP sont utilisées pendant la durée de l’engraissement. La ration alimentaire utilisée en phase finale de l’engraissement représente, par rapport à la matière sèche, moins de 30 % des aliments utilisés dans l’engraissement des porcs (art. 82*c*, al. 2).</td><td>200 % des contributions</td></tr>
 </table>
 
-[^annex8-lvlu1-lvl2-lvl210-1]: Les éditions applicables des modules complémentaires peuvent être consultées sous [www.blw.admin.ch](http://www.blw.admin.ch/) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex8-lvlu1-lvl2-lvl210-1]: Les éditions applicables des modules complémentaires peuvent être consultées sous [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 
 ### 2.11 Dispositions applicables à l’agriculture dans la législation sur la protection des eaux, de l’environnement, de la nature et du paysage
 
