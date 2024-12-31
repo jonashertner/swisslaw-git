@@ -4,10 +4,10 @@ number: "852.2"
 title: Kinder- und Jugendheimgesetz (KJG)
 short: KJG
 language: de
-nachtrag: "115"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2017-11-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_2-2017_11_27-2022_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_2-2017_11_27-2022_01_01-127.html"
 text: pdf
 ---
 
@@ -243,7 +243,11 @@ Die Leistungsvereinbarung regelt insbesondere a. Art und Umfang der Leistungen,
 
 - b. die Gemeinden 60%.
 
-<sup>2</sup> Massgebend sind die Kosten, die nach Abzug der Beiträge der Unterhaltspflichtigen und weiterer gesetzlicher Beiträge verbleiben.
+<sup>2</sup> Massgebend sind die Kosten, die nach Abzug der Beiträge der Unterhaltspflichtigen und weiterer gesetzlicher Beiträge verbleiben. Sie umfassen:[^17-1] a. die Leistungsabgeltungen gemäss § 16,
+
+- b. die Kostenanteile gemäss § 20.
+
+[^17-1]: Fassung gemäss G vom 3. Juni 2024 (OS 79, 471; ABl 2023-02-17). In Kraft seit 1. Januar 2025. 1. 1. 22 - 115 9
 
 #### § 18
 
@@ -281,13 +285,17 @@ Die Leistungsvereinbarung regelt insbesondere a. Art und Umfang der Leistungen,
 
 - c. die Weiterentwicklung von Fach- und Methodenkompetenz unterstützen.
 
-<sup>2</sup> Die Subventionen können bis zur vollen Höhe der ungedeckten Kosten der Projekte ausgerichtet werden.
-
 **5**
 
-- 1\. 1. 22 - 115 § 22. <sup>1</sup> Eine ergänzende Hilfe zur Erziehung wird finanziert, wenn eine Anordnung einer Kindes- und Erwachsenenschutzbehörde (KESB), eines Gerichts oder eine Kostenübernahmegarantie der Direktion vorliegt.
+- 1\. 1. 22 - 115
+
+<sup>2</sup> Die Subventionen können bis zur vollen Höhe der ungedeckten Kosten der Projekte ausgerichtet werden.
+
+#### § 22
 
 **Voraussetzungen für die Leistungspflicht von Kanton und Gemeinden**
+
+<sup>1</sup> Eine ergänzende Hilfe zur Erziehung wird finanziert, wenn eine Anordnung einer Kindes- und Erwachsenenschutzbehörde (KESB), eines Gerichts oder eine Kostenübernahmegarantie der Direktion vorliegt.
 
 <sup>2</sup> Die Finanzierung bei Leistungserbringenden ohne Leistungsvereinbarung mit der Direktion setzt eine Kostenübernahmegarantie der Direktion voraus.
 
@@ -426,7 +434,7 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 - 1\. Das Einführungsgesetz zum Kindes- und Erwachsenenschutzrecht vom 25. Juni 2012[^hAnhang-1]: . . .[^hAnhang-2] 2.[^hAnhang-3], <sup>6</sup> Das Volksschulgesetz vom 7. Februar 2005[^hAnhang-4]: . . .[^hAnhang-2] 3.[^hAnhang-5] Das Kinder- und Jugendhilfegesetz vom 14. März 2011[^hAnhang-6]: . . .[^hAnhang-2]
 
 [^hAnhang-1]: LS 232.3.
-[^hAnhang-2]: Text siehe OS 74, 322. 1. 1. 22 - 115 9
+[^hAnhang-2]: Text siehe OS 74, 322.
 [^hAnhang-3]: Berichtigungen siehe OS 74, 342 und 76, 623.
 [^hAnhang-4]: LS 412.100.
 [^hAnhang-5]: Inkrafttreten: 1. August 2020 (OS 75, 370): Änderung vom 27. November 2017 des Kinder- und Jugendhilfegesetzes vom 14. März 2011 (Anhang Ziff. 3).
