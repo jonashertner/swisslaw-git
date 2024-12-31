@@ -4,24 +4,23 @@ number: "361.200"
 title: Verordnung betreffend die Gebühren und Vergütungen des Kantonalen Veterinäramtes
 short: Gebührenverordnung Veterinäramt
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-12-10
+version: 2025-01-01
+version_adopted: 2024-06-25
 adopted: 2007-08-07
 in_force: 2007-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/361.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4744/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend die Gebühren und Vergütungen des Kantonalen Veterinäramtes
 
-Veterinäramt und Schlachthof: Gebührenverordnung | Veterinäramt / Tierseuchenbekämpfung / Viehversicherung
+Veterinäramt und Schlachthof: Gebührenverordnung | Veterinäramt | Tierseuchenbekämpfung | Viehversicherung
 
 (Gebührenverordnung Veterinäramt)
 
-Vom 7. August 2007 (Stand 1. Januar 2020)
+Vom 7. August 2007 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
