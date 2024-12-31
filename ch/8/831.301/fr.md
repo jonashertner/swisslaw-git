@@ -4,11 +4,11 @@ title: "Ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: fr
-version: 2024-04-03
+version: 2025-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240403/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240403-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240403/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20250101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240403/fr"
 
 (OPC-AVS/AI)[^t-1] [^t-2]
 
-du 15 janvier 1971 (État le 3 avril 2024)
+du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. V de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 [^t-2]: Nouvelle abréviation selon le ch. I de l’O du 24 nov. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 2085](https://fedlex.data.admin.ch/eli/oc/1982/2085_2085_2085)).
@@ -40,11 +40,15 @@ arrête:
 
 ### A. Le droit aux prestations complémentaires et les bases de calcul
 
+[^chap1-lvlA-1]
+
+[^chap1-lvlA-1]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+
 ### I. Droit
 
-[^chap1-lvlB-1]
+[^chap1-lvlA-lvlI-1]
 
-[^chap1-lvlB-1]: Introduit par le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^chap1-lvlA-lvlI-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
 #### Art. 1
 
@@ -131,9 +135,9 @@ Les époux sont considérés comme vivant séparés au sens des al. 1 et 2:[^3-6
 
 ### II. Addition des dépenses reconnues, des revenus déterminants et de la fortune des membres de la famille
 
-[^chap1-lvlB-lvlI-1]
+[^chap1-lvlA-lvlII-1]
 
-[^chap1-lvlB-lvlI-1]: Anciennement section I. Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^chap1-lvlA-lvlII-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
 #### Art. 3a
 
@@ -249,9 +253,9 @@ Les organes d’exécution examinent d’office s’il est prévisible qu’un b
 
 ### IIa. Revenus déterminants, dépenses reconnues et fortune
 
-[^chap1-lvlB-lvlII-1]
+[^chap1-lvlA-lvlIIa-1]
 
-[^chap1-lvlB-lvlII-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^chap1-lvlA-lvlIIa-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
 #### Art. 11
 
@@ -423,12 +427,12 @@ Lorsqu’en vertu de l’art. 65*d*, al. 3, let. b, de la loi fédérale du 25 j
 
 <sup>2</sup> L’al. 1 s’applique également aux personnes qui bénéficient d’un usufruit ou qui sont titulaires d’un droit d’habitation sur l’immeuble qu’elles habitent.
 
-<sup>3</sup> Le montant du forfait s’élève à 3060 francs par année.[^16a-2]
+<sup>3</sup> Le montant du forfait s’élève à 3480 francs par année.[^16a-2]
 
 <sup>4</sup> Le montant maximum au sens de l’art. 10, al. 1, let. b, LPC, doit être respecté.[^16a-3]
 
 [^16a-1]: Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^16a-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
+[^16a-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 [^16a-3]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 16b
@@ -464,7 +468,7 @@ Si plusieurs personnes comprises dans le calcul commun de la prestation complém
 
 **Prime de l’assurance obligatoire des soins**[^16d-1]
 
-Est considérée comme prime effective visée à l’art. 10, al. 3, let. d, LPC la prime qui a été approuvée par l’autorité de surveillance au sens de l’art. 16 de la loi du 26 septembre 2014 sur la surveillance le l’assurance-maladie[^16d-2], pour l’assureur, le canton et la région de prime du bénéficiaire de prestations complémentaires, dans les domaines suivants:
+Est considérée comme prime effective visée à l’art. 10, al. 3, let. d, LPC la prime qui a été approuvée par l’autorité de surveillance au sens de l’art. 16 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^16d-2], pour l’assureur, le canton et la région de prime du bénéficiaire de prestations complémentaires, dans les domaines suivants:
 
 - a. le groupe d’âge;
 - b. la franchise;
@@ -602,9 +606,9 @@ Tant que le conjoint survivant n’a pas fait usage de son droit d’option sur 
 
 ### III. Remboursement de frais de maladie et d’invalidité
 
-[^chap1-lvlB-lvlIII-1]
+[^chap1-lvlA-lvlIII-1]
 
-[^chap1-lvlB-lvlIII-1]: Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^chap1-lvlA-lvlIII-1]: Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 
 #### Art. 19
 
@@ -644,9 +648,9 @@ Les frais de maladie et d’invalidité des enfants dont il n’est pas tenu com
 
 ### IV. Dispositions diverses
 
-[^chap1-lvlB-lvlIV-1]
+[^chap1-lvlA-lvlIV-1]
 
-[^chap1-lvlB-lvlIV-1]: Anciennement ch. III.
+[^chap1-lvlA-lvlIV-1]: Anciennement ch. III.
 
 #### Art. 20
 
@@ -760,34 +764,37 @@ La prestation complémentaire annuelle doit être augmentée, réduite ou suppri
 
 - a.[^25-4] lors de chaque changement survenant au sein d’une communauté de personnes comprises dans le calcul de la prestation complémentaire annuelle;
 - b. lors de chaque modification de la rente de l’assurance-vieillesse et survivants ou de l’assurance-invalidité;
-- c.[^25-5] lorsque les dépenses reconnues, les revenus déterminants et la fortune subissent une diminution ou une augmentation pour une durée qui sera vraisemblablement longue; sont déterminants les dépenses nouvelles et les revenus nouveaux et durables, convertis sur une année, ainsi que la fortune existant à
-- la date à laquelle le changement intervient; on peut renoncer à adapter la prestation complémentaire annuelle, lorsque la modification est inférieure à 120 francs par an;
-- d.[^25-6] lors d’un contrôle périodique, si l’on constate un changement des dépenses reconnues, des revenus déterminants et de la fortune; on pourra renoncer à rectifier la prestation complémentaire annuelle, lorsque la modification est inférieure à 120 francs par an.
+- b<sup>bis</sup>.[^25-5] en cas de séjour dans un home ou dans un hôpital, lorsquela taxe journalière visée à l’art. 10, al. 2, let. a, LPC n’est pas facturée pour tous les jours d’un mois;
+- c.[^25-6] lorsque les dépenses reconnues, les revenus déterminants et la fortune subissent une diminution ou une augmentation pour une durée qui sera vraisemblablement longue; sont déterminants les dépenses nouvelles et les revenus nouveaux et durables, convertis sur une année, ainsi que la fortune existant à la date à laquelle le changement intervient; on peut renoncer à adapter la prestation complémentaire annuelle, lorsque la modification est inférieure à 120 francs par an;
+- d.[^25-7] lors d’un contrôle périodique, si l’on constate un changement des dépenses reconnues, des revenus déterminants et de la fortune; on pourra renoncer à rectifier la prestation complémentaire annuelle, lorsque la modification est inférieure à 120 francs par an.
 
 <sup>2</sup>
 
 La nouvelle décision doit porter effet dès la date suivante:
 
 - a. dans les cas prévus par l’al. 1, let. a et b, en cas de changement au sein d’une communauté de personnes, sans effet sur la rente, dès le début du mois qui suit celui au cours duquel le changement est survenu; lors d’une modification de la rente, dès le début du mois au cours duquel la nouvelle rente a pris naissance ou au cours duquel le droit à la rente s’éteint;
-- b.[^25-7] dans les cas prévus par l’al. 1, let. c, lors d’une augmentation de l’excédent des dépenses, dès le début du mois au cours duquel le changement a été annoncé, mais au plus tôt à partir du mois dans lequel celui-ci est survenu;
-- c.[^25-8] dans les cas prévus par l’al. 1, let. c, lors d’une diminution de l’excédent des dépenses, au plus tard dès le début du mois qui suit celui au cours duquel la nouvelle décision a été rendue; la créance en restitution est réservée lorsque l’obligation de renseigner a été violée;
-- d.[^25-9] dans les cas prévus par l’al. 1, let. d, dès le début du mois au cours duquel le changement a été annoncé, mais au plus tôt à partir du mois dans lequel celui-ci est survenu et au plus tard dès le début du mois qui suit celui au cours duquel la nouvelle décision a été rendue. La créance en restitution est réservée lorsque l’obligation de renseigner a été violée.
+- a<sup>bis</sup>.[^25-8] dans le cas prévu par l’al. 1, let. b<sup>bis</sup>, au début du mois pour lequel le home ou l’hôpital ne facture pas tous les jours;
+- b.[^25-9] dans les cas prévus par l’al. 1, let. c, lors d’une augmentation de l’excédent des dépenses, dès le début du mois au cours duquel le changement a été annoncé, mais au plus tôt à partir du mois dans lequel celui-ci est survenu;
+- c.[^25-10] dans les cas prévus par l’al. 1, let. c, lors d’une diminution de l’excédent des dépenses, au plus tard dès le début du mois qui suit celui au cours duquel la nouvelle décision a été rendue; la créance en restitution est réservée lorsque l’obligation de renseigner a été violée;
+- d.[^25-11] dans les cas prévus par l’al. 1, let. d, dès le début du mois au cours duquel le changement a été annoncé, mais au plus tôt à partir du mois dans lequel celui-ci est survenu et au plus tard dès le début du mois qui suit celui au cours duquel la nouvelle décision a été rendue. La créance en restitution est réservée lorsque l’obligation de renseigner a été violée.
 
-<sup>3</sup> Suite à une diminution de la fortune, un nouveau calcul de la prestation complémentaire annuelle ne peut être effectué qu’une fois par an.[^25-10]
+<sup>3</sup> Suite à une diminution de la fortune, un nouveau calcul de la prestation complémentaire annuelle ne peut être effectué qu’une fois par an.[^25-12]
 
-<sup>4</sup> Si une prestation complémentaire en cours doit être réduite, en raison de la prise en compte d’un revenu minimum au sens des art. 14*a*, al. 2, et 14*b*, la réduction ne pourra avoir lieu avant l’écoulement d’un délai de six mois dès la notification de la décision afférente.[^25-11]
+<sup>4</sup> Si une prestation complémentaire en cours doit être réduite, en raison de la prise en compte d’un revenu minimum au sens des art. 14*a*, al. 2, et 14*b*, la réduction ne pourra avoir lieu avant l’écoulement d’un délai de six mois dès la notification de la décision afférente.[^25-13]
 
 [^25-1]: Nouvelle teneur selon le ch. II 2 de l’O du 5 avril 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 [RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^25-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-4]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-5]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-5]: Introduite par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 [^25-6]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-7]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-8]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
-[^25-9]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
-[^25-10]: Introduit par le ch. I de l’O du 16 juin 1986 ([RO 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-11]: Introduit par le ch. I de l’O du 7 déc. 1987 ([RO 1987 1797](https://fedlex.data.admin.ch/eli/oc/1987/1797_1797_1797)).
+[^25-8]: Introduite par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
+[^25-9]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-10]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
+[^25-11]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
+[^25-12]: Introduit par le ch. I de l’O du 16 juin 1986 ([RO 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-13]: Introduit par le ch. I de l’O du 7 déc. 1987 ([RO 1987 1797](https://fedlex.data.admin.ch/eli/oc/1987/1797_1797_1797)).
 
 #### Art. 25a
 
@@ -805,11 +812,13 @@ La nouvelle décision doit porter effet dès la date suivante:
 
 **Répartition des communes dans les régions déterminantes pour les loyers**[^26-1]
 
-<sup>1</sup> La région 1 correspond au type 111 de la typologie des communes 2012 (25 catégories). Elle comprend les cinq centres urbains de Berne, Zurich, Bâle, Genève et Lausanne.
+<sup>1</sup> La région 1 correspond au type 111 de la typologie des communes 2020 (25 catégories).[^26-2] Elle comprend les cinq centres urbains de Berne, Zurich, Bâle, Genève et Lausanne.
 
-<sup>2</sup> Les autres communes sont réparties dans deux régions définies sur la base de la typologie urbain-rural 2012. La région 2 comprend les communes des catégories «urbain» et «intermédiaire», la région 3 les communes de la catégorie «rural».
+<sup>2</sup> Les autres communes sont réparties dans deux régions définies sur la base de la typologie urbain-rural 2020.[^26-3] La région 2 comprend les communes des catégories «urbain» et «intermédiaire», la région 3 les communes de la catégorie «rural».
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
+[^26-3]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 
 #### Art. 26a
 
@@ -819,10 +828,10 @@ La nouvelle décision doit porter effet dès la date suivante:
 
 Le Département fédéral de l’intérieur (département) fixe dans une ordonnance:
 
-- a. les modalités de calcul de la réduction ou de l’augmentation des montants maximaux visée à l’art. 10, al. 1<sup>quinquies</sup>, LPC;
+- a.[^26a-2] les modalités de calcul de la réduction ou de l’augmentation des montants maximaux visée à l’art. 10, al. 1<sup>sexies</sup>, LPC;
 - b. jusqu’à fin octobre au plus tard, la réduction ou l’augmentation des montants maximaux applicables aux communes concernées à partir de l’année suivante.
 
-<sup>2</sup> La demande de réduction ou d’augmentation des montants maximaux visée à l’art. 10, al. 1<sup>quinquies</sup>, LPC doit être déposée à l’Office fédéral des assurances sociales (office fédéral).
+<sup>2</sup> La demande de réduction ou d’augmentation des montants maximaux visée à l’art. 10, al. 1<sup>sexies</sup>, LPC doit être déposée à l’Office fédéral des assurances sociales (office fédéral).[^26a-3]
 
 <sup>3</sup>
 
@@ -835,6 +844,8 @@ Elle doit notamment indiquer:
 <sup>4</sup> Elle doit être déposée au plus tard le 30 juin de l’année précédente.
 
 [^26a-1]: Introduit par le ch. I de l’O du 26 nov. 1997 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)). Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^26a-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
+[^26a-3]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 
 #### Art. 26b
 
@@ -902,9 +913,9 @@ La prestation transitoire visée à l’art. 32 LAI[^27d-2] est assimilable à u
 
 ### I. Gestion et frais administratifs
 
-[^chap1-lvlC-lvlI-1]
+[^chap1-lvlB-lvlI-1]
 
-[^chap1-lvlC-lvlI-1]: Nouvelle expression selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)). Il a été tenu compte de cette mod. dans tout le texte.
+[^chap1-lvlB-lvlI-1]: Nouvelle expression selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 28
 
@@ -1012,7 +1023,7 @@ Les cantons qui laissent aux communes le soin de fixer et de verser les prestati
 
 **Frais**[^36-1]
 
-Les frais de revision font partie des frais administratifs au sens de l’art. 24 LPC.
+Les frais de révision font partie des frais administratifs au sens de l’art. 24 LPC.
 
 [^36-1]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
@@ -1042,9 +1053,9 @@ Les frais de revision font partie des frais administratifs au sens de l’art. 2
 
 ### I. Aux prestations complémentaires annuelles
 
-[^chap1-lvlC-lvlI-2]
+[^chap1-lvlC-lvlI-1]
 
-[^chap1-lvlC-lvlI-2]: Introduit par le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^chap1-lvlC-lvlI-1]: Introduit par le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 39
 

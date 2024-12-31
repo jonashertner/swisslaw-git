@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Januar 1971 über die Ergänzungsleistungen zur Alter
 short: ELV
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: de
-version: 2024-04-03
+version: 2025-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240403/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240403-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240403/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20250101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240403/de"
 
 (ELV)[^t-1]
 
-vom 15. Januar 1971 (Stand am 3. April 2024)
+vom 15. Januar 1971 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. V der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmungen wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -136,7 +136,7 @@ Als getrennt lebend gelten im Sinne der Absätze 1 und 2 Ehegatten, wenn:[^3-6]
 
 [^chap1-lvlA-lvlII-1]
 
-[^chap1-lvlA-lvlII-1]: Eingefügt durch Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^chap1-lvlA-lvlII-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
 #### Art. 3a
 
@@ -426,12 +426,12 @@ Wird gestützt auf Artikel 65*d* Absatz 3 Buchstabe b des Bundesgesetzes vom 25.
 
 <sup>2</sup> Absatz 1 gilt auch für Personen, denen die Nutzniessung oder ein Wohnrecht an der Liegenschaft zusteht, welche sie bewohnen.
 
-<sup>3</sup> Die Pauschale beträgt pro Jahr 3060 Franken.[^16a-2]
+<sup>3</sup> Die Pauschale beträgt pro Jahr 3480 Franken.[^16a-2]
 
 <sup>4</sup> Die Begrenzung nach Artikel 10 Absatz 1 Buchstabe b ELG ist zu beachten.[^16a-3]
 
 [^16a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^16a-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
+[^16a-2]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 [^16a-3]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 16b
@@ -640,7 +640,7 @@ Krankheits- und Behinderungskosten von Kindern, die nach Artikel 8 Absatz 2 auss
 <tr><td>nur ein Ehegatte</td><td>mittelschwer</td><td>85 000 Franken</td></tr>
 </table>
 
-[^19b-1]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^19b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3877](https://fedlex.data.admin.ch/eli/oc/2003/562)). Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^19b-2]: Fassung gemäss Anhang Ziff. 1 der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^19b-3]: Fassung gemäss Anhang Ziff. 1 der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
@@ -762,34 +762,38 @@ Die jährliche Ergänzungsleistung ist zu erhöhen, herabzusetzen oder aufzuhebe
 
 - a.[^25-4] bei jeder Veränderung der der Berechnung der jährlichen Ergänzungsleistung zugrunde liegenden Personengemeinschaft;
 - b. bei jeder Änderung der Rente der Alters-, Hinterlassenen- oder Invalidenversicherung;
-- c.[^25-5] bei Eintritt einer voraussichtlich längere Zeit dauernden Verminderung oder Erhöhung der vom ELG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens; massgebend sind die neuen, auf ein Jahr umgerechneten dauernden Ausgaben und Einnahmen und das bei Eintritt der Veränderung vorhandene Vermögen; macht die Änderung weniger als 120 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden;
-- d.[^25-6] bei der periodischen Überprüfung, wenn eine Änderung der vom ELG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens festgestellt wird; macht die Änderung weniger als 120 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden.
+- b<sup>bis</sup>.[^25-5] bei einem Heim- oder Spitalaufenthalt, für den die Tagestaxe nach Artikel 10 Absatz 2 Buchstabe a ELG nicht für alle Tage eines Monats in Rechnung gestellt wird;
+- c.[^25-6] bei Eintritt einer voraussichtlich längere Zeit dauernden Verminderung oder Erhöhung der vom ELG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens; massgebend sind die neuen, auf ein Jahr umgerechneten dauernden Ausgaben und Einnahmen und das bei Eintritt der Veränderung vorhandene Vermögen; macht die Änderung weniger als 120 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden;
+- d.[^25-7] bei der periodischen Überprüfung, wenn eine Änderung der vom ELG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens festgestellt wird; macht die Änderung weniger als 120 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden.
 
 <sup>2</sup>
 
-Die jährliche Ergänzungsleistung ist auf folgenden Zeitpunkt neu zu verfügen:[^25-7]
+Die jährliche Ergänzungsleistung ist auf folgenden Zeitpunkt neu zu verfügen:[^25-8]
 
 - a. in den Fällen von Absatz 1 Buchstaben a und b bei Veränderung der Personengemeinschaft ohne Einfluss auf die Rente auf den Beginn des der Veränderung folgenden Monats; bei Änderung der Rente auf den Beginn des neuen Rentenanspruchs oder des Monats, in dem der Rentenanspruch erlischt;
-- b.[^25-8] im Fall von Absatz 1 Buchstabe c bei Erhöhung des Ausgabenüberschusses auf den Beginn des Monats, in dem die Änderung gemeldet wurde, frühestens aber des Monats, in dem diese eingetreten ist;
-- c.[^25-9] im Fall von Absatz 1 Buchstabe c bei Verminderung des Ausgabenüberschusses spätestens auf den Beginn des Monats, der auf die neue Verfügung folgt; vorbehalten bleibt die Rückforderung bei Verletzung der Meldepflicht;
-- d.[^25-10] im Fall von Absatz 1 Buchstabe d auf Beginn des Monats, in dem die Änderung gemeldet wurde, frühestens aber des Monats, in dem diese eingetreten ist, und spätestens auf den Beginn des Monats, der auf die neue Verfügung folgt. Vorbehalten bleibt die Rückforderung bei Verletzung der Meldepflicht.
+- a<sup>bis</sup>.[^25-9] im Fall von Absatz 1 Buchstabe b<sup>bis</sup> auf den Beginn des Monats, für den das Heim oder Spital nicht alle Tage in Rechnung stellt;
+- b.[^25-10] im Fall von Absatz 1 Buchstabe c bei Erhöhung des Ausgabenüberschusses auf den Beginn des Monats, in dem die Änderung gemeldet wurde, frühestens aber des Monats, in dem diese eingetreten ist;
+- c.[^25-11] im Fall von Absatz 1 Buchstabe c bei Verminderung des Ausgabenüberschusses spätestens auf den Beginn des Monats, der auf die neue Verfügung folgt; vorbehalten bleibt die Rückforderung bei Verletzung der Meldepflicht;
+- d.[^25-12] im Fall von Absatz 1 Buchstabe d auf Beginn des Monats, in dem die Änderung gemeldet wurde, frühestens aber des Monats, in dem diese eingetreten ist, und spätestens auf den Beginn des Monats, der auf die neue Verfügung folgt. Vorbehalten bleibt die Rückforderung bei Verletzung der Meldepflicht.
 
-<sup>3</sup> Eine Neuberechnung der jährlichen Ergänzungsleistung wegen Vermögensverzehrs ist nur einmal jährlich möglich.[^25-11]
+<sup>3</sup> Eine Neuberechnung der jährlichen Ergänzungsleistung wegen Vermögensverzehrs ist nur einmal jährlich möglich.[^25-13]
 
-<sup>4</sup> Die Herabsetzung einer laufenden Ergänzungsleistung infolge der Anrechnung eines Mindesteinkommens nach den Artikeln 14*a* Absatz 2 und 14*b* wird erst sechs Monate nach Zustellung der entsprechenden Verfügung wirksam.[^25-12]
+<sup>4</sup> Die Herabsetzung einer laufenden Ergänzungsleistung infolge der Anrechnung eines Mindesteinkommens nach den Artikeln 14*a* Absatz 2 und 14*b* wird erst sechs Monate nach Zustellung der entsprechenden Verfügung wirksam.[^25-14]
 
 [^25-1]: Fassung gemäss Ziff. II 2 der V vom 5. April 1978, in Kraft seit 1. Jan. 1979 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^25-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-5]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-5]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 [^25-6]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-7]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-8]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-9]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
-[^25-10]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
-[^25-11]: Eingefügt durch Ziff. I der V vom 16. Juni 1986 ([AS 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)). Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-12]: Eingefügt durch Ziff. I der V vom 7. Dez. 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1797](https://fedlex.data.admin.ch/eli/oc/1987/1797_1797_1797)).
+[^25-9]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
+[^25-10]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-11]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
+[^25-12]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
+[^25-13]: Eingefügt durch Ziff. I der V vom 16. Juni 1986 ([AS 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)). Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-14]: Eingefügt durch Ziff. I der V vom 7. Dez. 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1797](https://fedlex.data.admin.ch/eli/oc/1987/1797_1797_1797)).
 
 #### Art. 25a
 
@@ -807,11 +811,13 @@ Die jährliche Ergänzungsleistung ist auf folgenden Zeitpunkt neu zu verfügen:
 
 **Einteilung der Gemeinden in Mietzinsregionen**[^26-1]
 
-<sup>1</sup> Die Region 1 entspricht der Kategorie 111 der Gemeindetypologie 2012 (25 Typen). Sie umfasst die fünf Grosszentren Bern, Zürich, Basel, Genf und Lausanne.
+<sup>1</sup> Die Region 1 entspricht der Kategorie 111 der Gemeindetypologie 2020 (25 Typen).[^26-2] Sie umfasst die fünf Grosszentren Bern, Zürich, Basel, Genf und Lausanne.
 
-<sup>2</sup> Der Einteilung der übrigen Gemeinden in die zwei Regionen liegt die Stadt/Land-Typologie 2012 zugrunde. Der Region 2 werden die Gemeinden der Kategorien «städtisch» und «intermediär», der Region 3 die Gemeinden der Kategorie «ländlich» zugeteilt.
+<sup>2</sup> Der Einteilung der übrigen Gemeinden in die zwei Regionen liegt die Stadt/Land-Typologie 2020 zugrunde.[^26-3] Der Region 2 werden die Gemeinden der Kategorien «städtisch» und «intermediär», der Region 3 die Gemeinden der Kategorie «ländlich» zugeteilt.
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^26-2]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
+[^26-3]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 
 #### Art. 26a
 
@@ -821,10 +827,10 @@ Die jährliche Ergänzungsleistung ist auf folgenden Zeitpunkt neu zu verfügen:
 
 Das Eidgenössische Departement des Innern (Departement) legt in einer Verordnung fest:
 
-- a. die Berechnungsmodalitäten für die Senkung oder Erhöhung der Mietzinshöchstbeträge nach Artikel 10 Absatz 1<sup>quinquies</sup> ELG;
+- a.[^26a-2] die Berechnungsmodalitäten für die Senkung oder Erhöhung der Mietzinshöchstbeträge nach Artikel 10 Absatz 1<sup>sexies</sup> ELG;
 - b. jeweils bis spätestens Ende Oktober die Senkung oder Erhöhung der Höchstbeträge für die betroffenen Gemeinden ab dem nächsten Jahr.
 
-<sup>2</sup> Der Antrag, die Mietzinshöchstbeträge nach Artikel 10 Absatz 1<sup>quinquies</sup> ELG zu senken oder zu erhöhen, ist beim Bundesamt für Sozialversicherungen (Bundesamt) einzureichen.
+<sup>2</sup> Der Antrag, die Mietzinshöchstbeträge nach Artikel 10 Absatz 1<sup>sexies</sup> ELG zu senken oder zu erhöhen, ist beim Bundesamt für Sozialversicherungen (Bundesamt) einzureichen.[^26a-3]
 
 <sup>3</sup>
 
@@ -837,6 +843,8 @@ Er hat insbesondere zu umfassen:
 <sup>4</sup> Er ist jeweils bis zum 30. Juni des Vorjahres einzureichen.
 
 [^26a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 1997 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)). Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^26a-2]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
+[^26a-3]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 
 #### Art. 26b
 
