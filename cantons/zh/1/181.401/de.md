@@ -3,11 +3,11 @@ canton: ZH
 number: "181.401"
 title: Vollzugsverordnung zur Personalverordnung
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
+valid_until: 2025-08-01
 adopted: 2011-07-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_401-2011_07_06-2012_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_401-2011_07_06-2012_01_01-127.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ Soweit diese Verordnung nicht ausdrücklich etwas anderes bestimmt, gelten für 
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 ### B. Personalcontrolling und Stellenplan
 
@@ -145,33 +145,36 @@ Der Kirchenrat überwacht die Einreihungsordnung und die Entwicklung des Persona
 
 <sup>2</sup> Die Anstellungsinstanz kann zusätzliche Nachweise verlangen. Sie kann die Anstellung vom Ergebnis einer Eignungsabklärung oder einer vertrauensärztlichen Untersuchung abhängig machen.
 
-<sup>3</sup> Pfarrerinnen, Pfarrer und Angestellte reichen der Anstellungsinstanz im Rahmen des Bewerbungsverfahrens einen Privatauszug und, sofern sie regelmässig mit Minderjährigen oder anderen besonders schutzbedürftigen Personen tätig sind, einen Sonderprivatauszug aus dem Strafregister ein, die nicht älter als ein Jahr sind.
+<sup>3</sup> . . .[^8-2]
 
-<sup>4</sup> Die Verpflichtung gemäss Abs. 3 entfällt, wenn sich im Personaldossier bei der Anstellungsinstanz ein Privatauszug und ein Sonderprivatauszug finden, die nicht älter als zwei Jahre sind.
-
-[^8-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 467; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
-
-#### § 10
+<sup>4</sup> . . .[^8-2]
 
 **Stellenbeschreibung (§ 19 PVO)**
 
-<sup>1</sup> Die Anstellungsinstanz erlässt die Stellenbeschreibung gemäss § 19 PVO.
+§ 10. <sup>1</sup> Die Anstellungsinstanz erlässt die Stellenbeschreibung gemäss § 19 PVO.
 
 <sup>2</sup> Der Kirchenrat kann Richtlinien über den notwendigen Inhalt und die Gestaltung von Stellenbeschreibungen erlassen.
 
-**3**
+[^8-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 467; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
+[^8-2]: Aufgehoben durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
-- 1\. 1. 24 - 123 § 11. <sup>1</sup> Zur Berechnung der Dienstjahre wird für Pfarrerinnen, Pfarrer und Angestellte ungeachtet der Zahl der Arbeitsverhältnisse ein fiktives Eintrittsdatum festgesetzt. Dieses bezeichnet den Zeitpunkt des Beginns der ersten, für die Berechnung der Dienstjahre zu berücksichtigenden Tätigkeit.
+#### § 11
 
 **Fiktives Eintrittsdatum (§ 25 PVO)**
 
+<sup>1</sup> Zur Berechnung der Dienstjahre wird für Pfarrerinnen, Pfarrer und Angestellte ungeachtet der Zahl der Arbeitsverhältnisse ein fiktives Eintrittsdatum festgesetzt. Dieses bezeichnet den Zeitpunkt des Beginns der ersten, für die Berechnung der Dienstjahre zu berücksichtigenden Tätigkeit.
+
+**3**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Das fiktive Eintrittsdatum wird bei einem Wiedereintritt in den Dienst einer Kirchgemeinde oder der Landeskirche angepasst, ebenso bei einmaligen oder mehrfachen unbezahlten Urlauben, deren Dauer im Einzelfall insgesamt drei Monate übersteigt, wobei nur die diese Dauer übersteigende Zeit berücksichtigt wird.
 
-<sup>3</sup> Die Dauer der einzelnen anrechenbaren Arbeitsverhältnisse wird auf den Tag genau berechnet.[^10-1]
+<sup>3</sup> Die Dauer der einzelnen anrechenbaren Arbeitsverhältnisse wird auf den Tag genau berechnet.[^11-1]
 
 <sup>4</sup> Die Anstellungsinstanz berechnet das fiktive Eintrittsdatum. Weisen Pfarrerinnen, Pfarrer und Angestellte gleichzeitig mehrere Arbeitsverhältnisse bei Kirchgemeinden oder der Landeskirche auf, so ist diejenige Anstellungsinstanz zuständig, die das erste Arbeitsverhältnis begründete.
 
-[^10-1]: Eingefügt durch B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
+[^11-1]: Eingefügt durch B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
 
 #### § 12
 
@@ -223,17 +226,15 @@ Bestehen für eine Pfarrerin, einen Pfarrer, eine Angestellte oder einen Angeste
 
 § 16.[^15-1] <sup>1</sup> Die Weiterbeschäftigung erfolgt durch Begründung eines neuen Arbeitsverhältnisses. Dessen Dauer beträgt höchstens ein Jahr. Es kann jeweils um dieselbe Dauer verlängert werden. § 23 Abs. 2 PVO findet keine Anwendung.
 
-<sup>2</sup> Eine Weiterbeschäftigung ist bis Ende des Monats zulässig, in dem Pfarrerinnen, Pfarrer und Angestellte das 70. Altersjahr vollenden. Sie kann im Interesse der Anstellungsinstanz in begründeten Fällen über diesen Zeitpunkt hinaus erfolgen, insbesondere für Stellvertretungen gemäss Art. 121 Abs. 1 der Kirchenordnung.
+<sup>2</sup> Die während der Weiterbeschäftigung geleisteten Dienstjahre werden nicht angerechnet. § 25 PVO findet keine Anwendung.
 
-<sup>3</sup> Die während der Weiterbeschäftigung geleisteten Dienstjahre werden nicht angerechnet. § 25 PVO findet keine Anwendung.
+<sup>3</sup> Der Lohn darf den von derselben Anstellungsinstanz vor der Beendigung des Arbeitsverhältnisses gemäss Art. 132 Abs. 2 der Kirchenordnung und § 26 Abs. 2 lit. b PVO ausgerichteten Lohn nicht übersteigen.[^15-2]
 
-<sup>4</sup> Der Lohn darf den von derselben Anstellungsinstanz vor der Beendigung des Arbeitsverhältnisses gemäss Art. 132 Abs. 2 der Kirchenordnung und § 26 Abs. 2 lit. b PVO ausgerichteten Lohn nicht übersteigen.[^15-2]
+<sup>4</sup> Bei ganzer oder teilweiser Arbeitsunfähigkeit wegen Krankheit wird der Lohn während eines Monats weiter ausgerichtet. Bei Unfall gelten die Bestimmungen des Bundesgesetzes über die Unfallversicherung[^15-3].
 
-<sup>5</sup> Bei ganzer oder teilweiser Arbeitsunfähigkeit wegen Krankheit wird der Lohn während eines Monats weiter ausgerichtet. Bei Unfall gelten die Bestimmungen des Bundesgesetzes über die Unfallversicherung[^15-3].
+<sup>5</sup> Das Anstellungsverhältnis kann unter Einhaltung einer Frist von einem Monat jederzeit auf das Ende eines Monats gekündigt werden.
 
-<sup>6</sup> Das Anstellungsverhältnis kann unter Einhaltung einer Frist von einem Monat jederzeit auf das Ende eines Monats gekündigt werden.
-
-[^15-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+[^15-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 [^15-2]: Fassung gemäss B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
 [^15-3]: SR 832.20.
 
@@ -245,11 +246,11 @@ Bestehen für eine Pfarrerin, einen Pfarrer, eine Angestellte oder einen Angeste
 
 <sup>1</sup> Gewählte Pfarrerinnen und Pfarrer, die von ihrer Stelle zurücktreten wollen, reichen ihr Gesuch um Entlassung aus dem Amt dem Kirchenrat mindestens drei Monate vorher ein. Sie stellen der Kirchenpflege gleichzeitig eine Kopie ihres Gesuchs zu.
 
+<sup>2</sup> Der Kirchenrat entscheidet über den Zeitpunkt der Entlassung aus dem Amt und regelt die Stellvertretung.
+
 **5**
 
-- 1\. 1. 24 - 123
-
-<sup>2</sup> Der Kirchenrat entscheidet über den Zeitpunkt der Entlassung aus dem Amt und regelt die Stellvertretung.
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Bei einer Entlassung aus dem Amt gemäss Art. 132 Abs. 2 der Kirchenordnung zeigt der Kirchenrat dies den Pfarrerinnen und Pfarrern sowie der Kirchenpflege mindestens neun Monate im Voraus an. In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer teilen dem Kirchenrat mindestens sechs Monate im Voraus den genauen Zeitpunkt des Ausscheidens aus dem Amt mit.
 
@@ -319,91 +320,130 @@ Kommen Pfarrerinnen, Pfarrer und Angestellte ihrer Informationspflicht gemäss �
 
 ### C. Standortbestimmung
 
-#### § 25
-
 **Angestellte (§ 84 PVO) a. Zweck und Gegenstand**
 
-<sup>1</sup> Die Mitarbeiterbeurteilung dient der Förderung des Personals und der Personalentwicklung, der Beurteilung von Leistung und Verhalten sowie der Überprüfung der Arbeitssituation und der Zielvereinbarung. Die vorgesetzte Stelle erhält von den Angestellten Rückmeldungen zu ihrem Führungsverhalten.
+§ 25.[^hCStandortbestimmun-1] <sup>1</sup> Das Mitarbeitendengespräch dient insbesondere:
+
+- a. der Begleitung und Förderung der Angestellten und der Personalentwicklung,
+
+- b. der Überprüfung von Leistung und Verhalten sowie der Arbeitssituation der Angestellten,
 
 **7**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
-<sup>2</sup> Gegenstand der Mitarbeiterbeurteilung bilden insbesondere Fachkompetenz, Arbeitsausführung und Arbeitsergebnisse, Persönlichkeits- und Sozialkompetenz, Zielerreichung und Zielvereinbarung sowie bei vorgesetzten Stellen die Führungskompetenz.
+- c. dem Gespräch mit den Angestellten über ihre berufliche und persönliche Entwicklung,
 
-#### § 26
+- d. den Rückmeldungen der Angestellten zum Führungsverhalten der vorgesetzten Stelle.
+
+<sup>2</sup> Gegenstand des Mitarbeitendengesprächs bilden insbesondere:
+
+- a. die Fach-, Sozial- und Selbstkompetenz,
+
+- b. die Zielerreichung,
+
+- c. die Zielvereinbarung,
+
+- d. bei vorgesetzten Stellen die Führungskompetenz.
+
+<sup>3</sup> Die Angestellten erhalten vorab Aufschluss über die Grundlagen, die für das Mitarbeitendengespräch massgebend sind.
 
 **b. Vorgehen**
 
-<sup>1</sup> Eine Mitarbeiterbeurteilung findet unter Verwendung des von der Anstellungsinstanz bezeichneten Formulars statt:
+§ 26.[^hCStandortbestimmun-1] <sup>1</sup> Die vorgesetzte Stelle führt mit den Angestellten das Mitarbeitendengespräch. Dieses findet statt:
 
-- a. während der ersten zwei Dienstjahre jährlich, danach mindestens alle zwei Jahre,
+- a. mindestens jährlich,
 
 - b. auf Anordnung der vorgesetzten Stelle oder auf Gesuch der oder des Angestellten,
 
-- c. in denjenigen Fällen, in denen die Personalverordnung oder diese Verordnung eine zusätzliche Mitarbeiterbeurteilung vorschreiben.
+- c. in denjenigen Fällen, in denen die Personalverordnung oder diese Verordnung ein zusätzliches Mitarbeitendengespräch vorschreibt.
 
-<sup>2</sup> Die vorgesetzte Stelle bespricht die Mitarbeiterbeurteilung mit den Angestellten im Rahmen eines Beurteilungs- und Förderungsgesprächs.
+<sup>2</sup> Der Kirchenrat stellt ein Formular für das Mitarbeitendengespräch zur Verfügung.
 
-<sup>3</sup> Das Ergebnis der Mitarbeiterbeurteilung wird schriftlich festgehalten und von beiden Seiten unterzeichnet. Mit ihrer Unterschrift bestätigen die Angestellten lediglich, dass ihnen die Mitarbeiterbeurteilung eröffnet und das Gespräch geführt worden ist. Sie können eigene Bemerkungen anbringen.
+<sup>3</sup> Das Ergebnis des Mitarbeitendengesprächs wird schriftlich festgehalten und von beiden Seiten unterzeichnet. Die Angestellten können eigene Bemerkungen anbringen. Mit ihrer Unterschrift bestätigen sie lediglich, dass das Mitarbeitendengespräch geführt worden ist und sie dessen Ergebnis zur Kenntnis genommen haben.
 
-<sup>4</sup> Die Angestellten können eine Besprechung mit der nächsthöheren vorgesetzten Stelle über die Mitarbeiterbeurteilung verlangen. Die Angestellten sind berechtigt, zu einer solchen Besprechung eine Person ihres Vertrauens beizuziehen.
+<sup>4</sup> Die Angestellten können eine Besprechung mit der nächsthöheren vorgesetzten Stelle über das Ergebnis des Mitarbeitendengesprächs verlangen. Die Angestellten sind berechtigt, zu einer solchen Besprechung eine Person ihres Vertrauens beizuziehen.
 
-<sup>5</sup> Das Ergebnis der Mitarbeiterbeurteilung bildet Bestandteil der Personalakten. Die beurteilte Person erhält eine Kopie.
+<sup>5</sup> Das Ergebnis des Mitarbeitendengesprächs bildet Bestandteil der Personalakten. Die Angestellten erhalten eine Kopie.
 
-<sup>6</sup> Die Beurteilung der Zielerreichung und der Abschluss einer neuen Zielvereinbarung erfolgen in der Regel jährlich. Abs. 2–5 sind sinngemäss anwendbar.
+**c. Gesamteinschätzung**
 
-#### § 27
+§ 27.[^hCStandortbestimmun-1] Das Mitarbeitendengespräch enthält als Ergebnis gemäss § 26 Abs. 3 eine der folgenden Gesamteinschätzungen:
 
-**c. Beurteilungsverfahren**
+- a. Die Zusammenarbeit verläuft erfolgreich.
 
-<sup>1</sup> Die Anstellungsinstanzen regeln im Rahmen von §§ 25 und 26 das Beurteilungsverfahren für ihre Angestellten. Dieses enthält Bewertungen entsprechend den Beurteilungsstufen «ungenügend», «genügend», «gut» und «sehr gut».
+- b. Für eine erfolgreiche Zusammenarbeit sind Veränderungen erforderlich.
 
-<sup>2</sup> Der Kirchenrat stellt den Kirchgemeinden ein Muster-Beurteilungssystem zur Verfügung.
+- c. In wichtigen Bereichen genügt die Leistung beziehungsweise das Verhalten nicht.
 
-<sup>3</sup> Die Angestellten erhalten Aufschluss über die Grundlagen, die für die Mitarbeiterbeurteilung massgebend sind.
+**Pfarrerinnen und Pfarrer (§ 85 PVO) a. Zweck und Gegenstand**
 
-#### § 28
+§ 28.[^hCStandortbestimmun-1] <sup>1</sup> Das Mitarbeitendengespräch dient insbesondere:
 
-**Pfarrerinnen und Pfarrer (§ 85 PVO) a. Grundsatz**
+- a. der Begleitung und Förderung der Pfarrerinnen und Pfarrer sowie der Personalentwicklung,
 
-Das Fach- und Evaluationsgespräch sowie die Standortbestimmung dienen der Begleitung und Förderung der Pfarrerinnen und Pfarrer in ihrer pfarramtlichen Tätigkeit.
+- b. der Sichtung und Evaluation der pfarramtlichen Arbeit entlang der vier Handlungsfelder gemäss Art.29 Abs.1 der Kirchenordnung, einschliesslich der theologischen Reflexion des Gemeindeaufbaus,
 
-#### § 29
+- c. der Erörterung der individuellen Arbeitssituation in der Kirchgemeinde,
 
-**b. Fach- und Evaluationsgespräch (§ 85 Abs. 1 PVO)**
+- d. dem Gespräch mit den Pfarrerinnen und Pfarrern über ihre berufliche und persönliche Entwicklung,
 
-<sup>1</sup> Gegenstand des Fach- und Evaluationsgesprächs bilden die Erörterung der Arbeitssituation, die Erörterung von Leistung und Verhalten, die Sichtung und Evaluation der pfarramtlichen Arbeit entlang der vier Handlungsfelder gemäss Art. 29 Abs. 1 der Kirchenordnung, Fragen aus dem Bereich der Selbst- und Sozialkompetenz sowie die Zielerreichung und Zielvereinbarung.
+- e. der Rückmeldung der Pfarrerinnen und Pfarrer zur Leitungs- und Zusammenarbeitssituation in der Kirchgemeinde an die Kirchenpflege oder an die durch die Geschäftsordnung der Kirchenpflege gemäss § 30 Abs. 2 bezeichnete Stelle.
 
-<sup>2</sup> Das Ergebnis des Fach- und Evaluationsgesprächs wird in Form einer Zielvereinbarung schriftlich festgehalten und von beiden Seiten unterzeichnet. Es bildet Bestandteil der Personalakten der für das Fach- und Evaluationsgespräch zuständigen Stelle. Pfarrerinnen und Pfarrer erhalten eine Kopie.
+<sup>2</sup> Gegenstand des Mitarbeitendengesprächs bilden insbesondere:
 
-<sup>3</sup> Ein Fach- und Evaluationsgespräch findet mindestens alle zwei Jahre statt.
+- a. die Fach-, Sozial- und Selbstkompetenz,
 
-<sup>4</sup> Bei Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung tritt an die Stelle der Dekanin oder des Dekans in der Regel die vom Kirchenrat bezeichnete Stelle. Diese kann zum Gespräch die Präsidentin oder den Präsidenten der Kirchenpflege einer Kirchgemeinde beiziehen, in der die Stellvertreterin oder der Stellvertreter seit dem letzten Fach- und Evaluationsgespräch tätig war.[^29-1]
+- b. die Zielerreichung,
 
-**c. Standortbestimmung (§ 85 Abs. 2 PVO)**
+- c. die Zielvereinbarung.
 
-§ 30.[^29-2] <sup>1</sup> Die Standortbestimmung findet in Form eines Standortgesprächs statt. Dessen Gegenstand bilden die individuelle Arbeits- und Zusammenarbeitssituation in der Kirchgemeinde, die Arbeitsausführung und die Arbeitsergebnisse sowie die Zielerreichung und Zielvereinbarung.
+<sup>3</sup> Pfarrerinnen und Pfarrer erhalten vorab Aufschluss über die Grundlagen, die für das Mitarbeitendengespräch massgebend sind.
 
-<sup>2</sup> Eine Standortbestimmung findet alle zwei Jahre statt.[^29-3]
+**b. Gewählte Pfarrerinnen und Pfarrer (§ 85 Abs. 1 PVO)**
 
-<sup>3</sup> Bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern nimmt einmal pro Amtsdauer die Dekanin oder der Dekan an der Standortbestimmung teil. Auf Wunsch der Präsidentin oder des Präsidenten der Kirchenpflege oder der Pfarrerin oder des Pfarrers kann die Dekanin oder der Dekan auch an den weiteren Standortbestimmungen teilnehmen.
+§ 29.[^hCStandortbestimmun-1] <sup>1</sup> Die Dekanin oder der Dekan führt das Mitarbeitendengespräch mit den gewählten Pfarrerinnen und Pfarrern im Sinn eines Fach- und Evaluationsgesprächs und eines kollegialen Gesprächs entlang des vom Kirchenrat zur Verfügung gestellten Formulars.
 
-<sup>4</sup> Das Ergebnis der Standortbestimmung wird schriftlich festgehalten und von den Beteiligten unterzeichnet. Es bildet Bestandteil der Personalakten der Kirchenpflege. Die Pfarrerin oder der Pfarrer erhalten eine Kopie, die Dekanin oder der Dekan, sofern sie oder er am Gespräch teilgenommen hat.
+<sup>2</sup> Das Ergebnis des Mitarbeitendengesprächs wird auf geeignete Weise schriftlich festgehalten und von beiden Seiten unterzeichnet. Es bildet Bestandteil der Personalakten der Dekanin oder des Dekans. Pfarrerinnen und Pfarrer erhalten eine Kopie.
+
+<sup>3</sup> Das Mitarbeitendengespräch findet pro Amtsdauer der Pfarrerinnen und Pfarrer einmal statt. Die Dekanin oder der Dekan kann zu weiteren Mitarbeitendengesprächen einladen.
+
+**c. In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer (§ 85 Abs. 2 PVO)**
+
+§ 30.[^hCStandortbestimmun-1] <sup>1</sup> Die Präsidentin oder der Präsident der Kirchenpflege führt das Mitarbeitendengespräch im Sinn einer Standortbestimmung mit den gewählten Pfarrerinnen und Pfarrern der Kirchgemeinde sowie mit Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung, die seit mindestens einem Jahr in der Kirchgemeinde tätig sind.
 
 **9**
 
-- 1\. 1. 24 - 123 § 31. <sup>1</sup> Die Kirchenratspräsidentin oder der Kirchenratspräsident führt einmal pro Amtsdauer das Fach- und Evaluationsgespräch mit den Dekaninnen und Dekanen. Neben den Gesichtspunkten gemäss § 29 Abs. 1 bildet das Amt der Dekanin und des Dekans, insbesondere hinsichtlich Fragen der Leitung, Gegenstand des Gesprächs.
+- 1\. 1. 25 - 127
 
-**d. Gemeinsame Bestimmungen**
+<sup>2</sup> Die Geschäftsordnung der Kirchenpflege kann ein anderes Mitglied der Kirchenpflege oder das personalverantwortliche Mitglied einer unterstellten Kommission mit der Führung des Mitarbeitendengesprächs gemäss Abs. 1 beauftragen.
 
-<sup>2</sup> An der Standortbestimmung gemäss § 30 Abs. 4 mit der Dekanin oder dem Dekan nimmt die Vizedekanin oder der Vizedekan teil.
+<sup>3</sup> Das Mitarbeitendengespräch findet mindestens jährlich statt. Der Kirchenrat stellt den Kirchenpflegen ein Formular für das Mitarbeitendengespräch zur Verfügung.
 
-<sup>3</sup> Der Kirchenrat stellt Vorlagen für das Fach- und Evaluationsgespräch sowie für die Standortbestimmung zur Verfügung. Pfarrerinnen und Pfarrer erhalten Aufschluss über die Grundlagen, die für das Fach- und Evaluationsgespräch sowie die Standortbestimmung massgebend sind.
+<sup>4</sup> Die Dekanin oder der Dekan nimmt einmal pro Amtsdauer der Pfarrerinnen und Pfarrer am Mitarbeitendengespräch teil. Auf Wunsch der Präsidentin oder des Präsidenten der Kirchenpflege, der gemäss Abs. 2 bezeichneten Stelle, der Pfarrerin oder des Pfarrers oder auf eigenen Wunsch kann die Dekanin oder der Dekan auch an den weiteren Mitarbeitendengesprächen teilnehmen.
 
-[^29-1]: Eingefügt durch B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
-[^29-2]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
-[^29-3]: Fassung gemäss B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
+<sup>5</sup> Das Ergebnis des Mitarbeitendengesprächs wird schriftlich festgehalten und von den Beteiligten unterzeichnet. Es bildet Bestandteil der Personalakten der Kirchenpflege. Die Pfarrerin oder der Pfarrer erhält eine Kopie, ebenso die Dekanin oder der Dekan, sofern sie oder er am Gespräch teilgenommen hat.
+
+<sup>6</sup> Ist die Dekanin oder der Dekan gewählte Pfarrerin oder gewählter Pfarrer, so nimmt die Vizedekanin oder der Vizedekan am Mitarbeitendengespräch mit der Dekanin oder dem Dekan teil.
+
+**d. Stellvertreterinnen und Stellvertreter gemäss Art. 121 Abs. 1 KO (§ 85 Abs. 4 KO)**
+
+§ 30 a.[^hCStandortbestimmun-2] <sup>1</sup> Die vom Kirchenrat bezeichneten Stellen führen unter Verwendung des vom Kirchenrat zur Verfügung gestellten Formulars regelmässig das Mitarbeitendengespräch im Sinn einer Standortbestimmung mit Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung.
+
+<sup>2</sup> Die Stellen gemäss Abs. 1 können aus den Kirchgemeinden, in denen die Stellvertreterin oder der Stellvertreter seit dem letzten Mitarbeitendengespräch tätig war, die Präsidentin oder den Präsidenten der Kirchenpflege oder die gemäss § 30 Abs. 2 zuständige Stelle sowie die Dekanin oder den Dekan des betreffenden Pfarrkapitels zum Gespräch beiziehen.
+
+<sup>3</sup> Das Ergebnis des Mitarbeitendengesprächs wird schriftlich festgehalten und von den Beteiligten unterzeichnet. Es bildet Bestandteil der Personalakten. Die Pfarrerin oder der Pfarrer erhält eine Kopie, ebenso die Dekanin oder der Dekan, sofern sie oder er am Gespräch teilgenommen hat.
+
+**e. Pfarrerinnen und Pfarrer in Pfarrämtern der Gesamtkirchlichen Dienste (§ 85 Abs. 4 PVO)**
+
+§ 30 b.[^hCStandortbestimmun-2] Das Mitarbeitendengespräch mit Pfarrerinnen und Pfarrern in Pfarrämtern der Gesamtkirchlichen Dienste richtet sich nach §§ 25–27.
+
+**f. Dekaninnen und Dekane**
+
+§ 31.[^hCStandortbestimmun-1] Die Kirchenratspräsidentin oder der Kirchenratspräsident führt einmal pro Amtsdauer ein Mitarbeitendengespräch mit den Dekaninnen und Dekanen. Neben den Gesichtspunkten gemäss § 28 bildet das Amt der Dekanin und des Dekans, insbesondere hinsichtlich Fragen der Leitung, Gegenstand des Gesprächs.
+
+[^hCStandortbestimmun-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+[^hCStandortbestimmun-2]: Eingefügt durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 ### D. Datenschutz
 
@@ -425,9 +465,7 @@ Das Fach- und Evaluationsgespräch sowie die Standortbestimmung dienen der Begle
 
 - e. Akten über Lohn und Versicherungen,
 
-- f. Akten über Ferien, Urlaube und andere Dienstaussetzungen sowie über Nebenbeschäftigungen und öffentliche Ämter,
-
-- g. Mitarbeiterbeurteilungen sowie Ergebnisse von Fach- und Evaluationsgesprächen und Standortbestimmungen, h.[^32-1] Akten über Aus- und Weiterbildungen sowie die Karriereplanung,
+- f. Akten über Ferien, Urlaube und andere Dienstaussetzungen sowie über Nebenbeschäftigungen und öffentliche Ämter, g.[^32-1] Ergebnisse von Mitarbeitendengesprächen, h.[^32-2] Akten über Aus- und Weiterbildungen sowie die Karriereplanung,
 
 - i. ärztliche Zeugnisse und Gutachten,
 
@@ -437,9 +475,14 @@ Das Fach- und Evaluationsgespräch sowie die Standortbestimmung dienen der Begle
 
 - l. Akten über besondere Ereignisse und Verfahren.
 
+**11**
+
+- 1\. 1. 25 - 127
+
 <sup>3</sup> Die Personalakten sind verschlossen aufzubewahren sowie vor dem Zugriff, der Einsichtnahme und Veränderungen durch unbefugte Personen zu schützen, insbesondere wenn sie zur Bearbeitung von Personalgeschäften durch verschiedene Stellen versandt werden müssen.
 
-[^32-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+[^32-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+[^32-2]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
 
 #### § 33
 
@@ -473,10 +516,6 @@ Personaldossiers sind durch die zur Führung zuständige Stelle periodisch zu ü
 
 <sup>2</sup> Die Begleitperson (Case Managerin oder Case Manager) erarbeitet zu Beginn der Fallbegleitung zusammen mit der Pfarrerin, dem Pfarrer, der Angestellten oder dem Angestellten und der Anstellungsinstanz eine Vereinbarung über die Bearbeitung der persönlichen und medizinischen Daten, die zwischen ihr, der Pfarrerin, dem Pfarrer, der Angestellten oder dem Angestellten, der Vertrauensärztin oder dem Vertrauensarzt und den zuständigen Versicherungen ausgetauscht werden können.
 
-**11**
-
-- 1\. 1. 24 - 123
-
 <sup>3</sup> Die Begleitperson darf persönliche und medizinische Daten ohne ausdrückliche Einwilligung der Pfarrerin, des Pfarrers, der Angestellten oder des Angestellten nur in anonymisierter Form an die Anstellungsinstanz weitergeben. Ausgenommen sind Daten, die für arbeitsplatzbezogene Massnahmen der Wiedereingliederung notwendig sind.
 
 <sup>4</sup> Die Begleitperson informiert die Anstellungsinstanz periodisch über den Stand der Fallführung, soweit dies für den Vollzug des Arbeitsverhältnisses erforderlich ist. Bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern sorgt der Kirchenrat für eine angemessene Information der Kirchenpflege.
@@ -509,6 +548,10 @@ Die Bestimmungen über die Personalakten und Personaldossiers sowie über die Be
 
 - a. Name, Adresse, Telefonnummer, E-Mail-Adresse, Geburtsdatum und Zivilstand,
 
+**13**
+
+- 1\. 1. 25 - 127
+
 - b. Staatsangehörigkeit, Bürgerort und Niederlassungs- oder Aufenthaltsstatus ausländischer Staatsangehöriger,
 
 - c. Geburtsdatum der Ehegattin, des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners,
@@ -531,15 +574,14 @@ Die Bestimmungen über die Personalakten und Personaldossiers sowie über die Be
 
 - m. Bezüge wie Amts- und Dienstwohnungen, Dienstkleider oder Schlüssel,
 
-- n. Bewilligungen, insbesondere für Nebenbeschäftigungen und öffentliche Ämter,
-
-- o. Mitarbeiterbeurteilungen und Ergebnisse von Fach- und Evaluationsgesprächen sowie Standortbestimmungen,
+- n. Bewilligungen, insbesondere für Nebenbeschäftigungen und öffentliche Ämter, o.[^38-2] Ergebnisse von Mitarbeitendengesprächen,
 
 - p. weitere im Rahmen des Personalcontrollings notwendige Angaben.
 
 <sup>3</sup> Die Anstellungsinstanz regelt die Zugriffsrechte.
 
 [^38-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+[^38-2]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 39
 
@@ -548,10 +590,6 @@ Die Bestimmungen über die Personalakten und Personaldossiers sowie über die Be
 <sup>1</sup> Bei der Benützung technischer Einrichtungen, insbesondere von Telefonanlagen und IT-Systemen, dürfen die für den dienstlichen Gebrauch geeigneten und erforderlichen Daten aufgezeichnet werden.
 
 <sup>2</sup> Daten über die private Benützung dieser Einrichtungen dürfen nur zur Gebührenverrechnung erhoben werden.
-
-**13**
-
-- 1\. 1. 24 - 123
 
 <sup>3</sup> Eine Aufzeichnung oder Auswertung der Daten zur Überwachung und Kontrolle von Pfarrerinnen, Pfarrern und Angestellten ist durch organisatorische und technische Massnahmen zu unterbinden.
 
@@ -619,9 +657,11 @@ Die Bestimmungen über die Personalakten und Personaldossiers sowie über die Be
 
 <sup>3</sup> Die Beträge dieser Lohnklassen und die Stufen sind im Anhang 3 zu dieser Verordnung festgelegt.
 
-**Anfangslohn (§ 63 Abs. 1 PVO)**
+**15**
 
-§ 44.[^43-1] <sup>1</sup> Die Anstellungsinstanz setzt den Anfangslohn unter Berücksichtigung von § 55 Abs. 1 und 2 PVO im unteren oder mittleren Bereich einer Lohnklasse fest.
+- 1\. 1. 25 - 127 § 44.[^43-1] <sup>1</sup> Die Anstellungsinstanz setzt den Anfangslohn unter Berücksichtigung von § 55 Abs. 1 und 2 PVO im unteren oder mittleren Bereich einer Lohnklasse fest.
+
+**Anfangslohn (§ 63 Abs. 1 PVO)**
 
 <sup>2</sup> Ausnahmen sind insbesondere möglich,
 
@@ -657,19 +697,19 @@ Die Anstellungsinstanz setzt die Entschädigung für Räume fest, die Pfarrerinn
 
 <sup>2</sup> Der Kirchenrat überweist den Kirchgemeinden den Mietwert für Pfarrhäuser und Pfarrwohnungen, die von in der Kirchgemeinde tätigen Pfarrerinnen und Pfarrern genutzt werden.
 
-**15**
-
-- 1\. 1. 24 - 123 § 48. Erfordern die Aufgaben von Pfarrerinnen, Pfarrern und Angestellten eine Mitwirkung von Familienangehörigen oder Drittpersonen und überschreitet diese ein übliches Mass, so begründet die Anstellungsinstanz mit diesen ein eigenes Anstellungsverhältnis.
+#### § 48
 
 **Mitarbeit von Familienangehörigen und Drittpersonen**
 
-### B. Individuelle Lohnerhöhungen
+Erfordern die Aufgaben von Pfarrerinnen, Pfarrern und Angestellten eine Mitwirkung von Familienangehörigen oder Drittpersonen und überschreitet diese ein übliches Mass, so begründet die Anstellungsinstanz mit diesen ein eigenes Anstellungsverhältnis.
 
-#### § 49
+### B. Individuelle Lohnerhöhungen
 
 **Angestellte a. Voraussetzungen**
 
-Individuelle Lohnerhöhungen innerhalb einer Lohnklasse setzen eine Mitarbeiterbeurteilung voraus, die im verwendeten Beurteilungsverfahren mindestens der Beurteilungsstufe «gut» entspricht und nicht mehr als ein Jahr zurückliegt.
+§ 49.[^hBIndividuelleLohn-1] Eine individuelle Lohnerhöhung innerhalb einer Lohnklasse ist ausgeschlossen, wenn das Ergebnis des Mitarbeitendengesprächs eine Gesamteinschätzung gemäss § 27 lit. c enthält.
+
+[^hBIndividuelleLohn-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 50
 
@@ -681,7 +721,7 @@ Individuelle Lohnerhöhungen innerhalb einer Lohnklasse setzen eine Mitarbeiterb
 
 **c. Zusatzklasse**
 
-§ 51. <sup>1</sup> Ein Wechsel in die Zusatzklasse kann erfolgen, wenn eine Mitarbeiterbeurteilung vorliegt, die im verwendeten Beurteilungsverfahren mindestens der Beurteilungsstufe «sehr gut» entspricht und nicht mehr als ein Jahr zurückliegt.
+§ 51. <sup>1</sup> Ein Wechsel in die Zusatzklasse kann erfolgen, wenn das Ergebnis des Mitarbeitendengesprächs eine Gesamteinschätzung gemäss § 27 lit. a enthält.[^50-2]
 
 <sup>2</sup> Bei einem Wechsel in die Zusatzklasse werden zum bisherigen Lohn 1,2% des Minimums der Zusatzklasse addiert. Der neue Lohn wird in der Stufe oberhalb dieses Betrags festgesetzt.
 
@@ -689,12 +729,21 @@ Individuelle Lohnerhöhungen innerhalb einer Lohnklasse setzen eine Mitarbeiterb
 
 **d. Stellenneubewertung**
 
-§ 51 a.[^50-2] <sup>1</sup> Bei der Neubewertung einer Stelle wird der Lohn der oder des betreffenden Angestellten neu festgesetzt.
+§ 51 a.[^50-2] <sup>1</sup> Mit der Stellenneubewertung wird die Einreihung einer Stelle in eine Lohnklasse aufgrund veränderter Anforderungen in der Stellenbeschreibung angepasst und der Lohn der oder des betreffenden Angestellten neu festgesetzt.
 
-<sup>2</sup> Zum bisherigen Lohn werden 1,2% des Minimums der neuen Lohnklasse addiert. Der neue Lohn wird bis zu vier Stufen oberhalb dieses Betrags festgesetzt.
+<sup>2</sup> Ergibt die Stellenneubewertung die Einreihung in eine höhere Lohnklasse, so werden zum bisherigen Lohn 1,2% des Minimums der neuen Lohnklasse addiert. Der neue Lohn wird bis zu vier Stufen oberhalb dieses Betrags festgesetzt.
+
+<sup>3</sup> Sieht der Einreihungsplan für eine neubewertete Stelle keine höhere Lohnklasse vor, so erfolgt ein Funktionswechsel gemäss § 51 b Abs. 2.
+
+**e. Funktionswechsel**
+
+§ 51 b.[^50-3] <sup>1</sup> Übernehmen Angestellte im Rahmen eines bestehenden Anstellungsverhältnisses eine neue Funktion, so erfolgt ein Funktionswechsel.
+
+<sup>2</sup> Bei einem Funktionswechsel wird der Lohn unter Beibehaltung der bisherigen Stufe in eine Lohnklasse überführt, die der Einreihungsplan für die neue Funktion vorsieht.
 
 [^50-1]: Fassung gemäss B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
-[^50-2]: Eingefügt durch B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
+[^50-2]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+[^50-3]: Eingefügt durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 52
 
@@ -702,19 +751,27 @@ Individuelle Lohnerhöhungen innerhalb einer Lohnklasse setzen eine Mitarbeiterb
 
 <sup>1</sup> Der Kirchenrat kann Pfarrerinnen und Pfarrern im Rahmen von § 50 eine individuelle Lohnerhöhung gewähren.
 
+**17**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Die mittelfristige individuelle Lohnerhöhung bei Pfarrerinnen und Pfarrern entspricht der durchschnittlichen Lohnentwicklung bei den Angestellten der Gesamtkirchlichen Dienste aufgrund erfolgter individueller Lohnerhöhungen in diesem Zeitraum.
 
 <sup>3</sup> Der Kirchenrat regelt die Einzelheiten. Er berücksichtigt dabei insbesondere das gemäss § 25 PVO anrechenbare Dienstalter.
 
-[^52-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+**Mindestdauer des Arbeitsverhältnisses**
 
-#### § 52 a
+§ 52 a.[^52-1] Eine individuelle Lohnerhöhung setzt voraus, dass das Arbeitsverhältnis bei der Anstellungsinstanz im Zeitpunkt, auf den eine individuelle Lohnerhöhung gewährt wird, ununterbrochen mehr als sechs Monate bestanden hat.
 
 **Weiterbildungspflicht23**
 
-<sup>1</sup> Die Anstellungsinstanz kann Pfarrerinnen und Pfarrern sowie Angestellten im kirchenmusikalischen, diakonischen und katechetischen Dienst, die ihre Weiterbildungspflicht gemäss § 163 Abs. 5 nicht erfüllt haben, eine individuelle Lohnerhöhung ganz oder teilweise verweigern.[^52-1]
+§ 52 b.[^52-2] <sup>1</sup> Die Anstellungsinstanz kann Pfarrerinnen und Pfarrern sowie Angestellten im kirchenmusikalischen, diakonischen und katechetischen Dienst, die ihre Weiterbildungspflicht gemäss § 163 Abs. 5 nicht erfüllt haben, eine individuelle Lohnerhöhung ganz oder teilweise verweigern.[^52-3]
 
 <sup>2</sup> Die Nachgewährung der verweigerten individuellen Lohnerhöhung ist ausgeschlossen.
+
+[^52-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+[^52-2]: Nummerierung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 71
+[^52-3]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
 
 #### § 53
 
@@ -760,10 +817,6 @@ Pfarrerinnen, Pfarrer und Angestellte mit einem teilzeitlichen Pensum werden ent
 
 <sup>1</sup> Bei Eintritt oder Austritt oder bei Änderung des Arbeitsverhältnisses im Verlauf eines Monats wird der Lohn nach den zum Lohn berechtigenden Tagen einschliesslich der Sonntage berechnet.
 
-**17**
-
-- 1\. 1. 24 - 123
-
 <sup>2</sup> Bei Eintritt zu Beginn einer Woche wird der Lohn vom ersten Montag an, bei Austritt auf das Ende einer Woche bis und mit dem letzten Sonntag ausgerichtet.
 
 <sup>3</sup> Bei Eintritt am ersten Arbeitstag eines Monats wird der Lohn vom ersten Kalendertag dieses Monats an, bei Austritt am letzten Arbeitstag eines Monats bis zum letzten Kalendertag dieses Monats ausgerichtet.
@@ -798,6 +851,10 @@ Kein Anspruch auf den 13. Monatslohn besteht auf:
 
 <sup>1</sup> Bei unterschiedlichem Beschäftigungsgrad richtet sich die Höhe des Dienstaltersgeschenks nach dem durchschnittlichen Beschäftigungsgrad der letzten zehn beziehungsweise fünf Jahre.
 
+**19**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Pfarrerinnen, Pfarrer und Angestellte, die mit einem vollzeitlichen Pensum bei einer Anstellungsinstanz tätig sind, erhalten auf Nebenbeschäftigungen gemäss § 93 PVO, die sie bei einer Anstellungsinstanz ausüben, kein Dienstaltersgeschenk.
 
 <sup>3</sup> Bestehen mehrere Arbeitsverhältnisse mit einem teilzeitlichen Pensum bei mehreren Anstellungsinstanzen, wird das Dienstaltersgeschenk anteilsmässig auf die Anstellungen aufgeteilt. Vorbehalten bleibt Abs. 2.
@@ -812,9 +869,9 @@ Kein Anspruch auf den 13. Monatslohn besteht auf:
 
 <sup>3</sup> Die Dienstzeit während des Urlaubs wird angerechnet. Der Versicherungsschutz bleibt aufrechterhalten.
 
-<sup>4</sup> Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung sowie Angestellten im katechetischen Dienst kann ein Dienstaltersgeschenk ausnahmsweise ausbezahlt werden, wenn ein Bezug als bezahlter Urlaub aus amtlichen, dienstlichen oder triftigen persönlichen Gründen nicht möglich ist und die Auszahlung im Interesse der Anstellungsinstanz sowie der betreffenden Kirchgemeinde liegt.[^61-1]
+<sup>4</sup> Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung, Angestellten im katechetischen Dienst und Angestellten, deren Pensum 20 Stellenprozent nicht übersteigt, kann ein Dienstaltersgeschenk auf Gesuch hin ausnahmsweise ausbezahlt werden, wenn ein Bezug als bezahlter Urlaub aus amtlichen, dienstlichen oder triftigen persönlichen Gründen nicht möglich ist und die Auszahlung im Interesse der Anstellungsinstanz sowie der betreffenden Kirchgemeinde liegt.[^61-1]
 
-[^61-1]: Eingefügt durch B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
+[^61-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 ### E. Zulagen
 
@@ -830,13 +887,16 @@ Kein Anspruch auf den 13. Monatslohn besteht auf:
 
 <sup>3</sup> Die Teuerungszulage wird in den Jahreslohn eingebaut. Der Kirchenrat passt die Beträge der einzelnen Lohnklassen und Stufen gemäss Anhang zur Personalverordnung sowie Anhängen 2 und 3 zu dieser Verordnung entsprechend an.
 
-#### § 63
-
 **Familienzulage (§ 71 PVO)**
 
-<sup>1</sup> Der Anspruch auf Familienzulagen richtet sich nach § 71 PVO sowie den massgebenden Bestimmungen des Bundesrechts und des kantonalen Rechts.
+§ 63.[^62-1] <sup>1</sup> Der Anspruch auf Familienzulage richtet sich nach § 71 PVO[^62-2] sowie nach den massgebenden Bestimmungen des Bundesrechts und des kantonalen Rechts.
 
-<sup>2</sup> Die Familienzulage wird bei Dienstaussetzung wegen Krankheit oder Unfall auch dann ausgerichtet, wenn das jährliche Erwerbseinkommen durch Lohnkürzung oder durch Anrechnung von Taggeldleistungen unter die Mindesthöhe gemäss Bundesrecht und kantonalem Recht fällt.
+<sup>2</sup> Pfarrerinnen, Pfarrer und Angestellte, welche die Familienzulage nicht selber beziehen, erhalten diese insoweit ausgerichtet, als sie den Mindestansatz nach den massgebenden Bestimmungen des Bundesrechts und des kantonalen Rechts übersteigt. Sie erbringen auf Verlangen der Anstellungsinstanz die nötigen Nachweise über den Bezug der Familienzulage durch beide Elternteile.
+
+<sup>3</sup> Die Familienzulage wird bei Dienstaussetzung wegen Krankheit oder Unfall auch dann ausgerichtet, wenn das jährliche Erwerbseinkommen durch Lohnkürzung oder durch Anrechnung von Taggeldleistungen unter die Mindesthöhe gemäss Bundesrecht und kantonalem Recht fällt.
+
+[^62-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+[^62-2]: LS 181.40.
 
 #### § 64
 
@@ -845,10 +905,6 @@ Kein Anspruch auf den 13. Monatslohn besteht auf:
 <sup>1</sup> Eine Funktionszulage gemäss § 72 PVO kann insbesondere Pfarrerinnen, Pfarrern und Angestellten gewährt werden,
 
 - a. deren Aufgaben, wie sie sich aus der Stellenbeschreibung oder den Amtspflichten ergeben, durch die bestehende Einreihung nicht hinreichend abgedeckt sind und deren Höhereinreihung nicht gerechtfertigt ist,
-
-**19**
-
-- 1\. 1. 24 - 123
 
 - b. denen während mindestens drei Monaten eine ausserordentliche Stellvertretung übertragen ist, sofern ein Unterschied von mindestens zwei Lohnklassen in der Einreihung besteht, höchstens aber im Betrag der Lohndifferenz.
 
@@ -867,6 +923,10 @@ Kein Anspruch auf den 13. Monatslohn besteht auf:
 **Termine**
 
 Funktionszulagen, Einmalzulagen und Leistungsprämien sind nicht an die Termine für individuelle Lohnerhöhungen gemäss § 53 Abs. 1 gebunden.
+
+**21**
+
+- 1\. 1. 25 - 127
 
 ### 4. Abschnitt: Ersatz von dienstlichen Auslagen und Sachschaden
 
@@ -928,10 +988,6 @@ Als dienstliche Auslagen gelten Auslagen, die Pfarrerinnen, Pfarrern und Angeste
 
 <sup>2</sup> Die Vergütung erfolgt als Kilometerentschädigung. Sie entspricht den Ansätzen des Kantons für Berufsauslagen Unselbstständigerwerbender bei der Steuereinschätzung.
 
-**21**
-
-- 1\. 1. 24 - 123
-
 <sup>3</sup> Massgebend für die Kilometerentschädigung ist der kürzeste oder schnellste Weg vom Wohnort über den üblichen oder vereinbarten Arbeitsort oder direkt nach den auswärtigen Arbeitsorten und von dort über den üblichen oder vereinbarten Arbeitsort oder direkt zurück. Wird das private Fahrzeug täglich für den Arbeitsweg benützt, werden nur die zusätzlich zum normalen Arbeitsweg zurückgelegten Kilometer vergütet.
 
 #### § 73
@@ -941,6 +997,10 @@ Als dienstliche Auslagen gelten Auslagen, die Pfarrerinnen, Pfarrern und Angeste
 <sup>1</sup> Die gemäss § 76 Abs. 1 zuständige Behörde kann Pfarrerinnen, Pfarrern und Angestellten Beiträge an die auswärtige Mittagsverpflegung ausrichten, insbesondere durch die vergünstigte Abgabe von Lunch-Checks.
 
 <sup>2</sup> Auslagen für die auswärtige Verpflegung im Zusammenhang mit amtlichen oder dienstlichen Tätigkeiten werden vergütet, wenn die Verpflegungsart nicht gewählt werden kann.
+
+**23**
+
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Pfarrerinnen, Pfarrer und Angestellte können im amtlichen oder dienstlichen Interesse Drittpersonen einladen. Sie dokumentieren zuhanden der gemäss § 76 Abs. 1 zuständigen Behörde Art und Teilnehmende des Anlasses sowie das amtliche oder dienstliche Interesse an der Einladung.
 
@@ -1016,10 +1076,6 @@ Schäden an den anlässlich von Dienstreisen verwendeten Privatfahrzeugen und de
 
 Die Zuständigkeit von Kirchgemeinden und Landeskirche im Rahmen von §§ 78 und 79 richtet sich nach § 76 Abs. 1.
 
-**23**
-
-- 1\. 1. 24 - 123
-
 ### 5. Abschnitt: Ferien, Urlaub, Abordnung und Elternschaft
 
 ### A. Ferien
@@ -1035,6 +1091,10 @@ Beziehen in einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer ihre Ferien nic
 **b. Katechetinnen und Katecheten**
 
 <sup>1</sup> Die Angestellte im katechetischen Dienst beziehen ihre Ferien während der örtlichen Schulferien. §§ 83–90 sind nicht anwendbar.
+
+**25**
+
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Die zusätzliche Ferienwoche gemäss § 78 Abs. 1 PVO, die Angestellten ab Beginn des Kalenderjahres zusteht, in dem sie das 60. Altersjahr vollenden, wird Angestellten im katechetischen Dienst durch einen Zuschlag auf den Lohn von 1,96% abgegolten.[^82-1]
 
@@ -1086,26 +1146,31 @@ Der Ferienanspruch von Angestellten im Stundenlohn wird durch einen Zuschlag zum
 
 <sup>4</sup> Ferien des laufenden Kalenderjahres können im Umfang von höchstens drei Ferienwochen auf das folgende Kalenderjahr übertragen werden. Weiter gehende Übertragungen sowie der ausnahmsweise Vorbezug von Ferien bedürfen bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern der Bewilligung der Kirchenpflege und im Übrigen der Anstellungsinstanz.
 
+[^87-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+
+#### § 88
+
 **b. Pfarrerinnen und Pfarrer in Kirchgemeinden20**
 
-§ 88.[^87-1] <sup>1</sup> In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer sorgen in Absprache mit der Präsidentin oder dem Präsidenten der Kirchenpflege für eine Stellvertretung während ihrer Ferien. Sie bedienen sich nach Möglichkeit der kollegialen Absprache mit anderen Pfarrerinnen und Pfarrern. In einem Pfarramt mit mehreren Pfarrerinnen und Pfarrern vertreten sich diese gegenseitig.
+<sup>1</sup> In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer sorgen in Absprache mit der Präsidentin oder dem Präsidenten der Kirchenpflege oder der durch die Geschäftsordnung der Kirchenpflege bezeichneten Stelle für eine Stellvertretung während ihrer Ferien. Sie bedienen sich nach Möglichkeit der kollegialen Absprache mit anderen Pfarrerinnen und Pfarrern. In einem Pfarramt mit mehreren Pfarrerinnen und Pfarrern vertreten sich diese gegenseitig.[^87-1]
 
 <sup>2</sup> Ist eine Stellvertretung gemäss Abs. 1 nicht möglich, so ersuchen Pfarrerinnen und Pfarrer den Kirchenrat um eine Stellvertretung.
 
 <sup>3</sup> Die Kosten einer Ferienstellvertretung trägt die Kirchgemeinde, welche die Vertretung in Anspruch nimmt. Der Kirchenrat stellt dieser Rechnung. Sind im Pfarramt einer Kirchgemeinde nur eine Person oder zwei Personen tätig, die als Ehegatten, eingetragene Partnerinnen oder Partner oder in faktischer Lebensgemeinschaft zusammenleben, so übernimmt die Landeskirche die Kosten von Ferienstellvertretungen für den Sonntagsgottesdienst, soweit eine Stellvertretung gemäss Abs. 1 nicht möglich ist, höchstens aber entsprechend dem Ferienanspruch der betreffenden Personen.
 
-**25**
-
-- 1\. 1. 24 - 123 § 88 a.[^87-2] <sup>1</sup> Pfarrerinnen und Pfarrer in Institutionen, in Pfarrämtern mit gemischter Trägerschaft und in Pfarrämtern der Gesamtkirchlichen Dienste vertreten sich während ihrer Ferien innerhalb ihres Seelsorgebereichs oder ihres Pfarramtes gegenseitig.
-
 **c. Pfarrerinnen und Pfarrer in Institutionen, in Pfarrämtern mit gemischter Trägerschaft und in Pfarrämtern der Gesamtkirchlichen Dienste**
+
+§ 88 a.[^88-1] <sup>1</sup> Pfarrerinnen und Pfarrer in Institutionen, in Pfarrämtern mit gemischter Trägerschaft und in Pfarrämtern der Gesamtkirchlichen Dienste vertreten sich während ihrer Ferien innerhalb ihres Seelsorgebereichs oder ihres Pfarramtes gegenseitig.
+
+**27**
+
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Ist eine gegenseitige Stellvertretung nicht möglich, so regeln Pfarrerinnen und Pfarrer in Institutionen und in Pfarrämtern der Gesamtkirchlichen Dienste die Stellvertretung in Absprache mit Pfarrerinnen und Pfarrern, die in einer Kirchgemeinde im Einzugsgebiet der Institution oder des Pfarramtes der Gesamtkirchlichen Dienste tätig sind. Bei Pfarrämtern mit gemischter Trägerschaft erfolgt die Stellvertretung nach Möglichkeit durch die verantwortlichen Personen der weiteren Trägerinnen und Träger.
 
 <sup>3</sup> Ist eine Stellvertretung gemäss Abs. 1 und 2 nicht möglich, so ist der Kirchenrat um die Abordnung einer Stellvertretung zu ersuchen.
 
-[^87-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 261; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
-[^87-2]: Eingefügt durch B vom 1. Juni 2016 (OS 71, 272; ABl 2016-06-10). In Kraft seit 1. September 2016.
+[^88-1]: Eingefügt durch B vom 1. Juni 2016 (OS 71, 272; ABl 2016-06-10). In Kraft seit 1. September 2016.
 
 #### § 89
 
@@ -1138,14 +1203,13 @@ Der Ferienanspruch von Angestellten im Stundenlohn wird durch einen Zuschlag zum
 <sup>3</sup> Liegen überwiegende amtliche oder dienstliche Interessen vor, so kann die Gewährung von Urlaub verweigert oder es können Auflagen gemacht werden.
 
 [^91-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 467; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
+[^91-2]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 92
 
 **Bezahlter Urlaub a. Familiäre Ereignisse**
 
-<sup>1</sup> Für familiäre Ereignisse wird wie folgt Urlaub gewährt:[^91-1] a. eigene Hochzeit oder Eintragung der eigenen Partnerschaft drei Arbeitstage,
-
-- b. Hochzeit oder Eintragung der Partnerschaft eines eigenen Kindes, von Geschwistern, Vater oder Mutter ein Arbeitstag,
+<sup>1</sup> Für familiäre Ereignisse wird wie folgt Urlaub gewährt:[^91-1] a.[^91-2] eigene Hochzeit drei Arbeitstage, b.[^91-2] Hochzeit eines eigenen Kindes, von Geschwistern, Vater oder Mutter ein Arbeitstag,
 
 - c. Aufnahme eines Kindes in ein dauerhaftes Pflegeverhältnis in den ersten zwei Monaten seit Aufnahme des Kindes fünf Arbeitstage,
 
@@ -1169,17 +1233,21 @@ Der Ferienanspruch von Angestellten im Stundenlohn wird durch einen Zuschlag zum
 
 <sup>3</sup> Die Bestimmungen für Ereignisse im Zusammenhang mit Eltern, Kindern oder Geschwistern gelten auch für Stief- und Pflegeverhältnisse sowie für die Kinder der eingetragenen Partnerin oder des eingetragenen Partners und der Lebenspartnerin oder des Lebenspartners, solche im Zusammenhang mit der Ehegattin beziehungsweise dem Ehegatten auch für die eingetragene Partnerin oder den eingetragenen Partner und die Lebenspartnerin oder den Lebenspartner.
 
-**27**
-
-- 1\. 1. 24 - 123 § 93. <sup>1</sup> Für persönliche Angelegenheiten wird wie folgt Urlaub gewährt:
+#### § 93
 
 **b. Persönliche Angelegenheiten**
+
+<sup>1</sup> Für persönliche Angelegenheiten wird wie folgt Urlaub gewährt:
 
 - a. Arzt- und Zahnarztkonsultationen die notwendige Zeit,
 
 - b. Stellensuche in gekündigter Stellung die notwendige Zeit, in der Regel höchstens fünf Arbeitstage,
 
 - c. Wohnungswechsel ein Arbeitstag,
+
+**29**
+
+- 1\. 1. 25 - 127
 
 - d. An- und Abmeldung bei Behörden die notwendige Zeit,
 
@@ -1211,11 +1279,11 @@ Der Ferienanspruch von Angestellten im Stundenlohn wird durch einen Zuschlag zum
 
 <sup>2</sup> Funktionärinnen und Funktionären an kirchlichen, kulturellen oder sportlichen Anlässen mit kantonaler, eidgenössischer oder internationaler Bedeutung wird die notwendige Zeit gewährt, pro Kalenderjahr aber höchstens zwei Arbeitstage. Für Teilnehmende an solchen Anlässen wird die notwendige Zeit bewilligt, pro Kalenderjahr höchstens aber ein Arbeitstag.
 
-#### § 97
-
 **f. Humanitäre Einsätze**
 
-Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bundes, der Rettungskette Schweiz, des Internationalen Komitees vom Roten Kreuz (IKRK) sowie des Schweizerischen Evangelischen Kirchenbundes (SEK) und von mit diesem verbundenen Organisationen wird die notwendige Zeit gewährt, innerhalb von zwei Kalenderjahren aber höchstens sechs Monate.
+§ 97.[^96-1] Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bundes, der Rettungskette Schweiz, des Internationalen Komitees vom Roten Kreuz (IKRK) sowie der Evangelischreformierten Kirche Schweiz EKS und von mit dieser verbundenen Organisationen wird die notwendige Zeit gewährt, innerhalb von zwei Kalenderjahren aber höchstens sechs Monate.
+
+[^96-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 98
 
@@ -1247,15 +1315,17 @@ Im Übrigen kann im erforderlichen Umfang Urlaub für weitere Ereignisse und Fä
 
 Unbezahlter Urlaub kann gewährt werden, wenn die amtlichen oder dienstlichen Verhältnisse es gestatten.
 
-#### § 102
-
 **Zuständigkeit**
 
-<sup>1</sup> Die Anstellungsinstanz ist zuständig für die Gewährung von Urlaub. Sie berücksichtigt dabei die Anliegen von Pfarrerinnen, Pfarrern und Angestellten.
+§ 102.[^101-1] <sup>1</sup> Für die Gewährung von Urlaub ist zuständig:
 
-<sup>2</sup> Der Kirchenrat nimmt bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern vorgängig Rücksprache mit der Kirchenpflege.
+- a. bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern in den Fällen von §§ 92–96 die Kirchenpflege oder die durch die Geschäftsordnung der Kirchenpflege bezeichnete Stelle,
 
-<sup>3</sup> In den Fällen von §§ 92–96 ist die Kirchenpflege zuständig.
+- b. im Übrigen die Anstellungsinstanz.
+
+<sup>2</sup> Bei der Gewährung von Urlaub werden die Anliegen der Pfarrerinnen, Pfarrern und Angestellten berücksichtigt. Der Kirchenrat nimmt bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern vorgängig Rücksprache mit der Kirchenpflege.
+
+[^101-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 ### C. Abordnung
 
@@ -1269,9 +1339,9 @@ Unbezahlter Urlaub kann gewährt werden, wenn die amtlichen oder dienstlichen Ve
 
 <sup>2</sup> Eine Abordnung bedarf der Bewilligung durch die Anstellungsinstanz, wenn sie im Einzelfall mehr als fünf Arbeitstage beansprucht. Der Kirchenrat nimmt bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern vorgängig Rücksprache mit der Kirchenpflege.
 
-**29**
+**31**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 ### D. Elternschaft
 
@@ -1283,7 +1353,7 @@ Unbezahlter Urlaub kann gewährt werden, wenn die amtlichen oder dienstlichen Ve
 
 <sup>2</sup> Beantragen Pfarrerinnen und Angestellte den Aufschub der Mutterschaftsentschädigung wegen längeren Spitalaufenthalts des neugeborenen Kindes im Sinn von Art. 16 c Abs. 2 des Bundesgesetzes über den Erwerbsersatz für Dienstleistende und bei Mutterschaft[^104-1], so verschiebt sich der Beginn des bezahlten Mutterschaftsurlaubs entsprechend. Haben Pfarrerinnen und Angestellte ihren Urlaub bereits zwei Wochen vor der Niederkunft angetreten oder mussten sie ihre Tätigkeit wegen schwangerschaftsbedingter Beschwerden während der letzten zwei Wochen vor der Niederkunft niederlegen, so wird diese Zeit an den Mutterschaftsurlaub angerechnet.
 
-<sup>3</sup> Nach dem Mutterschaftsurlaub kann der Beschäftigungsgrad auf Gesuch der Pfarrerin oder der Angestellten herabgesetzt werden, soweit die amtlichen oder dienstlichen Verhältnisse es zulassen. Gewählte Pfarrerinnen treten von ihrem Amt zurück. Sie können auf das reduzierte Pensum neu gewählt oder vom Kirchenrat als Stellvertreterinnen angestellt werden.[^104-2]
+<sup>3</sup> Nach dem Mutterschaftsurlaub kann der Beschäftigungsgrad auf Gesuch der Pfarrerin oder der Angestellten herabgesetzt werden, soweit die amtlichen oder dienstlichen Verhältnisse dies zulassen.[^104-2]
 
 **Vaterschaftsurlaub**
 
@@ -1300,7 +1370,7 @@ Unbezahlter Urlaub kann gewährt werden, wenn die amtlichen oder dienstlichen Ve
 <sup>4</sup> Beim Festlegen des Zeitpunkts und der Aufteilung des Urlaubs gemäss Abs. 1 und Abs. 2 ist auf die amtlichen oder dienstlichen Verhältnisse Rücksicht zu nehmen.
 
 [^104-1]: SR 834.1.
-[^104-2]: Fassung gemäss V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
+[^104-2]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 [^104-3]: Fassung gemäss B vom 25. August 2021 (OS 76, 467; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
 
 #### § 106
@@ -1351,11 +1421,11 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 <sup>2</sup> Dauert die volle oder teilweise Dienstaussetzung länger als eine Woche, so reichen Pfarrerinnen, Pfarrer und Angestellte der Anstellungsinstanz binnen angemessener Frist oder auf erstes Verlangen hin ein ärztliches Zeugnis ein. Die Anstellungsinstanz kann auch für Dienstaussetzungen von weniger als einer Woche ein ärztliches Zeugnis verlangen.
 
-**31**
-
-- 1\. 1. 24 - 123
-
 <sup>3</sup> Dauert die volle oder teilweise Dienstaussetzung länger als einen Monat, so reichen Pfarrerinnen, Pfarrer und Angestellte jeweils zu Beginn der folgenden Monate oder gemäss besonderer Weisung der Anstellungsinstanz weitere ärztliche Zeugnisse ein.
+
+**33**
+
+- 1\. 1. 25 - 127
 
 <sup>4</sup> In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer informieren gleichzeitig die Kirchenpflege, Pfarrerinnen und Pfarrer in Institutionen sowie Angestellte die vorgesetzte Stelle.
 
@@ -1419,9 +1489,9 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 <sup>3</sup> Werden Pfarrerinnen, Pfarrer und Angestellte, die nach Ablauf der Lohnfortzahlung bei Krankheit oder Unfall wieder vollständig arbeitsfähig waren, erneut teilweise arbeitsunfähig, so wird ihnen der volle Lohn während längstens dreier Monate weiter ausgerichtet.
 
-**33**
+**35**
 
-- 1\. 1. 24 - 123 § 117. <sup>1</sup> Die Anstellungsinstanz kann den Lohn kürzen, wenn Pfarrerinnen, Pfarrer und Angestellte
+- 1\. 1. 25 - 127 § 117. <sup>1</sup> Die Anstellungsinstanz kann den Lohn kürzen, wenn Pfarrerinnen, Pfarrer und Angestellte
 
 **c. Kürzung**
 
@@ -1495,9 +1565,9 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 <sup>2</sup> Komplementärrenten von Einrichtungen der beruflichen Vorsorge werden auf die Leistungen gemäss Abs. 1 angerechnet.
 
-**35**
+**37**
 
-- 1\. 1. 24 - 123 § 124. Erleiden Pfarrerinnen, Pfarrer oder Angestellte, die nicht nach dem Bundesgesetz über die Unfallversicherung[^123-1] versichert sind, im Rahmen ihrer amtlichen oder dienstlichen Tätigkeit einen Berufsunfall, so erbringt die Anstellungsinstanz die Leistungen gemäss dem Bundesgesetz über die Unfallversicherung, wenn die amtliche oder dienstliche Tätigkeit bei der Anstellungsinstanz nicht durch eine Unfallversicherung aufgrund einer anderen beruflichen Tätigkeit versichert ist.
+- 1\. 1. 25 - 127 § 124. Erleiden Pfarrerinnen, Pfarrer oder Angestellte, die nicht nach dem Bundesgesetz über die Unfallversicherung[^123-1] versichert sind, im Rahmen ihrer amtlichen oder dienstlichen Tätigkeit einen Berufsunfall, so erbringt die Anstellungsinstanz die Leistungen gemäss dem Bundesgesetz über die Unfallversicherung, wenn die amtliche oder dienstliche Tätigkeit bei der Anstellungsinstanz nicht durch eine Unfallversicherung aufgrund einer anderen beruflichen Tätigkeit versichert ist.
 
 [^123-1]: SR 832.20.
 
@@ -1555,9 +1625,9 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 - 3\. die gegenseitige Unterstützungspflicht wurde schriftlich vereinbart und die Vereinbarung wurde innert dreier Monate nach dem Todesfall der Anstellungsinstanz eingereicht,
 
-**37**
+**39**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 - e. Kinder und Stiefkinder der verstorbenen Person, für deren Unterhalt sie zur Hauptsache aufgekommen ist, sowie Kinder, welche die verstorbene Person unentgeltlich zu dauernder Pflege und Erziehung aufgenommen hat, sofern die Kinder und Stiefkinder
 
@@ -1633,9 +1703,9 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 - d. einen Freisonntag unmittelbar nach der Leitung eines Lagers oder einer vergleichbaren Veranstaltung im Rahmen der religionspädagogischen Module, sofern diese ununterbrochen mindestens fünf Tage dauern und erst am vorangehenden Freitag enden.
 
-**39**
+**41**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 <sup>2</sup> In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer haben Anspruch auf einen Freisonntag bei einer Dienstleistung als Armeeseelsorger von mindestens fünf Tagen pro Kalenderjahr und einen weiteren Freisonntag bei einer Dienstleistung als Armeeseelsorger von zehn und mehr Tagen pro Kalenderjahr.
 
@@ -1645,11 +1715,18 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 <sup>5</sup> Die Kosten der Stellvertretung an Freisonntagen trägt die Kirchgemeinde. Vorbehalten bleibt § 88 Abs. 3.
 
+**c. Ruhetage**
+
+§ 132 a.[^132-2] <sup>1</sup> Trifft der Kirchenrat in besonderen Fällen keine abweichende Regelung, so gelten Neujahrstag, Berchtoldstag, Ostermontag, 1. Mai, Pfingstmontag, 1. August und zweiter Weihnachtstag sowie weitere Tage nach örtlichem Gebrauch als zusätzliche ganze oder halbe Ruhetage, soweit diese Tage nicht auf einen Sonntag oder einen kirchlichen Feiertag fallen, an dem gemäss Art. 53 der Kirchenordnung Gottesdienst zu halten ist.
+
+<sup>2</sup> Zusätzliche ganze oder halbe Ruhetage, die auf einen Samstag oder Sonntag sowie bei Pfarrerinnen und Pfarrern mit einem teilzeitlichen Pensum auf einen Tag ausserhalb der abgesprochenen Arbeitstage fallen, werden nicht nachgewährt.
+
 [^132-1]: LS 181.402.
+[^132-2]: Eingefügt durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 133
 
-**c. Ausgleich**
+**d.30 Ausgleich**
 
 Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hinaus geleistet wird, besteht kein Anspruch auf Zeitausgleich oder Vergütung.
 
@@ -1663,11 +1740,11 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 <sup>4</sup> Die jährliche Arbeitszeit beträgt bei einem vollen Pensum brutto 2496 Stunden (52 Wochen (cid:2) 48 Stunden). Bei einem teilzeitlichen Pensum wird die jährliche Arbeitszeit aufgrund des betreffenden Beschäftigungsgrads ermittelt. Für die Berechnung der Netto-Jahres-Arbeitszeit werden der individuelle Ferienanspruch und die auf einen Wochentag fallenden Ruhetage gemäss § 135 Abs. 1 in Abzug gebracht.
 
-<sup>5</sup> Die tägliche Sollzeit gemäss § 140 Abs. 2 darf 9 Stunden 36 Minuten nicht überschreiten. Im Übrigen sind §§ 140–146 und 150 anwendbar.
+<sup>5</sup> Die tägliche Sollzeit gemäss § 140 Abs. 2 darf 9 Stunden 36 Minuten nicht überschreiten. Im Übrigen sind §§ 140–146, 150 und 150 a anwendbar.[^133-2]
 
 **b. Bereitschaftsdienst**
 
-§ 134 a.[^133-2] <sup>1</sup> Zusätzlich zur Arbeitszeit gemäss § 134 Abs. 2 ist der vorgeschriebene oder nach den örtlichen Verhältnissen vorgesehene Bereitschaftsdienst zu leisten. Der Kirchenrat kann dessen Umfang festlegen.
+§ 134 a.[^133-3] <sup>1</sup> Zusätzlich zur Arbeitszeit gemäss § 134 Abs. 2 ist der vorgeschriebene oder nach den örtlichen Verhältnissen vorgesehene Bereitschaftsdienst zu leisten. Der Kirchenrat kann dessen Umfang festlegen.
 
 <sup>2</sup> Der Bereitschaftsdienst ist zusätzlich zur Sollzeit gemäss § 134 Abs. 5 zu leisten. Er gilt als Bereitschaftsdienst gemäss dieser Bestimmung, wenn er ausserhalb der Regelarbeitszeit geleistet wird.
 
@@ -1677,16 +1754,16 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 <sup>5</sup> Pfarrerinnen und Pfarrer in Institutionen vertreten sich im Bereitschaftsdienst gegenseitig. Sie können die Unterstützung von Pfarrerinnen und Pfarrern beiziehen, die in Kirchgemeinden im Einzugsgebiet der betreffenden Institution tätig sind. Diese sind nicht verpflichtet, Bereitschaftsdienst in einem Pfarramt in Institutionen zu leisten.
 
+**c. Ruhetage**
+
+§ 135.[^133-2] <sup>1</sup> Für die Ruhetage von Pfarrerinnen und Pfarrern in Institutionen gilt § 138.
+
+<sup>2</sup> . . .[^133-4]
+
 [^133-1]: Fassung gemäss B vom 1. Juni 2016 (OS 71, 272; ABl 2016-06-10). In Kraft seit 1. September 2016.
-[^133-2]: Eingefügt durch B vom 1. Juni 2016 (OS 71, 272; ABl 2016-06-10). In Kraft seit 1. September 2016.
-
-#### § 135
-
-**Ruhetage**
-
-<sup>1</sup> Trifft der Kirchenrat in besonderen Fällen keine abweichende Regelung, so gelten Neujahrstag, Berchtoldstag, Ostermontag, 1. Mai, Pfingstmontag, 1. August und zweiter Weihnachtstag sowie weitere Tage nach örtlichem Gebrauch als zusätzliche ganze oder halbe Ruhetage, soweit diese Tage nicht auf einen Sonntag oder einen kirchlichen Feiertag fallen, an dem gemäss Art. 53 der Kirchenordnung Gottesdienst zu halten ist.
-
-<sup>2</sup> Zusätzliche ganze oder halbe Ruhetage, die auf einen Samstag oder Sonntag sowie bei Pfarrerinnen und Pfarrern mit einem teilzeitlichen Pensum auf einen Tag ausserhalb der abgesprochenen Arbeitstage fallen, werden nicht nachgewährt.
+[^133-2]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+[^133-3]: Eingefügt durch B vom 1. Juni 2016 (OS 71, 272; ABl 2016-06-10). In Kraft seit 1. September 2016.
+[^133-4]: Aufgehoben durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 ### B. Angestellte
 
@@ -1698,9 +1775,9 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 <sup>2</sup> Die Arbeitszeit wird nach Massgabe der nachfolgenden Bestimmungen flexibel gestaltet. Vorbehalten bleiben abweichende Beschlüsse der Anstellungsinstanz.
 
-**41**
+**43**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Die jährliche Arbeitszeit beträgt bei einem vollen Pensum brutto 2184 Stunden (52 Wochen (cid:2) 42 Stunden). Bei einem teilzeitlichen Pensum wird die jährliche Arbeitszeit aufgrund des betreffenden Beschäftigungsgrads ermittelt. Für die Berechnung der Netto-Jahres-Arbeitszeit werden der individuelle Ferienanspruch, die auf einen Wochentag fallenden Ruhetage sowie Arbeitszeitreduktionen vor Ruhetagen in Abzug gebracht.
 
@@ -1734,13 +1811,9 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 - b. als Arbeitstage mit einer reduzierten Sollzeit von sechs Stunden: die Tage vor Karfreitag und Auffahrt sowie der Silvester; an diesen Tagen wird der Arbeitsschluss, vorbehältlich abweichender Regelungen, auf 15.00 Uhr festgesetzt.
 
-<sup>2</sup> Für die Ruhetage von Angestellten, die ihren Dienst regelmässig an Sonntagen und kirchlichen Feiertagen leisten, gelten Abs. 1 lit. b und § 135 Abs. 1.
-
-#### § 139
+<sup>2</sup> Für die Ruhetage von Angestellten, die ihren Dienst regelmässig an Sonntagen und kirchlichen Feiertagen leisten, gelten Abs. 1 lit. b und § 132 a Abs. 1.[^138-1] § 139. <sup>1</sup> Zusätzliche ganze oder halbe Ruhetage, die auf Samstage oder Sonntage fallen, werden nicht nachgewährt. Die gleiche Regelung gilt sinngemäss für Anstellungsverhältnisse, in denen am Samstag oder Sonntag voll- oder teilzeitlich gearbeitet wird.
 
 **b. Nachgewährung**
-
-<sup>1</sup> Zusätzliche ganze oder halbe Ruhetage, die auf Samstage oder Sonntage fallen, werden nicht nachgewährt. Die gleiche Regelung gilt sinngemäss für Anstellungsverhältnisse, in denen am Samstag oder Sonntag voll- oder teilzeitlich gearbeitet wird.
 
 <sup>2</sup> Teilzeitbeschäftigten wird unabhängig von der gewählten Regelarbeitszeit ein ihrem Beschäftigungsgrad entsprechender Anteil an Ruhetagen und Arbeitstagen mit reduzierter Sollzeit gewährt. Der Kirchenrat berechnet jeweils zu Jahresbeginn die auf solche Tage entfallenden Stunden.
 
@@ -1749,6 +1822,8 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 <sup>4</sup> Angestellten, die ihren Dienst regelmässig an Samstagen, Sonntagen und kirchlichen Feiertagen leisten, ist wöchentlich mindestens ein freier Tag zu gewähren. Ausserhalb ihrer Ferien haben sie im Kalenderjahr Anspruch auf vier Freisonntage, die nicht auf einen kirchlichen Feiertag gelegt werden dürfen. Die Anstellungsinstanz kann zusätzliche Freisonntage gewähren.
 
 <sup>5</sup> Die Kosten der Stellvertretung an Freisonntagen gemäss Abs. 4 trägt die Anstellungsinstanz.
+
+[^138-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 140
 
@@ -1770,9 +1845,9 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 <sup>2</sup> Für zusätzliche Pausen können pro halben Arbeitstag höchstens 15 Minuten auf die Arbeitszeit angerechnet werden.
 
-**43**
+**45**
 
-- 1\. 1. 24 - 123 § 142. <sup>1</sup> Der Arbeitszeitsaldo ergibt sich aus der täglich geleisteten anrechenbaren Arbeitszeit abzüglich der Sollzeit.
+- 1\. 1. 25 - 127 § 142. <sup>1</sup> Der Arbeitszeitsaldo ergibt sich aus der täglich geleisteten anrechenbaren Arbeitszeit abzüglich der Sollzeit.
 
 **Arbeitszeitsaldo a. Grundsatz**
 
@@ -1846,17 +1921,29 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>3</sup> Pro Kalenderjahr werden höchstens 120 Überstunden vergütet. Die Anstellungsinstanz kann ausnahmsweise eine höhere Stundenzahl vergüten.
 
-**45**
+**47**
 
-- 1\. 1. 24 - 123 § 150. <sup>1</sup> Die Angestellten führen auf Vertrauensbasis eine persönliche Zeitbuchhaltung, in der sie die Arbeitszeiten und Abwesenheiten aufführen. Die vorgesetzte Stelle kann jederzeit Einblick in diese Zeitbuchhaltung nehmen.
+- 1\. 1. 25 - 127 § 150. <sup>1</sup> Die Angestellten führen auf Vertrauensbasis eine persönliche Zeitbuchhaltung, in der sie die Arbeitszeiten und Abwesenheiten aufführen. Die vorgesetzte Stelle kann jederzeit Einblick in diese Zeitbuchhaltung nehmen.
 
-**Zeitbuchhaltung**
+**Zeitbuchhaltung a. Grundsatz29**
 
 <sup>2</sup> Die Angestellten verantworten die Richtigkeit ihrer Zeitbuchhaltung. Sie erstellen jeweils per Monats- und Jahresende eine Abrechnung und unterzeichnen diese. Die vorgesetzte Stelle bestätigt deren Kenntnisnahme durch ihr Visum.
 
 <sup>3</sup> Die Angestellten verwenden für die persönliche Zeitbuchhaltung die von der Anstellungsinstanz zur Verfügung gestellten Mittel.
 
 <sup>4</sup> Die Anstellungsinstanz kann ihren Bedürfnissen entsprechend eine Projektzeiterfassung einführen.
+
+**b. Befreiung**
+
+§ 150 a.[^149-1] <sup>1</sup> Die Anstellungsinstanz kann Angestellte ab Lohnklasse 15 von der Pflicht befreien, eine persönliche Zeitbuchhaltung zu führen.
+
+<sup>2</sup> §§ 142, 143, 145–149 und 150 Abs. 1–3 sind auf Angestellte gemäss Abs. 1 nicht anwendbar. Die Anrechnung sowie der Ausgleich eines Arbeitszeitsaldos und von Überstunden sind ausgeschlossen.
+
+<sup>3</sup> Angestellte gemäss Abs. 1 erfassen den Bezug von Ferien und eines Dienstaltersgeschenks sowie Abwesenheiten infolge Krankheit, Unfall und Urlaub mit dem Mittel gemäss § 150 Abs. 3.
+
+<sup>4</sup> Die Anstellungsinstanz schützt die Gesundheit der Angestellten gemäss Abs. 1 durch geeignete Massnahmen.
+
+[^149-1]: Eingefügt durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 151
 
@@ -1905,6 +1992,10 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>2</sup> Die Bewilligungspflicht gemäss Abs. 1 gilt bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern auch im Fall einer Kostenbeteiligung der Kirchgemeinde.
 
+**49**
+
+- 1\. 1. 25 - 127
+
 <sup>3</sup> Im Rahmen der Bewilligung gemäss Abs. 1 und 2 berücksichtigt die Anstellungsinstanz insbesondere,
 
 - a. ob eine Weiterbildung im Zusammenhang mit der amtlichen oder dienstlichen Tätigkeit der gesuchstellenden Pfarrerinnen, Pfarrer und Angestellten steht, erforderlich ist und im Interesse der Anstellungsinstanz liegt oder ob an einer Weiterbildung aus anderen Gründen ein erhebliches amtliches oder dienstliches Interesse besteht,
@@ -1923,11 +2014,9 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>3</sup> Der Nachweis der besuchten Weiterbildungen obliegt den Pfarrerinnen, Pfarrern und Angestellten.
 
-**47**
-
-- 1\. 1. 24 - 123 § 157.[^153-3] Die Anstellungsinstanz legt den Zeitpunkt einer gemäss § 155 Abs. 1 und 2 bewilligungspflichtigen Weiterbildung[^153-1] oder eines Weiterbildungsurlaubs in Absprache mit den betreffenden Pfarrerinnen, Pfarrern und Angestellten fest. Der Kirchenrat gibt bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern der Kirchenpflege bei Bedarf vorgängig Gelegenheit zur Stellungnahme.
-
 **Zeitpunkt**
+
+§ 157.[^153-3] Die Anstellungsinstanz legt den Zeitpunkt einer gemäss § 155 Abs. 1 und 2 bewilligungspflichtigen Weiterbildung[^153-1] oder eines Weiterbildungsurlaubs in Absprache mit den betreffenden Pfarrerinnen, Pfarrern und Angestellten fest. Der Kirchenrat gibt bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern der Kirchenpflege bei Bedarf vorgängig Gelegenheit zur Stellungnahme.
 
 **Stellvertretung**
 
@@ -1935,11 +2024,9 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>2</sup> Ist bei Pfarrerinnen und Pfarrern eine Stellvertretung in kollegialer Absprache nicht möglich, so ersuchen diese den Kirchenrat um die Abordnung einer Stellvertretung.
 
-<sup>3</sup> Die Kosten einer Stellvertretung trägt bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern die Kirchgemeinde, welche die Stellvertretung in Anspruch nimmt, und im Übrigen die Anstellungsinstanz.
+<sup>3</sup> Die Kosten einer Stellvertretung trägt bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern die Kirchgemeinde, welche die Stellvertretung in Anspruch nimmt, und im Übrigen die Anstellungsinstanz. § 158.[^153-1] <sup>1</sup> Sind Pfarrerinnen, Pfarrer und Angestellte gemäss § 156 Abs. 1 und 2 zu einer Weiterbildung verpflichtet sind, so trägt die Anstellungsinstanz die Kosten. Im Übrigen richtet sich die Kostenbeteiligung für gemäss § 155 Abs. 1 und 2 bewilligungspflichtige Weiterbildungen nach §§ 160 und 160 a.
 
 **Kostenbeteiligung a. Grundsatz**
-
-§ 158.[^153-1] <sup>1</sup> Sind Pfarrerinnen, Pfarrer und Angestellte gemäss § 156 Abs. 1 und 2 zu einer Weiterbildung verpflichtet sind, so trägt die Anstellungsinstanz die Kosten. Im Übrigen richtet sich die Kostenbeteiligung für gemäss § 155 Abs. 1 und 2 bewilligungspflichtige Weiterbildungen nach §§ 160 und 160 a.
 
 <sup>2</sup> Pfarrerinnen, Pfarrern und Angestellten wird keine Beteiligung an den Kosten von Weiterbildungen gewährt, wenn deren Arbeitsverhältnis gemäss Art. 132 Abs. 2 der Kirchenordnung oder § 26 Abs. 2 lit. b PVO endete.
 
@@ -1975,9 +2062,11 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>4</sup> Bei Fortbildungen kann die Anstellungsinstanz anstelle eines Gesuchs gemäss Abs. 1 die vorgängige schriftliche Information auf dem vom Kirchenrat zur Verfügung gestellten Formular als ausreichend erklären. Abs. 2 und 3 gelten sinngemäss.
 
-**d. Entscheid**
+**51**
 
-§ 158 c.[^153-1] <sup>1</sup> Die Anstellungsinstanz entscheidet über die Beteiligung an den Kosten einer Weiterbildung.
+- 1\. 1. 25 - 127 § 158 c.[^153-1] <sup>1</sup> Die Anstellungsinstanz entscheidet über die Beteiligung an den Kosten einer Weiterbildung.
+
+**d. Entscheid**
 
 <sup>2</sup> Kirchgemeinden, welche die Kosten einer Zusatzausbildung von Pfarrerinnen und Pfarrer ganz oder teilweise übernehmen, holen vor der Beschlussfassung die Zustimmung des Kirchenrates ein.
 
@@ -1999,11 +2088,9 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>5</sup> Gewährte Beteiligungen an den Kosten von Weiterbildungen werden von der Anstellungsinstanz zuhanden des Personaldossiers der betreffenden Pfarrerinnen, Pfarrer und Angestellten erfasst.
 
-**49**
-
-- 1\. 1. 24 - 123 § 158 d.[^153-1] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte, die eine Weiterbildung besuchen, bezahlen die ihnen dafür in Rechnung gestellten Kosten.
-
 **e. Abrechnung**
+
+§ 158 d.[^153-1] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte, die eine Weiterbildung besuchen, bezahlen die ihnen dafür in Rechnung gestellten Kosten.
 
 <sup>2</sup> Sie reichen der Anstellungsinstanz binnen dreier Monate nach Abschluss der Weiterbildung eine Abrechnung ein, ansonsten der Anspruch auf die Beteiligung der Anstellungsinstanz an den Kosten der Weiterbildung verfällt. Sie legen geeignete Zahlungsnachweise bei.
 
@@ -2053,6 +2140,10 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 - b. zu 50%, wenn die Weiterbildung teilweise im Zusammenhang mit den amtlichen oder dienstlichen Tätigkeiten von Pfarrerinnen, Pfarrern und Angestellten steht und deshalb oder aus anderen Gründen teilweise im Interesse der Anstellungsinstanz liegt,
 
+**53**
+
+- 1\. 1. 25 - 127
+
 - c. zu 25%, wenn
 
 - 1\. die Weiterbildung es Pfarrerinnen, Pfarrern und Angestellten ermöglicht, grundlegende Kenntnisse und Befähigungen zu erwerben, die auf einen möglichen neuen Aufgabenbereich vorbereiten, und zugleich wesentlich der beruflichen oder persönlichen Weiterentwicklung dient,
@@ -2068,10 +2159,6 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 **i. Spesen23**
 
 § 161.[^153-1] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte tragen unter Vorbehalt von Abs. 2 die im Zusammenhang mit einer Weiterbildung anfallenden Spesen selber.
-
-**51**
-
-- 1\. 1. 24 - 123
 
 <sup>2</sup> Soweit sie nicht in den Tagungs- und Kurskosten inbegriffen sind, übernimmt die Anstellungsinstanz:
 
@@ -2131,9 +2218,11 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>3</sup> Pfarrerinnen und Pfarrer widmen sich unabhängig von der Weiterbildungspflicht gemäss § 163 Abs. 5 in einem angemessenen Umfang dem persönlichen Literaturstudium.
 
-**Begleitung und Unterstützung**
+**55**
 
-§ 163 b.[^162-1] Der Kirchenrat bezeichnet eine Stelle, die Pfarrerinnen, Pfarrer und Angestellte bei der Planung und Durchführung von Weiterbildungen sowie Weiterbildungsurlauben unterstützt und begleitet. Die Stelle begutachtet zuhanden der Anstellungsinstanz insbesondere Plan und Inhalte von Weiterbildungsurlauben.
+- 1\. 1. 25 - 127 § 163 b.[^162-1] Der Kirchenrat bezeichnet eine Stelle, die Pfarrerinnen, Pfarrer und Angestellte bei der Planung und Durchführung von Weiterbildungen sowie Weiterbildungsurlauben unterstützt und begleitet. Die Stelle begutachtet zuhanden der Anstellungsinstanz insbesondere Plan und Inhalte von Weiterbildungsurlauben.
+
+**Begleitung und Unterstützung**
 
 [^162-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
 
@@ -2142,10 +2231,6 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 **Pfarrerinnen und Pfarrer (§ 81 Abs. 2 PVO)**
 
 § 164.[^hBWeiterbildungsurl-1] <sup>1</sup> Weiterbildungsurlaube werden nur im Rahmen des von der Kirchensynode bewilligten Budgets gewährt. Gesuche, die nicht berücksichtigt werden können, werden für das Folgejahr vorgemerkt.
-
-**53**
-
-- 1\. 1. 24 - 123
 
 <sup>2</sup> Pfarrerinnen und Pfarrern wird ein Weiterbildungsurlaub gewährt, wenn[^hBWeiterbildungsurl-2] a. ein Plan vorliegt, aus dem sich die Inhalte und der zeitliche Ablauf des Weiterbildungsurlaubs ergeben,
 
@@ -2165,14 +2250,15 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 [^hBWeiterbildungsurl-2]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
 [^hBWeiterbildungsurl-3]: LS 181.41.
 [^hBWeiterbildungsurl-4]: LS 181.402.
+[^hBWeiterbildungsurl-5]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 165
 
-**Kirchenmusikerinnen und Kirchenmusiker, Sozialdiakoninnen und Sozialdiakone**
+**Angestellte der Kirchgemeinden**
 
-<sup>1</sup> Die Kirchenpflege kann Angestellten im kirchenmusikalischen und diakonischen Dienst auf Gesuch hin einen bezahlten Weiterbildungsurlaub von höchstens zwei Monaten gewähren, wenn sie a. während zwölf Jahren im kirchenmusikalischen oder diakonischen Dienst gestanden haben, davon mindestens die letzten vier Jahre in der Kirchgemeinde, die um Gewährung eines Weiterbildungsurlaub ersucht wird,
+<sup>1</sup> Die Kirchenpflege kann Angestellten der Kirchgemeinde auf Gesuch hin einen bezahlten Weiterbildungsurlaub von höchstens zwei Monaten gewähren, wenn sie[^hBWeiterbildungsurl-5] a. während acht Jahren in einem Dienst gemäss Art. 135–139 der Kirchenordnung gestanden haben, davon mindestens die letzten vier Jahre in der Kirchgemeinde, die um Gewährung eines Weiterbildungsurlaubs ersucht wird,
 
-- b. bisher keinen Weiterbildungsurlaub bei einer Mitgliedskirche des Schweizerischen Evangelischen Kirchenbunds bezogen haben.
+- b. bisher keinen Weiterbildungsurlaub bei einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz bezogen haben.
 
 <sup>2</sup> Die Kirchenpflege kann auf Gesuch hin einen weiteren Weiterbildungsurlaub von höchstens zwei Monaten gewähren, wenn a. seit dem ersten Weiterbildungsurlaub gemäss Abs. 1 mindestens zwölf Jahre vergangen sind,
 
@@ -2180,52 +2266,57 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 <sup>3</sup> § 164 Abs. 2 lit. a–c gilt in gleicher Weise.
 
-<sup>4</sup> Der Weiterbildungsurlaub kann ausnahmsweise tageweise bezogen werden.[^165-1] § 166. <sup>1</sup> Der Kirchenrat kann Angestellten der Gesamtkirchlichen Dienste auf Gesuch hin einen bezahlten Weiterbildungsurlaub von höchstens zwei Monaten gewähren, wenn sie a. während sechs Jahren im Dienst der Landeskirche gestanden haben, davon mindestens die letzten vier Jahre in den Gesamtkirchlichen Diensten,
+<sup>4</sup> Der Weiterbildungsurlaub kann ausnahmsweise tageweise bezogen werden.[^165-1]
 
 **Angestellte der Gesamtkirchlichen Dienste**
 
-- b. bisher keinen Weiterbildungsurlaub bei einer Mitgliedskirche des Schweizerischen Evangelischen Kirchenbunds bezogen haben.
+§ 166.[^165-2] <sup>1</sup> Der Kirchenrat kann Angestellten der Gesamtkirchlichen Dienste auf Gesuch hin einen bezahlten Weiterbildungsurlaub von höchstens zwei Monaten gewähren, wenn sie a. während acht Jahren im Dienst der Landeskirche gestanden haben, davon mindestens die letzten vier Jahre in den Gesamtkirchlichen Diensten,
 
-<sup>2</sup> §§ 164 Abs. 2 lit. a und b sowie 165 Abs. 2 und 4 gelten in gleicher Weise.
+- b. bisher keinen Weiterbildungsurlaub bei einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz bezogen haben.
+
+<sup>2</sup> Der Kirchenrat kann auf Gesuch hin einen weiteren Weiterbildungsurlaub von höchstens zwei Monaten gewähren, wenn a. seit dem ersten Weiterbildungsurlaub gemäss Abs. 1 mindestens zwölf Jahre vergangen sind,
+
+- b. die Voraussetzungen gemäss Abs. 1 lit. a erfüllt sind.
+
+<sup>3</sup> §§ 164 Abs. 2 lit. a und b sowie 165 Abs. 4 gelten in gleicher Weise.
 
 **Gemeinsame Bestimmungen**
 
-§ 167.[^165-1] <sup>1</sup> Auf die Gewährung eines Weiterbildungsurlaubs gemäss §§ 80 und 81 PVO besteht kein Anspruch.
+§ 167.[^165-2] <sup>1</sup> Auf die Gewährung eines Weiterbildungsurlaubs gemäss §§ 80 und 81 PVO besteht kein Anspruch.
 
-<sup>2</sup> Ein Gesuch um Gewährung eines Weiterbildungsurlaubs ist mindestens sechs Monate vor dessen Beginn einzureichen:
+<sup>2</sup> Ein Weiterbildungsurlaub, der gemäss § 164 Abs. 2 lit. a weniger als drei Jahre vor der Entlassung aus dem Amt gemäss Art. 132 Abs. 2 der Kirchenordnung oder der Beendigung des Arbeitsverhältnisses gemäss § 26 Abs. 2 lit. b PVO endet, wird nicht gewährt.
 
-- a. von Pfarrerinnen und Pfarrern sowie Angestellten der Gesamtkirchlichen Dienste dem Kirchenrat,
+<sup>3</sup> Das Gesuch um Gewährung eines Weiterbildungsurlaubs ist der Anstellungsinstanz mindestens sechs Monate vor dessen Beginn einzureichen.
 
-- b. von Angestellten im kirchenmusikalischen und diakonischen Dienst der Kirchenpflege.
+<sup>4</sup> §§ 155 und 156 Abs. 1 gelten sinngemäss.
 
-<sup>3</sup> §§ 155 und 156 Abs. 1 gelten sinngemäss.
+<sup>5</sup> Ein Weiterbildungsurlaub beginnt unter Vorbehalt des tageweisen Bezugs gemäss § 165 Abs. 4 am ersten Tag eines Monats.
 
-<sup>4</sup> Ein Weiterbildungsurlaub beginnt unter Vorbehalt des tageweisen Bezugs gemäss § 165 Abs. 4 am ersten Tag eines Monats.
+<sup>6</sup> Die Anstellungsinstanz regelt die Stellvertretung während eines Weiterbildungsurlaubs. Diese erfolgt in erster Linie in kollegialer Absprache. Ist dies nicht möglich, so trägt die Anstellungsinstanz die Kosten der Stellvertretung.[^165-3]
 
-<sup>5</sup> Die Anstellungsinstanz regelt die Stellvertretung während eines Weiterbildungsurlaubs. Diese erfolgt in erster Linie in kollegialer Absprache. Ist dies nicht möglich, so trägt die Anstellungsinstanz die Kosten der Stellvertretung.[^165-2]
+**57**
 
-<sup>6</sup> Während des Weiterbildungsurlaubs wird die Lohnzahlung weitergeführt. Pfarrerinnen, Pfarrern und Angestellten bleiben Rechte und Pflichten in Bezug auf das Pfarrhaus, die Pfarrwohnung oder die Dienstwohnung gewahrt.
+- 1\. 1. 25 - 127
 
-<sup>7</sup> Pfarrerinnen, Pfarrer und Angestellte verfassen zuhanden der Anstellungsinstanz einen schriftlichen Bericht über Verlauf und Ergebnisse des Weiterbildungsurlaubs und über gemachte Erfahrungen. Sie reichen den Bericht der Anstellungsinstanz und der Stelle gemäss § 163 b binnen eines Monats nach Abschluss des Weiterbildungsurlaubs ein.
+<sup>7</sup> Während des Weiterbildungsurlaubs wird die Lohnzahlung weitergeführt. Pfarrerinnen, Pfarrern und Angestellten bleiben Rechte und Pflichten in Bezug auf das Pfarrhaus, die Pfarrwohnung oder die Dienstwohnung gewahrt.
+
+<sup>8</sup> Pfarrerinnen, Pfarrer und Angestellte verfassen zuhanden der Anstellungsinstanz einen schriftlichen Bericht über Verlauf und Ergebnisse des Weiterbildungsurlaubs und über gemachte Erfahrungen. Sie reichen den Bericht der Anstellungsinstanz und der Stelle gemäss § 163 b binnen eines Monats nach Abschluss des Weiterbildungsurlaubs ein.
 
 **Kosten und Spesen**
 
-§ 168.[^165-3] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte, denen ein Weiterbildungsurlaub gewährt wird, tragen die im Zusammenhang mit dem Weiterbildungsurlaub anfallenden Kosten und Spesen.
-
-**55**
-
-- 1\. 1. 24 - 123
+§ 168.[^165-4] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte, denen ein Weiterbildungsurlaub gewährt wird, tragen die im Zusammenhang mit dem Weiterbildungsurlaub anfallenden Kosten und Spesen.
 
 <sup>2</sup> Die Beteiligung an den Kosten von Weiterbildungen im Rahmen oder während des Weiterbildungsurlaubs richtet sich nach §§ 158–160 a.
 
 <sup>3</sup> Spesen im Zusammenhang mit Weiterbildungen im Rahmen oder während des Weiterbildungsurlaubs werden gemäss § 161 vergütet.
 
-§ 169.[^165-4]
+§ 169.[^165-5]
 
 [^165-1]: Fassung gemäss V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
-[^165-2]: Eingefügt durch B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
-[^165-3]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
-[^165-4]: Aufgehoben durch V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
+[^165-2]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
+[^165-3]: Eingefügt durch B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+[^165-4]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+[^165-5]: Aufgehoben durch V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
 
 ### 10. Abschnitt: Weitere Rechte und Pflichten
 
@@ -2272,6 +2363,10 @@ Die Anstellungsinstanz kann Pfarrerinnen, Pfarrern und Angestellten für Vorschl
 
 <sup>2</sup> Pfarrerinnen, Pfarrer und Angestellte haben Anspruch auf den kostenlosen Bezug von neuen Ausgaben und Nachträgen der Verordnungen und Regelungen gemäss Abs. 1. Sie beziehen diese bei der Anstellungsinstanz.
 
+**59**
+
+- 1\. 1. 25 - 127
+
 ### B. Pflichten
 
 **Nebenbeschäftigungen und öffentliche Ämter a. Nebenbeschäftigungen (§ 93 ff. PVO)**
@@ -2284,11 +2379,14 @@ Die Anstellungsinstanz kann Pfarrerinnen, Pfarrern und Angestellten für Vorschl
 
 <sup>4</sup> Einkünfte aus Nebenbeschäftigungen, die abzüglich von Spesenentschädigungen den Betrag von insgesamt 8000 Franken im Jahr übersteigen, sind der Anstellungsinstanz abzuliefern, ausser wenn die beanspruchte Arbeitszeit ausgeglichen wird.
 
-**57**
+[^hBPflichten-1]: Fassung gemäss V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
+[^hBPflichten-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 261; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
-- 1\. 1. 24 - 123 § 175. <sup>1</sup> Erfordert die Ausübung eines öffentlichen Amtes gemäss § 96 Abs. 1 oder 3 PVO eine Bewilligung, so richtet sich der Ausgleich von beanspruchter Arbeitszeit und Ablieferung der Einkünfte aus einem öffentlichen Amt nach Abs. 2 und 3.[^hBPflichten-2]
+#### § 175
 
 **b. Öffentliche Ämter (§ 96 PVO)**
+
+<sup>1</sup> Erfordert die Ausübung eines öffentlichen Amtes gemäss § 96 Abs. 1 oder 3 PVO eine Bewilligung, so richtet sich der Ausgleich von beanspruchter Arbeitszeit und Ablieferung der Einkünfte aus einem öffentlichen Amt nach Abs. 2 und 3.[^hBPflichten-2]
 
 <sup>2</sup> Fällt die Ausübung eines öffentlichen Amtes in die Regelarbeitszeit, so kann dafür Arbeitszeit bis zu höchstens einem halben Tag pro Woche beansprucht werden. In diesem Umfang besteht keine Pflicht zum Ausgleich beanspruchter Arbeitszeit. Die Anstellungsinstanz legt die Arbeitszeit, die beansprucht werden darf, mit Pfarrerinnen, Pfarrern und Angestellten im Einzelnen fest.
 
@@ -2296,7 +2394,7 @@ Die Anstellungsinstanz kann Pfarrerinnen, Pfarrern und Angestellten für Vorschl
 
 **c. Abrechnung**
 
-§ 175 a.[^hBPflichten-3] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte, die für die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes gemäss §§ 94 Abs. 2, 95 Abs. 1 sowie 96 Abs. 1 und 3 PVO eine Bewilligung benötigen, reichen der Anstellungsinstanz jährlich bis Ende Februar eine Abrechnung über die im Vorjahr aus Nebenbeschäftigungen und öffentlichen Ämtern je erzielten Einkünfte und bezogenen Spesenentschädigungen ein.
+§ 175 a.[^175-1] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte, die für die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes gemäss §§ 94 Abs. 2, 95 Abs. 1 sowie 96 Abs. 1 und 3 PVO eine Bewilligung benötigen, reichen der Anstellungsinstanz jährlich bis Ende Februar eine Abrechnung über die im Vorjahr aus Nebenbeschäftigungen und öffentlichen Ämtern je erzielten Einkünfte und bezogenen Spesenentschädigungen ein.
 
 <sup>2</sup> Die Anstellungsinstanz stellt Pfarrerinnen, Pfarrern und Angestellten je den gemäss §§ 174 Abs. 4 und 175 Abs. 3 abzuliefernden Teil der aus Nebenbeschäftigungen und öffentlichen Ämtern erzielten Einkünfte in Rechnung.
 
@@ -2308,24 +2406,11 @@ Die Anstellungsinstanz kann Pfarrerinnen, Pfarrern und Angestellten für Vorschl
 
 - b. den der Landeskirche direkt überwiesenen Betrag abzüglich des Anteils der Pfarrerin oder des Pfarrers an den Einkünften gemäss Abs. 3.
 
-**Privatauszug und Sonderprivatauszug**
-
-§ 175 b.[^hBPflichten-4] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte reichen der Anstellungsinstanz jeweils auf Beginn der Amtsdauer der Pfarrerinnen und Pfarrer einen Privatauszug und, sofern sie regelmässig mit Minderjährigen oder anderen besonders schutzbedürftigen Personen tätig sind, einen Sonderprivatauszug aus dem Strafregister ein.
-
-<sup>2</sup> Die Verpflichtung gemäss Abs. 1 entfällt, wenn sich im Personaldossier bei der Anstellungsinstanz ein Privatauszug und ein Sonderprivatauszug finden, die nicht älter als zwei Jahre sind.
-
-<sup>3</sup> Die Anstellungsinstanz kann Pfarrerinnen, Pfarrer und Angestellte in begründeten Fällen jederzeit verpflichten, einen aktuellen Privat- und Sonderprivatauszug einzureichen.
-
-[^hBPflichten-1]: Fassung gemäss V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
-[^hBPflichten-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 261; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
-[^hBPflichten-3]: Eingefügt durch V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
-[^hBPflichten-4]: Fassung gemäss B vom 25. August 2021 (OS 76, 467; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
-
-#### § 176
+§ 175 b.[^175-2]
 
 **Vertrauensärztliche Untersuchung (§ 97 PVO) a. Gründe**
 
-Als begründete Fälle für die Anordnung einer vertrauensärztlichen Untersuchung gelten insbesondere:
+§ 176. Als begründete Fälle für die Anordnung einer vertrauensärztlichen Untersuchung gelten insbesondere:
 
 - a. Abklärung der körperlichen oder psychischen Eignung für eine bestimmte Arbeitsstelle, insbesondere im Rahmen eines Bewerbungsverfahrens,
 
@@ -2336,6 +2421,9 @@ Als begründete Fälle für die Anordnung einer vertrauensärztlichen Untersuchu
 - d. Vorbereitung des Entscheids über die Durchführung einer Fallbegleitung,
 
 - e. Abklärungen im Blick auf die Auflösung des Arbeitsverhältnisses wegen Invalidität gemäss § 39 PVO.
+
+[^175-1]: Eingefügt durch V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
+[^175-2]: Aufgehoben durch B vom 12. Juni 2024 (OS 79, 379; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 177
 
@@ -2351,13 +2439,17 @@ Leisten Pfarrerinnen, Pfarrer oder Angestellte der Einladung, sich einer vertrau
 
 <sup>2</sup> Fotokopien für private Zwecke sind zu vergüten.
 
+**61**
+
+- 1\. 1. 25 - 127
+
 <sup>3</sup> Die Anstellungsinstanz setzt die zu leistenden Vergütungen fest und regelt deren Einzug.
 
-**59**
-
-- 1\. 1. 24 - 123 § 179. <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte, die für das Parkieren ihres privaten Motorfahrzeuges einen Platz innerhalb einer Liegenschaft der Kirchgemeinde oder der Landeskirche benützen, entrichten dafür in der Regel eine Gebühr. Ausgenommen ist das kurzzeitige Parkieren im Zusammenhang mit amtlichen oder dienstlichen Tätigkeiten.
+#### § 179
 
 **Parkplätze**
+
+<sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte, die für das Parkieren ihres privaten Motorfahrzeuges einen Platz innerhalb einer Liegenschaft der Kirchgemeinde oder der Landeskirche benützen, entrichten dafür in der Regel eine Gebühr. Ausgenommen ist das kurzzeitige Parkieren im Zusammenhang mit amtlichen oder dienstlichen Tätigkeiten.
 
 <sup>2</sup> Die Kirchenpflege bei Liegenschaften der Kirchgemeinde und der Kirchenrat bei Liegenschaften der Landeskirche setzen die Gebühr fest und regeln deren Einzug.
 
@@ -2417,17 +2509,13 @@ Leisten Pfarrerinnen, Pfarrer oder Angestellte der Einladung, sich einer vertrau
 
 - b. der betreffenden Institution gegenüber Pfarrerinnen und Pfarrern in Institutionen, soweit diese die technische Infrastruktur der Institution nutzen.
 
-#### § 183
+**63**
+
+- 1\. 1. 25 - 127 § 183. <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte bestätigen gegenüber der Anstellungsinstanz schriftlich, dass sie auf §§ 180–188 aufmerksam gemacht worden sind und die möglichen straf-, zivil- und personalrechtlichen Konsequenzen eines Missbrauchs von Internet, E-Mail und elektronischen Kommunikationsplattformen zur Kenntnis genommen haben.
 
 **Schriftliche Bestätigung**
 
-<sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte bestätigen gegenüber der Anstellungsinstanz schriftlich, dass sie auf §§ 180–188 aufmerksam gemacht worden sind und die möglichen straf-, zivil- und personalrechtlichen Konsequenzen eines Missbrauchs von Internet, E-Mail und elektronischen Kommunikationsplattformen zur Kenntnis genommen haben.
-
 <sup>2</sup> Die Bestätigung wird im Personaldossier abgelegt.
-
-**61**
-
-- 1\. 1. 24 - 123
 
 ### B. Missbrauch
 
@@ -2505,6 +2593,10 @@ Bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern sowie bei Pfarreri
 
 § 188 c.[^h12AbschnittMitsp-1] <sup>1</sup> Die Urabstimmung ist die schriftliche Abstimmung unter den Angestellten der Gesamtkirchlichen Dienste sowie den Pfarrerinnen und Pfarrern in Institutionen.
 
+**65**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Der Urabstimmung unterliegen:
 
 - a. der Erlass und die Änderung des Mitwirkungsstatuts,
@@ -2518,10 +2610,6 @@ Bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern sowie bei Pfarreri
 **Versammlung**
 
 § 188 d.[^h12AbschnittMitsp-1] <sup>1</sup> Die Versammlung der Mitarbeiterinnen und Mitarbeiter setzt sich aus den Angestellten der Gesamtkirchlichen Dienste sowie den Pfarrerinnen und Pfarrern in Institutionen zusammen.
-
-**63**
-
-- 1\. 1. 24 - 123
 
 <sup>2</sup> Der Versammlung der Mitarbeiterinnen und Mitarbeiter obliegen:
 
@@ -2595,6 +2683,10 @@ Der Kirchenrat kann die Lohnadministration für andere Anstellungsinstanzen übe
 
 <sup>2</sup> Er bezeichnet die Ausbildungen, welche die Angestellten als Voraussetzung für die Zulassung zum kirchenmusikalischen, diakonischen und katechetischen Dienst sowie zum Dienst im Sekretariat einer Kirchgemeinde, als Sigristin oder Sigrist sowie als Hauswartin oder Hauswart vorzuweisen haben.
 
+**67**
+
+- 1\. 1. 25 - 127
+
 ### B. Besondere Anstellungsverhältnisse
 
 #### § 192
@@ -2605,21 +2697,21 @@ Der Kirchenrat kann die Lohnadministration für andere Anstellungsinstanzen übe
 
 <sup>2</sup> Aushilfen unterstehen der Personalverordnung und dieser Verordnung, soweit der Kirchenrat keine abweichenden Vorschriften erlässt.
 
-**65**
-
-- 1\. 1. 24 - 123 § 193. <sup>1</sup> Die Anstellungsinstanzen können im Rahmen der bewilligten finanziellen Mittel Praktikantinnen und Praktikanten anstellen.
+#### § 193
 
 **Praktikantinnen und Praktikanten**
 
+<sup>1</sup> Die Anstellungsinstanzen können im Rahmen der bewilligten finanziellen Mittel Praktikantinnen und Praktikanten anstellen.
+
 <sup>2</sup> Praktikantinnen und Praktikanten unterstehen der Personalverordnung und dieser Verordnung, soweit der Kirchenrat keine abweichenden Vorschriften erlässt.
 
-[^192-1]: SR 412.10 ff.
+[^193-1]: SR 412.10 ff.
 
 #### § 194
 
 **Lernende**
 
-<sup>1</sup> Lehrstellen gemäss der Bundesgesetzgebung über die Berufsbildung[^192-1] werden mit dem Stellenplan festgesetzt.
+<sup>1</sup> Lehrstellen gemäss der Bundesgesetzgebung über die Berufsbildung[^193-1] werden mit dem Stellenplan festgesetzt.
 
 <sup>2</sup> Die Anstellung erfolgt durch die Anstellungsinstanz. Diese setzt die Löhne für die Lernenden nach ortsüblichen Ansätzen fest.
 
@@ -2705,13 +2797,21 @@ Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 § 160 a ist auf die im Zeitpunkt von dessen Inkrafttreten bereits bewilligten Weiterbildungen nicht anwendbar.
 
-**67**
+**69**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 ### Übergangsbestimmung zur Änderung vom 27. März 2019 (OS 74, 259)
 
 Der Anspruch gemäss § 82 Abs. 2 besteht ab dem Zeitpunkt des Inkrafttretens der Änderung der Vollzugsverordnung zur Personalverordnung vom 27. März 2019.
+
+### Übergangsbestimmungen zur Änderung vom 12. Juni 2024
+
+(OS 79, 379)
+
+I. Auf Weiterbildungsurlaube, die im Zeitpunkt des Inkrafttretens dieser Änderung der Vollzugsverordnung zur Personalverordnung gemäss § 167 Abs. 2 beantragt sind, bleiben §§ 165 Abs. 1 lit. a und 166 Abs. 1 lit. a in der Fassung vom 6. Juli 2011 anwendbar.
+
+II. Auf Weiterbildungsurlaube, die im Zeitpunkt des Inkrafttretens dieser Änderung der Vollzugsverordnung zur Personalverordnung gemäss § 167 Abs. 3 beantragt sind, ist § 167 Abs. 2 nicht anwendbar.
 
 ### Anhang 1: Einreihungsplan
 
@@ -2755,9 +2855,9 @@ Betriebsangestellte/r mbA Chorleiter/in Hauswart/in mbA Katechet/in in Ausbildun
 
 Administrative/r Leiter/in Chorleiter/in Erwachsenenbildner/in HF Katechet/in Organist/in Polygraf/in Sachbearbeiter/in Sozialarbeiter/in HF Sozialdiakon/in HF
 
-**71**
+**73**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 [^hKlasse9-1]: Fassung gemäss B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
 
@@ -2801,9 +2901,9 @@ Bereichsleiter/in Geschäftsleiter/in Kantor/in Mittelschulseelsorger/in Pfarrst
 
 Abteilungsleiter/in Bereichsleiter/in Gemeindepfarrer/in Geschäftsleiter/in Pfarrer/in in Institutionen
 
-**73**
+**75**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 ### Klasse 18
 
@@ -2817,7 +2917,7 @@ Kirchenratsschreiber/in Mitglied des Kirchenrates
 
 Kirchenratspräsident/in
 
-[^hKlasse21-1]: Fassung gemäss B vom 29. November 2023 (OS 78, 541). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 69
+[^hKlasse21-1]: Fassung gemäss B vom 29. November 2023 (OS 78, 541). In Kraft seit 1. Januar 2024.
 
 ### Anhang 2: Beträge der Lohnklassen
 
@@ -2899,9 +2999,9 @@ LK 1 2 3 4 5
 
 1 AS 51 993 53 621 55 519 57 694 60 172 62 982 66 142 69 676 73 609 77 965
 
-**75**
+**77**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 ### Beträge der Lohnklassen
 
@@ -2925,7 +3025,7 @@ LK 1 2 3 4 5
 
 82 769 88 047 93 822 99 312 106 173 113 612 120 846 129 536 138 894 148 948 159 729
 
-[^h848049021296129-1]: Fassung gemäss B vom 29. November 2023 (OS 78, 541). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 69
+[^h848049021296129-1]: Fassung gemäss B vom 29. November 2023 (OS 78, 541). In Kraft seit 1. Januar 2024.
 
 ### Anhang 3: Beträge der Lohnklassen 16 und 17 für Pfarrerinnen und Pfarrer in den Kirchgemeinden und in Institutionen
 
@@ -2933,9 +3033,9 @@ LK 1 2 3 4 5
 
 LK 16 17 41 172 279 183 251 40 170 882 181 766 39 169 486 180 279 38 168 089 178 794 37 166 692 177 309 36 165 295 175 822 35 163 899 174 336 34 162 501 172 849 33 161 105 171 365 32 159 707 169 880 31 158 311 168 393 30 156 914 166 907 29 155 518 165 421 28 154 120 163 935 27 152 724 162 450 26 151 327 160 964 25 149 929 159 478 24 148 533 157 991 23 147 135 156 506 22 145 739 155 021 21 144 343 153 535 20 142 945 152 049 19 141 549 150 563 18 140 152 149 077 17 138 755 147 592 16 137 358 146 106 15 135 961 144 619 14 134 564 143 134 13 133 167 141 649 12 131 772 140 163 11 130 373 138 677 10 128 977 137 190 9 127 580 135 704 8 126 183 134 220 7 124 786 132 734 6 123 390 131 248 5 121 992 129 762 4 120 596 128 275 3 119 200 126 790 2 117 802 125 305 1 116 406 123 819
 
-**77**
+**79**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 25 - 127
 
 ## Weitere Fussnoten
 
