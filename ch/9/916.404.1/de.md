@@ -4,11 +4,11 @@ title: Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkeh
 short: IdTVD-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20240101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/de"
 
 (IdTVD-V)
 
-vom 3. November 2021 (Stand am 1. Januar 2024)
+vom 3. November 2021 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -111,18 +111,15 @@ Sie erbringt zudem die folgenden Aufgaben:
 
 #### Art. 4
 
-**Hardware, Software, Datenbestände[^4-1]**
+**Verhältnis zum Bund**[^4-1]
 
-<sup>1</sup> Die Identitas AG ist Eigentümerin der Infrastruktur, inklusive Hardware und Software, zur Erbringung ihrer Aufgaben nach Artikel 3. Vorbehalten bleibt Absatz 2.
+<sup>1</sup> Der Bund ist Verantwortlicher der Datenbestände, die durch die Ausübung der Aufgaben nach Artikel 3 entstehen.
 
 <sup>2</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) ist Eigentümer der Software zur Erbringung der Aufgaben nach Artikel 3 Absatz 2.
 
-<sup>3</sup> Führt die Identitas AG eine Aufgabe nicht mehr aus, so muss sie die entsprechende Software sowie die dazugehörige Dokumentation dem Bund übertragen.
+<sup>3</sup> Führt die Identitas AG eine Aufgabe nach Artikel 3 nicht mehr aus, so muss sie die entsprechende Dokumentation dem Bund übertragen.
 
-<sup>4</sup> Der Bund ist Verantwortlicher der Datenbestände, die durch die Ausübung der Aufgaben nach Artikel 3 entstehen.[^4-2]
-
-[^4-1]: Fassung gemäss Anhang 2 Ziff. II 128 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^4-2]: Fassung gemäss Anhang 2 Ziff. II 128 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 5
 
@@ -256,7 +253,7 @@ Die TVD kann folgende Daten aus anderen Informationssystemen beziehen:
 
 <sup>1</sup>
 
-Tierhalterinnen und Tierhalter mit Tieren der Rindergattung, Büffeln, Bisons, Tieren der Schaf-, der Ziegen- und der Schweinegattung sowie Tierhalterinnen und Tierhalter mit Hausgeflügel, deren Tierhaltung mehr als 250 Plätze für Zuchttiere, mehr als 1000 Plätze für Legehennen, eine Stallgrundfläche von mehr als 333 m<sup>2</sup> für Mastpoulets oder von mehr als 200 m<sup>2</sup> für Masttruten hat, müssen folgende Daten an die TVD übermitteln:
+Tierhalterinnen und Tierhalter mit Tieren der Rindergattung, Büffeln, Bisons, Tieren der Schaf-, der Ziegen- und der Schweinegattung, Tierhalterinnen und Tierhalter mit Hausgeflügel, deren Tierhaltung mehr als 250 Plätze für Zuchttiere, mehr als 1000 Plätze für Legehennen, eine Stallgrundfläche von mehr als 333 m<sup>2</sup> für Mastpoulets oder von mehr als 200 m<sup>2</sup> für Masttruten hat, sowie Schlachtbetriebe müssen folgende Daten an die TVD übermitteln:[^13-1]
 
 - a. Telefonnummer und Korrespondenzsprache;
 - b. Post- oder Bankverbindung.
@@ -266,6 +263,8 @@ Tierhalterinnen und Tierhalter mit Tieren der Rindergattung, Büffeln, Bisons, T
 <sup>3</sup> Zu übermitteln sind zudem Änderungen der Daten nach den Absätzen 1 und 2. Änderungen der Nutzungsart der Tierhaltung sind innerhalb von drei Tagen zu übermitteln.
 
 <sup>4</sup> Tierhalterinnen und Tierhalter mit Hausgeflügel können zusätzlich Angaben zum Stallgebäude übermitteln.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 14
 
@@ -375,9 +374,11 @@ Die Daten nach den Artikeln 13 und 16–21 müssen elektronisch über das Intern
 
 #### Art. 24
 
-**Prüfung der Daten**
+**Prüfung der Daten**[^24-1]
 
-Die Identitas AG prüft die Daten nach den Artikeln 16–21 auf ihre Vollständigkeit und Plausibilität. Über unvollständige und nicht plausible Daten informiert sie die Person, die die Daten übermittelt hat, und räumt ihr die Möglichkeit ein, die Daten zu ergänzen beziehungsweise zu korrigieren.
+Die Identitas AG prüft die Daten nach den Artikeln 13 und 16–21 auf ihre Vollständigkeit und Plausibilität. Über unvollständige und nicht plausible Daten informiert sie die Person, die die Daten übermittelt hat, und räumt ihr die Möglichkeit ein, die Daten zu ergänzen beziehungsweise zu korrigieren.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 25
 
@@ -1476,7 +1477,7 @@ Anhang 2[^t-2]
 
 ## Gebühren
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 2. Nov. 2022 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Bereinigt gemäss Ziff. II der V vom 1. Nov. 2023 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 <table>
 <tr><th></th><th>Franken</th></tr>
@@ -1518,7 +1519,8 @@ Anhang 2[^t-2]
 <tr><td>6 Erfassung neuer Organisationen</td><td></td></tr>
 <tr><td>Erfassung einer neuen Zucht-, Produzenten- oder Labelorganisation oder eines neuen Tiergesundheitsdienstes</td><td>250.–</td></tr>
 <tr><td>7 Mahngebühren</td><td></td></tr>
-<tr><td>Mahngebühr pro ausstehende Zahlung</td><td>30.–</td></tr>
+<tr><td>7.1 Mahngebühr pro ausstehende Zahlung</td><td>30.–</td></tr>
+<tr><td>7.2 Mahnung für ungültige Post- oder Bankverbindung</td><td>20.–</td></tr>
 </table>
 
 Anhang 3

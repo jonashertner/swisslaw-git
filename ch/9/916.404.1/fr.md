@@ -4,11 +4,11 @@ title: Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de
 short: OId-BDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20240101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/fr"
 
 (OId-BDTA)
 
-du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2024)
+du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -84,7 +84,9 @@ Identitas SA exploite:
 - b. le calculateur UGB;
 - c. l’e-Transit.
 
-<sup>2</sup> Elle fournit l’infrastructure et les services informatiques pour:
+<sup>2</sup>
+
+Elle fournit l’infrastructure et les services informatiques pour:
 
 - a.[^3-1] le système d’information pour les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes (Fleko) visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire (O-SICAL)[^3-2];
 - b. le système d’information pour le contrôle des bovins à l’abattoir (Ribes).
@@ -109,18 +111,15 @@ En outre, elle accomplit les tâches suivantes:
 
 #### Art. 4
 
-**Matériel informatique, logiciel, ensembles de données[^4-1]**
+**Rapport avec la Confédération**[^4-1]
 
-<sup>1</sup> Identitas SA est propriétaire de l’infrastructure nécessaire à l’accomplissement de ses tâches selon l’art. 3, y compris le matériel informatique et le logiciel. L’al. 2 demeure réservé.
+<sup>1</sup> La Confédération est responsable des ensembles de données résultant de l’accomplissement des tâches visées à l’art. 3.
 
 <sup>2</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) est propriétaire du logiciel nécessaire à l’accomplissement des tâches visées à l’art. 3, al. 2.
 
-<sup>3</sup> Si Identitas SA n’accomplit plus une tâche, elle devra transmettre à la Confédération le logiciel correspondant et la documentation qui s’y rapporte.
+<sup>3</sup> Si Identitas SA ne remplit plus l’une des tâches visées à l’art. 3, elle doit céder à la Confédération la documentation qui s’y rapporte.
 
-<sup>4</sup> La Confédération est responsable des ensembles de données qui sont établis lors de l’accomplissement des tâches visées à l’art. 3.[^4-2]
-
-[^4-1]: Nouvelle teneur selon l’annexe 2 ch. II 128 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^4-2]: Nouvelle teneur selon l’annexe 2 ch. II 128 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 5
 
@@ -254,7 +253,7 @@ La BDTA peut reprendre les données d’autres systèmes d’information:
 
 <sup>1</sup>
 
-Les détenteurs de bovins, de buffles, de bisons, d’ovins, de caprins et de porcins, ainsi que les détenteurs d’animaux des unités d’élevage de volailles domestiques de plus de 250 places pour des animaux d’élevage, de plus de 1000 places pour les poules pondeuses, ayant une surface de base du poulailler de plus de 333 m<sup>2</sup> pour les poulets à l’engrais ou de plus de 200 m<sup>2</sup> pour les dindes à l’engrais,doivent transmettre à la BDTA les données suivantes:
+Les détenteurs de bovins, de buffles, de bisons, d’ovins, de caprins et de porcins, les détenteurs d’animaux des unités d’élevage de volailles domestiques de plus de 250 places pour des animaux d’élevage, de plus de 1000 places pour les poules pondeuses, ayant une surface de base du poulailler de plus de 333 m<sup>2</sup> pour les poulets à l’engrais ou de plus de 200 m<sup>2</sup> pour les dindes à l’engrais, ainsi que les abattoirs, doivent transmettre à la BDTA les données suivantes:[^13-1]
 
 - a. le numéro de téléphone et la langue de correspondance;
 - b. les coordonnées postales ou bancaires.
@@ -264,6 +263,8 @@ Les détenteurs de bovins, de buffles, de bisons, d’ovins, de caprins et de po
 <sup>3</sup> Les modifications des données visées aux al. 1 et 2 doivent en outre être transmises. Les modifications du type d’utilisation de l’élevage doivent être transmises dans un délai de trois jours.
 
 <sup>4</sup> Les détenteurs de volaille domestique peuvent en outre transmettre des indications concernant le bâtiment.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 14
 
@@ -373,9 +374,11 @@ Les données visées aux art. 13 et 16 à 21 doivent être transmises par voie �
 
 #### Art. 24
 
-**Vérification des données**
+**Vérification des données**[^24-1]
 
-Identitas SA vérifie l’exhaustivité et la plausibilité des données visées aux art. 16 à 21. En cas de données incomplètes ou non plausibles, elle en informe la personne qui a fourni les données et lui donne la possibilité de compléter ou corriger les données.
+Identitas SA vérifie l’exhaustivité et la plausibilité des données visées aux art. 13 et 16 à 21. En cas de données incomplètes ou non plausibles, elle en informe la personne qui a fourni les données et lui donne la possibilité de compléter ou corriger les données.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 25
 
@@ -1475,7 +1478,7 @@ Annexe 2[^t-2]
 
 ## Émoluments
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Mise à jour par le ch. II de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Mise à jour par le ch. II des O du 1<sup>er</sup> nov. 2023 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)) et du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 <table>
 <tr><th></th><th>Francs</th></tr>
@@ -1516,8 +1519,9 @@ Annexe 2[^t-2]
 <tr><td>Liste des numéros d’identification des animaux qui séjournent dans une unité d’élevage: forfait par année civile, unité d’élevage et genre animal; les émoluments inférieurs à 20 francs par année civile ne sont pas facturés</td><td>3.–</td></tr>
 <tr><td>6 Saisie de nouvelles organisations</td><td></td></tr>
 <tr><td>Saisie d’une nouvelle organisation d’élevage, de producteurs ou de production sous label, ou d’un nouveau service sanitaire</td><td>250.–</td></tr>
-<tr><td>7 Frais de rappel</td><td></td></tr>
-<tr><td>Frais de rappel par paiement dû</td><td>30.–</td></tr>
+<tr><td>7 Émoluments pour rappels</td><td></td></tr>
+<tr><td>7.1 Rappel pour retard de paiement</td><td>30.–</td></tr>
+<tr><td>7.2 Rappel pour coordonnées postales ou bancaires inexactes</td><td>20.–</td></tr>
 </table>
 
 Annexe 3

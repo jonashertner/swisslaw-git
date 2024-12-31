@@ -4,11 +4,11 @@ title: Ordinanza del 3 novembre 2021 concernente Identitas AG e la banca dati su
 short: OIBDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20240101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/it"
 
 (OIBDTA)
 
-del 3 novembre 2021 (Stato 1° gennaio 2024)
+del 3 novembre 2021 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -105,23 +105,21 @@ Svolge inoltre i seguenti compiti:
 - d. versa i contributi ai costi per l’eliminazione dei sottoprodotti di origine animale;
 - e. riscuote la tassa di macellazione.
 
-[^3-1]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^3-1]: Nuovo testo giusta l’all. 4 la cifra II n. 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^3-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 [^3-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 #### Art. 4
 
-**Hardware, software, raccolte di dati**
+**Rapporto con la Confederazione**[^4-1]
 
-<sup>1</sup> Identitas AG è proprietaria dell’infrastruttura, inclusi hardware e software, che utilizza per svolgere i compiti che le sono attribuiti dall’articolo 3. È fatto salvo il capoverso 2.
+<sup>1</sup> La Confederazione è responsabile delle raccolte di dati generate dallo svolgimento dei compiti di cui all’articolo 3.
 
 <sup>2</sup> L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) è proprietario del software utilizzato per svolgere i compiti di cui all’articolo 3 capoverso 2.
 
-<sup>3</sup> Se cessa di svolgere un compito, Identitas AG consegna alla Confederazione il software corrispondente e la rispettiva documentazione.
+<sup>3</sup> Se cessa di svolgere un compito di cui all’articolo 3, Identitas AG consegna alla Confederazione la rispettiva documentazione.
 
-<sup>4</sup> La Confederazione è responsabile delle raccolte di dati generate dallo svolgimento dei compiti di cui all’articolo 3.[^4-1]
-
-[^4-1]: Nuovo testo giusta l’all. 2 n. II 128 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 5
 
@@ -242,10 +240,10 @@ La BDTA può acquisire i seguenti dati da altri sistemi d’informazione:
 [^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^12-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^12-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^12-4]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^12-4]: Nuovo testo giusta l’all. 4 la cifra II n. 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^12-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 [^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^12-7]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^12-7]: Nuovo testo giusta l’all. 4 la cifra II n. 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 2: Registrazione di detentori di animali e di aziende detentrici di animali nonché del traffico degli animali
 
@@ -255,7 +253,7 @@ La BDTA può acquisire i seguenti dati da altri sistemi d’informazione:
 
 <sup>1</sup>
 
-I detentori di animali della specie bovina, di bufali e di bisonti, di animali delle specie ovina, caprina e suina, nonché i detentori di pollame da cortile la cui azienda conta oltre 250 posti per gli animali da allevamento, oltre 1000 posti per le galline ovaiole, una superficie di base del pollaio di oltre 333 m<sup>2</sup> per i polli da ingrasso o di oltre 200 m<sup>2</sup> per i tacchini da ingrasso, devono trasmettere alla BDTA i seguenti dati:
+I detentori di animali della specie bovina, di bufali e di bisonti, di animali delle specie ovina, caprina e suina, i detentori di pollame da cortile la cui azienda conta oltre 250 posti per gli animali da allevamento, oltre 1000 posti per le galline ovaiole, una superficie di base del pollaio di oltre 333 m<sup>2</sup> per i polli da ingrasso o di oltre 200 m<sup>2</sup> per i tacchini da ingrasso, nonché i macelli devono trasmettere alla BDTA i seguenti dati:[^13-1]
 
 - a. numero di telefono e lingua per la corrispondenza;
 - b. relazione postale o bancaria.
@@ -265,6 +263,8 @@ I detentori di animali della specie bovina, di bufali e di bisonti, di animali d
 <sup>3</sup> Vanno inoltre trasmessi i cambiamenti dei dati di cui ai capoversi 1 e 2. I cambiamenti del tipo di utilizzazione vanno trasmessi entro tre giorni.
 
 <sup>4</sup> I detentori di pollame da cortile possono trasmettere in via suppletiva indicazioni sui pollai.
+
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 14
 
@@ -374,9 +374,11 @@ I dati di cui agli articoli 13 e 16–21 vanno trasmessi elettronicamente tramit
 
 #### Art. 24
 
-**Verifica dei dati**
+**Verifica dei dati**[^24-1]
 
-Identitas AG verifica la completezza e la plausibilità dei dati di cui agli articoli 16–21. Informa la persona che ha trasmesso dati incompleti e non plausibili, dandole la possibilità di completarli o di correggerli.
+Identitas AG verifica la completezza e la plausibilità dei dati di cui agli articoli 13 e 16–21. Informa la persona che ha trasmesso dati incompleti e non plausibili, dandole la possibilità di completarli o di correggerli.
+
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 #### Art. 25
 
@@ -392,11 +394,11 @@ Identitas AG verifica la completezza e la plausibilità dei dati di cui agli art
 
 <sup>5</sup> I servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie possono chiedere telefonicamente o per scritto a Identitas AG una rettifica dei dati di cui all’allegato 1.[^25-5]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 [^25-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^25-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^25-5]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-4]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^25-5]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 26
 
@@ -432,7 +434,7 @@ Identitas AG trasmette all’organizzazione del mondo del lavoro «Mestieri lega
 [^27-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^27-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^27-3]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^27-4]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^27-4]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 28
 
@@ -497,7 +499,7 @@ Chiunque può consultare e utilizzare i seguenti dati che lo concernono:
 - c. relazione postale o bancaria;
 - d. indirizzo di posta elettronica.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 34
 
@@ -544,7 +546,7 @@ I detentori di animali che hanno tenuto un animale nonché un eventuale benefici
 - b. indice del rosso nel colore della carne di vitello (valore L\*);
 - c. risultati del controllo degli animali da macello e risultati del controllo delle carni che riguardano la commestibilità.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 [^36-2]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
 
 #### Art. 37
@@ -589,7 +591,7 @@ Chi dispone del numero d’identificazione o del numero di microchip di un anima
 
 <sup>3</sup> Le persone che intendono consultare e utilizzare i dati acquisiscono personalmente i numeri BDTA delle aziende detentrici di animali nonché i numeri d’identificazione e i numeri di microchip degli animali.
 
-[^38b-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^38b-1]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 [^38b-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^38b-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
@@ -601,7 +603,7 @@ Chi dispone del numero d’identificazione o del numero di microchip di un anima
 
 <sup>2</sup> Se la domanda comprende dati non anonimizzati o se attraverso tutti i dati disponibili è possibile risalire a persone interessate, Identitas AG deve concludere un contratto con il terzo. Il contratto va sottoposto per approvazione all’UFAG prima della firma.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 40
 
@@ -625,7 +627,7 @@ I seguenti sistemi d’informazione possono acquisire i dati dalla BDTA tramite 
 - h. Fleko;
 - i. RiBeS.
 
-[^40-1]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^40-1]: Nuovo testo giusta l’all. 4 la cifra II n. 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^40-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## Capitolo 4: Calcolatore di UBG
@@ -819,8 +821,8 @@ eTransit può acquisire i seguenti dati dai sistemi d’informazione indicati qu
 <sup>6</sup> Per svolgere i loro compiti, l’UFAG, l’USAV e i servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie, di agricoltura, di protezione degli animali, di derrate alimentari e di agenti terapeutici possono consultare e utilizzare i certificati d’accompagnamento elettronici nonché completarli durante la loro durata di validità secondo l’articolo 12*a* OFE.[^54-3]
 
 [^54-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^54-2]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
-[^54-3]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^54-2]: Abrogato dalla cifra I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^54-3]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 55
 
@@ -996,7 +998,7 @@ Allegato 1[^t-1]
 
 ## Dati da trasmettere alla BDTA
 
-[^t-1]: Aggiornato dal n. II 1 dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^t-1]: Aggiornato dalla cifra II n. 1 dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 ### 1. Dati concernenti gli animali della specie bovina, i bufali e i bisonti
 
@@ -1475,7 +1477,7 @@ Allegato 2[^t-2]
 
 ## Emolumenti
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 2 nov. 2022 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Aggiornato dal n. II dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 2 nov. 2022 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Aggiornato dalle cifre II delle O del 1° nov. 2023 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)) e del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
 
 <table>
 <tr><th></th><th>Franchi</th></tr>
@@ -1516,7 +1518,8 @@ Allegato 2[^t-2]
 <tr><td>Elenco dei numeri d’identificazione degli animali che sono tenuti in un’azienda detentrice di animali: costi forfettari per anno civile, azienda detentrice di animali e specie animale; non vengono fatturati emolumenti se l’importo totale è inferiore a 20 franchi per anno civile:</td><td>3.00</td></tr>
 <tr><td>6 Registrazione di nuove organizzazioni Registrazione di una nuova organizzazione di allevamento, di produttori o di produzione con label oppure di un servizio di sanità animale</td><td>250.00</td></tr>
 <tr><td>7 Emolumenti per solleciti</td><td></td></tr>
-<tr><td>Sollecito per ogni mancato pagamento</td><td>30.00</td></tr>
+<tr><td>7.1 Sollecito per ogni mancato pagamento</td><td>30.00</td></tr>
+<tr><td>7.2 Sollecito per coordinate postali o bancarie non valide</td><td>20.00</td></tr>
 </table>
 
 Allegato 3
@@ -1538,6 +1541,6 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex3-lvlu1-3]
 
-[^annex3-lvlu1-1]: [[RU 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)all. n. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)all. n. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 n. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)all. n. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663)n. I; [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)all. 4 n. 9; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)all. n. 1]
+[^annex3-lvlu1-1]: [[RU 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)all. n. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)all. n. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 n. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)all. n. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663)cifra I; [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)all. 4 n. 9; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)all. n. 1]
 [^annex3-lvlu1-2]: [[RU 2015 4577](https://fedlex.data.admin.ch/eli/oc/2015/771); [2017 6153](https://fedlex.data.admin.ch/eli/oc/2017/681); [2018 2091](https://fedlex.data.admin.ch/eli/oc/2018/294), [4697](https://fedlex.data.admin.ch/eli/oc/2018/744); [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663)n. II; [2020 5757](https://fedlex.data.admin.ch/eli/oc/2020/966)]
 [^annex3-lvlu1-3]: Le mod. possono essere consultate alla [RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751).
