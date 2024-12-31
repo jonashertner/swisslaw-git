@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2016 über den Gütertransport durch Bahn- und Sc
 short: GüTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2016-329-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-329-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/de"
 
 (Gütertransportverordnung, GüTV)
 
-vom 25. Mai 2016 (Stand am 1. Juli 2024)
+vom 25. Mai 2016 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 2 Absatz 3, 5 Absatz 1, 6 Absatz 2, 14 Absatz 3, 18 Absatz 4, 19 Absatz 4, 20 Absatz 3, 21 Absatz 4, 22 Absatz 1 und 25 des Gütertransportgesetzes vom 25. September 2015[^ingress-1] (GüTG), Artikel 38 des Bundesgesetzes vom 22. März 1985[^ingress-2] über die Verwendung der zweckgebundenen Mineralölsteuer und der Nationalstrassenabgabe (MinVG) und Artikel 9 des Güterverkehrsverlagerungsgesetzes vom 19. Dezember 2008[^ingress-3],
+gestützt auf die Artikel 2 Absatz 3, 5 Absatz 1, 6 Absatz 2, 14 Absatz 3, 18 Absatz 4, 19 Absatz 4, 20 Absatz 3, 21 Absatz 4, 22 Absatz 1 und 25 des Gütertransportgesetzes vom 25. September 2015[^ingress-1] (GüTG), Artikel 38 des Bundesgesetzes vom 22. März 1985[^ingress-2] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundenen Mittel (MinVG) und die Artikel 8 Absatz 1 und 9 des Güterverkehrsverlagerungsgesetzes vom 19. Dezember 2008[^ingress-3] (GVVG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 [^ingress-3]: [SR 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -266,9 +267,11 @@ Die Investitionsbeiträge werden sechs Monate nach der Einreichung der Schlussab
 
 **Alpenquerender kombinierter Verkehr**
 
-<sup>1</sup> Im alpenquerenden kombinierten Verkehr gilt der Bund den Eisenbahnverkehrsunternehmen und Dritten die ungedeckten Kosten der von ihm bestellten Angebote ab, die effektiv erbracht worden sind.
+<sup>1</sup> Im alpenquerenden unbegleiteten kombinierten Verkehr über Distanzen von mehr als 600 Kilometern und im alpenquerenden begleiteten kombinierten Verkehr gilt der Bund den Eisenbahnverkehrsunternehmen und Dritten die ungedeckten Kosten der von ihm bestellten Angebote ab, die effektiv erbracht worden sind.[^15-1]
 
 <sup>2</sup> Das BAV legt die Fristen für die einzelnen Phasen des Bestellverfahrens sowie die maximalen Beitragssätze fest.
+
+<sup>2bis</sup> Im alpenquerenden unbegleiteten kombinierten Verkehr über Distanzen von weniger als 600 Kilometern kann der Bund eine pauschale Abgeltung pro Sendung ausrichten. Diese Abgeltung ist höher als die Abgeltung pro Sendung über Distanzen von mehr als 600 Kilometern. Das BAV legt die Höhe der Abgeltung pro Sendung fest.[^15-2]
 
 <sup>3</sup> Eisenbahnverkehrsunternehmen und Dritte, die Anspruch auf Betriebsbeiträge erheben, reichen dem BAV jährlich eine Offerte ein.
 
@@ -285,6 +288,9 @@ Die Offerte muss insbesondere folgende Angaben enthalten:
 
 <sup>6</sup> Nimmt es eine Offerte an, so schliesst es mit der Leistungserbringerin eine Vereinbarung ab. Darin werden insbesondere das bestellte Angebot und die Höhe der Betriebsbeiträge sowie die Modalitäten der Zahlenmeldungen durch die Leistungserbringerin und der Auszahlung der Betriebsbeiträge festgelegt.
 
+[^15-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+
 #### Art. 16
 
 **Beteiligung des Bundes an Bestellungen der Kantone**
@@ -297,11 +303,12 @@ Bestellt ein Kanton ein Angebot des Gütertransports auf der Schiene und ersucht
 - b. die Darstellung einer kantonalen Güterverkehrsstrategie oder eines Güterverkehrskonzepts;
 - c. die beim Bund beantragte Fördersumme für die entsprechende Periode.
 
-<sup>2</sup> Bestellt ein Kanton ein Angebot auf dem Netz der Schmalspurbahnen, so können die Betriebsbeiträge des Bundes bis zum prozentualen Anteil der Bundesbeteiligung nach Anhang 2 der Verordnung vom 11. November 2009[^16-1] über die Abgeltung des regionalen Personenverkehrs (ARPV) erhöht werden.
+<sup>2</sup> Bestellt ein Kanton ein Angebot auf dem Netz der Schmalspurbahnen, so können die Betriebsbeiträge des Bundes bis zum prozentualen Anteil der Bundesbeteiligung nach Anhang 3 der Verordnung vom 16. Oktober 2024[^16-1] über die Abgeltungen und die Rechnungslegung im regionalen Personenverkehr (ARPV) erhöht werden.[^16-2]
 
 <sup>3</sup> Das BAV schliesst gemeinsam mit dem Kanton eine Vereinbarung mit der Leistungserbringerin ab.
 
 [^16-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^16-2]: Fassung gemäss Anhang 4 Ziff. II 3 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 17
 
@@ -319,16 +326,17 @@ Bestellt ein Kanton ein Angebot des Gütertransports auf der Schiene und ersucht
 
 #### Art. 18
 
-**Befristung der Betriebsbeiträge**
+**Befristung der Betriebsbeiträge und Abgeltungen[^18-1]**
 
-<sup>1</sup> Die Betriebsbeiträge des Bundes für Leistungen im alpenquerenden kombinierten Verkehr sind bis Ende 2026 befristet.[^18-1]
+<sup>1</sup> Die Betriebsbeiträge und Abgeltungen des Bundes für Leistungen im alpenquerenden unbegleiteten kombinierten Verkehr sind bis Ende 2030 befristet.[^18-2]
 
-<sup>2</sup> Der Bund kann sich bis Ende 2027 an Bestellungen der Kantone im Güterverkehr auf dem Schmal- und Normalspurnetz beteiligen.[^18-2]
+<sup>2</sup> Der Bund kann sich bis Ende 2027 an Bestellungen der Kantone im Güterverkehr auf dem Schmal- und Normalspurnetz beteiligen.[^18-3]
 
 <sup>3</sup> Er kann neue Angebote des Gütertransports auf der Schiene längstens bis Ende 2027 fördern.
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Febr. 2020 ([AS 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
-[^18-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Febr. 2020 ([AS 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Febr. 2020 ([AS 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
 
 ## 4. Abschnitt: Investitionsbeiträge für technische Neuerungen im Gütertransport auf der Schiene
 
@@ -401,9 +409,10 @@ Es muss folgende Unterlagen enthalten:
 
 <sup>1</sup> Leistet der Bund Investitions- und Betriebsbeiträge zur Förderung des Transports begleiteter Motorfahrzeuge (Autoverlad), so werden Investitionsbeiträge als unverzinsliche, rückzahlbare Darlehen oder als A-Fonds-perdu-Beiträge gewährt.
 
-<sup>2</sup> Das Bestell- und Beitragsverfahren für die Ausrichtung der Betriebsbeiträge richtet sich nach den Artikeln 16–23 ARPV[^24-1].
+<sup>2</sup> Das Bestell- und Beitragsverfahren für die Ausrichtung der Betriebsbeiträge richtet sich nach den Artikeln 30–32 und 36–41 ARPV[^24-1].[^24-2]
 
 [^24-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^24-2]: Fassung gemäss Anhang 4 Ziff. II 3 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 6. Abschnitt: Anschlussgewährung, Planung und Bau von Anschlussgleisen
 

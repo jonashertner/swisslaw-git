@@ -4,11 +4,11 @@ title: "Ordonnance du 25 mai 2016 sur le transport de marchandises par des entre
 short: OTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-329-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-329-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/fr"
 
 (Ordonnance sur le transport de marchandises, OTM)
 
-du 25 mai 2016 (État le 1<sup>er</sup> juillet 2024)
+du 25 mai 2016 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
-vu les art. 2, al. 3, 5, al. 1, 6, al. 2, 14, al. 3, 18, al. 4, 19, al. 4, 20, al. 3, 21, al. 4, 22, al. 1, et 25 de la loi du 25 septembre 2015 sur le transport de marchandises (LTM)[^ingress-1], vu l’art. 38 de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et de la redevance autoroutière (LUMin)[^ingress-2], vu l’art. 9 de la loi du 19 décembre 2008 sur le transfert du transport de marchandises[^ingress-3],
+vu les art. 2, al. 3, 5, al. 1, 6, al. 2, 14, al. 3, 18, al. 4, 19, al. 4, 20, al. 3, 21, al. 4, 22, al. 1, et 25 de la loi du 25 septembre 2015 sur le transport de marchandises (LTM)[^ingress-1], vu l’art. 38 de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^ingress-2], vu les art. 8, al. 1, et 9 de la loi du 19 décembre 2008 sur le transfert du transport de marchandises (LTTM)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 [^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
 
 ## Section 1 Dispositions générales
 
@@ -266,9 +267,11 @@ Le versement des contributions d’investissement est exigible six mois après r
 
 **Transport combiné à travers les Alpes**
 
-<sup>1</sup> La Confédération indemnise les entreprises de transport ferroviaire et les tiers des coûts non couverts des offres qu’elle a commandées au titre du transport combiné à travers les Alpes et qui ont effectivement été fournies.
+<sup>1</sup> En transport combiné non accompagné à travers les Alpes sur des distances de plus de 600 kilomètres et en transport combiné accompagné à travers les Alpes, la Confédération indemnise les entreprises de transport ferroviaire et les tiers pour les coûts non couverts des offres qu’elle a commandées et qui ont été effectivement fournies.[^15-1]
 
 <sup>2</sup> L’OFT fixe les échéances des différentes phases de la procédure de commande et des taux maximaux de contribution.
+
+<sup>2bis</sup> En transport combiné non accompagné à travers les Alpes sur des distances de moins de 600 kilomètres, la Confédération peut verser une indemnité forfaitaire par envoi. Cette indemnité est plus élevée que celle par envoi sur des distances de plus de 600 kilomètres. L’OFT fixe le montant de l’indemnité par envoi.[^15-2]
 
 <sup>3</sup> Les entreprises de transport ferroviaire et les tiers qui font valoir leur droit à des contributions d’exploitation présentent chaque année une offre à l’OFT.
 
@@ -285,6 +288,9 @@ L’offre doit notamment contenir les indications suivantes:
 
 <sup>6</sup> Lorsque l’OFT accepte une offre, il conclut une convention avec le prestataire. Cette convention fixe notamment l’offre commandée et le montant des contributions d’exploitation ainsi que les modalités relatives à la communication des chiffres par le prestataire et au versement des contributions d’exploitation.
 
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^15-2]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+
 #### Art. 16
 
 **Participation fédérale aux commandes des cantons**
@@ -297,11 +303,12 @@ Lorsqu’un canton commande une offre de transport ferroviaire de marchandises e
 - b. la présentation d’une stratégie cantonale en matière de transport de marchandises ou d’une conception relative au transport de marchandises;
 - c. le montant de la contribution demandée à la Confédération pour la période correspondante.
 
-<sup>2</sup> Lorsqu’un canton commande une offre sur le réseau des chemins de fer à voie étroite, les contributions d’exploitation de la Confédération peuvent être augmentées jusqu’à concurrence de la part en pour-cent de la participation fédérale prévue à l’annexe 2 de l’ordonnance du 11 novembre 2009 sur l’indemnisation du trafic régional de voyageurs (OITRV<sup>)</sup>[^16-1].
+<sup>2</sup> Lorsqu’un canton commande une offre sur le réseau des chemins de fer à voie étroite, les contributions d’exploitation de la Confédération peuvent être augmentées jusqu’à concurrence de la part en pour-cent de la participation fédérale prévue à l’annexe 3 de l’ordonnance du 16 octobre 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs (OITRV)[^16-1].[^16-2]
 
 <sup>3</sup> L’OFT conclut, conjointement avec le canton, une convention avec le prestataire.
 
 [^16-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^16-2]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 17
 
@@ -319,16 +326,17 @@ Lorsqu’un canton commande une offre de transport ferroviaire de marchandises e
 
 #### Art. 18
 
-**Fin du versement des contributions d’exploitation**
+**Fin du versement des contributions d’exploitation et des indemnités[^18-1]**
 
-<sup>1</sup> La Confédération verse des contributions d’exploitation pour les prestations de transport combiné à travers les Alpes jusqu’à fin 2026.[^18-1]
+<sup>1</sup> La Confédération verse des contributions d’exploitation et des indemnités pour les prestations de transport combiné non accompagné à travers les Alpes jusqu’à fin 2030.[^18-2]
 
-<sup>2</sup> Elle peut participer jusqu’à fin 2027 aux commandes cantonales de transport de marchandises sur les réseaux à voie étroite et normale.[^18-2]
+<sup>2</sup> Elle peut participer jusqu’à fin 2027 aux commandes cantonales de transport de marchandises sur les réseaux à voie étroite et normale.[^18-3]
 
 <sup>3</sup> Elle peut encourager de nouvelles offres de transport ferroviaire de marchandises jusqu’à fin 2027 au plus tard.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
-[^18-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
 
 ## Section 4 Contributions d’investissement pour des innovations techniques en matière de transport ferroviaire de marchandises
 
@@ -401,9 +409,10 @@ Elle doit contenir les documents suivants:
 
 <sup>1</sup> Lorsque la Confédération verse des contributions d’investissement ou d’exploitation pour encourager le transport de véhicules routiers accompagnés (chargement des automobiles), les contributions d’investissement sont allouées en tant que prêt sans intérêt remboursable, ou à fonds perdus.
 
-<sup>2</sup> La procédure de commande et de demande de contribution d’exploitation est régie par les art. 16 à 23 OITRV[^24-1].
+<sup>2</sup> La procédure de commande et de demande de contribution d’exploitation est régie par les art. 30 à 32 et 36 à 41 OITRV[^24-1].[^24-2]
 
 [^24-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^24-2]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 6 Octroi du raccordement, planification et construction de voies de raccordement
 

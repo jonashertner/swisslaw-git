@@ -4,11 +4,11 @@ title: "Ordinanza del 25 maggio 2016 concernente il trasporto di merci da parte 
 short: OTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2016-329-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-329-20250101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/it"
 
 (Ordinanza sul trasporto di merci, OTM)
 
-del 25 maggio 2016 (Stato 1° luglio 2024)
+del 25 maggio 2016 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 2 capoverso 3, 5 capoverso 1, 6 capoverso 2, 14 capoverso 3, 18 capoverso 4, 19 capoverso 4, 20 capoverso 3, 21 capoverso 4, 22 capoverso 1 e 25 della legge del 25 settembre 2015[^ingress-1] sul trasporto di merci (LTM); visto l’articolo 38 della legge federale del 22 marzo 1985[^ingress-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e della tassa per l’utilizzazione delle strade nazionali (LUMin); visto l’articolo 9 della legge del 19 dicembre 2008[^ingress-3] sul trasferimento del traffico merci,
+visti gli articoli 2 capoverso 3, 5 capoverso 1, 6 capoverso 2, 14 capoverso 3, 18 capoverso 4, 19 capoverso 4, 20 capoverso 3, 21 capoverso 4, 22 capoverso 1 e 25 della legge del 25 settembre 2015[^ingress-1] sul trasporto di merci (LTM); visto l’articolo 38 della legge federale del 22 marzo 1985[^ingress-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo (LUMin); visti gli articoli 8 capoverso 1 e 9 della legge del 19 dicembre 2008[^ingress-3] sul trasferimento del traffico merci (LTrasf),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 [^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -266,9 +267,11 @@ I contributi d’investimento sono esigibili sei mesi dopo la presentazione del 
 
 **Traffico combinato transalpino**
 
-<sup>1</sup> Nel traffico combinato transalpino, la Confederazione indennizza alle imprese di trasporto ferroviario e a terzi i costi non coperti delle offerte di trasporto da essa ordinate ed effettivamente fornite.
+<sup>1</sup> Nel traffico combinato transalpino non accompagnato, su distanze superiori a 600 chilometri, e nel traffico combinato transalpino accompagnato, la Confederazione indennizza alle imprese di trasporto ferroviario e a terzi i costi non coperti delle offerte di trasporto da essa ordinate ed effettivamente fornite.[^15-1]
 
 <sup>2</sup> L’UFT determina le scadenze delle singole fasi della procedura di ordinazione e le aliquote massime dei contributi.
+
+<sup>2bis</sup> Nel traffico combinato transalpino non accompagnato, su distanze inferiori a 600 chilometri, la Confederazione può versare un'indennità forfettaria per spedizione. Tale indennità è superiore a quella versata per spedizione su distanze superiori a 600 chilometri. L'UFT stabilisce l'importo dell'indennità per spedizione.[^15-2]
 
 <sup>3</sup> Le imprese di trasporto ferroviario e i terzi che rivendicano il diritto ai contributi d’esercizio presentano ogni anno un’offerta all’UFT.
 
@@ -285,6 +288,9 @@ L’offerta deve contenere in particolare le seguenti indicazioni:
 
 <sup>6</sup> Se accetta un’offerta, l’UFT conclude una convenzione con il fornitore di prestazioni. La convenzione stabilisce in particolare l’offerta di trasporto ordinata e l’importo dei contributi d’esercizio nonché le modalità di comunicazione dei dati da parte del fornitore di prestazioni e di versamento dei contributi d’esercizio.
 
+[^15-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^15-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+
 #### Art. 16
 
 **Partecipazione della Confederazione alle ordinazioni dei Cantoni**
@@ -297,11 +303,12 @@ Se un Cantone ordina un’offerta del trasporto di merci per ferrovia e presenta
 - b. la presentazione di una strategia del traffico merci a livello cantonale o di un programma del traffico merci;
 - c. l’importo del contributo richiesto alla Confederazione per il relativo periodo.
 
-<sup>2</sup> Se un Cantone ordina un’offerta di trasporto sulla rete ferroviaria a scartamento ridotto, i contributi d’esercizio della Confederazione possono essere aumentati fino a concorrenza della quota percentuale della partecipazione federale secondo l’allegato 2 dell’ordinanza dell’11 novembre 2009[^16-1] sulle indennità per il traffico regionale viaggiatori (OITRV).
+<sup>2</sup> Se un Cantone ordina un’offerta di trasporto sulla rete ferroviaria a scartamento ridotto, i contributi d’esercizio della Confederazione possono essere aumentati fino a concorrenza della quota percentuale della partecipazione federale secondo l’allegato 3 dell’ordinanza del 16 ott. 2024[^16-1] sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori (OITRV).[^16-2]
 
 <sup>3</sup> L’UFT conclude insieme al Cantone una convenzione con il fornitore delle prestazioni.
 
 [^16-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^16-2]: Nuovo testo giusta dall’all. 4 n. II 3 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 17
 
@@ -319,16 +326,17 @@ Se un Cantone ordina un’offerta del trasporto di merci per ferrovia e presenta
 
 #### Art. 18
 
-**Limite di validità dei contributi d’esercizio**
+**Limite di validità dei contributi d’esercizio e indennità[^18-1]**
 
-<sup>1</sup> I contributi d’esercizio della Confederazione per le prestazioni nel traffico combinato transalpino sono limitati sino alla fine del 2026.[^18-1]
+<sup>1</sup> I contributi d’esercizio e le indennità della Confederazione per le prestazioni nel traffico combinato transalpino non accompagnato sono limitati sino alla fine del 2030.[^18-2]
 
-<sup>2</sup> La Confederazione può partecipare alle ordinazioni dei Cantoni nel traffico merci sulle reti a scartamento ridotto e normale sino alla fine del 2027.[^18-2]
+<sup>2</sup> La Confederazione può partecipare alle ordinazioni dei Cantoni nel traffico merci sulle reti a scartamento ridotto e normale sino alla fine del 2027.[^18-3]
 
 <sup>3</sup> Può promuovere nuove offerte del trasporto di merci per ferrovia al più tardi sino alla fine del 2027.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° feb. 2020 ([RU 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° feb. 2020 ([RU 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° feb. 2020 ([RU 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
 
 ## Sezione 4: Contributi d’investimento per innovazioni tecniche nel settore del trasporto di merci per ferrovia
 
@@ -401,9 +409,10 @@ La domanda deve essere corredata delle seguenti informazioni:
 
 <sup>1</sup> Se la Confederazione versa contributi d’investimento e d’esercizio per il promovimento del trasporto di veicoli stradali accompagnati (carico autoveicoli), i contributi d’investimento sono accordati sotto forma di mutui rimborsabili o di contributi a fondo perso.
 
-<sup>2</sup> La procedura di ordinazione e di sovvenzionamento per l’erogazione dei contributi d’esercizio è retta dagli articoli 16–23 OITRV[^24-1].
+<sup>2</sup> La procedura di ordinazione e di determinazione dei contributi d’esercizio è retta dagli articoli 30–32 e 36–41 OITRV[^24-1].[^24-2]
 
 [^24-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^24-2]: Nuovo testo giusta dall’all. 4 n. II 3 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 6: Concessione del raccordo, pianificazione e costruzione di binari di raccordo
 
