@@ -3,11 +3,11 @@ sr: "910.18"
 title: "Ordinanza del 22 settembre 1997 sull'agricoltura biologica e la designazione dei prodotti e delle derrate alimentari ottenuti biologicamente (Ordinanza sull'agricoltura biologica)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/it"
 
 (Ordinanza sull’agricoltura biologica)[^t-1]
 
-del 22 settembre 1997 (Stato 1° settembre 2023)
+del 22 settembre 1997 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
 Il Consiglio federale svizzero,
 
@@ -26,10 +26,10 @@ visti gli articoli 14 capoverso 1 lettera a, 15 e 177 della legge del 29 aprile 
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -43,16 +43,20 @@ La presente ordinanza è applicabile alla designazione dei prodotti seguenti com
 
 - a. prodotti agricoli vegetali e animali non trasformati, nonché animali da reddito;
 - b. prodotti agricoli vegetali e animali trasformati, destinati all’alimentazione umana, composti essenzialmente di ingredienti di origine vegetale e/o animale;
-- c.[^1-2] materie prime degli alimenti per animali, alimenti composti per animali e alimenti per animali non compresi nella lettera a e utilizzati per l’alimentazione di animali da reddito e da compagnia.
+- c.[^1-2] materie prime degli alimenti per animali, alimenti composti per animali e alimenti per animali non compresi nella lettera a e utilizzati per l’alimentazione di animali da compagnia e da reddito in virtù dell’articolo 3 capoverso 4 lettere a e b dell’ordinanza del 26 ottobre 2011[^1-3] sugli alimenti per animali.
 
-<sup>2</sup> Essa si applica anche agli oli essenziali e ai lieviti utilizzati come derrate alimentari o come alimenti per animali.[^1-3]
+<sup>2</sup> Essa si applica anche agli oli essenziali e ai lieviti utilizzati come derrate alimentari o come alimenti per animali.[^1-4]
 
-<sup>3</sup> Essa non si applica agli insetti giusta la legislazione sulle derrate alimentari né ai prodotti della caccia, della pesca e dell’acquacoltura.[^1-4]
+<sup>2bis</sup> Essa si applica anche ai prodotti dell’acquacoltura, non trasformati e trasformati, utilizzati come derrate alimentari o come alimenti per animali.[^1-5]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^1-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^1-4]: Introdotto dal n. I dell’O del 18 nov. 2009 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+<sup>3</sup> Essa non si applica agli insetti giusta la legislazione sulle derrate alimentari né ai prodotti della pesca e della caccia.[^1-6]
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^1-3]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^1-5]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^1-6]: Introdotto dalla cifra I dell’O del 18 nov. 2009 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 2
 
@@ -89,15 +93,15 @@ Non sottostanno all’obbligo di certificazione:
 
 <sup>6</sup> I marchi con le designazioni secondo i capoversi 2 e 4 possono essere utilizzati soltanto se il prodotto è stato ottenuto secondo le disposizioni della presente ordinanza.[^2-10]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
 [^2-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-4]: Nuovo testo giusta il n. I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
-[^2-5]: Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
-[^2-6]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
-[^2-7]: Introdotta dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
-[^2-8]: Introdotta dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
-[^2-9]: Introdotto dal n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
+[^2-6]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^2-7]: Introdotta dalla cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^2-8]: Introdotta dalla cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^2-9]: Introdotto dalla cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
 [^2-10]: Vedi tuttavia anche l’art. 39*g* qui appresso.
 
 #### Art. 3
@@ -121,16 +125,16 @@ La produzione, la preparazione e la commercializzazione di prodotti biologici so
 - f.[^3-5] gli animali da reddito sono tenuti in aziende biologiche durante la loro intera vita, conformemente alle esigenze fissate nella presente ordinanza e nutriti con alimenti per animali ottenuti secondo la presente ordinanza;
 - g.[^3-6] sono rispettate le disposizioni determinanti per la produzione agricola previste nella legge del 9 marzo 1978[^3-7] sulla protezione degli animali, nella legge del 24 gennaio 1991[^3-8] sulla protezione delle acque, nella legge del 7 ottobre 1983[^3-9] sulla protezione dell’ambiente nonché nella legge del 1° luglio 1966[^3-10] sulla protezione della natura e del paesaggio.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 [^3-3]: Nuovo testo giusta l’all. n. 1 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^3-4]: Introdotta dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^3-5]: Introdotta dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^3-6]: Introdotta dal n. I dell’O dell’8 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4831](https://fedlex.data.admin.ch/eli/oc/2006/746)).
-[^3-7]: [[RU 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562), [1064](https://fedlex.data.admin.ch/eli/oc/1981/1064_1064_1064); [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 n. 1; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 45. [RU 2008 2965](https://fedlex.data.admin.ch/eli/oc/2008/414)art. 43]. Vedi ora la LF del 16 dic. 2005 ([RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
-[^3-8]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^3-9]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^3-10]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^3-4]: Introdotta dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^3-5]: Introdotta dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^3-6]: Introdotta dalla cifra I dell’O dell’8 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4831](https://fedlex.data.admin.ch/eli/oc/2006/746)).
+[^3-7]: [[RU 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562), [1064](https://fedlex.data.admin.ch/eli/oc/1981/1064_1064_1064); [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 n. 1; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 45. [RU 2008 2965](https://fedlex.data.admin.ch/eli/oc/2008/414)art. 43]. Vedi ora la LF del 16 dic. 2005 ([RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)).
+[^3-8]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^3-9]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^3-10]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 4
 
@@ -138,17 +142,21 @@ La produzione, la preparazione e la commercializzazione di prodotti biologici so
 
 Secondo la presente ordinanza si intende per:
 
-- a.[^4-1] prodotti; i prodotti agricoli vegetali e animali e le derrate alimentari che contengono essenzialmente siffatti prodotti;
+- a.[^4-1] prodotti: i prodotti agricoli vegetali e animali e i prodotti dell’acquacoltura nonché le derrate alimentari che contengono essenzialmente siffatti prodotti;
 - b. produzione biologica: la produzione secondo le prescrizioni dell’articolo 3 e del capitolo 2;
 - c.[^4-2] preparazione: le operazioni di conservazione e/o di trasformazione di prodotti agricoli comprese la macellazione, il trinciamento dei prodotti animali, nonché l’imballaggio e/o la modifica dell’etichettatura concernente il riferimento all’agricoltura biologica dei prodotti freschi, conservati e/o trasformati;
 - d. commercializzazione: la detenzione in vista della vendita, la vendita o un altro modo di immissione in commercio e la fornitura di un prodotto;
 - e.[^4-3] prodotti derivati da organismi geneticamente modificati: i prodotti derivati da organismi geneticamente modificati o ottenuti mediante siffatti organismi, ma che tuttavia non ne contengono;
-- f.[^4-4] fascicolo di controllo: l’insieme delle informazioni e dei documenti pertinenti per il controllo e la certificazione di un’impresa.
+- f.[^4-4] fascicolo di controllo: l’insieme delle informazioni e dei documenti pertinenti per il controllo e la certificazione di un’impresa;
+- g.[^4-5] acquacoltura: la produzione di organismi acquatici a ogni stadio del loro ciclo vitale in impianti adeguati;
+- h.[^4-6] integrità di un prodotto biologico: stato di un prodotto biologico in cui le sue caratteristiche non sono compromesse da infrazioni alle disposizioni della presente ordinanza in nessuna fase, dalla produzione fino alla commercializzazione, e neppure sono accertate altre irregolarità intenzionali o ripetitive.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^4-3]: Introdotta dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^4-4]: Introdotta dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^4-3]: Introdotta dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^4-4]: Introdotta dalla cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^4-5]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^4-6]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 5
 
@@ -162,10 +170,11 @@ Ai fini della presente ordinanza per aziende biologiche si intendono:
 - b. le aziende d’estivazione secondo l’articolo 9 OTerm, nelle quali la produzione risponde alle esigenze della presente ordinanza.
 - c. imprese, che non sono aziende ai sensi dell’articolo 6 OTerm, che fabbricano in modo vincolato al suolo prodotti derivanti dalla coltivazione di vegetali o dalla detenzione di animali da reddito e nelle quali la produzione risponde alle esigenze della presente ordinanza.
 
-<sup>2</sup> Sono equiparate alle aziende biologiche le imprese che non sono aziende ai sensi dell’articolo 6 OTerm, che fabbricano prodotti in modo indipendente dal suolo e nelle quali la produzione risponde alle esigenze della presente ordinanza.
+<sup>2</sup> Sono equiparate alle aziende biologiche le imprese che non sono aziende ai sensi dell’articolo 6 OTerm e che fabbricano prodotti in modo indipendente dal suolo o gestiscono impianti di acquacoltura, a condizione che la produzione in queste imprese risponda alle esigenze della presente ordinanza.[^5-3]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^5-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^5-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 ## Capitolo 2: Esigenze in materia di produzione biologica
 
@@ -206,15 +215,15 @@ L’ente di certificazione può, su richiesta, riconoscere un’unità di produz
 
 <sup>8</sup> Il DEFR può autorizzare singole aziende a derogare al principio della globalità aziendale a scopo di ricerca.[^7-9]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
-[^7-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^7-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^7-3]: Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^7-4]: Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^7-5]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^7-6]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^7-7]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^7-8]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^7-9]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^7-5]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^7-6]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^7-7]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^7-8]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^7-9]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 ### Sezione 2: Conversione
 
@@ -226,12 +235,22 @@ L’ente di certificazione può, su richiesta, riconoscere un’unità di produz
 
 <sup>1bis</sup> L’ente di certificazione può autorizzare una durata di conversione abbreviata per la coltivazione di funghi, la produzione di cicoria belga e la produzione di germogli.[^8-2]
 
+<sup>1ter</sup> Il DEFR può emanare disposizioni sulle esigenze in materia di conversione di coltivazioni di alghe e di impianti di acquacoltura.[^8-3]
+
 <sup>2</sup> Durante la conversione devono essere rispettate le disposizioni della presente ordinanza.
 
 <sup>3</sup> All’inizio della conversione, il produttore e l’ente di certificazione stabiliscono di comune intesa tutti i provvedimenti atti a garantire durevolmente il rispetto e il controllo delle disposizioni della presente ordinanza.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
-[^8-2]: Introdotto dal n. I dell’O del 7 dic. 1998 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)). Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+<sup>4</sup> Non è necessaria una nuova conversione ai sensi del capoverso 1 se, a causa di misure ordinate dalle autorità, su superfici già gestite in modo biologico è temporaneamente impossibile adempiere le esigenze della presente ordinanza e se il Cantone rinuncia alla riduzione o al diniego di pagamenti diretti per cause di forza maggiore in virtù dell’articolo 106 capoversi 1 e 2 lettera f OPD[^8-4].[^8-5]
+
+<sup>5</sup> Se l’integrità dei prodotti biologici è compromessa da misure ordinate dalle autorità conformemente al capoverso 4, alla superficie interessata dall’ordine si applica una nuova durata di conversione di due anni.[^8-6]
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^8-2]: Introdotto dalla cifra I dell’O del 7 dic. 1998 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)). Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^8-3]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^8-4]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^8-5]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^8-6]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 9
 
@@ -262,11 +281,11 @@ La produzione parallela è vietata nei casi seguenti:
 - a. varietà non chiaramente distinguibili;
 - b. animali appartenenti alla stessa categoria di animali da reddito.[^9-5]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^9-2]: Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^9-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^9-4]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^9-5]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^9-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^9-4]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^9-5]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
 ### Sezione 3: Produzione vegetale
 
@@ -298,9 +317,9 @@ In deroga al capoverso 2 è ammessa:
 - d. la produzione di cicoria belga inclusa l’immersione in acqua tal quale, a condizione che il materiale vegetale di moltiplicazione e il substrato soddisfino le disposizioni della presente ordinanza.[^10-4]
 
 [^10-1]: Nuova espr. giusta l’all. 2 n. 6 dell’O del 23 giu. 1999, in vigore dal 1° ago. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)). Di detta mod. è stato tenuto conto in tutto il presente testo.
-[^10-2]: Introdotto dal n. I dell’O del 18 nov. 2009 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^10-3]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^10-4]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^10-2]: Introdotto dalla cifra I dell’O del 18 nov. 2009 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^10-3]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^10-4]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 11
 
@@ -322,9 +341,9 @@ Onde regolare i parassiti, le malattie e le malerbe occorre prendere, in modo gl
 
 <sup>4</sup> L’impiego di regolatori della crescita, di prodotti per il disseccamento e di erbicidi non è permesso.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^11-2]: [[RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 4; [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 6, [5421](https://fedlex.data.admin.ch/eli/oc/2003/788); [2004 627](https://fedlex.data.admin.ch/eli/oc/2004/50), [4089](https://fedlex.data.admin.ch/eli/oc/2004/594); [2005 81](https://fedlex.data.admin.ch/eli/oc/2005/16). [RU 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)art. 68]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^11-2]: [[RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 4; [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)cifra I n. 6, [5421](https://fedlex.data.admin.ch/eli/oc/2003/788); [2004 627](https://fedlex.data.admin.ch/eli/oc/2004/50), [4089](https://fedlex.data.admin.ch/eli/oc/2004/594); [2005 81](https://fedlex.data.admin.ch/eli/oc/2005/16). [RU 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)art. 68]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 11a
 
@@ -332,8 +351,8 @@ Onde regolare i parassiti, le malattie e le malerbe occorre prendere, in modo gl
 
 Devono essere rispettate le esigenze per i test delle irroratrici e serbatoio d’acqua per le irroratrici a presa di forza o semoventi utilizzate per la protezione dei vegetali secondo l’allegato 1 numero 6.1 OPD[^11a-2]. Sono fatte salve le aziende Demeter che impiegano i loro apparecchi unicamente per spargere preparati biodinamici.
 
-[^11a-1]: Introdotto dal n. I dell’O del 26 nov. 2003 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^11a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^11a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2003 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^11a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 12
 
@@ -351,10 +370,10 @@ Devono essere rispettate le esigenze per i test delle irroratrici e serbatoio d�
 
 <sup>6</sup> Si possono effettuare soltanto forniture di concimi aziendali da e per le aziende che adempiono la prova che le esigenze ecologiche sono rispettate secondo l’OPD.[^12-4]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^12-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^12-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^12-3]: Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^12-4]: Introdotto dal n. I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^12-4]: Introdotto dalla cifra I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 13
 
@@ -366,42 +385,45 @@ Devono essere rispettate le esigenze per i test delle irroratrici e serbatoio d�
 
 <sup>3</sup> In deroga al capoverso 1, può essere utilizzato materiale vegetativo moltiplicato *in* *vitro* e certificato secondo l’ordinanza del 7 dicembre 1998[^13-1] sulle sementi.[^13-2]
 
-<sup>3bis</sup> Il DEFR stabilisce una lista di specie o di sottogruppi di specie di cui esiste in Svizzera una quantità sufficiente di sementi e di materiale vegetativo di moltiplicazione di produzione biologica e un numero sufficiente di varietà di produzione biologica.[^13-3]
+<sup>3bis</sup> …[^13-3]
 
 <sup>4</sup> Sono fatte salve le esigenze stabilite nell’ordinanza sulle sementi.
 
-[^13-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^13-2]: Nuovo testo giusta il n. I dell’O del 7 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
-[^13-3]: Introdotto dal n. I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^13-1]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 7 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+[^13-3]: Introdotto dalla cifra I dell’O del 26 nov. 2003 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Abrogato dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 13a
 
-**Impiego di sementi e di materiale vegetativo di moltiplicazione non biologici**[^13a-1]
+**Impiego di sementi non biologiche e di materiale vegetativo di moltiplicazione non biologico**[^13a-1]
 
 <sup>1</sup>
 
-Chi intende impiegare sementi o materiale vegetativo di moltiplicazione non biologici deve provare:
+Chi intende impiegare sementi non biologiche o materiale vegetativo di moltiplicazione non biologico deve provare che:
 
-- a. che non sono disponibili sementi o materiale vegetativo di moltiplicazione di produzione biologica adeguati; o
-- b. che nessun offerente è in grado di fornire sementi o materiale vegetativo di moltiplicazione prima della semina o della piantagione, nonostante la loro ’ordinazione sia stata fatta a tempo debito.
+- a. non sono disponibili sementi biologiche adeguate o materiale vegetativo di moltiplicazione biologico adeguato; o
+- b. nessuno è in grado di fornire le sementi o il materiale vegetativo di moltiplicazione prima della semina o della piantagione, nonostante l’ordine sia stato effettuato per tempo.
 
-<sup>2</sup> L’estratto dell’offerta disponibile registrata nel sistema d’informazione di cui all’articolo 33*a* è considerato alla stregua di una prova ai sensi del capoverso 1.
+<sup>2</sup> La prova di cui al capoverso 1 deve essere fornita sulla base dei dati sulla disponibilità presenti nel sistema d’informazione di cui all’articolo 33*a.*
 
-<sup>3</sup> Chi impiega sementi o materiale vegetativo di moltiplicazione non biologici deve notificare la quantità e le varietà utilizzate al gestore del sistema d’informazione di cui all’articolo 33*a*.
+<sup>3</sup> Se, secondo i dati presenti nel sistema d’informazione di cui all’articolo 33*a*, la varietà che l’utilizzatore vorrebbe acquistare non è disponibile sotto forma di sementi biologiche o di materiale vegetativo di moltiplicazione biologico, ma sono disponibili altre varietà della stessa specie, l’utilizzatore può impiegare sementi non biologiche e materiale vegetativo di moltiplicazione non biologico soltanto se è in grado di motivare perché nessuna delle varietà biologiche della stessa specie è adatta in particolare alle rispettive condizioni agronomiche e pedoclimatiche e perché nessuna delle varietà presenta le proprietà tecnologiche necessarie per la produzione pianificata.
 
-<sup>4</sup> Nel caso di specie o sottogruppi di specie per i quali non esistono o esistono soltanto in quantità molto esigua sementi e materiale vegetativo di moltiplicazione di produzione biologica è possibile impiegare sementi e materiale vegetativo di moltiplicazione non biologici senza dover fornire la prova di cui al capoverso 2 e senza procedere alla notificazione ai sensi del capoverso 3. Conformemente alle istruzioni dell’Ufficio federale dell’agricoltura (UFAG), il gestore del sistema d’informazione designa in quest’ultimo tali varietà o specie.[^13a-2]
+<sup>4</sup> Chi impiega sementi non biologiche o materiale vegetativo di moltiplicazione non biologico deve notificare al gestore del sistema d’informazione di cui all’articolo 33*a* la quantità di sementi o di materiale vegetativo di moltiplicazione utilizzata e la varietà impiegata.
 
-<sup>5</sup> Nel caso di specie o sottogruppi di specie di cui all’articolo 13 capoverso 3<sup>bis</sup> possono essere impiegati sementi e materiale vegetativo di moltiplicazione non biologici unicamente con l’autorizzazione dell’UFAG. L’autorizzazione è concessa soltanto se tali sementi e tale materiale servono a scopo di ricerca, a prove sul campo su piccole superfici o alla preservazione di una varietà.
+<sup>5</sup> Su domanda, l’Istituto di ricerca dell’agricoltura biologica (FiBL) può autorizzare l’impiego di sementi non biologiche o di materiale vegetativo di moltiplicazione non biologico, a condizione che nel quadro di prove sul campo su piccole superfici ciò consenta di svolgere ricerca in vista della preservazione di una varietà o dell’innovazione di un prodotto.
 
-<sup>6</sup> Sementi e patate da semina non biologiche possono essere utilizzate soltanto se non sono state trattate con prodotti fitosanitari; sono fatti salvi i trattamenti con prodotti fitosanitari omologati per la coltura biologica e i trattamenti chimici che, per ragioni di ordine fitosanitario, sono stati prescritti per tutte le varietà di una specie determinata nella regione di coltivazione.[^13a-3]
+<sup>6</sup>
 
-[^13a-1]: Introdotto dal n. I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
-[^13a-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^13a-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+Può essere utilizzato materiale vegetativo di moltiplicazione non biologico soltanto se non è stato trattato con prodotti fitosanitari; sono fatti salvi:
+
+- a. i trattamenti autorizzati per la produzione biologica;
+- b. i trattamenti che, per ragioni di ordine fitosanitario, sono prescritti per tutte le varietà di una determinata specie nella regione di coltivazione.
+
+[^13a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2003 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 14
 
-**Raccolta di piante selvatiche**
+**Raccolta di piante e alghe selvatiche[^14-1]**
 
 <sup>1</sup>
 
@@ -415,6 +437,11 @@ La raccolta di piante e di parti di piante selvatiche commestibili che crescono 
 <sup>3</sup> La raccolta deve essere accuratamente documentata.
 
 <sup>4</sup> La procedura di controllo prevista per le aziende biologiche è applicabile per analogia.
+
+<sup>5</sup> Il DEFR può emanare ulteriori disposizioni sulle esigenze in materia di raccolta di alghe selvatiche nonché sulla procedura di controllo applicabile.[^14-2]
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^14-2]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 ### Sezione 4: Tenuta di animali da reddito
 
@@ -434,10 +461,10 @@ Il DEFR può emanare prescrizioni supplementari per quanto concerne:
 
 <sup>3</sup> Può emanare prescrizioni relative alla detenzione di animali anche per le altre categorie di animali da reddito.[^15-4]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^15-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^15-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^15-3]: Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^15-4]: Nuovo testo giusta il n. I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+[^15-4]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
 
 #### Art. 15a
 
@@ -452,21 +479,23 @@ D’intesa con l’ente di certificazione, essa è tuttavia permessa per:
 - a. determinati animali, durante un periodo limitato, per motivi di sicurezza o di protezione degli animali;
 - b.[^15a-2] i bovini, purché siano rispettate le disposizioni dell’articolo 72 OPD[^15a-3] sull’uscita regolare all’aperto.
 
-<sup>3</sup> ...[^15a-4]
+<sup>3</sup> …[^15a-4]
 
-[^15a-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^15a-2]: Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^15a-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^15a-4]: Abrogato dal n. I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^15a-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^15a-4]: Abrogato dalla cifra I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 15b
 
 **Estivazione**[^15b-1]
 
-Se gli animali sono estivati, l’estivazione deve avvenire in aziende biologiche. In casi particolari l’estivazione può avvenire in aziende che rispettano i requisiti di cui agli articoli 26–34 OPD[^15b-2].
+<sup>1</sup> Se gli animali vengono estivati, devono essere adempiute le esigenze di cui agli articoli 26–33 OPD[^15b-2]. Se possibile, l’estivazione deve avvenire in aziende biologiche.
 
-[^15b-1]: Introdotto dal n. I dell’O del 7 nov. 2001 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^15b-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+<sup>2</sup> Se gli animali non vengono estivati in aziende biologiche, occorre garantire che i prodotti ottenuti conformemente alla presente ordinanza siano designati come prodotti biologici soltanto se viene dimostrato che è garantito un flusso delle merci separato
+
+[^15b-1]: Introdotto dalla cifra I dell’O del 7 nov. 2001 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^15b-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 16
 
@@ -476,7 +505,7 @@ Se gli animali sono estivati, l’estivazione deve avvenire in aziende biologich
 
 <sup>2</sup> I metodi di ingrasso che implicano l’alimentazione forzata nonché la detenzione di animali in condizioni che possono comportare un’anemia sono vietati.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
 #### Art. 16a
 
@@ -497,22 +526,22 @@ In deroga al principio di cui all’articolo 3 lettera c, esso può autorizzare 
 
 <sup>5</sup> L’incorporamento di alimenti provenienti da aziende in conversione è autorizzato in media a concorrenza del 30 per cento della materia secca della razione alimentare di ogni categoria di animali. Quando questi alimenti provengono dall’azienda, questa cifra può essere portata al 60 per cento e quando si tratta di un’azienda in conversione al 100 per cento.[^16a-5]
 
-<sup>6</sup> In caso di perdita comprovata di alimenti per animali a causa segnatamente di condizioni atmosferiche eccezionali, il detentore di animali interessato può, previo consenso scritto da parte dell’ente di certificazione, utilizzare per una durata limitata alimenti non biologici, se dimostra in modo credibile all’ente di certificazione che gli alimenti biologici non sono disponibili in quantità sufficienti. Se regioni intere sono interessate da perdite comprovate di alimenti per animali, l’UFAG può accordare il suo consenso anche per regione.[^16a-6]
+<sup>6</sup> In caso di perdita comprovata nel raccolto di alimenti per animali a causa segnatamente di condizioni atmosferiche eccezionali, il detentore di animali interessato può, previo consenso scritto da parte dell’ente di certificazione, utilizzare per una durata limitata alimenti non biologici, se dimostra in modo credibile all’ente di certificazione che gli alimenti biologici non sono disponibili in quantità sufficienti. Se regioni intere sono interessate da perdite comprovate nel raccolto di alimenti per animali, l’Ufficio federale dell’agricoltura (UFAG) può accordare il suo consenso anche per regione.[^16a-6]
 
 <sup>7</sup> Le componenti degli alimenti per animali devono essere lasciate allo stato naturale e le tecniche utilizzate nella preparazione degli alimenti essere per quanto possibile in accordo con la natura e consumare poca energia. Gli alimenti per animali non devono contenere tracce di organismi geneticamente modificati o dei loro prodotti derivati, in un tenore maggiore ai limiti superiori fissati per le impurità inevitabili nella legislazione relativa agli alimenti per animali.
 
-<sup>8</sup> Gli animali in mandrie transumanti e gli animali estivati possono temporaneamente pascolare su superfici coltivate in modo non biologico. La quantità di foraggio assunta in tale occasione non deve superare il 10 per cento della razione annua complessiva, calcolata sulla sostanza secca.[^16a-7]
+<sup>8</sup> Gli animali della specie ovina in greggi transumanti possono temporaneamente pascolare su superfici gestite in modo non biologico. La quantità di foraggio assunta in tale occasione non deve superare il 10 per cento della razione annua complessiva, calcolata sulla sostanza secca.[^16a-7]
 
 <sup>9</sup> La quota degli alimenti per animali non provenienti dalla coltura biologica può raggiungere per i cavalli in pensione il 10 per cento del consumo totale.[^16a-8]
 
-[^16a-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^16a-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16a-3]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16a-4]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16a-5]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16a-6]: Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)).
-[^16a-7]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
-[^16a-8]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^16a-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16a-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16a-3]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16a-4]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16a-5]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16a-6]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^16a-7]: Introdotto dalla cifra I dell’O del 14 nov. 2007 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^16a-8]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 16b
 
@@ -524,7 +553,7 @@ In deroga al principio di cui all’articolo 3 lettera c, esso può autorizzare 
 
 <sup>3</sup> Nel caso del pollame in fase di ingrasso, il 65 per cento almeno degli alimenti deve essere di grani di cereali e di leguminose a granelli (i loro prodotti e sottoprodotti), nonché di semi oleosi ( i loro prodotti e sottoprodotti).
 
-[^16b-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16b-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
 #### Art. 16c
 
@@ -538,9 +567,9 @@ In deroga al principio di cui all’articolo 3 lettera c, esso può autorizzare 
 
 <sup>4</sup> È vietato stabulare animali provenienti da un trasferimento di embrioni. Fanno eccezione i bovini oggetto di un contratto di allevamento con un’azienda gestita in modo non biologico. In questo caso gli animali devono ritornare nuovamente nell’azienda di provenienza dopo un periodo stabilito contrattualmente. Animali provenienti da un trasferimento di embrioni che erano già detenuti nell’azienda prima della sua conversione possono essere detenuti fino alla loro partenza conformemente alle disposizioni della presente ordinanza.[^16c-3]
 
-[^16c-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^16c-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
-[^16c-3]: Nuovo testo giusta il n. I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+[^16c-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16c-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^16c-3]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
 
 #### Art. 16d
 
@@ -572,16 +601,16 @@ L’utilizzazione di medicamenti veterinari nella detenzione biologica di animal
 
 <sup>6</sup> Se la salute degli animali è in pericolo, sono autorizzati la vaccinazione e i trattamenti vermifughi.
 
-<sup>7</sup> ...[^16d-3]
+<sup>7</sup> …[^16d-3]
 
 <sup>8</sup> Il termine d’attesa tra l’ultima somministrazione, nelle condizioni normali d’uso, di medicamenti allopatici veterinari ottenuti per sintesi chimica a un animale e la produzione di derrate alimentari provenienti da questo animale nell’agricoltura biologica è raddoppiato in rapporto al termine di attesa legale prescritto. Fanno eccezione i prodotti destinati alla messa in asciutta delle vacche che soffrono di un’affezione alla mammella.
 
 <sup>9</sup> Se un animale o un gruppo di animali riceve in un anno più di tre trattamenti a base di medicamenti veterinari allopatici ottenuti per sintesi chimica o di antibiotici (o più di un trattamento terapeutico se il loro ciclo di vita produttiva è inferiore a un anno), gli animali interessati o i prodotti da essi ottenuti non possono essere venduti come prodotti ottenuti conformemente alla presente ordinanza e gli animali devono essere sottoposti ai periodi di conversione definiti nell’articolo 16*f* capoverso 2; sono eccettuati le vaccinazioni, i trattamenti antiparassitari, i medicamenti anestetici e antidolorifici nonché i trattamenti nell’ambito di programmi statali contro le epizoozie.[^16d-4]
 
-[^16d-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^16d-2]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^16d-3]: Abrogato dal n. I dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)).
-[^16d-4]: Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
+[^16d-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16d-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^16d-3]: Abrogato dalla cifra I dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)).
+[^16d-4]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
 
 #### Art. 16e
 
@@ -601,11 +630,11 @@ Per determinati animali, sono autorizzati gli interventi seguenti:
 - b.[^16e-4] la decornazione sotto anestesia di giovani animali, ad eccezione degli yak, dei bufali e dei bisonti, se necessaria per ragioni di sicurezza;
 - c.[^16e-5] la castrazione per assicurare la qualità dei prodotti.
 
-[^16e-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^16e-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^16e-3]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^16e-4]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^16e-5]: Nuovo testo giusta il n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+[^16e-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16e-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^16e-3]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^16e-4]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^16e-5]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
 
 #### Art. 16e<sup>bis</sup>
 
@@ -619,7 +648,7 @@ Per determinati animali, sono autorizzati gli interventi seguenti:
 
 <sup>4</sup> Il Consiglio federale può stabilire altre condizioni e oneri per gli esperimenti pratici.
 
-[^16ebis-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^16ebis-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 16f
 
@@ -637,7 +666,7 @@ Gli animali da reddito non provenienti da aziende biologiche stabulati dopo l’
 - d. almeno 56 giorni se si tratta di pollame destinato alla produzione di carne, stabulato prima dell’età di tre giorni;
 - e. sei settimane almeno per il pollame destinato alla produzione d’uova.
 
-<sup>3</sup> ...[^16f-3]
+<sup>3</sup> …[^16f-3]
 
 <sup>4</sup> Onde completare l’accrescimento naturale e assicurare il rinnovo dell’effettivo, giovani animali femmine nullipari provenienti da allevamenti non biologici possono essere introdotti annualmente nell’azienda, d’intesa con l’ente di certificazione, a concorrenza di un massimo del 10 per cento dell’effettivo di equini o di bovini adulti (comprese le specie Bubalus e Bison) e del 20 per cento dell’effettivo di suini, ovini o caprini adulti, se gli animali provenienti da allevamenti biologici non sono disponibili in quantità sufficiente. Nelle aziende biologiche che detengono meno di dieci bovini o equini o meno di cinque suini, ovini o caprini il rinnovo è limitato a un animale all’anno.
 
@@ -657,12 +686,12 @@ Previo consenso scritto dell’ente di certificazione, un’azienda può stabula
 
 <sup>8</sup> Se gli animali provenienti da aziende biologiche non sono disponibili in numero sufficiente, è lecito acquistare pollame proveniente da aziende non biologiche per costituire un nuovo effettivo, se i pulcini sono stabulati al più tardi tre giorni dopo la nascita.[^16f-6]
 
-[^16f-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^16f-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
-[^16f-3]: Abrogato dal n. I dell’O del 10 nov. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
-[^16f-4]: Nuovo testo giusta il n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
-[^16f-5]: Nuovo testo giusta il n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
-[^16f-6]: Introdotto dal n. I dell’O del 23 nov. 2005 ([RU 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)). Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^16f-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16f-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+[^16f-3]: Abrogato dalla cifra I dell’O del 10 nov. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^16f-4]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^16f-5]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^16f-6]: Introdotto dalla cifra I dell’O del 23 nov. 2005 ([RU 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)). Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
 
 #### Art. 16g
 
@@ -682,7 +711,7 @@ Per il pollame, l’età minima di macellazione è di:
 
 <sup>2</sup> I produttori che non applicano siffatte norme relative all’età minima di macellazione devono utilizzare razze a crescita lenta.
 
-[^16g-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16g-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
 #### Art. 16h
 
@@ -694,13 +723,27 @@ Per il pollame, l’età minima di macellazione è di:
 
 <sup>3</sup> Può stabilire che per determinate zone o regioni i prodotti ivi ricavati non devono essere commercializzati sotto una designazione che si riferisca all’agricoltura biologica.
 
-[^16h-1]: Introdotto dal n. I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+[^16h-1]: Introdotto dalla cifra I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+
+### Sezione 5: Acquacoltura
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+
+#### Art. 16h<sup>bis</sup>
+
+Il DEFR può emanare disposizioni concernenti:
+
+- a. le esigenze in materia di produzione e coltivazione di alghe ottenute in acquacoltura;
+- b. le esigenze in materia di produzione, origine, alimentazione e salute degli animali d’acquacoltura nonché di pratiche zootecniche;
+- c. le procedure di controllo applicabili.
 
 ## Capitolo 2*a*: Esigenze in materia di trasformazione di derrate alimentari o alimenti per animali
 
 [^chap2a-1]
 
-[^chap2a-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^chap2a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 16i
 
@@ -714,7 +757,7 @@ Oltre che sui principi generali stabiliti nell’articolo 3, la produzione di de
 - d. le derrate alimentari devono essere trasformate in maniera accurata, preferibilmente avvalendosi di metodi biologici, meccanici e fisici;
 - e.[^16i-1] l’uso di ingredienti o sostanze che contengono nanomateriali ingegnerizzati o ne sono costituiti non è autorizzato.
 
-[^16i-1]: Introdotta dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16i-1]: Introdotta dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 16j
 
@@ -730,18 +773,18 @@ Le derrate alimentari biologiche trasformate devono soddisfare le esigenze segue
 - b.[^16j-2] nelle derrate alimentari possono essere utilizzati soltanto gli additivi, le sostanze ausiliarie, le sostanze aromatizzanti e le preparazioni aromatiche, l’acqua, il sale, le preparazioni a base di microrganismi ed enzimi, i minerali (oligoelementi incl.), le vitamine nonché gli amminoacidi e gli altri micronutrienti che sono stati autorizzati per l’uso nella produzione biologica conformemente all’articolo 16*k*;
 - c. gli ingredienti di origine agricola[^16j-3] non biologici possono essere utilizzati solo se sono stati autorizzati ai sensi dell’articolo 16*k*;
 - d. un ingrediente biologico non può essere utilizzato insieme allo stesso ingrediente non biologico o proveniente dalla conversione;
-- e.[^16j-4] ...
+- e.[^16j-4] …
 - f. il prodotto e i suoi ingredienti non devono essere stati sottoposti a radiazioni ionizzanti.
 
 <sup>3</sup> Non è consentita l’utilizzazione di sostanze né l’applicazione di procedure volte a restituire al prodotto caratteristiche perse in seguito alla trasformazione e alla conservazione di derrate alimentari biologiche o volte a correggere i risultati di una trasformazione negligente oppure che potrebbero indurre in errore quanto alle caratteristiche effettive del prodotto.
 
 <sup>4</sup> Il DEFR può limitare o vietare l’applicazione di determinati procedimenti e trattamenti.[^16j-5]
 
-[^16j-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^16j-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^16j-3]: Nuova espr. giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16j-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16j-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16j-3]: Nuova espr. giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 [^16j-4]: Abrogata dall’all. n. 1 dell’O del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^16j-5]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16j-5]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 16k
 
@@ -776,10 +819,10 @@ Finché il DEFR non si è pronunciato sull’autorizzazione di ingredienti di or
 
 <sup>5</sup> Il DEFR può definire altri criteri per l’autorizzazione o la revoca dell’autorizzazione di prodotti e sostanze di cui al capoverso 3.[^16k-4]
 
-[^16k-1]: Introdotto dal n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16k-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^16k-3]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^16k-4]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16k-1]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16k-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16k-3]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16k-4]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 16k<sup>bis</sup>
 
@@ -791,7 +834,7 @@ Oltre che sui principi generali stabiliti nell’articolo 3, la produzione di al
 - b. le sostanze e i metodi di trasformazione suscettibili di trarre in inganno circa la vera natura del prodotto non sono autorizzati;
 - c. gli alimenti per animali devono essere trasformati in maniera accurata, preferibilmente avvalendosi di metodi biologici, meccanici e fisici.
 
-[^16kbis-1]: Introdotto dal n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16kbis-1]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 
 #### Art. 16l
 
@@ -805,7 +848,7 @@ Oltre che sui principi generali stabiliti nell’articolo 3, la produzione di al
 
 <sup>3</sup> Non è consentita l’utilizzazione di sostanze né l’applicazione di procedure volte a restituire al prodotto caratteristiche perse in seguito alla trasformazione e alla conservazione di alimenti biologici per animali o volte a correggere i risultati di una trasformazione negligente oppure che potrebbero indurre in errore quanto alle caratteristiche effettive del prodotto.
 
-[^16l-1]: Introdotto dal n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16l-1]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 
 #### Art. 16m
 
@@ -821,14 +864,14 @@ Per la produzione di lievito biologico sono utilizzati solo substrati prodotti b
 
 <sup>2</sup> L’UFAG può decidere che in una specifica aera geografica l’utilizzazione del biossido di zolfo sia consentita fino al valore massimo fissato nella legislazione sulle derrate alimentari, se nel corso dell’anno di raccolta si verificano condizioni climatiche tali da compromettere, a seguito di gravi attacchi di batteri o di funghi, lo stato di salute dell’uva biologica in queste aree e se si ritiene indispensabile l’impiego di una quantità di biossido di zolfo maggiore rispetto agli anni precedenti per ottenere un prodotto finale comparabile.[^16n-2]
 
-[^16n-1]: Introdotto del n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16n-2]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^16n-1]: Introdotto della cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16n-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
 ## Capitolo 3: Designazione
 
 [^chap3-1]
 
-[^chap3-1]: Sezioni abrogate dal n. I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^chap3-1]: Sezioni abrogate dalla cifra I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 17
 
@@ -841,17 +884,17 @@ I prodotti non destinati all’alimentazione possono essere designati come prodo
 - a. la designazione verte chiaramente sulla produzione agricola;
 - b. i prodotti sono stati ottenuti o preparati biologicamente o sono stati importati secondo l’articolo 22;
 - c.[^17-2] i prodotti sono stati ottenuti, preparati, importati, immagazzinati o commercializzati da un’azienda sottoposta a un sistema di controllo previsto nel capitolo 5.
-- d.[^17-3] ...
+- d.[^17-3] …
 
 <sup>2</sup> Il DEFR può emanare prescrizioni supplementari relative agli alimenti per animali, al materiale vegetativo di moltiplicazione e alle sementi per la coltura.[^17-4]
 
-<sup>3</sup> ...[^17-5]
+<sup>3</sup> …[^17-5]
 
-[^17-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
-[^17-3]: Abrogata dal n. I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^17-4]: Introdotto dal n. I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
-[^17-5]: Introdotto dal n. I dell’O del 7 nov. 2001 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Abrogato dal n. I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^17-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^17-3]: Abrogata dalla cifra I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^17-4]: Introdotto dalla cifra I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Nuovo testo giusta la cifra I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
+[^17-5]: Introdotto dalla cifra I dell’O del 7 nov. 2001 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Abrogato dalla cifra I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
 
 #### Art. 18
 
@@ -880,7 +923,7 @@ Le designazioni secondo l’articolo 2 capoverso 2 possono essere utilizzate nel
 
 <sup>6</sup> Le designazioni e l’indicazione della percentuale di cui al capoverso 5 compaiono con lo stesso colore, la stessa grandezza e gli stessi caratteri impiegati per le altre indicazioni nell’elenco degli ingredienti.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 18a
 
@@ -888,13 +931,13 @@ Le designazioni secondo l’articolo 2 capoverso 2 possono essere utilizzate nel
 
 Per gli aromi possono essere utilizzate le designazioni secondo l’articolo 2 capoverso 2 soltanto se si tratta di preparazioni aromatiche o sostanze aromatizzanti naturali autorizzate conformemente all’articolo 16*k* per la trasformazione e se i loro componenti aromatizzanti e coadiuvanti per componenti aromatizzanti sono tutti di origine biologica.
 
-[^18a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^18a-1]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 19
 
 [^19-1]
 
-[^19-1]: Abrogato dal n. I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^19-1]: Abrogato dalla cifra I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 20
 
@@ -914,20 +957,20 @@ Per gli aromi possono essere utilizzate le designazioni secondo l’articolo 2 c
 
 <sup>7</sup> I prodotti provenienti dalle aziende che si convertono per tappe possono essere designati senza menzione di conversione se la particella di cui trattasi è in conversione da almeno due anni e tutte le branche dell’azienda sono in conversione.
 
-[^20-1]: Introdotta dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^20-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^20-4]: Nuovo testo giusta il n. I dell’O del 7 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+[^20-1]: Introdotta dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^20-4]: Nuovo testo giusta la cifra I dell’O del 7 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
 
 #### Art. 21
 
 [^21-1]
 
-[^21-1]: Abrogato dal n. I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^21-1]: Abrogato dalla cifra I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 21a
 
-**Designazione degli alimenti per animali**[^21a-1]
+**Designazione degli alimenti per animali da reddito[^21a-2]**[^21a-1]
 
 <sup>1</sup>
 
@@ -939,21 +982,58 @@ Le denominazioni di cui all’articolo 2 capoverso 2 possono essere utilizzate p
 
 <sup>2</sup> Per gli alimenti trasformati per animali che non soddisfano una delle esigenze di cui al capoverso 1 lettera b o c può essere utilizzata solo l’indicazione «può essere impiegato nell’agricoltura biologica conformemente all’ordinanza sull’agricoltura biologica».
 
-[^21a-1]: Introdotto dal n. I dell’O del 26 nov. 2003 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^21a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2003 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^21a-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 21b
 
-**Esigenze complementari in materia di designazione degli alimenti per animali[^21b-1]**
+**Esigenze complementari in materia di designazione degli alimenti per animali da reddito[^21b-2]**[^21b-1]
 
 Le indicazioni di cui all’articolo 21*a* devono soddisfare le esigenze seguenti:
 
 - a. non devono risaltare per colore, forma o stile di scrittura maggiormente della descrizione o della designazione dell’alimento per animali;
 - b. devono essere accompagnate nello stesso campo visivo, per quanto riguarda la materia organica, dalla menzione della percentuale di alimenti per animali prodotti a partire da superfici biologiche e da quella di alimenti prodotti da superfici in conversione;
-- c.[^21b-2] ...
+- c.[^21b-3] …
 - d. devono enumerare le designazioni delle materie prime di alimenti per animali provenienti dalla coltura biologica o da una coltura in conversione.
 
-[^21b-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^21b-2]: Abrogata dal n. I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^21b-1]: Introdotto dalla cifra I dell’O del 26 nov. 2003, in vigore dal 1° lug. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^21b-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^21b-3]: Abrogata dalla cifra I dell’O del 18 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 21b<sup>bis</sup>
+
+**Designazione degli alimenti per animali da compagnia**[^21bbis-1]
+
+<sup>1</sup>
+
+Le designazioni secondo l’articolo 2 capoverso 2 possono essere utilizzate nella denominazione specifica e nelle indicazioni sulla composizione degli alimenti trasformati per animali da compagnia se:
+
+- a. l’alimento per animali soddisfa le esigenze previste dagli articoli 16*a* capoversi 2 e 7, 16*k*<sup>bis</sup> e 16*l*; e
+- b. almeno il 95 per cento del peso degli ingredienti di origine agricola è biologico.
+
+<sup>2</sup>
+
+Le designazioni secondo l’articolo 2 capoverso 2 possono essere utilizzate nelle indicazioni sulla composizione se:
+
+- a. meno del 95 per cento del peso degli ingredienti di origine agricola è biologi-co;
+- b. nella trasformazione dell’alimento per animali vengono utilizzati soltanto additivi per alimenti per animali e coadiuvanti tecnologici autorizzati secondo l’articolo 16*a*; e
+- c. l’alimento per animali soddisfa le esigenze previste dagli articoli 16*a* capoversi 2 e 7, 16*k*<sup>bis</sup> e 16*l*.
+
+<sup>3</sup>
+
+Le designazioni secondo l’articolo 2 capoverso 2 possono essere utilizzate nelle indicazioni sulla composizione e nello stesso campo visivo della denominazione specifica se:
+
+- a. l’ingrediente principale è un prodotto della caccia o della pesca;
+- b. tutti gli altri ingredienti di origine agricola sono esclusivamente biologici; e
+- c. l’alimento per animali soddisfa le esigenze previste dagli articoli 16*a* capoversi 2 e 7, 16*k*<sup>bis</sup> e 16*l.*
+
+<sup>4</sup> Nelle indicazioni sulla composizione occorre indicare quali materie prime di alimenti per animali sono biologiche.
+
+<sup>5</sup> Se una designazione è utilizzata ai sensi del capoverso 2 o 3, il riferimento al metodo di produzione biologico può comparire solo in relazione agli ingredienti biologici. Le indicazioni sulla composizione devono includere un’indicazione della percentuale totale di ingredienti biologici in proporzione alla quantità totale di ingredienti di origine agricola.
+
+<sup>6</sup> Le designazioni e l’indicazione della percentuale di cui al capoverso 5 devono comparire con lo stesso colore, la stessa grandezza e gli stessi caratteri impiegati per le altre indicazioni sulla composizione.
+
+[^21bbis-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 21c
 
@@ -969,8 +1049,8 @@ Sul prodotto deve figurare il numero di codice dell’ente di certificazione com
 
 <sup>2</sup> L’UFAG può emanare istruzioni sul formato del numero di codice.[^21c-2]
 
-[^21c-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^21c-2]: Introdotto dal n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+[^21c-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^21c-2]: Introdotto dalla cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
 
 ## Capitolo 4: Prodotti importati
 
@@ -983,8 +1063,8 @@ I prodotti importati possono essere designati come prodotti biologici:
 - a.[^22-1] se sono stati ottenuti e preparati secondo norme equivalenti a quelle stabilite nei capitoli 2, 2*a* e 3;
 - b.[^22-2] se la produzione è sottoposta a una procedura di controllo e di certificazione equivalente a quella del capitolo 5 o corrispondente alla procedura di controllo e di certificazione per gruppi di operatori di cui agli articoli 34–36 del regolamento (UE) 2018/848[^22-3].
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 [^22-3]: Regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo alla produzione biologica e all’etichettatura dei prodotti biologici e che abroga il regolamento (CE) n. 834/2007 del Consiglio, GU L 150 del 14.6.2018, pag. 1, modificato da ultimo dal regolamento delegato (UE) 2022/474, GU L 98 del 25.3.2022, pag. 1.
 
 #### Art. 23
@@ -995,13 +1075,13 @@ I prodotti importati possono essere designati come prodotti biologici:
 
 <sup>2</sup> L’elenco deve indicare per ogni Paese l’autorità competente nonché gli enti riconosciuti di certificazione. Inoltre il DEFR può specificare i prodotti, le regioni o le imprese.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 
 #### Art. 23a
 
 **Riconoscimento degli enti di certificazione e delle autorità di controllo al di fuori dell’elenco dei Paesi**[^23a-1]
 
-<sup>1</sup> Sono riconosciuti gli enti di certificazione e le autorità di controllo riconosciuti secondo la procedura di cui all’articolo 46 del regolamento (UE) 2018/848[^23a-2] e che figurano nell’allegato II nella versione vigente del regolamento di esecuzione (UE) 2021/2325[^23a-3]. Essi possono attestare che i prodotti importati soddisfano le condizioni di cui all’articolo 22 lettera a.[^23a-4]
+<sup>1</sup> Sono riconosciuti gli enti di certificazione e le autorità di controllo riconosciuti secondo la procedura di cui all’articolo 46 del regolamento (UE) 2018/848[^23a-2] e che figurano nell’allegato II nella versione vigente del regolamento di esecuzione (UE) 2021/1378[^23a-3]. Essi possono attestare che i prodotti importati soddisfano le condizioni di cui all’articolo 22 lettera a.[^23a-4]
 
 <sup>2</sup> L’UFAG può, su domanda, riconoscere altri enti di certificazione e autorità di controllo che non figurano nell’elenco di cui al capoverso 1 né in quello di cui all’articolo 23, includendoli in un elenco, se gli enti di certificazione e le autorità di controllo provano che i prodotti interessati soddisfano le condizioni di cui all’articolo 22.[^23a-5]
 
@@ -1023,13 +1103,13 @@ Gli enti di certificazione e le autorità di controllo riconosciuti sono tenuti 
 
 <sup>8</sup> Devono presentare all’UFAG entro il 31 marzo un rapporto annuale.
 
-[^23a-1]: Introdotto dal n. I dell’O del 18 nov. 2009 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^23a-2]: Cfr. nota a piè di pagina all’articolo 22 lettera b.
-[^23a-3]: Regolamento di esecuzione (UE) 2021/2325 della Commissione, del 16 dicembre 2021, che stabilisce, ai sensi del regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio, l’elenco dei paesi terzi e l’elenco delle autorità e degli organismi di controllo riconosciuti a norma dell’articolo 33, paragrafi 2 e 3, del regolamento (CE) n. 834/2007 del Consiglio ai fini dell’importazione di prodotti biologici nell’Unione, versione della GU L 465 del 29.12.2021, pag. 8.
-[^23a-4]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^23a-5]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
-[^23a-6]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
-[^23a-7]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^23a-2]: Regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo alla produzione biologica e all’etichettatura dei prodotti biologici e che abroga il regolamento (CE) n. 834/2007 del Consiglio, GU L 150 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2023/207, GU L 29 dell’1.2.2023, pag. 6.
+[^23a-3]: Regolamento di esecuzione (UE) 2021/1378 della Commissione del 19 agosto 2021 che fissa determinate norme riguardanti il certificato rilasciato agli operatori, ai gruppi di operatori e agli esportatori di paesi terzi coinvolti nelle importazioni di prodotti biologici e in conversione nell’Unione e stabilisce l’elenco delle autorità di controllo e degli organismi di controllo riconosciuti a norma del regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio (Testo rilevante ai fini del SEE). Versione della, GU L 297 del 20.8.2021, pag. 24; modificato da ultimo dal regolamento di esecuzione (UE) 2024/2794, GU L, 2024/2794, 4.11.2024.
+[^23a-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687), [721](https://fedlex.data.admin.ch/eli/oc/2024/721)).
+[^23a-5]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23a-6]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23a-7]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 
 #### Art. 24
 
@@ -1047,17 +1127,17 @@ Gli enti di certificazione e le autorità di controllo riconosciuti sono tenuti 
 
 <sup>6</sup> L’UFAG può semplificare o sopprimere l’obbligo del certificato di controllo per importazioni provenienti da Paesi di cui all’articolo 23 o certificate da enti di cui all’articolo 23*a* capoverso 2.[^24-5]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^24-2]: Regolamento delegato (UE) 2021/2306 della Commissione, del 21 ottobre 2021, che integra il regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio con norme relative ai controlli ufficiali delle partite di prodotti biologici e di prodotti in conversione destinati all’importazione nell’Unione e al certificato di ispezione, GU L 461 del 27.12.2021, pag. 13, modificato da ultimo dal regolamento delegato (UE) 2022/760, GU L 139 del 18.5.2022, pag. 13.
-[^24-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^24-4]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
-[^24-5]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^24-3]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^24-4]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^24-5]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 
 #### Art. 24a
 
 [^24a-1]
 
-[^24a-1]: Introdotto dal n. I dell’O del 26 giu. 2002 ([RU 2002 1939](https://fedlex.data.admin.ch/eli/oc/2002/291)). Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^24a-1]: Introdotto dalla cifra I dell’O del 26 giu. 2002 ([RU 2002 1939](https://fedlex.data.admin.ch/eli/oc/2002/291)). Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 ## Capitolo 5: Procedura di controllo
 
@@ -1078,11 +1158,13 @@ L’impresa è tenuta a:
 - e. accettare la trasmissione del fascicolo di controllo al nuovo ente di certificazione, se l’impresa o i suoi appaltatori cambiano ente di certificazione;
 - f. informare quanto prima l’autorità competente e l’ente di certificazione, se l’impresa o i suoi appaltatori si ritirano dal sistema di controllo;
 - g. accettare che il fascicolo di controllo sia conservato per un periodo di almeno cinque anni, se l’impresa o i suoi appaltatori si ritirano dal sistema di controllo;
-- h. accettare di informare immediatamente l’ente di certificazione interessato di qualsiasi irregolarità o infrazione che compromette la qualificazione biologica del suo prodotto o dei prodotti biologici ricevuti da altre imprese o da altri appaltatori.
+- h. accettare di informare immediatamente l’ente di certificazione interessato di qualsiasi irregolarità o infrazione che compromette la qualificazione biologica del suo prodotto o dei prodotti biologici ricevuti da altre imprese o da altri appaltatori;
+- i.[^24abis-2] richiedere al venditore di confermare, nel caso in cui essa impieghi prodotti e sostanze non biologici nelle derrate alimentari biologiche e negli alimenti biologici per animali che rappresentano un rischio di inquinamento a causa di organismi o prodotti di cui all’articolo 3 lettera c numeri 1–3, che i prodotti e le sostanze in questione non sono organismi geneticamente modificati e che non sono derivati da organismi geneticamente modificati o ottenuti mediante siffatti organismi.
 
 <sup>2</sup> L’impresa deve dichiarare per scritto che adempie gli obblighi di cui al capoverso 1. La dichiarazione contiene inoltre la descrizione e i provvedimenti di cui all’allegato 1 numero 1.1 capoverso 1.
 
-[^24abis-1]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^24abis-1]: Introdotto dalla cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^24abis-2]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 25
 
@@ -1099,7 +1181,7 @@ I produttori devono:
 
 <sup>2</sup> Per il resto sono applicabili le disposizioni dell’allegato 1.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
 #### Art. 26
 
@@ -1119,7 +1201,7 @@ Le imprese di preparazione, di importazione e di esportazione devono:
 
 <sup>3</sup> Per il resto sono applicabili le disposizioni dell’allegato 1.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
 
 #### Art. 27
 
@@ -1136,10 +1218,10 @@ Le imprese di commercializzazione e i detentori di magazzini devono:[^27-2]
 
 <sup>2</sup> Per il resto sono applicabili le disposizioni dell’allegato 1.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
-[^27-3]: Nuovo testo giusta il n. I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
-[^27-4]: Introdotta dal n. I dell’O dell’8 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4831](https://fedlex.data.admin.ch/eli/oc/2006/746)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^27-3]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^27-4]: Introdotta dalla cifra I dell’O dell’8 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4831](https://fedlex.data.admin.ch/eli/oc/2006/746)).
 
 #### Art. 27a
 
@@ -1149,13 +1231,13 @@ Le imprese di commercializzazione e i detentori di magazzini devono:[^27-2]
 
 <sup>2</sup> Per i prodotti animali diversi dalla carne, altre disposizioni che permettono di provarne la tracciabilità sono fissate nell’allegato 1.
 
-[^27a-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^27a-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
 ### Sezione 2: Esigenze per gli enti di certificazione
 
 [^chap5-sec2-1]
 
-[^chap5-sec2-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^chap5-sec2-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 
 #### Art. 28
 
@@ -1178,8 +1260,8 @@ Gli enti di certificazione devono essere autorizzati, su domanda, dall’UFAG pe
 
 <sup>4</sup> L’UFAG può sospendere o revocare l’autorizzazione di un ente di certificazione se questi non adempie le esigenze e gli oneri. Informa immediatamente il Servizio d’accreditamento svizzero (SAS) della decisione.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^28-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^28-2]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 29
 
@@ -1192,7 +1274,7 @@ Gli enti di certificazione devono essere autorizzati, su domanda, dall’UFAG pe
 Gli enti di certificazione devono segnatamente:
 
 - a.[^29-3] soddisfare le esigenze e gli oneri previsti nell’articolo 28;
-- b.[^29-4] ...
+- b.[^29-4] …
 - c. conoscere la legislazione svizzera pertinente.
 
 <sup>3</sup> Con la domanda di riconoscimento occorre dichiarare che le esigenze di cui ai capoversi 1 e 2 sono adempiute.
@@ -1211,16 +1293,16 @@ L’UFAG può accordare riconoscimenti limitati nel tempo e vincolarli a oneri. 
 
 <sup>6</sup> L’UFAG può annullare il riconoscimento se le esigenze, gli obblighi e gli oneri non sono adempiuti.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^29-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^29-4]: Abrogata dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^29-4]: Abrogata dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 ### Sezione 3: Obblighi degli enti di certificazione
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Introdotto dal n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^chap5-sec3-1]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 
 #### Art. 30
 
@@ -1232,7 +1314,7 @@ L’UFAG può accordare riconoscimenti limitati nel tempo e vincolarli a oneri. 
 
 <sup>3</sup> Almeno il 10 per cento di tutte le visite di ispezione e controllo effettuate secondo i capoversi 1 e 2 devono avvenire senza preavviso.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
 #### Art. 30a
 
@@ -1244,7 +1326,7 @@ L’UFAG può accordare riconoscimenti limitati nel tempo e vincolarli a oneri. 
 
 <sup>3</sup> Il numero di campioni che l’ente di certificazione deve prelevare e analizzare ogni anno corrisponde ad almeno il 5 per cento del numero di imprese soggette al suo controllo. La selezione delle imprese presso le quali si devono prevelare i campioni è effettuata in base alla valutazione generale del rischio di inosservanza delle norme di produzione biologica. Detta valutazione tiene conto di tutte le fasi della produzione, della preparazione e della distribuzione.
 
-[^30a-1]: Introdotto dal n. I dell’O del 27 ott. 2010 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)). Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^30a-1]: Introdotto dalla cifra I dell’O del 27 ott. 2010 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)). Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
 #### Art. 30a<sup>bis</sup>
 
@@ -1257,7 +1339,7 @@ L’ente di certificazione presenta all’UFAG una documentazione inerente alla 
 - c. quali visite di ispezione e controllo secondo l’articolo 30 capoverso 3 effettuare senza preavviso;
 - d. presso quali imprese effettuare ispezioni e visite senza preavviso.
 
-[^30abis-1]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^30abis-1]: Introdotto dalla cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
 #### Art. 30a<sup>ter</sup>
 
@@ -1271,16 +1353,18 @@ Per categorie di prodotti s’intendono:
 
 - a. vegetali e prodotti vegetali non trasformati, inclusi sementi e altro materiale di moltiplicazione vegetale;
 - b. animali e prodotti animali non trasformati;
-- c. prodotti agricoli trasformati destinati a essere utilizzati come derrate alimentari;
-- d. alimenti per animali;
-- e. vino;
-- f. altri prodotti.
+- c. alghe e prodotti dell’acquacoltura non trasformati;
+- d. prodotti agricoli trasformati e prodotti dell’acquacoltura trasformati destinati a essere utilizzati come derrate alimentari;
+- e. alimenti per animali;
+- f. vino;
+- g. altri prodotti.[^30ater-2]
 
 <sup>3</sup> Il certificato può essere rilasciato anche in forma elettronica se la sua autenticità è provata con modalità elettroniche a prova di manomissione.
 
 <sup>4</sup> Gli enti di certificazione sono obbligati a pubblicare un elenco comune aggiornato dei certificati validi. L’UFAG può prescrivere dove i certificati devono essere pubblicati.
 
-[^30ater-1]: Introdotto dal n. I dell’O del 29 ott. 2014 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)). Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^30ater-1]: Introdotto dalla cifra I dell’O del 29 ott. 2014 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^30ater-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 30b
 
@@ -1295,7 +1379,7 @@ L’ente di certificazione prende adeguati provvedimenti di controllo, segnatame
 
 <sup>2</sup> Il DEFR può fissare le esigenze minime concernenti questi provvedimenti di controllo.
 
-[^30b-1]: Introdotto dal n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+[^30b-1]: Introdotto dalla cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
 
 #### Art. 30c
 
@@ -1303,7 +1387,7 @@ L’ente di certificazione prende adeguati provvedimenti di controllo, segnatame
 
 Ogni ispezione o controllo deve essere oggetto di un rapporto controfirmato dalla persona responsabile dell’impresa interessata.
 
-[^30c-1]: Introdotto dal n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+[^30c-1]: Introdotto dalla cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
 
 #### Art. 30d
 
@@ -1321,8 +1405,8 @@ Gli enti di certificazione tengono a giorno un elenco delle imprese sottoposte a
 
 <sup>3</sup> Il DEFR può emanare prescrizioni in materia di trasmissione dei dati secondo i capoversi 1 e 2.[^30d-2]
 
-[^30d-1]: Introdotto dal n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
-[^30d-2]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^30d-1]: Introdotto dalla cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+[^30d-2]: Introdotto dalla cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
 #### Art. 30e
 
@@ -1348,14 +1432,14 @@ L’ente di certificazione informa immediatamente l’UFAG e il competente organ
 
 <sup>6</sup> L’UFAG e il competente organo cantonale di controllo delle derrate alimentari possono esigere di ottenere dall’ente di certificazione qualsiasi altra informazione sulle irregolarità o infrazioni. L’ente di certificazione trasmette immediatamente queste informazioni.
 
-[^30e-1]: Introdotto dal n. I dell’O del 27 ott. 2010 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)). Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^30e-2]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^30e-1]: Introdotto dalla cifra I dell’O del 27 ott. 2010 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)). Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^30e-2]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
-## Capitoli 6 e 7: ...
+## Capitoli 6 e 7: …
 
 [^lvlu7-1]
 
-[^lvlu7-1]: Abrogati dal n. I dell’O del 7 dic. 1998, con effetto dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+[^lvlu7-1]: Abrogati dalla cifra I dell’O del 7 dic. 1998, con effetto dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -1379,7 +1463,7 @@ L’UFAG:
 
 <sup>3</sup> Può far capo a esperti.
 
-[^31-1]: Originario dopo tit. cap. 6. Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^31-1]: Originario dopo tit. cap. 6. Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
 #### Art. 32
 
@@ -1396,12 +1480,12 @@ Le attività di vigilanza dell’UFAG comprendono in particolare:
 
 <sup>3</sup> Nel quadro delle sue attività di vigilanza, assicura il rispetto delle esigenze di cui agli articoli 28 e 29 capoverso 2.
 
-<sup>4</sup> ...[^32-2]
+<sup>4</sup> …[^32-2]
 
 <sup>5</sup> Può emanare istruzioni destinate all’ente di certificazione. Le istruzioni comprendono anche un elenco di misure per l’armonizzazione delle procedure degli enti di certificazione in caso di irregolarità.
 
-[^32-1]: Originario dopo tit. cap. 7. Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^32-2]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^32-1]: Originario dopo tit. cap. 7. Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^32-2]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 #### Art. 33
 
@@ -1422,31 +1506,37 @@ L’UFAG ispeziona annualmente gli enti di certificazione ammessi in Svizzera se
   - 5\. l’applicazione e il seguito delle misure prese secondo l’articolo 32 capoverso 5 in caso di irregolarità o infrazioni,
   - 6\.[^33-2] rispetto delle disposizioni della legge federale del 25 settembre 2020[^33-3] sulla protezione dei dati.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^33-2]: Nuovo testo giusta l’all. 2 n. II 126 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^33-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^33-2]: Nuovo testo giusta l’all. 2 cifra II n. 126 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^33-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 33a
 
-**Sistema d’informazione sulle sementi e sul materiale vegetativo di moltiplicazione biologici**[^33a-1]
+**Sistema d’informazione per le sementi biologiche e il materiale vegetativo di moltiplicazione biologico**[^33a-1]
 
 <sup>1</sup>
 
-L’Istituto di ricerche dell’agricoltura biologica di Frick (IRAB) gestisce il sistema d’informazione «OrganicXseeds» sulle sementi e sul materiale vegetativo di moltiplicazione di produzione biologica. Tale sistema d’informazione consente di:
+Il FiBL gestisce un sistema d’informazione per le sementi biologiche e il materiale vegetativo di moltiplicazione biologico, eccetto per le plantule. Il sistema d’informazione consente di:
 
-- a. registrare il materiale di moltiplicazione di produzione biologica; la richiesta di procedere a nuove registrazioni compete all’offerente;
-- b. provare che il materiale di moltiplicazione di produzione biologica è disponibile.
+- a. registrare sementi biologiche e materiale vegetativo di moltiplicazione biologico su proposta dell’offerente;
+- b. fornire la prova della disponibilità di sementi biologiche e materiale vegetativo di moltiplicazione biologico;
+- c. categorizzare le specie, le sottospecie e gli scopi di utilizzazione in base al loro grado di disponibilità;
+- d. pubblicare un elenco di specie, sottospecie o varietà di cui è disponibile una quantità sufficiente di sementi biologiche o materiale vegetativo di moltiplicazione biologico;
+- e. richiedere autorizzazioni eccezionali per sementi non biologiche e materiale vegetativo di moltiplicazione non biologico; e
+- f. registrare la quantità e le varietà per cui è stata concessa un’autorizzazione eccezionale per sementi non biologiche e materiale vegetativo di moltiplicazione non biologico.
 
-<sup>2</sup> Gli utenti possono accedere gratuitamente al sistema d’informazione e scaricare informazioni sulla disponibilità di materiale di moltiplicazione di produzione biologica.
+<sup>2</sup> L’accesso al sistema d’informazione e lo scaricamento di informazioni sulla disponibilità sono gratuiti.
 
 <sup>3</sup>
 
-Il DEFR disciplina segnatamente:
+Il DEFR disciplina in particolare:
 
 - a. le condizioni per la registrazione di una varietà nel sistema d’informazione;
-- b. le modalità d’accesso ai dati.
+- b. l’accesso ai dati;
+- c. il tipo di categorizzazione delle varietà;
+- d. la pubblicazione dell’elenco di cui al capoverso 1 lettera d.
 
-[^33a-1]: Introdotto dal n. I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^33a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2003 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 34
 
@@ -1462,7 +1552,7 @@ Il DEFR disciplina segnatamente:
 
 <sup>5</sup> La mancata osservanza di prescrizioni della legislazione in materia di protezione delle acque, di protezione dell’ambiente nonché di protezione della natura e del paesaggio deve essere accertata mediante una decisione passata in giudicato.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
 #### Art. 34a
 
@@ -1472,14 +1562,14 @@ Il DEFR disciplina segnatamente:
 
 <sup>2</sup> Se l’UFAG constata infrazioni concernenti alimenti per animali adotta le necessarie misure amministrative. Informa il competente organo cantonale di controllo delle derrate alimentari e gli enti di certificazione.
 
-[^34a-1]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^34a-2]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^34a-1]: Introdotto dalla cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^34a-2]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 ### Sezione 2: Modifica del diritto vigente
 
 #### Art. 35
 
-...[^35-1]
+…[^35-1]
 
 [^35-1]: Le mod. possono essere consultate alla [RU 1997 2498](https://fedlex.data.admin.ch/eli/oc/1997/2498_2498_2498).
 
@@ -1489,19 +1579,19 @@ Il DEFR disciplina segnatamente:
 
 [^36-1]
 
-[^36-1]: Abrogato dal n. I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^36-1]: Abrogato dalla cifra I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
 
 #### Art. 36a
 
 [^36a-1]
 
-[^36a-1]: Introdotto dal n. I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogato dal n. I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^36a-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogato dalla cifra I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
 
 #### Art. 37
 
 [^37-1]
 
-[^37-1]: Abrogato dal n. I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^37-1]: Abrogato dalla cifra I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
 
 #### Art. 38
 
@@ -1517,12 +1607,12 @@ Il DEFR disciplina segnatamente:
 
 <sup>4</sup> L’ente di certificazione notifica all’UFAG le aziende di cui al capoverso 1 immediatamente dopo l’inizio della procedura di controllo.[^38-6]
 
-[^38-1]: Nuovo testo giusta il n. IV 59 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^38-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^38-1]: Nuovo testo giusta la cifra I V 59 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^38-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^38-3]: Nuovo testo giusta l’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^38-4]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
-[^38-5]: Abrogato dal n. IV 59 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^38-6]: Introdotto dal n. I dell’O del 7 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+[^38-4]: Introdotto dalla cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^38-5]: Abrogato dalla cifra I V 59 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^38-6]: Introdotto dalla cifra I dell’O del 7 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
 
 #### Art. 39
 
@@ -1530,13 +1620,13 @@ Il DEFR disciplina segnatamente:
 
 Le sementi e il materiale vegetativo di moltiplicazione non conformi all’articolo 13*a* ordinati prima del 1° gennaio 2004 possono essere impiegati dopo tale data.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
 
 #### Art. 39a e 39b
 
 [^39a39b-1]
 
-[^39a39b-1]: Introdotti dal n. I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogati dal n. I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^39a39b-1]: Introdotti dalla cifra I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogati dalla cifra I dell’O del 26 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
 
 #### Art. 39c
 
@@ -1544,7 +1634,7 @@ Le sementi e il materiale vegetativo di moltiplicazione non conformi all’artic
 
 Le norme generalmente ammesse dell’agricoltura biologica sono rispettate fino all’emanazione di prescrizioni relative alla detenzione di animali secondo l’articolo 15 capoverso 3.
 
-[^39c-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^39c-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
 #### Art. 39d
 
@@ -1559,27 +1649,27 @@ I caprini possono essere tenuti attaccati fino al 31 dicembre 2022 negli edifici
 
 <sup>2</sup> …[^39d-3]
 
-[^39d-1]: Introdotto dal n. I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^39d-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4181](https://fedlex.data.admin.ch/eli/oc/2018/674)).
-[^39d-3]: Introdotto dal n. I dell’O del 7 nov. 2001 ([RU 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)). Abrogato dal n. I dell’O del 30 ott. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3731](https://fedlex.data.admin.ch/eli/oc/2002/580)).
+[^39d-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^39d-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4181](https://fedlex.data.admin.ch/eli/oc/2018/674)).
+[^39d-3]: Introdotto dalla cifra I dell’O del 7 nov. 2001 ([RU 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)). Abrogato dalla cifra I dell’O del 30 ott. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3731](https://fedlex.data.admin.ch/eli/oc/2002/580)).
 
 #### Art. 39e
 
 [^39e-1]
 
-[^39e-1]: Introdotto dal n. I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogato dal n. IV 59 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^39e-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogato dalla cifra I V 59 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 39f
 
 [^39f-1]
 
-[^39f-1]: Introdotto dal n. I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogato dal n. I dell’O del 23 nov. 2005, con effetto dal 1° gen. 2006 ([RU 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)).
+[^39f-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogato dalla cifra I dell’O del 23 nov. 2005, con effetto dal 1° gen. 2006 ([RU 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)).
 
 #### Art. 39g
 
 [^39g-1]
 
-[^39g-1]: Introdotto dal n. I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogato dal n. IV 59 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^39g-1]: Introdotto dalla cifra I dell’O del 23 ago. 2000 ([RU 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Abrogato dalla cifra I V 59 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 39h
 
@@ -1587,13 +1677,13 @@ I caprini possono essere tenuti attaccati fino al 31 dicembre 2022 negli edifici
 
 Animali provenienti da un trasferimento di embrioni che erano già detenuti nell’azienda prima del 1° gennaio 2001 possono essere detenuti fino alla loro partenza conformemente alle disposizioni della presente ordinanza.
 
-[^39h-1]: Introdotto dal n. I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+[^39h-1]: Introdotto dalla cifra I dell’O del 7 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
 
 #### Art. 39i
 
 [^39i-1]
 
-[^39i-1]: Introdotto dal n. I dell’O del 23 nov. 2005 ([RU 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)). Abrogato dal n. I dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)).
+[^39i-1]: Introdotto dalla cifra I dell’O del 23 nov. 2005 ([RU 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)). Abrogato dalla cifra I dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)).
 
 #### Art. 39j
 
@@ -1604,8 +1694,8 @@ Per la designazione dei prodotti valgono i seguenti termini transitori:
 - a.[^39j-2] fino al 31 dicembre 2012 può essere indicato il numero di codice dell’ente di certificazione secondo il diritto anteriore. A partire dal 1° gennaio 2013 i prodotti e il materiale d’imballaggio possono essere ancora consegnati ai consumatori fino a loro esaurimento;
 - b. i lieviti e i prodotti a base di lieviti possono essere considerati ingredienti di origine non agricola fino al 31 dicembre 2013.
 
-[^39j-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^39j-2]: Nuovo testo giusta il n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+[^39j-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^39j-2]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
 
 #### Art. 39k
 
@@ -1615,7 +1705,7 @@ Per la designazione dei prodotti valgono i seguenti termini transitori:
 
 <sup>2</sup> Le scorte di alimenti per animali presenti il 1° gennaio 2015 designate secondo il diritto anteriore possono essere vendute fino a esaurimento o utilizzate per l’alimentazione degli animali fino alla scadenza della data di conservabilità.
 
-[^39k-1]: Introdotto dal n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^39k-1]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 
 #### Art. 39l
 
@@ -1623,7 +1713,7 @@ Per la designazione dei prodotti valgono i seguenti termini transitori:
 
 Se l’UFAG ha rilasciato un’autorizzazione particolare secondo l’articolo 24 del diritto anteriore, i prodotti possono ancora essere commercializzati come biologici fino alla scadenza dell’autorizzazione. Le domande di rilascio di un’autorizzazione particolare inoltrate fino al 31 dicembre 2014 sono trattate secondo il diritto anteriore.
 
-[^39l-1]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^39l-1]: Introdotto dalla cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
 #### Art. 39m
 
@@ -1635,7 +1725,7 @@ Se l’UFAG ha rilasciato un’autorizzazione particolare secondo l’articolo 2
 
 <sup>3</sup> Gli enti svizzeri di certificazione già attivi prima dell’entrata in vigore della modifica del 18 ottobre 2017 nel quadro della presente ordinanza e accreditati secondo l’articolo 28 capoverso 1 lettera a, si considerano autorizzati in qualità di enti di certificazione secondo l’articolo 28 capoverso 1.
 
-[^39m-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^39m-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 #### Art. 39n
 
@@ -1643,7 +1733,17 @@ Se l’UFAG ha rilasciato un’autorizzazione particolare secondo l’articolo 2
 
 Fino al 31 dicembre 2023 è ancora possibile rilasciare certificati in virtù dell’articolo 30*a*<sup>ter</sup> del diritto anteriore.
 
-[^39n-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^39n-1]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+
+#### Art. 39o
+
+**Disposizioni transitorie della modifica del 6 novembre 2024**[^39o-1]
+
+<sup>1</sup> Per piante ornamentali, sementi per superfici per la promozione della biodiversità, erbe medicinali, aromatiche e spezie nonché per la verdura la notifica ai sensi dell’articolo 13*a* capoverso 4 è facoltativa fino al 31 dicembre 2029.
+
+<sup>2</sup> Gli alimenti biologici per animali da compagnia possono essere prodotti e designati secondo il diritto anteriore fino al 31 dicembre 2025. Le scorte presenti il 31 dicembre 2025 possono essere cedute fino a loro esaurimento.
+
+[^39o-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 ### Sezione 4: Entrata in vigore
 
@@ -1657,7 +1757,7 @@ Allegato 1[^t-2]
 
 ## 1 Disposizioni generali relative alla procedura di controllo
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 18 nov. 2009, ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Aggiornato dal n. II dell’O del 26 ott. 2011 ([RU 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), dall’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dal n. II dell’O del 29 ott. 2014 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)) e dall’all. 3 n. II 7 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 18 nov. 2009, ([RU 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Aggiornato dalla cifra II dell’O del 26 ott. 2011 ([RU 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), dall’all. 9 n. 14 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dalla cifra II dell’O del 29 ott. 2014 ([RU 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)) e dall’all. 3 cifra II n. 7 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### 1.1 Regime di controllo dell’azienda
 
@@ -1753,7 +1853,7 @@ I dati relativi alla produzione vegetale sono annotati in un registro e tenuti p
 - b. che non sono stati annunciati in vista di contribuiti di cui all’articolo 62 capoverso 2 OPD o, nel caso di conigli, all’articolo 62 capoverso 1 OPD; e
 - c. i cui prodotti non sono commercializzati.
 
-[^annex1-lvl3-lvl31-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex1-lvl3-lvl31-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 3.2 Identificazione degli animali
 
@@ -1769,7 +1869,7 @@ Qualsiasi detentore di animali deve tenere un registro degli animali dell’azie
 - d. per quanto riguarda l’alimentazione: tipo di alimenti, inclusi gli integratori alimentari, proporzione dei vari ingredienti della razione, periodo di accesso agli spazi liberi, periodi di transumanza in caso di limitazioni;
 - e. il giornale dei trattamenti di cui all’articolo 16*d* capoverso 4.
 
-[^annex1-lvl3-lvl33-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^annex1-lvl3-lvl33-1]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 ## 4 Preparazione di prodotti vegetali e animali e di derrate alimentari
 
@@ -1912,4 +2012,4 @@ Una volta ricevuto un prodotto biologico importato da un Paese terzo, il primo d
 
 Allegato 2[^t-3]
 
-[^t-3]: Abrogato dal n. II dell’O del 7 dic. 1998, con effetto dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+[^t-3]: Abrogato dalla cifra II dell’O del 7 dic. 1998, con effetto dal 1° gen. 1999 ([RU 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).

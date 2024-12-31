@@ -3,11 +3,11 @@ sr: "910.18"
 title: Verordnung vom 22. September 1997 über die biologische Landwirtschaft und die Kennzeichnung biologisch produzierter Erzeugnisse und Lebensmittel (Bio-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20250101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/de"
 
 (Bio-Verordnung)[^t-1]
 
-vom 22. September 1997 (Stand am 1. September 2023)
+vom 22. September 1997 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -26,9 +26,9 @@ gestützt auf die Artikel 14 Absatz 1 Buchstabe a, 15 und 177 des Landwirtschaft
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -43,16 +43,20 @@ Diese Verordnung gilt für die Kennzeichnung folgender Erzeugnisse als biologisc
 
 - a. nicht verarbeitete pflanzliche und tierische Agrarerzeugnisse sowie Nutztiere;
 - b. verarbeitete, für den menschlichen Verzehr bestimmte pflanzliche und tierische Agrarerzeugnisse, die im Wesentlichen aus Zutaten pflanzlichen und/ oder tierischen Ursprungs bestehen;
-- c.[^1-2] Futtermittel-Ausgangsprodukte, Mischfuttermittel und Futtermittel, die nicht unter Buchstabe a fallen und für die Fütterung von Nutz- und Heimtieren verwendet werden.
+- c.[^1-2] Futtermittel-Ausgangsprodukte, Mischfuttermittel und Futtermittel, die nicht unter Buchstabe a fallen und für die Fütterung von Heim- und Nutztieren nach Artikel 3 Absatz 4 Buchstaben a und b der Futtermittel-Verordnung vom 26. Oktober 2011[^1-3] verwendet werden.
 
-<sup>2</sup> Sie gilt auch für ätherische Öle und als Lebensmittel oder Futtermittel verwendete Hefen.[^1-3]
+<sup>2</sup> Sie gilt auch für ätherische Öle und als Lebensmittel oder Futtermittel verwendete Hefen.[^1-4]
 
-<sup>3</sup> Sie gilt nicht für Insekten im Sinne der Lebensmittelgesetzgebung und für Erzeugnisse der Jagd, der Fischerei und der Aquakultur.[^1-4]
+<sup>2bis</sup> Sie gilt auch für nicht verarbeitete und verarbeitete Erzeugnisse der Aquakultur, die als Lebensmittel oder Futtermittel verwendet werden.[^1-5]
+
+<sup>3</sup> Sie gilt nicht für Insekten im Sinne der Lebensmittelgesetzgebung und für Erzeugnisse der Fischerei und der Jagd.[^1-6]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^1-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^1-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^1-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^1-3]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^1-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^1-6]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 2
 
@@ -127,10 +131,10 @@ Für die Produktion, die Aufbereitung und die Vermarktung biologischer Erzeugnis
 [^3-4]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^3-5]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^3-6]: Eingefügt durch Ziff. I der V vom 8. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4831](https://fedlex.data.admin.ch/eli/oc/2006/746)).
-[^3-7]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562); [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 Ziff. 1; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 3; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 45. [AS 2008 2965](https://fedlex.data.admin.ch/eli/oc/2008/414)Art. 43]. Siehe heute: das BG vom 16. Dez. 2005 ([SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
-[^3-8]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^3-9]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^3-10]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^3-7]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562); [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 Ziff. 1; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 3; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 45. [AS 2008 2965](https://fedlex.data.admin.ch/eli/oc/2008/414)Art. 43]. Siehe heute: das BG vom 16. Dez. 2005 ([SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)).
+[^3-8]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^3-9]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^3-10]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 4
 
@@ -138,17 +142,21 @@ Für die Produktion, die Aufbereitung und die Vermarktung biologischer Erzeugnis
 
 In dieser Verordnung bedeuten:
 
-- a.[^4-1] Erzeugnisse: pflanzliche und tierische Agrarerzeugnisse sowie Lebensmittel, die im Wesentlichen aus solchen Erzeugnissen bestehen;
+- a.[^4-1] Erzeugnisse: pflanzliche und tierische Agrarerzeugnisse und Erzeugnisse der Aquakultur sowie Lebensmittel, die im Wesentlichen aus solchen Erzeugnissen bestehen;
 - b. biologische Produktion: die Produktion nach den Vorschriften von Artikel 3 und dem 2. Kapitel;
 - c.[^4-2] Aufbereitung: Arbeitsgänge zur Haltbarmachung und/oder Verarbeitung landwirtschaftlicher Erzeugnisse einschliesslich der Schlachtung und der Zerlegung tierischer Erzeugnisse sowie Verpackung und/oder Veränderung der Form des Hinweises auf die biologische Landwirtschaft bei der Etikettierung frischer, haltbar gemachter und/oder verarbeiteter Erzeugnisse;
 - d. Vermarktung: das Vorrätighalten zum Verkauf, der Verkauf oder ein anderes Inverkehrbringen und das Ausliefern eines Erzeugnisses;
 - e.[^4-3] Folgeprodukte von gentechnisch veränderten Organismen: Stoffe, die aus oder durch gentechnisch veränderte Organismen erzeugt werden, jedoch keine gentechnisch veränderten Organismen enthalten;
-- f.[^4-4] Kontrolldossier: alle für die Kontrolle und die Zertifizierung eines Unternehmens relevanten Informationen und Dokumente.
+- f.[^4-4] Kontrolldossier: alle für die Kontrolle und die Zertifizierung eines Unternehmens relevanten Informationen und Dokumente;
+- g.[^4-5] Aquakultur: Produktion aquatischer Organismen in jeder Phase ihres Lebenszyklus in geeigneten Anlagen;
+- h.[^4-6] Integrität eines biologischen Erzeugnisses: Zustand eines biologischen Erzeugnisses, in dem weder dessen Merkmale durch Verstösse gegen die Bestimmungen dieser Verordnung auf irgendeiner Stufe von der Produktion bis zur Vermarktung beeinträchtigt sind noch andere beabsichtigte oder wiederholte Unregelmässigkeiten vorliegen.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^4-5]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^4-6]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 5
 
@@ -162,10 +170,11 @@ Als Biobetriebe gelten in dieser Verordnung:
 - b. Sömmerungsbetriebe nach Artikel 9 LBV, auf denen die Produktion nach den Anforderungen dieser Verordnung erfolgt;
 - c. Unternehmen, die nicht Betriebe nach Artikel 6 LBV sind, die Erzeugnisse aus Pflanzenbau oder Nutztierhaltung bodengebunden herstellen und auf denen die Produktion nach den Anforderungen dieser Verordnung erfolgt.
 
-<sup>2</sup> Biobetrieben gleichgestellt sind Unternehmen, die nicht Betriebe nach Artikel 6 LBV sind, die Erzeugnisse nicht bodengebunden herstellen und auf denen die Produktion nach den Anforderungen dieser Verordnung erfolgt.
+<sup>2</sup> Biobetrieben gleichgestellt sind Unternehmen, die nicht Betriebe nach Artikel 6 LBV sind und die Erzeugnisse nicht bodengebunden herstellen oder Aquakulturanlagen betreiben, sofern in diesen Unternehmen die Produktion nach den Anforderungen dieser Verordnung erfolgt.[^5-3]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^5-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-2]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^5-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 ## 2. Kapitel: Anforderungen an die biologische Produktion
 
@@ -207,10 +216,10 @@ Die Zertifizierungsstelle kann auf Gesuch hin eine Produktionsstätte eines nich
 <sup>8</sup> Für Forschungszwecke kann das WBF einzelnen Betrieben Ausnahmen vom Erfordernis der Gesamtbetrieblichkeit bewilligen.[^7-9]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^7-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^7-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^7-3]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^7-4]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^7-5]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^7-5]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^7-6]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^7-7]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^7-8]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
@@ -226,12 +235,22 @@ Die Zertifizierungsstelle kann auf Gesuch hin eine Produktionsstätte eines nich
 
 <sup>1bis</sup> Die Zertifizierungsstelle kann für die Pilzzucht, die Produktion von Treibzichorien und die Sprossenproduktion eine kürzere Umstelldauer bewilligen.[^8-2]
 
+<sup>1ter</sup> Das WBF kann Bestimmungen über die Anforderungen an die Umstellung von Algenzuchten und Aquakulturanlagen erlassen.[^8-3]
+
 <sup>2</sup> Während der Umstellung sind die Bestimmungen dieser Verordnung einzuhalten.
 
 <sup>3</sup> Zu Beginn der Umstellung legen Produzentin oder Produzent und Zertifizierungsstelle gemeinsam alle Massnahmen fest, die zu treffen sind, damit die Bestimmungen dieser Verordnung dauerhaft eingehalten und kontrolliert werden können.
 
+<sup>4</sup> Eine erneute Umstellung nach Absatz 1 ist nicht erforderlich, wenn auf bereits biologisch bewirtschafteten Flächen die Einhaltung der Anforderungen dieser Verordnung aufgrund behördlich angeordneter Massnahmen vorübergehend verunmöglicht ist und der Kanton auf die Kürzung oder die Verweigerung von Direktzahlungen aufgrund von höherer Gewalt nach Artikel 106 Absätze 1 und 2 Buchstabe f DZV[^8-4] verzichtet.[^8-5]
+
+<sup>5</sup> Ist die Integrität der biologischen Erzeugnisse durch behördlich angeordnete Massnahmen nach Absatz 4 gefährdet, so gilt für die von der Anordnung betroffene Fläche eine erneute Umstellungsdauer von zwei Jahren.[^8-6]
+
 [^8-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
 [^8-2]: Eingefügt durch Ziff. I der V vom 7. Dez. 1998 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^8-4]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^8-5]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^8-6]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 9
 
@@ -264,7 +283,7 @@ Nicht zulässig ist die Parallelproduktion von:
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^9-2]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^9-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^9-3]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^9-4]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^9-5]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^9-6]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
@@ -324,7 +343,7 @@ Schädlinge, Krankheiten und Beikräuter müssen durch eine ganzheitliche Anwend
 <sup>4</sup> Der Einsatz von Wachstumsregulatoren, Welkemitteln und Herbiziden ist nicht erlaubt.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^11-2]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)Ziff. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Anhang Ziff. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. Siehe heute: die V vom 12. Mai 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^11-2]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)Ziff. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Anhang Ziff. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. Siehe heute: die V vom 12. Mai 2010 ([SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)).
 [^11-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 11a
@@ -334,7 +353,7 @@ Schädlinge, Krankheiten und Beikräuter müssen durch eine ganzheitliche Anwend
 Die Anforderungen an den Spritzentest und Spülwassertank für im Pflanzenschutz eingesetzte zapfwellenangetriebenen oder selbstfahrenden Geräte nach Anhang 1 Ziffer 6.1 DZV[^11a-2] sind einzuhalten. Demeter-Betriebe, die mit ihren Geräten ausschliesslich biologisch-dynamische Präparate ausbringen, sind davon ausgenommen.
 
 [^11a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^11a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^11a-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 12
 
@@ -353,7 +372,7 @@ Die Anforderungen an den Spritzentest und Spülwassertank für im Pflanzenschutz
 <sup>6</sup> Es dürfen nur Hofdüngerlieferungen von und zu Betrieben erfolgen, welche den ökologischen Leistungsnachweis nach der DZV erfüllen.[^12-4]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^12-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^12-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^12-3]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^12-4]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
@@ -367,42 +386,45 @@ Die Anforderungen an den Spritzentest und Spülwassertank für im Pflanzenschutz
 
 <sup>3</sup> Abweichend von Absatz 1 darf in-vitro vermehrtes, nach der Saatgut-Verordnung vom 7. Dezember 1998[^13-1] zertifiziertes Pflanzmaterial verwendet werden.[^13-2]
 
-<sup>3bis</sup> Das WBF legt eine Liste der Arten oder Untergruppen von Arten fest, von welchen in der Schweiz ausreichende Mengen an Saatgut und vegetativem Vermehrungsmaterial aus biologischer Landwirtschaft und eine ausreichende Anzahl von Sorten aus biologischer Landwirtschaft vorhanden sind.[^13-3]
+<sup>3bis</sup> …[^13-3]
 
 <sup>4</sup> Die Anforderungen der Saatgut-Verordnung bleiben vorbehalten.
 
-[^13-1]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^13-1]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 [^13-2]: Fassung gemäss Ziff. I der V vom 7. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
-[^13-3]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^13-3]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 13a
 
-**Verwendung von nicht biologischem Saatgut und vegetativem Vermehrungsmaterial**[^13a-1]
+**Verwendung von nicht biologischem Saatgut und nicht biologischem vegetativem Vermehrungsmaterial**[^13a-1]
 
 <sup>1</sup>
 
-Wer nicht biologisches Saatgut oder vegetatives Vermehrungsmaterial verwenden will, muss nachweisen, dass:
+Wer nicht biologisches Saatgut oder nicht biologisches vegetatives Vermehrungsmaterial verwenden will, muss nachweisen, dass:
 
-- a. kein geeignetes biologisch erzeugtes Saatgut oder vegetatives Vermehrungsmaterial verfügbar ist, welches seine Anforderungen erfüllt; oder
-- b. kein Anbieter in der Lage ist, das Saatgut oder vegetative Vermehrungs-material vor der Aussaat oder Anpflanzung zu liefern, obwohl er es vom Verwender rechtzeitig bestellt hatte.
+- a. kein geeignetes biologisch erzeugtes Saatgut oder biologisches vegetatives Vermehrungsmaterial verfügbar ist; oder
+- b. niemand in der Lage ist, das Saatgut oder das vegetative Vermehrungsmaterial vor der Aussaat oder Anpflanzung zu liefern, obwohl es rechtzeitig bestellt wurde.
 
-<sup>2</sup> Als Nachweis nach Absatz 1 gilt ein Ausdruck des vorhandenen Angebotes vom Informationssystem nach Artikel 33*a*.
+<sup>2</sup> Der Nachweis nach Absatz 1 muss anhand der Angaben zur Verfügbarkeit im Informationssystem nach Artikel 33*a* erbracht werden.
 
-<sup>3</sup> Wer nicht-biologisches Saatgut oder vegetatives Vermehrungsmaterial verwendet, muss dem Betreiber des Informationssystems gemäss Artikel 33*a* die Menge des eingesetzten Saatgutes oder vegetativen Vermehrungsmaterials und die verwendete Sorte melden.
+<sup>3</sup> Ist die Sorte, die der Verwender beschaffen möchte, gemäss den Informationen im Informationssystem nach Artikel 33*a* nicht als biologisches Saatgut oder nicht als biologisches vegetatives Pflanzenvermehrungsmaterial verfügbar, sind aber andere Sorten derselben Art verfügbar, so darf der Verwender nicht biologisches Saatgut oder nicht biologisches vegetatives Vermehrungsmaterial nur verwenden, wenn er begründen kann, warum keine der biologischen Sorten derselben Art insbesondere für die jeweiligen agronomischen und pedoklimatischen Bedingungen geeignet ist und warum keine der Sorten die erforderlichen technologischen Eigenschaften aufweist, die für die geplante Produktion erforderlich sind.
 
-<sup>4</sup> Für Arten oder Untergruppen von Arten ohne oder mit nur sehr geringer Versorgung an biologisch erzeugtem Saatgut oder vegetativem Vermehrungsmaterial kann nicht biologisches Saatgut oder vegetatives Vermehrungsmaterial ohne Nachweis nach Absatz 2 und ohne Meldung nach Absatz 3 verwendet werden. Der Betreiber des Informationssystems bezeichnet die entsprechenden Sorten und Arten im Informationssystem nach Weisungen des Bundesamts für Landwirtschaft (BLW).[^13a-2]
+<sup>4</sup> Wer nicht biologisches Saatgut oder nicht biologisches vegetatives Vermehrungsmaterial verwendet, muss dem Betreiber des Informationssystems nach Artikel 33*a* die Menge des eingesetzten Saatguts oder des eingesetzten vegetativen Vermehrungsmaterials und die verwendete Sorte melden.
 
-<sup>5</sup> Für Arten und Untergruppen von Arten nach Artikel 13 Absatz 3<sup>bis</sup> darf nur dann nicht biologisches Saatgut und vegetatives Vermehrungsmaterial eingesetzt werden, wenn das BLW eine Bewilligung für die Verwendung von nicht biologischem Saatgut und vegetativem Vermehrungsmaterial erteilt. Die Bewilligung wird nur erteilt, falls das Saatgut oder Vermehrungsmaterial zu Forschungszwecken, für Untersuchungen im Rahmen von Feldversuchen kleinen Umfangs oder zur Sortenerhaltung verwendet wird.
+<sup>5</sup> Auf Gesuch hin kann das Forschungsinstitut für biologischen Landbau (FiBL) eine Verwendung von nicht biologischem Saatgut oder nicht biologischem vegetativem Vermehrungsmaterial bewilligen, sofern dies im Rahmen von Feldversuchen kleinen Umfangs die Forschung zur Sortenerhaltung oder zur Produktinnovation ermöglicht.
 
-<sup>6</sup> Nicht biologisches Saatgut und nicht biologische Saatkartoffeln dürfen nur verwendet werden, wenn sie nicht mit Pflanzenschutzmitteln behandelt worden sind; ausgenommen sind die Behandlung mit Pflanzenschutzmitteln, die für die biologische Produktion zulässig sind, und chemische Behandlungen, die aus Gründen der Pflanzengesundheit für alle Sorten einer bestimmten Art im Anbaugebiet vorgeschrieben wurden.[^13a-3]
+<sup>6</sup>
 
-[^13a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
-[^13a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^13a-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+Nicht biologisches Pflanzenvermehrungsmaterial darf nur verwendet werden, wenn es nicht mit Pflanzenschutzmitteln behandelt worden ist; ausgenommen sind:
+
+- a. Behandlungen, die für die biologische Produktion zulässig sind; und
+- b. Behandlungen, die aus Gründen der Pflanzengesundheit für alle Sorten einer bestimmten Art im Anbaugebiet vorgeschrieben sind.
+
+[^13a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 14
 
-**Sammeln von Wildpflanzen**
+**Sammeln von Wildpflanzen und Wildalgen[^14-1]**
 
 <sup>1</sup>
 
@@ -416,6 +438,11 @@ Das Sammeln essbarer Wildpflanzen und ihrer Teile, die in der freien Natur, in W
 <sup>3</sup> Die Sammeltätigkeit ist ausführlich zu dokumentieren.
 
 <sup>4</sup> Das Kontrollverfahren für Biobetriebe ist sinngemäss anzuwenden.
+
+<sup>5</sup> Das WBF kann weitere Bestimmungen über die Anforderungen an das Sammeln von Wildalgen sowie das anwendbare Kontrollverfahren erlassen.[^14-2]
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^14-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 ### 4. Abschnitt: Nutztierhaltung
 
@@ -436,7 +463,7 @@ Das WBF kann zusätzliche Vorschriften erlassen für:
 <sup>3</sup> Es kann Tierhaltungsvorschriften auch für die übrigen Nutztierkategorien erlassen.[^15-4]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^15-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^15-3]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^15-4]: Fassung gemäss Ziff. I der V vom 7. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
 
@@ -457,17 +484,19 @@ In Absprache mit der Zertifizierungsstelle können jedoch angebunden gehalten we
 
 [^15a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^15a-2]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^15a-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15a-3]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^15a-4]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 15b
 
 **Sömmerung**[^15b-1]
 
-Werden die Tiere gesömmert, so hat die Sömmerung auf Biobetrieben zu erfolgen. In besonderen Fällen kann die Sömmerung auf Betrieben erfolgen, welche die Anforderungen nach den Artikeln 26–34 DZV[^15b-2] einhalten.
+<sup>1</sup> Werden Tiere gesömmert, so müssen die Anforderungen nach den Artikeln 26–33 DZV[^15b-2] eingehalten werden. Wenn möglich hat die Sömmerung auf Biobetrieben zu erfolgen.
 
-[^15b-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2001 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^15b-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+<sup>2</sup> Werden Tiere nicht auf Biobetrieben gesömmert, so ist sicherzustellen, dass die Erzeugnisse, die nach dieser Verordnung produziert werden, nur als biologische Erzeugnisse gekennzeichnet werden, wenn nachgewiesen wird, dass ein getrennter Warenfluss sichergestellt ist.
+
+[^15b-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2001 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^15b-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 16
 
@@ -498,11 +527,11 @@ Es kann in Abweichung vom Grundsatz nach Artikel 3 Buchstabe c Futtermittelzusat
 
 <sup>5</sup> Die Beimischung von Futtermitteln aus Umstellungsbetrieben ist im Durchschnitt bis zu maximal 30 Prozent der Ration der einzelnen Nutztierkategorie zulässig, bezogen auf die Trockensubstanz. Stammen diese Futtermittel aus dem eigenen Betrieb, kann dieser Satz 60 Prozent betragen, und, sofern es sich dabei um einen Umstellungsbetrieb handelt, 100 Prozent.[^16a-5]
 
-<sup>6</sup> Bei nachgewiesenen Futtermittelertragsverlusten, insbesondere auf Grund aussergewöhnlicher Witterungsverhältnisse, kann der direkt betroffene Tierhalter nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle für einen begrenzten Zeitraum nicht-biologische Futtermittel einsetzen, sofern der Tierhalter gegenüber der Zertifizierungsstelle glaubhaft darlegen kann, dass nicht genügend biologisches Futter verfügbar ist. Sind ganze Gebiete von Futtermittelertragsverlusten betroffen, kann das BLW die Zustimmung auch gebietsweise erteilen.[^16a-6]
+<sup>6</sup> Bei nachgewiesenen Futtermittelertragsverlusten, insbesondere aufgrund aussergewöhnlicher Witterungsverhältnisse, kann der direkt betroffene Tierhalter oder die direkt betroffene Tierhalterin nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle für einen begrenzten Zeitraum nicht biologische Futtermittel einsetzen, sofern der Tierhalter oder die Tierhalterin gegenüber der Zertifizierungsstelle glaubhaft darlegen kann, dass nicht genügend biologisches Futter verfügbar ist. Sind ganze Gebiete von Futtermittelertragsverlusten betroffen, so kann das Bundesamt für Landwirtschaft (BLW) die Zustimmung auch gebietsweise erteilen.[^16a-6]
 
 <sup>7</sup> Die Futterkomponenten müssen naturbelassen und die angewendeten Techniken der Futterbereitung möglichst naturnah und energieschonend sein. Futtermittel dürfen keine Spuren von gentechnisch veränderten Organismen oder von Folgeprodukten gentechnisch veränderter Organismen enthalten, die anteilmässig über den futtermittelrechtlich festgelegten Höchstschwellen für unvermeidbare Verunreinigungen liegen.
 
-<sup>8</sup> Tiere in Wanderherden sowie gesömmerte Tiere dürfen vorübergehend auf nicht biologisch bewirtschafteten Flächen weiden. Die dabei aufgenommene Futtermenge darf, bezogen auf die Trockensubstanz, nicht über 10 Prozent der jährlichen Gesamtfuttermenge liegen.[^16a-7]
+<sup>8</sup> Tiere der Schafgattung dürfen in Wanderherden vorübergehend auf nicht biologisch bewirtschafteten Flächen weiden. Die dabei aufgenommene Futtermenge darf, bezogen auf die Trockensubstanz, nicht über 10 Prozent der jährlichen Gesamtfuttermenge liegen.[^16a-7]
 
 <sup>9</sup> Der Futtermittelanteil aus nicht biologischem Anbau darf für Pensionspferde 10 Prozent des gesamten Futterverzehrs betragen.[^16a-8]
 
@@ -511,8 +540,8 @@ Es kann in Abweichung vom Grundsatz nach Artikel 3 Buchstabe c Futtermittelzusat
 [^16a-3]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 [^16a-4]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 [^16a-5]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16a-6]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)).
-[^16a-7]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^16a-6]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^16a-7]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)). Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 [^16a-8]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 16b
@@ -696,6 +725,20 @@ Das Mindestschlachtalter bei Geflügel beträgt:
 <sup>3</sup> Es kann für bestimmte Gebiete oder Regionen festlegen, dass die dort erzeugten Erzeugnisse nicht mit dem Hinweis auf die biologische Landwirtschaft vermarktet werden dürfen.
 
 [^16h-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+
+### 5. Abschnitt: Aquakultur
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+
+#### Art. 16h<sup>bis</sup>
+
+Das WBF kann Bestimmungen erlassen über:
+
+- a. die Anforderungen an die Produktion und die Zucht von Algen, die in Aquakultur erzeugt werden;
+- b. die Anforderungen an die Produktion, die Herkunft, die Fütterung und die Tiergesundheit von Aquakulturtieren und an die Haltungspraktiken;
+- c. die anwendbaren Kontrollverfahren.
 
 ## 2*a*. Kapitel: Anforderungen an die Verarbeitung von Lebensmitteln und Futtermitteln
 
@@ -929,7 +972,7 @@ Für Aromen dürfen die Bezeichnungen nach Artikel 2 Absatz 2 nur verwendet werd
 
 #### Art. 21a
 
-**Kennzeichnung von Futtermitteln**[^21a-1]
+**Kennzeichnung von Futtermitteln für Nutztiere[^21a-2]**[^21a-1]
 
 <sup>1</sup>
 
@@ -942,10 +985,11 @@ Auf verarbeiteten Futtermitteln dürfen die Bezeichnungen nach Artikel 2 Absatz 
 <sup>2</sup> Bei verarbeiteten Futtermitteln, die eine der Anforderungen nach Absatz 1 Buchstabe b oder c nicht erfüllen, darf ausschliesslich der Hinweis «gemäss Bio-Verordnung in der biologischen Landwirtschaft verwendbar» oder «gemäss Bio-Verordnung im ökologischen Landbau verwendbar» verwendet werden.
 
 [^21a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^21a-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 21b
 
-**Weitere Anforderungen an die Kennzeichnung von Futtermitteln[^21b-2]**[^21b-1]
+**Weitere Anforderungen an die Kennzeichnung von Futtermitteln für Nutztiere[^21b-2]**[^21b-1]
 
 Die Angaben nach Artikel 21*a* müssen folgende Anforderungen erfüllen:
 
@@ -955,8 +999,43 @@ Die Angaben nach Artikel 21*a* müssen folgende Anforderungen erfüllen:
 - d. Sie müssen mit einer Auflistung der Bezeichnungen der Futtermittel-Ausgangsprodukte aus biologischem Landbau oder aus Umstellungsproduktion versehen sein.
 
 [^21b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Juli 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
-[^21b-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^21b-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 [^21b-3]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 21b<sup>bis</sup>
+
+**Kennzeichnung von Futtermitteln für Heimtiere**[^21bbis-1]
+
+<sup>1</sup>
+
+In der Sachbezeichnung und in den Angaben über die Zusammensetzung dürfen die Bezeichnungen nach Artikel 2 Absatz 2 für verarbeitete Futtermittel für Heimtiere verwendet werden, sofern:
+
+- a. das Futtermittel die Anforderungen nach den Artikeln 16*a* Absätze 2 und 7, 16*k*<sup>bis</sup> und 16*l* erfüllt; und
+- b. mindestens 95 Gewichtsprozent der Zutaten landwirtschaftlichen Ursprungs biologisch sind.
+
+<sup>2</sup>
+
+Nur in den Angaben über die Zusammensetzung dürfen die Bezeichnungen nach Artikel 2 Absatz 2 verwendet werden, sofern:
+
+- a. weniger als 95 Gewichtsprozent der Zutaten landwirtschaftlichen Ursprungs biologisch sind;
+- b. bei der Verarbeitung des Futtermittels nur Futtermittelzusatzstoffe und Verarbeitungshilfsstoffe verwendet werden, die nach Artikel 16*a* zugelassen sind; und
+- c. das Futtermittel die Anforderungen nach den Artikeln 16*a* Absätze 2 und 7, 16*k*<sup>bis</sup> und 16*l* erfüllt.
+
+<sup>3</sup>
+
+In den Angaben über die Zusammensetzung und im selben Sichtfeld wie die Sachbezeichnung dürfen die Bezeichnungen nach Artikel 2 Absatz 2 verwendet werden, sofern:
+
+- a. die Hauptzutat ein Erzeugnis der Jagd oder der Fischerei ist;
+- b. alle anderen Zutaten landwirtschaftlichen Ursprungs ausschliesslich biologisch sind; und
+- c. das Futtermittel die Anforderungen nach den Artikeln 16*a* Absätze 2 und 7, 16*k*<sup>bis</sup> und 16*l* erfüllt.
+
+<sup>4</sup> In den Angaben über die Zusammensetzung ist anzugeben, welche Futtermittel-Ausgangsprodukte biologisch sind.
+
+<sup>5</sup> Wird eine Bezeichnung nach Absatz 2 oder 3 verwendet, so darf der Bezug auf die biologische Produktion nur im Zusammenhang mit den biologischen Zutaten gemacht werden. In den Angaben über die Zusammensetzung muss der Gesamtanteil der biologischen Zutaten an den Zutaten landwirtschaftlichen Ursprungs angegeben werden.
+
+<sup>6</sup> Die Bezeichnungen und die Prozentangabe nach Absatz 5 müssen in derselben Farbe und Grösse und im selben Schrifttyp wie die übrigen Angaben über die Zusammensetzung erscheinen.
+
+[^21bbis-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 21c
 
@@ -1004,7 +1083,7 @@ Eingeführte Erzeugnisse dürfen als biologische Erzeugnisse gekennzeichnet werd
 
 **Anerkennung von Zertifizierungsstellen und Kontrollbehörden ausserhalb der Länderliste**[^23a-1]
 
-<sup>1</sup> Zertifizierungsstellen und Kontrollbehörden, die aufgrund des Verfahrens nach Artikel 46 der Verordnung (EU) 2018/848[^23a-2] von der EU anerkannt wurden und im Anhang II der jeweils geltenden Fassung der Durchführungsverordnung (EU) 2021/2325[^23a-3] aufgenommen sind, sind anerkannt. Sie können bescheinigen, dass die eingeführten Erzeugnisse die Bedingungen nach Artikel 22 Buchstabe a erfüllen.[^23a-4]
+<sup>1</sup> Zertifizierungsstellen und Kontrollbehörden, die aufgrund des Verfahrens nach Artikel 46 der Verordnung (EU) 2018/848[^23a-2] von der EU anerkannt wurden und im Anhang II der jeweils geltenden Fassung der Durchführungsverordnung (EU) 2021/1378[^23a-3] aufgenommen sind, sind anerkannt. Sie können bescheinigen, dass die eingeführten Erzeugnisse die Bedingungen nach Artikel 22 Buchstabe a erfüllen.[^23a-4]
 
 <sup>2</sup> Das BLW kann auf Begehren hin weitere Zertifizierungsstellen und Kontrollbehörden, die nicht im Verzeichnis nach Absatz 1 und nicht in der Liste nach Artikel 23 aufgeführt sind, mit einer Aufnahme in eine Liste anerkennen, wenn die Zertifizierungsstellen und Kontrollbehörden nachweisen, dass die betroffenen Erzeugnisse die Bedingungen nach Artikel 22 erfüllen.[^23a-5]
 
@@ -1027,9 +1106,9 @@ Die anerkannten Zertifizierungsstellen und Kontrollbehörden sind verpflichtet:
 <sup>8</sup> Sie müssen dem BLW jeweils bis zum 31. März einen Jahresbericht vorlegen.
 
 [^23a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^23a-2]: Siehe Fussnote zu Art. 22 Bst. b.
-[^23a-3]: Durchführungsverordnung (EU) 2021/2325 der Kommission vom 16. Dezember 2021 zur Erstellung – gemäss der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates – des Verzeichnisses der Drittländer und des Verzeichnisses der Kontrollbehörden und Kontrollstellen, die gemäss Artikel 33 Absätze 2 und 3 der Verordnung (EG) Nr. 834/2007 des Rates für die Zwecke der Einfuhr ökologischer/biologischer Erzeugnisse in die Union anerkannt sind, Fassung gemäss ABl. L 465 vom 29.12.2021, S. 8.
-[^23a-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^23a-2]: Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates, ABl. L 150 vom 14.6.2018, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2023/207, ABl. L 29 vom 1.2.2023, S. 6.
+[^23a-3]: Durchführungsverordnung (EU) 2021/1378 der Kommission vom 19. August 2021 mit Vorschriften zur Bescheinigung für Unternehmer, Unternehmergruppen und Ausführer in Drittländern, die ökologische/biologische Erzeugnisse und Umstellungserzeugnisse in die Union einführen und zur Erstellung des Verzeichnisses anerkannter Kontrollbehörden und Kontrollstellen gemäß der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates (Text von Bedeutung für den EWR). Fassung gemäss ABl. L 297 vom 20.8.2021, S. 24; zuletzt geändert durch Durchführungsverordnung (EU) 2024/2794, ABl L, 2024/2794, 4.11.2024.
+[^23a-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687), [721](https://fedlex.data.admin.ch/eli/oc/2024/721)).
 [^23a-5]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 [^23a-6]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 [^23a-7]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
@@ -1081,11 +1160,13 @@ Das Unternehmen ist verpflichtet:
 - e. für den Fall, dass das Unternehmen oder dessen Subunternehmen seine Zertifizierungsstelle wechselt, die Übermittlung ihrer Kontrollakten an die neue Zertifizierungsstelle zu akzeptieren;
 - f. für den Fall, dass sich das Unternehmen oder dessen Subunternehmen aus dem Kontrollsystem zurückzieht, die betreffende zuständige Behörde und die Zertifizierungsstelle unverzüglich darüber zu informieren;
 - g. für den Fall, dass sich das Unternehmen oder dessen Subunternehmen aus dem Kontrollsystem zurückzieht, zu akzeptieren, dass sein Kontrolldossier mindestens fünf Jahre lang aufbewahrt wird;
-- h. die betreffende Zertifizierungsstelle unverzüglich über etwaige Unregelmässigkeiten oder Verstösse zu informieren, die den biologischen Status ihres Erzeugnisses oder von biologischen Erzeugnissen, die sie von anderen Unternehmern oder Subunternehmern bezogen haben, beeinträchtigen.
+- h. die betreffende Zertifizierungsstelle unverzüglich über etwaige Unregelmässigkeiten oder Verstösse zu informieren, die den biologischen Status ihres Erzeugnisses oder von biologischen Erzeugnissen, die sie von anderen Unternehmern oder Subunternehmern bezogen haben, beeinträchtigen;
+- i.[^24abis-2] für den Fall, dass das Unternehmen nicht biologische Erzeugnisse und Stoffe in biologischen Lebensmitteln und Futtermitteln verwendet, die ein Risiko der Belastung durch Organismen oder Erzeugnisse nach Artikel 3 Buchstabe c Ziffern 1–3 darstellen, eine Bestätigung beim Verkäufer einzuholen, dass es sich bei den Erzeugnissen und Stoffen um keine gentechnisch veränderten Organismen handelt und dass sie nicht aus oder durch gentechnisch veränderte Organismen hergestellt wurden.
 
 <sup>2</sup> Das Unternehmen muss schriftlich erklären, dass es die Pflichten nach Absatz 1 einhält. In der Erklärung sind zudem die Beschreibung und die Massnahmen nach Anhang 1 Ziffer 1.1. Absatz 1 festzuhalten.
 
 [^24abis-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^24abis-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 25
 
@@ -1184,7 +1265,7 @@ Die Zertifizierungsstellen müssen für ihre Tätigkeit gemäss dieser Verordnun
 <sup>4</sup> Das BLW kann die Zulassung einer Zertifizierungsstelle suspendieren oder entziehen, wenn eine Zertifizierungsstelle die Anforderungen und Auflagen nicht erfüllt. Das BLW informiert die Schweizerische Akkreditierungsstelle (SAS) umgehend über den Entscheid.
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^28-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^28-2]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 29
 
@@ -1276,16 +1357,18 @@ Erzeugniskategorien sind:
 
 - a. unverarbeitete Pflanzen und Pflanzenerzeugnisse, einschliesslich Saatgut und anderes Pflanzenvermehrungsmaterial;
 - b. Tiere und unverarbeitete tierische Erzeugnisse;
-- c. verarbeitete landwirtschaftliche Erzeugnisse, die zur Verwendung als Lebensmittel bestimmt sind;
-- d. Futtermittel;
-- e. Wein;
-- f. sonstige Erzeugnisse.
+- c. Algen und unverarbeitete Aquakulturerzeugnisse;
+- d. verarbeitete landwirtschaftliche Erzeugnisse und verarbeitete Aquakulturerzeugnisse, die zur Verwendung als Lebensmittel bestimmt sind;
+- e. Futtermittel;
+- f. Wein;
+- g. sonstige Erzeugnisse.[^30ater-2]
 
 <sup>3</sup> Das Zertifikat kann auch elektronisch ausgestellt werden, sofern seine Authentizität mittels einer anerkannten fälschungssicheren elektronischen Methode gewährleistet ist.
 
 <sup>4</sup> Die Zertifizierungsstellen sind verpflichtet, ein gemeinsames, aktualisiertes Verzeichnis der gültigen Zertifikate zu veröffentlichen. Das BLW kann ihnen vorschreiben, wo die Zertifikate veröffentlicht werden müssen.
 
 [^30ater-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)). Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^30ater-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 30b
 
@@ -1429,29 +1512,35 @@ Das BLW führt jährlich eine Inspektion der nach den Artikeln 28 und 29 in der 
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 [^33-2]: Fassung gemäss Anhang 2 Ziff. II 126 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^33-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-3]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 33a
 
-**Informationssystem für biologisches Saatgut und vegetatives Vermehrungsmaterial**[^33a-1]
+**Informationssystem für biologisches Saatgut und biologisches vegetatives Vermehrungsmaterial**[^33a-1]
 
 <sup>1</sup>
 
-Das Forschungsinstitut für biologischen Landbau (FiBL) Frick führt ein Informationssystem «OrganicXseeds» für biologisches Saatgut und vegetatives Vermehrungsmaterial. Dieses Informationssystem:
+Das FiBL betreibt ein Informationssystem für biologisches Saatgut und biologisches vegetatives Vermehrungsmaterial mit Ausnahme von Sämlingen. Das Informationssystem ermöglicht:
 
-- a. ermöglicht den Eintrag von biologisch erzeugtem Vermehrungsmaterial; Neueinträge sind vom Anbieter zu beantragen;
-- b. ermöglicht den Nachweis der aktuellen Verfügbarkeit von biologisch erzeugtem Vermehrungsmaterial.
+- a. den Eintrag von biologischem Saatgut und biologischem vegetativem Vermehrungsmaterial, auf Antrag des Anbieters;
+- b. den Nachweis der Verfügbarkeit von biologischem Saatgut und biologischem vegetativem Vermehrungsmaterial;
+- c. die Kategorisierung der Arten, Unterarten und Verwendungszwecke nach dem Grad ihrer Verfügbarkeit;
+- d. die Veröffentlichung einer Liste von Arten, Unterarten oder Sorten, von denen eine ausreichende Menge an biologischem Saatgut oder biologischem vegetativem Vermehrungsmaterial zur Verfügung steht;
+- e. die Beantragung von Ausnahmebewilligungen für nicht biologisches Saatgut und nicht biologisches vegetatives Pflanzenvermehrungsmaterial; und
+- f. die Erfassung der Menge und der Sorten, für die eine Ausnahmebewilligung für nicht biologisches Saatgut und nicht biologisches vegetatives Pflanzenvermehrungsmaterial erteilt wurde.
 
-<sup>2</sup> Der Zugang zum Informationssystem und das Herunterladen von Informationen über die aktuelle Verfügbarkeit von biologisch erzeugtem Vermehrungsmaterial sind für den Verwender unentgeltlich.
+<sup>2</sup> Der Zugang zum Informationssystem und das Herunterladen von Informationen über die Verfügbarkeit sind unentgeltlich.
 
 <sup>3</sup>
 
-Das WBF regelt ausserdem insbesondere:
+Das WBF kann insbesondere regeln:
 
 - a. die Voraussetzungen für die Aufnahme einer Sorte in das Informationssystem;
-- b. den Zugang zu den Daten.
+- b. den Zugang zu den Daten;
+- c. die Art der Kategorisierung der Sorten;
+- d. die Veröffentlichung der Liste nach Absatz 1 Buchstabe d.
 
-[^33a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^33a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 34
 
@@ -1478,7 +1567,7 @@ Das WBF regelt ausserdem insbesondere:
 <sup>2</sup> Stellt das BLW Verstösse bei Futtermitteln fest, so trifft es die erforderlichen Verwaltungsmassnahmen. Es informiert das zuständige Organ der kantonalen Lebensmittelkontrolle und die Zertifizierungsstellen.
 
 [^34a-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^34a-2]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^34a-2]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 ### 2. Abschnitt: Änderung bisherigen Rechts
 
@@ -1523,7 +1612,7 @@ Das WBF regelt ausserdem insbesondere:
 <sup>4</sup> Die Zertifizierungsstelle meldet die Betriebe nach Absatz 1 unmittelbar nach Aufnahme des Kontrollverfahrens dem BLW.[^38-6]
 
 [^38-1]: Fassung gemäss Ziff. IV 59 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^38-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^38-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^38-3]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^38-4]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
 [^38-5]: Aufgehoben durch Ziff. IV 59 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
@@ -1650,6 +1739,16 @@ Bis zum 31. Dezember 2023 können noch Bescheinigungen nach Artikel 30*a*<sup>te
 
 [^39n-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
+#### Art. 39o
+
+**Übergangsbestimmungen zur Änderung vom 6. November 2024**[^39o-1]
+
+<sup>1</sup> Für Zierpflanzen, Saatgut für Biodiversitätsförderflächen, Heil-, Küchen- und Gewürzkräuter sowie Gemüse ist die Meldung nach Artikel 13a Absatz 4 bis zum 31. Dezember 2029 freiwillig.
+
+<sup>2</sup> Biologische Futtermittel für Heimtiere dürfen bis zum 31. Dezember 2025 gemäss den bisherigen Bestimmungen hergestellt und gekennzeichnet werden. Am 31. Dezember 2025 vorhandene Bestände dürfen noch bis zu ihrer Erschöpfung abgegeben werden.
+
+[^39o-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+
 ### 4. Abschnitt: Inkrafttreten
 
 #### Art. 40
@@ -1758,7 +1857,7 @@ Betreibt ein Unternehmen mehrere Produktionsstätten, so unterliegen auch die Pr
 - b. die nicht für Beiträge nach Artikel 62 Absatz 2 DZV bzw. für Kaninchen Artikel 62 Absatz 1 DZV angemeldet sind; und
 - c. deren Erzeugnisse nicht vermarktet werden.
 
-[^annex1-lvl3-lvl31-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex1-lvl3-lvl31-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 3.2 Tierkennzeichnung
 
@@ -1774,7 +1873,7 @@ Jeder Tierhalter und jede Tierhalterin muss ein Verzeichnis der Tiere auf der Ti
 - d. Futter: Art des Futtermittels, einschliesslich der Futterzusätze, Anteil der verschiedenen Bestandteile der Futterrationen, Auslaufperioden, Zeiten der Wandertierhaltung für den Fall von Beschränkungen;
 - e. Behandlungsjournal nach Artikel 16*d* Absatz 4.
 
-[^annex1-lvl3-lvl33-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^annex1-lvl3-lvl33-1]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 ## 4 Aufbereitung von pflanzlichen und tierischen Erzeugnissen und von Lebensmitteln
 

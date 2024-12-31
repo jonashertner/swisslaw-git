@@ -3,11 +3,11 @@ sr: "910.18"
 title: "Ordonnance du 22 septembre 1997 sur l'agriculture biologique et la désignation des produits et des denrées alimentaires biologiques (Ordonnance sur l'agriculture biologique)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: fr
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20250101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230901/fr"
 
 (Ordonnance sur l’agriculture biologique)[^t-1]
 
-du 22 septembre 1997 (État le 1<sup>er</sup> septembre 2023)
+du 22 septembre 1997 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -26,9 +26,9 @@ vu les art. 14, al. 1, let. a, 15 et 177 de la loi du 29 avril 1998 sur l’agri
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 ## Chapitre 1 Dispositions générales
@@ -43,17 +43,21 @@ La présente ordonnance s’applique aux produits suivants pouvant être désign
 
 - a. les produits agricoles végétaux ou animaux non transformés, et les animaux de rente;
 - b. les produits agricoles végétaux ou animaux transformés destinés à l’alimentation humaine, contenant essentiellement des ingrédients d’origine végétale et/ou animale;
-- c.[^1-3] les matières premières des aliments pour animaux, les aliments composés pour animaux et les aliments pour animaux non visés à la let. a et destinés à l’alimentation des animaux de rente et des animaux de compagnie.
+- c.[^1-3] les matières premières des aliments pour animaux, les aliments composés pour animaux et les aliments pour animaux non visés à la let. a et destinés à l’alimentation des animaux de compagnie et des animaux de rente visés à l’art. 3, al. 4, let. a et b, de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^1-4].
 
-<sup>2</sup> Elle s’applique également aux huiles essentielles et aux levures destinées à l’alimentation humaine ou animale.[^1-4]
+<sup>2</sup> Elle s’applique également aux huiles essentielles et aux levures destinées à l’alimentation humaine ou animale.[^1-5]
 
-<sup>3</sup> Elle ne s’applique pas aux insectes au sens de la législation sur les denrées alimentaires, ni aux produits de la chasse, de la pêche et de l’aquaculture.[^1-5]
+<sup>2bis</sup> Elle s’applique également aux produits transformés ou non transformés de l’aquaculture destinés à l’alimentation humaine ou animale.[^1-6]
+
+<sup>3</sup> Elle ne s’applique pas aux insectes au sens de la législation sur les denrées alimentaires, ni aux produits de la chasse et de la pêche.[^1-7]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3731](https://fedlex.data.admin.ch/eli/oc/2002/580)).
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^1-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^1-5]: Introduit par le ch. I de l’O du 18 nov. 2009 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^1-4]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^1-6]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^1-7]: Introduit par le ch. I de l’O du 18 nov. 2009 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 2
 
@@ -139,17 +143,21 @@ La production, la préparation et la commercialisation de produits biologiques s
 
 Au sens de la présente ordonnance, on entend par:
 
-- a.[^4-1] produits: les produits végétaux ou animaux ainsi que les denrées alimentaires qui contiennent pour l’essentiel de tels produits;
+- a.[^4-1] produits: les produits agricoles végétaux ou animaux et les produits de l’aquaculture, ainsi que les denrées alimentaires constituées pour l’essentiel de tels produits;
 - b. production biologique: la production conforme aux dispositions de l’art. 3 et du chap. 2;
 - c.[^4-2] préparation: les opérations de conservation et/ou de transformation de produits agricoles, y compris l’abattage et la découpe des les produits animaux, ainsi que le conditionnement et/ou les modifications apportées à l’étiquetage concernant la référence à l’agriculture biologique des produits frais, conservés et/ou transformés;
 - d. commercialisation: la détention en vue de la vente, la vente ou tout autre mode de mise dans le commerce, et la livraison d’un produit;
 - e.[^4-3] produits dérivés d’organismes génétiquement modifiés: les produits dérivés d’organismes génétiquement modifiés ou obtenus au moyen de ces organismes, mais qui ne contiennent pas d’organismes génétiquement modifiés;
-- f.[^4-4] dossier de contrôle: tous les documents et informations pertinents pour les contrôles et la certification d’une entreprise.
+- f.[^4-4] dossier de contrôle: tous les documents et informations pertinents pour les contrôles et la certification d’une entreprise;
+- g.[^4-5] aquaculture: la production d’organismes aquatiques à toute phase de leur cycle de vie dans des installations appropriées;
+- h.[^4-6] intégrité d’un produit biologique: état d’un produit biologique dans lequel ses caractéristiques ne sont pas compromises par des infractions aux dispositions de la présente ordonnance, à quelque stade que ce soit, de la production à la commercialisation, et où il n’existe pas d’autres irrégularités intentionnelles ou répétées.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^4-3]: Introduite par le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^4-4]: Introduite par le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^4-5]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^4-6]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 5
 
@@ -163,10 +171,11 @@ Par exploitation biologique au sens de la présente ordonnance, on entend:
 - b. toute exploitation d’estivage visée à l’art. 9 OTerm dans laquelle la production répond aux exigences fixées dans la présente ordonnance;
 - c. toute entreprise qui n’est pas une exploitation au sens de l’art. 6 OTerm, qui fabrique des produits animaux ou végétaux, et dont la production est liée au sol et répond aux exigences fixées dans la présente ordonnance.
 
-<sup>2</sup> Sont assimilées à des exploitations biologiques les entreprises qui ne correspondent pas à une exploitation selon l’art. 6 OTerm, dont la production n’est pas liée au sol mais répond aux exigences fixées dans la présente ordonnance.
+<sup>2</sup> Sont assimilées à des exploitations biologiques les entreprises qui ne correspondent pas à une exploitation selon l’art. 6 OTerm, qui fabriquent des produits sans lien avec le sol ou exploitent des installations aquacoles, à condition que la production de ces entreprises réponde aux exigences fixées dans la présente ordonnance.[^5-3]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^5-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 ## Chapitre 2 Exigences en matière de production biologique
 
@@ -208,10 +217,10 @@ L’organisme de certification peut, sur demande, reconnaître une unité de pro
 <sup>8</sup> Le DEFR peut autoriser, au cas par cas, des dérogations au principe de la globalité aux fins de la recherche.[^7-9]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
-[^7-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^7-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^7-3]: Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^7-4]: Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^7-5]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^7-5]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^7-6]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^7-7]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^7-8]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
@@ -227,12 +236,22 @@ L’organisme de certification peut, sur demande, reconnaître une unité de pro
 
 <sup>1bis</sup> L’organisme de certification peut fixer une durée de reconversion abrégée pour la culture de champignons, la production de chicorée et la production de pousse.[^8-2]
 
+<sup>1ter</sup> Le DEFR peut édicter des dispositions sur les exigences relatives à la reconversion des exploitations produisant des algues et des installations aquacoles.[^8-3]
+
 <sup>2</sup> Les dispositions de la présente ordonnance doivent être respectées durant la reconversion.
 
 <sup>3</sup> Au début de la reconversion, le producteur et l’organisme de certification fixent en commun toutes les mesures propres à garantir durablement le respect et le contrôle des dispositions de la présente ordonnance.
 
+<sup>4</sup> Si les exigences de la présente ordonnance ne peuvent temporairement pas être respectées sur des surfaces déjà exploitées conformément aux principes de l’agriculture biologique en raison de mesures ordonnées par les autorités et que le canton renonce à la réduction ou à la suppression de paiements directs pour cause de force majeure conformément à l’art. 106, al. 1 et 2, let. f, OPD[^8-4], une nouvelle reconversion selon l’al. 1 n’est pas nécessaire.[^8-5]
+
+<sup>5</sup> Si l’intégrité des produits biologiques est compromise en raison de mesures ordonnées par les autorités conformément à l’al. 4, la surface concernée par la mesure doit faire l’objet d’une nouvelle reconversion d’une durée de deux ans.[^8-6]
+
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
 [^8-2]: Introduit par le ch. I de l’O du 7 déc. 1998 ([RO 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)). Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^8-3]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^8-4]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^8-5]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^8-6]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 9
 
@@ -265,7 +284,7 @@ La production parallèle est interdite dans les cas suivants:
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^9-2]: Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^9-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^9-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^9-4]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^9-5]: Introduit par le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -324,7 +343,7 @@ Afin de réguler les organismes nuisibles, les maladies et les adventices, il co
 <sup>4</sup> L’utilisation de régulateurs de croissance, de produits de défanage et d’herbicides n’est pas autorisée.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^11-2]: [[RO 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)ch. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 chiff. 54 1843 4541 6291, **2008** 2155 4377 annexe 5 ch. 11 5271, **2009** 401 annexe ch. 3 2845, **2010** 2101. [RO 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Voir actuellement la LF du 12 mai 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^11-2]: [[RO 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)ch. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 chiff. 54 1843 4541 6291, **2008** 2155 4377 annexe 5 ch. 11 5271, **2009** 401 annexe ch. 3 2845, **2010** 2101. [RO 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Voir actuellement la LF du 12 mai 2010 ([RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)).
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 11a
@@ -334,7 +353,7 @@ Afin de réguler les organismes nuisibles, les maladies et les adventices, il co
 Les exigences portant sur les tests de pulvérisateurs et le réservoir d’eau claire des pulvérisateurs à prise de force ou autotractés, en vertu de l’annexe 1, ch. 6.1, OPD[^11a-2], doivent être respectées. Font exception les exploitations Déméter qui n’utilisent leurs appareils que pour pulvériser des préparations biodynamiques.
 
 [^11a-1]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^11a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^11a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 12
 
@@ -353,7 +372,7 @@ Les exigences portant sur les tests de pulvérisateurs et le réservoir d’eau 
 <sup>6</sup> Les livraisons d’engrais de ferme ne peuvent avoir lieu qu’entre des exploitations qui fournissent les prestations écologiques requises selon l’OPD.[^12-5]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^12-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^12-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^12-3]: Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^12-4]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
 [^12-5]: Introduit par le ch. I de l’O du 23 août 2000 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
@@ -368,14 +387,14 @@ Les exigences portant sur les tests de pulvérisateurs et le réservoir d’eau 
 
 <sup>3</sup> En dérogation à l’al. 1, du matériel végétal multiplié in vitro et certifié conformément à l’ordonnance du 7 décembre 1998 sur les semences[^13-2] peut être utilisé.[^13-3]
 
-<sup>3bis</sup> Le DEFR établit la liste des espèces ou des sous-groupes d’espèces dont il existe, en Suisse, une quantité suffisante de semences et de matériel de multiplication végétatif issus de la culture biologique, ainsi qu’un nombre suffisant de variétés issues de la culture biologique.[^13-4]
+<sup>3bis</sup> …[^13-4]
 
 <sup>4</sup> Les exigences fixées dans l’ordonnance sur les semences sont réservées.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
-[^13-2]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^13-2]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
-[^13-4]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^13-4]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 13a
 
@@ -385,26 +404,29 @@ Les exigences portant sur les tests de pulvérisateurs et le réservoir d’eau 
 
 Quiconque a l’intention d’utiliser des semences ou du matériel de multiplication végétatif non biologiques doit prouver:
 
-- a. que des semences ou du matériel de multiplication végétatif issus de la production biologique et répondant à ses exigences ne sont pas disponibles, ou
-- b. qu’aucun fournisseur n’est en mesure de livrer les semences ou le matériel de multiplication végétatif avant l’ensemencement ou la plantation, bien qu’il les ait commandés à temps.
+- a. que nulles semences ou nul matériel de multiplication végétatif adéquats issus de la production biologique ne sont disponibles, ou
+- b. qu’aucun fournisseur n’est en mesure de livrer les semences ou le matériel de multiplication végétatif avant l’ensemencement ou la plantation, bien qu’ils aient été commandés à temps.
 
-<sup>2</sup> Est considéré comme preuve au sens de l’al. 1 un tiré à part de l’offre disponible enregistrée dans le système d’information visé à l’art. 33*a*.
+<sup>2</sup> La preuve visée à l’al. 1 doit être fournie au moyen des données relatives à la disponibilité figurant dans le système d’information visé à l’art. 33*a*.
 
-<sup>3</sup> Quiconque utilise des semences ou du matériel de multiplication végétatif non biologiques doit notifier à l’exploitant du système d’information visé à l’art. 33*a* la quantité et la variété utilisées.
+<sup>3</sup> Si la variété que l’utilisateur souhaite acquérir n’est pas disponible sous forme de semences ou de matériel de multiplication végétatif biologiques, conformément aux données du système d’information visé à l’art. 33*a*, mais que d’autres variétés de la même espèce sont disponibles, l’utilisateur ne peut employer des semences et du matériel de multiplication végétatif non biologiques que s’il peut justifier l’inadéquation de chacune des variétés biologiques de la même espèce, en particulier du point de vue des conditions agronomiques et pédoclimatiques, et l’absence, chez toutes les variétés disponibles, des caractéristiques technologiques requises pour la production prévue.
 
-<sup>4</sup> Lorsqu’il s’agit d’espèces ou de sous-groupes d’espèces pour lesquels il n’existe guère ou pas de semences ni de matériel de multiplication végétatif issus de la culture biologique, il est possible d’utiliser des semences et du matériel de multiplication végétatif non biologiques sans devoir apporter la preuve visée à l’al. 2 et sans devoir le notifier conformément à l’al. 3. L’exploitant du système d’information désigne dans ce dernier les variétés et espèces concernées, conformément aux instructions de l’Office fédéral de l’agriculture (OFAG).[^13a-2]
+<sup>4</sup> Quiconque utilise des semences ou du matériel de multiplication végétatif non biologiques doit notifier à l’exploitant du système d’information visé à l’art. 33*a* la quantité et la variété utilisées.
 
-<sup>5</sup> Lorsqu’il s’agit d’espèces ou de sous-groupes d’espèces visés à l’art. 13, al. 3<sup>bis</sup>, des semences et du matériel de multiplication végétatif non biologiques ne peuvent être utilisés que si l’OFAG accorde une autorisation à cet effet. Cette dernière n’est accordée que si les semences et le matériel de multiplication végétatif servent à des fins de recherche, à des essais en plein champ de faible étendue ou à la préservation d’une variété.
+<sup>5</sup> Sur demande, l’Institut de recherche de l’agriculture biologique (FiBL) peut autoriser l’utilisation de semences ou de matériel de multiplication végétatif non biologiques, à condition que cela contribue, dans le cadre d’essais en plein champ de faible étendue, à la recherche sur la préservation d’une variété ou sur l’innovation en matière de produits.
 
-<sup>6</sup> L’utilisation de semences et de plants de pommes de terre non biologiques est autorisée pour autant que ceux-ci n’aient pas été traités avec des produits phytosanitaires autres que ceux admis pour la production biologique, sauf si le traitement chimique est prescrit pour des raisons phytosanitaires pour toutes les variétés d’une espèce donnée dans la région de culture*.*[^13a-3]
+<sup>6</sup>
 
-[^13a-1]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
-[^13a-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
-[^13a-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+Le matériel de multiplication végétatif non biologique ne peut être utilisé que s’il n’a pas été traité à l’aide de produits phytosanitaires; sont exceptés:
+
+- a. les traitements autorisés pour la production biologique, et
+- b. les traitements prescrits, pour des motifs relevant de la santé des végétaux, pour toutes les variétés d’une espèce donnée dans la zone de culture.
+
+[^13a-1]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 14
 
-**Cueillette de plantes sauvages**
+**Cueillette de plantes et d’algues sauvages[^14-1]**
 
 <sup>1</sup>
 
@@ -418,6 +440,11 @@ La cueillette de plantes et de parties de plantes sauvages comestibles qui pouss
 <sup>3</sup> Il convient de documenter soigneusement la cueillette.
 
 <sup>4</sup> La procédure de contrôle prévue pour les exploitations biologiques est applicable par analogie.
+
+<sup>5</sup> Le DEFR peut édicter d’autres dispositions concernant les exigences relatives à la cueillette d’algues sauvages et à la procédure de contrôle applicable.[^14-2]
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^14-2]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 ### Section 4 Garde d’animaux de rente
 
@@ -438,7 +465,7 @@ Le DEFR peut édicter des dispositions supplémentaires sur:
 <sup>3</sup> Il peut édicter des dispositions sur la garde des autres catégories d’animaux de rente.[^15-4]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^15-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^15-3]: Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^15-4]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
 
@@ -460,17 +487,19 @@ En accord avec l’organisme de certification, peuvent toutefois être gardés a
 [^15a-1]: Introduit par le ch. I de l’O du 23 août 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 [^15a-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 [^15a-3]: Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^15a-4]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15a-4]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^15a-5]: Abrogé par le ch. I de l’O du 18 nov. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 15b
 
 **Estivage**[^15b-1]
 
-En cas d’estivage, les animaux doivent être estivés dans des exploitations biologiques. Ils peuvent, dans certains cas, être estivés dans des exploitations répondant aux exigences fixées aux art. 26 à 34 OPD[^15b-2].
+<sup>1</sup> En cas d’estivage, les exigences des art. 26 à 33 OPD[^15b-2] doivent être respectées. Si possible, les animaux doivent être estivés dans des exploitations biologiques.
 
-[^15b-1]: Introduit par le ch. I de l’O du 7 nov. 2001 ([RO 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^15b-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+<sup>2</sup> Si des animaux ne sont pas estivés dans des exploitations biologiques, il faut veiller à ce que les produits fabriqués conformément à la présente ordonnance ne soient désignés en tant que produits biologiques que s’il est prouvé qu’un flux de marchandises distinct est garanti.
+
+[^15b-1]: Introduit par le ch. I de l’O du 7 nov. 2001 ([RO 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^15b-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 16
 
@@ -501,11 +530,11 @@ En dérogation au principe fixé à l’art. 3, let. c, le DEFR peut autoriser l
 
 <sup>5</sup> L’incorporation d’aliments pour animaux provenant d’exploitations en reconversion est autorisée, à concurrence de 30 % en moyenne de la matière sèche contenue dans la ration alimentaire de chaque catégorie d’animaux. Lorsque ces aliments proviennent de l’exploitation, ce chiffre peut être porté à 60 %, et à 100 % lorsqu’il s’agit d’une exploitation en reconversion.[^16a-5]
 
-<sup>6</sup> S’il est prouvé que la production fourragère a subi des pertes notamment en raison de conditions atmosphériques exceptionnelles, le détenteur d’animaux directement concerné peut, après approbation écrite de l’organisme de certification, utiliser pendant une durée limitée des aliments non biologiques, à condition de démontrer de manière crédible à l’organisme précité que des aliments biologiques ne sont pas disponibles en quantité suffisante. Si des régions entières sont touchées par des pertes de production fourragère, l’OFAG peut accorder son approbation par région.[^16a-6]
+<sup>6</sup> S’il est prouvé que la production fourragère a subi des pertes notamment en raison de conditions atmosphériques exceptionnelles, le détenteur d’animaux directement concerné peut, après approbation écrite de l’organisme de certification, utiliser pendant une durée limitée des aliments non biologiques, à condition de démontrer de manière crédible à l’organisme précité que des aliments biologiques ne sont pas disponibles en quantité suffisante. Si des régions entières sont touchées par des pertes de production fourragère, l’Office fédéral de l’agriculture (OFAG) peut accorder son approbation par région.[^16a-6]
 
 <sup>7</sup> Les composants des aliments pour animaux doivent être laissés à l’état naturel et les techniques utilisées pour la préparation des aliments doivent être, dans toute la mesure du possible, en accord avec la nature et consommer peu d’énergie. Les aliments pour animaux ne doivent pas contenir de traces d’organismes génétiquement modifiés ni de traces de produits dérivés d’organismes génétiquement modifiés dont la part dépasse les limites supérieures fixées pour les impuretés inévitables dans la législation relative aux aliments pour animaux.
 
-<sup>8</sup> Les animaux compris dans un troupeau transhumant ou les animaux estivés peuvent paître temporairement sur des surfaces exploitées de manière non biologique. La part en fourrage consommé durant cette période ne doit pas dépasser, en matière sèche, 10 % de la quantité annuelle totale de fourrage ingéré.[^16a-7]
+<sup>8</sup> Les ovins d’un troupeau transhumant peuvent paître temporairement sur des surfaces exploitées de manière non biologique. La part de fourrage consommé durant cette période ne doit pas dépasser, en matière sèche, 10 % de la quantité annuelle totale de fourrage ingéré.[^16a-7]
 
 <sup>9</sup> La part d’aliments non biologiques dans la consommation totale peut s’élever à 10 % pour les chevaux en pension.[^16a-8]
 
@@ -514,8 +543,8 @@ En dérogation au principe fixé à l’art. 3, let. c, le DEFR peut autoriser l
 [^16a-3]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 [^16a-4]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 [^16a-5]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16a-6]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)).
-[^16a-7]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^16a-6]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+[^16a-7]: Introduit par le ch. I de l’O du 14 nov. 2007 ([RO 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 [^16a-8]: Introduit par le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 16b
@@ -699,6 +728,20 @@ Pour la volaille, l’âge minimal d’abattage est de:
 <sup>3</sup> Il peut décider, pour certaines zones ou régions, que les produits qui en proviennent ne peuvent être commercialisés sous une désignation se référant à l’agriculture biologique.
 
 [^16h-1]: Introduit par le ch. I de l’O du 7 nov. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+
+### Section 5 Aquaculture
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+
+#### Art. 16h<sup>bis</sup>
+
+Le DEFR peut édicter des dispositions sur:
+
+- a. les exigences concernant la production et la sélection des algues qui sont cultivées dans l’aquaculture;
+- b. les exigences concernant la production, la provenance, l’alimentation et la santé des animaux d’aquaculture, ainsi que les pratiques de garde;
+- c. les procédures de contrôle applicables.
 
 ## Chapitre 2*a* Exigences en matière de transformation des denrées alimentaires et des aliments pour animaux
 
@@ -932,7 +975,7 @@ En ce qui concerne les arômes, les dénominations de l’art. 2, al. 2, ne peuv
 
 #### Art. 21a
 
-**Désignation des aliments pour animaux**[^21a-1]
+**Désignation des aliments pour animaux de rente[^21a-2]**[^21a-1]
 
 <sup>1</sup>
 
@@ -945,10 +988,11 @@ Les désignations visées à l’art. 2, al. 2, peuvent être utilisées pour l�
 <sup>2</sup> S’agissant des aliments transformés qui ne remplissent pas une des exigences de l’art, 1, let. b ou c, seule la mention «peut être utilisé dans l’agriculture biologique conformément à l’ordonnance sur l’agriculture biologique» est autorisée.
 
 [^21a-1]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^21a-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 21b
 
-**Autres exigences liés à la désignation des aliments pour animaux[^21b-2]**[^21b-1]
+**Autres exigences liées à la désignation des aliments pour animaux de rente[^21b-2]**[^21b-1]
 
 Les indications mentionnées à l’art. 21*a* doivent répondre aux exigences suivantes:
 
@@ -958,8 +1002,43 @@ Les indications mentionnées à l’art. 21*a* doivent répondre aux exigences s
 - d. elles doivent énumérer les désignations des matières premières d’aliments pour animaux provenant de la culture biologique ou d’une culture de reconversion.
 
 [^21b-1]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
-[^21b-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^21b-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 [^21b-3]: Abrogée par le ch. I de l’O du 18 nov. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 21b<sup>bis</sup>
+
+**Désignation des aliments pour animaux de compagnie**[^21bbis-1]
+
+<sup>1</sup>
+
+Les désignations visées à l’art. 2, al. 2, peuvent être utilisées dans la dénomination spécifique et dans les informations relatives à la composition des aliments transformés pour animaux de compagnie si les conditions suivantes sont réunies:
+
+- a. les aliments pour animaux satisfont aux exigences des art. 16*a*, al. 2 et 7, 16*k*<sup>bis</sup> et 16*l*;
+- b. au moins 95 % en poids des ingrédients d’origine agricole sont biologiques.
+
+<sup>2</sup>
+
+Les dénominations visées à l’art. 2, al. 2, peuvent être utilisées uniquement dans les informations relatives à la composition si les conditions suivantes sont réunies:
+
+- a. moins de 95 % en poids des ingrédients d’origine agricole sont biologiques;
+- b. les additifs pour l’alimentation animale et les auxiliaires technologiques utilisés pour la transformation de des aliments pour animaux sont tous autorisés selon l’art. 16*a*;
+- c. les aliments pour animaux satisfont aux exigences des art. 16*a*, al. 2 et 7, 16*k*<sup>bis</sup> et 16*l*.
+
+<sup>3</sup>
+
+Les désignations visées à l’art. 2, al. 2, peuvent être utilisées dans les informations relatives à la composition ou dans le même champ visuel que la dénomination spécifique si les conditions suivantes sont réunies:
+
+- a. l’ingrédient principal est un produit de la chasse ou de la pêche;
+- b. tous les autres ingrédients d’origine agricole sont exclusivement biologiques;
+- c. les aliments pour animaux satisfont aux exigences des art. 16*a*, al. 2 et 7, 16*k*<sup>bis</sup> et 16*l*.
+
+<sup>4</sup> Les informations relatives à la composition indiquent quelles matières premières d’aliments pour animaux sont biologiques.
+
+<sup>5</sup> Si une désignation est utilisée conformément à l’al. 2 ou 3, la référence au mode de production biologique ne peut apparaître qu’en relation avec les ingrédients biologiques. Les informations relatives à la composition doivent préciser le pourcentage total d’ingrédients biologiques par rapport à la quantité totale d’ingrédients d’origine agricole.
+
+<sup>6</sup> Les désignations et le pourcentage visés à l’al. 5 apparaissent dans une couleur, un format et un style de caractères identiques à ceux des autres informations relatives à la composition.
+
+[^21bbis-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 21c
 
@@ -1007,7 +1086,7 @@ Les produits importés peuvent être désignés comme produits biologiques:
 
 **Reconnaissance des organismes de certification et des autorités de contrôle en dehors de la liste des pays**[^23a-1]
 
-<sup>1</sup> Sont reconnus les organismes de certification et les autorités de contrôle qui ont été reconnus sur la base de la procédure visée à l’art. 46 du règlement d’exécution (UE) 2018/848[^23a-2] et figurent à l’annexe IV de la version applicable du règlement d’exécution 2021/2325[^23a-3]. Ils peuvent prouver que les produits importés remplissent les conditions fixées à l’art. 22, let. a.[^23a-4]
+<sup>1</sup> Sont reconnus les organismes de certification et les autorités de contrôle qui ont été reconnus sur la base de la procédure visée à l’art. 46 du règlement d’exécution (UE) 2018/848[^23a-2] et figurent à l’annexe IV de la version applicable du règlement d’exécution 2021/1378[^23a-3]. Ils peuvent prouver que les produits importés remplissent les conditions fixées à l’art. 22, let. a.[^23a-4]
 
 <sup>2</sup> L’OFAG peut, sur demande, reconnaître, en les enregistrant dans une liste, d’autres organismes de certification et autorités de contrôle qui ne sont pas mentionnés dans la liste visée à l’al. 1, ni dans la liste visée à l’art. 23, si ceux-ci prouvent que les produits concernés remplissent les conditions fixées à l’art. 22.[^23a-5]
 
@@ -1030,9 +1109,9 @@ Les organismes de certification et les autorités de contrôle reconnus sont ten
 <sup>8</sup> Ils doivent présenter à l’OFAG un rapport annuel au plus tard le 31 mars.
 
 [^23a-1]: Introduit par le ch. I de l’O du 18 nov. 2009 ([RO 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^23a-2]: Cf. note de bas de page relative à l’art. 22, let. b.
-[^23a-3]: Règlement d’exécution (UE) 2021/2325 de la Commission du 16 décembre 2021 établissant, conformément au règlement (UE) 2018/848 du Parlement européen et du Conseil, la liste des pays tiers et la liste des autorités et organismes de contrôle reconnus en vertu de l’article 33, paragraphes 2 et 3, du règlement (CE) n<sup>o</sup> 834/2007 du Conseil aux fins de l’importation de produits biologiques dans l’Union. Version du JO L 465 du 29.12.2021, p. 8.
-[^23a-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^23a-2]: Règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l’étiquetage des produits biologiques, et abrogeant le règlement (CE) n<sup>o</sup> 834/2007 du Conseil, version du JO L 150 du 14.6.2018, p. 1, modifié en dernier lieu par le règlement délégué (UE) 2023/207 JO L 29 du 1.2.2023, p. 6.
+[^23a-3]: Règlement d’exécution (UE) 2021/1378 de la Commission du 19 août 2021 établissant certaines règles relatives au certificat délivré aux opérateurs, groupes d’opérateurs et exportateurs de pays tiers qui prennent part à l’importation de produits biologiques et en conversion dans l’Union et dressant la liste des autorités de contrôle et des organismes de contrôle reconnus conformément au règlement (UE) 2018/848 du Parlement européen et du Conseil (Texte présentant de l’intérêt pour l’EEE). Version du JO L 297 du 20.8.2021, p. 24; modifié en dernier lieu par le règlement d’exécution (UE) 2024/2794, JO L, 2024/2794, 4.11.2024.
+[^23a-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687), [721](https://fedlex.data.admin.ch/eli/oc/2024/721)).
 [^23a-5]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 [^23a-6]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 [^23a-7]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
@@ -1084,11 +1163,13 @@ L’entreprise s’engage:
 - e. au cas où l’entreprise ou ses sous-traitants changent d’organisme de certification, à accepter la transmission de leur dossier de contrôle à l’organisme de certification suivant;
 - f. au cas où l’entreprise ou ses sous-traitants se retirent du système de contrôle, à en informer immédiatement les autorités compétentes concernées et l’organisme de certification;
 - g. au cas où l’entreprise ou ses sous-traitants se retirent du système de contrôle, à accepter que son dossier de contrôle soit conservé pendant au moins cinq ans;
-- h. à informer immédiatement l’organisme de certification concerné de toute irrégularité ou infraction qui compromet le statut biologique de son produit ou de produits biologiques qu’elle a acquis auprès d’autres entreprises ou de sous-traitants.
+- h. à informer immédiatement l’organisme de certification concerné de toute irrégularité ou infraction qui compromet le statut biologique de son produit ou de produits biologiques qu’elle a acquis auprès d’autres entreprises ou de sous-traitants;
+- i.[^24abis-2] au cas où elle emploie, dans des denrées alimentaires et aliments pour animaux biologiques, des produits et substances non biologiques présentant un risque de point de vue de la présence d’organismes ou de produits visés à l’art. 3, let. c, ch. 1 à 3, à obtenir de la part du vendeur une attestation selon laquelle les produits et substances concernés ne sont pas des organismes génétiquement modifiés et qu’ils ne sont pas dérivés d’organismes génétiquement modifiés ou obtenus au moyen de tels organismes.
 
 <sup>2</sup> L’entreprise s’engage par écrit à satisfaire aux obligations mentionnées à l’al. 1. La description et les mesures visées à l’annexe 1, ch. 1.1, al. 1, doivent en outre figurer dans cette déclaration.
 
 [^24abis-1]: Introduit par le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^24abis-2]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 25
 
@@ -1187,7 +1268,7 @@ Les organismes de certification doivent, sur demande, être autorisés par l’O
 <sup>4</sup> L’OFAG peut suspendre ou retirer l’autorisation d’un organisme de certification si celui-ci ne répond pas aux exigences et charges. Il informe immédiatement le Service d’accréditation suisse (SAS) de sa décision.
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^28-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^28-2]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 29
 
@@ -1278,17 +1359,19 @@ Les organismes de certification fournissent à l’OFAG une documentation sur la
 Sont considérés comme catégories de produits:
 
 - a. les végétaux et produits végétaux non transformés, y compris les semences et autre matériel de multiplication végétal;
-- b. les animaux et produits animaux non transformés;
-- c. les produits agricoles transformés destinés à l’alimentation humaine;
-- d. les aliments pour animaux;
-- e. le vin;
-- f. les autres produits.
+- b. les animaux et les produits animaux non transformés;
+- c. les algues et les produits non transformés de l’aquaculture;
+- d. les produits agricoles transformés et les produits transformés de l’aquaculture, destinés à l’alimentation humaine;
+- e. les aliments pour animaux;
+- f. le vin;
+- g. les autres produits.[^30ater-2]
 
 <sup>3</sup> Le certificat peut être également délivré par voie électronique à condition que son authenticité soit garantie par une méthode électronique infalsifiable et reconnue.
 
 <sup>4</sup> Les organismes de certification sont tenus de publier une liste commune actualisée des certificats valables. L’OFAG peut prescrire où les certificats doivent être publiés.
 
 [^30ater-1]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^30ater-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 30b
 
@@ -1436,27 +1519,35 @@ L’OFAG procède à une inspection annuelle auprès des organismes de certifica
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 [^33-2]: Nouvelle teneur selon l’annexe 2 ch. II 126 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^33-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 33a
 
-**Système d’information sur les semences et le matériel de multiplication végétatif issus de la culture biologique**
+**Système d’information sur les semences et le matériel de multiplication végétatif biologiques**[^33a-1]
 
 <sup>1</sup>
 
-L’Institut de recherche en agriculture biologique de Frick (IRAB) gère un système d’information «OrganicXseeds» sur les semences et le matériel de multiplication végétatif issus de la culture biologique. Ce système d’information permet:
+Le FiBL gère un système d’information sur les semences et le matériel de multiplication végétatif biologiques, à l’exception des plantules. Ce système d’information permet:
 
-- a. d’enregistrer le matériel de multiplication biologique; le fournisseur doit demander les nouveaux enregistrements;
-- b. de prouver que du matériel de multiplication biologique est disponible.
+- a. d’enregistrer les semences et le matériel de multiplication végétatif biologiques, sur demande du fournisseur;
+- b. d’attester de la disponibilité des semences et du matériel de multiplication végétatif biologiques;
+- c. de catégoriser les espèces, sous-espèces et usages selon leur degré de disponibilité;
+- d. de publier une liste des espèces, sous-espèces et variétés pour lesquelles il existe une quantité suffisante de semences et de matériel de multiplication végétatif biologiques;
+- e. de demander des autorisations d’exception pour les semences et le matériel de multiplication végétatif non biologiques, et
+- f. d’enregistrer les variétés et la quantité pour lesquelles une autorisation d’exception a été octroyée concernant des semences et du matériel de multiplication végétatif non biologiques.
 
-<sup>2</sup> Les utilisateurs peuvent accéder gratuitement au système d’information et télécharger des informations sur la disponibilité de matériel de multiplication biologique.
+<sup>2</sup> Les utilisateurs peuvent gratuitement accéder au système d’information et télécharger des informations sur la disponibilité.
 
 <sup>3</sup>
 
-Le DEFR définit notamment:
+Le DEFR peut notamment régler:
 
 - a. les conditions régissant l’enregistrement d’une variété dans le système d’information;
-- b. les modalités d’accès aux données.
+- b. les modalités d’accès aux données;
+- c. le type de catégorisation des variétés;
+- d. la publication de la liste visée à l’al. 1, let. d.
+
+[^33a-1]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
 
 #### Art. 34
 
@@ -1483,13 +1574,13 @@ Le DEFR définit notamment:
 <sup>2</sup> Si l’OFAG constate des infractions concernant les aliments pour animaux, il prend les mesures administratives nécessaires. Il informe l’organe cantonal compétent de contrôle des denrées alimentaire et les organismes de certification.
 
 [^34a-1]: Introduit par le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
-[^34a-2]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^34a-2]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 ### Section 2 Modification du droit en vigueur
 
 #### Art. 35
 
-[^35-1]
+…[^35-1]
 
 [^35-1]: Les mod. peuvent être consultées au [RO 1997 2498](https://fedlex.data.admin.ch/eli/oc/1997/2498_2498_2498).
 
@@ -1528,7 +1619,7 @@ Le DEFR définit notamment:
 <sup>4</sup> L’organisme de certification notifie à l’OFAG les exploitations visées à l’al. 1 dès le début de la procédure de contrôle.[^38-6]
 
 [^38-1]: Nouvelle teneur selon le ch. IV 59 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^38-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^38-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^38-3]: Nouvelle teneur selon l’annexe 9 ch. 14 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^38-4]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
 [^38-5]: Abrogé par le ch. IV 59 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
@@ -1655,6 +1746,16 @@ Les certificats visés à l’art. 30*a*<sup>ter</sup> de l’ancien droit peuve
 
 [^39n-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
+#### Art. 39o
+
+**Dispositions transitoires relatives à la modification du 6 novembre 2024**[^39o-1]
+
+<sup>1</sup> La notification visée à l’art. 13*a*, al. 4, est facultative jusqu’au 31 décembre 2029 pour les plantes ornementales, les semences pour les surfaces de promotion de la biodiversité, les plantes médicinales, les fines herbes et les plantes aromatiques, ainsi que pour les légumes.
+
+<sup>2</sup> Les aliments biologiques pour animaux de compagnie peuvent être produits et désignés selon l’ancien droit jusqu’au 31 décembre 2025. Les stocks existants au 31 décembre 2025 peuvent être écoulés jusqu’à leur épuisement.
+
+[^39o-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 687](https://fedlex.data.admin.ch/eli/oc/2024/687)).
+
 ### Section 4 Entrée en vigueur
 
 #### Art. 40
@@ -1763,7 +1864,7 @@ Les cahiers de culture sont établis sous la forme d’un registre et tenus en p
 - b. qui ne sont pas inscrits pour les contributions selon l’art. 62, al. 2 ou, s’agissant des lapins, al. 1, OPD, et
 - c. dont les produits ne sont pas commercialisés.
 
-[^annex1-lvl3-lvl31-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex1-lvl3-lvl31-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 3.2 Identification des animaux
 
@@ -1779,7 +1880,7 @@ Tout détenteur d’animaux doit tenir une liste des animaux qui sont gardés da
 - d. en ce qui concerne l’alimentation: le type d’aliments, y compris les compléments alimentaires, la proportion des différentes composantes de la ration, les périodes d’accès aux espaces de plein air, les périodes de transhumance s’il existe des restrictions dans ce domaine;
 - e. le journal des traitements visé à l’art. 16*d*, al. 4.
 
-[^annex1-lvl3-lvl33-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^annex1-lvl3-lvl33-1]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 ## 4 Préparation de produits végétaux et animaux et de denrées alimentaires
 
