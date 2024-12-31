@@ -3,22 +3,22 @@ canton: TG
 number: "187.22"
 title: Verordnung der Evangelischen Synode des Kantons Thurgau über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Evangelischen Landeskirche
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-12-06
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-06-24
 adopted: 2021-12-06
 in_force: 2022-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.22"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2423/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2849/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung der Evangelischen Synode des Kantons Thurgau über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Evangelischen Landeskirche
 
-V der Evang. Synode - Besoldung
+Besoldungsverordnung Evangelische Synode
 
-vom 06.12.2021 (Stand 01.01.2022)
+vom 06.12.2021 (Stand 01.01.2025)
 
 ## I. Allgemeine Bestimmungen
 
@@ -168,9 +168,15 @@ vom 06.12.2021 (Stand 01.01.2022)
 
 **Religions- und Konfirmationsunterricht**
 
-<sup>1</sup> Im Gemeindepfarramt ist grundsätzlich die Erteilung des gesamten Konfirmationsunterrichtes sowie von vier Wochenlektionen Religionsunterricht inbegriffen.
+<sup>1</sup> Im Gemeindepfarramt ist die Erteilung des Konfirmationsunterrichts und von vier Wochenlektionen Religionsunterricht inbegriffen.
 
-<sup>2</sup> Eine Wochenlektion entspricht 3,75 Lohnprozenten. Die Aufsichtskommission kann bei einem tieferen Pensum entsprechende Lohnkürzungen vornehmen oder ohne Besoldungsfolgen durch die Festlegung anderer Arbeitsschwerpunkte von der Richtzahl abweichen.
+<sup>2</sup> Der Konfirmationsunterricht entspricht mit einem Lager/Wochenende 10-15 Stellenprozenten. Eine Wochenlektion Religionsunterricht entspricht 3.75 Stellenprozenten.
+
+<sup>3</sup> Die Aufsichtskommission kann ohne Besoldungsfolgen durch die Festlegung anderer Arbeitsschwerpunkte von der Richtzahl abweichen.
+
+<sup>4</sup> Die Aufsichtskommission kann bei einem tieferen Pensum eine Lohnkürzung vornehmen.
+
+<sup>5</sup> Bei gewählten Pfarrpersonen ist eine Lohnkürzung nur auf den Beginn einer neuen Amtszeit mit einer Frist von sechs Monaten vor Ablauf der Amtszeit möglich. Bei angestellten Pfarrpersonen ist eine Lohnkürzung jederzeit mit einer Frist von 6 Monaten möglich.
 
 #### § 18
 
