@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2015 über die Finanzmarktinfrastrukturen un
 short: FinfraV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/de"
 
 (Finanzmarktinfrastrukturverordnung, FinfraV)
 
-vom 25. November 2015 (Stand am 1. Januar 2023)
+vom 25. November 2015 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -938,7 +938,7 @@ Die zentrale Gegenpartei ermöglicht den Teilnehmern, ihre Erfüllungsrisiken zu
 
 ### (Art. 51 FinfraG)
 
-<sup>1</sup> Die zentrale Gegenpartei muss Kreditrisiken, nicht gegenparteibezogene Risiken, Marktrisiken und operationelle Risiken mit Eigenmitteln von 8,0 Prozent (Mindest-eigenmittel) nach Artikel 42 ERV[^48-1] unterlegen. Die FINMA kann nach Artikel 45 ERV weitere Eigenmittel verlangen. Für die Berechnung gelten der 1.–3. Titel der ERV.[^48-2]
+<sup>1</sup> Die zentrale Gegenpartei muss über Mindesteigenmittel in der Höhe von 8,0 Prozent nach Artikel 42 Absatz 1 Buchstabe b ERV[^48-1] verfügen.[^48-2] Die FINMA kann nach Artikel 45 ERV weitere Eigenmittel verlangen. Für die Berechnung gelten der 1.–3. Titel der ERV.[^48-3]
 
 <sup>2</sup> Die zugeordneten Eigenmittel nach Artikel 53 Absatz 2 Buchstabe c FinfraG betragen mindestens 25 Prozent der erforderlichen Eigenmittel nach dem 3. Titel der ERV.
 
@@ -951,7 +951,8 @@ Die zentrale Gegenpartei ermöglicht den Teilnehmern, ihre Erfüllungsrisiken zu
 <sup>6</sup> Unterschreiten ihre Eigenmittel 110 Prozent der Anforderungen nach den Absätzen 1–4, so unterrichtet die zentrale Gegenpartei umgehend die FINMA und ihre Prüfgesellschaft und übermittelt der FINMA einen Plan, der darstellt, wie die Grenze wieder eingehalten werden kann.
 
 [^48-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^48-2]: Fassung gemäss Beilage Ziff. 2 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^48-2]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^48-3]: Fassung gemäss Beilage Ziff. 2 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 49
 
@@ -1049,12 +1050,13 @@ Der Zentralverwahrer ermöglicht den Teilnehmern, ihre Erfüllungsrisiken zu ver
 
 ### (Art. 66 FinfraG)
 
-<sup>1</sup> Der Zentralverwahrer muss Kreditrisiken, nicht gegenparteibezogene Risiken, Marktrisiken und operationelle Risiken mit Eigenmitteln von 8,0 Prozent (Mindest-eigenmittel) nach Artikel 42 ERV[^56-1] unterlegen. Die FINMA kann nach Artikel 45 ERV weitere Eigenmittel verlangen. Für die Berechnung gelten der 1.–3. Titel der ERV.[^56-2]
+<sup>1</sup> Der Zentralverwahrer muss über Mindesteigenmittel in der Höhe von 8,0 Prozent nach Artikel 42 Absatz 1 Buchstabe b ERV[^56-1] verfügen.[^56-2] Die FINMA kann nach Artikel 45 ERV weitere Eigenmittel verlangen. Für die Berechnung gelten der 1.–3. Titel der ERV.[^56-3]
 
 <sup>2</sup> Im Übrigen gilt Artikel 48 Absätze 3–6 sinngemäss.
 
 [^56-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^56-2]: Fassung gemäss Beilage Ziff. 2 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^56-2]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^56-3]: Fassung gemäss Beilage Ziff. 2 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 57
 
@@ -2115,12 +2117,12 @@ Zulässige Sicherheiten sind:
 - b. hochwertige Schuldverschreibungen, die von einer Zentralregierung, einer Zentralbank, einer öffentlich-rechtlichen Körperschaft mit dem Recht zur Erhebung von Steuern, der BIZ, dem Internationalen Währungsfonds, dem ESM und Multilateralen Entwicklungsbanken emittiert wurden;
 - c. hochwertige Schuldverschreibungen von Unternehmen;
 - d. hochwertige Pfandbriefe und gedeckte Schuldverschreibungen;
-- e. Aktien eines Hauptindexes gemäss Artikel 4 Buchstabe b ERV[^104-1] einschliesslich Wandelanleihen;
+- e.[^104-1] Aktien eines Hauptindexes nach Artikel 4 Absatz 1 Buchstabe b ERV[^104-2] einschliesslich Wandelanleihen;
 - f. Gold;
 - g. Geldmarktfonds;
-- h.[^104-2]
+- h.[^104-3]
 
-  Anteile an Effektenfonds nach Artikel 53 des Kollektivanlagengesetzes vom 23. Juni 2006[^104-3], wenn:
+  Anteile an Effektenfonds nach Artikel 53 des Kollektivanlagengesetzes vom 23. Juni 2006[^104-4], wenn:
 
   - 1\. die Anteile täglich bewertet werden, und
   - 2\. die Effektenfonds ausschliesslich in Vermögenswerte nach den Buchstaben a–g oder in Derivate investieren, die solche Vermögenswerte absichern.
@@ -2131,9 +2133,10 @@ Zulässige Sicherheiten sind:
 
 <sup>4</sup> Die Sicherheiten sind täglich neu zu bewerten.
 
-[^104-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^104-2]: Eingefügt durch Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^104-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^104-1]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^104-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^104-3]: Eingefügt durch Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^104-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 105
 
@@ -2606,7 +2609,7 @@ Die Pflicht zur Meldung an ein Transaktionsregister nach Artikel 104 FinfraG mus
 
 <sup>3</sup> In besonderen Fällen kann die FINMA die Fristen nach diesem Artikel erstrecken.
 
-[^130-1]: Fassung gemäss Ziff. I der V vom 30. Sept. 2022, in Kraft seit 1. Jan. 2023 (AS **20****22** 576).
+[^130-1]: Fassung gemäss Ziff. I der V vom 30. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 576](https://fedlex.data.admin.ch/eli/oc/2022/576)).
 [^130-2]: Fassung gemäss Ziff. I der V vom 14. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
 
 #### Art. 131
@@ -2710,10 +2713,13 @@ Anhang 2[^t-1]
 
 Legende für Kolonne «Validierung für T / P / B»:
 
-- T: Meldung einer einzelnen Transaktion[^annex2-lvlu1-1] Z: Zwingend
-- P: Meldung einer Position[^annex2-lvlu1-2] U: Unter Vorbehalt
-- B: Meldung einer Bewertung O: Optional
-- N: Nicht anwendbar
+T: Meldung einer einzelnen Transaktion[^annex2-lvlu1-1] Z: Zwingend
+
+P: Meldung einer Position[^annex2-lvlu1-2] U: Unter Vorbehalt
+
+B: Meldung einer Bewertung O: Optional
+
+N: Nicht anwendbar
 
 <table>
 <tr><th>Feld</th><th colspan="3">Zu meldende Angaben</th><th colspan="3">Validierung für T / P / B</th><th></th><th></th><th>Erlaubte Werte</th><th>Zusätzliche Ausführungen</th></tr>
@@ -2845,12 +2851,12 @@ Anhang 4[^t-2]
 
 ## Wertabschläge auf Sicherheiten
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^t-2]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
-<tr><td>Ratingklasse gemäss Anhängen 2–4 ERV[^annex4-lvlu1-1]</td><td>Restlaufzeit</td><td>Wertabschlag in % auf Sicherheiten in Bareinlagen</td><td>Wertabschläge in % auf Sicherheiten gemäss Art. 104 Abs. 1 Bst. b</td><td>Wertabschläge in % auf Sicherheiten gemäss Art. 104 Abs. 1 Bst. c und d</td><td>Wertabschläge in % auf Sicherheiten gemäss Art. 104 Abs. 1 Bst e und f</td><td>Wertabschläge für Effektenfonds</td></tr>
-<tr><td>n.a.</td><td>n.a.</td><td>0</td><td>n.a.</td><td>n.a.</td><td>15</td><td>Wertabschlag, der auf die investierten Vermögenswerte anwendbar ist (gewichteter Durchschnitt)</td></tr>
-<tr><td>1 oder 2 bzw. 1 für kurzfristige Schuldverschrei-bungen</td><td>≤ 1 Jahr</td><td>n.a.</td><td>0,5</td><td>1</td><td>n.a.</td><td></td></tr>
+<tr><th>Ratingklasse nach Anhang 2 und Art. 64a Abs. 2 ERV[^annex4-lvlu1-1]</th><th>Restlaufzeit</th><th>Wertabschlag in % auf Sicherheiten in Bareinlagen</th><th>Wertabschläge in % auf Sicherheiten nach Art. 104 Abs. 1 Bst. b</th><th>Wertabschläge in % auf Sicherheiten nach Art. 104 Abs. 1 Bst. c und d</th><th>Wertabschläge in % auf Sicherheiten nach Art. 104 Abs. 1 Bst. e und f</th><th>Wertabschläge für Effektenfonds</th></tr>
+<tr><td>n. a.</td><td>n. a.</td><td>0</td><td>n. a.</td><td>n. a.</td><td>15</td><td>gewichteter Durchschnitt der Wertabschläge, die auf die investierten Vermögenswerte anwendbar sind</td></tr>
+<tr><td>1 oder 2 bzw. 1 für kurzfristige Schuldverschreibungen</td><td>≤ 1 Jahr</td><td>n. a.</td><td>0,5</td><td>1</td><td>n. a.</td><td></td></tr>
 <tr><td></td><td>&gt; 1 Jahr und ≤ 5 Jahre</td><td></td><td>2</td><td>4</td><td></td><td></td></tr>
 <tr><td></td><td>&gt; 5 Jahre</td><td></td><td>4</td><td>8</td><td></td><td></td></tr>
 <tr><td>3 oder 4 bzw. 2 oder 3 für kurzfristige Schuldverschreibungen</td><td>≤ 1 Jahr</td><td></td><td>1</td><td>2</td><td></td><td></td></tr>
@@ -2859,7 +2865,7 @@ Anhang 4[^t-2]
 <tr><td>5</td><td>alle</td><td></td><td>15</td><td>Nicht anerkannt</td><td></td><td></td></tr>
 </table>
 
-Wertschriften, die in die Ratingklassen 6 oder 7 nach Anhang 2 ERV fallen würden, sind generell nicht als Sicherheiten anerkannt.
+Wertschriften mit mindestens einem Rating der Ratingklasse 6 oder 7 nach Anhang 2 ERV oder der Ratingklasse 4 nach Artikel 64*a* ERV sind nicht als Sicherheiten anerkannt.
 
 [^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 

@@ -4,11 +4,11 @@ title: "Ordinance of 25 November 2015 on Financial Market Infrastructures and Ma
 short: FinMIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: en
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Infrastructure Ordinance, FinMIO)
 
-of 25 November 2015 (Status as of 1 January 2023)
+of 25 November 2015 (Status as of 1 January 2025)
 
 The Swiss Federal Council
 
@@ -940,7 +940,7 @@ The central counterparty shall enable participants to eliminate their principal 
 
 ### (Art. 51 FinMIA)
 
-<sup>1</sup> The central counterparty must hold total capital in the amount 8.0% (minimum capital requirement) to underpin credit risks, non-counterparty-related risks, market risks and operational risks in accordance with Article 42 CAO[^48-1]. FINMA may demand additional capital in accordance with Article 45 CAO. Titles 1 to 3 CAO apply to the calculation.[^48-2]
+<sup>1</sup> The central counterparty must hold a minimum capital in the amount of 8.0% in accordance with Article 42 paragraph 1 letter b CAO[^48-1].[^48-2] FINMA may demand additional capital in accordance with Article 45 CAO. Titles 1 to 3 CAO apply to the calculation.[^48-3]
 
 <sup>2</sup> The dedicated capital in accordance with Article 53 paragraph 2 letter c FinMIA shall amount to at least 25% of the required capital set out in Title 3 CAO.
 
@@ -953,7 +953,8 @@ The central counterparty shall enable participants to eliminate their principal 
 <sup>6</sup> If its capital falls short of 110% of the requirements set out in paragraphs 1 to 4, the central counterparty shall immediately inform FINMA and its audit firm, and shall provide FINMA with a plan that sets out how the threshold can once again be adhered to.
 
 [^48-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^48-2]: Amended by Attachment No 2 to the O of 11 May 2016, in force since 1 July 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^48-2]: Amended by Annex No 5 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^48-3]: Amended by Attachment No 2 to the O of 11 May 2016, in force since 1 July 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 49
 
@@ -1049,14 +1050,15 @@ The central securities depository shall enable participants to eliminate their p
 
 **Capital adequacy**
 
-### (Art. 66 FinMIA)
+(Art. 66 FinMIA)
 
-<sup>1</sup> The central securities depository must hold total capital in the amount 8.0% (minimum capital requirement) to underpin credit risks, non-counterparty-related risks, market risks and operational risks in accordance with Article 42 CAO[^56-1]. FINMA may demand additional capital in accordance with Article 45 CAO. Titles 1 to 3 CAO apply to the calculation.[^56-2]
+<sup>1</sup> The central securities depository must hold a minimum capital in the amount of 8.0% in accordance with Article 42 paragraph 1 letter b CAO[^56-1].[^56-2] FINMA may demand additional capital in accordance with Article 45 CAO. Titles 1 to 3 CAO apply to the calculation.[^56-3]
 
 <sup>2</sup> For all other matters, Article 48 paragraphs 3 to 6 apply by analogy.
 
 [^56-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^56-2]: Amended by Attachment No 2 to the Ordinance of 11 May 2016, in force since 1 July 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^56-2]: Amended by Annex No 5 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^56-3]: Amended by Attachment No 2 to the Ordinance of 11 May 2016, in force since 1 July 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 57
 
@@ -2117,12 +2119,12 @@ The following count as admissible collateral:
 - b. high-quality debt securities issued by a central government, a central bank, a public-law entity with the right to levy taxes, the BIS, the International Monetary Fund, the ESM and multilateral development banks;
 - c. high-quality debt securities of companies;
 - d. high-quality mortgage bonds (*Pfandbriefe*) and other covered debt securities;
-- e. shares of a major index in accordance with Article 4 letter b CAO[^104-1], including convertible bonds;
+- e.[^104-1] shares in a major index in accordance with Article 4 paragraph 1 letter b CAO[^104-2], including convertible bonds;
 - f. gold;
 - g. money market funds;
-- h.[^104-2]
+- h.[^104-3]
 
-  Units in securities funds in accordance with Article 53 of the Federal Act of 23 June 2006[^104-3] on Collective Investment Schemes, if:
+  units in securities funds in accordance with Article 53 of the Federal Act of 23 June 2006[^104-4] on Collective Investment Schemes, if:
 
   - 1\. the units are valued daily, and
   - 2\. the securities funds invest solely in assets in accordance with letters a to g or in derivatives that hedge such assets.
@@ -2133,9 +2135,10 @@ The following count as admissible collateral:
 
 <sup>4</sup> The collateral must be valued anew each day.
 
-[^104-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^104-2]: Inserted by No I of the O of 5 July 2017, in force since 1 Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^104-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^104-1]: Amended by Annex No 5 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^104-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^104-3]: Inserted by No I of the O of 5 July 2017, in force since 1 Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^104-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 105
 
@@ -2850,10 +2853,10 @@ Annex 4[^t-2]
 
 ## Discounts (haircuts) on collateral
 
-[^t-2]: Amended by No II of the O of 5 July 2017, in force since 1 Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^t-2]: Amended by Annex No 5 of the O of 29 Nov 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
-<tr><td>Rating class as per Annexes 2 to 4 CA[^annex4-lvlu1-1]O</td><td>Term to maturity</td><td>Haircut on collateral in cash deposits in %</td><td>Haircuts on collateral as per Art. 104 para. 1 lit. b in %</td><td>Haircuts on collateral as per Art. 104 para. 1 lit. c and d in %</td><td>Haircuts on collateral as per Art. 104 para. 1 lit. e and f in %</td><td>Haircuts for securities funds</td></tr>
+<tr><td>Rating class as per Annex 2 and Art. 64*a* para. 2 CAO[^annex4-lvlu1-1]</td><td>Term to maturity</td><td>Haircut on collateral in cash deposits in %</td><td>Haircuts on collateral as per Art. 104 para. 1 lit. b in %</td><td>Haircuts on collateral as per Art. 104 para. 1 lit. c and d in %</td><td>Haircuts on collateral as per Art. 104 para. 1 lit. e and f in %</td><td>Haircuts for securities funds</td></tr>
 <tr><td>n.a.</td><td>n.a.</td><td>0</td><td>n.a.</td><td>n.a.</td><td>15</td><td>Haircut applicable to invested assets (weighted average)</td></tr>
 <tr><td>1 or 2, or 1 for short-dated debt securities</td><td>≤ 1 year</td><td>n.a.</td><td>0.5</td><td>1</td><td>n.a.</td><td></td></tr>
 <tr><td></td><td>&gt; 1 year and ≤ 5 years</td><td></td><td>2</td><td>4</td><td></td><td></td></tr>
@@ -2864,7 +2867,7 @@ Annex 4[^t-2]
 <tr><td>5</td><td>all</td><td></td><td>15</td><td>Not recognised</td><td></td><td></td></tr>
 </table>
 
-Securities that would be classified in rating classes 6 or 7 in accordance with Annex 2 CAO are generally not recognised as collateral.
+Securities with at least one rating in rating classes 6 or 7 in accordance with Annex 2 CAO or rating class 4 in accordance with Article 64a CAO are generally not recognised as collateral.
 
 [^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 

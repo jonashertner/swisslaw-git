@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2015 sulle infrastrutture del mercato finanzia
 short: OInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/it"
 
 (Ordinanza sull’infrastruttura finanziaria, OInFi)
 
-del 25 novembre 2015 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 25 novembre 2015 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -938,7 +938,7 @@ La controparte centrale consente ai partecipanti di evitare i rischi legati all�
 
 ### (art. 51 LInFi)
 
-<sup>1</sup> La controparte centrale deve coprire con fondi propri pari all’8 per cento (fondi propri minimi) i rischi di credito, i rischi senza controparte, i rischi di mercato e i rischi operativi secondo l’articolo 42 OFoP[^48-1]. La FINMA può esigere ulteriori fondi propri conformemente all’articolo 45 OFoP. Per il calcolo si applicano i titoli primo, secondo e terzo dell’OFoP.[^48-2]
+<sup>1</sup> La controparte centrale deve disporre di fondi propri minimi pari all’8,0 per cento secondo l’articolo 42 capoverso 1 lettera b OFoP[^48-1].[^48-2] La FINMA può esigere ulteriori fondi propri conformemente all’articolo 45 OFoP. Per il calcolo si applicano i titoli primo, secondo e terzo dell’OFoP.[^48-3]
 
 <sup>2</sup> I fondi propri dedicati di cui all’articolo 53 capoverso 2 lettera c LInFi ammontano almeno al 25 per cento dei fondi propri necessari secondo il titolo terzo dell’OFoP.
 
@@ -951,7 +951,8 @@ La controparte centrale consente ai partecipanti di evitare i rischi legati all�
 <sup>6</sup> Se i suoi fondi scendono al di sotto del 110 per cento dei requisiti di cui ai capoversi 1–4, la controparte centrale ne informa immediatamente la FINMA e la sua società di audit e trasmette alla FINMA un piano indicando come intende rispettare nuovamente il limite.
 
 [^48-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^48-2]: Nuovo testo giusta l’appendice n. 2 dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^48-2]: Nuovo testo giusta l’all. n. 5 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^48-3]: Nuovo testo giusta l’appendice n. 2 dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 49
 
@@ -1049,12 +1050,13 @@ Il depositario centrale consente ai partecipanti di evitare i rischi legati all�
 
 ### (art. 66 LInFi)
 
-<sup>1</sup> Il depositario centrale deve coprire con fondi propri pari all’8 per cento (fondi propri minimi) i rischi di credito, i rischi senza controparte, i rischi di mercato e i rischi operativi secondo l’articolo 42 OFoP[^56-1]. La FINMA può esigere ulteriori fondi propri conformemente all’articolo 45 OFoP. Per il calcolo si applicano i titoli primo, secondo e terzo dell’OFoP.[^56-2]
+<sup>1</sup> Il depositario centrale deve disporre di fondi propri minimi pari all’8,0 per cento secondo l’articolo 42 capoverso 1 lettera b OFoP[^56-1].[^56-2] La FINMA può esigere ulteriori fondi propri conformemente all’articolo 45 OFoP. Per il calcolo si applicano i titoli primo, secondo e terzo dell’OFoP.[^56-3]
 
 <sup>2</sup> Per il resto si applica per analogia l’articolo 48 capoversi 3–6.
 
 [^56-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^56-2]: Nuovo testo giusta l’appendice n. 2 dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^56-2]: Nuovo testo giusta l’all. n. 5 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^56-3]: Nuovo testo giusta l’appendice n. 2 dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 57
 
@@ -1343,7 +1345,7 @@ Esso registra tutte le modifiche dei dati comunicati, indicando:
 
 ### (art. 76 LInFi)
 
-<sup>1</sup>
+<sup>1</sup> <sub>2</sub> I dati devono essere facilmente accessibili al pubblico.
 
 Il repertorio di dati sulle negoziazioni pubblica almeno settimanalmente le posizioni aperte, il volume delle transazioni e i valori per le seguenti categorie di derivati:
 
@@ -1353,8 +1355,6 @@ Il repertorio di dati sulle negoziazioni pubblica almeno settimanalmente le posi
 - d. derivati su azioni;
 - e. derivati su tassi d’interesse;
 - f. altri derivati.
-
-<sup><sub>2</sub></sup> I dati devono essere facilmente accessibili al pubblico.
 
 <sup>3</sup> I dati pubblicati non devono permettere di trarre conclusioni sulle parti contrattuali.
 
@@ -1437,9 +1437,7 @@ Il repertorio di dati sulle negoziazioni mette a disposizione di privati un modu
 
 <sup>1</sup> Il sistema di pagamento garantisce una compensazione e un regolamento corretti e conformi alla legge delle obbligazioni di pagamento.
 
-<sup><sub>2</sub></sup>
-
-Esso stabilisce il momento a partire dal quale:
+<sub>2</sub> Esso stabilisce il momento a partire dal quale:
 
 - a. un ordine di pagamento non può più essere modificato o revocato;
 - b. un pagamento è regolato.
@@ -1495,18 +1493,16 @@ Nel caso di sistemi di pagamento di rilevanza sistemica i fondi propri devono pe
 
 ### (art. 82 LInFi)
 
-<sup><sub>1</sub></sup>
+<sub>2</sub> Esso investe i propri mezzi finanziari esclusivamente in contanti o in strumenti finanziari liquidi con un basso rischio di credito e di mercato.
 
-Il sistema di pagamento deve disporre di liquidità di cui all’articolo 58 capoverso 1 sufficienti per:
+<sub>3</sub> Il sistema di pagamento verifica regolarmente il rispetto dei requisiti di cui al capoverso 1 sulla base di diversi scenari di stress. A tal fine, applica alla liquidità scarti di garanzia adeguati anche in condizioni di mercato estreme ma plausibili. Diversifica i sui fornitori di liquidità.
+
+<sub>4</sub> La strategia d’investimento del sistema di pagamento deve essere in linea con la sua strategia di gestione dei rischi. Il sistema di pagamento è tenuto a evitare i rischi di concentrazione.
+
+<sub>1</sub> Il sistema di pagamento deve disporre di liquidità di cui all’articolo 58 capoverso 1 sufficienti per:
 
 - a. far fronte alle proprie obbligazioni di pagamento in tutte le valute anche in caso di inadempienza del partecipante nei confronti del quale esso presenta l’esposizione maggiore, in condizioni di mercato estreme ma plausibili; e
 - b. poter fornire i propri servizi e svolgere le proprie attività in maniera regolamentare.
-
-<sup><sub>2</sub></sup> Esso investe i propri mezzi finanziari esclusivamente in contanti o in strumenti finanziari liquidi con un basso rischio di credito e di mercato.
-
-<sup><sub>3</sub></sup> Il sistema di pagamento verifica regolarmente il rispetto dei requisiti di cui al capoverso 1 sulla base di diversi scenari di stress. A tal fine, applica alla liquidità scarti di garanzia adeguati anche in condizioni di mercato estreme ma plausibili. Diversifica i sui fornitori di liquidità.
-
-<sup><sub>4</sub></sup> La strategia d’investimento del sistema di pagamento deve essere in linea con la sua strategia di gestione dei rischi. Il sistema di pagamento è tenuto a evitare i rischi di concentrazione.
 
 ### Capitolo 7: Vigilanza e sorveglianza
 
@@ -1565,9 +1561,7 @@ Sono istruzioni impartite da partecipanti segnatamente le istruzioni che:
 
 ### (art. 92 LInFi)
 
-<sup><sub>1</sub></sup>
-
-Possono essere differiti in particolare:
+<sub>1</sub> Possono essere differiti in particolare:
 
 - a. i contratti sull’acquisto, sulla vendita, sul riacquisto, sul prestito di valori mobiliari e diritti valori e sulla negoziazione di opzioni su valori mobiliari e diritti valori;
 - b. i contratti sull’acquisto e sulla vendita con futura fornitura di materie prime nonché sulla negoziazione di opzioni su materie prime o sulla fornitura di materie prime;
@@ -1846,13 +1840,13 @@ La comunicazione contiene le indicazioni di cui all’allegato 2.
 
 ### (art. 108 lett. a LInFi)
 
-<sup><sub>1</sub></sup> Le condizioni contrattuali devono essere confermate reciprocamente al più tardi il secondo giorno operativo successivo alla conclusione dell’operazione in derivati OTC.
+<sub>1</sub> Le condizioni contrattuali devono essere confermate reciprocamente al più tardi il secondo giorno operativo successivo alla conclusione dell’operazione in derivati OTC.
 
-<sup><sub>2</sub></sup> Le operazioni in derivati OTC concluse dopo le ore 16 devono essere confermate al più tardi il terzo giorno operativo successivo alla conclusione dell’operazione.
+<sub>2</sub> Le operazioni in derivati OTC concluse dopo le ore 16 devono essere confermate al più tardi il terzo giorno operativo successivo alla conclusione dell’operazione.
 
-<sup><sub>3</sub></sup> Per le transazioni complesse e le piccole controparti i termini si allungano di un giorno operativo.
+<sub>3</sub> Per le transazioni complesse e le piccole controparti i termini si allungano di un giorno operativo.
 
-<sup><sub>4</sub></sup> Le controparti possono concordare che un’operazione in derivati OTC è considerata confermata anche quando una di esse non faccia opposizione contro la conferma dell’altra.
+<sub>4</sub> Le controparti possono concordare che un’operazione in derivati OTC è considerata confermata anche quando una di esse non faccia opposizione contro la conferma dell’altra.
 
 #### Art. 96
 
@@ -1860,21 +1854,19 @@ La comunicazione contiene le indicazioni di cui all’allegato 2.
 
 ### (art. 108 lett. b LInFi)
 
-<sup><sub>1</sub></sup> Le modalità di riconciliazione del portafoglio devono essere concordate prima della conclusione di un’operazione in derivati OTC.
+<sub>1</sub> Le modalità di riconciliazione del portafoglio devono essere concordate prima della conclusione di un’operazione in derivati OTC.
 
-<sup><sub>2</sub></sup> La riconciliazione del portafoglio comprende le condizioni essenziali delle operazioni in derivati OTC concluse e la loro valutazione.
+<sub>2</sub> La riconciliazione del portafoglio comprende le condizioni essenziali delle operazioni in derivati OTC concluse e la loro valutazione.
 
-<sup><sub>3</sub></sup> Essa può essere effettuata da un terzo a cui le controparti hanno fatto ricorso.
+<sub>3</sub> Essa può essere effettuata da un terzo a cui le controparti hanno fatto ricorso.
 
-<sup><sub>4</sub></sup>
+<sub>5</sub> I derivati che secondo l’articolo 101 capoverso 3 lettera b LInFi non sono soggetti all’obbligo di compensazione non vengono inclusi nella determinazione delle operazioni in corso secondo il capoverso 4.
 
-La riconciliazione del portafoglio deve essere effettuata:
+<sub>4</sub> La riconciliazione del portafoglio deve essere effettuata:
 
 - a. ogni giorno operativo se tra le controparti sono in corso 500 o più operazioni in derivati OTC;
 - b. una volta alla settimana se tra le controparti sono in corso da 51 a 499 operazioni in derivati OTC in una data qualsiasi della settimana;
 - c. una volta ogni trimestre se tra le controparti sono in corso 50 o meno operazioni in derivati OTC in una data qualsiasi del trimestre.
-
-<sup><sub>5</sub></sup> I derivati che secondo l’articolo 101 capoverso 3 lettera b LInFi non sono soggetti all’obbligo di compensazione non vengono inclusi nella determinazione delle operazioni in corso secondo il capoverso 4.
 
 #### Art. 97
 
@@ -1882,11 +1874,9 @@ La riconciliazione del portafoglio deve essere effettuata:
 
 ### (art. 108 lett. c LInFi)
 
-<sup><sub>1</sub></sup> Il foro e il diritto applicabile in caso di eventuali controversie devono essere concordati al più tardi all’atto della conclusione di un’operazione in derivati OTC.
+<sub>1</sub> Il foro e il diritto applicabile in caso di eventuali controversie devono essere concordati al più tardi all’atto della conclusione di un’operazione in derivati OTC.
 
-<sup><sub>2</sub></sup>
-
-Nell’accordo devono essere definite procedure per:
+<sub>2</sub> Nell’accordo devono essere definite procedure per:
 
 - a. l’accertamento, la registrazione e la sorveglianza di controversie relative al riconoscimento o alla valutazione dell’operazione e allo scambio di garanzie tra le controparti; la registrazione deve comprendere almeno il tempo durante il quale la controversia è pendente, la controparte e l’importo contestato;
 - b. la risoluzione tempestiva delle controversie e per un processo specifico alle controversie che non sono risolte entro cinque giorni operativi.
@@ -1897,16 +1887,14 @@ Nell’accordo devono essere definite procedure per:
 
 ### (art. 108 lett. d LInFi)
 
-<sup><sub>1</sub></sup> È possibile rinunciare a una compressione del portafoglio nella misura in cui non comporti alcuna riduzione significativa del rischio di controparte e la controparte obbligata sia in grado di documentarlo almeno ogni sei mesi.
+<sub>1</sub> È possibile rinunciare a una compressione del portafoglio nella misura in cui non comporti alcuna riduzione significativa del rischio di controparte e la controparte obbligata sia in grado di documentarlo almeno ogni sei mesi.
 
-<sup><sub>2</sub></sup>
+<sub>3</sub> È inoltre possibile rinunciare a una compressione del portafoglio anche se il relativo onere risultasse sproporzionato rispetto alla prevista riduzione del rischio di controparte.
 
-La compressione del portafoglio non comporta alcuna riduzione significativa del rischio di controparte in particolare se:
+<sub>2</sub> La compressione del portafoglio non comporta alcuna riduzione significativa del rischio di controparte in particolare se:
 
 - a. il portafoglio non comprende o comprende soltanto poche operazioni di pareggio («offset») effettuate con derivati OTC;
 - b. la compressione metterebbe a rischio l’efficacia dei processi e dei controlli di rischio interni.
-
-<sup><sub>3</sub></sup> È inoltre possibile rinunciare a una compressione del portafoglio anche se il relativo onere risultasse sproporzionato rispetto alla prevista riduzione del rischio di controparte.
 
 #### Art. 99
 
@@ -1914,23 +1902,17 @@ La compressione del portafoglio non comporta alcuna riduzione significativa del 
 
 ### (art. 109 LInFi)
 
-<sup><sub>1</sub></sup>
-
-Condizioni di mercato che impediscono la valutazione di un’operazione in derivati OTC sono date se:
+<sub>1</sub> Condizioni di mercato che impediscono la valutazione di un’operazione in derivati OTC sono date se:
 
 - a. il mercato è inattivo; o
 - b. la fascia di oscillazione delle stime plausibili del valore equo («fair value») è significativa e le probabilità delle diverse stime non possono essere sufficientemente valutate.
 
-<sup><sub>2</sub></sup>
-
-Il mercato è considerato inattivo per un’operazione in derivati OTC quando:
+<sub>2</sub> Il mercato è considerato inattivo per un’operazione in derivati OTC quando:
 
 - a. i prezzi quotati non sono disponibili facilmente né sistematicamente; e
 - b. i prezzi disponibili non sono riconducibili a transazioni di mercato effettuate regolarmente e nel rispetto delle usuali condizioni di mercato.
 
-<sup><sub>3</sub></sup>
-
-Se è consentita una valutazione in base a prezzi risultanti da un modello, il modello deve:
+<sub>3</sub> Se è consentita una valutazione in base a prezzi risultanti da un modello, il modello deve:
 
 - a. tenere conto di tutti i fattori che le controparti considererebbero nella definizione di un prezzo, utilizzando, per quanto possibile, anche le informazioni utili per la valutazione del mercato;
 - b. essere conforme ai modelli economici riconosciuti per la determinazione dei prezzi degli strumenti finanziari;
@@ -2095,7 +2077,7 @@ Se un’operazione rientra in più di una categoria di derivati secondo il capov
 
 <sup>5</sup> Le controparti finanziarie che applicano un approccio modello dei rischi di mercato autorizzato dalla FINMA secondo l’articolo 88 OFoP[^103-1] per il calcolo delle posizioni ponderate in funzione del rischio o che applicano un modello di mercato autorizzato dalla FINMA per il calcolo della solvibilità nel quadro del Test svizzero di solvibilità (SST) secondo gli articoli 50*a*–50*d* dell’ordinanza del 9 novembre 2005[^103-2] sulla sorveglianza possono calcolare il margine iniziale su questa base fino a quando non si sarà affermato un modello standard riconosciuto in tutto il settore e armonizzato a livello internazionale. La FINMA disciplina i criteri tecnici che devono essere soddisfatti dall’approccio modello o dal modello di mercato.
 
-<sup>6</sup> ...[^103-3]
+<sup>6</sup> …[^103-3]
 
 [^103-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 [^103-2]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
@@ -2115,12 +2097,12 @@ Sono garanzie consentite:
 - b. i titoli di credito di elevata qualità emessi da un governo centrale, da una banca centrale, da un ente di diritto pubblico competente per la riscossione delle imposte, dalla BRI, dal Fondo monetario internazionale, dal MESF e da banche multilaterali di sviluppo;
 - c. i titoli di credito di elevata qualità emessi da imprese;
 - d. le obbligazioni fondiarie di elevata qualità e i titoli di credito coperti;
-- e. le azioni di un indice principale secondo l’articolo 4 lettera b OFoP[^104-1], comprese le obbligazioni convertibili;
+- e.[^104-1] le azioni di un indice principale secondo l’articolo 4 capoverso 1 lettera b OFoP[^104-2], comprese le obbligazioni convertibili;
 - f. l’oro;
 - g. i fondi del mercato monetario;
-- h.[^104-2]
+- h.[^104-3]
 
-  le quote di fondi in valori mobiliari secondo l’articolo 53 della legge del 23 giugno 2006[^104-3] sugli investimenti collettivi se:
+  le quote di fondi in valori mobiliari secondo l’articolo 53 della legge del 23 giugno 2006[^104-4] sugli investimenti collettivi se:
 
   - 1\. le quote sono valutate quotidianamente, e
   - 2\. i fondi in valori mobiliari investono esclusivamente in valori patrimoniali secondo le lettere a–g o in derivati che coprono tali valori patrimoniali.
@@ -2131,9 +2113,10 @@ Sono garanzie consentite:
 
 <sup>4</sup> Le garanzie devono essere rivalutate giornalmente.
 
-[^104-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^104-2]: Introdotta dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^104-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^104-1]: Nuovo testo giusta l’all. n. 5 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^104-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^104-3]: Introdotta dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^104-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 105
 
@@ -2696,11 +2679,9 @@ Allegato 1
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-### …
+…[^annex1-lvlu1-1]
 
-[^annex1-lvlu1-lvlu1-1]
-
-[^annex1-lvlu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854).
+[^annex1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854).
 
 Allegato 2[^t-1]
 
@@ -2843,7 +2824,6 @@ Allegato 3
 - 2\.2 per NGR si intende il rapporto tra netto e lordo, calcolato dividendo il valore netto di sostituzione di un «netting set» con una controparte (dividendo) per il valore lordo di sostituzione dello stesso «netting set» (divisore);
 - 2\.3 per valore netto di sostituzione di un «netting set» si intende la somma dei valori di mercato di tutte le operazioni. Non sono ammessi valori negativi;
 - 2\.4 per valore lordo di sostituzione di un «netting set» si intende la somma dei valori di mercato di tutte le operazioni di cui agli articoli 109 LInFi e 99 OInFi indicati con valori positivi nel «netting set».
-- [tab]
 
 Allegato 4[^t-2]
 
@@ -2851,21 +2831,21 @@ Allegato 4[^t-2]
 
 ## Riduzioni di valore applicabili alle garanzie
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^t-2]: Nuovo testo giusta l’all. n. 5 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
-<tr><td>Classe di rating secondo gli allegati 2–4 OFoP[^annex4-lvlu1-1]</td><td>Durata residua</td><td>Riduzione di valore in % applicabile a garanzie sotto forma di versamenti in contanti</td><td>Riduzioni di valore in % applicabili a garanzie secondo l’art. 104 cpv. 1 lett. b</td><td>Riduzioni di valore in % applicabili a garanzie secondo l’art. 104 cpv. 1 lett. c e d</td><td>Riduzioni di valore in % applicabili a garanzie secondo l’art. 104 cpv. 1 lett. e ed f</td><td>Riduzioni di valore per i fondi in valori mobiliari</td></tr>
-<tr><td>n. a.</td><td>n. a.</td><td>0</td><td>n. a.</td><td>n. a.</td><td>15</td><td>Riduzione di valore applicabile ai valori patrimoniali investiti (media ponderata)</td></tr>
-<tr><td>1 o 2 oppure 1 per titoli di credito a breve termine</td><td>≤ 1 anno</td><td>n. a.</td><td>0,5</td><td>1</td><td>n. a.</td><td></td></tr>
+<tr><th>Classe di rating secondo l’allegato 2 e l’art. 64*a* cpv. 2 OFoP[^annex4-lvlu1-1]</th><th>Durata residua</th><th>Riduzione di valore in % applicabile a garanzie sotto forma di versamenti in contanti</th><th>Riduzioni di valore in % applicabili a garanzie secondo l’art. 104 cpv. 1 lett. b</th><th>Riduzioni di valore in % applicabili a garanzie secondo l’art. 104 cpv. 1 lett. c e d</th><th>Riduzioni di valore in % applicabili a garanzie secondo l’art. 104 cpv. 1 lett. e ed f</th><th>Riduzioni di valore per i fondi in valori mobiliari</th></tr>
+<tr><td>n. d.</td><td>n. d.</td><td>0</td><td>n. d.</td><td>n. d.</td><td>15</td><td>Media ponderata della riduzione di valore applicabile ai valori patrimoniali investiti</td></tr>
+<tr><td>1 o 2 oppure 1 per titoli di credito a breve termine</td><td>≤ 1 anno</td><td>n. d.</td><td>0,5</td><td>1</td><td>n. d.</td><td></td></tr>
 <tr><td></td><td>&gt; 1 anno e ≤ 5 anni</td><td></td><td>2</td><td>4</td><td></td><td></td></tr>
-<tr><td></td><td>≥ 5 anni</td><td></td><td>4</td><td>8</td><td></td><td></td></tr>
+<tr><td></td><td>&gt; 5 anni</td><td></td><td>4</td><td>8</td><td></td><td></td></tr>
 <tr><td>3 o 4 oppure 2 o 3 per titoli di credito a breve termine</td><td>≤ 1 anno</td><td></td><td>1</td><td>2</td><td></td><td></td></tr>
 <tr><td></td><td>&gt; 1 anno e ≤ 5 anni</td><td></td><td>3</td><td>6</td><td></td><td></td></tr>
-<tr><td></td><td>≥ 5 anni</td><td></td><td>6</td><td>12</td><td></td><td></td></tr>
+<tr><td></td><td>&gt; 5 anni</td><td></td><td>6</td><td>12</td><td></td><td></td></tr>
 <tr><td>5</td><td>qualsiasi durata</td><td></td><td>15</td><td>nessuna riduzione ammessa</td><td></td><td></td></tr>
 </table>
 
-I titoli che rientrerebbero nelle classi di rating 6 o 7 secondo l’allegato 2 OFoP di regola non sono riconosciuti come garanzie.
+I titoli con almeno un rating della classe di rating 6 o 7 secondo l’allegato 2 OFoP oppure della classe di rating 4 secondo l’articolo 64*a* OFoP non sono riconosciuti come garanzie.
 
 [^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 

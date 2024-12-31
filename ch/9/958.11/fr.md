@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2015 sur les infrastructures des marchés fina
 short: OIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/fr"
 
 (Ordonnance sur l’infrastructure des marchés financiers, OIMF)
 
-du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -938,7 +938,7 @@ La contrepartie centrale permet aux participants d’éviter les risques de règ
 
 ### (art. 51 LIMF)
 
-<sup>1</sup> La contrepartie centrale doit couvrir les risques de crédit, les risques non liés à une contrepartie, les risques de marché et les risques opérationnels par des fonds propres de 8,0 % (fonds propres minimaux) au sens de l’art. 42 OFR[^48-1]. La FINMA peut exiger d’autres fonds propres en vertu de l’art. 45 OFR. Le calcul est effectué en application des titres 1 à 3 de l’OFR.[^48-2]
+<sup>1</sup> La contrepartie centrale doit disposer de 8,0 % de fonds propres (fonds propres minimaux) au sens de l’art. 42, al. 1, let. b, OFR[^48-1].[^48-2] La FINMA peut exiger d’autres fonds propres en vertu de l’art. 45 OFR. Le calcul est effectué en application des titres 1 à 3 de l’OFR.[^48-3]
 
 <sup>2</sup> Les fonds propres spécialement affectés au sens de l’art. 53, al. 2, let. c, LIMF représentent au moins 25 % des fonds propres nécessaires selon le titre 3 de l’OFR.
 
@@ -951,7 +951,8 @@ La contrepartie centrale permet aux participants d’éviter les risques de règ
 <sup>6</sup> Si ses fonds propres sont inférieurs à 110 % des exigences énoncées aux al. 1 à 4, la contrepartie centrale en informe immédiatement la FINMA et sa société d’audit et communique à la FINMA un plan précisant comment elle entend atteindre à nouveau ce seuil.
 
 [^48-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^48-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^48-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^48-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 49
 
@@ -1049,12 +1050,13 @@ Le dépositaire central permet aux participants d’éviter les risques de règl
 
 ### (art. 66 LIMF)
 
-<sup>1</sup> Le dépositaire central doit couvrir les risques de crédit, les risques non liés à une contrepartie, les risques de marché et les risques opérationnels par des fonds propres de 8,0 % (fonds propres minimaux) au sens de l’art. 42 OFR[^56-1]. La FINMA peut exiger d’autres fonds propres en vertu de l’art. 45 OFR. Le calcul est effectué en application des titres 1 à 3 de l’OFR.[^56-2]
+<sup>1</sup> Le dépositaire central doit disposer de 8,0 % de fonds propres (fonds propres minimaux) au sens de l’art. 42, al. 1, let. b, OFR[^56-1].[^56-2] La FINMA peut exiger d’autres fonds propres en vertu de l’art. 45 OFR. Le calcul est effectué en application des titres 1 à 3 de l’OFR.[^56-3]
 
 <sup>2</sup> Pour le reste, l’art. 48, al. 3 à 6, s’applique par analogie.
 
 [^56-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^56-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^56-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^56-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 57
 
@@ -2115,12 +2117,12 @@ Les garanties autorisées sont:
 - b. les obligations de haute qualité émises par un gouvernement central, une banque centrale, une collectivité de droit public habilitée à percevoir des impôts, la BRI, le FMI, le MES et les banques multilatérales de développement;
 - c. les obligations de haute qualité émises par des entreprises;
 - d. les lettres de gage de haute qualité et les obligations garanties;
-- e. les actions d’un indice principal au sens de l’art. 4, let. b, OFR[^104-1], y compris les emprunts convertibles;
+- e.[^104-1] les actions d’un indice principal au sens de l’art. 4, al. 1, let. b, OFR[^104-2], y compris les emprunts convertibles;
 - f. l’or;
 - g. les fonds en instruments du marché monétaire;
-- h.[^104-2]
+- h.[^104-3]
 
-  les parts de fonds en valeurs mobilières au sens de l’art. 53 de la loi du 23 juin 2006 sur les placements collectifs[^104-3] si:
+  les parts de fonds en valeurs mobilières au sens de l’art. 53 de la loi du 23 juin 2006 sur les placements collectifs[^104-4] si:
 
   - 1\. les parts sont évaluées quotidiennement, et
   - 2\. les fonds en valeurs mobilières investissent exclusivement dans des actifs au sens des let. a à g, ou des dérivés qui couvrent de tels actifs.
@@ -2131,9 +2133,10 @@ Les garanties autorisées sont:
 
 <sup>4</sup> Les garanties doivent être réévaluées quotidiennement.
 
-[^104-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^104-2]: Introduite par le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^104-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^104-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^104-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^104-3]: Introduite par le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^104-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 105
 
@@ -2848,12 +2851,12 @@ Annexe 4[^t-2]
 
 ## Décotes sur les garanties
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^t-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
-<tr><td>Classe de notation selon les annexes 2 à 4 OFR[^annex4-lvlu1-1]</td><td>Échéance résiduelle</td><td>Décote en % sur les garanties en dépôts en numéraire</td><td>Décotes en % sur les garanties conformément à l’art. 104, al. 1, let. b</td><td>Décotes en % sur les garanties conformément à l’art. 104, al. 1, let. c et d</td><td>Décotes en % sur les garanties conformément à l’art. 104, al. 1, let. e et f</td><td>Décotes pour les fonds en valeurs mobilières</td></tr>
-<tr><td>n.i.</td><td>n.i.</td><td>0</td><td>n.i.</td><td>n.i.</td><td>15</td><td>Décote applicable sur les actifs investis (moyenne pondérée)</td></tr>
-<tr><td>1 ou 2, et 1 pour les obligations à court terme</td><td>≤ 1 an</td><td>n.i.</td><td>0.5</td><td>1</td><td>n.i.</td><td></td></tr>
+<tr><th>Classe de notation selon l’annexe 2 et l’art. 64*a*, al. 2, OFR[^annex4-lvlu1-1]</th><th>Échéance résiduelle</th><th>Décote en % sur les garanties en dépôts en numéraire</th><th>Décotes en % sur les garanties conformément à l’art. 104, al. 1, let. b</th><th>Décotes en % sur les garanties conformément à l’art. 104, al. 1, let. c et d</th><th>Décotes en % sur les garanties conformément à l’art. 104, al. 1, let. e et f</th><th>Décotes pour les fonds en valeurs mobilières</th></tr>
+<tr><td>n.i.</td><td>n.i.</td><td>0</td><td>n.i.</td><td>n.i.</td><td>15</td><td>Moyenne pondérée de la décote applicable aux actifs investis</td></tr>
+<tr><td>1 ou 2, et 1 pour les obligations à court terme</td><td>≤ 1 an</td><td>n.i.</td><td>0,5</td><td>1</td><td>n.i.</td><td></td></tr>
 <tr><td></td><td>&gt; 1 an et ≤ 5 ans</td><td></td><td>2</td><td>4</td><td></td><td></td></tr>
 <tr><td></td><td>&gt; 5 ans</td><td></td><td>4</td><td>8</td><td></td><td></td></tr>
 <tr><td>3 ou 4, et 2 ou 3 pour les obligations à court terme</td><td>≤ 1 an</td><td></td><td>1</td><td>2</td><td></td><td></td></tr>
@@ -2862,7 +2865,7 @@ Annexe 4[^t-2]
 <tr><td>5</td><td>tous</td><td></td><td>15</td><td>Non reconnus</td><td></td><td></td></tr>
 </table>
 
-Par principe, les titres qui relèveraient des classes de notation 6 ou 7 selon l’annexe 2 OFR ne sont pas reconnus comme des garanties.
+Les titres bénéficiant d’au moins une notation des classes de notation 6 ou 7 selon l’annexe 2 ou de la classe de notation 4 selon l’art. 64*a* OFR ne sont pas reconnus comme des garanties.
 
 [^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
