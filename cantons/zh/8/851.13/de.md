@@ -4,11 +4,10 @@ number: "851.13"
 title: Asylfürsorgeverordnung (AfV)
 short: AfV
 language: de
-version: "2020-08-01"
-nachtrag: "110"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2005-05-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_13-2005_05_25-2005_07_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_13-2005_05_25-2005_07_01-127.html"
 text: pdf
 ---
 
@@ -67,19 +66,22 @@ beschliesst:
 
 - d. das Verhalten der oder des Asylsuchenden gegenüber den zuständigen Behörden und Organisationen.
 
-#### § 4
-
-**Vollzug**
-
-Das kantonale Sozialamt vollzieht die dem Kanton in der Betreuung, Unterbringung und Unterstützung der Asylsuchenden übertragenen Aufgaben. Vorbehalten bleibt die Zuständigkeit des Amtes für Jugend und Berufsberatung gemäss § 13.
+<sup>3</sup> Für Schutzbedürftige ohne Aufenthaltsbewilligung und vorläufig Aufgenommene beträgt der Grundbedarf für den Lebensunterhalt mindestens 70% des Grundbedarfs der einheimischen Bevölkerung.[^3-1]
 
 **1**
 
-1.10. 20 - 110 § 5. Die Sicherheitsdirektion[^4-1] ist für die Aufsicht über die Betreuung, Unterbringung und Unterstützung von Asylsuchenden zuständig.
+- 1\. 1. 25 - 127 § 4. Das kantonale Sozialamt vollzieht die dem Kanton in der Betreuung, Unterbringung und Unterstützung der Asylsuchenden übertragenen Aufgaben. Vorbehalten bleibt die Zuständigkeit des Amtes für Jugend und Berufsberatung gemäss § 13.
+
+[^3-1]: Eingefügt durch RRB vom 25. September 2024 (OS 79, 470; ABl 2024-11-01). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 7
+[^3-2]: Fassung gemäss RRB vom 15. März 2006 (OS 61, 112; ABl 2006, 348). In Kraft seit 1. Mai 2006.
+
+#### § 5
+
+**Vollzug**
 
 **Aufsicht**
 
-[^4-1]: Fassung gemäss RRB vom 15. März 2006 (OS 61, 112; ABl 2006, 348). In Kraft seit 1. Mai 2006.
+Die Sicherheitsdirektion[^3-2] ist für die Aufsicht über die Betreuung, Unterbringung und Unterstützung von Asylsuchenden zuständig.
 
 ### II. Aufgaben von Kanton und Gemeinden
 
@@ -126,9 +128,11 @@ Kommt eine Gemeinde ihren Pflichten nicht nach, so ordnet das kantonale Sozialam
 
 <sup>2</sup> Der Regierungsrat legt die Beiträge auf der Grundlage der Leistungen des Bundes fest.
 
-<sup>3</sup> Die Beiträge für vorläufig Aufgenommene werden während längstens sieben Jahren ab der Einreise in die Schweiz vergütet.[^10-1] § 11.[^10-2] <sup>1</sup> Der Kanton sorgt für die Gesundheitsversorgung, insbesondere die Kranken- und Unfallversicherung der ganz oder teilweise sozialhilfeabhängigen Personen gemäss § 1 lit. a und b.
+<sup>3</sup> Die Beiträge für vorläufig Aufgenommene werden während längstens sieben Jahren ab der Einreise in die Schweiz vergütet.[^10-1]
 
 **Gesundheitsversorgung**
+
+§ 11.[^10-2] <sup>1</sup> Der Kanton sorgt für die Gesundheitsversorgung, insbesondere die Kranken- und Unfallversicherung der ganz oder teilweise sozialhilfeabhängigen Personen gemäss § 1 lit. a und b.
 
 <sup>2</sup> Die Gemeinden sorgen für die Gesundheitsversorgung, insbesondere die Kranken- und Unfallversicherung der ganz oder teilweise sozialhilfeabhängigen vorläufig Aufgenommenen.
 
@@ -169,6 +173,10 @@ Kommt eine Gemeinde ihren Pflichten nicht nach, so ordnet das kantonale Sozialam
 
 <sup>2</sup> Die Gemeinden sind verpflichtet, dem Kanton Veränderungen in den persönlichen Verhältnissen der Asylsuchenden unverzüglich zu melden. Sie haben dem Kanton die durch eine verspätete Meldung entstehenden Kosten zu ersetzen.
 
+**3**
+
+- 1\. 1. 25 - 127
+
 ### III. Pflichten der Asylsuchenden
 
 #### § 16
@@ -176,10 +184,6 @@ Kommt eine Gemeinde ihren Pflichten nicht nach, so ordnet das kantonale Sozialam
 **Wahrung von Ruhe und Ordnung**
 
 <sup>1</sup> Die Asylsuchenden sind verpflichtet, in den Unterkünften Ruhe und Ordnung zu wahren.
-
-**3**
-
-1.10. 20 - 110
 
 <sup>2</sup> Die Betreiberinnen und Betreiber von Asylunterkünften erlassen mit Genehmigung der für die Unterbringung zuständigen Behörde eine Hausordnung. Sie ergreifen Massnahmen, wenn dies zur Wahrung der Sicherheit des Betreuungspersonals, der Mitbewohnerinnen und Mitbewohner sowie zur Aufrechterhaltung der Ordnung in den Unterkünften notwendig ist.
 
@@ -245,15 +249,23 @@ Diese Verordnung tritt auf den 1. Juli 2005 in Kraft.
 
 Das Kantonale Sozialamt und die Gemeinden können die Leistungen an die vorläufig Aufgenommenen bis spätestens 30. April 2012 weiterhin nach dieser Verordnung bemessen.
 
+**5**
+
+- 1\. 1. 25 - 127
+
 ### Übergangsbestimmungen zur Änderung vom 25. Oktober 2017
 
 (OS 73, 10)
 
 I. Die Gemeinden können die Unterstützungsleistungen zugunsten der vorläufig Aufgenommenen noch längstens bis 30. Juni 2018 nach § 17 der Verordnung zum Sozialhilfegesetz vom 21. Oktober 1981 bemessen.
 
-**5**
+II. Die Leistungen des Kantons an die Gemeinden für Unterstützungsleistungen zugunsten von vorläufig Aufgenommenen richten sich bis zum 30. Juni 2018 nach §§ 44 und 45 des Sozialhilfegesetzes vom 14. Juni 1981.
 
-1.10. 20 - 110 II. Die Leistungen des Kantons an die Gemeinden für Unterstützungsleistungen zugunsten von vorläufig Aufgenommenen richten sich bis zum 30. Juni 2018 nach §§ 44 und 45 des Sozialhilfegesetzes vom 14. Juni 1981.
+### Übergangsbestimmung zur Änderung vom 25. September 2024
+
+(OS 79, 470)
+
+Die Gemeinden wenden den Mindestbetrag für den Grundbedarf für den Lebensunterhalt gemäss § 3 Abs. 3 spätestens nach drei Monaten nach Inkrafttreten der Verordnungsänderung an.
 
 ## Weitere Fussnoten
 
