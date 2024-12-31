@@ -4,13 +4,12 @@ number: "935.3"
 title: "Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken"
 short: GBB
 language: de
-version: 2022-09-01
-valid_until: 2024-12-31
-version_adopted: 2016-11-11
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2004-04-08
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.3"
-pdf: "https://lex.vs.ch/api/de/versions/3030/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3439/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3030/pdf_file"
 
 (GBB)
 
-vom 08.04.2004 (Stand 01.09.2022)
+vom 08.04.2004 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -270,7 +269,7 @@ verordnet:
 
 **Kantonaler Fonds für die Aus- und Weiterbildung**
 
-<sup>1</sup> Der kantonale Fonds für die Aus- und Weiterbildung ist ein Spezialfonds im Sinne des Finanzhaushaltgesetzes. Er wird gemäss Artikel 22 Absatz 1 des vorliegenden Gesetzes geäufnet, verzinst und trägt auch die durch seine Verwaltung anfallenden Kosten.
+<sup>1</sup> Der kantonale Fonds für die Aus- und Weiterbildung ist ein Spezialfinanzierungsfonds im Sinne des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle. Er wird gemäss Artikel 22 Absatz 1 des vorliegenden Gesetzes gespeist und trägt auch die durch seine Verwaltung anfallenden Kosten.
 
 <sup>2</sup> Die Mittel des kantonalen Fonds werden in Berücksichtigung der kantonalen Tourismuspolitik grundsätzlich zur Finanzierung der tatsächlich durchgeführten Aus- und Weiterbildungskurse und zur Förderung der Berufe in der Beherbergung und Bewirtung verwendet.
 

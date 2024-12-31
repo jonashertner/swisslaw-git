@@ -4,13 +4,12 @@ number: "935.3"
 title: "Loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées"
 short: LHR
 language: fr
-version: 2022-09-01
-valid_until: 2024-12-31
-version_adopted: 2016-11-11
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2004-04-08
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/935.3"
-pdf: "https://lex.vs.ch/api/fr/versions/3030/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3439/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3030/pdf_file"
 
 (LHR)
 
-du 08.04.2004 (état 01.09.2022)
+du 08.04.2004 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -270,7 +269,7 @@ ordonne:
 
 **Fonds cantonal pour la formation et la formation continue**
 
-<sup>1</sup> Le fonds cantonal pour la formation et la formation continue est un fonds spécial de financement au sens de la loi sur la gestion et le contrôle administratifs et financiers du canton. Il est alimenté selon l'article 22 alinéa 1 de la présente loi, rapporte des intérêts et assume également les frais engendrés par sa gestion.
+<sup>1</sup> Le fonds cantonal pour la formation et la formation continue est un fonds spécial de financement au sens de la loi sur la gestion et le contrôle administratifs et financiers du canton. Il est alimenté selon l'article 22 alinéa 1 de la présente loi et assume également les frais engendrés par sa gestion.
 
 <sup>2</sup> Les moyens du fonds cantonal sont utilisés, et ceci en respectant la politique cantonale du tourisme, en principe pour le financement des cours de formation et de formation continue effectivement dispensés et pour la valorisation des professions de l'hébergement et de la restauration.
 
