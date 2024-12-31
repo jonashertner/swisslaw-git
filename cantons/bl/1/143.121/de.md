@@ -3,24 +3,24 @@ canton: BL
 number: "143.121"
 title: Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-14
+version: 2025-01-01
+valid_until: 2025-04-14
+version_adopted: 2024-12-19
 adopted: 2018-01-24
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.121"
-pdf: "https://bl.clex.ch/api/de/versions/3837/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4462/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion
 
-Vom 24.01.2018 (Stand 01.01.2024)
+Vom 24.01.2018 (Stand 01.01.2025)
 
 Der Vorsteher der Volkswirtschafts- und Gesundheitsdirektion des Kantons Basel-Landschaft,
 
-gestützt auf § 48 Abs. 1 und 2 der Finanzhaushaltsverordnung vom 14. November 2017[^ingress-1] (Vo FHG),
+gestützt auf § 48 Abs. 1 und 2 der Finanzhaushaltsverordnung (Vo FHG) vom 14. November 2017[^ingress-1],
 
 beschliesst:
 
@@ -28,13 +28,13 @@ beschliesst:
 
 #### § 1
 
-**Allgemeine Zuständigkeiten ([§ 38 Abs. 1](https://bl.clex.ch/data/310.11/de/art38) Vo FHG)**
+**Allgemeine Zuständigkeiten ([§ 38 Abs. 1 Vo FHG](https://bl.clex.ch/data/310.11/de/art38))**
 
-<sup>1</sup> Die Dienststellenleitenden der Volkswirtschafts- und Gesundheitsdirektion sind zuständig für die Bewilligung:
+<sup>1</sup> Die Dienststellenleitenden der Volkswirtschafts- und Gesundheitsdirektion sind zuständig für die Bewilligung von:
 
-- a. von einmaligen Ausgaben bis CHF 300‘000.–;
-- b. von wiederkehrenden Ausgaben bis CHF 100‘000.–;
-- c. von Ausgaben für Beratungsdienstleistungen[^1-1] bis CHF 50‘000.–.
+- a. einmaligen Ausgaben bis CHF 300‘000.–;
+- b. wiederkehrenden Ausgaben bis CHF 100‘000.–;
+- c. Ausgaben für Beratungsdienstleistungen[^1-1] bis CHF 50‘000.–.
 
 <sup>2</sup> Die Ausgabenbewilligungszuständigkeiten innerhalb der Dienststellen werden in Anhang I dieses Reglements festgehalten.
 
@@ -45,11 +45,11 @@ beschliesst:
 
 <sup>3</sup> …
 
-[^1-1]: [§ 8 Abs. 2](https://bl.clex.ch/data/143.12/de/art8) der Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion.
+[^1-1]: [§ 8 Abs. 2 Dienstordnung VGD](https://bl.clex.ch/data/143.12/de/art8)
 
 #### § 2
 
-**Zahlungsanweisung ([§ 41 Abs. 1 Bst. b-l](https://bl.clex.ch/data/310.11/de/art41) Vo FHG)**
+**Zahlungsanweisung ([§ 41 Abs. 1 Bst. b-l Vo FHG](https://bl.clex.ch/data/310.11/de/art41))**
 
 <sup>1</sup> Folgende Ausgaben gelten durch die Zahlungsanweisung der finanziellen Prüferin oder des finanziellen Prüfers als bewilligt:
 
@@ -67,7 +67,7 @@ beschliesst:
 
 #### § 3
 
-**Besondere Zuständigkeiten ([§ 39 Abs. 2 und § 41 Abs. 1 Bst. a](https://bl.clex.ch/data/310.11/de/art39) Vo FHG)**
+**Besondere Zuständigkeiten ([§ 39 Abs. 2](https://bl.clex.ch/data/310.11/de/art39) und [§ 41 Abs. 1 Bst. a Vo FHG](https://bl.clex.ch/data/310.11/de/art41))**
 
 <sup>1</sup> Innerhalb der besonderen Zuständigkeit der Direktion gemäss § 39 Abs. 2 Vo FHG erfolgt die Bewilligung der Ausgaben in Form der Zahlungsanweisung der finanziellen Prüferin oder des finanziellen Prüfers für:
 
