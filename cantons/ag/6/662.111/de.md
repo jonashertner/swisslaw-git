@@ -4,13 +4,13 @@ number: "662.111"
 title: Gebührenverordnung
 short: GebührV
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-13
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2024-11-27
 adopted: 2024-03-13
 in_force: 2024-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/662.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3477/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3709/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3477/pdf_file"
 
 (GebührV)
 
-Vom 13.03.2024 (Stand 01.07.2024)
+Vom 13.03.2024 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -678,8 +678,10 @@ beschliesst:
 <sup>4</sup> Das LZL erhebt im Bereich des Weinbaus folgende Gebühren:
 
 - a) Behandlung von Gesuchen betreffend Neuanpflanzungen; nach Kosten — Fr. 150.– bis Fr. 1'000.–
-- b) sensorische Prüfung von AOC-Weinen durch die AOC-Kommission; pro Musterflasche — Fr. 70.–
-- c) für die Administration im Zusammenhang mit der zweiten sensorischen Prüfung und der Analyse von AOC-Weinen durch sachverständige Dritte; pro Musterflasche — Fr. 50.–
+- a<sup>bis</sup> Behandlung von Gesuchen betreffend Grand Cru-Parzellen; nach Kosten — Fr. 150.– bis Fr. 1'000.–
+- b) sensorische Prüfung von AOC- und Grand Cru-Weinen durch die AOC-Kommission; pro Musterflasche — Fr. 70.–
+- c) für die Administration im Zusammenhang mit der zweiten sensorischen Prüfung und der Analyse von AOC- und Grand Cru-Weinen durch sachverständige Dritte; pro Musterflasche — Fr. 50.–
+- d) Zusatzkosten bei verspätet eingereichten Meldungen oder Unterlagen und bei anderen besonderen Aufwendungen; nach Mehrkosten — Fr. 100.– bis Fr. 500.–
 
 ### 2.6. Aufgabenbereiche des Departements Gesundheit und Soziales (DGS)
 
