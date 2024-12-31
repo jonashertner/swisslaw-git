@@ -1,57 +1,69 @@
 ---
 canton: GR
 number: "370.310"
-title: "Ordinaziun davart indemnisaziuns, taxas ed expensas en daner blut dal post da mediaziun e da la dretgira da cumpromiss tenor la LItPMC"
+title: "Ordinaziun davart la salarisaziun da l'autoritad da mediaziun e da la dretgira da cumpromiss tenor la LItPMC"
 short: OSAD
 language: rm
-version: 2007-01-01
-corrected: 2014-10-09
-version_adopted: 2006-11-02
+version: 2025-01-01
+version_adopted: 2025-01-02
 adopted: 2025-01-02
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/370.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/131/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3506/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart indemnisaziuns, taxas ed expensas en daner blut dal post da mediaziun e da la dretgira da cumpromiss tenor la LItPMC
+# Ordinaziun davart la salarisaziun da l'autoritad da mediaziun e da la dretgira da cumpromiss tenor la LItPMC
 
-sa basond sin ils art. 7 ed 8 da la lescha introductiva tar la procedura da mediaziun e tar la procedura davant la dretgira da cumpromiss tenor il dretg federal d'assicuranza sociala (LItPMC)[^t-1] relaschada da la dretgira administrativa dal chantun Grischun ils 2 da november 2006
+(OSAD)
 
-[^t-1]: DG 370.300
+dals 02-01-2025 (versiun dals 01-01-2025)
+
+Sa basond sin l'art. 51a al. 3 da la Constituziun chantunala[^ingress-1] e sin l'art. 7 al. 3 da la Lescha introductiva tar la procedura da mediaziun e tar la procedura davant la dretgira da cumpromiss tenor il dretg federal d'assicuranza sociala[^ingress-2]
+
+relaschada da la Dretgira superiura ils 2 da schaner 2025
+
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-2]: DG [370.300](https://www.gr-lex.gr.ch/data/370.300/rm)
 
 #### Art. 1
 
-**Champ d'applicaziun**
+**Champ da validitad**
 
-Questa ordinaziun regla las indemnisaziuns, las taxas e las expensas en daner blut per il post da mediaziun e per la dretgira da cumpromiss tenor il dretg federal d'assicuranza sociala.
+<sup>1</sup> Questa ordinaziun regla la salarisaziun da las commembras e dals commembers da l'Autoritad da mediaziun per dumondas da l'assicuranza sociala e da la Dretgira da cumpromiss tenor il dretg federal d'assicuranza sociala.
 
 #### Art. 2
 
-**Indemnisaziuns**
+**Salarisaziun 1. autoritad da mediaziun**
 
-<sup>1</sup> Las sesidas, il studi da las actas sco er la redacziun da decisiuns, da rapports e.u.v. dal post da mediaziun vegnan indemnisads tenor il temp impundì effectivamain, e quai confurm a la tariffa fixada en l'artitgel 7 LItPMC[^2-1].
+<sup>1</sup> Las sesidas, il studi d'actas, la correspundenza, l'emissiun da decisiuns, da rapports e da chaussas sumegliantas da l'Autoritad da mediaziun per dumondas da l'assicuranza sociala vegnan indemnisads a norma dal temp impundì giustifitgà tenor la tariffa fixada en l'artitgel 7 alinea 1 da la Lescha introductiva tar la procedura da mediaziun e tar la procedura davant la dretgira da cumpromiss tenor il dretg federal d'assicuranza sociala[^2-1].
 
-<sup>2</sup> Per las sesidas e per il studi da las actas survegnan las commembras ed ils commembers da la dretgira da cumpromiss ina schurnada da 300 francs. Sch'il temp impundì inclusiv il temp da viadi n'importa betg dapli che 4 uras per di, vegn pajada ina mesa schurnada.
+<sup>2</sup> La fixaziun da la salarisaziun e da l'indemnisaziun da las expensas è chaussa da la cumissiun administrativa da la Dretgira superiura.
 
-[^2-1]: DG 370.300 1-1-2007 1
+[^2-1]: DG [370.300](https://www.gr-lex.gr.ch/data/370.300/rm)
 
 #### Art. 3
 
-**Indemnisaziun da las expensas**
+**2. dretgira da cumpromiss**
 
-Las spesas da viadi, d'alimentaziun e da pernottaziun sa drizzan tenor las disposiziuns da la legislaziun chantunala dal persunal.
+<sup>1</sup> La salarisaziun da las commembras e dals commembers designads da la dretgira da cumpromiss sa cumpona:
+
+- a) d'ina diaria, sche lur activitad giudiziala è colliada cun ina sesida;
+- b) d'ina bunificaziun da cooperaziun per fatschenta, sch'ellas ed els coopereschan ad ina decisiun circulara.
+
+<sup>2</sup> Per sesidas survegnan las commembras ed ils commembers designads da la dretgira da cumpromiss ina diaria che correspunda ad 1/21 dal salari mensil d'ina derschadra superiura u d'in derschader superiur tenor l'artitgel 21 alinea 1 litera c da la Lescha davart l'organisaziun giudiziala[^3-1]. Sche lur engaschament, inclusiv il temp da viadi, dura main che 4 uras per di, vegn pajada ina mesa diaria. Per il studi d'actas, da rapports e da sbozs da sentenzias durant auters dis survegnan ellas ed els ina diaria a norma dal temp impundì giustifitgà, resguardond l'impurtanza e la dimensiun da la chaussa en dispita.
+
+<sup>3</sup> Er la bunificaziun da cooperaziun per fatschenta tenor l'alinea 1 litera b vegn pajada a norma dal temp impundì giustifitgà, resguardond l'impurtanza e la dimensiun da la chaussa en dispita. Sia tariffa correspunda a la tariffa d'ina diaria tenor l'alinea 2. Quella cumpiglia la salarisaziun per il studi d'actas, dals rapports e dal sboz da la sentenzia.
+
+<sup>4</sup> La parsura u il parsura da la dretgira da cumpromiss è cumpetent per fixar ils imports tenor l'alinea 2 e l'alinea 3 da questa disposiziun.
+
+[^3-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 4
 
-**Taxas ed expensas en daner blut**
+**Indemnisaziun da las expensas**
 
-Per taxas e per expensas en daner blut valan mintgamai las disposiziuns e las tariffas ch'èn fixadas en l'ordinaziun davart las taxas e las expensas en daner blut da la dretgira administrativa.
+<sup>1</sup> Las spesas da viadi, d'alimentaziun e da pernottaziun sa drizzan tenor las disposiziuns dal dretg chantunal da persunal.
 
-#### Art. 5
-
-**Entrada en vigur**
-
-Questa ordinaziun entra en vigur il 1. da schaner 2007.
+2025-005
