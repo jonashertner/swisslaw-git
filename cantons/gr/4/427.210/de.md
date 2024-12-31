@@ -4,13 +4,12 @@ number: "427.210"
 title: Verordnung über Hochschulen mit kantonaler Trägerschaft
 short: VH
 language: de
-version: 2018-01-01
-corrected: 2019-09-01
-version_adopted: 2017-12-12
+version: 2025-01-01
+version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2843/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3804/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2843/pdf_file"
 
 (VH)
 
-Vom 08.07.2014 (Stand 01.01.2018)
+Vom 08.07.2014 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -47,8 +46,8 @@ von der Regierung erlassen am 8. Juli 2014
 - b) die Höhe der Gebühren;
 - c) die Organisation und Durchführung von Vorkursen;
 - d) die Zeichnungsberechtigungen und Vergütungen an den Hochschulrat, die Delegation von Aufgaben an die Hochschulleitung sowie die Mitwirkungsrechte der Hochschulangehörigen;
-- e) die Umsetzung der Bestimmungen des Bundesgesetzes über das Urheberrecht und verwandte Schutzrechte;
-- f) das Eignungsverfahren für Studiengänge mit Zulassungsbeschränkung gemäss Anhang.
+- e) die Umsetzung der Bestimmungen des Bundesgesetzes über das Urheberrecht und verwandte Schutzrechte.
+- f) …
 
 <sup>3</sup> Der Hochschulrat lässt die zeichnungsberechtigten Personen ins Handelsregister eintragen, wobei für Ausgaben durchwegs Kollektivunterschriften vorzusehen sind.
 
@@ -80,13 +79,13 @@ von der Regierung erlassen am 8. Juli 2014
 - d) Angaben zu Mobilien und Immobilien;
 - e) die Unterschrift der Präsidentin oder des Präsidenten des Hochschulrates und eines Mitgliedes der Regierung.
 
-<sup>3</sup> Ergänzungen des Leistungsauftrages mit Globalbeitrag während der Kontraktperiode werden mittels Sonderaufträgen vorgenommen, wobei der Sonderauftrag eine mit Anfang und Ende zeitlich befristete Leistung der Hochschule ist. Falls notwendig, kann die zeitliche Befristung des Sonderauftrages aufgehoben und in den Leistungsauftrag mit Globalbeitrag der nachfolgenden Kontraktperiode integriert werden.
+<sup>3</sup> Ergänzungen des Leistungsauftrags mit Globalbeitrag während der Kontraktperiode werden nur in nicht planbaren Fällen mittels Sonderaufträgen vorgenommen, wobei der Sonderauftrag eine mit Anfang und Ende zeitlich befristete Leistung der Hochschule ist. Falls notwendig, kann die zeitliche Befristung des Sonderauftrags aufgehoben und in den Leistungsauftrag mit Globalbeitrag der nachfolgenden Kontraktperiode integriert werden.
 
 #### Art. 6
 
-**Diplome und Titel**
+**Titel**
 
-<sup>1</sup> Die Anerkennung der Diplome und die Benennung der Titel richten sich nach den einschlägigen bundesrechtlichen Bestimmungen sowie den interkantonalen Vereinbarungen. Das Departement regelt die Umsetzung.
+<sup>1</sup> Die Benennung der Titel richtet sich nach den einschlägigen bundesrechtlichen Bestimmungen sowie den interkantonalen Vereinbarungen. Das Departement regelt die Umsetzung.
 
 ## 2. Leistungsbereich Lehre
 
@@ -116,9 +115,7 @@ von der Regierung erlassen am 8. Juli 2014
 
 #### Art. 10
 
-**Neue Diplomstudiengänge**
-
-<sup>1</sup> Die Einführung neuer Diplomstudiengänge sowie Kooperationen mit Kostenfolgen bedürfen der Genehmigung durch die Regierung. Vorbehalten bleiben bundesrechtliche Bestimmungen sowie interkantonale Vereinbarungen.
+**…**
 
 #### Art. 11
 
@@ -138,7 +135,9 @@ von der Regierung erlassen am 8. Juli 2014
 
 **Preisgestaltung für Dienstleistungen und Weiterbildungen**
 
-<sup>1</sup> Die direkten Kosten der Dienstleistungen und der Weiterbildung sind mindestens zu 125 Prozent zu decken (Deckungsbeitrag 1).
+<sup>1</sup> Die direkten Kosten der Dienstleistungen und der Weiterbildungen sind mindestens zu 125 Prozent zu decken (Deckungsbeitrag 1).
+
+<sup>2</sup> Vom Kanton vergebene Dienstleistungen und Weiterbildungen sind von der Regelung gemäss Absatz 1 ausgenommen.
 
 ## 4. Finanzierung
 
@@ -176,6 +175,16 @@ von der Regierung erlassen am 8. Juli 2014
 <sup>1</sup> Jahresgewinne sind zur Abdeckung künftiger Verluste den allgemeinen Reserven zuzuweisen.
 
 <sup>2</sup> Die allgemeinen Reserven dürfen insgesamt zwölf Prozent des Bruttoaufwandes nicht übersteigen. Wenn die allgemeinen Reserven den Maximalwert erreichen, ist der darüber hinaus ausbezahlte Kantonsbeitrag zurückzuzahlen.
+
+#### Art. 17a
+
+**Anteil am Globalbeitrag für die Organisationsentwicklung**
+
+<sup>1</sup> Der Anteil am Globalbeitrag für die Organisationsentwicklung der Hochschulen ist im Leistungsauftrag enthalten und beträgt maximal sechs Prozent des durchschnittlichen Bruttoaufwands der letzten vier Jahre.
+
+<sup>2</sup> Der Anteil ist in der Jahresrechnung unter den Reserven auszuweisen.
+
+<sup>3</sup> Nach jeder Leistungsauftragsperiode ist der verbleibende Anteil den allgemeinen Reserven unter Berücksichtigung der Einschränkung nach Artikel 17 Absatz 2 zuzuweisen.
 
 #### Art. 18
 
@@ -241,7 +250,7 @@ von der Regierung erlassen am 8. Juli 2014
 
 **Jahresbericht und Jahresrechnung**
 
-<sup>1</sup> Der Jahresbericht und die revidierte Jahresrechnung sind bis Mitte Mai des folgenden Jahres der Regierung zur Genehmigung zu unterbreiten. Im Jahresbericht sind die wichtigsten Leistungs- und Finanzdaten sowie Kennzahlen des Beitragscontrollings im Sinne des Finanzhaushaltsgesetzes aufzunehmen.
+<sup>1</sup> Der Jahresbericht und die revidierte Jahresrechnung sind bis Ende Mai des folgenden Jahres der Regierung zur Genehmigung zu unterbreiten. Im Jahresbericht sind die wichtigsten Leistungs- und Finanzdaten sowie Kennzahlen des Beitragscontrollings im Sinne des Finanzhaushaltsgesetzes aufzunehmen.
 
 <sup>2</sup> Sie werden dem Grossen Rat in der darauffolgenden Junisession zur Kenntnis gebracht.
 
@@ -257,6 +266,16 @@ von der Regierung erlassen am 8. Juli 2014
 
 <sup>1</sup> Für die Gehaltsregelung gelten die Bestimmungen über Hochschulen gemäss Anhang zur Verordnung über die Defizitfinanzierung der Institutionen der Berufsbildung und weiterführender Bildungsangebote.
 
+#### Art. 27a
+
+**Anstellungsverhältnisse**
+
+<sup>1</sup> Die Anstellungsverhältnisse der Hochschulen richten sich nach dem Gesetz über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden[^27a-1]. Die für die Anrechnung massgebenden Höchstgehaltsansätze werden im Anhang 2 dieser Verordnung festgelegt.
+
+<sup>2</sup> Alle personalrechtlichen Bestimmungen mit finanziellen Auswirkungen, die über diejenigen des in Absatz 1 genannten Gesetzes hinausgehen, bedürfen der vorherigen Bewilligung durch die Regierung.
+
+[^27a-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
+
 ## 6. Schlussbestimmungen
 
 #### Art. 28
@@ -265,7 +284,7 @@ von der Regierung erlassen am 8. Juli 2014
 
 <sup>1</sup> Der Vollzug obliegt dem Amt.
 
-<sup>2</sup> Die Sitzungsunterlagen und Sitzungsprotokolle des Hochschulrates sind dem Amt fristgerecht zuzustellen.
+<sup>2</sup> Die Sitzungsunterlagen mit der Traktandenliste des Hochschulrats sind dem Amt mindestens zehn Arbeitstage vor der Sitzung zuzustellen. Die Sitzungsprotokolle sind dem Amt nach der Sitzung zuzustellen.
 
 #### Art. 29
 
@@ -286,12 +305,106 @@ von der Regierung erlassen am 8. Juli 2014
 
 <sup>1</sup> Studierende, welche Ihre Ausbildung gestützt auf die bisherigen Rechtsgrundlagen begonnen haben, können auf Antrag an die Hochschulleitung ihre Ausbildung entsprechend diesen Bestimmungen abschliessen.
 
-<sup>2</sup> Die Pädagogische Hochschule Graubünden sowie die Hochschule für Technik und Wirtschaft schliessen das Rechnungsjahr 2014 nach den Vorgaben des bisherigen Rechts ab.
+<sup>2</sup> Die Pädagogische Hochschule Graubünden sowie die Fachhochschule Graubünden schliessen das Rechnungsjahr 2014 nach den Vorgaben des bisherigen Rechts ab.
 
 #### Art. 31
 
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt auf den 1. August 2014 in Kraft.
+
+## A2 Anhang 2: Höchstanrechenbare Gehaltsansätze (Art. 27a)
+
+### A2.1. Allgemeines
+
+#### Art. A2-1
+
+**Besoldung**
+
+<sup>1</sup> Die in diesem Anhang fixierten höchstanrechenbaren Ansätze für die Besoldung basieren auf dem Funktionsklassensystem der kantonalen Verwaltung.
+
+<sup>2</sup> Bei der konkreten Festsetzung der Löhne müssen die Hochschulen gegebenenfalls tiefere ortsübliche Ansätze einhalten.
+
+### A2.2. Lohnregelung an Hochschulen
+
+#### Art. A2-2
+
+**Grundsatz**
+
+<sup>1</sup> Die Löhne im Bereich der Schulleitung, des Unterrichts, des Technologie- und Wissenstransfers sowie der anwendungsorientierten Forschung und Entwicklung richten sich nach Artikel A2-4.
+
+<sup>2</sup> Für die übrigen Mitarbeitenden gelten die Lohnkategorien und Lohnklassen gemäss Artikel A2-3.
+
+<sup>3</sup> Bei der Einreihung von Mitarbeitenden, die nicht nach Artikel A2-3 oder A2-4 eingeteilt werden können, gilt erstens der Anhang 1 der Defizitverordnung und zweitens der generelle Einreihungsplan des Kantons Graubünden.
+
+#### Art. A2-3
+
+**Kategorien von Mitarbeitenden und höchstanerkannte Gehälter**
+
+<sup>1</sup> Folgende Kategorien von Mitarbeitenden werden unterschieden sowie mit höchstanerkannten Gehälter gemäss Funktionsklassensystem der kantonalen Verwaltung wie folgt festgesetzt (bei nachstehenden Funktionen ohne Spezifikation oder mit mehreren möglichen Funktionsklassen erfolgt die definitive Zuteilung zu einer Funktionsklasse aufgrund des Pflichtenheftes nach Rücksprache mit dem zuständigen Amt):
+
+<table>
+<tr><th>Funktion</th><th>Funktionsklasse</th></tr>
+<tr><td>Höhere Stabsfunktion</td><td>19</td></tr>
+<tr><td>Leiter/-in IT</td><td>18</td></tr>
+<tr><td>Abteilungsleiter/-in Services</td><td>17</td></tr>
+<tr><td>I+D Spezialist/-in II (mit Bachelor)</td><td>15</td></tr>
+<tr><td>Personal Sachbearbeiter/-in II (mit eidg. Fachausweis)</td><td>14</td></tr>
+<tr><td>Buchhalter/-in (mit eidg. Fachausweis)</td><td>14</td></tr>
+<tr><td>I+D Spezialist/-in I (mit eidg. Fähigkeitszeugnis)</td><td>13</td></tr>
+<tr><td>Sekretär/-in I–IV</td><td>10–13</td></tr>
+<tr><td>Hauswart/-in</td><td>10</td></tr>
+<tr><td>Sekretär/-in, Telefonist/-in</td><td>8/9</td></tr>
+<tr><td>Büro-Assistent/-in</td><td>7/8</td></tr>
+</table>
+
+<sup>2</sup> Teilzeitbeschäftigte werden ihrer Funktion gemäss anteilsmässig entlöhnt.
+
+#### Art. A2-4
+
+**Hochschulen**
+
+<sup>1</sup> Folgende Kategorien von Lehrpersonen und Hochschulpersonal werden unterschieden sowie die höchstanerkannten Gehälter gemäss Funktionsklassensystem der kantonalen Verwaltung wie folgt festgesetzt:
+
+<sup>1.1</sup> Hauptamtliche Mitarbeitende:
+
+<table>
+<tr><th>Funktion</th><th>Funktionsklasse</th></tr>
+<tr><td>Rektor/-in</td><td>27</td></tr>
+<tr><td>Mitglied der Hochschulleitung</td><td>25</td></tr>
+<tr><td>Abteilungsleiter/-in II</td><td>24</td></tr>
+<tr><td>Forschungsleiter/-in</td><td>24</td></tr>
+<tr><td>Studienleiter/-in II</td><td>24</td></tr>
+<tr><td>Institutsleiter/-in</td><td>24</td></tr>
+<tr><td>Studienleiter/-in I</td><td>23</td></tr>
+<tr><td>Ressortleiter/-in</td><td>23</td></tr>
+<tr><td>Dozent/-in mit Fachführung</td><td>23</td></tr>
+<tr><td>Dozent/-in mit Wissens- und Technologietransfer (WTT)</td><td>23</td></tr>
+<tr><td>Leiter/-in Fachgruppe</td><td>23</td></tr>
+<tr><td>Abteilungsleiter/-in I</td><td>23</td></tr>
+<tr><td>Dozent/-in</td><td>22</td></tr>
+<tr><td>Wissenschaftl. Mitarbeiter/-in III</td><td>21</td></tr>
+<tr><td>Abteilungsleiter/-in</td><td>20</td></tr>
+<tr><td>Wissenschaftl. Mitarbeiter/-in II</td><td>19</td></tr>
+<tr><td>Leiter/-in Personalwesen</td><td>17</td></tr>
+<tr><td>Projektleiter/-in Zentrale Dienste</td><td>17</td></tr>
+<tr><td>Projektmitarbeiter/-in Zentrale Dienste</td><td>15</td></tr>
+<tr><td>Wissenschaftl. Mitarbeiter/-in I</td><td>15</td></tr>
+<tr><td>Organisationsassistent/-in mit Fachführung</td><td>13</td></tr>
+<tr><td>Organisationsassistent/-in</td><td>12</td></tr>
+</table>
+
+<sup>1.2</sup> Nebenamtliche Mitarbeitende:
+
+<table>
+<tr><th>Kategorie</th><th>Funktion / Ausbildung</th><th>Entschädigung</th></tr>
+<tr><td>Lehrbeauftragte</td><td>Lehrpersonen mit einer unter Artikel A2-4 Absatz 1.1 erwähnten Fachqualifikation, die semesterweise und regelmässig Unterricht von mindestens acht Wochenlektionen an der gleichen Schule erteilen</td><td>Lohnklasse gemäss Artikel A2-4 Absatz 1.1 anteilsmässig</td></tr>
+<tr><td>Nebenamtlehrperson</td><td>Lehrpersonen mit einer unter Artikel A2-4 Abs. 1.1 erwähnten Fachqualifikation, die semesterweise und regelmässig weniger als acht Wochenlektionen Unterricht an der gleichen Schule erteilen oder in Abendkursen, in branchenbezogenen Unterrichtsfächern oder als Stellvertreter/innen einzelne Stunden erteilen</td><td>Lohnklasse gemäss Artikel A2-4 Absatz 1.1, geteilt durch Schulwochen und Pflichtpensum (Pflichtlektionen für vollamtliche Lehrpersonen). Es werden nur die effektiv erteilten Lektionen vergütet. In diesem Ansatz ist die Feiertags- und Ferienentschädigung enthalten</td></tr>
+<tr><td>Stellvertretung von Lehrpersonen / Gastrefenten</td><td>Lehrpersonen, die in Stellvertretungsfunktion während kurzer Zeit Unterricht erteilen</td><td>Lohnklasse Min. gemäss Artikel A2-3 oder A2-4 Absatz 1.1 geteilt durch Schulwochen und Pflichtpensum (Pflichtlektionen für vollamtliche Lehrpersonen). In diesem Ansatz ist die Feiertags- und Ferienentschädigung enthalten</td></tr>
+</table>
+
+<sup>2</sup> Für vollamtlich Dozierende von Hochschulen, die ein Teilpensum von maximal 30 Prozent an einer höheren Fachschule erfüllen, sind die Ansätze für Dozierende von Hochschulen anrechenbar.
+
+<sup>3</sup> Der Austausch von Dozierenden mit anderen Hochschulen wird auf Antrag durch das Departement geregelt.
 
 -

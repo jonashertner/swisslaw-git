@@ -4,13 +4,12 @@ number: "427.210"
 title: Ordinaziun davart las scolas autas purtadas dal chantun
 short: OSA
 language: rm
-version: 2018-01-01
-corrected: 2019-09-01
-version_adopted: 2017-12-12
+version: 2025-01-01
+version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2843/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3804/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2843/pdf_file"
 
 (OSA)
 
-dals 08-07-2014 (versiun dals 01-01-2018)
+dals 08-07-2014 (versiun dals 01-01-2025)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -47,8 +46,8 @@ relaschada da la regenza ils 8 da fanadur 2014
 - b) l'autezza da las taxas;
 - c) l'organisaziun e la realisaziun da curs preliminars;
 - d) il dretg da suttascriver e las indemnisaziuns al cussegl da la scola auta, la delegaziun d'incumbensas a la direcziun da la scola auta sco er ils dretgs da cundecisiun da las appartegnentas e dals appartegnents da la scola auta;
-- e) la realisaziun da las disposiziuns da la lescha federala davart ils dretgs d'autur ed ils dretgs da protecziun parents;
-- f) la procedura da qualificaziun per studis cun ina restricziun d'admissiun tenor l'agiunta.
+- e) la realisaziun da las disposiziuns da la Lescha federala davart il dretg d'autur ed ils dretgs da protecziun parents.
+- f) …
 
 <sup>3</sup> Il cussegl da la scola auta lascha inscriver en il register da commerzi las persunas che han il dretg da suttascriver. En quest connex vegnan previsas adina suttascripziuns collectivas per expensas.
 
@@ -80,13 +79,13 @@ relaschada da la regenza ils 8 da fanadur 2014
 - d) indicaziuns davart las mobiglias e davart las immobiglias;
 - e) la suttascripziun da la presidenta u dal president dal cussegl da la scola auta e d'ina commembra u d'in commember da la regenza.
 
-<sup>3</sup> Cumplettaziuns da l'incarica da prestaziun cun contribuziun globala durant la perioda da contract vegnan fatgas sin basa d'incaricas spezialas. En quest connex è l'incarica speziala ina prestaziun temporara da la scola auta cun in cumenzament e cun ina fin fixada. Sche quai è necessari, po la limitaziun temporara da l'incarica speziala vegnir abolida, e l'incarica speziala po vegnir integrada en l'incarica da prestaziun cun contribuziun globala da la proxima perioda da contract.
+<sup>3</sup> Cumplettaziuns da l'incarica da prestaziun cun contribuziun globala durant la perioda da contract vegnan fatgas mo en cas betg planisabels sin basa d'incaricas spezialas; en quest connex è l'incarica speziala ina prestaziun temporara da la scola auta cun in cumenzament e cun ina fin fixada. Sche necessari, po la limitaziun temporara da l'incarica speziala vegnir abolida, e l'incarica speziala po vegnir integrada en l'incarica da prestaziun cun contribuziun globala da la proxima perioda da contract.
 
 #### Art. 6
 
-**Diploms e titels**
+**Titels**
 
-<sup>1</sup> La renconuschientscha dals diploms e la denominaziun dals titels sa drizzan tenor las disposiziuns respectivas dal dretg federal sco er tenor las cunvegnas interchantunalas. Il departament regla la realisaziun.
+<sup>1</sup> La denominaziun dals titels sa drizza tenor las disposiziuns respectivas dal dretg federal sco er tenor las cunvegnas interchantunalas. Il departament regla la realisaziun.
 
 ## 2. Sectur da prestaziun da l'instrucziun
 
@@ -116,9 +115,7 @@ relaschada da la regenza ils 8 da fanadur 2014
 
 #### Art. 10
 
-**Studis da diplom novs**
-
-<sup>1</sup> L'introducziun da studis da diplom novs sco er cooperaziuns cun l'obligaziun da surpigliar ils custs dovran l'approvaziun da la regenza. Resalvadas restan las disposiziuns dal dretg federal sco er cunvegnas interchantunalas.
+**…**
 
 #### Art. 11
 
@@ -139,6 +136,8 @@ relaschada da la regenza ils 8 da fanadur 2014
 **Concepziun dals pretschs per ils servetschs e per las furmaziuns supplementaras**
 
 <sup>1</sup> Ils custs directs dals servetschs e da las furmaziuns supplementaras ston vegnir cuvrids almain per 125 pertschient (contribuziun da garanzia 1).
+
+<sup>2</sup> Exceptads da la regulaziun tenor l'alinea 1 èn servetschs e furmaziuns supplementaras ch'èn vegnids surdads dal chantun.
 
 ## 4. Finanziaziun
 
@@ -176,6 +175,16 @@ relaschada da la regenza ils 8 da fanadur 2014
 <sup>1</sup> Ils gudogns annuals ston vegnir assegnads a las reservas generalas per cuvrir perditas futuras.
 
 <sup>2</sup> Il total da las reservas generalas na dastga betg surpassar 12 pertschient dals custs bruts. Sche las reservas generalas cuntanschan la valur maximala, sto vegnir pajada enavos la contribuziun chantunala ch'è vegnida pajada sur quai ora.
+
+#### Art. 17a
+
+**Cumpart da la contribuziun globala per il svilup da l'organisaziun**
+
+<sup>1</sup> La cumpart da la contribuziun globala per il svilup da l'organisaziun da las scolas autas è cuntegnida en l'incarica da prestaziun ed importa maximalmain 6 pertschient da la media dals custs bruts dals ultims 4 onns.
+
+<sup>2</sup> La cumpart sto vegnir inditgada en il quint annual sut las reservas.
+
+<sup>3</sup> Suenter mintga perioda da l'incarica da prestaziun sto la cumpart restanta vegnir attribuida a las reservas generalas, resguardond la restricziun tenor l'artitgel 17 alinea 2.
 
 #### Art. 18
 
@@ -241,7 +250,7 @@ relaschada da la regenza ils 8 da fanadur 2014
 
 **Rapport annual e quint annual**
 
-<sup>1</sup> Il rapport annual ed il quint annual revedì ston vegnir suttamess a la regenza per l'approvaziun fin mez matg da l'onn suandant. En il rapport annual ston vegnir integrads tut las datas impurtantas da prestaziun e da finanzas sco er ils indicaturs dal controlling da las contribuziuns en il senn da la lescha davart las finanzas dal chantun Grischun.
+<sup>1</sup> Il rapport annual ed il quint annual revedì ston vegnir suttamess a la Regenza per l'approvaziun fin la fin da matg da l'onn suandant. En il rapport annual ston vegnir integrads tut las datas impurtantas da prestaziuns e da finanzas sco er ils indicaturs dal controlling da las contribuziuns en il senn da la Lescha davart las finanzas dal chantun Grischun.
 
 <sup>2</sup> Els vegnan rendids enconuschents al cussegl grond en la sessiun da zercladur che suonda.
 
@@ -257,6 +266,16 @@ relaschada da la regenza ils 8 da fanadur 2014
 
 <sup>1</sup> Per reglar ils salaris valan las disposiziuns davart las scolas autas tenor l'agiunta tar l'ordinaziun davart la finanziaziun dal deficit da las instituziuns da la furmaziun professiunala e da purschidas da furmaziun cuntinuanta.
 
+#### Art. 27a
+
+**Relaziuns d'engaschament**
+
+<sup>1</sup> Las relaziuns d'engaschament da las scolas autas sa drizzan tenor la Lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun[^27a-1]. Ils salaris maximals ch'èn decisivs per l'imputaziun vegnan fixads en l'agiunta 2 tar questa ordinaziun.
+
+<sup>2</sup> Tut las disposiziuns dal dretg da persunal cun consequenzas finanzialas che van pli lunsch che quellas da la lescha numnada en l'alinea 1, ston vegnir approvadas ordavant da la Regenza.
+
+[^27a-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
+
 ## 6. Disposiziuns finalas
 
 #### Art. 28
@@ -265,7 +284,7 @@ relaschada da la regenza ils 8 da fanadur 2014
 
 <sup>1</sup> L'execuziun è chaussa da l'uffizi.
 
-<sup>2</sup> Ils documents ed ils protocols da las sesidas dal cussegl da la scola auta ston vegnir tramess a temp a l'uffizi.
+<sup>2</sup> Ils documents da sesida cun la glista da tractandas dal cussegl da scola auta ston vegnir consegnads a l'uffizi almain 10 dis da lavur avant la sesida. Ils protocols da sesida ston vegnir consegnads a l'uffizi suenter la sesida.
 
 #### Art. 29
 
@@ -286,12 +305,106 @@ relaschada da la regenza ils 8 da fanadur 2014
 
 <sup>1</sup> Studentas e students che han cumenzà cun lur scolaziun sin fundament da la basa giuridica vertenta pon – sin dumonda a la direcziun da la scola auta – finir lur scolaziun tenor questas disposiziuns.
 
-<sup>2</sup> La scola auta da pedagogia dal Grischun sco er la scola auta da tecnica ed economia concludan l'onn da gestiun 2014 tenor las prescripziuns dal dretg vertent.
+<sup>2</sup> La scola auta da pedagogia dal Grischun sco er la scola auta spezialisada dal Grischun concludan l'onn da gestiun 2014 tenor las prescripziuns dal dretg vertent.
 
 #### Art. 31
 
 **Entrada en vigur**
 
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. d'avust 2014.
+
+## A2 Agiunta 2: Salaris maximals imputabels (art. 27a)
+
+### A2.1. Chaussas generalas
+
+#### Art. A2-1
+
+**Salarisaziun**
+
+<sup>1</sup> Las tariffas maximalas imputablas per la salarisaziun ch'èn fixadas en questa agiunta sa basan sin il sistem da classas da funcziun da l'administraziun chantunala.
+
+<sup>2</sup> Tar la fixaziun concreta dals salaris ston las scolas autas eventualmain observar las tariffas pli bassas d'usit local.
+
+### A2.2. Regulaziun dals salaris a las scolas autas
+
+#### Art. A2-2
+
+**Princip**
+
+<sup>1</sup> Ils salaris en il sectur da la direcziun da la scola, da l'instrucziun, dal transfer da tecnologia e da savida sco er da la perscrutaziun e dal svilup ch'è orientà a l'applicaziun sa drizzan tenor l'artitgel A2-4.
+
+<sup>2</sup> Per las ulteriuras collavuraturas ed ils ulteriurs collavuraturs valan las categorias e las classas da salari tenor l'artitgel A2-3.
+
+<sup>3</sup> Per la classificaziun da collavuraturas e collavuraturs che na pon betg vegnir classifitgads tenor l'artitgel A2-3 u l'artitgel A2-4 vala en emprima lingia l'agiunta 1 da l'Ordinaziun da deficit ed en segunda lingia il plan general da classificaziun dal chantun Grischun.
+
+#### Art. A2-3
+
+**Categorias da collavuraturas e collavuraturs e salaris maximals renconuschids**
+
+<sup>1</sup> Las suandantas categorias da collavuraturas e collavuraturs vegnan differenziadas, ed i vegnan fixads ils suandants salaris maximals renconuschids tenor il sistem da classas da funcziun da l'administraziun chantunala (tar las funcziuns menziunadas qua sutvart che n'han nagina specificaziun u che appartegnan a pliras classas da funcziun pussaivlas, vegn l'attribuziun definitiva ad ina classa da funcziun fatga sin basa dal carnet d'obligaziuns, suenter avair consultà l'uffizi cumpetent):
+
+<table>
+<tr><th>Funcziun</th><th>Classa da funcziun</th></tr>
+<tr><td>funcziun da stab pli auta</td><td>19</td></tr>
+<tr><td>manader/-dra da las tecnologias d'infurmaziun</td><td>18</td></tr>
+<tr><td>manader/-dra da partiziun dals servetschs</td><td>17</td></tr>
+<tr><td>spezialist/-a dad I+D II (cun bachelor)</td><td>15</td></tr>
+<tr><td>referendari/-a da fatgs da persunal II (cun certificat professiunal federal)</td><td>14</td></tr>
+<tr><td>contabilist/-a (cun certificat professiunal federal)</td><td>14</td></tr>
+<tr><td>spezialist/-a dad I+D I (cun attestat federal da qualificaziun)</td><td>13</td></tr>
+<tr><td>secretari/-a I–IV</td><td>10–13</td></tr>
+<tr><td>pedel/-la</td><td>10</td></tr>
+<tr><td>secretari/-a, telefonist/-a</td><td>8/9</td></tr>
+<tr><td>assistent/-a da biro</td><td>7/8</td></tr>
+</table>
+
+<sup>2</sup> Persunas che lavuran a temp parzial survegnan in salari proporziunal a lur funcziun.
+
+#### Art. A2-4
+
+**Scolas autas**
+
+<sup>1</sup> Las suandantas categorias da persunas d'instrucziun e da collavuraturas e collavuraturs da scolas autas vegnan differenziadas, ed i vegnan fixads ils suandants salaris maximals renconuschids tenor il sistem da classas da funcziun da l'administraziun chantunala:
+
+<sup>1.1</sup> Collavuraturas e collavuraturs en uffizi principal:
+
+<table>
+<tr><th>Funcziun</th><th>Classa da funcziun</th></tr>
+<tr><td>rectur/-a</td><td>27</td></tr>
+<tr><td>commember/-bra da la direcziun da la scola auta</td><td>25</td></tr>
+<tr><td>manader/-dra da partiziun II</td><td>24</td></tr>
+<tr><td>manader/-dra da perscrutaziun</td><td>24</td></tr>
+<tr><td>manader/-dra da studi II</td><td>24</td></tr>
+<tr><td>manader/-dra d'institut</td><td>24</td></tr>
+<tr><td>manader/-dra da studi I</td><td>23</td></tr>
+<tr><td>manader/-dra da ressort</td><td>23</td></tr>
+<tr><td>docent/-a cun direcziun dal rom</td><td>23</td></tr>
+<tr><td>docent/-a cun transfer da savida e da tecnologia (TST)</td><td>23</td></tr>
+<tr><td>manader/-dra da gruppa professiunala</td><td>23</td></tr>
+<tr><td>manader/-dra da partiziun I</td><td>23</td></tr>
+<tr><td>docent/-a</td><td>22</td></tr>
+<tr><td>collavuratur/-a scientific/-a III</td><td>21</td></tr>
+<tr><td>manader/-dra da partiziun</td><td>20</td></tr>
+<tr><td>collavuratur/-a scientific/-a II</td><td>19</td></tr>
+<tr><td>manader/-dra dals fatgs da persunal</td><td>17</td></tr>
+<tr><td>manader/-dra da project dals servetschs centrals</td><td>17</td></tr>
+<tr><td>collavuratur/-a da project dals servetschs centrals</td><td>15</td></tr>
+<tr><td>collavuratur/-a scientific/-a I</td><td>15</td></tr>
+<tr><td>assistent/-a d'organisaziun cun direcziun dal rom</td><td>13</td></tr>
+<tr><td>assistent/-a d'organisaziun</td><td>12</td></tr>
+</table>
+
+<sup>1.2</sup> Collavuraturas e collavuraturs en uffizi accessoric:
+
+<table>
+<tr><th>Categoria</th><th>Funcziun / scolaziun</th><th>Indemnisaziun</th></tr>
+<tr><td>Incumbensadas ed incumbensads per l'instrucziun</td><td>Persunas d'instrucziun cun ina qualificaziun professiunala menziunada en l'artitgel A2-4 alinea 1 che instrueschan per semester e regularmain almain 8 lecziuns per emna a la medema scola</td><td>Classa da salari tenor l'artitgel A2-4 alinea 1, proporziunalmain</td></tr>
+<tr><td>Persuna d'instrucziun en uffizi accessoric</td><td>Persunas d'instrucziun cun ina qualificaziun professiunala menziunada en l'artitgel A2-4 alinea 1 che instrueschan per semester e regularmain main che 8 lecziuns per emna a la medema scola u che dattan singulas uras d'instrucziun en curs da saira, en roms d'instrucziun che sa refereschan a la branscha ubain sco substitutas u substituts</td><td>Classa da salari tenor l'artitgel A2-4 alinea 1, partì cun emnas da scola e pensum obligatoric (lecziuns obligatoricas da las persunas d'instrucziun en uffizi cumplain) I vegnan indemnisadas mo las lecziuns che vegnan dadas ef-fectivamain. En questa tariffa è cuntegnida l'indemnisaziun da firads e da vacanzas</td></tr>
+<tr><td>Substituziun da: persunas d'instrucziun / referents/-as ospitants/-as</td><td>Persunas d'instrucziun che instrueschan en ina funcziun da substitut/-a durant in curt temp</td><td>Classa da salari minimala tenor l'artitgel A2-3 u A2-4 alinea 1, partì cun emnas da scola e pensum obligatoric (lecziuns obligatoricas da las persunas d'instrucziun en uffizi cumplain). En questa tariffa è cuntegnida l'indemnisaziun da firads e da vacanzas</td></tr>
+</table>
+
+<sup>2</sup> Per docentas e docents en uffizi cumplain da scolas autas che adempleschan en ina scola spezialisada superiura in pensum parzial da maximalmain 30 pertschient èn imputablas las tariffas per docentas e docents da la scola auta.
+
+<sup>3</sup> Il departament regla sin dumonda il barat da docentas e docents cun autras scolas autas.
 
 -

@@ -4,13 +4,12 @@ number: "427.210"
 title: Ordinanza sulle scuole universitarie con ente responsabile cantonale
 short: OSU
 language: it
-version: 2018-01-01
-corrected: 2019-09-01
-version_adopted: 2017-12-12
+version: 2025-01-01
+version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2843/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3804/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2843/pdf_file"
 
 (OSU)
 
-del 08.07.2014 (stato 01.01.2018)
+del 08.07.2014 (stato 01.01.2025)
 
 emanata dal Governo l'8 luglio 2014
 
@@ -47,8 +46,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - b) l'ammontare delle tasse;
 - c) l'organizzazione e lo svolgimento di corsi propedeutici;
 - d) i diritti di firma e le indennità al consiglio di scuola universitaria, la delega di compiti alla direzione della scuola universitaria, nonché i diritti di partecipazione dei membri della scuola universitaria;
-- e) l'attuazione delle disposizioni della legge federale sul diritto d'autore e sui diritti di protezione affini;
-- f) la procedura di idoneità per cicli di studio con ammissione limitata conformemente all'allegato.
+- e) l'attuazione delle disposizioni della legge federale sul diritto d'autore e sui diritti di protezione affini.
+- f) …
 
 <sup>3</sup> Il consiglio di scuola universitaria provvede affinché le persone aventi diritto di firma siano iscritte nel registro di commercio; per le uscite va sempre prevista la firma collettiva.
 
@@ -80,13 +79,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - d) indicazioni relative a mobili e immobili;
 - e) la firma del presidente del consiglio di scuola universitaria e di un membro del Governo.
 
-<sup>3</sup> I completamenti del mandato di prestazioni con contributo globale durante il periodo contrattuale vengono effettuati tramite mandati speciali; il mandato speciale è una prestazione della scuola universitaria limitata nel tempo, con un inizio e una fine. Se necessario, è possibile eliminare il limite temporale del mandato speciale, che può essere integrato nel mandato di prestazioni con contributo globale del periodo contrattuale successivo.
+<sup>3</sup> I completamenti del mandato di prestazioni con contributo globale durante il periodo contrattuale vengono effettuati tramite mandati speciali solo in casi non pianificabili; il mandato speciale è una prestazione della scuola universitaria limitata nel tempo, con un inizio e una fine. Se necessario, è possibile eliminare il limite temporale del mandato speciale, che può essere integrato nel mandato di prestazioni con contributo globale del periodo contrattuale successivo.
 
 #### Art. 6
 
-**Diplomi e titoli**
+**Titoli**
 
-<sup>1</sup> Il riconoscimento dei diplomi e la designazione dei titoli si conformano alle disposizioni del diritto federale in materia, nonché degli accordi intercantonali. Il Dipartimento disciplina l'attuazione.
+<sup>1</sup> La designazione dei titoli si conforma alle disposizioni del diritto federale in materia, nonché degli accordi intercantonali. Il Dipartimento disciplina l'attuazione.
 
 ## 2. Settore dell'insegnamento
 
@@ -116,9 +115,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 10
 
-**Nuovi cicli di studio**
-
-<sup>1</sup> L'introduzione di nuovi cicli di studio e le collaborazioni che comportano costi necessitano dell'approvazione del Governo. Sono fatti salvi le disposizioni del diritto federale, nonché gli accordi intercantonali.
+**…**
 
 #### Art. 11
 
@@ -138,7 +135,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Struttura dei prezzi per servizi e formazione continua**
 
-<sup>1</sup> I costi diretti dei servizi e della formazione continua devono essere coperti almeno in misura del 125 per cento (contributo di copertura 1).
+<sup>1</sup> I costi diretti dei servizi e delle formazioni continue devono essere coperti almeno in misura del 125 per cento (contributo di copertura 1).
+
+<sup>2</sup> I servizi e le formazioni continue assegnati dal Cantone sono esclusi dalla regolamentazione di cui al capoverso 1.
 
 ## 4. Finanziamento
 
@@ -176,6 +175,16 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> Gli utili annuali devono essere attribuiti alle riserve generali a copertura di perdite future.
 
 <sup>2</sup> Nell'insieme, le riserve generali non possono superare il dodici per cento della spesa lorda. Se le riserve generali raggiungono il valore massimo, deve essere restituito il contributo cantonale eccedente versato.
+
+#### Art. 17a
+
+**Quota del contributo globale destinata allo sviluppo dell'organizzazione**
+
+<sup>1</sup> La quota del contributo globale destinata allo sviluppo dell'organizzazione delle scuole universitarie è inclusa nel mandato di prestazioni e ammonta al massimo al sei per cento della spesa lorda media degli ultimi quattro anni.
+
+<sup>2</sup> La quota deve essere iscritta nel conto annuale tra le riserve.
+
+<sup>3</sup> Dopo ogni periodo di mandato di prestazioni la quota rimanente deve essere attribuita alle riserve generali tenendo conto della limitazione prevista dall'articolo 17 capoverso 2.
 
 #### Art. 18
 
@@ -241,7 +250,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Rapporto annuale e conto annuale**
 
-<sup>1</sup> Il rapporto annuale e il conto annuale riveduto devono essere sottoposti per approvazione al Governo entro metà maggio dell'anno successivo. Nel rapporto annuale devono essere indicati i principali dati relativi alle prestazioni e alle finanze, nonché gli indicatori del controllo dei contributi ai sensi della legge sulla gestione finanziaria.
+<sup>1</sup> Il rapporto annuale e il conto annuale riveduto devono essere sottoposti per approvazione al Governo entro fine maggio dell'anno successivo. Nel rapporto annuale devono essere indicati i principali dati relativi alle prestazioni e alle finanze, nonché gli indicatori del controllo dei contributi ai sensi della legge sulla gestione finanziaria.
 
 <sup>2</sup> Essi vengono portati a conoscenza del Gran Consiglio nella successiva sessione di giugno.
 
@@ -257,6 +266,16 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Per la regolamentazione degli stipendi fanno stato le disposizioni relative alle scuole universitarie conformemente all'appendice all'ordinanza sul finanziamento del disavanzo delle istituzioni della formazione professionale e delle offerte di formazione continua.
 
+#### Art. 27a
+
+**Rapporti d'impiego**
+
+<sup>1</sup> I rapporti d'impiego delle scuole universitarie si conformano alla legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni[^27a-1]. Gli stipendi massimi determinanti per il computo sono fissati nell'allegato 2 alla presente ordinanza.
+
+<sup>2</sup> Tutte le disposizioni in materia di diritto del personale che comportano conseguenze finanziarie le quali vanno oltre quelle previste dalla legge menzionata nel capoverso 1 necessitano della previa autorizzazione del Governo.
+
+[^27a-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
+
 ## 6. Disposizioni finali
 
 #### Art. 28
@@ -265,7 +284,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'esecuzione compete all'Ufficio.
 
-<sup>2</sup> La documentazione e i verbali delle sedute del consiglio di scuola universitaria vanno recapitati tempestivamente all'Ufficio.
+<sup>2</sup> La documentazione e l'ordine del giorno delle sedute del consiglio di scuola universitaria vanno trasmessi all'Ufficio almeno dieci giorni lavorativi prima della seduta. I verbali delle sedute devono essere trasmessi all'Ufficio dopo la seduta.
 
 #### Art. 29
 
@@ -286,12 +305,106 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Previa richiesta alla direzione della scuola universitaria, gli studenti che hanno iniziato la loro formazione secondo le basi giuridiche previgenti possono portarla a termine conformemente a queste disposizioni.
 
-<sup>2</sup> L'Alta scuola pedagogica dei Grigioni e la Scuola universitaria per la tecnica e l'economia chiudono l'anno contabile 2014 secondo le direttive del diritto previgente.
+<sup>2</sup> L'Alta scuola pedagogica dei Grigioni e la Scuola universitaria professionale dei Grigioni chiudono l'anno contabile 2014 secondo le direttive del diritto previgente.
 
 #### Art. 31
 
 **Entrata in vigore**
 
 <sup>1</sup> La presente ordinanza entra in vigore il 1° agosto 2014.
+
+## A2 Allegato 2: Stipendi massimi computabili (art. 27a)
+
+### A2.1. In generale
+
+#### Art. A2-1
+
+**Retribuzione**
+
+<sup>1</sup> Le aliquote massime computabili per la retribuzione fissate nel presente allegato si basano sul sistema delle classi di funzione dell'Amministrazione cantonale.
+
+<sup>2</sup> Per la determinazione concreta degli stipendi, le scuole universitarie devono eventualmente osservare aliquote locali inferiori.
+
+### A2.2. Regolamentazione degli stipendi nelle scuole universitarie
+
+#### Art. A2-2
+
+**Principio**
+
+<sup>1</sup> Gli stipendi nell'ambito della direzione scolastica, dell'insegnamento, del transfer di tecnologia e scienza, nonché della ricerca e dello sviluppo applicati si conformano all'articolo A2-4.
+
+<sup>2</sup> Per gli altri collaboratori fanno stato le categorie e le classi di stipendio conformemente all'articolo A2-3.
+
+<sup>3</sup> Per la classificazione dei collaboratori che non possono essere classificati secondo l'articolo A2-3 o l'articolo A2-4 fanno stato in primo luogo l'allegato 1 all'ordinanza sul disavanzo e in secondo luogo il piano generale di classificazione del Cantone dei Grigioni.
+
+#### Art. A2-3
+
+**Categorie di collaboratori e stipendi massimi riconosciuti**
+
+<sup>1</sup> Vengono distinte le seguenti categorie di collaboratori e fissati gli stipendi massimi riconosciuti secondo il sistema delle classi di funzione dell'Amministrazione cantonale (per le seguenti funzioni senza specificazione o con più classi di funzione possibili, l'attribuzione definitiva a una classe di funzione viene effettuata in base al mansionario, previo accordo con l'Ufficio competente):
+
+<table>
+<tr><th>Funzione</th><th>Classe di funzione</th></tr>
+<tr><td>Funzione stato maggiore superiore</td><td>19</td></tr>
+<tr><td>Responsabile IT</td><td>18</td></tr>
+<tr><td>Responsabile sezione servizi</td><td>17</td></tr>
+<tr><td>Specialista I+D II (con bachelor)</td><td>15</td></tr>
+<tr><td>Funzionario incaricato risorse umane II (con attestato professionale federale)</td><td>14</td></tr>
+<tr><td>Contabile (con attestato professionale federale)</td><td>14</td></tr>
+<tr><td>Specialista I+D I (con attestato federale di capacità)</td><td>13</td></tr>
+<tr><td>Segretario I–IV</td><td>10–13</td></tr>
+<tr><td>Custode</td><td>10</td></tr>
+<tr><td>Segretario, centralinista</td><td>8/9</td></tr>
+<tr><td>Assistente d'ufficio</td><td>7/8</td></tr>
+</table>
+
+<sup>2</sup> Le persone impiegate a tempo parziale vengono retribuite proporzionalmente secondo la loro funzione.
+
+#### Art. A2-4
+
+**Scuole universitarie**
+
+<sup>1</sup> Vengono distinte le seguenti categorie di insegnanti e personale di scuola universitaria e fissati gli stipendi massimi riconosciuti secondo il sistema delle classi di funzione dell'Amministrazione cantonale:
+
+<sup>1.1</sup> Collaboratori a titolo principale:
+
+<table>
+<tr><th>Funzione</th><th>Classe di funzione</th></tr>
+<tr><td>Rettore</td><td>27</td></tr>
+<tr><td>Membro della direzione della scuola universitaria</td><td>25</td></tr>
+<tr><td>Responsabile di sezione II</td><td>24</td></tr>
+<tr><td>Responsabile ricerca</td><td>24</td></tr>
+<tr><td>Responsabile studi II</td><td>24</td></tr>
+<tr><td>Responsabile di istituto</td><td>24</td></tr>
+<tr><td>Responsabile studi I</td><td>23</td></tr>
+<tr><td>Responsabile di settore</td><td>23</td></tr>
+<tr><td>Docente con gestione specialistica</td><td>23</td></tr>
+<tr><td>Docente con trasferimento di sapere e tecnologie (TST)</td><td>23</td></tr>
+<tr><td>Responsabile gruppo specialistico</td><td>23</td></tr>
+<tr><td>Responsabile di sezione I</td><td>23</td></tr>
+<tr><td>Docente</td><td>22</td></tr>
+<tr><td>Collaboratore scientifico III</td><td>21</td></tr>
+<tr><td>Responsabile di sezione</td><td>20</td></tr>
+<tr><td>Collaboratore scientifico II</td><td>19</td></tr>
+<tr><td>Responsabile risorse umane</td><td>17</td></tr>
+<tr><td>Responsabile di progetto servizi centrali</td><td>17</td></tr>
+<tr><td>Collaboratore di progetto servizi centrali</td><td>15</td></tr>
+<tr><td>Collaboratore scientifico I</td><td>15</td></tr>
+<tr><td>Assistente organizzativo con gestione specialistica</td><td>13</td></tr>
+<tr><td>Assistente organizzativo</td><td>12</td></tr>
+</table>
+
+<sup>1.2</sup> Collaboratori a titolo accessorio:
+
+<table>
+<tr><th>Categoria</th><th>Funzione / formazione</th><th>Indennità</th></tr>
+<tr><td>Insegnanti incaricati</td><td>insegnanti con una qualifica specialistica indicata all'articolo A2-4 capoverso 1.1 che impartiscono a semestri e regolarmente un insegnamento di almeno otto lezioni settimanali nella stessa scuola</td><td>classe di stipendio conformemente all'articolo A2-4 capoverso 1.1, proporzionalmente</td></tr>
+<tr><td>Insegnanti a tempo parziale</td><td>insegnanti con una qualifica specialistica indicata all'articolo A2-4 capoverso 1.1 che impartiscono a semestri e regolarmente un insegnamento di meno di otto lezioni settimanali presso la medesima scuola oppure che impartiscono ore singole in corsi serali, in materie d'insegnamento relative a un settore o quali supplenti</td><td>classe di stipendio conformemente all'articolo A2-4 capoverso 1.1, divisa per le settimane di scuola e il numero di lezioni obbligatorie (lezioni obbligatorie per insegnanti a tempo pieno). Vengono retribuite solo le lezioni effettivamente impartite. In questa aliquota è inclusa l'indennità per i giorni festivi e le vacanze</td></tr>
+<tr><td>Insegnanti supplenti / relatori esterni</td><td>insegnanti che impartiscono lezioni in qualità di supplenti per un breve periodo</td><td>classe di stipendio min. conformemente all'articolo A2-3 o all'articolo A2-4 capoverso 1.1, divisa per le settimane di scuola e il numero di lezioni obbligatorie (lezioni obbligatorie per insegnanti a tempo pieno). In questa aliquota è inclusa l'indennità per i giorni festivi e le vacanze</td></tr>
+</table>
+
+<sup>2</sup> Per docenti a tempo pieno di scuole universitarie che insegnano fino a un massimo del 30 per cento presso una scuola specializzata superiore, sono computabili le aliquote per docenti di scuole universitarie.
+
+<sup>3</sup> Lo scambio di docenti con altre scuole universitarie è disciplinato dal Dipartimento, su richiesta.
 
 -
