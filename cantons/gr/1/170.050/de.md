@@ -4,33 +4,35 @@ number: "170.050"
 title: Gesetz über die Staatshaftung
 short: SHG
 language: de
-version: 2011-01-01
-corrected: 2014-10-09
-version_adopted: 2010-06-16
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-12-05
 in_force: 2007-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.050"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1160/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3377/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Staatshaftung (SHG)
+# Gesetz über die Staatshaftung
 
-Vom 5. Dezember 2006
+(SHG)
 
-Der Grosse Rat des Kantons Graubünden[^t-1],
+Vom 05.12.2006 (Stand 01.01.2025)
 
-gestützt auf Art. 26 und 31 der Kantonsverfassung[^t-2], nach Einsicht in die Botschaft der Regierung vom 22. August 2006[^t-3],
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
+
+gestützt auf Art. 26 und 31 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 22. August 2006[^ingress-3],
 
 beschliesst:
 
-[^t-1]: GRP 2006/2007, 665
-[^t-2]: BR 110.100
-[^t-3]: Seite 1347
+[^ingress-1]: GRP 2006/2007, 665
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 1347
 
-### I. Allgemeine Bestimmungen
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -38,39 +40,36 @@ beschliesst:
 
 <sup>1</sup> Diesem Gesetz unterstehen:
 
-- a) der Kanton, die Bezirke, Kreise und Gemeinden sowie die übrigen öffentlich-rechtlichen Körperschaften und deren selbstständige Anstalten (Gemeinwesen);
-
+- a) der Kanton, die Regionen und Gemeinden sowie die übrigen öffentlich-rechtlichen Körperschaften und deren selbstständige Anstalten (Gemeinwesen);
 - b) die Organe dieser Gemeinwesen;
-
 - c) die im Dienste dieser Gemeinwesen stehenden Personen bei der Ausübung dienstlicher Tätigkeiten.
 
 <sup>2</sup> Vorbehalten sind die haftpflichtrechtlichen Bestimmungen des Obligationenrechts für gewerbliche Tätigkeiten sowie die besonderen Haftungsbestimmungen anderer Gesetze.
 
-<sup>3</sup>[^1-1]Für strafprozessuale Entschädigungsforderungen gegenüber dem Kanton finden die Bestimmungen über die Staatshaftung nur Anwendung, wenn die Forderung im Strafverfahren nicht beurteilt worden ist.
+<sup>3</sup> Für strafprozessuale Entschädigungsforderungen gegenüber dem Kanton finden die Bestimmungen über die Staatshaftung nur Anwendung, wenn die Forderung im Strafverfahren nicht beurteilt worden ist.
 
-<sup>4</sup>[^1-2]Soweit dieses Gesetz keine Vorschriften enthält, sind die Bestimmungen des Abschnitts des Obligationenrechts über die Entstehung durch unerlaubte Handlungen (Art. 41 ff.)[^1-3] anwendbar.
+<sup>4</sup> Soweit dieses Gesetz keine Vorschriften enthält, sind die Bestimmungen des Abschnitts des Obligationenrechts über die Entstehung durch unerlaubte Handlungen (Art. 41 ff.)[^1-1] anwendbar.
 
-[^1-1]: Einfügung gemäss Anhang Ziffer 2 EGzStPO, KA 2010, S. 2402; am 1. Januar 2011 in Kraft getreten
-[^1-2]: Neue Absatznummerierung als Folge der Einfügung von Absatz 2
-[^1-3]: SR 220 1.01.2011 1
+[^1-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 2
 
 **Begriffe**
 
-<sup>1</sup> Als Organe (Art. 1 Abs. 1 Lit. b) gelten die Behörden dieser Gemeinwesen sowie die Gerichte.
+<sup>1</sup> Als Organe (Art. 1 Abs. 1 lit. b) gelten die Behörden dieser Gemeinwesen sowie die Gerichte.
 
-<sup>2</sup> Als im Dienste dieser Gemeinwesen stehende Personen (Art. 1 Abs. 1 Lit. c) gelten a) alle mit diesen in einem Arbeitsverhältnis stehenden Personen;
+<sup>2</sup> Als im Dienste dieser Gemeinwesen stehende Personen (Art. 1 Abs. 1 lit. c) gelten:
 
+- a) alle mit diesen in einem Arbeitsverhältnis stehenden Personen;
 - b) Personen, denen von diesen die Erfüllung von Aufgaben übertragen worden ist.
 
-### II. Haftung des Gemeinwesens
+## 2. Haftung des Gemeinwesens
 
 #### Art. 3
 
 **Widerrechtliche Schädigung**
 
-Die Gemeinwesen haften für Schaden, der Dritten durch ihre Organe und in ihrem Dienst stehende Personen bei der Ausübung dienstlicher Tätigkeiten widerrechtlich zugefügt wird.
+<sup>1</sup> Die Gemeinwesen haften für Schaden, der Dritten durch ihre Organe und in ihrem Dienst stehende Personen bei der Ausübung dienstlicher Tätigkeiten widerrechtlich zugefügt wird.
 
 #### Art. 4
 
@@ -78,8 +77,9 @@ Die Gemeinwesen haften für Schaden, der Dritten durch ihre Organe und in ihrem 
 
 <sup>1</sup> Die Gemeinwesen haften für rechtmässig zugefügten Schaden, wenn einzelnen oder wenigen Personen ein unverhältnismässig schwerer Schaden zugefügt wird und es nicht zumutbar ist, dass die oder der Geschädigte den Schaden selbst trägt.
 
-<sup>2</sup> Die Haftung der Gemeinwesen für rechtmässiges Handeln entfällt insbesondere, wenn a) die Gemeinwesen gewerblich gehandelt haben;
+<sup>2</sup> Die Haftung der Gemeinwesen für rechtmässiges Handeln entfällt insbesondere, wenn:
 
+- a) die Gemeinwesen gewerblich gehandelt haben;
 - b) die geschädigte Person durch eigenes Handeln Anlass zur Schädigung gegeben hat.
 
 <sup>3</sup> Wo spezialgesetzliche Regelungen bestehen, gehen diese vor.
@@ -88,17 +88,34 @@ Die Gemeinwesen haften für Schaden, der Dritten durch ihre Organe und in ihrem 
 
 **Genugtuung**
 
-Die Gemeinwesen haben auch Genugtuungsleistungen zu übernehmen, falls die Voraussetzungen hierfür (Art. 49 OR)[^5-1] gegeben sind.
+<sup>1</sup> Die Gemeinwesen haben auch Genugtuungsleistungen zu übernehmen, falls die Voraussetzungen hierfür (Art. 49 OR)[^5-1] gegeben sind.
 
-[^5-1]: SR 220 2 1.01.2011
+[^5-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 6
 
-**Zuständigkeit und Verfahren**
+**Zuständigkeit und Verfahren 1. Zivilgerichte**
 
-<sup>1</sup> Ansprüche aus diesem Gesetz beurteilt das Verwaltungsgericht im Klageverfahren.
+<sup>1</sup> Ansprüche aus diesem Gesetz, die nicht mit dem Verhalten des Obergerichts oder der für dieses tätigen Personen begründet werden, beurteilt das Zivilgericht am Sitz des beklagten Gemeinwesens.
 
-<sup>2</sup> Die Parteien haben dem Gericht den Sachverhalt des Rechtsstreits darzulegen. Das Gericht legt seinem Verfahren nur rechtzeitig geltend gemachte Tatsachen zugrunde.
+<sup>2</sup> Die klagende Partei bestimmt mit ihrer Eingabe bei der Schlichtungsbehörde, in welcher kantonalen Amtssprache Verfahren gegen den Kanton, gegen dessen öffentlich-rechtliche Körperschaften oder selbständige Anstalten geführt werden. Weicht die Verfahrenssprache von der regionalen Amtssprache ab, kann das zuständige Vermittleramt ergänzt werden durch ein vom örtlich zuständigen Regionalgericht bezeichnetes Mitglied eines anderen Vermittleramts, das zuständige Regionalgericht durch ein vom Obergericht bezeichnetes hauptamtliches Mitglied eines anderen Regionalgerichts. Die beigezogenen Mitglieder verfügen über die erforderlichen sprachlichen Fähigkeiten.
+
+<sup>3</sup> Im Übrigen richten sich das Verfahren vor der Schlichtungsbehörde sowie vor dem Regionalgericht und der Weiterzug an das Obergericht nach der Schweizerischen Zivilprozessordnung[^6-1].
+
+[^6-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+
+#### Art. 6a
+
+**2. Justizgericht**
+
+<sup>1</sup> Die Ansprüche aus diesem Gesetz, die mit dem Verhalten des Obergerichts oder der für dieses tätigen Personen begründet werden, beurteilt das Justizgericht als einzige kantonale Instanz.
+
+<sup>2</sup> Die Parteien haben dem Gericht die Tatsachen, auf die sie ihre Begehren stützen, in den Rechtsschriften darzulegen und die Beweismittel anzugeben. Später können Tatsachen nur mehr unter den in Artikel 229 Absatz 1 und Absatz 2 der Schweizerischen Zivilprozessordnung[^6a-1] vorgesehenen Voraussetzungen berücksichtigt werden.
+
+<sup>3</sup> Im Übrigen richtet sich das Verfahren nach dem Gesetz über die Verwaltungsrechtspflege[^6a-2].
+
+[^6a-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^6a-2]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
 #### Art. 7
 
@@ -124,29 +141,29 @@ Die Gemeinwesen haben auch Genugtuungsleistungen zu übernehmen, falls die Vorau
 
 **Mehrere Gemeinwesen**
 
-Haben mehrere Gemeinwesen einer oder einem Dritten gemeinsam und widerrechtlich Schaden zugefügt, haften sie solidarisch.
+<sup>1</sup> Haben mehrere Gemeinwesen einer oder einem Dritten gemeinsam und widerrechtlich Schaden zugefügt, haften sie solidarisch.
 
-### III. Haftung der Organe und der im Dienste stehenden Personen
+#### Art. 9a
+
+**Zuständigkeit und Verfahren bei anderen Staatshaftungen**
+
+<sup>1</sup> Die Zuständigkeit und das Verfahren zur Geltendmachung von staatshaftungsrechtlichen Ansprüchen, die nicht in diesem Gesetz geregelt sind, richten sich nach Artikel 6, sofern spezialrechtlich nichts anderes vorgesehen ist.
+
+## 3. Haftung der Organe und der im Dienste stehenden Personen
 
 #### Art. 10
 
 **Ausschluss des direkten Klagerechts**
 
-Das direkte Klagerecht der oder des geschädigten Dritten gegen die fehlbaren Organe und Personen ist ausgeschlossen.
+<sup>1</sup> Das direkte Klagerecht der oder des geschädigten Dritten gegen die fehlbaren Organe und Personen ist ausgeschlossen.
 
 #### Art. 11
 
 **Schädigung des Gemeinwesens**
 
-<sup>1</sup> Die Organe und die im Dienste der Gemeinwesen stehenden Personen sind diesen für den Schaden haftbar, den sie bei der Ausübung dienstlicher Tätigkeiten durch vorsätzliche oder grobfahrlässige Verletzung ihrer Dienstpflicht widerrechtlich verursachen.
+<sup>1</sup> Die Organe und die im Dienste der Gemeinwesen stehenden Personen sind diesen für den Schaden haftbar, den sie bei der Ausübung dienstlicher Tätigkeiten durch vorsätzliche oder grobfahrlässige Verletzung ihrer Dienstpflicht verursachen.
 
-**3**
-
-1.01.2011
-
-<sup>2</sup>[^11-1]Die Haftung gilt gleichermassen für strafprozessuale Entschädigungen der beschuldigten Person.
-
-[^11-1]: Einfügung gemäss Anhang Ziffer 2 EGzStPO, KA 2010, S. 2402; am 1. Januar 2011 in Kraft getreten
+<sup>2</sup> …
 
 #### Art. 12
 
@@ -160,92 +177,55 @@ Das direkte Klagerecht der oder des geschädigten Dritten gegen die fehlbaren Or
 
 **Reduktion der Ersatzforderung, Verzicht**
 
-Die Ersatzforderung kann reduziert oder es kann ganz auf sie verzichtet werden, wenn die oder der Haftpflichtige durch den Ersatz des gesamten Schadens in eine Notlage geraten würde.
+<sup>1</sup> Die Ersatzforderung kann reduziert oder es kann ganz auf sie verzichtet werden, wenn die oder der Haftpflichtige durch den Ersatz des gesamten Schadens in eine Notlage geraten würde.
 
 #### Art. 14
 
 **Zuständigkeit und Verfahren**
 
-<sup>1</sup> Ansprüche aus diesem Gesetz gegen Organe der Gemeinwesen und in ihrem Dienst stehende Personen beurteilt das Verwaltungsgericht im Klageverfahren.
+<sup>1</sup> Ansprüche aus diesem Gesetz gegen im Dienst des Obergerichts stehende Personen beurteilt das Justizgericht als einzige kantonale Instanz im verwaltungsgerichtlichen Klageverfahren.
 
-<sup>2</sup>[^14-1]Die adhäsionsweise Geltendmachung zivilrechtlicher Ansprüche gemäss Strafprozessordnung[^14-2] ist zulässig.
+<sup>1<sup>bis</sup></sup> Ansprüche aus diesem Gesetz gegen Organe der Gemeinwesen und in ihrem Dienst stehende Personen beurteilt das Obergericht als einzige kantonale Instanz im verwaltungsgerichtlichen Klageverfahren, soweit nicht das Justizgericht zuständig ist.
 
-[^14-1]: Fassung gemäss Anhang Ziffer 2 EGzStPO, KA 2010, S. 2402; am 1. Januar 2011 in Kraft getreten
-[^14-2]: SR 312.0
+<sup>2</sup> …
 
 #### Art. 15
 
 **Verjährung**
 
-Das Rückgriffsrecht verjährt mit Ablauf eines Jahres seitdem die Haftpflicht durch Gerichtsurteil oder gerichtlichen Vergleich ermittelt ist, jedenfalls aber mit dem Ablauf von fünf Jahren von der Feststellung oder Anerkennung der Haftpflicht an gerechnet.
+<sup>1</sup> Das Rückgriffsrecht verjährt mit Ablauf eines Jahres seitdem die Haftpflicht durch Gerichtsurteil oder gerichtlichen Vergleich ermittelt ist, jedenfalls aber mit dem Ablauf von fünf Jahren von der Feststellung oder Anerkennung der Haftpflicht an gerechnet.
 
-### IV. Schlussbestimmungen
+#### Art. 15a
+
+**Zuständigkeit und Verfahren bei anderen Staatshaftungen**
+
+<sup>1</sup> Die Zuständigkeit und das Verfahren zur Geltendmachung von staatshaftungsrechtlichen Ansprüchen gegen Organe der Gemeinwesen und in ihrem Dienst stehende Personen, die nicht in diesem Gesetz geregelt sind, richten sich nach Artikel 14 Absatz 1<sup>bis</sup>, sofern spezialrechtlich nichts anderes vorgesehen ist.
+
+## 4. Schlussbestimmungen
 
 #### Art. 16
 
 **Aufhebung von Erlassen**
 
-Mit Inkrafttreten dieses Gesetzes wird das Gesetz über die Verantwortlichkeit der Behörden und Beamten und die Haftung der öffentlich-rechtlichen Körperschaften vom 29. Oktober 1944[^16-1] aufgehoben.
+<sup>1</sup> Mit Inkrafttreten dieses Gesetzes wird das Gesetz über die Verantwortlichkeit der Behörden und Beamten und die Haftung der öffentlich-rechtlichen Körperschaften vom 29. Oktober 1944[^16-1] aufgehoben.
 
-[^16-1]: aRB 57 und AGS 1994, 3001 4 1.01.2011
-
-#### Art. 17
-
-**Änderung bisherigen Rechts**
-
-Mit Inkrafttreten dieses Gesetzes werden die nachstehenden Gesetze wie folgt geändert:
-
-- 1\. Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 12. Juni 1994 (EGzZGB, BR 210.100)
-
-#### Art. 163
-
-**Ziff. 1**
-
-Aufgehoben
-
-- 2\. Notariatsgesetz vom 18. Oktober 2004 (BR 210.300)
-
-#### Art. 43
-
-**Abs. 1 bis 3**
-
-<sup>1</sup> Für Schäden, die im Rahmen einer notariellen Tätigkeit widerrechtlich verursacht worden sind, haftet:
-
-- 1\. der Kanton bei patentierten Notariatspersonen sowie bei
-
-Grundbuchverwalterinnen und Grundbuchverwaltern;
-
-- 2\. der Kreis bei Kreisnotarinnen und Kreisnotaren;
-
-- 3\. die Gemeinde bei Gemeindeschreiberinnen und Gemeindeschreibern.
-
-<sup>2</sup> Im Übrigen richtet sich die vermögensrechtliche Verantwortlichkeit nach den Bestimmungen des kantonalen Staatshaftungsgesetzes.
-
-<sup>3</sup> Der Kanton und die Kreise versichern sich gegen Schadenersatzansprüche, die wegen der notariellen Tätigkeit von Notariatspersonen gegen sie erhoben werden. Deren persönliche Haftpflicht wird mitversichert.
-
-- 3\. Gesetz über die Verwaltungsrechtspflege vom 31. August 2006 (VRG, BR 370.100)
-
-#### Art. 63
-
-**Abs. 1 Lit. c**
-
-- c) Entschädigungsansprüche aus dem Staatshaftungsgesetz; Lit. c - f werden zu Lit. d - g
-
-- 4\. Gesetz über Ausbildungsstätten im Gesundheits- und Sozialwesen vom 22. September 2002 (AGSG, BR 432.000)
+[^16-1]: aRB 57 und AGS 1994, 3001
 
 #### Art. 17
 
-**Aufgehoben**
+**Änderung bisherigen Rechts[^17-1]**
 
-**5**
-
-1.01.2011
+[^17-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
 #### Art. 18
 
 **Übergangsrecht**
 
-Für die im Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes hängigen Verfahren gilt das Verfahren nach bisherigem Recht.
+<sup>1</sup> Für die im Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes hängigen Verfahren gilt das Verfahren nach bisherigem Recht.
+
+<sup>2</sup> Verfahren, die im Zeitpunkt des Inkrafttretens der Änderung dieses Gesetzes hängig sind und für deren Behandlung das neue Recht eine andere Zuständigkeit vorsieht, werden von den nach neuem Recht zuständigen Gerichten gemäss dem neuen Verfahrensrecht weitergeführt.
+
+<sup>3</sup> Ansprüche aus diesem Gesetz, die mit dem Verhalten des Kantonsgerichts oder des Verwaltungsgerichts oder der für diese tätigen Personen begründet werden, beurteilt nach dem Inkrafttreten der Änderung dieses Gesetzes das Justizgericht gemäss dem neuen Verfahrensrecht.
 
 #### Art. 19
 
@@ -256,4 +236,6 @@ Für die im Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes hängigen Ver
 <sup>2</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^19-2].
 
 [^19-1]: Die Referendumsfrist ist am 14. März 2007 unbenutzt abgelaufen.
-[^19-2]: Mit RB vom 16. April 2007 auf den 1. Mai 2007 in Kraft gesetzt. 6 1.01.2011
+[^19-2]: Mit RB vom 16. April 2007 auf den 1. Mai 2007 in Kraft gesetzt.
+
+-

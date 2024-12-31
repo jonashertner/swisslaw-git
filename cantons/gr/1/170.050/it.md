@@ -4,35 +4,35 @@ number: "170.050"
 title: Legge sulla responsabilità dello Stato
 short: LRS
 language: it
-version: 2011-01-01
-corrected: 2014-10-09
-version_adopted: 2010-06-16
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-12-05
 in_force: 2007-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.050"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1160/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3377/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sulla responsabilità dello Stato (LRS)
+# Legge sulla responsabilità dello Stato
 
-del 5 dicembre 2006
+(LRS)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+del 05.12.2006 (stato 01.01.2025)
 
-visti gli art. 26 e 31 della Costituzione cantonale[^t-2];
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-visto il messaggio del Governo del 22 agosto 2006[^t-3],
+visti gli art. 26 e 31 della Costituzione cantonale[^ingress-2];
+
+visto il messaggio del Governo del 22 agosto 2006[^ingress-3],
 
 decide:
 
-[^t-1]: PGC 2006/2007, 665
-[^t-2]: CSC 110.100
-[^t-3]: Pagina 1347
+[^ingress-1]: PGC 2006/2007, 665
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: Pagina 1347
 
-### I. Disposizioni generali
+## 1. Disposizioni generali
 
 #### Art. 1
 
@@ -40,21 +40,17 @@ decide:
 
 <sup>1</sup> Sono soggetti alla presente legge:
 
-- a) il Cantone, i distretti, i circoli e i comuni, nonché gli altri enti di diritto pubblico e i loro istituti autonomi (enti pubblici);
-
+- a) il Cantone, le regioni e i comuni, nonché gli altri enti di diritto pubblico e i loro istituti autonomi (enti pubblici);
 - b) gli organi di questi enti pubblici;
-
 - c) le persone al servizio di questi enti pubblici nell'esercizio delle attività di servizio.
 
 <sup>2</sup> Sono fatte salve le disposizioni in materia di responsabilità civile del Codice delle obbligazioni per attività professionali, nonché le disposizioni speciali in materia di responsabilità civile di altre leggi.
 
-<sup>3</sup>[^1-1]In caso di istanze d'indennizzo di procedura penale nei confronti del Cantone, le disposizioni sulla responsabilità dello Stato si applicano unicamente se l'istanza non è stata giudicata nella procedura penale.
+<sup>3</sup> In caso di istanze d'indennizzo di procedura penale nei confronti del Cantone, le disposizioni sulla responsabilità dello Stato si applicano unicamente se l'istanza non è stata giudicata nella procedura penale.
 
-<sup>4</sup>[^1-2]Per quanto la presente legge non contenga alcuna norma, si applicano le disposizioni della sezione del Codice delle obbligazioni sulle obbligazioni derivanti da atti illeciti (art. 41 e segg.)[^1-3].
+<sup>4</sup> Per quanto la presente legge non contenga alcuna norma, si applicano le disposizioni della sezione del Codice delle obbligazioni sulle obbligazioni derivanti da atti illeciti (art. 41 e segg.)[^1-1].
 
-[^1-1]: Introduzione giusta l'appendice numero 2 LACPP, FUC 2010, 2461; entrata in vigore il 1° gennaio 2011
-[^1-2]: Nuovo numero di capoverso a seguito dell'introduzione del capoverso 2
-[^1-3]: RS 220 1.1.2011 1
+[^1-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
 
 #### Art. 2
 
@@ -65,16 +61,15 @@ decide:
 <sup>2</sup> Sono considerate persone al servizio di questi enti pubblici (art. 1 cpv. 1 lett. c):
 
 - a) tutte le persone che si trovano in un rapporto di lavoro con essi;
-
 - b) le persone alle quali questi hanno delegato l'adempimento di compiti.
 
-### II. Responsabilità dell'ente pubblico
+## 2. Responsabilità dell'ente pubblico
 
 #### Art. 3
 
 **Danni illeciti**
 
-Gli enti pubblici rispondono per danni causati illecitamente a terzi da parte dei loro organi e delle persone al loro servizio nell'esercizio delle attività di servizio.
+<sup>1</sup> Gli enti pubblici rispondono per danni causati illecitamente a terzi da parte dei loro organi e delle persone al loro servizio nell'esercizio delle attività di servizio.
 
 #### Art. 4
 
@@ -85,7 +80,6 @@ Gli enti pubblici rispondono per danni causati illecitamente a terzi da parte de
 <sup>2</sup> La responsabilità degli enti pubblici per atti leciti viene meno segnatamente se:
 
 - a) gli enti pubblici hanno agito a fini professionali;
-
 - b) il danneggiato ha provocato il danno con il proprio agire.
 
 <sup>3</sup> Laddove esistono regolamentazioni di leggi speciali, queste hanno la precedenza.
@@ -94,17 +88,34 @@ Gli enti pubblici rispondono per danni causati illecitamente a terzi da parte de
 
 **Riparazione morale**
 
-Gli enti pubblici sono tenuti ad assumersi anche prestazioni a titolo di riparazione morale, se sono soddisfatti i relativi presupposti (art. 49 CO)[^5-1].
+<sup>1</sup> Gli enti pubblici sono tenuti ad assumersi anche prestazioni a titolo di riparazione morale, se sono soddisfatti i relativi presupposti (art. 49 CO)[^5-1].
 
-[^5-1]: RS 220 2 1.1.2011
+[^5-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
 
 #### Art. 6
 
-**Competenza e procedura**
+**Competenza e procedura 1. Tribunali civili**
 
-<sup>1</sup> Il Tribunale amministrativo giudica nella procedura d'azione i diritti risultanti dalla presente legge.
+<sup>1</sup> Le pretese derivanti dalla presente legge che non si fondano sulla condotta del Tribunale d'appello o di persone che agiscono per esso vengono giudicate dal tribunale civile presso la sede dell'ente pubblico convenuto.
 
-<sup>2</sup> Le parti sono tenute ad esporre al Tribunale la fattispecie della vertenza. Il Tribunale pone alla base della sua procedura soltanto dati di fatto fatti valere tempestivamente.
+<sup>2</sup> Con la propria istanza all'autorità di conciliazione, l'attore determina la lingua ufficiale cantonale nella quale vengono condotti procedimenti contro il Cantone, contro suoi enti di diritto pubblico o contro suoi istituti autonomi. Se la lingua del procedimento diverge dalla lingua ufficiale della regione, la giudicatura di pace competente può essere completata da un membro di un'altra giudicatura di pace designato dal tribunale regionale competente per territorio e il tribunale regionale competente può essere completato da un giudice a titolo principale di un altro tribunale regionale designato dal Tribunale d'appello. I membri cui si fa ricorso dispongono delle capacità linguistiche necessarie.
+
+<sup>3</sup> Per il resto la procedura dinanzi all'autorità di conciliazione e dinanzi al tribunale regionale nonché l'impugnazione dinanzi al Tribunale d'appello si conformano al Codice di diritto processuale civile svizzero[^6-1].
+
+[^6-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+
+#### Art. 6a
+
+**2. Tribunale della magistratura**
+
+<sup>1</sup> Le pretese derivanti dalla presente legge che si fondano sul comportamento del Tribunale d'appello o di persone che agiscono per esso vengono giudicate dal Tribunale della magistratura.
+
+<sup>2</sup> Le parti devono esporre al Tribunale i fatti sui quali fondano le proprie richieste nelle memorie e indicare i mezzi di prova. Successivamente i fatti possono essere tenuti in considerazione soltanto alle condizioni previste dall'articolo 229 capoverso 1 e capoverso 2 del Codice di diritto processuale civile svizzero[^6a-1].
+
+<sup>3</sup> Per il resto la procedura si conforma alla legge sulla giustizia amministrativa[^6a-2].
+
+[^6a-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+[^6a-2]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 #### Art. 7
 
@@ -130,27 +141,29 @@ Gli enti pubblici sono tenuti ad assumersi anche prestazioni a titolo di riparaz
 
 **Diversi enti pubblici**
 
-Qualora diversi enti pubblici abbiano causato in comune e illecitamente un danno ad un terzo, essi rispondono solidalmente.
+<sup>1</sup> Qualora diversi enti pubblici abbiano causato in comune e illecitamente un danno ad un terzo, essi rispondono solidalmente.
 
-### III. Responsabilità degli organi e delle persone al loro
+#### Art. 9a
 
-servizio
+**Competenza e procedura in altri casi di responsabilità dello Stato**
+
+<sup>1</sup> La competenza e la procedura per far valere pretese di diritto sulla responsabilità dello Stato non disciplinate dalla presente legge si conformano all'articolo 6, se il diritto speciale non prevede nulla di diverso.
+
+## 3. Responsabilità degli organi e delle persone al loro servizio
 
 #### Art. 10
 
 **Esclusione del diritto d'azione diretta**
 
-È escluso il diritto d'azione diretta del terzo danneggiato contro gli organi e le persone colpevoli.
+<sup>1</sup> È escluso il diritto d'azione diretta del terzo danneggiato contro gli organi e le persone colpevoli.
 
 #### Art. 11
 
 **Danno causato all'ente pubblico**
 
-<sup>1</sup> Gli organi e le persone al servizio degli enti pubblici rispondono nei confronti di questi ultimi per il danno causato illecitamente, violando intenzionalmente o per negligenza grave il loro obbligo di servizio nell'esercizio delle attività di servizio.
+<sup>1</sup> Gli organi e le persone al servizio degli enti pubblici rispondono nei confronti di questi ultimi per il danno causato violando intenzionalmente o per negligenza grave il loro obbligo di servizio nell'esercizio delle attività di servizio.
 
-<sup>2</sup>[^11-1]La responsabilità vale parimenti per indennizzi dell'imputato secondo le disposizioni di procedura penale.
-
-[^11-1]: Introduzione giusta numero 2 dell'appendice LACPP, FUC 2010, 2461; entrata in vigore il 1° gennaio 2011 1.1.2011 3
+<sup>2</sup> …
 
 #### Art. 12
 
@@ -164,88 +177,55 @@ servizio
 
 **Riduzione della pretesa di risarcimento, rinuncia**
 
-La pretesa di risarcimento può essere ridotta o vi si può rinunciare completamente, se con il risarcimento dell'intero danno il responsabile verrebbe a trovarsi in una situazione di bisogno.
+<sup>1</sup> La pretesa di risarcimento può essere ridotta o vi si può rinunciare completamente, se con il risarcimento dell'intero danno il responsabile verrebbe a trovarsi in una situazione di bisogno.
 
 #### Art. 14
 
 **Competenza e procedura**
 
-<sup>1</sup> Il Tribunale amministrativo giudica nella procedura d'azione le pretese risultanti dalla presente legge nei confronti degli organi di enti pubblici e di persone al loro servizio.
+<sup>1</sup> Le pretese derivanti dalla presente legge nei confronti di persone al servizio del Tribunale d'appello vengono giudicate dal Tribunale della magistratura quale unica istanza cantonale in procedura d'azione amministrativa.
 
-<sup>2</sup>[^14-1]È ammessa l'azione in via adesiva per fare valere pretese di diritto civile conformemente al Codice di procedura penale[^14-2].
+<sup>1<sup>bis</sup></sup> Le pretese derivanti dalla presente legge nei confronti di organi degli enti pubblici e di persone al loro servizio vengono giudicate dal Tribunale d'appello quale unica istanza cantonale nella procedura d'azione amministrativa, nella misura in cui non sia competente il Tribunale della magistratura.
 
-[^14-1]: Testo giusta numero 2 dell'appendice LACPP, FUC 2010, 2461; entrato in vigore il 1° gennaio 2011
-[^14-2]: RS 312.0
+<sup>2</sup> …
 
 #### Art. 15
 
 **Prescrizione**
 
-Il diritto di regresso si prescrive entro un anno dall'accertamento della responsabilità mediante sentenza giudiziaria o transazione giudiziale, in ogni caso una volta trascorsi cinque anni dall'accertamento o dal riconoscimento della responsabilità.
+<sup>1</sup> Il diritto di regresso si prescrive entro un anno dall'accertamento della responsabilità mediante sentenza giudiziaria o transazione giudiziale, in ogni caso una volta trascorsi cinque anni dall'accertamento o dal riconoscimento della responsabilità.
 
-### IV. Disposizioni finali
+#### Art. 15a
+
+**Competenza e procedura in altri casi di responsabilità dello Stato**
+
+<sup>1</sup> La competenza e la procedura per far valere pretese di diritto sulla responsabilità dello Stato nei confronti di organi degli enti pubblici e di persone al loro servizio non disciplinate dalla presente legge si conformano all'articolo 14 capoverso 1<sup>bis</sup>, se il diritto speciale non prevede nulla di diverso.
+
+## 4. Disposizioni finali
 
 #### Art. 16
 
 **Abrogazione di atti normativi**
 
-Con l'entrata in vigore della presente legge è abrogata la legge sulla responsabilità delle autorità, dei funzionari e delle corporazioni di diritto pubblico del 29 ottobre 1944[^16-1].
+<sup>1</sup> Con l'entrata in vigore della presente legge è abrogata la legge sulla responsabilità delle autorità, dei funzionari e delle corporazioni di diritto pubblico del 29 ottobre 1944[^16-1].
 
-[^16-1]: aRB 57 e AGS 1994, 3001 4 1.1.2011
-
-#### Art. 17
-
-**Modifica del diritto previgente**
-
-Con l'entrata in vigore della presente legge le seguenti leggi sono modificate come segue:
-
-- 1\. Legge d'introduzione al Codice civile svizzero del 12 giugno 1994 (LICC, CSC 210.100)
-
-#### Art. 163 n
-
-**1**
-
-Abrogato
-
-- 2\. Legge sul notariato del 18 ottobre 2004 (CSC 210.300)
-
-#### Art. 43
-
-**cpv. da 1 a 3**
-
-<sup>1</sup> Per danni causati illecitamente nell'ambito di un'attività notarile risponde:
-
-- 1\. il Cantone per notai con patente e per gli ufficiali del registro fondiario;
-
-- 2\. il circolo per i notai di circolo;
-
-- 3\. il comune per i segretari comunali.
-
-<sup>2</sup> Per il resto, la responsabilità di diritto patrimoniale si conforma alle disposizioni della legge cantonale sulla responsabilità dello Stato.
-
-<sup>3</sup> Il Cantone e i circoli si assicurano contro pretese di risarcimento danni sollevate nei loro confronti a causa dell'attività dei notai. Viene coassicurata la responsabilità personale di questi ultimi.
-
-- 3\. Legge sulla giustizia amministrativa del 31 agosto 2006 (LGA, CSC 370.100)
-
-#### Art. 63
-
-**cpv. 1 lett. c**
-
-- c) pretese di indennizzo risultanti dalla legge sulla responsabilità dello Stato;
-
-Le lett. c - f diventano lett. d - g
-
-- 4\. Legge sugli istituti di formazione in ambito sanitario e sociale del 22 settembre 2002 (LISS; CSC 432.000)
+[^16-1]: aRB 57 e AGS 1994, 3001
 
 #### Art. 17
 
-**Abrogato**
+**Modifica del diritto previgente[^17-1]**
+
+[^17-1]: Le modifiche del diritto previgente non vengono indicate.
 
 #### Art. 18
 
 **Diritto transitorio**
 
-Per le procedure pendenti al momento dell'entrata in vigore della presente legge fa stato la procedura secondo il diritto previgente.
+<sup>1</sup> Per le procedure pendenti al momento dell'entrata in vigore della presente legge fa stato la procedura secondo il diritto previgente.
+
+<sup>2</sup> I procedimenti pendenti al momento dell'entrata in vigore della modifica della presente legge e per la cui evasione il nuovo diritto prevede una diversa competenza vengono portati avanti dai tribunali competenti secondo il nuovo diritto sulla base del nuovo diritto procedurale.
+
+<sup>3</sup> Dopo l'entrata in vigore della modifica della presente legge, le pretese derivanti dalla presente legge che si fondano sul comportamento del Tribunale cantonale o del Tribunale amministrativo o di persone che agiscono per essi vengono giudicate dal Tribunale della magistratura sulla base del nuovo diritto procedurale.
 
 #### Art. 19
 
@@ -256,4 +236,6 @@ Per le procedure pendenti al momento dell'entrata in vigore della presente legge
 <sup>2</sup> Il Governo stabilisce la data dell'entrata in vigore[^19-2].
 
 [^19-1]: Il termine di referendum è scaduto inutilizzato il 14 mar. 2007
-[^19-2]: Posta in vigore il 1° mag. 2007 con DG del 16 apr. 2007 1.1.2011 5
+[^19-2]: Posta in vigore il 1° mag. 2007 con DG del 16 apr. 2007
+
+-
