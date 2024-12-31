@@ -4,13 +4,13 @@ number: "410.111"
 title: Verordnung über die bernischen Landeskirchen
 short: LKV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-23
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-11
 adopted: 2019-04-24
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/410.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2762/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3104/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2762/pdf_file"
 
 (LKV)
 
-vom 24.04.2019 (Stand 01.01.2023)
+vom 24.04.2019 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -527,7 +527,7 @@ beschliesst:
 - 13 Lyss
 - 14 Oberwil bei Büren
 - 15 Radelfingen
-- 16 Rapperswil (BE)
+- 16 Rapperswil-Wengi
 - 17 Rüti bei Büren
 - 18 Schüpfen
 - 19 Seedorf
@@ -535,7 +535,7 @@ beschliesst:
 - 21 Täuffelen
 - 22 Vinelz-Lüscherz
 - 23 Walperswil-Bühl
-- 24 Wengi bei Büren
+- 24 …
 
 #### Art. A1-3
 
@@ -600,7 +600,7 @@ beschliesst:
 
 <sup>1</sup> Der Verwaltungskreis Bern-Mittelland umfasst die folgenden Kirchgemeinden:
 
-- 1 Gesamtkirchgemeinde Bern, umfassend die zwölf Kirchgemeinden Bethlehem, Bümpliz, Paroisse de l'Eglise réformée de Berne, Frieden, Heiliggeist, Johannes, Markus, Matthäus Bern und Bremgarten, Münster, Nydegg, Paulus, Petrus
+- 1 Gesamtkirchgemeinde Bern, umfassend die elf Kirchgemeinden Bern-Nord, Bethlehem, Bümpliz, Paroisse de l'Eglise réformée de Berne, Frieden, Heiliggeist, Matthäus Bern und Bremgarten, Münster, Nydegg, Paulus, Petrus
 - 2 Bernisch und freiburgisch Ferenbalm
 - 3 Bernisch und freiburgisch Kerzers
 - 4 Belp, Belpberg und Toffen

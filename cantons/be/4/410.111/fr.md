@@ -4,13 +4,13 @@ number: "410.111"
 title: Ordonnance sur les Eglises nationales bernoises
 short: OEgN
 language: fr
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-23
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-11
 adopted: 2019-04-24
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/410.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2762/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3104/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2762/pdf_file"
 
 (OEgN)
 
-du 24.04.2019 (état au 01.01.2023)
+du 24.04.2019 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -527,7 +527,7 @@ arrête:
 - 13 Lyss
 - 14 Oberwil bei Büren
 - 15 Radelfingen
-- 16 Rapperswil (BE)
+- 16 Rapperswil-Wengi
 - 17 Rüti bei Büren
 - 18 Schüpfen
 - 19 Seedorf
@@ -535,7 +535,7 @@ arrête:
 - 21 Täuffelen
 - 22 Vinelz-Lüscherz
 - 23 Walperswil-Bühl
-- 24 Wengi bei Büren
+- 24 …
 
 #### Art. A1-3
 
@@ -600,7 +600,7 @@ arrête:
 
 <sup>1</sup> L'arrondissement administratif de Berne-Mittelland comprend les paroisses suivantes:
 
-- 1 Paroisse générale de Berne, composée de douze paroisses: Bethlehem, Bümpliz, paroisse de l'Eglise réformée de Berne, Frieden, Heiliggeist, Johannes, Markus, Matthäus Bern und Bremgarten, Münster, Nydegg, Paulus, Petrus
+- 1 Paroisse générale de Berne, composée de onze paroisses: Bern-Nord, Bethlehem, Bümpliz, paroisse de l'Eglise réformée de Berne, Frieden, Heiliggeist, Matthäus Bern und Bremgarten, Münster, Nydegg, Paulus, Petrus
 - 2 Bernisch und freiburgisch Ferenbalm
 - 3 Bernisch und freiburgisch Kerzers
 - 4 Belp, Belpberg und Toffen
