@@ -3,20 +3,19 @@ canton: BL
 number: "914.12"
 title: Verordnung über die Berufe im Gesundheitswesen
 language: de
-version: 2018-11-01
-valid_until: 2024-12-31
-version_adopted: 2018-10-23
+version: 2025-01-01
+version_adopted: 2024-11-12
 adopted: 2009-03-17
 in_force: 2009-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/914.12"
-pdf: "https://bl.clex.ch/api/de/versions/2334/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4001/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Berufe im Gesundheitswesen
 
-Vom 17.03.2009 (Stand 01.11.2018)
+Vom 17.03.2009 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -250,17 +249,29 @@ beschliesst:
 - a. im Besitz eines eidgenössischen oder eidgenössisch anerkannten Apotheker-Diploms sind und
 - b. sich in einer anerkannten Weiterbildung gemäss dem Bundesgesetz über die Medizinalberufe befinden.
 
-<sup>2</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber ist berechtigt, die Stellvertretung von in fachlicher Eigenverantwortung tätigen Personen stundenweise, für maximal einen Tag pro Woche sowie maximal vier Wochen Ferien oder Krankheitsvertretung pro Jahr zu übernehmen, sofern in diesen Zeiträumen eine Person mit Bewilligung zur fachlich eigenverantwortlichen Berufsausübung für Rückfragen erreichbar ist.
+<sup>2</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber ist berechtigt, die Stellvertretung von in fachlicher Eigenverantwortung tätigen Personen stundenweise, für maximal 2 Tage pro Woche sowie maximal 6 Wochen Ferien oder Krankheitsvertretung pro Jahr, wovon maximal 4 Wochen am Stück, zu übernehmen, sofern in diesen Zeiträumen eine Person mit Bewilligung zur fachlich eigenverantwortlichen Berufsausübung für Rückfragen erreichbar ist.
 
-<sup>3</sup> Die Bewilligung zur Ausübung des Apothekerberufes mit eingeschränkter Stellvertreterfunktion ist auf die in der Bewilligung bezeichnete Apotheke beschränkt und auf 3 Jahre befristet. Eine Verlängerung ist in begründeten Fällen möglich, sofern die Fortbildungspflicht erfüllt ist.
+<sup>3</sup> Die Bewilligung zur Ausübung des Apothekerberufes mit eingeschränkter Stellvertreterfunktion ist auf maximal 2 Apotheken beschränkt und auf 3 Jahre befristet. Eine Verlängerung ist in begründeten Fällen möglich, sofern die Fortbildungspflicht erfüllt ist.
 
 ### 2.3 Drogistinnen und Drogisten
 
 #### § 20
 
-**Stellvertreterinnen und Stellvertreter**
+**…**
 
-<sup>1</sup> Eine Bewilligung zur Tätigkeit als Stellvertreterin oder Stellvertreter wird an Personen erteilt, welche die höhere eidgenössische Fachprüfung für Drogistinnen und Drogisten bestanden haben. Die Bewilligung ist für alle Drogerien im Kanton gültig und unbefristet.
+#### § 20a
+
+**Tätigkeit mit eingeschränkter Stellvertreterfunktion**
+
+<sup>1</sup> Eine Bewilligung zur Ausübung des Drogistenberufs mit eingeschränkter Stellvertreterfunktion wird an Personen erteilt, welche:
+
+- a. über ein eidgenössisches Fähigkeitszeugnis als Drogistin oder Drogist verfügen;
+- b. eine 2-jährige praktische Tätigkeit als Drogistin oder Drogist nachweisen;
+- c. eine Zusatzausbildung absolviert haben, welche sie dazu befähigt, die fachtechnische Verantwortung in einer Drogerie eingeschränkt zu übernehmen.
+
+<sup>2</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber ist berechtigt, die Stellvertretung von in fachlicher Eigenverantwortung tätigen Personen stundenweise, für maximal 2 Tage pro Woche sowie maximal 6 Wochen Ferien oder Krankheitsvertretung pro Jahr, wovon maximal 4 Wochen am Stück, zu übernehmen, sofern in diesen Zeiträumen eine Person mit Bewilligung zur fachlich eigenverantwortlichen Berufsausübung für Rückfragen erreichbar ist.
+
+<sup>3</sup> Die Bewilligung zur Ausübung des Drogistenberufs mit eingeschränkter Stellvertreterfunktion ist auf die in der Bewilligung bezeichnete Drogerie beschränkt und auf 3 Jahre befristet. Eine Verlängerung ist möglich.
 
 ### 2.4 Weitere Leistungserbringer in der obligatorischen Krankenpflegeversicherung
 
@@ -407,6 +418,12 @@ beschliesst:
 **Übergangsbestimmung zur Änderung vom 23. Oktober 2018**
 
 <sup>1</sup> Stellvertreterbewilligungen für Apothekerinnen und Apotheker, welche vor dem 1. Januar 2018 erteilt wurden, behalten ihre Gültigkeit.
+
+#### § 36
+
+**Übergangsbestimmung zur Änderung vom 12. November 2024**
+
+<sup>1</sup> Stellvertreterbewilligungen für Drogistinnen und Drogisten, welche vor dem 1. Januar 2025 erteilt worden sind, behalten ihre Gültigkeit.
 
 #### § 37
 
