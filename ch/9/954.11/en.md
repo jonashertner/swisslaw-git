@@ -4,11 +4,11 @@ title: "Ordinance of 6 November 2019 on Financial Institutions (Financial Instit
 short: FinIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: en
-version: 2024-03-01
+version: 2025-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20240301-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Ordinance, FinIO)
 
-of 6 November 2019 (Status as of 1 March 2024)
+of 6 November 2019 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -456,7 +456,7 @@ Paragraph 2 applies by analogy to trustees. Moreover, trustees must, within the 
 - a. act in the best possible interests of beneficiaries and with the required level of skill, care and diligence;
 - b. take appropriate organisational precautions to avoid conflicts of interest or disadvantages for beneficiaries as a result of conflicts of interest.
 
-<sup>5</sup> If the rendering of additional services increases the risks to which portfolio managers and trustees are exposed, this must be taken into account within the scope of supervision (Articles 61 and 62 FinIA).
+<sup>5</sup> If the provision of additional services increases the risks to which portfolio managers and trustees are exposed, this must be taken into account within the scope of supervision (Articles 61 and 62 FinIA).
 
 [^24-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^24-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
@@ -765,7 +765,7 @@ Managers of collective assets also wishing to act as trustees require additional
 
 <sup>2</sup> A manager of collective assets which also offers personalised asset management in accordance with Article 6 paragraph 4 in conjunction with Article 17 paragraph 1 FinIA may not invest the investor's assets, whether in full or in part, in units of collective investment schemes that it manages, unless the client has given their general consent beforehand.
 
-<sup>3</sup> If the rendering of additional services increases the risks to which managers of collective assets are exposed, this must be taken into account within the scope of supervision (Articles 61 and 63 FinIA).
+<sup>3</sup> If the provision of additional services increases the risks to which managers of collective assets are exposed, this must be taken into account within the scope of supervision (Articles 61 and 63 FinIA).
 
 #### Art. 40
 
@@ -1132,7 +1132,7 @@ The minimum capital of fund management companies must amount to at least CHF 1 m
 
 ### (Art. 37 FinIA)
 
-<sup>1</sup> The level of capital adequacy stipulated in Article 37 FinIA must be maintained at all times. They must amount to no more than CHF 20 million, including the capital in accordance with paragraph 5.
+<sup>1</sup> The level of capital adequacy stipulated in Article 37 FinIA must be maintained at all times. They must amount to no more than CHF 20 million, including the capital in accordance with paragraphs 3 and 5.[^59-1]
 
 <sup>2</sup>
 
@@ -1144,13 +1144,14 @@ They will be calculated as follows in percentages of the total assets of the col
 - d. ¼% for that portion of the total assets exceeding CHF 150 million, but not exceeding CHF 250 million;
 - e. ⅛% for that portion of the total assets exceeding CHF 250 million.
 
-<sup>3</sup> Where the fund management company renders further services in accordance with Article 34 FinIA, the operational risks arising from such transactions are calculated using the basic indicator approach as defined in Article 92 of the Capital Adequacy Ordinance of 1 June 2012[^59-1] (CAO).
+<sup>3</sup> Where the fund management company provides further services in accordance with Article 34 FinIA, it must in respect of the operational risks arising from such services hold additional capital amounting to 15 per cent of the return from these services in the previous three years. Only years in which a positive return was achieved shall be taken into account.[^59-2]
 
 <sup>4</sup> If the fund management company is entrusted with the administration and portfolio management of the assets of a SICAV, its total assets must be included in the calculation of capital in accordance with paragraph 2.
 
 <sup>5</sup> If the fund management company is solely entrusted with the administration of a SICAV, it must hold additional capital of 0.01% of the total assets of the SICAV.
 
-[^59-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^59-1]: Amended by Annex No 4 of the O of 29 Nov 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59-2]: Amended by Annex No 4 of the O of 29 Nov 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 60
 
@@ -1270,6 +1271,10 @@ The following are not deemed to be clients within the meaning of Article 41 lett
 
 <sup>4</sup> Where there are legitimate grounds for so doing, FINMA may allow relaxations of these requirements or it may impose more stringent requirements.
 
+<sup>5</sup> FINMA shall regulate the requirements on disclosure of information on organisational matters, including information on remuneration.[^66-1]
+
+[^66-1]: Inserted by Annex No 4 of the O of 29 Nov 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
 #### Art. 67
 
 **Tasks**
@@ -1297,6 +1302,10 @@ The following are not deemed to be clients within the meaning of Article 41 lett
 <sup>4</sup> Firms trading for the account of clients and firms acting as market makers within the meaning of Article 41 letters a and c FinIA shall appoint internal auditors who are independent of management. Internal auditors must be provided with sufficient resources and have unlimited audit rights.
 
 <sup>5</sup> Where there are legitimate grounds for so doing, FINMA may allow relaxations of these requirements or it may impose more stringent requirements.
+
+<sup>6</sup> FINMA shall regulate the requirements on disclosure of information on risks, and in particular on risk management.[^68-1]
+
+[^68-1]: Inserted by Annex No 4 of the O of 29 Nov 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 69
 

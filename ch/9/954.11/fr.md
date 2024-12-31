@@ -4,11 +4,11 @@ title: Ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)
 short: OEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: fr
-version: 2024-03-01
+version: 2025-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20240301-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/fr"
 
 (OEFin)
 
-du 6 novembre 2019 (État le 1<sup>er</sup> mars 2024)
+du 6 novembre 2019 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1131,7 +1131,7 @@ Le capital minimal des directions de fonds doit s’élever à 1 million de fran
 
 ### (art. 37 LEFin)
 
-<sup>1</sup> Les fonds propres prescrits à l’art. 37 LEFin doivent être maintenus en permanence. Ils s’élèvent à 20 millions de francs au plus, y compris les fonds propres visés à l’al. 5.
+<sup>1</sup> Les fonds propres prescrits à l’art. 37 LEFin doivent être maintenus en permanence. Ils s’élèvent à 20 millions de francs au maximum, y compris les fonds propres visés aux al. 3 et 5.[^59-1]
 
 <sup>2</sup>
 
@@ -1143,13 +1143,14 @@ Ils sont calculés en pourcentage de la fortune totale des placements collectifs
 - d. ¼ % de la partie dépassant 150, mais n’excédant pas 250 millions de francs;
 - e. ⅛ % de la partie excédant 250 millions de francs.
 
-<sup>3</sup> Si la direction de fonds fournit d’autres prestations au sens de l’art. 34 LEFin, les risques opérationnels liés à ces activités doivent être pris en compte selon l’approche de l’indicateur de base, conformément à l’art. 92 de l’ordonnance du 1<sup>er</sup> juin 2012 sur les fonds propres (OFR)[^59-1].
+<sup>3</sup> Si la direction de fonds fournit d’autres prestations au sens de l’art. 34 LEFin, elle doit, pour couvrir les risques opérationnels liés à ces prestations, détenir des fonds propres supplémentaires s’élevant à 15 % des revenus qu’elle a tirés de ces prestations au cours des trois années précédentes. Ne sont prises en considération que les années bénéficiaires.[^59-2]
 
 <sup>4</sup> Si la direction de fonds est chargée d’administrer la fortune et de gérer le portefeuille d’une SICAV, le calcul des fonds propres au sens de l’al. 2 doit tenir compte de la fortune totale de la SICAV.
 
 <sup>5</sup> Si la direction de fonds est chargée uniquement d’administrer une SICAV, elle doit détenir des fonds propres supplémentaires s’élevant à 0,01 % de la fortune totale de la SICAV.
 
-[^59-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^59-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 60
 
@@ -1269,6 +1270,10 @@ Ne sont pas considérés comme des clients au sens de l’art. 41, let. a, LEFin
 
 <sup>4</sup> La FINMA peut décider d’assouplir ou de renforcer ces exigences si les circonstances le justifient.
 
+<sup>5</sup> La FINMA définit les exigences applicables à la publication d’informations sur l’organisation, y compris d’informations sur les rémunérations.[^66-1]
+
+[^66-1]: Introduit par l’annexe ch. 4 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
 #### Art. 67
 
 **Tâches**
@@ -1296,6 +1301,10 @@ Ne sont pas considérés comme des clients au sens de l’art. 41, let. a, LEFin
 <sup>4</sup> Les négociants agissant pour le compte de clients et les teneurs de marché au sens de l’art. 41, let. a et c, LEFin mettent en place une révision interne indépendante de la direction. La révision interne doit disposer de ressources suffisantes et de droits d’examen illimités.
 
 <sup>5</sup> La FINMA peut décider d’assouplir ou de renforcer ces exigences si les circonstances le justifient.
+
+<sup>6</sup> La FINMA définit les exigences applicables à la publication d’informations sur les risques, concernant notamment la gestion de ceux-ci.[^68-1]
+
+[^68-1]: Introduit par l’annexe ch. 4 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 69
 

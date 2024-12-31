@@ -4,11 +4,11 @@ title: "Verordnung vom 6. November 2019 über die Finanzinstitute (Finanzinstitu
 short: FINIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: de
-version: 2024-03-01
+version: 2025-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20240301-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/de"
 
 (Finanzinstitutsverordnung, FINIV)
 
-vom 6. November 2019 (Stand am 1. März 2024)
+vom 6. November 2019 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -857,7 +857,8 @@ Verwalter von Kollektivvermögen müssen:
 
 - a. Eigenmittel von 0,01 Prozent des Gesamtvermögens der vom Verwalter von Kollektivvermögen verwalteten Kollektivvermögen halten; oder
 - b. eine Berufshaftpflichtversicherung abschliessen.
-- [tab] <sup>3</sup> Die FINMA regelt die Einzelheiten zur Berufshaftpflichtversicherung, insbesondere betreffend Laufzeit, Kündigungsfrist, die Höhe des Versicherungsschutzes, die zu deckenden Berufshaftungsrisiken und die Meldepflichten.
+
+<sup>3</sup> Die FINMA regelt die Einzelheiten zur Berufshaftpflichtversicherung, insbesondere betreffend Laufzeit, Kündigungsfrist, die Höhe des Versicherungsschutzes, die zu deckenden Berufshaftungsrisiken und die Meldepflichten.
 
 <sup>4</sup>
 
@@ -1130,7 +1131,7 @@ Das Mindestkapital von Fondsleitungen muss mindestens 1 Million Franken betragen
 
 ### (Art. 37 FINIG)
 
-<sup>1</sup> Die nach Artikel 37 FINIG vorgeschriebenen Eigenmittel sind dauernd einzuhalten. Sie müssen, einschliesslich der Eigenmittel nach Absatz 5, höchstens 20 Millionen Franken betragen.
+<sup>1</sup> Die nach Artikel 37 FINIG vorgeschriebenen Eigenmittel sind dauernd einzuhalten. Sie müssen, einschliesslich der Eigenmittel nach den Absätzen 3 und 5, höchstens 20 Millionen Franken betragen.[^59-1]
 
 <sup>2</sup>
 
@@ -1142,13 +1143,14 @@ Sie werden in Prozenten des Gesamtvermögens der von der Fondsleitung verwaltete
 - d. ¼ Prozent für den Teil, der 150, nicht aber 250 Millionen Franken übersteigt;
 - e. ⅛ Prozent für den Teil, der 250 Millionen Franken übersteigt.
 
-<sup>3</sup> Erbringt die Fondsleitung weitere Dienstleistungen nach Artikel 34 FINIG, so werden die operationellen Risiken aus diesen Geschäften nach dem Basisindikatoransatz nach Artikel 92 der Eigenmittelverordnung vom 1. Juni 2012[^59-1] (ERV) berechnet.
+<sup>3</sup> Erbringt die Fondsleitung weitere Dienstleistungen nach Artikel 34 FINIG, so muss sie für operationelle Risiken aus diesen Dienstleistungen zusätzliche Eigenmittel von 15 Prozent des Ertrags dieser Dienstleistungen der vorangegangenen drei Jahre halten. Es sind nur diejenigen Jahre zu berücksichtigen, in denen der Ertrag positiv ausfiel.[^59-2]
 
 <sup>4</sup> Wird die Fondsleitung mit der Administration und der Portfolioverwaltung des Vermögens einer SICAV beauftragt, so ist deren Gesamtvermögen für die Berechnung der Eigenmittel nach Absatz 2 einzubeziehen.
 
 <sup>5</sup> Wird die Fondsleitung ausschliesslich mit der Administration einer SICAV beauftragt, so muss sie zusätzliche Eigenmittel von 0,01 Prozent des Gesamtvermögens der SICAV halten.
 
-[^59-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^59-1]: Fassung gemäss Anhang Ziff. 4 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59-2]: Fassung gemäss Anhang Ziff. 4 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 60
 
@@ -1268,6 +1270,10 @@ Nicht als Kundinnen oder Kunden im Sinne von Artikel 41 Buchstabe a FINIG gelten
 
 <sup>4</sup> Die FINMA kann in begründeten Fällen von diesen Anforderungen Erleichterungen gewähren oder Verschärfungen anordnen.
 
+<sup>5</sup> Die FINMA regelt die Anforderungen an die Offenlegung von Informationen über die Organisation, einschliesslich Informationen über die Vergütungen.[^66-1]
+
+[^66-1]: Eingefügt durch Anhang Ziff. 4 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
 #### Art. 67
 
 **Aufgaben**
@@ -1295,6 +1301,10 @@ Nicht als Kundinnen oder Kunden im Sinne von Artikel 41 Buchstabe a FINIG gelten
 <sup>4</sup> Kundenhändler und Market-Maker im Sinne von Artikel 41 Buchstaben a und c FINIG bestimmen eine von der Geschäftsführung unabhängige interne Revision. Diese muss über ausreichend Ressourcen sowie unbeschränkte Prüfrechte verfügen.
 
 <sup>5</sup> Die FINMA kann in begründeten Fällen von diesen Anforderungen Erleichterungen gewähren oder Verschärfungen anordnen.
+
+<sup>6</sup> Die FINMA regelt die Anforderungen an die Offenlegung von Informationen über die Risiken, insbesondere über das Risikomanagement.[^68-1]
+
+[^68-1]: Eingefügt durch Anhang Ziff. 4 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 69
 
@@ -1618,7 +1628,8 @@ Die Vertretung eines ausländischen Finanzinstituts, die Finanzdienstleistungen 
 
 - a. die Bestimmungen des FIDLEG einhalten;
 - b. ihre Kundenberaterinnen und -berater in ein Beraterregister nach Artikel 28 FIDLEG eintragen lassen, wenn diese ihre Dienstleistungen in der Schweiz nicht ausschliesslich gegenüber professionellen oder institutionellen Kunden nach Artikel 4 FIDLEG erbringen.
-- [tab] <sup>2</sup> Das Verbot zur Errichtung einer Vertretung einer ausländischen Fondsleitung nach Artikel 58 Absatz 2 FINIG[^82-2] gilt ausschliesslich für Vertretungstätigkeiten in Bezug auf die Leitung und Verwaltung von Anlagefonds.
+
+<sup>2</sup> Das Verbot zur Errichtung einer Vertretung einer ausländischen Fondsleitung nach Artikel 58 Absatz 2 FINIG[^82-2] gilt ausschliesslich für Vertretungstätigkeiten in Bezug auf die Leitung und Verwaltung von Anlagefonds.
 
 <sup>3</sup> Errichtet ein ausländisches Finanzinstitut mehrere Vertretungen in der Schweiz, so muss es für jede Vertretung eine Bewilligung einholen.[^82-3]
 

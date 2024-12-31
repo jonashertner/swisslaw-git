@@ -4,11 +4,11 @@ title: Ordinanza del 6 novembre 2019 sugli istituti finanziari (OIsFi)
 short: OIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: it
-version: 2024-03-01
+version: 2025-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20240301-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/it"
 
 (OIsFi)
 
-del 6 novembre 2019 (Stato 1° marzo 2024)
+del 6 novembre 2019 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -701,6 +701,16 @@ Per il calcolo dei valori soglia dei valori patrimoniali di istituti di previden
 
 <sup>3</sup> Se gli adeguamenti al modello aziendale ai sensi del capoverso 2 sono effettuati durante una procedura di autorizzazione in corso, quest’ultima diventa priva di oggetto.
 
+#### Art. 36a
+
+**Autorizzazione completiva**[^36a-1]
+
+### (art. 6 LIsFi)
+
+I gestori di patrimoni collettivi che intendono operare anche come trustee necessitano di un’autorizzazione completiva.
+
+[^36a-1]: Introdotto dall’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
 #### Art. 36
 
 **Autorizzazione quale gestore di patrimoni collettivi**
@@ -712,16 +722,6 @@ La FINMA rilascia a un gestore patrimoniale di cui all’articolo 24 capoverso 2
 - a. esso ha sede in Svizzera;
 - b. le condizioni di autorizzazione di cui all’articolo 24 capoverso 1 LIsFi sono adempiute; e
 - c. il diritto svizzero o il diritto estero applicabile prevede che la gestione di patrimoni collettivi possa essere delegata soltanto a un gestore di patrimoni collettivi sottoposto a vigilanza.
-
-#### Art. 36a
-
-**Autorizzazione completiva**[^36a-1]
-
-### (art. 6 LIsFi)
-
-I gestori di patrimoni collettivi che intendono operare anche come trustee necessitano di un’autorizzazione completiva.
-
-[^36a-1]: Introdotto dall’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 37
 
@@ -959,7 +959,7 @@ La documentazione interna dei gestori di patrimoni collettivi deve consentire al
 
 ### (art.32 LIsFi)
 
-<sup>1</sup> 2 Gli istituti che si occupano esclusivamente dell’amministrazione per conto di una società di investimento a capitale variabile (SICAV) con gestione di terzi secondo la LICol[^49-1] effettuano autonomamente la gestione del fondo di investimento e sono sottoposti, in quanto direzioni dei fondi, all’obbligo di autorizzazione secondo l’articolo 5 capoverso 1 in combinato disposto con l’articolo 32 LIsFi.
+<sup>1</sup>
 
 La gestione autonoma del fondo di investimento in nome proprio e per conto degli investitori da parte della direzione del fondo comprende in particolare:
 
@@ -967,6 +967,8 @@ La gestione autonoma del fondo di investimento in nome proprio e per conto degli
 - b. il calcolo del valore netto di inventario;
 - c. la determinazione dei prezzi di emissione e di riscatto, nonché delle distribuzioni di utili;
 - d. l’esercizio di tutti i diritti appartenenti al fondo di investimento.
+
+<sup>2</sup> Gli istituti che si occupano esclusivamente dell’amministrazione per conto di una società di investimento a capitale variabile (SICAV) con gestione di terzi secondo la LICol[^49-1] effettuano autonomamente la gestione del fondo di investimento e sono sottoposti, in quanto direzioni dei fondi, all’obbligo di autorizzazione secondo l’articolo 5 capoverso 1 in combinato disposto con l’articolo 32 LIsFi.
 
 [^49-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
@@ -1129,7 +1131,7 @@ Il capitale minimo delle direzioni dei fondi deve ammontare a 1 milione di franc
 
 ### (art. 37 LIsFi)
 
-<sup>1</sup> I fondi propri prescritti nell’articolo 37 LIsFi devono essere mantenuti durevolmente. Devono ammontare al massimo a 20 milioni di franchi, compresi i fondi propri di cui al capoverso 5.
+<sup>1</sup> I fondi propri prescritti nell’articolo 37 LIsFI devono essere mantenuti durevolmente. Devono ammontare al massimo a 20 milioni di franchi, compresi i fondi propri di cui ai capoversi 3 e 5.[^59-1]
 
 <sup>2</sup>
 
@@ -1141,13 +1143,14 @@ Essi sono calcolati in punti percentuali del patrimonio complessivo degli invest
 - d. ¼ per cento per la quota superiore a 150 milioni, ma inferiore a 250 milioni di franchi;
 - e. ⅛ per cento per la quota che supera 250 milioni di franchi.
 
-<sup>3</sup> Se la direzione del fondo fornisce le altre prestazioni di servizi di cui all’articolo 34 LIsFi i rischi operativi derivanti da queste attività sono calcolati secondo l’approccio dell’indicatore di base di cui all’articolo 92 dell’ordinanza del 1° giugno 2012[^59-1] sui fondi propri (OFoP).
+<sup>3</sup> Se la direzione del fondo fornisce le altre prestazioni di servizi di cui all’articolo 34 LIsFI, per i rischi operativi derivanti da queste prestazioni essa deve detenere fondi propri supplementari pari al 15 per cento dei ricavi di tali prestazioni realizzati nei tre anni precedenti. Sono considerati soltanto gli anni in cui tali ricavi hanno un saldo positivo.[^59-2]
 
 <sup>4</sup> Se la direzione del fondo è incaricata dell’amministrazione e della gestione del portafoglio di una SICAV, il suo patrimonio complessivo deve essere integrato nel calcolo dei fondi propri secondo il capoverso 2.
 
 <sup>5</sup> Se è incaricata esclusivamente dell’amministrazione di una SICAV, la direzione del fondo deve detenere fondi propri supplementari pari allo 0,01 per cento del patrimonio complessivo della SICAV.
 
-[^59-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^59-1]: Nuovo testo giusta l’all. n. 4 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59-2]: Nuovo testo giusta l’all. n. 4 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 60
 
@@ -1171,7 +1174,8 @@ Le direzioni dei fondi possono inoltre computare nei fondi propri i mutui loro c
 
 - a. tali mutui sono di grado posteriore rispetto ai crediti di tutti gli altri creditori in caso di liquidazione, fallimento o procedura concordataria; e
 - b. la direzione del fondo si è impegnata a non compensarli con i crediti propri, né a garantirli con valori patrimoniali propri.
-- [tab] <sup>3</sup> La dichiarazione di cui al capoverso 2 è irrevocabile. Deve essere fornita in forma scritta o in un’altra forma che ne consenta la prova per testo e depositata presso la società di audit.
+
+<sup>3</sup> La dichiarazione di cui al capoverso 2 è irrevocabile. Deve essere fornita in forma scritta o in un’altra forma che ne consenta la prova per testo e depositata presso la società di audit.
 
 <sup>4</sup> I fondi propri di cui al capoverso 1 devono corrispondere almeno al 50 per cento dei fondi propri complessivi necessari.
 
@@ -1266,6 +1270,10 @@ Non sono considerati clienti ai sensi dell’articolo 41 lettera a LIsFi:
 
 <sup>4</sup> In casi motivati, la FINMA può consentire agevolazioni rispetto a questi requisiti o disporre requisiti più severi.
 
+<sup>5</sup> La FINMA disciplina le esigenze in materia di pubblicazione delle informazioni sull’organizzazione, comprese le informazioni sulle retribuzioni.[^66-1]
+
+[^66-1]: Introdotto dall’all. n. 4 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
 #### Art. 67
 
 **Compiti**
@@ -1293,6 +1301,10 @@ Non sono considerati clienti ai sensi dell’articolo 41 lettera a LIsFi:
 <sup>4</sup> I commercianti che operano per il conto di clienti e i market maker ai sensi dell’articolo 41 lettere a e c LIsFi istituiscono un organo di audit interno indipendente dalla gestione. Esso deve disporre di risorse sufficienti e di diritti di verifica incondizionati.
 
 <sup>5</sup> In casi motivati, la FINMA può consentire agevolazioni rispetto a questi requisiti o disporre requisiti più severi.
+
+<sup>6</sup> La FINMA disciplina le esigenze in materia di pubblicazione delle informazioni sui rischi, in particolare sulla gestione dei rischi.[^68-1]
+
+[^68-1]: Introdotto dall’all. n. 4 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 69
 
@@ -1600,11 +1612,11 @@ La società di audit trasmette il suo rapporto:
 
 Prima di procedere alla scioglimento di una succursale, l’istituto finanziario estero richiede l’approvazione della FINMA.
 
-## Sezione 6: Rappresentanze
+### Sezione 6: Rappresentanze
 
-[^chap3-1]
+[^chap2-sec6-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I 7 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^chap2-sec6-1]: Nuovo testo giusta il n. I 7 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### (art. 58 cpv. 1 e 2 nonché 59 LIsFi)
 
