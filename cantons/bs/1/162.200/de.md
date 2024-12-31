@@ -4,13 +4,13 @@ number: "162.200"
 title: Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 short: "Arbeitszeitverordnung, AZV"
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-06
+version: 2025-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-11-19
 adopted: 2004-07-06
 in_force: 2005-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5970/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Arbeitszeitverordnung | Dienstverhältnis
 
 (Arbeitszeitverordnung, AZV)
 
-Vom 6. Juli 2004 (Stand 1. Januar 2023)
+Vom 6. Juli 2004 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -96,7 +96,7 @@ beschliesst:
 - b) Mittagspause: zwischen 11.00 Uhr und 14.00 Uhr
 - c) Arbeitsende: zwischen 16.00 und 20.00 Uhr
 
-<sup>3</sup> An Nachmittagen vor Feiertagen endet die Gleitzeit um 13.00 Uhr, sofern der Regierungsrat nichts anderes beschliesst.
+<sup>3</sup> …
 
 <sup>4</sup> Falls der Betrieb es zulässt, können mit Genehmigung des Departements bzw. des Betriebs oder der Direktion von der Organisationseinheit andere Blockzeiten eingeführt werden.
 
