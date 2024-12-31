@@ -3,20 +3,19 @@ canton: LU
 number: "421"
 title: Verordnung über das kantonale Bibliotheksangebot
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-11-10
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2007-11-30
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/421"
-pdf: "https://srl.lu.ch/api/de/versions/3668/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das kantonale Bibliotheksangebot
 
-vom 30.11.2007 (Stand 01.01.2021)
+vom 30.11.2007 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -89,7 +88,7 @@ beschliesst:
 
 **Leitung**
 
-<sup>1</sup> Die Zentral- und Hochschulbibliothek ist fachlich und administrativ der Dienststelle Hochschulbildung und Kultur[^6-1] unterstellt und ist in ihrem Aufgabenbereich befugt, in deren Namen und Auftrag zu handeln.
+<sup>1</sup> Die Zentral- und Hochschulbibliothek ist fachlich und administrativ der Dienststelle Kultur unterstellt und ist in ihrem Aufgabenbereich befugt, in deren Namen und Auftrag zu handeln.
 
 <sup>2</sup> Die Leitung der Bibliothek (Direktion) erlässt Weisungen, namentlich zur Benutzung der Zentral- und Hochschulbibliothek und der Studienplätze, zur Nutzung von Informatikmitteln und elektronischen Ressourcen sowie zu den Öffnungszeiten und zur Hausordnung.
 
@@ -98,8 +97,6 @@ beschliesst:
 <sup>4</sup> …
 
 <sup>5</sup> In Belangen der Bürgerbibliothek Luzern bezieht sie die Korporation Luzern nach den Bestimmungen des Vertrags über das Depositum der Bürgerbibliothek in der Zentralbibliothek Luzern vom 3. Juli 1996 ein.
-
-[^6-1]: Gemäss Änderung vom 30. August 2011, in Kraft seit dem 1. September 2011 (G 2011 235), wurde die Bezeichnung «Dienststelle Hochschulbildung, Kultur und Sport» durch «Dienststelle Hochschulbildung und Kultur» ersetzt.
 
 ### 1.3 Benutzung
 
@@ -121,9 +118,9 @@ beschliesst:
 
 **Kosten und Gebühren**
 
-<sup>1</sup> Die Benutzung der Zentral- und Hochschulbibliothek sowie der bibliothekseigenen Informationsmittel ist unentgeltlich mit Ausnahme der Kosten für die Ausstellung des Benutzungsausweises.
+<sup>1</sup> Die Benutzung der Zentral- und Hochschulbibliothek sowie der bibliothekseigenen Informationsmittel ist unentgeltlich.
 
-<sup>2</sup> Für Mahnungen werden Gebühren bis zu maximal 35 Franken pro Medium und Mahngang erhoben.
+<sup>2</sup> Für Mahnungen werden Gebühren bis zu maximal 20 Franken pro Medium und Mahngang erhoben.
 
 <sup>3</sup> Auslagen können den Benutzerinnen und Benutzern in Rechnung gestellt werden.
 
