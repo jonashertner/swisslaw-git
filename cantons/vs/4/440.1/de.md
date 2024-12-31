@@ -4,13 +4,13 @@ number: "440.1"
 title: Kulturförderungsgesetz
 short: KFG
 language: de
-version: 2021-04-01
-valid_until: 2024-12-31
-version_adopted: 2018-06-15
+version: 2025-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-11-14
 adopted: 1996-11-15
 in_force: 1997-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/440.1"
-pdf: "https://lex.vs.ch/api/de/versions/2880/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2880/pdf_file"
 
 (KFG)
 
-vom 15.11.1996 (Stand 01.04.2021)
+vom 15.11.1996 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -154,10 +154,10 @@ verordnet:
 
 **Kantonaler Kulturfonds**
 
-<sup>1</sup> Der Staat errichtet einen kantonalen Kulturfonds, der finanziert wird durch:
+<sup>1</sup> Der Staat errichtet einen kantonalen Kulturfonds, der gespeist wird durch:
 
 - a) Vermächtnisse, Schenkungen und weitere Mittel, die ihm zugewiesen werden können;
-- b) eine Vermögenserträge.
+- b) …
 
 #### Art. 15
 

@@ -4,13 +4,13 @@ number: "440.1"
 title: Loi sur la promotion de la culture
 short: LPrC
 language: fr
-version: 2021-04-01
-valid_until: 2024-12-31
-version_adopted: 2018-06-15
+version: 2025-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-11-14
 adopted: 1996-11-15
 in_force: 1997-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/440.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2880/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3433/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2880/pdf_file"
 
 (LPrC)
 
-du 15.11.1996 (état 01.04.2021)
+du 15.11.1996 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -157,7 +157,7 @@ ordonne:
 <sup>1</sup> L'Etat crée un fonds cantonal de la culture qui est alimenté par:
 
 - a) les legs, les dons et toutes les autres ressources qui peuvent lui être affectées;
-- b) le produit de la fortune du fonds.
+- b) …
 
 #### Art. 15
 
