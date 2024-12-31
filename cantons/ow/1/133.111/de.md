@@ -3,20 +3,20 @@ canton: OW
 number: "133.111"
 title: Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-08
+version: 2025-01-01
+valid_until: 2025-12-17
+version_adopted: 2024-12-17
 adopted: 2002-06-04
 in_force: 2002-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/133.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1750/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1926/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 
-vom 04.06.2002 (Stand 01.01.2023)
+vom 04.06.2002 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -76,13 +76,14 @@ beschliesst:
 
 - a. Departementssekretariat:
   - 1\. …
-  - 2\. E-Government;
+  - 2\. E-Government,
+  - 3\. IKS-Fachstelle;
 - b. Personalamt:
   - 1\. Personalwesen u.a. mit: Personaladministration und -rekrutierung, Personalrecht, Personalinformation, Personalentwicklung, Lehrlinge, Personenversicherungen, berufliche Vorsorge,
   - 2\. Verwaltungsorganisation mit: Führungsstruktur und -instrumente, Organisationsentwicklung;
 - c. Finanzverwaltung:
   - 1\. Finanz- und Rechnungswesen (eingeschlossen Finanzplanung),
-  - 1a. IKS-Fachstelle,
+  - 1a. …
   - 2\. Lohnbuchhaltung,
   - 3\. Finanzausgleich,
   - 4\. Staatshaftung, Verantwortlichkeit, Sach- und Haftpflichtversicherungen,
@@ -150,7 +151,8 @@ beschliesst:
   - 10\. Kranken- und Unfallversicherung (ohne Prämienverbilligung in der Krankenversicherung),
   - 11\. Schwangerschaftsberatung,
   - 12\. Lebensmittel und Gebrauchsgegenstände, soweit diese Aufgaben nicht dem Laboratorium der Urkantone übertragen sind,
-  - 13\. Tierschutz, Tierseuchenbekämpfung, Tierarzneimittel, Schlachtung, Fleischhygiene, Hundehaltung und Berufe der Tierheilkunde, soweit diese Aufgaben nicht dem Laboratorium der Urkantone übertragen sind;
+  - 13\. Tierschutz, Tierseuchenbekämpfung, Tierarzneimittel, Schlachtung, Fleischhygiene, Hundehaltung und Berufe der Tierheilkunde, soweit diese Aufgaben nicht dem Laboratorium der Urkantone übertragen sind,
+  - 14\. Schulgesundheitsdienst;
 - f. Sozialamt:
   - 1\. Sozialhilfe mit: Koordination privater und öffentlicher sozialer Tätigkeiten, Aufsicht über die öffentliche Sozialhilfe, Beiträge aus dem Alkoholzehntel,
   - 2\. Beratung Betagter, Behinderter und psychisch Kranker,
@@ -256,7 +258,7 @@ beschliesst:
   - 6\. Sonderpädagogische Massnahmen,
   - 7\. Lehrerinnen- und Lehrerberatung,
   - 8\. Kantonsschule, Mittelschulen,
-  - 9\. Schulgesundheitsdienst;
+  - 9\. …
 - c. Amt für Berufsbildung:
   - 1\. Lehraufsicht,
   - 1a. Brückenangebote,
@@ -396,6 +398,10 @@ geändert durch:
 
 \- Nachtrag vom 21. Juni 2022, in Kraft seit 1. Juli 2022 (OGS 2022, 20),
 
-\- Nachtrag vom 8. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 25)
+\- Nachtrag vom 8. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 25),
+
+\- Nachtrag vom 15. Oktober 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 24),
+
+\- Nachtrag zu den AB über das Interne Kontrollsystem IKS vom 17. Dezember 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 44)
 
 OGS 2002, 33
