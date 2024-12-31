@@ -4,11 +4,11 @@ title: "Ordonnance du 9 mai 1990 sur le bail à loyer et le bail à ferme d'habi
 short: OBLF
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/835_835_835"
 language: fr
-version: 2020-06-01
+version: 2025-01-01
 adopted: 1990-05-09
 in_force: 1990-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20200601/fr/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20200601-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20200601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20200601/fr"
 
 (OBLF)
 
-du 9 mai 1990 (État le 1<sup>er</sup> juin 2020)
+du 9 mai 1990 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -116,9 +116,11 @@ Peuvent entrer en ligne de compte les dépenses effectives lorsque le bailleur s
 
 **Achat d’électricité dans le cadre d’un regroupement à des fins de consommation propre**[^6b-1]
 
-Dans le cadre d’un regroupement au sens de l’art. 17 LEne, le bailleur peut facturer les coûts visés à l’art. 16 OEne en tant que coûts accessoires.
+Dans le cadre d’un regroupement au sens de l’art. 17 de la loi du 30 septembre 2016 sur l’énergie[^6b-2], le bailleur peut facturer les coûts visés aux art. 16*a* et 16*b* de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie[^6b-3] en tant que coûts accessoires
 
-[^6b-1]: Introduit par l’annexe 7 ch. II 1 de l’O du 1<sup>er</sup> nov. 2017 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
+[^6b-1]: Introduit par l’annexe 7 ch. II 1 de l’O du 1<sup>er</sup> nov. 2017 sur l’énergie ([RO 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^6b-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^6b-3]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 
 #### Art. 6c
 
@@ -187,7 +189,7 @@ La formule destinée à notifier au locataire le congé au sens de l’art. 266*
 - d. les conditions légales dans lesquelles le locataire peut contester le congé et demander la prolongation du bail (art. 271 à 273 CO);
 - e. la liste des autorités de conciliation et leur compétence à raison du lieu.
 
-<sup>2</sup> Les cantons veillent à ce qu’un nombre suffisant de formules soit disponible dans les communes. A cette fin, ils peuvent déposer les formules établies par leurs soins auprès des secrétariats communaux.
+<sup>2</sup> Les cantons veillent à ce qu’un nombre suffisant de formules soit disponible dans les communes. À cette fin, ils peuvent déposer les formules établies par leurs soins auprès des secrétariats communaux.
 
 #### Art. 10
 
@@ -373,7 +375,7 @@ La formule destinée à communiquer au locataire les hausses de loyer et autres 
 
 <sup>3</sup> Les al. 1 et 1<sup>bis</sup> sont applicables par analogie lorsque les cantons rendent obligatoire, au sens de l’art. 270, al. 2, CO, l’utilisation de la formule lors de la conclusion d’un nouveau contrat de bail.[^19-5]
 
-<sup>4</sup> Les cantons veillent à ce qu’un nombre suffisant de formules soit disponible dans les communes. A cette fin, ils peuvent déposer les formules établies par leurs soins auprès des secrétariats communaux.
+<sup>4</sup> Les cantons veillent à ce qu’un nombre suffisant de formules soit disponible dans les communes. À cette fin, ils peuvent déposer les formules établies par leurs soins auprès des secrétariats communaux.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
 [^19-2]: Introduit par le ch. I de l’O du 15 janv. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 417](https://fedlex.data.admin.ch/eli/oc/2014/68)).

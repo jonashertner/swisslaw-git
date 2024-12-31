@@ -4,11 +4,11 @@ title: Verordnung vom 9. Mai 1990 über die Miete und Pacht von Wohn- und Gesch�
 short: VMWG
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/835_835_835"
 language: de
-version: 2020-06-01
+version: 2025-01-01
 adopted: 1990-05-09
 in_force: 1990-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20200601/de/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20200601-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20200601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20200601/de"
 
 (VMWG)
 
-vom 9. Mai 1990 (Stand am 1. Juni 2020)
+vom 9. Mai 1990 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -116,9 +116,11 @@ Bezieht der Vermieter Heizenergie oder Warmwasser aus einer nicht zur Liegenscha
 
 **Bezug von Elektrizität im Rahmen eines Zusammenschlusses zum Eigenverbrauch**[^6b-1]
 
-Der Vermieter kann im Rahmen eines Zusammenschlusses gemäss Artikel 17 EnG die Kosten nach Artikel 16 EnV als Nebenkosten in Rechnung stellen.
+Der Vermieter kann im Rahmen eines Zusammenschlusses gemäss Artikel 17 des Energiegesetzes vom 30. September 2016[^6b-2] die Kosten nach Artikel 16*a* und 16*b* der Energieverordnung vom 1. November 2017[^6b-3] als Nebenkosten in Rechnung stellen.
 
-[^6b-1]: Eingefügt durch Anhang 7 Ziff. II 1 der Energieverordnung vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
+[^6b-1]: Eingefügt durch Anhang 7 Ziff. II 1 der Energieverordnung vom 1. Nov. 2017 ([AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)). Fassung gemäss Anhang Ziff. 1 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^6b-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^6b-3]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 
 #### Art. 6c
 

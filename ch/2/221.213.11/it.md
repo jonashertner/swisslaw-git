@@ -4,11 +4,11 @@ title: "Ordinanza del 9 maggio 1990 concernente la locazione e l'affitto di loca
 short: OLAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/835_835_835"
 language: it
-version: 2020-06-01
+version: 2025-01-01
 adopted: 1990-05-09
 in_force: 1990-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20200601/it/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20200601-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20200601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20200601/it"
 
 (OLAL)
 
-del 9 maggio 1990 (Stato 1° giugno 2020)
+del 9 maggio 1990 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -45,7 +45,7 @@ Sono cose locate concesse in uso al conduttore dal locatore con i locali d’abi
 
 <sup>2</sup> Agli appartamenti costruiti con l’aiuto dell’ente pubblico e le cui pigioni sono sottoposte al controllo dell’autorità si applicano soltanto gli articoli 253–268*b*, 269, 269*d* capoverso 3, 270*e* e 271–273*c* CO, nonché gli articoli 3–10 e 20–23 della presente ordinanza.[^2-1]
 
-[^2-1]: Nuovo testo giusta il n. II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^2-1]: Nuovo testo giusta la cifra II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 3
 
@@ -67,7 +67,7 @@ Sono negozi abbinati ai sensi dell’articolo 254 CO segnatamente l’obbligo de
 
 <sup>3</sup> Le spese amministrative per la stesura del conteggio possono essere computate secondo il dispendio effettivo o nell’ambito delle aliquote usuali.[^4-1]
 
-[^4-1]: Introdotto dal n. I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^4-1]: Introdotto dalla cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
 
 #### Art. 5
 
@@ -110,15 +110,17 @@ Non sono computabili quali spese di riscaldamento e d’acqua calda i costi per:
 
 Se il locatore si procura energia per il riscaldamento o acqua calda da una centrale che non fa parte dell’immobile e non rientra nei costi d’impianto, può mettere in conto i costi effettivi.
 
-[^6a-1]: Introdotto dal n. I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
 
 #### Art. 6b
 
 **Fornitura di energia nell’ambito di un raggruppamento ai fini del consumo proprio**[^6b-1]
 
-Nell’ambito di un raggruppamento secondo l’articolo 17 LEne il locatore può addebitare come spese accessorie i costi di cui all’articolo 16 OEn.
+Nell’ambito di un raggruppamento secondo l’articolo 17 della legge del 30 settembre 2016[^6b-2] sull’energia il locatore può addebitare come spese accessorie i costi di cui agli articoli 16*a* e 16*b* dell’ordinanza del 1° novembre 2017[^6b-3] sull’energia.
 
-[^6b-1]: Introdotto dal n. II 1 dell’all. 7 all’O del 1° nov. 2017 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
+[^6b-1]: Introdotto dalla cifra II 1 dell’all. 7 all’O del 1° nov. 2017 sull’energia ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)). Nuovo testo giusta l’all. n. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^6b-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^6b-3]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 
 #### Art. 6c
 
@@ -143,7 +145,7 @@ Per misure di risparmio energetico ai sensi del capoverso 1 si intendono in part
 
 <sup>6</sup> Dall’importo di cui al capoverso 4 sono dedotti i contributi d’incentivazione per migliorie energetiche in misura della quota annuale risultante dalla ripartizione uniforme sulla durata del contratto di rendimento energetico.
 
-[^6c-1]: Introdotto dal n. I dell’O del 29 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1511](https://fedlex.data.admin.ch/eli/oc/2020/302)).
+[^6c-1]: Introdotto dalla cifra I dell’O del 29 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1511](https://fedlex.data.admin.ch/eli/oc/2020/302)).
 
 #### Art. 7
 
@@ -221,7 +223,7 @@ Il modulo per la notificazione della disdetta previsto dall’articolo 266*l* ca
 
 <sup>2</sup> Le spese derivanti dall’alienazione dell’immobile fanno parte dei costi d’acquisto e non del rincaro.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
 
 #### Art. 12a
 
@@ -235,10 +237,10 @@ Il modulo per la notificazione della disdetta previsto dall’articolo 266*l* ca
 
 <sup>4</sup> Il DEFR emana disposizioni tecniche sulla definizione, sul rilevamento e sulla pubblicazione del tasso d’interesse medio per crediti ipotecari in Svizzera in conformità al capoverso 1. Le banche comunicano al DEFR i dati necessari.
 
-[^12a-1]: Introdotto dal n. I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
-[^12a-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 1° dic. 2011 ([RU 2011 4907](https://fedlex.data.admin.ch/eli/oc/2011/702)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
+[^12a-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° dic. 2011 ([RU 2011 4907](https://fedlex.data.admin.ch/eli/oc/2011/702)).
 [^12a-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali (RU**2004** 4937), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^12a-4]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 1° dic. 2011 ([RU 2011 4907](https://fedlex.data.admin.ch/eli/oc/2011/702)).
+[^12a-4]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° dic. 2011 ([RU 2011 4907](https://fedlex.data.admin.ch/eli/oc/2011/702)).
 
 #### Art. 13
 
@@ -284,8 +286,8 @@ Sono inoltre considerate prestazioni suppletive le seguenti migliorie energetich
 
 <sup>5</sup> Gli aumenti di pigione per investimenti di valorizzazione e migliorie energetiche possono essere notificati soltanto a lavori ultimati, fermo restando che siano disponibili i documenti giustificativi. In caso di lavori più importanti, il locatore può procedere ad aumenti scalari di pigione in proporzione ai pagamenti già effettuati.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
-[^14-2]: Introdotto dal n. I dell’O del 15 gen. 2014, in vigore dal 1° lug. 2014 ([RU 2014 417](https://fedlex.data.admin.ch/eli/oc/2014/68)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
+[^14-2]: Introdotto dalla cifra I dell’O del 15 gen. 2014, in vigore dal 1° lug. 2014 ([RU 2014 417](https://fedlex.data.admin.ch/eli/oc/2014/68)).
 
 #### Art. 15
 
@@ -319,10 +321,10 @@ L’aumento di pigione tendente a garantire ai sensi dell’articolo 269*a* lett
 
 <sup>4</sup> Un contratto di locazione è concluso per cinque anni ai sensi dell’articolo 269*b* CO se non può essere disdetto dal locatore per una durata di almeno cinque anni.[^17-4]
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^17-3]: Introdotto dal n. I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
-[^17-4]: Introdotto dal n. I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^17-3]: Introdotto dalla cifra I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
+[^17-4]: Introdotto dalla cifra I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
 
 #### Art. 18
 
@@ -373,11 +375,11 @@ Il modulo previsto dall’articolo 269*d* CO per la notificazione al conduttore 
 
 <sup>4</sup> I Cantoni provvedono affinché nei Comuni vi siano a disposizione moduli in numero sufficiente. A tal fine, possono depositare presso le cancellerie comunali i propri moduli.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-2]: Introdotto dal n. I dell’O del 15 gen. 2014, in vigore dal 1° lug. 2014 ([RU 2014 417](https://fedlex.data.admin.ch/eli/oc/2014/68)).
-[^19-3]: Introdotto dal n. I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-4]: Nuovo testo giusta il n. I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-5]: Nuovo testo giusta il n. I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^19-2]: Introdotto dalla cifra I dell’O del 15 gen. 2014, in vigore dal 1° lug. 2014 ([RU 2014 417](https://fedlex.data.admin.ch/eli/oc/2014/68)).
+[^19-3]: Introdotto dalla cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^19-4]: Nuovo testo giusta la cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^19-5]: Nuovo testo giusta la cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
 
 #### Art. 20
 
@@ -404,8 +406,8 @@ Il modulo previsto dall’articolo 269*d* CO per la notificazione al conduttore 
 <sup>3</sup> Essa può affidare questi compiti a singoli membri o alla segreteria.
 
 [^21-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262). Codice di diritto processuale civile svizzero del 19 dic. 2008.
-[^21-2]: Nuovo testo giusta il n. II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^21-3]: Nuovo testo giusta il n. II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^21-2]: Nuovo testo giusta la cifra II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^21-3]: Nuovo testo giusta la cifra II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 22
 
@@ -417,7 +419,7 @@ Il modulo previsto dall’articolo 269*d* CO per la notificazione al conduttore 
 
 I Cantoni sono tenuti a pubblicare periodicamente la composizione delle autorità di conciliazione e la loro competenza territoriale.
 
-[^22-1]: Nuovo testo giusta il n. II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^22-1]: Nuovo testo giusta la cifra II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 [^22-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 
 #### Art. 23
