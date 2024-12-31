@@ -3,24 +3,23 @@ canton: BL
 number: "850.15"
 title: Verordnung über die Kinder- und Jugendhilfe
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2013-12-03
 in_force: 2014-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.15"
-pdf: "https://bl.clex.ch/api/de/versions/3951/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Kinder- und Jugendhilfe
 
-Vom 03.12.2013 (Stand 01.01.2024)
+Vom 03.12.2013 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Kantonsverfassung vom 17. Mai 1984[^ingress-1] sowie § 28a des Gesetzes vom 21. Juni 2001[^ingress-2] über die Sozial-, die Jugend- und die Behindertenhilfe (Sozialhilfegesetz, SHG),
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] sowie § 28a des Gesetzes über die Sozial-, die Jugend- und die Behindertenhilfe (Sozialhilfegesetz, SHG) vom 21. Juni 2001[^ingress-2],
 
 beschliesst:
 
@@ -56,7 +55,7 @@ beschliesst:
 - b. sie überwiegend Minderjährige zur Betreuung aufnehmen;
 - c. sie im Besitze einer Betriebsbewilligung sind;
 - d. sie ihre Betriebsrechungen offenlegen, eine Kostenrechnung führen und einen wirtschaftlichen Betrieb gewährleisten können;
-- e. ihr Platzangebot und ihr Konzept einem ausgewiesenem qualitativen und quantitativen Bedarf des Kantons oder einer Region entsprechen;
+- e. ihr Platzangebot und ihr Konzept einem ausgewiesenen qualitativen und quantitativen Bedarf des Kantons oder einer Region entsprechen;
 - f. sich ihr Bestand und die Qualifikation ihres Personals nach dem Betreuungsbedarf der Kinder und Jugendlichen richten.
 
 #### § 3
@@ -101,10 +100,10 @@ beschliesst:
 
 **Weitere Anerkennung**
 
-<sup>1</sup> Der Kanton kann ausserkantonale Wohnheime für Kinder und Jugendliche, die nicht der Vereinbarung für soziale Einrichtungen unterstellt sind, anerkennen, wenn:
+<sup>1</sup> Der Kanton kann ausserkantonale Wohnheime für Kinder und Jugendliche, die nicht der Vereinbarung für soziale Einrichtungen unterstellt sind, anerkennen, wenn sie:
 
-- a. sie vom Bundesamt für Justiz Betriebsbeiträge erhalten oder wenn
-- b. sie den Nachweis spezifischer-sozialpädagogischer Betreuungsarbeit erbringen.
+- a. vom Bundesamt für Justiz Betriebsbeiträge erhalten oder
+- b. den Nachweis spezifischer sozialpädagogischer Betreuungsarbeit erbringen.
 
 <sup>2</sup> Im Falle von Abs. 1 Bst. b müssen sie im Besitze einer Betriebsbewilligung des Standortkantons sein, ihre Betriebsrechnung offenlegen, eine Kostenrechnung führen, einen Bestand und eine Qualifikation ihres Personals entsprechend dem Betreuungsbedarf der Kinder und Jugendlichen aufweisen sowie einen wirtschaftlichen Betrieb gewährleisten können.
 
@@ -132,7 +131,7 @@ beschliesst:
 
 #### § 9
 
-**Anerkennung (§ 30 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art30))**
+**Anerkennung ([§ 30 Abs. 2 SHG](https://bl.clex.ch/data/850/de/art30))**
 
 <sup>1</sup> Pflegefamilien, die Minderjährige im Sinne von Art. 4 Abs. 1 und 2 der Verordnung über die Aufnahme von Pflegekindern vom 19. Oktober 1977[^9-1] aufnehmen, können anerkannt werden.
 
@@ -213,7 +212,7 @@ beschliesst:
 
 #### § 13b
 
-**Anerkennung (§ 30 Abs. 3 [SHG](https://bl.clex.ch/data/850/de/art30))**
+**Anerkennung ([§ 30 Abs. 3 SHG](https://bl.clex.ch/data/850/de/art30))**
 
 <sup>1</sup> Anbietende ambulanter erzieherischer Hilfen können anerkannt werden, wenn:
 
@@ -271,7 +270,7 @@ beschliesst:
 
 #### § 14
 
-**Beiträge (§ 28 Abs. 1 Bst. a, § 28 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art28))**
+**Beiträge ([§ 28 Abs. 1 Bst. a und Abs. 2 SHG](https://bl.clex.ch/data/850/de/art28))**
 
 <sup>1</sup> Der Kanton gewährt Beiträge an die Aufenthalts- und Betreuungskosten sowie an die Nachbetreuungskosten von Kindern und Jugendlichen mit zivilrechtlichem Wohnsitz im Kanton in anerkannten, inländischen oder benachbarten ausländischen Wohnheimen und dezentralen sozialpädagogischen Angeboten anerkannter Heime, sofern die Unterbringung fachlich indiziert oder kindesschutzrechtlich angeordnet ist.
 
@@ -305,7 +304,7 @@ beschliesst:
 
 #### § 17
 
-**Beiträge (§ 28 Abs. 1 Bst. b, § 28 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art28))**
+**Beiträge ([§ 28 Abs. 1 Bst. b und Abs. 2 SHG](https://bl.clex.ch/data/850/de/art28))**
 
 <sup>1</sup> Der Kanton gewährt Beiträge an die Aufenthalts- und Betreuungskosten von Kindern und Jugendlichen mit zivilrechtlichem Wohnsitz im Kanton in anerkannten, inländischen Pflegefamilien, Fachpflegefamilien und Pflegefamilien für Kriseninterventionen, sofern die Unterbringung fachlich indiziert oder kindesschutzrechtlich angeordnet ist.
 
@@ -380,7 +379,7 @@ beschliesst:
 
 #### § 22a
 
-**Beiträge (§ 28 Abs. 1 Bst. c, § 28 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art28))**
+**Beiträge ([§ 28 Abs. 1 Bst. c und Abs. 2 SHG](https://bl.clex.ch/data/850/de/art28))**
 
 <sup>1</sup> Der Kanton gewährt Beiträge an die Kosten für die ambulanten erzieherischen Hilfen für Kinder und Jugendliche mit zivilrechtlichem Wohnsitz im Kanton, sofern die ambulanten erzieherischen Hilfen fachlich indiziert oder kindesschutzrechtlich angeordnet sind und sie von anerkannten Anbietenden ambulanter erzieherischer Hilfen erbracht werden.
 
@@ -402,7 +401,7 @@ beschliesst:
 
 #### § 23
 
-**Beiträge für junge Erwachsene (§ 28 Abs. 3 [SHG](https://bl.clex.ch/data/850/de/art28))**
+**Beiträge für junge Erwachsene ([§ 28 Abs. 3 SHG](https://bl.clex.ch/data/850/de/art28))**
 
 <sup>1</sup> Als wichtige Gründe für die Beitragsgewährung über den Zeitpunkt der Volljährigkeit hinaus gelten insbesondere:
 
@@ -423,7 +422,7 @@ beschliesst:
 
 #### § 25
 
-**Indizierende Stellen (§ 28 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art28))**
+**Indizierende Stellen ([§ 28 Abs. 2 SHG](https://bl.clex.ch/data/850/de/art28))**
 
 <sup>1</sup> Zur Indikation ermächtigte Stellen sind:
 
@@ -443,7 +442,7 @@ beschliesst:
 
 #### § 26
 
-**Fachliche Indikation (§ 28 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art28))**
+**Fachliche Indikation ([§ 28 Abs. 2 SHG](https://bl.clex.ch/data/850/de/art28))**
 
 <sup>1</sup> Die fachliche Indikation umfasst insbesondere:
 
@@ -457,7 +456,7 @@ beschliesst:
 
 #### § 27
 
-**Kindesschutzrechtliche Anordnungen (§ 28 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art28))**
+**Kindesschutzrechtliche Anordnungen ([§ 28 Abs. 2 SHG](https://bl.clex.ch/data/850/de/art28))**
 
 <sup>1</sup> Kindesschutzrechtliche Anordnungen im Sinne dieser Verordnung sind:
 
@@ -491,7 +490,7 @@ beschliesst:
 
 #### § 28
 
-**Grundsätze (§ 28a [SHG](https://bl.clex.ch/data/850/de/art28a))**
+**Grundsätze ([§ 28a SHG](https://bl.clex.ch/data/850/de/art28a))**
 
 <sup>1</sup> Die Unterhaltspflichtigen, die Minderjährigen mit eigenem Einkommen, Unterhaltsbeiträgen bzw. Verwandtenunterstützung sowie die jungen Erwachsenen, die gemäss § 28 Abs. 3 des Sozialhilfegesetzes weiterhin Anspruch auf Beiträge haben, haben sich nach Massgabe ihrer finanziellen Leistungskraft an den Beiträgen gemäss den §§ 14 und 17 zu beteiligen.
 
@@ -501,11 +500,9 @@ beschliesst:
 
 <sup>3</sup> Die gesamte Kostenbeteiligung darf den Kantonsbeitrag nicht übersteigen.
 
-<sup>4</sup> Bei Unterbringungen von Personen, die der kantonalen Asylverordnung unterstehen, beteiligt sich die Gemeinde mit 2/3 der Pauschale gemäss § 18 Abs. 1 Bst. a oder b der kantonalen Asylverordnung vom 16. Oktober 2007[^28-1] an der Deckung der Kosten der stationären Unterbringung.
+<sup>4</sup> Bei Unterbringungen von Personen, die der kantonalen Asylverordnung unterstehen, beteiligt sich die Gemeinde mit CHF 750.– an der Deckung der Kosten der stationären Unterbringung.
 
 <sup>5</sup> Bei Härtefällen kann das Amt auf Gesuch der Unterhaltspflichtigen, der Minderjährigen mit eigenem Einkommen, Unterhaltsbeiträgen bzw. Verwandtenunterstützung sowie der jungen Erwachsenen, die gemäss § 28 Abs. 3 des Sozialhilfegesetzes weiterhin Ansprüche auf Beiträge haben, die Kostenbeteiligung angemessen reduzieren.
-
-[^28-1]: [SGS 850.19](https://bl.clex.ch/data/850.19/de/art18)
 
 #### § 29
 
@@ -569,7 +566,7 @@ beschliesst:
 
 #### § 32
 
-**Kostenbeteiligung der Unterhaltspflichtigen in gemeinsamem Haushalt, mit Beistand einer gesetzlich verpflichteten Person sowie gefestigter Lebensgemeinschaft (§ 28a Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art28a))**
+**Kostenbeteiligung der Unterhaltspflichtigen in gemeinsamem Haushalt, mit Beistand einer gesetzlich verpflichteten Person sowie gefestigter Lebensgemeinschaft ([§ 28a Abs. 2 SHG](https://bl.clex.ch/data/850/de/art28a))**
 
 <sup>1</sup> Die Kostenbeteiligung aufgrund der finanziellen Leistungskraft beträgt für in gemeinsamem Haushalt lebende gemeinsam Unterhaltspflichtige, Unterhaltspflichtige mit Beistand einer gesetzlich verpflichteten Person und Unterhaltspflichtige in gefestigter Lebensgemeinschaft mit einem massgebenden Jahreseinkommen:
 
@@ -607,7 +604,7 @@ beschliesst:
 
 #### § 34
 
-**Kostenbeteiligung der Minderjährigen ohne Unterhaltspflichtige sowie der jungen Erwachsenen (§ 28a Abs. 1<sup>bis</sup> [SHG](https://bl.clex.ch/data/850/de/art28a))**
+**Kostenbeteiligung der Minderjährigen ohne Unterhaltspflichtige sowie der jungen Erwachsenen ([§ 28a Abs. 1<sup>bis</sup> SHG](https://bl.clex.ch/data/850/de/art28a))**
 
 <sup>1</sup> Die Kostenbeteiligung aufgrund der finanziellen Leistungskraft beträgt für Minderjährige, die ein eigenes Einkommen erzielen bzw. Verwandtenunterstützung erhalten und die keine Unterhaltspflichtigen haben, sowie für junge Erwachsene, die gemäss § 28 Abs. 3 des Sozialhilfegesetzes weiterhin Anspruch auf Beiträge haben, mit einem massgebenden Jahreseinkommen
 
@@ -634,7 +631,7 @@ beschliesst:
 
 #### § 35a
 
-**Grundsätze (§ 28a [SHG](https://bl.clex.ch/data/850/de/art28a))**
+**Grundsätze ([§ 28a SHG](https://bl.clex.ch/data/850/de/art28a))**
 
 <sup>1</sup> Die Unterhaltspflichtigen haben sich an den Beiträgen gemäss § 22a zu beteiligen.
 
