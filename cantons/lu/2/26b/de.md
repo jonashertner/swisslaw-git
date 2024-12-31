@@ -4,13 +4,12 @@ number: 26b
 title: Verordnung über die Informatiksicherheit und über die Nutzung von Informatikmitteln
 short: Informatiksicherheitsverordnung
 language: de
-version: 2021-09-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-23
+version: 2025-01-01
+version_adopted: 2024-06-24
 adopted: 2016-11-22
 in_force: 2017-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/26b"
-pdf: "https://srl.lu.ch/api/de/versions/3808/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4326/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3808/pdf_file"
 
 (Informatiksicherheitsverordnung)
 
-vom 22.11.2016 (Stand 01.09.2021)
+vom 22.11.2016 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -121,10 +120,10 @@ beschliesst:
 
 <sup>1</sup> Für Informationen und Informatikmittel gelten folgende Schutzziele:
 
-- a. Verfügbarkeit: Informationen und Informatikmittel sind zugänglich und nutzbar. Massgeblich sind die zulässige Ausfalldauer im Einzelfall und die Anzahl zulässiger Ausfälle pro Kalenderjahr,
-- b. Vertraulichkeit: Informationen sind nur den berechtigten Personen zugänglich,
-- c. Integrität: Informationen und Informatikmittel sind vor unberechtigten Änderungen geschützt. Die Informationen sind vollständig und richtig,
-- d. Nachvollziehbarkeit: Eine Ereigniskette (z.B. hinsichtlich der Bearbeitung oder des Zugriffs auf Informationen) kann nachträglich nachvollzogen werden.
+- a. Verfügbarkeit: Informationen und Informatikmittel sind verfügbar, wenn sie benötigt werden,
+- b. Vertraulichkeit: Informationen sind nur Berechtigten zugänglich,
+- c. Integrität: Informationen und Informatikmittel werden nicht unberechtigt oder unbeabsichtigt verändert; die Informationen sind vollständig und richtig,
+- d. Nachvollziehbarkeit: Informationen werden nachvollziehbar bearbeitet.
 
 <sup>2</sup> Die Organe und die Dienststelle Informatik sind befugt, für ihren Zuständigkeitsbereich die Schutzziele zu verfeinern und zusätzliche Weisungen zu erlassen.
 
@@ -132,14 +131,14 @@ beschliesst:
 
 **Klassifizierung**
 
-<sup>1</sup> Die Informationen und Informatikmittel sind nach folgenden Kriterien zu klassifizieren:
+<sup>1</sup> Die Organe klassifizieren Informationen und Informatikmittel nach folgenden Kriterien:
 
-- a. Verfügbarkeit: während der Bürozeiten, während erweiterter Bürozeiten, während 7×24 Stunden; jeweils unter Angabe der zulässigen Ausfalldauer,
+- a. Verfügbarkeit: tiefe Anforderungen, erhöhte Anforderungen, hohe Anforderungen und sehr hohe Anforderungen,
 - b. Vertraulichkeit: öffentlich, intern, vertraulich und geheim,
-- c. Integrität: unkritisch (bezüglich Abweichungen und Fehler tolerierbar), mittel (Grad der Integrität erkennbar, Fehler behebbar) und hoch (Integrität zwingend sicherzustellen),
-- d. Nachvollziehbarkeit: keine Nachvollziehbarkeit, anonymisierte Nachvollziehbarkeit und personenbezogene Nachvollziehbarkeit.
+- c. Integrität: tiefe Anforderungen, erhöhte Anforderungen und hohe Anforderungen,
+- d. Nachvollziehbarkeit: tiefe Anforderungen, erhöhte Anforderungen und hohe Anforderungen.
 
-<sup>2</sup> Die Organe und die Dienststelle Informatik sind befugt, für ihren Zuständigkeitsbereich die Klassifikation zu verfeinern und zusätzliche Weisungen zu erlassen. Darin können Behandlungsregeln aufgenommen werden, welche von den Anwenderinnen und Anwendern im Umgang mit klassifizierten Informationen zu beachten sind.
+<sup>2</sup> Die Dienststelle Informatik stellt den Organen einen Leitfaden für die Klassifizierung zur Verfügung. Die Organe und die Dienststelle Informatik sind befugt, die Klassifikationen für ihren Zuständigkeitsbereich zu verfeinern und zusätzliche Weisungen zu erlassen, insbesondere für den Umgang der Anwenderinnen und Anwender mit klassifizierten Informationen.
 
 <sup>3</sup> Vertrauliche und geheime Informationen, namentlich besonders schützenswerte Personendaten und Persönlichkeitsprofile, dürfen nur verschlüsselt übertragen und auf Endgeräten gespeichert werden. Der oder die Beauftragte für den Datenschutz kann für die Speicherung von Personendaten und Persönlichkeitsprofilen auf Endgeräten Ausnahmen bewilligen.
 
@@ -173,7 +172,7 @@ beschliesst:
 
 <sup>1</sup> Die Organe überprüfen in ihrem Zuständigkeitsbereich mindestens jährlich die Schutzziele und die Klassifizierung der Informationen und Informatikmittel sowie die Einhaltung der Sicherheitsanforderungen und die Angemessenheit der Sicherheitsmassnahmen. Sie erstatten den Organisations- und Informatikbeauftragten und dem oder der kantonalen Beauftragten für Informationssicherheit darüber Bericht und passen den Massnahmenplan wenn nötig an. Die Prüfung ist umgehend vorzunehmen, wenn die Aufgaben, die Organisation oder die eingesetzten Informatikmittel eines Organs ändern. Die Organe können die Schutzziele und die Klassifizierung sowie die getroffenen Massnahmen in ihrem Zuständigkeitsbereich zusätzlich durch eine qualifizierte unabhängige externe Stelle prüfen lassen.
 
-<sup>2</sup> Sicherheitsmassnahmen und Notfallkonzepte für Informationen und Informatikmittel mit der Klassifizierung «geheim» oder «Verfügbarkeit während 7x24 Stunden» sind jährlich durch die Organe oder eine unabhängige externe Stelle zu überprüfen.
+<sup>2</sup> Sicherheitsmassnahmen und Notfallkonzepte für Informationen und Informatikmittel mit der Klassifizierung «geheim» oder mit sehr hohen Anforderungen an die Verfügbarkeit sind jährlich durch die Organe oder eine unabhängige externe Stelle zu überprüfen.
 
 <sup>3</sup> Der oder die Beauftragte für den Datenschutz überprüft periodisch die Sicherheit, die Massnahmen und deren Umsetzung bei personenbezogenen Daten.
 
@@ -197,7 +196,7 @@ beschliesst:
 
 <sup>3</sup> Benutzerpasswörter für die Informatikmittel müssen den Anwenderinnen und Anwendern (Angestellten, Auftragnehmern und Drittbenutzern) durch die Organe in einem geregelten und kontrollierbaren Verfahren zugeteilt werden. Die Anwenderinnen und Anwender müssen dabei auf ihre Verantwortung für die Aufrechterhaltung effektiver Zugriffskontrollen, insbesondere in Bezug auf die Nutzung des Passworts gemäss der entsprechenden Weisung zur Passwort-Policy, und auf die Sicherheit der Benutzergeräte hingewiesen werden.
 
-<sup>4</sup> Privilegierte Zugriffsrechte sowie Zugriffsrechte auf vertraulich und geheim klassifizierte Informationen und Informatikmittel dürfen nur zurückhaltend vergeben werden. Solche Zugriffe müssen protokolliert und die Zugriffsrechte periodisch überprüft werden.
+<sup>4</sup> Privilegierte Zugriffsrechte sowie Zugriffsrechte auf vertraulich und geheim klassifizierte Informationen und Informatikmittel dürfen nur in dem für die Ausübung der jeweiligen Rolle erforderlichen Ausmass vergeben werden. Solche Zugriffe müssen protokolliert und die Zugriffsrechte periodisch überprüft werden.
 
 <sup>5</sup> Im Rahmen der einzelnen Funktionen eines Systems oder einer Anwendung sind die jeweiligen Anforderungen an die Überprüfung der Identität des Benutzers oder der Benutzerin beziehungsweise des Systems direkt zu formulieren und entsprechend in den Systemen und Anwendungen abzubilden.
 
