@@ -4,7 +4,7 @@ number: "740.25"
 title: RÈGLEMENT du 11.12.2019 sur le transport de personnes à titre professionnel (RTTP)
 short: RTTP
 language: fr
-version: 2020-01-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/740.25?id=8cc5f1ce-3735-406a-b16b-15702682b466"
 ---
 
@@ -145,9 +145,9 @@ arrête
 
 **Durée de l'autorisation [^10-1]**
 
-<sup>1</sup> L'autorisation est en principe valable 4 ans à compter de sa date d'émission.
+<sup>1</sup> L'autorisation est en principe valable 5 ans à compter de sa date d'émission.
 
-<sup>2</sup> Elle peut être d'une durée plus courte, notamment pour les personnes bénéficiant d'un permis de travail se terminant avant l'échéance des 4 ans.
+<sup>2</sup> Elle peut être d'une durée plus courte, notamment pour les personnes bénéficiant d'un permis de travail se terminant avant l'échéance des 5 ans.
 
 [^10-1]: Modif. 1 du 30.10.2024: Modification Al. 1-2; entrée en vigueur au 01.01.2025
 
@@ -223,7 +223,7 @@ arrête
 
 **Durée de l'autorisation [^15-1]**
 
-<sup>1</sup> L'autorisation est en principe valable 4 ans à compter de sa date d'émission.
+<sup>1</sup> L'autorisation est en principe valable 5 ans à compter de sa date d'émission.
 
 [^15-1]: Modif. 1 du 30.10.2024: Modification Al. 1; entrée en vigueur au 01.01.2025
 
