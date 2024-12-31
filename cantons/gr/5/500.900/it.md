@@ -3,53 +3,53 @@ canton: GR
 number: "500.900"
 title: Legge sui Servizi psichiatrici dei Grigioni
 language: it
-version: 2013-01-01
-corrected: 2014-10-10
-version_adopted: 2012-10-23
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2012-10-23
 in_force: 2013-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.900"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1732/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3402/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sui Servizi psichiatrici dei Grigioni
 
-del 23 ottobre 2012
+del 23.10.2012 (stato 01.01.2025)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-visto l'art. 87 della Costituzione cantonale[^t-2], visto il messaggio del Governo del 3 luglio 2012[^t-3],
+visto l'art. 87 della Costituzione cantonale[^ingress-2],
+
+visto il messaggio del Governo del 3 luglio 2012[^ingress-3],
 
 decide:
 
-[^t-1]: PGC 2012/2013, 250
-[^t-2]: CSC 110.100
-[^t-3]: pagina 535 1.1.2013 1
+[^ingress-1]: PGC 2012/2013, 250
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: pagina 535
 
-### I. Disposizioni generali
+## 1. Disposizioni generali
 
 #### Art. 1
 
 **Oggetto**
 
-La presente legge disciplina la forma giuridica, i compiti e l'organizzazione dei Servizi psichiatrici dei Grigioni.
+<sup>1</sup> La presente legge disciplina la forma giuridica, i compiti e l'organizzazione dei Servizi psichiatrici dei Grigioni.
 
 #### Art. 2
 
 **Forma giuridica, denominazione e sede**
 
-La denominazione "Servizi psichiatrici dei Grigioni" è riferita a un istituto autonomo di diritto pubblico cantonale con sede a Coira.
+<sup>1</sup> La denominazione "Servizi psichiatrici dei Grigioni" è riferita a un istituto autonomo di diritto pubblico cantonale con sede a Coira.
 
 #### Art. 3
 
 **Mandato**
 
-<sup>1</sup> I Servizi psichiatrici dei Grigioni garantiscono un'assistenza psichiatrica sicura, efficace, riferita ai pazienti, moderna ed efficiente per adulti e, in via sussidiaria per adolescenti e bambini nel Cantone, a livello stazionario e, in via complementare, a livello ambulatoriale, con pari opportunità di accedere alle prestazioni.
+<sup>1</sup> I Servizi psichiatrici dei Grigioni garantiscono un'assistenza psichiatrica sicura, efficace, riferita ai pazienti, moderna ed efficiente per adulti, adolescenti e bambini nel Cantone, a livello stazionario e, in via complementare, a livello ambulatoriale, con pari opportunità di accedere alle prestazioni.
 
-<sup>2</sup> A questo scopo gestiscono cliniche psichiatriche, posti abitativi, lavorativi e in strutture diurne protetti per persone con disabilità psichica e forniscono un servizio di consulenza destinato agli ospedali pubblici del Cantone.
+<sup>2</sup> A questo scopo gestiscono cliniche psichiatriche, una scuola all'interno della clinica, posti abitativi, lavorativi e in strutture diurne protetti per persone con disabilità psichica e forniscono un servizio di consulenza destinato agli ospedali pubblici del Cantone.
 
 <sup>3</sup> Essi offrono posti di formazione e di perfezionamento professionale per medici assistenti, per professioni legate alle cure infermieristico-sanitarie, per altre professioni sanitarie, come pure per professioni sociopedagogiche.
 
@@ -66,18 +66,16 @@ La denominazione "Servizi psichiatrici dei Grigioni" è riferita a un istituto a
 <sup>2</sup> Essi possono segnatamente:
 
 - a) fornire servizi per terzi;
-
 - b) collaborare con altri fornitori di prestazioni e gestire congiuntamente aziende di servizi,
-
 - c) partecipare, con il consenso del Governo, ad aziende.
 
 #### Art. 5
 
 **Responsabilità**
 
-Il Cantone non risponde per gli impegni assunti dai Servizi psichiatrici dei Grigioni.
+<sup>1</sup> Il Cantone non risponde per gli impegni assunti dai Servizi psichiatrici dei Grigioni.
 
-### II. Organizzazione
+## 2. Organizzazione
 
 #### Art. 6
 
@@ -94,11 +92,8 @@ Il Cantone non risponde per gli impegni assunti dai Servizi psichiatrici dei Gri
 <sup>1</sup> Il Governo è competente in particolare per:
 
 - a) la nomina dei membri del Consiglio d'amministrazione e per la designazione del presidente e del vicepresidente;
-
 - b) la nomina dell'ufficio di revisione;
-
 - c) l'approvazione del rapporto annuale e del conto annuale;
-
 - d) la rimunerazione del Consiglio d'amministrazione.
 
 <sup>2</sup> Il rapporto annuale e il conto annuale devono essere resi noti al Gran Consiglio.
@@ -107,12 +102,10 @@ Il Cantone non risponde per gli impegni assunti dai Servizi psichiatrici dei Gri
 
 **Organi**
 
-Gli organi dei Servizi psichiatrici dei Grigioni sono:
+<sup>1</sup> Gli organi dei Servizi psichiatrici dei Grigioni sono:
 
 - a) il Consiglio d'amministrazione;
-
 - b) la direzione;
-
 - c) l'ufficio di revisione.
 
 #### Art. 9
@@ -124,21 +117,11 @@ Gli organi dei Servizi psichiatrici dei Grigioni sono:
 <sup>2</sup> Gli competono in particolare gli affari seguenti:
 
 - a) la gestione strategica dei Servizi psichiatrici dei Grigioni;
-
-**2**
-
-**3**
-
-1.1.2013 b) la nomina e la destituzione, nonché la determinazione della retribuzione della direzione e dei responsabili delle unità aziendali;
-
+- b) la nomina e la destituzione, nonché la determinazione della retribuzione della direzione e dei responsabili delle unità aziendali;
 - c) la vigilanza sulla direzione;
-
 - d) l'approvazione del preventivo e il licenziamento del rapporto annuale e del conto annuale a destinazione del Governo;
-
 - e) l'emanazione di direttive complementari alla legge sul personale;
-
 - f) l'emanazione di disposizioni sull'organizzazione e sull'esercizio dei Servizi psichiatrici dei Grigioni;
-
 - g) l'emanazione di disposizioni complementari alla legge sui Servizi psichiatrici dei Grigioni.
 
 #### Art. 10
@@ -153,9 +136,9 @@ Gli organi dei Servizi psichiatrici dei Grigioni sono:
 
 **Ufficio di revisione**
 
-L'ufficio di revisione controlla se la contabilità e il conto annuale corrispondono ai requisiti legali e presenta rapporto al Consiglio d'amministrazione e al Governo.
+<sup>1</sup> L'ufficio di revisione controlla se la contabilità e il conto annuale corrispondono ai requisiti legali e presenta rapporto al Consiglio d'amministrazione e al Governo.
 
-### III. Decisioni in materia di diritto del personale
+## 3. Decisioni in materia di diritto del personale
 
 #### Art. 12
 
@@ -165,9 +148,9 @@ L'ufficio di revisione controlla se la contabilità e il conto annuale corrispon
 
 <sup>2</sup> Decisioni in materia di diritto del personale prese dalla direzione nei confronti dei responsabili di unità amministrative possono essere impugnate da questi ultimi presso il Consiglio d'amministrazione.
 
-<sup>3</sup> Il ricorso al Consiglio d'amministrazione contro decisioni in materia di diritto del personale prese dalla direzione è ammesso unicamente se è esclusa l'impugnazione al Tribunale amministrativo.
+<sup>3</sup> Il ricorso al Consiglio d'amministrazione contro decisioni in materia di diritto del personale prese dalla direzione è ammesso unicamente se è esclusa l'impugnazione al Tribunale d'appello.
 
-### IV. Finanziamento
+## 4. Finanziamento
 
 #### Art. 13
 
@@ -176,23 +159,13 @@ L'ufficio di revisione controlla se la contabilità e il conto annuale corrispon
 <sup>1</sup> I mezzi necessari all'adempimento dei compiti vengono in particolare procurati tramite:
 
 - a) compensi per servizi;
-
-**4**
-
-1.1.2013 b) contributi degli assicuratori malattia e dei Cantoni conformemente alla legislazione in materia di assicurazione malattia e di cura degli ammalati;
-
+- b) contributi degli assicuratori malattia e dei Cantoni conformemente alla legislazione in materia di assicurazione malattia e di cura degli ammalati;
 - c) contributi dei Cantoni e partecipazione ai costi delle persone assistite, conformemente alla legislazione in materia di integrazione dei disabili;
-
 - d) contributi del Cantone in qualità di ente responsabile dei Servizi psichiatrici dei Grigioni;
-
 - e) capitale di dotazione;
-
 - f) riserve;
-
 - g) l'accensione di mutui e crediti;
-
 - h) proventi dal patrimonio;
-
 - i) contributi e donazioni di terzi.
 
 <sup>2</sup> I contributi conformemente al capoverso 1 lettera d sono calcolati in particolare sulla base di eventuali costi di utilizzazione delle infrastrutture non compensati attraverso gli indennizzi convenuti o fissati per prestazioni stazionarie e ambulatoriali conformemente alla legislazione sull'assicurazione malattia.
@@ -211,19 +184,17 @@ L'ufficio di revisione controlla se la contabilità e il conto annuale corrispon
 
 **Riserve**
 
-Gli utili annuali vanno attribuiti alle riserve quale copertura per perdite future e utilizzati a destinazione vincolata per il settore dal quale sono stati generati.
+<sup>1</sup> Gli utili annuali vanno attribuiti alle riserve quale copertura per perdite future e utilizzati a destinazione vincolata per il settore dal quale sono stati generati.
 
-### V. Rapporti giuridici
+## 5. Rapporti giuridici
 
 #### Art. 16
 
 **Diritto applicabile**
 
-I rapporti giuridici fra i Servizi psichiatrici dei Grigioni e i propri utenti si conformano alle disposizioni del diritto privato.
+<sup>1</sup> I rapporti giuridici fra i Servizi psichiatrici dei Grigioni e i propri utenti si conformano alle disposizioni del diritto privato.
 
-1.1.2013
-
-### VI. Disposizioni finali
+## 6. Disposizioni finali
 
 #### Art. 17
 
@@ -239,7 +210,7 @@ I rapporti giuridici fra i Servizi psichiatrici dei Grigioni e i propri utenti s
 
 **Abrogazione del diritto previgente**
 
-Con l'entrata in vigore della presente legge è abrogata la legge sull'organizzazione dei servizi psichiatrici e dei pensionati cantonali per persone portatrici di handicap psichici del Cantone dei Grigioni del 10 giugno 2001.
+<sup>1</sup> Con l'entrata in vigore della presente legge è abrogata la legge sull'organizzazione dei servizi psichiatrici e dei pensionati cantonali per persone portatrici di handicap psichici del Cantone dei Grigioni del 10 giugno 2001.
 
 #### Art. 19
 
@@ -249,5 +220,7 @@ Con l'entrata in vigore della presente legge è abrogata la legge sull'organizza
 
 <sup>2</sup> Il Governo stabilisce la data dell'entrata in vigore[^19-2] della presente legge.
 
-[^19-1]: ° gennaio 2013 1.1.2013 5
-[^19-2]: Posta in vigore con DG dell'11 febbraio 2013 con effetto retroattivo al
+[^19-1]: Il termine di referendum è scaduto inutilizzato il 30 gennaio 2013
+[^19-2]: Posta in vigore con DG dell'11 febbraio 2013 con effetto retroattivo al 1° gennaio 2013
+
+-

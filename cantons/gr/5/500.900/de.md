@@ -3,53 +3,53 @@ canton: GR
 number: "500.900"
 title: Gesetz über die Psychiatrischen Dienste Graubünden
 language: de
-version: 2013-01-01
-corrected: 2014-10-10
-version_adopted: 2012-10-23
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2012-10-23
 in_force: 2013-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.900"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1732/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3402/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Psychiatrischen Dienste Graubünden
 
-vom 23. Oktober 2012
+Vom 23.10.2012 (Stand 01.01.2025)
 
-Der Grosse Rat des Kantons Graubünden[^t-1],
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
-gestützt auf Art. 87 der Kantonsverfassung[^t-2], nach Einsicht in die Botschaft der Regierung vom 3. Juli 2012[^t-3],
+gestützt auf Art. 87 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 3. Juli 2012[^ingress-3],
 
 beschliesst:
 
-[^t-1]: GRP 2012/2013, 250
-[^t-2]: BR 110.100
-[^t-3]: Seite 535 01.01.2013 1
+[^ingress-1]: GRP 2012/2013, 250
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 535
 
-### I. Allgemeine Bestimmungen
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-Dieses Gesetz regelt Rechtsform, Aufgaben und Organisation der Psychiatrischen Dienste Graubünden.
+<sup>1</sup> Dieses Gesetz regelt Rechtsform, Aufgaben und Organisation der Psychiatrischen Dienste Graubünden.
 
 #### Art. 2
 
 **Rechtsform, Name und Sitz**
 
-Unter der Bezeichnung "Psychiatrische Dienste Graubünden" besteht eine selbstständige Anstalt des kantonalen öffentlichen Rechts mit Sitz in Chur.
+<sup>1</sup> Unter der Bezeichnung "Psychiatrische Dienste Graubünden" besteht eine selbstständige Anstalt des kantonalen öffentlichen Rechts mit Sitz in Chur.
 
 #### Art. 3
 
 **Auftrag**
 
-<sup>1</sup> Die Psychiatrischen Dienste Graubünden stellen stationär und ergänzend ambulant eine sichere, wirksame, patientenbezogene, zeitgerechte und effiziente psychiatrische Versorgung der Erwachsenen und subsidiär der Jugendlichen und Kinder im Kanton mit chancengleichem Zugang zu den Leistungen sicher.
+<sup>1</sup> Die Psychiatrischen Dienste Graubünden stellen stationär und ergänzend ambulant eine sichere, wirksame, patientenbezogene, zeitgerechte und effiziente psychiatrische Versorgung der Erwachsenen, Jugendlichen und Kinder im Kanton mit chancengleichem Zugang zu den Leistungen sicher.
 
-<sup>2</sup> Sie führen dazu psychiatrische Kliniken, geschützte Wohn-, Arbeits- und Tagesstrukturplätze für Menschen mit psychischer Behinderung und erbringen den Konsiliardienst für die öffentlichen Spitäler im Kanton.
+<sup>2</sup> Sie führen dazu psychiatrische Kliniken, eine Klinikschule, geschützte Wohn-, Arbeits- und Tagesstrukturplätze für Menschen mit psychischer Behinderung und erbringen den Konsiliardienst für die öffentlichen Spitäler im Kanton.
 
 <sup>3</sup> Sie bieten Aus- und Weiterbildungsplätze für Assistenzärztinnen und -ärzte, für Berufe der Gesundheits- und Krankenpflege, für andere Berufe des Gesundheitswesens wie auch für sozialpädagogische Berufe an.
 
@@ -66,18 +66,16 @@ Unter der Bezeichnung "Psychiatrische Dienste Graubünden" besteht eine selbstst
 <sup>2</sup> Sie können namentlich:
 
 - a) Dienstleistungen für Dritte erbringen;
-
 - b) mit andern Leistungserbringern zusammenarbeiten und gemeinsame Dienstleistungsbetriebe führen;
-
 - c) sich mit Zustimmung der Regierung an Unternehmungen beteiligen.
 
 #### Art. 5
 
 **Haftung**
 
-Der Kanton haftet nicht für die Verbindlichkeiten der Psychiatrischen Dienste Graubünden.
+<sup>1</sup> Der Kanton haftet nicht für die Verbindlichkeiten der Psychiatrischen Dienste Graubünden.
 
-### II. Organisation
+## 2. Organisation
 
 #### Art. 6
 
@@ -94,11 +92,8 @@ Der Kanton haftet nicht für die Verbindlichkeiten der Psychiatrischen Dienste G
 <sup>1</sup> Die Regierung ist insbesondere zuständig für:
 
 - a) die Wahl der Mitglieder des Verwaltungsrates und Bezeichnung des Präsidiums und des Vizepräsidiums;
-
 - b) die Wahl der Revisionsstelle;
-
 - c) die Genehmigung des Jahresberichtes und der Jahresrechnung;
-
 - d) die Vergütung des Verwaltungsrates.
 
 <sup>2</sup> Der Jahresbericht und die Jahresrechnung sind dem Grossen Rat zur Kenntnis zu bringen.
@@ -107,12 +102,10 @@ Der Kanton haftet nicht für die Verbindlichkeiten der Psychiatrischen Dienste G
 
 **Organe**
 
-Die Organe der Psychiatrischen Dienste Graubünden sind:
+<sup>1</sup> Die Organe der Psychiatrischen Dienste Graubünden sind:
 
 - a) der Verwaltungsrat;
-
 - b) die Direktion;
-
 - c) die Revisionsstelle.
 
 #### Art. 9
@@ -124,21 +117,11 @@ Die Organe der Psychiatrischen Dienste Graubünden sind:
 <sup>2</sup> Ihm obliegen insbesondere folgende Geschäfte:
 
 - a) strategische Führung der Psychiatrischen Dienste Graubünden;
-
-**2**
-
-**3**
-
-01.01.2013 b) Wahl und Entlassung sowie Festlegung der Vergütung der Direktion und der Leiterinnen oder Leiter der Unternehmenseinheiten;
-
+- b) Wahl und Entlassung sowie Festlegung der Vergütung der Direktion und der Leiterinnen oder Leiter der Unternehmenseinheiten;
 - c) Beaufsichtigung der Direktion;
-
 - d) Genehmigung des Budgets und Verabschiedung des Jahresberichts und der Jahresrechnung zuhanden der Regierung;
-
 - e) Erlass ergänzender Bestimmungen zum Personalgesetz;
-
 - f) Erlass von Bestimmungen über die Organisation und den Betrieb der Psychiatrischen Dienste Graubünden;
-
 - g) Erlass ergänzender Bestimmungen zum Gesetz über die Psychiatrischen Dienste Graubünden.
 
 #### Art. 10
@@ -153,9 +136,9 @@ Die Organe der Psychiatrischen Dienste Graubünden sind:
 
 **Revisionsstelle**
 
-Die Revisionsstelle prüft, ob die Buchführung und die Jahresrechnung den gesetzlichen Anforderungen entsprechen, und erstattet dem Verwaltungsrat und der Regierung Bericht.
+<sup>1</sup> Die Revisionsstelle prüft, ob die Buchführung und die Jahresrechnung den gesetzlichen Anforderungen entsprechen, und erstattet dem Verwaltungsrat und der Regierung Bericht.
 
-### III. Personalrechtliche Entscheide
+## 3. Personalrechtliche Entscheide
 
 #### Art. 12
 
@@ -165,11 +148,9 @@ Die Revisionsstelle prüft, ob die Buchführung und die Jahresrechnung den geset
 
 <sup>2</sup> Personalrechtliche Entscheide der Direktion gegenüber Leiterinnen oder Leitern von Unternehmenseinheiten können von diesen beim Verwaltungsrat angefochten werden.
 
-<sup>3</sup> Die Beschwerde gegen personalrechtliche Entscheide der Direktion an den Verwaltungsrat ist nur zulässig, wenn der Weiterzug an das Verwaltungsgericht ausgeschlossen ist.
+<sup>3</sup> Die Beschwerde gegen personalrechtliche Entscheide der Direktion an den Verwaltungsrat ist nur zulässig, wenn der Weiterzug an das Obergericht ausgeschlossen ist.
 
-01.01.2013
-
-### IV. Finanzierung
+## 4. Finanzierung
 
 #### Art. 13
 
@@ -178,21 +159,13 @@ Die Revisionsstelle prüft, ob die Buchführung und die Jahresrechnung den geset
 <sup>1</sup> Die zur Erfüllung der Aufgaben erforderlichen Mittel werden insbesondere aufgebracht durch:
 
 - a) Entgelte für Dienstleistungen;
-
 - b) Beiträge der Krankenversicherer und der Kantone gemäss Krankenversicherungs- und Krankenpflegegesetzgebung;
-
 - c) Beiträge der Kantone und die Kostenbeteiligung der betreuten Personen gemäss Behindertenintegrationsgesetzgebung;
-
 - d) Beiträge des Kantons in seiner Eigenschaft als Träger der Psychiatrischen Dienste Graubünden;
-
 - e) Dotationskapital;
-
 - f) Reserven;
-
 - g) die Aufnahme von Darlehen und Krediten;
-
 - h) Erträge aus Vermögen;
-
 - i) Beiträge und Zuwendungen Dritter.
 
 <sup>2</sup> Die Beiträge gemäss Absatz 1 Litera d bemessen sich insbesondere an allfällig in den vereinbarten oder festgelegten Vergütungen für stationäre und ambulante Leistungen gemäss der Krankenversicherungsgesetzgebung nicht abgegoltene Anlagenutzungskosten.
@@ -211,21 +184,17 @@ Die Revisionsstelle prüft, ob die Buchführung und die Jahresrechnung den geset
 
 **Reserven**
 
-Jahresgewinne sind zur Abdeckung künftiger Verluste den Reserven zuzuweisen und zweckgebunden für den Geschäftsbereich zu verwenden, in dem sie entstanden sind.
+<sup>1</sup> Jahresgewinne sind zur Abdeckung künftiger Verluste den Reserven zuzuweisen und zweckgebunden für den Geschäftsbereich zu verwenden, in dem sie entstanden sind.
 
-### V. Rechtsbeziehungen
+## 5. Rechtsbeziehungen
 
 #### Art. 16
 
 **Anwendbares Recht**
 
-Die Rechtsbeziehungen zwischen den Psychiatrischen Diensten Graubünden und ihren Nutzerinnen und Nutzern richten sich nach den Bestimmungen des Privatrechts.
+<sup>1</sup> Die Rechtsbeziehungen zwischen den Psychiatrischen Diensten Graubünden und ihren Nutzerinnen und Nutzern richten sich nach den Bestimmungen des Privatrechts.
 
-**4**
-
-01.01.2013
-
-### VI. Schlussbestimmungen
+## 6. Schlussbestimmungen
 
 #### Art. 17
 
@@ -241,7 +210,7 @@ Die Rechtsbeziehungen zwischen den Psychiatrischen Diensten Graubünden und ihre
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieses Gesetzes wird das Gesetz über die Organisation der Kantonalen Psychiatrischen Dienste und Wohnheime für psychisch behinderte Menschen des Kantons Graubünden vom 10. Juni 2001 aufgehoben.
+<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes wird das Gesetz über die Organisation der Kantonalen Psychiatrischen Dienste und Wohnheime für psychisch behinderte Menschen des Kantons Graubünden vom 10. Juni 2001 aufgehoben.
 
 #### Art. 19
 
@@ -252,4 +221,6 @@ Mit dem Inkrafttreten dieses Gesetzes wird das Gesetz über die Organisation der
 <sup>2</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^19-2] dieses Gesetzes.
 
 [^19-1]: Die Referendumsfrist ist am 30. Januar 2013 unbenutzt abgelaufen.
-[^19-2]: Mit RB vom 11. Februar 2013 rückwirkend auf den 1. Januar 2013 in Kraft gesetzt. 01.01.2013 5
+[^19-2]: Mit RB vom 11. Februar 2013 rückwirkend auf den 1. Januar 2013 in Kraft gesetzt.
+
+-
