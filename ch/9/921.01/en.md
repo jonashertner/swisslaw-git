@@ -4,11 +4,11 @@ title: "Ordinance of 30 November 1992 on Forest (Forest Ordinance, ForO)"
 short: ForO
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: en
-version: 2021-07-01
+version: 2025-01-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20210701/en/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20210701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Forest Ordinance, ForO)
 
-of 30 November 1992 (Status as of 1 July 2021)
+of 30 November 1992 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -220,7 +220,7 @@ At the request of the competent cantonal forest authority, a record must be made
 [^11-1]: Amended by No I of the O of 17 Aug. 2016, in force since 1 Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^11-2]: Amended by No I of the O of 14 June 2013, in force since 1 July 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
-### Section 2 Declaration as Forest****
+### Section 2 Declaration as Forest
 
 [^chap2-sec2-1]
 
@@ -272,7 +272,7 @@ Forest roads may be accessed by motorised vehicular traffic for the following pu
 
 [^13-1]: Amended by No II 61 of the O of 1 Dec. 1997, in force since 1 Jan. 1998 ([AS 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
 
-### Section 4 Buildings and Installations in the Forest ****
+### Section 4 Buildings and Installations in the Forest
 
 [^chap2-sec4-1]
 
@@ -597,7 +597,7 @@ The Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) has th
 
 [^31-1]: Amended by No I of the O of 17 Aug. 2016, in force since 1 Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-## Chapter 5 Training and Basic Data****
+## Chapter 5 Training and Basic Data
 
 [^chap5-1]
 
@@ -673,7 +673,7 @@ The cantons shall provide:
 
 [^3637-1]: Repealed by No I 7.4 of the O of 17 Aug. 2016, with effect from 1 Jan. 2018 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-### Section 3**** Surveys
+### Section 3 Surveys
 
 [^chap5-sec3-1]
 
@@ -700,7 +700,7 @@ In cooperation with the WSL, it surveys:
 
 [^37a-1]: Amended by No I of the O of 17 Aug. 2016, in force since 1 Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-### Section 4**** Timber Production
+### Section 4 Timber Production
 
 [^chap5-sec4-1]
 
@@ -728,13 +728,13 @@ In cooperation with the WSL, it surveys:
 
 <sup>2</sup> The sustainability of timber and timber products shall be assessed in accordance with existing guidelines and recommendations such as those issued by the Coordination Coordination Group for Construction and Property Services.
 
-## Chapter 6**** Financial Assistance (excluding Investment Credits) and Compensatory Payments
+## Chapter 6 Financial Assistance (excluding Investment Credits) and Compensatory Payments
 
 [^chap6-1]
 
 [^chap6-1]: Amended by No I 21 of the O of 7 Nov. 2007 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons, in force since 1 Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### Section 1 General Provisions****
+### Section 1 General Provisions
 
 [^chap6-sec1-1]
 
@@ -942,7 +942,7 @@ Global financial assistance for the improvement of the management conditions in 
 - b. an economically significant volume of wood is harvested or marketed jointly; and
 - c. business accounts are kept.
 
-<sup>4</sup> Global financial assistance for young forest maintenance and for adapting forest stands specifically to changing climatic conditions shall only be awarded if the measures are in accordance with near-natural silviculture methods.[^43-10]
+<sup>4</sup> Global financial assistance for young forest maintenance and for adapting forest stands specifically to changing climatic conditions shall only be awarded if the measures are in accordance with close-to-nature silviculture methods.[^43-10]
 
 <sup>5</sup> Global financial assistance for obtaining forest reproductive material shall only be afforded if a construction project or operating concept including cost proposals and proof of funding has been approved by the canton.[^43-11]
 
@@ -968,7 +968,7 @@ Global financial assistance for the improvement of the management conditions in 
 
 <sup>2</sup> The Confederation shall award financial assistance in compensation for the occupation-specific costs arising from the on-site practical training of forestry personnel in the form of a flat-rate payment of 10 per cent of the training costs of the schools for forest wardens and of the courses.
 
-<sup>3</sup> The Confederation shall award financial assistance for the creation of teaching material for forestry personnel, on a case by case basis and amounting to a maximum of 50 per cent of the recognised costs.
+<sup>3</sup> The Confederation shall award financial assistance for the creation of teaching material for forestry personnel, on a case-by-case basis and amounting to a maximum of 50 per cent of the recognised costs.
 
 <sup>4</sup> ...[^44-2]
 
@@ -981,9 +981,9 @@ Global financial assistance for the improvement of the management conditions in 
 
 ### (Art. 31 ForA)
 
-<sup>1</sup> The Confederation may award financial assistance to research and development projects that it has not commissioned itself, on a case by case basis and amounting to a maximum of 50 per cent of the project costs.
+<sup>1</sup> The Confederation may award financial assistance to research and development projects that it has not commissioned itself, on a case-by-case basis and amounting to a maximum of 50 per cent of the project costs.
 
-<sup>2</sup> It may award financial assistance to organisations for the promotion and coordination of research and development, on a case by case basis and equal to at most the funding provided by third parties, provided it receives an adequate right of co-decision in these organisations.
+<sup>2</sup> It may award financial assistance to organisations for the promotion and coordination of research and development, on a case-by-case basis and equal to at most the funding provided by third parties, provided it receives an adequate right of co-decision in these organisations.
 
 ### Section 3 Procedure for Granting Global Compensatory Payments or Financial Assistance
 
@@ -1259,18 +1259,18 @@ The following are repealed:
 - e. the Federal Council Decree of 16 October 1956[^67-5] on the Origin and Use of Forest Reproductive Material and Forest Plants;
 - f. the Ordinance of 22 June 1970[^67-6] on Investment Credits for the Forestry Sector in the Mountain Region.
 
-[^67-1]: [[AS 1965 861](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862), [1971 1192](https://fedlex.data.admin.ch/eli/oc/1971/1192_1193_1193), [1977 2273](https://fedlex.data.admin.ch/eli/oc/1977/2273_2273_2273)No I 18.[1](https://fedlex.data.admin.ch/eli/oc/1977/1_1_1), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)No I 3 685 No I 6 2022]
-[^67-2]: [[AS 1973 964](https://fedlex.data.admin.ch/eli/oc/1973/964_964_964), [1987 608](https://fedlex.data.admin.ch/eli/oc/1987/608_608_608)Art. 16 para. 1 let. e]
-[^67-3]: [[AS 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057), [1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)No I, II]
-[^67-4]: [[AS 1956 1220](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317), **1959** 1626, [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)No I 19, [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)Art. 70 No 3, **1987** 2538, [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 2 No 2, [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)No II 4. [AS 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)Art. 42 let. a]
-[^67-5]: [[AS 1956 1227](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325), **1959** 1628, [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)No I 15, **1987** 2540]
-[^67-6]: [[AS 1970 765](https://fedlex.data.admin.ch/eli/oc/1970/765_764_764), [1978 1819](https://fedlex.data.admin.ch/eli/oc/1978/1819_1819_1819)]
+[^67-1]: [[AS 1965 861](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862); [1971 1192](https://fedlex.data.admin.ch/eli/oc/1971/1192_1193_1193); [1977 2273](https://fedlex.data.admin.ch/eli/oc/1977/2273_2273_2273)No I 18.[1](https://fedlex.data.admin.ch/eli/oc/1977/1_1_1); [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)No I 3, 685 No I 6, 2022]
+[^67-2]: [[AS 1973 964](https://fedlex.data.admin.ch/eli/oc/1973/964_964_964); [1987 608](https://fedlex.data.admin.ch/eli/oc/1987/608_608_608)Art. 16 para. 1 let. e]
+[^67-3]: [[AS 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057); [1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)]
+[^67-4]: [[AS 1956 1220](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317); **1959** 1626; [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)No I 19; [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)Art. 70 No 3; **1987** 2529; [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 2 No 2; [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)No II 4. [AS 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)Art. 42 let. a]
+[^67-5]: [[AS 1956 1227](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325); **1959** 1628; [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)No I 15; **1987** 2531]
+[^67-6]: [[AS 1970 765](https://fedlex.data.admin.ch/eli/oc/1970/765_764_764); [1978 1819](https://fedlex.data.admin.ch/eli/oc/1978/1819_1819_1819)]
 
 #### Art. 68
 
 **Amendment of Current Legislation**
 
-...[^68-1]
+…[^68-1]
 
 [^68-1]: The amendments can be consulted under [AS 1992 2538](https://fedlex.data.admin.ch/eli/oc/1992/2538_2538_2538).
 
@@ -1282,7 +1282,7 @@ The following are repealed:
 
 <sup>2</sup> Articles 60–64 and 67 letter f come into force on 1 January 1994.
 
-## Transitional Provision to the Amendment of 2 February 2000****
+## Transitional Provision to the Amendment of 2 February 2000
 
 [^u1-1]
 
@@ -1290,18 +1290,19 @@ The following are repealed:
 
 Deforestation applications for works that are the responsibility of the cantons and which are pending on 1 January 2000 shall be governed by the previous law.
 
-## Transitional Provision on the Amendment of 17 August 2016****
+## Transitional Provision on the Amendment of 17 August 2016
 
 [^u2-1]
 
 [^u2-1]: [AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)
 
-<sup>1</sup> Instead of the criterion stated in Article 40*a* paragraph 1, the amount of financial assistance awarded for measures to deal with forest damage outside the protective forest carried out before 31 December 2019 may be assessed according to the scope and quality of the measures.
+<sup>1</sup> Instead of the criteria stated in Article 40*a* paragraph 1, the amount of financial assistance awarded for measures to deal with forest damage outside the protective forest carried out before 31 December 2028 may be assessed according to the scope and quality of the measures.[^u2-2]
 
-<sup>2</sup> Instead of the criteria stated in Article 43 paragraph 1 letter j, the amount of financial assistance awarded for public infrastructure facilities adapted or reconstituted before 31 December 2024 may be assessed according to the scope and quality of the measures.[^u2-2]
+<sup>2</sup> Instead of the criteria stated in Article 43 paragraph 1 letter j, the amount of financial assistance awarded for public infrastructure facilities adapted or reconstituted before 31 December 2024 may be assessed according to the scope and quality of the measures.[^u2-3]
 
-[^u2-2]: Amended by No I 2 of the O of 17 April 2019 on Amendments to Ordinances to take account of Changes to Programme Agreements in the Environment Field for the Programme Period 2020–2024, in force since 1 Jan. 2020 ([AS 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
+[^u2-2]: Amended by No I 2 of the O of 31 May 2024 on Amendments to Ordinances to take account of Changes to Programme Agreements in the Environment Field for the Programme Period 2020–2024, in force since 1 Jan. 2025 ([AS 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
+[^u2-3]: Amended by No I 2 of the O of 17 April 2019 on Amendments to Ordinances to take account of Changes to Programme Agreements in the Environment Field for the Programme Period 2020–2024, in force since 1 Jan. 2020 ([AS 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
-Annex*[^t-1]*
+Annex[^t-1]
 
 [^t-1]: Repealed by No I 21 of the O of 7 Nov. 2007 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons, with effect from 1 Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).

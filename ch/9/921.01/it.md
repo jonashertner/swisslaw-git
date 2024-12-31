@@ -4,11 +4,11 @@ title: Ordinanza del 30 novembre 1992 sulle foreste (Ofo)
 short: OFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: it
-version: 2021-07-01
+version: 2025-01-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20210701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/it"
 
 (OFo)
 
-del 30 novembre 1992 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 30 novembre 1992 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -218,7 +218,7 @@ Su indicazione dell’autorità competente secondo l’articolo 6 capoverso 1 LF
 [^11-2]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^11-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
-### Sezione 2: Accertamento del carattere forestale****
+### Sezione 2: Accertamento del carattere forestale
 
 [^chap2-sec2-1]
 
@@ -268,7 +268,7 @@ I veicoli a motore possono circolare su strade forestali a scopo di:
 
 [^13-1]: Nuovo testo giusta il n. II 61 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
 
-### Sezione 4: Edifici e impianti in foresta****
+### Sezione 4: Edifici e impianti in foresta
 
 [^chap2-sec4-1]
 
@@ -589,13 +589,13 @@ L’Istituto federale di ricerca per la foresta, la neve e il paesaggio (FNP) ad
 
 [^31-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-## Capitolo 5: Formazione e documenti di base****
+## Capitolo 5: Formazione e documenti di base
 
 [^chap5-1]
 
 [^chap5-1]: Nuovo testo giusta l’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
-### Sezione 1: Formazione e formazione continua****
+### Sezione 1: Formazione e formazione continua
 
 [^chap5-sec1-1]
 
@@ -669,7 +669,7 @@ I Cantoni curano:
 
 [^3637-1]: Abrogati dal n. I dell’O del 17 ago. 2016, con effetto dal 1° gen. 2018 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-### Sezione 3:**** Rilevamenti
+### Sezione 3: Rilevamenti
 
 [^chap5-sec3-1]
 
@@ -696,7 +696,7 @@ In collaborazione con l’FNP, rileva:
 
 [^37a-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-### Sezione 4:**** Promozione del legno
+### Sezione 4: Promozione del legno
 
 [^chap5-sec4-1]
 
@@ -724,13 +724,13 @@ In collaborazione con l’FNP, rileva:
 
 <sup>2</sup> Per la valutazione della sostenibilità del legno e dei prodotti in legno occorre tenere conto delle linee guida e delle raccomandazioni esistenti, come quelle, ad esempio, emanate dalla Conferenza di coordinamento degli organi della costruzione e degli immobili dei committenti pubblici.
 
-## Capitolo 6:**** Aiuti finanziari (senza crediti d’investimento) e indennità
+## Capitolo 6: Aiuti finanziari (senza crediti d’investimento) e indennità
 
 [^chap6-1]
 
 [^chap6-1]: Nuovo testo giusta il n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### Sezione 1: Disposizioni generali****
+### Sezione 1: Disposizioni generali
 
 [^chap6-sec1-1]
 
@@ -1126,7 +1126,7 @@ Crediti d’investimento sono concessi se:
 
 <sup>6</sup> ...[^60-3]
 
-[^60-1]: [[RU 1962 1323](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323), [1967 806](https://fedlex.data.admin.ch/eli/oc/1967/768_811_806), [1972 2532](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 961, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 52 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 27, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. lett. f]
+[^60-1]: [[RU 1962 1323](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1967 806](https://fedlex.data.admin.ch/eli/oc/1967/768_811_806); [1972 2532](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 961; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 47, [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. lett. f]
 [^60-2]: [[RU 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 43. [RU 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)art. 25]. Vedi ora: la LF del 6 ott. 2006 sulla politica regionale ([RS 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136))
 [^60-3]: Abrogato dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
@@ -1258,9 +1258,9 @@ Sono abrogati:
 - e. il decreto del Consiglio federale del 16 ottobre 1956[^67-5] concernente la provenienza e l’utilizzazione delle sementi forestali e delle piante forestali;
 - f. l’ordinanza del 22 giugno 1970[^67-6] sui crediti forestali d’investimento nelle regioni di montagna.
 
-[^67-1]: [[RU 1965 862](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862), **1971** 1192, **1977** n. I 18.1, [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)n. I 3, [685](https://fedlex.data.admin.ch/eli/oc/1985/685_685_685)n. I 6, [2022](https://fedlex.data.admin.ch/eli/oc/1985/2022_2022_2022)]
+[^67-1]: [[RU 1965 862](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862); **1971** 1192; **1977** n. I 18.1; [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)n. I 3, [685](https://fedlex.data.admin.ch/eli/oc/1985/685_685_685)n. I 6, [2022](https://fedlex.data.admin.ch/eli/oc/1985/2022_2022_2022)]
 [^67-2]: [[RU 1973 964](https://fedlex.data.admin.ch/eli/oc/1973/964_964_964), [1987 608](https://fedlex.data.admin.ch/eli/oc/1987/608_608_608)art. 16 cpv. 1 lett. e]
-[^67-3]: [[RU 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057), [1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)n. I, II]
+[^67-3]: [[RU 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057)[1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)n. I, II]
 [^67-4]: [[RU 1956 1317](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317), **1959** 1680, [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)n. I 19, [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)art. 70 n. 3, **1987** 2538, [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)art. 2 n. 2, [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)n. II 4. [RU 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)art. 42 lett. a]
 [^67-5]: [[RU 1956 1325](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325), **1959** 1682, [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)n. I 15, **1987** 2538]
 [^67-6]: [[RU 1970 764](https://fedlex.data.admin.ch/eli/oc/1970/765_764_764), [1978 1819](https://fedlex.data.admin.ch/eli/oc/1978/1819_1819_1819)]
@@ -1281,7 +1281,7 @@ Sono abrogati:
 
 <sup>2</sup> Gli articoli 60 a 64 e 67 lettera f entrano in vigore il 1° gennaio 1994.
 
-## Disposizione transitoria della modifica del 2 febbraio 2000****
+## Disposizione transitoria della modifica del 2 febbraio 2000
 
 [^u1-1]
 
@@ -1289,17 +1289,18 @@ Sono abrogati:
 
 Le domande di dissodamento per le opere di competenza cantonale, pendenti il 1° gennaio 2000, sono giudicate in base al diritto previgente.
 
-## Disposizione transitoria della modifica del 17 agosto 2016****
+## Disposizione transitoria della modifica del 17 agosto 2016
 
 [^u2-1]
 
 [^u2-1]: [RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)
 
-<sup>1</sup> L’ammontare delle indennità per provvedimenti contro i danni alla foresta al di fuori della foresta di protezione realizzati prima del 31 dicembre 2019 può essere stabilito in base all’entità e alla qualità dei provvedimenti invece che secondo il criterio di cui all’articolo 40*a* capoverso 1.
+<sup>1</sup> Invece dei criteri di cui all’articolo 40*a* capoverso 1, l’ammontare delle indennità destinate a provvedimenti contro i danni alla foresta al di fuori della foresta di protezione realizzati prima del 31 dicembre 2028 può essere stabilito in funzione dell’entità e della qualità dei provvedimenti.[^u2-2]
 
-<sup>2</sup> L’ammontare degli aiuti finanziari per le strutture di raccordo adattate o ripristinate prima del 31 dicembre 2024 può essere stabilito in base all’entità e alla qualità dei provvedimenti invece che secondo i criteri di cui all’articolo 43 capoverso 1 lettera j.[^u2-2]
+<sup>2</sup> L’ammontare degli aiuti finanziari per le strutture di raccordo adattate o ripristinate prima del 31 dicembre 2024 può essere stabilito in base all’entità e alla qualità dei provvedimenti invece che secondo i criteri di cui all’articolo 43 capoverso 1 lettera j.[^u2-3]
 
-[^u2-2]: Nuovo testo giusta il n. I 2 dell’O del 17 aprile 2019 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2020–2024, in vigore dal 1° gen. 2020 ([RU 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
+[^u2-2]: Nuovo testo giusta il n. I 2 dell’O del 31 mag. 2024 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2025–2028, in vigore dal 1° gen. 2025 ([RU 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
+[^u2-3]: Nuovo testo giusta il n. I 2 dell’O del 17 apr. 2019 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2020–2024, in vigore dal 1° gen. 2020 ([RU 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
 Allegato[^t-1]
 

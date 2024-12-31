@@ -4,11 +4,11 @@ title: "Verordnung vom 30. November 1992 über den Wald (Waldverordnung, WaV)"
 short: WaV
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: de
-version: 2021-07-01
+version: 2025-01-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20210701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/de"
 
 (Waldverordnung, WaV)
 
-vom 30. November 1992 (Stand am 1. Juli 2021)
+vom 30. November 1992 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -657,13 +657,13 @@ Die Kantone sorgen:
 
 ### (Art. 29 Abs. 1 WaG)
 
-<sup>1</sup> ...[^35-1]
+<sup>1</sup> …[^35-1]
 
 <sup>2</sup> Das BAFU führt für Massnahmen der forstlichen Ausbildung eine zentrale Koordinations- und Dokumentationsstelle.
 
 [^35-1]: Aufgehoben durch Ziff. I 7.4 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), mit Wirkung seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 36 und 37
 
@@ -885,7 +885,7 @@ Die Höhe der globalen Abgeltungen an Massnahmen zur Verhütung und Behebung von
 Die Höhe der globalen Finanzhilfen an Massnahmen, die zur Erhaltung und Verbesserung der biologischen Vielfalt des Waldes beitragen, richtet sich nach:
 
 - a. der Anzahl Hektaren der auszuscheidenden und zu pflegenden Waldreservate;
-- b.[^41-2] ...
+- b.[^41-2] …
 - c. der Anzahl Hektaren der zu pflegenden Lebensräume, insbesondere der Waldränder, die der Vernetzung dienen;
 - d. dem Umfang und der Qualität der Massnahmen zur Förderung von Tier- und Pflanzenarten, die für die biologische Vielfalt prioritär zu erhalten sind;
 - e.[^41-3] der Anzahl Hektaren der ausserhalb von Waldreservaten auszuscheidenden Fläche mit hohen Anteilen an Alt- und Totholz oder mit genügend Bäumen, die für die biologische Vielfalt des Waldes besonders wertvolle Eigenschaften aufweisen (Biotopbäume);
@@ -896,7 +896,7 @@ Die Höhe der globalen Finanzhilfen an Massnahmen, die zur Erhaltung und Verbess
 
 <sup>3</sup> Die Finanzhilfen dürfen nur gewährt werden, wenn der Schutz der ökologischen Flächen nach Absatz 1 Buchstaben a und c–f vertraglich oder auf andere geeignete Weise gesichert ist.
 
-<sup>4</sup> ...[^41-4]
+<sup>4</sup> …[^41-4]
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^41-2]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
@@ -962,13 +962,13 @@ Globale Finanzhilfen für die Verbesserung der Bewirtschaftungsbedingungen der B
 
 ### (Art. 39 WaG)
 
-<sup>1</sup> ...[^44-1]
+<sup>1</sup> …[^44-1]
 
 <sup>2</sup> Als Ausgleich für die berufsspezifischen Kosten der ortsgebundenen praktischen Ausbildung des Forstpersonals gewährt der Bund Finanzhilfen im Einzelfall in Form einer Pauschale von 10 Prozent der Ausbildungskosten der Försterschulen und der Kurse.
 
 <sup>3</sup> An die Schaffung von Lehrmitteln für das Forstpersonal gewährt der Bund Finanzhilfen im Einzelfall bis zu 50 Prozent der anerkannten Kosten.
 
-<sup>4</sup> ...[^44-2]
+<sup>4</sup> …[^44-2]
 
 [^44-1]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^44-2]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
@@ -1123,7 +1123,7 @@ Investitionskredite werden gewährt, wenn:
 
 <sup>5</sup> Für ihre eigenen Investitionen erhalten die Kantone keine Kredite.
 
-<sup>6</sup> ...[^60-3]
+<sup>6</sup> …[^60-3]
 
 [^60-1]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 961, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 47, [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Bst. f]
 [^60-2]: [[AS 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 43. [AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)Art. 25]. Siehe heute: das BG vom 6. Okt. 2006 über Regionalpolitik ([SR 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136)).
@@ -1199,7 +1199,7 @@ Die Rückzahlung beginnt:
 
 <sup>4</sup> Die Kreditnehmerin oder der Kreditnehmer kann den Kredit ohne Kündigung jederzeit ganz oder teilweise zurückzahlen.
 
-<sup>5</sup> ...[^64-1]
+<sup>5</sup> …[^64-1]
 
 <sup>6</sup> Zur Rückzahlung fällige Kredite oder Rückzahlungsraten, die ausstehen, sind zu 5 Prozent zu verzinsen.
 
@@ -1257,18 +1257,18 @@ Es werden aufgehoben:
 - e. den Bundesratsbeschluss vom 16. Oktober 1956[^67-5] betreffend Herkunft und Verwendung von forstlichem Saatgut und Forstpflanzen;
 - f. die Verordnung vom 22. Juni 1970[^67-6] über Investitionskredite für die Forstwirtschaft im Berggebiet.
 
-[^67-1]: [[AS 1965 861](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862), [1971 1192](https://fedlex.data.admin.ch/eli/oc/1971/1192_1193_1193), [1977 2273](https://fedlex.data.admin.ch/eli/oc/1977/2273_2273_2273)Ziff. I 18.[1](https://fedlex.data.admin.ch/eli/oc/1977/1_1_1), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)Ziff. I 3 685 Ziff. I 6 2022]
-[^67-2]: [[AS 1973 964](https://fedlex.data.admin.ch/eli/oc/1973/964_964_964), [1987 608](https://fedlex.data.admin.ch/eli/oc/1987/608_608_608)Art. 16 Abs. 1 Bst. e]
-[^67-3]: [[AS 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057), [1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)]
-[^67-4]: [[AS 1956 1220](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317), **1959** 1626, [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)Ziff. I 19, [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)Art. 70 Ziff. 3, **1987** 2529, [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 2 Ziff. 2, [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)Ziff. II 4. [AS 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)Art. 42 Bst. a]
-[^67-5]: [[AS 1956 1227](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325), **1959** 1628, [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)Ziff. I 15, **1987** 2531]
-[^67-6]: [[AS 1970 765](https://fedlex.data.admin.ch/eli/oc/1970/765_764_764), [1978 1819](https://fedlex.data.admin.ch/eli/oc/1978/1819_1819_1819)]
+[^67-1]: [[AS 1965 861](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862); [1971 1192](https://fedlex.data.admin.ch/eli/oc/1971/1192_1193_1193); [1977 2273](https://fedlex.data.admin.ch/eli/oc/1977/2273_2273_2273)Ziff. I 18.[1](https://fedlex.data.admin.ch/eli/oc/1977/1_1_1); [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)Ziff. I 3, 685 Ziff. I 6, 2022]
+[^67-2]: [[AS 1973 964](https://fedlex.data.admin.ch/eli/oc/1973/964_964_964); [1987 608](https://fedlex.data.admin.ch/eli/oc/1987/608_608_608)Art. 16 Abs. 1 Bst. e]
+[^67-3]: [[AS 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057); [1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)]
+[^67-4]: [[AS 1956 1220](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317); **1959** 1626; [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)Ziff. I 19; [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)Art. 70 Ziff. 3; **1987** 2529; [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 2 Ziff. 2; [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)Ziff. II 4. [AS 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)Art. 42 Bst. a]
+[^67-5]: [[AS 1956 1227](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325); **1959** 1628; [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)Ziff. I 15; **1987** 2531]
+[^67-6]: [[AS 1970 765](https://fedlex.data.admin.ch/eli/oc/1970/765_764_764); [1978 1819](https://fedlex.data.admin.ch/eli/oc/1978/1819_1819_1819)]
 
 #### Art. 68
 
 **Änderung bisherigen Rechts**
 
-...[^68-1]
+…[^68-1]
 
 [^68-1]: Die Änd. können unter [AS 1992 2538](https://fedlex.data.admin.ch/eli/oc/1992/2538_2538_2538)konsultiert werden.
 
@@ -1294,12 +1294,13 @@ Rodungsgesuche für Werke in kantonaler Zuständigkeit, die am 1. Januar 2000 h�
 
 [^u2-1]: [AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)
 
-<sup>1</sup> Anstelle des Kriteriums nach Artikel 40*a* Absatz 1 kann sich die Höhe der Abgeltungen an Massnahmen gegen Waldschäden ausserhalb des Schutzwaldes, die vor dem 31. Dezember 2019 durchgeführt werden, nach dem Umfang und der Qualität der Massnahmen richten.
+<sup>1</sup> Anstelle der Kriterien nach Artikel 40*a* Absatz 1 kann sich die Höhe der Abgeltungen an Massnahmen gegen Waldschäden ausserhalb des Schutzwaldes, die vor dem 31. Dezember 2028 durchgeführt werden, nach dem Umfang und der Qualität der Massnahmen richten.[^u2-2]
 
-<sup>2</sup> Anstelle der Kriterien nach Artikel 43 Absatz 1 Buchstabe j kann sich die Höhe der Finanzhilfen für Erschliessungsanlagen, die vor dem 31. Dezember 2024 angepasst oder wiederinstandgestellt werden, nach dem Umfang und der Qualität der Massnahmen richten.[^u2-2]
+<sup>2</sup> Anstelle der Kriterien nach Artikel 43 Absatz 1 Buchstabe j kann sich die Höhe der Finanzhilfen für Erschliessungsanlagen, die vor dem 31. Dezember 2024 angepasst oder wiederinstandgestellt werden, nach dem Umfang und der Qualität der Massnahmen richten.[^u2-3]
 
-[^u2-2]: Fassung gemäss Ziff. I 2 der V vom 17. April 2019 über Anpassungen des Verordnungsrechts an die Weiterentwicklung der Programmvereinbarungen im Umweltbereich für die Programmperiode 2020–2024, in Kraft seit 1. Jan. 2020 ([AS 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
+[^u2-2]: Fassung gemäss Ziff. I 2 der V vom 31. Mai 2024 über Anpassungen des Verordnungsrechts an die Weiterentwicklung der Programmvereinbarungen im Umweltbereich für die Programmperiode 2025–2028, in Kraft seit 1. Jan. 2025 ([AS 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
+[^u2-3]: Fassung gemäss Ziff. I 2 der V vom 17. April 2019 über Anpassungen des Verordnungsrechts an die Weiterentwicklung der Programmvereinbarungen im Umweltbereich für die Programmperiode 2020–2024, in Kraft seit 1. Jan. 2020 ([AS 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 [^t-1]: Aufgehoben durch Ziff. I 21 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).

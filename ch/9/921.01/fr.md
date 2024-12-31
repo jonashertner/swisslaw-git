@@ -4,11 +4,11 @@ title: Ordonnance du 30 novembre 1992 sur les forêts (OFo)
 short: OFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: fr
-version: 2021-07-01
+version: 2025-01-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/fr"
 
 (OFo)
 
-du 30 novembre 1992 (Etat le 1<sup>er</sup> juillet 2021)
+du 30 novembre 1992 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -220,7 +220,7 @@ Sur demande de l’autorité compétente selon l’art. 6, al. 1, LFo, il doit �
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
-### Section 2 Constatation de la nature forestière****
+### Section 2 Constatation de la nature forestière
 
 [^chap2-sec2-1]
 
@@ -270,7 +270,7 @@ Les véhicules à moteur peuvent utiliser les routes forestières dans les buts 
 
 [^13-1]: Nouvelle teneur selon le ch. II 61 de l’O du 1<sup>er</sup> déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
 
-### Section 4 Constructions et installations en forêt****
+### Section 4 Constructions et installations en forêt
 
 [^chap2-sec4-1]
 
@@ -594,13 +594,13 @@ L’Institut fédéral de recherches sur la forêt, la neige et le paysage (WSL)
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^31-2]: Nouvelle teneur selon le ch. I de l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-## Chapitre 5 Formation professionnelle et bases****
+## Chapitre 5 Formation professionnelle et bases
 
 [^chap5-1]
 
 [^chap5-1]: Nouvelle teneur selon l’annexe 2 ch. 13 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
-### Section 1 Formation de base et formation continue****
+### Section 1 Formation de base et formation continue
 
 [^chap5-sec1-1]
 
@@ -674,7 +674,7 @@ Les cantons veillent:
 
 [^3637-1]: Abrogés par le ch. I de l’O du 17 août 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-### Section 3**** Relevés
+### Section 3 Relevés
 
 [^chap5-sec3-1]
 
@@ -701,7 +701,7 @@ En collaboration avec le WSL, il relève:
 
 [^37a-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-### Section 4**** Promotion du bois
+### Section 4 Promotion du bois
 
 [^chap5-sec4-1]
 
@@ -729,13 +729,13 @@ En collaboration avec le WSL, il relève:
 
 <sup>2</sup> Pour évaluer le caractère durable du bois et des produits dérivés, il convient de suivre les directives et recommandations existantes, comme celles de la Conférence de coordination des services de la construction et des immeubles des maîtres d’ouvrage publics.
 
-## Chapitre 6**** Aides financières (sans crédits d’investissement) et indemnités
+## Chapitre 6 Aides financières (sans crédits d’investissement) et indemnités
 
 [^chap6-1]
 
 [^chap6-1]: Nouvelle teneur selon le ch. I 2 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### Section 1 Dispositions générales****
+### Section 1 Dispositions générales
 
 [^chap6-sec1-1]
 
@@ -1098,7 +1098,7 @@ En matière de compte rendu et de contrôle l’art. 49 s’applique par analogi
 
 #### Art. 55 à 59
 
-Abrogés
+*Abrogés*
 
 ## Chapitre 7 Crédits d’investissement
 
@@ -1278,7 +1278,7 @@ Sont abrogés:
 
 <sup>2</sup> Les art. 60 à 64 et 67, let. f, entrent en vigueur le 1<sup>er</sup> janvier 1994.
 
-## Disposition transitoire de la modification du 2 février 2000****
+## Disposition transitoire de la modification du 2 février 2000
 
 [^u1-1]
 
@@ -1286,18 +1286,19 @@ Sont abrogés:
 
 Les demandes de défrichement pendantes le 1<sup>er</sup> janvier 2000 qui portent sur des ouvrages ressortissant de la compétence cantonale sont régies par l’ancien droit.
 
-## Disposition transitoire de la modification du 17 août 2016****
+## Disposition transitoire de la modification du 17 août 2016
 
 [^u2-1]
 
 [^u2-1]: [RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)
 
-<sup>1</sup> En lieu et place du critère défini à l’art. 40*a*, al. 1, le montant des indemnités pour mesures de lutte contre les dégâts aux forêts hors forêts protectrices réalisées avant le 31 décembre 2019 peut être déterminé en fonction de l’ampleur et de la qualité des mesures.
+<sup>1</sup> En lieu et place des critères définis à l’art. 40*a*, al. 1, le montant des insdemnités pour des mesures de lutte contre les dégâts aux forêts hors forêts protectrices réalisées avant le 31 décembre 2028 peut être déterminé en fonction de l’ampleur et de la qualité des mesures.[^u2-2]
 
-<sup>2</sup> En lieu et place des critères définis à l’art. 43, al. 1, let. j, le montant des aides financières pour les équipements de desserte adaptés ou remis en état avant le 31 décembre 2024 peut être déterminé en fonction de l’ampleur et de la qualité des mesures.[^u2-2]
+<sup>2</sup> En lieu et place des critères définis à l’art. 43, al. 1, let. j, le montant des aides financières pour les équipements de desserte adaptés ou remis en état avant le 31 décembre 2024 peut être déterminé en fonction de l’ampleur et de la qualité des mesures.[^u2-3]
 
-[^u2-2]: Nouvelle teneur selon le ch. I 2 de l’O du 17 avr. 2019 sur les adaptations d’ordonnances au développement des conventions-programmes dans le domaine de l’environnement pour la période 2020-2024, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
+[^u2-2]: Nouvelle teneur selon le ch. I 2 de l’O du 31 mai 2024 concernant l’adaptation d’ordonnances au développement des conventions-programmes dans le domaine de l’environnement pour la période 2025-2028, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
+[^u2-3]: Nouvelle teneur selon le ch. I 2 de l’O du 17 avr. 2019 sur les adaptations d’ordonnances au développement des conventions-programmes dans le domaine de l’environnement pour la période 2020-2024, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 [^t-1]: Abrogée par le ch. I 21 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
