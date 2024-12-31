@@ -2,24 +2,23 @@
 canton: GR
 number: "546.250"
 title: Gesetz über die Unterstützung Bedürftiger
-short: Kantonales Unterstützungsgesetz
+short: "Kantonales Unterstützungsgesetz, UG"
 language: de
-version: 2016-01-01
-corrected: 2015-12-28
-version_adopted: 2014-11-18
+version: 2025-01-01
+version_adopted: 2024-10-22
 adopted: 1978-12-03
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.250"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2539/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3843/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Unterstützung Bedürftiger
 
-(Kantonales Unterstützungsgesetz)
+(Kantonales Unterstützungsgesetz, UG)
 
-Vom 03.12.1978 (Stand 01.01.2016)
+Vom 03.12.1978 (Stand 01.01.2025)
 
 Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
@@ -33,7 +32,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 <sup>1</sup> Bedürftig ist, wer für seinen Lebensunterhalt und den seiner Familienangehörigen mit gleichem Wohnsitz nicht hinreichend oder nicht rechtzeitig aus eigenen Mitteln aufkommen kann.
 
-<sup>2</sup> Die Unterstützungshilfe besteht in der Ausrichtung von Geld oder Naturalien an den Bedürftigen und in den Massnahmen zur Vermeidung drohender oder zur Behebung eingetretener Bedürftigkeit.
+<sup>2</sup> Die Unterstützungshilfe besteht in der Ausrichtung von Geld oder Naturalien an die Bedürftigen und in den Massnahmen zur Vermeidung drohender oder zur Behebung eingetretener Bedürftigkeit.
 
 <sup>3</sup> Als Unterstützung gelten nicht:
 
@@ -52,7 +51,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 **Unterstützung**
 
-<sup>1</sup> Die zuständige Sozialbehörde bestimmt Art und Mass der Unterstützung nach dem ausgewiesenen Bedarf unter Würdigung der örtlichen und persönlichen Verhältnisse. Sie berücksichtigt dabei die gesetzlichen Familienlasten des Bedürftigen, allfällige Krankheitsfälle sowie berufliche Ausbildungskosten Jugendlicher, für die der Bedürftige aufzukommen hat.
+<sup>1</sup> Die zuständige Sozialbehörde bestimmt Art und Mass der Unterstützung nach dem ausgewiesenen Bedarf unter Würdigung der örtlichen und persönlichen Verhältnisse. Sie berücksichtigt dabei die gesetzlichen Familienlasten der Bedürftigen, allfällige Krankheitsfälle sowie berufliche Ausbildungskosten Jugendlicher, für welche die bedürftige Person aufzukommen hat.
 
 <sup>2</sup> Bei der Bemessung des Unterstützungsbedarfs berücksichtigt die zuständige Sozialbehörde Versicherungsleistungen, andere Sozialzuschüsse sowie Zuwendungen Dritter.
 
@@ -70,13 +69,15 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 **Andere Massnahmen**
 
-<sup>1</sup> Die Sozialbehörde geht den Ursachen der Bedürftigkeit nach und stellt gegebenenfalls zur Vermeidung drohender oder zur Behebung eingetretener Bedürftigkeit bei der Erwachsenenschutzbehörde die erforderlichen Anträge. Solche Anträge können auch vom kantonalen Sozialamt gestellt werden.
+<sup>1</sup> Die Sozialbehörde geht den Ursachen der Bedürftigkeit nach und stellt gegebenenfalls zur Vermeidung drohender oder zur Behebung eingetretener Bedürftigkeit bei der Erwachsenenschutzbehörde die erforderlichen Anträge. Solche Anträge können auch vom Amt für Soziales gestellt werden.
 
 #### Art. 4
 
-**Pflichten des Unterstützten**
+**Pflichten der Unterstützten**
 
 <sup>1</sup> Die zu unterstützende und die unterstützte Person sind verpflichtet, jede sachdienliche Auskunft zu erteilen, die nötigen Unterlagen beizubringen sowie den mit der Unterstützungsleistung verbundenen Auflagen der Sozialbehörden Folge zu leisten.
+
+<sup>2</sup> Sie sind zudem verpflichtet, während zehn Jahren nach der letzten Leistungsausrichtung relevante Veränderungen in ihren Einkommens- und Vermögensverhältnissen der Behörde zu melden, die zuletzt unterstützt hat.
 
 #### Art. 4a
 
@@ -84,24 +85,34 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 <sup>1</sup> Beiträge im Sinne dieses Gesetzes sind nicht abtretbar. Jede Abtretung von Beitragsansprüchen ist nichtig.
 
-## 2. Leistungen der Wohnorts- und Bürgergemeinde
+## 2. Leistungen der Wohnortsgemeinde
 
 #### Art. 5
 
 **Zuständigkeit für die Unterstützung**
 
-<sup>1</sup> Die Unterstützungspflicht obliegt der politischen Gemeinde, in welcher der Bedürftige seinen Wohnsitz hat.
+<sup>1</sup> Die Unterstützungspflicht obliegt der politischen Gemeinde, in welcher die bedürftige Person ihren Wohnsitz hat.
 
-<sup>2</sup> Der Bedürftige hat seinen Wohnsitz in der Gemeinde, in welcher er sich mit der Absicht dauernden Verbleibens aufhält.
+<sup>2</sup> Die bedürftige Person hat ihren Wohnsitz in der Gemeinde, in welcher sie sich mit der Absicht dauernden Verbleibens aufhält.
 
-<sup>3</sup> Bei blossem Aufenthalt obliegt die Unterstützungshilfe für Kantonsbürger und für Bürger anderer Kantone, soweit gemäss Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger[^5-1] eine Unterstützungspflicht im Kanton besteht, der Gemeinde, in welcher sich der Bedürftige aufhält.
+<sup>3</sup> Bei blossem Aufenthalt obliegt die Unterstützungshilfe für Schweizerinnen und Schweizer, soweit gemäss Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger[^5-1] eine Unterstützungspflicht im Kanton besteht, der Gemeinde, in welcher sich die bedürftige Person aufhält.
 
-<sup>4</sup> Für die Unterstützung von Ausländern mit Wohnsitz oder Aufenthalt im Kanton gelten sinngemäss die Bestimmungen des Bundesgesetzes[^5-2].
+<sup>4</sup> Für die Unterstützung von Ausländerinnen und Ausländern mit Wohnsitz oder Aufenthalt im Kanton gelten sinngemäss die Bestimmungen des Bundesgesetzes[^5-2].
 
 <sup>5</sup> …
 
 [^5-1]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
 [^5-2]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
+
+#### Art. 5a
+
+**Unbegleitete Minderjährige**
+
+<sup>1</sup> Der Kanton betreut und unterstützt unbegleitete Minderjährige bis zum Abschluss einer angemessenen Erstausbildung, längstens bis zum vollendeten 25. Lebensjahr.
+
+<sup>2</sup> Er übernimmt für diese Personen auch die den Wohnsitzgemeinden anfallenden Kosten von Massnahmen der Kindes- und Erwachsenenschutzbehörden sowie die durch die Führung einer Beistandschaft entstehenden Kosten.
+
+<sup>3</sup> Die durch Bundesbeiträge nicht gedeckten Kosten gemäss den Absätzen 1 und 2 werden auf die Gemeinden im Verhältnis der ständigen Wohnbevölkerung verteilt. Grundlage für die jährliche Verrechnung der Nettoaufwendungen bildet die vom Kanton geführte Kosten- und Leistungsrechnung des Vorjahrs.
 
 #### Art. 6
 
@@ -109,7 +120,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 <sup>1</sup> Begründung und Aufgabe des Wohnsitzes richten sich nach den Grundsätzen, die gemäss Bundesgesetz[^6-1] im interkantonalen Verhältnis gelten.
 
-<sup>2</sup> Verlegt ein Bürger eines anderen Kantons den Wohnsitz innerhalb des Kantons, so geht die Unterstützungspflicht mit sofortiger Wirkung auf die neue Wohngemeinde über.
+<sup>2</sup> Verlegt die bedürftige Person den Wohnsitz innerhalb des Kantons, so geht die Unterstützungspflicht mit sofortiger Wirkung auf die neue Wohngemeinde über.
 
 <sup>3</sup> Der Aufenthalt in einem Heim, einem Spital oder in einer anderen Einrichtung sowie behördliche oder durch die Kindes- und Erwachsenenschutzbehörde angeordnete Unterbringung in Familienpflege begründet keinen Unterstützungswohnsitz.
 
@@ -133,34 +144,62 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 #### Art. 11
 
-**Rückerstattungen**
+**Rückerstattungspflicht 1. Grundsätze**
 
-<sup>1</sup> Beiträge, die von unterstützungspflichtigen Verwandten geleistet werden, sind zwischen dem Kanton, der Wohngemeinde und derjenigen politischen Gemeinde, in welcher der Betroffene sein Bürgerrecht hat, im Verhältnis der auf sie entfallenden Unterstützungskosten zu verteilen.
+<sup>1</sup> …
 
-<sup>2</sup> Verbessern sich die Vermögens- oder Erwerbsverhältnisse des Unterstützten, so hat er die in den letzten 15 Jahren bezogene Unterstützungshilfe ohne Zins zurückzuerstatten. Die Rückerstattung hat nur soweit zu erfolgen, als dadurch keine neue Bedürftigkeit entsteht.
+<sup>2</sup> Rechtmässig bezogene Unterstützungsleistungen sind ohne Zinsen zu erstatten, wenn sich die finanziellen Verhältnisse der unterstützten Person verbessern. Es gelten die Artikel 11a bis 11c.
 
-<sup>3</sup> Eine zu Unrecht bezogene Unterstützung muss mit Zinsen zurückerstattet werden.
+<sup>3</sup> Zu Unrecht bezogene Unterstützungsleistungen müssen mit Zinsen zurückerstattet werden.
 
-<sup>4</sup> Die unterstützende Behörde hat nach Massgabe der geleisteten Hilfe Anspruch auf den Nachlass des Unterstützten.
+<sup>4</sup> Die unterstützende Behörde hat nach Massgabe der geleisteten Hilfe Anspruch auf den Nachlass der unterstützten Person.
 
 <sup>5</sup> Der Rückerstattungsanspruch verjährt:
 
-- a) gegenüber der unterstützten Person 15 Jahre nach der letzten Leistungszahlung;
-- b) gegenüber den Erben der unterstützten Person ein Jahr nach dem Erbschaftsantritt.
+- a) bei rechtmässig bezogenen Unterstützungsleistungen: 10 Jahre nach der letzten Leistungsausrichtung;
+- b) bei zu Unrecht bezogenen Unterstützungsleistungen oder bei Verletzung der Meldepflicht gemäss Artikel 4 Absatz 2: 20 Jahre nach der letzten Leistungsausrichtung;
+- c) gegenüber den Erben der unterstützten Person, sofern dieser gegenüber der Anspruch noch nicht verjährt war: ein Jahr nach dem Erbgang.
 
-<sup>6</sup> Die erstatteten Beiträge werden wie Verwandtenunterstützungen verteilt.
+<sup>6</sup> Die Gemeinden und der Kanton sind berechtigt, die für die Rückerstattung notwendigen Informationen unabhängig von einer allfälligen Geheimhaltungspflicht auszutauschen.
 
-<sup>7</sup> Unterstützungsaufwendungen für die Teilnahme an Beschäftigungsprogrammen oder Arbeitsangeboten des zweiten Arbeitsmarktes unterliegen nicht der Rückerstattungspflicht.
+<sup>7</sup> …
+
+#### Art. 11a
+
+**2. Rückerstattung aus Einkommen**
+
+<sup>1</sup> Verbessern sich die Einkommensverhältnisse der unterstützten Person, so ist sie rückerstattungspflichtig, soweit dadurch keine neue Bedürftigkeit entsteht.
+
+<sup>2</sup> Die Regierung legt die Berechnungsgrundlagen zur Bestimmung des für die Rückerstattung massgebenden Einkommens fest. Sie orientiert sich dabei an den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS).
+
+<sup>3</sup> Die Rückerstattungspflicht beginnt ein Jahr nach Ende der Unterstützung und dauert vier Jahre.
+
+#### Art. 11b
+
+**3. Rückerstattung bei Vermögensanfall**
+
+<sup>1</sup> Verbessern sich die Vermögensverhältnisse der unterstützten Person aufgrund eines Vermögensanfalls, so ist sie in diesem Umfang unter Berücksichtigung von Freibeträgen rückerstattungspflichtig.
+
+<sup>2</sup> Die Regierung legt die Freibeträge fest. Dabei orientiert sie sich an den Richtlinien der SKOS.
+
+<sup>3</sup> Verfügt die rückerstattungspflichtige Person über anderweitiges Vermögen, so reduziert sich der Freibetrag um dieses Vermögen.
+
+#### Art. 11c
+
+**4. Ausnahmen**
+
+<sup>1</sup> Nicht der Rückerstattungspflicht unterliegen Unterstützungsleistungen, welche:
+
+- a) einer Person bis zum 25. Geburtstag während der Absolvierung einer Erstausbildung ausgerichtet wurden;
+- b) im Zusammenhang mit der beruflichen und sozialen Integration stehen;
+- c) aus Gründen einer Behinderung ergänzend zur Gesundheitsversorgung der materiellen Grundsicherung ausgerichtet wurden;
+- d) Prämien für die obligatorische Krankenversicherung betreffen, die nicht vollumfänglich über die individuelle Prämienverbilligung gedeckt wurden.
+
+<sup>2</sup> Die Regierung kann weitere Ausnahmen vorsehen. Sie orientiert sich dabei an den Richtlinien der SKOS.
 
 #### Art. 12
 
-**Meldewesen**
-
-<sup>1</sup> Die Meldepflicht der Wohngemeinde wird in der Vollziehungsverordnung[^12-1] näher geregelt.
-
-<sup>2</sup> Die Missachtung der Meldepflicht führt zum Verlust des Ersatzanspruches.
-
-[^12-1]: BR [546.260](https://www.gr-lex.gr.ch/data/546.260/de)
+**…**
 
 #### Art. 13
 
@@ -168,7 +207,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 <sup>1</sup> …
 
-<sup>2</sup> Über Streitigkeiten, die sich aus der Anwendung des Unterstützungsgesetzes ergeben, entscheidet das Verwaltungsgericht.
+<sup>2</sup> Über Streitigkeiten, die sich aus der Anwendung des Unterstützungsgesetzes ergeben, entscheidet das Obergericht.
 
 <sup>3</sup> Bei der Anwendung des Gesetzes gelten sinngemäss die Grundsätze des Bundesgesetzes[^13-1], soweit dieses Gesetz nicht selbst Vorschriften enthält.
 
@@ -185,9 +224,10 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 - a) von bedürftigen Personen auf der Durchreise;
 - b) von Personen im Asylverfahren sowie vorläufig Aufgenommenen;
 - c) von Personen mit einem rechtskräftig abgewiesenen Asylgesuch oder ohne Aufenthaltsrecht;
-- d) in ausserordentlichen Fällen.
+- d) in ausserordentlichen Fällen;
+- e) von Schweizerinnen und Schweizern mit fahrender Lebensweise, die ganzjährig oder vorübergehend einen dauerhaft bereitgestellten Durchgangs- oder Standplatz nutzen.
 
-<sup>2</sup> Der Kanton trägt die Unterstützungskosten von in anderen Kantonen oder Staaten wohnenden Kantonsbürgerinnen und -bürgern nach Massgabe der Bundesgesetzgebung und allfälliger Staatsverträge.
+<sup>2</sup> …
 
 <sup>3</sup> Er besorgt den Verkehr mit ausserkantonalen Stellen.
 
@@ -199,7 +239,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 <sup>1</sup> Die Organisation der Unterstützungshilfe ist Sache der politischen Gemeinden.
 
-<sup>2</sup> Vorbehalten bleiben interne Regelungen zwischen der politischen Gemeinde und der entsprechenden Bürgergemeinde, sofern das Justiz-, Polizei- und Sanitätsdepartement dieser Bürgergemeinde auf Gesuch hin gestattet hat, diese Aufgaben für ihre Bürger anstelle der politischen Gemeinde wahrzunehmen. Das Gesuch ist innert eines Jahres seit Inkrafttreten des Gesetzes über den Lastenausgleich für bestimmte Sozialleistungen[^15-1] einzureichen.
+<sup>2</sup> Vorbehalten bleiben interne Regelungen zwischen der politischen Gemeinde und der entsprechenden Bürgergemeinde, sofern das Departement für Justiz, Sicherheit und Gesundheit dieser Bürgergemeinde auf Gesuch hin gestattet hat, diese Aufgaben für ihre Bürger anstelle der politischen Gemeinde wahrzunehmen. Das Gesuch ist innert eines Jahres seit Inkrafttreten des Gesetzes über den Lastenausgleich für bestimmte Sozialleistungen[^15-1] einzureichen.
 
 [^15-1]: BR [546.300](https://www.gr-lex.gr.ch/data/546.300/de)
 
@@ -255,11 +295,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 #### Art. 20
 
-**Vollzug**
-
-<sup>1</sup> Der Grosse Rat erlässt die erforderliche Vollziehungsverordnung[^20-1].
-
-[^20-1]: BR [546.260](https://www.gr-lex.gr.ch/data/546.260/de)
+**…**
 
 #### Art. 20a
 
