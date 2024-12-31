@@ -3,13 +3,12 @@ canton: BS
 number: BaB 172.300
 title: Reglement für die Christoph Merian Stiftung
 language: de
-version: 2017-10-01
-valid_until: 2024-12-31
-version_adopted: 2017-06-27
+version: 2025-01-01
+version_adopted: 2024-09-24
 adopted: 2017-06-27
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20172.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4241/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6427/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4241/pdf_file"
 
 Christoph Merian Stiftung: Reglement | Basel: Bürgergemeinde
 
-Vom 27. Juni 2017 (Stand 1. Oktober 2017)
+Vom 27. Juni 2017 (Stand 1. Januar 2025)
 
 Der Bürgerrat der Stadt Basel,
 
@@ -86,7 +85,7 @@ beschliesst:
 <sup>1</sup> Die Pflichten des Aufsichtsorgans beinhalten:
 
 - a) die jährliche Kontrolle der Rechenschaftsablage (Jahresbericht, von der Stiftungskommission genehmigte Jahresrechnung und Anhang sowie Revisionsstellenbericht);
-- b) die Genehmigung der Mittelentnahmen aus dem Landerwerbs- und Baufonds.
+- b) …
 
 #### § 6
 
@@ -150,7 +149,7 @@ beschliesst:
 - h) genehmigt die Bestimmungen der Direktion über die Organisation und die Zuständigkeiten;
 - i) nimmt die in der Gemeindeordnung der Bürgergemeinde genannten Zuständigkeiten wahr;
 - j) bereitet die Geschäfte zuhanden des Bürgerrats und des Bürgergemeinderats vor;
-- k) unterbreitet dem Bürgerrat die Mittelentnahmen aus dem Landerwerbs- und Baufonds zur Genehmigung;
+- k) …
 - l) bringt dem Bürgerrat die von ihr aus den Mitteln der Ertragsverwendung beschlossenen Projekte zur Kenntnis.
 
 <sup>2</sup> Das Präsidium vertritt die Geschäfte der Stiftung im Bürgerrat.
