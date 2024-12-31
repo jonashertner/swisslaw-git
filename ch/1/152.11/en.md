@@ -3,11 +3,11 @@ sr: "152.11"
 title: Ordinance of 8 September 1999 to the Federal Act on Archiving (Archiving Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20240101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Archiving Ordinance)
 
-of 8 September 1999 (Status as of 1 January 2024)
+of 8 September 1999 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -521,11 +521,13 @@ Annex 3[^t-3]
 
 ## List of Archive Records with Extended Retention Periods
 
-[^t-3]: Amended by No I of the FDHA O of 25 Oct. 2023, in force since 1 Jan. 2024 ([AS 2023 638](https://fedlex.data.admin.ch/eli/oc/2023/638)).
+[^t-3]: Amended by No I of the FDHA O of 6 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 666](https://fedlex.data.admin.ch/eli/oc/2024/666)).
 
 (Art. 12 para. 1 ArchA)
 
-- – Archive records subject to a 50-year retention period in accordance with Article 12 paragraph 1 ArchA and Article 14 paragraph 5 ArchO.
-- – The list may be amended or extended by the Federal Department of Home Affairs. The up-to-date list shall be held by the Federal Archives and is accessible to the public. The updated Annex shall be published annually in the Official Compilation.
+<table>
+<tr><td>– Archive records subject to a 50-year retention period in accordance with Article 12 paragraph 1 ArchA and Article 14 paragraph 5 ArchO.</td></tr>
+<tr><td>– The list may be amended or extended by the Federal Department of Home Affairs. The up-to-date list shall be held by the Federal Archives and is accessible to the public. The updated Annex shall be published annually in the Official Compilation.</td></tr>
+</table>
 
-**The current list is not translated. For further information, please consult the list in the Swiss language versions of the ArchO.**
+**The current list is not translated. For further information, please consult the list in the Swiss language versions of the ArchO**
