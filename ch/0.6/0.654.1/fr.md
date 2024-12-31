@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: "Accord multilatéral du 27 janvier 2016 entre autorités compétentes portant sur l'échange des déclarations pays par pays"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: fr
-version: 2024-12-01
+version: 2025-01-01
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20241201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-785-20241201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20241201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-785-20250101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 16 juin 2017[^t-1]
 
 Entré en vigueur le 1<sup>er</sup> décembre 2017
 
-(État le 1<sup>er</sup> décembre 2024)
+(État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: [RO 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -163,7 +163,7 @@ Sauf disposition contraire contenue dans l’Accord, le secrétariat de l’orga
 
 Fait en français et en anglais, les deux textes faisant également foi.
 
-Champ d’application le 1<sup>er</sup> décembre 2024[^t-2]
+Champ d’application le 1<sup>er</sup> janvier 2025[^t-2]
 
 La Suisse est liée par les dispositions de l’Accord multilatéral entre autorités compétentes portant sur l’échange des déclarations pays par pays à l’égard des États et territoires suivants en vertu de la section 8, par. 2, de cet accord:
 
@@ -184,7 +184,7 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Bahamas</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
 <tr><td>Bahreïn</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
 <tr><td>Barbade</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Belize</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Belize</td><td>1<sup>er</sup> janvier 2018\*\*[^t-3]</td></tr>
 <tr><td>Belgique</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Bermudes</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
 <tr><td>Brésil</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
@@ -194,9 +194,9 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Chine</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Chypre</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Colombie</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
-<tr><td>Costa Rica</td><td>1<sup>er</sup> janvier 2018\*\*[^t-3]</td></tr>
+<tr><td>Costa Rica</td><td>1<sup>er</sup> janvier 2018\*\*[^t-4]</td></tr>
 <tr><td>Croatie</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Curaçao</td><td>1<sup>er</sup> janvier 2018\*\*[^t-4]</td></tr>
+<tr><td>Curaçao</td><td>1<sup>er</sup> janvier 2018\*\*[^t-5]</td></tr>
 <tr><td>Danemark</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Émirats arabes unis</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
 <tr><td>Espagne</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
@@ -265,10 +265,11 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Turquie</td><td>1<sup>er</sup> janvier 2019</td></tr>
 <tr><td>Ukraine</td><td>1<sup>er</sup> janvier 2024</td></tr>
 <tr><td>Uruguay</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
-<tr><td colspan="2">\* Ces États et territoires appliquent l’échange automatique de renseignements de manière non-réciproque permanente sur la base d’une notification selon l’al. 1 b) de la section 8 de l’Accord multilatéral. Cela veut dire qu’ils ne reçoivent pas de déclarations pays par pays de la part de la Suisse, mais lui transfèrent de telles déclarations. \*\* Y inclus les déclarations pays par pays qui ont été fournies volontairement en Suisse pour les périodes fiscales 2016 et 2017 conformément à la déclaration relative à la date d’effet pour l’échange de renseignements prévus par l’Accord multilatéral entre autorités compétentes portant sur l’échange des déclarations pays par pays[^t-5].</td></tr>
+<tr><td colspan="2">\* Ces États et territoires appliquent l’échange automatique de renseignements de manière non-réciproque permanente sur la base d’une notification selon l’al. 1 b) de la section 8 de l’Accord multilatéral. Cela veut dire qu’ils ne reçoivent pas de déclarations pays par pays de la part de la Suisse, mais lui transfèrent de telles déclarations. \*\* Y inclus les déclarations pays par pays qui ont été fournies volontairement en Suisse pour les périodes fiscales 2016 et 2017 conformément à la déclaration relative à la date d’effet pour l’échange de renseignements prévus par l’Accord multilatéral entre autorités compétentes portant sur l’échange des déclarations pays par pays[^t-6].</td></tr>
 </table>
 
-[^t-2]: [RO 2024 738](https://fedlex.data.admin.ch/eli/oc/2024/738). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
-[^t-3]: Jusqu’à et y compris la période fiscale 2022, le Costa Rica transmet uniquement et ne reçoit pas de déclarations pays par pays. À partir de la période fiscale 2023 (échange à partir de 2025), la Suisse et le Costa Rica échangent réciproquement des déclarations pays par pays.
-[^t-4]: Jusqu’à et y compris la période fiscale 2022, Curaçao transmet uniquement et ne reçoit pas de déclarations pays par pays. À partir de la période fiscale 2023 (échange à partir de 2025), la Suisse et Curaçao échangent réciproquement des déclarations pays par pays.
-[^t-5]: [RO 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
+[^t-2]: [RO 2025 55](https://fedlex.data.admin.ch/eli/oc/2025/55). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-3]: Jusqu’à et y compris la période fiscale 2022, le Belize transmet uniquement et ne reçoit pas de déclarations pays par pays. À partir de la période fiscale 2023 (échange à partir de 2025), la Suisse et le Belize échangent réciproquement des déclarations pays par pays.
+[^t-4]: Jusqu’à et y compris la période fiscale 2022, le Costa Rica transmet uniquement et ne reçoit pas de déclarations pays par pays. À partir de la période fiscale 2023 (échange à partir de 2025), la Suisse et le Costa Rica échangent réciproquement des déclarations pays par pays.
+[^t-5]: Jusqu’à et y compris la période fiscale 2022, Curaçao transmet uniquement et ne reçoit pas de déclarations pays par pays. À partir de la période fiscale 2023 (échange à partir de 2025), la Suisse et Curaçao échangent réciproquement des déclarations pays par pays.
+[^t-6]: [RO 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
