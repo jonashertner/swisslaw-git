@@ -4,11 +4,11 @@ title: "Federal Act of 29 April 1998 on Agriculture (Agriculture Act, AgricA)"
 short: AgricA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20240101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20250101-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,18 +19,18 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Agriculture Act, AgricA)
 
-of 29 April 1998 (Status as of 1 January 2024)
+of 29 April 1998 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Articles 45, 46 paragraph 1, 102–104, 120, 123 and 147 of the Federal Constitution[^ingress-1]<sup>,</sup>[^ingress-2]
+based on Articles 45, 46 paragraph 1, 102–104*a*, 120, 123 and 147 of the Federal Constitution[^ingress-1]<sup>,</sup>[^ingress-2]
 
 and having considered the Federal Council Dispatch dated 26 June 1996[^ingress-3],
 
 decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Amended by Annex No II 6 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^ingress-2]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^ingress-3]: [BBl 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)
 
 ## Title 1 General Principles
@@ -47,7 +47,7 @@ The Confederation shall ensure that, through sustainable, market-orientated prod
 - d. encouraging decentralised settlement;
 - e.[^1-1] guaranteeing animal welfare.
 
-[^1-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^1-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 2
 
@@ -62,7 +62,7 @@ The Confederation shall take measures, in particular:
 - [tab] b<sup>bis</sup>.[^2-2] to promote the sustainable use of natural resources and animal and climate friendly production;
 - c. to support the development of agriculture in a socially acceptable manner;
 - d. to support structural improvements;
-- e.[^2-3] to promote agricultural research and advisory services as well as plant and animal breeding;
+- e.[^2-3] to promote research, the exploitation of research findings and advisory services in the agriculture and food sector as well as plant and animal breeding;
 - f. to regulate plant protection and the use of aids to production[^2-4].
 
 <sup>2</sup> These federal measures are conditional on a reasonable degree of self-help and are coordinated with regional policy instruments.
@@ -71,15 +71,18 @@ The Confederation shall take measures, in particular:
 
 <sup>4</sup> They are based on the principle of self-sufficiency with regard to food, taking into account consumers’ needs for high-quality, varied and sustainable domestic products.[^2-6]
 
-<sup>5</sup> Support measures that are likely to distort competition to the detriment of trade and industry are excluded. Procedures are governed by Article 89*a*. The Federal Council regulates the details.[^2-7]
+<sup>4bis</sup> They support digitalisation in the agriculture and food sector.[^2-7]
 
-[^2-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-2]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-3]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-4]: Term amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). This amendment has been made throughout the Act.
-[^2-5]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-6]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-7]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+<sup>5</sup> Support measures that are likely to distort competition to the detriment of trade and industry are excluded. Procedures are governed by Article 89*a*. The Federal Council regulates the details.[^2-8]
+
+[^2-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^2-2]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^2-3]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^2-4]: Term amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). This amendment has been made throughout the Act.
+[^2-5]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^2-6]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^2-7]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^2-8]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 3
 
@@ -97,13 +100,17 @@ The term agriculture includes:
 
 <sup>2</sup> The measures in Part 2 Chapter 1 and those indicated in Parts 5 to 7 apply to horticultural businesses.[^3-2]
 
-<sup>3</sup> The measures in Part 2 Chapter 1, Part 5 and Part 7 Chapter 2 apply to professional fishing and fish farming.
+<sup>3</sup> The measures in Part 2 Chapter 1, Part 5 and Part 7 Chapter 4 apply to professional fishing.[^3-3]
 
-<sup>4</sup> The measures listed in Part 2 Chapter 1, Part 6 and Part 7 Chapter 2 apply to beekeeping.[^3-3]
+<sup>3bis</sup> The measures in Part 2 Chapter 1, Part 5, Part 6 and Part 7 Chapter 4 apply to aquaculture products, algae, insects and other living organisms that are not products from arable and livestock farming and are used as foodstuffs and feedstuffs. These measures are conditional on an activity in line with the principle of paragraph 1 letters a–c.[^3-4]
 
-[^3-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+<sup>4</sup> The measures listed in Part 2 Chapter 1, Part 6 and Part 7 Chapter 2 apply to beekeeping.[^3-5]
+
+[^3-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^3-2]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^3-3]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^3-3]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^3-4]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^3-5]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 4
 
@@ -115,7 +122,23 @@ The term agriculture includes:
 
 <sup>3</sup> The Federal Council shall set the criteria for determining such zones.
 
-[^4-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^4-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+
+#### Art. 5
+
+**Incomes**
+
+<sup>1</sup> The measures in this Act aim to ensure that farms run on a sustainable basis and which are economically efficient can achieve incomes over a period of several years that are comparable to incomes in other sectors in the same region.
+
+<sup>2</sup> If incomes fall clearly below a comparable level, the Federal Council shall introduce temporary measures to improve the situation.
+
+<sup>3</sup> Other branches of trade and industry, the economic situation of workers outside the agricultural sector and the state of the federal coffers must also be taken into account.
+
+#### Art. 6
+
+**Framework for payments**
+
+Funding for the most important areas of activity shall be approved for a maximum period of four years on the basis of a Federal Council dispatch with a simple federal decree.
 
 #### Art. 6a
 
@@ -181,7 +204,7 @@ Funding for the most important areas of activity shall be approved for a maximum
 
 <sup>2</sup> At the same time it shall take into account the necessity for product safety, consumer protection and reliable food supplies for the country.[^7-1]
 
-[^7-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^7-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Chapter 1 General Economic Provisions
 
@@ -197,7 +220,7 @@ Funding for the most important areas of activity shall be approved for a maximum
 
 <sup>2</sup> A branch organisation is an association of producers of individual products or product groups with processors and, in some cases, with traders.
 
-[^8-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^8-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 8a
 
@@ -211,7 +234,7 @@ Funding for the most important areas of activity shall be approved for a maximum
 
 <sup>4</sup> No guideline prices may be set for retail sales.
 
-[^8a-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^8a-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 9
 
@@ -231,8 +254,8 @@ Insofar as self-help measures mentioned in Article 8 paragraph 1 come under thre
 
 <sup>4</sup> Products sold directly to the public may not be made subject to the regulations mentioned in paragraph 1, and farmers who sell direct to the public may not be made liable for contributions under paragraph 2 based on the volume of products thus sold.
 
-[^9-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^9-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^9-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^9-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^9-3]: Second sentence inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^9-4]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
@@ -242,7 +265,7 @@ Insofar as self-help measures mentioned in Article 8 paragraph 1 come under thre
 
 The Federal Council may issue regulations on quality as well as on the methods used to obtain agricultural products and their processing if such regulations are required for their export or for compliance with Switzerland’s international obligations or with international standards that are important for Swiss agriculture.
 
-[^10-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^10-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 11
 
@@ -267,7 +290,7 @@ Support may be provided in particular for:
 
 <sup>4</sup> The Federal Council shall draw up requirements for such support.
 
-[^11-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^11-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 12
 
@@ -281,9 +304,9 @@ Support may be provided in particular for:
 
 <sup>4</sup> The Federal Council shall draw up the criteria for the allocation of subsidies.
 
-[^12-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^12-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^12-3]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-3]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 13
 
@@ -319,9 +342,9 @@ In the interests of credibility and to promote quality and sales, the Federal Co
 <sup>5</sup> It is mandatory to use these symbols in sales promotion campaigns involving measures mentioned in Article 12.[^14-5]
 
 [^14-1]: Inserted by Annex No 8 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^14-2]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^14-2]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^14-3]: Amended by No 8 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^14-4]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^14-4]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^14-5]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 15
@@ -362,20 +385,20 @@ In particular it shall regulate:
 
 <sup>3</sup> Registered designations of origin or geographical indications may not be used as generic names. Generic names may not be registered as designations of origin or as geographical indications.
 
-<sup>4</sup> If the name of a canton or a locality is used in a designation of origin or a geographical indication, it must be verified that registering the product complies with any relevant cantonal regulations.
+<sup>4</sup> …[^16-3]
 
-<sup>5</sup> Registered designations of origin or geographical indications may not be registered as product trade marks if the terms of paragraph 7 apply.[^16-3]
+<sup>5</sup> Registered designations of origin or geographical indications may not be registered as product trade marks if the terms of paragraph 7 apply.[^16-4]
 
-<sup>5bis</sup> If a trade mark is filed that contains a designation of origin or geographical indication that is identical or similar to a designation of origin or geographical indication that has been filed for registration for identical or comparable goods, the trade mark examination procedure shall be suspended until a legally binding decision has been taken on the application to register the designation of origin or the geographical indication.[^16-4]
+<sup>5bis</sup> If a trade mark is filed that contains a designation of origin or geographical indication that is identical or similar to a designation of origin or geographical indication that has been filed for registration for identical or comparable goods, the trade mark examination procedure shall be suspended until a legally binding decision has been taken on the application to register the designation of origin or the geographical indication.[^16-5]
 
 <sup>6</sup>
 
 Any person who uses a registered designation of origin or geographical indication for identical or similar agricultural products or goods processed from them must comply with the regulations indicated in paragraph 2 letter b. This does not apply to the use of trade marks that are identical or similar to a registered designation of origin or geographical indication and which have been deposited or registered in good faith or to which the right of use has been acquired in good faith:
 
 - a. before 1 January 1996; or
-- b. before the name of the registered designation of origin or geographical indication came under protection under the terms of this Act or on another legal basis, insofar as none of the grounds for nullity or expiry indicated in the Trademark Protection Act of 28 August 1992[^16-5] can be demonstrated for the trade mark.[^16-6]
+- b. before the name of the registered designation of origin or geographical indication came under protection under the terms of this Act or on another legal basis, insofar as none of the grounds for nullity or expiry indicated in the Trademark Protection Act of 28 August 1992[^16-6] can be demonstrated for the trade mark.[^16-7]
 
-<sup>6bis</sup> In assessing the legality of the use of a trade mark acquired in good faith under the terms of paragraph 6, particular attention should be given to the question of whether there is any risk of deception or a breach of genuine competition.[^16-7]
+<sup>6bis</sup> In assessing the legality of the use of a trade mark acquired in good faith under the terms of paragraph 6, particular attention should be given to the question of whether there is any risk of deception or a breach of genuine competition.[^16-8]
 
 <sup>7</sup>
 
@@ -386,11 +409,12 @@ Registered designations of origin and geographical indications are protected in 
 
 [^16-1]: Term in accordance with Annex No 7 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)). This amendment has been made throughout the text.
 [^16-2]: Inserted by Annex No 7 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^16-3]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^16-4]: Inserted by Annex No 7 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^16-5]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^16-6]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^16-7]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^16-3]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^16-4]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^16-5]: Inserted by Annex No 7 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^16-6]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^16-7]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^16-8]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 16a
 
@@ -400,7 +424,7 @@ Registered designations of origin and geographical indications are protected in 
 
 <sup>2</sup> In particular, any such information must comply with the regulations on protection against deception under the terms of legislation on foodstuffs.
 
-[^16a-1]: Inserted by No I of the FA of 24 March 2006, in force since 1 Oct. 2006 ([AS 2006 3861](https://fedlex.data.admin.ch/eli/oc/2006/576); [BBl 2004 7069](https://fedlex.data.admin.ch/eli/fga/2004/1221)[7083](https://fedlex.data.admin.ch/eli/fga/2004/1223)).
+[^16a-1]: Inserted by No I of the FA of 24 March 2006, in force since 1 Oct. 2006 ([AS 2006 3861](https://fedlex.data.admin.ch/eli/oc/2006/576); [BBl 2004 7069](https://fedlex.data.admin.ch/eli/fga/2004/1221), [7083](https://fedlex.data.admin.ch/eli/fga/2004/1223)).
 
 #### Art. 16b
 
@@ -433,7 +457,7 @@ Under the terms of paragraph 1, banned production methods include those methods 
 - a. the life or health of human beings, animals or plants; or
 - b. the environment.
 
-[^18-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^18-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 19
 
@@ -482,7 +506,7 @@ Under the terms of paragraph 1, banned production methods include those methods 
 [^20-2]: Second sentence amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^20-3]: Term in accordance with No I 28 of the O of 15 June 2012 (Reorganisation of Federal Departments), in force since 1 Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). This amendment has been made throughout the text.
 [^20-4]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^20-5]: Term in accordance with No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). This amendment has been made throughout the text.
+[^20-5]: Term in accordance with No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). This amendment has been made throughout the text.
 [^20-6]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 21
@@ -623,7 +647,7 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 [^tit2-chap2-sec1-1]
 
-[^tit2-chap2-sec1-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit2-chap2-sec1-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 28
 
@@ -631,16 +655,16 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 <sup>1</sup> This Chapter applies to cow’s milk.
 
-<sup>2</sup> The Federal Council may extend certain provisions, in particular Articles 38 and 39, to cover goat’s and sheep’s milk.[^28-2]
+<sup>2</sup> The Federal Council may extend certain provisions, in particular Articles 38, 39 and 41, to cover goat’s, sheep’s and buffalo’s milk.[^28-2]
 
-[^28-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^28-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^28-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^28-2]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 29
 
 [^29-1]
 
-[^29-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^29-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Section 2 …
 
@@ -648,19 +672,19 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 [^3036-1]
 
-[^3036-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^3036-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 36a and 36b
 
 [^36a36b-1]
 
-[^36a36b-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^36a36b-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Section 3 Standard Contract for the Milk Sector
 
 [^tit2-chap2-sec3-1]
 
-[^tit2-chap2-sec3-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit2-chap2-sec3-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 37
 
@@ -682,14 +706,18 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 **Additional payment for milk used in cheese-making**
 
-<sup>1</sup> The Confederation may make an additional payment to producers for milk that is used in cheese-making.
+<sup>1</sup> An additional payment shall be made to producers for commercial milk that is used in cheese-making.[^38-1]
 
-<sup>2</sup> The additional payment amounts to 15 cents, under deduction of the amount of the additional payment for commercial milk in accordance with Article 40. The Federal Council shall specify the requirements for the additional payment. It may exclude low-fat cheeses from the additional payment.[^38-1]
+<sup>1bis</sup> The Federal Council may specify that the additional payment shall be made via the milk processors. If this is the case, the Confederation shall make the payment in full discharge of its obligations.[^38-2]
 
-<sup>3</sup> It may adjust this amount depending on trends in quantities.[^38-2]
+<sup>2</sup> The additional payment amounts to 15 cents, under deduction of the amount of the additional payment for commercial milk in accordance with Article 40. The Federal Council shall specify the requirements for the additional payment. It may exclude low-fat cheeses from the additional payment.[^38-3]
 
-[^38-1]: Amended by Annex 2 of the FD of 15 Dec. 2017 (Export competition and export subsidies), in force since 1 Jan. 2019 ([AS 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [BBl 2017 4351](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
-[^38-2]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by Annex 2 of the FD of 15 Dec. 2017 (Export competition and export subsidies), in force since 1 Jan. 2019 ([AS 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [BBl 2017 4351](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
+<sup>3</sup> It may adjust this amount depending on trends in quantities.[^38-4]
+
+[^38-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^38-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^38-3]: Amended by Annex 2 of the FD of 15 Dec. 2017 (Export competition and export subsidies), in force since 1 Jan. 2019 ([AS 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [BBl 2017 4351](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
+[^38-4]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by Annex 2 of the FD of 15 Dec. 2017 (Export competition and export subsidies), in force since 1 Jan. 2019 ([AS 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [BBl 2017 4351](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
 
 #### Art. 39
 
@@ -697,12 +725,15 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 <sup>1</sup> Producers of milk that is used in cheese-making and obtained without the use of silage receive an additional payment.
 
-<sup>2</sup> The Federal Council shall fix the level of this additional payment and stipulate the degree of firmness of the cheese and the types of cheese that entitle the producer to an additional payment. It may exclude low-fat cheeses from the additional payment.[^39-1]
+<sup>1bis</sup> The Federal Council may specify that the additional payment shall be made via the milk processors. If this is the case, the Confederation shall make the payment in full discharge of its obligations.[^39-1]
 
-<sup>3</sup> This additional payment is fixed at 3 cents. The Federal Council may adjust this amount depending on trends in quantities.[^39-2]
+<sup>2</sup> The Federal Council shall specify the conditions for making additional payments and stipulate the degree of firmness of the cheese and the types of cheese that entitle the producer to an additional payment. It may exclude low-fat cheeses from the additional payment.[^39-2]
 
-[^39-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^39-2]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+<sup>3</sup> This additional payment is fixed at 3 cents. The Federal Council may adjust this amount depending on trends in quantities.[^39-3]
+
+[^39-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^39-2]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^39-3]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 40
 
@@ -716,11 +747,29 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 [^40-1]: Amended by Annex 2 of the FD of 15 Dec. 2017 (Export competition and export subsidies), in force since 1 Jan. 2019 ([AS 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [BBl 2017 4351](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
 
-#### Art. 41 and 42
+### Section 4*a* Subsidising Milk Testing
 
-[^4142-1]
+[^tit2-chap2-sec4a-1]
 
-[^4142-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit2-chap2-sec4a-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 41
+
+[^41-1]
+
+<sup>1</sup> To ensure the hygiene of milk, subsidies may be provided to cover part of the laboratory costs of the testing laboratories commissioned by the national dairy farming organisations.
+
+<sup>2</sup> The subsidies shall be provided to the national dairy farming organisations in the form of lump-sum funding.
+
+<sup>3</sup> The Federal Council shall stipulate the requirements and procedure for providing the subsidies.
+
+[^41-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 42
+
+[^42-1]
+
+[^42-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Section 5 Special Measures
 
@@ -739,7 +788,7 @@ The milk processor shall inform the agency designated by the Federal Council:
 
 <sup>3</sup> …[^43-1]
 
-[^43-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^43-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 44
 
@@ -769,10 +818,11 @@ The Federal Council shall compensate the dairy farming organisations that it ent
 
 The Federal Council may allow exceptions for:
 
-- a. federal experimental farms and the agricultural research institutes, the poultry husbandry school in Zollikofen and the Swiss Testing Station for Fattening Performance and Carcass Quality in Sempach;
-- b.[^46-1] farms that feed pigs with by-products issued from milk and food processing, thereby fulfilling disposal management tasks in the public interest that are of regional significance.
+- a. the federal agricultural research institute;
+- b. farms that feed pigs with by-products and food waste issued from farms in the milk and food sectors, thereby fulfilling disposal management tasks in the public interest that are of regional significance;
+- c. experimental farms.[^46-1]
 
-[^46-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^46-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 47
 
@@ -790,7 +840,7 @@ The Federal Council may allow exceptions for:
 
 [^tit2-chap3-sec2-1]
 
-[^tit2-chap3-sec2-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit2-chap3-sec2-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 48
 
@@ -804,8 +854,8 @@ The Federal Council may allow exceptions for:
 
 <sup>3</sup> The Federal Council may dispense with allocation arrangements for certain products under tariff headings 0206, 0210 and 1602.
 
-[^48-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004. Paras 1 and 2 come into force on 1 Oct. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^48-2]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2015 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^48-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004. Paras 1 and 2 come into force on 1 Oct. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^48-2]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2015 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 49
 
@@ -833,7 +883,7 @@ It may:
 
 <sup>2</sup> From 2007, the Confederation may provide subsidies to the cantons for the organisation, conduct, supervision and infrastructure of public markets in the mountain regions.
 
-[^50-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^50-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 51
 
@@ -851,8 +901,8 @@ The Federal Council may delegate the following tasks to private organisations:
 
 <sup>3</sup> The Federal Council shall appoint an agency to verify whether the private organisations have carried out their tasks cost-effectively.
 
-[^51-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^51-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^51-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^51-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 51<sup>bis</sup>
 
@@ -860,7 +910,7 @@ The Federal Council may delegate the following tasks to private organisations:
 
 The Confederation may take measures relating to the sale of sheep’s wool. It may support domestic sales through subsidies.
 
-[^51bis-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^51bis-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 52
 
@@ -868,13 +918,13 @@ The Confederation may take measures relating to the sale of sheep’s wool. It m
 
 The Confederation may provide subsidies for sales measures to benefit domestic egg production.
 
-[^52-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^52-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 53
 
 [^53-1]
 
-[^53-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^53-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Chapter 4 Arable Farming
 
@@ -895,7 +945,7 @@ The Federal Council may pay subsidies for individual crops in order to:
 
 <sup>3</sup> Subsidies may also be paid for farmland in the foreign part of the Swiss border zone under Article 43 paragraph 2 of the Customs Tariff Act of 18 March 2005[^54-3].
 
-[^54-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^54-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^54-2]: Inserted by No I of the FA of 1 Oct 2021, in force since 1 March 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 [^54-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -915,7 +965,7 @@ The Federal Council may pay subsidies for individual crops in order to:
 
 [^56-1]
 
-[^56-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^56-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 57
 
@@ -929,15 +979,16 @@ The Federal Council may pay subsidies for individual crops in order to:
 
 <sup>1</sup> The Confederation may introduce measures regarding the processing of pomaceous fruit, stone-fruit, berries and fruit products as well as grapes. It may pay subsidies for processing fruit.
 
-<sup>2</sup> It may subsidise joint measures taken by producers to adapt the production of fruit and vegetables to market requirements. Such subsidies may be paid until the end of 2017 at the latest.
+<sup>2</sup> …[^58-2]
 
-[^58-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^58-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^58-2]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 59
 
 [^59-1]
 
-[^59-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^59-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Chapter 5 Wine Production
 
@@ -959,7 +1010,7 @@ The Federal Council may pay subsidies for individual crops in order to:
 
 <sup>5</sup> The cantonal authorities may issue a temporary and regional ban on the planting of new vines if measures for relieving the market or for the conversion of vineyards are being funded or if the market situation requires such action to be taken.[^60-1]
 
-[^60-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^60-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 61
 
@@ -969,11 +1020,9 @@ The cantonal authorities keep a register of vineyards that includes any special 
 
 #### Art. 62
 
-**Register of grape varieties**
+[^62-1]
 
-<sup>1</sup> FOAG examines the suitability of grape varieties.
-
-<sup>2</sup> It keeps a register of grape varieties with indications of suitability.
+[^62-1]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 63
 
@@ -1023,7 +1072,7 @@ Wines are divided into the following classes:
 
 [^66-1]
 
-[^66-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^66-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 67–69
 
@@ -1035,7 +1084,7 @@ Wines are divided into the following classes:
 
 [^tit3-1]
 
-[^tit3-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit3-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Chapter 1 General Provisions
 
@@ -1191,10 +1240,12 @@ The Confederation provides funding to the cantonal authorities on a per hectare 
 Subsidies are paid for production systems to promote near-natural and environmentally and animal friendly types of production. These subsidies include:
 
 - a. a graduated payment per hectare, depending on type of use, for production methods used throughout the farm;
-- b. a graduated payment per hectare, depending on type of use, for production methods used on part of the farm;
+- b.[^75-1] a graduated payment, depending on type of use and impact, for production methods used on part of the farm;
 - c. a graduated payment per livestock unit, depending on the category of animal, for especially animal-friendly methods of production.
 
 <sup>2</sup> The Federal Council shall decide what types of production are to be promoted.
+
+[^75-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 76
 
@@ -1262,17 +1313,17 @@ Subsidies are granted to the responsible agency provided:
 [^77b-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^77b-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## Title 4 Social Support Measures
+## Title 4 Operational Risk Management
 
 [^tit4-1]
 
-[^tit4-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit4-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Chapter 1 Support for Farmers
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit4-chap1-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 78
 
@@ -1301,10 +1352,10 @@ The cantonal authorities grant support to farmers in the form of an interest-fre
 
 <sup>2</sup> The loans are granted based on a ruling for a maximum of 20 years.
 
-<sup>3</sup> If the loan is secured by a charge on immovable property, the public deed containing the pledge agreement may be replaced by a ruling from the authorities which guarantees the loan.[^79-2]
+<sup>3</sup> If the loan is secured by a mortgage, the order from the authorities granting the loan may replace the public deed containing the mortgage agreement.[^79-2]
 
 [^79-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^79-2]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^79-2]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 80
 
@@ -1323,8 +1374,8 @@ As a rule, loans to support farmers under the terms of Article 79 paragraph 1 ar
 <sup>3</sup> The Federal Council may stipulate further requirements and obligations.
 
 [^80-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^80-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^80-3]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^80-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^80-3]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 81
 
@@ -1332,7 +1383,7 @@ As a rule, loans to support farmers under the terms of Article 79 paragraph 1 ar
 
 <sup>1</sup> If a single loan or a loan combined with the balance of earlier loans to support farmers and investment loans exceeds a certain amount (limit), the cantonal authorities shall ask for the approval of the FOAG. The Federal Council sets the limit.
 
-<sup>2</sup> The FOAG shall inform the cantonal authorities within 30 days whether it approves of the decision taken or whether it will take a decision itself. Before taking a decision it consults the cantonal authorities.
+<sup>2</sup> The FOAG shall inform the cantonal authorities within 30 days whether it approves of the decision taken or whether it will take a decision itself. Before taking a decision, it shall consult the cantonal authorities.
 
 #### Art. 82
 
@@ -1377,7 +1428,7 @@ If the amounts repaid and interest accruing to the cantonal authorities exceed t
 - a. claim the Confederation’s share back and pass it on to another canton; or
 - b. make the Confederation’s share of unused funds available to the canton for investment loans.[^85-1]
 
-[^85-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^85-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 86
 
@@ -1391,7 +1442,7 @@ If the amounts repaid and interest accruing to the cantonal authorities exceed t
 
 [^tit4-chap2-1]
 
-[^tit4-chap2-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit4-chap2-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 86a
 
@@ -1401,7 +1452,25 @@ If the amounts repaid and interest accruing to the cantonal authorities exceed t
 
 <sup>3</sup> Support for re-training shall be provided until the end of 2019 at the latest.[^86a-1]
 
-[^86a-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^86a-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+
+### Chapter 3 Subsidies to Reduce Premiums on Crop Insurance Policies
+
+[^tit4-chap3-1]
+
+[^tit4-chap3-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 86b
+
+<sup>1</sup> The Confederation may provide subsidies to reduce the premiums on private-sector crop insurance policies, provided the insurance policy covers large-scale risks such as drought and frost.
+
+<sup>2</sup> The subsidies shall be granted to the insured farmers. The Confederation shall pay the subsidy to the insurer with which the farmers are insured. The insurer shall use the subsidies solely for the purpose of reducing the insurance premiums.
+
+<sup>3</sup> The federal subsidy shall amount to 30 per cent of the premium.
+
+<sup>4</sup> The Federal Council shall stipulate the requirements and obligations for the provision of subsidies, their amount and the minimum excess for the insured party.
+
+<sup>5</sup> If risks are insurable under the subsidised crop insurance policies, other forms of federal support for loss compensation are excluded.
 
 ## Title 5 Structural Improvements
 
@@ -1409,59 +1478,115 @@ If the amounts repaid and interest accruing to the cantonal authorities exceed t
 
 #### Art. 87
 
-**Basic principle**
+**Purpose**[^87-1]
+
+The Confederation shall support structural improvements in order to:
+
+- a. improve the competitiveness of farms;
+- b. improve working and living conditions on farms;
+- c. protect and improve agricultural production capacity;
+- d. promote environmentally and animal-friendly production;
+- e. enhance rural areas, particularly mountain areas.
+
+[^87-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 87a
+
+**Supported measures**[^87a-1]
 
 <sup>1</sup>
 
-The Confederation shall grant subsidies and investment loans in order to:
+The Confederation shall support:
 
-- a. lower production costs through basic improvements to the farm;
-- b. improve living and economic conditions in rural areas, in particular upland and mountain areas;
-- c. protect farmland as well as agricultural buildings and installations from dilapidation or destruction through natural causes;
-- d. help achieve ecological aims as well as those concerning animal welfare and spatial planning;
-- e. encourage the renaturisation of small lakes and rivers to near-natural conditions.
+- a.
 
-<sup>2</sup> …[^87-1]
+  the following structural improvements in the ground:
 
-[^87-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+  - 1\. land improvements,
+  - 2\. agricultural transport infrastructure,
+  - 3\. installations and measures related to soil improvement and water balance,
+  - 4\. basic infrastructure in rural areas;
+
+- b.
+
+  the following structural improvements above ground:
+
+  - 1\. buildings and installations used to process, store or market regional agricultural products,
+  - 2\. farm and residential buildings and installations,
+  - 3\. diversification of activities in the para-agricultural sector;
+
+- c. regional development projects;
+- d.
+
+  the following additional structural improvement measures:
+
+  - 1\. measures to promote animal health and exceptionally environmentally and animal-friendly production,
+  - 2\. measures to promote cooperation between different farms,
+  - 3\. measures to promote the acquisition of farms and land.
+
+<sup>2</sup> Communal measures and measures concerning individual farms are supported.
+
+[^87a-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 88
 
-**Requirements for comprehensive communal measures[^88-1]**
+**Requirements for support for communal measures**[^88-1]
 
-Comprehensive communal measures such as the reorganisation of real estate and the overall development of farmland are subsidised if:
+<sup>1</sup> Communal measures and comprehensive communal measures are supported.
 
-- a. they basically cover a naturally or economically defined area;
-- b. they promote ecological balance and connecting corridors between biotopes.
+<sup>2</sup>
 
-[^88-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+Communal measures are supported if the following farms are affected to a significant extent:
+
+- a. at least two farms as described in Article 89 paragraph 1 letter a;
+- b. a summer grazing farm; or
+- c. a small farm involved in the first stage of processing.
+
+<sup>3</sup>
+
+Comprehensive communal measures are supported if they:
+
+- a. cover a naturally or economically defined area; and
+- b. promote ecological balance and connecting corridors between biotopes.
+
+[^88-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 89
 
-**Requirements for measures concerning individual farms**
+**Requirements for support for measures concerning individual farms[^89-1]**
 
 <sup>1</sup>
 
-Measures concerning individual farms are subsidised if the following requirements are met:
+Measures concerning individual farms shall be supported if the following requirements are met:
 
-- a.[^89-1] the farm must provide an existence in the longer term, if necessary with a second income from outside the agricultural sector, and require an appropriate and at least a normal amount of labour;
-- b. the farm must be run on an efficient rational basis;
-- c.[^89-2] the farm must be able to provide proof of ecological performance under the terms of Article 70*a* paragraph 2 after the investment;
-- d.[^89-3] the funding and acceptability of the planned investment in view of future economic conditions must be guaranteed;
+- a.[^89-2] the farm must provide an existence in the longer term, if necessary with a second income from outside the agricultural sector, and require an appropriate and at least a normal amount of labour;
+- b.[^89-3] the applicant must run the farm in a commercially successful manner;
+- c.[^89-4] the farm must be able to provide proof of ecological performance under the terms of Article 70*a* paragraph 2 after the investment;
+- d.[^89-5] the funding and acceptability of the planned investment in view of future economic conditions must be guaranteed;
 - e. the applicant must contribute his or her own funds and loans as far as possible;
-- f. the applicant must have a suitable training.
+- f. the applicant must have a suitable training;
+- g.[^89-6] the owner must run their own farm or do so after investment;
+- h.[^89-7] the tenant farmer must prove that they have the right to carry out structural measures or, in the case of investment loans, that the tenancy agreement has been entered in the land register for the fixed duration of the loan in accordance with Article 290 of the Swiss Code of Obligations[^89-8].
 
 <sup>2</sup>
 
 The Federal Council may set the labour limit lower than that stated in paragraph 1, letter a:
 
 - a. in order to ensure the farm is operative or to guarantee an adequate population density;
-- b. in the case of measures aimed at diversifying activities within the agricultural or closely associated sectors.[^89-4]
+- b. in the case of measures aimed at diversifying activities within the agricultural or closely associated sectors.[^89-9]
 
-[^89-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^89-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^89-3]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^89-4]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+<sup>3</sup> The Federal Council may provide for exemptions from paragraph 1 letter g.[^89-10]
+
+[^89-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^89-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^89-3]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^89-4]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^89-5]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^89-6]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^89-7]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^89-8]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^89-9]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^89-10]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 89a
 
@@ -1477,7 +1602,7 @@ The Federal Council may set the labour limit lower than that stated in paragraph
 
 - [tab] <sup>5</sup> If neutrality in relation to competition is confirmed through a legal decision, appeals may no longer be lodged.
 
-[^89a-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^89a-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 90
 
@@ -1513,121 +1638,82 @@ Structural improvements are monitored by the cantonal authorities during work an
 
 #### Art. 93
 
-**Basic principle**
+**Basic principle**[^93-1]
 
-<sup>1</sup>
+<sup>1</sup> The Confederation shall support structural improvements within the limits of the approved credits by granting subsidies.
 
-The Confederation shall grant subsidies within the limits of the approved credits for:
+<sup>2</sup> The subsidy shall amount to a maximum of 50 per cent of the allowable costs. In exceptional cases, the subsidy may be raised to a maximum of 60 per cent of the allowable costs.
 
-- a. land improvement;
-- b. agricultural buildings;
-- c.[^93-1] projects in connection with regional development and to promote local and regional products in which agriculture plays a major role;
-- d.[^93-2] buildings for small businesses in mountain areas insofar as they are for processing and selling agricultural products and thus add value; such businesses must deal with at least the first stage of processing;
-- e.[^93-3] joint initiatives taken by farmers aimed at lowering production costs.
+<sup>3</sup> Federal subsidies are granted only on condition that an appropriate contribution is made by the cantonal authorities, including its public territorial authorities, and on condition of a minimum participation by the agency responsible for the project.
 
-<sup>2</sup> …[^93-4]
+<sup>4</sup> To repair especially serious damage due to exceptional natural occurrences, the Confederation may grant a supplementary subsidy of a maximum of 20 per cent of the allowable costs if the required work cannot be paid for even with an appropriate contribution from the cantonal authorities, the local authorities and public funds.
 
-<sup>3</sup> Federal subsidies are only granted on condition that an appropriate contribution is made by the cantonal authorities and its public law territorial authorities.
+<sup>5</sup> The Federal Council shall set the subsidy rates, the allowable costs and the exemptions. It shall graduate the subsidy amounts based on the degree of communality. It may set the subsidy amount at a lump sum.
 
-<sup>4</sup> The Federal Council may stipulate requirements and obligations relating to the granting of subsidies.
+<sup>6</sup> The Federal Council may stipulate requirements and obligations relating to the granting of subsidies.
 
-[^93-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^93-2]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^93-3]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^93-4]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^93-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 94
 
-**Terms**
+[^94-1]
 
-<sup>1</sup>
-
-Land improvement includes:
-
-- a. underground engineering works and installations in rural areas;
-- b. the reorganisation of land ownership and tenancy conditions.
-
-<sup>2</sup>
-
-Agricultural buildings include:
-
-- a. farm buildings;
-- b. alpine farms and barns;
-- c.[^94-1] communal buildings in mountain areas that have been erected by farmers for preparing, storing and selling local produce.
-
-[^94-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^94-1]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 95
 
-**Land improvements**
+**Subsidies for measures for individual farms**[^95-1]
 
-<sup>1</sup> The Confederation shall subsidise up to 40 per cent of the cost of land improvements. Such costs include expenditure for measures that are required under the terms of other federal legislation and are closely connected to the subsidised work.
+Subsidies for measures for individual farms shall be granted in accordance with Article 87*a* paragraph 1 letter a numbers 2–4, letter b and letter d number 1.
 
-<sup>2</sup>
-
-In the case of land improvements in mountain areas, the Federal Council may raise the amount of the subsidy to a maximum of 50 per cent if such improvements:
-
-- a. cannot be funded through other means; or
-- b. comprise comprehensive communal works.
-
-<sup>3</sup> In the case of land improvements to repair especially serious damage due to exceptional natural occurrences, the Confederation may grant a supplementary subsidy of a maximum of 20 per cent if the required work cannot be paid for even with an appropriate contribution from the cantonal authorities, the local authorities and public law funds.
-
-<sup>4</sup> The Confederation may grant lump-sum subsidies for the periodic repair of land improvement works.[^95-1]
-
-[^95-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^95-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 96
 
-**Agricultural buildings**
+**Subsidies for communal measures**[^96-1]
 
-<sup>1</sup> The Confederation shall grant lump-sum subsidies for new buildings, conversions and improvements to agricultural buildings.
+Subsidies for communal measures shall be granted in accordance with Article 87*a* paragraph 1 letter a, letter b numbers 1 and 2, letter c and letter d number 2.
 
-<sup>2</sup> Subsidies for buildings on individual farms are granted if the owner of the property farms himself or herself.
-
-<sup>3</sup> Subsidies for farm buildings and alpine farms and barns may also be granted to tenant farmers if they can prove that they have the right to erect or own a building on the land in question. The Federal Council shall stipulate requirements.
+[^96-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 97
 
 **Project approval**
 
-<sup>1</sup> The cantonal authorities approve projects involving land improvements, agricultural buildings and regional development that receive federal subsidies.[^97-1]
+<sup>1</sup> The cantonal authorities approve the projects that are supported with federal subsidies.[^97-1]
 
-<sup>2</sup> They ask the FOAG for its opinion in good time.
+<sup>2</sup> If a federal inventory is concerned, the cantonal authorities shall ask the FOAG for its opinion in good time.[^97-2]
 
-<sup>3</sup> They make the project available to the public and publish it in the official cantonal gazette is not required for projects that do not require a concession or planning permission under federal or cantonal legislation.[^97-2]
+<sup>3</sup> They make the project available to the public and publish it in the official cantonal gazette is not required for projects that do not require a concession or planning permission under federal or cantonal legislation.[^97-3]
 
-<sup>4</sup> They give organisations that play a legitimate role in relation to the protection of nature and cultural heritage, the environment or public hiking paths an opportunity to lodge an objection concerning the projects published in the official cantonal gazette.[^97-3]
+<sup>4</sup> They give organisations that play a legitimate role in relation to the protection of nature and cultural heritage, the environment or public hiking paths an opportunity to lodge an objection concerning the projects published in the official cantonal gazette.[^97-4]
 
 <sup>5</sup> If necessary, the FOAG consults other federal agencies whose scope of activity also covers the project. It informs the cantonal authorities of the requirements and obligations entailed in the granting of a subsidy for that project.
 
-<sup>6</sup> The Federal Council decides which projects should not be passed on to the FOAG for its opinion.
+<sup>6</sup> …[^97-5]
 
-<sup>7</sup> The FOAG shall decide whether or not to grant a subsidy only after the project has entered into effect.[^97-4]
+<sup>7</sup> The FOAG shall decide whether or not to grant a subsidy only after the project has entered into effect.[^97-6]
 
-[^97-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^97-2]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^97-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^97-2]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^97-3]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^97-4]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^97-4]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^97-5]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^97-6]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 97a
 
-**Programme agreements**[^97a-1]
+[^97a-1]
 
-<sup>1</sup> The Confederation may grant subsidies to the cantonal authorities as part of programme agreements.
-
-<sup>2</sup> The federal agencies involved add their obligations and conditions to the programme agreements.
-
-<sup>3</sup> The procedure for approving projects to be subsidies by payments through programme agreements is subject to cantonal legislation.
-
-[^97a-1]: Inserted by No II 29 of the FA of 6 Oct. 2006 on the New System of Fiscal Equalisation and Division of Tasks between the Confederation and the Cantons, in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^97a-1]: Inserted by No II 29 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)). Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 98
 
 **Funding**[^98-1]
 
-The Federal Assembly shall by simple federal decree approve a multiple-year guarantee credit in order to guarantee the contributions under Article 93 paragraph 1.
+The Federal Assembly shall by simple federal decree approve a multiple-year guarantee credit in order to guarantee the contributions for measures under Article 87*a* paragraph 1.
 
-[^98-1]: Amended by No I 15 of the FA of 17 March 2017 on the Stabilisation Programme 2017–2019, in force since 1 Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^98-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Section 2 Connection with Other Works, Reapportionment of Land
 
@@ -1645,7 +1731,7 @@ The Federal Assembly shall by simple federal decree approve a multiple-year guar
 
 The cantonal government may order land reapportionment if the interests of agriculture are affected by public works or land-use planning.
 
-[^100-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^100-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 101
 
@@ -1700,96 +1786,47 @@ The cantonal authorities verify whether, after structural improvements subsidise
 
 #### Art. 105
 
-**Basic principle**
+**Basic principle**[^105-1]
 
-<sup>1</sup>
+<sup>1</sup> The Confederation shall support structural improvements with investment loans.
 
-The Confederation shall provide funds for investment loans to the cantonal authorities for:
+<sup>2</sup> It shall provide funds for investment loans to the cantonal authorities.
 
-- a. measures for individual farms;
-- b. communal measures;
-- c.[^105-1] buildings and installations for small businesses.
+<sup>3</sup> The cantonal authorities shall grant investment loans interest-free.
 
-<sup>2</sup> The cantonal authorities shall grant interest-free investment loans in a ruling.
+<sup>4</sup> Loans must be repaid within 20 years.
 
-<sup>3</sup> Loans must be repaid within 20 years at the most. The Federal Council shall regulate the details.
+<sup>5</sup> If the loan is secured by a mortgage, the order from the authorities granting the loan may replace the public deed containing the mortgage agreement.
 
-<sup>4</sup> If the loan is secured by a charge on real estate, the order from the authorities granting the loan may replace the public deed containing the pledge agreement.[^105-2]
+<sup>6</sup> The Federal Council shall set the investment loan amounts and the repayment methods.
 
-[^105-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^105-2]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+<sup>7</sup> It may stipulate requirements and obligations relating to the granting of subsidies.
+
+[^105-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 106
 
-**Investment loans for measures for individual farms**
+**Investment loans for measures for individual farms**[^106-1]
 
-<sup>1</sup>
+Investment loans for measures for individual farms shall be granted in accordance with Article 87*a* paragraph 1 letter b and letter d numbers 1 and 3.
 
-Owners who run their own farms or will do so after investment receive investment loans:[^106-1]
-
-- a. as one-time start-up support for young farmers;
-- b. for the construction, conversion and improvement of residential and farm buildings;
-- c.[^106-2] for measures aimed at diversifying activities in the agricultural and closely associated sectors in order to provide potential sources of additional income;
-- d.[^106-3] for measures aimed at improving the production of special crops and adapting them to the market, as well as for renewing long-term crops.
-
-<sup>2</sup>
-
-Tenant farmers receive investment loans:
-
-- a. as one-time start-up support for young farmers;
-- b. for the purchase of farms from third parties;
-- c. for the construction, conversion and improvement of residential and farm buildings on condition that the right to erect or own a building on the land in question can be demonstrated, or if the tenancy agreement is entered in the land register for the fixed duration of the loan according to Article 290 of the Swiss Code of Obligations[^106-4] and the land owner pledges the object of the tenancy agreement as security for the loan;
-- d.[^106-5] for measures aimed at diversifying activities in the agricultural and closely associated sectors in order to provide potential sources of additional income, insofar as the conditions set out under letter c are met;
-- e.[^106-6] for measures aimed at improving the production of special crops and adapting them to the market as well as for the renewal of long-term crops insofar as the conditions under letter c are met.
-
-<sup>3</sup> Investment loans are granted as lump-sums.
-
-<sup>4</sup> Under the Federal Act of 4 October 1974[^106-7] on the Promotion of Housing Construction and Home Ownership and the Federal Act of 20 March 1970[^106-8], on the Improvement of Living Conditions in Alpine Regions, financial assistance may also be sought, in addition to investment loans, for residential buildings.
-
-<sup>5</sup> The Federal Council may stipulate requirements and obligations and allow exceptions to the rule of owner/farmer and stipulate the granting of lump-sum investment loans.[^106-9]
-
-[^106-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^106-2]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^106-3]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^106-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^106-5]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^106-6]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^106-7]: [SR 843](https://fedlex.data.admin.ch/eli/cc/1975/498_498_498)
-[^106-8]: [SR 844](https://fedlex.data.admin.ch/eli/cc/1971/172_176_176)
-[^106-9]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^106-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 107
 
-**Investment loans for communal measures**
+**Investment loans for communal measures**[^107-1]
 
-<sup>1</sup>
+<sup>1</sup> Investment loans for communal measures shall be granted in accordance with Article 87*a* paragraph 1 letters a, b, c and d number 2.
 
-Investment loans are granted in particular for:
+<sup>2</sup> In the case of larger communal projects, support may be granted in the form of building loans.
 
-- a. land improvements;
-- b.[^107-1] buildings, installations and machinery erected or purchased by farmers for joint self-help projects in order to rationalise their operations, to facilitate the preparation, storage and marketing of local produce or to produce energy from biomass;
-- c.[^107-2] setting up agricultural self-help organisations for market-orientated production and management;
-- d.[^107-3] regional development projects and projects aimed at promoting local and regional products in which agriculture plays a major role.
-
-<sup>2</sup> In the case of larger projects, support may be granted in the form of building loans.[^107-4]
-
-<sup>3</sup> The Federal Council may stipulate requirements and obligations.
-
-[^107-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^107-2]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^107-3]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^107-4]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^107-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 107a
 
-**Investment loans for small businesses**[^107a-1]
+[^107a-1]
 
-<sup>1</sup> Investment loans are granted for buildings and installations for small businesses insofar as they process and sell agricultural products, thus increasing their added value; the businesses must be involved at least in the first stage of processing.[^107a-2]
-
-<sup>2</sup> The Federal Council may stipulate requirements and obligations.
-
-[^107a-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^107a-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^107a-1]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 108
 
@@ -1803,8 +1840,8 @@ Investment loans are granted in particular for:
 
 <sup>3</sup> If support is granted in the form of a building loan as per Article 107 paragraph 2, the balance of earlier loans is not taken into account.
 
-[^108-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^108-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^108-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^108-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 109
 
@@ -1839,93 +1876,133 @@ The cantonal authorities are liable for losses incurred in connection with inves
 
 The cantonal authorities are liable for administrative expenses.
 
-## Title 6 Research and Advisory Services, Promotion of Plant and Animal Breeding and Genetic Resources
+## Title 6 Research and Advisory Services, Exploitation of Knowledge, Promotion of Plant and Animal Breeding and Genetic Resources
 
 [^tit6-1]
 
-[^tit6-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Chapter 1 Basic Principle
 
 [^tit6-chap1-1]
 
-[^tit6-chap1-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-chap1-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 113
 
 **Basic principle**
 
-<sup>1</sup> The Confederation supports agriculture in its efforts to produce in a rational and sustainable manner through the acquisition and provision of knowledge.
+<sup>1</sup> The Confederation promotes the acquisition, exploitation and exchange of knowledge in the agricultural and food sector, thereby supporting the sector in its efforts to produce in a rational and sustainable manner.[^113-1]
 
 <sup>2</sup> An appropriate proportion of funding is used for types of production that are particularly near-natural and environmentally and animal friendly.
+
+[^113-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Chapter 1*a* Research
 
 [^tit6-chap1a-1]
 
-[^tit6-chap1a-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-chap1a-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 114
 
-**Research stations**[^114-1]
+**Agricultural research institute**[^114-1]
 
-<sup>1</sup> The Confederation may operate agricultural research stations.
+<sup>1</sup> The Confederation shall operate an agricultural research institute.
 
-<sup>2</sup> The agricultural research stations are located in various parts of the country.
+<sup>2</sup> The agricultural research institute shall comprise a central research campus with regional research centres and decentralised research stations. The research stations must be located in various parts of the country.
 
-<sup>3</sup> They report to the FOAG.
+<sup>3</sup> The agricultural research institute shall be affiliated to the FOAG.
 
-[^114-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^114-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 115
 
-**The tasks of the research stations[^115-1]**
+**The tasks of the agricultural research institute[^115-1]**
 
 <sup>1</sup>
 
-The agricultural research stations have assigned the following tasks in particular:[^115-2]
+The agricultural research institute has the following tasks in particular:
 
-- a. to process scientific findings and the technical principles for agricultural practice, education and advisory services;
-- b. to draw up scientific principles for agricultural decision-making;
-- c. to develop, supervise and assess agricultural measures;
-- d. to draw up basic principles for new strategies in agriculture;
-- e. to draw up basic principles for environmentally and animal-friendly types of production;
-- f. to carry out implementation duties.
+- a. processing scientific findings and the technical principles for agricultural practice, education and advisory services;
+- b. drawing up scientific principles for agricultural decision-making;
+- c. developing, supporting and evaluating agricultural measures;
+- d. drawing up basic principles for new strategies in agriculture;
+- e. drawing up basic principles for environmentally and animal-friendly types of production;
+- f. carrying out implementation duties.[^115-2]
 
 <sup>2</sup> …[^115-3]
 
-[^115-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^115-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^115-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^115-2]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^115-3]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Repealed in Annex No 5 of the FA of 18 June 2010, with effect from 1 Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
 #### Art. 116
 
-**Service agreements, research mandates and financial assistance[^116-1]**
+**Financial assistance and research mandates**[^116-1]
 
-<sup>1</sup> The FOAG may entrust institutes belonging to federal and cantonal universities or other institutes with research mandates. It may sign periodic service agreements with public or private organisations.[^116-2]
+<sup>1</sup> The Confederation may provide organisations with financial assistance to support their research efforts.
 
-<sup>2</sup> The Confederation may provide financial support for experiments and investigations carried out by organisations.
+<sup>2</sup> It may provide financial assistance for research projects.
 
-[^116-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^116-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+<sup>3</sup> It may assign research mandates to institutes belonging to federal and cantonal universities or other institutes.
+
+[^116-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 117
 
-**Agricultural Research Council**
+[^117-1]
 
-<sup>1</sup> The Federal Council shall appoint the Agricultural Research Council, a permanent body comprising a maximum of 15 members. Interested parties, in particular producers, consumers and scientists, must be proportionally represented on the Research Council.[^117-1]
+[^117-1]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
-<sup>2</sup> The Research Council shall provide the FOAG with recommendations on agricultural research, in particular for its long-term planning.
+### Chapter 2 Exploitation and Exchange of Knowledge
 
-[^117-1]: Amended by No I 6.5 of the Ordinance of 9 Nov. 2011 (Review of the extra-parliamentary commissions), in force since 1 Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^tit6-chap2-1]
 
-### Chapter 2 …
+[^tit6-chap2-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
-#### Art. 118–135
+#### Art. 118
 
-[^118135-1]
+**Connecting corridors**[^118-1]
 
-[^118135-1]: Repealed in Annex No II 5 of the FA of 13 Dec. 2002 on Vocational and Professional Education and Training, with effect from 1 Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+The Confederation may provide financial assistance to organisations and for projects that contribute to networks connecting research, education and advisory services with practices in the agricultural and food sector.
+
+[^118-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 119
+
+**Pilot and demonstration projects**[^119-1]
+
+The Confederation may provide financial assistance for:
+
+- a. pilot projects that test scientific findings from research for practical use;
+- b. demonstration projects that communicate new technologies, methods, processes and services to practitioners and the public.
+
+[^119-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 120
+
+**Competence and innovation networks**[^120-1]
+
+The Confederation may provide financial assistance for the creation and operation of competence and innovation networks.
+
+[^120-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 121
+
+**Stud farm**[^121-1]
+
+<sup>1</sup> The Confederation shall operate a national stud farm as a competence centre for horse-breeding and -keeping. The FOAG shall be responsible for the stud farm.
+
+<sup>2</sup> The Federal Council shall determine the stud farm’s responsibilities.
+
+[^121-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 122–135
+
+[^122135-1]
+
+[^122135-1]: Repealed by Annex No II 5 of the Vocational and Professional Education and Training Act of 13 Dec. 2002, in effect since 1 Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
 ### Chapter 2*a* Advisory Services
 
@@ -1962,13 +2039,13 @@ The agricultural research stations have assigned the following tasks in particul
 
 [^139-1]
 
-[^139-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^139-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Chapter 3 Horticulture, Livestock Breeding and Genetic Resources
 
 [^tit6-chap3-1]
 
-[^tit6-chap3-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-chap3-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Section 1 Horticulture
 
@@ -1992,7 +2069,7 @@ It may provide subsidies for private plant breeders and specialised organisation
 
 <sup>3</sup> It may subsidise the production of seeds and seedlings.
 
-[^140-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^140-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Section 2 Livestock Breeding
 
@@ -2010,7 +2087,7 @@ The Confederation may promote the breeding of livestock which:
 
 <sup>2</sup> The promotion of livestock breeding should ensure high-quality independent animal husbandry.
 
-[^141-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^141-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 142
 
@@ -2026,7 +2103,7 @@ The Confederation may provide subsidies to recognised organisations, in particul
 
 <sup>2</sup> No subsidies are paid for breeding transgenic animals.
 
-[^142-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^142-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 143
 
@@ -2054,7 +2131,7 @@ Subsidies are granted if:
 
 [^145-1]
 
-[^145-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^145-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 146
 
@@ -2072,23 +2149,15 @@ The Federal Council may issue regulations concerning the breeding, importing or 
 
 #### Art. 147
 
-**Stud[^147-1]**
+[^147-1]
 
-<sup>1</sup> The Confederation shall maintain a national stud farm for the purposes of supporting horse-breeding.[^147-2]
-
-<sup>2</sup> The FOAG is responsible for the stud farm.
-
-<sup>3</sup> …[^147-3]
-
-[^147-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^147-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^147-3]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Repealed by Annex No 5 of the FA of 18 June 2010, with effect from 1 Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^147-1]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Section 3 Genetic Resources for Agriculture and Food Production
 
 [^tit6-chap3-sec3-1]
 
-[^tit6-chap3-sec3-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-chap3-sec3-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 147a
 
@@ -2108,13 +2177,13 @@ Insofar as international commitments exist, the Federal Council shall regulate a
 
 [^tit7-1]
 
-[^tit7-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Chapter 1 Implementing Provisions
 
 [^tit7-chap1-1]
 
-[^tit7-chap1-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-chap1-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 148
 
@@ -2122,13 +2191,13 @@ Insofar as international commitments exist, the Federal Council shall regulate a
 
 <sup>2</sup> In doing so it shall take into consideration the requirements of product safety.[^148-1]
 
-[^148-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^148-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Chapter 2 Preventive Measures
 
 [^tit7-chap2-1]
 
-[^tit7-chap2-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-chap2-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 148a
 
@@ -2162,7 +2231,9 @@ With regard to preventive measures, the Federal Council may in particular:
 
 <sup>1</sup> The Confederation shall promote appropriate plant protection practice to protect crops from harmful organisms.
 
-<sup>2</sup> The Federal Council shall draw up regulations for the protection of crops and plant material (plants, parts of plants and plant products) from particularly dangerous harmful organisms.
+<sup>2</sup> …[^149-1]
+
+[^149-1]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 150
 
@@ -2172,13 +2243,15 @@ The cantonal authorities run a plant protection service which in particular guar
 
 #### Art. 151
 
-**Principles of plant protection**
+[^151-1]
 
-<sup>1</sup> Any person who produces, imports or circulates plant material must respect the principles of plant protection.
+[^151-1]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
-<sup>2</sup> He or she is obliged in particular to inform the authorities of any especially dangerous harmful organisms.
+### Section 2 Plant Health
 
-### Section 2 Special Measures
+[^tit7-chap3-sec2-1]
+
+[^tit7-chap3-sec2-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 152
 
@@ -2186,10 +2259,10 @@ The cantonal authorities run a plant protection service which in particular guar
 
 <sup>1</sup>
 
-The Federal Council shall draw up regulations on the import and circulation of:
+In order to protect crops and plants, parts of plants and plant products (plant material) from particularly dangerous harmful organisms, the Federal Council shall draw up regulations on the import and circulation of:
 
 - a. particularly dangerous harmful organisms;
-- b. plant material and goods that may carry particularly dangerous harmful organisms.
+- b. plant material and goods that may carry particularly dangerous harmful organisms.[^152-1]
 
 <sup>2</sup>
 
@@ -2201,17 +2274,24 @@ In particular it may:
 - d. forbid the import and circulation of plant material that carries or may carry particularly dangerous harmful organisms;
 - e. forbid the cultivation of highly susceptible host plants.
 
+<sup>2bis</sup> Persons who produce or import plant material or place it on the market must in particular report particularly dangerous harmful organisms.[^152-2]
+
 <sup>3</sup> The Federal Council shall ensure that plant material intended for export meets international requirements.
+
+[^152-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^152-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 153
 
-**Preventive measures**
+**Measures to combat particularly dangerous harmful organisms[^153-1]**
 
 In order to prevent the import and spread of particularly dangerous harmful organisms, the Federal Council may in particular:
 
 - a. order the phytosanitary situation to be monitored;
 - b. stipulate that plant material and objects and land that are suspected of being infected be isolated as long as an infection cannot be ruled out;
 - c. order the treatment, disinfection or destruction of crops, plant material, aids to production and objects which are or could be affected by particularly dangerous harmful organisms.
+
+[^153-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Section 3 Cost of Combating Harmful Organisms
 
@@ -2233,18 +2313,19 @@ Normally, the Confederation pays for 50 per cent, and in exceptional circumstanc
 
 **Compensation for damage**
 
-<sup>1</sup> If the value of objects is reduced or the objects are totally destroyed as a result of official combat measures or through disinfection or similar procedures, the owner may receive fair compensation.
+<sup>1</sup> If the value of objects is reduced or the objects are totally destroyed as a result of official measures laid down in Article 153, the owner may receive fair compensation.[^156-1]
 
 <sup>2</sup>
 
 The definitive amount of the compensation shall be set through the simplest procedure possible, the claimant not being liable for any costs:
 
 - a. by the FOAG in the case of measures ordered by the FOAG along the Swiss border or within the country;
-- b. by the relevant cantonal administration in the case of other measures within the country.[^156-1]
+- b. by the relevant cantonal administration in the case of other measures within the country.[^156-2]
 
 <sup>3</sup> The Confederation shall repay the cantons at least one third of the expenses incurred through such compensation.
 
-[^156-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^156-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^156-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 157
 
@@ -2254,13 +2335,13 @@ The definitive amount of the compensation shall be set through the simplest proc
 
 <sup>2</sup> The private organisations shall receive remuneration for carrying out such mandates.
 
-[^157-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^157-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Chapter 4 Aids to Production
 
 [^tit7-chap4-1]
 
-[^tit7-chap4-1]: Originally Chap. 2. Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-chap4-1]: Originally Chap. 2. Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 158
 
@@ -2270,7 +2351,7 @@ The definitive amount of the compensation shall be set through the simplest proc
 
 <sup>2</sup> The Federal Council may declare aids to production with comparable non-agricultural areas of use to be subject to the regulations set out in this Chapter.
 
-[^158-1]: Term in accordance with No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). This amendment has been made throughout the text.
+[^158-1]: Term in accordance with No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). This amendment has been made throughout the text.
 
 #### Art. 159
 
@@ -2292,7 +2373,7 @@ Only the following aids to production may be imported or circulated:
 
 The Federal Council may draw up regulations concerning the import, circulation and use of aids to production. In particular it may restrict or ban the import, circulation and use of aids to production.
 
-[^159a-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Amended by Annex No 3 of the FA of 12 June 2009, in force since 1 July 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^159a-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Amended by Annex No 3 of the FA of 12 June 2009, in force since 1 July 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 160
 
@@ -2320,8 +2401,8 @@ It may subject the following to compulsory approval:
 
 <sup>8</sup> The use of antibiotics and similar substances for enhancing performance in animals is forbidden. The authorities must be informed accordingly if such substances are used for therapeutic purposes; a record must be kept of the treatment programme. The Federal Council shall stipulate measures concerning imported meat under the terms of Article 18.
 
-[^160-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^160-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^160-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^160-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 160a
 
@@ -2331,6 +2412,21 @@ Plant protection substances put into circulation lawfully in areas covered by th
 
 [^160a-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^160a-2]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+
+#### Art. 160b
+
+**Party status in procedures relating to plant protection substances**[^160b-1]
+
+<sup>1</sup> Organisations with the right to appeal in accordance with Article 12 paragraph 1 letter b of the Federal Act of 1 July 1966[^160b-2] on the Protection of Nature and Cultural Heritage may apply to the regulatory authority for party status within 14 days of being informed of a procedure to authorise a plant protection substance.
+
+<sup>2</sup> Persons who fail to apply for party status shall be excluded from further proceedings.
+
+<sup>3</sup> If there is a risk in delay, the regulatory authority shall not be obliged to consult the organisations that have been granted party status.
+
+<sup>4</sup> The Federal Council shall determine the procedure.
+
+[^160b-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^160b-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 161
 
@@ -2394,7 +2490,7 @@ The Federal Council may require the producers of aids to production and trading 
 
 [^tit7a-1]
 
-[^tit7a-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit7a-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Chapter 1 Preventive Measures
 
@@ -2577,13 +2673,15 @@ The Federal Council shall draw up regulations regarding the information system a
 
 #### Art 165h
 
-<sup>1</sup> With the exception of copyright, all rights concerning intangible goods produced by persons employed by the FOAG or by the research institutes under the terms of the Federal Personnel Act of 24 March 2000[^165h-1], as part of their official tasks, belong to the Confederation.
+<sup>1</sup> With the exception of copyright, all rights concerning intangible goods produced by persons employed by the FOAG or by the agricultural research institute under the terms of the Federal Personnel Act of 24 March 2000[^165h-1], as part of their official tasks, belong to the Confederation.[^165h-2]
 
-<sup>2</sup> In the case of computer programmes written by the persons mentioned in paragraph 1 as part of their official tasks, the FOAG or the research institutes enjoy exclusive rights of use. In order to transfer rights in other copyright work categories, the FOAG and the research institutes may draw up contractual regulations with those who own the rights.
+<sup>2</sup> In the case of computer programmes written by the persons mentioned in paragraph 1 as part of their official tasks, the FOAG or the agricultural research institute enjoy exclusive rights of use. In order to transfer rights in other copyright work categories, the FOAG and the agricultural research institute may draw up contractual regulations with those who own the rights.[^165h-3]
 
 <sup>3</sup> Any person who has produced intangible goods under the terms of paragraphs 1 and 2 must receive an appropriate share of any profit accruing from their commercialisation.
 
 [^165h-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^165h-2]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^165h-3]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ## Title 8 Rights of Appeal, Administrative Measures and Criminal Provisions
 
@@ -2593,30 +2691,37 @@ The Federal Council shall draw up regulations regarding the information system a
 
 **General**
 
-<sup>1</sup> An objection may be filed lodged with office responsible against rulings issued by organisations and businesses under Article 180.
+<sup>1</sup> An objection may be filed with competent federal office against rulings issued by organisations and businesses under Article 180. Objections against decisions made by appeals commissions for certification or inspection bodies to which control of the products under Articles 14 and 63 has been transferred must be filed with the Federal Administrative Court.[^166-1]
 
-<sup>2</sup> Objections to rulings issued by federal offices, federal departments and cantonal courts of the last instance concerning the application of this Act and the provisions for its implementation may be filed with the Federal Administrative Court; this does not apply to cantonal rulings concerning structural improvements.[^166-1]
+<sup>2</sup> Objections to rulings issued by federal offices, federal departments and cantonal courts of the last instance concerning the application of this Act and the provisions for its implementation and the application of the Agreement of 21 June 1999[^166-2] between the Swiss Confederation and the European Community on trade in agricultural products may be filed with the Federal Administrative Court; this does not apply to cantonal rulings concerning structural improvements.[^166-3]
 
-<sup>2bis</sup> Before the Federal Administrative Court issues a decision on an objection concerning the import, export or circulation of plant protection substances, it shall consult the assessment boards involved in the pre-court procedure.[^166-2]
+<sup>2bis</sup> Before the Federal Administrative Court issues a decision on an objection concerning the import, export or circulation of plant protection substances, it shall consult the assessment boards involved in the pre-court procedure.[^166-4]
 
-<sup>3</sup> The federal office responsible is entitled to take legal proceedings under the provisions of cantonal and federal law against orders issued by the cantonal authorities as part of the application of this Act and the provisions for its implementation.
+<sup>3</sup> The federal office responsible is entitled to take legal proceedings under the provisions of cantonal and federal law against orders issued by the cantonal authorities as part of the application of this Act and the provisions for its implementation and the application of the Agreement between the Swiss Confederation and the European Community on trade in agricultural products.[^166-5]
 
 <sup>4</sup> The cantonal authorities shall give notice of its rulings immediately and without charge to the federal office responsible. The Federal Council may allow exceptions.
 
-[^166-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^166-2]: Inserted by Annex No II 4 of the Federal Chemicals Act of 15 Dec. 2000 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)). Amended by Annex No 125 of the FA of 17 June 2005 on the Federal Administrative Court, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^166-1]: Second sentence inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^166-2]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^166-3]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^166-4]: Inserted by Annex No II 4 of the Federal Chemicals Act of 15 Dec. 2000 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)). Amended by Annex No 125 of the FA of 17 June 2005 on the Federal Administrative Court, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^166-5]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 167
 
 [^167-1]
 
-[^167-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^167-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 168
 
 **Opposition procedure**
 
-In its implementation legislation, the Federal Council may include an opposition procedure against decisions of the court of first instance.
+<sup>1</sup> In its implementation legislation, the Federal Council may include an opposition procedure against decisions of the court of first instance.
+
+<sup>2</sup> Persons who fail to file opposition shall be excluded from further proceedings.[^168-1]
+
+[^168-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Chapter 2 Administrative Measures
 
@@ -2645,12 +2750,12 @@ In order to restore the lawful position, the following measures may be taken in 
 
 - a. ban on the use and circulation of products or labels;
 - b. refusal of products for import or export;
-- c. obligation to repurchase or call in products or to issue a public warning of the potential risks of products;
+- c. obligation to repurchase or recall products or to issue a public warning of the potential risks of products;
 - d. neutralisation, withdrawal or destruction of products.[^169-3]
 
-[^169-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^169-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^169-2]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^169-3]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^169-3]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 170
 
@@ -2664,7 +2769,7 @@ In order to restore the lawful position, the following measures may be taken in 
 
 <sup>3</sup> The Federal Council shall stipulate reductions in the case of an infringement of regulations on direct payments and arable farming.[^170-2]
 
-[^170-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^170-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^170-2]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 171
@@ -2695,12 +2800,13 @@ In order to restore the lawful position, the following measures may be taken in 
 
 **Misdemeanours and felonies**[^172-1]
 
-<sup>1</sup> Any person who unlawfully uses a designation of origin or a geographical indication protected under Article 16 or a classification or label under Article 63 shall on complaint be liable to a custodial sentence not exceeding one year or to a monetary penalty. In relation to classification and labelling under Article 63, monitoring agencies mandated by the Federal Council under Article 64 paragraph 4 and used by the cantons also have the right to file a complaint.
+<sup>1</sup> Any person who unlawfully uses a designation of origin or a geographical indication protected under Article 16 or a classification or label under Article 63 shall on complaint be liable to a custodial sentence not exceeding one year or to a monetary penalty. In relation to classification and labelling under Article 63, the monitoring agency mandated by the Federal Council under Article 64 paragraph 4 also has the right to file a complaint.[^172-2]
 
-<sup>2</sup> Any person suspected of committing an offence for commercial gain shall be prosecuted *ex officio*, and shall be liable to a custodial sentence not exceeding five years or a monetary penalty. …[^172-2]
+<sup>2</sup> Any person suspected of committing an offence for commercial gain shall be prosecuted *ex officio*, and shall be liable to a custodial sentence not exceeding five years or a monetary penalty. …[^172-3]
 
 [^172-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^172-2]: Sentence inserted by No I of the FA of 22 March 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Repealed by No I 33 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Police, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^172-2]: Second sentence amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^172-3]: Sentence inserted by No I of the FA of 22 March 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Repealed by No I 33 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Police, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 173
 
@@ -2718,17 +2824,17 @@ Unless the offence carries a more severe penalty under a different provision, a 
 - c<sup>bis</sup>.[^173-5] fails to meet the requirements of Article 27a paragraph 1 or fails to comply with a permit requirement or measures ordered under Article 27*a* paragraph 2;
 - d. provides false or misleading information in a procedure concerning a subsidy or for the allocation of quotas;
 - e. produces or sells milk or dairy products in breach of the regulations or orders issued by the Confederation on the basis of this Act;
-- f.[^173-6] plants vines without a permit, fails to comply with provisions on classification or fails to fulfil his or her obligations concerning trade in wine;
+- f.[^173-6] plants vines without a permit, fails to fulfil his or her obligations concerning trade in wine or infringes the requirements for terms relating specifically to wine laid down in Article 63 paragraph 4;
 - g. infringes regulations on artificial insemination under Article 145;
 - g<sup>bis</sup>.[^173-7] fails to comply with the provisions on the import of breeding animals, sperm, ova and embryos under Article 146;
 - g<sup>ter</sup>.[^173-8] infringes the regulations on the breeding, import or circulation of genetically modified livestock according to Article 146*a;*
-- g<sup>quater</sup>.[^173-9] infringes the preventive measures issued under Article 148*a;*
-- h. infringes the regulations on the protection of commercial crops under Articles 151, 152 or 153;
-- i.[^173-10] fails to comply with the instructions for use under Article 159 paragraph 2 or the regulations on use under Article 159*a;*
-- k.[^173-11] produces, imports, stocks, transports, circulates, sells or recommends aids to production that are subject to mandatory approval (Article 160), uses antibiotics and similar substances to enhance performance in livestock or fails to register their use for therapeutic purposes (Article 160 paragraph 8);
-- k<sup>bis</sup>.[^173-12] produces, imports, stocks, transports, circulates, sells or recommends aids to production without being approved or registered with the relevant authority;
-- k<sup>ter</sup>.[^173-13] infringes the regulations on labelling and packaging of aids to production issued under Article 161;
-- k<sup>quater</sup>.[^173-14] imports, stocks, transports, circulates, sells or recommends banned aids to production (Article 159*a*);
+- g<sup>quater</sup>.[^173-9] infringes the preventive measures issued under Article 148*a* or 165*a*;
+- h.[^173-10] infringes the regulations on the maintenance of plant health under Article 152, 153 or 153*a*[^173-11];
+- i.[^173-12] fails to comply with the instructions for use under Article 159 paragraph 2 or the regulations on use under Article 159*a;*
+- k.[^173-13] produces, imports, stocks, transports, circulates, sells or recommends aids to production that are subject to mandatory approval (Article 160), uses antibiotics and similar substances to enhance performance in livestock or fails to register their use for therapeutic purposes (Article 160 paragraph 8);
+- k<sup>bis</sup>.[^173-14] produces, imports, stocks, transports, circulates, sells or recommends aids to production without being approved or registered with the relevant authority;
+- k<sup>ter</sup>.[^173-15] infringes the regulations on labelling and packaging of aids to production issued under Article 161;
+- k<sup>quater</sup>.[^173-16] imports, stocks, transports, circulates, sells or recommends banned aids to production (Article 159*a*);
 - l. imports, uses or circulates plant propagation material of a type not included in a catalogue of plant varieties (Article 162);
 - m. fails to comply with the safety distances set out in Article 163;
 - n. fails to provide the information required under Article 164;
@@ -2740,7 +2846,7 @@ Unless the offence carries a more severe penalty under a different provision, a 
 
 Unless the offence carries a more severe a person who wilfully commits any of the following acts shall be liable to a fine not exceeding 5,000 francs:
 
-- a.[^173-15] …
+- a.[^173-17] …
 - b. fails to comply with a provision on implementation whose contravention is declared to be an offence.
 
 <sup>4</sup> Attempts and complicity are also offences.
@@ -2748,20 +2854,22 @@ Unless the offence carries a more severe a person who wilfully commits any of th
 <sup>5</sup> In particularly minor cases, prosecution or imposition of a penalty may be dispensed with.
 
 [^173-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^173-3]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^173-4]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^173-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^173-3]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^173-4]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^173-5]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-6]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^173-6]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^173-7]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^173-8]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-9]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-10]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-11]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-12]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-13]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-14]: Inserted by Annex No 3 of the FA of 12 June 2009, in force since 1 July 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^173-15]: Repealed by No I of the FA of 22 June 2007, with effect from 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-9]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^173-10]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^173-11]: This article comes into force on 1 Jan. 2026.
+[^173-12]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-13]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-14]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-15]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-16]: Inserted by Annex No 3 of the FA of 12 June 2009, in force since 1 July 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^173-17]: Repealed by No I of the FA of 22 June 2007, with effect from 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 174
 
@@ -2781,8 +2889,8 @@ If the offence has been committed by a legal entity or a group of persons, Artic
 
 <sup>3</sup> If an act simultaneously constitutes an offence under paragraph 2 and an offence prosecuted by the Federal Office for Customs and Border Security, the penalty for the more serious offence applies; the penalty may be raised accordingly.[^175-2]
 
-[^175-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^175-2]: Inserted by No I of the FA of 22 March 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Amended by No I 33 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^175-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^175-2]: Inserted by No I of the FA of 22 March 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Amended by No I 33 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 176
 
@@ -2824,7 +2932,7 @@ After consulting the other interested federal offices and authorities, the FOAG 
 - f. direct payments, market support measures and subsidies for processing in enclaves and in the Principality of Liechtenstein that concern the application of this Act and of regulations on agriculture under legislation on livestock epidemics, animal protection, protection of waters, environmental protection or the protection of nature and cultural heritage;
 - g. projects that are part of international agricultural research programmes.
 
-[^177a-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^177a-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 177b
 
@@ -2832,7 +2940,7 @@ After consulting the other interested federal offices and authorities, the FOAG 
 
 <sup>1</sup>
 
-The FOAG, its research and experimental stations (Article 114) and the Federal Stud Farm (Article 147) may provide commercial services for third parties if such services:
+The FOAG, its agricultural research institute (Article 114) and the stud farm (Article 121) may provide commercial services for third parties if such services:[^177b-2]
 
 - a. are closely related to their main tasks;
 - b. do not compromise the completion of their main tasks; and
@@ -2841,6 +2949,7 @@ The FOAG, its research and experimental stations (Article 114) and the Federal S
 <sup>2</sup> Commercial services must be provided at a cost-effective price based on an estimate of cost and income. The EAER may allow exceptions for certain services if they do not entail competition for private businesses.
 
 [^177b-1]: Inserted by Annex No 5 of the FA of 18 June 2010, in force since 1 Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^177b-2]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 178
 
@@ -2856,7 +2965,7 @@ The FOAG, its research and experimental stations (Article 114) and the Federal S
 
 <sup>5</sup> For implementing the measures concerning direct payments, the cantons use defined basic data, record the necessary land and how it is used as well as the other necessary objects in the geographical information system in accordance with Article 165*e* and calculate the subsidies for each farm on the basis of these data.[^178-1]
 
-[^178-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^178-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 179
 
@@ -2864,7 +2973,9 @@ The FOAG, its research and experimental stations (Article 114) and the Federal S
 
 <sup>1</sup> The Federal Council shall supervise the implementation of the Act by the cantons.
 
-<sup>2</sup> If a canton is negligent in its implementation of the Act, the Confederation may reduce or refuse the subsidies. This also applies even if a right of appeal under Article 166 paragraph 3 is not exercised.
+<sup>2</sup> If a canton fails to implement the Act or is negligent in its implementation, the Confederation may demand repayment of financial assistance or reduce or refuse the financial assistance.[^179-1] This also applies even if a right of appeal under Article 166 paragraph 3 is not exercised.
+
+[^179-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 180
 
@@ -2872,9 +2983,12 @@ The FOAG, its research and experimental stations (Article 114) and the Federal S
 
 <sup>1</sup> The Confederation and the cantons may work with businesses and organisations in order to implement the Act or set up appropriate organisations to do so.
 
-<sup>2</sup> The cooperation between these businesses and organisations shall be supervised by the authorities. The tasks and powers transferred to them must be detailed by the relevant authorities, to whom they must submit reports and accounts. Parliamentary control may be exercised in the Confederation and the cantons.
+<sup>2</sup> The cooperation between these businesses and organisations shall be supervised by the authorities. The tasks and powers transferred to them must be detailed by the relevant authorities, to whom they must submit reports and accounts; this does not apply to certification bodies to which control of designated products under Article 14 of this Act and Article 41*a* of the Forest Act of 4 October 1991[^180-1] has been transferred.[^180-2] Parliamentary control may be exercised in the Confederation and the cantons.
 
 <sup>3</sup> The Federal Council and the cantons may authorise the businesses and organisations who work with them to levy an appropriate charge for their activities. Their rates must be approved by the EAER.
+
+[^180-1]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^180-2]: Second sentence amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 181
 
@@ -2901,17 +3015,20 @@ It may specify charges for controls that do not result in a complaint, in partic
 
 <sup>6</sup> It may stipulate further charges insofar as Switzerland has undertaken to levy such charges under the terms of an international agreement.[^181-5]
 
+<sup>7</sup> The Confederation may finance laboratory analyses for the control of plant protection substance provisions.[^181-6]
+
 [^181-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^181-2]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^181-3]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^181-4]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^181-5]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^181-3]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^181-4]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^181-5]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^181-6]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 182
 
 **Prosecution of infringements**[^182-1]
 
-<sup>1</sup> The Federal Council shall coordinate the implementation of the Foodstuffs Act of 9 October 1992[^182-2], the Customs Tariff Act of 18 March 2005[^182-3] and this Act; in addition it may require the Federal Tax Administration to pass on information.[^182-4]
+<sup>1</sup> The Federal Council shall coordinate the implementation of the Foodstuffs Act of 9 October 1992[^182-2], the Customs Tariff Act of 18 March 2005[^182-3] and this Act; in addition, it may require the Federal Tax Administration to pass on information.[^182-4]
 
 <sup>2</sup>
 
@@ -2921,7 +3038,7 @@ The Federal Council shall set up a central office to investigate infringements c
 - b. the import, transit and export of agricultural products;
 - c. declaration of origin and production methods.
 
-[^182-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^182-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^182-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Annex No I]. See now: FA of 20 June 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^182-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^182-4]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
@@ -2932,7 +3049,7 @@ The Federal Council shall set up a central office to investigate infringements c
 
 Every individual is obliged to provide the relevant agencies with the information requested in particular, as well as presenting proof and handing it over for examination as required by the implementation of this Act, its implementing provisions or the rulings based thereon; moreover, every individual must allow inspectors access to the business and to commercial and storage premises, to inspect the accounts and correspondence and to take samples.
 
-[^183-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^183-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 184
 
@@ -2940,7 +3057,7 @@ Every individual is obliged to provide the relevant agencies with the informatio
 
 The FOAG and the federal, cantonal and local authorities shall provide mutual support and exchange all the information required for fulfilling their tasks.
 
-[^184-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^184-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 185
 
@@ -2963,14 +3080,17 @@ In order to create the essential basis for implementing the Act and for monitori
 
 <sup>3</sup> The Federal Council may mandate federal or cantonal authorities or other agencies to collect data and keep a register. Remuneration is paid for this service.
 
+<sup>3bis</sup> The Federal Council may require farmers who receive financial assistance under this Act to deliver data on individual businesses that are required to reach the targets specified in paragraph 1 letters b and d. The Federal Council shall inform the public of whom it has shared the data with.[^185-4]
+
 <sup>4</sup> The federal agency responsible may process the data collected for statistical purposes.
 
-<sup>5</sup> and <sup>6</sup> …[^185-4]
+<sup>5</sup> and <sup>6</sup> …[^185-5]
 
-[^185-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^185-2]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^185-3]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^185-4]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^185-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^185-2]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^185-3]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^185-4]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^185-5]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 186
 
@@ -2997,16 +3117,16 @@ The Federal Council shall set up a standing advisory committee comprising at the
 <sup>15</sup> Article 55 comes into force only when the repeal of the Grain Act of 20 March 1959[^187-5] comes into force.
 
 [^187-1]: Inserted by No III of the FA of 24 March 2000 on the repeal of the Grain Act, in force since 1 July 2001 ([AS 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [BBl 1999 9261](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)).
-[^187-2]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^187-3]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^187-4]: [[AS 1969 1046](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 32, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex No 28, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex letter n]
+[^187-2]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187-3]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187-4]: [[AS 1969 1046](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 32; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex No 28; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex letter n]
 [^187-5]: This law was repealed on 1 July 2001.
 
 #### Art. 187a
 
 [^187a-1]
 
-[^187a-1]: Inserted by No III of the FA of 24 March 2000 on the Repeal of the Grain Act ([AS 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [BBl 1999 9261](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187a-1]: Inserted by No III of the FA of 24 March 2000 on the Repeal of the Grain Act ([AS 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [BBl 1999 9261](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 187b
 
@@ -3020,11 +3140,11 @@ The Federal Council shall set up a standing advisory committee comprising at the
 
 <sup>8</sup> …[^187b-5]
 
-[^187b-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^187b-2]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187b-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^187b-2]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^187b-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^187b-4]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^187b-5]: Inserted by No I 15 of the FA of 19 Dec 2003 on the 2003 Programme for Reducing the Federal Budget ([AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)). Repealed by No I of the FA of 22 June 2007, with effect from 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814)6107; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^187b-4]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187b-5]: Inserted by No I 15 of the FA of 19 Dec 2003 on the 2003 Programme for Reducing the Federal Budget ([AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)). Repealed by No I of the FA of 22 June 2007, with effect from 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814), 6107; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 187c
 
@@ -3035,7 +3155,7 @@ The Federal Council shall set up a standing advisory committee comprising at the
 <sup>2</sup> …[^187c-2]
 
 [^187c-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^187c-2]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187c-2]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 187d
 
@@ -3055,8 +3175,18 @@ When drawing up the aims and strategies mentioned in paragraph 2, the following 
 
 <sup>4</sup> On the basis of reports, the Confederation and the cantons shall examine whether the aims mentioned in paragraph 2 have been achieved and, if necessary, take corresponding measures.
 
-[^187d-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187d-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^187d-2]: BBl **2013** 3463
+
+#### Art. 187e
+
+**Transitional provisions to the Amendment of 16 June 2023**[^187e-1]
+
+<sup>1</sup> …
+
+<sup>2</sup> The previous law applies to procedures against decisions by appeals commissions of certification or inspection bodies (as described in Article 166 paragraph 1) that are pending when this Amendment enters into force.
+
+[^187e-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Chapter 3 Referendum and Commencement
 
@@ -3068,7 +3198,7 @@ When drawing up the aims and strategies mentioned in paragraph 2, the following 
 
 <sup>3</sup> Articles 40–42 apply until 31 December 2008.[^188-1]
 
-Commencement date:[^188-2] 1 Jananuary 1999 Articles 28–45 and Annex letters l–n: 1 May 1999 Article 160 paragraph 7 and Annex No 7: 1 August 1999
+Commencement date:[^188-2] 1 January 1999 Articles 28–45 and Annex letters l–n: 1 May 1999 Article 160 paragraph 7 and Annex No 7: 1 August 1999
 
 [^188-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^188-2]: FCD of 7 Dec. 1998.
@@ -3115,4 +3245,4 @@ The following are repealed:
 
 ...[^annexu1-lvlu1-lvlu2-1]
 
-[^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)..
+[^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033).

@@ -4,11 +4,11 @@ title: "Legge federale del 29 aprile 1998 sull'agricoltura (Legge sull'agricoltu
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20240101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20250101-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20240101/it"
 
 (Legge sull’agricoltura, LAgr)
 
-del 29 aprile 1998 (Stato 1° gennaio 2024)
+del 29 aprile 1998 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 45, 46 capoverso 1, 102–104, 120, 123 e 147 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 26 giugno 1996[^ingress-3],
+visti gli articoli 45, 46 capoverso 1, 102–104*a*, 120, 123 e 147 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 26 giugno 1996[^ingress-3],
 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta l’all. n. II 6 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^ingress-3]: [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)
 
 ## Titolo primo: Principi generali
@@ -43,7 +43,7 @@ La Confederazione opera affinché l’agricoltura, tramite una produzione ecolog
 - d. garantire un’occupazione decentralizzata del territorio;
 - e.[^1-1] garantire il benessere degli animali.
 
-[^1-1]: Introdotta dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^1-1]: Introdotta della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 2
 
@@ -58,7 +58,7 @@ La Confederazione prende segnatamente i seguenti provvedimenti:
 - b<sup>bis</sup>.[^2-2] sostiene la gestione sostenibile delle risorse naturali e promuove una produzione che rispetti gli animali e l’ambiente;
 - c. provvede a uno sviluppo socialmente sostenibile dell’agricoltura;
 - d. sostiene i miglioramenti strutturali;
-- e.[^2-3] promuove la ricerca e la consulenza agricole nonché la coltivazione delle piante e l’allevamento di animali;
+- e.[^2-3] promuove la ricerca, la valorizzazione dei suoi risultati e la consulenza nell’agricoltura e nella filiera alimentare nonché la coltivazione delle piante e l’allevamento di animali;
 - f. disciplina la protezione dei vegetali e l’impiego di mezzi di produzione[^2-4].
 
 <sup>2</sup> I provvedimenti della Confederazione presuppongono, per quanto ragionevolmente esigibile, misure di solidarietà da parte degli interessati. Sono coordinati tramite gli strumenti della politica regionale.
@@ -67,15 +67,18 @@ La Confederazione prende segnatamente i seguenti provvedimenti:
 
 <sup>4</sup> Essi si fondano sul principio della sovranità alimentare, al fine di tenere conto delle esigenze dei consumatori nell’offerta di prodotti indigeni di elevata qualità, variati e sostenibili.[^2-6]
 
-<sup>5</sup> Sono esclusi i provvedimenti di sostegno che possono comportare una distorsione della concorrenza ai danni dell’attività artigianale e industriale. Le procedure sono rette dall’articolo 89*a*. Il Consiglio federale disciplina i dettagli.[^2-7]
+<sup>4bis</sup> I provvedimenti della Confederazione sostengono la digitalizzazione nell’agricoltura e nella filiera alimentare.[^2-7]
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-2]: Introdotta dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-4]: Nuova espr. giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-5]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-6]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^2-7]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+<sup>5</sup> Sono esclusi i provvedimenti di sostegno che possono comportare una distorsione della concorrenza ai danni dell’attività artigianale e industriale. Le procedure sono rette dall’articolo 89*a*. Il Consiglio federale disciplina i dettagli.[^2-8]
+
+[^2-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^2-2]: Introdotta della cifra I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^2-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^2-4]: Nuova espr. giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-5]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^2-6]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^2-7]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^2-8]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 3
 
@@ -93,13 +96,17 @@ L’agricoltura comprende:
 
 <sup>2</sup> All’orticoltura esercitata a titolo professionale si applicano i provvedimenti del capitolo 1 del titolo secondo come pure quelli dei titoli dal quinto al settimo.[^3-2]
 
-<sup>3</sup> I provvedimenti del capitolo 1 del titolo secondo, del titolo quinto e del capitolo 2 del titolo settimo si applicano alla pesca professionale e alla piscicoltura.
+<sup>3</sup> Alla pesca professionale si applicano i provvedimenti del capitolo 1 del titolo secondo, del titolo quinto e del capitolo 4 del titolo settimo.[^3-3]
 
-<sup>4</sup> All’apicoltura si applicano i provvedimenti del capitolo 1 del titolo secondo, del titolo sesto e del capitolo 2 del titolo settimo.[^3-3]
+<sup>3bis</sup> Ai prodotti dell’acquacoltura, alle alghe, agli insetti e agli altri organismi viventi che non sono prodotti valorizzabili derivanti dalla coltivazione vegetale e dalla tenuta di animali da reddito e che servono per l’alimentazione umana e animale si applicano i provvedimenti del capitolo 1 del titolo secondo, del titolo quinto, del titolo sesto e del capitolo 4 del titolo settimo. Questi provvedimenti presuppongono un’attività di cui al capoverso 1 lettere a‒c.[^3-4]
 
-[^3-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^3-2]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^3-3]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+<sup>4</sup> All’apicoltura si applicano i provvedimenti del capitolo 1 del titolo secondo, del titolo sesto e del capitolo 2 del titolo settimo.[^3-5]
+
+[^3-1]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^3-2]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^3-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^3-4]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^3-5]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 4
 
@@ -111,7 +118,7 @@ L’agricoltura comprende:
 
 <sup>3</sup> Il Consiglio federale stabilisce i criteri di delimitazione delle zone.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 5
 
@@ -143,7 +150,7 @@ I mezzi finanziari per i settori di compiti più importanti sono stanziati al ma
 
 <sup>5</sup> Il Consiglio federale può delegare singoli compiti, come la verifica dei provvedimenti di riduzione delle perdite di azoto e di fosforo, il monitoraggio dei risultati o la consulenza, a un’agenzia dell’economia privata e sostenerne finanziariamente l’attività.
 
-[^6a-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^6a-1]: Introdotto della cifra I n. 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 [^6a-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl).
 
 #### Art. 6b
@@ -166,7 +173,7 @@ I mezzi finanziari per i settori di compiti più importanti sono stanziati al ma
 
 <sup>8</sup> Se si prevede che gli obiettivi di riduzione secondo il capoverso 2 non saranno raggiunti, il Consiglio federale prende i provvedimenti necessari al più tardi due anni prima della scadenza del termine, in particolare revocando l’approvazione di principi attivi che presentano un rischio particolarmente elevato.
 
-[^6b-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^6b-1]: Introdotto della cifra I n. 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ## Titolo secondo: Condizioni quadro per la produzione e lo smercio
 
@@ -178,7 +185,7 @@ I mezzi finanziari per i settori di compiti più importanti sono stanziati al ma
 
 <sup>2</sup> A tale proposito, tiene conto delle esigenze della sicurezza dei prodotti, della protezione dei consumatori e dell’approvvigionamento del Paese.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Capitolo 1: Disposizioni economiche generali
 
@@ -194,7 +201,7 @@ I mezzi finanziari per i settori di compiti più importanti sono stanziati al ma
 
 <sup>2</sup> Per organizzazione di categoria s’intende l’associazione dei produttori di singoli prodotti o di gruppi di prodotti con i trasformatori e, se è il caso, con i commercianti.
 
-[^8-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^8-1]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 8a
 
@@ -208,7 +215,7 @@ I mezzi finanziari per i settori di compiti più importanti sono stanziati al ma
 
 <sup>4</sup> Per i prezzi al consumo non possono essere fissati prezzi indicativi.
 
-[^8a-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^8a-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 9
 
@@ -228,10 +235,10 @@ Qualora le misure di solidarietà di cui all’articolo 8 capoverso 1 decise col
 
 <sup>4</sup> I prodotti in vendita diretta non possono essere sottoposti alle prescrizioni di cui al capoverso 1 e i venditori diretti non possono essere assoggettati all’obbligo di contribuzione secondo il capoverso 2 per i quantitativi smerciati in vendita diretta.
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^9-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^9-3]: Per. introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^9-4]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^9-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^9-3]: Per. introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^9-4]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 10
 
@@ -239,7 +246,7 @@ Qualora le misure di solidarietà di cui all’articolo 8 capoverso 1 decise col
 
 Il Consiglio federale può emanare prescrizioni concernenti la qualità e disciplinare i procedimenti di fabbricazione dei prodotti agricoli e dei relativi prodotti trasformati, qualora sia necessario per esportare tali prodotti oppure per rispettare gli impegni internazionali della Svizzera o norme internazionali essenziali per l’agricoltura svizzera.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 11
 
@@ -264,7 +271,7 @@ Possono essere sostenuti segnatamente:
 
 <sup>4</sup> Il Consiglio federale stabilisce le condizioni per il sostegno.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 12
 
@@ -278,8 +285,8 @@ Possono essere sostenuti segnatamente:
 
 <sup>4</sup> Il Consiglio federale determina i criteri per la ripartizione dei mezzi finanziari.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^12-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 13
 
@@ -315,10 +322,10 @@ Il Consiglio federale può, nell’interesse dell’affidabilità e allo scopo d
 <sup>5</sup> L’impiego di tali simboli è obbligatorio nelle campagne di promozione dello smercio condotte con provvedimenti secondo l’articolo 12.[^14-5]
 
 [^14-1]: Introdotto dall’all. n. 8 della L sull’ingegneria genetica del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^14-2]: Introdotta dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^14-2]: Introdotta della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^14-3]: Nuovo testo giusta l’all. n. 8 della L sull’ingegneria genetica del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^14-4]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^14-5]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^14-4]: Introdotto della cifra I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^14-5]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 15
 
@@ -337,7 +344,7 @@ Il Consiglio federale disciplina:
 
 <sup>4</sup> Può riconoscere designazioni di prodotti esteri se si fondano su requisiti equivalenti.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 16
 
@@ -358,20 +365,20 @@ Disciplina in particolare:
 
 <sup>3</sup> Le denominazioni d’origine e le indicazioni geografiche registrate non possono fungere da designazioni di categoria. Le designazioni di categoria non possono essere registrate quali denominazioni d’origine o indicazioni geografiche.
 
-<sup>4</sup> Se il nome di un Cantone o di una località viene utilizzato in una denominazione d’origine o in un’indicazione geografica, occorre garantire che la registrazione concordi anche con un eventuale disciplinamento cantonale.
+<sup>4</sup> ...[^16-2]
 
-<sup>5</sup> Le denominazioni d’origine e le indicazioni geografiche registrate non possono essere registrate quali marchi per prodotti se è adempiuta una fattispecie di cui al capoverso 7.[^16-2]
+<sup>5</sup> Le denominazioni d’origine e le indicazioni geografiche registrate non possono essere registrate quali marchi per prodotti se è adempiuta una fattispecie di cui al capoverso 7.[^16-3]
 
-<sup>5bis</sup> Se è stata presentata una domanda di registrazione di una denominazione d’origine o di un’indicazione geografica e per un prodotto identico o comparabile è depositato un marchio contenente una denominazione d’origine o un’indicazione geografica identica o simile, la procedura d’esame del marchio è sospesa fino al passaggio in giudicato della decisione relativa alla domanda di registrazione della denominazione d’origine o dell’indicazione geografica.[^16-3]
+<sup>5bis</sup> Se è stata presentata una domanda di registrazione di una denominazione d’origine o di un’indicazione geografica e per un prodotto identico o comparabile è depositato un marchio contenente una denominazione d’origine o un’indicazione geografica identica o simile, la procedura d’esame del marchio è sospesa fino al passaggio in giudicato della decisione relativa alla domanda di registrazione della denominazione d’origine o dell’indicazione geografica.[^16-4]
 
 <sup>6</sup>
 
 Chi utilizza nomi di una denominazione d’origine o di un’indicazione geografica registrata per prodotti agricoli uguali o dello stesso genere o per i relativi prodotti trasformati deve adempiere l’elenco degli obblighi di cui al capoverso 2 lettera b. Questo obbligo non si applica all’utilizzazione di marchi identici o analoghi a una denominazione d’origine o a un’indicazione geografica depositata o registrata in buona fede o i cui diritti sono stati acquistati mediante l’uso in buona fede:
 
 - a. prima del 1° gennaio 1996; o
-- b. prima che il nome della denominazione d’origine o dell’indicazione geografica registrata fosse protetto secondo la presente legge o in virtù di un’altra base legale se il marchio non è colpito dai motivi di nullità o di estinzione previsti dalla legge del 28 agosto 1992[^16-4] sulla protezione dei marchi.[^16-5]
+- b. prima che il nome della denominazione d’origine o dell’indicazione geografica registrata fosse protetto secondo la presente legge o in virtù di un’altra base legale se il marchio non è colpito dai motivi di nullità o di estinzione previsti dalla legge del 28 agosto 1992[^16-5] sulla protezione dei marchi.[^16-6]
 
-<sup>6bis</sup> Nel giudicare se l’utilizzazione di un marchio acquisito in buona fede sia lecita secondo il capoverso 6 occorre tener conto in particolare se vi è rischio d’inganno o di violazione della concorrenza leale.[^16-6]
+<sup>6bis</sup> Nel giudicare se l’utilizzazione di un marchio acquisito in buona fede sia lecita secondo il capoverso 6 occorre tener conto in particolare se vi è rischio d’inganno o di violazione della concorrenza leale.[^16-7]
 
 <sup>7</sup>
 
@@ -381,11 +388,12 @@ Le denominazioni d’origine e le indicazioni geografiche registrate sono protet
 - b. qualsiasi usurpazione, imitazione o contraffazione.
 
 [^16-1]: Introdotto dall’all. n. 7 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^16-2]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^16-3]: Introdotto dall’all. n. 7 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^16-4]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^16-5]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^16-6]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^16-2]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^16-3]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^16-4]: Introdotto dall’all. n. 7 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^16-5]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^16-6]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^16-7]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 16a
 
@@ -395,7 +403,7 @@ Le denominazioni d’origine e le indicazioni geografiche registrate sono protet
 
 <sup>2</sup> Le indicazioni devono, segnatamente, essere conformi alle prescrizioni sulla protezione dagli inganni nel settore delle derrate alimentari.
 
-[^16a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° ott. 2006 ([RU 2006 3861](https://fedlex.data.admin.ch/eli/oc/2006/576); FF [FF 2004 6275](https://fedlex.data.admin.ch/eli/fga/2004/1221)[6289](https://fedlex.data.admin.ch/eli/fga/2004/1223)).
+[^16a-1]: Introdotto della cifra I della LF del 24 mar. 2006, in vigore dal 1° ott. 2006 ([RU 2006 3861](https://fedlex.data.admin.ch/eli/oc/2006/576); FF [FF 2004 6275](https://fedlex.data.admin.ch/eli/fga/2004/1221)[6289](https://fedlex.data.admin.ch/eli/fga/2004/1223)).
 
 #### Art. 16b
 
@@ -405,7 +413,7 @@ Le denominazioni d’origine e le indicazioni geografiche registrate sono protet
 
 <sup>2</sup> La Confederazione può assumersi una parte delle spese procedurali sostenute dalle rappresentanze svizzere all’estero su domanda di organizzazioni di categoria o organizzazioni di produttori o di trasformatori allo scopo di difendere le denominazioni di origine e le indicazioni geografiche.
 
-[^16b-1]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^16b-1]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 ### Sezione 3: Importazione
 
@@ -428,7 +436,7 @@ Sono vietati ai sensi del capoverso 1 i metodi di produzione non autorizzati per
 - a. della vita o della salute di persone, animali o piante; oppure
 - b. dell’ambiente.
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 19
 
@@ -439,7 +447,7 @@ Sono vietati ai sensi del capoverso 1 i metodi di produzione non autorizzati per
 <sup>2</sup> Le aliquote di dazio per lo zucchero, inclusi i contributi al fondo di garanzia (art. 16 della legge del 17 giugno 2016[^19-1] sull’approvvigionamento del Paese), ammontano ad almeno 7 franchi per 100 kg lordi. La presente disposizione è valida fino al 2026.[^19-2]
 
 [^19-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^19-2]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° mar. 2022 ([RU 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [FF 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
+[^19-2]: Introdotto della cifra I della LF del 1° ott. 2021, in vigore dal 1° mar. 2022 ([RU 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [FF 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 
 #### Art. 19a
 
@@ -453,7 +461,7 @@ Sono vietati ai sensi del capoverso 1 i metodi di produzione non autorizzati per
 
 <sup>4</sup> Se le misure collaterali richiedono risorse inferiori ai mezzi vincolati, il Consiglio federale può ridurre l’importo della destinazione vincolata.
 
-[^19a-1]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5851](https://fedlex.data.admin.ch/eli/oc/2010/833); [FF 2009 1049](https://fedlex.data.admin.ch/eli/fga/2009/308)).
+[^19a-1]: Introdotto della cifra I della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5851](https://fedlex.data.admin.ch/eli/oc/2010/833); [FF 2009 1049](https://fedlex.data.admin.ch/eli/fga/2009/308)).
 
 #### Art. 20
 
@@ -473,12 +481,12 @@ Sono vietati ai sensi del capoverso 1 i metodi di produzione non autorizzati per
 
 <sup>7</sup> Le aliquote di dazio non devono contenere elementi di protezione industriale.[^20-6]
 
-[^20-1]: Nuovo testo giusta il n. III della LF del 24 mar. 2000 concernente l’abrogazione della L sui cereali, in vigore dal 1° lug. 2001 ([RU 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [FF 1999 8173](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)).
-[^20-2]: Nuovo testo del per. giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^20-3]: Nuova espr. giusta il n. I 28 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^20-4]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^20-5]: Nuova espr. giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^20-6]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^20-1]: Nuovo testo giusta la cifra III della LF del 24 mar. 2000 concernente l’abrogazione della L sui cereali, in vigore dal 1° lug. 2001 ([RU 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [FF 1999 8173](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)).
+[^20-2]: Nuovo testo del per. giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^20-3]: Nuova espr. giusta la cifra I 28 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^20-4]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^20-5]: Nuova espr. giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^20-6]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 21
 
@@ -521,7 +529,7 @@ L’autorità competente ripartisce i contingenti doganali, segnatamente secondo
 
 <sup>6</sup> L’assegnazione dei contingenti doganali è pubblicata.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814)610; [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814)610; [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 23
 
@@ -570,13 +578,13 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 [^26-1]
 
-[^26-1]: Abrogato dal n. I della LF del 22 giu. 2007, con effetto dal 1° gen. 2010 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^26-1]: Abrogato della cifra I della LF del 22 giu. 2007, con effetto dal 1° gen. 2010 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 ### Sezione 5: Monitoraggio del mercato
 
 [^tit2-chap1-sec5-1]
 
-[^tit2-chap1-sec5-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^tit2-chap1-sec5-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 27
 
@@ -584,7 +592,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 <sup>2</sup> Designa il servizio che effettua i rilevamenti necessari e che informa il pubblico.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 ### Sezione 6: Ingegneria genetica
 
@@ -598,13 +606,13 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 <sup>2</sup> Indipendentemente da altre eventuali disposizioni, segnatamente della legislazione sull’ingegneria genetica, sulla protezione dell’ambiente e sulla protezione degli animali, il Consiglio federale può prevedere un obbligo di autorizzazione o altre misure per la produzione e lo smercio di tali prodotti o mezzi di produzione.
 
-[^27a-1]: Nuova espr. giusta il n. II 3 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^27a-1]: Nuova espr. giusta la cifra II 3 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 7: Mezzi di produzione e beni d’investimento agricoli brevettati
 
 [^tit2-chap1-sec7-1]
 
-[^tit2-chap1-sec7-1]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^tit2-chap1-sec7-1]: Introdotta della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 27b
 
@@ -618,7 +626,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 [^tit2-chap2-sec1-1]
 
-[^tit2-chap2-sec1-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit2-chap2-sec1-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 28
 
@@ -626,16 +634,16 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 <sup>1</sup> Il presente capitolo si applica al latte di mucca.
 
-<sup>2</sup> Il Consiglio federale può applicare singole disposizioni, in particolare gli articoli 38 e 39, anche al latte di capra e di pecora.[^28-2]
+<sup>2</sup> Il Consiglio federale può applicare singole disposizioni, in particolare gli articoli 38, 39 e 41, anche al latte di capra, di pecora e di bufala.[^28-2]
 
-[^28-1]: Abrogata dal n. I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^28-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^28-1]: Abrogata della cifra I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^28-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 29
 
 [^29-1]
 
-[^29-1]: Abrogato dal n. I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^29-1]: Abrogato della cifra I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Sezione 2: ...
 
@@ -643,19 +651,19 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 [^3036-1]
 
-[^3036-1]: Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^3036-1]: Abrogati della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 36a e 36b
 
 [^36a36b-1]
 
-[^36a36b-1]: Introdotti dal n. I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^36a36b-1]: Introdotti della cifra I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Abrogati della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Sezione 3: Contratto standard nel settore lattiero
 
 [^tit2-chap2-sec3-1]
 
-[^tit2-chap2-sec3-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit2-chap2-sec3-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 37
 
@@ -677,14 +685,18 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 **Supplemento per il latte trasformato in formaggio**
 
-<sup>1</sup> La Confederazione può accordare ai produttori un supplemento per il latte commerciale trasformato in formaggio.
+<sup>1</sup> Ai produttori è versato un supplemento per il latte commerciale trasformato in formaggio.[^38-1]
 
-<sup>2</sup> Il supplemento è di 15 centesimi, meno l’importo del supplemento per il latte commerciale secondo l’articolo 40. Il Consiglio federale stabilisce le condizioni alle quali il supplemento è accordato. Può rifiutare di accordare il supplemento per il formaggio con un tenore ridotto di grasso.[^38-1]
+<sup>1bis</sup> Il Consiglio federale può stabilire che il supplemento sia versato per il tramite dei valorizzatori del latte. In tal caso, la Confederazione fornisce la prestazione con effetto liberatorio.[^38-2]
 
-<sup>3</sup> Il Consiglio federale può adeguare l’importo del supplemento tenendo conto dell’evoluzione dei quantitativi.[^38-2]
+<sup>2</sup> Il supplemento è di 15 centesimi, meno l’importo del supplemento per il latte commerciale secondo l’articolo 40. Il Consiglio federale stabilisce le condizioni alle quali il supplemento è accordato. Può rifiutare di accordare il supplemento per il formaggio con un tenore ridotto di grasso.[^38-3]
 
-[^38-1]: Nuovo testo giusta l’all. 2 del DF del 15 dic. 2017 (Concorrenza e sovvenzioni all’esportazione), in vigore dal 1° gen. 2019 ([RU 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [FF 2017 3737](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
-[^38-2]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta l’all. 2 del DF del 15 dic. 2017 (Concorrenza e sovvenzioni all’esportazione), in vigore dal 1° gen. 2019 ([RU 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [FF 2017 3737](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
+<sup>3</sup> Il Consiglio federale può adeguare l’importo del supplemento tenendo conto dell’evoluzione dei quantitativi.[^38-4]
+
+[^38-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^38-2]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^38-3]: Nuovo testo giusta l’all. 2 del DF del 15 dic. 2017 (Concorrenza e sovvenzioni all’esportazione), in vigore dal 1° gen. 2019 ([RU 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [FF 2017 3737](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
+[^38-4]: Introdotto della cifra I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta l’all. 2 del DF del 15 dic. 2017 (Concorrenza e sovvenzioni all’esportazione), in vigore dal 1° gen. 2019 ([RU 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [FF 2017 3737](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
 
 #### Art. 39
 
@@ -692,12 +704,15 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 <sup>1</sup> Ai produttori è versato un supplemento per il latte prodotto senza somministrazione di insilati e trasformato in formaggio.
 
-<sup>2</sup> Il Consiglio federale stabilisce l’importo del supplemento, le condizioni e i gradi di consistenza dei formaggi nonché i formaggi che danno diritto a un supplemento. Può rifiutare di accordare un supplemento per il formaggio con un tenore ridotto di grasso.[^39-1]
+<sup>1bis</sup> Il Consiglio federale può stabilire che il supplemento sia versato per il tramite dei valorizzatori del latte. In tal caso, la Confederazione fornisce la prestazione con effetto liberatorio.[^39-1]
 
-<sup>3</sup> Il supplemento è di 3 centesimi. Il Consiglio federale può adeguare l’importo del supplemento tenendo conto dell’evoluzione dei quantitativi.[^39-2]
+<sup>2</sup> Il Consiglio federale stabilisce le condizioni alle quali il supplemento è versato e i gradi di consistenza dei formaggi nonché i formaggi che danno diritto a un supplemento. Può rifiutare di versare un supplemento per il formaggio con un tenore ridotto di grasso.[^39-2]
 
-[^39-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^39-2]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+<sup>3</sup> Il supplemento è di 3 centesimi. Il Consiglio federale può adeguare l’importo del supplemento tenendo conto dell’evoluzione dei quantitativi.[^39-3]
+
+[^39-1]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^39-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^39-3]: Introdotto della cifra I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 40
 
@@ -711,11 +726,29 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 [^40-1]: Nuovo testo giusta l’all. 2 del DF del 15 dic. 2017 (Concorrenza e sovvenzioni all’esportazione), in vigore dal 1° gen. 2019 ([RU 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632); [FF 2017 3737](https://fedlex.data.admin.ch/eli/fga/2017/1113)).
 
-#### Art. 41 e 42
+### Sezione 4*a*: Contributo per il controllo del latte
 
-[^4142-1]
+[^tit2-chap2-sec4a-1]
 
-[^4142-1]: Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit2-chap2-sec4a-1]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 41
+
+[^41-1]
+
+<sup>1</sup> Per garantire l’igiene del latte, si possono versare contributi a parziale copertura dei costi delle analisi condotte dai laboratori su incarico delle organizzazioni nazionali dell’economia lattiera.
+
+<sup>2</sup> I contributi sono versati sotto forma di contributi forfettari alle organizzazioni nazionali dell’economia lattiera.
+
+<sup>3</sup> Il Consiglio federale stabilisce le condizioni e la procedura per il versamento dei contributi.
+
+[^41-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 42
+
+[^42-1]
+
+[^42-1]: Abrogati della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Sezione 5: Provvedimenti particolari
 
@@ -734,13 +767,13 @@ Il valorizzatore del latte notifica al servizio designato dal Consiglio federale
 
 <sup>3</sup> ...[^43-1]
 
-[^43-1]: Introdotto dal il n. I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^43-1]: Introdotto dal la cifra I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Abrogato della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 44
 
 [^44-1]
 
-[^44-1]: Abrogato dal n. I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^44-1]: Abrogato della cifra I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 45
 
@@ -764,10 +797,11 @@ La Confederazione indennizza le organizzazioni dell’economia lattiera cui affi
 
 Il Consiglio federale può prevedere deroghe per:
 
-- a. le aziende sperimentali e le stazioni di ricerche agronomiche della Confederazione nonché la Scuola di avicoltura di Zollikofen e il Centro degli esami funzionali d’ingrasso e di macellazione dei suini di Sempach;
-- b.[^46-1] le aziende che svolgono un’attività d’interesse pubblico d’importanza regionale smaltendo, nell’alimentazione dei suini, sottoprodotti di aziende di trasformazione del latte e di prodotti alimentari.
+- a. la stazione di ricerca agronomica della Confederazione;
+- b. le aziende che svolgono un’attività d’interesse pubblico d’importanza regionale smaltendo, nell’alimentazione dei suini, sottoprodotti e cascami alimentari delle aziende dei settori lattiero e alimentare;
+- c. le aziende sperimentali.[^46-1]
 
-[^46-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^46-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 47
 
@@ -785,7 +819,7 @@ Il Consiglio federale può prevedere deroghe per:
 
 [^tit2-chap3-sec2-1]
 
-[^tit2-chap3-sec2-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit2-chap3-sec2-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 48
 
@@ -799,8 +833,8 @@ Il Consiglio federale può prevedere deroghe per:
 
 <sup>3</sup> Per determinati prodotti delle voci di tariffa 0206, 0210 e 1602, il Consiglio federale può rinunciare a disciplinare la ripartizione.
 
-[^48-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 e dal 1° ott. 2004 per i cpv. 1 e 2 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^48-2]: Introdotta dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^48-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 e dal 1° ott. 2004 per i cpv. 1 e 2 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^48-2]: Introdotta della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 49
 
@@ -828,7 +862,7 @@ Il Consiglio federale può:
 
 <sup>2</sup> A partire dal 2007 la Confederazione può versare ai Cantoni contributi per l’organizzazione, l’esecuzione, la sorveglianza e l’infrastruttura dei mercati pubblici situati nella regione di montagna.
 
-[^50-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^50-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 51
 
@@ -846,8 +880,8 @@ Il Consiglio federale può incaricare organizzazioni private di:
 
 <sup>3</sup> Il Consiglio federale designa un servizio che verifica se le organizzazioni private svolgono i loro compiti in modo economico.
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^51-2]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^51-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 51<sup>bis</sup>
 
@@ -855,7 +889,7 @@ Il Consiglio federale può incaricare organizzazioni private di:
 
 La Confederazione può prendere misure per valorizzare la lana di pecora. Può sostenere tale valorizzazione all’interno del Paese mediante contributi.
 
-[^51bis-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^51bis-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 52
 
@@ -863,13 +897,13 @@ La Confederazione può prendere misure per valorizzare la lana di pecora. Può s
 
 La Confederazione può versare contributi per finanziare i provvedimenti di valorizzazione a favore della produzione di uova indigene.
 
-[^52-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^52-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 53
 
 [^53-1]
 
-[^53-1]: Abrogato dal n. I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^53-1]: Abrogato della cifra I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Capitolo 4: Produzione vegetale
 
@@ -890,8 +924,8 @@ La Confederazione può versare contributi per singole colture al fine di:
 
 <sup>3</sup> I contributi possono essere versati anche per le superfici situate nel territorio estero della zona di confine secondo l’articolo 43 capoverso 2 della legge del 18 marzo 2005[^54-3] sulle dogane.
 
-[^54-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^54-2]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° mar. 2022 ([RU 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [FF 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
+[^54-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^54-2]: Introdotto della cifra I della LF del 1° ott. 2021, in vigore dal 1° mar. 2022 ([RU 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [FF 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 [^54-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 55
@@ -910,13 +944,13 @@ La Confederazione può versare contributi per singole colture al fine di:
 
 [^56-1]
 
-[^56-1]: Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^56-1]: Abrogato della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 57
 
 [^57-1]
 
-[^57-1]: Abrogato dal n. I della LF del 22 giu. 2007, con effetto dal 1° lug. 2009 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^57-1]: Abrogato della cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2009 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 58
 
@@ -924,21 +958,22 @@ La Confederazione può versare contributi per singole colture al fine di:
 
 <sup>1</sup> La Confederazione può prendere provvedimenti per valorizzare la frutta a granelli, la frutta a nocciolo, le bacche e i prodotti derivati da frutta, nonché l’uva. Può sostenere tale valorizzazione mediante contributi.
 
-<sup>2</sup> Può sostenere mediante contributi i provvedimenti collettivi dei produttori intesi ad adeguare la produzione di frutta e verdura alle esigenze dei mercati. I contributi sono versati al più tardi sino alla fine del 2017.
+<sup>2</sup> ...[^58-2]
 
-[^58-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^58-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^58-2]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 59
 
 [^59-1]
 
-[^59-1]: Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^59-1]: Abrogato della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Capitolo 5: Economia vitivinicola
 
 [^tit2-chap5-1]
 
-[^tit2-chap5-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^tit2-chap5-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 60
 
@@ -954,7 +989,7 @@ La Confederazione può versare contributi per singole colture al fine di:
 
 <sup>5</sup> Il Cantone può vietare, temporaneamente e per regione, l’impianto di nuovi vigneti per la produzione di vino se sono finanziati provvedimenti di sgravio del mercato o di riconversione di superfici viticole o se la situazione del mercato lo esige.[^60-1]
 
-[^60-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^60-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 61
 
@@ -964,11 +999,9 @@ I Cantoni tengono un catasto viticolo, secondo i principi della Confederazione, 
 
 #### Art. 62
 
-**Elenco dei vitigni**
+[^62-1]
 
-<sup>1</sup> L’UFAG esamina l’idoneità dei vitigni.
-
-<sup>2</sup> Tiene un elenco dei vitigni nel quale indica quelli raccomandati per la piantagione.
+[^62-1]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 63
 
@@ -992,7 +1025,7 @@ I vini sono suddivisi nelle categorie seguenti:
 
 <sup>6</sup> Gli articoli 16 capoversi 6, 6<sup>bis</sup> e 7, nonché 16*b* si applicano per analogia alla designazione dei vini a denominazione d’origine controllata e di altri vini con indicazione geografica.
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^63-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 64
 
@@ -1006,31 +1039,31 @@ I vini sono suddivisi nelle categorie seguenti:
 
 <sup>4</sup> L’esecuzione del controllo del commercio dei vini è affidata a un organo di controllo designato dal Consiglio federale.
 
-[^64-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^64-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 65
 
 [^65-1]
 
-[^65-1]: Abrogato dal n. I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^65-1]: Abrogato della cifra I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 66
 
 [^66-1]
 
-[^66-1]: Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^66-1]: Abrogato della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 67 a 69
 
 [^6769-1]
 
-[^6769-1]: Abrogati dal n. I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^6769-1]: Abrogati della cifra I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 ## Titolo terzo: Pagamenti diretti
 
 [^tit3-1]
 
-[^tit3-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit3-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Capitolo 1: Disposizioni generali
 
@@ -1186,10 +1219,12 @@ La Confederazione mette a disposizione dei Cantoni mezzi finanziari, per ettaro 
 Per promuovere forme di produzione particolarmente in sintonia con la natura e rispettose dell’ambiente e degli animali sono versati contributi per i sistemi di produzione. I contributi comprendono:
 
 - a. un contributo per ettaro, graduato secondo il tipo di utilizzazione per forme di produzione aziendali globali;
-- b. un contributo per ettaro, graduato secondo il tipo di utilizzazione per forme di produzione aziendali parziali;
+- b.[^75-1] un contributo, graduato secondo il tipo di utilizzazione e l’efficacia, per forme di produzione aziendali parziali;
 - c. un contributo per unità di bestiame grosso, graduato secondo le categorie di animali, per forme di produzione particolarmente rispettose degli animali.
 
 <sup>2</sup> Il Consiglio federale stabilisce le forme di produzione da promuovere.
+
+[^75-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 76
 
@@ -1231,7 +1266,7 @@ Il Consiglio federale stabilisce:
 
 [^tit3a-1]
 
-[^tit3a-1]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^tit3a-1]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 77a
 
@@ -1257,17 +1292,17 @@ I contributi sono concessi agli enti responsabili se:
 [^77b-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^77b-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## Titolo quarto: Misure sociali collaterali
+## Titolo quarto: Gestione del rischio aziendale
 
 [^tit4-1]
 
-[^tit4-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit4-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Capitolo 1: Aiuti per la conduzione aziendale
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit4-chap1-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 78
 
@@ -1279,7 +1314,7 @@ I contributi sono concessi agli enti responsabili se:
 
 <sup>3</sup> L’erogazione di fondi federali presuppone un’adeguata partecipazione finanziaria del Cantone. Le prestazioni di terzi possono essere tenute in considerazione.
 
-[^78-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^78-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 79
 
@@ -1298,8 +1333,8 @@ Il Cantone accorda l’aiuto per la conduzione aziendale quale mutuo esente da i
 
 <sup>3</sup> Se il mutuo è garantito da un diritto di pegno immobiliare, la decisione dell’autorità che accorda il mutuo può tener luogo dell’atto pubblico relativo al contratto di pegno.[^79-2]
 
-[^79-1]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^79-2]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^79-1]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^79-2]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 80
 
@@ -1317,9 +1352,9 @@ I mutui a titolo d’aiuto per la conduzione aziendale di cui all’articolo 79 
 
 <sup>3</sup> Il Consiglio federale può stabilire altre condizioni e oneri.
 
-[^80-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^80-2]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^80-3]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^80-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^80-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^80-3]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 81
 
@@ -1335,7 +1370,7 @@ I mutui a titolo d’aiuto per la conduzione aziendale di cui all’articolo 79 
 
 Se l’azienda o parte dell’azienda è alienata con utile, la parte ancora scoperta del mutuo deve essere rimborsata.
 
-[^82-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^82-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 83
 
@@ -1372,7 +1407,7 @@ Se i rimborsi e gli interessi superano il fabbisogno del Cantone, l’UFAG può 
 - a. sia restituita e accordata a un altro Cantone; o
 - b. sia messa a disposizione del Cantone per crediti d’investimento.[^85-1]
 
-[^85-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^85-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 86
 
@@ -1386,7 +1421,7 @@ Se i rimborsi e gli interessi superano il fabbisogno del Cantone, l’UFAG può 
 
 [^tit4-chap2-1]
 
-[^tit4-chap2-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit4-chap2-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 86a
 
@@ -1396,7 +1431,25 @@ Se i rimborsi e gli interessi superano il fabbisogno del Cantone, l’UFAG può 
 
 <sup>3</sup> Gli aiuti per la riqualificazione sono versati al più tardi sino alla fine del 2019.[^86a-1]
 
-[^86a-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^86a-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+
+### Capitolo 3: Contributi per la riduzione dei premi delle assicurazioni per il raccolto
+
+[^tit4-chap3-1]
+
+[^tit4-chap3-1]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 fino al 31 dic. 2032 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 86b
+
+<sup>1</sup> La Confederazione può versare contributi per la riduzione dei premi di assicurazioni per il raccolto private, purché l’assicurazione copra i rischi aventi un impatto su larga scala, come la siccità e il gelo.
+
+<sup>2</sup> I contributi sono accordati ai gestori assicurati. La Confederazione versa il contributo agli assicuratori presso i quali i gestori sono assicurati. Gli assicuratori utilizzano i contributi esclusivamente per ridurre i premi dell’assicurazione.
+
+<sup>3</sup> Il contributo federale ammonta al 30 per cento al massimo dei premi.
+
+<sup>4</sup> Il Consiglio federale stabilisce le condizioni e gli oneri per il versamento dei contributi, il loro importo e la franchigia minima degli assicurati.
+
+<sup>5</sup> Se i rischi sono assicurabili nell’ambito delle assicurazioni per il raccolto promosse, sono esclusi altri aiuti della Confederazione per il risarcimento di danni.
 
 ## Titolo quinto: Miglioramenti strutturali
 
@@ -1404,60 +1457,116 @@ Se i rimborsi e gli interessi superano il fabbisogno del Cantone, l’UFAG può 
 
 #### Art. 87
 
-**Principio**
+**Scopo**[^87-1]
+
+La Confederazione sostiene i miglioramenti strutturali tesi a:
+
+- a. rafforzare la competitività delle aziende;
+- b. migliorare le condizioni di lavoro e di vita nelle aziende;
+- c. proteggere e migliorare la capacità produttiva dell’agricoltura;
+- d. promuovere una produzione rispettosa dell’ambiente e degli animali;
+- e. rafforzare lo spazio rurale, in particolare la regione di montagna.
+
+[^87-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 87a
+
+**Provvedimenti sostenuti**[^87a-1]
 
 <sup>1</sup>
 
-La Confederazione accorda contributi e crediti d’investimento per:
+La Confederazione sostiene:
 
-- a. ridurre i costi di produzione mediante il miglioramento delle basi dell’azienda;
-- b. migliorare le condizioni di vita e le condizioni economiche nel mondo rurale, in particolare nella regione di montagna;
-- c. proteggere le terre coltive nonché gli edifici e gli impianti agricoli dalla devastazione o dalla distruzione causate da fenomeni naturali;
-- d. contribuire alla realizzazione di obiettivi ecologici nonché di obiettivi relativi alla protezione degli animali e alla pianificazione del territorio.
-- e. promuovere il ripristino dello stato naturale dei piccoli corsi d’acqua.
+- a.
 
-<sup>2</sup> ...[^87-1]
+  i seguenti provvedimenti del genio rurale nell’ambito dei miglioramenti strutturali:
 
-[^87-1]: Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+  - 1\. migliorie fondiarie,
+  - 2\. infrastrutture di trasporto utili per l’agricoltura,
+  - 3\. impianti e provvedimenti nel settore delle bonifiche fondiarie e del bilancio idrico,
+  - 4\. infrastrutture di base nello spazio rurale;
+
+- b.
+
+  i seguenti provvedimenti edilizi nell’ambito dei miglioramenti strutturali:
+
+  - 1\. edifici e impianti per la trasformazione, l’immagazzinamento o lo smercio di prodotti agricoli regionali,
+  - 2\. edifici di economia rurale, edifici abitativi e impianti agricoli,
+  - 3\. diversificazione dell’attività nei settori affini all’agricoltura;
+
+- c. progetti di sviluppo regionale;
+- d.
+
+  i seguenti provvedimenti supplementari nell’ambito dei miglioramenti strutturali:
+
+  - 1\. provvedimenti tesi a promuovere la salute degli animali nonché una produzione particolarmente rispettosa dell’ambiente e degli animali,
+  - 2\. provvedimenti tesi a promuovere la collaborazione interaziendale,
+  - 3\. provvedimenti tesi a promuovere l’acquisto di aziende e fondi agricoli.
+
+<sup>2</sup> Sono sostenuti provvedimenti collettivi e individuali.
+
+[^87a-1]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 88
 
-**Condizioni per provvedimenti collettivi di ampia portata[^88-1]**
+**Condizioni per il sostegno di provvedimenti collettivi**[^88-1]
 
-Provvedimenti collettivi di ampia portata, come il riassetto della proprietà fondiaria e le opere globali di urbanizzazione fondiaria, sono sostenuti se:
+<sup>1</sup> Sono sostenuti provvedimenti collettivi e provvedimenti collettivi di ampia portata.
 
-- a. concernono di regola una regione delimitata naturalmente o economicamente;
+<sup>2</sup>
+
+I provvedimenti collettivi sono sostenuti se le seguenti aziende sono interessate in misura determinante:
+
+- a. almeno due aziende di cui all’articolo 89 capoverso 1 lettera a;
+- b. un’azienda d’estivazione; o
+- c. una piccola azienda artigianale del primo livello di trasformazione.
+
+<sup>3</sup>
+
+I provvedimenti collettivi di ampia portata sono sostenuti se:
+
+- a. concernono una regione delimitata naturalmente o economicamente; e
 - b. promuovono la compensazione ecologica e l’interconnessione di biotopi.
 
-[^88-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^88-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 89
 
-**Condizioni per provvedimenti individuali**
+**Condizioni per il sostegno di provvedimenti individuali[^89-1]**
 
 <sup>1</sup>
 
-I provvedimenti individuali sono sostenuti se sono adempiute le seguenti condizioni:[^89-1]
+I provvedimenti individuali sono sostenuti se sono adempiute le seguenti condizioni:[^89-2]
 
-- a.[^89-2] l’azienda, eventualmente con il concorso di un’attività non agricola, consente una sopravvivenza a lungo termine e richiede per la sua gestione un adeguato volume di lavoro, ma almeno un’unità standard di manodopera;
-- b. l’azienda è gestita razionalmente;
-- c.[^89-3] dopo l’investimento, l’azienda può fornire la prova che le esigenze ecologiche sono rispettate conformemente all’articolo 70*a* capoverso 2;
-- d.[^89-4] il finanziamento e la sopportabilità dell’investimento previsto sono comprovati tenendo conto delle future condizioni quadro economiche;
+- a.[^89-3] l’azienda, eventualmente con il concorso di un’attività non agricola, consente una sopravvivenza a lungo termine e richiede per la sua gestione un adeguato volume di lavoro, ma almeno un’unità standard di manodopera;
+- b.[^89-4] il richiedente dirige l’azienda in modo economicamente efficace;
+- c.[^89-5] dopo l’investimento, l’azienda può fornire la prova che le esigenze ecologiche sono rispettate conformemente all’articolo 70*a* capoverso 2;
+- d.[^89-6] il finanziamento e la sopportabilità dell’investimento previsto sono comprovati tenendo conto delle future condizioni quadro economiche;
 - e. il richiedente impiega, per quanto ragionevolmente esigibile, mezzi e crediti propri;
-- f. il richiedente dispone di una formazione adeguata.
+- f. il richiedente dispone di una formazione adeguata;
+- g.[^89-7] il proprietario stesso gestisce la propria azienda o la gestirà dopo l’investimento;
+- h.[^89-8] l’affittuario prova che è costituito un diritto di superficie per i provvedimenti edilizi oppure, in caso di crediti d’investimento, che l’affitto è annotato nel registro fondiario, secondo l’articolo 290 del Codice delle obbligazioni[^89-9], per la durata del credito d’investimento.
 
 <sup>2</sup>
 
 Il Consiglio federale può fissare un volume di lavoro inferiore rispetto a quello di cui al capoverso 1 lettera a:
 
 - a. per garantire la gestione o una sufficiente densità di insediamento;
-- b. in caso di provvedimenti di diversificazione dell’attività nel settore agricolo e nei settori affini.[^89-5]
+- b. in caso di provvedimenti di diversificazione dell’attività nel settore agricolo e nei settori affini.[^89-10]
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^89-2]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^89-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^89-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^89-5]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+<sup>3</sup> Il Consiglio federale può prevedere eccezioni al capoverso 1 lettera g.[^89-11]
+
+[^89-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^89-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^89-3]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^89-4]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^89-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^89-6]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^89-7]: Introdotta della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^89-8]: Introdotta della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^89-9]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^89-10]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^89-11]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 89a
 
@@ -1473,7 +1582,7 @@ Il Consiglio federale può fissare un volume di lavoro inferiore rispetto a quel
 
 <sup>5</sup> La neutralità concorrenziale accertata con decisione passata in giudicato non può più essere contestata.
 
-[^89a-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^89a-1]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 90
 
@@ -1494,8 +1603,8 @@ Se l’azienda o la parte di azienda che ha beneficiato di un sostegno finanziar
 
 <sup>2</sup> I versamenti devono essere effettuati immediatamente dopo l’alienazione.
 
-[^91-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^91-2]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^91-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^91-2]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 92
 
@@ -1509,121 +1618,82 @@ I miglioramenti strutturali sono soggetti alla vigilanza del Cantone durante e d
 
 #### Art. 93
 
-**Principio**
+**Principio**[^93-1]
 
-<sup>1</sup>
+<sup>1</sup> Nei limiti dei crediti stanziati la Confederazione sostiene i miglioramenti strutturali con contributi.
 
-Nell’ambito dei crediti stanziati la Confederazione accorda contributi per:
+<sup>2</sup> I contributi ammontano al 50 per cento al massimo dei costi computabili. In casi eccezionali il contributo può essere aumentato al 60 per cento.
 
-- a. bonifiche fondiarie;
-- b. edifici agricoli;
-- c.[^93-1] il sostegno di progetti di sviluppo regionale e di promozione di prodotti indigeni e regionali ai quali l’agricoltura partecipa in modo preponderante;
-- d.[^93-2] costruzioni di piccole aziende commerciali nella regione di montagna che trasformano e commercializzano prodotti agricoli con conseguente creazione di valore aggiunto; le aziende devono comprendere almeno il primo livello di trasformazione;
-- e.[^93-3] iniziative collettive di produttori volte a ridurre i costi di produzione.
+<sup>3</sup> La concessione di un contributo federale presuppone un contributo adeguato del Cantone, incluso quello dei suoi enti locali di diritto pubblico, nonché una partecipazione minima dei responsabili del progetto.
 
-<sup>2</sup> ...[^93-4]
+<sup>4</sup> Per rimediare a conseguenze particolarmente gravi di eventi naturali straordinari, la Confederazione può accordare un contributo supplementare del 20 per cento al massimo dei costi computabili, se un adeguato sostegno del Cantone, dei Comuni e di fondi di diritto pubblico non è sufficiente per finanziare i lavori necessari.
 
-<sup>3</sup> L’assegnazione di un contributo federale presuppone un contributo adeguato del Cantone, incluso quello dei suoi enti locali di diritto pubblico.
+<sup>5</sup> Il Consiglio federale stabilisce le aliquote di contribuzione, i costi computabili e le eccezioni. Gradua l’importo dei contributi in funzione della dimensione collettiva dei provvedimenti. Può stabilire l’importo dei contributi in maniera forfettaria.
 
-<sup>4</sup> Il Consiglio federale può vincolare l’assegnazione di contributi a condizioni e oneri.
+<sup>6</sup> Il Consiglio federale può vincolare la concessione dei contributi a condizioni e oneri.
 
-[^93-1]: Introdotta dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^93-2]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^93-3]: Introdotta dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^93-4]: Abrogato dal n. I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^93-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 94
 
-**Definizioni**
+[^94-1]
 
-<sup>1</sup>
-
-Per bonifiche fondiarie s’intendono:
-
-- a. le opere e gli impianti nel settore del genio rurale;
-- b. il riordino della proprietà fondiaria e dei rapporti di affitto.
-
-<sup>2</sup>
-
-Per edifici agricoli s’intendono:
-
-- a. gli edifici d’economia rurale;
-- b. gli edifici alpestri;
-- c.[^94-1] gli edifici collettivi nella regione di montagna costruiti dai produttori per la lavorazione, l’immagazzinamento e lo smercio dei prodotti della regione.
-
-[^94-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^94-1]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 95
 
-**Bonifiche fondiarie**
+**Contributi per provvedimenti individuali**[^95-1]
 
-<sup>1</sup> La Confederazione accorda contributi per bonifiche fondiarie fino al 40 per cento dei costi. Sono considerati costi anche le spese per provvedimenti richiesti in applicazione di altre leggi federali e direttamente in rapporto con l’opera sussidiata.
+I contributi per provvedimenti individuali sono accordati per i provvedimenti secondo l’articolo 87*a* capoverso 1 lettere a numeri 2–4, b e d numero 1.
 
-<sup>2</sup>
-
-Nella regione di montagna, il Consiglio federale può aumentare il contributo fino al 50 per cento al massimo se le bonifiche:
-
-- a. non possono essere finanziate in altro modo; o
-- b. sono opere collettive d’ampia portata.
-
-<sup>3</sup> Se nemmeno un adeguato sostegno da parte del Cantone, dei Comuni e di fondi di diritto pubblico non è sufficiente per finanziare i lavori necessari, la Confederazione può accordare un contributo supplementare fino al 20 per cento per bonifiche fondiarie volte a rimediare a conseguenze particolarmente gravi di eventi naturali straordinari.
-
-<sup>4</sup> Essa può accordare contributi forfettari per il ripristino periodico di opere di bonifica fondiaria.[^95-1]
-
-[^95-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^95-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 96
 
-**Edifici agricoli**
+**Contributi per provvedimenti collettivi**[^96-1]
 
-<sup>1</sup> La Confederazione accorda contributi forfettari per la costruzione, la trasformazione e le migliorie di edifici agricoli.
+I contributi per provvedimenti collettivi sono accordati per i provvedimenti secondo l’articolo 87*a* capoverso 1 lettere a, b numeri 1 e 2, c e d numero 2.
 
-<sup>2</sup> Sono accordati contributi per gli edifici d’economia rurale di una singola azienda se essa è gestita direttamente dal proprietario.
-
-<sup>3</sup> Possono essere accordati contributi per gli edifici d’economia rurale e per gli edifici alpestri anche agli affittuari se è costituito un diritto di superficie. Il Consiglio federale stabilisce le condizioni.
+[^96-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 97
 
 **Approvazione dei progetti**
 
-<sup>1</sup> Il Cantone approva i progetti di bonifiche fondiarie, di edifici agricoli e di sviluppo regionale per i quali la Confederazione accorda contributi.[^97-1]
+<sup>1</sup> Il Cantone approva i progetti sostenuti con contributi federali.[^97-1]
 
-<sup>2</sup> Chiede sollecitamente il parere dell’UFAG.
+<sup>2</sup> Se è interessato un inventario federale, il Cantone chiede sollecitamente il parere dell’UFAG.[^97-2]
 
-<sup>3</sup> Espone pubblicamente il progetto e lo rende noto nel Foglio ufficiale cantonale. I progetti che in base al diritto federale o cantonale non necessitano di concessione o di licenza di costruzione non sono pubblicati.[^97-2]
+<sup>3</sup> Espone pubblicamente il progetto e lo rende noto nel Foglio ufficiale cantonale. I progetti che in base al diritto federale o cantonale non necessitano di concessione o di licenza di costruzione non sono pubblicati.[^97-3]
 
-<sup>4</sup> Per i progetti resi noti nel Foglio ufficiale cantonale, offre la possibilità di fare opposizione alle organizzazioni legittimate a ricorrere in virtù della legislazione sulla protezione della natura e del paesaggio, sulla protezione dell’ambiente o sui percorsi pedonali.[^97-3]
+<sup>4</sup> Per i progetti resi noti nel Foglio ufficiale cantonale, offre la possibilità di fare opposizione alle organizzazioni legittimate a ricorrere in virtù della legislazione sulla protezione della natura e del paesaggio, sulla protezione dell’ambiente o sui percorsi pedonali.[^97-4]
 
 <sup>5</sup> All’occorrenza, l’UFAG sente le altre autorità federali i cui settori d’attività sono interessati dal progetto. Comunica al Cantone le condizioni e gli oneri a cui soggiace l’assegnazione di un contributo.
 
-<sup>6</sup> Il Consiglio federale designa i progetti che non devono essere sottoposti per parere all’UFAG.
+<sup>6</sup> ...[^97-5]
 
-<sup>7</sup> L’UFAG decide in merito alla concessione di un contributo federale soltanto quando il progetto è passato in giudicato.[^97-4]
+<sup>7</sup> L’UFAG decide in merito alla concessione di un contributo federale soltanto quando il progetto è passato in giudicato.[^97-6]
 
-[^97-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^97-2]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^97-3]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^97-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^97-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^97-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^97-3]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^97-4]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^97-5]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^97-6]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 97a
 
-**Accordi di programma**[^97a-1]
+[^97a-1]
 
-<sup>1</sup> La Confederazione può accordare contributi ai Cantoni nell’ambito di accordi di programma.
-
-<sup>2</sup> I servizi federali interessati stabiliscono i loro oneri e le loro condizioni negli accordi di programma.
-
-<sup>3</sup> La procedura di approvazione di progetti sostenuti con contributi degli accordi di programma è retta dal diritto cantonale.
-
-[^97a-1]: Introdotto dal n. II 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^97a-1]: Introdotto della cifra II n. 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni) ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)). Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 98
 
 **Finanziamento**[^98-1]
 
-L’Assemblea federale stanzia con decreto federale semplice un credito d’impegno pluriennale per l’assegnazione dei contributi di cui all’articolo 93 capoverso 1.
+L’Assemblea federale stanzia con decreto federale semplice un credito d’impegno pluriennale per l’assegnazione di contributi per i provvedimenti di cui all’articolo 87*a* capoverso 1.
 
-[^98-1]: Nuovo testo giusta il n. I 15 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^98-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Sezione 2: Allacciamento di altre opere, ricomposizioni particellari
 
@@ -1641,7 +1711,7 @@ L’Assemblea federale stanzia con decreto federale semplice un credito d’impe
 
 Il governo cantonale può ordinare ricomposizioni particellari ove gli interessi dell’agricoltura siano lesi da opere pubbliche o da piani di utilizzazione
 
-[^100-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^100-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 101
 
@@ -1696,96 +1766,47 @@ I Cantoni vigilano affinché dopo un miglioramento strutturale realizzato con co
 
 #### Art. 105
 
-**Principio**
+**Principio**[^105-1]
 
-<sup>1</sup>
+<sup>1</sup> La Confederazione sostiene miglioramenti strutturali con crediti d’investimento.
 
-La Confederazione mette a disposizione dei Cantoni mezzi finanziari per crediti d’investimento per:
+<sup>2</sup> La Confederazione mette a disposizione dei Cantoni i mezzi finanziari per i crediti d’investimento.
 
-- a. provvedimenti individuali;
-- b. provvedimenti collettivi;
-- c.[^105-1] costruzioni e impianti di piccole aziende commerciali.
+<sup>3</sup> I Cantoni accordano i crediti d’investimento sotto forma di mutui esenti da interesse.
 
-<sup>2</sup> I Cantoni accordano, mediante decisione formale, crediti d’investimento sotto forma di mutui esenti da interesse.
+<sup>4</sup> I mutui devono essere rimborsati entro 20 anni al massimo.
 
-<sup>3</sup> I mutui devono essere rimborsati entro 20 anni. Il Consiglio federale disciplina i dettagli.
+<sup>5</sup> Se il mutuo è garantito da un diritto di pegno immobiliare, la decisione dell’autorità che accorda il mutuo può tener luogo dell’atto pubblico relativo al contratto di pegno.
 
-<sup>4</sup> Se il mutuo è garantito da un diritto di pegno immobiliare, la decisione dell’autorità che accorda il mutuo può tener luogo dell’atto pubblico relativo al contratto di pegno.[^105-2]
+<sup>6</sup> Il Consiglio federale stabilisce l’importo dei crediti d’investimento e le modalità di rimborso.
 
-[^105-1]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^105-2]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+<sup>7</sup> Il Consiglio federale può vincolare la concessione di crediti d’investimento a condizioni e oneri.
+
+[^105-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 106
 
-**Crediti d’investimento per provvedimenti individuali**
+**Crediti d’investimento per provvedimenti individuali**[^106-1]
 
-<sup>1</sup>
+I crediti d’investimento per provvedimenti individuali sono accordati per i provvedimenti secondo l’articolo 87*a* capoverso 1 lettere b e d numeri 1 e 3.
 
-I proprietari che gestiscono la loro azienda o la gestiranno dopo l’investimento ricevono crediti d’investimento:[^106-1]
-
-- a. come aiuto iniziale unico per giovani agricoltori;
-- b. per la costruzione, la trasformazione e le migliorie di edifici d’abitazione e edifici d’economia rurale;
-- c.[^106-2] per provvedimenti di diversificazione dell’attività nel settore agricolo e nei settori affini, allo scopo di creare ulteriori possibilità di reddito;
-- d.[^106-3] per provvedimenti destinati a migliorare la produzione di colture speciali e il loro adeguamento al mercato, nonché per la ricostituzione di colture perenni.
-
-<sup>2</sup>
-
-Gli affittuari ricevono crediti d’investimento:
-
-- a. come aiuto iniziale unico per giovani agricoltori;
-- b. per l’acquisto di aziende agricole da terzi;
-- c. per la costruzione, la trasformazione e le migliorie di edifici d’abitazione e edifici d’economia rurale se è costituito un diritto di superficie oppure se l’affitto è annotato nel registro fondiario, giusta l’articolo 290 del Codice delle obbligazioni[^106-4], per la durata del credito d’investimento e se il proprietario garantisce il credito costituendo un pegno immobiliare sull’oggetto dell’affitto;
-- d.[^106-5] per provvedimenti di diversificazione dell’attività nel settore agricolo e nei settori affini, allo scopo di creare ulteriori possibilità di reddito, sempre che siano adempiute le condizioni di cui alla lettera c;
-- e.[^106-6] per provvedimenti destinati a migliorare la produzione di colture speciali e il loro adeguamento al mercato, nonché per la ricostituzione di colture perenni, sempre che siano adempiute le condizioni di cui alla lettera c.
-
-<sup>3</sup> I crediti d’investimento sono accordati forfettariamente.
-
-<sup>4</sup> Per la costruzione di abitazioni, oltre ai crediti d’investimento possono essere impiegati anche aiuti finanziari in base alla legge federale del 4 ottobre 1974[^106-7] che promuove la costruzione di abitazioni e l’accesso alla loro proprietà e alla legge federale del 20 marzo 1970[^106-8] per il miglioramento delle condizioni d’abitazione nelle regioni di montagna.
-
-<sup>5</sup> Il Consiglio federale può stabilire condizioni e oneri nonché prevedere deroghe alla gestione diretta e alla concessione forfettaria di crediti d’investimento.[^106-9]
-
-[^106-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^106-2]: Introdotta dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^106-3]: Introdotta dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^106-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^106-5]: Introdotta dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^106-6]: Introdotta dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^106-7]: [RS 843](https://fedlex.data.admin.ch/eli/cc/1975/498_498_498)
-[^106-8]: [RS 844](https://fedlex.data.admin.ch/eli/cc/1971/172_176_176)
-[^106-9]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^106-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 107
 
-**Crediti d’investimento per provvedimenti collettivi**
+**Crediti d’investimento per provvedimenti collettivi**[^107-1]
 
-<sup>1</sup>
+<sup>1</sup> I crediti d’investimento per provvedimenti collettivi sono accordati per i provvedimenti secondo l’articolo 87*a* capoverso 1 lettere a–c e d numero 2.
 
-I crediti d’investimento sono accordati segnatamente per:
+<sup>2</sup> Per progetti collettivi importanti possono essere accordati crediti d’investimento anche sotto forma di crediti di costruzione.
 
-- a. bonifiche fondiarie;
-- b.[^107-1] la costruzione o l’acquisto in comune di edifici, attrezzature e macchine da parte di produttori, se tali misure permettono loro di razionalizzare le loro aziende, facilitare la lavorazione, l’immagazzinamento e lo smercio dei prodotti della regione o produrre energia da biomassa;
-- c.[^107-2] la costituzione di organizzazioni contadine di solidarietà nell’ambito della produzione conforme al mercato e della conduzione aziendale;
-- d.[^107-3] progetti di sviluppo regionale e la promozione di prodotti indigeni e regionali ai quali l’agricoltura partecipa in modo preponderante.
-
-<sup>2</sup> Per progetti rilevanti possono essere accordati crediti d’investimento anche sotto forma di crediti di costruzione.[^107-4]
-
-<sup>3</sup> Il Consiglio federale può stabilire condizioni e oneri.
-
-[^107-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^107-2]: Introdotta dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^107-3]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^107-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^107-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 107a
 
-**Crediti d’investimento per piccole aziende commerciali**[^107a-1]
+[^107a-1]
 
-<sup>1</sup> I crediti d’investimento sono accordati per costruzioni e impianti di piccole aziende commerciali che trasformano e commercializzano prodotti agricoli con conseguente creazione di valore aggiunto; le aziende devono comprendere almeno il primo livello di trasformazione.[^107a-2]
-
-<sup>2</sup> Il Consiglio federale può definire condizioni e oneri.
-
-[^107a-1]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^107a-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^107a-1]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 108
 
@@ -1799,8 +1820,8 @@ I crediti d’investimento sono accordati segnatamente per:
 
 <sup>3</sup> Se i crediti d’investimento sono concessi sotto forma di crediti alla costruzione secondo l’articolo 107 capoverso 2, il saldo di precedenti crediti non è preso in considerazione.
 
-[^108-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^108-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^108-1]: Introdotto della cifra I della LF del 22 mar. 2013 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^108-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 109
 
@@ -1835,49 +1856,51 @@ Le perdite derivanti dalla concessione di crediti d’investimento, comprese eve
 
 Le spese amministrative sono a carico dei Cantoni.
 
-## Titolo sesto: Ricerca e consulenza, promozione della coltivazione delle piante e dell’allevamento di animali
+## Titolo sesto: Ricerca, valorizzazione delle conoscenze e consulenza, promozione della coltivazione delle piante e dell’allevamento di animali nonché risorse genetiche
 
 [^tit6-1]
 
-[^tit6-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Capitolo 1: Principio
 
 [^tit6-chap1-1]
 
-[^tit6-chap1-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-chap1-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 113
 
-<sup>1</sup> La Confederazione sostiene mediante l’elaborazione e la trasmissione di conoscenze gli sforzi dell’agricoltura volti a produrre in modo razionale ed ecologicamente sostenibile.
+<sup>1</sup> La Confederazione promuove l’elaborazione, la valorizzazione e lo scambio di conoscenze nell’agricoltura e nella filiera alimentare, sostenendone così gli sforzi volti a produrre in modo razionale e sostenibile.[^113-1]
 
 <sup>2</sup> I mezzi finanziari sono impiegati in misura adeguata per forme di produzione particolarmente in sintonia con la natura, rispettose dell’ambiente e degli animali.
+
+[^113-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Capitolo 1*a*: Ricerca
 
 [^tit6-chap1a-1]
 
-[^tit6-chap1a-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-chap1a-1]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 114
 
-**Stazioni di ricerca**[^114-1]
+**Stazione di ricerca agronomica**[^114-1]
 
-<sup>1</sup> La Confederazione può gestire stazioni di ricerca agronomica.
+<sup>1</sup> La Confederazione gestisce una stazione di ricerca agronomica.
 
-<sup>2</sup> Le stazioni di ricerca agronomica sono ripartite in diverse regioni del Paese.
+<sup>2</sup> La stazione di ricerca agronomica si compone di un sito di ricerca principale, di centri di ricerca regionali e di stazioni sperimentali decentrate. Le stazioni sperimentali sono distribuite in diverse regioni del Paese.
 
-<sup>3</sup> Esse sono subordinate all’UFAG.
+<sup>3</sup> La stazione di ricerca agronomica è subordinata all’UFAG.
 
-[^114-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^114-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 (RU **2024** 623; FF **2020** 3567).
 
 #### Art. 115
 
-**Compiti delle stazioni di ricerca[^115-1]**
+**Compiti della stazione di ricerca agronomica[^115-1]**
 
 <sup>1</sup>
 
-Le stazioni di ricerca agronomica hanno segnatamente i seguenti compiti:[^115-2]
+La stazione di ricerca agronomica ha segnatamente i seguenti compiti:[^115-2]
 
 - a. elaborare le conoscenze scientifiche e le basi tecniche per la prassi, la formazione e la consulenza agricole;
 - b. elaborare le basi scientifiche delle decisioni di politica agricola;
@@ -1888,44 +1911,82 @@ Le stazioni di ricerca agronomica hanno segnatamente i seguenti compiti:[^115-2]
 
 <sup>2</sup> ...[^115-3]
 
-[^115-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^115-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^115-3]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogato dall’all. n. 5 della LF del 18 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^115-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^115-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^115-3]: Introdotto della cifra I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogato dall’all. n. 5 della LF del 18 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
 #### Art. 116
 
-**Accordi di prestazione, mandati di ricerca aiuti finanziari[^116-1]**
+**Aiuti finanziari e mandati di ricerca**[^116-1]
 
-<sup>1</sup> L’UFAG può conferire mandati di ricerca a istituti universitari federali e cantonali o ad altri istituti. Può concludere accordi di prestazione periodici con organizzazioni pubbliche o private.[^116-2]
+<sup>1</sup> La Confederazione può sostenere mediante aiuti finanziari organizzazioni che forniscono prestazioni nell’ambito della ricerca.
 
-<sup>2</sup> La Confederazione può sostenere mediante aiuti finanziari ricerche ed esperimenti eseguiti da organizzazioni.
+<sup>2</sup> La Confederazione può sostenere mediante aiuti finanziari progetti di ricerca.
 
-[^116-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^116-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+<sup>3</sup> Può conferire mandati di ricerca a istituti universitari federali e cantonali o ad altri istituti.
+
+[^116-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 117
 
-**Consiglio della ricerca agronomica**
+[^117-1]
 
-<sup>1</sup> Il Consiglio federale designa un Consiglio permanente della ricerca agronomica. Il Consiglio si compone di 15 membri al massimo. Le cerchie interessate, segnatamente il settore della produzione, i consumatori e la scienza, vi sono equamente rappresentate.[^117-1]
+[^117-1]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
-<sup>2</sup> Il Consiglio della ricerca agronomica fornisce all’UFAG raccomandazioni concernenti la ricerca agronomica, segnatamente in merito alla pianificazione a lungo termine.
+### Capitolo 2: Valorizzazione e scambio delle conoscenze
 
-[^117-1]: Nuovo testo giusta il n. I 6.5 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^tit6-chap2-1]
 
-### Capitolo 2: ...
+[^tit6-chap2-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
-#### Art. 118 a 135
+#### Art. 118
 
-[^118135-1]
+**Rete di contatti**[^118-1]
 
-[^118135-1]: Abrogati dall’all. n. II 5 della LF del 13 dic. 2002 sulla formazione professionale, con effetto dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+La Confederazione può versare aiuti finanziari a organizzazioni e per progetti che contribuiscono a sviluppare una rete di contatti tra la ricerca, la formazione, la consulenza e la pratica nell’agricoltura e nella filiera alimentare.
+
+[^118-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 119
+
+**Progetti pilota e progetti dimostrativi**[^119-1]
+
+La Confederazione può versare aiuti finanziari per:
+
+- a. progetti pilota che sperimentano le conoscenze scientifiche acquisite nel campo della ricerca al fine dell’applicazione pratica;
+- b. progetti dimostrativi che espongono agli operatori del settore e al pubblico le novità quanto a tecnologie, metodi, processi e servizi.
+
+[^119-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 120
+
+**Reti di competenze e d’innovazione**[^120-1]
+
+La Confederazione può versare aiuti finanziari per lo sviluppo e la gestione di reti di competenze e d’innovazione.
+
+[^120-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 121
+
+**Istituto di allevamento equino**[^121-1]
+
+<sup>1</sup> La Confederazione gestisce un istituto di allevamento equino quale centro di competenza per l’allevamento e la detenzione di cavalli. L’istituto di allevamento equino è subordinato all’UFAG.
+
+<sup>2</sup> La Confederazione stabilisce i compiti dell’istituto di allevamento equino.
+
+[^121-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+
+#### Art. 122 a 135
+
+[^122135-1]
+
+[^122135-1]: Abrogati dall’all. cifra II n. 5 della LF del 13 dic. 2002 sulla formazione professionale, con effetto dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
 ### Capitolo 2*a*: Consulenza
 
 [^tit6-chap2a-1]
 
-[^tit6-chap2a-1]: Originaria sez. 4 del cap. 2. Nuovo testo giusta l’all. n. II 5 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^tit6-chap2a-1]: Originaria sez. 4 del cap. 2. Nuovo testo giusta l’all. cifra II n. 5 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
 #### Art. 136
 
@@ -1939,38 +2000,43 @@ Le stazioni di ricerca agronomica hanno segnatamente i seguenti compiti:[^115-2]
 
 <sup>3bis</sup> La Confederazione può sostenere attività di consulenza nell’ambito di accertamenti preliminari per iniziative di progetto collettive.[^136-2]
 
-<sup>4</sup> Sono sostenute le attività di consulenza che promuovono lo scambio di conoscenze, di informazioni e di esperienze tra ricerca e prassi, tra le aziende agricole e le persone di cui al capoverso 1. Il Consiglio federale stabilisce nei dettagli i settori di attività e le categorie di prestazioni.
+<sup>4</sup> Sono sostenute le attività di consulenza che promuovono lo scambio di conoscenze, di informazioni e di esperienze tra ricerca e pratica, tra le aziende agricole e le persone di cui al capoverso 1.[^136-3] Il Consiglio federale stabilisce nei dettagli i settori di attività e le categorie di prestazioni.
 
 <sup>5</sup> Il Consiglio federale disciplina i requisiti che le organizzazioni, le istituzioni, i centri di consulenza e i consulenti da essi impiegati devono soddisfare.
 
-[^136-1]: Nuovo testo giusta il n. II 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^136-2]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^136-1]: Nuovo testo giusta la cifra II n.29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^136-2]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^136-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 137 e 138
 
 [^137138-1]
 
-[^137138-1]: Abrogati dal n. II 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^137138-1]: Abrogati della cifra II n. 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 139
 
 [^139-1]
 
-[^139-1]: Abrogato dal n. I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^139-1]: Abrogato della cifra I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Capitolo 3: Coltivazione delle piante e allevamento di animali, risorse genetiche
 
 [^tit6-chap3-1]
 
-[^tit6-chap3-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-chap3-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Sezione 1: Coltivazione delle piante
+### Sezione 1: Selezione vegetale
+
+[^tit6-chap3-sec1-1]
+
+[^tit6-chap3-sec1-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 140
 
 <sup>1</sup>
 
-La Confederazione può promuovere la coltivazione di piante utili:
+La Confederazione può promuovere la selezione di piante utili:[^140-1]
 
 - a. di alto valore ecologico;
 - b. di alto valore qualitativo; o
@@ -1978,15 +2044,18 @@ La Confederazione può promuovere la coltivazione di piante utili:
 
 <sup>2</sup>
 
-Essa può versare contributi ad aziende di coltivazione private e a organizzazioni professionali che forniscono prestazioni di interesse pubblico, in particolare per:
+Essa può versare contributi ad imprese di selezione private e a organizzazioni professionali che forniscono prestazioni di interesse pubblico, in particolare per:[^140-2]
 
-- a. la coltivazione, la conservazione della purezza e il miglioramento delle varietà;
+- a.[^140-3] la selezione, la conservazione della purezza e il miglioramento delle varietà;
 - b. le colture sperimentali;
-- c.[^140-1] ...
+- c.[^140-4] ...
 
 <sup>3</sup> Può sostenere mediante contributi la produzione di sementi e piante.
 
-[^140-1]: Abrogata dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^140-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^140-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^140-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^140-4]: Abrogata della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Sezione 2: Allevamento di animali
 
@@ -2004,7 +2073,7 @@ La Confederazione può promuovere l’allevamento di animali da reddito:
 
 <sup>2</sup> La promozione dell’allevamento deve garantire un allevamento indipendente di alta qualità.
 
-[^141-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^141-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 142
 
@@ -2020,7 +2089,7 @@ La Confederazione può versare contributi a organizzazioni riconosciute, segnata
 
 <sup>2</sup> L’allevamento di animali transgenici non dà diritto a contributi.
 
-[^142-1]: Abrogata dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^142-1]: Abrogata della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 143
 
@@ -2032,7 +2101,7 @@ I contributi sono accordati se:
 - b. gli allevatori prendono le misure di solidarietà che si possono ragionevolmente esigere da loro e partecipano finanziariamente ai provvedimenti di promozione; e
 - c. i provvedimenti promossi corrispondono alle norme internazionali.
 
-[^143-1]: Abrogata dal n. II 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^143-1]: Abrogata della cifra II n. 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 144
 
@@ -2042,13 +2111,13 @@ I contributi sono accordati se:
 
 <sup>2</sup> Il Consiglio federale disciplina le condizioni.
 
-[^144-1]: Per. abrogato dal n. II 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^144-1]: Per. abrogato della cifra II 29 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 145
 
 [^145-1]
 
-[^145-1]: Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^145-1]: Abrogato della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 146
 
@@ -2066,23 +2135,15 @@ Il Consiglio federale può emanare prescrizioni in merito all’allevamento, all
 
 #### Art. 147
 
-**Istituto di allevamento equino[^147-1]**
+[^147-1]
 
-<sup>1</sup> Per sostenere l’allevamento equino la Confederazione gestisce un apposito istituto.[^147-2]
-
-<sup>2</sup> L’istituto è subordinato all’UFAG.
-
-<sup>3</sup> ...[^147-3]
-
-[^147-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^147-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^147-3]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogato dall’all. n. 5 della LF del 18 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^147-1]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Sezione 3: Risorse genetiche per l’agricoltura e l’alimentazione
 
 [^tit6-chap3-sec3-1]
 
-[^tit6-chap3-sec3-1]: Introdotta dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit6-chap3-sec3-1]: Introdotta della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 147a
 
@@ -2102,13 +2163,13 @@ Per quanto lo esigano obblighi internazionali, il Consiglio federale disciplina 
 
 [^tit7-1]
 
-[^tit7-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Capitolo 1: Disposizioni d’esecuzione
 
 [^tit7-chap1-1]
 
-[^tit7-chap1-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-chap1-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 148
 
@@ -2116,13 +2177,13 @@ Per quanto lo esigano obblighi internazionali, il Consiglio federale disciplina 
 
 <sup>2</sup> Ciò facendo, rispetta le esigenze della sicurezza dei prodotti.[^148-1]
 
-[^148-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^148-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Capitolo 2: Misure preventive
 
 [^tit7-chap2-1]
 
-[^tit7-chap2-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-chap2-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 148a
 
@@ -2156,7 +2217,9 @@ Quali misure preventive il Consiglio federale può in particolare:
 
 <sup>1</sup> La Confederazione promuove un’adeguata pratica fitosanitaria per la protezione delle colture dagli organismi nocivi.
 
-<sup>2</sup> Il Consiglio federale emana prescrizioni per la protezione delle colture e del materiale vegetale (piante, parti di piante e prodotti vegetali) da organismi nocivi particolarmente pericolosi.
+<sup>2</sup> ...[^149-1]
+
+[^149-1]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 150
 
@@ -2166,13 +2229,15 @@ I Cantoni gestiscono un servizio fitosanitario che garantisce in particolare la 
 
 #### Art. 151
 
-**Principi della protezione dei vegetali**
+[^151-1]
 
-<sup>1</sup> Chiunque produce, importa o mette in commercio materiale vegetale deve osservare i principi della protezione dei vegetali.
+[^151-1]: Abrogato della cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
-<sup>2</sup> Ha in particolare l’obbligo di notificare gli organismi nocivi particolarmente pericolosi.
+### Sezione 2: Salute dei vegetali
 
-### Sezione 2: Provvedimenti speciali
+[^tit7-chap3-sec2-1]
+
+[^tit7-chap3-sec2-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 152
 
@@ -2180,10 +2245,10 @@ I Cantoni gestiscono un servizio fitosanitario che garantisce in particolare la 
 
 <sup>1</sup>
 
-Il Consiglio federale emana prescrizioni concernenti l’importazione e l’immissione in commercio di:
+Per proteggere colture, piante, parti di piante e prodotti vegetali (materiale vegetale) da organismi nocivi particolarmente pericolosi, il Consiglio federale emana prescrizioni sull’importazione e sull’immissione in commercio di:
 
 - a. organismi nocivi particolarmente pericolosi;
-- b. materiale vegetale e oggetti che possono veicolare organismi nocivi particolarmente pericolosi.
+- b. materiale vegetale e oggetti che possono veicolare organismi nocivi particolarmente pericolosi.[^152-1]
 
 <sup>2</sup>
 
@@ -2195,17 +2260,24 @@ Può in particolare:
 - d. vietare l’importazione e l’immissione in commercio di materiale vegetale che è o potrebbe essere infestato da organismi nocivi particolarmente pericolosi;
 - e. vietare la coltivazione di piante con forte predisposizione a veicolare organismi nocivi.
 
+<sup>2bis</sup> Chiunque produce, importa o mette in commercio materiale vegetale ha in particolare l’obbligo di notificare gli organismi nocivi particolarmente pericolosi.[^152-2]
+
 <sup>3</sup> Il Consiglio federale provvede affinché il materiale vegetale destinato all’esportazione adempia le esigenze internazionali.
+
+[^152-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^152-2]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 153
 
-**Provvedimenti di lotta**
+**Provvedimenti di lotta contro organismi nocivi particolarmente pericolosi[^153-1]**
 
 Per impedire l’introduzione e la diffusione di organismi nocivi particolarmente pericolosi, il Consiglio federale può in particolare:
 
 - a. ordinare la sorveglianza della situazione fitosanitaria;
 - b. stabilire che il materiale vegetale, gli oggetti e gli appezzamenti sospetti d’infestazione siano isolati sino al momento in cui l’infestazione possa essere esclusa;
 - c. ordinare il trattamento, la disinfezione o la distruzione di colture, materiale vegetale, mezzi di produzione e oggetti che sono o potrebbero essere infestati da organismi nocivi particolarmente pericolosi.
+
+[^153-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Sezione 3: Finanziamento della lotta contro gli organismi nocivi
 
@@ -2227,18 +2299,19 @@ La Confederazione assume di regola il 50 per cento, in situazioni straordinarie 
 
 **Indennità per danni**
 
-<sup>1</sup> Se, in seguito a provvedimenti di difesa ordinati dall’autorità oppure a disinfezioni o ad altri procedimenti analoghi, determinati oggetti perdono valore o sono distrutti, al proprietario può essere versata un’equa indennità.
+<sup>1</sup> Se, in seguito a provvedimenti ordinati dall’autorità secondo l’articolo 153, determinati oggetti perdono valore o sono distrutti, al proprietario può essere versata un’equa indennità.[^156-1]
 
 <sup>2</sup>
 
 L’indennità è fissata definitivamente secondo una procedura quanto più semplice possibile e gratuita per il danneggiato:
 
 - a. dall’UFAG, se si tratta di provvedimenti presi al confine o di provvedimenti ordinati dall’UFAG all’interno del Paese;
-- b. dalla competente autorità amministrativa cantonale, se si tratta di altri provvedimenti presi all’interno del Paese.[^156-1]
+- b. dalla competente autorità amministrativa cantonale, se si tratta di altri provvedimenti presi all’interno del Paese.[^156-2]
 
 <sup>3</sup> La Confederazione rimborsa ai Cantoni almeno un terzo delle spese cagionate dal versamento di tali indennità.
 
-[^156-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^156-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^156-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 157
 
@@ -2248,13 +2321,13 @@ L’indennità è fissata definitivamente secondo una procedura quanto più semp
 
 <sup>2</sup> Le organizzazioni private sono indennizzate per lo svolgimento di questi compiti di controllo.
 
-[^157-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^157-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 ### Capitolo 4: Mezzi di produzione
 
 [^tit7-chap4-1]
 
-[^tit7-chap4-1]: Originario cap. 2. Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-chap4-1]: Originario cap. 2. Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 158
 
@@ -2284,7 +2357,7 @@ Possono essere importati o messi in commercio soltanto mezzi di produzione che:
 
 Il Consiglio federale può emanare prescrizioni sull’importazione, l’immissione in commercio e l’utilizzazione di mezzi di produzione. Può in particolare limitare o vietare l’importazione, l’immissione in commercio e l’utilizzazione di mezzi di produzione.
 
-[^159a-1]: Introdotto dal n. I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Nuovo testo giusta l’all. n. 3 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^159a-1]: Introdotto della cifra I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Nuovo testo giusta l’all. n. 3 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 160
 
@@ -2312,8 +2385,8 @@ Può sottoporre all’obbligo d’omologazione:
 
 <sup>8</sup> È vietato l’uso di antibiotici e sostanze analoghe per aumentare le prestazioni degli animali. Il loro impiego per scopi terapeutici sottostà all’obbligo di notifica e dev’essere registrato in un giornale dei trattamenti. Per la carne importata il Consiglio federale adotta provvedimenti conformemente all’articolo 18.
 
-[^160-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^160-2]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^160-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^160-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 160a
 
@@ -2321,8 +2394,23 @@ Può sottoporre all’obbligo d’omologazione:
 
 I prodotti fitosanitari messi in commercio lecitamente nella sfera di applicazione territoriale dell’accordo del 21 giugno 1999[^160a-2] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli possono essere messi in commercio in Svizzera. Se sono messi in pericolo interessi pubblici, il Consiglio federale può limitarne o vietarne l’importazione e la messa in commercio.
 
-[^160a-1]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^160a-1]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^160a-2]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+
+#### Art. 160b
+
+**Qualità di parte in procedure concernenti i prodotti fitosanitari**[^160b-1]
+
+<sup>1</sup> Le organizzazioni legittimate a ricorrere secondo l’articolo 12 capoverso 1 lettera b della legge federale del 1° luglio 1966[^160b-2] sulla protezione della natura e del paesaggio possono richiedere la qualità di parte all’autorità di omologazione entro 14 giorni dall’informazione in merito a una procedura d’omologazione di un prodotto fitosanitario.
+
+<sup>2</sup> Chi non richiede la qualità di parte è escluso dal seguito della procedura.
+
+<sup>3</sup> Se vi è pericolo nel ritardo, l’autorità di omologazione non è tenuta a sentire le organizzazioni che hanno ottenuto la qualità di parte.
+
+<sup>4</sup> Il Consiglio federale stabilisce la procedura.
+
+[^160b-1]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^160b-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 161
 
@@ -2362,7 +2450,7 @@ Il Consiglio federale può obbligare i produttori di mezzi di produzione e le di
 
 <sup>2</sup> Il Consiglio federale disciplina la cerchia delle persone soggette all’obbligo di comunicazione e stabilisce in particolare i dati da rilevare e l’autorità cui vanno comunicati.
 
-[^164a-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^164a-1]: Introdotto della cifra I n. 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 164b
 
@@ -2372,7 +2460,7 @@ Il Consiglio federale può obbligare i produttori di mezzi di produzione e le di
 
 <sup>2</sup> Il Consiglio federale stabilisce in particolare i dati da rilevare e l’autorità cui vanno comunicati.
 
-[^164b-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^164b-1]: Introdotto della cifra I n. 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 165
 
@@ -2386,7 +2474,7 @@ Il Consiglio federale può obbligare i produttori di mezzi di produzione e le di
 
 [^tit7a-1]
 
-[^tit7a-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^tit7a-1]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ### Capitolo 1: Misure preventive
 
@@ -2535,7 +2623,7 @@ Nell’ambito dei loro compiti legali, i servizi e le persone seguenti possono a
 - c. la persona che impiega tali prodotti, ai dati che la concernono;
 - d. i terzi autorizzati dalla persona che impiega tali prodotti.
 
-[^165fbis-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^165fbis-1]: Introdotto della cifra I n. 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 165g
 
@@ -2552,7 +2640,7 @@ Per i sistemi d’informazione di cui agli articoli 165*c*–165*f* <sup>bis</su
 - g. il termine di conservazione dei dati e il termine entro il quale i dati devono essere distrutti;
 - h. l’archiviazione.
 
-[^165g-1]: Nuovo testo giusta il n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^165g-1]: Nuovo testo giusta la cifra I n. 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 165g<sup>bis</sup>
 
@@ -2562,20 +2650,22 @@ Per i sistemi d’informazione di cui agli articoli 165*c*–165*f* <sup>bis</su
 
 <sup>2</sup> Il Consiglio federale può delegare a Identitas SA (art. 7*a* LFE) compiti riguardanti l’esecuzione di misure di politica agricola. Esso disciplina la delega di compiti, l’assunzione dei costi e il trattamento dei dati.
 
-[^165gbis-1]: Introdotto dal n. II della LF del 19 giu. 2020, in vigore dal 1° gen. 2021, cpv. 2 dal 1° gen. 2022 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^165gbis-1]: Introdotto della cifra II della LF del 19 giu. 2020, in vigore dal 1° gen. 2021, cpv. 2 dal 1° gen. 2022 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 [^165gbis-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 ### Capitolo 4: Proprietà intellettuale
 
 #### Art. 165h
 
-<sup>1</sup> I diritti sui beni immateriali prodotti nell’esercizio dell’attività di servizio da persone che con l’UFAG o le stazioni di ricerca sono legate da un rapporto di lavoro ai sensi della legge del 24 marzo 2000[^165h-1] sul personale federale appartengono alla Confederazione; la presente disposizione non si applica ai diritti d’autore.
+<sup>1</sup> I diritti sui beni immateriali prodotti nell’esercizio dell’attività di servizio da persone che con l’UFAG o la stazione di ricerca agronomica sono legate da un rapporto di lavoro ai sensi della legge del 24 marzo 2000[^165h-1] sul personale federale appartengono alla Confederazione; la presente disposizione non si applica ai diritti d’autore.[^165h-2]
 
-<sup>2</sup> I diritti esclusivi d’uso di programmi informatici prodotti nell’esercizio dell’attività di servizio da persone secondo il capoverso 1 appartengono all’UFAG o alle stazioni di ricerca. L’UFAG e le stazioni di ricerca possono pattuire contrattualmente con gli aventi diritto la cessione dei diritti d’autore su altre categorie di opere.
+<sup>2</sup> I diritti esclusivi d’uso di programmi informatici prodotti nell’esercizio dell’attività di servizio da persone secondo il capoverso 1 appartengono all’UFAG o alla stazione di ricerca agronomica. L’UFAG e la stazione di ricerca agronomica possono pattuire contrattualmente con gli aventi diritto la cessione dei diritti d’autore su altre categorie di opere.[^165h-3]
 
 <sup>3</sup> Chi ha prodotto beni immateriali ai sensi dei capoversi 1 e 2 ha diritto a un’adeguata partecipazione all’eventuale utile realizzato con un uso commerciale.
 
 [^165h-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^165h-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^165h-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ## Titolo ottavo: Protezione giuridica, misure amministrative e disposizioni penali
 
@@ -2585,30 +2675,37 @@ Per i sistemi d’informazione di cui agli articoli 165*c*–165*f* <sup>bis</su
 
 **In generale**
 
-<sup>1</sup> Contro le decisioni di organizzazioni e ditte secondo l’articolo 180 è ammissibile il ricorso dinnanzi all’ufficio federale competente.
+<sup>1</sup> Contro le decisioni di organizzazioni e ditte secondo l’articolo 180 è ammissibile il ricorso dinnanzi all’ufficio federale competente. Contro le decisioni delle commissioni di ricorso di organismi di certificazione e d’ispezione a cui sono stati affidati i controlli dei prodotti designati secondo gli articoli 14 e 63 va interposto ricorso dinanzi al Tribunale amministrativo federale.[^166-1]
 
-<sup>2</sup> Contro le decisioni prese in applicazione della presente legge e delle relative disposizioni d’esecuzione dagli uffici federali, dai dipartimenti e dalle autorità cantonali di ultima istanza è ammissibile il ricorso al Tribunale amministrativo federale; fanno eccezione le decisioni cantonali concernenti i miglioramenti strutturali.[^166-1]
+<sup>2</sup> Contro le decisioni prese dagli uffici federali, dai dipartimenti e dalle autorità cantonali di ultima istanza in applicazione della presente legge e delle relative disposizioni d’esecuzione nonché dell’Accordo del 21 giugno 1999[^166-2] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli è ammissibile il ricorso al Tribunale amministrativo federale; fanno eccezione le decisioni cantonali concernenti i miglioramenti strutturali.[^166-3]
 
-<sup>2bis</sup> Prima di decidere su ricorsi concernenti l’importazione, l’esportazione o l’immissione in commercio di prodotti fitosanitari, il Tribunale amministrativo federale sente gli organi di valutazione che hanno partecipato alla procedura di precedente istanza.[^166-2]
+<sup>2bis</sup> Prima di decidere su ricorsi concernenti l’importazione, l’esportazione o l’immissione in commercio di prodotti fitosanitari, il Tribunale amministrativo federale sente gli organi di valutazione che hanno partecipato alla procedura di precedente istanza.[^166-4]
 
-<sup>3</sup> L’ufficio federale competente può avvalersi dei mezzi di ricorso del diritto federale e cantonale contro le decisioni delle autorità cantonali in applicazione della presente legge e delle relative disposizioni d’esecuzione.
+<sup>3</sup> L’ufficio federale competente può avvalersi dei mezzi di ricorso del diritto cantonale e federale contro le decisioni prese dalle autorità cantonali in applicazione della presente legge e delle relative disposizioni d’esecuzione nonché dell’Accordo tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli.[^166-5]
 
 <sup>4</sup> Le autorità cantonali notificano le loro decisioni sollecitamente e gratuitamente all’ufficio federale competente. Il Consiglio federale può prevedere eccezioni.
 
-[^166-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^166-2]: Introdotto dall’all. n. II 4 della L del 15 dic. 2000 sui prodotti chimici ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)**)**. Nuovo testo giusta l’all. n. 125 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^166-1]: Per. introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^166-2]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^166-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^166-4]: Introdotto dall’all. cifra II n. 4 della L del 15 dic. 2000 sui prodotti chimici ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)**)**. Nuovo testo giusta l’all. n. 125 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^166-5]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 167
 
 [^167-1]
 
-[^167-1]: Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^167-1]: Abrogato della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 168
 
 **Procedura d’opposizione**
 
-Il Consiglio federale può prevedere nelle disposizioni d’esecuzione una procedura d’opposizione contro le decisioni di prima istanza.
+<sup>1</sup> Il Consiglio federale può prevedere nelle disposizioni d’esecuzione una procedura d’opposizione contro le decisioni di prima istanza.
+
+<sup>2</sup> Chi non fa opposizione è escluso dal seguito della procedura.[^168-1]
+
+[^168-1]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Capitolo 2: Misure amministrative
 
@@ -2640,9 +2737,9 @@ Al fine di ripristinare la situazione legale possono inoltre essere prese le mis
 - c. obbligo di ritirare o di richiamare prodotti oppure di avvertire il pubblico in merito a eventuali rischi legati ai prodotti;
 - d. neutralizzazione, confisca o distruzione dei prodotti.[^169-3]
 
-[^169-1]: Introdotta dal n. I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^169-2]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^169-3]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^169-1]: Introdotta della cifra I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^169-2]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^169-3]: Introdotto della cifra I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 170
 
@@ -2656,8 +2753,8 @@ Al fine di ripristinare la situazione legale possono inoltre essere prese le mis
 
 <sup>3</sup> Il Consiglio federale disciplina le riduzioni in caso di violazione delle prescrizioni in materia di pagamenti diretti e di produzione vegetale.[^170-2]
 
-[^170-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^170-2]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^170-1]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^170-2]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 171
 
@@ -2677,7 +2774,7 @@ Al fine di ripristinare la situazione legale possono inoltre essere prese le mis
 
 <sup>3</sup> Nelle procedure eseguite ai sensi del capoverso 1 dalle autorità in materia di concorrenza, gli articoli 8 e 31 della legge del 6 ottobre 1995 sui cartelli non sono applicabili.
 
-[^171a-1]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^171a-1]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^171a-2]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
 [^171a-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 
@@ -2687,12 +2784,13 @@ Al fine di ripristinare la situazione legale possono inoltre essere prese le mis
 
 **Delitti e crimini**[^172-1]
 
-<sup>1</sup> Chiunque usa illecitamente una denominazione d’origine protetta o un’indicazione geografica protetta secondo l’articolo 16 oppure una classificazione o designazione secondo l’articolo 63 è punito a querela di parte con una pena detentiva sino a un anno o con una pena pecuniaria. In materia di classificazione e designazione secondo l’articolo 63, il diritto di querela spetta anche all’organo di controllo designato dal Consiglio federale secondo l’articolo 64 capoverso 4 e agli organi di controllo istituiti dai Cantoni.
+<sup>1</sup> Chiunque usa illecitamente una denominazione d’origine protetta o un’indicazione geografica protetta secondo l’articolo 16 oppure una classificazione o designazione secondo l’articolo 63 è punito a querela di parte con una pena detentiva sino a un anno o con una pena pecuniaria. In materia di classificazione e designazione secondo l’articolo 63, il diritto di querela spetta anche all’organo di controllo designato dal Consiglio federale secondo l’articolo 64 capoverso 4.[^172-2]
 
-<sup>2</sup> Chi agisce per mestiere è perseguito d’ufficio. È punito con una pena detentiva sino a cinque anni o con una pena pecuniaria. ...[^172-2]
+<sup>2</sup> Chi agisce per mestiere è perseguito d’ufficio. È punito con una pena detentiva sino a cinque anni o con una pena pecuniaria. ...[^172-3]
 
-[^172-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^172-2]: Terzo per. introdotto dal n. I della LF del 22 mar. 2013 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)). Abrogato dal n. I 33 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^172-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^172-2]: Nuovo testo del secondo per. giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^172-3]: Terzo per. introdotto della cifra I della LF del 22 mar. 2013 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)). Abrogato della cifra I n. 33 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 173
 
@@ -2710,17 +2808,17 @@ Per quanto un’altra disposizione non commini una pena più severa, è punito c
 - c<sup>bis</sup>.[^173-5] non si conforma alle esigenze di cui all’articolo 27*a* capoverso 1 o non ottempera al regime d’autorizzazione istituito in virtù dell’articolo 27*a* capoverso 2 o contravviene alle misure ordinate;
 - d. in una procedura per l’attribuzione di contributi o di un contingente fornisce indicazioni inveritiere o ingannevoli;
 - e. fabbrica o mette in commercio latte o latticini senza rispettare le prescrizioni o le decisioni che la Confederazione ha emanato sulla base della presente legge;
-- f.[^173-6] impianta vigneti senza autorizzazione, non osserva le disposizioni sulla classificazione o non ottempera ai suoi obblighi nel commercio del vino;
+- f.[^173-6] impianta vigneti senza autorizzazione, non ottempera ai suoi obblighi nel commercio del vino o viola i requisiti riguardanti i termini vinicoli specifici secondo l’articolo 63 capoverso 4;
 - g. contravviene alle prescrizioni sull’inseminazione artificiale di cui all’articolo 145;
 - g<sup>bis</sup>.[^173-7] non ottempera alle condizioni stabilite secondo l’articolo 146 relativamente alle importazioni di animali da allevamento, sperma, ovuli ed embrioni;
 - g<sup>ter</sup>.[^173-8] contravviene alle prescrizioni emanate secondo l’articolo 146*a* in merito all’allevamento, all’importazione o alla messa in commercio di animali da reddito geneticamente modificati;
-- g<sup>quater</sup>.[^173-9] contravviene alle misure preventive emanate secondo l’articolo 148*a*;
-- h. contravviene alle prescrizioni sulla protezione delle piante utili emanate in base agli articoli 151, 152 o 153;
-- i.[^173-10] non osserva le istruzioni per l’uso di cui all’articolo 159 capoverso 2 o le prescrizioni per l’uso di cui all’articolo 159*a*;
-- k.[^173-11] senza omologazione, produce, importa, immagazzina, trasporta, mette in commercio, offre o pubblicizza mezzi di produzione sottoposti all’obbligo d’omologazione (art. 160), utilizza antibiotici e sostanze analoghe per aumentare le prestazioni degli animali o non ne notifica l’impiego per scopi terapeutici (art. 160 cpv. 8);
-- k<sup>bis</sup>.[^173-12] senza essere omologato o registrato al servizio competente, produce, importa, immagazzina, trasporta, mette in commercio, offre o pubblicizza mezzi di produzione;
-- k<sup>ter</sup>.[^173-13] contravviene alle disposizioni emanate secondo l’articolo 161 concernenti la caratterizzazione e l’imballaggio dei mezzi di produzione;
-- k<sup>quater</sup>.[^173-14] importa, immagazzina, trasporta, mette in commercio, offre o pubblicizza mezzi di produzione vietati (art. 159*a*);
+- g<sup>quater</sup>.[^173-9] contravviene alle misure preventive emanate secondo l’articolo 148*a* o 165*a*;
+- h.[^173-10] contravviene alle prescrizioni volte a preservare la salute dei vegetali emanate in base agli articoli 152, 153 o 153*a*[^173-11];
+- i.[^173-12] non osserva le istruzioni per l’uso di cui all’articolo 159 capoverso 2 o le prescrizioni per l’uso di cui all’articolo 159*a*;
+- k.[^173-13] senza omologazione, produce, importa, immagazzina, trasporta, mette in commercio, offre o pubblicizza mezzi di produzione sottoposti all’obbligo d’omologazione (art. 160), utilizza antibiotici e sostanze analoghe per aumentare le prestazioni degli animali o non ne notifica l’impiego per scopi terapeutici (art. 160 cpv. 8);
+- k<sup>bis</sup>.[^173-14] senza essere omologato o registrato al servizio competente, produce, importa, immagazzina, trasporta, mette in commercio, offre o pubblicizza mezzi di produzione;
+- k<sup>ter</sup>.[^173-15] contravviene alle disposizioni emanate secondo l’articolo 161 concernenti la caratterizzazione e l’imballaggio dei mezzi di produzione;
+- k<sup>quater</sup>.[^173-16] importa, immagazzina, trasporta, mette in commercio, offre o pubblicizza mezzi di produzione vietati (art. 159*a*);
 - l. importa, utilizza o mette in commercio materiale di moltiplicazione vegetale di una specie che non figura in un catalogo delle varietà (art. 162);
 - m. non rispetta le distanze di sicurezza di cui all’articolo 163;
 - n. non fornisce le indicazioni di cui all’articolo 164;
@@ -2732,28 +2830,30 @@ Per quanto un’altra disposizione non commini una pena più severa, è punito c
 
 Per quanto un’altra disposizione non commini una pena più severa, è punito con la multa sino a 5000 franchi chiunque intenzionalmente:
 
-- a.[^173-15] ...
+- a.[^173-17] ...
 - b. viola una disposizione d’esecuzione, la cui infrazione è stata dichiarata passibile di pena.
 
 <sup>4</sup> Il tentativo e la complicità sono punibili.
 
 <sup>5</sup> Nei casi di esigua gravità si può prescindere dal perseguimento penale e da ogni pena.
 
-[^173-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^173-3]: Introdotta dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^173-4]: Introdotta dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^173-5]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-6]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^173-7]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-8]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-9]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-10]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-11]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-12]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-13]: Introdotta dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^173-14]: Introdotta dall’all. n. 3 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^173-15]: Abrogata dal n. I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^173-3]: Introdotta della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^173-4]: Introdotta della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^173-5]: Introdotta della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-6]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^173-7]: Introdotta della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-8]: Introdotta della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-9]: Introdotta della cifra I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^173-10]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^173-11]: L'art. entra in vigore il 1° gen. 2026.
+[^173-12]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-13]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-14]: Introdotta della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-15]: Introdotta della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^173-16]: Introdotta dall’all. n. 3 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^173-17]: Abrogata della cifra I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 174
 
@@ -2773,8 +2873,8 @@ Se l’infrazione è commessa da una persona giuridica o da una comunità di per
 
 <sup>3</sup> Se un atto costituisce contemporaneamente un’infrazione ai sensi del capoverso 2 e un’infrazione il cui perseguimento incombe all’Ufficio federale della dogana e della sicurezza dei confini, si applica la pena prevista per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^175-2]
 
-[^175-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^175-2]: Introdotto dal n. I della LF del 22 mar. 2013 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)). Nuovo testo giusta il n. I 33 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^175-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^175-2]: Introdotto della cifra I della LF del 22 mar. 2013 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)). Nuovo testo giusta la cifra I n. 33 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 176
 
@@ -2796,7 +2896,7 @@ Gli articoli 37 a 39 della legge sui sussidi del 5 ottobre 1990[^176-1] concerne
 
 <sup>2</sup> Può delegare lʼemanazione di prescrizioni di natura prevalentemente tecnica o amministrativa al DEFR e, nel settore dell’omologazione di prodotti fitosanitari, al Dipartimento federale dellʼinterno o ai suoi servizi, nonché a uffici federali subordinati.[^177-1]
 
-[^177-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 759](https://fedlex.data.admin.ch/eli/oc/2021/759)).
+[^177-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 759](https://fedlex.data.admin.ch/eli/oc/2021/759)).
 
 #### Art. 177a
 
@@ -2816,7 +2916,7 @@ L’UFAG può, d’intesa con gli altri uffici e servizi federali interessati, c
 - f. i pagamenti diretti, i provvedimenti di sostegno del mercato e i contributi di valorizzazione nelle enclave e nel Principato del Liechtenstein che sono in relazione con l’applicazione della presente legge e delle prescrizioni rilevanti per l’agricoltura della legislazione sulle epizoozie, sulla protezione degli animali, sulla protezione delle acque, sulla protezione dell’ambiente o sulla protezione della natura e del paesaggio;
 - g. i progetti nell’ambito della ricerca agraria internazionale.
 
-[^177a-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^177a-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 177b
 
@@ -2824,7 +2924,7 @@ L’UFAG può, d’intesa con gli altri uffici e servizi federali interessati, c
 
 <sup>1</sup>
 
-L’UFAG, le sue stazioni federali sperimentali e di ricerca (art. 114) come pure l’Istituto d’allevamento equino (art. 147) possono fornire a terzi prestazioni commerciali se queste:
+L’UFAG, la stazione di ricerca agronomica (art. 114) come pure l’istituto di allevamento equino (art. 121) possono fornire a terzi prestazioni commerciali se queste:[^177b-2]
 
 - a. sono strettamente correlate ai compiti principali;
 - b. non pregiudicano l’adempimento dei compiti principali; e
@@ -2833,6 +2933,7 @@ L’UFAG, le sue stazioni federali sperimentali e di ricerca (art. 114) come pur
 <sup>2</sup> Le prestazioni commerciali sono fornite sulla base di una contabilità analitica, a prezzi che consentano almeno di coprire i costi. Il DEFR può concedere deroghe per singole prestazioni, a condizione di non entrare in tal modo in concorrenza con l’economia privata.
 
 [^177b-1]: Introdotto dall’all. n. 5 della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^177b-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 178
 
@@ -2848,7 +2949,7 @@ L’UFAG, le sue stazioni federali sperimentali e di ricerca (art. 114) come pur
 
 <sup>5</sup> Per l’esecuzione dei provvedimenti nell’ambito dei pagamenti diretti, i Cantoni utilizzano dati di base definiti, registrano nel sistema d’informazione geografica di cui all’articolo 165*e* le superfici necessarie e i rispettivi utilizzi, nonché gli altri oggetti necessari, e calcolano i contributi per ogni azienda sulla scorta di tali dati.[^178-1]
 
-[^178-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^178-1]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 179
 
@@ -2856,7 +2957,9 @@ L’UFAG, le sue stazioni federali sperimentali e di ricerca (art. 114) come pur
 
 <sup>1</sup> Il Consiglio federale esercita l’alta vigilanza sull’esecuzione della legge da parte dei Cantoni.
 
-<sup>2</sup> La Confederazione può ridurre o negare i contributi ai Cantoni che eseguono manchevolmente la legge. Questo vale anche qualora il diritto di ricorso secondo l’articolo 166 capoverso 3 non sia stato esercitato.
+<sup>2</sup> Se un Cantone non esegue o esegue manchevolmente la legge, la Confederazione può chiedergli la restituzione degli aiuti finanziari oppure ridurli o negarli.[^179-1] Questo vale anche qualora il diritto di ricorso secondo l’articolo 166 capoverso 3 non sia stato esercitato.
+
+[^179-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 180
 
@@ -2864,9 +2967,12 @@ L’UFAG, le sue stazioni federali sperimentali e di ricerca (art. 114) come pur
 
 <sup>1</sup> Nell’esecuzione della legge, la Confederazione e i Cantoni possono avvalersi della collaborazione di ditte e organizzazioni o istituire apposite organizzazioni.
 
-<sup>2</sup> La collaborazione di tali ditte e organizzazioni è sottoposta alla vigilanza statale. I compiti e le attribuzioni devono essere definiti dall’autorità competente. Tali ditte e organizzazioni devono presentare a quest’ultima un rendiconto della loro gestione e contabilità. È fatto salvo il controllo parlamentare federale e cantonale.
+<sup>2</sup> La collaborazione di tali ditte e organizzazioni è sottoposta alla vigilanza statale. I compiti e le attribuzioni devono essere definiti dall’autorità competente. Tali ditte e organizzazioni devono presentare a quest’ultima un rendiconto della loro gestione e contabilità; ne sono esclusi gli organismi di certificazione a cui è stato affidato il controllo dei prodotti designati secondo l’articolo 14 della presente legge e dell’articolo 41*a* della legge forestale del 4 ottobre 1991[^180-1].[^180-2] È fatto salvo il controllo parlamentare federale e cantonale.
 
 <sup>3</sup> Il Consiglio federale e i Cantoni possono permettere alle suddette ditte e organizzazioni di riscuotere tasse adeguate per la loro attività. Le tariffe necessitano l’autorizzazione del DEFR.
+
+[^180-1]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^180-2]: Nuovo testo del terzo per. giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 181
 
@@ -2893,11 +2999,14 @@ Può fissare emolumenti per i controlli che non danno adito a contestazioni, in 
 
 <sup>6</sup> Può prevedere altri emolumenti, per quanto la Svizzera si sia impegnata a riscuoterli in virtù di un trattato internazionale.[^181-5]
 
-[^181-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^181-2]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^181-3]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^181-4]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^181-5]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+<sup>7</sup> La Confederazione può finanziare analisi di laboratorio per il controllo delle disposizioni concernenti i prodotti fitosanitari.[^181-6]
+
+[^181-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^181-2]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^181-3]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^181-4]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^181-5]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^181-6]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 182
 
@@ -2913,10 +3022,10 @@ Il Consiglio federale istituisce un servizio centrale per l’accertamento di in
 - b. importazione, transito ed esportazione di prodotti agricoli;
 - c. dichiarazione della provenienza e dei metodi di produzione.
 
-[^182-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^182-2]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6, [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^182-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^182-2]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)cifra II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^182-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^182-4]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^182-4]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 183
 
@@ -2924,7 +3033,7 @@ Il Consiglio federale istituisce un servizio centrale per l’accertamento di in
 
 Nella misura necessaria all’esecuzione della presente legge, delle relative disposizioni d’esecuzione o delle decisioni su di esse fondate, ogni persona è tenuta a fornire agli organi competenti in particolare le informazioni richieste, nonché a presentare e consegnare provvisoriamente i documenti giustificativi per permetterne la verifica; inoltre, ogni persona è tenuta a consentire l’accesso all’azienda, ai locali amministrativi e ai magazzini e a permettere l’esame dei libri contabili e della corrispondenza nonché il prelievo di campioni
 
-[^183-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^183-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 184
 
@@ -2932,7 +3041,7 @@ Nella misura necessaria all’esecuzione della presente legge, delle relative di
 
 L’UFAG e le autorità della Confederazione, dei Cantoni e dei Comuni si prestano reciproca assistenza e si scambiano tutte le informazioni necessarie all’adempimento dei loro compiti.
 
-[^184-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^184-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 185
 
@@ -2955,14 +3064,17 @@ Al fine di disporre delle basi necessarie all’esecuzione della legge e al cont
 
 <sup>3</sup> Il Consiglio federale può affidare a servizi federali, Cantoni o altri enti l’esecuzione delle rilevazioni e la tenuta dei registri. Può versare indennità a tal fine.
 
+<sup>3bis</sup> Per raggiungere gli obiettivi di cui al capoverso 1 lettere b e d, il Consiglio federale può obbligare i gestori di aziende agricole che ricevono aiuti finanziari in virtù della presente legge a fornire i dati relativi all’azienda. Il Consiglio federale rende noto a chi ha trasmesso i dati.[^185-4]
+
 <sup>4</sup> L’organo federale responsabile può elaborare a scopi statistici i dati rilevati.
 
-<sup>5</sup> e <sup>6</sup> ...[^185-4]
+<sup>5 e <sup>6</sup></sup> ...[^185-5]
 
-[^185-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^185-2]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^185-3]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^185-4]: Introdotti dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^185-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^185-2]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^185-3]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^185-4]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^185-5]: Introdotti della cifra I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogati della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 186
 
@@ -2978,45 +3090,45 @@ Il Consiglio federale istituisce una commissione consultiva permanente di 15 mem
 
 <sup>1</sup> Le disposizioni abrogate nell’allegato alla presente legge rimangono applicabili a tutte le fattispecie intervenute durante la loro validità ad eccezione delle prescrizioni procedurali.
 
-<sup>2</sup> a <sup>9</sup> ...[^187-2]
+<sup>2 a <sup>9</sup></sup> ...[^187-2]
 
 <sup>10</sup> La prova che le esigenze ecologiche sono rispettate (art. 70 cpv. 2) è applicabile al più tardi cinque anni dopo l’entrata in vigore della presente legge.
 
-<sup>11</sup> a <sup>13</sup> ... [^187-3]
+<sup>11 a <sup>13</sup></sup> ... [^187-3]
 
 <sup>14</sup> Il Consiglio federale emana prescrizioni sul ritiro degli anticipi concessi all’organismo comune secondo l’articolo 1 capoverso 2 della legge federale del 27 giugno 1969[^187-4] sulla commercializzazione del formaggio. I dipartimenti e gli uffici designati a tal fine dal Consiglio federale sono abilitati a dare istruzioni all’organismo comune sulla realizzazione degli attivi e sull’adempimento degli obblighi; le prestazioni della Confederazione presuppongono il rispetto di tali istruzioni. La scelta dei liquidatori che l’organismo comune deve nominare è subordinata all’approvazione del dipartimento designato a tale scopo dal Consiglio federale. La Confederazione copre i costi di liquidazione dell’organismo comune. Il Consiglio federale vigila affinché i responsabili di quest’ultimo non traggano profitto dalla liquidazione; parimenti, decide in quale misura il capitale azionario debba essere rimborsato.
 
 <sup>15</sup> L’articolo 55 entrerà in vigore soltanto dopo l’abrogazione della legge del 20 marzo 1959[^187-5] sui cereali.
 
-[^187-1]: Introdotto dal n. III della LF del 24 mar. 2000 concernente l’abrogazione della L sui cereali, in vigore dal 1° lug. 2001 ([RU 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [FF 1999 8173](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)).
-[^187-2]: Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^187-3]: Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^187-4]: [[RU 1969 1067](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067),[1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 32, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 28]
+[^187-1]: Introdotto della cifra III della LF del 24 mar. 2000 concernente l’abrogazione della L sui cereali, in vigore dal 1° lug. 2001 ([RU 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [FF 1999 8173](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)).
+[^187-2]: Abrogati della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187-3]: Abrogati della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187-4]: [[RU 1969 1067](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067);[1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 32; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 28]
 [^187-5]: Questa L è abrogata dal 1° lug. 2001.
 
 #### Art. 187a
 
 [^187a-1]
 
-[^187a-1]: Introdotto dal n. III della LF del 24 mar. 2000 concernente l’abrogazione della L sui cereali ([RU 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [FF 1999 8173](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)). Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187a-1]: Introdotto della cifra III della LF del 24 mar. 2000 concernente l’abrogazione della L sui cereali ([RU 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [FF 1999 8173](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)). Abrogato della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 187b
 
 **Disposizioni transitorie relative alla modifica del 20 giugno 2003**[^187b-1]
 
-<sup>1</sup> a <sup>4</sup> ...[^187b-2]
+<sup>1 a <sup>4</sup></sup> ...[^187b-2]
 
 <sup>5</sup> L’articolo 138 entra in vigore soltanto con l’entrata in vigore della legge del 13 dicembre 2002[^187b-3] sulla formazione professionale.
 
-<sup>6</sup> e <sup>7</sup> ...[^187b-4]
+<sup>6 e <sup>7</sup></sup> ...[^187b-4]
 
 <sup>8</sup> ...[^187b-5]
 
-[^187b-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^187b-2]: Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187b-1]: Introdotto della cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^187b-2]: Abrogati della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^187b-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^187b-4]: Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^187b-5]: Introdotto dal n. I 15 della LF del 19 dic. 2003 sul programma di sgravio 2003 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)). Abrogato dal n. I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^187b-4]: Abrogati della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187b-5]: Introdotto della cifra I 15 della LF del 19 dic. 2003 sul programma di sgravio 2003 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)). Abrogato della cifra I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 187c
 
@@ -3026,8 +3138,8 @@ Il Consiglio federale istituisce una commissione consultiva permanente di 15 mem
 
 <sup>2</sup> ... [^187c-2]
 
-[^187c-1]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^187c-2]: Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187c-1]: Introdotto della cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^187c-2]: Abrogato della cifra I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 187d
 
@@ -3047,8 +3159,18 @@ Nel formulare gli obiettivi e le strategie conformemente al capoverso 2, occorre
 
 <sup>4</sup> La Confederazione e i Cantoni esaminano, sulla base di un rapporto, se gli obiettivi di cui al capoverso 2 sono stati raggiunti e adottano all’occorrenza i provvedimenti necessari.
 
-[^187d-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^187d-1]: Introdotto della cifra I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^187d-2]: [RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)
+
+#### Art. 187e
+
+**Disposizioni transitorie relative alla modifica del 16 giugno 2023**[^187e-1]
+
+<sup>1</sup> ...
+
+<sup>2</sup> Alle procedure contro decisioni di commissioni di ricorso di organismi di certificazione e d’ispezione di cui all’articolo 166 capoverso 1 pendenti al momento dell’entrata in vigore della presente modifica si applica il diritto anteriore.
+
+[^187e-1]: Introdotto della cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025, il cpv. 1 dal 1° gen. 2026 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ### Capitolo 3: Referendum ed entrata in vigore
 
@@ -3062,7 +3184,7 @@ Nel formulare gli obiettivi e le strategie conformemente al capoverso 2, occorre
 
 Data dell’entrata in vigore: [^188-2] 1° gennaio 1999 Articoli 28 a 45 e lettere l a n dell’allegato: 1° maggio 1999 Articolo 160 capoverso 7 e numero 7 dell’allegato: 1° agosto 1999
 
-[^188-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^188-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^188-2]: DCF del 7 dic. 1998
 
 Allegato
@@ -3090,18 +3212,18 @@ Sono abrogati:
 
 [^annexu1-lvlu1-lvlu1-1]: [CS **4** 1068]
 [^annexu1-lvlu1-lvlu1-2]: [CS **4** 1017]
-[^annexu1-lvlu1-lvlu1-3]: [[RU 1953 1133](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1962 1191](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14, [1967 760](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 95](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)in fine, disp. fin. e trans. tit. X art. 6 n. 7, **1974** 763, **1975** 1204, **1977** 2249 I 921 942 931, **1979** 2060, **1982** 1676 all. n. 6, **1988** 640, **1989** 504 art. 33 lett. c, **1991** 362 II 51 2611 857 all. n. 25, **1992** 1860 art. 75 n. 5 1986 art. 36 cpv. 1, **1993** 1410 art. 92 n. 4 1571 2080 all. n. 11, **1994** 28, **1995** 1469 art. 59 n. 3 1837 3517 I 2, **1996** 2588 all. n. 2, **1997** 1187 1190, **1998** 1822 art. 15]
-[^annexu1-lvlu1-lvlu1-4]: [[RU 1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 26, [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)II 1, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)II 1]
+[^annexu1-lvlu1-lvlu1-3]: [[RU 1953 1133](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1962 1191](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14; [1967 760](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 95](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)in fine, disp. fin. e trans. tit. X art. 6 n. 7; **1974** 763; **1975** 1204; **1977** 2249 I, 921, 942, 931; **1979** 2060; **1982** 1676 all. n. 6; **1988** 640; **1989** 504 art. 33 lett. c; **1991** 362 II 51, 2611, 857 all. n. 25; **1992** 1860 art. 75 n. 5, 1986 art. 36 cpv. 1; **1993** 1410 art. 92 n. 4, 1571, 2080 all. n. 11, **1994** 28; **1995** 1469 art. 59 n. 3, 1837, 3517 I 2; **1996** 2588 all. n. 2; **1997** 1187, 1190; **1998** 1822 art. 15]
+[^annexu1-lvlu1-lvlu1-4]: [[RU 1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 26; [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)II 1; [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)II 1]
 [^annexu1-lvlu1-lvlu1-5]: [[RU 1952 585](https://fedlex.data.admin.ch/eli/oc/1952/561_581_585)]
-[^annexu1-lvlu1-lvlu1-6]: [[RU 1962 1323](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323), [1967 806](https://fedlex.data.admin.ch/eli/oc/1967/768_811_806), [1972 2532](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)II 52 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 27, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)]
-[^annexu1-lvlu1-lvlu1-7]: [[RU 1989 1904](https://fedlex.data.admin.ch/eli/oc/1989/1904_1904_1904), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 50, [1995 1988](https://fedlex.data.admin.ch/eli/oc/1995/1988_1988_1988)]
-[^annexu1-lvlu1-lvlu1-8]: [[RU 1992 1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986), [1997 1216](https://fedlex.data.admin.ch/eli/oc/1997/1216_1216_1216)]
-[^annexu1-lvlu1-lvlu1-9]: [[RU 1962 1191](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)I 941, [1978 1407](https://fedlex.data.admin.ch/eli/oc/1978/1407_1407_1407), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 29, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 52, [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)I 13]
-[^annexu1-lvlu1-lvlu1-10]: [[RU 1974 2063](https://fedlex.data.admin.ch/eli/oc/1974/2063_2063_2063), [1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679)art. 12, [1983 488](https://fedlex.data.admin.ch/eli/oc/1983/488_488_488), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 30, [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)II 2, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)II 3]
-[^annexu1-lvlu1-lvlu1-11]: [[RU 1953 1172](https://fedlex.data.admin.ch/eli/oc/1953/1109_1132_1172), [1957 591](https://fedlex.data.admin.ch/eli/oc/1957/571_573_591)II 2, **1969** 1074, [1971 1597](https://fedlex.data.admin.ch/eli/oc/1971/1597_1597_1597), [1979 1414](https://fedlex.data.admin.ch/eli/oc/1979/1414_1414_1414)[1857](https://fedlex.data.admin.ch/eli/oc/1979/1857_1857_1857)all. n. 29, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. c, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 54, [1994 1648](https://fedlex.data.admin.ch/eli/oc/1994/1648_1648_1648), [1995 2075](https://fedlex.data.admin.ch/eli/oc/1995/2075_2075_2075)]
-[^annexu1-lvlu1-lvlu1-12]: [[RU 1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 31, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 55, [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)n. 14, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)I 4, [1995 2077](https://fedlex.data.admin.ch/eli/oc/1995/2077_2077_2077)]
-[^annexu1-lvlu1-lvlu1-13]: [[RU 1969 1067](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067),**1991** 325 all. n. 32,[1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 28]
-[^annexu1-lvlu1-lvlu1-14]: [[RU 1961 273](https://fedlex.data.admin.ch/eli/oc/1961/263_269_273), **1987** 2324, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 30, [1995 2097](https://fedlex.data.admin.ch/eli/oc/1995/2097_2097_2097)]
+[^annexu1-lvlu1-lvlu1-6]: [[RU 1962 1323](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1967 806](https://fedlex.data.admin.ch/eli/oc/1967/768_811_806); [1972 2532](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 47, [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)]
+[^annexu1-lvlu1-lvlu1-7]: [[RU 1989 1904](https://fedlex.data.admin.ch/eli/oc/1989/1904_1904_1904); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 50; [1995 1988](https://fedlex.data.admin.ch/eli/oc/1995/1988_1988_1988)]
+[^annexu1-lvlu1-lvlu1-8]: [[RU 1992 1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986); [1997 1216](https://fedlex.data.admin.ch/eli/oc/1997/1216_1216_1216)]
+[^annexu1-lvlu1-lvlu1-9]: [[RU 1962 1191](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)I 941; [1978 1407](https://fedlex.data.admin.ch/eli/oc/1978/1407_1407_1407); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 29; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 52; [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)I 13]
+[^annexu1-lvlu1-lvlu1-10]: [[RU 1974 2063](https://fedlex.data.admin.ch/eli/oc/1974/2063_2063_2063); [1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679)art. 12; [1983 488](https://fedlex.data.admin.ch/eli/oc/1983/488_488_488); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 30; [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)II 2; [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)II 3]
+[^annexu1-lvlu1-lvlu1-11]: [[RU 1953 1172](https://fedlex.data.admin.ch/eli/oc/1953/1109_1132_1172); [1957 591](https://fedlex.data.admin.ch/eli/oc/1957/571_573_591)II 2; **1969** 1074; [1971 1597](https://fedlex.data.admin.ch/eli/oc/1971/1597_1597_1597); [1979 1414](https://fedlex.data.admin.ch/eli/oc/1979/1414_1414_1414), [1857](https://fedlex.data.admin.ch/eli/oc/1979/1857_1857_1857)all. n. 29; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. c; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 54; [1994 1648](https://fedlex.data.admin.ch/eli/oc/1994/1648_1648_1648); [1995 2075](https://fedlex.data.admin.ch/eli/oc/1995/2075_2075_2075)]
+[^annexu1-lvlu1-lvlu1-12]: [[RU 1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 31; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 55; [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)n. 14; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)I 4; [1995 2077](https://fedlex.data.admin.ch/eli/oc/1995/2077_2077_2077)]
+[^annexu1-lvlu1-lvlu1-13]: [[RU 1969 1067](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067);**1991** 325 all. n. 32;[1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 28]
+[^annexu1-lvlu1-lvlu1-14]: [[RU 1961 273](https://fedlex.data.admin.ch/eli/oc/1961/263_269_273); **1987** 2324; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 30; [1995 2097](https://fedlex.data.admin.ch/eli/oc/1995/2097_2097_2097)]
 
 ### Modifica del diritto vigente
 
