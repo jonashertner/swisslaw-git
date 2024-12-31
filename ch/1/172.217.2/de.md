@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Oktober 1999 über den Flugdienst beim Eidgenössische
 short: FDO
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/461"
 language: de
-version: 2008-07-01
+version: 2025-01-01
 adopted: 1999-10-04
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/461/20080701/de/xml/fedlex-data-admin-ch-eli-cc-1999-461-20080701-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20080701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/461/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-461-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20080701/de"
 
 (Flugdienstordnung, FDO)
 
-vom 4. Oktober 1999 (Stand am 1. Juli 2008)
+vom 4. Oktober 1999 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -30,9 +30,11 @@ verordnet:
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Diese Verordnung regelt den Flugdienst beim Bundesamt für Zivilluftfahrt (BAZL) und beim Büro für Flugunfalluntersuchungen (BFU).
+Diese Verordnung regelt den Flugdienst beim Bundesamt für Zivilluftfahrt (BAZL) und bei der Schweizerischen Sicherheitsuntersuchungsstelle (SUST).
+
+[^1-1]: Fassung gemäss Anhang Ziff. 1 der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 2
 
@@ -40,7 +42,7 @@ Diese Verordnung regelt den Flugdienst beim Bundesamt für Zivilluftfahrt (BAZL)
 
 <sup>1</sup>
 
-Mitarbeiterinnen und Mitarbeiter des BAZL und BFU werden in den Flugdienst zur Durchführung von Dienstflügen eingeteilt, sofern sie:
+Mitarbeiterinnen und Mitarbeiter des BAZL und der SUST[^2-1] werden in den Flugdienst zur Durchführung von Dienstflügen eingeteilt, sofern sie:
 
 - a. zur Erfüllung ihrer Aufgabe eine fliegerische Tätigkeit ausüben oder über aktuelle fliegerische Erfahrung verfügen müssen; und
 - b. über eine abgeschlossene fliegerische Grundausbildung verfügen*.*
@@ -51,6 +53,8 @@ Sie scheiden auf Ende des Kalenderjahres aus dem Flugdienst aus, wenn:
 
 - a. die Voraussetzungen nach Absatz 1 nicht mehr gegeben sind;
 - b. sie die Pilotenlizenz dauernd verloren haben.
+
+[^2-1]: Ausdruck gemäss Anhang Ziff. 1 der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 3
 
@@ -67,7 +71,7 @@ Als Dienstflüge gelten:
 
 **Aus- und Weiterbildung**
 
-<sup>1</sup> Das BAZL wird ermächtigt, sein Personal sowie dasjenige des BFU durch eigene Fluglehrerinnen und Fluglehrer aus- und weiterzubilden.
+<sup>1</sup> Das BAZL wird ermächtigt, sein Personal sowie dasjenige der SUST durch eigene Fluglehrerinnen und Fluglehrer aus- und weiterzubilden.
 
 <sup>2</sup> Die Aus- und Weiterbildung der Mitarbeiterinnen und Mitarbeiter richtet sich nach den Erfordernissen der Aufgabenerfüllung.
 
@@ -98,17 +102,17 @@ Müssen Pilotinnen oder Piloten, deren fliegerische Tätigkeit überwiegend in D
 
 **Flugmaterial**
 
-<sup>1</sup> Das für Dienstflüge benötigte Flugmaterial wird vom Bund zur Verfügung gestellt. Die Halterverantwortung liegt beim BAZL; für einzelne Luftfahrzeuge kann sie dem BFU übertragen werden.
+<sup>1</sup> Das für Dienstflüge benötigte Flugmaterial wird vom Bund zur Verfügung gestellt. Die Halterverantwortung liegt beim BAZL; für einzelne Luftfahrzeuge kann sie der SUST übertragen werden.
 
-<sup>2</sup> BAZL und BFU sorgen mit einer Mehrjahresplanung für einen zeitgemässen und bedarfsgerechten Luftfahrzeugpark.
+<sup>2</sup> BAZL und SUST sorgen mit einer Mehrjahresplanung für einen zeitgemässen und bedarfsgerechten Luftfahrzeugpark.
 
-<sup>3</sup> Für vorübergehend nicht gedeckte Bedürfnisse können das BAZL und das BFU das benötigte Flugmaterial von Dritten mieten.
+<sup>3</sup> Für vorübergehend nicht gedeckte Bedürfnisse können das BAZL und der SUST das benötigte Flugmaterial von Dritten mieten.
 
 #### Art. 9
 
 **Flugdienstreglement**
 
-BAZL und BFU erlassen ein gemeinsames Flugdienstreglement. Dieses regelt die Flugdienstorganisation, den Flugbetrieb, den Einsatz der Mittel, die Voraussetzungen zum Mitführen von Fluggästen, die Zuteilung von Aus- und Weiterbildungskrediten und die Flugdienstkontrollen.
+BAZL und SUST erlassen ein gemeinsames Flugdienstreglement. Dieses regelt die Flugdienstorganisation, den Flugbetrieb, den Einsatz der Mittel, die Voraussetzungen zum Mitführen von Fluggästen, die Zuteilung von Aus- und Weiterbildungskrediten und die Flugdienstkontrollen.
 
 #### Art. 10
 
@@ -124,7 +128,7 @@ Der Bundesratsbeschluss vom 19. Mai 1971[^10-1] über den Flugdienst beim Eidgen
 
 ...[^11-1]
 
-[^11-1]: Die Enderung kann unter [AS 1999 3016](https://fedlex.data.admin.ch/eli/oc/1999/461)eingesehen werden.
+[^11-1]: Die Änderung kann unter [AS 1999 3016](https://fedlex.data.admin.ch/eli/oc/1999/461)eingesehen werden.
 
 #### Art. 12
 

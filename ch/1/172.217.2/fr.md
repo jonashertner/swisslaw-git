@@ -4,11 +4,11 @@ title: "Ordonnance du 4 octobre 1999 sur le service de vol au Département féd�
 short: OSVo
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/461"
 language: fr
-version: 2008-07-01
+version: 2025-01-01
 adopted: 1999-10-04
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/461/20080701/fr/xml/fedlex-data-admin-ch-eli-cc-1999-461-20080701-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20080701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/461/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-461-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20080701/fr"
 
 (Ordonnance sur le service de vol, OSVo)
 
-du 4 octobre 1999 (État le 1<sup>er</sup> juillet 2008)
+du 4 octobre 1999 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -30,9 +30,11 @@ arrête:
 
 #### Art. 1
 
-**Champ d’application**
+**Champ d’application**[^1-1]
 
-La présente ordonnance régit le service de vol à l’Office fédéral de l’aviation civile (OFAC) et au Bureau d’enquêtes sur les accidents d’aviation (BEAA).
+La présente ordonnance régit le service de vol à l’Office fédéral de l’aviation civile (OFAC) et au Service suisse d’enquête de sécurité (SESE).
+
+[^1-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 2
 
@@ -40,7 +42,7 @@ La présente ordonnance régit le service de vol à l’Office fédéral de l’
 
 <sup>1</sup>
 
-Les collaborateurs de l’OFAC et du BEAA sont attribués au service de vol afin d’effectuer des vols de service:
+Les collaborateurs de l’OFAC et du SESE[^2-1] sont attribués au service de vol afin d’effectuer des vols de service:
 
 - a. s’ils doivent exercer une activité de vol ou disposer d’une expérience de vol actualisée pour accomplir leurs tâches, et
 - b. s’ils ont accompli une formation aéronautique de base complète.
@@ -51,6 +53,8 @@ Ils quittent le service de vol à la fin de l’année civile:
 
 - a. lorsqu’ils ne remplissent plus les conditions du premier alinéa;
 - b. lorsqu’ils perdent définitivement leur licence de pilote.
+
+[^2-1]: Nouvelle expression selon l’annexe ch. 1 de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 3
 
@@ -67,7 +71,7 @@ Sont considérés comme des vols de service:
 
 **Formation et perfectionnement professionnels**
 
-<sup>1</sup> L’OFAC est habilité à confier à ses propres instructeurs de vol le soin de former et de perfectionner son personnel et celui du BEAA.
+<sup>1</sup> L’OFAC est habilité à confier à ses propres instructeurs de vol le soin de former et de perfectionner son personnel et celui du SESE.
 
 <sup>2</sup> La formation et le perfectionnement du personnel sont fonction des exigences requises pour accomplir les tâches.
 
@@ -98,17 +102,17 @@ Lorsqu’un pilote dont la part prépondérante de l’activité aéronautique c
 
 **Matériel aéronautique**
 
-<sup>1</sup> La Confédération fournit le matériel aéronautique requis pour les vols de service. La responsabilité de l’exploitant incombe à l’OFAC; elle peut être transférée au BEAA pour certains aéronefs.
+<sup>1</sup> La Confédération fournit le matériel aéronautique requis pour les vols de service. La responsabilité de l’exploitant incombe à l’OFAC; elle peut être transférée au SESE pour certains aéronefs.
 
-<sup>2</sup> L’OFAC et le BEAA établissent une planification pluriannuelle afin que la flotte des aéronefs reste moderne et conforme aux besoins.
+<sup>2</sup> L’OFAC et le SESE établissent une planification pluriannuelle afin que la flotte des aéronefs reste moderne et conforme aux besoins.
 
-<sup>3</sup> L’OFAC et le BEAA peuvent louer auprès de tiers le matériel aéronautique qui fait défaut momentanément
+<sup>3</sup> L’OFAC et le SESE peuvent louer auprès de tiers le matériel aéronautique qui fait défaut momentanément
 
 #### Art. 9
 
 **Règlement sur le service de vol**
 
-L’OFAC et le BEAA édictent un règlement commun sur le service de vol. Le règlement régit l’organisation du service, les opérations de vol, l’engagement des moyens, les conditions d’admission de passagers à bord, l’attribution des crédits de formation et de perfectionnement ainsi que les contrôles du service de vol.
+L’OFAC et le SESE édictent un règlement commun sur le service de vol. Le règlement régit l’organisation du service, les opérations de vol, l’engagement des moyens, les conditions d’admission de passagers à bord, l’attribution des crédits de formation et de perfectionnement ainsi que les contrôles du service de vol.
 
 #### Art. 10
 
@@ -122,7 +126,7 @@ L’arrêté du Conseil fédéral du 19 mai 1971 sur le service de vol au Dépar
 
 **Modification du droit en vigueur**
 
-...[^11-1]
+…[^11-1]
 
 [^11-1]: La mod. peut être consultée au [RO 1999 3016](https://fedlex.data.admin.ch/eli/oc/1999/461).
 

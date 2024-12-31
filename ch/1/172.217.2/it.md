@@ -4,11 +4,11 @@ title: "Ordinanza del 4 ottobre 1999 concernente il servizio di volo presso il D
 short: OSVo
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/461"
 language: it
-version: 2008-07-01
+version: 2025-01-01
 adopted: 1999-10-04
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/461/20080701/it/xml/fedlex-data-admin-ch-eli-cc-1999-461-20080701-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20080701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/461/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1999-461-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/461/20080701/it"
 
 (Ordinanza sul servizio di volo, OSVo)
 
-del 4 ottobre 1999 (Stato 1° luglio 2008)
+del 4 ottobre 1999 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -30,9 +30,11 @@ ordina:
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente ordinanza disciplina il servizio di volo presso l’Ufficio federale dell’aviazione civile (UFAC) e presso l’Ufficio d’inchiesta sugli infortuni aeronautici (UIIA).
+La presente ordinanza disciplina il servizio di volo presso l’Ufficio federale dell’aviazione civile (UFAC) e presso il Servizio d’inchiesta svizzero sulla sicurezza (SISI).
+
+[^1-1]: Nuovo testo giusta l’all. n. 1 dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 2
 
@@ -40,7 +42,7 @@ La presente ordinanza disciplina il servizio di volo presso l’Ufficio federale
 
 <sup>1</sup>
 
-I collaboratori dell’UFAC e dell’UIIA sono assegnati al servizio di volo al fine di eseguire voli di servizio se:
+I collaboratori dell’UFAC e del SISI[^2-1] sono assegnati al servizio di volo al fine di eseguire voli di servizio se:
 
 - a. per adempiere i loro compiti devono esercitare un’attività aeronautica o disporre di esperienza recente in questo campo, e
 - b. hanno assolto una formazione aeronautica di base.
@@ -51,6 +53,8 @@ Essi sono prosciolti dal servizio di volo alla fine dell’anno civile se:
 
 - a. non soddisfano più i presupposti di cui al capoverso 1;
 - b. perdono definitivamente il brevetto di pilota.
+
+[^2-1]: Nuova espr. giusta l’all. n. 1 dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -67,7 +71,7 @@ Sono considerati voli di servizio i voli:
 
 **Formazione e perfezionamento professionali**
 
-<sup>1</sup> L’UFAC è autorizzato a conferire ai propri istruttori di volo il compito di formare e perfezionare il proprio personale e quello dell’UIIA.
+<sup>1</sup> L’UFAC è autorizzato a conferire ai propri istruttori di volo il compito di formare e perfezionare il proprio personale e quello del SISI.
 
 <sup>2</sup> La formazione e il perfezionamento dei collaboratori avvengono in funzione delle esigenze richieste per adempiere i compiti.
 
@@ -98,17 +102,17 @@ Se piloti la cui principale attività aeronautica consiste nell’effettuare vol
 
 **Materiale aeronautico**
 
-<sup>1</sup> La Confederazione fornisce il materiale aeronautico necessario per i voli di servizio. La responsabilità dell’esercente incombe all’UFAC; per taluni aeromobili, essa può essere conferita all’UIIA.
+<sup>1</sup> La Confederazione fornisce il materiale aeronautico necessario per i voli di servizio. La responsabilità dell’esercente incombe all’UFAC; per taluni aeromobili, essa può essere conferita al SISI.
 
-<sup>2</sup> L’UFAC e l’UIIA allestiscono un piano pluriennale affinché la flotta degli aeromobili resti moderna e conforme alle necessità.
+<sup>2</sup> L’UFAC e il SISI allestiscono un piano pluriennale affinché la flotta degli aeromobili resti moderna e conforme alle necessità.
 
-<sup>3</sup> L’UFAC e l’UIIA possono locare presso terzi il materiale aeronautico di cui non dispongono al momento.
+<sup>3</sup> L’UFAC e il SISI possono locare presso terzi il materiale aeronautico di cui non dispongono al momento.
 
 #### Art. 9
 
 **Regolamento relativo al servizio di volo**
 
-L’UFAC e l’UIIA emanano un regolamento comune relativo al servizio di volo. Tale regolamento disciplina l’organizzazione del servizio, le operazioni di volo, l’impiego dei mezzi, le condizioni per prendere a bordo passeggeri, l’assegnazione di crediti destinati alla formazione e al perfezionamento, nonché i controlli del servizio di volo.
+L’UFAC e il SISI emanano un regolamento comune relativo al servizio di volo. Tale regolamento disciplina l’organizzazione del servizio, le operazioni di volo, l’impiego dei mezzi, le condizioni per prendere a bordo passeggeri, l’assegnazione di crediti destinati alla formazione e al perfezionamento, nonché i controlli del servizio di volo.
 
 #### Art. 10
 
