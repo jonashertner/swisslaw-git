@@ -4,13 +4,12 @@ number: "721.8"
 title: "Loi sur l'utilisation des forces hydrauliques"
 short: LcFH
 language: fr
-version: 2018-01-01
-corrected: 2024-10-14
-version_adopted: 2016-11-10
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 1990-03-28
 in_force: 1991-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/721.8"
-pdf: "https://lex.vs.ch/api/fr/versions/3274/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3436/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3274/pdf_file"
 
 (LcFH)
 
-du 28.03.1990 (état 01.01.2018)
+du 28.03.1990 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -735,7 +734,7 @@ ordonne:
 
 <sup>2</sup> La répartition au sens de l’alinéa 1 s’effectue comme suit:
 
-- a) un tiers pour un fonds de solidarité géré par le service et affecté au financement de la politique cantonale en matière d'énergie et d'eau, en particulier pour le soutien financier de l'efficience énergétique et des énergies renouvelables, ainsi que pour la gestion optimale de la ressource multifonctionnelle eau;
+- a) un tiers pour le ménage financier de l'Etat;
 - b) un tiers pour les communes concédantes en fonction de leur part à la puissance hydraulique du canton;
 - c) un tiers à l'ensemble des communes valaisannes en fonction de leur part au nombre d'habitants du canton.
 
@@ -820,6 +819,10 @@ ordonne:
 
 <sup>3</sup> Pour les forces requises par la Confédération, la redevance maximum est celle fixée par la loi fédérale sur l'utilisation des forces hydrauliques.
 
+<sup>4</sup> Si une entreprise de la Confédération au sens de l’article 12 LFH est assujettie à l’impôt spécial sur les forces hydrauliques, la redevance communale correspond à 40 pour cent du montant maximum prévu par l’article 49 alinéa 1 LFH afin de permettre au canton de percevoir l’impôt spécial.
+
+<sup>5</sup> Si ladite entreprise est exonérée de l’impôt spécial sur les forces hydrauliques, la commune qui dispose de la force verse au canton le 60 pour cent de la redevance maximale.
+
 #### Art. 66
 
 **Calcul de la puissance théorique**
@@ -876,11 +879,13 @@ ordonne:
 
 <sup>1</sup> …
 
-<sup>1<sup>bis</sup></sup> Le dix pour cent de toutes les redevances et de l'impôt spécial sur les forces hydrauliques perçus par l'Etat est versé à un fonds spécial, rémunéré selon les conditions usuelles et géré par le département compétent.
+<sup>1<sup>bis</sup></sup> …
 
 <sup>2</sup> Ce fonds est affecté à l’achat ou au rachat d’aménagements hydroélectriques ou à l’acquisition de droits de participation dans des sociétés exploitant de tels aménagements.
 
 <sup>3</sup> Ce fonds peut aussi être affecté à la réalisation des buts imposés à FMV par l’article 2 de la loi sur les Forces Motrices Valaisannes sous forme de contributions financières, de contributions à fonds perdu, de prêts sans intérêts ou de prêts à d‘autres conditions favorables.
+
+<sup>3<sup>bis</sup></sup> Jusqu'en 2035, ce fonds peut aussi être affecté au financement des aides financières et des mesures d’encouragement prévues dans la loi cantonale sur l’énergie, pour autant que le solde du fonds soit de 150 millions de francs.
 
 <sup>4</sup> Lorsque les ressources ordinaires du fonds ne sont pas suffisantes pour répondre aux besoins de FMV, le Conseil d’Etat peut octroyer au fonds des avances sous forme de prêts.
 
@@ -904,7 +909,7 @@ ordonne:
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Le quinze pour cent de l'impôt spécial brut revenant au canton est versé chaque année dans un fonds de financement destiné à l'augmentation du capital social des Forces motrices valaisannes (FMV). Ce fonds est à disposition du canton et des communes qui pourront l'utiliser proportionnellement à leurs droits dans la société organisée selon la présente loi.
+<sup>2<sup>bis</sup></sup> Ce fonds est à disposition du canton et des communes qui pourront l'utiliser proportionnellement à leurs droits dans la société organisée selon la présente loi.
 
 <sup>3</sup> Ce fonds de financement est exempté de tous impôts et est géré par le département compétent.
 
@@ -918,7 +923,7 @@ ordonne:
 
 **Répartition de l'indemnité versée par la Confédération pour perte d'impôts**
 
-<sup>1</sup> L'indemnité que la Confédération paie au canton pour la réquisition de forces hydrauliques, à titre de compensation pour la perte d'impôts cantonaux et communaux, revient pour la moitié au canton, l'autre moitié étant répartie entre les communes sur le territoire desquelles se trouvent les installations, au prorata de l'impôt qu'elles percevraient de l'entreprise si celle-ci n'était pas exonérée.
+<sup>1</sup> L'indemnité que la Confédération paie au canton à titre de compensation pour la perte d'impôts cantonaux et communaux (art. 14 LFH), revient pour 40 pour cent au canton, le 60 pour cent restant étant réparti entre les communes sur le territoire desquelles la Confédération requiert des forces hydrauliques. La part de chacune est fixée proportionnellement aux forces utilisables.
 
 #### Art. 73
 
