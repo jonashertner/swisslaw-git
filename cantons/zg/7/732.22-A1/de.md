@@ -3,20 +3,19 @@ canton: ZG
 number: 732.22-A1
 title: Reglement über die Abfallbewirtschaftung des Zeba (Anhang)
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-05-18
+version: 2025-01-01
+version_adopted: 2024-08-22
 adopted: 2005-05-19
 in_force: 2005-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/732.22-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/2396/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2635/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Abfallbewirtschaftung des Zeba (Anhang)
 
-Vom 19. Mai 2005 (Stand 1. Januar 2023)
+Vom 19. Mai 2005 (Stand 1. Januar 2025)
 
 Die Delegiertenversammlung des Zweckverbandes für die Bewirtschaftung der Abfälle,
 
@@ -135,15 +134,21 @@ beschliesst:
 
 <sup>1</sup> Bereitstellungsarten
 
-- a) in gebührenpflichtigen Kehrichtsäcken des Zeba
-- b) in Containern, Unterflur- und Halbunterfluranlagen mit gebührenpflichtigen Kehrichtsäcken des Zeba
-- c) in Containern, Unterflur- und Halbunterfluranlagen mit offiziellen Erkennungs-Chips des Zeba zur gewichtsabhängigen Entsorgung
+- a) Hauskehricht:
+  - 1\. in gebührenpflichtigen Kehrichtsäcken des Zeba;
+  - 2\. in Rollcontainern, öffentlichen Unterfluranlagen oder Oberflurcontainern mit gebührenpflichtigen Kehrichtsäcken des Zeba;
+- b) Betriebskehricht:
+  - 1\. in öffentlichen Unterfluranlagen oder Oberflurcontainern mit gebührenpflichtigen Kehrichtsäcken des Zeba;
+  - 2\. in Rollcontainern, Unterfluranlagen oder Oberflurcontainern mit offiziellen Erkennungs-Chips des Zeba zur gewichtsabhängigen Entsorgung. Rollcontainer dürfen nur am Vorabend oder am Abholtag selbst am Strassenrand stehen. Oberflurcontainer müssen zur Abholung angemeldet werden;
+  - 3\. Oberflur- oder Unterflur-Presscontainer mit Hakenaufnahme.
+- c) …
 - d) …
 
 <sup>2</sup> Zulässige Gebinde
 
-- a) Verzinkte Container und Kunststoffcontainer mit 4 Rädern und einem Fassungsvermögen von 660, 770 oder 800 Litern. Grüne Container müssen klar als Container für Haus- und Betriebskehricht gekennzeichnet sein. Die Container müssen über eine Feststellbremse verfügen. Ebenfalls zulässig sind Container mit einem Fassungsvermögen von 240 Litern und 2 Rädern. Halbunterflur- und Ganzunterflursysteme mit einer Kinshofer oder Haken Halterung für die Leerung mit mindestens 3000 Liter Fassungsvermögen.
-- b) Presscontainer in Hebesystemen mit mindestens 20 m³ Fassungsvermögen.
+- a) Verzinkte Container und Kunststoffcontainer mit 4 Rädern und einem Fassungsvermögen von 660, 770 oder 800 Litern. Grüne Container müssen klar als Container für Haus- und Betriebskehricht gekennzeichnet sein. Die Container müssen über eine Feststellbremse verfügen. Ebenfalls zulässig sind Container mit einem Fassungsvermögen von 240 Litern und 2 Rädern.
+- b) Sämtliche Container müssen von den Sammelfahrzeugen in jedem Fall mit den üblichen Kamm- oder Containerschüttungen geleert werden können.
+- c) Unterflur-/Oberflurcontainer müssen mit einer Kinshofer-Halterung ausgerüstet sein.
 
 #### § 17
 
@@ -172,7 +177,7 @@ beschliesst:
 
 - a) Trockenes Laub darf in biologisch abbaubaren Säcken von 140 Litern mit der typischen weissen Gittermusterung zur Abholung bereitgestellt werden. Das Maximalgewicht beträgt 10 Kilogramm pro Sack.
 
-## 3. Rahmenbedingungen für Unterflur- und Halbunterfluranlagen
+## 3. Rahmenbedingungen für Unterfluranlagen und Oberflurcontainer
 
 #### § 18
 
@@ -190,7 +195,7 @@ beschliesst:
 
 **Bauliche Anforderungen**
 
-<sup>1</sup> Unterflur- und Halbunterfluranlagen verfügen über einen Pumpensumpf oder eine Entwässerung via die Schmutzwasserkanalisation. Sie erfüllen die Anforderungen der Normalien für Unterflursammelstellen (UFC).
+<sup>1</sup> Unterfluranlagen verfügen über einen Pumpensumpf oder eine Entwässerung via die Schmutzwasserkanalisation. Sie erfüllen die Anforderungen der Normalien für Unterflursammelstellen (UFC).
 
 #### § 21
 
