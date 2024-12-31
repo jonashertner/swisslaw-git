@@ -4,11 +4,11 @@ title: "Ordinanza del 14 giugno 1999 sull'organizzazione del Dipartimento federa
 short: Org-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: it
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1999-344-20241001-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1999-344-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/it"
 
 (Org-DEFR)[^t-1]
 
-del 14 giugno 1999 (Stato 1° ottobre 2024)
+del 14 giugno 1999 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo giusta il n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^t-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 Il Consiglio federale svizzero,
 
@@ -46,7 +46,7 @@ Nei tre ambiti politici centrali di sua competenza, il dipartimento persegue in 
 - b. formazione, ricerca e innovazione: promuovere uno spazio della formazione, della ricerca e dell’innovazione che sia efficiente, innovativo e interconnesso sul piano internazionale, contribuendo in questo modo a rafforzare la piazza economica svizzera;
 - c. agricoltura: promuovere un settore agricolo concorrenziale che rispetti il principio dello sviluppo sostenibile, produca derrate alimentari animali e vegetali di alta qualità e fornisca prestazioni di economia generale.
 
-[^1-1]: Nuovo testo giusta il n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 2
 
@@ -89,10 +89,10 @@ La Segreteria generale esercita le sue funzioni conformemente all’articolo 42 
 <sup>3</sup> La Sorveglianza dei prezzi (art. 11) è amministrativamente aggregata alla Segreteria generale.
 
 [^4-1]: Nuovo testo giusta l’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^4-2]: Introdotta dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Nuovo testo giusta l’all. 3 n. II 2 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-2]: Introdotta dalla cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Nuovo testo giusta l’all. 3 cifra II n. 2 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^4-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° ago. 2021. Di detta modifica è tenuto conto in tutto il presente testo.
 [^4-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^4-5]: Nuovo testo giusta il n. I dell’O del 7 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
 [^4-6]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 ### Sezione 2: Gli uffici
@@ -136,12 +136,12 @@ La SECO persegue in particolare i seguenti obiettivi:[^5-2]
 
 [^5-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il testo.
 [^5-2]: Nuovo testo giusta l’art. 15 dell’O del 8 dic. 2006 sul coordinamento della politica della Confederazione in favore delle piccole e medie imprese, in vigore dal 1° feb. 2007 ([RU 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18)).
-[^5-3]: Introdotta dal n. III 3 dell’O del 10 mar. 2006 ([RU 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)). Abrogata dall’all. 3 n. 5 dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^5-4]: Introdotta dall’O del 8 dic. 2006 sul coordinamento della politica della Confederazione in favore delle piccole e medie imprese ([RU 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18)). Nuovo testo giusta il n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^5-5]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 1° feb. 2015 ([RU 2015 7](https://fedlex.data.admin.ch/eli/oc/2015/2)).
-[^5-6]: Introdotto dal n. I dell’O del 6 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2019 4733](https://fedlex.data.admin.ch/eli/oc/2019/770)).
+[^5-3]: Introdotta dalla cifra III n. 3 dell’O del 10 mar. 2006 ([RU 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)). Abrogata dall’all. 3 n. 5 dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-4]: Introdotta dall’O del 8 dic. 2006 sul coordinamento della politica della Confederazione in favore delle piccole e medie imprese ([RU 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18)). Nuovo testo giusta la cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-5]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 1° feb. 2015 ([RU 2015 7](https://fedlex.data.admin.ch/eli/oc/2015/2)).
+[^5-6]: Introdotto dalla cifra I dell’O del 6 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2019 4733](https://fedlex.data.admin.ch/eli/oc/2019/770)).
 [^5-7]: [RS 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
-[^5-8]: Introdotto dal n. I dell’O del 15 mar. 2024, in vigore dal 1° ott. 2024 al 20 set. 2034 ([RU 2024 121](https://fedlex.data.admin.ch/eli/oc/2024/121)).
+[^5-8]: Introdotto dalla cifra I dell’O del 15 mar. 2024, in vigore dal 1° ott. 2024 al 20 set. 2034 ([RU 2024 121](https://fedlex.data.admin.ch/eli/oc/2024/121)).
 [^5-9]: O del 12 dic. 1977 su la cooperazione allo sviluppo e l’aiuto umanitario internazionali (RS **974.01**). O del 19 dic. 2018 concernente la cooperazione con gli Stati dell’Europa dell’Est (RS **974.11**). O del 14 ago. 1991 sull’attuazione di programmi e progetti ecologici d’importanza globale nei Paesi in sviluppo (RS **172.018**).
 [^5-10]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^5-11]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
@@ -170,7 +170,7 @@ La SEFRI persegue in particolare i seguenti obiettivi:
 
 <sup>5</sup> La SEFRI è l’organo nazionale di riferimento per il riconoscimento di qualifiche professionali estere e garantisce il coordinamento fra i servizi competenti. È competente inoltre per il riconoscimento delle maturità cantonali e per la comparabilità delle qualifiche professionali come pure per il riconoscimento di diplomi e certificati esteri di formazione professionale o istruzione universitaria.
 
-[^6-1]: Nuovo testo giusta il n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^6-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 7
 
@@ -185,27 +185,25 @@ L’UFAG persegue in particolare i seguenti obiettivi:
 - a. promuovere nell’ambito economico interno ed esterno un’agricoltura multifunzionale con il compito di fornire un contributo essenziale alla garanzia dell’approvvigionamento alimentare della popolazione, alla tutela delle basi vitali naturali, alla cura del paesaggio rurale e all’occupazione decentrata del territorio;
 - b.[^7-2] creare e garantire condizioni quadro favorevoli per la produzione e lo smercio di prodotti agricoli in Svizzera e all’estero, per prestazioni ecologiche dell’agricoltura mediante una gestione compatibile con l’ambiente, per uno sviluppo dell’agricoltura socialmente sostenibile nonché per una proprietà fondiaria rurale.
 
-<sup>3</sup> Agroscope è subordinata all’UFAG. Agroscope è il centro di competenza della Confederazione per le questioni di ricerca per l’agricoltura e la filiera alimentare. Essa sostiene gli sforzi dell’agricoltura intesi a produrre derrate alimentari di alta qualità, competitive e conformi al principio dello sviluppo sostenibile. L’organizzazione e i compiti di Agroscope sono disciplinati negli articoli 114 e 115 della legge del 29 aprile 1998[^7-3] sull’agricoltura e nell’ordinanza del 23 maggio 2012[^7-4] concernente la ricerca agronomica.[^7-5]
+<sup>3</sup> La stazione di ricerca agronomica Agroscope è subordinata all’UFAG. Agroscope è il centro di competenza della Confederazione nel settore della ricerca per l’agricoltura e la filiera alimentare. Sostiene gli sforzi dell’agricoltura tesi a produrre prodotti di alta qualità e competitivi in linea con il principio dello sviluppo sostenibile. La sua organizzazione e i suoi compiti sono disciplinati negli articoli 114 e 115 della legge del 29 aprile 19987 sull’agricoltura e nell’ordinanza del 6 novembre 20248 concernente la ricerca agronomica.[^7-3]
 
-<sup>4</sup> ...[^7-6]
+<sup>4</sup> ...[^7-4]
 
 <sup>5</sup> L’UFAG gestisce la segreteria del Comitato nazionale dell’Organizzazione delle Nazioni Unite per l’Alimentazione e l’Agricoltura (Comitato FAO).
 
-<sup>6</sup> Nel campo della proprietà intellettuale, l’UFAG svolge i compiti che gli sono conferiti dalla legge federale del 20 marzo 1975[^7-7] sulla protezione delle novità vegetali.
+<sup>6</sup> Nel campo della proprietà intellettuale, l’UFAG svolge i compiti che gli sono conferiti dalla legge federale del 20 marzo 1975[^7-5] sulla protezione delle novità vegetali.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5391](https://fedlex.data.admin.ch/eli/oc/2020/934)).
-[^7-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5391](https://fedlex.data.admin.ch/eli/oc/2020/934)).
-[^7-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^7-4]: [RS 915.7](https://fedlex.data.admin.ch/eli/cc/2024/652)
-[^7-5]: Nuovo testo giusta l’art. 14 cpv. 2 dell’O del 23 mag. 2012 concernente la ricerca agronomica, in vigore dal 1° gen. 2013 ([RU 2012 3431](https://fedlex.data.admin.ch/eli/oc/2012/386)).
-[^7-6]: Abrogato dall’all. 3 n. 5 dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^7-7]: [RS 232.16](https://fedlex.data.admin.ch/eli/cc/1977/862_862_862)
+[^7-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5391](https://fedlex.data.admin.ch/eli/oc/2020/934)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5391](https://fedlex.data.admin.ch/eli/oc/2020/934)).
+[^7-3]: Nuovo testo giusta l’art. 17 dell’O del 6 nov. 2024 concernente la ricerca agronomica, in vigore dal 1° gen. 2025 ([RU 2024 652](https://fedlex.data.admin.ch/eli/oc/2024/652)).
+[^7-4]: Abrogato dall’all. 3 n. 5 dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^7-5]: [RS 232.16](https://fedlex.data.admin.ch/eli/cc/1977/862_862_862)
 
 #### Art. 8
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^8-1]: Abrogato dalla cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 9
 
@@ -243,8 +241,8 @@ L’UFAB persegue in particolare i seguenti obiettivi:
 <sup>3</sup> ...[^10-3]
 
 [^10-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^10-2]: Nuovo testo giusta il n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^10-3]: Abrogato dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^10-2]: Nuovo testo giusta la cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^10-3]: Abrogato dalla cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 10a
 
@@ -262,7 +260,7 @@ Il CIVI svolge segnatamente i compiti seguenti:
 
 <sup>3</sup> L’organizzazione e i compiti precisi del CIVI sono disciplinati dalla legge del 6 ottobre 1995[^10a-2] sul servizio civile e dalle relative ordinanze.
 
-[^10a-1]: Introdotto dal n. I dell’O del 7 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 7 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
 [^10a-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
 
 ### Sezione 3: Altre unità dell’Amministrazione federale centrale
@@ -293,13 +291,13 @@ Il CIVI svolge segnatamente i compiti seguenti:
 
 [^13-1]
 
-[^13-1]: Abrogato dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^13-1]: Abrogato dalla cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 14
 
 [^14-1]
 
-[^14-1]: Abrogato dal n. I dell’O del 7 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
+[^14-1]: Abrogato dalla cifra I dell’O del 7 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
 
 ## Capitolo 3: Unità dell’Amministrazione federale decentrata
 
@@ -321,7 +319,7 @@ La COMCO persegue in particolare i seguenti obiettivi:
 <sup>3</sup> L’organizzazione e i compiti della COMCO sono disciplinati da atti legislativi particolari[^15-3].
 
 [^15-1]: LF del 6 ott. 1995 sul mercato interno (RS **943.02**). LF del 6 ott. 1995 sui cartelli (RS **251**).
-[^15-2]: Introdotto dal n. I dell’O del 10 mar. 2006 ([RU 2006 1067](https://fedlex.data.admin.ch/eli/oc/2006/187)). Abrogato dall’all. 3 n. 5 dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^15-2]: Introdotto dalla cifra I dell’O del 10 mar. 2006 ([RU 2006 1067](https://fedlex.data.admin.ch/eli/oc/2006/187)). Abrogato dall’all. 3 n. 5 dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^15-3]: LF del 6 ott. 1995 sul mercato interno (RS **943.02**). LF del 6 ott. 1995 sui cartelli (RS **251**). LF del 21 dic. 1948 sulla navigazione aerea (RS **748.0**).
 
 #### Art. 15a
@@ -332,7 +330,7 @@ La COMCO persegue in particolare i seguenti obiettivi:
 
 <sup>2</sup> I compiti e l’organizzazione del settore dei PF sono disciplinati nella legge del 4 ottobre 1991[^15a-2] sui PF e nell’ordinanza del 19 novembre 2003[^15a-3] sul settore dei PF.
 
-[^15a-1]: Introdotto dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^15a-1]: Introdotto dalla cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 [^15a-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
 [^15a-3]: [RS 414.110.3](https://fedlex.data.admin.ch/eli/cc/2004/16)
 
@@ -342,7 +340,7 @@ La COMCO persegue in particolare i seguenti obiettivi:
 
 I compiti e l’organizzazione del Politecnico federale di Zurigo (PFZ) e del Politecnico federale di Losanna (PFL) sono disciplinati nella legge del 4 ottobre 1991[^15b-2] sui PF e nelle relative ordinanze del Consiglio federale e del Consiglio dei PF.
 
-[^15b-1]: Introdotto dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^15b-1]: Introdotto dalla cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 [^15b-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
 
 #### Art. 15c
@@ -356,7 +354,7 @@ I compiti e l’organizzazione dei quattro istituti di ricerca seguenti del sett
 - c. Laboratorio federale di prova dei materiali e di ricerca (LPMR);
 - d. Istituto federale per l’approvvigionamento, la depurazione e la protezione delle acque (IFADPA).
 
-[^15c-1]: Introdotto dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^15c-1]: Introdotto dalla cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 [^15c-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
 
 #### Art. 15d
@@ -413,12 +411,10 @@ L’organizzazione e i compiti della Società svizzera di credito alberghiero (S
 
 **SIFEM SA**[^15i-1]
 
-<sup>1</sup> SIFEM SA è una società anonima di diritto privato della Confederazione. In quanto società finanziaria di sviluppo investe in fondi locali o regionali in favore delle PMI nei Paesi in sviluppo e nei Paesi emergenti.
+I compiti e l’organizzazione della SIFEM SA sono disciplinati nella legge SIFEM del 14 giugno 2024[^15i-2].
 
-<sup>2</sup> I compiti e l’organizzazione di SIFEM SA sono disciplinati nell’ordinanza del 12 dicembre 1977[^15i-2] sulla cooperazione allo sviluppo e l’aiuto umanitario internazionali.
-
-[^15i-1]: Introdotto dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^15i-2]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^15i-1]: Introdotto dalla cifra I n. 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti) ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Nuovo testo giusta la cifra II dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 737](https://fedlex.data.admin.ch/eli/oc/2024/737)).
+[^15i-2]: [RS 974.4](https://fedlex.data.admin.ch/eli/cc/2024/711)
 
 ## Capitolo 4: Disposizioni finali
 

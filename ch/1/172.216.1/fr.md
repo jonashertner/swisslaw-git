@@ -4,11 +4,11 @@ title: "Ordonnance du 14 juin 1999 sur l'organisation du Département fédéral 
 short: Org DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: fr
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1999-344-20241001-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-344-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/fr"
 
 (Org DEFR)[^t-1]
 
-du 14 juin 1999 (État le 1<sup>er</sup> octobre 2024)
+du 14 juin 1999 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I 5 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
@@ -184,7 +184,7 @@ Il poursuit notamment les objectifs suivants:
 - a. promouvoir dans le domaine économique intérieur et extérieur une agriculture multifonctionnelle appelée à apporter une contribution essentielle à la sécurité de l’approvisionnement de la population en denrées alimentaires, à la conservation des ressources naturelles, à l’entretien du paysage rural et à l’occupation décentralisée du territoire;
 - b.[^7-2] créer et garantir des conditions-cadre favorables permettant la production et l’écoulement de denrées agricoles en Suisse et à l’étranger, des prestations écologiques de l’agriculture au moyen d’une exploitation compatible avec l’environnement, un développement de l’agriculture acceptable du point de vue social, ainsi qu’une propriété foncière rurale.
 
-<sup>3</sup> Agroscope est subordonné à l’OFAG. Il est le centre de compétence de la Confédération dans le domaine de la recherche agronomique et agroalimentaire. Il soutient les efforts de l’agriculture pour la production de denrées alimentaires de haute qualité et compétitives qui répondent aux exigences du développement durable. Son organisation et ses tâches sont régies par les art. 114 et 115 de la loi du 29 avril 1998 sur l’agriculture[^7-3] et par l’ordonnance du 23 mai 2012 sur la recherche agronomique[^7-4].[^7-5]
+<sup>3</sup> La station de recherche agronomique Agroscope est subordonnée à l’OFAG. Agroscope est le centre de compétences de la Confédération dans le domaine de la recherche agronomique et agroalimentaire. Il soutient les efforts de l’agriculture pour la production de denrées alimentaires de haute qualité et compétitives qui répondent aux exigences du développement durable. Son organisation et ses tâches sont régies par les art. 114 et 115 de la loi du 29 avril 1998 sur l’agriculture[^7-3] et par l’ordonnance du 6 novembre 2024 sur la recherche agronomique[^7-4].[^7-5]
 
 <sup>4</sup> … [^7-6]
 
@@ -196,7 +196,7 @@ Il poursuit notamment les objectifs suivants:
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5391](https://fedlex.data.admin.ch/eli/oc/2020/934)).
 [^7-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^7-4]: [RS 915.7](https://fedlex.data.admin.ch/eli/cc/2024/652)
-[^7-5]: Nouvelle teneur selon l’art. 14, al. 2, de l’O du 23 mai 2012 sur la recherche agronomique, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3431](https://fedlex.data.admin.ch/eli/oc/2012/386)).
+[^7-5]: Nouvelle teneur selon l’art. 17 de l’O du 6 nov. 2024 sur la recherche agronomique, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 652](https://fedlex.data.admin.ch/eli/oc/2024/652)).
 [^7-6]: Abrogé par l’annexe 3 ch. 5 de l’O du 30 juin 2010, avec effet au 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^7-7]: [RS 232.16](https://fedlex.data.admin.ch/eli/cc/1977/862_862_862)
 
@@ -412,12 +412,10 @@ L’organisation et les tâches de la Société suisse de crédit hôtelier (SCH
 
 **SIFEM SA**[^15i-1]
 
-<sup>1</sup> SIFEM SA est une société anonyme de la Confédération régie par le droit privé. Société financière de développement, elle investit dans des fonds locaux ou régionaux œuvrant en faveur des PME dans les pays en développement ou les pays émergents.
+Les tâches et l’organisation de SIFEM SA sont régies par la loi SIFEM du 14 juin 2024[^15i-2].
 
-<sup>2</sup> Les tâches et l’organisation de SIFEM SA sont régies par l’ordonnance du 12 décembre 1977 concernant la coopération au développement et l’aide humanitaire internationales[^15i-2].
-
-[^15i-1]: Introduit par le ch. I 5 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^15i-2]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^15i-1]: Introduit par le ch. I 5 de l’O du 15 juin 2012 (Réorganisation des départements) ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Nouvelle teneur selon le ch. II de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 737](https://fedlex.data.admin.ch/eli/oc/2024/737)).
+[^15i-2]: [RS 974.4](https://fedlex.data.admin.ch/eli/cc/2024/711)
 
 ## Chapitre 4 Dispositions finales
 

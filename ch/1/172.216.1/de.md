@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 14. Juni 1999 für das Eidgenössische Depar
 short: OV-WBF
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: de
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1999-344-20241001-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-344-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/de"
 
 (OV–WBF)[^t-1]
 
-vom 14. Juni 1999 (Stand am 1. Oktober 2024)
+vom 14. Juni 1999 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
@@ -139,7 +139,7 @@ Das SECO verfolgt insbesondere folgende Ziele:
 [^5-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 1. Febr. 2015 ([AS 2015 7](https://fedlex.data.admin.ch/eli/oc/2015/2)).
 [^5-4]: Eingefügt durch Ziff. I der V vom 6. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2019 4733](https://fedlex.data.admin.ch/eli/oc/2019/770)).
 [^5-5]: [SR 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
-[^5-6]: Eingefügt durch Ziff. I der V vom 15. März 2024, in Kraft vom 1. Okt. 2024 bis zum 30. Sept. 2034 (AS **20****24** 121).
+[^5-6]: Eingefügt durch Ziff. I der V vom 15. März 2024, in Kraft vom 1. Okt. 2024 bis zum 30. Sept. 2034 ([AS 2024 121](https://fedlex.data.admin.ch/eli/oc/2024/121)).
 [^5-7]: V vom 12. Dez. 1977 über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe (SR **974.01**). V vom 19. Dez. 2018 über die Zusammenarbeit mit den Staaten Osteuropas (SR **974.11**). V vom 14. Aug. 1991 über die Durchführung von Umweltprogrammen und -projekten von globaler Bedeutung in Entwicklungsländern (SR **172.018**).
 [^5-8]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^5-9]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
@@ -183,7 +183,7 @@ Das BLW verfolgt insbesondere folgende Ziele:
 - a. Es setzt sich im binnen- und aussenwirtschaftlichen Bereich für eine multifunktionale Landwirtschaft ein, die einen wesentlichen Beitrag leistet zur sicheren Versorgung der Bevölkerung mit Nahrungsmitteln, zur Erhaltung der natürlichen Lebensgrundlagen, zur Pflege der Kulturlandschaft und zur dezentralen Besiedlung des Landes.
 - b.[^7-2] Es schafft und sichert günstige Rahmenbedingungen für die Produktion und den Absatz landwirtschaftlicher Erzeugnisse im In- und Ausland, für ökologische Leistungen der Landwirtschaft mittels einer umweltverträglichen Bewirtschaftung, für eine sozialverträgliche Entwicklung der Landwirtschaft sowie für ein bäuerliches Grundeigentum.
 
-<sup>3</sup> Dem BLW ist Agroscope unterstellt. Agroscope ist das Kompetenzzentrum des Bundes im Bereich der Forschung für die Land- und Ernährungswirtschaft. Sie unterstützt die Landwirtschaft im Bestreben, qualitativ hochwertige und wettbewerbsfähige Produkte im Einklang mit dem Prinzip der nachhaltigen Entwicklung zu erzeugen. Ihre Organisation und ihre Aufgaben sind in den Artikeln 114 und 115 des Landwirtschaftsgesetzes vom 29. April 1998[^7-3] und in der Verordnung vom 23. Mai 2012[^7-4] über die landwirtschaftliche Forschung geregelt.[^7-5]
+<sup>3</sup> Dem BLW unterstellt ist die landwirtschaftliche Forschungsanstalt Agroscope. Agroscope ist das Kompetenzzentrum des Bundes im Bereich der Forschung für die Land- und Ernährungswirtschaft. Sie unterstützt die Landwirtschaft im Bestreben, qualitativ hochwertige und wettbewerbsfähige Produkte im Einklang mit dem Prinzip der nachhaltigen Entwicklung zu erzeugen. Ihre Organisation und ihre Aufgaben sind in den Artikeln 114 und 115 des Landwirtschaftsgesetzes vom 29. April 1998[^7-3] und in der Verordnung vom 6. November 2024[^7-4] über die landwirtschaftliche Forschung geregelt.[^7-5]
 
 <sup>4</sup> …[^7-6]
 
@@ -195,7 +195,7 @@ Das BLW verfolgt insbesondere folgende Ziele:
 [^7-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5391](https://fedlex.data.admin.ch/eli/oc/2020/934)).
 [^7-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^7-4]: [SR 915.7](https://fedlex.data.admin.ch/eli/cc/2024/652)
-[^7-5]: Fassung gemäss Art. 14 Abs. 2 der V vom 23. Mai 2012 über die landwirtschaftliche Forschung, in Kraft seit 1. Jan. 2013 ([AS 2012 3431](https://fedlex.data.admin.ch/eli/oc/2012/386)).
+[^7-5]: Fassung gemäss Art. 17 der V vom 6. Nov. 2024 über die landwirtschaftliche Forschung, in Kraft seit 1. Jan. 2025 ([AS 2024 652](https://fedlex.data.admin.ch/eli/oc/2024/652)).
 [^7-6]: Aufgehoben durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, mit Wirkung seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^7-7]: [SR 232.16](https://fedlex.data.admin.ch/eli/cc/1977/862_862_862)
 
@@ -411,12 +411,10 @@ Organisation und Aufgaben der Schweizerischen Gesellschaft für Hotelkredit (SGH
 
 **SIFEM AG**[^15i-1]
 
-<sup>1</sup> Die SIFEM AG ist eine Aktiengesellschaft des Bundes unter privatem Recht. Als Entwicklungsfinanzierungsgesellschaft investiert sie in lokale oder regionale Fonds zugunsten von KMU in Entwicklungs- und Schwellenländern.
+Aufgaben und Organisation der SIFEM AG sind im SIFEM-Gesetz vom 14. Juni 2024[^15i-2] geregelt.
 
-<sup>2</sup> Aufgaben und Organisation der SIFEM AG sind in der Verordnung vom 12. Dezember 1977[^15i-2] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe geregelt.
-
-[^15i-1]: Eingefügt durch Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^15i-2]: [SR 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^15i-1]: Eingefügt durch Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Fassung gemäss Ziff. II der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 737](https://fedlex.data.admin.ch/eli/oc/2024/737)).
+[^15i-2]: [SR 974.4](https://fedlex.data.admin.ch/eli/cc/2024/711)
 
 ## 4. Kapitel: Schlussbestimmungen
 
