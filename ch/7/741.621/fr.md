@@ -4,11 +4,11 @@ title: Ordonnance du 29 novembre 2002 relative au transport des marchandises dan
 short: SDR
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/685"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2002-11-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/685/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-685-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/685/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-685-20250101-fr-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20230101/fr"
 
 (SDR)
 
-du 29 novembre 2002 (État le 1<sup>er</sup> janvier 2023)
+du 29 novembre 2002 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -355,14 +355,14 @@ Appendice 1[^t-1]
 
 ## Dispositions s’appliquant seulement aux transports nationaux
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 sept. 2018 ([RO 2018 3819](https://fedlex.data.admin.ch/eli/oc/2018/607)). Mise à jour par le ch. I des O du DETEC du 15 sept. 2020 ([RO 2020 4119](https://fedlex.data.admin.ch/eli/oc/2020/751)) et du 20 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 531](https://fedlex.data.admin.ch/eli/oc/2022/531)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 sept. 2018 ([RO 2018 3819](https://fedlex.data.admin.ch/eli/oc/2018/607)). Mise à jour par le ch. I des O du DETEC du 15 sept. 2020 ([RO 2020 4119](https://fedlex.data.admin.ch/eli/oc/2020/751)), du 20 sept. 2022 ([RO 2022 531](https://fedlex.data.admin.ch/eli/oc/2022/531)) et du 19 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 480](https://fedlex.data.admin.ch/eli/oc/2024/480)).
 
 <table>
-<tr><th>Domaine d’application[^annex2-lvlu1-1]</th><th>Numéro ADR[^annex2-lvlu1-2]</th><th>Disposition</th></tr>
+<tr><th>Domaine d’application[^annex1-lvlu1-1]</th><th>Numéro ADR[^annex1-lvlu1-2]</th><th>Disposition</th></tr>
 <tr><td colspan="3">Partie 1: Dispositions générales</td></tr>
 <tr><td>Chap. 1.1: Champ d’application et applicabilité 1.1.3 Exemptions 1.1.3.1 Exemptions liées à la nature de l’opération de transport</td><td></td><td></td></tr>
-<tr><td>1.1.3.1 let. a</td><td>1.1.3.1 a)</td><td>Le ch. 1.1.3.1 a) ADR s’applique uniquement aux quantités maximales totales par unité de transport fixées au tableau A figurant à la fin du présent appendice. Dans le tableau A, par «quantité maximale totale par unité de transport», on entend: – pour les objets: la masse totale en kilogrammes sans leur emballage; – pour les objets de la classe 1: la masse nette en kilogrammes de la matière explosible; – pour les matières solides, les gaz liquéfiés, les gaz liquéfiés réfrigérés et les gaz dissous: la masse nette en kilogrammes; – pour les matières liquides: la quantité totale des marchandises dangereuses contenues, en litres; – pour les gaz comprimés et les produits chimiques sous pression: la contenance en eau du récipient en litres. Lorsque des marchandises dangereuses appartenant à des catégories de transport différentes, telles que définies dans le tableau A, sont transportées dans la même unité de transport, la somme des quatre éléments suivants ne doit pas dépasser 300:</td></tr>
-<tr><td></td><td></td><td>– la quantité de matières et d’objets de quantité maximale totale 1 multipliée par 300, – la quantité de matières et d’objets de quantité maximale totale 5 multipliée par 60, – la quantité de matières et d’objets de quantité maximale totale 100 multipliée par 3, et – la quantité de matières et d’objets de quantité maximale totale 300.</td></tr>
+<tr><td>1.1.3.1, let. a</td><td>1.1.3.1 a)</td><td>Le ch. 1.1.3.1 a) ADR s’applique uniquement aux quantités maximales totales par unité de transport fixées ci-après: – catégorie de transport 0: 0 – catégorie de transport 1: 1 – catégorie de transport 2: 100 – catégories de transport 3 et 4: 300 – quantités maximales dérogeant à la catégorie de transport: Classe 4.3: 0 matières appartenant au groupe d’emballage I Classe 1: 1 matières des divisions 1.1C–1.5D et objets des divisions 1.1B et 1.2B Classe 4.2: matières appartenant au groupe d’emballage II Classe 4.3: matières appartenant aux groupes d’emballage II et III et ne figurant pas dans la quantité maximale autorisée 0 Classe 1: 5 objets des divisions 1.1C–1.1J, 1.2C–1.2J, 1.3C–1.3J, 1.4B–1.4S, 1.6N Classe 4.1: n<sup>os</sup> ONU 3225–3230, 3531 et 3532 Classe 5.1: matières appartenant au groupe d’emballage II Classe 5.2: n<sup>os</sup> ONU 3105–3110 Par «quantité maximale totale par unité de transport», on entend: – pour les objets, la masse totale en kilogrammes sans leur emballage (pour les objets de la classe 1, la masse nette en kilogrammes de la matière explosible; pour les marchandises dangereuses transportées dans des appareils et équipements décrits plus en détail dans l’annexe A de l’ADR, la quantité totale des marchandises dangereuses contenues en kilogrammes ou en litres); – pour les matières solides, les gaz liquéfiés, les gaz liquéfiés réfrigérés et les gaz dissous, la masse nette en kilogrammes; – pour les matières liquides, la quantité totale des marchandises dangereuses contenues, en litres; – pour les gaz comprimés, les gaz adsorbés et les produits chimiques sous pression, la contenance en eau du récipient en litres. Lorsque des marchandises dangereuses appartenant à des catégories de transport différentes sont trans- portées dans la même unité de transport, la somme de: – la quantité de matières et d’objets de quantité maximale totale 1 multipliée par 300, – la quantité de matières et d’objets de quantité maximale totale 5 multipliée par 60, – la quantité de matières et d’objets de quantité maximale totale 100 multipliée par 3, et – la quantité de matières et d’objets de quantité maximale 300, ne doit pas dépasser une valeur calculée de 300.</td></tr>
+<tr><td>Tableau A relatif au ch. 1.1.3.1, let. a</td><td></td><td>*Abrogé*</td></tr>
 <tr><td>1.1.3.1 let. c</td><td>1.1.3.1 c)</td><td>Les emballages énumérés au ch. 1.1.3.1 c) ADR, y compris les grands récipients pour vrac (GRV) et les grands emballages, dont la contenance est supérieure à 450 litres, doivent être conformes aux dispositions des parties 4 et 6 ADR pour ce qui est de l’emballage, des épreuves, de l’homologation et du marquage.</td></tr>
 <tr><td>1.1.3.6 Exemptions en fonction des quantités transportées par unité de transport</td><td></td><td></td></tr>
 <tr><td>1.1.3.6.2</td><td>1.1.3.6.2</td><td>Les prescriptions suivantes ne s’appliquent pas aux transports concernés par les exemptions visées au ch. 1.1.3.6 ADR: – l’assurance responsabilité civile augmentée, – les dispositions du présent appendice relatives à l’arrêt et au stationnement (ch. 8.4.3); les restrictions de circulation (art. 13) doivent toutefois être appliquées.</td></tr>
@@ -379,27 +379,27 @@ Appendice 1[^t-1]
 <tr><td>Chap. 1.5: Dérogations 1.5.3 Dérogation pour les envois militaires</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Les dispositions relatives aux transports routiers militaires sont applicables aux envois militaires.</td></tr>
 <tr><td>Chap. 1.6: Mesures transitoires 1.6.1 Divers</td><td></td><td></td></tr>
-<tr><td>1.6.1.1</td><td>1.6.1.1</td><td>Les matières et objets peuvent être transportés jusqu’au 30 juin 2023 selon les prescriptions en vigueur jusqu’au 31 décembre 2022.</td></tr>
+<tr><td>1.6.1.1</td><td>1.6.1.1</td><td>Les matières et objets peuvent être transportés jusqu’au 30 juin 2025 selon les prescriptions en vi- gueur jusqu’au 31 décembre 2024.</td></tr>
 <tr><td>1.6.1.44</td><td>1.6.1.44</td><td>*Abrogé*</td></tr>
 <tr><td>1.6.3 Citernes fixes (véhicules citernes), citernes démontables et véhicules-batteries</td><td></td><td></td></tr>
-<tr><td>1.6.3.30*a*</td><td></td><td>Les citernes à déchets opérant sous vide au sens du ch. 1.2.1 ADR prévues pour le transport de déchets dangereux, construites avant le 1<sup>er</sup> janvier 1999 et qui correspondaient aux directives EMPA en vigueur jusqu’au 31 décembre 1998, mais qui ne sont pas conformes aux prescriptions du chap. 6.10 ADR applicables à partir du 1<sup>er</sup> janvier 1999, peuvent encore être utilisées après cette date. Elles seront assujetties aux prescriptions techniques des directives EMPA[^annex2-lvlu1-3], à l’exception des prescriptions concernant les intervalles entre les contrôles périodiques. Elles seront soumises aux fréquences de contrôles périodiques prescrites au ch. 6.10.4 ADR.</td></tr>
+<tr><td>1.6.3.30*a*</td><td></td><td>Les citernes à déchets opérant sous vide au sens du ch. 1.2.1 ADR prévues pour le transport de déchets dangereux, construites avant le 1<sup>er</sup> janvier 1999 et qui correspondaient aux directives EMPA en vigueur jusqu’au 31 décembre 1998, mais qui ne sont pas conformes aux prescriptions du chap. 6.10 ADR applicables à partir du 1<sup>er</sup> janvier 1999, peuvent encore être utilisées après cette date. Elles seront assujetties aux prescriptions techniques des directives EMPA[^annex1-lvlu1-3], à l’exception des prescriptions concernant les intervalles entre les contrôles périodiques. Elles seront soumises aux fréquences de contrôles périodiques prescrites au ch. 6.10.4 ADR.</td></tr>
 <tr><td>1.6.4 Conteneurs-citernes, citernes mobiles et CGEM</td><td></td><td></td></tr>
 <tr><td>1.6.4.1*a*</td><td></td><td>Les conteneurs-citernes agréés conformément aux dispositions du ch. marginal 212 127 (5) de l’appendice B.1b SDR dans la teneur du 1<sup>er</sup> mai 1985, valables jusqu’au 31 décembre 1987 pour le transport de matières déterminées, peuvent encore être utilisés comme grands récipients pour vrac (GRV) s’ils satisfont aux exigences suivantes de l’ADR: ch. 6.5.3, 6.5.4.4, 6.5.4.5 et 6.5.5.1, à l’exception des ch. 6.5.5.1.5 et 6.5.5.1.6.</td></tr>
 <tr><td>1.6.5 Véhicules</td><td></td><td></td></tr>
 <tr><td>1.6.5.1*a*</td><td></td><td>En dérogation aux remarques d) et g) du tableau du ch. 9.2.1 ADR, il n’existe pas d’obligation d’équiper après coup d’un système ABS et d’un dispositif de frein d’endurance les véhicules visés au ch. 9.2.3.1 ADR, si tant est qu’ils aient été immatriculés pour la première fois avant le 1<sup>er</sup> janvier 1994.</td></tr>
 <tr><td>1.6.14 Conteneurs-citernes de chantier</td><td></td><td></td></tr>
 <tr><td>1.6.14.1</td><td></td><td>Les conteneurs-citernes de chantier construits avant le 1<sup>er</sup> janvier 2013 et équipés d’une collerette de protection avec un jeu de moins de 25 mm au-dessus de la plus haute des parties à protéger peuvent continuer à être utilisés.</td></tr>
-<tr><td>1.6.14.2</td><td></td><td>Les agréments de type pour les conteneurs-citernes de chantier d’une capacité maximale de 3000 litres qui ont été délivrés avant le 1<sup>er</sup> juillet 2019 conformément aux dispositions en vigueur jusqu’au 31 décembre 2018 ne sont pas retirés, en dérogation au ch. 6.8.2.3.3 ADR.</td></tr>
+<tr><td>1.6.14.2</td><td></td><td>Les agréments de type pour les conteneurs-citernes de chantier d’une capacité maximale de 3000 litres qui ont été délivrés avant le 1<sup>er</sup> juillet 2019 conformément aux dispositions en vigueur jusqu’au 31 décembre 2018 ne sont pas retirés, en dérogation au ch. 1.8.7.2.2.2 ADR.</td></tr>
 <tr><td>1.6.14.3</td><td></td><td>Les conteneurs-citernes d’une capacité maximale de 3000 litres ayant fait l’objet d’un agrément de type conformément aux dispositions en vigueur jusqu’au 31 décembre 2018, peuvent continuer d’être utilisés. Ils sont soumis aux contrôles et inspections visés au ch. 6.14.1.1.2 ainsi qu’aux prescriptions d’utilisation prévues au ch. 4.8 du présent appendice.</td></tr>
 <tr><td>1.6.14.4</td><td></td><td>Le transport de 1150 litres, au maximum, de carburant diesel (n<sup>o</sup> ONU 1202) dans des conteneurs-citernes de chantier d’une capacité du réservoir maximale de 1210 litres bénéficie des exemptions selon le ch. 1.1.3.6.2 ADR, comme les colis. La signalisation des conteneurs-citernes de chantier se fonde sur le chap. 5.3 ADR. Les véhicules transporteurs avec lesquels les conteneurs-citernes de chantier sont transportés ne doivent pas porter de signalisation. Pour ce qui est du passage dans les tunnels, les conteneurs-citernes de chantier sont soumis aux mêmes restrictions que les unités de transport qui doivent être signalées.</td></tr>
 <tr><td>1.6.14.5</td><td></td><td>Pour les conteneurs-citernes de chantier construits jusqu’au 30 juin 2023 selon la norme mentionnée au ch. 6.14.1.3, aucune obligation d’équipement n’est prévue concernant l’estampillage du numéro de série de la citerne sur le réservoir et la fixation de la plaque.</td></tr>
 <tr><td>Chap. 1.10: Dispositions concernant la sûreté 1.10.1 Dispositions générales</td><td></td><td></td></tr>
-<tr><td>1.10.1.7</td><td></td><td>Pour les titulaires d’une autorisation valable d’emploi avec mention FWB ou HA ou d’une autorisation valable de minage (art. 51 et 52 de l’ordonnance du 27 novembre 2000 sur les explosifs [OExpl][^annex2-lvlu1-4]), les dispositions du chap. 1.10 ADR ne sont pas applicables aux matières et objets explosibles mentionnés au premier tiret du ch. 1.1.3.6.2.</td></tr>
+<tr><td>1.10.1.7</td><td></td><td>Pour les titulaires d’une autorisation valable d’emploi avec mention FWB ou HA ou d’une autorisation valable de minage (art. 51 et 52 de l’ordonnance du 27 novembre 2000 sur les explosifs [OExpl][^annex1-lvlu1-4]), les dispositions du chap. 1.10 ADR ne sont pas applicables aux matières et objets explosibles mentionnés au premier tiret du ch. 1.1.3.6.2.</td></tr>
 <tr><td>1.10.2 Formation en matière de sûreté</td><td></td><td></td></tr>
 <tr><td>1.10.2.4</td><td>1.10.2.4</td><td>Les relevés de la formation reçue conformément au chap. 1.10 ADR doivent être conservés au moins 5 ans.</td></tr>
 <tr><td colspan="3">Partie 3: Liste des marchandises dangereuses, dispositions spéciales et exemptions relatives aux quantités limitées et aux quantités exceptées</td></tr>
 <tr><td>Chap. 3.3: Dispositions spéciales applicables à une matière ou à un objet particuliers</td><td></td><td></td></tr>
-<tr><td>DS 363</td><td>DS 363</td><td>L’exemption concerne uniquement les machines et le matériel soumis à la loi fédérale du 12 juin 2009 sur la sécurité des produits[^annex2-lvlu1-5].</td></tr>
+<tr><td>DS 363</td><td>DS 363</td><td>L’exemption concerne uniquement les machines et le matériel soumis à la loi fédérale du 12 juin 2009 sur la sécurité des produits[^annex1-lvlu1-5].</td></tr>
 <tr><td colspan="3">Partie 4: Utilisation des emballages, des grands récipients pour vrac (GRV), des grands emballages et des citernes</td></tr>
 <tr><td>Chap. 4.1: Utilisation des emballages, des grands récipients pour vrac (GRV) et des grands emballages 4.1.1 Dispositions générales relatives à l’emballage des marchandises dangereuses dans des emballages, y compris des GRV et des grands emballages 4.1.1.22 Transport d’emballages entamés</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Pour les chargements désignés au ch. 7.5.2.2, remarque a, ADR, les matières explosibles admises pour leurs propriétés explosives selon l’OExpl et se trouvant dans des emballages entamés, doivent être transportées dans des récipients fermés conformément aux dispositions de l’annexe 11.2 de l’ordonnance précitée. Les récipients doivent être homologués selon les prescriptions du chap. 6.1 ADR et autorisés au transport de ces explosifs. Les prescriptions du ch. 2.2.1.1.6, remarque 3, ADR, doivent être respectées.</td></tr>
@@ -434,26 +434,26 @@ Appendice 1[^t-1]
 <tr><td></td><td></td><td>Le marquage des conteneurs-citernes de chantier se fonde sur le chap. 5.3 ADR.</td></tr>
 <tr><td colspan="3">Partie 7: Prescriptions concernant les conditions de transport, le chargement, le déchargement et la manutention</td></tr>
 <tr><td>Chap. 7.4: Prescriptions relatives au transport dans des citernes</td><td></td><td></td></tr>
-<tr><td>7.4.1</td><td>7.4.1</td><td>Moyennant une autorisation de l’autorité cantonale, il est permis de transporter du carburant diesel, du gazole ou de l’huile de chauffe légère relevant de la disposition spéciale 640L ou 640M conformément au ch. 3.2.1, tableau A, ADR, dans des citernes de chariots à moteur (art. 11, al. 2, let. g, OETV[^annex2-lvlu1-6]) au sens du ch. 9.1.2 du présent appendice, pour autant que les conditions locales ou les caractéristiques du terrain ne permettent pas d’effectuer le transport avec des véhicules des catégories N et O conformément au droit de l’UE.</td></tr>
+<tr><td>7.4.1</td><td>7.4.1</td><td>Moyennant une autorisation de l’autorité cantonale, il est permis de transporter du carburant diesel, du gazole ou de l’huile de chauffe légère relevant de la disposition spéciale 640L ou 640M conformément au ch. 3.2.1, tableau A, ADR, dans des citernes de chariots à moteur (art. 11, al. 2, let. g, OETV[^annex1-lvlu1-6]) au sens du ch. 9.1.2 du présent appendice, pour autant que les conditions locales ou les caractéristiques du terrain ne permettent pas d’effectuer le transport avec des véhicules des catégories N et O conformément au droit de l’UE.</td></tr>
 <tr><td>Chap. 7.5: Prescriptions relatives au chargement, au déchargement et à la manutention 7.5.2 Interdiction du chargement en commun</td><td></td><td></td></tr>
 <tr><td>7.5.2.2 Remarque a</td><td>7.5.2.2 Remarque a)</td><td>**Chargement en commun de moyens de mise à feu et de matières explosibles dans un même véhicule** Les titulaires d’un permis de minage (art. 57 et 58 OExpl) sont autorisés à charger dans le même véhicule des colis contenant des objets du groupe de compatibilité B (détonateurs) et des colis contenant des matériaux et des objets du groupe de compatibilité D (matières explosibles et objets contenant des matières explosibles) aux conditions suivantes: a. Le transport s’effectue exclusivement selon le ch. 1.1.3.6 ADR: exemptions liées aux quantités transportées par unité de transport. b. La masse nette de matières explosibles ne dépasse pas 20 kg par unité de transport. c. Il n’est possible d’utiliser comme détonateurs que les articles du groupe de compatibilité B autorisés par l’Office fédéral de la police, Office central pour les explosifs et la pyrotechnique, à raison d’une quantité totale ne dépassant pas 50 articles par unité de transport. d. Les détonateurs doivent se trouver sur le sol du véhicule. Les matières explosibles et les objets contenant des matières explosibles doivent se trouver dans le coffre s’il s’agit d’une voiture de tourisme ou sur la surface de chargement s’il s’agit d’une voiture de livraison. e. Une copie de l’agrément relatif au compartiment de protection ou système spécial de contenant de protection selon les ch. 5.4.1.2.1, let. d, et 8.1.2.2, let. c, ADR, n’est pas nécessaire.</td></tr>
 <tr><td>7.5.11 Dispositions supplémentaires relatives à des classes ou à des marchandises particulières</td><td></td><td></td></tr>
-<tr><td>CV 36</td><td>CV 36</td><td>...</td></tr>
+<tr><td>CV 36</td><td>CV 36</td><td>…</td></tr>
 <tr><td colspan="3">Partie 8: Prescriptions relatives aux équipages, à l’équipement et à l’exploitation des véhicules et à la documentation</td></tr>
 <tr><td>Chap. 8.1: Prescriptions générales relatives aux unités de transport et au matériel de bord 8.1.2 Documents de bord</td><td></td><td></td></tr>
 <tr><td>8.1.2.1 let. a</td><td>8.1.2.1 a)</td><td>Le transport sans document de transport est autorisé pour: – les emballages vides non nettoyés appartenant à la catégorie de transport 4, à l’exception du n<sup>o</sup> ONU 3509; – les bouteilles à gaz remplies ou vides pour les appareils respiratoires des services d’urgence et pour les appareils de plongée (Cl. 2, n<sup>o</sup> ONU 1002, code de classification 1A et n<sup>o</sup> ONU 3156, code de classification 1O).</td></tr>
 <tr><td>8.1.2.1 let. d</td><td>8.1.2.1 d)</td><td>Le document d’identification que chaque membre de l’équipage est tenu d’avoir sur lui selon le ch. 1.10.1.4 ADR doit être un document officiel.</td></tr>
 <tr><td>Chap. 8.2: Prescriptions relatives à la formation de l’équipage du véhicule 8.2.1 Champ d’application et prescriptions générales relatives à la formation des conducteurs</td><td></td><td></td></tr>
-<tr><td></td><td>8.2.1</td><td>Les courses avec des véhicules qui doivent être signalés ne sont autorisées sans certificat de formation ADR que s’il s’agit: a. de courses de transfert de véhicules en panne; b. de courses d’essai liées à une réparation ou à une panne; c. de courses effectuées avec des véhicules-citernes pour se rendre à un contrôle de véhicule ou de citerne prescrit; d. de courses effectuées avec des véhicules-citernes par des experts de la circulation pendant le contrôle du véhicule.</td></tr>
+<tr><td></td><td>8.2.1</td><td>Les courses avec des véhicules qui doivent être signalés ne sont autorisées sans certificat de formation ADR que s’il s’agit: a. de courses de transfert de véhicules en panne; b. de courses d’essai liées à une réparation ou à une panne; c. de courses effectuées avec des véhicules-citernes pour se rendre à un contrôle de véhicule ou de citerne prescrit et de courses effectuées avec des véhicules munis de batteries fixes fournissant de l’énergie hors de l’engin de transport pour se rendre à un contrôle de véhicule; d. de courses effectuées avec des véhicules-citernes ou des véhicules munis de batteries fixes fournissant de l’énergie hors de l’engin de transport par des experts de la circulation pendant le contrôle du véhicule.</td></tr>
 <tr><td>8.2.1.7 Formation spéciale des conducteurs de la classe 7</td><td></td><td></td></tr>
 <tr><td>8.2.1.7.1</td><td></td><td>Les prescriptions du ch. 8.2.1 ADR s’appliquent aux conducteurs de véhicules transportant des matières radioactives des numéros ONU 2912 à 2919, 2977, 2978 et 3321 à 3333.</td></tr>
-<tr><td>8.2.1.7.2</td><td></td><td>Les conducteurs de véhicules transportant exclusivement des matières de la classe 7, et cela uniquement à l’intérieur de la Suisse, peuvent être dispensés de participer au cours de formation de base. Ils doivent suivre un cours de radioprotection et un cours de spécialisation pour le transport de matières radioactives et réussir l’examen. Le cours de radioprotection et le cours de spécialisation doivent comprendre chacun au moins 8 séances d’enseignement. La participation au cours et la réussite de l’examen sont attestées dans le certificat de formation SDR[^annex2-lvlu1-7] par la mention «Transport de matières radioactives selon le ch. 8.2.1.7.2, appendice 1, SDR, valable uniquement pour le transport en Suisse». Le certificat est renouvelé pour cinq ans si le candidat participe à un cours de recyclage et réussit l’examen dans les douze mois précédant la date d’échéance dudit certificat.</td></tr>
+<tr><td>8.2.1.7.2</td><td></td><td>En lieu et place du cours de formation de base et du cours de spécialisation sur la classe 7 selon l’ADR, les conducteurs de véhicules transportant exclusivement des matières de la classe 7, et cela uniquement à l’intérieur de la Suisse, peuvent suivre un cours de radioprotection (champ d’application I 16, conducteurs de véhicules transportant des matières radioactives selon la SDR, tableau 1, annexe 4 de l’ordonnance du DFI du 26 avril 2017 sur les formations, les formations continues et les activités autorisées en matière de radioprotection[^annex1-lvlu1-7]) et passer un examen. Ce cours doit comprendre le cours de spécialisation sur la classe 7 ainsi que des exercices pratiques individuels couvrant au minimum les premiers secours, la lutte contre les incendies et les mesures à prendre en cas d’incident. Si l’examen est réussi, le conducteur se verra délivrer un certificat de formation SDR avec la mention «Transport de matières radioactives selon le ch. 8.2.1.7.2, appendice 1, SDR, valable uniquement pour le transport en Suisse». Le certificat est renouvelé pour cinq ans si le candidat participe à nouveau au cours de radioprotection et réussit l’examen dans les douze mois précédant la date d’échéance dudit certificat.</td></tr>
 <tr><td>8.2.1.8 Formation des conducteurs titulaires d’un permis de minage ou d’emploi</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Les titulaires d’une autorisation valable d’emploi avec mention FWB ou HA ou d’une autorisation valable de minage (art. 51 et 52 OExpl) sont autorisés à transporter, sans certificat de formation ADR, des marchandises dangereuses de la classe 1. Cette autorisation est cependant limitée aux explosifs et engins pyrotechniques pour lesquels les permis ont été délivrés.</td></tr>
 <tr><td>Chap. 8.4: Prescriptions relatives à la surveillance des véhicules 8.4.3 Arrêt et stationnement 8.4.3.1 Arrêt et stationnement – généralités</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>L’arrêt volontaire et le parcage sur la voie publique d’un véhicule transportant des marchandises soumises à la présente ordonnance sont interdits lorsqu’ils ne sont pas rendus nécessaires par les besoins inhérents au transport lui-même, à savoir le chargement ou le déchargement, le contrôle des véhicules ou du chargement, le repas du conducteur, ou les mauvaises conditions atmosphériques. Dans la mesure du possible, les arrêts volontaires et les parcages prolongés seront effectués sur des emplacements auxquels des tiers non autorisés n’ont pas accès.</td></tr>
 <tr><td>8.4.3.2 Stationnement de nuit ou par mauvaise visibilité</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Lorsque, de nuit ou par mauvaise visibilité, les feux d’un véhicule immobilisé sur la chaussée ne fonctionnent pas, les deux signaux d’avertissement autoporteurs, prescrits au ch. 8.1.5 ADR, seront placés chacun à 10 m de l’avant et de l’arrière du véhicule, en sus du triangle de panne posé à 50 m au moins, conformément à l’art. 23, al. 2, OCR[^annex2-lvlu1-8].</td></tr>
+<tr><td></td><td></td><td>Lorsque, de nuit ou par mauvaise visibilité, les feux d’un véhicule immobilisé sur la chaussée ne fonctionnent pas, les deux signaux d’avertissement autoporteurs, prescrits au ch. 8.1.5 ADR, seront placés chacun à 10 m de l’avant et de l’arrière du véhicule, en sus du triangle de panne posé à 50 m au moins, conformément à l’art. 23, al. 2, OCR[^annex1-lvlu1-8].</td></tr>
 <tr><td>8.4.3.3 Arrêt et stationnement d’un véhicule présentant un danger particulier</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Si les marchandises dangereuses chargées sur le véhicule à l’arrêt ou en stationnement présentent un danger particulier pour les usagers de la route, notamment en cas d’épandage sur la chaussée de matières dangereuses pour les piétons, les animaux ou les véhicules, et si l’équipage du véhicule ne peut remédier rapidement à ce danger, il faut alerter immédiatement les autorités compétentes les plus proches. L’équipage prendra en outre les mesures prescrites dans les consignes visées au ch. 5.4.3 ADR.</td></tr>
 <tr><td>Chap. 8.5: Prescriptions supplémentaires relatives à certaines classes ou marchandises</td><td></td><td></td></tr>
@@ -463,55 +463,14 @@ Appendice 1[^t-1]
 <tr><td></td><td></td><td>Les chariots à moteur destinés au transport de marchandises dangereuses dans des citernes conformément au ch. 7.4.1 du présent appendice doivent être conformes aux prescriptions des chap. 9.1, 9.2 et 9.7 ADR, à l’exception de celles des ch. 9.2.3, 9.2.5 et 9.7.5.2 ADR. Le certificat d’agrément selon le ch. 9.1.3.5 ADR attestera de la conformité auxdites prescriptions; à cet égard, la désignation du véhicule (AT) sera indiquée au ch. 7 du certificat d’agrément, tandis que la mention «Autorisation en tant que véhicule AT conformément au ch. 7.4.1, appendice 1, SDR» et le secteur de circulation autorisé seront inscrits au ch. 11.</td></tr>
 </table>
 
-Tableau A relatif au ch. 1.1.3.1, let. a:
-
-<table>
-<tr><th>Matières ou objets</th><th>Quantité maximale totale par unité de transport</th></tr>
-<tr><td>Classe 1: 1.1A, 1.1L, 1.2L, 1.3L, 1.4L, N<sup>o</sup> ONU 0190</td><td>0</td></tr>
-<tr><td>Classe 3: N<sup>o</sup> ONU 3343</td><td></td></tr>
-<tr><td>Classe 4.2: matières appartenant au groupe d’emballage I</td><td></td></tr>
-<tr><td>Classe 4.3: matières appartenant au groupe d’emballage I</td><td></td></tr>
-<tr><td>Classe 5.1: N<sup>o</sup> ONU 2426</td><td></td></tr>
-<tr><td>Classe 6.1: N<sup>os</sup> 1051, 1600, 1613, 1614, 2312, 3250 et 3294</td><td></td></tr>
-<tr><td>Classe 6.2: N<sup>os</sup> 2814, 2900 et 3549</td><td></td></tr>
-<tr><td>Classe 7: N<sup>o</sup> ONU 2912–2919, 2977, 2978, 3321–3333</td><td></td></tr>
-<tr><td>Classe 8: N<sup>o</sup> ONU 2215 (ANHYDRIDE MALEIQUE FONDU)</td><td></td></tr>
-<tr><td>Classe 9: N<sup>os</sup> ONU 2315, 3151, 3152 et 3432 ainsi que les appareils qui contiennent de telles matières ou des mélanges de celles-ci</td><td></td></tr>
-<tr><td>ainsi que les emballages vides non nettoyés ayant contenu des matières figurant dans cette catégorie de transport, à l’exception de ceux classés sous le N<sup>o</sup> ONU 2908.</td><td></td></tr>
-<tr><td>Classe 1: matières des divisions 1.1C–1.5D et objets des divisions 1.1B et 1.2B</td><td>1</td></tr>
-<tr><td>Classe 4.1: N<sup>os</sup> ONU 3221–3224 et 3231–3240, 3533, 3534 et matières appartenant au groupe d’emballage I</td><td></td></tr>
-<tr><td>Classe 4.2: matières appartenant au groupe d’emballage II</td><td></td></tr>
-<tr><td>Classe 4.3: matières appartenant au groupe d’emballage II ou III</td><td></td></tr>
-<tr><td>Classe 5.1: matières appartenant au groupe d’emballage I</td><td></td></tr>
-<tr><td>Classe 5.2: N<sup>os</sup> ONU 3101–3104, 3111–3120</td><td></td></tr>
-<tr><td>Matières et objets appartenant au groupe d’emballage I et ne figurant pas dans les quantités maximales autorisées 0 ou 1 ainsi que les matières et objets appartenant aux classes ou groupes suivants:</td><td>5</td></tr>
-<tr><td>Classe 1: Objets des divisions 1.1C–1.1J, 1.2C–1.2J, 1.3C–1.3J, 1.4B–1.4S, 1.6N</td><td></td></tr>
-<tr><td>Classe 2: groupes T, TC, TO, TF, TOC et TFC aérosols: groupes C, CO, FC, T, TF, TC, TO, TFC et TOC Produit chimique sous pression: N<sup>os</sup> ONU 3502, 3503, 3504 et 3505</td><td></td></tr>
-<tr><td>Classe 4.1: N<sup>os</sup> ONU 3225–3230, 3531 et 3532</td><td></td></tr>
-<tr><td>Classe 5.1: matières appartenant au groupe d’emballage II</td><td></td></tr>
-<tr><td>Classe 5.2: N<sup>os</sup> ONU 3105–3110</td><td></td></tr>
-<tr><td>Matières et objets appartenant au groupe d’emballage II et ne figurant pas dans les quantités maximales autorisées 0, 1 ou 5 ainsi que les matières et objets appartenant aux classes ou groupes suivants:</td><td>100</td></tr>
-<tr><td>Classe 2: groupe F aérosols: groupe F produits chimiques sous pression: N<sup>o</sup> ONU 3501</td><td></td></tr>
-<tr><td>Classe 5.1: matières appartenant au groupe d’emballage III</td><td></td></tr>
-<tr><td>Classe 6.1: matières appartenant au groupe d’emballage III</td><td></td></tr>
-<tr><td>Classe 9: N<sup>os</sup> ONU 3090, 3091, 3245, 3480, 3481 et 3536</td><td></td></tr>
-<tr><td>Matières et objets appartenant au groupe d’emballage III et ne figurant pas dans les quantités maximales autorisées 0, 1, 5 ou 100 ainsi que les matières et objets appartenant aux classes ou groupes suivants:</td><td>300</td></tr>
-<tr><td>Classe 2: groupes A et O aérosols: groupes A et O produits chimiques sous pression: N<sup>o</sup> ONU 3500</td><td></td></tr>
-<tr><td>Classe 3: N<sup>o</sup> ONU 3473</td><td></td></tr>
-<tr><td>Classe 4.3: N<sup>o</sup> ONU 3476</td><td></td></tr>
-<tr><td>Classe 7: N<sup>os</sup> ONU 2908–2911</td><td></td></tr>
-<tr><td>Classe 8: N<sup>os</sup> ONU 2794, 2795, 2800, 3028, 3477 et 3506</td><td></td></tr>
-<tr><td>Classe 9: N<sup>os</sup> ONU 2990 et UN 3072</td><td></td></tr>
-</table>
-
-[^annex2-lvlu1-1]: La numérotation utilisée renvoie à celle de l’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)).
-[^annex2-lvlu1-2]: Lorsque la colonne «Numéro ADR» est remplie, la disposition de la SDR se réfère à la disposition correspondante de l’ADR.
-[^annex2-lvlu1-3]: Les directives techniques du 31 octobre 1989 du Laboratoire fédéral d’essais des matériaux et de recherche (EMPA) relatives aux citernes à pompe aspirante et foulante peuvent être consultées à l’adresse suivante: https://www.ofrou.admin.ch &gt; Public professionnel &gt; Véhicules et marchandises dangereuses &gt; Marchandises dangereuses &gt; Droit national.
-[^annex2-lvlu1-4]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
-[^annex2-lvlu1-5]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex2-lvlu1-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^annex2-lvlu1-7]: Cf. instructions de l’OFROU concernant les caractéristiques du certificat de formation SDR.
-[^annex2-lvlu1-8]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1-lvlu1-1]: La numérotation utilisée renvoie à celle de l’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)).
+[^annex1-lvlu1-2]: Lorsque la colonne «Numéro ADR» est remplie, la disposition de la SDR se réfère à la disposition correspondante de l’ADR.
+[^annex1-lvlu1-3]: Les directives techniques du 31 octobre 1989 du Laboratoire fédéral d’essais des matériaux et de recherche (EMPA) relatives aux citernes à pompe aspirante et foulante peuvent être consultées à l’adresse suivante: https://www.ofrou.admin.ch &gt; Public professionnel &gt; Véhicules et marchandises dangereuses &gt; Marchandises dangereuses &gt; Droit national.
+[^annex1-lvlu1-4]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+[^annex1-lvlu1-5]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^annex1-lvlu1-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-7]: [RS 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
+[^annex1-lvlu1-8]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 Appendice 2[^t-2]
 
@@ -523,21 +482,21 @@ Appendice 2[^t-2]
 
 ### 1 Tronçons routiers comportant des tunnels
 
-Liste des tronçons routiers comportant des catégories de restrictions selon la section 1.9.5 ADR[^annex3-lvlu1-lvl1-1]:
+Liste des tronçons routiers comportant des catégories de restrictions selon la section 1.9.5 ADR[^annex2-lvlu1-lvl1-1]:
 
 <table>
 <tr><td>Canton</td><td colspan="2">Tronçon (Route nationale = N Route cantonale = RC)</td><td></td><td>Tunnel</td><td>Catégorie de tunnel (1.9.5.2 ADR)</td></tr>
 <tr><td>UR/TI</td><td>N2</td><td colspan="2">Göschenen–Airolo</td><td>Saint-Gothard</td><td>E</td></tr>
 <tr><td>GR</td><td>N13</td><td colspan="2">Thusis–Tessin</td><td>San Bernardino</td><td>E</td></tr>
 <tr><td>TG</td><td>RC</td><td colspan="2">Frauenfeld</td><td>Giratoire de la gare de Frauenfeld</td><td>E</td></tr>
-<tr><td>TI</td><td>N13[^annex3-lvlu1-lvl1-2]</td><td colspan="2">Bellinzona–Brissago</td><td>Mappo/Morettina</td><td>E</td></tr>
+<tr><td>TI</td><td>N13[^annex2-lvlu1-lvl1-2]</td><td colspan="2">Bellinzona–Brissago</td><td>Mappo/Morettina</td><td>E</td></tr>
 <tr><td>TI</td><td>RC</td><td colspan="2">Lugano</td><td>Vedeggio–Cassarate</td><td>E</td></tr>
 <tr><td>VD</td><td>RC</td><td colspan="2">Crissier</td><td>Galerie du Marcolet</td><td>E</td></tr>
 <tr><td>VS/Italien</td><td>RC</td><td colspan="2">Martigny–Aosta</td><td>Grand-Saint-Bernard</td><td>E</td></tr>
 </table>
 
-[^annex3-lvlu1-lvl1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^annex3-lvlu1-lvl1-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex2-lvlu1-lvl1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^annex2-lvlu1-lvl1-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 ### 2 Tronçons de routes à proximité d’eaux protégées
 
@@ -548,7 +507,7 @@ Le transport de marchandises dangereuses au sens du ch. 2.2 du présent appendic
 - AG Baden/Dättwil, route communale «Täfernstrasse» (longueur env. 250 m);
 - AG Frick-Oeschgen, route communale «Oeschgerstrasse» (longueur env. 600 m);
 - AG Route cantonale 335, «Brunnenrainstrasse», tronçon compris entre «Berghof» (point 663) et le bâtiment du «Restaurant Waldegg»;
-- AG Route cantonale 420[^annex3-lvlu1-lvl2-lvl21-1], tronçon compris entre Mülligen (longueur 400 m) et Birmenstorf (longueur 500 m);
+- AG Route cantonale 420[^annex2-lvlu1-lvl2-lvl21-1], tronçon compris entre Mülligen (longueur 400 m) et Birmenstorf (longueur 500 m);
 - AG Reinach, route communale «Brüggelmoosstrasse» (longueur 400 m);
 - AG Spreitenbach, route communale «Müslistrasse» (longueur 250 m);
 - BE Belp, Gürbebrücke–bifurcation Auhaus/Giessenhof (longueur 1,3 km);
@@ -557,52 +516,52 @@ Le transport de marchandises dangereuses au sens du ch. 2.2 du présent appendic
 - BE Seedorf, route communale Räbhalen–bifurcation Holteren/Ruchwil (longueur 300 m);
 - BL Muttenz, «Rheinfelderstrasse», tronçon compris entre l’embranchement «Auhafen» et le raccordement à Hagnau (longueur 2,4 km);
 - BS Bâle et Riehen, «Riehenstrasse»–«Äussere Baselstrasse», tronçon compris entre la «Fasanenstrasse/Allmendstrasse» et la «Rauracherstrasse» (longueur env. 1 km);
-- BS Riehen, «Äussere Baselstrasse», tronçon compris entre la «Rau-racherstrasse» et la «Bäumlihofstrasse» (longueur env. 200 m)[^annex3-lvlu1-lvl2-lvl21-2];
-- BS Riehen, «Rauracherstrasse», tronçon compris entre la «Äussere Baselstrasse» et la «Bäumlihofstrasse» (longueur env. 200 m) [^annex3-lvlu1-lvl2-lvl21-3];
+- BS Riehen, «Äussere Baselstrasse», tronçon compris entre la «Rau-racherstrasse» et la «Bäumlihofstrasse» (longueur env. 200 m)[^annex2-lvlu1-lvl2-lvl21-2];
+- BS Riehen, «Rauracherstrasse», tronçon compris entre la «Äussere Baselstrasse» et la «Bäumlihofstrasse» (longueur env. 200 m) [^annex2-lvlu1-lvl2-lvl21-3];
 - BS Riehen, «Weilstrasse», tronçon compris entre la «Lörracherstrasse» et le poste de douane de la «Weilstrasse» (longueur env. 800 m);
-- GE Route cantonale 75, chemin de la Greube conduisant aux gravières du Bois de Bay[^annex3-lvlu1-lvl2-lvl21-4]<sup>+</sup>[^annex3-lvlu1-lvl2-lvl21-5] (longeur 1,3 km);
-- GE Route cantonale 80, route de Veyrier–hameau de Vessy[^annex3-lvlu1-lvl2-lvl21-6]<sup>+</sup>[^annex3-lvlu1-lvl2-lvl21-7] (longueur 1,1 km);
-- GE Pont de la Fontenette[^annex3-lvlu1-lvl2-lvl21-8];
-- GE Pont de Vessy[^annex3-lvlu1-lvl2-lvl21-9];
-- GE Pont du Val d’Arve[^annex3-lvlu1-lvl2-lvl21-10];
-- GE Route du Bout du Monde[^annex3-lvlu1-lvl2-lvl21-11]<sup>+</sup>[^annex3-lvlu1-lvl2-lvl21-12] (longueur 600 m);
-- GE Route du Bout du Monde[^annex3-lvlu1-lvl2-lvl21-13] tronçon compris entre le pont et le hameau de Vessy (longueur 800 m);
-- GE Chemin longeant la rive gauche du Rhône, allant du barrage de Verbois en direction du Moulin-de-Vert[^annex3-lvlu1-lvl2-lvl21-14] (longueur 1,5 km);
-- GE Chemin longeant la rive droite du Rhône, allant de la route de Verbois à l’usine de Verbois et aux gravières de Russin[^annex3-lvlu1-lvl2-lvl21-15]<sup>+</sup>[^annex3-lvlu1-lvl2-lvl21-16] (longueur 1 km);
-- GE Chemin allant de la route de Peney au lieu-dit Maison Carrée[^annex3-lvlu1-lvl2-lvl21-17]<sup>+</sup>[^annex3-lvlu1-lvl2-lvl21-18] (longueur 1,2 km);
+- GE Route cantonale 75, chemin de la Greube conduisant aux gravières du Bois de Bay[^annex2-lvlu1-lvl2-lvl21-4]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-5] (longeur 1,3 km);
+- GE Route cantonale 80, route de Veyrier–hameau de Vessy[^annex2-lvlu1-lvl2-lvl21-6]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-7] (longueur 1,1 km);
+- GE Pont de la Fontenette[^annex2-lvlu1-lvl2-lvl21-8];
+- GE Pont de Vessy[^annex2-lvlu1-lvl2-lvl21-9];
+- GE Pont du Val d’Arve[^annex2-lvlu1-lvl2-lvl21-10];
+- GE Route du Bout du Monde[^annex2-lvlu1-lvl2-lvl21-11]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-12] (longueur 600 m);
+- GE Route du Bout du Monde[^annex2-lvlu1-lvl2-lvl21-13] tronçon compris entre le pont et le hameau de Vessy (longueur 800 m);
+- GE Chemin longeant la rive gauche du Rhône, allant du barrage de Verbois en direction du Moulin-de-Vert[^annex2-lvlu1-lvl2-lvl21-14] (longueur 1,5 km);
+- GE Chemin longeant la rive droite du Rhône, allant de la route de Verbois à l’usine de Verbois et aux gravières de Russin[^annex2-lvlu1-lvl2-lvl21-15]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-16] (longueur 1 km);
+- GE Chemin allant de la route de Peney au lieu-dit Maison Carrée[^annex2-lvlu1-lvl2-lvl21-17]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-18] (longueur 1,2 km);
 - GR «Voia da Brinzauls/Voia Principala», tronçon compris entre Lantsch/Lenz et Crappa Naira (longueur 6 km);
 - GR «Via Nova/Platta», de la Holzlagerplatz de Rhäzüns à l’embranchement de la route cantonale à Rothenbrunnen (longueur 2 km);
 - GR «Via da Laax», de l’embranchement de l’Oberalpstrasse à l’embranchement situé au début de la localité de Sagogn, «Via Teit» (longueur 1,2 km);
 - NE Route cantonale 414, Saint-Martin–scierie Debrot (longueur 1 km);
-- NE Route cantonale 2233, du sud de Boveresse au nord de Môtiers, Place de la Gare (longueur env. 950 m)[^annex3-lvlu1-lvl2-lvl21-19];
+- NE Route cantonale 2233, du sud de Boveresse au nord de Môtiers, Place de la Gare (longueur env. 950 m)[^annex2-lvlu1-lvl2-lvl21-19];
 - SO Granges, Granges–Romont, «Route de Romont» (longueur: 400 m)
 - SG Route de jonction Valens–Vasön (longueur: 2,3 km);
 - TI Chiasso «Via Soldini» (tronçon compris entre «Via Passeggiata» et «Via Interlenghi», longueur 200 m) et «Via Interlenghi» (tronçon compris entre «Via Soldini» et «Via Vincenzo Vela», longueur 400 m);
 - TI Mendrisio, tronçon compris entre «Via Pra Mag», «Via Laveggio», «Via Prati Maggi» et l’embranchement «Via alla Rossa» (longueur 1,2 km);
 - TI Mendrisio–Coldrerio, «Via Sant’Apollonia» (longueur 1,5 km);
-- VD Route cantonale 26, Le Brassus–carrefour de Grand-Fuey (longueur 11 km) [^annex3-lvlu1-lvl2-lvl21-20];
+- VD Route cantonale 26, Le Brassus–carrefour de Grand-Fuey (longueur 11 km) [^annex2-lvlu1-lvl2-lvl21-20];
 - VD Route cantonale 289, Orny–Bavois, par Entreroches (longueur 2,2 km).
 
-[^annex3-lvlu1-lvl2-lvl21-1]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-2]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-3]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-4]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-5]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-6]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-7]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-8]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-9]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-10]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-11]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-12]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-13]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-14]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-15]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-16]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-17]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-18]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
-[^annex3-lvlu1-lvl2-lvl21-19]: Riverains autorisés.
-[^annex3-lvlu1-lvl2-lvl21-20]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-1]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-2]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-3]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-4]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-5]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-6]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-7]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-8]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-9]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-10]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-11]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-12]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-13]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-14]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-15]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-16]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-17]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-18]: Sur ces tronçons de routes, le transport de liquides prévus au ch. 2.2 du présent appendice est interdit uniquement s’il est effectué au moyen de véhicules-citernes.
+[^annex2-lvlu1-lvl2-lvl21-19]: Riverains autorisés.
+[^annex2-lvlu1-lvl2-lvl21-20]: Riverains autorisés.
 
 ### 2.2 Marchandises dont le transport est interdit
 
@@ -614,7 +573,7 @@ Appendice 3[^t-3]
 
 ## Liste des marchandises dangereuses dont le transport n’est autorisé qu’à certaines conditions
 
-[^t-3]: Cette app. n’était pas publiée au RO ([RO 2002 4224](https://fedlex.data.admin.ch/eli/oc/2002/686), [2008 5087](https://fedlex.data.admin.ch/eli/oc/2008/705)). Nouvelle teneur selon le ch. I al. 2 de l’O du DETEC du 26 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3455](https://fedlex.data.admin.ch/eli/oc/2016/584)).
+[^t-3]: Cette app. n’était pas publiée au RO ([RO 2002 4224](https://fedlex.data.admin.ch/eli/oc/2002/686), [2008 5087](https://fedlex.data.admin.ch/eli/oc/2008/705)). Nouvelle teneur selon le ch. I al. 2 de l’O du DETEC du 26 sept. 2016 ([RO 2016 3455](https://fedlex.data.admin.ch/eli/oc/2016/584)). Mise à jour par le ch. I de l’O du DETEC du 19 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 480](https://fedlex.data.admin.ch/eli/oc/2024/480)).
 
 Il y a lieu d’observer les dispositions plus restrictives des appendices 1 et 2.
 
@@ -624,6 +583,5 @@ Il y a lieu d’observer les dispositions plus restrictives des appendices 1 et 
 <tr><td>1017</td><td>CHLORE</td><td>2</td><td>2TOC</td><td></td><td>2.3+5.1+8</td><td>Poids net maximal autorisé: 1000 kg par récipient de transport</td></tr>
 <tr><td>1076</td><td>PHOSGÈNE</td><td>2</td><td>2TC</td><td></td><td>2.3+8</td><td>Poids net maximal autorisé: 1000 kg par récipient de transport</td></tr>
 <tr><td>1079</td><td>DIOXYDE DE SOUFRE</td><td>2</td><td>2TC</td><td></td><td>2.3+8</td><td>Poids net maximal autorisé: 1000 kg par récipient de transport</td></tr>
-<tr><td>3375</td><td>NITRATE D’AMMONIUM, EN EMULSION, SUSPENSION ou GEL, servant à la fabrication des explosifs de mine, liquide ou solide</td><td>5.1</td><td>O2</td><td>II</td><td>5.1</td><td>En cas de transport sur des unités mobiles de fabrication d’explosifs («Mobile Explosives Manufacturing Units», MEMU) conformément au chap. 6.12 ADR dans des citernes en acier: – non autorisé avec capacité ≥ 1000 l; – autorisé avec capacité &lt; 1000 l, pour autant que les dispositifs d’aération soient des cols de cygne, conformément au ch. 6.12.4.4 ADR</td></tr>
 <tr><td></td><td>Matières explosibles et objets contenant des matières explosibles</td><td></td><td></td><td></td><td></td><td>En cas de transport sur des MEMU: autorisation de l’OFROU conformément au ch. 7.5.5.2.3 ADR</td></tr>
 </table>
