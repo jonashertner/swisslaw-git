@@ -4,11 +4,11 @@ title: "Ordinanza del 1° giugno 2012 sui fondi propri e sulla ripartizione dei 
 short: OFoP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20240101/it"
 
 (Ordinanza sui fondi propri, OFoP)[^t-1]
 
-del 1° giugno 2012 (Stato 1° gennaio 2024)
+del 1° giugno 2012 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -27,8 +27,8 @@ visti gli articoli 3 capoverso 2 lettera b, 3g, 4 capoversi 2 e 4, 4<sup>bis</su
 
 ordina:
 
-[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^ingress-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^ingress-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^ingress-3]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ## Titolo primo: Disposizioni generali
@@ -41,10 +41,10 @@ ordina:
 
 <sup>1</sup> Al fine di proteggere i creditori e la stabilità del sistema finanziario, le banche e le società di intermediazione mobiliare che tengono conti devono disporre di fondi propri proporzionati alla loro attività commerciale e ai loro rischi e limitare in modo adeguato i loro rischi.[^1-1]
 
-<sup>2</sup> Le banche e le società di intermediazione mobiliare[^1-2] coprono con fondi propri i loro rischi di credito, rischi di mercato, rischi senza controparte e rischi operativi.
+<sup>2</sup> Esse devono coprire con fondi propri i rischi di credito, i rischi di mercato e i rischi operativi.[^1-2]
 
 [^1-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^1-2]: Nuova espressione giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. é tenuto conto in tutto il testo.
+[^1-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 2
 
@@ -56,22 +56,28 @@ La presente ordinanza disciplina:
 
 - a. i fondi propri computabili;
 - b. i rischi da coprire con fondi propri e l’entità della copertura;
-- c. la ripartizione dei rischi, segnatamente i limiti per i grandi rischi e il trattamento di posizioni interne al gruppo;
+- c.[^2-1] la ripartizione dei rischi, segnatamente i limiti massimi dei grandi rischi e il trattamento di posizioni interne al gruppo
 - d. le esigenze particolari per le banche di rilevanza sistemica.
 
-<sup>2</sup> L’Autorità federale di vigilanza sui mercati finanziari (FINMA) può emanare disposizioni di esecuzione tecniche.
+<sup>2</sup> ...[^2-2]
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^2-2]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 3
 
 **Campo d’applicazione**
 
-La presente ordinanza si applica alle banche ai sensi della LBCR e alle società di intermediazione mobiliare che tengono conti ai sensi della LIsFi (qui di seguito banche).[^3-1]
+La presente ordinanza si applica alle banche ai sensi della LBCR e alle società di intermediazione mobiliare[^3-1] che tengono conti ai sensi della LIsFi (qui di seguito banche).[^3-2]
 
-[^3-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-1]: Nuova espr. giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. é tenuto conto in tutto il testo.
+[^3-2]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 4
 
 **Definizioni**
+
+<sup>1</sup>
 
 Nella presente ordinanza s’intende per:
 
@@ -79,62 +85,185 @@ Nella presente ordinanza s’intende per:
 - b. *indice principale:* un indice che comprende la totalità dei valori mobiliari negoziati in una borsa regolata (indice del mercato globale) o una selezione dei principali valori mobiliari di detta borsa, oppure un indice composto dai principali valori mobiliari di più borse regolate;
 - c. *impresa regolata:* un’impresa attiva nel settore finanziario tenuta a rispettare norme adeguate in materia di fondi propri, segnatamente per quanto concerne i rischi d’esercizio, regolata secondo criteri riconosciuti a livello internazionale e sottoposta alla vigilanza di un’autorità di vigilanza sulle banche, sulle società di intermediazione mobiliare o sulle assicurazioni;
 - d*.* *titolo di partecipazione:* titolo che attesta la partecipazione al capitale sociale di un’impresa;
+- d<sup>bis</sup>.[^4-1] *strumento partecipativo:* uno strumento finanziario che, indipendentemente dal diritto di voto, presenta un legame giuridico o economico diretto o indiretto con il patrimonio o il reddito di un’impresa, compresi i titoli di partecipazione ma escluse le quote di patrimoni collettivi gestiti;
 - e*.* *strumento di capitale proprio:* titolo di partecipazione nei fondi propri di base di qualità primaria o nei fondi propri di base supplementari, nonché strumento di debito nei fondi propri di base supplementari o nei fondi propri complementari;
-- f*.* *approccio di deduzione corrispondente:* la procedura designata con la denominazione «corresponding deduction approach» negli standard minimi di Basilea;
-- *g.*
+- f*.*[^4-2] *approccio di deduzione corrispondente:* la procedura designata con la denominazione «corresponding deduction approach» ai numeri 30.21, 30.26 e 30.30 dello standard minimo di Basilea per la definizione del capitale (CAP)[^4-3];
+- f<sup>bis</sup>.[^4-4] *strumento su tassi d’interesse:* uno strumento che considera i rischi di tassi d’interesse come il principale fattore di rischio;
+- g.[^4-5]
 
-  *strumento qualificato su saggi di interesse:* uno strumento su saggi di interesse:
+  *strumento qualificato su tassi d’interesse:* uno strumento su tassi d’interesse:
 
-  - 1\. con un rating delle classi di rating 1–4 di almeno due agenzie di rating riconosciute,
-  - 2\. con un rating delle classi di rating 1–4 di un’agenzia di rating riconosciuta, sempreché non sia disponibile alcun rating di una classe peggiore di rating di un’altra agenzia di rating riconosciuta dalla FINMA,
-  - 3\. senza rating di un’agenzia di rating riconosciuta, ma con una rendita alla scadenza e una durata residua paragonabili a quelle dei titoli con un rating delle classi di rating 1–4, sempreché i titoli dell’emittente siano negoziati in una borsa regolata o in un mercato nel quale almeno tre operatori principali («market makers») indipendenti tra di loro effettuano di norma quotazioni quotidiane che sono pubblicate regolarmente, o
-  - 4\. senza rating di un’agenzia di rating riconosciuta (rating esterno), ma con un rating interno alla banca (rating interno) corrispondente alle classi di rating 1–4, sempreché i titoli dell’emittente siano negoziati in una borsa regolata o in un mercato nel quale almeno tre operatori principali indipendenti tra di loro effettuano di norma quotazioni quotidiane che sono pubblicate regolarmente;
+  - 1\. con un rating esterno delle classi di rating 1–4 di almeno due agenzie di rating riconosciute dall’autorità federale di vigilanza sui mercati finanziari (FINMA) secondo l’articolo 6,
+  - 2\. con un rating esterno delle classi di rating 1–4 di un’agenzia di rating riconosciuta dalla FINMA secondo l’articolo 6, sempreché non sia disponibile un rating di una classe peggiore di un’altra agenzia di rating riconosciuta,
+  - 3\. senza rating esterno di un’agenzia di rating riconosciuta dalla FINMA secondo l’articolo 6, ma con un rendimento alla scadenza e una durata residua paragonabili a quelli dei titoli con un rating esterno delle classi di rating 1–4, sempreché i titoli dell’emittente siano negoziati in una borsa regolata o in un mercato nel quale almeno tre operatori principali («market maker») indipendenti tra di loro effettuano di norma quotazioni quotidiane che sono pubblicate regolarmente, o
+  - 4\. senza rating esterno di un’agenzia di rating riconosciuta dalla FINMA secondo l’articolo 6, ma con un rating interno alla banca corrispondente alle classi di rating 1–4, sempreché i titoli dell’emittente siano negoziati in una borsa regolata o in un mercato nel quale almeno tre operatori principali indipendenti tra di loro effettuano di norma quotazioni quotidiane che sono pubblicate regolarmente;
 
-- h*.* *standard minimi di Basilea*: i documenti del Comitato di Basilea per la vigilanza sulle banche che sono determinanti per il calcolo delle esigenze sui fondi propri[^4-1].
+- h.[^4-6]
 
-[^4-1]: Gli attuali standard minimi di Basilea possono essere consultati all’indirizzo Internet [www.bis.org/bcbs](http://www.bis.org/bcbs) oppure ottenuti presso la Banca dei regolamenti internazionali, Centralbahnplatz 2, 4002 Basilea.
+  *quote di patrimoni collettivi gestiti:* il capitale accumulato dagli investitori che viene investito e gestito collettivamente per loro conto in base a una strategia d’investimento prestabilita, indipendentemente dal domicilio e dalla forma giuridica, in particolare:
 
-#### Art. 5
+  - 1\. gli investimenti collettivi di capitale,
+  - 2\. i club di investimento secondo l’articolo 2 capoverso 2 lettera f della legge del 23 giugno 2006[^4-7] sugli investimenti collettivi (LICol),
+  - 3\. le società di investimento, anche se non sottostanno alla LICol,
+  - 4\. i portafogli collettivi interni secondo l’articolo 71 della legge del 15 giugno 2018[^4-8] sui servizi finanziari,
+  - 5\. le fondazioni costituite secondo il diritto estero che perseguono la gestione di patrimoni collettivi;
 
-**Portafoglio di negoziazione**
-
-<sup>1</sup> Le banche possono tenere un portafoglio di negoziazione con posizioni in strumenti finanziari e in merci, detenute nell’intento del loro commercio o a garanzia di altre posizioni.
+- i.[^4-9] «*leverage ratio»**:* l’indice massimo di leva finanziaria calcolato secondo le prescrizioni dello standard minimo di Basilea per il «leverage ratio» (LEV)[^4-10].
 
 <sup>2</sup>
 
-Esse possono assegnare al portafoglio di negoziazione unicamente posizioni:
+Quali strumenti partecipativi si intendono in particolare gli strumenti seguenti:
 
-- a. la cui commerciabilità non è limitata da convenzioni contrattuali; o
-- b. che possono essere garantite integralmente in qualsiasi momento.
+- a. strumenti finanziari che sono contabilizzati come crediti dopo una conversione da capitale di terzi a capitale proprio, ma che giuridicamente o economicamente sono considerati capitale proprio;
+- b. strumenti finanziari che sono considerati fondi propri di base;
+- c. strumenti finanziari il cui adempimento può essere posticipato illimitatamente dall’emittente;
+- d.
+
+  strumenti finanziari la cui realizzazione avviene unicamente mediante:
+
+  - 1\. la loro alienazione,
+  - 2\. l’alienazione dei diritti sugli strumenti finanziari in questione,
+  - 3\. la liquidazione dell’emittente,
+  - 4\.
+
+    il rimborso tramite emissione di titoli di partecipazione dell’emittente, se sono soddisfatte le seguenti condizioni:
+
+    - – in caso di rimborso obbligatorio o di rimborso richiesto dall’emittente: all’atto dell’emissione di un numero variabile di titoli di partecipazione, un’eventuale modifica del valore d’esposizione è analoga, comparabile e legata alla modifica del valore di un numero dato di titoli di partecipazione al capitale sociale
+    - – in caso di rimborso richiesto dal titolare dello strumento finanziario: la FINMA ha respinto la richiesta della banca di trattarlo come un credito.[^4-11]
+
+[^4-1]: Introdotta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-3]: Lo standard CAP è riportato nell’all. 1 n. 2.
+[^4-4]: Introdotta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-5]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-6]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-7]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^4-8]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^4-9]: Introdotta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-10]: Lo standard LEV è riportato nell’all. 1 n. 7.
+[^4-11]: Introdotta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 4a
+
+**Standard minimi di Basilea**[^4a-1]
+
+<sup>1</sup> Per standard minimi di Basilea si intendono i documenti del Comitato di Basilea per la vigilanza bancaria che la presente ordinanza dichiara determinanti, in particolare ai fini del calcolo delle esigenze relative ai fondi propri e dell’obbligo di pubblicazione.
+
+<sup>2</sup> La versione determinante degli standard minimi di Basilea è riportata nell’allegato 1.
+
+[^4a-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 4b
+
+**Portafoglio della banca**[^4b-1]
+
+Le posizioni seguenti devono essere assegnate al portafoglio della banca:
+
+- a. titoli di partecipazione non quotati;
+- b. posizioni destinate alla cartolarizzazione;
+- c. immobili detenuti direttamente;
+- d. crediti e impegni di credito verso piccole e medie imprese (PMI) secondo l’articolo 70 capoversi 3 e 4 nonché posizioni «retail» secondo l’articolo 71;
+- e. quote di patrimoni collettivi gestiti, salvo sia soddisfatta almeno una delle condizioni di cui all’articolo 5 capoverso 3 lettera c;
+- f. fondi speculativi («hedge funds»);
+- g. derivati e patrimoni collettivi gestiti il cui valore di base è costituito da posizioni di cui alle lettere a–f, salvo sia soddisfatta almeno una delle condizioni di cui all’articolo 5 capoverso 3 lettera c;
+- h. posizioni detenute per coprire rischi legati alle posizioni di cui alle lettere a–g;
+- i. altre posizioni non assegnate al portafoglio di negoziazione secondo l’articolo 5.
+
+[^4b-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 5
+
+**Portafoglio di negoziazione**[^5-1]
+
+<sup>1</sup> Una posizione può essere assegnata al portafoglio di negoziazione solo in assenza di motivi giuridici che impediscano la negoziazione o una copertura completa della posizione.
+
+<sup>2</sup>
+
+Le posizioni che all’atto dell’iscrizione a bilancio sono detenute per uno degli scopi seguenti devono essere assegnate al portafoglio di negoziazione, salvo si tratti di posizioni di cui all’articolo 4*b* lettere a–h*:*
+
+- a. rivendita dopo un breve periodo di detenzione;
+- b. sfruttamento di fluttuazioni a breve scadenza dei prezzi;
+- c. realizzazione di utili di arbitraggio;
+- d. copertura di rischi legati alle posizioni detenute per gli scopi di cui alle lettere a–c.
 
 <sup>3</sup>
 
-È dato intento di commercio se la banca ha l’intenzione:
+Le posizioni seguenti devono essere assegnate al portafoglio di negoziazione, salvo si tratti di posizioni di cui all’articolo 4*b* lettere a–h:
 
-- a. di detenere le posizioni a breve scadenza;
-- b. di approfittare di fluttuazioni a breve scadenza dei prezzi del mercato; o
-- c. di realizzare utili di arbitraggio.
+- a. posizioni assegnate alle attività di negoziazione secondo la presentazione dei conti;
+- b. posizioni «market-making»;
+- c.
 
-<sup>4</sup> Le posizioni devono essere valutate frequentemente ed esattamente. Il portafoglio di negoziazione deve essere gestito attivamente.
+  quote di patrimoni collettivi gestiti che soddisfano almeno una delle condizioni seguenti:
+
+  - 1\. la banca conosce perfettamente le posizioni sottostanti il patrimonio e su tali posizioni dispone di informazioni sufficienti, frequenti e verificate da un terzo,
+  - 2\. la banca è informata quotidianamente del valore del patrimonio e ha accesso al mandato o alle prescrizioni legali relative alla strategia d’investimento;
+
+- d. strumenti partecipativi quotati;
+- e. operazioni pronti contro termine e posizioni analoghe attinenti alla negoziazione;
+- f. derivati, compresi i derivati incorporati, che comportano rischi di credito o rischi azionari su strumenti emessi dalla banca stessa;
+- g. posizioni da cui risulta, nel portafoglio della banca, una posizione corta netta creditoria o una posizione corta netta in strumenti partecipativi;
+- h. posizioni della negoziazione di correlazione;
+- i. posizioni derivanti da impegni di assunzione legati a operazioni di emissione di titoli per le quali si può supporre che la banca comprerà la posizione il giorno del regolamento.
+
+<sup>4</sup> In deroga al capoverso 3, le posizioni di cui al capoverso 3 lettere a–g possono essere assegnate al portafoglio della banca. La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard minimo di Basilea per i requisiti di capitale basati sul rischio (RBC)[^5-2]. Essa prevede agevolazioni riguardo all’obbligo di autorizzazione per le assegnazioni derogatorie di cui al numero 25.10 RBC.
+
+<sup>5</sup> La FINMA emana disposizioni di esecuzione tecniche relative all’obbligo di documentazione e alla procedura di assegnazione delle posizioni al portafoglio di negoziazione e al portafoglio della banca. A tale scopo si fonda sullo standard RBC. Essa prevede agevolazioni riguardo alla verifica dell’osservanza delle direttive interne delle banche di cui al numero 25.13 RBC.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^5-2]: Lo standard RBC è riportato nell’all. 1 n. 3.
+
+#### Art. 5a
+
+**Portafoglio della banca e portafoglio di negoziazione: riclassificazione e trasferimento interno dei rischi**[^5a-1]
+
+<sup>1</sup> Se una riclassificazione di posizioni tra i due portafogli comporta una riduzione dei fondi propri minimi calcolati su tutte le posizioni del portafoglio di negoziazione e del portafoglio della banca, la differenza è trattata come un supplemento dei fondi propri minimi.
+
+<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche relative alla riclassificazione e al trasferimento interno dei rischi. A tale scopo si fonda sullo standard RBC[^5a-2]. Essa prevede agevolazioni per le banche delle categorie 3–5 secondo l’allegato 3 dell’ordinanza del 30 aprile 2014[^5a-3] sulle banche (OBCR) nonché riguardo all’obbligo di autorizzazione per le riclassificazioni di cui al numero 25.16 RBC.
+
+[^5a-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^5a-2]: Lo standard RBC è riportato nell’all. 1 n. 3.
+[^5a-3]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+
+#### Art. 5b
+
+**Portafoglio della banca e portafoglio di negoziazione: valutazione prudente**[^5b-1]
+
+<sup>1</sup> Le posizioni del portafoglio di negoziazione devono essere valutate quotidianamente al «fair value» e le loro variazioni di valore registrate nel conto economico.
+
+<sup>2</sup> Le posizioni del portafoglio della banca valutate al «fair value» secondo le norme applicabili per la presentazione dei conti e le posizioni del portafoglio di negoziazione vanno valutate in maniera prudente e specifica per ogni posizione ai fini del calcolo delle esigenze dei fondi propri necessari.
+
+<sup>3</sup> Se la valutazione prudente conduce ad adeguamenti della valutazione che vanno oltre quelli effettuati secondo le norme applicabili per la presentazione dei conti, tali adeguamenti supplementari comportano una riduzione dei fondi propri di base di qualità primaria computabili.
+
+<sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative alla valutazione prudente. A tale scopo si fonda sullo standard CAP[^5b-2].
+
+[^5b-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^5b-2]: Lo standard CAP è riportato nell’all. 1 n. 2.
 
 #### Art. 6
 
-**Agenzie di rating**
+**Agenzie di rating**[^6-1]
 
 <sup>1</sup>
 
-La FINMA può riconoscere un’agenzia di rating se:
+La FINMA può riconoscere un’agenzia di rating se le condizioni di cui ai numeri 21.2–21.4 dello standard minimo di Basilea per il calcolo delle posizioni ponderate in funzione dei rischi di credito (CRE)[^6-2] e il «Code of Conduct Fundamentals for Credit Rating Agencies» del 24 marzo 2015[^6-3] dell’Organizzazione internazionale delle Autorità di controllo dei mercati finanziari («International Organization of Securities Commissions») sono adempiuti, in particolare se:
 
-- a. i metodi di rating e i rating dell’agenzia sono oggettivi;
+- a. i metodi di rating e i rating sono oggettivi;
 - b. l’agenzia e le sue procedure di rating sono indipendenti;
-- c. l’agenzia rende accessibili i suoi rating e le informazioni su cui questi si basano;
-- d. l’agenzia pubblica i suoi metodi di rating, il suo codice di condotta, i principi della retribuzione e le caratteristiche principali dei suoi rating;
-- e. l’agenzia dispone di sufficienti risorse; e
-- f. l’agenzia e i suoi rating sono credibili.
+- c. l’agenzia rende accessibili i suoi rating esterni e le informazioni su cui essi si basano;
+- d. l’agenzia pubblica i suoi metodi di rating, il suo codice di condotta, il suo approccio ai conflitti di interesse, i principi della retribuzione e le caratteristiche principali dei suoi rating;
+- e. l’agenzia dispone di sufficienti risorse;
+- f. l’agenzia e i suoi rating sono credibili;
+- g. l’agenzia non usa rating rilasciati senza mandato per mettere sotto pressione le entità valutate affinché richiedano dei rating; e
+- h. l’agenzia si dichiara pronta a collaborare con la FINMA, in particolare informando quest’ultima in merito a modifiche metodologiche essenziali e concedendole l’accesso ai suoi rating esterni e ad altre informazioni rilevanti.
 
-<sup>2</sup> La FINMA pubblica un elenco delle agenzie di rating riconosciute.
+<sup>2</sup> La FINMA pubblica un elenco delle agenzie di rating riconosciute indicando i segmenti di mercato per i quali ha concesso il riconoscimento.
 
 <sup>3</sup> Se constata che un’agenzia di rating riconosciuta non adempie più le condizioni di riconoscimento, la FINMA le revoca il riconoscimento.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^6-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+[^6-3]: Il «Code of Conduct Fundamentals for Credit Rating Agencies» può essere consultato gratuitamente all’indirizzo: [www.iosco.org](http://www.iosco.org) &gt; Publications &gt; Public Reports.
 
 ### Capitolo 2: Consolidamento
 
@@ -146,7 +275,7 @@ La FINMA può riconoscere un’agenzia di rating se:
 
 <sup>2</sup>
 
-Il consolidamento comprende tutte le società del gruppo attive nel settore finanziario ai sensi dell’articolo 4 in combinato disposto con l’articolo 22 dell’ordinanza del 30 aprile 2014[^7-1] sulle banche (OBCR), con le seguenti eccezioni:[^7-2]
+Il consolidamento comprende tutte le società del gruppo attive nel settore finanziario ai sensi dell’articolo 4 in combinato disposto con l’articolo 22 OBCR[^7-1], con le seguenti eccezioni:[^7-2]
 
 - a. fatto salvo l’articolo 12, le partecipazioni nel settore delle assicurazioni sono consolidate unicamente nell’ambito delle norme in materia di ripartizione dei rischi;
 - b. la gestione di investimenti collettivi di capitale per conto di investitori o la detenzione del capitale di costituzione di società di investimento non fondano alcun obbligo di consolidamento dell’investimento collettivo di capitale.
@@ -155,8 +284,8 @@ Il consolidamento comprende tutte le società del gruppo attive nel settore fina
 
 <sup>4</sup> Se la banca detiene uno strumento di capitale proprio in un’impresa non consolidata ai sensi del capoverso 2 lettera b, tale strumento sottostà all’approccio di deduzione corrispondente senza riferimento a una franchigia.
 
-[^7-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^7-2]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^7-1]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^7-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 8
 
@@ -193,7 +322,8 @@ Con il consenso della società di audit le partecipazioni superiori al 50 per ce
 
 - a. il sostegno all’impresa soggetta all’obbligo di consolidamento è limitato alla quota della banca; e
 - b. gli altri azionisti o soci sono tenuti a prestare aiuto fino a concorrenza della loro quota e sono in grado di adempiere legalmente e finanziariamente questo obbligo.
-- [tab] <sup>3</sup> Alle partecipazioni escluse dal consolidamento in virtù del capoverso 1 si applica l’approccio di deduzione corrispondente senza riferimento a una franchigia.
+
+<sup>3</sup> Alle partecipazioni escluse dal consolidamento in virtù del capoverso 1 si applica l’approccio di deduzione corrispondente senza riferimento a una franchigia.
 
 #### Art. 10
 
@@ -205,7 +335,7 @@ Con il consenso della società di audit le partecipazioni superiori al 50 per ce
 
 <sup>3</sup> In casi particolari la FINMA può consentire alla banca di consolidare già a livello di singolo istituto (consolidamento singolo) società del gruppo attive nel settore finanziario, in considerazione delle loro strette relazioni con la banca.
 
-[^10-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^10-1]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^10-2]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
 
 #### Art. 11
@@ -235,7 +365,9 @@ I limiti superiori delle partecipazioni qualificate di una banca a un’impresa 
 
 - a. simili partecipazioni sono state acquisite temporaneamente nel quadro del risanamento o del salvataggio di un’impresa;
 - b. i valori mobiliari sono ripresi per la durata normale dell’operazione di emissione; o
-- c. la differenza tra il valore contabile e i limiti superiori applicabili a queste partecipazioni è integralmente coperta da fondi propri liberamente disponibili.
+- c.[^13-1] la differenza tra i limiti superiori applicabili a tali partecipazioni e il valore contabile delle partecipazioni che supera questi limiti è ponderata al 1250 per cento.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 3: Comprova dell’adeguatezza dei fondi propri e relativa pubblicazione
 
@@ -247,23 +379,31 @@ I limiti superiori delle partecipazioni qualificate di una banca a un’impresa 
 
 <sup>2</sup> La comprova dei fondi propri su base consolidata deve essere fornita semestralmente.
 
-<sup>3</sup> Le comprove devono essere presentate alla Banca nazionale svizzera al più tardi sei settimane dopo la fine del trimestre o del semestre.
+<sup>3</sup> Le comprove devono essere presentate alla FINMA al più tardi sei settimane dopo la fine del trimestre o del semestre.[^14-1]
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 15
 
 **Basi di calcolo**
 
-Per il calcolo dei fondi propri computabili e necessari oggetto della comprova la banca si fonda sulla chiusura allestita conformemente alle norme della FINMA in materia di rendiconto. La FINMA disciplina le eccezioni a questo principio.
+Per il calcolo dei fondi propri computabili e necessari oggetto della comprova la banca si fonda sulla chiusura allestita conformemente alle norme della FINMA per la presentazione dei conti.[^15-1] La FINMA disciplina le eccezioni a questo principio.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 16
 
 **Pubblicazione**
 
-<sup>1</sup> Le banche informano adeguatamente il pubblico in merito ai loro rischi e ai loro fondi propri. Il calcolo dei fondi propri computabili deve basarsi sul rendiconto; tale nesso deve essere verificabile.
+<sup>1</sup> Le banche informano adeguatamente il pubblico in merito ai loro rischi e ai loro fondi propri. Il calcolo dei fondi propri computabili deve poter essere ricostruito sulla base della presentazione dei conti.[^16-1]
 
 <sup>2</sup> Sono esclusi da tale obbligo i banchieri privati che non si rivolgono al pubblico per accettare depositi di capitali.
 
-<sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. Stabilisce in particolare quali informazioni devono essere pubblicate oltre al consuntivo annuale e ai bilanci intermedi.
+<sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard minimo di Basilea relativo alle esigenze in materia di pubblicazione (DIS)[^16-2]. Inoltre, stabilisce in particolare quali informazioni devono essere pubblicate oltre al conto annuale e alle chiusure intermedie, segnatamente per quanto riguarda la gestione d’impresa e i rischi finanziari legati al clima, e quali informazioni devono pubblicare le banche di rilevanza sistemica in merito alle esigenze di cui al titolo quinto e al loro adempimento. Essa prevede agevolazioni per le banche che non hanno rilevanza sistemica se ciò è giustificato per motivi di proporzionalità.[^16-3]
+
+[^16-1]: Nuovo testo del per. giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^16-2]: Lo standard DIS è riportato nell’all. 1 n. 11.
+[^16-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 4: Applicazione semplificata
 
@@ -331,7 +471,10 @@ Gli strumenti di capitale che prevedono una conversione condizionale o una rinun
 - a.[^20-1] il computo ai fini della copertura delle esigenze per il cuscinetto di fondi propri secondo l’articolo 43 capoverso 1 e l’allegato 8; e
 - b. le disposizioni sul capitale convertibile delle banche di rilevanza sistemica secondo il titolo quinto.
 
+<sup>5</sup> La FINMA emana disposizioni di esecuzione tecniche relative alla computabilità dei fondi propri.[^20-2]
+
 [^20-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^20-2]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 2: Calcolo
 
@@ -349,12 +492,19 @@ Sono computabili come fondi propri di base di qualità primaria:
 - b. le riserve palesi;
 - c. le riserve per rischi bancari generali, previa deduzione delle imposte differite se a questo scopo non è stato effettuato un accantonamento;
 - d. l’utile riportato;
-- e.[^21-1] l’utile dell’esercizio corrente, previa deduzione della quota presumibile di distribuzione di utili, sempreché si sia in presenza di un conto economico completo ai sensi delle disposizioni di esecuzione della FINMA fondate sull’articolo 42 OBCR[^21-2] o ai sensi di uno standard internazionale riconosciuto dalla FINMA e purché lo stesso sia stato sottoposto a controllo sommario secondo le prescrizioni della FINMA.
+- e.[^21-1]
 
-<sup>2</sup> Le quote di capitale detenute da azionisti minoritari in imprese regolate integralmente consolidate possono essere computate nella misura in cui possono essere computate nelle imprese stesse. Sono escluse dal computo le eccedenze di capitale attribuibili agli azionisti minoritari calcolate sulla base di esigenze che includono il cuscinetto («buffer») di fondi propri e i fondi propri supplementari.
+  l’utile dell’esercizio corrente, previa deduzione della quota presumibile di distribuzione degli utili, sempreché si sia in presenza di un conto economico completo ai sensi delle disposizioni di esecuzione della FINMA fondate sull’articolo 42 OBCR[^21-2] o ai sensi di uno standard internazionale riconosciuto dalla FINMA, nella misura seguente:
 
-[^21-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
-[^21-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+  - 1\. in ragione del 100 per cento, se il conto economico è stato sottoposto a controllo sommario secondo le prescrizioni della FINMA,
+  - 2\. in ragione del 70 per cento, se il conto economico non è stato sottoposto ad alcun controllo sommario; in casi motivati la FINMA può esigere un attestato per il computo.
+
+<sup>2</sup> Le quote minoritarie nel capitale di imprese regolate integralmente consolidate possono essere computate nella misura in cui possono essere computate nelle imprese stesse. Sono escluse dal computo le eccedenze di capitale attribuibili alle quote minoritarie e calcolate sulla base di esigenze che includono il cuscinetto («buffer») di fondi propri e i fondi propri supplementari. La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard CAP[^21-3].[^21-4]
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^21-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^21-3]: Lo standard CAP è riportato nell’all. 1 n. 2.
+[^21-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 22
 
@@ -367,24 +517,28 @@ Il capitale sociale è computabile come fondi propri di base di qualità primari
 - a. adempie le esigenze di cui all’articolo 20;
 - b. è stato oggetto di un’emissione diretta conformemente a una decisione o un’autorizzazione dei proprietari;
 - c. non rappresenta nessun impegno dell’impresa;
-- d. è iscritto a bilancio in modo univoco e distinto conformemente alle norme in materia di rendiconto determinanti;
+- d.[^22-1] è iscritto a bilancio in modo univoco e distinto conformemente alle norme determinanti per la presentazione dei conti;
 - e. ha decorrenza illimitata e non è vincolato a nessuna disposizione dello statuto, né a un impegno contrattuale della banca, di tenore opposto;
 - f. la distribuzione ai proprietari avviene da riserve distribuibili, senza nessun impegno o privilegio;
 - g. nella liquidazione i proprietari non godono di privilegi né possono avanzare pretese di rango anteriore nei confronti di un ricavo.
+
+<sup>1bis</sup> Se i titoli di partecipazione non coprono le perdite allo stesso modo nell’ambito dell’attività commerciale corrente, possono essere computati come fondi propri di base di qualità primaria soltanto i titoli che coprono le perdite in via prioritaria.[^22-2]
 
 <sup>2</sup>
 
 Le azioni privilegiate e il capitale di partecipazione sono computabili come fondi propri di base di qualità primaria se:
 
-- a.[^22-1] adempiono le condizioni del capoverso 1;
-- b.[^22-2] rispondono alla stessa stregua del capitale sociale sotto forma di fondi propri di base di qualità primaria; e
-- c.[^22-3] l’emittente in quanto società anonima non ha quotato in una borsa regolata le proprie azioni ordinarie.
+- a.[^22-3] adempiono le condizioni del capoverso 1;
+- b.[^22-4] rispondono alla stessa stregua del capitale sociale sotto forma di fondi propri di base di qualità primaria; e
+- c.[^22-5] l’emittente in quanto società anonima non ha quotato in una borsa regolata le proprie azioni ordinarie.
 
 <sup>3</sup> Per valutare se sono adempiute le condizioni di cui ai capoversi 1 e 2 lettera b, la FINMA tiene conto della forma giuridica della banca e delle particolarità del suo capitale sociale.
 
-[^22-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
-[^22-2]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
-[^22-3]: Introdotta dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^22-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^22-2]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^22-3]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^22-4]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^22-5]: Introdotta dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
 
 #### Art. 23
 
@@ -447,7 +601,7 @@ La rinuncia a una quota dell’avanzo della liquidazione è possibile soltanto a
 <sup>4</sup> Lo statuto non può garantire una distribuzione ai detentori dei certificati di quota, nemmeno se stabilisce a tal fine un massimale.
 
 [^26-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
-[^26-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^26-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 ### Sezione 2: Fondi propri di base supplementari («Additional Tier 1», AT1)
 
@@ -475,22 +629,38 @@ Uno strumento di capitale è computabile come fondi propri di base supplementari
 
 <sup>2</sup> I titoli di partecipazione sono computabili come fondi propri di base supplementari se adempiono le esigenze di cui al capoverso 1.
 
-<sup>3</sup> Gli impegni che adempiono le esigenze di cui al capoverso 1 sono computabili come fondi propri di base supplementari se è previsto che, nel caso in cui si verifichi un evento determinante definito contrattualmente («trigger») o al più tardi nel momento in cui la quota dei fondi propri di base di qualità primaria scende sotto il 5,125 per cento, essi siano annullati mediante:
+<sup>3</sup>
 
-riduzione del credito; o
+Gli impegni che adempiono le esigenze di cui al capoverso 1 sono computabili come fondi propri di base supplementari se è previsto che, nel caso in cui si verifichi un evento determinante definito contrattualmente («trigger») o al più tardi nel momento in cui la quota dei fondi propri di base di qualità primaria scende sotto il 5,125 per cento, essi siano annullati mediante:
 
-conversione in fondi propri di qualità primaria.
+- a. riduzione del credito; o
+- b.[^27-1] conversione in fondi propri di base di qualità primaria.
 
-<sup>4</sup> Le condizioni d’emissione di uno strumento di capitale proprio che prevede una rinuncia condizionale al credito possono attribuire al finanziatore un diritto condizionato, con effetto differito, di partecipare al miglioramento della situazione finanziaria della banca. Tale clausola non può pregiudicare in maniera sostanziale il rafforzamento dei fondi propri della banca nel momento della riduzione del credito.
+<sup>4</sup> Le condizioni d’emissione di uno strumento di capitale che prevede una rinuncia condizionale al credito possono attribuire al finanziatore un diritto condizionato, con effetto differito, di partecipare al miglioramento della situazione finanziaria della banca.[^27-2] Tale clausola non può pregiudicare in maniera sostanziale il rafforzamento dei fondi propri della banca nel momento della riduzione del credito.
+
+<sup>4bis</sup> La FINMA può emanare disposizioni di esecuzione tecniche relative al computo dei fondi propri di base supplementari.[^27-3]
 
 <sup>5</sup>
 
-L’emissione dello strumento di capitale proprio è subordinata all’approvazione, da parte della FINMA:
+L’emissione dello strumento di capitale è subordinata all’approvazione, da parte della FINMA:[^27-4]
 
 - a. dell’evento definito contrattualmente di cui al capoverso 3; e
 - b. delle condizioni a cui è ammessa la partecipazione al miglioramento della situazione finanziaria della banca ai sensi del capoverso 4.
 
 <sup>6</sup> Si applicano per analogia le disposizioni dell’articolo 21 capoverso 2 sul computo delle quote di capitale detenute da azionisti minoritari in imprese regolate integralmente consolidate.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^27-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^27-3]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^27-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 27a
+
+**Verificarsi del «trigger»**[^27a-1]
+
+Se il «trigger» si verifica in relazione a impegni di cui all’articolo 27 capoverso 3 computati come fondi propri di base supplementari, la FINMA ordina la riduzione del credito o la conversione in fondi propri di base di qualità primaria nonché la relativa data e determina l’importo interessato. Essa rispetta le condizioni contrattuali di emissione o di prestito nonché l’ordine di rango che ne deriva.
+
+[^27a-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 28
 
@@ -506,12 +676,15 @@ I fondi propri di base supplementari emessi da una società a scopo specifico no
 
 <sup>2</sup>
 
-La conversione in fondi di base di qualità primaria o la riduzione del credito deve avvenire al più tardi:
+La conversione in fondi propri di base di qualità primaria o la riduzione del credito avviene se la FINMA:
 
-- a. prima della richiesta di un sostegno da parte delle autorità pubbliche; o
-- b. quando la FINMA la ordina al fine di evitare l’insolvibilità della banca.
+- a. constata la richiesta di un sostegno da parte delle autorità pubbliche, cosicché la conversione o la riduzione del credito diventano efficaci per gli investitori prima della richiesta del sostegno; o
+- b. la ordina al fine di evitare un caso di insolvibilità.[^29-1]
 
-<sup>3</sup> Per i titoli di partecipazione computabili come fondi propri di base supplementari che non contemplano un meccanismo finalizzato all’assorbimento delle perdite secondo il capoverso 1, il contratto o lo statuto deve prevedere la rinuncia irrevocabile a qualsiasi privilegio rispetto al capitale sociale computabile come fondi propri di base di qualità primaria nel momento di una incombente insolvibilità.
+<sup>3</sup> Per i titoli di partecipazione computabili come fondi propri di base supplementari che non contemplano un meccanismo finalizzato all’assorbimento delle perdite secondo il capoverso 1, il contratto o lo statuto deve prevedere la rinuncia irrevocabile a qualsiasi privilegio rispetto al capitale sociale computabile come fondi propri di base di qualità primaria nel momento di una incombente insolvibilità. La FINMA ordina nel singolo caso il momento della cessazione del privilegio.[^29-2]
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^29-2]: Per. introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 3: Fondi propri complementari (Tier 2)
 
@@ -534,7 +707,8 @@ Uno strumento di capitale è computabile come fondi propri complementari se:
   - 2\. a titolo sostitutivo sono emessi sufficienti fondi propri di qualità almeno equivalente; ed
 
 - e. è escluso che le distribuzioni ai finanziatori aumentino nel corso della durata a causa del rischio di credito specifico agli emittenti.
-- [tab] <sup>2</sup> Negli ultimi cinque anni prima della scadenza finale il computo degli strumenti di capitale dei fondi propri complementari diminuisce ogni anno in ragione del 20 per cento del valore nominale. Nell’ultimo anno non vi è alcun computo.
+
+<sup>2</sup> Negli ultimi cinque anni prima della scadenza finale il computo degli strumenti di capitale dei fondi propri complementari diminuisce ogni anno in ragione del 20 per cento del valore nominale. Nell’ultimo anno non vi è alcun computo.
 
 <sup>3</sup> Gli articoli 21 capoverso 2, 28 e 29 capoversi 1 e 2 si applicano per analogia.
 
@@ -561,7 +735,9 @@ L’importo determinante di una correzione è il valore di bilancio. Gli effetti
 - a. il passivo fiscale decade automaticamente insieme alla posizione corrispondente; o
 - b. questo è previsto espressamente dalla presente ordinanza o dalle disposizioni di esecuzione tecniche della FINMA.
 
-<sup>3</sup> Nelle disposizioni di esecuzione tecniche la FINMA può prevedere correzioni per le banche che allestiscono i loro conti annuali conformemente a standard di rendiconto riconosciuti a livello internazionale.
+<sup>3</sup> Nelle disposizioni di esecuzione tecniche la FINMA può precisare le modalità di attuazione delle disposizioni sulle correzioni e prevedere norme speciali per le banche che allestiscono i loro conti annuali conformemente alle norme contabili internazionali riconosciute.[^31-1]
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 31a
 
@@ -577,24 +753,30 @@ L’importo determinante di una correzione è il valore di bilancio. Gli effetti
 
 #### Art. 32
 
-**Deduzione dai fondi propri di base di qualità primaria**
+**Deduzione dai fondi propri di base di qualità primaria**[^32-1]
+
+<sup>1</sup>
 
 Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 
 - a. le perdite riportate e la perdita dell’esercizio corrente;
 - b. la parte scoperta del fabbisogno necessario per rettifiche di valore e accantonamenti dell’esercizio corrente;
-- c. l’avviamento («goodwill»), compreso quello incluso nella valutazione di partecipazioni rilevanti a imprese attive nel settore finanziario al di fuori del perimetro di consolidamento, e i valori immateriali, eccettuati i diritti per il servizio dei mutui ipotecari («mortgage servicing rights», MSR);
-- d. le attività fiscali differite («deferred tax assets», DTA), eccettuate quelle dovute a differenze temporanee («temporary differences»), la cui realizzazione dipende dalla redditività futura; una compensazione con corrispondenti passività fiscali differite è ammessa soltanto nell’ambito della medesima competenza fiscale geografica e materiale;
-- e. nel caso delle banche che applicano l’IRB[^32-1] (art. 77), l’importo delle perdite attese, calcolate secondo questo approccio, che supera le rettifiche di valore secondo gli standard minimi di Basilea;
-- f. tutti i ricavi provenienti dalla vendita di crediti correlati a transazioni di cartolarizzazione («gain on sale related to securitization transactions»);
-- g. i crediti iscritti a bilancio relativi a piani previdenziali a prestazione definita («defined benefit pension fund assets») conformemente alle corrispondenti norme degli standard minimi di Basilea;
-- h. le posizioni lunghe nette di cui all’articolo 52 in propri titoli di partecipazione, che sono parte dei fondi propri di base di qualità primaria, detenute direttamente o indirettamente, figuranti o non figuranti nel portafoglio di negoziazione, sempreché non siano già state iscritte a bilancio a carico del conto economico;
-- i. le partecipazioni qualificate al capitale di un’altra impresa attiva nel settore finanziario, sempreché anche questa partecipi al capitale della banca («reciprocal holdings»);
-- j.[^32-2] nel quadro del calcolo per il singolo istituto, se la FINMA non ammette una ponderazione del rischio secondo l’allegato 4 numero 1.6 o 1.7: le posizioni lunghe nette, calcolate conformemente all’articolo 52, delle partecipazioni detenute direttamente in imprese attive nel settore finanziario soggette all’obbligo di consolidamento;
-- k. le deduzioni determinate dall’opzione scelta dalla banca nell’ambito delle disposizioni di consolidamento di cui agli articoli 7 capoverso 4, 8 capoversi 2 e 3 nonché 9 capoversi 1 e 3.
+- c. l’avviamento («goodwill»), compreso l’avviamento incluso nella valutazione di partecipazioni rilevanti a imprese attive nel settore finanziario al di fuori del perimetro di consolidamento, e i valori immateriali, eccettuati i diritti per il servizio dei mutui ipotecari («Mortgage Servicing Rights»*,* MSR);
+- d. le attività fiscali differite («Deferred Tax Assets»*,* DTA) la cui realizzazione dipende dalla redditività futura, fatta salva una compensazione con passività fiscali differite secondo il capoverso 2; sono escluse dalla deduzione le attività fiscali differite dovute a differenze temporanee che sono soggette a deduzioni in base ai limiti della franchigia di cui agli articoli 39 e 40;
+- e. i ricavi provenienti dalla vendita di crediti correlati a transazioni di cartolarizzazione;
+- f. i crediti iscritti a bilancio nei confronti di istituti della previdenza professionale con piani a benefici definiti; la deduzione di questi crediti deve rispettare le relative prescrizioni dello standard CAP[^32-2];
+- g. i propri titoli di partecipazione detenuti direttamente o indirettamente che sono parte dei fondi propri di base di qualità primaria, per l’importo delle posizioni lunghe nette di cui all’articolo 52, sempreché tali titoli non siano già stati iscritti a bilancio a carico del conto economico;
+- h. le partecipazioni qualificate al capitale di un’altra impresa attiva nel settore finanziario, sempreché anche questa partecipi al capitale della banca («reciprocal holdings»);
+- i. le deduzioni determinate dall’opzione scelta dalla banca nell’ambito delle disposizioni di consolidamento di cui agli articoli 7 capoverso 4, 8 capoversi 2 e 3 nonché 9 capoversi 1 e 3.
 
-[^32-1]: Internal Ratings-based Approach.
-[^32-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+<sup>2</sup> Le attività fiscali differite di cui al capoverso 1 lettera d possono essere compensate nell’ambito della medesima competenza fiscale geografica e materiale con le passività fiscali differite, sempreché l’autorità fiscale competente ammetta la compensazione.
+
+<sup>3</sup> Le banche che applicano l’approccio basato sui rating interni («Internal Ratings-based Approach», IRB) (art. 77), oltre alle deduzioni di cui al capoverso 1 devono dedurre l’importo delle perdite previste calcolate secondo l’IRB che supera le rettifiche di valore secondo lo standard CAP.
+
+<sup>4</sup> Se la FINMA non ammette una ponderazione in funzione del rischio secondo l’allegato 4 numero 1 o 2, nel quadro del calcolo per il singolo istituto, oltre alle deduzioni di cui al capoverso 1 vanno dedotte le posizioni lunghe nette calcolate conformemente all’articolo 52 delle partecipazioni detenute direttamente in imprese attive nel settore finanziario soggette all’obbligo di consolidamento.
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^32-2]: Lo standard CAP è riportato nell’all. 1 n. 2.
 
 #### Art. 33
 
@@ -618,17 +800,17 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 
 #### Art. 35
 
-**Deduzione con franchigia**
+**Deduzioni con franchigia**[^35-1]
 
-<sup>1</sup> Nel caso di una deduzione con franchigia («threshold deduction») è dedotta la parte che supera la franchigia. Per la determinazione del limite della franchigia le posizioni della banca sono misurate, conformemente alle esigenze degli standard minimi di Basilea, rispetto a una quota percentuale predefinita dei suoi fondi propri di base di qualità primaria.
+<sup>1</sup> Nel caso di una deduzione con franchigia («threshold deduction») è dedotta dal capitale la parte che supera il limite 1, 2 o 3 della franchigia.
 
-<sup>2</sup> Il limite 1 della franchigia corrisponde al 10 per cento dei fondi propri di base di qualità primaria cui sono state applicate tutte le correzioni di cui agli articoli 31 capoverso 3 e 32 lettere a–i e k.
+<sup>2</sup> Il limite 1 della franchigia corrisponde al 10 per cento dei fondi propri di base di qualità primaria cui sono state applicate tutte le correzioni di cui agli articoli 31 capoverso 3 e 32 capoversi 1 e 3.
 
-<sup>3</sup> Il limite 2 della franchigia corrisponde al 10 per cento dei fondi propri di base di qualità primaria cui sono state applicate tutte le correzioni di cui agli articoli 31 capoverso 3 e 32, compresa un’eventuale deduzione dai fondi propri di base di qualità primaria risultante dal calcolo operato nell’ambito del limite 1 della franchigia (conformemente all’art. 37 cpv. 1 e 2).
+<sup>3</sup> Il limite 2 della franchigia corrisponde al 10 per cento dei fondi propri di base di qualità primaria cui sono state applicate tutte le correzioni di cui agli articoli 31 capoverso 3 e 32 capoversi 1, 3 e 4, compresa un’eventuale deduzione dai fondi propri di base di qualità primaria risultante dal calcolo del limite 1 della franchigia (art. 37 cpv. 1 e 2).
 
-<sup>4</sup> Il limite 3 della franchigia va stabilito in maniera tale che tenuto conto di tutti gli adeguamenti prudenziali, compresa la deduzione dell’importo superiore a tale limite secondo l’articolo 40 capoverso 1, l’importo residuo delle tre posizioni non superi il 15 per cento dei fondi propri di base di qualità primaria.[^35-1]
+<sup>4</sup> Il limite 3 della franchigia va stabilito in maniera tale che tenuto conto di tutte le correzioni prudenziali, compresa la deduzione dell’importo superiore a tale limite secondo l’articolo 40 capoverso 1, l’importo residuo delle tre posizioni di cui agli articoli 38 capoverso 2 e 39 capoverso 1 non superi il 15 per cento dei fondi propri di base di qualità primaria.
 
-[^35-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^35-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 36
 
@@ -636,9 +818,10 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 
 <sup>1</sup> Agli strumenti di capitale proprio detenuti da una banca in un’impresa attiva nel settore finanziario si applica l’approccio di deduzione previsto dall’articolo 37 o quello previsto dall’articolo 38 a seconda della quota percentuale di titoli di partecipazione detenuti direttamente o indirettamente in tale impresa, calcolati conformemente all’articolo 52, come pure in funzione di altre forme di investimento in tali titoli che incorporano sinteticamente il medesimo rischio (titoli detenuti).[^36-1]
 
-<sup>2</sup> Agli strumenti di capitale proprio detenuti da una banca sotto forma di fondi propri di base supplementari o di fondi propri complementari in imprese i cui titoli di partecipazione vanno dedotti integralmente dai fondi propri di base di qualità primaria conformemente all’articolo 32 lettere i–k si applica l’approccio di cui all’articolo 38 capoverso 1.
+<sup>2</sup> Agli strumenti di capitale proprio detenuti da una banca sotto forma di fondi propri di base supplementari o di fondi propri complementari in imprese i cui titoli di partecipazione vanno dedotti integralmente dai fondi propri di base di qualità primaria conformemente all’articolo 32 capoverso 1 lettere h–i e capoverso 4 si applica l’approccio di cui all’articolo 38 capoverso 1.[^36-2]
 
 [^36-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^36-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 37
 
@@ -650,10 +833,11 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 
 <sup>2bis</sup> In aggiunta alla limitazione secondo il capoverso 1 applicata al limite 1 della franchigia, la banca può detenere strumenti di debito a copertura delle perdite nell’applicazione di misure in caso di insolvenza secondo l’articolo 33 capoverso 1<sup>bis</sup> fino a una quota del 5 per cento dei fondi propri di base di qualità primaria, senza dedurre questi strumenti dalle componenti proprie del capitale proprio. La FINMA può emanare pertinenti disposizioni di esecuzione.[^37-2]
 
-<sup>3</sup> La parte dei valori di bilancio sommati secondo il capoverso 1 inferiore al limite della franchigia è ponderata in base al rischio. La ponderazione è effettuata per ogni componente del capitale proprio in base alla sua attribuzione al portafoglio della banca o al portafoglio di negoziazione prima della deduzione.
+<sup>3</sup> La parte dei valori di bilancio sommati secondo il capoverso 1 inferiore al limite della franchigia è ponderata in funzione del rischio. Il calcolo delle posizioni ponderate in funzione del rischio è effettuato per ogni componente del capitale proprio in base alla sua attribuzione al portafoglio della banca o al portafoglio di negoziazione prima della deduzione.[^37-3]
 
 [^37-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
 [^37-2]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^37-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 38
 
@@ -677,7 +861,8 @@ La banca deve dedurre separatamente dai fondi propri di base di qualità primari
 
 - a. i diritti per il servizio dei mutui ipotecari; e
 - b. le attività fiscali differite derivanti da differenze temporanee.
-- [tab] <sup>2</sup> Gli importi inferiori al limite della franchigia sono trattati conformemente all’articolo 40.
+
+<sup>2</sup> Gli importi inferiori al limite della franchigia sono trattati conformemente all’articolo 40.
 
 #### Art. 40
 
@@ -685,7 +870,9 @@ La banca deve dedurre separatamente dai fondi propri di base di qualità primari
 
 <sup>1</sup> I valori di bilancio calcolati in base alla procedura di cui agli articoli 38 capoversi 2 e 3 nonché 39 inferiori al limite 2 della franchigia sono sommati e misurati in base al limite 3 della franchigia. La banca deve dedurre dai fondi propri di base di qualità primaria l’importo superiore al limite 3 della franchigia.
 
-<sup>2</sup> La banca deve ponderare al 250 per cento ognuno degli importi inferiori al limite 3 della franchigia.
+<sup>2</sup> La banca deve ponderare al 250 per cento, in funzione del rischio, gli importi delle tre posizioni di cui agli articoli 38 capoverso 2 e 39 capoverso 1 inferiori al limite 3 della franchigia conformemente all’approccio standard internazionale per i rischi di credito (AS-BRI).[^40-1]
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 3: Fondi supplementari in grado di assorbire le perdite per le banche cantonali
 
@@ -733,6 +920,8 @@ Prima dell’emissione degli strumenti di debito di cui al presente articolo, la
 
 **Composizione**
 
+<sup>1</sup>
+
 I fondi propri necessari sono composti da:
 
 - a. i fondi propri minimi;
@@ -741,43 +930,71 @@ I fondi propri necessari sono composti da:
 - c<sup>bis</sup>.[^41-2] il cuscinetto anticiclico esteso; e
 - d. i fondi propri supplementari.
 
+<sup>2</sup> Sono fatte salve le esigenze particolari più elevate per le banche di rilevanza sistemica di cui al titolo quinto.[^41-3]
+
 [^41-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^41-2]: Introdotta dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^41-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 42
 
-**Fondi propri minimi**
+**Fondi propri minimi**[^42-1]
 
-<sup>1</sup> Dopo aver operato le deduzioni di cui agli articoli 31–40 le banche devono detenere complessivamente fondi propri minimi pari all’8,0 per cento delle posizioni ponderate. Almeno il 4,5 per cento delle posizioni ponderate deve essere coperto con fondi propri di base di qualità primaria e almeno il 6,0 per cento con fondi propri di base.[^42-1]
+<sup>1</sup>
 
-<sup>2</sup>
+Dopo le deduzioni di cui agli articoli 31–40 le banche devono detenere complessivamente i fondi propri minimi seguenti:
 
-Le posizioni ponderate sono composte:
+- a. fondi propri di base pari al 3 per cento dell’esposizione totale (art. 42*a*);
+- b. fondi propri pari all’8 per cento dell’insieme delle posizioni ponderate in funzione del rischio (art. 42*b*).
 
-- a. dalle posizioni ponderate in funzione del loro rischio di credito (art. 49) nonché dalle posizioni ponderate risultanti da transazioni non regolate (art. 76);
-- b. dai rischi senza controparte ponderati secondo l’articolo 79;
-- c. dai fondi propri minimi necessari alla copertura dei rischi di mercato (art. 80–88), moltiplicati per 12,5;
-- d. dai fondi propri minimi necessari alla copertura dei rischi operativi (art. 89–94), moltiplicati per 12,5;
-- e. dai fondi propri minimi necessari alla copertura di rischi derivanti da impegni di garanzia presi nei confronti di controparti centrali (art. 70), moltiplicati per 12,5;
-- f. dai fondi propri minimi necessari alla copertura del rischio di possibili adeguamenti di valore a causa dei rischi di credito della controparte su derivati (art. 55), moltiplicati per 12,5.
+<sup>2</sup> La banca deve informare la FINMA e la società di audit non appena non dispone più dei fondi propri minimi conformemente al capoverso 1.
 
-<sup>3</sup> La banca deve informare la FINMA e la società di audit non appena non dispone più dei fondi propri minimi conformemente al capoverso 1.
+<sup>3</sup> Se la banca non dispone dei fondi propri minimi conformemente al capoverso 1, le norme in materia di fondi propri sono considerate non adempiute ai sensi dell’articolo 25 capoverso 1 LBCR.
 
-<sup>4</sup> Se la banca non dispone dei fondi propri minimi conformemente ai capoversi 1 e 2, le norme in materia di fondi propri sono considerate non adempiute ai sensi dell’articolo 25 capoverso 1 LBCR.
+[^42-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-[^42-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+#### Art. 42a
+
+**Esposizione totale**[^42a-1]
+
+<sup>1</sup> L’esposizione totale corrisponde al denominatore del «leverage ratio». Si compone delle posizioni non ponderate.
+
+<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche relative al «leverage ratio» e all’esposizione totale. A tale scopo si fonda sullo standard LEV[^42a-2]. Per il calcolo del supplemento di garanzia nei derivati, oltre all’approccio standard per il calcolo degli equivalenti di credito dei derivati («Standardised Approach for Measuring Counterparty Credit Risk», SA-CCR) (art. 57), la FINMA ammette il SA-CCR semplificato e l’approccio basato sul valore di mercato (art. 58).
+
+[^42a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^42a-2]: Lo standard LEV è riportato nell’all. 1 n. 7.
+
+#### Art. 42b
+
+**Insieme delle posizioni ponderate in funzione del rischio**[^42b-1]
+
+L’insieme delle posizioni ponderate in funzione del rischio è composto:
+
+- a. dalle posizioni ponderate in funzione dei rischi di credito (art. 49);
+- b. dai fondi propri minimi per la copertura dei rischi di mercato (art. 81–88), moltiplicati per 12,5;
+- c. dai fondi propri minimi per la copertura dei rischi operativi (art. 89–94), moltiplicati per 12,5.
+
+[^42b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 42c
+
+**Qualità dei fondi propri minimi secondo l’art. 42 cpv. 1 lett. b**[^42c-1]
+
+Almeno il 4,5 per cento dell’insieme delle posizioni ponderate in funzione del rischio deve essere coperto con fondi propri di base di qualità primaria e almeno il 6 per cento con fondi propri di base.
+
+[^42c-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 43
 
 **Cuscinetto di fondi propri**
 
-<sup>1</sup> Le banche dovrebbero detenere durevolmente, oltre ai fondi propri minimi, un cuscinetto di fondi propri fino a concorrenza della quota complessiva di fondi propri secondo le indicazioni dell’allegato 8. Sono fatte salve le esigenze particolari più elevate per le banche di rilevanza sistemica di cui al titolo quinto.[^43-1]
+<sup>1</sup> Le banche devono detenere durevolmente, oltre ai fondi propri minimi, un cuscinetto di fondi propri secondo le indicazioni dell’allegato 8.[^43-1]
 
 <sup>2</sup> Le banche il cui cuscinetto di fondi propri è temporaneamente inferiore a quanto prescritto a causa di circostanze particolari imprevedibili quali una crisi del settore finanziario internazionale o svizzero non violano le esigenze relative ai fondi propri.
 
 <sup>3</sup> Nel caso in cui il cuscinetto di fondi propri sia inferiore a quanto prescritto, la FINMA fissa un termine per la sua ricostituzione.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^43-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 44
 
@@ -785,18 +1002,19 @@ Le posizioni ponderate sono composte:
 
 <sup>1</sup>
 
-La Banca nazionale svizzera può proporre al Consiglio federale di obbligare le banche a detenere, sotto forma di fondi propri di base di qualità primaria, un cuscinetto anticiclico pari al massimo al 2,5 per cento delle posizioni ponderate in Svizzera qualora ciò sia necessario per:
+La Banca nazionale svizzera può proporre al Consiglio federale di obbligare le banche a detenere in Svizzera, sotto forma di fondi propri di base di qualità primaria, un cuscinetto anticiclico pari al massimo al 2,5 per cento delle posizioni ponderate in funzione del rischio, qualora ciò sia necessario per:[^44-1]
 
 - a. rafforzare la capacità di resistenza del settore bancario nei confronti dei rischi legati a una crescita eccessiva del credito; o
 - b. contrastare una crescita eccessiva del credito.
 
-<sup>2</sup> Prima di formulare la proposta di cui al capoverso 1, la Banca nazionale svizzera consulta la FINMA e informa il Dipartimento federale delle finanze. Se il Consiglio federale adotta la proposta, la presente ordinanza è completata con un corrispondente allegato 7.[^44-1]
+<sup>2</sup> Prima di formulare la proposta di cui al capoverso 1, la Banca nazionale svizzera consulta la FINMA e informa il Dipartimento federale delle finanze. Se il Consiglio federale adotta la proposta, la presente ordinanza è completata con un corrispondente allegato 7.[^44-2]
 
 <sup>3</sup> Il cuscinetto anticiclico può essere limitato a determinate posizioni di credito. È soppresso o adeguato alle mutate circostanze se i criteri in base ai quali è stato ordinato non sono più adempiuti. La procedura è retta dai capoversi 1 e 2.
 
 <sup>4</sup> L’articolo 43 capoversi 2 e 3 si applica per analogia al cuscinetto anticiclico.
 
-[^44-1]: Nuovo testo del per. giusta il n. I dell’O del 26 gen. 2022, in vigore dal 30 set. 2022 ([RU 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
+[^44-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^44-2]: Nuovo testo del per. giusta il n. I dell’O del 26 gen. 2022, in vigore dal 30 set. 2022 ([RU 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
 
 #### Art. 44a
 
@@ -804,7 +1022,7 @@ La Banca nazionale svizzera può proporre al Consiglio federale di obbligare le 
 
 <sup>1</sup> Le banche con un totale di bilancio di almeno 250 miliardi di franchi e un’esposizione totale all’estero di almeno 10 miliardi di franchi o con un’esposizione totale all’estero di almeno 25 miliardi di franchi devono detenere un cuscinetto anticiclico esteso sotto forma di fondi propri di base di qualità primaria.
 
-<sup>2</sup> Per queste banche l’ammontare del cuscinetto anticiclico esteso corrisponde alla media ponderata dei cuscinetti anticiclici che, secondo l’elenco pubblicato dal Comitato di Basilea, si applicano negli Stati membri nei quali i crediti determinanti della banca nei confronti del settore privato sono localizzati, ma corrisponde al massimo al 2,5 per cento delle posizioni ponderate. I crediti nei confronti di banche e di enti pubblici non sono considerati crediti nei confronti del settore privato.
+<sup>2</sup> Per queste banche l’ammontare del cuscinetto anticiclico esteso corrisponde alla media ponderata dei cuscinetti anticiclici che, secondo l’elenco[^44a-2] pubblicato dal Comitato di Basilea per la vigilanza bancaria, si applicano negli Stati membri nei quali i crediti determinanti della banca nei confronti del settore privato sono localizzati, ma corrisponde al massimo al 2,5 per cento delle posizioni ponderate in funzione del rischio. I crediti nei confronti di banche e di enti pubblici non sono considerati crediti nei confronti del settore privato.[^44a-3]
 
 <sup>3</sup> La ponderazione delle quote per ciascuno Stato membro corrisponde all’esigenza complessiva in materia di fondi propri per le esposizioni creditizie nei confronti del settore privato nello Stato in questione, divisa per l’esigenza complessiva in materia di fondi propri della banca per le esposizioni creditizie nei confronti del settore privato.
 
@@ -815,6 +1033,8 @@ La Banca nazionale svizzera può proporre al Consiglio federale di obbligare le 
 <sup>6</sup> L’articolo 43 capoversi 2 e 3 si applica per analogia.
 
 [^44a-1]: Introdotto dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^44a-2]: L’elenco può essere consultato gratuitamente all’indirizzo: [www.bis.org](http://www.bis.org) &gt; Committees & Associations &gt; Basel Committee on Banking Supervision &gt; CCyB and G-SIB buffer &gt; Countercyclical capital buffer (CCyB).
+[^44a-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 45
 
@@ -830,24 +1050,49 @@ In circostanze particolari la FINMA può obbligare le banche, nel singolo caso, 
 
 [^45-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
-#### Art. 46
+#### Art. 45a
 
-**Indice massimo di leva finanziaria (leverage ratio)**[^46-1]
+**Calcolo delle posizioni ponderate in funzione del rischio da parte di banche che applicano approcci modello**[^45a-1]
 
-<sup>1</sup> Dopo aver operato le deduzioni di cui agli articoli 31–40 le banche devono detenere fondi propri di base pari al 3 per cento delle posizioni non ponderate (esposizione totale).
+<sup>1</sup>
 
-<sup>2</sup> L’esposizione totale corrisponde al denominatore del leverage ratio calcolato secondo gli standard minimi di Basilea. La FINMA emana disposizioni di esecuzione tecniche. A tale scopo essa si fonda sugli standard minimi di Basilea.
+Le banche che applicano uno degli approcci seguenti devono altresì calcolare le posizioni ponderate in funzione del rischio seguendo gli approcci standard:
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+- a. l’approccio modello «Expected Positive Exposure» (approccio modello EPE) per il calcolo degli equivalenti di credito di derivati e operazioni di finanziamento di titoli (art. 59 e 62 cpv. 1 lett. c);
+- b. l’approccio per le cartolarizzazioni basato sui rating interni («Internal Ratings-based Approach for Securitisations», SEC-IRBA) (art. 59*b* cpv. 2 lett. b);
+- c. l’approccio per le cartolarizzazioni basato sulla valutazione interna («Internal Assessment Approach for Securitisations», SEC-IAA) (art. 59*b* cpv. 2 lett. d);
+- d. l’approccio modello «value at risk» per il computo delle garanzie nel caso di operazioni di finanziamento di titoli e altre transazioni collateralizzate (art. 62 cpv. 3 lett. b);
+- e. l’IRB (art. 77);
+- f. l’approccio modello dei rischi di mercato (art. 88).
 
-#### Art. 47
+<sup>2</sup>
 
-**Calcoli paralleli in caso di applicazione di approcci modello**
+Sono considerati approcci standard:
 
-Per le banche che determinano i loro fondi propri necessari sulla base di approcci modello sottoposti ad autorizzazione (IRB, metodo del modello EPE[^47-1], approccio modello dei rischi di mercato o AMA[^47-2]), la FINMA può richiedere un calcolo parallelo dei fondi propri necessari in base a un approccio standard che essa reputa adeguato.
+- a. il SA-CCR (art. 57);
+- b. l’approccio standard per le cartolarizzazioni («Standardised Approach for Securitisations», SEC-SA) (art. 59*b* cpv. 2 lett. a) e l’approccio per le cartolarizzazioni basato sui rating esterni («External Ratings-based Approach for Securitisations», SEC-ERBA) (art. 59*b* cpv. 2 lett. c) nonché la ponderazione secondo l’articolo 59*b* capoverso 3*;*
+- c. l’approccio semplice per operazioni di finanziamento di titoli e altre transazioni collateralizzate (art. 62 cpv. 1 lett. a) e l’approccio completo per operazioni di finanziamento di titoli e altre transazioni collateralizzate cui si applicano gli scarti di garanzia previsti dalla legislazione sulla vigilanza (art. 62 cpv. 3 lett. a);
+- d. l’AS-BRI (art. 63–73);
+- e. gli approcci applicati ai rischi di adeguamenti della valutazione del credito per derivati e operazioni di finanziamento di titoli (art. 77*g–77j*);
+- f. l’approccio standard semplice dei rischi di mercato (art. 83–86*a*) e l’approccio standard dei rischi di mercato (art. 87); tuttavia, le banche che applicano l’approccio modello dei rischi di mercato (art. 88), ai fini del calcolo aggiuntivo devono applicare l’approccio standard dei rischi di mercato (art. 87);
+- g. l’approccio standard per i rischi operativi (art. 90–94).
 
-[^47-1]: Expected Positive Exposure.
-[^47-2]: Advanced Measurement Approaches
+<sup>3</sup>
+
+Per calcolare l’insieme delle posizioni ponderate in funzione del rischio, le banche di cui al capoverso 1 devono utilizzare il maggiore dei due valori seguenti («output floor»):
+
+- a. il valore che si ottiene calcolando le posizioni ponderate in funzione del rischio secondo gli approcci modello e standard applicati dalla banca, tenuto conto delle prescrizioni di cui all’articolo 77 capoverso 2;
+- b. il valore che corrisponde al 72,5 per cento delle posizioni ponderate in funzione del rischio calcolate unicamente secondo gli approcci standard.
+
+<sup>4</sup> Il capoverso 3 si applica sia a livello del singolo istituto sia a livello di gruppo o conglomerato finanziario.
+
+[^45a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 46 e 47
+
+[^4647-1]
+
+[^4647-1]: Abrogati dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 1*a*: Semplificazioni per le banche particolarmente liquide e ben capitalizzate delle categorie 4 e 5
 
@@ -857,11 +1102,12 @@ Per le banche che determinano i loro fondi propri necessari sulla base di approc
 
 #### Art. 47a
 
-**Semplificazioni**
+**Semplificazioni**[^47a-1]
 
-Le banche delle categorie 4 e 5 di cui all’allegato 3 OBCR[^47a-1] possono chiedere alla FINMA di essere esentate dall’osservanza delle disposizioni relative ai fondi propri necessari di cui agli articoli 41–46.
+Le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^47a-2] possono chiedere alla FINMA di essere esentate dall’osservanza delle disposizioni relative ai fondi propri necessari di cui agli articoli 41–45*a*.
 
-[^47a-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^47a-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^47a-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 47b
 
@@ -898,7 +1144,7 @@ Il grado di rifinanziamento corrisponde al quoziente tra:
 
 <sup>5</sup> La FINMA può emanare disposizioni di esecuzione tecniche relative ai capoversi 2–4.
 
-[^47b-1]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^47b-1]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 
 #### Art. 47c
 
@@ -918,10 +1164,10 @@ La FINMA può respingere la richiesta di semplificazioni se:
 
 - c. la gestione dei rischi di tasso d’interesse è inadeguata oppure il rischio di tasso d’interesse è eccessivamente elevato rispetto ai fondi propri di base, al risultato da operazioni su interessi o alla capacità di sopportare i rischi, tenuto conto dell’insieme dei rischi.
 
-[^47c-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^47c-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^47c-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^47c-4]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^47c-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^47c-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^47c-3]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^47c-4]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 47d
 
@@ -945,24 +1191,42 @@ Le banche che non intendono più beneficiare delle semplificazioni di cui all’
 
 #### Art. 48
 
-**Definizione**
+**Definizioni: rischi di credito**[^48-1]
 
 <sup>1</sup>
 
-Nel contesto del calcolo dei fondi propri necessari si definisce come rischio di credito il pericolo di una perdita risultante dal fatto che:
+È definito rischio di credito il pericolo di una perdita per la banca risultante dal fatto che:
 
 - a. una controparte non ottempera ai suoi impegni contrattuali; o
-- b. il valore degli strumenti finanziari emessi da un terzo diminuisce, segnatamente il valore di titoli di partecipazione, strumenti su saggi di interesse o quote in investimenti collettivi di capitale.
+- b. il valore degli strumenti finanziari emessi da un terzo diminuisce, segnatamente il valore di strumenti partecipativi, strumenti su tassi d’interesse o quote di patrimoni collettivi gestiti.
 
-<sup>2</sup> Per rischio di credito della controparte in relazione a derivati, operazioni pronti contro termine e operazioni analoghe si intende il rischio di credito nei confronti della controparte e non quello degli strumenti finanziari alla base delle operazioni.[^48-1]
+<sup>2</sup>
 
-[^48-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+È definito rischio di credito della controparte il pericolo di inadempienza della controparte prima del regolamento definitivo delle prestazioni legate alle operazioni seguenti:
+
+- a. operazioni in derivati;
+- b. operazioni di finanziamento di titoli;
+- c. operazioni con regolamento a lungo termine.
+
+<sup>3</sup> È definito rischio CVA il pericolo di perdite di valore di mercato per la banca risultanti da adeguamenti della valutazione del credito («Credit Valuation Adjustment», CVA) effettuati nel caso di derivati e operazioni di finanziamento di titoli a causa del rischio di inadempienza della controparte.
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 49
 
-**Posizioni da ponderare in funzione del rischio**
+**Posizioni ponderate in funzione dei rischi di credito**[^49-1]
 
-<sup>1</sup> Le posizioni devono essere ponderate in funzione del rischio, sempreché presentino un rischio di credito e non sia prevista alcuna deduzione dai fondi propri ai sensi degli articoli 31–40.
+<sup>1</sup>
+
+Le posizioni ponderate in funzione dei rischi di credito sono composte:
+
+- a. dalle posizioni nel portafoglio della banca ponderate in funzione del rischio di credito e del rischio di credito della controparte relative a quote di patrimoni collettivi gestiti;
+- b. dalle posizioni di cartolarizzazione ponderate in funzione del rischio di credito e del rischio di credito della controparte;
+- c. dai fondi propri minimi moltiplicati per 12,5 relativi alle posizioni nei confronti di controparti centrali e membri compensatori nel portafoglio della banca e nel portafoglio di negoziazione;
+- d. dalle posizioni nel portafoglio della banca e nel portafoglio di negoziazione ponderate in funzione del rischio di credito e del rischio di credito della controparte risultanti da transazioni non regolate;
+- e. dai fondi propri minimi per la copertura del rischio CVA moltiplicati per 12,5;
+- f. dalle posizioni nel portafoglio della banca ponderate in funzione del rischio di credito e del rischio di credito della controparte, nella misura in cui non rientrano nel campo di applicazione delle lettere a–e;
+- g. dalle posizioni nel portafoglio di negoziazione ponderate in funzione del rischio di credito della controparte, nella misura in cui non rientrano nel campo di applicazione delle lettere a–e.
 
 <sup>2</sup>
 
@@ -971,30 +1235,61 @@ A tal fine si considerano posizioni:
 - a. i crediti, comprese le pretese da crediti di impegno non iscritte negli attivi;
 - b. i crediti correlati a cartolarizzazioni;
 - c. le altre operazioni fuori bilancio convertite nel loro equivalente di credito;
-- d. le posizioni nette in titoli di partecipazione e in strumenti su saggi di interesse che non figurano nel portafoglio di negoziazione;
-- e. le posizioni nette in titoli di partecipazione e in strumenti su saggi di interesse che figurano nel portafoglio di negoziazione, sempreché venga applicato l’approccio *de minimis* (art. 82 cpv. 1 lett. a);
-- f. le posizioni nette in titoli propri e in partecipazioni qualificate che figurano nel portafoglio di negoziazione.
+- d. le operazioni in derivati convertite nel loro equivalente di credito;
+- e. le posizioni nette in strumenti partecipativi e in strumenti su tassi d’interesse detenuti nel portafoglio della banca;
+- f. le posizioni nette in strumenti partecipativi e in strumenti su tassi d’interesse detenuti nel portafoglio di negoziazione, sempreché i fondi propri minimi siano calcolati secondo l’articolo 83 capoverso 3;
+- g. le posizioni nette in titoli propri e in partecipazioni qualificate detenuti nel portafoglio di negoziazione;
+- h. le posizioni di cui all’allegato 3 numero 6.
 
-<sup>3</sup> Le posizioni di controparti associate ai sensi dell’articolo 109, non articolate per controparte, devono essere ponderate con l’aliquota di rischio massima con la quale sono ponderate le singole controparti associate.
+<sup>3</sup> Le posizioni di controparti associate ai sensi dell’articolo 109, non articolate per controparte, devono essere ponderate con il massimo fattore di ponderazione del rischio con il quale sono ponderate le singole controparti associate.
+
+<sup>4</sup>
+
+Per i seguenti derivati di credito le banche non devono detenere fondi propri minimi relativi al rischio di credito della controparte:
+
+- a. protezione del credito acquistata per una posizione del portafoglio della banca o per una posizione che comporta un rischio di credito della controparte;
+- b. protezione del credito venduta sotto forma di «swap» contro il rischio di perdita del credito («credit default swap») nel portafoglio della banca, sempreché essa sia trattata come una garanzia concessa dalla banca e l’intero importo nominale sia considerato nei fondi propri minimi relativi ai rischi di credito.
+
+[^49-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 50
 
-**Approcci**
+**Approcci per la ponderazione in funzione del rischio**[^50-1]
 
 <sup>1</sup>
 
-La ponderazione delle singole posizioni ai fini del rilevamento dei fondi propri minimi necessari alla copertura dei rischi di credito ai sensi dell’articolo 42 capoverso 2 lettera a è effettuata secondo uno dei seguenti approcci:
+Il calcolo delle posizioni ponderate in funzione dei rischi di credito è effettuato secondo le disposizioni comuni (art. 77*a*–77*j)* nonché secondo:
 
-- a. l’AS-BRI (art. 63–75); o
+- a. l’AS-BRI (art. 63–73); o
 - b. l’IRB (art. 77).
 
-<sup>2</sup> L’IRB e l’AS-BRI possono essere combinati.
+<sup>2</sup> L’AS-BRI e l’IRB possono essere combinati.
 
-<sup>3</sup> L’applicazione dell’IRB esige l’autorizzazione della FINMA. Questa stabilisce le condizioni di autorizzazione.
+<sup>3</sup> L’applicazione dell’IRB esige l’autorizzazione della FINMA.
 
-<sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative ai rischi di credito e alle cartolarizzazioni.
+<sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative ai rischi di credito. A tale scopo si fonda sullo standard CRE[^50-2].
+
+[^50-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^50-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 ### Sezione 2: Calcolo delle posizioni
+
+#### Art. 50a
+
+**Deduzioni**[^50a-1]
+
+<sup>1</sup>
+
+Le posizioni da ponderare in funzione dei rischi di credito devono essere previamente ridotte dei seguenti importi:
+
+- a. singole rettifiche di valore, accantonamenti e storni parziali;
+- b. adeguamenti della valutazione del credito per operazioni in derivati e operazioni di finanziamento di titoli; e
+- c. deduzioni dai fondi propri secondo gli articoli 5*b* capoverso 3 e 31–40.
+
+<sup>2</sup> Le regole derogatorie relative all’IRB secondo i numeri 30–36 CRE[^50a-2] prevalgono su quelle di cui al capoverso 1, fatto salvo l’articolo 77 capoverso 4 per le posizioni in stato di default.
+
+[^50a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^50a-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 51
 
@@ -1013,9 +1308,11 @@ Le posizioni nette sono calcolate come segue:
 - + impegni di assunzione relativi a «put» emessi, ponderati al fattore delta
 - ./. pretese di consegna relative alla compera di «put», ponderate al fattore delta.
 
-<sup>2</sup> L’importo di singole rettifiche di valore e accantonamenti iscritto nel passivo del bilancio va dedotto dalla posizione netta.
+<sup>2</sup> ...[^51-1]
 
 <sup>3</sup> Le posizioni nette positive sono designate come posizioni lunghe nette e gli importi assoluti delle posizioni negative nette come posizioni corte nette.
+
+[^51-1]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 52
 
@@ -1052,84 +1349,187 @@ Nel caso degli strumenti propri di capitale proprio, per ogni componente (CET1, 
 
 #### Art. 53
 
-**Posizioni in operazioni fuori bilancio**
+**Operazioni fuori bilancio**[^53-1]
 
 <sup>1</sup> Le operazioni fuori bilancio devono essere convertite nel loro equivalente di credito tramite i fattori di conversione del credito. Tale equivalente costituisce la posizione da ponderare in funzione del rischio.
 
-<sup>2</sup> Le banche che applicano l’IRB calcolano l’equivalente di credito di impegni eventuali e di impegni irrevocabili secondo le norme dell’AS-BRI se l’IRB non contiene norme in materia.
+<sup>2</sup> Le banche che applicano l’AS-BRI devono calcolare l’equivalente di credito moltiplicando il valore nominale o il valore di cassa di una determinata operazione con il relativo fattore di conversione del credito secondo l’allegato 1*a*.
+
+<sup>3</sup>
+
+L’AS-BRI prevede che per gli impegni siano convertiti gli importi convenuti ma non ancora utilizzati. Per impegni si intendono tutte le convenzioni contrattuali tra la banca e il cliente che hanno per oggetto la concessione di un credito, l’acquisto di valori patrimoniali o l’emissione di sostituti di credito qualora esse attribuiscano al cliente il diritto a una prestazione da parte della banca o l’insorgere del diritto non possa essere controllato dalla banca. Sono incluse le convenzioni che la banca può:
+
+- a. disdire in qualsiasi momento, senza condizioni e senza preavviso;
+- b. disdire automaticamente se il debitore non adempie più le condizioni previamente definite.
+
+<sup>4</sup> Se viene assunto l’impegno di fornire un’operazione fuori bilancio, l’AS-BRI permette alla banca di applicare il minore dei due fattori di conversione del credito applicabili.
+
+<sup>5</sup>
+
+L’AS-BRI permette di applicare un fattore di conversione del credito pari allo 0,0 per cento agli importi relativi a impegni nei confronti di imprese, incluse PMI di cui all’articolo 70, se sono soddisfatte le seguenti condizioni:
+
+- a. l’impresa è costantemente monitorata dalla banca;
+- b. la banca non riceve emolumenti o provvigioni per la conclusione o il mantenimento della convenzione;
+- c. l’impresa è tenuta a presentare una richiesta alla banca per ogni singolo utilizzo;
+- d. a prescindere dall’adempimento o meno da parte dell’impresa delle condizioni fissate nella convenzione, la banca ha un potere decisionale illimitato in merito all’esecuzione di ogni utilizzo;
+- e. la banca decide in merito all’esecuzione di ogni utilizzo soltanto dopo aver valutato la solvibilità dell’impresa; e
+- f. la banca esegue la valutazione della solvibilità immediatamente prima dell’utilizzo.
+
+<sup>6</sup> Le banche che applicano l’IRB devono calcolare l’equivalente di credito di impegni eventuali e di impegni irrevocabili secondo le regole dell’AS-BRI se l’IRB non contiene disposizioni in materia.
+
+[^53-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 54
 
-**Impegni eventuali e impegni irrevocabili**
+**Sottopartecipazioni per impegni eventuali**[^54-1]
 
-<sup>1</sup> Nel caso dell’AS-BRI l’equivalente di credito degli impegni eventuali e degli impegni irrevocabili è calcolato moltiplicando il valore nominale o il valore di cassa di una determinata operazione con il relativo fattore di conversione del credito secondo l’allegato 1.
+Gli impegni eventuali per i quali la banca ha ceduto sottopartecipazioni possono essere trattati, nei limiti della sottopartecipazione, come crediti diretti nei confronti dei rispettivi sottopartecipanti.
 
-<sup>2</sup> Gli impegni eventuali per i quali la banca ha ceduto sottopartecipazioni possono essere trattati come crediti diretti, nei limiti della sottopartecipazione, nei confronti dei rispettivi sottopartecipanti.
+[^54-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 55
 
-**Rischio di possibili adeguamenti di valore di derivati**
+[^55-1]
 
-<sup>1</sup> Oltre ai rischi di credito della controparte su derivati secondo gli articoli 50 e 56, le banche devono coprire con fondi propri minimi il rischio di perdite di valore di mercato risultanti da adeguamenti di valore di derivati operati a causa del rischio di credito della controparte.
-
-<sup>2</sup> La FINMA determina il metodo di calcolo per i corrispondenti fondi propri minimi in funzione dei metodi di calcolo scelti per gli equivalenti di credito (art. 56) e per i rischi di mercato (art. 82). A tale scopo essa si fonda sugli standard minimi di Basilea.
-
-<sup>3</sup> La FINMA mette a disposizione delle banche che non hanno scelto né un metodo di calcolo di cui all’articolo 56 né un approccio di calcolo di cui all’articolo 82 un metodo di calcolo conservativo semplificato.
+[^55-1]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 56
 
-**Metodi di calcolo per i derivati**
+**Approcci per il calcolo degli equivalenti di credito di derivati e di operazioni con regolamento a lungo termine**[^56-1]
 
-<sup>1</sup>
+<sup>1</sup> I derivati devono essere convertiti in equivalenti di credito. Questi ultimi costituiscono le posizioni da ponderare in funzione del rischio.
 
-Gli equivalenti di credito per i derivati possono essere calcolati a scelta secondo uno dei seguenti metodi:
+<sup>2</sup>
 
-- a. approccio standard; o
-- b. metodo del modello «expected positive exposure» (metodo del modello EPE).[^56-1]
+Gli equivalenti di credito devono essere calcolati secondo uno degli approcci seguenti:
 
-<sup>2</sup> L’applicazione del metodo del modello EPE esige l’autorizzazione della FINMA. Quest’ultima stabilisce le condizioni di autorizzazione.
+- a. il SA-CCR;
+- b.
 
-<sup>3</sup> Il calcolo dell’equivalente di credito in caso di compensazione legale o contrattuale ai sensi dell’articolo 61, alla quale partecipano più di due parti, è precisato dalla FINMA.
+  uno degli approcci semplificati:
 
-<sup>4</sup> Questi metodi di calcolo si applicano a tutti i derivati, indipendentemente dal fatto che siano negoziati in borsa o fuori borsa.
+  - 1\. il SA-CCR semplificato,
+  - 2\. l’approccio basato sul valore di mercato;
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)).
+- c. l’approccio modello EPE.
+
+<sup>3</sup> L’applicazione dell’approccio modello EPE esige l’autorizzazione della FINMA.
+
+<sup>4</sup> Questi approcci di calcolo si applicano a tutti i derivati, indipendentemente dal fatto che siano negoziati in borsa o fuori borsa.
+
+<sup>5</sup> Le operazioni con regolamento a lungo termine sono trattate come i derivati ai fini del calcolo degli equivalenti di credito.
+
+<sup>6</sup> La FINMA può emanare disposizioni di esecuzione tecniche relative al calcolo dell’equivalente di credito in caso di compensazione legale o contrattuale ai sensi dell’articolo 61 capoverso 1 lettera a alla quale partecipano più di due parti.
+
+[^56-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 57
 
 **Approccio standard**[^57-1]
 
-<sup>1</sup> Per il calcolo degli equivalenti di credito dei derivati secondo l’approccio standard, la somma dei costi di sostituzione stabiliti conformemente alla legislazione sulla vigilanza e dell’importo del potenziale futuro incremento di valore è moltiplicata per il fattore 1,4.
+<sup>1</sup> Per il calcolo degli equivalenti di credito dei derivati secondo il SA-CCR, la somma dei costi di sostituzione stabiliti conformemente alla legislazione sulla vigilanza e dell’importo del potenziale futuro incremento di valore è moltiplicata per il fattore 1,4.
 
-<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche secondo gli standard minimi di Basilea.
+<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sul numero 52 CRE[^57-2]. Essa disciplina, fondandosi sul diritto dell’Unione europea (UE), il calcolo dei derivati su tassi d’interesse in caso di interessi negativi.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)).
+[^57-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^57-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 58
 
-[^58-1]
+**Approcci semplificati**[^58-1]
 
-[^58-1]: Abrogato dal n. I dell’O del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)).
+<sup>1</sup>
+
+Le banche seguenti possono applicare il SA-CCR semplificato o l’approccio basato sul valore di mercato ai fini del calcolo degli equivalenti di credito dei derivati:
+
+- a. le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^58-2];
+- b. le banche della categoria 3 secondo l’allegato 3 OBCR che dispongono di posizioni non rilevanti in derivati.
+
+<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche.
+
+[^58-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^58-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 59
 
-**Metodo del modello EPE**
+**Approccio modello EPE**[^59-1]
 
-<sup>1</sup> La FINMAdefinisce il calcolo degli equivalenti di credito dei derivati secondo il metodo del modello EPE. A tale scopo essa si fonda sugli standard minimi di Basilea.
+<sup>1</sup> La FINMA emana disposizioni di esecuzione tecniche relative al calcolo degli equivalenti di credito dei derivati secondo l’approccio modello EPE. A tale scopo si fonda sul numero 53 CRE[^59-2].
 
 <sup>2</sup> Gli equivalenti di credito sono moltiplicati per il fattore EPE. La FINMA stabilisce il fattore EPE nei singoli casi. Esso è almeno pari a 1,2.
 
+[^59-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+#### Art. 59a
+
+**Quote di patrimoni collettivi gestiti**[^59a-1]
+
+<sup>1</sup>
+
+Per le quote di patrimoni collettivi gestiti, le posizioni di tali patrimoni da ponderare in funzione del rischio devono essere calcolate secondo:
+
+- a. l’approccio «look through» (LTA);
+- b. l’approccio basato su un mandato (MBA);
+- c. l’approccio «fallback» (FBA); o
+- d. l’approccio semplificato.
+
+<sup>2</sup>
+
+Le banche seguenti possono applicare l’approccio semplificato in alternativa all’approccio «fallback»:
+
+- a. le banche della categoria 3 secondo l’allegato 3 OBCR[^59a-2] che dispongono di posizioni non rilevanti relative a patrimoni collettivi gestiti;
+- b. le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR.
+
+<sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sul numero 60 CRE[^59a-3].
+
+[^59a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59a-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^59a-3]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+#### Art. 59b
+
+**Posizioni di cartolarizzazione**[^59b-1]
+
+<sup>1</sup>
+
+Le posizioni di cartolarizzazione sono posizioni derivanti da transazioni che presentano le caratteristiche seguenti:
+
+- a. esse suddividono i rischi di credito correlati a una posizione di rischio o a un pool di posizioni di rischio in parti;
+- b. i pagamenti effettuati nel quadro della transazione dipendono dall’evoluzione del valore della posizione di rischio o del pool di posizioni di rischio;
+- c. l’ordine delle parti determina la ripartizione delle perdite per la durata della transazione.
+
+<sup>2</sup>
+
+Per le posizioni di cartolarizzazione, le posizioni da ponderare in funzione del rischio devono essere calcolate secondo:
+
+- a. il SEC-SA;
+- b. il SEC-IRBA;
+- c. il SEC-ERBA;
+- d. il SEC-IAA.
+
+<sup>3</sup> Le posizioni di cartolarizzazione cui non è applicabile nessuno degli approcci di cui al capoverso 2 vanno ponderate al 1250 per cento.
+
+<sup>4</sup> L’applicazione del SEC-IAA esige l’autorizzazione della FINMA.
+
+<sup>5</sup> La FINMA emana disposizioni di esecuzione tecniche relative alle cartolarizzazioni. A tale scopo si fonda sui numeri 40–45 CRE[^59b-2]. Essa assegna i rating esterni alle singole classi di rating. Per l’applicazione del SEC-ERBA disciplina inoltre le esigenze relative alle conoscenze specifiche, alla gestione del rischio per quanto riguarda le cartolarizzazioni e alla verifica della diligenza nell’utilizzo di rating esterni.
+
+[^59b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59b-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
 #### Art. 60
 
-**Strumenti su saggi di interesse e titoli di partecipazione**
+**Strumenti su tassi d’interesse e strumenti partecipativi**[^60-1]
 
-<sup>1</sup> La posizione netta in strumenti su saggi di interesse e titoli di partecipazione che sono strumenti di capitale proprio di un’impresa attiva nel settore finanziario va calcolata secondo l’articolo 52.
+<sup>1</sup> La posizione netta in strumenti su tassi d’interesse o strumenti partecipativi che sono strumenti di capitale proprio di un’impresa attiva nel settore finanziario va calcolata secondo l’articolo 52.
 
-<sup>2</sup> La posizione netta in strumenti su saggi di interesse e titoli di partecipazione del medesimo emittente che non figurano nel portafoglio di negoziazione e presentano la medesima ponderazione di rischio va calcolata secondo l’articolo 51.
+<sup>2</sup> La posizione netta in strumenti su tassi d’interesse e strumenti partecipativi del medesimo emittente che non sono detenuti nel portafoglio di negoziazione e presentano la medesima ponderazione in funzione del rischio va calcolata secondo l’articolo 51.
 
-<sup>3</sup> Nel caso delle posizioni che non figurano nel portafoglio di negoziazione l’effettivo fisicamente disponibile va preso in considerazione al valore contabile.
+<sup>3</sup> Nel caso delle posizioni che non sono detenute nel portafoglio di negoziazione, l’effettivo fisicamente disponibile va preso in considerazione al valore contabile.
 
-<sup>4</sup> I capoversi 1 e 2 si applicano parimenti agli strumenti su saggi di interesse e ai titoli di partecipazione che figurano nel portafoglio di negoziazione, sempreché venga applicato l’approccio *de minimis* (art. 82 cpv. 1 lett. a).
+<sup>4</sup> I capoversi 1 e 2 si applicano parimenti agli strumenti su tassi d’interesse e agli strumenti partecipativi detenuti nel portafoglio di negoziazione, sempreché i fondi propri minimi siano calcolati secondo l’articolo 83 capoverso 3.
+
+[^60-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 61
 
@@ -1142,83 +1542,201 @@ Le seguenti misure di riduzione dei rischi possono essere considerate nel calcol
 - a. la compensazione legale e contrattuale («netting»);
 - b. le garanzie;
 - c. i derivati di credito; e
-- d. altre garanzie.
+- d.[^61-1] le garanzie finanziarie.
 
 <sup>2</sup> Su richiesta, le banche devono comprovare alla società di audit o alla FINMA che le misure di riduzione dei rischi sono legalmente eseguibili nel quadro dei relativi ordinamenti giuridici.
 
-<sup>3</sup> La FINMA precisa le misure di riduzione dei rischi.
+<sup>3</sup>
+
+La FINMA emana disposizioni di esecuzione tecniche relative alle misure di riduzione dei rischi. A tale scopo si fonda sullo standard CRE[^61-2], ma prevede deroghe per le seguenti garanzie nel quadro della loro considerazione quali misure di riduzione dei rischi:
+
+- a. le fideiussioni secondo la legge federale del 4 ottobre 1974[^61-3] che promuove la costruzione d’abitazioni e l’accesso alla loro proprietà;
+- b. le garanzie secondo la legge del 16 dicembre 2005[^61-4] sull’assicurazione contro i rischi delle esportazioni;
+- c. le operazioni pronti contro termine e le operazioni analoghe in franchi.[^61-5]
+
+<sup>4</sup> Essa indica, fondandosi sul diritto dell’UE, gli indici principali che possono essere utilizzati per la determinazione dello scarto di garanzia.[^61-6]
+
+[^61-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^61-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+[^61-3]: [RS 843](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10342)
+[^61-4]: [RS 946.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11341)
+[^61-5]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^61-6]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 62
 
-**Transazioni collateralizzate**
+**Operazioni di finanziamento di titoli e altre transazioni collateralizzate**[^62-1]
 
 <sup>1</sup>
 
-La banca può tenere conto delle garanzie di cui all’articolo 61 capoverso 1 lettera d, a scelta secondo:
+Nel caso di operazioni di finanziamento di titoli e altre transazioni collateralizzate mediante garanzie finanziarie, per il calcolo delle posizioni la banca può decidere di tenere conto di tali garanzie secondo:
 
-- a. l’approccio semplificato;
-- b. l’approccio completo.
+- a. l’approccio semplice;
+- b. l’approccio completo;
+- c. l’approccio modello EPE.
 
-<sup>2</sup> Nell’approccio semplificato le quote collateralizzate delle posizioni sono assegnate alla classe di posizione del garante.
-
-<sup>3</sup> Nell’approccio completo la posizione è compensata con la quota di posizione collateralizzata. La posizione netta permane nella classe di posizione iniziale.
-
-<sup>4</sup> La FINMA precisa gli approcci.
-
-<sup>5</sup> Nel calcolo degli equivalenti di credito secondo gli articoli 56–59 è tenuto conto di tutte le garanzie computabili emesse o ricevute dalla banca ai fini della collateralizzazione di derivati.[^62-1]
-
-[^62-1]: Introdotto dal n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)).
-
-### Sezione 3: Classi di posizione e relativa ponderazione secondo l’AS-BRI
-
-#### Art. 63
-
-**Classi di posizione**
-
-<sup>1</sup> Le banche ordinano le singole posizioni per classi di posizione.
-
-<sup>2</sup>
-
-Le singole posizioni possono essere ponderate in funzione di un rating esterno nelle seguenti classi di posizione:
-
-- a. governi centrali e banche centrali;
-- b. enti di diritto pubblico;
-- c. Banca dei regolamenti internazionali (BRI), Fondo monetario internazionale (FMI) e banche multilaterali di sviluppo;
-- d. banche e società di intermediazione mobiliare;
-- e. istituzioni comuni;
-- f. borse e stanze di compensazione;
-- g. imprese.
+<sup>2</sup> Nell’approccio semplice le quote collateralizzate delle posizioni sono assegnate alla classe di posizione del garante.
 
 <sup>3</sup>
 
-Nelle seguenti classi di posizione non possono essere applicati rating esterni:
+Nell’approccio completo la posizione è compensata con la quota di posizione collateralizzata. La posizione netta permane nella classe di posizione iniziale. Alla quota di posizione collateralizzata si applicano:
 
-- a. persone fisiche e piccole imprese (posizioni «retail»);
+- a. gli scarti di garanzia previsti dalla legislazione sulla vigilanza; o
+- b. l’approccio modello «value at risk».
+
+<sup>4</sup> L’applicazione degli approcci modello EPE e «value at risk» esige l’autorizzazione della FINMA.
+
+<sup>5</sup> In caso di applicazione dell’approccio modello EPE, gli equivalenti di credito sono moltiplicati per il fattore EPE. La FINMA stabilisce il fattore EPE nei singoli casi. Esso è almeno pari a 1,2.
+
+<sup>6</sup> Nel calcolo degli equivalenti di credito secondo gli articoli 56–59 è tenuto conto di tutte le garanzie computabili emesse o ricevute dalla banca ai fini della collateralizzazione di derivati.
+
+<sup>7</sup> La FINMA emana disposizioni di esecuzione tecniche relative agli approcci di cui ai capoversi 1–5 e al fine di prendere in considerazione le garanzie di cui al capoverso 6. A tale scopo si fonda sullo standard CRE[^62-2], ad eccezione del numero 56.
+
+[^62-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^62-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+### Sezione 3: Classi di posizione e fattori di ponderazione del rischio secondo l’AS‑BRI
+
+[^tit3-chap2-sec3-1]
+
+[^tit3-chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 63
+
+**Classi di posizione**[^63-1]
+
+<sup>1</sup> Le banche che applicano l’AS-BRI ordinano le singole posizioni per classi di posizione.
+
+<sup>2</sup>
+
+Nelle seguenti classi di posizione è possibile utilizzare rating esterni per ponderare in funzione del rischio le singole posizioni:
+
+- a. governi centrali, banche centrali e organizzazioni sovranazionali;
+- b. enti di diritto pubblico;
+- c. banche multilaterali di sviluppo;
+- d. banche;
+- e. istituzioni comuni;
+- f. imprese;
+- g. finanziamenti speciali;
+- h. titoli di credito esteri coperti.
+
+<sup>3</sup>
+
+Nelle seguenti classi di posizione non possono essere utilizzati rating esterni:
+
+- a. posizioni «retail»;
 - b. obbligazioni fondiarie svizzere;
 - c. posizioni garantite direttamente o indirettamente da pegno immobiliare;
 - d. posizioni postergate;
-- e. posizioni in sofferenza;
-
-- f.[^63-1] titoli di partecipazione;
-- f<sup>bis</sup>.[^63-2] quote di patrimoni collettivi gestiti;
+- e. posizioni in stato di default;
+- f. strumenti partecipativi;
 - g. altre posizioni.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)).
-[^63-2]: Introdotta dal n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)).
+<sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative alle definizioni delle classi di posizione. A tale scopo si fonda sullo standard CRE[^63-2]. Essa designa le banche multilaterali di sviluppo alle quali può essere assegnato un fattore di ponderazione del rischio pari allo 0 per cento.
+
+[^63-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^63-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+#### Art. 63a
+
+**Verifica della diligenza nell’utilizzo di rating esterni**[^63a-1]
+
+<sup>1</sup> Se utilizza rating esterni per posizioni delle classi di cui all’articolo 63 capoverso 2 lettere c–h, nel quadro di una verifica della diligenza la banca deve valutare se il fattore di ponderazione del rischio applicato sia adeguato. Se la posizione ha un profilo di rischio superiore rispetto a quello risultante dal rating esterno, deve essere applicato un fattore di ponderazione del rischio di una classe di rating inferiore. Dalla verifica della diligenza non può mai risultare un fattore di ponderazione del rischio inferiore rispetto a quello del rating esterno.
+
+<sup>2</sup> La banca può escludere posizioni non rilevanti dalla verifica della diligenza.
+
+<sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard CRE[^63a-2].
+
+[^63a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^63a-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 64
 
-**Applicazione di rating esterni**
+**Utilizzo di rating esterni**[^64-1]
 
-<sup>1</sup> Nel quadro dell’AS-BRI le banche possono ponderare le posizioni con rating di agenzie di rating, sempreché queste agenzie siano riconosciute a tale scopo dalla FINMA.
+<sup>1</sup> Nel quadro dell’AS-BRI le banche possono utilizzare rating esterni di un’agenzia di rating riconosciuta dalla FINMA secondo l’articolo 6 per determinare i fattori di ponderazione del rischio, sempreché il riconoscimento dell’agenzia di rating contempli l’utilizzo a tale scopo di questi rating.
 
-<sup>2</sup> La FINMA assegna i rating delle agenzie di rating riconosciute alle singole classi di rating e stabilisce la ponderazione dei rischi delle singole classi.
+<sup>2</sup> La FINMA assegna i rating esterni alle singole classi di rating. A tale scopo si fonda sullo standard CRE[^64-2].
 
-<sup>3</sup> L’applicazione di rating esterni deve essere basata su una strategia concreta, specifica all’istituto. Tale strategia deve essere coerentemente osservata.
+<sup>3</sup> Le banche devono utilizzare i rating esterni in base a un piano concreto e specifico all’istituto, che garantisca un utilizzo coerente ai fini della ponderazione e della gestione del rischio. Tale piano deve essere osservato in modo coerente.
 
-<sup>4</sup> La banca che pondera le posizioni sulla base di rating di agenzie di rating esterne deve in linea di massima ponderare tutte le posizioni ad eccezione della classe di posizione imprese sulla base di rating esterni. Se pondera anche le posizioni della classe di posizione imprese sulla base di rating esterni, deve in linea di massima ponderare tutte le posizioni di questa classe sulla base di rating esterni.
+<sup>4</sup> La banca che pondera le posizioni sulla base di rating esterni, ai fini della ponderazione in funzione del rischio delle sue posizioni di cui all’articolo 63 capoverso 2 deve utilizzare tutti i rating disponibili delle agenzie di rating scelte, sempreché i rating si riferiscano a posizioni nei segmenti di mercato riconosciuti.
 
-<sup>5</sup> Se la banca pondera le posizioni senza applicare rating esterni o se non esistono rating di un’agenzia di rating riconosciuta per ponderare una posizione, devono essere applicati i fattori di ponderazione della classe di rating «senza rating».
+<sup>5</sup> Se la banca pondera le posizioni senza utilizzare rating esterni o se per ponderare una posizione in funzione del rischio non esistono rating di un’agenzia di rating scelta dalla banca, devono essere applicati i fattori di ponderazione della classe «senza rating».
+
+<sup>6</sup> Se esistono due o più rating con diversi fattori di ponderazione del rischio, devono essere scelti i rating che corrispondono ai due fattori di ponderazione del rischio più bassi, utilizzando poi il più elevato dei due.
+
+<sup>7</sup> I rating esterni rilasciati per singole imprese appartenenti a un gruppo non possono essere utilizzati per determinare il fattore di ponderazione del rischio di altre imprese dello stesso gruppo.
+
+[^64-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^64-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+#### Art. 64a
+
+**Rating esterni a breve termine**[^64a-1]
+
+<sup>1</sup> Le banche possono utilizzare rating a breve termine per la ponderazione in funzione del rischio di posizioni a breve termine nei confronti di banche e imprese.
+
+<sup>2</sup>
+
+La FINMA assegna i rating a breve termine a quattro classi di rating. A tale scopo si fonda sullo standard CRE[^64a-2]. Le classi di rating comprendono i seguenti fattori di ponderazione del rischio:
+
+- a. classe 1: 20 per cento;
+- b. classe 2: 50 per cento;
+- c. classe 3: 100 per cento;
+- d. classe 4: 150 per cento.
+
+<sup>3</sup> Se, per una posizione nei confronti di una banca, il fattore di ponderazione del rischio di cui al capoverso 2 è superiore al fattore di cui all’allegato 2 numero 4.1 per le posizioni a breve termine, per tutte le posizioni a breve termine senza rating nei confronti della banca deve essere applicato il fattore di ponderazione del rischio di cui al capoverso 2.
+
+<sup>4</sup> Se, per una posizione nei confronti di una banca, il fattore di ponderazione del rischio di cui al capoverso 2 è uguale o inferiore al fattore di cui all’allegato 2 numero 4.1 per le posizioni a breve termine, il fattore di ponderazione del rischio di cui al capoverso 2 deve essere applicato alla relativa posizione, ma non alle altre posizioni a breve termine senza rating nei confronti della banca.
+
+<sup>5</sup>
+
+Il fattore minimo di ponderazione del rischio per le posizioni senza rating nei confronti di una banca o di un’impresa è del:
+
+- a. 100 per cento per le posizioni a breve termine se, sulla base di un rating a breve termine, una posizione nei confronti della controparte ottiene o otterrà un fattore del 50 per cento;
+- b. 150 per cento per le posizioni a breve e lungo termine se, sulla base di un rating a breve termine, una posizione nei confronti della controparte ottiene o otterrà un fattore del 150 per cento.
+
+<sup>6</sup> Il fattore minimo di ponderazione del rischio di cui al capoverso 5 lettera b non si applica se la banca effettua una riduzione dei rischi secondo l’articolo 61 per le posizioni senza rating.
+
+[^64a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^64a-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+#### Art. 64b
+
+**Rating esterni specifici dell’emissione e relativi all’emittente**[^64b-1]
+
+<sup>1</sup> Per le posizioni con un rating specifico dell’emissione rilasciato da un’agenzia di rating scelta dalla banca, il fattore di ponderazione del rischio è determinato da tale rating.
+
+<sup>2</sup> Per le posizioni senza rating specifico dell’emissione per le quali è disponibile un rating specifico dell’emissione per un’altra emissione dello stesso debitore o un rating relativo all’emittente per il debitore, il fattore di ponderazione del rischio è determinato da tale rating.
+
+<sup>3</sup>
+
+Qualora per un’altra emissione dello stesso debitore sia disponibile un rating specifico dell’emissione, si applica quanto segue:
+
+- a. se è di elevata qualità, il rating può essere utilizzato per la posizione senza rating solo se questa è di rango anteriore o di pari rango rispetto all’emissione provvista di rating. Se tale posizione è di rango posteriore rispetto all’emissione provvista di rating, si applica il fattore di ponderazione del rischio per le posizioni senza rating;
+- b. se non è di elevata qualità, il rating deve essere utilizzato per la posizione senza rating se questa è di pari rango o di rango posteriore rispetto all’emissione provvista di rating.
+
+<sup>4</sup>
+
+Qualora per il debitore sia disponibile un rating relativo all’emittente, si applica quanto segue:
+
+- a. se è di elevata qualità, il rating relativo all’emittente può essere utilizzato solo per i crediti di rango anteriore non collateralizzati nei confronti del debitore. Per le altre posizioni si applica il fattore di ponderazione del rischio per le posizioni senza rating;
+- b. se non è di elevata qualità, il rating relativo all’emittente deve essere utilizzato per la posizione senza rating se questa è di pari rango o di rango posteriore rispetto ai crediti di rango anteriore non collateralizzati.
+
+<sup>5</sup> Se l’emittente dispone di un rating di elevata qualità applicabile solo a uno specifico tipo di credito, tale rating può essere utilizzato solo per le posizioni senza rating appartenenti a tale tipo di credito.
+
+<sup>6</sup> Un rating specifico dell’emissione o relativo all’emittente è di elevata qualità se ad esso è assegnato un fattore di ponderazione del rischio inferiore a quello che otterrebbe senza rating.
+
+[^64b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 64c
+
+**Rating esterni in valuta locale e in valuta estera**[^64c-1]
+
+Se per la ponderazione in funzione del rischio di posizioni senza rating sono utilizzati crediti comparabili con rating nei confronti dello stesso debitore, per le posizioni in valuta estera si utilizzano rating in valuta estera. I rating in valuta locale possono essere utilizzati soltanto per la ponderazione in funzione del rischio di posizioni espresse in valuta locale.
+
+[^64c-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 65
 
@@ -1226,185 +1744,608 @@ Nelle seguenti classi di posizione non possono essere applicati rating esterni:
 
 A livello di gruppo possono essere applicati i rating utilizzati nelle società da consolidare.
 
+#### Art. 65a
+
+**Classificazione del rischio Paese**[^65a-1]
+
+<sup>1</sup> Per la ponderazione in funzione del rischio di posizioni nei confronti di governi centrali le banche possono utilizzare la classificazione del rischio Paese allestita conformemente all’«Arrangement on Guidelines for Officially Supported Export Credits» del 1° gennaio 2022[^65a-2] dell’Organizzazione per la cooperazione e lo sviluppo economici (OCSE) e pubblicata[^65a-3] da quest’ultima.
+
+<sup>2</sup>
+
+Per le categorie di tale classificazione del rischio Paese si applicano i seguenti fattori di ponderazione del rischio:
+
+- a. 0 per cento per una classificazione del rischio Paese pari a 0 e 1;
+- b. 20 per cento per una classificazione del rischio Paese pari a 2;
+- c. 50 per cento per una classificazione del rischio Paese pari a 3;
+- d. 100 per cento per una classificazione del rischio Paese da 4 a 6;
+- e. 150 per cento per una classificazione del rischio Paese pari a 7.
+
+[^65a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^65a-2]: L’«Arrangement on Guidelines for Officially Supported Export Credits» può essere consultato gratuitamente all’indirizzo: [www.oecd.org](https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/) &gt; Topics &gt; Trade &gt; Export credits &gt; Arrangement and Sector Understandings.
+[^65a-3]: La classificazione del rischio Paese può essere consultata gratuitamente all’indirizzo: [www.oecd.org](https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/financing-terms-and-conditions/country-risk-classification/) &gt; Topics &gt; Trade &gt; Export credits &gt; Arrangement and Sector Understandings &gt; Country risk classification.
+
 #### Art. 66
 
-**Calcolo delle posizioni da ponderare**
+**Posizioni ponderate in funzione del rischio**[^66-1]
 
-<sup>1</sup> Le posizioni delle classi di posizione di cui all’articolo 63 capoverso 2 devono essere ponderate secondo l’allegato 2 nel caso dell’approccio AS-BRI.
+<sup>1</sup> Nel caso dell’AS-BRI le posizioni delle classi di cui all’articolo 63 capoverso 2 devono essere ponderate secondo l’allegato 2.
 
-<sup>2</sup> Le posizioni delle classi di posizione di cui all’articolo 63 capoverso 3 lettere a–e e g devono essere ponderate secondo l’allegato 3.
+<sup>2</sup> Nel caso dell’AS-BRI le posizioni delle classi di cui all’articolo 63 capoverso 3 lettere a–e e g devono essere ponderate secondo l’allegato 3.
 
-<sup>3</sup> Le posizioni della classe di posizione di cui all’articolo 63 capoverso 3 lettera f devono essere ponderate secondo l’allegato 4.
+<sup>3</sup> Nel caso dell’AS-BRI le posizioni della classe di cui all’articolo 63 capoverso 3 lettera f devono essere ponderate secondo l’allegato 4, sempreché non siano dedotte dai fondi propri o ponderate al 250 per cento secondo l’articolo 40 capoverso 2.
 
-<sup>3bis</sup> Le posizioni della classe di posizione di cui all’articolo 63 capoverso 3 lettera f<sup>bis</sup> devono essere ponderate secondo le disposizioni di esecuzione tecniche della FINMA. A tale scopo la FINMA si fonda sugli standard minimi di Basilea.[^66-1]
+<sup>4</sup> Le posizioni nette in strumenti su tassi d’interesse di cui all’articolo 60 devono essere assegnate alla classe di posizione dell’emittente e ponderate in funzione del rischio corrispondente.
 
-<sup>4</sup> Le posizioni nette in strumenti su saggi di interesse di cui all’articolo 60 devono essere assegnate alla classe di posizione dell’emittente e ponderate in modo corrispondente.
+<sup>5</sup> Nel caso delle posizioni sotto forma di strumenti di capitale proprio di imprese attive nel settore finanziario, la ponderazione in funzione del rischio secondo i capoversi 3 e 4 si riferisce alla parte della posizione netta di cui all’articolo 52 non dedotta dai fondi propri in base all’approccio di deduzione corrispondente (art. 33).
 
-<sup>5</sup> Nel caso delle posizioni sotto forma di strumenti di capitale proprio di imprese attive nel settore finanziario la ponderazione secondo i capoversi 3 e 4 si riferisce alla parte della posizione netta di cui all’articolo 52 non dedotta dai fondi propri in base all’approccio di deduzione corrispondente (art. 33).
+[^66-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-[^66-1]: Introdotto dal n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)).
+#### Art. 66a
+
+**Posizioni non coperte contro il rischio di cambio nei confronti di persone fisiche**[^66a-1]
+
+<sup>1</sup> Se le posizioni «retail» nei confronti di persone fisiche e le posizioni nei confronti di persone fisiche garantite da immobili d’abitazione non sono coperte contro il rischio di cambio e la valuta del credito è diversa dalla valuta della fonte di reddito del mutuatario, il fattore di ponderazione del rischio di cui all’allegato 3 aumenta della metà. Il fattore massimo di ponderazione del rischio è del 150 per cento. I crediti «lombard» sono esclusi da tale aumento.
+
+<sup>2</sup> Per le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^66a-2], il capoverso 1 non si applica alle posizioni nei confronti di mutuatari con sede o domicilio in Svizzera.
+
+[^66a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^66a-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 67
 
-**Posizioni in valuta locale nei confronti degli Stati centrali e delle banche centrali**
+**Posizioni in valuta locale nei confronti di governi centrali o banche centrali**[^67-1]
 
-Se l’autorità di vigilanza di un Paese diverso dalla Svizzera prevede, per le posizioni in valuta locale nei confronti dello Stato centrale o della banca centrale di tale Paese, una ponderazione del rischio inferiore a quella prevista dall’articolo 66 capoverso 1, le banche possono ponderare in modo analogo simili posizioni, sempreché queste siano rifinanziate in valuta locale di detto Paese e la vigilanza sulle banche in detto Paese sia adeguata. La ponderazione per analogia si applica alla quota di questa posizione rifinanziata in valuta locale.
+Se l’autorità di vigilanza di un Paese diverso dalla Svizzera prevede, per le posizioni in valuta locale nei confronti del governo centrale o della banca centrale di tale Paese, una ponderazione in funzione del rischio inferiore rispetto a quella prevista dall’articolo 66 capoverso 1, le banche possono ponderare in modo analogo tali posizioni, sempreché queste siano rifinanziate nella valuta locale di detto Paese e la vigilanza sulle banche in detto Paese sia adeguata. Questa ponderazione in funzione del rischio si applica alla quota di questa posizione rifinanziata in valuta locale.
+
+[^67-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 68
 
-**Banche e società di intermediazione mobiliare**
+**Banche: assegnazione alla classe di posizione «banche» e utilizzo di rating esterni**[^68-1]
 
-<sup>1</sup> Le società di intermediazione mobiliare possono essere assegnate alla classe di posizione banche e società di intermediazione mobiliare (art. 63 cpv. 2 lett. d) soltanto se sottostanno a una vigilanza equivalente a quella sulle banche.
+<sup>1</sup> Le società di intermediazione mobiliare svizzere possono essere assegnate alla classe di posizione «banche» (art. 63 cpv. 2 lett. d) soltanto se gestiscono conti. Gli istituti finanziari esteri possono essere assegnati a questa classe di posizione se nello Stato di sede sottostanno a una regolamentazione e a una vigilanza equivalenti a quelle applicate alle banche nello Stato di sede.
 
-<sup>2</sup> Le posizioni compensate di operazioni fuori bilancio sono assegnate al segmento di scadenza di più breve durata delle posizioni compensate.
+<sup>2</sup> Per la ponderazione in funzione del rischio di posizioni nei confronti di banche non si possono utilizzare rating esterni basati su una garanzia implicita dello Stato, ad eccezione delle banche di proprietà statale.
 
-<sup>3</sup> Alle posizioni nei confronti di banche senza rating esterno, escluse le aperture di credito autoliquidanti a breve per il finanziamento del commercio, non può essere applicato un fattore di ponderazione del rischio inferiore a quello applicato alle posizioni nei confronti dello Stato di localizzazione.[^68-1]
+[^68-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-[^68-1]: Introdotto dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+#### Art. 68a
+
+**Banche: sottoclassi di posizione**[^68a-1]
+
+<sup>1</sup>
+
+Le posizioni nei confronti di una banca senza rating esterno sono assegnate alle sottoclassi di posizione A–C:
+
+- a. sottoclasse di posizione A:banche con solvibilità elevata;
+- b. sottoclasse di posizione B: banche con solvibilità media;
+- c. sottoclasse di posizione C: banche con solvibilità bassa.
+
+<sup>2</sup> L’assegnazione alla sottoclasse di posizione A implica che la banca debitrice adempia o superi le esigenze prudenziali relative ai fondi propri minimi e ai cuscinetti applicabili nello Stato di sede, ad eccezione dei fondi propri minimi o dei cuscinetti non pubblici specifici per la banca.
+
+<sup>3</sup> L’assegnazione alla sottoclasse di posizione B implica che la banca debitrice adempia o superi le esigenze prudenziali relative ai fondi propri minimi applicabili nello Stato di sede, ad eccezione dei cuscinetti o dei fondi propri minimi non pubblici specifici per la banca.
+
+<sup>4</sup> L’assegnazione alla sottoclasse di posizione C implica che la banca debitrice non adempia le condizioni di cui ai capoversi 2 e 3.
+
+<sup>5</sup> Le posizioni nei confronti di una banca senza rating esterno la cui richiesta di ricorrere alle semplificazioni di cui all’articolo 47*a* è stata autorizzata dalla FINMA sono assegnate alle sottoclassi di posizione A–C unicamente in base alla solvibilità della banca. Non si applicano le condizioni di cui ai capoversi 2–4.
+
+[^68a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 69
 
-**Borse e stanze di compensazione**
+**Banche: ponderazione in funzione del rischio**[^69-1]
 
-<sup>1</sup> Le stanze di compensazione sono istituti tramite i quali sono adempiute le prestazioni previste dai contratti negoziati.
+<sup>1</sup> Se una banca assegnata alla sottoclasse di posizione A detiene fondi propri minimi sotto forma di fondi propri di base di qualità primaria pari ad almeno il 14 per cento dell’insieme delle posizioni ponderate in funzione del rischio (art. 42*b*) e ad almeno il 5 per cento dell’esposizione totale (art. 42*a*), alle posizioni secondo l’allegato 2 numero 4.2 nei confronti di tale banca può essere applicato un fattore di ponderazione del rischio del 30 per cento.
 
-<sup>2</sup> Nel caso dei rischi di credito i fattori di ponderazione del rischio dello 0 o del 2 per cento di cui all’allegato 2 si applicano soltanto se una controparte centrale regolata interviene immediatamente nella transazione tra due partecipanti al mercato e se è istituito un adeguato e completo sistema di collateralizzazione come base dell’esercizio della funzione di questa controparte centrale.
+<sup>2</sup>
 
-<sup>3</sup>
+Le posizioni nei confronti di una banca assegnata alla sottoclasse di posizione A, B o C devono essere ponderate almeno con il fattore di ponderazione del rischio applicabile a posizioni nei confronti dello Stato di sede di tale banca se:
 
-Questo sistema di collateralizzazione è segnatamente considerato adeguato e completo se:
+- a. le posizioni nei confronti della banca non sono contabilizzate nella valuta locale dello Stato di sede; o
+- b. le posizioni nei confronti di una succursale della banca non sono contabilizzate nella valuta locale della Giurisdizione in cui opera la succursale.
 
-- a. i contratti sono valutati quotidianamente ai corsi del mercato ed è effettuata quotidianamente una compensazione dei margini;
-- b. le variazioni di valore attese per il giorno successivo sono ulteriormente e costantemente collateralizzate con un elevato livello di confidenza; e
-- c. è garantita la copertura di perdite inattese.
-- [tab] <sup>4</sup> La FINMA disciplina i criteri supplementari per le controparti centrali in relazione con i derivati e le operazioni pronti contro termine («repo») o analoghe conformemente agli standard minimi di Basilea.
+<sup>3</sup> Il capoverso 2 non si applica a impegni eventuali infrannuali, autoliquidanti e attinenti alla negoziazione che risultano dallo scambio di merci.
+
+<sup>4</sup> Le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^69-2] possono rinunciare all’assegnazione a sottoclassi di posizione per le posizioni nei confronti di una banca senza rating esterno. Ciò si applica anche alle banche della categoria 3 secondo l’allegato 3 OBCR che dispongono di posizioni non rilevanti nei confronti di banche senza rating esterno. In caso di rinuncia alle sottoclassi di posizione, ai crediti è assegnato, in funzione della loro durata originaria, un fattore di ponderazione del rischio del 35 per cento o del 60 per cento (all. 3 n. 4). La FINMA emana disposizioni di esecuzione tecniche.
+
+[^69-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^69-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 70
 
-**Rischi di credito e impegni di garanzia nei confronti di controparti centrali**
+**Imprese**[^70-1]
 
-<sup>1</sup> Nel caso delle banche che agiscono in qualità di membri compensatori di una controparte centrale nell’ambito di derivati negoziati in borsa o fuori borsa e operazioni pronti contro termine o analoghe, la FINMA disciplina il metodo volto a determinare i fondi propri minimi destinati a coprire i rischi risultanti dagli impegni di garanzia espliciti e impliciti nei confronti della controparte centrale. A tale scopo la FINMA si fonda sugli standard minimi di Basilea.
+<sup>1</sup> Le posizioni nei confronti di imprese sono ponderate in funzione del rischio secondo l’allegato 2.
 
-<sup>2</sup> Le controparti centrali sono stanze di compensazione che si pongono quali parti tra le controparti di contratti e garantiscono l’adempimento della prestazione dei contratti durante la loro intera durata.
+<sup>2</sup> Se per le posizioni nei confronti di banche utilizza rating esterni, la banca deve utilizzare rating esterni anche per le posizioni nei confronti di imprese.
 
-<sup>3</sup> I membri compensatori sono autorizzati a intervenire quali parti in una transazione diretta con la controparte centrale, indipendentemente dal fatto che esse lo facciano per conto proprio o in quanto intermediari tra la controparte centrale e altri partecipanti al mercato.
+<sup>3</sup> Sono considerate PMI le imprese che nell’ultimo esercizio hanno generato una cifra d’affari annua consolidata pari al massimo a 75 milioni di franchi. Se la PMI appartiene a un gruppo, è determinante la cifra d’affari consolidata del gruppo. Le posizioni nei confronti di queste imprese sono ponderate in funzione del rischio secondo l’allegato 2 numero 6.2.
+
+<sup>4</sup> In deroga al capoverso 3, le banche delle categorie 3–5 secondo l’allegato 3 OBCR[^70-2] possono classificare come PMI le imprese che contano al massimo 250 collaboratori, a prescindere dalla cifra d’affari annua consolidata. Se queste imprese non dispongono di alcun rating, il fattore di ponderazione del rischio delle posizioni nei loro confronti è pari al 90 per cento.
+
+<sup>5</sup> Le posizioni nei confronti di PMI, escluse le posizioni garantite direttamente o indirettamente da pegno immobiliare, possono essere assegnate alla classe di posizione «retail» (art. 71) se soddisfano le condizioni relative alle posizioni «retail» qualificate. Devono essere ponderate secondo l’allegato 3 numeri 1.1 e 1.2.
+
+[^70-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^70-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+
+#### Art. 70a
+
+**Finanziamenti speciali: definizioni**[^70a-1]
+
+<sup>1</sup>
+
+Le posizioni nei confronti di imprese, escluse le posizioni garantite direttamente o indirettamente da pegno immobiliare, sono considerate finanziamenti speciali se:
+
+- a.
+
+  si tratta di uno dei tipi di finanziamento seguenti:
+
+  - 1\. finanziamenti per il cui rimborso e la cui garanzia si ricorre principalmente alle entrate generate dal progetto finanziato (finanziamenti di progetti),
+  - 2\. finanziamenti dell’acquisto di impianti, macchinari, veicoli e altre attrezzature per il cui rimborso si ricorre ai flussi di pagamento generati da tali valori patrimoniali (finanziamenti di oggetti),
+  - 3\. crediti a breve termine destinati al finanziamento di scorte, giacenze o crediti relativi a materie prime negoziate in borsa per il cui rimborso si ricorre al ricavo della vendita dei beni finanziati (finanziamenti della negoziazione di materie prime); e
+
+- b.
+
+  è soddisfatta almeno una delle condizioni seguenti:
+
+  - 1\. l’impresa non dispone o dispone solo di pochi altri valori patrimoniali o attività rilevanti e quindi per il rimborso dell’impegno dipende in modo determinante dai ricavi dei valori patrimoniali da finanziare,
+  - 2\. il contratto concede alla banca ampi diritti di garanzia in merito ai valori patrimoniali e ai ricavi che ne derivano.
+
+<sup>2</sup> Se per i finanziamenti speciali utilizza rating esterni, la banca può utilizzare solo rating specifici dell’emissione, ma non rating relativi all’emittente.
+
+<sup>3</sup> Le banche delle categorie 3–5 secondo l’allegato 3 OBCR[^70a-2] non devono identificare come tali le posizioni di cui al capoverso 1 lettera a numeri 2 e 3. Esse possono ponderarle in funzione del rischio applicando il fattore previsto per le posizioni nei confronti di imprese senza rating.
+
+[^70a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^70a-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+
+#### Art. 70b
+
+**Finanziamenti speciali: ponderazione in funzione del rischio di finanziamenti di progetti**[^70b-1]
+
+<sup>1</sup> Per la ponderazione in funzione del rischio di finanziamenti di progetti senza rating esterno specifico dell’emissione si distingue tra una fase operativa e una fase non operativa.
+
+<sup>2</sup> È considerata operativa la fase in cui il flusso di cassa netto dell’impresa è positivo e sufficiente a coprire i rimanenti impegni contrattuali e in cui l’indebitamento a lungo termine dell’impresa è in regresso. Le altre fasi sono considerate non operative.
+
+<sup>3</sup> Sono considerate finanziamenti di progetti di elevata qualità le posizioni nei confronti di imprese in grado di adempiere puntualmente i propri obblighi finanziari anche in condizioni economiche o aziendali avverse. I finanziamenti di progetti devono altresì adempiere le ulteriori esigenze di cui al numero 20.52 CRE[^70b-2]. La FINMA emana disposizioni di esecuzione tecniche.
+
+[^70b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^70b-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 71
 
-**Posizioni nei confronti di imprese senza rating**
+**Posizioni «retail»**[^71-1]
 
-Se la banca pondera le posizioni nei confronti di imprese applicando rating, alle posizioni senza rating si applica il fattore di ponderazione del rischio del 100 per cento o quello del corrispondente Stato centrale, sempreché esso sia superiore al 100 per cento.
+<sup>1</sup> Le posizioni «retail» comprendono posizioni nei confronti di persone fisiche e posizioni nei confronti di PMI secondo l’articolo 70 capoverso 5, escluse le posizioni garantite direttamente o indirettamente da pegno immobiliare.
+
+<sup>2</sup>
+
+Le posizioni «retail» devono essere ponderate come posizioni «retail» qualificate secondo l’allegato 3 numeri 1.1 e 1.2 se soddisfano i seguenti criteri:
+
+- a. si tratta di crediti o linee di credito rotativi, di crediti personali a durata fissa, di contratti di leasing come pure di crediti o linee di credito nei confronti di PMI;
+- b. le posizioni «retail» nei confronti di una controparte ammontano complessivamente al massimo a 1,5 milioni di franchi e, non considerando le posizioni in stato di default, al massimo all’1 per cento di tutte le posizioni «retail» qualificate.
+
+<sup>3</sup> I derivati e gli altri titoli non vanno classificati come posizioni «retail» qualificate.
+
+[^71-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 71a
+
+**Obbligazioni fondiarie svizzere**[^71a-1]
+
+Le obbligazioni fondiarie svizzere sono obbligazioni fondiarie conformemente alla legge del 25 giugno 1930[^71a-2] sulle obbligazioni fondiarie. Devono essere ponderate secondo l’allegato 3 numero 2.
+
+[^71a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^71a-2]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
+
+#### Art. 71b
+
+**Titoli di credito esteri coperti**[^71b-1]
+
+I titoli di credito esteri coperti possono essere assegnati a questa classe di posizione e ponderati secondo l’allegato 2 numero 8 solo se soddisfano le condizioni seguenti:
+
+- a. sono emessi da una banca o da un istituto ipotecario;
+- b. sottostanno a una particolare vigilanza pubblica in virtù di norme di legge a tutela dei detentori;
+- c. i proventi dell’emissione dei titoli di credito sono investiti secondo le norme di legge in valori patrimoniali che per l’intera durata dei titoli di credito coprono gli impegni che ne derivano e sono destinati in primo luogo al rimborso del capitale e degli interessi dovuti in caso di inadempienza dell’emittente;
+- d.
+
+  i valori patrimoniali utilizzati per la copertura rientrano in almeno una delle seguenti categorie:
+
+  - 1\. crediti nei confronti di governi centrali, banche centrali, organizzazioni sovranazionali, enti di diritto pubblico o banche multilaterali di sviluppo o crediti garantiti da tali organismi,
+  - 2\. posizioni garantite direttamente o indirettamente da pegno immobiliare per immobili d’abitazione che adempiono le esigenze di cui all’articolo 72*c* capoverso 1, con un tasso di anticipo massimo dell’80 per cento,
+  - 3\. posizioni garantite direttamente o indirettamente da pegno immobiliare per immobili commerciali che adempiono le esigenze di cui all’articolo 72*c* capoverso 1, con un tasso di anticipo massimo del 60 per cento,
+  - 4\. crediti nei confronti di banche con un fattore di ponderazione del rischio del 30 per cento al massimo o crediti garantiti da tali banche; questi crediti possono rappresentare al massimo il 15 per cento dei valori patrimoniali dei titoli di credito esteri coperti emessi,
+  - 5\. liquidità o crediti a breve termine liquidi e garantiti che servono temporaneamente a compensare le variazioni dell’effettivo,
+  - 6\. derivati che servono a coprire i rischi dei titoli di credito esteri coperti;
+
+- e. il valore nominale dei valori patrimoniali utilizzati per la copertura deve superare di almeno il 10 per cento il valore nominale dei titoli di credito esteri coperti emessi dall’istituto. Se le norme di legge di cui alla lettera b non prevedono tale sovracopertura, l’istituto deve dimostrare pubblicamente e regolarmente il rispetto di tale esigenza;
+- f. la banca si procura almeno ogni sei mesi dall’emittente dei titoli di credito esteri coperti le informazioni di cui al numero 20.37 CRE[^71b-2].
+
+[^71b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^71b-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 72
 
-**Posizioni garantite direttamente o indirettamente da pegno immobiliare**
+**Posizioni garantite direttamente o indirettamente da pegno immobiliare: definizioni**[^72-1]
 
-<sup>1</sup> Gli immobili d’abitazione sono immobili utilizzati o dati in locazione dal mutuatario stesso.
+<sup>1</sup> Le posizioni garantite direttamente o indirettamente da pegno immobiliare sono posizioni garantite da immobili d’abitazione o commerciali. Le posizioni nei confronti di imprese che servono al finanziamento di mezzi di produzione e sono garantite in via subordinata mediante pegno immobiliare possono essere assegnate alla classe di posizione «imprese» (art. 70).
 
-<sup>2</sup> I crediti di costruzione e i crediti per terreni edificabili devono essere assegnati alle categorie di immobili di cui all’allegato 3 in modo corrispondente all’utilizzazione futura dell’opera finanziata.
+<sup>2</sup> Gli immobili d’abitazione sono immobili utilizzati esclusivamente o prevalentemente a scopi abitativi.
 
-<sup>3</sup> Il fattore di ponderazione del rischio del 35 per cento degli immobili d’abitazione all’estero si applica soltanto se per questi immobili può essere garantita una gestione dei rischi adeguata ed equivalente a quella applicata agli immobili d’abitazione svizzeri.
+<sup>3</sup> Gli immobili d’abitazione a uso proprio sono immobili abitati prevalentemente dal mutuatario stesso, nonché al massimo un’altra unità abitativa prevalentemente data in locazione e finanziata dalla banca che finanzia il domicilio principale del mutuatario. Gli immobili d’abitazione di proprietà di società per la costruzione di abitazioni d’utilità pubblica e gli immobili d’abitazione con un modello di pigione commisurata ai costi controllato dallo Stato sono considerati immobili d’abitazione a uso proprio.
 
-<sup>4</sup>
+<sup>4</sup> Tutti gli immobili che non sono immobili d’abitazione sono considerati immobili commerciali.
 
-Nel calcolo della posizione determinante per la ponderazione del rischio conformemente all’allegato 3 gli averi previdenziali costituti in pegno e i diritti alle prestazioni di previdenza costituti in pegno ai sensi dell’articolo 30*b* della legge federale del 25 giugno 1982[^72-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) e dell’articolo 4 dell’ordinanza del 13 novembre 1985[^72-2] sulla legittimazione alle deduzioni fiscali per i contributi a forme di previdenza riconosciute sono presi in considerazione come fondi propri del mutuatario, sempreché:
+<sup>5</sup> Gli immobili commerciali a uso proprio sono immobili commerciali utilizzati prevalentemente dal mutuatario stesso.
 
-- a. la costituzione in pegno sussista come copertura supplementare di un credito garantito da pegno immobiliare;
-- b. l’immobile sia un immobile utilizzato dal mutuatario stesso; e
-- c. le esigenze minime di cui al capoverso 5 siano adempiute.
+<sup>6</sup> Gli immobili utilizzati a scopo sia abitativo sia commerciale sono assegnati in funzione del loro tipo di uso prevalente. Il rispettivo fattore di ponderazione del rischio per immobili a uso proprio può essere applicato solo se l’immobile è prevalentemente destinato a uso proprio per entrambi i tipi di uso.
+
+[^72-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 72a
+
+**Posizioni garantite direttamente o indirettamente da pegno immobiliare: tasso di anticipo**[^72a-1]
+
+<sup>1</sup> Il tasso di anticipo del pegno immobiliare è il rapporto tra il credito in essere e tutti gli impegni di credito, da un lato, e il valore di anticipo iniziale del pegno immobiliare, dall’altro.
+
+<sup>2</sup> Per i crediti garantiti da diversi pegni immobiliari, la banca determina il tasso di anticipo per ogni pegno immobiliare suddividendo l’importo del credito tra i valori di anticipo dei diversi pegni immobiliari secondo una chiave di ripartizione adeguata.
+
+<sup>3</sup> Nel calcolo del tasso di anticipo non sono considerate le misure di riduzione dei rischi di cui all’articolo 61. Fanno eccezione unicamente gli averi in conto costituiti in pegno che sono ammessi per il «netting» secondo l’articolo 61 capoverso 1 lettera a e che servono unicamente al rimborso del credito.
+
+<sup>4</sup> Eventuali crediti di pari rango o di rango anteriore vanno inclusi nel calcolo del tasso di anticipo.
+
+[^72a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 72b
+
+**Posizioni garantite direttamente o indirettamente da pegno immobiliare: valore di anticipo**[^72b-1]
+
+<sup>1</sup> Il valore di anticipo iniziale del pegno immobiliare è determinato all’atto della concessione del credito nell’ambito di nuove operazioni e di aumenti del credito e rimane valido per cinque anni. Se i fondi generati con un aumento del credito non sono investiti nel pegno immobiliare, non è ammesso determinare nuovamente il valore di anticipo del pegno immobiliare e il termine di cinque anni continua a decorrere. Se i pegni immobiliari sono iscritti in portafogli per la durata del credito, il valore di anticipo iniziale corrisponde al valore al momento dell’iscrizione nel portafoglio.
+
+<sup>2</sup> Se durante questi cinque anni sono apportate modifiche al pegno immobiliare che ne aumentano il valore senza aumentare il credito, un aumento del valore di anticipo rispetto al valore iniziale è ammesso in misura corrispondente all’investimento.
+
+<sup>3</sup>
+
+Il valore di anticipo deve essere verificato nel caso di:
+
+- a. un evento straordinario con ripercussioni dirette sul valore del pegno immobiliare;
+- b. un calo significativo dei prezzi nel mercato immobiliare.
+
+<sup>4</sup> Se dalla verifica di cui al capoverso 3 risulta che il valore del pegno immobiliare si è ridotto durevolmente ed è inferiore al valore di anticipo, quest’ultimo deve essere ridotto di conseguenza. La banca deve informare previamente la FINMA nel caso la riduzione riguardi una quota sostanziale delle sue posizioni garantite da pegno immobiliare.
+
+<sup>5</sup> Durante i cinque anni di cui al capoverso 1, il valore di anticipo dopo una riduzione nel caso di cui al capoverso 3 lettera b può essere aumentato al massimo dell’importo di cui è stato ridotto secondo il capoverso 4.
+
+<sup>6</sup> Le banche devono assicurare mediante direttive interne che il valore di anticipo sia determinato secondo criteri improntati alla cautela.
+
+<sup>7</sup> Le direttive interne devono prevedere il principio del valore inferiore, secondo cui in caso di trasferimento di proprietà è considerato come valore di anticipo iniziale il valore inferiore tra il valore di mercato e il prezzo di acquisto.
+
+<sup>8</sup> La FINMA disciplina in dettaglio le prescrizioni relative alle direttive interne, precisando in particolare cosa si intende per determinazione dei valori di anticipo improntata alla cautela.
+
+[^72b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 72c
+
+**Posizioni garantite direttamente o indirettamente da pegno immobiliare: ponderazione in funzione del rischio**[^72c-1]
+
+<sup>1</sup>
+
+Una posizione garantita direttamente o indirettamente da pegno immobiliare è ponderata nel suo insieme con il fattore di ponderazione del rischio assegnato al tasso di anticipo del pegno immobiliare secondo l’allegato 3 numero 3 se sono adempiute le seguenti esigenze:
+
+- a. gli immobili sono ultimati, salvo in caso di crediti di costruzione e crediti per terreni edificabili (art. 72*e*);
+- b. le pretese sul pegno immobiliare sono legalmente eseguibili in un periodo di tempo adeguato;
+- c. ogni titolare di diritti di pegno di rango anteriore, posteriore o di pari rango può far valere le proprie pretese indipendentemente dagli altri titolari e i creditori di rango anteriore non possono realizzare il pegno immobiliare a un prezzo che costituisca uno svantaggio per i creditori di rango posteriore;
+- d. la sostenibilità (art. 72*d*) del credito e la capacità di rimborso del mutuatario sono verificate all’atto della concessione del credito;
+- e. il valore di anticipo è determinato secondo criteri improntati alla cautela conformemente all’articolo 72*b*;
+- f. le informazioni necessarie al momento della concessione del credito e a fini di monitoraggio sono opportunamente documentate.
+
+<sup>2</sup> Per gli immobili situati all’estero la ponderazione in funzione del rischio secondo il capoverso 1 è possibile solo se l’adempimento delle esigenze può essere garantito mediante una gestione del rischio adeguata ed equivalente a quella applicata agli immobili situati in Svizzera.
+
+<sup>3</sup>
+
+Ai fini della ponderazione in funzione del rischio secondo il capoverso 1 è necessario che l’operazione di credito della banca adempia le esigenze minime seguenti:
+
+- a. il mutuatario apporta una quota minima in fondi propri adeguata per il finanziamento che non proviene né da una costituzione in pegno né da un prelievo anticipato di cui agli articoli 30*b* e 30*c* della legge federale del 25 giugno 1982[^72c-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP);
+- b. l’ammortamento del credito è adeguato per quanto concerne la durata e l’ammontare.
+
+<sup>4</sup> La FINMA disciplina in dettaglio le esigenze minime relative all’operazione di credito di cui al capoverso 3 quali condizioni per la ponderazione in funzione del rischio; precisa in particolare cosa si intende per quota minima in fondi propri adeguata e ammortamento adeguato.
 
 <sup>5</sup>
 
-Il fattore di ponderazione per le posizioni garantite da pegno immobiliare di cui all’allegato 3 è del 100 per cento qualora l’operazione di credito non adempia le esigenze minime di un’autodisciplina riconosciuta dalla FINMA come standard minimo in virtù dell’articolo 7 capoverso 3 della legge del 22 giugno 2007[^72-3] sulla vigilanza dei mercati finanziari. Le esigenze minime devono prevedere:
+Se le esigenze di cui ai capoversi 1–3 non sono adempiute, il fattore di ponderazione del rischio ammonta:
 
-- a. una quota minima adeguata di fondi propri di cui il mutuatario deve disporre per il finanziamento che non proviene né da una costituzione in pegno di cui all’articolo 30*b* LPP né da un prelievo anticipato di cui all’articolo 30*c* LPP;
-- b. un ammortamento del capitale adeguato per quanto concerne la durata e l’ammontare.
+- a.
 
-[^72-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^72-2]: [RS 831.461.3](https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778)
-[^72-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+  per immobili d’abitazione o commerciali a uso proprio da parte di:
+
+  - 1\. persone fisiche: al 75 per cento,
+  - 2\. PMI: all’85 per cento, fatto salvo l’articolo 70 capoverso 4,
+  - 3\. ogni altra controparte: al fattore di ponderazione del rischio della controparte;
+
+- b. per immobili d’abitazione o commerciali non a uso proprio: al 150 per cento.
+
+<sup>6</sup> Per i crediti di rango posteriore il fattore di ponderazione del rischio secondo l’allegato 3 numero 3 risultante dal tasso di anticipo va moltiplicato per 1,25, a meno che corrisponda al fattore più basso nel singolo caso secondo l’allegato 3 numeri 3.1–3.4. Il fattore di ponderazione del rischio che ne deriva corrisponde al massimo al fattore di cui al capoverso 5.
+
+[^72c-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72c-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+
+#### Art. 72d
+
+**Posizioni garantite direttamente o indirettamente da pegno immobiliare: sostenibilità**[^72d-1]
+
+<sup>1</sup> Le banche devono assicurare mediante direttive interne che la sostenibilità dei crediti concessi sia garantita in modo durevole e sistematico. A tal fine devono basarsi su costi figurativi calcolati secondo criteri improntati alla cautela.
+
+<sup>2</sup> La FINMA disciplina in dettaglio le prescrizioni relative alle direttive interne, precisando in particolare cosa si intende per garanzia durevole e sistematica della sostenibilità e per calcolo dei costi figurativi improntato alla cautela.
+
+[^72d-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 72e
+
+**Posizioni garantite direttamente o indirettamente da pegno immobiliare: crediti di costruzione e crediti per terreni edificabili**[^72e-1]
+
+<sup>1</sup> I crediti di costruzione sono crediti per l’urbanizzazione e la costruzione di immobili. I crediti per terreni edificabili sono crediti per l’acquisto di fondi finalizzato all’urbanizzazione e alla costruzione.
+
+<sup>2</sup> I crediti di costruzione e i crediti per terreni edificabili relativi a immobili d’abitazione a uso proprio che adempiono le esigenze di cui all’articolo 72*c* capoverso 1 lettere b−f sono ponderati secondo l’allegato 3 numero 3.1. Se queste esigenze non sono adempiute, si applica l’articolo 72*c* capoverso 5 lettera a.
+
+<sup>3</sup> I crediti di costruzione e i crediti per terreni edificabili relativi a immobili d’abitazione non a uso proprio sono ponderati al 100 per cento, sempreché siano adempiute le esigenze di cui all’articolo 72*c* capoverso 1 lettere b−f e il tasso di anticipo ammonti al massimo al 70 per cento. In tutti gli altri casi sono ponderati al 150 per cento. Il valore sottostante il tasso di anticipo corrisponde al valore di anticipo del pegno immobiliare stimato al momento dell’ultimazione.
+
+<sup>4</sup> I crediti di costruzione e i crediti per terreni edificabili relativi a immobili commerciali a uso proprio sono ponderati secondo l’articolo 72*c* capoverso 5 lettera a.
+
+<sup>5</sup> I crediti di costruzione e i crediti per terreni edificabili relativi a immobili commerciali non a uso proprio sono ponderati al 150 per cento.
+
+[^72e-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 72f
+
+**Posizioni garantite direttamente o indirettamente da pegno immobiliare: considerazione di misure di riduzione dei rischi**[^72f-1]
+
+<sup>1</sup> Le misure di riduzione dei rischi (art. 61) possono essere considerate nel calcolo delle posizioni garantite direttamente o indirettamente da pegno immobiliare da ponderare in funzione del rischio, sempreché non siano già state considerate nel calcolo del tasso di anticipo secondo l’articolo 72*a* capoverso 3.
+
+<sup>2</sup>
+
+I patrimoni di previdenza costituiti in pegno conformemente all’articolo 30*b* LPP[^72f-2] e all’articolo 4 dell’ordinanza del 13 novembre 1985[^72f-3] sulla legittimazione alle deduzioni fiscali per i contributi a forme di previdenza riconosciute possono essere considerati nel quadro della computabilità di cui all’articolo 61, sempreché:
+
+- a. la costituzione in pegno sussista come copertura supplementare di un credito garantito da pegno immobiliare;
+- b. l’immobile sia un immobile d’abitazione a uso proprio; e
+- c. le esigenze minime di cui all’articolo 72*c* capoverso 3 siano adempiute.
+
+[^72f-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72f-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^72f-3]: [RS 831.461.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10116)
+
+#### Art. 72g
+
+**Posizioni garantite direttamente o indirettamente da pegno immobiliare: disposizioni di esecuzione tecniche**[^72g-1]
+
+La FINMA emana disposizioni di esecuzione tecniche relative alle posizioni garantite direttamente o indirettamente da pegno immobiliare. A tale scopo si fonda sullo standard CRE[^72g-2]. In deroga allo standard CRE, essa disciplina nel quadro dell’articolo 72*f* capoverso 2 la computabilità di patrimoni di previdenza costituiti in pegno.
+
+[^72g-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72g-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 73
 
-**Titoli di partecipazione**
+**Strumenti partecipativi[^73-1]**
 
-Le posizioni nette in titoli di partecipazione devono essere ponderate conformemente all’allegato 4. Sono escluse le quote di posizioni nette che:
+Le posizioni nette in strumenti partecipativi devono essere ponderate conformemente all’allegato 4. Sono escluse le quote di posizioni nette che:[^73-2]
 
 - a. devono essere dedotte dalle componenti dei fondi propri conformemente agli articoli 31–40; o
 - b. devono essere ponderate conformemente all’articolo 40 capoverso 2.
 
-#### Art. 74
+[^73-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^73-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-**Anticipazioni su titoli («crediti lombard»)**
+#### Art. 74 a 76
 
-Le anticipazioni su titoli possono essere ponderate singolarmente nel quadro della pertinente classe di posizione secondo l’approccio semplificato (art. 62 cpv. 1 lett. a) o l’approccio completo (art. 62 cpv. 1 lett. b).
+[^7476-1]
 
-#### Art. 75
-
-**Operazioni di mutuo, operazioni pronti contro termine e operazioni analoghe con valori mobiliari**
-
-Le operazioni di mutuo e le operazioni pronti contro termine o analoghe su valori mobiliari possono essere trattate secondo l’approccio semplificato, l’approccio completo o il metodo del modello EPE in funzione delle corrispondenti classi di posizione delle diverse operazioni.
-
-#### Art. 76
-
-**Posizioni da transazioni non regolate**
-
-<sup>1</sup> I valori positivi di rimpiazzo delle posizioni risultanti da transazioni non regolate in divise, in valori mobiliari e in merci, che presentano un rischio di perdita consecutivo al regolamento ritardato o mancato (posizioni da transazioni non regolate) e sono regolate secondo il principio «fornitura contro pagamento» o «pagamento contro pagamento» tramite un sistema di esecuzione dei pagamenti o delle transazioni in valori mobiliari, sono ponderati come segue:
-
-<table>
-<tr><th>Numero di giorni feriali bancari dopo la data d’adempimento convenuta</th><th>Ponderazione del rischio</th></tr>
-<tr><td>5–15</td><td>100 %</td></tr>
-<tr><td>16–30</td><td>625 %</td></tr>
-<tr><td>31–45</td><td>937,5 %</td></tr>
-<tr><td>46 od oltre</td><td>1250 %</td></tr>
-</table>
-
-<sup>2</sup>
-
-Le posizioni da transazioni non regolate, che sono regolate in altro modo, vanno trattate come segue:
-
-- a. la banca che ha fornito la propria prestazione tratta l’operazione come un credito fino al momento della fornitura della controprestazione. Se le posizioni non sono materiali, al posto della ponderazione in funzione del rating può essere applicato anche un fattore di ponderazione del rischio del 100 per cento;
-- b. se la controprestazione non è fornita cinque giorni feriali bancari dopo la scadenza del termine d’adempimento convenuto, il valore fornito e un eventuale valore positivo di rimpiazzo sono ponderati al 1250 per cento.
-
-<sup>3</sup> Le operazioni pronti contro termine e le operazioni pronti contro termine in acquisto («reverse repo»), nonché i crediti relativi alla concessione di titoli in prestito e gli impegni derivanti dall’assunzione di titoli in prestito sono trattati esclusivamente secondo l’articolo 75.
+[^7476-1]: Abrogati dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 4: Approccio basato sui rating interni
 
 #### Art. 77
 
-<sup>1</sup>
-
-Le banche che applicano l’approccio basato sui rating interni (IRB) per il calcolo delle posizioni ponderate in funzione del rischio e per la determinazione dei fondi propri necessari relativamente ai rischi di credito possono optare tra:
-
-- a. l’IRB semplificato (F-IRB[^77-1]); o
-- b. l’IRB avanzato (A-IRB[^77-2]).
-
-<sup>2</sup> La FINMA precisa il calcolo. A tale scopo essa si fonda sugli standard minimi di Basilea.
-
-<sup>3</sup> In assenza di regolamentazione in ambito di IRB, si applicano per analogia le disposizioni dell’AS-BRI.
-
-[^77-1]: Foundation IRB.
-[^77-2]: Advanced IRB.
-
-### Capitolo 3: Rischi senza controparte
-
-#### Art. 78
-
-**Definizione**
-
-È definito rischio senza controparte il pericolo di perdite consecutive alle variazioni di valore o alla liquidazione di attivi senza controparte come gli immobili e altri investimenti materiali.
-
-#### Art. 79
-
-**Ponderazione**
+[^77-1]
 
 <sup>1</sup>
 
-Per coprire i rischi senza controparte le seguenti posizioni vanno ponderate al 100 per cento:
+Le banche che applicano l’IRB per il calcolo dei fondi propri minimi relativi ai rischi di credito possono optare tra:
 
-- a. gli immobili;
-- b. gli altri investimenti materiali e gli investimenti da ammortare iscritti a bilancio sotto altri attivi, sempreché questi non siano dedotti dai fondi propri di base di qualità primaria conformemente all’articolo 32 lettera c.
-- [tab] <sup>2</sup> Il saldo attivo del conto di compensazione va ponderato allo 0 per cento.
+- a. l’IRB semplice («Foundation IRB», F-IRB); o
+- b. l’IRB avanzato («Advanced IRB», A-IRB).
+
+<sup>2</sup> L’insieme delle posizioni garantite direttamente o indirettamente da pegno immobiliare in Svizzera, ponderate in funzione del rischio e calcolate applicando l’IRB deve corrispondere almeno al 72,5 per cento dell’insieme delle posizioni corrispondenti calcolate secondo l’AS-BRI. Ciò si applica sia a livello del singolo istituto sia a livello delle sue filiali consolidate quale gruppo finanziario, nelle quali sono contabilizzate le posizioni garantite direttamente o indirettamente da pegno immobiliare in Svizzera.
+
+<sup>3</sup> Per le posizioni garantite direttamente o indirettamente da pegno immobiliare su immobili d’abitazione, per le quali l’operazione di credito della banca non adempie le esigenze minime di cui all’articolo 72*c* capoverso 3, si applica il fattore di ponderazione del rischio di cui all’articolo 72*c* capoverso 5, sempreché questo sia superiore al fattore determinato secondo l’IRB.
+
+<sup>4</sup> Per le posizioni in stato di default si applica un fattore di ponderazione del rischio pari al 100 per cento dopo aver dedotto le singole rettifiche di valore nonché gli storni parziali.
+
+<sup>5</sup> La FINMA emana disposizioni di esecuzione tecniche relative all’IRB. A tale scopo si fonda sullo standard CRE[^77-2], ma al fine di tenere conto della prassi delle banche svizzere può prevedere deroghe nell’assegnazione delle posizioni alle classi di posizione e nella definizione della perdita su crediti «lombard».
+
+<sup>6</sup> In assenza di regolamentazione in ambito di IRB, si applicano per analogia le disposizioni dell’AS-BRI.
+
+[^77-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^77-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+### Sezione 5: Disposizioni comuni per la ponderazione in funzione del rischio secondo l’AS-BRI e l’IRB
+
+[^tit3-chap2-sec5-1]
+
+[^tit3-chap2-sec5-1]: Introdotta dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 77a
+
+**Controparti centrali e membri compensatori**
+
+<sup>1</sup> Gli articoli 77*a*–77*e* si applicano alle transazioni con controparti centrali di cui all’articolo 48 della legge del 19 giugno 2015[^77a-1] sull’infrastruttura finanziaria.
+
+<sup>2</sup>
+
+Le controparti centrali sono considerate controparti centrali qualificate se soddisfano le condizioni seguenti:
+
+- a. dispongono di un’autorizzazione quale controparte centrale per i servizi offerti;
+- b. hanno sede in una Giurisdizione nella quale sottostanno a una regolamentazione e a una vigilanza adeguate;
+- c. le banche dispongono delle informazioni necessarie della controparte centrale per calcolare i loro fondi propri minimi relativi ai rischi nei confronti del fondo di garanzia secondo l’articolo 77*d* capoverso 2 e le autorità di vigilanza competenti verificano tali informazioni e il calcolo.
+
+<sup>3</sup> I membri compensatori sono i partecipanti a una controparte centrale autorizzati a intervenire quali parti in una transazione diretta con la controparte centrale, indipendentemente dal fatto che lo facciano per conto proprio o in quanto intermediari tra la controparte centrale e clienti di membri compensatori.
+
+<sup>4</sup>
+
+I clienti di membri compensatori sono le controparti che effettuano una transazione con controparti centrali tramite membri compensatori che:
+
+- a. agiscono come intermediari finanziari in base a una relazione contrattuale sia nei confronti delle controparti centrali sia nei confronti dei clienti di membri compensatori; o
+- b. garantiscono alle controparti centrali l’adempimento del contratto da parte dei clienti di membri compensatori.
+
+[^77a-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+
+#### Art. 77b
+
+**Fondi propri minimi: principi per le posizioni nei confronti di controparti centrali e membri compensatori**
+
+<sup>1</sup>
+
+I fondi propri minimi relativi alle posizioni di una banca nei confronti di controparti centrali e membri compensatori devono essere calcolati per:
+
+- a. posizioni derivanti da attività di negoziazione per conto proprio;
+- b. posizioni derivanti da attività di negoziazione per le quali la banca garantisce ai clienti di membri compensatori l’adempimento delle prestazioni delle controparti centrali;
+- c. rischi nei confronti del fondo di garanzia.
+
+<sup>2</sup>
+
+Per attività di negoziazione si intendono:
+
+- a. le operazioni in derivati;
+- b. le operazioni di finanziamento di titoli;
+- c. le operazioni con regolamento a lungo termine;
+- d. i pagamenti di margini in relazione alle operazioni di negoziazione di cui alle lettere a–c.
+
+<sup>3</sup> Per le posizioni in relazione a operazioni di cassa si applica l’articolo 77*f*. Per i contributi al fondo di garanzia che coprono soltanto il rischio di regolamento delle operazioni di cassa si applica un fattore di ponderazione del rischio pari allo 0 per cento.
+
+<sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative al calcolo dei fondi propri minimi di cui al capoverso 1 e alla gestione del rischio in relazione a posizioni nei confronti di controparti centrali, membri compensatori e clienti di membri compensatori. A tale scopo si fonda sullo standard CRE[^77b-1].
+
+[^77b-1]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+#### Art. 77c
+
+**Fondi propri minimi: posizioni nei confronti di controparti centrali non qualificate**
+
+<sup>1</sup> I fondi propri minimi relativi alle posizioni derivanti da attività di negoziazione di cui all’articolo 77*b* capoverso 1 lettere a e b nei confronti di controparti centrali non qualificate devono essere calcolati applicando l’AS-BRI.
+
+<sup>2</sup>
+
+Per le seguenti posizioni nei confronti del fondo di garanzia si applica un fattore di ponderazione del rischio del 1250 per cento:
+
+- a. contributi prefinanziati al fondo di garanzia;
+- b. contributi o versamenti suppletivi su richiesta, a carattere obbligatorio, a favore del fondo di garanzia.
+
+<sup>3</sup> Se l’impegno di cui al capoverso 2 lettera b è illimitato, la FINMA stabilisce nel singolo caso l’ammontare dell’impegno a cui applicare tale fattore di ponderazione del rischio.
+
+#### Art. 77d
+
+**Fondi propri minimi: posizioni nei confronti di controparti centrali qualificate**
+
+<sup>1</sup> Se la banca agisce quale membro compensatore di una controparte centrale qualificata, per le posizioni derivanti da attività di negoziazione di cui all’articolo 77*b* capoverso 1 lettere a e b nei confronti di controparti centrali qualificate si applica un fattore di ponderazione del rischio del 2 per cento.
+
+<sup>2</sup> I fondi propri minimi relativi ai contributi al fondo di garanzia sono calcolati secondo l’allegato 4*a*.
+
+<sup>3</sup> I fondi propri minimi di cui ai capoversi 1 e 2 corrispondono al massimo ai fondi propri minimi nei confronti di una controparte non qualificata.
+
+<sup>4</sup>
+
+Se la banca agisce quale cliente di un membro compensatore di una controparte centrale qualificata e la trasferibilità dell’attività in caso di inadempienza del membro compensatore è garantita, per le posizioni della banca derivanti da attività di negoziazione si applica un fattore di ponderazione del rischio del:
+
+- a. 2 per cento, se queste posizioni sono coperte contro il rischio di inadempienza congiunta del membro compensatore e degli altri clienti del membro compensatore;
+- b. 4 per cento, se queste posizioni sono coperte contro il rischio di inadempienza del membro compensatore o di inadempienza degli altri clienti del membro compensatore, ma non contro il rischio di inadempienza congiunta del membro compensatore e degli altri clienti del membro compensatore.
+
+#### Art. 77e
+
+**Fondi propri supplementari relativi a posizioni nei confronti di controparti centrali**
+
+La banca deve verificare che i fondi propri minimi di cui agli articoli 77*b*–77*d* coprano in modo adeguato i rischi delle sue posizioni nei confronti di controparti centrali. In caso contrario deve detenere fondi propri supplementari adeguati in aggiunta ai fondi propri necessari secondo gli articoli 41–45*a* e, se la banca è di rilevanza sistemica, secondo gli articoli 130–131*b*.
+
+#### Art. 77f
+
+**Posizioni da transazioni non regolate**
+
+<sup>1</sup> Le posizioni risultanti da transazioni non regolate sono posizioni che presentano un rischio di perdita a causa del ritardato o mancato regolamento.
+
+<sup>2</sup>
+
+I valori positivi di rimpiazzo delle posizioni risultanti da transazioni non regolate in valuta, in valori mobiliari e in merci che sono regolate secondo il principio «fornitura contro pagamento» o «pagamento contro pagamento» tramite un sistema di regolamento delle transazioni in valori mobiliari o un sistema di pagamento, ottengono un fattore di ponderazione del rischio del:
+
+- a. 100 per cento se il termine di adempimento convenuto è scaduto da 5–15 giorni feriali bancari;
+- b. 625 per cento se il termine di adempimento convenuto è scaduto da 16–30 giorni feriali bancari;
+- c. 937,5 per cento se il termine di adempimento convenuto è scaduto da 31–45 giorni feriali bancari;
+- d. 1250 per cento se il termine di adempimento convenuto è scaduto da 46–15 giorni feriali bancari.
+
+<sup>3</sup>
+
+Le posizioni risultanti da transazioni non regolate in valuta, in valori mobiliari e in merci che sono regolate in altro modo vanno trattate come segue:
+
+- a. la banca che ha fornito la propria prestazione tratta l’operazione come un credito fino al momento della fornitura della controprestazione. Se le posizioni non sono materiali, al posto del fattore di ponderazione del rischio basato su un rating può essere applicato anche un fattore di ponderazione del rischio del 100 per cento;
+- b. se la controprestazione non è fornita cinque giorni feriali bancari dopo la scadenza del termine di adempimento convenuto, il valore fornito e un eventuale valore positivo di rimpiazzo sono ponderati al 1250 per cento.
+
+<sup>4</sup> In deroga ai capoversi 2 e 3, le posizioni risultanti da transazioni non regolate in valuta, in valori mobiliari e in merci con un rischio di credito della controparte devono essere trattate secondo gli articoli 56 e 62.
+
+#### Art. 77g
+
+**Rischio CVA: fondi propri minimi**
+
+<sup>1</sup> Le banche devono coprire con fondi propri minimi il rischio CVA. La FINMA disciplina quali derivati e operazioni di finanziamento di titoli devono essere esclusi dalla copertura del rischio CVA. A tale scopo si fonda sul numero 50 dello standard minimo di Basilea per il calcolo delle posizioni ponderate in funzione dei rischi di mercato (MAR)[^77g-1].
+
+<sup>2</sup>
+
+I fondi propri minimi per la copertura del rischio CVA sono calcolati in base a uno degli approcci seguenti:
+
+- a. approccio base per il rischio CVA;
+- b. approccio semplificato per il rischio CVA;
+- c. approccio avanzato per il rischio CVA.
+
+<sup>3</sup> L’applicazione dell’approccio avanzato per il rischio CVA esige l’autorizzazione della FINMA.
+
+[^77g-1]: Lo standard MAR è riportato nell’all. 1 n. 5.
+
+#### Art. 77h
+
+**Rischio CVA: approccio base**
+
+<sup>1</sup>
+
+Le banche che applicano l’approccio base per calcolare i fondi propri minimi per la copertura del rischio CVA possono scegliere uno degli approcci seguenti:
+
+- a. approccio base ridotto;
+- b. approccio base integrale.
+
+<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sul numero 50 MAR[^77h-1].
+
+[^77h-1]: Lo standard MAR è riportato nell’all. 1 n. 5.
+
+#### Art. 77i
+
+**Rischio CVA: approccio semplificato**
+
+<sup>1</sup> Le banche per le quali l’importo nominale lordo aggregato di tutti i derivati non negoziati mediante una controparte centrale ammonta al massimo a 125 miliardi di franchi possono coprire il loro rischio CVA con il 100 per cento dei fondi propri minimi che sono necessari per la copertura del rischio di credito della controparte associato ai derivati e alle operazioni di finanziamento di titoli. Secondo l’approccio semplificato per il rischio CVA, le coperture CVA non possono essere considerate.
+
+<sup>2</sup> L’approccio semplificato va applicato all’intero portafoglio. Non può essere combinato con l’approccio avanzato o l’approccio base, salvo su base consolidata conformemente all’articolo 77*j* capoverso 2 secondo periodo.
+
+<sup>3</sup> La FINMA può obbligare una banca ad applicare l’approccio avanzato o l’approccio base, sempreché il rischio CVA risultante da posizioni in derivati e operazioni di finanziamento di titoli della banca contribuisca in maniera sostanziale al rischio complessivo della banca.
+
+#### Art. 77j
+
+**Rischio CVA: approccio avanzato**
+
+<sup>1</sup> I fondi propri minimi per la copertura del rischio CVA secondo l’approccio avanzato per il rischio CVA corrispondono alle esigenze relative ai fondi propri calcolate in base ai singoli rischi.
+
+<sup>2</sup> L’approccio avanzato può essere combinato con l’approccio base. Per il calcolo dei fondi propri minimi relativi al rischio CVA su base consolidata è possibile anche una combinazione con l’approccio semplificato, sempreché questo venga applicato dalle società del gruppo da consolidare attive nel settore finanziario con un rischio CVA non rilevante su base consolidata.
+
+<sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sul numero 50 MAR[^77j-1].
+
+[^77j-1]: Lo standard MAR è riportato nell’all. 1 n. 5.
+
+### Capitolo 3: ...
+
+#### Art. 78 e 79
+
+[^7879-1]
+
+[^7879-1]: Abrogati dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 4: Rischi di mercato
 
@@ -1412,177 +2353,389 @@ Per coprire i rischi senza controparte le seguenti posizioni vanno ponderate al 
 
 #### Art. 80
 
-**Principio**
+[^80-1]
 
-<sup>1</sup> I rischi di mercato di strumenti su saggi di interesse e titoli di partecipazione che figurano nel portafoglio di negoziazione, nonché di posizioni in divise, oro e materie prime nell’insieme della banca devono essere coperti con fondi propri.
-
-<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche relative ai rischi di mercato.
+[^80-1]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 81
 
-**Definizione**
+**Definizione**[^81-1]
 
-È definito rischio di mercato il pericolo di perdite consecutive alle fluttuazioni di valore di una posizione provocate da una modifica dei fattori che ne determinano il prezzo, come il prezzo delle azioni o delle materie prime, i corsi del cambio e i saggi di interesse e le loro singole volatilità.
+È definito rischio di mercato il pericolo di perdite su posizioni in bilancio o fuori bilancio consecutive a fluttuazioni dei prezzi di mercato, riguardanti in particolare:
+
+- a. interessi, incluso l’aumento del credito (rischio di tasso d’interesse);
+- b. azioni (rischio azionario);
+- c. valute (rischio di cambio);
+- d. oro (rischio di prezzo dell’oro);
+- e. materie prime, inclusi i metalli preziosi, ad eccezione dell’oro, ed elettricità (rischio delle materie prime).
+
+[^81-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 81a
+
+**Fondi propri minimi da calcolare per i rischi di mercato**[^81a-1]
+
+<sup>1</sup> Per le posizioni del portafoglio di negoziazione vanno calcolati i fondi propri minimi che sono necessari per la copertura di tutti i rischi di mercato.
+
+<sup>2</sup> Per le posizioni del portafoglio della banca vanno calcolati i fondi propri minimi che sono necessari per la copertura del rischio di cambio, del rischio di prezzo dell’oro e del rischio delle materie prime.
+
+[^81a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 81b
+
+**Eccezioni per il rischio di cambio**[^81b-1]
+
+<sup>1</sup> Le posizioni che devono essere dedotte dai fondi propri computabili conformemente agli articoli 32–40 possono essere escluse dal calcolo dei fondi propri minimi per la copertura del rischio di cambio.
+
+<sup>2</sup>
+
+Le posizioni assunte o mantenute per coprire interamente o parzialmente contro il rischio di fluttuazioni dei corsi di cambio il rapporto tra i fondi propri, i fondi propri di base o i fondi propri di base di qualità primaria computabili e l’insieme delle posizioni ponderate in funzione del rischio (quote di fondi propri) possono altresì essere escluse dal calcolo dei fondi propri minimi per la copertura del rischio di cambio, alle seguenti condizioni:
+
+- a. le posizioni non derivano da attività di negoziazione (posizioni in valuta estera strutturali);
+- b. l’ammontare delle posizioni escluse non può superare il valore che permette di neutralizzare la sensibilità ai corsi di cambio delle quote di fondi propri;
+- c. le posizioni sono escluse dal calcolo per almeno sei mesi;
+- d. la banca disciplina in direttive interne la struttura e la gestione di queste posizioni in valuta estera strutturali;
+- e. l’esclusione di posizioni e delle loro coperture deve essere coerente; le posizioni escluse restano escluse per tutta la loro durata;
+- f. la banca deve poter fornire alla FINMA in qualsiasi momento un inventario completo di tutte le posizioni escluse.
+
+<sup>3</sup> La FINMA disciplina le prescrizioni relative alle direttive interne di cui al capoverso 2 lettera d emanando disposizioni di esecuzione tecniche. A tale scopo si fonda sul numero 11.3 MAR[^81b-2].
+
+[^81b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^81b-2]: Lo standard MAR è riportato nell’all. 1 n. 5.
+
+#### Art. 81c
+
+**Strumenti di capitale proprio di imprese attive nel settore finanziario**[^81c-1]
+
+<sup>1</sup> Le posizioni che devono essere dedotte dai fondi propri computabili conformemente agli articoli 32–40 o ponderate al 1250 per cento ai fini del calcolo dei fondi propri minimi non possono essere considerate anche nel calcolo dei fondi propri relativi ai rischi di mercato.
+
+<sup>2</sup>
+
+Previa approvazione della FINMA, la banca può considerare nel calcolo dei fondi propri relativi ai rischi di mercato le posizioni detenute nel portafoglio di negoziazione in strumenti di capitale proprio di imprese attive nel settore finanziario senza deduzioni secondo i limiti della franchigia di cui all’articolo 35 capoversi 2 e 3, sempreché tale banca:
+
+- a. sia un «market maker» attivo su tali strumenti; e
+- b. disponga di sistemi e controlli adeguati per la negoziazione di tali posizioni.
+
+[^81c-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 82
 
-**Approcci di calcolo**
+**Approcci di calcolo**[^82-1]
 
 <sup>1</sup>
 
-I mezzi propri minimi necessari alla copertura dei rischi di mercato possono essere calcolati applicando i seguenti approcci:
+I fondi propri minimi richiesti per la copertura dei rischi di mercato possono essere calcolati secondo:
 
-- a. l’approccio *de minimis*;
+- a. l’approccio standard semplice dei rischi di mercato;
 - b. l’approccio standard dei rischi di mercato; o
 - c. l’approccio modello dei rischi di mercato.
 
-<sup>2</sup> Se vengono applicati diversi di questi approcci, i fondi propri minimi risultano dalla somma dei fondi propri minimi calcolati in funzione di questi approcci.
+<sup>2</sup> L’approccio modello dei rischi di mercato e l’approccio standard dei rischi di mercato possono essere combinati. Per il calcolo dei fondi propri minimi relativi ai rischi di mercato su base consolidata è possibile anche una combinazione con l’approccio standard semplice dei rischi di mercato, sempreché questo venga applicato dalle società del gruppo da consolidare attive nel settore finanziario con rischi di mercato non rilevanti su base consolidata.
 
-### Sezione 2: Approccio *de minimis*
+<sup>3</sup>
+
+Per le posizioni seguenti i fondi propri minimi non possono essere calcolati secondo l’approccio modello dei rischi di mercato:
+
+- a. cartolarizzazioni;
+- b. quote di patrimoni collettivi gestiti che secondo l’articolo 5 capoverso 3 lettera c sono assegnati al portafoglio di negoziazione e delle quali non è possibile conoscere con precisione gli investimenti sottostanti.
+
+[^82-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+### Sezione 2: Approccio standard semplice dei rischi di mercato
+
+[^tit3-chap4-sec2-1]
+
+[^tit3-chap4-sec2-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 83
 
-<sup>1</sup> Le banche che non superano determinati valori limite possono calcolare conformemente agli articoli 66–76 i fondi propri minimi per gli strumenti su saggi di interesse e i titoli di partecipazione che figurano nel portafoglio di negoziazione. A tale scopo applicano le disposizioni del medesimo approccio applicato alla copertura dei rischi di credito.
+**Applicazione**
 
-<sup>2</sup> La FINMA stabilisce i valori limite.
+<sup>1</sup>
 
-### Sezione 3: Approccio standard dei rischi di mercato
+Una banca può calcolare i fondi propri minimi per la copertura dei rischi di mercato secondo l’approccio standard semplice dei rischi di mercato se adempie le condizioni seguenti:
+
+- a. non è una banca di rilevanza sistemica attiva a livello internazionale di cui all’articolo 124*a* capoverso 1;
+- b. non si occupa di negoziazione di correlazione;
+- c. non applica l’approccio standard dei rischi di mercato (art. 87) né l’approccio modello dei rischi di mercato (art. 88);
+- d. non svolge attività commerciali complesse.
+
+<sup>2</sup> In singoli casi motivati la FINMA può ordinare l’applicazione dell’approccio standard dei rischi di mercato anche se la banca adempie le condizioni di cui al capoverso 1.
+
+<sup>3</sup> Le banche di cui al capoverso 1 che non detengono derivati di credito nel portafoglio di negoziazione e il cui portafoglio di negoziazione non supera determinati valori limite possono calcolare secondo gli articoli 59*a*, 59*b*, 60 e 66–73 i fondi propri minimi per la copertura dei rischi di tasso d’interesse e dei rischi azionari di strumenti detenuti nel portafoglio di negoziazione (approccio *de minimis*). Esse devono applicare a tal fine le disposizioni del medesimo approccio previsto per la copertura dei rischi di credito, applicando un moltiplicatore di 2,5 sulle posizioni ponderate in funzione del rischio.
+
+<sup>4</sup> La FINMA stabilisce i valori limite.
+
+<sup>5</sup> Per il calcolo dei fondi propri minimi per la copertura dei rischi di mercato su base consolidata è possibile una combinazione dell’approccio *de minimis* con gli approcci di cui all’articolo 82 capoverso 1, sempreché l’approccio *de minimis* venga applicato da società del gruppo da consolidare attive nel settore finanziario con rischi di mercato non rilevanti su base consolidata.
+
+#### Art. 83a
+
+**Fondi propri minimi**
+
+<sup>1</sup>
+
+In base all’approccio standard semplice dei rischi di mercato, i fondi propri minimi devono essere calcolati come segue:
+
+- a. i fondi propri minimi prima della moltiplicazione per il fattore scalare che sono necessari per la copertura del rischio di tasso d’interesse, del rischio azionario, del rischio di cambio, del rischio di prezzo dell’oro e del rischio delle materie prime sono calcolati secondo gli articoli 84–86*a*;
+- b. il valore di cui alla lettera a per categoria di rischio è moltiplicato per il fattore scalare della corrispondente categoria di rischio;
+- c. i valori moltiplicati per il fattore scalare secondo la lettera b di tutte le categorie di rischio sono sommati.
+
+<sup>2</sup> Per il calcolo di cui al capoverso 1 lettera a vanno considerati per ogni categoria di rischio i rischi corrispondenti delle opzioni.
+
+<sup>3</sup>
+
+Il fattore scalare ammonta a:
+
+- a. 1,3 per il rischio di tasso d’interesse;
+- b. 3,5 per il rischio azionario;
+- c. 1,2 per il rischio di cambio e il rischio di prezzo dell’oro;
+- d. 1,9 per il rischio delle materie prime.
+
+<sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative al calcolo dei fondi propri minimi secondo l’approccio standard semplice dei rischi di mercato. A tale scopo si fonda sullo standard MAR[^83a-1].
+
+[^83a-1]: Lo standard MAR è riportato nell’all. 1 n. 5.
 
 #### Art. 84
 
-**Strumenti su saggi di interesse del portafoglio di negoziazione**
+**Rischi di tasso d’interesse nel portafoglio di negoziazione**
 
-<sup>1</sup> I fondi propri minimi richiesti per la copertura del rischio specifico degli strumenti su saggi di interesse risultano dalla moltiplicazione della posizione netta per emissione con le aliquote di cui all’allegato 5.
+<sup>1</sup> I fondi propri minimi prima della moltiplicazione per il fattore scalare che sono necessari per la copertura del rischio di tasso d’interesse specifico delle posizioni assegnate al portafoglio di negoziazione risultano dalla moltiplicazione dell’importo assoluto della posizione netta di cui agli articoli 51 e 52 di ogni emissione per le aliquote secondo l’allegato 5.
 
-<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche relative al calcolo dei fondi propri minimi richiesti per la copertura del rischio specifico degli strumenti su saggi d’interesse derivanti da cartolarizzazioni con parti suddivise secondo i rischi.
-
-<sup>3</sup> I fondi propri minimi richiesti per la copertura del rischio generale di mercato degli strumenti su saggi di interesse corrispondono alla somma dei valori determinati per ciascuna valuta applicando il metodo delle scadenze o il metodo della durata.
+<sup>2</sup> I fondi propri minimi prima della moltiplicazione per il fattore scalare che sono necessari per la copertura del rischio di tasso d’interesse generico di tali posizioni corrispondono alla somma dei valori determinati per ogni valuta applicando il metodo delle scadenze o il metodo della durata. Tutti i valori devono essere calcolati con lo stesso metodo.
 
 #### Art. 85
 
-**Strumenti su azioni del portafoglio di negoziazione**
+**Rischi azionari nel portafoglio di negoziazione**
 
-<sup>1</sup> I fondi propri minimi richiesti per la copertura del rischio specifico degli strumenti su azioni ammontano all’8 per cento della somma delle posizioni nette per emittente.
+<sup>1</sup> I fondi propri minimi prima della moltiplicazione per il fattore scalare che sono necessari per la copertura del rischio azionario specifico delle posizioni assegnate al portafoglio di negoziazione ammontano all’8 per cento della somma dell’importo assoluto delle posizioni nette di cui agli articoli 51 e 52 per emissione.
 
-<sup>2</sup> I fondi propri minimi richiesti per la copertura del rischio generale di mercato degli strumenti su azioni ammontano all’8 per cento della somma delle posizioni nette per mercato nazionale.
+<sup>2</sup> I fondi propri minimi prima della moltiplicazione per il fattore scalare che sono necessari per la copertura del rischio azionario generico di tali posizioni ammontano all’8 per cento della somma dell’importo assoluto delle posizioni nette per mercato nazionale.
+
+<sup>3</sup> La FINMA disciplina i criteri degli indici azionari cui possono essere applicate aliquote percentuali derogatorie e fissa queste aliquote percentuali. A tale scopo si fonda sullo standard MAR[^85-1].
+
+[^85-1]: Lo standard MAR è riportato nell’all. 1 n. 5.
 
 #### Art. 86
 
-**Posizioni in divise**
+**Rischi di cambio e rischi di prezzo dell’oro nel portafoglio della banca e nel portafoglio di negoziazione**
 
-I fondi propri minimi richiesti per la copertura del rischio di mercato delle posizioni in divise ammontano all’8 per cento della somma delle posizioni lunghe nette o della somma delle posizioni corte nette. È determinante il valore più elevato.
+<sup>1</sup> I fondi propri minimi prima della moltiplicazione per il fattore scalare che sono necessari per la copertura del rischio di cambio delle posizioni assegnate al portafoglio della banca o al portafoglio di negoziazione ammontano all’8 per cento della somma delle posizioni lunghe nette di cui agli articoli 51 e 52 calcolata per ogni valuta estera e convertita in franchi o della somma delle posizioni corte nette calcolata analogamente. È determinante il valore più elevato.
+
+<sup>2</sup> I fondi propri minimi prima della moltiplicazione per il fattore scalare che sono necessari per la copertura del rischio di prezzo dell’oro di tali posizioni ammontano all’8 per cento dell’importo assoluto della posizione netta convertita in franchi.
+
+#### Art. 86a
+
+**Rischi delle materie prime nel portafoglio della banca e nel portafoglio di negoziazione**
+
+I fondi propri minimi prima della moltiplicazione per il fattore scalare che sono necessari per la copertura del rischio delle materie prime delle posizioni assegnate al portafoglio della banca o al portafoglio di negoziazione corrispondono alla somma dei valori determinati per ogni materia prima applicando la procedura del segmento di scadenza o la procedura semplificata. Tutti i valori devono essere calcolati con lo stesso metodo.
+
+### Sezione 3: Approccio standard dei rischi di mercato
+
+[^tit3-chap4-sec3-1]
+
+[^tit3-chap4-sec3-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 87
 
-**Posizioni in oro e materie prime**
+<sup>1</sup> Le banche che non applicano l’approccio standard semplice dei rischi di mercato e non dispongono di un’autorizzazione per l’applicazione dell’approccio modello dei rischi di mercato devono calcolare i fondi propri minimi secondo l’approccio standard dei rischi di mercato.
 
-<sup>1</sup> I fondi propri minimi richiesti per la copertura del rischio di mercato delle posizioni in oro ammontano all’8 per cento della posizione netta.
+<sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche relative al calcolo dei fondi propri minimi secondo l’approccio standard dei rischi di mercato. A tale scopo si fonda sullo standard MAR[^87-1]. Essa definisce, per il calcolo dei fondi propri minimi relativi alle quote di patrimoni collettivi gestiti nel portafoglio di negoziazione, metodi alternativi che divergono solo in misura trascurabile dai metodi previsti dallo standard MAR e che riducono l’onere dell’implementazione.
 
-<sup>2</sup> I fondi propri minimi richiesti per la copertura del rischio di mercato delle posizioni in materie prime vanno definiti conformemente al metodo del segmento di scadenza o al metodo semplificato.
+[^87-1]: Lo standard MAR è riportato nell’all. 1 n. 5.
 
 ### Sezione 4: Approccio modello dei rischi di mercato
 
 #### Art. 88
 
-<sup>1</sup> L’applicazione dell’approccio modello dei rischi di mercato necessita dell’autorizzazione della FINMA. Quest’ultima stabilisce le condizioni di autorizzazione.
+[^88-1]
 
-<sup>2</sup> La FINMA precisa le modalità di calcolo dei fondi propri minimi secondo l’approccio modello dei rischi di mercato. A tale scopo si attiene agli standard minimi di Basilea.
+<sup>1</sup> L’applicazione dell’approccio modello dei rischi di mercato esige l’autorizzazione della FINMA.
 
-<sup>3</sup> La FINMA stabilisce nei singoli casi i moltiplicatori previsti nell’approccio modello dei rischi di mercato. A tale scopo tiene conto dell’adempimento dei requisiti per l’autorizzazione e dell’esattezza delle previsioni del modello di aggregazione del rischio specifico all’istituto. Ogni moltiplicatore è almeno pari a 3,0.
+<sup>2</sup>
+
+La FINMA disciplina le condizioni di autorizzazione e precisa le modalità di calcolo dei fondi propri minimi secondo l’approccio modello dei rischi di mercato. A tale scopo si fonda sullo standard MAR[^88-2]. Essa prevede tuttavia le seguenti deroghe allo standard MAR:
+
+- a. esigenze supplementari relative all’infrastruttura e alla gestione del rischio, sempreché ciò sia necessario per la corretta applicazione dell’approccio modello dei rischi di mercato;
+- b. semplificazioni nella modellizzazione di quote di patrimoni collettivi gestiti nel portafoglio di negoziazione, sempreché i calcoli che ne derivano siano adeguati.
+
+<sup>3</sup> La FINMA stabilisce nel singolo caso il moltiplicatore previsto nell’approccio modello dei rischi di mercato. Il moltiplicatore ammonta almeno a 1,5. Per determinarlo, la FINMA tiene conto dell’adempimento delle condizioni di autorizzazione e dell’esattezza delle previsioni del modello di aggregazione del rischio specifico all’istituto.
+
+[^88-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^88-2]: Lo standard MAR è riportato nell’all. 1 n. 5.
 
 ### Capitolo 5: Rischi operativi
 
-### Sezione 1: In generale
+[^tit3-chap5-1]
+
+[^tit3-chap5-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 89
 
 **Definizione**
 
-È definito rischio operativo il pericolo di perdite consecutive all’inadeguatezza o all’inefficacia delle procedure interne, delle persone o dei sistemi oppure dovute a eventi esterni. Vi sono compresi i rischi legali, non però i rischi strategici e i rischi per la reputazione.
+È definito rischio operativo il pericolo di perdite dovute all’inadeguatezza o all’inefficacia di processi o sistemi interni, all’inefficacia di persone oppure a eventi esterni. Vi sono compresi i rischi legali, non però i rischi strategici e i rischi per la reputazione.
 
 #### Art. 90
 
-**Approcci di calcolo**
+**Approccio di calcolo**
 
-<sup>1</sup>
-
-Per determinare i fondi propri minimi richiesti per la copertura dei rischi operativi le banche possono optare tra i seguenti approcci:
-
-- a. l’approccio dell’indicatore di base;
-- b. l’approccio standard;
-- c. gli approcci specifici agli istituti (AMA).
-
-<sup>2</sup> L’applicazione di un approccio specifico all’istituto necessita dell’approvazione della FINMA.
-
-<sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche relative agli approcci.
-
-#### Art. 91
-
-**Indicatore di ricavo**
-
-<sup>1</sup>
-
-Le banche che determinano i fondi propri minimi necessari alla copertura dei rischi operativi secondo l’approccio dell’indicatore di base o secondo l’approccio standard devono calcolare a tale scopo un indicatore di ricavo per ciascuno dei tre anni precedenti. L’indicatore di ricavo corrisponde alla somma delle seguenti poste del conto economico:
-
-- a.[^91-1] il risultato lordo delle operazioni su saggi di interesse;
-- b. il risultato delle operazioni su commissioni e prestazioni di servizi;
-- c.[^91-2] il risultato delle attività di negoziazione e dell’opzione «fair-value»;
-- d. il ricavo da partecipazioni non consolidate; e
-- e. il risultato degli immobili.
-
-<sup>2</sup> Tutti i ricavi provenienti da convenzioni di subfornitura nelle quali la banca stessa figura come fornitrice di servizi vanno considerati come parti integranti dell’indicatore di ricavo.
-
-<sup>3</sup> Se la banca svolge il ruolo di subcommittente di una prestazione di servizi, le spese corrispondenti possono essere dedotte dall’indicatore di ricavo soltanto se la subfornitura è effettuata e registrata su base consolidata all’interno del medesimo gruppo finanziario.
-
-<sup>4</sup> Sempreché la FINMA lo autorizzi, per la determinazione dell’indicatore di ricavo le banche possono applicare standard di rendiconto riconosciuti a livello internazionale al posto delle norme svizzere in materia di rendiconto.
-
-[^91-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
-[^91-2]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
-
-### Sezione 2: Approcci
-
-#### Art. 92
-
-**Approccio dell’indicatore di base**
-
-<sup>1</sup> I fondi propri minimi corrispondono al 15 per cento della media degli indicatori di ricavo dei tre anni precedenti. Vanno presi in considerazione soltanto gli anni nei quali l’indicatore è positivo.
-
-<sup>2</sup> La FINMA può fare dipendere l’applicazione dell’approccio dell’indicatore di base da esigenze qualitative supplementari relative alla gestione dei rischi.
-
-#### Art. 93
-
-**Approccio standard**
-
-<sup>1</sup>
-
-I fondi propri minimi sono calcolati come segue:
-
-- a. per ogni ambito di attività e per ognuno dei tre anni precedenti è calcolato un indicatore di ricavo che viene moltiplicato per il coefficiente di cui al capoverso 2;
-- b. i valori numerici risultanti devono essere addizionati per ogni anno. In questo contesto i valori negativi dei singoli ambiti di attività possono essere computati con i valori positivi di altri ambiti di attività;
-- c. i fondi propri minimi corrispondono all’importo della media triennale. Per il calcolo della media gli eventuali addendi negativi sono parificati a zero.
+<sup>1</sup> I fondi propri minimi richiesti per la copertura dei rischi operativi sono calcolati secondo l’approccio standard per i rischi operativi.
 
 <sup>2</sup>
 
-Le attività devono essere assegnate ai seguenti ambiti e moltiplicate per i relativi coefficienti:
+L’approccio standard si basa sugli indicatori seguenti:
 
-- a. finanziamento di imprese / consulenza di imprese 18 %
-- b. negoziazione 18 %
-- c. attività bancaria al dettaglio per i privati 12 %
-- d. attività bancaria al dettaglio per le ditte 15 %
-- e. traffico dei pagamenti / regolamento dei titoli 18 %
-- f. attività di deposito e depositi fiduciari 15 %
-- g. gestione patrimoniale istituzionale 12 %
-- h. attività di commissione su titoli 12 %
+- a. indicatore di attività («Business Indicator», BI);
+- b. componente dell’indicatore di attività («Business Indicator Component», BIC);
+- c. moltiplicatore delle perdite interne («Internal Loss Multiplier», ILM);
+- d. componente di perdita («Loss Component», LC).
 
-<sup>3</sup> La FINMA può fare dipendere l’applicazione dell’approccio standard da esigenze qualitative supplementari relative alla gestione dei rischi.
+<sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard minimo di Basilea per il calcolo delle posizioni ponderate in funzione dei rischi operativi (OPE)[^90-1].
+
+[^90-1]: Lo standard OPE è riportato nell’all. 1 n. 6.
+
+#### Art. 91
+
+**Calcolo dei fondi propri minimi**
+
+Secondo l’approccio standard i fondi propri minimi richiesti per la copertura dei rischi operativi risultano dalla moltiplicazione della componente dell’indicatore di attività per il moltiplicatore delle perdite interne.
+
+#### Art. 92
+
+**Indicatore di attività: componenti**
+
+<sup>1</sup>
+
+L’indicatore di attività corrisponde alla somma delle componenti seguenti:
+
+- a. componente di interessi e dividendi («Interest, Leases and Dividend Component», ILDC);
+- b. componente dei servizi («Services Component», SC); e
+- c. componente finanziaria («Financial Component», FC).
+
+<sup>2</sup>
+
+La componente di interessi e dividendi si calcola applicando la formula riportata nell’allegato 5*a* e consta di:
+
+- a. ricavi a titolo di interessi;
+- b. spese a titolo di interessi;
+- c. attivi fruttiferi; e
+- d. ricavi da dividendi.
+
+<sup>3</sup>
+
+La componente dei servizi si calcola applicando la formula riportata nell’allegato 5*a* e consta di:
+
+- a. ricavi delle operazioni su commissioni e prestazioni di servizi;
+- b. spese delle operazioni su commissioni e prestazioni di servizi;
+- c. altri ricavi d’esercizio; e
+- d. altre spese d’esercizio.
+
+<sup>4</sup>
+
+La componente finanziaria si calcola applicando la formula riportata nell’allegato 5*a* e consta del:
+
+- a. risultato netto del portafoglio di negoziazione; e
+- b. risultato netto delle parti del portafoglio della banca rilevanti per il calcolo dei fondi propri minimi relativi ai rischi operativi.
+
+#### Art. 92a
+
+**Indicatore di attività: attività dismesse e attività acquisite di recente**
+
+<sup>1</sup> Le banche possono escludere le attività commerciali dismesse dal calcolo dell’indicatore di attività. Devono comunicare l’esclusione alla FINMA.
+
+<sup>2</sup> Le attività commerciali acquisite di recente o generate da una fusione societaria devono essere considerate ai fini del calcolo dell’indicatore di attività.
+
+#### Art. 92b
+
+**Indicatore di attività: principi per il calcolo**
+
+<sup>1</sup> Nel calcolo dell’indicatore di attività consolidato, i ricavi e le spese risultanti all’interno del gruppo finanziario soggetto all’obbligo di consolidamento devono essere compensati tra loro.
+
+<sup>2</sup> L’indicatore di attività deve essere calcolato annualmente sulla base delle informazioni disponibili a fine anno. Nei casi di cui all’articolo 92*a* è richiesto un nuovo calcolo infrannuale.
+
+#### Art. 92c
+
+**Componente dell’indicatore di attività**
+
+La componente dell’indicatore di attività corrisponde alla somma degli importi seguenti:
+
+- a. 12 per cento moltiplicato per l’importo dell’indicatore di attività fino a un massimo di 1,25 miliardi di franchi;
+- b. 15 per cento moltiplicato per l’importo dell’indicatore di attività che supera 1,25 miliardi di franchi, fino a un massimo di 37,5 miliardi di franchi;
+- c. 18 per cento moltiplicato per l’importo dell’indicatore di attività che supera 37,5 miliardi di franchi.
+
+#### Art. 92d
+
+**Moltiplicatore delle perdite interne**
+
+<sup>1</sup> Le banche con un indicatore di attività superiore a 1,25 miliardi di franchi devono calcolare il moltiplicatore delle perdite interne sulla base dei dati sulle perdite interne. Il moltiplicatore delle perdite interne si calcola a partire dalla componente dell’indicatore di attività e dalla componente di perdita applicando la formula riportata nell’allegato 5*a*.
+
+<sup>2</sup> Il moltiplicatore delle perdite interne deve essere calcolato annualmente sulla base delle informazioni disponibili a fine anno. Nei casi di cui all’articolo 93*a* capoversi 2–4 è richiesto un nuovo calcolo infrannuale.
+
+<sup>3</sup> I gruppi finanziari soggetti all’obbligo di consolidamento con un indicatore di attività consolidato superiore a 1,25 miliardi di franchi devono calcolare i fondi propri minimi tenendo conto dei dati sulle perdite interne di tutte le società appartenenti al gruppo finanziario. Alle società appartenenti al gruppo finanziario che non adempiono le esigenze relative ai dati sulle perdite si applica per analogia il capoverso 5.
+
+<sup>4</sup> Per le banche con un indicatore di attività di al massimo 1,25 miliardi di franchi, il moltiplicatore delle perdite interne è pari a uno. Previa autorizzazione della FINMA, la banca può calcolare il moltiplicatore delle perdite interne sulla base dei dati sulle perdite interne. Il ritorno a un moltiplicatore delle perdite interne pari a uno è possibile dopo un termine transitorio di cinque anni. La banca deve comunicare previamente il cambiamento alla FINMA.
+
+<sup>5</sup> Per le banche che calcolano il moltiplicatore delle perdite interne sulla base di dati sulle perdite interne e non adempiono le esigenze relative ai dati sulle perdite interne di cui all’articolo 93, al calcolo della componente di perdita di cui all’articolo 93*a* o al calcolo della perdita lorda e netta di cui all’articolo 94, il moltiplicatore delle perdite interne è pari a uno. Nel singolo caso la FINMA può richiedere l’applicazione di un moltiplicatore delle perdite interne superiore a uno.
+
+#### Art. 93
+
+**Componente di perdita: esigenze relative ai dati sulle perdite interne**
+
+<sup>1</sup>
+
+Per il calcolo della componente di perdita devono essere rilevati i dati sulle perdite che adempiono le esigenze seguenti:
+
+- a. comprendono le perdite operative, incluse le perdite operative correlate ai rischi di mercato, nonché le perdite operative correlate ai rischi di credito che non rientrano nel calcolo delle posizioni ponderate in funzione dei rischi di credito;
+- b. coprono un periodo di dieci anni; se una banca inizia a utilizzare i dati sulle perdite per calcolare i fondi propri minimi, in via eccezionale è sufficiente un periodo di cinque anni, sempreché non siano disponibili dati di buona qualità sulle perdite che coprono un periodo maggiore di cinque anni;
+- c. riguardano tutte le attività e posizioni essenziali dell’intera banca;
+- d. le perdite nette dei singoli eventi di perdita alla base dei dati sulle perdite ammontano a più di 25 000 franchi;
+- e. oltre agli importi della perdita lorda, includono altre informazioni rilevanti sugli eventi di perdita con un grado di dettaglio appropriato all’ammontare della perdita lorda.
+
+<sup>2</sup> La banca deve utilizzare la rispettiva data di contabilizzazione delle singole perdite.
+
+<sup>3</sup> Nella serie di dati sulle perdite, le perdite causate da uno o più eventi correlati e contabilizzate su più anni nella presentazione dei conti devono essere assegnate agli anni corrispondenti conformemente a tali contabilizzazioni.
+
+<sup>4</sup> La banca deve stabilire e documentare i processi volti a garantire la completezza e l’esattezza dei dati sulle perdite nonché la verifica periodica e indipendente di questi dati.
+
+#### Art. 93a
+
+**Componente di perdita: calcolo**
+
+<sup>1</sup> La componente di perdita corrisponde alla perdita annua media della banca dovuta ai rischi operativi degli ultimi dieci anni moltiplicata per 15.
+
+<sup>2</sup> Le perdite derivanti da attività commerciali acquisite di recente o da una fusione societaria devono essere considerate ai fini del calcolo della componente di perdita.
+
+<sup>3</sup> La banca può escludere dal calcolo della componente di perdita un evento di perdita superiore al 10 per cento della perdita annua media della banca rilevante per il calcolo della perdita, se tale evento non è più rilevante per il profilo di rischio della banca. L’esclusione è possibile al più presto dopo tre anni. Se l’attività commerciale corrispondente è dismessa, un evento può essere escluso anche prima del decorrere di tre anni.
+
+<sup>4</sup> Un’esclusione deve essere motivata in modo chiaro. La banca deve comunicare l’esclusione alla FINMA.
 
 #### Art. 94
 
-**Approcci specifici agli istituti (AMA)**
+**Componente di perdita: perdita lorda e netta**
 
-<sup>1</sup> Le banche possono determinare i fondi propri minimi applicando un approccio specifico all’istituto.
+<sup>1</sup> La perdita lorda di un evento di perdita corrisponde alla perdita senza riduzioni di alcun tipo. La perdita netta corrisponde alla perdita risultante dopo aver preso in considerazione qualsiasi tipo di riduzione della perdita. Gli effetti fiscali non sono considerati una riduzione della perdita.
 
-<sup>2</sup> La FINMA accorda l’autorizzazione necessaria se la banca dispone di un modello che le consente di quantificare i rischi operativi applicando dati interni ed esterni di perdita, analisi di scenari nonché i fattori determinanti del contesto di attività e del sistema interno di controllo.
+<sup>2</sup> La banca deve essere in grado di identificare gli importi della perdita lorda, le indennità assicurative e altre riduzioni della perdita. Le riduzioni della perdita possono essere dedotte dalla perdita lorda solo a pagamento avvenuto.
+
+<sup>3</sup> Per la serie di dati sulle perdite la banca utilizza gli importi netti.
+
+<sup>4</sup>
+
+Nel calcolo della perdita lorda occorre considerare:
+
+- a. le perdite dirette, comprese le riduzioni e le rettifiche di valore e gli accordi amichevoli in seguito al verificarsi di un rischio operativo;
+- b. i costi causati dall’evento, compresi i costi di riparazione e sostituzione, nonché le spese esterne;
+- c. gli accantonamenti e le riserve per potenziali perdite operative;
+- d. le perdite contabilizzate in un conto di passaggio o temporaneo; e
+- e. le ripercussioni negative significative sulla contabilità finanziaria di eventi dovuti al verificarsi di rischi operativi in periodi contabili precedenti.
+
+<sup>5</sup>
+
+Nel calcolo della perdita lorda non possono essere considerati:
+
+- a. i costi per la manutenzione generale;
+- b. i costi interni ed esterni di miglioramenti apportati all’attività commerciale dopo un evento di perdita; e
+- c. i premi assicurativi.
 
 ## Titolo quarto: Ripartizione dei rischi
 
@@ -1615,11 +2768,12 @@ Nel calcolo della posizione complessiva non devono essere considerate:
 - a. le posizioni dedotte dai fondi propri di base conformemente agli articoli 31–40 per l’importo dedotto;
 - b. le posizioni infragiornaliere nei confronti di banche.
 
-<sup>4</sup> Le posizioni che ai fini della determinazione dei fondi propri minimi sono ponderate al 1250 per cento devono essere incluse nella posizione complessiva.
+<sup>4</sup> Le posizioni che ai fini del calcolo dei fondi propri minimi sono ponderate al 1250 per cento devono essere incluse nella posizione complessiva.[^96-2]
 
 <sup>5</sup> La posizione complessiva nei confronti di un gruppo di controparti associate risulta dalla somma delle posizioni complessive nei confronti delle singole controparti.
 
 [^96-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^96-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 2: Limiti massimi dei grandi rischi
 
@@ -1633,7 +2787,7 @@ Nel calcolo della posizione complessiva non devono essere considerate:
 
 Questo limite massimo non si applica:
 
-- a. alle posizioni nei confronti di banche centrali e governi centrali;
+- a.[^97-2] alle posizioni nei confronti di banche centrali, governi centrali e organizzazioni sovranazionali;
 - b. alle posizioni con una garanzia espressa di controparti ai sensi della lettera a;
 - c. alle posizioni coperte da garanzie finanziarie di controparti ai sensi della lettera a;
 - d. alle posizioni nei confronti di controparti centrali qualificate derivanti da prestazioni di servizi relative a compensazioni (prestazioni di servizi di compensazione).
@@ -1641,15 +2795,16 @@ Questo limite massimo non si applica:
 <sup>3</sup> La determinazione delle posizioni si basa sull’articolo 119 capoverso 3.
 
 [^97-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^97-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 98
 
-**Limite massimo dei grandi rischi nei confronti di banche e di società di intermediazione mobiliare**[^98-1]
+**Limite massimo dei grandi rischi nei confronti di banche**[^98-1]
 
-In deroga all’articolo 97 capoverso 1, per le banche delle categorie 4 e 5 di cui all’allegato 3 OBCR[^98-2] il limite massimo per i singoli grandi rischi nei confronti di banche e di società di intermediazione mobiliare, sempreché non si tratti di banche o di gruppi finanziari designati come di rilevanza sistemica secondo l’articolo 8 capoverso 3 LBCR o secondo l’articolo 136 capoverso 2 lettera b, ammonta al 100 per cento dei fondi propri di base computabili corretti conformemente agli articoli 31–40.
+Per le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^98-2] il limite massimo di singoli grandi rischi nei confronti di banche che non hanno rilevanza sistemica e di società di intermediazione mobiliare assegnate alla classe di posizione «banche» secondo l’articolo 68 capoverso 1 ammonta al 100 per cento dei fondi propri di base computabili corretti conformemente agli articoli 31–40.
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
-[^98-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^98-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^98-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 99
 
@@ -1682,7 +2837,9 @@ La banca deve comunicare al suo organo competente per la direzione generale, la 
 - a. trimestralmente, su base individuale;
 - b. semestralmente, su base consolidata.
 
-<sup>2</sup> Le comunicazioni devono essere effettuate sul modulo stabilito dalla FINMA e trasmesse entro sei settimane dalla fine del trimestre o del semestre alla società di audit ai sensi della legislazione sulle banche e alla Banca nazionale svizzera.
+<sup>1bis</sup> Per le comunicazioni, la banca si basa sulla chiusura allestita conformemente alle norme della FINMA per la presentazione dei conti. La FINMA disciplina le deroghe a tale principio, sempreché ciò sia necessario per una misurazione adeguata dei grandi rischi e di altri rischi di credito rilevanti nel quadro della ripartizione dei rischi.[^100-1]
+
+<sup>2</sup> Le comunicazioni devono essere trasmesse entro sei settimane dalla fine del trimestre o del semestre alla società di audit ai sensi della legislazione sulle banche e alla FINMA mediante il modulo predisposto da quest’ultima.[^100-2]
 
 <sup>3</sup>
 
@@ -1709,17 +2866,24 @@ Devono essere comunicati segnatamente:
 
 <sup>9</sup> La società di audit esamina i sistemi di controllo interno alla banca implementati per garantire la corretta identificazione e comunicazione dei rischi e valuta l’evoluzione di questi ultimi.
 
+[^100-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^100-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
 #### Art. 101
 
-**Comunicazione di superamenti non ammessi**
+**Comunicazione di superamenti non ammessi**[^101-1]
 
-Se constata che un grande rischio supera il limite massimo, senza che si tratti di un’eccezione ai sensi dell’articolo 99, la banca ne deve informare senza indugio la società di audit e la FINMA e correggere l’eccedenza entro breve termine. Tale termine deve essere approvato dalla FINMA. Sono esclusi dall’obbligo di comunicazione i superamenti del limite massimo dovuti all’osservanza del principio della contabilizzazione alla data di negoziazione e relativi a operazioni che, in base ai giorni di valuta, saranno regolate nei due giorni feriali bancari successivi.
+Se constata che un grande rischio supera il limite massimo, senza che si tratti di un’eccezione ai sensi dell’articolo 99, la banca deve darne immediatamente comunicazione alla società di audit e alla FINMA e correggere l’eccedenza entro breve termine. Tale termine deve essere approvato dalla FINMA. Sono esclusi dall’obbligo di comunicazione immediata i superamenti del limite massimo dovuti all’osservanza del principio della contabilizzazione alla data di negoziazione e relativi a operazioni che, in base ai giorni di valuta, saranno regolate nei due giorni feriali bancari successivi o che a causa di giorni festivi all’estero saranno regolate nei tre giorni feriali bancari successivi.
+
+[^101-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 102
 
-**Comunicazione di posizioni interne al gruppo**
+**Comunicazione di posizioni interne al gruppo**[^102-1]
 
-La banca deve redigere trimestralmente una comunicazione delle posizioni interne al gruppo ai sensi dell’articolo 111*a* e trasmetterla alla società di audit, alla Banca nazionale svizzera nonché all’organo competente per la direzione generale, la vigilanza e il controllo unitamente alla comunicazione dei grandi rischi esistenti ai sensi dell’articolo 100. In questo contesto va operata una distinzione tra società del gruppo secondo l’articolo 111*a* capoverso 1 e società del gruppo secondo l’articolo 111*a* capoverso 3.
+La banca deve redigere trimestralmente una comunicazione sulle posizioni interne al gruppo di cui all’articolo 111*a* e trasmetterla alla società di audit, alla FINMA nonché all’organo competente per la direzione generale, la vigilanza e il controllo, unitamente alla comunicazione dei grandi rischi esistenti secondo l’articolo 100. In questo contesto va operata una distinzione tra società del gruppo secondo l’articolo 111*a* capoverso 1 e società del gruppo secondo l’articolo 111*a* capoverso 3.
+
+[^102-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 4: Principi di calcolo
 
@@ -1749,9 +2913,11 @@ Le posizioni specifiche agli emittenti per impegni fissi di sottoscrizione di em
 
 #### Art. 106
 
-**Posizioni da transazioni non regolate**
+**Posizioni da transazioni non regolate**[^106-1]
 
-Le transazioni non regolate dopo il quinto giorno feriale bancario (art. 76) devono essere incluse nella posizione complessiva al loro valore d’esposizione.
+Le transazioni non regolate dopo il quinto giorno feriale bancario (art. 77*f*) devono essere incluse nella posizione complessiva al loro valore d’esposizione.
+
+[^106-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 107 e 108
 
@@ -1841,7 +3007,7 @@ La FINMA può inoltre allentare o inasprire le norme in materia di ripartizione 
 - j. consentire che le controparti non siano considerate un gruppo di controparti associate, a condizione che la banca dimostri che una controparte possa risolvere i problemi finanziari o l’inadempienza di una controparte strettamente legata a essa sotto il profilo economico e trovare un altro partner commerciale o un altro finanziatore entro un termine ragionevole.
 
 [^112-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
-[^112-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^112-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 ### Capitolo 2: Calcolo della posizione complessiva
 
@@ -1859,11 +3025,12 @@ La FINMA può inoltre allentare o inasprire le norme in materia di ripartizione 
 
 Devono essere ponderate diversamente le posizioni:
 
-- a. nei confronti dei Cantoni delle classi di rating 1 e 2: con l’aliquota del 20 per cento;
-- b. in obbligazioni fondiarie svizzere emesse secondo la legge del 25 giugno 1930[^113-1] sulle obbligazioni fondiarie: con l’aliquota del 10 per cento;
+- a.[^113-1] nei confronti dei Cantoni delle classi di rating 1 e 2 secondo l’allegato 2: con l’aliquota del 20 per cento;
+- b. in obbligazioni fondiarie svizzere emesse secondo la legge del 25 giugno 1930[^113-2] sulle obbligazioni fondiarie: con l’aliquota del 10 per cento;
 - c. in titoli di credito coperti di cui all’articolo 118 capoverso 1 lettera c: con l’aliquota del 20 per cento.
 
-[^113-1]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^113-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^113-2]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 
 ### Sezione 2: Somma
 
@@ -1875,25 +3042,30 @@ Per la determinazione della posizione complessiva nei confronti di una contropar
 
 #### Art. 115
 
-**Derivati, operazioni di mutuo, operazioni pronti contro termine e analoghe con valori mobiliari nonché altri strumenti che presentano un rischio di credito della controparte**
+**Calcolo delle posizioni per le transazioni che presentano un rischio di credito della controparte**[^115-1]
 
-<sup>1</sup> I valori delle posizioni per i derivati che figurano nel portafoglio della banca e in quello di negoziazione devono essere calcolati in relazione al rischio di credito della controparte secondo l’articolo 57.
+<sup>1</sup> I valori delle posizioni per i derivati e le operazioni con regolamento a lungo termine detenuti nel portafoglio della banca o nel portafoglio di negoziazione devono essere calcolati in relazione al rischio di credito della controparte secondo gli articoli 57 e 58.
 
-<sup>2</sup> Per i derivati non lineari che figurano nel portafoglio di negoziazione, nel valore delle posizioni deve inoltre essere calcolato il rischio di credito dei valori patrimoniali sottostanti («underlyings») ipotizzando una perdita di valore totale.
+<sup>2</sup> Per i derivati non lineari detenuti nel portafoglio di negoziazione, nel valore delle posizioni devono inoltre essere calcolati i rischi di credito dei valori patrimoniali sottostanti («underlyings») ipotizzando una perdita di valore totale.
 
-<sup>3</sup> I valori delle posizioni per le operazioni di mutuo, le operazioni pronti contro termine e analoghe con valori mobiliari, che figurano nel portafoglio della banca e in quello di negoziazione, devono essere calcolati secondo l’approccio semplificato o completo disponibili per il calcolo dei fondi propri minimi. Gli approcci modello non possono essere applicati. La FINMA emana le disposizioni di esecuzione.
+<sup>3</sup> I valori delle posizioni per le operazioni di finanziamento di titoli detenute nel portafoglio della banca o nel portafoglio di negoziazione devono essere calcolati secondo l’approccio semplice o completo (art. 62); gli approcci modello non possono essere applicati. La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard minimo di Basilea per i grandi rischi (LEX)[^115-2].
+
+[^115-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^115-2]: Lo standard LEX è riportato nell’all. 1 n. 8.
 
 #### Art. 116
 
-**Altre posizioni in bilancio**
+**Altre posizioni in bilancio**[^116-1]
 
-Per le posizioni in bilancio che figurano nel portafoglio della banca ma non rientrano nel campo di applicazione dell’articolo 115, è determinante il valore contabile del rendiconto. Le singole rettifiche di valore e gli accantonamenti specifici costituiti per posizioni in bilancio possono essere dedotti. In alternativa la banca può utilizzare anche il valore lordo senza dedurre le singole rettifiche di valore e gli adeguamenti di valore.
+Per le posizioni in bilancio detenute nel portafoglio della banca che non rientrano nel campo di applicazione dell’articolo 115, è determinante il valore contabile secondo la presentazione dei conti. Le singole rettifiche di valore possono essere dedotte. In alternativa la banca può utilizzare anche il valore lordo senza dedurre le singole rettifiche di valore e gli adeguamenti di valore.
+
+[^116-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 117
 
 **Posizioni fuori bilancio**
 
-<sup>1</sup> Le posizioni fuori bilancio che figurano nel portafoglio della banca devono essere convertite nel loro equivalente di credito applicando il fattore di conversione del credito secondo l’allegato 1. Le singole rettifiche di valore e gli accantonamenti specifici costituiti per posizioni fuori bilancio possono essere dedotti. Se si tratta delle posizioni di cui all’allegato 1 numero 1.3, occorre applicare un fattore di conversione del credito pari allo 0,1 anziché allo 0,0.
+<sup>1</sup> Le posizioni fuori bilancio detenute nel portafoglio della banca devono essere convertite nel loro equivalente di credito applicando il fattore di conversione del credito secondo l’allegato 1*a*, con un fattore pari ad almeno 0,1. Gli accantonamenti specifici possono essere dedotti.[^117-1]
 
 <sup>2</sup>
 
@@ -1903,6 +3075,8 @@ Agli impegni di credito irrevocabili nell’ambito di un credito sindacato devon
 - b. 0,5 dal e compreso il momento dell’accettazione dell’impegno della banca da parte della controparte fino al momento dell’avvio della fase di sindacazione;
 - c. 0,5 per la quota non sindacata durante la fase di sindacazione, nonché 1 per la quota propria prevista;
 - d. 1,0 per l’intera quota non sindacata dopo 90 giorni (rischio residuo).
+
+[^117-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 118
 
@@ -1918,7 +3092,11 @@ La FINMA disciplina il calcolo:
 - d. delle posizioni in investimenti collettivi di capitale, cartolarizzazioni e altre strutture di investimento;
 - e. di ulteriori posizioni.
 
-<sup>2</sup> A tale scopo essa si fonda sugli standard minimi di Basilea.
+<sup>2</sup> A tale scopo essa si fonda sullo standard LEX[^118-1]. Essa prevede agevolazioni per le banche delle categorie 3–5 secondo l’allegato 3 OBCR[^118-2].[^118-3]
+
+[^118-1]: Lo standard LEX è riportato nell’all. 1 n. 8.
+[^118-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^118-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 4: Riduzione dei rischi
 
@@ -1931,11 +3109,28 @@ Nel calcolo delle posizioni complessive è possibile considerare:
 - a. la compensazione di posizioni in bilancio («netting»);
 - b. le garanzie;
 - c. i derivati di credito;
-- d. le garanzie riconosciute secondo l’AS-BRI.
+- d.[^119-1] le garanzie finanziarie riconosciute secondo l’AS-BRI.
 
 <sup>2</sup> Su richiesta, le banche devono comprovare alla società di audit o alla FINMA che questi strumenti di riduzione dei rischi sono legalmente eseguibili nel quadro dei relativi ordinamenti giuridici.
 
-<sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo essa si fonda sugli standard minimi di Basilea.
+<sup>3</sup>
+
+La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard LEX[^119-2]. Essa provvede affinché:
+
+- a. le garanzie finanziarie non vengano prese in considerazione due volte nel calcolo degli equivalenti di credito e nel quadro della riduzione dei rischi;
+- b. l’effetto di copertura degli «swap» contro il rischio di perdita del credito venga ridotto adeguatamente in funzione del loro grado di complessità.[^119-3]
+
+<sup>4</sup>
+
+Inoltre, essa può prevedere agevolazioni:
+
+- a. se il limite massimo dei grandi rischi viene superato soltanto temporaneamente;
+- b. per la registrazione di posizioni indirette che presentano rischi di credito ridotti a seguito dell’esistenza di garanzie finanziarie.[^119-4]
+
+[^119-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^119-2]: Lo standard LEX è riportato nell’all. 1 n. 8.
+[^119-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^119-4]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 120 a 123
 
@@ -1965,7 +3160,7 @@ Le esigenze particolari devono essere adempiute a livello di gruppo finanziario,
 <sup>4</sup> In singoli casi, la FINMA può escludere le unità che esercitano funzioni di rilevanza sistemica, ma la cui partecipazione diretta alle funzioni di rilevanza sistemica in Svizzera del gruppo finanziario non supera globalmente la quota del 5 per cento o la cui importanza per il mantenimento delle funzioni di rilevanza sistemica in Svizzera del gruppo finanziario è altrimenti esigua.[^124-4]
 
 [^124-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^124-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^124-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^124-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 [^124-4]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
@@ -2075,9 +3270,10 @@ Il capitale convertibile è computabile a titolo di componente dei fondi propri 
 
 <sup>2</sup> Ai sensi dell’articolo 11 capoverso 4 LBCR la FINMA approva il computo soltanto se la banca comprova che si realizzeranno gli effetti previsti dalla LBCR e dalle sue ordinanze di esecuzione e che sono adempiute le esigenze in materia di diritto societario e del mercato dei capitali.
 
-<sup>3</sup> Prima della conversione, il capitale convertibile deve adempiere almeno le condizioni applicabili ai fondi propri complementari secondo l’articolo 30.
+<sup>3</sup> ...[^127-2]
 
 [^127-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^127-2]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 127a
 
@@ -2121,7 +3317,9 @@ Le banche di rilevanza sistemica non possono detenere a proprio rischio né stru
 I fondi propri necessari sono calcolati in base:
 
 - a. al «leverage ratio»; e
-- b. alla quota delle posizioni ponderate in funzione del rischio («quota di RWA»).
+- b.[^128-1] alla quota dell’insieme delle posizioni ponderate in funzione del rischio di cui all’articolo 42*b* (quota di RWA).
+
+[^128-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 129
 
@@ -2236,7 +3434,7 @@ L’esigenza relativa a questi fondi supplementari è calcolata in base all’es
 <sup>7</sup> Se in precedenza ha detenuto fondi propri per adempiere le esigenze di cui al presente capitolo, la banca può successivamente impiegare tali fondi per adempiere le esigenze di cui agli articoli 128–131*b* soltanto se le esigenze del presente articolo continuano a essere adempiute con i fondi residui.
 
 [^132-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^132-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^132-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^132-3]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^132-4]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^132-5]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
@@ -2270,7 +3468,7 @@ Se una banca di rilevanza sistemica non attiva a livello internazionale dispone 
 In caso di ostacoli alla capacità di risanamento e di liquidazione delle unità di cui all’articolo 124 capoverso 3 lettere b–d di banche di rilevanza sistemica attive a livello internazionale, in virtù dell’articolo 65*b* capoverso 1 OBCR[^133-2] la FINMA può esigere fondi supplementari integrativi in grado di assorbire le perdite. Il loro ammontare è limitato al 25 per cento dell’esigenza complessiva. L’articolo 132 capoverso 4 si applica per analogia.
 
 [^133-1]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^133-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^133-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 134 e 135
 
@@ -2282,7 +3480,9 @@ In caso di ostacoli alla capacità di risanamento e di liquidazione delle unità
 
 **Grande rischio**[^136-1]
 
-<sup>1</sup> Un grande rischio può ammontare al massimo al 25 per cento dei fondi propri di base computabili corretti conformemente agli articoli 31–40 che non sono utilizzati per adempiere le esigenze relative ai fondi supplementari in grado di assorbire le perdite.
+<sup>1</sup> In deroga all’articolo 95 capoverso 1, un grande rischio sussiste se la posizione complessiva nei confronti di una controparte o di un gruppo di controparti associate raggiunge o supera il 10 per cento dei fondi propri di base della banca computabili corretti conformemente agli articoli 31–40 che non sono utilizzati per adempiere le esigenze relative ai fondi supplementari in grado di assorbire le perdite.[^136-2]
+
+<sup>1bis</sup> Un grande rischio può ammontare al massimo al 25 per cento dei fondi propri di base di cui al capoverso 1.[^136-3]
 
 <sup>2</sup>
 
@@ -2298,9 +3498,12 @@ Il limite massimo di cui al capoverso 2 deve essere rispettato entro 12 mesi dal
 - a. di una banca quale banca di rilevanza sistemica secondo l’articolo 8 capoverso 3 LBCR;
 - b. di una banca estera quale «Global Systemically Important Bank» secondo il capoverso 2 lettera b.
 
-<sup>4</sup> Per il resto si applica per analogia l’articolo 99.
+<sup>4</sup> Per il resto si applicano le disposizioni sulla ripartizione dei rischi di cui al titolo quarto.[^136-4]
 
 [^136-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^136-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^136-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^136-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ## Titolo sesto: Disposizioni transitorie e finali
 
@@ -2310,7 +3513,7 @@ Il limite massimo di cui al capoverso 2 deve essere rispettato entro 12 mesi dal
 
 [^tit6-chap1-sec1-1]
 
-[^tit6-chap1-sec1-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^tit6-chap1-sec1-1]: Introdotto dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 137 e 138
 
@@ -2318,83 +3521,11 @@ Il limite massimo di cui al capoverso 2 deve essere rispettato entro 12 mesi dal
 
 [^137138-1]: Abrogati dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-#### Art. 139
+#### Art. 139 a 142
 
-**Entrata in vigoredella copertura con fondi propri di derivati negoziati in borsa e rischi di credito nei confronti di controparti centrali**
+[^139142-1]
 
-La FINMA stabilisce a partire da quando le nuove norme degli standard minimi di Basilea sui derivati negoziati in borsa (art. 56 cpv. 4) e i rischi di credito nei confronti di controparti centrali (art. 69 e 70) devono essere rispettate.
-
-#### Art. 140
-
-**Fondi propri computabili**
-
-<sup>1</sup> Gli strumenti di capitale dei fondi propri di base supplementari e dei fondi propri complementari emessi dopo il 12 settembre 2010 e che non adempiono le corrispondenti nuove condizioni di computabilità a fini prudenziali non sono più considerati fondi propri dal 1° gennaio 2013. È fatto salvo il capoverso 3.
-
-<sup>2</sup> Gli strumenti di capitale emessi prima del 12 settembre 2010 possono essere computati in maniera decrescente su un periodo di dieci anni conformemente all’articolo 141 e non sono più considerati fondi propri al più tardi dal 1° gennaio 2022.
-
-<sup>3</sup> Gli strumenti di capitale dei fondi propri di base supplementari e dei fondi propri complementari emessi tra il 12 settembre 2010 e il 31 dicembre 2011 e per i quali mancano unicamente le disposizioni contrattuali per il caso di incombente insolvibilità (art. 29) possono essere computati in maniera decrescente conformemente all’articolo 141.
-
-#### Art. 141
-
-**Computabilità dei fondi propri di base e dei fondi propri complementari secondo il diritto anteriore**
-
-<sup>1</sup> Il capitale di partecipazione e le altre componenti dei fondi propri di base secondo il diritto anteriore che ora non sono più considerati fondi propri di base di qualità primaria o fondi propri di base supplementari e che sono stati emessi prima del 12 settembre 2010 possono essere computati per un periodo massimo di dieci anni conformemente alle disposizioni dei capoversi 6 e 7. È escluso il capitale di partecipazione di banche non organizzate sotto forma di società anonima; il capitale di partecipazione di siffatte banche può continuare a essere computato sui fondi propri di base di qualità primaria secondo lo stesso meccanismo.
-
-<sup>2</sup> I fondi propri complementari emessi prima del 12 settembre 2010 secondo il diritto anteriore e non considerati fondi propri complementari conformemente alla presente ordinanza possono essere computati in maniera decrescente come fondi propri complementari conformemente al capoverso 1.
-
-<sup>3</sup>
-
-Con l’entrata in vigore della presente ordinanza, nel periodo compreso tra il 1° gennaio 2013 e il 31 dicembre 2022 i fondi propri prudenziali sono suddivisi nelle seguenti componenti:
-
-- a. fondi propri di base di qualità primaria: conformemente alle nuove disposizioni;
-- b. fondi propri di base supplementari: conformemente alle nuove disposizioni;
-- c. Tier 1 secondo il diritto anteriore: conformemente al capoverso 1;
-- d. fondi propri complementari: conformemente alle nuove disposizioni;
-- e. Tier 2 secondo il diritto anteriore: conformemente al capoverso 2.
-
-<sup>4</sup> Le componenti di cui al capoverso 3 lettere b e c costituiscono fino al più tardi al 31 dicembre 2021 i fondi propri di base supplementari, mentre le componenti di cui alle lettere d ed e costituiscono i fondi propri complementari.
-
-<sup>5</sup> Tutte le componenti di cui ai capoversi 1 e 2 sono rilevate quantitativamente al momento dell’entrata in vigore della presente ordinanza e addizionate per categoria.
-
-<sup>6</sup> Gli importi determinati il 1° gennaio 2013 conformemente al capoverso 5 sono ridotti ogni anno del 10 per cento, la prima volta il 1° gennaio 2013. Essi costituiscono il limite massimo delle componenti dei fondi propri che possono essere computate secondo il diritto anteriore nell’anno considerato. Gli importi sono computati al massimo nella misura in cui la banca disponga di strumenti di capitale di qualità corrispondente.
-
-<sup>7</sup> Se non può più essere computato come fondi propri di base supplementari in seguito alla riduzione progressiva delle possibilità di computazione di cui al capoverso 6, uno strumento di capitale esistente può, sempreché adempia le nuove condizioni per i fondi propri complementari, essere computato come fondi propri complementari nella misura in cui è escluso dai fondi propri di base supplementari.
-
-#### Art. 142
-
-**Fase d’introduzione delle correzioni**
-
-<sup>1</sup>
-
-Le deduzioni dai fondi propri di base di qualità primaria non previste dal diritto anteriore sono effettuate in modo crescente su un periodo di cinque anni, in scaglioni annui del 20 per cento, come segue:
-
-- a. dal 1° gennaio 2014: 20 per cento dell’importo determinante;
-- b. dal 1° gennaio 2015: 40 per cento dell’importo determinante;
-- c. dal 1° gennaio 2016: 60 per cento dell’importo determinante;
-- d. dal 1° gennaio 2017: 80 per cento dell’importo determinante;
-- e. dal 1° gennaio 2018: 100 per cento dell’importo determinante.
-
-<sup>2</sup> La quota delle posizioni di cui al capoverso 1 non soggetta a deduzione è presa in considerazione nei fondi propri necessari conformemente alla ponderazione dei rischi secondo il diritto anteriore.
-
-<sup>3</sup> Le deduzioni effettuate interamente o parzialmente sui fondi propri di base secondo il diritto anteriore sono convertite in modo graduale in una deduzione sui fondi propri di base conformemente alle fasi di calcolo di cui al capoverso 1.
-
-<sup>4</sup>
-
-Per la quota delle posizioni di cui al capoverso 3 non soggetta a deduzione, la deduzione secondo il diritto anteriore prosegue in modo decrescente su un periodo di cinque anni, in scaglioni annui del 20 per cento, come segue:
-
-- a. dal 1° gennaio 2013: 100 per cento dell’importo determinante;
-- b. dal 1° gennaio 2014: 80 per cento dell’importo determinante;
-- c. dal 1° gennaio 2015: 60 per cento dell’importo determinante;
-- d. dal 1° gennaio 2016: 40 per cento dell’importo determinante;
-- e. dal 1° gennaio 2017: 20 per cento dell’importo determinante;
-
-<sup>5</sup> Dal 1° gennaio 2018 la deduzione complementare prevista dal capoverso 4 decade completamente.
-
-<sup>6</sup> Fino al 31 dicembre 2017 il limite 3 della franchigia (art. 35 cpv. 4) è pari al 15 per cento dei fondi propri di base di qualità primaria tenuto conto di tutti gli adeguamenti prudenziali, fatta eccezione per la deduzione dell’importo superiore al limite 3 della franchigia.[^142-1]
-
-<sup>7</sup> Nuove deduzioni dai fondi propri di base supplementari o dai fondi propri complementari sono introdotte secondo la medesima procedura graduale di cui ai capoversi 1–5.
-
-[^142-1]: Nuovo testo giusta il n. 4 dell’all. 2 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^139142-1]: Abrogati dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 143 a 147
 
@@ -2441,141 +3572,87 @@ Riguardo alla qualità del capitale richiesta secondo l’articolo 131, il capit
 - b. se è considerato come fondi propri di base supplementari: in qualità di capitale convertibile con un «trigger» elevato sotto forma di fondi propri di base supplementari, fino al momento della prima chiamata di capitale;
 - c. se non è più computabile secondo le lettere a e b: in qualità di fondi per adempiere le esigenze secondo agli articoli 132 e 133, fino a un anno prima della scadenza della durata.
 
-#### Art. 148c
-
-**Fondi propri necessari alla continuazione dell’attività ordinaria della banca**
-
-<sup>1</sup> All’entrata in vigore della modifica il 1° luglio 2016 l’esigenza di cui all’articolo 129 ammonta al 3,0 per cento per il «leverage ratio» e al 10,75 per cento per la quota di RWA. I fondi propri di base supplementari sotto forma di capitale convertibile con un «trigger» elevato sono computabili al massimo fino allo 0,70 per cento per il «leverage ratio» e al 2,625 per cento per la quota di RWA.
-
-<sup>2</sup> Nel 2017 l’esigenza di cui all’articolo 129 ammonta al 3,5 per cento per il «leverage ratio» e al 12,0 per cento per la quota di RWA. I fondi propri di base supplementari sotto forma di capitale convertibile con un «trigger» elevato sono computabili al massimo fino allo 0,9 per cento per il «leverage ratio» e al 3,0 per cento per la quota di RWA.
-
-<sup>3</sup> Nel 2018 l’esigenza di cui all’articolo 129 ammonta al 4,0 per cento per il «leverage ratio» e al 12,86 per cento per la quota di RWA. I fondi propri di base supplementari sotto forma di capitale convertibile con un «trigger» elevato sono computabili al massimo fino all’1,1 per cento per il «leverage ratio» e al 3,4 per cento per la quota di RWA.
-
-<sup>4</sup> Nel 2019 per il «leverage ratio» e per la quota di RWA deve essere adempiuta l’esigenza di base di cui all’articolo 129, a cui va aggiunta la metà dei supplementi per la quota di mercato e per l’esposizione totale. I fondi propri di base supplementari sotto forma di capitale convertibile con un «trigger» elevato sono computabili al massimo fino all’1,3 per cento per il «leverage ratio» e al 3,9 per cento per la quota di RWA.
-
-#### Art. 148d
-
-**Fondi supplementari in grado di assorbire le perdite**
-
-<sup>1</sup> All’entrata in vigore della modifica il 1° luglio 2016 l’esigenza di cui all’articolo 132 ammonta all’1,0 per cento per il «leverage ratio» e al 3,5 per cento per la quota di RWA.
-
-<sup>2</sup> Nel 2017 l’esigenza di cui all’articolo 132 ammonta all’1,875 per cento per il «leverage ratio» e al 5,84 per cento per la quota di RWA, a cui va aggiunto un quarto del supplemento per la quota di mercato e un quarto del supplemento per l’esposizione totale.
-
-<sup>3</sup> Nel 2018 l’esigenza di cui all’articolo 132 ammonta al 2,75 per cento per il «leverage ratio» e all’8,18 per cento per la quota di RWA, a cui va aggiunta la metà del supplemento per la quota di mercato e la metà del supplemento per l’esposizione totale.
-
-<sup>4</sup> Nel 2019 l’esigenza di cui all’articolo 132 ammonta al 3,625 per cento per il «leverage ratio» e al 10,52 per cento per la quota di RWA, a cui vanno aggiunti tre quarti del supplemento per la quota di mercato e tre quarti del supplemento per l’esposizione totale.
-
-<sup>5</sup> È fatta salva la riduzione delle esigenze di cui ai capoversi 1–4 in virtù di uno sconto secondo l’articolo 133.
-
-#### Art. 148e
-
-**«Bail-in bond» emessi anteriormente all’entrata in vigore della modifica dell’11 maggio 2016**
-
-<sup>1</sup> La FINMA approva a posteriori i «bail-in bond» emessi anteriormente all’entrata in vigore della modifica il 1° luglio 2016 dalle banche di rilevanza sistemica attive a livello internazionale secondo l’articolo 124*a* se sono soddisfatte le condizioni previste all’articolo 126*a*.
-
-<sup>2</sup> Fino al 31 dicembre 2021 possono essere approvati anche i «bail-in bond» emessi da una società veicolo.
-
-#### Art. 148f
-
-**Cuscinetto anticiclico esteso**
-
-Il cuscinetto anticiclico esteso, calcolato in base alle posizioni ponderate, può ammontare al massimo a:
-
-- a. lo 0,625 per cento all’entrata in vigore della modifica il 1° luglio 2016;
-- b. l’1,25 per cento nel 2017;
-- c. l’1,875 per cento nel 2018.
-
-### Sezione 3: Disposizione transitoria della modifica del 23 novembre 2016
+### Sezione 3: Disposizioni transitorie della modifica del 29 novembre 2023
 
 [^tit6-chap1-sec3-1]
 
-[^tit6-chap1-sec3-1]: Introdotta dal n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)).
+[^tit6-chap1-sec3-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-#### Art. 148g
-
-[^148g-1]
-
-<sup>1</sup> Il calcolo degli equivalenti di credito dei derivati volto a determinare i fondi propri necessari deve essere effettuato conformemente agli articoli 56–59 entro 36 mesi dall’entrata in vigore della modifica del 23 novembre 2016.
-
-<sup>2</sup> La ponderazione delle posizioni della classe di posizione di cui all’articolo 63 capoverso 3 lettera fbis deve essere effettuata conformemente all’articolo 66 capoverso 3<sup>bis</sup> entro 36 mesi dall’entrata in vigore della modifica del 23 novembre 2016.
-
-<sup>3</sup> Fino al 31 dicembre 2019 la conversione dei derivati nel loro equivalente di credito nell’ambito del titolo quarto può essere effettuata anche secondo il metodo del valore di mercato o il metodo standard conformemente agli articoli 56–58 nel tenore del 1° luglio 2016[^148g-2]. La FINMA può prorogare tale termine.
-
-[^148g-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
-[^148g-2]: [RU 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
-
-### Sezione 4: Disposizione transitoria della modifica del 22 novembre 2017
-
-[^tit6-chap1-sec4-1]
-
-[^tit6-chap1-sec4-1]: Introdotta dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
-
-#### Art. 148h
-
-Le banche che prevedono o presumono di superare illecitamente dal 1° gennaio 2019 il limite massimo dei grandi rischi (art. 97–99), contattano la FINMA entro tre mesi dall’entrata in vigore della modifica del 22 novembre 2017.
-
-### Sezione 5: Disposizione transitoria della modifica del 21 novembre 2018
-
-[^tit6-chap1-sec5-1]
-
-[^tit6-chap1-sec5-1]: Introdotta dal n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-
-#### Art. 148i
+#### Art. 148c
 
 **Trattamento delle partecipazioni**
 
-Le disposizioni transitorie relative al trattamento delle partecipazioni, emanate nel singolo caso dalla FINMA prima dell’entrata in vigore della modifica del 21 novembre 2018, prevalgono sulle disposizioni dell’articolo 32 lettera j e dell’allegato 4.
+Le disposizioni transitorie relative al trattamento delle partecipazioni che sono state emanate nel singolo caso dalla FINMA prima dell’entrata in vigore della modifica del 21 novembre 2018[^148c-1] prevalgono sulle disposizioni dell’articolo 32 capoverso 4 e dell’allegato 4.
 
-#### Art. 148j
+[^148c-1]: [RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)
+
+#### Art. 148d
 
 **Fondi supplementari per le banche di rilevanza sistemica non attive a livello internazionale**
 
-L’esigenza di cui all’articolo 132 capoverso 2 lettera b ammonta:
+Nel 2025 l’esigenza di cui all’articolo 132 capoverso 2 lettera b ammonta all’1,5 per cento per il «leverage ratio» e al 4,5 per cento per la quota di RWA, a cui va aggiunta la metà del supplemento per la quota di mercato e la metà del supplemento per l’esposizione totale.
 
-- a. nel 2019: allo 0,21 per cento per il «leverage ratio» e allo 0,64 per cento per la quota di RWA;
-- b. nel 2020: allo 0,42 per cento per il «leverage ratio» e all’1,28 per cento per la quota di RWA;
-- c. nel 2021: allo 0,63 per cento per il «leverage ratio» e all’1,92 per cento per la quota di RWA;
-- d. nel 2022: allo 0,84 per cento per il «leverage ratio» e al 2,56 per cento per la quota di RWA;
-- e. nel 2023: all’1,05 per cento per il «leverage ratio» e al 3,2 per cento per la quota di RWA;
-- f. nel 2024: all’1,26 per cento per il «leverage ratio» e al 3,84 per cento per la quota di RWA;
-- g. nel 2025: all’1,5 per cento per il «leverage ratio» e al 4,5 per cento per la quota di RWA, a cui va aggiunta la metà del supplemento per la quota di mercato e la metà del supplemento per l’esposizione totale.
+#### Art. 148e
 
-### Sezione 6: Disposizioni transitorie della modifica del 27 novembre 2019
+**Soglie minime secondo gli art. 45*a* cpv. 3 lett. b e 77 cpv. 2 nonché l’all. 7 n. 2 secondo periodo**
 
-[^tit6-chap1-sec6-1]
+Le soglie minime secondo gli articoli 45*a* capoverso 3 lettera b e 77 capoverso 2 nonché l’allegato 7 numero 2 secondo periodo ammontano:
 
-[^tit6-chap1-sec6-1]: Introdotta dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+- a. dal 1° gennaio 2025: al 60 per cento;
+- b. dal 1° gennaio 2026: al 65 per cento;
+- c. dal 1° gennaio 2027 al 31 dicembre 2027: al 70 per cento.
 
-#### Art. 148k
+#### Art. 148f
 
-**Metodi di calcolo per i derivati**
+**Utilizzo di rating esterni per posizioni ponderate in funzione del rischio nei confronti di banche**
 
-<sup>1</sup> Fino al 31 dicembre 2021 le banche delle categorie 4 e 5 di cui all’allegato 3 OBCR[^148k-1] possono effettuare la conversione dei derivati nel loro equivalente di credito nell’ambito dei titoli terzo e quarto anche secondo il metodo del valore di mercato conformemente all’articolo 57 nel tenore del 1° luglio 2016[^148k-2].
+Fino al 31 dicembre 2027, per la ponderazione in funzione del rischio di posizioni nei confronti di banche possono essere utilizzati rating esterni basati su una garanzia implicita dello Stato, se non esiste alcun rating esterno corrispondente che non si basi su una garanzia implicita dello Stato.
 
-<sup>1bis</sup> Il termine transitorio secondo il capoverso 1 è prolungato fino al 31 dicembre 2024.[^148k-3]
+#### Art. 148g
 
-<sup>2</sup> Ciò si applica anche alle banche della categoria 3 di cui all’allegato 3 OBCR che hanno posizioni in derivati non rilevanti. La FINMA emana disposizioni di esecuzione tecniche.
+**Ponderazione in funzione del rischio di strumenti partecipativi**
 
-[^148k-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^148k-2]: [RU 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
-[^148k-3]: Introdotto dal n. I 6 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 725](https://fedlex.data.admin.ch/eli/oc/2023/725)).
+<sup>1</sup>
 
-#### Art. 148l
+Il fattore di ponderazione del rischio per le posizioni secondo l’allegato 4 numero 3 ammonta:
 
-**Fondi supplementari per le banche di rilevanza sistemica attive a livello internazionale**
+- a. dal 1° gennaio 2025: al 220 per cento;
+- b. dal 31 dicembre 2025: al 280 per cento;
+- c. dal 31 dicembre 2026 al 30 dicembre 2027: al 340 per cento.
 
-L’esigenza di cui all’articolo 132 capoverso 2 lettera a numero 3 terzo trattino ammonta:
+<sup>2</sup>
 
-- a. nel 2020: allo 0 per cento;
-- b. nel 2021: al 5 per cento;
-- c. nel 2022: al 10 per cento;
-- d. nel 2023: al 20 per cento.
+Il fattore di ponderazione del rischio per le posizioni secondo l’allegato 4 numero 4 ammonta:
 
-#### Art. 148m
+- a. dal 1° gennaio 2025: al 160 per cento;
+- b. dal 31 dicembre 2025: al 190 per cento;
+- c. dal 31 dicembre 2026 al 30 dicembre 2027: al 220 per cento.
 
-**Sconti per le banche di rilevanza sistemica attive a livello internazionale**
+<sup>3</sup> I capoversi 1 e 2 non sono applicabili alle banche che applicano l’IRB.
 
-Negli anni 2020 e 2021 le esigenze di cui all’articolo 133 capoverso 2 non possono scendere sotto il 3 per cento per il «leverage ratio» e sotto l’8,6 per cento per la quota di RWA.
+#### Art. 148h
+
+**Comunicazione di grandi rischi e di altri rischi di credito rilevanti**
+
+Le comunicazioni di cui agli articoli 100 capoverso 2 e 102 con un giorno di riferimento fino al 31 dicembre 2025 compreso devono essere trasmesse alla Banca nazionale svizzera anziché alla FINMA.
+
+#### Art. 148i
+
+**Campo d’applicazione del valore di anticipo iniziale**
+
+L’articolo 72*b* capoversi 1, 2 e 5 si applica a posizioni garantite direttamente o indirettamente da pegno immobiliare che esistevano prima dell’entrata in vigore della modifica del 29 novembre 2023 soltanto all’atto della concessione del credito nell’ambito di nuove operazioni e di aumenti del credito.
+
+#### Art. 148j
+
+**Termine transitorio secondo il numero 90.1 MAR**
+
+In deroga al numero 90.1 MAR[^148j-1], la FINMA prevede un inizio posticipato del termine transitorio per il disciplinamento delle condizioni di autorizzazione e la precisazione delle modalità di calcolo dei fondi propri minimi secondo l’approccio modello dei rischi di mercato (art. 88 cpv. 2).
+
+[^148j-1]: Lo standard MAR è riportato nell’all. 1 n. 5.
+
+#### Art. 148k a 148m
+
+*Abrogati*
 
 ### Capitolo 2: Disposizioni finali
 
@@ -2607,166 +3684,358 @@ La modifica del diritto vigente è disciplinata nell’allegato 6.
 
 Allegato 1[^t-2]
 
-(art. 54 cpv. 1)
+(art. 4*a* cpv. 2)
 
-## Fattori di conversione del credito in caso di applicazione dell’AS-BRI
+## Standard minimi di Basilea
 
-[^t-2]: Aggiornato dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)). La correzione del 10 mag. 2016 concerne soltanto il testo francese ([RU 2016 1359](https://fedlex.data.admin.ch/eli/oc/2016/267)).
+[^t-2]: Introdotto dal n. II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+Consultabili su [www.sif.admin.ch](https://www.sif.admin.ch/sif/it/home/finanzmarktpolitik/regolamentazione-mercati-finanziari/basler-mindeststandards.html) &gt; Politica e strategia dei mercati finanziari &gt; Regolamentazione dei mercati finanziari &gt; Standard minimi di Basilea
 
 <table>
-<tr><th>Numero</th><th>Impegni eventuali e impegni irrevocabili</th><th colspan="2">Fattori di conversione del credito</th></tr>
-<tr><th></th><th></th><th colspan="2">AS-BRI</th></tr>
-<tr><td>1.</td><td>Impegni di credito</td><td colspan="2"></td></tr>
-<tr><td>1.1</td><td>Impegni fissi e con una durata iniziale convenuta fino a un anno</td><td colspan="2">0,20</td></tr>
-<tr><td>1.2</td><td>Impegni fissi e con una durata iniziale convenuta di oltre un anno</td><td colspan="2">0,50</td></tr>
-<tr><td>1.3</td><td>Impegni revocabili in ogni momento senza oneri o che divengono automaticamente nulli in caso di peggioramento della solvibilità del debitore</td><td colspan="2">0,00</td></tr>
-<tr><td>2.</td><td>Fideiussioni degli artigiani edili per l’esecuzione di costruzioni edili in Svizzera e all’estero</td><td colspan="2">0,50</td></tr>
-<tr><td>3.</td><td>Prestazioni autoliquidanti di garanzie su operazioni di commercio di merci</td><td colspan="2">0,20</td></tr>
-<tr><td>3.1</td><td>Aperture di credito autoliquidanti a breve collegate a operazioni di commercio di merci, come crediti documentari garantiti dalla fornitura sottostante</td><td colspan="2">0,20</td></tr>
-<tr><td>4.</td><td>Impegni di versamento o di versamento suppletivo</td><td colspan="2"></td></tr>
-<tr><td>4.1</td><td>Su titoli di partecipazione non iscritti a bilancio tra le partecipazioni</td><td colspan="2">1,00</td></tr>
-<tr><td>4.2</td><td>Su titoli di partecipazione se si tratta di partecipazioni da non consolidare</td><td colspan="2">1,00</td></tr>
-<tr><td>4.3</td><td>Su titoli di partecipazione se si tratta di partecipazioni da consolidare o di titoli di partecipazione del settore assicurativo</td><td colspan="2">1,00</td></tr>
-<tr><td>5.</td><td>Prestazioni di garanzie</td><td colspan="2"></td></tr>
-<tr><td>5.1</td><td>Impegni eventuali collegati a talune transazioni, come «performance bond», «bid bond», garanzie e aperture di credito «stand-by» relative a operazioni determinate</td><td colspan="2">0,50</td></tr>
-<tr><td>5.2</td><td>«Note issuance facilities» (NIFs) e «revolving underwriting facilities» (RUFs)</td><td colspan="2">0,50</td></tr>
-<tr><td>6.</td><td>Altri impegni eventuali</td><td colspan="2">1,00</td></tr>
-<tr><td>6.1</td><td>Sostituti diretti di credito come p. es. garanzie generali del debito, comprese le aperture di credito «stand-by» con funzione di garanzia finanziaria di prestiti e operazioni su titoli, e le accettazioni, comprese le girate aventi carattere di accettazioni</td><td colspan="2">1,00</td></tr>
-<tr><td>6.2</td><td>Altri impegni eventuali</td><td colspan="2">1,00</td></tr>
+<tr><th>Numero</th><th>Titolo</th><th>Data di riferimento</th></tr>
+<tr><td>1.</td><td>Scope and Definitions (SCO)</td><td></td></tr>
+<tr><td>Numero 10 SCO:</td><td>Introduction</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 SCO:</td><td>Banking, securities and other financial subsidiaries</td><td>31.01.2022</td></tr>
+<tr><td>Numero 40 SCO:</td><td>Global systemically important banks</td><td>31.01.2022</td></tr>
+<tr><td>Numero 50 SCO:</td><td>Domestic systemically important banks</td><td>31.01.2022</td></tr>
+<tr><td>Numero 95 SCO:</td><td>Glossary and abbreviations</td><td>31.01.2022</td></tr>
+<tr><td>2.</td><td>Definition of capital (CAP)</td><td></td></tr>
+<tr><td>Numero 10 CAP:</td><td>Definition of eligible capital</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 CAP:</td><td>Regulatory adjustments</td><td>31.01.2022</td></tr>
+<tr><td>Numero 50 CAP:</td><td>Prudent valuation guidance</td><td>31.01.2022</td></tr>
+<tr><td>Numero 90 CAP:</td><td>Transitional arrangements</td><td>31.01.2022</td></tr>
+<tr><td>Numero 99 CAP:</td><td>Application guidance</td><td>31.01.2022</td></tr>
+<tr><td>3.</td><td>Risk-based capital requirements (RBC)</td><td></td></tr>
+<tr><td>Numero 20 RBC:</td><td>Calculation of minimum risk-based capital requirements</td><td>31.01.2022</td></tr>
+<tr><td>Numero 25 RBC:</td><td>Boundary between the banking book and the trading book</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 RBC:</td><td>Buffers above the regulatory minimum</td><td>31.01.2022</td></tr>
+<tr><td>Numero 40 RBC:</td><td>Systemically important bank buffers</td><td>31.01.2022</td></tr>
+<tr><td>Numero 90 RBC:</td><td>Transitional arrangements</td><td>31.01.2022</td></tr>
+<tr><td>4.</td><td>Calculation of RWA for credit risk (CRE)</td><td></td></tr>
+<tr><td>Numero 20 CRE:</td><td>Standardised approach: individual exposures</td><td>31.05.2023</td></tr>
+<tr><td>Numero 21 CRE:</td><td>Standardised approach: use of external ratings</td><td>31.01.2022</td></tr>
+<tr><td>Numero 22 CRE:</td><td>Standardised approach: credit risk mitigation</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 CRE:</td><td>IRB approach: overview and asset class definition</td><td>31.01.2022</td></tr>
+<tr><td>Numero 31 CRE:</td><td>IRB approach: risk weight functions</td><td>31.01.2022</td></tr>
+<tr><td>Numero 32 CRE:</td><td>IRB approach: risk components</td><td>31.01.2022</td></tr>
+<tr><td>Numero 33 CRE:</td><td>IRB approach: supervisory slotting approach for specialised lending</td><td>31.05.2023</td></tr>
+<tr><td>Numero 34 CRE:</td><td>IRB approach: RWA for purchased receivables</td><td>31.01.2022</td></tr>
+<tr><td>Numero 35 CRE:</td><td>IRB approach: treatment of expected losses and provisions</td><td>31.01.2022</td></tr>
+<tr><td>Numero 36 CRE:</td><td>IRB approach: minimum requirements to use IRB approach</td><td>31.05.2023</td></tr>
+<tr><td>Numero 40 CRE:</td><td>Securitisation: general provisions</td><td>31.01.2022</td></tr>
+<tr><td>Numero 41 CRE:</td><td>Securitisation: standardised approach</td><td>31.01.2022</td></tr>
+<tr><td>Numero 42 CRE:</td><td>Securitisation: External-ratings-based approach (SEC-ERBA)</td><td>31.05.2023</td></tr>
+<tr><td>Numero 43 CRE:</td><td>Securitisation: Internal assessment approach (SEC-IAA)</td><td>31.01.2022</td></tr>
+<tr><td>Numero 44 CRE:</td><td>Securitisation: Internal-ratings-based approach</td><td>31.01.2022</td></tr>
+<tr><td>Numero 45 CRE:</td><td>Securitisations of non-performing loans</td><td>31.01.2022</td></tr>
+<tr><td>Numero 50 CRE:</td><td>Counterparty credit risk definitions and terminology</td><td>31.01.2022</td></tr>
+<tr><td>Numero 51 CRE:</td><td>Counterparty credit risk overview</td><td>31.01.2022</td></tr>
+<tr><td>Numero 52 CRE:</td><td>Standardised approach to counterparty credit risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 53 CRE:</td><td>Internal models method for counterparty credit risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 54 CRE:</td><td>Capital requirements for banks exposures to central counterparties</td><td>31.01.2022</td></tr>
+<tr><td>Numero 55 CRE:</td><td>Counterparty credit risk in the trading book</td><td>31.01.2022</td></tr>
+<tr><td>Numero 56 CRE:</td><td>Minimum haircut floors for securities financing transactions</td><td>31.01.2022</td></tr>
+<tr><td>Numero 60 CRE:</td><td>Equity investments in funds</td><td>31.01.2022</td></tr>
+<tr><td>Numero 70 CRE:</td><td>Capital treatment of unsettled transactions and failed trades</td><td>31.01.2022</td></tr>
+<tr><td>Numero 90 CRE:</td><td>Transition</td><td>31.01.2022</td></tr>
+<tr><td>Numero 99 CRE:</td><td>Application guidance</td><td>31.01.2022</td></tr>
+<tr><td>5.</td><td>Calculation of RWA for market risk (MAR)</td><td></td></tr>
+<tr><td>Numero 10 MAR:</td><td>Market risk terminology</td><td>31.01.2022</td></tr>
+<tr><td>Numero 11 MAR:</td><td>Definitions and application of market risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 12 MAR:</td><td>Definition of trading book</td><td>31.01.2022</td></tr>
+<tr><td>Numero 20 MAR:</td><td>Standardised approach: general provisions and structure</td><td>31.01.2022</td></tr>
+<tr><td>Numero 21 MAR:</td><td>Standardised approach: sensitivities-based method</td><td>31.01.2022</td></tr>
+<tr><td>Numero 22 MAR:</td><td>Standardised approach: default risk capital requirement</td><td>31.01.2022</td></tr>
+<tr><td>Numero 23 MAR:</td><td>Standardised approach: residual risk add-on</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 MAR:</td><td>Internal models approach: general provisions</td><td>31.05.2023</td></tr>
+<tr><td>Numero 31 MAR:</td><td>Internal models approach: model requirements</td><td>31.01.2022</td></tr>
+<tr><td>Numero 32 MAR:</td><td>Internal models approach: Backtesting and P&L attribution test requirements</td><td>31.01.2022</td></tr>
+<tr><td>Numero 33 MAR:</td><td>Internal models approach: capital requirements calculation</td><td>31.01.2022</td></tr>
+<tr><td>Numero 40 MAR:</td><td>Simplified standardised approach</td><td>31.01.2022</td></tr>
+<tr><td>Numero 50 MAR:</td><td>Credit valuation adjustment framework</td><td>31.01.2022</td></tr>
+<tr><td>Numero 90 MAR:</td><td>Transitional arrangements</td><td>31.01.2022</td></tr>
+<tr><td>Numero 99 MAR:</td><td>Guidance on use of the internal models approach</td><td>31.01.2022</td></tr>
+<tr><td>6.</td><td>Calculation of RWA for operational risk (OPE)</td><td></td></tr>
+<tr><td>Numero 10 OPE:</td><td>Definitions and application</td><td>31.05.2023</td></tr>
+<tr><td>Numero 25 OPE:</td><td>Standardised approach</td><td>31.05.2023</td></tr>
+<tr><td>7.</td><td>Leverage ratio (LEV)</td><td></td></tr>
+<tr><td>Numero 10 LEV:</td><td>Definitions and application</td><td>31.01.2022</td></tr>
+<tr><td>Numero 20 LEV:</td><td>Calculation</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 LEV:</td><td>Exposure measurement</td><td>31.01.2022</td></tr>
+<tr><td>Numero 40 LEV:</td><td>Leverage ratio requirements for global systemically important banks</td><td>31.01.2022</td></tr>
+<tr><td>Numero 90 LEV:</td><td>Transition</td><td>31.01.2022</td></tr>
+<tr><td>8.</td><td>Large exposure (LEX)</td><td></td></tr>
+<tr><td>Numero 10 LEX:</td><td>Definitions and application</td><td>31.01.2022</td></tr>
+<tr><td>Numero 20 LEX:</td><td>Requirements</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 LEX:</td><td>Exposure measurement</td><td>31.01.2022</td></tr>
+<tr><td>Numero 40 LEX:</td><td>Large exposure rules for global systemically important banks</td><td>31.01.2022</td></tr>
+<tr><td>9.</td><td>Margin requirements (MGN)</td><td></td></tr>
+<tr><td>Numero 10 MGN:</td><td>Definitions and application</td><td>31.01.2022</td></tr>
+<tr><td>Numero 20 MGN:</td><td>Requirements</td><td>31.01.2022</td></tr>
+<tr><td>Numero 90 MGN:</td><td>Transition</td><td>31.01.2022</td></tr>
+<tr><td>10.</td><td>Supervisory review process (SRP)</td><td></td></tr>
+<tr><td>Numero 10 SRP:</td><td>Importance of supervisory review</td><td>31.01.2022</td></tr>
+<tr><td>Numero 20 SRP:</td><td>Four key principles</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 SRP:</td><td>Risk management</td><td>31.01.2022</td></tr>
+<tr><td>Numero 31 SRP:</td><td>Interest rate risk in the banking book</td><td>31.01.2022</td></tr>
+<tr><td>Numero 32 SRP:</td><td>Credit risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 33 SRP:</td><td>Market risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 35 SRP:</td><td>Compensation</td><td>31.01.2022</td></tr>
+<tr><td>Numero 36 SRP:</td><td>Risk data aggregation and risk reporting</td><td>31.01.2022</td></tr>
+<tr><td>Numero 50 SRP:</td><td>Liquidity monitoring metrics</td><td>31.01.2022</td></tr>
+<tr><td>Numero 90 SRP:</td><td>Transition</td><td>31.01.2022</td></tr>
+<tr><td>Numero 98 SRP:</td><td>Application guidance on interest rate risk in the banking book</td><td>31.01.2022</td></tr>
+<tr><td>Numero 99 SRP:</td><td>Application guidance</td><td>31.01.2022</td></tr>
+<tr><td>11.</td><td>Disclosure requirements (DIS)</td><td></td></tr>
+<tr><td>Numero 10 DIS:</td><td>Definition and application</td><td>31.01.2022</td></tr>
+<tr><td>Numero 20 DIS:</td><td>Overview of risk management, key prudential metrics and RWA</td><td>31.01.2022</td></tr>
+<tr><td>Numero 21 DIS:</td><td>Comparison of modelled and standardised RWA</td><td>31.01.2022</td></tr>
+<tr><td>Numero 25 DIS:</td><td>Composition of capital and TLAC</td><td>31.01.2022</td></tr>
+<tr><td>Numero 26 DIS:</td><td>Capital distribution constraints</td><td>31.01.2022</td></tr>
+<tr><td>Numero 30 DIS:</td><td>Links between financial statements and regulatory exposures</td><td>31.01.2022</td></tr>
+<tr><td>Numero 31 DIS:</td><td>Asset encumbrance</td><td>31.01.2022</td></tr>
+<tr><td>Numero 35 DIS:</td><td>Remuneration</td><td>31.01.2022</td></tr>
+<tr><td>Numero 40 DIS:</td><td>Credit risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 42 DIS:</td><td>Counterparty credit risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 43 DIS:</td><td>Securitisation:</td><td>31.01.2022</td></tr>
+<tr><td>Numero 50 DIS:</td><td>Market risk</td><td>31.05.2023</td></tr>
+<tr><td>Numero 51 DIS:</td><td>Credit valuation adjustment risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 60 DIS:</td><td>Operational risk</td><td>31.01.2022</td></tr>
+<tr><td>Numero 70 DIS:</td><td>Interest rate risk in the banking book</td><td>31.01.2022</td></tr>
+<tr><td>Numero 75 DIS:</td><td>Macroprudential supervisory measures</td><td>31.01.2022</td></tr>
+<tr><td>Numero 80 DIS:</td><td>Leverage ratio</td><td>31.01.2022</td></tr>
+<tr><td>Numero 85 DIS:</td><td>Liquidity</td><td>31.01.2022</td></tr>
+<tr><td>Numero 99 DIS:</td><td>Worked examples</td><td>31.01.2022</td></tr>
+<tr><td>12.</td><td>Core Principles for effective banking supervision (BCP)</td><td></td></tr>
+<tr><td>Numero 01 BCP:</td><td>The core principles</td><td>31.01.2022</td></tr>
 </table>
 
-Osservazioni:
+Allegato 1a[^t-3]
 
-\1. Gli altri impegni eventuali (sotto il numero 6.2) comprendono in particolare:
+(art. 53 cpv. 2 e 117 cpv. 1)
 
-- – operazioni di pronti contro termine e vendite di titoli con possibilità di regresso, per le quali il rischio di credito permane presso la banca [§83 (ii) degli standard minimi di Basilea];
-- – operazioni di prestito titoli o costituzione di titoli in garanzia, nonché operazioni risultanti da transazioni del tipo pronti contro termine e operazioni di prestito di titoli [§84 degli standard minimi di Basilea];
-- – operazioni di acquisto di attività a termine, gli impegni di deposito a termine e le parti non pagate di azioni e titoli sottoscritti, che rappresentano impegni a utilizzo certo [§84 (i) degli standard minimi di Basilea];
+## Fattori di conversione del credito per operazioni fuori bilancio in caso di applicazione dell’AS-BRI
 
-\2. Nel caso in cui vi sia un obbligo a fornire un impegno su una posta fuori bilancio, le banche possono applicare il minore fra i due fattori di conversione del credito applicabili [§86 degli standard minimi di Basilea].
-
-Allegato 2[^t-3]
-
-(art. 66 cpv. 1)
-
-## Classi di posizioni secondo l’AS-BRI in caso di applicazione di rating esterni e relativa ponderazione del rischio
-
-[^t-3]: Aggiornato dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)) e dall’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-3]: Originario all. 1. Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
-<tr><th>Numero</th><th>Classi di posizioni (AS-BRI) con possibilità di applicazione di rating esterni</th><th colspan="9">Classi di rating</th></tr>
-<tr><th></th><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>Senza rating</th><th>fisse</th></tr>
-<tr><td>1.</td><td>Governi centrali e banche centrali</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1.1</td><td>Governi centrali e banche centrali</td><td>0 %</td><td>0 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
-<tr><td>1.2</td><td>Confederazione Svizzera e Banca nazionale svizzera sempreché il credito sia in valuta nazionale e sia rifinanziato in tale valuta.</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>0 %</td></tr>
-<tr><td>2.</td><td>Enti di diritto pubblico</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>2.1</td><td>Enti di diritto pubblico</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
-<tr><td>2.2</td><td>Enti di diritto pubblico senza rating, sempreché abbiano il diritto di riscuotere imposte o sempreché i loro impegni siano garantiti integralmente e illimitatamente da una collettività pubblica</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>50 %</td></tr>
-<tr><td>2.3</td><td>Cantoni senza rating</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>20 %</td></tr>
-<tr><td>3.</td><td>BRI, FMI e banche multilaterali di sviluppo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.1</td><td>Banche multilaterali di sviluppo</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>50 %</td><td>–</td></tr>
-<tr><td>3.2</td><td>Banca dei regolamenti internazionali (BRI), Fondo monetario internazionale (FMI), determinate banche multilaterali di sviluppo designate dalla FINMA</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>0 %</td></tr>
-<tr><td>4.</td><td>Banche e società di intermediazione mobiliare</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4.1</td><td>Banche e società di intermediazione mobiliare; durata iniziale dei crediti &lt;3 mesi</td><td>20 %</td><td>20 %</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>150 %</td><td>20 %</td><td>–</td></tr>
-<tr><td>4.2</td><td>Banche e società di intermediazione mobiliare; durata iniziale dei crediti &gt;3 mesi</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>50 %</td><td>–</td></tr>
-<tr><td>5.</td><td>Istituzioni comuni</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>5.1</td><td>Istituzioni comuni delle banche, riconosciute dalla FINMA</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
-<tr><td>5.2</td><td>Impegni di versamento nei confronti del responsabile della garanzia dei depositi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>\_</td><td>20 %</td></tr>
-<tr><td>5.3</td><td>Crediti di banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^annex2-lvlu1-1] su rimborsi di prestiti in contanti concessi al responsabile della garanzia dei depositi secondo l’articolo 37*h* capoverso 3 lettera c numero 2 LBCR</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20 %</td></tr>
-<tr><td>5.4</td><td>Richieste di rimborso nei confronti del responsabile della garanzia dei depositi dopo l’attivazione della garanzia dei depositi (art. 37*i* LBCR)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>100 %</td></tr>
-<tr><td>6.</td><td>Borse, stanze di compensazione e controparti centrali</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>6.1</td><td>Borse, stanze di compensazione e controparti centrali</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
-<tr><td>6.2</td><td>Controparti centrali, sempreché i rischi di credito siano in relazione diretta con l’adempimento della prestazione, garantito da una controparte centrale, di contratti negoziati in borsa o fuori borsa (segnatamente derivati, operazioni pronti contro termine o analoghe dove la controparte centrale garantisce l’adempimento degli obblighi per l’intera durata).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>2 %</td></tr>
-<tr><td>6.3</td><td>Borse e stanze di compensazione sempreché i rischi di credito siano in relazione diretta con l’adempimento della prestazione, garantito da una controparte centrale, di contratti negoziati in borsa o fuori borsa di operazioni, dove la controparte centrale garantisce unicamente lo svolgimento (segnatamente operazioni di cassa).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>0 %</td></tr>
-<tr><td>**7.**</td><td>**Imprese**</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
+<tr><th></th><th>Posizioni</th><th>Fattori di conversione del credito</th></tr>
+<tr><td>1.</td><td>Impegni di credito</td><td></td></tr>
+<tr><td>1.1</td><td>che comportano un impegno fisso, se non è prescritto alcun particolare fattore di conversione del credito</td><td>0,40</td></tr>
+<tr><td>1.2</td><td>che non comportano un impegno fisso secondo l’articolo 53 capoverso 3</td><td>0,10</td></tr>
+<tr><td>1.3</td><td>che non comportano un impegno fisso e che soddisfano le esigenze di cui all’articolo 53 capoverso 5</td><td>0,00</td></tr>
+<tr><td>2.</td><td>Fideiussioni degli artigiani edili per l’esecuzione di costruzioni edili in Svizzera e all’estero</td><td>0,50</td></tr>
+<tr><td>3.</td><td>Prestazioni autoliquidanti di garanzie su operazioni di negoziazione di merci</td><td></td></tr>
+<tr><td>3.1</td><td>Aperture di credito autoliquidanti a breve termine collegate a operazioni di negoziazione di merci, come crediti documentari garantiti dalla fornitura sottostante e con una durata iniziale inferiore a un anno</td><td>0,20</td></tr>
+<tr><td>4.</td><td>Prestazioni di garanzie</td><td></td></tr>
+<tr><td>4.1</td><td>Impegni eventuali collegati a talune transazioni, come «performance bond», «bid bond», garanzie sui prodotti e aperture di credito «stand-by» relative a operazioni determinate</td><td>0,50</td></tr>
+<tr><td>4.2</td><td>«Note Issuance Facilities» (NIFs) e «Revolving Underwriting Facilities» (RUFs)</td><td>0,50</td></tr>
+<tr><td>5.</td><td>Altri impegni eventuali e altre operazioni fuori bilancio</td><td></td></tr>
+<tr><td>5.1</td><td>Sostituti diretti di credito come p. es. garanzie generali del debito, comprese le aperture di credito «stand-by» con funzione di garanzia finanziaria di prestiti e operazioni su titoli, e le accettazioni, comprese le girate aventi carattere di accettazioni</td><td>1,00</td></tr>
+<tr><td>5.2</td><td>Altri impegni eventuali; essi includono segnatamente: – operazioni di pronti contro termine e vendite di valori patrimoniali con possibilità di regresso, per le quali il rischio di credito permane presso la banca [n. 20.95 (2) CRE]; per la loro ponderazione in funzione del rischio è rilevante il tipo di valore patrimoniale e non la controparte; – operazioni di prestito di titoli e costituzione di titoli in garanzia, in particolare nel quadro di operazioni di finanziamento di titoli [n. 20.95 (3) CRE]; – operazioni di acquisto di attività a termine, impegni di deposito a termine e azioni e titoli pagati solo in parte, che rappresentano impegni a utilizzo certo [n. 20.95 (4) CRE]; per la loro ponderazione in funzione del rischio è rilevante il tipo di valore patrimoniale e non la controparte</td><td>1,00</td></tr>
+<tr><td>5.3</td><td>Altre operazioni fuori bilancio comprese le posizioni non iscritte a bilancio e non regolate</td><td>1,00</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+Allegato 2[^t-4]
 
-Allegato 3[^t-4]
+(art. 64*a* cpv. 3 e 4, 66 cpv. 1, 70 cpv. 1 e 3, 71*b* nonché 113 cpv. 2 lett. a)
 
-(art. 66 cpv. 2)
+## Classi di posizione secondo l’AS-BRI in caso di utilizzo di rating esterni e fattori di ponderazione del rischio
 
-## Classi di posizioni secondo l’AS-BRI senza applicazione di rating esterni e relativa ponderazione del rischio
-
-[^t-4]: Correzione del 9 apr. 2019 ([RU 2019 1203](https://fedlex.data.admin.ch/eli/oc/2019/223)).
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
-<tr><th></th><th>Classi di posizioni (AS-BRI) senza rating esterni</th><th>Aliquota di rischio</th></tr>
-<tr><th></th><th></th><th>AS-BRI</th></tr>
-<tr><td>1.</td><td>Persone fisiche e piccole imprese («retail»)</td><td></td></tr>
-<tr><td>1.1</td><td>Posizioni «retail», se il valore complessivo, non garantito da pegno immobiliare su immobili d’abitazione, delle posizioni ai sensi dell’articolo 49 capoverso 1 nei confronti di una controparte non supera 1,5 milioni di franchi e l’1 per cento di tutte le posizioni «retail»</td><td>75 %</td></tr>
-<tr><td>1.2</td><td>Altre posizioni «retail»</td><td>100 %</td></tr>
-<tr><td>2.</td><td>Obbligazioni fondiarie</td><td></td></tr>
-<tr><td>2.1</td><td>Obbligazioni fondiarie svizzere</td><td>20 %</td></tr>
+<tr><th></th><th>Classi di posizione</th><th colspan="12">Classi di rating</th></tr>
+<tr><th></th><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th colspan="4">senza rating</th><th>fisse</th></tr>
+<tr><td>1.</td><td>Governi centrali, banche centrali e organizzazioni sovranazionali</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>1.1</td><td>Governi centrali e banche centrali</td><td>0 %</td><td>0 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td colspan="4">100 %</td><td>–</td></tr>
+<tr><td>1.2</td><td>Confederazione Svizzera e Banca nazionale svizzera, sempreché il credito sia in valuta nazionale e sia rifinanziato in tale valuta</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="4">–</td><td>0 %</td></tr>
+<tr><td>1.3</td><td>Banca dei regolamenti internazionali, Fondo monetario internazionale, Banca centrale europea, UE, Fondo europeo di stabilità finanziaria, Meccanismo europeo di stabilità</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="4">–</td><td>0 %</td></tr>
+<tr><td>2.</td><td>Enti di diritto pubblico</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>2.1</td><td>Enti di diritto pubblico</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td colspan="4">100 %</td><td>–</td></tr>
+<tr><td>2.2</td><td>Cantoni senza rating</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="4">–</td><td>20 %</td></tr>
+<tr><td>2.3</td><td>Altri enti di diritto pubblico senza rating, sempreché abbiano il diritto di riscuotere imposte o sempreché i loro impegni siano garantiti integralmente e illimitatamente da una collettività pubblica</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="4">–</td><td>50 %</td></tr>
+<tr><td>3.</td><td>Banche multilaterali di sviluppo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>3.1</td><td>Banche multilaterali di sviluppo</td><td>20 %</td><td>20 %</td><td>30 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td colspan="4">50 %</td><td>–</td></tr>
+<tr><td>3.2</td><td>Determinate banche multilaterali di sviluppo designate dalla FINMA</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="4">–</td><td>0 %</td></tr>
+<tr><td>4.</td><td>Banche</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>B</td><td>C</td><td>Art. 69 cpv. 4</td><td></td></tr>
+<tr><td>4.1</td><td>Banche, durata iniziale del credito ≤ 3 mesi, ma ≤ 6 mesi in relazione al trasporto di merci transfrontaliero</td><td>20 %</td><td>20 %</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>150 %</td><td>20 %</td><td>50 %</td><td>150 %</td><td>35 %</td><td>–</td></tr>
+<tr><td>4.2</td><td>Banche, durata iniziale del credito &gt;3 mesi, ma &gt; 6 mesi in relazione al trasporto di merci transfrontaliero</td><td>20 %</td><td>20 %</td><td>30 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>40 %</td><td>75 %</td><td>150 %</td><td>60 %</td><td>–</td></tr>
+<tr><td>5.</td><td>Istituzioni comuni</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>5.1</td><td>Istituzioni comuni delle banche, riconosciute dalla FINMA</td><td>20 %</td><td>20 %</td><td>50 %</td><td>75 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td colspan="4">100 %</td><td>–</td></tr>
+<tr><td>5.2</td><td>Impegni di versamento nei confronti del responsabile della garanzia dei depositi</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="4">–</td><td>20 %</td></tr>
+<tr><td>6.</td><td>Imprese</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>6.1</td><td>Imprese</td><td>20 %</td><td>20 %</td><td>50 %</td><td>75 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td colspan="4">100 %</td><td>–</td></tr>
+<tr><td>6.2</td><td>PMI</td><td>20 %</td><td>20 %</td><td>50 %</td><td>75 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td colspan="4">85 %</td><td>–</td></tr>
+<tr><td>7.</td><td>Finanziamenti speciali</td><td>20 %</td><td>20 %</td><td>50 %</td><td>75 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td colspan="4"></td><td>–</td></tr>
+<tr><td>7.1</td><td>Finanziamenti di progetti</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td>–</td></tr>
+<tr><td></td><td>Fase non operativa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">130 %</td><td>–</td></tr>
+<tr><td></td><td>Fase operativa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">100 %</td><td>–</td></tr>
+<tr><td></td><td>Finanziamenti di elevata qualità di progetti nella fase operativa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">80 %</td><td>–</td></tr>
+<tr><td>7.2</td><td>Finanziamenti di oggetti</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">100 %</td><td>–</td></tr>
+<tr><td>7.3</td><td>Finanziamenti della negoziazione di materie prime</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">100 %</td><td>–</td></tr>
+<tr><td>8.</td><td>Titoli di credito esteri coperti</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>8.1</td><td>Titoli di credito esteri coperti</td><td>10 %</td><td>10 %</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>100 %</td><td colspan="4"></td><td>–</td></tr>
+<tr><td>8.2</td><td>Fattore di ponderazione del rischio dell’istituto emittente 20 %</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">10 %</td><td>–</td></tr>
+<tr><td>8.3</td><td>Fattore di ponderazione del rischio dell’istituto emittente 30 %</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">15 %</td><td>–</td></tr>
+<tr><td>8.4</td><td>Fattore di ponderazione del rischio dell’istituto emittente 40 %</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">20 %</td><td>–</td></tr>
+<tr><td>8.5</td><td>Fattore di ponderazione del rischio dell’istituto emittente 50 %</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">25 %</td><td>–</td></tr>
+<tr><td>8.6</td><td>Fattore di ponderazione del rischio dell’istituto emittente 75 %</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">35 %</td><td>–</td></tr>
+<tr><td>8.7</td><td>Fattore di ponderazione del rischio dell’istituto emittente 100 %</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">50 %</td><td>–</td></tr>
+<tr><td>8.8</td><td>Fattore di ponderazione del rischio dell’istituto emittente 150 %</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">100 %</td><td>–</td></tr>
+</table>
+
+Allegato 3[^t-5]
+
+(art. 49 cpv. 2 lett. h, 66 cpv. 2, 66*a* cpv. 1, 70 cpv. 5, 71 cpv. 2, 71*a*, 72*c* cpv. 1 e 6 nonché 72*e* cpv. 2)
+
+## Classi di posizione secondo l’AS-BRI senza utilizzo di rating esterni e fattori di ponderazione del rischio
+
+[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+<table>
+<tr><th></th><th>Classi di posizione</th><th>Fattori di ponderazione del rischio</th></tr>
+<tr><td>1.</td><td>Posizioni «retail»</td><td></td></tr>
+<tr><td>1.1</td><td>Posizioni «retail» qualificate</td><td>75 %</td></tr>
+<tr><td>1.2</td><td>Posizioni «retail» qualificate derivanti da impegni relativi alle carte di credito per i quali negli ultimi 12 mesi a ogni data di rimborso prevista è stato saldato interamente l’importo dovuto, o da linee di credito che negli ultimi 12 mesi non sono state utilizzate</td><td>45 %</td></tr>
+<tr><td>1.3</td><td>Altre posizioni nei confronti di persone fisiche</td><td>100 %</td></tr>
+<tr><td>**2.**</td><td>**Obbligazioni fondiarie svizzere**</td><td>10 %</td></tr>
 <tr><td>3.</td><td>Posizioni garantite direttamente o indirettamente da pegno immobiliare</td><td></td></tr>
-<tr><td>3.1</td><td>Immobili d’abitazione in Svizzera e all’estero, fino a due terzi del valore venale</td><td>35 %</td></tr>
-<tr><td>3.2</td><td>Immobili d’abitazione in Svizzera e all’estero, oltre i due terzi e fino all’80 % compreso del valore venale</td><td>75 %</td></tr>
-<tr><td>3.3</td><td>Immobili d’abitazione in Svizzera e all’estero, oltre l’80 % del valore venale</td><td>100 %</td></tr>
-<tr><td>3.4</td><td>Altri immobili e oggetti</td><td>100 %</td></tr>
-</table>
-
-<table>
-<tr><td></td><td>Classi di posizioni (AS-BRI) senza rating esterni</td><td>Aliquota di rischio</td></tr>
-<tr><td></td><td></td><td>AS-BRI</td></tr>
-<tr><td>4.1</td><td>Posizioni postergate nei confronti di enti di diritto pubblico, il cui fattore di ponderazione del rischio secondo l’allegato 2 (AS-BRI) ammonta al massimo al 50 %</td><td>Sono ponderate come le posizioni non postergate</td></tr>
-<tr><td>4.2</td><td>Altre posizioni postergate</td><td></td></tr>
-<tr><td>5.</td><td>Posizioni in sofferenza</td><td></td></tr>
-<tr><td>5.1</td><td>Posizioni ai sensi del numero 3.1, corrette in funzione delle singole rettifiche di valore, fermo restando che le posizioni garantite da pegno immobiliare ai sensi dei numeri 3.2–3.4 sono considerate non collateralizzate</td><td>100 %</td></tr>
-<tr><td>5.2</td><td>Parti di posizioni non collateralizzate, corrette in funzione delle singole rettifiche di valore, sempreché le singole rettifiche ammontino almeno al 20 per cento dell’importo scoperto</td><td>100 %</td></tr>
-<tr><td>5.3</td><td>Parti di posizioni non collateralizzate, corrette in funzione delle singole rettifiche di valore, sempreché le singole rettifiche ammontino a meno del 20 per cento dell’importo scoperto</td><td>150 %</td></tr>
+<tr><td>3.1</td><td>Immobili d’abitazione a uso proprio in Svizzera e all’estero, con un tasso di anticipo:</td><td></td></tr>
+<tr><td></td><td>fino al 50 %</td><td>20 %</td></tr>
+<tr><td></td><td>superiore al 50 %, fino al 60 %</td><td>25 %</td></tr>
+<tr><td></td><td>superiore al 60 %, fino all’80 %</td><td>35 %</td></tr>
+<tr><td></td><td>superiore all’80 %, fino al 90 %</td><td>45 %</td></tr>
+<tr><td></td><td>superiore al 90 %, fino al 100 %</td><td>55 %</td></tr>
+<tr><td></td><td>superiore al 100 %</td><td>75 %</td></tr>
+<tr><td>3.2</td><td>Altri immobili d’abitazione in Svizzera e all’estero, con un tasso di anticipo:</td><td></td></tr>
+<tr><td></td><td>fino al 50 %</td><td>30 %</td></tr>
+<tr><td></td><td>superiore al 50 %, fino al 60 %</td><td>35 %</td></tr>
+<tr><td></td><td>superiore al 60 %, fino al 70 %</td><td>55 %</td></tr>
+<tr><td></td><td>superiore al 70 %, fino all’80 %</td><td>60 %</td></tr>
+<tr><td></td><td>superiore all’80 %, fino al 90 %</td><td>75 %</td></tr>
+<tr><td></td><td>superiore al 90 %, fino al 100 %</td><td>85 %</td></tr>
+<tr><td></td><td>superiore al 100 %</td><td>110 %</td></tr>
+<tr><td>3.3</td><td>Immobili commerciali a uso proprio in Svizzera e all’estero, con un tasso di anticipo: fino al 60 %</td><td>60 % o fattore di ponderazione del rischio della controparte, se inferiore</td></tr>
+<tr><td></td><td>superiore al 60 %</td><td>fattore di ponderazione del rischio della controparte</td></tr>
+<tr><td>3.4</td><td>Altri immobili commerciali in Svizzera e all’estero, con un tasso di anticipo:</td><td></td></tr>
+<tr><td></td><td>fino al 60 %</td><td>70 %</td></tr>
+<tr><td></td><td>superiore al 60 %, fino all’80 %</td><td>100 %</td></tr>
+<tr><td></td><td>superiore all’80 %</td><td>115 %</td></tr>
+<tr><td>**4.**</td><td>**Posizioni postergate**</td><td>150 %</td></tr>
+<tr><td>5.</td><td>Posizioni in stato di default</td><td></td></tr>
+<tr><td>5.1</td><td>Posizioni di cui al numero 3.1, corrette in funzione delle singole rettifiche di valore</td><td>100 %</td></tr>
+<tr><td>5.2</td><td>Parti di posizioni non collateralizzate o non garantite, corrette in funzione delle singole rettifiche di valore, sempreché le singole rettifiche ammontino almeno al 20 % dell’importo scoperto</td><td>100 %</td></tr>
+<tr><td>5.3</td><td>Parti di posizioni non collateralizzate o non garantite, corrette in funzione delle singole rettifiche di valore, sempreché le singole rettifiche ammontino a meno del 20 % dell’importo scoperto</td><td>150 %</td></tr>
 <tr><td>6.</td><td>Altre posizioni</td><td></td></tr>
-<tr><td>6.1</td><td>Liquidità, senza le posizioni di cui al numero 6.2 dell’allegato 2</td><td>0 %</td></tr>
-<tr><td>6.2</td><td>Equivalente di credito da impegni di versamento o di versamento suppletivo</td><td>100 %</td></tr>
-<tr><td>6.3</td><td>Altre posizioni (comprese le posizioni di limitazione dei conti)</td><td>100 %</td></tr>
+<tr><td>6.1</td><td>Oro custodito in casseforti proprie o, se custodito collettivamente presso un’altra banca, coperto da corrispondenti impegni in oro di tale banca</td><td>0 %</td></tr>
+<tr><td>6.2</td><td>Saldo attivo del conto di compensazione</td><td>0 %</td></tr>
+<tr><td>6.3</td><td>Liquidità che si trovano nella procedura di incasso</td><td>20 %</td></tr>
+<tr><td>6.4</td><td>Liquidità, senza le posizioni di cui al numero 6.3</td><td>0 %</td></tr>
+<tr><td>6.5</td><td>Importi delle tre posizioni di cui agli articoli 38 capoverso 2 e 39 capoverso 1 inferiori al limite 3 della franchigia</td><td>250 %</td></tr>
+<tr><td>6.6</td><td>Altre posizioni</td><td>100 %</td></tr>
 </table>
 
-Allegato 4[^t-5]
+Allegato 4[^t-6]
 
-(art. 32 lett. j e 66 cpv. 3)
+(art. 32 cpv. 4, 66 cpv. 3, 73, 148*c* e 148*g*)
 
-## Ponderazione del rischio di titoli di partecipazione e di quote di investimenti collettivi di capitale secondo l’AS-BRI
+## Fattori di ponderazione del rischio di titoli di partecipazione e di altri strumenti partecipativi secondo l’AS-BRI
 
-[^t-5]: Aggiornato dal n. I dell’O del 23 nov. 2016 ([RU 2016 4683](https://fedlex.data.admin.ch/eli/oc/2016/755)) e dal n. II dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^t-6]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
-<tr><th></th><th colspan="3">Classe di posizione titoli di partecipazione nonché quote di investimenti collettivi di capitale</th><th>Aliquota di rischio</th></tr>
-<tr><th></th><th></th><th></th><th></th><th>AS-BRI</th></tr>
-<tr><td>1.1</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1.2</td><td colspan="4">...</td></tr>
-<tr><td>1.3</td><td colspan="4">...</td></tr>
-<tr><td>1.4</td><td>Partecipazioni estranee al settore bancario, finanziario e assicurativo</td><td colspan="2">Sono negoziate in una borsa regolata</td><td></td></tr>
-<tr><td></td><td></td><td colspan="2">Sì</td><td>100 %</td></tr>
-<tr><td></td><td></td><td colspan="2">No</td><td>150 %</td></tr>
-<tr><td>1.5</td><td colspan="3">Partecipazioni nel settore bancario, finanziario e assicurativo, sempreché non siano dedotte dai fondi propri di base di qualità primaria o dai fondi propri di base supplementari o ponderati al 250 per cento conformemente all’articolo 40 capoverso 2</td><td>150 %</td></tr>
-<tr><td>1.6</td><td colspan="3">Nel quadro del calcolo per il singolo istituto, le posizioni lunghe nette, calcolate conformemente all’articolo 52, delle partecipazioni detenute direttamente o indirettamente in imprese attive nel settore finanziario soggette all’obbligo di consolidamento, con sede:</td><td>in Svizzera: 250 %</td></tr>
-<tr><td></td><td colspan="3"></td><td>all’estero: 400 %</td></tr>
-<tr><td>1.7</td><td colspan="3">Nel quadro del calcolo per il singolo istituto, le posizioni lunghe nette, calcolate conformemente all’articolo 52, degli strumenti di capitale prudenziali detenuti direttamente o indirettamente in imprese attive nel settore finanziario soggette all’obbligo di consolidamento, con sede:</td><td>in Svizzera: 250 %</td></tr>
-<tr><td></td><td colspan="3"></td><td>all’estero: 400 %</td></tr>
+<tr><th></th><th>Classi di posizione</th><th>Fattori di ponderazione del rischio</th></tr>
+<tr><td>1.</td><td>Nel quadro del calcolo per il singolo istituto, le posizioni lunghe nette calcolate conformemente all’articolo 52 delle partecipazioni detenute direttamente o indirettamente in imprese attive nel settore finanziario soggette all’obbligo di consolidamento, con sede:</td><td>in Svizzera: 250 %</td></tr>
+<tr><td></td><td></td><td>all’estero: 400 %</td></tr>
+<tr><td>2.</td><td>Nel quadro del calcolo per il singolo istituto, le posizioni lunghe nette calcolate conformemente all’articolo 52 degli strumenti di capitale prudenziali detenuti direttamente o indirettamente in imprese attive nel settore finanziario soggette all’obbligo di consolidamento, con sede:</td><td>in Svizzera: 250 %</td></tr>
+<tr><td></td><td></td><td>all’estero: 400 %</td></tr>
+<tr><td>3.</td><td>Strumenti partecipativi di imprese non quotate in borsa detenuti ai fini della rivendita a breve termine, nonché capitale di rischio e investimenti analoghi, il cui valore oscilla e in cui si è investito in attesa di futuri utili rilevanti</td><td>400 %</td></tr>
+<tr><td>4.</td><td>Altri strumenti partecipativi</td><td>250 %</td></tr>
+<tr><td>5.</td><td>Quote degli strumenti partecipativi che superano uno dei limiti massimi di cui all’articolo 4 capoverso 4 LBCR (art. 13 lett. c)</td><td>1250 %</td></tr>
 </table>
 
-Allegato 5
+Allegato 4a[^t-7]
+
+(art. 77*d* cpv. 2)
+
+## Fondi propri minimi per i contributi al fondo di garanzia di controparti centrali qualificate
+
+[^t-7]: Introdotto dal n. II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+I fondi propri minimi per i contributi di una banca quale membro compensatore di una controparte centrale qualificata al fondo di garanzia si calcolano secondo la formula seguente:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image1.png)
+
+Legenda:
+
+***K******<sub>CCP</sub>****:* fondi propri minimi ipotetici della controparte centrale qualificata corrispondenti al rischio di credito della controparte nei confronti di tutti i membri compensatori e dei clienti dei membri compensatori;
+
+***DF******<sub>CCP</sub>****:* fondi propri prefinanziati della controparte centrale qualificata, come i fondi propri che contribuiscono al fondo di garanzia o gli utili non distribuiti che devono essere utilizzati dalla controparte centrale qualificata per coprire le perdite dovute all’inadempienza dei membri compensatori e che sono di pari rango o di rango posteriore rispetto ai contributi prefinanziati al fondo di garanzia dei membri compensatori;
+
+***DF******<sub>CM</sub>****:* il totale dei contributi prefinanziati di tutti i membri compensatori al fondo di garanzia;
+
+***DF****:* il contributo prefinanziato della banca al fondo di garanzia;
+
+***K******<sub>CCP</sub>***, ***DF******<sub>CCP</sub>*** e ***DF******<sub>CM</sub>****:* importi calcolati dalla controparte centrale o da un’autorità competente conformemente ai numeri 54.24–54.39 CRE[^annex4a-lvlu1-1].
+
+[^annex4a-lvlu1-1]: Lo standard CRE è riportato nell’all. 1 n. 4.
+
+Allegato 5[^t-8]
 
 (art. 84 cpv. 1)
 
-## Aliquote per il calcolo dei fondi propri minimi richiesti per la copertura del rischio specifico degli strumenti su saggi di interesse secondo l’approccio standard dei rischi di mercato
+## Aliquote per il calcolo dei fondi propri richiesti per la copertura del rischio specifico di tasso d’interesse secondo l’approccio standard semplice dei rischi di mercato
+
+[^t-8]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
-<tr><td>Categoria</td><td>Classe di rating</td><td>Aliquota</td></tr>
-<tr><td>Governi centrali e banche centrali</td><td>1 o 2</td><td>0.00 %</td></tr>
-<tr><td></td><td>3 o 4</td><td>0.25 % (durata residua &lt; 6 mesi)</td></tr>
-<tr><td></td><td></td><td>1.00 % (durata residua &gt; 6 mesi e &lt; 24 mesi)</td></tr>
-<tr><td></td><td></td><td>1.60 % (durata residua &gt; 24 mesi)</td></tr>
-<tr><td></td><td>5 o 6</td><td>8.00 %</td></tr>
-<tr><td></td><td>7</td><td>12.00 %</td></tr>
-<tr><td></td><td>Senza rating</td><td>8.00 %</td></tr>
-<tr><td>Strumenti qualificati su saggi di interesse (art. 4 lett. g)</td><td></td><td>0.25 % (durata residua &lt; 6 mesi)</td></tr>
-<tr><td></td><td></td><td>1.00 % (durata residua &gt; 6 mesi e &lt; 24 mesi)</td></tr>
-<tr><td></td><td></td><td>1.60 % (durata residua &gt; 24 mesi)</td></tr>
-<tr><td>Altri</td><td>5</td><td>8.00 %</td></tr>
-<tr><td></td><td>6 o 7</td><td>12.00 %</td></tr>
-<tr><td></td><td>Senza rating</td><td>8.00 %</td></tr>
+<tr><th>Categoria</th><th>Classe di rating</th><th>Durata residua</th><th>Aliquota</th></tr>
+<tr><td>Governi centrali e banche centrali</td><td>1 o 2</td><td></td><td>0,00 %</td></tr>
+<tr><td></td><td>3 o 4</td><td>&lt; 6 mesi</td><td>0,25 %</td></tr>
+<tr><td></td><td></td><td>&gt; 6 mesi e &lt; 24 mesi</td><td>1,00 %</td></tr>
+<tr><td></td><td></td><td>&gt; 24 mesi</td><td>1,60 %</td></tr>
+<tr><td></td><td>5 o 6</td><td></td><td>8,00 %</td></tr>
+<tr><td></td><td>7</td><td></td><td>12,00 %</td></tr>
+<tr><td></td><td>Senza rating</td><td></td><td>8,00 %</td></tr>
+<tr><td>Strumenti qualificati su tassi d’interesse</td><td></td><td>&lt; 6 mesi</td><td>0,25 %</td></tr>
+<tr><td></td><td></td><td>&gt; 6 mesi e &lt; 24 mesi</td><td>1,00 %</td></tr>
+<tr><td></td><td></td><td>&gt; 24 mesi</td><td>1,60 %</td></tr>
+<tr><td>Altri</td><td>5</td><td></td><td>8,00 %</td></tr>
+<tr><td></td><td>6 o 7</td><td></td><td>12,00 %</td></tr>
+<tr><td></td><td>Senza rating</td><td></td><td>8,00 %</td></tr>
 </table>
+
+Allegato 5a[^t-9]
+
+(art. 92 cpv. 2–4 e 92*d* cpv. 1)
+
+## Rischi operativi: approccio di calcolo
+
+[^t-9]: Introdotto dal n. II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+La sopralineatura indica che la relativa sottocomponente deve essere calcolata come media dei tre anni precedenti. Gli importi assoluti (Ias) vanno rilevati dapprima per ogni anno singolarmente e poi calcolati come media triennale.
+
+- **1.** **Componente di interessi e dividendi (ILDC)**
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image2.png)
+
+- **2.** **Componente dei servizi (SC)**
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image3.png)
+
+- **3.** **Componente finanziaria (FC)**
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image4.png)
+
+- **4.** **Moltiplicatore delle perdite interne (ILM)**
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image5.png)
+
+Legenda:
+
+LC: componente di perdita BIC: componente dell’indicatore di attività
 
 Allegato 6
 
@@ -2778,50 +4047,49 @@ Allegato 6
 
 [^annex6-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629).
 
-Allegato 7[^t-6]
+Allegato 7[^t-10]
 
-(art. 44 cpv. 2)
+(art. 44 cpv. 2 e 148*e*)
 
 ## Cuscinetto anticiclico
 
-[^t-6]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Nuovo testo giusta il n. II dell’O del 26 gen. 2022, in vigore dal 30 set. 2022 ([RU 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
+[^t-10]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-- 1\. Le banche sono obbligate a detenere, sotto forma di fondi propri di base di qualità primaria, un cuscinetto anticiclico su posizioni di credito garantite direttamente o indirettamente da pegno immobiliare per immobili d’abitazione in Svizzera secondo l’articolo 72.
-- 2\. Il cuscinetto ammonta al 2,5 per cento delle posizioni di credito ponderate in funzione del rischio.
-- 3\. Il cuscinetto anticiclico si applica dal 30 settembre 2022 e la sua validità durerà fino all’abrogazione o alla modifica del presente allegato.
+- 1\. Le banche sono obbligate a detenere un cuscinetto anticiclico sotto forma di fondi propri di base di qualità primaria per le posizioni di credito garantite direttamente o indirettamente da pegno immobiliare per immobili d’abitazione in Svizzera secondo l’articolo 72.
+- 2\. Il cuscinetto ammonta al 2,5 per cento delle posizioni di credito di cui al numero 1 ponderate in funzione del rischio. Per le banche che applicano l’IRB per calcolare i fondi propri minimi relativi ai rischi di credito, le posizioni di credito ponderate in funzione del rischio corrispondono alle posizioni di credito ponderate secondo l’IRB, ma almeno al 72,5 per cento delle posizioni di credito ponderate secondo l’AS-BRI.
 
-Allegato 8[^t-7]
+Allegato 8[^t-11]
 
-(art. 43 cpv. 1)
+(art. 20 cpv. 4 lett. a e 43 cpv. 1)
 
-## Fondi propri minimi, cuscinetto di fondi propri e quota complessiva di fondi propri
+## Fondi propri minimi e cuscinetto di fondi propri
 
-[^t-7]: Introdotto dal n. II dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^t-11]: Introdotto dal n. II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-(in % delle posizioni ponderate in funzione del rischio)
+in % dell’insieme delle posizioni ponderate in funzione del rischio secondo l’articolo 42*b*
 
 <table>
-<tr><td>Categoria secondo l’allegato 3 OBCR[^annex8-lvlu1-1]</td><td>1 e 2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>Fondi propri minimi</td><td colspan="4">8,0 %</td></tr>
-<tr><td>– di cui CET1</td><td colspan="4">4,5 %</td></tr>
-<tr><td>– di cui AT1 o esigenze qualitative più elevate</td><td colspan="4">1,5 %</td></tr>
-<tr><td>– di cui T2 o esigenze qualitative più elevate</td><td colspan="4">2,0 %</td></tr>
-<tr><td>Cuscinetto di fondi propri</td><td>4,8 %</td><td>4,0 %</td><td>3,2 %</td><td>2,5 %</td></tr>
-<tr><td>– di cui CET1</td><td>3,7 %</td><td>3,3 %</td><td>2,9 %</td><td>2,5 %</td></tr>
-<tr><td>– di cui AT1 o esigenze qualitative più elevate</td><td>0,5 %</td><td>0,3 %</td><td>0,1 %</td><td>–</td></tr>
-<tr><td>– di cui T2 o esigenze qualitative più elevate</td><td>0,6 %</td><td>0,4 %</td><td>0,2 %</td><td>–</td></tr>
-<tr><td>Quota complessiva di fondi propri</td><td>12,8 %</td><td>12,0 %</td><td>11,2 %</td><td>10,5 %</td></tr>
+<tr><th>Categoria secondo l’allegato 3 OBCR[^annex8-lvlu1-1]</th><th>1 e 2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><td>**Fondi propri minimi**</td><td colspan="4">8,0 %</td></tr>
+<tr><td>– di cui fondi propri di base di qualità primaria</td><td colspan="4">4,5 %</td></tr>
+<tr><td>– di cui fondi propri di base supplementari o esigenze qualitative più elevate</td><td colspan="4">1,5 %</td></tr>
+<tr><td>– di cui fondi propri complementari o esigenze qualitative più elevate</td><td colspan="4">2,0 %</td></tr>
+<tr><td>**Cuscinetto di fondi propri**</td><td>4,8 %</td><td>4,0 %</td><td>3,2 %</td><td>2,5 %</td></tr>
+<tr><td>– di cui fondi propri di base di qualità primaria</td><td>3,7 %</td><td>3,3 %</td><td>2,9 %</td><td>2,5 %</td></tr>
+<tr><td>– di cui fondi propri di base supplementari o esigenze qualitative più elevate</td><td>0,5 %</td><td>0,3 %</td><td>0,1 %</td><td>–</td></tr>
+<tr><td>– di cui fondi propri complementari o esigenze qualitative più elevate</td><td>0,6 %</td><td>0,4 %</td><td>0,2 %</td><td>–</td></tr>
+<tr><td>**Fondi propri minimi + cuscinetto di fondi propri**</td><td>12,8 %</td><td>12,0 %</td><td>11,2 %</td><td>10,5 %</td></tr>
 </table>
 
-[^annex8-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^annex8-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
-Allegato 9[^t-8]
+Allegato 9[^t-12]
 
 (art. 129)
 
 ## Supplementi
 
-[^t-8]: Introdotto dal n. II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Aggiornato dal n. II dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^t-12]: Introdotto dal n. II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Aggiornato dal n. II dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 ### 1 Supplementi per la quota di mercato
 
