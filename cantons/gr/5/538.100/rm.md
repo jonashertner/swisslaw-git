@@ -3,37 +3,37 @@ canton: GR
 number: "538.100"
 title: "Lescha davart l'appaschentaziun da dispitas collectivas da lavur"
 language: rm
-version: 2011-01-01
-corrected: 2014-10-19
-version_adopted: 2010-06-16
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1957-04-07
 in_force: 1958-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/538.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1206/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3404/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha davart l'appaschentaziun da dispitas collectivas da lavur
 
-acceptada dal pievel ils 7 d'avrigl 1957[^t-1]
+dals 07-04-1957 (versiun dals 01-01-2025)
 
-I. Incumbensa e cumpetenza da l'uffizi chantunal da mediaziun
+acceptada dal pievel ils 7 d'avrigl 1957[^ingress-1]
 
-[^t-1]: M dals 8 d'october 1956, 339; PCG 1956, 427 1-1-2011 1
+[^ingress-1]: M dals 8 d'october 1956, 339; PCG 1956, 427
+
+## 1. Incumbensa e cumpetenza da l'uffizi chantunal da mediaziun
 
 #### Art. 1
 
 **Incumbensa**
 
-Dispitas collectivas da lavur ha l'uffizi da mediaziun d'appaschentar tras mediaziun (procedura da reconciliaziun) u tras sentenzia da cumpromiss (procedura da cumpromiss).
+<sup>1</sup> Dispitas collectivas da lavur ha l'uffizi da mediaziun d'appaschentar tras mediaziun (procedura da reconciliaziun) u tras sentenzia da cumpromiss (procedura da cumpromiss).
 
 #### Art. 2
 
 **Noziun da la dispita collectiva da lavur**
 
-Sco dispita collectiva da lavur en il senn da questa lescha vala mintga dispita davart la relaziun da lavur tranter ina u pliras patrunas respectivamain tranter in u plirs patruns d'ina vart e d'ina part considerabla da lavurantas respectivamain da lavurants d'in manaschi, d'ina partiziun da manaschi u d'ina gruppa professiunala da l'autra vart.
+<sup>1</sup> Sco dispita collectiva da lavur en il senn da questa lescha vala mintga dispita davart la relaziun da lavur tranter ina u pliras patrunas respectivamain tranter in u plirs patruns d'ina vart e d'ina part considerabla da lavurantas respectivamain da lavurants d'in manaschi, d'ina partiziun da manaschi u d'ina gruppa professiunala da l'autra vart.
 
 #### Art. 3
 
@@ -47,7 +47,7 @@ Sco dispita collectiva da lavur en il senn da questa lescha vala mintga dispita 
 
 <sup>4</sup> La funcziun da l'uffizi da mediaziun sco dretgira da cumpromiss premetta ina dumonda en scrit correspundenta da domaduas partidas, en la quala ellas decleran expressivamain d'acceptar la sentenzia da cumpromiss.
 
-### II. Organisaziun da l'uffizi da mediaziun
+## 2. Organisaziun da l'uffizi da mediaziun
 
 #### Art. 4
 
@@ -73,19 +73,17 @@ Sco dispita collectiva da lavur en il senn da questa lescha vala mintga dispita 
 
 <sup>2</sup> La parsura respectivamain il parsura rapportescha annualmain a la regenza davart l'activitad da l'uffizi da mediaziun.
 
-### III. Procedura da reconciliaziun
+## 3. Procedura da reconciliaziun
 
 #### Art. 6
 
 **Introducziun**
 
-<sup>1</sup>[^6-1]La parsura respectivamain il parsura introducescha la procedura da reconciliaziun sin dumonda en scrit d'ina partida u eventualmain da sasez. Ella respectivamain el examinescha l'emprim la cumpetenza da l'uffizi da mediaziun. Cunter sia decisiun en quel reguard po vegnir fatg recurs administrativ tar la regenza. La decisiun da la regenza è definitiva.
+<sup>1</sup> La parsura respectivamain il parsura introducescha la procedura da reconciliaziun sin dumonda en scrit d'ina partida u eventualmain da sasez. Ella respectivamain el examinescha l'emprim la cumpetenza da l'uffizi da mediaziun. Cunter sia decisiun en quel reguard po vegnir fatg recurs administrativ tar la regenza. La decisiun da la regenza è definitiva.
 
 <sup>2</sup> La parsura respectivamain il parsura emprova l'emprim da sasez d'appaschentar la dispita a la buna.
 
 <sup>3</sup> Sche l'emprova fa naufragi, suttametta ella respectivamain el immediatamain il cas a l'uffizi da mediaziun che po tschertgar anc ina giada dad arrivar ad ina conciliaziun a la buna.
-
-[^6-1]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3317; entrà en vigur il 1. da schaner 2007 2 1-1-2011
 
 #### Art. 7
 
@@ -95,7 +93,7 @@ Sco dispita collectiva da lavur en il senn da questa lescha vala mintga dispita 
 
 <sup>2</sup> Protestas cunter la cooperaziun d'ina commembra respectivamain d'in commember da l'uffizi da mediaziun decida la regenza.
 
-[^7-1]: art. 10 ss. PC, DG 320.000
+[^7-1]: art. 10 ss. PC, DG [320.000](https://www.gr-lex.gr.ch/data/320.000/rm)
 
 #### Art. 8
 
@@ -123,9 +121,7 @@ Sco dispita collectiva da lavur en il senn da questa lescha vala mintga dispita 
 
 <sup>1</sup> Per sclerir ils fatgs è l'uffizi da mediaziun autorisà da pretender documents, d'interrogar perditgas, da consultar expertas respectivamain experts e d'ordinar inspecziuns ocularas.
 
-<sup>2</sup> En quest connex valan las prescripziuns da la procedura civila[^10-1] confurm al senn.
-
-[^10-1]: DG 320.000 1-1-2011 3
+<sup>2</sup> En quest connex valan las prescripziuns da la procedura civila ) confurm al senn.
 
 #### Art. 11
 
@@ -149,29 +145,23 @@ Sco dispita collectiva da lavur en il senn da questa lescha vala mintga dispita 
 
 **Obligaziun da discreziun**
 
-La parsura respectivamain il parsura, las assessuras respectivamain ils assessurs e l'actuara respectivamain l'actuar sco er las expertas respectivamain ils experts han da mantegnair discreziun davart las percepziuns – che ston vegnir tractadas en moda discreta segund lur natira – ch'ellas respectivamain ch'els han fatg exequind lur obligaziuns.
-
-[^13-1]: versiun tenor la cifra 5 da l'agiunta tar la LItCPC, FUC 2010, 2508; entrà en vigur il 1. da schaner 2011 4 1-1-2011
+<sup>1</sup> La parsura respectivamain il parsura, las assessuras respectivamain ils assessurs e l'actuara respectivamain l'actuar sco er las expertas respectivamain ils experts han da mantegnair discreziun davart las percepziuns – che ston vegnir tractadas en moda discreta segund lur natira – ch'ellas respectivamain ch'els han fatg exequind lur obligaziuns.
 
 #### Art. 14
 
-**Meds legals**[^13-1]
+**Meds legals**
 
-**Sancziuns en cas da violaziun**
+<sup>1</sup> Cunter il cuntegn da la proposta da mediaziun na poi betg vegnir recurrì. Cunter disposiziuns da l'Uffizi da mediaziun sco instanza d'intermediaziun poi, sch'ina violaziun da la lescha vegn fatga valair, vegnir recurrì tar la Dretgira superiura, e quai cun recurs tenor il Cudesch da procedura civila[^14-1].
 
-Cunter il cuntegn da la proposta da mediaziun na poi betg vegnir recurrì. Cunter disposiziuns da l'uffizi da mediaziun sco instanza d'intermediaziun poi, sch'ina violaziun da la lescha vegn fatga valair, vegnir recurrì tar la dretgira chantunala, e quai cun recurs tenor il cudesch da procedura civila[^14-1].
+[^14-1]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 
-[^14-1]: CS 272
-
-### IV. Procedura da cumpromiss
-
-[^hIVProceduradacum-1]: versiun tenor la cifra 5 da l'agiunta tar la LItCPC, FUC 2010, 2508; entrà en vigur il 1. da schaner 2011
+## 4. Procedura da cumpromiss
 
 #### Art. 15
 
-**Renviaments da procedura**[^hIVProceduradacum-1]
+**Renviaments da procedura**
 
-Las prescripziuns davart la procedura da reconciliaziun valan confurm al senn er per la procedura da cumpromiss. Applitgablas en moda subsidiara èn las normas dal cudesch da procedura civila.
+<sup>1</sup> Las prescripziuns davart la procedura da reconciliaziun valan confurm al senn er per la procedura da cumpromiss. Applitgablas en moda subsidiara èn las normas dal cudesch da procedura civila.
 
 #### Art. 16
 
@@ -179,12 +169,11 @@ Las prescripziuns davart la procedura da reconciliaziun valan confurm al senn er
 
 <sup>1</sup> Empè d'ina procedura da reconciliaziun u suenter in'emprova da mediaziun senza success pronunzia l'uffizi da mediaziun, sco dretgira da cumpromiss, cun il consentiment da domaduas partidas, ed en il rom da sias cumpetenzas ina sentenzia da cumpromiss lianta.
 
-<sup>2</sup>[^16-1]La sentenzia da cumpromiss motivada vegn communitgada a las partidas en scrit ed è – cun resalva dal recurs tenor il cudesch da procedura civila[^16-2] – definitiva.
+<sup>2</sup> La sentenzia da cumpromiss motivada vegn communitgada a las partidas en scrit ed è – cun resalva dal recurs tenor il cudesch da procedura civila[^16-1] – definitiva.
 
-[^16-1]: versiun tenor la cifra 5 da l'agiunta tar la LItCPC, FUC 2010, 2508; entrà en vigur il 1. da schaner 2011
-[^16-2]: CS 272 1-1-2011 5
+[^16-1]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 
-### V. Obligaziun da mantegnair la pasch
+## 5. Obligaziun da mantegnair la pasch
 
 #### Art. 17
 
@@ -198,27 +187,23 @@ Las prescripziuns davart la procedura da reconciliaziun valan confurm al senn er
 
 #### Art. 18
 
+**Sancziuns en cas da violaziun**
+
 <sup>1</sup> Sche l'obligaziun da mantegnair la pasch vegn violada, appellescha l'uffizi da mediaziun a las culpaivlas respectivamain als culpaivels da desister immediatamain da lur cumportament. Sche quellas respectivamain quels na suondan betg l'appel entaifer in temp util, infurmescha l'uffizi da mediaziun en moda cunvegnenta la publicitad davart ils fatgs.
 
 <sup>2</sup> L'obligaziun da mantegnair la pasch sin basa da questa lescha vala independentamain d'ina obligaziun da mantegnair la pasch ch'è eventualmain vegnida fixada en in contract. Er restan resalvadas las consequenzas da dretg civil, sche l'obligaziun legala e contractuala da mantegnair la pasch vegn violada.
 
-[^18-1]: versiun tenor la cifra 10 da l'agiunta tar la LItCPP, FUC 2010, 2435; entrà en vigur il 1. da schaner 2011
-
-### VI. Disposiziuns finalas
-
-[^18-1]
-
-[^hVIDisposiziunsfin-1]: abolì tenor la cifra 10 da l'agiunta tar la LItCPP, FUC 2010, 2435; entrà en vigur il 1. da schaner 2011
+## 6. Disposiziuns finalas
 
 #### Art. 19
 
-[^hVIDisposiziunsfin-1]
+**…**
 
 #### Art. 20
 
 **Entrada en vigur**
 
-La regenza fixescha il termin da l'entrada en vigur[^20-1] da questa lescha.
+<sup>1</sup> La regenza fixescha il termin da l'entrada en vigur[^20-1] da questa lescha.
 
 [^20-1]: messa en vigur cun CR dal 1. da november 1957 per il 1. da schaner 1958
 
@@ -226,7 +211,9 @@ La regenza fixescha il termin da l'entrada en vigur[^20-1] da questa lescha.
 
 **Dretg abolì**
 
-La lescha dals 27 da matg 1908 davart la procedura da reconciliaziun e davart mesiras cunter acts da violenza en cas da dispitas collectivas tranter patruns e lavurants[^21-1] sco er l'ordinaziun dals 27 da november 1922 davart l'uffizi chantunal da mediaziun[^21-2] vegnan abolidas cun l'entrada en vigur da questa lescha.
+<sup>1</sup> La lescha dals 27 da matg 1908 davart la procedura da reconciliaziun e davart mesiras cunter acts da violenza en cas da dispitas collectivas tranter patruns e lavurants[^21-1] sco er l'ordinaziun dals 27 da november 1922 davart l'uffizi chantunal da mediaziun[^21-2] vegnan abolidas cun l'entrada en vigur da questa lescha.
 
 [^21-1]: CUL VI, 695
-[^21-2]: CUL VII, 30 6 1-1-2011
+[^21-2]: CUL VII, 30
+
+-
