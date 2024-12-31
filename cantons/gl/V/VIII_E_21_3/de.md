@@ -2,24 +2,23 @@
 canton: GL
 number: VIII E/21/3
 title: Gesetz über die öffentliche Sozialhilfe
-short: Sozialhilfegesetz
+short: Sozialhilfegesetz; SHG
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-09-05
+version: 2025-01-01
+version_adopted: 2024-05-05
 adopted: 1995-05-07
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-E.21.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2377/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2505/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die öffentliche Sozialhilfe
 
-(Sozialhilfegesetz)
+(Sozialhilfegesetz; SHG)
 
-Vom 07.05.1995 (Stand 01.01.2023)
+Vom 07.05.1995 (Stand 01.01.2025)
 
 Die Landsgemeinde,
 
@@ -61,7 +60,7 @@ beschliesst:
 
 <sup>2</sup> Die Sozialhilfe ist nur so lange zu gewähren, bis die Hilfesuchenden wirtschaftlich und sozial wieder selbstständig sind.
 
-<sup>3</sup> Sie umfasst die Sicherung einer menschenwürdigen Existenz der Hilfe suchenden, unabhängig von den Ursachen der Notlage, von Alter, Geschlecht, Religion oder Staatsangehörigkeit.
+<sup>3</sup> Sie umfasst die Sicherung einer menschenwürdigen Existenz, unabhängig von den Ursachen der Notlage, von Alter, Geschlecht, Religion oder Staatsangehörigkeit.
 
 #### Art. 4
 
@@ -131,7 +130,7 @@ beschliesst:
 
 **Ansprüche unterstützter Personen**
 
-<sup>1</sup> Stehen der unterstützten Person Ansprüche gegenüber Dritten zu, so gelten diese im Umfang der für sie erbrachten Leistungen als an die Gemeinde abgetreten. Artikel 26 Absätze 2–4 gelten sinngemäss.
+<sup>1</sup> Stehen der unterstützten Person Ansprüche gegenüber Dritten zu, so gelten diese im Umfang der für sie erbrachten Leistungen als an den Kanton abgetreten. Artikel 26 Absätze 2–4 gelten sinngemäss.
 
 #### Art. 7–8
 
@@ -151,17 +150,19 @@ beschliesst:
 
 **Zuständiges Departement**
 
-<sup>1</sup> Das zuständige Departement übt die Aufsicht über Heime und heimähnliche Einrichtungen aus, insbesondere über Alters-, Pflege- und Behindertenheime. Vorbehalten bleiben die Zuständigkeiten gemäss der Bildungs- und der Gesundheitsgesetzgebung.
+<sup>1</sup> Der Regierungsrat bezeichnet das für die Aufsicht über Heime und heimähnliche Einrichtungen zuständige Departement.
 
-<sup>2</sup> Es beaufsichtigt den Vollzug der Sozialhilfe und ist Beschwerdeinstanz gemäss Artikel 54.
+<sup>2</sup> Das zuständige Departement beaufsichtigt den Vollzug der Sozialhilfe und ist Beschwerdeinstanz gemäss Artikel 54.
+
+<sup>3</sup> Vorbehalten bleiben die Zuständigkeiten gemäss der Bildungs-, der Gesundheits- und der Pflege- und Betreuungsgesetzgebung.
 
 #### Art. 12
 
-**Stützpunkte, Vollzugsorgane**
+**Vollzugsorgane**
 
-<sup>1</sup> In jeder Gemeinde besteht ein Stützpunkt zur Erbringung eines Grundangebots der öffentlichen Sozialhilfe. Das zuständige Departement bestimmt dieses Grundangebot.
+<sup>1</sup> …
 
-<sup>2</sup> Der Regierungsrat bezeichnet die Vollzugsorgane in der Zentralverwaltung und in den Stützpunkten.
+<sup>2</sup> Der Regierungsrat bezeichnet die Vollzugsorgane.
 
 #### Art. 13
 
@@ -199,17 +200,19 @@ beschliesst:
 
 ## 3. Sozialhilfeleistungen
 
-### 3.1. Vorbeugende Massnahmen
+### 3.1. Präventive Massnahmen
 
 #### Art. 17
 
-**Vorbeugende Hilfe**
+**Präventive Hilfe**
 
-<sup>1</sup> Die vorbeugende Hilfe dient zur Abwendung sozialer Notlagen sowie zur Bekämpfung der Ursachen derselben.
+<sup>1</sup> Die präventive Hilfe dient zur Abwendung sozialer Notlagen sowie zur Bekämpfung der Ursachen derselben.
 
-<sup>2</sup> Die vorbeugende Hilfe erfolgt durch Information, Beratung oder Schulung, durch allgemeine Öffentlichkeitsarbeit sowie durch Beiträge.
+<sup>2</sup> Die präventive Hilfe erfolgt durch aufsuchende Sozialarbeit in den Gemeinden, Information, Beratung oder Schulung, durch allgemeine Öffentlichkeitsarbeit sowie durch Beiträge.
 
-<sup>3</sup> Der Kanton koordiniert die vorbeugende Hilfe der öffentlichen und privaten Organisationen.
+<sup>3</sup> Der Kanton koordiniert die präventive Hilfe der öffentlichen und privaten Organisationen.
+
+<sup>4</sup> Der Kanton und die Gemeinden fördern präventive Massnahmen im Rahmen ihrer Zuständigkeiten.
 
 #### Art. 18
 
@@ -223,7 +226,7 @@ beschliesst:
 
 <sup>1</sup> Wer sich in einer Notlage befindet, kann bei der zuständigen Sozialhilfestelle um persönliche Hilfe nachsuchen.
 
-<sup>2</sup> Die zuständige Stelle gewährt die persönliche Hilfe selbst oder vermittelt die Dienstleistungen anderer öffentlicher oder privater Institutionen.
+<sup>2</sup> Diese gewährt die persönliche Hilfe selbst oder vermittelt die Dienstleistungen anderer öffentlicher oder privater Institutionen.
 
 <sup>3</sup> Die persönliche Hilfe ist durch geeignetes Personal zu erbringen. Sie ist in der Regel an kein bestimmtes Verfahren gebunden und kostenlos, sofern keine speziellen Behandlungen und Abklärungen durch Dritte notwendig sind.
 
@@ -291,7 +294,7 @@ beschliesst:
 
 <sup>2</sup> Art und Dauer der Unterbringung, Betreuung und Zugang zum Arbeitsmarkt bestimmen sich aufgrund des Verfahrensstands, des Status sowie des Verhaltens der betreffenden Person.
 
-<sup>3</sup> Die um Sozial- und Nothilfe ansuchenden ausländischen Personen haben insbesondere ihren Mitwirkungspflichten im Asylverfahren nach zukommen und die Anordnungen der zuständigen Behörden zu befolgen.
+<sup>3</sup> Die um Sozial- und Nothilfe ansuchenden ausländischen Personen haben insbesondere ihren Mitwirkungspflichten im Asylverfahren nachzukommen und die Anordnungen der zuständigen Behörden zu befolgen.
 
 <sup>4</sup> Der Regierungsrat erlässt die nötigen Ausführungsvorschriften, namentlich über die Zuständigkeiten, die Platzierung, die Unterbringung und Betreuung, die Gesundheitsversorgung, die Ausbildung und Beschäftigung sowie den Zugang zum Arbeitsmarkt.
 
@@ -385,7 +388,7 @@ beschliesst:
 
 <sup>1</sup> Die Unterstützungspflicht von Verwandten unterstützter Personen richtet sich nach den Bestimmungen des ZGB.
 
-<sup>2</sup> Der Kanton kann den Anspruch auf Unterstützung bei den Verwandten geltend machen. In Bezug auf die ungedeckten Kosten der stationären Betreuung in Alters- und Pflegeheimen steht diese Befugnis der pflichtigen Gemeinde (Art. 6a) zu; die Gemeinden können dem Kanton entsprechende Mandate erteilen. Die Auswirkungen auf die Betroffenen sind jeweils angemessen zu berücksichtigen.
+<sup>2</sup> Der Kanton kann den Anspruch auf Unterstützung bei den Verwandten geltend machen. Die Auswirkungen auf die Betroffenen sind jeweils angemessen zu berücksichtigen.
 
 <sup>3</sup> In Streitfällen ist Klage beim nach Artikel 329 ZGB zuständigen Gericht einzureichen.
 
@@ -405,9 +408,9 @@ beschliesst:
 
 **Geltendmachung des Anspruchs, Verjährung**
 
-<sup>1</sup> Rückerstattungen sind mittels anfechtbarer Verfügung geltend zu machen.
+<sup>1</sup> Rückerstattungsforderungen sind mit anfechtbarer Verfügung geltend zu machen.
 
-<sup>2</sup> Rückerstattungsforderungen unterliegen keiner Zinspflicht, ausgenommen bei unrechtmässigem Bezug.
+<sup>2</sup> Sie unterliegen keiner Zinspflicht, ausgenommen bei unrechtmässigem Bezug.
 
 <sup>3</sup> Der Rückerstattungsanspruch erlischt gegenüber der unterstützten Person innert 15 Jahren, gegenüber den Erben innert 20 Jahren seit dem letzten Bezug der Hilfe.
 
@@ -443,7 +446,7 @@ beschliesst:
 
 <sup>2</sup> Diese Stelle leistet auf Gesuch hin bei der Vollstreckung des Unterhaltsanspruches in geeigneter Weise Inkassohilfe (Art. 131 Abs. 1 und 290 ZGB).
 
-<sup>3</sup> Sie richtet auf begründetes Gesuch hin der erziehungsberechtigten Person Vorschüsse für den Unterhalt des Kindes aus, wenn Vater oder Mutter oder beide ihrer Unterhaltspflicht nicht nachkommen (Art. 293 Abs. 2 ZGB).
+<sup>3</sup> Sie richtet auf begründetes Gesuch hin Vorschüsse für den Unterhalt des Kindes aus, wenn Vater oder Mutter oder beide ihrer Unterhaltspflicht nicht nachkommen (Art. 293 Abs. 2 ZGB).
 
 <sup>4</sup> Der Landrat erlässt eine Verordnung über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen[^36-1]. Er regelt insbesondere Gegenstand, Umfang, Voraussetzungen, Verfahren, Kostentragung und Gebührenerhebung.
 
@@ -517,21 +520,21 @@ beschliesst:
 
 **Wirtschaftliche Hilfe**
 
-<sup>1</sup> Der Kanton sorgt für rasche und genügende Sozialhilfe für suchtgefährdete und suchtkranke Hilfesuchende und ihre Angehörigen. Er kann mit aussen stehenden Beratungsstellen zusammenarbeiten.
+<sup>1</sup> Der Kanton sorgt für rasche und genügende Sozialhilfe für suchtgefährdete und suchtkranke Hilfesuchende und ihre Angehörigen. Er kann mit aussenstehenden Beratungsstellen zusammenarbeiten.
 
-<sup>2</sup> Der Kanton trägt die Kosten für anerkannte ambulante und stationäre Entzugsbehandlungen, Entzugstherapien und Nachbehandlungen, soweit sie von den Suchterkrankten nicht selber getragen werden können.
+<sup>2</sup> Der Kanton trägt auf Gesuch hin die Kosten für anerkannte ambulante und stationäre Entzugsbehandlungen, Entzugstherapien und Nachbehandlungen, soweit sie von den Suchterkrankten nicht selber getragen werden können.
 
 #### Art. 41
 
 **Beratung, Betreuung, Beiträge**
 
-<sup>1</sup> Der Kanton koordiniert die Tätigkeiten der Suchthilfe mit aussen stehenden Beratungsstellen. Er arbeitet dabei mit anderen Kantonen zusammen.
+<sup>1</sup> Der Kanton koordiniert die Tätigkeiten der Suchthilfe mit aussenstehenden Beratungsstellen. Er arbeitet dabei mit anderen Kantonen zusammen.
 
 <sup>2</sup> Der Kanton betreibt Beratungs- und Betreuungseinrichtungen für Suchterkrankte oder Suchtgefährdete. Er kann diese Aufgaben gemeinnützigen Institutionen übertragen.
 
-<sup>3</sup> Der Kanton kann öffentlichen oder privaten gemeinnützigen Institutionen der Suchthilfe Beiträge gewähren.
+<sup>3</sup> Der Kanton kann öffentlichen oder privaten gemeinnützigen Institutionen der Suchthilfe Beiträge gewähren. Sie können mit Auflagen und Bedingungen verbunden werden.
 
-<sup>4</sup> Beiträge an Heime und heimähnliche Einrichtungen richten sich nach den Artikeln 50 und 51. Die Beiträge können mit Auflagen und Bedingungen verbunden werden.
+<sup>4</sup> …
 
 ## 5. Aus- und Weiterbildung
 
@@ -539,7 +542,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat fördert die Aus- und Weiterbildung der im Bereich der Sozialhilfe Tätigen. Er kann dafür Beiträge gewähren.
 
-<sup>2</sup> Der Regierungsrat erstellt eine Liste der als beitragsberechtigt anerkannten Ausbildungen. Er kann mit ausserkantonalen Ausbildungsinstitutionen Vereinbarungen über Aufnahme und Kostenbeteiligung von Glarner Schülerinnen und Schülern treffen.
+<sup>2</sup> Der Regierungsrat erstellt eine Liste der als beitragsberechtigt anerkannten Ausbildungen. Er kann mit ausserkantonalen Ausbildungsinstitutionen Vereinbarungen über Aufnahme und Kostenbeteiligung von Glarner Studierenden treffen.
 
 ## 6. Heimaufsicht
 
@@ -609,17 +612,15 @@ beschliesst:
 
 #### Art. 53
 
-**Gesuch**
-
-<sup>1</sup> Ein Gesuch ist beim örtlich zuständigen Stützpunkt gemäss Artikel 13 einzureichen.
-
-<sup>2</sup> Jede kantonale oder kommunale Behörde oder Verwaltungsstelle ist verpflichtet, hilfesuchende Personen auf die Möglichkeiten eines Unterstützungsgesuches hinzuweisen.
+**…**
 
 #### Art. 54
 
 **Rechtsschutz**
 
 <sup>1</sup> Gegen Verfügungen der dem zuständigen Departement nachgeordneten Verwaltungsbehörden kann bei der verfügenden Stelle innert 30 Tagen Einsprache erhoben werden.
+
+<sup>1a</sup> Bei Verfügungen zu Leistungseinstellungen kann die Einspracheinstanz dem Rechtsmittel die aufschiebende Wirkung aus wichtigen Gründen entziehen.
 
 <sup>2</sup> Im Übrigen richtet sich der Rechtsschutz nach dem Verwaltungsrechtspflegegesetz.
 
