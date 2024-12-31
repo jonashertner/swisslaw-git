@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Steuergesetz für den Kanton Graubünden
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-10-20
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-10
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3225/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3555/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuergesetz für den Kanton Graubünden
 
-Vom 08.06.1986 (Stand 01.01.2022)
+Vom 08.06.1986 (Stand 01.01.2025)
 
 Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
@@ -93,7 +93,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **VI. Ausgleich der Folgen der kalten Progression**
 
-<sup>1</sup> Weicht der Landesindex der Konsumentenpreise im Juli eines Kalenderjahres vom Stand Ende Dezember 2005 um drei Prozent oder ein Mehrfaches davon ab, ändern sich die in Artikel 31 Litera c, Artikel 35 Abs. 3, Artikel 36 Litera h und l, Artikel 38, Artikel 39, Artikel 40a, Artikel 52 Absatz 1 und 3, Artikel 63 Absatz 1, Artikel 64 Absatz 1, Artikel 87, Artikel 91 und Artikel 114 Absatz 1 in Franken festgelegten Beträge für das nächste Steuer- beziehungsweise Kalenderjahr um drei Prozent oder das entsprechende Mehrfache davon. Die Abzüge sind auf 100 Franken, die Beträge in Artikel 35 Absatz 3 und Artikel 63 Absatz 1 auf 1000 Franken aufzurunden.
+<sup>1</sup> Weicht der Landesindex der Konsumentenpreise im Juli eines Kalenderjahres vom Stand Ende Dezember 2005 um drei Prozent oder ein Mehrfaches davon ab, ändern sich die in Artikel 31 Litera c, Artikel 35 Absatz 3, Artikel 36 Litera h und l, Artikel 38, Artikel 39, Artikel 40a, Artikel 52 Absatz 1 und 3, Artikel 63 Absatz 1, Artikel 64 Absatz 1, Artikel 91 und Artikel 114 Absatz 1 in Franken festgelegten Beträge für das nächste Steuer- beziehungsweise Kalenderjahr um drei Prozent oder das entsprechende Mehrfache davon. Die Abzüge sind auf 100 Franken, die Beträge in Artikel 35 Absatz 3 und Artikel 63 Absatz 1 auf 1000 Franken aufzurunden.
 
 <sup>2</sup> Für juristische Personen sind die am Ende der Steuerperiode geltenden Beträge massgebend.
 
@@ -459,6 +459,10 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>5</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>6</sup> Absatz 1 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts[^21c-1] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
+[^21c-1]: Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) vom 30. März 1911 (OR; SR [220](https://db.clex.ch/link/Bund/220/de))
+
 #### Art. 22
 
 **5. Aus unbeweglichem Vermögen**
@@ -487,9 +491,22 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Steuerbar sind alle Einkünfte aus der Alters-, Hinterlassenen- und Invalidenversicherung, aus Einrichtungen der beruflichen Vorsorge und aus anerkannten Formen der gebundenen Selbstvorsorge, mit Einschluss der Kapitalabfindungen und Rückzahlungen von Einlagen, Prämien und Beiträgen.
 
-<sup>2</sup> Leibrenten sowie Einkünfte aus Verpfründung sind zu 40 Prozent steuerbar.
+<sup>2</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
+
+- a) bei garantierten Leistungen aus Leibrentenversicherungen, die dem Versicherungsvertragsgesetz[^23-1] unterstehen, ist der im Zeitpunkt des Vertragsabschlusses auf der Grundlage von Artikel 36 Absatz 1 des Versicherungsaufsichtsgesetzes[^23-2] bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+  - 1\. ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, nach der Formel in Artikel 7 Absatz 2 Litera a Ziffer 1 des Steuerharmonisierungsgesetzes[^23-3];
+  - 2\. ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+- b) bei Überschussleistungen aus Leibrentenversicherungen, die dem Versicherungsvertragsgesetz unterstehen, entspricht der Ertragsanteil 70 Prozent dieser Leistungen;
+- c) bei Leistungen aus ausländischen Leibrentenversicherungen, aus Leibrenten- und aus Verpfründungsverträgen ist die Höhe der um 0,5 Prozentpunkte erhöhten annualisierten Rendite zehnjähriger Bundesobligationen (r) während des betreffenden Steuerjahres und der neun vorangegangenen Jahre massgebend:
+  - 1\. ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- und abgerundet, nach der Formel in Artikel 7 Absatz 2 Litera c Ziffer 1 des Steuerharmonisierungsgesetzes[^23-4];
+  - 2\. ist die Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.
 
 <sup>3</sup> …
+
+[^23-1]: Bundesgesetz über den Versicherungsvertrag vom 2. April 1908 (Versicherungsvertragsgesetz, VVG; SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de))
+[^23-2]: Bundesgesetz betreffend die Aufsicht über Versicherungsunternehmen vom 17. Dezember 2004 (Versicherungsaufsichtsgesetz, VAG; SR [961.01](https://db.clex.ch/link/Bund/961.01/de))
+[^23-3]: Bundesgesetz über die Harmonisierung der direkten Steuern der Kantone und Gemeinden vom 14. Dezember 1990 (Steuerharmonisierungsgesetz, StHG; SR [642.14](https://db.clex.ch/link/Bund/642.14/de) (Fassung gemäss Bundesgesetz über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen vom 17. Juni 2022, AS 2023 38)
+[^23-4]: SR [642.14](https://db.clex.ch/link/Bund/642.14/de) (Fassung gemäss Bundesgesetz über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen vom 17. Juni 2022, AS 2023 38)
 
 #### Art. 24
 
@@ -547,9 +564,11 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - m) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Bundesgesetz über Geldspiele vom 29. September 2017 (Geldspielgesetz, BGS)[^30-1] zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen;
 - m<sup>bis</sup>) die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - m<sup>ter</sup>) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- n) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Litera d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
+- n) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Litera d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird;
+- o) Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose vom 19. Juni 2020[^30-2].
 
 [^30-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
+[^30-2]: SR [837.2](https://db.clex.ch/link/Bund/837.2/de)
 
 #### Art. 31
 
@@ -579,9 +598,20 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - d) die eingetretenen und verbuchten Verluste auf Geschäftsvermögen;
 - e) die im Rahmen des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^32-2] geleisteten periodischen und einmaligen Beiträge an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - f) die Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach Artikel 18 Absatz 2 entfallen;
-- g) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- g) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- h) die gewinnabschöpfenden Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>2</sup> Nicht abziehbar sind insbesondere:
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen und Geldstrafen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>3</sup> Sind Sanktionen nach Absatz 2 Litera c und Litera d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 [^32-1]: Art. 12 ff. ABzStG; BR [720.015](https://www.gr-lex.gr.ch/data/720.015/de)
 [^32-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
@@ -640,7 +670,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a) die privaten Schuldzinsen im Umfang des nach Artikel 21, 21a und 22 steuerbaren Vermögensertrages plus weitere 50 000 Franken;
-- b) 40 Prozent der bezahlten Leibrenten sowie die dauernden Lasten;
+- b) die dauernden Lasten sowie der Ertragsanteil nach Artikel 23 Absatz 2 Litera c der Leistungen aus Leibrenten- und aus Verpfründungsverträgen;
 - c) die Unterhaltsbeiträge an den geschiedenen oder getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge oder Obhut stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d) die gesetzlichen Beiträge an die Alters- und Hinterlassenenversicherung, an die Invalidenversicherung, an die Arbeitslosenversicherung, an die Erwerbsersatzordnung und an die obligatorische Unfallversicherung;
 - e) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus Einrichtungen der beruflichen Vorsorge;
@@ -1170,7 +1200,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1<sup>bis</sup></sup> Verlegt eine juristische Person während einer Steuerperiode ihren Sitz oder die tatsächliche Verwaltung von einem Kanton in einen anderen Kanton, ist sie in den beteiligten Kantonen für die gesamte Steuerperiode steuerpflichtig. Veranlagungsbehörde im Sinne von Artikel 165 ist diejenige des Kantons des Sitzes oder der tatsächlichen Verwaltung am Ende der Steuerperiode.
 
-<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 KAG[^74-1]. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden wie Kapitalgesellschaften besteuert.
+<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 oder Artikel 118a des Kollektivanlagengesetzes[^74-1]. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 des Kollektivanlagengesetzes werden wie Kapitalgesellschaften besteuert.
 
 <sup>3</sup> Ausländische juristische Personen sowie die nach Artikel 11 Absatz 4 steuerpflichtigen ausländischen Handelsgesellschaften und Personengesamtheiten werden jenen inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
@@ -1353,7 +1383,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören insbesondere:
 
-- a) die Steuern des Bundes, der Kantone und der Gemeinden, ausgenommen die Strafsteuern und die Steuerbussen;
+- a) die Steuern des Bundes, der Kantone und der Gemeinden;
 - b) ausgewiesene Abschreibungen für Wertverminderungen des Geschäftsvermögens;
 - c) Rückstellungen für betragsmässig noch unbestimmte Verpflichtungen oder andere unmittelbar drohende Verlustrisiken, die im Geschäftsjahr bestehen;
 - d) die Rücklagen für künftige Forschungs- und Entwicklungskosten im Rahmen der regierungsrätlichen Ausführungsbestimmungen[^81-1];
@@ -1361,11 +1391,22 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - f) die im Rahmen des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^81-2] periodischen und einmaligen Beiträge an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - g) die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf öffentliche oder ausschliesslich gemeinnützige Zwecke von der Steuerpflicht befreit sind (Art. 78 lit. a-d und lit. f), bis zu 20 Prozent des steuerbaren Reingewinns;
 - h) Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie die zur Verteilung an die Versicherten bestimmten Überschüsse von Versicherungsgesellschaften;
-- i) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- i) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- j) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
 <sup>2</sup> Wertberichtigungen sowie Abschreibungen auf den Gestehungskosten von Beteiligungen, welche die Voraussetzungen nach Artikel 88a Absatz 1 Litera b erfüllen, werden dem steuerbaren Gewinn zugerechnet, soweit sie nicht mehr begründet sind.
 
-<sup>3</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>3</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Absatz 3 Litera c und Litera d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 [^81-1]: Art. 12 ff. ABzStG; BR [720.015](https://www.gr-lex.gr.ch/data/720.015/de)
 [^81-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
@@ -1633,7 +1674,11 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Die Gewinnsteuer wird nach dem in der Steuerperiode erzielten Reingewinn bemessen.
 
+<sup>1<sup>bis</sup></sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 <sup>2</sup> Die Kapitalsteuer wird nach dem Stand am Ende des Geschäftsjahres bemessen.
+
+<sup>2<sup>bis</sup></sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 <sup>3</sup> Umfasst ein Geschäftsjahr mehr oder weniger als zwölf Monate, wird:
 
@@ -2397,11 +2442,13 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 - a) Arbeitgeber über ihre Leistungen an Arbeitnehmer;
 - b) Gläubiger und Schuldner über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen;
-- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen;
+- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen; bei Leibrentenversicherungen, die dem Versicherungsvertragsgesetz[^129-1] unterstehen, müssen sie zusätzlich das Abschlussjahr, die Höhe der garantierten Leibrente, den gesamten steuerbaren Ertragsanteil nach Artikel 23 Absatz 2 sowie die Überschussleistungen und den Ertragsanteil aus diesen Leistungen nach Artikel 23 Absatz 2 Litera b ausweisen;
 - d) Treunehmer, Vermögensverwalter und andere Beauftragte, die Vermögen des Steuerpflichtigen in Besitz oder in Verwaltung haben, über dieses Vermögen und dessen Erträgnisse;
 - e) Personen, die mit dem Steuerpflichtigen Geschäfte tätigen oder getätigt haben, über die beidseitigen Ansprüche und Leistungen.
 
 <sup>2</sup> Bescheinigungen, die der Steuerpflichtige trotz Aufforderung nicht vorlegt, kann die Steuerbehörde direkt vom Dritten einfordern. Gesetzlich geschützte Berufsgeheimnisse bleiben vorbehalten.
+
+[^129-1]: Bundesgesetz über den Versicherungsvertrag vom 2. April 1908 (Versicherungsvertragsgesetz, VVG; SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de))
 
 #### Art. 130
 
@@ -2505,7 +2552,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **2. Sprungbeschwerde**
 
-<sup>1</sup> Richtet sich die Einsprache gegen eine einlässlich begründete Veranlagungsverfügung, so kann sie mit Zustimmung des Einsprechers und der Veranlagungsbehörde als Beschwerde an das Verwaltungsgericht weitergeleitet werden.
+<sup>1</sup> Richtet sich die Einsprache gegen eine einlässlich begründete Veranlagungsverfügung, so kann sie mit Zustimmung des Einsprechers und der Veranlagungsbehörde als Beschwerde an das Obergericht weitergeleitet werden.
 
 #### Art. 138
 
@@ -2523,7 +2570,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **II. Beschwerde 1. Voraussetzungen**
 
-<sup>1</sup> Gegen Einspracheentscheide und Entscheide über Steuererlasse kann der Steuerpflichtige innert 30 Tagen seit Zustellung des Entscheides beim Verwaltungsgericht schriftlich Beschwerde erheben.
+<sup>1</sup> Gegen Einspracheentscheide und Entscheide über Steuererlasse kann der Steuerpflichtige innert 30 Tagen seit Zustellung des Entscheides beim Obergericht schriftlich Beschwerde erheben.
 
 <sup>2</sup> Die Beschwerde ist im Doppel einzureichen und hat das Rechtsbegehren, den Sachverhalt, einen ziffernmässigen Antrag sowie eine kurze Begründung zu enthalten und ist zu unterschreiben. Die Beweismittel sind genau zu bezeichnen und soweit möglich beizulegen.
 
@@ -2537,7 +2584,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Innerhalb der Vernehmlassungsfrist kann die Gegenpartei Anschlussbeschwerde erklären und selbständig Anträge auf Abänderung der angefochtenen Veranlagung stellen.
 
-<sup>2</sup> Im Beschwerdeverfahren hat das Verwaltungsgericht die gleichen Befugnisse wie die Veranlagungsbehörde im Veranlagungsverfahren. Eine mündliche Verhandlung findet nur ausnahmsweise statt.
+<sup>2</sup> Im Beschwerdeverfahren hat das Obergericht die gleichen Befugnisse wie die Veranlagungsbehörde im Veranlagungsverfahren. Eine mündliche Verhandlung findet nur ausnahmsweise statt.
 
 <sup>3</sup> Das Gericht kann, nach Anhören des Steuerpflichtigen, die Veranlagung auch zu dessen Nachteil abändern.
 
@@ -2559,7 +2606,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Das Revisionsgesuch ist innert 90 Tagen seit Entdeckung des Revisionsgrundes, spätestens jedoch innert zehn Jahren seit Eröffnung der Verfügung oder des Entscheides, zu stellen.
 
-<sup>2</sup> Zur Behandlung des Revisionsgesuches von Veranlagungsverfügungen und Einspracheentscheiden ist die kantonale Steuerverwaltung zuständig; die Revision von Beschwerdeentscheiden ist Sache des Verwaltungsgerichtes.
+<sup>2</sup> Zur Behandlung des Revisionsgesuches von Veranlagungsverfügungen und Einspracheentscheiden ist die kantonale Steuerverwaltung zuständig; die Revision von Beschwerdeentscheiden ist Sache des Obergerichtes.
 
 <sup>3</sup> Die Vorschriften über das Verfahren, in dem die frühere Verfügung oder Entscheidung ergangen ist, sind sinngemäss anwendbar. Revisionsentscheide der Steuerverwaltung können innert 30 Tagen mit Beschwerde weitergezogen werden.
 
@@ -2794,7 +2841,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>2<sup>bis</sup></sup> Die Sicherstellung muss in Geld, durch Hinterlegung sicherer, marktgängiger Wertschriften, mittels Grundpfand oder durch Bürgschaft geleistet werden.
 
-<sup>3</sup> Die Sicherstellungsverfügung ist dem Steuerpflichtigen schriftlich zu eröffnen und kann mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
+<sup>3</sup> Die Sicherstellungsverfügung ist dem Steuerpflichtigen schriftlich zu eröffnen und kann mit Beschwerde an das Obergericht weitergezogen werden.
 
 <sup>4</sup> Die Beschwerde hemmt die Vollstreckung der Sicherstellungsverfügung nicht.
 
@@ -2882,7 +2929,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>2</sup> Die Veranlagung der direkten Bundessteuer erfolgt zusammen mit der Kantonssteuer durch die für Letztere zuständigen Behörden.
 
-<sup>3</sup> Das Verwaltungsgericht ist die Rekurskommission im Sinne des Verrechnungssteuergesetzes[^166-3] beziehungsweise des Bundessteuergesetzes[^166-4].
+<sup>3</sup> Das Obergericht ist die Rekurskommission im Sinne des Verrechnungssteuergesetzes[^166-3] beziehungsweise des Bundessteuergesetzes[^166-4].
 
 <sup>4</sup> Die Strafbehörden sind für die Verfolgung und Beurteilung von Steuervergehen zuständig.
 
