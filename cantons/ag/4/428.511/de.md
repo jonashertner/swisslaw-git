@@ -4,13 +4,13 @@ number: "428.511"
 title: Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen
 short: "Betreuungsverordnung, BeV"
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-30
 adopted: 2006-11-08
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.511"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3497/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3696/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3497/pdf_file"
 
 (Betreuungsverordnung, BeV)
 
-Vom 08.11.2006 (Stand 01.07.2024)
+Vom 08.11.2006 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -88,7 +88,7 @@ beschliesst:
 
 <sup>2</sup> Diese Einrichtungen fallen unter den Begriff der Heimpflege gemäss Art. 13 Abs. 1 lit. a der bundesrätlichen Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO) vom 19. Oktober 1977[^3-1].
 
-<sup>3</sup> Als junge Erwachsene gelten volljährige Personen bis zum vollendeten 20. Altersjahr, sofern sie vor Erreichen der Volljährigkeit in eine Einrichtung eingetreten sind. Bei jugendstrafrechtlichen Massnahmen liegt die Altersgrenze unabhängig vom Eintrittsalter beim vollendeten 25. Altersjahr.
+<sup>3</sup> Junge Erwachsene können bis zum vollendeten 20. Altersjahr beziehungsweise bis zum späteren Abschluss der Erstausbildung, jedoch längstens bis zum vollendeten 25. Altersjahr beherbergt werden, sofern sie vor Erreichen der Volljährigkeit in eine Einrichtung eingetreten sind. Bei jugendstrafrechtlichen Massnahmen liegt die Altersgrenze unabhängig vom Eintrittsalter beim vollendeten 25. Altersjahr.
 
 [^3-1]: SR [211.222.338](https://db.clex.ch/link/Bund/211.222.338/de)
 
@@ -305,7 +305,9 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> …
 
-<sup>2</sup> Bei anerkannten Einrichtungen mit kommunaler oder interkommunaler öffentlich-rechtlicher Trägerschaft erfolgt die Rechnungslegung entsprechend den Vorgaben des kantonalen Finanzrechts für Gemeinden sowie dem Handbuch des Rechnungswesens der Gemeinden.
+<sup>2</sup> Bei anerkannten Einrichtungen mit kommunaler oder interkommunaler öffentlich-rechtlicher Trägerschaft erfolgt die Rechnungslegung entweder nach den Vorgaben des kantonalen Finanzrechts für Gemeinden sowie dem Handbuch des Rechnungswesens der Gemeinden oder nach dem Rechnungslegungsstandard der Fachempfehlung 21 der Stiftung für Fachempfehlungen zur Rechnungslegung (Swiss GAAP FER 21).
+
+<sup>2<sup>bis</sup></sup> Bei anerkannten Einrichtungen mit privatrechtlicher Trägerschaft erfolgt die Rechnungslegung obligatorisch nach dem Rechnungslegungsstandard Swiss GAAP FER 21, wenn die maximale jährliche Leistungsabgeltung in zwei aufeinander folgenden Jahren 10 Millionen Franken übersteigt.
 
 <sup>3</sup> Anerkannte Einrichtungen führen eine Kostenrechnung nach den Vorgaben des BKS.
 
@@ -406,7 +408,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Abklärungsstelle ist zuständig für die Bemessung des individuellen Unterstützungs- oder Betreuungsbedarfs von Menschen mit Behinderungen, die ambulante Leistungen von anerkannten Einrichtungen gemäss den §§ 1b, 4a und 7a beziehen.
+<sup>1</sup> Die Abklärungsstelle ist zuständig für die Bemessung des individuellen Unterstützungs- oder Betreuungsbedarfs von Menschen mit Behinderungen, die ambulante Leistungen von anerkannten Einrichtungen gemäss den §§ 4a und 7a beziehen.
 
 <sup>2</sup> Für den Bezug von ambulanten Leistungen ist eine vorgängige Abklärung durch die Abklärungsstelle erforderlich. Bei zeitlicher Dringlichkeit kann der Leistungsbezug mit Einverständnis der Abklärungsstelle bereits vor der Abklärung beginnen.
 
@@ -508,7 +510,8 @@ beschliesst:
 - c) Miet- und Kapitalzinsertrag,
 - d) Erträge aus Leistungen an Mitarbeitende und Dritte,
 - e) Erträge aus übrigen Dienstleistungen für Betreute,
-- f) individuelle Beiträge wie Einzelbeiträge der Sozialversicherungen für medizinisch-therapeutische Massnahmen an Leistungen, die in der Kostenrechnung nicht separat erfasst und nicht verrechnet werden, im Aufwand jedoch enthalten sind.
+- f) individuelle Beiträge wie Einzelbeiträge der Sozialversicherungen für medizinisch-therapeutische Massnahmen an Leistungen, die in der Kostenrechnung nicht separat erfasst und nicht verrechnet werden, im Aufwand jedoch enthalten sind,
+- g) Beiträge der Sozialversicherungen an die Finanzierung des Aufenthalts in einer Einrichtung zu Ausbildungszwecken.
 
 #### § 36a
 
@@ -688,7 +691,7 @@ beschliesst:
 
 <sup>1</sup> Leistungen ausserkantonaler Sonderschulen und stationärer Kinder- und Jugendeinrichtungen werden bewilligt, wenn
 
-- a) ein begründetes Gesuch der zuständigen Zuweisungs- oder Unterbringungsbehörde mit einem Fachbericht des Schulpsychologischen Dienstes beziehungsweise mit einem Sozialbericht der Gemeinde vorliegt,
+- a) ein begründetes Gesuch der zuständigen Behörde gemäss § 32 Abs. 1 und 3 BeG mit einem Bericht einer vom BKS zugelassenen Fachstelle vorliegt,
 - b) im Kanton Aargau kein geeigneter Platz in einer anerkannten Einrichtung zur Verfügung steht und
 - c) die ausserkantonale Einrichtung die Kriterien der §§ 2 Abs. 1 beziehungsweise 3 Abs. 1 erfüllt und vom Standortkanton der IVSE unterstellt worden ist.
 
@@ -772,7 +775,7 @@ beschliesst:
 
 <sup>4<sup>bis</sup></sup> …
 
-<sup>5</sup> Gilt bei einer Person in einer anerkannten stationären Einrichtung ihr Aufenthaltsort als zivilrechtlicher Wohnsitz, ist die Standortgemeinde der anerkannten Einrichtung von der Beitragspflicht befreit.
+<sup>5</sup> Begründet eine Person, die sich in einer anerkannten stationären Einrichtung aufhält oder in einer Pflegefamilie, die von einem anerkannten Dienstleistungsanbieter in der Familienpflege begleitet wird, ihren zivilrechtlichen Wohnsitz am Standort der Einrichtung beziehungsweise der Pflegefamilie, wird kein Gemeindebeitrag erhoben.
 
 #### § 54
 
@@ -917,6 +920,12 @@ beschliesst:
 **Verzinsung von Eigenkapital**
 
 <sup>1</sup> Für die vor dem 1. Januar 2020 als anrechenbare Aufwendung vom BKS genehmigte Verzinsung von für den Betrieb eingesetztem Eigenkapital ohne den Rücklagenfonds gemäss § 39 Abs. 1 gilt bis zur vollständigen Abschreibung gemäss § 63b das bisherige Recht.
+
+#### § 63d
+
+**Swiss GAAP FER 21**
+
+<sup>1</sup> Die Rechnungslegung nach dem Rechnungslegungsstandard Swiss GAAP FER 21 ist für die Einrichtungen gemäss § 20 Abs. 2<sup>bis</sup> ab Jahresabschluss 2027 obligatorisch.
 
 #### § 64
 
