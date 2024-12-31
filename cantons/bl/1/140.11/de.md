@@ -4,13 +4,13 @@ number: "140.11"
 title: Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft
 short: "Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL"
 language: de
-version: 2023-07-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-17
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.11"
-pdf: "https://bl.clex.ch/api/de/versions/3635/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4118/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3635/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL)
 
-Vom 19.12.2017 (Stand 01.07.2023)
+Vom 19.12.2017 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -48,7 +48,7 @@ beschliesst:
 - a. Bau- und Umweltschutzdirektion: Bau, Raumplanung, öffentlicher Verkehr, Umweltschutz, Energie.
 - b. Bildungs-, Kultur- und Sportdirektion: Bildung, Kultur, Sport, Jugend- und Behindertenangebote.
 - c. Finanz- und Kirchendirektion: Finanzen, Personal, Soziales, Gemeinden, Kirchen, Informatik.
-- d. Sicherheitsdirektion: Polizei, Bevölkerungsschutz, Motorfahrzeuge, Strafverfolgung und -vollzug, Migration, Einbürgerungen, Zivilrecht.
+- d. Sicherheitsdirektion: Polizei, Bevölkerungsschutz, Motorfahrzeuge, Strafverfolgung und -vollzug, Migration, Einbürgerungen, Zivilrecht, Schuldbetreibung und Konkurs.
 - e. Volkswirtschafts- und Gesundheitsdirektion: Wirtschaftliche Entwicklung, Arbeit, Landwirtschaft, Wald und Wild, Gesundheit, Geoinformation.
 
 #### § 2
@@ -153,18 +153,15 @@ beschliesst:
 <sup>1</sup> Die Sicherheitsdirektion umfasst folgende Dienststellen:
 
 - a. Generalsekretariat;
-- a<sup>bis</sup>. Amt für Justizvollzug;
-- b. Amt für Migration und Bürgerrecht;
-- c. Amt für Militär und Bevölkerungsschutz;
-- d. Jugendanwaltschaft;
-- e. …
+- b. Amt für Justizvollzug;
+- c. Amt für Migration, Integration und Bürgerrecht;
+- d. Amt für Militär und Bevölkerungsschutz;
+- e. Jugendanwaltschaft;
 - f. Motorfahrzeugkontrolle;
 - g. Polizei Basel-Landschaft;
 - h. Rechtsdienst von Regierungsrat und Landrat;
 - i. Staatsanwaltschaft;
 - j. Zivilrechtsverwaltung.
-
-<sup>2</sup> …
 
 #### § 11
 
@@ -176,7 +173,7 @@ beschliesst:
 - b. Standortförderung Baselland (StaFö Baselland);
 - c. Amt für Industrie, Gewerbe und Arbeit (KIGA Baselland);
 - d. Amt für Geoinformation (AGI);
-- e. Amt für Wald beider Basel (AfW beider Basel);
+- e. Amt für Wald und Wild beider Basel (AfWW beider Basel);
 - f. Ebenrain-Zentrum für Landwirtschaft, Natur und Ernährung (Ebenrain);
 - g. Amt für Lebensmittelsicherheit und Veterinärwesen (ALV);
 - h. Amt für Gesundheit (AfG).
