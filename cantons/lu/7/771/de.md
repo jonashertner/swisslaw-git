@@ -4,13 +4,12 @@ number: "771"
 title: Wassernutzungs- und Wasserversorgungsverordnung
 short: WNVV
 language: de
-version: 2013-07-01
-valid_until: 2024-12-31
-version_adopted: 2013-05-21
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2003-06-10
 in_force: 2003-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/771"
-pdf: "https://srl.lu.ch/api/de/versions/2493/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4317/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2493/pdf_file"
 
 (WNVV)
 
-vom 10.06.2003 (Stand 01.07.2013)
+vom 10.06.2003 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -184,7 +183,7 @@ beschliesst:
 
 <sup>2</sup> Die übrigen Wasserkraftwerke entrichten einen Wasserzins von 50 bis 100 Prozent
 
-des bundesrechtlichen Höchstansatzes von 80 Franken pro Kilowatt Bruttoleistung. Innerhalb dieses Rahmens bemisst sich der Wasserzins nach dem Nutzungsumfang, der Nutzungsart und dem Verwendungszweck.
+des bundesrechtlichen Höchstansatzes pro Kilowatt Bruttoleistung. Innerhalb dieses Rahmens bemisst sich der Wasserzins nach dem Nutzungsumfang, der Nutzungsart und dem Verwendungszweck.
 
 #### § 13
 
