@@ -4,13 +4,12 @@ number: "836.1"
 title: Ausführungsgesetz zum Bundesgesetz über die Familienzulagen
 short: AGFamZG
 language: de
-version: 2023-01-01
-corrected: 2023-04-14
-version_adopted: 2020-03-13
+version: 2025-01-01
+version_adopted: 2024-03-14
 adopted: 2008-09-11
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/836.1"
-pdf: "https://lex.vs.ch/api/de/versions/3109/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3109/pdf_file"
 
 (AGFamZG)
 
-vom 11.09.2008 (Stand 01.01.2023)
+vom 11.09.2008 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -33,7 +32,7 @@ auf Antrag des Staatsrates,
 
 verordnet:[^ingress-1]
 
-[^ingress-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+[^ingress-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau.
 
 ## 1 Allgemeine Bestimmungen
 
@@ -162,7 +161,7 @@ verordnet:[^ingress-1]
 
 **Anpassung an die Teuerung**
 
-<sup>1</sup> Der Staatsrat passt die Beträge der in Artikel 4 Absatz 2 vorgesehenen Familienzulagen auf den gleichen Zeitpunkt und zum selben Prozentsatz an, wie es für den Bundesrat in Artikel 5 Absatz 3 FamZG vorgesehen ist.
+<sup>1</sup> Der Staatsrat passt auf dem Verordnungsweg die Beträge der in Artikel 4 Absatz 2 vorgesehenen Familienzulagen auf den gleichen Zeitpunkt und zum selben Prozentsatz an, wie es für den Bundesrat in Artikel 5 Absatz 3 FamZG vorgesehen ist.
 
 #### Art. 13
 
@@ -322,7 +321,7 @@ verordnet:[^ingress-1]
 
 <sup>5</sup> Jede Beitragserhöhung aufgrund von Anpassungen, die entweder nicht vorgesehen waren oder über den vom Bund vorgesehenen Minimalbeträgen liegen, wird von Arbeitgebern und -nehmern paritätisch übernommen.
 
-<sup>6</sup> Die Verwaltungskosten der Kassen, welche im Beitragssatz enthalten sind, dürfen 0.4 Prozent der Löhne nicht übersteigen.
+<sup>6</sup> Die Verwaltungskosten der Kassen, welche im Beitragssatz enthalten sind, dürfen 0,4 Prozent der Löhne nicht übersteigen.
 
 <sup>7</sup> Der Beitrag an den Familienfonds wird zusätzlich zu den Beiträgen von Absatz 2 erhoben.
 
@@ -545,6 +544,24 @@ verordnet:[^ingress-1]
 
 - a) für das Kind besteht ein Anspruch auf den Zuschlag für Kinder gemäss dem Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG);
 - b) für dieses Kind kann niemand sonst von Rechts wegen eine Geburts- oder Adoptionszulage geltend machen.
+
+#### Art. 45c
+
+**Finanzielle Unterstützung für Zahnbehandlungen**
+
+<sup>1</sup> Haushalten, die Zahnbehandlungskosten verzeichnet haben, wird jährlich eine finanzielle Unterstützung für Zahnbehandlungen gewährt.
+
+<sup>2</sup> Anspruch auf finanzielle Unterstützung für Zahnbehandlungen haben Beziehende der einmaligen Haushaltszulage, die Rechnungen für Zahnbehandlungen vorlegen, die im Jahr nach der Entscheidung über die Gewährung der Familienfondszulage angefallen sind.
+
+<sup>3</sup> Der jährliche Unterstützungsbetrag entspricht dem Gesamtbetrag der Rechnungen, die den Familienmitgliedern im massgeblichen Zeitraum entstanden sind, und darf eine vom Staatsrat festgelegte jährliche Höchstgrenze pro Haushalt nicht überschreiten.
+
+<sup>4</sup> Der Staatsrat legt jährlich die Einkommensgrenzen fest, die einen Anspruch auf finanzielle Unterstützung für Zahnbehandlungen begründen.
+
+<sup>5</sup> Die finanzielle Unterstützung wird unter Vorbehalt der vom Grossen Rat bestätigten Budgetgrenzen ausbezahlt.
+
+<sup>6</sup> Das Gesetz über die Harmonisierung der Finanzierung der Sozialsysteme sowie der Systeme für die soziale und berufliche Eingliederung ist auf die finanzielle Unterstützung für Zahnbehandlungen anwendbar.
+
+<sup>7</sup> Die Auszahlung der finanziellen Unterstützung für Zahnbehandlungen wird der Ausgleichskasse des Kantons Wallis übertragen. Sie wird für diese Aufgabe entschädigt.
 
 #### Art. 46
 

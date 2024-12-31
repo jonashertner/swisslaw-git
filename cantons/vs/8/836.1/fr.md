@@ -4,13 +4,12 @@ number: "836.1"
 title: "Loi d'application de la loi fédérale sur les allocations familiales"
 short: LALAFam
 language: fr
-version: 2023-01-01
-corrected: 2023-04-14
-version_adopted: 2020-03-13
+version: 2025-01-01
+version_adopted: 2024-03-14
 adopted: 2008-09-11
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/836.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3109/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3349/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3109/pdf_file"
 
 (LALAFam)
 
-du 11.09.2008 (état 01.01.2023)
+du 11.09.2008 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -162,7 +161,7 @@ ordonne:[^ingress-1]
 
 **Adaptation au renchérissement**
 
-<sup>1</sup> Le Conseil d'Etat adapte les montants des allocations familiales prévues à l'article 4 alinéa 2 au même terme et dans le même pourcentage que le Conseil fédéral, tel que prévu à l'article 5 alinéa 3 LAFam.
+<sup>1</sup> Le Conseil d'Etat adapte, par voie d'ordonnance, les montants des allocations familiales prévues à l'article 4 alinéa 2 au même terme et dans le même pourcentage que le Conseil fédéral, tel que prévu à l'article 5 alinéa 3 LAFam.
 
 #### Art. 13
 
@@ -322,7 +321,7 @@ ordonne:[^ingress-1]
 
 <sup>5</sup> Toute augmentation future des contributions due à des adaptations non prévues ou supérieures aux montants minimums fixés au niveau fédéral est prise en charge paritairement entre les employeurs et les salariés.
 
-<sup>6</sup> Les frais d'administration des caisses, compris dans le taux de contribution, ne doivent pas dépasser 0.4 pour cent des salaires.
+<sup>6</sup> Les frais d'administration des caisses, compris dans le taux de contribution, ne doivent pas dépasser 0,4 pour cent des salaires.
 
 <sup>7</sup> La contribution au Fonds pour la famille est prélevée en plus des contributions selon l'alinéa 2.
 
@@ -545,6 +544,24 @@ ordonne:[^ingress-1]
 
 - a) l'enfant donne droit au supplément pour enfant selon la loi fédérale sur l'assurance-chômage obligatoire et l'indemnité en cas d'insolvabilité (LACI);
 - b) pour ce même enfant, aucune autre personne ne peut faire valoir de droit à une allocation de naissance ou d'adoption.
+
+#### Art. 45c
+
+**Aide financière aux soins dentaires**
+
+<sup>1</sup> Une aide financière aux soins dentaires est accordée annuellement aux ménages ayant enregistré des frais dentaires.
+
+<sup>2</sup> Peuvent bénéficier de l'aide financière aux soins dentaires les bénéficiaires de l’allocation unique de ménage qui présentent des factures de traitements dentaires survenus l'année suivant la décision d'octroi d'allocation du Fonds cantonal pour la famille.
+
+<sup>3</sup> Le montant de l’aide annuel correspond au montant total des factures encourues par les membres de la famille durant la période déterminante et ne peut dépasser un plafond annuel maximum par ménage déterminé par le Conseil d’Etat.
+
+<sup>4</sup> Le Conseil d’Etat fixe annuellement les limites de revenu donnant droit à l’aide aux soins dentaires.
+
+<sup>5</sup> Les aides sont versées sous réserve des limites budgétaires validées par le Grand Conseil.
+
+<sup>6</sup> La loi sur l’harmonisation du financement des régimes sociaux et d’insertion socio-professionnelle est applicable à l’aide financière aux soins dentaires.
+
+<sup>7</sup> Le versement de l'aide aux soins dentaires est confié à la Caisse de compensation du canton du Valais qui est indemnisée pour cette tâche déléguée.
 
 #### Art. 46
 
