@@ -3,25 +3,23 @@ canton: VS
 number: "916.4"
 title: "Loi d'application de la loi fédérale sur les épizooties"
 language: fr
-version: 2009-01-01
-corrected: 2017-10-13
-version_adopted: 2008-11-13
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2008-11-13
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.4"
-pdf: "https://lex.vs.ch/api/fr/versions/130/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3437/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi d'application de la loi fédérale sur les épizooties
 
-du 13 novembre 2008
+du 13.11.2008 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
-vu la loi fédérale sur les épizooties du 1er juillet 1966;
+vu la loi fédérale sur les épizooties du 1<sup>er</sup> juillet 1966;
 
 vu l'ordonnance fédérale sur les épizooties du 27 juin 1995;
 
@@ -41,7 +39,7 @@ sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -50,7 +48,6 @@ ordonne:
 <sup>1</sup> La présente loi a pour but:
 
 - a) de déterminer les autorités compétentes en matière de lutte contre les épizooties;
-
 - b) d'appliquer et de préciser les dispositions fédérales en la matière.
 
 <sup>2</sup> Demeurent réservées les dispositions fédérales y relatives.
@@ -59,7 +56,7 @@ ordonne:
 
 **Egalité des sexes**
 
-Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+<sup>1</sup> Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
 #### Art. 3
 
@@ -72,13 +69,9 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 <sup>3</sup> Le Conseil d'Etat nomme:
 
 - a) le vétérinaire cantonal et en règle la suppléance;
-
 - b) un nombre suffisant de vétérinaires officiels et d'auxiliaires officiels;
-
 - c) un inspecteur cantonal des ruchers et son suppléant;
-
 - d) les inspecteurs régionaux des ruchers, en règle générale un par cercle, et leurs suppléants;
-
 - e) en cas de besoin et sur proposition de l'office, un nombre suffisant d'inspecteurs du bétail, en règle générale un par cercle, et leurs suppléants.
 
 <sup>4</sup> Il assermente les inspecteurs du bétail et les inspecteurs régionaux des ruchers avant leur entrée en fonction. Il peut déléguer cette tâche par un arrêté.
@@ -97,7 +90,7 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 **Collaboration**
 
-Les polices cantonale et communales doivent, lorsqu'elles en sont requises, seconder les agents de la police des épizooties dans l'exercice de leurs fonctions.
+<sup>1</sup> Les polices cantonale et communales doivent, lorsqu'elles en sont requises, seconder les agents de la police des épizooties dans l'exercice de leurs fonctions.
 
 #### Art. 6
 
@@ -109,20 +102,17 @@ Les polices cantonale et communales doivent, lorsqu'elles en sont requises, seco
 
 <sup>3</sup> A la fin des cours d'instruction, le département délivre un certificat cantonal de capacité aux inspecteurs des ruchers.
 
-### Section 2: Tâches et responsabilités
+## 2 Tâches et responsabilités
 
 #### Art. 7
 
 **Vétérinaire cantonal**
 
-Le vétérinaire cantonal a notamment les tâches suivantes:
+<sup>1</sup> Le vétérinaire cantonal a notamment les tâches suivantes:
 
 - a) diriger l'office;
-
 - b) effectuer les tâches qui lui sont confiées par la législation fédérale;
-
 - c) collaborer avec le médecin cantonal dans la lutte contre les zoonoses, avec le pharmacien cantonal pour ce qui a trait au contrôle des médicaments vétérinaires et des aliments médicamenteux et avec le chimiste cantonal pour ce qui concerne le contrôle des denrées alimentaires;
-
 - d) diriger et instruire les agents de la police des épizooties.
 
 #### Art. 8
@@ -137,9 +127,9 @@ Le vétérinaire cantonal a notamment les tâches suivantes:
 
 **Secret de fonction**
 
-Les agents de la police des épizooties sont tenus de garder le secret au sujet des faits dont ils ont connaissance dans l'exercice de leur fonction. La communication de renseignements ou la transmission de documents à l'administration cantonale est autorisée.
+<sup>1</sup> Les agents de la police des épizooties sont tenus de garder le secret au sujet des faits dont ils ont connaissance dans l'exercice de leur fonction. La communication de renseignements ou la transmission de documents à l'administration cantonale est autorisée.
 
-### Section 3: Trafic d'animaux et de produits animaux
+## 3 Trafic d'animaux et de produits animaux
 
 #### Art. 10
 
@@ -171,17 +161,17 @@ Les agents de la police des épizooties sont tenus de garder le secret au sujet 
 
 **Estivage**
 
-Le Conseil d'Etat arrête, chaque printemps, les conditions d'estivage.
+<sup>1</sup> Le Conseil d'Etat arrête, chaque printemps, les conditions d'estivage.
 
 #### Art. 14
 
 **Commerce du bétail**
 
-Le commerce du bétail est régi par les dispositions fédérales et/ou intercantonales en la matière.
+<sup>1</sup> Le commerce du bétail est régi par les dispositions fédérales et/ou intercantonales en la matière.
 
 #### Art. 15
 
-Déchets de cuisine, restes de repas, poissons et déchets de poissons
+**Déchets de cuisine, restes de repas, poissons et déchets de poissons**
 
 <sup>1</sup> L'autorisation nécessaire pour l'élimination des déchets de cuisine, des restes de repas, des poissons morts ou des déchets de poissons ainsi que leur valorisation comme aliments pour animaux est délivrée par l'office.
 
@@ -191,9 +181,9 @@ Déchets de cuisine, restes de repas, poissons et déchets de poissons
 
 **Insémination**
 
-L'office délivre l'autorisation de pratiquer l'insémination artificielle.
+<sup>1</sup> L'office délivre l'autorisation de pratiquer l'insémination artificielle.
 
-### Section 4: Lutte contre les épizooties
+## 4 Lutte contre les épizooties
 
 #### Art. 17
 
@@ -207,19 +197,19 @@ L'office délivre l'autorisation de pratiquer l'insémination artificielle.
 
 **Epizooties hautement contagieuses**
 
-Le Conseil d'Etat arrête les modalités de l'organisation et de l'indemnisation des membres des équipes d'intervention en cas d'épizooties hautement contagieuses.
+<sup>1</sup> Le Conseil d'Etat arrête les modalités de l'organisation et de l'indemnisation des membres des équipes d'intervention en cas d'épizooties hautement contagieuses.
 
 #### Art. 19
 
 **Campagnes de surveillance**
 
-Le vétérinaire cantonal désigne les vétérinaires ou les autres personnes chargées de tâches dans le cadre des campagnes de surveillance du cheptel et peut fixer les conditions de leur intervention.
+<sup>1</sup> Le vétérinaire cantonal désigne les vétérinaires ou les autres personnes chargées de tâches dans le cadre des campagnes de surveillance du cheptel et peut fixer les conditions de leur intervention.
 
 #### Art. 20
 
 **Désinfection**
 
-L'office fournit les produits à utiliser pour les désinfections ordonnées officiellement.
+<sup>1</sup> L'office fournit les produits à utiliser pour les désinfections ordonnées officiellement.
 
 #### Art. 21
 
@@ -235,9 +225,9 @@ L'office fournit les produits à utiliser pour les désinfections ordonnées off
 
 **Laboratoire cantonal**
 
-Sauf disposition contraire prévue par la législation fédérale ou prise par le vétérinaire cantonal, les échantillons prélevés dans le cadre de la prophylaxie et de la lutte contre les épizooties doivent être envoyés au Laboratoire cantonal, sous réserve de son accréditation par l'Office vétérinaire fédéral.
+<sup>1</sup> Sauf disposition contraire prévue par la législation fédérale ou prise par le vétérinaire cantonal, les échantillons prélevés dans le cadre de la prophylaxie et de la lutte contre les épizooties doivent être envoyés au Laboratoire cantonal, sous réserve de son accréditation par l'Office vétérinaire fédéral.
 
-### Section 5: Dispositions financières
+## 5 Dispositions financières
 
 #### Art. 23
 
@@ -251,7 +241,7 @@ Sauf disposition contraire prévue par la législation fédérale ou prise par l
 
 **Cas suspect**
 
-En règle générale, toute visite vétérinaire précédant l'annonce d'un cas suspect au vétérinaire cantonal a lieu aux frais du détenteur de l'animal.
+<sup>1</sup> En règle générale, toute visite vétérinaire précédant l'annonce d'un cas suspect au vétérinaire cantonal a lieu aux frais du détenteur de l'animal.
 
 #### Art. 25
 
@@ -280,22 +270,17 @@ En règle générale, toute visite vétérinaire précédant l'annonce d'un cas 
 <sup>2</sup> Ce fonds est alimenté par:
 
 - a) les subventions budgétaires de l'Etat;
-
 - b) les contributions éventuelles des propriétaires d'animaux;
-
 - c) les revenus des patentes de marchands de bétail;
-
-- d) les intérêts des capitaux;
-
+- d) …
 - e) les amendes de police des épizooties et de commerce du bétail;
-
 - f) les dons éventuels.
 
 <sup>3</sup> Le fonds est géré par le département en charge des finances.
 
 <sup>4</sup> Les prélèvements sur ce fonds sont décidés par le Conseil d'Etat sur préavis du département.
 
-### Section 6: Dispositions pénales et mesures administratives
+## 6 Dispositions pénales et mesures administratives
 
 #### Art. 28
 
@@ -317,34 +302,24 @@ En règle générale, toute visite vétérinaire précédant l'annonce d'un cas 
 
 <sup>3</sup> Sauf urgence, le retrait fait l'objet d'une décision formelle de l'office, précédée d'une sommation.
 
-### Section 7: Dispositions transitoires et finales
+## 7 Dispositions transitoires et finales
 
 #### Art. 30
 
 **Modification du droit en vigueur**
 
-L'article 2 alinéa 1 de l'arrêté concernant les équipes d'intervention en cas d'épizootie hautement contagieuse du 16 mai 2001 est modifié comme suit:
-
-#### Art. 2
-
-**al. 1**
-
-Le département en charge des affaires vétérinaires (ci-après: le département) est l'autorité de surveillance des équipes d'intervention.
+<sup>1</sup> L'article 2 alinéa 1 de l'arrêté concernant les équipes d'intervention en cas d'épizootie hautement contagieuse du 16 mai 2001 est modifié.
 
 #### Art. 31
 
 **Abrogation du droit en vigueur**
 
-Sont abrogés dès l'entrée en vigueur de la présente loi:
+<sup>1</sup> Sont abrogés dès l'entrée en vigueur de la présente loi:
 
 - a) l'ordonnance d'exécution de la loi fédérale sur les épizooties et de son ordonnance du 11 juin 1969;
-
 - b) l'arrêté réglant les indemnités dans la lutte contre les maladies des abeilles et fixant les contributions des apiculteurs au Fonds cantonal des épizooties du 8 janvier 1969;
-
 - c) l'ordonnance concernant la lutte contre la rhinotrachéite infectieuse et la vulvovaginite pustuleuse infectieuse des bovidés (IBR-IPV) du 9 novembre 1983;
-
 - d) l'ordonnance concernant les mesures complémentaires à prendre dans la lutte contre la métrite contagieuse équine (MCE) du 15 mars 1989;
-
 - e) l'arrêté concernant la lutte contre les pneumonies porcines contagieuses du 18 mars 2003.
 
 #### Art. 32
@@ -353,8 +328,6 @@ Sont abrogés dès l'entrée en vigueur de la présente loi:
 
 <sup>1</sup> La présente loi d'application n'est pas soumise au référendum facultatif.
 
-<sup>2</sup> Le Conseil d'Etat arrête la date d'entrée en vigueur de la présente loi.[^32-1] Ainsi adopté en lecture unique (art. 101 RGC) en séance du Grand Conseil, à Sion, le 13 novembre 2008.
+<sup>2</sup> Le Conseil d'Etat arrête la date d'entrée en vigueur de la présente loi.
 
-Le président du Grand Conseil: Paul-André Roux Le chef du Service parlementaire: Claude Bumann
-
-[^32-1]: Entrée en vigueur le 1er janvier 2009
+RCV RO/AGS 2008 f 115, 483 | d 123, 505

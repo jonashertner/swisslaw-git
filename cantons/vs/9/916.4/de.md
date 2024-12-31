@@ -3,27 +3,27 @@ canton: VS
 number: "916.4"
 title: Ausführungsgesetz zum eidgenössischen Tierseuchengesetz
 language: de
-version: 2009-01-01
-corrected: 2017-10-13
-version_adopted: 2008-11-13
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2008-11-13
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/916.4"
-pdf: "https://lex.vs.ch/api/de/versions/130/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3437/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsgesetz zum eidgenössischen Tierseuchengesetz
 
-vom 13. November 2008
+vom 13.11.2008 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
 eingesehen das eidgenössische Tierseuchengesetz vom 1. Juli 1966;
 
-eingesehen die eidgenössische Tierseuchenverordnung vom 27. Juni 1995; eingesehen die eidgenössische Verordnung über die Entsorgung von tierischen Nebenprodukten vom 23. Juni 2004;
+eingesehen die eidgenössische Tierseuchenverordnung vom 27. Juni 1995;
+
+eingesehen die eidgenössische Verordnung über die Entsorgung von tierischen Nebenprodukten vom 23. Juni 2004;
 
 eingesehen die eidgenössische Verordnung über die Tierverkehr-Datenbank vom 23. November 2005;
 
@@ -39,7 +39,7 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -48,7 +48,6 @@ verordnet:
 <sup>1</sup> Das vorliegende Gesetz bezweckt:
 
 - a) die zuständigen Behörden betreffend Tierseuchenbekämpfung zu bestimmen;
-
 - b) die eidgenössischen Bundesbestimmungen zu vollziehen und zu präzisieren.
 
 <sup>2</sup> Vorbehalten bleiben die diesbezüglichen Bundesbestimmungen.
@@ -57,7 +56,7 @@ verordnet:
 
 **Gleichstellung**
 
-Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
 #### Art. 3
 
@@ -70,13 +69,9 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 <sup>3</sup> Der Staatsrat ernennt:
 
 - a) den Kantonstierarzt und regelt seine Vertretung;
-
 - b) eine ausreichende Zahl amtlicher Tierärzte und amtlicher Fachassistenten;
-
 - c) einen kantonalen Bieneninspektor und seinen Stellvertreter;
-
 - d) die regionalen Bieneninspektoren, in der Regel einen pro Kreis, und ihre Stellvertreter;
-
 - e) nötigenfalls und auf Antrag des Amtes eine ausreichende Zahl von Viehinspektoren, in der Regel einen pro Kreis, und ihre Stellvertreter.
 
 <sup>4</sup> Er vereidigt die Viehinspektoren und die regionalen Bieneninspektoren vor ihrem Amtsantritt. Er kann diese Aufgabe durch Beschluss delegieren.
@@ -95,7 +90,7 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 **Zusammenarbeit**
 
-Die Kantons- und Gemeindepolizei hat, falls erforderlich, die tierseuchenpolizeilichen Agenten in der Ausübung ihrer Funktionen zu unterstützen.
+<sup>1</sup> Die Kantons- und Gemeindepolizei hat, falls erforderlich, die tierseuchenpolizeilichen Agenten in der Ausübung ihrer Funktionen zu unterstützen.
 
 #### Art. 6
 
@@ -107,20 +102,17 @@ Die Kantons- und Gemeindepolizei hat, falls erforderlich, die tierseuchenpolizei
 
 <sup>3</sup> Nach Abschluss der Ausbildung stellt das Departement den Bieneninspektoren einen kantonalen Fähigkeitsausweis aus.
 
-### 2. Abschnitt: Aufgaben und Verantwortlichkeiten
+## 2 Aufgaben und Verantwortlichkeiten
 
 #### Art. 7
 
 **Kantonstierarzt**
 
-Der Kantonstierarzt hat namentlich folgende Aufgaben:
+<sup>1</sup> Der Kantonstierarzt hat namentlich folgende Aufgaben:
 
 - a) er leitet das Amt;
-
-<sup>b)</sup> er führt die ihm durch die Bundesgesetzgebung auferlegten Aufgaben aus;
-
+- b) er führt die ihm durch die Bundesgesetzgebung auferlegten Aufgaben aus;
 - c) er arbeitet mit dem Kantonsarzt in der Bekämpfung von Zoonosen, mit dem Kantonsapotheker betreffend die Kontrolle von tierärztlichen Medikamenten und Fütterungsarzneimitteln und mit dem Kantonschemiker betreffend die Lebensmittelkontrolle zusammen;
-
 - d) er leitet und bildet die tierseuchenpolizeilichen Agenten aus.
 
 #### Art. 8
@@ -135,9 +127,9 @@ Der Kantonstierarzt hat namentlich folgende Aufgaben:
 
 **Amtsgeheimnis**
 
-Die tierseuchenpolizeilichen Agenten sind zur Verschwiegenheit über alle dienstlichen Angelegenheiten verpflichtet, von welchen sie bei der Ausübung ihrer Funktion Kenntnis erhalten. Die Erteilung von Auskünften oder die Weiterleitung von Unterlagen an die kantonale Verwaltung ist gestattet.
+<sup>1</sup> Die tierseuchenpolizeilichen Agenten sind zur Verschwiegenheit über alle dienstlichen Angelegenheiten verpflichtet, von welchen sie bei der Ausübung ihrer Funktion Kenntnis erhalten. Die Erteilung von Auskünften oder die Weiterleitung von Unterlagen an die kantonale Verwaltung ist gestattet.
 
-### 3. Abschnitt: Verkehr mit Tieren und tierischen Stoffen
+## 3 Verkehr mit Tieren und tierischen Stoffen
 
 #### Art. 10
 
@@ -169,13 +161,13 @@ Die tierseuchenpolizeilichen Agenten sind zur Verschwiegenheit über alle dienst
 
 **Sömmerung**
 
-Der Staatsrat erlässt jedes Frühjahr die Bedingungen betreffend die Sömmerung.
+<sup>1</sup> Der Staatsrat erlässt jedes Frühjahr die Bedingungen betreffend die Sömmerung.
 
 #### Art. 14
 
 **Viehhandel**
 
-Der Viehhandel wird durch die entsprechenden eidgenössischen und/oder interkantonalen Bestimmungen geregelt.
+<sup>1</sup> Der Viehhandel wird durch die entsprechenden eidgenössischen und/oder interkantonalen Bestimmungen geregelt.
 
 #### Art. 15
 
@@ -189,9 +181,9 @@ Der Viehhandel wird durch die entsprechenden eidgenössischen und/oder interkant
 
 **Besamung**
 
-Das Amt erteilt die Bewilligung zur Ausführung der künstlichen Besamung.
+<sup>1</sup> Das Amt erteilt die Bewilligung zur Ausführung der künstlichen Besamung.
 
-### 4. Abschnitt: Tierseuchenbekämpfung
+## 4 Tierseuchenbekämpfung
 
 #### Art. 17
 
@@ -205,19 +197,19 @@ Das Amt erteilt die Bewilligung zur Ausführung der künstlichen Besamung.
 
 **Hochansteckende Seuchen**
 
-Der Staatsrat beschliesst bei Fällen hochansteckender Seuchen die Modalitäten der Organisation und Entschädigung der Mitglieder der Interventionsmannschaften.
+<sup>1</sup> Der Staatsrat beschliesst bei Fällen hochansteckender Seuchen die Modalitäten der Organisation und Entschädigung der Mitglieder der Interventionsmannschaften.
 
 #### Art. 19
 
 **Überwachungskampagnen**
 
-Der Kantonstierarzt bezeichnet die Tierärzte oder die übrigen Personen, welche mit Aufgaben im Rahmen der Überwachungskampagne der Tierbestände beauftragt sind. Er kann die Bedingungen für ihre Intervention festlegen.
+<sup>1</sup> Der Kantonstierarzt bezeichnet die Tierärzte oder die übrigen Personen, welche mit Aufgaben im Rahmen der Überwachungskampagne der Tierbestände beauftragt sind. Er kann die Bedingungen für ihre Intervention festlegen.
 
 #### Art. 20
 
 **Desinfektion**
 
-Bei offiziell angeordneten Desinfektionen liefert das Amt die zu verwendenden Mittel.
+<sup>1</sup> Bei offiziell angeordneten Desinfektionen liefert das Amt die zu verwendenden Mittel.
 
 #### Art. 21
 
@@ -233,9 +225,9 @@ Bei offiziell angeordneten Desinfektionen liefert das Amt die zu verwendenden Mi
 
 **Kantonales Laboratorium**
 
-Unter Vorbehalt der in der Bundesgesetzgebung vorgesehenen gegenteiligen Bestimmungen oder einer Verfügung des Kantonstierarztes sind die im Rah-men der Vorbeugung und der Seuchenbekämpfung erhobenen Proben an das kantonale Laboratorium zu senden, dies unter Vorbehalt seiner Akkreditierung durch das Bundesamt für Veterinärwesen.
+<sup>1</sup> Unter Vorbehalt der in der Bundesgesetzgebung vorgesehenen gegenteiligen Bestimmungen oder einer Verfügung des Kantonstierarztes sind die im Rah-men der Vorbeugung und der Seuchenbekämpfung erhobenen Proben an das kantonale Laboratorium zu senden, dies unter Vorbehalt seiner Akkreditierung durch das Bundesamt für Veterinärwesen.
 
-### 5. Abschnitt: Finanzielle Bestimmungen
+## 5 Finanzielle Bestimmungen
 
 #### Art. 23
 
@@ -249,7 +241,7 @@ Unter Vorbehalt der in der Bundesgesetzgebung vorgesehenen gegenteiligen Bestimm
 
 **Verdächtiger Fall**
 
-In der Regel erfolgt jeder Tierarztbesuch, welcher der Meldung eines verdächtigen Falls an den Kantonstierarzt vorangeht, auf Kosten des Tierhalters.
+<sup>1</sup> In der Regel erfolgt jeder Tierarztbesuch, welcher der Meldung eines verdächtigen Falls an den Kantonstierarzt vorangeht, auf Kosten des Tierhalters.
 
 #### Art. 25
 
@@ -278,22 +270,17 @@ In der Regel erfolgt jeder Tierarztbesuch, welcher der Meldung eines verdächtig
 <sup>2</sup> Dieser Fonds wird gespeist aus:
 
 - a) den im Staatsvoranschlag vorgesehenen Beiträgen;
-
 - b) eventuellen Beiträgen der Tiereigentümer;
-
 - c) den Einnahmen von Viehhändlerpatenten;
-
-- d) den Kapitalzinsen;
-
+- d) …
 - e) den Bussen der Tierseuchenpolizei und des Viehhandels;
-
 - f) eventuellen Schenkungen.
 
 <sup>3</sup> Der Fonds wird durch das mit den Finanzen beauftragte Departement verwaltet.
 
 <sup>4</sup> Auf Vormeinung des Departements entscheidet der Staatsrat über Entnahmen aus diesem Fonds.
 
-### 6. Abschnitt: Strafbestimmungen und Verwaltungsmassnahmen
+## 6 Strafbestimmungen und Verwaltungsmassnahmen
 
 #### Art. 28
 
@@ -315,34 +302,24 @@ In der Regel erfolgt jeder Tierarztbesuch, welcher der Meldung eines verdächtig
 
 <sup>3</sup> Ausser in dringlichen Fällen ist der Entzug Gegenstand einer formellen Verfügung des Amtes. Dieser geht eine Mahnung voran.
 
-### 7. Abschnitt: Übergangs- und Schlussbestimmungen
+## 7 Übergangs- und Schlussbestimmungen
 
 #### Art. 30
 
 **Änderung des geltenden Rechts**
 
-Artikel 2 Absatz 1 des Beschlusses betreffend die Interventionsmannschaften in Fällen hochansteckender Tierseuchen vom 16. Mai 2001 wird wie folgt geändert:
-
-#### Art. 2
-
-**Abs. 1**
-
-Das mit dem Veterinärwesen betraute Departement (nachfolgend: das Department) ist die Aufsichtsbehörde der Interventionsmannschaften.
+<sup>1</sup> Artikel 2 Absatz 1 des Beschlusses betreffend die Interventionsmannschaften in Fällen hochansteckender Tierseuchen vom 16. Mai 2001 wird geändert.
 
 #### Art. 31
 
 **Aufhebung des geltenden Rechts**
 
-Folgende Erlasse werden bei Inkrafttreten des vorliegenden Gesetzes aufgehoben:
+<sup>1</sup> Folgende Erlasse werden bei Inkrafttreten des vorliegenden Gesetzes aufgehoben:
 
 - a) die Vollziehungsverordnung zum Bundesgesetz über die Bekämpfung von Tierseuchen und seine Verordnung vom 11. Juni 1969;
-
 - b) der Beschluss betreffend die Festsetzung der Entschädigung im Kampfe gegen Bienenseuchen und der Beiträge der Bienenzüchter an den kantonalen Tierseuchenfonds vom 8. Januar 1969;
-
 - c) die Verordnung über die Bekämpfung der Rinderseuche IBR-IPV (Infektiöse Bovine Rhinotracheitis - Infektiöse Pustulöse Vulvovaginitis) vom 9. November 1983;
-
 - d) die Verordnung über weitere Massnahmen zur Bekämpfung der ansteckenden Pferdemetritis (aPM) vom 15. März 1989;
-
 - e) der Beschluss betreffend die Bekämpfung von seuchenhaften Lungenkrankheiten vom 18. März 2003.
 
 #### Art. 32
@@ -351,10 +328,6 @@ Folgende Erlasse werden bei Inkrafttreten des vorliegenden Gesetzes aufgehoben:
 
 <sup>1</sup> Das vorliegende Ausführungsgesetz untersteht nicht dem fakultativen Referendum.
 
-<sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes.[^32-1]
+<sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes.
 
-So angenommen in einziger Lesung (Art. 101 RGR) im Grossen Rat in Sitten, den 13. November 2008.
-
-Der Präsident des Grossen Rates: Paul-André Roux Der Chef des Parlamentsdienstes: Claude Bumann
-
-[^32-1]: Inkrafttreten am 1. Januar 2009
+CSW RO/AGS 2008 f 115, 483 | d 123, 505
