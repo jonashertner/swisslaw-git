@@ -3,20 +3,19 @@ canton: SG
 number: "381.18"
 title: Verordnung über private Betagten- und Pflegeheime
 language: de
-version: 2014-01-01
-valid_until: 2024-12-31
-version_adopted: 2013-12-17
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2004-02-03
 in_force: 2004-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.18"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1493/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3729/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über private Betagten- und Pflegeheime
 
-vom 03.02.2004 (Stand 01.01.2014)
+vom 03.02.2004 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -47,7 +46,7 @@ als Verordnung:[^ingress-2]
 
 **Erteilung**
 
-<sup>1</sup> Das Departement des Innern erteilt die Betriebsbewilligung, wenn die private Einrichtung die qualitativen Mindestanforderungen an Pflege und Betreuung in stationären Einrichtungen nach Art. 30 a des Sozialhilfegesetzes[^2-1] erfüllt.
+<sup>1</sup> Das Gesundheitsdepartement erteilt die Betriebsbewilligung, wenn die private Einrichtung die qualitativen Mindestanforderungen an Pflege und Betreuung in stationären Einrichtungen nach Art. 30 a des Sozialhilfegesetzes[^2-1] erfüllt.
 
 - a) …
 - b) …
@@ -76,39 +75,41 @@ als Verordnung:[^ingress-2]
 - h) Gebäude und Ausstattung sowie Verwendung der Räumlichkeiten;
 - i) Voranschlag und Finanzplan für die nächsten drei Jahre.
 
-<sup>2</sup> Das Departement des Innern kann weitere Unterlagen verlangen.
+<sup>2</sup> Das Gesundheitsdepartement kann weitere Unterlagen verlangen.
 
 #### Art. 4
 
 **Koordination**
 
-<sup>1</sup> Das Departement des Innern:
+<sup>1</sup> Das Gesundheitsdepartement:
 
-- a) sorgt für die formelle Koordination der Betriebsbewilligung mit anderen erforderlichen Verfügungen. Vorbehalten bleibt die Koordination gemäss Gesetz über die Verfahrenskoordination in Bausachen vom 18. Juni 1998[^4-1];
+- a) sorgt für die formelle Koordination der Betriebsbewilligung mit anderen erforderlichen Verfügungen. Vorbehalten bleibt die Koordination nach [Art. 132](https://www.gesetzessammlung.sg.ch/data/731.1/de/art132) ff. des Planungs- und Baugesetzes vom 5. Juli 2016[^4-1];
 - b) meldet der Standortgemeinde die Erteilung der Betriebsbewilligung;
 - c) meldet den Entzug der Betriebsbewilligung den Betagten, den gesetzlichen Vertreterinnen oder Vertretern und der Standortgemeinde.
 
-[^4-1]: sGS [731.2](https://www.gesetzessammlung.sg.ch/data/731.2/de).
+[^4-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 #### Art. 5
 
 **Entzug**
 
-<sup>1</sup> Das Departement des Innern entzieht die Betriebsbewilligung, wenn:
+<sup>1</sup> Das Gesundheitsdepartement entzieht die Betriebsbewilligung, wenn:
 
 - a) die Voraussetzungen für die Betriebsbewilligung nicht mehr erfüllt sind;
 - b) Auflagen nicht eingehalten werden;
 - c) angeordnete Massnahmen erfolglos geblieben sind.
 
-<sup>2</sup> Der Entzug muss vorher angedroht werden.
+<sup>1<sup>bis</sup></sup> Es verfügt die sofortige Schliessung der Einrichtung, wenn das Wohl der betreuten Personen erheblich gefährdet erscheint.
 
-<sup>3</sup> Wenn das Wohl der betreuten Personen erheblich gefährdet erscheint, entfällt die vorherige Androhung.
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 #### Art. 6
 
 **Verzeichnis**
 
-<sup>1</sup> Das Amt für Soziales führt ein Verzeichnis der bewilligten Einrichtungen.
+<sup>1</sup> Der Dienst für Pflege und Entwicklung führt ein Verzeichnis der bewilligten Einrichtungen.
 
 <sup>2</sup> Das Verzeichnis ist öffentlich und enthält:
 
@@ -122,7 +123,7 @@ als Verordnung:[^ingress-2]
 
 **Meldepflicht der Einrichtung a) Grundsatz**
 
-<sup>1</sup> Die Trägerschaft der Einrichtung meldet dem Amt für Soziales unaufgefordert:
+<sup>1</sup> Die Trägerschaft der Einrichtung meldet dem Dienst für Pflege und Entwicklung unaufgefordert:
 
 - a) Änderungen der Rechtsform, Trägerschaft, internen Aufsicht und Leitung;
 - b) Änderungen des Betriebskonzeptes;
@@ -132,7 +133,7 @@ als Verordnung:[^ingress-2]
 
 **b) Verzeichnis**
 
-<sup>1</sup> Die Leitung der Einrichtung stellt dem Amt für Soziales alle sechs Monate ein Verzeichnis der betreuten Personen zu.
+<sup>1</sup> Die Leitung der Einrichtung stellt dem Dienst für Pflege und Entwicklung alle sechs Monate ein Verzeichnis der betreuten Personen zu.
 
 <sup>2</sup> Das Verzeichnis enthält:
 
@@ -149,15 +150,15 @@ als Verordnung:[^ingress-2]
 
 **Behördliche Aufsicht a) Grundsatz**
 
-<sup>1</sup> Das Amt für Soziales beaufsichtigt die privaten Einrichtungen und koordiniert die Aufsicht mit anderen Fachstellen, die Aufsichtsfunktionen wahrnehmen.
+<sup>1</sup> Der Dienst für Pflege und Entwicklung beaufsichtigt die privaten Einrichtungen und koordiniert die Aufsicht mit anderen Fachstellen, die Aufsichtsfunktionen wahrnehmen.
 
-<sup>2</sup> Es teilt das Ergebnis seiner Aufsichtstätigkeit der Trägerschaft der Einrichtung, der internen Aufsicht und der Standortgemeinde mit.
+<sup>2</sup> Er teilt das Ergebnis seiner Aufsichtstätigkeit der Trägerschaft der Einrichtung, der internen Aufsicht und der Standortgemeinde mit.
 
 #### Art. 11
 
 **b) Mittel**
 
-<sup>1</sup> Das Amt für Soziales:
+<sup>1</sup> Der Dienst für Pflege und Entwicklung:
 
 - a) weist auf fachkundige Beratungsangebote für die Beseitigung von Mängeln und für Fragen der Betreuungsqualität hin;
 - b) kann Berichte bei Trägerschaft, interner Aufsicht, gesetzlichen Vertreterinnen und Vertretern sowie zuständigen Stellen der Standortgemeinde einholen;
@@ -168,12 +169,12 @@ als Verordnung:[^ingress-2]
 
 **c) Massnahmen**
 
-<sup>1</sup> Das Amt für Soziales:
+<sup>1</sup> Der Dienst für Pflege und Entwicklung:
 
-- a) verfügt die Behebung von Mängeln oder stellt bei der zuständigen Behörde Antrag;
-- b) kann Fachpersonen mit besonderen Aufsichtsfunktionen beauftragen;
+- a) verfügt die Behebung von Mängeln. Vorbehalten sind der Entzug der Betriebsbewilligung und die sofortige Schliessung des Betriebs nach Art. 5 dieses Erlasses;
+- b) …
 - c) informiert Betagte, ihre gesetzlichen Vertreterinnen oder Vertreter und die Standortgemeinde, wenn das Wohl der Betreuten gefährdet erscheint;
-- d) verfügt die sofortige Schliessung der Einrichtung, wenn das Wohl der betreuten Personen erheblich gefährdet erscheint.
+- d) …
 
 #### Art. 13
 
@@ -214,6 +215,12 @@ als Verordnung:[^ingress-2]
 **Übergangsbestimmung**
 
 <sup>1</sup> Bestehende Einrichtungen reichen dem Departement für Inneres und Militär bis 30. September 2004 das Gesuch um Erteilung der Betriebsbewilligung samt Unterlagen nach Art. 3 und 8 dieses Erlasses ein.
+
+#### Art. 18a
+
+**Übergangsbestimmung des II. Nachtrags vom 10. Dezember 2024**
+
+<sup>1</sup> Bewilligungs- und Aufsichtsverfahren, die am 31. Dezember 2024 beim Departement des Innern hängig sind, werden ab dem 1. Januar 2025 vom Gesundheitsdepartement weitergeführt.
 
 #### Art. 19
 
