@@ -4,13 +4,13 @@ number: "130.1"
 title: Staatsverwaltungsgesetz
 short: StVG
 language: de
-version: 2023-03-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-01
+version: 2025-01-01
+valid_until: 2026-12-31
+version_adopted: 2024-10-31
 adopted: 1997-06-08
 in_force: 1997-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/130.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1782/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1917/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1782/pdf_file"
 
 (StVG)
 
-vom 08.06.1997 (Stand 01.03.2023)
+vom 08.06.1997 (Stand 01.01.2025)
 
 Das Volk des Kantons Obwalden,
 
@@ -367,6 +367,8 @@ beschliesst:
 
 <sup>2</sup> Die Probezeit kann vertraglich bis auf längstens sechs Monate festgesetzt oder verlängert werden.
 
+<sup>3</sup> Die Vertragsparteien können im gegenseitigen Einvernehmen auf die Probezeit verzichten oder eine kürzere Probezeit vereinbaren.
+
 #### Art. 47
 
 **Beendigung des Dienstverhältnisses**
@@ -414,9 +416,9 @@ beschliesst:
 
 **Erreichen der Altersgrenze oder dauernde Arbeitsunfähigkeit**
 
-<sup>1</sup> Das Dienstverhältnis endet mit dem Ende des Monats, in welchem die AHV-Altersgrenze erreicht wird.
+<sup>1</sup> Das Dienstverhältnis endet mit dem Ende des Monats, in welchem das ordentliche Rentenalter erreicht wird.
 
-<sup>2</sup> Das Dienstverhältnis kann in begründeten Fällen bis zwei Jahre über die AHV-Altersgrenze hinaus fortgesetzt werden, sofern dies im Interesse des Kantons liegt.
+<sup>2</sup> In begründeten Fällen und sofern es im Interesse des Kantons liegt, können Dienstverhältnisse auch für die Zeit nach Erreichen des ordentlichen Rentenalters fortgesetzt oder eingegangen werden, jedoch längstens bis zur Vollendung des 72. Altersjahrs. Die Lohnfortzahlung bei Arbeitsverhinderung wegen Arbeitsunfähigkeit dauert in diesen Fällen maximal 180 Tage.
 
 <sup>3</sup> Bei dauernder voller Arbeitsunfähigkeit endet das Dienstverhältnis mit dem Anspruch auf eine volle Invalidenrente.
 
@@ -456,9 +458,9 @@ beschliesst:
 
 **Wohnsitz**
 
-<sup>1</sup> Angestellte haben im Kanton Wohnsitz zu nehmen. Sie können durch die Anstellungsbehörde von der Wohnsitzpflicht befreit werden, es sei denn, die Art des Dienstes oder besondere Beziehungen der Angestellten zur Bevölkerung erfordere die Wohnsitznahme im Kanton.
+<sup>1</sup> Wenn das Arbeitsverhältnis oder die Art des Dienstes es erfordern, kann die Anstellungsbehörde den Wohnsitz an einem bestimmten Ort oder in einem bestimmten Gebiet verlangen oder eine Dienstwohnung zuweisen.
 
-<sup>2</sup> Erfordern es die dienstlichen Bedürfnisse, so kann der Ort der Wohnsitznahme vorgeschrieben oder eine Dienstwohnung zugewiesen werden.
+<sup>2</sup> …
 
 #### Art. 55
 
@@ -526,7 +528,13 @@ beschliesst:
 
 <sup>2</sup> Die Abgangsentschädigung wird vom Regierungsrat festgelegt und beträgt je nach geleisteten Amtsjahren höchstens sechs Monatslöhne. Der Kantonsrat regelt die Abstufung durch Verordnung.
 
-<sup>3</sup> Ein Anspruch auf die Abgangsentschädigung entfällt in dem Umfang, als ein Anspruch auf Entschädigung aus ungerechtfertigter Beendigung des Dienstverhältnisses oder aus beruflicher Vorsorge besteht, oder wenn das Dienstverhältnis einvernehmlich aufgelöst wird.
+<sup>3</sup> Ein Anspruch auf die Abgangsentschädigung entfällt:
+
+- a. in dem Umfang, als ein Anspruch auf Entschädigung aus ungerechtfertigter Beendigung des Dienstverhältnisses oder aus beruflicher Vorsorge besteht;
+- b. wenn das Dienstverhältnis einvernehmlich aufgelöst wird;
+- c. infolge Arbeitsunfähigkeit;
+- d. bei Tod;
+- e. bei Beendigung eines befristeten Dienstverhältnisses.
 
 ## 4. Verwaltungsverfahren und Verwaltungsbeschwerdeverfahren
 
@@ -755,6 +763,8 @@ geändert durch:
 
 \- Nachtrag vom 28. Juni 2019 (OGS 2019, 30), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.03) , in Kraft seit 1. Januar 2020 (OGS 2019, 40),
 
-\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1),
+
+\- Nachtrag vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39)
 
 OGS 1997, 83
