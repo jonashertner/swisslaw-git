@@ -2,24 +2,23 @@
 canton: GR
 number: "500.500"
 title: Lescha introductiva tar la lescha federala davart ils medicaments ed ils products medicinals
-short: lescha introductiva tar la lescha davart ils products terapeutics; LItLPTer
+short: "lescha introductiva tar la lescha davart ils products terapeutics, LItLPTer"
 language: rm
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2016-09-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2010-08-27
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2795/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3401/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha introductiva tar la lescha federala davart ils medicaments ed ils products medicinals
 
-(lescha introductiva tar la lescha davart ils products terapeutics; LItLPTer)
+(lescha introductiva tar la lescha davart ils products terapeutics, LItLPTer)
 
-dals 27-08-2010 (versiun dals 01-01-2018)
+dals 27-08-2010 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -368,7 +367,7 @@ concluda:
 
 **Recurs cunter decisiuns da la cumissiun d'etica**
 
-<sup>1</sup> Cunter decisiuns da la cumissiun chantunala d'etica nominada da la regenza poi vegnir fatg recurs tar la dretgira administrativa.
+<sup>1</sup> Cunter decisiuns da la Cumissiun chantunala d'etica nominada da la Regenza poi vegnir fatg recurs tar la Dretgira superiura.
 
 #### Art. 30
 

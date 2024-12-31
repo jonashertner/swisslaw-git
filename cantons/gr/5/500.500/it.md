@@ -2,24 +2,23 @@
 canton: GR
 number: "500.500"
 title: "Legge d'applicazione della legge federale sui medicamenti e i dispositivi medici"
-short: "Legge d'applicazione della legge sugli agenti terapeutici; LAdLATer"
+short: "Legge d'applicazione della legge sugli agenti terapeutici, LAdLATer"
 language: it
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2016-09-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2010-08-27
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2795/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3401/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge d'applicazione della legge federale sui medicamenti e i dispositivi medici
 
-(Legge d'applicazione della legge sugli agenti terapeutici; LAdLATer)
+(Legge d'applicazione della legge sugli agenti terapeutici, LAdLATer)
 
-del 27.08.2010 (stato 01.01.2018)
+del 27.08.2010 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -368,7 +367,7 @@ decide:
 
 **Impugnazione delle decisioni della Commissione etica**
 
-<sup>1</sup> Contro decisioni della Commissione etica cantonale designata dal Governo è data facoltà di ricorso al Tribunale amministrativo.
+<sup>1</sup> Contro decisioni della Commissione etica cantonale designata dal Governo è data facoltà di ricorso al Tribunale d'appello.
 
 #### Art. 30
 

@@ -2,24 +2,23 @@
 canton: GR
 number: "500.500"
 title: Einführungsgesetz zum Bundesgesetz über Arzneimittel und Medizinprodukte
-short: Einführungsgesetz zum Heilmittelgesetz; EGzHMG
+short: "Einführungsgesetz zum Heilmittelgesetz, EGzHMG"
 language: de
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2016-09-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2010-08-27
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2795/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3401/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über Arzneimittel und Medizinprodukte
 
-(Einführungsgesetz zum Heilmittelgesetz; EGzHMG)
+(Einführungsgesetz zum Heilmittelgesetz, EGzHMG)
 
-Vom 27.08.2010 (Stand 01.01.2018)
+Vom 27.08.2010 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -368,7 +367,7 @@ beschliesst:
 
 **Weiterzug der Entscheide der Ethikkommission**
 
-<sup>1</sup> Gegen Entscheide der von der Regierung bezeichneten kantonalen Ethikkommission kann Beschwerde an das Verwaltungsgericht erhoben werden.
+<sup>1</sup> Gegen Entscheide der von der Regierung bezeichneten kantonalen Ethikkommission kann Beschwerde an das Obergericht erhoben werden.
 
 #### Art. 30
 
