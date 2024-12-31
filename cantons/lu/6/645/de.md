@@ -4,13 +4,12 @@ number: "645"
 title: Gesetz über die Handänderungssteuer
 short: HStG
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-02-18
+version: 2025-01-01
+version_adopted: 2024-03-18
 adopted: 1983-06-28
 in_force: 1984-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/645"
-pdf: "https://srl.lu.ch/api/de/versions/3499/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4351/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3499/pdf_file"
 
 (HStG)
 
-vom 28.06.1983 (Stand 01.01.2020)
+vom 28.06.1983 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -296,7 +295,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden sind dem Staat für den richtigen Bezug und die rechtzeitige Ablieferung der Steuern verantwortlich. Sie haften unmittelbar für Handlungen und Unterlassungen der damit beauftragten Gemeindeorgane.
 
-<sup>2</sup> Der Kantonsanteil ist von den Gemeinden halbjährlich der Staatskasse zu überweisen. Bei verspäteter Ablieferung wird ein vom Regierungsrat festzulegender Verzugszins erhoben.
+<sup>2</sup> Der am Monatsende bestehende Saldo der Steuerbeträge ist innert 15 Tagen an den Kanton zu überweisen. Bei verspäteter Ablieferung wird ein vom Regierungsrat festgelegter Zins erhoben.
 
 #### § 25
 
