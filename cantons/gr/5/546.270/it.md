@@ -4,13 +4,13 @@ number: "546.270"
 title: "Disposizioni esecutive della legge cantonale sull'assistenza *"
 short: DELCAss
 language: it
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-13
+version: 2025-01-01
+valid_until: 2026-01-31
+version_adopted: 2025-02-04
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3288/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3623/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3288/pdf_file"
 
 (DELCAss)
 
-del 08.11.2005 (stato 01.01.2023)
+del 08.11.2005 (stato 01.01.2025)
 
 emanate dal Governo l'8 novembre 2005
 
@@ -60,12 +60,12 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 <table>
 <tr><th>Grandezza del nucleo familiare</th><th>Forfait per mese</th></tr>
-<tr><td>1 persona</td><td>fr. 1031.–</td></tr>
-<tr><td>2 persone</td><td>fr. 1577.–</td></tr>
-<tr><td>3 persone</td><td>fr. 1918.–</td></tr>
-<tr><td>4 persone</td><td>fr. 2206.–</td></tr>
-<tr><td>5 persone</td><td>fr. 2495.–</td></tr>
-<tr><td>per ogni persona supplementare</td><td>fr. 209.–</td></tr>
+<tr><td>1 persona</td><td>fr. 1061.–</td></tr>
+<tr><td>2 persone</td><td>fr. 1624.–</td></tr>
+<tr><td>3 persone</td><td>fr. 1974.–</td></tr>
+<tr><td>4 persone</td><td>fr. 2271.–</td></tr>
+<tr><td>5 persone</td><td>fr. 2568.–</td></tr>
+<tr><td>per ogni persona supplementare</td><td>fr. 216.–</td></tr>
 </table>
 
 #### Art. 4
@@ -247,12 +247,44 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 <sup>1</sup> L'Ufficio cantonale del servizio sociale verifica periodicamente il grado di copertura dei costi garantito dai contributi versati ai comuni nonché i compiti sovraordinati e i relativi costi.
 
+## 3. Obbligo di restituzione
+
 #### Art. 13
 
-**Disposizione finale e transitoria**
+**Restituzione tramite il reddito**
 
-<sup>1</sup> Le presenti disposizioni esecutive entrano in vigore il 1° gennaio 2006.
+<sup>1</sup> Il reddito determinante per la restituzione ammonta alla metà dell'importo calcolato secondo il capoverso 2.
 
-<sup>2</sup> A partire dal 1° aprile 2016, i casi di assistenza in corso dovranno essere gestiti secondo le disposizioni vigenti dal 1° gennaio 2016.
+<sup>2</sup> L'importo risulta dalla somma dei proventi imponibili dedotte le seguenti voci:
+
+- a) doppia quota del forfait per il mantenimento;
+- b) spese di alloggio effettive;
+- c) assistenza medica di base;
+- d) spese di conseguimento del reddito e di formazione;
+- e) altre spese: imposte, assicurazioni, contributi di mantenimento, spese di malattia, interessi passivi ed estinzione di debiti nonché altre spese motivate secondo il dispendio effettivo.
+
+#### Art. 14
+
+**Restituzione da incremento patrimoniale**
+
+<sup>1</sup> In caso di incremento patrimoniale vanno considerati i seguenti importi lasciati a libera disposizione:
+
+- a) per persone sole: — fr. 30 000.–
+- b) per coniugi e unioni domestiche registrate: — fr. 50 000.–
+- c) per ogni minore: — fr. 15 000.–
+
+<sup>2</sup> Le indennità per menomazione dell'integrità e le prestazioni di riparazione morale non sono soggette all'obbligo di restituzione.
+
+#### Art. 15
+
+**Compensazione**
+
+<sup>1</sup> Una pretesa di restituzione a seguito di prestazioni assistenziali percepite in modo illegittimo può essere compensata con prestazioni assistenziali in corso.
+
+<sup>2</sup> La compensazione avviene con il forfait per il mantenimento. Tuttavia, anche tenendo conto di una riduzione, essa non può comportare una diminuzione di oltre il 30 per cento del forfait per il mantenimento.
+
+<sup>3</sup> Se avviene una compensazione superiore al dieci per cento, la compensazione è limitata a un massimo di sei mesi. Altrimenti non vige alcuna limitazione temporale.
+
+<sup>4</sup> Pretese di restituzione concernenti prestazioni erogate senza titolo giuridico a seguito di una svista da parte dell'autorità assistente non possono essere rese oggetto di compensazione.
 
 -
