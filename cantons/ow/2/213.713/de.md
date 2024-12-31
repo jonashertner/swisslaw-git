@@ -3,20 +3,20 @@ canton: OW
 number: "213.713"
 title: Ausführungsbestimmungen über die Gewährung eines Einschlags auf dem Eigenmietwert in Härtefällen
 language: de
-version: 2017-01-02
-valid_until: 2024-12-31
-version_adopted: 2017-02-14
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-26
 adopted: 2016-09-27
 in_force: 2017-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/213.713"
-pdf: "http://gdb.ow.ch/api/de/versions/1187/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1906/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Gewährung eines Einschlags auf dem Eigenmietwert in Härtefällen
 
-vom 27.09.2016 (Stand 02.01.2017)
+vom 27.09.2016 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -75,6 +75,12 @@ beschliesst:
 
 <sup>1</sup> Steht der steuerpflichtigen Person gemäss diesen Ausführungsbestimmungen ein Einschlag auf dem Eigenmietwert zu, wird die Unterhaltspauschale ungeachtet dieses Einschlags auf dem vollen Eigenmietwert berechnet.
 
+#### Art. 6a
+
+**Beschränkung des Einschlags**
+
+<sup>1</sup> Der zu besteuernde Eigenmietwert muss nach Abzug des Einschlags in Härtefällen mindestens 60 Prozent des Mietwerts (100 Prozent) betragen.
+
 #### Art. 7
 
 **Geltendmachung**
@@ -91,6 +97,8 @@ Ursprüngliches Inkrafttreten: 1. Januar 2017
 
 Geändert durch:
 
-\- Nachtrag vom 14. Februar 2017, in Kraft rückwirkend seit 1. Januar 2017 (OGS 2017, 9; die im Amtsblatt publizierten Anhänge 1 und 2 wurden gegenüber der ursprünglichen Fassung nicht geändert). **Aus technischen Gründen wurde in der GDB als Inkrafttretensdatum der 2. Januar 2017 verwendet.**
+\- Nachtrag vom 14. Februar 2017, in Kraft rückwirkend seit 1. Januar 2017 (OGS 2017, 9; die im Amtsblatt publizierten Anhänge 1 und 2 wurden gegenüber der ursprünglichen Fassung nicht geändert). **Aus technischen Gründen wurde in der GDB als Inkrafttretensdatum der 2. Januar 2017 verwendet.**,
+
+\- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38)
 
 OGS 2016, 55
