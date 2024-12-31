@@ -4,13 +4,12 @@ number: "772.300"
 title: Gesetz über die Industriellen Werke Basel
 short: IWB-Gesetz
 language: de
-version: 2023-03-16
-valid_until: 2024-12-31
-version_adopted: 2023-01-11
+version: 2025-01-01
+version_adopted: 2022-10-20
 adopted: 2009-02-11
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5860/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ IWB-Gesetz | Energie- und Wasserversorgung
 
 (IWB-Gesetz)
 
-Vom 11. Februar 2009 (Stand 16. März 2023)
+Vom 11. Februar 2009 (Stand 1. Januar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -456,7 +455,7 @@ beschliesst:
 
 <sup>2</sup> Die IWB sind zudem berechtigt, mit Einwilligung der betroffenen Personen Personendaten zum Zwecke der Entwicklung und Bereitstellung von Energiedienstleistungen zu bearbeiten.
 
-<sup>3</sup> Die Einzelheiten der Datenbearbeitung gemäss Abs. 1 und 2 werden in vom Verwaltungsrat zu erlassenden und vom Regierungsrat zu genehmigenden Ausführungsbestimmungen für jedes Medium (Elektrizität, Erdgas, Fernwärme und Wasser) separat geregelt. Diese Ausführungsbestimmungen zur Datenbearbeitung sind der oder dem kantonalen Datenschutzbeauftragten im Rahmen eines Vorabkontrollverfahrens vorzulegen.
+<sup>3</sup> Die Einzelheiten der Datenbearbeitung gemäss Abs. 1 und 2 werden in vom Verwaltungsrat zu erlassenden und vom Regierungsrat zu genehmigenden Ausführungsbestimmungen für jedes Medium (Elektrizität, Erdgas, Fernwärme und Wasser) separat geregelt. Diese Ausführungsbestimmungen zur Datenbearbeitung sind der oder dem kantonalen Datenschutzbeauftragten im Rahmen einer Vorabkonsultation vorzulegen.
 
 <sup>4</sup> Ausserhalb ihres öffentlichen Auftrags sind die IWB überdies berechtigt, über die Schnittstellen am Smart Meter Personendaten zu bearbeiten, wenn und soweit die betroffene Person sie dazu beauftragt und nach angemessener Information über den Zweck und Inhalt der Datenbearbeitung darin schriftlich eingewilligt hat. Die IWB haben ausserdem sicherzustellen, dass die erhobenen Personendaten durch angemessene technische und organisatorische Massnahmen gegen unbefugtes Bearbeiten geschützt werden.
 
