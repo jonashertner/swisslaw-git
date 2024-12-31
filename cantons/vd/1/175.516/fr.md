@@ -4,7 +4,7 @@ number: "175.516"
 title: RÈGLEMENT du 17.02.2021 sur les modalités de répartition de la compensation fédérale visant à atténuer les effets de la mise en œuvre de la RFFA (R-RFFA)
 short: R-RFFA
 language: fr
-version: 2020-01-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.516?id=fbd33d3a-4d25-4bd2-992f-3af34c21f0b5"
 ---
 
@@ -35,7 +35,7 @@ arrête
 
 **Principe [^t-1]**
 
-<sup>1</sup> La part de la compensation fédérale revenant aux communes conformément à l'article 2a LPIC se calcule selon le rapport existant entre le rendement des impôts cantonaux et celui des impôts communaux sur le bénéfice et sur le capital des personnes morales.
+<sup>1</sup> La part de la compensation fédérale revenant aux communes conformément à l'article 16 LPIV se calcule selon le rapport existant entre le rendement des impôts cantonaux et celui des impôts communaux sur le bénéfice et sur le capital des personnes morales.
 
 <sup>2</sup> La part de la compensation calculée selon l'alinéa 1 est répartie entre les communes en fonction du rendement de leurs impôts sur le bénéfice et sur le capital des personnes morales.
 
