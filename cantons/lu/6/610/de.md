@@ -4,13 +4,13 @@ number: "610"
 title: Gesetz über den Finanzausgleich
 short: FAG
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-02-18
+version: 2025-01-01
+valid_until: 2025-05-31
+version_adopted: 2024-03-18
 adopted: 2002-03-05
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/610"
-pdf: "https://srl.lu.ch/api/de/versions/3406/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4481/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3406/pdf_file"
 
 (FAG)
 
-vom 05.03.2002 (Stand 01.01.2020)
+vom 05.03.2002 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -85,7 +85,8 @@ beschliesst:
 - f. der Gemeindeanteil an der Erbschafts- und Schenkungssteuer ohne Nachkommenserbschaftssteuer,
 - g. der Gemeindeanteil an der Motorfahrzeugsteuer,
 - h. die Konzessionsgebühren,
-- i. die positiven Nettovermögenserträge.
+- i. die positiven Nettovermögenserträge,
+- j. der Gemeindeanteil am Ertrag der Mindestbesteuerung grosser Unternehmensgruppen.
 
 <sup>3</sup> Der mittlere Steuerfuss ist das mit der absoluten Steuerkraft der Gemeinden gewogene arithmetische Mittel der Steuerfüsse der Gemeinden, abzüglich allfälliger Steuerrabatte. Die absolute Steuerkraft ist der Ertrag einer Einheit der ordentlichen Gemeindesteuern.
 
