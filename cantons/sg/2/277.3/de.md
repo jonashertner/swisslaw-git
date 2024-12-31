@@ -3,20 +3,19 @@ canton: SG
 number: "277.3"
 title: Vereinbarung über den Schutz und die Pflege des Weltkulturerbes Stiftsbezirk St.Gallen
 language: de
-version: 2015-01-15
-valid_until: 2024-12-31
-version_adopted: 2014-11-10
+version: 2025-01-01
+version_adopted: 2024-12-01
 adopted: 2014-11-10
 in_force: 2015-01-15
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/277.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2740/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3695/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über den Schutz und die Pflege des Weltkulturerbes Stiftsbezirk St.Gallen
 
-vom 10.11.2014 (Stand 15.01.2015)
+vom 10.11.2014 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen, der Administrationsrat des Katholischen Konfessionsteils des Kantons St.Gallen und der Stadtrat der Stadt St.Gallen
 
@@ -123,7 +122,7 @@ folgende Vereinbarung ab:[^ingress-1]
 
 - a) welche Aufgaben und Massnahmen von den beteiligten Körperschaften gemeinsam umgesetzt werden;
 - b) welche Stelle die Federführung bei der Umsetzung einer gemeinsamen Aufgabe oder Massnahme übernimmt;
-- c) die Grundsätze der Finanzierung gemeinsamer Aufgaben und Massnahmen;
+- c) die Einzelheiten der Finanzierung gemeinsamer Aufgaben und Massnahmen sowie der jeweils vorgesehene Kostenteiler. Art. 12 Abs. 2 dieser Vereinbarung bleibt vorbehalten;
 - d) welche beteiligte Körperschaft eine nicht gemeinsame Aufgabe oder Massnahme umsetzt;
 - e) der Einbezug Dritter in die weitere Planung und Umsetzung.
 
@@ -131,7 +130,7 @@ folgende Vereinbarung ab:[^ingress-1]
 
 **Umsetzung a) gemeinsame Aufgaben und Massnahmen**
 
-<sup>1</sup> Die federführende Stelle plant und koordiniert die Umsetzung gemeinsamer Aufgaben und Massnahmen. Sie bereitet die notwendigen Vorlagen für die Beschlussfassung durch die zuständigen Organe der beteiligten Körperschaften vor.
+<sup>1</sup> Die federführende Stelle plant und koordiniert die Umsetzung gemeinsamer Aufgaben und Massnahmen.
 
 #### Art. 11
 
@@ -184,7 +183,11 @@ folgende Vereinbarung ab:[^ingress-1]
 <sup>1</sup> Die Vertragsparteien delegieren an den Verein Weltkulturerbe Stiftsbezirk St.Gallen:
 
 - a) die Ausarbeitung des Managementplans;
-- b) die Koordination für die Ausarbeitung und Umsetzung der vierjährigen Aufgaben- und Massnahmenplanung.
+- b) die Koordination für die Ausarbeitung und Umsetzung der vierjährigen Aufgaben- und Massnahmenplanung;
+- c) die Verwaltung und Freigabe der finanziellen Mittel, welche die zuständigen Organe der beteiligten Körperschaften nach Art. 9 Abs. 2 Bst. a und c in Verbindung mit Art. 12 Abs. 2 dieser Vereinbarung für die Umsetzung der gemeinsamen Aufgaben und Massnahmen bereitstellen;
+- d) den Umgang mit Mehr- oder Minderkosten bei den gemeinsamen Aufgaben und Massnahmen während der vierjährigen Aufgaben- und Massnahmenplanung. Es gelten folgende Rahmenbedingungen:
+  - 1\. Die finanziellen Mittel können im Einvernehmen der mitfinanzierenden Körperschaften zwischen den gemeinsamen Aufgaben und Massnahmen umgelagert werden, soweit dies zweckmässig ist und die Umsetzung der einzelnen gemeinsamen Aufgaben und Massnahmen nicht beeinträchtigt.
+  - 2\. Am Ende der vierjährigen Aufgaben- und Massnahmenplanung nicht ausgeschöpfte finanzielle Mittel werden den Vertragsparteien anteilmässig zurückerstattet.
 
 ## V. Schlussbestimmungen
 
