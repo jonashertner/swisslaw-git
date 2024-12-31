@@ -4,13 +4,12 @@ number: "320.22"
 title: Gesetz über das Zentrum für Labormedizin
 short: GZL
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-08-13
+version: 2025-01-01
+version_adopted: 2024-06-25
 adopted: 2010-01-26
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.22"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2854/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3673/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2854/pdf_file"
 
 (GZL)
 
-vom 26.01.2010 (Stand 01.01.2020)
+vom 26.01.2010 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -73,10 +72,10 @@ als Gesetz:[^ingress-2]
 
 **Verwaltungsrat a) Zusammensetzung und Wahl**
 
-<sup>1</sup> Der Verwaltungsrat setzt sich zusammen aus:
+<sup>1</sup> Dem Verwaltungsrat gehören höchstens sieben nach fachlichen Kriterien gewählte Mitglieder an. Mitglieder anderer Organe des Zentrums für Labormedizin sowie Mitglieder der Regierung sind nicht wählbar.
 
-- a) höchstens sechs nach fachlichen Kriterien gewählten Mitgliedern. Mitglieder anderer Organe des Zentrums für Labormedizin sind nicht wählbar;
-- b) einer Vertreterin oder einem Vertreter des zuständigen Departementes, ausgenommen die Vorsteherin oder der Vorsteher.
+- a) …
+- b) …
 
 <sup>2</sup> Die Amtsdauer beträgt höchstens vier Jahre. Sie endet spätestens mit der Vollendung des 70. Altersjahres. Im Übrigen konstituiert sich der Verwaltungsrat selbst.
 
@@ -117,7 +116,9 @@ als Gesetz:[^ingress-2]
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Finanzkontrolle des Kantons St.Gallen ist Revisionsstelle.
+<sup>1</sup> Die Regierung wählt als Revisionsstelle die kantonale Finanzkontrolle oder eine externe Revisionsstelle.
+
+<sup>2</sup> Die Revisionsstelle prüft Rechnungswesen und Jahresrechnung des Zentrums für Labormedizin.
 
 ### 2. Regierung und Kantonsrat
 
