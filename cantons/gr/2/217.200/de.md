@@ -3,28 +3,28 @@ canton: GR
 number: "217.200"
 title: Verordnung über die Gebühren der Grundbuchämter
 language: de
-version: 2015-01-01
-corrected: 2022-08-10
-version_adopted: 2014-10-20
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/217.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2228/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3461/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren der Grundbuchämter
 
-Gestützt auf Art. 954 des Schweizerischen Zivilgesetzbuches[^t-1] und auf Art. 140 des kantonalen Einführungsgesetzes hiezu[^t-2]
+Vom 05.12.2000 (Stand 01.01.2025)
+
+Gestützt auf Art. 954 des Schweizerischen Zivilgesetzbuches[^ingress-1] und auf Art. 140 des kantonalen Einführungsgesetzes hierzu[^ingress-2]
 
 von der Regierung erlassen am 5. Dezember 2000
 
-I. Allgemeine Bestimmungen
+[^ingress-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^ingress-2]: BR [210.100](https://www.gr-lex.gr.ch/data/210.100/de)
 
-[^t-1]: SR 210
-[^t-2]: BR 210.100
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -34,7 +34,7 @@ I. Allgemeine Bestimmungen
 
 <sup>2</sup> Die Gebühren für die Amtsverrichtungen des Grundbuchverwalters als Notariatsperson richten sich nach der Verordnung über die Notariatsgebühren[^1-1].
 
-[^1-1]: BR 210.370 01.01.2015 1
+[^1-1]: BR [210.370](https://www.gr-lex.gr.ch/data/210.370/de)
 
 #### Art. 2
 
@@ -46,13 +46,13 @@ I. Allgemeine Bestimmungen
 
 <sup>3</sup> Die Grundbuchkreise können die Grundbuchverwalter fest besolden oder ihnen als Entgelt für ihre Amtshandlungen die Gebühren überlassen (Sportelnsystem).
 
-<sup>4</sup> Übersteigen die Gebühren für das Errichten, für die öffentliche Beurkundung und für die Eintragung eines Grundbuchgeschäftes zusammen den Betrag von 1 000 Franken, so hat der im Sportelnsystem tätige Grundbuchverwalter den Mehrbetrag dem Grundbuchkreis zu erstatten.
+<sup>4</sup> Übersteigen die Gebühren für das Errichten, für die öffentliche Beurkundung und für die Eintragung eines Grundbuchgeschäftes zusammen den Betrag von 1000 Franken, so hat der im Sportelnsystem tätige Grundbuchverwalter den Mehrbetrag dem Grundbuchkreis zu erstatten.
 
 #### Art. 3
 
 **Sicherstellung**
 
-Der Grundbuchverwalter kann zur Sicherstellung seiner Gebühren und Auslagen Vorschüsse verlangen.
+<sup>1</sup> Der Grundbuchverwalter kann zur Sicherstellung seiner Gebühren und Auslagen Vorschüsse verlangen.
 
 #### Art. 4
 
@@ -78,23 +78,21 @@ Der Grundbuchverwalter kann zur Sicherstellung seiner Gebühren und Auslagen Vor
 
 <sup>2</sup> Für Eintragungen, die von Amtsstellen angeordnet werden, sind die Gebühren vom Eigentümer zu erheben.
 
-[^6-1]: Fassung gemäss Verordnung über die Anpassung von Regierungsverordnungen an das Verwaltungsrechtspflegegesetz; AGS 2006, KA 2006\_5025 bzw. gemäss Anhang 2 RVOV, AGS 2006, KA 2006\_ 4281; am 1. Januar 2007 in Kraft getreten. 2 01.01.2015
-
 #### Art. 7
 
-**Beschwerde**[^6-1]
+**Beschwerde**
 
 <sup>1</sup> Beschwerden gegen Rechnungsverfügungen betreffend Grundbuchgebühren sind innert 30 Tagen an das Departement für Volkswirtschaft und Soziales zu richten.
 
-<sup>2</sup> Gegen den Entscheid des Departementes kann innert 30 Tagen beim Verwaltungsgericht Beschwerde erhoben werden.
+<sup>2</sup> Gegen den Entscheid des Departementes kann innert 30 Tagen beim Obergericht Beschwerde erhoben werden.
 
-### II. Bemessungsgrundlagen
+## 2. Bemessungsgrundlagen
 
 #### Art. 8
 
 **Mehrere Rechtsgeschäfte**
 
-Mehrere in einem Vertrag enthaltene Rechtsgeschäfte, die verschiedene Eintragungen, Vormerkungen, Anmerkungen und Löschungen erfordern, sind als separate Grundbuchgeschäfte zu behandeln.
+<sup>1</sup> Mehrere in einem Vertrag enthaltene Rechtsgeschäfte, die verschiedene Eintragungen, Vormerkungen, Anmerkungen und Löschungen erfordern, sind als separate Grundbuchgeschäfte zu behandeln.
 
 #### Art. 9
 
@@ -102,11 +100,7 @@ Mehrere in einem Vertrag enthaltene Rechtsgeschäfte, die verschiedene Eintragun
 
 <sup>1</sup> Die Gebühren sind, soweit nachstehend keine Abweichungen festgelegt werden, nach den Vertragssummen zu berechnen.
 
-**0,5 ‰**
-
-**Fr. 100.– Fr. 7 500.–**
-
-<sup>2</sup> Werden keine Vertragssummen festgelegt, so ist der für die Gebührenerhebung festzulegende Wert in Absprache mit den Parteien zu ermitteln. Kommt keine Einigung zustande, haben die Parteien zu ihren Lasten eine aktuelle amtliche Verkehrswertschätzung beizubringen, nach welcher die Gebühr zu erheben ist.
+<sup>2</sup> Werden keine Vertragssummen festgelegt, so ist der für die Gebührenerhebung festzulegende Wert in Absprache mit den Parteien zu ermitteln. Kommt keine Einigung zustande, haben die Parteien zu ihren Lasten eine aktuelle amtliche Verkehrswertbewertung beizubringen, nach welcher die Gebühr zu erheben ist.
 
 <sup>3</sup> Wird ein Grundstück gestützt auf einen bundesrechtlich festgesetzten Anspruch zum Ertragswert übertragen, ist die Gebühr nach diesem Wert zu erheben.
 
@@ -114,9 +108,9 @@ Mehrere in einem Vertrag enthaltene Rechtsgeschäfte, die verschiedene Eintragun
 
 **Bemessung nach Zeitaufwand**
 
-Fehlt in dieser Verordnung ein Gebührenansatz, so werden die Gebühren für die tatsächlich erbrachten Leistungen nach der aufgewendeten Zeit (Art. 18 lit. d) und der Bedeutung des Geschäfts beim Auftraggeber erhoben. Die Mindestgebühr beträgt 30 Franken.
+<sup>1</sup> Fehlt in dieser Verordnung ein Gebührenansatz, so werden die Gebühren für die tatsächlich erbrachten Leistungen nach der aufgewendeten Zeit (Art. 18 lit. d) und der Bedeutung des Geschäfts beim Auftraggeber erhoben. Die Mindestgebühr beträgt 30 Franken.
 
-### III. Gebührenansätze
+## 3. Gebührenansätze
 
 #### Art. 11
 
@@ -132,172 +126,156 @@ Fehlt in dieser Verordnung ein Gebührenansatz, so werden die Gebühren für die
 
 **2. Im Einzelnen**
 
-- a) Reglement zu Stockwerkeigentum und Nutzungsordnung bei Mieteigentum sowie Nachträge dazu, in Berücksichtigung von Umfang und Bedeutung Minimum Maximum
+<sup>1</sup>
 
-**Fr. 100.– Fr. 1 000.–**
-
-- b) Pfandbeschrieb zu einem Grundpfandrecht (von der Pfandsumme) Minimum Maximum
-
-**1 ‰**
-
-**Fr. 100.– Fr. 1 000.–**
-
-- c) Schuldbrief (Titel-Ausfertigung) Minimum Maximum
-
-**3**
-
-**1 ‰**
-
-**Fr. 50.– Fr. 15 000.–**
-
-**Fr. 250.– Fr. 100.– Fr. 500.– Fr. 3000.–**
-
-01.01.2015 d) Nicht preislich limitierte Vorkaufsrechte 1 ‰ Minimum Maximum - Einräumung im Sinne von Artikel 712c ZGB
+- a) Reglement zu Stockwerkeigentum und Nutzungsordnung bei Mieteigentum sowie Nachträge dazu, in Berücksichtigung von Umfang und Bedeutung
+  - 1\. Minimum Fr. 100.–
+  - 2\. Maximum Fr. 1000.–
+- b) Pfandbeschrieb zu einem Grundpfandrecht (von der Pfandsumme): 0,5‰
+  - 1\. Minimum Fr. 100.–
+  - 2\. Maximum Fr. 7500.–
+- c) Schuldbrief (Titel-Ausfertigung): 1‰
+  - 1\. Minimum Fr. 100.–
+  - 2\. Maximum Fr. 1000.–
+- d) Nicht preislich limitierte Vorkaufsrechte: 1‰
+  - 1\. Minimum Fr. 100.–
+  - 2\. Maximum Fr. 15 000.–
+  - 3\. Einräumung im Sinne von Artikel 712c ZGB: Fr. 100.–
 
 #### Art. 13
 
-**Fr. 100.– Fr. 15 000.– Fr. 100.–**
-
 **Eintragung**
 
-**1 ‰**
+<sup>1</sup>
 
-- a) Eigentumsübertragung (soweit nachstehend keine Abweichungen festgelegt werden) Minimum Maximum Beim Tausch 1 Promille des Wertes nur eines der beiden Tauschobjekte und bei unterschiedlichen Werten derselben desjenigen des höhereingeschätzten Tauschobjektes
+- a) Eigentumsübertragung (soweit nachstehend keine Abweichungen festgelegt werden): 1‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 15 000.–
+  - 3\. Beim Tausch 1 Promille des Wertes nur eines der beiden Tauschobjekte und bei unterschiedlichen Werten derselben desjenigen des höhereingeschätzten Tauschobjektes
+- b) Erbgang (vom Grundstückswert): 0,5‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 7500.–
+  - 3\. Untererbgang (zweiter Erbgang), je Blatt Fr. 10.– (Minimum Fr. 50.–)
+- c) Wechsel des Gesamthandverhältnisses (vom Grundstückswert): 0,5‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 7500.–
+- d) Erbteilung, Ehevertrag, Realteilung von Grundstücken, die im Miteigentum oder Gesamteigentum mehrerer Personen stehen, Umwandlung von Miteigentum in Gesamteigentum und umgekehrt (vom Grundstückswert): 1‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 15 000.–
+- d<sup>bis</sup>) Änderung des Eigentumseintrags aufgrund von Tatbeständen nach dem Fusionsgesetz[^13-1]: Fusion, Spaltung, Vermögensübertragung pro Grundstück
+  - 1\. bis 5 Grundstücke je Fr. 250.–
+  - 2\. jedes weitere Grundstück Fr. 100.–
+  - 3\. Minimum Fr. 500.–
+  - 4\. Maximum Fr. 3000.–
+- d<sup>bis</sup>)' Umwandlung pro Grundstück: Fr. 50.–
+  - 1\. Minimum Fr. 100.–
+  - 2\. Maximum Fr. 2000.–
+- e) Ein- und Austritt von Mitgliedern einer Gesellschaft oder Gemeinschaft zur gesamten Hand (vom Handänderungswert): 1‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 15 000.–
+- f) Gütliche Vereinbarung, Expropriationsentscheid und Ersitzung: 1‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 15 000.–
+- g) Parzellierung, Parzellenvereinigung, Grenzänderung, Quartierplan und Land umlegung, wobei Umfang und Bedeutung zu berücksichtigen sind
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 5000.–
+- h) Begründung von Stockwerkeigentum an Liegen schaften und selbständigen und dauernden Baurechten (vom Gesamtwert: Baukosten und Bodenwert bei Neubauten, amtlicher Verkehrswert plus eventuelle Baukosten bei bestehenden Bauten): 1‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 15 000.–
+- i) Nachtrag zur Begründung von Stockwerkeigentum, wobei Umfang und Bedeutung des Nachtrages zu berücksichtigen sind
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 5000.–
+- j) Grundpfandrecht (von der Pfandsumme): 1‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 15 000.–
+- k) Umwandlung einer Grundpfandverschrei bung in einen Schuldbrief und umgekehrt, Umwandlung einer Maximal- in eine Kapitalgrundpfandverschreibung und umgekehrt, sowie Pfandrechtserneuerung
+  - 1\. für das erste Blatt Fr. 50.–
+  - 2\. für jedes weitere Blatt Fr. 10.–
+- l) Pfandentlassung, Nachgangserklärung, leere Pfandstelle, vorbehaltener Vorgang, Änderung Maximalzinsfuss, Rangänderung je Blatt: Fr. 10.–
+  - 1\. Minimum Fr. 20.–
+  - 2\. Pfandvermehrung, Pfandwechsel je Blatt Fr. 20.–
+- m) Dienstbarkeiten und Grundlasten: Baurecht, Wohnrecht und Nutzniessung oder Grundlast (vom zwanzigfachen Wert der Jahresnutzung): 1‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 15 000.–
+- m)' Dienstbarkeiten und Grundlasten: übrige Dienstbarkeiten: 1‰
+  - 1\. Minimum Fr. 50.–
+  - 2\. Maximum Fr. 15 000.–
+- n) Namensänderung
+  - 1\. je Blatt Fr. 10.–
+  - 2\. Minimum Fr. 20.–
 
-**Fr. 50.– Fr. 15 000.–**
-
-**0,5 ‰**
-
-**Fr. 50.– Fr. 7 500.–**
-
-- b) Erbgang (vom Grundstückswert) Minimum Maximum
-
-**Fr. 50.–**
-
-- Untererbgang (zweiter Erbgang), je BlattFr.10.– Minimum
-
-**0,5 ‰**
-
-- c) Wechsel des Gesamthandverhältnisses (vom Grundstückswert) Minimum Maximum
-
-**Fr. 50.– Fr. 7 500.–**
-
-- d)[^13-1]Erbteilung, Ehevertrag, Realteilung von Grundstücken, die im Miteigentum oder Gesamteigentum mehrer Personen stehen, Umwandlung von Miteigentum in Gesamteigentum und umgekehrt (vom Grundstückswert) Minimum Maximum d<sup>bis</sup>)[^13-2]Änderung des Eigentumseintrags aufgrund von Tatbeständen nach dem Fusionsgesetz[^13-3]:
-
-**Fr. 50.– Fr. 100.– Fr. 2000.–**
-
-**1 ‰**
-
-**Fr. 50.– Fr. 15 000.–**
-
-**1 ‰**
-
-**Fr. 50.– Fr. 15 000.–**
-
-**Fr. 50.– Fr. 5 000.–**
-
-**1 ‰**
-
-**Fr. 50.– Fr. 15 000.–**
-
-**Fr. 50.– Fr. 5 000.–**
-
-**Fr. 50.– Fr. 15 000.–**
-
-Fusion, Spaltung, Vermögensübertragung pro Grundstück - bis 5 Grundstücke je - jedes weitere Grundstück Minimum Maximum Umwandlung - pro Grundstück Minimum Maximum e) Ein- und Austritt von Mitgliedern einer Gesellschaft oder Gemeinschaft zur gesamten Hand (vom Handänderungswert) Minimum Maximum f) Gütliche Vereinbarung, Expropriationsentscheid und Ersitzung Minimum Maximum g) Parzellierung, Parzellenvereinigung, Grenzänderung, Quartierplan und Landumlegung, wobei Umfang und Bedeutung zu berücksichtigen sind Minimum Maximum h) Begründung von Stockwerkeigentum an Liegen schaften und selbständigen und dauernden Baurechten (vom Gesamtwert: Baukosten und Bodenwert bei Neubauten, amtlicher Verkehrswert plus eventuelle Baukosten bei bestehenden Bauten) Minimum Maximum i) Nachtrag zur Begründung von Stockwerkeigentum, wobei Umfang und Bedeutung des Nachtrages zu berücksichtigen sind Minimum Maximum j) Grundpfandrecht (von der Pfandsumme) 1 ‰ Minimum Maximum k) Umwandlung einer Grundpfandverschreibung in einen Schuldbrief und umgekehrt, Umwandlung einer Maximal- in eine Kapitalgrundpfandverschreibung und umgekehrt, sowie Pfandrechtserneuerung für das erste Blatt für jedes weitere Blatt l) - Pfandentlassung, Nachgangserklärung, leere Pfandstelle, vorbehaltener Vorgang, Änderung Maximalzinsfuss, Rangänderung je Blatt Minimum - Pfandvermehrung, Pfandwechsel je Blatt m) Dienstbarkeiten und Grundlasten
-
-**5**
-
-**Fr. 25.–**
-
-01.01.2015 - Baurecht, Wohnrecht und Nutzniessung oder Grundlast (vom zwanzigfachen Wert der Jahresnutzung) Minimum Maximum - übrige Dienstbarkeiten Minimum Maximum n) Namensänderung je Blatt Minimum
-
-[^13-1]: Fassung gemäss RB vom 20. Oktober 2014; am 1. Januar 2015 in Kraft getreten.
-[^13-2]: Einfügung gemäss RB vom 20. Oktober 2014; am 1. Januar 2015 in Kraft getreten.
-[^13-3]: SR 221.301 4 01.01.2015
+[^13-1]: SR [221.301](https://db.clex.ch/link/Bund/221.301/de)
 
 #### Art. 14
 
-**1 ‰**
-
-**Fr. 50.– Fr. 15 000.–**
-
-**1 ‰**
-
-**Fr. 50.– Fr. 15 000.– Fr. 10.– Fr. 20.–**
-
 **Vormerkung und Anmerkung**
 
-**Fr. 50.– Fr. 10.–**
+<sup>1</sup>
 
-- a) Vorkaufs-, Kaufs- und Rückkaufsrecht je Vormerkung für das erste Blatt für jedes weitere Blatt
-
-**Fr. 10.– Fr. 20.–**
-
-- b) Andere Vormerkungen sowie Anmerkungen je Blatt Minimum
+- a) Vorkaufs-, Kaufs- und Rückkaufsrecht je Vormerkung
+  - 1\. für das erste Blatt Fr. 50.–
+  - 2\. für jedes weitere Blatt Fr. 10.–
+- b) Andere Vormerkungen sowie Anmerkungen
+  - 1\. je Blatt Fr. 10.–
+  - 2\. Minimum Fr. 20.–
 
 #### Art. 15
 
 **Löschung**
 
-**Fr. 10.– Fr. 20.–**
+<sup>1</sup>
 
-Je Blatt Minimum
+- a) Je Blatt Fr. 10.–
+- b) Minimum Fr. 20.–
 
 #### Art. 16
 
-**Je Ordnungsnummer**
+**Tagebuch**
+
+<sup>1</sup> Je Ordnungsnummer Fr. 10.–
 
 #### Art. 17
 
 **Gläubigerwechsel**
 
-**Fr. 10.– Fr. 20.–**
+<sup>1</sup> Gläubigerwechsel (pro Pfandrecht)
 
-Gläubigerwechsel (pro Pfandrecht) je Blatt Minimum
+- a) je Blatt Fr. 10.–
+- b) Minimum Fr. 20.–
 
 #### Art. 18
 
 **Andere Bemühungen**
 
-- a)[^18-1]Auszug aus dem elektronischen Auskunftsportal (Grundbuchgebühr exklusive externe Transaktionskosten)
+<sup>1</sup>
 
-**Fr. 50.– Fr. 10.–**
+- a) Auszug aus dem elektronischen Auskunftsportal (Grundbuchgebühr exklusive externe Transaktionskosten)
+  - 1\. Basisauszug Fr. 2.–
+  - 2\. Erweiterter Auszug Fr. 5.–
+  - 3\. Elektronisch beglaubigter Auszug Fr. 50.–
+  - 4\. Grundbuchauszug in Papierform je Seite Fr. 25.– (Minimum Fr. 50.–)
+- a)' Auszug in Form einer Fotokopie des Hauptbuchblattes aus dem Papier-Grundbuch
+  - 1\. erste Seite Fr. 25.–
+  - 2\. jede weitere Seite Fr. 5.–
+  - 3\. Minimum Fr. 50.–
+- b) Handänderungsanzeige
+  - 1\. Erste Anzeige Fr. 30.–
+  - 2\. jede weitere Anzeige Fr. 15.–
+- c) Nachführen von Schuldbriefen (inkl. Neuausstellung)
+  - 1\. Minimum Fr. 20.–
+  - 2\. Maximum Fr. 100.–
+- d) Abweisung einer Grundbuchanmelung, Zeitaufwand für zur Prüfung entgegengenommene Entwürfe sowie Zeitaufwand für Auskünfte, Nachforschungen und Verrichtungen, die in diesem Tarif nicht aufgeführt sind: gemäss dem für die 20. Gehaltsklasse festgelegten kantonalen Verrechungsansatz pro Stunde
+- e) Porto, Telefonauslagen, Büralkosten, sowie Fahrspesen (letztere gemäss kantonalen Entschädigungsansätzen): werden gesondert berechnet
+- f) Korrespondenz: gemäss Stundenansatz (Art. 18 lit. d)
 
-**Fr. 10.– Fr. 20.– Fr. 20.–**
-
-**Fr. 2.– Fr. 5.– Fr. 50.– Fr. 25.– Fr. 50.–**
-
-- Basisauszug
-
-- Erweiterter Auszug Elektronisch beglaubigter Auszug Grundbuchauszug in Papierform je Seite Minimum Auszug in Form einer Fotokopie des Hauptbuchblattes aus dem Papier-Grundbuch erste Seite jede weitere Seite Minimum
-
-**Fr. 5.– Fr. 50.– Fr. 30.– Fr. 15.–**
-
-- b) Handänderungsanzeige jede weitere Anzeige
-
-**Fr. 20.– Fr. 100.–**
-
-- c) Nachführen von Schuldbriefen (inkl. Neuausstellung) Minimum Maximum
-
-- d) Abweisung einer Grundbuchanmelung, Zeitaufwand gemäss dem für zur Prüfung entgegengenommene Entwürfe so- für die 20. Gewie Zeitaufwand für Auskünfte, Nachforschungen haltsklasse und Verrichtungen, die in diesem Tarif nicht aufge- festgelegten führt sind Verrechungsansatz pro Stunde
-
-**kantonalen**
-
-- e) Porto, Telefonauslagen, Büralkosten, sowie Fahrspe- werden gesen (letztere gemäss kantonalen Entschädigungsan- sondert besätzen)
-
-**rechnet gemäss Stun-**
-
-- f) Korrespondenz denansatz (Art. 18 lit. d)
-
-[^18-1]: Fassung gemäss RB vom 20. Oktober 2014; am 1. Januar 2015 in Kraft getreten. 6 01.01.2015
-
-### IV. Schlussbestimmung
+## 4. Schlussbestimmung
 
 #### Art. 19
 
 **In-Kraft-Treten, Aufhebung bisherigen Rechts**
 
-Diese Verordnung tritt am 1. Januar 2001 in Kraft und ersetzt die Gebührenverordnung der Regierung vom 28. Mai 1984[^19-1].
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2001 in Kraft und ersetzt die Gebührenverordnung der Regierung vom 28. Mai 1984[^19-1].
 
-[^19-1]: AGS 1984, 1282 01.01.2015 7
+[^19-1]: AGS 1984, 1282
+
+-
