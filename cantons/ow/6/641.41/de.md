@@ -4,13 +4,13 @@ number: "641.41"
 title: Vollziehungsverordnung zum Steuergesetz
 short: StV
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-03
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-05-23
 adopted: 1994-11-18
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.41"
-pdf: "http://gdb.ow.ch/api/de/versions/1888/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1905/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1888/pdf_file"
 
 (StV)
 
-vom 18.11.1994 (Stand 01.01.2021)
+vom 18.11.1994 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Obwalden erlässt,
 
@@ -116,13 +116,25 @@ als Verordnung:
 
 **Mietwert selbstbenutzter Grundstücke (Eigenmietwert) (Art. 23 StG) a. ordentliche Bemessung**
 
-<sup>1</sup> Der Mietwert selbstbenutzter nichtlandwirtschaftlicher Grundstücke, selbstbenutzter landwirtschaftlicher Grundstücke gemäss Art. 47 Abs. 3 StG oder selbstbenutzter Anteile an solchen Grundstücken beträgt 3,8 Prozent des Netto-Steuerwerts.
+<sup>1</sup> Grundlage für die Berechnung des Mietwerts selbstbenutzter nichtlandwirtschaftlicher Grundstücke, selbstbenutzter landwirtschaftlicher Grundstücke gemäss Art. 47 Abs. 3 StG oder selbstbenutzter Anteile an solchen Grundstücken ist der Steuerwert unter Berücksichtigung der für den Mietwert nicht relevanten Faktoren. Der Mietwert (100 Prozent) für überbaute Grundstücke wird vom Steuerwert für die Mietwertberechnung, unter Berücksichtigung der für den Mietwert nicht relevanten Faktoren gemäss nachfolgender Tabelle berechnet (Steuerwert für die Mietwertberechnung in Fr./Mietwertansatz pro Stufe in Prozent):
+
+- a. von 1 bis 250 000 — 4.25
+- b. von 250 001 bis 500 000 — 3.75
+- c. von 500 001 bis 750 000 — 3.25
+- d. von 750 001 bis 1 000 000 — 2.75
+- e. von 1 000 001 bis 1 250 000 — 2.50
+- f. von 1 250 001 bis 1 500 000 — 2.25
+- g. ab 1 500 001 — 2.00
+
+<sup>1a</sup> Der Eigenmietwert beträgt 60 Prozent des Mietwerts (100 Prozent).
 
 <sup>2</sup> Der Mietwert selbstbenutzter landwirtschaftlicher Grundstücke wird in Prozenten des Ertragswerts berechnet, wobei der Regierungsrat zu Beginn jeder Steuerperiode den Prozentsatz festlegt.
 
 <sup>3</sup> Bei Liegenschaften, die nicht vollständig selbstbenutzt werden, wird der Steuerwert der selbstbenutzten Räume anteilsmässig ermittelt.
 
 <sup>4</sup> …
+
+<sup>5</sup> Der Regierungsrat legt die für den Mietwert nicht relevanten Faktoren und die weiteren Einzelheiten in Ausführungsbestimmungen fest.
 
 #### Art. 11
 
@@ -241,7 +253,7 @@ als Verordnung:
 
 <sup>1</sup> Die Schätzungswerte (Ertragswert, Realwert, Verkehrswert, Steuerwert) werden nach den Bestimmungen des Schätzungs- und Grundpfandgesetzes[^23-1] und der zugehörigen Verordnung[^23-2] festgelegt.
 
-<sup>2</sup> Der Netto-Steuerwert für die nichtlandwirtschaftlichen Grundstücke beträgt 65 Prozent des Steuerwerts.
+<sup>2</sup> Der Netto-Steuerwert für die nichtlandwirtschaftlichen Grundstücke beträgt 60 Prozent des Steuerwerts.
 
 [^23-1]: GDB [213.7](http://gdb.ow.ch/data/213.7/de)
 [^23-2]: GDB [213.71](http://gdb.ow.ch/data/213.71/de)
@@ -734,6 +746,8 @@ geändert durch
 
 \- Nachtrag zum Steuergesetz vom 28. Juni 2019 (Abstimmungserläuterungen zur kantonalen Volksabstimmung vom 22. September 2019, OGS 2019, 43), Botschaft und Vorlage des Regierungsrat vom 9. April 2019, Kantonsratsprotokolle vom 23. Mai und 28. Juni 2019 (22.19.01), Abstimmungsergebnis der Volksabstimmung vom 22. September 2019 (OGS 2019, 44 und 47), in Kraft seit 1. Januar 2020 (OGS 2019, 43 und 47),
 
-\- Nachtrag zum Steuergesetz vom 3. Dezember 2020 (OGS 2020, 51), Botschaft und Vorlage des Regierungsrats vom 3. Juli 2020, Kantonsratssitzungen vom 22. Oktober und 3. Dezember 2020 (22.20.06), in Kraft seit 1. Januar 2021 (OGS 2021, 6)
+\- Nachtrag zum Steuergesetz vom 3. Dezember 2020 (OGS 2020, 51), Botschaft und Vorlage des Regierungsrats vom 3. Juli 2020, Kantonsratssitzungen vom 22. Oktober und 3. Dezember 2020 (22.20.06), in Kraft seit 1. Januar 2021 (OGS 2021, 6),
+
+\- Nachtrag zum Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht (Schätzungs- und Grundpfandgesetz) vom 23. Mai 2024 (OGS 2024 36), Botschaft und Vorlage des Regierungsrats vom 28. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.01), angenommen an der Volksabstimmung vom 24. November 2024 (ABl 2024, 1697), in Kraft seit 1. Januar 2025 (OGS 2024, 37)
 
 OGS 1995, 42
