@@ -4,7 +4,7 @@ number: "172.215.1.1"
 title: "ARRÊTÉ du 06.07.2022 sur la composition des départements et les noms des services de l'administration (AdésA)"
 short: AdésA
 language: fr
-version: 2023-07-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.215.1.1?id=fb9fa455-62db-4167-8351-6fc7171d6451"
 ---
 
@@ -98,13 +98,14 @@ arrête
 <sup>1</sup> Le Département de la culture, des infrastructures et des ressources humaines comprend les services suivants :
 
 - a. Secrétariat général.
-- b. Service des affaires culturelles.
+- b. Direction générale de la culture.
 - c. Direction générale du numérique et des systèmes d'information.
 - d. Direction générale de la mobilité et des routes.
 - e. Service des automobiles et de la navigation.
 - f. Direction générale des ressources humaines.
+- g. Service cantonal de l'accueil de jour des enfants.
 
-<sup>2</sup> Ce département comprend les entités stratégiques suivantes : l'Office de l'accueil de jour des enfants et l'Unité de conseil et d'appui en management des organisations.
+<sup>2</sup> Ce département comprend l'entité stratégique suivante : l'Office de la transformation numérique et de l'appui à l'administration.
 
 [^5-1]: Modif. 1 du 21.12.2022: Modification Al. 1, f; entrée en vigueur au 01.01.2023 · Modif. 3 du 18.12.2024: Modification Al. 1, b; entrée en vigueur au 01.01.2025; Introduction Al. 1, g; entrée en vigueur au 01.01.2025; Modification Al. 2; entrée en vigueur au 01.01.2025
 
