@@ -10,7 +10,7 @@ version_adopted: 2024-12-04
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3704/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3705/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1853,7 +1853,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Mitglieder des Kantonsrates erhalten für jede Sitzung des Kantonsrates, des Präsidiums und der Kommissionen, an der sie teilnehmen, ein Taggeld.
 
-<sup>2</sup> Wer am gleichen Tag an wenigstens zwei Sitzungen von jeweils zwei Stunden Dauer oder mehr teilnimmt, erhält ein erhöhtes Taggeld.
+<sup>2</sup> Wer am gleichen Tag an zwei oder mehr Sitzungen von insgesamt wenigstens vier Stunden Dauer teilnimmt, erhält ein erhöhtes Taggeld.
 
 <sup>3</sup> …
 
@@ -1869,7 +1869,9 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Mitglieder des Kantonsrates, die im Auftrag des Präsidiums oder einer Kommission Besichtigungen, Befragungen und Besprechungen durchführen, erhalten Taggeld und Entfernungszuschlag oder Fahrtentschädigung wie für Sitzungen.
 
-<sup>2</sup> Mitglieder des Präsidiums, die keine Funktionsentschädigung erhalten, erhalten Taggeld und Entfernungszuschlag oder Fahrtentschädigung, wenn sie den Kantonsrat an einem Anlass vertreten.
+<sup>2</sup> Mitglieder des Kantonsrates, die keine Funktionsentschädigung erhalten, erhalten Taggeld und Entfernungszuschlag oder Fahrtentschädigung, wenn sie den Kantonsrat im Auftrag des Präsidiums an einem Anlass vertreten.
+
+<sup>3</sup> Mitglieder des Präsidiums erhalten für die Teilnahme an funktionsbezogenen Weiterbildungen eine Entschädigung nach den Bestimmungen von Art. 150 und Art. 153 Abs. 2 dieses Reglements.
 
 #### Art. 152
 
@@ -1901,7 +1903,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Mitglieder des Kantonsrates werden für ihre Tätigkeit in Vertretungen entschädigt.
 
-<sup>2</sup> Die Entschädigung richtet sich nach den Bestimmungen von Art. 150 dieses Reglementes.
+<sup>2</sup> Die Entschädigung richtet sich nach den Bestimmungen von Art. 150 und 153 dieses Reglements.
 
 ### 2. Präsidentinnen und Präsidenten sowie Berichterstatterinnen und Berichterstatter
 
@@ -1989,6 +1991,14 @@ als Reglement:[^ingress-7]
 #### Art. 161
 
 **…**
+
+### 4. Berufliche Vorsorge
+
+#### Art. 161bis
+
+**Grundsatz**
+
+<sup>1</sup> Der Kanton richtet den Mitgliedern des Kantonsrates einen jährlichen Vorsorgebeitrag aus.
 
 ## V. Schlussbestimmungen
 
