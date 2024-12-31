@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordonnance du 23 septembre 2016 sur le système électronique de gestion de personnes, de dossiers et d'affaires de l'Office fédéral de la justice (Ordonnance GPDA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-555-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-555-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20240101/fr"
 
 (Ordonnance GPDA)
 
-du 23 septembre 2016 (État le 1<sup>er</sup> janvier 2024)
+du 23 septembre 2016 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -158,9 +158,11 @@ L’OFJ peut régler la conversion de documents dans le règlement de traitement
 
 Les unités organisationnelles ci-après du Secrétariat d’État aux migrations ont accès en ligne aux données d’identité des personnes qui font l’objet de la part de l’OFJ d’un traitement des données dans le domaine de l’entraide judiciaire internationale en matière pénale:
 
-- a. domaine de direction Immigration et intégration: dans la division Nationalité, les sections Naturalisation Suisse alémanique 1 et 2, et la section Naturalisation Suisse romande et Tessin; dans la division Entrée, la section Identification et Consultation des visas;
+- a.[^9-1] domaine de direction Immigration et intégration: division Nationalité et division Identification et vérification de sécurité;
 - b. domaine de direction Planification et ressources: dans la section Gestion des documents, les services Gestion des données Immigration et intégration et Gestion des données Asile et retour;
 - c. domaine de direction Asile.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 717](https://fedlex.data.admin.ch/eli/oc/2024/717)).
 
 #### Art. 10
 

@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Verordnung vom 23. September 2016 über das elektronische Personen-, Akten- und Geschäftsverwaltungssystem des Bundesamtes für Justiz (ELPAG-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20240101/de"
 
 (ELPAG-Verordnung)
 
-vom 23. September 2016 (Stand am 1. Januar 2024)
+vom 23. September 2016 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -158,9 +158,11 @@ Das BJ kann den Trägerwandel im Bearbeitungsreglement (Art. 7 der GEVER-Verordn
 
 Die folgenden Organisationseinheiten des Staatssekretariats für Migration haben mittels Abrufverfahren Zugriff auf die Personalien derjenigen Personen, über die das BJ im Anwendungsbereich der internationalen Rechtshilfe in Strafsachen Daten bearbeitet:
 
-- a. Direktionsbereich Zuwanderung und Integration: Abteilung Bürgerrecht, Sektionen Einbürgerungen Deutsche Schweiz 1, Einbürgerungen Deutsche Schweiz 2 und Einbürgerungen Westschweiz und Tessin; Abteilung Einreise, Sektion Identifikation und Visumkonsultation;
+- a.[^9-1] Direktionsbereich Zuwanderung und Integration: Abteilung Bürgerrecht und Abteilung Identifikation und Sicherheitsprüfung;
 - b. Direktionsbereich Planung und Ressourcen: Sektion Dokumentenmanagement, Dienst Datenmanagement Zuwanderung und Integration, Dienst Datenmanagement Asyl und Rückkehr;
 - c. Direktionsbereich Asyl.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 717](https://fedlex.data.admin.ch/eli/oc/2024/717)).
 
 #### Art. 10
 

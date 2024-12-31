@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordinanza del 23 settembre 2016 sul sistema elettronico di gestione delle persone, degli atti e delle pratiche dell'Ufficio federale di giustizia (Ordinanza EGPAP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20240101/it"
 
 (Ordinanza EGPAP)
 
-del 23 settembre 2016 (Stato 1° gennaio 2024)
+del 23 settembre 2016 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^ingress-3]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
-[^ingress-4]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568), [648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^ingress-4]: Nuovo testo giusta l’all. 2 cifra II n. 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568), [648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -74,7 +74,7 @@ Il sistema contiene dati rientranti nei seguenti campi d’applicazione:
 
 <sup>2</sup> Il registro dei donatori di sperma sottostà alla legislazione sulla medicina della procreazione, concernente in particolare i diritti di accesso e trattamento, la conservazione dei dati e il rilascio di informazioni.
 
-[^3a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^3a-1]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 [^3a-2]: [RS 810.112.2](https://fedlex.data.admin.ch/eli/cc/2000/555)
 
 #### Art. 4
@@ -158,9 +158,11 @@ L’UFG può disciplinare il cambio del supporto nel regolamento sul trattamento
 
 Le seguenti unità organizzative della Segreteria di Stato della migrazione possono accedere in linea alle generalità delle persone i cui dati sono trattati dall’UFG nell’ambito dell’assistenza giudiziaria internazionale in materia penale:
 
-- a. ambito direzionale Immigrazione e integrazione: divisione Cittadinanza, sezione Cittadinanza Svizzera tedesca 1, sezione Cittadinanza Svizzera tedesca 2 e sezione Cittadinanza Svizzera francese e Ticino; divisione Entrata, sezione Identificazione e Consultazione Visti;
+- a.[^9-1] ambito direzionale Immigrazione e integrazione: divisione Cittadinanza e divisione Identificazione e controlli di sicurezza;
 - b. ambito direzionale Pianificazione e risorse: sezione Gestione dei documenti, servizio Gestione dei documenti Immigrazione e integrazione,servizio Gestione dei dati Asilo e ritorno;
 - c. ambito direzionale Asilo.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 717](https://fedlex.data.admin.ch/eli/oc/2024/717)).
 
 #### Art. 10
 
@@ -200,7 +202,7 @@ Le unità organizzative del Servizio delle attività informative della Confedera
 
 [^sec6-1]
 
-[^sec6-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^sec6-1]: Nuovo testo giusta l’all. 2 cifra II n. 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 13
 
@@ -224,11 +226,11 @@ La sicurezza dei dati e delle informazioni è retta:[^14-2]
 
 <sup>2</sup> In deroga all’articolo 12 capoverso 2 dell’ordinanza GEVER del 30 novembre 2012[^14-8] i documenti nel sistema non sono criptati; sono tuttavia protetti da accessi non autorizzati mediante misure tecniche.
 
-[^14-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-2]: Nuovo testo giusta l’all. 2 n. II 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-3]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-1]: Nuovo testo giusta l’all. 2 cifra II n. 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-2]: Nuovo testo giusta l’all. 2 cifra II n. 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-3]: Nuovo testo giusta l’all. 2 cifra II n. 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-5]: Nuovo testo giusta l’all. 2 n. II 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-5]: Nuovo testo giusta l’all. 2 cifra II n. 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^14-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^14-7]: Abrogata dall’all. n. 16 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^14-8]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
@@ -241,7 +243,7 @@ La sicurezza dei dati e delle informazioni è retta:[^14-2]
 
 <sup>2</sup> I verbali sono conservati per due anni separatamente dal sistema in cui sono trattati i dati personali.[^15-1]
 
-[^15-1]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-1]: Nuovo testo giusta l’all. 2 cifra II n. 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
@@ -260,7 +262,7 @@ La sicurezza dei dati e delle informazioni è retta:[^14-2]
 <sup>2</sup> I dati utilizzati e pubblicati per scopi statistici devono essere trattati in modo da rendere impossibile risalire alle persone in questione.
 
 [^17-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^17-2]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: Nuovo testo giusta l’all. 2 cifra II n. 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 7: Disposizioni finali
 
@@ -297,7 +299,7 @@ Sono rilevati elettronicamente nel sistema secondo la presente ordinanza e cance
 
 I dati contenuti nel precedente registro dei donatori di sperma sono trasferiti nel sistema e successivamente eliminati dal precedente registro.
 
-[^19a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 #### Art. 20
 
