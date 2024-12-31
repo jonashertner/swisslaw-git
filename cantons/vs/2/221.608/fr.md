@@ -3,20 +3,19 @@ canton: VS
 number: "221.608"
 title: "Arrêté édictant un contrat-type de travail pour l'agriculture"
 language: fr
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2024-04-24
+version: 2025-01-01
+version_adopted: 2025-02-26
 adopted: 2024-04-24
 in_force: 2024-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/221.608"
-pdf: "https://lex.vs.ch/api/fr/versions/3310/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3468/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté édictant un contrat-type de travail pour l'agriculture
 
-du 24.04.2024 (état 01.03.2024)
+du 24.04.2024 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -257,23 +256,23 @@ arrête:
 
 <sup>4</sup> Les salaires horaires minimums bruts, sans suppléments, sont fixés comme suit:
 
-- a) responsable d'exploitation avec formation supérieure ou formation jugée équivalente et occupant régulièrement des collaboratrices ou des collaborateurs (personne responsable de l'engagement du personnel et des décomptes des salaires) selon entente mais au minimum — Fr. 27,95
+- a) responsable d'exploitation avec formation supérieure ou formation jugée équivalente et occupant régulièrement des collaboratrices ou des collaborateurs (personne responsable de l'engagement du personnel et des décomptes des salaires) selon entente mais au minimum — Fr. 28,55
 - b) chef d'équipe avec CFC ou justifiant d'au moins 4 ans d'expérience dans l'agriculture et ayant sous ses ordres au moins 3 collaboratrices ou collaborateurs
-  - 1\. dès la 1<sup>re</sup> année — Fr. 23,90
-  - 2\. dès la 2<sup>e</sup> année — Fr. 25,60
-  - 3\. dès la 3<sup>e</sup> année — Fr. 26,75
+  - 1\. dès la 1<sup>re</sup> année — Fr. 24,40
+  - 2\. dès la 2<sup>e</sup> année — Fr. 26,15
+  - 3\. dès la 3<sup>e</sup> année — Fr. 27,30
 - c) travailleur qualifié avec CFC ou diplôme d'école d'agriculture et travailleur justifiant de qualifications équivalentes dans l'agriculture
-  - 1\. dès la 1<sup>re</sup> année — Fr. 19,95
-  - 2\. dès la 2<sup>e</sup> année — Fr. 21,10
-  - 3\. dès la 3<sup>e</sup> année — Fr. 23,25
+  - 1\. dès la 1<sup>re</sup> année — Fr. 20,35
+  - 2\. dès la 2<sup>e</sup> année — Fr. 21,55
+  - 3\. dès la 3<sup>e</sup> année — Fr. 23,75
 - d) travailleur qualifié avec attestation fédérale de formation professionnelle
-  - 1\. dès la 1<sup>re</sup> année — Fr. 16,95
-  - 2\. dès la 2<sup>e</sup> année — Fr. 17,45
-  - 3\. dès la 3<sup>e</sup> année — Fr. 17,95
+  - 1\. dès la 1<sup>re</sup> année — Fr. 17,30
+  - 2\. dès la 2<sup>e</sup> année — Fr. 17,80
+  - 3\. dès la 3<sup>e</sup> année — Fr. 18,35
 - e) travailleur non qualifié
-  - 1\. jusqu'à la fin du 4<sup>e</sup> mois d’activité dans la même exploitation agricole — Fr. 14,70
-  - 2\. dès le 5<sup>e</sup> mois d’activité dans la même exploitation agricole — Fr. 14,70
-  - 3\. après 18 mois d’activité dans la même exploitation agricole — Fr. 16,55
+  - 1\. jusqu'à la fin du 4<sup>e</sup> mois d’activité dans la même exploitation agricole — Fr. 15,00
+  - 2\. dès le 5<sup>e</sup> mois d’activité dans la même exploitation agricole — Fr. 15,00
+  - 3\. après 18 mois d’activité dans la même exploitation agricole — Fr. 16,90
 
 <sup>5</sup> Le salaire mensuel se calcule en multipliant le nombre d'heures prévues dans le présent contrat-type par les salaires horaires minimums tel que stipulés à l'alinéa 4. Sont réservées les heures supplémentaires éventuelles.
 

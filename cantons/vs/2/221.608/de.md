@@ -3,20 +3,19 @@ canton: VS
 number: "221.608"
 title: Beschluss über den Erlass eines Normalarbeitsvertrags für die Landwirtschaft
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2024-04-24
+version: 2025-01-01
+version_adopted: 2025-02-26
 adopted: 2024-04-24
 in_force: 2024-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/221.608"
-pdf: "https://lex.vs.ch/api/de/versions/3310/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über den Erlass eines Normalarbeitsvertrags für die Landwirtschaft
 
-vom 24.04.2024 (Stand 01.03.2024)
+vom 24.04.2024 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -255,23 +254,23 @@ beschliesst:
 
 <sup>4</sup> Die minimalen Bruttostundenlöhne, ohne Zuschläge, werden wie folgt festgelegt:
 
-- a) Betriebsverantwortlicher mit höherer Ausbildung oder gleichwertiger Ausbildung, der regelmässig Mitarbeiter beschäftigt (Verantwortlicher für die Anstellung von Personal und die Lohnabrechnungen) gemäss Vereinbarung, jedoch mindestens — Fr. 27,95
+- a) Betriebsverantwortlicher mit höherer Ausbildung oder gleichwertiger Ausbildung, der regelmässig Mitarbeiter beschäftigt (Verantwortlicher für die Anstellung von Personal und die Lohnabrechnungen) gemäss Vereinbarung, jedoch mindestens — Fr. 28,55
 - b) Vorarbeiter mit eidgenössischem Fähigkeitszeugnis EFZ oder mit mindestens 4 Jahren Erfahrung in der Landwirtschaft, dem mindestens 3 Mitarbeiter unterstellt sind
-  - 1\. ab dem 1. Jahr — Fr. 23,90
-  - 2\. ab dem 2. Jahr — Fr. 25,60
-  - 3\. ab dem 3. Jahr — Fr. 26,75
+  - 1\. ab dem 1. Jahr — Fr. 24,40
+  - 2\. ab dem 2. Jahr — Fr. 26,15
+  - 3\. ab dem 3. Jahr — Fr. 27,30
 - c) Qualifizierte Arbeitnehmende mit eidgenössischem Fähigkeitszeugnis EFZ oder Diplom der landwirtschaftlichen Schule und Arbeitnehmende mit gleichwertigen Qualifikationen in der Landwirtschaft
-  - 1\. ab dem 1. Jahr — Fr. 19,95
-  - 2\. ab dem 2. Jahr — Fr. 21,10
-  - 3\. ab dem 3. Jahr — Fr. 23,25
+  - 1\. ab dem 1. Jahr — Fr. 20,35
+  - 2\. ab dem 2. Jahr — Fr. 21,55
+  - 3\. ab dem 3. Jahr — Fr. 23,75
 - d) Qualifizierte Arbeitnehmende mit eidgenössischem Berufsattest
-  - 1\. ab dem 1. Jahr — Fr. 16,95
-  - 2\. ab dem 2. Jahr — Fr. 17,45
-  - 3\. ab dem 3. Jahr — Fr. 17,95
+  - 1\. ab dem 1. Jahr — Fr. 17,30
+  - 2\. ab dem 2. Jahr — Fr. 17,80
+  - 3\. ab dem 3. Jahr — Fr. 18,35
 - e) Nicht qualifizierte Arbeitnehmende
-  - 1\. bis zum Ende des 4. Tätigkeitsmonats im gleichen Landwirtschaftsbetrieb — Fr. 14,70
-  - 2\. ab dem 5. Tätigkeitsmonats im gleichen Landwirtschaftsbetrieb — Fr. 14,70
-  - 3\. nach 18 Monaten Tätigkeit im gleichen Landwirtschaftsbetrieb — Fr. 16,55
+  - 1\. bis zum Ende des 4. Tätigkeitsmonats im gleichen Landwirtschaftsbetrieb — Fr. 15,00
+  - 2\. ab dem 5. Tätigkeitsmonats im gleichen Landwirtschaftsbetrieb — Fr. 15,00
+  - 3\. nach 18 Monaten Tätigkeit im gleichen Landwirtschaftsbetrieb — Fr. 16,90
 
 <sup>5</sup> Der Monatslohn wird berechnet, indem die in diesem Normalarbeitsvertrag vorgesehenen Anzahl Stunden mit den Mindeststundenlöhnen gemäss Absatz 4 multipliziert werden. Vorbehalten bleiben allfällige Überstunden.
 
