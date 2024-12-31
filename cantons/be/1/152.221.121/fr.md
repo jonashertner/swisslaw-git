@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Ordonnance sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration"
 short: "Ordonnance d’organisation DSSI, OO DSSI"
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-15
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2024-11-20
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2945/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3093/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2945/pdf_file"
 
 (Ordonnance d’organisation DSSI, OO DSSI)
 
-du 30.06.2021 (état au 01.01.2024)
+du 30.06.2021 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -200,7 +200,8 @@ arrête:
 - o l’exécution de l’article 119 du Code pénal suisse du 21 décembre 1937 (CP)[^9-5];
 - p la libération du secret professionnel au sens de l'article 8, alinéa 2 et du devoir de discrétion au sens de l'article 27, alinéa 2 de la loi du 2 décembre 1984 sur la santé publique (LSP)[^9-6];
 - q la réception des annonces effectuées en vertu de l’article 10, alinéa 2 de la loi fédérale du 17 décembre 2004 sur les conditions et la procédure régissant la stérilisation de personnes (loi sur la stérilisation)[^9-7];
-- r la préparation des contrats de prestation et, hormis ceux relevant des soins hospitaliers, leur conclusion.
+- r la préparation des contrats de prestation et, hormis ceux relevant des soins hospitaliers, leur conclusion;
+- s l'exécution de la section 2 (Utilisation de produits à visées esthétiques) de l'ordonnance du 27 février 2019 relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son (O-LRNIS)[^9-8] à l'exception de la surveillance des personnes disposant d'une attestation de compétences sanctionnant un examen.
 
 <sup>3</sup> Pour les tâches de surveillance en matière pharmaceutique, le Conseil-exécutif peut nommer des inspecteurs ou des inspectrices exerçant à titre accessoire.
 
@@ -211,6 +212,7 @@ arrête:
 [^9-5]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 [^9-6]: RSB [811.01](https://www.belex.sites.be.ch/data/811.01/fr)
 [^9-7]: RS [211.111.1](https://db.clex.ch/link/Bund/211.111.1/fr)
+[^9-8]: RS [814.111](https://db.clex.ch/link/Bund/814.111/fr)
 
 #### Art. 10
 

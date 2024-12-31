@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Verordnung über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion"
 short: "Organisationsverordnung GSI, OrV GSI"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-15
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2024-11-20
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2945/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3093/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2945/pdf_file"
 
 (Organisationsverordnung GSI, OrV GSI)
 
-vom 30.06.2021 (Stand 01.01.2024)
+vom 30.06.2021 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -200,7 +200,8 @@ beschliesst:
 - o den Vollzug von Artikel 119 des Schweizerischen Strafgesetzbuches (StGB)[^9-5],
 - p die Entbindung von der Schweigepflicht gemäss Artikel 8 Absatz 2 und Artikel 27 Absatz 2 des Gesundheitsgesetzes vom 2. Dezember 1984 (GesG)[^9-6],
 - q die Entgegennahme von Meldungen gemäss Artikel 10 Absatz 2 des Bundesgesetzes vom 17. Dezember 2004 über Voraussetzungen und Verfahren bei Sterilisationen (Sterilisationsgesetz)[^9-7],
-- r für die Vorbereitung der Leistungsverträge und, ausser im Spitalversorgungsbereich, für den Abschluss der Leistungsverträge.
+- r für die Vorbereitung der Leistungsverträge und, ausser im Spitalversorgungsbereich, für den Abschluss der Leistungsverträge,
+- s den Vollzug des zweiten Abschnitts (Verwendung von Produkten für kosmetische Zwecke) der Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG)[^9-8], mit Ausnahme der Aufsicht über Personen mit einem Sachkundenachweis mit Prüfung.
 
 <sup>3</sup> Der Regierungsrat kann für die Durchführung der pharmazeutischen Aufsicht nebenamtliche Inspektorinnen und Inspektoren ernennen.
 
@@ -211,6 +212,7 @@ beschliesst:
 [^9-5]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 [^9-6]: BSG [811.01](https://www.belex.sites.be.ch/data/811.01/de)
 [^9-7]: SR [211.111.1](https://db.clex.ch/link/Bund/211.111.1/de)
+[^9-8]: SR 814.711
 
 #### Art. 10
 
