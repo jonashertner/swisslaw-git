@@ -3,18 +3,18 @@ sr: "193.9"
 title: "Legge federale del 19 dicembre 2003 su misure di promozione civile della pace e di rafforzamento dei diritti dell'uomo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2004-253-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2004-253-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale su misure di promozione civile della pace e di rafforzamento dei diritti dell’uomo
 
-del 19 dicembre 2003 (Stato 1° gennaio 2023)
+del 19 dicembre 2003 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -43,17 +43,16 @@ decreta:
 Sono fatte salve le misure ai sensi:
 
 - a. della legge federale del 19 marzo 1976[^1-2] sulla cooperazione allo sviluppo e l’aiuto umanitario internazionali;
-- b.[^1-3] della legge federale del 30 settembre 2016[^1-4] sulla cooperazione con gli Stati dell’Europa dell’Est;
-- c. della legge militare del 3 febbraio 1995[^1-5].
+- b.[^1-3] ...
+- c. della legge militare del 3 febbraio 1995[^1-4].
 
-<sup>3</sup> La presente legge disciplina inoltre lo statuto, il finanziamento, i compiti e l’organizzazione dell’istituzione nazionale per i diritti dell’uomo (INDU) della Svizzera.[^1-6]
+<sup>3</sup> La presente legge disciplina inoltre lo statuto, il finanziamento, i compiti e l’organizzazione dell’istituzione nazionale per i diritti dell’uomo (INDU) della Svizzera.[^1-5]
 
 [^1-1]: Abrogato dal n. I della LF del 1° ott. 2021, con effetto dal 1° gen. 2023 ([RU 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 479](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 [^1-2]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
 [^1-3]: Nuovo testo giusta l’art. 19 n. 1 della LF del 30 set. 2016 sulla cooperazione con gli Stati dell’Europa dell’Est, in vigore dal 1° giu. 2017 al 31 dic. 2024 ([RU 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [FF 2016 2005](https://fedlex.data.admin.ch/eli/fga/2016/516)).
-[^1-4]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
-[^1-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1-6]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 479](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^1-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^1-5]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 479](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 ## Sezione 2: Promozione civile della pace e rafforzamento dei diritti dell’uomo nell’ambito della politica estera
 

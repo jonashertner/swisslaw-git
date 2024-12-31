@@ -3,18 +3,18 @@ sr: "193.9"
 title: "Loi fédérale du 19 décembre 2003 sur des mesures de promotion civile de la paix et de renforcement des droits de l'homme"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-253-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-253-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur des mesures de promotion civile de la paix et de renforcement des droits de l’homme
 
-du 19 décembre 2003 (Etat le 1<sup>er</sup> janvier 2023)
+du 19 décembre 2003 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -43,17 +43,16 @@ arrête:
 Sont réservées les mesures prévues par:
 
 - a. la loi fédérale du 19 mars 1976 sur la coopération au développement et l’aide humanitaire internationales[^1-2];
-- b.[^1-3] la loi fédérale du 30 septembre 2016 sur la coopération avec les États d’Europe de l’Est[^1-4];
-- c. la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^1-5].
+- b.[^1-3] ...
+- c. la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^1-4].
 
-<sup>3</sup> La présente loi règle en outre le statut, le financement, les tâches et l’organisation de l’institution nationale des droits de l’homme (INDH) de la Suisse.[^1-6]
+<sup>3</sup> La présente loi règle en outre le statut, le financement, les tâches et l’organisation de l’institution nationale des droits de l’homme (INDH) de la Suisse.[^1-5]
 
 [^1-1]: Abrogé par le ch. I de la LF du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 [^1-2]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
 [^1-3]: Nouvelle teneur selon l’art. 19 ch. 1 de la LF du 30 sept. 2016 sur la coopération avec les États d’Europe de l’Est, en vigueur du 1<sup>er</sup> juin 2017 au 31 déc. 2024 ([RO 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [FF 2016 2179](https://fedlex.data.admin.ch/eli/fga/2016/516)).
-[^1-4]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
-[^1-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1-6]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^1-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^1-5]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 ## Section 2 Promotion civile de la paix et renforcement des droits de l’homme dans le domaine de la politique extérieure
 

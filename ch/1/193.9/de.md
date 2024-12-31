@@ -3,18 +3,18 @@ sr: "193.9"
 title: Bundesgesetz vom 19. Dezember 2003 über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-253-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2004-253-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte
 
-vom 19. Dezember 2003 (Stand am 1. Januar 2023)
+vom 19. Dezember 2003 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -43,17 +43,16 @@ beschliesst:
 Vorbehalten bleiben Massnahmen gemäss:
 
 - a. Bundesgesetz vom 19. März 1976[^1-2] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe;
-- b.[^1-3] Bundesgesetz vom 30. September 2016[^1-4] über die Zusammenarbeit mit den Staaten Osteuropas;
-- c. Bundesgesetz vom 3. Februar 1995[^1-5] über die Armee und die Militärverwaltung.
+- b.[^1-3] ...
+- c. Bundesgesetz vom 3. Februar 1995[^1-4] über die Armee und die Militärverwaltung.
 
-<sup>3</sup> Dieses Gesetz regelt weiter den Status, die Finanzierung, die Aufgaben und die Organisation der Nationalen Menschenrechtsinstitution (NMRI) der Schweiz.[^1-6]
+<sup>3</sup> Dieses Gesetz regelt weiter den Status, die Finanzierung, die Aufgaben und die Organisation der Nationalen Menschenrechtsinstitution (NMRI) der Schweiz.[^1-5]
 
 [^1-1]: Aufgehoben durch Ziff. I des BG vom 1. Okt. 2021, mit Wirkung seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 [^1-2]: [SR 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
 [^1-3]: Fassung gemäss Art. 19 Ziff. 1 des BG vom 30. Sept. 2016 über die Zusammenarbeit mit den Staaten Osteuropas, in Kraft vom 1. Juni 2017 bis zum 31. Dez. 2024 ([AS 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [BBl 2016 2333](https://fedlex.data.admin.ch/eli/fga/2016/516)).
-[^1-4]: [SR 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
-[^1-5]: [<sup>SR</sup> <sup>510.10</sup>](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1-6]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^1-4]: [<sup>SR</sup> <sup>510.10</sup>](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^1-5]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 ## 2. Abschnitt: Zivile Friedensförderung und Stärkung der Menschenrechte im Bereich der Aussenpolitik
 
