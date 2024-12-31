@@ -4,13 +4,13 @@ number: "177.42"
 title: Pensionskassenreglement
 short: R PKTG
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-09-18
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-04
 adopted: 2019-06-12
 in_force: 2020-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.42"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2854/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2876/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ R PKTG
 
 (R PKTG)
 
-vom 12.06.2019 (Stand 01.07.2024)
+vom 12.06.2019 (Stand 01.01.2025)
 
 Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
@@ -706,7 +706,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Koordination der Leistungen**
 
-<sup>1</sup> Invaliden- und Hinterlassenenleistungen werden gekürzt, sofern sie zusammen mit anderen anrechenbaren Einkünften gemäss Abs. 2 90 % des letzten der Versicherung zugrunde liegenden Jahreslohns zuzüglich zwischenzeitlicher Rentenanpassung übersteigen.
+<sup>1</sup> Invaliden- und Hinterlassenenleistungen werden gekürzt, sofern sie zusammen mit anderen anrechenbaren Einkünften gemäss Abs. 2 90 % des letzten der Versicherung zugrunde liegenden Jahreslohns unter Berücksichtigung der generellen Lohnentwicklung der vom Kanton besoldeten Personen übersteigen. Vorbehalten bleibt § 81.
 
 <sup>2</sup> Als anrechenbare Einkünfte im Sinne von Abs. 1 gelten:
 
@@ -1064,5 +1064,11 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 **Invalidenrenten mit Leistungsbeginn vor dem 1. Januar 2022**
 
 <sup>1</sup> Für Bezüger von Invalidenleistungen, deren Anspruch auf Invalidenleistungen vor dem 1. Januar 2022 entstanden ist, gelten in Bezug auf die Invalidenrente gemäss § 31, § 32 und gemäss § 15 Abs. 5 die Übergangsbestimmungen im BVG zur Änderung vom 19. Juni 2020 (Weiterentwicklung der IV).
+
+#### § 81
+
+**Massgebender Jahreslohn für Koordination der Leistungen**
+
+<sup>1</sup> Für Invaliden- und Hinterlassenenrenten gilt für die Koordination der Leistungen nach § 51 bis 31. Dezember 2024 der letzte der Versicherung zugrunde liegende Jahreslohn zuzüglich zwischenzeitlicher Rentenanpassung.
 
 41/2019
