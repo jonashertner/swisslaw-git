@@ -1,315 +1,312 @@
 ---
 canton: VS
 number: "810.800"
-title: "Ordonnance sur l'organisation des secours"
+title: "Ordonnance sur l'organisation des secours sanitaires"
 language: fr
-version: 1996-12-01
-corrected: 2017-10-27
-version_adopted: 1996-11-20
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2016-12-21
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/810.800"
-pdf: "https://lex.vs.ch/api/fr/versions/236/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3401/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur l'organisation des secours
+# Ordonnance sur l'organisation des secours sanitaires
 
-du 20 novembre 1996
+du 21.12.2016 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi du 27 mars 1996 sur l'organisation des secours;
+vu la modification du 8 septembre 2016 de la loi sur l'organisation des secours sanitaires du 27 mars 1996;
 
-sur la proposition du Département de la santé publique,
+sur la proposition du Département de la santé, des affaires sociales et de la culture,
 
-ordonne
+ordonne:[^ingress-1]
 
-### Section 1: Dispositions générales
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-#### Article premier
+## 1 Dispositions générales
+
+#### Art. 1
 
 **But**
 
-<sup>1</sup> La présente ordonnance précise et complète les dispositions de la loi du 27 mars 1996 sur l'organisation des secours (ci-après la loi).
+<sup>1</sup> La présente ordonnance précise et complète les dispositions de la loi sur l'organisation des secours sanitaires du 27 mars 1996 (ci-après: la loi).
 
-<sup>2</sup> Elle est applicable à toutes les personnes, entreprises et institutions s'occupant de secours dans le canton.
+<sup>2</sup> Elle est applicable à toute forme de secours telle que définie à l'article 2 de la loi.
 
-<sup>3</sup> Le Département est chargé de l'application de la présente ordonnance en collaboration avec les autres départements concernés.
+<sup>3</sup> Le département dont relève la santé publique (ci-après: le département) est chargé de l'application de la présente ordonnance en collaboration avec les autres départements concernés.
 
 #### Art. 2
 
-**Organisation faîtière**
+**Organisation cantonale valaisanne des secours**
 
-<sup>1</sup> L'association constituée sous le nom d'Organisation cantonale valaisanne des secours (ci-après l'OCVS) est reconnue comme l'organisation faîtière au sens de l'article 6 de la loi.
+<sup>1</sup> L'Organisation cantonale valaisanne des secours (ci-après: OCVS) est chargée de remplir les missions principales suivantes:
 
-<sup>2</sup> Les conditions et modalités de la reconnaissance d'intérêt public de l'OCVS sont précisées dans la décision du Conseil d'Etat approuvant les statuts de l'association.
+- a) évaluer périodiquement les besoins et soumettre les mesures de planification au Conseil d'Etat selon les modalités définies au chapitre 2;
+- b) prendre en charge tous les appels sanitaires d'urgence par l'installation, l'équipement et la gestion de la centrale d'alarme et d'engagement sanitaire unique pour le canton répondant au numéro d'appel 144 (ci-après: centrale 144) et de sa redondance;
+- c) organiser la formation de base et continue spécifique au domaine du secours sanitaire pré-hospitalier des régulateurs d'urgence sanitaire de la centrale 144;
+- d) participer à l'organisation de la formation de base et continue obligatoires des intervenants engagés par la centrale 144;
+- e) fournir les préavis au département en matière d'autorisation d'exploiter une entreprise de secours;
+- f) mettre en place un système d'enregistrement des interventions permettant la réalisation d'analyses statistiques pour la mise en œuvre d'indicateurs qualité et d'autres mesures qualité au travers de directives de l'OCVS;
+- g) informer la population sur l'accès au système de soins urgents.
 
-<sup>3</sup> Ces conditions porteront notamment sur:
+<sup>2</sup> L'OCVS remplit les autres missions suivantes, dans la mesure où elles ne remettent pas en question la réalisation des missions principales décrites à l'alinéa 1:
 
-- a) les garanties de neutralité et d'indépendance à fournir par l'OCVS;
+- a) collaborer à l'organisation de la régulation médicale;
+- b) réguler et engager les moyens pour la réalisation des transferts non urgents;
+- c) fournir les conseils en matière de dispositif sanitaire lors de manifestations.
 
-- b) la pérennité de l'organisation cantonale des secours sur tout le territoire cantonal et le bon fonctionnement de la centrale;
-
-- c) les exigences de formation, d'expérience et de connaissances linguistiques exigibles dans un canton touristique auxquelles doit répondre le personnel de la centrale;
-
-- d) les garanties d'une qualité des secours égale sur l'ensemble du canton.
+<sup>3</sup> Les statistiques à fournir par l'OCVS au canton sont définies dans son contrat de prestations et au besoin dans une directive du département.
 
 #### Art. 3
 
-**Définitions**
+**Formes de secours**
 
-<sup>1</sup> Sur proposition de l'OCVS, le Département détermine les différentes formes de secours soumises à la présente ordonnance.
+<sup>1</sup> Les différentes formes de secours sont notamment:
 
-<sup>2</sup> Il distingue notamment:
+- a) la dispensation de soins ambulatoires par du personnel médical et paramédical en conditions d'urgence dans le cadre de secours quel que soit le lieu où se trouvent les personnes malades, blessées ou en danger;
+- b) le transport primaire par le dispositif pré-hospitalier pour la dispensation d'un traitement ambulatoire ou hospitalier;
+- c) le transfert urgent de patients entre établissements hospitaliers selon les critères de l'OCVS;
+- d) l'intervention des sauveteurs médico-techniques spécialisés comme par exemple les sauveteurs spécialisés, conducteurs de chiens, plongeurs, spéléologues, etc.;
+- e) la gestion des événements sanitaires majeurs (ESM);
+- f) la gestion sanitaire des événements ABCN (événements qui mettent en danger ou affectent la population, la faune et l'environnement par une augmentation de la radioactivité, par des sinistres d'origine biologique ou chimique ou par des sinistres d'origine naturelle);
+- g) le soutien psychologique d'urgence.
 
-- a) le sauvetage par lequel on entend la dispensation de soins ambulatoires en conditions d'urgence quel que soit le lieu où se trouvent les personnes malades, blessées ou en danger;
-
-- b) le transport primaire pour la dispensation d'un traitement ambulatoire ou hospitalier si le patient ne peut utiliser un moyen de transport normal;
-
-- c) le transfert entre établissements hospitaliers.
-
-<sup>3</sup> Il détermine les prestations annexes, non soumises à la présente ordonnance, comme par exemple les renseignements sur les différents services de garde des médecins, médecins-dentistes pharmaciens, les systèmes d'alarmes téléphoniques pour les patients soignés à domicile, etc. qui peuvent être assumées par l'OCVS sans entraver son bon fonctionnement pour les prestations principales qui lui sont confiées.
-
-### Section 2: Planification et coordination
+## 2 Planification et coordination
 
 #### Art. 4
 
-**Planification**
+**Planification des secours**
 
-<sup>1</sup> La politique cantonale en matière de secours est définie par la planification sanitaire arrêtée par le Conseil d'Etat.
+<sup>1</sup> Le Conseil d'Etat arrête la planification des secours sur proposition de l'OCVS et du département.
 
-<sup>2</sup> L'OCVS définit les besoins pour l'organisation des secours dans le canton et soumet au Conseil d'Etat, par l'intermédiaire de la commission cantonale de planification sanitaire, avec au besoin le concours d'experts, toutes les décisions et mesures de planification nécessaires concernant notamment les besoins de la population en matière de secours y compris les besoins relatifs à l'information et à la prévention et les mesures à prendre pour répondre à ces besoins comme la reconnaissance d'intérêt public à accorder à certaines entreprises ou institutions.
+<sup>2</sup> L'OCVS définit, en collaboration avec le département, les propositions de planification comprenant:
+
+- a) l'évaluation des besoins sur la base des critères de l'Interassociation de sauvetage (IAS) ou d'autres critères reconnus pertinents par l'OCVS;
+- b) l'ensemble des formes de secours définies à l'article 3;
+- c) la définition des mandats de prestations visant à assurer la couverture des besoins.
+
+<sup>3</sup> La planification des secours est régulièrement mise à jour en tenant compte de l'évolution des besoins, ainsi que de la pertinence, de la qualité et de l'économicité du dispositif.
 
 #### Art. 5
 
-**Mandat**
+**Procédure de planification des secours**
 
-Le Département confie à l'OCVS un mandat de prestations, actualisé au besoin chaque année, par avenant, au sens duquel:
+<sup>1</sup> La procédure de planification des secours comprend les étapes suivantes:
 
-- a) l'Etat
+- a) l'OCVS définit, en collaboration avec le département, les propositions de planification;
+- b) le département met en consultation les propositions de planification;
+- c) la commission de planification sanitaire analyse les propositions de planification et les résultats de la consultation; elle formule un préavis au Conseil d'Etat;
+- d) le Conseil d'Etat arrête la planification des secours;
+- e) l'OCVS procède à un appel d'offres auprès des intervenants susceptibles de fournir les prestations requises;
+- f) l'OCVS évalue les offres déposées, en tenant compte notamment des critères de qualité, d'économicité et de pérennité et de la pertinence des informations transmises;
+- g) l'OCVS octroie les mandats de prestations définis dans la planification des secours et conclut des contrats de prestations annuels fixant les modalités d'application des mandats; le contrat définit notamment un délai de résiliation du mandat de prestations qui est en principe d'au moins 6 mois, sous réserve de l'article 7.
 
-- définit les prestations à fournir par l'OCVS et procède à des délégations de compétences;
+<sup>2</sup> Demeurent réservées les dispositions de la loi sur la santé du 14 février 2008 (LS) concernant la qualité des soins et la sécurité des patients.
 
-- fixe les principales orientations de l'OCVS dans le cadre de la politique cantonale des secours, de la politique de la santé et de la politique financière du canton;
-
-- met à disposition de l'OCVS les ressources financières prévues par la loi;
-
-- b) l'OCVS
-
-- s'engage à fournir les prestations demandées en fonction des ressources allouées et conformément aux règles et modalités fixées dans le mandat;
-
-- s'engage sur la qualité et l'adéquation des prestations ainsi que sur la maîtrise des coûts.
+<sup>3</sup> Pour des raisons de santé publique ou de couverture des besoins, l'OCVS peut, en accord avec le département, attribuer des mandats temporaires jusqu'à l'aboutissement de la procédure ordinaire décrite ci-dessus.
 
 #### Art. 6
 
-**Coordination**
+**Centrale 144**
 
-<sup>1</sup> La délégation de compétences à l'OCVS porte principalement sur:
+<sup>1</sup> L'OCVS définit les ressources en personnel nécessaires au fonctionnement adéquat 24h/24h de la centrale 144 en tenant compte des pics journaliers et saisonniers d'appel d'urgence, dans le cadre des moyens financiers à disposition.
 
-- a) la définition, l'adaptation et la mise en oeuvre d'un concept global et coordonné d'organisation des secours dans le canton;
+<sup>2</sup> L'OCVS définit le plateau technique permettant un fonctionnement pérenne de la centrale 144, dans le cadre des moyens financiers à disposition. Elle dispose notamment d'une centrale de redondance lui permettant une bascule du numéro d'appel 144 sans interruption de service. La technologie et les logiciels utilisés dans le cadre de la régulation des appels d'urgence sanitaire sont choisis pour répondre aux spécificités propres au domaine du secours sanitaire.
 
-- b) la prise en charge de tous les appels sanitaires d'urgence par l'installation, l'équipement et la gestion d'une centrale d'alarme et d'engagement sanitaire unique pour le canton répondant au numéro d'appel 144 (ci-après la centrale);
+<sup>3</sup> L'OCVS définit par voie de directive les profils de compétence et les programmes de formation de base et continue propres aux régulateurs des urgences sanitaires.
 
-- c) la collaboration étroite de la centrale d'alarme 144 avec la centrale d'engagement de la police cantonale portant en particulier sur l'information mutuelle lors d'interventions de secours et sur la concertation indispensable en matière de recherches relatives à des personnes accidentées, malades ou présumées telles;
-
-- d) la collaboration avec d'autres centrales privées ou publiques d'appels d'urgence lesquelles doivent commuter immédiatement sur le No 144 tous les appels impliquant des personnes accidentées, malades ou en danger;
-
-- e) la collaboration intercantonale et transfrontalière en matière de secours visant notamment à améliorer la coopération ponctuelle des organisations existantes, à harmoniser les différentes organisations et à créer un réseau public commun d'alarme.
-
-<sup>2</sup> Les compétences et les missions spécifiques de la police cantonale ne découlant pas de la législation sur l'organisation des secours, telles que la sécurité routière en cas d'accident, les constats et les enquêtes pour les autorités judiciaires, les levées de corps, la mise en oeuvre de l'organisation des secours en cas de catastrophes, les cas de disparition de personnes, demeurent réservées.
+<sup>4</sup> La centrale 144 et la centrale de la Police cantonale garantissent la compatibilité entre leurs standards techniques respectifs après consultation du Service cantonal de l'informatique.
 
 #### Art. 7
 
-**Statistiques et autres instruments**
+**Critères de retrait des mandats de prestations**
 
-<sup>1</sup> Le Département édicte des directives concernant les statistiques d'activité, les statistiques sur la médicalisation, les autres statistiques et instruments de mesure et de gestion à fournir par l'OCVS, comme les protocoles d'intervention des différentes personnes ou institutions engagées dans une action de secours nécessaires à la promotion et au contrôle de la qualité et de l'adéquation des prestations, à la planification et à l'allocation des ressources.
+<sup>1</sup> L'OCVS vérifie périodiquement le respect des mandats de prestations et des conditions y relatives.
 
-<sup>2</sup> Le Département prend les mesures nécessaires au contrôle du bon fonctionnement et à la promotion de la qualité des prestations de l'organisation des secours telles que audit interne ou externe, ponctuel ou permanent de l'OCVS.
+<sup>2</sup> En cas de non-respect, l'OCVS demande une prise de position à l'intervenant concerné.
 
-<sup>3</sup> Si les contrôles effectués révèlent des insuffisances, des lacunes ou des manquements, l'OCVS prend des mesures correctives dans le cadre des tâches qui lui sont déléguées et en informe le Département lequel prend ou propose à l'autorité compétente les décisions qui s'imposent conformément à la loi.
-
-### Section 3: Surveillance
+<sup>3</sup> L'OCVS peut décider le retrait partiel ou total du mandat de prestations de l'intervenant concerné, le département entendu.
 
 #### Art. 8
 
-**Personnes**
+**Coordination**
 
-<sup>1</sup> La surveillance des professionnels de la santé, comme les médecins, le personnel soignant et les ambulanciers, exerçant une activité dans le domaine des secours relève de la loi sur la santé et du Département qui délivre les autorisations individuelles d'exercer une profession de la santé.
+<sup>1</sup> La coordination repose sur la mise en œuvre de la planification des secours sanitaires, au besoin en collaboration avec les autres centrales d'engagement.
 
-<sup>2</sup> La surveillance des autres personnes bénévoles ou rémunérées qui exercent, à titre professionnel ou non, des activités dans le domaine des secours est confiée à l'OCVS qui:
+<sup>2</sup> La centrale 144 transfert immédiatement aux centrales d'alarme et/ou d'engagement concernées tous les appels urgents qui ne sont pas de nature sanitaire.
 
-- a) propose au Département les mesures à prendre pour que ces personnes reçoivent une formation adéquate;
+<sup>3</sup> Les autres centrales d'alarme et/ou d'engagement transfèrent immédiatement à la centrale 144 tous les appels impliquant des personnes accidentées, malades ou en danger.
 
-- b) veille à engager dans une action de secours uniquement les personnes disposant de la formation et de l'expérience requise;
+<sup>4</sup> La centrale 144 et la centrale de la Police cantonale collaborent étroitement et en permanence. Elles s'informent mutuellement lors d'interventions. Elles se concertent lors de recherches.
 
-- c) délivre, au besoin, des attestations de formation ou se prononce sur la validité d'attestations délivrées par d'autres institutions.
+<sup>5</sup> Demeurent réservées les compétences et les missions spécifiques de la Police cantonale ne découlant pas de la législation sur l'organisation des secours sanitaires, telles que la sécurité routière en cas d'accident ou les constats et les enquêtes pour les autorités judiciaires.
+
+<sup>6</sup> L'OCVS veille à la collaboration intercantonale et transfrontalière en matière de secours visant notamment à améliorer la coopération ponctuelle des organisations existantes.
 
 #### Art. 9
 
-**Entreprises et institutions**
+**Confidentialité des données**
 
-<sup>1</sup> Toutes les entreprises et institutions s'occupant de secours sont soumises à une autorisation d'exploiter délivrée par le Département, sur préavis de l'OCVS.
+<sup>1</sup> La confidentialité des données relatives aux interventions de secours sanitaires doit être garantie. Dans ce but, l'OCVS doit répondre aux exigences suivantes:
 
-<sup>2</sup> Sont exemptées de l'autorisation d'exploitation les entreprises disposant d'un service de sécurité ou d'un service sanitaire interne non destiné au public ainsi que les institutions pour lesquelles, sur préavis de l'OCVS, une autorisation n'est pas justifiée.
+- a) seuls les régulateurs d'urgence sanitaire sont habilités à répondre aux appels d'urgence sanitaire;
+- b) les systèmes d'enregistrement de télécommunication et de gestion des engagements, ainsi que leurs bases de données respectives sont propres à la centrale 144; ils doivent respecter les termes de la loi sur la protection des données;
+- c) les accès à la centrale 144 sont protégés et limités aux seules personnes autorisées par l’OCVS.
 
-<sup>3</sup> L'article 11 de la loi est applicable également aux entreprises disposant d'un service de sécurité ou d'un service sanitaire interne non destiné au public.
-
-<sup>4</sup> Sur préavis de l'OCVS, les modalités de contrôle des entreprises ou institutions peuvent être différenciées.
+## 3 Autorisation et surveillance
 
 #### Art. 10
 
-**Conditions d'autorisation**
+**Intervenants reconnus - Exigences**
 
-<sup>1</sup> Le Département, sur proposition de l'OCVS, élabore et met à jour régulièrement des directives techniques précisant les conditions d'autorisation à remplir par une entreprise ou une institution.
+<sup>1</sup> Les exigences auxquelles doivent répondre les intervenants mentionnés à l'article 8 de la loi sont les suivantes:
 
-<sup>2</sup> Ces directives porteront sur:
-
-- a) l'effectif du personnel;
-
-- b) les exigences relatives à la formation, au perfectionnement professionnel et aux connaissances linguistiques de ce personnel et en particulier des personnes responsables du respect de la présente ordonnance;
-
-- c) le degré de médicalisation des secours;
-
-- d) l'obligation d'assurer une permanence;
-
-- e) les exigences relatives aux moyens de transport, à leur équipement et aux médicaments;
-
-- f) les moyens de liaison;
-
-- g) les locaux qui doivent être fonctionnels et répondre aux exigences d'hygiène et de sécurité;
-
-- h) l'obligation de collaborer avec la centrale pour tous les appels sanitaires d'urgence qui nécessitent l'engagement de moyens de secours et une coordination.
-
-<sup>3</sup> Des exigences différenciées peuvent être posées en fonction notamment du lieu, des moyens et de la nature de l'intervention.
+- a) pour les intervenants employés par une entreprise de secours, les exigences sont fixées par voie de directives par le département;
+- b) pour les intervenants au bénéfice d'une formation spécifique dans le domaine du secours:
+  - 1\. être titulaires d'un diplôme reconnu en Suisse donnant accès à une profession dans le domaine du secours,
+  - 2\. satisfaire aux obligations de formation continue de ladite profession et/ou aux exigences de formation spécifiées par l'OCVS,
+  - 3\. être enregistrés comme personnel engageable auprès de la centrale 144 selon les critères de l'OCVS; demeure réservé l'engagement d'autres intervenants sur demande de l'OCVS;
+- c) pour les autres intervenants:
+  - 1\. satisfaire à la formation définie par l'OCVS pour les missions qui leur sont confiées par la centrale 144,
+  - 2\. être enregistrés comme personnel engageable auprès de la centrale 144 selon les critères de l'OCVS.
 
 #### Art. 11
 
-**Reconnaissance**
+**Entreprise de secours**
 
-<sup>1</sup> L'OCVS prépare et soumet au Département les dossiers relatifs à la reconnaissance d'intérêt public à accorder par le Conseil d'Etat à certaines entreprises ou institutions.
-
-<sup>2</sup> Les demandes de reconnaissance d'intérêt public sont regroupées et doivent être justifiées par des motifs portant notamment sur:
-
-- a) les besoins déterminés par la planification;
-
-- b) la nécessité d'assurer des prestations adéquates sur tout le territoire, y compris dans les régions périphériques;
-
-- c) la nécessité de garantir la pérennité de l'organisation cantonale des secours.
-
-<sup>3</sup> L'OCVS recueille les préavis des institutions et milieux concernés en particulier des établissements hospitaliers régionaux, des médecins de district et des commissions régionales de santé.
-
-### Section 4: Financement
+<sup>1</sup> La création, l'extension, la transformation et l'exploitation d'une entreprise s'occupant de secours sanitaire au sens de l'article 2 de la loi, à titre principal ou accessoire, sont soumises à autorisation du département, sur préavis de l'OCVS.
 
 #### Art. 12
 
-**Conditions**
+**Entreprises disposant d'un dispositif sanitaire interne**
 
-Seules peuvent bénéficier des subventions prévues au chapitre 4 de la loi, les personnes, entreprises ou institutions qui:
-
-- a) respectent la planification cantonale;
-
-- b) respectent les dispositions générales de la loi et de la présente ordonnance ainsi que les directives du Département et de l'OCVS;
-
-- c) collaborent avec la centrale pour tous les appels sanitaires d'urgence.
+<sup>1</sup> Les dispositifs sanitaires internes mis en place par des entreprises actives dans des domaines présentant des risques particuliers pour leurs employés ou pour leurs clients sont soumis aux directives de l'OCVS et, le cas échéant, à une autorisation spécifique.
 
 #### Art. 13
 
-**Modalités**
+**Conditions d'autorisation**
 
-<sup>1</sup> L'OCVS collecte et centralise toutes les demandes de subventions émanant des personnes, institutions ou entreprises pour des activités relatives à l'application de la loi.
+<sup>1</sup> Le département, sur proposition de l'OCVS, élabore et met à jour des directives précisant les conditions d'autorisation à remplir par une entreprise en application de l'article 10 de la loi.
 
-<sup>2</sup> L'OCVS examine ces demandes en particulier en contrôlant les comptes et les budgets des entreprises et institutions de secours reconnues d'intérêt public et présente au Département une requête globale pour le 30 avril de chaque année.
+<sup>2</sup> Ces directives porteront sur:
 
-<sup>3</sup> La requête accompagnée des documents demandés par le Département (comptes, budget, rapport d'activité, statistiques, instruments de mesure et gestion) précise le montant souhaité de la participation financière de l'Etat pour:
+- a) le respect des normes et recommandations définies par l'Interassociation de sauvetage (IAS);
+- b) le respect des directives émises par l'OCVS.
 
-- a) les frais de perfectionnement;
+<sup>3</sup> Des exigences différenciées peuvent être posées en fonction notamment du lieu, des moyens et de la nature de l'intervention.
 
-- b) les frais non récupérables;
+<sup>4</sup> Toute modification concernant les conditions qui ont abouti à l'octroi d'une autorisation doit être signalée immédiatement au département, de même que toute modification au niveau de la direction et des responsables de l'entreprise.
 
-- c) les frais d'investissements de la centrale;
-
-- d) les frais d'exploitation de la centrale et de fonctionnement de l'OCVS;
-
-- e) les frais d'investissements des entreprises d'ambulances reconnues d'intérêt public;
-
-- f) les frais d'exploitation supplémentaires des entreprises et institutions reconnues d'intérêt public.
+<sup>5</sup> Le renouvellement de l'autorisation se fait tacitement, à condition que les exigences requises pour l'octroi de l'autorisation soient toujours respectées. L'OCVS procède à des contrôles.
 
 #### Art. 14
 
-**Dépenses retenues**
+**Entreprises et intervenants**
 
-<sup>1</sup> Sur la base des documents présentés, le Département décide des dépenses retenues pour le subventionnement à savoir:
+<sup>1</sup> La surveillance des intervenants relève de l'OCVS. Demeurent réservées les dispositions de la loi sur la santé.
 
-- a) les dépenses en rapport avec la planification cantonale et notamment avec le mandat de prestations;
+<sup>2</sup> Tout dysfonctionnement important lié à la prise en charge ou aux droits des patients doit être signalé sans délai au département.
 
-- b) les dépenses approuvées par le Département prévues dans le budget d'investissements et d'exploitation des établissements et institutions présenté par l'OCVS en vue du subventionnement.
+<sup>3</sup> Les entreprises et intervenants sont tenus de fournir gratuitement les données et indicateurs nécessaires à la surveillance.
 
-<sup>2</sup> Ne sont pas prises en compte pour le subventionnement les dépenses qui:
-
-- ne répondent pas aux conditions et modalités prévues aux articles 12 et 13 de la présente ordonnance;
-
-- sont engagées en violation des dispositions légales sur le subventionnement des entreprises et institutions de secours;
-
-- ne sont pas conformes aux dispositions et directives sur la comptabilité.
-
-<sup>3</sup> Demeurent réservées les sanctions et mesures prévues aux articles 23, 24 et 25 de la loi.
+## 4 Financement
 
 #### Art. 15
 
-**Enveloppe globale**
+**Financement de l'OCVS**
 
-<sup>1</sup> Dans le cadre de ses compétences financières, le Département peut octroyer les subventions, pour l'ensemble ou pour chacune des rubriques prévues à l'article 13, alinéa 3 de la présente ordonnance sous la forme d'une enveloppe globale accordée et notifiée à l'OCVS, charge à cette dernière de veiller à une répartition équitable et différenciée des subventions entre les entreprises ou institutions en se fondant notamment sur les priorités définies par la planification, sur l'activité déployée, sur la population desservie et sur d'autres éléments pertinents.
+<sup>1</sup> L'OCVS établit, à l'attention du département, un budget d'exploitation et un budget d'investissement, accompagnés de tous les justificatifs nécessaires, pour le 30 avril. Le département approuve les budgets présentés sous l'angle de l'économicité et du respect de la planification des secours, en application de l'article 14 alinéa 3 lettre b de la loi.
 
-<sup>2</sup> L'affectation des résultats est précisée dans le mandat de prestations.
+<sup>2</sup> L'OCVS remet au département les comptes d'exploitation, le rapport d'activités, le rapport de l'organe de révision, ainsi que les statistiques d'activité pour le 30 avril de l'année suivante; le département porte ces documents à la connaissance du Conseil d'Etat, en application de l'article 6b lettre j de la loi.
 
-<sup>3</sup> Les subventions sont versées trimestriellement à l'OCVS. Le solde est versé après l'approbation du décompte final.
+<sup>3</sup> Les budgets et les comptes doivent présenter distinctement les charges et recettes de l'OCVS, de celles de la centrale 144 et de celles du dispositif pré-hospitalier.
+
+<sup>4</sup> Au besoin, le département peut préciser le niveau de détail à présenter et les modalités nécessaires par voie de directives.
 
 #### Art. 16
 
-**Crédits supplémentaires**
+**Modalités de versement des subventions à l'OCVS**
 
-En cours d'exercice, des demandes de crédits budgétaires supplémentaires ne sont pas admises. Demeurent réservées les demandes déposées par l'OCVS dans les seuls cas où elles sont impérativement justifiées par la nécessité, l'urgence et l'imprévisibilité.
+<sup>1</sup> Le canton verse les subventions d'exploitation par acomptes réguliers à l'OCVS. Le solde est versé après approbation des décomptes définitifs par le département.
+
+<sup>2</sup> Le canton verse les subventions d'investissements à l'OCVS sur la base d'un décompte attestant l'acquisition et le paiement de l'investissement.
 
 #### Art. 17
 
-**Taxe**
+**Dépenses retenues**
 
-<sup>1</sup> Peuvent prétendre à l'autorisation d'exploiter ou au subventionnement uniquement les entreprises et institutions qui dirigent ou qui font transiter par la centrale systématiquement tous les appels sanitaires d'urgence qu'elles reçoivent qui nécessitent l'engagement de moyens de secours et une coordination.
+<sup>1</sup> Le subventionnement ne porte que sur les dépenses retenues.
 
-<sup>2</sup> Seule l'OCVS est habilitée à prélever, au nom du Département, la taxe prévue à l'article 18 de la loi pour chaque opération de secours.
+<sup>2</sup> Le département détermine les dépenses retenues lors de l'examen des budgets et des comptes.
 
-<sup>3</sup> Le montant de la taxe fixé par l'OCVS et approuvé par le Conseil d'Etat est différencié en fonction de la nature et du degré de complexité de l'intervention.
-
-<sup>4</sup> La taxe est prélevée par l'OCVS auprès des entreprises et institutions sur la base d'un relevé mensuel de toutes les interventions sanitaires d'urgence contenant le détail de la facturation que ces dernières adressent à l'OCVS.
+<sup>3</sup> Les effectifs de l'OCVS ainsi que les conditions salariales et sociales sont soumis à l'approbation du département sous l'angle des dépenses retenues.
 
 #### Art. 18
 
-**Frais supplémentaires**
+**Financement communal**
 
-L'OCVS soumet au Département des propositions pour les frais supplémentaires des entreprises et institutions reconnues d'intérêt public qui nécessitent un subventionnement en se fondant sur les critères suivants:
+<sup>1</sup> Le financement communal découlant des articles 14, 18 et 20 de la loi est réparti comme suit:
 
-- a) besoins déterminés par la planification cantonale;
+- a) le 80 pour cent des subventions d'exploitation et d'investissements est réparti entre les communes en fonction de la population résidente;
+- b) le 20 pour cent des subventions d'exploitation et d'investissement est réparti entre les communes en fonction du nombre de séjours dans le canton (nuitées).
 
-- b) nécessité d'assurer des prestations adéquates sur tout le territoire cantonal y compris dans les régions périphériques;
+<sup>2</sup> La répartition entre les communes se base sur:
 
-- c) la nécessité de garantir la pérennité de l'organisation cantonale des secours.
+- a) la population de l'année qui précède de deux ans l'année de subventionnement;
+- b) les séjours dans le canton (nuitées) de l'année qui précède de deux ans l'année de subventionnement. On entend par nuitées, l'offre potentielle résultant de la somme du nombre de résidences secondaires et du nombre de lits hôteliers selon un taux d’occupation défini. L’offre en nuitées d’une commune est calculée comme suit:
+  - 1\. en multipliant le nombre de résidences secondaires par 2 personnes et une occupation moyenne de 30 jours, soit 60 nuitées par résidence secondaire,
+  - 2\. en multipliant par 150 nuitées d’utilisation chaque lit hôtelier.
 
-### Section 5: Dispositions diverses et finales
+<sup>3</sup> La part communale des subventions d'exploitation et d'investissement est facturée annuellement par le canton aux communes sur la base du budget arrêté par le département.
+
+<sup>4</sup> Les décomptes définitifs de subventionnement établis par le canton sont intégrés à la facturation aux communes des années suivantes.
 
 #### Art. 19
 
-**Tarif**
+**Subventionnement du dispositif pré-hospitalier**
 
-<sup>1</sup> Les négociations entre assureurs et fournisseurs de prestations membres de l'OCVS se font par l'intermédiaire de l'OCVS ou sont soumises au préavis de l'OCVS.
+<sup>1</sup> Le subventionnement du dispositif pré-hospitalier est intégré dans les comptes de l'OCVS.
 
-<sup>2</sup> L'OCVS émet des recommandations pour la facturation.
+<sup>2</sup> Seules peuvent bénéficier des subventions prévues au chapitre 4 de la loi, les entreprises et les intervenants qui:
 
-<sup>3</sup> En matière de tarif, le Conseil d'Etat intervient dans la mesure prévue par le droit fédéral.
+- a) font partie de la planification cantonale et respectent les conditions y relatives;
+- b) respectent les dispositions générales de la loi et de la présente ordonnance ainsi que les directives du département et de l'OCVS;
+- c) collaborent avec la centrale 144 pour toutes les missions de secours sanitaire.
+
+<sup>3</sup> Le subventionnement du dispositif pré-hospitalier fait d'objet de directives de l'OCVS soumises à l'approbation du département conformément à l'article 20 de la loi.
+
+<sup>4</sup> Les directives mentionnées à l'alinéa 3 fixent les modalités de calcul du subventionnement des entreprises de secours, respectivement les montants forfaitaires pour les intervenants mentionnés à l'article 8 alinéa 1 lette b de la loi.
 
 #### Art. 20
+
+**Frais non récupérables**
+
+<sup>1</sup> Sont considérés comme frais non récupérables, en application de l'article 16 alinéa 2 de la loi, les frais occasionnés par des interventions de secours engagées par la centrale 144 dans les cas de figure suivants:
+
+- a) il n'y a pas de personne impliquée;
+- b) l'identité de la personne impliquée n'est pas connue;
+- c) la personne impliquée est insolvable;
+- d) le recouvrement de la facture engendre des frais disproportionnés.
+
+<sup>2</sup> Les frais non récupérables définis aux lettres a et b sont pris en charge par les pouvoirs publics en application de l'article 20 alinéa 4 lettre e de la loi.
+
+<sup>3</sup> Les frais non récupérables définis aux lettres c et d sont pris en charge en application de la législation sur l'intégration et l'aide sociale.
+
+<sup>4</sup> La procédure est définie par une directive de l'OCVS.
+
+## 5 Tarif, information et plaintes
+
+#### Art. 21
+
+**Tarif**
+
+<sup>1</sup> Le département, respectivement l'OCVS, peuvent, lorsqu'ils le jugent nécessaire, assister en tant qu'observateurs aux négociations des conventions tarifaires.
+
+#### Art. 22
 
 **Information**
 
@@ -317,38 +314,58 @@ L'OCVS soumet au Département des propositions pour les frais supplémentaires d
 
 <sup>2</sup> Les dispositions à prendre pour demander du secours et la diffusion au public de ces dispositions relèvent de l'OCVS.
 
-#### Art. 21
-
-**Plaintes**
-
-<sup>1</sup> Les plaintes ou dénonciations émanant de personnes ou d'institutions qui estiment que les dispositions de la loi et de la présente ordonnance ne sont pas respectées sont transmises pour rapport à l'OCVS qui tente de concilier les parties.
-
-<sup>2</sup> L'OCVS rend son rapport ainsi qu'un préavis au Département contenant une proposition de classement ou de sanction ou d'autres mesures éventuelles.
-
-<sup>3</sup> L'OCVS informe le Département des plaintes ou dénonciations qui lui sont adressées directement.
-
-#### Art. 22
-
-**Emoluments**
-
-Les autorisations et les autres décisions prises en application de la présente ordonnance sont délivrées contre un émolument fixé par voie d'arrêté.
-
 #### Art. 23
 
-**Dispositions transitoires**
+**Plaintes et réclamations**
 
-<sup>1</sup> Les entreprises et institutions de secours existantes ont un délai de deux ans pour s'adapter aux exigences de la présente ordonnance.
+<sup>1</sup> Les plaintes sont traitées conformément à la loi sur la santé.
 
-<sup>2</sup> Dans un délai d'un an, le Département, d'entente avec les autres départements concernés, est chargé des modalités de transfert à l'OCVS de tâches exercées jusque-là par différentes institutions comme la Commission cantonale des secours en montagne après liquidation préalable du contentieux éventuel.
-
-<sup>3</sup> Pendant la période de mise en route de la centrale et dans l'attente des résultats des travaux de planification, mais au plus tard jusqu'au 1er janvier 1998, le Département peut octroyer des subventions sur la base des dispositions légales en vigueur à ce jour ou fixer des modalités particulières de subventionnement et maintenir, au besoin, les obligations légales faites aux hôpitaux en la matière.
+<sup>2</sup> L'OCVS informe annuellement le département des plaintes ou réclamations qui lui sont adressées directement.
 
 #### Art. 24
 
-**Entrée en vigueur**
+**Emoluments**
 
-La présente ordonnance sera publiée au Bulletin officiel pour entrer en vigueur en même temps que la loi.
+<sup>1</sup> Les autorisations et les autres décisions prises en application de la présente ordonnance sont délivrées contre un émolument fixé par voie d'arrêté.
 
-Ainsi adopté en Conseil d'Etat, à Sion, le 20 novembre 1996.
+## T1 Dispositions transitoires
 
-Le président du Conseil d'Etat: Serge Sierro Le chancelier d'Etat: Henri v. Roten
+#### Art. T1-1
+
+**Transfert du personnel**
+
+<sup>1</sup> Les rapports de travail du personnel de l'Organisation cantonale faîtière des secours (ci-après: l'association) au sens des articles 6 de la loi (version du 27 mars 1996) et 5 de l'ordonnance sur l'organisation des secours du 20 novembre 1996 sont transférés à la nouvelle entité OCVS dès le 1<sup>er</sup> janvier 2017.
+
+<sup>2</sup> La classification des membres du personnel transférés est maintenue au même niveau et le montant du traitement (salaire brut) à la date du transfert est garanti.
+
+#### Art. T1-2
+
+**Droit au salaire en cas de maladie, d'accident, de maternité, d'adoption, de service militaire, de protection civile, de soldes vacances et horaire**
+
+<sup>1</sup> Les rapports de travail des personnes en arrêt de travail pour cause de maladie, d'accident, de maternité, d'adoption, de service militaire, de protection civile, de soldes vacances et horaire sont intégralement transférés.
+
+<sup>2</sup> Les prestations éventuelles de tiers (assurances, caisse de compensation, etc.) touchées par l'association sur la période suivant l'entrée en vigueur de la présente ordonnance seront versées à la nouvelle entité OCVS.
+
+<sup>3</sup> Les cas particuliers seront réglés par convention entre l'association et la nouvelle entité OCVS.
+
+#### Art. T1-3
+
+**Prévoyance professionnelle**
+
+<sup>1</sup> La nouvelle entité OCVS conclut une convention d'affiliation pour assurer son personnel.
+
+<sup>2</sup> Le maintien des droits acquis par le personnel transféré est garanti.
+
+#### Art. T1-4
+
+**Transfert des biens, équipements, mandats et titres de propriété**
+
+<sup>1</sup> L'association transfère à la nouvelle entité OCVS les biens et équipements disponibles à la valeur comptable le jour de leur transfert ainsi que ses divers mandats et titres de propriété, sur la base d'un inventaire, conformément à l'article 26 de la loi sur les subventions.
+
+#### Art. T1-5
+
+**Transfert des droits et obligations**
+
+<sup>1</sup> Les droits et obligations de l'association contractés avant le 1<sup>er</sup> janvier 2017 sont repris par la nouvelle entité OCVS.
+
+RCV BO/Abl. 53/2016, 5/2017

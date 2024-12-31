@@ -1,356 +1,371 @@
 ---
 canton: VS
 number: "810.800"
-title: Verordnung über die Organisation des Rettungswesens
+title: Verordnung über die Organisation des sanitätsdienstlichen Rettungswesens
 language: de
-version: 1996-12-01
-corrected: 2017-10-27
-version_adopted: 1996-11-20
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2016-12-21
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/810.800"
-pdf: "https://lex.vs.ch/api/de/versions/236/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3401/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Organisation des Rettungswesens
+# Verordnung über die Organisation des sanitätsdienstlichen Rettungswesens
 
-vom 20. November 1996
+vom 21.12.2016 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Gesetz vom 27. März 1996 über die Organisation des Rettungswesens;
+eingesehen die Änderung vom 8. September 2016 des Gesetzes über die Organisation des sanitätsdienstlichen Rettungswesens vom 27. März 1996;
 
-auf Antrag des Gesundheitsdepartementes,
+auf Antrag des Departements für Gesundheit, Soziales und Kultur,
 
-verordnet:
+verordnet:[^ingress-1]
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+[^ingress-1]: In vorliegender Verordnung gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Mit dieser Verordnung werden die Bestimmungen des Gesetzes vom 27. März 1996 über die Organisation des Rettungswesens (nachfolgend: das Gesetz) ausgeführt und ergänzt.
+<sup>1</sup> Mit dieser Verordnung werden die Bestimmungen des Gesetzes über die Organisation des sanitätsdienstlichen Rettungswesens vom 27. März 1996 (nachfolgend: das Gesetz) ausgeführt und ergänzt.
 
-<sup>2</sup> Sie findet Anwendung auf alle Personen, Unternehmungen und Institutionen, die im kantonalen Rettungswesen tätig sind.
+<sup>2</sup> Sie findet Anwendung auf alle Rettungsarten, die in Artikel 2 des Gesetzes aufgeführt sind.
 
-<sup>3</sup> Der Vollzug dieser Verordnung obliegt dem Departement in Zusammenarbeit mit den anderen betroffenen Departementen.
+<sup>3</sup> Das Departement, das für das Gesundheitswesen zuständig ist (nachfolgend: das Departement), ist zuständig für die Umsetzung dieser Verordnung in Zusammenarbeit mit den weiteren betroffenen Departementen.
 
 #### Art. 2
 
-**Dachorganisation**
+**Kantonale Walliser Rettungsorganisation**
 
-<sup>1</sup> Als kantonale Dachorganisation des Rettungswesens im Sinne von Artikel 6 des Gesetzes gilt der unter der Bezeichnung "Kantonale Walliser Rettungsorganisation" (nachfolgend: KWRO) geschaffene Verein.
+<sup>1</sup> Die Kantonale Walliser Rettungsorganisation (nachfolgend: KWRO) hat folgende Hauptaufgaben zu erfüllen:
 
-<sup>2</sup> Die Voraussetzungen und Modalitäten der Anerkennung des gemeinnützigen Charakters der KWRO werden im Entscheid des Staatsrates betreffend die Genehmigung der Statuten dieses Vereins umschrieben.
+- a) Regelmässige Bedarfsermittlung und Unterbreitung der Massnahmen für die Umsetzung der Planung an den Staatsrat gemäss den Modalitäten, die im 2. Kapitel aufgeführt sind;
+- b) Entgegennahme aller Sanitätsnotrufe durch die Einrichtung, die Ausrüstung und den Betrieb der Sanitätsnotruf- und einsatzzentrale (nachstehend: Zentrale 144), die einzig im Kanton die Nummer 144 entgegennimmt, und seiner Ersatzzentrale;
+- c) Organisation der Aus- und Weiterbildung im sanitätsdienstlichen Rettungswesen der sanitätsdienstlichen Einsatzdisponenten der Zentrale 144;
+- d) Beteiligung an der Organisation der Aus- und Weiterbildung für Rettungskräfte, die von der Zentrale 144 aufgeboten werden;
+- e) Abgabe von Vormeinungen an das Departement bezüglich der Betriebsbewilligungen für Rettungsunternehmen;
+- f) Schaffung eines Erfassungssystems für Einsätze gemäss Richtlinien der KWRO, das statistische Analysen für die Erstellung von Qualitätsindikatoren und weitere Qualitätssicherungsmassnahmen ermöglicht;
+- g) Information der Bevölkerung über die sanitätsdienstliche Notfallversorgung.
 
-<sup>3</sup> Diese Voraussetzungen umfassen namentlich:
+<sup>2</sup> Die KWRO erfüllt folgende weiteren Aufgaben, insofern diese die Erfüllung der Hauptaufgaben gemäss Absatz 1 nicht in Frage stellen:
 
-- a) die durch die KWRO zu erbringenden Garantien hinsichtlich Neutralität und Unabhängigkeit;
+- a) Mitarbeit an der Organisation des ärztlichen Bereitschaftsdienstes;
+- b) Leitung und Aufgebot von Einsatzmitteln für die Durchführung von nicht dringlichen Verlegungen;
+- c) Beratung für die Organisation des Sanitätsdienstes anlässlich von Veranstaltungen.
 
-- b) den Fortbestand der kantonalen Rettungsorganisation auf dem gesamten Kantonsgebiet und das einwandfreie Funktionieren der Zentrale;
-
-- c) die einem touristischen Kanton angemessenen Anforderungen an die Ausbildung, die Erfahrung und die sprachlichen Kenntnisse, welchen das Personal der Zentrale entsprechen muss;
-
-- d) die Gewährleistung einer gleichen Qualität des Rettungswesens auf dem gesamten Kantonsgebiet.
+<sup>3</sup> Die Statistiken, die die KWRO dem Kanton zur Verfügung stellen muss, werden im Leistungsvertrag und gegebenenfalls in einer Richtlinie des Departements festgehalten.
 
 #### Art. 3
 
-**Definitionen**
+**Rettungsarten**
 
-<sup>1</sup> Auf Vorschlag der KWRO bezeichnet das Departement die verschiedenen Arten von Rettungsdiensten, die dieser Verordnung unterliegen.
+<sup>1</sup> Zu den verschiedenen Arten der Rettung gehören unter anderem:
 
-<sup>2</sup> Es unterscheidet namentlich zwischen:
+- a) ambulante Versorgung durch medizinische und paramedizinische Fachpersonen in Notfallsituationen im Rahmen eines Rettungseinsatzes, unabhängig vom Ort, an dem sich die erkrankte, verunfallte oder in Gefahr befindliche Person befindet;
+- b) sanitätsdienstliche Primärtransporte für ambulante oder stationäre Behandlungen;
+- c) dringliche Verlegungen von Patienten zwischen Spitälern gemäss den Kriterien der KWRO;
+- d) Einsätze von spezialisierten medizinisch-technischen Rettungskräften wie beispielsweise Rettungsspezialisten, Hundeführer, Taucher, Höhlenretter usw.;
+- e) sanitätsdienstliche Führung in Grossereignissen (SFG);
+- f) sanitätsdienstliche Führung bei ABCN-Ereignissen (Ereignisse, die Bevölkerung, Tiere und Umwelt durch erhöhte Radioaktivität, durch biologische oder chemische Schadenereignisse sowie durch Naturereignisse gefährden);
+- g) psychologische Notfallhilfe.
 
-- a) der Gewährung ambulanter Pflege unter notfallmässigen Bedingungen, unabhängig davon, wo sich die kranken, verletzten oder einer Gefahr ausgesetzten Personen befinden;
-
-- b) den Ersttransporten zur Erteilung einer ambulanten oder im Spital erbrachten Behandlung, wenn der Patient nicht ein normales Transportmittel benutzen kann;
-
-- c) dem Transfer zwischen Spitälern.
-
-<sup>3</sup> Es bezeichnet diejenigen Nebenleistungen, die nicht dieser Verordnung unterliegen. Dazu gehören beispielsweise Auskünfte über die verschiedenen Notfalldienste der Ärzte, Zahnärzte und Apotheker, über die telefonischen Alarmsysteme für die zu Hause betreuten Patienten, usw., sofern sie durch die KWRO erbracht werden können, ohne dabei die Durchführung der ihr übertragenen Hauptleistungen zu beeinträchtigen.
-
-### 2. Abschnitt: Planung und Koordination
+## 2 Planung und Koordination
 
 #### Art. 4
 
-**Planung**
+**Planung des Rettungswesens**
 
-<sup>1</sup> Die kantonale Politik in Sachen Rettungswesen wird durch die vom Staatsrat festgelegte Gesundheitsplanung definiert.
+<sup>1</sup> Der Staatsrat beschliesst die Rettungsplanung auf Antrag der KWRO und des Departements.
 
-<sup>2</sup> Die KWRO bestimmt die Bedürfnisse der Organisation des Rettungswesens im Kanton und unterbreitet dem Staatsrat über die kantonale Gesundheitsplanungskommission und nötigenfalls unter Beizug von Experten alle notwendigen Planungsentscheide und Massnahmen, namentlich was die Bedürfnisse der Bevölkerung bezüglich Rettungsdienste betrifft, einschliesslich Information und Prävention. Dem Staatsrat werden gleichzeitig auch die zur Befriedigung dieser Bedürfnisse zu treffenden Massnahmen, wie etwa die gewissen Unternehmungen und Institutionen zu gewährende Anerkennung des gemeinnützigen Charakters, unterbreitet.
+<sup>2</sup> Die KWRO legt gemeinsam mit dem Departement die Planungsvorschläge fest. Diese enthalten:
+
+- a) die Bedarfsermittlung gemäss den Kriterien des Interverbands für Rettungswesen (IVR) oder weiteren von der KWRO als relevant eingestuften Kriterien;
+- b) sämtliche Rettungsarten gemäss Artikel 3;
+- c) die Festlegung der Leistungsaufträge für die Bedarfsdeckung.
+
+<sup>3</sup> Die Planung des Rettungswesens wird regelmässig aktualisiert unter Berücksichtigung der Bedarfsentwicklung sowie der Relevanz, Qualität und Wirtschaftlichkeit der Versorgung.
 
 #### Art. 5
 
-**Auftrag**
+**Planungsverfahren im Rettungswesen**
 
-Das Departement erteilt der KWRO einen Leistungsauftrag, der nötigenfalls jährlich aktualisiert wird und gemäss welchem:
+<sup>1</sup> Das Planungsverfahren für das Rettungswesen läuft wie folgt ab:
 
-- a) der Staat
+- a) die KWRO legt gemeinsam mit dem Departement die Planungsvorschläge fest;
+- b) das Departement gibt die Planungsvorschläge in die Vernehmlassung;
+- c) die Kommission für Gesundheitsplanung untersucht die Planungsvorschläge sowie die Vernehmlassungsergebnisse und gibt dem Staatsrat ihre Vormeinung ab;
+- d) der Staatsrat beschliesst die Rettungsplanung;
+- e) die KWRO führt eine Ausschreibung bei den verschiedenen Rettungskräften durch, die die erforderlichen Leistungen erbringen können;
+- f) die KWRO bewertet die Angebote nach Qualitäts-, Wirtschaftlichkeits- und Nachhaltigkeitskriterien sowie nach der Relevanz der gemachten Angaben;
+- g) die KWRO vergibt die Leistungsaufträge, die in der Rettungsplanung festgelegt sind und schliesst jährliche Leistungsverträge ab, in denen bestimmt wird, wie die Aufträge umgesetzt werden; unter anderem enthalten diese die Kündigungsfrist für Leistungsaufträge, die vorbehaltlich Artikel 7 grundsätzlich 6 Monate beträgt.
 
-- die von der KWRO zu erbringenden Leistungen festlegt und Kompetenzdelegationen vornimmt;
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen des Gesundheitsgesetzes vom 14. Februar 2008 (GG) bezüglich der Pflegequalität und der Patientensicherheit.
 
-- die Hauptausrichtungen der KWRO im Rahmen der kantonalen Politik des Rettungswesens, Gesundheits- und Finanzpolitik festsetzt;
-
-- der KWRO die im Gesetz vorgesehenen finanziellen Mittel zur Verfügung stellt.
-
-- b) und die KWRO
-
-- sich verpflichtet, die verlangten Leistungen im Rahmen der gewährten Mittel und in Übereinstimmung mit den Regeln und Modalitäten des Auftrags zu erbringen,
-
-- sich verpflichtet, die Qualität und die Angemessenheit der Leistungen zu gewährleisten und die Kosten unter Kontrolle zu halten.
+<sup>3</sup> Aus Gründen der öffentlichen Gesundheit oder der Bedarfsdeckung kann die KWRO im Einvernehmen mit dem Departement bis zum Ende des oben beschriebenen ordentlichen Verfahrens zeitlich befristete Aufträge erteilen.
 
 #### Art. 6
 
-**Koordination**
+**Zentrale 144**
 
-<sup>1</sup> Die Kompetenzdelegationen an die KWRO umfassen insbesondere:
+<sup>1</sup> Die KWRO definiert die erforderlichen Personalressourcen für einen angemessenen 24-Stunden-Betrieb der Zentrale 144 unter Berücksichtigung der täglichen und saisonalen Höchstwerte der Notrufe im Rahmen der verfügbaren finanziellen Mittel.
 
-- a) die Umschreibung, die Anpassung und die Verwirklichung eines globalen und koordinierten Organisationskonzeptes des Rettungswesens im Kanton;
+<sup>2</sup> Die KWRO definiert die technische Ausstattung, die einen nachhaltigen Betrieb der Zentrale 144 im Rahmen der verfügbaren finanziellen Mittel erlaubt. Sie verfügt namentlich über eine Ersatzzentrale, die eine Übergabe der Notrufnummer 144 ohne Dienstunterbrechung ermöglicht. Die für die Regulierung der Sanitätsnotrufe benötigte Technik und die Software werden ausgewählt, so dass den spezifischen Besonderheiten des sanitätsdienstlichen Rettungswesens entsprochen wird.
 
-- b) die Übernahme aller gesundheitlichen Notfallanrufe durch die Einrichtung, die Ausrüstung und die Führung einer an der Nummer 144 angeschlossenen einzigen Sanitätsalarm- und -einsatzzentrale (nachfolgend: die Zentrale) für den Kanton;
+<sup>3</sup> Die KWRO definiert mittels einer Richtlinie die Anforderungsprofile und die Programme für die Grundausbildung und die Weiterbildung der eigenen sanitätsdienstlichen Einsatzdisponenten.
 
-- c) die enge Zusammenarbeit der Alarmzentrale 144 mit der Einsatzzentrale der Kantonspolizei, insbesondere was die gegenseitige Information bei Rettungseinsätzen und die unerlässliche Koordination bei Suchaktionen zugunsten tatsächlich oder vermutlich verunfallter oder kranker Personen betrifft;
-
-- d) die Zusammenarbeit mit anderen privaten oder öffentlichen Notfallanrufzentralen, welche sämtliche Anrufe betreffend verunfallte, kranke oder sich in Gefahr befindende Personen unverzüglich auf die Nummer 144 umzuleiten haben;
-
-- e) die interkantonale und grenzüberschreitende Zusammenarbeit, namentlich im Hinblick auf eine Verbesserung der punktuellen Zusammenarbeit der bestehenden Organisationen, eine Harmonisierung der verschiedenen Organisationen und die Schaffung eines gemeinsamen öffentlichen Alarmnetzes.
-
-<sup>2</sup> Vorbehalten bleiben die Zuständigkeiten und die spezifischen Aufgaben der kantonalen Polizei, die nicht auf der Gesetzgebung über die Organisation der Rettungsdienste beruhen, wie die Gewährleistung der Verkehrssicherheit bei Unfällen, die Erhebungen und Untersuchungen zuhanden der Gerichtsbehörden, die Leichenbergungen, die Organisation der Katastrophenhilfe oder die Nachforschungen nach verschwundenen Personen.
+<sup>4</sup> Die Zentrale 144 und die Zentrale der Kantonspolizei gewährleisten die Kompatibilität zwischen ihren entsprechenden technischen Standards nach Anhörung der kantonalen Dienststelle für Informatik.
 
 #### Art. 7
 
-**Statistiken und andere Instrumente**
+**Kriterien für den Entzug von Leistungsaufträgen**
 
-<sup>1</sup> Das Departement erlässt Richtlinien betreffend die Tätigkeitsstatistiken, die Statistiken medizinischer Natur sowie die durch die KWRO zu erbringenden übrigen Statistiken und Erhebungs- und Führungsinstrumente, wie etwa die Einsatzprotokolle der verschiedenen in einer Rettungsaktion eingesetzten Personen oder Institutionen. Mit Hilfe dieser Instrumente soll die Förderung und die Kontrolle der Qualität und der Angemessenheit der Leistungen sowie die Planung und die Geldmittelzuteilung gewährleistet werden.
+<sup>1</sup> Die KRWO überprüft regelmässig die Einhaltung der Leistungsaufträge und der entsprechenden Anforderungen.
 
-<sup>2</sup> Das Departement trifft die notwendigen Massnahmen für die Funktionskontrolle und für die Förderung der Qualität der Leistungen der KWRO, etwa durch interne oder externe, einmalige oder ständige Audits.
+<sup>2</sup> Bei Nichteinhalten verlangt die KWRO von den betroffenen Rettungskräften eine Stellungnahme.
 
-<sup>3</sup> Wenn die durchgeführten Kontrollen Unzulänglichkeiten, Mängel oder Versäumnisse aufdecken, trifft die KWRO im Rahmen der ihr übertragenen Aufgaben Korrekturmassnahmen und benachrichtigt das Departement, welches die sich gemäss Gesetz aufdrängenden Entscheide trifft oder der zuständigen Behörde vorschlägt.
-
-### 3. Abschnitt: Aufsicht
+<sup>3</sup> Die KWRO kann einen Leistungsauftrag der betroffenen Rettungskräfte unter Anhörung des Departements ganz oder teilweise entziehen.
 
 #### Art. 8
 
-**Personen**
+**Koordination**
 
-<sup>1</sup> Die Aufsicht über die im Rettungswesen tätigen Gesundheitsfachpersonen, wie Ärzte, Pflegepersonal und Ambulanzpersonal, ist im Gesundheitsgesetz geregelt und obliegt dem Departement, das für die Erteilung der Bewilligungen zur Ausübung der Gesundheitsberufe zuständig ist.
+<sup>1</sup> Die Koordination beruht auf der Umsetzung der sanitätsdienstlichen Rettungsplanung, die wenn nötig in Zusammenarbeit mit den anderen Einsatzzentralen erfolgt.
 
-<sup>2</sup> Die Aufsicht über die anderen, freiwilligen oder entlöhnten, berufsmässig oder nebenamtlich im Rettungswesen tätigen Personen wird der KWRO übertragen, welche:
+<sup>2</sup> Die Zentrale 144 leitet sämtliche Notrufe, die nicht gesundheitlicher Art sind, unverzüglich an die dafür zuständigen Alarm- und/oder Einsatzzentrale(n) weiter.
 
-- a) dem Staatsrat Massnahmen vorschlägt, damit diese Personen eine angemessene Ausbildung erhalten;
+<sup>3</sup> Die anderen Alarm- und/oder Einsatzzentralen leiten sämtliche Anrufe von verunfallten, erkrankten oder sich in Gefahr befindlichen Personen unverzüglich an die Zentrale 144 weiter.
 
-- b) dafür sorgt, dass in einer Rettungsaktion nur Personen eingesetzt werden, die über die erforderliche Ausbildung und Erfahrung verfügen;
+<sup>4</sup> Die Zentrale 144 und die Zentrale der Kantonspolizei arbeiten eng und ständig zusammen. Sie informieren sich gegenseitig während den Einsätzen. Sie sprechen sich bei Suchaktionen ab.
 
-- c) nötigenfalls Ausbildungsausweise ausstellt und sich über die Gültigkeit der von anderen Institutionen ausgestellten Ausweise ausspricht.
+<sup>5</sup> Vorbehalten bleiben die Kompetenzen und spezifischen Aufgaben der Kantonspolizei, die sich nicht auf die Gesetzgebung über die Organisation des sanitätsdienstlichen Rettungswesens beziehen, wie die Strassensicherheit bei Unfällen oder die Feststellungen und Befragungen für die Gerichtsbehörden.
+
+<sup>6</sup> Die KWRO achtet auf die interkantonale und grenzüberschreitende Zusammenarbeit im Rettungswesen und strebt eine Verbesserung der punktuellen Zusammenarbeit mit den bestehenden Organisationen an.
 
 #### Art. 9
 
-**Unternehmen und Institutionen**
+**Vertraulichkeit der Daten**
 
-<sup>1</sup> Alle im Bereich des Rettungswesens tätigen Unternehmen und Institutionen unterliegen einer durch das Departement auf Vormeinung der KWRO erteilten Betriebsbewilligung.
+<sup>1</sup> Die Vertraulichkeit der Daten betreffend die sanitätsdienstlichen Rettungseinsätze muss garantiert sein. Zu diesem Zweck muss die KWRO die folgenden Anforderungen erfüllen:
 
-<sup>2</sup> Die Unternehmen, die über einen internen, nicht für die Öffentlichkeit bestimmten Sicherheits- oder Gesundheitsdienst verfügen, sowie die Institutionen, für welche gemäss Vormeinung der KWRO eine Bewilligung nicht gerechtfertigt ist, sind von der Bewilligungspflicht befreit.
+- a) nur die sanitätsdienstlichen Einsatzdisponenten sind berechtigt, Sanitätsnotrufe entgegenzunehmen;
+- b) die Systeme zur Erfassung der Telekommunikation und zur Verwaltung der Einsätze sowie deren entsprechenden Datenbasen gehören der Zentrale 144; sie müssen das Gesetz über den Datenschutz einhalten;
+- c) der Zugang zur Zentrale 144 ist geschützt und beschränkt sich ausschliesslich auf Personen, die vom KWRO zugelassen sind.
 
-<sup>3</sup> Artikel 11 des Gesetzes ist auf die Unternehmen, die über einen internen, nicht für die Öffentlichkeit bestimmten Sicherheits- oder Gesundheitsdienst verfügen, anwendbar.
-
-<sup>4</sup> Gestützt auf' eine entsprechende Stellungnahme der KWRO können die Modalitäten für die Kontrolle der Unternehmen oder Institutionen näher ausgeführt werden.
+## 3 Bewilligung und Aufsicht
 
 #### Art. 10
 
-**Bedingungen für die Erteilung der Bewilligung**
+**Anerkannte Rettungskräfte - Anforderungen**
 
-<sup>1</sup> Auf Vorschlag der KWRO erarbeitet das Departement technische Richtlinien, welche die durch eine Unternehmung oder eine Institution zu erfüllenden Bedingungen festlegen, Diese Richtlinien werden regelmässig nachgeführt.
+<sup>1</sup> Die in Artikel 8 des Gesetzes erwähnten Rettungskräfte müssen folgende Anforderungen erfüllen:
 
-<sup>2</sup> Diese Richtlinien umschreiben:
-
-- a) den Personalbestand;
-
-- b) die Anforderungen an die Ausbildung, an die Fortbildung und an die sprachlichen Kenntnisse dieses Personals und insbesondere der für die Einhaltung dieser Verordnung verantwortlichen Personen;
-
-- c) das Ausmass der medizinischen Leistungen im Rahmen der Rettungseinsätze;
-
-- d) die Pflicht, eine Permanenz sicherzustellen;
-
-- e) die Anforderungen hinsichtlich der Transportmittel, deren Ausrüstung und der Arzneimittel;
-
-- f) die Verbindungsmittel;
-
-- g) die Räumlichkeiten, weiche zweckmässig sein müssen und den Anforderungen der Hygiene und der Sicherheit zu entsprechen haben;
-
-- h) die Pflicht, bei allen Notfallanrufen, die den Einsatz von Rettungsmitteln und eine Koordination erfordern, mit der Zentrale zusammen zu arbeiten.
-
-<sup>3</sup> Je nach Ort, Mittel und Art des Einsatzes können unterschiedliche Anforderungen gestellt werden.
+- a) für Rettungskräfte, die bei einem Rettungsdienst angestellt sind, werden die Anforderungen in einer Richtlinie des Departements festgelegt;
+- b) Rettungskräfte, die über eine Fachausbildung im Bereich des Rettungswesens verfügen, müssen:
+  - 1\. über ein in der Schweiz anerkanntes Diplom verfügen, das dazu berechtigt, einen Beruf im Rettungsbereich auszuüben,
+  - 2\. die Weiterbildungsanforderungen zur Berufsausübung und/oder die von der KWRO verlangten Weiterbildungsanforderungen erfüllen,
+  - 3\. bei der Zentrale 144 als aufbietbare Person eingetragen sein gemäss den Kriterien der KWRO; vorbehalten bleibt das Aufgebot von weiteren Rettungskräften auf Anfrage der KWRO;
+- c) Weitere Rettungskräfte:
+  - 1\. Weiterbildungen gemäss der KWRO absolvieren, für die Aufgaben, die ihnen von der Zentrale 144 übertragen werden,
+  - 2\. bei der Zentrale 144 als aufbietbare Person eingetragen sein.
 
 #### Art. 11
 
-**Anerkennung**
+**Rettungsunternehmen**
 
-<sup>1</sup> Die KWRO erstellt die Dossiers betreffend die Anerkennung des gemeinnützigen Charakters, die bestimmten Unternehmen und Institutionen zu gewähren ist, und unterbreitet diese Dossiers dem Departement.
-
-<sup>2</sup> Die Anträge zur Anerkennung des gemeinnützigen Charakters werden gruppiert und müssen begründet werden, namentlich in bezug auf:
-
-- a) die durch die Planung bestimmten Bedürfnisse;
-
-- b) die Notwendigkeit, auf dem gesamten Gebiet, einschliesslich der Randregionen, angemessene Leistungen zu gewährleisten;
-
-- c) die Notwendigkeit, den Fortbestand der Kantonalen Walliser Rettungsorganisation zu gewährleisten.
-
-<sup>3</sup> Die KWRO holt die Stellungnahmen der Institutionen und betroffenen Kreise, insbesondere der Regionalspitäler, der Bezirksärzte und der regionalen Gesundheitskommissionen ein.
-
-### 4. Abschnitt: Finanzierung
+<sup>1</sup> Die Schaffung, die Erweiterung, der Umbau sowie der Betrieb eines Unternehmens, das im Sinne von Artikel 2 ganz oder teilweise im Rettungswesen tätig ist, untersteht der Bewilligung durch das Departement, das dazu die Vormeinung der KWRO einholt.
 
 #### Art. 12
 
-**Voraussetzungen**
+**Unternehmen mit einem internen Sanitätsdispositiv**
 
-Die im vierten Kapitel des Gesetzes vorgesehenen Subventionen können nur denjenigen Personen, Unternehmungen und Institutionen zugute kommen, die:
-
-- a) die kantonale Planung einhalten;
-
-- b) die allgemeinen Bedingungen des Gesetzes und der vorliegenden Verordnung sowie der Richtlinien des Departementes und der KWRO einhalten;
-
-- c) für alle gesundheitlichen Notfallanrufe mit der Zentrale zusammenarbeiten.
+<sup>1</sup> Die internen Sanitätsdispositive von Unternehmen, die in einem Bereich tätig sind, der ein besonderes Risiko für seine Mitarbeiter oder für seine Kunden darstellt, sind den Richtlinien des KWRO oder gegebenenfalls einer spezifischen Bewilligung unterstellt.
 
 #### Art. 13
 
-**Modalitäten**
+**Bedingungen für die Erteilung der Bewilligung**
 
-<sup>1</sup> Die KWRO nimmt alle Gesuche entgegen, die von Einzelpersonen. Institutionen und Unternehmen zwecks Subventionierung von Tätigkeiten im Zusammenhang mit dem Vollzug des Gesetzes eingereicht werden, und erfasst diese Gesuche.
+<sup>1</sup> Das Departement gibt auf Vorschlag der KWRO Richtlinien heraus und aktualisiert diese mit den Bedingungen, die ein Unternehmen gemäss Artikel 10 des Gesetzes erfüllen muss, um eine Bewilligung zu erhalten.
 
-<sup>2</sup> Die KWRO behandelt diese Gesuche und richtet dabei ihr besonderes Augenmerk auf die Rechnung und die Budgets der als gemeinnützig anerkannten Rettungsunternehmen und Institutionen. Auf den 30. April des jeweiligen Jahres unterbreitet sie dem Departement sodann ein globales Gesuch.
+<sup>2</sup> Die Richtlinien beziehen sich auf:
 
-**Erfassungs- und**
+- a) die Einhaltung der Vorgaben und Empfehlungen des Interverbands für Rettungswesen (IVR);
+- b) die Einhaltung der Richtlinien, die von der KWRO herausgegeben werden.
 
-<sup>3</sup> Das Gesuch mit den vom Departement verlangten Dokumenten (Rechnung, Budget, Tätigkeitsbericht, Statistiken, Verwaltungsmethoden) erwähnt den gewünschten Betrag der finanziellen Beteiligung des Staates für:
+<sup>3</sup> Je nach Einsatzort, Einsatzmittel und Art des Einsatzes können unterschiedliche Anforderungen gestellt werden.
 
-- a) die Weiterbildungskosten;
+<sup>4</sup> Sämtliche Änderungen in Zusammenhang mit den Bedingungen, die zum Erhalt der Bewilligung geführt haben, müssen dem Departement unverzüglich mitgeteilt werden sowie sämtliche Änderungen bei der Unternehmensleitung und den Verantwortlichen des Unternehmens.
 
-- b) die nicht rückerstattbaren Kosten;
-
-- c) die Investitionskosten der Zentrale;
-
-- d) die Betriebskosten der Zentrale und für das Funktionieren der KWRO;
-
-- e) die lnvestitionskosten der als gemeinnützig anerkannten Ambulanzunternehmen;
-
-- f) die zusätzlichen Betriebskosten der als gemeinnützig anerkannten Unternehmen und Institutionen.
+<sup>5</sup> Die Bewilligung wird stillschweigend erneuert, sofern die Anforderungen für den Erhalt einer Bewilligung immer noch erfüllt sind. Die KWRO führt Kontrollen durch.
 
 #### Art. 14
 
-**Berücksichtigte Ausgaben**
+**Unternehmen und Rettungskräfte**
 
-<sup>1</sup> Gestützt auf die eingereichten Unterlagen entscheidet das Departement über die für die Subventionierung berücksichtigten Kosten, nämlich:
+<sup>1</sup> Die KWRO ist zuständig für die Aufsicht über die Rettungskräfte. Vorbehalten bleiben die Bestimmungen des Gesundheitsgesetzes.
 
-- a) die Ausgaben, die auf der kantonalen Planung und namentlich auf dem Leistungsauftrag beruhen;
+<sup>2</sup> Grössere Störungen in Bezug auf die Versorgung oder den Schutz der Patientenrechte müssen dem Departement unverzüglich gemeldet werden.
 
-- b) die durch das Departement genehmigten Kosten, die im von der KWRO zwecks Subventionierung eingereichten Investitions- und Betriebsbudget der Anstalten und Institutionen aufgeführt sind.
+<sup>3</sup> Die Unternehmen und Rettungskräfte sind gehalten, die für die Aufsicht erforderlichen Daten und Indikatoren kostenlos zur Verfügung zu stellen.
 
-<sup>2</sup> Bei der Subventionierung werden die Ausgaben nicht berücksichtigt, die:
-
-- den in Artikel 12 und 13 dieser Verordnung enthaltenen Bedingungen und Modalitäten nicht entsprechen;
-
-- unter Verletzung der gesetzlichen Bestimmungen über die Subventionierung der Rettungsunternehmen und -institutionen eingesetzt werden;
-
-- den Bestimmungen und den Richtlinien über die Buchhaltung widersprechen.
-
-<sup>3</sup> Die in den Artikel 23, 24 und 25 des Gesetzes vorgesehenen Sanktionen und Massnahmen bleiben vorbehalten.
+## 4 Finanzierung
 
 #### Art. 15
 
-**Globalbetrag**
+**Finanzierung der KWRO**
 
-<sup>1</sup> Im Rahmen seiner finanziellen Kompetenzen kann das Departement für jede der in Artikel 13 Abs. 3 dieser Verordnung vorgesehenen Rubriken (bzw. für alle Rubriken Zusammen) Subventionen in Form eines anerkannten und der KWRO notifizierten Globalbetrages gewähren. Dabei sorgt die KWRO für eine gerechte und differenzierte Aufteilung der Subventionen unter den Unternehmen oder Institutionen und stützt sich hierfür insbesondere auf die durch die Planung festgelegten Prioritäten, die ausgeführten Tätigkeiten, die versorgte Bevölkerung und andere relevante Elemente.
+<sup>1</sup> Die KWRO reicht beim Departement bis am 30. April ein Betriebs- und ein Investitionsbudget mit allen notwendigen Nachweisen ein. Das Departement genehmigt gemäss Artikel 14 Absatz 3 Buchstabe b des Gesetzes die vorgelegten Budgets unter Berücksichtigung der Wirtschaftlichkeit und Einhaltung der Rettungsplanung.
 
-<sup>2</sup> Die Zuteilung der Ergebnisse wird im Leistungsauftrag näher umschrieben.
+<sup>2</sup> Die KWRO reicht beim Departement bis am 30. April des Folgejahres die Betriebsrechnung, den Jahresbericht, den Revisionsbericht sowie die Statistiken über die Tätigkeiten ein; das Departement unterbreitet diese Dokumente gemäss Artikel 6b Buchstabe j des Gesetzes dem Staatsrat zur Kenntnisnahme.
 
-<sup>3</sup> Die Subventionen werden vierteljährlich der KWRO ausbezahlt. Der Saldo wird nach Genehmigung der Schlussrechnung ausbezahlt.
+<sup>3</sup> Das Budget und die Rechnung müssen den Aufwand und den Ertrag der KWRO, der Zentrale 144 und des Rettungsdispositivs separat ausweisen.
+
+<sup>4</sup> Falls nötig kann das Departement die gewünschte Detaillierung der verlangten Angaben sowie die erforderlichen Bestimmungen in einer Richtlinie festlegen.
 
 #### Art. 16
 
-**Zusatzkredite**
+**Modalitäten für die Ausrichtung der Subventionen an die KWRO**
 
-Während eines laufenden Jahres sind Gesuche für zusätzliche Budgetkredite nicht gestattet. Die durch die KWRO unterbreiteten Gesuche bleiben vorbehalten, wenn sie unabdingbar und durch Notwendigkeit, Dringlichkeit und Unvorhersehbarkeit gerechtfertigt sind.
+<sup>1</sup> Der Kanton überweist der KWRO die Betriebssubventionen in regelmässigen Raten. Der Saldo wird ausbezahlt, nachdem das Departement die Schlussrechnung genehmigt hat.
+
+<sup>2</sup> Der Kanton überweist der KWRO die Investitionssubventionen auf der Grundlage einer Abrechnung, auf der die Beschaffung und die Bezahlung der Investition aufgeführt sind.
 
 #### Art. 17
 
-**Gebühr**
+**Berücksichtigte Ausgaben**
 
-<sup>1</sup> Betriebsbewilligungen und Subventionen worden nur denjenigen Unternehmen und Institutionen gewährt, die alle sanitären Notfallanrufe, welche einen Einsatz von Rettungsmitteln und eine Koordination erfordern, systematisch auf die Zentrale leiten oder über letztere durchgehen lassen.
+<sup>1</sup> Die Subventionierung erstreckt sich einzig auf die berücksichtigten Ausgaben.
 
-<sup>2</sup> Die KWRO ist allein befähigt, im Namen des Departementes die in Artikel 18 des Gesetzes vorgesehene Gebühr für jeden Rettungseinsatz zu erheben.
+<sup>2</sup> Das Departement bestimmt die berücksichtigten Ausgaben bei der Prüfung des Budgets und der Rechnung.
 
-<sup>3</sup> Der Betrag der durch die KWRO festgelegten und vom Staatsrat genehmigten Gebühr wird im Verhältnis zur Art und zur Komplexität des Einsatzes differenziert.
-
-<sup>4</sup> Die Gebühr wird durch die KWRO bei den Unternehmen und Institutionen auf Grund einer monatlichen Erfassung aller sanitären Notfalleinsätze erhoben. Diese enthält die genaue Abrechnung und wird der KWRO zugestellt.
+<sup>3</sup> Der Personalbestand der KWRO sowie die Lohn- und Sozialbedingungen unterstehen hinsichtlich der berücksichtigten Ausgaben der Genehmigung des Departements.
 
 #### Art. 18
 
-**Zusätzliche Kosten**
+**Finanzierung durch die Gemeinden**
 
-Die KWRO schlägt dem Departement auf Grund folgender Kriterien die zusätzlichen, eine Subventionierung erfordernden Kosten der als gemeinnützig anerkannten Unternehmen und Institutionen vor:
+<sup>1</sup> Die Finanzierung durch die Gemeinden gemäss den Artikeln 14, 18 und 20 des Gesetzes wird wie folgt aufgeteilt:
 
-- a) die durch die kantonale Planung festgelegten Bedürfnisse;
+- a) 80 Prozent der Betriebs- und Investitionssubventionen werden zwischen den Gemeinden anhand der Wohnbevölkerung aufgeteilt;
+- b) 20 Prozent der Betriebs- und Investitionssubventionen werden zwischen den Gemeinden anhand der Anzahl Aufenthalte (Übernachtungen) im Kanton aufgeteilt.
 
-- b) die Notwendigkeit, angemessene Leistungen auf dem gesamten Kantonsgebiet zu gewährleisten;
+<sup>2</sup> Der Verteilschlüssel zwischen den Gemeinden basiert auf:
 
-- c) die Notwendigkeit, den Fortbestand der kantonalen Rettungsorganisation zu sichern.
+- a) die Bevölkerung des Jahres, welches zwei Jahre dem Subventionsjahr vorangeht;
+- b) die Aufenthalte im Kanton (Übernachtungen) des Jahres, welches zwei Jahre dem Subventionsjahr vorangeht. Unter Übernachtungen ist das potentielle Angebot zu verstehen, welches sich aus der Summe der Anzahl Zweitwohnungen und der Anzahl Hotelbetten mit einer definierten Belegungsrate ergibt. Das Übernachtungsangebot einer Gemeinde wird wie folgt bestimmt:
+  - 1\. die Anzahl Zweitwohnungen wird mit 2 Personen und mit einer mittleren Belegung von 30 Tagen multipliziert, d.h. 60 Tage pro Zweitwohnung,
+  - 2\. jedes Hotelbett wird mit einer Belegung von 150 Tagen multipliziert.
 
-### 5. Abschnitt: Schlussbestimmungen
+<sup>3</sup> Der Kanton stellt den Gemeindeanteil an den Betriebs- und Investitionssubventionen jährlich auf der Grundlage des vom Departement genehmigten Budgets in Rechnung.
+
+<sup>4</sup> Die vom Kanton erstellten definitiven Abrechnungen für die Subventionierung werden in die Rechnungsstellung an die Gemeinden der folgenden Jahre integriert.
 
 #### Art. 19
 
-**Tarif**
+**Subventionierung des Rettungsdispositivs**
 
-<sup>1</sup> Die Verhandlungen zwischen Versicherern und Leistungserbringern, die Mitglieder der KWRO sind, werden durch die KWRO durchgeführt oder sind der KWRO zur Stellungnahme zu unterbreiten.
+<sup>1</sup> Die Subventionierung des Rettungsdispositivs wird in die Rechnung der KWRO integriert.
 
-<sup>2</sup> Die KWRO erlässt Empfehlungen für die Rechnungsstellung.
+<sup>2</sup> Es können nur Unternehmen und Rettungskräfte die in Kapitel 4 des Gesetzes vorgesehenen Subventionen beanspruchen, die:
 
-<sup>3</sup> Was die Tarife betrifft, so interveniert der Staatsrat im Rahmen der bundesrechtlichen Vorgaben.
+- a) Teil der kantonalen Planung sind und die damit einhergehenden Bedingungen einhalten;
+- b) die allgemeinen Bestimmungen des Gesetzes und dieser Verordnung sowie die Richtlinien des Departements und der KWRO einhalten;
+- c) mit der Zentrale 144 für alle sanitätsdienstlichen Rettungsaufgaben zusammenarbeiten.
+
+<sup>3</sup> Die Subventionierung des Rettungsdispositivs wird in Richtlinien der KWRO geregelt, die dem Departement gemäss Artikel 20 des Gesetzes zur Genehmigung vorgelegt werden.
+
+<sup>4</sup> Die in Absatz 3 erwähnten Richtlinien bestimmen die Modalitäten für die Berechnung der Subventionierung der Rettungsunternehmen beziehungsweise die Pauschalbeträge für die in Artikel 8 Absatz 1 Buchstabe b des Gesetzes aufgeführten Rettungskräfte.
 
 #### Art. 20
 
-**Information**
+**Nicht rückforderbare Kosten**
 
-<sup>1</sup> Die Mitteilungen an die Medien und an die Angehörigen der Opfer werden durch die KWRO gewährleistet, unter Vorbehalt der spezifischen Mitteilungen, für welche die Justiz- und Polizeibehörden - namentlich bei Verschwinden von Personen oder bei Todesfällen - zuständig sind.
+<sup>1</sup> Als nicht rückforderbare Kosten gelten gemäss Artikel 16 Absatz 2 des Gesetzes folgende Kosten, die durch Rettungseinsätze entstanden sind, die von der Zentrale 144 angeordnet wurden:
 
-<sup>2</sup> Die KWRO bestimmt die Vorgehensweise beim Anfordern von Rettungsmassnahmen und sorgt für die Verbreitung dieser Modalitäten an die Öffentlichkeit.
+- a) es sind keine Personen involviert;
+- b) die Identität der involvierten Person ist nicht bekannt;
+- c) die involvierte Person ist zahlungsunfähig;
+- d) die Eintreibung der Rechnung zieht unverhältnismässige Kosten nach sich.
+
+<sup>2</sup> Nicht rückforderbare Kosten nach Buchstabe a und b werden gemäss Artikel 20 Absatz 4 Buchstabe e des Gesetzes von der öffentlichen Hand übernommen.
+
+<sup>3</sup> Nicht rückforderbare Kosten nach Buchstabe c und d werden gemäss der Gesetzgebung über die Eingliederung und die Sozialhilfe übernommen.
+
+<sup>4</sup> Das Vorgehen wird in einer Richtlinie der KWRO festgelegt.
+
+## 5 Tarif, Information und Beschwerden
 
 #### Art. 21
 
-**Beschwerden**
+**Tarif**
 
-<sup>1</sup> Beschwerden und Anzeigen von Personen, die eine Verletzung der Bestimmungen des Gesetzes oder dieser Verordnung rügen wollen, werden der KWRO zur Stellungnahme zugestellt. Die KWRO versucht, eine Einigung zwischen den Parteien zu erreichen.
-
-<sup>2</sup> Die KWRO unterbreitet dem Departement seine Stellungnahme mit einem Vorentscheid und schlägt darin die Einstellung des Verfahrens, die Aussprechung einer Sanktion oder die Ergreifung anderer Massnahmen vor.
-
-<sup>3</sup> Die KWRO informiert das Departement über Beschwerden und Anzeigen, die ihr direkt zugestellt werden.
+<sup>1</sup> Das Departement beziehungsweise die KWRO können den Tarifverhandlungen als Beobachter beiwohnen, wenn sie dies für notwendig befinden.
 
 #### Art. 22
 
-**Gebühr**
+**Information**
 
-Die Bewilligungen und andere Entscheide, die in Anwendung dieser Verordnung erteilt oder gefällt werden, sind gebührenpflichtig. Die Gebühr wird in einem Beschluss festgesetzt.
+<sup>1</sup> Mitteilungen an die Medien und an die Angehörigen der Opfer werden durch die KWRO gewährleistet, unter Vorbehalt der spezifischen Mitteilungen, für welche die Justiz- und Polizeibehörden zuständig sind, unter anderem bei Verschwinden von Personen oder bei Todesfällen.
+
+<sup>2</sup> Die KWRO ist zuständig für die Regelung bezüglich der Anforderung von Hilfe sowie die öffentliche Verbreitung dieser Regelungen.
 
 #### Art. 23
 
-**Übergangsbestimmungen**
+**Beschwerden und Beanstandungen**
 
-<sup>1</sup> Die bestehenden Rettungsunternehmen und -institutionen verfügen über eine Frist von zwei Jahren, um den Anforderungen dieser Verordnung gerecht zu werden.
+<sup>1</sup> Beschwerden werden gemäss dem Gesundheitsgesetz behandelt.
 
-<sup>2</sup> Das Departement wird beauftragt, innert Jahresfrist und im Einverständnis mit den anderen Departementen die Modalitäten zu regeln, mit welchen die, bis anhin durch verschiedene Institutionen - wie etwa die kantonale Bergrettungskommission - gewahrten Aufgaben an die KWRO transferiert werden. Allfällige Streitigkeiten sind vor dem Transfer zu erledigen,
-
-<sup>3</sup> Während der Anfangsphase des Betriebs der Zentrale und in Erwartung der Planungsergebnisse, spätestens aber bis zum 1. Januar 1998 kann das Departement auf Grund der geltenden Gesetzesbestimmungen Subventionen gewähren oder besondere Modalitäten der Subventionierung festlegen und nötigenfalls die den Spitälern in dieser Hinsicht gestellten gesetzlichen Verpflichtungen beibehalten.
+<sup>2</sup> Die KWRO informiert das Departement jährlich über die Beschwerden und Beanstandungen, die direkt an sie adressiert werden.
 
 #### Art. 24
 
-**Inkrafttreten**
+**Gebühren**
 
-Diese Verordnung wird im Amtsblatt veröffentlicht und tritt gleichzeitig mit dein Gesetz in Kraft,
+<sup>1</sup> Bewilligungen und andere Entscheide, die in Anwendung dieser Verordnung erteilt oder gefällt werden, sind gebührenpflichtig. Die Höhe der Gebühr wird in einem Beschluss festgesetzt.
 
-So angenommen im Staatsrat zu Sitten, den 20. November 1996.
+## T1 Übergangsbestimmungen
 
-Der Präsident des Staatsrates: Serge Sierro Der Staatskanzler: Henri v. Roten
+#### Art. T1-1
+
+**Übertragung der Arbeitsverhältnisse**
+
+<sup>1</sup> Die Arbeitsverhältnisse der Angestellten der Kantonalen Dachorganisation des Rettungswesens (nachstehend: der Verein) im Sinne von Artikel 6 des Gesetzes (Version vom 17. März 1996) und Artikel 5 der Verordnung über die Organisation des Rettungswesens vom 20. November 1996 werden ab dem 1. Januar 2017 auf die neue Einheit KWRO übertragen.
+
+<sup>2</sup> Die Einstufung des überführten Personals bleibt gleich und die Gehaltshöhe (Bruttolohn) zum Übertragungszeitpunkt bleibt gewährleistet.
+
+#### Art. T1-2
+
+**Lohnanspruch bei Krankheit, Unfall, Mutterschaft, Adoption, Militär- und Zivildienst sowie Ferien- und Gleitzeitguthaben**
+
+<sup>1</sup> Die Arbeitsverhältnisse der Personen, die aufgrund von Krankheit, Unfall, Mutterschaft, Adoption, Militär- und Zivildienst ausfallen sowie die Ferien- und Gleitzeitguthaben werden vollständig überführt.
+
+<sup>2</sup> Allfällige Leistungen Dritter (Versicherung, Ausgleichskasse usw.), die dem Verein für die Zeit nach dem Inkrafttreten der vorliegenden Verordnung ausgezahlt werden, werden an die neue Einheit KWRO überwiesen.
+
+<sup>3</sup> Besondere Fälle werden zwischen dem Verein und der neuen Einheit KWRO vertraglich geregelt.
+
+#### Art. T1-3
+
+**Berufliche Vorsorge**
+
+<sup>1</sup> Die neue Einheit KWRO schliesst eine Mitgliedschaftsvereinbarung ab, um ihr Personal zu versichern.
+
+<sup>2</sup> Die Beibehaltung der Rechte, die das übertragende Personal erworben hatte, wird garantiert.
+
+#### Art. T1-4
+
+**Übertragung der Güter, Einrichtungen, Aufträge und Eigentumsrechte**
+
+<sup>1</sup> Der Verein überträgt der neuen Einheit KWRO die vorhandenen Güter und Einrichtungen zum Buchwert am Tag der Übertragung sowie die verschiedenen Aufträge und Eigentumsrechte auf der Grundlage eines Inventars gemäss des Artikels 26 des Subventionsgesetzes.
+
+#### Art. T1-5
+
+**Übertragung der Rechte und Pflichten**
+
+<sup>1</sup> Die vor dem 1. Januar 2017 eingegangenen Rechte und Pflichten des Vereins werden von der neue Einheit KWRO übernommen.
+
+CSW BO/Abl. 53/2016, 5/2017
