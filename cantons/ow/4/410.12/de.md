@@ -4,13 +4,13 @@ number: "410.12"
 title: Verordnung über das Anstellungsverhältnis der Lehrpersonen
 short: "Lehrpersonenverordnung, LPV"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-17
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-31
 adopted: 2008-04-25
 in_force: 2008-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.12"
-pdf: "http://gdb.ow.ch/api/de/versions/1833/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1919/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1833/pdf_file"
 
 (Lehrpersonenverordnung, LPV)
 
-vom 25.04.2008 (Stand 01.01.2024)
+vom 25.04.2008 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -82,7 +82,7 @@ beschliesst:
 
 <sup>2</sup> Die Lehrpersonen arbeiten mit den Erziehungsberechtigten und weiteren an der Schule Beteiligten zusammen.
 
-<sup>3</sup> Die prozentuale Verteilung der Jahresarbeitszeit gemäss Art. 10 dieser Verordnung auf die Auftragsfelder der Volksschullehrpersonen gilt wie folgt: Unterricht ca. 87,5% (ca. 1670 Stunden), Schülerinnen und Schüler bzw. Studierende ca. 5% (ca. 95 Stunden), Schule ca. 5% (ca. 95 Stunden), Lehrperson ca. 2,5% (ca. 48 Stunden).
+<sup>3</sup> Die prozentuale Verteilung der Jahresarbeitszeit gemäss Art. 10 dieser Verordnung auf die Auftragsfelder der Volksschullehrpersonen gilt wie folgt: Unterricht ca. 87,5% (ca. 1632 Stunden), Schülerinnen und Schüler bzw. Studierende ca. 5% (ca. 93 Stunden), Schule ca. 5% (ca. 93 Stunden), Lehrperson ca. 2,5% (ca. 47 Stunden).
 
 <sup>4</sup> Der berufliche Auftrag gilt im Grundsatz für Vollzeit und Teilzeit arbeitende Lehrpersonen. Teilzeit arbeitende Lehrpersonen erfüllen die einzelnen Auftragsfelder anteilmässig und/oder im Rahmen von Sonderregelungen, die mit der Anstellungsinstanz getroffen werden.
 
@@ -161,7 +161,7 @@ beschliesst:
 
 **Arbeitszeit**
 
-<sup>1</sup> Die Arbeitszeit beträgt bei einem Vollpensum 1907 effektive Arbeitstunden pro Jahr und umfasst den gesamten beruflichen Auftrag der Lehrperson gemäss Art. 4 bis 8 dieser Verordnung. Sie wird im Rahmen eines Jahresarbeitszeitmodells und aufgeteilt auf die vier Auftragsfelder geleistet.
+<sup>1</sup> Die Arbeitszeit beträgt bei einem Vollpensum 1865 effektive Arbeitsstunden pro Jahr und umfasst den gesamten beruflichen Auftrag der Lehrperson gemäss Art. 4 bis 8 dieser Verordnung. Sie wird im Rahmen eines Jahresarbeitszeitmodells und aufgeteilt auf die vier Auftragsfelder geleistet.
 
 <sup>2</sup> Das Rektorat beziehungsweise die Schulleitung kann verlangen, dass die Lehrpersonen während der unterrichtsfreien Zeit im Umfang von 10% der Nettoarbeitszeit (ca. 190 Stunden bei einem Vollpensum) im Schulhaus anwesend sind. Dabei dürfen maximal 10 Arbeitstage in den Schulferien angesetzt werden (ca. 80 Stunden bei einem Vollpensum).
 
@@ -550,7 +550,9 @@ geändert durch
 
 \- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 31 und 35),\*
 
-\- Nachtrag vom 17. Oktober 2023, in Kraft seit 1. Janaur 2024 (OGS 2023, 32) \*
+\- Nachtrag vom 17. Oktober 2023, in Kraft seit 1. Janaur 2024 (OGS 2023, 32), \*
+
+\- Nachtrag zum Staatsverwaltungsgesetz vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39)
 
 \* Änderung des Anhangs 2 durch den Regierungsrat
 
