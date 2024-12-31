@@ -4,13 +4,12 @@ number: "542.100"
 title: "Legge sull'assicurazione malattie e la riduzione dei premi"
 short: LAMRP
 language: it
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-14
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1995-11-26
 in_force: 1996-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/542.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3444/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3445/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3444/pdf_file"
 
 (LAMRP)
 
-del 26.11.1995 (stato 01.07.2024)
+del 26.11.1995 (stato 01.01.2025)
 
 accettata dal Popolo il 26 novembre 1995[^ingress-1]
 
@@ -266,7 +265,7 @@ in base all'art. 97 della legge federale sull'assicurazione malattie del 18 marz
 
 <sup>1</sup> Contro le decisioni della Cassa di compensazione AVS può essere interposta opposizione scritta e motivata presso la stessa istanza entro 30 giorni dalla notifica. La procedura d'opposizione è gratuita. Non sussiste diritto alcuno ad indennità ripetibili.
 
-<sup>2</sup> Contro le decisioni su opposizione prese dalla Cassa di compensazione AVS è data facoltà di inoltrare ricorso scritto entro 30 giorni dalla comunicazione presso il Tribunale amministrativo del Cantone dei Grigioni.
+<sup>2</sup> Contro le decisioni su opposizione prese dalla Cassa di compensazione AVS è data facoltà di inoltrare ricorso scritto entro 30 giorni dalla comunicazione presso il Tribunale d'appello.
 
 ## 3. Programma di screening mammografico
 

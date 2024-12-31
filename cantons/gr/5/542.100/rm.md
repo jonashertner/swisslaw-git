@@ -4,13 +4,12 @@ number: "542.100"
 title: "Lescha davart l'assicuranza da malsauns e la reducziun da las premias"
 short: LARP
 language: rm
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-14
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1995-11-26
 in_force: 1996-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/542.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3444/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3445/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3444/pdf_file"
 
 (LARP)
 
-dals 26-11-1995 (versiun dals 01-07-2024)
+dals 26-11-1995 (versiun dals 01-01-2025)
 
 sa basond sin l'art. 97 da la lescha federala davart l'assicuranza da malsauns dals 18 da mars 1994[^ingress-1]
 
@@ -266,7 +265,7 @@ acceptada dal pievel ils 26 da november 1995[^ingress-2]
 
 <sup>1</sup> Cunter disposiziuns da la cassa da cumpensaziun da la AVS poi vegnir fatg protesta en scrit e cun motivaziun tar la medema instanza, e quai entaifer 30 dis dapi la communicaziun. La procedura da protesta è gratuita. I n'exista nagin dretg d'ina indemnisaziun da las partidas.
 
-<sup>2</sup> Cunter decisiuns da protesta da la cassa da cumpensaziun da la AVS poi vegnir fatg recurs en scrit tar la dretgira administrativa dal chantun Grischun, e quai entaifer 30 dis dapi la communicaziun.
+<sup>2</sup> Cunter decisiuns da protesta da la cassa da cumpensaziun da la AVS poi vegnir fatg recurs en scrit tar la Dretgira superiura, e quai entaifer 30 dis dapi la communicaziun.
 
 ## 3. Program per il screening mammografic
 

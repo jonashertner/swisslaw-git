@@ -4,13 +4,12 @@ number: "542.100"
 title: Gesetz über die Krankenversicherung und die Prämienverbilligung
 short: KPVG
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-14
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1995-11-26
 in_force: 1996-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/542.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3444/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3445/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3444/pdf_file"
 
 (KPVG)
 
-Vom 26.11.1995 (Stand 01.07.2024)
+Vom 26.11.1995 (Stand 01.01.2025)
 
 Gestützt auf Art. 97 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^ingress-1]
 
@@ -266,7 +265,7 @@ vom Volke angenommen am 26. November 1995[^ingress-2]
 
 <sup>1</sup> Gegen Verfügungen der AHV-Ausgleichskasse kann innert 30 Tagen seit Zustellung bei der gleichen Instanz eine schriftliche und begründete Einsprache erhoben werden. Das Einspracheverfahren ist kostenlos. Es besteht kein Anspruch auf Parteientschädigung.
 
-<sup>2</sup> Gegen Einspracheentscheide der AHV-Ausgleichskasse kann innert 30 Tagen seit deren Mitteilung beim Verwaltungsgericht des Kantons Graubünden schriftlich Beschwerde eingereicht werden.
+<sup>2</sup> Gegen Einspracheentscheide der AHV-Ausgleichskasse kann innert 30 Tagen seit deren Mitteilung beim Obergericht schriftlich Beschwerde eingereicht werden.
 
 ## 3. Mammographie-Screening-Programm
 
