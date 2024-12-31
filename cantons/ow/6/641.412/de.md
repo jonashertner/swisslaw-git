@@ -3,24 +3,24 @@ canton: OW
 number: "641.412"
 title: Ausführungsbestimmungen über den steuerlichen Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-30
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-26
 adopted: 1995-01-03
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.412"
-pdf: "http://gdb.ow.ch/api/de/versions/1545/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1908/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über den steuerlichen Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
 
-vom 03.01.1995 (Stand 01.01.2022)
+vom 03.01.1995 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
-gestützt auf Artikel 12 der Vollziehungsverordnung zum Steuergesetz (VV zum StG) vom 18. November 1994[^ingress-1],
+gestützt auf Artikel 12 der Vollziehungsverordnung zum Steuergesetz vom 18. November 1994[^ingress-1],
 
 beschliesst:
 
@@ -85,7 +85,7 @@ beschliesst:
 
 **Übrige Berufskosten**
 
-<sup>1</sup> Als übrige Berufskosten können die für die Berufsausübung erforderlichen Auslagen für Berufswerkzeuge (samt EDV-Hard- und -Software), Fachliteratur, privates Arbeitszimmer, Berufskleider, besondern Schuh- und Kleiderverschleiss, Schwerarbeit usw. als Pauschale gemäss Anhang abgezogen werden. Vorbehalten bleiben der Nachweis höherer Kosten (Art. 9 dieser Ausführungsbestimmungen) sowie der Abzug der Weiterbildungs- und Umschulungskosten (Art. 6 dieser Ausführungsbestimmungen).
+<sup>1</sup> Als übrige Berufskosten können die für die Berufsausübung erforderlichen Auslagen für Berufswerkzeuge (samt EDV-Hard- und -Software), Fachliteratur, privates Arbeitszimmer, Berufskleider, besonderen Schuh- und Kleiderverschleiss, Schwerarbeit usw. als Pauschale gemäss Anhang abgezogen werden. Vorbehalten bleibt der Nachweis höherer Kosten (Art. 9 dieser Ausführungsbestimmungen).
 
 <sup>2</sup> Der Pauschalabzug ist angemessen zu kürzen, wenn die unselbstständige Erwerbstätigkeit bloss während eines Teils des Jahres oder als Teilzeitarbeit ausgeübt wird.
 
@@ -153,6 +153,8 @@ Geändert durch:
 
 \- Nachtrag vom 29. Oktober 2019, in Kraft seit 1. Januar 2020 (OGS 2019, 52),
 
-\- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 47)
+\- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 47),
+
+\- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38)
 
 OGS 1995, 57
