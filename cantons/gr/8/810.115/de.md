@@ -4,72 +4,71 @@ number: "810.115"
 title: Verordnung über die Wasser- und Pumpwerksteuer
 short: VWPSt
 language: de
-version: 2007-01-01
-corrected: 2014-11-07
-version_adopted: 2006-12-12
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 1995-06-20
 in_force: 1995-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/810.115"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/410/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3465/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Wasser- und Pumpwerksteuer (VWPSt)
+# Verordnung über die Wasser- und Pumpwerksteuer
 
-Gestützt auf Art. 14, 33, 34, 35 und 37 des Wasserrechtsgesetzes des Kantons Graubünden (BWRG)[^t-1] vom 12. März 1995
+(VWPSt)
+
+Vom 20.06.1995 (Stand 01.01.2025)
+
+Gestützt auf Art. 14, 33, 34, 35 und 37 des Wasserrechtsgesetzes des Kantons Graubünden (BWRG)[^ingress-1] vom 12. März 1995
 
 von der Regierung erlassen am 20. Juni 1995
 
-I. Allgemeine Bestimmungen
+[^ingress-1]: BR [810.100](https://www.gr-lex.gr.ch/data/810.100/de)
 
-[^t-1]: BR 810.100
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand dieser Verordnung**
 
-Diese Verordnung regelt die Veranlagung der Wasserwerk- und Pumpwerksteuern durch den Kanton Graubünden.
+<sup>1</sup> Diese Verordnung regelt die Veranlagung der Wasserwerk- und Pumpwerksteuern durch den Kanton Graubünden.
 
 #### Art. 2
 
 **Instruktion**
 
-Die technischen Einzelheiten der Berechnung der Wasser- und Pumpwerksteuern werden vom zuständigen Departement in einer Instruktion zusammengefasst.
+<sup>1</sup> Die technischen Einzelheiten der Berechnung der Wasser- und Pumpwerksteuern werden vom zuständigen Departement in einer Instruktion zusammengefasst.
 
 #### Art. 3
 
 **Wasserwerksteuer-Kommission 1. Konstituierung**
 
-<sup>1</sup>[^3-1]Die Wasserwerksteuer-Kommission (WSK) besteht aus fünf ordentlichen und drei stellvertretenden Mitgliedern.
+<sup>1</sup> Die Wasserwerksteuer-Kommission (WSK) besteht aus fünf ordentlichen und drei stellvertretenden Mitgliedern.
 
-<sup>2</sup> Der Vorsteher oder die Vorsteherin des Amtes für Energie[^3-2] nimmt von Amtes wegen Einsitz in die WSK und ist zugleich deren Präsident bzw. deren Präsidentin.
+<sup>2</sup> Der Vorsteher oder die Vorsteherin des Amtes für Energie[^3-1] nimmt von Amtes wegen Einsitz in die WSK und ist zugleich deren Präsident bzw. deren Präsidentin.
 
 <sup>3</sup> Die Amtsdauer der WSK-Mitglieder beträgt vier Jahre.
 
-[^3-1]: Fassung gemäss RB vom 27. Oktober 1998
-[^3-2]: Nunmehr Amt für Energie und Verkehr
+[^3-1]: Nunmehr Amt für Energie und Verkehr
 
 #### Art. 4
 
 **2. Aufgaben**
 
-<sup>1</sup>[^4-1]Die WSK behandelt Einsprachen gegen Veranlagungsverfügungen sowie Entscheide um Reduktion der Wasser- und Pumpwerksteuer des Präsidenten oder der Präsidentin der WSK.
+<sup>1</sup> Die WSK behandelt Einsprachen gegen Veranlagungsverfügungen sowie Entscheide um Reduktion der Wasser- und Pumpwerksteuer des Präsidenten oder der Präsidentin der WSK.
 
 <sup>2</sup> Sie entscheidet in Anwesenheit von fünf Mitgliedern mit einfacher Mehrheit.
 
-[^4-1]: Fassung gemäss RB vom 4. September 2001 1.01.2008 1
-
-### II. Pflichten des Konzessionärs
+## 2. Pflichten des Konzessionärs
 
 #### Art. 5
 
 **Steuerpflicht**
 
-Die Steuerpflicht der Werkeigentümer richtet sich nach den Artikeln 33 bis 35 BWRG[^5-1].
+<sup>1</sup> Die Steuerpflicht der Werkeigentümer richtet sich nach den Artikeln 33 bis 35 BWRG[^5-1].
 
-[^5-1]: BR 810.100
+[^5-1]: BR [810.100](https://www.gr-lex.gr.ch/data/810.100/de)
 
 #### Art. 6
 
@@ -91,29 +90,27 @@ Die Steuerpflicht der Werkeigentümer richtet sich nach den Artikeln 33 bis 35 B
 
 **Erhebliche Betriebsunterbrechungen**
 
-Erhebliche Betriebsunterbrechungen, welche die Wasser- und Pumpwerksteuer beeinflussen können, haben die Werkeigentümer dem Präsidenten oder der Präsidentin der WSK sofort zu melden.
-
-[^8-1]: Aufgehoben gemäss RB vom 27. Oktober 1998
+<sup>1</sup> Erhebliche Betriebsunterbrechungen, welche die Wasser- und Pumpwerksteuer beeinflussen können, haben die Werkeigentümer dem Präsidenten oder der Präsidentin der WSK sofort zu melden.
 
 #### Art. 9
 
-[^8-1]
+**…**
 
-### III. Ermittlung der Bruttoleistung
+## 3. Ermittlung der Bruttoleistung
 
 #### Art. 10
 
 **Grundlage**
 
-Grundlage für die Bemessung der Wasserwerksteuer ist die eidgenössische Verordnung über die Berechnung des Wasserzinses (WZV)[^10-1].
+<sup>1</sup> Grundlage für die Bemessung der Wasserwerksteuer ist die eidgenössische Verordnung über die Berechnung des Wasserzinses (WZV)[^10-1].
 
-[^10-1]: SR 721.831 2 1.01.2008
+[^10-1]: SR [721.831](https://db.clex.ch/link/Bund/721.831/de)
 
 #### Art. 11
 
 **Grundsatz**
 
-Die abgabepflichtige Bruttoleistung wird grundsätzlich aus der erzeugten Energie ermittelt, wobei jedoch nutzbare Wassermengen und Gefälle, die in der Erzeugung nicht zum Ausdruck kommen, hinzugerechnet werden.
+<sup>1</sup> Die abgabepflichtige Bruttoleistung wird grundsätzlich aus der erzeugten Energie ermittelt, wobei jedoch nutzbare Wassermengen und Gefälle, die in der Erzeugung nicht zum Ausdruck kommen, hinzugerechnet werden.
 
 #### Art. 12
 
@@ -123,35 +120,31 @@ Die abgabepflichtige Bruttoleistung wird grundsätzlich aus der erzeugten Energi
 
 <sup>2</sup> Vom siebten Betriebsjahr eines Werkes an wird die für die Berechnung der Wasserwerksteuer massgebende Bruttoleistung nach den bundesrechtlichen Vorschriften über die Berechnung des Wasserzinses ermittelt.
 
-### IV. Steueransätze
+## 4. Steueransätze
 
 #### Art. 13
 
 **Wasserkraftwerke**
 
-<sup>1</sup> ...[^13-1]
+<sup>1</sup> …
 
-<sup>2</sup> In den ersten sechs Betriebsjahren eines Werkes sind achtzig Prozent des Wasserwerksteuer-Ansatzes zu entrichten. Für die Berechnungen während dieser Periode sind die von der Regierung genehmigten Projektunterlagen massgebend.
-
-[^13-1]: Aufgehoben gemäss RB vom 27. Oktober 1998
+<sup>2</sup> In den ersten sechs Betriebsjahren eines Werkes sind 80 Prozent des Wasserwerksteuer-Ansatzes zu entrichten. Für die Berechnungen während dieser Periode sind die von der Regierung genehmigten Projektunterlagen massgebend.
 
 #### Art. 14
 
 **Pumpwerke**
 
-<sup>1</sup> ...[^14-1]
+<sup>1</sup> …
 
 <sup>2</sup> Die Pumpwerksteuer wird auf derjenigen Energiemenge bzw. -leistung erhoben, welche für die wiederholte Verwendung von Wasser aus öffentlichen Gewässern in Pumpen (Umwälzpumpen) benötigt wird (Pumpenergie).
 
-[^14-1]: Aufgehoben gemäss RB vom 27. Oktober 1998
-
-### V. Veranlagungs-, Rechtsmittel- und Strafverfahren
+## 5. Veranlagungs-, Rechtsmittel- und Strafverfahren
 
 #### Art. 15
 
 **Grundsatz**
 
-Sofern diese Verordnung nichts anderes bestimmt, finden das Veranlagungs-, das Rechtsmittel- und das Strafverfahren nach den Bestimmungen des kantonalen Steuergesetzes sinngemäss Anwendung.
+<sup>1</sup> Sofern diese Verordnung nichts anderes bestimmt, finden das Veranlagungs-, das Rechtsmittel- und das Strafverfahren nach den Bestimmungen des kantonalen Steuergesetzes sinngemäss Anwendung.
 
 #### Art. 16
 
@@ -159,18 +152,15 @@ Sofern diese Verordnung nichts anderes bestimmt, finden das Veranlagungs-, das R
 
 <sup>1</sup> Die Wasser- und Pumpwerksteuern werden durch den Präsidenten oder durch die Präsidentin der WSK veranlagt.
 
-<sup>2</sup>[^16-1]Der Präsident oder die Präsidentin der WSK entscheidet über Gesuche um Reduktion der Wasser- und Pumpwerksteuer gemäss Artikel 35 BWRG.
+<sup>2</sup> Der Präsident oder die Präsidentin der WSK entscheidet über Gesuche um Reduktion der Wasser- und Pumpwerksteuer gemäss Artikel 35 BWRG.
 
-<sup>3</sup>[^16-2]Gesuche um Reduktion der Wasser- und Pumpwerksteuer gemäss Artikel 35 BWRG sind spätestens im Einspracheverfahren der ordentli-chen Veranlagung einzubringen.
-
-[^16-1]: Fassung gemäss RB vom 4. September 2001 1.01.2008 3
-[^16-2]: Fassung gemäss RB vom 4. September 2001
+<sup>3</sup> Gesuche um Reduktion der Wasser- und Pumpwerksteuer gemäss Artikel 35 BWRG sind spätestens im Einspracheverfahren der ordentlichen Veranlagung einzubringen.
 
 #### Art. 17
 
 **Messunterlagen**
 
-Die Steuerpflichtigen haben dem Präsidenten oder der Präsidentin der WSK die Zählerablesungen sowie die Angaben über die erzeugte Energie nach dessen bzw. deren Weisungen jeweilen bis Mitte Januar abzuliefern.
+<sup>1</sup> Die Steuerpflichtigen haben dem Präsidenten oder der Präsidentin der WSK die Zählerablesungen sowie die Angaben über die erzeugte Energie nach dessen bzw. deren Weisungen jeweilen bis Mitte Januar abzuliefern.
 
 #### Art. 18
 
@@ -182,39 +172,35 @@ Die Steuerpflichtigen haben dem Präsidenten oder der Präsidentin der WSK die Z
 
 #### Art. 19
 
-**2)Einsprache, Beschwerde**
+**Einsprache, Beschwerde**
 
 <sup>1</sup> Gegen die definitive Veranlagung kann der Steuerpflichtige innert 30 Tagen bei der WSK Einsprache erheben.
 
-<sup>2</sup>[^19-1]Der Einspracheentscheid kann vom Einsprecher innert 30 Tage beim Verwaltungsgericht mit Beschwerde angefochten werden.
-
-[^19-1]: Fassung gemäss Verordnung über die Anpassung von Regierungsverordnungen an das Verwaltungsrechtspflegegesetz; AGS 2006, KA 2006\_5032; am 1. Januar 2007 in Kraft getreten.
+<sup>2</sup> Der Einspracheentscheid kann vom Einsprecher innert 30 Tage beim Obergericht mit Beschwerde angefochten werden.
 
 #### Art. 20
 
 **Einzug**
 
-Die Wasser- und Pumpwerksteuer werden von der kantonalen Steuerverwaltung eingezogen. Diese erhält vom Präsidenten oder von der Präsidentin der WSK die für den Einzug erforderlichen Unterlagen.
+<sup>1</sup> Die Wasser- und Pumpwerksteuer werden von der kantonalen Steuerverwaltung eingezogen. Diese erhält vom Präsidenten oder von der Präsidentin der WSK die für den Einzug erforderlichen Unterlagen.
 
-### VI. Schlussbestimmungen
+## 6. Schlussbestimmungen
 
 #### Art. 21
 
 **Aufhebung bisherigen Rechts**
 
-Die Verordnung über die Wasser- und Pumpwerksteuer vom 14. Dezember 1981[^21-1] wird aufgehoben.
+<sup>1</sup> Die Verordnung über die Wasser- und Pumpwerksteuer vom 14. Dezember 1981[^21-1] wird aufgehoben.
 
-[^21-1]: AGS 1981, 934 und AGS 1987, 1764 4 1.01.2008
+[^21-1]: AGS 1981, 934 und AGS 1987, 1764
 
 #### Art. 22
 
 **Inkrafttreten**
 
-Diese Verordnung tritt mit dem Wasserrechtsgesetz des Kantons Graubünden (BWRG)[^22-1] in Kraft[^22-2].
+<sup>1</sup> Diese Verordnung tritt mit dem Wasserrechtsgesetz des Kantons Graubünden (BWRG)[^22-1] in Kraft[^22-2].
 
-[^22-1]: BR 810.100
-[^22-2]: Mit RB vom 20. Juni 1995 auf den 1. Juli 1995 in Kraft gesetzt 1.01.2008 5
+[^22-1]: BR [810.100](https://www.gr-lex.gr.ch/data/810.100/de)
+[^22-2]: Mit RB vom 20. Juni 1995 auf den 1. Juli 1995 in Kraft gesetzt.
 
-## Weitere Fussnoten
-
-- [2] Fassung gemäss Verordnung über die Anpassung von Regierungsverordnungen an das Verwaltungsrechtspflegegesetz; AGS 2006, KA 2006\_5032; am 1. Januar 2007 in Kraft getreten.
+-
