@@ -4,11 +4,11 @@ title: "Loi du 21 juin 1996 sur l'imposition des huiles minérales (Limpmin)"
 short: Limpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20240101/fr"
 
 (Limpmin)
 
-du 21 juin 1996 (État le 1<sup>er</sup> janvier 2024)
+du 21 juin 1996 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -76,22 +76,22 @@ On entend par:
 - a. impôt: l’impôt sur les huiles minérales et la surtaxe sur les huiles minérales;
 - b. importateur: toute personne qui transporte une marchandise à travers la frontière ainsi que toute personne pour le compte de laquelle la marchandise est importée;
 - c. entrepositaire agréé: tout détenteur d’une autorisation de l’autorité fiscale l’habilitant à transformer, à extraire, à produire ou à entreposer, en suspension d’impôt, dans un entrepôt agréé, des marchandises non imposées;
-- d.[^2-6] biocarburant: carburant produit à partir de biomasse ou d’autres agents énergétiques renouvelables.
+- d.[^2-6] carburant renouvelable: tout carburant produit à partir de biomasse ou d’autres agents énergétiques renouvelables.
 
 [^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
 [^2-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
 [^2-3]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-4]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 [^2-5]: Introduite par l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-6]: Introduite par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongée jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2-6]: Introduite par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 2a
 
-**Définition des biocarburants**[^2a-1]
+**Définition des carburants renouvelables**[^2a-1]
 
-Le Conseil fédéral définit les biocarburants au sens de l’art. 2, al. 3, let. d.
+Le Conseil fédéral définit les carburants renouvelables au sens de l’art. 2, al. 3, let. d.
 
-[^2a-1]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2a-1]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 3
 
@@ -223,76 +223,76 @@ Répondent solidairement avec la personne assujettie à l’impôt ou avec le su
 
 #### Art. 12a
 
-**Allégement fiscal pour le gaz naturel et le gaz liquide**[^12a-1]
+**Allégement fiscal pour le gaz naturel, le gaz liquide et les gaz renouvelables**[^12a-1]
 
-<sup>1</sup> Pour le gaz naturel et le gaz liquide destinés à être utilisés comme carburant, l’impôt est inférieur de 40 centimes par litre d’équivalent essence à l’impôt prévu dans le tarif de l’impôt sur les huiles minérales.
+<sup>1</sup> Pour le gaz naturel, le gaz liquide et les gaz renouvelables destinés à être utilisés comme carburant, l’impôt est inférieur de 40 centimes par litre d’équivalent essence à l’impôt prévu dans le tarif de l’impôt sur les huiles minérales.
 
-<sup>2</sup> L’impôt sur les huiles minérales et la surtaxe sur les huiles minérales sont perçus d’après le tarif figurant à l’annexe 1*a* de la présente loi.
+<sup>2</sup> L’impôt sur les huiles minérales et la surtaxe sur les huiles minérales sont perçus d’après le tarif figurant à l’annexe 1*a*.
 
-[^12a-1]: Introduit par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^12a-1]: Introduit par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12b
 
-**Allégement fiscal pour les biocarburants**[^12b-1]
+**Allégement fiscal pour les carburants renouvelables**[^12b-1]
 
 <sup>1</sup>
 
-Un allégement fiscal est accordé sur demande pour les biocarburants lorsque les conditions suivantes sont remplies:
+Un allégement fiscal est accordé sur demande pour les carburants renouvelables lorsque sont remplies les conditions suivantes:
 
-- a. depuis la production des matières premières jusqu’à leur utilisation, les biocarburants émettent sensiblement moins de gaz à effet de serre que l’essence fossile;
-- b. depuis la production des matières premières jusqu’à leur utilisation, les biocarburants ne nuisent globalement pas à l’environnement de façon notablement plus élevée que l’essence fossile;
+- a. depuis la production des matières premières jusqu’à leur utilisation, les carburants renouvelables émettent sensiblement moins de gaz à effet de serre que l’essence fossile;
+- b. depuis la production des matières premières jusqu’à leur utilisation, les carburants renouvelables ne nuisent globalement pas à l’environnement de façon notablement plus élevée que l’essence fossile;
 - c. la production des matières premières n’a pas nécessité de changement d’affectation de surfaces présentant un important stock de carbone ou une grande diversité biologique;
 - d. la production des matières premières a eu lieu sur des surfaces acquises légalement;
-- e. les biocarburants ont été produits dans des conditions socialement acceptables.
+- e. les carburants renouvelables ont été produits dans des conditions socialement acceptables.
 
-<sup>2</sup> Les conditions fixées à l’al. 1, let. a à d, sont dans tous les cas réputées remplies pour les biocarburants fabriqués conformément aux techniques les plus récentes qui sont obtenus à partir de déchets ou de résidus de production biogènes.
+<sup>2</sup> Les conditions fixées à l’al. 1, let. a à d, sont dans tous les cas réputées remplies pour les carburants renouvelables fabriqués conformément aux techniques les plus récentes qui sont obtenus à partir de déchets et de résidus de production biogènes.
 
-<sup>3</sup> Outre les conditions fixées à l’al. 1, le Conseil fédéral peut introduire la condition selon laquelle la production des biocarburants ne doit pas se faire au détriment de la sécurité alimentaire. Ce faisant, il tient compte des normes internationalement reconnues.
+<sup>3</sup> Outre les conditions fixées à l’al. 1, le Conseil fédéral peut prévoir que la production des carburants renouvelables ne doit pas se faire au détriment de la sécurité alimentaire. Il tient compte des normes internationalement reconnues.
 
-<sup>4</sup> Le Conseil fédéral fixe l’ampleur de l’allégement fiscal en tenant compte de la compétitivité des biocarburants par rapport aux carburants d’origine fossile.
+<sup>4</sup> Le Conseil fédéral fixe l’ampleur de l’allégement fiscal en tenant compte de la compétitivité des carburants renouvelables par rapport aux carburants d’origine fossile.
 
-[^12b-1]: Introduit par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^12b-1]: Introduit par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12c
 
-**Preuve et traçabilité des biocarburants**[^12c-1]
+**Preuve et traçabilité des carburants renouvelables**[^12c-1]
 
-<sup>1</sup> Quiconque veut obtenir un allégement fiscal pour des biocarburants doit prouver que ceux-ci répondent aux conditions fixées à l’art. 12*b*, al. 1 et 3.
+<sup>1</sup> Quiconque veut obtenir un allégement fiscal pour des carburants renouvelables doit prouver que ceux-ci répondent aux conditions fixées à l’art. 12*b*, al. 1 et 3.
 
 <sup>2</sup>
 
 La preuve contient les éléments suivants:
 
-- a. des indications compréhensibles et vérifiables permettant la traçabilité des biocarburants à tous les échelons de production;
+- a. des indications compréhensibles et vérifiables permettant la traçabilité des carburants renouvelables à tous les échelons de production;
 - b. des documents étayant ces indications.
 
 <sup>3</sup> L’autorité fiscale peut exiger que l’exactitude des indications et des documents soit vérifiée et attestée par des tiers indépendants et agréés.
 
 <sup>4</sup> Le Conseil fédéral définit les indications et les documents requis. Il peut prévoir d’alléger le fardeau de la preuve, pour autant qu’il soit garanti que les conditions fixées à l’art. 12*b*, al. 1 et 3, sont remplies.
 
-[^12c-1]: Introduit par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^12c-1]: Introduit par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12d
 
-**Demande d’allégement fiscal pour les biocarburants**[^12d-1]
+**Demande d’allégement fiscal pour les carburants renouvelables**[^12d-1]
 
-<sup>1</sup> La demande d’allégement fiscal pour les biocarburants doit être remise par écrit à l’autorité fiscale avant le dépôt de la première déclaration fiscale.
+<sup>1</sup> La demande d’allégement fiscal pour les carburants renouvelables doit être remise par écrit à l’autorité fiscale avant le dépôt de la première déclaration fiscale.
 
 <sup>2</sup> L’autorité fiscale statue sur l’allégement fiscal en accord avec l’Office fédéral de l’environnement, l’Office fédéral de l’agriculture et le Secrétariat d’État à l’économie.
 
-[^12d-1]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+<sup>3</sup> Le Conseil fédéral règle la procédure.
 
-### <sup>3</sup> Le Conseil fédéral règle la procédure.
+[^12d-1]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12e
 
 **Neutralité des recettes**[^12e-1]
 
-<sup>1</sup> Les pertes fiscales résultant des allégements fiscaux visés aux art. 12*a* et 12*b* sont compensées, au plus tard le 31 décembre 2028, par une imposition plus élevée de l’essence et de l’huile diesel.
+<sup>1</sup> Les pertes fiscales résultant des allégements fiscaux visés aux art. 12*a* et 12*b* sont compensées, au plus tard le 31 décembre 2037, par une imposition plus élevée de l’essence et de l’huile diesel.
 
 <sup>2</sup> Le Conseil fédéral modifie les taux de l’impôt pour l’essence et l’huile diesel qui figurent à l’annexe 1 et à l’art. 12, al. 2, et adapte périodiquement les taux modifiés.
 
-[^12e-1]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2028 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^12e-1]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2037 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 13
 
@@ -335,7 +335,7 @@ Des émoluments peuvent être perçus pour les décisions et autres prestations.
 
 [^sec4-1]
 
-[^sec4-1]: Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^sec4-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 17
 
@@ -388,11 +388,11 @@ Est remboursé l’impôt prélevé:
 
 <sup>1ter</sup> La part de l’impôt prélevé sur les carburants utilisé pour les dameuses de pistes qui est destinée à des tâches et dépenses liées à la circulation routière est remboursée.[^18-2]
 
-<sup>2</sup> La surtaxe sur les huiles minérales est remboursée lorsque le carburant a été utilisé dans l’agriculture, la sylviculture, l’extraction de pierre de taille naturelle ou la pêche professionnelle.[^18-3]
+<sup>2</sup> La surtaxe sur les huiles minérales est remboursée lorsque le carburant a été utilisé dans l’agriculture, la sylviculture, l’extraction de pierre de taille naturelle, le transport de voyageurs par des entreprises de navigation concessionnaires de la Confédération ou la pêche professionnelle.[^18-3]
 
 <sup>3</sup> Le Département fédéral des finances peut autoriser le remboursement de l’impôt lorsque la preuve de la nécessité économique est fournie et que la marchandise a été affectée à un usage d’intérêt général.
 
-<sup>3bis</sup> S’agissant des biocarburants ne remplissant pas les conditions fixées à l’art. 12*b*, al. 1 et 3, aucun remboursement de l’impôt en vertu de l’al. 3 ne peut être réclamé.[^18-4]
+<sup>3bis</sup> …[^18-4]
 
 <sup>4</sup> Le Conseil fédéral arrête la procédure de remboursement. Les montants insignifiants ne sont pas remboursés.
 
@@ -400,8 +400,8 @@ Est remboursé l’impôt prélevé:
 
 [^18-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^18-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^18-3]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2693](https://fedlex.data.admin.ch/eli/oc/2007/354); [FF 2006 2383](https://fedlex.data.admin.ch/eli/fga/2006/226)[2403](https://fedlex.data.admin.ch/eli/fga/2006/228)).
-[^18-4]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^18-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-4]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Abrogé par l’annexe ch. 2 de la LF du 15 mars 2024, avec effet du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## Section 5 Perception de l’impôt
 
@@ -427,10 +427,10 @@ Est remboursé l’impôt prélevé:
 
 <sup>1</sup>
 
-Lors de la déclaration fiscale de mélanges de carburants obtenus à partir de biocarburants et d’autres carburants, les personnes assujetties à l’impôt doivent déclarer séparément:
+Lors de la déclaration fiscale de mélanges de carburants obtenus à partir de carburants renouvelables et d’autres carburants, les personnes assujetties à l’impôt doivent déclarer séparément:
 
-- a. la part des biocarburants remplissant les conditions fixées à l’art. 12*b*, al. 1 et 3;
-- b. la part des biocarburants ne remplissant pas les conditions fixées à l’art. 12*b*, al. 1 et 3, et
+- a. la part des carburants renouvelables remplissant les conditions fixées à l’art. 12*b*, al. 1 et 3;
+- b. la part des carburants renouvelables ne remplissant pas les conditions fixées à l’art. 12*b*, al. 1 et 3, et
 - c. la part des autres carburants.
 
 <sup>2</sup> Les parts de carburant ne dépassant pas une quantité minime ne doivent pas être déclarées séparément. Le Conseil fédéral fixe cette quantité.
@@ -439,7 +439,7 @@ Lors de la déclaration fiscale de mélanges de carburants obtenus à partir de 
 
 <sup>4</sup> Le Conseil fédéral règle la procédure.
 
-[^20a-1]: Introduit par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^20a-1]: Introduit par le ch. I de la loi du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 21
 
@@ -959,15 +959,15 @@ Annexe 1a[^t-2]
 
 (art. 12*a*, al. 2)
 
-## Tarif de l’impôt sur le gaz naturel et le gaz liquide destinés à être utilisés comme carburant
+## Tarif de l’impôt sur le gaz naturel, le gaz liquide et le gaz renouvelable destinés à être utilisés comme carburant
 
-[^t-2]: Introduite par le ch. I de la L du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2019 au 31 déc. 2023, prolongée jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)ch. II; [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^t-2]: Introduite par le ch. I de la L du 23 mars 2007 ([RO 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132)581; [FF 2006 4057](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 <table>
-<tr><td>N° de tarif[^annex1a-lvlu1-1]</td><td>Désignation de la marchandise</td><td>Charge fiscale[^annex1a-lvlu1-2] (art. 12)</td><td>Allégement fiscal (art. 12*a*)</td><td>Charge fiscale (art. 12*a*)</td><td>Impôt sur les huiles minérales</td><td>Surtaxe sur les huiles minérales</td></tr>
-<tr><td></td><td></td><td>fr.</td><td>fr.</td><td>fr.</td><td>fr.</td><td>fr.</td></tr>
+<tr><th>N<sup>o</sup> de tarif **[1]**</th><th>Désignation de la marchandise</th><th>Charge fiscale **[2]** (art. 12)</th><th>Allégement fiscal (art. 12*a*)</th><th>Charge fiscale (art. 12*a*)</th><th>Impôt sur les huiles minérales</th><th>Surtaxe sur les huiles minérales</th></tr>
+<tr><th></th><th></th><th>fr.</th><th>fr.</th><th>fr.</th><th>fr.</th><th>fr.</th></tr>
 <tr><td></td><td></td><td>par 1000 kg</td><td>par 1000 kg</td><td>par 1000 kg</td><td>par 1000 kg</td><td>par 1000 kg</td></tr>
-<tr><td>2711.</td><td>Gaz de pétrole et autres hydrocarbures gazeux:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2711.</td><td>Gaz naturel et autres hydrocarbures gazeux:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– liquéfiés:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– – gaz naturel non mélangé:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1110</td><td>– – – destiné à être utilisé comme carburant</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
@@ -980,8 +980,6 @@ Annexe 1a[^t-2]
 <tr><td>1410</td><td>– – – destinés à être utilisés comme carburant</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
 <tr><td></td><td>– – autres, non mélangés:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1910</td><td>– – – destinés à être utilisés comme carburant:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>N° de tarif</td><td>Désignation de la marchandise</td><td>Charge fiscale (art. 12)</td><td>Allégement fiscal (art. 12*a*)</td><td>Charge fiscale (art. 12*a*)</td><td>Impôt sur les huiles minérales</td><td>Surtaxe sur les huiles minérales</td></tr>
-<tr><td></td><td></td><td>fr.</td><td>fr.</td><td>fr.</td><td>fr.</td><td>fr.</td></tr>
 <tr><td></td><td></td><td>par 1000 kg</td><td>par 1000 kg</td><td>par 1000 kg</td><td>par 1000 kg</td><td>par 1000 kg</td></tr>
 <tr><td></td><td>– – – – produits à partir de biomasse ou d’autres agents énergétiques renouvelables</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
 <tr><td></td><td></td><td>par 1000 l à 15 °C</td><td>par 1000 l à 15 °C</td><td>par 1000 l à 15 °C</td><td>par 1000 l à 15 °C</td><td>par 1000 l à 15 °C</td></tr>
@@ -992,10 +990,8 @@ Annexe 1a[^t-2]
 <tr><td>2110</td><td>– – – destiné à être utilisé comme carburant</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
 <tr><td></td><td>– – autres:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>2910</td><td>– – – destinés à être utilisés comme carburant</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
+<tr><td colspan="7">**[1]** RS **632.10**, annexe; conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles (RS **170.512**), le tarif général et ses mod. ne sont pas publiés au RO. Le tarif général est disponible sous [www.bazg.admin.ch](http://www.bazg.admin.ch). Les mod. sont généralement insérées dans le tarif des douanes, qui peut être consulté sous [www.tares.ch](http://www.tares.ch/). **[2]** Impôt sur les huiles minérales et surtaxe sur les huiles minérales.</td></tr>
 </table>
-
-[^annex1a-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe; conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général et ses mod. ne sont pas publiés au RO. Le tarif général est disponible sous [www.ezv.admin.ch](https://www.ezv.admin.ch/). Les mod. sont également insérées dans le tarif des douanes, qui peut être consulté sous www.tares.ch.
-[^annex1a-lvlu1-2]: Impôt sur les huiles minérales et surtaxe sur les huiles minérales.
 
 Annexe 2
 

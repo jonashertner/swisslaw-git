@@ -4,11 +4,11 @@ title: Mineralölsteuergesetz vom 21. Juni 1996 (MinöStG)
 short: MinöStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20240101/de"
 
 (MinöStG)
 
-vom 21. Juni 1996 (Stand am 1. Januar 2024)
+vom 21. Juni 1996 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -76,22 +76,22 @@ Im Sinne dieses Gesetzes gilt als:
 - a. «Steuer»: die Mineralölsteuer und der Mineralölsteuerzuschlag;
 - b. «Importeur»: die Person, die eine Ware über die Grenze bringt, sowie die Person, auf deren Rechnung die Ware eingeführt wird;
 - c. «zugelassener Lagerinhaber»: wer eine Bewilligung der Steuerbehörde besitzt, unversteuerte Waren in einem zugelassenen Lager zu bearbeiten, zu gewinnen, zu erzeugen oder zu lagern;
-- d.[^2-6] «biogener Treibstoff»: Treibstoff, der aus Biomasse oder anderen erneuerbaren Energieträgern hergestellt wird.
+- d.[^2-6] «erneuerbarer Treibstoff»: Treibstoff, der aus Biomasse oder anderen erneuerbaren Energieträgern hergestellt wird.
 
 [^2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 [^2-2]: Fassung gemäss Anhang Ziff. 1 der V vom 3. Juli 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
 [^2-3]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-4]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 [^2-5]: Eingefügt durch Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-6]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2-6]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 2a
 
-**Bezeichnung der biogenen Treibstoffe**[^2a-1]
+**Bezeichnung der erneuerbaren Treibstoffe**[^2a-1]
 
-Der Bundesrat bezeichnet die biogenen Treibstoffe nach Artikel 2 Absatz 3 Buchstabe d.
+Der Bundesrat bezeichnet die erneuerbaren Treibstoffe nach Artikel 2 Absatz 3 Buchstabe d.
 
-[^2a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 3
 
@@ -223,76 +223,76 @@ Mit der steuerpflichtigen Person beziehungsweise mit dem Steuernachfolger oder d
 
 #### Art. 12a
 
-**Steuererleichterung für Erd- und Flüssiggas**[^12a-1]
+**Steuererleichterung für Erdgas, Flüssiggas und erneuerbares Gas**[^12a-1]
 
-<sup>1</sup> Für Erd- und Flüssiggas zur Verwendung als Treibstoff ist die Steuer je Liter Benzinäquivalent 40 Rappen tiefer als die Steuer gemäss Mineralölsteuertarif.
+<sup>1</sup> Für Erdgas, Flüssiggas und erneuerbares Gas zur Verwendung als Treibstoff ist die Steuer je Liter Benzinäquivalent 40 Rappen tiefer als die Steuer gemäss Mineralölsteuertarif.
 
-<sup>2</sup> Die Mineralölsteuer und der Mineralölsteuerzuschlag werden nach dem Tarif im Anhang 1*a* zu diesem Gesetz erhoben.
+<sup>2</sup> Die Mineralölsteuer und der Mineralölsteuerzuschlag werden nach dem Tarif in Anhang 1*a* erhoben.
 
-[^12a-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^12a-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12b
 
-**Steuererleichterung für biogene Treibstoffe**[^12b-1]
+**Steuererleichterung für erneuerbare Treibstoffe**[^12b-1]
 
 <sup>1</sup>
 
-Für biogene Treibstoffe wird eine Steuererleichterung auf Gesuch hin gewährt, wenn die folgenden Anforderungen erfüllt sind:
+Für erneuerbare Treibstoffe wird eine Steuererleichterung auf Gesuch hin gewährt, wenn die folgenden Anforderungen erfüllt sind:
 
-- a. Die biogenen Treibstoffe erzeugen vom Anbau der Rohstoffe bis zu ihrem Verbrauch erheblich weniger Treibhausgasemissionen als fossiles Benzin.
-- b. Die biogenen Treibstoffe belasten die Umwelt vom Anbau der Rohstoffe bis zu ihrem Verbrauch gesamthaft nicht erheblich mehr als fossiles Benzin.
+- a. Die erneuerbaren Treibstoffe erzeugen vom Anbau der Rohstoffe bis zu ihrem Verbrauch erheblich weniger Treibhausgasemissionen als fossiles Benzin.
+- b. Die erneuerbaren Treibstoffe belasten die Umwelt vom Anbau der Rohstoffe bis zu ihrem Verbrauch gesamthaft nicht erheblich mehr als fossiles Benzin.
 - c. Der Anbau der Rohstoffe erforderte keine Umnutzung von Flächen mit hohem Kohlenstoffbestand oder mit grosser biologischer Vielfalt.
 - d. Der Anbau der Rohstoffe erfolgte auf Flächen, die rechtmässig erworben wurden.
-- e. Die biogenen Treibstoffe wurden unter sozial annehmbaren Bedingungen produziert.
+- e. Die erneuerbaren Treibstoffe wurden unter sozial annehmbaren Bedingungen produziert.
 
-<sup>2</sup> Die Anforderungen nach Absatz 1 Buchstaben a–d gelten in jedem Fall als erfüllt bei biogenen Treibstoffen, die nach dem Stand der Technik aus biogenen Abfällen oder Produktionsrückständen hergestellt werden.
+<sup>2</sup> Die Anforderungen nach Absatz 1 Buchstaben a–d gelten in jedem Fall als erfüllt bei erneuerbaren Treibstoffen, die nach dem Stand der Technik aus biogenen Abfällen oder Produktionsrückständen hergestellt werden.
 
-<sup>3</sup> Der Bundesrat kann zusätzlich zu den Anforderungen nach Absatz 1 die Anforderung einführen, dass die Produktion der biogenen Treibstoffe nicht zulasten der Ernährungssicherheit erfolgen darf. Er berücksichtigt dabei international anerkannte Standards.
+<sup>3</sup> Der Bundesrat kann zusätzlich zu den Anforderungen nach Absatz 1 die Anforderung einführen, dass die Produktion der erneuerbaren Treibstoffe nicht zulasten der Ernährungssicherheit erfolgen darf. Er berücksichtigt dabei international anerkannte Standards.
 
-<sup>4</sup> Er bestimmt den Umfang der Steuererleichterung; er berücksichtigt dabei die Wettbewerbsfähigkeit der biogenen Treibstoffe gegenüber Treibstoffen fossilen Ursprungs.
+<sup>4</sup> Er bestimmt den Umfang der Steuererleichterung; er berücksichtigt dabei die Wettbewerbsfähigkeit der erneuerbaren Treibstoffe gegenüber Treibstoffen fossilen Ursprungs.
 
-[^12b-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^12b-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12c
 
-**Nachweis und Rückverfolgbarkeit von biogenen Treibstoffen**[^12c-1]
+**Nachweis und Rückverfolgbarkeit von erneuerbaren Treibstoffen**[^12c-1]
 
-<sup>1</sup> Wer eine Steuererleichterung für biogene Treibstoffe erhalten will, muss nachweisen, dass diese die Anforderungen nach Artikel 12*b* Absätze 1 und 3 erfüllen.
+<sup>1</sup> Wer eine Steuererleichterung für erneuerbare Treibstoffe erhalten will, muss nachweisen, dass diese die Anforderungen nach Artikel 12*b* Absätze 1 und 3 erfüllen.
 
 <sup>2</sup>
 
 Der Nachweis beinhaltet:
 
-- a. verständliche und überprüfbare Angaben, welche die Rückverfolgbarkeit des biogenen Treibstoffs über alle Produktionsstufen ermöglichen; und
+- a. verständliche und überprüfbare Angaben, welche die Rückverfolgbarkeit des erneuerbaren Treibstoffs über alle Produktionsstufen ermöglichen; und
 - b. Unterlagen, die diese Angaben belegen.
 
 <sup>3</sup> Die Steuerbehörde kann verlangen, dass die Richtigkeit der Angaben und Unterlagen durch anerkannte unabhängige Dritte überprüft und bestätigt wird.
 
 <sup>4</sup> Der Bundesrat bezeichnet die erforderlichen Angaben und Unterlagen. Er kann Erleichterungen des Nachweises vorsehen, sofern gewährleistet ist, dass die Anforderungen nach Artikel 12*b* Absätze 1 und 3 erfüllt sind.
 
-[^12c-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^12c-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12d
 
-**Gesuch um Steuererleichterung für biogene Treibstoffe**[^12d-1]
+**Gesuch um Steuererleichterung für erneuerbare Treibstoffe**[^12d-1]
 
-<sup>1</sup> Das Gesuch um Steuererleichterung für biogene Treibstoffe muss vor der Abgabe der ersten Steueranmeldung schriftlich bei der Steuerbehörde eingereicht werden.
+<sup>1</sup> Das Gesuch um Steuererleichterung für erneuerbare Treibstoffe muss vor der Abgabe der ersten Steueranmeldung schriftlich bei der Steuerbehörde eingereicht werden.
 
 <sup>2</sup> Die Steuerbehörde entscheidet über die Steuererleichterung im Einvernehmen mit dem Bundesamt für Umwelt, dem Bundesamt für Landwirtschaft und dem Staatssekretariat für Wirtschaft.
 
 <sup>3</sup> Der Bundesrat regelt das Verfahren.
 
-[^12d-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^12d-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12e
 
 **Ertragsneutralität**[^12e-1]
 
-<sup>1</sup> Die Steuerausfälle, die sich aus der Steuererleichterung nach den Artikeln 12*a* und 12*b* ergeben, sind durch eine höhere Besteuerung des Benzins und Dieselöls bis spätestens am 31. Dezember 2028 zu kompensieren.
+<sup>1</sup> Die Steuerausfälle, die sich aus der Steuererleichterung nach den Artikeln 12*a* und 12*b* ergeben, sind durch eine höhere Besteuerung des Benzins und Dieselöls bis spätestens am 31. Dezember 2037 zu kompensieren.
 
-<sup>2</sup> Der Bundesrat ändert die in Anhang 1 und Artikel 12 Absatz 2 enthaltenen Steuersätze für Benzin und Dieselöl und passt die geänderten Steuersätze periodisch an.
+<sup>2</sup> Der Bundesrat ändert die in Anhang 1 und Artikel 12 Absatz 2 enthaltenen Steuer-sätze für Benzin und Dieselöl und passt die geänderten Steuersätze periodisch an.
 
-[^12e-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2028 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^12e-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2037 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 13
 
@@ -335,7 +335,7 @@ Für Verfügungen und Dienstleistungen können Gebühren erhoben werden. Der Bun
 
 [^sec4-1]
 
-[^sec4-1]: Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^sec4-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 17
 
@@ -388,11 +388,11 @@ Die Steuer wird rückerstattet:
 
 <sup>1ter</sup> Der Steueranteil, der für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr bestimmt ist, wird rückerstattet für den Treibstoff von Pistenfahrzeugen.[^18-2]
 
-<sup>2</sup> Der Mineralölsteuerzuschlag wird rückerstattet, wenn der Treibstoff für die Land- oder Forstwirtschaft, den Naturwerkstein-Abbau oder die Berufsfischerei verwendet worden ist.[^18-3]
+<sup>2</sup> Der Mineralölsteuerzuschlag wird rückerstattet, wenn der Treibstoff für die Land- oder Forstwirtschaft, den Naturwerkstein-Abbau, die Personenbeförderung durch vom Bund konzessionierte Schifffahrtsunternehmen oder die Berufsfischerei verwendet wird.[^18-3]
 
 <sup>3</sup> Das Eidgenössische Finanzdepartement kann die Rückerstattung der Steuer zulassen, wenn dafür eine wirtschaftliche Notwendigkeit nachgewiesen wird und die Ware zu einem im allgemeinen Interesse liegenden Zweck verwendet worden ist.
 
-<sup>3bis</sup> Für biogene Treibstoffe, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 nicht erfüllen, können keine Steuerrückerstattungen nach Absatz 3 geltend gemacht werden.[^18-4]
+<sup>3bis</sup> …[^18-4]
 
 <sup>4</sup> Der Bundesrat regelt das Rückerstattungsverfahren. Geringfügige Beträge werden nicht rückerstattet.
 
@@ -400,8 +400,8 @@ Die Steuer wird rückerstattet:
 
 [^18-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^18-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^18-3]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2693](https://fedlex.data.admin.ch/eli/oc/2007/354); [BBl 2006 2427](https://fedlex.data.admin.ch/eli/fga/2006/226)[2449](https://fedlex.data.admin.ch/eli/fga/2006/228)).
-[^18-4]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^18-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-4]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Aufgehoben durch Anhang Ziff. 2 des BG vom 15. März 2024, mit Wirkung vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## 5. Abschnitt: Steuererhebung
 
@@ -429,10 +429,10 @@ Die Steuer wird rückerstattet:
 
 <sup>1</sup>
 
-Steuerpflichtige Personen müssen bei der Steueranmeldung von Treibstoffgemischen aus biogenen Treibstoffen und anderen Treibstoffen separat anmelden:
+Steuerpflichtige Personen müssen bei der Steueranmeldung von Treibstoffgemischen aus erneuerbaren Treibstoffen und anderen Treibstoffen separat anmelden:
 
-- a. den Anteil biogener Treibstoffe, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 erfüllen;
-- b. den Anteil biogener Treibstoffe, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 nicht erfüllen; und
+- a. den Anteil erneuerbarer Treibstoffe, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 erfüllen;
+- b. den Anteil erneuerbarer Treibstoffe, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 nicht erfüllen; und
 - c. den Anteil anderer Treibstoffe.
 
 <sup>2</sup> Treibstoffanteile, die eine geringe Menge nicht überschreiten, müssen nicht separat angemeldet werden. Der Bundesrat legt die Menge fest.
@@ -441,7 +441,7 @@ Steuerpflichtige Personen müssen bei der Steueranmeldung von Treibstoffgemische
 
 <sup>4</sup> Der Bundesrat regelt das Verfahren.
 
-[^20a-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^20a-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651).
 
 #### Art. 21
 
@@ -753,14 +753,6 @@ Datum des Inkrafttretens: 1. Januar 1997[^49-1]
 
 [^49-1]: BRB vom 20. Nov. 1996
 
-## Übergangsbestimmung zur Änderung vom 23. März 2007
-
-[^u1-1]
-
-[^u1-1]: [AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)
-
-Die Artikel 12*a*, 12*b*, 12*c* und 20*a* sowie Anhang 1*a* gelten längstens bis zum Ablauf von zwölf Jahren nach Inkrafttreten dieser Änderung.
-
 Anhang 1[^t-1]
 
 (Art. 12 Abs. 1)
@@ -977,46 +969,43 @@ Anhang 1a[^t-2]
 
 (Art. 12*a* Abs. 2)
 
-## Steuertarif für Erd- und Flüssiggas als Treibstoff
+## Steuertarif für Erdgas, Flüssiggas und erneuerbares Gas als Treibstoff
 
-[^t-2]: Eingefügt durch Ziff. II des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2019 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)Ziff. II; [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-
-<table>
-<tr><td>Zolltarifnummer[^annex1a-lvlu1-1]</td><td>Warenbezeichnung</td><td>Steuerbelastung[^annex1a-lvlu1-2] (Art. 12)</td><td>Steuererleichterung (Art. 12*a*)</td><td>Steuerbelastung (Art. 12*a*)</td><td>Mineralölsteuer</td><td>Mineralölsteuerzuschlag</td></tr>
-<tr><td></td><td></td><td>Fr.</td><td>Fr.</td><td>Fr.</td><td>Fr.</td><td>Fr.</td></tr>
-<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td></tr>
-<tr><td>2711.</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– verflüssigt:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – Erdgas unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1110</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td></td><td>– – Propan unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1210</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
-<tr><td></td><td>– – Butane unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1310</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
-<tr><td></td><td>– – Ethylen, Propylen, Butylen und Butadien unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1410</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
-<tr><td></td><td>– – andere unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1910</td><td>– – – zur Verwendung als Treibstoff:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td></tr>
-<tr><td></td><td>– – – – aus Biomasse oder anderen erneuerbaren Energieträgern</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td></td><td>– – – – andere</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
-</table>
+[^t-2]: Eingefügt durch Ziff. II des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 <table>
-<tr><td>Zolltarifnummer</td><td>Warenbezeichnung</td><td>Steuerbelastung (Art. 12)</td><td>Steuererleichterung (Art. 12*a*)</td><td>Steuerbelastung (Art. 12*a*)</td><td>Mineralölsteuer</td><td>Mineralölsteuerzuschlag</td></tr>
-<tr><td></td><td></td><td>Fr.</td><td>Fr.</td><td>Fr.</td><td>Fr.</td><td>Fr.</td></tr>
-<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td></tr>
-<tr><td></td><td>– in gasförmigem Zustand:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – Erdgas:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>2110</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
-<tr><td></td><td>– – andere:</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>2910</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
+<tr><th>Zolltarifnummer **[1]**</th><th>Warenbezeichnung</th><th>Steuerbelastung **[2]** (Art. 12)</th><th>Steuererleichterung (Art. 12*a*)</th><th>Steuerbelastung (Art. 12*a*)</th><th>Mineralölsteuer</th><th colspan="2">Mineralölsteuerzuschlag</th></tr>
+<tr><th></th><th></th><th>Fr.</th><th>Fr.</th><th>Fr.</th><th>Fr.</th><th colspan="2">Fr.</th></tr>
+<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td colspan="2">je 1000 kg</td></tr>
+<tr><td>2711.</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td>– verflüssigt:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td>– – Erdgas unvermischt:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>1110</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td colspan="2">109.70</td></tr>
+<tr><td></td><td></td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td colspan="2">je 1000 l bei 15 °C</td></tr>
+<tr><td></td><td>– – Propan unvermischt:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>1210</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td colspan="2">126.70</td></tr>
+<tr><td></td><td>– – Butane unvermischt:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>1310</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td colspan="2">126.70</td></tr>
+<tr><td></td><td>– – Ethylen, Propylen, Butylen und Butadien unvermischt:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>1410</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td colspan="2">126.70</td></tr>
+<tr><td></td><td>– – andere unvermischt:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>1910</td><td>– – – zur Verwendung als Treibstoff:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td colspan="2">je 1000 kg</td></tr>
+<tr><td></td><td>– – – – aus Biomasse oder anderen erneuerbaren Energieträgern</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td colspan="2">109.70</td></tr>
+<tr><td></td><td></td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td colspan="2">je 1000 l bei 15 °C</td></tr>
+<tr><td></td><td>– – – – andere</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td colspan="2">126.70</td></tr>
+<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td colspan="2">je 1000 kg</td></tr>
+<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td>– in gasförmigem Zustand:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td>– – Erdgas:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2110</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td colspan="2">109.70</td></tr>
+<tr><td></td><td>– – andere:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2910</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td colspan="2">109.70</td></tr>
+<tr><td colspan="7">**[1]** SR **632.10** Anhang; der Generaltarif und seine Änderungen werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 (SR **170.512**) in der AS nicht veröffentlicht. Der Text kann unter [www.bazg.admin.ch](http://www.bazg.admin.ch) eingesehen werden. Die Änderungen werden zudem auch in den Zolltarif übernommen, siehe [www.tares.ch](http://www.tares.ch/). **[2]** Mineralölsteuer und Mineralölsteuerzuschlag.</td></tr>
 </table>
-
-[^annex1a-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang; der Generaltarif und seine Änderungen werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Der Text kann unter [www.bazg.admin.ch/](http://www.bazg.admin.ch/) eingesehen werden. Die Änderungen werden zudem auch in den Zolltarif übernommen, siehe www.tares.ch.
-[^annex1a-lvlu1-2]: Mineralölsteuer und Mineralölsteuerzuschlag.
 
 Anhang 2
 
