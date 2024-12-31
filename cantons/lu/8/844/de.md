@@ -3,31 +3,31 @@ canton: LU
 number: "844"
 title: Kantonale Fleischhygieneverordnung
 language: de
-version: 2014-01-01
-valid_until: 2024-12-31
-version_adopted: 2013-10-22
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-15
 adopted: 1996-06-21
 in_force: 1996-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/844"
-pdf: "https://srl.lu.ch/api/de/versions/2659/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4336/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Fleischhygieneverordnung
 
-vom 21.06.1996 (Stand 01.01.2014)
+vom 21.06.1996 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 39 des Lebensmittelgesetzes vom 9. Oktober 1992[^ingress-1], Artikel 44 Absatz 1 der Verordnung über das Schlachten und die Fleischkontrolle vom 23. November 2005[^ingress-2] und Artikel 7 Absatz 1 der Verordnung über die Primärproduktion vom 23. November 2005[^ingress-3],
+gestützt auf Artikel 50 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände (Lebensmittelgesetz) vom 20. Juni 2014[^ingress-1], Artikel 42 der Verordnung über das Schlachten und die Fleischkontrolle vom 16. Dezember 2016[^ingress-2] und Artikel 7 Absatz 1 der Verordnung über die Primärproduktion vom 23. November 2005[^ingress-3],
 
 auf Antrag des Gesundheits- und Sozialdepartementes,
 
 beschliesst:
 
-[^ingress-1]: SR [817.0](https://db.clex.ch/link/Bund/817.0/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
-[^ingress-2]: SR [817.190](https://db.clex.ch/link/Bund/817.190/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
+[^ingress-1]: SR [817.0](https://db.clex.ch/link/Bund/817.0/de)
+[^ingress-2]: SR [817.190](https://db.clex.ch/link/Bund/817.190/de)
 [^ingress-3]: SR [916.020](https://db.clex.ch/link/Bund/916.020/de)
 
 ## 1 Geltungsbereich
@@ -123,11 +123,13 @@ beschliesst:
 
 **Amtliche Fachassistentinnen und Fachassistenten**
 
-<sup>1</sup> Amtliche Fachassistentinnen und Fachassistenten für die Fleischkontrolle nehmen in den ihnen zugewiesenen Schlachtbetrieben Vollzugsaufgaben im Rahmen der Verordnung über das Schlachten und die Fleischkontrolle vom 23. November 2005 wahr.
+<sup>1</sup> Amtliche Fachassistentinnen und Fachassistenten für die Fleischkontrolle nehmen in den ihnen zugewiesenen Schlachtbetrieben Vollzugsaufgaben im Rahmen der Verordnung über das Schlachten und die Fleischkontrolle vom 16. Dezember 2016[^8-1] wahr.
 
 <sup>2</sup> Amtliche Fachassistentinnen und Fachassistenten ausserhalb der Fleischkontrolle erfüllen gemäss den Weisungen des Veterinärdienstes andere Aufgaben wie Kontrollen der Primärproduktion von Lebensmitteln tierischer Herkunft in den Tierbeständen.
 
 <sup>3</sup> Sie stehen unter Aufsicht eines amtlichen Tierarztes oder einer amtlichen Tierärztin.
+
+[^8-1]: SR [817.190](https://db.clex.ch/link/Bund/817.190/de)
 
 #### § 9
 
@@ -171,11 +173,12 @@ beschliesst:
 
 **Gebühren und Auslagen**
 
-<sup>1</sup> Für gebührenpflichtige Verrichtungen der Kontrollorgane gilt der Gebührenrahmen nach den Artikeln 63 und 64 der Verordnung über das Schlachten und die Fleischkontrolle. Der Stundenansatz beträgt 80 bis 170 Franken.
+<sup>1</sup> Für gebührenpflichtige Verrichtungen der Kontrollorgane gilt der Gebührenrahmen nach den Artikeln 60 und 61 der Verordnung über das Schlachten und die Fleischkontrolle[^15-1].
 
-<sup>2</sup> Im Übrigen gelten der Gebührentarif und die Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^15-1], soweit das eidgenössische Recht nichts anderes vorsieht.
+<sup>2</sup> Im Übrigen gelten der Gebührentarif und die Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^15-2], soweit das eidgenössische Recht nichts anderes vorsieht.
 
-[^15-1]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
+[^15-1]: SR [817.190](https://db.clex.ch/link/Bund/817.190/de)
+[^15-2]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
 
 #### § 16
 
@@ -189,7 +192,7 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Verfügungen der Kontrollorgane der Fleischhygiene kann innerhalb von fünf Tagen Einsprache beim Veterinärdienst erhoben werden.
+<sup>1</sup> Gegen Verfügungen der Kontrollorgane der Fleischhygiene kann innerhalb von zehn Tagen Einsprache beim Veterinärdienst erhoben werden.
 
 <sup>2</sup> Das Rechtsmittelverfahren gegen den Einspracheentscheid bestimmt sich nach dem Gesetz über die Verwaltungsrechtspflege vom 3. Juli 1972[^17-1], soweit das eidgenössische Recht nichts anderes vorsieht.
 
