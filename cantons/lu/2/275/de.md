@@ -3,20 +3,19 @@ canton: LU
 number: "275"
 title: Verordnung über die Staatsanwaltschaft
 language: de
-version: 2023-04-01
-valid_until: 2024-12-31
-version_adopted: 2023-02-28
+version: 2025-01-01
+version_adopted: 2025-01-07
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/275"
-pdf: "https://srl.lu.ch/api/de/versions/4063/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4363/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Staatsanwaltschaft
 
-vom 14.12.2010 (Stand 01.04.2023)
+vom 14.12.2010 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -286,7 +285,7 @@ beschliesst:
 
 **Abteilung 2 (Sitz Emmen)**
 
-<sup>1</sup> Adligenswil, Aesch, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Greppen, Hitzkirch, Hochdorf, Hohenrain, Honau, Horw, Inwil, Kriens, Malters, Meggen, Meierskappel, Rain, Römerswil, Root, Rothenburg, Schongau, Schwarzenberg, Udligenswil, Vitznau, Weggis.
+<sup>1</sup> Adligenswil, Aesch, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Greppen, Hitzkirch, Hochdorf, Hohenrain, Horw, Inwil, Kriens, Malters, Meggen, Meierskappel, Rain, Römerswil, Root, Rothenburg, Schongau, Schwarzenberg, Udligenswil, Vitznau, Weggis.
 
 #### § A1-3
 
