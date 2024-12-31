@@ -4,13 +4,12 @@ number: "114.11"
 title: Verordnung zum Integrationsgesetz
 short: Integrationsverordnung
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-12-14
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/114.11"
-pdf: "https://bl.clex.ch/api/de/versions/3175/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4117/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3175/pdf_file"
 
 (Integrationsverordnung)
 
-Vom 18.12.2007 (Stand 01.01.2022)
+Vom 18.12.2007 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -86,7 +85,7 @@ beschliesst:
 
 <sup>1</sup> Die Verpflichtung zur Absolvierung eines Sprach- oder Integrationskurses hat die Befähigung zur Teilnahme am wirtschaftlichen, sozialen und kulturellen Leben (Art. 4 Absatz 2 AuG) und die Herstellung der Chancengleichheit (§ 1 Absatz 3 zweiter Satz IntegrG) zum Ziel.
 
-<sup>2</sup> Das Amt für Migration und Bürgerrecht kann Integrationsvereinbarungen abschliessen mit Ausländerinnen und Ausländern:
+<sup>2</sup> Das Amt für Migration, Integration und Bürgerrecht kann Integrationsvereinbarungen abschliessen mit Ausländerinnen und Ausländern:
 
 - a. die in den Kanton zuziehen und die aufgrund mangelnder Sprachkenntnisse nicht in der Lage sind, selbständig in den Angelegenheiten des täglichen Lebens zu handeln, oder
 - b. deren Aufenthaltsbewilligung zu erneuern oder zu verlängern ist und bei denen erhebliche Defizite der Integration im Sinne von § 1 dieser Verordnung vorliegen, insbesondere wenn sie nicht in der Lage sind, selbständig in den Angelegenheiten des täglichen Lebens zu handeln.
@@ -134,7 +133,7 @@ beschliesst:
 
 **Ansprechstelle für Integrationsfragen (§ 5 Absatz 3 IntegrG[^10-1])**
 
-<sup>1</sup> Ansprechstelle im Sinne von § 5 Absatz 3 Integrationsgesetz ist die Fachstelle für Integrationsfragen der Sicherheitsdirektion.
+<sup>1</sup> Ansprechstelle im Sinne von § 5 Abs. 3 Integrationsgesetz ist die Fachabteilung Integration des Amts für Migration, Integration und Bürgerrecht der Sicherheitsdirektion.
 
 [^10-1]: GS 36.0394, SGS [114](https://bl.clex.ch/data/114/de/art5)
 
