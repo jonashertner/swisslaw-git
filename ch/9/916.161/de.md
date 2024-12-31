@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2024-09-01
+version: 2025-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240901/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 1. September 2024)
+vom 12. Mai 2010 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -155,7 +155,7 @@ Im Sinne dieser Verordnung bedeuten:
 [^3-4]: Richtlinie 2009/128/EG des Europäischen Parlaments und des Rates vom 21. Okt. 2009 über einen Aktionsrahmen der Gemeinschaft für die nachhaltige Verwendung von Pestiziden, in der Fassung gemäss ABl. L 309 vom 24. Nov. 2009, S. 71.
 [^3-5]: Fassung gemäss Ziff. I der V vom 23. Mai 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
 [^3-6]: [SR 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
-[^3-7]: EPPO standards for the efficacy evaluation of plant protection products, European and mediterranean Plant Protection Organisation: http://archives.eppo.org/EPPOStandards/efficacy.htm
+[^3-7]: EPPO standards for the efficacy evaluation of plant protection products, European and mediterranean Plant Protection Organisation: [http://archives.eppo.org/EPPOStandards/efficacy.htm](http://archives.eppo.org/EPPOStandards/efficacy.htm)
 [^3-8]: Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates, ABl. L 309 vom 24.11.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1009, ABl. L 170 vom 25.6.2019, S. 1.
 [^3-9]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
 
@@ -671,7 +671,7 @@ Die Gesuchsunterlagen müssen eingereicht werden:
 [^21-1]: Siehe Fussnote zu Art. 7 Abs. 1 Bst. g.
 [^21-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
 [^21-3]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^21-4]: Leitlinie PM6/2 in der Fassung gemäss OEPP/EPPO Bulletin 40, Seiten 335–344. Sie kann bei der European and Mediterranean Plant Protection Organisation unter www.eppo.org &gt; standards &gt; list of EPPO standards &gt; safe use of biological controls (PM6) &gt; «Import and release of non-indigenous biological control agents» abgerufen werden.
+[^21-4]: Leitlinie PM6/2 in der Fassung gemäss OEPP/EPPO Bulletin 40, Seiten 335–344. Sie kann bei der European and Mediterranean Plant Protection Organisation unter: [www.eppo.org](http://www.eppo.org) &gt; standards &gt; list of EPPO standards &gt; safe use of biological controls (PM6) &gt; «Import and release of non-indigenous biological control agents» abgerufen werden.
 [^21-5]: Eingefügt durch Ziff. I der V vom 23. Mai 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
 
 #### Art. 22
@@ -1469,17 +1469,17 @@ Die Kennzeichnung muss in mindestens einer Amtssprache des Abgabeortes erfolgen.
 
 **Aufzeichnungen**
 
-<sup>1</sup> Herstellerinnen, Lieferantinnen, Händlerinnen, Importeurinnen und Exporteurinnen von Pflanzenschutzmitteln und Saatgut müssen über mindestens fünf Jahre Aufzeichnungen über die Pflanzenschutzmittel und das mit Pflanzenschutzmitteln behandelte Saatgut führen, die sie herstellen, einführen, ausführen, lagern, verwenden oder in Verkehr bringen. Das Inverkehrbringen ist nach der Verordnung vom 23. Oktober 2013[^62-1] über Informationssysteme im Bereich der Landwirtschaft (ISLV) mitzuteilen.[^62-2]
+<sup>1</sup> Herstellerinnen, Lieferantinnen, Händlerinnen, Importeurinnen und Exporteurinnen von Pflanzenschutzmitteln und Saatgut müssen über mindestens fünf Jahre Aufzeichnungen über die Pflanzenschutzmittel und das mit Pflanzenschutzmitteln behandelte Saatgut führen, die sie herstellen, einführen, ausführen, lagern, verwenden oder in Verkehr bringen. Das Inverkehrbringen sowie die Einfuhr zur eigenen Verwendung von Pflanzenschutzmitteln mit Wirkstoffen nach Anhang 1 Teile A und B ist nach der Verordnung vom 23. Oktober 2013[^62-1] über Informationssysteme im Bereich der Landwirtschaft (ISLV) mitzuteilen. Werden Pflanzenschutzmittel von Unternehmen, Verwender oder Verwenderinnen oder anderen Personen eingeführt, so überträgt sich die Mitteilungspflicht auf die Importeurin.[^62-2]
 
-<sup>1bis</sup> Berufliche Verwender und Verwenderinnen von Pflanzenschutzmitteln müssen die Daten zu jeder Verwendung des Pflanzenschutzmittels mit dessen Bezeichnung, dem Zeitpunkt der Verwendung, der verwendeten Menge, der behandelten Fläche und der Nutzpflanze nach der ISLV mitteilen.[^62-3]
+<sup>1bis</sup> Berufliche Verwender und Verwenderinnen von Pflanzenschutzmitteln mit Wirkstoffen nach Anhang 1 Teile A und B müssen die Daten zu jeder Verwendung des Pflanzenschutzmittels, einschliesslich der Verwendung auf Flächen von Schweizer Landwirtschaftsbetrieben im Ausland, mit der Bezeichnung des Pflanzenschutzmittels, dem Zeitpunkt der Verwendung, der verwendeten Menge, der behandelten Fläche und der Nutzpflanze nach der ISLV mitteilen.[^62-3]
 
 <sup>2</sup> Bewilligungsinhaberinnen und Importeurinnen von Pflanzenschutzmitteln, die in der Liste nach Artikel 36 aufgeführt und zum Weiterverkauf bestimmt sind, müssen dem Bundesamt für Landwirtschaft (BLW) jährlich alle Daten über das Umsatzvolumen mit Pflanzenschutzmitteln übermitteln.[^62-4]
 
 <sup>3</sup> Die Daten nach Absatz 2 müssen mit den im Rahmen internationaler Informationssysteme erforderlichen Daten, insbesondere jenen der EU, vergleichbar sein.
 
 [^62-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^62-2]: Fassung gemäss Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
-[^62-3]: Eingefügt durch Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-2]: Fassung gemäss Anhang Ziff. 1 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^62-3]: Eingefügt durch Anhang Ziff. 1 der V vom 13. April 2022 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)). Fassung gemäss Anhang Ziff. 1 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 [^62-4]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 63

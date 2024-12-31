@@ -4,11 +4,11 @@ title: "Ordinanza del 12 maggio 2010 concernente l'immissione sul mercato di pro
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: it
-version: 2024-09-01
+version: 2025-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240901/it"
 
 (Ordinanza sui prodotti fitosanitari, OPF)
 
-del 12 maggio 2010 (Stato 1° settembre 2024)
+del 12 maggio 2010 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1464,17 +1464,17 @@ L’etichetta deve essere redatta in almeno una lingua ufficiale del luogo di fo
 
 **Registrazione dei dati**
 
-<sup>1</sup> I fabbricanti, i fornitori, i distributori, gli importatori e gli esportatori di prodotti fitosanitari e sementi tengono, per almeno cinque anni, registri sui prodotti fitosanitari e sulle sementi trattate con prodotti fitosanitari che fabbricano, importano, esportano, immagazzinano, utilizzano o immettono sul mercato. L’immissione sul mercato deve essere comunicata in virtù dell’ordinanza del 23 ottobre 2013[^62-1] sui sistemi d’informazione nel campo dell’agricoltura (OSIAgr). [^62-2]
+<sup>1</sup> I fabbricanti, i fornitori, i distributori, gli importatori e gli esportatori di prodotti fitosanitari e sementi tengono, per almeno cinque anni, registri sui prodotti fitosanitari e sulle sementi trattate con prodotti fitosanitari che fabbricano, importano, esportano, immagazzinano, utilizzano o immettono sul mercato. L’immissione sul mercato e l’importazione per uso proprio di prodotti fitosanitari contenenti principi attivi di cui all’allegato 1 parti A e B devono essere comunicate secondo l’ordinanza del 23 ottobre 2013[^62-1] sui sistemi d’informazione nel campo dell’agricoltura (OSIAgr). Se i prodotti fitosanitari sono importati da imprese, utilizzatori o altre persone, l’obbligo di comunicare ricade sull’importatore.[^62-2]
 
-<sup>1bis</sup> Gli utilizzatori professionali di prodotti fitosanitari comunicano i dati su ogni utilizzo del prodotto fitosanitario con la relativa denominazione, la data, la quantità utilizzata, la superficie trattata e la pianta utile ai sensi dell’OSIAgr.[^62-3]
+<sup>1bis</sup> Gli utilizzatori professionali di prodotti fitosanitari contenenti principi attivi di cui all’allegato 1 parti A e B comunicano secondo l’OSIAgr i dati su ogni utilizzo del prodotto fitosanitario, incluso l’utilizzo su superfici ubicate all’estero di aziende agricole svizzere, con la denominazione del prodotto, la data dell’utilizzo, la quantità utilizzata, nonché la superficie e la pianta utile trattate.[^62-3]
 
 <sup>2</sup> I titolari di autorizzazioni e gli importatori di prodotti fitosanitari che figurano nell’elenco di cui all’articolo 36 e che sono destinati a essere rivenduti comunicano annualmente all’Ufficio federale dell’agricoltura (UFAG) tutti i dati necessari concernenti il volume delle vendite di prodotti fitosanitari.[^62-4]
 
 <sup>3</sup> I dati di cui al capoverso 2 devono essere comparabili a quelli richiesti nell’ambito di sistemi internazionali d’informazioni, in particolare a quelli dell’UE.
 
 [^62-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^62-2]: Nuovo testo giusta l’all. n. 1 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
-[^62-3]: Introdotto dall’all. n. 1 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-2]: Nuovo testo giusta l’all n. 1 dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^62-3]: Introdotto dall’all. n. 1 dell’O del 13 apr. 2022 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)). Nuovo testo giusta l’all n. 1 dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 [^62-4]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 63

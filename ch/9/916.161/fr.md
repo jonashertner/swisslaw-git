@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2024-09-01
+version: 2025-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240901/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (État le 1<sup>er</sup> septembre 2024)
+du 12 mai 2010 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1467,17 +1467,17 @@ L’étiquetage doit être formulé dans au moins une langue officielle du lieu 
 
 **Tenue des registres**
 
-<sup>1</sup> Les producteurs, fournisseurs, distributeurs, importateurs et exportateurs de produits phytosanitaires et de semences tiennent des registres des produits phytosanitaires et des semences traitées avec des produits phytosanitaires qu’ils produisent, importent, exportent, stockent, utilisent ou mettent sur le marché pendant cinq ans au moins. La mise sur le marché doit être communiquée conformément à l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture (OSIAgr)[^62-1].[^62-2]
+<sup>1</sup> Les producteurs, fournisseurs, distributeurs, importateurs et exportateurs de produits phytosanitaires et de semences tiennent des registres des produits phytosanitaires et des semences traitées avec des produits phytosanitaires qu’ils produisent, importent, exportent, stockent, utilisent ou mettent sur le marché pendant cinq ans au moins. La mise sur le marché ainsi que l’importation, pour un usage personnel, des produits phytosanitaires contenant les substances actives énumérées à l’annexe 1, parties A et B, doivent être communiquées conformément à l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture (OSIAgr)[^62-1]. Si les produits phytosanitaires sont importés, que ce soit par des entreprises, par des utilisateurs ou par d’autres personnes, c’est l’importateur qui est assujetti à l’obligation de communiquer.[^62-2]
 
-<sup>1bis</sup> Les utilisateurs professionnels de produits phytosanitaires doivent communiquer les données relatives à chaque utilisation d’un produit phytosanitaire en indiquant la dénomination du produit, le moment de l’utilisation, la quantité utilisée ainsi que la surface et la plante cultivée traitées conformément à l’OSIAgr.[^62-3]
+<sup>1bis</sup> Les utilisateurs professionnels de produits phytosanitaires contenant les substances actives énumérées à l’annexe 1, partie A et B doivent communiquer les données relatives à chaque utilisation, y compris l’utilisation sur des surfaces d’exploitations agricoles suisses à l’étranger, en indiquant la dénomination du produit, le moment de l’utilisation, la quantité utilisée ainsi que la surface et la plante cultivée traitées conformément à l’OSIAgr.[^62-3]
 
 <sup>2</sup> Les titulaires d’autorisations et les personnes qui importent les produits figurant dans la liste visée à l’art. 36 en vue de leur revente communiquent annuellement à l’Office fédéral de l’agriculture (OFAG) toutes les données nécessaires concernant le volume des ventes de produits phytosanitaires.[^62-4]
 
 <sup>3</sup> Les données visées à l’al. 2 doivent être comparables à celles requises dans le cadre de systèmes internationaux d’informations notamment à ceux de l’UE (Eurostat).
 
 [^62-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^62-2]: Nouvelle teneur selon l’annexe 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
-[^62-3]: Introduit par l’annexe 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^62-3]: Introduit par l’annexe 1 de l’O du 13 avr. 2022 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 [^62-4]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 63
@@ -2819,7 +2819,7 @@ Tous les produits phytosanitaires doivent porter un étiquetage mentionnant la p
 
 - SP 1 Ne pas polluer l’eau avec le produit ou son emballage. [Ne pas nettoyer le matériel d’application près des eaux de surface. / Éviter la contamination via les systèmes d’évacuation des eaux à partir des cours de ferme ou des routes].
 
-### 2. Précautions spécifiques à prendre
+### 2 Précautions spécifiques à prendre
 
 ### 2.1 Précautions à prendre par les utilisateurs (SPo)
 
