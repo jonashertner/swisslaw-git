@@ -4,11 +4,11 @@ title: "Ordonnance du 25 juin 2008 concernant les suppléments et l'enregistreme
 short: OSL
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-521-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-521-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/fr"
 
 (Ordonnance sur le soutien du prix du lait, OSL)
 
-du 25 juin 2008 (État le 1<sup>er</sup> janvier 2024)
+du 25 juin 2008 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -67,7 +67,7 @@ Par lait commercialisé, on entend le lait qui:
 
 **Supplément versé pour le lait transformé en fromage**[^1c-1]
 
-<sup>1</sup> ...[^1c-2]
+<sup>1</sup> …[^1c-2]
 
 <sup>2</sup>
 
@@ -146,20 +146,11 @@ Le supplément de non-ensilage est versé aux producteurs de lait pour le lait d
 
 <sup>3</sup> Les demandes de versement du supplément visé à l’art. 2*a* sont établies par les producteurs de lait. Elles sont adressées au service administratif visé à l’art. 12.[^3-2]
 
-<sup>4</sup> Le producteur de lait peut autoriser l’utilisateur de lait à déposer une demande conformément à l’art. 3, al. 3.[^3-3]
-
-<sup>5</sup>
-
-Il doit annoncer au service administratif:
-
-- a. l’octroi d’une autorisation;
-- b. le numéro d’identification des personnes mandatées figurant dans la banque de données sur le lait;
-- c. le retrait de l’autorisation.[^3-4]
+<sup>4</sup> et <sup>5</sup> …[^3-3]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 [^3-2]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^3-3]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^3-4]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^3-3]: Introduits par le ch. I de l’O du 21 sept. 2018 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)). Abrogés par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
 
 #### Art. 4
 
@@ -242,20 +233,15 @@ Pour la matière première transformée dans l’entreprise, il faut indiquer:
 - b. le type de produits fabriqués;
 - c. la quantité de produits fabriqués.
 
-<sup>3</sup>
+<sup>3</sup> Les utilisateurs de lait communiquent chaque mois au service administratif, au plus tard le 10 du mois suivant, comment ils ont mis en valeur les matières premières. Les données sont communiquées conformément aux prescriptions du service administratif.[^9-2]
 
-Les utilisateurs de lait communiquent au service administratif:
-
-- a. chaque mois, au plus tard le 10 du mois suivant: comment ils ont mis en valeur les matières premières, en faisant la distinction entre exploitation et exploitation d’estivage;
-- b. ...[^9-2]
-
-<sup>3bis</sup> Les données visées à l’al. 3 sont communiquées conformément aux prescriptions du service administratif.[^9-3]
+<sup>3bis</sup> …[^9-3]
 
 <sup>4</sup> Les données relatives à la mise en valeur du lait dans les exploitations d’estivage sont communiquées au service administratif au terme de la période d’estivage, au plus tard le 15 décembre.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^9-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024, let. b en vigueur le 1<sup>er</sup> janv. 2025 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^9-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
+[^9-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)). Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
 
 #### Art. 10
 
@@ -263,12 +249,12 @@ Les utilisateurs de lait communiquent au service administratif:
 
 <sup>1</sup> Les vendeurs sans intermédiaire enregistrent chaque jour, en kilogrammes, la quantité de lait de vache, de brebis et de chèvre écoulée par la vente directe et en communiquent tous les mois la quantité et l’utilisation au service administratif, au plus tard le 10 du mois suivant.[^10-1]
 
-<sup>2</sup> Ils peuvent communiquer la quantité mensuelle de lait et sa mise en valeur tous les six mois, respectivement le 10 mai et le 10 novembre au plus tard, lorsque moins de 600 kg de lait sont commercialisés par mois.[^10-2]
+<sup>2</sup> Ils peuvent communiquer la quantité de lait et sa mise en valeur une fois par année, au plus tard le 10 novembre, lorsque moins de 2000 kg de lait sont commercialisés chaque mois.[^10-2]
 
 <sup>3</sup> Les exploitations d’estivage pratiquant la vente directe doivent communiquer les données relatives à la mise en valeur visées à l’art. 9 et le lait vendu directement en tant que lait entier.[^10-3]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
 [^10-3]: Introduit par le ch. I de l’O du 6 mai 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
 
 #### Art. 11
@@ -313,7 +299,7 @@ Le service a notamment les tâches suivantes:
 
 <sup>2</sup> La convention de prestations est adjugée conformément à la loi fédérale du 16 décembre 1994 sur les marchés publics[^13-1].
 
-[^13-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^13-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)ch. II 1, [7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 
 ## Section 5 Dispositions finales
 
@@ -323,7 +309,7 @@ Le service a notamment les tâches suivantes:
 
 <sup>1</sup> L’OFAG est chargé de l’exécution de la présente ordonnance dans la mesure où cette tâche n’incombe pas au service administratif.
 
-<sup>2</sup> Il effectue des inspections par sondage, ouvre une enquête s’il soupçonne des infractions et arrête les mesures administratives qui s'imposent.[^14-1]
+<sup>2</sup> Il effectue des inspections par sondage, ouvre une enquête s’il soupçonne des infractions et arrête les mesures administratives qui s’imposent.[^14-1]
 
 <sup>3</sup> …[^14-2]
 

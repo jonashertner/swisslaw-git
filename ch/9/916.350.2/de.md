@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Juni 2008 über die Zulagen und die Datenerfassung im
 short: MSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-521-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2008-521-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/de"
 
 (Milchpreisstützungsverordnung, MSV)
 
-vom 25. Juni 2008 (Stand am 1. Januar 2024)
+vom 25. Juni 2008 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -148,20 +148,11 @@ Für Kuh-, Schaf- und Ziegenmilch, die zu Käse verarbeitet wird und aus einer P
 
 <sup>3</sup> Gesuche um Ausrichtung der Zulage nach Artikel 2*a* sind von den Milchproduzenten und Milchproduzentinnen zu stellen. Sie müssen bei der Administrationsstelle nach Artikel 12 eingereicht werden.[^3-2]
 
-<sup>4</sup> Der Milchproduzent oder die Milchproduzentin kann den Milchverwerter oder die Milchverwerterin ermächtigen, ein Gesuch nach Artikel 3 Absatz 3 zu stellen.[^3-3]
-
-<sup>5</sup>
-
-Er oder sie muss der Administrationsstelle melden:
-
-- a. die Erteilung einer Ermächtigung;
-- b. die in der Milchdatenbank vorhandene Identifikationsnummer der beauftragten Personen;
-- c. den Entzug einer Ermächtigung.[^3-4]
+<sup>4</sup> und <sup>5</sup> …[^3-3]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 [^3-2]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^3-3]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^3-4]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 (AS **20****24** 683).
 
 #### Art. 4
 
@@ -244,20 +235,15 @@ Für die im Betrieb verarbeitete Rohstoffmenge sind anzugeben:
 - b. die Art der hergestellten Produkte;
 - c. die Menge der hergestellten Produkte.
 
-<sup>3</sup>
+<sup>3</sup> Die Milchverwerter und Milchverwerterinnen müssen der Administrationsstelle monatlich bis zum 10. Tag des folgenden Monats melden, wie sie die Rohstoffe verwertet haben. Die Meldungen müssen sich nach den Vorgaben der Administrationsstelle richten.[^9-2]
 
-Die Milchverwerter und Milchverwerterinnen müssen der Administrationsstelle melden:
-
-- a. monatlich bis zum 10. Tag des folgenden Monats: wie sie die Rohstoffe verwertet haben, getrennt nach Betrieb und Sömmerungsbetrieb;
-- b. ….[^9-2]
-
-<sup>3bis</sup> Die Meldungen nach Absatz 3 müssen sich nach den Vorgaben der Administrationsstelle richten.[^9-3]
+<sup>3bis</sup> …[^9-3]
 
 <sup>4</sup> Die Verwertungsdaten von Sömmerungsbetrieben müssen der Administrationsstelle nach Ablauf der Sömmerungsperiode, spätestens aber bis zum 15. Dezember, gemeldet werden.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^9-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)). Bst. b tritt am 1. Jan. 2025 in Kraft.
-[^9-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
+[^9-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
 
 #### Art. 10
 
@@ -265,12 +251,12 @@ Die Milchverwerter und Milchverwerterinnen müssen der Administrationsstelle mel
 
 <sup>1</sup> Die Direktvermarkter und Direktvermarkterinnen müssen die Mengen an Kuh-, Schaf- und Ziegenmilch, die sie für die Direktvermarktung verwenden, täglich in Kilogramm aufzeichnen und die Menge pro Monat und deren Verwertung bis zum 10. Tag des folgenden Monats der Administrationsstelle melden.[^10-1]
 
-<sup>2</sup> Sie können die Milchmenge und deren Verwertung halbjährlich, jeweils bis zum 10. Mai und bis zum 10. November, melden, wenn während eines Monats weniger als 600 kg vermarktet werden.[^10-2]
+<sup>2</sup> Sie können die Milchmenge und deren Verwertung jährlich jeweils bis zum 10. November melden, wenn jeden Monat weniger als 2000 kg vermarktet werden.[^10-2]
 
 <sup>3</sup> Sömmerungsbetriebe mit Direktvermarktung müssen die Verwertungsdaten nach Artikel 9 sowie die als Vollmilch direkt verkaufte Milch melden.[^10-3]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
 [^10-3]: Eingefügt durch Ziff. I der V vom 6. Mai 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
 
 #### Art. 11
@@ -315,7 +301,7 @@ Die Administrationsstelle hat namentlich folgende Aufgaben:
 
 <sup>2</sup> Die Leistungsvereinbarung wird nach dem Bundesgesetz vom 16. Dezember 1994[^13-1] über das öffentliche Beschaffungswesen vergeben.
 
-[^13-1]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^13-1]: [AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -338,7 +324,7 @@ Die Administrationsstelle hat namentlich folgende Aufgaben:
 
 Die folgenden Verordnungen werden aufgehoben:
 
-- 1\. Verordnung vom 7. Dezember 1998[^15-1] über Zulagen und Beihilfen im Milchbereich,
+- 1\. Verordnung vom 7. Dezember 1998[^15-1] über Zulagen und Beihilfen im Milchbereich;
 - 2\. Verordnung des EVD vom 7. Dezember 1998[^15-2] über die Höhe der Beihilfen für Milchprodukte und Vorschriften für die Einfuhr von Vollmilchpulver.
 
 [^15-1]: [[AS 1999 1226](https://fedlex.data.admin.ch/eli/oc/1999/165); [2000 406](https://fedlex.data.admin.ch/eli/oc/2000/87); [2001 842](https://fedlex.data.admin.ch/eli/oc/2001/116); [2002 213](https://fedlex.data.admin.ch/eli/oc/2002/43), [3050](https://fedlex.data.admin.ch/eli/oc/2002/438); [2003 5491](https://fedlex.data.admin.ch/eli/oc/2003/792); [2005 2545](https://fedlex.data.admin.ch/eli/oc/2005/440); [2006 893](https://fedlex.data.admin.ch/eli/oc/2006/158); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 57]

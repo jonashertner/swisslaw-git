@@ -4,11 +4,11 @@ title: "Ordinanza del 25 giugno 2008 concernente i supplementi e la registrazion
 short: OSL
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-521-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-521-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/it"
 
 (Ordinanza sul sostegno del prezzo del latte, OSL)
 
-del 25 giugno 2008 (Stato 1° gennaio 2024)
+del 25 giugno 2008 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -26,13 +26,13 @@ visti gli articoli 28 capoverso 2, 38 capoverso 2, 39 capoverso 2, 40 capoverso 
 ordina:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
 ## Sezione 1: Definizioni
 
 [^sec1-1]
 
-[^sec1-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^sec1-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
 #### Art. 1
 
@@ -61,7 +61,7 @@ Per latte commerciale s’intende il latte che:
 
 [^sec1a-1]
 
-[^sec1a-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^sec1a-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
 #### Art. 1c
 
@@ -87,9 +87,9 @@ Per il latte vaccino, di pecora e di capra ai produttori è versato il supplemen
 
 <sup>4</sup> Se in un’azienda di trasformazione il tenore in grasso dell’intera quantità di latte è corretto a un determinato valore mediante centrifugazione prima della caseificazione, il supplemento è moltiplicato in funzione del tenore in grasso per il coefficiente che figura nell’allegato.
 
-[^1c-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^1c-2]: Abrogato dal n. I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^1c-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^1c-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^1c-2]: Abrogato dalla cifra I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^1c-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 [^1c-4]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
@@ -115,10 +115,10 @@ Per il latte che viene trasformato in formaggio proveniente da vacche, pecore e 
 
 <sup>3</sup> Il supplemento è versato unicamente per il latte trasformato in formaggio senza additivi conformemente alla legislazione sulle derrate alimentari ad eccezione di colture, presame e sale e senza metodi di trattamento come la pastorizzazione, la bactofugazione o altre procedure aventi l’effetto equivalente.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 [^2-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^2-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
 
 #### Art. 2a
 
@@ -128,11 +128,11 @@ Per il latte che viene trasformato in formaggio proveniente da vacche, pecore e 
 
 <sup>2</sup> L’UFAG può adeguare l’importo del supplemento tenendo conto dell’evoluzione della quantità e nel quadro dei fondi approvati.
 
-[^2a-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 [^2a-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^2a-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
 [^2a-4]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^2a-5]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^2a-5]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 ## Sezione 2: Procedura
 
@@ -144,9 +144,7 @@ Per il latte che viene trasformato in formaggio proveniente da vacche, pecore e 
 
 <sup>2</sup> Le domande delle aziende d’estivazione devono essere presentate al servizio d’amministrazione almeno una volta all’anno.
 
-<sup>3</sup> Le domande di versamento del supplemento di cui all’articolo 2*a* devono essere inoltrate dal produttore. Esse devono essere presentate al servizio d’amministrazione secondo l’articolo 12.[^3-2]
-
-<sup>4</sup> I produttori possono autorizzare i valorizzatori a inoltrare la domanda di cui all’articolo 3 capoverso 3.[^3-3]
+<sup>3</sup> e <sup>4</sup> ...[^3-2]
 
 <sup>5</sup>
 
@@ -154,12 +152,11 @@ Devono comunicare al servizio d’amministrazione:
 
 - a. il rilascio di un’autorizzazione;
 - b. il numero d’identificazione delle persone incaricate contenuto nella banca dati sul latte;
-- c. la revoca di un’autorizzazione.[^3-4]
+- c. la revoca di un’autorizzazione.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^3-2]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^3-3]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^3-4]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^3-2]: Introdotti dalla cifra I dell’O del 21 set. 2018 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)). Abrogati dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
+[^3-3]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
 #### Art. 4
 
@@ -167,7 +164,7 @@ Devono comunicare al servizio d’amministrazione:
 
 I supplementi sono versati per il periodo dal 1° novembre dell’anno precedente al 31 ottobre dell’anno in corso.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
 
 #### Art. 4a
 
@@ -177,8 +174,8 @@ I supplementi sono versati per il periodo dal 1° novembre dell’anno precedent
 
 <sup>2</sup> ... [^4a-2]
 
-[^4a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
-[^4a-2]: Abrogato dal n. I dell’O del 21 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
+[^4a-2]: Abrogato dalla cifra I dell’O del 21 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
 #### Art. 5
 
@@ -188,7 +185,7 @@ I supplementi sono versati per il periodo dal 1° novembre dell’anno precedent
 
 <sup>2</sup> L’UFAG versa i supplementi.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
 
 #### Art. 6
 
@@ -199,7 +196,7 @@ Il valorizzatore è tenuto in virtù degli articoli 1*c* e 2:
 - a. a trasmettere i supplementi entro il termine di un mese ai produttori dai quali ha acquistato il latte trasformato in formaggio;
 - b. a registrare separatamente i supplementi nel conteggio concernente l’acquisto di latte e a tenere la contabilità in modo che risulti visibile quali contributi per i supplementi egli ha ricevuto e pagato.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
 ## Sezione 3: Registrazione, notifica e conservazione dei dati concernenti il latte
 
@@ -207,7 +204,7 @@ Il valorizzatore è tenuto in virtù degli articoli 1*c* e 2:
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I dell’O del 29 ott. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4049](https://fedlex.data.admin.ch/eli/oc/2014/678)).
+[^7-1]: Abrogato dalla cifra I dell’O del 29 ott. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4049](https://fedlex.data.admin.ch/eli/oc/2014/678)).
 
 #### Art. 8
 
@@ -219,8 +216,8 @@ Il valorizzatore è tenuto in virtù degli articoli 1*c* e 2:
 
 <sup>3</sup> I dati relativi alla produzione forniti dalle aziende d’estivazione devono essere notificati al servizio d’amministrazione al termine del periodo di estivazione, ma al più tardi il 15 dicembre.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 #### Art. 9
 
@@ -242,20 +239,15 @@ Per la quantità di materie prime trasformate nell’azienda occorre indicare:
 - b. il genere di prodotti fabbricati;
 - c. la quantità di prodotti fabbricati.
 
-<sup>3</sup>
+<sup>3</sup> Il valorizzatore deve notificare al servizio d’amministrazione mensilmente, entro il 10° giorno del mese successivo, in quale modo ha valorizzato le materie prime. Le notifiche devono essere conformi alle prescrizioni del servizio d’amministrazione.[^9-2]
 
-Il valorizzatore deve notificare al servizio d’amministrazione:
-
-- a. mensilmente entro il 10° giorno del mese successivo: in quale modo ha valorizzato le materie prime, separatamente per ogni azienda e azienda d’estivazione;
-- b. ... .[^9-2]
-
-<sup>3bis</sup> Le notifiche di cui al capoverso 3 devono essere conformi alle prescrizioni del servizio d’amministrazione.[^9-3]
+<sup>3bis</sup> ...[^9-3]
 
 <sup>4</sup> I dati relativi alla valorizzazione forniti dalle aziende d’estivazione devono essere notificati al servizio d’amministrazione al termine del periodo di estivazione, ma al più tardi il 15 dicembre.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024, la lett. b dal 1° gen. 2025 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^9-3]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
+[^9-3]: Introdotto dalla cifra I dell’O del 1° nov. 2023 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)). Abrogati dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
 
 #### Art. 10
 
@@ -263,13 +255,13 @@ Il valorizzatore deve notificare al servizio d’amministrazione:
 
 <sup>1</sup> Il commerciante diretto deve registrare giornalmente in chilogrammi la quantità di latte vaccino, di pecora e di capra che impiega per la commercializzazione diretta e notificare al servizio d’amministrazione entro il 10° giorno del mese successivo la quantità mensile e la relativa valorizzazione.[^10-1]
 
-<sup>2</sup> Può notificare la quantità di latte e la relativa valorizzazione semestralmente, entro il 10 maggio ed entro il 10 novembre, se ha commercializzato meno di 600 kg di latte al mese.[^10-2]
+<sup>2</sup> Può notificare la quantità di latte e la relativa valorizzazione annualmente, entro il 10 novembre, se ha commercializzato meno di 2000 kg di latte al mese.[^10-2]
 
 <sup>3</sup> Le aziende di estivazione che praticano la commercializzazione diretta devono notificare i dati relativi alla valorizzazione menzionati all’articolo 9 e il latte venduto direttamente come latte intero.[^10-3]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^10-3]: Introdotto dal n. I dell’O del 6 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 683](https://fedlex.data.admin.ch/eli/oc/2024/683)).
+[^10-3]: Introdotto dalla cifra I dell’O del 6 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
 
 #### Art. 11
 
@@ -277,7 +269,7 @@ Il valorizzatore deve notificare al servizio d’amministrazione:
 
 I valorizzatori, i venditori diretti e i produttori devono conservare per almeno cinque anni le registrazioni, i rapporti e i giustificativi inerenti alla quantità di latte vaccino, di pecora e di capra trasformato in formaggio e alla quantità di latte commerciale vaccino che sono necessari all’ispezione.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 ## Sezione 4: Servizio d’amministrazione
 
@@ -301,9 +293,9 @@ Il servizio d’amministrazione ha, in particolare, i compiti seguenti:
 
 <sup>3</sup> Il servizio d’amministrazione sottostà alla sorveglianza dell’UFAG.
 
-[^12-1]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4049](https://fedlex.data.admin.ch/eli/oc/2014/678)).
-[^12-3]: Introdotta dal n. I dell’O del 6 mag. 2009 ([RU 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)). Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4049](https://fedlex.data.admin.ch/eli/oc/2014/678)).
+[^12-1]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4049](https://fedlex.data.admin.ch/eli/oc/2014/678)).
+[^12-3]: Introdotta dalla cifra I dell’O del 6 mag. 2009 ([RU 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)). Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4049](https://fedlex.data.admin.ch/eli/oc/2014/678)).
 
 #### Art. 13
 
@@ -313,7 +305,7 @@ Il servizio d’amministrazione ha, in particolare, i compiti seguenti:
 
 <sup>2</sup> L’accordo di prestazione è assegnato ai sensi della legge federale del 16 dicembre 1994[^13-1] sugli acquisti pubblici.
 
-[^13-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^13-1]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. cifra II n. 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 cifra I. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -327,8 +319,8 @@ Il servizio d’amministrazione ha, in particolare, i compiti seguenti:
 
 <sup>3</sup> ...[^14-2]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 6 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
-[^14-2]: Introdotto dal n. I dell’O del 25 mag. 2011 ([RU 2011 2411](https://fedlex.data.admin.ch/eli/oc/2011/351)). Abrogato dal n. I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
+[^14-2]: Introdotto dalla cifra I dell’O del 25 mag. 2011 ([RU 2011 2411](https://fedlex.data.admin.ch/eli/oc/2011/351)). Abrogato dalla cifra I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
 
 #### Art. 15
 
@@ -339,8 +331,8 @@ Le seguenti ordinanze sono abrogate:
 - 1\. ordinanza del 7 dicembre 1998[^15-1] concernente i supplementi e gli aiuti nel settore lattiero;
 - 2\. ordinanza del DFE del 7 dicembre 1998[^15-2] concernente l’importo degli aiuti per i latticini e le prescrizioni relative all’importazione di latte intero in polvere.
 
-[^15-1]: [[RU 1999 1226](https://fedlex.data.admin.ch/eli/oc/1999/165), [2000 406](https://fedlex.data.admin.ch/eli/oc/2000/87), [2001 842](https://fedlex.data.admin.ch/eli/oc/2001/116), [2002 213](https://fedlex.data.admin.ch/eli/oc/2002/43)[3050](https://fedlex.data.admin.ch/eli/oc/2002/438), [2003 5491](https://fedlex.data.admin.ch/eli/oc/2003/792), [2005 2545](https://fedlex.data.admin.ch/eli/oc/2005/440), [2006 893](https://fedlex.data.admin.ch/eli/oc/2006/158), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 57]
-[^15-2]: [[RU 1999 1220](https://fedlex.data.admin.ch/eli/oc/1999/164), [2002 1100](https://fedlex.data.admin.ch/eli/oc/2002/177), [2003 5495](https://fedlex.data.admin.ch/eli/oc/2003/793), [2004 4979](https://fedlex.data.admin.ch/eli/oc/2004/754), [2007 6433](https://fedlex.data.admin.ch/eli/oc/2007/841)]
+[^15-1]: [[RU 1999 1226](https://fedlex.data.admin.ch/eli/oc/1999/165); [2000 406](https://fedlex.data.admin.ch/eli/oc/2000/87); [2001 842](https://fedlex.data.admin.ch/eli/oc/2001/116); [2002 213](https://fedlex.data.admin.ch/eli/oc/2002/43), [3050](https://fedlex.data.admin.ch/eli/oc/2002/438); [2003 5491](https://fedlex.data.admin.ch/eli/oc/2003/792); [2005 2545](https://fedlex.data.admin.ch/eli/oc/2005/440); [2006 893](https://fedlex.data.admin.ch/eli/oc/2006/158); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 57]
+[^15-2]: [[RU 1999 1220](https://fedlex.data.admin.ch/eli/oc/1999/164); [2002 1100](https://fedlex.data.admin.ch/eli/oc/2002/177); [2003 5495](https://fedlex.data.admin.ch/eli/oc/2003/793); [2004 4979](https://fedlex.data.admin.ch/eli/oc/2004/754); [2007 6433](https://fedlex.data.admin.ch/eli/oc/2007/841)]
 
 #### Art. 16
 
@@ -356,7 +348,7 @@ Allegato[^t-1]
 
 ## Coefficienti di conversione per i supplementi a favore del latte il cui tenore in grasso è stato corretto a un determinato valore mediante centrifugazione
 
-[^t-1]: Aggiornato dai n. II delle O del 23 ott. 2013 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)) e del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^t-1]: Aggiornato dalle cifre II delle O del 23 ott. 2013 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)) e del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
 <table>
 <tr><td>Tenore in grasso in grammi di grasso per chilogrammo di latte</td><td>Coefficiente</td></tr>
