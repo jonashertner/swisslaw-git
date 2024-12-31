@@ -4,13 +4,13 @@ number: "111.1"
 title: Verfassung des Kantons Solothurn
 short: KV
 language: de
-version: 2022-08-01
-valid_until: 2024-12-31
-version_adopted: 2022-05-15
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2024-09-22
 adopted: 1986-06-08
 in_force: 1988-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/111.1"
-pdf: "https://bgs.so.ch/api/de/versions/5327/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5327/pdf_file"
 
 (KV)
 
-Vom 08.06.1986 (Stand 01.08.2022)
+Vom 08.06.1986 (Stand 01.01.2025)
 
 Das Volk des Kantons Solothurn,
 
@@ -1031,6 +1031,8 @@ gibt sich folgende Verfassung:
 
 <sup>3</sup> Die Versicherung der Gebäude gegen Feuer und Elementarschäden ist obligatorisch und Sache der Solothurnischen Gebäudeversicherung. Der Kanton kann weitere Sachversicherungen durch Gesetz obligatorisch erklären.
 
+<sup>4</sup> Die Solothurnische Gebäudeversicherung kann im Gesetz zum Erlass von rechtsetzenden Reglementen ermächtigt werden, sofern die Regelung technischen Charakter hat oder rasch wechselnden Verhältnissen unterworfen ist. Sie legt im Rahmen des Gesetzes die von ihr zu erhebenden Prämien und Beiträge fest. Artikel 79 Absatz 3 gilt sinngemäss.
+
 ### 6.3. Gesundheit
 
 #### Art. 100
@@ -1524,6 +1526,8 @@ Gewährleistung der Bundesversammlung der Änderungen vom:
 
 \8. März 2015 am 29. Februar 2016 (SR), 3. März 2016 (NR);
 
-\15. Mai 2022 am 27. Februar 2023 (SR), 6. März 2023 (NR).
+\15. Mai 2022 am 27. Februar 2023 (SR), 6. März 2023 (NR);
+
+\22. September 2024 am 15. September 2025 (SR), 22. September 2025 (NR).
 
 GS 90, 453
