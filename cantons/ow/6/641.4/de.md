@@ -4,13 +4,13 @@ number: "641.4"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-26
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-05-23
 adopted: 1994-10-30
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.4"
-pdf: "http://gdb.ow.ch/api/de/versions/1836/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1904/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1836/pdf_file"
 
 (StG)
 
-vom 30.10.1994 (Stand 01.01.2024)
+vom 30.10.1994 (Stand 01.01.2025)
 
 Das Volk des Kantons Obwalden erlässt,
 
@@ -839,7 +839,7 @@ als Gesetz:
 
 <sup>2</sup> Der Regierungsrat erlässt die für eine gleichmässige Bewertung von nichtlandwirtschaftlichen Grundstücken notwendigen Ausführungsbestimmungen. Es kann eine schematische, formelmässige Bewertung vorgesehen werden, wobei jedoch den Qualitätsmerkmalen der Grundstücke, die im Falle der Veräusserung auch den Kaufpreis massgeblich beeinflussen würden, angemessen Rechnung zu tragen ist. Die Formel ist so zu wählen, dass die am oberen Rand der Bandbreite liegenden Schätzungen nicht über 90 Prozent des effektiven Verkehrswerts liegen.
 
-<sup>3</sup> Führt in Einzelfällen die formelmässige Bewertung dennoch zu einem höheren Steuerwert, ist eine individuelle Schätzung vorzunehmen.
+<sup>3</sup> Entspricht der Steuerwert nicht den tatsächlichen Verhältnissen, kann er mittels individueller Schätzung nach anerkannten Grundsätzen der Liegenschaftenschätzung ermittelt werden.
 
 <sup>4–5</sup> …
 
@@ -852,7 +852,7 @@ als Gesetz:
 <sup>2</sup> Der Netto-Steuerwert dient der Berechnung der:
 
 - a. steuerbaren Vermögenswerte nichtlandwirtschaftlicher Grundstücke sowie landwirtschaftlicher Grundstücke gemäss Art. 47 Abs. 3 und 4 dieses Gesetzes;
-- b. Eigenmietwerte der Gebäude auf solchen Grundstücken;
+- b. …
 - c. Minimalsteuer auf nichtlandwirtschaftlichen Grundstücken und Grundstücken gemäss Art. 47 Abs. 3 dieses Gesetzes von natürlichen und juristischen Personen.
 
 #### Art. 47
@@ -4201,6 +4201,8 @@ geändert durch
 
 \- Nachtrag vom 3. Dezember 2020 (OGS 2020, 51), Botschaft und Vorlage des Regierungsrats vom 3. Juli 2020, Kantonsratssitzungen vom 22. Oktober und 3. Dezember 2020 (22.20.06), in Kraft seit 1. Januar 2021 (OGS 2021, 6),
 
-\- Nachtrag vom 26. Oktober 2023 (OGS 2023, 29), Botschaft und Vorlage des Regierungsrats vom 2. Mai 2023, Kantonsratssitzungen vom 14. September und 26. Oktober 2023 (22.23.03), in Kraft seit 1. Januar 2024 (OGS 2023, 35)
+\- Nachtrag vom 26. Oktober 2023 (OGS 2023, 29), Botschaft und Vorlage des Regierungsrats vom 2. Mai 2023, Kantonsratssitzungen vom 14. September und 26. Oktober 2023 (22.23.03), in Kraft seit 1. Januar 2024 (OGS 2023, 35),
+
+\- Nachtrag zum Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht (Schätzungs- und Grundpfandgesetz) vom 23. Mai 2024 (OGS 2024 36), Botschaft und Vorlage des Regierungsrats vom 28. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.01), angenommen an der Volksabstimmung vom 24. November 2024 (ABl 2024, 1697), in Kraft seit 1. Januar 2025 (OGS 2024, 37)
 
 OGS 1995, 41
