@@ -4,11 +4,11 @@ title: Loi fédérale du 6 octobre 1995 sur le service civil (LSC)
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: fr
-version: 2023-01-23
+version: 2025-01-01
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20230123/fr"
 
 (LSC)
 
-du 6 octobre 1995 (État le 23 janvier 2023)
+du 6 octobre 1995 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 18, al. 1, de la constitution[^ingress-1],[^ingress-2] vu le message
 
 arrête:
 
-[^ingress-1]: [RS **1** 3, [RO 1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)]. À la disp. mentionnée correspond actuellement l’art. 59 al. 1 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3, [RO 1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)]. À la disp. mentionnée correspond actuellement l’art. 59 al. 1 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nouvelle teneur selon le ch. VII 1 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^ingress-3]: [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)
 
@@ -104,20 +104,20 @@ Même lorsque les conditions prévues à l’art. 3 ne sont pas remplies, les af
 
 - a. préservation des ressources naturelles;
 - b. entretien du paysage rural;
-- c. amélioration structurelle dans les exploitations bénéficiant à cet effet d’une aide à l’investissement.[^4-8]
+- c.[^4-8] …[^4-9]
 
 <sup>2bis</sup>
 
 Le Conseil fédéral détermine:
 
 - a. les projets et programmes pris en compte;
-- b. les cas dans lesquels des affectations sont autorisées en dehors des projets et programmes.[^4-9]
+- b. les cas dans lesquels des affectations sont autorisées en dehors des projets et programmes.[^4-10]
 
-<sup>2ter</sup> Les dispositions régissant la prévention des accidents doivent être respectées.[^4-10]
+<sup>2ter</sup> Les dispositions régissant la prévention des accidents doivent être respectées.[^4-11]
 
-<sup>3</sup> Même lorsque les conditions de l’art. 3 ne sont pas remplies, les affectations à l’aide en cas de catastrophe et de situation d’urgence sont autorisées.[^4-11]
+<sup>3</sup> Même lorsque les conditions de l’art. 3 ne sont pas remplies, les affectations à l’aide en cas de catastrophe et de situation d’urgence sont autorisées.[^4-12]
 
-<sup>4</sup> Le service civil met en œuvre, selon les besoins, des programmes prioritaires dans ses domaines d’activité et en contrôle régulièrement l’efficacité. Le Conseil fédéral peut lui donner des mandats concernant ces programmes.[^4-12]
+<sup>4</sup> Le service civil met en œuvre, selon les besoins, des programmes prioritaires dans ses domaines d’activité et en contrôle régulièrement l’efficacité. Le Conseil fédéral peut lui donner des mandats concernant ces programmes.[^4-13]
 
 [^4-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^4-2]: Introduite par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
@@ -126,11 +126,12 @@ Le Conseil fédéral détermine:
 [^4-5]: Abrogée par le ch. I de la LF du 25 sept. 2015, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^4-6]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^4-7]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-8]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-9]: Introduit par le ch. I de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-10]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^4-11]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-8]: Abrogée par l’annexe ch. 1 de la LF du 16 juin 2023, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^4-9]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-10]: Introduit par le ch. I de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-11]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^4-12]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-13]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 4a
 
@@ -176,7 +177,7 @@ L’organe fédéral chargé de l’exécution des dispositions relatives au ser
 
 <sup>3</sup> Le Conseil fédéral peut prévoir d’autres mesures propres à protéger le marché du travail.
 
-[^6-1]: Depuis le 1<sup>er</sup> janv. 2019 : Office fédéral du service civil.
+[^6-1]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
 
 #### Art. 7
 
@@ -307,7 +308,7 @@ Si l’organe d’exécution a besoin d’informations complémentaires pour ren
 <sup>5</sup> L’autorité qui a statué ou le ministère public accèdent à la requête si celle-ci ne lèse pas les droits de la personnalité de tiers et qu’elle ne compromet pas l’instruction.
 
 [^12-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^12-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^12-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^12-3]: Nouvelle teneur selon l’annexe 1 ch. 12 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 13
@@ -318,7 +319,7 @@ Si l’organe d’exécution a besoin d’informations complémentaires pour ren
 
 <sup>2</sup> L’organe d’exécution statue sur les exemptions.
 
-[^13-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^13-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 14
 
@@ -364,7 +365,7 @@ L’organe d’exécution:
 
 <sup>2</sup> L’assujettissement à la taxe est réglé par la loi fédérale du 12 juin 1959 sur la taxe d’exemption du service militaire[^15-1].
 
-[^15-1]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125). Actuellement: LF sur la taxe d’exemption de l’obligation de servir.
+[^15-1]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232). Actuellement: LF sur la taxe d’exemption de l’obligation de servir.
 
 #### Art. 15a
 
@@ -527,7 +528,7 @@ Si l’organe d’exécution a besoin d’informations complémentaires pour vé
 <sup>8</sup> L’organe d’exécution refuse d’approuver la convention d’affectation si la réputation de la personne astreinte ne permet pas l’affectation ou, en cas d’affectation à l’étranger, si la personne astreinte ne dispose pas des qualifications professionnelles exigées. Il peut refuser d’approuver la convention d’affectation s’il a des doutes légitimes sur l’aptitude de la personne astreinte à l’affectation.
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^19-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^19-3]: Nouvelle teneur selon l’annexe 1 ch. 12 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 20
@@ -598,11 +599,11 @@ En période de service civil, la personne astreinte jouit des mêmes droits cons
 
 <sup>3</sup> La loi fédérale du 24 juin 1977 sur la compétence en matière d’assistance des personnes dans le besoin[^26-3] s’applique par analogie au conseil et à l’assistance sociale des personnes effectuant leur service civil.
 
-<sup>4</sup> et <sup>5</sup> …[^26-4]
+<sup>4 et <sup>5</sup></sup> …[^26-4]
 
 [^26-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^26-2]: Abrogé par le ch. I de la LF du 25 sept. 2015, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^26-3]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^26-3]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 [^26-4]: Abrogés par le ch. I de la LF du 3 oct. 2008, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 27
@@ -760,7 +761,9 @@ L’organe d’exécution exploite un centre de formation.
 
 <sup>1</sup> La Confédération supporte les frais des cours de formation visés à l’art. 36.[^37-1]
 
-<sup>2</sup> Elle peut participer
+<sup>2</sup>
+
+Elle peut participer:
 
 - a. aux frais d’élaboration de programmes adéquats;
 - b. aux frais que l’introduction occasionne aux établissements d’affectation lorsqu’ils doivent confier cette tâche à des tiers et supporter de ce fait des frais particuliers.
@@ -776,7 +779,7 @@ L’organe d’exécution exploite un centre de formation.
 Quiconque accomplit un service civil a droit à une allocation pour perte de gain au sens de la loi du 25 septembre 1952 sur les allocations pour perte de gain[^38-2].
 
 [^38-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^38-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^38-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 39
 
@@ -793,7 +796,7 @@ La personne qui accomplit son service civil reçoit pour ses déplacements en Su
 La personne accomplissant le service civil est assurée conformément à la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^40-2]; en cas de dommages corporels, la responsabilité de la Confédération se limite exclusivement aux dispositions de cette loi.
 
 [^40-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^40-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^40-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### Section 7 Signes distinctifs des personnes accomplissant le service civil, des établissements d’affectation et des affectations en groupe
 
@@ -862,7 +865,7 @@ Il peut rejeter la demande:
 <sup>3</sup> …[^43-3]
 
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^43-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^43-3]: Abrogé par l’annexe ch. II 4 de la LF du 20 mars 2008 (Réorganisation des commissions extraparlementaires), avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6273](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 ## Chapitre 6 Statut de l’établissement d’affectation
@@ -984,7 +987,7 @@ L’établissement d’affectation initie la personne en service à sa fonction,
 
 La Confédération répond du dommage que la personne en service cause à l’établissement d’affectation dans l’accomplissement de ses obligations, pour autant que l’établissement puisse prétendre à des dommages-intérêts, en application par analogie de l’art. 321*e* du code des obligations[^52-1].
 
-[^52-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 53
 
@@ -1002,7 +1005,7 @@ La Confédération répare le dommage selon les règles de responsabilité civil
 <sup>3</sup> Si l’établissement d’affectation a versé des dommages-intérêts, il peut exercer une action récursoire contre la Confédération lorsque l’art. 321*e* du code des obligations[^53-2], appliqué par analogie, lui conférerait la même faculté à l’égard de la personne en service.
 
 [^53-1]: Abrogée par l’annexe ch. 6 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^53-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^53-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 54
 
@@ -1014,7 +1017,7 @@ La Confédération répare le dommage selon les règles de responsabilité civil
 
 <sup>3</sup> L’assurance militaire ne peut recourir contre l’établissement d’affectation ou son personnel en vertu de la LAM[^54-1] que lorsque la personne responsable a agi intentionnellement ou par négligence grave.
 
-[^54-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^54-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 55
 
@@ -1049,7 +1052,7 @@ La Confédération lui alloue une indemnité équitable. À cet égard, elle exa
 
 <sup>2</sup> Si la personne en service est reconnue civilement responsable, il sera tenu compte équitablement de sa situation personnelle, de ses antécédents dans le cadre du service civil et des circonstances particulières de l’affectation.
 
-[^57-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^57-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 58
 
@@ -1075,7 +1078,7 @@ La Confédération lui alloue une indemnité équitable. À cet égard, elle exa
 <sup>3</sup> Si le fait dommageable résulte d’un acte punissable de la personne tenue à réparation, l’action de la Confédération se prescrit au plus tôt à l’échéance du délai de prescription de l’action pénale. Si la prescription de l’action pénale ne court plus parce qu’un jugement de première instance a été rendu, l’action civile se prescrit au plus tôt par trois ans à compter de la notification du jugement.
 
 [^59-1]: Nouvelle teneur selon l’annexe ch. 20 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 60
 
@@ -1095,7 +1098,7 @@ La Confédération lui alloue une indemnité équitable. À cet égard, elle exa
 
 <sup>2</sup> Est assimilée à une action la demande écrite en réparation d’un dommage adressée aux directions générales et aux directions d’arrondissement de l’entreprise des PTT[^61-2] et des CFF ainsi qu’au Conseil des EPF, lorsque ces instances ont qualité d’établissement d’affectation, et au Département fédéral des finances.
 
-[^61-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^61-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^61-2]: Actuellement: La Poste suisse.
 
 ## Chapitre 8 Voies de droit
@@ -1206,7 +1209,7 @@ L’organe d’exécution fixe la sanction disciplinaire d’après la faute com
 
 [^chap9-sec2-1]
 
-[^chap9-sec2-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^chap9-sec2-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 CP ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 #### Art. 72
 
@@ -1350,7 +1353,7 @@ Peuvent être raccordés en ligne au système d’information:[^80-5]
 - e. les autorités chargées des questions concernant la taxe d’exemption;
 - f. les tiers auxquels ont été confiées des tâches d’exécution incombant à l’organe d’exécution, pour l’accomplissement de ces tâches.
 
-<sup>3</sup> …[^80-11]
+<sup>3</sup> L’organe d’exécution transmet à la Centrale de compensation les données du système d’information qui sont nécessaires à l’exécution du régime des allocations pour perte de gain.[^80-11]
 
 <sup>4</sup>
 
@@ -1373,8 +1376,8 @@ Le Conseil fédéral règle notamment:
 [^80-7]: Abrogée par le ch. I de la LF du 21 mars 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^80-8]: Nouvelle expression selon le ch. II al. 1 let. e de la LF du 18 mars 2005 sur le transfert à la CNA de la gestion de l’assurance militaire, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2659](https://fedlex.data.admin.ch/eli/fga/2004/552)).
 [^80-9]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80-10]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^80-11]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-10]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^80-11]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^80-12]: Nouvelle teneur selon le ch. VII 1 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 
 #### Art. 80a
@@ -1422,8 +1425,8 @@ L’organe d’exécution communique aux services ci-après les données personn
 
 [^80b-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^80b-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80b-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^80b-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^80b-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^80b-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^80b-5]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Section 2 …

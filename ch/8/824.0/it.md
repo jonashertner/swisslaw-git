@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1995 sul servizio civile sostitutivo (Legge
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: it
-version: 2023-01-23
+version: 2025-01-01
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20230123/it"
 
 (Legge sul servizio civile, LSC)
 
-del 6 ottobre 1995 (Stato 23 gennaio 2023) (Stato 23 gennaio 2023)
+del 6 ottobre 1995 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 18 capoverso 1 della Costituzione federale[^ingress-1];[^ingr
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)]. A questa disp. corrisponde ora l’art. 59 cpv. 1 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [CS **1** 3; [RU 1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)]. A questa disp. corrisponde ora l’art. 59 cpv. 1 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nuovo testo giusta il n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^ingress-3]: [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)
 
@@ -103,20 +103,20 @@ Qualora le esigenze di cui all’articolo 3 non siano soddisfatte, gli impieghi 
 
 - a. salvaguardia delle basi naturali della vita;
 - b. cura del paesaggio rurale;
-- c. miglioramento strutturale in aziende che a tal fine ricevono aiuti agli investimenti.[^4-8]
+- c.[^4-8] ...[^4-9]
 
 <sup>2bis</sup>
 
 Il Consiglio federale stabilisce:
 
 - a. quali progetti e programmi sono presi in considerazione;
-- b. in quali casi sono permessi impieghi anche al di fuori dei progetti e dei programmi.[^4-9]
+- b. in quali casi sono permessi impieghi anche al di fuori dei progetti e dei programmi.[^4-10]
 
-<sup>2ter</sup> Le prescrizioni concernenti la prevenzione degli infortuni devono essere rispettate.[^4-10]
+<sup>2ter</sup> Le prescrizioni concernenti la prevenzione degli infortuni devono essere rispettate.[^4-11]
 
-<sup>3</sup> Gli impieghi nel quadro dell’aiuto in caso di catastrofe e di situazioni d’emergenza sono permessi anche se i presupposti di cui all’articolo 3 non sono soddisfatti.[^4-11]
+<sup>3</sup> Gli impieghi nel quadro dell’aiuto in caso di catastrofe e di situazioni d’emergenza sono permessi anche se i presupposti di cui all’articolo 3 non sono soddisfatti.[^4-12]
 
-<sup>4</sup> Nell’ambito dei propri campi d’attività e tenendo conto delle necessità, il servizio civile organizza programmi prioritari e ne verifica periodicamente l’efficacia. Il Consiglio federale può affidargli mandati a tal fine.[^4-12]
+<sup>4</sup> Nell’ambito dei propri campi d’attività e tenendo conto delle necessità, il servizio civile organizza programmi prioritari e ne verifica periodicamente l’efficacia. Il Consiglio federale può affidargli mandati a tal fine.[^4-13]
 
 [^4-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^4-2]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
@@ -125,11 +125,12 @@ Il Consiglio federale stabilisce:
 [^4-5]: Abrogata dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^4-6]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^4-7]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-8]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-9]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-10]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^4-11]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-8]: Abrogata dall’all. n. 1 della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^4-9]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-10]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-11]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^4-12]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-13]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 4a
 
@@ -309,7 +310,7 @@ Se necessario ai fini della decisione, l’organo d’esecuzione può chiedere p
 <sup>5</sup> L’autorità giudicante o il pubblico ministero dà seguito alla richiesta se ciò non lede i diritti della personalità di terzi e non mette a rischio lo scopo dell’indagine.
 
 [^12-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^12-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^12-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^12-3]: Nuovo testo giusta l’all. 1 n. 12 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 13
@@ -320,7 +321,7 @@ Se necessario ai fini della decisione, l’organo d’esecuzione può chiedere p
 
 <sup>2</sup> Gli esoneri dal servizio sono pronunciati dall’organo d’esecuzione.
 
-[^13-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^13-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 14
 
@@ -366,7 +367,7 @@ L’organo d’esecuzione:
 
 <sup>2</sup> La tassa sostitutiva è disciplinata dalla legge federale del 12 giugno 1959[^15-1] sulla tassa d’esenzione dall’obbligo militare.
 
-[^15-1]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^15-1]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
 
 #### Art. 15a
 
@@ -530,7 +531,7 @@ Se necessario ai fini della verifica della reputazione, l’organo d’esecuzion
 <sup>8</sup> L’organo d’esecuzione rifiuta di approvare la convenzione d’impiego se la reputazione della persona che deve prestare servizio civile non ne consente l’impiego o, in caso d’impiego all’estero, se la persona non dispone delle qualifiche necessarie. L’organo d’esecuzione può rifiutarsi di approvare la convenzione d’impiego se nutre dubbi fondati sull’idoneità all’impiego della persona che deve prestare servizio civile.
 
 [^19-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^19-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^19-3]: Nuovo testo giusta l’all. 1 n. 12 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 20
@@ -599,11 +600,11 @@ Chi presta servizio civile gode dei diritti sanciti dalla Costituzione e dalla l
 
 <sup>3</sup> Per la consulenza e il sostegno sociale è applicabile per analogia la legge federale del 24 giugno 1977[^26-3] sulla competenza ad assistere le persone nel bisogno.
 
-<sup>4</sup> e <sup>5</sup> …[^26-4]
+<sup>4 e <sup>5</sup></sup> …[^26-4]
 
 [^26-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^26-2]: Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^26-3]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^26-3]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 [^26-4]: Abrogati dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 27
@@ -779,7 +780,7 @@ Può partecipare:
 Chi presta servizio civile ha diritto a un’indennità per perdita di guadagno conformemente alla legge del 25 settembre 1952[^38-2] sulle indennità di perdita di guadagno.
 
 [^38-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^38-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^38-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 39
 
@@ -796,7 +797,7 @@ Chi presta servizio civile ottiene i necessari buoni per il viaggio e per il tra
 Chi presta servizio civile è assicurato conformemente alla legge federale del 19 giugno 1992[^40-2] sull’assicurazione militare; per danni alle persone la responsabilità della Confederazione è disciplinata esclusivamente da tale legge.
 
 [^40-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^40-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^40-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### Sezione 7: Segni distintivi delle persone che prestano servizio civile, degli istituti d’impiego e degli impieghi di gruppo
 
@@ -862,20 +863,12 @@ L’organo d’esecuzione può respingere la domanda se:
 
 <sup>2</sup> La procedura è gratuita. Per il resto, si applicano le disposizioni della legge federale del 20 dicembre 1968[^43-3] sulla procedura amministrativa.
 
-<sup>3</sup>
-
-L’organo d’esecuzione può rinunciare a riscuotere il tributo:
-
-- a. da singoli istituti d’impiego la cui partecipazione all’esecuzione del servizio civile riveste particolare importanza e che non sarebbero altrimenti in grado di impiegare persone che prestano servizio civile;
-- b. se un istituto d’impiego impiega una persona che presta servizio civile che, durante l’impiego, necessita di sostegno o assistenza particolari;
-- c. in caso di impieghi per i quali l’istituto d’impiego riceve aiuti finanziari in virtù dell’articolo 47;
-- d. in caso di impieghi nell’ambito d’attività di cui all’articolo 4 capoverso 1 lettera h;
-- e. in caso di impieghi a titolo di prova.[^43-4]
+<sup>3</sup> …[^43-4]
 
 [^43-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^43-2]: [RU 2004 431](https://fedlex.data.admin.ch/eli/oc/2004/28)
-[^43-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^43-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^43-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^43-4]: Abrogato dal n. II 4 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818), 5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 ## Capitolo 6: Statuto dell’istituto d’impiego
 
@@ -996,7 +989,7 @@ L’istituto d’impiego introduce al lavoro la persona che presta servizio civi
 
 La Confederazione risponde per i danni causati da chi presta servizio civile all’istituto d’impiego nello svolgimento del suo servizio, sempre che l’istituto possa far valere il diritto al risarcimento dei danni in applicazione, per analogia, dell’articolo 321*e* del Codice delle obbligazioni[^52-1].
 
-[^52-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 53
 
@@ -1014,7 +1007,7 @@ La Confederazione risponde dei danni giusta le disposizioni in materia di respon
 <sup>3</sup> Risarcito il danno, l’istituto d’impiego può esercitare regresso contro la Confederazione, sempre che conformemente all’applicazione per analogia dell’articolo 321*e* del Codice delle obbligazioni[^53-2] esso potrebbe richiedere risarcimento alla persona che presta servizio civile.
 
 [^53-1]: Abrogata dall’all. n. 6 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 1 766,1994V897).
-[^53-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^53-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 54
 
@@ -1026,7 +1019,7 @@ La Confederazione risponde dei danni giusta le disposizioni in materia di respon
 
 <sup>3</sup> L’assicurazione militare può esercitare regresso contro l’istituto d’impiego e i suoi lavoratori giusta la legge federale del 19 giugno 1992[^54-1] sull’assicurazione militare soltanto se la persona interessata ha provocato il danno intenzionalmente o per negligenza grave.
 
-[^54-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^54-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 55
 
@@ -1061,7 +1054,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 
 <sup>2</sup> In caso di responsabilità della persona che presta servizio civile, si tiene adeguatamente conto delle sue condizioni personali nonché del suo precedente comportamento durante il servizio civile e delle circostanze particolari dell’impiego.
 
-[^57-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^57-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 58
 
@@ -1087,7 +1080,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 <sup>3</sup> Se il fatto dannoso commesso dal responsabile costituisce un fatto punibile, l’azione di risarcimento della Confederazione si prescrive al più presto alla scadenza del termine di prescrizione dell’azione penale. Se le prescrizione dell’azione penale si estingue a seguito di una sentenza penale di prima istanza, l’azione di risarcimento si prescrive al più presto in tre anni dalla comunicazione della sentenza.
 
 [^59-1]: Nuovo testo giusta l’all. n. 20 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 60
 
@@ -1107,7 +1100,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 
 <sup>2</sup> È considerata azione anche la richiesta scritta di risarcimento dei danni presentata alle direzioni generali e alle direzioni di circondario dell’azienda delle PTT[^61-2] e delle FFS nonché al Consiglio dei Politecnici, sempre che siano istituti d’impiego, e al Dipartimento federale delle finanze.
 
-[^61-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^61-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^61-2]: Ora: La Posta Svizzera
 
 ## Capitolo 8: Tutela giurisdizionale
@@ -1361,7 +1354,7 @@ Possono essere collegati in linea al sistema d’informazione:[^80-5]
 - e. le autorità della tassa d’esenzione, per le questioni connesse alla tassa d’esenzione;
 - f. terzi ai quali sono stati delegati compiti dell’organo d’esecuzione, per l’adempimento di questi compiti.
 
-<sup>3</sup> …[^80-11]
+<sup>3</sup> L’organo d’esecuzione trasmette all’Ufficio centrale di compensazione i dati del sistema d’informazione necessari ai fini dell’esecuzione dell’ordinamento delle indennità di perdita di guadagno.[^80-11]
 
 <sup>4</sup>
 
@@ -1384,8 +1377,8 @@ Il Consiglio federale disciplina in particolare:
 [^80-7]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^80-8]: <sup>¶</sup>Nuova espr. giusta in n. II cpv. 1 lett. e della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
 [^80-9]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80-10]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^80-11]: Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-10]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^80-11]: Nuovo testo giusta l’all. n. 4 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^80-12]: Nuovo testo giusta il n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 
 #### Art. 80a
@@ -1433,8 +1426,8 @@ L’organo d’esecuzione comunica dati personali agli organi qui appresso in qu
 
 [^80b-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^80b-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80b-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^80b-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^80b-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^80b-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^80b-5]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Sezione 2: ...
