@@ -4,13 +4,12 @@ number: "822.0.1"
 title: "Loi sur l'hôpital fribourgeois"
 short: LHFR
 language: fr
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-11-09
+version: 2025-01-01
+version_adopted: 2024-02-07
 adopted: 2006-06-27
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/822.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6790/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8042/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Hôpital fribourgeois – L
 
 (LHFR)
 
-du 27.06.2006 (version entrée en vigueur le 01.01.2019)
+du 27.06.2006 (version entrée en vigueur le 01.01.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -76,8 +75,8 @@ Décrète:
 <sup>1</sup> L'HFR fournit des prestations dans les domaines suivants:
 
 - a) les soins stationnaires;
-- b) les soins ambulatoires;
-- c) les soins urgents;
+- b) les soins ambulatoires; à cet effet, l'HFR contribue notamment à l'exploitation de centres de santé régionaux en collaboration avec les partenaires locaux, en particulier par la mise en place de consultations spécialisées;
+- c) les soins urgents; à cet effet, l'HFR exploite un service central d'urgences hospitalier et, au sein des centres de santé, des permanences médicales régionales pour les urgences non vitales;
 - d) la prévention;
 - e) l'aide à la personne malade sur le plan social;
 - f) l'enseignement et la recherche;
@@ -316,7 +315,7 @@ Décrète:
 
 <sup>2</sup> Les sites ne disposent pas de la personnalité juridique. Ils peuvent être organisés en unités d'exploitation.
 
-<sup>3</sup> Le caractère bilingue du canton doit être pris en compte, en particulier pour l'organisation des services auxquels la planification confère une mission cantonale.
+<sup>3</sup> Le caractère bilingue du canton doit être pris en compte, en particulier pour l'organisation des services auxquels la planification confère une mission cantonale, ainsi que pour l'organisation des centres de santé et des permanences médicales régionales pour les urgences non vitales.
 
 #### Art. 26
 

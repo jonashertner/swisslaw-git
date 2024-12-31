@@ -4,13 +4,12 @@ number: "822.0.1"
 title: Gesetz über das freiburger spital
 short: HFRG
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-11-09
+version: 2025-01-01
+version_adopted: 2024-02-07
 adopted: 2006-06-27
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/822.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6790/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8042/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Freiburger spital – G
 
 (HFRG)
 
-vom 27.06.2006 (Fassung in Kraft getreten am 01.01.2019)
+vom 27.06.2006 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -76,8 +75,8 @@ beschliesst:
 <sup>1</sup> Das HFR erteilt Leistungen auf den folgenden Gebieten:
 
 - a) stationäre Pflege;
-- b) ambulante Pflege;
-- c) Notfallpflege;
+- b) ambulante Pflege; zu diesem Zweck trägt das HFR namentlich dazu bei, in Zusammenarbeit mit den lokalen Partnern regionale Gesundheitszentren zu betreiben, wo es insbesondere Spezialsprechstunden anbietet;
+- c) Notfallpflege; zu diesem Zweck betreibt das HFR einen zentralen Spitalnotfalldienst und, in den Gesundheitszentren, regionale medizinische Anlaufstellen für nicht lebensbedrohliche Notfälle (Permanences);
 - d) Prävention;
 - e) Unterstützung der kranken Person in sozialen Belangen;
 - f) Lehre und Forschung;
@@ -316,7 +315,7 @@ beschliesst:
 
 <sup>2</sup> Die Standorte verfügen über keine Rechtspersönlichkeit. Sie können als Betriebseinheit organisiert werden.
 
-<sup>3</sup> Die Zweisprachigkeit des Kantons muss berücksichtigt werden, insbesondere für die Organisation der Dienste, die aufgrund der Spitalplanung einen kantonalen Auftrag haben.
+<sup>3</sup> Die Zweisprachigkeit des Kantons muss berücksichtigt werden, insbesondere für die Organisation der Dienste, die aufgrund der Spitalplanung einen kantonalen Auftrag haben, und für die Organisation der Gesundheitszentren und der regionalen medizinischen Anlaufstellen für nicht lebensbedrohliche Notfälle (Permanences).
 
 #### Art. 26
 
