@@ -4,13 +4,12 @@ number: "217.100"
 title: Ordinaziun davart il register funsil en il chantun Grischun
 short: OCRF
 language: rm
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-30
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2014-10-20
 in_force: 2015-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/217.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3203/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3808/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3203/pdf_file"
 
 (OCRF)
 
-dals 20-10-2014 (versiun dals 01-01-2022)
+dals 20-10-2014 (versiun dals 01-01-2025)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -35,7 +34,7 @@ relaschada da la regenza ils 20 d'october 2014
 
 <sup>1</sup> Il post da surveglianza è il departament d'economia publica e fatgs socials.
 
-<sup>2</sup> Il post spezialisà è l'inspecturat dal register funsil e register da commerzi.
+<sup>2</sup> Il post spezialisà è l'Uffizi dal register funsil e dal register da commerzi.
 
 #### Art. 2
 
@@ -329,7 +328,7 @@ relaschada da la regenza ils 20 d'october 2014
 
 **Giurisdicziun**
 
-<sup>1</sup> Cunter decisiuns da la cumissiun d'examen poi vegnir fatg recurs tar la dretgira administrativa entaifer 30 dis.
+<sup>1</sup> Cunter decisiuns da la cumissiun d'examen poi vegnir fatg recurs tar la Dretgira superiura entaifer 30 dis.
 
 ## 7. Disposiziuns finalas
 

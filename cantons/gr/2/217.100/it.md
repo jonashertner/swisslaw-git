@@ -4,13 +4,12 @@ number: "217.100"
 title: Ordinanza concernente il registro fondiario nel Cantone dei Grigioni
 short: OCRF
 language: it
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-30
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2014-10-20
 in_force: 2015-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/217.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3203/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3808/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3203/pdf_file"
 
 (OCRF)
 
-del 20.10.2014 (stato 01.01.2022)
+del 20.10.2014 (stato 01.01.2025)
 
 emanata dal Governo il 20 ottobre 2014
 
@@ -35,7 +34,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Il Dipartimento dell'economia pubblica e socialità è l'organo di vigilanza.
 
-<sup>2</sup> L'Ispettorato del registro fondiario e registro di commercio è il servizio specializzato.
+<sup>2</sup> L'Ufficio del registro fondiario e del registro di commercio è il servizio specializzato.
 
 #### Art. 2
 
@@ -323,7 +322,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Rimedi giuridici**
 
-<sup>1</sup> Contro le decisioni della commissione d'esame è data facoltà di ricorso al Tribunale amministrativo entro 30 giorni.
+<sup>1</sup> Contro le decisioni della commissione d'esame è data facoltà di ricorso al Tribunale d'appello entro 30 giorni.
 
 ## 7. Disposizioni finali
 

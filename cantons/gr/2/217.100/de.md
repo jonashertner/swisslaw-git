@@ -4,13 +4,12 @@ number: "217.100"
 title: Verordnung über das Grundbuch im Kanton Graubünden
 short: KGBV
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-30
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2014-10-20
 in_force: 2015-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/217.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3203/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3808/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3203/pdf_file"
 
 (KGBV)
 
-Vom 20.10.2014 (Stand 01.01.2022)
+Vom 20.10.2014 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -35,7 +34,7 @@ von der Regierung erlassen am 20. Oktober 2014
 
 <sup>1</sup> Aufsichtsstelle ist das Departement für Volkswirtschaft und Soziales.
 
-<sup>2</sup> Fachstelle ist das Grundbuchinspektorat und Handelsregister.
+<sup>2</sup> Fachstelle ist das Amt für Grundbuch und Handelsregister.
 
 #### Art. 2
 
@@ -323,7 +322,7 @@ von der Regierung erlassen am 20. Oktober 2014
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Entscheide der Prüfungskommission kann innert 30 Tagen Beschwerde beim Verwaltungsgericht erhoben werden.
+<sup>1</sup> Gegen Entscheide der Prüfungskommission kann innert 30 Tagen Beschwerde beim Obergericht erhoben werden.
 
 ## 7. Schlussbestimmungen
 
