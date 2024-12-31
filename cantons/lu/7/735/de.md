@@ -4,13 +4,12 @@ number: "735"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-12-02
+version: 2025-01-01
+version_adopted: 2024-05-06
 adopted: 1989-03-07
 in_force: 1990-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/735"
-pdf: "https://srl.lu.ch/api/de/versions/3665/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4298/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3665/pdf_file"
 
 (PBG)
 
-vom 07.03.1989 (Stand 01.01.2021)
+vom 07.03.1989 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -413,11 +412,11 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement erstellt den Entwurf des kantonalen Nutzungsplanes unter Mitwirkung der interessierten kantonalen Stellen, der regionalen Entwicklungsträger, der Gemeinden und der Grundeigentümer.
+<sup>1</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement erstellt den Entwurf des kantonalen Nutzungsplanes unter Mitwirkung der interessierten kantonalen Stellen, der regionalen Entwicklungsträger, der Gemeinden und der Grundeigentümerinnen und Grundeigentümer.
 
 <sup>2</sup> Es sorgt für die 30-tägige öffentliche Auflage des Planentwurfs mit den zugehörigen Vorschriften in den betroffenen Gemeinden und macht die Auflage öffentlich bekannt. In der Bekanntmachung ist auf die Möglichkeit hinzuweisen, dass während der Auflagefrist beim Regierungsrat Einsprache erhoben werden kann.
 
-<sup>3</sup> Den betroffenen Grundeigentümern ist die öffentliche Auflage des Nutzungsplanes mit dem Hinweis auf die Möglichkeit, beim Regierungsrat während der Auflagefrist Einsprache zu erheben, bekannt zu geben.
+<sup>3</sup> Den betroffenen Grundeigentümerinnen und Grundeigentümern ist die öffentliche Auflage des Nutzungsplanes mit dem Hinweis auf die Möglichkeit, beim Regierungsrat während der Auflagefrist Einsprache zu erheben, bekannt zu geben.
 
 <sup>4</sup> Gemeinsam mit dem Nutzungsplan sind die massgebenden Unterlagen in den weiteren in der gleichen Sache erforderlichen Bewilligungsverfahren öffentlich aufzulegen.
 
@@ -471,7 +470,7 @@ beschliesst:
 - 6\. Schutz der Gesundheit (Luft-, Licht- und Raumverhältnisse, Isolationen, Bau-materialien usw.),
 - 7\. Erstellung und Sicherung geeigneter Spielplätze und anderer Freizeitanlagen bei Neu- und Umbauten, Beteiligung an gemeinsamen Spielplätzen und Freizeitanlagen, Entrichtung von Ersatzabgaben,
 - 8\. Erschliessung der Bauzonen, Verkehrsanlagen,
-- 9\. Umgebungsgestaltung, insbesondere Begrünung, Bepflanzung und Gestaltung der Oberflächen zur Schaffung von Rückhaltevolumen für das Regenwasser oder für dessen Versickernlassen,
+- 9\. Umgebungsgestaltung, insbesondere naturnahe und standortgemässe Begrünung, Bepflanzung und Gestaltung der Oberflächen zur Schaffung von Rückhaltevolumen für das Regenwasser oder für dessen Versickernlassen, zur Verminderung der lokalen Hitzebelastung sowie zur Förderung der Biodiversität,
 - 10\. Lichtimmissionen,
 - 11\. Abstimmung von Siedlung und Verkehr,
 - 12\. Pflicht und Verbot, Abstellflächen für Fahrzeuge auf privatem Grund zu erstellen, und über Ersatzabgaben nach dem Strassengesetz,
@@ -482,9 +481,15 @@ beschliesst:
 - 17\. Baukontrollen und Bezugsbereitschaft neuer Wohnungen,
 - 18\. Beschränkungen für die Erstellung von Zweitwohnungen,
 - 19\. preisgünstigen oder gemeinnützigen Wohnungsbau,
-- 20\. autoarmes oder autofreies Wohnen.
+- 20\. autoarmes oder autofreies Wohnen,
+- 21\. klimaangepasstes Bauen (Ver- und Entsiegelung, Unterbauungsziffer, Oberflächenmaterialisierung usw.)
+- 22\. abweichende Grenzabstände von Gewächsen (§ 86 Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 20. November 2000[^36-1]).
 
 <sup>3</sup> Die Gemeinden können im Bau- und Zonenreglement vorsehen, dass Ein- oder Umzonungen bei Vorliegen eines öffentlichen Interesses an Bedingungen oder Auflagen geknüpft werden oder dass dabei eine Frist zur Überbauung festgelegt und bei unbenütztem Fristablauf die Zonenzuweisung entschädigungslos wieder geändert wird.
+
+<sup>4</sup> Bei Vorliegen eines öffentlichen Interesses, insbesondere des Schutzes des Lokalklimas oder der angestrebten städtebaulichen Entwicklung, können die Gemeinden für ganze Zonen oder für gewisse Teile des Gemeindegebietes nähere Vorschriften zur Stellung und Dimensionierung der Bauten erlassen.
+
+[^36-1]: SRL Nr. [200](https://srl.lu.ch/data/200/de)
 
 #### § 37
 
@@ -508,9 +513,9 @@ beschliesst:
 
 <sup>1</sup> Bauzonen sind mit bodenrechtlichen Massnahmen wie Landumlegungen und anderen geeigneten Massnahmen ihrer Bestimmung zuzuführen.
 
-<sup>2</sup> Die Gemeinde schliesst mit interessierten Grundeigentümern Verträge ab über die Sicherung der Verfügbarkeit von Bauland, die Etappierung und die Realisierung von neuen Baugebieten und die Folgen der nicht zeitgerechten Realisierung.
+<sup>2</sup> Die Gemeinde schliesst mit interessierten Grundeigentümerinnen und Grundeigentümern Verträge ab über die Sicherung der Verfügbarkeit von Bauland, die Etappierung und die Realisierung von neuen Baugebieten und die Folgen der nicht zeitgerechten Realisierung.
 
-<sup>3</sup> Kommt keine vertragliche Einigung zustande, kann die Gemeinde, wenn das öffentliche Interesse es rechtfertigt, nach acht Jahren seit Inkrafttreten der Gesetzesänderung vom 17. Juni 2013[^38-1] oder seit Rechtskraft späterer Einzonungen ein Kaufrecht zum Verkehrswert ausüben. Über die Höhe des Verkehrswertes entscheidet im Streitfall die Schätzungskommission. Die Gemeinde räumt den Grundeigentümern vorgängig mit Entscheid eine Frist von mindestens zwei Jahren zur bestimmungsgemässen Nutzung der Bauzone ein.
+<sup>3</sup> Kommt keine vertragliche Einigung zustande, kann die Gemeinde, wenn das öffentliche Interesse es rechtfertigt, nach acht Jahren seit Inkrafttreten der Gesetzesänderung vom 17. Juni 2013[^38-1] oder seit Rechtskraft späterer Einzonungen ein Kaufrecht zum Verkehrswert ausüben. Über die Höhe des Verkehrswertes entscheidet im Streitfall die Schätzungskommission. Die Gemeinde räumt den Grundeigentümerinnen und Grundeigentümern vorgängig mit Entscheid eine Frist von mindestens zwei Jahren zur bestimmungsgemässen Nutzung der Bauzone ein.
 
 <sup>4</sup> Auf diesem Weg erworbenes Land ist so bald als möglich, in der Regel in einem ausschreibungsähnlichen Verfahren, seiner Bestimmung zuzuführen.
 
@@ -524,7 +529,7 @@ beschliesst:
 
 **Infrastrukturverträge**
 
-<sup>1</sup> Die Gemeinde kann mit interessierten Grundeigentümern Verträge abschliessen über die Erstellung und die Finanzierung von Erschliessungsanlagen sowie die Abtretung von Land oder die Einräumung von Dienstbarkeiten zugunsten der Gemeinde.
+<sup>1</sup> Die Gemeinde kann mit interessierten Grundeigentümerinnen und Grundeigentümern Verträge abschliessen über die Erstellung und die Finanzierung von Erschliessungsanlagen sowie die Abtretung von Land oder die Einräumung von Dienstbarkeiten zugunsten der Gemeinde.
 
 #### § 39
 
@@ -538,7 +543,7 @@ beschliesst:
 
 <sup>4</sup> Sie legt für bestimmte Gebiete eine bauliche Mindestnutzung für Neu- und Ersatzbauten fest.
 
-<sup>5</sup> Sie hebt privatrechtliche Baubeschränkungen, die der Siedlungsentwicklung nach innen entgegenstehen, im Verfahren nach Enteignungsgesetz[^39-1] auf. Der Regierungsrat kann in diesen Fällen das Enteignungsrecht auch Dritten erteilen. Die Höhe der Entschädigung wird im Streitfall von der Schätzungskommission festgesetzt. Die Gemeinde kann den interessierten Grundeigentümern die Kosten der Aufhebung der Baubeschränkungen nach Massgabe des ihnen erwachsenden Vorteils ganz oder teilweise überbinden.
+<sup>5</sup> Sie hebt privatrechtliche Baubeschränkungen, die der Siedlungsentwicklung nach innen entgegenstehen, im Verfahren nach Enteignungsgesetz[^39-1] auf. Der Regierungsrat kann in diesen Fällen das Enteignungsrecht auch Dritten erteilen. Die Höhe der Entschädigung wird im Streitfall von der Schätzungskommission festgesetzt. Die Gemeinde kann den interessierten Grundeigentümerinnen und Grundeigentümern die Kosten der Aufhebung der Baubeschränkungen nach Massgabe des ihnen erwachsenden Vorteils ganz oder teilweise überbinden.
 
 [^39-1]: SRL Nr. [730](https://srl.lu.ch/data/730/de)
 
@@ -654,7 +659,7 @@ beschliesst:
 
 <sup>2</sup> Zulässig sind Bauten, Anlagen und Nutzungen für Dienstleistungs-, Gewerbe- und Industriebetriebe. Im Bau- und Zonenreglement bezeichnen die Gemeinden die zulässigen Bauten, Anlagen und Nutzungen näher. Sie unterscheiden dabei insbesondere zwischen güterverkehrs- und personenintensiven Betrieben, deren Auswirkungen auf die Umgebung und deren Empfindlichkeit gegenüber Einwirkungen; sie können einzelne Betriebsarten ausschliessen oder ihren Anteil begrenzen.
 
-<sup>3</sup> Wohnungen dürfen nur für Betriebsinhaber und für betrieblich an den Standort gebundenes Personal erstellt werden. In Bebauungs- und Gestaltungsplänen können zur Schaffung harmonischer Übergänge zu Wohnzonen Ausnahmen vorgesehen werden.
+<sup>3</sup> Wohnungen dürfen nur für Betriebsinhaberinnen und Betriebsinhaber und für betrieblich an den Standort gebundenes Personal erstellt werden. In Bebauungs- und Gestaltungsplänen können zur Schaffung harmonischer Übergänge zu Wohnzonen Ausnahmen vorgesehen werden.
 
 #### § 47
 
@@ -822,13 +827,13 @@ beschliesst:
 
 <sup>1</sup> Nach der Vorprüfung gemäss § 19 legt die Gemeinde den Zonenplan und das Bau- und Zonenreglement während 30 Tagen öffentlich auf und macht die Auflage öffentlich bekannt. In der Bekanntmachung ist auf die Einsprachemöglichkeit während der Auflagefrist hinzuweisen. Die Gemeinde hat den Interessierten den Zonenplan und das Bau- und Zonenreglement im Original zur Einsicht zur Verfügung zu halten.
 
-<sup>2</sup> Der Regierungsrat regelt die Zustellung des Zonenplans und des Bau- und Zonenreglements an die betroffenen Grundeigentümer und die Haushaltungen in der Verordnung.
+<sup>2</sup> Der Regierungsrat regelt die Zustellung des Zonenplans und des Bau- und Zonenreglements an die betroffenen Grundeigentümerinnen und Grundeigentümer und an die Haushaltungen in der Verordnung.
 
 <sup>3</sup> Neue Bauzonen sind im Gelände in geeigneter Weise zu markieren.
 
 <sup>4</sup> Bei Änderungen des Zonenplanes und des Bau- und Zonenreglementes ist das Auflageverfahren nur für die betroffenen Teile des Zonenplanes und des Bau- und Zonenreglementes durchzuführen.
 
-<sup>5</sup> Die Einsprachen sind während der Auflagefrist mit einem Antrag und dessen Begründung schriftlich bei der in der öffentlichen Bekanntmachung und in der Zustellung an die Grundeigentümer und an die Haushaltungen angegebenen Stelle einzureichen.
+<sup>5</sup> Die Einsprachen sind während der Auflagefrist mit einem Antrag und dessen Begründung schriftlich bei der in der öffentlichen Bekanntmachung und in der Zustellung an die Grundeigentümerinnen und Grundeigentümer und an die Haushaltungen angegebenen Stelle einzureichen.
 
 #### § 62
 
@@ -838,7 +843,7 @@ beschliesst:
 
 <sup>2</sup> Hat die gütliche Erledigung der Einsprachen wesentliche Änderungen zur Folge, ist das Einspracheverfahren für betroffene Dritte zu wiederholen.
 
-<sup>3</sup> Kann die Einsprache nicht gütlich erledigt werden, teilt die Gemeinde dem Einsprecher mit, warum den Stimmberechtigten oder dem Gemeindeparlament beantragt werde, die Einsprache abzuweisen oder darauf nicht einzutreten.
+<sup>3</sup> Kann die Einsprache nicht gütlich erledigt werden, teilt die Gemeinde den Einsprecherinnen und Einsprechern mit, warum den Stimmberechtigten oder dem Gemeindeparlament beantragt werde, die Einsprache abzuweisen oder darauf nicht einzutreten.
 
 #### § 63
 
@@ -849,7 +854,7 @@ beschliesst:
 - a. seine Anträge, die nicht gütlich erledigten Einsprachen abzuweisen oder darauf nicht einzutreten,
 - b. wesentliche Abweichungen zum Ergebnis der Vorprüfung gemäss § 19.
 
-<sup>2</sup> Die Gemeinde teilt den Einsprechern den Entscheid über die Einsprachen und den betroffenen Grundeigentümern die beschlossenen Änderungen innert drei Arbeitstagen seit dem Tag der Beschlussfassung mit dem Rechtsmittelhinweis mit.
+<sup>2</sup> Die Gemeinde teilt den Einsprecherinnen und Einsprechern den Entscheid über die Einsprachen und den betroffenen Grundeigentümerinnen und Grundeigentümern die beschlossenen Änderungen innert drei Arbeitstagen seit dem Tag der Beschlussfassung mit dem Rechtsmittelhinweis mit.
 
 <sup>3</sup> Die Beschlüsse der Stimmberechtigten oder des Gemeindeparlamentes können innert 20 Tagen seit dem Tag der Beschlussfassung mit Verwaltungsbeschwerde beim Regierungsrat angefochten werden.
 
@@ -875,9 +880,9 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde trägt die Kosten für das Ortsplanungsverfahren.
 
-<sup>2</sup> Dient eine Änderung der Bau- und Zonenordnung der Realisierung eines bestimmten Vorhabens, kann die Gemeinde die Kosten teilweise oder ganz den interessierten Grundeigentümern überbinden.
+<sup>2</sup> Dient eine Änderung der Bau- und Zonenordnung der Realisierung eines bestimmten Vorhabens, kann die Gemeinde die Kosten teilweise oder ganz den interessierten Grundeigentümerinnen und Grundeigentümern überbinden.
 
-<sup>3</sup> Einigen sich die Grundeigentümer nicht über die Verteilung der Kosten, überbindet die Gemeinde diese im Perimeterverfahren.
+<sup>3</sup> Einigen sich die Grundeigentümerinnen und Grundeigentümer nicht über die Verteilung der Kosten, überbindet die Gemeinde diese im Perimeterverfahren.
 
 ### 2.3.6 Sondernutzungspläne
 
@@ -901,11 +906,11 @@ beschliesst:
 
 **Kosten**
 
-<sup>1</sup> Die Gemeinde trägt die Kosten für die Ausarbeitung und den Erlass eines Bebauungsplanes. Soweit den Grundeigentümern erhebliche Vorteile erwachsen, kann sie ihnen die Kosten teilweise oder ganz überbinden.
+<sup>1</sup> Die Gemeinde trägt die Kosten für die Ausarbeitung und den Erlass eines Bebauungsplanes. Soweit den Grundeigentümerinnen und Grundeigentümern erhebliche Vorteile erwachsen, kann sie ihnen die Kosten teilweise oder ganz überbinden.
 
-<sup>2</sup> Die Grundeigentümer tragen die Kosten für die Ausarbeitung und den Erlass eines Gestaltungsplanes nach Massgabe der ihnen erwachsenden Vor- und Nachteile. Wo erhebliche öffentliche Interessen an einem Gestaltungsplan bestehen, kann die Gemeinde Beiträge leisten.
+<sup>2</sup> Die Grundeigentümerinnen und Grundeigentümer tragen die Kosten für die Ausarbeitung und den Erlass eines Gestaltungsplanes nach Massgabe der ihnen erwachsenden Vor- und Nachteile. Wo erhebliche öffentliche Interessen an einem Gestaltungsplan bestehen, kann die Gemeinde Beiträge leisten.
 
-<sup>3</sup> Einigen sich die Grundeigentümer nicht über die Verteilung der Kosten, überbindet die Gemeinde diese im Perimeterverfahren.
+<sup>3</sup> Einigen sich die Grundeigentümerinnen und Grundeigentümer nicht über die Verteilung der Kosten, überbindet die Gemeinde diese im Perimeterverfahren.
 
 #### § 67
 
@@ -951,13 +956,13 @@ beschliesst:
 
 **Erlass**
 
-<sup>1</sup> Es ist Sache der Grundeigentümer, Gestaltungspläne aufzustellen, zu ändern und aufzuheben.
+<sup>1</sup> Es ist Sache der Grundeigentümerinnen und Grundeigentümer, Gestaltungspläne aufzustellen, zu ändern und aufzuheben.
 
-<sup>2</sup> Bei Uneinigkeit der beteiligten Grundeigentümer kann die Gemeinde auf begründetes Gesuch eines oder mehrerer Beteiligter den Gestaltungsplan aufstellen, ändern oder aufheben.
+<sup>2</sup> Bei Uneinigkeit der beteiligten Grundeigentümerinnen und Grundeigentümer kann die Gemeinde auf begründetes Gesuch eines oder mehrerer Beteiligter den Gestaltungsplan aufstellen, ändern oder aufheben.
 
-<sup>3</sup> Wo eine Gestaltungsplanpflicht im Sinn von § 75 Absatz 1 festgelegt ist, kann die Gemeinde bei Uneinigkeit oder Untätigkeit der Grundeigentümer den Gestaltungsplan auf deren Kosten aufstellen oder ändern.
+<sup>3</sup> Wo eine Gestaltungsplanpflicht im Sinn von § 75 Absatz 1 festgelegt ist, kann die Gemeinde bei Uneinigkeit oder Untätigkeit der Grundeigentümerinnen und Grundeigentümer den Gestaltungsplan auf deren Kosten aufstellen oder ändern.
 
-<sup>4</sup> Soweit es öffentliche Interessen sonst erfordern, kann die Gemeinde von den Grundeigentümern ohne Rücksicht auf die Grösse der zu überbauenden Fläche einen Gestaltungsplan oder dessen Änderung oder Aufhebung verlangen. Bei Uneinigkeit oder Untätigkeit der Grundeigentümer kann sie den Gestaltungsplan auf deren Kosten aufstellen, ändern oder aufheben.
+<sup>4</sup> Soweit es öffentliche Interessen sonst erfordern, kann die Gemeinde von den Grundeigentümerinnen und Grundeigentümern ohne Rücksicht auf die Grösse der zu überbauenden Fläche einen Gestaltungsplan oder dessen Änderung oder Aufhebung verlangen. Bei Uneinigkeit oder Untätigkeit der Grundeigentümerinnen und Grundeigentümer kann sie den Gestaltungsplan auf deren Kosten aufstellen, ändern oder aufheben.
 
 #### § 75
 
@@ -991,13 +996,13 @@ beschliesst:
 <sup>1</sup> Die Vorschriften über das Auflage- und Einspracheverfahren nach den §§ 193 und 194 sind sinngemäss anzuwenden. Abweichend davon
 
 - a. prüft die Gemeinde, ob der Gestaltungsplan den formellen und inhaltlichen Anforderungen entspricht; ist dies nicht der Fall, verlangt sie die Behebung der gerügten Mängel innert gesetzter Frist mit der Androhung, dass andernfalls auf das Gesuch um Bewilligung des Gestaltungsplanes nicht eingetreten werde,
-- b. ist den Grundeigentümern des vom Plan erfassten Gebietes und den Eigentümern der angrenzenden Grundstücke die öffentliche Auflage des Gestaltungsplanes mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist mitzuteilen,
-- c. kann bei geringfügigen Änderungen eines Gestaltungsplanes, die keine wesentlichen öffentlichen Interessen berühren und denen alle direkt betroffenen Grundeigentümer unterschriftlich zugestimmt haben, auf die öffentliche Bekanntmachung und Auflage verzichtet werden,
+- b. ist den Grundeigentümerinnen und Grundeigentümern des vom Plan erfassten Gebietes und den Eigentümerinnen und Eigentümern der angrenzenden Grundstücke die öffentliche Auflage des Gestaltungsplanes mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist mitzuteilen,
+- c. kann bei geringfügigen Änderungen eines Gestaltungsplanes, die keine wesentlichen öffentlichen Interessen berühren und denen alle direkt betroffenen Grundeigentümerinnen und Grundeigentümer unterschriftlich zugestimmt haben, auf die öffentliche Bekanntmachung und Auflage verzichtet werden,
 - d. prüft die Gemeinde die Einsprachen und versucht, diese gütlich zu erledigen. Hat die gütliche Erledigung der Einsprachen wesentliche Änderungen zur Folge, ist das Einspracheverfahren für betroffene Dritte zu wiederholen.
 
 <sup>2</sup> Die Gemeinde entscheidet über den Plan und die nicht erledigten öffentlich-rechtlichen Einsprachen.
 
-<sup>3</sup> Massnahmen, Auflagen und Bedingungen im Entscheid über den Gestaltungsplan sind von der Gemeinde auf Kosten der Grundeigentümer als öffentlich-rechtliche Eigentumsbeschränkungen im Grundbuch anzumerken.
+<sup>3</sup> Massnahmen, Auflagen und Bedingungen im Entscheid über den Gestaltungsplan sind von der Gemeinde auf Kosten der Grundeigentümerinnen und Grundeigentümer als öffentlich-rechtliche Eigentumsbeschränkungen im Grundbuch anzumerken.
 
 <sup>4</sup> Der Regierungsrat regelt das Nähere in der Verordnung.
 
@@ -1049,9 +1054,9 @@ beschliesst:
 
 <sup>1</sup> Die für die Bestimmung einer Planungszone zuständige Behörde legt die massgebenden Pläne und Vorschriften während 30 Tagen öffentlich auf und macht die Auflage öffentlich bekannt. In der Bekanntmachung ist auf die Einsprachemöglichkeit während der Auflagefrist hinzuweisen.
 
-<sup>2</sup> Den betroffenen Grundeigentümern ist die Bestimmung der Planungszone mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist bekannt zu geben.
+<sup>2</sup> Den betroffenen Grundeigentümerinnen und Grundeigentümern ist die Bestimmung der Planungszone mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist bekannt zu geben.
 
-<sup>3</sup> Die Einsprachen sind während der Auflagefrist mit einem Antrag und dessen Begründung schriftlich bei der in der öffentlichen Bekanntmachung und in der Bekanntgabe an die Grundeigentümer angegebenen Behörde einzureichen. Sie haben keine aufschiebende Wirkung.
+<sup>3</sup> Die Einsprachen sind während der Auflagefrist mit einem Antrag und dessen Begründung schriftlich bei der in der öffentlichen Bekanntmachung und in der Bekanntgabe an die Grundeigentümerinnen und Grundeigentümer angegebenen Behörde einzureichen. Sie haben keine aufschiebende Wirkung.
 
 <sup>4</sup> Die Verwaltungsgerichtsbeschwerde gegen den Einspracheentscheid der zur Bestimmung der Planungszone zuständigen Behörde hat keine aufschiebende Wirkung.
 
@@ -1083,7 +1088,7 @@ beschliesst:
 
 **Zuständigkeit und Koordination**
 
-<sup>1</sup> Die Gemeinde führt eine Landumlegung von sich aus, auf begründetes Gesuch eines oder mehrerer interessierter Grundeigentümer oder auf Anordnung des Regierungsrates durch.
+<sup>1</sup> Die Gemeinde führt eine Landumlegung von sich aus, auf begründetes Gesuch interessierter Grundeigentümerinnen und Grundeigentümer oder auf Anordnung des Regierungsrates durch.
 
 <sup>2</sup> Eine Landumlegung ist in der Regel im Zusammenhang mit der Ausarbeitung oder der Anpassung eines Zonen-, Bebauungs- oder Gestaltungsplanes, eines Strassen- oder Baulinienplanes oder eines Strassen- oder Wasserbauprojektes durchzuführen.
 
@@ -1107,7 +1112,7 @@ beschliesst:
 
 <sup>3</sup> Im Entscheid ist der Zweck der Landumlegung anzugeben und das Landumlegungsgebiet zu bezeichnen.
 
-<sup>4</sup> Der Entscheid ist öffentlich bekannt zu machen und den beteiligten Grundeigentümern mitzuteilen.
+<sup>4</sup> Der Entscheid ist öffentlich bekannt zu machen und den beteiligten Grundeigentümerinnen und Grundeigentümern mitzuteilen.
 
 <sup>5</sup> Zur Sicherstellung der Landumlegung kann eine Planungszone erlassen werden. Die §§ 81–85 gelten sinngemäss.
 
@@ -1119,7 +1124,7 @@ beschliesst:
 
 **Ausscheidung von Flächen für Gemeinbedarf**
 
-<sup>1</sup> Von den in die Landumlegung einbezogenen Grundstücken können die Flächen für Verkehrsanlagen, Spielplätze, Freizeitanlagen und weitere den gemeinsamen Bedürfnissen des Landumlegungsgebietes dienende Anlagen ausgeschieden werden. Diese Flächen sind den beteiligten Grundeigentümern je nach Interesse zu gemeinschaftlichem Eigentum zuzuweisen, soweit sie nicht dem Gemeinwesen abzutreten sind.
+<sup>1</sup> Von den in die Landumlegung einbezogenen Grundstücken können die Flächen für Verkehrsanlagen, Spielplätze, Freizeitanlagen und weitere den gemeinsamen Bedürfnissen des Landumlegungsgebietes dienende Anlagen ausgeschieden werden. Diese Flächen sind den beteiligten Grundeigentümerinnen und Grundeigentümern je nach Interesse zu gemeinschaftlichem Eigentum zuzuweisen, soweit sie nicht dem Gemeinwesen abzutreten sind.
 
 <sup>2</sup> Die Abtretung von Flächen oder Rechten zu öffentlichen Zwecken ist nach den Vorschriften des Enteignungsgesetzes[^92-1] zu entschädigen, wenn keine gütliche Einigung erzielt werden kann.
 
@@ -1129,11 +1134,11 @@ beschliesst:
 
 **Neuzuteilung und Wertausgleich**
 
-<sup>1</sup> Jeder beteiligte Grundeigentümer erhält einen Anteil an der Verteilungsmasse, der wertmässig dem eingebrachten Land annähernd entspricht. Der Verlust an zuteilungsfähigem Land infolge Ausscheidung von Flächen für Gemeinbedarf ist im Verhältnis der Ausmasse der eingebrachten Flächen anzurechnen.
+<sup>1</sup> Alle beteiligten Grundeigentümerinnen und Grundeigentümer erhalten einen Anteil an der Verteilungsmasse, der wertmässig dem von ihnen eingebrachten Land annähernd entspricht. Der Verlust an zuteilungsfähigem Land infolge Ausscheidung von Flächen für Gemeinbedarf ist im Verhältnis der Ausmasse der eingebrachten Flächen anzurechnen.
 
 <sup>2</sup> Durch Boden nicht ausgleichbare Mehr- oder Minderwerte sind mit Geld auszugleichen. Bei Dienstbarkeiten ist ein angemessener Vorteilsbeitrag oder eine Entschädigung zu leisten.
 
-<sup>3</sup> Reicht der Anteil eines Grundeigentümers an der Verteilungsmasse zur Bildung eines überbaubaren Grundstückes nicht aus, ist eine entsprechende Geldentschädigung zu entrichten.
+<sup>3</sup> Reicht der Anteil eines Grundeigentümers oder einer Grundeigentümerin an der Verteilungsmasse zur Bildung eines überbaubaren Grundstückes nicht aus, ist eine entsprechende Geldentschädigung zu entrichten.
 
 #### § 94
 
@@ -1153,7 +1158,7 @@ beschliesst:
 
 **Auflageverfahren**
 
-<sup>1</sup> Der Landumlegungsplan ist öffentlich bekannt zu machen, während 30 Tagen öffentlich aufzulegen und den beteiligten Grundeigentümern mitzuteilen. Während der Auflagefrist kann mit einem Antrag und dessen Begründung schriftlich bei der angegebenen Stelle Einsprache erhoben werden.
+<sup>1</sup> Der Landumlegungsplan ist öffentlich bekannt zu machen, während 30 Tagen öffentlich aufzulegen und den beteiligten Grundeigentümerinnen und Grundeigentümern mitzuteilen. Während der Auflagefrist kann mit einem Antrag und dessen Begründung schriftlich bei der angegebenen Stelle Einsprache erhoben werden.
 
 #### § 98
 
@@ -1179,7 +1184,7 @@ beschliesst:
 
 **Vereinfachtes Verfahren**
 
-<sup>1</sup> Die Grundeigentümer können sich im Rahmen einer privatrechtlichen Vereinbarung, die öffentlich zu beurkunden ist, gütlich über eine Landumlegung einigen. In diesen Fällen gilt abweichend von den Bestimmungen in den §§ 90 ff., dass
+<sup>1</sup> Die Grundeigentümerinnen und Grundeigentümer können sich im Rahmen einer privatrechtlichen Vereinbarung, die öffentlich zu beurkunden ist, gütlich über eine Landumlegung einigen. In diesen Fällen gilt abweichend von den Bestimmungen in den §§ 90 ff., dass
 
 - a. auf eine Vorprüfung verzichtet werden kann,
 - b. bei schriftlicher Zustimmung aller Betroffenen auf die öffentliche Bekanntmachung des Entscheids zur Einleitung des Landumlegungsverfahrens verzichtet werden kann,
@@ -1203,15 +1208,15 @@ beschliesst:
 
 **Zweck und Voraussetzungen**
 
-<sup>1</sup> Für ungünstig abgegrenzte Baugrundstücke, die ihrem Flächeninhalt nach überbaubar sind, kann die Gemeinde von sich aus oder auf Gesuch eines oder mehrerer interessierter Grundeigentümer eine Grenzregulierung anordnen.
+<sup>1</sup> Für ungünstig abgegrenzte Baugrundstücke, die ihrem Flächeninhalt nach überbaubar sind, kann die Gemeinde von sich aus oder auf Gesuch einzelner oder mehrerer interessierter Grundeigentümerinnen und Grundeigentümer eine Grenzregulierung anordnen.
 
-<sup>2</sup> Im Rahmen der Grenzregulierung kann der Abtausch von Land in unbedingt benötigtem Umfang und die Abtretung von höchstens 300 m² Land verfügt werden, sofern dadurch die Überbaubarkeit wesentlich verbessert wird. Den andern beteiligten Grundeigentümern darf aus der Grenzregulierung kein nennenswerter Nachteil erwachsen.
+<sup>2</sup> Im Rahmen der Grenzregulierung kann der Abtausch von Land in unbedingt benötigtem Umfang und die Abtretung von höchstens 300 m² Land verfügt werden, sofern dadurch die Überbaubarkeit wesentlich verbessert wird. Den andern beteiligten Grundeigentümerinnen und Grundeigentümern darf aus der Grenzregulierung kein nennenswerter Nachteil erwachsen.
 
 #### § 103
 
 **Wertausgleich**
 
-<sup>1</sup> Wertänderungen der Grundstücke, die durch die Grenzregulierung entstehen, haben die Eigentümer in Geld auszugleichen.
+<sup>1</sup> Wertänderungen der Grundstücke, die durch die Grenzregulierung entstehen, haben die Eigentümerinnen und Eigentümer in Geld auszugleichen.
 
 <sup>2</sup> Dinglich Berechtigte, deren Rechte durch die Grenzregulierung beeinträchtigt werden, haben einen Anspruch auf Entschädigung.
 
@@ -1231,7 +1236,7 @@ beschliesst:
 
 **Abgabepflicht**
 
-<sup>1</sup> Grundeigentümer, deren Land durch eine Änderung der Bau- und Zonenordnung oder den Erlass oder die Änderung eines Bebauungsplanes (Planänderung) einen Mehrwert erfährt, haben eine Mehrwertabgabe zu entrichten. Alle Rechtsnachfolger haften solidarisch für die im Zeitpunkt des Liegenschaftserwerbs noch ausstehenden Mehrwertabgaben.
+<sup>1</sup> Grundeigentümerinnen und Grundeigentümer, deren Land durch eine Änderung der Bau- und Zonenordnung oder den Erlass oder die Änderung eines Bebauungsplanes (Planänderung) einen Mehrwert erfährt, haben eine Mehrwertabgabe zu entrichten. Alle Rechtsnachfolger haften solidarisch für die im Zeitpunkt des Liegenschaftserwerbs noch ausstehenden Mehrwertabgaben.
 
 <sup>2</sup> Gemeinwesen im Sinn von § 5 des Gesetzes über die Grundstückgewinnsteuer[^105-1] sind von der Abgabe befreit.
 
@@ -1258,9 +1263,9 @@ beschliesst:
 
 **Vertraglicher Mehrwertausgleich**
 
-<sup>1</sup> Die Gemeinde kann bei Um- und Aufzonungen in Gebieten mit Bebauungs- oder Gestaltungsplanpflicht sowie bei Erlass oder Änderung eines Bebauungsplanes anstelle der Veranlagung einer Mehrwertabgabe mit den Grundeigentümern einen verwaltungsrechtlichen Vertrag abschliessen.
+<sup>1</sup> Die Gemeinde kann bei Um- und Aufzonungen in Gebieten mit Bebauungs- oder Gestaltungsplanpflicht sowie bei Erlass oder Änderung eines Bebauungsplanes anstelle der Veranlagung einer Mehrwertabgabe mit den Grundeigentümerinnen und Grundeigentümern einen verwaltungsrechtlichen Vertrag abschliessen.
 
-<sup>2</sup> Solche Verträge regeln Rechte und Pflichten der Grundeigentümer und des zuständigen Gemeinwesens im Zusammenhang mit der Verwirklichung eines Bauvorhabens. Gegenstand solcher Verträge können insbesondere sein:
+<sup>2</sup> Solche Verträge regeln Rechte und Pflichten der Grundeigentümerinnen und Grundeigentümer und des zuständigen Gemeinwesens im Zusammenhang mit der Verwirklichung eines Bauvorhabens. Gegenstand solcher Verträge können insbesondere sein:
 
 - a. die Beteiligung an der Infrastruktur, insbesondere an der Förderung des öffentlichen Verkehrs und der Zugänglichkeit seiner Haltestellen,
 - b. die Beteiligung an der Gestaltung des öffentlichen Raums, insbesondere an der Erstellung und Gestaltung von Parks, Plätzen und anderen öffentlich zugänglichen Freiräumen, Grünanlagen und Erholungseinrichtungen,
@@ -1271,7 +1276,7 @@ beschliesst:
 - g. die Vereinbarung eines Kaufrechts zugunsten des Gemeinwesens im Fall der Nichtüberbauung,
 - h. die Verteilung der Planungskosten, die Finanzierung von Machbarkeitsstudien, Studienaufträgen und Wettbewerben.
 
-<sup>3</sup> Sind die Grundeigentümer mit einer vertraglichen Lösung nicht einverstanden, können sie die Veranlagung der Mehrwertabgabe verlangen.
+<sup>3</sup> Sind die Grundeigentümerinnen und Grundeigentümer mit einer vertraglichen Lösung nicht einverstanden, können sie die Veranlagung der Mehrwertabgabe verlangen.
 
 #### § 105b
 
@@ -1307,7 +1312,7 @@ beschliesst:
 
 <sup>1</sup> Die Erträge aus der Mehrwertabgabe für Einzonungen werden einem vom Kanton verwalteten Fonds zugewiesen. Die Fondsmittel sind in erster Linie zur Finanzierung von Entschädigungen zur Reduktion überdimensionierter Bauzonen (Rückzonungen), inklusive Verfahrenskosten und Zinskosten bei Vorfinanzierung durch die Gemeinde, zu verwenden. Die überschüssigen Mittel sind hälftig für weitere kantonale Massnahmen der Raumplanung nach Artikel 3 des Raumplanungsgesetzes und für die Rückverteilung an die Gemeinden nach einem vom Regierungsrat festzusetzenden Schlüssel zu verwenden.
 
-<sup>2</sup> Einigen sich Kanton, Gemeinde und betroffene Grundeigentümer bei kompensatorischen Auszonungen gütlich über die dafür zu leistende Entschädigung, kann der als Mehrwertabgabe für die gleichzeitige Einzonung geschuldete Betrag ganz oder teilweise dafür eingesetzt werden.
+<sup>2</sup> Einigen sich Kanton, Gemeinde und betroffene Grundeigentümerinnen und Grundeigentümer bei kompensatorischen Auszonungen gütlich über die dafür zu leistende Entschädigung, kann der als Mehrwertabgabe für die gleichzeitige Einzonung geschuldete Betrag ganz oder teilweise dafür eingesetzt werden.
 
 <sup>3</sup> Der Ertrag aus der Mehrwertabgabe für Um- und Aufzonungen in Gebieten mit Bebauungs- oder Gestaltungsplanpflicht sowie für den Erlass oder die Änderung eines Bebauungsplanes fällt der Standortgemeinde zu und ist für weitere Massnahmen der Raumplanung nach Artikel 3 des Raumplanungsgesetzes, insbesondere für Massnahmen zur inneren Verdichtung, für Aufwertungen des öffentlichen Raums und von Natur und Landschaft sowie für die Förderung der Siedlungsqualität und des preisgünstigen oder gemeinnützigen Wohnungsbaus zu verwenden.
 
@@ -1323,7 +1328,7 @@ beschliesst:
 
 <sup>2</sup> Gegen die Veranlagung kann bei der Veranlagungsbehörde innert 30 Tagen nach Zustellung der Verfügung schriftlich Einsprache erhoben werden. Die Bestimmungen von § 154 des Steuergesetzes[^105e-1] gelten sinngemäss. Gegen die Einspracheentscheide der Veranlagungsbehörde ist innert 30 Tagen seit Zustellung die Verwaltungsgerichtsbeschwerde zulässig. Dem Kantonsgericht steht auch die Ermessenskontrolle zu.
 
-<sup>3</sup> Wird die verfügte Mehrwertabgabe fällig, stellt die Gemeinde den Betrag in Rechnung. Bei der Fälligkeit infolge Überbauung des Grundstücks nach § 105c Absätze 1a und 2a kann die Gemeinde eine Zahlungsfrist von maximal 12 Monaten gewähren. Ist der Eintritt der Fälligkeit strittig, kann der Grundeigentümer innert 30 Tagen seit Zustellung der Rechnung einen mit Verwaltungsgerichtsbeschwerde anfechtbaren Entscheid zur Fälligkeit verlangen. Der Abgabebetrag ist nach Ablauf von 30 Tagen seit Rechnungstellung nach einem vom Regierungsrat festzusetzenden Zinssatz zu verzinsen. Eine Verwaltungsgerichtsbeschwerde hemmt den Zinsenlauf nicht.
+<sup>3</sup> Wird die verfügte Mehrwertabgabe fällig, stellt die Gemeinde den Betrag in Rechnung. Bei der Fälligkeit infolge Überbauung des Grundstücks nach § 105c Absätze 1a und 2a kann die Gemeinde eine Zahlungsfrist von maximal 12 Monaten gewähren. Ist der Eintritt der Fälligkeit strittig, kann der Grundeigentümer oder die Grundeigentümerin innert 30 Tagen seit Zustellung der Rechnung einen mit Verwaltungsgerichtsbeschwerde anfechtbaren Entscheid zur Fälligkeit verlangen. Der Abgabebetrag ist nach Ablauf von 30 Tagen seit Rechnungstellung nach einem vom Regierungsrat festzusetzenden Zinssatz zu verzinsen. Eine Verwaltungsgerichtsbeschwerde hemmt den Zinsenlauf nicht.
 
 <sup>4</sup> Soweit in diesem Gesetz nichts anderes geregelt wird, gelten für die Veranlagung und den Bestand der Forderung sinngemäss die §§ 25, 27 Absätze 2 und 3, 28 Absätze 2 und 3, 32 Absatz 3, 33 Absätze 1 und 2 sowie 34 des Gesetzes über die Grundstückgewinnsteuer[^105e-2].
 
@@ -1370,7 +1375,7 @@ beschliesst:
 
 **Verweis auf Enteignungsgesetz**
 
-<sup>1</sup> Kann keine gütliche Einigung erzielt werden, wird die Entschädigung gemäss Enteignungsgesetz festgesetzt. Neben dem Enteigner ist auch der Enteignete zur Einleitung des Schätzungsverfahrens legitimiert.
+<sup>1</sup> Kann keine gütliche Einigung erzielt werden, wird die Entschädigung gemäss Enteignungsgesetz festgesetzt. Neben dem Enteigner oder der Enteignerin ist auch der oder die Enteignete zur Einleitung des Schätzungsverfahrens legitimiert.
 
 #### § 108
 
@@ -1384,9 +1389,9 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Gemeinden, Gemeindeverbände und Genossenschaften des kantonalen Rechts können für öffentliche Werke oder für Werke im öffentlichen Interesse von den interessierten Grundeigentümern Beiträge an die Bau-, Korrektions-, Betriebs- und Unterhaltskosten erheben. Für Wasser- und Energieversorgungsanlagen steht dieses Recht auch privaten Versorgungsunternehmen zu, die im Einverständnis des zuständigen Gemeinwesens eine Aufgabe im öffentlichen Interesse erfüllen.
+<sup>1</sup> Gemeinden, Gemeindeverbände und Genossenschaften des kantonalen Rechts können für öffentliche Werke oder für Werke im öffentlichen Interesse von den interessierten Grundeigentümerinnen und Grundeigentümern Beiträge an die Bau-, Korrektions-, Betriebs- und Unterhaltskosten erheben. Für Wasser- und Energieversorgungsanlagen steht dieses Recht auch privaten Versorgungsunternehmen zu, die im Einverständnis des zuständigen Gemeinwesens eine Aufgabe im öffentlichen Interesse erfüllen.
 
-<sup>2</sup> Beitragspflichtig sind auch interessierte Eigentümer von Anlagen jeder Art wie Geleise, Leitungen, Kanäle, Seilbahnen und dergleichen, soweit diese nicht bereits als Bestandteil eines Grundstücks erfasst werden.
+<sup>2</sup> Beitragspflichtig sind auch interessierte Eigentümerinnen und Eigentümer von Anlagen jeder Art wie Geleise, Leitungen, Kanäle, Seilbahnen und dergleichen, soweit diese nicht bereits als Bestandteil eines Grundstücks erfasst werden.
 
 #### § 110
 
@@ -1444,17 +1449,17 @@ beschliesst:
 
 **Benützung öffentlichen Grundes**
 
-<sup>1</sup> Wer öffentlichen Grund für private Zwecke vorübergehend (Bauarbeiten, Materialdeponien usw.) oder dauernd (Unterniveaubauten, Balkone, Erker usw.) beanspruchen will, hat die Bewilligung des Eigentümers einzuholen, der dafür eine angemessene Gebühr verlangen kann. Die Höhe der Gebühren und die Art der Erhebung sind für den staatlichen Grund vom Regierungsrat in einer Verordnung und für den kommunalen Grund von den Stimmberechtigten der Gemeinden in einem Reglement festzusetzen. Das in den Gemeindeordnungen vorgesehene Rechtsetzungsverfahren und die Vorschriften des Strassengesetzes bleiben vorbehalten.
+<sup>1</sup> Wer öffentlichen Grund für private Zwecke vorübergehend (Bauarbeiten, Materialdeponien usw.) oder dauernd (Unterniveaubauten, Balkone, Erker usw.) beanspruchen will, hat die Bewilligung des Eigentümers oder der Eigentümerin einzuholen, der oder die dafür eine angemessene Gebühr verlangen kann. Die Höhe der Gebühren und die Art der Erhebung sind für den staatlichen Grund vom Regierungsrat in einer Verordnung und für den kommunalen Grund von den Stimmberechtigten der Gemeinden in einem Reglement festzusetzen. Das in den Gemeindeordnungen vorgesehene Rechtsetzungsverfahren und die Vorschriften des Strassengesetzes bleiben vorbehalten.
 
 #### § 114
 
 **Zeichen und Einrichtungen auf privatem Grund; vorbereitende Handlungen**
 
-<sup>1</sup> Erfordert es das öffentliche Interesse, können Kanton und Gemeinden sowie Unternehmen der Wasser- und Energieversorgung auf Privatgrundstücken und an privaten Bauten unentgeltlich Zeichen und Einrichtungen wie Strassentafeln, Verkehrssignale, Hinweistafeln für Verteilnetze, Vorrichtungen für Fahrleitungen und Beleuchtungen, Hydranten usw. anbringen lassen. Dabei haben sie die Wünsche der betroffenen Grundeigentümer für Art und Standort der Anbringung soweit als möglich zu berücksichtigen.
+<sup>1</sup> Erfordert es das öffentliche Interesse, können Kanton und Gemeinden sowie Unternehmen der Wasser- und Energieversorgung auf Privatgrundstücken und an privaten Bauten unentgeltlich Zeichen und Einrichtungen wie Strassentafeln, Verkehrssignale, Hinweistafeln für Verteilnetze, Vorrichtungen für Fahrleitungen und Beleuchtungen, Hydranten usw. anbringen lassen. Dabei haben sie die Wünsche der betroffenen Grundeigentümerinnen und Grundeigentümer für Art und Standort der Anbringung soweit als möglich zu berücksichtigen.
 
 <sup>2</sup> Die Kosten für Erstellen, Unterhalt, Verlegen und Entfernen dieser Anlagen und für die notwendigen Anpassungsarbeiten tragen die Berechtigten.
 
-<sup>3</sup> Massnahmen zur Vorbereitung von Planung und Projektierung wie Begehungen, Planaufnahmen, Vermessungen und Bodenuntersuchungen sind zu dulden. Sie sind im voraus dem Besitzer des betroffenen Grundstücks in angemessener Weise anzuzeigen. Der durch diese Massnahmen entstandene Schaden ist zu ersetzen. Im Streitfall wird die Entschädigung im Schätzungsverfahren nach dem Enteignungsgesetz festgesetzt. Allfällige Schadenersatzforderungen sind bei der Schätzungskommission einzureichen. Sie verjähren innert Jahresfrist seit Kenntnis des Schadens, spätestens aber nach Ablauf von fünf Jahren seit dem schädigenden Ereignis.
+<sup>3</sup> Massnahmen zur Vorbereitung von Planung und Projektierung wie Begehungen, Planaufnahmen, Vermessungen und Bodenuntersuchungen sind zu dulden. Sie sind im voraus dem Besitzer oder der Besitzerin des betroffenen Grundstücks in angemessener Weise anzuzeigen. Der durch diese Massnahmen entstandene Schaden ist zu ersetzen. Im Streitfall wird die Entschädigung im Schätzungsverfahren nach dem Enteignungsgesetz festgesetzt. Allfällige Schadenersatzforderungen sind bei der Schätzungskommission einzureichen. Sie verjähren innert Jahresfrist seit Kenntnis des Schadens, spätestens aber nach Ablauf von fünf Jahren seit dem schädigenden Ereignis.
 
 #### § 115
 
@@ -1490,22 +1495,22 @@ beschliesst:
 
 **Erschliessung durch die Gemeinde**
 
-<sup>1</sup> Die Gemeinde kann, wenn es das öffentliche Interesse erfordert, auf Gesuch hin die Erstellung, den Ausbau oder den Ersatz von Erschliessungsanlagen übernehmen, sofern sich die nach Massgabe des kommunalen Erschliessungsrichtplanes dazu verpflichteten Grundeigentümer nicht einigen.
+<sup>1</sup> Die Gemeinde kann, wenn es das öffentliche Interesse erfordert, auf Gesuch hin die Erstellung, den Ausbau oder den Ersatz von Erschliessungsanlagen übernehmen, sofern sich die nach Massgabe des kommunalen Erschliessungsrichtplanes dazu verpflichteten Grundeigentümerinnen und Grundeigentümer nicht einigen.
 
 <sup>2</sup> Sie entscheidet im jeweiligen Plangenehmigungs- oder Projektbewilligungsverfahren über das Gesuch und die Erstellung, den Ausbau oder den Ersatz der Erschliessungsanlagen. Sie kann vorweg auch nur über das Gesuch befinden.
 
-<sup>3</sup> Die interessierten Grundeigentümer tragen die Kosten. Einigen sie sich nicht, überbindet die Gemeinde die Kosten im Perimeterverfahren.
+<sup>3</sup> Die interessierten Grundeigentümerinnen und Grundeigentümer tragen die Kosten. Einigen sie sich nicht, überbindet die Gemeinde die Kosten im Perimeterverfahren.
 
 #### § 117b
 
 **Erschliessung durch Private, Bevorschussung**
 
-<sup>1</sup> Werden die Leistungen, welche die Gemeinde oder die besonders bezeichneten Erschliessungsträger zur Erschliessung der Bauzonen zu erbringen haben, nicht wie im kommunalen Erschliessungsrichtplan vorgesehen verwirklicht, sind die interessierten Grundeigentümer berechtigt, diese
+<sup>1</sup> Werden die Leistungen, welche die Gemeinde oder die besonders bezeichneten Erschliessungsträger zur Erschliessung der Bauzonen zu erbringen haben, nicht wie im kommunalen Erschliessungsrichtplan vorgesehen verwirklicht, sind die interessierten Grundeigentümerinnen und Grundeigentümer berechtigt, diese
 
 - a. selber vorzunehmen; dazu können sie die Übertragung des den Gemeinden zustehenden Enteignungsrechts verlangen,
 - b. durch eine unverzinsliche Bevorschussung der anfallenden Kosten zu erwirken.
 
-<sup>2</sup> Die Gemeinde entscheidet über die Privaterschliessung oder die Bevorschussung nach Absatz 1 und bestimmt den Zeitpunkt und die Modalitäten der Rückerstattung der durch die interessierten Grundeigentümer erbrachten finanziellen Vorleistungen. Hat die Gemeinde Erschliessungsleistungen zu erbringen, entscheidet die zuständige Stelle der Gemeinde gestützt auf einen Kreditbeschluss nach Massgabe des kommunalen Rechts.
+<sup>2</sup> Die Gemeinde entscheidet über die Privaterschliessung oder die Bevorschussung nach Absatz 1 und bestimmt den Zeitpunkt und die Modalitäten der Rückerstattung der durch die interessierten Grundeigentümerinnen und Grundeigentümer erbrachten finanziellen Vorleistungen. Hat die Gemeinde Erschliessungsleistungen zu erbringen, entscheidet die zuständige Stelle der Gemeinde gestützt auf einen Kreditbeschluss nach Massgabe des kommunalen Rechts.
 
 <sup>3</sup> Der Regierungsrat regelt das Nähere in der Verordnung.
 
@@ -1528,6 +1533,19 @@ beschliesst:
 <sup>3</sup> Bei Strassen, die keinen Durchgangsverkehr und nur geringen Lokalverkehr aufweisen, können Ausnahmen von der Vorschrift über die Länge der Vorplätze von Garagen gestattet werden.
 
 <sup>4</sup> Zur Verminderung des Regenwasserabflusses können eine wasserdurchlässige Gestaltung der Oberfläche oder Massnahmen verlangt werden, die bei starken Niederschlägen einen kurzfristigen, schadlosen Stau bewirken.
+
+#### § 119a
+
+**Ladeinfrastruktur für Elektrofahrzeuge**
+
+<sup>1</sup> Parkplätze in Einstellhallen von Gebäuden mit fünf und mehr Parkplätzen für Bewohnerinnen und Bewohner oder zehn und mehr Parkplätzen für Beschäftigte sind mit einer Grundinfrastruktur für das Laden von Elektrofahrzeugen auszurüsten, bei
+
+- a. Neubauten,
+- b. einer baubewilligungspflichtigen Erweiterung oder Änderung der Einstellhalle.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten in der Verordnung.
+
+<sup>3</sup> Die Gemeinden können in einem Reglement weitergehende Vorschriften für die Pflicht zur Erstellung der Grundinfrastruktur erlassen.
 
 ### 5.3 Abstände
 
@@ -1637,11 +1655,11 @@ beschliesst:
 
 **Grenzabstand bei geschlossener Bauweise**
 
-<sup>1</sup> Wo die geschlossene Bauweise zwingend vorgeschrieben ist, müssen die seitlichen Umfassungsmauern (Brandmauern) der Gebäude bis auf 12 m Tiefe und dürfen auch ohne Zustimmung des Nachbarn bis auf 25 m Tiefe, beides von der Baulinie an gerechnet, auf oder an die Grenze gestellt werden. Wird nicht in der ganzen erlaubten Tiefe an die Grenze gebaut, beträgt der seitliche Abstand, gemessen ab der Fassade beziehungsweise allfälligen weiter vorspringenden Gebäudeteilen, ohne Rücksicht auf die Höhe der Gebäude mindestens 3,5 m von der Grenze und 7 m vom Nachbargebäude.
+<sup>1</sup> Wo die geschlossene Bauweise zwingend vorgeschrieben ist, müssen die seitlichen Umfassungsmauern (Brandmauern) der Gebäude bis auf 12 m Tiefe und dürfen auch ohne Zustimmung des Nachbarn oder der Nachbarin bis auf 25 m Tiefe, beides von der Baulinie an gerechnet, auf oder an die Grenze gestellt werden. Wird nicht in der ganzen erlaubten Tiefe an die Grenze gebaut, beträgt der seitliche Abstand, gemessen ab der Fassade beziehungsweise allfälligen weiter vorspringenden Gebäudeteilen, ohne Rücksicht auf die Höhe der Gebäude mindestens 3,5 m von der Grenze und 7 m vom Nachbargebäude.
 
-<sup>2</sup> Wo die geschlossene Bauweise oder der Grenzbau zulässig ist, können sich die Nachbarn gegenseitig das Recht und die Pflicht zum Zusammenbau einräumen. Ein solches gegenseitiges Grenzbaurecht bedarf der öffentlichen Beurkundung und der Genehmigung der Gemeinde, die im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung anzumerken ist.
+<sup>2</sup> Wo die geschlossene Bauweise oder der Grenzbau zulässig ist, können sich die Nachbarinnen und Nachbarn gegenseitig das Recht und die Pflicht zum Zusammenbau einräumen. Ein solches gegenseitiges Grenzbaurecht bedarf der öffentlichen Beurkundung und der Genehmigung der Gemeinde, die im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung anzumerken ist.
 
-<sup>3</sup> Ohne Baubewilligung und gegen den Willen des Nachbarn dürfen an einer Mauer, die auf oder an der Grenze steht, keine Fenster oder Türen angebracht oder später ausgebrochen werden; das gleiche gilt für Mauern, die den gesetzlichen Grenzabstand nicht einhalten.
+<sup>3</sup> Ohne Baubewilligung und gegen den Willen des Nachbarn oder der Nachbarin dürfen an einer Mauer, die auf oder an der Grenze steht, keine Fenster oder Türen angebracht oder später ausgebrochen werden; das gleiche gilt für Mauern, die den gesetzlichen Grenzabstand nicht einhalten.
 
 <sup>4</sup> Dachüberlagerungen, Verbindungen nur in den Dachrändern, Weiterführung einer einzigen Hauswand und dergleichen gelten nicht als Zusammenbau.
 
@@ -1693,11 +1711,11 @@ beschliesst:
 - j. zur Schaffung harmonischer Übergänge zwischen Bauzonen, wenn die zulässige Gesamthöhe deutlich unterschritten wird,
 - k. für den Gebäudeabstand neuer Bauten, die den gesetzlichen Grenzabstand einhalten, wenn auf dem Nachbargrundstück bereits eine Baute in einem geringeren Abstand von der gemeinsamen Grenze steht,
 - l. in ausserordentlichen Fällen,
-- m. wenn sich benachbarte Grundeigentümer im Rahmen einer öffentlich beurkundeten Vereinbarung auf einen geringeren Grenzabstand einigen.
+- m. wenn sich benachbarte Grundeigentümerinnen und Grundeigentümer im Rahmen einer öffentlich beurkundeten Vereinbarung auf einen geringeren Grenzabstand einigen.
 
 <sup>2</sup> Eine Ausnahmebewilligung darf nur erteilt werden, wenn die öffentlichen Interessen und schutzwürdige private Interessen nicht wesentlich beeinträchtigt werden.
 
-<sup>3</sup> Soll in den Fällen von Absatz 1a–l ein Grenzabstand von weniger als 2 m bewilligt werden, ist eine öffentlich beurkundete Vereinbarung der Grundeigentümer erforderlich.
+<sup>3</sup> Soll in den Fällen von Absatz 1a–l ein Grenzabstand von weniger als 2 m bewilligt werden, ist eine öffentlich beurkundete Vereinbarung der Grundeigentümerinnen und Grundeigentümer erforderlich.
 
 <sup>4</sup> Der Regierungsrat regelt das Nähere in der Verordnung.
 
@@ -1705,7 +1723,7 @@ beschliesst:
 
 **Einrichtungen im öffentlichen Interesse**
 
-<sup>1</sup> Abweichend von den Abstandsvorschriften dürfen auf öffentlichem Grund Einrichtungen wie Brunnen, Schutzdächer, Verteilerkästen, Billettautomaten und Lärmschutzeinrichtungen erstellt und Pflanzungen vorgenommen werden, soweit das öffentliche Interesse es erfordert. Dabei ist auf die Umgebung und die Interessen benachbarter Grundeigentümer gebührend Rücksicht zu nehmen.
+<sup>1</sup> Abweichend von den Abstandsvorschriften dürfen auf öffentlichem Grund Einrichtungen wie Brunnen, Schutzdächer, Verteilerkästen, Billettautomaten und Lärmschutzeinrichtungen erstellt und Pflanzungen vorgenommen werden, soweit das öffentliche Interesse es erfordert. Dabei ist auf die Umgebung und die Interessen benachbarter Grundeigentümerinnen und Grundeigentümer gebührend Rücksicht zu nehmen.
 
 ### 5.3.4 Andere Abstände
 
@@ -1840,15 +1858,15 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Alle Bauten und Anlagen müssen in Konstruktion und Material die für ihren Zweck notwendige Festigkeit und Feuersicherheit aufweisen. Sie sind so zu erstellen und zu unterhalten, dass weder Menschen noch Sachen gefährdet werden. Insbesondere haben sie genügende Sicherheit für ihre Bewohner und Benützer zu bieten. Der Regierungsrat erlässt in der Vollzugsverordnung die notwendigen Vorschriften.[^145-1]
+<sup>1</sup> Alle Bauten und Anlagen müssen in Konstruktion und Material die für ihren Zweck notwendige Festigkeit und Feuersicherheit aufweisen. Sie sind so zu erstellen und zu unterhalten, dass weder Menschen noch Sachen gefährdet werden. Insbesondere haben sie genügende Sicherheit für ihre Bewohnerinnen und Bewohner sowie Benützerinnen und Benützer zu bieten. Der Regierungsrat erlässt in der Vollzugsverordnung die notwendigen Vorschriften.[^145-1]
 
 <sup>2</sup> Durch Brand oder aus andern Gründen beschädigte oder zerstörte Bauten und Anlagen sind ganz abzutragen oder im Rahmen der baurechtlichen Vorschriften wiederherzustellen.
 
-<sup>3</sup> Die Grundeigentümer in Bauzonen haben dafür zu sorgen, dass von ihren Grundstücken keine von ihnen verursachten, gefahrdrohenden Zustände oder Vorgänge wie Rutsch oder Steinschlag ausgehen.
+<sup>3</sup> Die Grundeigentümerinnen und Grundeigentümer in Bauzonen haben dafür zu sorgen, dass von ihren Grundstücken keine von ihnen verursachten, gefahrdrohenden Zustände oder Vorgänge wie Rutsch oder Steinschlag ausgehen.
 
 <sup>4</sup> Bei Bau-, Unterhalts- und Abbrucharbeiten sind bauseits alle Sicherungsmassnahmen zu treffen, die zum Schutz der Nachbarschaft und der Verkehrsteilnehmer erforderlich sind.
 
-<sup>5</sup> Die Gemeinde verhält die Grundeigentümer zur Vornahme der gemäss den Absätzen 1–4 erforderlichen Massnahmen innert gesetzter Frist unter Androhung der Ersatzvornahme (§ 209).
+<sup>5</sup> Die Gemeinde verhält die Grundeigentümerinnen und Grundeigentümer zur Vornahme der gemäss den Absätzen 1–4 erforderlichen Massnahmen innert gesetzter Frist unter Androhung der Ersatzvornahme (§ 209).
 
 <sup>6</sup> Der Regierungsrat kann für bestimmte Bauten und Anlagen besondere Sicherheitsvorschriften erlassen.
 
@@ -1870,12 +1888,12 @@ beschliesst:
 
 <sup>1</sup> Die Pflicht zur Erstellung von Brandmauern ist im Gesetz über den Feuerschutz[^147-1] und in der Vollzugsverordnung[^147-2] geregelt.
 
-<sup>2</sup> Ist die geschlossene Bauweise zwingend vorgeschrieben und können sich zwei Nachbarn über die Ausführung einer gemeinsamen Brandmauer nicht verständigen, gilt folgende Regelung:
+<sup>2</sup> Ist die geschlossene Bauweise zwingend vorgeschrieben und können sich Nachbarinnen und Nachbarn über die Ausführung einer gemeinsamen Brandmauer nicht verständigen, gilt folgende Regelung:
 
-- a. Der zuerst Bauende ist berechtigt, eine Brandmauer mit ihrer Mitte auf die Grenze zu stellen, und zwar ohne Entschädigung für die Inanspruchnahme des fremden Bodens.
-- b. Baut später der Nachbar an, hat er dem zuerst Bauenden den halben Wert der Mauer zu ersetzen, soweit er sie benützt. In diesem Fall trägt er auch die Hälfte der Unterhaltskosten.
+- a. Der oder die zuerst Bauende ist berechtigt, eine Brandmauer mit ihrer Mitte auf die Grenze zu stellen, und zwar ohne Entschädigung für die Inanspruchnahme des fremden Bodens.
+- b. Baut später der Nachbar oder die Nachbarin an, hat er dem zuerst Bauenden den halben Wert der Mauer zu ersetzen, soweit er sie benützt. In diesem Fall trägt er auch die Hälfte der Unterhaltskosten.
 - c. Wer an eine Brandmauer anbaut und dabei Boden des Nachbargrundstücks beansprucht, hat dafür eine Entschädigung zu leisten.
-- d. Bevor die Beträge bezahlt sind, braucht der Ersteller der Brandmauer den Anbau einer Neubaute oder die Vergrösserung einer bestehenden Baute an der Mauer nicht zu dulden.
+- d. Bevor die Beträge bezahlt sind, braucht der Ersteller oder die Erstellerin der Brandmauer den Anbau einer Neubaute oder die Vergrösserung einer bestehenden Baute an der Mauer nicht zu dulden.
 
 <sup>3</sup> Eine gemeinsam benützte Brandmauer darf von den Beteiligten unterfahren, erhöht oder verlängert werden.
 
@@ -2004,7 +2022,7 @@ beschliesst:
 
 **Ersatzabgaben**
 
-<sup>1</sup> Verunmöglichen die örtlichen Verhältnisse die Erstellung der erforderlichen Spielplätze und anderer Freizeitanlagen oder stehen der Erstellung solcher Anlagen ausnahmsweise andere Gründe entgegen, hat der Bauherr eine angemessene Ersatzabgabe zu entrichten.
+<sup>1</sup> Verunmöglichen die örtlichen Verhältnisse die Erstellung der erforderlichen Spielplätze und anderer Freizeitanlagen oder stehen der Erstellung solcher Anlagen ausnahmsweise andere Gründe entgegen, hat der Bauherr oder die Bauherrin eine angemessene Ersatzabgabe zu entrichten.
 
 <sup>2</sup> Die Höhe der Ersatzabgabe ist von den Stimmberechtigten im Bau- und Zonenreglement oder in einem besondern Reglement festzulegen.
 
@@ -2024,7 +2042,7 @@ beschliesst:
 
 <sup>1</sup> Bei den Bauarbeiten sind alle zumutbaren, dem Stand der Technik entsprechenden Massnahmen zu treffen, um übermässige Einwirkungen auf die Nachbarschaft durch Lärm, Staub, Erschütterungen usw. zu vermeiden.
 
-<sup>2</sup> Wo die Verhältnisse es als angezeigt erscheinen lassen, können vom Gesuchsteller im Baubewilligungsverfahren nähere Angaben und Unterlagen über die vorgesehenen Baumethoden usw. verlangt werden.
+<sup>2</sup> Wo die Verhältnisse es als angezeigt erscheinen lassen, können vom Gesuchsteller oder der Gesuchstellerin im Baubewilligungsverfahren nähere Angaben und Unterlagen über die vorgesehenen Baumethoden usw. verlangt werden.
 
 <sup>3</sup> Die Gemeinde hat in der Baubewilligung und auch während der Bauausführung Massnahmen zur Vermeidung übermässiger Einwirkungen auf die Nachbarschaft vorzuschreiben.
 
@@ -2040,7 +2058,7 @@ beschliesst:
 
 **Voraussetzungen**
 
-<sup>1</sup> Räume, die zum Aufenthalt von Menschen bestimmt sind, dürfen erst bezogen werden, wenn sie fertiggestellt und genügend ausgetrocknet sind, der Anschluss an die Trinkwasserversorgung und die Kanalisation vollzogen ist, keine Gefahr für Gesundheit und Sicherheit der Bewohner besteht und die Bedingungen und Auflagen der Baubewilligung, soweit möglich, erfüllt sind.
+<sup>1</sup> Räume, die zum Aufenthalt von Menschen bestimmt sind, dürfen erst bezogen werden, wenn sie fertiggestellt und genügend ausgetrocknet sind, der Anschluss an die Trinkwasserversorgung und die Kanalisation vollzogen ist, keine Gefahr für Gesundheit und Sicherheit der Bewohnerinnen und Bewohner besteht und die Bedingungen und Auflagen der Baubewilligung, soweit möglich, erfüllt sind.
 
 ### 5.8
 
@@ -2083,7 +2101,7 @@ beschliesst:
 
 **Begriffe**
 
-<sup>1</sup> Einkaufs- oder Fachmarktzentren sind Betriebe von einem oder mehreren Unternehmen des Detailhandels mit einem Warenangebot für Selbstverbraucher und gegebenenfalls von Dienstleistungsunternehmen, deren Nettoflächen in enger räumlicher Beziehung zueinander stehen und die planerisch oder baulich eine Einheit bilden.
+<sup>1</sup> Einkaufs- oder Fachmarktzentren sind Betriebe von einem oder mehreren Unternehmen des Detailhandels mit einem Warenangebot für Selbstverbraucherinnen und Selbstverbraucher und gegebenenfalls von Dienstleistungsunternehmen, deren Nettoflächen in enger räumlicher Beziehung zueinander stehen und die planerisch oder baulich eine Einheit bilden.
 
 <sup>2</sup> Einkaufszentren bieten ohne Einschränkung auf einzelne Branchen insbesondere Waren für den täglichen und den häufigen periodischen Bedarf an.
 
@@ -2169,7 +2187,7 @@ beschliesst:
 
 **Fahrende**
 
-<sup>1</sup> Die Gemeinde kann das Abstellen von Fahrzeugen des fahrenden Volkes an den von ihr erlaubten Standorten und mit Zustimmung der Grundeigentümer während mehr als 30 Tagen ohne Baubewilligung gestatten.
+<sup>1</sup> Die Gemeinde kann das Abstellen von Fahrzeugen des fahrenden Volkes an den von ihr erlaubten Standorten und mit Zustimmung der Grundeigentümerinnen und Grundeigentümer während mehr als 30 Tagen ohne Baubewilligung gestatten.
 
 ### 5.12 Bestandesgarantie und Bauvorhaben ausserhalb der Bauzonen
 
@@ -2237,7 +2255,7 @@ beschliesst:
 
 <sup>1</sup> Wer eine Baute oder Anlage erstellen, baulich oder in ihrer Nutzung ändern will, hat dafür eine Baubewilligung einzuholen.
 
-<sup>2</sup> Ausgenommen sind Bauten und Anlagen oder Änderungen derselben, für die nach dem gewöhnlichen Lauf der Dinge kein Interesse der Öffentlichkeit oder der Nachbarn besteht, die Übereinstimmung mit den öffentlich-rechtlichen Bau- und Nutzungsvorschriften vorgängig zu kontrollieren. Dazu zählen insbesondere Reparatur- und Unterhaltsarbeiten.
+<sup>2</sup> Ausgenommen sind Bauten und Anlagen oder Änderungen derselben, für die nach dem gewöhnlichen Lauf der Dinge kein Interesse der Öffentlichkeit oder der Nachbarinnen und Nachbarn besteht, die Übereinstimmung mit den öffentlich-rechtlichen Bau- und Nutzungsvorschriften vorgängig zu kontrollieren. Dazu zählen insbesondere Reparatur- und Unterhaltsarbeiten.
 
 <sup>3</sup> Der Regierungsrat bestimmt in der Verordnung jene Bauten und Anlagen und jene Änderungen derselben, die
 
@@ -2258,21 +2276,21 @@ beschliesst:
 
 **Abbrucharbeiten**
 
-<sup>1</sup> Der Eigentümer einer Baute oder Anlage hat der Gemeinde Abbrucharbeiten spätestens 20 Tage vorher zu melden.
+<sup>1</sup> Der Eigentümer oder die Eigentümerin einer Baute oder Anlage hat der Gemeinde Abbrucharbeiten spätestens 20 Tage vorher zu melden.
 
-<sup>2</sup> Die Abbrucharbeiten werden untersagt, wenn sie öffentlich-rechtlichen Vorschriften widersprechen. Der Entscheid ist dem Eigentümer innert der zwanzigtägigen Frist zuzustellen. Ist es notwendig, die Übereinstimmung des Abbruchs mit den Bau- und Nutzungsvorschriften näher abzuklären, sind die Arbeiten vor Fristablauf vorläufig zu verbieten und vom Eigentümer die erforderlichen Unterlagen einzuverlangen.
+<sup>2</sup> Die Abbrucharbeiten werden untersagt, wenn sie öffentlich-rechtlichen Vorschriften widersprechen. Der Entscheid ist dem Eigentümer oder der Eigentümerin innert der zwanzigtägigen Frist zuzustellen. Ist es notwendig, die Übereinstimmung des Abbruchs mit den Bau- und Nutzungsvorschriften näher abzuklären, sind die Arbeiten vor Fristablauf vorläufig zu verbieten und vom Eigentümer oder der Eigentümerin die erforderlichen Unterlagen einzuverlangen.
 
 #### § 188
 
 **Baugesuch, Beilagen**
 
-<sup>1</sup> Das von der Bauherrschaft und den Grundeigentümern unterzeichnete Baugesuch ist nach den vom Regierungsrat in der Verordnung festgelegten Vorgaben bei der Gemeinde einzureichen.
+<sup>1</sup> Das von der Bauherrschaft und den Grundeigentümerinnen und Grundeigentümern unterzeichnete Baugesuch ist nach den vom Regierungsrat in der Verordnung festgelegten Vorgaben bei der Gemeinde einzureichen.
 
 <sup>2</sup> ...
 
-<sup>3</sup> Die Planverfasser müssen qualifizierte Fachleute sein. Der Regierungsrat regelt das Nähere in der Verordnung, in der auch die Ausnahmen und eine Übergangsbestimmung vorzusehen sind.
+<sup>3</sup> Die Planverfasserinnen und Planverfasser müssen qualifizierte Fachleute sein. Der Regierungsrat regelt das Nähere in der Verordnung, in der auch die Ausnahmen und eine Übergangsbestimmung vorzusehen sind.
 
-<sup>4</sup> Mit der Einreichung des Baugesuchs nehmen die Grundeigentümer am Baubewilligungsverfahren teil und geben ihr Einverständnis zu Eigentumsbeschränkungen, die zur Sicherung von Auflagen verfügt werden.
+<sup>4</sup> Mit der Einreichung des Baugesuchs nehmen die Grundeigentümerinnen und Grundeigentümer am Baubewilligungsverfahren teil und geben ihr Einverständnis zu Eigentumsbeschränkungen, die zur Sicherung von Auflagen verfügt werden.
 
 #### § 189
 
@@ -2323,7 +2341,7 @@ beschliesst:
 
 <sup>2</sup> Das Baugesuch ist während 20 Tagen öffentlich aufzulegen, sofern das für das Leitverfahren massgebende Recht oder das Bundesrecht nichts anderes vorsehen.
 
-<sup>3</sup> Den Anstössern ist die öffentliche Auflage des Baugesuchs mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist bekannt zu geben. Als Anstösser gelten jene Eigentümer, deren Grundstücke an das Baugrundstück grenzen und von einer geplanten Baute oder Anlage nicht weiter als 25 m entfernt sind. Bei gemeinschaftlichem Eigentum kann die Bekanntgabe an die Verwaltung erfolgen.
+<sup>3</sup> Den Anstösserinnen und Anstösser ist die öffentliche Auflage des Baugesuchs mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist bekannt zu geben. Als Anstösser gelten jene Eigentümerinnen und Eigentümer, deren Grundstücke an das Baugrundstück grenzen und von einer geplanten Baute oder Anlage nicht weiter als 25 m entfernt sind. Bei gemeinschaftlichem Eigentum kann die Bekanntgabe an die Verwaltung erfolgen.
 
 #### § 194
 
@@ -2333,7 +2351,7 @@ beschliesst:
 
 <sup>2</sup> Mit der öffentlich-rechtlichen Einsprache kann die Verletzung öffentlich-rechtlicher Bestimmungen, mit der privatrechtlichen Einsprache die Verletzung privater Rechte geltend gemacht werden.
 
-<sup>3</sup> Die Einsprachen sind der Bauherrschaft und den Grundeigentümern innert fünf Tagen nach Ablauf der Einsprachefrist zur Stellungnahme zuzustellen.
+<sup>3</sup> Die Einsprachen sind der Bauherrschaft und den Grundeigentümerinnen und Grundeigentümern innert fünf Tagen nach Ablauf der Einsprachefrist zur Stellungnahme zuzustellen.
 
 #### § 195
 
@@ -2351,7 +2369,7 @@ beschliesst:
 
 <sup>2</sup> Sollen in den gesetzlich vorgesehenen Fällen Ausnahmen von den Vorschriften dieses Gesetzes bewilligt werden, sind diese in der Baubewilligung einschliesslich Auflagen und Bedingungen ausdrücklich festzuhalten. Es ist darzulegen, dass die Ausnahmen keine öffentlichen Interessen verletzen, unter angemessener Abwägung der beteiligten privaten Interessen gestattet werden können und auch allfällige besondere gesetzliche Voraussetzungen erfüllt sind.
 
-<sup>3</sup> Der Entscheid über das Baugesuch und die Einsprachen werden der Bauherrschaft, den Grundeigentümern und den Einsprechern schriftlich durch Zustellung des Entscheids eröffnet. Sind neben der Baubewilligung weitere Bewilligungen und Verfügungen in der gleichen Sache erforderlich, eröffnet die Leitbehörde alle Entscheide nach Möglichkeit gemeinsam und gleichzeitig.
+<sup>3</sup> Der Entscheid über das Baugesuch und die Einsprachen werden der Bauherrschaft, den Grundeigentümerinnen und Grundeigentümern und den Einsprecherinnen und Einsprechern schriftlich durch Zustellung des Entscheids eröffnet. Sind neben der Baubewilligung weitere Bewilligungen und Verfügungen in der gleichen Sache erforderlich, eröffnet die Leitbehörde alle Entscheide nach Möglichkeit gemeinsam und gleichzeitig.
 
 <sup>4</sup> Zusammen mit den Entscheiden ist der Bauherrschaft ein Satz der mit dem Genehmigungsvermerk versehenen Pläne zu übermitteln.
 
@@ -2384,7 +2402,7 @@ beschliesst:
 - a. dem Baugesuch nur ein Situationsplan und die weiteren jeweils noch erforderlichen Unterlagen beizulegen sind,
 - b. das Bauprojekt nicht auszustecken ist,
 - c. das Baugesuch weder öffentlich bekannt zu machen noch öffentlich aufzulegen ist,
-- d. das Baugesuch den betroffenen Grundeigentümern, die dem Bauvorhaben nicht durch Unterschrift zugestimmt haben, mit dem Hinweis bekannt zu geben ist, dass sie innert 10 Tagen Einsprache erheben können.
+- d. das Baugesuch den betroffenen Grundeigentümerinnen und Grundeigentümern, die dem Bauvorhaben nicht durch Unterschrift zugestimmt haben, mit dem Hinweis bekannt zu geben ist, dass sie innert 10 Tagen Einsprache erheben können.
 - e. …
 
 #### § 198a
@@ -2401,9 +2419,9 @@ beschliesst:
 
 **Baubeginn**
 
-<sup>1</sup> Vor dem unbenützten Ablauf der Beschwerdefrist oder vor der rechtskräftigen Erledigung eines ordentlichen Rechtsmittels und vor der Leistung einer allfälligen Sicherheit nach § 204 darf mit den Bauarbeiten nicht begonnen werden. Die zuständige Behörde kann dem Bauherrn in begründeten Fällen und auf sein Risiko den vorzeitigen Baubeginn bewilligen.
+<sup>1</sup> Vor dem unbenützten Ablauf der Beschwerdefrist oder vor der rechtskräftigen Erledigung eines ordentlichen Rechtsmittels und vor der Leistung einer allfälligen Sicherheit nach § 204 darf mit den Bauarbeiten nicht begonnen werden. Die zuständige Behörde kann dem Bauherrn oder der Bauherrin in begründeten Fällen und auf sein Risiko den vorzeitigen Baubeginn bewilligen.
 
-<sup>2</sup> Die für die Bauausführung verantwortlichen Personen (Architekt, Ingenieur, Bauunternehmer usw.) sind verpflichtet, sich vor Beginn der Bauarbeiten zu vergewissern, ob eine rechtskräftige Baubewilligung vorliegt.
+<sup>2</sup> Die für die Bauausführung verantwortlichen Personen (Architektinnen und Architekten, Ingenieurinnen und Ingenieure, Bauunternehmerinnen und Bauunternehmer usw.) sind verpflichtet, sich vor Beginn der Bauarbeiten zu vergewissern, ob eine rechtskräftige Baubewilligung vorliegt.
 
 #### § 201
 
@@ -2422,11 +2440,11 @@ beschliesst:
 
 <sup>1</sup> Für die Ausführung der Bauten und Anlagen sind die genehmigten Pläne verbindlich.
 
-<sup>2</sup> Für jede Abweichung von den genehmigten Plänen ist das Baubewilligungsverfahren erneut durchzuführen, sofern die Abweichung als solche der Bewilligungspflicht untersteht. Auf ein Baugespann und das Planauflageverfahren kann verzichtet werden, wenn alle betroffenen Grundeigentümer unterschriftlich zustimmen. Die Unterschriften sind auf den geänderten Plänen anzubringen.
+<sup>2</sup> Für jede Abweichung von den genehmigten Plänen ist das Baubewilligungsverfahren erneut durchzuführen, sofern die Abweichung als solche der Bewilligungspflicht untersteht. Auf ein Baugespann und das Planauflageverfahren kann verzichtet werden, wenn alle betroffenen Grundeigentümerinnen und Grundeigentümer unterschriftlich zustimmen. Die Unterschriften sind auf den geänderten Plänen anzubringen.
 
 <sup>3</sup> Abweichungen, die offensichtlich keine schutzwürdigen privaten Interessen Dritter und keine wesentlichen öffentlichen Interessen berühren, kann die zuständige Stelle der Gemeinde von sich aus gestatten.
 
-<sup>4</sup> Dem Bauherrn ist mit dem Entscheid ein Satz der geänderten Pläne zuzustellen, die mit dem Genehmigungsvermerk versehen sind.
+<sup>4</sup> Dem Bauherrn oder der Bauherrin ist mit dem Entscheid ein Satz der geänderten Pläne zuzustellen, die mit dem Genehmigungsvermerk versehen sind.
 
 #### § 203
 
@@ -2451,7 +2469,7 @@ beschliesst:
 
 **Sicherheitsleistung für den Vollzug von Auflagen**
 
-<sup>1</sup> Lassen es besondere Umstände angezeigt erscheinen, kann der Bauherr in der Baubewilligung für die Erfüllung wichtiger Auflagen zur Sicherheitsleistung verhalten werden. Diese darf nicht höher angesetzt werden, als die Kosten der Ersatzvornahme ausmachen würden oder als der Wert des gesicherten Interesses einzuschätzen ist.
+<sup>1</sup> Lassen es besondere Umstände angezeigt erscheinen, kann der Bauherr oder die Bauherrin in der Baubewilligung für die Erfüllung wichtiger Auflagen zur Sicherheitsleistung verhalten werden. Diese darf nicht höher angesetzt werden, als die Kosten der Ersatzvornahme ausmachen würden oder als der Wert des gesicherten Interesses einzuschätzen ist.
 
 <sup>2</sup> Zur Sicherung von Auflagen können Eigentumsbeschränkungen verfügt werden. Handelt es sich dabei um Eigentumsbeschränkungen gemäss Artikel 962 Absatz 1 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^204-1], so muss die Baubewilligungsbehörde diese im Grundbuchblatt des Baugrundstücks auf Kosten des Bauherrn anmerken lassen.
 
@@ -2461,7 +2479,99 @@ beschliesst:
 
 **Ordnung auf Bauplätzen**
 
-<sup>1</sup> Grundeigentümer und für die Bauausführung verantwortliche Personen haben für Ordnung auf dem Bauplatz zu sorgen.
+<sup>1</sup> Grundeigentümerinnen und Grundeigentümer und für die Bauausführung verantwortliche Personen haben für Ordnung auf dem Bauplatz zu sorgen.
+
+## 6a Kantonales Plangenehmigungsverfahren
+
+#### § 205a
+
+**Zweck, Inhalt und Voraussetzungen**
+
+<sup>1</sup> Das Plangenehmigungsverfahren dient der Verwirklichung von Anlagen zur Stromproduktion, die im öffentlichen Interesse liegen und einen zentralen Beitrag zur Versorgungssicherheit leisten, nämlich:
+
+- a. Windkraftanlagen und Windparks mit einer mittleren erwarteten Produktion von jährlich mindestens 10 Gigawattstunden (GWh),
+- b. Reservekraftwerke im Interesse der Gewährleistung der Stromversorgungssicherheit auf nationaler Ebene,
+- c. weitere vom Regierungsrat in der Verordnung bezeichnete grössere Anlagen, die unter Verwendung erneuerbarer Primärenergieträger Strom erzeugen.
+
+<sup>2</sup> Das Plangenehmigungsverfahren ist zudem für Anlagen zur Speicherung von Energie im Interesse der Versorgungssicherheit anwendbar. Der Regierungsrat regelt die Voraussetzungen dazu in der Verordnung.
+
+<sup>3</sup> Mit der Plangenehmigung wird die zulässige Nutzung des Bodens einschliesslich der Erschliessung und der erforderlichen Installationsplätze festgelegt und es werden sämtliche für das Vorhaben notwendigen und in der Kompetenz des Kantons liegenden Bewilligungen, Konzessionen und Enteignungsrechte erteilt.
+
+<sup>4</sup> Sofern das Vorhaben nach Artikel 8 Absatz 2 RPG richtplanpflichtig ist, müssen dessen Standort, voraussichtlicher Umfang und Zweck oder bei der Planung von Windkraftanlagen die Windenergiegebiete im kantonalen Richtplan als Festsetzung enthalten sein. Andernfalls ist der Richtplan im Verfahren nach § 13 vorgängig oder koordiniert mit dem Plangenehmigungsverfahren anzupassen, wobei die Frist für das öffentliche Auflageverfahren 30 Tage beträgt.
+
+<sup>5</sup> Kommunale Bewilligungen und Pläne sind nicht erforderlich. Das kommunale Recht ist zu berücksichtigen, soweit es die Vorhaben nicht unverhältnismässig einschränkt.
+
+#### § 205b
+
+**Vorprüfung, Mitwirkung und Zusammenarbeit**
+
+<sup>1</sup> Das Plangenehmigungsgesuch ist dem Bau-, Umwelt- und Wirtschaftsdepartement vor der öffentlichen Auflage zur Vorprüfung im Rahmen von § 20 Absatz 2 einzureichen.
+
+<sup>2</sup> Die betroffenen Gemeinden erhalten im Rahmen der Vorprüfung die Möglichkeit, sich zum Projekt zu äussern und Anträge zu stellen.
+
+<sup>3</sup> Der Kanton unterrichtet in Zusammenarbeit mit dem Gesuchsteller oder der Gesuchstellerin die Gemeinde, die Bevölkerung und weitere Betroffene frühzeitig über Ziele und Ablauf des Plangenehmigungsverfahrens und sorgt dafür, dass sie im Sinne von § 6 in geeigneter Weise mitwirken können.
+
+<sup>4</sup> Der Kanton arbeitet mit den betroffenen Gemeinden zusammen.
+
+#### § 205c
+
+**Verfahren**
+
+<sup>1</sup> Im Plangenehmigungsverfahren ist der Regierungsrat die Leitbehörde. Als Instruktionsinstanz handelt das Bau-, Umwelt-, und Wirtschaftsdepartement.
+
+<sup>2</sup> Das Plangenehmigungsgesuch ist mit den nach den Vorgaben der Verordnung erforderlichen Unterlagen beim Bau-, Umwelt- und Wirtschaftsdepartement einzureichen.
+
+<sup>3</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement sorgt für die 30-tägige öffentliche Auflage des Planentwurfs mit den zugehörigen Vorschriften in den betroffenen Gemeinden und macht die Auflage öffentlich bekannt. In der Bekanntmachung ist darauf hinzuweisen, dass während der Auflagefrist beim Regierungsrat Einsprache erhoben werden kann.
+
+<sup>4</sup> Den betroffenen Gemeinden und Grundeigentümerinnen und Grundeigentümern ist die öffentliche Auflage des Projektes mit dem Hinweis auf die Möglichkeit, beim Regierungsrat während der Auflagefrist Einsprache zu erheben, bekannt zu geben.
+
+<sup>5</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement führt allfällige Einspracheverhandlungen durch.
+
+<sup>6</sup> Soweit nichts Abweichendes festgelegt wird, gelten im Übrigen sinngemäss die Vorschriften zum Baubewilligungsverfahren sowie des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^205c-1].
+
+[^205c-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+
+#### § 205d
+
+**Plangenehmigungsentscheid und Rechtsmittel**
+
+<sup>1</sup> Der Regierungsrat erteilt die Plangenehmigung. Diese umfasst:
+
+- a. die Genehmigung des projektbezogenen Nutzungsplans mit den zugehörigen Vorschriften,
+- b. die Baubewilligung nach Artikel 22 RPG sowie alle weiteren in der gleichen Sache erforderlichen Bewilligungen und Verfügungen kantonaler Behörden,
+- c. den Entscheid über allfällige gegen die Nutzungsplanung oder das Bauprojekt gerichtete öffentlich-rechtliche Einsprachen,
+- d. soweit erforderlich die Erteilung der notwendigen Konzessionen,
+- e. soweit erforderlich die Erteilung des Enteignungsrechts.
+
+<sup>2</sup> Die Plangenehmigung kann zeitlich befristet erteilt werden.
+
+<sup>3</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement hat den Plangenehmigungsentscheid im Luzerner Kantonsblatt zu veröffentlichen.
+
+<sup>4</sup> Plangenehmigungsentscheide können innert 30 Tagen, Zwischenentscheide innert 10 Tagen mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden.
+
+#### § 205e
+
+**Geltungsdauer der Plangenehmigung**
+
+<sup>1</sup> Die Plangenehmigung erlischt, wenn drei Jahre nach ihrer rechtskräftigen Erteilung nicht mit der Ausführung des Bauvorhabens begonnen worden ist.
+
+<sup>2</sup> Der Regierungsrat kann die Geltungsdauer der Plangenehmigung aus wichtigen Gründen angemessen verlängern. Eine Verlängerung ist ausgeschlossen, wenn sich die massgebenden tatsächlichen oder rechtlichen Verhältnisse seit der rechtskräftigen Erteilung der Plangenehmigung wesentlich verändert haben.
+
+#### § 205f
+
+**Rückbau**
+
+<sup>1</sup> Anlagen nach § 205a Absatz 1, deren Betrieb definitiv eingestellt wird, sind in der Regel zurückzubauen. Der Regierungsrat entscheidet, inwieweit der ursprüngliche Zustand wiederherzustellen ist.
+
+#### § 205g
+
+**Beteiligung**
+
+<sup>1</sup> Die Betreiberinnen und Betreiber von Windenergieanlagen bieten den betroffenen Gemeinden sowie deren Bevölkerung in geeigneter Weise die Möglichkeit einer Beteiligung an der Investition in die Stromproduktion aus Windenergie.
+
+<sup>2</sup> Das Angebot einer Beteiligung ist keine Voraussetzung für die Erteilung der Plangenehmigung. Es muss aber vor der Inbetriebnahme der Windenergieanlagen vorliegen.
+
+<sup>3</sup> Der Regierungsrat kann in der Verordnung nähere Ausführungsvorschriften erlassen.
 
 ## 7 Rechtsschutz
 
@@ -2547,7 +2657,7 @@ beschliesst:
 
 <sup>1</sup> Kanton und Gemeinden erheben für die Erfüllung ihrer planungs- und baurechtlichen Aufgaben Gebühren. Sie können insbesondere auch in den Fällen, in denen diese nicht durch Entscheid zu erledigen sind, Gebühren verlangen.
 
-<sup>2</sup> Wer als Einsprecher im Baubewilligungs- oder Gestaltungsplanverfahren unterliegt oder auf wessen Einsprache nicht eingetreten wird, trägt die dadurch verursachten amtlichen Kosten. Bei leichtfertigen oder trölerischen Einsprachen gilt dies auch für die weiteren Verfahrenskosten. Die Behörde kann vom Einsprecher einen angemessenen Vorschuss zur Sicherstellung der amtlichen Kosten verlangen.
+<sup>2</sup> Wer als Einsprecher im Baubewilligungs- oder Gestaltungsplanverfahren unterliegt oder auf wessen Einsprache nicht eingetreten wird, trägt die dadurch verursachten amtlichen Kosten. Bei leichtfertigen oder trölerischen Einsprachen gilt dies auch für die weiteren Verfahrenskosten. Die Behörde kann vom Einsprecher oder der Einsprecherin einen angemessenen Vorschuss zur Sicherstellung der amtlichen Kosten verlangen.
 
 <sup>3</sup> Der Regierungsrat regelt nach den Grundsätzen der Gebührenbemessung in den §§ 7–11 des Gebührengesetzes[^212-1] mit Verordnung unter anderem
 
@@ -2657,11 +2767,21 @@ beschliesst:
 
 <sup>2</sup> Ein Anspruch auf Rückerstattung von Entschädigungszahlungen aus dem Fonds gemäss § 105d Absatz 1 besteht für alle Rückzonungen, die sich auf Artikel 15 Absatz 2 der Änderung des Raumplanungsgesetzes vom 15. Juni 2012 stützen.
 
+#### § 225b
+
+**Übergangsbestimmung der Änderung vom 6. Mai 2024**
+
+<sup>1</sup> Der Regierungsrat bewilligt im kantonalen Plangenehmigungsverfahren nach den §§ 205a ff. abschliessend Photovoltaik-Grossanlagen gemäss den dringlichen Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung vom 20. September 2022 (Art. 71a des Energiegesetzes vom 30. September 2016[^225b-1]).
+
+[^225b-1]: SR [730.0](https://db.clex.ch/link/Bund/730.0/de)
+
 #### § 226
 
 **Hängige Verfahren**
 
 <sup>1</sup> Die bei Inkrafttreten dieses Gesetzes vom Gemeinderat noch nicht entschiedenen Gesuche und die beim Regierungsrat hängigen Rechtsmittel sind nach dem neuen Recht, die hängigen Verwaltungsgerichtsbeschwerden nach dem bisherigen Recht zu entscheiden.
+
+<sup>2</sup> Das kantonale Plangenehmigungsverfahren gemäss den §§ 205a–205f ist auf alle bei Inkrafttreten dieser Bestimmungen in ihrem Anwendungsbereich liegenden, noch nicht öffentlich aufgelegten Projekte anwendbar.
 
 #### § 227
 
@@ -2769,7 +2889,7 @@ beschliesst:
 
 **Grenzabstand in Einfamilienhausgebieten**
 
-<sup>1</sup> Im Bereich der ein- und zweigeschossigen Wohnzonen kann der minimale Grenzabstand gemäss § 122 Absätze 1–3 herabgesetzt werden, wenn die benachbarten Grundeigentümer in einer öffentlich beurkundeten Vereinbarung zustimmen und die Herabsetzung keine wesentlichen öffentlichen und privaten Interessen beeinträchtigt.
+<sup>1</sup> Im Bereich der ein- und zweigeschossigen Wohnzonen kann der minimale Grenzabstand gemäss § 122 Absätze 1–3 herabgesetzt werden, wenn die benachbarten Grundeigentümerinnen und Grundeigentümer in einer öffentlich beurkundeten Vereinbarung zustimmen und die Herabsetzung keine wesentlichen öffentlichen und privaten Interessen beeinträchtigt.
 
 <sup>2</sup> Die Gemeinde holt vor ihrem Entscheid die Stellungnahme der Gebäudeversicherung ein.
 
@@ -2797,7 +2917,7 @@ beschliesst:
 
 <sup>3</sup> Für Böschungen und Aufschüttungen sind diese Bestimmungen sinngemäss anzuwenden.
 
-<sup>4</sup> Vorbehalten bleiben abweichende, öffentlich beurkundete Vereinbarungen der Nachbarn.
+<sup>4</sup> Vorbehalten bleiben abweichende, öffentlich beurkundete Vereinbarungen der Nachbarinnen und Nachbarn.
 
 <sup>5</sup> Der Grenzabstand bei Gewächsen richtet sich nach den Vorschriften des Einführungsgesetzes zum Zivilgesetzbuch.
 
