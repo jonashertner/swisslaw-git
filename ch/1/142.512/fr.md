@@ -4,11 +4,11 @@ title: "Ordonnance du 18 décembre 2013 sur le système central d'information su
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: fr
-version: 2024-06-11
+version: 2025-01-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240611/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240611-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240611/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240611/fr"
 
 (Ordonnance VIS, OVIS)
 
-du 18 décembre 2013 (État le 11 juin 2024)
+du 18 décembre 2013 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 109*e* de la loi fédérale du 16 décembre 2005 sur les étrangers 
 
 arrête:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Chapitre 1 Dispositions générales
 
@@ -58,7 +58,7 @@ Au sens de la présente ordonnance, on entend par:
 
 [^2-1]: R (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juil. 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le R (UE) n<sup>o</sup> 610/2013, JO L 182 du 29.6.2013, p. 1.
 [^2-2]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
-[^2-3]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^2-3]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
 [^2-4]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
 
 ## Chapitre 2 Système national d’information sur les visas
@@ -181,7 +181,7 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
 
   auprès du SEM:
 
-  - 1\. la division Admission Séjour et la division Entrée: dans le cadre de leurs tâches liées aux domaines des visas, des documents de voyage et de l’identification,
+  - 1\.[^10-1] la division Admission Séjour et la division Identification et vérification de sécurité dans le cadre de leurs tâches liées aux domaines des visas, des documents de voyage et de l’identification,
   - 2\. le domaine de direction Asile: dans le cadre de l’examen des demandes d’asile,
   - 3\. le service des dossiers: dans un but d’archivage,
   - 4\. la section informatique et le service des statistiques: afin d’établir des statistiques sur les visas,
@@ -190,13 +190,13 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
 - b. les postes frontière des polices cantonales et le Corps des gardes-frontière: pour l’exécution des contrôles d’identité et l’établissement de visas exceptionnels;
 - c. les représentations suisses à l’étranger et la Mission suisse auprès de l’ONU à Genève: pour l’examen des demandes de visa;
 - d. le Secrétariat d’État, la Direction politique et la Direction consulaire du Département fédéral des affaires étrangères (DFAE): pour l’examen des demandes de visa et des recours relevant de la compétence du DFAE;
-- e. la Centrale de compensation: pour l’examen des demandes de prestations et pour l’attribution et la vérification des numéros AVS[^10-1];
+- e. la Centrale de compensation: pour l’examen des demandes de prestations et pour l’attribution et la vérification des numéros AVS[^10-2];
 - f.
 
   auprès de l’Office fédéral de la police (fedpol):
 
   - 1\. le Service juridique: pour l’adoption de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément aux art. 67, al. 4, et 68, al. 3, LEI,
-  - 2\.[^10-2] les services chargés de la gestion du système de recherches informatisées de police (RIPOL): pour l’identification des personnes dans le cadre du contrôle de la saisie des données RIPOL visées dans l’ordonnance RIPOL du 26 octobre 2016[^10-3],
+  - 2\.[^10-3] les services chargés de la gestion du système de recherches informatisées de police (RIPOL): pour l’identification des personnes dans le cadre du contrôle de la saisie des données RIPOL visées dans l’ordonnance RIPOL du 26 octobre 2016[^10-4],
   - 3\. les services chargés de la correspondance internationale et la Centrale d’engagement: pour l’identification de personnes dans le domaine de l’échange d’informations policières aux niveaux intercantonal et international, et pour l’examen des mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse,
   - 4\.
 
@@ -207,18 +207,18 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
 
   - 5\. le service compétent en matière de documents d’identité et de recherches de personnes disparues: pour les recherches concernant la résidence de ces personnes,
   - 6\. le service chargé de la gestion du système d’identification automatique par empreintes digitales (AFIS): pour l’identification de personnes visée à l’art. 102, al. 1, LEI,
-  - 7\. le service en charge du Bureau de communication en matière de blanchiment d’argent: en vue de l’identification de personnes et de leur statut légal en relation avec ses obligations légales de lutte contre le blanchiment d’argent et ses infractions préalables, la criminalité organisée et le financement du terrorisme selon l’art. 23 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10-4];
+  - 7\. le service en charge du Bureau de communication en matière de blanchiment d’argent: en vue de l’identification de personnes et de leur statut légal en relation avec ses obligations légales de lutte contre le blanchiment d’argent et ses infractions préalables, la criminalité organisée et le financement du terrorisme selon l’art. 23 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10-5];
 
-- g.[^10-5] les autorités cantonales et communales chargées des questions relatives aux étrangers et les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur sont assignées dans le domaine des étrangers;
+- g.[^10-6] les autorités cantonales et communales chargées des questions relatives aux étrangers et les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur sont assignées dans le domaine des étrangers;
 - h. les offices de l’état civil et leurs autorités de surveillance, ainsi que l’Office fédéral de l’état civil: pour la vérification de la légalité du séjour en Suisse des fiancés qui ne sont pas citoyens suisses et pour la communication à l’autorité compétente de l’identité des fiancés qui n’ont pas établi la légalité de leur séjour;
 - i.
 
   les services suivants de l’Office fédéral de la justice (OFJ):
 
-  - 1\. le domaine de direction Entraide judiciaire internationale: en relation avec la procédure d’entraide judiciaire internationale visée par la loi du 20 mars 1981 sur l’entraide pénale internationale[^10-6],
-  - 2\. le domaine de direction Droit privé: en relation avec la procédure régie par la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^10-7];
+  - 1\. le domaine de direction Entraide judiciaire internationale: en relation avec la procédure d’entraide judiciaire internationale visée par la loi du 20 mars 1981 sur l’entraide pénale internationale[^10-7],
+  - 2\. le domaine de direction Droit privé: en relation avec la procédure régie par la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^10-8];
 
-- j. le Service de renseignement de la Confédération: pour l’examen de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^10-8];
+- j. le Service de renseignement de la Confédération: pour l’examen de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^10-9];
 - k. le Tribunal administratif fédéral: pour l’instruction des recours conformément à la LEI;
 - l.
 
@@ -227,28 +227,29 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
   - 1\. au prélèvement de la taxe sur la valeur ajoutée portant sur les prestations que les assujettis fournissent à titre onéreux sur le territoire suisse (impôt grevant les opérations réalisées sur le territoire suisse) et sur l’acquisition, par un destinataire se trouvant sur le territoire suisse, de prestations fournies par une entreprise ayant son siège à l’étranger (impôt sur les acquisitions), ainsi qu’à l’application de l’impôt anticipé,
   - 2\. à l’exécution de procédures pénales et de procédures d’assistance administrative ou d’entraide judiciaire;
 
-- m.[^10-9]
+- m.[^10-10]
 
-  l’Office fédéral de la douane et de la sécurité des frontières[^10-10]:
+  l’Office fédéral de la douane et de la sécurité des frontières[^10-11]:
 
   - 1\. pour l’accomplissement des tâches liées au prélèvement de la taxe sur la valeur ajoutée portant sur l’importation de biens (impôt sur les importations),
   - 2\. pour l’identification des personnes dans le cadre de l’exécution des tâches de la division principale Antifraude douanière;
 
-- n.[^10-11] …
+- n.[^10-12] …
 
 <sup>2</sup> Les droits d’accès sont réglés à l’annexe 2.
 
-[^10-1]: Nouvelle expression selon l’annexe ch. II 2 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juin 2023 ([RO 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
-[^10-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^10-4]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^10-5]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-6]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^10-7]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^10-8]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-9]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-10]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
-[^10-11]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 715](https://fedlex.data.admin.ch/eli/oc/2024/715)).
+[^10-2]: Nouvelle expression selon l’annexe ch. II 2 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-3]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juin 2023 ([RO 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^10-4]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^10-5]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^10-6]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-7]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^10-8]: [RS 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
+[^10-9]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-10]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-11]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^10-12]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Chapitre 3 Système central d’information sur les visas
 
@@ -416,8 +417,8 @@ Les autorités fédérales qui peuvent demander certaines données du C-VIS en v
   - 2\. les divisions Protection de l’État et organisations criminelles, Criminalité économique, Entraide judiciaire, Terrorisme, Droit pénal international et Cybercriminalité établies à Berne et dans les succursales de Lausanne, de Lugano et de Zurich qui sont chargées de conduire les procédures: pour mener les investigations et dresser les actes d’accusation concernant les infractions qui relèvent de la juridiction fédérale en vertu des art. 23 et 24 du code de procédure pénale[^17-3] ou de lois fédérales spéciales.
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
-[^17-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^17-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^17-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^17-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 18
 
@@ -491,11 +492,11 @@ Pour autant que l’utilisateur y soit autorisé, une consultation des bases de 
 - e. le système d’entrée et de sortie prévu par l’ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie[^23-6].
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juin 2023 ([RO 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
-[^23-2]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^23-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^23-4]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-[^23-5]: [RS 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
-[^23-6]: [RS 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
+[^23-2]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
+[^23-3]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^23-4]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
+[^23-5]: [RS 366.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6327)
+[^23-6]: [RS 142.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30009)
 
 #### Art. 24
 
@@ -614,8 +615,8 @@ Dans des cas particuliers, les données suivantes du C-VIS relatives à une pers
 
 <sup>6</sup> Il confirme par écrit, sans délai, toute rectification ou tout effacement des données à la personne concernée. S’il n’est pas disposé à rectifier ou à effacer les données, il fait connaître ses motifs.
 
-[^31-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^31-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^31-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^31-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^31-3]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 32
@@ -645,7 +646,7 @@ Lors de la collecte des données personnelles du demandeur, y compris les donné
 
 La responsabilité en cas de dommages liés à l’exploitation d’ORBIS est régie par la loi du 14 mars 1958 sur la responsabilité[^33-1], notamment par ses art. 19*a* à 19*c*, qui s’appliquent par analogie.
 
-[^33-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^33-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### Section 3 Sécurité des données, conseillers à la protection des données et surveillance du traitement des données
 
@@ -660,9 +661,9 @@ La sécurité des données est régie par:
 - c.[^34-5] …
 
 [^34-1]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^34-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^34-3]: Nouvelle teneur selon l’annexe 2 ch. II 5 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^34-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^34-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^34-5]: Abrogée par l’annexe ch. 4 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
@@ -747,12 +748,12 @@ Les accords d’association à Schengen comprennent les accords suivants:
 - e. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex1-lvl1-5];
 - f. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex1-lvl1-6].
 
-[^annex1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvl1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex1-lvl1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvl1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvl1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvl1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex1-lvl1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvl1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvl1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ## 2. Accords d’association à Dublin
 
@@ -763,10 +764,10 @@ Les accords d’association à Dublin comprennent les accords suivants:
 - c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex1-lvl2-3];
 - d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein relatif à l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex1-lvl2-4].
 
-[^annex1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Annexe 2[^t-1]
 

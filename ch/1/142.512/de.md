@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssys
 short: VISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: de
-version: 2024-06-11
+version: 2025-01-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240611/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240611-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240611/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240611/de"
 
 (Visa-Informationssystem-Verordnung, VISV)
 
-vom 18. Dezember 2013 (Stand am 11. Juni 2024)
+vom 18. Dezember 2013 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 109*e* des Ausländer- und Integrationsgesetzes vom 16. De
 
 verordnet:
 
-[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -59,7 +59,7 @@ Im Sinne dieser Verordnung bedeuten:
 
 [^2-1]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) Nr. 610/2013, ABl. L 182 vom 29.6.2013, S. 1.
 [^2-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^2-3]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^2-3]: [SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
 [^2-4]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 ## 2. Kapitel: Nationales Visumsystem
@@ -183,7 +183,7 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
 
   beim SEM:
 
-  - 1\. die Abteilung Zulassung Aufenthalt und die Abteilung Einreise: zur Erfüllung ihrer Aufgaben in den Bereichen Visa, Reisedokumente und Identifikation,
+  - 1\.[^10-1] die Abteilung Zulassung Aufenthalt und die Abteilung Identifikation und Sicherheitsprüfung: zur Erfüllung ihrer Aufgaben in den Bereichen Visa, Reisedokumente und Identifikation,
   - 2\. der Direktionsbereich Asyl: zur Prüfung der Asylgesuche,
   - 3\. die Registratur: zur Archivierung,
   - 4\. die Sektion Informatik und der Statistikdienst: zur Erstellung von Visastatistiken,
@@ -192,13 +192,13 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
 - b. die Grenzposten der kantonalen Polizeibehörden und das Grenzwachtkorps: zur Durchführung von Personenkontrollen und zur Erteilung von Ausnahmevisa;
 - c. die schweizerischen Vertretungen im Ausland und die Mission der Schweiz bei der UNO in Genf: zur Prüfung von Visumgesuchen;
 - d. das Staatssekretariat, die Politische Direktion und die Konsularische Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA): zur Prüfung von Visumgesuchen und von Beschwerden im Zuständigkeitsbereich des EDA;
-- e. die Zentrale Ausgleichsstelle: zur Abklärung von Leistungsgesuchen und zur Zuteilung und Überprüfung von AHV-Nummern[^10-1];
+- e. die Zentrale Ausgleichsstelle: zur Abklärung von Leistungsgesuchen und zur Zuteilung und Überprüfung von AHV-Nummern[^10-2];
 - f.
 
   beim Bundesamt für Polizei (fedpol):
 
   - 1\. der Rechtsdienst: zum Erlass von Verfügungen von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 4 und 68 Absatz 3 AIG,
-  - 2\.[^10-2] die für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststellen: zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassung nach der RIPOL-Verordnung vom 26. Oktober 2016[^10-3],
+  - 2\.[^10-3] die für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststellen: zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassung nach der RIPOL-Verordnung vom 26. Oktober 2016[^10-4],
   - 3\. die Dienststellen, die für den internationalen Schriftverkehr zuständig sind, und die Einsatzzentrale: zur Personenidentifikation in den Bereichen des interkantonalen und internationalen polizeilichen Nachrichtenaustausches sowie zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz,
   - 4\.
 
@@ -209,18 +209,18 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
 
   - 5\. der Dienst Ausweisschriften und Nachforschungen nach vermissten Personen: zu Nachforschungen im Zusammenhang mit dem Aufenthalt dieser Personen,
   - 6\. die für die Führung des automatisierten Fingerabdruck-Identifikationssystems (AFIS) zuständige Dienststelle: zur Personenidentifikation nach Artikel 102 Absatz 1 AIG,
-  - 7\. der zuständige Dienst bei der Meldestelle Geldwäscherei: zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei und deren Vortaten, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^10-4];
+  - 7\. der zuständige Dienst bei der Meldestelle Geldwäscherei: zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei und deren Vortaten, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^10-5];
 
-- g.[^10-5] die kantonalen und kommunalen Migrationsbehörden sowie die kantonalen und kommunalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Ausländerbereich;
+- g.[^10-6] die kantonalen und kommunalen Migrationsbehörden sowie die kantonalen und kommunalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Ausländerbereich;
 - h. die Zivilstandsämter und ihre Aufsichtsbehörden sowie das Eidgenössische Amt für Zivilstandswesen: zur Prüfung der Rechtmässigkeit des Aufenthalts in der Schweiz von Verlobten ohne schweizerische Staatsbürgerschaft sowie zur Mitteilung der Identität von Verlobten, die keinen Nachweis für die Rechtmässigkeit ihres Aufenthalts erbracht haben, an die zuständige Behörde;
 - i.
 
   beim Bundesamt für Justiz:
 
-  - 1\. der Direktionsbereich Internationale Rechtshilfe: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^10-6],
-  - 2\. der Direktionsbereich Privatrecht: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^10-7] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen;
+  - 1\. der Direktionsbereich Internationale Rechtshilfe: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^10-7],
+  - 2\. der Direktionsbereich Privatrecht: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^10-8] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen;
 
-- j. der Nachrichtendienst des Bundes: zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^10-8] über Massnahmen zur Wahrung der inneren Sicherheit;
+- j. der Nachrichtendienst des Bundes: zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^10-9] über Massnahmen zur Wahrung der inneren Sicherheit;
 - k. das Bundesverwaltungsgericht: für die Instruktion von Beschwerden nach dem AIG;
 - l.
 
@@ -229,28 +229,29 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
   - 1\. der Erhebung der Mehrwertsteuer auf den im Inland von steuerpflichtigen Personen gegen Entgelt erbrachten Leistungen (Inlandsteuer) und auf dem Bezug von Leistungen von Unternehmen mit Sitz im Ausland durch Empfängerinnen und Empfänger im Inland (Bezugsteuer) sowie bei der Erhebung der Verrechnungssteuer,
   - 2\. der Durchführung von Strafverfahren und von Amts- oder Rechtshilfeverfahren;
 
-- m.[^10-9]
+- m.[^10-10]
 
-  das Bundesamt für Zoll und Grenzsicherheit[^10-10]:
+  das Bundesamt für Zoll und Grenzsicherheit[^10-11]:
 
   - 1\. zur Erfüllung ihrer Aufgaben bei der Erhebung der Mehrwertsteuer auf der Einfuhr von Gegenständen (Einfuhrsteuer),
   - 2\. zur Personenidentifikation im Zusammenhang mit der Zollfahndung;
 
-- n.[^10-11] …
+- n.[^10-12] …
 
 <sup>2</sup> Die Zugangsberechtigungen sind in Anhang 2 geregelt.
 
-[^10-1]: Ausdruck gemäss Anhang Ziff. II 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
-[^10-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^10-4]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^10-5]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-6]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^10-7]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^10-8]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-9]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^10-11]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 (AS **202****4** 715).
+[^10-2]: Ausdruck gemäss Anhang Ziff. II 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^10-4]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^10-5]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^10-6]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-7]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^10-8]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
+[^10-9]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-10]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-11]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^10-12]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## 3. Kapitel: Zentrales Visa-Informationssystem
 
@@ -418,8 +419,8 @@ Die folgenden Bundesbehörden können im Sinne von Artikel 109*a* Absatz 3 Buchs
   - 2\. die verfahrensführenden Abteilungen Staatsschutz und kriminelle Organisationen, Wirtschaftskriminalität, Rechtshilfe, Terrorismus, Völkerstrafrecht und Cyberkriminalität in Bern und in den Zweigstellen in Lausanne, Lugano und Zürich: für die Ermittlung und Anklageerhebung bei Straftaten, die nach den Artikeln 23 und 24 der Strafprozessordnung[^17-3] oder besonderen Bundesgesetzen der Bundesgerichtsbarkeit unterstehen.
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^17-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^17-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^17-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^17-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 18
 
@@ -493,11 +494,11 @@ Sofern die Benutzerin oder der Benutzer die Berechtigung dazu hat, findet bei de
 - e. im Einreise- und Ausreisesystem nach der Verordnung vom 10. November 2021[^23-6] über das Einreise- und Ausreisesystem.
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
-[^23-2]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^23-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^23-4]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-[^23-5]: [SR 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
-[^23-6]: [SR 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
+[^23-2]: [SR 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
+[^23-3]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^23-4]: [SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
+[^23-5]: [SR 366.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6327)
+[^23-6]: [SR 142.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30009)
 
 #### Art. 24
 
@@ -616,8 +617,8 @@ Folgende Daten des C-VIS über eine Person dürfen Drittstaaten oder internation
 
 <sup>6</sup> Es bestätigt der betroffenen Person unverzüglich schriftlich, dass es die Daten berichtigt oder gelöscht hat. Wenn es nicht bereit ist, die Daten zu berichtigen oder zu löschen, so gibt es die Gründe dafür an.
 
-[^31-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^31-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^31-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^31-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^31-3]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 32
@@ -647,7 +648,7 @@ Bei der Beschaffung von Personendaten der gesuchstellenden Person, einschliessli
 
 Die Haftung für Schäden im Zusammenhang mit dem Betrieb des ORBIS richtet sich nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^33-1], insbesondere nach dessen Artikeln 19*a*–19*c*, die sinngemäss anwendbar sind.
 
-[^33-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^33-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### 3. Abschnitt: Datensicherheit, Datenschutzberatung und Aufsicht über die Datenbearbeitung
 
@@ -662,9 +663,9 @@ Die Datensicherheit richtet sich nach:
 - c.[^34-5] …
 
 [^34-1]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^34-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^34-3]: Fassung gemäss Anhang 2 Ziff. II 5 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^34-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^34-4]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^34-5]: Aufgehoben durch Anhang Ziff. 4 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
@@ -749,12 +750,12 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - e. Abkommen vom 28. April 2005[^annex1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - f. Protokoll vom 28. Februar 2008[^annex1-lvl1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands*.*
 
-[^annex1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvl1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex1-lvl1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvl1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvl1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvl1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex1-lvl1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvl1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvl1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ## 2. Dublin-Assoziierungsabkommen
 
@@ -765,10 +766,10 @@ Die Dublin-Assoziierungsabkommen umfassen:
 - c. Protokoll vom 28. Februar 2008[^annex1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
 - d. Protokoll vom 28. Februar 2008[^annex1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
 
-[^annex1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Anhang 2[^t-1]
 
@@ -933,7 +934,6 @@ Organisationseinheiten:
 - – II Sachbearbeiter/in im Visumbereich (Abteilung Einreise, Abteilung Zulassung Aufenthalt)
 - – III Sachbearbeiter/in im Bereich Dublin-Verfahren (Mitarbeitende des Asylverfahrens, Dublin-Sektionen)
 - – IV Sachbearbeiter/in im Asylbereich (Mitarbeitende des Asylverfahrens)
-- [tab]
 
 ### C-VIS
 
