@@ -4,13 +4,13 @@ number: "811.1"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2023-08-08
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-24
 adopted: 1998-04-09
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/811.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3595/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3711/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3595/pdf_file"
 
 (StG)
 
-vom 09.04.1998 (Stand 01.03.2024)
+vom 09.04.1998 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -513,7 +513,21 @@ als Gesetz:[^ingress-4]
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen und Freizügigkeitskonten.
 
-<sup>3</sup> Einkünfte aus Leibrenten und aus Verpfründung sind zu 40 Prozent steuerbar.
+<sup>3</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
+
+- a) Bei garantierten Leistungen aus Leibrentenversicherungen, die dem eidgenössischen Versicherungsvertragsgesetz vom 2. April 1908[^35-1] unterstehen, ist der im Zeitpunkt des Vertragsabschlusses auf der Grundlage von [Art. 36](https://db.clex.ch/link/Bund/961.01/de) Abs. 1 des eidgenössischen Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^35-2] bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+  - 1\. Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, nach der Formel in [Art. 7](https://db.clex.ch/link/Bund/642.14%20/de) Abs. 2 Bst. a Ziff. 1 des eidgenössischen Steuerharmonisierungsgesetzes vom 14. Dezember 1990[^35-3].
+  - 2\. Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+- b) Bei Überschussleistungen aus Leibrentenversicherungen, die dem eidgenössischen Versicherungsvertragsgesetz vom 2. April 1908[^35-4] unterstehen, entspricht der Ertragsanteil 70 Prozent dieser Leistungen.
+- c) Bei Leistungen aus ausländischen Leibrentenversicherungen, aus Leibrenten- und aus Verpfründungsverträgen ist die Höhe der um 0,5 Prozentpunkte erhöhten annualisierten Rendite zehnjähriger Bundesobligationen (r) während des betreffenden Steuerjahres und der neun vorangegangenen Jahre massgebend:
+  - 1\. Ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, nach der Formel in [Art. 7](https://db.clex.ch/link/Bund/642.14%20/de) Abs. 2 Bst. c Ziff. 1 des eidgenössischen Steuerharmonisierungsgesetzes vom 14. Dezember 1990[^35-5].
+  - 2\. Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.
+
+[^35-1]: SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de).
+[^35-2]: SR [961.01](https://db.clex.ch/link/Bund/961.01/de).
+[^35-3]: SR [642.14](https://db.clex.ch/link/Bund/642.14/de) (in der Fassung des Bundesgesetzes über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen vom 17. Juni 2022, BBl 2022, 1556).
+[^35-4]: SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de).
+[^35-5]: SR [642.14](https://db.clex.ch/link/Bund/642.14/de) (in der Fassung des Bundesgesetzes über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen vom 17. Juni 2022, BBl 2022, 1556).
 
 #### Art. 36
 
@@ -547,7 +561,7 @@ als Gesetz:[^ingress-4]
 - l) der Sold der Milizfeuerwehrleute bis zum Betrag von Fr. 5300.– für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - m) …
 - n) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-1] zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen;
-- o) die einzelnen Gewinne bis zum Betrag von Fr. 1 054 600.– aus der Teilnahme an Grossspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-2] zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-3] zugelassen sind;
+- o) die einzelnen Gewinne bis zum Betrag von Fr. 1 069 800.– aus der Teilnahme an Grossspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-2] zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-3] zugelassen sind;
 - p) die Gewinne aus Kleinspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-4] zugelassen sind;
 - q) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 Bst. d und e des eidgenössischen Geldspielgesetzes vom 29. September 2017[^37-5] diesem nicht unterstehen, sofern die Grenze von Fr. 1100.– nicht überschritten wird;
 - r) Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose vom 19. Juni 2020[^37-6].
@@ -573,7 +587,7 @@ als Gesetz:[^ingress-4]
 
 <sup>1</sup> Als Berufskosten werden abgezogen:
 
-- a) die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zum Betrag, der dem Preis eines Generalabonnements zweiter Klasse für Erwachsene für ein Jahr zuzüglich Fr. 600.– entspricht;
+- a) die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zum Betrag von Fr. 8000.–;
 - b) die notwendigen Mehrkosten für Verpflegung ausserhalb der Wohnstätte und bei Schichtarbeit;
 - c) die übrigen für die Ausübung des Berufes erforderlichen Kosten. Art. 45 Abs. 1 Bst. j dieses Gesetzes bleibt vorbehalten;
 - d) …
@@ -668,24 +682,24 @@ als Gesetz:[^ingress-4]
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a) die privaten Schuldzinsen, soweit sie nicht als Anlagekosten gelten, im Umfang der nach Art. 33, 33<sup>bis</sup> und 34 dieses Erlasses steuerbaren Vermögenserträge zuzüglich Fr. 50 000.–;
-- b) die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten;
+- b) die dauernden Lasten sowie der Ertragsanteil nach Art. 35 Abs. 3 Bst. c dieses Erlasses der Leistungen aus Leibrenten- und aus Verpfründungsverträgen;
 - c) die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge oder Obhut stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d) die nach Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge;
 - e) Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen auf Leistungen aus anerkannten Formen der gebundenen Selbstvorsorge nach Art. 82 BVG;
 - f) die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
-- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Bst. f dieser Bestimmung fallende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zum Gesamtbetrag von Fr. 6700.– für gemeinsam steuerpflichtige Ehegatten und von Fr. 3400.– für die übrigen Steuerpflichtigen. Diese Abzüge erhöhen sich um Fr. 1000.– für gemeinsam steuerpflichtige Ehegatten und um Fr. 500.– für die übrigen Steuerpflichtigen, wenn keine Beiträge nach Bst. d und e dieser Bestimmung abgezogen werden. Sie erhöhen sich um Fr. 1100.– für jedes Kind, für das der Steuerpflichtige einen Kinderabzug geltend machen kann;
-- h) die Kosten der Betreuung von Kindern unter 14 Jahren durch Drittpersonen, höchstens Fr. 26 400.– für jedes Kind, das mit dem Steuerpflichtigen, der für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit des Steuerpflichtigen stehen;
-- i) Mitgliederbeiträge und Zuwendungen an politische Parteien bis zum Gesamtbetrag von Fr. 21 100.– für gemeinsam steuerpflichtige Ehegatten und von Fr. 10 500.– für die übrigen Steuerpflichtigen, wenn die politischen Parteien:
+- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Bst. f dieser Bestimmung fallende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zum Gesamtbetrag von Fr. 6800.– für gemeinsam steuerpflichtige Ehegatten und von Fr. 3400.– für die übrigen Steuerpflichtigen. Diese Abzüge erhöhen sich um Fr. 1100.– für gemeinsam steuerpflichtige Ehegatten und um Fr. 500.– für die übrigen Steuerpflichtigen, wenn keine Beiträge nach Bst. d und e dieser Bestimmung abgezogen werden. Sie erhöhen sich um Fr. 1100.– für jedes Kind, für das der Steuerpflichtige einen Kinderabzug geltend machen kann;
+- h) die Kosten der Betreuung von Kindern unter 14 Jahren durch Drittpersonen, höchstens Fr. 26 700.– für jedes Kind, das mit dem Steuerpflichtigen, der für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit des Steuerpflichtigen stehen;
+- i) Mitgliederbeiträge und Zuwendungen an politische Parteien bis zum Gesamtbetrag von Fr. 21 400.– für gemeinsam steuerpflichtige Ehegatten und von Fr. 10 700.– für die übrigen Steuerpflichtigen, wenn die politischen Parteien:
   - 1\. im Parteienregister nach Art. 76 a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^45-1] eingetragen sind oder
   - 2\. in einem kantonalen Parlament vertreten sind oder
   - 3\. in einem Kanton bei den letzten Wahlen des kantonalen Parlamentes wenigstens 3 Prozent der Stimmen erreicht haben;
-- j) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von Fr. 12 900.– je Steuerpflichtigen, wenn:
+- j) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von Fr. 13 000.– je Steuerpflichtigen, wenn:
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
 <sup>2</sup> Bei gemeinsam steuerpflichtigen Ehegatten werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, Fr. 500.– abgezogen; ein gleicher Abzug wird bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten gewährt.
 
-<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, die nicht nach Art. 37 Bst. n bis q dieses Erlasses steuerfrei sind, werden 5 Prozent, jedoch höchstens Fr. 5400.–, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Art. 37 Bst. o dieses Erlasses werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 26 400.–, abgezogen.
+<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, die nicht nach Art. 37 Bst. n bis q dieses Erlasses steuerfrei sind, werden 5 Prozent, jedoch höchstens Fr. 5400.–, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Art. 37 Bst. o dieses Erlasses werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 26 700.–, abgezogen.
 
 [^45-1]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de).
 
@@ -720,9 +734,9 @@ als Gesetz:[^ingress-4]
 <sup>1</sup> Vom Reineinkommen werden für die Steuerberechnung abgezogen:
 
 - a) als Kinderabzug, wenn der Steuerpflichtige für den Unterhalt zur Hauptsache aufkommt und keinen Abzug nach Art. 45 Abs. 1 Bst. c dieses Erlasses beansprucht:
-- 1\. Fr. 7500.– für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind, das noch nicht schulpflichtig ist;
-- 2\. Fr. 10 600.– für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht;
-- 3\. höchstens weitere Fr. 13 600.– für Ausbildungskosten für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht, soweit sie der Steuerpflichtige selbst trägt und sie Fr. 3100.– übersteigen.
+- 1\. Fr. 7600.– für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind, das noch nicht schulpflichtig ist;
+- 2\. Fr. 10 800.– für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht;
+- 3\. höchstens weitere Fr. 13 700.– für Ausbildungskosten für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht, soweit sie der Steuerpflichtige selbst trägt und sie Fr. 3200.– übersteigen.
 
 <sup>2</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
@@ -738,14 +752,14 @@ als Gesetz:[^ingress-4]
 
 <sup>1</sup> Die einfache Steuer vom Einkommen beträgt:
 
-- a) 0 Prozent für die ersten — Fr. 11 500.–
+- a) 0 Prozent für die ersten — Fr. 11 600.–
 - b) 4 Prozent für die weiteren — Fr. 4 200.–
-- c) 6 Prozent für die weiteren — Fr. 17 700.–
-- d) 8 Prozent für die weiteren — Fr. 26 100.–
-- e) 9,2 Prozent für die weiteren — Fr. 37 500.–
-- f) 9,4 Prozent für die weiteren — Fr. 163 800.–
+- c) 6 Prozent für die weiteren — Fr. 18 000.–
+- d) 8 Prozent für die weiteren — Fr. 26 400.–
+- e) 9,2 Prozent für die weiteren — Fr. 38 100.–
+- f) 9,4 Prozent für die weiteren — Fr. 165 900.–
 
-<sup>2</sup> Für steuerbare Einkommen über Fr. 260 800.– beträgt die einfache Steuer für das ganze Einkommen 8,5 Prozent.
+<sup>2</sup> Für steuerbare Einkommen über Fr. 264 200.– beträgt die einfache Steuer für das ganze Einkommen 8,5 Prozent.
 
 <sup>3</sup> Für gemeinsam steuerpflichtige Ehegatten wird der Steuersatz des halben steuerbaren Einkommens angewendet.
 
@@ -2302,11 +2316,13 @@ als Gesetz:[^ingress-4]
 
 - a) Arbeitgeber über ihre Leistungen an Arbeitnehmer;
 - b) Gläubiger und Schuldner über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen;
-- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen;
+- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen. Bei Leibrentenversicherungen, die dem eidgenössischen Versicherungsvertragsgesetz vom 2. April 1908[^172-1] unterstehen, müssen sie zusätzlich das Abschlussjahr, die Höhe der garantierten Leibrente, den gesamten steuerbaren Ertragsanteil nach Art. 35 Abs. 3 dieses Erlasses sowie die Überschussleistungen und den Ertragsanteil aus diesen Leistungen nach Art. 35 Abs. 3 Bst. b dieses Erlasses ausweisen;
 - d) Treuhänder, Vermögensverwalter, Pfandgläubiger, Beauftragte und andere Personen, die Vermögen des Steuerpflichtigen in Besitz oder in Verwaltung haben oder hatten, über dieses Vermögen und seine Erträgnisse;
 - e) Personen, die mit dem Steuerpflichtigen Geschäfte tätigen oder getätigt haben, über die beiderseitigen Ansprüche und Leistungen.
 
 <sup>2</sup> Reicht der Steuerpflichtige die Bescheinigung trotz Mahnung nicht ein, kann die Veranlagungsbehörde diese vom Dritten einfordern. Das gesetzlich geschützte Berufsgeheimnis bleibt gewahrt.
+
+[^172-1]: SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de).
 
 #### Art. 173
 
