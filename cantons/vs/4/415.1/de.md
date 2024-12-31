@@ -3,20 +3,19 @@ canton: VS
 number: "415.1"
 title: Gesetz über den Sport
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2012-09-14
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2012-09-14
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/415.1"
-pdf: "https://lex.vs.ch/api/de/versions/2434/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Sport
 
-vom 14.09.2012 (Stand 01.01.2018)
+vom 14.09.2012 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -233,7 +232,7 @@ verordnet:[^ingress-1]
 
 **Bildung und Zweck**
 
-<sup>1</sup> Der Sportfonds wird durch den jährlichen Gewinnanteil gebildet, den die Loterie Romande dem Kanton Wallis zuweist, durch Schenkungen und allfällige Vermächtnisse, durch Zinsen sowie alle weiteren Zuwendungen.
+<sup>1</sup> Der Sport-Fonds wird durch den jährlichen Gewinnanteil gebildet, den die Loterie Romande dem Kanton Wallis zuweist, durch Schenkungen und allfällige Vermächtnisse sowie alle weiteren Zuwendungen.
 
 <sup>2</sup> Er soll die Entwicklung von Sport und Bewegung unterstützen.
 

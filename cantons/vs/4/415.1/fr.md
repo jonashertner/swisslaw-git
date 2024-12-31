@@ -3,20 +3,19 @@ canton: VS
 number: "415.1"
 title: Loi sur le sport
 language: fr
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2012-09-14
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2012-09-14
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/415.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2434/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3432/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi sur le sport
 
-du 14.09.2012 (état 01.01.2018)
+du 14.09.2012 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -233,7 +232,7 @@ ordonne:[^ingress-1]
 
 **Constitution et but**
 
-<sup>1</sup> Le Fonds du sport est constitué de la part du bénéfice annuel attribué pour lesport par la Loterie romande au canton du Valais, de dons, de legs éventuels, des intérêts ainsi que de toute autre ressource.
+<sup>1</sup> Le Fonds du sport est constitué de la part du bénéfice annuel attribué pour le sport par la Loterie romande au canton du Valais, de dons, de legs éventuels, ainsi que de toute autre ressource.
 
 <sup>2</sup> Il est destiné à soutenir le développement des activités sportives et physiques.
 
