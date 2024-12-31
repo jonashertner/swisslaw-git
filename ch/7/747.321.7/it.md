@@ -3,22 +3,22 @@ sr: "747.321.7"
 title: Ordinanza del 15 marzo 1971 sugli yacht marittimi svizzeri (Ordinanza sugli yacht)
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/327_331_331"
 language: it
-version: 2021-03-15
+version: 2025-01-01
 adopted: 1971-03-15
 in_force: 1971-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/327_331_331/20210315/it/xml/fedlex-data-admin-ch-eli-cc-1971-327_331_331-20210315-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20210315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/327_331_331/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1971-327_331_331-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli yacht marittimi svizzeri
 
-(Ordinanza sugli yacht)**[^t-1]**
+(Ordinanza sugli yacht)[^t-1]
 
-del 15 marzo 1971 (Stato 15 marzo 2021)
+del 15 marzo 1971 (Stato 1° gennaio 2025)
 
-[^t-1]: Introdotto dal n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^t-1]: Introdotto dalla cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 Il Consiglio federale svizzero,
 
@@ -26,8 +26,8 @@ visto l’articolo 35 capoversi 2 e 3 della legge del 23 settembre 1953[^ingress
 
 decreta:
 
-[^ingress-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^ingress-1]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 ## Immatricolazione degli yacht marittimi svizzeri
 
@@ -53,7 +53,7 @@ decreta:
 
 <sup>3</sup> Il Dipartimento federale degli affari esteri può emanare prescrizioni esecutive e istruzioni concernenti l’allestimento e la tenuta del registro svizzero degli yacht.
 
-[^2-1]: Nuovo testo giusta il n. II 75 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^2-1]: Nuovo testo giusta la cifra II n. 75 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 3
 
@@ -65,27 +65,29 @@ decreta:
 
 Nella pagina del registro sono iscritti:
 
-- a. cognome, nome, data di nascita, luogo di origine e domicilio del proprietario e, se si tratta di associazione, nome e sede di quest’ultima;
+- a.[^3-1] cognome, nome, data di nascita e domicilio del proprietario o, se si tratta di una persona giuridica, ragione sociale o nome e sede della persona giuridica;
 - b. nome dello yacht;
 - c. l’epoca, il luogo di costruzione e il nome del costruttore dello yacht;
-- d.[^3-1] la lunghezza, la larghezza, il pescaggio o l’altezza interna dal ponte al fondo di sentina e il dislocamento dello yacht;
+- d.[^3-2] la lunghezza, la larghezza, il pescaggio o l’altezza interna dal ponte al fondo di sentina e il dislocamento dello yacht;
 - e. genere di yacht e materiale di costruzione;
 - f. per yacht a vela, la superficie velica, il numero degli alberi; per gli yacht a propulsione meccanica, il numero, il tipo e la potenza dei motori;
 - g. per gli yacht dotati di radiotelefonia, la sigla di chiamata.
 
 <sup>3</sup> Ogni modificazione concernente l’immatricolazione deve essere subito comunicata dal proprietario dello yacht all’Ufficio svizzero della navigazione marittima. L’articolo 149 della legge sulla navigazione marittima si applica per analogia.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 20 set. 1976, in vigore dal 15 ott. 1976 ([RU 1976 1893](https://fedlex.data.admin.ch/eli/oc/1976/1893_1893_1893)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 20 set. 1976, in vigore dal 15 ott. 1976 ([RU 1976 1893](https://fedlex.data.admin.ch/eli/oc/1976/1893_1893_1893)).
 
 #### Art. 4
 
 **Effetti dell’immatricolazione**
 
-<sup>1</sup> Gli yacht immatricolati soggiaciono alle disposizioni degli articoli 1, 4, 7, 14 capoversi 2 e 3, 15 e 16 della legge sulla navigazione marittima come anche alle altre disposizioni di detta legge e della sua ordinanza d’esecuzione del 20 novembre 1956[^4-1], dichiarate applicabili dalla presente ordinanza; per l’applicazione di queste disposizioni, gli yacht sono equiparati al naviglio svizzero.
+<sup>1</sup> Gli yacht immatricolati soggiacciono alle disposizioni degli articoli 1, 4, 7, 14 capoversi 2 e 3, 15 e 16 della legge sulla navigazione marittima come anche alle altre disposizioni di detta legge e della sua ordinanza d’esecuzione del 20 novembre 1956[^4-1], dichiarate applicabili dalla presente ordinanza; per l’applicazione di queste disposizioni, gli yacht svizzeri sono equiparati alle navi svizzere.[^4-2]
 
 <sup>2</sup> L’immatricolazione d’uno yacht nel registro svizzero degli yacht concerne unicamente la nazionalità e non produce alcun effetto quanto alla proprietà e ai diritti reali.
 
-[^4-1]: [RS 747.301](https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473)
+[^4-1]: [RS 747.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9018)
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
 
 ### Condizioni d’immatricolazione
 
@@ -98,29 +100,28 @@ Nella pagina del registro sono iscritti:
 Possono essere iscritti nel registro degli yacht svizzeri soltanto i panfili sportivi e da diporto:
 
 - a. che per le loro dimensioni, il genere di costruzione e l’armamento sono atti a tenere il mare;
-- b. per i quali siano adempiute le condizioni di cui nella presente ordinanza in quanto concerne la cittadinanza del proprietario, l’assicurazione responsabilità civile, la denominazione e la procedura;
+- b.[^5-1] per i quali siano adempiute le condizioni di cui alla presente ordinanza per quanto concerne i proprietari, l’assicurazione di responsabilità civile, la denominazione e la procedura;
 - c. che non sono iscritti in un registro pubblico estero.
 
-<sup>2</sup> ...[^5-1]
+<sup>2</sup> ...[^5-2]
 
-<sup>3</sup> a <sup>5</sup> ...[^5-2]
+<sup>3 a <sup>5</sup></sup> ...[^5-3]
 
-[^5-1]: Abrogato dal n. I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
-[^5-2]: Introdotti dal n. I dell’O del 19 ott. 1983 ([RU 1983 1385](https://fedlex.data.admin.ch/eli/oc/1983/1385_1385_1385)). Abrogati dal n. I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
+[^5-2]: Abrogato dalla cifra I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^5-3]: Introdotti dalla cifra I dell’O del 19 ott. 1983 ([RU 1983 1385](https://fedlex.data.admin.ch/eli/oc/1983/1385_1385_1385)). Abrogati dalla cifra I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 #### Art. 6
 
-**Nazionalità**
+**Proprietari**[^6-1]
 
-<sup>1</sup> I proprietari di uno yacht svizzero devono essere cittadini svizzeri o associazioni svizzere che perseguono lo scopo di promuovere lo sport nautico e la navigazione da diporto. Il proprietario che possiede doppia cittadinanza non può far iscrivere il proprio yacht se è domiciliato nello Stato della sua altra cittadinanza.
+<sup>1</sup> I proprietari di uno yacht svizzero devono essere persone fisiche di cittadinanza svizzera o con domicilio in Svizzera oppure persone giuridiche con sede in Svizzera.
 
-<sup>2</sup> Un’associazione è svizzera giusta la presente ordinanza se è stata istituita conformemente agli articoli 60 e 61 del Codice civile svizzero[^6-1], risulta iscritta nel registro di commercio e almeno i due terzi dei suoi membri nonché tutti i membri del comitato o di altri organi sono cittadini svizzeri domiciliati in Svizzera, e sia escluso il rischio di influenze determinanti straniere sull’associazione.
+<sup>2</sup> Le persone giuridiche devono inoltre avere la loro amministrazione effettiva in Svizzera ed essere iscritte nel registro di commercio.
 
 <sup>3</sup> L’Ufficio svizzero della navigazione marittima può esigere che il proprietario dia informazioni quanto al modo di finanziamento dell’acquisto dello yacht e del rispettivo esercizio.
 
-<sup>4</sup> Il proprietario deve dichiarare per scritto di non dissimulare né tacere alcun fatto riguardante un’influenza straniera sullo yacht.
-
-[^6-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
 
 #### Art. 7
 
@@ -130,13 +131,20 @@ Possono essere iscritti nel registro degli yacht svizzeri soltanto i panfili spo
 
 <sup>2</sup> Le prescrizioni del diritto sulle telecomunicazioni si applicano all'installazione e all’esercizio degli impianti di telecomunicazione.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 #### Art. 8
 
 **Assicurazione di responsabilità civile**
 
-<sup>1</sup> Il proprietario di uno yacht svizzero deve concludere e mantenere, presso una società d’assicurazione autorizzata dal Consiglio federale e esercitare la propria attività in Svizzera, un’assicurazione di responsabilità civile sullo yacht, che copra la responsabilità per la condotta e l’esercizio di detta imbarcazione.
+<sup>1</sup> Il proprietario di uno yacht svizzero deve concludere e mantenere, presso una società d*’*assicurazione ammessa dall*’*Autorità federale di vigilanza sui mercati finanziari a esercitare la propria attività in Svizzera, un*’*assicurazione di responsabilità civile sullo yacht che copra la responsabilità per la condotta e l*’*esercizio di detta imbarcazione.[^8-1]
+
+<sup>1bis</sup>
+
+Il proprietario di uno yacht svizzero può chiedere che la copertura assicurativa di una società d’assicurazione con sede all’estero sia riconosciuta in via eccezionale come equivalente dall’Ufficio svizzero della navigazione marittima se:
+
+- a. le società d’assicurazione ammesse dall’Autorità federale di vigilanza sui mercati finanziari a esercitare le loro attività in Svizzera non offrono la copertura necessaria;
+- b. per lo yacht esiste già una copertura assicurativa sufficiente in uno degli Stati rivieraschi che si affacciano su acque confinarie (Lago di Costanza, Lago Maggiore, Lago Lemano).[^8-2]
 
 <sup>2</sup> L’assicurazione deve coprire la responsabilità civile del proprietario e del comandante dell’imbarcazione, come anche delle persone di cui il proprietario risponde.
 
@@ -152,9 +160,11 @@ Possono essere escluse dall’assicurazione:
 L’assicurazione deve coprire i diritti all’indennizzo delle persone lese almeno fino a concorrenza delle somme seguenti:
 
 - a. ove esiste una limitazione legale della responsabilità, fino a questo limite;
-- b.[^8-1] negli altri casi, cinque milioni di franchi per sinistro, per l’insieme dei danni alle persone e alle cose.
+- b.[^8-3] negli altri casi, cinque milioni di franchi per sinistro, per l’insieme dei danni alle persone e alle cose.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
+[^8-2]: Introdotto dalla cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 #### Art. 9
 
@@ -179,13 +189,16 @@ L’assicurazione deve coprire i diritti all’indennizzo delle persone lese alm
 A sostegno della domanda devono essere allegati:
 
 - a. per le persone fisiche, l’atto d’origine o il passaporto del proprietario;
-- b. per le associazioni, gli statuti, l’estratto dal registro di commercio, l’elenco dei membri con indicazione della loro cittadinanza nonché del domicilio, la composizione degli organi dell’associazione con l’indicazione del luogo d’origine e del domicilio dei membri;
+- b.[^10-1] per le persone giuridiche, l’estratto del registro di commercio;
 - c. la prova della proprietà;
 - d. un attestato comprovante che lo yacht, se già iscritto in un registro pubblico estero, ne è stato radiato oppure che la radiazione sarà fatta all’atto dell’iscrizione in Svizzera;
 - e. una notificazione scritta in cui il proprietario dichiara che non ha chiesto né chiederà l’iscrizione dello yacht in un registro pubblico estero;
 - f. una notificazione scritta in cui il proprietario dichiara che ha armato lo yacht conformemente all’articolo 7 della presente ordinanza e che l’armamento sarà mantenuto in perfetto stato;
 - g. l’attestazione della società d’assicurazione comprovante la conclusione dell’assicurazione responsabilità civile richiesta;
-- h. una dichiarazione conforme all’articolo 6 capoverso 4 della presente ordinanza.
+- h.[^10-2] …
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
+[^10-2]: Dalla data di entrata in vigore il 1° gen. 2025 della mod. del 9 ott. 2024, questa lett. è senza oggetto.
 
 ### Certificato di bandiera
 
@@ -203,17 +216,19 @@ A sostegno della domanda devono essere allegati:
 
 **Durata della validità**
 
-<sup>1</sup> Il certificato di bandiera è valido 3 anni.
+<sup>1</sup> ll certificato di bandiera è valido cinque anni.[^12-1]
 
 <sup>2</sup> Fintanto che sono adempiute le condizioni per l’iscrizione del natante nel registro svizzero degli yacht, il certificato di bandiera deve, secondo i casi, essere prorogato, modificato o sostituito. Le disposizioni dell’articolo 43 capoversi 2, 3 (per. 1) e 4 della legge sulla navigazione marittima sono applicabili per analogia.
 
 <sup>3</sup> Il certificato di bandiera perde validità, e dev’essere restituito senza indugio all’Ufficio svizzero della navigazione marittima o al consolato svizzero più vicino, quando lo yacht è cancellato dal registro svizzero degli yacht. È applicabile l’articolo 147 della legge sulla navigazione marittima.
 
-### Attestazione svizzera di bandiera****
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
+
+### Attestazione svizzera di bandiera
 
 [^lvlu1-lvlu5-1]
 
-[^lvlu1-lvlu5-1]: Introdotto dal n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^lvlu1-lvlu5-1]: Introdotto dalla cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 #### Art. 12a
 
@@ -236,8 +251,8 @@ L’Ufficio svizzero della navigazione marittima rilascia su domanda del proprie
 
 <sup>3</sup> Le prescrizioni concernenti gli yacht sono applicabili per analogia alle imbarcazioni con attestazione di bandiera.
 
-[^12a-1]: Introdotto dal n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
-[^12a-2]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^12a-1]: Introdotto dalla cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^12a-2]: [RS 747.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8912)
 
 ### Cancellazione dello yacht
 
@@ -262,14 +277,16 @@ Inoltre, la cancellazione può essere ordinata se:
 - a. è stato omesso l’annuncio di una modificazione per cui vige l’obbligo di notifica;
 - b. il proprietario o il comandante dello yacht ha violato reiteratamente o gravemente le prescrizioni della presente ordinanza o le disposizioni dichiarate applicabili della legge sulla navigazione marittima o della sua ordinanza d’esecuzione del 20 novembre 1956[^13-2] o, ancora, è stato commesso un atto contrario agli interessi generali della Confederazione.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
-[^13-2]: [RS 747.301](https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473)
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^13-2]: [RS 747.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9018)
 
 #### Art. 14
 
 **A seguito di provvedimenti straordinari**
 
-Gli articoli 6 capoverso 1 lettera *a* e 145 capoverso 2 della legge sulla navigazione marittima sono applicabili agli yacht svizzeri. Oltre ai provvedimenti giusta l’articolo 6 capoverso 2, il Consiglio federale può chiudere il registro svizzero degli yacht e ordinare la cancellazione degli yacht immatricolati.
+Gli articoli 6 capoverso 1[^14-1] e 145 capoverso 2 della legge sulla navigazione marittima sono applicabili agli yacht svizzeri. Oltre ai provvedimenti giusta l’articolo 6 capoverso 2, il Consiglio federale può chiudere il registro svizzero degli yacht e ordinare la cancellazione degli yacht immatricolati.
+
+[^14-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° giu. 2017.
 
 ## Esercizio della navigazione
 
@@ -283,8 +300,8 @@ Gli articoli 6 capoverso 1 lettera *a* e 145 capoverso 2 della legge sulla navig
 
 <sup>2</sup> Il proprietario d’uno yacht svizzero risponde del danni causati a terzi nell’esercizio del natante, secondo gli articoli 48, 49 e 121 della legge sulla navigazione marittima come anche gli articoli 41 e seguenti del Codice delle obbligazioni[^15-1]; tuttavia, la responsabilità massima del proprietario corrisponde all’importo stabilito per una stazza lorda di almeno 300 tonnellate. Alla procedura concernente la limitazione della responsabilità si applicano gli articoli 45 a 62 e 70 a 72 dell’ordinanza d’esecuzione del 20 novembre 1956[^15-2] della legge sulla navigazione marittima.
 
-[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^15-2]: [RS 747.301](https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473)
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^15-2]: [RS 747.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9018)
 
 #### Art. 16
 
@@ -295,6 +312,11 @@ Gli articoli 6 capoverso 1 lettera *a* e 145 capoverso 2 della legge sulla navig
 <sup>2</sup> Le disposizioni della legge sulla navigazione marittima applicabili agli yacht svizzeri e concernenti il capitano d’una nave riguardano parimenti il comandante e il proprietario dello yacht, se è quest’ultimo che conduce il natante oppure se non ha designato un comandante.
 
 <sup>3</sup> Le disposizioni di convenzioni internazionali, le regole e le usanze della navigazione marittima ratificate dalla Svizzera o dichiarate applicabili, si applicano alla condotta e all’esercizio d’uno yacht svizzero se esse concernono parimenti questo tipo di natante.
+
+<sup>4</sup> Gli articoli 9–11*c* dell’ordinanza del 20 novembre 1956[^16-1] sulla navigazione marittima si applicano anche alla condotta e all’esercizio d’uno yacht svizzero; per l’applicazione di queste disposizioni, gli yacht svizzeri sono equiparati alle navi svizzere.[^16-2]
+
+[^16-1]: [RS 747.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9018)
+[^16-2]: Introdotto dalla cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 567](https://fedlex.data.admin.ch/eli/oc/2024/567)).
 
 #### Art. 17
 
@@ -310,7 +332,7 @@ Il trasporto professionale di persone o merci su yacht svizzeri è vietato.
 
 <sup>2</sup> Il proprietario rimane responsabile dell’esercizio dello yacht. Egli risponde, giusta la legge sulla navigazione marittima e la presente ordinanza, dei danni causati in tale esercizio.
 
-[^18-1]: Frase introdotta dal n. I dell’O del 12 mag. 1993, in vigore dal 1° lug. 1993 ([RU 1993 1892](https://fedlex.data.admin.ch/eli/oc/1993/1892_1892_1892)).
+[^18-1]: Frase introdotta dalla cifra I dell’O del 12 mag. 1993, in vigore dal 1° lug. 1993 ([RU 1993 1892](https://fedlex.data.admin.ch/eli/oc/1993/1892_1892_1892)).
 
 ### Comandante
 
@@ -326,9 +348,9 @@ Il trasporto professionale di persone o merci su yacht svizzeri è vietato.
 
 <sup>4</sup> Se l’esame è superato l’ente esaminatore rilascia il certificato di capacità. L’ente esaminatore non deve far distinzione, nell’esame, fra i candidati membri e non membri.[^19-3]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
-[^19-3]: Introdotto dal n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^19-3]: Introdotto dalla cifra I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 ### Diritti e obblighi del comandante
 
@@ -340,7 +362,7 @@ Il trasporto professionale di persone o merci su yacht svizzeri è vietato.
 
 <sup>2</sup> L’Ufficio svizzero della navigazione marittima stabilisce, in considerazione della natura, della grandezza e del tipo di costruzione dello yacht, quali siano i documenti, oltre al certificato di bandiera, da conservare a bordo e da tenere aggiornati da parte del comandante.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 3 feb. 2021, in vigore dal 15 mar. 2021 ([RU 2021 69](https://fedlex.data.admin.ch/eli/oc/2021/69)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 3 feb. 2021, in vigore dal 15 mar. 2021 ([RU 2021 69](https://fedlex.data.admin.ch/eli/oc/2021/69)).
 
 ### Equipaggio
 
@@ -350,21 +372,15 @@ Il trasporto professionale di persone o merci su yacht svizzeri è vietato.
 
 <sup>2</sup> Le disposizioni della legge sulla navigazione marittima e della rispettiva ordinanza d’esecuzione del 20 novembre 1956[^21-3], concernenti le condizioni di lavoro, si applicano agli yacht di 300 tonnellate o più di stazza lorda.
 
-[^21-1]: [RS 747.301](https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473)
-[^21-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^21-3]: [RS 747.301](https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473)
+[^21-1]: [RS 747.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9018)
+[^21-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^21-3]: [RS 747.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9018)
 
-#### Art. 22
+#### Art. 22 e 23
 
-[^22-1]
+[^2223-1]
 
-[^22-1]: Abrogato dal n. I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
-
-#### Art. 23
-
-[^23-1]
-
-[^23-1]: Abrogato dal n. I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^2223-1]: Abrogati dalla cifra I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 ## Disposizioni finali
 
