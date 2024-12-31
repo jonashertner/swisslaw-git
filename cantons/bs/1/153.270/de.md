@@ -1,25 +1,26 @@
 ---
 canton: BS
 number: "153.270"
-title: "Verordnung über die Information und den Datenschutz (Informations- und Datenschutzverordnung, IDV)"
+title: Verordnung über die Information und den Datenschutz
 short: "Informations- und Datenschutzverordnung, IDV"
 language: de
-version: 2017-07-13
-valid_until: 2024-12-31
-version_adopted: 2017-07-04
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 2011-08-09
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/153.270"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6145/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6496/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Information und den Datenschutz (Informations- und Datenschutzverordnung, IDV)
+# Verordnung über die Information und den Datenschutz
 
 Informations- und Datenschutzverordnung | Regierung und Verwaltung
 
-Vom 9. August 2011 (Stand 13. Juli 2017)
+(Informations- und Datenschutzverordnung, IDV)
+
+Vom 9. August 2011 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -63,15 +64,15 @@ beschliesst:
 
 <sup>2</sup> Für die Errichtung, den Betrieb und die Organisation eines Datenpools sind rechtliche Grundlagen mindestens auf Verordnungsstufe zu schaffen.
 
-<sup>3</sup> Sie regeln insbesondere
+<sup>3</sup> Sie regeln insbesondere:
 
-- a) den Zweck des Datenpools,
-- b) den Inhalt des Datenpools,
-- c) das verantwortliche Organ und dessen Aufgaben (§ 6 Abs. 2 IDG),
-- d) die Rechte und Pflichten der informationenliefernden öffentlichen Organe und/oder Dritten,
-- e) die Rechte und Pflichten der informationenbeziehenden öffentlichen Organe und/oder Dritten,
-- f) den Umgang mit nicht mehr benötigten Informationen,
-- g) die Vorgaben für eine Übertragung der Bearbeitung auf Dritte (§ 7 IDG),
+- a) den Zweck des Datenpools;
+- b) den Inhalt des Datenpools;
+- c) das öffentliche Organ, das die Gesamtverantwortung trägt, und dessen Aufgaben (§ 6 Abs. 2 IDG);
+- d) die Rechte und Pflichten der informationenliefernden öffentlichen Organe oder Dritten;
+- e) die Rechte und Pflichten der informationenbeziehenden öffentlichen Organe oder Dritten;
+- f) den Umgang mit nicht mehr benötigten Informationen;
+- g) die Vorgaben für eine Übertragung der Bearbeitung auf Dritte (§ 7 IDG);
 - h) die Auflösung des Datenpools unter Beachtung von § 1c dieser Verordnung.
 
 #### § 1c
@@ -82,42 +83,91 @@ beschliesst:
 
 <sup>2</sup> Ist eine Rückgabe nicht möglich, sind die Informationsbestände unter Berücksichtigung der Regelung von § 16 IDG zu vernichten.
 
-### I. 2. Vorabkontrolle (§ 13 IDG)
+### I.1b. Nachweis für die Einhaltung der Datenschutzbestimmungen
+
+#### § 1d
+
+**Dokumentation**
+
+<sup>1</sup> Der Nachweis für die Einhaltung der Datenschutzbestimmungen (§ 6 Abs. 3 IDG) wird durch eine Dokumentation erbracht und umfasst:
+
+- a) eine Beschreibung der Bearbeitung der Personendaten;
+- b) eine Darstellung der Rechtslage;
+- c) eine Beschreibung der Risiken und Abhilfemassnahmen;
+- d) eine Beschreibung der Prozesse und Verantwortlichkeiten.
+
+<sup>2</sup> Die Dokumentation kann in einem strukturierten Datenschutz- oder Informationssicherheits-Managementsystem erfolgen.
+
+### I. 2. Datenschutz-Folgeabschätzung und Vorabkonsultation (§§ 12a und 13 IDG)
 
 #### § 2
 
-**Pflicht zur Vorlage zur Vorabkontrolle**
+**Hohes Risiko**
 
-<sup>1</sup> Das Vorhaben der Bearbeitung von Personendaten unterliegt insbesondere dann der Vorabkontrolle durch die oder den Datenschutzbeauftragen:
+<sup>1</sup> Ein hohes Risiko für die Grundrechte der betroffenen Personen im Sinn von § 12a Abs. 1 und § 13 Abs. 1 lit. b IDG liegt insbesondere vor, wenn ein Vorhaben zur Bearbeitung von Personendaten:
 
-- a) wenn sie ein Abrufverfahren vorsieht,
-- b) wenn sie besondere Personendaten betrifft,
-- c) wenn sie mit dem Einsatz neuer Technologie verbunden ist,
-- d) wenn sie eine grosse Anzahl Personen betrifft,
-- e) wenn ein Datenpool im Sinn von § 1a errichtet werden soll, oder
-- f) wenn ein Gesetz oder eine Verordnung es vorsieht.
+- a) ein Abrufverfahren vorsieht;
+- b) besondere Personendaten oder Personendaten, die einem Berufs- oder Amtsgeheimnis unterstehen, betrifft;
+- c) ein Profiling umfasst;
+- d) eine grosse Anzahl von Personen betrifft;
+- e) eine Auftragsdatenbearbeitung durch Dritte im Ausland in einem Staat ohne angemessenen Datenschutz umfasst oder
+- f) die Errichtung eines Datenpools im Sinn von § 1a umfassen soll.
 
-<sup>2</sup> Ein Vorhaben muss nicht zur Vorabkontrolle vorgelegt werden, wenn die oder der Datenschutzbeauftragte bereits in der Projektorganisation des Vorhabens mitwirkt.
+<sup>2</sup> …
 
 #### § 3
 
-**Zeitpunkt und Durchführung der Vorabkontrolle**
+**Zeitpunkt und Durchführung der Vorabkonsultation**
 
-<sup>1</sup> Die erste Kontaktaufnahme mit der oder dem Datenschutzbeauftragten erfolgt zu einem Zeitpunkt, welcher die Berücksichtigung ihrer oder seiner Beurteilung im Vorhaben ermöglicht.
+<sup>1</sup> Die erste Kontaktaufnahme mit der oder dem Datenschutzbeauftragten erfolgt zu einem Zeitpunkt, welcher die Berücksichtigung ihrer oder seiner Empfehlungen aus der Vorabkonsultation im Rechtsetzungsprojekt beziehungsweise Vorhaben ermöglicht.
 
-<sup>2</sup> Die Vorabkontrolle findet je nach Grösse des Vorhabens in einem Prüfungsschritt oder in mehreren Prüfungsschritten statt.
+<sup>2</sup> Die Vorabkonsultation findet je nach Grösse des Rechtsetzungsprojekts beziehungsweise Vorhabens in einem Prüfungsschritt oder in mehreren Prüfungsschritten statt.
 
 <sup>3</sup> Die oder der Datenschutzbeauftragte nimmt den jeweiligen Prüfungsschritt innert angemessener Frist vor und teilt dem öffentlichen Organ das entsprechende Prüfungsergebnis mit.
 
 #### § 4
 
-**Inhalt der vorzulegenden Dokumentation**
+**Dokumentation bei Vorhaben zur Bearbeitung von Personendaten**
 
-<sup>1</sup> Die vom öffentlichen Organ der oder dem Datenschutzbeauftragten vorzulegende Dokumentation enthält alle für die Beurteilung relevanten Unterlagen, insbesondere:
+<sup>1</sup> Betrifft die Vorabkonsultation ein Vorhaben zur Bearbeitung von Personendaten, legt das öffentliche Organ der oder dem Datenschutzbeauftragten eine Dokumentation vor, die alle für die Beurteilung relevanten Unterlagen enthält, insbesondere:
 
-- a) eine Beschreibung des Vorhabens,
+- a) eine Beschreibung des Vorhabens;
 - b) die Darstellung der Rechtslage und
 - c) eine Übersicht über die Massnahmen zur Verhinderung von Persönlichkeitsverletzungen.
+
+### I.2a Informations- und Meldepflicht
+
+#### § 4a
+
+**Umsetzung der Informationspflicht**
+
+<sup>1</sup> Die Informationspflicht bei der Beschaffung gemäss § 15 Abs. 1 IDG kann insbesondere auf Erhebungsformularen und durch die Aushändigung eines Informationsblatts erfüllt werden.
+
+#### § 4b
+
+**Ausnahmen von der Informationspflicht**
+
+<sup>1</sup> Bei Bekanntgaben von Personendaten für nicht personenbezogene Zwecke, insbesondere für Statistik, Forschung und Planung, kann eine Information der betroffenen Personen unterbleiben.
+
+### I.2b. Datenschutzberatung (§ 16b IDG)
+
+#### § 4c
+
+**Datenschutzberaterinnen und -berater**
+
+<sup>1</sup> Folgende Bereiche, Abteilungen und Stabsstellen bezeichnen eine Datenschutzberaterin oder einen Datenschutzberater:
+
+- a) der Bereich Bevölkerungsdienste und Migration;
+- b) die Kantonspolizei;
+- c) die Staatsanwaltschaft;
+- d) das Amt für Wirtschaft und Arbeit;
+- e) die Sozialhilfe.
+
+<sup>2</sup> Folgende öffentlich-rechtlichen Anstalten bezeichnen eine Datenschutzberaterin oder einen Datenschutzberater:
+
+- a) die Industriellen Werke Basel;
+- b) die öffentlichen Spitäler;
+- c) die Universität Basel.
 
 ### I. 3. Videoüberwachung (§§ 17 und 18 IDG)
 
@@ -150,11 +200,7 @@ beschliesst:
 
 #### § 6
 
-**Veröffentlichung der Reglemente**
-
-<sup>1</sup> Die Reglemente werden der Öffentlichkeit leicht zugänglich gemacht.
-
-<sup>2</sup> Wenn durch die Bekanntgabe der Kamerastandorte die Zweckerreichung unmöglich wird, kann auf deren Veröffentlichung verzichtet werden.
+**…**
 
 #### § 7
 
@@ -164,21 +210,21 @@ beschliesst:
 
 #### § 8
 
-**Vorabkontrolle vor der Inbetriebnahme eines Videoüberwachungssystems**
+**Vorabkonsultation vor der Inbetriebnahme eines Videoüberwachungssystems**
 
-<sup>1</sup> Das öffentliche Organ legt der oder dem Datenschutzbeauftragten das Videoüberwachungsvorhaben zur Vorabkontrolle gemäss §§ 2 ff. dieser Verordnung vor.
+<sup>1</sup> Das öffentliche Organ legt der oder dem Datenschutzbeauftragten das Videoüberwachungsvorhaben zur Vorabkonsultation gemäss § 13 IDG sowie §§ 2 ff. dieser Verordnung vor.
 
 <sup>2</sup> Das öffentliche Organ legt der oder dem Datenschutzbeauftragten die notwendigen Unterlagen vor, insbesondere:
 
 - a) Ausführungen dazu, mit welchen anderen Massnahmen der Zweck bisher nicht erreicht werden konnte,
 - b) allenfalls Ausführungen dazu, weshalb die Regelaufbewahrungsdauer von einer Woche zur Erreichung des konkreten Zwecks nicht ausreicht und mit welchen technischen und organisatorischen Vorkehren das Risiko einer Persönlichkeitsverletzung minimiert wird, und
-- c) den Entwurf des Reglements, sofern dieser im Zeitpunkt der Einreichung zur Vorabkontrolle schon vorliegt.
+- c) den Entwurf des Reglements, sofern dieser im Zeitpunkt der Einreichung zur Vorabkonsultation schon vorliegt.
 
 #### § 9
 
-**Vorabkontrolle vor der Verlängerung eines Videoüberwachungsreglements**
+**Vorabkonsultation vor der Verlängerung eines Videoüberwachungsreglements**
 
-<sup>1</sup> Soll ein Videoüberwachungsreglement verlängert werden, legt das öffentliche Organ das Verlängerungsvorhaben spätestens drei Monate vor Ablauf der Befristung des Reglements der oder dem Datenschutzbeauftragten zur Vorabkontrolle vor.
+<sup>1</sup> Soll ein Videoüberwachungsreglement verlängert werden, legt das öffentliche Organ das Verlängerungsvorhaben spätestens drei Monate vor Ablauf der Befristung des Reglements der oder dem Datenschutzbeauftragten zur Vorabkonsultation vor.
 
 <sup>2</sup> Die Vorlage enthält alle für die Evaluation der Wirksamkeit notwendigen relevanten Angaben, insbesondere zu den Fragen:
 
@@ -205,7 +251,7 @@ beschliesst:
 
 <sup>1</sup> Die Bekanntgabe von Personendaten mittels Abrufverfahren bedarf einer Autorisierung durch die Dateneignerin oder den Dateneigner, d.h. durch das verantwortliche öffentliche Organ im Sinne von § 6 IDG.
 
-<sup>2</sup> Die Autorisierung ist der oder dem Datenschutzbeauftragten zur Vorabkontrolle vorzulegen.
+<sup>2</sup> Die Autorisierung ist der oder dem Datenschutzbeauftragten zur Vorabkonsultation vorzulegen.
 
 <sup>3</sup> Hat das verantwortliche Organ die Personendaten, auf welche sich das Gesuch bezieht, seinerseits vollständig oder teilweise mittels Abrufverfahren bezogen, ist es nicht befugt, diese ohne Einwilligung des öffentlichen Organs, von dem es die beantragten Personendaten bezogen hat, mittels Abrufverfahren weiterzugeben.
 
@@ -246,9 +292,11 @@ beschliesst:
 
 **Grenzüberschreitende Bekanntgabe von Personendaten (§ 23 IDG)**
 
-<sup>1</sup> Das öffentliche Organ kann für die Frage, ob die Gesetzgebung eines Empfängerstaates einen angemessenen Schutz im Sinne von § 23 Bst. a IDG gewährleistet, auf die vom Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten gestützt auf Art. 7 der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz erlassene Liste abstellen.
+<sup>1</sup> Das öffentliche Organ kann für die Frage, ob die Gesetzgebung eines Empfängerstaates einen angemessenen Schutz im Sinne von § 23 lit. a IDG gewährleistet, auf die Liste der Staaten, Gebiete, spezifischen Sektoren in einem Staat und internationalen Organisationen in Anhang 1 der eidgenössischen Verordnung über den Datenschutz (Datenschutzverordnung, DSV) vom 31. August 2022[^11-1] über den Datenschutz abstellen.
 
 <sup>2</sup> Wenn bei einer Datenbekanntgabe an eine Empfängerin oder einen Empfänger in einem Staat, dessen Gesetzgebung keinen angemessenen Schutz gewährleistet, der Schutz durch vertragliche Vereinbarungen im Sinne von § 23 Bst. b IDG garantiert werden soll, hat das öffentliche Organ die oder den Datenschutzbeauftragten vorab über die vereinbarten Sicherheitsvorkehrungen zu informieren.
+
+[^11-1]: SR [235.11](https://db.clex.ch/link/Bund/235.11/de)
 
 ## II. Rechtsansprüche der betroffenen Personen
 
@@ -268,7 +316,7 @@ beschliesst:
 
 **Anspruch auf Unterlassung, Beseitigung oder Feststellung (§ 27 Abs. 1 Bst. b–d IDG)**
 
-<sup>1</sup> Weist ein öffentliches Organ das Begehren auf Unterlassung eines widerrechtlichen Bearbeitens, auf Beseitigung der Folgen eines widerrechtlichen Bearbeitens oder auf Feststellung der Widerrechtlichkeit eines Bearbeitens von Personendaten ab, so teilt es das der gesuchstellenden Person mit, auf Verlangen in Form einer anfechtbaren Verfügung.
+<sup>1</sup> Weist ein öffentliches Organ das Begehren auf Unterlassung eines widerrechtlichen Bearbeitens, auf Beseitigung der Folgen eines widerrechtlichen Bearbeitens, insbesondere auf Datenlöschung, oder auf Feststellung der Widerrechtlichkeit eines Bearbeitens von Personendaten ab, so teilt es das der gesuchstellenden Person mit, auf Verlangen in Form einer anfechtbaren Verfügung.
 
 #### § 14
 
@@ -325,12 +373,14 @@ beschliesst:
 
 #### § 18
 
-**Klassifizierung**
+**Klassifizierung von schutzwürdigen Informationen**
 
-<sup>1</sup> Das öffentliche Organ, welches schutzwürdige Informationen verfasst, weist sie entsprechend dem Grad ihrer Schutzwürdigkeit einer der folgenden Klassifizierungsstufen zu:
+<sup>1</sup> Verfasst ein öffentliches Organ Berichte mit schutzwürdigen Informationen zuhanden des Regierungsrats, weist es diese entsprechend dem Grad ihrer Schutzwürdigkeit einer der folgenden Klassifizierungsstufen zu:
 
-- a) geheim,
+- a) geheim;
 - b) vertraulich.
+
+<sup>1<sup>bis</sup></sup> Andere schutzwürdige Informationen können ebenfalls klassifiziert werden.
 
 <sup>2</sup> Werden Informationsträger physisch zu einem Sammelwerk zusammengefasst, ist zu überprüfen, ob und inwiefern dieses klassifiziert oder einer höheren Klassifizierungsstufe zugeordnet werden muss.
 
@@ -390,7 +440,7 @@ beschliesst:
 
 **Einschränkungen zum Schutz überwiegender privater Interessen, Anonymisierung (§ 29 Abs. 3 und § 30 IDG)**
 
-<sup>1</sup> Bei besonderen Personendaten wird vermutet, dass das private Interesse der betroffenen Person gegenüber dem Interesse einer Drittperson am Zugang überwiegt.
+<sup>1</sup> Bei besonderen Personendaten und Ergebnissen eines Profilings wird vermutet, dass das private Interesse der betroffenen Person gegenüber dem Interesse einer Drittperson am Zugang überwiegt.
 
 #### § 24
 
@@ -548,6 +598,12 @@ Die Verordnung über die Harmonisierung und Koordination von bedarfsabhängiggen
 **Übergangsbestimmung**
 
 <sup>1</sup> Vorhaben zur Erweiterung von Datenbearbeitungen, die im Zeitpunkt des Wirksamwerdens des IDG bereits laufen, sind der oder dem Datenschutzbeauftragten nur zur Vorabkontrolle vorzulegen, wenn durch die Erweiterung neu eine der Voraussetzungen nach § 2 Abs. 1 dieser Verordnung erfüllt werden.
+
+#### § 35a
+
+**Übergangsbestimmung zur Änderung vom 26. November 2024**
+
+<sup>1</sup> Für bestehende Datenbearbeitungssysteme ist der Nachweis für die Einhaltung der Datenschutzbestimmungen gemäss § 6 Abs. 3 IDG sowie § 1d dieser Verordnung spätestens bis 31. Dezember 2029 zu erbringen.
 
 #### § 36
 
