@@ -3,11 +3,11 @@ canton: ZH
 number: "182.10"
 title: Kirchenordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "129"
+valid_until: 2026-08-01
 adopted: 2009-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-129.html"
 text: pdf
 ---
 
@@ -47,7 +47,7 @@ Die Römisch-katholische Körperschaft des Kantons Zürich vereinigt die römisc
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 #### Art. 2
 
@@ -149,7 +149,7 @@ gemeinden ein Mitgliederregister einrichten und betreiben oder sich an einem sol
 
 **3**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Synode legt in einer Verordnung die im Mitgliederregister zu erfassenden Identifikatoren und Merkmale der Mitglieder der Körperschaft fest.
 
@@ -277,7 +277,7 @@ obligatorischen Referendum untersteht, wird sie mit einem zustimmenden oder able
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 #### Art. 19
 
@@ -405,7 +405,7 @@ perschaft besteht kein Amtszwang.
 
 **7**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 [^19g-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
@@ -522,7 +522,7 @@ Art. 27[^26-1] Die Synode ist zuständig für:
 
 **9**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Folgende Rechtserlasse:
 
@@ -634,7 +634,7 @@ Art. 32[^31-1] <sup>1</sup> Die Finanzkommission umfasst sieben Mitglieder. Sie 
 
 **11**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 [^31-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
@@ -760,7 +760,7 @@ Art. 41[^40-1] Dem Synodalrat kommen zu:
 
 **13**
 
-- 1\. 1. 24 - 123 Art. 42[^40-1] Der Synodalrat beschliesst über:
+- 1\. 7. 25 - 129 Art. 42[^40-1] Der Synodalrat beschliesst über:
 
 **Finanzkompetenzen**
 
@@ -851,7 +851,7 @@ Art. 47[^hDRekurskommission-2] Mit Rekurs können angefochten werden:
 
 **15**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 - c. Unrechtmässiges Verweigern oder Verzögern einer anfechtbaren Anordnung durch den Synodalrat, eine Kirchgemeinde, einen Zweckverband oder ihre Organe,
 
@@ -949,7 +949,7 @@ setzungen für die Entfaltung des kirchlichen Lebens im Sinne von Art. 4 Abs. 1.
 
 **17**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Sie beachten bei der Aufgabenerfüllung die von Synode und Synodalrat erlassenen Richtlinien.
 
@@ -1065,7 +1065,7 @@ Beiträge an die Körperschaft.[^64-1]
 
 **19**
 
-- 1\. 1. 24 - 123 Art. 65[^64-1] <sup>1</sup> Die Körperschaft verwendet ihre Mittel für:
+- 1\. 7. 25 - 129 Art. 65[^64-1] <sup>1</sup> Die Körperschaft verwendet ihre Mittel für:
 
 **Mittelverwendung**
 
@@ -1128,7 +1128,7 @@ Art. 70[^69-2] Der Synodalrat kann Beiträge der Kirchgemeinden aus dem Finanzau
 
 [^69-1]: LS 182.25.
 [^69-2]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
-[^69-3]: Aufgehoben durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 23
+[^69-3]: Aufgehoben durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 71
 
@@ -1190,7 +1190,7 @@ Art. 75[^74-4] Mitglieder von Behörden und Organen bleiben bis zum Ablauf der A
 
 **Übergangsbestimmung zur Änderung vom 1. Dezember 2022**
 
-- 1\. 1. 24 - 123 Art. 76[^74-5] Erhöht sich aufgrund der Änderung von Art. 21 Abs. 2 die Zahl der auf eine Kirchgemeinde entfallenden Mitglieder der Synode, sind Ergänzungswahlen durchzuführen. Die Wahl der neuen Mitglieder erfolgt für den Rest der Amtsdauer 2023–2027. Stichtag für die Zahl der Mitglieder in der Synode pro Kirchgemeinde ist der 31. Dezember 2021.
+- 1\. 7. 25 - 129 Art. 76[^74-5] Erhöht sich aufgrund der Änderung von Art. 21 Abs. 2 die Zahl der auf eine Kirchgemeinde entfallenden Mitglieder der Synode, sind Ergänzungswahlen durchzuführen. Die Wahl der neuen Mitglieder erfolgt für den Rest der Amtsdauer 2023–2027. Stichtag für die Zahl der Mitglieder in der Synode pro Kirchgemeinde ist der 31. Dezember 2021.
 
 [^74-1]: Vom Regierungsrat genehmigt am 25. November 2009.
 [^74-2]: LS 180.1.
@@ -1214,7 +1214,11 @@ Bauma[^hGemeindenoderGemei-3] Bäretswil, Bauma, Fischenthal Birmensdorf Aesch, 
 
 Rifferswil
 
-Herrliberg Herrliberg Hinwil Hinwil Hombrechtikon[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Wolfhausen), Grüningen, Hombrechtikon Horgen[^hGemeindenoderGemei-7], <sup>32</sup> Horgen Illnau-Effretikon[^hGemeindenoderGemei-8] Brütten, Illnau-Effretikon (ohne Gemeindeteil Kyburg), Lindau Kilchberg Kilchberg Kloten Bassersdorf, Kloten, Nürensdorf Küsnacht-Erlenbach Erlenbach, Küsnacht Langnau a. A. Langnau a. A.
+Herrliberg Herrliberg Hinwil Hinwil Hombrechtikon[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Wolfhausen), Grüningen, Hombrechtikon Horgen[^hGemeindenoderGemei-7], <sup>32</sup> Horgen Illnau-Effretikon[^hGemeindenoderGemei-8], <sup>38</sup> Brütten, Illnau-Effretikon, Lindau,
+
+Weisslingen
+
+Kilchberg Kilchberg Kloten Bassersdorf, Kloten, Nürensdorf Küsnacht-Erlenbach Erlenbach, Küsnacht Langnau a. A. Langnau a. A.
 
 Männedorf-Uetikon a. S. Männedorf, Uetikon a. S.
 
@@ -1228,9 +1232,7 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), 
 
 **Urdorf Greifensee, Uster, Volketswil Wädenswil Wald Dietlikon, Wallisellen,**
 
-**Gossau, Seegräben, Wetzikon Winterthur Illnau-Effretikon (Gemeindeteil**
-
-**Zollikon, Zumikon Zürich (Teile der Quartiere Affoltern,**
+**Gossau, Seegräben, Wetzikon Winterthur Schlatt, Zell Zollikon, Zumikon Zürich (Teile der Quartiere Affoltern,**
 
 **Zürich (Teile der Quartiere Oberstrass**
 
@@ -1252,9 +1254,9 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), 
 
 **27**
 
-- 1\. 1. 24 - 123 Urdorf Uster Wädenswil[^hGemeindenoderGemei-12],[^hGemeindenoderGemei-13] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-8] Kyburg), Schlatt, Weisslingen, Zell Zollikon-Zumikon[^hGemeindenoderGemei-14] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
+- 1\. 7. 25 - 129 Urdorf Uster Wädenswil[^hGemeindenoderGemei-12],[^hGemeindenoderGemei-13] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-8],[^hGemeindenoderGemei-14] Zollikon-Zumikon[^hGemeindenoderGemei-15] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 [^hGemeindenoderGemei-1]: Fassung gemäss B vom 7. April 2011 (OS 67, 396). In Kraft seit 1. Oktober 2012.
 [^hGemeindenoderGemei-2]: Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
@@ -1269,7 +1271,8 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), 
 [^hGemeindenoderGemei-11]: Fassung gemäss B vom 17. Juni 2021 (ABl 2021-07-02). In Kraft seit 2. Juli 2021.
 [^hGemeindenoderGemei-12]: Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
 [^hGemeindenoderGemei-13]: Die Kirchgemeinde Hirzel-Schönenberg-Hütten wurde nach dem Zusammenschluss der Politischen Gemeinden Horgen bzw. Wädenswil auf den 1. Januar 2020 aufgelöst und der entsprechenden Kirchgemeinde zugeordnet (OS 74, 565; ABl 2019-10-11). In Kraft seit 1. Januar 2020.
-[^hGemeindenoderGemei-14]: Fassung gemäss B vom 16. Juni 2011 (OS 67, 398). In Kraft seit 1. Oktober 2012.
+[^hGemeindenoderGemei-14]: Fassung gemäss B vom 25. November 2024 (ABl 2024-12-06). In Kraft seit 1. Januar 2025. 1. 7. 25 - 129 23
+[^hGemeindenoderGemei-15]: Fassung gemäss B vom 16. Juni 2011 (OS 67, 398). In Kraft seit 1. Oktober 2012.
 
 ## Weitere Fussnoten
 
