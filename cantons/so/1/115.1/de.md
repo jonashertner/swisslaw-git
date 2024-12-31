@@ -4,13 +4,12 @@ number: "115.1"
 title: Gesetz über die wirkungsorientierte Verwaltungsführung
 short: WoV-G
 language: de
-version: 2023-08-01
-valid_until: 2024-12-31
-version_adopted: 2022-01-26
+version: 2025-01-01
+version_adopted: 2024-06-26
 adopted: 2003-09-03
 in_force: 2004-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/115.1"
-pdf: "https://bgs.so.ch/api/de/versions/5344/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5497/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5344/pdf_file"
 
 (WoV-G)
 
-Vom 03.09.2003 (Stand 01.08.2023)
+Vom 03.09.2003 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -188,7 +187,7 @@ beschliesst:
 
 **Legislaturplan**
 
-<sup>1</sup> Der Legislaturplan umschreibt die politischen Schwerpunkte der Amtsperiode. Er gibt insbesondere Auskunft darüber, welche politischen Ziele mit welchen Verwaltungsleistungen und Ressourcen innerhalb welcher Frist erreicht werden sollen. Er enthält eine Prioritätenordnung für die geplanten Massnahmen und die Planung der Gesetzgebung.
+<sup>1</sup> Der Legislaturplan umschreibt die politischen Schwerpunkte der Amtsperiode. Er gibt insbesondere Auskunft darüber, welche politischen Ziele mit welchen Massnahmen und in welchem Zeitrahmen erreicht werden sollen.
 
 <sup>2</sup> Der Regierungsrat erstellt den Legislaturplan und legt ihn dem Kantonsrat bis Ende Oktober des Wahljahres zur Kenntnisnahme vor.
 
