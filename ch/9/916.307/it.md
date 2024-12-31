@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente la produzione e l'immissione s
 short: OsAlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2011-772-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2011-772-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/it"
 
 (Ordinanza sugli alimenti per animali, OsAlA)
 
-del 26 ottobre 2011 (Stato 1° gennaio 2024)
+del 26 ottobre 2011 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -133,7 +133,8 @@ In riferimento agli animali, si intende per:
 - b.[^3-2] *animale destinato alla produzione di derrate alimentari (animale da red**dito)*: qualsivoglia animale nutrito, allevato o detenuto direttamente o indirettamente per la produzione di derrate alimentari destinate al consumo umano, ivi inclusi animali che non sono destinati al consumo umano ma appartengono a specie normalmente destinate al consumo umano in Europa;
 - c. *animali da pelliccia:* qualsivoglia animale nutrito, allevato o detenuto per la produzione di pellicce, ma non destinato al consumo umano;
 - d. *razione giornaliera:* la quantità totale di alimenti per animali, sulla base di un tasso d’acqua del 12 per cento, necessaria in media al giorno a un animale di una specie, di una categoria d’età e di parametri produttivi determinati, per soddisfare tutti i suoi bisogni nutrizionali;
-- e. *alimentazione degli animali per via orale:* l’introduzione di alimenti per animali nel tratto gastrointestinale attraverso la bocca, con l’obiettivo di soddisfare i requisiti nutrizionali dell’animale o mantenere la produttività di animali sani.
+- e. *alimentazione degli animali per via orale:* l’introduzione di alimenti per animali nel tratto gastrointestinale attraverso la bocca, con l’obiettivo di soddisfare i requisiti nutrizionali dell’animale o mantenere la produttività di animali sani;
+- f.[^3-3] *commercio al dettaglio*: la manipolazione degli alimenti per animali e il loro stoccaggio nel punto di vendita o di consegna all’utilizzatore finale, compresi i terminali di distribuzione, i negozi, i supermercati, i centri di distribuzione e i punti di vendita all’ingrosso.
 
 <sup>5</sup>
 
@@ -144,7 +145,7 @@ In riferimento alle imprese, si intende per:
 - c. *fasi della produzione, della trasformazione e della distribuzione:* tutte le fasi, importazione compresa, dalla produzione primaria di un alimento per animali fino allo stoccaggio, al trasporto, alla vendita o alla consegna dello stesso all’utilizzatore finale;
 - d. *immissione sul mercato:* la detenzione di alimenti per animali ai fini della vendita, comprese l’offerta o altre forme di trasferimento a terzi, a titolo gratuito od oneroso nonché la vendita, la distribuzione o altre forme di trasferimento;
 - e. *rintracciabilità:* la possibilità di ricostruire e seguire il percorso di un alimento per animali, di un animale da reddito o di una sostanza destinata o atta a entrare a far parte di un alimento per animali attraverso tutte le fasi della produzione, della trasformazione e della distribuzione;
-- f. *commercio al dettaglio:* la manipolazione, il trattamento o la trasformazione degli alimenti per animali e il loro stoccaggio nel punto di vendita o di consegna all’utilizzatore finale, compresi i terminali di distribuzione, i negozi, i supermercati, i centri di distribuzione e i punti di vendita all’ingrosso.
+- f.[^3-4] *commercio al dettaglio*: la manipolazione degli alimenti per animali e il loro stoccaggio nel punto di vendita o di consegna all’utilizzatore finale, compresi i terminali di distribuzione, i negozi, i supermercati, i centri di distribuzione e i punti di vendita all’ingrosso.
 
 <sup>6</sup>
 
@@ -165,11 +166,13 @@ Per il resto si intende per:
 - c. *soglia d’intervento:* il tenore di una sostanza indesiderabile superato il quale devono essere effettuate indagini volte a identificarne le fonti e si devono adottare misure atte a ridurre o eliminare tali fonti;
 - d. *prodotto a partire da organismi geneticamente modificati (OGM):* derivato, in tutto o in parte, da OGM, ma non contenente o costituito da OGM;
 - e. *mezzo di comunicazione a distanza:* qualsivoglia mezzo di comunicazione, come cataloghi, Internet, posta elettronica, che può essere impiegato per la conclusione di un contratto tra un fornitore e un utilizzatore senza la presenza fisica e simultanea delle parti;
-- f.[^3-3] *produzione di oli e grassi miscelati:* miscelazione di oli greggi, oli raffinati, grassi animali, oli recuperati dell’industria alimentare o prodotti da essi derivati; se in un contenitore sono stoccate successivamente partite identiche, ciò non è equiparato a una produzione di oli e grassi miscelati.
+- f.[^3-5] *produzione di oli e grassi miscelati:* miscelazione di oli greggi, oli raffinati, grassi animali, oli recuperati dell’industria alimentare o prodotti da essi derivati; se in un contenitore sono stoccate successivamente partite identiche, ciò non è equiparato a una produzione di oli e grassi miscelati.
 
-[^3-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
-[^3-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
-[^3-3]: Introdotta dal n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^3-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
+[^3-3]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
+[^3-5]: Introdotta dalla cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 
 #### Art. 4
 
@@ -214,7 +217,7 @@ Se un alimento per animali non soddisfa i requisiti relativi all’immissione su
 <sup>2</sup> Il presente capitolo si applica fatta salva l’ordinanza del 25 maggio 2011[^6-1] concernente i sottoprodotti di origine animale.[^6-2]
 
 [^6-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^6-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 ### Sezione 2: Esigenze generali
 
@@ -265,14 +268,16 @@ Chiunque importa o immette sul mercato una materia prima o una materia prima con
 
 <sup>2</sup> Il DEFR stabilisce quali materie prime non devono essere notificate. A tal fine si basa sul diritto dell’Unione europea.[^9-2]
 
-<sup>3</sup> L’UFAG pubblica un elenco delle notifiche pervenute.
+<sup>3</sup> L’UFAG valuta le notifiche effettuate secondo il capoverso 1 e le pubblica in un elenco che tiene aggiornato[^9-3]. Può valutare nuovamente in qualsiasi momento le notifiche effettuate.[^9-4]
 
 <sup>4</sup> Per una materia prima o una materia prima contenuta in un alimento composto o in un alimento dietetico per animali, la denominazione di una materia prima riportata nel catalogo può essere utilizzata soltanto se corrisponde esattamente alle indicazioni nel catalogo.
 
 <sup>5</sup> Una materia prima riportata nel catalogo delle materie prime, che tuttavia è considerata un medicamento secondo la legislazione svizzera sui medicamenti, non può essere importata o utilizzata come materia prima. L’UFAG può prevedere deroghe.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^9-3]: L’elenco può essere consultato gratuitamente sul sito di Agroscope all’indirizzo www.agroscope.admin.ch &gt; Temi &gt; Animali da reddito &gt; Alimenti per animali &gt; Controllo degli alimenti per animali &gt; Basi legali &gt; Materie prime notificate.
+[^9-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
 
 #### Art. 10
 
@@ -412,10 +417,13 @@ Il presente capitolo non si applica:
 
 <sup>2</sup> Le miscele di additivi per alimenti per animali possono essere vendute all’utilizzatore finale se sono rispettate le condizioni d’uso stabilite nell’autorizzazione per ogni singolo additivo per alimenti per animali.
 
+<sup>2bis</sup> Gli additivi e le premiscele di cui all’articolo 48 capoverso 1 devono essere ceduti soltanto a imprese del settore dell’alimentazione animale o ad aziende attive nella produzione primaria autorizzate a utilizzarli.[^19-3]
+
 <sup>3</sup> Il DEFR stabilisce le condizioni generali per l’uso di additivi per alimenti per animali e premiscele.
 
 [^19-1]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 [^19-2]: Introdotto dall’all. n. 9 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^19-3]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
 
 #### Art. 20
 
@@ -437,7 +445,7 @@ Se le condizioni secondo l’articolo 148*a* LAgr sono adempiute, il DEFR può:
 
 <sup>5</sup> Mediante decisione generale l’UFAG può autorizzare provvisoriamente, per un periodo massimo di un anno, l’immissione sul mercato e l’uso degli additivi di cui all’articolo 25 capoverso 1 lettere a–c che non figurano nell’elenco degli additivi stilato dal DEFR conformemente al capoverso 1, purché siano autorizzati all’interno dell’UE e siano adempiute le esigenze di cui all’articolo 28.[^20-1]
 
-[^20-1]: Introdotto dal n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
+[^20-1]: Introdotto dalla cifra I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
 
 #### Art. 21
 
@@ -457,7 +465,7 @@ Se le condizioni secondo l’articolo 148*a* LAgr sono adempiute, il DEFR può:
 
 <sup>2</sup> Ai fini dell’autorizzazione, l’UFAG tiene conto delle decisioni dell’UE. Può limitare la durata dell’autorizzazione. A tal fine tiene conto della durata dell’autorizzazione nell’UE.
 
-<sup>3</sup> L’autorizzazione è personale e non trasferibile.
+<sup>3</sup> Soltanto il titolare dell’autorizzazione, i suoi successori legittimi o una persona da esso incaricata per scritto può immettere per la prima volta il prodotto sul mercato.[^22-1]
 
 <sup>4</sup> Gli additivi per alimenti per animali importati o immessi sul mercato con un’autorizzazione non necessitano di un’altra autorizzazione ai successivi livelli del commercio.
 
@@ -465,10 +473,11 @@ Se le condizioni secondo l’articolo 148*a* LAgr sono adempiute, il DEFR può:
 
 <sup>6</sup> Può negare, revocare o vincolare a oneri e condizioni l’autorizzazione per un additivo per alimenti per animali se sono adempiute le condizioni secondo l’articolo 148*a* LAgr.
 
-<sup>7</sup> Pubblica l’elenco degli additivi autorizzati per alimenti per animali[^22-1].[^22-2]
+<sup>7</sup> Pubblica l’elenco degli additivi autorizzati per alimenti per animali[^22-2].[^22-3]
 
-[^22-1]: L’elenco degli additivi autorizzati per alimenti per animali può essere consultato gratuitamente sul sito di Agroscope all’indirizzo www.agroscope.admin.ch &gt; Temi &gt; Animali da reddito &gt; Alimenti per animali &gt; Controllo degli alimenti per animali &gt; Basi legali &gt; Allegato 2 &gt; Elenchi 2.4a–2.4e ed Elenco 2.5.
-[^22-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
+[^22-2]: L’elenco degli additivi autorizzati per alimenti per animali può essere consultato gratuitamente sul sito di Agroscope all’indirizzo www.agroscope.admin.ch &gt; Temi &gt; Animali da reddito &gt; Alimenti per animali &gt; Controllo degli alimenti per animali &gt; Basi legali &gt; Allegato 2 &gt; Elenchi 2.4a–2.4e ed Elenco 2.5.
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 23
 
@@ -478,7 +487,7 @@ Se le condizioni secondo l’articolo 148*a* LAgr sono adempiute, il DEFR può:
 
 <sup>2</sup> L’UFAG può autorizzare caso per caso l’importazione, l’immissione sul mercato e l’uso di quantità limitate di alimenti composti per animali da compagnia contenenti additivi di cui all’articolo 25 capoverso 1 lettere a–e non omologati in Svizzera, ma autorizzati all’interno dell’UE.[^23-1]
 
-[^23-1]: Introdotto dal n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
+[^23-1]: Introdotto dalla cifra I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
 
 #### Art. 24
 
@@ -506,7 +515,7 @@ L’additivo per alimenti per animali deve:
 - f. influenzare positivamente la produzione animale, i parametri produttivi o il benessere degli animali agendo, in particolare, sulla flora gastrointestinale o sulla digeribilità degli alimenti per animali; o
 - g. avere un effetto coccidiostatico o istomonostatico.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
 
 #### Art. 25
 
@@ -532,11 +541,14 @@ Gli additivi per alimenti per animali appartengono, a seconda delle loro funzion
 
 <sup>1</sup> Le richieste e le domande devono essere presentate all’UFAG.
 
-<sup>2</sup> Le richieste di iscrizione di un additivo per alimenti per animali nell’elenco di cui all’articolo 20 possono essere presentate da persone o ditte con domicilio o sede sociale o filiale in Svizzera.
+<sup>2</sup> Le richieste di iscrizione di un additivo per alimenti per animali nell’elenco di cui all’articolo 20 possono essere presentate da persone con domicilio in Svizzera e da ditte con sede sociale o filiale o rappresentante in Svizzera.[^26-1]
 
-<sup>3</sup> Le domande di autorizzazione secondo l’articolo 22 possono essere inoltrate da persone o ditte con domicilio, sede sociale o filiale in Svizzera, a meno che sia stato convenuto, tramite accordo, di non applicare questo requisito.
+<sup>3</sup> Le domande di autorizzazione secondo l’articolo 22 possono essere inoltrate da persone con domicilio in Svizzera e da ditte con sede sociale o filiale o rappresentante in Svizzera, a meno che sia stato convenuto, tramite accordo con il Paese del domicilio o della sede sociale, di non applicare questo requisito.[^26-2]
 
 <sup>4</sup> Se la richiesta o la domanda non soddisfa i requisiti, l’UFAG impartisce un termine per completarla. Se le indicazioni richieste non sono fornite entro detto termine, non si entra nel merito della richiesta o della domanda.
+
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
+[^26-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
 
 #### Art. 27
 
@@ -591,8 +603,8 @@ All’UFAG devono essere trasmessi i dati e i documenti seguenti:
 
 <sup>6</sup> ...[^30-2]
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
-[^30-2]: Abrogato dal n. I dell’O del 31 ott. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^30-2]: Abrogato dalla cifra I dell’O del 31 ott. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
 
 #### Art. 31
 
@@ -647,7 +659,7 @@ Gli additivi per alimenti per animali e le premiscele di additivi per alimenti p
 <sup>6</sup> Il DEFR disciplina le prescrizioni particolari in materia di etichettatura per le premiscele e per determinati additivi per alimenti per animali.
 
 [^32-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^32-2]: Introdotto dal n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
+[^32-2]: Introdotto dalla cifra I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
 
 ### Sezione 4: Riservatezza del segreto industriale
 
@@ -760,18 +772,21 @@ Le imprese del settore dell’alimentazione animale assicurano che tutte le fasi
 
 <sup>6</sup> Può emanare disposizioni sulla produzione di alimenti per animali in un’azienda attiva nella produzione primaria per il proprio fabbisogno.[^42-2]
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
-[^42-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^42-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 43
 
-**Obbligo di tenere un registro sugli alimenti per animali da reddito**
+**Obbligo di tenere un registro[^43-1]**
 
-<sup>1</sup> Chiunque produce, importa o immette sul mercato alimenti per animali da reddito deve tenere un registro dove sono riportate le indicazioni pertinenti per la rintracciabilità degli alimenti per animali.
+<sup>1</sup> Chiunque produce, importa o immette sul mercato alimenti per animali deve tenere un registro dove sono riportate le indicazioni pertinenti per la rintracciabilità degli alimenti per animali.[^43-2]
 
 <sup>2</sup> Il DEFR può stabilire i requisiti relativi al registro.
 
 <sup>3</sup> Le registrazioni secondo il capoverso 1 devono essere conservate per almeno tre anni e, su richiesta, presentate all’UFAG.
+
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
+[^43-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
 
 #### Art. 44
 
@@ -797,7 +812,7 @@ Le procedure secondo il capoverso 1 si basano sui principi seguenti:
 
 <sup>5</sup> L’UFAG può, nel caso concreto, concedere agevolazioni.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 45
 
@@ -830,7 +845,7 @@ Per l’esercizio della loro attività tutte le imprese del settore dell’alime
 <sup>2</sup> Per le aziende attive nella produzione primaria di alimenti per animali l’obbligo di registrazione e la procedura di notifica sono disciplinati dalle disposizioni dell’articolo 3 dell’ordinanza del 23 novembre 2005[^46-1] concernente la produzione primaria.[^46-2]
 
 [^46-1]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^46-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 47
 
@@ -840,12 +855,13 @@ Per l’esercizio della loro attività tutte le imprese del settore dell’alime
 
 Le imprese del settore dell’alimentazione animale devono:
 
-- a. notificare all’UFAG gli stabilimenti che sottostanno al loro controllo e sono attivi in una delle fasi di produzione, trasformazione, stoccaggio, trasporto o distribuzione di alimenti per animali, nella forma richiesta ai fini della registrazione o dell’omologazione;
+- a.[^47-1] notificare all’UFAG gli stabilimenti che sottostanno al loro controllo e sono attivi in una o più fasi della produzione, della trasformazione e della distribuzione di alimenti per animali, nella forma richiesta ai fini della registrazione o dell’omologazione;
 - b. fornire all’UFAG informazioni aggiornate su tutti gli stabilimenti che sottostanno al loro controllo secondo la lettera a e notificare, in particolare, cambiamenti significativi nelle attività e la chiusura di stabilimenti.
 
-<sup>2</sup> Le aziende attive nella produzione primaria che producono alimenti per animali utilizzando additivi per alimenti per animali, fatta eccezione per gli additivi per l’insilamento, o premiscele che li contengono devono notificare tale attività all’UFAG ai fini della registrazione o dell’omologazione.[^47-1]
+<sup>2</sup> Le aziende attive nella produzione primaria che producono alimenti per animali utilizzando additivi per alimenti per animali, fatta eccezione per gli additivi per l’insilamento, o premiscele che li contengono devono notificare tale attività all’UFAG ai fini della registrazione o dell’omologazione.[^47-2]
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
+[^47-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 47a
 
@@ -855,12 +871,15 @@ Le imprese del settore dell’alimentazione animale devono:
 
 <sup>2</sup> I gestori e le altre persone che forniscono foraggio concentrato, comunicano la fornitura con la relativa quantità e i quantitativi di sostanze nutritive in essa contenuti.
 
-<sup>3</sup> Non devono essere comunicate le quantità fino al massimo 105 chilogrammi di azoto e 15 chilogrammi di fosforo per anno civile, a condizione che il gestore non sia tenuto a fornire la prova che le esigenze ecologiche sono rispettate in virtù dell’articolo 11 dell’ordinanza del 23 ottobre 2013[^47a-4] sui pagamenti diretti.
+<sup>2bis</sup> Se il foraggio concentrato è importato direttamente, l’obbligo di comunicare ricade sull’importatore.[^47a-4]
+
+<sup>3</sup> Non devono essere comunicate le quantità fino al massimo 105 chilogrammi di azoto e 15 chilogrammi di fosforo per anno civile, a condizione che il gestore non sia tenuto a fornire la prova che le esigenze ecologiche sono rispettate in virtù dell’articolo 11 dell’ordinanza del 23 ottobre 2013[^47a-5] sui pagamenti diretti.
 
 [^47a-1]: Introdotto dall’all. n. 3 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 [^47a-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^47a-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^47a-4]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^47a-4]: Introdotto dall’all n. 3 dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^47a-5]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 48
 
@@ -891,7 +910,7 @@ Necessita di un’omologazione da parte dell’UFAG chiunque produce o immette s
 
 <sup>2</sup>
 
-Necessita di un’omologazione da parte dell’UFAG chiunque produce ai fini dell’immissione sul mercato o ad uso esclusivo della propria azienda agricola alimenti composti o alimenti dietetici per animali utilizzando additivi per alimenti per animali o premiscele contenenti i seguenti additivi per alimenti per animali:
+Necessita di un’omologazione da parte dell’UFAG chiunque produce ai fini dell’immissione sul mercato o ad uso esclusivo della propria azienda alimenti composti o alimenti dietetici per animali utilizzando additivi per alimenti per animali o premiscele contenenti i seguenti additivi per alimenti per animali:[^48-2]
 
 - a. coccidiostatici e istomonostatici;
 - b. altri additivi zootecnici.
@@ -903,12 +922,13 @@ Chiunque svolge una delle seguenti attività utilizzando oli e grassi destinati 
 - a. la trasformazione di oli vegetali greggi se tale trasformazione non avviene in uno stabilimento che rientra nel campo di applicazione della legislazione sulle derrate alimentari;
 - b. il trattamento oleochimico di acidi grassi;
 - c. la produzione di biodiesel;
-- d. la produzione di oli e grassi miscelati.[^48-2]
+- d. la produzione di oli e grassi miscelati.[^48-3]
 
 <sup>3</sup> L’UFAG rilascia l’omologazione agli stabilimenti che, a seguito di un’ispezione in loco, si sono rivelati conformi alle esigenze della presente ordinanza.
 
-[^48-1]: Introdotto dal n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
-[^48-2]: Introdotto dal n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^48-1]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641))
+[^48-3]: Introdotto dalla cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 
 #### Art. 49
 
@@ -1048,7 +1068,7 @@ Le materie prime e gli additivi per alimenti per animali di cui all’articolo 6
 
 <sup>2</sup> Gli alimenti geneticamente modificati per animali possono essere immessi sul mercato, utilizzati o trasformati soltanto se autorizzati secondo l’articolo 62.
 
-3 Gli additivi ottenuti da sostanze geneticamente modificate, figuranti nell’elenco degli alimenti OGM per animali di cui all’articolo 62 capoverso 1, possono essere immessi sul mercato, utilizzati o trasformati se autorizzati secondo gli articoli 20–22.
+<sup>3</sup> Gli additivi ottenuti da sostanze geneticamente modificate, figuranti nell’elenco degli alimenti OGM per animali di cui all’articolo 62 capoverso 1, possono essere immessi sul mercato, utilizzati o trasformati se autorizzati secondo gli articoli 20–22.
 
 <sup>4</sup> Per l’immissione sul mercato di alimenti geneticamente modificati per animali il cui sviluppo si basa sull’utilizzazione di risorse genetiche o sulle conoscenze tradizionali a esse associate, sono fatte salve le disposizioni dell’ordinanza di Nagoya dell’11 dicembre 2015[^61-1].[^61-2]
 
@@ -1080,8 +1100,8 @@ Le materie prime e gli additivi per alimenti geneticamente modificati per animal
 <sup>5</sup> L’UFAG può, in seguito all’autorizzazione, richiedere dati supplementari e limitare o revocare in qualsiasi momento l’autorizzazione se vi è il sospetto o la prova dell’esistenza di sostanziali effetti collaterali nocivi o pericoli per l’uomo, gli animali o l’ambiente.
 
 [^62-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^62-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
-[^62-3]: Nuovo testo giusta il n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^62-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^62-3]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 
 #### Art. 63
 
@@ -1095,7 +1115,7 @@ Le materie prime e gli additivi per alimenti geneticamente modificati per animal
 
 <sup>4</sup> Per gli additivi devono essere presentati anche i documenti di cui all’articolo 27.
 
-[^63-1]: [[RU 2005 6353](https://fedlex.data.admin.ch/eli/oc/2005/808), [2006 4987](https://fedlex.data.admin.ch/eli/oc/2006/776), [2007 2935](https://fedlex.data.admin.ch/eli/oc/2007/390), [2008 1057](https://fedlex.data.admin.ch/eli/oc/2008/206), [2013 4139](https://fedlex.data.admin.ch/eli/oc/2013/762)n. I 1, [2016 3685](https://fedlex.data.admin.ch/eli/oc/2016/618). [RU 2020 2415](https://fedlex.data.admin.ch/eli/oc/2020/456)art. 13]. Vedi ora l’O del 27 mag. 2020 ([RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)).
+[^63-1]: [[RU 2005 6353](https://fedlex.data.admin.ch/eli/oc/2005/808); [2006 4987](https://fedlex.data.admin.ch/eli/oc/2006/776); [2007 2935](https://fedlex.data.admin.ch/eli/oc/2007/390); [2008 1057](https://fedlex.data.admin.ch/eli/oc/2008/206); [2013 4139](https://fedlex.data.admin.ch/eli/oc/2013/762)cifra I n. 1; [2016 3685](https://fedlex.data.admin.ch/eli/oc/2016/618). [RU 2020 2415](https://fedlex.data.admin.ch/eli/oc/2020/456)art. 13]. Vedi ora l’O del 27 mag. 2020 ([RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)).
 [^63-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
 #### Art. 64
@@ -1148,7 +1168,7 @@ Oltre ai requisiti generali di etichettatura degli alimenti per animali, per que
 
 <sup>2</sup> I presenti requisiti di etichettatura non si applicano agli alimenti per animali il cui tenore in OGM dell’alimento per animali e di ognuna delle sue materie prime non supera lo 0,9 per cento, purché tale presenza sia accidentale o tecnicamente inevitabile.[^66-1]
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
 
 #### Art. 67
 
@@ -1180,8 +1200,8 @@ Se una partita di materia prima importata contiene tracce accidentali di OGM non
 
 <sup>3</sup> L’UFAG stabilisce le tolleranze ammesse per le tracce di organismi geneticamente modificati la cui autorizzazione in Svizzera è stata stralciata.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
-[^68-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
+[^68-2]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
 [^68-3]: Regolamento (CE) n. 1829/2003 del Parlamento europeo e del Consiglio del 22 set. 2003 relativo agli alimenti e ai mangimi geneticamente modificati, GU L 268 del 18.10.2003, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1381 del 20 giugno 2019, GU L 231 del 6.9.2019, pag. 1.
 [^68-4]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
@@ -1201,7 +1221,7 @@ Se una partita di materia prima importata contiene tracce accidentali di OGM non
 
 <sup>5</sup> Se la sicurezza delle derrate alimentari o degli alimenti per animali lo richiede, può decidere quali analisi le aziende devono effettuare.[^69-1]
 
-[^69-1]: Introdotto dal n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^69-1]: Introdotto dalla cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 
 #### Art. 70
 
@@ -1224,8 +1244,8 @@ Se una partita di materia prima importata contiene tracce accidentali di OGM non
 <sup>8</sup> Per qualsiasi emergenza relativa alla salute dell’uomo o degli animali o alla protezione dell’ambiente e fatte salve le disposizioni concernenti la proprietà intellettuale, l’UFAG può fornire all’acquirente le informazioni di cui dispone in virtù del capoverso 1 qualora, dopo aver ponderato i rispettivi legittimi interessi dei produttori e degli acquirenti, giunga alla conclusione che la trasmissione di tali informazioni è giustificata. Se del caso, l’UFAG fornisce tali informazioni previa sottoscrizione di una clausola di riservatezza da parte dell’acquirente.
 
 [^70-1]: [RS 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
-[^70-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5569](https://fedlex.data.admin.ch/eli/oc/2020/963)).
-[^70-3]: Abrogato dal n. I dell’O del 31 ott. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^70-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5569](https://fedlex.data.admin.ch/eli/oc/2020/963)).
+[^70-3]: Abrogato dalla cifra I dell’O del 31 ott. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
 
 #### Art. 71
 
@@ -1250,7 +1270,7 @@ L’UFAG provvede in particolare affinché:
 <sup>3</sup> L’UFAG esegue audit interni o fa eseguire audit esterni e prende le misure adeguate alla luce dei rispettivi risultati per garantire il raggiungimento degli obiettivi fissati dalla presente ordinanza. Tali audit sono oggetto di un esame indipendente e sono svolti in maniera trasparente.
 
 [^71-1]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio del 15 marzo 2017 relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2019/2127, GU L 321 del 12.12.2019, pag. 111.
-[^71-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5569](https://fedlex.data.admin.ch/eli/oc/2020/963)).
+[^71-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5569](https://fedlex.data.admin.ch/eli/oc/2020/963)).
 [^71-3]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
 [^71-4]: Introdotto dall’all. 3 n. 6 dell’O del 16 dic. 2016 sul piano di controllo nazionale della catena alimentare e degli oggetti d’uso ([RU 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)). Nuovo testo giusta l’all. 4 n. 6 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Produktion und das Inverkehrbr
 short: FMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2011-772-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2011-772-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/de"
 
 (Futtermittel-Verordnung, FMV)
 
-vom 26. Oktober 2011 (Stand am 1. Januar 2024)
+vom 26. Oktober 2011 (Stand am 1. Januar 2025)
 
 gestützt auf die Artikel 27*a* Absatz 2, 148*a* Absatz 3, 158 Absatz 2, 159*a*, 160 Absätze 1–5, 161, 164, 164*a* Absatz 2, 177 und 181 Absatz 1<sup>bis</sup> des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG), auf Artikel 29 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2] (USG), auf die Artikel 16 Absatz 2 und 17 des Gentechnikgesetzes vom 21. März 2003[^ingress-3] (GTG) und auf Artikel 9 Absatz 2 Buchstabe c des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-4] (GSchG), sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-5] über die technischen Handelshemmnisse (THG),[^ingress-6]
 
@@ -131,7 +131,8 @@ In Bezug auf Tiere bedeuten:
 - b.[^3-2] *der Lebensmittelgewinnung dienendes Tier (Nutztier):* jedes Tier, das direkt oder indirekt zur Gewinnung von Lebensmitteln zum menschlichen Verzehr gefüttert, gezüchtet oder gehalten wird, einschliesslich solcher Tiere, die nicht zum menschlichen Verzehr verwendet werden, jedoch zu Arten zählen, die normalerweise zum menschlichen Verzehr in Europa verwendet werden;
 - c. *Pelztier:* ein Tier, das zur Gewinnung von Pelz gefüttert, gezüchtet oder gehalten, jedoch nicht zum menschlichen Verzehr verwendet wird;
 - d. *Tagesration:* Gesamtmenge der Futtermittel, die ein Tier einer bestimmten Art, Altersklasse und Leistung im Durchschnitt pro Tag benötigt, um seinen gesamten Nährstoffbedarf zu decken, bezogen auf einen Feuchtigkeitsgehalt von 12 Prozent;
-- e. *orale Tierfütterung:* die Aufnahme von Futtermitteln in den tierischen Verdauungstrakt durch das Maul beziehungsweise den Schnabel, um den Nahrungsbedarf der Tiere zu decken oder die Produktivität von normal gesunden Tieren aufrechtzuerhalten.
+- e. *orale Tierfütterung:* die Aufnahme von Futtermitteln in den tierischen Verdauungstrakt durch das Maul beziehungsweise den Schnabel, um den Nahrungsbedarf der Tiere zu decken oder die Produktivität von normal gesunden Tieren aufrechtzuerhalten;
+- f.[^3-3] *Nebentierarten:* andere der Lebensmittelgewinnung dienende Tiere als Rinder (Milch- und Schlachtvieh, einschliesslich Kälber), Schafe (Schlachtvieh), Schweine, Hühner, Legehennen, Truthühner und zu den *Salmonidae* gehörende Fische.
 
 <sup>5</sup>
 
@@ -142,7 +143,7 @@ In Bezug auf Unternehmen bedeuten:
 - c. *Produktions-, Verarbeitungs- und Vertriebsstufen:* alle Stufen, einschliesslich der Einfuhr, von der Primärproduktion eines Futtermittels bis zu dessen Lagerung, Beförderung, Verkauf und Abgabe an die Endverwenderin oder den Endverwender;
 - d. *Inverkehrbringen:* das Bereithalten von Futtermitteln für Verkaufszwecke einschliesslich des Anbietens zum Verkauf oder jeder anderen Form der Weitergabe, gleichgültig, ob unentgeltlich oder nicht, sowie den Verkauf, den Vertrieb oder andere Formen der Weitergabe;
 - e. *Rückverfolgbarkeit:* die Möglichkeit, ein Futtermittel, ein Nutztier oder einen Stoff, der dazu bestimmt ist oder von dem erwartet werden kann, dass er in einem Futtermittel verarbeitet wird, durch alle Produktions-, Verarbeitungs- und Vertriebsstufen zu verfolgen;
-- f. *Einzelhandel:* die Handhabung, Bearbeitung- oder Verarbeitung von Futtermitteln und ihre Lagerung am Ort des Verkaufs oder der Abgabe an die Endverwenderin oder den Endverwender; hierzu gehören Verladestellen, Läden, Supermarkt-Vertriebszentren und Grosshandelsverkaufsstellen.
+- f.[^3-4] *Einzelhandel*: die Handhabung von Futtermitteln und ihre Lagerung am Ort des Verkaufs oder der Abgabe an die Endverwenderin oder den Endverwender; hierzu gehören Verladestellen, Läden, Supermarkt-Vertriebszentren und Grosshandelsverkaufsstellen.
 
 <sup>6</sup>
 
@@ -163,11 +164,13 @@ Im Übrigen bedeuten:
 - c. *Aktionsgrenzwert:* Grenzwert für den Gehalt an einem unerwünschten Stoff, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des unerwünschten Stoffs mit dem Ziel zu ermitteln, Massnahmen zu seiner Verringerung oder Beseitigung einzuleiten;
 - d. *aus gentechnisch veränderten Organismen (GVO) hergestellt:* vollständig oder teilweise aus GVO abgeleitet, aber weder GVO enthaltend noch daraus bestehend;
 - e. *Fernkommunikationsmittel:* jedes Kommunikationsmittel wie Katalog, Internet, elektronische Post, das zum Abschluss eines Vertrags zwischen einer Verwenderin oder einem Verwender und einer Lieferantin oder einem Lieferanten ohne gleichzeitige körperliche Anwesenheit der Vertragsparteien eingesetzt werden kann;
-- f.[^3-3] *Herstellung von Mischölen oder Mischfetten:* Mischen von Rohölen, raffinierten Ölen, tierischen Fetten, aus der Lebensmittelindustrie zurückgewonnenen Ölen oder daraus gewonnenen Erzeugnissen; werden in einen Behälter zur Lagerung ausschliesslich gleiche Partien nachgefüllt, so gilt das nicht als Herstellung von Mischöl und Mischfett.
+- f.[^3-5] *Herstellung von Mischölen oder Mischfetten:* Mischen von Rohölen, raffinierten Ölen, tierischen Fetten, aus der Lebensmittelindustrie zurückgewonnenen Ölen oder daraus gewonnenen Erzeugnissen; werden in einen Behälter zur Lagerung ausschliesslich gleiche Partien nachgefüllt, so gilt das nicht als Herstellung von Mischöl und Mischfett.
 
 [^3-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
 [^3-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
-[^3-3]: Eingefügt durch Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^3-5]: Eingefügt durch Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 
 #### Art. 4
 
@@ -263,7 +266,7 @@ Wer ein Einzelfuttermittel oder ein in einem Mischfuttermittel oder einem Diätf
 
 <sup>2</sup> Das WBF legt fest, welche Einzelfuttermittel nicht gemeldet werden müssen. Es stützt sich dabei auf das Recht der Europäischen Union.[^9-2]
 
-<sup>3</sup> Das BLW veröffentlicht eine Liste der eingegangenen Meldungen.
+<sup>3</sup> Das BLW prüft die nach Absatz 1 eingegangenen Meldungen und veröffentlicht sie in einer Liste; es aktualisiert die Liste fortlaufend[^9-3]. Es kann die eingegangenen Meldungen jederzeit neu prüfen.[^9-4]
 
 <sup>4</sup> Für ein Einzelfuttermittel oder ein Einzelfuttermittel, das in einem Mischfuttermittel oder einem Diätfuttermittel enthalten ist, darf die Bezeichnung eines im Katalog aufgeführten Einzelfuttermittels nur verwendet werden, wenn es genau den Angaben im Katalog entspricht.
 
@@ -271,6 +274,8 @@ Wer ein Einzelfuttermittel oder ein in einem Mischfuttermittel oder einem Diätf
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^9-3]: Die Liste kann auf der Website von Agroscope kostenlos abgerufen werden unter: [www.agroscope.admin.ch](https://www.agroscope.admin.ch/agroscope/de/home.html) &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen &gt; Angemeldete Einzelfuttermittel.
+[^9-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 #### Art. 10
 
@@ -410,10 +415,13 @@ Dieses Kapitel gilt nicht für:
 
 <sup>2</sup> Mischungen von Futtermittelzusatzstoffen dürfen an die Endverwenderin verkauft werden, wenn die in der Zulassung für jeden einzelnen Futtermittelzusatzstoff festgelegten Verwendungsbedingungen eingehalten werden.
 
+<sup>2bis</sup> Futtermittelzusatzstoffe und Vormischungen nach Artikel 48 Absatz 1 dürfen nur an Futtermittelunternehmen oder Betriebe der Primärproduktion abgegeben werden, die zu deren Verwendung befugt sind.[^19-3]
+
 <sup>3</sup> Das WBF legt die allgemeinen Voraussetzungen für die Verwendung von Futtermittelzusatzstoffen und Vormischungen fest.
 
 [^19-1]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 [^19-2]: Eingefügt durch Anhang Ziff. 9 der Nagoya-Verordnung vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^19-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 #### Art. 20
 
@@ -455,7 +463,7 @@ Sind die Voraussetzungen nach Artikel 148*a* LwG erfüllt, so kann das WBF:
 
 <sup>2</sup> Das BLW berücksichtigt bei der Bewilligung die Entscheide der EU. Es kann die Bewilligungsdauer begrenzen. Es berücksichtigt dabei die Bewilligungsdauer in der EU.
 
-<sup>3</sup> Die Bewilligung ist persönlich und nicht übertragbar.
+<sup>3</sup> Das erstmalige Inverkehrbringen des Erzeugnisses darf nur durch die Bewilligungsinhaberin, ihre Rechtsnachfolgerinnen und Rechtsnachfolger oder eine schriftlich von ihr dazu ermächtigte Person erfolgen.[^22-1]
 
 <sup>4</sup> Futtermittelzusatzstoffe, die mit einer Bewilligung eingeführt oder in Verkehr gebracht worden sind, benötigen auf den nachfolgenden Handelsstufen keine Bewilligung.
 
@@ -463,10 +471,11 @@ Sind die Voraussetzungen nach Artikel 148*a* LwG erfüllt, so kann das WBF:
 
 <sup>6</sup> Es kann die Bewilligung eines Futtermittelzusatzstoffes ablehnen, widerrufen oder mit Bedingungen oder Auflagen versehen, wenn die Voraussetzungen nach Artikel 148*a* LwG erfüllt sind.
 
-<sup>7</sup> Es veröffentlicht die bewilligten Futtermittelzusatzstoffe[^22-1].[^22-2]
+<sup>7</sup> Es veröffentlicht die bewilligten Futtermittelzusatzstoffe[^22-2].[^22-3]
 
-[^22-1]: Die Liste der bewilligten Futtermittelzusatzstoffe kann bei Agroscope kostenlos abgerufen werden unter www.agroscope.admin.ch &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen &gt; Anhang 2 &gt; Liste 2.4a–2.4e und Liste 2.5.
-[^22-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^22-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^22-2]: Die Liste der bewilligten Futtermittelzusatzstoffe kann bei Agroscope kostenlos abgerufen werden unter: [www.agroscope.admin.ch](http://www.agroscope.admin.ch) &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen &gt; Anhang 2 &gt; Liste 2.4a–2.4e und Liste 2.5.
+[^22-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 23
 
@@ -528,11 +537,14 @@ Futtermittelzusatzstoffe gehören je nach Funktionsweise und Eigenschaften einer
 
 <sup>1</sup> Begehren und Gesuche sind an das BLW zu richten.
 
-<sup>2</sup> Begehren um Aufnahme eines Futtermittelzusatzstoffs in die Liste nach Artikel 20 können von Personen oder Firmen mit Wohn- oder Geschäftssitz oder Zweigniederlassung in der Schweiz gestellt werden.
+<sup>2</sup> Begehren um Aufnahme eines Futtermittelzusatzstoffs in die Liste nach Artikel 20 können gestellt werden von Personen mit Wohnsitz in der Schweiz und von Firmen mit Geschäftssitz oder Zweigniederlassung oder einer Vertreterin oder einem Vertreter in der Schweiz.[^26-1]
 
-<sup>3</sup> Gesuche um Bewilligungen nach Artikel 22 können von Personen oder Firmen mit Wohn- oder Geschäftssitz oder Zweigniederlassung in der Schweiz eingereicht werden, es sei denn, dass durch ein Abkommen vereinbart ist, dass diese Anforderung keine Anwendung findet.
+<sup>3</sup> Gesuche um Bewilligungen nach Artikel 22 können eingereicht werden von Personen mit Wohnsitz in der Schweiz und von Firmen mit Geschäftssitz oder Zweigniederlassung oder einer Vertreterin oder einem Vertreter in der Schweiz, es sei denn, dass durch ein Abkommen mit dem Land des Wohn- oder Geschäftssitzes vereinbart ist, dass diese Anforderung keine Anwendung findet.[^26-2]
 
 <sup>4</sup> Genügt das Begehren oder das Gesuch den Anforderungen nicht, so räumt das BLW eine Frist zur Ergänzung ein. Werden die erforderlichen Angaben nicht innerhalb dieser Frist geliefert, so wird auf das Begehren oder das Gesuch nicht eingetreten.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^26-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 #### Art. 27
 
@@ -761,13 +773,16 @@ Die Futtermittelunternehmen stellen sicher, dass auf allen ihrer Kontrolle unter
 
 #### Art. 43
 
-**Aufzeichnungspflicht für Nutztierfuttermittel**
+**Aufzeichnungspflicht[^43-1]**
 
-<sup>1</sup> Wer Futtermittel für Nutztiere produziert, einführt oder in Verkehr bringt, muss die für die Rückverfolgbarkeit der Futtermittel relevanten Angaben aufzeichnen.
+<sup>1</sup> Wer Futtermittel produziert, einführt oder in Verkehr bringt, muss die für die Rückverfolgbarkeit der Futtermittel relevanten Angaben aufzeichnen.[^43-2]
 
 <sup>2</sup> Das WBF kann Anforderungen an die Aufzeichnungen festlegen.
 
 <sup>3</sup> Die Aufzeichnungen nach Absatz 1 sind während mindestens drei Jahren aufzubewahren und dem BLW auf Verlangen abzugeben.
+
+[^43-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^43-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 #### Art. 44
 
@@ -836,12 +851,13 @@ Für die Ausübung ihrer Tätigkeit müssen alle Futtermittelunternehmen:
 
 Die Futtermittelunternehmen:
 
-- a. melden dem BLW alle ihrer Kontrolle unterstehenden Betriebe, die in einer der Herstellungs-, Verarbeitungs-, Lagerungs-, Transport- oder Vertriebsstufen von Futtermitteln tätig sind, in der verlangten Form zwecks Registrierung oder Zulassung;
+- a.[^47-1] melden dem BLW alle ihrer Kontrolle unterstehenden Betriebe, die in einer oder mehreren der Produktions-, Verarbeitungs- und Vertriebsstufen von Futtermitteln tätig sind, in der verlangten Form zwecks Registrierung oder Zulassung;
 - b. stellen dem BLW aktuelle Informationen über alle unter ihrer Kontrolle stehenden Betriebe nach Buchstabe a zur Verfügung und melden insbesondere alle wichtigen Veränderungen bei den Tätigkeiten und Betriebsschliessungen.
 
-<sup>2</sup> Betriebe der Primärproduktion, die Futtermittel unter Verwendung von Futtermittelzusatzstoffen, mit Ausnahme von Silierzusatzstoffen, oder von Vormischungen, die solche enthalten, erzeugen, müssen diese Tätigkeit dem BLW zwecks Registrierung oder Zulassung melden.[^47-1]
+<sup>2</sup> Betriebe der Primärproduktion, die Futtermittel unter Verwendung von Futtermittelzusatzstoffen, mit Ausnahme von Silierzusatzstoffen, oder von Vormischungen, die solche enthalten, erzeugen, müssen diese Tätigkeit dem BLW zwecks Registrierung oder Zulassung melden.[^47-2]
 
-[^47-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^47-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^47-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 47a
 
@@ -851,12 +867,15 @@ Die Futtermittelunternehmen:
 
 <sup>2</sup> Die Bewirtschafterinnen und Bewirtschafter und die anderen Personen, die Kraftfutter weitergeben, teilen die Weitergabe mit Menge und den darin enthaltenen Nährstoffmengen mit.
 
-<sup>3</sup> Nicht mitgeteilt werden müssen Mengen bis höchstens 105 kg Stickstoff und 15 kg Phosphor pro Kalenderjahr, sofern der Bewirtschafter oder die Bewirtschafterin den ökologischen Leistungsnachweis nach Artikel 11 der Direktzahlungsverordnung vom 23. Oktober 2013[^47a-4] nicht erbringen muss.
+<sup>2bis</sup> Werden Kraftfutter direkt eingeführt, so überträgt sich die Mitteilungspflicht auf den Importeur.[^47a-4]
+
+<sup>3</sup> Nicht mitgeteilt werden müssen Mengen bis höchstens 105 kg Stickstoff und 15 kg Phosphor pro Kalenderjahr, sofern der Bewirtschafter oder die Bewirtschafterin den ökologischen Leistungsnachweis nach Artikel 11 der Direktzahlungsverordnung vom 23. Oktober 2013[^47a-5] nicht erbringen muss.
 
 [^47a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 [^47a-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^47a-3]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^47a-4]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^47a-4]: Eingefügt durch Anhang Ziff. 3 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^47a-5]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 48
 
@@ -887,7 +906,7 @@ Wer eines der folgenden Futtermittel herstellt oder in Verkehr bringt, muss vom 
 
 <sup>2</sup>
 
-Wer für das Inverkehrbringen oder für den ausschliesslichen Bedarf des eigenen Landwirtschaftsbetriebs Mischfuttermittel oder Diätfuttermittel mit Futtermittelzusatzstoffen oder Vormischungen herstellt, die folgende Futtermittelzusatzstoffe enthalten, muss vom BLW zugelassen sein:
+Wer für das Inverkehrbringen oder für den ausschliesslichen Bedarf des eigenen Betriebs Mischfuttermittel oder Diätfuttermittel mit Futtermittelzusatzstoffen oder Vormischungen herstellt, die folgende Futtermittelzusatzstoffe enthalten, muss vom BLW zugelassen sein:[^48-2]
 
 - a. Kokzidiostatika und Histomonostatika;
 - b. sonstige zootechnische Zusatzstoffe.
@@ -899,12 +918,13 @@ Wer mit Ölen und Fetten, die zur Verwendung in Futtermitteln vorgesehen sind, e
 - a. Verarbeitung roher pflanzlicher Öle, soweit sie nicht in einem Betrieb erfolgt, der in den Geltungsbereich der Lebensmittelgesetzgebung fällt;
 - b. oleochemische Herstellung von Fettsäuren;
 - c. Herstellung von Biodiesel;
-- d. Herstellung von Mischölen oder Mischfetten.[^48-2]
+- d. Herstellung von Mischölen oder Mischfetten.[^48-3]
 
 <sup>3</sup> Das BLW erteilt die Zulassung, wenn sich anlässlich einer vorgängigen Besichtigung vor Ort erwiesen hat, dass die Betriebe die Anforderungen dieser Verordnung erfüllen.
 
 [^48-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
-[^48-2]: Eingefügt durch Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^48-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^48-3]: Eingefügt durch Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 
 #### Art. 49
 
@@ -1294,7 +1314,7 @@ Es sorgt dafür, dass diese Stellen:
 
 <sup>4</sup> Es veranlasst Audits oder Inspektionen dieser Stellen. Ergibt eine Überprüfung oder Inspektion, dass die Stellen die ihnen übertragenen Aufgaben nicht ordnungsgemäss ausführen, so kann die Übertragung rückgängig gemacht werden. Dies geschieht unverzüglich, wenn die Kontrollstelle nicht rechtzeitig angemessene Abhilfemassnahmen trifft.
 
-[^75-1]: Der Text dieser Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^75-1]: Der Text dieser Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 76
 

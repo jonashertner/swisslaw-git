@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur la production et la mise en circulatio
 short: OSALA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-772-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-772-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/fr"
 
 (Ordonnance sur les aliments pour animaux, OSALA)
 
-du 26 octobre 2011 (État le 1<sup>er</sup> janvier 2024)
+du 26 octobre 2011 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -133,7 +133,8 @@ En ce qui concerne les animaux, on entend par:
 - b.[^3-2] *animal producteur de denrées alimentaires (animal de rente)*: un animal qui est nourri, élevé ou détenu, directement ou indirectement, pour la production de denrées alimentaires destinées à la consommation humaine, y compris les animaux qui ne sont pas destinés à la consommation humaine mais appartiennent à des espèces qui peuvent normalement être utilisées pour la consommation humaine en Europe;
 - c. *animal à fourrure:* tout animal qui est nourri, élevé ou détenu pour la production de fourrure et qui n’est pas utilisé pour la consommation humaine;
 - d. *ration journalière:* la quantité totale d’aliments rapportée à une teneur en humidité de 12 %, nécessaire en moyenne par jour à un animal d’une espèce, d’une catégorie d’âge et d’un rendement déterminés pour satisfaire l’ensemble de ses besoins;
-- e. *alimentation des animaux par voie orale:* l’absorption d’aliments dans le tube digestif des animaux par le museau ou le bec, afin de couvrir les besoins alimentaires de l’animal ou de maintenir la productivité d’animaux en bonne santé.
+- e. *alimentation des animaux par voie orale:* l’absorption d’aliments dans le tube digestif des animaux par le museau ou le bec, afin de couvrir les besoins alimentaires de l’animal ou de maintenir la productivité d’animaux en bonne santé;
+- f.[^3-3] *espèces mineures:* les animaux producteurs de denrées alimentaires autres que les bovins (animaux laitiers et animaux de boucherie, y compris les veaux), les ovins (animaux de boucherie), les porcs, les poulets, les poules pondeuses, les dindons et les poissons de la famille des *Salmonidae*.
 
 <sup>5</sup>
 
@@ -144,7 +145,7 @@ En ce qui concerne les entreprises, on entend par:
 - c. *les étapes de la production, de la transformation et de la distribution:* toutes les étapes, dont l’importation, depuis et y compris la production primaire d’un aliment pour animaux, jusque et y compris son entreposage, son transport, sa vente et sa livraison à l’utilisateur;
 - d. *mise en circulation:* la détention d’aliments pour animaux en vue de leur vente, y compris l’offre en vue de la vente ou toute autre forme de cession, à titre gratuit ou onéreux;
 - e. *traçabilité**:* la capacité de retracer, à travers toutes les étapes de la production, de la transformation et de la distribution, le cheminement d’un aliment pour animaux, d’un animal de rente ou d’une substance destinée à être incorporée ou susceptible d’être incorporée dans un aliment pour animaux;
-- f. *vente au détail:* la manipulation, le traitement ou la transformation d’aliments pour animaux et leur entreposage sur le lieu de la vente ou de la livraison à l’utilisateur final; en font partie les stations de chargement, les magasins, les grandes surfaces, les centres de distribution et les points de vente du commerce de gros.
+- f.[^3-4] *vente au détail*: la manipulation d’aliments pour animaux et leur entreposage sur le lieu de la vente ou de la livraison à l’utilisateur final; en font partie les stations de chargement, les magasins, les grandes surfaces, les centres de distribution et les points de vente du commerce de gros.
 
 <sup>6</sup>
 
@@ -165,11 +166,13 @@ Par ailleurs, on entend par:
 - c. *seuil d’intervention:* valeur limite pour la teneur en une substance indésirable, au-delà de laquelle des examens doivent être entrepris pour déterminer les causes de la présence de cette substance, dans le but de prendre des mesures pour sa réduction ou son élimination;
 - d. *produit à partir d’organismes génétiquement modifiés (OGM):* produit, en tout ou en partie, à partir d’OGM, mais ne consistant pas en OGM et n’en contenant pas;
 - e. *moyen de communication à distance:* tout moyen de communication, tels que le catalogue, Internet, le courrier électronique, qui peut être utilisé pour conclure un contrat entre un utilisateur et un livreur sans présence corporelle simultanée des parties contractantes;
-- f.[^3-3] *mélange d’huiles ou de graisses:* le mélange d’huiles brutes, d’huiles raffinées, de graisses animales, d’huiles récupérées auprès de l’industrie alimentaire ou de produits dérivés; si des lots identiques sont entreposés successivement dans un récipient, cela n’est pas assimilé à une fabrication d’un mélange de graisses.
+- f.[^3-5] *mélange d’huiles ou de graisses:* le mélange d’huiles brutes, d’huiles raffinées, de graisses animales, d’huiles récupérées auprès de l’industrie alimentaire ou de produits dérivés; si des lots identiques sont entreposés successivement dans un récipient, cela n’est pas assimilé à une fabrication d’un mélange de graisses.
 
-[^3-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^3-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
-[^3-3]: Introduite par le ch. I de l’O du 15 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^3-3]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^3-5]: Introduite par le ch. I de l’O du 15 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 
 #### Art. 4
 
@@ -265,7 +268,7 @@ Quiconque importe ou met en circulation une matière première, pure ou mélang�
 
 <sup>2</sup> Le DEFR fixe les matières premières qui ne doivent pas être annoncées. Il s’appuie pour ce faire sur le droit de l’Union européenne.[^9-2]
 
-<sup>3</sup> L’OFAG publie une liste des annonces effectuées.
+<sup>3</sup> L’OFAG évalue les annonces effectuées selon l’al. 1 et les publie dans une liste qu’il tient à jour[^9-3]. Il peut réévaluer les annonces effectuées en tout temps.[^9-4]
 
 <sup>4</sup> La dénomination d’une matière première répertoriée dans le catalogue des matières premières, selon les cas contenue dans un aliment composé ou un aliment diététique, ne peut être utilisée que si toutes les dispositions applicables dudit catalogue sont respectées.
 
@@ -273,6 +276,8 @@ Quiconque importe ou met en circulation une matière première, pure ou mélang�
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1737](https://fedlex.data.admin.ch/eli/oc/2013/397)).
+[^9-3]: La liste peut être consultée gratuitement sur le site d’Agroscope à l’adresse suivante: [www.agroscope.admin.ch](https://www.agroscope.admin.ch/agroscope/fr/home.html) &gt; Thèmes &gt; Animaux de rente &gt; Aliments pour animaux &gt; Contrôle des aliments pour animaux &gt; Bases légales &gt; Matières premières annoncées.
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 #### Art. 10
 
@@ -412,10 +417,13 @@ Le présent chapitre ne s’applique pas:
 
 <sup>2</sup> Les mélanges d’additifs peuvent être vendus à l’utilisateur final si toutes les conditions d’utilisation prévues dans l’homologation de chaque additif sont respectées.
 
+<sup>2bis</sup> Les additifs et les prémélanges définis à l’art. 48, al. 1, doivent être remis uniquement à des entreprises du secteur de l’alimentation animale ou à des exploitations actives dans la production primaire autorisées à les utiliser.[^19-3]
+
 <sup>3</sup> Le DEFR fixe les conditions générales applicables à l’utilisation des additifs et des prémélanges pour l’alimentation animale.
 
 [^19-1]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 [^19-2]: Introduit par l’annexe ch. 9 de l’O de Nagoya du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^19-3]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 #### Art. 20
 
@@ -457,7 +465,7 @@ Si les conditions définies à l’art. 148*a* LAgr sont remplies, le DEFR peut:
 
 <sup>2</sup> L’OFAG tient compte des décisions de l’UE pour l’octroi de l’autorisation. Il peut limiter la durée d’autorisation. Il tient compte pour ce faire de la durée de l’autorisation fixée par l’UE.
 
-<sup>3</sup> L’autorisation est personnelle et incessible.
+<sup>3</sup> Seul le titulaire de l’autorisation mentionné dans celle-ci, ses successeurs légaux ou une personne ayant son accord écrit peuvent mettre le produit en circulation pour la première fois.[^22-1]
 
 <sup>4</sup> Les commerçants en aval n’ont pas besoin d’une nouvelle autorisation si un additif a été importé ou mis en circulation avec une autorisation.
 
@@ -465,10 +473,11 @@ Si les conditions définies à l’art. 148*a* LAgr sont remplies, le DEFR peut:
 
 <sup>6</sup> Il peut refuser d’autoriser un additif, annuler une autorisation existante ou l’assortir de conditions ou de charges si les conditions définies à l’art. 148*a* LAgr sont remplies.
 
-<sup>7</sup> Il publie une liste des additifs autorisés[^22-1].[^22-2]
+<sup>7</sup> Il publie une liste des additifs autorisés[^22-2].[^22-3]
 
-[^22-1]: La liste des additifs autorisés pour l’alimentation animale peut être consultée gratuitement sur le site d’Agroscope à l’adresse suivante: www.agroscope.admin.ch &gt; Thèmes &gt; Animaux de rente &gt; Aliments pour animaux &gt; Contrôle des aliments pour animaux &gt; Bases légales &gt; Annexe 2 &gt; Liste 2.4a à 2.4e et Liste 2.5.
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^22-2]: La liste des additifs autorisés pour l’alimentation animale peut être consultée gratuitement sur le site d’Agroscope à l’adresse suivante: [www.agroscope.admin.ch](https://www.agroscope.admin.ch/agroscope/fr/home.html) &gt; Thèmes &gt; Animaux de rente &gt; Aliments pour animaux &gt; Contrôle des aliments pour animaux &gt; Bases légales &gt; Annexe 2 &gt; Liste 2.4a à 2.4e et Liste 2.5.
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 23
 
@@ -532,11 +541,14 @@ Selon leurs fonctions et leurs propriétés, les additifs sont classés dans une
 
 <sup>1</sup> Les demandes d’homologation ou d’autorisation sont adressées à l’OFAG.
 
-<sup>2</sup> Les demandes d’homologation d’un additif par incorporation dans la liste selon l’art. 20 peuvent être faites par une personne ou une entreprise dont le domicile ou le siège social, ou une succursale, se trouve en Suisse.
+<sup>2</sup> Les demandes d’homologation d’un additif par incorporation dans la liste visée à l’art. 20 peuvent être faites par une personne domiciliée en Suisse ou par une entreprise dont le siège social, une succursale ou un représentant se trouve en Suisse.[^26-1]
 
-<sup>3</sup> Les demandes d’autorisation selon l’art. 22 peuvent être faites par des personnes ou des entreprises dont le domicile ou le siège social, ou une succursale, se trouve en Suisse sauf accord excluant cette exigence.
+<sup>3</sup> Les demandes d’autorisation selon l’art. 22 peuvent être faites par des personnes domiciliées en Suisse ou par des entreprises dont le siège social, une succursale ou un représentant se trouve en Suisse, sauf accord avec le pays du domicile ou du siège social excluant cette exigence.[^26-2]
 
 <sup>4</sup> Si la demande ne satisfait pas aux exigences, l’OFAG impartit au requérant un délai pour la compléter. Si les indications requises ne sont pas fournies dans ce délai, la demande n’est pas examinée.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 #### Art. 27
 
@@ -724,9 +736,11 @@ Dans la mesure où la liste selon l’art. 36, al. 1 ne prévoit pas d’autres 
 
 **Révision de la valeur maximale**
 
-<sup>1</sup> L’OFAG peut réduire provisoirement la teneur maximale existante, fixer une teneur maximale ou interdire la présence d’une substance indésirable dans les aliments pour animaux si de nouvelles données ou une nouvelle évaluation des données existantes montrent qu’une teneur maximale fixée par le DEFR ou qu’une substance indésirable non mentionnée présente un danger pour la santé humaine ou animale ou pour l’environnement.
+<sup>1</sup> L’OFAG peut provisoirement réduire la teneur maximale existante, fixer une teneur maximale ou interdire la présence d’une substance indésirable dans les aliments pour animaux, si de nouvelles données ou une nouvelle évaluation des données existantes montrent qu’une teneur maximale fixée par le DEFR ou qu’une substance indésirable non mentionnée présente un danger pour la santé humaine ou animale ou pour l’environnement.[^39-1]
 
 <sup>2</sup> Si les conditions définies à l’art. 148*a* LAgr sont remplies, l’OFAG peut prendre des mesures identiques à celles visées dans l’al. 1.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 ## Chapitre 5 Exigences en matière d’hygiène des aliments pour animaux, d’enregistrement et d’agrément des établissements
 
@@ -765,13 +779,16 @@ Les entreprises du secteur de l’alimentation animale veillent à ce que toutes
 
 #### Art. 43
 
-**Obligation de tenir un registre pour les animaux de rente**
+**Obligation de tenir un registre[^43-1]**
 
-<sup>1</sup> Quiconque produit, importe ou met en circulation des aliments pour animaux de rente tient à jour un registre où sont consignées les indications pertinentes pour la traçabilité des aliments pour animaux.
+<sup>1</sup> Quiconque produit, importe ou met en circulation des aliments pour animaux tient à jour un registre où sont consignées les indications pertinentes pour la traçabilité des aliments pour animaux.[^43-2]
 
 <sup>2</sup> Le DEFR peut fixer des exigences relatives au registre.
 
 <sup>3</sup> Les indications visées à l’al. 1 doivent être conservées pendant au moins trois ans et remises à l’OFAG sur demande.
+
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^43-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 #### Art. 44
 
@@ -840,12 +857,13 @@ Pour exercer son activité, toute entreprise du secteur de l’alimentation anim
 
 Les entreprises du secteur de l’alimentation animale:
 
-- a. annoncent à l’OFAG, aux fins d’enregistrement ou d’agrément, sous la forme demandée, tous les établissements sous leur contrôle qui interviennent à une étape quelconque de la production, de la transformation, du stockage, du transport ou de la distribution d’aliments pour animaux;
+- a.[^47-1] annoncent à l’OFAG, aux fins d’enregistrement ou d’agrément, sous la forme demandée, tous les établissements sous leur contrôle qui interviennent à une ou plusieurs étapes de la production, de la transformation et de la distribution d’aliments pour animaux;
 - b. fournissent à l’OFAG des informations à jour sur tous les établissements sous leur contrôle selon la let. a, notamment en lui communiquant toute modification significative des activités et toute fermeture d’un établissement existant.
 
-<sup>2</sup> Les exploitations actives dans la production primaire qui produisent des aliments pour animaux en utilisant des additifs, à l’exception des additifs liés aux activités d’ensilage, ou des prémélanges en contenant, doivent annoncer cette activité à l’OFAG aux fins d’enregistrement ou d’agrément.[^47-1]
+<sup>2</sup> Les exploitations actives dans la production primaire qui produisent des aliments pour animaux en utilisant des additifs, à l’exception des additifs liés aux activités d’ensilage, ou des prémélanges en contenant, doivent annoncer cette activité à l’OFAG aux fins d’enregistrement ou d’agrément.[^47-2]
 
-[^47-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
+[^47-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 47a
 
@@ -855,12 +873,15 @@ Les entreprises du secteur de l’alimentation animale:
 
 <sup>2</sup> Les exploitants et les autres personnes qui transfèrent des aliments concentrés communiquent ces transferts en indiquant la quantité et les quantités d’éléments nutritifs contenus.
 
-<sup>3</sup> Les quantités ne dépassant pas 105 kg d’azote et 15 kg de phosphore par année civile ne doivent pas être communiquées si l’exploitant n’est pas soumis à l’obligation de réaliser les prestations écologiques requises visées à l’art. 11 de l’ordonnance du 23 octobre 2013 sur les paiements directs[^47a-4].
+<sup>2bis</sup> Si les aliments concentrés proviennent directement de l’étranger, c’est l’importateur qui est assujetti à l’obligation communiquer.[^47a-4]
+
+<sup>3</sup> Les quantités ne dépassant pas 105 kg d’azote et 15 kg de phosphore par année civile ne doivent pas être communiquées si l’exploitant n’est pas soumis à l’obligation de réaliser les prestations écologiques requises visées à l’art. 11 de l’ordonnance du 23 octobre 2013 sur les paiements directs[^47a-5].
 
 [^47a-1]: Introduit par l’annexe ch. 3 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 [^47a-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^47a-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^47a-4]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^47a-4]: Introduit par l’annexe ch. 3 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^47a-5]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 48
 
@@ -950,13 +971,14 @@ L’OFAG modifie sur demande l’enregistrement ou l’agrément d’un établis
 
 **Registre des établissements enregistrés et agréés**
 
-<sup>1</sup> L’OFAG inscrit dans un registre national les établissements enregistrés selon l’art. 47 ou agréés selon l’art. 48. Les établissements obtiennent un numéro d’identification individuel établi selon le modèle figurant à l’annexe V, chapitres 1 et 2, du règlement (CE) No 183/2005[^54-1].
+<sup>1</sup> L’OFAG inscrit dans un registre national les établissements enregistrés selon l’art. 47 ou agréés selon l’art. 48. Les établissements obtiennent un numéro d’identification individuel établi selon le modèle figurant à l’annexe V, chap. 1 et 2, du règlement (CE) n<sup>o</sup> 183/2005[^54-1].[^54-2]
 
 <sup>2</sup> Il actualise les données relatives aux établissements inscrits dans le registre national visé dans l’al. 1 en fonction des décisions de suspension, de révocation ou de modification de l’enregistrement ou de l’agrément prévues aux art. 50 à 52.
 
 <sup>3</sup> Il publie le registre national des établissements visé dans l’al. 1.
 
-[^54-1]: R (CE) n<sup>o</sup> 183/2005 du Parlement européen et du Conseil du 12 janv. 2005 établissant des exigences en matière d’hygiène des aliments pour animaux, JO n<sup>o</sup> L 35 du 8.2.2005, p. 1, modifié en dernier lieu par le R(CE) n<sup>o</sup> 219/2009 du Parlement européen et du Conseil du 11 mars 2009, JO L 87 du 31.3.2009, p. 109.
+[^54-1]: Règlement (CE) n<sup>o</sup> 183/2005 du Parlement européen et du Conseil du 12 janvier 2005 établissant des exigences en matière d’hygiène des aliments pour animaux, JO L 35 du 8.2.2005, p. 1; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 219/2009, JO L 87 du 31.3.2009, p. 109.
+[^54-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 641](https://fedlex.data.admin.ch/eli/oc/2024/641)).
 
 ### Section 4 Guides de bonnes pratiques
 
@@ -1298,7 +1320,7 @@ Il veille à ce que ces organismes:
 
 <sup>4</sup> Il organise des audits ou des inspections de ces organismes. S’il ressort d’un audit ou d’une inspection qu’ils ne s’acquittent pas correctement des tâches qui leur ont été déléguées, la délégation peut être retirée. Le cas échéant, la délégation est retirée sans délai si l’organisme de contrôle ne prend pas en temps utile des mesures correctives adéquates.
 
-[^75-1]: Le texte de la norme peut être consulté gratuitement ou obtenu contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^75-1]: Le texte de la norme peut être consulté gratuitement ou obtenu contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 #### Art. 76
 
