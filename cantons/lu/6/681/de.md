@@ -3,20 +3,20 @@ canton: LU
 number: "681"
 title: Gebührentarif und Kostenverordnung für die Staatsverwaltung
 language: de
-version: 2018-02-01
-valid_until: 2024-12-31
-version_adopted: 2018-01-09
+version: 2025-01-01
+valid_until: 2025-05-31
+version_adopted: 2024-12-10
 adopted: 1982-05-28
 in_force: 1982-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/681"
-pdf: "https://srl.lu.ch/api/de/versions/3229/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif und Kostenverordnung für die Staatsverwaltung
 
-vom 28.05.1982 (Stand 01.02.2018)
+vom 28.05.1982 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -37,19 +37,17 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für Entscheide des Regierungsrates sowie für Verrichtungen der Staatskanzlei betragen:
 
-- 1\. Spruchgebühr für einen Entscheid des Regierungsrates: Fr. 200.– bis Fr. 25 000.–. Bei grossen wirtschaftlichen Interessen der Parteien kann die Spruchgebühr angemessen erhöht werden, jedoch höchstens auf Fr. 50 000.–.
-- 2\. Ausfertigung eines Entscheids des Regierungsrates (inbegriffen Zustellung), für die Seite: Fr. 23.–
+- 1\. Spruchgebühr für einen Entscheid des Regierungsrates: Fr. 300.– bis Fr. 25 000.–. Bei grossen wirtschaftlichen Interessen der Parteien kann die Spruchgebühr angemessen erhöht werden, jedoch höchstens auf Fr. 50 000.–.
+- 2\. …
 - 3\. Erstellen einer Kopie
-  - a. für das erstmalige Kopieren des Originals, je Seite: Fr. 2.30
-  - b. für die weitern Kopien, je Seite: Fr. –.35
-- 4\. Rechtskraftbescheinigungen: Fr. 35.–
-- 5\. Anbringen einer Apostille im Sinn der Artikel 3 ff. des Internationalen Haager Übereinkommens zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung vom 5. Oktober 1961[^1-1]: Fr. 30.–
-- 6\. Übrige Legalisationen: Fr. 30.–
-- 7\. Apostillen und Legalisationen in Adoptions- und Alimentenverfahren: Fr. 10.–
-- 8\. Schriftliche Auskunftserteilung und Stellungnahmen mit erheblichem Aufwand, wenn der Anfrager ein wirtschaftliches Interesse an der Auskunft hat, nach Zeitaufwand, pro Stunde: Fr. 55.– bis Fr. 275.–
-- 9\. Versenden eines Telefax, je Seite: Fr. 2.30. Dazu kommt die Telekommunikations-Übertragungsgebühr.
-
-[^1-1]: SR [0.172.030.4](https://db.clex.ch/link/Bund/0.172.030.4/de)
+  - a. für das erstmalige Kopieren des Originals, je Seite: Fr. 2.50
+  - b. für die weiteren Kopien, je Seite: Fr. –.50
+- 4\. …
+- 5\. …
+- 6\. …
+- 7\. …
+- 8\. Schriftliche Auskunftserteilung und Stellungnahmen mit erheblichem Aufwand, wenn die anfragende Person ein wirtschaftliches Interesse an der Auskunft hat, nach Zeitaufwand, pro Stunde: Fr. 85.– bis Fr. 275.–
+- 9\. …
 
 ## 2 Departemente und Dienststellen
 
@@ -59,16 +57,17 @@ beschliesst:
 
 <sup>1</sup> Die Departemente und die ihnen untergeordneten Dienststellen beziehen folgende Gebühren:
 
-- 1\. Spruchgebühr für einen Entscheid: Fr. 200.– bis Fr. 25 000.–. Bei grossen wirtschaftlichen Interessen der Parteien kann die Spruchgebühr angemessen erhöht werden, jedoch höchstens auf Fr. 50 000.–.
-- 2\. Ausfertigung eines Entscheids (inbegriffen Zustellung), für die Seite: Fr. 23.–
-- 3\. Erstellen einer Abschrift oder eines Auszugs
-  - a. für das erstmalige Kopieren des Originals, je Seite: Fr. 2.30
-  - b. für die weitern Kopien, je Seite: Fr. –.35
-- 4\. Rechtskraftbescheinigungen: Fr. 35.–
-- 5\. Vermittlung von Erbbetreffnissen aus dem Ausland – vom Wert: 1 %, mindestens Fr. 50.–, höchstens Fr. 2500.–
-- 6\. Schriftliche Auskunftserteilung und Stellungnahmen mit erheblichem Aufwand, wenn der Anfrager ein wirtschaftliches Interesse an der Auskunft hat, nach Zeitaufwand, pro Stunde: Fr. 55.– bis Fr. 275.–
-- 6<sup>bis</sup>. Vorprüfung von kommunalen Reglementen und Statuten von öffentlich-rechtlichen Genossenschaften des kantonalen Rechts, nach Zeitaufwand, pro Stunde: Fr. 55.– bis Fr. 275.–
-- 7\. Versenden eines Telefax, je Seite: Fr. 2.30. Dazu kommt die Telekommunikations-Übertragungsgebühr.
+- 1\. Spruchgebühr für einen Entscheid: Fr. 300.– bis Fr. 25 000.–. Bei grossen wirtschaftlichen Interessen der Parteien kann die Spruchgebühr angemessen erhöht werden, jedoch höchstens auf Fr. 50 000.–.
+- 2\. …
+- 3\. Erstellen einer Kopie
+  - a. für das erstmalige Kopieren des Originals, je Seite: Fr. 2.50
+  - b. für die weiteren Kopien, je Seite: Fr. –.50
+- 4\. …
+- 5\. …
+- 6\. Schriftliche Auskunftserteilung und Stellungnahmen mit erheblichem Aufwand, wenn die anfragende Person ein wirtschaftliches Interesse an der Auskunft hat, nach Zeitaufwand, pro Stunde: Fr. 85.– bis Fr. 275.–
+- 6<sup>bis</sup>. Vorprüfung von kommunalen Reglementen und Statuten von öffentlich-rechtlichen Genossenschaften des kantonalen Rechts, nach Zeitaufwand, pro Stunde: Fr. 85.– bis Fr. 275.–
+- 7\. …
+- 8\. Apostillen und Legalisationen: Fr. 30.–
 
 ## 3 Staatsarchiv
 
@@ -78,22 +77,22 @@ beschliesst:
 
 <sup>1</sup> Das Staatsarchiv bezieht folgende Gebühren:
 
-- 1\. Nachschlagen in Protokollen oder Akten, nach Zeitaufwand, pro Stunde Fr. 60.– bis Fr. 175.–
-- 2\. Transkriptionen, Abschriften, Auszüge, nach Zeitaufwand, pro Stunde Fr. 60.– bis Fr. 175.–
+- 1\. Nachschlagen in Protokollen oder Akten, nach Zeitaufwand, pro Stunde Fr. 63.– bis Fr. 185.–
+- 2\. Transkriptionen, Abschriften, Auszüge, nach Zeitaufwand, pro Stunde Fr. 63.– bis Fr. 185.–
 - 3\. Herstellen von Fotokopien und Scans
   - a. Fotokopien von Archivunterlagen, Lieferformat Papier, s/w, pro Kopie Fr. 2.10
   - b. Scans von Archivunterlagen, Lieferformat Datei, pro Scan Fr. 2.10
-- 4\. Fotokopien aus Bibliotheksbüchern durch Benutzer, pro Kopie Fr. –.20
+  - c. Auszüge aus Dossiers der Gebäudeversicherung, pro Dossier, inklusive Versand Fr. 50.–
+- 4\. Fotokopien aus Bibliotheksbüchern durch Benutzerinnen und Benutzer, pro Kopie Fr. –.20
   - a. …
   - b. …
-- 5\. Kopien bereits vorhandener digitaler Daten, Lieferformat Datei, pro Datei Fr. 1.–
-  - a. …
-  - b. …
+- 5\. …
 - 6\. Rückvergrösserung ab Mikrofilm (Fotonegativ)
-  - a. bei Herstellung durch Benutzer, pro Kopie Fr. –.60
+  - a. bei Herstellung durch Benutzer oder Benutzerin, pro Kopie Fr. –.60
   - b. bei Herstellung durch das Staatsarchiv: zusätzliche Gebühr nach Aufwand, mindestens Fr. 11.–
-- 7\. Fotoaufnahmen digital, pro Aufnahme inkl. Grundbearbeitung Fr. 80.–
-- 8\. Erstellen einer CD-R (DVD-R), pro CD-R 5.–
+- 7\. Fotoaufnahmen digital, pro Aufnahme inklusive Grundbearbeitung Fr. 40.–
+- 8\. …
+- 8<sup>bis</sup>. Archivführungen für Gruppen bis maximal 20 Personen, Dauer 1,5 Std. Fr. 150.–
 - 9\. Bearbeitungsgebühren für
   - a. Versand (per Mail oder per Post) bei Barzahlung: effektive Kosten, mindestens Fr. 5.–
   - b. Versand (per Mail oder Post) mit Rechnungsstellung: effektive Kosten, mindestens Fr. 25.–
@@ -125,11 +124,11 @@ beschliesst:
 
 <sup>1</sup> Die Kosten der berufsmässigen Vertretung, für die gemäss § 201 des Gesetzes über die Verwaltungsrechtspflege[^4b-1] der obsiegenden Partei eine angemessene Entschädigung oder Vergütung zuzusprechen ist, umfassen das Honorar und die Auslagen.
 
-<sup>2</sup> Das Honorar entschädigt den Parteivertreter für die Verrichtungen, die unmittelbar mit der Vertretung oder Verbeiständung der Partei im Verfahren vor der Behörde zusammenhängen, namentlich für die Instruktion, die Eingaben an die Behörde, die Teilnahme an den Verhandlungen und die Abschriften von Eingaben oder Belegen für seinen eigenen Bedarf. Für die Rechnungsstellung kann keine Vergütung verlangt werden.
+<sup>2</sup> Das Honorar entschädigt die Parteivertretung für die Verrichtungen, die unmittelbar mit der Vertretung oder Verbeiständung der Partei im Verfahren vor der Behörde zusammenhängen, namentlich für die Instruktion, die Eingaben an die Behörde, die Teilnahme an den Verhandlungen und die Abschriften von Eingaben oder Belegen für ihren eigenen Bedarf. Für die Rechnungsstellung kann keine Vergütung verlangt werden.
 
 <sup>3</sup> Das Honorar beträgt 100 bis 10 000 Franken. Es ist nach dem Zeit- und Arbeitsaufwand, der Wichtigkeit und Schwierigkeit der Sache sowie nach dem Streitwert oder den sonstigen Interessen der Parteien an der Beurteilung der Angelegenheit festzusetzen. In ausserordentlichen Fällen setzt die Behörde das Honorar ohne Bindung an die obere Bemessungsgrenze fest.
 
-<sup>4</sup> Der Parteivertreter hat Anspruch auf Ersatz seiner Barauslagen. Reiseauslagen sind zu vergüten, soweit die Reise notwendig und die Wahl des Verkehrsmittels zweckmässig ist. Bei Benützung des Autos hat der berufsmässige Vertreter Anspruch auf eine Kilometerentschädigung, wie sie den Mitgliedern staatlicher Kommissionen ausgerichtet wird.
+<sup>4</sup> Die Parteivertretung hat Anspruch auf Ersatz ihrer Barauslagen. Reiseauslagen sind zu vergüten, soweit die Reise notwendig und die Wahl des Verkehrsmittels zweckmässig ist. Bei Benützung des Autos hat die berufsmässige Vertretung Anspruch auf eine Kilometerentschädigung, wie sie den Mitgliedern staatlicher Kommissionen ausgerichtet wird.
 
 [^4b-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
 
@@ -137,7 +136,7 @@ beschliesst:
 
 **Entschädigung bei unentgeltlicher Rechtspflege**
 
-<sup>1</sup> Dem zur unentgeltlichen Rechtspflege bestellten Anwalt vergütet die zuständige Behörde 85 Prozent des entscheidmässig festgesetzten Honorars und die Auslagen, wenn sein Klient die Kosten zu tragen hat oder wenn die Gegenpartei ebenfalls von der Kostenpflicht befreit ist oder sonst aus einem Grund nicht mit Erfolg belangt werden kann.
+<sup>1</sup> Bei unentgeltlicher Rechtspflege vergütet die zuständige Behörde dem bestellten Anwalt oder der bestellten Anwältin 85 Prozent des entscheidmässig festgesetzten Honorars und die Auslagen, wenn der Klient oder die Klientin die Kosten zu tragen hat oder wenn die Gegenpartei ebenfalls von der Kostenpflicht befreit ist oder sonst aus einem Grund nicht mit Erfolg belangt werden kann.
 
 ## 6 Besondere Gebührenregelungen
 
@@ -151,7 +150,7 @@ beschliesst:
 
 **Minimal- und Maximalansätze**
 
-<sup>1</sup> Ist für eine Gebühr in diesem Tarif ein Minimal- und Maximalansatz festgelegt, so bemisst sie sich nach dem Zeit- und Arbeitsaufwand der Behörde, der Wichtigkeit und Schwierigkeit der Sache sowie nach dem Streitwert oder den sonstigen Interessen der Parteien beziehungsweise Gesuchsteller an der Beurteilung der Angelegenheit.
+<sup>1</sup> Ist für eine Gebühr in diesem Tarif ein Minimal- und Maximalansatz festgelegt, so bemisst sie sich nach dem Zeit- und Arbeitsaufwand der Behörde, der Wichtigkeit und Schwierigkeit der Sache sowie nach dem Streitwert oder den sonstigen Interessen der Parteien beziehungsweise der Gesuchstellerinnen und Gesuchsteller an der Beurteilung der Angelegenheit.
 
 #### § 5b
 
@@ -159,9 +158,9 @@ beschliesst:
 
 <sup>1</sup> Bei überdurchschnittlichem Aufwand im Mahnungs- und Inkassowesen können folgende Gebühren erhoben werden:
 
-- 1\. Mahnspesen ab zweiter Mahnung, pro Mahnung — Fr. 11.–
-- 2\. Bei Teilzahlungen: Bearbeitungszuschlag pro Ratenzahlung — Fr. 5.50
-- 3\. Betreibungsspesen — Fr. 10.–
+- 1\. Mahnspesen ab zweiter Mahnung, pro Mahnung — Fr. 12.–
+- 2\. Bei Teilzahlungen: Bearbeitungszuschlag pro Ratenzahlung — Fr. 6.–
+- 3\. Betreibungsspesen — Fr. 11.–
 
 ## 7 Verzicht und Erlass
 
@@ -171,7 +170,7 @@ beschliesst:
 
 <sup>2</sup> Das Staatsarchiv kann auf den Bezug von Benützungsgebühren ganz oder teilweise verzichten, wenn die Benützung zu rein wissenschaftlichen Zwecken erfolgt.
 
-<sup>3</sup> Die Staatskanzlei kann auf Gebühren für Legalisation ganz oder teilweise verzichten, wenn die entsprechenden Urkunden ausschliesslich gemeinnützigen Zwecken dienen.
+<sup>3</sup> Der Beglaubigungsdienst kann auf Gebühren für Legalisationen ganz oder teilweise verzichten, wenn die entsprechenden Urkunden ausschliesslich gemeinnützigen Zwecken dienen.
 
 <sup>4</sup> Die entscheidende Behörde kann Spruchgebühren ganz oder teilweise erlassen, wenn keine Vermögensinteressen auf dem Spiele stehen und der Gebührenbezug zu einer Härte führen würde oder sonstwie besondere Gründe dies rechtfertigen.
 
