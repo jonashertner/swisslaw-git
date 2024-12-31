@@ -4,7 +4,7 @@ number: "172.315.2"
 title: RÈGLEMENT du 28.11.2008 relatif au système de rétribution des collaborateurs de l’Etat de Vaud (RSRC)
 short: RSRC
 language: fr
-version: 2020-01-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.315.2?id=28526603-8fa7-41f7-bd96-8ea85834c307"
 ---
 
@@ -201,10 +201,10 @@ Annexes [^9-1]
 
 1
 
-[Fonctions hors périmètre](https://prestations.vd.ch/pub/blv-publication/api/actes/28526603-8fa7-41f7-bd96-8ea85834c307/annexes/1?dmev=01.01.2020)
+[Fonctions hors périmètre](https://prestations.vd.ch/pub/blv-publication/api/actes/28526603-8fa7-41f7-bd96-8ea85834c307/annexes/1?dmev=01.01.2025)
 
 2
 
-[Annexe 2 - Echelle des salaires](https://prestations.vd.ch/pub/blv-publication/api/actes/28526603-8fa7-41f7-bd96-8ea85834c307/annexes/2?dmev=01.01.2020)
+[Annexe 2 - Echelle des salaires](https://prestations.vd.ch/pub/blv-publication/api/actes/28526603-8fa7-41f7-bd96-8ea85834c307/annexes/2?dmev=01.01.2025)
 
 [^9-1]: Modif. 3 du 19.05.2010: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2011 · Modif. 4 du 19.12.2011: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2012 · Modif. 5 du 11.09.2019: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2020 · Modif. 6 du 21.05.2025: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2025 · Modif. 7 du 01.07.2026: Modification Annexes, Ann. 1; entrée en vigueur au 07.07.2026
