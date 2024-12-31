@@ -4,13 +4,13 @@ number: "180.10"
 title: Verordnung über die Rechnungslegung der Einwohnergemeinden
 short: Gemeinderechnungsverordnung
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-27
+version: 2025-01-01
+valid_until: 2025-10-31
+version_adopted: 2024-12-03
 adopted: 2012-02-14
 in_force: 2014-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180.10"
-pdf: "https://bl.clex.ch/api/de/versions/3658/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3658/pdf_file"
 
 (Gemeinderechnungsverordnung)
 
-Vom 14.02.2012 (Stand 01.01.2023)
+Vom 14.02.2012 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -303,7 +303,7 @@ beschliesst:
 
 **Budget ([§ 158](https://bl.clex.ch/data/180/de/art158) GemG)**
 
-<sup>1</sup> Das Budget im Umfang von § 26 Absatz 1 ist die Zusammenstellung der Beträge, die im folgenden Jahr voraussichtlich ausgegeben oder voraussichtlich eingenommen werden. Vorbehalten bleibt Absatz 1bis.
+<sup>1</sup> Das Budget im Umfang von § 26 Abs. 1 ist die Zusammenstellung der Beträge, die im folgenden Jahr voraussichtlich ausgegeben oder voraussichtlich eingenommen werden. Vorbehalten bleibt Abs. 1<sup>bis</sup>.
 
 <sup>1<sup>bis</sup></sup> Einlagen in die finanzpolitische Reserve dürfen nicht budgetiert werden. Entnahmen aus der finanzpolitischen Reserve und Einlagen in Vorfinanzierungen dürfen nur in gleicher Höhe budgetiert werden.
 
@@ -396,7 +396,7 @@ beschliesst:
 
 **Auflistung der Finanzkennzahlen**
 
-<sup>1</sup> Die Auflistung der Finanzkennzahlen umfasst die vom Amt für Daten und Statistik (kurz: Amt) berechneten Finanzkennzahlen sowie die kantonalen Richtwerte.
+<sup>1</sup> Die Auflistung der Finanzkennzahlen umfasst die vom Generalsekretariat der Finanz- und Kirchendirektion berechneten Finanzkennzahlen sowie die kantonalen Richtwerte.
 
 #### § 31
 
@@ -408,7 +408,7 @@ beschliesst:
 
 **Passation des Budgets ([§ 168a Abs. 1](https://bl.clex.ch/data/180/de/art168a) GemG)**
 
-<sup>1</sup> Das Budget ist spätestens 2 Wochen nach dem Beschluss der Gemeindeversammlung oder des Einwohnerrats in elektronischer Form via Webplattform sowie im PDF-Format dem Amt einzureichen.
+<sup>1</sup> Das Budget ist spätestens 2 Wochen nach dem Beschluss der Gemeindeversammlung oder des Einwohnerrats in elektronischer Form via Webplattform sowie im PDF-Format dem Generalsekretariat der Finanz- und Kirchendirektion einzureichen.
 
 <sup>2</sup> Zusätzlich ist einzureichen:
 
@@ -598,7 +598,7 @@ beschliesst:
 
 **Auflistung der Finanzkennzahlen**
 
-<sup>1</sup> Die Auflistung der Finanzkennzahlen umfasst die vom Amt für Daten und Statistik (kurz: Amt) berechneten Finanzkennzahlen sowie die kantonalen Richtwerte.
+<sup>1</sup> Die Auflistung der Finanzkennzahlen umfasst die vom Generalsekretariat der Finanz- und Kirchendirektion berechneten Finanzkennzahlen sowie die kantonalen Richtwerte.
 
 #### § 48
 
@@ -653,7 +653,7 @@ beschliesst:
 
 **Passation der Jahresrechnung ([§ 168a Abs. 1](https://bl.clex.ch/data/180/de/art168a) GemG)**
 
-<sup>1</sup> Die Jahresrechnung ist mit sämtlichen Beilagen spätestens 2 Wochen nach dem Beschluss der Gemeindeversammlung oder des Einwohnerrats dem Amt im PDF-Format einzureichen. Sie ist zusätzlich in elektronischer Form via Webplattform einzureichen, wenn Änderungen gegenüber dem gemeinderätlichen Entwurf beschlossen worden sind.
+<sup>1</sup> Die Jahresrechnung ist mit sämtlichen Beilagen spätestens 2 Wochen nach dem Beschluss der Gemeindeversammlung oder des Einwohnerrats dem Generalsekretariat der Finanz- und Kirchendirektion im PDF-Format einzureichen. Sie ist zusätzlich in elektronischer Form via Webplattform einzureichen, wenn Änderungen gegenüber dem gemeinderätlichen Entwurf beschlossen worden sind.
 
 <sup>2</sup> Zusätzlich sind einzureichen:
 
