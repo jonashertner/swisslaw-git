@@ -3,20 +3,19 @@ canton: GR
 number: "110.100"
 title: Verfassung des Kantons Graubünden
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3369/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Graubünden
 
-Vom 14.09.2003 (Stand 01.07.2024)
+Vom 14.09.2003 (Stand 01.01.2025)
 
 Wir, das Volk des Kantons Graubünden,
 
@@ -173,7 +172,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 <sup>2</sup> Sie kann teilweise für ungültig erklärt werden, falls dadurch der Wille der Initiantinnen und Initianten nicht verfälscht wird und die Vorlage ein sinnvolles Ganzes ergibt.
 
-<sup>3</sup> Über die Ungültigkeit entscheidet der Grosse Rat. Dieser Entscheid ist an das Verwaltungsgericht weiterziehbar.
+<sup>3</sup> Über die Ungültigkeit entscheidet der Grosse Rat. Dieser Entscheid ist an das Obergericht weiterziehbar.
 
 #### Art. 15
 
@@ -242,7 +241,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 <sup>2</sup> Sie können dabei vom Kanton unterstützt werden, sofern ihre Ziele und ihr Aufbau demokratischen und rechtsstaatlichen Grundsätzen entsprechen.
 
-## 4. Behörden und Gerichte
+## 4. Kantonale Behörden
 
 ### 4.1. Allgemeines
 
@@ -250,23 +249,25 @@ geben uns folgende Verfassung[^ingress-1]:
 
 **Wählbarkeit**
 
-<sup>1</sup> In die kantonalen Behörden und Gerichte sowie in den Ständerat sind die Stimmberechtigten des Kantons wählbar. Das Gesetz kann vorsehen, dass die Wählbarkeitsvoraussetzung erst bei Amtsantritt erfüllt sein muss.
+<sup>1</sup> In die kantonalen Behörden sowie in den Ständerat sind die Stimmberechtigten des Kantons wählbar. Das Gesetz kann vorsehen, dass die Wählbarkeitsvoraussetzung erst bei Amtsantritt erfüllt sein muss.
 
-<sup>2</sup> Weitere Wählbarkeitsvoraussetzungen für die kantonalen Behörden und Gerichte sowie die Anstellungsvoraussetzungen für das Staatspersonal werden durch Gesetz geregelt.
+<sup>1<sup>bis</sup></sup> Für die Mitglieder der richterlichen Behörden kann im Gesetz vom Wohnsitzerfordernis als Wählbarkeitsvoraussetzung abgesehen werden.
 
-<sup>3</sup> Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von Behörden und Gerichten.
+<sup>2</sup> Weitere Wählbarkeitsvoraussetzungen für die Mitglieder von kantonalen Behörden sowie die Anstellungsvoraussetzungen für das Staatspersonal werden durch Gesetz geregelt.
+
+<sup>3</sup> Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von kantonalen Behörden.
 
 #### Art. 22
 
 **Unvereinbarkeiten**
 
-<sup>1</sup> Niemand darf seiner unmittelbaren Aufsichtsbehörde angehören.
+<sup>1</sup> Niemand darf seiner kantonalen Rechtsmittelbehörde oder seiner unmittelbaren Aufsichtsbehörde angehören. Das Gesetz kann Ausnahmen vorsehen.
 
 <sup>2</sup> Mitglieder der Regierung und der richterlichen Behörden sowie das voll- und hauptamtliche Personal des Kantons dürfen nicht dem Grossen Rat angehören.
 
-<sup>3</sup> Richterinnen und Richter dürfen nicht gleichzeitig der Regierung oder einer anderen richterlichen Behörde im Kanton angehören.
+<sup>3</sup> Richterinnen und Richter dürfen nicht der Regierung angehören.
 
-<sup>4</sup> Mitglieder der Regierung und die vollamtlichen Mitglieder einer richterlichen Behörde dürfen nicht der Bundesversammlung oder dem Bundesgericht angehören.
+<sup>4</sup> Mitglieder der Regierung und Mitglieder der richterlichen Behörden, die im Vollpensum tätig sind, dürfen nicht der Bundesversammlung oder dem Bundesgericht angehören.
 
 <sup>5</sup> Das Gesetz regelt weitere Fälle der Unvereinbarkeit von Ämtern und Aufgaben, den Verwandtenausschluss sowie die Ausnahmen.
 
@@ -274,7 +275,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 **Amtsdauer**
 
-<sup>1</sup> Die Amtsdauer des Grossen Rates, der Regierung, der Gerichte sowie der Mitglieder des Ständerates beträgt vier Jahre.
+<sup>1</sup> Die Amtsdauer des Grossen Rates, der Regierung, der ordentlichen Mitglieder der richterlichen Behörden sowie der Mitglieder des Ständerates beträgt vier Jahre.
 
 #### Art. 24
 
@@ -352,7 +353,7 @@ geben uns folgende Verfassung[^ingress-1]:
 - 2\. Kreis der Abgabepflichtigen, Gegenstand und Bemessungsgrundlagen von Abgaben, soweit diese nicht von geringfügiger Natur sind;
 - 3\. Zweck, Inhalt und Umfang von bedeutenden staatlichen Leistungen;
 - 4\. Grundsätze der Aufgabenverteilung zwischen Kanton und Gemeinden;
-- 5\. Grundsätze von Organisation und Aufgaben der Behörden und Gerichte;
+- 5\. Grundsätze von Organisation und Aufgaben der kantonalen Behörden;
 - 6\. Art und Umfang der Übertragung von hoheitlichen und anderen bedeutenden öffentlichen Aufgaben an Trägerschaften ausserhalb der kantonalen Verwaltung.
 
 <sup>3</sup> Die Gültigkeit der Gesetze kann befristet werden. Vor der Verlängerung sind die Gesetze auf ihre Wirksamkeit zu prüfen.
@@ -371,7 +372,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 **Aufsicht und Oberaufsicht**
 
-<sup>1</sup> Der Grosse Rat übt die Aufsicht über die Regierung sowie das Kantonsgericht und das Verwaltungsgericht aus.
+<sup>1</sup> Der Grosse Rat übt die Aufsicht über die Regierung sowie das Obergericht und das Justizgericht aus.
 
 <sup>2</sup> Ihm obliegt die Oberaufsicht über die Verwaltung, die anderen Zweige der Rechtspflege und über andere Träger öffentlicher Aufgaben.
 
@@ -530,29 +531,31 @@ geben uns folgende Verfassung[^ingress-1]:
 
 <sup>1</sup> Der Kanton kann die Erfüllung von öffentlichen Aufgaben Trägern ausserhalb der kantonalen Verwaltung übertragen.
 
-<sup>2</sup> Die Aufsicht durch die Regierung, eine angemessene Mitwirkung des Grossen Rates und der Rechtsschutz müssen sichergestellt sein.
+<sup>2</sup> Eine hinreichende Aufsicht, eine angemessene Mitwirkung des Grossen Rates und der Rechtsschutz müssen sichergestellt sein.
 
 <sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können selbständige Anstalten des kantonalen öffentlichen Rechts Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
 
-### 4.4. Gerichte
+### 4.4. Richterliche Behörden
 
 #### Art. 51
 
 **Unabhängigkeit und Unparteilichkeit**
 
-<sup>1</sup> Die Unabhängigkeit und die Unparteilichkeit der Gerichte sind gewährleistet. Die Gerichte sind in ihrer Rechtsprechung nur dem Recht verpflichtet.
+<sup>1</sup> Die Unabhängigkeit und die Unparteilichkeit der richterlichen Behörden sind gewährleistet. Die richterlichen Behörden sind in ihrer Rechtsprechung nur dem Recht verpflichtet.
 
-<sup>2</sup> Die Justizverwaltung ist unter Vorbehalt der Befugnisse des Grossen Rates Sache der Gerichte.
+<sup>2</sup> Die Justizverwaltung ist unter Vorbehalt der Befugnisse des Grossen Rates Sache der richterlichen Behörden.
 
-<sup>3</sup> Richterinnen und Richter dürfen Parteien nicht in streitigen Verfahren vor der eigenen Instanz vertreten.
+<sup>3</sup> …
 
-<sup>4</sup> Vollamtlichen Mitgliedern einer richterlichen Behörde ist jede Nebenbeschäftigung untersagt. Das Gesetz kann Ausnahmen vorsehen.
+<sup>4</sup> …
 
 #### Art. 51a
 
 **Finanzen, Mitwirkung im Grossen Rat und Rechtsetzung**
 
 <sup>1</sup> Das Obergericht unterbreitet dem Grossen Rat den Entwurf für das Budget sowie die Rechnung und den Geschäftsbericht zur Genehmigung.
+
+<sup>1<sup>bis</sup></sup> Es kann an den Grossen Rat gelangen, um die Justizverwaltung betreffende Verfassungs- und Gesetzesänderungen anzuregen.
 
 <sup>2</sup> Die Präsidentin oder der Präsident des Obergerichts nimmt an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zum Geschäftsbericht sowie zu den vom Obergericht angeregten Rechtsetzungsvorhaben teil. Sie oder er hat beratende Stimme und kann Anträge stellen.
 
@@ -562,11 +565,11 @@ geben uns folgende Verfassung[^ingress-1]:
 
 **Justizaufsicht**
 
-<sup>1</sup> Das Kantonsgericht übt die Aufsicht über alle Bereiche der Zivil- und Strafrechtspflege aus.
+<sup>1</sup> Das Obergericht übt die Aufsicht über die Zivil-, die Straf- und die Verwaltungsrechtspflege aus, soweit diese den richterlichen Behörden obliegen. Dem Obergericht können weitere Aufsichtsaufgaben durch Gesetz zugewiesen werden.
 
-<sup>2</sup> Der Grosse Rat übt die Aufsicht über das Kantonsgericht und das Verwaltungsgericht sowie die Oberaufsicht über die anderen Zweige der Rechtspflege aus.
+<sup>2</sup> Der Grosse Rat übt die Aufsicht über das Obergericht und das Justizgericht sowie die Oberaufsicht über die vom Obergericht beaufsichtigten Behörden aus.
 
-<sup>3</sup> Aufsicht und Oberaufsicht beschränken sich auf die Geschäftsführung und die Justizverwaltung.
+<sup>3</sup> Aufsicht und Oberaufsicht gegenüber den richterlichen Behörden beschränken sich auf die Justizverwaltung.
 
 #### Art. 53
 
@@ -580,17 +583,23 @@ geben uns folgende Verfassung[^ingress-1]:
 
 <sup>1</sup> Die Zivil- und die Strafgerichtsbarkeit werden ausgeübt durch:
 
-- 1\. das Kantonsgericht;
-- 2\. die Regionalgerichte als untere kantonale Gerichte.
+- 1\. das Obergericht;
+- 2\. die Regionalgerichte als untere kantonale Gerichte;
 - 3\. …
+- 4\. das kantonale Zwangsmassnahmengericht;
+- 5\. die Schlichtungsbehörden.
 
 #### Art. 55
 
 **Verfassungs- und Verwaltungsgerichtsbarkeit**
 
-<sup>1</sup> Die letztinstanzliche Beurteilung von öffentlichrechtlichen Streitigkeiten obliegt dem Verwaltungsgericht, sofern nicht ein Gesetz etwas anderes bestimmt.
+<sup>1</sup> Die Verwaltungsgerichtsbarkeit wird ausgeübt durch:
 
-<sup>2</sup> Das Verwaltungsgericht beurteilt als Verfassungsgericht:
+- 1\. das Obergericht;
+- 2\. das Justizgericht;
+- 3\. weitere Spezialverwaltungsgerichte.
+
+<sup>2</sup> Das Obergericht beurteilt als Verfassungsgericht:
 
 - 1\. Beschwerden wegen Verletzung von verfassungsmässigen und politischen Rechten sowie des Grundsatzes des Vorrangs von übergeordnetem Recht;
 - 2\. Beschwerden wegen Verletzung der Autonomie der Gemeinden und anderer öffentlichrechtlicher Körperschaften sowie der Landeskirchen.

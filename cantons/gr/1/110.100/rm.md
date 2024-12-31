@@ -3,20 +3,19 @@ canton: GR
 number: "110.100"
 title: Constituziun dal chantun Grischun
 language: rm
-version: 2024-07-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3369/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Constituziun dal chantun Grischun
 
-dals 14-09-2003 (versiun dals 01-07-2024)
+dals 14-09-2003 (versiun dals 01-01-2025)
 
 Nus, il pievel dal chantun Grischun,
 
@@ -171,7 +170,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 <sup>2</sup> Ella po vegnir declerada per parzialmain nunvalaivla, sche la voluntad da las iniziantas e dals iniziants na vegn betg sfalsifitgada tras quai e sch'ina unitad raschunaivla resorta dal project.
 
-<sup>3</sup> Davart la nunvalaivladad decida il cussegl grond. Cunter questa decisiun po vegnir recurrì tar la dretgira administrativa.
+<sup>3</sup> Davart la nunvalaivladad decida il Cussegl grond. Cunter questa decisiun po vegnir recurrì tar la Dretgira superiura.
 
 #### Art. 15
 
@@ -240,7 +239,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 <sup>2</sup> Ellas pon vegnir sustegnidas dal chantun, premess che lur finamiras e che lur organisaziun correspundian als princips democratics ed als princips dal stadi da dretg.
 
-## 4. Autoritads e dretgiras
+## 4. Autoritads chantunalas
 
 ### 4.1. En general
 
@@ -248,23 +247,25 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 **Elegibladad**
 
-<sup>1</sup> En las autoritads ed en las dretgiras chantunalas sco er en il cussegl dals chantuns èn elegiblas las persunas cun dretg da votar en il chantun. La lescha po prevair che la premissa d'elegibladad stoppia esser ademplida pir il mument da l'entrada en uffizi.
+<sup>1</sup> En las autoritads chantunalas sco er en il Cussegl dals chantuns èn elegiblas las persunas cun dretg da votar en il chantun. La lescha po prevair che la premissa d'elegibladad stoppia esser ademplida pir il mument da l'entrada en uffizi.
 
-<sup>2</sup> Ulteriuras premissas d'elegibladad per las autoritads e per las dretgiras chantunalas sco er las cundiziuns d'engaschament dal persunal chantunal vegnan regladas en la lescha.
+<sup>1<sup>bis</sup></sup> Per las commembras ed ils commembers da las autoritads giudizialas po la lescha desister da la necessitad da domicil sco premissa d'elegibladad.
 
-<sup>3</sup> La lescha regla la suspensiun da l'uffizi e la destituziun da l'uffizi dals commembers d'autoritads e da dretgiras.
+<sup>2</sup> Ulteriuras premissas d'elegibladad per las commembras ed ils commembers d'autoritads chantunalas sco er las cundiziuns d'engaschament dal persunal chantunal vegnan regladas en la lescha.
+
+<sup>3</sup> La lescha regla la suspensiun da l'uffizi e la destituziun da l'uffizi da las commembras e dals commembers d'autoritads chantunalas.
 
 #### Art. 22
 
 **Incumpatibilitads**
 
-<sup>1</sup> Nagin na po appartegnair a sia autoritad directa da surveglianza.
+<sup>1</sup> Nagin na po appartegnair a sia autoritad chantunala da meds legals u a sia autoritad directa da surveglianza. La lescha po prevair excepziuns.
 
 <sup>2</sup> Commembras e commembers da la regenza e da las autoritads giudizialas sco er il persunal chantunal en uffizi cumplain e principal na pon betg appartegnair al cussegl grond.
 
-<sup>3</sup> Derschadras e derschaders na pon betg appartegnair il medem mument a la regenza u ad in'autra autoritad giudiziala en il chantun.
+<sup>3</sup> Derschadras e derschaders na pon betg appartegnair a la Regenza.
 
-<sup>4</sup> Las commembras ed ils commembers da la regenza sco er las commembras ed ils commembers en uffizi cumplain d'ina autoritad giudiziala na pon betg appartegnair a l'assamblea federala u al tribunal federal.
+<sup>4</sup> Las commembras ed ils commembers da la Regenza sco er las commembras ed ils commembers da las autoritads giudizialas, che lavuran en in pensum cumplain, na pon betg appartegnair a l'Assamblea federala u al Tribunal federal.
 
 <sup>5</sup> La lescha regla ulteriurs cas d'incumpatibilitad d'uffizis e d'incumbensas, l'exclusiun da parentas e da parents sco er las excepziuns.
 
@@ -272,7 +273,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 **Perioda d'uffizi**
 
-<sup>1</sup> La perioda d'uffizi dal cussegl grond, da la regenza, da las dretgiras sco er da las commembras e dals commembers dal cussegl dals chantuns munta a quatter onns.
+<sup>1</sup> La perioda d'uffizi dal Cussegl grond, da la Regenza, da las commembras e dals commembers ordinaris da las autoritads giudizialas sco er da las commembras e dals commembers dal Cussegl dals chantuns munta a quatter onns.
 
 #### Art. 24
 
@@ -350,7 +351,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 - 2\. il circul da las contribuentas e dals contribuents, l'object e la basa da calculaziun da las taxas, uschenavant che quellas n'èn betg da natira irrelevanta;
 - 3\. l'intent, il cuntegn e la dimensiun da prestaziuns statalas impurtantas;
 - 4\. ils princips da la repartiziun da las incumbensas tranter il chantun e las vischnancas;
-- 5\. ils princips da l'organisaziun e da las incumbensas da las autoritads e da las dretgiras;
+- 5\. ils princips da l'organisaziun e da las incumbensas da las autoritads chantunalas;
 - 6\. il gener e la dimensiun dal transferiment d'incumbensas suveranas e d'autras incumbensas publicas impurtantas a purtadras ed a purtaders ordaifer l'administraziun chantunala.
 
 <sup>3</sup> La valaivladad da las leschas po vegnir limitada. Avant che prolungar sto vegnir examinada l'efficacitad da las leschas.
@@ -369,7 +370,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 **Surveglianza e surveglianza suprema**
 
-<sup>1</sup> Il cussegl grond ha la surveglianza da la regenza sco er da la dretgira chantunala e da la dretgira administrativa.
+<sup>1</sup> Il Cussegl grond ha la surveglianza da la Regenza sco er da la Dretgira superiura e da la Dretgira da giustia.
 
 <sup>2</sup> El è responsabel per la surveglianza suprema da l'administraziun, dals ulteriurs secturs da la giurisdicziun sco er d'autras purtadras e d'auters purtaders d'incumbensas publicas.
 
@@ -528,29 +529,31 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 <sup>1</sup> Il chantun po delegar l'adempliment d'incumbensas publicas a purtadras ed a purtaders ordaifer l'administraziun chantunala.
 
-<sup>2</sup> La surveglianza tras la regenza, ina cooperaziun commensurada dal cussegl grond e la protecziun legala ston esser garantidas.
+<sup>2</sup> Ina surveglianza suffizienta, ina cooperaziun commensurada dal Cussegl grond e la protecziun legala ston esser garantidas.
 
 <sup>3</sup> Uschenavant che la furma da la lescha n'è betg prescritta, pon instituts autonoms dal dretg public chantunal relaschar ordinaziuns, sch'els vegnan autorisads explicitamain da la lescha da far quai.
 
-### 4.4. Dretgiras
+### 4.4. Autoritads giudizialas
 
 #### Art. 51
 
 **Independenza ed imparzialitad**
 
-<sup>1</sup> L'independenza e l'imparzialitad da las dretgiras èn garantidas. En lur giurisdicziun èn las dretgiras obligadas mo al dretg.
+<sup>1</sup> L'independenza e l'imparzialitad da las autoritads giudizialas èn garantidas. En lur giurisdicziun èn las autoritads giudizialas obligadas mo al dretg.
 
-<sup>2</sup> L'administraziun giudiziala è, cun resalva da las cumpetenzas dal cussegl grond, chaussa da las dretgiras.
+<sup>2</sup> L'administraziun giudiziala è, cun resalva da las cumpetenzas dal Cussegl grond, chaussa da las autoritads giudizialas.
 
-<sup>3</sup> En proceduras dispitaivlas na dastgan derschadras e derschaders betg represchentar partidas davant l'atgna instanza.
+<sup>3</sup> …
 
-<sup>4</sup> A commembras ed a commembers en uffizi cumplain d'ina autoritad giudiziala è scumandada tutta occupaziun accessorica. La lescha po prevair excepziuns.
+<sup>4</sup> …
 
 #### Art. 51a
 
 **Finanzas, cooperaziun en il cussegl grond e legislaziun**
 
 <sup>1</sup> La Dretgira superiura suttametta al Cussegl grond il sboz per il preventiv sco er il quint ed il rapport da gestiun per l'approvaziun.
+
+<sup>1<sup>bis</sup></sup> Ella po sa drizzar al Cussegl grond per proponer midadas constituziunalas e midadas da lescha che pertutgan l'administraziun giudiziala.
 
 <sup>2</sup> La presidenta u il president da la Dretgira superiura prenda part da las sesidas dal Cussegl grond davart il preventiv, davart il quint e davart il rapport da gestiun sco er davart ils projects legislativs proponids da la Dretgira superiura. Ella u el ha vusch consultativa e po far propostas.
 
@@ -560,11 +563,11 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 **Surveglianza da la giustia**
 
-<sup>1</sup> La dretgira chantunala ha la surveglianza da tut ils secturs da la giurisdicziun civila e penala.
+<sup>1</sup> La Dretgira superiura ha la surveglianza da la giurisdicziun civila, penala ed administrativa, uschenavant che quella è chaussa da las autoritads giudizialas. A la Dretgira superiura pon vegnir attribuidas tras la lescha ulteriuras incumbensas da surveglianza.
 
-<sup>2</sup> Il cussegl grond ha la surveglianza da la dretgira chantunala e da la dretgira administrativa sco er la surveglianza suprema dals ulteriurs secturs da la giurisdicziun.
+<sup>2</sup> Il Cussegl grond ha la surveglianza da la Dretgira superiura e da la Dretgira da giustia sco er la surveglianza suprema da las autoritads che vegnan survegliadas da la Dretgira superiura.
 
-<sup>3</sup> La surveglianza e la surveglianza suprema sa restrenschan sin la gestiun e sin l'administraziun giudiziala.
+<sup>3</sup> La surveglianza e la surveglianza suprema da las autoritads giudizialas sa restrenschan a l'administraziun giudiziala.
 
 #### Art. 53
 
@@ -578,17 +581,23 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 <sup>1</sup> La giurisdicziun civila e penala vegn exequida da:
 
-- 1\. la dretgira chantunala;
-- 2\. las dretgiras regiunalas sco dretgiras chantunalas inferiuras.
+- 1\. la Dretgira superiura;
+- 2\. las dretgiras regiunalas sco dretgiras chantunalas inferiuras;
 - 3\. …
+- 4\. la Dretgira chantunala da mesiras repressivas;
+- 5\. las autoritads da mediaziun.
 
 #### Art. 55
 
 **Giurisdicziun constituziunala ed administrativa**
 
-<sup>1</sup> La dretgira administrativa ha l'incumbensa da giuditgar en ultima instanza dispitas da dretg public, uschenavant ch'ina lescha na dispona betg autramain.
+<sup>1</sup> La giurisdicziun administrativa vegn exequida da:
 
-<sup>2</sup> La dretgira administrativa giuditgescha sco dretgira constituziunala:
+- 1\. la Dretgira superiura;
+- 2\. la Dretgira da giustia;
+- 3\. ulteriuras dretgiras administrativas spezialas.
+
+<sup>2</sup> La Dretgira superiura giuditgescha sco dretgira constituziunala:
 
 - 1\. recurs pervia da violaziun da dretgs constituziunals e politics sco er dal princip da la precedenza dal dretg surordinà;
 - 2\. recurs pervia da violaziun da l'autonomia da las vischnancas e d'autras corporaziuns da dretg public sco er da las baselgias chantunalas.

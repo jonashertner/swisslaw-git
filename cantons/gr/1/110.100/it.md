@@ -3,20 +3,19 @@ canton: GR
 number: "110.100"
 title: Costituzione del Cantone dei Grigioni
 language: it
-version: 2024-07-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3369/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3370/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Costituzione del Cantone dei Grigioni
 
-del 14.09.2003 (stato 01.07.2024)
+del 14.09.2003 (stato 01.01.2025)
 
 Noi, Popolo del Cantone dei Grigioni,
 
@@ -171,7 +170,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 <sup>2</sup> Una dichiarazione di nullità parziale è possibile solo se la volontà delle promotrici e dei promotori non viene in tal modo alterata e se la proposta rimane sensata nel suo insieme.
 
-<sup>3</sup> Il Gran Consiglio decide in merito alla nullità. Il relativo decreto può essere impugnato dinanzi al Tribunale amministrativo.
+<sup>3</sup> Il Gran Consiglio decide in merito alla nullità. Il relativo decreto può essere impugnato dinanzi al Tribunale d'appello.
 
 #### Art. 15
 
@@ -240,7 +239,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 <sup>2</sup> A tale scopo essi possono essere sostenuti dal Cantone e dai comuni, se nei loro obiettivi e nella loro organizzazione rispecchiano i principi democratici e dello Stato di diritto.
 
-## 4. Autorità e tribunali
+## 4. Autorità cantonali
 
 ### 4.1. Disposizioni generali
 
@@ -248,23 +247,25 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 **Eleggibilità**
 
-<sup>1</sup> Può essere eletto nelle autorità e nei tribunali cantonali nonché nel Consiglio degli Stati chiunque abbia diritto di voto nel Cantone. La legge può prevedere che il requisito di eleggibilità debba essere soddisfatto soltanto al momento dell'assunzione della carica.
+<sup>1</sup> Può essere eletto nelle autorità cantonali nonché nel Consiglio degli Stati chiunque abbia diritto di voto nel Cantone. La legge può prevedere che il requisito di eleggibilità debba essere soddisfatto soltanto al momento dell'assunzione della carica.
 
-<sup>2</sup> Altri requisiti di eleggibilità per le autorità e i tribunali cantonali nonché le condizioni di assunzione del personale statale sono disciplinati tramite legge.
+<sup>1<sup>bis</sup></sup> Nella legge è possibile prescindere dal requisito del domicilio quale requisito di eleggibilità per i membri delle autorità giudiziarie.
 
-<sup>3</sup> La legge disciplina la sospensione e la destituzione di membri di autorità e tribunali.
+<sup>2</sup> Altri requisiti di eleggibilità per i membri di autorità cantonali nonché le condizioni di assunzione del personale statale sono disciplinati tramite legge.
+
+<sup>3</sup> La legge disciplina la sospensione e la destituzione di membri di autorità cantonali.
 
 #### Art. 22
 
 **Incompatibilità**
 
-<sup>1</sup> Nessuno può rivestire una carica in seno alla propria diretta autorità di vigilanza.
+<sup>1</sup> Nessuno può rivestire una carica in seno alla propria autorità di impugnazione cantonale o alla propria autorità di vigilanza diretta. La legge può prevedere delle deroghe.
 
 <sup>2</sup> I membri del Governo e delle autorità giudiziarie nonché il personale cantonale impiegato a tempo pieno e a titolo principale non possono essere membri del Gran Consiglio.
 
-<sup>3</sup> Una o un giudice non può essere contemporaneamente membro del Governo o di un'altra autorità giudiziaria nel Cantone.
+<sup>3</sup> Una o un giudice non può essere membro del Governo.
 
-<sup>4</sup> I membri del Governo e i membri a tempo pieno di un'autorità giudiziaria non possono essere eletti nell'Assemblea federale o nel Tribunale federale.
+<sup>4</sup> I membri del Governo e i membri delle autorità giudiziarie impiegati a tempo pieno non possono essere eletti nell'Assemblea federale o nel Tribunale federale.
 
 <sup>5</sup> La legge disciplina altri casi di incompatibilità relativi a cariche e compiti, regola l'esclusione per legami di parentela nonché le eccezioni.
 
@@ -272,7 +273,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 **Durata del mandato**
 
-<sup>1</sup> I membri del Gran Consiglio, del Governo, dei tribunali e del Consiglio degli Stati sono eletti per una durata di quattro anni.
+<sup>1</sup> I membri del Gran Consiglio e del Governo, i membri ordinari delle autorità giudiziarie nonché i membri del Consiglio degli Stati sono eletti per una durata di quattro anni.
 
 #### Art. 24
 
@@ -350,7 +351,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 - 2\. la cerchia delle e dei contribuenti, l'oggetto e le basi di calcolo dei tributi, per quanto essi non siano di natura irrisoria;
 - 3\. lo scopo, il contenuto e l'entità di importanti prestazioni statali;
 - 4\. i principi della suddivisione dei compiti tra Cantone e comuni;
-- 5\. i principi relativi all'organizzazione e ai compiti delle autorità e dei tribunali;
+- 5\. i principi relativi all'organizzazione e ai compiti delle autorità cantonali;
 - 6\. il tipo e l'ampiezza della delega di compiti derivanti dalla sovranità e di altri importanti compiti pubblici a enti esterni all'Amministrazione cantonale.
 
 <sup>3</sup> La validità delle leggi può essere limitata. Prima di essere prorogate, le leggi vanno esaminate circa la loro efficacia.
@@ -369,7 +370,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 **Vigilanza e alta vigilanza**
 
-<sup>1</sup> Il Gran Consiglio esercita la vigilanza sul Governo nonché sul Tribunale cantonale e sul Tribunale amministrativo.
+<sup>1</sup> Il Gran Consiglio esercita la vigilanza sul Governo nonché sul Tribunale d'appello e sul Tribunale della magistratura.
 
 <sup>2</sup> Gli compete l'alta vigilanza sull'Amministrazione, sugli altri settori della giustizia e su altri enti che svolgono compiti pubblici.
 
@@ -528,29 +529,31 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 <sup>1</sup> Il Cantone può affidare compiti pubblici a enti esterni all'Amministrazione cantonale.
 
-<sup>2</sup> Devono essere garantiti la vigilanza da parte del Governo, una cooperazione appropriata del Gran Consiglio e l'accesso ai rimedi giuridici.
+<sup>2</sup> Devono essere garantite una vigilanza sufficiente, una cooperazione appropriata del Gran Consiglio e la protezione giuridica.
 
 <sup>3</sup> Qualora non sia prescritto un atto legislativo sotto forma di legge, gli istituti autonomi di diritto pubblico cantonale possono emanare ordinanze, nella misura in cui vi siano espressamente autorizzati dalla legge.
 
-### 4.4. Tribunali
+### 4.4. Autorità giudiziarie
 
 #### Art. 51
 
 **Indipendenza e imparzialità**
 
-<sup>1</sup> Sono garantite l'indipendenza e l'imparzialità dei tribunali. Nella loro giurisprudenza i tribunali sono vincolati unicamente al diritto.
+<sup>1</sup> Sono garantite l'indipendenza e l'imparzialità delle autorità giudiziarie. Nella loro giurisprudenza le autorità giudiziarie sono vincolate unicamente al diritto.
 
-<sup>2</sup> Riservata la competenza del Gran Consiglio, l'amministrazione della giustizia compete ai tribunali.
+<sup>2</sup> Fatte salve le competenze del Gran Consiglio, l'amministrazione della giustizia compete alle autorità giudiziarie.
 
-<sup>3</sup> Le ed i giudici non possono rappresentare dinanzi alla propria autorità le parti coinvolte in procedure contenziose.
+<sup>3</sup> …
 
-<sup>4</sup> Ai membri di un'autorità giudiziaria impiegati a tempo pieno è vietato esercitare un'attività accessoria. La legge può prevedere delle deroghe.
+<sup>4</sup> …
 
 #### Art. 51a
 
 **Finanze, cooperazione in Gran Consiglio e legislazione**
 
 <sup>1</sup> Il Tribunale d'appello sottopone al Gran Consiglio per approvazione il progetto di preventivo, nonché il conto annuale e il rapporto di gestione.
+
+<sup>1<sup>bis</sup></sup> Esso può rivolgersi al Gran Consiglio per proporre modifiche della Costituzione e di leggi concernenti l'amministrazione della giustizia.
 
 <sup>2</sup> La o il presidente del Tribunale d'appello prende parte alle sedute del Gran Consiglio sul preventivo, sul conto annuale e sul rapporto di gestione nonché su progetti normativi proposti dal Tribunale d'appello. La o il presidente ha voto consultivo e può presentare proposte.
 
@@ -560,11 +563,11 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 **Vigilanza sulla giustizia**
 
-<sup>1</sup> Il Tribunale cantonale esercita la vigilanza su tutti i settori della giustizia civile e penale.
+<sup>1</sup> Il Tribunale d'appello esercita la vigilanza sulla giustizia civile, sulla giustizia penale e sulla giustizia amministrativa, nella misura in cui queste competano alle autorità giudiziarie. La legge può attribuire ulteriori compiti di vigilanza al Tribunale d'appello.
 
-<sup>2</sup> Il Gran Consiglio esercita la vigilanza sul Tribunale cantonale, sul Tribunale amministrativo come pure l'alta vigilanza sugli altri settori della giustizia.
+<sup>2</sup> Il Gran Consiglio esercita la vigilanza sul Tribunale d'appello e sul Tribunale della magistratura nonché l'alta vigilanza sulle autorità soggette alla vigilanza del Tribunale d'appello.
 
-<sup>3</sup> La vigilanza e l'alta vigilanza si limitano alla gestione delle pratiche e all'amministrazione della giustizia.
+<sup>3</sup> La vigilanza e l'alta vigilanza sulle autorità giudiziarie si limitano all'amministrazione della giustizia.
 
 #### Art. 53
 
@@ -578,17 +581,23 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 <sup>1</sup> La giurisdizione civile e penale è esercitata:
 
-- 1\. dal Tribunale cantonale;
+- 1\. dal Tribunale d'appello;
 - 2\. dai tribunali regionali quali tribunali cantonali inferiori;
 - 3\. …
+- 4\. dal giudice cantonale dei provvedimenti coercitivi;
+- 5\. dalle autorità di conciliazione.
 
 #### Art. 55
 
 **Giurisdizione costituzionale e amministrativa**
 
-<sup>1</sup> Il giudizio in ultima istanza di controversie di diritto pubblico spetta al Tribunale amministrativo, per quanto la legge non disponga altrimenti.
+<sup>1</sup> La giurisdizione amministrativa viene esercitata:
 
-<sup>2</sup> In veste di corte costituzionale, il Tribunale amministrativo giudica:
+- 1\. dal Tribunale d'appello;
+- 2\. dal Tribunale della magistratura;
+- 3\. da altri tribunali amministrativi speciali.
+
+<sup>2</sup> In veste di corte costituzionale, il Tribunale d'appello giudica:
 
 - 1\. i ricorsi per violazione di diritti costituzionali e politici nonché per violazione del principio della preminenza del diritto di rango superiore;
 - 2\. i ricorsi per violazione dell'autonomia dei comuni e di altri enti di diritto pubblico, nonché delle Chiese riconosciute dallo Stato.
