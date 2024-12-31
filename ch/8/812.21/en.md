@@ -4,11 +4,11 @@ title: "Federal Act of 15 December 2000 on Medicinal Products and Medical Device
 short: TPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20240101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20250101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Therapeutic Products Act, TPA)
 
-of 15 December 2000 (Status as of 1 January 2024)
+of 15 December 2000 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Articles 95 paragraph 1 and 118 paragraph 2 of the Federal Constitution
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: BBl **1999** 3453
 
 ## Chapter 1 General Provisions
@@ -71,7 +71,7 @@ This Act applies to:
 <sup>3</sup> It may make subject to this Act certain products without an intended medical purpose which are comparable to medical devices in terms of functioning and risks profile.[^2-3]
 
 [^2-1]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^2-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^2-2]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 [^2-3]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 2a
@@ -85,7 +85,7 @@ This Act applies to:
 <sup>3</sup> Human tissue or human cells may only be removed or used for the manufacture of products as specified in paragraphs 1 and 2 if consent has been obtained for removal. For this tissue and these cells, neither financial gain nor any other advantage may be offered, granted, demanded or accepted.
 
 [^2a-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^2a-2]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^2a-2]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 #### Art. 3
 
@@ -105,7 +105,7 @@ This Act applies to:
 
 In this Act:
 
-- a. *Medicinal products* means products of chemical or biological origin which are intended or claimed to have a medicinal effect on the human or animal organism, in particular in the diagnosis, prevention or treatment of diseases, injuries and handicaps; blood and blood products are also considered to be medicinal products;
+- *Medicinal products* means products of chemical or biological origin which are intended or claimed to have a medicinal effect on the human or animal organism, in particular in the diagnosis, prevention or treatment of diseases, injuries and handicaps; blood and blood products are also considered to be medicinal products;
 - a<sup>bis</sup>.[^4-1] *Medicinal products with indications* means medicinal products with an officially authorised indication in a specific field of application which are intended for use in accordance with the rules of the medical and pharmaceutical sciences;
 - a<sup>ter</sup>.[^4-2] *Complementary medicines with indications* means medicinal products with an officially authorised indication in a specific field of application which are manufactured according to the manufacturing regulations for complementary therapies such as homeopathy, anthroposophic medicine or traditional Asian medicine and whose field of application is determined according to the principles of the corresponding therapy approach;
 - [tab] a<sup>quater</sup>.[^4-3] *Complementary medicines without indications* means complementary medicines without an officially authorised indication in a specific field of application which are intended for use in individual therapies;
@@ -519,7 +519,7 @@ The following may be placed on the market following notification to the Agency:
 
 The marketing authorisation is issued for the first time for a period of five years. The Agency shall order a shorter period of authorisation if:
 
-- a. the authorisations are limited in accordance with Article 9*a*; or
+- the authorisations are limited in accordance with Article 9*a*; or
 - b. this is necessary for the protection of health.[^16-2]
 
 <sup>3</sup> The authorisation of medicinal products on the basis of a notification shall be valid for an unlimited period.[^16-3]
@@ -553,7 +553,7 @@ The Agency shall revoke the authorisation for a medicinal product if:
 [^16a-1]: Inserted by No 1 of the FA of 13 June 2008, in force since 1 Oct. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^16a-2]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16a-3]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16a-4]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^16a-4]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^16a-5]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16a-6]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -895,7 +895,7 @@ Advertising directed at the general public shall be deemed unlawful for medicina
 - d. are frequently the object of abuse or which lead to an addiction or dependence.
 
 [^32-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^32-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^32-2]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 33
 
@@ -905,11 +905,27 @@ Advertising directed at the general public shall be deemed unlawful for medicina
 
 ### Section 6 Special Provisions on Blood and Blood Products
 
+#### Art. 33a
+
+**Ban on payment for blood donations**[^33a-1]
+
+<sup>1</sup> It is prohibited to offer, grant, claim or accept a financial gain or other advantage in exchange for a human blood donation.
+
+<sup>2</sup>
+
+The following are not regarded as a financial gain or other advantage:
+
+- a. compensation for any loss of earnings or expenses directly incurred by the donor;
+- b. damages for any injury sustained by the donor as a result of the blood donation;
+- c. a subsequent symbolic gesture of gratitude.
+
+[^33a-1]: Inserted by No I of the FA of 29 Sept. 2023 (Amendments to the Provisions on Blood Donation), in force since 1 Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
+
 #### Art. 34
 
 **Operating licence**
 
-<sup>1</sup> Anyone drawing blood from persons for the purpose of transfusion or the manufacture of therapeutic products or for supply to a third party must possess an operating licence issued by the Agency.
+<sup>1</sup> Any person drawing blood from persons for the purpose of transfusion or the manufacture of therapeutic products or for supply to a third party must possess an operating licence issued by the Agency.
 
 <sup>2</sup>
 
@@ -928,7 +944,11 @@ The licence shall be issued if:
 
 <sup>1</sup> An import licence is required for each individual batch of imported blood and blood products. Storage in a customs warehouse shall be deemed to be importing.
 
+<sup>1bis</sup> Blood and labile blood products imported for transfusions must meet the requirements of the ban on payment for blood donations specified in Article 33*a*.[^35-1]
+
 <sup>2</sup> The Federal Council may make provision for exemptions from an import licence if all danger to persons is excluded.
+
+[^35-1]: Inserted by No I of the FA of 29 Sept. 2023 (Amendments to the Provisions on Blood Donation), in force since 1 Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 36
 
@@ -943,7 +963,11 @@ Persons excluded from donating blood shall be those:
 - a. whose health could suffer from the extraction of blood;
 - b. whose blood may transmit pathogens.
 
+<sup>2bis</sup> The exclusion criteria must not discriminate against anyone. Insofar as the criteria are linked to the risk behaviour of persons who are willing to donate, they shall relate to individual behaviour and must be scientifically justified.[^36-1]
+
 <sup>3</sup> The Federal Council shall lay down the requirements relating to the donor’s fitness to give blood, the competence to establish this fitness and the data which must be recorded at the time of the blood donation.
+
+[^36-1]: Inserted by No I of the FA of 29 Sept. 2023 (Amendments to the Provisions on Blood Donation), in force since 1 Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 37
 
@@ -1025,9 +1049,11 @@ The Federal Council shall regulate the details. In particular, it may:
 
 #### Art. 41
 
-**Further regulations**
+**Further safety provisions[^41-1]**
 
 The Federal Council may prescribe additional safety precautions; in particular it may determine that the procedures for the removal or the inactivation of possible pathogens may only be applied after the Agency has given authorisation.
+
+[^41-1]: Amended by No I of the FA of 29 Sept. 2023 (Amendments to the Provisions on Blood Donation), in force since 1 Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 ### Section 7 Special Provisions on Veterinary Medicinal Products
 
@@ -1259,7 +1285,7 @@ The Federal Council may:
 
 <sup>2</sup> If another state requests export certificates and attestations for medical devices which are to be imported, the Agency may, on request, issue these documents to the manufacturer or to the authorised representative with a registered office in Switzerland.[^50-1]
 
-<sup>3</sup> Anyone exporting a medical device to a state with which Switzerland has concluded an agreement under international law for the mutual recognition of conformity assessments and procedures for medical devices must be able to demonstrate that the fundamental requirements referred to in Article 45 paragraph 2 are fulfilled.[^50-2]
+<sup>3</sup> Any person exporting a medical device to a state with which Switzerland has concluded an agreement under international law for the mutual recognition of conformity assessments and procedures for medical devices must be able to demonstrate that the fundamental requirements referred to in Article 45 paragraph 2 are fulfilled.[^50-2]
 
 [^50-1]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^50-2]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
@@ -1293,7 +1319,7 @@ The Federal Council may, in order to protect health and prevent fraud, restrict 
 For clinical trials of therapeutic products in humans, the Human Research Act of 30 September 2011[^53-2] applies in addition to the provisions of this Act.
 
 [^53-1]: Amended by Annex No 6 of the Human Research Act of 30 Sept. 2011, in force since 1 Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
-[^53-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^53-2]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 #### Art. 54
 
@@ -1307,7 +1333,7 @@ For clinical trials of therapeutic products in humans, the Human Research Act of
 
 The Federal Council may:
 
-- a. for other trials, grant an exemption from mandatory authorisation or specify mandatory notification;
+- for other trials, grant an exemption from mandatory authorisation or specify mandatory notification;
 - b. for clinical trials of veterinary therapeutic products, specify mandatory authorisation or notification;
 - c.[^54-3] make modifications to clinical trials subject to mandatory authorisation.
 
@@ -1315,8 +1341,8 @@ The Federal Council may:
 
 As part of the authorisation procedure, the Agency shall verify:
 
-- a. in the case of medicinal products, whether they comply with the rules of Good Manufacturing Practice and of medicinal product safety;
-- b.
+- in the case of medicinal products, whether they comply with the rules of Good Manufacturing Practice and of medicinal product safety;
+-
 
   in the case of medical devices, whether:
 
@@ -1375,7 +1401,7 @@ The Federal Council may, having regard to recognised international regulations, 
 <sup>3</sup> It shall regulate the notification procedure and the exchange of information. It may stipulate that notification and the exchange of information must be effected electronically.
 
 [^54b-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54b-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^54b-2]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### Section 2*a* Integrity and Transparency
 
@@ -1561,7 +1587,7 @@ The Federal Council shall issue implementing provisions on:
 <sup>2</sup> Personal data relating to patients may not be disclosed.
 
 [^62b-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^62b-3]: Amended by Annex 1 No II 74 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62c
@@ -1704,7 +1730,7 @@ The Antibiotics Information System obtains:
 - a. data from other applications of the joint central information system along the food chain as referred to in Article 64*c* paragraph 2;
 - b. personal data from the Register of Medical Professions in accordance with Articles 51–54 of the Medical Professions Act of 23 June 2006[^64d-1].
 
-[^64d-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^64d-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 64e
 
@@ -1726,7 +1752,7 @@ In order to fulfil their statutory duties, the following authorities or persons 
 - c. livestock holders: data concerning themselves;
 - d. veterinarians and other persons subject to the obligation to report under Article 64*f* letter h: data concerning them and data which they have reported.
 
-[^64e-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^64e-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 64f
 
@@ -1744,7 +1770,7 @@ The Federal Council regulates the following for the Antibiotics Information Syst
 - h. the reporting obligations of persons who market, prescribe, dispense and use antibiotics; livestock holders are exempt from the obligation to report;
 - i. obtaining data on the veterinary profession from the Register of Medical Professions in accordance with Articles 51–54 of the Medical Professions Act of 23 June 2006[^64f-1].
 
-[^64f-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^64f-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 64g
 
@@ -1829,7 +1855,7 @@ The enforcement authorities shall inform the persons concerned at the latest aft
 
 <sup>1</sup> The Agency shall ensure that the public is informed of occurrences specifically relating to therapeutic products which endanger health, and shall issue appropriate recommendations. It shall publish information of general interest about the therapeutic products sector, in particular regarding authorisation and revocation decisions as well as about findings within the framework of market surveillance.[^67-1]
 
-<sup>1</sup> <sup>bis</sup> The professional information contains all the active substances and excipients of a medicinal product.[^67-2]
+<sup>1<sup>bis</sup></sup> The professional information contains all the active substances and excipients of a medicinal product.[^67-2]
 
 <sup>2</sup> The competent federal offices may inform the public on the correct use of therapeutic products for the purpose of protecting health and combating the abuse of such products.
 
@@ -1937,7 +1963,7 @@ The Federal Council:
 [^69-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^69-2]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^69-3]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^69-4]: [SR 0.812.41](https://fedlex.data.admin.ch/eli/cc/2019/87)
+[^69-4]: [SR 0.812.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3470)
 [^69-5]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 
 #### Art. 70
@@ -1987,7 +2013,7 @@ The governing bodies of the Agency are:
 <sup>6</sup> A member of the Agency Council may be removed if they have not fully disclosed their vested interested at the time of the election or if they have not reported changes in their vested interests during their term of office, and if they fail to do so even after being requested to do so by the Federal Office of Home Affairs.
 
 [^71a-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^71a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^71a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 72
 
@@ -2064,7 +2090,7 @@ The Management Board has the following duties:
 <sup>5</sup> It may remove the review body.
 
 [^74-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^74-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^74-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 4 Staff
 
@@ -2081,9 +2107,9 @@ The Management Board has the following duties:
 <sup>4</sup> The Federal Council shall determine the compensation of the members of the Agency Council. Article 6*a* paragraphs 1–5 of the Federal Personnel Act apply to the remuneration of the members of the Agency Council and to the other contractual conditions agreed with these persons.[^75-6]
 
 [^75-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^75-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^75-3]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^75-4]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^75-5]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^75-6]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2102,7 +2128,7 @@ The Management Board has the following duties:
 <sup>5</sup> Any person who has submitted a notification or a report in good faith or who has testified as a witness may not be disadvantaged in their professional status as a consequence.
 
 [^75a-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^75a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^75a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 75b
 
@@ -2254,7 +2280,7 @@ The Agency and its agents shall be liable only if:
 - b. damage is not attributable to a breach of duty by an agent.
 
 [^80-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^80-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^80-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 81
 
@@ -2355,13 +2381,13 @@ The cantons shall carry out the enforcement tasks:
 <sup>3</sup> It is also entitled to appeal against decisions made by the highest cantonal authorities in application of the Human Research Act of 30 September 2011[^84-8] (Art. 89 para. 2 let. a of the Federal Supreme Court Act of 17 June 2005).[^84-9]
 
 [^84-1]: Repealed by Annex No 89 of the Federal Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^84-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^84-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^84-4]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^84-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^84-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^84-4]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^84-5]: Amended by Annex No 89 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^84-6]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^84-7]: Amended by No 1 12 of the Federal Assembly O of 20 Dec. 2006 on the Amendment of Legislation in accordance with the provisions of the Federal Supreme Court Act and the Federal Administrative Court Act, in force since 1 Jan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^84-8]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^84-8]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 [^84-9]: Inserted by Annex No 6 of the Human Research Act of 30 Sept. 2011, in force since 1 Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 
 #### Art. 85
@@ -2382,36 +2408,37 @@ Any person who wilfully:
 
 - a. manufactures, places on the market, uses, prescribes, imports or exports, or trades in a foreign country medicinal products without the required marketing authorisation or licence, or contrary to the due diligence requirements stipulated in Articles 3, 7, 21, 22, 26, 29 and 42;
 - b. uses antibiotic substances contrary to the restrictions or prohibitions laid down in Article 42*a* paragraph 2;
-- c. violates, when handling blood or blood products, the provisions on the fitness of the donor to give blood, on the obligation to test, on the obligation to record or archive or due diligence requirements in accordance with Article 37, or fails to take the necessary protections and safeguards;
-- d.[^86-2] places on the market, exports or uses medical devices which do not satisfy the requirements of this Act, or uses medical devices without the necessary technical or operational requirements being fulfilled;
+- c.[^86-2] violates, when handling blood or blood products, the ban on payment for blood donations, on the fitness of the donor to give blood, on the obligation to test, on the obligation to record or archive or due diligence requirements in accordance with Article 37, or fails to take the necessary protections and safeguards;
+- d.[^86-3] places on the market, exports or uses medical devices which do not satisfy the requirements of this Act, or uses medical devices without the necessary technical or operational requirements being fulfilled;
 - e. violates the due diligence requirement pursuant to Article 48 or the obligation to maintain medical devices;
 - f. performs a clinical trial on a human being which does not satisfy the requirements of this Act, or allows the same to be performed;
 - g. unlawfully copies, falsifies or incorrectly names medicinal products or medical devices, or places on the market, uses, imports or exports, or trades in a foreign country, unlawfully copied, falsified or incorrectly named medicinal products or medical devices;
 - h. violates a prohibition under Article 55.
-- i.[^86-3] places on the market products which do not meet the requirements specified by the Federal Council in accordance with Article 2*a*;
-- j.[^86-4] offers, grants, demands or accepts a financial gain or other advantage for human tissue or human cells or uses such tissues or cells for the manufacture of products as specified in Article 2*a*;
-- k.[^86-5] removes or uses human tissue or human cells for the manufacture of products as specified in Article 2*a* in the absence of consent for removal.
+- i.[^86-4] places on the market products which do not meet the requirements specified by the Federal Council in accordance with Article 2*a*;
+- j.[^86-5] offers, grants, demands or accepts a financial gain or other advantage for human tissue or human cells or uses such tissues or cells for the manufacture of products as specified in Article 2*a*;
+- k.[^86-6] removes or uses human tissue or human cells for the manufacture of products as specified in Article 2*a* in the absence of consent for removal.
 - [tab] shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> shall be liable to a custodial sentence not exceeding ten years or a monetary penalty.[^86-6]
+<sup>2</sup> shall be liable to a custodial sentence not exceeding ten years or a monetary penalty.[^86-7]
 
 Any person who, in the cases referred to in paragraph 1 letters a–g and i–k:
 
 - a. knows or must assume that the violation specifically endangers human health;
 - b. achieves a high turnover or makes substantial profits through commercial activity.
 
-<sup>3</sup> Any person acting as a member of a gang involved in the illicit trade in therapeutic products in the cases referred to in paragraph 1 letters a, c, d, f, g and i–k shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.[^86-7]
+<sup>3</sup> Any person acting as a member of a gang involved in the illicit trade in therapeutic products in the cases referred to in paragraph 1 letters a, c, d, f, g and i–k shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.[^86-8]
 
-<sup>4</sup> If the person concerned acts through negligence, he or she shall be liable to a monetary penalty. In minor cases, a fine may be imposed.[^86-8]
+<sup>4</sup> If the person concerned acts through negligence, he or she shall be liable to a monetary penalty. In minor cases, a fine may be imposed.[^86-9]
 
 [^86-1]: Amended by No I of the FA of 18 March 2016 with the exception of paragraph 1 letter h in force since 1 Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^86-2]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-3]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-2]: Amended by No I of the FA of 29 Sept. 2023 (Amendments to the Provisions on Blood Donation), in force since 1 Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
+[^86-3]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-4]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-5]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-6]: Amended by No I 30 of the FA of 17. Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-6]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-7]: Amended by No I 30 of the FA of 17. Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^86-8]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-8]: Amended by No I 30 of the FA of 17. Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-9]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
 
@@ -2443,7 +2470,7 @@ A fine not exceeding 50,000 Swiss francs shall be imposed on any person who wilf
 [^87-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-2]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-3]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^87-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^87-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^87-5]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-6]: Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169 of 12.7.1993, p. 1; last amended by Directive 2007/47/ECD, OJ L 247 of 21.9.2007, p. 21.
 [^87-7]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -2457,7 +2484,7 @@ A fine not exceeding 50,000 Swiss francs shall be imposed on any person who wilf
 
 The criminal provisions of the Federal Act of 6 October 1995[^88-1] on Technical Barriers to Trade apply to forgeries, to false certificates, to obtaining a false certificate by fraudulent means, to the use of false or inaccurate attestations, to the unauthorised issuing of declarations of conformity, to the unauthorised attachment and use of marks of conformity, and to securing unlawful financial advantages under Articles 23 to 29 of the aforementioned Act.
 
-[^88-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^88-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 89
 
@@ -2468,7 +2495,7 @@ The criminal provisions of the Federal Act of 6 October 1995[^88-1] on Technical
 <sup>2</sup> Articles 6 and 7 of the ACLA apply to criminal proceedings carried out by cantonal authorities.
 
 [^89-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^89-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^89-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 90
 
@@ -2483,9 +2510,9 @@ The criminal provisions of the Federal Act of 6 October 1995[^88-1] on Technical
 <sup>4</sup> If both the Confederation and the cantons have jurisdiction over a criminal matter that falls within the scope of application of this Act, the competent authorities may agree to unify the proceedings under federal jurisdiction.
 
 [^90-1]: Amended by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^90-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^90-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^90-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^90-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^90-4]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^90-5]: Name in accordance with No I 30 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
 
 #### Art. 90a
@@ -2503,7 +2530,7 @@ The criminal provisions of the Federal Act of 6 October 1995[^88-1] on Technical
 <sup>5</sup> In cases under paragraph 4, the Agency or the FOCBS with the agreement of the OAG shall apply to the compulsory measures court. If the court approves the measures, the OAG shall take over the proceedings in accordance with the CrimPC.
 
 [^90a-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^90a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 90b
 
@@ -2512,7 +2539,7 @@ The criminal provisions of the Federal Act of 6 October 1995[^88-1] on Technical
 Where proceedings conducted by the Agency or the FOCBS relate primarily to offences committed abroad or if the proceedings prove to be so complex or time-consuming that they cannot be concluded at all or within a reasonable time using the resources available to the Agency or the FOCBS, the Agency or the FOCBS may request the OAG to take over the proceedings. The OAG shall conduct the proceedings in accordance with the CrimPC[^90b-2].
 
 [^90b-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90b-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^90b-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 90c
 
@@ -2521,7 +2548,7 @@ Where proceedings conducted by the Agency or the FOCBS relate primarily to offen
 The Agency and the FOPH may instruct independent specialists to secure, save, analyse and retain data seized in the course of administrative criminal proceedings. When acting on behalf of the Agency or the FOPH, such specialists shall be subject to the obligations that apply to employees of the Agency or the Federal Administration. The compensation paid to the specialists is deemed to be cash outlays in terms of Article 94 paragraph 1 ACLA[^90c-2].
 
 [^90c-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90c-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^90c-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapter 9 Final Provisions
 
@@ -2631,4 +2658,4 @@ The following enactments are amended as follows:
 …[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1990 570](https://fedlex.data.admin.ch/eli/oc/1990/570_570_570)]
-[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)..
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422).

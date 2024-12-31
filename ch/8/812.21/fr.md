@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur les médicaments et les disposit
 short: LPTh
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20250101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/fr"
 
 (Loi sur les produits thérapeutiques, LPTh)[^t-1]
 
-du 15 décembre 2000 (État le 1<sup>er</sup> janvier 2024)
+du 15 décembre 2000 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu les art. 95, al. 1, et 118, al. 2, de la Constitution[^ingress-1], vu le mess
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: FF **1999** 3151
 
 ## Chapitre 1 Dispositions générales
@@ -71,7 +71,7 @@ La présente loi s’applique:
 <sup>3</sup> Il peut soumettre à la présente loi des produits qui ne sont pas destinés à un usage médical mais dont le mode de fonctionnement et le profil de risque sont comparables à ceux de dispositifs médicaux.[^2-3]
 
 [^2-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^2-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^2-2]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 [^2-3]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 2a
@@ -85,7 +85,7 @@ La présente loi s’applique:
 <sup>3</sup> Des tissus humains et cellules humaines ne peuvent être prélevés ou utilisés pour fabriquer les produits visés aux al. 1 et 2 qu’en cas de consentement au prélèvement. Aucun avantage pécuniaire ou autre ne peut être proposé, octroyé, exigé ou accepté concernant ces tissus et cellules.
 
 [^2a-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^2a-2]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^2a-2]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 #### Art. 3
 
@@ -105,29 +105,29 @@ La présente loi s’applique:
 
 Au sens de la présente loi, on entend par:
 
-- a. *Médicaments:* les produits d’origine chimique ou biologique destinés à agir médicalement sur l’organisme humain ou animal, ou présentés comme tels, et servant notamment à diagnostiquer, à prévenir ou à traiter des maladies, des blessures et des handicaps; le sang et les produits sanguins sont considérés comme des médicaments;
+- a. *médicaments:* les produits d’origine chimique ou biologique destinés à agir médicalement sur l’organisme humain ou animal, ou présentés comme tels, et servant notamment à diagnostiquer, à prévenir ou à traiter des maladies, des blessures et des handicaps; le sang et les produits sanguins sont considérés comme des médicaments;
 - a<sup>bis</sup>.[^4-1] *médicaments avec mention de l’indication**:* les médicaments portant la mention, approuvée par les autorités, d’un champ d’application donné qui sont destinés à être utilisés selon les règles des sciences médicales et pharmaceutiques;
 - a<sup>ter</sup>.[^4-2] *médicaments de la médecine complémentaire avec mention de l’indication:* les médicaments portant la mention, approuvée par les autorités, d’un champ d’application donné qui sont obtenus selon les prescriptions de fabrication de médecines complémentaires telles que l’homéopathie, la médecine anthroposophique ou la médecine asiatique traditionnelle et dont le champ d’application est défini selon les principes de la thérapeutique concernée;
-- [tab] a<sup>quater</sup>.[^4-3] *médicaments* *de la médecine complémentaire* *sans mention de l’indication**:* les médicaments de la médecine complémentaire ne portant pas la mention, approuvée par les autorités, d’un champ d’application donné qui sont destinés à un usage thérapeutique individuel;
-- [tab] a<sup>quinquies</sup>.[^4-4] *phytomédicaments:* médicaments avec mention de l’indication ne contenant comme principes actifs qu’une ou plusieurs substances végétales ou préparations végétales et qui ne sont pas classifiables dans les médicaments de la médecine complémentaire;
-- [tab] a<sup>sexies</sup>.[^4-5] *préparation originale:* médicament avec un principe actif autorisé en premier par l’Institut suisse des produits thérapeutiques (institut), y compris toute forme galénique autorisée au même moment ou ultérieurement;
-- [tab] a<sup>septies</sup>.[^4-6] *générique:* médicament autorisé par l’institut, qui pour l’essentiel est semblable à une préparation originale et qui est interchangeable avec celle-ci parce qu’il possède une substance active, une forme galénique et un dosage identiques;
-- [tab] a<sup>octies</sup>.[^4-7] *préparation de référence:* médicament biologique utilisé comme référence dans la documentation d’autorisation d’un médicament biosimilaire et dont la qualité, l’efficacité et la sécurité pharmaceutiques servent de points de comparaison;
-- [tab] a<sup>novies</sup>.[^4-8] *biosimilaire:* médicament biologique qui présente une similarité suffisante avec une préparation de référence autorisée par l’institut et qui se réfère à la documentation établie pour cette préparation;
-- [tab]
+- a<sup>quater</sup>.[^4-3] *médicaments* *de la médecine complémentaire* *sans mention de l’indication**:* les médicaments de la médecine complémentaire ne portant pas la mention, approuvée par les autorités, d’un champ d’application donné qui sont destinés à un usage thérapeutique individuel;
+- a<sup>quinquies</sup>.[^4-4] *phytomédicaments:* médicaments avec mention de l’indication ne contenant comme principes actifs qu’une ou plusieurs substances végétales ou préparations végétales et qui ne sont pas classifiables dans les médicaments de la médecine complémentaire;
+- a<sup>sexies</sup>.[^4-5] *préparation originale:* médicament avec un principe actif autorisé en premier par l’Institut suisse des produits thérapeutiques (institut), y compris toute forme galénique autorisée au même moment ou ultérieurement;
+- a<sup>septies</sup>.[^4-6] *générique:* médicament autorisé par l’institut, qui pour l’essentiel est semblable à une préparation originale et qui est interchangeable avec celle-ci parce qu’il possède une substance active, une forme galénique et un dosage identiques;
+- a<sup>octies</sup>.[^4-7] *préparation de référence:* médicament biologique utilisé comme référence dans la documentation d’autorisation d’un médicament biosimilaire et dont la qualité, l’efficacité et la sécurité pharmaceutiques servent de points de comparaison;
+- a<sup>novies</sup>.[^4-8] *biosimilaire:* médicament biologique qui présente une similarité suffisante avec une préparation de référence autorisée par l’institut et qui se réfère à la documentation établie pour cette préparation;
+- a<sup>decies</sup>.[^4-9]
 
-  a<sup>decies</sup>.[^4-9] *médicament important contre des maladies rares (médicament orphelin):* médicament à usage humain dont il est prouvé qu’il répond à l’une des conditions suivantes:
+  *médicament important contre des maladies rares (médicament orphelin):* médicament à usage humain dont il est prouvé qu’il répond à l’une des conditions suivantes:
 
   - 1\. il est destiné au diagnostic, à la prévention ou au traitement d’une maladie mettant en danger la vie du patient ou entraînant une invalidité chronique, qui ne touche pas plus de cinq personnes sur dix mille en Suisse au moment du dépôt de la demande,
   - 2\. le statut de médicament orphelin a été accordé à ce médicament ou à son principe actif dans un autre pays ayant institué un contrôle des médicaments considéré comme équivalent au sens de l’art. 13;
 
 - b.[^4-10] *dispositifs médicaux:* les produits, y compris les instruments, les appareils, les équipements, les diagnostics in vitro, les logiciels, les implants, les réactifs, les matières et autres articles ou substances destinés à un usage médical, ou présentés comme tels, dont l’action principale n’est pas obtenue par un médicament;
-- c. *Fabrication:* toutes les étapes de la production des produits thérapeutiques, de l’acquisition des matériaux de base au conditionnement du produit fini en passant par la préparation, le stockage et la livraison, ainsi que les contrôles de qualité et la libération des lots;
-- d. *Mise sur le marché:* la distribution et la remise de produits thérapeutiques;
-- e.[^4-11] *Distribution:* le transfert ou la mise à disposition, rémunérés ou non, d’un produit thérapeutique, y compris les activités des courtiers et des agents, à l’exclusion de la remise;
-- f. *Remise:* le transfert ou la mise à disposition, rémunéré ou non, d’un produit thérapeutique prêt à l’emploi, destiné à être utilisé par l’acquéreur sur lui-même, sur autrui ou sur un animal;
+- c. *fabrication:* toutes les étapes de la production des produits thérapeutiques, de l’acquisition des matériaux de base au conditionnement du produit fini en passant par la préparation, le stockage et la livraison, ainsi que les contrôles de qualité et la libération des lots;
+- d. *mise sur le marché:* la distribution et la remise de produits thérapeutiques;
+- e.[^4-11] *distribution:* le transfert ou la mise à disposition, rémunérés ou non, d’un produit thérapeutique, y compris les activités des courtiers et des agents, à l’exclusion de la remise;
+- f. *remise:* le transfert ou la mise à disposition, rémunéré ou non, d’un produit thérapeutique prêt à l’emploi, destiné à être utilisé par l’acquéreur sur lui-même, sur autrui ou sur un animal;
 - f<sup>bis</sup>.[^4-12] *prescription:* décision protocolée d’un membre autorisé d’une profession médicale qui est établie conformément à l’art. 26, al. 2, pour une personne déterminée et qui confère à cette dernière un droit d’accès à des prestations médicales telles que des soins, des médicaments, des analyses ou des dispositifs médicaux;
-- g. *Pharmacopée (Pharmacopoea Europaea* et *Pharmacopoea Helvetica):* un recueil de prescriptions relatives à la qualité des médicaments, des excipients et de certains dispositifs médicaux;
+- g. *pharmacopée (Pharmacopoea Europaea* et *Pharmacopoea Helvetica):* un recueil de prescriptions relatives à la qualité des médicaments, des excipients et de certains dispositifs médicaux;
 - h.[^4-13] *nouveau principe actif**:* tout principe actif autorisé pour la première fois en Suisse selon la procédure ordinaire visée à l’art. 11. Les principes actifs ayant été autorisés auparavant uniquement dans les médicaments à usage humain sont considérés comme de nouveaux principes actifs s’il sont utilisés pour les médicaments à usage vétérinaire et inversement;
 - i.[^4-14] *pharmacie publique:* exploitation pharmaceutique qui dispose d’une autorisation cantonale, est dirigée par un pharmacien, garantit des horaires d’ouverture réguliers et offre un accès direct au public;
 - j.[^4-15] *pharmacie d’hôpital:* le service qui, au sein d’un établissement hospitalier, est dirigé par un pharmacien et fournit notamment des prestations pharmaceutiques aux clients de l’hôpital; pour la fabrication de produits radiopharmaceutiques visés à l’art. 9, al. 2, let. a, et al. 2<sup>bis</sup>, le service de radiopharmacie d’un hôpital équivaut à une pharmacie d’hôpital;
@@ -253,7 +253,7 @@ Sont dispensés de l’autorisation:
 
 <sup>3</sup> Le Conseil fédéral peut prévoir le régime de l’autorisation de mise sur le marché pour le procédé d’obtention ou de fabrication des médicaments qui ne peuvent être standardisés.
 
-<sup>4</sup> ...[^9-9]
+<sup>4</sup> …[^9-9]
 
 [^9-1]: Nouvelle teneur selon le ch. I de la LF du 13 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2245](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^9-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -425,9 +425,9 @@ L’institut prévoit des procédures simplifiées d’autorisation de mise sur 
 - a. les médicaments dont les principes actifs sont connus;
 - a<sup>bis</sup>.[^14-2] les médicaments dont les principes actifs sont utilisés dans un médicament qui est autorisé de manière avérée dans au moins un pays de l’UE ou de l’AELE depuis au moins 10 ans au moment du dépôt de la demande et dont les indications, le dosage et le mode d’administration sont comparables;
 - a<sup>ter</sup>.[^14-3] les médicaments avec mention de l’indication non soumis à ordonnance et dont l’usage médical est avéré depuis au moins 30 ans au moment du dépôt de la demande, dont au moins 15 ans dans les pays de l’UE et de l’AELE;
-- [tab] a<sup>quater</sup>.[^14-4] les médicaments dont il est avéré, au moment du dépôt de la demande, qu’ils sont autorisés en tant que médicaments dans un canton depuis au moins 15 ans;
+- a<sup>quater</sup>.[^14-4] les médicaments dont il est avéré, au moment du dépôt de la demande, qu’ils sont autorisés en tant que médicaments dans un canton depuis au moins 15 ans;
 - b. les médicaments de la médecine complémentaire;
-- c.[^14-5] ...
+- c.[^14-5] …
 - c<sup>bis</sup>.[^14-6] les phytomédicaments;
 - d.[^14-7] les médicaments qui sont fabriqués dans une pharmacie d’hôpital ou le service de radiopharmacie d’un hôpital et qui sont destinés aux besoins hospitaliers;
 - e. les médicaments qui sont fabriqués par l’armée et qui sont utilisés dans le cadre du service sanitaire coordonné;
@@ -525,7 +525,7 @@ L’autorisation a une durée de validité initiale de cinq ans. L’institut re
 
 <sup>3</sup> L’autorisation fondée sur une déclaration a une durée illimitée.[^16-3]
 
-<sup>4</sup> ...[^16-4]
+<sup>4</sup> …[^16-4]
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Erratum de la Commission de rédaction de l’Assemblée fédérale du 13 déc. 2018 ([RO 2018 5449](https://fedlex.data.admin.ch/eli/oc/2018/824)).
@@ -554,7 +554,7 @@ L’institut révoque l’autorisation de mise sur le marché si:
 [^16a-1]: Introduit par le ch. I de la LF du 13 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2245](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^16a-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16a-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16a-4]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^16a-4]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^16a-5]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16a-6]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -767,7 +767,7 @@ Sont habilités à remettre des médicaments non soumis à ordonnance:
 
 <sup>3</sup> L’institut détermine les médicaments qui peuvent être remis par les personnes visées à l’al. 1, let. c.[^25-2]
 
-<sup>4</sup> ...[^25-3]
+<sup>4</sup> …[^25-3]
 
 <sup>5</sup> Sous réserves des al. 2 et 3, les cantons peuvent accorder à des personnes ayant une formation reconnue sur le plan cantonal le droit de remettre certains groupes de médicaments, tels que les médicaments de la médecine complémentaire. L’institut doit en être informé.
 
@@ -898,7 +898,7 @@ Est illicite la publicité destinée au public pour les médicaments:
 - d. qui font fréquemment l’objet d’un usage abusif ou qui peuvent engendrer une accoutumance ou une dépendance.
 
 [^32-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^32-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^32-2]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 33
 
@@ -907,6 +907,22 @@ Est illicite la publicité destinée au public pour les médicaments:
 [^33-1]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### Section 6 Dispositions particulières applicables au sang et aux produits sanguins
+
+#### Art. 33a
+
+**Gratuité du don de sang**[^33a-1]
+
+<sup>1</sup> Il est interdit de proposer, d’octroyer, d’exiger ou d’accepter un avantage pécuniaire ou un autre avantage pour le don de sang humain.
+
+<sup>2</sup>
+
+Ne sont pas considérés comme un avantage pécuniaire ou un autre avantage:
+
+- a. l’indemnisation du donneur pour la perte de gain et les coûts directs qui lui sont occasionnés;
+- b. l’indemnisation du donneur pour les dommages subis du fait du don de sang;
+- c. un geste symbolique de remerciement postérieur au don de sang.
+
+[^33a-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Adaptations des dispositions relatives au don de sang), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 34
 
@@ -931,7 +947,11 @@ L’autorisation est délivrée:
 
 <sup>1</sup> Toute importation de sang et de produits sanguins est soumise à autorisation. L’entreposage dans un entrepôt douanier est assimilé à une importation.
 
+<sup>1bis</sup> Le sang et les produits sanguins labiles qui sont importés pour les transfusions doivent satisfaire aux exigences de gratuité du don de sang énoncées à l’art. 33*a*.[^35-1]
+
 <sup>2</sup> Le Conseil fédéral peut prévoir des dérogations à l’obligation de posséder une autorisation d’importer si tout danger pour des personnes est exclu.
+
+[^35-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Adaptations des dispositions relatives au don de sang), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 36
 
@@ -946,7 +966,11 @@ Doivent être exclus des donneurs les personnes:
 - a. dont la santé pourrait être altérée par le prélèvement de sang;
 - b. dont le sang pourrait transmettre des agents pathogènes.
 
+<sup>2bis</sup> Nul ne doit être discriminé par les critères d’exclusion. S’ils sont liés à un comportement à risque, ils doivent être évalués en fonction du comportement individuel de la personne disposée à faire un don et être fondés scientifiquement.[^36-1]
+
 <sup>3</sup> Le Conseil fédéral fixe les exigences relatives à l’aptitude à donner son sang, la compétence d’établir cette aptitude et les données qui doivent être relevées lors du don de sang.
+
+[^36-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Adaptations des dispositions relatives au don de sang), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 37
 
@@ -1028,9 +1052,11 @@ Le Conseil fédéral règle les modalités. Il peut notamment:
 
 #### Art. 41
 
-**Autres dispositions**
+**Autres dispositions de sécurité[^41-1]**
 
 Le Conseil fédéral peut prescrire des mesures de sécurité supplémentaires; il peut notamment prévoir que les procédés d’élimination ou d’inactivation des éventuels agents pathogènes ne pourront être utilisés qu’après que l’institut aura autorisé leur mise sur le marché.
+
+[^41-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Adaptations des dispositions relatives au don de sang), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 ### Section 7 Prescriptions particulières applicables aux médicaments à usage vétérinaire
 
@@ -1299,7 +1325,7 @@ Le Conseil fédéral peut, pour protéger la santé et empêcher la tromperie, r
 
 La réalisation d’essais cliniques de produits thérapeutiques sur l’être humain se fonde sur la présente loi et sur la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^53-1].
 
-[^53-1]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^53-1]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 #### Art. 54
 
@@ -1330,11 +1356,11 @@ Dans le cadre de la procédure d’autorisation, l’institut vérifie:
   - 2\. que les risques qui leur sont liés sont pris en compte dans l’essai clinique,
   - 3\. que les données qui s’y rapportent correspondent à l’état de la science et figurent correctement dans le protocole.[^54-3]
 
-<sup>5</sup> ...[^54-4]
+<sup>5</sup> …[^54-4]
 
 <sup>6</sup> Le Conseil fédéral règle la procédure d’autorisation. Il peut déterminer la forme de la déclaration et prescrire que le dépôt de demandes d’autorisation, la correspondance et la communication de décisions soient effectués par voie électronique.[^54-5]
 
-<sup>7</sup> ...[^54-6]
+<sup>7</sup> …[^54-6]
 
 <sup>8</sup> Le Conseil fédéral édicte les dispositions requises en vertu des al. 3 et 6 en tenant compte des réglementations internationales reconnues.[^54-7]
 
@@ -1380,9 +1406,9 @@ Le Conseil fédéral peut prévoir, en tenant compte des réglementations intern
 <sup>3</sup> Il règle la procédure de déclaration et l’échange d’informations. Il peut exiger que la déclaration et l’échange d’informations soient effectués par voie électronique.
 
 [^54b-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54b-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^54b-2]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
-### Section 2a Intégrité et transparence
+### Section 2*a* Intégrité et transparence
 
 [^chap4-sec2a-1]
 
@@ -1568,7 +1594,7 @@ Le Conseil fédéral édicte les dispositions d’exécution régissant:
 <sup>2</sup> Les données personnelles de patients ne peuvent pas être communiquées.
 
 [^62b-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^62b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62b-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^62b-3]: Nouvelle teneur selon l’annexe 1 ch. II 74 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62c
@@ -1711,7 +1737,7 @@ Le système d’information «Antibiotiques» intègre:
 - a. des données d’autres applications du système d’information central commun couvrant toute la chaîne alimentaire visé à l’art. 64*c*, al. 2;
 - b. des données personnelles tirées du registre des professions médicales universitaires prévu aux art. 51 à 54 de la loi du 23 juin 2006 sur les professions médicales[^64d-1].
 
-[^64d-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^64d-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 64e
 
@@ -1733,7 +1759,7 @@ Dans le cadre de leur mandat légal, les autorités ou les personnes suivantes p
 - c. les détenteurs d’animaux: les données les concernant;
 - d. les vétérinaires ainsi que les autres personnes soumises à l’obligation de déclarer visées à l’art. 64*f*, let. h: les données les concernant et les données qu’ils ont déclarées.
 
-[^64e-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^64e-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 64f
 
@@ -1751,7 +1777,7 @@ S’agissant du système d’information «Antibiotiques», le Conseil fédéral
 - h. l’obligation de déclarer à laquelle sont soumises les personnes qui distribuent, prescrivent, remettent ou utilisent des antibiotiques; les détenteurs d’animaux ne sont pas soumis à cette obligation;
 - i. l’obtention de données concernant le corps vétérinaire tirées du registre des professions médicales universitaires prévu aux art. 51 à 54 de la loi du 23 juin 2006 sur les professions médicales[^64f-1].
 
-[^64f-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^64f-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 64g
 
@@ -1814,7 +1840,7 @@ Ils peuvent commander auprès d’une personne des produits thérapeutiques sous
 
 <sup>4</sup> Les organes douaniers sont habilités à retenir les envois de produits thérapeutiques à la frontière, dans un dépôt franc sous douane ou un entrepôt douanier si le destinataire ou l’expéditeur de l’envoi en Suisse est soupçonné d’infraction aux dispositions régissant l’importation, la fabrication, la mise sur le marché ou l’exportation des produits thérapeutiques.[^66-4]
 
-<sup>5</sup> Ils peuvent faire appel aux autorités d’exécution. Celles-ci mènent l’enquête et prennent les mesures nécessaires. Elles peuvent notamment demander aux prestatai-res de services postaux le nom et l’adresse du titulaire d’une case postale. Les pres-tataires sont alors tenus de fournir les renseignements demandés.[^66-5]
+<sup>5</sup> Ils peuvent faire appel aux autorités d’exécution. Celles-ci mènent l’enquête et prennent les mesures nécessaires. Elles peuvent notamment demander aux prestataires de services postaux le nom et l’adresse du titulaire d’une case postale. Les prestataires sont alors tenus de fournir les renseignements demandés.[^66-5]
 
 <sup>6</sup>
 
@@ -1944,7 +1970,7 @@ Le Conseil fédéral:
 [^69-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^69-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^69-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^69-4]: [RS 0.812.41](https://fedlex.data.admin.ch/eli/cc/2019/87); [FF 2017 2993](https://fedlex.data.admin.ch/eli/fga/2017/651)
+[^69-4]: [RS 0.812.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3470); [FF 2017 2993](https://fedlex.data.admin.ch/eli/fga/2017/651)
 [^69-5]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 
 #### Art. 70
@@ -1994,7 +2020,7 @@ Les organes de l’institut sont:
 <sup>6</sup> Peut être révoqué le membre du conseil de l’institut qui n’a pas déclaré ses liens d’intérêts dans leur intégralité lors de sa nomination ou qui n’a pas communiqué un changement de liens d’intérêts survenu pendant la durée de son mandat et qui ne s’exécute toujours pas après avoir été invité à le faire par le Département fédéral de l’intérieur.
 
 [^71a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^71a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^71a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 72
 
@@ -2073,7 +2099,7 @@ Elle assume les tâches suivantes:
 <sup>5</sup> Il peut révoquer l’organe de révision.
 
 [^74-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^74-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^74-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 4 Personnel
 
@@ -2090,9 +2116,9 @@ Elle assume les tâches suivantes:
 <sup>4</sup> Le Conseil fédéral fixe les indemnités versées aux membres du conseil de l’institut. L’art. 6*a*, al. 1 à 5, de la loi sur le personnel de la Confédération s’applique aux honoraires versés aux membres du conseil de l’institut et aux autres conditions contractuelles convenues avec ces personnes.[^75-6]
 
 [^75-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^75-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^75-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^75-4]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^75-5]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^75-6]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2111,7 +2137,7 @@ Elle assume les tâches suivantes:
 <sup>5</sup> Nul ne doit subir un désavantage sur le plan professionnel pour avoir, de bonne foi, dénoncé une infraction ou signalé une irrégularité ou pour avoir déposé comme témoin.
 
 [^75a-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^75a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^75a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 75b
 
@@ -2263,7 +2289,7 @@ L’institut et les personnes qu’il a mandatées sont responsables uniquement:
 - b. si le dommage ne résulte pas d’une violation des obligations d’un assujetti.
 
 [^80-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^80-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^80-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 81
 
@@ -2353,7 +2379,7 @@ Les cantons accomplissent les tâches d’exécution:
 
 #### Art. 84
 
-**...[^84-1]**
+**…[^84-1]**
 
 <sup>1</sup> À moins que la présente loi n’en dispose autrement, la procédure administrative et les voies de droit sont régies par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^84-2], par la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^84-3] et par la loi du 17 juin 2005 sur le Tribunal fédéral[^84-4].[^84-5]
 
@@ -2364,14 +2390,14 @@ Les cantons accomplissent les tâches d’exécution:
 <sup>3</sup> Il est en outre habilité à former un recours contre les décisions rendues par les dernières instances cantonales en application de la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^84-8] (art. 89, al. 2, let. a, de la loi du 17 juin 2005 sur le Tribunal fédéral[^84-9]).[^84-10]
 
 [^84-1]: Abrogé par l’annexe ch. 89 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^84-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^84-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^84-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^84-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^84-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^84-4]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^84-5]: Nouvelle teneur selon l’annexe ch. 89 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^84-6]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^84-7]: Nouvelle teneur selon le ch. I 12 de l’O de l’Ass. féd. du 20 déc. 2006 concernant l’adaptation d’actes législatifs aux disp. de la LF sur le TF et de la LF sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7351](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^84-8]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
-[^84-9]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^84-8]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
+[^84-9]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^84-10]: Introduit par l’annexe ch. 6 de la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 
 #### Art. 85
@@ -2392,34 +2418,36 @@ Est passible d’une peine privative de liberté de trois ans au plus ou d’une
 
 - a. fabrique, met sur le marché, utilise, prescrit, importe ou exporte des médicaments ou en fait le commerce à l’étranger sans l’autorisation nécessaire, en enfreignant les exigences et conditions liés à l’autorisation obtenue ou en enfreignant les devoirs de diligence visés aux art. 3, 7, 21, 22, 26, 29 et 42;
 - b. recourt à des antibiotiques sans respecter les restrictions ou interdictions découlant de l’art. 42*a*, al. 2;
-- c. contrevient, lorsqu’il effectue une opération en rapport avec le sang ou des produits sanguins, aux dispositions sur l’aptitude à donner du sang, sur l’obligation de faire un test, sur l’obligation d’enregistrer et d’archiver, néglige son devoir de diligence au sens de l’art. 37 ou omet de prendre les mesures de protection ou de sécurité requises;
-- d.[^86-2] met sur le marché, exporte ou utilise des dispositifs médicaux qui ne satisfont pas aux exigences de la présente loi, ou utilise des dispositifs médicaux sans que les conditions relatives aux qualifications professionnelles et à l’exploitation soient remplies;
+- c.[^86-2] contrevient, lorsqu’il effectue une opération en rapport avec le sang ou des produits sanguins, aux dispositions sur la gratuité du don de sang, sur l’aptitude à donner du sang, sur l’obligation de faire un test, sur l’obligation d’enregistrer et d’archiver, néglige son devoir de diligence au sens de l’art. 37 ou omet de prendre les mesures de protection et de sécurité requises;
+- d.[^86-3] met sur le marché, exporte ou utilise des dispositifs médicaux qui ne satisfont pas aux exigences de la présente loi, ou utilise des dispositifs médicaux sans que les conditions relatives aux qualifications professionnelles et à l’exploitation soient remplies;
 - e. contrevient au devoir de diligence visé à l’art. 48 ou néglige son obligation d’assurer la maintenance des dispositifs médicaux;
 - f. effectue ou fait effectuer sur l’être humain un essai clinique qui ne satisfait pas aux exigences de la présente loi;
 - g. contrefait, falsifie ou désigne de manière inexacte des médicaments ou des dispositifs médicaux ou s’il met sur le marché, utilise, importe ou exporte des médicaments ou des dispositifs médicaux contrefaits, falsifiés ou désignés de manière inexacte ou en fait le commerce à l’étranger;
 - h. contrevient à l’une des interdictions visée à l’art. 55;
-- i.[^86-3] met sur le marché des produits qui ne satisfont pas aux exigences fixées par le Conseil fédéral en vertu de l’art. 2*a*;
-- j.[^86-4] propose, octroie, exige ou accepte un avantage pécuniaire ou un autre avantage pour le don de tissus humains ou des cellules humaines ou utilise de tels tissus ou cellules pour fabriquer les produits visés à l’art. 2*a*;
-- k.[^86-5] prélève ou utilise des tissus humains ou des cellules humaines pour fabriquer les produits visés à l’art. 2*a* en l’absence de consentement au prélèvement.
+- i.[^86-4] met sur le marché des produits qui ne satisfont pas aux exigences fixées par le Conseil fédéral en vertu de l’art. 2*a*;
+- j.[^86-5] propose, octroie, exige ou accepte un avantage pécuniaire ou un autre avantage pour le don de tissus humains ou des cellules humaines ou utilise de tels tissus ou cellules pour fabriquer les produits visés à l’art. 2*a*;
+- k.[^86-6] prélève ou utilise des tissus humains ou des cellules humaines pour fabriquer les produits visés à l’art. 2*a* en l’absence de consentement au prélèvement.
 
-<sup>2</sup> Est passible d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire quiconque, dans les cas prévus à l’al. 1, let. a à g et i à k:[^86-6]
+<sup>2</sup>
 
-a. sait ou ne peut ignorer que cette infraction met concrètement en danger la santé humaine;
+Est passible d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire quiconque, dans les cas prévus à l’al. 1, let. a à g et i à k:[^86-7]
 
+- a. sait ou ne peut ignorer que cette infraction met concrètement en danger la santé humaine;
 - b. ayant agi par métier, réalise un chiffre d’affaires élevé ou un gain important.
 
-<sup>3</sup> Est passible d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire quiconque, dans les cas prévus à l’al. 1, let. a, c, d, f, g et i à k, agit en tant que membre d’une bande se livrant de manière systématique au trafic illicite de produits thérapeutiques.[^86-7]
+<sup>3</sup> Est passible d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire quiconque, dans les cas prévus à l’al. 1, let. a, c, d, f, g et i à k, agit en tant que membre d’une bande se livrant de manière systématique au trafic illicite de produits thérapeutiques.[^86-8]
 
-<sup>4</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire. Dans les cas de peu de gravité, une amende peut être prononcée.[^86-8]
+<sup>4</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire. Dans les cas de peu de gravité, une amende peut être prononcée.[^86-9]
 
 [^86-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019, sous réserve de l’al. 1, let. h, en vigueur depuis le 1er janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^86-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-3]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Adaptations des dispositions relatives au don de sang), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
+[^86-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-4]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-5]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-6]: Nouvelle teneur selon le ch. I 30 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-6]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-7]: Nouvelle teneur selon le ch. I 30 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^86-8]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-8]: Nouvelle teneur selon le ch. I 30 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-9]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
 
@@ -2451,7 +2479,7 @@ Est passible d’une amende de 50 000 francs au plus, quiconque, intentionnellem
 [^87-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^87-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^87-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^87-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-6]: Directive 93/42/CEE du Conseil, du 14 juin 1993, relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1; modifiée en dernier lieu par la directive 2007/47/CE, JO L 247 du 21.9.2007, p. 21.
 [^87-7]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -2465,7 +2493,7 @@ Est passible d’une amende de 50 000 francs au plus, quiconque, intentionnellem
 
 Les dispositions pénales de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^88-1] s’appliquent aux faux, aux constatations fausses, à l’obtention frauduleuse de constatations fausses, à l’utilisation d’attestations fausses ou inexactes, à l’établissement non autorisé de déclarations de conformité, à l’apposition et à l’utilisation non autorisées de signes de conformité ainsi qu’aux avantages patrimoniaux acquis de façon illicite au sens des art. 23 à 29 de ladite loi.
 
-[^88-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^88-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 89
 
@@ -2476,7 +2504,7 @@ Les dispositions pénales de la loi fédérale du 6 octobre 1995 sur les entrave
 <sup>2</sup> Les art. 6 et 7 DPA sont également applicables en cas de poursuite pénale par les autorités cantonales.
 
 [^89-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^89-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^89-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 90
 
@@ -2491,9 +2519,9 @@ Les dispositions pénales de la loi fédérale du 6 octobre 1995 sur les entrave
 <sup>4</sup> Lorsqu’une affaire de droit pénal relative à la présente loi relève à la fois de la compétence fédérale et de la compétence cantonale, les autorités compétentes peuvent convenir de la jonction des procédures auprès de la Confédération ou du canton.
 
 [^90-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^90-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^90-4]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^90-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^90-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^90-4]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^90-5]: Nouvelle expression selon le ch. I 30 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 90a
@@ -2511,7 +2539,7 @@ Les dispositions pénales de la loi fédérale du 6 octobre 1995 sur les entrave
 <sup>5</sup> Dans les cas visés à l’al. 4, l’institut ou l’OFDF, avec l’accord du Ministère public de la Confédération, saisit le tribunal des mesures de contraintes. Si ce dernier autorise les mesures, le Ministère public de la Confédération reprend la procédure en application du CPP.
 
 [^90a-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^90a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 90b
 
@@ -2520,7 +2548,7 @@ Les dispositions pénales de la loi fédérale du 6 octobre 1995 sur les entrave
 Si la procédure conduite par l’institut ou l’OFDF concerne principalement des infractions commises à l’étranger ou qu’elle s’avère si complexe ou si exigeante en ressources que ces autorités ne peuvent la mener à terme en temps utile avec les moyens à leur disposition, lesdites autorités peuvent demander au Ministère public de la Confédération de poursuivre cette procédure. Ce dernier la mène en application du CPP[^90b-2].
 
 [^90b-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90b-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^90b-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 90c
 
@@ -2529,7 +2557,7 @@ Si la procédure conduite par l’institut ou l’OFDF concerne principalement d
 L’institut et l’OFSP peuvent charger des spécialistes indépendants de sécuriser, de sauvegarder, d’analyser et de stocker des données séquestrées au cours d’une procédure pénale administrative. Dans le cadre de leur activité pour l’institut ou l’OFSP, ces spécialistes sont soumis aux obligations incombant au personnel de l’institut ou au personnel de l’administration fédérale. Leur rémunération constitue des débours mentionnés à l’art. 94, al. 1, DPA[^90c-2].
 
 [^90c-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90c-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^90c-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 9 Dispositions finales
 
@@ -2636,7 +2664,7 @@ II
 
 Le droit en vigueur est modifié comme suit:
 
-... [^annexu1-lvlu1-2]
+… [^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RO 1990 570](https://fedlex.data.admin.ch/eli/oc/1990/570_570_570)]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422).

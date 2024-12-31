@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukt
 short: HMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20250101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/de"
 
 (Heilmittelgesetz, HMG)
 
-vom 15. Dezember 2000 (Stand am 1. Januar 2024)
+vom 15. Dezember 2000 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 Absatz 1 und 118 Absatz 2 der Bundesverfassung[^ing
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: BBl **1999** 3453
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -69,7 +69,7 @@ Dieses Gesetz gilt für:
 <sup>3</sup> Er kann bestimmte Produkte ohne medizinische Zweckbestimmung, die hinsichtlich ihrer Funktionsweise und ihrer Risikoprofile mit Medizinprodukten vergleichbar sind, diesem Gesetz unterstellen.[^2-3]
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^2-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^2-2]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 [^2-3]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 2a
@@ -83,7 +83,7 @@ Dieses Gesetz gilt für:
 <sup>3</sup> Menschliches Gewebe oder menschliche Zellen dürfen für die Herstellung von Produkten nach den Absätzen 1 und 2 nur entnommen oder verwendet werden, wenn für die Entnahme eine Zustimmung vorliegt. Es darf für dieses Gewebe und diese Zellen weder ein finanzieller Gewinn noch ein anderer Vorteil angeboten, gewährt, gefordert oder angenommen werden.
 
 [^2a-1]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^2a-2]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^2a-2]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 #### Art. 3
 
@@ -106,15 +106,15 @@ Im Sinne dieses Gesetzes gelten als:
 - a. *Arzneimittel:* Produkte chemischen oder biologischen Ursprungs, die zur medizinischen Einwirkung auf den menschlichen oder tierischen Organismus bestimmt sind oder angepriesen werden, insbesondere zur Erkennung, Verhütung oder Behandlung von Krankheiten, Verletzungen und Behinderungen; zu den Arzneimitteln gehören auch Blut und Blutprodukte;
 - a<sup>bis</sup>.[^4-1] *Arzneimittel mit Indikationsangabe:* Arzneimittel mit behördlich genehmigter Angabe eines bestimmten Anwendungsgebiets, die zur Anwendung nach den Regeln der medizinischen und pharmazeutischen Wissenschaften bestimmt sind;
 - a<sup>ter</sup>.[^4-2] *Komplementärarzneimittel mit Indikationsangabe:* Arzneimittel mit behördlich genehmigter Angabe eines bestimmten Anwendungsgebiets, die nach den Herstellungsvorschriften komplementärmedizinischer Therapierichtungen wie der Homöopathie, der anthroposophischen Medizin oder der traditionellen asiatischen Medizin hergestellt und deren Anwendungsgebiet gemäss den Prinzipien der entsprechenden Therapierichtung festgelegt wird;
-- [tab] a<sup>quater</sup>.[^4-3] *Komplementärarzneimittel ohne Indikationsangabe:* Komplementärarzneimittel ohne behördlich genehmigte Angabe eines bestimmten Anwendungsgebiets, die zur individualtherapeutischen Anwendung bestimmt sind;
-- [tab] a<sup>quinquies</sup>.[^4-4] *Phytoarzneimittel:* Arzneimittel mit Indikationsangabe, die als Wirkstoffe ausschliesslich einen oder mehrere pflanzliche Stoffe oder pflanzliche Zubereitungen enthalten und die nicht den Komplementärarzneimitteln zuzuordnen sind;
-- [tab] a<sup>sexies</sup>.[^4-5] *Originalpräparat:* Arzneimittel, das vom Schweizerischen Heilmittelinstitut (Institut) als erstes mit einem bestimmten Wirkstoff zugelassen wird, einschliesslich aller zum gleichen Zeitpunkt oder später zugelassenen Darreichungsformen;
-- [tab] a<sup>septies</sup>.[^4-6] *Generikum:* ein vom Institut zugelassenes Arzneimittel, das im Wesentlichen gleich ist wie ein Originalpräparat und das mit diesem aufgrund identischer Wirkstoffe sowie seiner Darreichungsform und Dosierung austauschbar ist;
-- [tab] a<sup>octies</sup>.[^4-7] *Referenzpräparat:* biologisches Arzneimittel, das in der Zulassungsdokumentation für ein Biosimilar als Referenz für die Vergleichbarkeit seiner pharmazeutischen Qualität, Wirksamkeit und Sicherheit herangezogen wird;
-- [tab] a<sup>novies</sup>.[^4-8] *Biosimilar:* biologisches Arzneimittel, das eine genügende Ähnlichkeit mit einem vom Institut zugelassenen Referenzpräparat aufweist und auf dessen Dokumentation Bezug nimmt;
-- [tab]
+- a<sup>quater</sup>.[^4-3] *Komplementärarzneimittel ohne Indikationsangabe:* Komplementärarzneimittel ohne behördlich genehmigte Angabe eines bestimmten Anwendungsgebiets, die zur individualtherapeutischen Anwendung bestimmt sind;
+- a<sup>quinquies</sup>.[^4-4] *Phytoarzneimittel:* Arzneimittel mit Indikationsangabe, die als Wirkstoffe ausschliesslich einen oder mehrere pflanzliche Stoffe oder pflanzliche Zubereitungen enthalten und die nicht den Komplementärarzneimitteln zuzuordnen sind;
+- a<sup>sexies</sup>.[^4-5] *Originalpräparat:* Arzneimittel, das vom Schweizerischen Heilmittelinstitut (Institut) als erstes mit einem bestimmten Wirkstoff zugelassen wird, einschliesslich aller zum gleichen Zeitpunkt oder später zugelassenen Darreichungsformen;
+- a<sup>septies</sup>.[^4-6] *Generikum:* ein vom Institut zugelassenes Arzneimittel, das im Wesentlichen gleich ist wie ein Originalpräparat und das mit diesem aufgrund identischer Wirkstoffe sowie seiner Darreichungsform und Dosierung austauschbar ist;
+- a<sup>octies</sup>.[^4-7] *Referenzpräparat:* biologisches Arzneimittel, das in der Zulassungsdokumentation für ein Biosimilar als Referenz für die Vergleichbarkeit seiner pharmazeutischen Qualität, Wirksamkeit und Sicherheit herangezogen wird;
+- a<sup>novies</sup>.[^4-8] *Biosimilar:* biologisches Arzneimittel, das eine genügende Ähnlichkeit mit einem vom Institut zugelassenen Referenzpräparat aufweist und auf dessen Dokumentation Bezug nimmt;
+- a<sup>decies</sup>.[^4-9]
 
-  a<sup>decies</sup>.[^4-9] *wichtiges* *Arzneimittel für seltene Krankheiten (Orphan Drug):* Humanarzneimittel, bei dem nachgewiesen ist, dass:
+  *wichtiges* *Arzneimittel für seltene Krankheiten (Orphan Drug):* Humanarzneimittel, bei dem nachgewiesen ist, dass:
 
   - 1\. es der Erkennung, Verhütung oder Behandlung einer lebensbedrohenden oder chronisch invalidisierenden Erkrankung dient, von der zum Zeitpunkt der Gesuchseinreichung höchstens fünf von zehntausend Personen in der Schweiz betroffen sind, oder
   - 2\. ihm oder seinem Wirkstoff von einem anderen Land mit vergleichbarer Arzneimittelkontrolle im Sinne von Artikel 13 der Status als wichtiges Arzneimittel für seltene Krankheiten zuerkannt wird;
@@ -243,7 +243,7 @@ Keine Zulassung brauchen:
 - e. Arzneimittel, die nicht standardisierbar sind;
 - f.[^9-5] Arzneimittel, die am 1. Januar 2002 in einem Kanton zugelassen waren und sich im Zeitpunkt des Inkrafttretens der Änderung vom 18. März 2016 noch in Verkehr befinden; sie sind entsprechend zu kennzeichnen und dürfen ausschliesslich im betreffenden Kanton in Verkehr gebracht und nur durch Personen abgegeben werden, die nach diesem Gesetz zur Abgabe von Arzneimitteln berechtigt sind.
 
-<sup>2</sup> <sup>bis</sup> Mit der Herstellung von Arzneimitteln nach Absatz 2 Buchstaben a–c<sup>bis</sup> darf ein Betrieb mit Herstellungsbewilligung beauftragt werden (Lohnherstellung).[^9-6]
+<sup>2bis</sup> Mit der Herstellung von Arzneimitteln nach Absatz 2 Buchstaben a–c<sup>bis</sup> darf ein Betrieb mit Herstellungsbewilligung beauftragt werden (Lohnherstellung).[^9-6]
 
 <sup>2ter</sup> Betriebe mit einer Herstellungsbewilligung des Instituts können ein Komplementärarzneimittel, für das nachweislich kein alternativ anwendbares und gleichwertiges Arzneimittel verfügbar oder zugelassen ist, auch ohne Lohnherstellungsauftrag nach Absatz 2<sup>bis</sup> herstellen und an Betriebe, die nach Absatz 2 Buchstaben a, b und c herstellberechtigt sind, vertreiben. Ein Betrieb darf pro Wirkstoff und Jahr höchstens 100 Packungen eines solchen Arzneimittels mit insgesamt höchstens 3000 Tagesdosen herstellen; bei homöopathischen und anthroposophischen Arzneimitteln gilt diese Beschränkung für jede Verdünnungsstufe einzeln.[^9-7]
 
@@ -423,7 +423,7 @@ Das Institut sieht für bestimmte Kategorien von Arzneimitteln vereinfachte Zula
 - a. Arzneimittel mit bekannten Wirkstoffen;
 - a<sup>bis</sup>.[^14-1] Arzneimittel, deren Wirkstoffe in einem Arzneimittel verwendet werden, das zum Zeitpunkt der Gesuchseinreichung nachweislich seit mindestens 10 Jahren in mindestens einem Land der EU oder EFTA als Arzneimittel zugelassen ist und das hinsichtlich Indikationen, Dosierung und Applikationsart vergleichbar ist;
 - a<sup>ter</sup>.[^14-2] nicht verschreibungspflichtige Arzneimittel mit Indikationsangabe, die zum Zeitpunkt der Gesuchseinreichung nachweislich seit mindestens 30 Jahren medizinisch verwendet werden, davon mindestens 15 Jahre in Ländern der EU und der EFTA;
-- [tab] a<sup>quater</sup>.[^14-3]Arzneimittel, die zum Zeitpunkt der Gesuchseinreichung nachweislich mindestens 15 Jahre in einem Kanton als Arzneimittel zugelassen sind;
+- a<sup>quater</sup>.[^14-3] Arzneimittel, die zum Zeitpunkt der Gesuchseinreichung nachweislich mindestens 15 Jahre in einem Kanton als Arzneimittel zugelassen sind;
 - b.[^14-4] Komplementärarzneimittel;
 - c.[^14-5] …
 - c<sup>bis</sup>.[^14-6] Phytoarzneimittel;
@@ -552,7 +552,7 @@ Das Institut widerruft die Zulassung eines Arzneimittels, wenn dieses:
 [^16a-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^16a-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16a-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16a-4]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^16a-4]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^16a-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16a-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -895,7 +895,7 @@ Unzulässig ist Publikumswerbung für Arzneimittel, die:
 - d. häufig missbraucht werden oder zu Gewöhnung und Abhängigkeit führen können.
 
 [^32-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^32-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^32-2]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 33
 
@@ -904,6 +904,22 @@ Unzulässig ist Publikumswerbung für Arzneimittel, die:
 [^33-1]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### 6. Abschnitt: Besondere Bestimmungen für Blut und Blutprodukte
+
+#### Art. 33a
+
+**Unentgeltlichkeit der Blutspende**[^33a-1]
+
+<sup>1</sup> Es ist verboten, für die Spende von menschlichem Blut einen finanziellen Gewinn oder einen anderen Vorteil anzubieten, zu gewähren, zu fordern oder anzunehmen.
+
+<sup>2</sup>
+
+Nicht als finanzieller Gewinn oder anderer Vorteil gilt:
+
+- a. der Ersatz des Erwerbsausfalls und des Aufwandes, die der spendenden Person unmittelbar entstehen;
+- b. der Ersatz von Schäden, welche die spendende Person durch die Blutspende erleidet;
+- c. eine nachträgliche symbolische Geste der Dankbarkeit.
+
+[^33a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Anpassungen der Bestimmungen zur Blutspende), in Kraft seit 1. Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 34
 
@@ -928,7 +944,11 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>1</sup> Für jede einzelne Einfuhr von Blut und Blutprodukten muss eine Einfuhrbewilligung eingeholt werden. Die Einlagerung in ein Zolllager gilt als Einfuhr.
 
+<sup>1bis</sup> Blut und labile Blutprodukte, die für Transfusionen eingeführt werden, müssen den Anforderungen an die Unentgeltlichkeit der Blutspende nach Artikel 33*a* genügen.[^35-1]
+
 <sup>2</sup> Der Bundesrat kann Ausnahmen von der Einfuhrbewilligung vorsehen, wenn eine Gefährdung von Personen ausgeschlossen ist.
+
+[^35-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Anpassungen der Bestimmungen zur Blutspende), in Kraft seit 1. Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 36
 
@@ -943,7 +963,11 @@ Vom Blutspenden auszuschliessen sind Personen:
 - a. deren Gesundheit durch die Blutentnahme Schaden erleiden kann;
 - b. durch deren Blut Krankheitserreger übertragen werden können.
 
+<sup>2bis</sup> Die Ausschlusskriterien dürfen niemanden diskriminieren. Soweit sie am Risikoverhalten der spendewilligen Personen anknüpfen, stellen sie auf das individuelle Verhalten ab und müssen wissenschaftlich begründet sein.[^36-1]
+
 <sup>3</sup> Der Bundesrat regelt die Anforderungen an die Spendetauglichkeit, die Zuständigkeit für deren Abklärung und die dabei zu erhebenden Daten.
+
+[^36-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Anpassungen der Bestimmungen zur Blutspende), in Kraft seit 1. Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 37
 
@@ -1025,9 +1049,11 @@ Der Bundesrat regelt die Einzelheiten. Er kann insbesondere:
 
 #### Art. 41
 
-**Weitere Vorschriften**
+**Weitere Sicherheitsbestimmungen[^41-1]**
 
 Der Bundesrat kann weitere Sicherheitsmassnahmen vorschreiben; er kann insbesondere festlegen, dass Verfahren, mit welchen allfällige Krankheitserreger entfernt oder inaktiviert werden, erst nach einer Zulassung durch das Institut angewendet werden dürfen.
+
+[^41-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Anpassungen der Bestimmungen zur Blutspende), in Kraft seit 1. Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 ### 7. Abschnitt: Besondere Bestimmungen für Tierarzneimittel
 
@@ -1293,7 +1319,7 @@ Der Bundesrat kann die Werbung für bestimmte Medizinprodukte zum Schutz der Ges
 Auf klinische Versuche mit Heilmitteln am Menschen ist zusätzlich zu den Vorschriften dieses Gesetzes das Humanforschungsgesetz vom 30. September 2011[^53-2] anwendbar.
 
 [^53-1]: Fassung gemäss Anhang Ziff. 6 des Humanforschungsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
-[^53-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^53-2]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 #### Art. 54
 
@@ -1375,7 +1401,7 @@ Der Bundesrat kann unter Beachtung anerkannter internationaler Regelungen Melde-
 <sup>3</sup> Er regelt das Meldeverfahren und den Informationsaustausch. Er kann bestimmen, dass die Meldung und der Informationsaustausch auf dem elektronischen Weg erfolgen müssen.
 
 [^54b-1]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54b-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^54b-2]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### 2*a*. Abschnitt: Integrität und Transparenz
 
@@ -1561,7 +1587,7 @@ Der Bundesrat erlässt Ausführungsbestimmungen über:
 <sup>2</sup> Persönliche Patientendaten dürfen nicht bekannt gegeben werden.
 
 [^62b-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^62b-3]: Fassung gemäss Anhang 1 Ziff. II 74 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62c
@@ -1704,7 +1730,7 @@ Das Informationssystem Antibiotika bezieht:
 - a. Daten aus anderen Anwendungen des gemeinsamen zentralen Informationssystems entlang der Lebensmittelkette gemäss Artikel 64*c* Absatz 2;
 - b. Personendaten aus dem Register der universitären Medizinalberufe nach den Artikeln 51–54 des Medizinalberufegesetzes vom 23. Juni 2006[^64d-1] (Medizinalberuferegister).
 
-[^64d-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^64d-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 64e
 
@@ -1726,7 +1752,7 @@ Zur Erfüllung ihrer gesetzlichen Aufgaben können die folgenden Stellen oder Pe
 - c. Tierhalterinnen und Tierhalter: Daten, die sie selbst betreffen;
 - d. Tierärztinnen und Tierärzte sowie die weiteren der Meldepflicht nach Artikel 64*f* Buchstabe h unterstellten Personen: Daten, die sie selbst betreffen, sowie Daten, die sie gemeldet haben.
 
-[^64e-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^64e-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 64f
 
@@ -1744,7 +1770,7 @@ Der Bundesrat regelt für das Informationssystem Antibiotika:
 - h. die Meldepflichten der Personen, die Antibiotika vertreiben, verschreiben, abgeben und anwenden; von der Meldepflicht ausgenommen sind Tierhalterinnen und Tierhalter;
 - i. den Bezug von Daten zur Tierärzteschaft aus dem Medizinalberuferegister nach Artikel 51–54 des Medizinalberufegesetzes 23. Juni 2006[^64f-1].
 
-[^64f-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^64f-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 64g
 
@@ -1829,7 +1855,7 @@ Die Vollzugsbehörden informieren die betroffenen Personen spätestens nach Absc
 
 <sup>1</sup> Das Institut sorgt dafür, dass die Öffentlichkeit über besondere Ereignisse im Zusammenhang mit Heilmitteln, welche die Gesundheit gefährden, informiert wird und Verhaltensempfehlungen erhält. Es veröffentlicht Informationen von allgemeinem Interesse aus dem Bereich Heilmittel, insbesondere über Zulassungs- und Widerrufsentscheide sowie Erkenntnisse im Rahmen der Marktüberwachung.[^67-1]
 
-<sup>1</sup> <sup>bis</sup> Die Fachinformationen enthalten sämtliche Wirk- und Hilfsstoffe eines Arzneimittels.[^67-2]
+<sup>1bis</sup> Die Fachinformationen enthalten sämtliche Wirk- und Hilfsstoffe eines Arzneimittels.[^67-2]
 
 <sup>2</sup> Die zuständigen Bundesstellen können die Öffentlichkeit zum Schutz der Gesundheit und zur Bekämpfung des Heilmittelmissbrauchs über die sachgerechte Verwendung von Heilmitteln informieren.
 
@@ -1937,7 +1963,7 @@ Der Bundesrat:
 [^69-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^69-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^69-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^69-4]: [SR 0.812.41](https://fedlex.data.admin.ch/eli/cc/2019/87); [BBl 2017 3185](https://fedlex.data.admin.ch/eli/fga/2017/651)
+[^69-4]: [SR 0.812.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3470); [BBl 2017 3185](https://fedlex.data.admin.ch/eli/fga/2017/651)
 [^69-5]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 
 #### Art. 70
@@ -1987,7 +2013,7 @@ Die Organe des Instituts sind:
 <sup>6</sup> Ein Mitglied im Institutsrat kann abberufen werden, wenn es seine Interessenbindungen anlässlich der Wahl nicht vollständig offengelegt oder Änderungen der Interessenbindungen während der Amtsdauer nicht gemeldet hat und dies auch nach entsprechender Aufforderung durch das Eidgenössische Departement des Innern unterlässt.
 
 [^71a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^71a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^71a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 72
 
@@ -2066,7 +2092,7 @@ Sie hat folgende Aufgaben:
 <sup>5</sup> Er kann die Revisionsstelle abberufen.
 
 [^74-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^74-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^74-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 4. Abschnitt: Personal
 
@@ -2083,9 +2109,9 @@ Sie hat folgende Aufgaben:
 <sup>4</sup> Der Bundesrat legt die Entschädigungen der Mitglieder des Institutsrats fest. Für das Honorar der Mitglieder des Institutsrats und die weiteren mit diesen Personen vereinbarten Vertragsbedingungen gilt Artikel 6*a* Absätze 1–5 des Bundespersonalgesetzes.[^75-6]
 
 [^75-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^75-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^75-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^75-4]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^75-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^75-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2104,7 +2130,7 @@ Sie hat folgende Aufgaben:
 <sup>5</sup> Wer in guten Treuen eine Anzeige oder Meldung erstattet oder wer als Zeuge oder Zeugin ausgesagt hat, darf deswegen nicht in seiner beruflichen Stellung benachteiligt werden.
 
 [^75a-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^75a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^75a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 75b
 
@@ -2256,7 +2282,7 @@ Das Institut und die von ihm Beauftragten haften nur, wenn:
 - b. Schäden nicht auf Pflichtverletzungen einer oder eines Beaufsichtigten zurückzuführen sind.
 
 [^80-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^80-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^80-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 81
 
@@ -2357,13 +2383,13 @@ Die Kantone erfüllen die Vollzugsaufgaben, die:
 <sup>3</sup> Es ist zudem berechtigt, gegen Entscheide letzter kantonaler Instanzen, die in Anwendung des Humanforschungsgesetzes vom 30. September 2011[^84-8] ergangen sind, Beschwerde zu führen (Art. 89 Abs. 2 Bst. a des Bundesgerichtsgesetzes vom 17. Juni 2005).[^84-9]
 
 [^84-1]: Aufgehoben durch Anhang Ziff. 89 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^84-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^84-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^84-4]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^84-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^84-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^84-4]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^84-5]: Fassung gemäss Anhang Ziff. 89 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^84-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^84-7]: Fassung gemäss Ziff. I 12 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^84-8]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^84-8]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 [^84-9]: Eingefügt durch Anhang Ziff. 6 des Humanforschungsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 
 #### Art. 85
@@ -2384,35 +2410,36 @@ Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer vo
 
 - a. Arzneimittel ohne die erforderliche Zulassung oder Bewilligung, entgegen den mit einer Zulassung oder Bewilligung verknüpften Auflagen und Bedingungen oder entgegen den in den Artikeln 3, 7, 21, 22, 26, 29 und 42 statuierten Sorgfaltspflichten herstellt, in Verkehr bringt, anwendet, verschreibt, einführt, ausführt oder damit im Ausland handelt;
 - b. antibiotische Wirkstoffe entgegen den gestützt auf Artikel 42*a* Absatz 2 erlassenen Einschränkungen oder Verboten einsetzt;
-- c. beim Umgang mit Blut und Blutprodukten die Vorschriften über die Spendetauglichkeit, die Testpflicht, die Aufzeichnungs- oder Aufbewahrungspflicht oder Sorgfaltspflichten nach Artikel 37 verletzt oder die notwendigen Schutz- und Sicherheitsmassnahmen unterlässt;
-- d.[^86-2] Medizinprodukte, die den Anforderungen dieses Gesetzes nicht entsprechen, in Verkehr bringt, ausführt oder anwendet oder Medizinprodukte anwendet, ohne dass die erforderlichen fachlichen und betrieblichen Voraussetzungen erfüllt sind;
+- c.[^86-2] beim Umgang mit Blut und Blutprodukten die Vorschriften über die Unentgeltlichkeit der Blutspende, die Spendetauglichkeit, die Testpflicht, die Aufzeichnungs- oder Aufbewahrungspflicht oder Sorgfaltspflichten nach Artikel 37 verletzt oder die notwendigen Schutz- und Sicherheitsmassnahmen unterlässt;
+- d.[^86-3] Medizinprodukte, die den Anforderungen dieses Gesetzes nicht entsprechen, in Verkehr bringt, ausführt oder anwendet oder Medizinprodukte anwendet, ohne dass die erforderlichen fachlichen und betrieblichen Voraussetzungen erfüllt sind;
 - e. die Sorgfaltspflicht nach Artikel 48 oder die Instandhaltungspflicht für Medizinprodukte verletzt;
 - f. am Menschen einen klinischen Versuch durchführt oder durchführen lässt, der den Anforderungen dieses Gesetzes nicht entspricht;
 - g. Arzneimittel oder Medizinprodukte unrechtmässig nachmacht, verfälscht oder falsch bezeichnet oder unrechtmässig nachgemachte, verfälschte oder falsch bezeichnete Arzneimittel oder Medizinprodukte in Verkehr bringt, anwendet, einführt, ausführt oder damit im Ausland handelt;
 - h. gegen ein Verbot nach Artikel 55 verstösst;
-- i.[^86-3] Produkte in Verkehr bringt, die den vom Bundesrat nach Artikel 2*a* festgelegten Anforderungen nicht entsprechen;
-- j.[^86-4] für menschliches Gewebe oder menschliche Zellen einen finanziellen Gewinn oder einen anderen Vorteil anbietet, gewährt, fordert oder annimmt oder solche Gewebe oder Zellen für die Herstellung von Produkten nach Artikel 2*a* verwendet;
-- k.[^86-5] menschliches Gewebe oder menschliche Zellen für die Herstellung von Produkten nach Artikel 2*a* entnimmt oder verwendet, ohne dass für die Entnahme eine Zustimmung vorliegt.
+- i.[^86-4] Produkte in Verkehr bringt, die den vom Bundesrat nach Artikel 2*a* festgelegten Anforderungen nicht entsprechen;
+- j.[^86-5] für menschliches Gewebe oder menschliche Zellen einen finanziellen Gewinn oder einen anderen Vorteil anbietet, gewährt, fordert oder annimmt oder solche Gewebe oder Zellen für die Herstellung von Produkten nach Artikel 2*a* verwendet;
+- k.[^86-6] menschliches Gewebe oder menschliche Zellen für die Herstellung von Produkten nach Artikel 2*a* entnimmt oder verwendet, ohne dass für die Entnahme eine Zustimmung vorliegt.
 
 <sup>2</sup>
 
-Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a–g und i–k:[^86-6]
+Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a–g und i–k:[^86-7]
 
 - a. weiss oder annehmen muss, dass die Widerhandlung die Gesundheit von Menschen konkret gefährdet;
 - b. durch gewerbsmässiges Handeln einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
 
-<sup>3</sup> Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a, c, d, f, g und i–k als Mitglied einer Bande zur fortgesetzten Ausübung des unerlaubten Heilmittelhandels handelt.[^86-7]
+<sup>3</sup> Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a, c, d, f, g und i–k als Mitglied einer Bande zur fortgesetzten Ausübung des unerlaubten Heilmittelhandels handelt.[^86-8]
 
-<sup>4</sup> Wer fahrlässig handelt, wird mit Geldstrafe bestraft. In leichten Fällen kann auf Busse erkannt werden.[^86-8]
+<sup>4</sup> Wer fahrlässig handelt, wird mit Geldstrafe bestraft. In leichten Fällen kann auf Busse erkannt werden.[^86-9]
 
 [^86-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 mit Ausnahme von Abs. 1 Bst. h, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^86-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-3]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Anpassungen der Bestimmungen zur Blutspende), in Kraft seit 1. Jan. 2025 ([AS 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [BBl 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
+[^86-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-4]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-5]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-6]: Fassung gemäss Ziff. I 30 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-6]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^86-7]: Fassung gemäss Ziff. I 30 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^86-8]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-8]: Fassung gemäss Ziff. I 30 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-9]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
 
@@ -2444,7 +2471,7 @@ Mit Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich:[^87-2]
 [^87-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^87-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^87-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^87-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-6]: Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
 [^87-7]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -2458,7 +2485,7 @@ Mit Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich:[^87-2]
 
 Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen, den Gebrauch von unechten oder unwahren Bescheinigungen, das unberechtigte Ausstellen von Konformitätserklärungen, das unberechtigte Anbringen und Verwenden von Konformitätszeichen sowie für unrechtmässige Vermögensvorteile im Sinne der Artikel 23–29 des Bundesgesetzes vom 6. Oktober 1995[^88-1] über die technischen Handelshemmnisse gelten die dort genannten Strafandrohungen.
 
-[^88-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^88-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 89
 
@@ -2469,7 +2496,7 @@ Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen,
 <sup>2</sup> Die Artikel 6 und 7 VStrR gelten auch bei der Strafverfolgung durch kantonale Behörden.
 
 [^89-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^89-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^89-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 90
 
@@ -2484,9 +2511,9 @@ Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen,
 <sup>4</sup> Ist in einer Strafsache, die in den Geltungsbereich dieses Gesetzes fällt, sowohl die Zuständigkeit des Bundes als auch die der Kantone gegeben, so können die zuständigen Behörden die Vereinigung der Verfahren zuhanden des Bundes oder des Kantons vereinbaren.
 
 [^90-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^90-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^90-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^90-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^90-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^90-4]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^90-5]: Ausdruck gemäss Ziff. I 30 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 90a
@@ -2504,7 +2531,7 @@ Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen,
 <sup>5</sup> In den Fällen nach Absatz 4 gelangt das Institut oder das BAZG mit Zustimmung der Bundesanwaltschaft an das Zwangsmassnahmengericht. Genehmigt dieses die Massnahmen, so übernimmt die Bundesanwaltschaft das Verfahren in Anwendung der StPO.
 
 [^90a-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^90a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 90b
 
@@ -2513,7 +2540,7 @@ Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen,
 Bezieht sich ein vom Institut oder vom BAZG geführtes Verfahren mehrheitlich auf Straftaten im Ausland oder erweist sich das Verfahren als so komplex oder aufwendig, dass es mit den Mitteln, die dem Institut oder dem BAZG zur Verfügung stehen, nicht oder nicht innert angemessener Frist abgeschlossen werden kann, so kann das Institut oder das BAZG die Bundesanwaltschaft um Übernahme des Verfahrens ersuchen. Diese führt das Verfahren in Anwendung der StPO[^90b-2] durch.
 
 [^90b-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90b-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^90b-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 90c
 
@@ -2522,7 +2549,7 @@ Bezieht sich ein vom Institut oder vom BAZG geführtes Verfahren mehrheitlich au
 Das Institut und das BAG können unabhängige und fachkundige Personen damit beauftragen, im Rahmen von Verwaltungsstrafverfahren beschlagnahmte Daten zu sichern, zu speichern, auszuwerten und aufzubewahren. Im Rahmen ihrer Tätigkeit für das Institut oder das BAG unterstehen diese Personen den für das Personal des Instituts oder der Bundesverwaltung geltenden Pflichten. Ihre Entschädigungen stellen Barauslagen im Sinne von Artikel 94 Absatz 1 VStrR[^90c-2] dar.
 
 [^90c-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90c-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^90c-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 9. Kapitel: Schlussbestimmungen
 

@@ -4,11 +4,11 @@ title: "Legge federale del 15 dicembre 2000 sui medicamenti e i dispositivi medi
 short: LATer
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/it"
 
 (Legge sugli agenti terapeutici, LATer)
 
-del 15 dicembre 2000 (Stato 1° gennaio 2024)
+del 15 dicembre 2000 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 95 capoverso 1 e 118 capoverso 2 della Costituzione federale[
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: FF **1999** 2959
 
 ## Capitolo 1: Disposizioni generali
@@ -61,16 +61,16 @@ Nell’esecuzione della presente legge, in particolare nell’emanazione di ordi
 La presente legge si applica:
 
 - a.[^2-1] al trattamento di medicamenti e dispositivi medici (agenti terapeutici);
-- b. agli stupefacenti ai sensi della legge federale del 3 ottobre 1951[^2-2] sugli stupefacenti (LStup), per quanto siano utilizzati come agenti terapeutici;
+- b. agli stupefacenti ai sensi della legge federale del 3 ottobre 1951[^2-2] sugli stupefacenti, per quanto siano utilizzati come agenti terapeutici;
 - c. ai metodi terapeutici quali la terapia genica, per quanto in relazione diretta con agenti terapeutici. Il Consiglio federale può emanare disposizioni speciali in merito.
 
 <sup>2</sup> Il Consiglio federale può escludere del tutto o in parte dal campo d’applicazione della presente legge i dispositivi medici per uso veterinario o destinati alla diagnostica veterinaria.
 
 <sup>3</sup> Può sottoporre alla presente legge determinati prodotti senza destinazione d’uso medica che per le loro funzionalità e i loro profili di rischio sono simili ai dispositivi medici.[^2-3]
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^2-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^2-3]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^2-2]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^2-3]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 2a
 
@@ -82,8 +82,8 @@ La presente legge si applica:
 
 <sup>3</sup> Tessuti e cellule umani possono essere prelevati o utilizzati per la fabbricazione di prodotti di cui ai capoversi 1 e 2 solo in presenza del consenso per il prelievo. Per questi tessuti e per queste cellule non possono essere offerti, concessi, richiesti o accettati né un profitto finanziario né vantaggi di altro tipo.
 
-[^2a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^2a-2]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^2a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^2a-2]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 #### Art. 3
 
@@ -93,7 +93,7 @@ La presente legge si applica:
 
 <sup>2</sup> Nel caso di medicamenti della medicina complementare senza menzione dell’indicazione occorre tener conto dello stato della scienza e della tecnica alla luce dei principi del corrispondente indirizzo terapeutico.[^3-1]
 
-[^3-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^3-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 4
 
@@ -106,15 +106,15 @@ Ai sensi della presente legge si intende per:
 - a. *medicamenti:* i prodotti di origine chimica o biologica destinati ad avere un’azione medica sull’organismo umano o animale o dichiarati tali, utilizzati segnatamente ai fini della diagnosi, della prevenzione o del trattamento di malattie, ferite e handicap; sono medicamenti anche il sangue e i suoi derivati;
 - a<sup>bis</sup>.[^4-1] *medicamenti con menzione dell’indicazione:* i medicamenti con menzione ufficialmente approvata di un settore di applicazione determinato destinati all’uso secondo le norme riconosciute delle scienze mediche e farmaceutiche;
 - a<sup>ter</sup>.[^4-2] *medicamenti della medicina complementare con menzione dell’indicazione:* i medicamenti con menzione ufficialmente approvata di un settore di applicazione determinato fabbricati secondo le prescrizioni di fabbricazione di indirizzi terapeutici della medicina complementare quali l’omeopatia, la medicina antroposofica o la medicina asiatica tradizionale e impiegati secondo i principi del corrispondente indirizzo terapeutico;
-- [tab] a<sup>quater</sup>.[^4-3] *medicamenti della medicina complementare senza menzione dell’indica**zione:* i medicamenti della medicina complementare senza menzione ufficialmente approvata di un settore di applicazione determinato destinati all’uso terapeutico individuale;
-- [tab] a<sup>quinquies</sup>.[^4-4] *medicamenti fitoterapeutici:* i medicamenti con menzione dell’indicazione che contengono come principi attivi esclusivamente una o più sostanze vegetali o preparati vegetali e che non possono essere attribuiti ai medicamenti della medicina complementare;
-- [tab] a<sup>sexies</sup>.[^4-5] *preparato originale:* il primo medicamento omologato con un determinato principio attivo dall’Istituto svizzero per gli agenti terapeutici (Istituto), compresa qualsiasi forma galenica omologata allo stesso momento o ulteriormente;
-- [tab] a<sup>septies</sup>.[^4-6] *medicamento generico:* un medicamento omologato dall’Istituto essenzialmente analogo a un preparato originale e sostituibile a quest’ultimo in quanto contenente i medesimi principi attivi e offerto nelle medesime forme galeniche e con i medesimi dosaggi;
-- [tab] a<sup>octies</sup>.[^4-7] *preparato di riferimento:* un medicamento biologico impiegato come riferimento nella documentazione di omologazione relativa a un medicamento biosimilare e la cui qualità, efficacia e sicurezza farmaceutiche fungono da base per il paragone;
-- [tab] a<sup>novies</sup>.[^4-8] *medicamento biosimilare:* un medicamento biologico che ha una sufficiente similarità con un preparato di riferimento omologato dall’Istituto e che si riferisce alla documentazione relativa a tale preparato;
-- [tab]
+- a<sup>quater</sup>.[^4-3] *medicamenti della medicina complementare senza menzione dell’indica**zione:* i medicamenti della medicina complementare senza menzione ufficialmente approvata di un settore di applicazione determinato destinati all’uso terapeutico individuale;
+- a<sup>quinquies</sup>.[^4-4] *medicamenti fitoterapeutici:* i medicamenti con menzione dell’indicazione che contengono come principi attivi esclusivamente una o più sostanze vegetali o preparati vegetali e che non possono essere attribuiti ai medicamenti della medicina complementare;
+- a<sup>sexies</sup>.[^4-5] *preparato originale:* il primo medicamento omologato con un determinato principio attivo dall’Istituto svizzero per gli agenti terapeutici (Istituto), compresa qualsiasi forma galenica omologata allo stesso momento o ulteriormente;
+- a<sup>septies</sup>.[^4-6] *medicamento generico:* un medicamento omologato dall’Istituto essenzialmente analogo a un preparato originale e sostituibile a quest’ultimo in quanto contenente i medesimi principi attivi e offerto nelle medesime forme galeniche e con i medesimi dosaggi;
+- a<sup>octies</sup>.[^4-7] *preparato di riferimento:* un medicamento biologico impiegato come riferimento nella documentazione di omologazione relativa a un medicamento biosimilare e la cui qualità, efficacia e sicurezza farmaceutiche fungono da base per il paragone;
+- a<sup>novies</sup>.[^4-8] *medicamento biosimilare:* un medicamento biologico che ha una sufficiente similarità con un preparato di riferimento omologato dall’Istituto e che si riferisce alla documentazione relativa a tale preparato;
+- a<sup>decies</sup>.[^4-9]
 
-  a<sup>decies</sup>.[^4-9] *medicamento importante per malattie rare («orphan drug»):* un medicamento per uso umano per il quale è fornita la prova che:
+  *medicamento importante per malattie rare («orphan drug»):* un medicamento per uso umano per il quale è fornita la prova che:
 
   - 1\. il medicamento serve per la diagnosi, la prevenzione o il trattamento di una malattia che può avere esito letale o essere cronica e invalidante, dalla quale sono affette in Svizzera, al momento della presentazione della domanda, al massimo cinque persone su diecimila, o
   - 2\. lo statuto di medicamento importante per malattie rare è stato conferito al medicamento o al suo principio attivo da un altro Paese con controllo dei medicamenti equivalente ai sensi dell’articolo 13;
@@ -135,24 +135,24 @@ Ai sensi della presente legge si intende per:
 
 <sup>3</sup> Può, mediante ordinanza, prevedere definizioni diverse rispetto al capoverso 1 per il settore dei dispositivi medici, purché ciò sia utile ai fini dell’armonizzazione internazionale.[^4-18]
 
-[^4-1]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-2]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-3]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-4]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-5]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-6]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-7]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-8]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-9]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-10]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^4-1]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-2]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-3]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-4]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-5]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-6]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-7]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-8]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-9]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-10]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^4-11]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LREC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^4-12]: Nuovo testo giusta l’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^4-13]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-14]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-15]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-16]: Introdotta dal n. I della LF del 18 mar. 2016 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^4-17]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-18]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^4-13]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-14]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-15]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-16]: Introdotta dalla cifra I della LF del 18 mar. 2016 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^4-17]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-18]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ## Capitolo 2: Medicamenti
 
@@ -178,9 +178,9 @@ Il Consiglio federale regola le eccezioni all’obbligo di autorizzazione. Può 
 
 <sup>3</sup> Il Consiglio federale può sottoporre all’obbligo di autorizzazione la fabbricazione di sostanze ausiliarie farmaceutiche che comportano un rischio elevato per i pazienti; a tal fine tiene conto dei requisiti riconosciuti in materia sul piano internazionale.[^5-3]
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^5-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^5-3]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^5-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^5-3]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 6
 
@@ -203,7 +203,7 @@ L’autorizzazione è rilasciata se:
 
 <sup>2</sup> Il Consiglio federale precisa le norme riconosciute della Buona prassi di fabbricazione. A tal fine tiene conto delle direttive e delle norme riconosciute sul piano internazionale.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 7a
 
@@ -214,7 +214,7 @@ Le farmacie pubbliche e quelle ospedaliere devono essere titolari delle autorizz
 - a. le farmacie pubbliche, almeno di un’autorizzazione che permette la fabbricazione dei medicamenti di cui all’articolo 9 capoverso 2 lettera a;
 - b. le farmacie ospedaliere, almeno di un’autorizzazione che permette la fabbricazione dei medicamenti di cui all’articolo 9 capoverso 2.
 
-[^7a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^7a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### Sezione 2: Principio dell’immissione in commercio e procedura di omologazione
 
@@ -224,7 +224,7 @@ Le farmacie pubbliche e quelle ospedaliere devono essere titolari delle autorizz
 
 I medicamenti e le sostanze ausiliarie farmaceutiche immessi in commercio devono soddisfare i requisiti della Farmacopea o di altre farmacopee riconosciute dall’Istituto, sempre che vi siano prescrizioni corrispondenti.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 9
 
@@ -239,7 +239,7 @@ Non sono soggetti all’obbligo d’omologazione:
 - a.[^9-1] medicamenti fabbricati per una determinata persona o per un determinato gruppo di persone oppure per un determinato animale o per un determinato effettivo di animali da una farmacia pubblica o da una farmacia ospedaliera su prescrizione medica (*formula magistralis*).Sulla base di tale prescrizione, il medicamento può essere fabbricato dalla farmacia pubblica o dalla farmacia ospedaliera *ad hoc* o per costituire scorte; la dispensazione, tuttavia, può avvenire solo su prescrizione medica;
 - b.[^9-2] i medicamenti destinati alla dispensazione alla propria clientela, fabbricati *ad hoc* o per costituire scorte in una farmacia pubblica, in una farmacia ospedaliera, in una drogheria o in un’altra azienda titolare di un’autorizzazione di fabbricazione, secondo una monografia speciale dei preparati della Farmacopea oppure di un’altra farmacopea o di un altro Formularium riconosciuti dall’Istituto (*formula officinalis*);
 - c.[^9-3] medicamenti non sottoposti a ricetta medica alla propria clientela, fabbricati *ad hoc* o per costituire scorte, secondo una formula propria o pubblicata nella letteratura specializzata, in una farmacia pubblica, in una farmacia ospedaliera, in una drogheria o in un’altra azienda titolare di un’autorizzazione di fabbricazione, a condizione che la persona responsabile della fabbricazione disponga della competenza in materia di dispensazione di cui all’articolo 25;
-- [tab] c<sup>bis</sup>.[^9-4] medicamenti destinati alla dispensazione alla propria clientela, fabbricati per costituire scorte in una farmacia ospedaliera conformemente a una lista di medicamenti interna all’istituto, per i quali non sia disponibile o non sia omologato alcun medicamento alternativo equivalente;
+- c<sup>bis</sup>.[^9-4] medicamenti destinati alla dispensazione alla propria clientela, fabbricati per costituire scorte in una farmacia ospedaliera conformemente a una lista di medicamenti interna all’istituto, per i quali non sia disponibile o non sia omologato alcun medicamento alternativo equivalente;
 - d. i medicamenti per sperimentazioni cliniche;
 - e. i medicamenti non standardizzabili;
 - f.[^9-5] i medicamenti che il 1° gennaio 2002 disponevano di un’omologazione cantonale e che all’entrata in vigore della modifica del 18 marzo 2016 sono ancora in commercio; essi devono essere caratterizzati come tali e possono essere immessi in commercio soltanto nel Cantone interessato e dispensati soltanto da persone autorizzate a dispensare medicamenti in virtù della presente legge.
@@ -252,17 +252,17 @@ Non sono soggetti all’obbligo d’omologazione:
 
 <sup>3</sup> Il Consiglio federale può prescrivere un’omologazione per il procedimento di produzione o di fabbricazione di medicamenti non standardizzabili.
 
-<sup>4</sup> ...[^9-9]
+<sup>4</sup> …[^9-9]
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
-[^9-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^9-3]: Nuovo testo giusta il n. I della LF del 13 giu. 2008, in vigore dal 1° ott. 2011 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
-[^9-4]: Introdotto dal n. I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
-[^9-5]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^9-6]: Introdotto dal n. I della LF del 13 giu. 2008 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)). Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^9-7]: Introdotto dal n. I della LF del 13 giu. 2008 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)). Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^9-8]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^9-9]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^9-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-3]: Nuovo testo giusta la cifra I della LF del 13 giu. 2008, in vigore dal 1° ott. 2011 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^9-4]: Introdotto dalla cifra I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^9-5]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-6]: Introdotto dalla cifra I della LF del 13 giu. 2008 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)). Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-7]: Introdotto dalla cifra I della LF del 13 giu. 2008 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)). Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-8]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-9]: Abrogato dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 9a
 
@@ -278,7 +278,7 @@ L’Istituto può omologare a tempo determinato, con procedura semplificata seco
 
 <sup>2</sup> L’Istituto stabilisce le prove che vanno presentate a sostegno di una domanda di omologazione secondo il capoverso 1.
 
-[^9a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 9b
 
@@ -293,7 +293,7 @@ Se un medicamento omologato in Svizzera è temporaneamente indisponibile, l’Is
 - a. il medicamento identico sia omologato in un Paese con un controllo dei medicamenti equivalente; e
 - b. in Svizzera non sia omologato e disponibile nessun altro medicamento essenzialmente analogo.
 
-[^9b-1]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9b-1]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 10
 
@@ -316,9 +316,9 @@ Chi chiede l’omologazione deve:[^10-1]
 
 <sup>2</sup> L’Istituto verifica le condizioni per l’omologazione. A tal fine può effettuare ispezioni riferite a singoli prodotti.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^10-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^10-3]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^10-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^10-3]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 11
 
@@ -366,7 +366,7 @@ Il Consiglio federale:
 - a. stabilisce i requisiti concernenti l’organizzazione, lo svolgimento e la registrazione degli esami farmacologici e tossicologici di cui al capoverso 2 lettera a numero 2 ed emana prescrizioni in merito alla procedura di controllo; a tal fine tiene conto delle direttive e delle norme riconosciute sul piano internazionale;
 - b. stabilisce le lingue da utilizzare per la caratterizzazione e l’informazione.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 11a
 
@@ -374,7 +374,7 @@ Il Consiglio federale:
 
 La documentazione concernente un medicamento che contiene almeno un nuovo principio attivo ed è omologato secondo la procedura di cui all’articolo 11 è protetta per dieci anni.
 
-[^11a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^11a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 11b
 
@@ -390,7 +390,7 @@ La documentazione concernente un medicamento che contiene almeno un nuovo princi
 
 <sup>5</sup> Il Consiglio federale disciplina i dettagli.
 
-[^11b-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^11b-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 12
 
@@ -405,7 +405,7 @@ La domanda di omologazione di un medicamento essenzialmente analogo a un altro m
 
 <sup>2</sup> Se il titolare dell’omologazione non dà il suo consenso, l’omologazione di un medicamento essenzialmente analogo a un medicamento che beneficia della protezione della documentazione è concessa al più presto il giorno seguente la scadenza della protezione. La domanda di omologazione può essere presentata al più presto due anni prima della scadenza della protezione.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 13
 
@@ -424,9 +424,9 @@ L’Istituto prevede procedure semplificate d’omologazione per determinate cat
 - a. i medicamenti a base di principi attivi noti;
 - a<sup>bis</sup>.[^14-2] i medicamenti i cui principi attivi sono usati in un medicamento per il quale è fornita la prova che, nel momento in cui è presentata la domanda, è omologato da almeno dieci anni in almeno un Paese dell’Unione europea (UE) o dell’Associazione europea di libero scambio (AELS) e che è equivalente per quel che concerne le indicazioni, il dosaggio e il tipo di applicazione;
 - a<sup>ter</sup>.[^14-3] i medicamenti con menzione dell’indicazione non soggetti a prescrizione e di cui, nel momento in cui è presentata la domanda, è provato l’uso medico da almeno 30 anni, di cui almeno 15 in Paesi dell’UE o dell’AELS;
-- [tab] a<sup>quater</sup>.[^14-4] i medicamenti per i quali è fornita la prova che, nel momento in cui è presentata la domanda, sono omologati in un Cantone da almeno 15 anni;
+- a<sup>quater</sup>.[^14-4] i medicamenti per i quali è fornita la prova che, nel momento in cui è presentata la domanda, sono omologati in un Cantone da almeno 15 anni;
 - b. i medicamenti della medicina complementare;
-- c.[^14-5] ...
+- c.[^14-5] …
 - c<sup>bis</sup>.[^14-6] i medicamenti fitoterapeutici;
 - d.[^14-7] medicamenti fabbricati in una farmacia ospedaliera o in un’azienda di radiofarmacia interna all’ospedale per i bisogni dello stesso;
 - e. i medicamenti fabbricati dall’esercito e utilizzati ai fini del servizio sanitario coordinato;
@@ -442,13 +442,13 @@ L’Istituto prevede una procedura semplificata d’omologazione per le richiest
 
 <sup>3</sup> Per i medicamenti oggetto di importazioni parallele, nell’ambito della procedura di omologazione l’Istituto prevede agevolazioni per quanto concerne le esigenze in materia di caratterizzazione del prodotto e di informazione sul medicamento.[^14-8]
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^14-2]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^14-3]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^14-4]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^14-5]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^14-6]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^14-7]: Nuovo testo giusta il n. I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-2]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-3]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-4]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-5]: Abrogata dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-6]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-7]: Nuovo testo giusta la cifra I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^14-8]: Nuovo testo giusta l’all. n. 1 della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 14a
@@ -492,7 +492,7 @@ Durante la durata di validità dell’omologazione dei medicamenti di cui al cap
 - a. tutte le segnalazioni di circostanze preoccupanti registrate a livello internazionale;
 - b. tutti i rapporti intermedi e i risultati finali dei controlli dell’autorità di omologazione estera.
 
-[^14a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 15
 
@@ -507,7 +507,7 @@ Possono essere immessi in commercio su notifica all’Istituto:
 
 <sup>2</sup> L’Istituto compila gli elenchi di cui al capoverso 1 lettera a. Stabilisce i medicamenti o le categorie di medicamenti di cui al capoverso 1 lettera b e disciplina la procedura di notifica.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 16
 
@@ -524,12 +524,12 @@ La prima volta l’omologazione è rilasciata per cinque anni. L’Istituto disp
 
 <sup>3</sup> L’omologazione su notifica è valida a tempo indeterminato.[^16-3]
 
-<sup>4</sup> *...*[^16-4]
+<sup>4</sup> *…*[^16-4]
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16-4]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16-4]: Abrogato dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 16a
 
@@ -550,12 +550,12 @@ L’Istituto revoca l’omologazione di un medicamento se questo:
 
 <sup>5</sup> Nella pubblicazione il titolare dell’omologazione deve indicare che la documentazione concernente l’omologazione sarà trasmessa gratuitamente ai terzi che intendono chiedere un’omologazione a loro nome.[^16a-6]
 
-[^16a-1]: Introdotto dal n. I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
-[^16a-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16a-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16a-4]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^16a-5]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^16a-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16a-1]: Introdotto dalla cifra I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^16a-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16a-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16a-4]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^16a-5]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16a-6]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 16b
 
@@ -565,7 +565,7 @@ L’Istituto revoca l’omologazione di un medicamento se questo:
 
 <sup>2</sup> Una volta rinnovata, l’omologazione è di regola valida a tempo indeterminato. L’Istituto può tuttavia limitarne la durata, segnatamente nel caso delle omologazioni secondo l’articolo 16 capoverso 2 lettere a e b.
 
-[^16b-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16b-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 16c
 
@@ -573,7 +573,7 @@ L’Istituto revoca l’omologazione di un medicamento se questo:
 
 L’Istituto può in ogni momento sottoporre l’omologazione a riesame, adeguarla alle mutate circostanze o revocarla.
 
-[^16c-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16c-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 17
 
@@ -658,7 +658,7 @@ Può:
 
 <sup>4</sup> L’Istituto allestisce un elenco dei medicamenti soggetti a una limitazione o a un divieto di importazione.
 
-[^20-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^20-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 21
 
@@ -680,9 +680,9 @@ L’esportazione o il commercio all’estero di medicamenti è vietato se:
 
 <sup>4</sup> Può, nel singolo caso, autorizzare deroghe alla restrizione o al divieto di esportazione, segnatamente se l’autorità del Paese destinatario acconsente all’importazione.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^21-2]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^21-3]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^21-2]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^21-3]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^21-4]: [RU 2012 3743](https://fedlex.data.admin.ch/eli/oc/2012/427)
 
 #### Art. 22
@@ -697,7 +697,7 @@ L’esportazione o il commercio all’estero di medicamenti è vietato se:
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^chap2-sec4-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 23
 
@@ -709,8 +709,8 @@ L’esportazione o il commercio all’estero di medicamenti è vietato se:
 
 <sup>3</sup> Il Consiglio federale stabilisce i criteri di classificazione.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^23-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^23-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 23a
 
@@ -720,7 +720,7 @@ L’esportazione o il commercio all’estero di medicamenti è vietato se:
 
 <sup>2</sup> L’Istituto verifica periodicamente o su richiesta del titolare dell’omologazione l’attribuzione dei medicamenti e la adegua allo stato della scienza e della tecnica.
 
-[^23a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^23a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 24
 
@@ -746,9 +746,9 @@ Possono dispensare medicamenti soggetti a prescrizione medica:
 
 <sup>3</sup> I Cantoni possono autorizzare le persone di cui all’articolo 25 capoverso 1 lettera c a utilizzare determinati medicamenti soggetti a prescrizione medica.
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^24-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^24-3]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^24-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^24-3]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 25
 
@@ -767,13 +767,13 @@ Possono dispensare medicamenti non soggetti a prescrizione medica:
 
 <sup>3</sup> L’Istituto definisce i medicamenti che possono essere dispensati dalle persone di cui al capoverso 1 lettera c.[^25-2]
 
-<sup>4</sup> ...[^25-3]
+<sup>4</sup> …[^25-3]
 
 <sup>5</sup> Fatti salvi i capoversi 2 e 3, i Cantoni possono autorizzare le persone con una formazione riconosciuta a livello cantonale a dispensare determinati gruppi di medicamenti, quali i medicamenti della medicina complementare. L’Istituto viene informato al riguardo.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^25-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^25-3]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^25-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^25-3]: Abrogato dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 26
 
@@ -794,11 +794,11 @@ Per la prescrizione di medicamenti vanno rispettati i seguenti principi e requis
 
 <sup>4</sup> Le persone abilitate a prescrivere e dispensare medicamenti sono di norma tenute a emettere per il paziente una prescrizione prima di dispensare un medicamento per uso umano soggetto a prescrizione. Il paziente può rinunciare alla prescrizione.[^26-5]
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^26-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^26-3]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019, la lett. a entra in vigore il 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^26-4]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^26-5]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-3]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019, la lett. a entra in vigore il 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-4]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-5]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 27
 
@@ -856,7 +856,7 @@ L’autorizzazione è rilasciata se:
 
 <sup>3</sup> I Cantoni possono prevedere condizioni supplementari. Disciplinano la procedura per il rilascio delle autorizzazioni e controllano periodicamente le aziende e gli studi medici.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### Sezione 5: Pubblicità e confronti di prezzi
 
@@ -892,20 +892,36 @@ Non è ammessa la pubblicità:
 Non è ammessa la pubblicità destinata al pubblico per medicamenti che:
 
 - a. possono essere dispensati solo su prescrizione medica;
-- b. contengono stupefacenti o sostanze psicotrope ai sensi della legge federale del 3 ottobre 1951[^32-2] Lstup;
+- b. contengono stupefacenti o sostanze psicotrope ai sensi della legge federale del 3 ottobre 1951[^32-2] sugli stupefacenti;
 - c. in ragione della propria composizione e indicazione, non possono essere utilizzati senza l’intervento di un medico per la diagnosi, la prescrizione o il relativo trattamento;
 - d. sono spesso oggetto d’abuso o possono procurare assuefazione e dipendenza.
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^32-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^32-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^32-2]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 33
 
 [^33-1]
 
-[^33-1]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^33-1]: Abrogato dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### Sezione 6: Disposizioni speciali per il sangue e i suoi derivati
+
+#### Art. 33a
+
+**Gratuità della donazione di sangue**[^33a-1]
+
+<sup>1</sup> È vietato offrire, concedere, richiedere o accettare un profitto finanziario o vantaggi di altro tipo per la donazione di sangue umano.
+
+<sup>2</sup>
+
+Non è considerato profitto finanziario o vantaggio di altro tipo:
+
+- a. il risarcimento della perdita di guadagno del donatore e delle spese direttamente occasionate al donatore;
+- b. il risarcimento dei danni subiti dal donatore a causa della donazione di sangue;
+- c. un gesto simbolico di riconoscenza a posteriori.
+
+[^33a-1]: Introdotto dalla cifra I della LF del 29 set. 2024 (Adeguamento delle disposizioni sulla donazione di sangue), in vigore dal 1° gen. 2025 ([RU 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 34
 
@@ -930,7 +946,11 @@ L’autorizzazione è rilasciata se:
 
 <sup>1</sup> Per ogni singola importazione di sangue e suoi derivati occorre ottenere un’autorizzazione d’importazione. Il deposito in un magazzino doganale è considerato importazione.
 
+<sup>1bis</sup> Il sangue e i suoi derivati labili importati per trasfusioni devono soddisfare i requisiti di gratuità della donazione di cui all’articolo 33*a*.[^35-1]
+
 <sup>2</sup> Il Consiglio federale può prevedere eccezioni se è esclusa la messa in pericolo di persone.
+
+[^35-1]: Introdotto dalla cifra I della LF del 29 set. 2024 (Adeguamento delle disposizioni sulla donazione di sangue), in vigore dal 1° gen. 2025 ([RU 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 36
 
@@ -945,7 +965,11 @@ Dalla donazione di sangue devono essere escluse le persone:
 - a. la cui salute può essere pregiudicata dal prelievo di sangue;
 - b. il cui sangue può trasmettere agenti patogeni.
 
+<sup>2bis</sup> I criteri di esclusione non possono discriminare nessuno. Qualora facciano riferimento a un comportamento a rischio del candidato donatore, si basano sul comportamento individuale e devono essere scientificamente motivati.[^36-1]
+
 <sup>3</sup> Il Consiglio federale disciplina i requisiti di idoneità alla donazione, la competenza per stabilire se essi sono adempiuti e i dati da rilevare.
+
+[^36-1]: Introdotto dalla cifra I della LF del 29 set. 2024 (Adeguamento delle disposizioni sulla donazione di sangue), in vigore dal 1° gen. 2025 ([RU 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 #### Art. 37
 
@@ -1023,13 +1047,15 @@ Il Consiglio federale disciplina i dettagli. Può segnatamente prevedere:
 - a. la consegna all’Istituto delle registrazioni di cui all’articolo 39 e dei documenti importanti o la loro conservazione qualora l’attività aziendale termini prima della scadenza del termine di conservazione;
 - b. deroghe all’obbligo di conservazione per le trasfusioni autologhe.
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 41
 
-**Altre prescrizioni**
+**Altre prescrizioni in materia di sicurezza[^41-1]**
 
 Il Consiglio federale può prescrivere altre misure di sicurezza; segnatamente può prevedere che le procedure volte ad eliminare o rendere inattivi gli eventuali agenti patogeni possano essere applicate soltanto dopo che l’Istituto le abbia omologate.
+
+[^41-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2024 (Adeguamento delle disposizioni sulla donazione di sangue), in vigore dal 1° gen. 2025 ([RU 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
 
 ### Sezione 7: Disposizioni speciali per i medicamenti per uso veterinario
 
@@ -1043,7 +1069,7 @@ Il Consiglio federale può prescrivere altre misure di sicurezza; segnatamente p
 
 <sup>3</sup> Il Consiglio federale può vietare che i medicamenti che in virtù dell’articolo 9 capoverso 2 non sono soggetti a omologazione siano prescritti, dispensati o usati ai fini della cura di animali da reddito. Può anche imporre restrizioni alla prescrizione, alla dispensazione o all’uso di siffatti medicamenti.[^42-1]
 
-[^42-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^42-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 42a
 
@@ -1058,7 +1084,7 @@ Il Consiglio federale può prendere misure per ridurre la resistenza agli antibi
 
 <sup>2</sup> Se necessario per assicurare l’efficacia del trattamento medico delle persone, il Consiglio federale può inoltre limitare o vietare l’impiego di determinati antibiotici nella medicina veterinaria; a tal fine tiene conto delle normative estere.
 
-[^42a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^42a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 43
 
@@ -1101,12 +1127,12 @@ Il Consiglio federale definisce i requisiti per i dispositivi medici. Determina 
 
 <sup>7</sup> Può prevedere che i dispositivi medici monouso possano essere ricondizionati e riutilizzati. Stabilisce le relative condizioni.[^45-6]
 
-[^45-1]: Nuovo testo del per. giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^45-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^45-3]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^45-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^45-5]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^45-6]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-1]: Nuovo testo del per. giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-3]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-4]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-5]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-6]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 46
 
@@ -1129,7 +1155,7 @@ Può:
 - a. per determinati dispositivi medici, prescrivere lo svolgimento di sperimentazioni cliniche quali parte integrante della prova di conformità;
 - b. per determinati dispositivi medici o gruppi di dispositivi medici, prevedere eccezioni alla valutazione della conformità.[^46-1]
 
-[^46-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^46-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 47
 
@@ -1152,7 +1178,7 @@ Sono considerati operatori economici:
 - e. le persone fisiche e giuridiche che combinano dispositivi medici per immetterli in commercio sotto forma di sistemi o kit procedurali;
 - f. le persone fisiche e giuridiche che sterilizzano dispositivi medici secondo la lettera e in vista della loro immissione in commercio.
 
-[^47-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^47-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 47a
 
@@ -1166,7 +1192,7 @@ Sono considerati operatori economici:
 
 <sup>4</sup> Il Consiglio federale determina i dati e le informazioni che devono figurare nella documentazione tecnica dei diversi dispositivi medici e le modalità della sua messa a disposizione.
 
-[^47a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^47a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 47b
 
@@ -1176,7 +1202,7 @@ Sono considerati operatori economici:
 
 <sup>2</sup> Il sistema di gestione della qualità contiene in particolare un sistema di gestione dei rischi e un sistema di sorveglianza dopo l’immissione in commercio.
 
-[^47b-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^47b-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 47c
 
@@ -1192,7 +1218,7 @@ Gli operatori economici comunicano, su richiesta, all’autorità competente:
 
 <sup>2</sup> Il Consiglio federale disciplina la durata di conservazione delle informazioni.
 
-[^47c-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^47c-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 47d
 
@@ -1202,7 +1228,7 @@ Gli operatori economici comunicano, su richiesta, all’autorità competente:
 
 <sup>2</sup> Il mandatario e il fabbricante sono solidalmente responsabili nei confronti del danneggiato.
 
-[^47d-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^47d-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 47e
 
@@ -1223,7 +1249,7 @@ Disciplina:
 - a. gli altri obblighi degli operatori economici e delle istituzioni sanitarie, in particolare riguardo alla registrazione dei fabbricanti e agli obblighi di informazione in relazione ai dispositivi medici impiantabili;
 - b. i requisiti delle persone che i fabbricanti e i mandatari designano quali responsabili del rispetto delle prescrizioni, nonché i loro ulteriori obblighi.
 
-[^47e-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^47e-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 48
 
@@ -1239,7 +1265,7 @@ Per proteggere la salute il Consiglio federale può, per determinati dispositivi
 
 <sup>2</sup> L’articolo 26 si applica per analogia ai dispositivi medici.[^48-1]
 
-[^48-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^48-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 49
 
@@ -1265,8 +1291,8 @@ Il Consiglio federale può:
 
 <sup>3</sup> Chi esporta un dispositivo medico in uno Stato con il quale la Svizzera ha concluso una convenzione di diritto internazionale sul reciproco riconoscimento di valutazioni e procedure di conformità per dispositivi medici, deve poter provare che i requisiti fondamentali secondo l’articolo 45 capoverso 2 sono adempiuti.[^50-2]
 
-[^50-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^50-2]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^50-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^50-2]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 51
 
@@ -1300,7 +1326,7 @@ Il Consiglio federale può, per proteggere la salute e impedire l’inganno, lim
 
 All’esecuzione di sperimentazioni cliniche con agenti terapeutici sull’essere umano si applica, oltre alle disposizioni della presente legge, la legge del 30 settembre 2011[^53-1] sulla ricerca umana.
 
-[^53-1]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^53-1]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 #### Art. 54
 
@@ -1331,21 +1357,21 @@ Nell’ambito della procedura d’autorizzazione, l’Istituto verifica:
   - 2\. la sperimentazione clinica tiene conto dei rischi legati a un dispositivo medico,
   - 3\. i dati relativi al dispositivo medico sono conformi allo stato della scienza e sono riportati correttamente nel protocollo.[^54-3]
 
-<sup>5</sup> ... [^54-4]
+<sup>5</sup> … [^54-4]
 
 <sup>6</sup> Il Consiglio federale disciplina la procedura di autorizzazione. Può prescrivere la forma della notifica e stabilire che la presentazione delle domande, la corrispondenza e la notifica di decisioni debbano avvenire per via elettronica.[^54-5]
 
-<sup>7</sup> ... [^54-6]
+<sup>7</sup> … [^54-6]
 
 <sup>8</sup> Il Consiglio federale emana le disposizioni di cui ai capoversi 3 e 6 tenendo conto delle norme internazionali riconosciute.[^54-7]
 
-[^54-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54-2]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54-4]: Abrogato dal n. I della LF del 22 mar. 2019, con effetto dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54-5]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54-6]: Abrogato dal n. I della LF del 22 mar. 2019, con effetto dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54-7]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-2]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-4]: Abrogato dalla cifra I della LF del 22 mar. 2019, con effetto dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-6]: Abrogato dalla cifra I della LF del 22 mar. 2019, con effetto dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-7]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 54a
 
@@ -1362,7 +1388,7 @@ Il Consiglio federale disciplina:
 
 <sup>3</sup> Il Consiglio federale può prevedere eccezioni all’obbligo di elaborare un piano d’indagine pediatrica, segnatamente per i medicamenti destinati a trattare malattie contratte soltanto dagli adulti. Può prevedere la possibilità di considerare un piano d’indagine pediatrica valutato da un’autorità estera.
 
-[^54a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^54a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 54b
 
@@ -1380,14 +1406,14 @@ Il Consiglio federale può, tenendo conto delle norme internazionali riconosciut
 
 <sup>3</sup> Il Consiglio federale disciplina la procedura di notifica e lo scambio di informazioni. Può stabilire che la notifica e lo scambio di informazioni debbano avvenire per via elettronica.
 
-[^54b-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^54b-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^54b-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54b-2]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### Sezione 2*a*: Integrità e trasparenza
 
 [^chap4-sec2a-1]
 
-[^chap4-sec2a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)
+[^chap4-sec2a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)
 
 #### Art. 55
 
@@ -1406,7 +1432,7 @@ Non sono indebiti vantaggi:
 
 <sup>3</sup> Il Consiglio federale disciplina i dettagli. Può estendere il campo d’applicazione dei capoversi 1 e 2 ad altre categorie di agenti terapeutici.
 
-[^55-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)
+[^55-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)
 
 #### Art. 56
 
@@ -1418,7 +1444,7 @@ Non sono indebiti vantaggi:
 
 <sup>3</sup> Può prevedere eccezioni all’obbligo di cui al capoverso 1 per agenti terapeutici che comportano rischi esigui.
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)
+[^56-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)
 
 #### Art. 57
 
@@ -1442,9 +1468,9 @@ Non sono indebiti vantaggi:
 
 <sup>5</sup> I Cantoni notificano all’Istituto o all’Ufficio federale della sanità pubblica (UFSP), a seconda delle competenze, tutti gli avvenimenti, le conoscenze e le contestazioni constatati nell’ambito delle loro attività di sorveglianza. L’Istituto o l’UFSP prende i necessari provvedimenti amministrativi. In caso di pericolo grave e immediato per la salute anche i Cantoni possono prendere i necessari provvedimenti amministrativi.[^58-3]
 
-[^58-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^58-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^58-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^58-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^58-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^58-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 59
 
@@ -1473,11 +1499,11 @@ Chi fabbrica o smercia[^59-1] agenti terapeutici pronti per l’uso deve allesti
 
 [^59-1]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LREC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^59-2]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LREC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^59-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^59-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^59-4]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^59-5]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^59-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^59-7]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^59-5]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^59-6]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^59-7]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 60
 
@@ -1503,7 +1529,7 @@ Chi fabbrica o smercia[^59-1] agenti terapeutici pronti per l’uso deve allesti
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^chap4-sec4-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 61
 
@@ -1522,8 +1548,6 @@ Tutte le persone incaricate dell’esecuzione della presente legge sono vincolat
 #### Art. 62a
 
 **Trattamento di dati personali**[^62a-1]
-
-812.21
 
 <sup>1</sup>
 
@@ -1557,9 +1581,9 @@ Il Consiglio federale emana disposizioni d’esecuzione concernenti:
 - d. l’archiviazione e la distruzione dei dati;
 - e. la sicurezza dei dati.
 
-[^62a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^62a-2]: Nuovo testo giusta l’all. 1 n. II 74 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^62a-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^62a-2]: Nuovo testo giusta l’all. 1 cifra II n. 74 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62a-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 62b
 
@@ -1570,8 +1594,8 @@ Il Consiglio federale emana disposizioni d’esecuzione concernenti:
 <sup>2</sup> I dati personali dei pazienti non possono essere comunicati.
 
 [^62b-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^62b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^62b-3]: Nuovo testo giusta l’all. 1 n. II 74 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^62b-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^62b-3]: Nuovo testo giusta l’all. 1 cifra II n. 74 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62c
 
@@ -1594,7 +1618,7 @@ Il Consiglio federale disciplina:
 - c. le misure tecniche e organizzative necessarie a garantire la protezione e la sicurezza dei dati;
 - d. la durata di conservazione.
 
-[^62c-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62c-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 63
 
@@ -1606,7 +1630,7 @@ Il Consiglio federale disciplina:
 
 <sup>3</sup> Il Consiglio federale può prevedere che l’Istituto possa comunicare dati ad altre autorità della Confederazione qualora l’esecuzione delle leggi federali in materia sanitaria lo esiga.[^63-1]
 
-[^63-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^63-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 64
 
@@ -1648,7 +1672,7 @@ Ai fini della notifica e della registrazione di effetti indesiderati di medicame
 - a. informazioni non accessibili al pubblico e dati personali concernenti la salute, unitamente alle iniziali, al sesso e all’anno di nascita dell’interessato;
 - b. un rapporto sugli effetti indesiderati.
 
-[^64-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^64-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 64a
 
@@ -1667,14 +1691,14 @@ Previa notifica all’Isituto, le autorità estere competenti possono effettuare
 
 <sup>3</sup> Previa autorizzazione delle competenti autorità estere e se necessario per assicurare la protezione della salute, l’Istituto può effettuare controlli all’estero presso le aziende attive nel settore degli agenti terapeutici. Può inoltre partecipare a controlli effettuati dalle autorità estere competenti.[^64a-2]
 
-[^64a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64a-2]: Per. introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^64a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64a-2]: Per. introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### Sezione 4*a*: Sistema d’informazione sugli antibiotici nella medicina veterinaria
 
 [^chap4-sec4a-1]
 
-[^chap4-sec4a-1]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^chap4-sec4a-1]: Introdotta dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 64b
 
@@ -1713,7 +1737,7 @@ Il Sistema d’informazione sugli antibiotici integra:
 - a. i dati di altre applicazioni del sistema d’informazione centrale lungo la filiera alimentare di cui all’articolo 64*c* capoverso 2;
 - b. i dati personali del registro delle professioni mediche universitarie di cui agli articoli 51–54 della legge del 23 giugno 2006[^64d-1] sulle professioni mediche.
 
-[^64d-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^64d-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 64e
 
@@ -1735,7 +1759,7 @@ Nell’ambito dei loro compiti legali, le seguenti autorità e persone possono a
 - c. i detentori di animali, ai dati che li concernono;
 - d. i veterinari e le altre persone sottoposte all’obbligo di notifica di cui all’articolo 64*f* lettera h, ai dati che li concernono e ai dati da essi notificati.
 
-[^64e-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^64e-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 64f
 
@@ -1753,7 +1777,7 @@ Per quanto concerne il Sistema d’informazione sugli antibiotici, il Consiglio 
 - h. l’obbligo di notifica delle persone che smerciano, prescrivono, dispensano e usano antibiotici, esclusi i detentori di animali;
 - i. l’accesso ai dati concernenti i veterinari contenuti nel registro delle professioni mediche universitarie di cui agli articoli 51–54 della legge del 23 giugno 2006[^64f-1] sulle professioni mediche.
 
-[^64f-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^64f-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 64g
 
@@ -1765,7 +1789,7 @@ I Cantoni che utilizzano il Sistema d’informazione sugli antibiotici per i pro
 
 [^chap4-sec5-1]
 
-[^chap4-sec5-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^chap4-sec5-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 65
 
@@ -1781,11 +1805,11 @@ I Cantoni che utilizzano il Sistema d’informazione sugli antibiotici per i pro
 
 <sup>6</sup> Nel quadro degli obiettivi strategici, il Consiglio federale può esigere che l’Istituto rinunci del tutto o in parte a riscuotere emolumenti per determinate autorizzazioni o prestazioni di servizi come pure per determinati controlli.[^65-5]
 
-[^65-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^65-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^65-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^65-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^65-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-4]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-5]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### Sezione 6: Provvedimenti amministrativi
 
@@ -1825,12 +1849,12 @@ Al più tardi al termine del procedimento le autorità d’esecuzione informano 
 - a. in merito alle ordinazioni effettuate con un nome fittizio;
 - b. in merito all’ottenimento di informazioni e al motivo per cui sono state chieste.[^66-6]
 
-[^66-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^66-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^66-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^66-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^66-5]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^66-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-4]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-5]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-6]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 67
 
@@ -1856,15 +1880,15 @@ Al più tardi al termine del procedimento le autorità d’esecuzione informano 
 
 <sup>9</sup> Non appena riceve una domanda di omologazione di un medicamento, l’Istituto pubblica l’indicazione e i principi attivi del medicamento, come pure il nome e l’indirizzo del richiedente, salvo che vi si opponga un interesse degno di protezione al mantenimento del segreto.[^67-9]
 
-[^67-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^67-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^67-3]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^67-4]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^67-5]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^67-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^67-7]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^67-8]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^67-9]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-2]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-3]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-4]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-5]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-6]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-7]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-8]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-9]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 67a
 
@@ -1885,7 +1909,7 @@ Il Consiglio federale:
 
 <sup>5</sup> Il Consiglio federale può estendere ad altri gruppi specifici della popolazione le attività di cui ai capoversi 1 e 2. Può prevedere l’impiego di commissioni specializzate consultive o peritali.
 
-[^67a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 67b
 
@@ -1905,7 +1929,7 @@ Il Consiglio federale:
 - d. stabilisce i requisiti quanto al contenuto e alla gestione della banca dati;
 - e. disciplina le condizioni d’accesso ai dati e l’utilizzazione degli stessi.
 
-[^67b-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67b-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ## Capitolo 5: Istituto svizzero per gli agenti terapeutici
 
@@ -1927,7 +1951,7 @@ Il Consiglio federale:
 
 [^chap5-sec2-1]
 
-[^chap5-sec2-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^chap5-sec2-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 69
 
@@ -1943,10 +1967,10 @@ Il Consiglio federale:
 
 <sup>4</sup> L’Istituto è il servizio centrale e punto di contatto nazionale secondo gli articoli 17 paragrafo 3 e 22 paragrafo 2 della Convenzione del Consiglio d’Europa del 28 ottobre 2011[^69-4] sulla contraffazione di agenti terapeutici e reati simili che comportano una minaccia per la salute pubblica. È collegato con i punti di contatto esteri designati.[^69-5]
 
-[^69-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^69-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^69-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^69-4]: [RS 0.812.41](https://fedlex.data.admin.ch/eli/cc/2019/87); [FF 2017 2797](https://fedlex.data.admin.ch/eli/fga/2017/651)
+[^69-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^69-2]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^69-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^69-4]: [RS 0.812.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3470); [FF 2017 2797](https://fedlex.data.admin.ch/eli/fga/2017/651)
 [^69-5]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 
 #### Art. 70
@@ -1957,7 +1981,7 @@ Il Consiglio federale:
 
 <sup>2</sup> Gli adeguamenti che si rendono necessari in seguito alla verifica effettuata annualmente dal Consiglio dell’Istituto devono parimenti essere sottoposti al Consiglio federale per approvazione.
 
-[^70-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^70-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### Sezione 3: Organi e competenze
 
@@ -1977,7 +2001,7 @@ Gli organi dell’Istituto sono:
 
 <sup>3</sup> Il Consiglio federale può revocare uno o più membri del Consiglio dell’Istituto per motivi importanti.
 
-[^71-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^71-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 71a
 
@@ -1995,8 +2019,8 @@ Gli organi dell’Istituto sono:
 
 <sup>6</sup> Può essere revocato il membro del Consiglio dell’Istituto che ha omesso di indicare tutte le relazioni d’interesse in occasione della nomina oppure di annunciarne la modifica durante il mandato e che si rifiuta di farlo anche dopo richiesta esplicita del Dipartimento federale dell’interno.
 
-[^71a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^71a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^71a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^71a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 72
 
@@ -2008,7 +2032,7 @@ Gli organi dell’Istituto sono:
 
 <sup>3</sup> Il mandato dura quattro anni. Può essere rinnovato due volte.
 
-[^72-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^72-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 72a
 
@@ -2036,7 +2060,7 @@ Il Consiglio dell’Istituto è l’organo strategico dell’Istituto e ne tutel
 
 <sup>2</sup> I membri del Consiglio dell’Istituto adempiono i loro compiti e obblighi con la massima diligenza e tutelano in buona fede gli interessi dell’Istituto. Il Consiglio dell’Istituto prende i provvedimenti organizzativi necessari per tutelare gli interessi dell’Istituto e per evitare conflitti d’interesse.
 
-[^72a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^72a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 73
 
@@ -2058,7 +2082,7 @@ La Direzione ha i compiti seguenti:
 
 <sup>3</sup> Il regolamento d’organizzazione disciplina i dettagli.
 
-[^73-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^73-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 74
 
@@ -2074,8 +2098,8 @@ La Direzione ha i compiti seguenti:
 
 <sup>5</sup> Il Consiglio federale può revocare l’Ufficio di revisione.
 
-[^74-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^74-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^74-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^74-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Sezione 4: Personale
 
@@ -2091,12 +2115,12 @@ La Direzione ha i compiti seguenti:
 
 <sup>4</sup> Il Consiglio federale stabilisce le indennità versate ai membri del Consiglio dell’Istituto. All’onorario e alle altre condizioni contrattuali convenute con tali persone si applica per analogia l’articolo 6*a* capoversi 1–5 della legge sul personale federale.[^75-6]
 
-[^75-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^75-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^75-5]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^75-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^75-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^75-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^75-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^75-4]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^75-5]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^75-6]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 75a
 
@@ -2113,7 +2137,7 @@ La Direzione ha i compiti seguenti:
 <sup>5</sup> Chi in buona fede ha sporto denuncia, ha segnalato un’irregolarità o ha deposto in qualità di testimone non può per tale motivo essere penalizzato sul piano professionale.
 
 [^75a-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2797](https://fedlex.data.admin.ch/eli/fga/2017/651)).
-[^75a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^75a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 75b
 
@@ -2156,7 +2180,7 @@ Emana disposizioni di esecuzione concernenti:
 
 <sup>6</sup> Può prevedere la comunicazione di dati non degni di particolare protezione mediante procedura di richiamo. Emana le disposizioni di esecuzione.
 
-[^75b-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^75b-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 76
 
@@ -2170,7 +2194,7 @@ Il personale dell’Istituto è assicurato presso la Cassa pensioni della Confed
 
 [^chap5-sec5-1]
 
-[^chap5-sec5-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^chap5-sec5-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 77
 
@@ -2186,9 +2210,9 @@ L’Istituto finanzia le sue uscite segnatamente mediante:
 - b. le tasse e gli emolumenti secondo l’articolo 65;
 - c. i compensi per i servizi forniti ad altre autorità e a organizzazioni internazionali secondo l’articolo 69 capoverso 2.
 
-<sup>2</sup>
+<sup>2bis</sup>
 
-<sup>bis</sup> I seguenti compiti e attività dell’Istituto sono finanziati interamente mediante le indennità della Confederazione:
+I seguenti compiti e attività dell’Istituto sono finanziati interamente mediante le indennità della Confederazione:
 
 - a. elaborazione delle normative;
 - b. esecuzione delle disposizioni di diritto penale;
@@ -2198,10 +2222,10 @@ L’Istituto finanzia le sue uscite segnatamente mediante:
 
 <sup>4</sup> Le multe e le entrate provenienti da altre sanzioni sono devolute alla Confederazione.
 
-[^77-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^77-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^77-3]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^77-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^77-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^77-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^77-3]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^77-4]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 78
 
@@ -2215,7 +2239,7 @@ L’Istituto finanzia le sue uscite segnatamente mediante:
 
 <sup>4</sup> Il Consiglio federale può emanare prescrizioni relative alla presentazione dei conti dell’Istituto.
 
-[^78-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^78-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 78a
 
@@ -2227,7 +2251,7 @@ L’Istituto finanzia le sue uscite segnatamente mediante:
 
 <sup>3</sup> L’Ufficio di revisione controlla il conto annuale.
 
-[^78a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^78a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 79
 
@@ -2237,7 +2261,7 @@ L’Istituto finanzia le sue uscite segnatamente mediante:
 
 <sup>2</sup> Qualora l’entità delle riserve superi l’importo di un preventivo annuale, le tasse e gli emolumenti sono ridotti.
 
-[^79-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^79-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 79a
 
@@ -2249,7 +2273,7 @@ L’Istituto finanzia le sue uscite segnatamente mediante:
 
 <sup>3</sup> L’Amministrazione federale delle finanze e l’Istituto convengono i dettagli di questa collaborazione.
 
-[^79a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^79a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 80
 
@@ -2264,8 +2288,8 @@ L’Istituto e le persone da esso incaricate sono responsabili soltanto se:
 - a. hanno violato importanti doveri d’ufficio;
 - b. il danno non è riconducibile a violazioni di obblighi da parte di una persona sottoposta a vigilanza.
 
-[^80-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^80-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^80-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^80-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 81
 
@@ -2284,7 +2308,7 @@ L’Istituto e le persone da esso incaricate sono responsabili soltanto se:
 
 [^chap5-sec6-1]
 
-[^chap5-sec6-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^chap5-sec6-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 81a
 
@@ -2320,8 +2344,8 @@ Il Consiglio federale esercita la sua funzione di vigilanza e di controllo in pa
 
 <sup>3</sup> Se determinati atti delegati e atti di esecuzione della Commissione europea nell’ambito dei dispositivi medici riguardano dettagli tecnici o amministrativi il cui disciplinamento è aggiornato costantemente e di regola a breve termine, il Consiglio federale può prevedere che gli atti normativi corrispondenti si applichino anche in Svizzera nella versione vincolante per gli Stati membri dell’UE.[^82-2]
 
-[^82-1]: Nuovo testo giusta il n. III della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^82-2]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^82-1]: Nuovo testo giusta la cifra III della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^82-2]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 82a
 
@@ -2336,7 +2360,7 @@ Il Consiglio federale può concludere trattati internazionali concernenti:
 - a. lo scambio di informazioni con autorità estere od organizzazioni internazionali nonché la partecipazione della Svizzera a sistemi d’informazione internazionali volti a garantire la sicurezza degli agenti terapeutici;
 - b. la comunicazione di dati personali, compresi dati sulla salute e su perseguimenti o sanzioni amministrativi o penali, ad autorità estere o a organizzazioni internazionali, sempre che l’esecuzione della presente legge lo esiga.
 
-[^82a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^82a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 83
 
@@ -2355,7 +2379,7 @@ I Cantoni adempiono i compiti di esecuzione:
 
 #### Art. 84
 
-**...[^84-1]**
+**…[^84-1]**
 
 <sup>1</sup> Per quanto la presente legge non preveda disposizioni derogatorie, la procedura amministrativa e la protezione giuridica sono rette dalla legge federale del 20 dicembre 1968[^84-2] sulla procedura amministrativa, dalla legge del 17 giugno 2005[^84-3] sul Tribunale amministrativo federale e dalla legge del 17 giugno 2005[^84-4] sul Tribunale federale.[^84-5]
 
@@ -2366,13 +2390,13 @@ I Cantoni adempiono i compiti di esecuzione:
 <sup>3</sup> L’Istituto è inoltre autorizzato a interporre ricorso contro le decisioni pronunciate dalle autorità cantonali di ultima istanza in applicazione della legge del 30 settembre 2011[^84-8] sulla ricerca umana (art. 89 cpv. 2 lett. a della L del 17 giu. 2005 sul Tribunale federale).[^84-9]
 
 [^84-1]: Abrogata dall’all. n. 89 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^84-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^84-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^84-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^84-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^84-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^84-4]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^84-5]: Nuovo testo giusta l’all. n. 89 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^84-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^84-7]: Nuovo testo giusta il n. I 12 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^84-8]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^84-6]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^84-7]: Nuovo testo giusta la cifra I n. 12 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^84-8]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 [^84-9]: Introdotto dall’all. n. 6 della LF del 30 set. 2011 sulla ricerca umana, in vigore dal 1° gen. 2014 ([RU 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 6979](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 
 #### Art. 85
@@ -2393,35 +2417,36 @@ I Cantoni adempiono i compiti di esecuzione:
 
 - a. fabbrica, immette in commercio, utilizza, prescrive, importa, esporta o commercia all’estero medicamenti senza la necessaria omologazione o autorizzazione, contravvenendo agli oneri e alle condizioni connesse a un’omologazione o a un’autorizzazione oppure violando gli obblighi di diligenza sanciti negli articoli 3, 7, 21, 22, 26, 29 e 42;
 - b. impiega antibiotici senza rispettare le limitazioni o i divieti emanati in base all’articolo 42*a* capoverso 2;
-- c. utilizza il sangue e i suoi derivati violando le disposizioni concernenti l’idoneità del donatore, l’esame obbligatorio, l’obbligo di designazione e di conservazione o gli obblighi di diligenza sanciti nell’articolo 37 od omettendo di prendere le necessarie misure di protezione e di sicurezza;
-- d.[^86-2] immette in commercio, esporta o utilizza dispositivi medici che non adempiono i requisiti della presente legge oppure utilizza dispositivi medici senza che siano soddisfatte le necessarie condizioni relative alle qualifiche professionali e all’azienda;
+- c.[^86-2] utilizza il sangue e i suoi derivati violando le disposizioni concernenti la gratuità della donazione di sangue, l’idoneità del donatore, l’esame obbligatorio, l’obbligo di designazione e di conservazione o gli obblighi di diligenza sanciti nell’articolo 37 od omettendo di prendere le necessarie misure di protezione e di sicurezza;
+- d.[^86-3] immette in commercio, esporta o utilizza dispositivi medici che non adempiono i requisiti della presente legge oppure utilizza dispositivi medici senza che siano soddisfatte le necessarie condizioni relative alle qualifiche professionali e all’azienda;
 - e. viola gli obblighi di diligenza sanciti nell’articolo 48 o l’obbligo di manutenzione dei dispositivi medici;
 - f. esegue o fa eseguire su persone una sperimentazione clinica che non adempie i requisiti della presente legge;
 - g. contraffà, falsifica o designa in modo errato medicamenti o dispositivi medici oppure immette in commercio, utilizza, importa, esporta o commercia all’estero siffatti medicamenti o dispositivi medici;
 - h. viola uno dei divieti di cui all’articolo 55;
-- i.[^86-3] immette in commercio prodotti che non adempiono i requisiti stabiliti dal Consiglio federale conformemente all’articolo 2*a*;
-- j.[^86-4] offre, concede, richiede o accetta un profitto finanziario o vantaggi di altro tipo per tessuti o cellule umani oppure utilizza tali tessuti o cellule per la fabbricazione di prodotti di cui all’articolo 2*a*;
-- k.[^86-5] preleva o utilizza tessuti o cellule umani per la fabbricazione di prodotti di cui all’articolo 2*a* in assenza del consenso per il prelievo.
+- i.[^86-4] immette in commercio prodotti che non adempiono i requisiti stabiliti dal Consiglio federale conformemente all’articolo 2*a*;
+- j.[^86-5] offre, concede, richiede o accetta un profitto finanziario o vantaggi di altro tipo per tessuti o cellule umani oppure utilizza tali tessuti o cellule per la fabbricazione di prodotti di cui all’articolo 2*a*;
+- k.[^86-6] preleva o utilizza tessuti o cellule umani per la fabbricazione di prodotti di cui all’articolo 2*a* in assenza del consenso per il prelievo.
 
 <sup>2</sup>
 
-È punito con una pena detentiva fino a dieci anni o con una pena pecuniaria chiunque, nei casi di cui al capoverso 1 lettere a–g ed i–k:[^86-6]
+È punito con una pena detentiva fino a dieci anni o con una pena pecuniaria chiunque, nei casi di cui al capoverso 1 lettere a–g ed i–k:[^86-7]
 
 - a. sa o deve presumere che l’infrazione mette concretamente in pericolo la salute delle persone;
 - b. realizza, agendo per mestiere, una grossa cifra d’affari o un guadagno considerevole.
 
-<sup>3</sup> È punito con una pena detentiva fino a dieci anni o con una pena pecuniaria chiunque, nei casi di cui al capoverso 1 lettere a, c, d, f, g ed i–k, agisce come membro di una banda costituitasi per esercitare sistematicamente il traffico illecito di agenti terapeutici.[^86-7]
+<sup>3</sup> È punito con una pena detentiva fino a dieci anni o con una pena pecuniaria chiunque, nei casi di cui al capoverso 1 lettere a, c, d, f, g ed i–k, agisce come membro di una banda costituitasi per esercitare sistematicamente il traffico illecito di agenti terapeutici.[^86-8]
 
-<sup>4</sup> Se l’autore agisce per negligenza, la pena è una pena pecuniaria. Nei casi poco gravi può essere pronunciata la multa.[^86-8]
+<sup>4</sup> Se l’autore agisce per negligenza, la pena è una pena pecuniaria. Nei casi poco gravi può essere pronunciata la multa.[^86-9]
 
-[^86-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019, la lett. h del cpv. 1 entra in vigore il 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^86-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-3]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-4]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-5]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^86-6]: Nuovo testo giusta il n. I 30 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^86-7]: Nuovo testo giusta il n. I 30 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^86-8]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019, la lett. h del cpv. 1 entra in vigore il 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^86-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2024 (Adeguamento delle disposizioni sulla donazione di sangue), in vigore dal 1° gen. 2025 ([RU 2024 534](https://fedlex.data.admin.ch/eli/oc/2024/534); [FF 2022 2348](https://fedlex.data.admin.ch/eli/fga/2022/2348), [3169](https://fedlex.data.admin.ch/eli/fga/2022/3169)).
+[^86-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-4]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-5]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-6]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-7]: Nuovo testo giusta la cifra I n. 30 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-8]: Nuovo testo giusta la cifra I n. 30 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^86-9]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
 
@@ -2450,16 +2475,16 @@ I Cantoni adempiono i compiti di esecuzione:
 
 <sup>6</sup> Nei casi particolarmente lievi si può rinunciare al perseguimento penale e alla punizione.
 
-[^87-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^87-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^87-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^87-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^87-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^87-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^87-5]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-6]: Direttiva 93/42/CEE del Consiglio, del 14 giugno 1993, concernente i dispositivi medici, GU L 169 del 12.7.1993, pag. 1; modificata da ultimo dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
-[^87-7]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^87-8]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^87-9]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
-[^87-10]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-7]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-8]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-9]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^87-10]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 88
 
@@ -2467,7 +2492,7 @@ I Cantoni adempiono i compiti di esecuzione:
 
 Per falsificazioni, false attestazioni, conseguimento fraudolento di false attestazioni, uso di attestazioni false o non veritiere, rilascio non autorizzato di dichiarazioni di conformità, applicazione e uso non autorizzato di marchi di conformità e per vantaggi patrimoniali illeciti ai sensi degli articoli 23–29 della legge federale del 6 ottobre 1995[^88-1] sugli ostacoli tecnici al commercio, si applicano le pene comminate in quegli articoli.
 
-[^88-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^88-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 89
 
@@ -2477,8 +2502,8 @@ Per falsificazioni, false attestazioni, conseguimento fraudolento di false attes
 
 <sup>2</sup> Gli articoli 6 e 7 DPA si applicano anche in caso di perseguimento penale da parte di autorità cantonali.
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^89-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^89-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^89-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 90
 
@@ -2493,10 +2518,10 @@ Per falsificazioni, false attestazioni, conseguimento fraudolento di false attes
 <sup>4</sup> Se una causa penale relativa alla presente legge è di competenza sia federale che cantonale, le autorità competenti possono accordarsi sulla riunione dei procedimenti presso la Confederazione o il Cantone.
 
 [^90-1]: Nuovo testo giusta l’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2797](https://fedlex.data.admin.ch/eli/fga/2017/651)).
-[^90-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^90-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^90-4]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^90-5]: Nuova espr. giusta il n. I 30 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^90-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^90-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^90-4]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^90-5]: Nuova espr. giusta la cifra I n. 30 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 90a
 
@@ -2513,7 +2538,7 @@ Per falsificazioni, false attestazioni, conseguimento fraudolento di false attes
 <sup>5</sup> Nei casi di cui al capoverso 4, l’Istituto o l’UDSC si rivolge, con l’accordo del Ministero pubblico della Confederazione, al giudice dei provvedimenti coercitivi. Se questi approva le misure, il Ministero pubblico della Confederazione assume il procedimento in applicazione del CPP.
 
 [^90a-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^90a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 90b
 
@@ -2522,7 +2547,7 @@ Per falsificazioni, false attestazioni, conseguimento fraudolento di false attes
 Se un procedimento svolto dall’Istituto o dall’UDSC concerne principalmente reati commessi all’estero oppure risulta tanto complesso o oneroso che l’Istituto o l’UDSC non è in grado, con i mezzi di cui dispone, di concluderlo o di concluderlo entro un termine adeguato, l’Istituto o l’UDSC può sollecitare dal Ministero pubblico della Confederazione l’assunzione del procedimento. Il Ministero pubblico della Confederazione svolge il procedimento in applicazione del CPP[^90b-2].
 
 [^90b-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90b-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^90b-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 90c
 
@@ -2531,7 +2556,7 @@ Se un procedimento svolto dall’Istituto o dall’UDSC concerne principalmente 
 L’Istituto e l’UFSP possono incaricare specialisti indipendenti di mettere al sicuro, registrare, valutare e archiviare i dati sequestrati nell’ambito di procedimenti penali amministrativi. Nell’ambito della loro attività per l’Istituto o l’UFSP, questi specialisti hanno gli stessi obblighi del personale dell’Istituto o dell’Amministrazione federale. Le loro retribuzioni sono considerate disborsi secondo l’articolo 94 capoverso 1 DPA[^90c-2].
 
 [^90c-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^90c-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^90c-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 9: Disposizioni finali
 
@@ -2555,7 +2580,7 @@ L’Istituto e l’UFSP possono incaricare specialisti indipendenti di mettere a
 
 <sup>3</sup> I rapporti di servizio del personale dell’UFSP[^92-1] e dell’Ufficio intercantonale di controllo dei medicamenti trasferito all’Istituto sottostanno allo statuto del personale dell’Istituto a contare dall’inizio dell’attività dell’Istituto.
 
-[^92-1]: Nuova espr. giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^92-1]: Nuova espr. giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 93
 
@@ -2571,7 +2596,7 @@ Al momento dell’istituzione dell’Istituto la Confederazione assume il disava
 
 <sup>2</sup> Gli atti di procedura delle autorità competenti prima dell’entrata in vigore della presente legge rimangono validi purché non siano contrari alle sue disposizioni materiali.
 
-[^94-1]: Nuova espr. giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^94-1]: Nuova espr. giusta la cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 95
 
@@ -2596,7 +2621,7 @@ Le omologazioni cantonali di medicamenti rimangono valide sino al 31 dicembre 20
 
 <sup>7</sup> Sono fatti salvi i provvedimenti amministrativi dell’Istituto di cui all’articolo 66.
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4137](https://fedlex.data.admin.ch/eli/oc/2013/761); [FF 2013 2737](https://fedlex.data.admin.ch/eli/fga/2013/681)[2745](https://fedlex.data.admin.ch/eli/fga/2013/683)).
+[^95-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4137](https://fedlex.data.admin.ch/eli/oc/2013/761); [FF 2013 2737](https://fedlex.data.admin.ch/eli/fga/2013/681)[2745](https://fedlex.data.admin.ch/eli/fga/2013/683)).
 
 #### Art. 95a
 
@@ -2604,7 +2629,7 @@ Le omologazioni cantonali di medicamenti rimangono valide sino al 31 dicembre 20
 
 Per i medicamenti già omologati al momento dell’entrata in vigore della modifica del 13 giugno 2008, i termini di cui all’articolo 16*a* capoverso 1 decorrono dalla data dell’entrata in vigore della presente modifica.
 
-[^95a-1]: Introdotto dal n. I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^95a-1]: Introdotto dalla cifra I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 
 #### Art. 95b
 
@@ -2612,7 +2637,7 @@ Per i medicamenti già omologati al momento dell’entrata in vigore della modif
 
 Fino alla completa fruibilità dell’elenco elettronico di cui all’articolo 67 capoversi 3 e 4, l’Istituto pubblica le informazioni sul medicamento sotto forma di elenco elettronico a spese dei titolari delle omologazioni. Può delegare a terzi l’elaborazione e la gestione dell’elenco elettronico.
 
-[^95b-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^95b-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### Sezione 2: Referendum e entrata in vigore
 
@@ -2638,7 +2663,7 @@ II
 
 I seguenti testi di legge sono modificati come segue:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 1990 570](https://fedlex.data.admin.ch/eli/oc/1990/570_570_570)]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422).
