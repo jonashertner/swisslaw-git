@@ -4,7 +4,7 @@ number: "900.057.1"
 title: "RÈGLEMENT du 22.12.2021 sur le fonds de soutien à l'économie durable (RFED)"
 short: RFED
 language: fr
-version: 2021-12-22
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.057.1?id=e51c3589-7ceb-4334-bce9-bb8044d1d57e"
 ---
 
@@ -243,11 +243,11 @@ arrête
 
 <sup>1</sup> L'aide à fonds perdus fait l'objet d'une décision ponctuelle.
 
-<sup>2</sup> L'aide à fonds perdus ne peut excéder 50% du coût total du projet. Les coûts externes (notamment études, mandats) sont pris en compte dans le calcul du coût total du projet.
+<sup>2</sup> L'aide à fonds perdus ne peut excéder 50% du coût total du projet. Les coûts externes (notamment études, mandats) sont pris en compte dans le calcul du coût total du projet. Des frais forfaitaires de 15% peuvent également être inclus, couvrant les coûts internes associés au projet.
 
 <sup>3</sup> Si une aide est octroyée en complément d'autres subventions cantonales, le montant cumulé des aides cantonales ne pourra excéder 50% du coût total du projet.
 
-<sup>4</sup> Le montant de l'aide ne peut pas dépasser CHF 15'000.-.
+<sup>4</sup> Le montant de l'aide ne peut pas dépasser CHF 30'000.-.
 
 <sup>5</sup> Exceptionnellement et dans les cas où l'intérêt du projet le justifie, le Conseil d'Etat peut déroger au taux maximal de subventionnement et au montant maximal de l'aide prévus aux alinéas 2, 3 et 4.
 
@@ -351,6 +351,6 @@ arrête
 
 **Entrée en vigueur [^titleTitreIII-1]**
 
-<sup>1</sup> Le Département de l'économie, de l'innovation et du sport est chargé de l'exécution du présent règlement qui entre en vigueur le 22 décembre 2021.
+<sup>1</sup> Le Département de l'économie, de l'innovation, de l'emploi et du patrimoine est chargé de l'exécution du présent règlement, qui entre en vigueur au 1er janvier 2025
 
 [^titleTitreIII-1]: Modif. 1 du 04.12.2024: Modification Al. 1; entrée en vigueur au 01.01.2025
