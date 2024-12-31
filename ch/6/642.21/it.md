@@ -4,11 +4,11 @@ title: "Legge federale del 13 ottobre 1965 sull'imposta preventiva (LIP)"
 short: LIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20240101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20250101-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/it"
 
 (LIP)[^t-1]
 
-del 13 ottobre 1965 (Stato 1° gennaio 2024)
+del 13 ottobre 1965 (Stato 1° gennaio 2025)
 
 [^t-1]: Abbreviazione introdotta dal n. I 4 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
@@ -128,7 +128,7 @@ Non sono soggetti all’imposta preventiva:
 - b.[^5-3] i profitti di capitale conseguiti in un investimento collettivo di capitale ai sensi della LICol[^5-4] e i proventi derivanti dal possesso fondiario diretto, nonché i versamenti di capitale fatti dagli investitori, se la loro distribuzione avviene mediante cedola separata;
 - c.[^5-5] gli interessi degli averi di clienti, se l’importo degli interessi non eccede per un anno civile 200 franchi;
 - d. gli interessi dei depositi destinati a costituire ed alimentare averi per il caso di sopravvivenza o di morte presso istituti, casse e altri enti aventi per scopo l’assicurazione per la vecchiaia, l’invalidità, i superstiti, o la previdenza sociale;
-- e.[^5-6] ...
+- e.[^5-6] …
 - f.[^5-7] le prestazioni volontarie di una società anonima, di una società a garanzia limitata o di una società cooperativa, se tali prestazioni costituiscono oneri giustificati dall’uso commerciale ai sensi dell’articolo 59 capoverso 1 lettera c LIFD[^5-8];
 - g.[^5-9] gli interessi corrisposti da banche o società di gruppi finanziari per gli strumenti di capitale di terzi secondo gli articoli 11 capoverso 4 e 30*b* capoverso 6 della legge dell’8 novembre 1934[^5-10] sulle banche (LBCR) approvati dall’Autorità federale di vigilanza sui mercati finanziari (FINMA) ai fini dell’adempimento di esigenze prudenziali, sempre che lo strumento di capitale di terzi interessato sia emesso tra il 1° gennaio 2013 e il 31 dicembre 2026;
 - h.[^5-11] i pagamenti di interessi dei partecipanti a una controparte centrale ai sensi della legge del 19 giugno 2015[^5-12] sull’infrastruttura finanziaria, nonché quelli di una controparte centrale ai suoi partecipanti;
@@ -346,7 +346,7 @@ Sono solidalmente responsabili con il contribuente:
 L’imposta preventiva scade:
 
 - a. sugli interessi delle obbligazioni di cassa e degli averi di clienti presso banche o casse di risparmio svizzere: 30 giorni dopo la fine di ogni trimestre commerciale, per gli interessi maturati nel corso dello stesso;
-- b.[^16-1] ...
+- b.[^16-1] …
 - c.[^16-2] sugli altri redditi di capitali mobili, sulle vincite ai giochi in denaro che non sono esentate dall’imposta sul reddito secondo l’articolo 24 lettere i–i<sup>ter</sup> LIFD[^16-3] e sulle vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che non sono esentate dall’imposta sul reddito secondo l’articolo 24 lettera j LIFD: 30 giorni dopo che è sorto il credito fiscale (art. 12);
 - d. sulle prestazioni d’assicurazione: 30 giorni dopo la fine di ogni mese, per le prestazioni eseguite nel corso dello stesso.
 
@@ -399,7 +399,13 @@ Il credito fiscale, sorto in seguito ad avvaloramento di diritti di partecipazio
 
 <sup>2</sup> Se l’imposta preventiva che l’assicuratore deve pagare per effetto dell’opposizione è maggiore della prestazione ancora da versare, l’opposizione alla notifica è valida soltanto se l’opponente rimborsa la differenza all’assicuratore.
 
-<sup>3</sup> Le notifiche devono essere fatte per iscritto all’AFC nei 30 giorni successivi alla fine di ogni mese in cui sono state eseguite le prestazioni.
+<sup>3</sup> L’assicuratore notifica all’AFC le prestazioni eseguite in un mese nei 30 giorni successivi alla fine di tale mese.[^19-1]
+
+<sup>4</sup> Notifica all’AFC le prestazioni periodiche eseguite in un anno civile derivanti da assicurazioni di rendita vitalizia rette dalla legge del 2 aprile 1908[^19-2] sul contratto d’assicurazione nei 30 giorni successivi alla fine di tale anno.[^19-3]
+
+[^19-1]: Nuovo testo giusta il n. I 3 della LF del 17 giu. 2022 sull’imposizione delle rendite vitalizie e delle forme di previdenza simili, in vigore dal 1° gen. 2025 ([RU 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
+[^19-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^19-3]: Introdotto della LF del 17 giu. 2022 sull’imposizione delle rendite vitalizie e delle forme di previdenza simili, in vigore dal 1° gen. 2025 ([RU 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
 
 ### 2. Per i redditi di capitali mobili
 
@@ -561,7 +567,7 @@ I portatori, domiciliati all’estero, di quote di investimenti collettivi di ca
 
 <sup>3</sup> L’istanza può essere presentata prima quando si diano motivi importanti (cessazione dell’assoggettamento, scioglimento di una persona giuridica, fallimento, ecc.) o conseguenze particolarmente rigorose.[^29-1]
 
-<sup>4</sup> ...[^29-2]
+<sup>4</sup> …[^29-2]
 
 [^29-1]: Nuovo testo giusta il n. I 3 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 [^29-2]: Abrogato dal n. I 3 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, con effetto dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
@@ -686,7 +692,7 @@ I portatori, domiciliati all’estero, di quote di investimenti collettivi di ca
 
 <sup>1</sup> L’AFC gestisce, per l’adempimento dei compiti in virtù della presente legge, un sistema d’informazione. Quest’ultimo può contenere dati personali degni di particolare protezione riguardanti sanzioni amministrative e penali rilevanti in materia fiscale.
 
-<sup>2</sup> L’AFC e le autorità di cui all’articolo 36 capoverso 1 si trasmettono i dati che possono essere utili per l’adempimento dei loro compiti. Le autorità di cui all’articolo 36 capoversi 2 e 4 trasmettono all’AFC i dati che possono essere importanti per l’esecuzione della presente legge. ...[^36a-2]
+<sup>2</sup> L’AFC e le autorità di cui all’articolo 36 capoverso 1 si trasmettono i dati che possono essere utili per l’adempimento dei loro compiti. Le autorità di cui all’articolo 36 capoversi 2 e 4 trasmettono all’AFC i dati che possono essere importanti per l’esecuzione della presente legge. …[^36a-2]
 
 <sup>3</sup> I dati sono trasmessi singolarmente, mediante liste o su supporti elettronici di dati. Possono essere resi accessibili anche mediante una procedura di richiamo. L’assistenza amministrativa è gratuita.
 
@@ -834,7 +840,7 @@ L’AFC prende tutte le decisioni necessarie per la riscossione dell’imposta p
 
 <sup>1</sup> Se il contribuente non ha ancora provveduto a soddisfare all’obbligo di addossare l’imposta al beneficiario, ed è dichiarato fallito, o se, in una esecuzione promossa nei suoi confronti, è chiesto il pignoramento, i diritti di regresso che gli competono passano alla Confederazione, sino a concorrenza dell’imposta non ancora pagata.
 
-<sup>2</sup> ...[^46-1]
+<sup>2</sup> …[^46-1]
 
 [^46-1]: Abrogato dall’all. n. 12 della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -856,7 +862,7 @@ L’AFC può esigere garanzie per le imposte, gli interessi e le spese, anche se
 
 <sup>4</sup> Il ricorso contro richieste di garanzie non ha effetto sospensivo.[^47-4]
 
-<sup>5</sup> ...[^47-5]
+<sup>5</sup> …[^47-5]
 
 [^47-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^47-2]: Nuovo testo giusta l’all. n. 12 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -1011,9 +1017,9 @@ La decisione della commissione cantonale di ricorso può essere impugnata median
 
 <sup>1</sup> Gli articoli 66 a 69 della legge federale del 20 dicembre 1968[^59-1] sulla procedura amministrativa s’applicano analogamente alla revisione e all’interpretazione delle decisioni dell’AFC e delle autorità cantonali.[^59-2]
 
-<sup>2</sup> ...[^59-3]
+<sup>2</sup> …[^59-3]
 
-<sup>3</sup> ...[^59-4]
+<sup>3</sup> …[^59-4]
 
 [^59-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^59-2]: Nuovo testo giusta l’art. 52 della LF del 27 giu. 1973 sulle tasse di bollo, in vigore dal 1° lug. 1974 ([RU 1974 11](https://fedlex.data.admin.ch/eli/oc/1974/11_11_11); [FF 1972 II 1068](https://fedlex.data.admin.ch/eli/fga/1972/2_1278_1275_1068)).
@@ -1055,24 +1061,23 @@ Chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto 
 
 #### Art. 62
 
-<sup>1</sup>
+<sup>1</sup> è punito, in quanto non si applichi una disposizione penale degli articoli 14 a 16 della legge federale del 22 marzo 1974[^62-1] sul diritto penale amministrativo, con la multa fino a 20 000 franchi.[^62-2]
 
 Chiunque, intenzionalmente o per negligenza, compromette l’applicazione legale dell’imposta preventiva:
 
 - a. non assolvendo, nella procedura di riscossione dell’imposta, l’obbligo di iscriversi come contribuente, di presentare le notifiche, le distinte e i rendiconti, di fornire le informazioni, di presentare i libri di commercio e i documenti giustificativi;
 - b. rilasciando, sia come contribuente, sia in sua vece, un’attestazione inesatta quanto alla deduzione dell’imposta (art. 14 cpv. 2);
 - c. fornendo dati falsi o tacendo fatti rilevanti in una distinta o in un rendiconto, in una notifica o in un affidavit (art. 11), in un’istanza di rimborso, di condono dell’imposta o di esenzione dalla stessa, o presentando a tale occasione documenti inesatti per giustificare fatti rilevanti;
-- d.[^62-1] fornendo informazioni inesatte come contribuente, istante o terza persona tenuta a dare informazioni;
+- d.[^62-3] fornendo informazioni inesatte come contribuente, istante o terza persona tenuta a dare informazioni;
 - e. facendo valere un diritto al rimborso che non gli compete o che gli è già stato soddisfatto;
 - f. contravvenendo all’obbligo di tenere regolarmente e di conservare i libri di commercio, i registri e i documenti giustificativi; oppure;
 - g. rendendo difficile, impedendo o rendendo impossibile la esecuzione normale di una verifica contabile o di altri controlli ufficiali;
-- è punito, in quanto non si applichi una disposizione penale degli articoli 14 a 16 della legge federale del 22 marzo 1974[^62-2] sul diritto penale amministrativo, con la multa fino a 20 000 franchi.[^62-3]
 
 <sup>2</sup> È riservata l’azione penale conformemente all’articolo 285 del Codice penale svizzero[^62-4] quando trattasi di un’infrazione nel senso del capoverso 1 lettera *g*.
 
-[^62-1]: Nuovo testo giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^62-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-3]: Nuovo testo dell’ultimo comma giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-2]: Nuovo testo dell’ultimo comma giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^62-3]: Nuovo testo giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^62-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### III. Violazione dell’obbligo di trasferire l’imposta
@@ -1127,7 +1132,7 @@ Chiunque, intenzionalmente o per negligenza, omette o si obbliga ad omettere il 
 
 #### Art. 68
 
-...[^68-1]
+…[^68-1]
 
 [^68-1]: Le mod. possono essere consultate alla RU **1966** 371.
 
@@ -1139,11 +1144,11 @@ Chiunque, intenzionalmente o per negligenza, omette o si obbliga ad omettere il 
 
 <sup>1</sup> I portatori, domiciliati all’estero, di obbligazioni emesse da un ente di diritto pubblico svizzero prima del 10 ottobre 1921 con il promesso che gli interessi saranno versati senza alcuna deduzione d’imposta, hanno diritto al rimborso dell’imposta preventiva dedotta da questi interessi.
 
-<sup>2</sup> ...[^69-1]
+<sup>2</sup> …[^69-1]
 
 [^69-1]: Abrogato dall’all. n. II 8 della L del 23 giu. 2006 sugli investimenti collettivi, con effetto dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
-### II. ...
+### II. …
 
 #### Art. 70
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer (Verrechn
 short: VStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20240101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20250101-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/de"
 
 (Verrechnungssteuergesetz, VStG)[^t-1]
 
-vom 13. Oktober 1965 (Stand am 1. Januar 2024)
+vom 13. Oktober 1965 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)).
 
@@ -399,7 +399,13 @@ Die Steuerforderung, die bei der Aufwertung sanierungshalber abgeschriebener Bet
 
 <sup>2</sup> Übersteigt die infolge des Einspruchs zu entrichtende Steuer die noch zu erbringende Versicherungsleistung, so ist der Einspruch nur wirksam, wenn der Einsprecher dem Versicherer den Fehlbetrag ersetzt.
 
-<sup>3</sup> Die Meldungen sind innert 30 Tagen nach Ablauf jedes Monats für die in diesem Monat erbrachten Leistungen schriftlich der ESTV zu erstatten.
+<sup>3</sup> Der Versicherer muss der ESTV die in einem Monat erbrachten Leistungen innert 30 Tagen nach Ablauf dieses Monats melden.[^19-1]
+
+<sup>4</sup> Er muss der ESTV die in einem Kalenderjahr erbrachten periodischen Leistungen aus Leibrentenversicherungen, die dem Versicherungsvertragsgesetz vom 2. April 1908[^19-2] unterstehen, innert 30 Tagen nach Ablauf dieses Jahres melden.[^19-3]
+
+[^19-1]: Fassung gemäss Ziff. I 3 des BG vom 17. Juni 2022 über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen, in Kraft seit 1. Jan. 2025 ([AS 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [BBl 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
+[^19-2]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^19-3]: Eingefügt durch Ziff. I 3 des BG vom 17. Juni 2022 über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen, in Kraft seit 1. Jan. 2025 ([AS 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [BBl 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
 
 ### 2. Bei Kapitalerträgen
 

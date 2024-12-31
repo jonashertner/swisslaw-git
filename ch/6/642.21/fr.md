@@ -4,11 +4,11 @@ title: "Loi fédérale du 13 octobre 1965 sur l'impôt anticipé (LIA)"
 short: LIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20240101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20250101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/fr"
 
 (LIA[^t-1])
 
-du 13 octobre 1965 (État le 1<sup>er</sup> janvier 2024)
+du 13 octobre 1965 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Abréviation introduite par le ch. I 4 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
@@ -399,7 +399,13 @@ La créance fiscale qui a pris naissance à la suite de la revalorisation de dro
 
 <sup>2</sup> Si l’impôt anticipé que l’assureur doit payer par suite de l’opposition dépasse le montant de la prestation qui doit encore être versé, l’opposition à la déclaration n’est valable que si l’opposant rembourse la différence à l’assureur.
 
-<sup>3</sup> Les déclarations doivent être adressées par écrit à l’AFC dans les trente jours qui suivent l’expiration de chaque mois, pour les prestations exécutées pendant ce mois.
+<sup>3</sup> L’assureur est tenu d’annoncer les prestations à l’AFC dans les trente jours qui suivent la fin du mois au cours duquel elles ont été exécutées.[^19-1]
+
+<sup>4</sup> Il est tenu d’annoncer à l’AFC les prestations périodiques des assurances de rentes viagères qui sont soumises à la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^19-2] dans les trente jours qui suivent la fin de l’année durant laquelle elles ont été exécutées.[^19-3]
+
+[^19-1]: Nouvelle teneur selon le ch. I 3 de la LF du 17 juin 2022 sur l’imposition des rentes viagères et des formes de prévoyance similaires, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
+[^19-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^19-3]: Introduit par le ch. I 3 de la LF du 17 juin 2022 sur l’imposition des rentes viagères et des formes de prévoyance similaires, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
 
 ### 2. Pour les revenus de capitaux mobiliers
 
