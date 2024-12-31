@@ -3,20 +3,19 @@ canton: SG
 number: "314.3"
 title: Heilmittelverordnung
 language: de
-version: 2021-02-01
-valid_until: 2024-12-31
-version_adopted: 2021-01-19
+version: 2025-01-01
+version_adopted: 2024-11-19
 adopted: 2011-06-21
 in_force: 2011-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/314.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3106/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3691/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Heilmittelverordnung
 
-vom 21.06.2011 (Stand 01.02.2021)
+vom 21.06.2011 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -459,7 +458,8 @@ als Verordnung:[^ingress-3]
 - a) Hebamme oder Entbindungspfleger;
 - b) Dentalhygienikerin oder Dentalhygieniker;
 - c) Chiropraktorin oder Chiropraktor;
-- d) Rettungssanitäterin oder Rettungssanitäter.
+- d) Rettungssanitäterin oder Rettungssanitäter;
+- e) Optometristin oder Optometrist.
 
 <sup>2</sup> Die anwendungsberechtigte Person hält die Bestimmungen dieses Erlasses über den Detailhandel ein.
 
