@@ -3,13 +3,13 @@ canton: FR
 number: "834.2.41"
 title: Ordonnance fixant la liste des établissements médico-sociaux du canton de Fribourg
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2024-05-14
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-01-14
 adopted: 2018-01-30
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/834.2.41"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8011/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8118/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8011/pdf_file"
 
 Liste des établissements médico-sociaux – O
 
-du 30.01.2018 (version entrée en vigueur le 01.01.2024)
+du 30.01.2018 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -54,11 +54,12 @@ Arrête:
   - 9\. Home du Gibloux, 1726 Farvagny: — 74 lits
   - 10\. Résidence Le Manoir, 1762 Givisiez: — 95 lits
   - 11\. Villa Beausite, 1700 Fribourg: — 80 lits
-  - 12\. Foyer Les Peupliers, 1724 Le Mouret: — 10 lits
+  - 12\. Foyer Les Peupliers, 1724 Le Mouret: — 17 lits
+  - 13\. Institution de santé pour religieux de Fribourg, 1700 Fribourg: — 56 lits
 - b) Lits EMS long séjour AOS
   - 1\. …
   - 2\. …
-  - 3\. Foyer Les Peupliers, 1724 Le Mouret: — 7 lits
+  - 3\. …
 - c) Lits EMS court séjour reconnus
   - 1\. Home médicalisé de la Sarine, 1752 Villars-sur-Glâne: — 4 lits
   - 2\. Résidence Les Martinets, 1752 Villars-sur-Glâne: — 3 lits
@@ -77,17 +78,17 @@ Arrête:
 - a) Lits EMS long séjour reconnus
   - 1\. Pflegeheim Maggenberg, 1712 Tafers: — 90 lits
   - 2\. Pflegeheim Aergera, 1735 Giffers: — 34 lits
-  - 3\. Pflegeheim Bachmatte, 1716 Oberschrot: — 45 lits
-  - 4\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 46 lits
-  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 160 lits
+  - 3\. Pflegeheim Bachmatte, 1716 Oberschrot: — 47 lits
+  - 4\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 49 lits
+  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 164 lits
 - b) Lits EMS long séjour AOS
   - 1\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 2 lits
 - c) Lits EMS court séjour reconnus
   - 1\. Pflegeheim Maggenberg, 1712 Tafers: — 2 lits
   - 2\. Pflegeheim Aergera, 1735 Giffers: — 1 lit
-  - 3\. Pflegeheim Bachmatte, 1716 Oberschrot: — 2 lits
-  - 4\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 3 lits
-  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 6 lits
+  - 3\. …
+  - 4\. …
+  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 2 lits
 - d) Places en foyer de jour
   - 1\. Stiftung St. Wolfgang, 3186 Düdingen: — 15 places
 
@@ -130,15 +131,16 @@ Arrête:
 - a) Lits EMS long séjour reconnus
   - 1\. Pflegeheim des Seebezirks, 3280 Morat: — 65 lits
   - 2\. Pflegeheim Jeuss, 1793 Jeuss: — 46 lits
-  - 3\. Home médicalisé Saint-François, 1784 Courtepin: — 44 lits
+  - 3\. Home médicalisé Saint-François, 1784 Courtepin: — 48 lits
   - 4\. Home du Vully, 1786 Sugiez: — 36 lits
   - 5\. Alters- und Pflegeheim Kerzers, 3210 Kerzers: — 38 lits
-  - 6\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: — 26 lits
+  - 6\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: — 28 lits
   - 7\. Stiftung Résidence Beaulieu, 3280 Morat: — 20 lits
+  - 8\. Stiftung Hospiz St. Peter, 3212 Gurmels: — 36 lits
 - b) Lits EMS long séjour AOS
   - 1\. …
   - 2\. …
-  - 3\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: — 2 lits
+  - 3\. …
 - c) Lits EMS court séjour reconnus
   - 1\. Pflegeheim des Seebezirks, 3280 Morat: — 3 lits
   - 2\. Pflegeheim Jeuss, 1793 Jeuss: — 3 lits
@@ -152,12 +154,13 @@ Arrête:
 <sup>1</sup> La liste des établissements médico-sociaux du district de la Glâne est la suivante:
 
 - a) Lits EMS long séjour reconnus
-  - 1\. Réseau Santé Glâne, 1681 Billens: — 228 lits
+  - 1\. Réseau Santé Glâne, 1681 Billens: — 230 lits
 - b) Lits EMS long séjour AOS: — Aucun lit
   - 1\. …
 - c) Lits EMS court séjour reconnus
   - 1\. Réseau Santé Glâne, 1681 Billens: — 5 lits
-- d) Places en foyer de jour: — Aucune place
+- d) Places en foyer de jour
+  - 1\. Réseau Santé Glâne, 1681 Billens: — 8 places
 
 #### Art. 6
 
@@ -199,11 +202,11 @@ Arrête:
 <sup>1</sup> La liste des établissements médico-sociaux au bénéfice d'un mandat cantonal est la suivante:
 
 - a) Lits EMS long séjour reconnus
-  - 1\. EMS Les Camélias, 1633 Marsens: — 15 lits
+  - 1\. EMS Les Camélias, 1633 Marsens: — 16 lits
   - 2\. …
   - 3\. EMS Les Grèves du Lac, 1544 Gletterens: — 10 lits
 - b) Lits EMS long séjour AOS
-  - 1\. Institution de santé pour religieux de Fribourg, 1700 Fribourg: — 56 lits
+  - 1\. …
   - 2\. …
   - 3\. …
 - c) Lits EMS court séjour reconnus

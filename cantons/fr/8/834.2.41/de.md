@@ -3,13 +3,13 @@ canton: FR
 number: "834.2.41"
 title: Verordnung über die Liste der Pflegeheime des Kantons Freiburg
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2024-05-14
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-01-14
 adopted: 2018-01-30
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/834.2.41"
-pdf: "https://bdlf.fr.ch/api/de/versions/8011/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8118/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8011/pdf_file"
 
 Liste der Pflegeheime – V
 
-vom 30.01.2018 (Fassung in Kraft getreten am 01.01.2024)
+vom 30.01.2018 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -54,11 +54,12 @@ beschliesst:
   - 9\. Home du Gibloux, 1726 Farvagny: — 74 Betten
   - 10\. Résidence Le Manoir, 1762 Givisiez: — 95 Betten
   - 11\. Villa Beausite, 1700 Freiburg: — 80 Betten
-  - 12\. Foyer Les Peupliers, 1724 Le Mouret: — 10 Betten
+  - 12\. Foyer Les Peupliers, 1724 Le Mouret: — 17 Betten
+  - 13\. Institution de santé pour religieux de Fribourg, 1700 Freiburg: — 56 Betten
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte
   - 1\. …
   - 2\. …
-  - 3\. Foyer Les Peupliers, 1724 Le Mouret: — 7 Betten
+  - 3\. …
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
   - 1\. Home médicalisé de la Sarine, 1752 Villars-sur-Glâne: — 4 Betten
   - 2\. Résidence Les Martinets, 1752 Villars-sur-Glâne: — 3 Betten
@@ -77,17 +78,17 @@ beschliesst:
 - a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
   - 1\. Pflegeheim Maggenberg, 1712 Tafers: — 90 Betten
   - 2\. Pflegeheim Aergera, 1735 Giffers: — 34 Betten
-  - 3\. Pflegeheim Bachmatte, 1716 Oberschrot: — 45 Betten
-  - 4\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 46 Betten
-  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 160 Betten
+  - 3\. Pflegeheim Bachmatte, 1716 Oberschrot: — 47 Betten
+  - 4\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 49 Betten
+  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 164 Betten
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte
   - 1\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 2 Betten
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
   - 1\. Pflegeheim Maggenberg, 1712 Tafers: — 2 Betten
   - 2\. Pflegeheim Aergera, 1735 Giffers: — 1 Bett
-  - 3\. Pflegeheim Bachmatte, 1716 Oberschrot: — 2 Betten
-  - 4\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 3 Betten
-  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 6 Betten
+  - 3\. …
+  - 4\. …
+  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 2 Betten
 - d) Betreuungsplätze im Tagesheim
   - 1\. Stiftung St. Wolfgang, 3186 Düdingen: — 15 Plätze
 
@@ -130,15 +131,16 @@ beschliesst:
 - a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
   - 1\. Pflegeheim des Seebezirks, 3280 Murten: — 65 Betten
   - 2\. Pflegeheim Jeuss, 1793 Jeuss: — 46 Betten
-  - 3\. Home médicalisé Saint-François, 1784 Courtepin: — 44 Betten
+  - 3\. Home médicalisé Saint-François, 1784 Courtepin: — 48 Betten
   - 4\. Home du Vully, 1786 Sugiez: — 36 Betten
   - 5\. Alters- und Pflegeheim Kerzers, 3210 Kerzers: — 38 Betten
-  - 6\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: — 26 Betten
+  - 6\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: — 28 Betten
   - 7\. Stiftung Résidence Beaulieu, 3280 Murten: — 20 Betten
+  - 8\. Stiftung Hospiz St. Peter, 3212 Gurmels: — 36 Betten
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte
   - 1\. …
   - 2\. …
-  - 3\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: — 2 Betten
+  - 3\. …
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
   - 1\. Pflegeheim des Seebezirks, 3280 Murten: — 3 Betten
   - 2\. Pflegeheim Jeuss, 1793 Jeuss: — 3 Betten
@@ -152,12 +154,13 @@ beschliesst:
 <sup>1</sup> Liste der Pflegeheime des Glanebezirks:
 
 - a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
-  - 1\. Réseau Santé Glâne, 1681 Billens: — 228 Betten
+  - 1\. Réseau Santé Glâne, 1681 Billens: — 230 Betten
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte: — Kein Bett
   - 1\. …
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
   - 1\. Réseau Santé Glâne, 1681 Billens: — 5 Betten
-- d) Betreuungsplätze im Tagesheim: — Kein Platz
+- d) Betreuungsplätze im Tagesheim
+  - 1\. Réseau Santé Glâne, 1681 Billens: — 8 Plätze
 
 #### Art. 6
 
@@ -199,11 +202,11 @@ beschliesst:
 <sup>1</sup> Liste der Pflegeheime des Kantons Freiburg mit einem kantonalen Auftrag:
 
 - a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
-  - 1\. EMS Les Camélias, 1633 Marsens: — 15 Betten
+  - 1\. EMS Les Camélias, 1633 Marsens: — 16 Betten
   - 2\. …
   - 3\. EMS Les Grèves du Lac, 1544 Gletterens: — 10 Betten
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte
-  - 1\. Institution de santé pour religieux de Fribourg, 1700 Freiburg: — 56 Betten
+  - 1\. …
   - 2\. …
   - 3\. …
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
