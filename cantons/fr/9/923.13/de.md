@@ -1,24 +1,23 @@
 ---
 canton: FR
 number: "923.13"
-title: Verordnung über die Finanzhilfe für Berufsfischer für die Jahre 2023 und 2024
+title: "Verordnung über die Finanzhilfe für Berufsfischer für die Jahre 2025, 2026 und 2027"
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-12
+version: 2025-01-01
+version_adopted: 2024-08-27
 adopted: 2024-08-27
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/923.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7674/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8043/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Finanzhilfe für Berufsfischer für die Jahre 2023 und 2024
+# Verordnung über die Finanzhilfe für Berufsfischer für die Jahre 2025, 2026 und 2027
 
 Fischerei, Finanzhilfe – V
 
-vom 12.12.2022 (Fassung in Kraft getreten am 01.01.2023)
+vom 27.08.2024 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -30,13 +29,11 @@ gestützt auf das Konkordat vom 19. Mai 2003 über die Fischerei im Murtensee;
 
 in Erwägung:
 
-Am 28. April 2020 hat der Staatsrat die Verordnung über die dringende Finanzhilfe für Berufsfischer für die Jahre 2020, 2021 und 2022 verabschiedet, um die Berufsfischerei, wie vom Grossen Rat gewünscht, zu unterstützen. Eine begrenzte Dauer von drei Jahren war festgelegt worden, damit die Entwicklung der Berufsfischerei in den grossen Seen beobachtet werden konnte.
+Am 28. April 2020 hat der Staatsrat die Verordnung über die dringende Finanzhilfe für Berufsfischer für die Jahre 2020, 2021 und 2022 verabschiedet.
 
-Im Januar 2021 wurde durch eine Änderung des Gesetzes über die Fischerei eine gesetzliche Grundlage geschaffen, die es ermöglicht, die Berufsfischerei mit technischen und finanziellen Massnahmen zu unterstützen.
+Am 12. Dezember 2022 hat er die Finanzhilfe für die Jahre 2023 und 2024 verlängert.
 
-Die aktuelle Situation der Berufsfischerei im Neuenburgersee ist nach wie vor besorgniserregend. Die Fischfänge sind immer noch auf einem Tiefpunkt und die Ursache dafür bleibt ungeklärt.
-
-Die im Fischereigesetz vorgesehene finanzielle Unterstützung durch den Staat anhand der Zahlung einer Finanzhilfe an Berufsfischer muss daher fortgesetzt werden.
+Am 21. Juni 2024 hat die Interkantonale Fischereikommission des Neuenburgersees beschlossen, die dringende Finanzhilfe für Berufsfischer um weitere drei Jahre zu verlängern.
 
 Auf Antrag der Direktion der Institutionen und der Land- und Forstwirtschaft,
 
@@ -86,4 +83,4 @@ beschliesst:
 
 <sup>3</sup> Der für die Finanzhilfen bestimmte Betrag stammt aus dem Voranschlag des Amts.
 
-2022\_134
+2024\_057

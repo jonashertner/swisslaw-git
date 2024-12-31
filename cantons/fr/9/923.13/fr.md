@@ -1,24 +1,23 @@
 ---
 canton: FR
 number: "923.13"
-title: "Ordonnance sur l'aide financière aux pêcheurs professionnels pour les années 2023 et 2024"
+title: "Ordonnance sur l'aide financière aux pêcheurs professionnels pour les années 2025, 2026 et 2027"
 language: fr
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-12
+version: 2025-01-01
+version_adopted: 2024-08-27
 adopted: 2024-08-27
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/923.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7674/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8043/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur l'aide financière aux pêcheurs professionnels pour les années 2023 et 2024
+# Ordonnance sur l'aide financière aux pêcheurs professionnels pour les années 2025, 2026 et 2027
 
 Pêche, aide financière – O
 
-du 12.12.2022 (version entrée en vigueur le 01.01.2023)
+du 27.08.2024 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -30,13 +29,11 @@ Vu le concordat du 19 mai 2003 sur la pêche dans le lac de Morat;
 
 Considérant:
 
-Le 28 avril 2020, le Conseil d'Etat a adopté l'ordonnance sur l'aide financière d'urgence aux pêcheurs professionnels pour les années 2020, 2021 et 2022 afin de mettre en application la volonté du Grand Conseil de soutenir la pêche professionnelle. Une durée limitée à trois ans avait été fixée afin de suivre l'évolution de la pêche professionnelle dans les grands lacs.
+Le 28 avril 2020, le Conseil d'Etat a adopté l'ordonnance sur l'aide financière d'urgence aux pêcheurs professionnels pour les années 2020, 2021 et 2022.
 
-En janvier 2021, une modification de la loi sur la pêche a introduit une base légale pour permettre un soutien à la pêche professionnelle à l'aide de mesures techniques et financières.
+Le 12 décembre 2022, il a prolongé l'aide pour les années 2023 et 2024.
 
-La situation actuelle de la pêche professionnelle dans le lac de Neuchâtel est encore inquiétante, les captures de poissons sont toujours au plus bas et la cause reste inexpliquée.
-
-Il convient ainsi de poursuivre le soutien financier par l'Etat au moyen du versement d'une aide financière aux pêcheurs professionnels comme cela est prévu dans la loi sur la pêche.
+Le 21 juin 2024, la Commission intercantonale de la pêche dans le lac Neuchâtel a décidé de prolonger les aides d'urgence aux pêcheurs professionnels de trois années supplémentaires.
 
 Sur la proposition de la Direction des institutions, de l'agriculture et des forêts,
 
@@ -86,4 +83,4 @@ Arrête:
 
 <sup>3</sup> Le montant des aides financières émarge au budget du Service.
 
-2022\_134
+2024\_057
