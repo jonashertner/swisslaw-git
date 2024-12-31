@@ -4,13 +4,13 @@ number: "141.11"
 title: Personalverordnung
 short: PV
 language: de
-version: 2021-08-01
-valid_until: 2024-12-31
-version_adopted: 2021-05-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-31
 adopted: 1998-01-29
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1663/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1918/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1663/pdf_file"
 
 (PV)
 
-vom 29.01.1998 (Stand 01.08.2021)
+vom 29.01.1998 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -200,7 +200,9 @@ beschliesst:
 
 <sup>1</sup> Die Abgangsentschädigung besteht aus dem Grundlohn pro Monat und den Sozialzulagen.
 
-<sup>2</sup> Wird die Stelle aufgehoben und besteht für die Angestellten eine besondere Härte, so erhalten Angestellte nach acht Dienstjahren einen Monatslohn. Ihr Anspruch erhöht sich um einen Monatslohn für je drei weitere Dienstjahre bis zum Maximum von fünf Monatslöhnen bei 20 Dienstjahren.
+<sup>2</sup> Wird eine Abgangsentschädigung ausgerichtet, so erhalten die Angestellten nach fünf Dienstjahren einen Monatslohn. Ihr Anspruch erhöht sich um einen Monatslohn für je drei weitere, vollendete Dienstjahre bis zum Maximum von sechs Monatslöhnen bei 20 vollendenten Dienstjahren.
+
+<sup>3</sup> Die Abgangsentschädigung für Behördenmitglieder gemäss Art. 60 des Staatsverwaltungsgesetzes beträgt bis zum vierten Amtsjahr vier Monatslöhne, bis zum achten Amtsjahr fünf Monatslöhne und ab dem neunten Amtsjahr sechs Monatslöhne.
 
 ## 5. Ferien und Urlaub
 
@@ -210,16 +212,16 @@ beschliesst:
 
 <sup>1</sup> Der Ferienanspruch pro Kalenderjahr beträgt:
 
-- a. bis und mit dem Kalenderjahr, in dem das 20. Lebensjahr erfüllt wird, 25 Arbeitstage;
-- b. ab dem Kalenderjahr, in dem das 21. Lebensjahr erfüllt wird, 20 Arbeitstage;
-- c. ab dem Kalenderjahr, in dem das 50. Lebensjahr erfüllt wird, 25 Arbeitstage;
+- a. bis und mit dem Kalenderjahr, in dem das 20. Lebensjahr erfüllt wird, 30 Arbeitstage;
+- b. ab dem Kalenderjahr, in dem das 21. Lebensjahr erfüllt wird, 25 Arbeitstage;
+- c. ab dem Kalenderjahr, in dem das 50. Lebensjahr erfüllt wird, 28 Arbeitstage;
 - d. ab dem Kalenderjahr, in dem das 60. Lebensjahr erfüllt wird, 30 Arbeitstage.
 
 <sup>2</sup> Bei der Bewilligung der Ferienpläne durch die Vorgesetzten sind neben den dienstlichen Bedürfnissen die persönlichen Wünsche angemessen zu berücksichtigen.
 
 <sup>3</sup> Die Ferien dienen der Erholung. Sie sind in der Regel in ganzen Wochen zu beziehen.
 
-<sup>4</sup> Ferienansprüche können nur mit Einwilligung der Vorgesetzten ins folgende Jahr verschoben werden.
+<sup>4</sup> Die Angestellten müssen ihre Ferien im laufenden Kalenderjahr beziehen. Ist dies aus dienstlichen Gründen nicht möglich, können höchstens fünf Ferientage auf das nächste Kalenderjahr übertragen werden. Die Departementsvorsteherin oder der Departementsvorsteher kann die Übertragung von mehr als fünf Ferientagen von einem Kalenderjahr auf das nächstfolgende Kalenderjahr aus wichtigen Gründen bewilligen.
 
 #### Art. 19
 
@@ -337,13 +339,17 @@ beschliesst:
 
 **Treueprämien**
 
-<sup>1</sup> Nach zehn Dienstjahren und anschliessend nach je weiteren fünf Dienstjahren erhalten die Angestellten eine Treueprämie von 1 500 Franken oder eine Woche bezahlten Urlaub.
+<sup>1</sup> Bei ununterbrochenem Dienstverhältnis wird nach zehn und jeweils fünf weiteren Dienstjahren bis zum Erreichen des ordentlichen Rentenalters eine Treueprämie ausgerichtet.
 
-<sup>2</sup> Lehrpersonen wird die Treueprämie ausbezahlt.
+<sup>2</sup> Die Berechnung der Dienstjahre erfolgt unabhängig vom Beschäftigungsgrad. Lehrverhältnisse, Praktika und unbezahlter Urlaub von mehr als einem Monat werden nicht mitgezählt.
 
-<sup>3</sup> Wurde das Dienstverhältnis unterbrochen, so werden die Dienstjahre vor dem Unterbruch mitgezählt. Unbezahlter Urlaub von mehr als einem Monat gilt nicht als Dienstzeit.
+<sup>3</sup> Die Treueprämie wird aufgrund des durchschnittlichen Pensums der letzten fünf Jahre berechnet. Sie besteht aus einem Viertel des Monatslohns, mindestens aber Fr. 1 500.– bei einem Vollpensum, oder aus fünf bezahlten Urlaubstagen. Nach 20, 30 und 40 Dienstjahren besteht sie aus der Hälfte des Monatslohns, mindestens aber Fr. 3 000.– bei einem Vollpensum, oder aus zehn bezahlten Urlaubstagen.
 
-<sup>4</sup> Treueprämien werden aufgrund des durchschnittlichen Pensums der letzten fünf Jahre berechnet.
+<sup>4</sup> Die Anstellungsbehörde kann die Treueprämie Angestellten, deren Leistungen oder Verhalten nur teilweise genügen, ganz oder teilweise verweigern.
+
+<sup>5</sup> Die Treueprämie in Form von bezahltem Urlaub verfällt nach fünf Jahren.
+
+<sup>6</sup> Lehrpersonen wird die Treueprämie ausbezahlt.
 
 #### Art. 28
 
@@ -393,9 +399,9 @@ beschliesst:
 
 **Sozialzulagen**
 
-<sup>1</sup> Kinderzulagen werden aufgrund der gesetzlichen Grundlagen ausgerichtet[^33-1]. Verwenden Angestellte die Kinderzulagen nicht für den Unterhalt des Kindes, so kann die für die Anstellung zuständige Stelle nach Absprache mit dem Personalamt die Zulage unmittelbar dem Kind, der Obhutsperson oder einer Behörde ausrichten.
+<sup>1</sup> Kinder- oder Ausbildungszulagen werden aufgrund der gesetzlichen Grundlagen ausgerichtet[^33-1]. Verwenden Angestellte die Kinderzulagen nicht für den Unterhalt des Kindes, so kann die für die Anstellung zuständige Stelle nach Absprache mit dem Personalamt die Zulage unmittelbar dem Kind, der Obhutsperson oder einer Behörde ausrichten.
 
-<sup>2</sup> Besteht Anspruch auf volle oder anteilmässige Kinderzulagen, so wird ergänzend im Verhältnis zur Höhe der Kinderzulagen eine Familienzulage von Fr. 1 200.– je Kind pro Jahr ausbezahlt. Der Regierungsrat kann die Familienzulage der Teuerung anpassen. Können für dasselbe Kind aufgrund weiterer gesetzlicher Bestimmungen oder aufgrund vertraglicher Vereinbarung Leistungen im Sinne dieser Familienzulage von Dritten bezogen werden, so ist die Familienzulage um den betreffenden Betrag zu kürzen.
+<sup>2</sup> Besteht Anspruch auf eine Kinder- oder Ausbildungszulage, so wird eine besondere Familienzulage von Fr. 1 200.– je Kind pro Jahr ausbezahlt. Der Anspruch auf eine besondere Familienzulage besteht auch für Angestellte, deren Anspruch auf Kinder- oder Ausbildungszulagen wegen einer Anspruchskonkurrenz nicht zum Zug kommt. Können für dasselbe Kind aufgrund weiterer gesetzlicher Bestimmungen oder aufgrund vertraglicher Vereinbarung Leistungen im Sinne dieser besonderen Familienzulage von Dritten bezogen werden, so ist die besondere Familienzulage um den betreffenden Betrag zu kürzen. Der Regierungsrat kann die besondere Familienzulage der Teuerung anpassen.
 
 <sup>3</sup> Der Anspruch auf Sozialzulagen oder dessen Wegfall ist dem Personalamt mitzuteilen. Unberechtigterweise bezogene Sozialzulagen müssen zurückbezahlt werden.
 
@@ -407,13 +413,11 @@ beschliesst:
 
 <sup>1</sup> Die Angestellte hat vom Tag der Niederkunft an Anspruch auf einen Mutterschaftsurlaub von 16 Wochen.
 
-<sup>2</sup> Dauerte das Arbeitsverhältnis vor dem Antritt des Urlaubs mindestens zwei Jahre, so hat die Angestellte während des gesamten Mutterschaftsurlaubs Anspruch auf 100 Prozent des Grundlohns. Andernfalls besteht Anspruch auf die Mutterschaftsentschädigung gemäss dem Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz)[^34-1].
+<sup>2</sup> Die Angestellte hat während des gesamten Mutterschaftsurlaubs Anspruch auf 100 Prozent des Grundlohns.
 
 <sup>3</sup> Die durch die Ausgleichskasse zu entrichtenden Erwerbsausfallentschädigungen fallen an den Arbeitgeber.
 
 <sup>4</sup> Der Mutterschaftsurlaub hat keine Kürzung des Ferienanspruchs zur Folge. Krankheits-, Unfall- und Feiertage, die in die Zeit des Mutterschaftsurlaubs fallen, können nicht nachbezogen werden. Dies gilt auch für die Schulferien der Lehrerinnen, sofern neben dem Mutterschaftsurlaub mindestens vier Wochen Ferien pro Kalenderjahr bezogen werden können.
-
-[^34-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 #### Art. 34a
 
@@ -421,13 +425,11 @@ beschliesst:
 
 <sup>1</sup> Der Angestellte hat vom Tag der Geburt des Kindes an Anspruch auf einen Vaterschaftsurlaub von zwei Wochen.
 
-<sup>2</sup> Dauert das Arbeitsverhältnis vor der Geburt des Kindes mindestens zwei Jahre, so hat der Angestellte während des gesamten Vaterschaftsurlaubs Anspruch auf 100 Prozent des Grundlohns. Andernfalls besteht Anspruch auf die Vaterschaftsentschädigung gemäss dem Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz) [^34a-1].
+<sup>2</sup> Der Angestellte hat während des gesamten Vaterschaftsurlaubs Anspruch auf 100 Prozent des Grundlohns.
 
 <sup>3</sup> Die durch die Ausgleichskasse zu entrichtenden Erwerbsausfallentschädigungen fallen an den Arbeitgeber.
 
 <sup>4</sup> Die Anspruchsvoraussetzungen, die Rahmenfrist sowie der Beginn und das Ende des Anspruchs richten sich nach dem Erwerbsersatzgesetz.
-
-[^34a-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 #### Art. 35
 
@@ -592,7 +594,9 @@ geändert durch:
 
 \- Nachtrag vom 17. Dezember 2018 (OGS 2018, 46), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.05), in Kraft seit 1. Januar 2019 (OGS 2019, 5),
 
-\- Nachtrag vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27)
+\- Nachtrag vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27),
+
+\- Nachtrag zum Staatsverwaltungsgesetz vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39)
 
 Der Nachtrag vom 11. September 2008 (Vaterschaftsurlaub; OGS 2008, 71, OGS 2009, 67) wurde an der Volksabstimmung vom 8. Februar 2009 (OGS 2009, 11) abgelehnt
 
