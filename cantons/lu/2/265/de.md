@@ -4,13 +4,13 @@ number: "265"
 title: "Verordnung über die Kosten in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren"
 short: "Justiz-Kostenverordnung, JusKV"
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-23
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-12
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/265"
-pdf: "https://srl.lu.ch/api/de/versions/3869/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3869/pdf_file"
 
 (Justiz-Kostenverordnung, JusKV)
 
-vom 26.03.2013 (Stand 01.01.2022)
+vom 26.03.2013 (Stand 01.01.2025)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -352,6 +352,18 @@ beschliesst:
 <sup>1</sup> Die Gebühr entschädigt den berufsmässigen Vertreter oder die berufsmässige Vertreterin für die unmittelbar mit der Vertretung der Partei im Verfahren zusammenhängenden Bemühungen, namentlich für die Instruktion, das Studium der Akten und der Rechtsfragen, das Erstellen der Rechtsschriften, die Teilnahme an Gerichtsverhandlungen, das Studium der Entscheide und die mit diesen Bemühungen verbundenen Kanzleiarbeiten. Abgegolten sind zudem die geschäftlichen Grundkosten.
 
 <sup>2</sup> Für die Rechnungsstellung kann keine Gebühr beansprucht werden.
+
+#### § 30a
+
+**Akontozahlungen bei amtlicher Verteidigung oder unentgeltlicher Rechtsverbeiständung**
+
+<sup>1</sup> Die Entschädigung für die amtliche Verteidigung oder die unentgeltliche Rechtsverbeiständung wird am Ende des Verfahrens festgelegt. Hat ein Mandat im Rahmen der amtlichen Verteidigung oder der unentgeltlichen Rechtsverbeiständung eine Dauer von zwölf Monaten überschritten und steht das Verfahren nicht vor dem Abschluss, so können auf Gesuch hin Akontozahlungen gewährt werden.
+
+<sup>2</sup> Die Entscheidung über die Auszahlung von Akontozahlungen obliegt der Verfahrensleitung.
+
+<sup>3</sup> In Ausnahmefällen, insbesondere wenn für die amtliche Verteidigung oder die unentgeltliche Rechtsverbeiständung bereits innerhalb eines kürzeren Zeitraums ein erheblicher Aufwand erforderlich war, kann die Verfahrensleitung auf Gesuch hin unabhängig von der genannten Dauer eine Akontozahlung anordnen.
+
+<sup>4</sup> Eine geleistete Akontozahlung ist zurückzuerstatten, wenn der unentgeltlich vertretenen Partei eine Parteientschädigung zugesprochen wird. Etwas anderes gilt, wenn die Parteientschädigung bei der Gegenpartei nicht oder voraussichtlich nicht einbringlich ist und der Rechtsbeistand durch den Kanton entschädigt wird.
 
 #### § 31
 
