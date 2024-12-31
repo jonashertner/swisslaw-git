@@ -4,22 +4,22 @@ title: "Ordinanza dell'11 dicembre 1978 sull'indicazione dei prezzi (OIP)"
 short: OIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: it
-version: 2022-07-01
+version: 2025-01-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20220701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’indicazione dei prezzi
 
-(OIP)**[^t-1]**
+(OIP)[^t-1]
 
-dell’11 dicembre 1978 (Stato 1° luglio 2022)
+dell’11 dicembre 1978 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
 Il Consiglio federale svizzero,
 
@@ -55,7 +55,7 @@ L’ordinanza s’applica:
 
 <sup>2</sup> Sono considerati consumatori le persone che acquistano merci o prestazioni di servizi per scopi che non sono in relazione con la loro attività commerciale o professionale.[^2-1]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 ## Capitolo 2: Merci
 
@@ -71,7 +71,7 @@ L’ordinanza s’applica:
 
 <sup>3</sup> L’indicazione non è obbligatoria per le merci vendute all’incanto o in altro modo di vendita analoga.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
 
 #### Art. 4
 
@@ -83,9 +83,9 @@ L’ordinanza s’applica:
 
 <sup>2</sup> Vantaggi come ribassi, tagliandi di ribasso o ristorno, realizzabili soltanto dopo la compera, devono essere designati separatamente e indicati in cifre.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
-[^4-3]: Introdotto dal n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
+[^4-3]: Introdotto dalla cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 ### Sezione 2: Indicazione del prezzo unitario
 
@@ -112,10 +112,10 @@ L’indicazione del prezzo unitario non è obbligatoria:
 - i. negli esercizi pubblici;
 - j.[^5-4] per gli imballaggi preconfezionati di medicamenti delle categorie di dispensazione A e B secondo gli articoli 41 e 42 dell’ordinanza del 21 settembre 2018[^5-5] sui medicamenti, come anche della categoria C secondo l’articolo 25 dell’ordinanza del 17 ottobre 2001[^5-6] sui medicamenti.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
 [^5-2]: Nuovo testo giusta l’art. 39 n. 2 dell’O del 5 set. 2012 sulle indicazioni di quantità, in vigore dal 1° gen. 2013 ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
-[^5-4]: Introdotta dall’art. 39 n. 2 dell’O del 5 set. 2012 sulle indicazioni di quantità ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)). Nuovo testo giusta l’all. 8 n. II 6 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
+[^5-4]: Introdotta dall’art. 39 n. 2 dell’O del 5 set. 2012 sulle indicazioni di quantità ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)). Nuovo testo giusta l’all. 8 cifra II n. 6 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
 [^5-5]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 [^5-6]: [RU 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516)
 
@@ -144,7 +144,7 @@ L’indicazione del prezzo unitario non è obbligatoria:
 
 <sup>3</sup> Si può parimenti far ricorso alle modalità di cui al capoverso 2 per oggetti d’antiquariato, oggetti d’arte, tappeti orientali, pellicce, orologi, gioielli e altri oggetti di metalli preziosi se il loro prezzo supera i 5000 franchi.[^7-1]
 
-[^7-1]: Introdotto dal n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241), [2005 2911](https://fedlex.data.admin.ch/eli/oc/2005/475)).
+[^7-1]: Introdotto dalla cifra I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241), [2005 2911](https://fedlex.data.admin.ch/eli/oc/2005/475)).
 
 #### Art. 8
 
@@ -165,7 +165,7 @@ L’indicazione del prezzo unitario non è obbligatoria:
 <sup>3</sup> Sono riservate prescrizioni più severe applicantisi alla specificazione recata in altri atti legislativi.
 
 [^9-1]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^9-2]: Nuovo testo giusta il n. I 6 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
+[^9-2]: Nuovo testo giusta la cifra I n. 6 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
 
 ## Capitolo 3: Prestazioni di servizi
 
@@ -203,22 +203,22 @@ Il prezzo effettivamente da pagare per le prestazioni offerte al consumatore nei
 
 <sup>3</sup> In caso di modifica dell’aliquota dell’imposta sul valore aggiunto, l’indicazione del prezzo deve essere adattata entro i tre mesi successivi all’entrata in vigore di tale modifica. Durante questo periodo, i consumatori devono essere informati con una menzione ben visibile che la modifica dell’aliquota d’imposta non è ancora considerata nel prezzo indicato.[^10-16]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-5]: Introdotta dal n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-6]: Introdotta dal n. I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-7]: Introdotta dal n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-8]: Introdotta dal n. I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nuovo testo giusta il n. II dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^10-9]: Introdotta dal n. I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nuovo testo giusta il n. II dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^10-10]: Introdotta dal n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-11]: Introdotta dal n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-12]: Introdotta dal n. I dell’O del 21 gen. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)). Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-13]: Introdotta dal n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-14]: Introdotta dal n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-15]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
-[^10-16]: Introdotto dal n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-5]: Introdotta dalla cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-6]: Introdotta dalla cifra I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-7]: Introdotta dalla cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-8]: Introdotta dalla cifra I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nuovo testo giusta la cifra II dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^10-9]: Introdotta dalla cifra I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nuovo testo giusta la cifra II dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^10-10]: Introdotta dalla cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-11]: Introdotta dalla cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-12]: Introdotta dalla cifra I dell’O del 21 gen. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)). Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-13]: Introdotta dalla cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-14]: Introdotta dalla cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-15]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
+[^10-16]: Introdotto dalla cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 #### Art. 11
 
@@ -234,9 +234,9 @@ Il prezzo effettivamente da pagare per le prestazioni offerte al consumatore nei
 
 <sup>4</sup> Negli stabilimenti ospitanti persone, il prezzo del pernottamento con o senza prima colazione, della mezza pensione o della pensione completa deve essere comunicato oralmente o per scritto al cliente.[^11-3]
 
-[^11-1]: Introdotto dal n. I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Abrogato dal n. I dell’O del 21 gen. 2004, con effetto dal 1° giu. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)).
+[^11-1]: Introdotto dalla cifra I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Abrogato dalla cifra I dell’O del 21 gen. 2004, con effetto dal 1° giu. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)).
 [^11-2]: Nuovo testo giusta l’art. 39 n. 2 dell’O del 5 set. 2012 sulle indicazioni di quantità, in vigore dal 1° gen. 2013 ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 
 #### Art. 11a
 
@@ -256,7 +256,7 @@ Il prezzo effettivamente da pagare per le prestazioni offerte al consumatore nei
 
 <sup>7</sup> Se il consumatore fruisce di un servizio d’informazione sugli elenchi di cui all’articolo 31*a* dell’ordinanza del 6 ottobre 1997[^11a-2] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni, questi deve essere informato del prezzo del servizio connesso immediatamente prima della sua effettiva fruizione e a prescindere dall’importo.
 
-[^11a-1]: Introdotto dal n. I dell’O del 21 gen. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)). Nuovo testo giusta il n. II dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^11a-1]: Introdotto dalla cifra I dell’O del 21 gen. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)). Nuovo testo giusta la cifra II dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 [^11a-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 #### Art. 11a<sup>bis</sup>
@@ -274,7 +274,7 @@ Le prestazioni offerte via Internet o mediante comunicazione di dati possono ess
 
 <sup>3</sup> Le prestazioni di servizi offerte via Internet o mediante comunicazione di dati e contabilizzate nella fattura del fornitore di servizi di telecomunicazione o attraverso un collegamento prepagato possono essere fatturate al consumatore soltanto se quest’ultimo ha espressamente accettato l’offerta del suo fornitore di servizi di telecomunicazione.
 
-[^11abis-1]: Introdotto dal n. II dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^11abis-1]: Introdotto dalla cifra II dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 11b
 
@@ -293,11 +293,11 @@ Per le prestazioni ai sensi dell’articolo 10 capoverso 1 lettera q che richied
 
 <sup>3</sup> In seguito all’accettazione dell’offerta ai sensi del capoverso 2, il consumatore deve essere informato gratuitamente, ad ogni unità d’informazione, sulla procedura per disattivare il servizio. Può essergli offerta la possibilità di rinunciare gratuitamente a questa informazione.[^11b-5]
 
-[^11b-1]: Introdotto dal n. I dell’O del 21 gen. 2004, in vigore dal 1° giu. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)).
-[^11b-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^11b-1]: Introdotto dalla cifra I dell’O del 21 gen. 2004, in vigore dal 1° giu. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)).
+[^11b-2]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^11b-3]: Introdotta dall’art. 107 dell’O del 9 mar. 2007 sui servizi di telecomunicazioni, in vigore dal 1° apr. 2007 ([RU 2007 945](https://fedlex.data.admin.ch/eli/oc/2007/166)).
-[^11b-4]: Introdotto dall’art. 107 dell’O del 9 mar. 2007 sui servizi di telecomunicazioni ([RU 2007 945](https://fedlex.data.admin.ch/eli/oc/2007/166)). Nuovo testo giusta il n. II dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^11b-5]: Introdotto dal n. II dell’O del 4 nov. 2009 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^11b-4]: Introdotto dall’art. 107 dell’O del 9 mar. 2007 sui servizi di telecomunicazioni ([RU 2007 945](https://fedlex.data.admin.ch/eli/oc/2007/166)). Nuovo testo giusta la cifra II dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^11b-5]: Introdotto dalla cifra II dell’O del 4 nov. 2009 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 
 #### Art. 11c
 
@@ -317,9 +317,9 @@ Oltre al prezzo effettivamente da pagare[^11c-3], devono essere indicati almeno 
 
 <sup>4</sup> I supplementi di prezzo opzionali devono essere comunicati in modo chiaro, trasparente e inequivocabile all’inizio di qualsiasi procedura di prenotazione; la loro accettazione da parte del consumatore deve essere confermata espressamente (opt-in).
 
-[^11c-1]: Introdotto dal n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^11c-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
-[^11c-3]: Nuova espr. giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^11c-1]: Introdotto dalla cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^11c-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^11c-3]: Nuova espr. giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 12
 
@@ -343,9 +343,9 @@ Oltre al prezzo effettivamente da pagare[^11c-3], devono essere indicati almeno 
 
 <sup>2</sup> I produttori, gli importatori e i grossisti possono comunicare prezzi indicativi.[^13-3]
 
-[^13-1]: Nuovo testo giusta il n. II dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^13-2]: Introdotto dal n. I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Abrogato dal n. II dell’O del 4 nov. 2009, con effetto dal 1° lug. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^13-3]: Nuovo testo giusta il n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^13-1]: Nuovo testo giusta la cifra II dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^13-2]: Introdotto dalla cifra I dell’O del 28 apr. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Abrogato dalla cifra II dell’O del 4 nov. 2009, con effetto dal 1° lug. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 #### Art. 13a
 
@@ -359,9 +359,9 @@ Oltre al prezzo effettivamente da pagare[^11c-3], devono essere indicati almeno 
 
 <sup>4</sup> *...*[^13a-3]
 
-[^13a-1]: Introdotto dal n. II dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^13a-2]: Nuovo testo giusta il n. II dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^13a-3]: Abrogato dal n. II dell’O del 5 nov. 2014, con effetto dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^13a-1]: Introdotto dalla cifra II dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^13a-2]: Nuovo testo giusta la cifra II dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^13a-3]: Abrogato dalla cifra II dell’O del 5 nov. 2014, con effetto dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 14
 
@@ -382,8 +382,8 @@ I criteri essenziali devono essere indicati nel materiale pubblicitario. Possono
 
 <sup>4</sup> Sono riservate prescrizioni più severe applicantisi alla specificazione recata in altri atti legislativi.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
-[^14-2]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
+[^14-2]: Introdotto dalla cifra I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
 
 #### Art. 15
 
@@ -391,7 +391,7 @@ I criteri essenziali devono essere indicati nel materiale pubblicitario. Possono
 
 Le disposizioni concernenti l’indicazione fallace dei prezzi (art. 16 a 18) s’applicano parimente alla pubblicità.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
 ## Capitolo 5: Indicazione fallace di prezzi
 
@@ -403,20 +403,31 @@ Le disposizioni concernenti l’indicazione fallace dei prezzi (art. 16 a 18) s�
 
 Oltre al prezzo effettivamente da pagare il fornitore può indicare un prezzo comparativo se:
 
-- a. in precedenza ha effettivamente offerto la merce o la prestazione di servizio a questo prezzo (autocomparazione);
+- a.[^16-2]
+
+  ha effettivamente offerto la merce o la prestazione di servizio a questo prezzo comparativo (autocomparazione) nei seguenti intervalli di tempo:
+
+  - 1\. fino a immediatamente prima dell’indicazione del prezzo effettivamente da pagare, o
+  - 2\. per almeno 30 giorni consecutivi;
+
 - b. effettivamente offrirà la merce o la prestazione di servizio a questo prezzo con effetto immediato (prezzo di lancio); o
 - c. altri fornitori offrono effettivamente a questo prezzo una parte preponderante delle merci o delle prestazioni di servizi identiche nel settore del mercato che entra in considerazione (confronto con la concorrenza).
 
-<sup>2</sup> In caso di prezzo di lancio o di confronto con la concorrenza, dall’annuncio deve risultare di quale tipo di comparazione dei prezzi si tratta. Su domanda, il fornitore deve rendere verosimile l’adempimento delle condizioni giustificanti l’indicazione di prezzi comparativi secondo il capoverso 1.[^16-2]
+<sup>2</sup> In caso di prezzo di lancio o di confronto con la concorrenza, dall’annuncio deve risultare di quale tipo di comparazione dei prezzi si tratta. Su domanda, il fornitore deve rendere verosimile l’adempimento delle condizioni giustificanti l’indicazione di prezzi comparativi secondo il capoverso 1.[^16-3]
 
-<sup>3</sup> Il prezzo comparativo secondo il capoverso 1 lettere a e b può essere indicato durante la metà del periodo in cui è stato o sarà praticato, ma al massimo durante due mesi.
+<sup>3</sup> Il prezzo comparativo di cui al capoverso 1 lettera a numero 1 e lettera b può essere indicato solo per la metà del periodo in cui è stato o sarà praticato, ma al massimo per due mesi. Il prezzo comparativo di cui al capoverso 1 lettera a numero 2 può essere indicato senza limiti di tempo e utilizzato per tutte le riduzioni di prezzo successive e consecutive.[^16-4]
+
+<sup>3bis</sup> Se il fornitore ritira temporaneamente merci o prestazioni di servizi dalla propria offerta e poi le mette nuovamente in vendita, può continuare a indicare l’ultimo prezzo comparativo praticato prima di tale ritiro secondo il capoverso 1 lettera a numero 2.[^16-5]
 
 <sup>4</sup> I prezzi di merci rapidamente deperibili, se sono stati praticati durante mezza giornata, possono essere dati come prezzi comparativi durante il giorno seguente.
 
 <sup>5</sup> È lecito fornire prezzi di catalogo, prezzi indicativi e simili a titolo di prezzi comparativi soltanto se sono adempiute le condizioni di cui al capoverso 1 lettera c.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Correzione del 27 apr. 2021 ([RU 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 621](https://fedlex.data.admin.ch/eli/oc/2024/621)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Correzione del 27 apr. 2021 ([RU 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
+[^16-4]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 621](https://fedlex.data.admin.ch/eli/oc/2024/621)).
+[^16-5]: Introdotto dalla cifra I dell’O del 30 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 621](https://fedlex.data.admin.ch/eli/oc/2024/621)).
 
 #### Art. 17
 
@@ -428,8 +439,8 @@ Oltre al prezzo effettivamente da pagare il fornitore può indicare un prezzo co
 
 <sup>3</sup> Il capoverso 2 si applica per analogia alle prestazioni di servizio.[^17-2]
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^17-2]: Introdotto dal n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^17-2]: Introdotto dalla cifra I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
 #### Art. 18
 
@@ -439,14 +450,14 @@ Oltre al prezzo effettivamente da pagare il fornitore può indicare un prezzo co
 
 <sup>2</sup> I produttori, gli importatori e i grossisti possono indicare ai consumatori prezzi o prezzi indicativi o mettere a loro disposizione liste di prezzi, cataloghi di prezzi o simili. Occorre indicare chiaramente se si tratta di prezzi raccomandati non vincolanti. È fatta salva la legislazione federale sui cartelli e altre limitazioni della concorrenza.[^18-2]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 
 #### Art. 19
 
 [^19-1]
 
-[^19-1]: Abrogato dal n. I dell’O del 23 ago. 1995, con effetto dal 1° nov. 1995 ([RU 1995 4186](https://fedlex.data.admin.ch/eli/oc/1995/4186_4186_4186)).
+[^19-1]: Abrogato dalla cifra I dell’O del 23 ago. 1995, con effetto dal 1° nov. 1995 ([RU 1995 4186](https://fedlex.data.admin.ch/eli/oc/1995/4186_4186_4186)).
 
 ## Capitolo 6: Responsabilità
 
@@ -462,7 +473,7 @@ L’esercente di fondi di commercio di qualsiasi genere è responsabile dell’i
 
 Le infrazioni alla presente ordinanza sono perseguite conformemente alle disposizioni della legge federale del 19 dicembre 1986 contro la concorrenza sleale.
 
-[^21-1]: Nuovo testo giusta il n. II dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^21-1]: Nuovo testo giusta la cifra II dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -484,7 +495,7 @@ Le infrazioni alla presente ordinanza sono perseguite conformemente alle disposi
 
 <sup>3</sup> La SECO può condurre con i settori e le organizzazioni interessati negoziati concernenti l’indicazione dei prezzi.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^23-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
 #### Art. 24
@@ -501,12 +512,12 @@ Le infrazioni alla presente ordinanza sono perseguite conformemente alle disposi
 
 La presente ordinanza entra in vigore il 1° gennaio 1979.
 
-## Disposizione transitoria concernente la modifica del 21 gennaio 2004****
+## Disposizione transitoria concernente la modifica del 21 gennaio 2004
 
 [^u1-1]
 
 [^u1-1]: [RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)
 
-Fino all’entrata in vigore dell’articolo 4 capoverso 1[^u1-2], i contributi anticipati per lo smaltimento che non sono compresi nel prezzo al minuto devono essere indicati separatamente e in modo facilmente leggibile sia in negozio e in vetrina sia nella pubblicità.
+Fino all’entrata in vigore dell’articolo 4 capoverso 1[^u1-2], i contributi anticipati per lo smaltimento che non sono compresi nel prezzo al minuto devono essere indicati separatamente e in modo facilmente leggibile sia in negozio e in vetrina sia nella pubblic
 
 [^u1-2]: Il 1° giu. 2005.

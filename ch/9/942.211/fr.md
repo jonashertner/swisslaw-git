@@ -4,20 +4,20 @@ title: "Ordonnance du 11 décembre 1978 sur l'indication des prix (OIP)"
 short: OIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: fr
-version: 2022-07-01
+version: 2025-01-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20220701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’indication des prix
 
-(OIP)**[^t-1]**
+(OIP)[^t-1]
 
-du 11 décembre 1978 (Etat le 1<sup>er</sup> juillet 2022)
+du 11 décembre 1978 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1987, en vigueur depuis le 1<sup>er</sup> mars 1988 ([RO 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -209,13 +209,13 @@ Pour les prestations de services offertes au consommateur dans les domaines énu
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 [^10-4]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-5]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-6]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-6]: Introduite par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-7]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 [^10-8]: Introduite par le ch. I de l’O du 28 avr. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nouvelle teneur selon le ch. II de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^10-9]: Introduite par le ch. I de l’O du 28 avr. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nouvelle teneur selon le ch. II de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^10-10]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 [^10-11]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-12]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-12]: Introduite par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-13]: Introduite par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-14]: Introduite par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-15]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
@@ -402,20 +402,31 @@ Les dispositions concernant l’indication fallacieuse de prix (art. 16 à 18) s
 
 Le vendeur peut indiquer un prix comparatif en sus du prix à payer effectivement:
 
-- a. s’il a effectivement offert la marchandise ou la prestation de service à ce prix précédemment (autocomparaison);
+- a.[^16-2]
+
+  s’il a effectivement offert la marchandise ou la prestation de service à ce prix comparatif (autocomparaison):
+
+  - 1\. immédiatement avant d’indiquer le prix à payer effectivement, ou
+  - 2\. pendant au moins 30 jours consécutifs;
+
 - b. s’il va effectivement offrir la marchandise ou la prestation de service à ce prix avec effet immédiat (prix de lancement);
 - c. si d’autres vendeurs offrent effectivement à ce prix une part prépondérante des marchandises ou des prestations de services identiques dans le secteur du marché entrant en considération (comparaison avec la concurrence).
 
-<sup>2</sup> En cas de prix de lancement ou de comparaison avec la concurrence, il doit ressortir de l’annonce de quel genre de comparaison de prix il s’agit. Sur demande, le vendeur doit rendre vraisemblable que les conditions justifiant l’indication de prix comparatifs selon l’al. 1 sont remplies.[^16-2]
+<sup>2</sup> En cas de prix de lancement ou de comparaison avec la concurrence, il doit ressortir de l’annonce de quel genre de comparaison de prix il s’agit. Sur demande, le vendeur doit rendre vraisemblable que les conditions justifiant l’indication de prix comparatifs selon l’al. 1 sont remplies.[^16-3]
 
-<sup>3</sup> Le prix comparatif selon l’al. 1, let. a et b, peut être indiqué pendant la moitié de la période durant laquelle il a été ou sera pratiqué, mais au maximum pendant deux mois.
+<sup>3</sup> Le prix comparatif selon l’al. 1, let. a, ch. 1, et b, ne peut être indiqué que pendant la moitié de la période durant laquelle il a été ou sera pratiqué, mais au maximum pendant deux mois. Le prix comparatif selon l’al. 1, let. a, ch. 2, peut être indiqué sans restriction temporelle et utilisé pour toutes les réductions de prix suivantes consécutives.[^16-4]
+
+<sup>3bis</sup> Si le vendeur retire temporairement la marchandise ou la prestation de service de son offre et la propose à nouveau par la suite, il peut indiquer le dernier prix comparatif utilisé avant le retrait, dans le respect de l’al. 1, let. a, ch. 2.[^16-5]
 
 <sup>4</sup> S’ils ont été pratiqués pendant un demi-jour, les prix de marchandises très périssables peuvent être donnés comme prix comparatifs pendant le jour suivant.
 
 <sup>5</sup> Il n’est licite de donner des prix de catalogue, des prix indicatifs, etc. à titre de prix comparatifs que si les conditions mentionnées à l’al. 1, let. c, sont remplies.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^16-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Erratum le 27 avr. 2021, ne concerne que le texte italien ([RO 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 621](https://fedlex.data.admin.ch/eli/oc/2024/621)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Erratum le 27 avr. 2021, ne concerne que le texte italien ([RO 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 621](https://fedlex.data.admin.ch/eli/oc/2024/621)).
+[^16-5]: Introduit par le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 621](https://fedlex.data.admin.ch/eli/oc/2024/621)).
 
 #### Art. 17
 
@@ -500,7 +511,7 @@ Les infractions à la présente ordonnance sont poursuivies conformément aux di
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1979.
 
-## Dispositions transitoires de la modification du 21 janvier 2004****
+## Dispositions transitoires de la modification du 21 janvier 2004
 
 [^u1-1]
 

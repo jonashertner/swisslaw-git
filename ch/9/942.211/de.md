@@ -4,20 +4,20 @@ title: "Verordnung vom 11. Dezember 1978 über die Bekanntgabe von Preisen (Prei
 short: PBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: de
-version: 2022-07-01
+version: 2025-01-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20220701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bekanntgabe von Preisen
 
-(Preisbekanntgabeverordnung, PBV)**[^t-1]**
+(Preisbekanntgabeverordnung, PBV)[^t-1]
 
-vom 11. Dezember 1978 (Stand am 1. Juli 2022)
+vom 11. Dezember 1978 (Stand am 1. Januar 2025)
 
 [^t-1]: Abkürzung gemäss Ziff. I der V vom 14. Dez. 1987, in Kraft seit 1. März 1988 ([AS 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -402,20 +402,31 @@ Die Bestimmungen über die irreführende Preisbekanntgabe (Art. 16–18) gelten 
 
 Neben dem tatsächlich zu bezahlenden Preis darf der Anbieter einen Vergleichspreis bekanntgeben, wenn:
 
-- a. er die Ware oder die Dienstleistung unmittelbar vorher tatsächlich zu diesem Preis angeboten hat (Selbstvergleich);
+- a.[^16-2]
+
+  er die Ware oder die Dienstleistung zu folgenden Zeitspannen tatsächlich zum Vergleichspreis angeboten hat (Selbstvergleich):
+
+  - 1\. bis unmittelbar vor der Bekanntgabe des tatsächlich zu bezahlenden Preises, oder
+  - 2\. während mindestens 30 aufeinanderfolgender Tage;
+
 - b. er die Ware oder die Dienstleistung unmittelbar danach tatsächlich zu diesem Preis anbieten wird (Einführungspreis); oder
 - c. andere Anbieter im zu berücksichtigenden Marktgebiet die überwiegende Menge gleicher Waren oder Dienstleistungen tatsächlich zu diesem Preis anbieten (Konkurrenzvergleich).
 
-<sup>2</sup> Aus der Ankündigung muss beim Einführungspreis und Konkurrenzvergleich die Art des Preisvergleichs hervorgehen. Die Voraussetzungen für die Verwendung von Vergleichspreisen gemäss Absatz 1 sind vom Anbieter auf Verlangen glaubhaft zu machen.[^16-2]
+<sup>2</sup> Aus der Ankündigung muss beim Einführungspreis und Konkurrenzvergleich die Art des Preisvergleichs hervorgehen. Die Voraussetzungen für die Verwendung von Vergleichspreisen gemäss Absatz 1 sind vom Anbieter auf Verlangen glaubhaft zu machen.[^16-3]
 
-<sup>3</sup> Der Vergleichspreis nach Absatz 1 Buchstaben a und b darf während der Hälfte der Zeit bekanntgegeben werden, während der er gehandhabt wurde beziehungsweise gehandhabt werden wird, längstens jedoch während zwei Monaten.
+<sup>3</sup> Der Vergleichspreis nach Absatz 1 Buchstaben a Ziffer 1 und b darf nur halb so lange bekanntgegeben werden, wie er gehandhabt wurde beziehungsweise gehandhabt werden wird, höchstens jedoch zwei Monate lang. Der Vergleichspreis nach Absatz 1 Buchstaben a Ziffer 2 darf zeitlich unbegrenzt bekanntgegeben und für alle nachträglichen, aufeinanderfolgenden Preissenkungen verwendet werden.[^16-4]
+
+<sup>3bis</sup> Falls der Anbieter die Ware oder die Dienstleistung temporär aus seinem Angebot entfernt und danach wieder anbietet, darf er weiterhin den letzten, vor der Entfernung verwendeten Vergleichspreis nach Absatz 1 Buchstabe a Ziffer 2 bekanntgeben.[^16-5]
 
 <sup>4</sup> Preise für schnell verderbliche Waren dürfen, wenn sie während eines halben Tages gehandhabt wurden, noch während des folgenden Tages als Vergleichspreis bekanntgegeben werden.
 
 <sup>5</sup> Katalog-, Richtpreise und dergleichen sind nur dann als Vergleichspreise zulässig, wenn die Voraussetzungen nach Absatz 1 Buchstabe c erfüllt sind.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^16-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Die Berichtigung vom 27. April 2021 betrifft nur den italienischen Text ([AS 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 30. Okt. 2024, in Kraft seit 1. Jan. 2025 (AS **202****4** 621).
+[^16-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Die Berichtigung vom 27. April 2021 betrifft nur den italienischen Text ([AS 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
+[^16-4]: Fassung gemäss Ziff. I der V vom 30. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 621](https://fedlex.data.admin.ch/eli/oc/2024/621)).
+[^16-5]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 621](https://fedlex.data.admin.ch/eli/oc/2024/621)).
 
 #### Art. 17
 
@@ -501,7 +512,7 @@ Widerhandlungen gegen diese Verordnung werden nach den Bestimmungen des Bundesge
 
 Diese Verordnung tritt am 1. Januar 1979 in Kraft.
 
-## Schlussbestimmung zur Änderung vom 21. Januar 2004****
+## Schlussbestimmung zur Änderung vom 21. Januar 2004
 
 [^u1-1]
 
