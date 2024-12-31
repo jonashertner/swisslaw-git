@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 2009 über die Personenbeförderung (Personen
 short: PBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-680-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230901/de"
 
 (Personenbeförderungsgesetz, PBG)
 
-vom 20. März 2009[^t-1] (Stand am 1. September 2023)
+vom 20. März 2009[^t-1] (Stand am 1. Januar 2025)
 
 [^t-1]: Anhang 1 des BG vom 20. März 2009 über die Bahnreform 2 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679))
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 87, 92, 95 Absatz 1 und 122 der Bundesverfassung[^ingr
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325)
 [^ingress-3]: [BBl 2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)
 
@@ -109,7 +109,7 @@ Der Bundesrat kann Ausnahmen vom Personenbeförderungsregal gestatten.
 
 [^6-1]: Fassung gemäss Ziff. I 9 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 [^6-2]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^6-3]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^6-3]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 [^6-4]: Eingefügt durch Anhang 7 Ziff. II 6 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 7
@@ -153,12 +153,12 @@ Das Unternehmen muss nachweisen, dass:
 
   für das bestehende Angebot anderer Transportunternehmen keine volkswirtschaftlich nachteiligen Wettbewerbsverhältnisse entstehen, insbesondere:
 
-  - 1\. keine bestehenden und vom Bund konzessionierten Verkehrsangebote in ihrem Bestand existenziell gefährdet werden (Fernverkehr),
-  - 2\. bestehende und von der öffentlichen Hand durch Betriebs- oder Investitionsbeiträge mitfinanzierte Verkehrsangebote ergänzt werden (Regionalverkehr);
+  - 1\. keine bestehenden und vom Bund konzessionierten Angebote[^9-1] in ihrem Bestand existenziell gefährdet werden (Fernverkehr),
+  - 2\. bestehende und von der öffentlichen Hand durch Betriebs- oder Investitionsbeiträge mitfinanzierte Angebote ergänzt werden (Regionalverkehr);
 
 - c. das Unternehmen über alle Rechte verfügt, die für die Benutzung der Verkehrswege erforderlich sind;
 - d. das Unternehmen für die Einhaltung der gesetzlichen Bestimmungen Gewähr bietet;
-- e. es die arbeitsrechtlichen Vorschriften einhält und die Arbeitsbedingungen der Branche gewährleistet.[^9-1]
+- e. es die arbeitsrechtlichen Vorschriften einhält und die Arbeitsbedingungen der Branche gewährleistet.[^9-2]
 
 <sup>3</sup>
 
@@ -166,16 +166,17 @@ Das BAV entzieht die Konzession oder die Bewilligung nach Anhörung der betroffe
 
 - a. die ihm verliehenen Rechte nicht oder nur teilweise ausübt;
 - b. die Voraussetzungen für die Erteilung nicht mehr erfüllt; oder
-- c. die ihm nach dem Gesetz, der Konzession oder der Bewilligung auferlegten Pflichten wiederholt oder in schwerwiegender Weise verletzt.[^9-2]
+- c. die ihm nach dem Gesetz, der Konzession oder der Bewilligung auferlegten Pflichten wiederholt oder in schwerwiegender Weise verletzt.[^9-3]
 
-<sup>4</sup> Es kann bei bestellten Verkehrsangeboten die Konzession zudem entziehen, wenn das Unternehmen eine Zielvereinbarung (Art. 33) oder eine Vergabevereinbarung (Art. 32*k*) in mehreren Punkten oder in einem wesentlichen Punkt nicht erfüllt.[^9-3]
+<sup>4</sup> Es kann bei bestellten Angeboten die Konzession zudem entziehen, wenn das Unternehmen eine Zielvereinbarung nach Artikel 31*a*<sup>ter</sup> in mehreren Punkten oder in einem wesentlichen Punkt nicht erfüllt.[^9-4]
 
-<sup>5</sup> Es widerruft die Konzession oder die Bewilligung, wenn wesentliche öffentliche Interessen dies rechtfertigen. Das Unternehmen wird angemessen entschädigt.[^9-4]
+<sup>5</sup> Es widerruft die Konzession oder die Bewilligung, wenn wesentliche öffentliche Interessen dies rechtfertigen. Das Unternehmen wird angemessen entschädigt.[^9-5]
 
-[^9-1]: Fassung gemäss Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^9-1]: Ausdruck gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^9-2]: Fassung gemäss Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^9-3]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^9-4]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^9-3]: Fassung gemäss Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^9-4]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^9-5]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 10
 
@@ -193,8 +194,10 @@ Für Angebote ohne Erschliessungsfunktion wird die Konzession oder Bewilligung n
 - b. Der Ausgangspunkt für die geplanten Fahrten ist mit öffentlichen Verkehrsmitteln gut erreichbar.
 - c. Das neue Angebot gefährdet die wirtschaftliche Existenz bestehender bedürfnisgerechter Angebote nicht.
 - d. Die bestehende oder vorgesehene touristische Ausstattung im Bereich des geplanten Angebots lässt eine für einen kostendeckenden Betrieb ausreichende Nachfrage erwarten.
-- e. Die Nutzung des bestehenden Transportangebotes eines Gebietes ist gut und wird durch das neue Angebot nicht erheblich verschlechtert.
+- e. Die Nutzung des bestehenden Angebotes[^11-1] eines Gebietes ist gut und wird durch das neue Angebot nicht erheblich verschlechtert.
 - f. Die vorgesehene Finanzierung und der voraussichtliche wirtschaftliche Erfolg lassen erwarten, dass die für das Angebot erforderlichen Bauten, Anlagen und Fahrzeuge nach den Erfordernissen der Betriebssicherheit unterhalten und genügend abgeschrieben werden können.
+
+[^11-1]: Ausdruck gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 ## 3. Abschnitt: Grundpflichten der Unternehmen
 
@@ -256,9 +259,12 @@ Die Unternehmen können Tarife so gestalten, dass:
 
 <sup>6</sup> Die Unternehmen können mit Sonderabmachungen die Preise ermässigen oder andere Vergünstigungen gewähren.
 
+<sup>6bis</sup> Sie müssen für Kinder und Jugendliche, die während der obligatorischen Schulpflicht im Rahmen von Schul- oder Kultur- und Sportanlässen in begleiteten Gruppen reisen, einen ermässigten Tarif, namentlich für Tageskarten, aufstellen.[^15-2]
+
 <sup>7</sup> Sie unterbreiten dem BAV auf Verlangen die Berechnungsgrundlagen, insbesondere die Linienerfolgsrechnungen.
 
 [^15-1]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^15-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 15a
 
@@ -296,7 +302,23 @@ Zur Sicherstellung des direkten Verkehrs regeln die Unternehmen ihre gegenseitig
 
 <sup>3</sup> Die Übereinkommen über den direkten Verkehr und über die Haftung dürfen besondere Interessen einzelner Unternehmen nur so weit berücksichtigen, als die Gesamtinteressen des öffentlichen Verkehrs nicht beeinträchtigt werden. Diese Übereinkommen sind dem BAV zur Genehmigung vorzulegen.
 
-<sup>4</sup> Stellen die Unternehmen einen direkten Verkehr, der einem Bedürfnis entspricht, nicht zeitgerecht sicher, so erlässt das BAV die notwendigen Verfügungen.
+<sup>4</sup> …[^17-1]
+
+[^17-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
+#### Art. 17a
+
+**Gemeinsame Vertriebsinfrastruktur**[^17a-1]
+
+<sup>1</sup> Die Unternehmen mit einer Konzession nach Artikel 6 betreiben eine gemeinsame Infrastruktur für den Vertrieb ihrer Angebote (Vertriebsinfrastruktur).
+
+<sup>2</sup> Sie stellen die für den Vertrieb erforderlichen Sach- und Personendaten zeitgerecht zur Verfügung.
+
+<sup>3</sup> Sie können für die Nutzung der Vertriebsinfrastruktur durch Dritte ein angemessenes Entgelt verlangen.
+
+<sup>4</sup> Sie regeln die diskriminierungsfreien Bedingungen für die Nutzung der Vertriebsinfrastruktur durch Dritte.
+
+[^17a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 18
 
@@ -306,13 +328,22 @@ Zur Sicherstellung des direkten Verkehrs regeln die Unternehmen ihre gegenseitig
 
 Die Unternehmen sind verpflichtet:
 
-- a. die Leistungen soweit erforderlich mit anderen Unternehmen des öffentlichen Verkehrs zu koordinieren;
+- a.[^18-1] die Angebote und Leistungen, soweit erforderlich, mit anderen Unternehmen des öffentlichen Verkehrs zu koordinieren;
 - b. die Mindeststandards bezüglich Qualität, Sicherheit und Stellung der Beschäftigten einzuhalten;
-- c.[^18-1] ein Verfahren zur Bearbeitung von Beschwerden im Zusammenhang mit den in diesem Gesetz festgelegten Rechten der Reisenden einzurichten.
+- c.[^18-2] ein Verfahren zur Bearbeitung von Beschwerden im Zusammenhang mit den in diesem Gesetz festgelegten Rechten der Reisenden einzurichten.
 
 <sup>2</sup> Der Bundesrat legt die Mindeststandards fest.
 
-[^18-1]: Eingefügt durch Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Jan. 2021 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^18-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^18-2]: Eingefügt durch Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Jan. 2021 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+
+#### Art. 18a
+
+**Verfügungen des BAV**[^18a-1]
+
+Kommen Unternehmen ihren Grundpflichten nicht nach, so erlässt das BAV die notwendigen Verfügungen.
+
+[^18a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 ## 3*a*. Abschnitt: Nutzung der Anlagen und Fahrzeuge
 
@@ -320,9 +351,9 @@ Die Unternehmen sind verpflichtet:
 
 [^sec3a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
-#### Art. 18a
+#### Art. 18b
 
-**Benützungsvorschriften**
+**Benützungsvorschriften**[^18b-1]
 
 <sup>1</sup> Die Unternehmen können Vorschriften über die Benützung ihrer Anlagen und Fahrzeuge erlassen, soweit diese Vorschriften für den sicheren und reibungslosen Betrieb der Anlagen und Fahrzeuge erforderlich sind und sich die Verhaltenspflichten nicht aus dem Transportvertrag ergeben.
 
@@ -330,9 +361,11 @@ Die Unternehmen sind verpflichtet:
 
 <sup>3</sup> Sie veröffentlichen die Benützungsvorschriften.
 
-#### Art. 18b
+[^18b-1]: Ursprünglich: Art. 18*a*.
 
-**Nebennutzungen**
+#### Art. 18c
+
+**Nebennutzungen**[^18c-1]
 
 <sup>1</sup>
 
@@ -346,6 +379,8 @@ Die Unternehmen können Anlagen und Fahrzeuge neben dem Beförderungszweck Dritt
 <sup>3</sup> Das Entgelt für nicht kommerzielle Nebennutzungen des allgemeinen oder des gesteigerten Gemeingebrauchs darf den Aufwand nicht übersteigen.
 
 <sup>4</sup> Streitigkeiten zwischen kommerziellen Nutzerinnen oder Nutzern und den Unternehmen beurteilt das Zivilgericht.
+
+[^18c-1]: Ursprünglich: Art. 18*b*.
 
 ## 4. Abschnitt: Personentransportvertrag
 
@@ -563,7 +598,7 @@ Die absendende Person muss:
 
 <sup>3</sup> Ist ein Schaden entstanden, so wird vermutet, er sei durch den Transport verursacht worden. Legt das Unternehmen aber dar, dass bestimmte vom Bundesrat bezeichnete Umstände vorliegen, die auf eine andere Schadenursache hinweisen, so haftet das Unternehmen nur so weit, als die geschädigte Person beweist, dass der Schaden nicht durch diese Umstände verursacht wurde.
 
-## 6. Abschnitt: Bestelltes Verkehrsangebot: Allgemeine Bestimmungen
+## 6. Abschnitt: Bestelltes Angebot: Allgemeine Bestimmungen
 
 [^sec6-1]
 
@@ -571,27 +606,31 @@ Die absendende Person muss:
 
 #### Art. 28
 
-**Abgeltung der ungedeckten Kosten des bestellten Verkehrsangebots**
+**Abgeltung der ungedeckten Kosten des bestellten Angebots**
 
 <sup>1</sup> Bund und Kantone (Besteller) gelten den Unternehmen die laut Planrechnung ungedeckten Kosten des von ihnen gemeinsam bestellten Angebotes des regionalen Personenverkehrs ab.[^28-1]
 
 <sup>1bis</sup> …[^28-2]
 
-<sup>2</sup> Angebote des Ortsverkehrs sowie Angebote ohne Erschliessungsfunktion sind von Bundesleistungen ausgeschlossen.
+<sup>1ter</sup> Zu den ungedeckten Kosten gemäss Planrechnung zählen auch Kosten betreffend das historische Rollmaterial.[^28-3]
 
-<sup>2bis</sup> …[^28-3]
+<sup>2</sup> Der Bund beteiligt sich nicht an der Abgeltung der ungedeckten Kosten von Angeboten des Ortsverkehrs sowie von Angeboten ohne Erschliessungsfunktion.[^28-4]
 
-<sup>3</sup> Der Bund trägt allein die laut Planrechnung ungedeckten Kosten der von ihm bestellten Verkehrsangebote von nationaler Bedeutung. Er kann die Kosten von Leistungen im Zusammenhang mit dem Verkehrsangebot abgelten, wenn diese allen Unternehmen dienen oder offenstehen.[^28-4]
+<sup>2bis</sup> …[^28-5]
+
+<sup>3</sup> Der Bund trägt allein die laut Planrechnung ungedeckten Kosten der von ihm bestellten Angebote von nationaler Bedeutung. Er kann die Kosten von Leistungen im Zusammenhang mit dem Angebot abgelten, wenn diese allen Unternehmen dienen oder offenstehen.[^28-6]
 
 <sup>4</sup> Bund, Kantone und Gemeinden können weitere Angebote oder Angebotsverbesserungen oder Tariferleichterungen bestellen. Sie tragen die laut Planrechnung ungedeckten Kosten dieser Angebote.
 
-<sup>5</sup> …[^28-5]
+<sup>5</sup> …[^28-7]
 
 [^28-1]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^28-2]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
-[^28-3]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
-[^28-4]: Fassung des zweiten Satzes gemäss Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^28-5]: Aufgehoben durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, mit Wirkung seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^28-3]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^28-4]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^28-5]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^28-6]: Fassung des zweiten Satzes gemäss Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^28-7]: Aufgehoben durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, mit Wirkung seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 28a
 
@@ -615,11 +654,14 @@ Der Bund richtet Abgeltungen nur an Unternehmen aus:
 
 - a. deren Rechnungslegung den Vorschriften des 7. Abschnitts genügt;
 - b. deren Rechnung nach Sparten gegliedert ist und die ungedeckten Kosten jeder Sparte einzeln nachweist;
-- c. die mindestens den regionalen Personenverkehr sowie die Eisenbahninfrastruktur, soweit vorhanden, je als eigene Sparte führen;
+- c.[^29-1] die den von Bund und Kantonen gemeinsam bestellten regionalen Personenverkehr als eigene Sparte führen;
 - d. die eine von den Bestellern unabhängige Rechtspersönlichkeit haben; und
 - e. in deren Verwaltungsrat oder vergleichbarem Organ keine Person Einsitz hat, die direkt am Bestellvorgang beteiligt oder in einer am Bestellprozess beteiligten Verwaltungseinheit tätig ist.
 
-<sup>2</sup> Der Bund kann Erleichterungen gewähren für Unternehmen mit geringem Verkehr sowie für ausländische Unternehmen mit geringem Streckenanteil in der Schweiz.
+<sup>2</sup> Der Bundesrat kann für Unternehmen mit geringem Verkehr sowie für ausländische Unternehmen mit geringem Linienanteil in der Schweiz Abweichungen von diesen Voraussetzungen vorsehen.[^29-2]
+
+[^29-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^29-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 30
 
@@ -641,9 +683,9 @@ Der Bund richtet Abgeltungen nur an Unternehmen aus:
 
 **Verpflichtungskredit**[^30a-1]
 
-Die Bundesversammlung beschliesst für die Abgeltung der ungedeckten Kosten des bestellten Verkehrsangebots jeweils für vier Jahre einen Verpflichtungskredit.
+Die Bundesversammlung beschliesst für den Bundesanteil an der Abgeltung der ungedeckten Kosten des von Bund und Kantonen gemeinsam bestellten Angebots jeweils für vier Jahre einen Verpflichtungskredit.
 
-[^30a-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. März 2018 ([AS 2018 869](https://fedlex.data.admin.ch/eli/oc/2018/116); [BBl 2016 8817](https://fedlex.data.admin.ch/eli/fga/2016/2129)).
+[^30a-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 31
 
@@ -651,71 +693,111 @@ Die Bundesversammlung beschliesst für die Abgeltung der ungedeckten Kosten des 
 
 <sup>1</sup> Bei Investitionen im Verkehrsbereich eines Unternehmens kann der Bund der Gläubigerin eine Bürgschaft gewähren, wenn dies im Interesse der Besteller ist. Das BAV regelt die Form und die Bedingungen der Bürgschaft im Einzelnen.[^31-2]
 
-<sup>2</sup> Der Bund kann in besonderen Fällen, insbesondere um neuartige Lösungen zu fördern, an die Beschaffung von Fahrzeugen und an die Erstellung von Anlagen und Einrichtungen Beiträge leisten sowie unverzinsliche Darlehen gewähren.
+<sup>2</sup> Der Bund kann den Unternehmen bei Angeboten nach Artikel 28 Finanzhilfen zur Förderung von Innovationen gewähren.[^31-3]
 
 <sup>3</sup> Er kann zur Finanzierung von Ersatz- und Erneuerungsinvestitionen im Verkehrsbereich die rückzahlbaren Darlehen in bedingt rückzahlbare Darlehen umwandeln oder deren Rückzahlungen sistieren.
 
-<sup>4</sup> Die bedingt rückzahlbaren Darlehen des Bundes können unter Vorbehalt der notwendigen aktienrechtlichen Beschlüsse in Eigenkapital umgewandelt werden, insbesondere um die Beteiligung an notwendigen Bilanzsanierungen zu ermöglichen.[^31-3]
+<sup>4</sup> Die bedingt rückzahlbaren Darlehen des Bundes können unter Vorbehalt der notwendigen aktienrechtlichen Beschlüsse in Eigenkapital umgewandelt werden, insbesondere um die Beteiligung an notwendigen Bilanzsanierungen zu ermöglichen.[^31-4]
 
 [^31-1]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^31-2]: Fassung gemäss Ziff. I 8 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
-[^31-3]: Eingefügt durch Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^31-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^31-4]: Eingefügt durch Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 31a
 
-**Verkehrsangebot und Bestellverfahren**[^31a-1]
+**Festlegung des Angebots**[^31a-1]
 
-<sup>1</sup> Das Verkehrsangebot und die Abgeltung im regionalen Personenverkehr werden aufgrund von Planrechnungen der Unternehmen im Voraus von den Bestellern und dem Unternehmen in einer schriftlichen Angebotsvereinbarung festgelegt. Die Planrechnungen sind auf bestehende Zielvereinbarungen oder Vergabevereinbarungen abzustützen.
+<sup>1</sup>
 
-<sup>2</sup> Der Bundesrat regelt das Bestellverfahren sowie die Grundsätze für das Verkehrsangebot und die Abgeltung im Einvernehmen mit den Kantonen. Er kann ein vereinfachtes Bestellverfahren festlegen, wenn eine Vergabevereinbarung besteht. Er wahrt die unabhängige Führung der Unternehmen.
-
-<sup>3</sup>
-
-Bei der Festlegung des Verkehrsangebotes und der Abgeltung werden in erster Linie die Nachfrage und die bestehende Infrastruktur berücksichtigt.[^31a-2] Weiter werden insbesondere in Betracht gezogen:
+Bei der Festlegung des Angebots und der Abgeltung berücksichtigen die Besteller in erster Linie die Nachfrage. Zudem berücksichtigen sie:
 
 - a. eine angemessene Grunderschliessung;
 - b. Anliegen der Regionalpolitik, insbesondere die Bedürfnisse der wirtschaftlichen Entwicklung der Rand- und Berggebiete;
-- c. Anliegen der Raumordnungspolitik;
+- c. Anliegen der Raumplanungspolitik;
 - d. Anliegen des Umweltschutzes;
-- e. Anliegen der Behinderten.
+- e. Anliegen der Personen mit Behinderung.
 
-<sup>4</sup>
+<sup>2</sup> Der Bundesrat führt diese Grundsätze nach Anhörung der Kantone näher aus.
 
-Die Angebotsvereinbarung regelt insbesondere:
+[^31a-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
-- a. das Angebotskonzept und den Fahrplan;
-- b. den Verkauf samt den Verkaufsstellen und deren Bedienung;
-- c. das Angebot im Transport von Reisegepäck;
-- d. die Tarife.
+#### Art. 31a<sup>bis</sup>
 
-<sup>5</sup> Mit dem Abschluss der Angebotsvereinbarung entsteht für die beteiligten Unternehmen gegenüber jedem Besteller ein selbstständiger Rechtsanspruch auf die Abgeltung.
+**Kennzahlen**[^31abis-1]
 
-<sup>6</sup> Können sich Besteller und Unternehmen bei der Aushandlung oder Anwendung einer Angebotsvereinbarung nicht einigen, so legt das BAV das Verkehrsangebot und die Abgeltung unter Berücksichtigung der Grundsätze von Absatz 3 fest.
+<sup>1</sup> Das BAV erhebt bei den Unternehmen, deren ungedeckte Kosten des von Bund und Kantonen gemeinsam bestellten Angebots nach Artikel 28 abgegolten werden, die finanziellen und qualitativen Kennzahlen.
 
-[^31a-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^31a-2]: Fassung gemäss Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+<sup>2</sup> Gestützt auf diese Kennzahlen führt es einen systematischen Vergleich der bestellten Angebote durch. Unterschiedliche Produktionsbedingungen, insbesondere die Topographie, saisonale Nachfrageschwankungen sowie das Abwarten auf verspätete Anschlüsse zur Gewährung einer durchgehenden Transportkette, sind angemessen zu berücksichtigen.
+
+<sup>3</sup> Es veröffentlicht die Kennzahlen und den systematischen Vergleich in geeigneter Form.
+
+[^31abis-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
+#### Art. 31a<sup>ter</sup>
+
+**Zielvereinbarung**[^31ater-1]
+
+<sup>1</sup> Bund und Kantone schliessen für die gemeinsam bestellten Angebote eine Zielvereinbarung mit dem betreffenden Unternehmen ab.
+
+<sup>2</sup>
+
+Sie können darin insbesondere Folgendes vereinbaren:
+
+- a. Leistungsziele zu Qualität, Quantität, Erlösen und Kosten des Angebots;
+- b. den Zeitraum, in dem das Unternehmen die Ziele erreichen muss;
+- c. Massnahmen für den Fall, dass die Ziele nicht erreicht werden;
+- d. ein Bonus-Malus-System bezüglich der Qualität und der finanziellen Kennzahlen;
+- e. die geplante mittelfristige Entwicklung des Angebots.
+
+<sup>3</sup> Der Bundesrat regelt die Ausnahmefälle, in denen keine Zielvereinbarung abgeschlossen werden muss.
+
+[^31ater-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
+#### Art. 31a<sup>quater</sup>
+
+**Angebotsvereinbarung**[^31aquater-1]
+
+<sup>1</sup> Von Bund und Kantonen gemeinsam bestellte Angebote und deren Abgeltung werden aufgrund von Planrechnungen der Unternehmen im Voraus von den Bestellern und dem Unternehmen in einer schriftlichen Angebotsvereinbarung festgelegt. Die Planrechnungen stützen sich gegebenenfalls auf die Zielvereinbarungen.
+
+<sup>2</sup> Die Angebotsvereinbarung begründet für das Unternehmen gegenüber jedem Besteller einen selbstständigen Rechtsanspruch auf die Abgeltung.
+
+<sup>3</sup> Der Bundesrat umschreibt den Inhalt der Angebotsvereinbarung näher.
+
+[^31aquater-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 31b
 
-**Periodizität des Bestellverfahrens**[^31b-1]
+**Bestellverfahren**[^31b-1]
 
-Das Bestellverfahren wird alle zwei Jahre durchgeführt. Das BAV stimmt das Bestellverfahren mit der Fahrplanperiode ab.
+<sup>1</sup> Das Bestellverfahren wird alle zwei Jahre durchgeführt. Das BAV stimmt das Bestellverfahren mit der Leistungs- und Angebotsplanung ab.
 
-[^31b-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+<sup>2</sup> Der Bundesrat legt die Einzelheiten des Bestellverfahrens sowie die Grundsätze für die Abgeltung nach Anhörung der Kantone fest.
+
+[^31b-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
+#### Art. 31b<sup>bis</sup>
+
+**Streitbeilegung**[^31bbis-1]
+
+Können sich die Besteller und das Unternehmen bei der Aushandlung oder Anwendung einer Ziel- oder einer Angebotsvereinbarung über das gemeinsam bestellte Angebot nicht einigen, so legt das BAV das Angebot und die Abgeltung in einer Verfügung fest.
+
+[^31bbis-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 31c
 
 **Ausschreibungsplanung**[^31c-1]
 
-<sup>1</sup> Die Besteller legen ihre Planung der Ausschreibungen im regionalen Personenverkehr auf der Strasse und auf der Schiene, insbesondere die Gründe und den Zeitpunkt der Ausschreibung eines Verkehrsangebotes, in einer Ausschreibungsplanung fest. Dabei berücksichtigen sie in ihren Überlegungen die lokalen und regionalen Erfordernisse und Bedürfnisse. Sie nehmen darin auch Linien auf, die sie gemeinsam ausschreiben, jedoch nicht gemeinsam bestellen.
+<sup>1</sup> Die Besteller erstellen für ihre Ausschreibungen im regionalen Personenverkehr auf der Strasse und auf der Schiene eine Ausschreibungsplanung. Sie legen darin in erster Linie die Gründe und den Zeitpunkt der Ausschreibung eines Angebotes fest. Dabei berücksichtigen sie insbesondere Verkehrskonzepte, die einen optimierten öffentlichen Verkehr vorsehen, sowie die lokalen und regionalen Erfordernisse und Bedürfnisse. Sie nehmen in die Ausschreibungsplanung auch Linien auf, die sie gemeinsam ausschreiben, jedoch nicht gemeinsam bestellen.[^31c-2]
 
 <sup>2</sup> Die Ausschreibungsplanung erfolgt pro Kanton. Die Federführung liegt bei den Kantonen. Das BAV sorgt für eine einheitliche Ausschreibungsplanung und für die Koordination zwischen den Kantonen.
 
 <sup>3</sup> Die Ausschreibungsplanung ist für die Behörden verbindlich. Sie kann nicht mit Beschwerde angefochten werden.
 
 [^31c-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^31c-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
-## 6*a*. Abschnitt: Bestelltes Verkehrsangebot: Ausschreibungsverfahren
+## 6*a*. Abschnitt: Bestelltes Angebot: Ausschreibungsverfahren
 
 [^sec6a-1]
 
@@ -734,58 +816,65 @@ Sie schreiben diese Angebote nicht aus, wenn:
 - a. eine Zielvereinbarung mit einem Unternehmen besteht und dieses die Ziele erreicht;
 - b. der Abgeltungsbetrag eine bestimmte Höhe nicht erreicht;
 - c. keine Ausschreibungsplanung vorliegt;
-- d. das neue Verkehrsangebot Bestandteil eines bestehenden regionalen Netzes wird;
-- e. für ein Verkehrsangebot aus technischen, betrieblichen oder regionalen Gründen nicht mehr als eine Offerte zu erwarten ist;
+- d. das neue Angebot Bestandteil eines bestehenden regionalen Netzes wird;
+- e. für ein Angebot aus technischen, betrieblichen oder regionalen Gründen nicht mehr als eine Offerte zu erwarten ist;
 - f. es sich um die Änderung einer bestehenden Konzession handelt; oder
 - g. eine Konzession unverändert auf ein neues Unternehmen übertragen wird.
 
 <sup>3</sup> Die Besteller können im gegenseitigen Einvernehmen Angebote des gemeinsam bestellten regionalen Personenverkehrs auf der Schiene ausschreiben.
 
-<sup>4</sup> Bestehende Verkehrsangebote können nur ausgeschrieben werden, wenn sie vorgängig in die Ausschreibungsplanung aufgenommen wurden.
+<sup>4</sup> Bestehende Angebote können nur ausgeschrieben werden, wenn sie vorgängig in die Ausschreibungsplanung aufgenommen wurden.
 
-<sup>5</sup> Die Besteller können auch dann gemeinsam Verkehrsangebote ausschreiben, wenn diese nur von den Kantonen ohne Bundesbeteiligung bestellt werden.
+<sup>5</sup> Die Besteller können auch dann gemeinsam Angebote ausschreiben, wenn diese nur von den Kantonen ohne Bundesbeteiligung bestellt werden.
 
 [^32-1]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 32a
 
-**Ausschreibung von Verkehrsangeboten mit Linienabschnitten in Nachbarstaaten**[^32a-1]
+**Ausschreibung von Angeboten mit Linienabschnitten in Nachbarstaaten**[^32a-1]
 
-<sup>1</sup> Ausschreibungen von Verkehrsangeboten mit im Nachbarstaat liegenden Linienabschnitten werden mit den Ausschreibungsverfahren dieses Staates koordiniert.
+<sup>1</sup> Ausschreibungen von Angeboten mit im Nachbarstaat liegenden Linienabschnitten werden mit den Ausschreibungsverfahren dieses Staates koordiniert.
 
 <sup>2</sup> Der Bundesrat kann die Ausschreibung solcher Angebote in Vereinbarungen mit den Nachbarstaaten regeln.
 
-<sup>3</sup> Liegt keine Vereinbarung vor, so kann das BAV auf eine Ausschreibung verzichten und das Angebot bei dem Unternehmen bestellen, das im Ausschreibungsverfahren für den im Nachbarstaat liegenden Linienabschnitt gesiegt hat.
+<sup>3</sup> Liegt keine Vereinbarung vor, so kann das Angebot bei dem Unternehmen bestellt werden, das im Ausschreibungsverfahren für den im Nachbarstaat liegenden Linienabschnitt gesiegt hat.[^32a-2]
 
 [^32a-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32a-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32b
 
-**Koordination mit der Konzession**[^32b-1]
+**Koordination von Verfahren**[^32b-1]
 
-<sup>1</sup> Das Ausschreibungsverfahren wird mit dem Verfahren zur Erteilung oder Erneuerung der Konzession koordiniert. Der Vergabeentscheid aus dem Ausschreibungsverfahren sowie die Erteilung oder Erneuerung der Konzession sind Teil derselben Verfügung.
+<sup>1</sup> Das Ausschreibungsverfahren für Angebote, die Bund und Kantone gemeinsam bestellen, wird mit dem Verfahren zur Erteilung oder Erneuerung der Konzession koordiniert.
 
-<sup>2</sup> Die Konzessionsdauer entspricht der in den Ausschreibungsunterlagen für das Verkehrsangebot vorgesehenen Geltungsdauer.
+<sup>2</sup> Gemeinsam mit der Ausschreibung nach Absatz 1 können auch nicht durch den Bund bestellte Angebote ausgeschrieben werden. Das gemeinsame Ausschreibungsverfahren richtet sich nach den Bestimmungen dieses Abschnitts.
 
-[^32b-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+<sup>3</sup> Die in den Ausschreibungsunterlagen für das Angebot vorgesehene Geltungsdauer ist massgebend für die Festlegung der Konzessionsdauer.
+
+[^32b-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32c
 
-**Besondere Bestimmungen für Ausschreibungen von Verkehrsangeboten auf der Strasse**[^32c-1]
+**Besondere Bestimmungen für Ausschreibungen von Angeboten im Strassenverkehr[^32c-2]**[^32c-1]
 
-<sup>1</sup> Ein Verkehrsangebot des gemeinsam bestellten regionalen Personenverkehrs auf der Strasse wird ausgeschrieben, wenn eine Konzession neu erteilt werden soll.
+<sup>1</sup> Ein Angebot des gemeinsam bestellten regionalen Personenverkehrs auf der Strasse wird ausgeschrieben, wenn eine Konzession neu erteilt werden soll.
 
 <sup>2</sup>
 
-Während der Dauer der Konzession schreiben die Besteller das bestellte Verkehrsangebot aus, wenn das Unternehmen:
+Während der Dauer der Konzession schreiben die Besteller das bestellte Angebot aus, wenn das Unternehmen:[^32c-3]
 
 - a. die ihm verliehenen Rechte nicht oder nur teilweise ausübt oder seine aus Gesetz oder Konzession auferlegten Pflichten wiederholt oder schwerwiegend verletzt;
-- b. eine Zielvereinbarung in mehreren oder in einem wesentlichen Punkt nicht erfüllt und die Vereinbarung als Sanktion eine Ausschreibung vorsieht;
-- c. die in einer Vergabevereinbarung verlangte Verbesserung von Preis, Qualität oder Quantität des Verkehrsangebots nicht erfüllt und die Vereinbarung als Sanktion eine Ausschreibung vorsieht.
+- b.[^32c-4] die Zielvereinbarung in mehreren Punkten oder in einem wesentlichen Punkt nicht erfüllt, insbesondere eine verlangte Verbesserung von Preis, Qualität oder Quantität des Angebots nicht erzielt, und die Vereinbarung für diesen Fall eine Ausschreibung vorsieht;
+- c. …[^32c-5]
 
-<sup>3</sup> Bei der Erneuerung der Konzession schreiben die Besteller das bestellte Verkehrsangebot aus, wenn ihre Ausschreibungsplanung dies vorsieht.
+<sup>3</sup> Bei der Erneuerung der Konzession schreiben die Besteller das bestellte Angebot aus, wenn ihre Ausschreibungsplanung dies vorsieht.
 
 [^32c-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32c-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^32c-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^32c-4]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^32c-5]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32d
 
@@ -793,11 +882,11 @@ Während der Dauer der Konzession schreiben die Besteller das bestellte Verkehrs
 
 <sup>1</sup>
 
-Im Ausschreibungsverfahren beachten die Besteller folgende Grundsätze:
+Im Ausschreibungsverfahren beachten die Besteller der gemeinsam bestellten Angebote[^32d-2] folgende Grundsätze:
 
 - a. Sie achten in allen Phasen des Verfahrens auf die Gleichbehandlung der Unternehmen.
-- b. Sie vergeben ein Verkehrsangebot nur an ein Unternehmen, das die Einhaltung der Arbeitsschutzbestimmungen und der Arbeitsbedingungen für die Arbeitnehmer und Arbeitnehmerinnen gewährleistet. Sie legen die massgebenden Bestimmungen in den Ausschreibungsunterlagen fest und berücksichtigen bestehende Vertragswerke.
-- c. Sie vergeben ein Verkehrsangebot nur an ein Unternehmen, das die Lohngleichheit für Mann und Frau gewährleistet.
+- b. Sie vergeben ein Angebot nur an ein Unternehmen, das die Einhaltung der Arbeitsschutzbestimmungen und der Arbeitsbedingungen für die Arbeitnehmer und Arbeitnehmerinnen gewährleistet. Sie legen die massgebenden Bestimmungen in den Ausschreibungsunterlagen fest und berücksichtigen bestehende Vertragswerke.
+- c. Sie vergeben ein Angebot nur an ein Unternehmen, das die Lohngleichheit für Mann und Frau gewährleistet.
 - d. Sie wahren den vertraulichen Charakter von Angaben der Unternehmen.
 
 <sup>2</sup>
@@ -808,12 +897,13 @@ Die Unternehmen müssen folgende Grundsätze beachten:
 - b. Das Unternehmen verpflichtet sich zu einer fristgerechten Betriebsaufnahme. Verzögert sich diese aufgrund einer Beschwerde, so ist es von dieser Verpflichtung befreit.
 
 [^32d-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32d-2]: Ausdruck gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 32e
 
 **Eignung**[^32e-1]
 
-<sup>1</sup> Die Besteller können die Unternehmen auffordern, den Nachweis ihrer finanziellen, wirtschaftlichen, technischen und betrieblichen Leistungsfähigkeit zu erbringen. Sie stellen dazu Eignungskriterien auf.
+<sup>1</sup> Die Besteller der gemeinsam bestellten Angebote können die Unternehmen auffordern, den Nachweis ihrer finanziellen, wirtschaftlichen, technischen und betrieblichen Leistungsfähigkeit zu erbringen. Sie stellen dazu Eignungskriterien auf.
 
 <sup>2</sup> Sie geben die Anforderungen an den Nachweis und die Eignungskriterien in den Ausschreibungsunterlagen bekannt.
 
@@ -823,7 +913,7 @@ Die Unternehmen müssen folgende Grundsätze beachten:
 
 **Ausschluss vom Ausschreibungsverfahren**[^32f-1]
 
-Die Besteller können ein Unternehmen vom Ausschreibungsverfahren ausschliessen, insbesondere wenn es:
+Die Besteller der gemeinsam bestellten Angebote können ein Unternehmen vom Ausschreibungsverfahren ausschliessen, insbesondere wenn es:
 
 - a. die Eignungskriterien nicht erfüllt;
 - b. den Bestellern falsche Auskünfte erteilt hat;
@@ -838,19 +928,21 @@ Die Besteller können ein Unternehmen vom Ausschreibungsverfahren ausschliessen,
 
 **Vergabeentscheid**[^32g-1]
 
-<sup>1</sup> Die Besteller vergeben das ausgeschriebene Verkehrsangebot dem Unternehmen mit dem wirtschaftlich günstigsten Angebot.
+<sup>1</sup> Die Besteller der gemeinsam bestellten Angebote vergeben das ausgeschriebene Angebot dem Unternehmen mit der vorteilhaftesten Offerte.[^32g-2]
 
-<sup>2</sup> Sie berücksichtigen bei der Ermittlung des wirtschaftlich günstigsten Angebots insbesondere die Qualität, das Angebotskonzept, die Erlöse, die Kosten und die Umweltverträglichkeit.
+<sup>2</sup> Sie berücksichtigen bei der Ermittlung der vorteilhaftesten Offerte insbesondere die Qualität, das Angebotskonzept, die Kosten, den Innovationsgehalt, die Nachhaltigkeit und die Plausibilität des Angebots.[^32g-3]
 
-<sup>3</sup> Das Verkehrsangebot wird für die in den Ausschreibungsunterlagen vorgesehene Geltungsdauer vergeben.
+<sup>3</sup> Das Angebot wird für die in den Ausschreibungsunterlagen vorgesehene Geltungsdauer vergeben.
 
 [^32g-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32g-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^32g-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32h
 
 **Widerruf des Vergabeentscheids**[^32h-1]
 
-Die Besteller können den Vergabeentscheid aus denselben Gründen widerrufen, aus denen sie ein Unternehmen vom Verfahren ausschliessen können.
+Die Besteller der gemeinsam bestellten Angebote können den Vergabeentscheid aus denselben Gründen widerrufen, aus denen sie ein Unternehmen vom Verfahren ausschliessen können.
 
 [^32h-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
@@ -884,58 +976,38 @@ Das BAV verfügt:
 
 #### Art. 32k
 
-**Vergabevereinbarung**[^32k-1]
+**Vergabeentscheid**[^32k-1]
 
-<sup>1</sup> Sobald der Vergabeentscheid rechtskräftig ist, schliessen die Besteller mit dem Unternehmen eine Vergabevereinbarung ab.
+Sobald der Vergabeentscheid rechtskräftig ist, schliessen die Besteller mit dem Unternehmen eine Zielvereinbarung ab.
 
-<sup>2</sup> Die Vergabevereinbarung legt aufgrund der Offerte im Wesentlichen die Geltungsdauer, das Verkehrsangebot, die Qualität, die Kosten, die Erlöse, die Anpassungsmechanismen und das Controlling fest.
-
-[^32k-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32k-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32l
 
 **Wechsel des beauftragten Unternehmens**[^32l-1]
 
-<sup>1</sup> Wird ein Angebot des regionalen Personenverkehrs aufgrund einer Ausschreibung bei einem neuen Unternehmen bestellt, so muss das bisher beauftragte Unternehmen dem neu beauftragten Unternehmen die eigens für das betreffende Verkehrsangebot angeschafften Betriebsmittel zum Restbuchwert übergeben, wenn die Besteller dies verlangen und die Betriebsmittel für die ausgeschriebenen Linien des regionalen Personenverkehrs von zentraler Bedeutung sind.
+<sup>1</sup> Wird ein gemeinsam bestelltes Angebot aufgrund einer Ausschreibung bei einem neuen Unternehmen bestellt, so muss das bisher beauftragte Unternehmen dem neu beauftragten Unternehmen die eigens für das betreffende Angebot angeschafften Anlagen und Fahrzeuge (Betriebsmittel) zum Restbuchwert übergeben, wenn die Besteller oder der bisherige Betreiber dies verlangen und diese Betriebsmittel für die ausgeschriebenen Linien von zentraler Bedeutung sind.[^32l-2]
 
 <sup>2</sup> Das neu beauftragte Unternehmen muss diese Betriebsmittel zum Restbuchwert übernehmen, wenn das bisher beauftragte Unternehmen oder die Besteller es verlangen.
 
-<sup>3</sup> Das neu beauftragte Unternehmen muss die für das betreffende Verkehrsangebot notwendigen zusätzlichen Arbeitsstellen den Arbeitnehmerinnen und Arbeitnehmern des bisher beauftragten Unternehmens zu branchenüblichen Bedingungen anbieten.
+<sup>3</sup> Das neu beauftragte Unternehmen muss die für das betreffende Angebot notwendigen zusätzlichen Arbeitsstellen den Arbeitnehmerinnen und Arbeitnehmern des bisher beauftragten Unternehmens zu branchenüblichen Bedingungen anbieten.
 
 [^32l-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32l-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
-## 6*b*. Abschnitt: Bestelltes Verkehrsangebot: Besondere Bestimmungen für nicht ausgeschriebene Angebote
-
-[^sec6b-1]
-
-[^sec6b-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+## 6*b*. Abschnitt: …
 
 #### Art. 33
 
-**Zielvereinbarung**[^33-1]
+[^33-1]
 
-<sup>1</sup> Die Besteller können für bestellte Verkehrsangebote, die nicht ausgeschrieben werden, mit dem betroffenen Unternehmen eine Zielvereinbarung abschliessen.
-
-<sup>2</sup> Die Zielvereinbarung kann namentlich Leistungsziele zu Qualität, Quantität, Erlösen und Kosten des Verkehrsangebots enthalten, die das Unternehmen in einem bestimmten Zeitraum erreichen muss. Sie kann Massnahmen für den Fall vorsehen, dass die Ziele nicht erreicht werden.
-
-<sup>3</sup> Sie kann ein Bonus-Malus-System über die Qualität und über finanzielle Kennzahlen enthalten.
-
-<sup>4</sup> Sie wird für eine Dauer von mindestens zwei Fahrplanperioden abgeschlossen.
-
-[^33-1]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^33-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 33a
 
-**Massnahmen zur Zielerreichung, Kürzung der Abgeltung**[^33a-1]
+[^33a-1]
 
-Das BAV kann nach Anhörung der Kantone Massnahmen zur Zielerreichung anordnen oder finanzielle Leistungen zurückfordern, wenn das Unternehmen:
-
-- a. die bestellten Leistungen nicht wie vereinbart erbringt;
-- b. Zielvorgaben nicht erreicht;
-- c. festgelegte Fristen nicht einhält; oder
-- d. sich unwirtschaftlich verhält.
-
-[^33a-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^33a-1]: Eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Aufgehoben durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 34
 
@@ -943,68 +1015,89 @@ Das BAV kann nach Anhörung der Kantone Massnahmen zur Zielerreichung anordnen o
 
 [^34-1]: Aufgehoben durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, mit Wirkung seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
-## 7. Abschnitt: Rechnungswesen
+## 7. Abschnitt: Rechnungslegung
+
+[^sec7-1]
+
+[^sec7-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 35
 
 **Grundsätze**
 
-<sup>1</sup> Das UVEK regelt durch Verordnung nach Konsultation des Eidgenössischen Finanzdepartements und der Kantone die Rechnungslegung der Unternehmen mit einer Konzession nach Artikel 6 dieses Gesetzes oder Artikel 5 des Eisenbahngesetzes vom 20. Dezember 1957[^35-1].
+<sup>1</sup> Die Unternehmen mit einer Konzession nach Artikel 6 dieses Gesetzes oder Artikel 5 des Eisenbahngesetzes vom 20. Dezember 1957[^35-1] (EBG) müssen den Gemeinwesen, von denen sie Finanzhilfen oder Abgeltungen erhalten, den Geschäftsbericht einschliesslich weiterer durch dieses Gesetz oder seine Ausführungsbestimmungen festgelegter Unterlagen vorlegen. Auf Verlangen müssen sie diesen Gemeinwesen zusätzliche Unterlagen vorlegen und Auskünfte erteilen.
 
-<sup>2</sup> Es kann insbesondere weitere Buchungs-, Bilanzierungs- und Abschreibungsvorschriften sowie Bestimmungen über die Rückstellungen, die Baurechnung, die Spartengliederung, die Linienerfolgsrechnung und die Auskunftspflicht gegenüber Bund und Kantonen erlassen.
+<sup>2</sup>
 
-<sup>3</sup> Im Übrigen gelten die Bestimmungen des Obligationenrechts[^35-2] über die kaufmännische Buchführung.
+Unternehmen, die Finanzhilfen oder Abgeltungen nach diesem Gesetz oder dem EBG erhalten, müssen:
 
-[^35-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^35-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+- a. für die Rechnungslegung ein als anerkannter Standard bezeichnetes Regelwerk anwenden;
+- b. gegenüber den Gemeinwesen, von denen sie die Finanzhilfen oder Abgeltungen erhalten, die Erklärung abgeben, dass sie die subventionsrechtlichen Grundsätze einhalten.
+
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten der Rechnungslegung. Er erlässt insbesondere Buchungs-, Bilanzierungs- und Abschreibungsvorschriften sowie Bestimmungen über die Baurechnung, die Spartengliederung, die Betriebskosten- und Leistungsrechnung, die Planrechnung und die Auskunftspflicht gegenüber den Gemeinwesen. Er kann Ausnahmen von der Pflicht nach Absatz 2 Buchstabe a vorsehen.
+
+<sup>4</sup> Das BAV bezeichnet das für die Rechnungslegung anzuwendende Regelwerk.
+
+[^35-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+
+#### Art. 35a
+
+**Anrechenbarkeit von Kosten und Erlösen**
+
+<sup>1</sup> Bei der Ermittlung der ungedeckten Kosten darf das Unternehmen weder Eigenkapitalzinsen noch Gewinn- und Risikozuschläge einrechnen. Dies gilt auch für die Kosten von Leistungen, die es von beherrschten Konzerngesellschaften bezieht, es sei denn, der Preis der Leistung sei in einem Verfahren nach dem Bundesgesetz vom 21. Juni 2019[^35a-1] über das öffentliche Beschaffungswesen bestimmt worden. Bei gestützt auf Artikel 32 dieses Gesetzes ausgeschriebenen Angeboten basiert die Abgeltungshöhe auf der Offerte des Unternehmens, dem der Zuschlag erteilt worden ist.
+
+<sup>2</sup> Erbringt eine Unternehmung oder eine von ihr beherrschte Konzerngesellschaft einzelne Leistungen überwiegend zu Marktpreisen ausserhalb der konzessionierten Personenbeförderung an Dritte, dürfen diese Leistungen, in Abweichung zu Absatz 1, von ihr sowie von Nahestehenden oder von beherrschten Konzerngesellschaften innerhalb der konzessionierten Personenbeförderung zu Marktpreisen verrechnet werden.
+
+<sup>3</sup> Der Bundesrat erlässt weitere Bestimmungen über die Anrechenbarkeit von Kosten und Erlösen.
+
+<sup>4</sup> Das Unternehmen kann die Kosten des Fahrzeugunterhalts mit Einverständnis der Besteller über die Lebensdauer der Fahrzeuge geglättet verrechnen. In diesem Fall muss es die Differenz zwischen verrechneten und effektiven Kosten bilanzieren.
+
+<sup>5</sup> Nach bisherigem Recht abgeschlossene Verträge zwischen Bestellern und Unternehmen über die Abgeltung von Kosten behalten ihre Gültigkeit.
+
+[^35a-1]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 36
 
-**Ausweis des Spartenerfolgs**
+**Reserven**
 
-<sup>1</sup> Soweit ein Unternehmen die Gesamtaufwendungen einer Verkehrssparte mit den Erträgen und den von Bund und Kantonen erbrachten finanziellen Leistungen nicht decken kann, verantwortet es den Fehlbetrag selbst. Es trägt diesen auf die neue Rechnung vor.
+<sup>1</sup> Das Unternehmen muss die Hälfte des Gewinns aus den von Bund und Kantonen gemeinsam bestellten Angeboten, die nicht nach Artikel 32 ausgeschrieben wurden, und aus den bestellten Verbesserungen dieser Angebote einer Spezialreserve zuweisen. Es darf die Spezialreserve nur zur Deckung von Verlusten der von Bund und Kantonen gemeinsam bestellten Angebote verwenden.
 
-<sup>2</sup> Übersteigen die Erträge und die von Bund und Kantonen erbrachten finanziellen Leistungen die Gesamtaufwendungen einer abgeltungsberechtigten Verkehrssparte, so weist das Unternehmen mindestens zwei Drittel dieses Überschusses der Spezialreserve zur Deckung künftiger Fehlbeträge abgeltungsberechtigter Verkehrssparten zu. Erreicht die Spezialreserve der Verkehrssparten 25 Prozent des Jahresumsatzes der abgeltungsberechtigten Verkehrssparten oder beträgt sie 12 Millionen Franken, so steht der Gewinn dem Unternehmen zur freien Verfügung.
+<sup>2</sup> Das Unternehmen kann Gewinne aus den vom Bund nicht mitbestellten Angeboten der konzessionierten Personenbeförderung einer Reserve zuweisen. Es darf diese Reserve nur zur Deckung von Verlusten der vom Bund nicht mitbestellten Angebote der konzessionierten Personenbeförderung verwenden. Die bestellenden Kantone können verlangen, dass maximal die Hälfte der entsprechenden Gewinne dieser Reserve zugewiesen werden muss.
 
-<sup>2bis</sup> …[^36-1]
+<sup>3</sup> Endet das von Bund und Kantonen gemeinsam bestellte Angebot, so überträgt das Unternehmen den Bestand der Spezialreserve gegebenenfalls auf die Reserve nach Absatz 2. Beendet das Unternehmen die konzessionierte Personenbeförderung, so überträgt es alle Reserven nach den Absätzen 1 und 2 auf die gesetzliche Kapitalreserve nach Artikel 671 des Obligationenrechts (OR)[^36-1].
 
-<sup>3</sup> Beendet das Unternehmen seine Tätigkeit in abgeltungsberechtigten Verkehrssparten, so muss es die Spezialreserve auflösen.
+<sup>4</sup> Der gesetzlichen Kapitalreserve dürfen nur Gewinne zugewiesen werden, die nach der Zuweisung an die Reserven nach den Absätzen 1 und 2 verbleiben.
 
-<sup>4</sup> Übersteigen die Erträge einer nicht abgeltungsberechtigten Sparte des konzessionierten Verkehrs die Gesamtaufwendungen einer Sparte, so ist der entstandene Ertragsüberschuss frei verfügbar. Das Unternehmen kann diesen oder einen Teil davon zur Deckung künftiger Fehlbeträge dieser Sparten zurückstellen. Beendet es seine Tätigkeit in konzessionierten Sparten, so muss die Rückstellung aufgelöst werden.
-
-[^36-1]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^36-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
-**Subventionsrechtliche Prüfung durch die Aufsichtsbehörde**
+**Prüfung durch die Aufsichtsbehörde**
 
-<sup>1</sup> Die Rechnungen und Bilanzen sind auf Ende des Geschäftsjahres abzuschliessen. Unternehmen, die von der öffentlichen Hand Beiträge oder Darlehen erhalten, reichen die Jahresrechnung mit den dazugehörigen Nachweisen dem BAV ein.[^37-1] Das BAV kann von den Unternehmen zusätzliche Unterlagen verlangen.
+<sup>1</sup> Das BAV prüft als Aufsichtsbehörde periodisch oder nach Bedarf, ob die Rechnungen von Unternehmen, die vom Bund Finanzhilfen oder Abgeltungen erhalten haben, mit den gesetzlichen Vorschriften und den darauf basierenden Vereinbarungen übereinstimmen. Die Prüfbefugnis des BAV erstreckt sich auch auf Konzerngesellschaften, von denen die Unternehmen Leistungen beziehen.
 
-<sup>2</sup> Das BAV prüft periodisch oder nach Bedarf, ob die Rechnungen mit den gesetzlichen Vorschriften und den darauf basierenden Vereinbarungen über Beiträge und Darlehen der öffentlichen Hand übereinstimmen.[^37-2] Es umschreibt den Prüfumfang näher. Die subventionsrechtliche Prüfung durch die Aufsichtsbehörde ergänzt die Prüfung der Revisionsstelle des Unternehmens.
+<sup>2</sup> Das BAV kann vertiefte Abklärungen und Prüfungen bei den Unternehmen vornehmen. Es kann in die gesamte Geschäftsführung der Unternehmen Einsicht nehmen. Soweit Leistungen von Konzerngesellschaften bezogen werden, erstreckt sich die Befugnis des BAV zu vertieften Abklärungen und Prüfungen auch auf diese Gesellschaften.
 
-<sup>3</sup> Das Unternehmen publiziert den Befund der subventionsrechtlichen Prüfung in seinem Geschäftsbericht.
-
-<sup>4</sup> Über die subventionsrechtliche Prüfung hinaus kann das BAV vertiefte Prüfungen bei den Transportunternehmen vornehmen. Es kann bei Bedarf in die gesamte Geschäftsführung des Unternehmens Einsicht nehmen.[^37-3]
-
-[^37-1]: Fassung des zweiten Satzes durch Ziff. I 9 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^37-2]: Fassung gemäss Ziff. I 9 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^37-3]: Berichtigung des letzten Satzes der RedK vom 31. Aug. 2016, veröffentlicht am 13. Sept. 2016 ([AS 2016 3169](https://fedlex.data.admin.ch/eli/oc/2016/531)).
+<sup>3</sup> Das BAV umschreibt den Prüfumfang näher. Es kann die aus den Prüfungen erlangten Informationen und Erkenntnisse den zuständigen kantonalen Stellen mitteilen.
 
 #### Art. 38
 
-**Streitigkeiten**
+**Revisionsstelle**
 
-<sup>1</sup> Entsprechen die Rechnungen und Ausweise nicht den Artikeln 35–37, so trifft das BAV nach Anhörung des Unternehmens die nötigen Verfügungen.
+<sup>1</sup> Das Unternehmen bestellt unabhängig von seiner Rechtsform eine Revisionsstelle nach den Artikeln 727–731*a* OR[^38-1]. Es darf nicht auf die Revision verzichten.
 
-<sup>2</sup> Wird die Genehmigung wegen Anständen über die Verwendung des Reingewinnes verweigert, so darf über den strittigen Betrag erst verfügt werden, wenn die Sache rechtskräftig entschieden ist.
+<sup>2</sup> Unternehmen, die von der öffentlichen Hand jährlich mehr als 10 Millionen Franken Finanzhilfen oder Abgeltungen nach diesem Gesetz oder dem EBG[^38-2] erhalten, sind zur Durchführung einer ordentlichen Revision nach Artikel 727 OR verpflichtet.
+
+<sup>3</sup> Unternehmen, die von der öffentlichen Hand jährlich mehr als 1 Million Franken Finanzhilfen oder Abgeltungen nach diesem Gesetz oder dem EBG erhalten, müssen jährlich eine Spezialprüfung in Auftrag geben. Das BAV regelt die Einzelheiten dieser Prüfung.
+
+[^38-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^38-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 39
 
-**Revisionsstelle**
+**Streitigkeiten**
 
-Das Unternehmen bestellt unabhängig von seiner Rechtsform eine Revisionsstelle nach den Bestimmungen des Obligationenrechts[^39-1] über die Revisionsstelle der Aktiengesellschaften.
-
-[^39-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+Ergeben sich aus den Artikeln 35–38 Streitigkeiten, so erlässt das BAV nach Anhörung des Unternehmens die nötigen Verfügungen.
 
 ## 8. Abschnitt: Besondere Leistungen für öffentliche Verwaltungen
 
@@ -1123,12 +1216,13 @@ Das Unternehmen hat für alle Forderungen aus dem Transportvertrag die Rechte ei
 
 #### Art. 51
 
-<sup>1</sup> Für die ausservertragliche Haftung der konzessionierten Unternehmen gelten die Artikel 40*b*–40*f* des Eisenbahngesetzes vom 20. Dezember 1957[^51-1].
+<sup>1</sup> Für die ausservertragliche Haftung der konzessionierten Unternehmen gelten die Artikel 40*b*–40*f* EBG[^51-1].[^51-2]
 
-<sup>2</sup> Für Motorfahrzeuge gelten die Haftpflichtbestimmungen des Strassenverkehrsgesetzes vom 19. Dezember 1958[^51-2].
+<sup>2</sup> Für Motorfahrzeuge gelten die Haftpflichtbestimmungen des Strassenverkehrsgesetzes vom 19. Dezember 1958[^51-3].
 
-[^51-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^51-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^51-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^51-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^51-3]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## 11. Abschnitt: Aufsicht
 
@@ -1147,7 +1241,7 @@ Die Personenbeförderung im öffentlichen Verkehr untersteht der Aufsicht des BA
 <sup>2</sup> Das Öffentlichkeitsgesetz vom 17. Dezember 2004[^52a-2] gilt nicht für Berichte betreffend Audits, Betriebskontrollen und Inspektionen des BAV sowie für andere amtliche Dokumente, soweit sie Personendaten enthalten, welche die technische oder betriebliche Sicherheit betreffen.
 
 [^52a-1]: Eingefügt durch Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^52a-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^52a-2]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 53
 
@@ -1171,16 +1265,40 @@ Es kann nach einer Verhältnismässigkeitsprüfung der Öffentlichkeit besonders
 [^53-1]: Zweiter Satz eingefügt durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^53-2]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
+## 11*a*. Abschnitt: Datenbearbeitung durch die Unternehmen
+
+[^sec11a-1]
+
+[^sec11a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
 #### Art. 54
 
-**Datenbearbeitung durch Konzessionsinhaberinnen**[^54-1]
+**Bearbeitung von Personendaten**[^54-1]
 
-<sup>1</sup> Die Unternehmen unterstehen für ihre konzessionierten und bewilligten Tätigkeiten den Artikeln 33–42 des Datenschutzgesetzes vom 25. September 2020[^54-2] (DSG). Handeln sie dabei privatrechtlich, so unterstehen sie stattdessen den Artikeln 30–32 DSG.
+<sup>1</sup> Die Unternehmen können Personendaten bearbeiten, soweit dies für die Personenbeförderung und den Betrieb oder für die Sicherheit der Reisenden, des Betriebes oder der Infrastruktur erforderlich ist.
 
-<sup>2</sup> Sie können besonders schützenswerte Personendaten bearbeiten, soweit dies für die Personenbeförderung und den Betrieb oder für die Sicherheit der Reisenden, des Betriebes oder der Infrastruktur erforderlich ist. Dies gilt auch für Dritte, die Aufgaben eines Unternehmens mit einer Konzession oder Bewilligung nach den Artikeln 6–8 wahrnehmen. Das Unternehmen bleibt für die Einhaltung der Datenschutzvorschriften verantwortlich.
+<sup>2</sup>
 
-[^54-1]: Fassung gemäss Anhang 1 Ziff. II 62 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^54-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+Sie können:
+
+- a. ein Profiling mit Ein- und Ausstiegsstationen der Reisenden durchführen, um den Fahrpreis zu ermitteln und in Rechnung zu stellen;
+- b. besonders schützenswerte Personendaten über die Gesundheit von Reisenden mit Behinderungen bearbeiten, um Benachteiligungen beim Zugang zu Einrichtungen oder Fahrzeugen des Unternehmens zu beseitigen oder zu verringern.
+
+<sup>3</sup> Sie dürfen die Personenbeförderung nicht von der Einwilligung der Reisenden in die Bearbeitung von deren Personendaten abhängig machen.
+
+<sup>4</sup> Sie müssen zu vergleichbaren Bedingungen Personentransportverträge anbieten, die keine Bearbeitung von Personendaten erfordern.
+
+<sup>5</sup>
+
+Sie unterstehen den Artikeln 30–32 des Datenschutzgesetzes vom 25. September 2020[^54-2] für Mobilitätsangebote, die:
+
+- a. auch Beförderungsleistungen umfassen, die nicht diesem Gesetz unterstehen;
+- b. wesentliche andere Dienstleistungen wie touristische oder kulturelle Angebote umfassen.
+
+<sup>6</sup> Die Absätze 1−5 gelten auch für Dritte, die Fahrausweise nach diesem Gesetz verkaufen.
+
+[^54-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Reform des regionalen Personenverkehrs und der Rechnungslegung), in Kraft seit 1. Jan. 2025 ([AS 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [BBl 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^54-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 55
 
@@ -1265,7 +1383,7 @@ Nach dem Strafgesetzbuch[^59-1] strafbare Handlungen werden von Amtes wegen verf
 - a. Angestellte von Unternehmen mit einer Konzession oder Bewilligung nach den Artikeln 6–8;
 - b. Personen, die anstelle von Angestellten nach Buchstabe a mit einer Aufgabe betraut sind.
 
-[^59-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^59-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 60
 
@@ -1280,7 +1398,7 @@ Nach dem Strafgesetzbuch[^59-1] strafbare Handlungen werden von Amtes wegen verf
 [^60-1]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Dez. 2012 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^60-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 [^60-3]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^60-4]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^60-4]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 61
 

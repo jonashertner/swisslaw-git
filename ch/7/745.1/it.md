@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 2009 sul trasporto di viaggiatori (Legge sul
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-680-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230901/it"
 
 (Legge sul trasporto di viaggiatori, LTV)
 
-del 20 marzo 2009[^t-1] (Stato 1° settembre 2023)
+del 20 marzo 2009[^t-1] (Stato 1° gennaio 2025)
 
 [^t-1]: All. 1 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
 
@@ -27,7 +27,7 @@ visti gli articoli 87, 92, 95 capoverso 1 e 122 della Costituzione federale[^ing
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325)
 [^ingress-3]: [FF 2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)
 
@@ -41,7 +41,7 @@ decreta:
 
 <sup>2</sup> La privativa sul trasporto di viaggiatori comprende il trasporto regolare e professionale di viaggiatori per ferrovia, su strada, sulle acque, come pure mediante impianti di trasporto a fune, ascensori e altri mezzi di trasporto a guida vincolata.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 2
 
@@ -69,7 +69,7 @@ Inoltre s’intendono per:
 
 <sup>3</sup> Il trasporto di viaggiatori comprende il trasporto di bagagli.
 
-[^2-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^2-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 3
 
@@ -109,10 +109,10 @@ Il Consiglio federale può autorizzare deroghe alla privativa.
 
 <sup>5</sup> La concessione per il trasporto di viaggiatori secondo la presente legge non è considerata una commessa pubblica ai sensi dell’articolo 9 della legge federale del 21 giugno 2019[^6-3] sugli appalti pubblici.[^6-4]
 
-[^6-1]: Nuovo testo giusta il n. I 9 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^6-2]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^6-3]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
-[^6-4]: Introdotto dall’all. 7 n. II 6 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^6-1]: Nuovo testo giusta la cifra I n. 9 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^6-2]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^6-3]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
+[^6-4]: Introdotto dall’all. 7 cifra II n. 6 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 7
 
@@ -120,11 +120,13 @@ Il Consiglio federale può autorizzare deroghe alla privativa.
 
 <sup>1</sup> Le sciovie e i piccoli impianti di trasporto a fune senza funzione di collegamento necessitano di un’autorizzazione del Cantone.
 
-<sup>2</sup> Il Consiglio federale può prevedere che i Cantoni possano accordare autorizzazioni per altre offerte di trasporto scarsamente rilevanti.
+<sup>2</sup> Il Consiglio federale può prevedere che i Cantoni possano accordare autorizzazioni per altre offerte di trasporto[^7-1] scarsamente rilevanti.
 
 <sup>3</sup> Il Consiglio federale può prevedere agevolazioni per tali offerte di trasporto.
 
 <sup>4</sup> L’autorizzazione è accordata per dieci anni al massimo. Può essere trasferita, modificata e rinnovata.
+
+[^7-1]: Nuova espressione giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 8
 
@@ -140,14 +142,14 @@ Il Consiglio federale può autorizzare deroghe alla privativa.
 
 <sup>5</sup> L’UFT è competente per la modifica e il rinnovo dell’autorizzazione.
 
-[^8-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^8-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^8-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^8-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 9
 
 **Condizioni per il rilascio, il ritiro e la revoca di concessioni e autorizzazioni**
 
-<sup>1</sup> L’impresa che chiede una concessione o un’autorizzazione deve disporre delle autorizzazioni necessarie all’utilizzazione delle vie di comunicazione e delle stazioni. Per l’esercizio di una linea filoviaria essa deve in particolare disporre dell’autorizzazione prevista dal diritto cantonale per l’uso della via pubblica ai fini della posa degli impianti elettrici.
+<sup>1</sup> L’impresa che chiede una concessione o un’autorizzazione deve disporre delle autorizzazioni necessarie all’utilizzazione delle vie di comunicazione e delle stazioni. Per l’esercizio di una linea filoviaria essa deve in particolare disporre dell’autorizzazione prevista dal diritto cantonale per l’uso della via pubblica ai fini della posa degli impianti elettrici.[^9-1]
 
 <sup>2</sup>
 
@@ -163,7 +165,7 @@ L’impresa deve dimostrare che:
 
 - c. possiede tutti i diritti necessari per l’utilizzazione delle vie di comunicazione;
 - d. garantisce il rispetto delle disposizioni legali;
-- e. rispetta le norme del diritto del lavoro e garantisce condizioni di lavoro equivalenti a quelle usuali nel settore.[^9-1]
+- e. rispetta le norme del diritto del lavoro e garantisce condizioni di lavoro equivalenti a quelle usuali nel settore.[^9-2]
 
 <sup>3</sup>
 
@@ -171,16 +173,17 @@ Sentiti i Cantoni interessati, l’UFT ritira la concessione o l’autorizzazion
 
 - a. non esercita o esercita solo parzialmente i diritti che le sono conferiti;
 - b. non soddisfa più le condizioni del rilascio; o
-- c. viola ripetutamente o gravemente gli obblighi che le sono imposti dalla legge, dalla concessione o dall’autorizzazione.[^9-2]
+- c. viola ripetutamente o gravemente gli obblighi che le sono imposti dalla legge, dalla concessione o dall’autorizzazione.[^9-3]
 
-<sup>4</sup> Nel caso di offerte di trasporto oggetto di ordinazione, l’UFT può inoltre ritirare la concessione se l’impresa non adempie, in più punti o in un punto essenziale, una convenzione sugli obiettivi (art. 33) o una convenzione in materia di aggiudicazione (art. 32*k*).[^9-3]
+<sup>4</sup> Nel caso di offerte oggetto di ordinazione, l’UFT può inoltre ritirare la concessione se l’impresa non adempie, in più punti o in un punto essenziale, una convenzione sugli obiettivi di cui all’articolo 31ater.[^9-4]
 
-<sup>5</sup> L’UFT revoca la concessione o l’autorizzazione se interessi pubblici importanti lo giustificano. L’impresa è indennizzata adeguatamente.[^9-4]
+<sup>5</sup> L’UFT revoca la concessione o l’autorizzazione se interessi pubblici importanti lo giustificano. L’impresa è indennizzata adeguatamente.[^9-5]
 
-[^9-1]: Nuovo testo giusta il n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^9-2]: Nuovo testo giusta il n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^9-3]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^9-4]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^9-1]: La mod. giusta la cifra I della LF del 16 dic. 2022 sul trasporto dei viaggiatori, in vigore dal 1° gen. 2025, concerne soltanto il testo in francese ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^9-2]: Nuovo testo giusta la cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^9-3]: Nuovo testo giusta la cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^9-4]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^9-5]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 10
 
@@ -198,8 +201,10 @@ In caso di offerte senza una funzione di collegamento, la concessione o l’auto
 - b. il punto di partenza del trasporto previsto è facilmente raggiungibile con i mezzi di trasporto pubblici;
 - c. la nuova offerta non minaccia la sopravvivenza economica di offerte già esistenti e adeguate ai bisogni;
 - d. l’attrezzatura turistica già esistente o prevista nell’ambito dell’offerta lascia presumere una domanda sufficiente a coprire i costi d’esercizio;
-- e. l’offerta già esistente di trasporti della regione è ben utilizzata e la nuova offerta non peggiora notevolmente la situazione;
+- e. l’offerta già esistente[^11-1] della regione è ben utilizzata e la nuova offerta non peggiora notevolmente la situazione;
 - f. il finanziamento previsto e il risultato economico prevedibile lasciano presumere che gli edifici, gli impianti e i veicoli occorrenti potranno essere oggetto di una manutenzione conforme alle esigenze di sicurezza e di ammortamenti sufficienti.
+
+[^11-1]: Nuova espressione giusta la cifra I della LF del 16 dic. 2022 sul trasporto dei viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Sezione 3: Obblighi fondamentali delle imprese
 
@@ -229,8 +234,8 @@ Le imprese eseguono ogni trasporto, purché:
 
 <sup>3</sup> Il Consiglio federale disciplina la procedura di allestimento e di pubblicazione degli orari tenendo conto delle prescrizioni e dei termini internazionali pertinenti. Nella procedura, prevede una consultazione dei Cantoni e delle imprese di trasporto ferroviario.[^13-1] [^13-2]
 
-[^13-1]: Nuovo testo del per. giusta il n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^13-2]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^13-1]: Nuovo testo del per. giusta la cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^13-2]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 14
 
@@ -261,9 +266,12 @@ Le imprese possono fissare le tariffe in modo da permettere di:
 
 <sup>6</sup> Le imprese possono concedere, mediante accordi speciali, riduzioni di prezzo o altre agevolazioni.
 
+<sup>6bis</sup> Le imprese fissano prezzi ridotti, segnatamente per le carte giornaliere, per bambini e giovani soggetti all’obbligo scolastico che viaggiano in gruppi accompagnati per partecipare ad attività organizzate in ambito scolastico, culturale o sportivo.[^15-2]
+
 <sup>7</sup> Su richiesta, le imprese presentano all’UFT le basi di calcolo, segnatamente i conti economici delle singole linee.
 
-[^15-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^15-1]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^15-2]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 15a
 
@@ -273,7 +281,7 @@ Le imprese possono fissare le tariffe in modo da permettere di:
 
 <sup>2</sup> Informano i viaggiatori sui diritti che spettano loro secondo la presente legge.
 
-[^15a-1]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^15a-1]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 16
 
@@ -301,9 +309,24 @@ Allo scopo di garantire il trasporto diretto, le imprese regolano i loro rapport
 
 <sup>3</sup> Le convenzioni sul trasporto diretto e sulla responsabilità possono tener conto degli interessi particolari di singole imprese soltanto per quanto non pregiudichino gli interessi generali del trasporto pubblico. Tali convenzioni devono essere sottoposte per approvazione all’UFT.
 
-<sup>4</sup> Se le imprese non provvedono per tempo ad allestire un trasporto diretto conforme ai bisogni, l’UFT emana le disposizioni che s’impongono.
+<sup>4</sup> …[^17-2]
 
-[^17-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^17-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^17-2]: Abrogato dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), con effetto dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
+#### Art. 17a
+
+**Piattaforma comune di distribuzione**[^17a-1]
+
+<sup>1</sup> Le imprese titolari di una concessione secondo l’articolo 6 gestiscono una piattaforma comune per la distribuzione delle loro offerte (piattaforma di distribuzione).
+
+<sup>2</sup> Mettono a disposizione per tempo i dati tecnici e personali necessari per la distribuzione.
+
+<sup>3</sup> Possono chiedere un indennizzo adeguato per l’utilizzazione della piattaforma di distribuzione da parte di terzi.
+
+<sup>4</sup> Disciplinano le condizioni non discriminatorie per l’utilizzazione della piattaforma di distribuzione da parte di terzi.
+
+[^17a-1]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 18
 
@@ -313,23 +336,32 @@ Allo scopo di garantire il trasporto diretto, le imprese regolano i loro rapport
 
 Le imprese devono:
 
-- a. se necessario, coordinare le loro prestazioni con altre imprese di trasporto pubblico;
+- a. [^18-1] se necessario, coordinare le loro offerte e prestazioni con altre imprese di trasporto pubblico;
 - b. attenersi agli standard minimi relativi alla qualità, alla sicurezza e allo statuto del personale;
-- c.[^18-1] istituire una procedura per il trattamento dei reclami relativi ai diritti dei viaggiatori stabiliti nella presente legge.
+- c.[^18-2] istituire una procedura per il trattamento dei reclami relativi ai diritti dei viaggiatori stabiliti nella presente legge.
 
 <sup>2</sup> Il Consiglio federale stabilisce gli standard minimi.
 
-[^18-1]: Introdotta dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° ge. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^18-1]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^18-2]: Introdotta dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° ge. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+
+#### Art. 18a
+
+**Decisioni dell’UFT**[^18a-1]
+
+Se le imprese non adempiono i loro obblighi fondamentali, l’UFT pronuncia le decisioni necessarie.
+
+[^18a-1]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 ## Sezione 3*a*: Uso degli impianti e dei veicoli
 
 [^sec3a-1]
 
-[^sec3a-1]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^sec3a-1]: Introdotta dalla cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
-#### Art. 18a
+#### Art. 18b
 
-**Prescrizioni sull’uso**
+**Prescrizioni sull’uso**[^18b-1]
 
 <sup>1</sup> Le imprese possono emanare prescrizioni sull’uso dei loro impianti e veicoli, nella misura in cui tali prescrizioni siano necessarie per un esercizio sicuro e senza intoppi degli impianti e dei veicoli e gli obblighi relativi al comportamento non risultino dal contratto di trasporto di viaggiatori.
 
@@ -337,9 +369,11 @@ Le imprese devono:
 
 <sup>3</sup> Pubblicano le prescrizioni sull’uso.
 
-#### Art. 18b
+[^18b-1]: Orginario art. 18*a*.
 
-**Utilizzazioni accessorie**
+#### Art. 18c
+
+**Utilizzazioni accessorie**[^18c-1]
 
 <sup>1</sup>
 
@@ -354,6 +388,8 @@ Oltre che per il trasporto di viaggiatori, le imprese possono mettere gli impian
 
 <sup>4</sup> Le controversie tra gli utilizzatori commerciali e le imprese sottostanno alla giurisdizione civile.
 
+[^18c-1]: Originario art. 18*b*.
+
 ## Sezione 4: Contratto di trasporto di viaggiatori
 
 #### Art. 19
@@ -366,7 +402,7 @@ Oltre che per il trasporto di viaggiatori, le imprese possono mettere gli impian
 
 <sup>3</sup> Nel traffico internazionale viaggiatori[^19-1] ai sensi dell’articolo 8 l’impresa consegna a ogni viaggiatore un titolo di trasporto individuale o collettivo. L’UFT stabilisce gli standard minimi.
 
-[^19-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 20
 
@@ -396,8 +432,8 @@ Il supplemento può essere ridotto o soppresso se il viaggiatore:
 
 <sup>7</sup> È fatto salvo il perseguimento penale.
 
-[^20-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^20-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^20-1]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^20-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 20a
 
@@ -441,7 +477,7 @@ Il Consiglio federale disciplina in particolare:
 - c. le esigenze in materia di sicurezza dei dati;
 - d. i termini per la cancellazione e la distruzione dei dati.
 
-[^20a-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^20a-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 21
 
@@ -449,7 +485,7 @@ Il Consiglio federale disciplina in particolare:
 
 Se a causa del ritardo o della soppressione di una corsa nel traffico concessionario perde la corsa prevista, il viaggiatore ha diritto a proseguire il viaggio con la successiva corsa adatta, senza spese supplementari.
 
-[^21-1]: Nuovo testo giusta il n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^21-1]: Nuovo testo giusta la cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 21a
 
@@ -461,7 +497,7 @@ Se rende verosimile che a causa del ritardo o della soppressione di una corsa ne
 - b. a ritornare immediatamente alla stazione di partenza e a ottenere il rimborso integrale del prezzo del trasporto;
 - c. a non proseguire il viaggio e a ottenere il rimborso proporzionale del prezzo del trasporto.
 
-[^21a-1]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^21a-1]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 21b
 
@@ -471,7 +507,7 @@ Se rende verosimile che a causa del ritardo o della soppressione di una corsa ne
 
 <sup>2</sup> Il Consiglio federale disciplina i dettagli relativi all’indennizzo.
 
-[^21b-1]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^21b-1]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 21c
 
@@ -481,7 +517,7 @@ Se rende verosimile che a causa del ritardo o della soppressione di una corsa ne
 
 <sup>2</sup> Il Consiglio federale disciplina i dettagli dell’obbligo di assistenza.
 
-[^21c-1]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^21c-1]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 21d
 
@@ -493,7 +529,7 @@ Se rende verosimile che a causa del ritardo o della soppressione di una corsa ne
 
 <sup>3</sup> Sono escluse ulteriori pretese di risarcimento per danni dovuti al ritardo.
 
-[^21d-1]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^21d-1]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 22
 
@@ -501,7 +537,7 @@ Se rende verosimile che a causa del ritardo o della soppressione di una corsa ne
 
 Le imprese possono stabilire condizioni generali per l’uso degli impianti e dei veicoli, come pure per il comportamento dei viaggiatori durante la corsa. Vi possono prevedere indennità per le spese in caso di violazioni delle prescrizioni sull’uso.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 23
 
@@ -524,7 +560,7 @@ L’impresa risponde della perdita o del danneggiamento del bagaglio a mano se:
 
 L’impresa consente al viaggiatore di portare con sé una bicicletta sul veicolo se il trasporto non ne risulta pregiudicato. Può far pagare un prezzo per tale prestazione.
 
-[^23a-1]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^23a-1]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 ## Sezione 5: Trasporto dei bagagli
 
@@ -577,44 +613,50 @@ Il mittente è tenuto a:
 
 [^sec6-1]
 
-[^sec6-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^sec6-1]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 28
 
-**Indennità dei costi non coperti dell’offerta di trasporto oggetto di ordinazione**
+**Indennità dei costi non coperti dell’offerta di trasporto[^28-1] oggetto di ordinazione**
 
-<sup>1</sup> La Confederazione e i Cantoni (i committenti) indennizzano le imprese di trasporto per i costi non coperti, pianificati in quanto tali, dell’offerta di trasporto da essi ordinata congiuntamente nell’ambito del traffico regionale viaggiatori.[^28-1]
+<sup>1</sup> La Confederazione e i Cantoni (i committenti) indennizzano le imprese di trasporto per i costi non coperti, pianificati in quanto tali, dell’offerta di trasporto da essi ordinata congiuntamente nell’ambito del traffico regionale viaggiatori.[^28-2]
 
-<sup>1bis</sup> ...[^28-2]
+<sup>1bis</sup> …[^28-3]
 
-<sup>2</sup> Le offerte del traffico locale e quelle senza funzione di collegamento sono escluse dalle prestazioni federali.
+<sup>1ter</sup> Dei costi non coperti pianificati in quanto tali fanno parimenti parte i costi relativi al materiale rotabile storico.[^28-4]
 
-<sup>2bis</sup> ...[^28-3]
+<sup>2</sup> La Confederazione non partecipa all’indennizzo dei costi non coperti di offerte del traffico locale e di offerte senza funzione di collegamento.[^28-5]
 
-<sup>3</sup> La Confederazione assume integralmente l’onere dei costi non coperti, pianificati in quanto tali, delle offerte di trasporto d’importanza nazionale da essa ordinate. Può inoltre assumere i costi di prestazioni legate all’offerta di trasporto quando esse giovano o sono accessibili a tutte le imprese.[^28-4]
+<sup>2bis</sup> …[^28-6]
 
-<sup>4</sup> La Confederazione, i Cantoni e i Comuni possono ordinare ulteriori offerte o il miglioramento di quelle esistenti o agevolazioni tariffali[^28-5]. Ne assumono i costi non coperti, pianificati in quanto tali.
+<sup>3</sup> La Confederazione assume integralmente l’onere dei costi non coperti, pianificati in quanto tali, delle offerte di trasporto d’importanza nazionale da essa ordinate. Può inoltre assumere i costi di prestazioni legate all’offerta di trasporto quando esse giovano o sono accessibili a tutte le imprese.[^28-7]
 
-<sup>5</sup> ...[^28-6]
+<sup>4</sup> La Confederazione, i Cantoni e i Comuni possono ordinare ulteriori offerte o il miglioramento di quelle esistenti o agevolazioni tariffali[^28-8]. Ne assumono i costi non coperti, pianificati in quanto tali.[^28-9]
 
-[^28-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^28-2]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
-[^28-3]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
-[^28-4]: Nuovo testo del per. giusta il n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^28-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^28-6]: Abrogato dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, con effetto dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+<sup>5</sup> …[^28-10]
+
+[^28-1]: Nuova espressione giusta la cifra I della LF del 16 dic. 2022 sul trasporto dei viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^28-2]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^28-3]: Introdotto dalla cifra I n. 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^28-4]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^28-5]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^28-6]: Introdotto dalla cifra I n. 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^28-7]: Nuovo testo del per. giusta la cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^28-8]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^28-9]: Nuovo testo giusta la cifra I della LF del 16 dic. 2022, in vigore dal 1° gen. 2025, concerne soltanto il testo in francese ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^28-10]: Abrogato dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, con effetto dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 28a
 
 [^28a-1]
 
-[^28a-1]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^28a-1]: Introdotto dalla cifra I n. 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 28b
 
 [^28b-1]
 
-[^28b-1]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^28b-1]: Introdotto dalla cifra I n. 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
 #### Art. 29
 
@@ -626,13 +668,14 @@ La Confederazione indennizza unicamente le imprese:
 
 - a. la cui presentazione dei conti soddisfa le esigenze della sezione 7;
 - b. la cui contabilità è suddivisa in settori e attesta i costi non coperti di ogni settore;
-- c. che gestiscono come settori distinti almeno il traffico internazionale viaggiatori[^29-1] e l’eventuale infrastruttura ferroviaria;
+- c.[^29-1] che gestiscono come settore distinto il traffico regionale viaggiatori ordinato congiuntamente dalla Confederazione e dai Cantoni;
 - d. che hanno una personalità giuridica indipendente dai committenti; e
 - e. nel cui consiglio di amministrazione, o simile organo, non siedono membri partecipi direttamente della procedura di ordinazione o attivi in un’unità amministrativa coinvolta in tale procedura.
 
-<sup>2</sup> La Confederazione può accordare agevolazioni alle imprese a traffico ridotto e alle imprese straniere con poche linee in Svizzera.
+<sup>2</sup> Il Consiglio federale può prevedere deroghe alle condizioni di cui al capoverso 1 per le imprese a traffico ridotto e le imprese straniere con poche linee in Svizzera.[^29-2]
 
-[^29-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^29-1]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^29-2]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 30
 
@@ -648,15 +691,15 @@ La Confederazione indennizza unicamente le imprese:
 
 <sup>5</sup> I Cantoni stabiliscono se i Comuni o altri enti partecipano all’indennità.
 
-[^30-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^30-1]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 30a
 
 **Credito d’impegno**[^30a-1]
 
-L’Assemblea federale stanzia, di volta in volta per quattro anni, un credito d’impegno per indennizzare i costi non coperti dell’offerta di trasporto oggetto di ordinazione.
+L’Assemblea federale stanzia, di volta in volta per quattro anni, un credito d’impegno per la quota federale dell’indennità per i costi non coperti dell’offerta ordinata congiuntamente dalla Confederazione e dai Cantoni.
 
-[^30a-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° mar. 2018 ([RU 2018 869](https://fedlex.data.admin.ch/eli/oc/2018/116); [FF 2016 7859](https://fedlex.data.admin.ch/eli/fga/2016/2129)).
+[^30a-1]: Introdotto dalla cifra I n.7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 31
 
@@ -664,75 +707,115 @@ L’Assemblea federale stanzia, di volta in volta per quattro anni, un credito d
 
 <sup>1</sup> Se un’impresa investe nel settore dei trasporti, la Confederazione può concedere una fideiussione al creditore ove lo esiga l’interesse dei committenti. L’UFT disciplina nei particolari la forma e le condizioni della fideiussione.[^31-2]
 
-<sup>2</sup> In casi particolari, segnatamente per promuovere soluzioni innovative, la Confederazione può accordare contributi e mutui senza interessi per l’acquisto di veicoli e la costruzione di impianti e installazioni.
+<sup>2</sup> Per le offerte di cui all’articolo 28 la Confederazione può accordare alle imprese aiuti finanziari al fine di promuovere l’innovazione.[^31-3]
 
 <sup>3</sup> Per il finanziamento di investimenti sostitutivi e di investimenti di rinnovo nel settore dei trasporti, la Confederazione può convertire i mutui rimborsabili in mutui condizionalmente rimborsabili o sospenderne il rimborso.
 
-<sup>4</sup> I mutui condizionalmente rimborsabili della Confederazione possono essere convertiti in capitale proprio, fatte salve le decisioni necessarie a tal fine secondo il diritto della società anonima, segnatamente per consentire la partecipazione alle necessarie misure di risanamento finanziarie.[^31-3]
+<sup>4</sup> I mutui condizionalmente rimborsabili della Confederazione possono essere convertiti in capitale proprio, fatte salve le decisioni necessarie a tal fine secondo il diritto della società anonima, segnatamente per consentire la partecipazione alle necessarie misure di risanamento finanziarie.[^31-4]
 
-[^31-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^31-2]: Nuovo testo giusta il n. I 8 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
-[^31-3]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^31-1]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^31-2]: Nuovo testo giusta la cifra I n. 8 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^31-3]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^31-4]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 31a
 
-**Offerta di trasporto e procedura di ordinazione**[^31a-1]
+**Determinazione dell’offerta**[^31a-1]
 
-<sup>1</sup> L’offerta di trasporto e l’indennità nel traffico regionale viaggiatori sono convenute anticipatamente per scritto tra i committenti e l’impresa in una convenzione sull’offerta di prestazioni, sulla scorta dei conti di previsione dell’impresa. I conti di previsione si fondano sulla convenzione sugli obiettivi o sulla convenzione in materia di aggiudicazione conclusa tra i committenti e l’impresa.
+<sup>1</sup>
 
-<sup>2</sup> Il Consiglio federale disciplina d’intesa con i Cantoni la procedura di ordinazione, nonché i principi dell’offerta di trasporto e dell’indennità. Può stabilire una procedura di ordinazione semplificata se esiste una convenzione in materia di aggiudicazione. Tutela l’autonomia delle imprese in materia di gestione.
+Nel determinare l’offerta e l’indennità i committenti tengono conto innanzitutto della domanda. Inoltre considerano:
 
-<sup>3</sup>
-
-L’offerta di trasporto e l’indennità sono determinate tenendo conto innanzitutto della domanda e dell’infrastruttura esistente.[^31a-2] Inoltre si considerano:
-
-- a. la messa a disposizione di collegamenti basilari adeguati;
+- a. la messa a disposizione di collegamenti di base adeguati;
 - b. gli imperativi della politica regionale, in particolare le esigenze inerenti allo sviluppo economico delle regioni periferiche e di montagna;
-- c. gli imperativi della politica di assetto del territorio;
+- c. gli imperativi della politica di pianificazione del territorio;
 - d. gli imperativi della protezione dell’ambiente;
-- e. le esigenze dei disabili.
+- e. le esigenze delle persone con disabilità.
 
-<sup>4</sup>
+<sup>2</sup> Sentiti i Cantoni, il Consiglio federale precisa questi principi.
 
-La convenzione sull’offerta di prestazioni disciplina in particolare:
+[^31a-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
-- a. il piano dell’offerta e l’orario;
-- b. la vendita, compresi i punti di vendita e il servizio di vendita;
-- c. l’offerta nell’ambito del trasporto dei bagagli;
-- d. le tariffe.
+#### Art. 31a<sup>bis</sup>
 
-<sup>5</sup> La conclusione della convenzione sull’offerta di prestazioni conferisce alle imprese interessate un diritto a sé stante all’indennità nei confronti di ogni committente.
+**Indici**[^31abis-1]
 
-<sup>6</sup> Se i committenti e le imprese non riescono ad accordarsi su una convenzione sull’offerta di prestazioni o sulla sua applicazione, l’UFT determina l’offerta di trasporto e l’indennità tenendo conto dei principi di cui al capoverso 3.
+<sup>1</sup> L’UFT rileva indici finanziari e qualitativi presso le imprese i cui costi non coperti dell’offerta ordinata congiuntamente dalla Confederazione e dai Cantoni sono indennizzati secondo l’articolo 28.
 
-[^31a-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^31a-2]: Nuovo testo giusta il n. I 9 della LF del 28 set. 2018, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+<sup>2</sup> Sulla base di questi indici, l’UFT effettua un confronto sistematico delle offerte oggetto di ordinazione. Tiene debitamente conto delle diverse condizioni di produzione, in particolare della topografia, delle variazioni stagionali della domanda e dell’attesa per coincidenze in ritardo volta a garantire la continuità della catena di trasporto.
+
+<sup>3</sup> Pubblica gli indici e il confronto sistematico in forma appropriata.
+
+[^31abis-1]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
+#### Art. 31a<sup>ter</sup>
+
+**Convenzione sugli obiettivi**[^31ater-1]
+
+<sup>1</sup> Per le offerte ordinate congiuntamente la Confederazione e i Cantoni concludono con l’impresa interessata una convenzione sugli obiettivi.
+
+<sup>2</sup>
+
+Nella convenzione sugli obiettivi possono concordare in particolare:
+
+- a. obiettivi di prestazione riguardanti la qualità, la quantità, i proventi e i costi dell’offerta;
+- b. il periodo durante il quale l’impresa deve raggiungere gli obiettivi;
+- c. provvedimenti da adottare nel caso in cui gli obiettivi non fossero raggiunti;
+- d. un sistema di bonus-malus relativo alla qualità e agli indici finanziari;
+- e. il previsto sviluppo a medio termine dell’offerta.
+
+<sup>3</sup> Il Consiglio federale disciplina i casi in cui non dev’essere conclusa una convenzione sugli obiettivi.
+
+[^31ater-1]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
+#### Art. 31a<sup>quater</sup>
+
+**Convenzione sull’offerta**[^31aquater-1]
+
+<sup>1</sup> Le offerte ordinate congiuntamente da Confederazione e Cantoni e la relativa indennità sono convenute anticipatamente per scritto tra i committenti e l’impresa in una convenzione sull’offerta basata sui conti di previsione dell’impresa. Se del caso, i conti di previsione si fondano sulle convenzioni sugli obiettivi.
+
+<sup>2</sup> La convenzione sull’offerta conferisce all’impresa un diritto a sé stante all’indennità nei confronti di ogni committente.
+
+<sup>3</sup> Il Consiglio federale precisa il contenuto della convenzione sull’offerta.
+
+[^31aquater-1]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 31b
 
-**Periodicità della procedura di ordinazione**[^31b-1]
+**Procedura di ordinazione**[^31b-1]
 
-La procedura di ordinazione è svolta ogni due anni. L’UFT armonizza la procedura di ordinazione con la periodicità dell’orario.
+<sup>1</sup> La procedura di ordinazione è svolta ogni due anni. L’UFT armonizza la procedura di ordinazione con la pianificazione delle prestazioni e dell’offerta.
 
-[^31b-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+<sup>2</sup> Sentiti i Cantoni, il Consiglio federale stabilisce i dettagli della procedura di ordinazione e definisce i principi alla base dell’indennità.
+
+[^31b-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+
+#### Art. 31b<sup>bis</sup>
+
+**Composizione delle controversie**[^31bbis-1]
+
+Se i committenti e l’impresa non riescono ad accordarsi sull’offerta ordinata congiuntamente in occasione della negoziazione o dell’applicazione di una convenzione sugli obiettivi o di una convenzione sull’offerta, l’UFT determina l’offerta e l’indennità mediante decisione.
+
+[^31bbis-1]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 31c
 
 **Pianificazione della messa a concorso**[^31c-1]
 
-<sup>1</sup> I committenti pianificano la messa a concorso relativa al traffico regionale viaggiatori su strada e su rotaia; in particolare stabiliscono i motivi e la data della messa a concorso di un’offerta di trasporto. A tal fine tengono conto delle esigenze locali e regionali. Includono nella pianificazione anche le linee che mettono a concorso congiuntamente ma che non ordinano congiuntamente.
+<sup>1</sup> I committenti pianificano la messa a concorso relativa al traffico regionale viaggiatori su strada e su rotaia. Nella pianificazione stabiliscono in primo luogo i motivi e la data della messa a concorso di un’offerta. A tal fine tengono conto segnatamente dei piani viari volti a ottimizzare i trasporti pubblici e delle esigenze e bisogni locali e regionali. Includono nella pianificazione anche le linee che mettono a concorso congiuntamente ma che non ordinano congiuntamente.[^31c-2]
 
 <sup>2</sup> La pianificazione della messa a concorso avviene per Cantone. La responsabilità incombe ai Cantoni. L’UFT provvede a una pianificazione unitaria e al coordinamento fra i Cantoni.
 
 <sup>3</sup> La pianificazione della messa a concorso è vincolante per le autorità. Non può essere impugnata mediante ricorso.
 
-[^31c-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^31c-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^31c-2]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 ## Sezione 6*a*: Offerta di trasporto oggetto di ordinazione: procedura di messa a concorso
 
 [^sec6a-1]
 
-[^sec6a-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^sec6a-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 32
 
@@ -758,7 +841,7 @@ Non vi è messa a concorso se:
 
 <sup>5</sup> I committenti possono mettere a concorso congiuntamente le offerte di trasporto anche se queste sono ordinate unicamente dai Cantoni senza la partecipazione della Confederazione.
 
-[^32-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32-1]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 32a
 
@@ -768,37 +851,44 @@ Non vi è messa a concorso se:
 
 <sup>2</sup> Il Consiglio federale può disciplinare la messa a concorso di tali offerte in convenzioni concluse con gli Stati confinanti.
 
-<sup>3</sup> In assenza di una convenzione, l’UFT può rinunciare a una messa a concorso e ordinare l’offerta all’impresa che nella procedura di messa a concorso ha ottenuto l’aggiudicazione per il tratto di linea situato nello Stato confinante.
+<sup>3</sup> In assenza di una convenzione, l’offerta può essere ordinata all’impresa che nella procedura di messa a concorso ha ottenuto l’aggiudicazione per il tratto di linea situato nello Stato confinante.[^32a-2]
 
-[^32a-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32a-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32a-2]: Nuovo testo giusta il nn. I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32b
 
 **Coordinamento con la concessione**[^32b-1]
 
-<sup>1</sup> La procedura di messa a concorso è coordinata con la procedura di rilascio o di rinnovo della concessione. La decisione di aggiudicazione presa in seguito alla procedura di messa a concorso e il rilascio o il rinnovo della concessione fanno parte della stessa decisione.
+<sup>1</sup> La procedura di messa a concorso delle offerte ordinate congiuntamente dalla Confederazione e dai Cantoni è coordinata con la procedura di rilascio o di rinnovo della concessione.
 
-<sup>2</sup> La durata della concessione corrisponde alla durata di validità dell’offerta di trasporto prevista nella documentazione relativa alla messa a concorso.
+<sup>2</sup> La messa a concorso di cui al capoverso 1 può includere anche offerte non ordinate dalla Confederazione. La procedura congiunta di messa a concorso è retta dalle disposizioni della presente sezione.
 
-[^32b-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+<sup>3</sup> La durata di validità dell’offerta prevista nella documentazione relativa alla messa a concorso è determinante per stabilire la durata della concessione.
+
+[^32b-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32c
 
-**Disposizioni speciali per la messa a concorso di offerte di trasporto su strada**[^32c-1]
+**Disposizioni speciali per la messa a concorso di offerte nell’ambito del trasporto su strada[^32c-2]**[^32c-1]
 
 <sup>1</sup> Un’offerta di trasporto del traffico regionale viaggiatori su strada ordinata congiuntamente è messa a concorso quando è previsto il rilascio di una nuova concessione.
 
 <sup>2</sup>
 
-Nel periodo di durata della concessione i committenti mettono a concorso l’offerta di trasporto oggetto di ordinazione se l’impresa:
+Nel periodo di durata della concessione i committenti mettono a concorso l’offerta oggetto di ordinazione se l’impresa:[^32c-3]
 
 - a. non esercita i diritti che le sono conferiti o li esercita solo parzialmente oppure viola ripetutamente o gravemente gli obblighi che le sono imposti dalla legge o dalla concessione;
-- b. non adempie, in diversi punti o in un punto importante, una convenzione sugli obiettivi, sempreché la convenzione per questo caso preveda quale sanzione la messa a concorso;
-- c. non soddisfa una richiesta di miglioramento dei prezzi, della qualità o della quantità dell’offerta di trasporto stabilita in una convenzione in materia di aggiudicazione, sempreché la convenzione per questo caso preveda quale sanzione la messa a concorso.
+- b.[^32c-4] non adempie, in diversi punti o in un punto importante, la convenzione sugli obiettivi, in particolare non soddisfa una richiesta di miglioramento dei prezzi, della qualità o della quantità dell’offerta e per tale caso la convenzione prevede la messa a concorso;
+- c.[^32c-5] …
 
 <sup>3</sup> In occasione del rinnovo di una concessione, i committenti mettono a concorso l’offerta di trasporto oggetto di ordinazione se ciò è previsto dalla loro pianificazione della messa a concorso.
 
-[^32c-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32c-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32c-2]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^32c-3]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^32c-4]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^32c-5]: Abrogata dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), con effetto dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32d
 
@@ -806,7 +896,7 @@ Nel periodo di durata della concessione i committenti mettono a concorso l’off
 
 <sup>1</sup>
 
-Nella procedura di messa a concorso i committenti osservano i seguenti principi:
+Nella procedura di messa a concorso i committenti di offerte ordinate congiuntamente[^32d-2] osservano i seguenti principi:
 
 - a. in tutte le fasi della procedura assicurano la parità di trattamento delle imprese;
 - b. aggiudicano l’offerta di trasporto soltanto a un’impresa che garantisce il rispetto delle disposizioni in materia di protezione del lavoro e delle condizioni di lavoro della manodopera; i committenti definiscono le disposizioni determinanti nella documentazione relativa alla messa a concorso e tengono conto di convenzioni esistenti;
@@ -820,23 +910,24 @@ Le imprese devono osservare i seguenti principi:
 - a. l’offerta è inoltrata entro il termine previsto ed è completa;
 - b. la messa in esercizio avviene entro il termine previsto; se la messa in esercizio è ritardata in seguito a ricorso, l’impresa è liberata da tale impegno.
 
-[^32d-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32d-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32d-2]: Nuova espressione giusta la cifra I della LF del 16 dic. 2022 sul trasporto dei viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 32e
 
 **Idoneità**[^32e-1]
 
-<sup>1</sup> I committenti possono esigere dalle imprese la prova della loro idoneità finanziaria, economica, tecnica e gestionale. A tal fine, precisano i criteri di idoneità.
+<sup>1</sup> I committenti di offerte ordinate congiuntamente possono esigere dalle imprese la prova della loro idoneità finanziaria, economica, tecnica e gestionale. A tal fine, precisano i criteri di idoneità.
 
 <sup>2</sup> I requisiti per la prova e i criteri di idoneità sono resi noti nella documentazione relativa alla messa a concorso.
 
-[^32e-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32e-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 32f
 
 **Esclusione dalla procedura di messa a concorso**[^32f-1]
 
-I committenti possono escludere un’impresa dalla procedura di messa a concorso, in particolare se:
+I committenti di offerte ordinate congiuntamente possono escludere un’impresa dalla procedura di messa a concorso, in particolare se:
 
 - a. non adempie i criteri di idoneità;
 - b. ha dato ai committenti indicazioni false;
@@ -845,27 +936,29 @@ I committenti possono escludere un’impresa dalla procedura di messa a concorso
 - e. ha pattuito comportamenti tali da impedire un’effettiva libera concorrenza o da ostacolarla in modo rilevante;
 - f. nei suoi confronti è pendente una procedura di fallimento.
 
-[^32f-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32f-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 32g
 
 **Decisione di aggiudicazione**[^32g-1]
 
-<sup>1</sup> I committenti aggiudicano l’offerta di trasporto messa a concorso all’impresa che ha presentato l’offerta più favorevole dal profilo economico.
+<sup>1</sup> I committenti delle offerte ordinate congiuntamente aggiudicano l’offerta messa a concorso all’impresa che ha presentato l’offerta più vantaggiosa.[^32g-2]
 
-<sup>2</sup> L’offerta più favorevole dal profilo economico è determinata considerando in particolare la qualità, la concezione dell’offerta, i proventi, i costi e la compatibilità ambientale.
+<sup>2</sup> L’offerta più vantaggiosa è determinata considerando in particolare la qualità, il piano dell’offerta, i costi, il contenuto innovativo, la sostenibilità e la plausibilità dell’offerta.[^32g-3]
 
 <sup>3</sup> L’offerta di trasporto è aggiudicata per la durata di validità prevista nella documentazione relativa alla messa a concorso.
 
-[^32g-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32g-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32g-2]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^32g-3]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32h
 
 **Revoca della decisione di aggiudicazione**[^32h-1]
 
-I committenti possono revocare la decisione di aggiudicazione per gli stessi motivi per cui possono escludere un’impresa dalla procedura.
+I committenti di offerte ordinate congiuntamente possono revocare la decisione di aggiudicazione per gli stessi motivi per cui possono escludere un’impresa dalla procedura.
 
-[^32h-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32h-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 32i
 
@@ -883,7 +976,7 @@ L’UFT decide:
 
 <sup>2</sup> L’UFT può notificare la decisione di cui al capoverso 1 lettera b assieme alla decisione di cui al capoverso 1 lettera c o d.
 
-[^32i-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32i-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 32j
 
@@ -893,134 +986,130 @@ L’UFT decide:
 
 <sup>2</sup> Il Consiglio federale disciplina le eccezioni e designa l’organo incaricato della pubblicazione.
 
-[^32j-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32j-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 32k
 
-**Convenzione in materia di aggiudicazione**[^32k-1]
+**Decisione di aggiudicazione**[^32k-1]
 
-<sup>1</sup> Non appena la decisione di aggiudicazione è passata in giudicato, i committenti concludono con l’impresa una convenzione in materia di aggiudicazione.
+Non appena la decisione di aggiudicazione è passata in giudicato, i committenti concludono con l’impresa una convenzione sugli obiettivi.
 
-<sup>2</sup> La convenzione stabilisce essenzialmente, in base all’offerta, la durata di validità, l’offerta di trasporto, la qualità, i costi, i proventi, i meccanismi di adattamento e la supervisione.
-
-[^32k-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32k-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 32l
 
 **Cambiamento dell’impresa incaricata**[^32l-1]
 
-<sup>1</sup> Se un’offerta del traffico regionale viaggiatori è ordinata presso una nuova impresa in seguito a una messa a concorso, su richiesta dei committenti l’impresa precedentemente incaricata deve trasferire alla nuova impresa, al valore contabile residuo, i mezzi d’esercizio acquisiti appositamente per l’offerta di trasporto, sempreché tali mezzi d’esercizio siano di importanza fondamentale per le linee del traffico regionale viaggiatori oggetto del concorso.
+<sup>1</sup> Se un’offerta oggetto di un’ordinazione congiunta è ordinata a una nuova impresa in seguito a una messa a concorso, su richiesta dei committenti o del precedente gestore l’impresa precedentemente incaricata deve trasferire alla nuova impresa, al valore contabile residuo, gli impianti e i veicoli (mezzi d’esercizio) acquisiti appositamente per l’offerta, sempreché tali mezzi d’esercizio siano di importanza fondamentale per le linee oggetto del concorso.[^32l-2]
 
 <sup>2</sup> Su richiesta dell’impresa precedentemente incaricata o dei committenti, la nuova impresa deve riprendere tali mezzi d’esercizio al valore contabile residuo.
 
 <sup>3</sup> La nuova impresa deve offrire ai dipendenti dell’impresa precedentemente incaricata, alle condizioni usuali del settore, i posti di lavoro supplementari necessari per eseguire l’offerta di trasporto.
 
-[^32l-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32l-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^32l-2]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
-## Sezione 6*b*: Offerta di trasporto oggetto di ordinazione: disposizioni speciali per le offerte non messe a concorso
-
-[^sec6b-1]
-
-[^sec6b-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+## Sezione 6*b*: …
 
 #### Art. 33
 
-**Convenzione sugli obiettivi**[^33-1]
+[^33-1]
 
-<sup>1</sup> Per le offerte di trasporto oggetto di ordinazione che non sono messe a concorso, i committenti possono concludere una convenzione sugli obiettivi con l’impresa interessata.
-
-<sup>2</sup> La convenzione sugli obiettivi può comprendere in particolare obiettivi di prestazione riguardanti la qualità, la quantità, i proventi e i costi dell’offerta di trasporto che l’impresa deve raggiungere in un determinato periodo. Può prevedere misure nel caso in cui gli obiettivi non siano raggiunti.
-
-<sup>3</sup> La convenzione sugli obiettivi può contemplare un sistema di bonus-malus applicabile alla qualità e agli indicatori finanziari.
-
-<sup>4</sup> La convenzione sugli obiettivi è conclusa per una durata minima di due periodi d’orario.
-
-[^33-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^33-1]: Abrogato dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), con effetto dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 33a
 
-**Misure per raggiungere gli obiettivi, riduzione dell’indennità**[^33a-1]
+[^33a-1]
 
-Sentiti i Cantoni, l’UFT può disporre misure per raggiungere gli obiettivi o esigere il rimborso di prestazioni finanziarie se l’impresa:
-
-- a. non fornisce come convenuto le prestazioni ordinate;
-- b. non raggiunge gli obiettivi fissati;
-- c. non rispetta le scadenze fissate; o
-- d. non è gestita in modo economicamente razionale.
-
-[^33a-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta il n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^33a-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Abrogato dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), con effetto dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 34
 
 [^34-1]
 
-[^34-1]: Abrogato dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, con effetto dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^34-1]: Abrogato dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, con effetto dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
-## Sezione 7: Contabilità
+## Sezione 7[^sec7-1]: Presentazione dei conti
+
+[^sec7-1]: Nuovo testo giuta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 35
 
 **Principi**
 
-<sup>1</sup> Consultati il Dipartimento federale delle finanze e i Cantoni, il DATEC disciplina mediante ordinanza la presentazione dei conti delle imprese titolari di una concessione secondo l’articolo 6 della presente legge o secondo l’articolo 5 della legge federale del 20 dicembre 1957[^35-1] sulle ferrovie.
+<sup>1</sup> Le imprese titolari di una concessione secondo l’articolo 6 della presente legge o l’articolo 5 della legge federale del 20 dicembre 1957[^35-1] sulle ferrovie (Lferr) presentano agli enti pubblici dai quali ricevono aiuti finanziari o indennità il rapporto di gestione e gli altri documenti stabiliti dalla presente legge o dalle sue disposizioni d’esecuzione. Su richiesta, presentano a questi enti pubblici documenti supplementari e forniscono loro informazioni.
 
-<sup>2</sup> Il DATEC può in particolare emanare ulteriori prescrizioni sull’allibramento, l’iscrizione a bilancio e gli ammortamenti, nonché disposizioni sugli accantonamenti, il conto di costruzione, la suddivisione in settori, il conto economico per ogni linea e l’obbligo d’informare la Confederazione e i Cantoni.
+<sup>2</sup>
 
-<sup>3</sup> Del rimanente si applicano le disposizioni del Codice delle obbligazioni[^35-2] sulla contabilità commerciale.
+Le imprese che ricevono aiuti finanziari o indennità secondo la presente legge o la Lferr:
 
-[^35-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^35-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+- a. applicano norme considerate norme contabili riconosciute in materia di presentazione dei conti;
+- b. dichiarano agli enti pubblici dai quali ricevono gli aiuti finanziari o le indennità di rispettare i principi della legislazione sui sussidi.
+
+<sup>3</sup> Il Consiglio federale disciplina i dettagli della presentazione dei conti. Emana in particolare prescrizioni sull’allibramento, l’iscrizione a bilancio e gli ammortamenti, nonché disposizioni sul conto di costruzione, la suddivisione in settori, il conto dei costi d’esercizio e delle prestazioni, il conto di previsione e l’obbligo d’informare gli enti pubblici. Può prevedere deroghe all’obbligo di cui al capoverso 2 lettera a.
+
+<sup>4</sup> L’UFT definisce le norme da applicare per la presentazione dei conti.
+
+[^35-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+
+#### Art. 35a
+
+**Computabilità di costi e proventi**
+
+<sup>1</sup> Nel determinare i costi non coperti l’impresa non può computare né remunerazioni del capitale proprio né maggiorazioni per utili e per rischi. Questo vale anche per i costi di prestazioni fornitele da società del gruppo da essa controllate, salvo che il prezzo della prestazione sia stato definito in una procedura secondo la legge federale del 21 giugno 2019[^35a-1] sugli appalti pubblici. Per le offerte messe a concorso in virtù dell’articolo 32 della presente legge l’ammontare dell’indennità si basa sull’offerta presentata dall’impresa aggiudicataria.
+
+<sup>2</sup> Se un’impresa o una società del gruppo da essa controllata fornisce a terzi singole prestazioni prevalentemente ai prezzi di mercato al di fuori del trasporto di viaggiatori concessionario, in deroga al capoverso 1 dette prestazioni possono essere computate dall’impresa stessa, dalle persone a essa vicine o dalle società del gruppo da essa controllate ai prezzi di mercato nell’ambito del trasporto di viaggiatori concessionario.
+
+<sup>3</sup> Il Consiglio federale emana ulteriori disposizioni sulla computabilità di costi e proventi.
+
+<sup>4</sup> Con il consenso dei committenti, l’impresa può contabilizzare i costi della manutenzione dei veicoli livellandoli lungo la durata di vita degli stessi. In questo caso iscrive a bilancio la differenza tra costi contabilizzati ed effettivi.
+
+<sup>5</sup> Le convenzioni sull’indennità dei costi concluse tra l’impresa e i committenti secondo il diritto previgente restano valide.
+
+[^35a-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 36
 
-**Presentazione dei risultati conseguiti nei singoli settori**
+**Riserve**
 
-<sup>1</sup> L’impresa che non può coprire i costi globali di un settore di trasporto per mezzo dei suoi ricavi[^36-1] e delle prestazioni finanziarie della Confederazione e dei Cantoni risponde essa stessa del suo disavanzo. Essa lo riporta nel nuovo esercizio.
+<sup>1</sup> L’impresa attribuisce a una riserva speciale la metà dell’utile derivante dalle offerte ordinate congiuntamente dalla Confederazione e dai Cantoni che non sono state messe a concorso secondo l’articolo 32 e dai miglioramenti ordinati di queste offerte. Può impiegare la riserva speciale soltanto per coprire perdite connesse alle offerte ordinate congiuntamente dalla Confederazione e dai Cantoni.
 
-<sup>2</sup> Se i ricavi[^36-2] e le prestazioni finanziarie della Confederazione e dei Cantoni superano i costi globali di un settore di trasporto che dà diritto all’indennità, l’impresa attribuisce almeno due terzi di tale eccedenza alla riserva speciale per la copertura di disavanzi futuri dei settori di trasporto che danno diritto all’indennità. Se la riserva speciale dei settori di trasporto raggiunge il 25 per cento della cifra d’affari annuale dei settori che danno diritto all’indennità o 12 milioni di franchi, l’impresa può disporre liberamente dell’utile.
+<sup>2</sup> L’impresa può attribuire a una riserva l’utile derivante dalle offerte del trasporto di viaggiatori concessionario alla cui ordinazione la Confederazione non ha partecipato. Può impiegare la riserva soltanto per coprire perdite connesse alle offerte del trasporto di viaggiatori concessionario alla cui ordinazione la Confederazione non ha partecipato. I Cantoni committenti possono esigere che alla riserva sia attribuita al massimo la metà dell’utile corrispondente.
 
-<sup>2bis</sup> ...[^36-3]
+<sup>3</sup> Se l’offerta ordinata congiuntamente dalla Confederazione e dai Cantoni termina, l’impresa trasferisce, se del caso, la dotazione della riserva speciale alla riserva di cui al capoverso 2. Se cessa il trasporto di viaggiatori concessionario, l’impresa trasferisce tutte le riserve di cui ai capoversi 1 e 2 alla riserva legale da capitale di cui all’articolo 671 del Codice delle obbligazioni (CO)[^36-1].
 
-<sup>3</sup> Se l’impresa cessa la sua attività nel settore di trasporto che dà diritto all’indennità, la riserva speciale deve essere sciolta.
+<sup>4</sup> Alla riserva legale da capitale possono essere attribuiti soltanto gli utili rimanenti dopo l’attribuzione alle riserve di cui ai capoversi 1 e 2.
 
-<sup>4</sup> Se i ricavi[^36-4] di un settore del traffico concessionario che non dà diritto all’indennità superano i costi globali di tale settore, l’impresa può disporre liberamente dell’eccedenza dei ricavi. Essa può accantonarla integralmente o in parte per la copertura di disavanzi futuri dello stesso settore. Se cessa la sua attività nel settore concessionario, l’impresa deve sciogliere l’accantonamento.
-
-[^36-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^36-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^36-3]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
-[^36-4]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^36-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
-**Verifica nell’ottica del diritto dei sussidi da parte dell’autorità di vigilanza**
+**Verifica da parte dell’autorità di vigilanza**
 
-<sup>1</sup> I conti e i bilanci devono essere chiusi alla fine dell’anno di esercizio. Le imprese che ricevono contributi o mutui dall’ente pubblico presentano il conto annuale, con i pertinenti documenti giustificativi, all’UFT.[^37-1] L’UFT può chiedere alle imprese ulteriori documenti.
+<sup>1</sup> In quanto autorità di vigilanza l’UFT verifica, periodicamente o all’occorrenza, se i conti delle imprese che hanno ricevuto aiuti finanziari o indennità dalla Confederazione sono conformi alle prescrizioni di legge e alle relative convenzioni. La competenza dell’UFT si estende anche alle società del gruppo dalle quali le imprese ottengono prestazioni.
 
-<sup>2</sup> L’UFT verifica, periodicamente o all’occorrenza, se i conti sono conformi alle prescrizioni di legge e alle relative convenzioni in materia di contributi e mutui dell’ente pubblico.[^37-2] Determina l’entità della verifica. La verifica dei conti nell’ottica del diritto dei sussidi da parte dell’autorità di vigilanza completa il controllo dell’ufficio di revisione dell’impresa.
+<sup>2</sup> L’UFT può effettuare accertamenti e verifiche approfondite presso le imprese. Può prendere visione di tutti gli elementi della gestione delle imprese. Se sono ottenute prestazioni da società del gruppo, la competenza dell’UFT di effettuare accertamenti e verifiche approfondite si estende anche a queste società.
 
-<sup>3</sup> L’impresa pubblica nel suo rapporto di gestione il risultato della verifica dei conti nell’ottica del diritto dei sussidi.
-
-<sup>4</sup> Oltre alla verifica dei conti nell’ottica del diritto dei sussidi, l’UFT può effettuare verifiche più approfondite presso le imprese di trasporto. Se necessario, l’UFT può prendere visione di tutta la gestione dell’impresa.[^37-3]
-
-[^37-1]: Nuovo testo del per. giusta il n. I 9 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^37-2]: Nuovo testo del per. giusta il n. I 9 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^37-3]: La correzione della Commissione di redazione dell’AF del 31 ago. 2016, pubblicata il 13 set. 2016 concerne soltanto il testo tedesco ([RU 2016 3169](https://fedlex.data.admin.ch/eli/oc/2016/531)).
+<sup>3</sup> L’UFT determina l’entità della verifica. Può comunicare alle autorità cantonali competenti le informazioni e le conclusioni ricavate dalle verifiche.
 
 #### Art. 38
 
-**Controversie**
+**Ufficio di revisione**
 
-<sup>1</sup> Se i conti e i documenti giustificativi non corrispondono alle prescrizioni degli articoli 35–37, l’UFT, sentita l’impresa, prende i provvedimenti necessari.
+<sup>1</sup> Indipendentemente dalla sua forma giuridica, l’impresa designa un ufficio di revisione secondo gli articoli 727–731*a* CO[^38-1]. Non può rinunciare alla revisione.
 
-<sup>2</sup> Se l’approvazione è rifiutata a causa di una contestazione circa la destinazione dell’utile netto, la somma litigiosa è disponibile solo dopo che la controversia sia stata risolta con decisione passata in giudicato.
+<sup>2</sup> Le imprese che ricevono dall’ente pubblico aiuti finanziari o indennità secondo la presente legge o la Lferr[^38-2] devono effettuare la revisione ordinaria di cui all’articolo 727 CO se il totale annuo degli aiuti finanziari e delle indennità supera i 10 milioni di franchi.
+
+<sup>3</sup> Le imprese che ricevono dall’ente pubblico aiuti finanziari o indennità secondo la presente legge o la Lferr devono far svolgere ogni anno una verifica speciale se il totale annuo degli aiuti finanziari e delle indennità supera 1 milione di franchi. L’UFT disciplina i dettagli di questa verifica.
+
+[^38-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^38-2]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 39
 
-**Ufficio di revisione**
+**Controversie**
 
-Indipendentemente dalla sua forma giuridica, l’impresa designa un ufficio di revisione secondo le disposizioni del Codice delle obbligazioni[^39-1] sull’ufficio di revisione della società anonima.
-
-[^39-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+Se dall’applicazione degli articoli 35–38 risultano controversie, sentita l’impresa l’UFT pronuncia le decisioni necessarie.
 
 ## Sezione 8: Prestazioni particolari a favore di amministrazioni pubbliche
 
@@ -1068,7 +1157,7 @@ Sono nulle le disposizioni tariffali e le convenzioni tra l’impresa e gli uten
 
 <sup>3</sup> Il Consiglio federale può stabilire l’importo del pagamento anticipato in caso di decesso.
 
-[^44a-1]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^44a-1]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 45
 
@@ -1139,12 +1228,13 @@ L’impresa ha sul bagaglio i diritti di un creditore pignoratizio per tutti i c
 
 #### Art. 51
 
-<sup>1</sup> La responsabilità extracontrattuale delle imprese titolari di una concessione è retta dagli articoli 40*b*–40*f* della legge federale del 20 dicembre 1957[^51-1] sulle ferrovie.
+<sup>1</sup> La responsabilità extracontrattuale delle imprese titolari di una concessione è retta dagli articoli 40*b*–40*f* Lferr[^51-1].[^51-2]
 
-<sup>2</sup> Ai veicoli a motore si applicano le disposizioni sulla responsabilità della legge federale del 19 dicembre 1958[^51-2] sulla circolazione stradale.
+<sup>2</sup> Ai veicoli a motore si applicano le disposizioni sulla responsabilità della legge federale del 19 dicembre 1958[^51-3] sulla circolazione stradale.
 
-[^51-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^51-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^51-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^51-2]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^51-3]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## Sezione 11: Vigilanza
 
@@ -1154,7 +1244,7 @@ L’impresa ha sul bagaglio i diritti di un creditore pignoratizio per tutti i c
 
 Il trasporto pubblico di viaggiatori[^52-1] sottostà alla vigilanza dell’UFT. Esso può abrogare le decisioni e le istruzioni di organi o servizi delle imprese o a impedirne l’applicazione se infrangono la presente legge, la concessione, l’autorizzazione o accordi internazionali oppure ledono importanti interessi nazionali.
 
-[^52-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^52-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 52a
 
@@ -1164,8 +1254,8 @@ Il trasporto pubblico di viaggiatori[^52-1] sottostà alla vigilanza dell’UFT.
 
 <sup>2</sup> La legge del 17 dicembre 2004[^52a-2] sulla trasparenza non si applica ai rapporti concernenti audit, controlli d’esercizio e ispezioni dell’UFT e ad altri documenti ufficiali nella misura in cui contengano dati personali riguardanti la sicurezza tecnica o dell’esercizio.
 
-[^52a-1]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^52a-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^52a-1]: Introdotto dalla cifra I n. 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^52a-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 53
 
@@ -1186,19 +1276,43 @@ Dopo aver valutato la proporzionalità del provvedimento, l’UFT può pubblicar
 
 <sup>5</sup> Il Consiglio federale disciplina i dettagli, in particolare la forma della pubblicazione.
 
-[^53-1]: Per. introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^53-2]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^53-1]: Per. introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^53-2]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+
+## Sezione 11*a*: Trattamento di dati da parte delle imprese
+
+[^sec11a-1]
+
+[^sec11a-1]: Introdotto dalla cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
 
 #### Art. 54
 
-**Trattamento di dati da parte del titolare della concessione**[^54-1]
+**Trattamento di dati personali**[^54-1]
 
-<sup>1</sup> Per le loro attività che rientrano nella concessione o nell’autorizzazione, le imprese sottostanno agli articoli 33–42 della legge federale del 25 settembre 2020[^54-2] sulla protezione dei dati (LPD). Se agiscono secondo il diritto privato, sottostanno invece agli articoli 30–32 LPD.
+<sup>1</sup> Le imprese possono trattare dati personali se è necessario per il trasporto dei viaggiatori e per l’esercizio o per la sicurezza dei viaggiatori, dell’esercizio o dell’infrastruttura.
 
-<sup>2</sup> Le imprese possono trattare dati personali degni di particolare protezione se è necessario per il trasporto dei viaggiatori e per l’esercizio o per la sicurezza dei viaggiatori, dell’esercizio o dell’infrastruttura. Ciò vale anche per terzi che assumono i compiti di un’impresa titolare di una concessione o autorizzazione secondo gli articoli 6–8. L’impresa rimane responsabile del rispetto delle disposizioni della legislazione sulla protezione dei dati.
+<sup>2</sup>
 
-[^54-1]: Nuovo testo giusta l’all. 1 n. II 62 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^54-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+Le imprese possono:
+
+- a. effettuare una profilazione sulla base delle stazioni di salita e discesa dei viaggiatori al fine di determinare e fatturare il prezzo del trasporto;
+- b. trattare dati personali degni di particolare protezione concernenti la salute dei viaggiatori con disabilità al fine di eliminare o ridurre gli svantaggi nell’accesso a installazioni o veicoli dell’impresa.
+
+<sup>3</sup> Non possono subordinare il trasporto di viaggiatori al consenso di questi ultimi al trattamento dei loro dati personali.
+
+<sup>4</sup> Devono offrire, a condizioni simili, contratti di trasporto di viaggiatori che non richiedono il trattamento di dati personali.
+
+<sup>5</sup>
+
+Le imprese sottostanno agli articoli 30–32 della legge federale del 25 settembre 2020[^54-2] sulla protezione dei dati per le offerte di mobilità che comprendono:
+
+- a. prestazioni di trasporto non soggette alla presente legge;
+- b. altri servizi essenziali quali offerte turistiche o culturali.
+
+<sup>6</sup> I capoversi 1–5 si applicano anche ai terzi che vendono titoli di trasporto secondo la presente legge.
+
+[^54-1]: Nuovo testo giusta la cifra I cpv. 1 della L del 16 dic. 2022 sul trasporto dei viaggiatori (Riforma del traffico regionale viaggiatori e della presentazione dei conti), in vigore dal 1° gen. 2025 ([RU 2024 575](https://fedlex.data.admin.ch/eli/oc/2024/575); [FF 2021 1485](https://fedlex.data.admin.ch/eli/fga/2021/1485)).
+[^54-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 55
 
@@ -1228,7 +1342,7 @@ Dopo aver valutato la proporzionalità del provvedimento, l’UFT può pubblicar
 
 <sup>3</sup> Nella procedura di ricorso contro le decisioni prese conformemente all’articolo 32*i* non può essere invocata l’inadeguatezza.[^56-1]
 
-[^56-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^56-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 57
 
@@ -1261,7 +1375,7 @@ A querela di parte, è punito con la multa chiunque intenzionalmente:
 
 <sup>5</sup> Il Consiglio federale può dichiarare punibili le violazioni delle disposizioni d’esecuzione o delle prescrizioni sull’uso.
 
-[^57-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^57-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 58
 
@@ -1271,8 +1385,8 @@ A querela di parte, è punito con la multa chiunque intenzionalmente:
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.[^58-2]
 
-[^58-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^58-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^58-1]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^58-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 59
 
@@ -1283,7 +1397,7 @@ I reati previsti dal Codice penale[^59-1] sono perseguiti d’ufficio se sono co
 - a. gli impiegati delle imprese titolari di una concessione o autorizzazione secondo gli articoli 6–8;
 - b. le persone incaricate di un compito in luogo degli impiegati di cui alla lettera a.
 
-[^59-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^59-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 60
 
@@ -1295,10 +1409,10 @@ I reati previsti dal Codice penale[^59-1] sono perseguiti d’ufficio se sono co
 
 <sup>3</sup> La procedura dinanzi all’UFT è retta dalla legge federale del 22 marzo 1974[^60-4] sul diritto penale amministrativo.
 
-[^60-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^60-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^60-3]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^60-4]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^60-1]: Nuovo testo giusta la cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^60-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^60-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^60-4]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 61
 
@@ -1319,8 +1433,8 @@ L’UFT e l’autorità di rilascio possono ritirare provvisoriamente o definiti
 
 <sup>5</sup> Le misure di cui ai capoversi 1–4 possono essere prese indipendentemente dall’avvio e dall’esito di un procedimento penale.[^61-2]
 
-[^61-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^61-2]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^61-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^61-2]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 62
 
@@ -1348,7 +1462,7 @@ Le autorità di polizia e penali nonché gli uffici doganali notificano all’au
 
 La legge del 18 giugno 1993[^64-1] sul trasporto viaggiatori è abrogata.
 
-[^64-1]: [[RU 1993 3128](https://fedlex.data.admin.ch/eli/oc/1993/3128_3128_3128); [1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)all. n. 6; [1998 2859](https://fedlex.data.admin.ch/eli/oc/1998/2859_2859_2859); [2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497)n. I 2; [2006 5753](https://fedlex.data.admin.ch/eli/oc/2006/853)all. n. 2]
+[^64-1]: [[RU 1993 3128](https://fedlex.data.admin.ch/eli/oc/1993/3128_3128_3128); [1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)all. n. 6; [1998 2859](https://fedlex.data.admin.ch/eli/oc/1998/2859_2859_2859); [2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497)cifra I n. 2; [2006 5753](https://fedlex.data.admin.ch/eli/oc/2006/853)all. n. 2]
 
 #### Art. 65
 
@@ -1360,7 +1474,7 @@ I consigli di amministrazione o i membri di organi analoghi che non adempiono le
 
 [^66-1]
 
-[^66-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Abrogato dal n. I della LF del 16 giu. 2017, con effetto dal 1° mar. 2018 ([RU 2018 869](https://fedlex.data.admin.ch/eli/oc/2018/116); [FF 2016 7859](https://fedlex.data.admin.ch/eli/fga/2016/2129)).
+[^66-1]: Introdotto dalla cifra I n. 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Abrogato dalla cifra I della LF del 16 giu. 2017, con effetto dal 1° mar. 2018 ([RU 2018 869](https://fedlex.data.admin.ch/eli/oc/2018/116); [FF 2016 7859](https://fedlex.data.admin.ch/eli/fga/2016/2129)).
 
 #### Art. 67
 
@@ -1370,5 +1484,5 @@ Le concessioni per impianti a fune rilasciate o rinnovate per la durata massima 
 
 Data dell’entrata in vigore: [^67-2] 1° gennaio 2010 L’art. 29 cpv. 1 lett. d entra in vigore il 1° gennaio 2012
 
-[^67-1]: Introdotto dal n. I 9 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^67-1]: Introdotto dalla cifra I n. 9 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 [^67-2]: DCF del 4 nov. 2009 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
