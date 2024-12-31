@@ -4,13 +4,12 @@ number: "751.111.1"
 title: Wasserbauverordnung
 short: WBV
 language: de
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-24
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 1989-11-15
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/751.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1915/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3091/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1915/pdf_file"
 
 (WBV)
 
-vom 15.11.1989 (Stand 01.08.2020)
+vom 15.11.1989 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -406,11 +405,11 @@ beschliesst:
 <sup>1</sup> Der Kanton gewährt seine Beiträge nur an die ausgewiesenen Kosten
 
 - a von rechtmässig ausgeführten Wasserbauwerken;
-- b von rechtmässig ausgeführten Arbeiten für den wesentlichen Unterhalt;
+- b von rechtmässig ausgeführten Arbeiten für den beitragsberechtigten Unterhalt;
 - c der Beschaffung von Grundlagen;
 - d von konzeptionellen Planungen und generellen Projekten.
 
-<sup>2</sup> Bei Unterhaltszahlungen sind Honorarforderungen beitragsberechtigt, sofern sie 4000 Franken oder 12 Prozent des Werklohns nicht übersteigen. In besonderen Fällen, die zu begründen sind, wie bei unabdingbaren und aufwendigen Begleitmassnahmen können Ausnahmen gewährt werden.
+<sup>2</sup> …
 
 <sup>3</sup> Zu keinem Beitrag berechtigen insbesondere
 
@@ -425,15 +424,13 @@ beschliesst:
 
 <sup>5</sup> Für Massnahmen zum Schutze von Bauten und Anlagen, die in ausgeschiedenen Gefahrenzonen oder bekannten Gefahrengebieten erstellt werden, wird grundsätzlich kein Beitrag gewährt.
 
-<sup>6</sup> Nicht als rechtmässig ausgeführte Arbeiten gelten insbesondere:
+<sup>6</sup> Nicht als rechtmässig ausgeführte Arbeiten gelten insbesondere
 
 - a nicht dem bewilligten Projekt gemäss ausgeführte Arbeiten sowie Mehrarbeiten, die offensichtlich auf Mängel bei der Ausführung zurückzuführen sind;
-- b Wasserbauwerke, die ohne Plangenehmigung, Wasserbaubewilligung oder besondere Bewilligung angefangen oder erstellt worden sind; Artikel 20 Absatz 3 und Artikel 33 des Wasserbaugesetzes[^29-1] bleiben vorbehalten;
+- b Wasserbauwerke, die ohne Plangenehmigung, Wasserbaubewilligung oder besondere Bewilligung angefangen oder erstellt worden sind; Artikel 20 Absatz 3 und Artikel 33 WBG bleiben vorbehalten;
 - c Gewässerunterhaltsmassnahmen, die in wesentlicher Abweichung von der Unterhaltsanzeige oder ohne besondere Bewilligung ausgeführt worden sind.
 
 <sup>7</sup> …
-
-[^29-1]: BSG 751.11
 
 #### Art. 29a
 
@@ -459,14 +456,13 @@ beschliesst:
 
 #### Art. 32
 
-**Wesentlicher Unterhalt**
+**Wesentlicher Unterhalt (Art. 37 Abs. 1a WBG)**
 
-<sup>1</sup> Der Unterhalt im Sinne von Artikel 6 WBG und den Artikeln 4 und 5 gilt als wesentlich, wenn er
+<sup>1</sup> Der Unterhalt gilt als wesentlich, wenn er
 
 - a pro Unterhaltsanzeige zu einer Subvention berechtigende Bruttokosten von mehr als 8000 Franken verursacht und
 - b notwendig ist, um
-  - 1\. das Durchflussvermögen des Gewässers zu gewährleisten,
-  - 2\. die Stabilität des Gewässerbettes oder die Funktionstüchtigkeit der Wasserbauwerke zu erhalten,
+  - 1\.–2. …
   - 3\. das Gewässer naturnäher zu gestalten,
   - 4\. den Uferweg zu erhalten, falls dieser ausschliesslich dem Gewässerunterhalt dient.
 

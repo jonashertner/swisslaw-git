@@ -4,13 +4,12 @@ number: "751.111.1"
 title: "Ordonnance sur l'aménagement des eaux *"
 short: OAE
 language: fr
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-24
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 1989-11-15
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/751.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1915/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3091/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1915/pdf_file"
 
 (OAE)
 
-du 15.11.1989 (état au 01.08.2020)
+du 15.11.1989 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -403,11 +402,11 @@ arrête:
 <sup>1</sup> Le canton n'alloue de subventions qu'en faveur des frais attestés, engendrés
 
 - a par les ouvrages hydrauliques exécutés conformément à la loi,
-- b par les travaux d'entretien majeur des eaux exécutés conformément à la loi,
+- b par les travaux d'entretien des eaux donnant droit à subvention exécutés conformément à la loi,
 - c par les études de base,
 - d par la planification conceptuelle et les projets généraux.
 
-<sup>2</sup> Les honoraires relatifs aux travaux d'entretien donnent droit à des subventions s'ils ne dépassent pas 4000 francs ou 12 pour cent du prix de l'ouvrage. Des dérogations sont possibles dans des cas particuliers qu'il convient de motiver, par exemple lors de mesures d'accompagnement indispensables et onéreuses.
+<sup>2</sup> …
 
 <sup>3</sup> Les frais suivants, notamment, ne donnent pas droit à des subventions:
 
@@ -425,12 +424,12 @@ arrête:
 <sup>6</sup> Les travaux suivants, en particulier, sont réputés ne pas avoir été exécutés conformément à la loi:
 
 - a les travaux qui n'ont pas été exécutés conformément au projet autorisé ainsi que les travaux supplémentaires manifestement nécessités par des lacunes dans l'exécution;
-- b la construction d'ouvrages hydrauliques qui a débuté ou qui a été menée à terme sans plan approuvé ni permis d'aménagement des eaux ou autorisation ou permis spécial; les articles 20, 3<sup>e</sup> alinéa et 33 de la loi sur l'aménagement des eaux[^29-1] sont réservés;
+- b la construction d'ouvrages hydrauliques qui a débuté ou qui a été menée à terme sans plan approuvé ni permis d'aménagement des eaux ou autorisation ou permis spécial; les articles 20, alinéa 3 et 33 LAE[^29-1] sont réservés;
 - c les travaux d'entretien des eaux qui ont été exécutés en contradiction grave avec les termes de l'avis d'entretien ou sans autorisation ou permis spécial.
 
 <sup>7</sup> …
 
-[^29-1]: RSB 751.11
+[^29-1]: RSB [751.11](https://www.belex.sites.be.ch/data/751.11/fr)
 
 #### Art. 29a
 
@@ -454,14 +453,13 @@ arrête:
 
 #### Art. 32
 
-**Entretien majeur**
+**Entretien majeur (art. 37, al. 1a LAE)**
 
-<sup>1</sup> L'entretien au sens de l'article 6 LAE et des articles 4 et 5 est majeur si
+<sup>1</sup> L'entretien est majeur si
 
 - a par avis d'entretien, il engendre des frais subventionnables bruts supérieurs à 8000 francs et
 - b il est indispensable pour
-  - 1\. garantir la capacité d'écoulement des eaux,
-  - 2\. préserver la stabilité du lit des eaux ou l'efficacité des ouvrages hydrauliques,
+  - 1\.–2. …
   - 3\. aménager les eaux dans un état plus proche du naturel,
   - 4\. préserver le chemin de rive lorsque ce dernier sert exclusivement à l'entretien des eaux.
 
