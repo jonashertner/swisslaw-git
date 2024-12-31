@@ -4,13 +4,12 @@ number: "822.1"
 title: Kantonales Arbeitsgesetz
 short: kArG
 language: de
-version: 2021-01-01
-corrected: 2021-05-31
-version_adopted: 2019-12-12
+version: 2025-01-01
+version_adopted: 2023-11-16
 adopted: 2016-05-12
 in_force: 2016-10-01
 url: "https://lex.vs.ch/app/de/texts_of_law/822.1"
-pdf: "https://lex.vs.ch/api/de/versions/2789/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3363/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2789/pdf_file"
 
 (kArG)
 
-vom 12.05.2016 (Stand 01.01.2021)
+vom 12.05.2016 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -479,7 +478,7 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Die Tätigkeit der Schlichtungsbehörde wird durch die Artikel 197 und folgende ZPO geregelt.
 
-<sup>3</sup> Die Schlichtungsbehörde entscheidet über ihre Zuständigkeit (Art. 59 ZPO) sowie über Gesuche um unentgeltliche Rechtspflege und über Beweismittel in den Fällen, in denen sie für den Urteilsvorschlag oder Entscheid zuständig ist (Art. 210 und 212 ZPO).
+<sup>3</sup> Die Schlichtungsbehörde entscheidet über ihre Zuständigkeit (Art. 59 ZPO) sowie über Gesuche um unentgeltliche Rechtspflege und über Beweismittel in den Fällen, in denen sie zuständig ist, einen Entscheid zu treffen oder vorzuschlagen (Art. 210 und 212 ZPO).
 
 ### 5.1.1 Kantonale Schlichtungskommission für Streitigkeiten nach dem Gleichstellungsgesetz
 
@@ -593,9 +592,9 @@ verordnet:[^ingress-1]
 
 #### Art. 46
 
-**Fristwahrung**
+**Fristenlauf und Veröffentlichung**
 
-<sup>1</sup> Das Gesetz über die Rechtspflege ist für die Fristenberechnung anwendbar.
+<sup>1</sup> Das Gesetz über die Rechtspflege ist für die Fristenlauf und die Veröffentlichung anwendbar.
 
 #### Art. 47
 

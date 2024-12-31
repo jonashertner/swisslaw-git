@@ -4,13 +4,12 @@ number: "822.1"
 title: Loi cantonale sur le travail
 short: LcTr
 language: fr
-version: 2021-01-01
-corrected: 2021-05-31
-version_adopted: 2019-12-12
+version: 2025-01-01
+version_adopted: 2023-11-16
 adopted: 2016-05-12
 in_force: 2016-10-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/822.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2789/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3363/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2789/pdf_file"
 
 (LcTr)
 
-du 12.05.2016 (état 01.01.2021)
+du 12.05.2016 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -479,7 +478,7 @@ ordonne:[^ingress-1]
 
 <sup>2</sup> L'activité de l'Autorité de conciliation est régie par les articles 197 et suivants du CPC.
 
-<sup>3</sup> L'Autorité de conciliation rend des décisions sur sa compétence (art. 59 CPC) et statue sur les demandes d'assistance judiciaire et sur les moyens de preuve, dans les affaires où elle est compétente pour rendre ou proposer un jugement (art. 210 et 212 CPC).
+<sup>3</sup> L'Autorité de conciliation rend des décisions sur sa compétence (art. 59 CPC) et statue sur les demandes d'assistance judiciaire et sur les moyens de preuve, dans les affaires où elle est compétente pour rendre ou proposer une décision (art. 210 et 212 CPC).
 
 ### 5.1.1 Commission cantonale de conciliation pour les litiges relevant de la loi sur l'égalité
 
@@ -593,9 +592,9 @@ ordonne:[^ingress-1]
 
 #### Art. 46
 
-**Computation des délais**
+**Computation des délais et publication**
 
-<sup>1</sup> La loi sur l'organisation de la justice est applicable pour la computation des délais.
+<sup>1</sup> La loi sur l'organisation de la justice est applicable pour la computation des délais et la publication.
 
 #### Art. 47
 
