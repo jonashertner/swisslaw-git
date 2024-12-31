@@ -3,35 +3,35 @@ canton: VS
 number: "811.110"
 title: Beschluss über die Befugnisse von Bezirksärztinnen und Bezirksärzten
 language: de
-version: 2014-09-05
-corrected: 2017-10-06
-version_adopted: 2014-08-27
+version: 2025-01-01
+version_adopted: 2025-01-15
 adopted: 2014-08-27
 in_force: 2014-09-05
 url: "https://lex.vs.ch/app/de/texts_of_law/811.110"
-pdf: "https://lex.vs.ch/api/de/versions/234/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3461/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Befugnisse von Bezirksärztinnen und Bezirksärzten
 
-vom 27. August 2014
+vom 27.08.2014 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
-ingesehen Artikel 57 Absatz 3 der Verfassung des Kantons Wallis vom 8. März 1907;
+ingesehen Artikel 57 Absatz 3 der Verfassung des Kantons Wallis;
 
-eingesehen das Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen vom 18. Dezember 1970 (Epidemiengesetz); eingesehen Artikel 8 Absatz 2 des Gesundheitsgesetzes vom 14. Februar 2008;
+eingesehen das Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen vom 28. September 2012 (Epidemiengesetz, EpG);
 
-eingesehen Artikel 4 der Verordnung über die Bekämpfung von übertragbaren Krankheiten vom 4. März 2009;
+eingesehen Artikel 10 Absatz 2 des Gesundheitsgesetzes vom 12. März 2020;
 
-eingesehen Artikel 4, 5, 7, 8, 9 und 10 Absatz 5 der Verordnung über die Todesfeststellung und die Eingriffe an Leichen vom 17. März 1999;
+eingesehen Artikel 6 der Verordnung über die Bekämpfung von übertragbaren Krankheiten vom 17. Februar 2016;
 
-eingesehen Artikel 253 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007;
+eingesehen Artikel 5, 6, 8, 9 und 10 der Verordnung über die Todesfeststellung und die Eingriffe an Leichen vom 27. August 2014 (VTF);
 
-auf Antrag des Departements für Gesundheit, Soziales und Kultur,
+eingesehen Artikel 253 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO);
+
+auf Antrag des für die Gesundheit zuständigen Departements,
 
 beschliesst:
 
@@ -41,9 +41,9 @@ beschliesst:
 
 <sup>2</sup> Ein Bezirksarzt oder eine Bezirksärztin kann für mehrere Bezirke zuständig sein.
 
-<sup>3</sup> Er oder sie muss gemäss Bundesgesetzgebung und den Vorgaben des rechtsmedizinischen Dienstes der Walliser Staatsanwaltschaft eine Weiterbildung in Rechtsmedizin absolvieren.
+<sup>3</sup> …
 
-<sup>4</sup> Der Staat haftet subsidiär für seine bzw. ihre Amtshandlungen.
+<sup>4</sup> Der Staat haftet subsidiär für seine beziehungsweise ihre Amtshandlungen.
 
 #### Art. 2
 
@@ -57,23 +57,29 @@ beschliesst:
 
 <sup>1</sup> Die Bezirksärztinnen und Bezirksärzte arbeiten mit der Dienststelle für Gesundheitswesen zusammen.
 
-<sup>2</sup> Im Rahmen der bezirksärztlichen Tätigkeiten ist er oder sie an die von der Walliser Staatsanwaltschaft und dem rechtsmedizinischen Dienst vorgeschriebenen Richtlinien gebunden.
+<sup>2</sup> Zur Erfüllung rechtsmedizinischer Aufgaben kann der Kantonsarzt der Abteilung für Rechtsmedizin des Zentralinstituts der Spitäler (ZIS), die Bezirksärzte zur Verfügung stellen
+
+<sup>3</sup> Im Falle eines aussergewöhnlichen oder gewaltsamen Todes (unnatürlicher Tod) oder eines Todes unbekannter Ursache (unklare Todesart), kann die Staatsanwaltschaft die Abteilung für Rechtsmedizin des ZIS anfordern, welche in Ausnahmefällen bestimmte Aufgaben an die Bezirksärzte delegieren kann.
+
+<sup>4</sup> Im Falle eines assistierten Suizids bietet die Staatsanwaltschaft vorrangig die Bezirksärzte für die Feststellung des Todes und die Legalinspektion vor Ort auf.
+
+<sup>5</sup> Bei jeder durch die zuständige Strafverfolgungsbehörde beauftragten Untersuchung, Legalinspektion und äussere Leichenschau, muss ein schriftlicher Bericht an die Staatsanwaltschaft und die Abteilung für Rechtsmedizin des ZIS gesendet werden.
 
 #### Art. 4
 
-Auf Antrag des Kantonsarztes oder der Kantonsärztin treffen oder veranlassen die Bezirksärztinnen und Bezirksärzte Sofortmassnahmen zum Schutz der öffentlichen Gesundheit insbesondere bei Katastrophen, übertragbaren Krankheiten, Vergiftungsfällen sowie bei Verdacht auf Verunreinigung der Trinkwasserversorgung.
+<sup>1</sup> Auf Antrag des Kantonsarztes oder der Kantonsärztin treffen oder veranlassen die Bezirksärztinnen und Bezirksärzte Sofortmassnahmen zum Schutz der öffentlichen Gesundheit insbesondere bei Katastrophen, übertragbaren Krankheiten, Vergiftungsfällen sowie bei Verdacht auf Verunreinigung der Trinkwasserversorgung.
 
 #### Art. 5
 
-Die Bezirksärztinnen und Bezirksärzte arbeiten im Bereich der Meldung und Bekämpfung von übertragbaren Krankheiten mit dem Kantonsarzt oder der Kantonsärztin und der Abteilung für Infektionskrankheiten des Zentralinstituts der Walliser Spitäler (ZIWS) zusammen.
+<sup>1</sup> Die Bezirksärztinnen und Bezirksärzte arbeiten im Bereich der Meldung und Bekämpfung von übertragbaren Krankheiten mit dem Kantonsarzt oder der Kantonsärztin und der kantonalen Abteilung für Infektionskrankheiten des ZIS zusammen.
 
 #### Art. 6
 
-Die Bezirksärztinnen und Bezirksärzte arbeiten bei Todesfeststellungen und Autopsien mit dem Kantonsarzt oder der Kantonsärztin und dem rechtsmedizinischen Dienst des Zentralinstituts der Walliser Spitäler (ZIWS) zusammen.
+<sup>1</sup> Die Bezirksärztinnen und Bezirksärzte arbeiten bei Todesfeststellungen und Autopsien mit dem Kantonsarzt oder der Kantonsärztin, und mit dessen Zustimmung mit der rechtsmedizinischen Abteilung des ZIS.
 
 #### Art. 7
 
-Die Dienststelle für Gesundheitswesen kann den Bezirksärztinnen und Bezirksärzten weitere Aufgaben wie Untersuchungen, Kontrollen und/oder Gutachten übertragen.
+<sup>1</sup> Die Dienststelle für Gesundheitswesen kann den Bezirksärztinnen und Bezirksärzten weitere Aufgaben wie Untersuchungen, Kontrollen und/oder Gutachten übertragen.
 
 #### Art. 8
 
@@ -85,19 +91,19 @@ Die Dienststelle für Gesundheitswesen kann den Bezirksärztinnen und Bezirksär
 
 #### Art. 9
 
-Der Kantonsarzt oder die Kantonsärztin kann den Bezirksärztinnen und Bezirksärzten namentlich bei der Bekämpfung von übertragbaren Krankheiten in Anwendung der Bestimmungen des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen vom 28. September 2012 (Epidemiengesetz) besondere Kompetenzen übertragen.
+<sup>1</sup> Der Kantonsarzt oder die Kantonsärztin kann den Bezirksärztinnen und Bezirksärzten namentlich bei der Bekämpfung von übertragbaren Krankheiten in Anwendung der Bestimmungen des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen vom 28. September 2012 (Epidemiengesetz, EpG) sowie für einige Aufgaben bei rechtsmedizinischen Angelegenheiten, besondere Kompetenzen übertragen.
 
 #### Art. 10
 
-Bei einer längeren Abwesenheit kann sich der Bezirksarzt bzw. die Bezirksärztin im Einvernehmen mit dem Kantonsarzt bzw. der Kantonsärztin von einem Arzt oder einer Ärztin vertreten lassen, der oder die über eine Berufsausübungsbewilligung verfügt und auf Bezirks- oder Kantonsgebiet tätig ist.
+<sup>1</sup> Bei einer längeren Abwesenheit kann sich der Bezirksarzt bzw. die Bezirksärztin im Einvernehmen mit dem Kantonsarzt beziehungsweise der Kantonsärztin von einem Arzt oder einer Ärztin vertreten lassen, der oder die über eine Berufsausübungsbewilligung verfügt und auf Bezirks- oder Kantonsgebiet tätig ist.
 
 #### Art. 11
 
-Der Kantonsarzt bzw. die Kantonsärztin kann die Bezirksärzte und Bezirksärztinnen in besonderen Lagen einberufen.
+<sup>1</sup> Der Kantonsarzt beziehungsweise die Kantonsärztin kann die Bezirksärzte und Bezirksärztinnen in besonderen Lagen einberufen.
 
 #### Art. 12
 
-Die Bezirksärztinnen und Bezirksärzte werden gemäss geltendem Staatsratsbeschluss über die Tarife der Experten entschädigt.
+<sup>1</sup> Die Bezirksärztinnen und Bezirksärzte werden gemäss geltendem Staatsratsbeschluss über die Tarife der Experten entschädigt.
 
 #### Art. 13
 
@@ -107,14 +113,4 @@ Die Bezirksärztinnen und Bezirksärzte werden gemäss geltendem Staatsratsbesch
 
 <sup>2</sup> Das Departement wird mit dem Vollzug des vorliegenden Beschlusses beauftragt und tritt mit der Veröffentlichung im Amtsblatt in Kraft.
 
-So beschlossen im Staatsrat zu Sitten, am 27. August 2014.
-
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**05.09.14**
-
-Beschluss über die Befugnisse von Abl. Nr. 36/2014
-
-### Bezirksärztinnen und Bezirksärzten vom 27. August 2014
+CSW BO/Abl. 36/2014
