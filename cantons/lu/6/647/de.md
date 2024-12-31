@@ -4,13 +4,12 @@ number: "647"
 title: Gesetz über die Grundstückgewinnsteuer
 short: GGStG
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-02-18
+version: 2025-01-01
+version_adopted: 2024-03-18
 adopted: 1961-10-31
 in_force: 1962-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/647"
-pdf: "https://srl.lu.ch/api/de/versions/3500/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3500/pdf_file"
 
 (GGStG)
 
-vom 31.10.1961 (Stand 01.01.2020)
+vom 31.10.1961 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -162,7 +161,7 @@ beschliesst:
 
 **Anrechnungen zum Erwerbspreis a. Abzüge**
 
-<sup>1</sup> Vom Erwerbspreis wird abgezogen das Entgelt für Errichtung einer Dienstbarkeit oder Grundlast auf dem Grundstück oder für den Verzicht auf eine Dienstbarkeit oder Grundlast zugunsten des Grundstücks.
+<sup>1</sup> …
 
 #### § 13
 
@@ -561,7 +560,7 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinden sind dem Kanton für die rechtzeitige Veranlagung, den richtigen Bezug und die rechtzeitige Ablieferung der Steuern verantwortlich. Sie haften unmittelbar für schuldhafte Handlungen und Unterlassungen der damit beauftragten Gemeindeorgane.
 
-<sup>2</sup> Die eingegangenen Steuerbeträge sind von den Gemeinden auf Jahresende der Staatskasse zu überweisen. Übersteigen die eingegangenen Steuerbeträge insgesamt 50 000 Franken, sind sie innert Monatsfrist zu überweisen. Das Finanzdepartement kann ergänzende Bestimmungen erlassen. Es ist insbesondere befugt, diesen Betrag periodisch der Geldwertveränderung anzupassen.
+<sup>2</sup> Der am Monatsende bestehende Saldo der Steuerbeträge ist innert 15 Tagen an den Kanton zu überweisen. Bei verspäteter Ablieferung wird ein vom Regierungsrat festgelegter Zins erhoben.
 
 <sup>3</sup> Bei verspäteter Ablieferung wird ein Verzugszins erhoben.
 
