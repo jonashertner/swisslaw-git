@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20240101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20240101-it-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20250101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20250101-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° gennaio 2024)
+del 10 dicembre 1907 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -23,7 +23,7 @@ visto l’articolo 64 della Costituzione federale[^ingress-1] (Cost.);[^ingress-
 
 decreta:
 
-[^ingress-1]: [CS **1** 3]. A questa disp. corrisponde ora l’art. 122 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [CS **1** 3]. A questa disp. corrisponde ora l’art. 122 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
 
 ## Titolo preliminare
@@ -86,7 +86,7 @@ Il giudice è tenuto a decidere secondo il diritto e l’equità quando la legge
 
 Le disposizioni generali del Codice delle obbligazioni[^7-1] relative alla conclusione, all’adempimento ed alla risoluzione dei contratti sono applicabili anche ad altri rapporti di diritto civile.
 
-[^7-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### E. Prove
 
@@ -108,7 +108,7 @@ Ove la legge non disponga altrimenti, chi vuol dedurre il suo diritto da una cir
 
 [^10-1]
 
-[^10-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^10-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ## Libro primo: Del diritto delle persone
 
@@ -150,7 +150,7 @@ Chi è maggiorenne e capace di discernimento ha l’esercizio dei diritti civili
 
 È maggiorenne chi ha compiuto gli anni 18.
 
-[^14-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^14-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### c. …
 
@@ -158,7 +158,7 @@ Chi è maggiorenne e capace di discernimento ha l’esercizio dei diritti civili
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I 1 della LF del 7 ott. 1994, con effetto dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
+[^15-1]: Abrogato dalla cifra I n. 1 della LF del 7 ott. 1994, con effetto dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 
 ### d. Capacità di discernimento
 
@@ -168,7 +168,7 @@ Chi è maggiorenne e capace di discernimento ha l’esercizio dei diritti civili
 
 È capace di discernimento, nel senso di questa legge, qualunque persona che non sia priva della capacità di agire ragionevolmente per effetto della sua età infantile o di disabilità mentale, turba psichica, ebbrezza o stato consimile.
 
-[^16-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^16-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### III. Incapacità d’agire
 
@@ -180,7 +180,7 @@ Chi è maggiorenne e capace di discernimento ha l’esercizio dei diritti civili
 
 Le persone incapaci di discernimento, i minorenni e le persone sotto curatela generale non hanno l’esercizio dei diritti civili.
 
-[^17-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^17-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 2. Mancanza di discernimento
 
@@ -194,7 +194,7 @@ Gli atti di chi è incapace di discernimento non producono alcun effetto giuridi
 
 [^book1-tit1-chap1-lvlA-lvlIII-lvl3-lvla-1]
 
-[^book1-tit1-chap1-lvlA-lvlIII-lvl3-lvla-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book1-tit1-chap1-lvlA-lvlIII-lvl3-lvla-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 19
 
@@ -204,9 +204,9 @@ Gli atti di chi è incapace di discernimento non producono alcun effetto giuridi
 
 <sup>3</sup> Essi sono tenuti a risarcire i danni cagionati con atti illeciti.[^19-3]
 
-[^19-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^19-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^19-3]: Nuovo testo giusta il n. I 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^19-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^19-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^19-3]: Nuovo testo giusta la cifra I n. 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 
 ### b. Consenso del rappresentante legale
 
@@ -218,7 +218,7 @@ Gli atti di chi è incapace di discernimento non producono alcun effetto giuridi
 
 <sup>2</sup> L’altra parte è liberata se la ratifica non interviene entro un congruo termine che può fissare essa stessa o far fissare dal giudice.
 
-[^19a-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^19a-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### c. Difetto di ratifica
 
@@ -230,7 +230,7 @@ Gli atti di chi è incapace di discernimento non producono alcun effetto giuridi
 
 <sup>2</sup> Se la persona che non ha l’esercizio dei diritti civili ha indotto l’altra parte a credere erroneamente il contrario, essa risponde del danno che le ha cagionato in tal modo.
 
-[^19b-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^19b-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 4. Diritti strettamente personali
 
@@ -242,7 +242,7 @@ Gli atti di chi è incapace di discernimento non producono alcun effetto giuridi
 
 <sup>2</sup> Il rappresentante legale agisce in nome delle persone incapaci di discernimento, sempre che un diritto non sia tanto strettamente connesso con la personalità da escludere ogni rappresentanza.
 
-[^19c-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^19c-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### III<sup>bis</sup>. Limitazione dell’esercizio dei diritti civili
 
@@ -252,7 +252,7 @@ Gli atti di chi è incapace di discernimento non producono alcun effetto giuridi
 
 L’esercizio dei diritti civili può essere limitato da una misura di protezione degli adulti.
 
-[^19d-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^19d-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### IV. Parentela e affinità
 
@@ -264,7 +264,7 @@ L’esercizio dei diritti civili può essere limitato da una misura di protezion
 
 <sup>2</sup> Due persone sono fra loro parenti in linea retta se una discende dall’altra; sono parenti in linea collaterale se discendono da un autore comune, ma non l’una dall’altra.
 
-[^20-1]: Nuovo testo giusta il n. I 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^20-1]: Nuovo testo giusta la cifra I n. 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 
 ### 2. Affinità
 
@@ -302,7 +302,7 @@ L’esercizio dei diritti civili può essere limitato da una misura di protezion
 
 <sup>3</sup> Questa disposizione non si applica al domicilio d’affari.
 
-[^23-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^23-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### b. Cambiamento di domicilio o dimora
 
@@ -316,7 +316,7 @@ L’esercizio dei diritti civili può essere limitato da una misura di protezion
 
 [^book1-tit1-chap1-lvlA-lvlV-lvl2-lvlc-1]
 
-[^book1-tit1-chap1-lvlA-lvlV-lvl2-lvlc-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book1-tit1-chap1-lvlA-lvlV-lvl2-lvlc-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 25
 
@@ -326,8 +326,8 @@ L’esercizio dei diritti civili può essere limitato da una misura di protezion
 
 <sup>2</sup> Il domicilio dei minorenni sotto tutela è nella sede dell’autorità di protezione dei minori.[^25-2]
 
-[^25-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^25-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^25-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^25-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### d. Domicilio dei maggiorenni sotto curatela generale
 
@@ -337,7 +337,7 @@ L’esercizio dei diritti civili può essere limitato da una misura di protezion
 
 Il domicilio dei maggiorenni sotto curatela generale è nella sede dell’autorità di protezione degli adulti.
 
-[^26-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^26-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### B. Protezione della personalità
 
@@ -361,7 +361,7 @@ Il domicilio dei maggiorenni sotto curatela generale è nella sede dell’autori
 
 <sup>2</sup> La lesione è illecita quando non è giustificata dal consenso della persona lesa, da un interesse preponderante pubblico o privato, oppure dalla legge.
 
-[^28-1]: Nuovo testo giusta il n. I del LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
+[^28-1]: Nuovo testo giusta la cifra I del LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
 ### 2. Azioni
 
@@ -369,7 +369,7 @@ Il domicilio dei maggiorenni sotto curatela generale è nella sede dell’autori
 
 [^book1-tit1-chap1-lvlB-lvlII-lvl2-lvla-1]
 
-[^book1-tit1-chap1-lvlB-lvlII-lvl2-lvla-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
+[^book1-tit1-chap1-lvlB-lvlII-lvl2-lvla-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
 
 #### Art. 28a
 
@@ -387,7 +387,7 @@ L’attore può chiedere al giudice:
 
 <sup>3</sup> Sono fatte salve le azioni di risarcimento del danno, di riparazione morale e di consegna dell’utile conformemente alle disposizioni sulla gestione d’affari senza mandato.
 
-[^28a-1]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
+[^28a-1]: Introdotto dalla cifra I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
 ### b. Violenza, minacce o insidie
 
@@ -416,8 +416,8 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>4</sup> I Cantoni designano un servizio che può decidere l’allontanamento immediato dell’autore della lesione dall’abitazione comune in caso di crisi e disciplinano la procedura.
 
-[^28b-1]: Introdotto dal n. I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Nuovo testo giusta il n. I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
-[^28b-2]: Introdotto dal n. I 1 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^28b-1]: Introdotto dalla cifra I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Nuovo testo giusta la cifra I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
+[^28b-2]: Introdotto dalla cifra I n. 1 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 ### c. Sorveglianza elettronica
 
@@ -433,7 +433,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>4</sup> All’attore non è addebitato alcun costo derivante dall’esecuzione della misura. I costi della misura possono essere posti a carico della persona sorvegliata.
 
-[^28c-1]: Introdotto dal n. I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Nuovo testo giusta il n. I 1 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° gen. 2022 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^28c-1]: Introdotto dalla cifra I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Nuovo testo giusta la cifra I n. 1 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° gen. 2022 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 ### 3. …
 
@@ -441,7 +441,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 [^28d28f-1]
 
-[^28d28f-1]: Introdotti dal n. I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Abrogati dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^28d28f-1]: Introdotti dalla cifra I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Abrogati dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 4. Diritto di risposta
 
@@ -449,7 +449,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 [^book1-tit1-chap1-lvlB-lvlII-lvl4-lvla-1]
 
-[^book1-tit1-chap1-lvlB-lvlII-lvl4-lvla-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
+[^book1-tit1-chap1-lvlB-lvlII-lvl4-lvla-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
 
 #### Art. 28g
 
@@ -459,7 +459,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>2</sup> Il diritto di risposta non sussiste nel caso di un resoconto fedele di un pubblico dibattito di un’autorità al quale l’interessato ha partecipato.
 
-[^28g-1]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
+[^28g-1]: Introdotto dalla cifra I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
 ### b. Forma e contenuto
 
@@ -471,7 +471,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>2</sup> La risposta può essere rifiutata se è manifestamente inesatta o contraria alla legge o ai buoni costumi.
 
-[^28h-1]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
+[^28h-1]: Introdotto dalla cifra I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
 ### c. Procedura
 
@@ -483,7 +483,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>2</sup> L’impresa comunica senza indugio all’interessato quando diffonderà la risposta o perché la rifiuta.
 
-[^28i-1]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
+[^28i-1]: Introdotto dalla cifra I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
 ### d. Diffusione
 
@@ -497,7 +497,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>3</sup> La diffusione della risposta è gratuita.
 
-[^28k-1]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
+[^28k-1]: Introdotto dalla cifra I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
 ### e. Intervento del giudice
 
@@ -509,11 +509,11 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>2</sup> …[^28l-2]
 
-<sup>3</sup> e <sup>4</sup> ...[^28l-3]
+<sup>3 e <sup>4</sup></sup> ...[^28l-3]
 
-[^28l-1]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
+[^28l-1]: Introdotto dalla cifra I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 [^28l-2]: Abrogato dall’all. n. 2 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
-[^28l-3]: Abrogati dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^28l-3]: Abrogati dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### III. Diritto a nome
 
@@ -531,7 +531,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 [^book1-tit1-chap1-lvlB-lvlIII-lvl2-lvla-1]
 
-[^book1-tit1-chap1-lvlB-lvlIII-lvl2-lvla-1]: Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^book1-tit1-chap1-lvlB-lvlIII-lvl2-lvla-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 #### Art. 30
 
@@ -541,8 +541,8 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>3</sup> Chi da tale cambiamento fosse pregiudicato nei suoi diritti può contestarlo davanti al giudice, entro un anno da quando ne ebbe conoscenza.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
-[^30-2]: Abrogato dal n. I della LF del 30 set. 2011 (Cognome e cittadinanza), con effetto dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^30-2]: Abrogato dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), con effetto dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### b. In caso di morte di un coniuge
 
@@ -552,7 +552,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 In caso di morte di un coniuge, il coniuge superstite, se ha cambiato cognome in occasione del matrimonio, può dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
 
-[^30a-1]: Introdotto dal n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^30a-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### IV. In relazione al sesso
 
@@ -574,7 +574,7 @@ Occorre il consenso del rappresentante legale se:
 - 2\. il dichiarante è sotto curatela generale; o
 - 3\. l’autorità di protezione degli adulti lo ha ordinato.
 
-[^30b-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cambiamento del sesso nel registro dello stato civile), in vigore dal 1° gen. 2022 ([RU 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [FF 2020 737](https://fedlex.data.admin.ch/eli/fga/2020/129)).
+[^30b-1]: Introdotto dalla cifra I della LF del 18 dic. 2020 (Cambiamento del sesso nel registro dello stato civile), in vigore dal 1° gen. 2022 ([RU 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [FF 2020 737](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### C. Principio e fine della personalità
 
@@ -650,13 +650,13 @@ L’istanza cade se, entro il termine indicato, la persona sparita od assente si
 
 <sup>3</sup> La dichiarazione della scomparsa scioglie il matrimonio.[^38-1]
 
-[^38-1]: Introdotto dal n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^38-1]: Introdotto dalla cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### Capo secondo: Degli atti dello stato civile
 
 [^book1-tit1-chap2-1]
 
-[^book1-tit1-chap2-1]: Nuovo testo giusta il n. I 1 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^book1-tit1-chap2-1]: Nuovo testo giusta la cifra I n. 1 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### A. Registro
 
@@ -678,13 +678,13 @@ Lo stato civile comprende in particolare i dati seguenti:
 - 4\. i diritti di attinenza cantonali e comunali;
 - 5\. la cittadinanza nazionale.
 
-[^39-1]: Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^39-1]: Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
 
 ### II. Obbligo di notificazione
 
 [^book1-tit1-chap2-lvlA-lvlII-1]
 
-[^book1-tit1-chap2-lvlA-lvlII-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^book1-tit1-chap2-lvlA-lvlII-1]: Nuovo testo giusta la cifra I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
 #### Art. 40
 
@@ -694,7 +694,7 @@ Lo stato civile comprende in particolare i dati seguenti:
 
 <sup>3</sup> …[^40-1]
 
-[^40-1]: Abrogato dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), con effetto dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^40-1]: Abrogato dalla cifra I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), con effetto dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
 ### III. Prova di dati non controversi
 
@@ -747,22 +747,26 @@ Hanno accesso mediante procedura di richiamo ai dati necessari alla verifica del
 - 7\.[^43a-13] il servizio federale competente per la tenuta del registro centrale degli assicurati di cui all’articolo 71 capoverso 4 lettera a della legge federale del 20 dicembre 1946[^43a-14] sull’assicurazione per la vecchiaia e per i superstiti;
 - 8\.[^43a-15] i servizi federali competenti per la gestione del registro degli Svizzeri all’estero di cui all’articolo 4 capoverso 1 della legge federale del 24 marzo 2000[^43a-16] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri.
 
-[^43a-1]: Introdotto dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
-[^43a-2]: Introdotto dal n. I 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^43a-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+<sup>5</sup> Il servizio federale competente per la gestione del sistema d’informazione di cui all’articolo 21*a* della legge del 25 settembre 1952[^43a-17] sulle indennità di perdita di guadagno ha accesso mediante procedura di richiamo ai dati necessari per l’accertamento dell’esistenza di legami di filiazione.[^43a-18]
+
+[^43a-1]: Introdotto dalla cifra I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^43a-2]: Introdotto dalla cifra I n. 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^43a-3]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 [^43a-4]: Nuovo testo giusta l’all. 1 n. 4 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^43a-5]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^43a-5]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^43a-6]: Nuovo testo giusta l’all. 1 n. 2 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^43a-7]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^43a-7]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^43a-8]: Attualmente l’Ufficio federale di polizia.
-[^43a-9]: Introdotto dall’all. n. II 4 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^43a-10]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^43a-11]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-12]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^43a-13]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-14]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43a-15]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-16]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^43a-9]: Introdotto dall’all. cifra II n. 4 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^43a-10]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^43a-11]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-12]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
+[^43a-13]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-14]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^43a-15]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-16]: [RS 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^43a-17]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^43a-18]: Introdotto dall’all. n 1 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 ### B. Organizzazione
 
@@ -802,7 +806,7 @@ Questa autorità ha in particolare le seguenti incombenze:
 <sup>3</sup> La Confederazione esercita l’alta vigilanza. Può impugnare le decisioni degli ufficiali dello stato civile e delle autorità di vigilanza mediante i rimedi giuridici cantonali.[^45-2]
 
 [^45-1]: Nuovo testo giusta l’all. n. 8 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^45-2]: Nuovo testo giusta il n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^45-2]: Nuovo testo giusta la cifra I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
 ### I*a*. Sistema centrale d’informazione sulle persone
 
@@ -831,8 +835,8 @@ Con la partecipazione dei Cantoni, il Consiglio federale disciplina:
 
 <sup>6</sup> Il Consiglio federale può prescrivere che i costi delle prestazioni fornite a terzi per scopi non inerenti allo stato civile siano loro addebitati.
 
-[^45a-1]: Introdotto dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)). Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^45a-2]: Nuovo testo giusta l’all. 1 n. II 16 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^45a-1]: Introdotto dalla cifra I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)). Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^45a-2]: Nuovo testo giusta l’all. 1 cifra II n. 16 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### II. Responsabilità
 
@@ -844,7 +848,7 @@ Con la partecipazione dei Cantoni, il Consiglio federale disciplina:
 
 <sup>3</sup> Alle persone impiegate dalla Confederazione si applica la legge del 14 marzo 1958 sulla responsabilità[^46-1].
 
-[^46-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^46-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### III. Misure disciplinari
 
@@ -886,10 +890,10 @@ Determina a quali condizioni è possibile procedere per via elettronica:
 - 3\. alla notificazione di comunicazioni e al rilascio di estratti dei registri.[^48-5]
 
 [^48-1]: Nuova espr. giusta l’all. n. 2 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^48-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^48-3]: Nuovo testo giusta l’all. n. 2 della L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 [^48-4]: Nuovo testo giusta l’all. n. 8 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^48-5]: Introdotto dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^48-5]: Introdotto dalla cifra I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
 ### II. Diritto cantonale
 
@@ -903,7 +907,7 @@ Determina a quali condizioni è possibile procedere per via elettronica:
 
 #### Art. 50 e 51
 
-Abrogati
+*Abrogati*
 
 ### Titolo secondo: Delle persone giuridiche
 
@@ -919,7 +923,7 @@ Abrogati
 
 <sup>3</sup> Le unioni di persone e gli istituti che si propongono uno scopo illecito od immorale non possono ottenere la personalità.
 
-[^52-1]: Nuovo testo giusta il n. I 1 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^52-1]: Nuovo testo giusta la cifra I n. 1 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### B. Godimento dei diritti civili
 
@@ -967,8 +971,8 @@ La sede delle persone giuridiche, salvo diversa disposizione degli statuti, è n
 
 <sup>3</sup> Qualora una persona giuridica venga sciolta perché si propone un fine immorale o illecito, il patrimonio decade a favore degli enti pubblici nonostante ogni contraria disposizione.[^57-2]
 
-[^57-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^57-2]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^57-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^57-2]: Nuovo testo giusta la cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
 ### II. Liquidazione
 
@@ -1127,7 +1131,7 @@ Nelle risoluzioni sociali concernenti un interesse privato od una controversia g
 La direzione tiene i libri di commercio dell’associazione. Le disposizioni del Codice delle obbligazioni[^69a-2] concernenti la contabilità commerciale e la presentazione dei conti si applicano per analogia.
 
 [^69a-1]: Introdotto dall’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)). Nuovo testo giusta l’all. n. 1 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^69a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Ufficio di revisione
 
@@ -1150,8 +1154,8 @@ L’associazione deve far verificare la sua contabilità mediante revisione ordi
 <sup>4</sup> Negli altri casi, gli statuti e l’assemblea sociale[^69b-3] possono disciplinare liberamente la revisione.
 
 [^69b-1]: Introdotto dall’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^69b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^69b-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParL; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^69b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^69b-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParL; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### IV. Lacune nell’organizzazione
 
@@ -1200,7 +1204,7 @@ Alle associazioni tenute a farsi iscrivere nel registro di commercio si applican
 
 Se gli statuti lo prevedono, i soci possono essere tenuti a versare contributi.
 
-[^71-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004 (Determinazione dei contributi dei membri di associazioni), in vigore dal 1° giu. 2005 ([RU 2005 2117](https://fedlex.data.admin.ch/eli/oc/2005/344); [FF 2004 4277](https://fedlex.data.admin.ch/eli/fga/2004/850)[4285](https://fedlex.data.admin.ch/eli/fga/2004/852)).
+[^71-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2004 (Determinazione dei contributi dei membri di associazioni), in vigore dal 1° giu. 2005 ([RU 2005 2117](https://fedlex.data.admin.ch/eli/oc/2005/344); [FF 2004 4277](https://fedlex.data.admin.ch/eli/fga/2004/850)[4285](https://fedlex.data.admin.ch/eli/fga/2004/852)).
 
 ### III. Esclusione
 
@@ -1240,7 +1244,7 @@ Ogni socio ha, per legge, il diritto di contestare davanti al giudice le risoluz
 
 Il patrimonio sociale risponde delle obbligazioni dell’associazione. Salvo disposizione contraria degli statuti, tale responsabilità è esclusiva.
 
-[^75a-1]: Introdotto dal n. I della LF del 17 dic. 2004 (Determinazione dei contributi dei membri di associazioni), in vigore dal 1° giu. 2005 ([RU 2005 2117](https://fedlex.data.admin.ch/eli/oc/2005/344); [FF 2004 4277](https://fedlex.data.admin.ch/eli/fga/2004/850)[4285](https://fedlex.data.admin.ch/eli/fga/2004/852)).
+[^75a-1]: Introdotto dalla cifra I della LF del 17 dic. 2004 (Determinazione dei contributi dei membri di associazioni), in vigore dal 1° giu. 2005 ([RU 2005 2117](https://fedlex.data.admin.ch/eli/oc/2005/344); [FF 2004 4277](https://fedlex.data.admin.ch/eli/fga/2004/850)[4285](https://fedlex.data.admin.ch/eli/fga/2004/852)).
 
 ### D. Scioglimento
 
@@ -1290,8 +1294,8 @@ Per costituire una fondazione occorre che siano destinati dei beni al conseguime
 
 <sup>3</sup> L’autorità che procede alla pubblicazione della disposizione a causa di morte comunica all’ufficiale del registro di commercio la costituzione della fondazione.[^81-2]
 
-[^81-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^81-2]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^81-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^81-2]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
 ### III. Contestazione
 
@@ -1319,8 +1323,8 @@ Gli organi della fondazione ed il modo di amministrarla sono determinati dall’
 
 L’organo superiore della fondazione tiene i libri di commercio della fondazione. Le disposizioni del Codice delle obbligazioni[^83a-2] concernenti la contabilità commerciale e la presentazione dei conti si applicano per analogia.
 
-[^83a-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (diritto delle fondazioni) ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^83a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83a-1]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (diritto delle fondazioni) ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^83a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Ufficio di revisione
 
@@ -1338,8 +1342,8 @@ L’organo superiore della fondazione tiene i libri di commercio della fondazion
 
 <sup>4</sup> Se la fondazione è tenuta a far effettuare una revisione limitata, l’autorità di vigilanza può imporle di procedere a una revisione ordinaria se necessario per valutarne affidabilmente la situazione patrimoniale e reddituale.
 
-[^83b-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^83b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83b-1]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^83b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Rapporto con l’autorità di vigilanza
 
@@ -1385,8 +1389,8 @@ Se l’organizzazione prevista non è sufficiente, se la fondazione è priva di 
 
 <sup>3</sup> Se hanno un interesse ad accertare che la fondazione sia amministrata conformemente alla legge e all’atto di fondazione, i beneficiari e i creditori della fondazione, il fondatore, gli autori di conferimenti aggiuntivi, nonché i membri attuali e gli ex membri del consiglio di fondazione possono contestare gli atti e le omissioni degli organi della fondazione dinanzi all’autorità di vigilanza.[^84-2]
 
-[^84-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^84-2]: Introdotto dal n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^84-1]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84-2]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### C<sup>bis</sup>. Rischio di insolvenza ed eccedenza di debiti
 
@@ -1402,7 +1406,7 @@ Se l’organizzazione prevista non è sufficiente, se la fondazione è priva di 
 
 <sup>4</sup> Le disposizioni del diritto della società anonima sull’accertamento dell’eccedenza di debiti nonché sulla rivalutazione di fondi e partecipazioni sono applicabili per analogia.
 
-[^84a-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402), [7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^84a-1]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402), [7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C<sup>ter</sup>. Pubblicità delle retribuzioni
 
@@ -1412,8 +1416,8 @@ Se l’organizzazione prevista non è sufficiente, se la fondazione è priva di 
 
 Ogni anno l’organo superiore della fondazione comunica separatamente all’autorità di vigilanza l’importo totale delle retribuzioni ai sensi dell’articolo 734*a* capoverso 2 del Codice delle obbligazioni[^84b-2] direttamente o indirettamente corrisposte a lui o all’eventuale direzione.
 
-[^84b-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^84b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^84b-1]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^84b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Modificazione
 
@@ -1421,7 +1425,7 @@ Ogni anno l’organo superiore della fondazione comunica separatamente all’aut
 
 [^book1-tit2-chap3-lvlD-lvlI-1]
 
-[^book1-tit2-chap3-lvlD-lvlI-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^book1-tit2-chap3-lvlD-lvlI-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 85
 
@@ -1429,13 +1433,13 @@ Ogni anno l’organo superiore della fondazione comunica separatamente all’aut
 
 L’autorità federale o cantonale competente può, su proposta dell’autorità di vigilanza e sentito l’organo superiore della fondazione, modificare l’organizzazione della fondazione quando ciò sia urgentemente richiesto per la conservazione del patrimonio o per il mantenimento del fine.
 
-[^85-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^85-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
 ### II. Del fine su proposta dell’autorità di vigilanza o dell’organo superiore della fondazione
 
 [^book1-tit2-chap3-lvlD-lvlII-1]
 
-[^book1-tit2-chap3-lvlD-lvlII-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^book1-tit2-chap3-lvlD-lvlII-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86
 
@@ -1443,13 +1447,13 @@ L’autorità federale o cantonale competente può, su proposta dell’autorità
 
 <sup>2</sup> Nelle stesse circostanze possono essere tolti o modificati gli oneri o le condizioni della fondazione che ne pregiudicano il fine.
 
-[^86-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^86-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
 ### III. Del fine o dell’organizzazione in virtù di una riserva del fondatore
 
 [^book1-tit2-chap3-lvlD-lvlIII-1]
 
-[^book1-tit2-chap3-lvlD-lvlIII-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^book1-tit2-chap3-lvlD-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86a
 
@@ -1465,12 +1469,12 @@ L’autorità federale o cantonale competente può, su proposta dell’autorità
 
 <sup>5</sup> L’autorità che procede alla pubblicazione della disposizione a causa di morte comunica all’autorità di vigilanza competente la prevista modifica del fine o dell’organizzazione della fondazione.[^86a-6]
 
-[^86a-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^86a-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
-[^86a-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^86a-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
-[^86a-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
-[^86a-6]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-1]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^86a-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^86a-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-5]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-6]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### IV. Modifiche accessorie dell’atto di fondazione
 
@@ -1480,7 +1484,7 @@ L’autorità federale o cantonale competente può, su proposta dell’autorità
 
 L’autorità di vigilanza può, sentito l’organo superiore della fondazione, apportare modifiche accessorie all’atto di fondazione, sempreché esse appaiano giustificate da motivi oggettivi e non pregiudichino i diritti di terzi.
 
-[^86b-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni) ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86b-1]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni) ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### V. Forma delle modifiche
 
@@ -1490,7 +1494,7 @@ L’autorità di vigilanza può, sentito l’organo superiore della fondazione, 
 
 Le modifiche dell’atto di fondazione di cui agli articoli 85–86*b* sono decise dalla competente autorità federale o cantonale o dall’autorità di vigilanza. Le modifiche non richiedono l’atto pubblico.
 
-[^86c-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86c-1]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### E. Fondazioni di famiglia ed ecclesiastiche
 
@@ -1502,7 +1506,7 @@ Le modifiche dell’atto di fondazione di cui agli articoli 85–86*b* sono deci
 
 <sup>2</sup> Le controversie di diritto privato sono di competenza del giudice.
 
-[^87-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^87-1]: Introdotto dalla cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
 ### F. Soppressione e cancellazione dal registro
 
@@ -1521,7 +1525,7 @@ L’autorità federale o cantonale competente pronuncia la soppressione della fo
 
 <sup>2</sup> La soppressione delle fondazioni di famiglia e delle fondazioni ecclesiastiche è pronunciata dal giudice.
 
-[^88-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^88-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
 ### II. Legittimazione attiva, cancellazione dal registro
 
@@ -1533,13 +1537,13 @@ L’autorità federale o cantonale competente pronuncia la soppressione della fo
 
 <sup>2</sup> La soppressione è notificata all’ufficiale del registro di commercio affinché proceda alla cancellazione dell’iscrizione.
 
-[^89-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^89-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
 ### G. Fondazioni di previdenza a favore del personale
 
 [^book1-tit2-chap3-lvlG-1]
 
-[^book1-tit2-chap3-lvlG-1]: Nuovo testo giusta il n. II art. 2 n. 1 della LF del 25 giu. 1971, in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+[^book1-tit2-chap3-lvlG-1]: Nuovo testo giusta la cifra II art. 2 n. 1 della LF del 25 giu. 1971, in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
 
 #### Art. 89a
 
@@ -1610,42 +1614,49 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 
 - 1\. esse amministrano il loro patrimonio in modo da garantire la sicurezza degli investimenti, la loro sufficiente redditività e le liquidità necessarie all’adempimento dei propri compiti;
 - 2\. l’autorità di vigilanza decide, su richiesta del consiglio di fondazione, in merito a fatti concernenti la liquidazione parziale di fondi padronali di previdenza con prestazioni discrezionali;
-- 3\. esse tengono conto, per analogia, dei principi della parità di trattamento e di adeguatezza.[^89a-28]
+- 3\. esse tengono conto, per analogia, dei principi della parità di trattamento e di adeguatezza.
+- 4\.[^89a-28]
 
-[^89a-1]: Introdotto dal n. II della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)). Fino all’entrata della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione) il 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>.
-[^89a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^89a-3]: Nuovo testo giusta il n. II art. 2 n. 1 della LF del 25 giu. 1971, in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
-[^89a-4]: Abrogato dal n. III della LF del 21 giu. 1996, con effetto dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
-[^89a-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^89a-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^89a-7]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-8]: Nuovo testo giusta il n. II 1 della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-9]: Nuovo testo giusta il n. I della LF del 25 set. 2016 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+  esse possono:
+
+  - – contribuire al finanziamento di altre istituzioni di previdenza a favore del personale,
+  - – fornire prestazioni in situazioni di bisogno, malattia, infortunio, invalidità o disoccupazione, per misure di formazione e formazione continua, di conciliabilità tra vita familiare e professionale, nonché di promozione della salute e di prevenzione; in questi casi si applicano anche gli articoli 80, 81 capoverso 1 e 83 LPP. [^89a-29]
+
+[^89a-1]: Introdotto dalla cifra II della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)). Fino all’entrata della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione) il 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>.
+[^89a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^89a-3]: Nuovo testo giusta la cifra II art. 2 n. 1 della LF del 25 giu. 1971, in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+[^89a-4]: Abrogato dalla cifra III della LF del 21 giu. 1996, con effetto dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
+[^89a-5]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^89a-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^89a-7]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-8]: Nuovo testo giusta la cifra II n. 1 della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-9]: Nuovo testo giusta la cifra I della LF del 25 set. 2016 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 [^89a-10]: Introdotta dall’all. n. 1 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^89a-11]: Introdotta dall’all. n. 2 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure) ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nuovo testo giusta il n. 1 della LF del 19 giugno 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^89a-12]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^89a-13]: Nuovo testo giusta l’all. n. 1 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^89a-14]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-15]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); FF **2014** 529).
+[^89a-15]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); FF **2014** 529).
 [^89a-16]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^89a-17]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-18]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-17]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-18]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-19]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^89a-20]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^89a-21]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-22]: Abrogato dal n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-23]: Nuovo testo giusta il n. II 1 della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^89a-21]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-22]: Abrogato dalla cifra II n. 1 della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-23]: Nuovo testo giusta la cifra II n. 1 della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^89a-24]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^89a-25]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^89a-26]: Introdotto dall’all. n. I della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nuovo testo giusta l’all. n. 1 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP); n. 6, 7, 10 a 12, 14 (ad eccezione dell’art. 66 cpv. 4), 15, 17 a 20 e 23 in vigore dal 1° apr. 2004; n. 3 a 5, 8, 9, 13, 14 (art. 66 cpv. 4) e 16 in vigore dal 1° gen. 2005; n. 1, 21 e 22 in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)).
-[^89a-27]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-28]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2015 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-26]: Introdotto dall’all. cifra I della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nuovo testo giusta l’all. n. 1 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP); n. 6, 7, 10 a 12, 14 (ad eccezione dell’art. 66 cpv. 4), 15, 17 a 20 e 23 in vigore dal 1° apr. 2004; n. 3 a 5, 8, 9, 13, 14 (art. 66 cpv. 4) e 16 in vigore dal 1° gen. 2005; n. 1, 21 e 22 in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)).
+[^89a-27]: Introdotto dalla cifra I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-28]: Introdotto dalla cifra I della LF del 14 giu. 2024 (Prestazioni dei fondi padronali di previdenza), in vigore dal 1° gen. 2025 ([RU 2024 676](https://fedlex.data.admin.ch/eli/oc/2024/676); [FF 2023 2077](https://fedlex.data.admin.ch/eli/fga/2023/2077), [2481](https://fedlex.data.admin.ch/eli/fga/2023/2481))
+[^89a-29]: Introdotto dalla cifra I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2015 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Titolo secondo<sup>bis</sup>: Delle collette pubbliche
 
 [^book1-tit2bis-1]
 
-[^book1-tit2bis-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)). Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParL; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^book1-tit2bis-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)). Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParL; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### A. Difetto di amministrazione
 
@@ -1673,7 +1684,7 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 
 [^book2-part1-tit3-1]
 
-[^book2-part1-tit3-1]: Nuovo testo giusta il n. I 2 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^book2-part1-tit3-1]: Nuovo testo giusta la cifra I n. 2 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### Capo primo: Del fidanzamento
 
@@ -1683,11 +1694,11 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 
 <sup>1</sup> Il fidanzamento è costituito dalla promessa nuziale.
 
-<sup>2</sup> I minorenni non sono vincolati da una promessa nuziale fatta senza il consenso del loro rappresentante legale.[^90-1]
+<sup>2</sup> ...[^90-1]
 
 <sup>3</sup> Il fidanzamento non dà azione per la celebrazione del matrimonio.
 
-[^90-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^90-1]: Abrogato dalla cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), con effetto dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### B. Scioglimento del fidanzamento
 
@@ -1721,7 +1732,7 @@ Le azioni derivanti dal fidanzamento si prescrivono in un anno dalla rottura del
 
 <sup>2</sup> ...[^94-1]
 
-[^94-1]: Abrogato dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), con effetto dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^94-1]: Abrogato dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), con effetto dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### B. Impedimenti al matrimonio
 
@@ -1747,7 +1758,7 @@ Le azioni derivanti dal fidanzamento si prescrivono in un anno dalla rottura del
 
 Chi vuol contrarre matrimonio deve fornire la prova che il matrimonio antecedente o l’unione domestica registrata contratta con una terza persona sono stati sciolti o dichiarati nulli.
 
-[^96-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^96-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Capo terzo: Della procedura preparatoria e della celebrazione del matrimonio
 
@@ -1771,8 +1782,8 @@ Chi vuol contrarre matrimonio deve fornire la prova che il matrimonio antecedent
 
 <sup>2</sup> Egli sente i fidanzati e può sollecitare informazioni da altre autorità o terzi.
 
-[^97a-1]: Introdotto dall’all. n. II 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^97a-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^97a-1]: Introdotto dall’all. cifra II n. 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^97a-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. Procedura preparatoria
 
@@ -1788,7 +1799,7 @@ Chi vuol contrarre matrimonio deve fornire la prova che il matrimonio antecedent
 
 <sup>4</sup> I fidanzati che non hanno la cittadinanza svizzera devono provare la legalità del loro soggiorno in Svizzera durante la procedura preparatoria.[^98-1]
 
-[^98-1]: Introdotto dal n. I della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^98-1]: Introdotto dalla cifra I della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
 
 ### II. Esecuzione e chiusura della procedura preparatoria
 
@@ -1808,9 +1819,9 @@ L’ufficio dello stato civile esamina se:
 
 <sup>4</sup> L’ufficio dello stato civile comunica all’autorità competente l’identità dei fidanzati che non hanno fornito la prova della legalità del loro soggiorno in Svizzera.[^99-3]
 
-[^99-1]: Nuovo testo giusta il n. I 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^99-2]: Nuovo testo giusta il n. I della LF del 28 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3813](https://fedlex.data.admin.ch/eli/oc/2019/695); [FF 2017 5777](https://fedlex.data.admin.ch/eli/fga/2017/1991)).
-[^99-3]: Introdotto dal n. I della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^99-1]: Nuovo testo giusta la cifra I n. 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^99-2]: Nuovo testo giusta la cifra I della LF del 28 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3813](https://fedlex.data.admin.ch/eli/oc/2019/695); [FF 2017 5777](https://fedlex.data.admin.ch/eli/fga/2017/1991)).
+[^99-3]: Introdotto dalla cifra I della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
 
 ### III. Termine
 
@@ -1820,7 +1831,7 @@ L’ufficio dello stato civile esamina se:
 
 Il matrimonio può essere celebrato al più tardi tre mesi dopo la comunicazione della chiusura della procedura preparatoria.
 
-[^100-1]: Nuovo testo giusta il n. I della LF del 28 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3813](https://fedlex.data.admin.ch/eli/oc/2019/695); [FF 2017 5777](https://fedlex.data.admin.ch/eli/fga/2017/1991)).
+[^100-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3813](https://fedlex.data.admin.ch/eli/oc/2019/695); [FF 2017 5777](https://fedlex.data.admin.ch/eli/fga/2017/1991)).
 
 ### C. Celebrazione del matrimonio
 
@@ -1860,41 +1871,73 @@ Il matrimonio celebrato da un ufficiale dello stato civile può essere annullato
 
 ### B. Nullità assoluta
 
-### I. Cause
+### I. Cause generali
+
+[^book2-part1-tit3-chap4-lvlB-lvlI-1]
+
+[^book2-part1-tit3-chap4-lvlB-lvlI-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 105
 
-È data una causa di nullità se:
+Il matrimonio è dichiarato nullo se:[^105-1]
 
-- 1\.[^105-1] al momento della celebrazione uno degli sposi era già coniugato o vincolato da un’unione domestica registrata con una terza persona e il matrimonio antecedente o l’unione domestica registrata non erano stati sciolti;
+- 1\.[^105-2] al momento della celebrazione uno degli sposi era già coniugato o vincolato da un’unione domestica registrata con una terza persona e il matrimonio antecedente o l’unione domestica registrata non erano stati sciolti;
 - 2\. al momento della celebrazione uno degli sposi non era capace di discernimento e da allora non ha riacquistato la capacità di discernimento;
-- 3\.[^105-2] la celebrazione era vietata per parentela;
-- 4\.[^105-3] uno degli sposi non intendeva creare l’unione coniugale bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
-- 5\.[^105-4] uno degli sposi ha contratto matrimonio senza che ciò corrispondesse alla sua libera volontà;[^105-5]
-- 6\.[^105-6] uno degli sposi è minorenne, salvo che interessi preponderanti dello stesso impongano il proseguimento del matrimonio.
+- 3\.[^105-3] la celebrazione era vietata per parentela;
+- 4\.[^105-4] uno degli sposi non intendeva creare l’unione coniugale bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
+- 5\.[^105-5] uno degli sposi ha contratto matrimonio senza che ciò corrispondesse alla sua libera volontà;[^105-6]
+- 6\.[^105-7] ...
 
-[^105-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^105-2]: Nuovo testo giusta l’all. n. 8 della LF del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2006 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^105-3]: Introdotto dall’all. n. II 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^105-4]: Introdotto dal n. I 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^105-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^105-6]: Introdotto dal n. I 3 della LF del 15 mag. 2013 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226)[FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-1]: Nuovo testo giusta l’all. n. 1 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+[^105-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^105-3]: Nuovo testo giusta l’all. n. 8 della LF del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2006 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^105-4]: Introdotto dall’all. cifra II n. 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^105-5]: Introdotto dalla cifra I n. 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-6]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^105-7]: Introdotto dalla cifra I n. 3 della LF del 15 mag. 2013 sulle misure contro i matrimoni forzati ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226)[FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)). Abrogato Nuovo cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), con effetto dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
-### II. Azione
+### II. Matrimonio con minorenni
+
+#### Art. 105a
+
+[^105a-1]
+
+<sup>1</sup> Il giudice dichiara nullo il matrimonio se uno dei coniugi era minorenne al momento della celebrazione e non ha ancora compiuto il venticinquesimo anno di età nel momento in cui è promossa l’azione di nullità.
+
+<sup>2</sup>
+
+Il matrimonio è tuttavia valido se il coniuge in questione:
+
+- 1\. è ancora minorenne e il giudice giunge eccezionalmente alla conclusione che interessi preponderanti dello stesso impongano il proseguimento del matrimonio e che ciò corrisponda alla sua libera volontà; o
+- 2\. è divenuto maggiorenne e il giudice giunge alla conclusione che esprima liberamente la volontà di mantenere il vincolo coniugale.
+
+[^105a-1]: Introdotto dalla cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### III. Azione
+
+[^book2-part1-tit3-chap4-lvlB-lvlIII-1]
+
+[^book2-part1-tit3-chap4-lvlB-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 106
 
-<sup>1</sup> L’azione è promossa d’ufficio dall’autorità cantonale competente al domicilio dei coniugi; la può inoltre proporre qualsiasi interessato. Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nullo un matrimonio ne informano l’autorità competente per promuovere l’azione.[^106-1]
+<sup>1</sup> L’azione di nullità è promossa d’ufficio dall’autorità cantonale competente al domicilio dei coniugi; la può inoltre proporre qualsiasi interessato.[^106-1] Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nullo un matrimonio ne informano l’autorità competente per promuovere l’azione.[^106-2]
 
 <sup>2</sup> Dopo lo scioglimento del matrimonio l’azione di nullità non è più proponibile d’ufficio; ogni interessato può nondimeno proporla.
 
-<sup>3</sup> L’azione è proponibile in ogni tempo.
+<sup>3</sup> L’azione è proponibile in ogni tempo. L’azione di nullità per minore età di uno dei coniugi al momento della celebrazione del matrimonio deve tuttavia essere promossa prima che il coniuge in questione compia il venticinquesimo anno di età.[^106-3]
 
-[^106-1]: Per. introdotto dal n. I 3 della LF del 15 mag. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^106-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+[^106-2]: Per. introdotto dalla cifra I n. 3 della LF del 15 mag. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^106-3]: Per. introdotto dalla cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### C. Nullità relativa
 
 ### I. Cause
+
+[^book2-part1-tit3-chap4-lvlC-lvlI-1]
+
+[^book2-part1-tit3-chap4-lvlC-lvlI-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 107
 
@@ -1905,15 +1948,17 @@ Un coniuge può domandare la nullità del matrimonio se:
 - 3\. aveva contratto matrimonio perché intenzionalmente indotto in errore su qualità personali essenziali dell’altro;
 - 4\.[^107-1] ...
 
-[^107-1]: Abrogato dal n. I 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, con effetto dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^107-1]: Abrogato dalla cifra I n. 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, con effetto dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 ### II. Azione
 
 #### Art. 108
 
-<sup>1</sup> L’azione di nullità deve essere promossa entro sei mesi dal giorno in cui l’avente diritto ha scoperto la causa di nullità o sono cessati gli effetti della minaccia, ma in ogni caso entro cinque anni dalla celebrazione del matrimonio.
+<sup>1</sup> L’azione di nullità deve essere promossa entro sei mesi dal giorno in cui l’avente diritto ha scoperto la causa di nullità, ma in ogni caso entro cinque anni dalla celebrazione del matrimonio.[^108-1]
 
 <sup>2</sup> L’azione di nullità del matrimonio non si trasmette agli eredi; un erede può tuttavia proseguire l’azione già promossa al momento del decesso.
+
+[^108-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### D. Effetti della sentenza
 
@@ -1925,19 +1970,19 @@ Un coniuge può domandare la nullità del matrimonio se:
 
 <sup>3</sup> La presunzione di paternità del marito decade se il matrimonio è dichiarato nullo perché contratto allo scopo di eludere le prescrizioni relative all’ammissione e al soggiorno degli stranieri.[^109-1]
 
-[^109-1]: Introdotto dall’all. n. II 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^109-1]: Introdotto dall’all. cifra II n. 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 
 #### Art. 110
 
 [^110-1]
 
-[^110-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^110-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### Titolo quarto: Del divorzio e della separazione coniugale
 
 [^book2-part1-tit4-1]
 
-[^book2-part1-tit4-1]: Nuovo testo giusta il n. I 3 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^book2-part1-tit4-1]: Nuovo testo giusta la cifra I n. 3 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### Capo primo: Delle condizioni del divorzio
 
@@ -1953,7 +1998,7 @@ Un coniuge può domandare la nullità del matrimonio se:
 
 <sup>2</sup> Se si è convinto che i coniugi hanno inoltrato la richiesta e stipulato la convenzione dopo matura riflessione e per libera scelta e che la convenzione con le conclusioni relative ai figli può essere omologata, il giudice pronuncia il divorzio.
 
-[^111-1]: Nuovo testo giusta il n. I della LF del 25 set. 2009 (Periodo di riflessione nella procedura di divorzio su richiesta comune), in vigore dal 1° feb. 2010 ([RU 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37); [FF 2008 1667](https://fedlex.data.admin.ch/eli/fga/2008/445)[1683](https://fedlex.data.admin.ch/eli/fga/2008/447)).
+[^111-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2009 (Periodo di riflessione nella procedura di divorzio su richiesta comune), in vigore dal 1° feb. 2010 ([RU 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37); [FF 2008 1667](https://fedlex.data.admin.ch/eli/fga/2008/445)[1683](https://fedlex.data.admin.ch/eli/fga/2008/447)).
 
 ### II. Accordo parziale
 
@@ -1965,13 +2010,13 @@ Un coniuge può domandare la nullità del matrimonio se:
 
 <sup>3</sup> …[^112-1]
 
-[^112-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^112-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 113
 
 [^113-1]
 
-[^113-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^113-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### B. Divorzio su azione di un coniuge
 
@@ -1983,7 +2028,7 @@ Un coniuge può domandare la nullità del matrimonio se:
 
 Un coniuge può domandare il divorzio se al momento della litispendenza o il giorno della sostituzione della richiesta comune con un’azione unilaterale i coniugi vivono separati da almeno due anni.
 
-[^114-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2003 (Termine di separazione nel diritto del divorzio), in vigore dal 1° giu. 2004 ([RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [FF 2003 7101](https://fedlex.data.admin.ch/eli/fga/2003/1406)[5066](https://fedlex.data.admin.ch/eli/fga/2003/893)).
+[^114-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2003 (Termine di separazione nel diritto del divorzio), in vigore dal 1° giu. 2004 ([RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [FF 2003 7101](https://fedlex.data.admin.ch/eli/fga/2003/1406)[5066](https://fedlex.data.admin.ch/eli/fga/2003/893)).
 
 ### II. Rottura del vincolo coniugale
 
@@ -1993,13 +2038,13 @@ Un coniuge può domandare il divorzio se al momento della litispendenza o il gio
 
 Un coniuge può domandare il divorzio prima della scadenza del termine di due anni quando per motivi gravi che non gli sono imputabili non si possa ragionevolmente esigere da lui la continuazione dell’unione coniugale.
 
-[^115-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2003 (Termine di separazione nel diritto del divorzio), in vigore dal 1° giu. 2004 ([RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [FF 2003 7101](https://fedlex.data.admin.ch/eli/fga/2003/1406)[5066](https://fedlex.data.admin.ch/eli/fga/2003/893)).
+[^115-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2003 (Termine di separazione nel diritto del divorzio), in vigore dal 1° giu. 2004 ([RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [FF 2003 7101](https://fedlex.data.admin.ch/eli/fga/2003/1406)[5066](https://fedlex.data.admin.ch/eli/fga/2003/893)).
 
 #### Art. 116
 
 [^116-1]
 
-[^116-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^116-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### Capo secondo: Della separazione coniugale
 
@@ -2013,7 +2058,7 @@ Un coniuge può domandare il divorzio prima della scadenza del termine di due an
 
 <sup>3</sup> Il diritto di domandare il divorzio non è toccato dalla sentenza di separazione.
 
-[^117-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^117-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### B. Effetti della separazione
 
@@ -2033,7 +2078,7 @@ Un coniuge può domandare il divorzio prima della scadenza del termine di due an
 
 Il coniuge che ha cambiato cognome in occasione del matrimonio conserva il nuovo cognome anche dopo il divorzio; può tuttavia dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
 
-[^119-1]: Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^119-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### B. Regime matrimoniale e diritto successorio
 
@@ -2050,8 +2095,8 @@ Salvo clausola contraria, i coniugi non possono avanzare pretese per disposizion
 - 1\. dopo il divorzio;
 - 2\. dopo la morte di uno di essi durante una procedura di divorzio che implica la perdita della porzione legittima del coniuge superstite.[^120-2]
 
-[^120-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
-[^120-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^120-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^120-2]: Introdotto dalla cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### C. Abitazione familiare
 
@@ -2088,7 +2133,7 @@ Le pretese di previdenza professionale acquisite durante il matrimonio fino al p
 <sup>3</sup> Le prestazioni d’uscita da dividere sono calcolate conformemente agli articoli 15–17 e 22*a* o 22*b* della legge del 17 dicembre 1993[^123-2] sul libero passaggio.
 
 [^123-1]: Nuovo testo giusta il n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^123-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^123-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 ### III. Conguaglio delle rendite d’invalidità versate prima dell’età di riferimento stabilita dal regolamento
 
@@ -2107,7 +2152,7 @@ Le pretese di previdenza professionale acquisite durante il matrimonio fino al p
 <sup>3</sup> Il Consiglio federale stabilisce in quali casi, in seguito alla riduzione della rendita d’invalidità per sovraindennizzo, l’importo di cui al capo-verso 1 non può essere utilizzato per il conguaglio.
 
 [^124-1]: Nuovo testo giusta il n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^124-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^124-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 ### IV. Conguaglio delle rendite d’invalidità versate dopo l’età di riferimento stabilita dal regolamento o di rendite di vecchiaia
 
@@ -2264,7 +2309,7 @@ Il giudice può decidere che il contributo di mantenimento sia aumentato o ridot
 
 <sup>2</sup> Il Consiglio federale definisce le prestazioni di aiuto all’incasso.
 
-[^131-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^131-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### 2. Anticipi
 
@@ -2276,13 +2321,13 @@ Il giudice può decidere che il contributo di mantenimento sia aumentato o ridot
 
 <sup>2</sup> La pretesa di mantenimento passa, con i diritti ad essa connessi, all’ente pubblico nella misura in cui quest’ultimo assuma il mantenimento dell’avente diritto.
 
-[^131a-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^131a-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### 3. Diffida ai debitori e garanzia
 
 [^book2-part1-tit4-chap3-lvlE-lvlIV-lvl3-1]
 
-[^book2-part1-tit4-chap3-lvlE-lvlIV-lvl3-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^book2-part1-tit4-chap3-lvlE-lvlIV-lvl3-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 132
 
@@ -2311,7 +2356,7 @@ Il giudice disciplina i diritti e i doveri dei genitori secondo le disposizioni 
 
 <sup>3</sup> Può stabilire il contributo di mantenimento anche per un periodo che va oltre la maggiore età del figlio.
 
-[^133-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^133-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### II. Modificazione delle circostanze
 
@@ -2325,23 +2370,23 @@ Il giudice disciplina i diritti e i doveri dei genitori secondo le disposizioni 
 
 <sup>4</sup> Se deve decidere sulla modifica dell’autorità parentale, della custodia o del contributo di mantenimento di un figlio minorenne, il giudice modifica se del caso anche le relazioni personali o la partecipazione di ciascun genitore alla cura del figlio; negli altri casi l’autorità di protezione dei minori decide circa la modifica delle relazioni personali o della partecipazione alla cura del figlio.[^134-3]
 
-[^134-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^134-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^134-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^134-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^134-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^134-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 #### Art. 135 a 149
 
 [^135149-1]
 
-[^135149-1]: Abrogati dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^135149-1]: Abrogati dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 150 a 158
 
-Abrogati
+*Abrogati*
 
 ### Titolo quinto[^book2-part1-tit5-1]: Degli effetti del matrimonio in generale
 
-[^book2-part1-tit5-1]: Nuovo testo del titolo quinto giusta il n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Vedi anche gli art. 8–8*b* del titolo finale, qui di seguito.
+[^book2-part1-tit5-1]: Nuovo testo del titolo quinto giusta la cifra I n. 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Vedi anche gli art. 8–8*b* del titolo finale, qui di seguito.
 
 ### A. Unione coniugale; diritti doveri dei coniugi
 
@@ -2365,9 +2410,9 @@ Abrogati
 
 <sup>3</sup> Se mantengono ciascuno il proprio cognome, gli sposi determinano il cognome dei figli, scegliendo il cognome da nubile o celibe di uno di loro. In casi motivati, l’ufficiale dello stato civile può liberarli da quest’obbligo.[^160-3]
 
-[^160-1]: Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
-[^160-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^160-3]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^160-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^160-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^160-3]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### C. Cittadinanza
 
@@ -2377,7 +2422,7 @@ Abrogati
 
 Ciascun coniuge conserva la propria cittadinanza cantonale e attinenza comunale.
 
-[^161-1]: Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^161-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### D. Abitazione coniugale
 
@@ -2482,7 +2527,7 @@ I Cantoni provvedono affinché, in caso di difficoltà matrimoniali, i coniugi p
 
 <sup>3</sup> Se necessario, il giudice, ad istanza di un coniuge, prende le misure previste dalla legge. La disposizione relativa alla protezione della personalità in caso di violenze, minacce o insidie è applicabile per analogia.[^172-1]
 
-[^172-1]: Per. introdotto dal n. I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
+[^172-1]: Per. introdotto dalla cifra I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
 
 ### 2. Durante la convivenza
 
@@ -2530,7 +2575,7 @@ Ove sia giustificata la sospensione della comunione domestica, il giudice, ad is
 
 <sup>3</sup> Se i coniugi hanno figli minorenni, il giudice prende le misure necessarie secondo le disposizioni sugli effetti della filiazione.
 
-[^176-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^176-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### 4. Esecuzione
 
@@ -2542,13 +2587,13 @@ Ove sia giustificata la sospensione della comunione domestica, il giudice, ad is
 
 Sono applicabili le disposizioni relative all’aiuto all’incasso e agli anticipi previste in caso di divorzio e nell’ambito degli effetti della filiazione.
 
-[^176a-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^176a-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### b. Diffida ai debitori
 
 [^book2-part1-tit5-lvlK-lvlII-lvl4-lvlb-1]
 
-[^book2-part1-tit5-lvlK-lvlII-lvl4-lvlb-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^book2-part1-tit5-lvlK-lvlII-lvl4-lvlb-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 177
 
@@ -2574,8 +2619,8 @@ Se un coniuge non adempie il suo obbligo di mantenimento, il giudice può ordina
 
 <sup>2</sup> Se i coniugi tornano a convivere, le misure ordinate per la vita separata decadono, eccetto la separazione dei beni e le misure di protezione del figlio.
 
-[^179-1]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^179-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^179-1]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^179-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 #### Art. 180
 
@@ -2587,7 +2632,7 @@ Se un coniuge non adempie il suo obbligo di mantenimento, il giudice può ordina
 
 [^book2-part1-tit6-1]
 
-[^book2-part1-tit6-1]: Nuovo testo del titolo sesto giusta il n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Vedi anche gli art. 9–11*a* del titolo finale, qui di seguito.
+[^book2-part1-tit6-1]: Nuovo testo del titolo sesto giusta la cifra I n. 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Vedi anche gli art. 9–11*a* del titolo finale, qui di seguito.
 
 ### Capo primo: Disposizioni generali
 
@@ -2615,7 +2660,7 @@ I coniugi sono sottoposti al regime della partecipazione agli acquisti in quanto
 
 <sup>2</sup> I minorenni e i maggiorenni sotto curatela comprendente la stipulazione di una convenzione matrimoniale abbisognano del consenso del loro rappresentante legale.[^183-1]
 
-[^183-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^183-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### III. Forma
 
@@ -2713,7 +2758,7 @@ In caso di separazione dei beni, la liquidazione fra i coniugi è retta dalle no
 
 <sup>2</sup> Se tali beni sono passati in proprietà di uno dei coniugi, questi è tenuto al pagamento dei debiti, ma può limitare questa responsabilità in quanto provi che i beni ricevuti non bastano per il pagamento integrale.
 
-### E. …
+### e. …
 
 #### Art. 194
 
@@ -2871,7 +2916,7 @@ Sono reintegrate negli acquisti:
 
 <sup>2</sup> …[^208-1]
 
-[^208-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^208-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 3. Compensi tra acquisti e beni propri
 
@@ -2949,8 +2994,8 @@ In caso di liquidazione, i beni sono stimati secondo il valore venale.
 
 <sup>3</sup> Tale convenzione non deve pregiudicare i diritti alla legittima dei figli non comuni e dei loro discendenti.[^216-2]
 
-[^216-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
-[^216-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^216-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^216-2]: Introdotto dalla cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### b. In caso di divorzio, separazione, nullità del matrimonio o separazione dei beni giudiziale
 
@@ -2960,7 +3005,7 @@ In caso di liquidazione, i beni sono stimati secondo il valore venale.
 
 <sup>2</sup> Lo stesso vale in caso di morte di uno dei coniugi durante una procedura di divorzio che implica la perdita della porzione legittima del coniuge superstite. [^217-1]
 
-[^217-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^217-1]: Introdotto dalla cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### VI. Pagamento del credito di partecipazione e della quota di plusvalore
 
@@ -3088,7 +3133,7 @@ Il coniuge che, con il consenso dell’altro, eserciti da solo una professione o
 
 <sup>2</sup> Il coniuge che non può procurarsi questo consenso, o cui il consenso è negato senza valido motivo, può ricorrere al giudice.[^230-1]
 
-[^230-1]: Nuovo testo giusta l’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^230-1]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 5. Responsabilità e spese dell’amministrazione
 
@@ -3187,7 +3232,7 @@ Per il valore dei beni comuni esistenti allo scioglimento del regime dei beni è
 
 <sup>4</sup> Salvo clausola contraria nella convenzione matrimoniale, la modifica della ripartizione legale non si applica in caso di morte di uno dei coniugi durante una procedura di divorzio che implica la perdita della porzione legittima del coniuge superstite.[^241-1]
 
-[^241-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^241-1]: Introdotto dalla cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 2. Negli altri casi
 
@@ -3273,13 +3318,13 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 [^book2-part2-tit7-1]
 
-[^book2-part2-tit7-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit7-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### Capo primo: Disposizioni generali
 
 [^book2-part2-tit7-chap1-1]
 
-[^book2-part2-tit7-chap1-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit7-chap1-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. Sorgere della filiazione in genere
 
@@ -3293,10 +3338,10 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 <sup>3</sup> Inoltre, il rapporto di filiazione sorge con l’adozione.
 
-[^252-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^252-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^252-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^252-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-### B. …
+### b. …
 
 #### Art. 253
 
@@ -3308,13 +3353,13 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 [^254-1]
 
-[^254-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^254-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### Capo secondo: Della genitorialità del marito o della moglie
 
 [^book2-part2-tit7-chap2-1]
 
-[^book2-part2-tit7-chap2-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### A. Presunzione
 
@@ -3322,7 +3367,7 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 [^book2-part2-tit7-chap2-lvlA-lvlI-1]
 
-[^book2-part2-tit7-chap2-lvlA-lvlI-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-lvlA-lvlI-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 255
 
@@ -3334,7 +3379,7 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 <sup>3</sup> Se è dichiarato scomparso, il marito è presunto essere il padre del figlio nato entro trecento giorni dal momento del pericolo di morte o dell’ultima notizia.
 
-[^255-1]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^255-1]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### II. Della genitorialità della moglie
 
@@ -3346,8 +3391,8 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 <sup>2</sup> Se muore o è dichiarata scomparsa, la moglie della madre è considerata essere l’altro genitore se l’inseminazione ha avuto luogo prima del suo decesso o del pericolo di morte o dell’ultima notizia.
 
-[^255a-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^255a-2]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^255a-1]: Introdotto dalla cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^255a-2]: [RS 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 
 ### B. Contestazione della genitorialità del marito
 
@@ -3355,7 +3400,7 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 [^book2-part2-tit7-chap2-lvlB-lvlI-1]
 
-[^book2-part2-tit7-chap2-lvlB-lvlI-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-lvlB-lvlI-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 256
 
@@ -3372,8 +3417,8 @@ La presunzione di paternità può essere contestata giudizialmente:
 
 <sup>3</sup> L’azione è improponibile per il marito che ha consentito al concepimento da parte di un terzo. Riguardo il diritto di contestazione del figlio è fatta salva la legge del 18 dicembre 1998[^256-2] sulla medicina della procreazione.[^256-3]
 
-[^256-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^256-2]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^256-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^256-2]: [RS 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 [^256-3]: Nuovo testo giusta l’art. 39 della LF del 18 dic. 1998 sulla medicina della procreazione, in vigore dal 1° gen. 2001 ([RU 2000 3055](https://fedlex.data.admin.ch/eli/oc/2000/554); [FF 1996 III 189](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)).
 
 ### II. Motivo
@@ -3388,8 +3433,8 @@ La presunzione di paternità può essere contestata giudizialmente:
 
 <sup>2</sup> Si presume concepito durante il matrimonio il figlio nato non prima di centottanta giorni dalla celebrazione del matrimonio e non oltre trecento giorni dallo scioglimento di quest’ultimo per causa di morte.[^256a-2]
 
-[^256a-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^256a-2]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^256a-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^256a-2]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### 2. Concepimento prima del matrimonio o durante la sospensione della comunione domestica
 
@@ -3401,7 +3446,7 @@ La presunzione di paternità può essere contestata giudizialmente:
 
 <sup>2</sup> La paternità del marito è tuttavia presunta anche in questo caso quando sia reso verosimile ch’egli abbia avuto concubito con la madre al tempo del concepimento.
 
-[^256b-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^256b-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### III. Termine
 
@@ -3415,7 +3460,7 @@ La presunzione di paternità può essere contestata giudizialmente:
 
 <sup>3</sup> Scaduto il termine, la contestazione è ammessa se il ritardo è scusato da gravi motivi.
 
-[^256c-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^256c-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### C. Duplice presunzione
 
@@ -3427,8 +3472,8 @@ La presunzione di paternità può essere contestata giudizialmente:
 
 <sup>2</sup> Se questa presunzione è infirmata, si ha per padre il primo marito.
 
-[^257-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^257-2]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^257-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^257-2]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### D. Azione dei genitori
 
@@ -3442,7 +3487,7 @@ La presunzione di paternità può essere contestata giudizialmente:
 
 <sup>3</sup> Il termine annuale per proporre l’azione decorre al più presto dal momento in cui si è avuto conoscenza della morte o dell’incapacità di discernimento del marito.
 
-[^258-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^258-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### E. Matrimonio dei genitori
 
@@ -3463,13 +3508,13 @@ Il riconoscimento può essere contestato:
 
 <sup>3</sup> Le disposizioni sulla contestazione del riconoscimento sono applicabili per analogia.
 
-[^259-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^259-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### Capo terzo: Del riconoscimento e della sentenza di paternità
 
 [^book2-part2-tit7-chap3-1]
 
-[^book2-part2-tit7-chap3-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit7-chap3-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. Riconoscimento
 
@@ -3485,8 +3530,8 @@ Il riconoscimento può essere contestato:
 
 <sup>3</sup> Il riconoscimento avviene mediante dichiarazione davanti all’ufficiale di stato civile o per testamento o, se è pendente un’azione d’accertamento della paternità, davanti al giudice.
 
-[^260-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^260-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^260-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^260-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### II. Contestazione
 
@@ -3502,7 +3547,7 @@ Il riconoscimento può essere contestato:
 
 <sup>3</sup> L’azione è diretta contro l’autore del riconoscimento e il figlio, sempreché essi non siano attori.
 
-[^260a-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^260a-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### 2. Motivo
 
@@ -3514,7 +3559,7 @@ Il riconoscimento può essere contestato:
 
 <sup>2</sup> Madre e figlio devono tuttavia addurre questa prova soltanto se l’autore del riconoscimento rende verosimile di aver avuto concubito con la madre al tempo del concepimento.
 
-[^260b-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^260b-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### 3. Termine
 
@@ -3528,7 +3573,7 @@ Il riconoscimento può essere contestato:
 
 <sup>3</sup> Scaduto il termine, la contestazione è ammessa se il ritardo è giustificato da gravi motivi.
 
-[^260c-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^260c-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### B. Azione di paternità
 
@@ -3544,7 +3589,7 @@ Il riconoscimento può essere contestato:
 
 <sup>3</sup> Se il padre è morto, sua moglie, a salvaguardia dei propri interessi, è informata dal giudice che l’azione è stata proposta.
 
-[^261-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^261-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### II. Presunzione
 
@@ -3558,7 +3603,7 @@ Il riconoscimento può essere contestato:
 
 <sup>3</sup> La presunzione cade se il convenuto dimostra che la sua paternità è esclusa o meno verosimile di quella altrui.
 
-[^262-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^262-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### III. Termine
 
@@ -3577,14 +3622,14 @@ L’azione può essere proposta prima o dopo il parto, ma al più tardi:
 
 <sup>3</sup> Scaduto il termine, l’azione è ammessa se il ritardo è scusato da gravi motivi.
 
-[^263-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^263-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### Capo quarto[^book2-part2-tit7-chap4-1]: Dell’adozione
 
 [^book2-part2-tit7-chap4-2]
 
 [^book2-part2-tit7-chap4-1]: Originario capo terzo.
-[^book2-part2-tit7-chap4-2]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit7-chap4-2]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. Adozione di minorenni
 
@@ -3598,7 +3643,7 @@ L’azione può essere proposta prima o dopo il parto, ma al più tardi:
 
 <sup>2</sup> Un’adozione è possibile soltanto se, considerata la loro età e situazione personale, gli aspiranti all’adozione sono in grado di provvedere ai bisogni del minorenne presumibilmente sino al raggiungimento della maggiore età.
 
-[^264-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^264-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### II. Adozione congiunta
 
@@ -3610,7 +3655,7 @@ L’azione può essere proposta prima o dopo il parto, ma al più tardi:
 
 <sup>2</sup> È possibile derogare all’età minima se è necessario per tutelare il bene del minorenne. I coniugi devono motivare la richiesta di una deroga.
 
-[^264a-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); FF **1971** 11 85). Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^264a-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); FF **1971** 11 85). Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### III. Adozione singola
 
@@ -3626,7 +3671,7 @@ L’azione può essere proposta prima o dopo il parto, ma al più tardi:
 
 <sup>4</sup> È possibile derogare all’età minima se è necessario per tutelare il bene del minorenne. L’aspirante all’adozione deve motivare la richiesta di una deroga.
 
-[^264b-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^264b-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### IV. Adozione del figliastro
 
@@ -3646,7 +3691,7 @@ Una persona può adottare il figlio del:
 
 <sup>3</sup> I conviventi di fatto non possono essere né coniugati né vincolati da un’unione domestica registrata.
 
-[^264c-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^264c-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### V. Differenza d’età
 
@@ -3658,7 +3703,7 @@ Una persona può adottare il figlio del:
 
 <sup>2</sup> Sono possibili deroghe se è necessario per tutelare il bene dell’adottando. Gli aspiranti all’adozione devono motivare la richiesta di una deroga.
 
-[^264d-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^264d-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### VI. Consenso dell’adottando e dell’autorità di protezione dei minori
 
@@ -3670,13 +3715,13 @@ Una persona può adottare il figlio del:
 
 <sup>2</sup> Se è sotto tutela o curatela, è necessario il consenso dell’autorità di protezione dei minori, quand’anche l’adottando sia capace di discernimento.
 
-[^265-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^265-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### VII. Consenso dei genitori
 
 [^book2-part2-tit7-chap4-lvlA-lvlVII-1]
 
-[^book2-part2-tit7-chap4-lvlA-lvlVII-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^book2-part2-tit7-chap4-lvlA-lvlVII-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### 1. Forma
 
@@ -3690,9 +3735,9 @@ Una persona può adottare il figlio del:
 
 <sup>3</sup> È valido anche ove non indicasse gli aspiranti all’adozione o questi non fossero ancora designati.[^265a-3]
 
-[^265a-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
-[^265a-2]: Nuova espr. giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^265a-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^265a-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^265a-2]: Nuova espr. giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^265a-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### 2. Termini
 
@@ -3706,7 +3751,7 @@ Una persona può adottare il figlio del:
 
 <sup>3</sup> Se rinnovato dopo la revoca è definitivo.
 
-[^265b-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^265b-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 
 ### 3. Astrazione
 
@@ -3718,7 +3763,7 @@ Una persona può adottare il figlio del:
 
 Si può prescindere dal consenso di un genitore se questi è sconosciuto, assente da lungo tempo con ignota dimora oppure durevolmente incapace di discernimento.
 
-[^265c-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^265c-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### b. Decisione
 
@@ -3732,9 +3777,9 @@ Si può prescindere dal consenso di un genitore se questi è sconosciuto, assent
 
 <sup>3</sup> ...[^265d-3]
 
-[^265d-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
-[^265d-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
-[^265d-3]: Abrogato dal n. I della LF del 17 giu. 2016 (Adozione), con effetto dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^265d-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^265d-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^265d-3]: Abrogato dalla cifra I della LF del 17 giu. 2016 (Adozione), con effetto dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### B. Adozione di maggiorenni
 
@@ -3752,7 +3797,7 @@ Una persona maggiorenne può essere adottata se:
 
 <sup>2</sup> Per altro si applicano per analogia le disposizioni sull’adozione dei minorenni; è eccettuata la disposizione sul consenso dei genitori.
 
-[^266-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^266-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### C. Effetti
 
@@ -3774,7 +3819,7 @@ Il vincolo di filiazione non è sciolto nei riguardi del:
 - 2\. partner registrato dell’adottante;
 - 3\. convivente di fatto dell’adottante.
 
-[^267-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^267-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### II. Nome
 
@@ -3790,7 +3835,7 @@ Il vincolo di filiazione non è sciolto nei riguardi del:
 
 <sup>4</sup> Il cambiamento del cognome di un adottando maggiorenne non ha ripercussioni sul cognome di terzi che derivi dal cognome precedente dell’adottando, a meno che essi acconsentano espressamente a un cambiamento del cognome.
 
-[^267a-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^267a-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### III. Cittadinanza
 
@@ -3800,7 +3845,7 @@ Il vincolo di filiazione non è sciolto nei riguardi del:
 
 La cittadinanza dell’adottato minorenne è retta dalle disposizioni sugli effetti della filiazione.
 
-[^267b-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^267b-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### D. Procedura
 
@@ -3820,11 +3865,11 @@ La cittadinanza dell’adottato minorenne è retta dalle disposizioni sugli effe
 
 <sup>5</sup> La decisione di adozione contiene tutte le indicazioni necessarie per l’iscrizione del prenome, del cognome e della cittadinanza dell’adottato nel registro dello stato civile.[^268-5]
 
-[^268-1]: Nuovo testo giusta il n. I 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
-[^268-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
-[^268-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
-[^268-4]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
-[^268-5]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268-1]: Nuovo testo giusta la cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^268-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268-4]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268-5]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### II. Istruttoria
 
@@ -3838,9 +3883,9 @@ La cittadinanza dell’adottato minorenne è retta dalle disposizioni sugli effe
 
 <sup>3</sup> ...[^268a-3]
 
-[^268a-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
-[^268a-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
-[^268a-3]: Abrogato dal n. I della LF del 17 giu. 2016 (Adozione), con effetto dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268a-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^268a-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268a-3]: Abrogato dalla cifra I della LF del 17 giu. 2016 (Adozione), con effetto dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### III. Audizione dell’adottando
 
@@ -3854,7 +3899,7 @@ La cittadinanza dell’adottato minorenne è retta dalle disposizioni sugli effe
 
 <sup>3</sup> L’adottando capace di discernimento può interporre reclamo contro la negata audizione.
 
-[^268abis-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268abis-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### IV. Rappresentanza dell’adottando
 
@@ -3868,7 +3913,7 @@ La cittadinanza dell’adottato minorenne è retta dalle disposizioni sugli effe
 
 <sup>3</sup> L’adottando capace di discernimento può interporre reclamo contro il diniego di istituire la rappresentanza.
 
-[^268ater-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268ater-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### V. Considerazione dell’atteggiamento dei congiunti
 
@@ -3888,7 +3933,7 @@ Prima dell’adozione di un maggiorenne va considerato anche l’atteggiamento:
 
 <sup>3</sup> La decisione di adozione è, per quanto possibile, comunicata a tali persone.
 
-[^268aquater-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268aquater-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### D<sup>bis</sup>. Segreto dell’adozione
 
@@ -3902,7 +3947,7 @@ Prima dell’adozione di un maggiorenne va considerato anche l’atteggiamento:
 
 <sup>3</sup> Le informazioni atte a identificare l’adottato maggiorenne possono essere rese note ai genitori biologici e ai loro discendenti diretti soltanto se l’adottato vi ha acconsentito.
 
-[^268b-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268b-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### D<sup>ter</sup>. Informazione circa l’adozione, i genitori biologici e i loro discendenti
 
@@ -3916,7 +3961,7 @@ Prima dell’adozione di un maggiorenne va considerato anche l’atteggiamento:
 
 <sup>3</sup> L’adottato maggiorenne può in ogni tempo chiedere che gli siano rese note l’identità dei suoi genitori biologici e altre informazioni su di essi. Può inoltre chiedere che gli siano fornite informazioni sui discendenti diretti dei suoi genitori biologici, se questi sono maggiorenni e vi hanno acconsentito.
 
-[^268c-1]: Introdotto dall’all. n. 2 della LF del 22 giu. 2001 relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali ([RU 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [FF 1999 4799](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)). Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268c-1]: Introdotto dall’all. n. 2 della LF del 22 giu. 2001 relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali ([RU 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [FF 1999 4799](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)). Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### D<sup>quater</sup>. Servizio cantonale preposto all’informazione e servizi di ricerca
 
@@ -3932,7 +3977,7 @@ Prima dell’adozione di un maggiorenne va considerato anche l’atteggiamento:
 
 <sup>4</sup> I Cantoni designano un ufficio incaricato di consigliare i genitori biologici, i loro discendenti diretti o l’adottato che ne facciano richiesta.
 
-[^268d-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268d-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### D<sup>quinquies</sup>. Relazioni personali con i genitori biologici
 
@@ -3946,7 +3991,7 @@ Prima dell’adozione di un maggiorenne va considerato anche l’atteggiamento:
 
 <sup>3</sup> L’adottato può rifiutare in ogni tempo il contatto con i genitori biologici. Contro la sua volontà i genitori adottivi non possono neppure fornire informazioni ai genitori biologici.
 
-[^268e-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268e-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### E. Contestazione
 
@@ -3962,7 +4007,7 @@ Prima dell’adozione di un maggiorenne va considerato anche l’atteggiamento:
 
 <sup>2</sup> L’azione non è data ai genitori, qualora possano ricorrere al Tribunale federale contro la decisione.
 
-[^269-1]: Nuovo testo giusta il n. I 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^269-1]: Nuovo testo giusta la cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 
 ### 2. Altri vizi
 
@@ -3974,7 +4019,7 @@ Prima dell’adozione di un maggiorenne va considerato anche l’atteggiamento:
 
 <sup>2</sup> L’azione è tuttavia esclusa, se il vizio è stato nel frattempo eliminato, oppure se concerne soltanto prescrizioni di procedura.
 
-[^269a-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^269a-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 
 ### II. Termine
 
@@ -3984,7 +4029,7 @@ Prima dell’adozione di un maggiorenne va considerato anche l’atteggiamento:
 
 L’azione deve essere proposta entro sei mesi dal momento in cui fu conosciuto il motivo della contestazione e, in ogni caso, entro due anni dall’adozione.
 
-[^269b-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^269b-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 
 ### F. Collocamento in vista d’adozione
 
@@ -4000,21 +4045,21 @@ L’azione deve essere proposta entro sei mesi dal momento in cui fu conosciuto 
 
 <sup>4</sup> …[^269c-3]
 
-[^269c-1]: Introdotto dal n. I 1 della LF del 30 giu. 1972 ([FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2001 relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali, in vigore dal 1° gen. 2003 ([RU 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [FF 1999 4799](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)).
-[^269c-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^269c-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972 ([FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2001 relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali, in vigore dal 1° gen. 2003 ([RU 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [FF 1999 4799](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)).
+[^269c-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^269c-3]: Abrogato dall’all. n. 15 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Titolo ottavo: Degli effetti della filiazione
 
 [^book2-part2-tit8-1]
 
-[^book2-part2-tit8-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit8-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### Capo primo: Della comunione dei figli coi genitori
 
 [^book2-part2-tit8-chap1-1]
 
-[^book2-part2-tit8-chap1-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit8-chap1-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. Cognome
 
@@ -4030,7 +4075,7 @@ L’azione deve essere proposta entro sei mesi dal momento in cui fu conosciuto 
 
 <sup>3</sup> Se i genitori portano un cognome coniugale, il figlio assume tale cognome.
 
-[^270-1]: Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^270-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### II. Figlio di genitori non coniugati
 
@@ -4046,7 +4091,7 @@ L’azione deve essere proposta entro sei mesi dal momento in cui fu conosciuto 
 
 <sup>4</sup> Le modifiche dell’attribuzione dell’autorità parentale non hanno ripercussioni sul cognome. Sono fatte salve le disposizioni sul cambiamento del nome.
 
-[^270a-1]: Introdotto dal n. I della LF del 30 set. 2011 (Cognome e cittadinanza) ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^270a-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza) ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### III. Consenso del figlio
 
@@ -4056,7 +4101,7 @@ L’azione deve essere proposta entro sei mesi dal momento in cui fu conosciuto 
 
 Il cognome del figlio che ha compiuto il dodicesimo anno di età può essere cambiato soltanto con il suo consenso.
 
-[^270b-1]: Introdotto dal n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^270b-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### B. Cittadinanza
 
@@ -4068,7 +4113,7 @@ Il cognome del figlio che ha compiuto il dodicesimo anno di età può essere cam
 
 <sup>2</sup> Se assume il cognome dell’altro genitore, il figlio minorenne ne acquista anche la cittadinanza cantonale e l’attinenza comunale, in luogo e vece di quelle anteriori.
 
-[^271-1]: Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^271-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### C. Doveri vicendevoli
 
@@ -4078,7 +4123,7 @@ Il cognome del figlio che ha compiuto il dodicesimo anno di età può essere cam
 
 I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il rispetto che il bene della comunione richiede.
 
-[^272-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^272-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### D. Relazioni personali
 
@@ -4096,7 +4141,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Il padre o la madre può esigere che il suo diritto all’esercizio delle relazioni personali sia regolato.
 
-[^273-1]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^273-1]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### 2. Limiti
 
@@ -4110,7 +4155,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Se i genitori hanno acconsentito all’adozione del figlio o se si può prescindere da tale consenso, il diritto alle relazioni personali si estingue appena il figlio sia collocato in vista d’adozione.
 
-[^274-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^274-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### II. Terzi
 
@@ -4122,7 +4167,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>2</sup> I limiti del diritto di visita posti ai genitori vigono per analogia.
 
-[^274a-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^274a-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### III. Competenza
 
@@ -4136,8 +4181,8 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Se non sono state ancora prese misure circa il diritto del padre e della madre, le relazioni personali non possono essere esercitate contro la volontà della persona cui compete l’autorità parentale o la custodia.
 
-[^275-1]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^275-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^275-1]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^275-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### E. Informazione e schiarimenti
 
@@ -4151,13 +4196,13 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Le disposizioni sui limiti del diritto alle relazioni personali e sulla competenza si applicano per analogia.
 
-[^275a-1]: Introdotto dal n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^275a-1]: Introdotto dalla cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### Capo secondo: Del mantenimento da parte dei genitori
 
 [^book2-part2-tit8-chap2-1]
 
-[^book2-part2-tit8-chap2-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit8-chap2-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. In genere
 
@@ -4165,7 +4210,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 [^book2-part2-tit8-chap2-lvlA-lvlI-1]
 
-[^book2-part2-tit8-chap2-lvlA-lvlI-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^book2-part2-tit8-chap2-lvlA-lvlI-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 276
 
@@ -4177,9 +4222,9 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> I genitori sono liberati dall’obbligo di mantenimento nella misura in cui si possa ragionevolmente pretendere che il figlio vi provveda da sé con il provento del suo lavoro o con altri mezzi.
 
-[^276-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^276-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^276-3]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^276-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^276-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^276-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### II. Priorità dell’obbligo di mantenimento nei confronti del figlio minorenne
 
@@ -4191,7 +4236,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>2</sup> In casi motivati, il giudice può derogare a questa regola, in particolare per non penalizzare il figlio maggiorenne avente diritto al mantenimento.
 
-[^276a-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^276a-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### B. Durata
 
@@ -4203,8 +4248,8 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>2</sup> Se, raggiunta la maggiore età, il figlio non ha ancora una formazione appropriata, i genitori, per quanto si possa ragionevolmente pretendere da loro dato l’insieme delle circostanze, devono continuare a provvedere al suo mantenimento fino al momento in cui una simile formazione possa normalmente concludersi.[^277-2]
 
-[^277-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^277-2]: Nuovo testo giusta il n. I 1 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
+[^277-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^277-2]: Nuovo testo giusta la cifra I n. 1 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 
 ### C. Genitori coniugati
 
@@ -4216,7 +4261,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>2</sup> I coniugi si devono vicendevolmente adeguata assistenza nell’adempimento dell’obbligo verso i figli nati prima del matrimonio.
 
-[^278-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^278-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### D. Azione
 
@@ -4232,9 +4277,9 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>1</sup> Il figlio può proporre azione contro il padre o la madre o contro ambedue per chiedere il mantenimento futuro e quello per l’anno precedente l’azione.
 
-<sup>2</sup> e <sup>3</sup> ...[^279-2]
+<sup>2 e <sup>3</sup></sup> ...[^279-2]
 
-[^279-1]: Nuovo testo il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^279-1]: Nuovo testo la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^279-2]: Abrogati dall’all. n. 2 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
 
 ### II e III …
@@ -4243,7 +4288,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 [^280284-1]
 
-[^280284-1]: Abrogati dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^280284-1]: Abrogati dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### IV. Commisurazione del contributo di mantenimento
 
@@ -4259,7 +4304,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Il contributo è pagato anticipatamente. Il giudice fissa le scadenze del pagamento.
 
-[^285-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^285-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### 2. Altre prestazioni destinate al mantenimento del figlio
 
@@ -4273,7 +4318,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Il genitore tenuto al mantenimento che, per motivi d’età o d’invalidità, riceva successivamente rendite delle assicurazioni sociali o analoghe prestazioni destinate al mantenimento del figlio, che sostituiscono il reddito di un’attività lucrativa, deve pagare tali importi al figlio; il precedente contributo di mantenimento va diminuito per legge dell’importo di tali nuove prestazioni.
 
-[^285a-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^285a-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### V. Modificazione delle circostanze
 
@@ -4281,7 +4326,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 [^book2-part2-tit8-chap2-lvlD-lvlV-lvl1-1]
 
-[^book2-part2-tit8-chap2-lvlD-lvlV-lvl1-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^book2-part2-tit8-chap2-lvlD-lvlV-lvl1-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 286
 
@@ -4293,9 +4338,9 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Il giudice può obbligare i genitori a versare un contributo speciale allorché lo richiedano bisogni straordinari e imprevisti del figlio.[^286-3]
 
-[^286-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^286-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^286-3]: Introdotto dal n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^286-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^286-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^286-3]: Introdotto dalla cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### 2. Casi di ammanco
 
@@ -4309,7 +4354,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Tale diritto passa, con i diritti ad esso connessi, all’altro genitore o all’ente pubblico, in quanto abbia provveduto a versare l’importo mancante per coprire il debito mantenimento del figlio.
 
-[^286a-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^286a-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### E. Contratti circa l’obbligo di mantenimento
 
@@ -4325,8 +4370,8 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>3</sup> Se il contratto è concluso in una procedura giudiziaria, l’approvazione è di competenza del giudice.
 
-[^287-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^287-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^287-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^287-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### II. Contenuto del contratto di mantenimento
 
@@ -4341,13 +4386,13 @@ Il contratto che fissa i contributi di mantenimento deve menzionare:
 - c. quale importo manca per coprire il debito mantenimento di ciascun figlio;
 - d. se e in quale misura i contributi di mantenimento devono essere adattati alle variazioni del costo della vita.
 
-[^287a-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^287a-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### III. Tacitazione
 
 [^book2-part2-tit8-chap2-lvlE-lvlIII-1]
 
-[^book2-part2-tit8-chap2-lvlE-lvlIII-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^book2-part2-tit8-chap2-lvlE-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 288
 
@@ -4362,7 +4407,7 @@ Tale convenzione vincola il figlio soltanto se:
 - 1\. sia stata approvata dell’autorità di protezione dei minori, o dal giudice se conclusa in una procedura giudiziaria, e
 - 2\. la somma a titolo di tacitazione sia stata pagata all’ufficio designato.
 
-[^288-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^288-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### F. Adempimento
 
@@ -4376,8 +4421,8 @@ Tale convenzione vincola il figlio soltanto se:
 
 <sup>2</sup> Tuttavia, la pretesa si trasmette con tutti i diritti all’ente pubblico che provveda al mantenimento.
 
-[^289-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^289-2]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^289-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^289-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### II. Esecuzione
 
@@ -4391,7 +4436,7 @@ Tale convenzione vincola il figlio soltanto se:
 
 <sup>2</sup> Il Consiglio federale definisce le prestazioni di aiuto all’incasso..
 
-[^290-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^290-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### 2. Diffida ai debitori
 
@@ -4401,7 +4446,7 @@ Tale convenzione vincola il figlio soltanto se:
 
 Se i genitori trascurano i propri doveri verso il figlio, il giudice può ordinare ai loro debitori che facciano i pagamenti del tutto o in parte nelle mani del rappresentante legale del figlio.
 
-[^291-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^291-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### III. Garanzie
 
@@ -4411,7 +4456,7 @@ Se i genitori trascurano i propri doveri verso il figlio, il giudice può ordina
 
 Se i genitori trascurano ostinatamente il loro obbligo di mantenimento o se vi è motivo di credere ch’essi facciano preparativi di fuga, dissipino o dissimulino il proprio patrimonio, il giudice può obbligarli a fornire adeguate garanzie per i contributi futuri.
 
-[^292-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^292-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### G. Diritto pubblico
 
@@ -4423,7 +4468,7 @@ Se i genitori trascurano ostinatamente il loro obbligo di mantenimento o se vi �
 
 <sup>2</sup> Inoltre, il diritto pubblico disciplina il pagamento di anticipazioni quando i genitori non soddisfacciano al loro obbligo di mantenimento del figlio.
 
-[^293-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^293-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### H. Genitori affilianti
 
@@ -4435,7 +4480,7 @@ Se i genitori trascurano ostinatamente il loro obbligo di mantenimento o se vi �
 
 <sup>2</sup> La gratuità è presunta ove trattasi di figli di stretti parenti o di figli accolti in vista d’adozione.
 
-[^294-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^294-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### J. Azione della donna nubile
 
@@ -4455,14 +4500,14 @@ La madre può, entro un anno dalla nascita del figlio, convenirne il padre o i s
 
 <sup>3</sup> Prestazioni di terzi, spettanti alla madre per legge o per contratto, sono da imputare in quanto le circostanze lo giustifichino.
 
-[^295-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^295-2]: Nuovo testo giusta l’all.1 n. II 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^295-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^295-2]: Nuovo testo giusta l’all.1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### Capo terzo: Dell’autorità parentale
 
 [^book2-part2-tit8-chap3-1]
 
-[^book2-part2-tit8-chap3-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit8-chap3-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. Principi
 
@@ -4476,7 +4521,7 @@ La madre può, entro un anno dalla nascita del figlio, convenirne il padre o i s
 
 <sup>3</sup> I genitori minorenni o sotto curatela generale non hanno autorità parentale. Raggiunta la maggiore età, ottengono l’autorità parentale. Se viene revocata la curatela generale, l’autorità di protezione dei minori decide in merito all’attribuzione dell’autorità parentale conformemente al bene del figlio.
 
-[^296-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^296-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### A<sup>bis</sup>. Morte di un genitore
 
@@ -4488,7 +4533,7 @@ La madre può, entro un anno dalla nascita del figlio, convenirne il padre o i s
 
 <sup>2</sup> Se muore il genitore che deteneva l’autorità parentale esclusiva, l’autorità di protezione dei minori trasferisce l’autorità parentale al genitore superstite oppure nomina un tutore, scegliendo la soluzione più adatta a tutelare il bene del figlio.
 
-[^297-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^297-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### A<sup>ter</sup>. Divorzio e altre procedure matrimoniali
 
@@ -4506,9 +4551,9 @@ La madre può, entro un anno dalla nascita del figlio, convenirne il padre o i s
 
 <sup>3</sup> Invita l’autorità di protezione dei minori a nominare un tutore se né la madre né il padre sono idonei ad assumere l’autorità parentale.
 
-[^298-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^298-2]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^298-3]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^298-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^298-2]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^298-3]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### A<sup>quater</sup>. Riconoscimento e sentenza di paternità
 
@@ -4533,7 +4578,7 @@ In tale dichiarazione i genitori confermano di:
 
 <sup>5</sup> Fintanto che non sia stata presentata la dichiarazione, l’autorità parentale spetta esclusivamente alla madre.
 
-[^298a-1]: Introdotto dal n. I 4 della LF del 26 giu. 1998 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^298a-1]: Introdotto dalla cifra I n. 4 della LF del 26 giu. 1998 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### II. Decisione dell’autorità di protezione dei minori
 
@@ -4553,10 +4598,10 @@ In tale dichiarazione i genitori confermano di:
 
 <sup>4</sup> Se la madre è minorenne o sotto curatela generale, l’autorità di protezione dei minori trasferisce l’autorità parentale al padre o nomina un tutore, scegliendo la soluzione più adatta a tutelare il bene del figlio.
 
-[^298b-1]: Introdotto dal n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^298b-2]: Nuovo testo del secondo per. giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^298b-3]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^298b-4]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^298b-1]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^298b-2]: Nuovo testo del secondo per. giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^298b-3]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^298b-4]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### III. Azione di paternità
 
@@ -4566,7 +4611,7 @@ In tale dichiarazione i genitori confermano di:
 
 Se accoglie un’azione di paternità, il giudice dispone l’autorità parentale congiunta sempreché, per tutelare il bene del figlio, non si imponga di mantenere l’autorità parentale esclusiva della madre o di trasferirla al padre.
 
-[^298c-1]: Introdotto dal n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^298c-1]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### IV. Modificazione delle circostanze
 
@@ -4580,8 +4625,8 @@ Se accoglie un’azione di paternità, il giudice dispone l’autorità parental
 
 <sup>3</sup> È fatta salva l’azione di modifica del contributo di mantenimento dinanzi al giudice competente; in tal caso il giudice decide se necessario anche in merito all’autorità parentale e alle altre questioni riguardanti i figli.[^298d-2]
 
-[^298d-1]: Introdotto dal n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^298d-2]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^298d-1]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^298d-2]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### A<sup>quinquies</sup>. Modificazione delle circostanze dopo l’adozione del figliastro del convivente di fatto
 
@@ -4591,13 +4636,13 @@ Se accoglie un’azione di paternità, il giudice dispone l’autorità parental
 
 Se una persona ha adottato il figlio del convivente di fatto e si verificano fatti nuovi importanti, si applica per analogia la disposizione sulla modificazione delle circostanze in caso di riconoscimento e sentenza di paternità.
 
-[^298e-1]: Introdotto dal n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^298e-1]: Introdotto dalla cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### A<sup>sexies</sup>. Patrigno e matrigna
 
 [^book2-part2-tit8-chap3-lvlAsexies-1]
 
-[^book2-part2-tit8-chap3-lvlAsexies-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^book2-part2-tit8-chap3-lvlAsexies-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 299
 
@@ -4605,13 +4650,13 @@ Se una persona ha adottato il figlio del convivente di fatto e si verificano fat
 
 Ogni coniuge deve all’altro adeguata assistenza nell’esercizio dell’autorità parentale verso i di lui figli e rappresentarlo ove le circostanze lo richiedano.
 
-[^299-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^299-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A<sup>septies</sup>. Genitori affilianti
 
 [^book2-part2-tit8-chap3-lvlAsepties-1]
 
-[^book2-part2-tit8-chap3-lvlAsepties-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^book2-part2-tit8-chap3-lvlAsepties-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 300
 
@@ -4621,7 +4666,7 @@ Ogni coniuge deve all’altro adeguata assistenza nell’esercizio dell’autori
 
 <sup>2</sup> I genitori affilianti devono essere uditi prima di ogni decisione importante.
 
-[^300-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^300-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### B. Contenuto
 
@@ -4646,8 +4691,8 @@ Il genitore che ha la cura del figlio può decidere autonomamente se:
 
 <sup>4</sup> I genitori scelgono il prenome del figlio.
 
-[^301-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^301-2]: Introdotto dal n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^301-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^301-2]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### II. Determinazione del luogo di dimora
 
@@ -4670,13 +4715,13 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>5</sup> Se necessario, i genitori si accordano, conformemente al bene del figlio, in merito a una modifica dell’autorità parentale, della custodia, delle relazioni personali e del contributo di mantenimento. Se non raggiungono un accordo, decide il giudice o l’autorità di protezione dei minori.
 
-[^301a-1]: Introdotto dal n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^301a-1]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### III. Educazione
 
 [^book2-part2-tit8-chap3-lvlB-lvlIII-1]
 
-[^book2-part2-tit8-chap3-lvlB-lvlIII-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^book2-part2-tit8-chap3-lvlB-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 #### Art. 302
 
@@ -4688,13 +4733,13 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>3</sup> A tal fine, essi devono cooperare appropriatamente con la scuola e, ove le circostanze lo richiedano, con le istituzioni pubbliche e d’utilità pubblica per l’aiuto alla gioventù.
 
-[^302-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^302-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### IV. Educazione religiosa
 
 [^book2-part2-tit8-chap3-lvlB-lvlIV-1]
 
-[^book2-part2-tit8-chap3-lvlB-lvlIV-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^book2-part2-tit8-chap3-lvlB-lvlIV-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 #### Art. 303
 
@@ -4706,7 +4751,7 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>3</sup> Il figlio che ha compiuto il sedicesimo anno di età decide liberamente circa la propria confessione religiosa.
 
-[^303-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^303-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### V. Rappresentanza
 
@@ -4716,7 +4761,7 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 [^book2-part2-tit8-chap3-lvlB-lvlV-lvl1-lvla-1]
 
-[^book2-part2-tit8-chap3-lvlB-lvlV-lvl1-lvla-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^book2-part2-tit8-chap3-lvlB-lvlV-lvl1-lvla-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 #### Art. 304
 
@@ -4728,15 +4773,15 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>3</sup> I genitori non possono, in rappresentanza del figlio, contrarre fideiussioni, costituire fondazioni né fare donazioni, fatti salvi i regali d’uso.[^304-3]
 
-[^304-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^304-2]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^304-3]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^304-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^304-2]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^304-3]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### b. Stato giuridico del figlio
 
 [^book2-part2-tit8-chap3-lvlB-lvlV-lvl1-lvlb-1]
 
-[^book2-part2-tit8-chap3-lvlB-lvlV-lvl1-lvlb-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book2-part2-tit8-chap3-lvlB-lvlV-lvl1-lvlb-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 305
 
@@ -4746,8 +4791,8 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>2</sup> La sostanza del figlio risponde per le costui obbligazioni senza riguardo ai diritti dei genitori sulla medesima.
 
-[^305-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^305-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^305-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^305-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 2. Nei rapporti interni della comunione
 
@@ -4761,9 +4806,9 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>3</sup> In caso di collisione di interessi, i poteri dei genitori decadono per legge nell’affare di cui si tratta.[^306-3]
 
-[^306-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^306-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^306-3]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^306-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^306-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^306-3]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### C. Protezione del figlio
 
@@ -4779,13 +4824,13 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>3</sup> L’autorità di protezione dei minori può segnatamente ammonire i genitori, gli affilianti od il figlio, impartire loro istruzioni per la cura, l’educazione o l’istruzione e designare una persona o un ufficio idoneo che abbia diritto di controllo e informazione.
 
-[^307-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^307-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### II. Curatela
 
 [^book2-part2-tit8-chap3-lvlC-lvlII-1]
 
-[^book2-part2-tit8-chap3-lvlC-lvlII-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^book2-part2-tit8-chap3-lvlC-lvlII-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 #### Art. 308
 
@@ -4797,20 +4842,20 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>3</sup> L’autorità parentale può essere corrispondentemente limitata.
 
-[^308-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^308-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^308-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^308-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 #### Art. 309
 
 [^309-1]
 
-[^309-1]: Abrogato dal n. I della LF del 21 giu. 2013 (Autorità parentale), con effetto dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^309-1]: Abrogato dalla cifra I della LF del 21 giu. 2013 (Autorità parentale), con effetto dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### III. Privazione del diritto di determinare il luogo di dimora
 
 [^book2-part2-tit8-chap3-lvlC-lvlIII-1]
 
-[^book2-part2-tit8-chap3-lvlC-lvlIII-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^book2-part2-tit8-chap3-lvlC-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 #### Art. 310
 
@@ -4822,7 +4867,7 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>3</sup> L’autorità di protezione dei minori può vietare ai genitori di riprendere il figlio vissuto per lungo tempo presso genitori affilianti qualora il suo sviluppo possa esserne seriamente pregiudicato.
 
-[^310-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^310-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### IV. Privazione dell’autorità parentale
 
@@ -4830,7 +4875,7 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 [^book2-part2-tit8-chap3-lvlC-lvlIV-lvl1-1]
 
-[^book2-part2-tit8-chap3-lvlC-lvlIV-lvl1-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book2-part2-tit8-chap3-lvlC-lvlIV-lvl1-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 311
 
@@ -4847,15 +4892,15 @@ Se altre misure per la protezione del figlio sono rimaste infruttuose o sembrano
 
 <sup>3</sup> Salvo esplicita disposizione contraria, la privazione dell’autorità parentale vale anche riguardo ai figli nascituri.
 
-[^311-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^311-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^311-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^311-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^311-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^311-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### 2. Col consenso dei genitori
 
 [^book2-part2-tit8-chap3-lvlC-lvlIV-lvl2-1]
 
-[^book2-part2-tit8-chap3-lvlC-lvlIV-lvl2-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto elle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book2-part2-tit8-chap3-lvlC-lvlIV-lvl2-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto elle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 312
 
@@ -4866,8 +4911,8 @@ L’autorità di protezione dei minori priva i genitori dell’autorità parenta
 - 1\. quando ne facciano richiesta per motivi gravi;
 - 2\. quando abbiano dato il consenso ad un’adozione futura del figlio da parte di terzi non designati.
 
-[^312-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^312-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^312-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^312-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### V. Modificazione delle circostanze
 
@@ -4879,8 +4924,8 @@ L’autorità di protezione dei minori priva i genitori dell’autorità parenta
 
 <sup>2</sup> In nessun caso può farsi luogo al ripristino dell’autorità parentale prima d’un anno dalla privazione.[^313-2]
 
-[^313-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^313-2]: Nuovo testo giusta il n. II della LF del 6 ott. 1978, in vigore dal 1° gen. 1981 ([RU 1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31); [FF 1977 III 1](https://fedlex.data.admin.ch/eli/fga/1977/3_1_1_1)).
+[^313-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^313-2]: Nuovo testo giusta la cifra II della LF del 6 ott. 1978, in vigore dal 1° gen. 1981 ([RU 1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31); [FF 1977 III 1](https://fedlex.data.admin.ch/eli/fga/1977/3_1_1_1)).
 
 ### VI. Procedura
 
@@ -4896,7 +4941,7 @@ L’autorità di protezione dei minori priva i genitori dell’autorità parenta
 
 <sup>3</sup> Se istituisce una curatela, l’autorità di protezione dei minori stabilisce nel dispositivo della decisione i compiti del curatore e le eventuali restrizioni dell’autorità parentale.
 
-[^314-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^314-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 2. Audizione del figlio
 
@@ -4910,7 +4955,7 @@ L’autorità di protezione dei minori priva i genitori dell’autorità parenta
 
 <sup>3</sup> Il figlio capace di discernimento può interporre reclamo contro la negata audizione.
 
-[^314a-1]: Introdotto dal n. II della LF del 6 ott. 1978 ([RU 1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31); [FF 1977 III 1](https://fedlex.data.admin.ch/eli/fga/1977/3_1_1_1)). Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^314a-1]: Introdotto dalla cifra II della LF del 6 ott. 1978 ([RU 1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31); [FF 1977 III 1](https://fedlex.data.admin.ch/eli/fga/1977/3_1_1_1)). Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 3. Rappresentanza del figlio
 
@@ -4929,7 +4974,7 @@ L’autorità di protezione dei minori esamina se occorra disporre una rappresen
 
 <sup>3</sup> Il curatore del figlio può proporre conclusioni e presentare impugnazioni.
 
-[^314abis-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^314abis-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 4. Ricovero in un istituto chiuso o in una clinica psichiatrica
 
@@ -4941,7 +4986,7 @@ L’autorità di protezione dei minori esamina se occorra disporre una rappresen
 
 <sup>2</sup> Se è capace di discernimento, il figlio può adire da sé il giudice.
 
-[^314b-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^314b-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 5. Diritti di avviso
 
@@ -4953,8 +4998,8 @@ L’autorità di protezione dei minori esamina se occorra disporre una rappresen
 
 <sup>2</sup> Se l’avviso è nell’interesse del minorenne, anche le persone vincolate dal segreto professionale secondo il Codice penale[^314c-2] possono avvisare l’autorità di protezione dei minori. La presente disposizione non si applica agli ausiliari vincolati dal segreto professionale secondo il Codice penale.
 
-[^314c-1]: Introdotto dal n. I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^314c-1]: Introdotto dalla cifra I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^314c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 6. Obblighi di avviso
 
@@ -4973,8 +5018,8 @@ Salvo che siano vincolate dal segreto professionale secondo il Codice penale[^31
 
 <sup>3</sup> I Cantoni possono prevedere ulteriori obblighi di avviso.
 
-[^314d-1]: Introdotto dal n. I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314d-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^314d-1]: Introdotto dalla cifra I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^314d-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 7. Collaborazione e assistenza amministrativa
 
@@ -4990,9 +5035,9 @@ Salvo che siano vincolate dal segreto professionale secondo il Codice penale[^31
 
 <sup>4</sup> Le autorità amministrative e giudiziarie consegnano gli atti necessari, fanno rapporto e forniscono informazioni, sempre che non vi si oppongano interessi degni di protezione.
 
-[^314e-1]: Introdotto dal n. I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314e-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^314e-3]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^314e-1]: Introdotto dalla cifra I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^314e-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^314e-3]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 ### VII. Competenza
 
@@ -5000,7 +5045,7 @@ Salvo che siano vincolate dal segreto professionale secondo il Codice penale[^31
 
 [^book2-part2-tit8-chap3-lvlC-lvlVII-lvl1-1]
 
-[^book2-part2-tit8-chap3-lvlC-lvlVII-lvl1-1]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^book2-part2-tit8-chap3-lvlC-lvlVII-lvl1-1]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 #### Art. 315
 
@@ -5012,8 +5057,8 @@ Salvo che siano vincolate dal segreto professionale secondo il Codice penale[^31
 
 <sup>3</sup> L’autorità del luogo di dimora che ordina una misura per la protezione del figlio ne informa l’autorità del domicilio.
 
-[^315-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^315-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^315-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^315-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 2. Nella procedura matrimoniale
 
@@ -5034,9 +5079,9 @@ Spetta tuttavia all’autorità di protezione dei minori:[^315a-3]
 - 1\. continuare una procedura di protezione del figlio introdotta prima della procedura giudiziaria;
 - 2\. ordinare le misure immediatamente necessarie alla protezione del figlio, quando sia prevedibile che il giudice non possa prenderle tempestivamente.
 
-[^315a-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)). Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^315a-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^315a-3]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^315a-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)). Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^315a-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^315a-3]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### b. Modifica di misure giudiziarie
 
@@ -5054,8 +5099,8 @@ Il giudice è competente a modificare le misure giudiziarie relative all’attri
 
 <sup>2</sup> Negli altri casi è competente l’autorità di protezione dei minori.[^315b-2]
 
-[^315b-1]: Introdotto dal n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^315b-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^315b-1]: Introdotto dalla cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^315b-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### VIII. Vigilanza sugli affiliati
 
@@ -5069,7 +5114,7 @@ Il giudice è competente a modificare le misure giudiziarie relative all’attri
 
 <sup>2</sup> Il Consiglio federale emana norme esecutive.
 
-[^316-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^316-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^316-2]: Introdotto dall’all. n. 2 della LF del 22 giu. 2001 relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali, in vigore dal 1° gen. 2003 ([RU 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [FF 1999 4799](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)).
 
 ### IX. Cooperazione dell’aiuto alla gioventù
@@ -5080,13 +5125,13 @@ Il giudice è competente a modificare le misure giudiziarie relative all’attri
 
 I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra autorità ed uffici nel campo della protezione dell’infanzia secondo il diritto civile, in quello del diritto penale per gli adolescenti ed in genere dell’aiuto alla gioventù.
 
-[^317-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^317-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### Capo quarto: Della sostanza del figlio
 
 [^book2-part2-tit8-chap4-1]
 
-[^book2-part2-tit8-chap4-1]: Introdotto dal n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit8-chap4-1]: Introdotto dalla cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. Amministrazione
 
@@ -5100,9 +5145,9 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 <sup>3</sup> L’autorità di protezione dei minori, se lo ritiene opportuno visti il genere e l’importanza della sostanza del figlio e le condizioni personali dei genitori, ordina la compilazione di un inventario o la consegna periodica di conti e rapporti.[^318-3]
 
-[^318-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^318-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^318-3]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^318-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^318-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^318-3]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### B. Impiego dei redditi
 
@@ -5114,7 +5159,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 <sup>2</sup> L’avanzo spetta alla sostanza del figlio.
 
-[^319-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^319-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### C. Prelevamento sulla sostanza del figlio
 
@@ -5126,7 +5171,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 <sup>2</sup> Se necessario per provvedere alle spese di mantenimento, educazione o istruzione, l’autorità di protezione dei minori può permettere ai genitori di attingere in misura determinata anche alla rimanente sostanza del figlio.
 
-[^320-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^320-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### D. Beni liberi
 
@@ -5140,7 +5185,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 <sup>2</sup> L’amministrazione di questi beni da parte dei genitori può essere esclusa soltanto se espressamente stabilito all’atto della liberalità.
 
-[^321-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^321-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### II. Porzione legittima
 
@@ -5152,7 +5197,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 <sup>2</sup> Se il disponente affida l’amministrazione a un terzo, l’autorità di protezione dei minori può esigere rendiconti e rapporti periodici.
 
-[^322-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^322-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### III. Provento del lavoro, assegno professionale
 
@@ -5164,7 +5209,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 <sup>2</sup> I genitori possono esigere dal figlio che vive con essi in economia domestica un adeguato contributo per il suo mantenimento.
 
-[^323-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^323-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### E. Protezione della sostanza del figlio
 
@@ -5180,7 +5225,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 <sup>3</sup> Le disposizioni sulla protezione del figlio s’applicano per analogia alla procedura e alla competenza.
 
-[^324-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^324-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### II. Privazione dell’amministrazione
 
@@ -5194,7 +5239,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 <sup>3</sup> Se v’è da temere che i redditi o le parti della sostanza del figlio destinate all’uso o liberate non saranno impiegate conformemente alla destinazione, l’autorità di protezione dei minori può parimenti affidarne l’amministrazione a un curatore.
 
-[^325-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^325-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### F. Fine dell’amministrazione
 
@@ -5206,7 +5251,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 Cessando l’autorità o l’amministrazione parentale, i genitori devono consegnare la sostanza al figlio divenuto maggiorenne o al suo rappresentante legale sulla scorta di un rendiconto.
 
-[^326-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^326-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### II. Responsabilità
 
@@ -5220,13 +5265,13 @@ Cessando l’autorità o l’amministrazione parentale, i genitori devono conseg
 
 <sup>3</sup> Non devono alcun risarcimento per ciò che avessero consumato per il figlio o l’economia domestica nei limiti dei loro diritti.
 
-[^327-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^327-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### Capo quinto: Dei minorenni sotto tutela
 
 [^book2-part2-tit8-chap5-1]
 
-[^book2-part2-tit8-chap5-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book2-part2-tit8-chap5-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### A. Principio
 
@@ -5266,14 +5311,14 @@ Il minorenne sotto tutela ha lo stesso stato giuridico del minorenne sotto autor
 
 <sup>2</sup> È fatto salvo l’obbligo di mantenimento dei genitori e del coniuge o del partner registrato.[^328-2]
 
-[^328-1]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^328-1]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^328-2]: Nuovo testo giusta l’all. n. 8 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### B. Oggetto e modo dell’azione
 
 [^book2-part2-tit9-chap1-lvlB-1]
 
-[^book2-part2-tit9-chap1-lvlB-1]: Nuovo testo giusta il n. I 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit9-chap1-lvlB-1]: Nuovo testo giusta la cifra I n. 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 #### Art. 329
 
@@ -5285,9 +5330,9 @@ Il minorenne sotto tutela ha lo stesso stato giuridico del minorenne sotto autor
 
 <sup>3</sup> Le disposizioni sull’azione di mantenimento del figlio e sulla trasmissione del suo diritto all’ente pubblico si applicano per analogia.[^329-3]
 
-[^329-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^329-2]: Nuovo testo giusta il n. I 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^329-3]: Nuovo testo giusta il n. I 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^329-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^329-2]: Nuovo testo giusta la cifra I n. 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^329-3]: Nuovo testo giusta la cifra I n. 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### C. Assistenza di trovatelli
 
@@ -5308,7 +5353,7 @@ Il minorenne sotto tutela ha lo stesso stato giuridico del minorenne sotto autor
 <sup>2</sup> La potestà domestica si estende su tutte le persone che prendono parte all’economia comune quali parenti od affini, oppure in virtù di un rapporto di lavoro quali lavoratori od in qualità analoga[^331-1].[^331-2]
 
 [^331-1]: [RU 1973 642](https://fedlex.data.admin.ch/eli/oc/1973/__642)
-[^331-2]: Nuovo testo giusta il n. I 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^331-2]: Nuovo testo giusta la cifra I n. 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 
 ### B. Effetti
 
@@ -5332,8 +5377,8 @@ Il minorenne sotto tutela ha lo stesso stato giuridico del minorenne sotto autor
 
 <sup>3</sup> Ove occorra, si rivolgerà all’autorità competente per i provvedimenti necessari.
 
-[^333-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^333-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^333-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^333-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### III. Credito dei figli e degli abiatici
 
@@ -5347,7 +5392,7 @@ Il minorenne sotto tutela ha lo stesso stato giuridico del minorenne sotto autor
 
 <sup>2</sup> In caso di contestazione, il giudice decide circa l’ammontare e la garanzia dell’indennità, il genere e il modo del pagamento.
 
-[^334-1]: Nuovo testo giusta il n. I 1 della LF del 6 ott. 1972, in vigore dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
+[^334-1]: Nuovo testo giusta la cifra I n. 1 della LF del 6 ott. 1972, in vigore dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
 
 ### 2. Procedura
 
@@ -5361,7 +5406,7 @@ Il minorenne sotto tutela ha lo stesso stato giuridico del minorenne sotto autor
 
 <sup>3</sup> L’indennità non è soggetta a prescrizioni ma dev’essere fatta valere al più tardi al momento della divisione dell’eredità del debitore.
 
-[^334bis-1]: Introdotto dal n. I 1 della LF del 6 ott. 1972, in vigore dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
+[^334bis-1]: Introdotto dalla cifra I n. 1 della LF del 6 ott. 1972, in vigore dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
 
 ### Capo terzo: Dei beni di famiglia
 
@@ -5503,19 +5548,19 @@ L’indivisione si scioglie:
 
 [^349358-1]
 
-[^349358-1]: Abrogati dal n. I 4 della LF del 26 giu. 1998, con effetto dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^349358-1]: Abrogati dalla cifra I n. 4 della LF del 26 giu. 1998, con effetto dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 #### Art. 359
 
 [^359-1]
 
-[^359-1]: Abrogato dal n. II 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^359-1]: Abrogato dalla cifra II n. 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 ### Parte terza: Della protezione degli adulti
 
 [^book2-part3-1]
 
-[^book2-part3-1]: Nuovo testo giusta il n. I 1 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book2-part3-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### Titolo decimo: Delle misure precauzionali personali e delle misure applicabili per legge
 
@@ -5572,7 +5617,7 @@ Qualora il mandato sussista, l’autorità di protezione degli adulti verifica s
 
 <sup>3</sup> Se il mandatario accetta il mandato, l’autorità lo rende attento agli obblighi derivanti dalle disposizioni del Codice delle obbligazioni[^363-1] sul mandato e gli consegna un documento che attesta i poteri conferitigli.
 
-[^363-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^363-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Interpretazione e completamento
 
@@ -5590,7 +5635,7 @@ Il mandatario può chiedere all’autorità di protezione degli adulti di interp
 
 <sup>3</sup> In caso di collisione di interessi, i poteri del mandatario decadono per legge.
 
-[^365-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^365-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### F. Compenso e spese
 
@@ -5698,7 +5743,7 @@ Il diritto di rappresentanza comprende:
 
 Le disposizioni del Codice delle obbligazioni[^375-1] sul mandato si applicano per analogia all’esercizio del diritto di rappresentanza.
 
-[^375-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^375-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### C. Intervento dell’autorità di protezione degli adulti
 
@@ -5933,7 +5978,7 @@ Se l’istituzione di una curatela appare manifestamente sproporzionata rispetto
 
 <sup>4</sup> ...[^395-1]
 
-[^395-1]: Abrogato dal n. I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), con effetto dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
+[^395-1]: Abrogato dalla cifra I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), con effetto dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### C. Curatela di cooperazione
 
@@ -5981,7 +6026,7 @@ L’amministrazione di sostegno e le curatele di rappresentanza e di cooperazion
 
 <sup>3</sup> L’autorità di protezione degli adulti si adopera affinché siano forniti al curatore l’istruzione, la consulenza e il sostegno necessari.
 
-[^400-1]: Nuovo testo giusta il n. I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2801](https://fedlex.data.admin.ch/eli/oc/2018/423); [FF 2017 1565](https://fedlex.data.admin.ch/eli/fga/2017/381)[2815](https://fedlex.data.admin.ch/eli/fga/2017/652)).
+[^400-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2801](https://fedlex.data.admin.ch/eli/oc/2018/423); [FF 2017 1565](https://fedlex.data.admin.ch/eli/fga/2017/381)[2815](https://fedlex.data.admin.ch/eli/fga/2017/652)).
 
 ### II. Desideri dell’interessato o delle persone a lui vicine
 
@@ -6105,7 +6150,7 @@ Il curatore mette a libera disposizione dell’interessato importi adeguati prel
 
 <sup>3</sup> I terzi sono informati sulla curatela per quanto sia necessario al debito adempimento dei compiti del curatore.
 
-[^413-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^413-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### H. Modificazione delle circostanze
 
@@ -6443,8 +6488,8 @@ L’interessato o una persona a lui vicina può, per scritto, adire il giudice c
 
 <sup>3</sup> I Cantoni possono prevedere ulteriori obblighi di avviso.[^443-2]
 
-[^443-1]: Nuovo testo giusta il n. I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^443-2]: Introdotto dal n. I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^443-1]: Nuovo testo giusta la cifra I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^443-2]: Introdotto dalla cifra I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
 ### B. Esame della competenza
 
@@ -6500,7 +6545,7 @@ L’interessato o una persona a lui vicina può, per scritto, adire il giudice c
 
 <sup>4</sup> Le autorità amministrative e giudiziarie consegnano gli atti necessari, fanno rapporto e forniscono informazioni, sempre che non vi si oppongano interessi degni di protezione.
 
-[^448-1]: Nuovo testo giusta il n. I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^448-1]: Nuovo testo giusta la cifra I della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
 ### G. Ricovero per perizia
 
@@ -6568,8 +6613,8 @@ Qualora ordini, modifichi o revochi misure, l’autorità di protezione degli ad
 
 <sup>2</sup> In caso di cambiamento dell’autorità di protezione degli adulti competente, spetta alla nuova autorità provvedere alle pertinenti comunicazioni.
 
-[^449c-1]: Nuovo testo giusta il n. I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), in vigore dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
-[^449c-2]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^449c-1]: Nuovo testo giusta la cifra I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), in vigore dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
+[^449c-2]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ### Sezione seconda: Davanti all’autorità giudiziaria di reclamo
 
@@ -6667,7 +6712,7 @@ Per il resto si applicano per analogia le disposizioni del diritto processuale c
 
 <sup>2</sup> Chi rende verosimile un interesse può chiedere all’autorità di protezione degli adulti se sussiste una misura di protezione degli adulti e quali ne siano gli effetti. Il Consiglio federale provvede affinché le relative informazioni siano trasmesse in modo semplice, rapido e uniforme. A tal fine emana un’ordinanza.[^451-1]
 
-[^451-1]: Secondo e terzo per. introdotti dal n. I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), in vigore dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
+[^451-1]: Secondo e terzo per. introdotti dalla cifra I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), in vigore dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### B. Effetto delle misure nei confronti dei terzi
 
@@ -6711,7 +6756,7 @@ Per il resto si applicano per analogia le disposizioni del diritto processuale c
 
 <sup>3</sup> Se la lesione risulta dall’emanazione o dall’esecuzione di una misura permanente, la prescrizione del diritto nei confronti del Cantone non comincia prima che la misura stessa decada o sia continuata da un altro Cantone.
 
-[^455-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^455-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^455-2]: Nuovo testo giusta l’all. n. 3 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^455-3]: Nuovo testo giusta l’all. n. 3 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
@@ -6721,7 +6766,7 @@ Per il resto si applicano per analogia le disposizioni del diritto processuale c
 
 La responsabilità del mandatario designato con mandato precauzionale, nonché quella del coniuge o del partner registrato di una persona incapace di discernimento ovvero quella del rappresentante in caso di provvedimenti medici è retta dalle disposizioni del Codice delle obbligazioni[^456-1] sul mandato, sempre che gli stessi non siano investiti di una curatela.
 
-[^456-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^456-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Libro terzo: Del diritto successorio
 
@@ -6731,7 +6776,7 @@ La responsabilità del mandatario designato con mandato precauzionale, nonché q
 
 [^book3-part1-tit13-1]
 
-[^book3-part1-tit13-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^book3-part1-tit13-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### A. Eredi parenti
 
@@ -6779,13 +6824,13 @@ La responsabilità del mandatario designato con mandato precauzionale, nonché q
 
 Il diritto di successione dei parenti cessa con la stirpe degli avi.
 
-[^460-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^460-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 #### Art. 461
 
 [^461-1]
 
-[^461-1]: Abrogato dal n. I 2 della LF del 25 giu. 1976, con effetto dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^461-1]: Abrogato dalla cifra I n. 2 della LF del 25 giu. 1976, con effetto dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### B. Coniuge superstite e partner registrato superstite
 
@@ -6803,22 +6848,22 @@ Il coniuge superstite o il partner registrato superstite riceve:[^462-2]
 - 2\. in concorso con eredi della stirpe dei genitori, tre quarti della successione;
 - 3\. se non vi sono né discendenti né eredi della stirpe dei genitori, l’intera successione.
 
-[^462-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^462-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^462-2]: Nuovo testo giusta l’all. n. 8 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 463 e 464
 
 [^463464-1]
 
-[^463464-1]: Abrogati dal n. I 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^463464-1]: Abrogati dalla cifra I n. 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
-### C. ...
+### c. ...
 
 #### Art. 465
 
 [^465-1]
 
-[^465-1]: Abrogato dal n. I 3 della LF del 30 giu. 1972, con effetto dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Vedi nondimeno l’art. 12*a* del titolo finale.
+[^465-1]: Abrogato dalla cifra I n. 3 della LF del 30 giu. 1972, con effetto dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Vedi nondimeno l’art. 12*a* del titolo finale.
 
 ### D. Enti pubblici
 
@@ -6828,7 +6873,7 @@ Il coniuge superstite o il partner registrato superstite riceve:[^462-2]
 
 Se il defunto non lascia eredi, la successione è devoluta al Cantone in cui egli ha avuto l’ultimo domicilio od al Comune designato dal diritto di questo Cantone.
 
-[^466-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^466-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### Titolo quattordicesimo: Delle disposizioni a causa di morte
 
@@ -6850,7 +6895,7 @@ Chi è capace di discernimento ed ha compito gli anni diciotto può, nei limiti 
 
 <sup>2</sup> Le persone sotto curatela comprendente la conclusione di un contratto successorio abbisognano del consenso del rappresentante legale.
 
-[^468-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^468-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### C. Disposizioni nulle
 
@@ -6874,7 +6919,7 @@ Chi è capace di discernimento ed ha compito gli anni diciotto può, nei limiti 
 
 <sup>2</sup> Chi non lascia eredi in questi gradi può disporre per causa di morte di tutti i suoi beni.
 
-[^470-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^470-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Porzione legittima
 
@@ -6884,7 +6929,7 @@ Chi è capace di discernimento ed ha compito gli anni diciotto può, nei limiti 
 
 La porzione legittima è della metà della quota ereditaria.
 
-[^471-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^471-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### III. Perdita della porzione legittima durante la procedura di divorzio
 
@@ -6903,7 +6948,7 @@ In caso di morte del disponente durante una procedura di divorzio, il coniuge su
 
 <sup>3</sup> I capoversi 1 e 2 si applicano per analogia allo scioglimento dell’unione domestica registrata.
 
-[^472-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^472-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### IV. Usufrutto
 
@@ -6917,7 +6962,7 @@ In caso di morte del disponente durante una procedura di divorzio, il coniuge su
 
 <sup>3</sup> Passando ad altre nozze o costituendo un’unione domestica registrata, il coniuge superstite perde l’usufrutto di quella parte della successione che, al momento dell’aperta successione, non avrebbe potuto essere gravata di usufrutto secondo le disposizioni ordinarie sulla legittima dei discendenti. La presente disposizione si applica per analogia se il partner registrato superstite costituisce una nuova unione domestica registrata o si sposa.
 
-[^473-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^473-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### V. Computo della porzione disponibile
 
@@ -6945,7 +6990,7 @@ Le liberalità fra vivi sono computate nella sostanza in quanto sono soggette al
 
 <sup>2</sup> Sono computate nella successione anche le pretese dei beneficiari derivanti dalla previdenza individuale vincolata del defunto presso una fondazione bancaria.
 
-[^476-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^476-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### B. Diseredazione
 
@@ -7008,7 +7053,7 @@ Mediante disposizione a causa di morte, l’erede può essere privato della legi
 
 <sup>4</sup> La liberalità per disposizione a causa di morte fatta a un animale equivale all’onere di prendersi cura dell’animale in maniera appropriata.[^482-1]
 
-[^482-1]: Introdotto dal n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^482-1]: Introdotto dalla cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 
 ### C. Istituzione d’erede
 
@@ -7116,7 +7161,7 @@ Il disponente può designare una o più persone, a cui debbano essere devoluti l
 
 <sup>2</sup> La sostituzione fedecommissaria si estingue per legge se il discendente, contro ogni aspettativa, diviene capace di discernimento.
 
-[^492a-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^492a-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### G. Fondazioni
 
@@ -7143,7 +7188,7 @@ Le disposizioni a causa di morte e le liberalità tra vivi, eccettuati i regali 
 - 1\. siano incompatibili con le obbligazioni derivanti dal contratto successorio, segnatamente se riducono i benefici che ne derivano; e
 - 2\. non siano state fatte salve in tale contratto.[^494-1]
 
-[^494-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^494-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Rinuncia d’eredità
 
@@ -7228,7 +7273,7 @@ Il testamento pubblico si fa, con l’intervento di due testimoni, davanti un fu
 <sup>2</sup> Il testamento non può contenere alcuna disposizione a favore del funzionario che lo redige, né dei testimoni, né dei parenti consanguinei in linea retta o dei fratelli, sorelle o coniugi dei medesimi.
 
 [^503-1]: La privazione dei diritti civici pronunciata secondo il diritto penale è abolita (vedi [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777); [FF 1965 I 474](https://fedlex.data.admin.ch/eli/fga/1965/1_561_569_474)e [RU 1975 55](https://fedlex.data.admin.ch/eli/oc/1975/55_55_55); [FF 1974 I 1385](https://fedlex.data.admin.ch/eli/fga/1974/1_1457_1397_1385)).
-[^503-2]: Nuovo testo giusta il n. I 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^503-2]: Nuovo testo giusta la cifra I n. 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 
 ### f. Conservazione dei testamenti
 
@@ -7244,7 +7289,7 @@ I Cantoni devono provvedere affinché i funzionari incaricati della confezione d
 
 <sup>2</sup> I Cantoni devono provvedere a che tali disposizioni possano essere consegnate, aperte o chiuse, in custodia ad un pubblico ufficio.
 
-[^505-1]: Nuovo testo giusta il n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4882](https://fedlex.data.admin.ch/eli/oc/1995/4882_4882_4882); [FF 1994 III 472](https://fedlex.data.admin.ch/eli/fga/1994/3_516_519_472), [V 558](https://fedlex.data.admin.ch/eli/fga/1994/5___558)).
+[^505-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4882](https://fedlex.data.admin.ch/eli/oc/1995/4882_4882_4882); [FF 1994 III 472](https://fedlex.data.admin.ch/eli/fga/1994/3_516_519_472), [V 558](https://fedlex.data.admin.ch/eli/fga/1994/5___558)).
 
 ### 4. Testamento orale
 
@@ -7390,7 +7435,7 @@ La disposizione a causa di morte può essere giudizialmente annullata:
 
 [^book3-part1-tit14-chap6-lvlA-lvlII-lvl1-1]
 
-[^book3-part1-tit14-chap6-lvlA-lvlII-lvl1-1]: Nuovo testo giusta il n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4882](https://fedlex.data.admin.ch/eli/oc/1995/4882_4882_4882); [FF 1994 III 472](https://fedlex.data.admin.ch/eli/fga/1994/3_516_519_472), [V 558](https://fedlex.data.admin.ch/eli/fga/1994/5___558)).
+[^book3-part1-tit14-chap6-lvlA-lvlII-lvl1-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4882](https://fedlex.data.admin.ch/eli/oc/1995/4882_4882_4882); [FF 1994 III 472](https://fedlex.data.admin.ch/eli/fga/1994/3_516_519_472), [V 558](https://fedlex.data.admin.ch/eli/fga/1994/5___558)).
 
 #### Art. 520
 
@@ -7408,7 +7453,7 @@ La disposizione a causa di morte può essere giudizialmente annullata:
 
 Se l’indicazione dell’anno, del mese e del giorno della confezione di un testamento olografo manca o è inesatta, il testamento può essere annullato soltanto se i dati temporali necessari non possono essere determinati in altro modo e se la data è necessaria per determinare la capacità di disporre l’ordine cronologico di più testamenti o un’altra questione relativa alla validità del testamento.
 
-[^520a-1]: Introdotto dal n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4882](https://fedlex.data.admin.ch/eli/oc/1995/4882_4882_4882); [FF 1994 III 472](https://fedlex.data.admin.ch/eli/fga/1994/3_516_519_472), [V 558](https://fedlex.data.admin.ch/eli/fga/1994/5___558)).
+[^520a-1]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4882](https://fedlex.data.admin.ch/eli/oc/1995/4882_4882_4882); [FF 1994 III 472](https://fedlex.data.admin.ch/eli/fga/1994/3_516_519_472), [V 558](https://fedlex.data.admin.ch/eli/fga/1994/5___558)).
 
 ### III. Prescrizione
 
@@ -7440,7 +7485,7 @@ Gli eredi che ottengono un importo inferiore alla loro legittima possono proporr
 
 <sup>2</sup> Se una disposizione a causa di morte contiene prescrizioni circa le quote dei singoli eredi legittimi, queste si devono considerare come semplici prescrizioni relative alla divisione, eccettoché una diversa intenzione non risulti dalla disposizione stessa.
 
-[^522-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^522-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 2. Eredi legittimari
 
@@ -7450,7 +7495,7 @@ Gli eredi che ottengono un importo inferiore alla loro legittima possono proporr
 
 Gli acquisti a causa di morte risultanti dalla legge e le liberalità a causa di morte di cui beneficiano gli eredi legittimari possono essere ridotti in proporzione all’importo eccedente la loro legittima.
 
-[^523-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^523-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 3. Diritti dei creditori
 
@@ -7507,7 +7552,7 @@ Soggiacciono alla riduzione come le disposizioni a causa di morte:
 
 <sup>2</sup> Sono soggette a riduzione anche le pretese dei beneficiari derivanti dalla previdenza individuale vincolata del defunto presso una fondazione bancaria.
 
-[^529-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^529-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 5. Usufrutti e rendite
 
@@ -7523,7 +7568,7 @@ Ove il disponente abbia gravato la sua successione di usufrutti o di rendite in 
 
 La sostituzione fedecommissaria è nulla riguardo all’erede legittimario in quanto sia lesiva della legittima; è fatta salva la disposizione sui discendenti incapaci di discernimento.
 
-[^531-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^531-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### III. Ordine della riduzione
 
@@ -7547,7 +7592,7 @@ Le liberalità fra vivi sono ridotte nell’ordine seguente:
 - 2\. le liberalità liberamente revocabili e le prestazioni della previdenza individuale vincolata, nella stessa proporzione;
 - 3\. le altre liberalità, procedendo dalla più recente alla più remota.
 
-[^532-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^532-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### IV. Prescrizione dell’azione
 
@@ -7680,8 +7725,8 @@ Il rinunciante che per effetto della riduzione sia obbligato a fare una restituz
 
 <sup>2</sup> Se nasce morto, l’infante non è considerato erede.[^544-2]
 
-[^544-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^544-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^544-1]: Introdotto dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^544-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### 4. Eredi sostituiti
 
@@ -7781,7 +7826,7 @@ La compilazione dell’inventario è ordinata se:
 
 <sup>3</sup> La compilazione dell’inventario può essere prescritta dalla legislazione cantonale per altri casi.
 
-[^553-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^553-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### D. Nomina di amministratore
 
@@ -7802,7 +7847,7 @@ L’amministrazione dell’eredità è ordinata:
 
 <sup>3</sup> Se il defunto era sotto curatela comprendente l’amministrazione dei beni, il curatore assume anche l’amministrazione dell’eredità, salvo che sia disposto altrimenti.[^554-1]
 
-[^554-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^554-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### II. Eredi ignoti
 
@@ -7870,7 +7915,7 @@ L’amministrazione dell’eredità è ordinata:
 
 [^561-1]
 
-[^561-1]: Abrogato dal n. I 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^561-1]: Abrogato dalla cifra I n. 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### III. Legatari
 
@@ -8212,7 +8257,7 @@ La liquidazione delle eredità oberate è fatta dall’ufficio dei fallimenti a 
 
 <sup>2</sup> …[^598-1]
 
-[^598-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^598-1]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### B. Effetti
 
@@ -8260,7 +8305,7 @@ L’azione del legatario si prescrive in dieci anni dal giorno della comunicazio
 
 <sup>2</sup> L’equa indennità dovuta ai figli o agli abiatici per prestazioni conferite alla comunione domestica del defunto è computata nei debiti della successione, sempreché non ne derivi l’insolvenza di questa.[^603-1]
 
-[^603-1]: Introdotto dal n. I 1 della LF del 6 ott. 1972, in vigore dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
+[^603-1]: Introdotto dalla cifra I n. 1 della LF del 6 ott. 1972, in vigore dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
 
 ### B. Azione di divisione
 
@@ -8364,7 +8409,7 @@ Gli eredi, che al tempo dell’aperta successione ricevevano il loro manteniment
 
 <sup>4</sup> Il presente articolo si applica per analogia ai partner registrati.[^612a-2]
 
-[^612a-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. l; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^612a-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. l; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^612a-2]: Introdotto dall’all. n. 8 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### D. Oggetti particolari
@@ -8429,8 +8474,8 @@ I fondi sono imputati agli eredi per il valore venale che hanno al momento della
 
 <sup>2</sup> …[^618-2]
 
-[^618-1]: Nuovo testo giusta l’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^618-2]: Abrogato dal n. I 1 della LF del 6 ott. 1972, con effetto dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
+[^618-1]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^618-2]: Abrogato dalla cifra I n. 1 della LF del 6 ott. 1972, con effetto dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
 
 ### V. Aziende e fondi agricoli
 
@@ -8441,7 +8486,7 @@ I fondi sono imputati agli eredi per il valore venale che hanno al momento della
 La ripresa e l’imputazione di aziende e fondi agricoli sono rette dalla legge federale del 4 ottobre 1991[^619-2] sul diritto fondiario rurale.
 
 [^619-1]: Nuovo testo giusta l’art. 92 n. 1 della LF del 4 ott. 1991 sul diritto fondiario rurale, in vigore dal 1° gen. 1994 ([RU 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^619-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^619-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 620 a 625
 
@@ -8511,7 +8556,7 @@ I consueti regali d’occasione non devono essere conferiti.
 
 [^633-1]
 
-[^633-1]: Abrogato dal n. I 1 della LF del 6 ott. 1972, con effetto dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
+[^633-1]: Abrogato dalla cifra I n. 1 della LF del 6 ott. 1972, con effetto dal 15 feb. 1973 ([RU 1973 99](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 601](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 543](https://fedlex.data.admin.ch/eli/fga/1971/1___543)).
 
 ### Capo quarto: Della Chiusura e degli effetti della divisione
 
@@ -8533,7 +8578,7 @@ I consueti regali d’occasione non devono essere conferiti.
 
 <sup>2</sup> Se tali contratti sono stipulati da uno degli eredi con un terzo, essi non danno a questo il diritto d’intervenire nella divisione, ma solo di pretendere la parte che nella divisione sarà attribuita al cedente.
 
-[^635-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. l; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^635-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. l; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### III. Convenzioni circa eredità non devolute
 
@@ -8593,7 +8638,7 @@ L’azione di rescissione del contratto di divisione è soggetta alle norme dell
 
 [^book4-part1-tit18-lvlA-lvlI-1]
 
-[^book4-part1-tit18-lvlA-lvlI-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^book4-part1-tit18-lvlA-lvlI-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 
 #### Art. 641
 
@@ -8611,7 +8656,7 @@ L’azione di rescissione del contratto di divisione è soggetta alle norme dell
 
 <sup>2</sup> Salvo disciplinamenti particolari, le prescrizioni applicabili alle cose sono parimenti valide per gli animali.
 
-[^641a-1]: Introdotto dal n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^641a-1]: Introdotto dalla cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 
 ### B. Estensione della proprietà
 
@@ -8682,9 +8727,9 @@ Il regolamento non può escludere né restringere la facoltà di ogni comproprie
 - 1\. di chiedere e, se occorre, di far ordinare dal giudice l’esecuzione degli atti d’amministrazione necessari a conservare il valore della cosa e a mantenerla idonea all’uso;
 - 2\. d’attuare, a spese di tutti i comproprietari, le misure urgenti, necessarie a preservare la cosa da un danno imminente o maggiore.
 
-[^647-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
-[^647-2]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^647-3]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^647-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^647-2]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^647-3]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 3. Atti dell’ordinaria amministrazione
 
@@ -8696,7 +8741,7 @@ Il regolamento non può escludere né restringere la facoltà di ogni comproprie
 
 <sup>2</sup> La competenza per tali atti d’amministrazione può essere regolata altrimenti a maggioranza di tutti i comproprietari, salvo le disposizioni della legge concernenti le misure necessarie e urgenti.
 
-[^647a-1]: Introdotto dal n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^647a-1]: Introdotto dalla cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### 4. Atti di amministrazione più importanti
 
@@ -8708,7 +8753,7 @@ Il regolamento non può escludere né restringere la facoltà di ogni comproprie
 
 <sup>2</sup> Sono riservate le disposizioni concernenti i lavori di costruzione necessari.
 
-[^647b-1]: Introdotto dal n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^647b-1]: Introdotto dalla cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### 5. Lavori di costruzione
 
@@ -8720,7 +8765,7 @@ Il regolamento non può escludere né restringere la facoltà di ogni comproprie
 
 I lavori di manutenzione, di riparazione e di rinnovazione necessari a conservare il valore della cosa e a mantenerla idonea all’uso sono decisi a maggioranza di tutti i comproprietari, sempreché non siano atti d’ordinaria amministrazione che ognuno di essi può fare.
 
-[^647c-1]: Introdotto dal n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^647c-1]: Introdotto dalla cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### b. Utili
 
@@ -8734,7 +8779,7 @@ I lavori di manutenzione, di riparazione e di rinnovazione necessari a conservar
 
 <sup>3</sup> Le modificazioni implicanti una spesa che non si possa ragionevolmente imporre a un comproprietario, segnatamente perché sproporzionata al valore della sua quota, possono essere fatte senza il suo consenso, purché la sua parte di spesa che superi la somma a lui imponibile, sia assunta dagli altri comproprietari.
 
-[^647d-1]: Introdotto dal n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^647d-1]: Introdotto dalla cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### c. Diretti all’abbellimento e alla comodità
 
@@ -8746,7 +8791,7 @@ I lavori di manutenzione, di riparazione e di rinnovazione necessari a conservar
 
 <sup>2</sup> Questi lavori possono, a una maggioranza di tutti i comproprietari che rappresenti in pari tempo la maggior parte della cosa, essere decisi anche contro la volontà d’un comproprietario che non ne risulti durevolmente impedito nel diritto d’uso e di godimento, qualora gli altri comproprietari gli risarciscano il pregiudizio temporaneo e assumano la sua parte di spesa.
 
-[^647e-1]: Introdotto dal n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^647e-1]: Introdotto dalla cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### 6. Disposizione
 
@@ -8760,7 +8805,7 @@ I lavori di manutenzione, di riparazione e di rinnovazione necessari a conservar
 
 <sup>3</sup> I comproprietari non possono gravare la cosa di diritti di pegno o di oneri fondiari, qualora ne siano già gravate singole quote.
 
-[^648-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^648-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### 7. Contribuzione alle spese ed oneri
 
@@ -8772,13 +8817,13 @@ I lavori di manutenzione, di riparazione e di rinnovazione necessari a conservar
 
 <sup>2</sup> Il comproprietario che ha sopportato più della sua parte di tali spese può chiederne compenso agli altri nella stessa proporzione.
 
-[^649-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^649-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### 8. Vincolatività di norme e decisioni e menzione nel registro fondiario
 
 [^book4-part1-tit18-lvlC-lvlI-lvl8-1]
 
-[^book4-part1-tit18-lvlC-lvlI-lvl8-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part1-tit18-lvlC-lvlI-lvl8-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 649a
 
@@ -8788,8 +8833,8 @@ I lavori di manutenzione, di riparazione e di rinnovazione necessari a conservar
 
 <sup>2</sup> Se concernono quote di comproprietà d’un fondo, possono essere menzionati nel registro fondiario.[^649a-2]
 
-[^649a-1]: Introdotto dal n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
-[^649a-2]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^649a-1]: Introdotto dalla cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^649a-2]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 9. Esclusione dalla comunione
 
@@ -8805,7 +8850,7 @@ I lavori di manutenzione, di riparazione e di rinnovazione necessari a conservar
 
 <sup>3</sup> Il giudice che pronuncia l’esclusione condanna il convenuto ad alienare la sua quota di comproprietà e, per il caso in cui l’alienazione non sia attuata nel termine fissato, ordina che la quota sia venduta agli incanti pubblici secondo le disposizioni sulla realizzazione forzata degli immobili, eccetto quelle concernenti lo scioglimento della comproprietà.
 
-[^649b-1]: Introdotto dal n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^649b-1]: Introdotto dalla cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### b. Titolari di altri diritti
 
@@ -8815,7 +8860,7 @@ I lavori di manutenzione, di riparazione e di rinnovazione necessari a conservar
 
 Le disposizioni concernenti l’esclusione d’un comproprietario si applicano per analogia all’usufruttuario della quota di comproprietà e al titolare di altri diritti di godimento reali oppure personali annotati nel registro fondiario.
 
-[^649c-1]: Introdotto dal n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^649c-1]: Introdotto dalla cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### 10. Scioglimento
 
@@ -8831,8 +8876,8 @@ Le disposizioni concernenti l’esclusione d’un comproprietario si applicano p
 
 <sup>3</sup> Lo scioglimento non può essere chiesto intempestivamente.
 
-[^650-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
-[^650-2]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^650-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^650-2]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### b. Modo della divisione
 
@@ -8856,7 +8901,7 @@ Le disposizioni concernenti l’esclusione d’un comproprietario si applicano p
 
 <sup>3</sup> Il tribunale adotta le necessarie misure provvisionali, segnatamente in relazione alla sistemazione provvisoria dell’animale.
 
-[^651a-1]: Introdotto dal n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^651a-1]: Introdotto dalla cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 
 ### II. Proprietà comune
 
@@ -8893,7 +8938,7 @@ Se più persone, vincolate ad una comunione per disposizione di legge o per cont
 Lo scioglimento della proprietà collettiva di aziende e fondi agricoli è inoltre retta dalla legge federale del 4 ottobre 1991[^654a-2] sul diritto fondiario rurale.
 
 [^654a-1]: Introdotto dall’art. 92 n. 1 della LF del 4 ott. 1991 sul diritto fondiario rurale, in vigore dal 1° gen. 1994 ([RU 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^654a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^654a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### Titolo diciannovesimo: Della proprietà fondiaria
 
@@ -8905,7 +8950,7 @@ Lo scioglimento della proprietà collettiva di aziende e fondi agricoli è inolt
 
 [^book4-part1-tit19-chap1-lvlA-lvlI-1]
 
-[^book4-part1-tit19-chap1-lvlA-lvlI-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part1-tit19-chap1-lvlA-lvlI-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 655
 
@@ -8929,8 +8974,8 @@ La servitù su un fondo può essere intavolata nel registro fondiario come dirit
 - 1\. non è costituita né a favore di un fondo dominante né esclusivamente a favore di una determinata persona; e
 - 2\. è costituita per almeno 30 anni o per un tempo indeterminato.[^655-2]
 
-[^655-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
-[^655-2]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^655-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^655-2]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. Proprietà dipendente
 
@@ -8942,7 +8987,7 @@ La servitù su un fondo può essere intavolata nel registro fondiario come dirit
 
 <sup>2</sup> Se i fondi sono connessi per un fine durevole, il diritto di prelazione legale dei comproprietari e il diritto di chiedere lo scioglimento della comproprietà non possono essere fatti valere.
 
-[^655a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^655a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### B. Acquisto della proprietà fondiaria
 
@@ -8988,7 +9033,7 @@ La servitù su un fondo può essere intavolata nel registro fondiario come dirit
 
 [^book4-part1-tit19-chap1-lvlB-lvlII-lvl4-lvla-1]
 
-[^book4-part1-tit19-chap1-lvlB-lvlII-lvl4-lvla-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^book4-part1-tit19-chap1-lvlB-lvlII-lvl4-lvla-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 #### Art. 660
 
@@ -9008,7 +9053,7 @@ La servitù su un fondo può essere intavolata nel registro fondiario come dirit
 
 <sup>3</sup> L’appartenenza di un fondo a un tale territorio dev’essere comunicata in maniera adeguata agli interessati e menzionata nel registro fondiario.
 
-[^660a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^660a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### c. Nuova determinazione del confine
 
@@ -9020,7 +9065,7 @@ La servitù su un fondo può essere intavolata nel registro fondiario come dirit
 
 <sup>2</sup> Il plusvalore o il minor valore deve essere compensato.
 
-[^660b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^660b-1]: Introdotto dalla cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 5. Prescrizione acquisitiva
 
@@ -9066,7 +9111,7 @@ Per il computo dei termini, per l’interruzione e la sospensione della prescriz
 
 <sup>3</sup> Le modificazioni della proprietà fondiaria derivanti per legge dalla comunione dei beni o dal suo scioglimento sono iscritte nel registro fondiario su notificazione di un coniuge.[^665-1]
 
-[^665-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^665-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### C. Perdita
 
@@ -9097,7 +9142,7 @@ Le misure possono essere chieste:
 
 <sup>4</sup> Le misure non comportano interruzione del termine di prescrizione acquisitiva straordinaria.
 
-[^666a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^666a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. Soggetti giuridici privi degli organi prescritti
 
@@ -9107,7 +9152,7 @@ Le misure possono essere chieste:
 
 Se una persona giuridica o un altro soggetto giuridico iscritti nel registro fondiario quali proprietari non dispongono più degli organi prescritti, chiunque abbia un interesse degno di protezione o l’ufficio del registro fondiario del luogo di situazione del fondo può chiedere al giudice di ordinare le misure necessarie riguardo al fondo.
 
-[^666b-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^666b-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### Capo secondo: Elementi e limiti della proprietà fondiaria
 
@@ -9133,7 +9178,7 @@ Se una persona giuridica o un altro soggetto giuridico iscritti nel registro fon
 
 <sup>3</sup> La presunzione non si applica ai territori con spostamenti di terreno permanenti designati tali dai Cantoni.[^668-1]
 
-[^668-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^668-1]: Introdotto dalla cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 2. Obbligo di porre i termini
 
@@ -9205,8 +9250,8 @@ Nei casi in cui il valore della costruzione superi manifestamente quello del suo
 
 <sup>3</sup> La servitù nasce con la costruzione della condotta se questa è riconoscibile esteriormente. In caso contrario essa nasce con l’iscrizione nel registro fondiario.[^676-2]
 
-[^676-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^676-2]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^676-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^676-2]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 5. Costruzioni mobiliari
 
@@ -9226,8 +9271,8 @@ Nei casi in cui il valore della costruzione superi manifestamente quello del suo
 
 <sup>3</sup> Il proprietario gravato può, prima della scadenza della durata pattuita, esigere il riscatto della servitù se ha concluso un contratto d’affitto sull’utilizzazione del suolo con il titolare della servitù e se tale contratto viene sciolto. Il giudice determina le conseguenze patrimoniali apprezzando tutte le circostanze.[^678-2]
 
-[^678-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4121](https://fedlex.data.admin.ch/eli/oc/2003/613); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)).
-[^678-2]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4121](https://fedlex.data.admin.ch/eli/oc/2003/613); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)).
+[^678-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4121](https://fedlex.data.admin.ch/eli/oc/2003/613); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)).
+[^678-2]: Introdotto dalla cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4121](https://fedlex.data.admin.ch/eli/oc/2003/613); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)).
 
 ### V. Responsabilità del proprietario
 
@@ -9235,7 +9280,7 @@ Nei casi in cui il valore della costruzione superi manifestamente quello del suo
 
 [^book4-part1-tit19-chap2-lvlA-lvlV-lvl1-1]
 
-[^book4-part1-tit19-chap2-lvlA-lvlV-lvl1-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part1-tit19-chap2-lvlA-lvlV-lvl1-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 679
 
@@ -9243,7 +9288,7 @@ Nei casi in cui il valore della costruzione superi manifestamente quello del suo
 
 <sup>2</sup> Qualora una costruzione o un’istallazione privi un fondo vicino di determinate qualità, le pretese di cui al capoverso 1 sussistono soltanto se all’atto dell’edificazione della costruzione o dell’installazione non sono state osservate le norme allora vigenti.[^679-1]
 
-[^679-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^679-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 2. In caso di gestione legittima del fondo
 
@@ -9253,7 +9298,7 @@ Nei casi in cui il valore della costruzione superi manifestamente quello del suo
 
 Se, nell’ambito della gestione legittima di un fondo, segnatamente procedendo a una costruzione, il proprietario causa temporaneamente a un vicino inconvenienti eccessivi e inevitabili che gli arrecano un danno, il vicino può esigere dal proprietario soltanto il risarcimento del danno.
 
-[^679a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^679a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### B. Restrizioni
 
@@ -9281,7 +9326,7 @@ Se, nell’ambito della gestione legittima di un fondo, segnatamente procedendo 
 
 <sup>3</sup> I diritti di prelazione legali non sono né trasmissibili per successione né cedibili. Essi prevalgono sui diritti di prelazione convenzionali.
 
-[^681-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^681-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 2. Esercizio
 
@@ -9295,7 +9340,7 @@ Se, nell’ambito della gestione legittima di un fondo, segnatamente procedendo 
 
 <sup>3</sup> Entro tali termini, il titolare del diritto di prelazione può invocare il suo diritto contro qualsiasi proprietario del fondo.
 
-[^681a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^681a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 3. Modificazione, rinuncia
 
@@ -9307,13 +9352,13 @@ Se, nell’ambito della gestione legittima di un fondo, segnatamente procedendo 
 
 <sup>2</sup> Sopravvenuto il caso di prelazione, l’avente diritto può rinunciare per scritto ad esercitare un diritto di prelazione legale.
 
-[^681b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^681b-1]: Introdotto dalla cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 4. In caso di comproprietà e di diritto di superficie
 
 [^book4-part1-tit19-chap2-lvlB-lvlII-lvl4-1]
 
-[^book4-part1-tit19-chap2-lvlB-lvlII-lvl4-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^book4-part1-tit19-chap2-lvlB-lvlII-lvl4-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 #### Art. 682
 
@@ -9325,9 +9370,9 @@ Se, nell’ambito della gestione legittima di un fondo, segnatamente procedendo 
 
 <sup>3</sup> …[^682-3]
 
-[^682-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
-[^682-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^682-3]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^682-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^682-2]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^682-3]: Abrogato dalla cifra I della LF del 4 ott. 1991, con effetto dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 5. Diritto di prelazione su aziende e fondi agricoli
 
@@ -9338,13 +9383,13 @@ Se, nell’ambito della gestione legittima di un fondo, segnatamente procedendo 
 I diritti di prelazione su aziende e fondi agricoli sono inoltre retti dalla legge federale del 4 ottobre 1991[^682a-2] sul diritto fondiario rurale.
 
 [^682a-1]: Introdotto dall’art. 92 n. 1 della LF del 4 ott. 1991 sul diritto fondiario rurale, in vigore dal 1° gen. 1994 ([RU 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^682a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^682a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 683
 
 [^683-1]
 
-[^683-1]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^683-1]: Abrogato dalla cifra I della LF del 4 ott. 1991, con effetto dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### III. Rapporti di vicinato
 
@@ -9352,7 +9397,7 @@ I diritti di prelazione su aziende e fondi agricoli sono inoltre retti dalla leg
 
 [^book4-part1-tit19-chap2-lvlB-lvlIII-lvl1-1]
 
-[^book4-part1-tit19-chap2-lvlB-lvlIII-lvl1-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part1-tit19-chap2-lvlB-lvlIII-lvl1-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 684
 
@@ -9360,7 +9405,7 @@ I diritti di prelazione su aziende e fondi agricoli sono inoltre retti dalla leg
 
 <sup>2</sup> Sono vietati in particolare l’inquinamento dell’aria, i cattivi odori, i rumori, i suoni, gli scotimenti, le radiazioni e la privazione di insolazione o di luce diurna che sono di danno ai vicini e non sono giustificati dalla situazione e destinazione dei fondi o dall’uso locale.[^684-1]
 
-[^684-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^684-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 2. Scavi e costruzioni
 
@@ -9428,8 +9473,8 @@ Il diritto cantonale può prescrivere determinate distanze dal fondo del vicino 
 
 <sup>3</sup> Su richiesta dell’avente diritto o del proprietario gravato, tali condotte sono iscritte come servitù nel registro fondiario a spese dell’avente diritto. Il diritto di condotta è opponibile all’acquirente di buona fede anche senza iscrizione.[^691-2]
 
-[^691-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^691-2]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^691-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^691-2]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### b. Tutela degli interessi dei gravati
 
@@ -9536,7 +9581,7 @@ Rimane riservata alla Confederazione, ai Cantoni ed ai Comuni la facoltà di ema
 <sup>3</sup> La legislazione cantonale può facilitare maggiormente l’esecuzione di tali miglioramenti del suolo ed estendere le stesse prescrizioni anche alle zone edificabili e ai territori interessati da spostamenti di terreno permanenti.[^703-2]
 
 [^703-1]: Nuovo testo giusta l’art. 121 della L del 3 ott. 1951 sull’agricoltura, in vigore dal 1° gen. 1954 ([RU 1953 1133](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); FF **1951** II 141 ediz. franc.).
-[^703-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^703-2]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### C. Sorgenti e fontane
 
@@ -9622,7 +9667,7 @@ I proprietari di servizi d’acqua potabile possono domandare in via di espropri
 
 [^book4-part1-tit19-chap3-1]
 
-[^book4-part1-tit19-chap3-1]: Introdotto dal n. II della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^book4-part1-tit19-chap3-1]: Introdotto dalla cifra II della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### A. Elementi e oggetto
 
@@ -9662,7 +9707,7 @@ Non possono essere oggetto del diritto esclusivo:
 
 <sup>3</sup> L’opposizione dev’essere giustificata da gravi motivi.[^712c-1]
 
-[^712c-1]: Nuovo testo giusta l’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^712c-1]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### B. Costituzione e cessazione
 
@@ -9685,7 +9730,7 @@ L’iscrizione può essere chiesta sul fondamento di:
 
 [^book4-part1-tit19-chap3-lvlB-lvlII-1]
 
-[^book4-part1-tit19-chap3-lvlB-lvlII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part1-tit19-chap3-lvlB-lvlII-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 712e
 
@@ -9693,7 +9738,7 @@ L’iscrizione può essere chiesta sul fondamento di:
 
 <sup>2</sup> La modificazione delle quote di valore richiede per la sua validità il consenso di tutti gli interessati diretti e l’approvazione dell’assemblea dei comproprietari; ogni comproprietario può tuttavia domandare la rettificazione della sua quota, se sia stata determinata erroneamente o sia divenuta inesatta per le mutate condizioni dell’edificio o delle sue adiacenze.
 
-[^712e-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^712e-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### III. Estinzione
 
@@ -9712,8 +9757,8 @@ Ogni comproprietario può chiedere lo scioglimento se l’edificio:
 
 <sup>4</sup> I comproprietari che intendono continuare la comunione possono evitare lo scioglimento tacitando gli altri.[^712f-2]
 
-[^712f-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^712f-2]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^712f-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^712f-2]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### C. Amministrazione e uso
 
@@ -9729,7 +9774,7 @@ Ogni comproprietario può chiedere lo scioglimento se l’edificio:
 
 <sup>4</sup> La modifica dell’attribuzione per regolamento di diritti d’uso preclusivi richiede inoltre il consenso dei comproprietari direttamente interessati.[^712g-1]
 
-[^712g-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^712g-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. Spese ed oneri comuni
 
@@ -9937,7 +9982,7 @@ Le cose senza padrone diventano proprietà di colui che se ne impossessa con l�
 
 [^book4-part1-tit20-lvlB-lvlIII-lvl1-lvla-1]
 
-[^book4-part1-tit20-lvlB-lvlIII-lvl1-lvla-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^book4-part1-tit20-lvlB-lvlIII-lvl1-lvla-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 
 #### Art. 720
 
@@ -9957,7 +10002,7 @@ Le cose senza padrone diventano proprietà di colui che se ne impossessa con l�
 
 <sup>2</sup> I Cantoni designano l’ufficio a cui rivolgere l’avviso.
 
-[^720a-1]: Introdotto dal n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)). Il cpv. 2 entra in vigore il 1° apr. 2004.
+[^720a-1]: Introdotto dalla cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)). Il cpv. 2 entra in vigore il 1° apr. 2004.
 
 ### 2. Custodia ed incanto pubblico
 
@@ -9983,8 +10028,8 @@ Le cose senza padrone diventano proprietà di colui che se ne impossessa con l�
 
 <sup>3</sup> Se una cosa fu trovata in una casa abitata o in uno stabilimento destinato al servizio od al trasporto pubblico, il padrone di casa, il locatario o lo stabilimento è considerato come ritrovatore, ma non ha diritto alla mercede.
 
-[^722-1]: Introdotto dal n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^722-2]: Introdotto dal n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^722-1]: Introdotto dalla cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^722-2]: Introdotto dalla cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 
 ### 4. Tesoro
 
@@ -10053,8 +10098,8 @@ Le cose senza padrone diventano proprietà di colui che se ne impossessa con l�
 
 <sup>3</sup> Per il computo dei termini, l’interruzione e la sospensione della prescrizione acquisitiva valgono le norme circa la prescrizione dei crediti.
 
-[^728-1]: Introdotto dal n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^728-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^728-1]: Introdotto dalla cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^728-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 [^728-3]: Introdotto dall’art. 32 n. 1 della L del 20 giu. 2003 sul trasferimento dei beni culturali, in vigore dal 1° giu. 2005 ([RU 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 457](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
 ### C. Perdita della proprietà mobiliare
@@ -10077,7 +10122,7 @@ La proprietà mobiliare non si estingue con la perdita del possesso, finché il 
 
 <sup>2</sup> Un obbligo di fare può essere connesso a una servitù prediale soltanto a titolo accessorio. Vincola l’acquirente del fondo dominante o del fondo serviente soltanto se risulta dall’iscrizione nel registro fondiario.[^730-1]
 
-[^730-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^730-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### B. Costituzione e cessazione
 
@@ -10103,7 +10148,7 @@ La proprietà mobiliare non si estingue con la perdita del possesso, finché il 
 
 <sup>2</sup> Qualora l’esercizio della servitù sia limitato a una parte del fondo, il luogo d’esercizio dev’essere rappresentato graficamente in un estratto del piano per il registro fondiario se non è definito con sufficiente precisione nell’attestazione del titolo giuridico.
 
-[^732-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^732-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 3. Servitù sul proprio fondo
 
@@ -10179,7 +10224,7 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 <sup>2</sup> Il diritto di uscire dalla comunione rinunciando alla servitù può essere escluso per 30 anni al massimo mediante una convenzione stipulata nella forma prescritta per il contratto di costituzione della servitù. Tale convenzione può essere annotata nel registro fondiario.
 
-[^740a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^740a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. Manutenzione
 
@@ -10189,13 +10234,13 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 <sup>2</sup> Se le opere servono anche gli interessi del fondo serviente, la manutenzione è fatta in comune, in proporzione dei rispettivi vantaggi. Una diversa convenzione vincola l’acquirente del fondo dominante o del fondo serviente se risulta dai documenti giustificativi del registro fondiario.[^741-1]
 
-[^741-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^741-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### III. Spostamento della servitù
 
 [^book4-part2-tit21-chap1-lvlC-lvlIII-1]
 
-[^book4-part2-tit21-chap1-lvlC-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part2-tit21-chap1-lvlC-lvlIII-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 742
 
@@ -10205,7 +10250,7 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 <sup>3</sup> ...[^742-1]
 
-[^742-1]: Abrogato dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^742-1]: Abrogato dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### IV. Divisione del fondo
 
@@ -10219,13 +10264,13 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 <sup>3</sup> La procedura di aggiornamento è retta dalle disposizioni concernenti la cancellazione e la modifica delle iscrizioni nel registro fondiario.
 
-[^743-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^743-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 744
 
 [^744-1]
 
-[^744-1]: Abrogato dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^744-1]: Abrogato dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### Capo secondo: Dell’usufrutto e delle altre servitù
 
@@ -10241,7 +10286,7 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 <sup>3</sup> L’esercizio dell’usufrutto su un fondo può anche essere limitato a una determinata parte di un edificio o del fondo.[^745-1]
 
-[^745-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4121](https://fedlex.data.admin.ch/eli/oc/2003/613); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)).
+[^745-1]: Introdotto dalla cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4121](https://fedlex.data.admin.ch/eli/oc/2003/613); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)).
 
 ### II. Costituzione
 
@@ -10259,7 +10304,7 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 [^747-1]
 
-[^747-1]: Abrogato dal n. I 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^747-1]: Abrogato dalla cifra I n. 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### III. Cessazione
 
@@ -10573,13 +10618,13 @@ Le disposizioni circa l’usufrutto delle selve sono applicabili per analogia ag
 
 <sup>2</sup> Se devono essere annotati nel registro fondiario, anche il canone del diritto di superficie e le eventuali altre disposizioni contrattuali richiedono per la loro validità l’atto pubblico.
 
-[^779a-1]: Introdotto dal n. I della LF del 19 mar. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^779a-1]: Introdotto dalla cifra I della LF del 19 mar. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537). Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### III. Effetti, estensione e annotazione
 
 [^book4-part2-tit21-chap2-lvlC-lvlIII-1]
 
-[^book4-part2-tit21-chap2-lvlC-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part2-tit21-chap2-lvlC-lvlIII-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 779b
 
@@ -10589,8 +10634,8 @@ Le disposizioni circa l’usufrutto delle selve sono applicabili per analogia ag
 
 <sup>2</sup> Se le parti lo convengono, altre disposizioni contrattuali possono essere annotate nel registro fondiario.[^779b-2]
 
-[^779b-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
-[^779b-2]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^779b-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779b-2]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### IV. Conseguenze della scadenza
 
@@ -10602,7 +10647,7 @@ Le disposizioni circa l’usufrutto delle selve sono applicabili per analogia ag
 
 All’estinzione del diritto di superficie, le costruzioni sono devolute al proprietario del fondo, di cui diventano parti costitutive.
 
-[^779c-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779c-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
 
 ### 2. Indennità
 
@@ -10616,13 +10661,13 @@ All’estinzione del diritto di superficie, le costruzioni sono devolute al prop
 
 <sup>3</sup> L’iscrizione deve essere effettuata entro tre mesi dalla estinzione del diritto di superficie.
 
-[^779d-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779d-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
 
 #### Art. 779e
 
 [^779e-1]
 
-[^779e-1]: Introdotto dal n. I della LF del 19 mar. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537). Abrogato dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^779e-1]: Introdotto dalla cifra I della LF del 19 mar. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537). Abrogato dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### V. Riversione anticipata
 
@@ -10634,7 +10679,7 @@ All’estinzione del diritto di superficie, le costruzioni sono devolute al prop
 
 Se il superficiario eccede gravemente nel suo diritto reale o viola gli obblighi contrattuali, il proprietario del fondo può provocare la riversione anticipata, domandando il trasferimento a sè del diritto di superficie, con tutti i diritti e gli oneri.
 
-[^779f-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779f-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
 
 ### 2. Esercizio
 
@@ -10646,7 +10691,7 @@ Se il superficiario eccede gravemente nel suo diritto reale o viola gli obblighi
 
 <sup>2</sup> Il diritto di superficie è trasferito al proprietario del fondo solo quando l’indennità è pagata o garantita.
 
-[^779g-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779g-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
 
 ### 3. Altri casi di applicazione
 
@@ -10656,7 +10701,7 @@ Se il superficiario eccede gravemente nel suo diritto reale o viola gli obblighi
 
 Le disposizioni sull’esercizio del diritto di riversione sono applicabili a ogni diritto, che il proprietario del fondo si è riservato per lo scioglimento anticipato o la restituzione del diritto di superficie in caso di violazione di obblighi da parte del superficiario.
 
-[^779h-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779h-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
 
 ### VI. Garanzia per il canone
 
@@ -10670,7 +10715,7 @@ Le disposizioni sull’esercizio del diritto di riversione sono applicabili a og
 
 <sup>2</sup> Se il canone non consta di prestazioni annue uguali, l’ipoteca è iscritta per l’importo che, ripartendo uniformemente il canone, rappresenta tre prestazioni annue.
 
-[^779i-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779i-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
 
 ### 2. Iscrizione
 
@@ -10682,7 +10727,7 @@ Le disposizioni sull’esercizio del diritto di riversione sono applicabili a og
 
 <sup>2</sup> Nel rimanente, le disposizioni sulla costituzione dell’ipoteca degli artigiani e imprenditori sono applicabili per analogia.
 
-[^779k-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779k-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
 
 ### VII. Durata massima
 
@@ -10694,7 +10739,7 @@ Le disposizioni sull’esercizio del diritto di riversione sono applicabili a og
 
 <sup>2</sup> Esso può, in ogni tempo, essere prolungato, nella forma prescritta per la costituzione, per una nuova durata di cento anni al massimo, ma qualsiasi obbligo assunto prima a tale scopo non è vincolante.
 
-[^779l-1]: Introdotto dal n. I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
+[^779l-1]: Introdotto dalla cifra I della LF del 19 mar. 1965, in vigore dal 1° lug. 1965 ([RU 1965 443](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); FF **1963** 537).
 
 ### D. Diritti sulle sorgenti
 
@@ -10726,7 +10771,7 @@ Le disposizioni sull’esercizio del diritto di riversione sono applicabili a og
 
 Ai titolari di una servitù iscritti nel registro fondiario si applicano per analogia le disposizioni concernenti le misure giudiziarie in caso di proprietario irreperibile o in caso di persona giuridica o altro soggetto giuridico privi degli organi prescritti.
 
-[^781a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^781a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### Capo terzo: Degli oneri fondiari
 
@@ -10740,7 +10785,7 @@ Ai titolari di una servitù iscritti nel registro fondiario si applicano per ana
 
 <sup>3</sup> Fatti salvi gli oneri di diritto pubblico, l’onere fondiario può consistere solo in una prestazione dipendente dalla natura economica del fondo gravato o destinata ai bisogni economici del fondo a favore del quale è costituito.[^782-1]
 
-[^782-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^782-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### B. Costituzione ed estinzione
 
@@ -10764,13 +10809,13 @@ Ai titolari di una servitù iscritti nel registro fondiario si applicano per ana
 
 Le disposizioni concernenti le ipoteche legali di diritto cantonale sono applicabili per analogia alla costituzione degli oneri fondiari di diritto pubblico e ai loro effetti nei confronti dei terzi di buona fede.
 
-[^784-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^784-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 785
 
 [^785-1]
 
-[^785-1]: Abrogato dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^785-1]: Abrogato dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. Estinzione
 
@@ -10800,9 +10845,9 @@ Il creditore può chiedere il riscatto dell’onere fondiario a norma del contra
 
 <sup>2</sup> Se chiede il riscatto a causa della divisione del fondo, il creditore deve disdire l’onere fondiario, con preavviso di un anno, entro un mese dal giorno in cui il trasferimento del debito è divenuto definitivo.[^787-3]
 
-[^787-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^787-2]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^787-3]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^787-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^787-2]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^787-3]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### b. Da parte del debitore
 
@@ -10851,7 +10896,7 @@ Il riscatto si fa per la somma iscritta nel registro come valore totale dell’o
 
 <sup>2</sup> Se il fondo è diviso, i proprietari delle singole parti diventano debitori dell’onere. Il debito è trasferito sulle singole parti secondo le disposizioni concernenti la divisione dei fondi gravati da ipoteca.[^792-1]
 
-[^792-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^792-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### Titolo ventesimosecondo: Del pegno immobiliare
 
@@ -10867,7 +10912,7 @@ Il riscatto si fa per la somma iscritta nel registro come valore totale dell’o
 
 <sup>2</sup> Non è ammessa la costituzione di pegno immobiliare sotto altra forma.
 
-[^793-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^793-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. Forma
 
@@ -10926,7 +10971,7 @@ Il riscatto si fa per la somma iscritta nel registro come valore totale dell’o
 La costituzione in pegno dei fondi agricoli è inoltre retta dalla legge federale del 4 ottobre 1991[^798a-2] sul diritto fondiario rurale.
 
 [^798a-1]: Introdotto dall’art. 92 n. 1 della LF del 4 ott. 1991 sul diritto fondiario rurale, in vigore dal 1° gen. 1994 ([RU 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^798a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^798a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### B. Costituzione ed estinzione
 
@@ -10940,7 +10985,7 @@ La costituzione in pegno dei fondi agricoli è inoltre retta dalla legge federal
 
 <sup>2</sup> Il negozio giuridico di costituzione del pegno immobiliare richiede per la sua validità l’atto pubblico.[^799-1]
 
-[^799-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^799-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 2. Proprietà collettiva
 
@@ -11026,8 +11071,8 @@ I crediti garantiti da pegno immobiliare iscritto non sono soggetti a prescrizio
 
 <sup>4</sup> Se supera l’importo di 1000 franchi e non è stato iscritto entro quattro mesi dalla fine delle misure, il diritto di pegno non è opponibile ai terzi che si riferiscono in buona fede al registro fondiario.[^808-2]
 
-[^808-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^808-2]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^808-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^808-2]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### b. Garanzia, ripristino dello stato anteriore, pagamento di acconti
 
@@ -11049,8 +11094,8 @@ I crediti garantiti da pegno immobiliare iscritto non sono soggetti a prescrizio
 
 <sup>3</sup> Se supera l’importo di 1000 franchi e non è stato iscritto entro quattro mesi dalla fine delle misure, il diritto di pegno non è opponibile ai terzi che si riferiscono in buona fede al registro fondiario.[^810-2]
 
-[^810-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^810-2]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^810-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^810-2]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 3. Alienazione di parcelle
 
@@ -11128,7 +11173,7 @@ Il pegno immobiliare garantisce il creditore:
 
 <sup>2</sup> L’interesse originariamente convenuto non può essere elevato oltre il cinque per cento a pregiudizio dei creditori pignoratizi posteriori.
 
-[^818-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^818-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 4. Garanzia per le spese di conservazione
 
@@ -11140,7 +11185,7 @@ Il pegno immobiliare garantisce il creditore:
 
 <sup>2</sup> Se supera l’importo di 1 000 franchi e non è stato iscritto entro quattro mesi dal compimento dell’atto in questione, il diritto di pegno non è opponibile ai terzi che si riferiscono in buona fede al registro fondiario.
 
-[^819-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^819-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### VIII. Pegno per miglioramenti del suolo
 
@@ -11178,7 +11223,7 @@ Il pegno immobiliare garantisce il creditore:
 
 Se un creditore pignoratizio non è identificabile o se il suo domicilio è sconosciuto, il giudice, ad istanza del debitore o di altri interessati, può ordinare le misure necessarie nei casi in cui la legge preveda l’intervento personale del creditore e occorra decidere d’urgenza.
 
-[^823-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^823-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### Capo secondo: Dell’ipoteca
 
@@ -11302,7 +11347,7 @@ La cessione del credito ipotecario non richiede per la sua validità l’iscrizi
 
 <sup>3</sup> Sono fatte salve le normative cantonali più restrittive.
 
-[^836-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^836-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. Di diritto privato federale
 
@@ -11324,7 +11369,7 @@ Danno diritto di ottenere la costituzione di un’ipoteca legale:
 
 <sup>3</sup> Gli aventi diritto non possono rinunciare preventivamente ai diritti di ipoteca legale di cui al presente articolo.
 
-[^837-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^837-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 2. Venditori, coeredi, ecc.
 
@@ -11352,7 +11397,7 @@ L’iscrizione dell’ipoteca del venditore, dei coeredi o dei membri di un’in
 
 <sup>6</sup> Se è accertato con sentenza che il fondo appartiene al patrimonio amministrativo, l’iscrizione provvisoria dell’ipoteca è cancellata. Questa è sostituita dalla fideiussione legale, purché siano adempiute le condizioni di cui al capoverso 4. Il termine è considerato osservato con l’iscrizione provvisoria dell’ipoteca.
 
-[^839-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^839-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### b. Grado
 
@@ -11374,7 +11419,7 @@ Essendo iscritte più ipoteche legali di artigiani ed imprenditori esse danno eg
 
 [^book4-part2-tit22-chap3-1]
 
-[^book4-part2-tit22-chap3-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part2-tit22-chap3-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### A. Disposizioni generali
 
@@ -11615,7 +11660,7 @@ Le obbligazioni di un prestito, nominative od al portatore, possono essere garan
 
 [^876883-1]
 
-[^876883-1]: Abrogati dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^876883-1]: Abrogati dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### Titolo ventesimoterzo: Del pegno mobiliare
 
@@ -11645,8 +11690,8 @@ Le obbligazioni di un prestito, nominative od al portatore, possono essere garan
 
 <sup>3</sup> I Cantoni possono riscuotere tasse per le iscrizioni nel registro e per le operazioni connesse; essi designano i circondari e i funzionari incaricati della tenuta del registro.[^885-2]
 
-[^885-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^885-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^885-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^885-2]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 3. Pegno posteriore
 
@@ -11788,7 +11833,7 @@ Il creditore pignoratizio non può senza il consenso del pignorante dare in pegn
 
 <sup>3</sup> La costituzione in pegno di titoli contabili è retta esclusivamente dalla legge del 3 ottobre 2008[^901-1] sui titoli contabili.[^901-2]
 
-[^901-1]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^901-1]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^901-2]: Introdotto dall’all. n. 1 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### III. Per titoli rappresentanti merci
@@ -11923,7 +11968,7 @@ La compera a patto di ricupera, professionalmente esercitata, è parificata al p
 
 <sup>2</sup> …[^915-1]
 
-[^915-1]: Abrogato dal n. II 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^915-1]: Abrogato dalla cifra II n. 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 ### Capo quarto: …
 
@@ -12079,8 +12124,8 @@ Chi in buona fede ha ricevuto una cosa mobile a titolo di proprietà o di un dir
 
 <sup>3</sup> Del resto la restituzione ha luogo secondo le norme relative ai diritti del possessore di buona fede.
 
-[^934-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^934-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^934-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^934-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 [^934-3]: Introdotto dall’art. 32 n. 1 della L del 20 giu. 2003 sul trasferimento dei beni culturali, in vigore dal 1° giu. 2005 ([RU 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 457](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
 ### c. Denaro e titoli al portatore
@@ -12185,7 +12230,7 @@ Nel registro fondiario sono intavolati come fondi:
 
 <sup>2</sup> Un regolamento del Consiglio federale darà le norme particolari su le condizioni e il modo d’intavolazione dei diritti per sé stanti e permanenti, delle miniere e delle quote di comproprietà d’un fondo.
 
-[^943-1]: Nuovo testo giusta il n. III della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^943-1]: Nuovo testo giusta la cifra III della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### b. Eccezioni
 
@@ -12197,7 +12242,7 @@ Nel registro fondiario sono intavolati come fondi:
 
 <sup>3</sup> …[^944-1]
 
-[^944-1]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^944-1]: Abrogato dalla cifra I della LF del 4 ott. 1991, con effetto dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 3. Registri
 
@@ -12279,7 +12324,7 @@ Il Consiglio federale disciplina:
 
 <sup>3</sup> Il Dipartimento federale di giustizia e polizia e il Dipartimento federale della difesa, della protezione della popolazione e dello sport definiscono modelli di dati e interfaccia uniformi per il registro fondiario e per la misurazione catastale.
 
-[^949a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^949a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 ### 4*a*. Identificatore per le persone fisiche nel registro fondiario
 
@@ -12291,7 +12336,7 @@ Il Consiglio federale disciplina:
 
 <sup>2</sup> Comunicano il numero AVS soltanto ad altri servizi e istituzioni che ne hanno bisogno per adempiere i loro compiti legali in relazione al registro fondiario e che sono autorizzati a utilizzare sistematicamente tale numero.
 
-[^949b-1]: Introdotto dal n. I 2 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2023 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649), [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^949b-1]: Introdotto dalla cifra I n. 2 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2023 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649), [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
 
 ### 4*b*. Ricerca di fondi su scala nazionale
 
@@ -12301,7 +12346,7 @@ Il Consiglio federale disciplina:
 
 Il Consiglio federale disciplina la ricerca su scala nazionale, da parte delle autorità abilitate, dei fondi sui quali una persona identificata in base al numero AVS vanta diritti.
 
-[^949c-1]: Introdotto dal n. I 2 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2023 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649), [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^949c-1]: Introdotto dalla cifra I n. 2 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2023 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649), [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
 
 ### 4*c*. Ricorso a privati per l’uso del registro fondiario informatizzato
 
@@ -12319,7 +12364,7 @@ I Cantoni che tengono il registro fondiario su supporti informatici possono inca
 
 <sup>2</sup> Le organizzazioni incaricate sottostanno alla vigilanza dei Cantoni e all’alta vigilanza della Confederazione.
 
-[^949d-1]: Introdotto dal n. I 2 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^949d-1]: Introdotto dalla cifra I n. 2 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
 
 ### 5. Misurazione ufficiale
 
@@ -12331,8 +12376,8 @@ I Cantoni che tengono il registro fondiario su supporti informatici possono inca
 
 <sup>2</sup> La legge del 5 ottobre 2007[^950-2] sulla geoinformazione disciplina i requisiti qualitativi e tecnici della misurazione ufficiale.
 
-[^950-1]: Nuovo testo giusta l’all. n. II della L del 5 ott. 2007 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
-[^950-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^950-1]: Nuovo testo giusta l’all. cifra II della L del 5 ott. 2007 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
+[^950-2]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 ### II. Tenuta del registro
 
@@ -12364,7 +12409,7 @@ I Cantoni che tengono il registro fondiario su supporti informatici possono inca
 
 <sup>2</sup> Le prescrizioni cantonali, eccettuate quelle sulla nomina e lo stipendio dei funzionari, richiedono l’approvazione della Confederazione.[^953-1]
 
-[^953-1]: Nuovo testo giusta il n. II 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^953-1]: Nuovo testo giusta la cifra II n. 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 ### 3. Tariffe
 
@@ -12378,7 +12423,7 @@ I Cantoni che tengono il registro fondiario su supporti informatici possono inca
 
 [^book4-part3-tit25-lvlA-lvlIII-1]
 
-[^book4-part3-tit25-lvlA-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part3-tit25-lvlA-lvlIII-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 955
 
@@ -12398,7 +12443,7 @@ I Cantoni che tengono il registro fondiario su supporti informatici possono inca
 
 <sup>2</sup> La Confederazione esercita l’alta vigilanza.
 
-[^956-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^956-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### V. Tutela giurisdizionale
 
@@ -12420,7 +12465,7 @@ Ha diritto di interporre ricorso:
 
 <sup>3</sup> Contro l’avvenuta iscrizione, modifica o cancellazione di diritti reali o annotazioni nel libro mastro non può essere interposto ricorso.
 
-[^956a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^956a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 2. Procedura di ricorso
 
@@ -12432,13 +12477,13 @@ Ha diritto di interporre ricorso:
 
 <sup>2</sup> Contro l’indebito diniego o ritardo nel compimento di un’operazione ufficiale può essere interposto ricorso in ogni tempo.
 
-[^956b-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^956b-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 957
 
 [^957-1]
 
-[^957-1]: Abrogato dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^957-1]: Abrogato dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### B. Iscrizione
 
@@ -12479,7 +12524,7 @@ Le restrizioni della facoltà di disporre possono essere annotate per singoli fo
 <sup>2</sup> Mediante l’annotazione, le limitazioni della facoltà di disporre diventano efficaci, in confronto ai diritti posteriormente acquisiti.
 
 [^960-1]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 1995, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^960-2]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^960-2]: Nuovo testo giusta la cifra I n. 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### c. Iscrizioni provvisorie
 
@@ -12496,7 +12541,7 @@ Possono essere fatte iscrizioni provvisorie:
 
 <sup>3</sup> Il giudice decide queste domande, accorda l’iscrizione provvisoria dietro giustificazione di un interesse da parte del richiedente, ne stabilisce esattamente la durata e gli effetti e fissa, se occorre, un termine per far valere giudizialmente la pretesa.[^961-1]
 
-[^961-1]: Nuovo testo giusta l’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^961-1]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### d. Iscrizione di diritti di grado posteriore
 
@@ -12506,7 +12551,7 @@ Possono essere fatte iscrizioni provvisorie:
 
 Un’annotazione non impedisce l’iscrizione di un diritto di grado posteriore.
 
-[^961a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^961a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### II. Menzioni
 
@@ -12522,7 +12567,7 @@ Un’annotazione non impedisce l’iscrizione di un diritto di grado posteriore.
 
 <sup>3</sup> Il Consiglio federale determina in quali materie del diritto cantonale le restrizioni della proprietà devono essere menzionate nel registro fondiario. I Cantoni possono prevedere altre menzioni. Stabiliscono un elenco dei casi di specie da menzionare e lo comunicano alla Confederazione.
 
-[^962-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^962-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 2. Di rappresentanti
 
@@ -12538,7 +12583,7 @@ Nel registro fondiario può essere menzionata l’identità:
 - 4\. del rappresentante di una persona giuridica o di un altro soggetto giuridico privi degli organi prescritti, su sua richiesta o su quella del giudice;
 - 5\. dell’amministratore della comunione dei comproprietari per piani, su sua richiesta o su quella dell’assemblea dei comproprietari o del giudice.
 
-[^962a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^962a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### III. Condizioni dell’iscrizione
 
@@ -12608,7 +12653,7 @@ L’iscrizione e la cancellazione delle servitù prediali devono aver luogo sui 
 
 <sup>2</sup> I termini stabiliti per contestarle decorrono dalla notificazione.
 
-[^969-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^969-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### C. Pubblicità del registro
 
@@ -12644,7 +12689,7 @@ Anche senza far valere un interesse, ognuno ha diritto di essere informato sui d
 
 <sup>2</sup> Non possono però pubblicare la controprestazione in caso di divisione ereditaria, acconto della quota ereditaria, convenzione matrimoniale o liquidazione dei rapporti patrimoniali tra i coniugi.
 
-[^970a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^970a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 ### D. Effetti
 
@@ -12676,7 +12721,7 @@ Anche senza far valere un interesse, ognuno ha diritto di essere informato sui d
 
 <sup>2</sup> La presente disposizione non si applica ai confini dei fondi compresi nei territori interessati da spostamenti di terreno permanenti designati tali dai Cantoni.[^973-1]
 
-[^973-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^973-1]: Introdotto dalla cifra I della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 3. Terzi di mala fede
 
@@ -12704,7 +12749,7 @@ Anche senza far valere un interesse, ognuno ha diritto di essere informato sui d
 
 <sup>3</sup> Se risulta dai documenti giustificativi o dalle circostanze che un’iscrizione non concerne una parte, l’iscrizione è cancellata relativamente a tale parte. La procedura è retta dalle disposizioni concernenti la cancellazione integrale delle iscrizioni.
 
-[^974a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^974a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 2. In caso di riunione di fondi
 
@@ -12720,13 +12765,13 @@ Anche senza far valere un interesse, ognuno ha diritto di essere informato sui d
 
 <sup>4</sup> Le disposizioni concernenti l’aggiornamento in caso di divisione del fondo sono applicabili per analogia.
 
-[^974b-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^974b-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. In caso di iscrizione indebita
 
 [^book4-part3-tit25-lvlE-lvlII-1]
 
-[^book4-part3-tit25-lvlE-lvlII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part3-tit25-lvlE-lvlII-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 975
 
@@ -12749,7 +12794,7 @@ L’ufficio del registro fondiario può cancellare d’ufficio un’iscrizione s
 - 3\. per ragioni territoriali, essa non può concernere il fondo in questione;
 - 4\. concerne un fondo perito.
 
-[^976-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^976-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 2. Di altre iscrizioni
 
@@ -12763,7 +12808,7 @@ L’ufficio del registro fondiario può cancellare d’ufficio un’iscrizione s
 
 <sup>2</sup> Qualora consideri giustificata la richiesta, l’ufficio del registro fondiario comunica all’avente diritto che, se non fa opposizione entro 30 giorni, l’iscrizione sarà cancellata.
 
-[^976a-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^976a-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### b. In caso di opposizione
 
@@ -12775,7 +12820,7 @@ L’ufficio del registro fondiario può cancellare d’ufficio un’iscrizione s
 
 <sup>2</sup> Qualora concluda che la richiesta debba essere accolta nonostante l’opposizione, l’ufficio del registro fondiario comunica all’avente diritto che, se non propone entro tre mesi un’azione giudiziaria volta ad accertare che l’iscrizione ha valore giuridico, questa sarà cancellata dal libro mastro.
 
-[^976b-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^976b-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 3. Procedura di aggiornamento pubblica
 
@@ -12789,13 +12834,13 @@ L’ufficio del registro fondiario può cancellare d’ufficio un’iscrizione s
 
 <sup>3</sup> I Cantoni disciplinano i dettagli e la procedura. Possono facilitare ulteriormente l’aggiornamento o emanare disposizioni deroganti al diritto federale.
 
-[^976c-1]: Introdotto dal n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^976c-1]: Introdotto dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### IV. Rettificazioni
 
 [^book4-part3-tit25-lvlE-lvlIV-1]
 
-[^book4-part3-tit25-lvlE-lvlIV-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part3-tit25-lvlE-lvlIV-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 977
 
@@ -12873,7 +12918,7 @@ I fatti verificatisi sotto l’impero del diritto anteriore, ma dai quali al mom
 
 <sup>2</sup> La Confederazione si assume le spese d’investimento fino a 5 milioni di franchi.
 
-[^u1-6a-1]: Introdotto dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^u1-6a-1]: Introdotto dalla cifra I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
 ### III. Persone giuridiche
 
@@ -12896,7 +12941,7 @@ I fatti verificatisi sotto l’impero del diritto anteriore, ma dai quali al mom
 <sup>3</sup> I diritti inerenti alla personalità sono determinati per tutte le persone giuridiche da questo codice, dal momento della sua entrata in vigore.
 
 [^u1-6b-1]: Originario art. 7 e art. 6*a*.
-[^u1-6b-2]: Introdotto dal n. I 1 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^u1-6b-2]: Introdotto dalla cifra I n. 1 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### 1*a*. Associazioni tenute all’iscrizione nel registro di commercio
 
@@ -12919,6 +12964,16 @@ Le disposizioni della modifica del 16 dicembre 2005[^u1-6c-2] concernenti la con
 [^u1-6c-1]: Introdotto dall’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^u1-6c-2]: [RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
+### 3. Fondazioni di previdenza a favore del personale
+
+#### Art. 6c<sup>bis</sup>
+
+[^u1-6cbis-1]
+
+La competente autorità di vigilanza può, su proposta dell’organo superiore della fondazione, modificare il fine di una fondazione di previdenza a favore del personale ai sensi dell’articolo 89*a* capoverso 7 costituita prima dell’entrata in vigore della modifica del 14 giugno 2024, se la modifica del fine consiste nell’estensione di quest’ultimo alle prestazioni di cui all’articolo 89*a* capoverso 8 numero 4.
+
+[^u1-6cbis-1]: Introdotto dall’all. cifra I della LF del 14 giu. 2023 (Prestazioni dei fondi padronali di previdenza), in vigore dal 1° gen. 2025 ([RU 2024 676](https://fedlex.data.admin.ch/eli/oc/2024/676); [FF 2023 2077](https://fedlex.data.admin.ch/eli/fga/2023/2077), [2481](https://fedlex.data.admin.ch/eli/fga/2023/2481)).
+
 ### IV. Protezione della personalità da violenze, minacce e insidie
 
 #### Art. 6d
@@ -12927,7 +12982,7 @@ Le disposizioni della modifica del 16 dicembre 2005[^u1-6c-2] concernenti la con
 
 Ai procedimenti pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2018 si applica la legge nuova.
 
-[^u1-6d-1]: Introdotto dal n. I 1 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^u1-6d-1]: Introdotto dalla cifra I n. 1 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 ### C. Diritto di famiglia
 
@@ -12944,22 +12999,38 @@ Ai procedimenti pendenti al momento dell’entrata in vigore della modifica del 
 [^u1-7-1]: Introdotto dall’all. n. 4 della LF del 16 dic. 1995, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^u1-7-2]: [RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)
 
-### I<sup>bis</sup>. Divorzio
-
-### 1. Principio
+### I<sup>bis</sup>. Nullità dei matrimoni con minorenni
 
 #### Art. 7a
 
 [^u1-7a-1]
 
-<sup>1</sup> Il divorzio è retto dalla legge nuova dopo l’entrata in vigore della modifica del presente Codice del 26 giugno 1998[^u1-7a-2].
+<sup>1</sup> La nullità dei matrimoni con minorenni celebrati prima dell’entrata in vigore della modifica del 14 giugno 2024 è retta dal nuovo diritto.
+
+<sup>2</sup> Se all’entrata in vigore del nuovo diritto entrambi i coniugi hanno compiuto il diciottesimo anno di età, la causa di nullità può essere invocata soltanto dal coniuge che era minorenne al momento della celebrazione del matrimonio e non ha ancora compiuto il venticinquesimo anno di età nel momento in cui è promossa l’azione di nullità.
+
+[^u1-7a-1]: Introdotto dalla cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### I<sup>ter</sup>. Divorzio
+
+[^u1-chap1-lvlC-lvlIter-1]
+
+[^u1-chap1-lvlC-lvlIter-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### 1. Principio
+
+#### Art. 7a<sup>bis</sup>
+
+[^u1-7abis-1]
+
+<sup>1</sup> Il divorzio è retto dalla legge nuova dopo l’entrata in vigore della modifica del presente Codice del 26 giugno 1998[^u1-7abis-2].
 
 <sup>2</sup> I divorzi passati in giudicato secondo il diritto anteriore conservano i loro effetti; le nuove disposizioni sull’esecuzione sono applicabili alle rendite o alle liquidazioni in capitale statuite per sopperire alla perdita del diritto al mantenimento o a titolo di contributi di mantenimento.
 
 <sup>3</sup> La modifica della sentenza di divorzio è retta dalla legge anteriore, fatte salve le disposizioni relative ai figli e alla procedura.
 
-[^u1-7a-1]: Introdotto dall’all. n. 4 della LF del 16 dic. 1995, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^u1-7a-2]: [RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)
+[^u1-7abis-1]: Originario articolo 7*a*. Introdotto dall’all. n. 4 della LF del 16 dic. 1995, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^u1-7abis-2]: [RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)
 
 ### 2. Processi di divorzio pendenti
 
@@ -12984,7 +13055,7 @@ Ai procedimenti pendenti al momento dell’entrata in vigore della modifica del 
 
 Nei processi di divorzio pendenti al momento dell’entrata in vigore della modifica del presente Codice del 19 dicembre 2003[^u1-7c-2] e che devono essere giudicati da un’istanza cantonale si applica il termine di separazione previsto dalla legge nuova.
 
-[^u1-7c-1]: Introdotto dal n. I della LF del 19 dic. 2003 (Termine di separazione nel diritto del divorzio), in vigore dal 1° giu. 2004 ([RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [FF 2003 7101](https://fedlex.data.admin.ch/eli/fga/2003/1406)[5066](https://fedlex.data.admin.ch/eli/fga/2003/893)).
+[^u1-7c-1]: Introdotto dalla cifra I della LF del 19 dic. 2003 (Termine di separazione nel diritto del divorzio), in vigore dal 1° giu. 2004 ([RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [FF 2003 7101](https://fedlex.data.admin.ch/eli/fga/2003/1406)[5066](https://fedlex.data.admin.ch/eli/fga/2003/893)).
 [^u1-7c-2]: [RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254)
 
 ### 4. Previdenza professionale
@@ -13014,7 +13085,7 @@ Nei processi di divorzio pendenti al momento dell’entrata in vigore della modi
 <sup>3</sup> La rendita secondo la legge anteriore vale come parte di rendita assegnata.
 
 [^u1-7e-1]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^u1-7e-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^u1-7e-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### I<sup>ter</sup>. Effetti del matrimonio in generale
 
@@ -13036,7 +13107,7 @@ Gli effetti del matrimonio in generale sono retti dalla legge nuova dopo l’ent
 
 Il coniuge che ha cambiato cognome in occasione del matrimonio prima dell’entrata in vigore della modifica del presente Codice del 30 settembre 2011 può in ogni tempo dichiarare all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
 
-[^u1-8a-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^u1-8a-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### 3. Cittadinanza
 
@@ -13046,7 +13117,7 @@ Il coniuge che ha cambiato cognome in occasione del matrimonio prima dell’entr
 
 La svizzera maritatasi sotto la legge anteriore può entro un anno dall’entrata in vigore della legge nuova, dichiarare all’autorità competente del suo vecchio Cantone d’origine di voler riprendere la cittadinanza che aveva da nubile.
 
-[^u1-8b-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-8b-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### II. Regime dei beni nei matrimoni celebrati prima del 1° gennaio 1912
 
@@ -13056,7 +13127,7 @@ La svizzera maritatasi sotto la legge anteriore può entro un anno dall’entrat
 
 Gli effetti patrimoniali dei matrimoni celebrati prima del 1° gennaio 1912 sono retti dalle disposizioni del presente codice sull’applicazione del vecchio e del nuovo diritto, entrate in vigore a quella data.[^u1-9-2]
 
-[^u1-9-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-9-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^u1-9-2]: Per l’applicazione del diritto transitorio vedi anche le previgenti disposizioni del titolo sesto, alla fine del Codice civile.
 
 ### II.<sup>bis</sup> Regime dei beni nei matrimoni celebrati dopo il 1<sup>o</sup> gennaio 1912
@@ -13071,7 +13142,7 @@ Gli effetti patrimoniali dei matrimoni celebrati prima del 1° gennaio 1912 sono
 
 <sup>2</sup> Gli effetti patrimoniali dei matrimoni sciolti prima dell’entrata in vigore della legge federale del 5 ottobre 1984 sono retti dalla legge anteriore.
 
-[^u1-9a-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-9a-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### 2. Passaggio dall’unione dei beni alla partecipazione agli acquisti
 
@@ -13087,7 +13158,7 @@ Gli effetti patrimoniali dei matrimoni celebrati prima del 1° gennaio 1912 sono
 
 <sup>3</sup> La moglie ricupera la proprietà dei suoi apporti passati in proprietà del marito o ha un credito compensativo corrispondente.
 
-[^u1-9b-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-9b-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### b. Privilegio
 
@@ -13097,7 +13168,7 @@ Gli effetti patrimoniali dei matrimoni celebrati prima del 1° gennaio 1912 sono
 
 Le disposizioni della legge anteriore sui crediti della moglie per gli apporti che più non si rinvenissero in caso di fallimento del marito o di pignoramento dei beni del medesimo rimangono applicabili per dieci anni dopo l’entrata in vigore della legge nuova.
 
-[^u1-9c-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-9c-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### c. Liquidazione del regime dei beni sotto la legge nuova
 
@@ -13111,7 +13182,7 @@ Le disposizioni della legge anteriore sui crediti della moglie per gli apporti c
 
 <sup>3</sup> Se il regime dei beni è sciolto in seguito all’accoglimento di un’azione proposta prima dell’entrata in vigore della legge nuova, la liquidazione si fa secondo la legge anteriore.
 
-[^u1-9d-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-9d-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### 3. Mantenimento dell’unione dei beni
 
@@ -13125,7 +13196,7 @@ Le disposizioni della legge anteriore sui crediti della moglie per gli apporti c
 
 <sup>3</sup> I beni riservati dei coniugi sono sottoposti alle nuove norme sulla separazione dei beni.
 
-[^u1-9e-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-9e-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### 4. Mantenimento della separazione dei beni legale o giudiziale
 
@@ -13135,7 +13206,7 @@ Le disposizioni della legge anteriore sui crediti della moglie per gli apporti c
 
 I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale sotto la legge anteriore sottostanno alle nuove norme sulla separazione dei beni.
 
-[^u1-9f-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-9f-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### 4*a*. Regime dei beni in caso di matrimonio fra persone dello stesso sesso celebrato all’estero prima dell’entrata in vigore integrale della modifica del 18 dicembre 2020
 
@@ -13151,8 +13222,8 @@ I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale
 
 <sup>4</sup> Le ordinanze corrispondenti prevedono che in documenti, atti e moduli i coniugi che lo desiderano siano indicati quali marito e moglie, nonché quali padre e madre dei loro figli.
 
-[^u1-9g-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° gen. 2022, cpv. 1, 3 e 4 dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^u1-9g-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^u1-9g-1]: Introdotto dalla cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° gen. 2022, cpv. 1, 3 e 4 dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^u1-9g-2]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### 5. Convenzioni matrimoniali
 
@@ -13168,7 +13239,7 @@ I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale
 
 <sup>3</sup> Le convenzioni che modificano la partecipazione all’aumento o alle diminuzioni nel regime dell’unione dei beni non devono pregiudicare i diritti alla legittima dei figli non comuni e dei loro discendenti.
 
-[^u1-10-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-10-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### b. Efficacia verso i terzi
 
@@ -13180,7 +13251,7 @@ I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale
 
 <sup>2</sup> Se la convenzione matrimoniale non è giuridicamente efficace verso i terzi, rispetto a loro valgono le nuove norme sulla partecipazione agli acquisti.
 
-[^u1-10a-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-10a-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### c. Sottoposizione alla legge nuova
 
@@ -13192,7 +13263,7 @@ I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale
 
 <sup>2</sup> In tal caso, la partecipazione convenzionale all’aumento vale per la somma totale degli aumenti della sostanza d’ambo i coniugi, salvo che si sia altrimenti stabilito per convenzione matrimoniale.
 
-[^u1-10b-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-10b-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### d. Separazione convenzionale dei beni secondo la legge anteriore
 
@@ -13202,7 +13273,7 @@ I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale
 
 I coniugi che avevano adottato la separazione dei beni sotto la legge anteriore sono sottoposti alle nuove norme sulla separazione dei beni.
 
-[^u1-10c-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-10c-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### e. Convenzioni matrimoniali concluse in vista dell’entrata in vigore della legge nuova
 
@@ -13212,7 +13283,7 @@ I coniugi che avevano adottato la separazione dei beni sotto la legge anteriore 
 
 Le convenzioni matrimoniali concluse prima dell’entrata in vigore della legge federale del 5 ottobre 1984 ma efficaci soltanto sotto la legge nuova non sottostanno all’approvazione dell’autorità tutoria.
 
-[^u1-10d-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-10d-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### f. Registro dei beni matrimoniali
 
@@ -13224,7 +13295,7 @@ Le convenzioni matrimoniali concluse prima dell’entrata in vigore della legge 
 
 <sup>2</sup> Il diritto di consultare il registro rimane garantito.
 
-[^u1-10e-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-10e-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### 6. Estinzione di debiti in caso di liquidazione del regime dei beni
 
@@ -13234,7 +13305,7 @@ Le convenzioni matrimoniali concluse prima dell’entrata in vigore della legge 
 
 Il coniuge che, in una liquidazione connessa con l’entrata in vigore della legge nuova, deve pagare debiti pecuniari o restituire cose può, qualora dovesse per ciò incorrere in serie difficoltà, chiedere dilazioni; se le circostanze lo giustificano, dovrà fornire garanzie.
 
-[^u1-11-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-11-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### 7. Protezione dei creditori
 
@@ -13244,7 +13315,7 @@ Il coniuge che, in una liquidazione connessa con l’entrata in vigore della leg
 
 Le norme sulla protezione dei creditori in caso di modificazione del regime dei beni s’applicano, quanto alla responsabilità, anche alle modificazioni determinate dall’entrata in vigore della legge federale del 5 ottobre 1984.
 
-[^u1-11a-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-11a-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### III. Filiazione in genere
 
@@ -13262,9 +13333,9 @@ Le norme sulla protezione dei creditori in caso di modificazione del regime dei 
 
 <sup>5</sup> Il genitore che in occasione del divorzio è stato privato dell’autorità parentale può rivolgersi individualmente al giudice competente soltanto se il divorzio non risale a più di cinque anni dall’entrata in vigore della modifica del 21 giugno 2013.[^u1-12-3]
 
-[^u1-12-1]: Nuovo testo giusta il n. I 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^u1-12-2]: Introdotto dal n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^u1-12-3]: Introdotto dal n. I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^u1-12-1]: Nuovo testo giusta la cifra I n. 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^u1-12-2]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^u1-12-3]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### III<sup>bis</sup>. Adozione
 
@@ -13278,9 +13349,9 @@ Le norme sulla protezione dei creditori in caso di modificazione del regime dei 
 
 <sup>2</sup> Le persone che non hanno ancora compiuto venti anni al momento dell’entrata in vigore della legge federale del 7 ottobre 1994, anche se sono maggiorenni, possono ancora essere adottate secondo le disposizioni applicabili ai minorenni nella misura in cui la domanda sia presentata prima del compimento del ventesimo anno d’età e nei due anni successivi all’entrata in vigore della legge suddetta.[^u1-12a-3]
 
-[^u1-12a-1]: Introdotto dal n. I 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
+[^u1-12a-1]: Introdotto dalla cifra I n. 3 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 [^u1-12a-2]: Art. 465 CC nel testo del 1° gen. 1912: <sup>1</sup> Il figlio adottivo ed i suoi discendenti hanno, verso l’adottante, i medesimi diritti ereditari dei discendenti legittimi. <sup>2</sup> L’adottante ed i suoi parenti consanguinei non hanno diritto all’eredità dell’adottato.
-[^u1-12a-3]: Introdotto dal n. I 1 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921))<sup>.</sup>
+[^u1-12a-3]: Introdotto dalla cifra I n. 1 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921))<sup>.</sup>
 
 ### 2. Procedure pendenti
 
@@ -13290,7 +13361,7 @@ Le norme sulla protezione dei creditori in caso di modificazione del regime dei 
 
 Alle procedure di adozione pendenti all’entrata in vigore della modifica del 17 giugno 2016 si applica il nuovo diritto.
 
-[^u1-12b-1]: Introdotto dal n. I 3 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^u1-12b-1]: Introdotto dalla cifra I n. 3 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### 3. Soggezione al nuovo diritto
 
@@ -13300,13 +13371,13 @@ Alle procedure di adozione pendenti all’entrata in vigore della modifica del 1
 
 Le disposizioni della modifica del 17 giugno 2016 relative al segreto dell’adozione, all’informazione circa i genitori biologici e i loro discendenti nonché alla possibile convenzione sulle relazioni personali tra i genitori biologici e l’adottato si applicano anche alle adozioni pronunciate prima dell’entrata in vigore o pendenti al momento dell’entrata in vigore di dette disposizioni.
 
-[^u1-12c-1]: Introdotto dal n. I 3 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta il n. I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^u1-12c-1]: Introdotto dalla cifra I n. 3 della LF del 30 giu. 1972 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)). Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 12c<sup>bis</sup>
 
 [^u1-12cbis-1]
 
-[^u1-12cbis-1]: Introdotto dall’all. n. 2 della LF del 22 giu. 2001 relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali, ([RU 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [FF 1999 4799](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)). Abrogato dal n. I della LF del 17 giu. 2016 (Adozione), con effetto dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^u1-12cbis-1]: Introdotto dall’all. n. 2 della LF del 22 giu. 2001 relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali, ([RU 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [FF 1999 4799](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)). Abrogato dalla cifra I della LF del 17 giu. 2016 (Adozione), con effetto dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### III<sup>ter</sup>. Contestazione della legittimazione
 
@@ -13316,7 +13387,7 @@ Le disposizioni della modifica del 17 giugno 2016 relative al segreto dell’ado
 
 Le disposizioni della legge nuova sulla contestazione del riconoscimento dopo il matrimonio dei genitori si applicano per analogia alla contestazione della legittimazione avvenuta sotto la legge anteriore.
 
-[^u1-12d-1]: Introdotto dal n. I 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^u1-12d-1]: Introdotto dalla cifra I n. 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### IV. Azione di paternità
 
@@ -13330,7 +13401,7 @@ Le disposizioni della legge nuova sulla contestazione del riconoscimento dopo il
 
 <sup>2</sup> Gli effetti fino all’entrata in vigore della legge nuova sono determinati secondo la legge anteriore.
 
-[^u1-13-1]: Nuovo testo giusta il n. I 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^u1-13-1]: Nuovo testo giusta la cifra I n. 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### 2. Nuove azioni
 
@@ -13342,7 +13413,7 @@ Le disposizioni della legge nuova sulla contestazione del riconoscimento dopo il
 
 <sup>2</sup> Se il convenuto dimostra che la sua paternità è esclusa o meno verosimile di quella altrui, il diritto al mantenimento futuro si estingue.
 
-[^u1-13a-1]: Introdotto dal n. I 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^u1-13a-1]: Introdotto dalla cifra I n. 2 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### IV<sup>bis</sup>. Termine per l’accertamento e la contestazione del rapporto di filiazione
 
@@ -13352,7 +13423,7 @@ Le disposizioni della legge nuova sulla contestazione del riconoscimento dopo il
 
 Chi raggiunge la maggiore età in virtù dell’entrata in vigore della legge federale del 7 ottobre 1994 può in ogni caso proporre ancora entro un anno azione di accertamento o contestazione del rapporto di filiazione.
 
-[^u1-13b-1]: Introdotto dal n. I 1 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921))<sup>.</sup>
+[^u1-13b-1]: Introdotto dalla cifra I n. 1 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921))<sup>.</sup>
 
 ### IV<sup>ter</sup>. Contributi di mantenimento
 
@@ -13364,7 +13435,7 @@ Chi raggiunge la maggiore età in virtù dell’entrata in vigore della legge fe
 
 I contributi di mantenimento del figlio fissati prima dell’entrata in vigore della modifica del 20 marzo 2015 in un contratto di mantenimento approvato o in una decisione sono ridefiniti ad istanza del figlio. Se sono stati fissati unitamente ai contributi di mantenimento per il genitore, possono essere modificati soltanto se le circostanze sono notevolmente mutate.
 
-[^u1-13c-1]: Introdotto dal n. I 1 della LF del 7 ott. 1994 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)). Nuovo testo giusta il n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^u1-13c-1]: Introdotto dalla cifra I n. 1 della LF del 7 ott. 1994 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)). Nuovo testo giusta la cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### 2. Procedimenti pendenti
 
@@ -13376,7 +13447,7 @@ I contributi di mantenimento del figlio fissati prima dell’entrata in vigore d
 
 <sup>2</sup> Il Tribunale federale applica il diritto anteriore se la decisione impugnata è stata pronunciata prima dell’entrata in vigore della modifica del 20 marzo 2015; lo stesso vale anche in caso di rinvio all’autorità cantonale.
 
-[^u1-13cbis-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^u1-13cbis-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### IV<sup>quater</sup>. Cognome del figlio
 
@@ -13390,7 +13461,7 @@ I contributi di mantenimento del figlio fissati prima dell’entrata in vigore d
 
 <sup>3</sup> È fatto salvo il consenso del figlio secondo l’articolo 270*b*.
 
-[^u1-13d-1]: Introdotto dal n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^u1-13d-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 ### V. Protezione degli adulti
 
@@ -13408,7 +13479,7 @@ I contributi di mantenimento del figlio fissati prima dell’entrata in vigore d
 
 <sup>4</sup> Sono mantenute le misure di privazione della libertà a scopo d’assistenza che un medico ha ordinato per una durata illimitata, in virtù dell’articolo 397*b* capoverso 2 nel tenore del 1° gennaio 1981[^u1-14-3], per una persona affetta da malattia psichica. Al più tardi sei mesi dopo l’entrata in vigore della legge nuova, l’istituto comunica all’autorità di protezione degli adulti se considera che permangono adempite le condizioni del ricovero. L’autorità di protezione degli adulti procede agli accertamenti necessari secondo le disposizioni sulla verifica periodica e, se del caso, conferma la decisione di ricovero.
 
-[^u1-14-1]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^u1-14-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^u1-14-2]: [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)
 [^u1-14-3]: [RU 1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)
 
@@ -13424,7 +13495,7 @@ I contributi di mantenimento del figlio fissati prima dell’entrata in vigore d
 
 <sup>3</sup> L’autorità decide se e in quale misura il procedimento di cui si tratta debba essere completato.
 
-[^u1-14a-1]: Introdotto dal n. II della LF del 6 ott. 1978 (RU **1980** 3l; [FF 1977 III 1](https://fedlex.data.admin.ch/eli/fga/1977/3_1_1_1)). Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^u1-14a-1]: Introdotto dalla cifra II della LF del 6 ott. 1978 (RU **1980** 3l; [FF 1977 III 1](https://fedlex.data.admin.ch/eli/fga/1977/3_1_1_1)). Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^u1-14a-2]: [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)
 
 ### D. Diritto successorio
@@ -13489,7 +13560,7 @@ I contributi di mantenimento del figlio fissati prima dell’entrata in vigore d
 
 <sup>2</sup> I Cantoni sono autorizzati ad abolire od a restringere questi diritti preesistenti.
 
-[^u1-20-1]: Nuovo testo giusta il n. IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF 1962 1809).
+[^u1-20-1]: Nuovo testo giusta la cifra IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF 1962 1809).
 
 ### 2. Proprietà per piani
 
@@ -13501,7 +13572,7 @@ I contributi di mantenimento del figlio fissati prima dell’entrata in vigore d
 
 La proprietà per piani secondo il vecchio diritto cantonale è assoggettata alle nuove disposizioni, anche se i piani o le porzioni di piano non siano appartamenti o locali commerciali costituenti un tutto.
 
-[^u1-20bis-1]: Introdotto dal n. IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^u1-20bis-1]: Introdotto dalla cifra IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### b. Trasformata
 
@@ -13513,7 +13584,7 @@ La proprietà per piani secondo il vecchio diritto cantonale è assoggettata all
 
 <sup>2</sup> L’assoggettamento avrà effetto non appena l’iscrizione del registro fondiario sia stata modificata in maniera corrispondente.
 
-[^u1-20ter-1]: Introdotto dal n. IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^u1-20ter-1]: Introdotto dalla cifra IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### c. Epurazione dei registri fondiari
 
@@ -13523,7 +13594,7 @@ La proprietà per piani secondo il vecchio diritto cantonale è assoggettata all
 
 Per assoggettare alla nuova legge la proprietà per piani trasformata e iscrivere quella vecchia originaria, i Cantoni possono ordinare l’epurazione dei registri fondiari ed emanare a questo scopo disposizioni speciali di procedura.
 
-[^u1-20quater-1]: Introdotto dal n. IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^u1-20quater-1]: Introdotto dalla cifra IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### V. Servitù
 
@@ -13534,7 +13605,7 @@ Per assoggettare alla nuova legge la proprietà per piani trasformata e iscriver
 <sup>2</sup> Gli obblighi connessi a titolo accessorio a una servitù costituiti prima dell’entrata in vigore della modifica del presente Codice dell’11 dicembre 2009[^u1-21-1] e risultanti soltanto dai documenti giustificativi del registro fondiario rimangono opponibili ai terzi che si riferiscono in buona fede al registro fondiario.[^u1-21-2]
 
 [^u1-21-1]: [RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666)
-[^u1-21-2]: Introdotto dal n. I 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^u1-21-2]: Introdotto dalla cifra I n. 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### VI. Pegno immobiliare
 
@@ -13612,7 +13683,7 @@ La disdetta dei crediti garantiti da pegno immobiliare e la trasmissione dei tit
 
 <sup>2</sup> I Cantoni possono emanare disposizioni transitorie complementari.[^u1-30-1]
 
-[^u1-30-1]: Nuovo testo giusta il n. II 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^u1-30-1]: Nuovo testo giusta la cifra II n. 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 ### 8. …
 
@@ -13620,7 +13691,7 @@ La disdetta dei crediti garantiti da pegno immobiliare e la trasmissione dei tit
 
 [^u1-3132-1]
 
-[^u1-3132-1]: Abrogati dal n. I 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^u1-3132-1]: Abrogati dalla cifra I n. 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 9. Parificazione di forme precedenti con forme nuove
 
@@ -13632,7 +13703,7 @@ La disdetta dei crediti garantiti da pegno immobiliare e la trasmissione dei tit
 
 <sup>3</sup> …[^u1-33-1]
 
-[^u1-33-1]: Abrogato dal n. II 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^u1-33-1]: Abrogato dalla cifra II n. 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 ### 10. Applicazione della legge anteriore alle forme di pegno da essa previste
 
@@ -13646,7 +13717,7 @@ La disdetta dei crediti garantiti da pegno immobiliare e la trasmissione dei tit
 
 <sup>3</sup> Il diritto cantonale può prevedere che le rendite fondiarie costituite in virtù del diritto federale o del diritto cantonale anteriore siano trasformate in forme di pegno secondo la legge nuova. Per gli importi di lieve entità, può essere inoltre prevista una responsabilità personale del proprietario del fondo costituito in pegno.
 
-[^u1-33a-1]: Introdotto dal n. I 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^u1-33a-1]: Introdotto dalla cifra I n. 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 11. Trasformazione del tipo di cartella ipotecaria
 
@@ -13656,7 +13727,7 @@ La disdetta dei crediti garantiti da pegno immobiliare e la trasmissione dei tit
 
 Il proprietario del fondo e gli aventi diritto sulla cartella possono, di comune accordo, chiedere per scritto che una cartella ipotecaria documentale iscritta prima dell’entrata in vigore della modifica del presente Codice dell’11 dicembre 2009[^u1-33b-2] sia trasformata in cartella ipotecaria registrale.
 
-[^u1-33b-1]: Introdotto dal n. I 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^u1-33b-1]: Introdotto dalla cifra I n. 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 [^u1-33b-2]: [RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666)
 
 ### VII. Pegno mobiliare
@@ -13703,8 +13774,8 @@ Il possesso è soggetto alla legge nuova dall’entrata in vigore di questo codi
 
 <sup>2</sup> …[^u1-38-2]
 
-[^u1-38-1]: Nuovo testo giusta l’all. n. II della L del 5 ott. 2007 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
-[^u1-38-2]: Abrogato dall’all. n. II della L del 5 ott. 2007 sulla geoinformazione, con effetto dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
+[^u1-38-1]: Nuovo testo giusta l’all. cifra II della L del 5 ott. 2007 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
+[^u1-38-2]: Abrogato dall’all. cifra II della L del 5 ott. 2007 sulla geoinformazione, con effetto dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
 
 ### 2. Misurazione ufficiale
 
@@ -13714,7 +13785,7 @@ Il possesso è soggetto alla legge nuova dall’entrata in vigore di questo codi
 
 [^u1-39-1]
 
-[^u1-39-1]: Abrogato dall’all. n. II della L del 5 ott. 2007 sulla geoinformazione, con effetto dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
+[^u1-39-1]: Abrogato dall’all. cifra II della L del 5 ott. 2007 sulla geoinformazione, con effetto dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
 
 ### b. Relazione col registro fondiario
 
@@ -13732,13 +13803,13 @@ Il possesso è soggetto alla legge nuova dall’entrata in vigore di questo codi
 
 <sup>2</sup> La misurazione e l’introduzione del registro fondiario possono avvenire successivamente per i singoli distretti di un medesimo Cantone.
 
-[^u1-41-1]: Abrogato dall’all. n. II della L del 5 ott. 2007 sulla geoinformazione, con effetto dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
+[^u1-41-1]: Abrogato dall’all. cifra II della L del 5 ott. 2007 sulla geoinformazione, con effetto dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
 
 #### Art. 42
 
 [^u1-42-1]
 
-[^u1-42-1]: Abrogato dall’all. n. II della L del 5 ott. 2007 sulla geoinformazione, con effetto dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
+[^u1-42-1]: Abrogato dall’all. cifra II della L del 5 ott. 2007 sulla geoinformazione, con effetto dal 1° lug. 2008 ([RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7165](https://fedlex.data.admin.ch/eli/fga/2006/982)).
 
 ### 3. Iscrizione dei diritti reali
 
@@ -13763,7 +13834,7 @@ Il possesso è soggetto alla legge nuova dall’entrata in vigore di questo codi
 <sup>3</sup> Gli oneri fondiari di diritto pubblico e le ipoteche legali di diritto cantonale non iscritti ma costituiti prima dell’entrata in vigore della modifica del presente Codice dell’11 dicembre 2009[^u1-44-1] rimangono opponibili, nei dieci anni successivi all’entrata in vigore di tale modifica, ai terzi di buona fede che si affidano al registro fondiario.[^u1-44-2]
 
 [^u1-44-1]: [RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666)
-[^u1-44-2]: Introdotto dal n. I 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^u1-44-2]: Introdotto dalla cifra I n. 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### 4. Diritti reali soppressi
 
@@ -13775,7 +13846,7 @@ Il possesso è soggetto alla legge nuova dall’entrata in vigore di questo codi
 
 <sup>2</sup> Estinguendosi per qualsiasi causa, questi diritti eccezionali non possono più essere ristabiliti.
 
-[^u1-45-1]: Nuovo testo giusta il n. IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
+[^u1-45-1]: Nuovo testo giusta la cifra IV della LF del 19 dic. 1963, in vigore dal 1° gen. 1965 ([RU 1964 1009](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); FF **1962** 1809).
 
 ### 5. Introduzione del registro differita
 
@@ -13846,9 +13917,9 @@ Con l’entrata in vigore di questo codice rimangono abrogate le disposizioni di
 <sup>4</sup> Le altre disposizioni di complemento dei Cantoni devono essere comunicate all’Ufficio federale di giustizia.[^u1-52-4]
 
 [^u1-52-1]: Ora: le autorità di vigilanza (vedi art. 440).
-[^u1-52-2]: Nuovo testo giusta il n. II 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
-[^u1-52-3]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^u1-52-4]: Introdotto dal n. II 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)). Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^u1-52-2]: Nuovo testo giusta la cifra II n. 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^u1-52-3]: Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^u1-52-4]: Introdotto dalla cifra II n. 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)). Nuovo testo giusta la cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### II. Disposizioni della Confederazione in luogo dei Cantoni
 
@@ -13868,8 +13939,8 @@ Con l’entrata in vigore di questo codice rimangono abrogate le disposizioni di
 
 <sup>3</sup> Per quanto non sia applicabile il Codice di procedura civile del 19 dicembre 2008[^u1-54-1], la procedura è stabilita dai Cantoni.[^u1-54-2]
 
-[^u1-54-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^u1-54-2]: Nuovo testo giusta l’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^u1-54-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^u1-54-2]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### D. Atti pubblici
 
@@ -13877,7 +13948,7 @@ Con l’entrata in vigore di questo codice rimangono abrogate le disposizioni di
 
 [^u1-chap2-lvlD-lvlI-1]
 
-[^u1-chap2-lvlD-lvlI-1]: Nuovo testo giusta il n. I 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^u1-chap2-lvlD-lvlI-1]: Nuovo testo giusta la cifra I n. 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 55
 
@@ -13899,9 +13970,9 @@ Con l’entrata in vigore di questo codice rimangono abrogate le disposizioni di
 
 <sup>4</sup> Il Consiglio federale emana disposizioni di esecuzione atte a garantire l’interoperabilità dei sistemi informatici nonché l’integrità, l’autenticità e la sicurezza dei dati.
 
-[^u1-55a-1]: Introdotto dal n. I 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^u1-55a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^u1-55a-3]: Nuovo testo giusta l’all. 1 n. II 3 del L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^u1-55a-1]: Introdotto dalla cifra I n. 2 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^u1-55a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^u1-55a-3]: Nuovo testo giusta l’all. 1 cifra II n. 3 del L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### E. Concessioni idrauliche
 
@@ -13913,7 +13984,7 @@ Fino all’emanazione di una legge federale sulle concessioni di diritti d’acq
 
 Le concessioni di acque pubbliche, in quanto siano date per almeno trent’anni od a tempo indeterminato e non costituiscano una servitù a favore di un dato fondo dominante, possono essere intavolate nel registro fondiario come diritti reali per sé stanti e permanenti.
 
-[^u1-56-1]: Vedi ora l’art. 59 della LF del 22 dic. 1916 sulla utilizzazione delle forze idriche ([RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)).
+[^u1-56-1]: Vedi ora l’art. 59 della LF del 22 dic. 1916 sulla utilizzazione delle forze idriche ([RS 721.80](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8436)).
 
 ### F. a H. …
 
@@ -13933,8 +14004,8 @@ La legge federale dell’11 aprile 1889[^u1-58-2] sulla esecuzione e sul fallime
 
 …[^u1-58-3]
 
-[^u1-58-1]: Nuova numerazione degli ultimi quattro articoli, risultante dall’abrogazione degli articoli 58 e 59 originari, giusta il n. I delle disp. trans. CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
-[^u1-58-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u1-58-1]: Nuova numerazione degli ultimi quattro articoli, risultante dall’abrogazione degli articoli 58 e 59 originari, giusta la cifra I delle disp. trans. CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
+[^u1-58-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^u1-58-3]: Le mod. possono essere consultate alla [RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233). Per il testo degli art. 132<sup>bis</sup>, 141 cpv. 3 e 258 cpv. 4 vedi [RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)tit. fin. art. 60.
 
 ### K. Applicazione del diritto svizzero e straniero
@@ -13951,9 +14022,9 @@ La legge federale dell’11 aprile 1889[^u1-58-2] sulla esecuzione e sul fallime
 
 …[^u1-59-4]
 
-[^u1-59-1]: Nuova numerazione degli ultimi quattro articoli, risultante dall’abrogazione degli articoli 58 e 59 originari, giusta il n. I delle disp. trans. CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
-[^u1-59-2]: [CS **2** 723; [RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)n. II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)n. II 1. [RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. n. I lett. a]. Vedi ora la LF del 18 dic. 1987 sul diritto internazionale privato ([RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)).
-[^u1-59-3]: Abrogato dal n. I 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^u1-59-1]: Nuova numerazione degli ultimi quattro articoli, risultante dall’abrogazione degli articoli 58 e 59 originari, giusta la cifra I delle disp. trans. CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
+[^u1-59-2]: [CS **2** 723; [RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)cifra II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II n. 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)cifra II n. 1. [RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. n. I lett. a]. Vedi ora la LF del 18 dic. 1987 sul diritto internazionale privato ([RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)).
+[^u1-59-3]: Abrogato dalla cifra I n. 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^u1-59-4]: Le mod. possono essere consultate alla [RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)
 
 ### L. Abrogazione di leggi federali
@@ -13974,10 +14045,10 @@ Il Codice federale delle obbligazioni del 14 giugno 1881[^u1-60-4].
 
 <sup>3</sup> Rimangono in vigore le leggi speciali sul diritto delle strade ferrate, dei battelli a vapore, delle poste, dei telefoni e dei telegrafi, sulla costituzione d’ipoteca e la liquidazione forzata delle ferrovie, quelle relative al lavoro delle fabbriche e alla responsabilità civile dei padroni di fabbrica e di altre imprese, nonché tutte le leggi federali sopra materie del diritto delle obbligazioni, che furono emanate allato della legge federale sul diritto delle obbligazioni.
 
-[^u1-60-1]: Nuovo testo giusta il n. I delle disp. trans. CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
+[^u1-60-1]: Nuovo testo giusta la cifra I delle disp. trans. CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
 [^u1-60-2]: [RU **1** 508]
 [^u1-60-3]: [RU **5** 556]
-[^u1-60-4]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), 11 490; [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)art. 103 cpv. 1]
+[^u1-60-4]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), 11 490; [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)art. 103 cpv. 1]
 
 ### M. Disposizioni finali
 
@@ -13989,7 +14060,7 @@ Il Codice federale delle obbligazioni del 14 giugno 1881[^u1-60-4].
 
 <sup>2</sup> Il Consiglio federale potrà, con l’autorizzazione dell’Assemblea federale, anticipare l’entrata in vigore di singole disposizioni.
 
-[^u1-61-1]: Nuova numerazione degli ultimi quattro articoli, risultante dall’abrogazione degli articoli 58 e 59 originari, giusta il n. I delle disp. trans. del CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
+[^u1-61-1]: Nuova numerazione degli ultimi quattro articoli, risultante dall’abrogazione degli articoli 58 e 59 originari, giusta la cifra I delle disp. trans. del CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
 
 ## Testo delle disposizioni previgenti del titolo sesto
 
@@ -14265,7 +14336,7 @@ La moglie dispone della sostanza coniugale nella misura in cui rappresenta l’u
 
 <sup>3</sup> È riservata l’azione rivocatoria secondo la legge federale dell’11 aprile 1889[^u2-205-1] sulla esecuzione e sul fallimento.
 
-[^u2-205-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-205-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### D. Responsabilità
 
@@ -14337,7 +14408,7 @@ Il marito è responsabile:
 
 <sup>2</sup> La cessione di questo privilegio nonché la rinuncia del medesimo a favore di singoli creditori sono nulle.
 
-[^u2-211-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-211-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### F. Scioglimento della unione dei beni
 
@@ -14475,7 +14546,7 @@ Durante la comunione le procedure di esecuzione per debiti a carico dei beni com
 
 <sup>2</sup> La cessione del privilegio nonché la rinuncia dello stesso a favore di singoli creditori sono nulle.
 
-[^u2-224-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-224-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### V. Scioglimento della comunione
 

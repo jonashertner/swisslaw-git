@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20240101-fr-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20250101-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2024)
+du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -23,7 +23,7 @@ vu l’art. 64 de la constitution[^ingress-1],[^ingress-2] vu le message du Cons
 
 décrète:
 
-[^ingress-1]: [RS **1** 3]. À la disp. mentionnée correspond actuellement l’art. 122 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3]. À la disp. mentionnée correspond actuellement l’art. 122 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 [^ingress-3]: [FF 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 402](https://fedlex.data.admin.ch/eli/fga/1907/6__402_)
 
@@ -510,7 +510,7 @@ Le juge peut, pour autant que la décision paraisse équitable au vu des circons
 
 <sup>2</sup> …[^28l-2]
 
-<sup>3</sup> et <sup>4</sup> …[^28l-3]
+<sup>3 et <sup>4</sup></sup> …[^28l-3]
 
 [^28l-1]: Introduit par le ch. I de la LF du 16 déc. 1983, en vigueur depuis le 1<sup>er</sup> juil. 1985 ([RO 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 661](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 [^28l-2]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
@@ -748,22 +748,26 @@ Les autorités suivantes peuvent accéder en ligne aux données nécessaires à 
 - 7\.[^43a-13] le service fédéral compétent pour la tenue du registre central des assurés prévu à l’art. 71, al. 4, let. a, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^43a-14];
 - 8\.[^43a-15] les services fédéraux compétents pour la tenue du registre des Suisses de l’étranger prévu à l’art. 4, al. 1, de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^43a-16].
 
+<sup>5</sup> Le service fédéral compétent pour la tenue du système d’information prévu à l’art. 21*a* de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain[^43a-17] peut accéder en ligne aux données nécessaires à l’établissement de l’existence des liens de filiation.[^43a-18]
+
 [^43a-1]: Introduit par le ch. I de la LF du 5 oct. 2001 (Tenue informatisée des registres de l’état civil), en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1537](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 [^43a-2]: Introduit par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^43a-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^43a-3]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 [^43a-4]: Nouvelle teneur selon l’annexe 1 ch. 4 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^43a-5]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^43a-5]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^43a-6]: Nouvelle teneur selon l’annexe 1 ch. 2 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^43a-7]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^43a-7]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^43a-8]: Office fédéral de la police
 [^43a-9]: Introduit par l’annexe ch. II 4 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^43a-10]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^43a-10]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^43a-11]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-12]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^43a-12]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 [^43a-13]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-14]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^43a-14]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^43a-15]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-16]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^43a-16]: [RS 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^43a-17]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^43a-18]: Introduit par l’annexe ch. 1 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 ### B. Organisation
 
@@ -845,7 +849,7 @@ Le Conseil fédéral règle en collaboration avec les cantons:
 
 <sup>3</sup> La loi du 14 mars 1958 sur la responsabilité[^46-1] s’applique aux personnes engagées par la Confédération.
 
-[^46-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^46-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### III. Mesures disciplinaires
 
@@ -887,7 +891,7 @@ Il détermine à quelles conditions les opérations suivantes peuvent s’effect
 - 3\. les communications et l’établissement d’extraits des registres.[^48-5]
 
 [^48-1]: Nouvelle expression selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^48-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^48-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 23 juin 2006 sur l’harmonisation de registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 439](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 [^48-4]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^48-5]: Introduit par le ch. I de la LF du 5 oct. 2001 (Tenue informatisée des registres de l’état civil), en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1537](https://fedlex.data.admin.ch/eli/fga/2001/407)).
@@ -1131,7 +1135,7 @@ Tout sociétaire est de par la loi privé de son droit de vote dans les décisio
 La direction tient les livres de l’association. Les dispositions du code des obligations[^69a-2] relatives à la comptabilité commerciale et à la présentation des comptes sont applicables par analogie.
 
 [^69a-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce; [RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 23 déc. 2011 (Droit comptable), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^69a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Organe de révision
 
@@ -1154,7 +1158,7 @@ L’association doit soumettre sa comptabilité au contrôle ordinaire d’un or
 <sup>4</sup> Dans les autres cas, les statuts et l’assemblée générale peuvent organiser le contrôle librement.
 
 [^69b-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^69b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### IV. Carences dans l’organisation de l’association
 
@@ -1323,7 +1327,7 @@ L’acte de fondation indique les organes de celle-ci et son mode d’administra
 L’organe suprême de la fondation tient les livres de la fondation. Les dispositions du code des obligations[^83a-2] relatives à la comptabilité commerciale et à la présentation des comptes sont applicables par analogie.
 
 [^83a-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations; [RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 23 déc. 2011 (Droit comptable), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^83a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Organe de révision
 
@@ -1342,7 +1346,7 @@ L’organe suprême de la fondation tient les livres de la fondation. Les dispos
 <sup>4</sup> Lorsque la fondation est tenue à un contrôle restreint, l’autorité de surveillance peut exiger un contrôle ordinaire, si cela est nécessaire pour révéler l’état du patrimoine et les résultats de la fondation.
 
 [^83b-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations; [RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^83b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Rapports avec l’autorité de surveillance
 
@@ -1416,7 +1420,7 @@ Lorsque l’organisation prévue par l’acte de fondation n’est pas suffisant
 L’organe suprême de la fondation communique tous les ans à l’autorité de surveillance séparément le montant global des indemnités au sens de l’art. 734*a*, al. 2, du code des obligations[^84b-2] qui lui ont été versées directement ou indirectement ainsi qu’à l’éventuelle direction.
 
 [^84b-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations; [RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^84b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^84b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Modification
 
@@ -1470,7 +1474,7 @@ L’autorité fédérale ou cantonale compétente peut, sur la proposition de l�
 
 [^86a-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^86a-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
-[^86a-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^86a-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 [^86a-5]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 [^86a-6]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
@@ -1613,15 +1617,21 @@ Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les
 
 - 1\. elles administrent leur fortune de manière à garantir la sécurité des placements, un rendement raisonnable et à disposer des liquidités nécessaires à l’exécution de leurs tâches;
 - 2\. l’autorité de surveillance décide, sur demande du conseil de fondation, de la liquidation partielle des fonds patronaux de prévoyance à prestations discrétionnaires;
-- 3\. elles tiennent compte, par analogie, des principes de l’égalité de traitement et de l’adéquation.[^89a-29]
+- 3\. elles tiennent compte, par analogie, des principes de l’égalité de traitement et de l’adéquation;
+- 4\.[^89a-29]
+
+  elles peuvent:
+
+  - – contribuer au financement d’autres institutions de prévoyance en faveur du personnel,
+  - – allouer des prestations dans des situations de détresse, de maladie, d’accident, d’invalidité ou de chômage, ou pour des mesures de formation et de formation continue, de conciliation de la vie familiale et de la vie professionnelle ainsi que de promotion de la santé et de prévention; dans ces cas, les art. 80, 81, al. 1, et 83 LPP sont également applicables.[^89a-30]
 
 [^89a-1]: Introduit par le ch. II de la LF du 21 mars 1958, en vigueur depuis le 1<sup>er</sup> juil. 1958 ([RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [FF 1956 II 845](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Jusqu’à l’entrée en vigueur de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation) le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>.
-[^89a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^89a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^89a-3]: Nouvelle teneur selon le ch. II art. 2 ch. 1 de la LF du 25 juin 1971, en vigueur depuis le 1<sup>er</sup> janv. 1972 ([RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1967 II 249](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 [^89a-4]: Nouvelle teneur selon le ch. II art. 2 ch. 1 de la LF du 25 juin 1971, en vigueur depuis le 1<sup>er</sup> janv. 1972 ([RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1967 II 249](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 [^89a-5]: Abrogé par le ch. III de la LF du 21 juin 1996, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 516](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)533).
-[^89a-6]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^89a-7]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^89a-6]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^89a-7]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^89a-8]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 [^89a-9]: Nouvelle teneur selon le ch. II 1 de la LF du 11 déc. 2009 (Mesures destinées à faciliter la participation des travailleurs âgés au marché du travail), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-10]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
@@ -1643,13 +1653,14 @@ Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les
 [^89a-26]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^89a-27]: Introduit par le 1 de la LF du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité ([RO 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 117](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), ch. 6, 7, 10 à 12, 14 ( à l’exception de l’art. 66 al. 4), 15, 17 à 20 et 23 en vigueur depuis le 1<sup>er</sup> avr. 2004, ch. 3 à 5, 8 et 9 13 14 (art. 66 al. 4), 16 en vigueur depuis le 1<sup>er</sup> janv. 2005, ch. 1, 21 et 22 en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^89a-28]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-29]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-29]: Introduit par le ch. I de la LF du 14 juin 2024 (Prestations des fondations patronales de bienfaisance), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 676](https://fedlex.data.admin.ch/eli/oc/2024/676); [FF 2023 2077](https://fedlex.data.admin.ch/eli/fga/2023/2077), [2481](https://fedlex.data.admin.ch/eli/fga/2023/2481)).
+[^89a-30]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Titre deuxième<sup>bis</sup>: Des fonds recueillis
 
 [^book1-tit2bis-1]
 
-[^book1-tit2bis-1]: Introduit par le ch. I 2 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)). Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^book1-tit2bis-1]: Introduit par le ch. I 2 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)). Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### A. Défaut d’administration
 
@@ -1687,11 +1698,11 @@ Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les
 
 <sup>1</sup> Les fiançailles se forment par la promesse de mariage.
 
-<sup>2</sup> Elles n’obligent le fiancé mineur que si son représentant légal y a consenti.[^90-1]
+<sup>2</sup> …[^90-1]
 
 <sup>3</sup> La loi n’accorde pas d’action pour contraindre au mariage le fiancé qui s’y refuse.
 
-[^90-1]: Nouvelle teneur selon le ch. I 2 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^90-1]: Abrogé par le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### B. Rupture des fiançailles
 
@@ -1865,7 +1876,11 @@ Le mariage célébré par un officier de l’état civil ne peut être annulé q
 
 ### B. Causes absolues
 
-### I. Cas
+### I. Causes générales
+
+[^book2-part1-tit3-chap4-lvlB-lvlI-1]
+
+[^book2-part1-tit3-chap4-lvlB-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 105
 
@@ -1876,29 +1891,55 @@ Le mariage doit être annulé:
 - 3\.[^105-2] lorsque le mariage était prohibé en raison de la nature d’un lien de parenté;
 - 4\.[^105-3] lorsque l’un des époux ne veut pas fonder une communauté conjugale mais éluder les dispositions sur l’admission et le séjour des étrangers;
 - 5\.[^105-4] lorsque le mariage a été conclu en violation de la libre volonté d’un des époux;
-- 6\.[^105-5] lorsque l’un des époux est mineur, à moins que son intérêt supérieur ne commande de maintenir le mariage.
+- 6\.[^105-5] …
 
 [^105-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 [^105-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^105-3]: Introduit par l’annexe ch. II 4 de la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^105-4]: Introduit par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^105-5]: Introduit par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-5]: Introduit par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)). Abrogé par le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), avec effet le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
-### II. Action
+### II. Minorité d’un des époux
+
+#### Art. 105a
+
+[^105a-1]
+
+<sup>1</sup> Le mariage doit être annulé par le juge lorsque l’un des époux était mineur au moment de la célébration et qu’il n’a pas encore atteint l’âge de 25 ans au moment où l’action en annulation du mariage est intentée.
+
+<sup>2</sup>
+
+Le mariage doit toutefois être maintenu:
+
+- 1\. lorsque l’époux concerné est encore mineur et que le juge conclut à titre exceptionnel que son intérêt prépondérant commande de maintenir le mariage et que cela correspond à sa libre volonté, ou
+- 2\. lorsque l’époux concerné est devenu majeur et que le juge conclut que c’est de son plein gré qu’il déclare vouloir maintenir le mariage.
+
+[^105a-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### III. Action
+
+[^book2-part1-tit3-chap4-lvlB-lvlIII-1]
+
+[^book2-part1-tit3-chap4-lvlB-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 106
 
-<sup>1</sup> L’action est intentée d’office par l’autorité cantonale compétente du domicile des époux; elle peut l’être également par toute personne intéressée. Dans la mesure où cela est compatible avec leurs attributions, les autorités fédérales ou cantonales informent l’autorité compétente pour intenter action lorsqu’elles ont des raisons de croire qu’un mariage est entaché d’un vice entraînant la nullité.[^106-1]
+<sup>1</sup> L’action en annulation du mariage est intentée d’office par l’autorité cantonale compétente du domicile des époux; elle peut l’être également par toute personne intéressée. Si les autorités fédérales ou cantonales ont des raisons de penser que le mariage doit être annulé, elles en informent l’autorité compétente pour intenter action, dans la mesure où cela est compatible avec leurs attributions.[^106-1]
 
 <sup>2</sup> L’annulation d’un mariage déjà dissous ne se poursuit pas d’office; elle peut néanmoins être demandée par toute personne intéressée.
 
-<sup>3</sup> L’action peut être intentée en tout temps.
+<sup>3</sup> L’action peut être intentée en tout temps. Si elle vise à annuler le mariage parce que l’un des époux était mineur au moment de sa célébration, elle doit être intentée avant que l’époux concerné ait atteint l’âge de 25 ans.[^106-2]
 
-[^106-1]: Phrase introduite par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^106-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+[^106-2]: Phrase introduite par le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### C. Causes relatives
 
-### I. Cas
+### I. Causes
+
+[^book2-part1-tit3-chap4-lvlC-lvlI-1]
+
+[^book2-part1-tit3-chap4-lvlC-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 107
 
@@ -1915,9 +1956,11 @@ Un époux peut demander l’annulation du mariage:
 
 #### Art. 108
 
-<sup>1</sup> Le demandeur doit intenter l’action dans le délai de six mois à compter du jour où il a découvert la cause d’annulation ou de celui où la menace a été écartée, mais en tout cas dans les cinq ans qui suivent la célébration du mariage.
+<sup>1</sup> Le demandeur doit intenter l’action dans le délai de six mois à compter du jour où il a découvert la cause d’annulation, mais en tout cas dans les cinq ans qui suivent la célébration du mariage.[^108-1]
 
 <sup>2</sup> Les héritiers n’ont pas qualité pour agir; un héritier peut toutefois poursuivre la procédure déjà ouverte au moment du décès.
+
+[^108-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### D. Effets du jugement
 
@@ -2092,7 +2135,7 @@ Les prétentions de prévoyance professionnelle acquises durant le mariage et ju
 <sup>3</sup> Les prestations de sortie à partager se calculent conformément aux art. 15 à 17 et 22*a* ou 22*b* de la loi du 17 décembre 1993 sur le libre passage[^123-2].
 
 [^123-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^123-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^123-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 ### III. Partage en cas de perception d’une rente d’invalidité avant l’âge de référence réglementaire
 
@@ -2111,7 +2154,7 @@ Les prétentions de prévoyance professionnelle acquises durant le mariage et ju
 <sup>3</sup> Le Conseil fédéral détermine quels sont les cas dans lesquels le montant visé à l’al. 1 ne peut pas être utilisé pour le partage parce que la rente d’invalidité est réduite pour cause de surindemnisation.
 
 [^124-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^124-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^124-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 ### IV. Partage en cas de perception d’une rente d’invalidité après l’âge de référence réglementaire ou d’une rente de vieillesse
 
@@ -3354,7 +3397,7 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 <sup>2</sup> Si l’épouse de la mère décède ou est déclarée disparue, elle est considérée comme parent de l’enfant si l’insémination a eu lieu avant son décès ou avant le moment où elle était en danger de mort ou avant celui de la réception des dernières nouvelles la concernant.
 
 [^255a-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^255a-2]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^255a-2]: [RS 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 
 ### B. Désaveu de la parentalité de l’époux
 
@@ -3380,7 +3423,7 @@ La présomption de paternité peut être attaquée devant le juge:
 <sup>3</sup> Le mari ne peut intenter l’action s’il a consenti à la conception par un tiers. La loi fédérale du 18 décembre 1998 sur la procréation médicalement assistée[^256-2] est réservée en ce qui concerne l’action en désaveu de l’enfant[^256-3]
 
 [^256-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^256-2]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^256-2]: [RS 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 [^256-3]: Nouvelle teneur selon l’art. 39 de la LF du 18 déc. 1998 sur la procréation médicalement assistée, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3055](https://fedlex.data.admin.ch/eli/oc/2000/554); [FF 1996 III 197](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)).
 
 ### II. Moyen
@@ -4237,7 +4280,7 @@ Les père et mère et l’enfant se doivent mutuellement l’aide, les égards e
 
 <sup>1</sup> L’enfant peut agir contre son père et sa mère, ou contre les deux ensemble, afin de leur réclamer l’entretien pour l’avenir et pour l’année qui précède l’ouverture de l’action.
 
-<sup>2</sup> et <sup>3</sup> …[^279-2]
+<sup>2 et <sup>3</sup></sup> …[^279-2]
 
 [^279-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^279-2]: Abrogés par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
@@ -4957,7 +5000,7 @@ Elle examine si elle doit instituer une curatelle, en particulier lorsque:
 <sup>2</sup> Les personnes soumises au secret professionnel en vertu du code pénal[^314c-2] ont elles aussi le droit d’aviser l’autorité lorsque l’intérêt de l’enfant le justifie. Cette disposition ne s’applique pas aux auxiliaires soumis au secret professionnel en vertu du code pénal.
 
 [^314c-1]: Introduit par le ch. I de la LF du 15 déc. 2017 (Protection de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^314c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 6. Obligation d’aviser l’autorité
 
@@ -4977,7 +5020,7 @@ Les personnes ci-après, dans la mesure où elles ne sont pas soumises au secret
 <sup>3</sup> Les cantons peuvent prévoir d’autres obligations d’aviser l’autorité.
 
 [^314d-1]: Introduit par le ch. I de la LF du 15 déc. 2017 (Protection de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314d-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^314d-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 7. Collaboration et assistance administrative
 
@@ -4994,8 +5037,8 @@ Les personnes ci-après, dans la mesure où elles ne sont pas soumises au secret
 <sup>4</sup> Les autorités administratives et les tribunaux fournissent les documents nécessaires, établissent les rapports officiels et communiquent les informations requises, à moins que des intérêts dignes de protection ne s’y opposent.
 
 [^314e-1]: Introduit par le ch. I de la LF du 15 déc. 2017 (Protection de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314e-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^314e-3]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^314e-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^314e-3]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 ### VII. For et compétence
 
@@ -5574,7 +5617,7 @@ S’il existe un mandat pour cause d’inaptitude, elle examine:
 
 <sup>3</sup> Si le mandataire accepte le mandat, l’autorité de protection de l’adulte le rend attentif aux devoirs découlant des règles du code des obligations[^363-1] sur le mandat et lui remet un document qui fait état de ses compétences.
 
-[^363-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^363-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Interprétation et complètement
 
@@ -5592,7 +5635,7 @@ Le mandataire peut demander à l’autorité de protection de l’adulte d’int
 
 <sup>3</sup> En cas de conflit d’intérêts, les pouvoirs du mandataire prennent fin de plein droit.
 
-[^365-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^365-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### F. Rémunération et frais
 
@@ -5700,7 +5743,7 @@ Le pouvoir de représentation porte:
 
 Les dispositions du code des obligations[^375-1] sur le mandat sont applicables par analogie à l’exercice du pouvoir de représentation.
 
-[^375-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^375-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### C. Intervention de l’autorité de protection de l’adulte
 
@@ -6107,7 +6150,7 @@ Le curateur met à la libre disposition de la personne concernée des montants a
 
 <sup>3</sup> Lorsque l’exécution des tâches qui lui sont confiées l’exige, il doit informer des tiers de l’existence d’une curatelle.
 
-[^413-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^413-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### H. Faits nouveaux
 
@@ -6571,7 +6614,7 @@ Quand elle ordonne, modifie ou lève une mesure, l’autorité de protection de 
 <sup>2</sup> En cas de changement de l’autorité de protection de l’adulte compétente, il incombe à la nouvelle autorité de communiquer les mesures dont la personne concernée fait l’objet.
 
 [^449c-1]: Nouvelle teneur selon ch. I de la LF du 16 déc. 2016 (Communication des mesures de protection de l’adulte), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4979](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4993](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
-[^449c-2]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^449c-2]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ### Sous-chapitre II: Devant l’instance judiciaire de recours
 
@@ -6713,7 +6756,7 @@ En outre, si les cantons n’en disposent pas autrement, les dispositions de la 
 
 <sup>3</sup> Lorsque la personne a été lésée du fait qu’une mesure à caractère durable a été ordonnée ou exécutée, la prescription de l’action contre le canton ne court pas avant que la mesure n’ait pris fin ou qu’elle n’ait été transférée à un autre canton.
 
-[^455-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^455-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^455-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^455-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
@@ -6723,7 +6766,7 @@ En outre, si les cantons n’en disposent pas autrement, les dispositions de la 
 
 La responsabilité du mandataire pour cause d’inaptitude, de l’époux ou du partenaire enregistré de la personne incapable de discernement ou de la personne habilitée à la représenter dans le domaine médical, lorsqu’ils n’agissent pas en qualité de curateurs, se détermine selon les dispositions du code des obligations[^456-1] applicables au mandat.
 
-[^456-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^456-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Livre troisième: Des successions
 
@@ -8439,7 +8482,7 @@ Les immeubles doivent être imputés sur les parts héréditaires à la valeur v
 La reprise et l’imputation des entreprises et des immeubles agricoles sont régies par la loi fédérale du 4 octobre 1991 sur le droit foncier rural[^619-2].
 
 [^619-1]: Nouvelle teneur selon l’art. 92 ch. 1 de la LF du 4 oct. 1991 sur le droit foncier rural, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 889](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^619-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^619-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 620 à 625
 
@@ -8891,7 +8934,7 @@ Lorsque plusieurs personnes formant une communauté en vertu de la loi ou d’un
 La dissolution de la propriété de plusieurs sur les entreprises et les immeubles agricoles est en outre régie par la loi fédérale du 4 octobre 1991 sur le droit foncier rural[^654a-2].
 
 [^654a-1]: Introduit par l’art. 92 ch. 1. de la LF du 4 oct. 1991 sur le droit foncier rural, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 889](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^654a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^654a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### Titre dix-neuvième: De la propriété foncière
 
@@ -9340,7 +9383,7 @@ Lorsque, par l’exploitation licite de son fonds, notamment par des travaux de 
 Les droits de préemption sur les entreprises et les immeubles agricoles sont en outre régis par la loi fédérale du 4 octobre 1991 sur le droit foncier rural[^682a-2].
 
 [^682a-1]: Introduit par l’art. 92 ch. 1. de la LF du 4 oct. 1991 sur le droit foncier rural, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 889](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^682a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^682a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 683
 
@@ -10061,7 +10104,7 @@ Celui qui prend possession d’une chose sans maître, avec la volonté d’en d
 <sup>3</sup> Les règles établies pour la prescription des créances s’appliquent à la computation des délais, à l’interruption et à la suspension de la prescription acquisitive.
 
 [^728-1]: Introduit par le ch. I de la LF du 4 oct. 2002 (Animaux), en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3885](https://fedlex.data.admin.ch/eli/fga/2002/591)[5418](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^728-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^728-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 [^728-3]: Introduit par l’art. 32 ch. 1 de la LF du 20 juin 2003 sur le transfert des biens culturels, en vigueur depuis le 1<sup>er</sup> juin 2005 ([RO 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 505](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
 ### C. Perte de la propriété mobilière
@@ -10926,7 +10969,7 @@ Le rachat s’opère pour la somme inscrite au registre foncier comme valeur de 
 L’engagement des immeubles agricoles est en outre régi par la loi fédérale du 4 octobre 1991 sur le droit foncier rural[^798a-2].
 
 [^798a-1]: Introduit par l’art. 92 ch. 1. de la LF du 4 oct. 1991 sur le droit foncier rural, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 889](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^798a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^798a-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### B. Constitution et extinction
 
@@ -11790,7 +11833,7 @@ Est nulle toute clause qui autoriserait le créancier à s’approprier le gage 
 
 <sup>3</sup> L’engagement des titres intermédiés est régi exclusivement par la loi du 3 octobre 2008 sur les titres intermédiés[^901-1].[^901-2]
 
-[^901-1]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^901-1]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^901-2]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### III. Titres représentatifs de marchandises et warrants
@@ -12082,7 +12125,7 @@ L’acquéreur de bonne foi auquel une chose mobilière est transférée à titr
 <sup>3</sup> La restitution est soumise d’ailleurs aux règles concernant les droits du possesseur de bonne foi.
 
 [^934-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002 (Animaux), en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100)466; [FF 2002 3885](https://fedlex.data.admin.ch/eli/fga/2002/591)[5418](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^934-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^934-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 [^934-3]: Introduit par l’art. 32 ch. 1 de la LF du 20 juin 2003 sur le transfert des biens culturels, en vigueur depuis le 1<sup>er</sup> juin 2005 ([RO 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 505](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
 ### c. Monnaie et titres au porteur
@@ -12332,7 +12375,7 @@ Les cantons qui tiennent le registre foncier au moyen de l’informatique peuven
 <sup>2</sup> La loi fédérale du 5 octobre 2007 sur la géoinformation[^950-2] fixe les exigences qualitatives et techniques applicables à la mensuration officielle.
 
 [^950-1]: Nouvelle teneur selon l’annexe ch. II de la LF du 5 oct. 2007 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7407](https://fedlex.data.admin.ch/eli/fga/2006/982)).
-[^950-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^950-2]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 ### II. Tenue du registre foncier
 
@@ -12919,6 +12962,16 @@ Les dispositions de la modification du 16 décembre 2005[^u1-6c-2] concernant la
 [^u1-6c-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^u1-6c-2]: [RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
+### 3. Fondations de prévoyance en faveur du personnel
+
+#### Art. 6c<sup>bis</sup>
+
+[^u1-6cbis-1]
+
+L’autorité de surveillance compétente peut, sur demande de l’organe suprême de la fondation, modifier le but d’une fondation de prévoyance en faveur du personnel au sens de l’art. 89*a*, al. 7, créée avant l’entrée en vigueur de la modification du 14 juin 2024, lorsque la modification du but consiste en son extension aux prestations visées à l’art. 89*a*, al. 8, ch. 4.
+
+[^u1-6cbis-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Prestations des fondations patronales de bienfaisance), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 676](https://fedlex.data.admin.ch/eli/oc/2024/676); [FF 2023 2077](https://fedlex.data.admin.ch/eli/fga/2023/2077), [2481](https://fedlex.data.admin.ch/eli/fga/2023/2481)).
+
 ### IV. Protection de la personnalité contre la violence, les menaces et le harcèlement
 
 #### Art. 6d
@@ -12944,22 +12997,38 @@ Les procédures pendantes sont soumises au nouveau droit dès l’entrée en vig
 [^u1-7-1]: Introduit par le ch. I 4 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^u1-7-2]: [RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)
 
-### I<sup>bis</sup>. Divorce
-
-### 1. Principe
+### I<sup>bis</sup>. Annulation des mariages avec un mineur
 
 #### Art. 7a
 
 [^u1-7a-1]
 
-<sup>1</sup> Le divorce est régi par le nouveau droit dès l’entrée en vigueur de la loi fédérale du 26 juin 1998[^u1-7a-2].
+<sup>1</sup> L’annulation des mariages avec un mineur célébrés avant l’entrée en vigueur de la modification du 14 juin 2024 est régie par le nouveau droit.
+
+<sup>2</sup> Si les deux époux ont atteint l’âge de 18 ans au moment de l’entrée en vigueur du nouveau droit, la cause d’annulation ne peut être invoquée que par l’époux qui était mineur au moment de la célébration, pour autant qu’il n’ait pas atteint l’âge de 25 ans au moment où l’action en annulation du mariage est intentée.
+
+[^u1-7a-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### I<sup>ter</sup>. Divorce
+
+[^u1-chap1-lvlC-lvlIter-1]
+
+[^u1-chap1-lvlC-lvlIter-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### 1. Principe
+
+#### Art. 7a<sup>bis</sup>
+
+[^u1-7abis-1]
+
+<sup>1</sup> Le divorce est régi par le nouveau droit dès l’entrée en vigueur de la loi fédérale du 26 juin 1998[^u1-7abis-2].
 
 <sup>2</sup> La loi ne rétroagit pas à l’égard des mariages valablement dissous en conformité avec l’ancien droit; les nouvelles dispositions sur l’exécution sont applicables aux rentes et aux indemnités en capital destinées à compenser la perte du droit à l’entretien ou versées à titre d’assistance.
 
 <sup>3</sup> La modification du jugement de divorce rendu selon l’ancien droit est régie par l’ancien droit, sous réserve des dispositions relatives aux enfants et à la procédure.
 
-[^u1-7a-1]: Introduit par le ch. I 4 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^u1-7a-2]: [RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)
+[^u1-7abis-1]: Anciennement art. 7*a*. Introduit par le ch. I 4 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^u1-7abis-2]: [RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)
 
 ### 2. Procès en divorce pendants
 
@@ -13014,7 +13083,7 @@ Dans les procès en divorce pendants lors de l’entrée en vigueur de la modifi
 <sup>3</sup> La rente au sens de l’ancien droit vaut comme part de rente attribuée.
 
 [^u1-7e-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^u1-7e-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^u1-7e-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### I<sup>ter</sup>. Effets généraux du mariage
 
@@ -13155,7 +13224,7 @@ Les époux qui étaient placés sous le régime de la séparation de biens léga
 <sup>4</sup> Les ordonnances correspondantes prévoient que les époux qui le souhaitent puissent être mentionnés comme mari et femme, respectivement comme père et mère de leurs enfants dans les documents, actes et formulaires.
 
 [^u1-9g-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> janv. 2022, les al. 1, 3 et 4 en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^u1-9g-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^u1-9g-2]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### 5. Contrats de mariage
 
@@ -13268,7 +13337,7 @@ Les dispositions relatives au changement de régime matrimonial sont applicables
 
 [^u1-12-1]: Nouvelle teneur selon le ch. I 2 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^u1-12-2]: Introduit par le ch. I de la LF du 21 juin 2013 (Autorité parentale), en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8315](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^u1-12-3]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^u1-12-3]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^u1-12-4]: Introduit par le ch. I de la LF du 21 juin 2013 (Autorité parentale), en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8315](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### III<sup>bis</sup>. Adoption
@@ -13871,7 +13940,7 @@ Sauf disposition contraire du droit fédéral, toutes les lois civiles des canto
 
 <sup>3</sup> Les cantons règlent la procédure, à moins que le code de procédure civile du 19 décembre 2008[^u1-54-1] ne soit applicable.[^u1-54-2]
 
-[^u1-54-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^u1-54-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^u1-54-2]: Nouvelle teneur selon l’annexe 1 ch. II 3 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### D. Forme authentique
@@ -13903,7 +13972,7 @@ Sauf disposition contraire du droit fédéral, toutes les lois civiles des canto
 <sup>4</sup> Le Conseil fédéral édicte des dispositions d’exécution en vue d’assurer l’interopérabilité des systèmes informatiques et l’intégrité, l’authenticité et la sécurité des données.
 
 [^u1-55a-1]: Introduit par le ch. I 2 de la LF du 11 déc. 2009 (Cédule hypothécaire de registre et droits réels), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 5015](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^u1-55a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^u1-55a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^u1-55a-3]: Nouvelle teneur selon le ch. II 3 de la L du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### E. Concessions hydrauliques
@@ -13916,7 +13985,7 @@ Les règles suivantes sont applicables en matière de concessions hydrauliques, 
 
 Les concessions octroyées sur des eaux publiques pour trente ans au moins ou pour une durée indéterminée, sans être constituées en servitudes au profit d’un fonds, peuvent être immatriculées au registre foncier à titre de droits distincts et permanents.
 
-[^u1-56-1]: Voir actuellement l’art. 59 de la LF du 22 déc. 1916 sur l’utilisation des forces hydrauliques ([RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)).
+[^u1-56-1]: Voir actuellement l’art. 59 de la LF du 22 déc. 1916 sur l’utilisation des forces hydrauliques ([RS 721.80](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8436)).
 
 ### F. à H. …
 
@@ -13924,7 +13993,7 @@ Les concessions octroyées sur des eaux publiques pour trente ans au moins ou po
 
 [^u1-57-1]
 
-[^u1-57-1]: Abrogé par l’art. 53 al. 1 let. b de la LF du 8 nov. 1934 sur les banques et les caisses d’épargne, avec effet au 1<sup>er</sup> mars 1935 ([RO 51 121](https://fedlex.data.admin.ch/eli/oc/51/117_121_129)et RS **10** 325; [FF 1934 I 172](https://fedlex.data.admin.ch/eli/fga/1934/1_171_172_)).
+[^u1-57-1]: Abrogé par l’art. 53 al. 1 let. b de la LF du 8 nov. 1934 sur les banques et les caisses d’épargne, avec effet au 1<sup>er</sup> mars 1935 ([RO 51 121](https://fedlex.data.admin.ch/eli/oc/51/117_121_129)et [RS 10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4714)325; [FF 1934 I 172](https://fedlex.data.admin.ch/eli/fga/1934/1_171_172_)).
 
 ### J. Poursuite pour dettes et faillite
 
@@ -13936,8 +14005,8 @@ La loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^
 
 …[^u1-58-3]
 
-[^u1-58-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); RS **2** 189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
-[^u1-58-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u1-58-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
+[^u1-58-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^u1-58-3]: Les mod. peuvent être consultées au [RO 24 245](https://fedlex.data.admin.ch/eli/oc/24/233_245_233). Pour la teneur des art. 132<sup>bis</sup>, 141 al. 3 et 258 al. 4, voir [RO 24 245](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)tit. fin. art. 60.
 
 ### K. Application du droit suisse et du droit étranger
@@ -13954,10 +14023,10 @@ La loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^
 
 …[^u1-59-5]
 
-[^u1-59-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); RS **2** 189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
-[^u1-59-2]: [RS **2** 727; [RO 1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)ch. II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)ch. II 1. [RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. a]. Voir actuellement la LF du 18 déc. 1987 sur le droit international privé ([RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)).
+[^u1-59-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
+[^u1-59-2]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)727; [RO 1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)ch. II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)ch. II 1. [RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. a]. Voir actuellement la LF du 18 déc. 1987 sur le droit international privé ([RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)).
 [^u1-59-3]: Abrogé par le ch. I 2 de la LF du 5 oct. 1984, avec effet au 1<sup>er</sup> janv. 1988 ([RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1179](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^u1-59-4]: [RS **2** 727; [RO 1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)ch. II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)ch. II 1. [RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. a]. Voir actuellement la LF du 18 déc. 1987 sur le droit international privé ([RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)).
+[^u1-59-4]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)727; [RO 1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)ch. II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)ch. II 1. [RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. a]. Voir actuellement la LF du 18 déc. 1987 sur le droit international privé ([RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)).
 [^u1-59-5]: Les mod. peuvent être consultées au [RO 24 245](https://fedlex.data.admin.ch/eli/oc/24/233_245_233).
 
 ### L. Droit civil fédéral abrogé
@@ -13978,11 +14047,11 @@ Le code fédéral des obligations du 14 juin 1881[^u1-60-5].
 
 <sup>3</sup> Demeurent en vigueur les lois spéciales concernant les chemins de fer, les postes, les télégraphes et téléphones, l’hypothèque et la liquidation forcée des chemins de fer, le travail dans les fabriques, la responsabilité civile des fabricants et autres chefs d’industrie, de même que toutes les lois se rapportant au droit des obligations et aux transactions mobilières et qui ont été promulguées en complément du code fédéral du 14 juin 1881.
 
-[^u1-60-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); RS **2** 189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
-[^u1-60-2]: Nouvelle teneur selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); RS **2** 189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
+[^u1-60-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
+[^u1-60-2]: Nouvelle teneur selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
 [^u1-60-3]: [RO **1** 471]
 [^u1-60-4]: [RO **5** 504]
-[^u1-60-5]: [[RO 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 449; RS **2** 776 art. 103 al. 1]
+[^u1-60-5]: [[RO 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 449; [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)776 art. 103 al. 1]
 
 ### M. Dispositions finales
 
@@ -13994,13 +14063,13 @@ Le code fédéral des obligations du 14 juin 1881[^u1-60-5].
 
 <sup>2</sup> Le Conseil fédéral peut, avec l’autorisation de l’Assemblée fédérale, mettre en vigueur avant cette date l’une ou l’autre des dispositions du présent code.
 
-[^u1-61-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); RS **2** 189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
+[^u1-61-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
 
 ## Teneur des anciennes dispositions du titre sixième
 
 [^u2-1]
 
-[^u2-1]: RS **2** 3. Encore applicables comme droit transitoire, dans la mesure où les art. 9*a* et s. du tit. fin. (révision du droit matrimonial, du 5 oct. 1984) le prévoient.
+[^u2-1]: [RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)3. Encore applicables comme droit transitoire, dans la mesure où les art. 9*a* et s. du tit. fin. (révision du droit matrimonial, du 5 oct. 1984) le prévoient.
 
 ### Titre sixième: Du régime matrimonial
 
@@ -14274,7 +14343,7 @@ La femme peut disposer des biens matrimoniaux dans la mesure où elle a qualité
 
 <sup>3</sup> L’action révocatoire de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^u2-205-1] demeure réservée.
 
-[^u2-205-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-205-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### D. Dettes
 
@@ -14348,7 +14417,7 @@ Le mari est tenu:
 
 <sup>2</sup> Sont nulles la cession de ce privilège et la renonciation qui pourrait y être faite au profit de certains créanciers.
 
-[^u2-211-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-211-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### F. Dissolution de l’union des biens
 
@@ -14490,7 +14559,7 @@ Pendant la durée de la communauté, toutes poursuites fondées sur des dettes c
 
 <sup>2</sup> Sont nulles la cession de ce privilège et la renonciation qui pourrait y être faite au profit de certains créanciers.
 
-[^u2-224-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-224-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### V. Dissolution de la communauté
 

@@ -4,11 +4,11 @@ title: Cudesch civil svizzer dals 10 da december 1907
 short: CCS
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: rm
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20240101-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20250101-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20240101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 10 da december 1907 (versiun dal 1. da schaner 2024)
+dals 10 da december 1907 (versiun dal 1. da schaner 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -25,7 +25,7 @@ sa basond sin l’art. 64 da la Constituziun federala[^ingress-1],[^ingress-2] s
 
 concluda:
 
-[^ingress-1]: [BS **1** 3]. Questa disposiziun correspunda a l’art. 122 da la Cst. dals 18 d’avr. 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3]. Questa disposiziun correspunda a l’art. 122 da la Cst. dals 18 d’avr. 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, en vigur dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 [^ingress-3]: [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)
 
@@ -95,7 +95,7 @@ La dretgira sto decider tenor dretg e giustia, sche la lescha la permetta da giu
 
 Las disposiziuns generalas dal Dretg d’obligaziuns[^7-1] davart la conclusiun, davart l’adempliment e davart l’aboliziun da contracts vegnan er applitgadas per autras relaziuns da dretg civil.
 
-[^7-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### E. Cumprova
 
@@ -530,7 +530,7 @@ La dretgira po, uschenavant che quai para giustifitgabel tenor las circumstanzas
 
 <sup>2</sup> ...[^28l-2]
 
-<sup>3</sup> e <sup>4</sup> ...[^28l-3]
+<sup>3 e <sup>4</sup></sup> ...[^28l-3]
 
 [^28l-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1983, en vigur dapi il 1. da fan. 1985 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 [^28l-2]: Abolì tras la cifra 2 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
@@ -768,22 +768,26 @@ A las datas ch’èn necessarias per controllar l’identitad d’ina persuna ha
 - 7\.[^43a-13] il post federal ch’è cumpetent per administrar il register central da las persunas assicuradas tenor l’artitgel 71 alinea 4 litera a da la Lescha federala dals 20 da december 1946[^43a-14] davart l’assicuranza per vegls e survivents;
 - 8\.[^43a-15] il posts federals ch’èn cumpetents per administrar il register dals Svizzers a l’exteriur tenor l’artitgel 4 alinea 1 da la Lescha federala dals 24 da mars 2000[^43a-16] davart l’elavuraziun da datas persunalas en il Departament federal d’affars exteriurs.
 
+<sup>5</sup> Il post federal ch’è cumpetent per la gestiun dal sistem d’infurmaziun tenor l’artitgel 21*a* da la Lescha federala dals 25 da settember 1952[^43a-17] davart la cumpensaziun dal gudogn, ha access en la procedura d’invista a las datas ch’èn necessarias per sclerir l’existenza da relaziuns da figlialanza.[^43a-18]
+
 [^43a-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 2001 (administraziun electronica dal register dal stadi civil), en vigur dapi il 1. da fan. 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 [^43a-2]: Integrà tras la cifra I 3 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^43a-3]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^43a-3]: [SR 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 [^43a-4]: Versiun tenor la cifra 4 da l’agiunta 1 da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun da polizia da la Confederaziun, en vigur dapi ils 5 da dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^43a-5]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^43a-5]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^43a-6]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^43a-7]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^43a-7]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^43a-8]: Actualmain l’Uffizi federal da polizia.
 [^43a-9]: Integrà tras la cifra II 4 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, en vigur dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^43a-10]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^43a-10]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^43a-11]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-12]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^43a-12]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 [^43a-13]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-14]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^43a-14]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^43a-15]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-16]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^43a-16]: [SR 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^43a-17]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^43a-18]: Integrà tras la cifra 1 da l’agiunta da la LF dals 14 da zer. 2024 (digitalisaziun en l’urden da cumpensaziun dal gudogn), en vigur dapi il 1. da schan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 ### B. Organisaziun
 
@@ -864,7 +868,7 @@ En cooperaziun cun ils chantuns regla il Cussegl federal:
 
 <sup>3</sup> Per las persunas che vegnan engaschadas da la Confederaziun vegn applitgada la Lescha da responsabladad dals 14 da mars 1958[^46-1].
 
-[^46-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^46-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### III. Mesiras disciplinaras
 
@@ -906,7 +910,7 @@ El determinescha las premissas, tenor las qualas igl è admess, sin via electron
 - 3\. trametter communicaziuns ed extracts dal register.[^48-4]
 
 [^48-1]: Expressiun tenor la cifra 2 da l’agiunta da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
-[^48-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^48-3]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 23 da zer. 2006 davart l’armonisaziun dals registers, en vigur dapi il 1. da schan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 [^48-4]: Integrà tras la cifra I da la LF dals 5 d’oct. 2001 (administraziun electronica dal register dal stadi civil), en vigur dapi il 1. da fan. 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
@@ -1149,7 +1153,7 @@ Mintga commember è exclus dal dretg da votar tenor la lescha, sche l’uniun co
 La suprastanza maina ils cudeschs da fatschenta da l’uniun. Las prescripziuns dal Dretg d’obligaziuns[^69a-2] davart la contabilitad commerziala e davart il rendaquint valan tenor il senn.
 
 [^69a-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas; [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^69a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Post da revisiun
 
@@ -1172,8 +1176,8 @@ L’uniun sto laschar far in post da revisiun ina controlla ordinaria da sia con
 <sup>4</sup> En ils ulteriurs cas èn ils statuts e la radunanza generala[^69b-3] libers da reglar la revisiun.
 
 [^69b-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^69b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^69b-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^69b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^69b-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### IV. Mancanzas en l’organisaziun
 
@@ -1342,7 +1346,7 @@ Ils organs da la fundaziun e la moda da l’administraziun vegnan determinads tr
 L’organ suprem da la fundaziun maina ils cudeschs da fatschenta da la fundaziun. Las prescripziuns dal Dretg d’obligaziuns[^83a-2] davart la contabilitad commerziala e davart il rendaquint valan tenor il senn.
 
 [^83a-1]: Integrà tras la cifra I da la LF dals 8 d’oct. 2004 (dretg da fundaziuns; [AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^83a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### III. Post da revisiun
 
@@ -1361,7 +1365,7 @@ L’organ suprem da la fundaziun maina ils cudeschs da fatschenta da la fundaziu
 <sup>4</sup> Sche la fundaziun è obligada da far ina revisiun limitada, po ella pretender da l’autoritad da surveglianza ina revisiun ordinaria, sche quai è necessari per giuditgar en moda fidada la situaziun da facultad e da rendita da la fundaziun.
 
 [^83b-1]: Integrà tras la cifra I da la LF dals 8 d’oct. 2004 (dretg da fundaziuns; [AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^83b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Relaziun tar l’autoritad da surveglianza
 
@@ -1435,7 +1439,7 @@ Sche l’organisaziun previsa n’è betg suffizienta, sche la fundaziun n’ha 
 L’organ suprem da la fundaziun sto communitgar a l’autoritad da surveglianza separadamain l’import total da las indemnisaziuns ch’èn vegnidas pajadas directamain u indirectamain ad el ed a l’eventuala direcziun, quai en il senn da l’artitgel 734*a* alinea 2 dal Dretg d’obligaziuns[^84b-2].
 
 [^84b-1]: Integrà tras la cifra I da la LF dals 8 d’oct. 2004 (dretg da fundaziuns) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^84b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^84b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Transfurmaziun da la fundaziun
 
@@ -1489,7 +1493,7 @@ Sin dumonda da l’autoritad da surveglianza e suenter avair tadlà l’organ su
 
 [^86a-1]: Integrà tras la cifra I da la LF dals 8 d’oct. 2004 (dretg da fundaziuns), en vigur dapi il 1. da schan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^86a-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (rinforzament da l’attractivitad da la Svizra per las fundaziuns), en vigur dapi il 1. da schan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
-[^86a-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^86a-4]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (rinforzament da l’attractivitad da la Svizra per las fundaziuns), en vigur dapi il 1. da schan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 [^86a-5]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (rinforzament da l’attractivitad da la Svizra per las fundaziuns), en vigur dapi il 1. da schan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 [^86a-6]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (rinforzament da l’attractivitad da la Svizra per las fundaziuns), en vigur dapi il 1. da schan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
@@ -1557,7 +1561,7 @@ L’autoritad federala u chantunala cumpetenta dissolva la fundaziun sin dumonda
 
 [^89-1]: Versiun tenor la cifra I da la LF dals 8 d’oct. 2004 (dretg da fundaziuns), en vigur dapi il 1. da schan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### G. Fundaziuns per il provediment dal persunal
+### G. Fundaziuns da provediment per il persunal
 
 [^book1-tit2-chap3-lvlG-1]
 
@@ -1579,7 +1583,7 @@ L’autoritad federala u chantunala cumpetenta dissolva la fundaziun sin dumonda
 
 <sup>6</sup>
 
-Per fundaziuns per il provediment dal persunal, ch’èn activas sin il champ dal provediment per vegls, survivents ed invaliditad e ch’èn suttamessas a la Lescha dals 17 da december 1993[^89a-6] davart la libra circulaziun (LFLP), valan ultra da quai las suandantas disposiziuns da la Lescha federala dals 25 da zercladur 1982[^89a-7] davart il provediment professiunal per vegls, survivents ed invaliditad (LPP) davart:[^89a-8]
+Per fundaziuns da provediment per il persunal, ch’èn activas sin il champ dal provediment per vegls, survivents ed invaliditad e ch’èn suttamessas a la Lescha dals 17 da december 1993[^89a-6] davart la libra circulaziun (LFLP), valan ultra da quai las suandantas disposiziuns da la Lescha federala dals 25 da zercladur 1982[^89a-7] davart il provediment professiunal per vegls, survivents ed invaliditad (LPP) davart:[^89a-8]
 
 - 1\.[^89a-9] la definiziun ed ils princips dal provediment professiunal sco er dal salari assicurabel u da las entradas assicurablas (art. 1. 33*a* e 33*b*);
 - 2\.[^89a-10] l’attribuziun da las persunas a la AVS (art. 5 al. 1);
@@ -1613,7 +1617,7 @@ Per fundaziuns per il provediment dal persunal, ch’èn activas sin il champ da
 
 <sup>7</sup>
 
-Per fundaziuns per il provediment dal persunal, ch’èn activas sin il champ dal provediment per vegls, survivents ed invaliditad, ma che n’èn betg suttamessas a la LFLP, sco ils uschenumnads fonds da provediment da patruns cun prestaziuns a discreziun u las fundaziuns da finanziaziun, valan mo las suandantas disposiziuns da la LPP:
+Per fundaziuns da provediment per il persunal, ch’èn activas sin il champ dal provediment per vegls, survivents ed invaliditad, ma che n’èn betg suttamessas a la LFLP, sco ils uschenumnads fonds da provediment da patruns cun prestaziuns a discreziun u las fundaziuns da finanziaziun, valan mo las suandantas disposiziuns da la LPP:
 
 - 1\. l’attribuziun da las persunas a la AVS (art. 5 al. 1);
 - 2\. l’utilisaziun, l’elavuraziun e la communicaziun dal numer da la AVS (art. 48 al. 4, art. 85*a* lit. f ed art. 86*a* al. 2 lit. b<sup>bis</sup>);
@@ -1628,19 +1632,25 @@ Per fundaziuns per il provediment dal persunal, ch’èn activas sin il champ da
 
 <sup>8</sup>
 
-Per las fundaziuns per il provediment dal persunal tenor l’alinea 7 valan plinavant las suandantas disposiziuns:
+Per las fundaziuns da provediment per il persunal tenor l’alinea 7 valan plinavant las suandantas disposiziuns:
 
 - 1\. ellas administreschan lur facultad en ina moda che garantescha per segirezza, per in retgav suffizient sin las investiziuns e per ils meds liquids necessaris per ademplir lur incumbensas;
 - 2\. davart la liquidaziun parziala da fonds da provediment da patruns cun prestaziuns a discreziun dispona l’autoritad da surveglianza sin dumonda dal cussegl da fundaziun;
-- 3\. ellas tegnan quint, tenor il senn, dals princips dal tractament egual e da l’adequatezza.[^89a-29]
+- 3\. ellas tegnan quint, tenor il senn, dals princips dal tractament egual e da l’adequatezza;
+- 4\.[^89a-29]
+
+  ellas pon:
+
+  - – contribuir a la finanziaziun d’autras instituziuns da provediment per il persunal,
+  - – pajar prestaziuns en situaziuns d’urgenza, da malsogna, d’accident, d’invaliditad u da dischoccupaziun, per mesiras da scolaziun e da furmaziun supplementara, per la cumpatibilitad da la professiun cun la famiglia sco er per la promoziun da la sanadad e per la prevenziun; en quests cas èn applitgabels er ils artitgels 80, 81 alinea 1 ed 83 LPP.[^89a-30]
 
 [^89a-1]: Integrà tras la cifra II da la LF dals 21 da mars 1958, en vigur dapi il 1. da fan. 1958 ([AS 1958 379](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [BBl 1956 II 825](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Fin a l’entrada en vigur da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants) il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>*.*
-[^89a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^89a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^89a-3]: Versiun tenor la cifra II art. 2 cifra 2 da la LF dals 25 da zer. 1971, en vigur dapi il 1. da schan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 [^89a-4]: Versiun tenor la cifra II art. 2 cifra 2 da la LF dals 25 da zer. 1971, en vigur dapi il 1. da schan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 [^89a-5]: Abolì tras la cifra III da la LF dals 21 da zer. 1996, cun effect dapi il 1. da schan. 1997 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580).
-[^89a-6]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^89a-7]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^89a-6]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^89a-7]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^89a-8]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015 (fundaziuns per il provediment dal persunal), en vigur dapi il 1. d’avr. 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 [^89a-9]: Versiun tenor la cifra II 1 da la LF dals 11 da dec. 2009 (mesiras per facilitar a lavurants pli vegls la participaziun al martgà da lavur), en vigur dapi il 1. da schan. 2011 ([AS 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-10]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015 (fundaziuns per il provediment dal persunal), en vigur dapi il 1. d’avr. 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
@@ -1662,14 +1672,14 @@ Per las fundaziuns per il provediment dal persunal tenor l’alinea 7 valan plin
 [^89a-26]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^89a-27]: Integrà tras la cifra 1 da l’agiunta da la LF dals 25 da zer. 1982 davart il provediment professiunal per vegls, survivents ed invaliditad ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), cifras 6, 7, 10–12, 14 (cun excepziun da l’art. 66 al. 4), 15, 17–20 e 23 en vigur dapi il 1. d’avr. 2004, cifras 3–5, 8, 9, 13, 14 (art. 66 al. 4) e 16 en vigur dapi il 1. da schan. 2005, cifras 1, 21 e 22 en vigur dapi il 1. da schan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^89a-28]: Integrà tras la cifra I da la LF dals 25 da sett. 2015 (fundaziuns per il provediment dal persunal), en vigur dapi il 1. d’avr. 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-29]: Integrà tras la cifra I da la LF dals 25 da sett. 2015 (fundaziuns per il provediment dal persunal), en vigur dapi il 1. d’avr. 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-29]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (prestaziuns da fonds da provediment da patruns), en vigur dapi il 1. da schan. 2025 ([AS 2024 676](https://fedlex.data.admin.ch/eli/oc/2024/676); [BBl 2023 2077](https://fedlex.data.admin.ch/eli/fga/2023/2077), [2481](https://fedlex.data.admin.ch/eli/fga/2023/2481)).
+[^89a-30]: Integrà tras la cifra I da la LF dals 25 da sett. 2015 (fundaziuns per il provediment dal persunal), en vigur dapi il 1. d’avr. 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Segund titel<sup>bis</sup>: Las facultads collectadas
 
-[^book1-tit2bis-1][^book1-tit2bis-2]
+[^book1-tit2bis-1]
 
-[^book1-tit2bis-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^book1-tit2bis-2]: Integrà tras la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book1-tit2bis-1]: Integrà tras la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### A. Administraziun mancanta
 
@@ -1707,11 +1717,11 @@ Per las fundaziuns per il provediment dal persunal tenor l’alinea 7 valan plin
 
 <sup>1</sup> Il spusalizi vegn fundà cun l’empermischun da lètg.
 
-<sup>2</sup> Persunas minorennas na pon betg s’obligar cun l’empermischun da lètg senza che lur represchentanza legala dettia il consentiment.[^90-1]
+<sup>2</sup> …[^90-1]
 
 <sup>3</sup> Il spusalizi na dat betg il dretg da purtar plant vers in spus che na vul betg maridar.
 
-[^90-1]: Versiun tenor la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^90-1]: Abolì tras la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), cun effect dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### B. Schliaziun dal spusalizi
 
@@ -1889,40 +1899,73 @@ Il Cussegl federal ed – en il rom da lur cumpetenzas – ils chantuns decretes
 
 La lètg ch’è vegnida concludida davant il funcziunari dal stadi civil po mo vegnir declerada sco nunvalaivla per in dals motivs ch’èn numnads en quest chapitel.
 
-### B. Nunvalaivladad illimitada
+### B. Motivs da nunvalaivladad absoluts
 
-### I. Motivs
+### I. Motivs generals
+
+[^book2-part1-tit3-chap4-lvlB-lvlI-1]
+
+[^book2-part1-tit3-chap4-lvlB-lvlI-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 105
 
-In motiv da nunvalaivladad è avant maun, sche:
+La lètg vegn declerada sco nunvalaivla, sche:[^105-1]
 
-- 1\.[^105-1] in dals consorts è gia maridà u viva en in partenadi registrà cun ina terza persuna il mument da la celebraziun da la maridaglia e la lètg precedenta u il partenadi registrà precedent n’è betg vegnì schlià;
+- 1\.[^105-2] in dals consorts è gia maridà u viva en in partenadi registrà cun ina terza persuna il mument da la celebraziun da la maridaglia e la lètg precedenta u il partenadi registrà precedent n’è betg vegnì schlià;
 - 2\. in dals consorts n’è betg abel da giuditgar il mument da la celebraziun da la maridaglia ed el n’ha dapi lura betg pli recuperà l’abilitad da giuditgar;
-- 3\.[^105-2] la maridaglia è scumandada pervia da parentella tranter consorts;
-- 4\.[^105-3] in dals consorts na vul betg fundar ina communitad da vita, mabain vul guntgir las disposiziuns davart l’admissiun e davart la dimora da persunas estras.
-- 5\.[^105-4] in dals consorts n’ha betg concludì la lètg da libra voluntad;
-- 6\.[^105-5] in dals consorts è minoren, nun che la cuntinuaziun da la lètg correspundia als interess predominants da quest consort.
+- 3\.[^105-3] la maridaglia è scumandada pervia da parentella tranter consorts;
+- 4\.[^105-4] in dals consorts na vul betg fundar ina communitad da vita, mabain vul guntgir las disposiziuns davart l’admissiun e davart la dimora da persunas estras.
+- 5\.[^105-5] in dals consorts n’ha betg concludì la lètg da libra voluntad;
+- 6\.[^105-6] …
 
-[^105-1]: Versiun tenor la cifra I da la LF dals 18 da dec. 2020 (lètg per tuts), en vigur dapi il 1. da fan. 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^105-2]: Versiun tenor la cifra 8 da l’agiunta da la Lescha da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^105-3]: Integrà tras la cifra II 4 da l’agiunta da la LF dals 16 da dec. 2005 davart las persunas estras, en vigur dapi il 1. da schan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^105-4]: Integrà tras la cifra I 3 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+[^105-2]: Versiun tenor la cifra I da la LF dals 18 da dec. 2020 (lètg per tuts), en vigur dapi il 1. da fan. 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^105-3]: Versiun tenor la cifra 8 da l’agiunta da la Lescha da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^105-4]: Integrà tras la cifra II 4 da l’agiunta da la LF dals 16 da dec. 2005 davart las persunas estras, en vigur dapi il 1. da schan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^105-5]: Integrà tras la cifra I 3 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-6]: Integrà tras la cifra I 3 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)). Abolì tras la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), cun effect dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
-### II. Plant
+### II. Lètg cun persunas minorennas
+
+#### Art. 105a
+
+[^105a-1]
+
+<sup>1</sup> La dretgira declera la lètg sco nunvalaivla, sch’in dals consorts era minoren il mument da la celebraziun da la maridaglia e sch’el n’ha betg anc cumplenì il 25avel onn da vegliadetgna il mument da l’inoltraziun dal plant da nunvalaivladad.
+
+<sup>2</sup>
+
+La lètg resta dentant valaivla, sch’il consort respectiv:
+
+- 1\. è anc minoren e la dretgira vegn excepziunalmain a la conclusiun, che la cuntinuaziun da la lètg correspundia a ses interess predominants ed a sia libra voluntad; u
+- 2\. è daventà maioren e la dretgira vegn a la conclusiun, ch’el decleria da libra voluntad da vulair mantegnair la lètg.
+
+[^105a-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### III. Plant
+
+[^book2-part1-tit3-chap4-lvlB-lvlIII-1]
+
+[^book2-part1-tit3-chap4-lvlB-lvlIII-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 106
 
-<sup>1</sup> Il plant sto vegnir purtà d’uffizi da l’autoritad chantunala cumpetenta al lieu da domicil dals consorts; ultra da quai po mintgin purtar plant che ha in interess londervi. Uschenavant che quai è cumpatibel cun lur incumbensas, annunzian las autoritads federalas e chantunalas a l’autoritad ch’è cumpetenta per il plant, sch’ellas han motivs da supponer ch’igl existia in motiv da nunvalaivladad.[^106-1]
+<sup>1</sup> Il plant da nunvalaivladad sto vegnir inoltrà d’uffizi da l’autoritad chantunala cumpetenta al lieu da domicil dals consorts; ultra da quai po mintga persuna che ha in interess respectiv, inoltrar in plant da nunvalaivladad.[^106-1] Uschenavant che quai è cumpatibel cun lur incumbensas, annunzian las autoritads federalas e chantunalas a l’autoritad ch’è cumpetenta per il plant, sch’ellas han motivs da supponer ch’igl existia in motiv da nunvalaivladad.[^106-2]
 
-<sup>2</sup> Suenter la schliaziun da la lètg na vegn sia nunvalaivladad betg pli persequitada d’uffizi; dentant po mintgin che ha in interess londervi pretender la decleraziun da nunvalaivladad.
+<sup>2</sup> Suenter la schliaziun da la lètg na vegn sia nunvalaivladad betg pli persequitada d’uffizi; dentant po mintga persuna che ha in interess respectiv, pretender la decleraziun da nunvalaivladad.[^106-3]
 
-<sup>3</sup> Quest plant po vegnir inoltrà da tut temp.
+<sup>3</sup> Il plant po vegnir inoltrà da tut temp. Sch’in consort era minoren il mument da la celebraziun da la maridaglia, po in plant da nunvalaivladad dentant vegnir inoltrà mo, sch’il consort respectiv n’ha betg anc cumplenì il 25avel onn da vegliadetgna.[^106-4]
 
-[^106-1]: Integrà l’ultima frasa tras la cifra I 3 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^106-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+[^106-2]: Integrà l’ultima frasa tras la cifra I 3 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^106-3]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+[^106-4]: Integrà la segunda frasa tras la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
-### C. Nunvalaivladad limitada
+### C. Motivs da nunvalaivladad relativs
+
+[^book2-part1-tit3-chap4-lvlC-1]
+
+[^book2-part1-tit3-chap4-lvlC-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### I. Motivs
 
@@ -1941,9 +1984,11 @@ In consort po pretender che la lètg vegnia declerada sco nunvalaivla, sch’el:
 
 #### Art. 108
 
-<sup>1</sup> Il plant da nunvalaivladad sto vegnir inoltrà entaifer 6 mais dapi ch’il motiv da nunvalaivladad è vegnì enconuschent u dapi che l’influenza da la smanatscha è crudada davent, en mintga cas dentant avant la scadenza da 5 onns dapi la celebraziun da la maridaglia.
+<sup>1</sup> Il plant da nunvalaivladad sto vegnir inoltrà entaifer 6 mais dapi ch’il motiv da nunvalaivladad è vegnì enconuschent, en mintga cas dentant avant la scadenza da 5 onns dapi la celebraziun da la maridaglia.[^108-1]
 
 <sup>2</sup> Il dretg da purtar plant na vegn betg transferì als ertavels; in ertavel po dentant cuntinuar cun il plant ch’è gia vegnì inoltrà.
+
+[^108-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### D. Consequenzas da la sentenzia
 
@@ -2118,7 +2163,7 @@ Las pretensiuns dal provediment professiunal ch’èn vegnidas acquistadas duran
 <sup>3</sup> Las prestaziuns d’extrada ch’èn da parter vegnan calculadas tenor ils artitgels 15–17 e 22*a* u 22*b* da la Lescha dals 17 da december 1993[^123-2] davart la libra circulaziun.
 
 [^123-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^123-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^123-2]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 ### III. Cumpensaziun en cas da rentas d’invaliditad avant la vegliadetgna da referenza reglamentara
 
@@ -2137,7 +2182,7 @@ Las pretensiuns dal provediment professiunal ch’èn vegnidas acquistadas duran
 <sup>3</sup> Il Cussegl federal regla en tge cas che la summa tenor l’alinea 1 na po betg vegnir utilisada per la cumpensaziun pervia d’ina reducziun da la renta d’invaliditad causa surindemnisaziun.
 
 [^124-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^124-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^124-2]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 ### IV. Cumpensaziun en cas da rentas d’invaliditad suenter la vegliadetgna da referenza reglamentara ed en cas da rentas da vegliadetgna
 
@@ -3386,7 +3431,7 @@ Sch’ina valur da facultad sa chatta en cumproprietad e sch’in consort cumpro
 <sup>2</sup> Sche la consorta da la mamma mora u sch’ella vegn declerada sco sparida, vala ella sco genitur, sche l’inseminaziun è vegnida fatga avant sia mort u avant ch’ella era en privel da mort u avant l’ultim messadi.
 
 [^255a-1]: Integrà tras la cifra I da la LF dals 18 da dec. 2020 (lètg per tuts), en vigur dapi il 1. da fan. 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^255a-2]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^255a-2]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 
 ### B. Contestaziun da la geniturialitad dal consort
 
@@ -3413,7 +3458,7 @@ La presumziun da paternitad po vegnir contestada davant dretgira:
 
 [^256-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^256-2]: Versiun tenor la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^256-3]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^256-3]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 [^256-4]: Versiun tenor la cifra 39 da la LF dals 18 da dec. 1998 davart la medischina da reproducziun, en vigur dapi il 1. da schan. 2001 ([AS 2000 3055](https://fedlex.data.admin.ch/eli/oc/2000/554); [BBl 1996 III 205](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)).
 
 ### II. Motiv dal plant
@@ -4217,7 +4262,7 @@ Ils geniturs ed ils uffants debiteschan vicendaivlamain tut agid, tut resguard e
 
 <sup>2</sup> Ils geniturs procuran cuminaivlamain, mintga genitur tenor sias forzas, per in mantegniment duì da l’uffant e surpiglian en spezial ils custs da la tgira, da l’educaziun, da la scolaziun e da las mesiras da protecziun da l’uffant.[^276-3]
 
-<sup>3</sup> Ils geniturs èn deliberads da l'obligaziun da mantegniment, uschenavant ch'ins po pretender da l'uffant ch'el paja ses mantegniment ord l'acquist tras sia lavur u cun auters meds finanzials.
+<sup>3</sup> Ils geniturs èn deliberads da l’obligaziun da mantegniment, uschenavant ch’ins po pretender da l’uffant ch’el paja ses mantegniment ord l’acquist tras sia lavur u cun auters meds finanzials.
 
 [^276-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^276-2]: Versiun tenor la cifra I da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
@@ -4379,7 +4424,6 @@ Sch’i vegnan fixadas contribuziuns da mantegniment en il contract da mantegnim
 
 - a. tge entradas e tge facultad da mintga genitur che vegnan resguardadas per la calculaziun;
 - b. tge import ch’è destinà a mintga uffant;
-
 - c. tge import che manca per cuvrir il mantegniment duì da mintga uffant;
 - d. sche ed en tge dimensiun che las contribuziuns da mantegniment vegnan adattadas a las midadas dals custs da viver.
 
@@ -4997,7 +5041,7 @@ L’autoritad per la protecziun d’uffants examinescha, sch’ella duai ordinar
 <sup>2</sup> Sch’ina annunzia è en l’interess da l’uffant, han er persunas ch’èn suttamessas al secret professiunal tenor il Cudesch penal svizzer[^314c-2] il dretg da far in’annunzia. Questa disposiziun na vala betg per las persunas auxiliaras ch’èn suttamessas al secret professiunal tenor il Cudesch penal svizzer.
 
 [^314c-1]: Integrà tras la cifra I da la LF dals 15 da dec. 2017 (protecziun d’uffants), en vigur dapi il 1. da schan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314c-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^314c-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 6. Obligaziuns d’annunzia
 
@@ -5017,7 +5061,7 @@ Uschenavant ch’ellas n’èn betg suttamessas al secret professiunal tenor il 
 <sup>3</sup> Ils chantuns pon prevair ulteriuras obligaziuns d’annunzia.
 
 [^314d-1]: Integrà tras la cifra I da la LF dals 15 da dec. 2017 (protecziun d’uffants), en vigur dapi il 1. da schan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314d-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^314d-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 7. Cooperaziun ed agid uffizial
 
@@ -5034,8 +5078,8 @@ Uschenavant ch’ellas n’èn betg suttamessas al secret professiunal tenor il 
 <sup>4</sup> Las autoritads administrativas e las dretgiras consegnan las actas necessarias, fan rapports e dattan infurmaziuns, nun che interess degns da vegnir protegids s’opponian a quai.
 
 [^314e-1]: Integrà tras la cifra I da la LF dals 15 da dec. 2017 (protecziun d’uffants), en vigur dapi il 1. da schan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^314e-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^314e-3]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^314e-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^314e-3]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 ### VII. Cumpetenza
 
@@ -5616,7 +5660,7 @@ Sch’igl exista in mandat preventiv, controllescha l’autoritad per la protecz
 
 <sup>3</sup> Sch’il mandatari accepta il mandat preventiv, al renda l’autoritad attent a sias obligaziuns tenor las disposiziuns dal Dretg d’obligaziuns[^363-1] davart il mandat ed al surdat in document che cuntegna sias cumpetenzas.
 
-[^363-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^363-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Interpretaziun e cumplettaziun
 
@@ -5634,7 +5678,7 @@ Il mandatari po dumandar l’autoritad per la protecziun da creschids d’interp
 
 <sup>3</sup> En cas d’ina collisiun d’interess croda la cumpetenza dal mandatari tenor la lescha.
 
-[^365-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^365-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### F. Indemnisaziun e spesas
 
@@ -5742,7 +5786,7 @@ Il dretg da represchentanza cumpiglia:
 
 Per exequir il dretg da represchentanza èn applitgablas las disposiziuns dal Dretg d’obligaziuns[^375-1] davart il mandat tenor il senn.
 
-[^375-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^375-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### C. Intervenziun da l’autoritad per la protecziun da creschids
 
@@ -6149,7 +6193,7 @@ Il procuratur dat a la persuna pertutgada imports adequats a libra disposiziun c
 
 <sup>3</sup> Terzas persunas ston vegnir orientadas davart la curatella, uschenavant che quai è necessari per il procuratur per ademplir duidamain las incumbensas.
 
-[^413-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^413-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### H. Midada da las relaziuns
 
@@ -6613,7 +6657,7 @@ Sche l’autoritad per la protecziun da creschids ordinescha, mida u abolescha m
 <sup>2</sup> En cas che l’autoritad per la protecziun da creschids cumpetenta vegn midada, è cumpetenta la nova autoritad per las communicaziuns respectivas.
 
 [^449c-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (communicaziun da mesiras da la protecziun da creschids), cun effect dapi il 1. da schan. 2024 ([AS 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [BBl 2016 5161](https://fedlex.data.admin.ch/eli/fga/2016/1115), [5175](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
-[^449c-2]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^449c-2]: [SR 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ### Segund sutchapitel: Davant l’instanza giudiziala da recurs
 
@@ -6755,7 +6799,7 @@ Dal rest èn applitgablas las disposiziuns dal Cudesch da procedura civila tenor
 
 <sup>3</sup> Sche la violaziun sa basa sin in decret u sin ina realisaziun d’ina mesira permanenta, na cumenza la surannaziun dal dretg envers il chantun betg avant che la mesira permanenta è crudada davent u ch’ella vegn cuntinuada d’in auter chantun.
 
-[^455-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^455-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^455-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^455-3]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
@@ -6765,7 +6809,7 @@ Dal rest èn applitgablas las disposiziuns dal Cudesch da procedura civila tenor
 
 La responsabladad da la persuna incumbensada da provediment sco er quella dal consort, dal partenari registrà d’ina persuna inabla da giuditgar u dal represchentant en cas da mesiras medicalas, uschenavant ch’i na sa tracta betg dal procuratur, sa drizza tenor las disposiziuns dal Dretg d’obligaziuns[^456-1] davart il mandat.
 
-[^456-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^456-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Terza part: Il dretg d’ierta
 
@@ -7371,7 +7415,7 @@ La disposiziun a bucca perda sia vigur suenter 14 dis quintads a partir dal mume
 
 Tgi che ha il dretg da pretender prestaziuns tranter vivs sin basa d’in contract d’ierta, po sa retrair dal contract tenor las disposiziuns dal Dretg d’obligaziuns[^514-1], sche questas prestaziuns na vegnan betg ademplidas u garantidas tenor il contract.
 
-[^514-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^514-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. L’ertavel mora avant il testader
 
@@ -8484,7 +8528,7 @@ Ils bains immobigliars vegnan mess a quint als ertavels per la valur ch’els ha
 Per surpigliar e per metter a quint manaschis agriculs e bains immobigliars agriculs vala la Lescha federala dals 4 d’october 1991[^619-2] davart il dretg funsil puril.
 
 [^619-1]: Versiun tenor l’art. 92 cifra 1 da la LF dals 4 d’oct. 1991 davart il dretg funsil puril, en vigur dapi il 1. da schan. 1994 ([AS 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^619-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^619-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 620-625
 
@@ -8938,7 +8982,7 @@ Sche pliras persunas furman tenor la lescha u tenor il contract ina cuminanza e 
 Per schliar ina proprietad collectiva vi da manaschis agriculs e vi da bains immobigliars agriculs vala ultra da quai la Lescha federala dals 4 d’october 1991[^654a-2] davart il dretg funsil puril.
 
 [^654a-1]: Integrà tras l’art. 92 cifra 1 da la LF dals 4 d’oct. 1991 davart il dretg funsil puril, en vigur dapi il 1. da schan. 1994 ([AS 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^654a-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^654a-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### Deschnovavel titel: La proprietad funsila
 
@@ -9380,7 +9424,7 @@ Sch’in proprietari da bains immobigliars chaschuna tar la cultivaziun legala d
 Per il dretg da precumpra vi da manaschis agriculs e vi da bains immobigliars agriculs vala ultra da quai la Lescha federala dals 4 d’october 1991[^682a-2] davart il dretg funsil puril.
 
 [^682a-1]: Integrà tras l’art. 92 cifra 1 da la LF dals 4 d’oct. 1991 davart il dretg funsil puril, en vigur dapi il 1. da schan. 1994 ([AS 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^682a-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^682a-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 683
 
@@ -10096,7 +10140,7 @@ La proprietad d’ina chaussa senza patrun vegn acquistada tras quai, ch’insat
 <sup>3</sup> Per calcular ils termins, per interrumper e per suspender l’acquist tras giudida vegnan applitgadas correspundentamain las prescripziuns davart la surannaziun da pretensiuns.
 
 [^728-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 2002 (artitgel da princip concernent animals), en vigur dapi il 1. d’avr. 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^728-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^728-2]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 [^728-3]: Integrà tras l’art. 32 cifra 1 da la LF dals 20 da zer. 2003 davart il transferiment da bains culturals, en vigur dapi il 1. da zer. 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
 ### C. Perdita
@@ -10962,7 +11006,7 @@ La deliberaziun ha lieu per l’import ch’è inscrit en il register funsil sco
 Per impegnar bains immobigliars agriculs vala ultra da quai la Lescha federala dals 4 d’october 1991[^798a-2] davart il dretg funsil puril.
 
 [^798a-1]: Integrà tras l’art. 92 cifra 1 da la LF dals 4 d’oct. 1991 davart il dretg funsil puril, en vigur dapi il 1. da schan. 1994 ([AS 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^798a-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^798a-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 ### B. Constituziun ed extincziun
 
@@ -11824,7 +11868,7 @@ Mintga cunvegna, tenor la quala il creditur duai daventar proprietari dal bain i
 
 <sup>3</sup> L’impegnaziun da titels contabels sa drizza exclusivamain tenor la Lescha dals 3 d’october 2008[^901-1] davart ils titels contabels.[^901-2]
 
-[^901-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^901-1]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^901-2]: Integrà tras la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2008 davart ils titels contabels, en vigur dapi il 1. da schan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### III. En cas da titels che represchentan rauba
@@ -12116,7 +12160,7 @@ Il possess da quel che survegn en buna fai ina chaussa movibla sut il titel da p
 <sup>3</sup> Dal rest ha la restituziun lieu tenor las prescripziuns davart ils dretgs dal possessur da buna fai.
 
 [^934-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 2002 (artitgel da princip concernent animals), en vigur dapi il 1. d’avr. 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
-[^934-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^934-2]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 [^934-3]: Integrà tras l’art. 32 cifra 1 da la LF dals 20 da zer. 2003 davart il transferiment da bains culturals, en vigur dapi il 1. da zer. 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
 ### c. Daners e titels al purtader
@@ -12366,7 +12410,7 @@ Ils chantuns che mainan il register funsil cun agid da l’informatica pon engas
 <sup>2</sup> La Lescha federala dals 5 d’october 2007 davart la geoinfurmaziun[^950-2] regla las pretensiuns qualitativas e tecnicas a la mesiraziun uffiziala.
 
 [^950-1]: Versiun tenor la cifra II da l’agiunta da la LF dals 5 d’oct. 2007 davart la geoinfurmaziun, en vigur dapi il 1. da fan. 2008 ([AS 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [BBl 2006 7817](https://fedlex.data.admin.ch/eli/fga/2006/982)).
-[^950-2]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^950-2]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 ### II. Gestiun dal register funsil
 
@@ -12961,6 +13005,16 @@ Las disposiziuns concernent la midada dals 16 da december 2005[^u1-6c-2] davart 
 [^u1-6c-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^u1-6c-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
+### 3. Fundaziuns da provediment per il persunal
+
+#### Art. 6c<sup>bis</sup>
+
+[^u1-6cbis-1]
+
+Sin dumonda da l’organ suprem da la fundaziun po l’autoritad da surveglianza cumpetenta midar l’intent d’ina fundaziun da provediment per il persunal tenor l’artitgel 89*a* alinea 7, ch’è vegnida constituida avant l’entrada en vigur da la midada dals 14 da zercladur 2024, sche l’intent vegn midà uschia, ch’el vegn cumplettà cun las prestaziuns tenor l’artitgel 89*a* alinea 8 cifra 4.
+
+[^u1-6cbis-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (prestaziuns da fonds da provediment da patruns), en vigur dapi il 1. da schan. 2025 ([AS 2024 676](https://fedlex.data.admin.ch/eli/oc/2024/676); [BBl 2023 2077](https://fedlex.data.admin.ch/eli/fga/2023/2077), [2481](https://fedlex.data.admin.ch/eli/fga/2023/2481)).
+
 ### IV. Protecziun da la persunalitad cunter violenza, smanatschas u persecuziuns
 
 #### Art. 6d
@@ -12986,22 +13040,38 @@ Per proceduras ch’èn pendentas il mument da l’entrada en vigur da la midada
 [^u1-7-1]: Integrà tras la cifra I 4 da la LF dals 26 da zer. 1998, en vigur dapi il 1. da schan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^u1-7-2]: [AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1).
 
-### I<sup>bis</sup>. Divorzi
-
-### 1. Princip
+### I<sup>bis</sup>. Nunvalaivladad da lètgs cun persunas minorennas
 
 #### Art. 7a
 
 [^u1-7a-1]
 
-<sup>1</sup> Per il divorzi vala il dretg nov, uschespert che la Lescha federala dals 26 da zercladur 1998[^u1-7a-2] è entrada en vigur.
+<sup>1</sup> Per la nunvalaivladad da lètgs cun persunas minorennas, ch’èn vegnidas celebradas avant l’entrada en vigur da la midada dals 14 da zercladur 2024, vala il dretg nov.
+
+<sup>2</sup> Sche tuts dus consorts han cumplenì il 18avel onn da vegliadetgna il mument da l’entrada en vigur dal dretg nov, po il motiv da nunvalaivladad vegnir fatg valair mo da quel consort ch’era minoren il mument da la celebraziun da la maridaglia e che n’ha betg anc cumplenì il 25avel onn da vegliadetgna il mument da l’inoltraziun dal plant da nunvalaivladad.
+
+[^u1-7a-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### I<sup>ter</sup>. Divorzi
+
+[^u1-chap1-lvlC-lvlIter-1]
+
+[^u1-chap1-lvlC-lvlIter-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### 1. Princip
+
+#### Art. 7a<sup>bis</sup>
+
+[^u1-7abis-1]
+
+<sup>1</sup> Per il divorzi vala il dretg nov, uschespert che la Lescha federala dals 26 da zercladur 1998[^u1-7abis-2] è entrada en vigur.
 
 <sup>2</sup> Divorzis, che han survegnì vigur legala tenor il dretg vegl, restan renconuschids; las novas disposiziuns davart l’execuziun vegnan applitgadas per las rentas u per las indemnisaziuns ch’èn vegnidas fixadas sco cumpensaziun dal mantegniment u sco contribuziun da mantegniment.
 
 <sup>3</sup> La midada da la sentenzia da divorzi vegn fatga tenor las prescripziuns dal dretg vegl cun resalva da las disposiziuns davart ils uffants e davart la procedura.
 
-[^u1-7a-1]: Integrà tras la cifra I 4 da la LF dals 26 da zer. 1998, en vigur dapi il 1. da schan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^u1-7a-2]: [AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)
+[^u1-7abis-1]: Oriundamain: art. 7*a*. Integrà tras la cifra I 4 da la LF dals 26 da zer. 1998, en vigur dapi il 1. da schan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^u1-7abis-2]: [AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)
 
 ### 2. Process da divorzi pendents
 
@@ -13056,7 +13126,7 @@ Per process da divorzi ch’èn pendents tar l’entrada en vigur da la midada d
 <sup>3</sup> La renta tenor il dretg vegl vala sco part da la renta attribuida.
 
 [^u1-7e-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^u1-7e-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^u1-7e-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### I<sup>ter</sup>. Effects generals da la lètg
 
@@ -13201,7 +13271,7 @@ Sche la separaziun dals bains e vegnida fatga pervia da la lescha u sin ordinazi
 <sup>4</sup> Las ordinaziuns correspundentas prevesan che pèrs che giavischan quai, vegnian inditgads sin actas, sin documents e sin formulars sco consorta e consort respectivamain sco bab e mamma areguard lur uffants.
 
 [^u1-9g-1]: Integrà tras la cifra I da la LF dals 18 da dec. 2020 (lètg per tuts), en vigur dapi il 1. da schan. 2022, al. 1, 3 e 4 en vigur dapi il 1. da fan. 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^u1-9g-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^u1-9g-2]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### 5. Contract matrimonial
 
@@ -13917,7 +13987,7 @@ Cun l’entrada en vigur dal nov Cudesch civil èn abolidas tut las disposiziuns
 
 <sup>3</sup> Tant enavant ch’il Cudesch da procedura civila dals 19 da december 2008[^u1-54-1] n’è betg applitgabel, reglan ils chantuns la procedura.[^u1-54-2]
 
-[^u1-54-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^u1-54-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^u1-54-2]: Versiun tenor la cifra II 3 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### D. Documentaziun publica
@@ -13949,7 +14019,7 @@ Cun l’entrada en vigur dal nov Cudesch civil èn abolidas tut las disposiziuns
 <sup>4</sup> Il Cussegl federal decretescha las disposiziuns executivas che garanteschan l’interoperabilitad dals sistems d’informatica sco er l’integritad, l’autenticitad e la segirezza da las datas.
 
 [^u1-55a-1]: Integrà tras la cifra I 2 da la LF dals 11 da dec. 2009 (brev ipotecara registrada ed ulteriuras midadas en il dretg real), en vigur dapi il 1. da schan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^u1-55a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^u1-55a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^u1-55a-3]: Versiun tenor la cifra II 3 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### E. Concessiuns da dretgs d’aua
@@ -13983,7 +14053,7 @@ La Lescha federala dals 11 d’avrigl 1889[^u1-58-2] davart scussiun e concurs v
 ...[^u1-58-3]
 
 [^u1-58-1]: Nova numeraziun dals ultims quatter artitgels en consequenza da l’aboliziun dals anteriurs art. 58 e 59, tenor la cifra I da las Disp. trans. dal DO, en vigur dapi il 1. da schan. 1912 ([AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); [BBl 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 725](https://fedlex.data.admin.ch/eli/fga/1909/3_725__), [1911 I 845](https://fedlex.data.admin.ch/eli/fga/1911/1_845__)).
-[^u1-58-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u1-58-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^u1-58-3]: Text guardar en la LF numnada. Per la versiun dals art. 132<sup>bis</sup>, 141 al. 3 e 258 al. 4 guardar [AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)titel final art. 60.
 
 ### K. Applicaziun da dretg svizzer ed ester
@@ -14001,7 +14071,7 @@ La Lescha federala dals 11 d’avrigl 1889[^u1-58-2] davart scussiun e concurs v
 ...
 
 [^u1-59-1]: Nova numeraziun dals ultims quatter artitgels en consequenza da l’aboliziun dals anteriurs art. 58 e 59, tenor la cifra I da las Disp. trans. dal DO, en vigur dapi il 1. da schan. 1912 ([AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); [BBl 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 725](https://fedlex.data.admin.ch/eli/fga/1909/3_725__), [1911 I 845](https://fedlex.data.admin.ch/eli/fga/1911/1_845__)).
-[^u1-59-2]: [BS **2** 737; [AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)II 1; [AS 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)agiunta cifra I lit. a]. Guardar ussa la LDIP dals 18 da dec. 1987 ([SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)).
+[^u1-59-2]: [BS **2** 737; [AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)II 1; [AS 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)agiunta cifra I lit. a]. Guardar ussa la LDIP dals 18 da dec. 1987 ([SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)).
 [^u1-59-3]: Abolì tras la cifra I 2 da la LF dals 5 d’oct. 1984, cun effect dapi il 1. da schan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 ### L. Aboliziun dal dretg civil federal
@@ -14307,7 +14377,7 @@ La consorta po disponer da la facultad matrimoniala, sche la represchentanza da 
 
 <sup>3</sup> Il plant da contestaziun tenor la Lescha federala dals 11 d’avrigl 1889[^u2-205-1] davart scussiun e concurs resta resalvada.
 
-[^u2-205-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-205-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### D. Responsabladad
 
@@ -14379,7 +14449,7 @@ Il consort stat bun:
 
 <sup>2</sup> La cessiun dal privilegi sco er la renunzia al privilegi a favur da singuls crediturs èn nunvalaivlas.
 
-[^u2-211-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-211-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### F. Dissoluziun da la facultad matrimoniala
 
@@ -14517,7 +14587,7 @@ Durant la cuminanza dals bains sa drizza l’execuziun sfurzada per ils debits, 
 
 <sup>2</sup> La cessiun dal privilegi sco er la renunzia al privilegi a favur da singuls crediturs èn nunvalaivlas.
 
-[^u2-224-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^u2-224-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### V. Dissoluziun da la facultad matrimoniala
 
