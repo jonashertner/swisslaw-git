@@ -3,20 +3,19 @@ canton: ZG
 number: "153.735"
 title: Verfügung über die Regelung der Zuständigkeit betreffend individuelle Personalgeschäfte bei der Volkswirtschaftsdirektion
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-11
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 2011-12-02
 in_force: 2012-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.735"
-pdf: "https://bgs.zg.ch/api/de/versions/2494/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2643/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfügung über die Regelung der Zuständigkeit betreffend individuelle Personalgeschäfte bei der Volkswirtschaftsdirektion
 
-Vom 2. Dezember 2011 (Stand 1. Januar 2024)
+Vom 2. Dezember 2011 (Stand 1. Januar 2025)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
@@ -31,6 +30,8 @@ verfügt:
 
 <sup>1</sup> Die Amtsleiterinnen und Amtsleiter entscheiden unter Vorbehalt von § 2 Abs. 2 und 3 der Delegationsverordnung über individuelle Personalgeschäfte der ihnen unterstellten Mitarbeiterinnen und Mitarbeiter gestützt auf das Personalgesetz und die Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals[^Ziff1-1].
 
+<sup>2</sup> Die Anstellung der stellvertretenden Amtsleiterinnen und Amtsleiter sowie der Abteilungsleiterinnen und Abteilungsleiter erfolgt nach Rücksprache mit der Direktionsvorsteherin oder dem Direktionsvorsteher.
+
 [^Ziff1-1]: BGS [154.211](https://bgs.zg.ch/data/154.211/de)
 
 #### Ziff. 2
@@ -40,7 +41,7 @@ verfügt:
 - a) Beförderungen;
 - b) Auflösung des Arbeitsverhältnisses mit Kostenfolge;
 - c) Nachträgliche Genehmigung und Vergütung von Überstundenarbeit;
-- d) Weiter- und Zusatzbildung sowie Studienurlaub ab einer Kostenübernahme von gesamthaft (Kursgeld, Kursspesen und Lohnkosten für Zeitaufwand) Fr. 4’000.–;
+- d) Aus-, Fort- und Weiterbildung sowie Bildungsurlaub ab einer Kostenübernahme von gesamthaft (Kursgeld, Kursspesen und Lohnkosten für Zeitaufwand) Fr. 5’000.–;
 - e) Ausrichten von einmaligen Zuwendungen (§ 49 Abs. 2 PG);
 - f) Gehaltskürzung (§ 50 PG);
 - g) Gewährung von Urlaub von mehr als 10 Tagen (§ 25 Arbeitszeitverordnung)[^Ziff2-1].
@@ -49,6 +50,6 @@ verfügt:
 
 #### Ziff. 3
 
-<sup>1</sup> Diese Verfügung tritt am 1. Januar 2012 in Kraft.
+**…**
 
 GS 31, 347
