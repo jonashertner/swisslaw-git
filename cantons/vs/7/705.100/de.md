@@ -4,13 +4,13 @@ number: "705.100"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2023-02-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-16
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-20
 adopted: 2025-03-12
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/705.100"
-pdf: "https://lex.vs.ch/api/de/versions/3165/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3165/pdf_file"
 
 (BauV)
 
-vom 22.03.2017 (Stand 01.02.2023)
+vom 22.03.2017 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -289,11 +289,13 @@ verordnet:[^ingress-1]
 
 #### Art. 20
 
-**Erneuerung und Ersatz einer Verbrennungsanlage**
+**Erneuerung und Ersatz von Feuerungsanlagen**
 
-<sup>1</sup> Die Erneuerung und der Ersatz eines Öl-, Gaskessels oder einer Holzheizung, ohne Änderung des Standorts des Kamins, sind vor Baubeginn der für Baubewilligungen zuständigen Behörde zu melden. Die Meldung hat spätestens 30 Tage vor Baubeginn nach Wahl des Meldepflichtigen im Papierformat oder im digitalen Format über die Plattform zu erfolgen.
+<sup>1</sup> Die Erneuerung eines Holzkessels durch einen neuen, mit Pellets beschickten Kessel mit einer Leistung von weniger als 70 kW und der Ersatz von Öl- oder Gaskesseln durch Holzkessel mit einer Leistung von weniger als 70 kW, die mit Pellets befeuert werden, ohne dass der Standort des Kamins geändert wird, müssen vor Baubeginn der für Baubewilligungen zuständigen Behörde gemeldet werden. Die Meldung muss nach Wahl des Meldepflichtigen innerhalb von 30 Tagen vor Baubeginn in Papierform oder in digitaler Form auf der Plattform erfolgen.
 
 <sup>2</sup> Das für das Bauwesen zuständige Departement legt in einer Richtlinie fest, welche Pläne und weitere Unterlagen in welcher Anzahl Exemplaren der Meldung beizulegen sind. Die Unterlagen haben die Informationen zu enthalten, deren es bedarf um zu prüfen, ob die Bedingungen der Spezialgesetzgebung eingehalten sind.
+
+<sup>3</sup> Die Erneuerung oder der Ersatz einer Feuerungsanlage, gleich welcher Art, durch eine mit fossiler Energie betriebene Feuerungsanlage ist immer baubewilligungspflichtig.
 
 ### 3.1.2 Kantonale Organe
 

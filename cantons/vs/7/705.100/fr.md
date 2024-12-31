@@ -4,13 +4,13 @@ number: "705.100"
 title: Ordonnance sur les constructions
 short: OC
 language: fr
-version: 2023-02-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-16
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-20
 adopted: 2025-03-12
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/705.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3165/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3370/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3165/pdf_file"
 
 (OC)
 
-du 22.03.2017 (état 01.02.2023)
+du 22.03.2017 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -291,9 +291,11 @@ ordonne:[^ingress-1]
 
 **Renouvellement et remplacement des installations de combustion**
 
-<sup>1</sup> Le renouvellement et le remplacement des chaudières à mazout, à gaz et à bois, sans changement d’emplacement de la cheminée, doit être annoncé avant le début des travaux à l’autorité délivrant les autorisations de construire. L’annonce doit être faite au format papier ou au format numérique sur la plateforme, au choix de celui qui est tenu d’annoncer, dans un délai de 30 jours avant le début des travaux.
+<sup>1</sup> Le renouvellement d’une chaudière à bois par une nouvelle chaudière d’une puissance inférieure à 70 kW et alimentées aux pellets et le remplacement de chaudières à mazout ou à gaz par des chaudières à bois d’une puissance inférieure à 70 kW et alimentées aux pellets sans changement d’emplacement de la cheminée, doivent être annoncés avant le début des travaux à l’autorité délivrant les autorisations de construire. L’annonce doit être faite au format papier ou au format numérique sur la plateforme, au choix de celui qui est tenu d’annoncer, dans un délai de 30 jours avant le début des travaux.
 
 <sup>2</sup> Les plans et autres documents à joindre à l’annonce ainsi que le nombre d’exemplaires sont fixés par une directive élaborée par le département. Les documents comprennent les éléments d’information utiles et nécessaires pour vérifier le respect des conditions de la législation spéciale.
+
+<sup>3</sup> Le renouvellement ou le remplacement d’une installation de combustion, quel que soit son type, par une installation de combustion à énergie fossile est toujours soumise à autorisation de construire.
 
 ### 3.1.2 Organes cantonaux
 
