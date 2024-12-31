@@ -1,268 +1,292 @@
 ---
 canton: GR
 number: "850.100"
-title: Legge sulle stime ufficiali
-short: LStim
+title: Legge sulle valutazioni immobiliari ufficiali
+short: LVI
 language: it
-version: 2011-01-01
-corrected: 2014-10-23
-version_adopted: 2010-06-15
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2016-12-07
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/850.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1314/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3424/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sulle stime ufficiali (LStim)
+# Legge sulle valutazioni immobiliari ufficiali
 
-del 30 agosto 2006
+(LVI)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+del 07.12.2016 (stato 01.01.2025)
 
-visto l'art. 31 della Costituzione cantonale[^t-2];
+Il Gran Consiglio del Cantone dei Grigioni,
 
-visto il messaggio del Governo del 30 maggio 2006[^t-3],
+visto l'art. 31 della Costituzione cantonale,
+
+visto il messaggio del Governo del 6 settembre 2016,
 
 decide:
 
-[^t-1]: PGC 2006/2007, 167
-[^t-2]: CSC 110.100
-[^t-3]: Pagina 347
-
-### I. Disposizioni generali
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Oggetto e compiti**
+**Oggetto**
 
-<sup>1</sup> La presente legge disciplina l'esecuzione di stime ufficiali nel Cantone dei Grigioni.
-
-<sup>2</sup> Per stime ufficiali si intendono i valori rilevati d'ufficio o su richiesta dalle commissioni di stima di fondi, nonché dei diritti di godimento e dei beni ad essi legati.
-
-<sup>3</sup> L'Ufficio delle stime (di seguito Ufficio) può allestire su richiesta perizie di stima.
+<sup>1</sup> La presente legge disciplina l'esecuzione delle valutazioni immobiliari ufficiali nel Cantone dei Grigioni.
 
 #### Art. 2
 
-**Oggetti di stima**
+**Competenza e incarico**
 
-In base alla presente legge vengono stimati:
+<sup>1</sup> L'Ufficio per le valutazioni immobiliari (Ufficio) è il servizio specializzato per le valutazioni ufficiali. Esso provvede alla valutazione corretta e uniforme degli oggetti definiti nella presente legge. Esso emana istruzioni al riguardo.
 
-- a) i fondi ai sensi dell'art. 655 CC[^2-1];
-
-- b) i diritti a quote di società cooperative del diritto cantonale;
-
-- c) i fabbricati che non costituiscono parte integrante di un fondo;
-
-- d) gli oggetti e le attrezzature che non costituiscono parte integrante di un fabbricato, ma che devono essere assicurati insieme ad esso;
-
-- e) le parti costitutive e gli accessori di aziende artigianali e industriali.
-
-[^2-1]: RS 210 1.1.2011 1
-
-### II. Organizzazione
+<sup>2</sup> Su richiesta, l'Ufficio può allestire perizie di valutazione.
 
 #### Art. 3
 
-**Organi di stima**
+**Obbligo di collaborazione**
 
-<sup>1</sup> Il Cantone è suddiviso in circondari di stima.
+<sup>1</sup> Su richiesta dell'Ufficio, i proprietari e, in caso di proprietà per piani, anche l'amministrazione, nonché le autorità sono tenuti a collaborare a titolo gratuito all'elaborazione delle valutazioni.
 
-<sup>2</sup> Ogni circondario di stima è diretto da un capo circondario.
+<sup>2</sup> In caso di ispezione, gli organi di valutazione devono avere libero accesso a tutti i locali.
 
-<sup>3</sup> Le stime vengono effettuate dalle commissioni di stima.
+<sup>3</sup> Chi ostacola una valutazione ufficiale è tenuto ad assumersi le spese risultanti.
+
+<sup>4</sup> Nel caso di valutazioni di revisione sul loro territorio comunale, su relativa richiesta i comuni devono mettere gratuitamente a disposizione dell'Ufficio spazi adeguati.
 
 #### Art. 4
 
-**Competenze**
+**Ottenimento di dati**
 
-<sup>1</sup> Al Governo spetta l’alta vigilanza sulle stime cantonali. Esso stabilisce i circondari di stima e disciplina l'esecuzione delle stime ufficiali.
+<sup>1</sup> Su richiesta dell'Ufficio, i dati necessari per l'esecuzione della presente legge devono essere messi a disposizione gratuitamente.
 
-<sup>2</sup> Il Dipartimento esercita la vigilanza sull'esecuzione delle stime ufficiali.
+<sup>2</sup> I comuni informano l'Ufficio senza indugio in merito a collaudi avvenuti.
 
-<sup>3</sup> L'Ufficio emana istruzioni per gli stimatori e provvede alla loro formazione.
+<sup>3</sup> Gli uffici del registro fondiario notificano i trapassi di proprietà all'Ufficio entro un mese dalla loro iscrizione nel libro mastro.
 
-<sup>4</sup> I comuni designano gli stimatori comunali agricoli e non agricoli.
-
-### III. Esecuzione della stima
+<sup>4</sup> L'Ufficio può ottenere i dati rilevanti per l'adempimento dei propri compiti dall'Assicurazione fabbricati dei Grigioni, dall'Amministrazione delle imposte e dagli uffici del registro fondiario.
 
 #### Art. 5
 
-**Obbligo di stima**
+**Trasmissione dei dati**
 
-<sup>1</sup> Sono soggetti all'obbligo di stima:
+<sup>1</sup> L'Ufficio trasmette le valutazioni ai proprietari, ai comuni e all'Amministrazione cantonale delle imposte.
 
-- 1\. le nuove costruzioni;
+<sup>2</sup> L'Ufficio trasmette all'Assicurazione fabbricati dei Grigioni, agli uffici del registro fondiario nonché agli uffici cantonali i dati necessari per l'adempimento dei loro compiti.
 
-- 2\. i lavori di trasformazione e di rinnovo, se
-
-- a) l’importo impiegato per ogni fondo, incluse parti costitutive, accessori, costi accessori e prestazioni proprie, è considerevole;
-
-- b) le modifiche all'oggetto esistente hanno quale conseguenza un ingrandimento dello spazio trasformato;
-
-- 3\. cambiamenti di destinazione di oggetti agricoli e non agricoli indipendentemente dall'importo impiegato e da un ingrandimento dello spazio trasformato.
-
-<sup>2</sup> Per i lavori di trasformazione e di rinnovo, il Governo può stabilire l'estensione e le eccezioni dall'obbligo di stima.
-
-<sup>3</sup> Dopo l'ultimazione del progetto, la stima ufficiale deve essere richiesta senza indugio per iscritto dal proprietario al competente circondario di stima.
-
-<sup>4</sup> Le stime dei fondi sovredificati devono essere di regola rivedute ogni dieci anni per comune.
-
-<sup>5</sup> Per gli impianti idroelettrici e di trasporto le stime del valore di reddito e del valore commerciale vengono eseguite per unità economica e devono essere di regola rivedute ogni cinque anni.
+<sup>3</sup> Queste valutazioni e questi dati possono essere messi a disposizione degli aventi diritto in forma cartacea o tramite una procedura di richiamo elettronica.
 
 #### Art. 6
 
-**Valori di stima**
+**Consultazione degli atti**
 
-Devono essere stimati i seguenti valori:
+<sup>1</sup> I destinatari della valutazione hanno il diritto di consultare gli atti di valutazione, nella misura in cui non vi si oppongano importanti interessi pubblici o privati degni di protezione.
 
-- a) il valore a nuovo;
-
-- b) il valore attuale;
-
-- c) il valore locativo;
-
-- d) il valore di reddito;
-
-- e) il valore commerciale.
-
-**2**
-
-1.1.2011
+<sup>2</sup> È consentito concedere a terzi la possibilità di consultare gli atti e rilasciare loro informazioni se questi sono in grado di rendere verosimile un interesse legittimo.
 
 #### Art. 7
 
-**Metodo di valutazione**
+**Organizzazione**
 
-<sup>1</sup> I valori di stima devono orientarsi al mercato.
+<sup>1</sup> L'Ufficio presenta un'organizzazione decentralizzata. Il Governo stabilisce le ubicazioni.
 
-<sup>2</sup> Per la stima del valore di reddito di fondi agricoli fa stato la rispettiva istruzione federale.
+## 2. Valutazioni ufficiali
 
 #### Art. 8
 
-**Diritti e doveri di partecipazione**
+**Definizione e valori**
 
-<sup>1</sup> I proprietari, in caso di proprietà per piani l'amministrazione, e le autorità devono partecipare, su richiesta delle commissioni di stima, all'elaborazione delle stime.
+<sup>1</sup> I valori disposti dall'Ufficio per gli oggetti di valutazione rappresentano le valutazioni ufficiali.
 
-<sup>2</sup> I destinatari della stima hanno il diritto di prendere visione degli atti di stima, nella misura in cui non si contrappongano importanti interessi pubblici o privati degni di protezione.
+<sup>2</sup> Devono essere determinati i seguenti valori:
 
-<sup>3</sup> È consentito concedere a terzi la possibilità di consultare gli atti e rilasciare loro informazioni se questi possono comprovare un interesse giustificato.
+- a) il valore a nuovo;
+- b) il valore attuale;
+- c) il valore locativo;
+- d) il valore di reddito;
+- e) il valore commerciale.
 
-<sup>4</sup> Se un proprietario ostacola o rende impossibile l'esecuzione di una stima ufficiale, egli deve assumersi le spese che ne derivano.
+<sup>3</sup> Nel caso di oggetti di valutazione non assoggettati a imposizione conformemente alla regolamentazione stabilita da leggi speciali vengono determinati solamente il valore a nuovo e il valore attuale.
+
+<sup>4</sup> Nel caso di impianti sostanziali per la produzione, la trasmissione e la distribuzione di energia nonché per gli impianti di trasporto, le valutazioni del valore di reddito e del valore commerciale vengono effettuate per ciascuna unità economica.
 
 #### Art. 9
 
-**Notifica della stima e conteggio delle tasse**
+**Oggetti di valutazione**
 
-La stima e il conteggio delle tasse vengono notificati dalla commissione di stima sotto forma di decisione al proprietario e, in caso di proprietà per piani, anche all'amministrazione.
+<sup>1</sup> In base alla presente legge vengono valutati:
+
+- a) fondi ai sensi dell'articolo 655 del Codice civile svizzero (CC)[^9-1];
+- b) fabbricati che non costituiscono parti costitutive di un fondo;
+- c) gli oggetti e le attrezzature che non costituiscono parti costitutive di un fabbricato, ma che devono essere assicurati insieme ad esso secondo quanto previsto dall'ordinanza relativa alla legge concernente l'Assicurazione fabbricati nel Cantone dei Grigioni[^9-2];
+- d) parti costitutive e accessori di aziende artigianali e industriali;
+- e) diritti a quote di società cooperative del diritto cantonale.
+
+[^9-1]: RS [210](https://db.clex.ch/link/Bund/210/it)
+[^9-2]: CSC [830.110](https://www.gr-lex.gr.ch/data/830.110/it)
 
 #### Art. 10
 
-**Ricusa**
+**Principi per la determinazione del valore**
 
-Gli stimatori o i periti devono ricusarsi se:
+<sup>1</sup> I valori devono orientarsi al mercato. Sono fatte salve le valutazioni conformemente ai capoversi da 2 a 4.
 
-- a) essi stessi, i coniugi, i fidanzati, i parenti e affini in linea ascendente o discendente oppure in linea collaterale fino al secondo grado o se persone ad essi legati per unione domestica registrata o convivenza di fatto sono interessati all'oggetto di stima o alla procedura di stima;
+<sup>2</sup> I valori di reddito e i valori commerciali di impianti sostanziali per la produzione, la trasmissione e la distribuzione di energia nonché di impianti di trasporto vengono determinati in base a dati storici, indipendentemente dal valore di mercato attuale.
 
-- b) tra loro e i proprietari esiste un rapporto di interessi o di dipendenza;
+<sup>3</sup> Per la valutazione del valore di reddito di fondi agricoli fa stato la corrispondente istruzione federale.
 
-- c) negli ultimi tre anni hanno costruito o trasformato quale pianificatori o imprenditori gli oggetti da stimare;
-
-- d) altre circostanze li fanno apparire prevenuti.
+<sup>4</sup> In sede di determinazione del valore non si tiene conto degli effetti in termini di valore che diritti d'abitazione e d'usufrutto producono sugli oggetti di valutazione.
 
 #### Art. 11
 
-**Segreto d'ufficio**
+**Tipi di valutazione 1. Richiesta con obbligo di valutazione**
 
-Gli ufficiali che hanno partecipato alla stima sono tenuti al segreto.
+<sup>1</sup> Dopo l'ultimazione del progetto, i proprietari sono tenuti a presentare senza indugio una richiesta di valutazione all'Ufficio in presenza delle seguenti fattispecie:
+
+- a) in caso di investimenti essenziali;
+- b) in caso di ripartizioni di fondi che comportano la suddivisione di fabbricati tra diversi fondi;
+- c) in caso di trasformazione in proprietà per piani o in comproprietà con regolamento per l'uso e l'amministrazione.
+
+<sup>2</sup> Se non viene presentata alcuna domanda, la valutazione viene effettuata d'ufficio dietro riscossione delle spese ordinarie nonché delle spese supplementari.
 
 #### Art. 12
 
-**Trasmissione dei dati**
+**2. Richiesta senza obbligo di valutazione**
 
-<sup>1</sup> I dati necessari per l'esecuzione della presente legge devono essere messi a disposizione su richiesta dell'Ufficio.
-
-**3**
-
-1.1.2011
-
-<sup>2</sup> Mediante una procedura di richiamo elettronica l'Ufficio può rendere accessibili all'Assicurazione fabbricati[^12-1], all'Amministrazione delle imposte cantonale e comunale, all'Ispettorato del registro fondiario e registro di commercio, agli uffici del registro fondiario e all'Ufficio per l'agricoltura, il miglioramento delle strutture e la misurazione[^12-2] i dati necessari per l'adempimento dei loro compiti.
-
-[^12-1]: Ora Assicurazione fabbricati dei Grigioni
-[^12-2]: Ora Ufficio per l'agricoltura e la geoinformazione
-
-### IV. Rimedi giuridici
+<sup>1</sup> I proprietari, l'Assicurazione fabbricati dei Grigioni, i comuni nonché le autorità fiscali cantonali e comunali possono richiedere in qualsiasi momento in forma scritta una valutazione a proprie spese.
 
 #### Art. 13
 
-**Ricorso**
+**3. Valutazione di revisione**
 
-<sup>1</sup> I proprietari o, in caso di proprietà per piani, l'amministrazione per l'intero immobile hanno il diritto di impugnare la stima e il conteggio delle tasse, entro 30 giorni dalla comunicazione, mediante ricorso scritto all'Ufficio.
-
-<sup>2</sup> La decisione dell'Ufficio può essere impugnata mediante ricorso al Tribunale amministrativo, entro 30 giorni dalla comunicazione.
-
-### V. Spese e tasse
+<sup>1</sup> Di norma, le valutazioni degli oggetti di valutazione edificati vengono sottoposte a revisione d'ufficio ogni dieci anni per comune. Sono esclusi gli oggetti la cui valutazione è stata effettuata da meno di tre anni.
 
 #### Art. 14
 
-**Spese di stima**
+**Valutazione di fondi della Confederazione**
 
-<sup>1</sup> Le spese relative alle stime ufficiali sono coperte da partecipazioni ai costi e tasse versate dagli utenti dei valori di stima e dai proprietari.
-
-<sup>2</sup> Il Governo fissa annualmente in base all'interesse le quote per le partecipazioni ai costi e le tasse, sulla base di un calcolo dei costi complessivi.
+<sup>1</sup> I fondi di proprietà della Confederazione Svizzera vengono valutati solo su richiesta.
 
 #### Art. 15
 
-**Partecipazioni ai costi**
+**Notifica**
 
-<sup>1</sup> Per l'esecuzione delle stime e per l'applicazione dei valori delle stime ufficiali vengono riscosse le seguenti partecipazioni ai costi:
+<sup>1</sup> La valutazione e un eventuale conteggio delle tasse conformemente agli articoli 16 e 17 vengono notificati ai proprietari sotto forma di decisione impugnabile.
 
-- a) dai comuni: al massimo 20 centesimi per ogni 1 000 franchi del valore fiscale delle stime in corso;
+<sup>2</sup> In caso di proprietà per piani vengono inviate le seguenti decisioni:
 
-- b)[^15-1]dall'Assicurazione fabbricati: annualmente al massimo 30 centesimi per ogni 1 000 franchi di valore a nuovo dei fabbricati assicurati stimato nel rispettivo anno;
+- a) in caso di prima valutazione:
+  - 1\. ai proprietari: decisione con valore locativo, valore di reddito e valore commerciale,
+  - 2\. all'amministrazione: decisione riguardo al valore a nuovo e al valore attuale, riassunto di tutti i fondi nonché conteggio delle tasse riguardo all'intera proprietà per piani;
+- b) in caso di valutazioni successive:
+  - 1\. ai proprietari: decisione con valore locativo, valore di reddito e valore commerciale nonché eventuale conteggio delle tasse,
+  - 2\. all'amministrazione: decisione riguardo al valore a nuovo e al valore attuale, riassunto di tutti i fondi nonché eventuale conteggio delle tasse riguardo alla parte comune.
 
-- c) dall'Amministrazione cantonale delle imposte: al massimo 20 centesimi per ogni 1 000 franchi del valore fiscale delle stime in corso;
+<sup>3</sup> Le valutazioni vengono trasmesse all'Assicurazione fabbricati dei Grigioni, ai comuni, agli uffici del registro fondiario, all'Amministrazione cantonale delle imposte nonché ad altri uffici cantonali, per quanto ciò sia necessario per l'adempimento dei loro compiti. Eventuali conteggi sono emanati conformemente agli articoli 16 – 18.
 
-- d) da altri uffici cantonali che riprendono dati: le spese in proporzione al dispendio per il rilevamento e il trasferimento.
-
-<sup>2</sup> In caso di seconde stime e stime successive di impianti idroelettrici e di trasporto, le partecipazioni ai costi dei comuni e dell'Amministrazione cantonale delle imposte ammontano al massimo a 5 centesimi per ogni 1 000 franchi del valore fiscale.
-
-[^15-1]: Testo giusta art. 48 n. 2 della legge concernente l'assicurazione fabbricati; CSC 4 1.1.2011
+## 3. Tasse e partecipazioni ai costi
 
 #### Art. 16
 
-**Tasse per la procedura di stima**
+**In generale**
 
-<sup>1</sup> Il limite per la tassa che deve essere versata dai proprietari o dai richiedenti è compreso tra i 100 ed i 20 000 franchi per fondo.
+<sup>1</sup> I costi delle valutazioni ufficiali vengono coperti mediante tasse e partecipazioni ai costi.
 
-<sup>2</sup> Entro questo limite la tassa di stima deve essere calcolata come segue:
+<sup>2</sup> I costi delle valutazioni su richiesta vengono coperti da tasse che vanno a carico dei proprietari o dei richiedenti.
 
-- a) in caso di nuove costruzioni o nuove stime: al massimo l'1,2 per mille del valore commerciale, rispettivamente del valore attuale se devono essere stimati soltanto il valore a nuovo e il valore attuale;
+<sup>3</sup> I costi delle valutazioni di revisione vengono coperti mediante:
 
-- b) in caso di trasformazioni e ristrutturazioni: al massimo l'1,2 per mille dell'importo impiegato;
+- a) partecipazioni ai costi dell'Assicurazione fabbricati dei Grigioni e dell'Amministrazione cantonale delle imposte;
+- b) tasse dei comuni;
+- c) tasse dei proprietari, se sono stati effettuati investimenti sostanziali.
 
-- c) in caso di trasformazione nella proprietà per piani o nella comproprietà con regolamento per l'uso e l'amministrazione: al massimo lo 0,3 per mille del valore commerciale.
-
-<sup>3</sup> Per le perizie di stima la fatturazione avviene secondo il dispendio.
-
-### VI. Disposizioni finali
+<sup>4</sup> Sulla base di un calcolo dei costi, il Governo stabilisce le quote per le tasse e la degressione delle tasse.
 
 #### Art. 17
 
-**Diritto transitorio**
+**Tasse dovute dai proprietari e dai richiedenti**
 
-<sup>1</sup> Le procedure già avviate al momento dell'entrata in vigore della presente legge vengono portate a termine secondo il diritto precedente.
+<sup>1</sup> La tassa dovuta dai proprietari e dai richiedenti varia da un minimo di 150 franchi a un massimo di 25 000 franchi per oggetto di valutazione. In caso di proprietà per piani, la tassa varia da un minimo di 30 franchi a un massimo di 25 000 franchi per oggetto di valutazione.
 
-<sup>2</sup> Per le decisioni notificate dopo l'entrata in vigore della presente legge, la procedura si conforma al nuovo diritto.
+<sup>2</sup> Le tasse vengono calcolate come segue:
+
+- a) al massimo l'1,7 per mille del valore a nuovo per:
+  - 1\. una prima valutazione,
+  - 2\. richieste senza obbligo di valutazione;
+- b) al massimo l'1,7 per mille dell'importo impiegato per:
+  - 1\. investimenti nel caso di richieste con obbligo di valutazione,
+  - 2\. valutazioni di revisione con investimenti;
+- c) al massimo l'1,4 per mille del valore a nuovo:
+  - 1\. se vengono valutati solo il valore a nuovo e il valore attuale (art. 9 cpv. 2),
+  - 2\. in caso di ripartizioni sostanziali di fondi;
+- d) al massimo lo 0,3 per mille del valore a nuovo in caso di trasformazione in:
+  - 1\. proprietà per piani,
+  - 2\. comproprietà con regolamento per l'uso e l'amministrazione,
+  - 3\. diritto di superficie.
+
+<sup>3</sup> Nel caso di oggetti di valutazione in diritto di superficie, in sede di prima valutazione al concedente del diritto di superficie viene addebitata una tassa pari a 150 franchi. Nel caso di ulteriori richieste del concedente del diritto di superficie, per la valutazione viene riscossa la tassa secondo il tempo impiegato. Dal titolare del diritto di superficie vengono riscosse le tasse secondo il capoverso 2.
+
+<sup>4</sup> Per perizie di valutazione nonché per valutazioni ufficiali di oggetti di valutazione non edificati, la fatturazione avviene secondo il dispendio.
+
+<sup>5</sup> Qualora l'obbligo di collaborazione non venga soddisfatto in misura sufficiente, oltre alle tasse ordinarie possono essere fatturate anche le spese supplementari.
 
 #### Art. 18
 
-**Referendum ed entrata in vigore**
+**Tasse e partecipazioni ai costi di altri beneficiari**
 
-<sup>1</sup> La presente legge è soggetta a referendum facoltativo.
+<sup>1</sup> Per i tre beneficiari indicati di seguito si mira alla chiave di ripartizione dei costi seguente:
 
-<sup>2</sup> Il Governo stabilisce l'entrata in vigore[^18-1] della presente legge.
+- a) 50 per cento per l'Assicurazione fabbricati dei Grigioni;
+- b) 25 per cento per i comuni;
+- c) 25 per cento per l'Amministrazione cantonale delle imposte.
 
-[^18-1]: ° gen. 2007 con DG del 19 dic. 2006 1.1.2011 5
+<sup>2</sup> In caso di valutazioni di revisione, l'Ufficio riscuote dai Comuni una tassa pari al massimo allo 0,15 per mille del valore a nuovo.
+
+<sup>3</sup> L'Ufficio riscuote partecipazioni ai costi dall'Assicurazione fabbricati dei Grigioni e dall'Amministrazione cantonale delle imposte. Alla fine dell'anno queste coprono il saldo scoperto del calcolo dei costi dell'Ufficio. La partecipazione ai costi dell'Assicurazione fabbricati dei Grigioni non deve superare lo 0,3 per mille del valore a nuovo in caso di valutazioni di revisione. La partecipazione ai costi dell'Amministrazione cantonale delle imposte non deve superare lo 0,15 per mille del valore a nuovo in caso di valutazioni di revisione.
+
+## 4. Protezione giuridica
+
+#### Art. 19
+
+**Opposizione**
+
+<sup>1</sup> I proprietari o, in caso di proprietà per piani, l'amministrazione per l'intero immobile hanno il diritto di impugnare la valutazione e il conteggio delle tasse mediante opposizione scritta all'Ufficio entro 30 giorni dalla comunicazione.
+
+<sup>2</sup> L'opposizione deve contenere una richiesta e una motivazione. Essa deve essere firmata e inoltrata allegando i mezzi di prova disponibili.
+
+<sup>3</sup> Se un'opposizione non soddisfa i requisiti legali o se essa è redatta in forma indecorosa, illeggibile o inutilmente estesa, viene stabilito un termine adeguato per l'eliminazione del vizio, con l'avvertimento che in caso contrario non si entrerà nel merito dell'istanza.
+
+#### Art. 20
+
+**Ricorso**
+
+<sup>1</sup> Contro la decisione su opposizione dell'Ufficio è data facoltà di ricorso scritto al Tribunale d'appello entro 30 giorni dalla comunicazione.
+
+## 5. Disposizioni finali
+
+#### Art. 21
+
+**Procedure di valutazione pendenti, tasse e partecipazioni ai costi**
+
+<sup>1</sup> Al momento dell'entrata in vigore della presente legge, per procedure di valutazione già avviate vale quanto segue:
+
+- a) le valutazioni su richiesta vengono portate a termine dal punto di vista materiale e formale secondo il diritto previgente;
+- b) le valutazioni di revisione nel quarto turno di revisione vengono portate a termine dal punto di vista materiale e formale secondo il diritto previgente.
+
+<sup>2</sup> Le tasse e le partecipazioni ai costi vengono riscosse secondo il nuovo diritto anche in caso di procedure di valutazione pendenti. Le partecipazioni ai costi vengono fatturate ai comuni secondo il diritto previgente solo in caso valutazioni di revisione nel quarto turno di revisione.
+
+#### Art. 22
+
+**Notifica di decisioni di valutazione in caso di proprietà per piani**
+
+<sup>1</sup> La notifica di decisioni in caso di proprietà per piani conformemente all'articolo 15 capoverso 2 avverrà solo con l'introduzione del nuovo software di valutazione. Fino a quel momento le notifiche avverranno secondo il diritto previgente.
+
+#### Art. 23
+
+**Valutazione di revisione di impianti per la produzione, la trasmissione e la distribuzione di energia**
+
+<sup>1</sup> La prima valutazione di revisione di impianti per la produzione, la trasmissione e la distribuzione di energia secondo il nuovo diritto avverrà nel 2019. In tale contesto, con riguardo ai dati storici ci si baserà sui risultati degli esercizi commerciali 2008/2009 – 2017/2018 rispettivamente 2009 – 2018.
+
+2017-034

@@ -1,265 +1,292 @@
 ---
 canton: GR
 number: "850.100"
-title: Gesetz über die amtlichen Schätzungen
-short: SchG
+title: Gesetz über die amtlichen Immobilienbewertungen
+short: IBG
 language: de
-version: 2011-01-01
-corrected: 2014-10-23
-version_adopted: 2010-06-15
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2016-12-07
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/850.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1314/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3424/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die amtlichen Schätzungen (SchG)
+# Gesetz über die amtlichen Immobilienbewertungen
 
-Vom 30. August 2006
+(IBG)
 
-Der Grosse Rat des Kantons Graubünden[^t-1],
+Vom 07.12.2016 (Stand 01.01.2025)
 
-gestützt auf Art. 31 der Kantonsverfassung[^t-2], nach Einsicht in die Botschaft der Regierung vom 30. Mai 2006[^t-3],
+Der Grosse Rat des Kantons Graubünden,
+
+gestützt auf Art. 31 der Kantonsverfassung,
+
+nach Einsicht in die Botschaft der Regierung vom 6. September 2016,
 
 beschliesst:
 
-[^t-1]: GRP 2006/2007, 167
-[^t-2]: BR 110.100
-[^t-3]: Seite 347
-
-### I. Allgemeine Bestimmungen
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Gegenstand und Aufgaben**
+**Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt die Durchführung von amtlichen Schätzungen im Kanton Graubünden.
-
-<sup>2</sup> Als amtliche Schätzungen gelten die von den Schätzungskommissionen auf Antrag oder von Amtes wegen ermittelten Werte von Grundstücken sowie der damit verbundenen Nutzungsrechte und Sachen.
-
-<sup>3</sup> Das Amt für Schätzungswesen (nachfolgend Amt) kann auf Ersuchen Schätzungsgutachten erstellen.
+<sup>1</sup> Dieses Gesetz regelt die Durchführung der amtlichen Immobilienbewertungen im Kanton Graubünden.
 
 #### Art. 2
 
-**Schätzungsobjekte**
+**Zuständigkeit und Auftrag**
 
-Nach Massgabe dieses Gesetzes werden geschätzt:
+<sup>1</sup> Das Amt für Immobilienbewertung (Amt) ist die Fachstelle für die amtlichen Bewertungen. Es sorgt für eine korrekte und einheitliche Bewertung der in diesem Gesetz bezeichneten Objekte. Hierzu erlässt es Weisungen.
 
-- a) die Grundstücke im Sinne von Art. 655 ZGB[^2-1];
-
-- b) die Teilrechte an Genossenschaften des kantonalen Rechts;
-
-- c) die Gebäude, die nicht Bestandteil eines Grundstückes sind;
-
-- d) die Gegenstände und Einrichtungen, die nicht Bestandteil eines Gebäudes sind, jedoch mit dem Gebäude versichert werden müssen;
-
-- e) Bestandteile und Zugehör bei gewerblichen und industriellen Betrieben.
-
-[^2-1]: SR 210 1.01.2011 1
-
-### II. Organisation
+<sup>2</sup> Das Amt kann auf Ersuchen Bewertungsgutachten erstellen.
 
 #### Art. 3
 
-**Schätzungsorgane**
+**Mitwirkungspflicht**
 
-<sup>1</sup> Der Kanton ist in Schätzungsbezirke eingeteilt.
+<sup>1</sup> Eigentümerinnen und Eigentümer, bei Stockwerkeigentum auch die Verwaltung, sowie die Behörden haben bei der Erarbeitung der Bewertungen auf Verlangen des Amts unentgeltlich mitzuwirken.
 
-<sup>2</sup> Jedem Schätzungsbezirk steht ein Bezirksleiter oder eine Bezirksleiterin vor.
+<sup>2</sup> Im Falle einer Besichtigung ist den Bewertungsorganen ungehinderter Zutritt zu allen Räumen zu gewähren.
 
-<sup>3</sup> Die Schätzungen werden durch die Schätzungskommissionen vorgenommen.
+<sup>3</sup> Wer eine amtliche Bewertung erschwert, hat die dadurch entstandenen Kosten zu übernehmen.
+
+<sup>4</sup> Die Gemeinden haben bei Revisionsbewertungen in ihrer Gemeinde dem Amt auf Verlangen unentgeltlich geeignete Räumlichkeiten zur Verfügung zu stellen.
 
 #### Art. 4
 
-**Zuständigkeiten**
+**Bezug von Daten**
 
-<sup>1</sup> Der Regierung obliegt die Oberaufsicht über das kantonale Schätzungswesen. Sie legt die Schätzungsbezirke fest und regelt die Durchführung der amtlichen Schätzungen.
+<sup>1</sup> Die für den Vollzug dieses Gesetzes notwendigen Daten sind auf Verlangen des Amts unentgeltlich zur Verfügung zu stellen.
 
-<sup>2</sup> Das Departement übt die Aufsicht über die Durchführung der amtlichen Schätzungen aus.
+<sup>2</sup> Die Gemeinden orientieren das Amt umgehend über erfolgte Bauabnahmen.
 
-<sup>3</sup> Das Amt erlässt Weisungen an die Schätzer und Schätzerinnen und sorgt für deren Ausbildung.
+<sup>3</sup> Die Grundbuchämter melden dem Amt die Handänderungen innert Monatsfrist seit deren Eintragung in das Hauptbuch.
 
-<sup>4</sup> Die Gemeinden bestimmen die landwirtschaftlichen und nichtlandwirtschaftlichen Gemeindeschätzer und -schätzerinnen.
-
-### III. Durchführung der Schätzung
+<sup>4</sup> Das Amt kann die für die Erfüllung seiner Aufgaben relevanten Daten von der Gebäudeversicherung Graubünden, der Steuerverwaltung und den Grundbuchämtern beziehen.
 
 #### Art. 5
 
-**Schätzungspflicht**
+**Herausgabe von Daten**
 
-<sup>1</sup> Der Schätzungspflicht unterliegen:
+<sup>1</sup> Das Amt stellt den Eigentümerinnen und Eigentümern, den Gemeinden und der kantonalen Steuerverwaltung die Bewertungen zu.
 
-- 1\. Neubauten;
+<sup>2</sup> Das Amt stellt der Gebäudeversicherung Graubünden, den Grundbuchämtern sowie den kantonalen Amtsstellen die für die Erfüllung ihrer Aufgaben notwendigen Daten zu.
 
-- 2\. Um- und Erneuerungsbauten, wenn
-
-- a) der aufgewendete Betrag pro Grundstück inklusive Bestandteile, Zugehör, Nebenkosten und Eigenleistungen wesentlich ist.
-
-- b) die Veränderungen am bestehenden Objekt eine Vergrösserung des umbauten Raumes zur Folge haben;
-
-- 3\. Umnutzungen von landwirtschaftlichen und nichtlandwirtschaftlichen Objekten unabhängig vom aufgewendeten Betrag und von einer Vergrösserung des umbauten Raumes.
-
-<sup>2</sup> Die Regierung kann den Umfang und Ausnahmen von der Schätzungspflicht bei Um- und Erneuerungsbauten anordnen.
-
-<sup>3</sup> Die amtliche Schätzung ist nach Vollendung des Vorhabens durch den Eigentümer oder die Eigentümerin schriftlich beim örtlich zuständigen Schätzungsbezirk ohne Verzug zu beantragen.
-
-<sup>4</sup> Die Schätzungen der überbauten Grundstücke sind in der Regel alle zehn Jahre gemeindeweise zu revidieren.
-
-**2**
-
-1.01.2011
-
-<sup>5</sup> Bei Wasserkraft- und Transportanlagen werden die Ertrags- und Verkehrswertschätzungen pro wirtschaftliche Einheit vorgenommen und sind in der Regel alle fünf Jahre zu revidieren.
+<sup>3</sup> Diese Bewertungen und Daten können den Berechtigten in Papierform oder mittels eines elektronischen Abrufverfahrens zur Verfügung gestellt werden.
 
 #### Art. 6
 
-**Schätzungswerte**
+**Akteneinsicht**
 
-Es sind folgende Werte zu schätzen:
+<sup>1</sup> Den Adressaten der Bewertung steht das Recht zur Einsichtnahme in die Bewertungsakten zu, sofern keine wichtigen öffentlichen oder schutzwürdigen privaten Interessen entgegenstehen.
 
-- a) der Neuwert;
-
-- b) der Zeitwert;
-
-- c) der Mietwert;
-
-- d) der Ertragswert;
-
-- e) der Verkehrswert.
+<sup>2</sup> Dritten dürfen Einsicht in die Akten gewährt und Auskünfte erteilt werden, wenn sie ein berechtigtes Interesse glaubhaft machen können.
 
 #### Art. 7
 
-**Bewertungsmethode**
+**Organisation**
 
-<sup>1</sup> Die Schätzungswerte haben sich am Markt zu orientieren.
+<sup>1</sup> Das Amt ist dezentral organisiert. Die Regierung legt die Standorte fest.
 
-<sup>2</sup> Für die Schätzung des Ertragswertes landwirtschaftlicher Grundstücke gilt die jeweilige eidgenössische Anleitung.
+## 2. Amtliche Bewertungen
 
 #### Art. 8
 
-**Mitwirkungspflichten und -rechte**
+**Definition und Werte**
 
-<sup>1</sup> Eigentümer und Eigentümerinnen, bei Stockwerkeigentum die Verwaltung, sowie die Behörden haben bei der Erarbeitung der Schätzungen auf Verlangen der Schätzungskommissionen mitzuwirken.
+<sup>1</sup> Amtliche Bewertungen sind die vom Amt für die Bewertungsobjekte verfügten Werte.
 
-<sup>2</sup> Den Adressaten der Schätzung steht das Recht zur Einsichtnahme in die Schätzungsakten zu, sofern keine wichtigen öffentlichen oder schutzwürdigen privaten Interessen entgegenstehen.
+<sup>2</sup> Es sind folgende Werte zu ermitteln:
 
-<sup>3</sup> Dritten dürfen Einsicht in die Akten gewährt und Auskünfte erteilt werden, wenn sie ein berechtigtes Interesse glaubhaft machen können.
+- a) Neuwert;
+- b) Zeitwert;
+- c) Mietwert;
+- d) Ertragswert;
+- e) Verkehrswert.
 
-<sup>4</sup> Behindert oder verunmöglicht ein Eigentümer oder eine Eigentümerin eine amtliche Schätzung, so hat er oder sie die entstandenen Kosten zu übernehmen.
+<sup>3</sup> Bei Bewertungsobjekten, die gemäss spezialgesetzlicher Regelung keiner Besteuerung unterliegen, werden nur der Neuwert und der Zeitwert ermittelt.
+
+<sup>4</sup> Bei wesentlichen Anlagen der Energieproduktion, Energieübertragung und Energieverteilung sowie bei Transportanlagen erfolgen die Ertragswertbewertungen und Verkehrswertbewertungen pro wirtschaftliche Einheit.
 
 #### Art. 9
 
-**Eröffnung der Schätzung und der Gebührenrechnung**
+**Bewertungsobjekte**
 
-Die Schätzung und die Gebührenrechnung werden dem Eigentümer oder der Eigentümerin, bei Stockwerkeigentum auch der Verwaltung, von der Schätzungskommission in Form einer Verfügung eröffnet.
+<sup>1</sup> Nach Massgabe dieses Gesetzes werden bewertet:
+
+- a) Grundstücke im Sinne von Artikel 655 des Schweizerischen Zivilgesetzbuchs (ZGB)[^9-1];
+- b) Gebäude, die nicht Bestandteil eines Grundstücks sind;
+- c) Gegenstände und Einrichtungen, die nicht Bestandteil eines Gebäudes sind, jedoch gemäss Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Graubünden[^9-2] mit dem Gebäude versichert werden müssen;
+- d) Bestandteile und Zugehör bei gewerblichen und industriellen Betrieben;
+- e) Teilrechte an Genossenschaften des kantonalen Rechts.
+
+[^9-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^9-2]: BR [830.110](https://www.gr-lex.gr.ch/data/830.110/de)
 
 #### Art. 10
 
-**Ausstand**
+**Grundsätze für die Wertermittlung**
 
-Schätzer und Schätzerinnen oder Sachverständige haben in den Ausstand zu treten, wenn:
+<sup>1</sup> Die Werte haben sich am Markt zu orientieren. Vorbehalten bleiben die Bewertungen gemäss den Absätzen 2 bis 4.
 
-- a) sie selber, Ehegatten, Verlobte, Verwandte und Verschwägerte in auf- und absteigender Linie oder in der Seitenlinie bis zum zweiten Grad oder wenn Personen, die mit ihnen durch eingetragene Partnerschaft oder faktische Lebensgemeinschaft verbunden sind, am Schätzungsobjekt oder am Schätzungsverfahren beteiligt sind;
+<sup>2</sup> Die Ertrags- und Verkehrswerte von wesentlichen Anlagen der Energieproduktion, Energieübertragung und Energieverteilung sowie von Transportanlagen werden aufgrund von Vergangenheitsdaten ermittelt, unabhängig vom aktuellen Marktwert.
 
-**3**
+<sup>3</sup> Für die Bewertung des Ertragswerts landwirtschaftlicher Grundstücke gilt die jeweilige eidgenössische Anleitung.
 
-1.01.2011 b) zwischen ihnen und den Eigentümern oder Eigentümerinnen ein Interessen- oder Abhängigkeitsverhältnis besteht;
-
-- c) Objekte zu schätzen sind, die sie in den letzten drei Jahren als Planer oder als Unternehmer erstellt oder umgebaut haben;
-
-- d) wenn andere Umstände sie als befangen erscheinen lassen.
+<sup>4</sup> Der Werteinfluss von Wohn- und Nutzniessungsrechten auf Bewertungsobjekte wird bei der Wertermittlung nicht berücksichtigt.
 
 #### Art. 11
 
-**Amtsgeheimnis**
+**Bewertungsarten 1. Antrag mit Bewertungspflicht**
 
-Die an der Schätzung beteiligten Amtspersonen sind zur Verschwiegenheit verpflichtet.
+<sup>1</sup> Eigentümerinnen oder Eigentümer haben bei folgenden Tatbeständen unverzüglich nach Vollendung des Vorhabens dem Amt einen Antrag zur Bewertung einzureichen:
+
+- a) bei wesentlichen Investitionen;
+- b) bei Grundstücksteilungen, bei denen eine Aufteilung von Gebäuden auf mehrere Grundstücke erfolgt;
+- c) bei Umwandlung in Stockwerkeigentum oder in Miteigentum mit Nutzungs- und Verwaltungsordnung.
+
+<sup>2</sup> Wird kein Gesuch eingereicht, erfolgt die Bewertung von Amts wegen unter Erhebung der ordentlichen Kosten sowie der zusätzlichen Kosten.
 
 #### Art. 12
 
-**Herausgabe von Daten**
+**2. Antrag ohne Bewertungspflicht**
 
-<sup>1</sup> Die für den Vollzug dieses Gesetzes notwendigen Angaben sind auf Verlangen des Amtes zur Verfügung zu stellen.
-
-<sup>2</sup> Der Gebäudeversicherungsanstalt[^12-1], der kantonalen und kommunalen Steuerverwaltung, dem Grundbuchinspektorat und dem Handelsregister[^12-2], den Grundbuchämtern sowie dem Amt für Landwirtschaft, Strukturverbesserung und Vermessung[^12-3] können die für die Erfüllung ihrer Aufgaben notwendigen Daten vom Amt mittels eines elektronischen Abrufverfahrens zugänglich gemacht werden.
-
-[^12-1]: Nunmehr Gebäudeversicherung Graubünden
-[^12-2]: Richtig: … dem Grundbuchinspektorat und Handelsregister
-[^12-3]: Nunmehr Amt für Landwirtschaft und Geoinformation 4 1.01.2011
-
-### IV. Rechtsmittel
+<sup>1</sup> Eigentümerinnen und Eigentümer, die Gebäudeversicherung Graubünden, die Gemeinden sowie die kantonalen und kommunalen Steuerbehörden können jederzeit auf eigene Kosten schriftlich eine Bewertung beantragen.
 
 #### Art. 13
 
-**Beschwerde**
+**3. Revisionsbewertung**
 
-<sup>1</sup> Die Eigentümer und Eigentümerinnen oder bei Stockwerkeigentum die Verwaltung für die Liegenschaft als Ganzes sind befugt, gegen die Schätzung und gegen die Gebührenrechnung innert 30 Tagen seit Mitteilung beim Amt schriftlich Beschwerde zu erheben.
-
-<sup>2</sup> Der Entscheid des Amtes kann mit Beschwerde innert 30 Tagen seit Mitteilung beim Verwaltungsgericht angefochten werden.
-
-### V. Kosten und Gebühren
+<sup>1</sup> Die Bewertungen der bebauten Bewertungsobjekte werden in der Regel von Amts wegen alle zehn Jahre gemeindeweise revidiert. Davon ausgenommen sind Objekte, deren Bewertungen weniger als drei Jahre alt sind.
 
 #### Art. 14
 
-**Kosten der Schätzung**
+**Bewertung von Grundstücken der Eidgenossenschaft**
 
-<sup>1</sup> Die Kosten der amtlichen Schätzungen werden durch Kostenanteile und Gebühren gedeckt, die bei den Benützern und Benützerinnen der Schätzungswerte sowie bei den Eigentümern und Eigentümerinnen erhoben werden.
-
-<sup>2</sup> Die Regierung legt nach Massgabe des Interesses die Ansätze für die Kostenanteile und die Gebühren aufgrund einer Vollkostenrechnung jährlich fest.
+<sup>1</sup> Grundstücke im Eigentum der Schweizerischen Eidgenossenschaft werden nur auf Antrag hin bewertet.
 
 #### Art. 15
 
-**Kostenanteile**
+**Eröffnung**
 
-<sup>1</sup> Für die Vornahme der Schätzungen und für die Verwendung der Werte der amtlichen Schätzungen werden folgende Kostenanteile erhoben:
+<sup>1</sup> Die Bewertung und eine allfällige Gebührenrechnung gemäss den Artikeln 16 und 17 werden den Eigentümerinnen und Eigentümern in Form einer anfechtbaren Verfügung eröffnet.
 
-- a) von den Gemeinden höchstens 20 Rappen je 1 000 Franken Steuerwert der laufenden Schätzungen;
+<sup>2</sup> Bei Stockwerkeigentum ergehen folgende Verfügungen:
 
-- b)[^15-1]von der Gebäudeversicherung jährlich höchstens 30 Rappen je 1 000 Franken der im betreffenden Jahr geschätzten Neu¬werte der versicherten Gebäude;
+- a) bei der erstmaligen Bewertung:
+  - 1\. an die Eigentümerinnen und Eigentümer: Verfügung mit Miet-, Ertrags- und Verkehrswert,
+  - 2\. an die Verwaltung: Verfügung über Neuwert und Zeitwert, Zusammenzug aller Grundstücke sowie Gebührenrechnung über das gesamte Stockwerkeigentum;
+- b) bei nachfolgenden Bewertungen:
+  - 1\. an die Eigentümerinnen und Eigentümer: Verfügung mit Miet-, Ertrags- und Verkehrswert sowie allfällige Gebührenrechnung,
+  - 2\. an die Verwaltung: Verfügung über Neuwert und Zeitwert, Zusammenzug aller Grundstücke sowie allfällige Gebührenrechnung über den allgemeinen Teil.
 
-- c) von der kantonalen Steuerverwaltung höchstens 20 Rappen je 1 000 Franken Steuerwert der laufenden Schätzungen;
+<sup>3</sup> Die Bewertungen werden der Gebäudeversicherung Graubünden, den Gemeinden, den Grundbuchämtern, der kantonalen Steuerverwaltung sowie weiteren kantonalen Amtsstellen zugestellt, soweit dies für die Erfüllung ihrer Aufgaben notwendig ist. Allfällige Rechnungen ergehen gemäss den Artikeln 16 bis 18.
 
-- d) von anderen kantonalen Ämtern, welche Daten übernehmen, die Kosten in Höhe des anteilmässigen Aufwandes für die Erhebung und den Transfer.
-
-<sup>2</sup> Bei Zweit- und späteren Schätzungen von Wasserkraft- und Transportanlagen betragen die Kostenanteile der Gemeinden und der kantonalen Steuerverwaltung höchstens 5 Rappen je 1 000 Franken Steuerwert.
-
-[^15-1]: Fassung gemäss Artikel 48 Ziffer 2 Gebäudeversicherungsgesetz; BR 850.100 am 1. Januar 2011 in Kraft getreten. 1.01.2011 5
+## 3. Gebühren und Kostenanteile
 
 #### Art. 16
 
-**Gebühren für Schätzungsverfahren**
+**Allgemein**
 
-<sup>1</sup> Der Rahmen für die Gebühr, die durch die Eigentümer und Eigentümerinnen oder Antragsstellenden zu entrichten ist, beträgt zwischen 100 Franken und 20 000 Franken je Grundstück.
+<sup>1</sup> Die Kosten der amtlichen Bewertungen werden durch Gebühren und Kostenanteile gedeckt.
 
-<sup>2</sup> Innerhalb des Gebührenrahmens ist die Schätzungsgebühr wie folgt zu bemessen:
+<sup>2</sup> Die Kosten der Antragsbewertungen werden durch Gebühren gedeckt, die zu Lasten der Eigentümerinnen und Eigentümer oder der Antragsstellenden gehen.
 
-- a) bei Neubauten oder Neuschätzungen höchstens 1,2 Promille des Verkehrswertes, beziehungsweise des Zeitwertes, wenn nur der Neu- und Zeitwert zu schätzen sind;
+<sup>3</sup> Die Kosten der Revisionsbewertungen werden gedeckt durch:
 
-- b) bei Umbauten und Renovationen höchstens 1,2 Promille des aufgewendeten Betrages;
+- a) Kostenanteile der Gebäudeversicherung Graubünden und der kantonalen Steuerverwaltung;
+- b) Gebühren der Gemeinden;
+- c) Gebühren der Eigentümerinnen und Eigentümer, falls wesentliche Investitionen getätigt wurden.
 
-- c) bei Umwandlung in Stockwerkeigentum oder Miteigentum mit Nutzungs- und Verwaltungsordnung höchstens 0,3 Promille des Verkehrswertes.
-
-<sup>3</sup> Für Schätzungsgutachten erfolgt die Rechnungsstellung nach Aufwand.
-
-### VI. Schlussbestimmungen
+<sup>4</sup> Die Regierung legt die Ansätze für die Gebühren und die Gebührendegression aufgrund einer Kostenrechnung fest.
 
 #### Art. 17
 
-**Übergangsrecht**
+**Gebühren der Eigentümerinnen und Eigentümer sowie der Antragsstellenden**
 
-<sup>1</sup> Bei In-Kraft-Treten dieses Gesetzes bereits eingeleitete Verfahren werden nach bisherigem Recht zu Ende geführt.
+<sup>1</sup> Die von den Eigentümerinnen und Eigentümern sowie den Antragsstellenden zu entrichtende Gebühr beträgt minimal 150 Franken und maximal 25 000 Franken pro Bewertungsobjekt. Bei Stockwerkeigentum beträgt die Gebühr minimal 30 Franken und maximal 25 000 Franken pro Bewertungsobjekt.
 
-<sup>2</sup> Für Entscheide, die nach In-Kraft-Treten dieses Gesetzes eröffnet werden, bestimmt sich das Verfahren nach neuem Recht.
+<sup>2</sup> Die Gebühren werden wie folgt bemessen:
+
+- a) höchstens 1,7 Promille des Neuwerts bei:
+  - 1\. einer erstmaligen Bewertung,
+  - 2\. Anträgen ohne Bewertungspflicht;
+- b) höchstens 1,7 Promille des aufgewendeten Betrags bei:
+  - 1\. Investitionen im Falle von Anträgen mit Bewertungspflicht,
+  - 2\. Revisionsbewertungen mit Investitionen;
+- c) höchstens 1,4 Promille des Neuwerts:
+  - 1\. wenn nur der Neu- und Zeitwert bewertet werden (Art. 9 Abs. 2),
+  - 2\. bei wesentlichen Grundstücksteilungen;
+- d) höchstens 0,3 Promille des Neuwerts bei Umwandlung in:
+  - 1\. Stockwerkeigentum,
+  - 2\. Miteigentum mit Nutzungs- und Verwaltungsordnung,
+  - 3\. Baurecht.
+
+<sup>3</sup> Bei Bewertungsobjekten im Baurecht wird bei der erstmaligen Bewertung dem Baurechtsgeber eine Gebühr von 150 Franken belastet. Bei weiteren Anträgen des Baurechtgebers wird für eine Bewertung die Gebühr nach Zeitaufwand erhoben. Beim Baurechtsnehmer werden die Gebühren nach Absatz 2 erhoben.
+
+<sup>4</sup> Für Bewertungsgutachten sowie für amtliche Bewertungen von unbebauten Bewertungsobjekten erfolgt die Rechnungsstellung nach Aufwand.
+
+<sup>5</sup> Bei ungenügender Wahrnehmung der Mitwirkungspflicht können nebst den ordentlichen Gebühren die zusätzlichen Kosten verrechnet werden.
 
 #### Art. 18
 
-**Referendum und In-Kraft-Treten**
+**Gebühren und Kostenanteile von weiteren Leistungsempfängern**
 
-<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+<sup>1</sup> Zwischen den nachstehenden drei Leistungsempfängern wird folgender Kostenverteilschlüssel angestrebt:
 
-<sup>2</sup> Die Regierung bestimmt den Zeitpunkt des In-Kraft-Tretens[^18-1] dieses Gesetzes.
+- a) 50 Prozent für die Gebäudeversicherung Graubünden;
+- b) 25 Prozent für die Gemeinden;
+- c) 25 Prozent für die kantonale Steuerverwaltung.
 
-[^18-1]: Die Referendumsfrist am 13. Dezember 2006 unbenutzt abgelaufen. Mit RB vom 19. Dezember 2006 auf den 1. Januar 2007 in Kraft gesetzt. 6 1.01.2011
+<sup>2</sup> Das Amt erhebt von den Gemeinden bei Revisionsbewertungen eine Gebühr von höchstens 0,15 Promille des Neuwerts.
+
+<sup>3</sup> Das Amt erhebt von der Gebäudeversicherung Graubünden und von der kantonalen Steuerverwaltung Kostenanteile. Diese decken Ende Jahr den offenen Saldo der Kostenrechnung des Amts. Der Kostenanteil der Gebäudeversicherung Graubünden darf dabei für Revisionsbewertungen 0,3 Promille des Neuwerts nicht überschreiten. Der Kostenanteil der kantonalen Steuerverwaltung darf dabei für Revisionsbewertungen 0,15 Promille des Neuwerts nicht überschreiten.
+
+## 4. Rechtsschutz
+
+#### Art. 19
+
+**Einsprache**
+
+<sup>1</sup> Die Eigentümerinnen und Eigentümer oder bei Stockwerkeigentum die Verwaltung für die Immobilie als Ganzes sind befugt, gegen die Bewertung und gegen die Gebührenrechnung innert 30 Tagen seit Mitteilung beim Amt schriftlich Einsprache zu erheben.
+
+<sup>2</sup> Die Einsprache muss einen Antrag und eine Begründung enthalten. Sie ist zu unterzeichnen und unter Beilage der verfügbaren Beweismittel einzureichen.
+
+<sup>3</sup> Genügt eine Einsprache den gesetzlichen Erfordernissen nicht oder ist sie in unziemlicher Form abgefasst, unleserlich oder unnötig umfangreich, wird eine angemessene Frist zur Behebung des Mangels angesetzt mit der Androhung, dass auf die Eingabe sonst nicht eingetreten werde.
+
+#### Art. 20
+
+**Beschwerde**
+
+<sup>1</sup> Gegen den Einspracheentscheid des Amts kann innert 30 Tagen seit Mitteilung beim Obergericht schriftlich Beschwerde erhoben werden.
+
+## 5. Schlussbestimmungen
+
+#### Art. 21
+
+**Hängige Bewertungsverfahren, Gebühren und Kostenanteile**
+
+<sup>1</sup> Bei Inkrafttreten dieses Gesetzes gilt für bereits eingeleitete Bewertungsverfahren was folgt:
+
+- a) Antragsbewertungen werden materiell und formell nach bisherigem Recht zu Ende geführt;
+- b) Revisionsbewertungen im vierten Revisionsturnus werden materiell und formell nach bisherigem Recht zu Ende geführt.
+
+<sup>2</sup> Gebühren und Kostenanteile werden auch bei hängigen Bewertungsverfahren nach neuem Recht erhoben. Einzig bei Revisionsbewertungen im vierten Revisionsturnus werden den Gemeinden die Kostenanteile nach altem Recht verrechnet.
+
+#### Art. 22
+
+**Eröffnung von Bewertungsverfügungen bei Stockwerkeigentum**
+
+<sup>1</sup> Die Eröffnung von Verfügungen bei Stockwerkeigentum gemäss Artikel 15 Absatz 2 erfolgt erst mit der Einführung der neuen Bewertungssoftware. Bis dahin erfolgen die Eröffnungen nach altem Recht.
+
+#### Art. 23
+
+**Revisionsbewertung bei Anlagen der Energieproduktion, Energieübertragung und Energieverteilung**
+
+<sup>1</sup> Die erste Revisionsbewertung bei Anlagen der Energieproduktion, Energieübertragung und Energieverteilung nach neuem Recht erfolgt im Jahre 2019. Dabei wird bei den Vergangenheitsdaten auf die Betriebsergebnisse der Geschäftsjahre 2008/2009 bis 2017/2018 beziehungsweise 2009 bis 2018 abgestellt.
+
+2017-034
