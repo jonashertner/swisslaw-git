@@ -3,20 +3,19 @@ canton: SG
 number: "815.5"
 title: Verordnung zum Bundesgesetz über die Verrechnungssteuer
 language: de
-version: 2013-01-01
-valid_until: 2024-12-31
-version_adopted: 2012-12-11
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 1998-12-08
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/815.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1794/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3698/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über die Verrechnungssteuer
 
-vom 08.12.1998 (Stand 01.01.2013)
+vom 08.12.1998 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -45,15 +44,12 @@ als Verordnung:[^ingress-3]
 - c) die Abrechnung mit den Gemeindesteuerämtern und der eidgenössischen Steuerverwaltung;
 - d) Festsetzung und Geltendmachung von Rückleistungen nach Art. 58 Abs. 1 des Bundesgesetzes über die Verrechnungssteuer[^1-2], wenn die eidgenössische Steuerverwaltung eine vorsorgliche Kürzung vorgenommen hat;
 - e) die Erhebung von verwaltungsrechtlichen Klagen nach Art. 58 Abs. 4 des Bundesgesetzes über die Verrechnungssteuer;[^1-3]
-- f) die Führung des Registers über die bewilligten Rückerstattungen nach Art. 67 Abs. 3 der Vollziehungsverordnung zum Bundesgesetz über die Verrechnungssteuer vom 19. Dezember 1966[^1-4] für natürliche Personen, die der ergänzenden ordentlichen Veranlagung nach Art. 111 des Steuergesetzes[^1-5] unterliegen;
-- g) die Rückerstattung in Erbfällen.[^1-6]
+- f) …
+- g) …
 
 [^1-1]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
 [^1-2]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
 [^1-3]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
-[^1-4]: SR [642.211](https://db.clex.ch/link/Bund/642.211/de).
-[^1-5]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
-[^1-6]: Art. 58 f. der eidg Vollziehungsverordnung zum BG über die Verrechnungssteuer vom 19. Dezember 1966, SR [642.211](https://db.clex.ch/link/Bund/642.211/de).
 
 #### Art. 2
 
@@ -86,22 +82,21 @@ als Verordnung:[^ingress-3]
 
 **Antrag im ordentlichen Veranlagungsverfahren**
 
-<sup>1</sup> Der Rückerstattungsantrag wird unter Verwendung des amtlichen Formulars dem Gemeindesteueramt jener Gemeinde eingereicht, in welcher der Antragsteller am Ende des Kalenderjares, in dem die steuerbare Leistung fällig wurde, seinen Wohnsitz hat.[^4-1]
+<sup>1</sup> Der Rückerstattungsantrag wird unter Verwendung des amtlichen Formulars dem Gemeindesteueramt jener Gemeinde eingereicht, in der die Antragstellerin oder der Antragsteller am Ende des Kalenderjahres, in dem die steuerbare Leistung fällig wurde, ihren oder seinen Wohnsitz hat.[^4-1]
 
-<sup>2</sup> Steuerpflichtige, die der ergänzenden ordentlichen Veranlagung nach Art. 111 des Steuergesetzes[^4-2] unterliegen, reichen das Antragsformular dem kantonalen Steueramt ein.
+<sup>2</sup> …
 
 [^4-1]: Art. 30 Abs. 1 des BG über die Verrechnungssteuer vom 13. Oktober 1965, SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
-[^4-2]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
 
 #### Art. 5
 
 **Antrag in besonderen Fällen**
 
-<sup>1</sup> Der Antrag auf Rückerstattung der Verrechnungssteuer in Erbfällen wird dem kantonalen Steueramt eingereicht.
+<sup>1</sup> …
 
 <sup>2</sup> Für den Antrag auf vorzeitige Rückerstattung nach Art. 29 Abs. 3 des Bundesgesetzes über die Verrechnungssteuer wird Art. 4 dieser Verordnung sachgemäss angewendet.
 
-<sup>3</sup> Der Rückerstattungsanspruch für das dem Eintritt der Volljährigkeit vorangegangene Fälligkeitsjahr wird vom Inhaber der elterlichen Sorge geltend gemacht.
+<sup>3</sup> Der Rückerstattungsanspruch für das dem Eintritt der Volljährigkeit vorangegangene Fälligkeitsjahr wird von der Inhaberin oder vom Inhaber der elterlichen Sorge geltend gemacht.
 
 ### 2. Befriedigung des Anspruchs
 
@@ -120,14 +115,13 @@ als Verordnung:[^ingress-3]
 
 #### Art. 7
 
-**Rückerstattung in Erbfällen und Fälle vorzeitiger Rückerstattung**
+**Fälle vorzeitiger Rückerstattung**
 
-<sup>1</sup> In Erbfällen[^7-1] und in Fällen vorzeitiger Rückerstattung[^7-2] wird die Verrechnungssteuer in der Regel ausbezahlt.
+<sup>1</sup> In Fällen vorzeitiger Rückerstattung[^7-1] wird die Verrechnungssteuer in der Regel ausbezahlt.
 
 <sup>2</sup> Die Verrechnung mit offenen Staats- und Gemeindesteuern bleibt vorbehalten.
 
-[^7-1]: Art. 58 f. der eidg Vollziehungsverordnung zum BG über die Verrechnungssteuer vom 19. Dezember 1966, SR [642.211](https://db.clex.ch/link/Bund/642.211/de).
-[^7-2]: Art. 29 Abs. 3 des BG über die Verrechnungssteuer vom 13. Oktober 1965, SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
+[^7-1]: Art. 29 Abs. 3 des BG über die Verrechnungssteuer vom 13. Oktober 1965, SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
 
 #### Art. 7bis
 
@@ -143,9 +137,9 @@ als Verordnung:[^ingress-3]
 
 **Einreichungsfristen**
 
-<sup>1</sup> Hat der Antragssteller für die Staats- und Gemeindesteuern eine Steuererklärung abzugeben, gilt die Einreichungsfrist für die Steuererklärung auch für den Rückerstattungsantrag.
+<sup>1</sup> Hat die Antragstellerin oder der Antragsteller für die Staats- und Gemeindesteuern eine Steuererklärung abzugeben, gilt die Einreichungsfrist für die Steuererklärung auch für den Rückerstattungsantrag.
 
-<sup>2</sup> Die Einreichungsfrist kann unter Beachtung der Anspruchsverwirkung[^8-1] auf begründetes Gesuch des Antragstellers erstreckt werden.
+<sup>2</sup> Die Einreichungsfrist kann unter Beachtung der Anspruchsverwirkung[^8-1] auf begründetes Gesuch der Antragstellerin oder des Antragstellers erstreckt werden.
 
 [^8-1]: Art. 32 Abs. 1 des BG über die Verrechnungssteuer vom 13. Oktober 1965, SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
 
@@ -188,7 +182,7 @@ als Verordnung:[^ingress-3]
 
 **Rückleistung zurückerstatteter Verrechnungssteuern**
 
-<sup>1</sup> Hat die eidgenössische Steuerverwaltung eine vorsorgliche Kürzung vorgenommen, macht das kantonale Steueramt die Rückleistung der Verrechnungssteuer gegenüber den Antragstellern und anderen Personen geltend, die in den Genuss der beanstandeten Rückerstattung gelangt sind.[^12-1]
+<sup>1</sup> Hat die eidgenössische Steuerverwaltung eine vorsorgliche Kürzung vorgenommen, macht das kantonale Steueramt die Rückleistung der Verrechnungssteuer gegenüber den Antragstellenden und anderen Personen geltend, die in den Genuss der beanstandeten Rückerstattung gelangt sind.[^12-1]
 
 [^12-1]: Art. 58 Abs. 1 des BG über die Verrechnungssteuer vom 13. Oktober 1965, SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
 
