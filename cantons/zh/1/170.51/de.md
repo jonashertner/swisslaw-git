@@ -4,10 +4,10 @@ number: "170.51"
 title: Publikationsverordnung (PublV)
 short: PublV
 language: de
-nachtrag: "105"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2017-10-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-170_51-2017_10_25-2018_01_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-170_51-2017_10_25-2018_01_01-127.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ Erlasse, rechtsetzende Vereinbarungen und andere Texte gemäss § 6 Abs. 2 und 3
 
 **1**
 
-- 1\. 7. 19 - 105 § 5. <sup>1</sup> Das Register zu den Gesetzessammlungen enthält ein Sachregister, ein systematisches Register und eine Liste der Erlasse, bei denen die Rechtskraft festgestellt worden ist, die aber weder ganz noch teilweise in Kraft gesetzt worden sind.
+- 1\. 1. 25 - 127 § 5. <sup>1</sup> Das Register zu den Gesetzessammlungen enthält ein Sachregister, ein systematisches Register und eine Liste der Erlasse, bei denen die Rechtskraft festgestellt worden ist, die aber weder ganz noch teilweise in Kraft gesetzt worden sind.
 
 **Register**
 
@@ -158,7 +158,7 @@ Das Amtsblatt führt für die amtlichen Texte die Rubrik «Rechtsetzung und poli
 
 **3**
 
-- 1\. 7. 19 - 105 § 14. <sup>1</sup> Die Staatskanzlei ermöglicht die automatische Zustellung amtlicher Texte zu bestimmten Rubriken (Push-Service).
+- 1\. 1. 25 - 127 § 14. <sup>1</sup> Die Staatskanzlei ermöglicht die automatische Zustellung amtlicher Texte zu bestimmten Rubriken (Push-Service).
 
 **Automatische Zustellung von amtlichen Texten**
 
@@ -234,13 +234,11 @@ Richtet sich ein Erlass an einen kleinen Kreis von Personen, kann er in der gedr
 
 <sup>1</sup> Das Behördenverzeichnis wird von der Staatskanzlei herausgegeben.
 
-<sup>2</sup> Die Staatskanzlei gibt den Staatskalender jährlich in gedruckter Form heraus.
+<sup>2</sup> . . .[^20-1]
 
-#### § 21
+§ 21.[^20-1]
 
-**Nicht amtliche Anzeigen**
-
-Nicht amtliche Anzeigen können in den Staatskalender aufgenommen werden, wenn sie weder rechts- noch sittenwidrig sind und überdies keine politische Werbung enthalten.
+[^20-1]: Aufgehoben durch RRB vom 23. Oktober 2024 (OS 79, 441; ABl 2024-11-08). In Kraft seit 1. Januar 2025.
 
 ### 3. Abschnitt: Betrieb der amtlichen Publikationsorgane und
 
@@ -258,7 +256,7 @@ des Behördenverzeichnisses
 
 **5**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Sie ergreift die technischen und organisatorischen Massnahmen, die notwendig sind, um den sicheren Betrieb der amtlichen Publikationsorgane und des Behördenverzeichnisses sicherzustellen.
 
@@ -284,31 +282,23 @@ Bei der Kantonalen Drucksachen- und Materialzentrale können als Jahresabonnemen
 
 - b. die LS als vollständige Sammlung und ihre regelmässigen Nachträge,
 
-- c. Separatdrucke gemäss § 6,
+- c. Separatdrucke gemäss § 6.
 
-- d. der Staatskalender.
-
-#### § 26
+- d. . . .[^25-1]
 
 **Gebührenpflicht**
 
-<sup>1</sup> Die Staatskanzlei erhebt Gebühren für a. die Veröffentlichung amtlicher Texte im Amtsblatt,
+§ 26. <sup>1</sup> Die Staatskanzlei erhebt Gebühren für a. die Veröffentlichung amtlicher Texte im Amtsblatt,
 
-- b. den Bezug einer Gesetzessammlung in gedruckter Form,
-
-- c. den Bezug von Separatdrucken oder des Staatskalenders,
-
-- d. die Veröffentlichung von nicht amtlichen Anzeigen im Amtsblatt oder im Staatskalender.
+- b. den Bezug einer Gesetzessammlung in gedruckter Form, c.[^25-2] den Bezug von Separatdrucken, d.[^25-2] die Veröffentlichung von nicht amtlichen Anzeigen im Amtsblatt.
 
 <sup>2</sup> Für Veröffentlichungen in der Rubrik «Rechtsetzung und politische Rechte» des Amtsblattes werden keine Gebühren erhoben.
 
 <sup>3</sup> Veröffentlicht eine Meldestelle gleichzeitig mehrere amtliche Texte im Amtsblatt, ist für jeden sach- oder personenbezogenen Text die Gebühr zu entrichten.
 
-#### § 27
-
 **Gebührenansätze**
 
-<sup>1</sup> Die Gebühren betragen:
+§ 27.[^25-2] <sup>1</sup> Die Gebühren betragen:
 
 Fr.
 
@@ -324,15 +314,16 @@ Fr.
 
 - d. Nachträge der Loseblattsammlung den Kosten
 
-**25 5 bis 20**
+**5 bis 20**
 
-- e. Staatskalender
+- e. Separatdrucke, nach Umfang
 
-- f. Separatdrucke, nach Umfang
-
-<sup>2</sup> Sofern die Leistung mehrwertsteuerpflichtig ist, ist die Mehrwertsteuer in der Gebühr gemäss Abs. 1 lit. a enthalten, während sie zu denjenigen gemäss lit. b–f hinzugerechnet wird.
+<sup>2</sup> Sofern die Leistung mehrwertsteuerpflichtig ist, ist die Mehrwertsteuer in der Gebühr gemäss Abs. 1 lit. a enthalten, während sie zu denjenigen gemäss lit. b–e hinzugerechnet wird.
 
 <sup>3</sup> Für nicht amtliche Anzeigen richtet sich die Gebühr nach dem aktuellen Marktpreis für Inserate in anderen Druckerzeugnissen.
+
+[^25-1]: Aufgehoben durch RRB vom 23. Oktober 2024 (OS 79, 441; ABl 2024-11-08). In Kraft seit 1. Januar 2025.
+[^25-2]: Fassung gemäss RRB vom 23. Oktober 2024 (OS 79, 441; ABl 2024-11-08). In Kraft seit 1. Januar 2025.
 
 ### 5. Abschnitt: Verwertung durch Dritte
 
@@ -352,10 +343,6 @@ Die Verwertung amtlicher Texte der amtlichen Publikationsorgane und des Behörde
 
 - e. Texte mit besonderen Personendaten dürfen nur während des Suchzeitraums gemäss § 13 Abs. 3 und 4 der Öffentlichkeit zugänglich gemacht werden. Danach sind sie zu entfernen.
 
-**7**
-
-- 1\. 7. 19 - 105
-
 ### 6. Abschnitt: Einsichtnahmestelle
 
 [^h6AbschnittEinsic-1]: SR 170.512.
@@ -363,6 +350,10 @@ Die Verwertung amtlicher Texte der amtlichen Publikationsorgane und des Behörde
 #### § 29
 
 Die Staatskanzlei ist Einsichtnahmestelle gemäss Art. 18 des Bundesgesetzes vom 18. Juni 2004 über die Sammlungen des Bundesrechts und das Bundesblatt[^h6AbschnittEinsic-1] und gemäss § 21 Abs. 2 PublG.
+
+**7**
+
+- 1\. 1. 25 - 127
 
 ### 7. Abschnitt: Übergangsbestimmung
 
