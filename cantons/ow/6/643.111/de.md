@@ -4,13 +4,12 @@ number: "643.111"
 title: Ausführungsbestimmungen zum Allgemeinen Gebührengesetz
 short: AB AGG
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-12-19
+version: 2025-01-01
+version_adopted: 2024-10-22
 adopted: 2005-06-07
 in_force: 2005-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/643.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1729/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1895/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1729/pdf_file"
 
 (AB AGG)
 
-vom 07.06.2005 (Stand 01.01.2018)
+vom 07.06.2005 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -77,7 +76,7 @@ beschliesst:
 <sup>1</sup> Für die einzelnen Verwaltungsgeschäfte der Staatskanzlei werden folgende Gebühren erhoben (Beträge in Fr.):
 
 - a. …
-- b Beglaubigung für das Ausland oder Ausstellung einer Apostille — 20.–
+- b Beglaubigung für das Ausland oder Ausstellung einer Apostille — 30.–
 - c. Rechtskraftbescheinigung — 30.–
 
 <sup>2</sup> Die Staatskanzlei kann auf Gebühren für die Legalisation ganz oder teilweise verzichten, wenn die entsprechenden Urkunden ausschliesslich gemeinnützigen Zwecken dienen.
@@ -160,6 +159,8 @@ Geändert durch
 
 \- Ausführungsbestimmungen über das Konsolidierung- und Aufgabenüberprüfungspaket vom 8. November 2016 (OGS 2016, 64),
 
-\- AB zur Bürgerrechtsverordnung vom 19. Dezember 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 69)
+\- AB zur Bürgerrechtsverordnung vom 19. Dezember 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 69),
+
+\- Nachtrag vom 22. Oktober 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 26)
 
 OGS 2005, 39
