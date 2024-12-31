@@ -3,20 +3,19 @@ canton: BL
 number: "212.34"
 title: Verordnung über den Normalarbeitsvertrag für Hauspersonal
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-06-05
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 1998-12-15
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/212.34"
-pdf: "https://bl.clex.ch/api/de/versions/2246/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4119/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Normalarbeitsvertrag für Hauspersonal
 
-Vom 15.12.1998 (Stand 01.01.2019)
+Vom 15.12.1998 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -418,7 +417,7 @@ beschliesst:
 
 <sup>1</sup> Arbeitgeberschaft und Hauspersonal haben die Vorschriften über die Einwohnerkontrolle (Schriftenabgabe), die Beitragspflicht an AHV, IV und BVG sowie die Erwerbsersatzordnung (EO) zu beachten.
 
-<sup>2</sup> Die Arbeitgeberschaft, die ausländisches Personal anstellen will, hat sich vor Vertragsabschluss beim Amt für Migration und Bürgerrecht und beim Kantonalen Amt für Industrie, Gewerbe und Arbeit über die erforderlichen Bewilligungen und Auflagen zu erkundigen.
+<sup>2</sup> Die Arbeitgeberschaft, die ausländisches Personal anstellen will, hat sich vor Vertragsabschluss beim Amt für Migration, Integration und Bürgerrecht und beim Kantonalen Amt für Industrie, Gewerbe und Arbeit über die erforderlichen Bewilligungen und Auflagen zu erkundigen.
 
 #### § 35
 
