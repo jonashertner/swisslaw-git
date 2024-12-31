@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts dire
 short: LHID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: fr
-version: 2024-03-01
+version: 2025-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240301-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20250101-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240301/fr"
 
 (LHID)
 
-du 14 décembre 1990 (État le 1<sup>er</sup> mars 2024)
+du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 127, al. 3, et 129, al. 1 et 2, de la Constitution[^ingress-1],[^ing
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2000 sur la coordination et la simplification des procédures de taxation des impôts directs dans les rapports intercantonaux, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3587](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 [^ingress-3]: [FF 1983 III 1](https://fedlex.data.admin.ch/eli/fga/1983/3_1_1_1)
 
@@ -82,20 +82,24 @@ Les cantons prélèvent les impôts suivants:
 
 <sup>2</sup>
 
-Les personnes physiques qui, au regard du droit fiscal, ne sont ni domiciliées ni en séjour en Suisse sont assujetties à l’impôt à raison du rattachement économique lorsque:
+Les personnes physiques qui, au regard du droit fiscal, ne sont ni domiciliées ni en séjour en Suisse sont assujetties à l’impôt à raison du rattachement économique dans les cas suivants:[^4-2]
 
-- a. elles exercent une activité lucrative dans le canton;
-- b.[^4-2] en leur qualité de membres de l’administration ou de la direction d’une personne morale qui a son siège ou un établissement stable dans le canton, elles reçoivent des tantièmes, jetons de présence, indemnités fixes, participations de collaborateur ou autres rémunérations;
+- a.[^4-3] elles exercent une activité lucrative dépendante ou indépendante dans le canton;
+- a<sup>bis</sup>.[^4-4] elles exercent une activité lucrative dépendante pour un employeur ayant son siège, son administration effective ou un établissement stable dans le canton, et un droit d’imposition sur les revenus de l’activité lucrative exercée à l’étranger est accordé à la Suisse en vertu de l’accord fiscal international applicable conclu avec l’État limitrophe concerné;
+- b.[^4-5] en leur qualité de membres de l’administration ou de la direction d’une personne morale qui a son siège ou un établissement stable dans le canton, elles reçoivent des tantièmes, jetons de présence, indemnités fixes, participations de collaborateur ou autres rémunérations;
 - c. elles sont titulaires ou usufruitières de créances garanties par un gage immobilier ou un nantissement sur des immeubles sis dans le canton;
 - d. ensuite d’une activité pour le compte d’autrui régie par le droit public, elles reçoivent des pensions, des retraites ou d’autres prestations d’un employeur ou d’une caisse de prévoyance qui a son siège dans le canton;
 - e. elles perçoivent des revenus provenant d’institutions suisses de droit privé ayant trait à la prévoyance professionnelle ou d’autres formes reconnues de prévoyance individuelle liée;
-- f.[^4-3] en raison de leur activité dans le trafic international à bord d’un bateau, d’un aéronef ou d’un véhicule de transports routiers, elles reçoivent un salaire ou d’autres rémunérations d’un employeur ayant son siège ou un établissement stable dans le canton; les marins travaillant à bord de navires de haute mer sont exemptés de cet impôt;
-- g.[^4-4] elles servent d’intermédiaires dans des opérations de commerce portant sur des immeubles sis dans le canton.
+- f.[^4-6] en raison de leur activité dans le trafic international à bord d’un bateau, d’un aéronef ou d’un véhicule de transports routiers, elles reçoivent un salaire ou d’autres rémunérations d’un employeur ayant son siège, son administration effective ou un établissement stable dans le canton; les marins travaillant à bord d’un navire battant pavillon suisse exploité par un tel employeur sont exemptés de cet impôt;
+- g.[^4-7] elles servent d’intermédiaires dans des opérations de commerce portant sur des immeubles sis dans le canton.
 
 [^4-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 5155](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
-[^4-2]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
-[^4-3]: Nouvelle teneur selon l’annexe 2 ch. II 3 de la L du 17 juin 2016 sur l’approvisionnement du pays, en vigueur depuis le 1<sup>er</sup> juin 2017 ([RO 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308); [FF 2014 6859](https://fedlex.data.admin.ch/eli/fga/2014/1571)).
-[^4-4]: Introduite par le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 5155](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
+[^4-2]: Nouvelle teneur selon le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
+[^4-3]: Nouvelle teneur selon le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
+[^4-4]: Introduite par le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
+[^4-5]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
+[^4-6]: Nouvelle teneur selon le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
+[^4-7]: Introduite par le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 5155](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
 
 #### Art. 4a
 
@@ -104,7 +108,7 @@ Les personnes physiques qui, au regard du droit fiscal, ne sont ni domiciliées 
 Les privilèges fiscaux accordés en vertu de l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^4a-2] sont réservés.
 
 [^4a-1]: Introduit par l’annexe ch. II 8 de la LF du 22 juin 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^4a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^4a-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 4b
 
@@ -163,7 +167,7 @@ Le montant de l’impôt d’après la dépense doit être au moins égal à la 
 <sup>7</sup> Si les revenus provenant d’un État étranger y sont exonérés à la condition que la Suisse les impose, seuls ou avec d’autres revenus, au taux du revenu total, l’impôt est calculé non seulement sur la base des revenus mentionnés à l’al. 6, mais aussi de tous les éléments du revenu provenant de l’État-source qui sont attribués à la Suisse en vertu de la convention correspondante contre les doubles impositions.
 
 [^6-1]: Nouvelle teneur selon le ch. I 2 de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [FF 2011 5605](https://fedlex.data.admin.ch/eli/fga/2011/885)). Voir l’art. 78*e* ci-après.
-[^6-2]: Rectifiée par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^6-2]: Rectifiée par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Chapitre 2 Impôt sur le revenu
 
@@ -179,9 +183,32 @@ Le montant de l’impôt d’après la dépense doit être au moins égal à la 
 
 <sup>1ter</sup> Les rendements versés, en cas de vie ou de rachat, d’assurances de capitaux susceptibles de rachat et acquittées au moyen d’une prime unique sont imposables, sauf si ces assurances servent à la prévoyance. La prestation d’assurance est réputée servir à la prévoyance lorsqu’elle est versée à un assuré de 60 ans révolus, en vertu d’un contrat qui a duré au moins cinq ans et qui a été conclu avant le 66<sup>e</sup> anniversaire de ce dernier. Dans ce cas, la prestation est exonérée.[^7-7]
 
-<sup>2</sup> Les rentes viagères et les revenus provenant de contrats d’entretien viager sont imposables à raison de 40 %.[^7-8]
+<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr/xml/image/image1.png)
 
-<sup>3</sup> Chacun des investisseurs ajoute à ses propres éléments imposables sa part du revenu de placements collectifs au sens de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^7-9]; le revenu des parts de placements collectifs qui possèdent des immeubles en propriété directe est uniquement imposable lorsque l’ensemble des revenus du placement excède le rendement de ces immeubles.[^7-10]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr/xml/image/image2.png)
+
+Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d’entretien viager sont imposables à raison de leur part de rendement. Celle-ci se détermine comme suit:
+
+- a.
+
+  pour les prestations garanties provenant d’assurances de rentes viagères soumises à la loi du 2 avril 1908 sur le contrat d’assurance (LCA)[^7-8], le taux d’intérêt technique maximal (m) défini conformément à l’art. 36, al. 1, de la loi du 17 décembre 2004 sur la surveillance des assurances[^7-9] qui était applicable à la conclusion du contrat est déterminant pendant toute la durée de celui-ci:
+
+  - 1\. si le taux d’intérêt est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche:
+
+-
+
+  - 2\. si le taux d’intérêt est nul ou négatif, la part de rendement est de 0 %;
+
+- b. pour les prestations excédentaires réalisées sur les assurances de rentes viagères qui sont soumises à la LCA, elle est de 70 %;
+- c.
+
+  pour les prestations provenant d’assurances de rentes viagères étrangères ou de contrats de rentes viagères ou d’entretien viager, le rendement annualisé, augmenté de 0,5 point de pourcentage, des obligations émises par la Confédération pour une période de dix ans (r) au cours de l’année fiscale concernée et des neuf années précédentes est déterminant:
+
+  - 1\. si le rendement est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche:
+
+- 2\. si le rendement est nul ou négatif, la part de rendement est de 0 %.[^7-10]
+
+<sup>3</sup> Chacun des investisseurs ajoute à ses propres éléments imposables sa part du revenu de placements collectifs au sens de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^7-11]; le revenu des parts de placements collectifs qui possèdent des immeubles en propriété directe est uniquement imposable lorsque l’ensemble des revenus du placement excède le rendement de ces immeubles.[^7-12]
 
 <sup>4</sup>
 
@@ -190,40 +217,42 @@ Sont seuls exonérés de l’impôt:
 - a. le produit de l’aliénation des droits de souscription, lorsque les droits patrimoniaux font partie de la fortune privée du contribuable;
 - b. les gains en capital réalisés sur des éléments de la fortune privée du contribuable. L’art. 12, al. 2, let. a et d, est réservé;
 - c. les dévolutions de fortune ensuite d’une succession, d’un legs, d’une donation ou de la liquidation du régime matrimonial;
-- d.[^7-11] les versements provenant d’assurances de capitaux privées susceptibles de rachat, à l’exception des polices de libre-passage. L’al. 1<sup>ter</sup> est réservé;
+- d.[^7-13] les versements provenant d’assurances de capitaux privées susceptibles de rachat, à l’exception des polices de libre-passage. L’al. 1<sup>ter</sup> est réservé;
 - e. les prestations en capital versées par l’employeur ou par une institution de prévoyance professionnelle lors d’un changement d’emploi, lorsque le bénéficiaire les réinvesti dans le délai d’un an dans une institution de prévoyance professionnelle ou les utilise pour acquérir une police de libre-passage;
 - f. les subsides provenant de fonds publics ou privés;
 - g. les prestations versées en exécution d’une obligation fondée sur le droit de la famille, à l’exception de la pension alimentaire que le conjoint divorcé, séparé judiciairement ou de fait obtient pour lui-même et des contributions d’entretien que l’un des parents reçoit pour les enfants sur lesquels il a l’autorité parentale;
-- h.[^7-12] la solde du service militaire et l’indemnité de fonction pour service de protection civile, ainsi que l’argent de poche des personnes astreintes au service civil;
-- h<sup>bis</sup>.[^7-13] la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel déterminé par le droit cantonal, pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
+- h.[^7-14] la solde du service militaire et l’indemnité de fonction pour service de protection civile, ainsi que l’argent de poche des personnes astreintes au service civil;
+- h<sup>bis</sup>.[^7-15] la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel déterminé par le droit cantonal, pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
 - i. les versements à titre de réparation du tort moral;
 - k. les revenus perçus en vertu de la législation fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité;
-- l.[^7-14] les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr)[^7-15], pour autant que ces gains ne soient pas issus d’une activité lucrative indépendante;
-- l<sup>bis</sup>.[^7-16] les gains unitaires jusqu’à concurrence d’un montant d’un million de francs ou du montant supérieur fixé dans le droit cantonal provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
-- l<sup>ter</sup>.[^7-17] les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
-- m.[^7-18] les gains unitaires jusqu’au seuil fixé dans le droit cantonal provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e, de cette loi.
-- n.[^7-19] les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^7-20].
+- l.[^7-16] les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr)[^7-17], pour autant que ces gains ne soient pas issus d’une activité lucrative indépendante;
+- l<sup>bis</sup>.[^7-18] les gains unitaires jusqu’à concurrence d’un montant d’un million de francs ou du montant supérieur fixé dans le droit cantonal provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
+- l<sup>ter</sup>.[^7-19] les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
+- m.[^7-20] les gains unitaires jusqu’au seuil fixé dans le droit cantonal provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e, de cette loi.
+- n.[^7-21] les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^7-22].
 
 [^7-1]: Nouvelle expression selon l’annexe ch. 24 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)). Il a été tenu compte de cette mod. dans tout le texte.
 [^7-2]: Nouvelle teneur de la phrase selon le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^7-3]: Phrase introduite par le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^7-4]: Nouvelle teneur selon le ch. I 2 de la LF sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^7-5]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^7-5]: [RS 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
 [^7-6]: Introduit par le ch. I 2 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^7-7]: Introduit par le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-8]: Nouvelle teneur selon le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^7-10]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^7-11]: Nouvelle teneur selon le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-12]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
-[^7-13]: Introduite par le ch. I 2 de la LF du 17 juin 2011 sur l’exonération de la solde allouée pour le service du feu, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2595](https://fedlex.data.admin.ch/eli/fga/2010/508)).
-[^7-14]: Introduite par l’annexe ch. 3 de la LF du 18 déc. 1998 sur les maisons de jeu ([RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 137](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-15]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^7-16]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-17]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-18]: Introduite par le ch. I 2 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-19]: Introduite par l’annexe ch. 3 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
-[^7-20]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^7-8]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^7-9]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^7-10]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2022 sur l’imposition des rentes viagères et des formes de prévoyance similaires, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
+[^7-11]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^7-12]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^7-13]: Nouvelle teneur selon le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^7-14]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^7-15]: Introduite par le ch. I 2 de la LF du 17 juin 2011 sur l’exonération de la solde allouée pour le service du feu, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2595](https://fedlex.data.admin.ch/eli/fga/2010/508)).
+[^7-16]: Introduite par l’annexe ch. 3 de la LF du 18 déc. 1998 sur les maisons de jeu ([RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 137](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-17]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^7-18]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-19]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-20]: Introduite par le ch. I 2 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-21]: Introduite par l’annexe ch. 3 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^7-22]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 
 #### Art. 7a
 
@@ -264,7 +293,7 @@ L’al. 2 ne s’applique pas aux réserves issues d’apports de capital:
 <sup>6</sup> L’al. 1 ne s’applique aux apports et aux agios qui sont versés pendant la durée d’une marge de fluctuation du capital au sens des art. 653*s* ss du code des obligations (CO)[^7b-2] que dans la mesure où ils dépassent les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.[^7b-3]
 
 [^7b-1]: Introduit par le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^7b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^7b-3]: Introduit par l’annexe ch. 8 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 7c
@@ -369,7 +398,7 @@ Les art. 24*a* et 24*b* s’appliquent par analogie aux revenus provenant de bre
 Les déductions générales sont:
 
 - a.[^9-2] les intérêts passifs privés à concurrence du rendement imposable de la fortune au sens des art. 7 et 7*a*, augmenté d’un montant de 50 000 francs;
-- b.[^9-3] les charges durables et 40 % des rentes viagères versées par le débirentier;
+- b.[^9-3] les charges durables et la part de rendement au sens de l’art. 7, al. 2, let. c, des prestations fondées sur des contrats de rentes viagères ou d’entretien viager;
 - c. la pension alimentaire versée au conjoint divorcé, séparé judiciairement ou de fait, ainsi que les contributions d’entretien versées à l’un des parents pour les enfants sur lesquels il a l’autorité parentale, à l’exclusion toutefois des prestations versées en exécution d’une obligation d’entretien ou d’assistance fondée sur le droit de la famille;
 - d.[^9-4] les primes, cotisations et montants légaux, statutaires ou réglementaires versés à l’assurance-vieillesse et survivants, à l’assurance-invalidité et à des institutions de la prévoyance professionnelle;
 - e. les primes, cotisations et montants versés en vue de l’acquisition de droits contractuels dans des formes reconnues de la prévoyance individuelle liée, jusqu’à concurrence d’un montant déterminé;
@@ -388,7 +417,7 @@ Les déductions générales sont:
   - 3\. avoir obtenu au moins 3 % des voix lors des dernières élections au parlement d’un canton;
 
 - m.[^9-11] un montant déterminé par le droit cantonal pour chaque enfant dont la garde est assurée par un tiers, si l’enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son entretien et si les frais de garde, documentés, ont un lien de causalité direct avec l’activité lucrative, la formation ou l’incapacité de gain du contribuable;
-- n.[^9-12] les mises, à hauteur d’un pourcentage déterminé par le droit cantonal pour les gains de loterie ou d’opérations analogues; les cantons peuvent fixer le montant maximal de la déduction;
+- n.[^9-12] les mises, à hauteur d’un pourcentage déterminé par le droit cantonal pour les gains unitaires provenant des jeux d’argent non exonérés d’impôt selon l’art. 7, al. 4, let. l à m; les cantons peuvent fixer le montant maximal de la déduction;
 - o.[^9-13]
 
   les frais de formation et de formation continue à des fins professionnelles, frais de reconversion compris, jusqu’à concurrence d’un montant déterminé par le droit cantonal pour autant que le contribuable remplisse l’une des condistions suivantes:
@@ -409,16 +438,16 @@ Le contribuable qui possède des immeubles privés peut déduire les frais néce
 
 [^9-1]: Nouvelle teneur selon le ch. I 2 de la LF sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)). Erratum de la CdR de l’Ass. féd. du 18 fév. 2015 ([RO 2015 993](https://fedlex.data.admin.ch/eli/oc/2015/186)).
 [^9-2]: Nouvelle teneur selon le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^9-3]: Nouvelle teneur selon le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^9-3]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2022 sur l’imposition des rentes viagères et des formes de prévoyance similaires, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
 [^9-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^9-5]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 13 déc. 2002 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1605](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^9-6]: Introduite par l’annexe ch. 3 de la LF du 13 déc. 2002 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([FF 2001 1605](https://fedlex.data.admin.ch/eli/fga/2001/434)).
-[^9-7]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^9-7]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 [^9-8]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^9-9]: Introduite par le ch. I 2 de la LF du 12 juin 2009 sur la déductibilité des versements en faveur de partis politiques, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 449](https://fedlex.data.admin.ch/eli/oc/2010/58); [FF 2008 6823](https://fedlex.data.admin.ch/eli/fga/2008/1236)[6845](https://fedlex.data.admin.ch/eli/fga/2008/1238)).
-[^9-10]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^9-11]: Introduite par le ch. I 2 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4237](https://fedlex.data.admin.ch/eli/fga/2009/815)). Rectifiée par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^9-12]: Introduite par le ch. I 2 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)).
+[^9-10]: [RS 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
+[^9-11]: Introduite par le ch. I 2 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4237](https://fedlex.data.admin.ch/eli/fga/2009/815)). Rectifiée par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^9-12]: Introduite par le ch. I 2 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^9-13]: Introduite par le ch. I 2 de la LF sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^9-14]: Nouvelle teneur selon le ch. I 2 de la LF du 3 oct. 2008 sur le traitement fiscal des frais de remise en état des immeubles, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [FF 2007 7501](https://fedlex.data.admin.ch/eli/fga/2007/1291)[7517](https://fedlex.data.admin.ch/eli/fga/2007/1293)).
 [^9-15]: Nouvelle teneur selon l’annexe ch. II 4 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
@@ -493,9 +522,9 @@ L’art. 25*a* s’applique par analogie à la déduction des dépenses de reche
 <sup>5</sup> Le total des réserves latentes réalisées au cours des deux derniers exercices commerciaux est imposable séparément des autres revenus si le contribuable âgé de 55 ans révolus cesse définitivement d’exercer son activité lucrative indépendante ou s’il est incapable de poursuivre cette activité pour cause d’invalidité.[^11-4] Les rachats au sens de l’art. 9, al. 2, let. d, sont déductibles. Si un tel rachat n’est pas effectué, l’impôt est perçu, de la même manière que pour les prestations en capital issues de la prévoyance selon l’al. 3, sur la part des réserves latentes réalisées correspondant au montant dont le contribuable prouve l’admissibilité comme rachat au sens de l’art. 9, al. 2, let. d. Sur le solde des réserves latentes réalisées, le droit cantonal fixe le taux applicable. La même réduction s’applique également au conjoint survivant, aux autres héritiers et aux légataires, pour autant qu’ils ne poursuivent pas l’exploitation de l’entreprise qu’ils ont reprise; le décompte fiscal a lieu au plus tard cinq années civiles après la fin de l’année civile dans laquelle le contribuable est décédé.[^11-5]
 
 [^11-1]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4237](https://fedlex.data.admin.ch/eli/fga/2009/815)).
-[^11-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^11-2]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^11-3]: Introduit par l’annexe ch. 5 de la LF du 17 juin 2005 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3371](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^11-4]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^11-4]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^11-5]: Introduit par le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 ### Chapitre 3 Impôt sur les gains immobiliers
@@ -533,9 +562,9 @@ Les cantons peuvent percevoir l’impôt sur les gains immobiliers également su
 
 <sup>5</sup> Les cantons veillent à ce que les bénéfices réalisés à court terme soient imposés plus lourdement.
 
-[^12-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^12-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^12-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^12-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^12-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^12-4]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 3 oct. 2003 sur la fusion, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### Chapitre 4 Impôt sur la fortune
@@ -647,7 +676,7 @@ L’impôt sur les gains immobiliers est fixé pour la période fiscale au cours
 
 <sup>2</sup> Les personnes morales, les sociétés commerciales et les communautés de personnes étrangères sont assimilées aux personnes morales suisses dont elles se rapprochent le plus par leur forme juridique ou leurs structures effectives.
 
-[^20-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^20-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^20-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^20-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
@@ -713,7 +742,7 @@ Seuls sont exonérés de l’impôt:
 
 [^23-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^23-2]: Nouvelle teneur selon l’annexe ch. II 8 de la LF du 22 juin 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^23-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^23-3]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^23-4]: Introduite par l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^23-5]: Introduite par le ch. II 11 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^23-6]: Abrogé par le ch. II 11 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
@@ -800,12 +829,12 @@ Sont réputés droits comparables:
 - f. les droits étrangers correspondant aux droits visés aux let. a à e.
 
 [^24a-1]: Introduit par le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^24a-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
-[^24a-3]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^24a-4]: [RS 231.2](https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828)
-[^24a-5]: [RS 232.16](https://fedlex.data.admin.ch/eli/cc/1977/862_862_862)
-[^24a-6]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^24a-7]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^24a-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
+[^24a-3]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^24a-4]: [RS 231.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5954)
+[^24a-5]: [RS 232.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5983)
+[^24a-6]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^24a-7]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 24b
 
@@ -917,7 +946,7 @@ Une déduction augmentée est admissible pour:
 <sup>4</sup> Si le mandant des travaux de recherche et de développement est habilité à effectuer la déduction, le mandataire n’a droit à aucune déduction à ce titre.
 
 [^25a-1]: Introduit par le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^25a-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^25a-2]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 25a<sup>bis</sup>
 
@@ -1007,7 +1036,7 @@ Sont exonérés de l’impôt les bénéfices des personnes morales qui poursuiv
 
 <sup>1quater</sup> En ce qui concerne les sociétés mères de banques d’importance systémique au sens de l’art. 7, al. 1, de la loi du 8 novembre 1934 sur les banques (LB)[^28-5], ne sont pas pris en compte pour le calcul du rendement net au sens de l’al. 1 les frais de financement et la créance inscrite au bilan à la suite du transfert au sein du groupe des fonds provenant des instruments d’emprunt visés aux art. 11, al. 4, ou 30*b*, al. 6 ou 7, let. b, LB et approuvés par l’Autorité fédérale de surveillance des marchés financiers pour répondre aux exigences réglementaires.[^28-6]
 
-<sup>2</sup> à <sup>5</sup> …[^28-7]
+<sup>2 à <sup>5</sup></sup> …[^28-7]
 
 <sup>6</sup> Il ne peut être prévu d’autres dérogations au régime ordinaire du calcul de l’impôt fixé à l’art. 27.
 
@@ -1015,7 +1044,7 @@ Sont exonérés de l’impôt les bénéfices des personnes morales qui poursuiv
 [^28-2]: Nouvelle teneur selon le ch. I 2 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^28-3]: Introduit par le ch. I 2 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Nouvelle teneur selon le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-4]: Introduit par le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^28-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^28-5]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^28-6]: Introduit par le ch. I 2 de la LF du 14 déc. 2018 sur le calcul de la réduction pour participation pour les banques d’importance systémique ([RO 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1215](https://fedlex.data.admin.ch/eli/fga/2018/511)). Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^28-7]: Abrogés par le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -1101,7 +1130,7 @@ Sont soumis à l’impôt à la source:
 - c. les prestations au sens de l’art. 18, al. 3, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^32-2].
 
 [^32-1]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^32-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 33
 
@@ -1116,7 +1145,7 @@ Sont soumis à l’impôt à la source:
 <sup>4</sup> L’Administration fédérale des contributions (AFC) fixe avec les cantons de manière uniforme, d’une part, comment notamment le 13<sup>e</sup> salaire, les gratifications, les horaires variables, le travail rémunéré à l’heure, le travail à temps partiel ou l’activité lucrative accessoire ainsi que les prestations au sens de l’art. 18, al. 3, LAVS[^33-2] doivent être pris en compte et, d’autre part, quels sont les éléments déterminants pour le calcul du taux de l’impôt. Elle fixe aussi avec les cantons la procédure à suivre en cas de changement de tarif, d’adaptation ou de correction rétroactive des salaires ainsi que de prestations fournies avant ou après l’engagement.
 
 [^33-1]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^33-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 33a
 
@@ -1178,28 +1207,30 @@ Les personnes imposées à la source en vertu de l’art. 32, al. 1, sont soumis
 Les personnes physiques énumérées ci-après qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et les personnes morales énumérées ci-après qui n’ont ni leur siège ni leur administration effective en Suisse sont soumises à l’impôt à la source:[^35-1]
 
 - a. les travailleurs exerçant une activité lucrative dépendante dans le canton, sur le revenu de cette activité;
+- a<sup>bis</sup>.[^35-2] les travailleurs domiciliés dans un État limitrophe, sur le revenu généré à l’étranger par leur activité lucrative dépendante pour un employeur ayant son siège, son administration effective ou un établissement stable dans le canton, pour autant qu’un droit d’imposition sur les revenus de l’activité lucrative exercée à l’étranger soit accordé à la Suisse en vertu de l’accord fiscal international applicable conclu avec l’État limitrophe concerné;
 - b. les artistes, sportifs et conférenciers, sur le revenu de leur activité personnelle dans le canton, y compris les revenus et les indemnités qui ne sont pas versés à l’artiste, sportif ou conférencier lui-même, mais au tiers qui a organisé ses activités;
-- c.[^35-2] les membres de l’administration ou de la direction de personnes morales ayant leur siège ou leur administration effective dans le canton, sur les tantièmes, jetons de présence, indemnités fixes, participations de collaborateur et autres rémunérations qui leur sont versés;
-- d.[^35-3] les membres de l’administration ou de la direction d’entreprises étrangères ayant un établissement stable dans le canton, sur les tantièmes, jetons de présence, indemnités fixes, participations de collaborateur et autres rémunérations qui leur sont versés par l’intermédiaire de l’établissement stable;
+- c.[^35-3] les membres de l’administration ou de la direction de personnes morales ayant leur siège ou leur administration effective dans le canton, sur les tantièmes, jetons de présence, indemnités fixes, participations de collaborateur et autres rémunérations qui leur sont versés;
+- d.[^35-4] les membres de l’administration ou de la direction d’entreprises étrangères ayant un établissement stable dans le canton, sur les tantièmes, jetons de présence, indemnités fixes, participations de collaborateur et autres rémunérations qui leur sont versés par l’intermédiaire de l’établissement stable;
 - e. les personnes qui sont titulaires ou usufruitières de créances garanties par un gage immobilier ou un nantissement sur des immeubles sis dans le canton, sur les intérêts qui leur sont versés;
-- f.[^35-4] les personnes qui reçoivent d’un employeur ou d’une institution de prévoyance sis dans le canton des pensions, des retraites ou d’autres prestations découlant de rapports de travail de droit public, sur ces prestations;
+- f.[^35-5] les personnes qui reçoivent d’un employeur ou d’une institution de prévoyance sis dans le canton des pensions, des retraites ou d’autres prestations découlant de rapports de travail de droit public, sur ces prestations;
 - g. les bénéficiaires domiciliés à l’étranger de revenus provenant d’institutions suisses de prévoyance professionnelle de droit privé ou fournis selon des formes reconnues de prévoyance individuelle liée;
-- h.[^35-5] les personnes qui, en raison de leur activité dans le trafic international à bord d’un bateau, d’un aéronef ou d’un véhicule de transports routiers, reçoivent pour leurs prestations un salaire ou d’autres rémunérations d’un employeur ayant son siège ou un établissement stable dans le canton; les marins travaillant à bord de navires de haute mer sont exemptés de cet impôt;
-- i.[^35-6] les personnes domiciliées à l’étranger au moment où elles perçoivent des avantages appréciables en argent provenant de participations de collaborateur au sens de l’art. 7*d*, al. 3; ces avantages sont imposés proportionnellement en vertu de l’art. *7f*[^35-7];
-- j.[^35-8] les bénéficiaires de prestations au sens de l’art. 18, al. 3, LAVS[^35-9], sur ces prestations.
+- h.[^35-6] les personnes qui, en raison de leur activité dans le trafic international à bord d’un bateau, d’un aéronef ou d’un véhicule de transports routiers, reçoivent un salaire ou d’autres rémunérations d’un employeur ayant son siège, son administration effective ou un établissement stable dans le canton; les marins travaillant à bord d’un navire battant pavillon suisse exploité par un tel employeur sont exemptés de cet impôt;
+- i.[^35-7] les personnes domiciliées à l’étranger au moment où elles perçoivent des avantages appréciables en argent provenant de participations de collaborateur au sens de l’art. 7*d*, al. 3; ces avantages sont imposés proportionnellement en vertu de l’art. *7f*[^35-8];
+- j.[^35-9] les bénéficiaires de prestations au sens de l’art. 18, al. 3, LAVS[^35-10], sur ces prestations.
 
-<sup>2</sup> En sont exclus les revenus soumis à l’imposition selon la procédure simplifiée de l’art. 11, al. 4.[^35-10]
+<sup>2</sup> En sont exclus les revenus soumis à l’imposition selon la procédure simplifiée de l’art. 11, al. 4.[^35-11]
 
 [^35-1]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^35-2]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
+[^35-2]: Introduite par le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
 [^35-3]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
-[^35-4]: Nouvelle teneur selon le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^35-5]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^35-6]: Introduite par le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
-[^35-7]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^35-8]: Introduite par le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^35-9]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^35-10]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
+[^35-4]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
+[^35-5]: Nouvelle teneur selon le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^35-6]: Nouvelle teneur selon le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
+[^35-7]: Introduite par le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
+[^35-8]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^35-9]: Introduite par le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
+[^35-10]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^35-11]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
 #### Art. 35a
 
@@ -1402,7 +1433,7 @@ Les personnes physiques dont le revenu provient d’une activité lucrative ind�
 <sup>4</sup> Le mode de tenue et de conservation des documents visés à l’al. 3 est régi par les art. 957 à 958*f* CO.[^42-4]
 
 [^42-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^42-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^42-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^42-3]: Nouvelle teneur selon le ch. I 3 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^42-4]: Introduit par le ch. I 3 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 
@@ -1412,7 +1443,11 @@ Les personnes physiques dont le revenu provient d’une activité lucrative ind�
 
 <sup>1</sup> Les tiers qui ont ou ont eu des relations contractuelles avec le contribuable doivent lui remettre les attestations portant sur l’ensemble de leurs relations contractuelles et sur leurs prétentions et prestations réciproques.
 
+<sup>1bis</sup> En cas de départ en cours d’année d’un travailleur visé à l’art. 35, al. 1, let. a et a<sup>bis</sup>, l’ancien employeur doit, au moment de la fin des rapports de travail, lui délivrer, s’il en fait la demande, une attestation contenant les données pertinentes relatives à l’activité lucrative dépendante nécessaires à l’application de l’accord fiscal international concerné. Le Département fédéral des finances règle les modalités en collaboration avec les cantons.[^43-1]
+
 <sup>2</sup> Lorsque, malgré sommation, le contribuable ne produit pas les attestations requises, l’autorité fiscale peut l’exiger directement du tiers. Le secret professionnel protégé légalement est réservé.
+
+[^43-1]: Introduit par le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
 
 #### Art. 44
 
@@ -1424,16 +1459,24 @@ Les associés, les copropriétaires et les propriétaires communs doivent donner
 
 **Informations de tiers**
 
-Pour chaque période fiscale, une attestation doit être remise aux autorités fiscales par:
+<sup>1</sup>
+
+Doivent produire une attestation à l’autorité de taxation pour chaque période fiscale:[^45-1]
 
 - a. les personnes morales, sur les prestations versées aux membres de l’administration et d’autres organes; les fondations, en outre, sur les prestations fournies à leurs bénéficiaires;
 - b. les institutions de la prévoyance professionnelle et de la prévoyance individuelle liée, sur les prestations fournies à leurs preneurs de prévoyance ou bénéficiaires;
 - c. les sociétés simples et les sociétés de personnes, sur tous les éléments qui revêtent de l’importance pour la taxation de leurs associés, notamment sur les parts de ces derniers au revenu et à la fortune de la société;
-- d.[^45-1] les placements collectifs qui possèdent des immeubles en propriété directe, sur les éléments déterminants pour l’imposition de ces immeubles.
-- e.[^45-2] les employeurs, sur les avantages appréciables en argent dérivant de participations de collaborateur proprement dites ainsi que sur l’attribution et l’exercice d’options de collaborateur.
+- d.[^45-2] les placements collectifs qui possèdent des immeubles en propriété directe, sur les éléments déterminants pour l’imposition de ces immeubles.
+- e.[^45-3] les employeurs, sur les avantages appréciables en argent dérivant de participations de collaborateur proprement dites ainsi que sur l’attribution et l’exercice d’options de collaborateur;
+- f.[^45-4] les employeurs, sur les données salariales relatives aux travailleurs visés à l’art. 35, al. 1, let. a et a<sup>bis</sup>, pour lesquels un accord fiscal international prévoit l’échange automatique de renseignements sur ces données.
 
-[^45-1]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^45-2]: Introduite par le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
+<sup>2</sup> Un double de l’attestation doit être adressé au contribuable.[^45-5]
+
+[^45-1]: Nouvelle teneur selon le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
+[^45-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^45-3]: Introduite par le ch. I 2 de la LF du 17 déc. 2010 sur l’imposition des participations de collaborateurs, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 519](https://fedlex.data.admin.ch/eli/fga/2005/88)).
+[^45-4]: Introduite par le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
+[^45-5]: Introduit par le ch. I 2 de la LF du 14 juin 2024 sur l’imposition du télétravail dans le contexte international, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
 
 #### Art. 46
 
@@ -1578,7 +1621,7 @@ Chacun des héritiers a droit, indépendamment des autres, au rappel d’impôt 
 
 [^tit6-1]
 
-[^tit6-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^tit6-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 ### Chapitre 1 Violation des obligations de procédure et soustraction d’impôt
 
@@ -1663,7 +1706,7 @@ Lorsque une personne au sens de l’al. 4 se dénonce spontanément et pour la p
 
 [^57bis-1]: Introduit par l’art. 3 ch. 8 de l’AF du 17 déc. 2004 portant approbation et mise en oeuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^57bis-2]: Nouvelle teneur selon le ch. I 2 de la LF du 26 sept. 2014 (Adaptation aux disp. générales du CP), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2649](https://fedlex.data.admin.ch/eli/fga/2012/403)).
-[^57bis-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^57bis-3]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^57bis-4]: Nouvelle teneur selon l’annexe ch. 58 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 57a
@@ -1705,7 +1748,7 @@ La dénonciation spontanée non punissable peut également être déposée:
 <sup>6</sup> Lorsqu’une personne morale cesse d’être assujettie à l’impôt en Suisse, elle ne peut plus déposer de dénonciation spontanée.
 
 [^57b-1]: Introduit par le ch. I 2 de la LF du 20 mars 2008 sur la simplification du rappel d’impôt en cas de succession et sur l’introduction de la dénonciation spontanée non punissable, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2008 4453](https://fedlex.data.admin.ch/eli/oc/2008/618), [2009 5683](https://fedlex.data.admin.ch/eli/oc/2009/689); [FF 2006 8347](https://fedlex.data.admin.ch/eli/fga/2006/1131)).
-[^57b-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^57b-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 58
 
@@ -1743,7 +1786,7 @@ La poursuite de la soustraction d’impôt consommée se prescrit par dix ans:
 [^59-1]: Nouvelle teneur selon le ch. I 2 de la LF du 26 sept. 2014 (Adaptation aux disp. générales du CP), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2649](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 [^59-2]: Introduit par le ch. I 2 de la LF du 20 mars 2008 sur la simplification du rappel d’impôt en cas de succession et sur l’introduction de la dénonciation spontanée non punissable, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2008 4453](https://fedlex.data.admin.ch/eli/oc/2008/618), [2009 5683](https://fedlex.data.admin.ch/eli/oc/2009/689); [FF 2006 8347](https://fedlex.data.admin.ch/eli/fga/2006/1131)).
 [^59-3]: Introduit par le ch. I 2 de la LF du 20 mars 2008 sur la simplification du rappel d’impôt en cas de succession et sur l’introduction de la dénonciation spontanée non punissable, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2008 4453](https://fedlex.data.admin.ch/eli/oc/2008/618), [2009 5683](https://fedlex.data.admin.ch/eli/oc/2009/689); [FF 2006 8347](https://fedlex.data.admin.ch/eli/fga/2006/1131)).
-[^59-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^59-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 60
 
@@ -1923,7 +1966,7 @@ Sauf disposition contraire du droit fédéral, la procédure pénale et l’exé
 <sup>2</sup> À l’expiration de ce délai, l’art. 26*a* est directement applicable si le droit fiscal cantonal s’en écarte. Est applicable le montant fixé à l’art. 66*a* de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^72t-2].
 
 [^72t-1]: Introduit par le ch. I 2 de la LF du 20 mars 2015 sur l’exonération des personnes morales poursuivant des buts idéaux, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2947](https://fedlex.data.admin.ch/eli/oc/2015/557); [FF 2014 5219](https://fedlex.data.admin.ch/eli/fga/2014/1136)).
-[^72t-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^72t-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 72u
 
@@ -1952,7 +1995,7 @@ Sauf disposition contraire du droit fédéral, la procédure pénale et l’exé
 <sup>2</sup> À compter de cette date, les art. 7, al. 4, let. l à m, et 9, al. 2, let. n, sont directement applicables si le droit fiscal cantonal s’en écarte. Sont applicables les montants fixés à l’art. 24, let. i<sup>bis</sup> et j, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^72x-2].
 
 [^72x-1]: Introduit par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^72x-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^72x-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 72y
 
@@ -1982,7 +2025,7 @@ Sauf disposition contraire du droit fédéral, la procédure pénale et l’exé
 
 <sup>3</sup> …[^73-3]
 
-[^73-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^73-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^73-2]: Nouvelle teneur selon le ch. I 3 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^73-3]: Abrogé le ch. I 2 de la LF du 26 sept. 2014 (Adaptation aux disp. générales du CP), avec effet au 1<sup>er</sup> janv. 2017 ([RO 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2649](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 
@@ -2012,7 +2055,7 @@ Le Conseil fédéral édicte les dispositions nécessaires à l’application de
 
 L’art. 47, al. 2, de la loi fédérale du 20 septembre 1949 sur l’assurance militaire[^76-1] ne s’applique pas aux rentes et aux prestations en capital qui ont commencé à courir ou sont devenues exigibles après l’entrée en vigueur de la présente loi.
 
-[^76-1]: [[RO 1949 1775](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705), [1956 815](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825), [1959 316](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293), [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245)ch. I, II, [1968 588](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580), [1972 909](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)art. 15 ch. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 5 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116, [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)app. ch. 9,[1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 414. [RO 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)annexe ch. 1]
+[^76-1]: [[RO 1949 1775](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 815](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 316](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245)ch. I, II; [1968 588](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1972 909](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)art. 15 ch. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 5, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)app. ch. 9; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 414. [RO 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)annexe ch. 1]
 
 #### Art. 77
 
@@ -2029,7 +2072,7 @@ L’art. 47, al. 2, de la loi fédérale du 20 septembre 1949 sur l’assurance 
 Les cantons peuvent disposer que les décisions de sûretés des autorités fiscales cantonales compétentes sont assimilées à des ordonnances de séquestre au sens de l’art. 274 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et faillite (LP)[^78-2]. Le séquestre est opéré par l’office des poursuite compétent. L’opposition à l’ordonnance du séquestre prévue à l’art. 278 LP est irrecevable.
 
 [^78-1]: Nouvelle teneur selon le ch. I 2 de la LF du 26 sept. 2014 (Adaptation aux disp. générales du CP), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2649](https://fedlex.data.admin.ch/eli/fga/2012/403)).
-[^78-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^78-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 78a
 
@@ -2071,7 +2114,7 @@ Les dispositions sur le rappel d’impôt de l’ancien droit s’appliquent aux
 Pour les personnes physiques qui sont imposées d’après la dépense au moment de l’entrée en vigueur de la modification du 28 septembre 2012 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^78e-2], l’art. 6 est encore applicable pendant cinq ans.
 
 [^78e-1]: Introduit par le ch. I 2 de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [FF 2011 5605](https://fedlex.data.admin.ch/eli/fga/2011/885)).
-[^78e-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^78e-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 78f
 
