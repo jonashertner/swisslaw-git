@@ -3,20 +3,19 @@ canton: AG
 number: "295.250"
 title: Dekret über den Notariatstarif
 language: de
-version: 2013-01-01
-valid_until: 2024-12-31
-version_adopted: 2011-08-30
+version: 2025-01-01
+version_adopted: 2024-07-02
 adopted: 2011-08-30
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/295.250"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3628/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3687/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über den Notariatstarif
 
-Vom 30.08.2011 (Stand 01.01.2013)
+Vom 30.08.2011 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -48,6 +47,10 @@ beschliesst:
 - 2\. plus 2 ‰ von Fr. 600'001.– bis Fr. 3'000'000.–,
 - 3\. plus 1‰ ab Fr. 3'000'001.–, höchstens Fr. 20'000.–.
 
+<sup>2</sup> Wird kein Vertragswert genannt oder liegt dieser wesentlich unter dem Wert der Sache, ist der massgebliche Wert gemäss § 8 Abs. 2 des Gesetzes über die Grundbuchabgaben vom 7. Mai 1980[^2-1] zu berechnen.
+
+[^2-1]: SAR [725.100](https://gesetzessammlungen.ag.ch/data/725.100/de)
+
 #### § 3
 
 **Verträge auf Errichtung und Erhöhung von Grundpfandrechten**
@@ -78,7 +81,9 @@ beschliesst:
 
 - a) Beglaubigung einer Unterschrift oder einer Übersetzung: Fr. 20.–,
 - b) Beglaubigung von Kopien, welche der Urkundsperson vorgelegt werden: Fr. 10.– für die erste und Fr. 5.– für jede weitere Seite,
-- c) Beglaubigungen von Kopien, welche die Urkundsperson selbst hergestellt hat: Fr. 1.– für jede Seite.
+- c) Beglaubigungen von Kopien, welche die Urkundsperson selbst hergestellt hat: Fr. 10.– für die erste und Fr. 1.– für jede weitere Seite.
+
+<sup>2</sup> Die Urkundsperson darf beglaubigte Kopien von selbst hergestellten Urkunden, welche sie anlässlich einer Beurkundung für Parteien oder sich erstellt, nicht zusätzlich in Rechnung stellen.
 
 ## 4. Gemeinsame Bestimmungen
 
