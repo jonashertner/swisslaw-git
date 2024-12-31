@@ -4,11 +4,10 @@ number: "836.1"
 title: Einführungsgesetz zum Bundesgesetz über die Familienzulagen (EG FamZG)
 short: EG FamZG
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2009-01-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-836_1-2009_01_19-2009_07_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-836_1-2009_01_19-2009_07_01-127.html"
 text: pdf
 ---
 
@@ -62,19 +61,20 @@ Die Direktion ist zuständig für den Abschluss von Vereinbarungen im Sinne von 
 
 **1**
 
-- 1\. 1. 21 - 111 § 4. <sup>1</sup> Die Mindesthöhe der Kinderzulage beträgt monatlich Fr. 200 bis zum Ende des Monates, in welchem das Kind das zwölfte Altersjahr vollendet, danach monatlich Fr. 250.
+- 1\. 1. 25 - 127 § 4. <sup>1</sup> Die Mindesthöhe der Kinderzulage beträgt monatlich Fr. 215[^3-1] bis zum Ende des Monates, in welchem das Kind das zwölfte Altersjahr vollendet, danach monatlich Fr. 268[^3-1].
 
 **Höhe der Familienzulagen**
 
-<sup>2</sup> Die Mindesthöhe der Ausbildungszulage beträgt monatlich Fr. 250.
+<sup>2</sup> Die Mindesthöhe der Ausbildungszulage beträgt monatlich Fr. 268[^3-1].
 
 <sup>3</sup> Der Regierungsrat passt die Mindestansätze der Teuerung an. Art. 5 Abs. 3 FamZG gilt sinngemäss.
 
-[^3-1]: Fassung gemäss G vom 3. September 2012 (OS 67, 636; ABl 2012, 154). In Kraft seit 1. Januar 2013.
+[^3-1]: Fassung gemäss RRB vom 23. Oktober 2024 (ABl 2024-11-01). In Kraft seit 1.Januar 2025. 1. 1. 25 - 127 9
+[^3-2]: Fassung gemäss G vom 3. September 2012 (OS 67, 636; ABl 2012, 154). In Kraft seit 1. Januar 2013.
 
 ### B. Familienzulagen für Erwerbstätige
 
-[^3-1]
+[^3-2]
 
 **Finanzierung**
 
@@ -136,10 +136,10 @@ Die Direktion ist zuständig für den Abschluss von Vereinbarungen im Sinne von 
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 25 - 127
 
 [^hBFamilienzulagenf-1]: Fassung gemäss G vom 3. September 2012 (OS 67, 636; ABl 2012, 154). In Kraft seit 1. Januar 2013.
-[^hBFamilienzulagenf-2]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 334; ABl 2018-12-21). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 9
+[^hBFamilienzulagenf-2]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 334; ABl 2018-12-21). In Kraft seit 1. Januar 2021.
 [^hBFamilienzulagenf-3]: Eingefügt durch G vom 13. Januar 2020 (OS 75, 334; ABl 2018-12-21). In Kraft seit 1. Januar 2021.
 
 ### C. Familienzulagen für Nichterwerbstätige
@@ -255,7 +255,7 @@ Die kantonale Familienausgleichskasse führt ein Register über die Personen, di
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 25 - 127
 
 - f. die unverzügliche Meldung an die kantonale Familienausgleichskasse über den Anschluss einer Person an die Kasse, unter Angabe des Anschlussdatums,
 
@@ -341,7 +341,7 @@ Die Familienausgleichskassen können die Festsetzung und Auszahlung der Zulagen 
 
 **7**
 
-- 1\. 1. 21 - 111 § 24. <sup>1</sup> Die Art. 87–91 AHVG sind anwendbar auf Personen, die in einer in diesen Bestimmungen umschriebenen Weise die Vorschriften dieses Gesetzes verletzen.
+- 1\. 1. 25 - 127 § 24. <sup>1</sup> Die Art. 87–91 AHVG sind anwendbar auf Personen, die in einer in diesen Bestimmungen umschriebenen Weise die Vorschriften dieses Gesetzes verletzen.
 
 **Strafbestimmungen**
 
