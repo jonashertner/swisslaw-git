@@ -4,13 +4,12 @@ number: "931.12"
 title: Waldverordnung
 short: WaVSO
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-09-26
+version: 2025-01-01
+version_adopted: 2024-11-04
 adopted: 1995-11-14
 in_force: 1996-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/931.12"
-pdf: "https://bgs.so.ch/api/de/versions/4689/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5507/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4689/pdf_file"
 
 (WaVSO)
 
-Vom 14.11.1995 (Stand 01.01.2018)
+Vom 14.11.1995 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -548,7 +547,7 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Das Nettoeigenkapital umfasst die Bilanzpositionen Eigenkapital (Konto Nr. 239) und Spezialfinanzierungen (Konto Nr. 228) vermindert um den aktivierten Fehlbetrag (Konto Nr. 139) und die Vorschüsse für Spezialfinanzierungen (Konto Nr. 128). Vom massgebenden Nettoeigenkapital ausgenommen ist das Nettoeigenkapital der Spezialfinanzierung Wasserversorgung.
+<sup>2</sup> Das Nettoeigenkapital umfasst die Bilanzpositionen Eigenkapital (Konto Nr. 29) vermindert um das Nettoeigenkapital der Spezialfinanzierung im Eigenkapital Wasserversorgung (Konto Nr. 29001) und allfälligen Vorfinanzierungen der Spezialfinanzierung Wasserversorgung (Konto Nr. 29301). Vom massgebenden Nettoeigenkapital ausgenommen ist zudem die Neubewertungs- (Konto Nr. 296) und Aufwertungsreserve (Konto Nr. 2950).
 
 <sup>3</sup> Die Grundlagen für die Berechnung des Nettoeigenkapitals bildet die Gemeinderechnung eines Basisjahres. Das Basisjahr liegt drei Jahre hinter dem Geltungsjahr.
 
@@ -785,6 +784,12 @@ beschliesst:
 <sup>1</sup> Reglemente öffentlich-rechtlicher Waldeigentümer sind innert fünf Jahren seit Inkrafttreten dieser Verordnung dem neuen Recht anzupassen.
 
 <sup>2</sup> Betriebspläne öffentlich-rechtlicher Waldeigentümer sind innert fünfJahren seit Inkrafttretung dieser Verordnung nach neuem Recht auszugestalten.
+
+#### § 63bis
+
+**Übergangsbestimmung zur Teilrevision vom 4. November 2024**
+
+<sup>1</sup> Bei Bürgergemeinden, welche die neue Rechnungslegung als Pilotgemeinden vor dem Jahr 2022 eingeführt haben, werden bei der Berechnung nach § 49 Absatz 2 die Auflösungsbeträge der Neubewertungsreserve zeitgleich mit den anderen Bürgergemeinden rechnerisch einbezogen.
 
 #### § 64
 
