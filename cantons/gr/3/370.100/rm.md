@@ -5,11 +5,12 @@ title: Lescha davart la giurisdicziun administrativa
 short: LGA
 language: rm
 version: 2025-01-01
+corrected: 2024-12-17
 version_adopted: 2024-08-30
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3521/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3394/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -536,19 +537,6 @@ concluda:
 <sup>2</sup> Scrittiras giuridicas sin palpiri ston vegnir suttascrittas ed inoltradas en dus exemplars.
 
 <sup>3</sup> Sch'ina inoltraziun na satisfa betg a las pretensiuns legalas u sch'ella è redigida en ina furma incunvegnenta, sch'ella n'è betg legibla u sch'ella è senza basegn memia voluminusa, vegn fixà in termin adequat per rectifitgar la mancanza, e quai cun smanatschar ch'i na vegnia uschiglio betg entrà en l'inoltraziun.
-
-#### Art. 38a
-
-**Correspundenza giuridica electronica**
-
-<sup>1</sup> Actas giuridicas ed autras dumondas pon vegnir inoltradas a la dretgira sin via electronica.
-
-<sup>2</sup> Cun il consentiment da las partidas pertutgadas po la dretgira trametter disposiziuns e decisiuns sin via electronica.
-
-<sup>3</sup> En la correspundenza giuridica electronica sto vegnir duvrada la signatura electronica qualifitgada tenor la Lescha federala davart la signatura electronica[^38a-1]. Ultra da quai vala l'Ordinaziun davart la communicaziun electronica en il rom da process civils e penals sco er da proceduras da scussiun e concurs[^38a-2] confurm al senn.
-
-[^38a-1]: CS [943.03](https://db.clex.ch/link/Bund/943.03/rm)
-[^38a-2]: CS [272.1](https://db.clex.ch/link/Bund/272.1/rm) en la versiun dal 1. da december 2019
 
 #### Art. 39
 
@@ -1133,8 +1121,6 @@ concluda:
 <sup>4</sup> La surannaziun dals process gratuits ch'èn vegnids concedids avant che la revisiun parziala da la lescha davart las advocatas ed ils advocats[^85-1] dals 21 d'october 2008 è entrada en vigur, cumenza cur che questa lescha entra en vigur.
 
 <sup>5</sup> Proceduras ch'èn pendentas davant la Dretgira administrativa il mument che la midada da questa lescha entra en vigur, vegnan surdadas a la dretgira ch'è cumpetenta tenor il dretg nov, cura che la revisiun parziala entra en vigur.
-
-<sup>6</sup> Las disposiziuns da l'artitgel 38a davart la correspundenza giuridica electronica en la procedura davant la Dretgira superiura restan en vigur, fin che la Lescha federala davart las plattafurmas per la communicaziun electronica en il sectur giudizial (LPCEG) è entrada en vigur e fin che la plattafurma Justitia.Swiss che sa basa sin questa lescha, vegn dada liber per la procedura administrativa chantunala respectivamain per la procedura giudiziala administrativa chantunala. La Regenza vegn autorisada da constatar, sche las cundiziuns èn ademplidas. Cura che quest conclus entra en vigur, vegnan l'artitgel 38a e l'artitgel 85 alinea 6 abolids automaticamain.
 
 [^85-1]: DG [310.100](https://www.gr-lex.gr.ch/data/310.100/rm)
 

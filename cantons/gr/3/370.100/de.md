@@ -5,11 +5,12 @@ title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
 version: 2025-01-01
+corrected: 2024-12-17
 version_adopted: 2024-08-30
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3521/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3394/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -536,19 +537,6 @@ beschliesst:
 <sup>2</sup> Rechtsschriften in Papierform sind zu unterzeichnen und im Doppel einzureichen.
 
 <sup>3</sup> Genügt eine Eingabe den gesetzlichen Erfordernissen nicht oder ist sie in unziemlicher Form abgefasst, unleserlich oder unnötig umfangreich, wird eine angemessene Frist zur Behebung des Mangels angesetzt mit der Androhung, dass auf die Eingabe sonst nicht eingetreten werde.
-
-#### Art. 38a
-
-**Elektronischer Rechtsverkehr**
-
-<sup>1</sup> Rechtsschriften und andere Eingaben können dem Gericht elektronisch eingereicht werden.
-
-<sup>2</sup> Mit Einverständnis der betroffenen Parteien kann das Gericht Verfügungen und Entscheide elektronisch zustellen.
-
-<sup>3</sup> Im elektronischen Rechtsverkehr ist die qualifizierte elektronische Signatur gemäss Bundesgesetz über die elektronische Signatur[^38a-1] zu verwenden. Im Weiteren gilt die Verordnung über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren[^38a-2] sinngemäss.
-
-[^38a-1]: SR [943.03](https://db.clex.ch/link/Bund/943.03/de)
-[^38a-2]: SR [272.1](https://db.clex.ch/link/Bund/272.1/de) in der Fassung vom 1. Dezember 2019
 
 #### Art. 39
 
@@ -1132,8 +1120,6 @@ beschliesst:
 <sup>4</sup> Die Verjährung der vor Inkrafttreten der Teilrevision des Anwaltsgesetzes vom 21. Oktober 2008 gewährten unentgeltlichen Prozessführungen beginnt mit dem Inkrafttreten dieses Gesetzes zu laufen.
 
 <sup>5</sup> Verfahren, die bei Inkrafttreten der Änderung dieses Gesetzes beim Verwaltungsgericht hängig sind, werden mit dem Inkrafttreten auf das nach neuem Recht zuständige Gericht übertragen.
-
-<sup>6</sup> Die Bestimmungen von Artikel 38a über den elektronischen Rechtsverkehr im Verfahren vor Obergericht bleiben in Kraft, bis das Bundesgesetz über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) in Kraft getreten ist und die darauf basierende Plattform Justitia.Swiss für das kantonale Verwaltungsverfahren beziehungsweise Verwaltungsgerichtsverfahren freigegeben wird. Die Regierung wird ermächtigt, den Eintritt der Bedingungen festzustellen. Wird dieser Beschluss rechtskräftig, treten Artikel 38a und Artikel 85 Absatz 6 automatisch ausser Kraft.
 
 #### Art. 85b
 

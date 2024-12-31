@@ -5,11 +5,12 @@ title: Legge sulla giustizia amministrativa
 short: LGA
 language: it
 version: 2025-01-01
+corrected: 2024-12-17
 version_adopted: 2024-08-30
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3521/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3394/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -534,19 +535,6 @@ decide:
 <sup>2</sup> Le memorie in formato cartaceo devono essere firmate e inoltrate in duplice copia.
 
 <sup>3</sup> Se un'istanza non soddisfa i requisiti legali o se essa è redatta in forma indecorosa, illeggibile o inutilmente estesa, viene stabilito un termine adeguato per l'eliminazione del vizio, con l'avvertimento che in caso contrario non si entrerà nel merito dell'istanza.
-
-#### Art. 38a
-
-**Scambio di atti giuridici per via elettronica**
-
-<sup>1</sup> Le memorie e altre istanze possono essere inoltrate al tribunale per via elettronica.
-
-<sup>2</sup> Con il consenso delle parti interessate, il tribunale può trasmettere per via elettronica provvedimenti e decisioni.
-
-<sup>3</sup> Nello scambio di atti giuridici per via elettronica occorre utilizzare la firma elettronica qualificata conformemente alla legge sulla firma elettronica[^38a-1]. Vale inoltre per analogia l'ordinanza sulla comunicazione per via elettronica nell'ambito di procedimenti civili e penali nonché di procedure d'esecuzione e fallimento[^38a-2].
-
-[^38a-1]: RS [943.03](https://db.clex.ch/link/Bund/943.03/it)
-[^38a-2]: RS [272.1](https://db.clex.ch/link/Bund/272.1/it) nella versione del 1° dicembre 2019
 
 #### Art. 39
 
@@ -1130,8 +1118,6 @@ decide:
 <sup>4</sup> Il termine di prescrizione dei casi di assistenza giudiziaria gratuita concessa prima dell'entrata in vigore della revisione parziale della legge sugli avvocati del 21 ottobre 2008 inizia a decorrere con l'entrata in vigore della presente legge.
 
 <sup>5</sup> I procedimenti pendenti dinanzi al Tribunale amministrativo al momento dell'entrata in vigore della modifica della presente legge vengono trasferiti al tribunale competente secondo il nuovo diritto con effetto al momento dell'entrata in vigore.
-
-<sup>6</sup> Le disposizioni dell'articolo 38a relative allo scambio di atti giuridici per via elettronica nel procedimento dinanzi al Tribunale d'appello rimangono in vigore finché la legge federale concernente le piattaforme per la comunicazione elettronica nella giustizia (LCEG) sarà posta in vigore e la piattaforma Justitia.Swiss per la procedura amministrativa cantonale rispettivamente per la procedura giudiziaria amministrativa cantonale basata su di essa sarà approvata. Il Governo viene autorizzato a stabilire l'adempimento delle condizioni. Se questo decreto passa in giudicato, l'articolo 38a e l'articolo 85 capoverso 6 vengono abrogati automaticamente.
 
 #### Art. 85b
 
