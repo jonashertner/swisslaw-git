@@ -4,7 +4,7 @@ number: "810.01.3"
 title: "RÈGLEMENT du 08.10.2008 précisant les conditions à remplir par les établissements sanitaires privés pour être reconnus d'intérêt public au sens de la loi du 5 décembre 1978 sur la planification et le financement des établissements sanitaires d'intérêt public (RCLPFES)"
 short: RCLPFES
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01.3?id=dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c"
 ---
 
@@ -288,19 +288,19 @@ Annexes [^18-1]
 
 1
 
-[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/1?dmev=01.01.2024)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/1?dmev=01.01.2025)
 
 2
 
-[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/2?dmev=01.01.2024)
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/2?dmev=01.01.2025)
 
 3
 
-[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/3?dmev=01.01.2024)
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/3?dmev=01.01.2025)
 
 4
 
-[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/4?dmev=01.01.2024)
+[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/4?dmev=01.01.2025)
 
 [^17-1]: Modif. 1 du 11.11.2009: Modification Art. 18; entrée en vigueur au 01.01.2010
 [^18-1]: Modif. 2 du 06.03.2013: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2013 · Modif. 3 du 08.07.2015: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2016 · Modif. 6 du 06.03.2024: Modification Annexes, Ann. 1-3; entrée en vigueur au 01.01.2024 · Modif. 7 du 15.09.2025: Modification Annexes, Ann. 1,3; entrée en vigueur au 01.01.2025
