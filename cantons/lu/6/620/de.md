@@ -4,13 +4,13 @@ number: "620"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-05
+version: 2025-01-01
+valid_until: 2025-05-31
+version_adopted: 2024-03-18
 adopted: 1999-11-22
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/620"
-pdf: "https://srl.lu.ch/api/de/versions/4138/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4138/pdf_file"
 
 (StG)
 
-vom 22.11.1999 (Stand 01.01.2024)
+vom 22.11.1999 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -260,9 +260,9 @@ beschliesst:
 
 **Haftung und Mithaftung für die Steuer**
 
-<sup>1</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, haften solidarisch für die Gesamtsteuer.
+<sup>1</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, haften solidarisch für die Gesamtsteuer. Jeder Ehegatte haftet jedoch nur für seinen Anteil an der Gesamtsteuer, wenn einer von beiden zahlungsunfähig ist. Ferner haften sie solidarisch für denjenigen Teil an der Gesamtsteuer, der auf das Kindereinkommen entfällt.
 
-<sup>2</sup> Erbringt ein Ehegatte den Nachweis, dass bestimmte Einkommens- und Vermögensteile dem andern Ehegatten zuzurechnen sind, haftet er höchstens für das Doppelte des auf sein Einkommen und Vermögen entfallenden Steueranteils. Keine Haftung besteht für die Strafsteuer.
+<sup>2</sup> Bei rechtlich oder tatsächlich getrennter Ehe entfällt die Solidarhaftung auch für alle noch offenen Steuerschulden.
 
 <sup>3</sup> Mit den Steuerpflichtigen haften solidarisch:
 
@@ -289,7 +289,7 @@ beschliesst:
 
 <sup>3</sup> Die Steuer, die an die Stelle der Einkommenssteuer tritt, wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens aber nach dem höchsten der folgenden Beträge bemessen:
 
-- a. 638 400 Franken,
+- a. 646 700 Franken,
 - b. für Steuerpflichtige mit eigenem Haushalt: dem Siebenfachen des jährlichen Mietzinses oder des Mietwerts (100%) nach § 28 Absätze 2 und 3,
 - c. für die übrigen Steuerpflichtigen: dem Dreifachen des jährlichen Pensionspreises für Unterkunft und Verpflegung am Ort des Aufenthalts nach § 8.
 
@@ -452,7 +452,10 @@ beschliesst:
 
 <sup>8</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>9</sup> Absatz 4 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts (OR)[^27-2] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
 [^27-1]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de)
+[^27-2]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### § 27a
 
@@ -523,12 +526,14 @@ beschliesst:
 - h. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
 - i. die Kapitalgewinne aus Veräusserung von Privatvermögen; vorbehalten bleiben die Bestimmungen des Grundstückgewinnsteuergesetzes,
 - k. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach den Geldspielgesetz vom 29. September 2017[^31-1] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen,
-- k<sup>bis</sup>. die einzelnen Gewinne bis zum Betrag von 1 056 600 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind,
+- k<sup>bis</sup>. die einzelnen Gewinne bis zum Betrag von 1 070 400 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind,
 - k<sup>ter</sup>. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind,
 - l. der Sold der Milizfeuerwehrleute für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgabe der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenabwehr, Elementarschadenbewältigung und dergleichen) bis zum Betrag von jährlich 5300 Franken; ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt,
-- m. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird.
+- m. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird,
+- n. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose vom 19. Juni 2020[^31-2].
 
 [^31-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
+[^31-2]: SR [837.2](https://db.clex.ch/link/Bund/837.2/de)
 
 ### 1.2.2.3 Ermittlung des Reineinkommens
 
@@ -544,7 +549,7 @@ beschliesst:
 
 <sup>1</sup> Als Berufskosten werden abgezogen:
 
-- a. die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zu einem Maximalbetrag von 6400 Franken,
+- a. die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zu einem Maximalbetrag von 6500 Franken,
 - b. die notwendigen Mehrkosten für Verpflegung ausserhalb der Wohnstätte und bei Schichtarbeit,
 - c. die übrigen für die Ausübung des Berufs erforderlichen Kosten, § 40 Absatz 1m bleibt vorbehalten.
 - d. …
@@ -563,9 +568,20 @@ beschliesst:
 - b. die eingetretenen und verbuchten Verluste auf Geschäftsvermögen,
 - c. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist,
 - d. die Zinsen auf Geschäftsschulden sowie die Zinsen, die auf Beteiligungen nach § 25 Absatz 2 entfallen,
-- e. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- e. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals,
+- f. gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht zu den geschäfts- oder berufsmässig begründeten Kosten gehören Zahlungen von Bestechungsgeldern im Sinn des schweizerischen Strafrechts an schweizerische und fremde Amtsträgerinnen und Amtsträger.
+<sup>3</sup> Nicht abziehbar sind insbesondere
+
+- a. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts,
+- b. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten,
+- c. Bussen und Geldstrafen,
+- d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Absatz 3c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn
+
+- a. die Sanktion gegen den schweizerischen Ordre public verstösst oder
+- b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 35
 
@@ -613,7 +629,7 @@ beschliesst:
 
 <sup>1</sup> Bei beweglichem Privatvermögen können die Kosten der Verwaltung durch Dritte und die weder rückforderbaren noch anrechenbaren ausländischen Quellensteuern abgezogen werden.
 
-<sup>2</sup> Bei Liegenschaften im Privatvermögen können die Unterhaltskosten, die Kosten der Instandstellung von neu erworbenen Liegenschaften, die Versicherungsprämien und die Kosten der Verwaltung durch Dritte abgezogen werden.
+<sup>2</sup> Bei Liegenschaften im Privatvermögen können die Unterhaltskosten, die Kosten der Instandstellung von neu erworbenen Liegenschaften, die Versicherungsprämien und die Kosten der Verwaltung durch Dritte abgezogen werden. Den Unterhaltskosten gleichgestellt sind Investitionen, die dem Energiesparen und dem Umweltschutz dienen, soweit sie bei der direkten Bundessteuer abziehbar sind, und die Rückbaukosten im Hinblick auf einen Ersatzneubau. Die abziehbaren Investitions- und Rückbaukosten sind in den zwei nachfolgenden Steuerperioden abziehbar, soweit sie in der laufenden Steuerperiode, in welcher die Aufwendungen angefallen sind, steuerlich nicht vollständig berücksichtigt werden können.
 
 <sup>3</sup> Abziehbar sind ferner die Kosten denkmalpflegerischer Arbeiten, welche die steuerpflichtige Person aufgrund gesetzlicher Vorschriften, im Einvernehmen mit den Behörden oder auf deren Anordnung hin vorgenommen hat, soweit diese Arbeiten nicht subventioniert sind.
 
@@ -631,21 +647,21 @@ beschliesst:
 - d. die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge,
 - e. Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus an-erkannten Formen der Selbstvorsorge im Sinn und im Umfang von Artikel 82 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^40-1],
 - f. die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung,
-- g. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Absatz 1f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen bis zum Gesamtbetrag von 5100 Franken für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; 2600 Franken für die übrigen Steuerpflichtigen; die Abzüge von 5100 Franken beziehungsweise 2600 Franken erhöhen sich um 1500 Franken beziehungsweise 700 Franken für steuerpflichtige Personen ohne Beiträge gemäss Absatz 1d und 1e sowie um 700 Franken für jedes im Sinn von § 42 Absatz 1a abzugsberechtigte Kind,
+- g. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Absatz 1f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen bis zum Gesamtbetrag von 5200 Franken für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; 2600 Franken für die übrigen Steuerpflichtigen; die Abzüge von 5200 Franken beziehungsweise 2600 Franken erhöhen sich um 1500 Franken beziehungsweise 700 Franken für steuerpflichtige Personen ohne Beiträge gemäss Absatz 1d und 1e sowie um 700 Franken für jedes im Sinn von § 42 Absatz 1a abzugsberechtigte Kind,
 - h. die Krankheits- und Unfallkosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, soweit die steuerpflichtige Person die Kosten selber trägt und diese fünf Prozent der um die Aufwendungen nach den §§ 33–40 Absatz 1g verminderten steuerbaren Einkünfte übersteigen, sowie die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinn des Behindertengleichstellungsgesetzes[^40-2], soweit die steuerpflichtige Person die Kosten selber trägt; der Regierungsrat ist ermächtigt, ergänzende Vorschriften zu erlassen; das Finanzdepartement kann für die anrechenbaren Kosten Pauschalansätze festlegen,
 - i. die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (§ 70 Abs. 1h), wenn diese Leistungen in der Steuerperiode 100 Franken erreichen und insgesamt 20 Prozent der um die Aufwendungen nach den §§ 33–40 Absatz 1g verminderten steuerbaren Einkünfte nicht übersteigen; im gleichen Umfang abzugsfähig sind entsprechende freiwillige Leistungen an Bund, Kanton, Gemeinden und deren Anstalten (§ 70 Abs. 1 a–d); der Regierungsrat kann bei Vorliegen eines erheblichen öffentlichen Interesses einen höheren Abzug bewilligen für Zuwendungen an juristische Personen, die in beträchtlichem Mass durch den Kanton oder die Gemeinden unterstützt werden,
-- k. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 5500 Franken an politische Parteien, die
+- k. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 5600 Franken an politische Parteien, die
   - 1\. im Parteienregister nach § 76a des Bundesgesetzes vom 17. Dezember 1976[^40-3] über die politischen Rechte eingetragen sind,
   - 2\. in einem kantonalen Parlament vertreten sind,
   - 3\. in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent der Stimmen erreicht haben,
-- l. die nachgewiesenen Kosten bis 6100 Franken für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
-- m. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 900 Franken, sofern:
+- l. die nachgewiesenen Kosten bis 20 000 Franken für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
+- m. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 13 000 Franken, sofern:
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf Sekundarstufe II handelt.
 
-<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe, werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, 4900 Franken abgezogen. Ein gleicher Abzug ist zulässig bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten. Die beiden Abzüge können nicht gleichzeitig geltend gemacht werden.
+<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe, werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, 5000 Franken abgezogen. Ein gleicher Abzug ist zulässig bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten. Die beiden Abzüge können nicht gleichzeitig geltend gemacht werden.
 
-<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach § 31 Absätze 1k–m steuerfrei sind, werden 5 Prozent, jedoch höchstens 5300 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach § 31 Absatz 1k<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 400 Franken abgezogen.
+<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach § 31 Absätze 1k–m steuerfrei sind, werden 5 Prozent, jedoch höchstens 5400 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach § 31 Absatz 1k<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 800 Franken abgezogen.
 
 [^40-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 [^40-2]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
@@ -670,12 +686,14 @@ beschliesst:
 <sup>1</sup> Vom Reineinkommen werden abgezogen:
 
 - a. für jedes minderjährige oder in Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt,
-  - 1\. 7000 Franken, wenn das Kind das sechste Altersjahr noch nicht vollendet hat,
-  - 2\. 7500 Franken, wenn das Kind das sechste Altersjahr vollendet hat,
-  - 3\. 13 000 Franken, wenn das Kind in schulischer oder beruflicher Ausbildung steht und sich dafür ständig am auswärtigen Ausbildungsort aufhalten muss,
-- b. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 1100 Franken für die eigene Betreuung; der Abzug erhöht sich auf höchstens 6100 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit oder Ausbildung der steuerpflichtigen Person stehen,
-- c. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 1000 Franken für die eigene Betreuung; der Abzug erhöht sich um die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
-- d. für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt die steuerpflichtige Person mindestens einen Beitrag in der Höhe des Abzugs leistet, 2700 Franken; der Abzug kann nicht beansprucht werden für den Ehegatten oder für Kinder, für die der steuerpflichtigen Person ein Abzug gemäss Absatz 1a oder § 40 Absatz 1c zusteht; verwitweten, in getrennter Ehe lebenden, geschiedenen und ledigen Steuerpflichtigen ohne Kinder, denen der Tarif nach § 57 Absatz 2 zusteht, wird der Abzug nur für unterstützungsbedürftige Personen gewährt, die nicht im Haushalt der steuerpflichtigen Person leben.
+  - 1\. 8 000 Franken,
+  - 2\. …
+  - 3\. 13 200 Franken, wenn das Kind in schulischer oder beruflicher Ausbildung steht und sich dafür ständig am auswärtigen Ausbildungsort aufhalten muss,
+- b. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 2000 Franken für die eigene Betreuung; der Abzug erhöht sich auf höchstens 20 000 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit oder Ausbildung der steuerpflichtigen Person stehen,
+- c. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 2000 Franken für die eigene Betreuung; der Abzug erhöht sich um die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
+- d. für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt die steuerpflichtige Person mindestens einen Beitrag in der Höhe des Abzugs leistet, 2700 Franken; der Abzug kann nicht beansprucht werden für den Ehegatten oder für Kinder, für die der steuerpflichtigen Person ein Abzug gemäss Absatz 1a oder § 40 Absatz 1c zusteht; verwitweten, in getrennter Ehe lebenden, geschiedenen und ledigen Steuerpflichtigen ohne Kinder, denen der Tarif nach § 57 Absatz 2 zusteht, wird der Abzug nur für unterstützungsbedürftige Personen gewährt, die nicht im Haushalt der steuerpflichtigen Person leben,
+- e. 14 Prozent der Differenz zwischen 50 000 Franken und dem Reineinkommen bei Personen, die zum Einkommenssteuertarif nach § 57 Absatz 1 besteuert werden,
+- f. 14 Prozent der Differenz zwischen 80 000 Franken und dem Reineinkommen bei Personen, die zum Einkommenssteuertarif nach § 57 Absatz 2 besteuert werden.
 
 <sup>2</sup> Ehegatten in rechtlich und tatsächlich ungetrennter Ehe können die Abzüge gemäss Absatz 1a–d nur einmal beanspruchen. Werden die Eltern getrennt besteuert, wird der Abzug nach Absatz 1a, der Versicherungsabzug für Kinder nach § 40 Absatz 1g und der steuerfreie Betrag nach § 52 Absatz 1c hälftig geteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach § 40 Absatz 1c für das Kind geltend gemacht werden.
 
@@ -891,30 +909,30 @@ beschliesst:
 
 <sup>1</sup> Die Steuer je Einheit beträgt für eine Steuerperiode
 
-- a. 0,00 Prozent der ersten: — Fr. 9 800.–
+- a. 0,00 Prozent der ersten: — Fr. 9 900.–
 - b. 0,50 Prozent der nächsten: — Fr. 2 400.–
-- c. 1,00 Prozent der nächsten: — Fr. 3 100.–
+- c. 1,00 Prozent der nächsten: — Fr. 3 200.–
 - d. 2,00 Prozent der nächsten: — Fr. 1 100.–
 - e. 3,00 Prozent der nächsten: — Fr. 1 200.–
 - f. 4,00 Prozent der nächsten: — Fr. 2 900.–
 - g. 4,50 Prozent der nächsten: — Fr. 4 300.–
-- h. 5,00 Prozent der nächsten: — Fr. 83 700.–
-- i. 5,25 Prozent der nächsten: — Fr. 53 100.–
-- k. 5,50 Prozent der nächsten: — Fr. 26 100.–
-- l. 5,80 Prozent der nächsten: — Fr. 1 880 100.–
+- h. 5,00 Prozent der nächsten: — Fr. 85 000.–
+- i. 5,25 Prozent der nächsten: — Fr. 53 800.–
+- k. 5,50 Prozent der nächsten: — Fr. 26 200.–
+- l. 5,80 Prozent der nächsten: — Fr. 1 903 000.–
 
 <sup>2</sup> Für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, beträgt die Steuer je Einheit für eine Steuerperiode
 
-- a. 0,00 Prozent der ersten: — Fr. 19 600.–
+- a. 0,00 Prozent der ersten: — Fr. 19 900.–
 - b. 0,50 Prozent der nächsten: — Fr. 4 100.–
 - c. 1,50 Prozent der nächsten: — Fr. 1 000.–
-- d. 2,50 Prozent der nächsten: — Fr. 1 100.–
+- d. 2,50 Prozent der nächsten: — Fr. 1 200.–
 - e. 3,00 Prozent der nächsten: — Fr. 2 100.–
 - f. 3,50 Prozent der nächsten: — Fr. 4 200.–
-- g. 4,50 Prozent der nächsten: — Fr. 65 500.–
-- h. 5,00 Prozent der nächsten: — Fr. 38 400.–
+- g. 4,50 Prozent der nächsten: — Fr. 66 500.–
+- h. 5,00 Prozent der nächsten: — Fr. 38 900.–
 - i. 5,50 Prozent der nächsten: — Fr. 21 100.–
-- k. 5,80 Prozent der nächsten: — Fr. 1 248 300.–
+- k. 5,80 Prozent der nächsten: — Fr. 1 265 300.–
 
 <sup>3</sup> Ein Restbetrag von weniger als 100 Franken fällt bei der Festsetzung des steuerbaren Einkommens ausser Betracht.
 
@@ -932,7 +950,7 @@ beschliesst:
 
 <sup>1</sup> Kapitalleistungen gemäss den §§ 24 Absatz 2 und 29 Absatz 1 sowie Zahlungen bei Tod oder für bleibende körperliche oder gesundheitliche Nachteile werden zusammengerechnet und gesondert besteuert. Sie unterliegen stets einer vollen Jahressteuer.
 
-<sup>2</sup> Die Steuer beträgt ein Drittel des Satzes, der gemäss § 57 für ein Einkommen in der Höhe der Kapitalzahlung anzuwenden ist, mindestens aber 0,5 Prozent.
+<sup>2</sup> Die Steuer je Einheit beträgt 0,5 Prozent für die ersten 40 000 Franken und 1 Prozent ab 40 000 Franken.
 
 <sup>3</sup> Die Sozialabzüge nach § 42 werden nicht gewährt.
 
@@ -1166,7 +1184,7 @@ beschliesst:
 
 **Patente und vergleichbare Rechte: Besteuerung**
 
-<sup>1</sup> Der Reingewinn aus Patenten und vergleichbaren Rechten wird auf Antrag im Verhältnis des qualifizierenden Forschungs- und Entwicklungsaufwandes zum gesamten Forschungs- und Entwicklungsaufwand pro Patent oder vergleichbares Recht (Nexusquotient) mit einer Ermässigung von 10 Prozent in die Berechnung des steuerbaren Reingewinns einbezogen.
+<sup>1</sup> Der Reingewinn aus Patenten und vergleichbaren Rechten wird auf Antrag im Verhältnis des qualifizierenden Forschungs- und Entwicklungsaufwandes zum gesamten Forschungs- und Entwicklungsaufwand pro Patent oder vergleichbares Recht (Nexusquotient) mit einer Ermässigung von 90 Prozent in die Berechnung des steuerbaren Reingewinns einbezogen.
 
 <sup>2</sup> Der Reingewinn aus Patenten und vergleichbaren Rechten, die in Produkten enthalten sind, ermittelt sich, indem der Reingewinn aus diesen Produkten jeweils um 6 Prozent der diesen Produkten zugewiesenen Kosten sowie um das Markenentgelt vermindert wird.
 
@@ -1176,7 +1194,7 @@ beschliesst:
 
 **Entlastungsbegrenzung**
 
-<sup>1</sup> Die gesamte steuerliche Ermässigung nach § 72b Absätze 1 und 2 darf nicht höher sein als 20 Prozent beziehungsweise bei Anwendung von § 259b als 70 Prozent des steuerbaren Gewinns vor Verlustverrechnung, unter Ausklammerung des Nettobeteiligungsertrags nach den §§ 82 und 83 und vor Abzug der vorgenannten Ermässigung.
+<sup>1</sup> Die gesamte steuerliche Ermässigung nach § 72b Absätze 1 und 2 sowie § 72f darf nicht höher sein als 70 Prozent des steuerbaren Gewinns vor Verlustverrechnung, unter Ausklammerung des Nettobeteiligungsertrags nach den §§ 82 und 83 und vor Abzug der vorgenannten Ermässigungen.
 
 <sup>2</sup> Es dürfen weder aus den einzelnen Ermässigungen noch aus der gesamten steuerlichen Ermässigung Verlustvorträge resultieren.
 
@@ -1200,20 +1218,48 @@ beschliesst:
 
 <sup>2</sup> Als Ende der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben,Teilbetrieben oder Funktionen aus dem Inland in einen ausländischen Geschäftsbetrieb oder in eine ausländische Betriebsstätte, der Übergang zu einer Steuerbefreiung nach § 70 Absatz 1 sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung ins Ausland.
 
+#### § 72f
+
+**Zusätzlicher Abzug von Forschungs- und Entwicklungsaufwand**
+
+<sup>1</sup> Forschungs- und Entwicklungsaufwand, welcher der steuerpflichtigen Person direkt oder durch Dritte im Inland indirekt entstanden ist, wird auf Antrag um den vom Regierungsrat durch Verordnung festgelegten Prozentsatz, höchstens jedoch um 50 Prozent, über den geschäftsmässig begründeten Forschungs- und Entwicklungsaufwand hinaus zum Abzug zugelassen. § 72c bleibt vorbehalten.
+
+<sup>2</sup> Als Forschung und Entwicklung gelten die wissenschaftliche Forschung und die wissenschaftsbasierte Innovation nach Artikel 2 des Bundesgesetzes über die Förderung der Forschung und Innovation vom 14. Dezember 2012[^72f-1].
+
+<sup>3</sup> Ein erhöhter Abzug ist zulässig auf
+
+- a. den direkt zurechenbaren Personalaufwand für Forschung und Entwicklung, zuzüglich eines Zuschlags von 35 Prozent dieses Personalaufwands, höchstens aber bis zum gesamten Aufwand der steuerpflichtigen Person,
+- b 80 Prozent des Aufwands für durch Dritte in Rechnung gestellte Forschung und Entwicklung.
+
+<sup>4</sup> Ist die Person, die den Auftrag der Forschung und Entwicklung erteilt hat, abzugsberechtigt, steht der Person, die den Auftrag ausgeführt hat, dafür kein Abzug zu.
+
+[^72f-1]: SR [420.1](https://db.clex.ch/link/Bund/420.1/de)
+
 #### § 73
 
 **Geschäftsmässig begründeter Aufwand**
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören auch
 
-- a. die Steuern, nicht aber die Steuerbussen,
+- a. die eidgenössischen, kantonalen und kommunalen Steuern,
 - b. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist,
 - c. die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des Reingewinns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (§ 70 Abs. 1h), sowie an Bund, Kanton, Gemeinden und deren Anstalten (§ 70 Abs. 1 a–d); der Regierungsrat kann bei Vorliegen eines erheblichen öffentlichen Interesses einen höheren Abzug bewilligen für Zuwendungen an juristische Personen, die in beträchtlichem Mass durch den Kanton oder die Gemeinden unterstützt werden,
-- d. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- d. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals,
+- e. gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
 <sup>2</sup> Dem geschäftsmässig begründeten Aufwand gleichgestellt sind die Rabatte, die Skonti, die Umsatzbonifikationen und die Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie die zur Verteilung an die Versicherten bestimmten Überschüsse von Versicherungsgesellschaften.
 
-<sup>3</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinn des schweizerischen Strafrechts an schweizerische und fremde Amtsträgerinnen und Amtsträger.
+<sup>3</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere
+
+- a. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts,
+- b. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten,
+- c. Bussen,
+- d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Absatz 3c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn
+
+- a. die Sanktion gegen den schweizerischen Ordre public verstösst oder
+- b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 74
 
@@ -1331,18 +1377,22 @@ beschliesst:
 
 <sup>5</sup> Transaktionen, die in einem Konzern eine ungerechtfertigte Steuerersparnis bewirken, führen zu einer Berichtigung des steuerbaren Reingewinns und Eigenkapitals oder zu einer Kürzung der Ermässigung. Eine ungerechtfertigte Steuerersparnis liegt vor, wenn Kapitalgewinne und Kapitalverluste oder Abschreibungen auf Beteiligungen im Sinn der §§ 76, 82 und 83 in kausalem Zusammenhang stehen.
 
+<sup>6</sup> Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 1 des Bankengesetzes vom 8. November 1934[^82-1] (BankG) werden für die Berechnung des Nettoertrags nach Absatz 1 der Finanzierungsaufwand und die Forderung in der Bilanz aus konzernintern weitergegebenen Mitteln nicht berücksichtigt, wenn diese Mittel aus Fremdkapitalinstrumenten nach den Artikeln 11 Absatz 4 oder 30b Absatz 6 oder 7 Buchstabe b BankG stammen, die von der Eidgenössischen Finanzmarktaufsicht im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigt wurden.
+
+[^82-1]: SR [952.0](https://db.clex.ch/link/Bund/952.0/de)
+
 #### § 83
 
 **Kapital- und Aufwertungsgewinne auf Beteiligungen**
 
-<sup>1</sup> Zum Ertrag aus Beteiligungen gehören unter Vorbehalt von Absatz 2 und 3 auch die Kapitalgewinne auf diesen Beteiligungen, die Erlöse aus den dazugehörigen Bezugsrechten sowie die Buchgewinne infolge Aufwertung gemäss Artikel 670 OR.
+<sup>1</sup> Zum Ertrag aus Beteiligungen gehören unter Vorbehalt von Absatz 2 und 3 auch die Kapitalgewinne auf diesen Beteiligungen, die Erlöse aus den dazugehörigen Bezugsrechten sowie die Buchgewinne infolge Aufwertung gemäss Artikel 725c OR.
 
-<sup>2</sup> Kapitalgewinne und Buchgewinne infolge Aufwertung gemäss Artikel 670 OR werden bei der Berechnung der Ermässigung gemäss § 82 nur berücksichtigt,
+<sup>2</sup> Kapitalgewinne und Buchgewinne infolge Aufwertung gemäss Artikel 725c OR werden bei der Berechnung der Ermässigung gemäss § 82 nur berücksichtigt,
 
 - a. soweit der Erlös oder die Aufwertung die Gestehungskosten übersteigt,
 - b. wenn die veräusserte Beteiligung mindestens 10 Prozent des Grund- oder Stammkapitals einer anderen Gesellschaft betrug oder einen Anspruch auf mindestens 10 Prozent des Gewinns und der Reserven einer anderen Gesellschaft begründete und während mindestens eines Jahres im Besitz der veräussernden Kapitalgesellschaft oder Genossenschaft war; fällt die Beteiligungsquote infolge Teilveräusserung unter 10 Prozent, kann die Ermässigung für jeden folgenden Veräusserungsgewinn nur beansprucht werden, wenn die Beteiligungsrechte am Ende des Steuerjahres vor dem Verkauf einen Verkehrswert von mindestens 1 Million Franken hatten.
 
-<sup>3</sup> Die Gestehungskosten werden um die vorgenommenen Abschreibungen herabgesetzt, soweit diese eine Kürzung der Ermässigung gemäss § 82 Absatz 4 zur Folge hatten. Nach einer Aufwertung gemäss Artikel 670 OR werden die Gestehungskosten entsprechend erhöht. Bei Beteiligungen, die bei einer erfolgsneutralen Umstrukturierung zu Buchwerten übertragen worden sind, wird auf die ursprünglichen Gestehungskosten abgestellt.
+<sup>3</sup> Die Gestehungskosten werden um die vorgenommenen Abschreibungen herabgesetzt, soweit diese eine Kürzung der Ermässigung gemäss § 82 Absatz 4 zur Folge hatten. Nach einer Aufwertung gemäss Artikel 725c OR werden die Gestehungskosten entsprechend erhöht. Bei Beteiligungen, die bei einer erfolgsneutralen Umstrukturierung zu Buchwerten übertragen worden sind, wird auf die ursprünglichen Gestehungskosten abgestellt.
 
 #### § 84
 
@@ -1421,13 +1471,13 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die Steuer je Einheit beträgt 0,5 Promille des steuerbaren Eigenkapitals. Vorbehalten bleibt Absatz 4.
+<sup>1</sup> Die Steuer beträgt 0,01 Promille des steuerbaren Eigenkapitals.
 
 <sup>2</sup> Eigenkapital unter 100 000 Franken von Vereinen, Stiftungen und übrigen juristischen Personen mit Ausnahme der kollektiven Kapitalanlagen wird nicht besteuert.
 
 <sup>3</sup> Eigenkapital unter 100 000 Franken von juristischen Personen mit ideellen Zwecken wird nicht besteuert, sofern es ausschliesslich und unwiderruflich diesen Zwecken gewidmet ist.
 
-<sup>4</sup> Auf dem Anteil des steuerbaren Eigenkapitals, der auf Beteiligungen nach § 82 Absatz 1, Rechte nach § 72a und Konzernforderungen entfällt, ist eine feste Steuer von 0,01 Promille zu entrichten. Massgebend für die Ermittlung dieses Anteils ist das Verhältnis der Beteiligungen nach § 82 Absatz 1, der Rechte nach § 72a sowie des Aktivenüberschusses von Konzernforderungen und Konzernschulden zu den um die verrechneten Konzernschulden verringerten Aktiven.
+<sup>4</sup> …
 
 #### § 94
 
@@ -1468,6 +1518,8 @@ beschliesst:
 
 <sup>2</sup> Wird eine juristische Person aufgelöst oder verlegt sie ihren Sitz, die Verwaltung, einen Geschäftsbetrieb oder eine Betriebsstätte ins Ausland, werden die aus nicht versteuertem Gewinn gebildeten stillen Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahres besteuert.
 
+<sup>3</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 #### § 98
 
 **Bemessung des Eigenkapitals**
@@ -1475,6 +1527,8 @@ beschliesst:
 <sup>1</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode.
 
 <sup>2</sup> Bei über- oder unterjährigen Geschäftsabschlüssen bestimmt sich die Höhe der Kapitalsteuer nach der Dauer des Geschäftsjahres.
+
+<sup>3</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 #### § 99
 
@@ -1809,7 +1863,7 @@ beschliesst:
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen und regelt die Verteilung der Steuer unter den Gemeinden.
+<sup>1</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen und regelt die Verteilung der Steuer unter den Gemeinden nach Abzug der Verwaltungskosten des Kantons.
 
 <sup>2</sup> Er kann für die §§ 108–111 Bezugsminima festlegen.
 
@@ -2538,7 +2592,7 @@ beschliesst:
 
 **Verantwortlichkeit**
 
-<sup>1</sup> Die Steuerbeträge sind innert fünfzehn Tagen nach Zahlungseingang an die Staatskasse zu überweisen. Bei verspäteter Ablieferung wird ein vom Regierungsrat festgelegter Zins erhoben.
+<sup>1</sup> Der am Monatsende jeweils bestehende Saldo der Steuerbeträge ist innert 15 Tagen an den Kanton zu überweisen. Bei verspäteter Ablieferung wird ein vom Regierungsrat festgelegter Zins erhoben.
 
 <sup>2</sup> Die Einwohnergemeinden sind für den richtigen Bezug und die rechtzeitige Ablieferung der Steuern verantwortlich. Sie haften unmittelbar für die Handlungen und Unterlassungen der damit beauftragten Gemeindeorgane.
 
@@ -3329,6 +3383,43 @@ beschliesst:
 #### § 259e
 
 <sup>1</sup> Der Regierungsrat unterbreitet dem Kantonsrat spätestens vier Jahre nach dem Inkrafttreten der Änderung vom 9. September 2019 einen Wirkungsbericht zu dieser Gesetzesänderung.
+
+### 4.3.13 Tarif Kapitalleistungen aus Versicherung und Vorsorge
+
+#### § 259f
+
+<sup>1</sup> In Abweichung von § 58 Absatz 2 beträgt die Steuer je Einheit in den drei Steuerjahren nach Inkrafttreten der Änderung vom 18. März 2024 0,5 Prozent auf den ersten 40 000 Franken und 1,4 Prozent ab 40 000 Franken.
+
+### 4.3.14 Kapitalsteuersatz
+
+#### § 259g
+
+<sup>1</sup> In Abweichung von § 93 Absatz 1 beträgt die Steuer je Einheit in den drei Steuerjahren nach Inkrafttreten der Änderung vom 18. März 2024 0,25 Promille des steuerbaren Eigenkapitals. Vorbehalten bleibt § 93 Absatz 4 in der bis zur Änderung vom 18. März 2024 gültigen Fassung.
+
+### 4.3.15 Beteiligung der Einwohnergemeinden am Ertrag der Mindestbesteuerung grosser Unternehmensgruppen und Abfederung der Ertragsausfälle aufgrund der Änderung vom 18. März 2024
+
+#### § 259h
+
+<sup>1</sup> Der Kanton Luzern beteiligt die Einwohnergemeinden ab Inkrafttreten der Änderung vom 18. März 2024 am Ertrag aus der Mindestbesteuerung grosser Unternehmensgruppen bis ins Jahr 2029 jährlich im Umfang von 26,6 Millionen Franken (Gemeindeanteil) und ab dem Jahr 2030 mit 23,5 Millionen Franken. Der Gemeindeanteil steht den Einwohnergemeinden unabhängig vom effektiven Ertrag zu, der dem Kanton Luzern aus der Mindestbesteuerung grosser Unternehmensgruppen zufällt.
+
+<sup>2</sup> In den ersten zwei Jahren wird der Gemeindeanteil auf die Einwohnergemeinden je zur Hälfte entsprechend ihren Ertragsausfällen bei den Steuern aufgrund der Änderung vom 18. März 2024 und ihrer Einwohnerzahl verteilt und ab dem dritten Jahr entsprechend ihrer Einwohnerzahl.
+
+<sup>3</sup> Für die Verteilung des Gemeindeanteils entsprechend den Ertragsausfällen ist der Ertragsausfall der einzelnen Einwohnergemeinde im Verhältnis zum Ertragsausfall sämtlicher Einwohnergemeinden massgebend. Die Ertragsausfälle errechnen sich aus der Differenz zwischen den durchschnittlichen Steuererträgen im sechsten bis vierten Jahr vor dem Verteiljahr mit und ohne Änderung des Steuergesetzes vom 18. März 2024. Zur Berechnung der Ertragsausfälle werden berücksichtigt:
+
+- a. bei den natürlichen Personen:
+  - 1\. Ausfälle aus dem Abzug für Kosten der Drittbetreuung von Kindern gemäss § 40 Absatz 1l StG,
+  - 2\. Ausfälle aus den Sozialabzügen gemäss § 42 Absätze 1 und 2 StG,
+  - 3\. Ausfälle aus der Besteuerung von Kapitalleistungen aus Versicherung und Vorsorge gemäss den §§ 58 Absatz 2 und 259f StG,
+- b. bei den juristischen Personen:
+  - 1\. Ausfälle aus der Kapitalsteuer gemäss den §§ 93 Absätze 1 und 4 und 259g StG.
+
+<sup>4</sup> Für die Verteilung des Gemeindeanteils im Verhältnis der Einwohnerzahl sind die Einwohnerzahlen der ständigen Wohnbevölkerung gemäss Verordnung über die Bevölkerungsstatistik vom 22. November 2011[^259h-1] massgebend.
+
+<sup>5</sup> Den Einwohnergemeinden wird ihr Anteil jeweils bis zum 30. April des Verteiljahres ausbezahlt, erstmals im Jahr des Inkrafttretens der Änderung vom 18. März 2024.
+
+<sup>6</sup> Der Regierungsrat überprüft innert fünf Jahren nach dem Inkrafttreten der Änderung vom 18. März 2024 die Beteiligung der Einwohnergemeinden am Ertrag der Mindestbesteuerung grosser Unternehmensgruppen und unterbreitet dem Kantonsrat allenfalls eine Neufestsetzung des Gemeindeanteils und der Verteilung auf die Einwohnergemeinden.
+
+[^259h-1]: SRL Nr. 28d
 
 ### 4.4 Direkte Bundessteuer
 
