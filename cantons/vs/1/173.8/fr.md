@@ -4,13 +4,12 @@ number: "173.8"
 title: Loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives
 short: LTar
 language: fr
-version: 2023-01-01
-corrected: 2023-04-14
-version_adopted: 2021-11-18
+version: 2025-01-01
+version_adopted: 2023-11-16
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.8"
-pdf: "https://lex.vs.ch/api/fr/versions/3025/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3360/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3025/pdf_file"
 
 (LTar)
 
-du 11.02.2009 (état 01.01.2023)
+du 11.02.2009 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -195,7 +194,7 @@ ordonne:
 - a) de 50 à 100 francs pour la citation en conciliation, selon le nombre de défendeurs;
 - b) de 120 à 250 francs pour la tenue de la séance de conciliation.
 
-<sup>2</sup> Pour les litiges patrimoniaux dont la valeur litigieuse ne dépasse pas 2'000 francs et pour les propositions de jugement, il est perçu un émolument de 60 à 500 francs.
+<sup>2</sup> Pour les litiges patrimoniaux dont la valeur litigieuse ne dépasse pas 2'000 francs et pour les propositions de décision, il est perçu un émolument de 60 à 500 francs.
 
 #### Art. 16
 
@@ -370,10 +369,10 @@ ordonne:
 
 **Procédures devant le juge de commune**
 
-<sup>1</sup> 1 Devant le juge de commune, les honoraires sont fixés comme il suit:
+<sup>1</sup> Devant le juge de commune, les honoraires sont fixés comme il suit:
 
-- a) pour la proposition de jugement de 60 à 250 francs;
-- b) pour la procédure de décision de 250à 900 francs.
+- a) pour la proposition de décision de 60 à 250 francs;
+- b) pour la procédure de décision de 250 à 900 francs.
 
 <sup>2</sup> Pour la procédure de révision, d'interprétation et de rectification, les honoraires oscillent entre 250 et 900 francs.
 
