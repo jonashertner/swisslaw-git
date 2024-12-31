@@ -4,11 +4,11 @@ title: Ordonnance du 11 juin 2021 sur les prestations transitoires pour les chô
 short: OPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-376-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-376-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/fr"
 
 (OPtra)
 
-du 11 juin 2021 (État le 1<sup>er</sup> janvier 2024)
+du 11 juin 2021 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -154,9 +154,9 @@ L’adaptation en fonction du pouvoir d’achat du pays de résidence prévue à
 
 <sup>2</sup> L’al. 1 s’applique également aux personnes qui ont un usufruit ou un droit d’habitation sur l’immeuble qu’elles habitent.
 
-<sup>3</sup> Le montant du forfait s’élève à 3060 francs par année.[^11-1]
+<sup>3</sup> Le montant du forfait s’élève à 3480 francs par année.[^11-1]
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
 
 #### Art. 12
 
@@ -193,9 +193,12 @@ Est considérée comme prime effective la prime qui a été approuvée par l’a
 
 ### (Art. 9, al. 4, LPtra)
 
-<sup>1</sup> La région 1 correspond au type 111 de la typologie des communes 2012 (25 catégories). Elle comprend les cinq centres urbains de Berne, Zurich, Bâle, Genève et Lausanne.
+<sup>1</sup> La région 1 correspond au type 111 de la typologie des communes 2020 (25 catégories).[^14-1] Elle comprend les cinq centres urbains de Berne, Zurich, Bâle, Genève et Lausanne.
 
-<sup>2</sup> Les autres communes sont réparties dans deux régions définies sur la base de la typologie urbain-rural 2012. La région 2 comprend les communes des catégories «urbain» et «intermédiaire», la région 3 les communes de la catégorie «rural».
+<sup>2</sup> Les autres communes sont réparties dans deux régions définies sur la base de la typologie urbain-rural 2020.[^14-2] La région 2 comprend les communes des catégories «urbain» et «intermédiaire», la région 3 les communes de la catégorie «rural».
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
 
 #### Art. 15
 
@@ -720,7 +723,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2021.
 
 Annexe
 
-(Art. 56)
+(art. 56)
 
 ## Modification d’autres actes
 

@@ -4,11 +4,11 @@ title: Verordnung vom 11. Juni 2021 über Überbrückungsleistungen für ältere
 short: ÜLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-376-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-376-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/de"
 
 (ÜLV)
 
-vom 11. Juni 2021 (Stand am 1. Januar 2024)
+vom 11. Juni 2021 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -154,9 +154,9 @@ Die Anpassung an die Kaufkraft des Wohnsitzstaates nach Artikel 8 ÜLG erfolgt a
 
 <sup>2</sup> Absatz 1 gilt auch für Personen, denen die Nutzniessung oder ein Wohnrecht an der Liegenschaft zusteht, die sie bewohnen.
 
-<sup>3</sup> Die Pauschale beträgt pro Jahr 3060 Franken.[^11-1]
+<sup>3</sup> Die Pauschale beträgt pro Jahr 3480 Franken.[^11-1]
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
 
 #### Art. 12
 
@@ -193,9 +193,12 @@ Als tatsächliche Prämie gilt die Prämie, die die Aufsichtsbehörde nach Artik
 
 ### (Art. 9 Abs. 4 ÜLG)
 
-<sup>1</sup> Die Region 1 entspricht der Kategorie 111 der Gemeindetypologie 2012 (25 Typen). Sie umfasst die fünf Grosszentren Bern, Zürich, Basel, Genf und Lausanne.
+<sup>1</sup> Die Region 1 entspricht der Kategorie 111 der Gemeindetypologie 2020 (25 Typen).[^14-1] Sie umfasst die fünf Grosszentren Bern, Zürich, Basel, Genf und Lausanne.
 
-<sup>2</sup> Der Einteilung der übrigen Gemeinden in die zwei Regionen liegt die Stadt/Land-Typologie 2012 zugrunde. Der Region 2 werden die Gemeinden der Kategorien «städtisch» und «intermediär», der Region 3 die Gemeinden der Kategorie «ländlich» zugeteilt.
+<sup>2</sup> Der Einteilung der übrigen Gemeinden in die zwei Regionen liegt die Stadt/Land-Typologie 2020 zugrunde.[^14-2] Der Region 2 werden die Gemeinden der Kategorien «städtisch» und «intermediär», der Region 3 die Gemeinden der Kategorie «ländlich» zugeteilt.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
 
 #### Art. 15
 
@@ -446,8 +449,8 @@ Krankheits- und Behinderungskosten von Kindern, die nach Artikel 7 Absatz 4 ÜLG
 
 <sup>4</sup> Die Rechnungen müssen den Tarifpositionen nach den UV/MV/IV-Tarifen entsprechen.
 
-[^32-1]: Der Zahnarzttarif SSO ist abrufbar unter: www.metk.ctm.ch &gt; Tarife &gt; Zahnarzttarif SSO.
-[^32-2]: Der Zahntechnikertarif VZLS ist abrufbar unter: www.metk.ctm.ch &gt; Tarife &gt; Zahntechnikertarif.
+[^32-1]: Der Zahnarzttarif SSO ist abrufbar unter: [www.metk.ctm.ch](http://www.metk.ctm.ch) &gt; Tarife &gt; Zahnarzttarif SSO.
+[^32-2]: Der Zahntechnikertarif VZLS ist abrufbar unter: [www.metk.ctm.ch](http://www.metk.ctm.ch) &gt; Tarife &gt; Zahntechnikertarif.
 
 #### Art. 33
 

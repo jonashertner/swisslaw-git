@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 giugno 2021 sulle prestazioni transitorie per i disocc
 short: OPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-376-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2021-376-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/it"
 
 (OPTD)
 
-dell’11 giugno 2021 (Stato 1° gennaio 2024)
+dell’11 giugno 2021 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -154,9 +154,9 @@ L’adeguamento al potere d’acquisto dello Stato di domicilio secondo l’arti
 
 <sup>2</sup> Il capoverso 1 si applica anche alle persone che beneficiano di un usufrutto o sono titolari di un diritto di abitazione sull’immobile da esse abitato.
 
-<sup>3</sup> L’importo forfettario ammonta a 3060 franchi all’anno.[^11-1]
+<sup>3</sup> L’importo forfettario ammonta a 3480 franchi all’anno.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
 
 #### Art. 12
 
@@ -193,9 +193,12 @@ Il premio effettivo è il premio che l’autorità di vigilanza di cui all’art
 
 ### (art. 9 cpv. 4 LPTD)
 
-<sup>1</sup> La regione 1 corrisponde alla categoria 111 della tipologia dei Comuni 2012 (25 tipi). Essa comprende i cinque grandi centri di Berna, Zurigo, Basilea, Ginevra e Losanna.
+<sup>1</sup> La regione 1 corrisponde alla categoria 111 della tipologia dei Comuni 2020 (25 tipi).[^14-1] Essa comprende i cinque grandi centri di Berna, Zurigo, Basilea, Ginevra e Losanna.
 
-<sup>2</sup> La ripartizione dei rimanenti Comuni tra le altre due regioni si basa sulla tipologia urbano-rurale 2012. Nella regione 2 rientrano i Comuni delle categorie «urbana» e «intermedia», nella regione 3 quelli della categoria «rurale».
+<sup>2</sup> La ripartizione dei rimanenti Comuni tra le altre due regioni si basa sulla tipologia urbano-rurale 2020.[^14-2] Nella regione 2 rientrano i Comuni delle categorie «urbana» e «intermedia», nella regione 3 quelli della categoria «rurale».
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
 
 #### Art. 15
 
@@ -520,7 +523,7 @@ Le spese di acquisto o di noleggio di mezzi ausiliari sono rimborsate, se questi
 <sup>3</sup> Se una persona domiciliata all’estero presenta una domanda per ricevere prestazioni transitorie, è competente l’organo esecutivo dell’ultimo Cantone in cui la persona è stata domiciliata in Svizzera. Per le persone che non sono mai state domiciliate in Svizzera è competente l’organo esecutivo del Cantone della sede del loro ultimo datore di lavoro.
 
 [^37-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^37-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 38
 
