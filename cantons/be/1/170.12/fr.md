@@ -4,13 +4,12 @@ number: "170.12"
 title: "Loi sur l'encouragement des fusions de communes"
 short: "Loi sur les fusions de communes, LFCo"
 language: fr
-version: 2020-11-01
-valid_until: 2024-12-31
-version_adopted: 2020-09-02
+version: 2025-01-01
+version_adopted: 2024-06-04
 adopted: 2024-06-04
 in_force: 2025-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2012/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3086/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,139 +18,169 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2012/pdf_file"
 
 (Loi sur les fusions de communes, LFCo)
 
-du 25.11.2004 (état au 01.11.2020)
+du 04.06.2024 (état au 01.01.2025)
 
 Le Grand Conseil du canton de Berne,
+
+vu l'article 108, alinéa 5 de la Constitution cantonale[^ingress-1],
 
 sur proposition du Conseil-exécutif,
 
 arrête:
 
+[^ingress-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
+
 #### Art. 1
 
-**But, objectifs d'effet**
+**But**
 
-<sup>1</sup> La présente loi a pour but d’encourager les fusions volontaires de communes municipales et de communes mixtes ainsi que de paroisses par l’octroi d’une aide financière.
+<sup>1</sup> La présente loi a pour but d’encourager les fusions volontaires de communes par l’octroi de subventions cantonales destinées à la préparation et à la mise en œuvre des fusions.
 
-<sup>2</sup> L'encouragement des fusions de communes vise les objectifs d'effet suivants:
+<sup>2</sup> Sont considérées comme communes au sens de la présente loi
 
-- a accroissement des capacités des communes,
-- b renforcement de l'autonomie communale,
-- c accomplissement efficace des prestations communales à des coûts avantageux.
+- a les communes municipales, les communes mixtes, les paroisses et les paroisses générales des Églises nationales,
+- b les communes et corporations bourgeoises en ce qui concerne l’octroi de subventions en faveur d’études préliminaires (art. 3).
+
+<sup>3</sup> Les subventions cantonales au sens de la présente loi sont accordées sous la forme
+
+- a de subventions en faveur d’études préliminaires (art. 3),
+- b de subventions en faveur de fusions (art. 4 et 5),
+- c de bonus pour les fusions impliquant une commune centre (art. 6 à 8).
 
 #### Art. 2
 
-**Contrôle des effets et des résultats**
+**Objectifs d’effet**
 
-<sup>1</sup> Après six ans, le Conseil-exécutif évalue l'impact de la présente loi.
+<sup>1</sup> L’encouragement des fusions volontaires de communes vise les objectifs d’effet suivants:
 
-<sup>2</sup> Il soumet ensuite au Grand Conseil un rapport ou un projet de modification de la présente loi.
+- a la garantie des capacités des communes,
+- b le soutien à l’accomplissement efficace des tâches communales à des coûts avantageux,
+- c le renforcement de l’autonomie communale.
 
 #### Art. 3
 
-**Octroi de l’aide financière aux communes municipales et aux communes mixtes 1. Conditions**
+**Subvention en faveur d’une étude préliminaire**
 
-<sup>1</sup> L’aide financière peut être accordée sur demande
+<sup>1</sup> Le service compétent de la Direction de l’intérieur et de la justice peut, à la demande des communes concernées, verser, dans le cas de la préparation à une fusion, une subvention en faveur d’une étude préliminaire, indépendante du résultat, pouvant aller jusqu’à 70'000 francs par cas.
 
-- a lorsque la fusion est achevée;
-- b que la nouvelle commune a une population résidante d'au moins 1000 personnes et que
-- c les ressources financières nécessaires (art. 8) sont disponibles.
+<sup>2</sup> Si plus de deux communes participent à l’étude préliminaire, la prestation est majorée de 10'000 francs au plus par commune supplémentaire, mais elle s’élève à 120'000 francs au maximum par cas.
 
-<sup>2</sup> Sur requête motivée, une aide financière peut exceptionnellement être accordée si la nouvelle commune a une population résidante inférieure à 1000 personnes.
-
-<sup>3</sup> Les demandes sont traitées dans leur ordre d'arrivée.
+<sup>3</sup> La décision sur l’octroi d’une subvention en faveur de l’étude préliminaire est susceptible de recours devant la Direction de l’intérieur et de la justice.
 
 #### Art. 4
 
-**2. Calcul de l’aide financière**
+**Subvention en faveur d’une fusion**
 
-<sup>1</sup> L’aide financière est calculée en multipliant le montant de la subvention par habitant, de 400 francs, par le chiffre de la population résidante de toutes les communes qui fusionnent et par le multiplicateur applicable.
+<sup>1</sup> La Direction de l’intérieur et de la justice peut, à la demande de la commune issue de la fusion, verser une subvention lorsque
+
+- a la fusion est achevée et que
+- b la commune issue de la fusion a une population résidante d’au moins 1000 personnes.
+
+<sup>2</sup> En présence de circonstances particulières, la subvention en faveur d’une fusion peut exceptionnellement être accordée à une commune issue d’une fusion dont la population résidante est inférieure à 1000 personnes si la commune dépose une requête motivée à cet égard.
+
+<sup>3</sup> L’alinéa 1, lettre b ne s’applique pas aux fusions de paroisses.
+
+<sup>4</sup> La décision sur l’octroi de la subvention en faveur de la fusion est susceptible de recours auprès du Conseil-exécutif.
 
 #### Art. 5
 
-**3. Population résidante**
+**Calcul de la subvention en faveur de la fusion**
 
-<sup>1</sup> La population résidante est calculée en application de l'article 7 LPFC[^5-1]. Les chiffres déterminants sont ceux de l'année précédant la fusion.
+<sup>1</sup> La subvention en faveur de la fusion de communes municipales ou de communes mixtes s’élève forfaitairement à 400'000 francs.
 
-<sup>2</sup> La population de chacune des communes qui fusionnent est prise en compte jusqu'à concurrence de 1000 habitants.
-
-[^5-1]: RSB 631.1
+<sup>2</sup> La subvention en faveur de la fusion de paroisses est fixée en fonction de la situation financière des paroisses concernées, de leur nombre et de celui de leurs membres et s’élève au maximum à 200'000 francs.
 
 #### Art. 6
 
-**4. Multiplicateur**
+**Conditions posées à l’octroi d’un bonus pour une fusion impliquant une commune centre**
 
-<sup>1</sup> Lorsque deux communes fusionnent, le multiplicateur est de 1. Il est majoré de 0,1 unité pour chaque commune supplémentaire participant à la fusion.
+<sup>1</sup> La Direction de l’intérieur et de la justice peut, en plus de la subvention en faveur de la fusion de communes municipales ou de communes mixtes, à la demande de la commune issue de la fusion, verser un bonus si
+
+- a une commune centre du 1<sup>er</sup> au 4<sup>e</sup> niveau selon le plan directeur cantonal est impliquée ou si
+- b la commune issue de la fusion prouve qu’elle assume une fonction de centre.
+
+<sup>2</sup> Dans le cadre de l'examen de la preuve selon l'alinéa 1, lettre b, la Direction de l'intérieur et de la justice consulte la conférence régionale ou la région d'aménagement compétente.
+
+<sup>3</sup> La décision sur l'octroi du bonus pour une fusion impliquant une commune centre est susceptible de recours auprès du Conseil-exécutif.
 
 #### Art. 7
 
-**5. Fusions successives**
+**Calcul du bonus**
 
-<sup>1</sup> En cas de fusions successives, et pour autant que la précédente fusion ait eu lieu moins de trois ans auparavant, la population résidante des communes ayant déjà bénéficié d’une aide financière lors d’une précédente fusion n’est pas prise en considération dans le calcul de la nouvelle aide financière.
+<sup>1</sup> Le bonus pour une fusion impliquant une commune centre se calcule en multipliant la contribution de base dépendant de la population de chaque commune qui fusionne au sens de l’alinéa 2 par le facteur de regroupement fixé à l’alinéa 3.
 
-#### Art. 7a
+<sup>2</sup> La contribution de base est la suivante:
 
-**Octroi aux paroisses de l’aide financière et de prestations complémentaires liées à des projets**
+<table>
+<tr><th></th><th>Population résidante</th><th>Contribution de base, en CHF</th></tr>
+<tr><td>a</td><td>de 5000 personnes au plus</td><td>800'000</td></tr>
+<tr><td>b</td><td>comprise entre 5001 et 10'000 personnes</td><td>1'200'000</td></tr>
+<tr><td>c</td><td>comprise entre 10'001 et 30'000 personnes</td><td>1'500'000</td></tr>
+<tr><td>d</td><td>de 30'001 personnes et au-delà</td><td>1'800'000</td></tr>
+</table>
 
-<sup>1</sup> Lors de fusions de paroisses, une aide financière d’un montant allant jusqu’à 200 000 francs par cas peut être accordée sur demande lorsque
-
-- a la fusion est achevée, et que
-- b les ressources financières nécessaires (art. 8) sont disponibles.
-
-<sup>2</sup> Lors du calcul de l’aide financière au sens de l’alinéa 1, le service compétent de la Direction de l’intérieur et de la justice tient compte de la situation financière des paroisses qui ont fusionné et du nombre de leurs paroissiens et paroissiennes. La procédure est régie par l’article 9.
-
-<sup>3</sup> Le Conseil-exécutif peut verser aux paroisses désireuses de fusionner des prestations complémentaires d’un montant allant jusqu’à 50 000 francs par cas pour la préparation et la mise en œuvre des projets. Les prestations complémentaires accordées aux paroisses sont à la charge du crédit-cadre prévu à l’article 8, alinéa 2.
+<sup>3</sup> Le facteur de regroupement est de 1 lors d’une fusion de deux communes et s’accroît de 0,2 unité pour chaque commune supplémentaire.
 
 #### Art. 8
 
-**Financement**
+**Exception et limite supérieure pour le calcul du bonus**
 
-<sup>1</sup> Le Conseil-exécutif arrête tous les quatre ans le montant qui peut être affecté au versement d'aides financières destinées à l'encouragement de fusions de communes à charge du financement spécial «Fonds pour les cas spéciaux» au sens de l'article 49 LPFC.
+<sup>1</sup> Une commune dont la population résidante n’atteint pas, mais de peu, l'un des seuils prévus à l’article 7, alinéa 2 peut, dans des cas motivés, être affectée à la catégorie directement supérieure.
 
-<sup>2</sup> En complément aux ressources prévues à l'alinéa 1, le Grand Conseil autorise un crédit-cadre à charge du compte de résultats.
+<sup>2</sup> Le bonus octroyé s’élève au maximum à 3,1 millions de francs.
 
 #### Art. 9
 
-**Procédure et compétences**
+**Population résidante**
 
-<sup>1</sup> Les communes désireuses de fusionner soumettent conjointement une demande d'aide financière au service compétent de la Direction de l’intérieur et de la justice.
+<sup>1</sup> La population résidante est calculée en application de l’article 7 de la loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC)[^9-1].
 
-<sup>2</sup> Les communes concernées sont informées du montant de l'aide financière qu'elles peuvent escompter.
+<sup>2</sup> Les chiffres déterminants pour le calcul sont ceux de l’année précédant la fusion.
 
-<sup>3</sup> Le service compétent de la Direction de l’intérieur et de la justice accorde l'aide financière à la nouvelle commune dans les limites des ressources libérées par le Conseil-exécutif et le Grand Conseil.
-
-<sup>4</sup> La décision au sens de l'alinéa 3 est susceptible de recours devant la Direction de l’intérieur et de la justice qui statue en dernière instance cantonale.
+[^9-1]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
 
 #### Art. 10
 
-**Dispositions transitoires**
+**Financement**
 
-<sup>1</sup> Une aide financière au sens de la présente loi peut être accordée rétroactivement aux communes qui ont fusionné avant son entrée en vigueur, mais après le 1er janvier 2003.
-
-<sup>2</sup> Les communes qui ont obtenu une aide financière au sens de la présente loi bénéficient du remboursement rétroactif des prestations complémentaires (art. 34, al. 2 et 3 LPFC) dont le montant a été porté en déduction lors du calcul de l’aide financière.
+<sup>1</sup> L’organe compétent autorise tous les quatre ans un crédit-cadre pour les subventions cantonales destinées à l’encouragement de fusions volontaires de communes.
 
 #### Art. 11
 
-**Modification d'un acte législatif**
+**Disposition transitoire**
 
-<sup>1</sup> La loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC) est modifiée comme suit:
+<sup>1</sup> Une aide financière selon les articles 3 à 7 de la loi du 25 novembre 2004 sur l’encouragement des fusions de communes (loi sur les fusions de communes, LFCo)[^11-1] peut être accordée à une fusion achevée, qui a été décidée avant l’entrée en vigueur de la présente loi et qui, en vertu de l’ancien droit, aurait bénéficié d’une subvention cantonale plus élevée, même si la demande de subvention nécessaire à cet égard est déposée après l’entrée en vigueur de la présente loi.
+
+[^11-1]: RSB [170.12](https://www.belex.sites.be.ch/data/170.12/fr)
 
 #### Art. 12
 
+**Modification d’un acte législatif**
+
+<sup>1</sup> La loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC)[^12-1] est modifiée.
+
+[^12-1]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
+
+#### Art. 13
+
+**Abrogation d’un acte législatif**
+
+<sup>1</sup> La loi du 25 novembre 2004 sur l’encouragement des fusions de communes (loi sur les fusions de communes, LFCo)[^13-1] est abrogée.
+
+[^13-1]: RSB [170.12](https://www.belex.sites.be.ch/data/170.12/fr)
+
+#### Art. 14
+
 **Entrée en vigueur**
 
-<sup>1</sup> Le Conseil-exécutif fixe la date d’entrée en vigueur de la présente loi.
+<sup>1</sup> La présente loi entre en vigueur le 1<sup>er</sup> janvier 2025.
 
-Berne, le 25 novembre 2004
+Berne, le 5 mars 2024
 
 Au nom du Grand Conseil,
 
-le président: Dätwyler
+le président: Rappa
 
-le chancelier: Nuspliger
+le secrétaire général: Trees
 
-RRB Nr. 1368 vom 27. April 2005:
-
-Inkraftsetzung auf den 1. Juni 2005
-
-05-28
+24-054
