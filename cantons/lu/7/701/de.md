@@ -4,13 +4,12 @@ number: "701"
 title: Umweltschutzverordnung
 short: USV
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-10-15
+version: 2025-01-01
+version_adopted: 2024-10-15
 adopted: 1998-12-15
 in_force: 1999-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/701"
-pdf: "https://srl.lu.ch/api/de/versions/3482/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,18 @@ pdf: "https://srl.lu.ch/api/de/versions/3482/pdf_file"
 
 (USV)
 
-vom 15.12.1998 (Stand 01.01.2020)
+vom 15.12.1998 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf § 2 des Einführungsgesetzes zum Bundesgesetz über den Umweltschutz vom 30. März 1998[^ingress-1],
+gestützt auf Artikel 8 des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall vom 16. Juni 2017[^ingress-1] und § 2 des Einführungsgesetzes zum Bundesgesetz über den Umweltschutz vom 30. März 1998[^ingress-2],
 
 auf Antrag des Militär-, Polizei- und Umweltschutzdepartementes,
 
 beschliesst:
 
-[^ingress-1]: SRL Nr. [700](https://srl.lu.ch/data/700/de)
+[^ingress-1]: SR [814.71](https://db.clex.ch/link/Bund/814.71/de)
+[^ingress-2]: SRL Nr. [700](https://srl.lu.ch/data/700/de)
 
 ## 1 Allgemeine Zuständigkeitsordnung
 
@@ -205,7 +205,7 @@ beschliesst:
 
 <sup>2</sup> In höheren Lagen sowie in der restlichen Zeit gelten die Bestimmungen des Bundesrechts.
 
-## 4 Lärmschutz
+## 4 Lärm- und Strahlenschutz
 
 #### § 18
 
@@ -231,6 +231,18 @@ beschliesst:
 **Lärmsanierung der Eisenbahnen**
 
 <sup>1</sup> Die Dienststelle Umwelt und Energie vollzieht die Schallschutzmassnahmen an bestehenden Gebäuden im Rahmen der Lärmsanierung der Eisenbahnen.
+
+#### § 19b
+
+**Solarien**
+
+<sup>1</sup> Die Dienststelle Lebensmittelkontrolle und Verbraucherschutz ist zuständig für Kontrollen betreffend den Schutz vor Gefährdungen durch nichtionisierende Strahlung bei der Verwendung von Solarien gemäss Artikel 1 der Verordnung zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG) vom 27. Februar 2019[^19b-1].
+
+<sup>2</sup> Wer ein Solarium betreibt, hat dies der Dienststelle Lebensmittelkontrolle und Verbraucherschutz zu melden.
+
+<sup>3</sup> Gegen Verfügungen der Dienststelle Lebensmittelkontrolle und Verbraucherschutz kann innerhalb von zehn Tagen schriftlich und begründet Einsprache erhoben werden. Der Einsprache kann die aufschiebende Wirkung entzogen werden.
+
+[^19b-1]: SR [814.711](https://db.clex.ch/link/Bund/814.711/de)
 
 ## 5 Abfallbewirtschaftung
 
