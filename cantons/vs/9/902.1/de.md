@@ -2,24 +2,23 @@
 canton: VS
 number: "902.1"
 title: Gesetz zur Förderung der Bergbahnen
-short: GBB
+short: GFBB
 language: de
-version: 2019-03-01
-corrected: 2020-01-23
-version_adopted: 2018-05-17
+version: 2025-01-01
+version_adopted: 2024-05-15
 adopted: 2018-05-17
 in_force: 2019-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/902.1"
-pdf: "https://lex.vs.ch/api/de/versions/2546/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz zur Förderung der Bergbahnen
 
-(GBB)
+(GFBB)
 
-vom 17.05.2018 (Stand 01.03.2019)
+vom 17.05.2018 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -81,7 +80,7 @@ verordnet:
 
 <sup>3</sup> Der Staat kann Bergbahnunternehmen, deren EBITDA-Marge zwischen 20 und 25 Prozent liegt, für dasselbe Projekt Finanzhilfen von maximal 20 Prozent in Form von Darlehen oder Bürgschaften gewähren.
 
-<sup>4</sup> Für die Umsetzung aussergewöhnlicher Infrastruktureinrichtungen von regionaler oder kantonaler Bedeutung, namentlich von Berg-/Talverbindungen oder bei einer Verbindung von Skigebieten, kann der Staat Subventionen in Höhe von maximal 4 Millionen Franken pro Projekt gewähren. Unternehmen, die in den Genuss einer solchen Subvention kommen möchten, müssen anhand eines detaillierten Businessplans nachweisen, dass die neu geplanten Infrastruktureinrichtungen die oben genannten Anforderungen erfüllen und dass ihr Fortbestand mittelfristig gesichert ist. Im Falle einer Dividendenausschüttung muss das begünstigte Unternehmen zudem dem Kantonalen Bergbahnfonds während zehn Jahren nach der Ausrichtung der Subvention den gleichen aufgrund der gewährten Subvention berechneten Prozentsatz vergüten.
+<sup>4</sup> Für die Umsetzung aussergewöhnlicher Infrastruktureinrichtungen von regionaler oder kantonaler Bedeutung, namentlich von Berg-/Talverbindungen oder Verbindungen von Skigebieten, kann der Staat Subventionen in Höhe von maximal 4 Millionen Franken pro Projekt gewähren. Unternehmen, die in den Genuss einer solchen Subvention kommen möchten, müssen anhand eines detaillierten Businessplans nachweisen, dass die neu geplanten Infrastruktureinrichtungen die oben genannten Anforderungen erfüllen und ihren Fortbestand mittelfristig sichern. Im Falle einer Dividendenausschüttung muss das begünstigte Unternehmen zudem dem Kantonalen Bergbahnfonds im zum Zeitpunkt der Ausrichtung der Subvention laufenden Geschäftsjahr und den vier darauffolgenden Geschäftsjahren den gleichen auf der Grundlage der gewährten Subvention berechneten Prozentsatz vergüten.
 
 #### Art. 6
 
@@ -214,5 +213,11 @@ verordnet:
 <sup>3</sup> Veränderungen, die einen Einfluss auf die Finanzhilfegewährung haben, sind unverzüglich dem Staatsrat mitzuteilen.
 
 <sup>4</sup> Bei Nichteinhaltung der Bestimmungen des vorliegenden Gesetzes kann der Staatsrat vom Empfänger der Finanzhilfen deren sofortige vollständige oder teilweise Rückerstattung verlangen.
+
+## T1 Übergangsbestimmung der Änderung vom 15. Mai 2024
+
+#### Art. T1-1
+
+<sup>1</sup> Der geänderte Artikel 5 Absatz 4 betreffend die Modalitäten der Dividendenausschüttung findet auf bereits zugesprochene Subventionen sowie auf zum Zeitpunkt des Inkrafttretens der Bestimmung hängige Gesuche Anwendung.
 
 CSW RO/AGS 2019-020, 2019-021

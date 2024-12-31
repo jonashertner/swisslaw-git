@@ -4,13 +4,12 @@ number: "902.1"
 title: "Loi sur l'encouragement des remontées mécaniques"
 short: LERM
 language: fr
-version: 2019-03-01
-corrected: 2020-01-23
-version_adopted: 2018-05-17
+version: 2025-01-01
+version_adopted: 2024-05-15
 adopted: 2018-05-17
 in_force: 2019-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/902.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2546/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3423/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2546/pdf_file"
 
 (LERM)
 
-du 17.05.2018 (état 01.03.2019)
+du 17.05.2018 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -81,7 +80,7 @@ ordonne:
 
 <sup>3</sup> L'Etat peut octroyer aux sociétés de remontées mécaniques dont la marge EBITDA se situe entre 20 et 25 pour cent, des aides financières maximales de 20 pour cent de prêts ou cautionnements pour un même projet.
 
-<sup>4</sup> Pour la réalisation d'infrastructures exceptionnelles d'importance régionale ou cantonale qui permettraient notamment une liaison plaine-montagne ou la liaison de domaines skiables, l'Etat peut octroyer des subventions, d'un montant maximal de 4 millions de francs par projet. La société souhaitant bénéficier de cette subvention devra, au moyen d'un business plan détaillé, démontrer que les nouvelles infrastructures projetées répondent aux exigences ci-dessus et assurent sa pérennité à moyen terme. Par ailleurs, en cas de versement de dividende, la société bénéficiaire rétribuera le fonds cantonal pour les remontées mécaniques du même pourcentage calculé sur la base de la subvention obtenue, et ce durant les dix exercices qui suivent l'année de son octroi.
+<sup>4</sup> Pour la réalisation d'infrastructures exceptionnelles d'importance régionale ou cantonale qui permettraient notamment une liaison plaine-montagne ou la liaison de domaines skiables, l'Etat peut octroyer des subventions, d'un montant maximal de 4 millions de francs par projet. La société souhaitant bénéficier de cette subvention devra, au moyen d'un business plan détaillé, démontrer que les nouvelles infrastructures projetées répondent aux exigences ci-dessus et assurent sa pérennité à moyen terme. Par ailleurs, en cas de versement de dividende, la société bénéficiaire rétribuera le fonds cantonal pour les remontées mécaniques du même pourcentage calculé sur la base de la subvention obtenue, et ce durant l’exercice au cours duquel cette aide lui a été octroyée, ainsi que pour les quatre exercices suivants.
 
 #### Art. 6
 
@@ -214,5 +213,11 @@ ordonne:
 <sup>3</sup> Les modifications qui ont une influence sur l'octroi d'aides financières sont à communiquer immédiatement au Conseil d'Etat.
 
 <sup>4</sup> Au cas où les dispositions légales de la présente loi ne sont pas respectées, le Conseil d'Etat peut exiger du bénéficiaire des aides financières leur remboursement immédiat, intégral ou partiel.
+
+## T1 Disposition transitoire de la modification du 15 mai 2024
+
+#### Art. T1-1
+
+<sup>1</sup> L'article 5 alinéa 4 modifié relatif aux modalités de distribution des dividendes s'applique aux subventions déjà octroyées ainsi qu'aux demandes pendantes au moment de l'entrée en vigueur de la disposition.
 
 RCV RO/AGS 2019-020, 2019-021
