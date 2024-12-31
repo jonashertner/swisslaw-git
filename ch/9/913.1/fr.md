@@ -4,11 +4,11 @@ title: "Ordonnance du 2 novembre 2022 sur les améliorations structurelles dans 
 short: OAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: fr
-version: 2023-01-30
+version: 2025-01-01
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20230130/fr/xml/fedlex-data-admin-ch-eli-cc-2022-754-20230130-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230130/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-754-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230130/fr"
 
 (Ordonnance sur les améliorations structurelles, OAS)
 
-du 2 novembre 2022 (État le 30 janvier 2023)
+du 2 novembre 2022 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -114,11 +114,13 @@ Les fermiers d’exploitations peuvent obtenir des aides financières à conditi
 - a. les mesures visées à l’art. 1, al. 1, let. a et c;
 - b. les mesures pour lesquelles seuls des crédits d’investissement sont octroyés.
 
-<sup>3</sup> Si des contributions sont octroyées aux fermiers, un contrat de bail à ferme doit être conclu pour une durée d’au moins 20 ans. Le contrat de bail à ferme doit être inscrit au registre foncier s’il ne fait pas partie intégrante du contrat de droit de superficie.
+<sup>3</sup> Si des contributions sont octroyées aux fermiers, un contrat de bail à ferme doit être conclu pour une durée d’au moins 20 ans. Pour les mesures visées à l’art. 1, al. 1, let. c, ch. 1, un contrat de bail à ferme doit être conclu pour une durée résiduelle de 10 ans. Le contrat de bail à ferme doit être inscrit au registre foncier s’il ne fait pas partie intégrante du contrat de droit de superficie.[^5-1]
 
 <sup>4</sup> Si seuls des crédits d’investissement sont octroyés, la durée du contrat de bail à ferme et du gage immobilier se fonde sur le délai de remboursement du crédit d’investissement.
 
 <sup>5</sup> En ce qui concerne les PDR, la condition visée à l’al. 1 est considérée comme remplie si les constructions et installations soutenues sont la propriété d’un membre de l’organisme responsable.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 6
 
@@ -141,14 +143,15 @@ Dans les cas suivants, une taille d’au moins 0,60 UMOS est suffisante:
 - b. pour les mesures dans les zones de montagne III et IV, afin d’assurer l’exploitation du sol;
 - c. pour les mesures dans les régions de montagne et des collines afin de garantir une occupation suffisante du territoire.
 
-<sup>3</sup> S’agissant des mesures collectives, au moins deux exploitations agricoles ou entreprises d’horticulture productrice doivent atteindre une taille de 0,60 UMOS chacune.
+<sup>3</sup> Pour les mesures collectives n’entrant pas dans le champ de l’al. 2, au moins deux exploitations agricoles ou entreprises d’horticulture productrice doivent atteindre une taille de 1,00 UMOS chacune.[^6-1]
 
 <sup>4</sup> Les critères définissant une occupation menacée du territoire selon l’al. 2, let. c, sont fixés à l’annexe 1.
 
-<sup>5</sup> En complément des facteurs UMOS fixés à l’art. 3 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^6-1], les facteurs UMOS fixés à l’art. 2*a* de l’ordonnance du 4 octobre 1993 sur le droit foncier rural[^6-2] s’appliquent également pour déterminer la taille de l’exploitation.
+<sup>5</sup> En complément des facteurs UMOS fixés à l’art. 3 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^6-2], les facteurs UMOS fixés à l’art. 2*a* de l’ordonnance du 4 octobre 1993 sur le droit foncier rural[^6-3] s’appliquent également pour déterminer la taille de l’exploitation.
 
-[^6-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^6-2]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^6-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^6-3]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
 
 #### Art. 7
 
@@ -189,7 +192,7 @@ Le canton peut autoriser la comptabilisation des contributions suivantes dans la
 
 <sup>1</sup>
 
-Pour les mesures suivantes, les aides financières ne sont octroyées que si, dans la région d’approvisionnement pertinente sur le plan économique, aucune entreprise artisanale directement concernée au moment de la publication de la demande n’est disposée et à même d’accomplir la tâche prévue de manière équivalente:
+Pour les mesures suivantes, les aides financières ne sont octroyées que si, dans la région d’approvisionnement pertinente sur le plan économique, aucune petite entreprise directement concernée au moment de la publication de la demande n’est disposée et à même d’accomplir la tâche prévue de manière équivalente:[^9-1]
 
 - a. PDR;
 - b. constructions et installations servant à la transformation, au stockage ou à la commercialisation de produits agricoles régionaux;
@@ -203,9 +206,12 @@ Pour les mesures suivantes, les aides financières ne sont octroyées que si, da
 
 <sup>2</sup> Avant d’approuver le projet, le canton publie les demandes concernant les mesures visées à l’al. 1 dans l’organe de publication du canton.
 
-<sup>3</sup> Les entreprises artisanales directement concernées dans la région d’approvisionnement pertinente sur le plan économique peuvent faire opposition auprès du service cantonal compétent contre un cofinancement étatique.
+<sup>3</sup> Les petites entreprises directement concernées dans la région d’approvisionnement pertinente sur le plan économique peuvent faire opposition auprès du service cantonal compétent contre un cofinancement étatique.[^9-2]
 
 <sup>4</sup> La procédure de constatation de la neutralité concurrentielle est régie par le droit cantonal.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### Section 2 Coûts imputables
 
@@ -284,7 +290,7 @@ Des aides financières sont octroyées pour les mesures suivantes:
 - a. améliorations foncières: améliorations foncières intégrales, remaniements parcellaires, regroupements de terrains affermés et autres mesures visant à améliorer la structure de l’exploitation;
 - b. infrastructures de transports servant à l’agriculture: dessertes telles que les chemins, les téléphériques et d’autres installations de transport similaires;
 - c. installations et mesures dans le domaine du sol et du régime hydrique, telles que les irrigations, les drainages et l’amélioration de la structure et de la composition du sol;
-- d. infrastructures de base dans l’espace rural, telles que l’approvisionnement en eau et en électricité et les raccordements du service universel dans le secteur des télécommunications dans les lieux non desservis par une technique de télécommunication.
+- d.[^14-1] infrastructures de base dans l’espace rural: approvisionnement en eau et en électricité, raccordements du service universel dans le secteur des télécommunications dans les lieux non desservis par une technique de télécommunication.
 
 <sup>2</sup> Les mesures visées à l’al. 1, let. a, sont exclusivement des mesures collectives. Les mesures visées à l’al. 1, let. b à d, peuvent être individuelles ou collectives.
 
@@ -302,6 +308,8 @@ Les mesures collectives d’envergure sont les mesures collectives qui s’éten
 <sup>6</sup> Les constructions et installations situées dans la zone à bâtir ne sont pas soutenues; font exception les infrastructures servant à des fins agricoles qui doivent être réalisées impérativement à l’intérieur ou en bordure d’une zone à bâtir.
 
 <sup>7</sup> Les crédits d’investissement ne sont octroyés que sous la forme de crédits de construction et de consolidation.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 15
 
@@ -353,7 +361,7 @@ La remise en état périodique visée à l’al. 1, let. c, comprend:
 
 **Conditions générales**
 
-<sup>1</sup> Sont soutenues les mesures qui profitent aux exploitations agricoles, aux exploitations d’estivage, aux entreprises de production de champignons, de pousses et d’autres produits semblables, aux entreprises d’horticulture productrice ou aux entreprises de pêche ou de pisciculture.
+<sup>1</sup> Sont soutenues les mesures qui profitent aux exploitations agricoles, aux exploitations d’estivage, aux entreprises de production de champignons, de pousses et d’autres produits semblables, aux entreprises d’horticulture productrice, aux entreprises de pêche professionnelle ou aux entreprises d’aquaculture.[^18-1]
 
 <sup>2</sup> Il doit être établi que l’investissement prévu peut être financé et que la charge en résultant est supportable. La charge des coûts résiduels fixée à l’annexe 2 sert de valeur indicative pour déterminer si l’investissement est supportable.
 
@@ -361,9 +369,11 @@ La remise en état périodique visée à l’al. 1, let. c, comprend:
 
 <sup>4</sup> Les crédits d’investissement ne soutiennent que les mesures collectives.
 
-<sup>5</sup> La norme SIA 406 du 1<sup>er</sup> décembre 1991 «Contenu et présentation des projets d’améliorations foncières»[^18-1] s’applique.
+<sup>5</sup> La norme SIA 406:2024 «Contenu et réalisation d’améliorations structurelles dans le secteur du génie rural»[^18-2] s’applique.[^18-3]
 
-[^18-1]: La norme peut être obtenue contre paiement auprès de la Société suisse des ingénieurs et des architectes à l’adresse suivante: [www.sia.ch](http://www.sia.ch) &gt; Services &gt; sia-norm. Elle peut être consultée gratuitement auprès de l’Office fédéral de l’agriculture, Schwarzenburgstrasse 165, 3003 Berne.
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^18-2]: La norme peut être obtenue contre paiement auprès de la Société suisse des ingénieurs etdes architectes à l’adresse suivante: [www.sia.ch](http://www.sia.ch) &gt; Services &gt; sia-norm. Elle peut être consultée gratuitement auprès de l’Office fédéral de l’agriculture, Schwarzenburgstrasse 165, 3003 Berne.
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 19
 
@@ -418,7 +428,8 @@ Les coûts suivants sont imputables en plus des coûts visés à l’art. 10:
 
 - a. coûts d’acquisition de terrain en lien avec les mesures d’accompagnement visées à l’art. 15 jusqu’à huit fois la valeur de rendement agricole;
 - b. coûts des travaux géométriques lors de remaniements parcellaires, y compris les frais de piquetage et d’abornement, dans la mesure où ces travaux satisfont aux exigences minimales de la Confédération et qu’ils sont nécessaires pour reconnaître et exploiter les nouvelles parcelles;
-- c. indemnité unique de 1200 francs au plus par hectare versée aux bailleurs pour l’attribution à une organisation gérant les terrains affermés du droit de transmission des terrains d’affermage, pour autant que ceux-ci soient mis à disposition pour 12 ans.
+- c. indemnité unique de 1200 francs au plus par hectare versée aux bailleurs pour l’attribution à une organisation gérant les terrains affermés du droit de transmission des terrains d’affermage, pour autant que ceux-ci soient mis à disposition pour 12 ans;
+- d.[^23-1] primes d’assurance responsabilité civile du maître de l’ouvrage et d’assurance des travaux de construction.
 
 <sup>2</sup>
 
@@ -429,14 +440,16 @@ Ne sont notamment pas imputables:
 - c. les coûts d’acquisition de terrain qui ne sont pas visés à l’al. 1, let. a;
 - d. les indemnités à des personnes participant à l’entreprise pour des droits de conduite, de passage et de source et les indemnités similaires ainsi que les indemnités pour dommage aux cultures et pour inconvénients;
 - e. les coûts d’achat de mobilier et d’équipement intérieur des bâtiments ainsi que les coûts d’exploitation et d’entretien;
-- f. les frais administratifs, jetons de présence, primes d’assurance et intérêts;
+- f.[^23-2] les frais administratifs, jetons de présence, primes d’assurance à l’exclusion des primes visées à l’al. 1, let. d, et intérêts;
 - g. en ce qui concerne l’approvisionnement en électricité, la contribution aux coûts de réseau pour le raccordement au réseau de distribution en amont.
 
-<sup>3</sup> Dans le cas des raccordements du service universel dans le secteur des télécommunications dans les lieux non desservis par une technique de télécommunication, seuls sont imputables les frais qui doivent être pris en charge par le client en vertu de l’art. 18, al. 2, de l’ordonnance du 9 mars 2007 sur les services de télécommunication[^23-1].
+<sup>3</sup> Dans le cas des raccordements du service universel dans le secteur des télécommunications dans les lieux non desservis par une technique de télécommunication, seuls sont imputables les frais qui doivent être pris en charge par le client en vertu de l’art. 18, al. 2, de l’ordonnance du 9 mars 2007 sur les services de télécommunication[^23-3].
 
 <sup>4</sup> Dans le cas des installations de drainage et de l’amélioration de la structure et de la composition du sol, les coûts imputables représentent au maximum huit fois la valeur de rendement agricole du bien-fonds.
 
-[^23-1]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^23-1]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^23-3]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
 
 #### Art. 24
 
@@ -556,7 +569,7 @@ Sur demande du canton, les taux de contribution peuvent être majorés de 3 poin
 
 **Mesures individuelles**
 
-<sup>1</sup> Les mesures individuelles sont les mesures portées par au moins une exploitation agricole ou petite entreprise artisanale et servant à la production et à la valorisation de produits issus de la production végétale ou de l’élevage d’animaux de rente.
+<sup>1</sup> Les mesures individuelles sont les mesures portées par au moins une exploitation agricole et servant à la production et à la valorisation de produits issus de la production végétale ou de l’élevage d’animaux de rente.[^29-1]
 
 <sup>2</sup>
 
@@ -565,15 +578,22 @@ Les aides financières pour mesures individuelles sont octroyées aux exploitant
 - a. la construction ou l’acquisition sur le marché libre de constructions, d’installations ou d’équipements dans l’exploitation de production pour la transformation, le stockage ou la commercialisation de produits agricoles propres à l’exploitation et régionaux;
 - b. la construction ou l’acquisition sur le marché libre de bâtiments d’exploitation et de bâtiments d’habitation;
 - c. la mise en place d’installations pour améliorer la production des cultures spéciales et pour le renouvellement des cultures pérennes;
-- d. les mesures de construction ou équipements pour des activités proches de l’agriculture.
+- d. les mesures de construction ou équipements pour des activités proches de l’agriculture;
+- e.[^29-2] les mesures de construction ou les équipements pour la production de produits de l’aquaculture, d’algues, d’insectes et d’autres organismes vivants qui ne sont pas des produits exploitables issus de l’agriculture et qui servent de denrées alimentaires ou d’aliments pour animaux;
+- f.[^29-3] la construction ou l’acquisition sur le marché libre de constructions et d’installations pour la valorisation de la biomasse.
 
-<sup>3</sup> Les aides financières pour mesures individuelles sont octroyées aux exploitants d’une entreprise de pêche ou de pisciculture exerçant leur profession à titre principal pour des mesures de construction ou des installations destinées à une production conforme aux prescriptions pertinentes de la législation sur la protection des animaux ainsi qu’à la transformation et à la commercialisation des poissons indigènes.
+<sup>3</sup> Les aides financières pour mesures individuelles sont octroyées aux pêcheurs professionnels et aux entreprises d’aquaculture pour des mesures de construction ou des équipements destinés à l’élevage respectueux des animaux et pour la transformation, le stockage et la commercialisation de la propre production.[^29-4]
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^29-2]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^29-3]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^29-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 30
 
 **Mesures collectives**
 
-<sup>1</sup> Les mesures collectives sont les mesures portées par plusieurs exploitations et ne servant pas à la production de produits issus de la production végétale ou de l’élevage d’animaux de rente. Les projets dans les exploitations d’estivage sont considérés comme des mesures collectives.
+<sup>1</sup> Les mesures collectives sont les mesures portées par plusieurs exploitations et ne servant pas à la production de produits issus de la production végétale ou de l’élevage d’animaux de rente. Les projets d’exploitations d’estivage et de petites entreprises artisanales sont considérés comme des mesures collectives.[^30-1]
 
 <sup>2</sup>
 
@@ -581,10 +601,16 @@ Les aides financières pour mesures collectives sont octroyées aux exploitants 
 
 - a. la construction ou l’acquisition sur le marché libre de constructions, d’installations ou d’équipements pour la transformation, le stockage ou la commercialisation de produits agricoles régionaux;
 - b. la construction ou l’acquisition sur le marché libre de bâtiments, installations et cabanes de bergers mobiles pour les exploitations d’estivage;
-- c. la construction ou l’acquisition sur le marché libre d’installations destinées à la production d’énergie renouvelable à partir de la biomasse;
+- c.[^30-2] la construction ou l’acquisition sur le marché libre de constructions ou d’installations de valorisation de la biomasse;
 - d. l’élaboration d’une documentation en vue d’une étude de faisabilité et de la préparation de mesures concrètes;
 
 <sup>3</sup> Les exploitations d’estivage obtiennent uniquement des aides financières pour les mesures visées à l’al. 2, let. b et d.
+
+<sup>4</sup> Les petites entreprises artisanales obtiennent uniquement des aides financières pour les mesures visées à l’al. 2, let. a et d.[^30-3]
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^30-3]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### Section 2 Conditions
 
@@ -618,11 +644,13 @@ Les exploitants d’une exploitation agricole doivent disposer de l’une des qu
 
 #### Art. 32
 
-**Charge supportable**
+**Caractère supportable de l’investissement et rentabilité de l’exploitation dans le cas de mesures individuelles**[^32-1]
 
-<sup>1</sup> Il doit être établi avant l’octroi de l’aide financière que l’investissement prévu peut être financé et que la charge en résultant est supportable.
+<sup>1</sup> Pour les mesures individuelles visées à l’art. 29, al. 1 et 2, il doit être établi avant l’octroi de l’aide financière que l’investissement prévu peut être financé, que la charge en résultant est supportable et que l’exploitation est rentable.
 
-<sup>2</sup> Pour les investissements supérieurs à 100 000 francs, le requérant doit prouver au moyen des instruments de planification appropriés que la charge sera supportable pour une période d’au moins cinq ans après l’octroi des aides financières, même compte tenu des futures conditions cadre économiques. Une évaluation du risque en fait également partie.
+<sup>2</sup> Pour les investissements visés à l’al. 1 qui sont supérieurs à 500 000 francs, le requérant doit prouver au moyen des instruments de planification appropriés que la charge sera supportable et que la rentabilité de l’exploitation est établie pour une période d’au moins cinq ans après l’octroi des aides financières, même compte tenu des futures conditions cadre économiques. Une évaluation du risque en fait également partie.
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 33
 
@@ -653,14 +681,24 @@ Lorsque deux exploitations ou plus construisent en commun un bâtiment d’explo
 
 #### Art. 35
 
-**Conditions supplémentaires pour les petites entreprises artisanales**
+**Conditions supplémentaires pour la transformation, le stockage ou la commercialisation de produits agricoles régionaux**[^35-1]
 
-Des aides financières pour les mesures visées à l’art. 29, al. 2, let. a, sont octroyées aux petites entreprises artisanales si elles remplissent en outre les conditions suivantes:
+<sup>1</sup>
 
-- a. elles sont des entreprises autonomes sur le plan économique ou des relations à un seul niveau entre une entreprise mère et une filiale; ce faisant, l’ensemble du groupe doit satisfaire aux exigences du présent article et le propriétaire de l’immeuble doit être le bénéficiaire de l’aide financière.
-- b. leur activité comprend au moins le premier échelon de la transformation des matières premières agricoles;
-- c. avant l’investissement, leur personnel ne dépasse pas un taux d’emploi de 2000 % ou leur chiffre d’affaires ne dépasse pas 10 millions de francs;
-- d. le chiffre d’affaires principal provient de la transformation ou de la vente de matières premières agricoles produites dans la région.
+Des aides financières pour les mesures visées à l’art. 30, al. 2, let. a, sont octroyées aux organisations de producteurs agricoles et aux petites entreprises artisanales qui remplissent les conditions supplémentaires suivantes:
+
+- a. l’organisation ou l’entreprise est une entité économiquement autonome ou fait partie d’une relation à un seul niveau entre une entreprise mère et une filiale; ce faisant, l’ensemble du groupe doit satisfaire aux exigences du présent article et la société bénéficiaire de l’aide doit être propriétaire de l’immeuble;
+- b. le personnel employé par l’organisation ou par l’entreprise ne totalise pas plus de 20 équivalents plein temps ou le chiffre d’affaires total ne dépasse pas 10 millions de francs;
+- c. le chiffre d’affaires principal de l’organisation ou de l’entreprise provient de la transformation ou de la vente de matières premières agricoles produites dans la région.
+
+<sup>2</sup> L’activité des petites entreprises artisanales doit inclure la première étape de la transformation des matières premières agricoles.
+
+<sup>3</sup> Les organisations de producteurs agricoles dont les matières premières agricoles produites par eux-mêmes sont transformées, stockées ou commercialisées par des fermiers dans les installations des producteurs peuvent bénéficier d’aides dans la mesure où l’organisation de producteurs et le fermier remplissent les exigences visées par le présent article.
+
+<sup>4</sup> Une matière première agricole est considérée régionale si elle est produite dans les bassins d’emploi pertinents pour l’exploitation conformément à la division en Bassins d’emploi 2018[^35-2] de l’Office fédéral de la statistique. Pour le PDR, la région est spécifiée dans la convention.
+
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^35-2]: À consulter sous [www.bfs.admin.ch](https://www.bfs.admin.ch) &gt; Statistiques &gt; Thèmes transversaux &gt; Analyses territoriales &gt; Niveaux géographiques &gt; Régions d’analyse &gt; Bassins d’emploi et Grands bassins d’emploi &gt; Bassins d’emploi 2018.
 
 ### Section 3 Montant des contributions et des crédits d’investissement
 
@@ -676,11 +714,15 @@ Les coûts d’étude et de conseil sont imputables en plus des coûts visés à
 
 <sup>1</sup> Les taux des contributions et les dispositions spécifiques concernant les mesures sont fixés à l’annexe 5. L’OFAG peut augmenter de 10 % au maximum les taux figurant à l’annexe 5 en cas de renchérissement de la construction ou afin de contribuer à atteindre les objectifs environnementaux pour l’agriculture de 2008[^37-1].
 
-<sup>2</sup> Si des bâtiments existants sont soutenus par des taux forfaitaires conformément à l’annexe 5, les contributions forfaitaires sont réduites en conséquence. Dans le cas de bâtiments déjà encouragés auparavant, la contribution fédérale doit au minimum être déduite du maximum des contributions au prorata du temps écoulé, selon l’art. 67, al. 5, let. c.
+<sup>2</sup> Si des bâtiments existants sont soutenus par des taux forfaitaires conformément à l’annexe 5, les contributions forfaitaires sont réduites en conséquence. Dans le cas de bâtiments déjà encouragés auparavant, la contribution fédérale doit au minimum être déduite du maximum des contributions au prorata du temps écoulé, selon l’art. 67, al. 5, let. b.[^37-2]
 
 <sup>3</sup> Des contributions aux coûts supplémentaires liés à des difficultés particulières sont octroyées dans le cas des bâtiments d’exploitation pour les animaux consommant du fourrage grossier et les bâtiments d’alpage. Elles ne sont pas prises en compte pour la détermination de la contribution cantonale. Sont considérés comme des difficultés particulières les coûts de transport extraordinaires, un terrain de construction difficile, une configuration spéciale du terrain, les risques naturels et les particularités climatiques.
 
+<sup>4</sup> Aucune contribution inférieure à 5000 francs n’est octroyée.[^37-3]
+
 [^37-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
+[^37-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^37-3]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 38
 
@@ -690,7 +732,9 @@ Les coûts d’étude et de conseil sont imputables en plus des coûts visés à
 
 <sup>2</sup> Dans le cas des personnes morales, des sociétés de personnes et des requérants mariés ou liés par un partenariat enregistré, la moyenne arithmétique de la fortune imposable taxée des personnes physiques impliquées est déterminante.
 
-<sup>3</sup> Les contributions pour les petites entreprises artisanales ne sont pas réduites sur la base de la fortune.
+<sup>3</sup> …[^38-1]
+
+[^38-1]: Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 39
 
@@ -721,19 +765,23 @@ Les coûts d’étude et de conseil sont imputables en plus des coûts visés à
 Les aides financières pour des mesures individuelles sont octroyées aux exploitants d’exploitations agricoles, d’entreprises d’horticulture productrice ou d’entreprises de production de champignons, de pousses et d’autres produits semblables pour:
 
 - a. une aide initiale unique accordée pour encourager l’acquisition d’exploitations agricoles et de biens-fonds;
-- b. l’acquisition par des fermiers d’entreprises agricoles sur le marché libre, afin d’encourager l’acquisition d’exploitations agricoles et de biens-fonds;
+- b.[^40-1] l’acquisition, sur le marché libre, de surfaces agricoles utiles afin d’encourager l’acquisition d’exploitations agricoles et de biens-fonds;
 - c.
 
-  la construction ou l’acquisition sur le marché libre de bâtiments et d’installations, ainsi que la plantation d’arbres et d’arbustes, pour la promotion de la santé des animaux et d’une production particulièrement respectueuse de l’environnement et des animaux via:
+  la construction ou l’acquisition, sur le marché libre, de bâtiments, d’installations, de machines et de véhicules, ainsi que la plantation d’arbres fruitiers et de vignes pour la promotion de la santé des animaux et d’une production particulièrement respectueuse de l’environnement et des animaux via:[^40-2]
 
   - 1\. la réduction des émissions d’ammoniac,
   - 2\. la diminution de la pollution,
   - 3\. les mesures de protection de la nature et du paysage,
   - 4\. les mesures de protection du climat.
 
-<sup>3</sup> L’exploitant d’une entreprise de pêche ou de pisciculture exerçant sa profession à titre principal obtient des aides financières pour la mesure visée à l’al. 2, let. a.
+<sup>3</sup> Les pêcheurs professionnels obtiennent des aides financières pour la mesure visée à l’al. 2, let. a.[^40-3]
 
 <sup>4</sup> Les exploitations d’estivage obtiennent des aides financières pour les mesures visées à l’al. 2, let. c.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^40-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 41
 
@@ -823,13 +871,15 @@ Les mesures suivantes peuvent être soutenues dans le cadre des PDR:
 
 - a. mesures de génie rural visées au chap. 3, mesures de bâtiments ruraux visées au chap. 4 et mesures supplémentaires d’améliorations structurelles visées au chap. 5;
 - b. mise sur pied et développement d’une activité proche de l’agriculture;
-- c. constructions et installations destinées à la transformation, au stockage et à la commercialisation de produits agricoles régionaux;
+- c.[^47-1] …
 - d. investissements collectifs dans l’intérêt du PDR;
 - e. autres mesures dans l’intérêt du PDR.
 
 <sup>3</sup> Le PDR peut être complété par des mesures supplémentaires pendant la mise en œuvre.
 
 <sup>4</sup> Les PDR sont des mesures collectives.
+
+[^47-1]: Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 48
 
@@ -840,15 +890,16 @@ Les mesures suivantes peuvent être soutenues dans le cadre des PDR:
 Des aides financières sont octroyées pour les PDR s’ils satisfont aux exigences suivantes:
 
 - a. le projet contribue à créer une valeur ajoutée principalement dans l’agriculture et à renforcer la collaboration régionale;
-- b. le projet se compose d’au moins trois mesures, chacun ayant sa propre comptabilité, son propre porteur de projet et une orientation différente;
+- b.[^48-1] le projet se compose d’au moins trois mesures, chacune ayant sa propre comptabilité et son propre porteur de projet, ainsi qu’au moins deux orientations différentes;
 - c. les mesures s’inscrivent dans une stratégie globale et sont coordonnées avec le développement régional, les parcs d’importance nationale et l’aménagement du territoire;
-- d. la majorité des membres de l’organisme porteur du projet sont des exploitants ayant droit aux paiements directs selon l’OPD[^48-1]; ceux-ci disposent de la majorité des voix.
+- d. la majorité des membres de l’organisme porteur du projet sont des exploitants ayant droit aux paiements directs selon l’OPD[^48-2]; ceux-ci disposent de la majorité des voix.
 
 <sup>2</sup> Il doit être établi avant l’octroi de l’aide financière que l’investissement prévu peut être financé et que la charge en résultant est supportable. La rentabilité du projet doit être prouvée, au moyen d’instruments de planification appropriés, sur une période d’au moins sept ans à partir de l’octroi de l’aide financière.
 
 <sup>3</sup> Si des mesures de génie rural visées au chap. 3, des mesures de bâtiments ruraux visées au chap. 4 ou des mesures supplémentaires d’améliorations structurelles visées au chap. 5 sont mises en œuvre dans le cadre d’un PDR, les conditions mentionnées dans les chapitres correspondants sont valables.
 
-[^48-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^48-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 ### Section 2 Montant des contributions et des crédits d’investissement
 
@@ -870,12 +921,7 @@ Les coûts suivants sont imputables en plus des coûts visés à l’art. 10:
 
 **Taux des contributions**
 
-<sup>1</sup>
-
-Lorsque des mesures de génie rural visées au chap. 3, des mesures de bâtiments ruraux visées au chap. 4 ou des mesures supplémentaires d’améliorations structurelles visées au chap. 5 sont mises en œuvre dans le cadre d’un PDR, les taux de contribution pour les différentes mesures sont augmentés comme suit:
-
-- a. pour les projets visés à l’art. 47, al. 1, let. a: de 20 %;
-- b. pour les projets visés à l’art. 47, al. 1, let. b: de 10 %.
+<sup>1</sup> Lorsque des mesures de génie rural visées au chap. 3, des mesures de bâtiments ruraux visées au chap. 4 ou des mesures supplémentaires d’améliorations structurelles visées au chap. 5 sont mises en œuvre dans le cadre d’un PDR, les taux de contribution pour les différentes mesures sont augmentés de 50 %.[^50-1]
 
 <sup>2</sup> Les taux de contributions suivants sont valables pour les coûts imputables en vertu de l’art. 49, let. b à g:
 
@@ -886,16 +932,12 @@ Lorsque des mesures de génie rural visées au chap. 3, des mesures de bâtiment
 <tr><td>c. dans les zones de montagne II à IV et dans la région d’estivage</td><td>40</td></tr>
 </table>
 
-<sup>3</sup>
-
-Les coûts imputables visés à l’al. 2 sont réduits dans les cas de figure suivants:
-
-- a. mise en place et développement d’une activité agricole;
-- b. transformation, stockage et commercialisation de produits agricoles régionaux;
-- c. autres mesures dans l’intérêt du projet dans sa globalité;
-- d. mesures qui sont complétées pendant la phase de mise en œuvre.
+<sup>3</sup> Les coûts imputables visés à l’al. 2 sont réduits pour les mesures visées à l’art. 47, al. 2, let. b et e.[^50-2]
 
 <sup>4</sup> La réduction en pour cent des coûts imputables est fixée à l’annexe 7.
+
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^50-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 51
 
@@ -923,7 +965,7 @@ L’OFAG prend position conformément à l’art. 97, al. 2, LAgr sous la forme 
 - b. d’un avis préalable indiquant les charges et les conditions envisagées, s’il dispose d’un avant-projet et d’une estimation des frais;
 - c. d’un co-rapport contraignant lorsqu’une étude d’impact sur l’environnement est effectuée conformément à l’art. 22 de l’ordonnance du 19 octobre 1988 relative à l’étude de l’impact sur l’environnement[^52-1].
 
-<sup>2</sup> Le canton soumet à l’OFAG la demande de prise de position accompagnée des documents nécessaires et des indications pertinentes via le système d’information sur les améliorations structurelles.
+<sup>2</sup> Le canton soumet à l’OFAG la demande de prise de position accompagnée des documents nécessaires et des indications pertinentes via le système d’information visé à l’art. 17 de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture (OSIAgr)[^52-2].[^52-3]
 
 <sup>3</sup>
 
@@ -933,6 +975,8 @@ Un avis de l’OFAG n’est pas requis:
 - b. lorsque le projet n’est pas soumis à une obligation de coordination ou de collaboration à l’échelon fédéral.
 
 [^52-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^52-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^52-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 53
 
@@ -946,7 +990,7 @@ Un avis de l’OFAG n’est pas requis:
 
 **Requête du canton auprès de l’OFAG**
 
-<sup>1</sup> La requête du canton auprès de l’OFAG concernant les contributions et les crédits d’investissement dépassant 500 000 francs doit être déposée via le système d’information sur les améliorations structurelles.
+<sup>1</sup> La requête du canton auprès de l’OFAG concernant les contributions et les crédits d’investissement dépassant 500 000 francs doit être déposée via le système d’information visé à l’art. 17 OSIAgr[^54-1] [^54-2].
 
 <sup>2</sup>
 
@@ -962,7 +1006,11 @@ Elle doit contenir tous les documents nécessaires et les indications pertinente
 
 <sup>4</sup> Les demandes doivent comprendre la preuve de publication dans l’organe officiel du canton conformément à l’art. 97 LAgr lorsque des contributions sont demandées et une autorisation de construire est requise en vertu de la législation sur l’aménagement du territoire.
 
-<sup>5</sup> Le solde des précédents crédits d’investissement et aides aux exploitations paysannes doit être pris en compte pour ce qui est de l’al. 1.
+<sup>5</sup> …[^54-3]
+
+[^54-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^54-2]: Nouvelle expression selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)). Il a été tenu compte de cette mod. dans tout le texte.
+[^54-3]: Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 55
 
@@ -1008,15 +1056,19 @@ La convention règle notamment:
 
 **Début de la construction et acquisitions**
 
-<sup>1</sup> La construction peut commencer et les acquisitions peuvent être effectuées seulement après que l’aide financière selon l’art. 55, al. 2 et 3, a fait l’objet d’une décision exécutoire (décision de contributions) ou la convention visée à l’art. 55 a été convenue. Les projets réalisés par étapes ne peuvent pas débuter avant que la décision de contributions soit entrée en force pour les différentes étapes.
+<sup>1</sup> Les mesures d’aménagement et la construction ne peuvent commencer et les acquisitions être effectuées qu’après que l’aide financière selon l’art. 55, al. 2 et 3, a fait l’objet d’une décision entrée en force ou que la convention selon l’art. 56 a été conclue. Les projets réalisés par étapes ne peuvent pas débuter avant que la décision de contributions soit entrée en force pour les différentes étapes.[^57-1]
 
 <sup>2</sup> L’autorité cantonale compétente peut accorder une autorisation de mise en chantier ou d’acquisition anticipées si l’attente de l’entrée en force de la décision ou de la conclusion de la convention comporte de graves inconvénients. La décision relative à l’octroi de la contribution ou à l’approbation du crédit d’investissement n’en est pas affectée.
 
-<sup>3</sup> Pour les mesures soutenues par des contributions, l’autorité cantonale ne peut autoriser une mise en chantier ou une acquisition anticipées qu’avec l’approbation de l’OFAG.
+<sup>3</sup> Pour les mesures soutenues par des contributions, l’autorité cantonale ne peut autoriser une mise en chantier ou une acquisition anticipées qu’avec l’approbation de l’OFAG. L’autorisation doit être octroyée par écrit. L’autorité cantonale peut autoriser sans approbation de l’OFAG l’acquisition anticipée de produits génériques, de machines, de véhicules et de biens-fonds agricoles pour un montant inférieur ou égal à 500 000 francs.[^57-2]
 
-<sup>4</sup> Les coûts des mesures ne concernant pas des constructions, déjà engagés durant l’élaboration de la documentation, ainsi que pour les prestations de planification, peuvent être imputés rétroactivement, à condition que le projet soit mis en œuvre.
+<sup>4</sup> Les coûts des mesures ne concernant pas des constructions et qui sont déjà nécessaires durant l’élaboration de la documentation pour la soumission du projet peuvent être imputés rétroactivement à un projet. Pour toute autre mesure, une demande de début anticipé des travaux doit être déposée.[^57-3]
 
 <sup>5</sup> Il n’est pas octroyé d’aide financière en cas de mise en chantier ou d’acquisition anticipées sans autorisation écrite préalable.
+
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^57-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^57-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 58
 
@@ -1040,11 +1092,13 @@ Les modifications majeures du projet requièrent l’accord préalable de l’OF
 
 **Versement des contributions**
 
-<sup>1</sup> Pour chaque projet, le canton peut demander des acomptes en fonction de l’avancement des travaux, via le système d’information sur les améliorations structurelles de l’OFAG.
+<sup>1</sup> Pour chaque projet, le canton peut demander des acomptes en fonction de l’avancement des travaux, via le système d’information visé à l’art. 17 OSIAgr[^59-1].
 
 <sup>2</sup> Les acomptes n’excéderont pas 80 % de la contribution totale approuvée.
 
 <sup>3</sup> Le solde de la contribution est versé pour chaque projet sur demande du canton.
+
+[^59-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 ### Section 3 Préservation des mesures
 
@@ -1077,10 +1131,11 @@ Une mention au registre foncier n’est pas nécessaire:
 - c. si les mesures de génie rural mises en œuvre ne sont pas liées à la surface, par exemple l’adduction d’eau ou le raccordement au réseau électrique;
 - d. si les mesures mises en œuvre visent à promouvoir la santé animale et une production particulièrement respectueuse de l’environnement et des animaux;
 - e. dans le cas des remises en état périodiques;
+- e<sup>bis</sup>.[^62-1] dans le cas de remises en état suite à des dégâts naturels;
 - f. pour les initiatives collectives visant à baisser les coûts de production;
 - g. dans le cas de l’acquisition d’équipements, de machines et de véhicules.
 
-<sup>3</sup> Dans les cas visés à l’al. 2, let. a à d, la mention au registre foncier est remplacée par une déclaration du propriétaire de l’ouvrage, par laquelle il s’engage à respecter l’interdiction de désaffecter et les obligations concernant l’entretien, l’exploitation et le remboursement des contributions, ainsi que, le cas échéant, d’autres conditions et charges.
+<sup>3</sup> Dans les cas visés à l’al. 2, let. a à d et e<sup>bis</sup>, la mention au registre foncier est remplacée par une déclaration du propriétaire, par laquelle il s’engage à respecter l’interdiction de désaffecter et les obligations concernant l’entretien, l’exploitation et le remboursement des contributions, ainsi que, le cas échéant, d’autres conditions et charges.[^62-2]
 
 <sup>4</sup> L’attestation de la mention au registre foncier ou la déclaration visée à l’al. 3 doit être présentée à l’OFAG au plus tard avec la demande de versement du solde des contributions, dans le cas de projets réalisés par étapes, avec la première demande de versement du solde des contributions.
 
@@ -1089,6 +1144,9 @@ Une mention au registre foncier n’est pas nécessaire:
 <sup>6</sup> L’office du registre foncier radie d’office la mention relative à l’interdiction de désaffecter et à l’obligation de restituer les contributions au moment où celles-ci prennent fin.
 
 <sup>7</sup> À la demande de la personne grevée et avec l’accord du canton, la mention au registre foncier peut être radiée en ce qui concerne les surfaces dont la désaffectation ou le morcellement a été autorisé, ou pour lesquelles les contributions ont été restituées.
+
+[^62-1]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^62-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### Section 4 Exigence de restitution des contributions et révocation des crédits d’investissement
 
@@ -1114,9 +1172,11 @@ En cas de désaffectation ou de morcellement, le canton exige la restitution de 
 
 Les cantons présentent à la Confédération, avant le 30 avril de chaque année, le décompte des contributions dont la restitution a été exigée l’année précédente. Le décompte comprend:
 
-- a. le numéro du cas de soutien selon le système d’information sur les améliorations structurelles de l’OFAG;
+- a. le numéro du cas de soutien selon le système d’information visé à l’art. 17 OSIAgr[^65-1];
 - b. le montant de la contribution à rembourser;
 - c. une copie de la décision de restitution.
+
+[^65-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 #### Art. 66
 
@@ -1153,10 +1213,14 @@ Le montant à rembourser est fixé en fonction:
 <sup>5</sup> La durée d’affectation prévue est la suivante:
 
 <table>
-<tr><td>a. pour les mesures de génie rural:</td><td>40 ans;</td></tr>
-<tr><td>b. pour les bâtiments et les installations à câbles:</td><td>20 ans;</td></tr>
-<tr><td>c. pour les installations, mesures et véhicules, ainsi que pour les mesures visant à promouvoir la santé animale et une production particulièrement respectueuse de l’environnement et des animaux:</td><td>10 ans.</td></tr>
+<tr><td>a. pour les mesures de génie rural:</td><td>40 ans</td></tr>
+<tr><td>b. pour les bâtiments et les installations à câbles:</td><td>20 ans</td></tr>
+<tr><td>c.[^67-1] pour les installations et pour les mesures visant à promouvoir la santé animale et une production particulièrement respectueuse de l’environnement et des animaux:</td><td>10 ans</td></tr>
+<tr><td>d.[^67-2] pour les machines et véhicules:</td><td>5 ans</td></tr>
 </table>
+
+[^67-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^67-2]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 68
 
@@ -1166,7 +1230,7 @@ Les exceptions à l’interdiction de morceler peuvent être autorisées pour le
 
 - a. assignation exécutoire à une zone de protection des eaux souterraines S1, une zone de protection contre les crues, une zone de protection naturelle et la délimitation de l’espace réservé aux cours d’eau;
 - b. assignation exécutoire à une zone à bâtir ou à une autre zone ne permettant plus une exploitation agricole des terres;
-- c. une autorisation exceptionnelle exécutoire sur la base des art. 24, 24*c* et 24*d* LAT[^68-1], y compris l’aire environnante requise pour les bâtiments;
+- c.[^68-1] une autorisation exceptionnelle exécutoire sur la base des art. 24, 24*a*, 24*c* et 24*d* LAT[^68-2], y compris l’aire environnante requise pour les bâtiments;
 - d. la délimitation le long de la limite de la forêt;
 - e. l’échange de parties d’immeubles d’une exploitation agricole contre des terrains, des bâtiments ou des installations mieux situés pour l’exploitation ou mieux adaptés à celle-ci;
 - f. le transfert d’un bâtiment agricole, y compris l’aire environnante requise, qui n’est plus nécessaire au propriétaire d’une entreprise ou d’un immeuble agricole voisin pour être affecté à un usage conforme à l’affectation de la zone, si ce transfert permet d’éviter la construction d’un bâtiment;
@@ -1176,7 +1240,8 @@ Les exceptions à l’interdiction de morceler peuvent être autorisées pour le
 - j. une unification de toutes les parties de la parcelle morcelée avec les parcelles voisines ou une amélioration du regroupement des terres via un morcellement, ou
 - k. le besoin de constructions et installations d’intérêt public de la Confédération, du canton ou de la commune.
 
-[^68-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^68-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^68-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
 
 #### Art. 69
 
@@ -1221,11 +1286,13 @@ Le canton ordonne la restitution de contributions ou la révocation de crédits 
 
 <sup>3</sup> Si la restitution de contributions et la révocation de crédits d’investissement conformément à l’al. 1, let. e, est exigée, le montant de la demande de restitution ou de la révocation correspond au bénéfice d’aliénation. Celui-ci équivaut à la différence entre le prix d’aliénation et la valeur d’imputation. Les déductions des objets acquis en remploi, des impôts et des redevances de droit public sont autorisées. Les valeurs d’imputation sont fixées à l’annexe 8. L’OFAG peut modifier les valeurs figurant à l’annexe 8.
 
-<sup>4</sup> La restitution d’une contribution selon l’al. 1, let. a à d, peut être calculée en fonction du rapport entre la durée d’affectation réelle et la durée d’affectation prévue visée à l’art. 67, al. 5.
+<sup>4</sup> La restitution d’une contribution selon l’al. 1, let. a à e, est calculée en fonction du rapport entre la durée d’affectation réelle et la durée d’affectation prévue visée à l’art. 67, al. 5.[^70-1]
 
 <sup>5</sup> La restitution d’une contribution selon l’al. 1, let. f à l, ne peut pas être réduite.
 
 <sup>6</sup> Pour ce qui est des crédits d’investissement, dans les cas de rigueur, le versement d’un intérêt de 3 % sur le crédit peut être exigé en lieu et place de la révocation.
+
+[^70-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ## Chapitre 8 Gestion des crédits d’investissement
 
@@ -1233,27 +1300,32 @@ Le canton ordonne la restitution de contributions ou la révocation de crédits 
 
 **Gestion du fonds de roulement**
 
-<sup>1</sup> Le canton adresse sa demande de fonds à l’OFAG en fonction de ses besoins via le système d’information sur les améliorations structurelles.
+<sup>1</sup> Le canton adresse sa demande de fonds à l’OFAG en fonction de ses besoins via le système d’information visé à l’art. 17 OSIAgr[^71-1].
 
 <sup>2</sup> L’OFAG examine la demande de chaque canton et transfère les fonds fédéraux remboursables au canton, dans les limites des crédits approuvés.
 
 <sup>3</sup>
 
-Le canton indique à l’OFAG au plus tard le 10 janvier via le système d’information sur les améliorations structurelles l’état au 31 décembre de l’année précédente des comptes suivants:
+Le canton annonce à l’OFAG au plus tard le 10 janvier, via le système d’information visé à l’art. 17 OSIAgr, l’état au 31 décembre de l’année précédente des comptes suivants, accompagné de tous les documents pertinents:[^71-2]
 
 - a. l’état total des fonds fédéraux;
 - b. les intérêts accumulés;
 - c. les liquidités;
 - d. la somme des prêts alloués au titre de crédits d’investissement, mais non encore versés.
 
-<sup>4</sup> Il gère les fonds fournis par la Confédération sur un compte séparé et présente à l’OFAG les comptes annuels au plus tard à la fin avril via le système d’information sur les améliorations structurelles.
+<sup>4</sup> Il gère les fonds fournis par la Confédération sur un compte séparé et présente à l’OFAG les comptes annuels au plus tard à la fin avril via le système d’information visé à l’art. 17 OSIAgr.[^71-3]
 
 <sup>5</sup>
 
-Il indique à l’OFAG au plus tard le 15 juillet l’état au 30 juin des comptes suivants:
+Il annonce à l’OFAG au plus tard le 15 juillet, via le système d’information selon l’art. 17 OSIAgr, l’état au 30 juin des comptes suivants:[^71-4]
 
 - a. les liquidités;
 - b. la somme des prêts alloués au titre de crédits d’investissement, mais non encore versés.
+
+[^71-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^71-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^71-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^71-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 72
 
@@ -1303,6 +1375,18 @@ L’ordonnance du 7 décembre 1998 sur les améliorations structurelles[^75-1] e
 **Modification d’autres actes**
 
 La modification d’autres actes est réglée à l’annexe 9.
+
+#### Art. 76a
+
+**Dispositions transitoires relatives à la modification du 6 novembre 2024**[^76a-1]
+
+<sup>1</sup> Pour les projets ayant obtenu un avis préalable selon l’art. 52, al. 1, let. b, avant l’entrée en vigueur de la modification du 6 novembre 2024, l’annexe 5, ch. 5, et l’annexe 7 de l’ancien droit restent valables pour toute la durée de validité de l’avis préalable.
+
+<sup>2</sup> L’annexe 6, ch. 3.2.1, ne s’applique pas aux robots utilisés dans les champs acquis avant l’entrée en vigueur de la modification du 6 novembre 2024.
+
+<sup>3</sup> L’annexe 6, ch. 3.4.1, ne s’applique pas aux tracteurs acquis avant l’entrée en vigueur de la modification du 6 novembre 2024.
+
+[^76a-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 77
 
@@ -1390,11 +1474,13 @@ La somme des points attribués aux critères visés aux let. a à e indique la c
 <tr><td>Charges supplémentaires élevées</td><td>5–7</td><td>50 000</td><td>60 000</td></tr>
 </table>
 
-Annexe 4
+Annexe 4[^t-1]
 
 (art. 26, al. 6)
 
 ## Établissement des contributions supplémentaires pour les mesures de génie rural
+
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 1. Échelonnement des contributions supplémentaires pour prestations annexes
 
@@ -1404,8 +1490,9 @@ Annexe 4
 <tr><td>b. Protection du sol ou garantie de la qualité des surfaces d’assolement</td><td>Surface concernée: 10–33 % du périmètre</td><td>Surface concernée: 34–66 % du périmètre</td><td>Surface concernée: 67–100 % du périmètre</td><td>Adaptation des mesures d’exploitation, haies, bandes herbeuses, mise en œuvre d’un projet général d’évacuation des eaux PGEE, etc. ou: Mesures visant à assurer la qualité des surfaces d’assolement SDA (p. ex. renouvellement de drainages dans des SDA, remise en état de SDA, amélioration de la fertilité du sol)</td></tr>
 <tr><td>c. Mesures écologiques particulières</td><td>éléments écologiques locaux fixes\*</td><td>éléments écologiques étendus fixes\*</td><td>éléments écologiques étendus fixes\* avec mise en réseau</td><td>Aménagement et/ou préservation de biotopes, d’habitats, d’arbres fruitiers haute-tige, d’arbres isolés ou de murs de pierres sèches, réalisation de lisières de forêt étagées en dehors de la surface agricole utile, etc.</td></tr>
 <tr><td>d. Paysages cultivés ou constructions présentant un intérêt historique et culturel</td><td>Maintien et revalorisation isolée d’éléments paysagers caractéristiques</td><td>Modeste rétablissement de constructions à caractère culturel ou revalorisation locale d’éléments paysagers caractéristiques</td><td>Important rétablissement de constructions à caractère culturel ou revalorisation étendue d’éléments paysagers caractéristiques</td><td>Constructions dignes d’être maintenues et déterminant l’aspect du paysage, chemins historiques, paysages en terrasse, bocages, châtaigneraies, pâturages boisés, zones de l’Inventaire fédéral des paysages, sites et monuments naturels, etc.</td></tr>
-<tr><td>e. Production d’énergie renouvelable</td><td>Couverture du besoin en électricité ou en chauffage de l’agriculture dans le périmètre &gt; 50 %</td><td>Couverture du besoin en électricité ou en chauffage de l’agriculture dans le périmètre &gt; 75 %</td><td>Couverture du besoin en électricité ou en chauffage de l’agriculture dans le périmètre &gt; 100 %</td><td>Électricité provenant de panneaux solaires, de centrales hydroélectriques, d’éoliennes, d’installations de biogaz, énergie issue d’un système de chauffage à bois, etc. Soutien des coûts de l’installation selon les art. 106, al. 1, let. c; 106, al. 2, let. d, et 107, al. 1, let. b, LAgr</td></tr>
-<tr><td>f. Utilisation de technologies préservant les ressources</td><td>Surface concernée: 10–33 % du périmètre</td><td>Surface concernée: 34–66 % du périmètre</td><td>Surface concernée: 67–100 % du périmètre</td><td>Technologies préservant les ressources utilisant des techniques permettant d’économiser l’énergie ou l’eau, p. ex. irrigation au goutte-à-goutte, pompe solaire, système de contrôle de la demande</td></tr>
+<tr><td>e. Production d’énergie renouvelable</td><td>Couverture du besoin en électricité ou en chauffage de l’agriculture dans le périmètre &gt; 50 %</td><td>Couverture du besoin en électricité ou en chauffage de l’agriculture dans le périmètre &gt; 75 %</td><td>Couverture du besoin en électricité ou en chauffage de l’agriculture dans le périmètre &gt; 100 %</td><td>Électricité provenant de panneaux solaires, de centrales hydroélectriques, d’éoliennes, d’installations de biogaz, énergie issue d’un système de chauffage à bois, etc.</td></tr>
+<tr><td>ou</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Utilisation de technologies préservant les ressources</td><td>Surface concernée: 10–33 % du périmètre</td><td>Surface concernée: 34–66 % du périmètre</td><td>Surface concernée: 67–100 % du périmètre</td><td>Technologies préservant les ressources incluant des dispositifs d’économie d’énergie ou d’eau, p. ex. irrigation goutte à goutte, pompe solaire, installation pilotée selon les besoins</td></tr>
 </table>
 
 \*fixe = assuré à long terme, p. ex. inscrits au registre foncier ou délimité au sein d’un plan d’affectation
@@ -1416,15 +1503,15 @@ local: mesures concernant un secteur partiel du périmètre
 
 étendu: mesures concernant l’ensemble du périmètre
 
-### 2. Échelonnement des contributions supplémentaires pour remise en état
+### 2. Échelonnement des contributions supplémentaires pour remise en état et sauvegarde
 
-Le critère principal donnant droit à une hausse est l’implication (ampleur /répartition) par rapport au territoire communal.
+Le critère principal donnant droit à une hausse est l’implication (ampleur / répartition) par rapport au territoire communal.
 
 <table>
 <tr><th>Étendue</th><th>Contribution supplémentaire</th></tr>
-<tr><td>mesures de réfection isolées</td><td>+ 2 %</td></tr>
-<tr><td>mesures de réfection locales</td><td>+ 4 %</td></tr>
-<tr><td>mesures de réfection étendues</td><td>+ 6 %</td></tr>
+<tr><td>mesures de réfection et de sauvegarde isolées</td><td>+ 2 %</td></tr>
+<tr><td>mesures de réfection et de sauvegarde locales</td><td>+ 4 %</td></tr>
+<tr><td>mesures de réfection et de sauvegarde étendues</td><td>+ 6 %</td></tr>
 </table>
 
 ### 3. Échelonnement des contributions supplémentaires pour difficultés particulières
@@ -1449,33 +1536,36 @@ Critères:
 - h. Coûts supplémentaires pour des mesures de protection de la nature (protection des biotopes);
 - i. Coûts supplémentaires pour des mesures spéciales de sécurité (filets de protection, etc.).
 
-Annexe 5
+Annexe 5[^t-2]
 
 (art. 37, al. 1 et 2, et 39, al. 1 et 3)
 
 ## Taux et dispositions des aides financières pour bâtiments ruraux
+
+[^t-2]: Mise à jour par le ch. II al. 1 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 1. Aides financières accordées pour les bâtiments d’exploitation destinés aux animaux consommant des fourrages grossiers
 
 ### 1.1 Taux
 
 <table>
-<tr><th>Mesure</th><th>Indication en</th><th colspan="2">Contribution</th><th></th><th>Crédit d’investissement</th></tr>
-<tr><th></th><th></th><th>Zone des collines et zone de montagne I</th><th colspan="2">Zones de montagne II à IV</th><th>Toutes les zones</th></tr>
-<tr><td>Contributions maximales par exploitation</td><td>francs</td><td>155 000</td><td colspan="2">215 000</td><td>–</td></tr>
-<tr><td>Étable par UGB</td><td>francs</td><td>1 700</td><td colspan="2">2 700</td><td>6 000</td></tr>
-<tr><td>Stockage du fourrage et de la paille par m<sup>3</sup></td><td>francs</td><td>15</td><td colspan="2">20</td><td>90</td></tr>
-<tr><td>Fosse à purin et fumière par m<sup>3</sup></td><td>francs</td><td>22,50</td><td colspan="2">30</td><td>110</td></tr>
-<tr><td>Remise par m<sup>2</sup></td><td>francs</td><td>25</td><td colspan="2">35</td><td>190</td></tr>
-<tr><td>Coûts supplémentaires en raison de difficultés particulières</td><td>%</td><td>40</td><td colspan="2">50</td><td>–</td></tr>
+<tr><th>Mesure</th><th>Indication en</th><th colspan="2">Contribution</th><th>Crédit d’investissement</th></tr>
+<tr><th></th><th></th><th>Zones des collines & zone de montagne I</th><th>Zones de montagne II à IV</th><th>Toutes les zones</th></tr>
+<tr><td>Contributions maximales par exploitation</td><td>fr.</td><td>183 000</td><td>254 000</td><td>–</td></tr>
+<tr><td>Étable par UGB</td><td>fr.</td><td>2000</td><td>3190</td><td>7080</td></tr>
+<tr><td>Stockage du fourrage et de la paille par m<sup>3</sup></td><td>fr.</td><td>18</td><td>24</td><td>106</td></tr>
+<tr><td>Fosse à purin et fumière par m<sup>3</sup></td><td>fr.</td><td>26</td><td>35</td><td>130</td></tr>
+<tr><td>Remise par m<sup>2</sup></td><td>fr.</td><td>29</td><td>41</td><td>224</td></tr>
+<tr><td>Coûts supplémentaires en raison de difficultés particulières</td><td>%</td><td>40</td><td>50</td><td>–</td></tr>
 </table>
 
 ### 1.2 Dispositions particulières
 
 - 1\.2.1 Lorsque la surface agricole utile imputable est située dans plusieurs zones, l’aide financière est calculée en fonction de la zone dans laquelle sont situés plus des deux tiers de la surface agricole utile ou selon la moyenne des taux applicables aux zones concernées en majorité si la surface agricole utile n’est pas située dans une zone à raison de plus de deux tiers.
-- 1\.2.2 Les coûts supplémentaires en raison de difficultés particulières ne sont pas pris en compte pour les contributions maximales par exploitation.
+- 1\.2.2 Les coûts supplémentaires en raison de difficultés particulières ne sont pas pris en compte pour les contributions maximales par exploitation. Des coûts supplémentaires en raison de difficultés découvertes seulement pendant les travaux peuvent aussi faire l’objet d’une demande après le début des travaux.
 - 1\.2.3 Un soutien peut aussi être accordé pour des remises ou locaux de stockage de fourrage et de paille dans des exploitations ne gardant pas d’animaux consommant des fourrages grossiers.
 - 1\.2.4 Les clapiers sont soutenus avec les mêmes taux que ceux qui sont appliqués aux bâtiments d’exploitation destinés aux animaux de rente consommant des fourrages grossiers.
+- 1\.2.5 Pour les communautés d’exploitation, les contributions maximales s’appliquent pour chacune des exploitations concernées.
 
 ### 2. Aides financières pour bâtiments d’alpage
 
@@ -1497,6 +1587,8 @@ Annexe 5
 
 - 2\.2.1 Un soutien pour les locaux et installations servant à la fabrication et au stockage de fromage peut être accordé à condition que, par UGB pour les animaux traits, au moins 800 kg de lait soient transformés.
 - 2\.2.2 Une aide est allouée au maximum pour une place de porc à l’engrais par UGB pour les animaux traits.
+- 2\.2.3 S’il n’est pas octroyé de contributions pour bâtiment alpestre, le taux du crédit d’investissement accordé est doublé.
+- 2\.2.4 Des coûts supplémentaires en raison de difficultés découvertes seulement pendant les travaux peuvent aussi faire l’objet d’une demande après le début des travaux.
 
 ### 3. Taux des crédits d’investissement accordés pour les bâtiments d’exploitation particulièrement respectueux des animaux destinés aux porcs et à la volaille
 
@@ -1512,35 +1604,33 @@ Annexe 5
 
 ### 4.1 Taux
 
-<table>
-<tr><td>Mesure</td><td>Crédit d’investissement en francs</td></tr>
-<tr><td>Nouvel appartement du chef d’exploitation avec logement des parents</td><td>200 000</td></tr>
-<tr><td>Nouvel appartement du chef d’exploitation</td><td>160 000</td></tr>
-<tr><td>Nouveau logement des parents</td><td>120 000</td></tr>
-</table>
+- 4\.1.1 Le crédit d’investissement pour l’appartement du chef d’exploitation représente au maximum 50 % des coûts imputables, mais au maximum 200 000 francs.
+- 4\.1.2 Le soutien accordé est limité à un appartement de chef d’exploitation par exploitation. Pour les communautés d’exploitation, le soutien accordé est limité à un appartement de chef d’exploitation par exploitation concernée.
 
-### 4.2 Dispositions particulières
+### 5. Aides financières pour la transformation, le stockage ou la commercialisation
 
-- 4\.2.1 Le crédit d’investissement représente au maximum 50 % des coûts imputables et ne doit pas dépasser le forfait de la nouvelle construction.
-- 4\.2.2 Le soutien accordé est limité à deux appartements par exploitation (appartement du chef d’exploitation et logement des parents).
-
-### 5. Taux des aides financières pour la transformation, le stockage ou la commercialisation
+### 5.1 Taux
 
 <table>
-<tr><th>Mesure</th><th>Indication en</th><th colspan="2">Contribution</th><th></th><th>Crédit d’investissement</th></tr>
-<tr><th></th><th></th><th>Zone de montagne I</th><th colspan="2">Zones de montagne II à IV et estivage</th><th>Toutes les zones</th></tr>
-<tr><td>Transformation, stockage ou commercialisation de produits agricoles régionaux de l’exploitation (mesure individuelle)</td><td>%</td><td>28</td><td colspan="2">31</td><td>50</td></tr>
-<tr><td>Transformation, stockage ou commercialisation de produits agricoles régionaux (mesure collective)</td><td>%</td><td>30</td><td colspan="2">33</td><td>50</td></tr>
+<tr><th>Mesure</th><th>Indication en</th><th colspan="3">Contribution</th><th>Crédit d’investissement</th></tr>
+<tr><th></th><th></th><th>Zone de plaine et zone des collines</th><th>Zone de montagne I</th><th>Zones de montagne II–IV et estivage</th><th>Toutes les zones</th></tr>
+<tr><td>Mesures individuelles et mesures collectives:</td><td>%</td><td>10</td><td>23</td><td>26</td><td>50</td></tr>
 </table>
+
+### 5.2 Dispositions particulières
+
+- 5\.2.1 Seules peuvent recevoir un soutien les constructions et installations avantageuses au plan des coûts qui concernent des produits destinés à l’alimentation ou à d’autres fins humaines.
+- 5\.2.2 Il est possible de déroger à la disposition spécifique du ch. 5.2.1 dans le cadre d’un PDR, lorsque cela est dans l’intérêt du projet dans sa globalité.
 
 ### 6. Taux des crédits d’investissement accordés pour d’autres mesures de constructions rurales
 
 Le crédit d’investissement pour les mesures suivantes représente au maximum 50 % des coûts imputables pour les investissements:
 
-- a. dans la production de cultures spéciales, entreprises de production de champignons, de pousses et d’autres produits semblables;
-- b. dans les entreprises de pêche ou de pisciculture;
+- a. dans la production de cultures spéciales, entreprises d’horticulture productrice, entreprises de production de champignons, de pousses et d’autres produits semblables;
+- b. dans la production, la transformation, le stockage et la commercialisation de produits issus d’entreprises de pêche professionnelle ou d’aquaculture;
 - c. dans les activités proches de l’agriculture;
-- d. dans la production communautaire d’énergie à partir de la biomasse.
+- d. dans la valorisation de la biomasse;
+- e. dans la production de produits de l’aquaculture, d’algues, d’insectes et d’autres organismes vivants.
 
 ### 7. Taux des aides financières pour l’élaboration d’une documentation
 
@@ -1550,25 +1640,25 @@ Le crédit d’investissement pour les mesures suivantes représente au maximum 
 <tr><td>Élaboration d’une documentation pour des mesures collectives</td><td>%</td><td>27</td><td colspan="2">30</td><td colspan="2">33</td><td>50</td></tr>
 </table>
 
-Annexe 6[^t-1]
+Annexe 6[^t-3]
 
 (art. 45, al. 1 à 3, et 46, al. 1 et 3)
 
 ## Aides financières pour mesures supplémentaires d’améliorations structurelles
 
-[^t-1]: Mise à jour par les errata du 29 déc. 2022 ([RO 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870)) et du 30 janv. 2023 ([RO 2023 36](https://fedlex.data.admin.ch/eli/oc/2023/36)).
+[^t-3]: Mise à jour par les errata du 29 déc. 2022 ([RO 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870)) et du 30 janv. 2023 ([RO 2023 36](https://fedlex.data.admin.ch/eli/oc/2023/36)) et le ch. II al. 1 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 1. Crédit d’investissement pour l’aide initiale accordée pour encourager l’acquisition d’exploitations agricoles et de biens-fonds (art. 40, al. 2, let. a)
 
 - 1\.1 Le montant du crédit d’investissement pour l’aide initiale est échelonné en fonction de la taille de l’exploitation. Le forfait représente 125 000 francs pour les exploitations à un UMOS et augmente ensuite par tranches de 25 000 francs pour chaque demi UMOS supplémentaire.
 - 1\.2 Dans les régions visées à l’art. 6, al. 2, let. b et c, les exploitations de moins d’un UMOS obtiennent également un crédit d’investissement pour l’aide initiale d’un montant de 100 000 francs.
-- 1\.3 Les exploitants d’une entreprise de pêche ou de pisciculture exerçant leur profession à titre principal obtiennent un crédit d’investissement pour l’aide initiale de 110 000 francs.
+- 1\.3 Les pêcheurs professionnels et les exploitants d’entreprises d’aquaculture obtiennent un crédit d’investissement pour l’aide initiale de 110 000 francs.
 
 ### 2. Taux des crédits d’investissement pour les mesures de promotion de l’acquisition d’exploitations et d’immeubles agricoles (art. 40, al. 2, let. b)
 
 <table>
-<tr><th>Mesure</th><th>Crédit d’investissement en %</th></tr>
-<tr><td>Acquisition d’entreprises agricoles sur le marché libre par des fermiers</td><td>50</td></tr>
+<tr><td>Mesure</td><td>Crédit d’investissement en %</td></tr>
+<tr><td>Acquisition de surfaces agricoles utiles sur le marché libre</td><td>50</td></tr>
 </table>
 
 ### 3. Aides financières pour les mesures visant à promouvoir la santé animale et une production particulièrement respectueuse de l’environnement et des animaux (art. 40, al. 2, let. c)
@@ -1602,13 +1692,14 @@ Les installations d’épuration des effluents gazeux et d’acidification du li
 <table>
 <tr><th>Mesure</th><th>Indication en</th><th>Contribution</th><th>Crédit d’investissement</th><th colspan="2">Supplément temporaire</th></tr>
 <tr><th></th><th></th><th></th><th></th><th>Contribution</th><th>Délai jusqu’à la fin</th></tr>
-<tr><td>Aire de remplissage et de nettoyage des pulvérisateurs et des atomiseurs par m<sup>2</sup></td><td>francs</td><td>75</td><td>75</td><td>–</td><td>–</td></tr>
-<tr><td>Couverture des aires de remplissage et de nettoyage par m<sup>2</sup></td><td>francs</td><td>25</td><td>25</td><td></td><td></td></tr>
-<tr><td>Installation de stockage de l’eau de nettoyage des aires de remplissage et de nettoyage par m<sup>3</sup> de volume stocké</td><td>francs</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
-<tr><td>Installation pour l’évaporation de l’eau de lavage des aires de remplissage et de nettoyage par m<sup>2</sup> de surface d’évaporation</td><td>francs</td><td>250</td><td>250</td><td></td><td></td></tr>
-<tr><td>Plantation de variétés robustes d’arbres fruitiers à noyau et à pépins par ha</td><td>francs</td><td>7 000</td><td>7 000</td><td>7 000</td><td>2030</td></tr>
-<tr><td>Plantation de variétés robustes de plants de vigne (cépages) par ha</td><td>francs</td><td>10 000</td><td>10 000</td><td>10 000</td><td>2030</td></tr>
+<tr><td>Aire de remplissage et de nettoyage des pulvérisateurs et des atomiseurs par m<sup>2</sup></td><td>fr.</td><td>75</td><td>75</td><td>–</td><td>–</td></tr>
+<tr><td>Couverture des aires de remplissage et de nettoyage par m<sup>2</sup></td><td>fr.</td><td>25</td><td>25</td><td>–</td><td>–</td></tr>
+<tr><td>Installation de stockage de l’eau de nettoyage des aires de remplissage et de nettoyage par m<sup>3</sup> de volume stocké</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
+<tr><td>Installation pour l’évaporation de l’eau de lavage des aires de remplissage et de nettoyage par m<sup>2</sup> de surface d’évaporation</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
+<tr><td>Plantation de variétés robustes d’arbres fruitiers à noyau et à pépins par ha</td><td>fr.</td><td>7 000</td><td>7 000</td><td>7 000</td><td>2030</td></tr>
+<tr><td>Plantation de variétés robustes de plants de vigne (cépages) par ha</td><td>fr.</td><td>10 000</td><td>10 000</td><td>10 000</td><td>2030</td></tr>
 <tr><td>Assainissement des bâtiments d’exploitation pollués par des biphényles polychlorés (PCB)</td><td>%</td><td>25</td><td>50</td><td>25</td><td>2026</td></tr>
+<tr><td>Nouveaux robots utilisés dans les champs</td><td>%</td><td>10</td><td>–</td><td>–</td><td>–</td></tr>
 </table>
 
 ### 3.2.2 Dispositions particulières
@@ -1622,6 +1713,9 @@ Les installations d’épuration des effluents gazeux et d’acidification du li
 - g. La plantation des variétés d’arbres fruitiers à noyau et à pépins n’est soutenue que s’il s’agit de cultures au sens de l’art. 22, al. 2, de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^annex6-lvlu1-lvl3-lvl32-lvl322-1].
 - h. La surface minimum pour la plantation est de 25 ares.
 - i. Dans le cas de l’assainissement des bâtiments d’exploitation contaminés par les PCB, les coûts d’échantillonnage des polluants, d’assainissement des bâtiments et d’élimination sont imputables.
+- j. Les mesures en relation avec les aires de remplissage et de nettoyage font l’objet d’un encouragement jusqu’à la fin 2028.
+- k. Les variétés robustes font l’objet d’un encouragement jusqu’à la fin 2034.
+- l. Les robots utilisés dans les champs font l’objet d’un encouragement jusqu’à la fin 2030.
 
 [^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
@@ -1637,45 +1731,53 @@ Les installations d’épuration des effluents gazeux et d’acidification du li
 
 ### 3.3.2 Dispositions particulières
 
-Les coûts supplémentaires liés à l’adaptation des bâtiments doivent être justifiés au moyen d’une comparaison des coûts. Les intérêts de la protection du paysage en dehors d’un inventaire fédéral sont pris en compte à condition qu’une stratégie cantonale en la matière soit présentée.
+- a. Les coûts supplémentaires liés à des adaptations spéciales de bâtiments agricoles et aux exigences de la protection du patrimoine ne font l’objet d’un soutien que dans le cadre d’un inventaire fédéral. Ils doivent être justifiés au moyen d’une comparaison des coûts.
+- b. Les démolitions font l’objet d’un encouragement jusqu’à la fin 2025.
 
 ### 3.4 Atténuation du changement climatique
 
 ### 3.4.1 Taux
 
 <table>
-<tr><th>Mesure</th><th>Contribution fédérale en %</th><th>Crédit d’investissement en %</th></tr>
-<tr><td>Constructions, installations et équipements destinés à la production ou au stockage d’énergie durable en majorité pour l’approvisionnement personnel</td><td>25</td><td>50</td></tr>
+<tr><th>Mesure</th><th>Indication en</th><th>Contribution</th><th>Crédit d’investissement</th></tr>
+<tr><td>Bâtiments, installations et équipements destinés à la production ou au stockage d’énergie durable en majorité pour l’approvisionnement personnel, par kW (production) ou kWh (stockage)</td><td>fr.</td><td>100</td><td>100</td></tr>
+<tr><td>Nouveaux tracteurs agricoles à moteur électrique, à partir de 30 kW, par kW</td><td>fr.</td><td>100</td><td>–</td></tr>
 </table>
 
 ### 3.4.2 Dispositions particulières
 
-Des contributions sont uniquement octroyées pour les bâtiments, installations et équipements qui ne sont pas encouragés par l’intermédiaire d’autres programmes de soutien de la Confédération, comme la rétribution à prix coûtant du courant injecté.
+- a. Des contributions sont uniquement octroyées pour des constructions, installations ou équipements qui ne sont pas encouragés par l’intermédiaire d’autres programmes de soutien de la Confédération, tels que la rétribution unique.
+- b. Les constructions, installations et équipements pour la production ou le stockage d’énergie durable font l’objet d’un encouragement jusqu’à la fin 2026.
+- c. Les tracteurs font l’objet d’un encouragement jusqu’à la fin 2028.
 
-### 4. Taux des aides financières pour des mesures visant à encourager la collaboration interentreprises (art. 41, al. 2)
+### 4. Aides financières pour des mesures visant à encourager la collaboration interentreprises (art. 41, al. 2)
+
+### 4.1 Taux
 
 <table>
-<tr><th>Mesure</th><th>Indication en</th><th colspan="2">Contribution</th><th colspan="2"></th><th></th><th>Crédit de financement</th></tr>
-<tr><th></th><th></th><th>Zone de plaine</th><th colspan="2">Zone des collines et de montagne I</th><th colspan="2">Zones de montagne II–IV et estivage</th><th>Toutes les zones</th></tr>
-<tr><td>Initiatives collectives qui visant à une baisse des coûts de production</td><td>%</td><td>27</td><td colspan="2">30</td><td colspan="2">33</td><td>–</td></tr>
-<tr><td>Création d’organisations d’entraide agricoles ou horticoles dans les domaines de la production conforme au marché et de la gestion d’entreprise ou une extension de leur activité</td><td>%</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>50</td></tr>
-<tr><td>Acquisition commune de machines et de véhicules</td><td>%</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>50</td></tr>
+<tr><th>Mesure</th><th>Indication en</th><th colspan="3">Contribution</th><th>Crédit d’investissement</th></tr>
+<tr><th></th><th></th><th>Zone de plaine</th><th>Zones des collines et de montagne I</th><th>Zones de montagne II–IV et estivage</th><th>Toutes les zones</th></tr>
+<tr><td>Initiatives collectives visant à une baisse des coûts de production</td><td>%</td><td>27</td><td>30</td><td>33</td><td>–</td></tr>
+<tr><td>Création d’organisations d’entraide agricoles ou horticoles</td><td>%</td><td>–</td><td>–</td><td>–</td><td>50</td></tr>
+<tr><td>Acquisition commune de machines ou de véhicules</td><td>%</td><td>–</td><td>–</td><td>–</td><td>50</td></tr>
 </table>
 
-Annexe 7
+### 4.2 Dispositions particulières
+
+Les mesures peuvent aussi être réalisées par des communautés d’exploitation.
+
+Annexe 7[^t-4]
 
 (art. 50, al. 4)
 
-## Coûts imputables déterminants pour les projets de développement régional
+## Réduction des coûts imputables, en pourcentage, pour les projets de développement régional
 
-Réduction en pour cent des coûts imputables par mesure
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 <table>
-<tr><th>Mesure</th><th>Réduction des coûts imputables en pour cent</th></tr>
-<tr><td>Mise sur pied et développement d’une activité proche de l’agriculture</td><td>20</td></tr>
-<tr><td>Transformation, stockage et commercialisation de produits agricoles régionaux</td><td>33</td></tr>
-<tr><td>Autres mesures dans l’intérêt du projet dans sa globalité</td><td>au moins 50</td></tr>
-<tr><td>Mesures complétées au cours de la phase de mise en œuvre</td><td>au moins 5</td></tr>
+<tr><th>Mesure</th><th>Réduction des coûts imputables, en pourcentage</th></tr>
+<tr><td>Mise sur pied et développement d’une activité proche de l’agriculture (art. 47, al. 2, let. b)</td><td>20</td></tr>
+<tr><td>Autres mesures dans l’intérêt du PDR (art. 47, al. 2, let. e) dans sa globalité</td><td>au moins 50</td></tr>
 </table>
 
 Annexe 8

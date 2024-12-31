@@ -4,11 +4,11 @@ title: "Verordnung vom 2. November 2022 über die Strukturverbesserungen in der 
 short: SVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: de
-version: 2023-01-30
+version: 2025-01-01
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20230130/de/xml/fedlex-data-admin-ch-eli-cc-2022-754-20230130-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2022-754-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230130/de"
 
 (Strukturverbesserungsverordnung, SVV)
 
-vom 2. November 2022 (Stand am 30. Januar 2023)
+vom 2. November 2022 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -114,11 +114,13 @@ Pächter und Pächterinnen von Betrieben können Finanzhilfen erhalten, wenn ein
 - a. Massnahmen nach Artikel 1 Absatz 1 Buchstaben a und c;
 - b. Massnahmen, für die ausschliesslich Investitionskredite gewährt werden.
 
-<sup>3</sup> Werden Beiträge Pächtern und Pächterinnen gewährt, so muss ein Pachtvertrag für eine Mindestdauer von 20 Jahren abgeschlossen werden. Der Pachtvertrag ist im Grundbuch vorzumerken, sofern er nicht Bestandteil des Baurechtsvertrags ist.
+<sup>3</sup> Werden Beiträge Pächtern und Pächterinnen gewährt, so muss ein Pachtvertrag für eine Mindestdauer von 20 Jahren abgeschlossen werden. Für Massnahmen nach Artikel 1 Absatz 1 Buchstabe c Ziffer 1 muss ein Pachtvertrag mit einer Restlaufzeit von 10 Jahren abgeschlossen werden. Der Pachtvertrag ist im Grundbuch vorzumerken, sofern er nicht Bestandteil des Baurechtsvertrags ist.[^5-1]
 
 <sup>4</sup> Wird ausschliesslich ein Investitionskredit gewährt, so richtet sich die Dauer des Pachtvertrags und des Grundpfands nach der Rückzahlungsfrist des Investitionskredits.
 
 <sup>5</sup> Bei PRE gilt die Voraussetzung nach Absatz 1 auch als erfüllt, wenn die unterstützte Baute oder Anlage im Eigentum eines Mitglieds der Trägerschaft ist.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 6
 
@@ -141,14 +143,15 @@ In den folgenden Fällen genügt eine Betriebsgrösse von mindestens 0,60 SAK:
 - b. für Massnahmen in den Bergzonen III und IV zur Sicherung der Bewirtschaftung;
 - c. für Massnahmen in Gebieten des Berg- und Hügelgebiets zur Sicherung einer genügenden Besiedelungsdichte.
 
-<sup>3</sup> Für gemeinschaftliche Massnahmen müssen mindestens zwei landwirtschaftliche Betriebe oder zwei Betriebe des produzierenden Gartenbaus eine Betriebsgrösse von je 0,60 SAK nachweisen.
+<sup>3</sup> Für gemeinschaftliche Massnahmen, die nicht unter Absatz 2 fallen, müssen mindestens zwei landwirtschaftliche Betriebe oder zwei Betriebe des produzierenden Gartenbaus eine Betriebsgrösse von je 1,00 SAK nachweisen.[^6-1]
 
 <sup>4</sup> Die Kriterien zur Beurteilung, ob die Besiedelungsdichte nach Absatz 2 Buchstabe c gefährdet ist, sind in Anhang 1 festgelegt.
 
-<sup>5</sup> Für die Bestimmung der Betriebsgrösse gelten zusätzlich zu den SAK-Faktoren nach Artikel 3 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^6-1] auch die SAK-Faktoren nach Artikel 2*a* der Verordnung vom 4. Oktober 1993[^6-2] über das bäuerliche Bodenrecht.
+<sup>5</sup> Für die Bestimmung der Betriebsgrösse gelten zusätzlich zu den SAK-Faktoren nach Artikel 3 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^6-2] auch die SAK-Faktoren nach Artikel 2*a* der Verordnung vom 4. Oktober 1993[^6-3] über das bäuerliche Bodenrecht.
 
-[^6-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^6-2]: [SR 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
+[^6-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^6-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^6-3]: [SR 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
 
 #### Art. 7
 
@@ -189,7 +192,7 @@ Der Kanton kann folgende Beiträge an den Kantonsbeitrag anrechnen lassen:
 
 <sup>1</sup>
 
-Für folgende Massnahmen werden Finanzhilfen nur gewährt, wenn im wirtschaftlich relevanten Einzugsgebiet keine direkt betroffenen Gewerbebetriebe im Zeitpunkt der Publikation des Gesuchs bereit und in der Lage sind, die vorgesehene Aufgabe gleichwertig zu erfüllen:
+Für folgende Massnahmen werden Finanzhilfen nur gewährt, wenn im wirtschaftlich relevanten Einzugsgebiet keine direkt betroffenen Kleinbetriebe im Zeitpunkt der Publikation des Gesuchs bereit und in der Lage sind, die vorgesehene Aufgabe gleichwertig zu erfüllen:[^9-1]
 
 - a. PRE;
 - b. Bauten und Anlagen für die Verarbeitung, Lagerung und Vermarktung regionaler landwirtschaftlicher Produkte;
@@ -203,9 +206,12 @@ Für folgende Massnahmen werden Finanzhilfen nur gewährt, wenn im wirtschaftlic
 
 <sup>2</sup> Der Kanton publiziert vor der Genehmigung des Vorhabens die Gesuche für Massnahmen nach Absatz 1 im Publikationsorgan des Kantons.
 
-<sup>3</sup> Direkt betroffene Gewerbebetriebe im wirtschaftlich relevanten Einzugsgebiet können bei der zuständigen kantonalen Stelle Einsprache gegen die staatliche Mitfinanzierung erheben.
+<sup>3</sup> Direkt betroffene Kleinbetriebe im wirtschaftlich relevanten Einzugsgebiet können bei der zuständigen kantonalen Stelle Einsprache gegen die staatliche Mitfinanzierung erheben.[^9-2]
 
 <sup>4</sup> Die Feststellung der Wettbewerbsneutralität richtet sich nach dem kantonalen Recht.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 2. Abschnitt: Anrechenbare Kosten
 
@@ -284,7 +290,7 @@ Finanzhilfen werden für folgende Massnahmen gewährt:
 - a. Meliorationen: Gesamtmeliorationen, Landumlegungen, Pachtlandarrondierungen und weitere Massnahmen zur Verbesserung der Bewirtschaftungsstruktur;
 - b. der Landwirtschaft dienende Transportinfrastrukturen: Erschliessungsanlagen wie Wege, Seilbahnen und ähnliche Transportanlagen;
 - c. Anlagen und Massnahmen im Bereich des Bodens und des Wasserhaushalts wie Bewässerungen, Entwässerungen und Verbesserungen von Bodenstruktur und -aufbau;
-- d. Basisinfrastrukturen im ländlichen Raum wie Wasser- und Elektrizitätsversorgungen und Anschlüsse der Grundversorgung im Fernmeldewesen an fernmeldetechnisch nicht erschlossenen Orten.
+- d.[^14-1] Basisinfrastrukturen im ländlichen Raum: Wasser- und Elektrizitätsversorgungen und Anschlüsse der Grundversorgung im Fernmeldewesen an fernmeldetechnisch nicht erschlossenen Orten.
 
 <sup>2</sup> Massnahmen nach Absatz 1 Buchstabe a sind ausschliesslich gemeinschaftliche Massnahmen. Massnahmen nach Absatz 1 Buchstaben b–d können einzelbetriebliche oder gemeinschaftliche Massnahmen sein.
 
@@ -302,6 +308,8 @@ Umfassende gemeinschaftliche Massnahmen sind gemeinschaftliche Massnahmen, die s
 <sup>6</sup> Bauten und Anlagen in der Bauzone werden nicht unterstützt; ausgenommen sind der Landwirtschaft dienende Infrastrukturen, die zwingend in oder angrenzend an Bauzonen realisiert werden müssen.
 
 <sup>7</sup> Investitionskredite werden nur in Form von Bau- und Konsolidierungskrediten gewährt.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 15
 
@@ -353,7 +361,7 @@ Die periodische Wiederinstandstellung nach Absatz 1 Buchstabe c umfasst:
 
 **Allgemeine Voraussetzungen**
 
-<sup>1</sup> Massnahmen werden unterstützt, sofern sie landwirtschaftlichen Betrieben, Sömmerungsbetrieben, Betrieben zur Produktion von Pilzen, Sprossen und ähnlichen Erzeugnissen, Betrieben des produzierenden Gartenbaus oder Fischerei- oder Fischzuchtbetrieben zugutekommen.
+<sup>1</sup> Massnahmen werden unterstützt, sofern sie landwirtschaftlichen Betrieben, Sömmerungsbetrieben, Betrieben zur Produktion von Pilzen, Sprossen und ähnlichen Erzeugnissen, Betrieben des produzierenden Gartenbaus oder Berufsfischerei- oder Aquakulturbetrieben zugutekommen.[^18-1]
 
 <sup>2</sup> Die Finanzierung und die Tragbarkeit der vorgesehenen Investitionen müssen nachgewiesen sein. Als Richtwert zur Beurteilung der Tragbarkeit gilt die Restkostenbelastung nach Anhang 2.
 
@@ -361,9 +369,11 @@ Die periodische Wiederinstandstellung nach Absatz 1 Buchstabe c umfasst:
 
 <sup>4</sup> Mit Investitionskrediten werden nur gemeinschaftliche Massnahmen unterstützt.
 
-<sup>5</sup> Die SIA-Norm 406 vom 1. Dezember 1991[^18-1] «Inhalt und Darstellung von Bodenverbesserungsprojekten» ist anzuwenden.
+<sup>5</sup> Die Norm SIA 406:2024 «Inhalt und Ablauf von Strukturverbesserungen im Tiefbau»[^18-2] ist anzuwenden.[^18-3]
 
-[^18-1]: Die Norm kann kostenpflichtig bezogen werden beim Schweizerischer Ingenieur- und Architektenverein, [www.sia.ch](http://www.sia.ch) &gt; Dienstleistungen &gt; SIA-Norm. Sie kann kostenlos eingesehen werden beim Bundesamt für Landwirtschaft, Schwarzenburgstrasse 165, 3003 Bern.
+[^18-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^18-2]: Die Norm kann kostenpflichtig bezogen werden beim Schweizerischer Ingenieur- und Architektenverein: [www.sia.ch](http://www.sia.ch) &gt; Dienstleistungen &gt; SIA-Norm. Sie kann kostenlos eingesehen werden beim Bundesamt für Landwirtschaft, Schwarzenburgstrasse 165, 3003 Bern.
+[^18-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 19
 
@@ -418,7 +428,8 @@ Zusätzlich zu den Kosten nach Artikel 10 sind folgende Kosten anrechenbar:
 
 - a. Kosten für den Landerwerb im Zusammenhang mit begleitenden Massnahmen nach Artikel 15 bis zum achtfachen landwirtschaftlichen Ertragswert;
 - b. Kosten für vermessungstechnische Arbeiten bei Landumlegungen einschliesslich Verpflockung und Vermarkung, soweit diese Arbeiten den Minimalanforderungen des Bundes entsprechen und für die Erkennung und Bewirtschaftung der neuen Parzellen notwendig sind;
-- c. eine einmalige Entschädigung bis höchstens 1200 Franken pro Hektar an Verpächter und Verpächterinnen für die Erteilung des Rechts an eine Pachtlandorganisation zur Weitergabe des Pachtlandes, sofern das Pachtland 12 Jahre zur Verfügung gestellt wird.
+- c. eine einmalige Entschädigung bis höchstens 1200 Franken pro Hektar an Verpächter und Verpächterinnen für die Erteilung des Rechts an eine Pachtlandorganisation zur Weitergabe des Pachtlandes, sofern das Pachtland 12 Jahre zur Verfügung gestellt wird;
+- d.[^23-1] Prämien für Bauherrenhaftpflicht- und Bauwesenversicherungen.
 
 <sup>2</sup>
 
@@ -429,14 +440,16 @@ Nicht anrechenbar sind insbesondere:
 - c. Kosten für den Landerwerb, die nicht unter Absatz 1 Buchstabe a fallen;
 - d. Entschädigungen an Beteiligte für Durchleitungs- und Quellrechte, Wegrechte und Ähnliches sowie Kultur- und Inkonvenienzentschädigungen;
 - e. Kosten für den Erwerb von beweglichem Inventar und von Inneninstallationen sowie für Betrieb und Unterhalt;
-- f. Verwaltungskosten, Sitzungsgelder, Versicherungsprämien und Zinsen;
+- f.[^23-2] Verwaltungskosten, Sitzungsgelder, Versicherungsprämien mit Ausnahme der Prämien nach Absatz 1 Buchstabe d sowie Zinsen;
 - g. bei Elektrizitätsversorgungen der Netzkostenbeitrag für den Anschluss an das vorgelagerte Verteilnetz.
 
-<sup>3</sup> Bei Anschlüssen der Grundversorgung im Fernmeldewesen an fernmeldetechnisch nicht erschlossenen Orten sind nur die Kosten anrechenbar, die nach Artikel 18 Absatz 2 der Verordnung vom 9. März 2007[^23-1] über Fernmeldedienste von den Kunden und Kundinnen übernommen werden müssen.
+<sup>3</sup> Bei Anschlüssen der Grundversorgung im Fernmeldewesen an fernmeldetechnisch nicht erschlossenen Orten sind nur die Kosten anrechenbar, die nach Artikel 18 Absatz 2 der Verordnung vom 9. März 2007[^23-3] über Fernmeldedienste von den Kunden und Kundinnen übernommen werden müssen.
 
 <sup>4</sup> Bei Entwässerungsanlagen und der Verbesserung von Bodenstruktur und -aufbau ist höchstens der achtfache landwirtschaftliche Ertragswert des Grundstücks anrechenbar.
 
-[^23-1]: [SR 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^23-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^23-3]: [SR 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
 
 #### Art. 24
 
@@ -556,7 +569,7 @@ Die Beitragssätze können auf Antrag des Kantons für folgende Zusatzleistungen
 
 **Einzelbetriebliche Massnahmen**
 
-<sup>1</sup> Einzelbetrieblich sind Massnahmen, die mindestens von einem landwirtschaftlichen Betrieb oder einem gewerblichen Kleinbetrieb getragen werden sowie der Produktion und der Verwertung von Erzeugnissen aus Pflanzenbau und Nutztierhaltung dienen.
+<sup>1</sup> Einzelbetrieblich sind Massnahmen, die mindestens von einem landwirtschaftlichen Betrieb getragen werden und die der Produktion und der Verwertung von Erzeugnissen aus Pflanzenbau und Nutztierhaltung dienen.[^29-1]
 
 <sup>2</sup>
 
@@ -565,26 +578,40 @@ Finanzhilfen für einzelbetriebliche Massnahmen werden Bewirtschaftern und Bewir
 - a. den Bau oder den Erwerb auf dem freien Markt von Bauten, Anlagen oder Einrichtungen auf dem Produktionsbetrieb für die Verarbeitung, Lagerung oder Vermarktung von eigenen und regionalen landwirtschaftlichen Produkten;
 - b. den Bau oder den Erwerb auf dem freien Markt von Ökonomie- und Wohngebäuden;
 - c. die Erstellung von Anlagen zur Verbesserung der Produktion von Spezialkulturen sowie die Erneuerung von Dauerkulturen;
-- d. bauliche Massnahmen oder Einrichtungen für die Tätigkeit im landwirtschaftsnahen Bereich.
+- d. bauliche Massnahmen oder Einrichtungen für die Tätigkeit im landwirtschaftsnahen Bereich;
+- e.[^29-2] bauliche Massnahmen oder Einrichtungen für die Produktion von Erzeugnissen der Aquakultur, Algen, Insekten und weiteren lebenden Organismen, die keine verwertbaren Erzeugnisse aus der Landwirtschaft sind und die als Nahrungs- oder Futtermittel dienen;
+- f.[^29-3] den Bau oder den Erwerb auf dem freien Markt von Bauten und Anlagen zur Biomassenverwertung.
 
-<sup>3</sup> Hauptberuflichen Betreibern und Betreiberinnen eines Fischerei- oder Fischzuchtbetriebs werden Finanzhilfen für einzelbetriebliche Massnahmen gewährt für bauliche Massnahmen oder Einrichtungen für eine Produktion, die die massgebenden Vorschriften der Tierschutzgesetzgebung einhält sowie zur Verarbeitung und Vermarktung des einheimischen Fischfangs.
+<sup>3</sup> Berufsfischern und Berufsfischerinnen sowie Aquakulturbetrieben werden Finanzhilfen für einzelbetriebliche Massnahmen gewährt für bauliche Massnahmen oder Einrichtungen zur tiergerechten Haltung und für die Verarbeitung, Lagerung und Vermarktung der eigenen Produktion.[^29-4]
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^29-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^29-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^29-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 30
 
 **Gemeinschaftliche Massnahmen**
 
-<sup>1</sup> Gemeinschaftlich sind Massnahmen, die von mehreren Betrieben getragen werden und nicht der Produktion von Erzeugnissen aus Pflanzenbau und Nutztierhaltung dienen. Vorhaben auf Sömmerungsbetrieben gelten als gemeinschaftliche Massnahmen.
+<sup>1</sup> Gemeinschaftlich sind Massnahmen, die von mehreren Betrieben getragen werden und nicht der Produktion von Erzeugnissen aus Pflanzenbau und Nutztierhaltung dienen. Vorhaben von Sömmerungsbetrieben und gewerblichen Kleinbetrieben gelten als gemeinschaftliche Massnahmen.[^30-1]
 
 <sup>2</sup>
 
-Finanzhilfen für gemeinschaftliche Massnahmen werden Bewirtschaftern und Bewirtschafterinnen von mindestens zwei landwirtschaftlichen Betrieben, Betrieben des produzierenden Gartenbaus oder Betrieben zur Produktion von Pilzen, Sprossen oder ähnlichen Erzeugnissen gewährt für:
+Finanzhilfen für gemeinschaftliche Massnahmen werden Bewirtschaftern und Bewirtschafterinnen von mindestens zwei landwirtschaftlichen Betrieben, Betrieben des produzierenden Gartenbaus oder Betrieben zur Produktion von Pilzen, Sprossen und ähnlichen Erzeugnissen gewährt für:[^30-2]
 
 - a. den Bau oder den Erwerb auf dem freien Markt von Bauten, Anlagen oder Einrichtungen für die Verarbeitung, Lagerung oder Vermarktung regionaler landwirtschaftlicher Produkte;
 - b. den Bau oder den Erwerb auf dem freien Markt von Bauten, Einrichtungen und mobilen Hirtenhütten für Sömmerungsbetriebe;
-- c. den Bau oder den Erwerb auf dem freien Markt von Anlagen zur Produktion von erneuerbarer Energie aus Biomasse;
+- c.[^30-3] den Bau oder den Erwerb auf dem freien Markt von Bauten und Anlagen zur Biomassenverwertung;
 - d. Grundlagenbeschaffungen zur Abklärung der Machbarkeit und Vorbereitung von konkreten Massnahmen.
 
 <sup>3</sup> Sömmerungsbetrieben werden nur Finanzhilfen für Massnahmen nach Absatz 2 Buchstabe b und d gewährt.
+
+<sup>4</sup> Gewerblichen Kleinbetrieben werden nur Finanzhilfen für Massnahmen nach Absatz 2 Buchstaben a und d gewährt.[^30-4]
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^30-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^30-4]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 2. Abschnitt: Voraussetzungen
 
@@ -618,11 +645,13 @@ Der Bewirtschafter oder die Bewirtschafterin des landwirtschaftlichen Betriebs m
 
 #### Art. 32
 
-**Tragbare Belastung**
+**Tragbarkeit der Investition und Wirtschaftlichkeit des Betriebs bei einzelbetrieblichen Massnahmen**[^32-1]
 
-<sup>1</sup> Die Finanzierung und die Tragbarkeit der vorgesehenen Investition müssen vor der Gewährung der Finanzhilfe ausgewiesen sein.
+<sup>1</sup> Bei einzelbetrieblichen Massnahmen nach Artikel 29 Absätze 1 und 2 müssen die Finanzierung und die Tragbarkeit der vorgesehenen Investition und die Wirtschaftlichkeit des Betriebs vor der Gewährung der Finanzhilfe ausgewiesen sein.
 
-<sup>2</sup> Bei Investitionen über 100 000 Franken muss der Gesuchsteller oder die Gesuchstellerin mit geeigneten Planungsinstrumenten für einen Zeitraum von mindestens fünf Jahren nach der Gewährung der Finanzhilfen belegen, dass die Tragbarkeit auch unter künftigen wirtschaftlichen Rahmenbedingungen erfüllt wird. Dazu gehört auch eine Risikobeurteilung.
+<sup>2</sup> Bei Investitionen nach Absatz 1, die über 500 000 Franken liegen, muss der Gesuchsteller oder die Gesuchstellerin mit geeigneten Planungsinstrumenten für einen Zeitraum von mindestens fünf Jahren nach der Gewährung der Finanzhilfen belegen, dass die Tragbarkeit der Investition und die Wirtschaftlichkeit des Betriebs auch unter künftigen wirtschaftlichen Rahmenbedingungen gegeben sind. Dazu gehört auch eine Risikobeurteilung.
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 33
 
@@ -649,18 +678,28 @@ Zwei oder mehrere Betriebe, die gemeinsam ein landwirtschaftliches Ökonomiegeb�
 - a. die Gemeinschaft von der zuständigen kantonalen Stelle anerkannt ist;
 - b. ein Zusammenarbeitsvertrag abgeschlossen wird, dessen Mindestdauer bei einer Unterstützung mit Beiträgen 15 Jahre und bei einer ausschliesslichen Unterstützung mit Investitionskrediten der Laufzeit des Investitionskredits entspricht.
 
-[^34-1]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
+[^34-1]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
 
 #### Art. 35
 
-**Zusätzliche Voraussetzungen für gewerbliche Kleinbetriebe**
+**Zusätzliche Voraussetzungen für die Verarbeitung, Lagerung oder Vermarktung regionaler landwirtschaftlicher Produkte**[^35-1]
 
-Gewerblichen Kleinbetrieben werden Finanzhilfen für Massnahmen nach Artikel 29 Absatz 2 Buchstabe a gewährt, wenn sie folgende Voraussetzungen zusätzlich erfüllen:
+<sup>1</sup>
 
-- a. Sie sind wirtschaftlich eigenständige Unternehmen oder einstufige Mutter-Tochter-Verbindungen, wobei die ganze Gruppe die Anforderungen nach diesem Artikel erfüllen und die Eigentümerin der Liegenschaften Finanzhilfeempfängerin sein muss.
-- b. Ihre Tätigkeit umfasst mindestens die erste Verarbeitungsstufe landwirtschaftlicher Rohstoffe.
-- c. Sie beschäftigen vor der Investition Mitarbeiter und Mitarbeiterinnen im Umfang von höchstens 2000 Stellenprozenten oder weisen einen Gesamtumsatz von höchstens 10 Millionen Franken aus.
-- d. Der Hauptumsatz stammt aus der Verarbeitung regional produzierter landwirtschaftlicher Rohstoffe oder deren Verkauf.
+Finanzhilfen für Massnahmen nach Artikel 30 Absatz 2 Buchstabe a werden landwirtschaftlichen Produzentenorganisationen und gewerblichen Kleinbetrieben gewährt, wenn sie folgende Voraussetzungen zusätzlich erfüllen:
+
+- a. Die Organisation oder der Betrieb ist ein wirtschaftlich eigenständiges Unternehmen oder eine einstufige Mutter-Tochter-Verbindung, wobei diese Verbindung als Ganze die Anforderungen nach diesem Artikel erfüllen muss und diejenige Gesellschaft der Verbindung, die unterstützt werden soll, Eigentümerin der Liegenschaft sein muss.
+- b. Die Organisation oder der Betrieb beschäftigt Mitarbeitende im Umfang von höchstens 2000 Stellenprozenten oder weist einen Gesamtumsatz von höchstens 10 Millionen Franken aus.
+- c. Der Hauptumsatz der Organisation oder des Betriebs stammt aus der Verarbeitung regional produzierter landwirtschaftlicher Rohstoffe oder deren Verkauf.
+
+<sup>2</sup> Gewerbliche Kleinbetriebe müssen im Rahmen ihrer Tätigkeit die erste Verarbeitungsstufe landwirtschaftlicher Rohstoffe einschliessen.
+
+<sup>3</sup> Landwirtschaftliche Produzentenorganisationen, die ihre selbstproduzierten landwirtschaftlichen Rohstoffe in eigenen Anlagen durch Pächter oder Pächterinnen verarbeiten, lagern oder vermarkten lassen, können unterstützt werden, sofern die Produzentenorganisation und der Pächter oder die Pächterin die Voraussetzungen nach diesem Artikel erfüllt.
+
+<sup>4</sup> Als regional gilt ein landwirtschaftlicher Rohstoff, wenn er in den für den Betrieb relevanten Arbeitsmarktregionen gemäss der Einteilung der Arbeitsmarktregionen 2018[^35-2] des Bundesamts für Statistik produziert wurde. Für PRE wird die Region in der Vereinbarung festgelegt.
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^35-2]: Abrufbar unter [www.bfs.admin.ch](http://www.bfs.admin.ch) &gt; Statistiken &gt; Querschnittsthemen &gt; Räumliche Analysen &gt; Räumliche Gliederungen &gt; Analyseregionen &gt; Arbeitsmarktregionen und Arbeitsmarktgrossregionen &gt; Arbeitsmarktregionen 2018.
 
 ### 3. Abschnitt: Höhe der Beiträge und der Investitionskredite
 
@@ -676,11 +715,15 @@ Zusätzlich zu den Kosten nach Artikel 10 sind die Untersuchungs- und Beratungsk
 
 <sup>1</sup> Die Ansätze für Beiträge sowie spezifische Bestimmungen zu den Massnahmen sind in Anhang 5 festgelegt. Bei einer Bauteuerung oder um einen Beitrag zur Erreichung der Umweltziele Landwirtschaft 2008[^37-1] zu leisten, kann das BLW die Ansätze in Anhang 5 höchstens um 10 Prozent erhöhen.
 
-<sup>2</sup> Bei einer Unterstützung von bestehenden Bauten mit pauschalen Ansätzen nach Anhang 5 werden die pauschalen Beiträge angemessen reduziert. Bei früher bereits unterstützten Bauten wird von den Höchstbeiträgen mindestens der Bundesbeitrag *pro rata temporis* nach Artikel 67 Absatz 5 Buchstabe c abgezogen.
+<sup>2</sup> Bei einer Unterstützung von bestehenden Bauten mit pauschalen Ansätzen nach Anhang 5 werden die pauschalen Beiträge angemessen reduziert. Bei früher bereits unterstützten Bauten wird von den Höchstbeiträgen mindestens der Bundesbeitrag *pro rata temporis* nach Artikel 67 Absatz 5 Buchstabe b abgezogen.[^37-2]
 
 <sup>3</sup> Für Ökonomiegebäude für raufutterverzehrende Tiere und Alpgebäude werden für Mehrkosten aufgrund besonderer Erschwernisse Beiträge gewährt. Sie werden bei der Bestimmung des Kantonsbeitrags nicht berücksichtigt. Als besondere Erschwernis gelten ausserordentliche Transportkosten, Baugrundschwierigkeiten, besondere Terrainverhältnisse, Naturgefahren und klimatische Besonderheiten.
 
-[^37-1]: Die Umweltziele Landwirtschaft sind abrufbar unter: www.bafu.admin.ch &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
+<sup>4</sup> Es werden keine Beiträge unter 5000 Franken gewährt.[^37-3]
+
+[^37-1]: Die Umweltziele Landwirtschaft sind abrufbar unter: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
+[^37-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^37-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 38
 
@@ -690,13 +733,15 @@ Zusätzlich zu den Kosten nach Artikel 10 sind die Untersuchungs- und Beratungsk
 
 <sup>2</sup> Bei juristischen Personen, bei Personengesellschaften und bei verheirateten oder in eingetragener Partnerschaft lebenden Gesuchstellern und Gesuchstellerinnen ist das arithmetische Mittel des veranlagten steuerbaren Vermögens der beteiligten natürlichen Personen massgebend.
 
-<sup>3</sup> Beiträge für gewerbliche Kleinbetriebe werden nicht aufgrund von Vermögen gekürzt.
+<sup>3</sup> …[^38-1]
+
+[^38-1]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 39
 
-**Höhe der Investitionskredite und spezifische Bestimmungen zu den Massnahmen**
+**Höhe der Investitionskredite und spezifische Bestimmungen zu den Massnahmen[^39-1]**
 
-<sup>1</sup> Die Ansätze für die Investitionskredite sowie spezifische Bestimmungen zu den Massnahmen sind in Anhang 5 festgelegt. Bei einer Bauteuerung oder um einen Beitrag zur Erreichung der Umweltziele Landwirtschaft 2008[^39-1] zu leisten, kann das BLW die Ansätze in Anhang 5 höchstens um 10 Prozent erhöhen.
+<sup>1</sup> Die Ansätze für die Investitionskredite sowie spezifische Bestimmungen zu den Massnahmen sind in Anhang 5 festgelegt. Bei einer Bauteuerung oder um einen Beitrag zur Erreichung der Umweltziele Landwirtschaft 2008[^39-2] zu leisten, kann das BLW die Ansätze in Anhang 5 höchstens um 10 Prozent erhöhen.
 
 <sup>2</sup> Für die Berechnung des Investitionskredits werden von den anrechenbaren Kosten die öffentlichen Beiträge abgezogen.
 
@@ -704,7 +749,8 @@ Zusätzlich zu den Kosten nach Artikel 10 sind die Untersuchungs- und Beratungsk
 
 <sup>4</sup> Baukredite werden bis zur Höhe von 75 Prozent der anrechenbaren Kosten gewährt.
 
-[^39-1]: Die Umweltziele Landwirtschaft sind abrufbar unter: www. bafu.admin.ch &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
+[^39-1]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^39-2]: Die Umweltziele Landwirtschaft sind abrufbar unter: [www.bafu.admin.ch](http://www.bafu.admin.ch/) &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
 
 ## 5. Kapitel: Zusätzliche Strukturverbesserungsmassnahmen
 
@@ -721,19 +767,23 @@ Zusätzlich zu den Kosten nach Artikel 10 sind die Untersuchungs- und Beratungsk
 Finanzhilfen für einzelbetriebliche Massnahmen werden Bewirtschaftern und Bewirtschafterinnen von landwirtschaftlichen Betrieben, Betrieben des produzierenden Gartenbaus und Betrieben zur Produktion von Pilzen, Sprossen und ähnlichen Erzeugnissen gewährt für:
 
 - a. eine einmalige Starthilfe zur Förderung des Erwerbs landwirtschaftlicher Betriebe und Grundstücke;
-- b. den Erwerb landwirtschaftlicher Gewerbe auf dem freien Markt durch Pächter und Pächterinnen zur Förderung des Erwerbs landwirtschaftlicher Betriebe und Grundstücke;
+- b.[^40-1] den Erwerb von landwirtschaftlichen Nutzflächen auf dem freien Markt zur Förderung des Erwerbs landwirtschaftlicher Betriebe und Grundstücke;
 - c.
 
-  den Bau oder den Erwerb auf dem freien Markt von Bauten und Einrichtungen sowie die Pflanzung von Bäumen und Sträuchern zur Förderung der Tiergesundheit und einer besonders umwelt- und tierfreundlichen Produktion durch:
+  den Bau oder den Erwerb auf dem freien Markt von Bauten und Einrichtungen und von Maschinen und Fahrzeugen sowie die Pflanzung von Obstbäumen und Reben zur Förderung der Tiergesundheit und einer besonders umwelt- und tierfreundlichen Produktion durch:[^40-2]
 
   - 1\. die Reduktion der Ammoniakemissionen,
   - 2\. die Reduktion der Schadstoffbelastung,
   - 3\. Massnahmen des Heimat- und Landschaftsschutzes,
   - 4\. Massnahmen des Klimaschutzes.
 
-<sup>3</sup> Hauptberuflichen Betreibern und Betreiberinnen eines Fischerei- oder Fischzuchtbetriebs werden Finanzhilfen für die Massnahme nach Absatz 2 Buchstabe a gewährt.
+<sup>3</sup> Berufsfischern und Berufsfischerinnen werden Finanzhilfen für die Massnahme nach Absatz 2 Buchstabe a gewährt.[^40-3]
 
 <sup>4</sup> Sömmerungsbetrieben werden Finanzhilfen für Massnahmen nach Absatz 2 Buchstabe c gewährt.
+
+[^40-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^40-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^40-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 41
 
@@ -788,7 +838,7 @@ Zusätzlich zu den Kosten nach Artikel 10 sind folgende Kosten anrechenbar:
 
 <sup>5</sup> Das BLW kann befristete Massnahmen zur Minderung der Ammoniakemissionen und die entsprechenden Beitragssätze festlegen.
 
-[^45-1]: Die Umweltziele Landwirtschaft sind abrufbar unter: www.bafu.admin.ch &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
+[^45-1]: Die Umweltziele Landwirtschaft sind abrufbar unter: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
 
 #### Art. 46
 
@@ -800,7 +850,7 @@ Zusätzlich zu den Kosten nach Artikel 10 sind folgende Kosten anrechenbar:
 
 <sup>3</sup> Bei der Unterstützung von bestehenden Bauten mit pauschalen Ansätzen nach Anhang 6 werden die pauschalen Investitionskredite angemessen reduziert. Bei früher bereits unterstützten Bauten wird von den Höchstbeträgen mindestens der Saldo des bestehenden Investitionskredits abgezogen.
 
-[^46-1]: Die Umweltziele Landwirtschaft sind abrufbar unter: www.bafu.admin.ch &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
+[^46-1]: Die Umweltziele Landwirtschaft sind abrufbar unter: [www.bafu.admin.ch](http://www.bafu.admin.ch/) &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
 
 ## 6. Kapitel: Projekte zur regionalen Entwicklung
 
@@ -823,13 +873,15 @@ Im Rahmen von PRE werden folgende Massnahmen unterstützt:
 
 - a. Massnahmen im Tiefbau nach dem 3. Kapitel, im Hochbau nach dem 4. Kapitel und zusätzliche Strukturverbesserungsmassnahmen nach dem 5. Kapitel dieser Verordnung;
 - b. der Aufbau und die Weiterentwicklung einer landwirtschaftsnahen Tätigkeit;
-- c. Bauten und Anlagen zur Verarbeitung, Lagerung und Vermarktung regionaler landwirtschaftlicher Erzeugnisse;
+- c.[^47-1] …
 - d. gemeinschaftliche Investitionen im Interesse des PRE;
 - e. weitere Massnahmen im Interesse des PRE.
 
 <sup>3</sup> Das PRE kann während der Umsetzung um weitere Massnahmen ergänzt werden.
 
 <sup>4</sup> PRE sind gemeinschaftliche Massnahmen.
+
+[^47-1]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 48
 
@@ -840,15 +892,16 @@ Im Rahmen von PRE werden folgende Massnahmen unterstützt:
 Finanzhilfen für PRE werden gewährt, wenn folgende Voraussetzungen erfüllt sind:
 
 - a. Das Projekt trägt zur Schaffung von Wertschöpfung in der Landwirtschaft und zur Stärkung der regionalen Zusammenarbeit bei.
-- b. Das Projekt besteht aus mindestens drei Massnahmen mit je eigener Rechnungsführung und Trägerschaft sowie unterschiedlicher Ausrichtung.
+- b.[^48-1] Das Projekt besteht aus mindestens drei Massnahmen mit je eigener Rechnungsführung und Trägerschaft sowie mit mindestens zwei unterschiedlichen Ausrichtungen.
 - c. Die Massnahmen sind inhaltlich auf ein Gesamtkonzept abgestimmt und mit der Regionalentwicklung, den Pärken von nationaler Bedeutung und der Raumplanung koordiniert.
-- d. Die Mitglieder der Projektträgerschaft sind mehrheitlich Bewirtschafter und Bewirtschafterinnen, die zum Bezug von Direktzahlungen nach der DZV[^48-1] berechtigt sind; diese besitzen die Stimmenmehrheit.
+- d. Die Mitglieder der Projektträgerschaft sind mehrheitlich Bewirtschafter und Bewirtschafterinnen, die zum Bezug von Direktzahlungen nach der DZV[^48-2] berechtigt sind; diese besitzen die Stimmenmehrheit.
 
 <sup>2</sup> Die Finanzierung und die Tragbarkeit der vorgesehenen Investition müssen vor der Gewährung der Finanzhilfe ausgewiesen sein. Die Tragbarkeit muss mit geeigneten Planungsinstrumenten für einen Zeitraum von mindestens sieben Jahren nach der Gewährung der Finanzhilfen belegt werden.
 
 <sup>3</sup> Werden Massnahmen im Tiefbau nach dem 3. Kapitel, im Hochbau nach dem 4. Kapitel oder zusätzliche Strukturverbesserungsmassnahmen nach dem 5. Kapitel dieser Verordnung im Rahmen eines PRE umgesetzt, so gelten für sie die Voraussetzungen nach den entsprechenden Kapiteln.
 
-[^48-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^48-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^48-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 ### 2. Abschnitt: Höhe der Beiträge und der Investitionskredite
 
@@ -870,12 +923,7 @@ Zusätzlich zu den Kosten nach Artikel 10 sind folgende Kosten anrechenbar:
 
 **Beitragssätze**
 
-<sup>1</sup>
-
-Werden Massnahmen im Tiefbau nach dem 3. Kapitel, im Hochbau nach dem 4. Kapitel oder zusätzliche Strukturverbesserungsmassnahmen nach dem 5. Kapitel dieser Verordnung im Rahmen eines PRE umgesetzt, so werden die Beitragssätze für die einzelnen Massnahmen wie folgt erhöht:
-
-- a. bei Projekten nach Artikel 47 Absatz 1 Buchstabe a: um 20 Prozent;
-- b. bei Projekten nach Artikel 47 Absatz 1 Buchstabe b: um 10 Prozent.
+<sup>1</sup> Werden Massnahmen im Tiefbau nach dem 3. Kapitel, im Hochbau nach dem 4. Kapitel oder zusätzliche Strukturverbesserungsmassnahmen nach dem 5. Kapitel dieser Verordnung im Rahmen eines PRE umgesetzt, so werden die Beitragssätze für die einzelnen Massnahmen um 50 Prozent erhöht.[^50-1]
 
 <sup>2</sup> Für Kosten, die nach Artikel 49 Buchstaben b–g anrechenbar sind, gelten die folgenden Beitragssätze:
 
@@ -886,16 +934,12 @@ Werden Massnahmen im Tiefbau nach dem 3. Kapitel, im Hochbau nach dem 4. Kapitel
 <tr><td>c. in den Bergzonen II–IV und im Sömmerungsgebiet</td><td>40</td></tr>
 </table>
 
-<sup>3</sup>
-
-Die anrechenbaren Kosten nach Absatz 2 werden in folgenden Fällen reduziert:
-
-- a. Aufbau und Weiterentwicklung einer landwirtschaftsnahen Tätigkeit;
-- b. Verarbeitung, Lagerung und Vermarktung regionaler landwirtschaftlicher Erzeugnisse;
-- c. weitere Massnahmen im Interesse des Gesamtprojekts;
-- d. Massnahmen, die während der Umsetzungsphase ergänzt werden.
+<sup>3</sup> Die anrechenbaren Kosten nach Absatz 2 werden für Massnahmen nach Artikel 47 Absatz 2 Buchstaben b und e reduziert.[^50-2]
 
 <sup>4</sup> Die prozentuale Reduktion der anrechenbaren Kosten ist in Anhang 7 festgelegt.
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^50-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 51
 
@@ -923,7 +967,7 @@ Das BLW gibt die Stellungnahme nach Artikel 97 Absatz 2 LwG ab in Form:
 - b. eines Vorbescheides mit den vorgesehenen Auflagen und Bedingungen sowie den Finanzhilfen, wenn ein Vorprojekt mit Kostenschätzung vorliegt;
 - c. eines verbindlichen Mitberichts, wenn ein Umweltverträglichkeitsprüfungsverfahren nach Artikel 22 der Verordnung vom 19. Oktober 1988[^52-1] über die Umweltverträglichkeitsprüfung durchgeführt wird.
 
-<sup>2</sup> Der Kanton reicht den Antrag auf Stellungnahme mit den nötigen Unterlagen und sachdienlichen Angaben über das Informationssystem für Strukturverbesserung beim BLW ein.
+<sup>2</sup> Der Kanton reicht den Antrag auf Stellungnahme mit den nötigen Unterlagen und sachdienlichen Angaben über das Informationssystem nach Artikel 17 der Verordnung vom 23. Oktober 2013[^52-2] über Informationssysteme im Bereich der Landwirtschaft (ISLV) beim BLW ein.[^52-3]
 
 <sup>3</sup>
 
@@ -933,6 +977,8 @@ Keine Stellungnahme des BLW ist erforderlich, wenn:
 - b. das Vorhaben keiner gesetzlichen Koordinations- oder Mitwirkungspflicht auf Bundesebene unterliegt.
 
 [^52-1]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^52-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^52-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 53
 
@@ -946,7 +992,7 @@ Keine Stellungnahme des BLW ist erforderlich, wenn:
 
 **Antrag des Kantons an das BLW**
 
-<sup>1</sup> Der Antrag des Kantons an das BLW auf Beiträge sowie auf Investitionskredite über 500 000 Franken muss über das Informationssystem für Strukturverbesserungen eingereicht werden.
+<sup>1</sup> Der Antrag des Kantons an das BLW auf Beiträge sowie auf Investitionskredite über 500 000 Franken muss über das Informationssystem nach Artikel 17 ISLV[^54-1] [^54-2] eingereicht werden.
 
 <sup>2</sup>
 
@@ -962,7 +1008,11 @@ Er muss alle sachdienlichen Angaben und Unterlagen enthalten, mindestens jedoch 
 
 <sup>4</sup> Werden Beiträge beantragt und ist eine Baubewilligung nach der Raumplanungsgesetzgebung erforderlich, so müssen die Anträge den Nachweis der Publikation im Publikationsorgan des Kantons nach Artikel 97 LwG enthalten.
 
-<sup>5</sup> Der Saldo früherer Investitionskredite und Betriebshilfedarlehen wird bei Absatz 1 berücksichtigt.
+<sup>5</sup> …[^54-3]
+
+[^54-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^54-2]: Ausdruck gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^54-3]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 55
 
@@ -1008,15 +1058,19 @@ Die Vereinbarung regelt insbesondere:
 
 **Baubeginn und Erwerbe**
 
-<sup>1</sup> Mit dem Bau darf erst begonnen und der Erwerb darf erst getätigt werden, wenn die Finanzhilfe nach Artikel 55 Absätze 2 und 3 rechtskräftig verfügt oder die Vereinbarung nach Artikel 55 abgeschlossen ist. Vorhaben, die in Etappen ausgeführt werden, dürfen erst begonnen werden, wenn die Beitragsverfügung der einzelnen Etappen rechtskräftig ist.
+<sup>1</sup> Mit den planerischen Massnahmen und dem Bau darf erst begonnen und Erwerbe dürfen erst getätigt werden, wenn die Finanzhilfe nach Artikel 55 Absätze 2 und 3 rechtskräftig verfügt oder die Vereinbarung nach Artikel 56 abgeschlossen ist. Vorhaben, die in Etappen ausgeführt werden, dürfen erst begonnen werden, wenn die Beitragsverfügung der einzelnen Etappen rechtskräftig ist.[^57-1]
 
 <sup>2</sup> Die zuständige kantonale Behörde kann einen vorzeitigen Baubeginn oder einen vorzeitigen Erwerb bewilligen, wenn das Abwarten der Rechtskraft der Verfügung oder des Abschlusses der Vereinbarung mit schwerwiegenden Nachteilen verbunden wäre. Der Entscheid über die Gewährung des Beitrags oder die Genehmigung des Investitionskredits bleibt davon unberührt.
 
-<sup>3</sup> Für Massnahmen, die mit Beiträgen unterstützt werden, darf die zuständige kantonale Behörde nur mit Zustimmung des BLW einen vorzeitigen Baubeginn oder einen vorzeitigen Erwerb bewilligen.
+<sup>3</sup> Für Massnahmen, die mit Beiträgen unterstützt werden, darf die zuständige kantonale Behörde nur mit Zustimmung des BLW einen vorzeitigen Baubeginn oder einen vorzeitigen Erwerb bewilligen. Die Bewilligung muss schriftlich erfolgen. Den vorzeitigen Erwerb von Gattungsware, Maschinen, Fahrzeugen und landwirtschaftlichen Grundstücken bis 500 000 Franken darf die zuständige kantonale Behörde ohne Zustimmung des BLW bewilligen.[^57-2]
 
-<sup>4</sup> Kosten für nichtbauliche Massnahmen, die bereits während der Erarbeitung der Unterlagen anfallen, sowie für planerische Leistungen können nachträglich angerechnet werden, sofern das Projekt umgesetzt wird.
+<sup>4</sup> Kosten für nichtbauliche Massnahmen, die bereits während der Erarbeitung der Unterlagen für die Projekteinreichung nötig sind, können nachträglich an ein Projekt angerechnet werden. Für weitergehende Massnahmen muss ein vorzeitiger Beginn der Arbeiten beantragt werden.[^57-3]
 
 <sup>5</sup> Bei vorzeitigem Baubeginn oder bei vorzeitigem Erwerb ohne vorgängige schriftliche Bewilligung wird keine Finanzhilfe gewährt.
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^57-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^57-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 58
 
@@ -1040,11 +1094,13 @@ Wesentliche Änderungen des Vorhabens bedürfen der vorgängigen Genehmigung dur
 
 **Auszahlung der Beiträge**
 
-<sup>1</sup> Der Kanton kann für jedes Vorhaben entsprechend dem Baufortschritt Teilzahlungen über das Informationssystem für Strukturverbesserung beim BLW beantragen.
+<sup>1</sup> Der Kanton kann für jedes Vorhaben entsprechend dem Baufortschritt Teilzahlungen über das Informationssystem nach Artikel 17 ISLV[^59-1] beim BLW beantragen.
 
 <sup>2</sup> Mit Teilzahlungen werden höchstens 80 Prozent des genehmigten Gesamtbeitrags ausbezahlt.
 
 <sup>3</sup> Die Schlusszahlung erfolgt projektbezogen auf Antrag des Kantons.
+
+[^59-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 ### 3. Abschnitt: Sicherung der Massnahmen
 
@@ -1077,10 +1133,11 @@ Auf eine Grundbuchanmerkung kann verzichtet werden, wenn:
 - c. Tiefbaumassnahmen, die nicht flächengebunden sind, namentlich Wasser- und Elektrizitätsversorgungen umgesetzt werden;
 - d. Massnahmen zur Förderung der Tiergesundheit und einer besonders umwelt- und tierfreundlichen Produktion umgesetzt werden;
 - e. periodische Wiederinstandstellungen umgesetzt werden;
+- e<sup>bis</sup>.[^62-1] Wiederherstellungen nach Elementarschäden umgesetzt werden;
 - f. gemeinschaftliche Initiativen zur Senkung der Produktionskosten umgesetzt werden;
 - g. Einrichtungen, Maschinen oder Fahrzeuge erworben werden.
 
-<sup>3</sup> An die Stelle der Grundbuchanmerkung tritt in den Fällen nach Absatz 2 Buchstaben a–d eine Erklärung des Werkeigentümers oder der Werkeigentümerin, worin er oder sie sich zur Einhaltung des Zweckentfremdungsverbots, der Bewirtschaftungs- und Unterhaltspflicht, der Rückerstattungspflicht und allfälliger weiterer Bedingungen und Auflagen verpflichtet.
+<sup>3</sup> An die Stelle der Grundbuchanmerkung tritt in den Fällen nach Absatz 2 Buchstaben a–d und e<sup>bis</sup> eine Erklärung des Eigentümers oder der Eigentümerin, worin er oder sie sich zur Einhaltung des Zweckentfremdungsverbots, der Bewirtschaftungs- und Unterhaltspflicht, der Rückerstattungspflicht und allfälliger weiterer Bedingungen und Auflagen verpflichtet.[^62-2]
 
 <sup>4</sup> Der Nachweis der Grundbuchanmerkung oder die Erklärung nach Absatz 3 sind dem BLW spätestens mit dem Gesuch für die Schlusszahlung einzureichen, bei Vorhaben, die in Etappen ausgeführt werden, mit dem ersten Schlusszahlungsgesuch einer Etappe.
 
@@ -1089,6 +1146,9 @@ Auf eine Grundbuchanmerkung kann verzichtet werden, wenn:
 <sup>6</sup> Das Grundbuchamt löscht die Anmerkung des Zweckentfremdungsverbots und der Rückerstattungspflicht nach deren Ablauf von Amtes wegen.
 
 <sup>7</sup> Auf Antrag der belasteten Person und mit Zustimmung des Kantons kann die Grundbuchanmerkung gelöscht werden auf Flächen, für die eine Zweckentfremdung oder eine Zerstückelung bewilligt worden ist oder für die die Beiträge zurückerstattet worden sind.
+
+[^62-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^62-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 4. Abschnitt: Rückforderung von Beiträgen und Widerruf von Investitionskrediten
 
@@ -1114,9 +1174,11 @@ Im Falle von Zweckentfremdung oder Zerstückelung fordert der Kanton die Beiträ
 
 Die Kantone rechnen mit dem Bund jährlich bis zum 30. April über die im Vorjahr zurückgeforderten Beiträge ab. Zur Abrechnung gehören:
 
-- a. die Nummer des Unterstützungsfalls gemäss dem Informationssystem für Strukturverbesserung des BLW;
+- a. die Nummer des Unterstützungsfalls gemäss dem Informationssystem nach Artikel 17 ISLV[^65-1];
 - b. der Betrag des zurückgeforderten Beitrags;
 - c. eine Kopie der Rückforderungsverfügungen.
+
+[^65-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 #### Art. 66
 
@@ -1155,8 +1217,12 @@ Massgebend für die Höhe der Rückerstattung sind:
 <table>
 <tr><td>a. für Tiefbaumassnahmen</td><td>40 Jahre</td></tr>
 <tr><td>b. für Gebäude und Seilbahnen</td><td>20 Jahre</td></tr>
-<tr><td>c. für Einrichtungen, Maschinen und Fahrzeuge sowie für Massnahmen zur Förderung der Tiergesundheit und einer besonders umwelt- und tierfreundlichen Produktion</td><td>10 Jahre</td></tr>
+<tr><td>c.[^67-1] für Einrichtungen sowie für Massnahmen zur Förderung der Tiergesundheit und einer besonders umwelt- und tierfreundlichen Produktion</td><td>10 Jahre</td></tr>
+<tr><td>d.[^67-2] für Maschinen und Fahrzeuge</td><td>5 Jahre</td></tr>
 </table>
+
+[^67-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^67-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 68
 
@@ -1166,7 +1232,7 @@ Ausnahmen vom Zerstückelungsverbot können aus folgenden Gründen bewilligt wer
 
 - a. rechtskräftige Einzonungen in Grundwasserschutzzonen S1, Hochwasserschutzzonen und Naturschutzzonen sowie die Abtrennung des Gewässerraums;
 - b. rechtskräftige Einzonungen in Bauzonen oder andere Zonen, die eine landwirtschaftliche Nutzung nicht mehr zulassen;
-- c. rechtskräftige Ausnahmebewilligungen gestützt auf die Artikel 24, 24*c* und 24*d* RPG[^68-1], zusätzlich mit dem notwendigen Gebäudeumschwung;
+- c.[^68-1] rechtskräftige Ausnahmebewilligungen gestützt auf die Artikel 24, 24*a*, 24*c* und 24*d* RPG[^68-2], zusätzlich mit dem notwendigen Gebäudeumschwung;
 - d. die Abtrennung entlang der Waldgrenze;
 - e. der Tausch von Grundstücksteilen eines landwirtschaftlichen Betriebs gegen Land, Gebäude oder Anlagen, die für die Bewirtschaftung des Betriebs günstiger liegen oder geeigneter sind;
 - f. die Übertragung eines nicht mehr benötigten landwirtschaftlichen Gebäudes mit notwendigem Umschwung zwecks zonenkonformer Verwendung an den Eigentümer oder die Eigentümerin eines benachbarten landwirtschaftlichen Gewerbes oder Grundstücks, wenn dadurch die Erstellung einer Baute vermieden werden kann;
@@ -1176,7 +1242,8 @@ Ausnahmen vom Zerstückelungsverbot können aus folgenden Gründen bewilligt wer
 - j. eine Vereinigung aller Teile der zerstückelten Parzelle mit Nachbarparzellen oder eine Verbesserung der Arrondierung durch die Parzellierung;
 - k. der Bedarf für Bauten und Anlagen im öffentlichen Interesse des Bundes, des Kantons oder der Gemeinde.
 
-[^68-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^68-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^68-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
 
 #### Art. 69
 
@@ -1221,11 +1288,13 @@ Der Kanton fordert den Beitrag zurück oder widerruft den Investitionskredit aus
 
 <sup>3</sup> Bei einer Rückforderung von Beiträgen und beim Widerruf von Investitionskrediten nach Absatz 1 Buchstabe e entspricht der Rückforderungs- oder Widerrufsbetrag dem Veräusserungsgewinn. Dieser bemisst sich nach der Differenz zwischen dem Veräusserungs- und dem Anrechnungswert. Abzüge für Realersatz, Steuern und öffentlich-rechtliche Abgaben sind zulässig. Die Anrechnungswerte sind in Anhang 8 festgelegt. Das BLW kann die Anrechnungswerte in Anhang 8 ändern.
 
-<sup>4</sup> Die Rückforderung eines Beitrags nach Absatz 1 Buchstaben a–d kann gemäss dem Verhältnis der tatsächlichen zur bestimmungsgemässen Verwendungsdauer nach Artikel 67 Absatz 5 berechnet werden.
+<sup>4</sup> Die Rückforderung eines Beitrags nach Absatz 1 Buchstaben a–e wird gemäss dem Verhältnis der tatsächlichen zur bestimmungsgemässen Verwendungsdauer nach Artikel 67 Absatz 5 berechnet.[^70-1]
 
 <sup>5</sup> Die Rückforderung eines Beitrags nach Absatz 1 Buchstaben f–l kann nicht reduziert werden.
 
 <sup>6</sup> Bei Investitionskrediten kann in Härtefällen anstelle des Widerrufs eine Verzinsung von 3 Prozent des Kredits verlangt werden.
+
+[^70-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ## 8. Kapitel: Verwaltung der Investitionskredite
 
@@ -1233,27 +1302,32 @@ Der Kanton fordert den Beitrag zurück oder widerruft den Investitionskredit aus
 
 **Verwaltung des Fonds-de-Roulement**
 
-<sup>1</sup> Der Kanton reicht den Antrag auf Bundesmittel nach Massgabe des Bedarfs über das Informationssystem für Strukturverbesserung beim BLW ein.
+<sup>1</sup> Der Kanton reicht den Antrag auf Bundesmittel nach Massgabe des Bedarfs über das Informationssystem nach Artikel 17 ISLV[^71-1] beim BLW ein.
 
 <sup>2</sup> Das BLW prüft den Antrag jedes Kantons und überweist die rückzahlbaren Bundesmittel im Rahmen der bewilligten Kredite an den Kanton.
 
 <sup>3</sup>
 
-Der Kanton meldet über das Informationssystem für Strukturverbesserung beim BLW bis zum 10. Januar folgende Bestände des vorangehenden Rechnungsjahres per 31. Dezember:
+Der Kanton meldet dem BLW über das Informationssystem nach Artikel 17 ISLV bis zum 10. Januar folgende Bestände des vorangehenden Rechnungsjahres per 31. Dezember mit allen sachdienlichen Unterlagen:[^71-2]
 
 - a. den Gesamtbestand der Bundesmittel;
 - b. die aufgelaufenen Zinsen;
 - c. die liquiden Mittel;
 - d. die Summe der gewährten, jedoch noch nicht ausbezahlten Investitionskredite.
 
-<sup>4</sup> Er verwaltet die vom Bund zur Verfügung gestellten Bundesmittel mit unabhängiger Rechnung und legt über das Informationssystem für Strukturverbesserung beim BLW den Jahresabschluss jeweils bis Ende April vor.
+<sup>4</sup> Er verwaltet die vom Bund zur Verfügung gestellten Bundesmittel mit unabhängiger Rechnung und legt dem BLW über das Informationssystem nach Artikel 17 ISLV den Jahresabschluss jeweils bis Ende April vor.[^71-3]
 
 <sup>5</sup>
 
-Er meldet über das Informationssystem für Strukturverbesserung beim BLW jeweils bis zum 15. Juli folgende Bestände per 30. Juni:
+Er meldet dem BLW über das Informationssystem nach Artikel 17 ISLV jeweils bis zum 15. Juli folgende Bestände per 30. Juni:[^71-4]
 
 - a. die liquiden Mittel;
 - b. die Summe der gewährten, jedoch noch nicht ausbezahlten Investitionskredite.
+
+[^71-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^71-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^71-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^71-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 72
 
@@ -1303,6 +1377,18 @@ Die Strukturverbesserungsverordnung vom 7. Dezember 1998[^75-1] wird aufgehoben.
 **Änderung anderer Erlasse**
 
 Die Änderung anderer Erlasse wird in Anhang 9 geregelt.
+
+#### Art. 76a
+
+**Übergangsbestimmungen zur Änderung vom 6. November 2024**[^76a-1]
+
+<sup>1</sup> Für Projekte, für die ein Vorbescheid nach Artikel 52 Absatz 1 Buchstabe b vor Inkrafttreten der Änderungen vom 6. November 2024 abgegeben wurde, gelten während der Gültigkeit des Vorbescheids Anhang 5 Ziffer 5 und Anhang 7 nach bisherigem Recht.
+
+<sup>2</sup> Anhang 6 Ziffer 3.2.1 ist nicht anwendbar auf Feldroboter, die vor dem Inkrafttreten der Änderung vom 6. November 2024 angeschafft wurden.
+
+<sup>3</sup> Anhang 6 Ziffer 3.4.1 ist nicht anwendbar auf Traktoren, die vor dem Inkrafttreten der Änderung vom 6. November 2024 angeschafft wurden.
+
+[^76a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 77
 
@@ -1390,11 +1476,13 @@ Die Summe der für die Kriterien nach den Buchstaben a–e erreichten Punkte erg
 <tr><td>hoher Mehraufwand</td><td>5–7</td><td>50 000</td><td>60 000</td></tr>
 </table>
 
-Anhang 4
+Anhang 4[^t-1]
 
 (Art. 26 Abs. 6)
 
 ## Zusatzbeiträge für Tiefbaumassnahmen
+
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 1. Abstufung der Zusatzbeiträge für Zusatzleistungen
 
@@ -1404,8 +1492,9 @@ Anhang 4
 <tr><td>b. Bodenschutz oder Qualitätssicherung von Fruchtfolgeflächen</td><td>betroffene Fläche: 10–33 % des Perimeters</td><td>betroffene Fläche: 34–66 % des Perimeters</td><td>betroffene Fläche: 67–100 % des Perimeters</td><td>Anpassung Bewirtschaftungsmassnahmen, Hecken, Grünstreifen, Umsetzung Generelles Entwässerungsprojekt (GEP) usw. oder: Massnahmen zur Qualitätssicherung von Fruchtfolgeflächen (FFF) (z. B. Erneuerung von Drainagen in FFF, Wiederherstellung von FFF, Verbesserung der Bodenfruchtbarkeit)</td></tr>
 <tr><td>c. Besondere ökologische Massnahmen</td><td>lokale fixe\* Öko-Elemente</td><td>ausgedehnte fixe\* Öko-Elemente</td><td>ausgedehnte fixe\* Öko-Elemente mit Vernetzung</td><td>Anlage / Sicherung von Biotopen, Habitaten, Hochstammobstbäumen, Feldbäumen oder Trockenmauern, Realisierung abgestufter Waldränder ausserhalb der landwirtschaftlichen Nutzfläche usw.</td></tr>
 <tr><td>d. Kulturlandschaften oder Bauten mit kulturhistorischer Bedeutung</td><td>Erhaltung und isolierte Aufwertung von charakteristischen Landschaftselementen</td><td>kleinere Wiederherstellung kultureller Bauten oder lokale Aufwertung von charakteristischen Landschaftselementen</td><td>grössere Wiederherstellung kultureller Bauten oder ausgedehnte Aufwertung von charakteristischen Landschaftselementen</td><td>Landschaftsprägende und erhaltungswürdige Bauten, historische Wege, Terrassenlandschaften, Heckenlandschaften, Kastanienhaine, Wald-Weiden, Gebiete des Bundesinventars der Landschaften und Naturdenkmäler usw.</td></tr>
-<tr><td>e. Produktion von erneuerbarer Energie</td><td>Deckung &gt; 50 % des Strom- oder Wärmebedarfs der Landwirtschaft im Perimeter</td><td>Deckung &gt; 75 % des Strom- oder Wärmebedarfs der Landwirtschaft im Perimeter</td><td>Deckung &gt; 100 % des Strom- oder Wärmebedarfs der Landwirtschaft im Perimeter</td><td>Strom aus Anlagen wie Sonnenkollektoren, Wasserkraftwerken, Windenergie, Biogasanlagen, Wärme aus Holzheizanlagen usw. Unterstützung der Anlagekosten gemäss den Art. 106 Abs. 1 Bst. c, Abs. 2 Bst. d und 107 Abs. 1 Bst. b LwG</td></tr>
-<tr><td>f. Einsatz ressourcenschonender Technologien</td><td>betroffene Fläche: 10–33 % des Perimeters</td><td>betroffene Fläche: 34–66 % des Perimeters</td><td>betroffene Fläche: 67–100 % des Perimeters</td><td>Ressourcenschonende Technologien mit energie- oder wassersparender Technik, z. B. Tröpfchenbewässerung, Solarpumpe, bedarfsgesteuerte Anlage</td></tr>
+<tr><td>e. Produktion von erneuerbarer Energie</td><td>Deckung &gt; 50 % des Strom- oder Wärmebedarfs der Landwirtschaft im Perimeter</td><td>Deckung &gt; 75 % des Strom- oder Wärmebedarfs der Landwirtschaft im Perimeter</td><td>Deckung &gt; 100 % des Strom- oder Wärmebedarfs der Landwirtschaft im Perimeter</td><td>Strom aus Anlagen wie Sonnenkollektoren, Wasserkraftwerken, Windenergie, Biogasanlagen, Wärme aus Holzheizanlagen usw.</td></tr>
+<tr><td>oder</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Einsatz ressourcenschonender Technologien</td><td>betroffene Fläche: 10–33 % des Perimeters</td><td>betroffene Fläche: 34–66 % des Perimeters</td><td>betroffene Fläche: 67–100 % des Perimeters</td><td>Ressourcenschonende Technologien mit energie- oder wassersparender Technik, z. B. Tröpfchenbewässerung, Solarpumpe, bedarfsgesteuerte Anlage</td></tr>
 </table>
 
 \*fix = langfristig gesichert, z. B. im Grundbuch eingetragen oder im Nutzungsplan ausgeschieden
@@ -1416,15 +1505,15 @@ lokal: Massnahmen in einem Teilbereich des Perimeters
 
 ausgedehnt: Massnahmen über den gesamten Perimeter verteilt
 
-### 2. Abstufung der Zusatzbeiträge für Wiederherstellungen
+### 2. Abstufung der Zusatzbeiträge für Wiederherstellungen und Sicherungen
 
 Kriterium für die Erhöhung ist die Betroffenheit (Ausmass/Verteilung) in Bezug zum Gemeindegebiet.
 
 <table>
 <tr><th>Ausmass</th><th>Zusatzbeitrag</th></tr>
-<tr><td>Isolierte Wiederherstellungen</td><td>+ 2 %</td></tr>
-<tr><td>Lokale Wiederherstellungen</td><td>+ 4 %</td></tr>
-<tr><td>Ausgedehnte Wiederherstellungen</td><td>+ 6 %</td></tr>
+<tr><td>Isolierte Wiederherstellungen und Sicherungen</td><td>+ 2 %</td></tr>
+<tr><td>Lokale Wiederherstellungen und Sicherungen</td><td>+ 4 %</td></tr>
+<tr><td>Ausgedehnte Wiederherstellungen und Sicherungen</td><td>+ 6 %</td></tr>
 </table>
 
 ### 3. Abstufung der Zusatzbeiträge für besondere Erschwernisse
@@ -1449,33 +1538,36 @@ Kriterien:
 - h. Zusatzkosten für Naturschutzmassnahmen (Schutz von Biotopen);
 - i. Zusatzkosten für spezielle Sicherheitsmassnahmen (Schutznetze usw.).
 
-Anhang 5
+Anhang 5[^t-2]
 
 (Art. 37 Abs. 1 und 2 sowie 39 Abs. 1 und 3)
 
 ## Ansätze und Bestimmungen der Finanzhilfen für Hochbaumassnahmen
+
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 1 Finanzhilfen für Ökonomiegebäude für raufutterverzehrende Tiere
 
 ### 1.1 Ansätze
 
 <table>
-<tr><th>Massnahme</th><th>Angabe in</th><th colspan="2">Beitrag</th><th></th><th>Investitionskredit</th></tr>
-<tr><th></th><th></th><th>Hügelzone und Bergzone I</th><th colspan="2">Bergzonen II–IV</th><th>Alle Zonen</th></tr>
-<tr><td>Höchstbeiträge pro Betrieb</td><td>Fr.</td><td>155 000</td><td colspan="2">215 000</td><td>–</td></tr>
-<tr><td>Stall pro GVE</td><td>Fr.</td><td>1 700</td><td colspan="2">2 700</td><td>6 000</td></tr>
-<tr><td>Futter- und Strohlager pro m<sup>3</sup></td><td>Fr.</td><td>15</td><td colspan="2">20</td><td>90</td></tr>
-<tr><td>Hofdüngeranlage pro m<sup>3</sup></td><td>Fr.</td><td>22,50</td><td colspan="2">30</td><td>110</td></tr>
-<tr><td>Remise pro m<sup>2</sup></td><td>Fr.</td><td>25</td><td colspan="2">35</td><td>190</td></tr>
-<tr><td>Mehrkosten aufgrund besonderer Erschwernisse</td><td>%</td><td>40</td><td colspan="2">50</td><td>–</td></tr>
+<tr><th>Massnahme</th><th>Angabe in</th><th colspan="2">Beitrag</th><th>Investitionskredit</th></tr>
+<tr><th></th><th></th><th>Hügelzone und Bergzone I</th><th>Bergzonen II–IV</th><th>Alle Zonen</th></tr>
+<tr><td>Höchstbeiträge pro Betrieb</td><td>Fr.</td><td>183 000</td><td>254 000</td><td>–</td></tr>
+<tr><td>Stall pro GVE</td><td>Fr.</td><td>2 000</td><td>3 190</td><td>7 080</td></tr>
+<tr><td>Futter- und Strohlager pro m<sup>3</sup></td><td>Fr.</td><td>18</td><td>24</td><td>106</td></tr>
+<tr><td>Hofdüngeranlage pro m<sup>3</sup></td><td>Fr.</td><td>26</td><td>35</td><td>130</td></tr>
+<tr><td>Remise pro m<sup>2</sup></td><td>Fr.</td><td>29</td><td>41</td><td>224</td></tr>
+<tr><td>Mehrkosten aufgrund besonderer Erschwernisse</td><td>%</td><td>40</td><td>50</td><td>–</td></tr>
 </table>
 
 ### 1.2 Spezifische Bestimmungen
 
 - 1\.2.1 Befindet sich die anrechenbare landwirtschaftliche Nutzfläche in verschiedenen Zonen, so gilt für die Berechnung der Finanzhilfen der Ansatz der Zone, in der mehr als zwei Drittel der landwirtschaftlichen Nutzfläche liegen oder, wenn die landwirtschaftliche Nutzfläche nicht zu mehr als zwei Dritteln in einer Zone liegt, der Mittelwert der Ansätze der mehrheitlich betroffenen Zonen.
-- 1\.2.2 Die Mehrkosten aufgrund besonderer Erschwernisse werden bei den Höchstbeiträgen pro Betrieb nicht berücksichtigt.
+- 1\.2.2 Die Mehrkosten aufgrund besonderer Erschwernisse werden bei den Höchstbeiträgen pro Betrieb nicht berücksichtigt. Mehrkosten für Erschwernisse, die erst während der Bauausführung entdeckt werden, können auch nach Baubeginn beantragt werden.
 - 1\.2.3 Remisen und Futter- und Strohlager werden auch bei Betrieben ohne raufutterverzehrende Tiere unterstützt.
 - 1\.2.4 Ställe für Kaninchen werden mit den gleichen Ansätzen wie Ökonomiegebäude für raufutterverzehrende Tiere unterstützt.
+- 1\.2.5 Bei Betriebsgemeinschaften gelten die Höchstbeträge je beteiligten Betrieb.
 
 ### 2 Finanzhilfen für Alpgebäude
 
@@ -1497,6 +1589,8 @@ Anhang 5
 
 - 2\.2.1 Für die Unterstützung von Räumen und Einrichtungen für die Käsefabrikation und -lagerung müssen pro GVE gemolkene Tiere mindestens 800 kg Milch verarbeitet werden.
 - 2\.2.2 Pro GVE gemolkene Tiere wird höchstens ein Mastschweineplatz unterstützt.
+- 2\.2.3 Werden keine Beiträge für Alpgebäude gewährt, so wird der zweifache Ansatz für Investitionskredite ausgerichtet.
+- 2\.2.4 Mehrkosten für Erschwernisse, die erst während der Bauausführung entdeckt wurden, können auch nach Baubeginn beantragt werden.
 
 ### 3 Ansätze für Investitionskredite für besonders tierfreundliche Ökonomiegebäude für Schweine und Geflügel
 
@@ -1508,39 +1602,37 @@ Anhang 5
 <tr><td>Aufzucht- und Mastgeflügel sowie Truten pro GVE</td><td>5700</td></tr>
 </table>
 
-### 4. Investitionskredite für Wohnhäuser
+### 4 Investitionskredite für Wohnhäuser
 
-### 4.1 Ansätze
+### 4.1 Ansätze und spezifische Bestimmungen
 
-<table>
-<tr><th>Massnahme</th><th>Investitionskredit in Fr.</th></tr>
-<tr><td>Neue Betriebsleiterwohnung mit Altenteil</td><td>200 000</td></tr>
-<tr><td>Neue Betriebsleiterwohnung</td><td>160 000</td></tr>
-<tr><td>Neuer Altenteil</td><td>120 000</td></tr>
-</table>
+- 4\.1.1 Der Investitionskredit für die Betriebsleiterwohnung beträgt höchstens 50 Prozent der anrechenbaren Kosten, jedoch maximal 200 000 Franken.
+- 4\.1.2 Pro Betrieb ist die Unterstützung auf eine Betriebsleiterwohnung beschränkt. Bei Betriebsgemeinschaften ist die Unterstützung auf eine Betriebsleiterwohnung je beteiligten Betrieb beschränkt.
 
-### 4.2 Spezifische Bestimmungen
+### 5 Finanzhilfen für Verarbeitung, Lagerung oder Vermarktung
 
-- 4\.2.1 Der Investitionskredit beträgt höchstens 50 Prozent der anrechenbaren Kosten, höchstens jedoch die Pauschale für den Neubau.
-- 4\.2.2 Pro Betrieb ist die Unterstützung auf zwei Wohnungen (Betriebsleiterwohnung und Altenteil) beschränkt.
-
-### 5 Ansätze für Finanzhilfen für Verarbeitung, Lagerung oder Vermarktung
+### 5.1 Ansätze
 
 <table>
-<tr><th>Massnahme</th><th>Angabe in</th><th colspan="2">Beitrag</th><th></th><th>Investitionskredit</th></tr>
-<tr><th></th><th></th><th>Bergzone I</th><th colspan="2">Bergzonen II–IV und Sömmerung</th><th>Alle Zonen</th></tr>
-<tr><td>Verarbeitung, Lagerung oder Vermarktung von eigenen und regionalen landwirtschaftlichen Produkten (einzelbetriebliche Massnahme)</td><td>%</td><td>28</td><td colspan="2">31</td><td>50</td></tr>
-<tr><td>Verarbeitung, Lagerung oder Vermarktung von regionalen landwirtschaftlichen Produkten (gemeinschaftliche Massnahme)</td><td>%</td><td>30</td><td colspan="2">33</td><td>50</td></tr>
+<tr><th>Massnahme</th><th>Angabe in</th><th>Beitrag</th><th></th><th></th><th>Investitionskredit</th></tr>
+<tr><th></th><th></th><th>Talzone und Hügelzone</th><th>Bergzone I</th><th>Bergzonen II–IV und Sömmerung</th><th>Alle Zonen</th></tr>
+<tr><td>Einzelbetrieblich und gemeinschaftliche Massnahmen:</td><td>%</td><td>10</td><td>23</td><td>26</td><td>50</td></tr>
 </table>
+
+### 5.2 Spezifische Bestimmungen
+
+- 5\.2.1 Es werden nur kostengünstige Bauten und Anlagen unterstützt, die Produkte betreffen, die der Ernährung oder anderen menschlichen Zwecken dienen.
+- 5\.2.2 Im Rahmen eines PRE kann von den spezifischen Bestimmung nach Ziffer 5.2.1 abgewichen werden, wenn es im Interesse des Gesamtprojekts liegt.
 
 ### 6 Ansätze für Investitionskredite für weitere Hochbaumassnahmen
 
 Der Investitionskredit beträgt für folgende Massnahmen höchstens 50 Prozent der anrechenbaren Kosten für Investitionen:
 
-- a. in die Produktion von Spezialkulturen, Betriebe zur Produktion von Pilzen, Sprossen und ähnlichen Erzeugnissen;
-- b. in Fischerei- oder Fischzuchtbetriebe;
+- a. in die Produktion von Spezialkulturen, Betriebe des produzierenden Gartenbaus, Betriebe zur Produktion von Pilzen, Sprossen und ähnlichen Erzeugnissen;
+- b. in die Produktion, Verarbeitung, Lagerung und Vermarktung von Produkten aus Berufsfischerei- und Aquakulturbetrieben;
 - c. in die Tätigkeit im landwirtschaftsnahen Bereich;
-- d. in die gemeinschaftliche Produktion von erneuerbarer Energie aus Biomasse.
+- d. in die Biomassenverwertung;
+- e. in die Produktion von Erzeugnissen der Aquakultur, Algen, Insekten und weiteren lebenden Organismen.
 
 ### 7 Ansätze für Finanzhilfen für Grundlagenbeschaffungen
 
@@ -1550,25 +1642,25 @@ Der Investitionskredit beträgt für folgende Massnahmen höchstens 50 Prozent d
 <tr><td>Beschaffung von Grundlagen für gemeinschaftliche Massnahmen</td><td>%</td><td>27</td><td>30</td><td colspan="2">33</td><td>50</td></tr>
 </table>
 
-Anhang 6[^t-1]
+Anhang 6[^t-3]
 
 (Art. 45 Abs. 1–3 und 46 Abs. 1 und 3)
 
 ## Finanzhilfen für zusätzliche Strukturverbesserungsmassnahmen
 
-[^t-1]: Die Berichtigungen vom 29. Dez. 2022 und 30. Jan. 2023 betreffen nur den französischen Text ([AS 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870); [2023 36](https://fedlex.data.admin.ch/eli/oc/2023/36)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 ### 1 Investitionskredit für die Starthilfe zur Förderung des Erwerbs landwirtschaftlicher Betriebe und Grundstücke (Art. 40 Abs. 2 Bst. a)
 
 - 1\.1 Die Höhe des Investitionskredits für die Starthilfe wird aufgrund der Betriebsgrösse abgestuft. Die Pauschale beträgt für Betriebe mit einer SAK 125 000 Franken und steigt anschliessend in Stufen von 25 000 Franken je zusätzliche halbe SAK.
 - 1\.2 In Gebieten nach Artikel 6 Absatz 2 Buchstaben b und c erhalten auch Betriebe mit weniger als einer SAK einen Investitionskredit für die Starthilfe von 100 000 Franken.
-- 1\.3 Hauptberufliche Betreiber und Betreiberinnen eines Fischerei- oder Fischzuchtbetriebs erhalten einen Investitionskredit für die Starthilfe von 110 000 Franken.
+- 1\.3 Berufsfischer und Berufsfischerinnen sowie Betreiber und Betreiberinnen eines Aquakulturbetriebs erhalten einen Investitionskredit für die Starthilfe von 110 000 Franken.
 
 ### 2 Ansätze für Investitionskredite für Massnahmen zur Förderung des Erwerbs landwirtschaftlicher Betriebe und Grundstücke (Art. 40 Abs. 2 Bst. b)
 
 <table>
-<tr><td>Massnahme</td><td>Investitionskredit in %</td></tr>
-<tr><td>Erwerb landwirtschaftlicher Gewerbe auf dem freien Markt durch Pächter und Pächterinnen</td><td>50</td></tr>
+<tr><th>Massnahme</th><th>Investitionskredit in %</th></tr>
+<tr><td>Erwerb von landwirtschaftlichen Nutzflächen auf dem freien Markt</td><td>50</td></tr>
 </table>
 
 ### 3 Finanzhilfen für Massnahmen zur Förderung der Tiergesundheit und einer besonders umwelt- und tierfreundlichen Produktion (Art. 40 Abs. 2 Bst. c)
@@ -1609,19 +1701,23 @@ Anlagen zur Reinigung der Abluft und zur Ansäuerung der Gülle werden nur unter
 <tr><td>Pflanzung von robusten Stein- und Kernobstsorten pro ha</td><td>Fr.</td><td>7 000</td><td>7 000</td><td>7 000</td><td>2030</td></tr>
 <tr><td>Pflanzung von robusten Rebsorten pro ha</td><td>Fr.</td><td>10 000</td><td>10 000</td><td>10 000</td><td>2030</td></tr>
 <tr><td>Sanierung von durch polychlorierte Biphenyle (PCB) belasteten Ökonomiegebäuden</td><td>%</td><td>25</td><td>50</td><td>25</td><td>2026</td></tr>
+<tr><td>Neue Feldroboter</td><td>%</td><td>10</td><td>–</td><td>–</td><td>–</td></tr>
 </table>
 
 ### 3.2.2 Spezifische Bestimmungen
 
 - a. Die anrechenbare Fläche für einen Füll- und Waschplatz beträgt höchstens 80 m<sup>2</sup>.
 - b. Die anrechenbare Fläche für die Überdachung entspricht höchstens der überdachten Fläche des Füll- und Waschplatzes.
-- c. Der Bundesbeitrag für die Lagerung und Verdunstung des Reinigungswassers beträgt höchstens 5000 Franken.
+- c. Der Bundesbeitrag für die Lagerung sowie die Verdunstung des Reinigungswassers beträgt je höchstens 5000 Franken.
 - d. Wird das Reinigungswasser anstatt verdunstet gefiltert, so beträgt die Pauschale für die Filteranlage höchstens 5000 Franken.
 - e. Die Anforderungen an die baulich-technische Ausführung und an den Betrieb der Füll- und Waschplätze sind gemäss den Angaben der kantonalen Fachstelle für Pflanzenschutz oder Gewässerschutz umzusetzen.
 - f. Das BLW bestimmt die finanzhilfeberechtigten Sorten, veröffentlicht diese und aktualisiert die Liste laufend entsprechend den neusten Erkenntnissen aus der Forschung.
 - g. Die Pflanzung von Stein- und Kernobstsorten wird nur unterstützt, wenn es sich dabei um Obstanlagen nach Artikel 22 Absatz 2 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^annex6-lvlu1-lvl3-lvl32-lvl322-1] handelt.
 - h. Die minimale Fläche für die Pflanzung beträgt 25 Aren.
 - i. Bei der Sanierung von durch PCB belasteten Ökonomiegebäuden sind die Kosten für die Schadstoffbeprobung, die bauliche Schadstoffsanierung sowie die Entsorgung anrechenbar.
+- j. Massnahmen im Zusammenhang mit Füll- und Waschplätzen werden bis Ende 2028 gefördert.
+- k. Robuste Sorten werden bis Ende 2034 gefördert.
+- l. Feldroboter werden bis Ende 2030 gefördert.
 
 [^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
@@ -1637,45 +1733,53 @@ Anlagen zur Reinigung der Abluft und zur Ansäuerung der Gülle werden nur unter
 
 ### 3.3.2 Spezifische Bestimmungen
 
-Die Mehrkosten für besondere Einpassung der Gebäude müssen anhand eines Kostenvergleichs belegt werden. Anliegen des Landschaftsschutzes ausserhalb eines Bundesinventars werden berücksichtigt, sofern eine entsprechende kantonale Strategie vorgelegt wird.
+- a. Die Mehrkosten am Bau für besondere Einpassung landwirtschaftlicher Gebäude und für denkmalpflegerische Anforderungen werden nur innerhalb von Bundesinventaren unterstützt. Sie müssen anhand eines Kostenvergleichs belegt werden.
+- b. Der Rückbau wird bis Ende 2025 gefördert.
 
 ### 3.4 Klimaschutz
 
 ### 3.4.1 Ansätze
 
 <table>
-<tr><th>Massnahme</th><th>Beitrag in %</th><th>Investitionskredit in %</th></tr>
-<tr><td>Bauten, Anlagen und Einrichtungen zur Produktion oder zur Speicherung nachhaltiger Energie mehrheitlich zur Eigenversorgung</td><td>25</td><td>50</td></tr>
+<tr><th>Massnahme</th><th>Angabe in</th><th>Beitrag</th><th>Investitionskredit</th></tr>
+<tr><td>Bauten, Anlagen und Einrichtungen zur Produktion oder zur Speicherung nachhaltiger Energie mehrheitlich zur Eigenversorgung, je kW (Produktion) bzw. kWh (Speicherung)</td><td>Fr.</td><td>100</td><td>100</td></tr>
+<tr><td>Neue landwirtschaftliche Traktoren mit Elektromotor ab 30 kW, je kW</td><td>Fr.</td><td>100</td><td>–</td></tr>
 </table>
 
 ### 3.4.2 Spezifische Bestimmungen
 
-Beiträge werden nur für Bauten, Anlagen und Einrichtungen ausgerichtet, die nicht über andere Förderprogramme des Bundes wie die kostenorientierte Einspeisevergütung gefördert werden.
+- a. Beiträge werden nur für Bauten, Anlagen und Einrichtungen ausgerichtet, die nicht über andere Förderprogramme des Bundes wie die Einmalvergütung gefördert werden.
+- b. Bauten, Anlagen und Einrichtungen zur Produktion oder zur Speicherung von nachhaltiger Energie werden bis Ende 2026 gefördert.
+- c. Traktoren werden bis Ende 2028 gefördert.
 
-### 4 Ansätze für Finanzhilfen für Massnahmen zur Förderung der überbetrieblichen Zusammenarbeit (Art. 41 Abs. 2)
+### 4 Finanzhilfen für Massnahmen zur Förderung der überbetrieblichen Zusammenarbeit (Art. 41 Abs. 2)
+
+### 4.1 Ansätze
 
 <table>
 <tr><th>Massnahme</th><th>Angabe in</th><th colspan="2">Beitrag</th><th colspan="2"></th><th></th><th>Investitionskredit</th></tr>
 <tr><th></th><th></th><th>Talzone</th><th colspan="2">Hügelzone und Bergzone I</th><th colspan="2">Bergzonen II–IV und Sömmerung</th><th>Alle Zonen</th></tr>
 <tr><td>Gemeinschaftliche Initiativen zur Senkung der Produktionskosten</td><td>%</td><td>27</td><td colspan="2">30</td><td colspan="2">33</td><td>–</td></tr>
-<tr><td>Aufbau von land- und gartenbaulichen Selbsthilfeorganisationen im Bereich der marktgerechten land- und gartenbaulichen Produktion und Betriebsführung oder die Erweiterung von deren Geschäftstätigkeit</td><td>%</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>50</td></tr>
+<tr><td>Land- und gartenbaulichen Selbsthilfeorganisationen</td><td>%</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>50</td></tr>
 <tr><td>Gemeinschaftlicher Erwerb von Maschinen und Fahrzeugen</td><td>%</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>50</td></tr>
 </table>
 
-Anhang 7
+### 4.2 Spezifische Bestimmungen
+
+Die Massnahmen können auch bei Betriebsgemeinschaften umgesetzt werden.
+
+Anhang 7[^t-4]
 
 (Art. 50 Abs. 4)
 
-## Massgebende anrechenbare Kosten für Projekte zur regionalen Entwicklung
+## Prozentuale Reduktion der anrechenbaren Kosten für Projekte zur regionalen Entwicklung
 
-Prozentuale Reduktion der anrechenbaren Kosten pro Massnahme
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 <table>
 <tr><th>Massnahme</th><th>Reduktion der anrechenbaren Kosten in Prozent</th></tr>
-<tr><td>Aufbau und Weiterentwicklung einer landwirtschaftsnahen Tätigkeit</td><td>20</td></tr>
-<tr><td>Verarbeitung, Lagerung und Vermarktung regionaler landwirtschaftlicher Erzeugnisse</td><td>33</td></tr>
-<tr><td>Weitere Massnahmen im Interesse des Gesamtprojekts</td><td>mind. 50</td></tr>
-<tr><td>Massnahmen, die während der Umsetzungsphase ergänzt werden</td><td>mind. 5</td></tr>
+<tr><td>Aufbau und Weiterentwicklung einer landwirtschaftsnahen Tätigkeit (Art. 47 Abs. 2 Bst. b)</td><td>20</td></tr>
+<tr><td>Weitere Massnahmen im Interesse des PRE (Art. 47 Abs. 2 Bst. e)</td><td>mind. 50</td></tr>
 </table>
 
 Anhang 8
