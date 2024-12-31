@@ -4,13 +4,13 @@ number: "860.111"
 title: Verordnung über die öffentliche Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2024-01-16
+version: 2025-01-01
+valid_until: 2025-11-30
+version_adopted: 2025-01-10
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2990/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3156/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2990/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 24.10.2001 (Stand 01.01.2024)
+vom 24.10.2001 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -246,7 +246,7 @@ beschliesst:
 - a eine Person — CHF 599
 - b zwei Personen — CHF 918
 - c drei Personen — CHF 1114
-- d vier Peronen — CHF 1282
+- d vier Personen — CHF 1282
 - e fünf Personen — CHF 1491
 - f sechs Personen — CHF 1685
 - g sieben Personen — CHF 1852
@@ -884,7 +884,7 @@ beschliesst:
 
 **Pauschale für die wirtschaftliche Hilfe**
 
-<sup>1</sup> Die Pauschale pro Fall wirtschaftlicher Hilfe beträgt 2450 Franken.
+<sup>1</sup> Die Pauschale pro Fall wirtschaftlicher Hilfe beträgt 2491.65 Franken.
 
 <sup>2</sup> Als Fall wirtschaftlicher Hilfe gilt eine Unterstützungseinheit, der im Laufe des Kalenderjahres wirtschaftliche Hilfe ausgerichtet wird.
 
@@ -905,7 +905,7 @@ beschliesst:
 
 **Pauschale für die präventive Beratung**
 
-<sup>1</sup> Die Pauschale pro Fall präventiver Beratung beträgt 1225 Franken.
+<sup>1</sup> Die Pauschale pro Fall präventiver Beratung beträgt 1245.85 Franken.
 
 <sup>2</sup> Als Fall präventiver Beratung gilt die Unterstützung einer hilfesuchenden Person bzw. einer Unterstützungseinheit bei mindestens einer Problemlage, wenn
 
@@ -921,7 +921,7 @@ beschliesst:
 
 **Pauschale für das Inkasso von Unterhaltsbeiträgen**
 
-<sup>1</sup> Die Pauschale pro Inkassofall beträgt 397 Franken.
+<sup>1</sup> Die Pauschale pro Inkassofall beträgt 403.75 Franken.
 
 <sup>2</sup> Als Inkassofall gilt die Tätigkeit gestützt auf Artikel 1 oder 1a des Gesetzes vom 6. Februar 1980 über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen[^34f-1] oder auf Artikel 37 SHG.
 
@@ -933,7 +933,7 @@ beschliesst:
 
 **Pauschale für die Bevorschussung von Unterhaltsbeiträgen**
 
-<sup>1</sup> Die Pauschale pro Bevorschussungsfall beträgt 516 Franken.
+<sup>1</sup> Die Pauschale pro Bevorschussungsfall beträgt 524.75 Franken.
 
 <sup>2</sup> Als Bevorschussungsfall gilt die Bevorschussung von Unterhaltsbeiträgen gestützt auf Artikel 3 des Gesetzes über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen.
 
