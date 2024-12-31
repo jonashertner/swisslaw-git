@@ -4,11 +4,11 @@ title: "Ordonnance du 26 novembre 2003 sur le marché des ufs (Ordonnance sur 
 short: OO
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/735"
 language: fr
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/735/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-735-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/735/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-735-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20220101/fr"
 
 (Ordonnance sur les œufs, OO)
 
-du 26 novembre 2003 (Etat le 1<sup>er</sup> janvier 2022)
+du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -44,31 +44,59 @@ La présente ordonnance s’applique aux œufs d’oiseaux en coquille et aux pr
 
 #### Art. 2
 
-**Importation d’œufs de consommation et d’œufs de fabrication**
+**Contingent tarifaire pour les œufs d’oiseaux en coquille**[^2-1]
 
-<sup>1</sup> Pour les œufs de poules «Gallus domesticus», les parts des contingents tarifaires partiels œufs de consommation et œufs de fabrication sont attribuées dans l’ordre de réception des déclarations d’importation.
+Le contingent tarifaire n<sup>o</sup> 09 (œufs d’oiseaux en coquille) est réparti entre les contingents tarifaires partiels suivants:
 
-<sup>2</sup> Les œufs de consommation qui ne proviennent pas de poules «Gallus domesticus» peuvent être importés au taux du contingent (TC) sans être imputés au contingent tarifaire.
+- a. contingent tarifaire partiel n<sup>o</sup> 09.1 (œufs de consommation de poules «Gallus domesticus»);
+- b. contingent tarifaire partiel n<sup>o</sup> 09.2 (œufs de fabrication de poules «Gallus domesticus»);
+- c. contingent tarifaire partiel n<sup>o</sup> 09.3 (œufs à couver et œufs ne provenant pas de poules «Gallus domesticus»).
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+
+#### Art. 2a
+
+**Contingents tarifaires partiels n<sup>o</sup> 09.1 et n<sup>o</sup> 09.2**[^2a-1]
+
+<sup>1</sup> Les parts des contingents tarifaires partiels n<sup>o</sup> 09.1 et n<sup>o</sup> 09.2 sont attribuées dans l’ordre de réception des déclarations d’importation.
+
+<sup>2</sup>
+
+Le contingent tarifaire partiel n<sup>o</sup> 09.1 est échelonné de la manière suivante:
+
+- a. 65 % du 1<sup>er</sup> janvier au 31 décembre;
+- b. 35 % du 1<sup>er</sup> septembre au 31 décembre.
+
+[^2a-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+
+#### Art. 2b
+
+**Contingent tarifaire partiel n<sup>o</sup> 09.3**[^2b-1]
+
+L’attribution du contingent tarifaire partiel n<sup>o</sup> 09.3 n’est pas réglementée. Toutes les importations peuvent être effectuées au taux du contingent (TC).
+
+[^2b-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
 
 #### Art. 3
 
-**Importation de produits à base d’œufs**
+**Contingents tarifaires pour les produits à base d’œufs[^3-1]**
 
 L’attribution des contingents n<sup>os</sup> 10 (produits à base d’œufs séchés) et 11 (produits à base d’œufs autres que séchés) n’est pas réglementée.
 
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+
 #### Art. 4
 
-**Trafic de marché[^4-1]**
+**Trafic de marché**[^4-1]
 
-<sup>1</sup> Peuvent être admis au TC, sans permis général d’importation (PGI) et sans être imputés au contingent tarifaire partiel, au maximum 50 kilos brut d’œufs de consommation par personne et par jour de marché, provenant des zones frontières et destinés au trafic de marché.[^4-2]
+<sup>1</sup> Peuvent être admis au TC au maximum 50 kilos brut d’œufs de consommation par personne et par jour de marché, provenant des zones frontières et destinés au trafic de marché, sans que la quantité importée soit imputée au contingent tarifaire partiel.
 
-<sup>2</sup> Les œufs de consommation provenant des zones franches de Haute-Savoie et du Pays de Gex qui, dans le cadre du règlement relatif à l’arbitrage de Territet, sont importés en franchise, ne nécessitent pas de PGI et ne sont pas imputés au contingent tarifaire partiel.
+<sup>2</sup> Le règlement du 1<sup>er</sup> décembre 1933 concernant les importations en Suisse des produits des zones franches[^4-2] s’applique pour l’importation des œufs de consommation provenant des zones franches du Pays de Gex et de la Haute-Savoie. Les œufs de consommation importés de ces zones franches ne sont pas imputés au contingent tarifaire partiel n<sup>o</sup> 09.1.
 
-<sup>3</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^4-3] est chargé de l’exécution de ces dispositions.
+<sup>3</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est chargé de l’exécution du présent article.
 
-[^4-1]: Nouvelle teneur selon le ch. 58 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^4-2]: Nouvelle teneur selon le ch. 58 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^4-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+[^4-2]: [RS 0.631.256.934.953](https://fedlex.data.admin.ch/eli/cc/49/1002_1027_)
 
 #### Art. 5
 
@@ -86,14 +114,15 @@ Les œufs de fabrication importés au TC doivent être transformés en produits 
 
 <sup>1</sup> Les œufs du pays doivent être estampillés avant leur commercialisation, les œufs étrangers avant leur importation. Une exception est admise pour les œufs à couver, pour les œufs que le producteur vend directement au consommateur et pour les œufs entièrement teints.[^6-1]
 
-<sup>2</sup> L’estampillage comprend le nom complet ou abrégé correctement du pays de production, en lettres latines d’au moins 2 mm de hauteur. Seul est admis le code ISO 2 de la nomenclature des pays pour les statistiques du commerce extérieur figurant dans le tarif d’usage[^6-2], dans sa version du 1<sup>er</sup> janvier 2015.[^6-3]
+<sup>2</sup> L’estampillage comprend le nom complet ou abrégé correctement du pays de production, en lettres latines d’au moins 2 mm de hauteur. Seul est admis le code alpha-2 du répertoire des pays de la statistique du commerce extérieur suisse[^6-2].[^6-3]
 
-<sup>3</sup> La mise en œuvre de ces dispositions est régie par la législation sur les denrées alimentaires. Elle incombe à l’OFDF dans le cadre du placement sous régime douanier et aux autorités cantonales chargées du contrôle des denrées alimentaires dans les autres cas.[^6-4]
+<sup>3</sup> La mise en œuvre de ces dispositions est régie par la législation sur les denrées alimentaires. Elle incombe à l’OFDF[^6-4] dans le cadre du placement sous régime douanier et aux autorités cantonales chargées du contrôle des denrées alimentaires dans les autres cas.[^6-5]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3061](https://fedlex.data.admin.ch/eli/oc/2004/396)).
-[^6-2]: Le tarif d’usage peut être consulté ou commandé à la Direction générale des douanes, Monbijoustrasse 40, 3003 Berne.
-[^6-3]: Nouvelle teneur selon le ch. 5 de l’annexe à l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^6-4]: Nouvelle teneur selon le ch. 58 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^6-2]: Le répertoire peut être consulté à l’adresse suivante: [www.ofdf.admin.ch](http://www.bazg.admin.ch) &gt; Thèmes &gt; Statistique du commerce extérieur &gt; Méthodes / métadonnées &gt; Métadonnées &gt; Partenaires commerciaux &gt; Répertoire des pays
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+[^6-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^6-5]: Nouvelle teneur selon le ch. 58 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Section 4 Contributions
 
@@ -105,9 +134,11 @@ Les œufs de fabrication importés au TC doivent être transformés en produits 
 
 <sup>2</sup> Peuvent prendre part aux campagnes les personnes physiques et morales ainsi que les communautés de personnes qui ont leur domicile ou leur siège social en Suisse.
 
-<sup>3</sup> Après consultation des milieux concernés, l’Office fédéral de l’agriculture (office) décide du montant de la contribution, de la durée de la campagne, de la quantité minimale pour les œufs cassés ou les ventes à prix réduits et de la procédure d’attribution. Il publie la campagne dans la Feuille officielle suisse du commerce.
+<sup>3</sup> Après consultation des milieux concernés, l’Office fédéral de l’agriculture (OFAG) décide du montant de la contribution, de la durée de la campagne, de la quantité minimale pour les œufs cassés ou les ventes à prix réduits et de la procédure d’attribution. Il publie les campagnes sur son site Internet.[^7-1]
 
 <sup>4</sup> Les contributions ne doivent pas dépasser un tiers de la valeur marchande que le produit agricole possède au début de la campagne.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
 
 #### Art. 8
 
@@ -119,9 +150,11 @@ Les œufs de fabrication importés au TC doivent être transformés en produits 
 
 #### Art. 9
 
-**Exécution**
+**Exécution**[^9-1]
 
-L’office est chargé de l’exécution de la présente ordonnance, dans la mesure où celle-ci n’en dispose pas autrement.
+L’OFAG est chargé de l’exécution de la présente ordonnance, dans la mesure où celle-ci n’en dispose pas autrement.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
 
 #### Art. 10
 
@@ -143,6 +176,6 @@ L’ordonnance du 7 décembre 1998 sur le marché des œufs[^11-1] est abrogée.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2004.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 [^t-1]: Abrogée par le ch. 9 de l’annexe 7 à l’O du 26 oct. 2011 sur les produits agricoles, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).

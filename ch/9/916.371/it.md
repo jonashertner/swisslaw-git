@@ -4,11 +4,11 @@ title: "Ordinanza del 26 novembre 2003 concernente il mercato delle uova (Ordina
 short: OU
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/735"
 language: it
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/735/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-735-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/735/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2003-735-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20220101/it"
 
 (Ordinanza sulle uova, OU)
 
-del 26 novembre 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 26 novembre 2003 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -44,33 +44,59 @@ La presente ordinanza si applica alle uova di volatili in guscio, ai prodotti di
 
 #### Art. 2
 
-**Importazione di uova destinate al consumo e di uova di trasformazione**
+**Contingente doganale di uova di volatili in guscio**[^2-1]
 
-<sup>1</sup> Per quanto riguarda le uova di galline *Gallus domesticus*, le quote del contingente doganale parziale per le uova destinate al consumo e per le uova di trasformazione sono assegnate secondo l’ordine di accettazione della dichiarazione doganale d’importazione.[^2-1]
+Il contingente doganale n. 09 (uova di volatili in guscio) è suddiviso nei seguenti contingenti doganali parziali:
 
-<sup>2</sup> Le uova destinate al consumo che non provengono da galline *Gallus domesticus* possono essere importate senza computo sul quantitativo del contingente doganale parziale da assegnare.
+- a. contingente doganale parziale n. 09.1 (uova di consumo di galline *Gallus* *domesticus*);
+- b. contingente doganale parziale n. 09.2 (uova di trasformazione di galline *Gallus* *domesticus*);
+- c. contingente doganale parziale n. 09.3 (uova da cova che non provengono da galline *Gallus domesticus*).
 
-[^2-1]: Nuovo testo giusta l’all. 4 n. 58 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+
+#### Art. 2a
+
+**Contingenti doganali parziali n. 09.1 e 09.2**[^2a-1]
+
+<sup>1</sup> Le quote dei contingenti doganali parziali n. 09.1 e 09.2 sono attribuite in funzione dell’ordine di accettazione delle dichiarazioni doganali.
+
+<sup>2</sup>
+
+Il contingente doganale parziale n. 09.1 è liberato come segue:
+
+- a. il 65 per cento dal 1° gennaio al 31 dicembre;
+- b. il 35 per cento dal 1° settembre al 31 dicembre.
+
+[^2a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+
+#### Art. 2b
+
+**Contingente doganale parziale n. 09.3**[^2b-1]
+
+La ripartizione del contingente doganale parziale n. 09.3 non è disciplinata. Tutte le importazioni possono essere effettuate all’aliquota di dazio del contingente (ADC).
+
+[^2b-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
 
 #### Art. 3
 
-**Importazione di prodotti di uova**
+**Contingenti doganali per prodotti di uova[^3-1]**
 
 La ripartizione dei contingenti doganali n. 10 (prodotti di uova essiccati) e 11 (altri prodotti di uova) non è disciplinata.
 
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+
 #### Art. 4
 
-**Mercati[^4-1]**
+**Mercati**[^4-1]
 
-<sup>1</sup> Per ogni persona e per giorno di mercato possono essere importate, all’aliquota di dazio del contingente (ADC), al massimo 50 chilogrammi lordi di uova destinate al consumo provenienti da zone estere di confine, per la vendita a mercati, senza permesso generale di importazione (PGI) e senza computo sul quantitativo del contingente doganale parziale da assegnare.[^4-2]
+<sup>1</sup> Per ogni persona e per giorno di mercato possono essere importati all’ADC al massimo 50 chilogrammi lordi di uova di consumo provenienti da zone estere di confine, per la vendita a mercati, senza che il quantitativo importato venga computato sul contingente doganale parziale.
 
-<sup>2</sup> Le uova destinate al consumo provenienti dalle zone franche dell’Alta Savoia e del Paese di Gex, che conformemente al lodo di Territet sono esenti da dazi, possono essere importate senza PGI e senza computo sul quantitativo del contingente doganale parziale da assegnare.
+<sup>2</sup> Per l’importazione di uova di consumo provenienti dalle zone franche dell’Alta Savoia e del Paese di Gex si applica il regolamento del 1° dicembre 1933[^4-2] concernente le importazioni in Svizzera dei prodotti delle zone franche. Le uova di consumo importate da tali zone franche non vengono computate sul contingente doganale parziale n. 09.1.
 
-<sup>3</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-3] esegue le presenti disposizioni.
+<sup>3</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) esegue il presente articolo.
 
-[^4-1]: Nuovo testo giusta l’all. 4 n. 58 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^4-2]: Nuovo testo giusta l’all. 4 n. 58 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^4-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+[^4-2]: [RS 0.631.256.934.953](https://fedlex.data.admin.ch/eli/cc/49/1002_1027_)
 
 #### Art. 5
 
@@ -88,14 +114,15 @@ Le uova di trasformazione importate ADC devono essere trasformate in prodotti di
 
 <sup>1</sup> Le uova indigene devono essere stampigliate singolarmente prima della messa in commercio, quelle estere prima della loro importazione. Fanno eccezione le uova da cova e le uova vendute dai produttori direttamente ai consumatori e le uova completamente colorate.[^6-1]
 
-<sup>2</sup> La stampigliatura deve indicare, in caratteri latini alti almeno 2 mm, il nome del Paese di produzione, in tutte lettere oppure in forma abbreviata e comprensibile. Come abbreviazione è ammesso esclusivamente il codice ISO 2 secondo l’elenco dei Paesi stilato per la statistica del commercio estero nella tariffa d’uso[^6-2] nella versione del 1° gennaio 2015.[^6-3]
+<sup>2</sup> La stampigliatura deve indicare, in caratteri latini alti almeno 2 mm, il nome del Paese di produzione, in tutte lettere oppure in forma abbreviata e comprensibile. Come abbreviazione è ammesso esclusivamente il codice Alpha 2 secondo l’elenco dei Paesi per la statistica del commercio estero della Svizzera[^6-2].[^6-3]
 
-<sup>3</sup> L’esecuzione delle presenti disposizioni è disciplinata dalla legislazione in materia di derrate alimentari. L’ UDSC le applica nell’ambito dell’imposizione doganale, le autorità cantonali preposte al controllo delle derrate alimentari negli altri casi.[^6-4]
+<sup>3</sup> L’esecuzione delle presenti disposizioni è disciplinata dalla legislazione in materia di derrate alimentari. L’UDSC[^6-4] le applica nell’ambito dell’imposizione doganale, le autorità cantonali preposte al controllo delle derrate alimentari negli altri casi.[^6-5]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3061](https://fedlex.data.admin.ch/eli/oc/2004/396)).
-[^6-2]: La tariffa d’uso può essere consultata e ordinata presso la Direzione generale delle dogane, Monbijoustrasse 40, 3003 Berna.
-[^6-3]: Nuovo testo giusta l’all. n. 5 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^6-4]: Nuovo testo giusta l’all. 4 n. 58 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3061](https://fedlex.data.admin.ch/eli/oc/2004/396)).
+[^6-2]: [www.bazg.admin.ch](https://www.bazg.admin.ch/bazg/it/home/temi/statistica-del-commercio-estero-svizzero/metodi-metadati/metadati/partner-commerciali.html) &gt; Temi &gt; Statistica del commercio estero &gt; Metodi / Metadati &gt; Metadati &gt; Partner commerciali &gt; Elenco dei Paesi
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
+[^6-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^6-5]: Nuovo testo giusta l’all. 4 n. 58 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Sezione 4: Contributi
 
@@ -107,9 +134,11 @@ Le uova di trasformazione importate ADC devono essere trasformate in prodotti di
 
 <sup>2</sup> Tutte le persone fisiche e giuridiche nonché le comunità di persone con domicilio o sede in Svizzera possono partecipare alle azioni.
 
-<sup>3</sup> Sentite le cerchie interessate, l’Ufficio federale dell’agricoltura (Ufficio federale) decide sull’importo del contributo, la durata dell’azione, il quantitativo minimo di uova destinate al consumo spezzate o ridotte di prezzo e sulla procedura di assegnazione. Pubblica l’azione sul Foglio ufficiale svizzero di commercio.
+<sup>3</sup> Sentite le cerchie interessate, l’Ufficio federale dell’agricoltura (UFAG) decide sull’importo del contributo, la durata dell’azione, il quantitativo minimo di uova di consumo spezzate o ridotte di prezzo e sulla procedura di assegnazione. Pubblica le azioni sul suo sito Internet.[^7-1]
 
 <sup>4</sup> I contributi non devono superare un terzo del valore di mercato del prodotto agricolo all’inizio dell’azione.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
 
 #### Art. 8
 
@@ -121,15 +150,17 @@ Le uova di trasformazione importate ADC devono essere trasformate in prodotti di
 
 #### Art. 9
 
-**Esecuzione**
+**Esecuzione**[^9-1]
 
-L’Ufficio federale esegue la presente ordinanza, in quanto essa non preveda altrimenti.
+L’UFAG esegue la presente ordinanza, per quanto essa non preveda altrimenti.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 684](https://fedlex.data.admin.ch/eli/oc/2024/684)).
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogato dal n. IV 73 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^10-1]: Abrogato dalla cifra IV n. 73 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 11
 
@@ -145,6 +176,6 @@ L’ordinanza del 7 dicembre 1998[^11-1] concernente il mercato delle uova è ab
 
 La presente ordinanza entra in vigore il 1° gennaio 2004.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 [^t-1]: Abrogato dall’all. 7 n. 9 dell’O del 26 ott. 2011 sulle importazioni agricole, con effetto dal 1° gen. 2012 ([RU 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
