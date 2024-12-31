@@ -3,46 +3,42 @@ canton: GR
 number: "548.200"
 title: Gesetz über Mutterschaftsbeiträge
 language: de
-version: 2009-08-01
-corrected: 2014-12-12
-version_adopted: 1992-01-01
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1991-12-08
 in_force: 1992-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/329/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3409/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über Mutterschaftsbeiträge
 
-Vom Volke angenommen am 8. Dezember 1991[^t-1]
+Vom 08.12.1991 (Stand 01.01.2025)
 
-[^t-1]: B vom 10. September 1990, 318; GRP 1990/91, 646 (1. Lesung), GRP 1991/92,
+Vom Volke angenommen am 8. Dezember 1991[^ingress-1]
+
+[^ingress-1]: B vom 10. September 1990, 318; GRP 1990/91, 646 (1. Lesung), GRP 1991/92, 165 (2. Lesung)
 
 #### Art. 1
 
 **Grundsatz**
 
-Der Kanton gewährt der Mutter oder dem Vater (im folgenden Elternteile genannt) nach der Geburt eines Kindes während einer bestimmten Zeit Beiträge, sofern sie oder er zur persönlichen Pflege und Betreuung des Kindes einer finanziellen Unterstützung bedarf.
+<sup>1</sup> Der Kanton gewährt der Mutter oder dem Vater (im folgenden Elternteile genannt) nach der Geburt eines Kindes während einer bestimmten Zeit Beiträge, sofern sie oder er zur persönlichen Pflege und Betreuung des Kindes einer finanziellen Unterstützung bedarf.
 
-<sup>2</sup>[^1-1]Anerkannte Flüchtlinge, die in die Unterstützungszuständigkeit des Bundes fallen, vorläufig aufgenommene Personen sowie Asylsuchende sind von diesem Gesetz ausgenommen.
-
-[^1-1]: Einfügung gemäss Art. 31 EG zur Ausländer- und Asylgesetzgebung des Bundes; BR 618.100; am 1. August 2009 in Kraft getreten. 1.01.2010 1
+<sup>2</sup> Anerkannte Flüchtlinge, die in die Unterstützungszuständigkeit des Bundes fallen, vorläufig aufgenommene Personen sowie Asylsuchende sind von diesem Gesetz ausgenommen.
 
 #### Art. 2
 
 **Anspruchsberechtigung**
 
-Der Anspruch auf Beiträge ist gegeben, wenn a) der Lebensbedarf durch das anrechenbare Einkommen nicht gedeckt ist,
+<sup>1</sup> Der Anspruch auf Beiträge ist gegeben, wenn:
 
-- b) das Reinvermögen nach kantonalem Steuergesetz den zweifachen Betrag der Vermögensfreigrenzen, die bei den Ergänzungsleistungen zur AHV und IV (EL) für Alleinstehende und Ehepaare massgebend sind, nicht übersteigt,
-
-- c) der betreuende Elternteil mit dem Kind im gleichen Haushalt lebt,
-
-- d) der betreuende Elternteil den zivilrechtlichen Wohnsitz im Kanton hat und sich hier auch tatsächlich aufhält, und
-
+- a) der Lebensbedarf durch das anrechenbare Einkommen nicht gedeckt ist;
+- b) das Reinvermögen nach kantonalem Steuergesetz den zweifachen Betrag der Vermögensfreigrenzen, die bei den Ergänzungsleistungen zur AHV und IV (EL) für Alleinstehende und Ehepaare massgebend sind, nicht übersteigt;
+- c) der betreuende Elternteil mit dem Kind im gleichen Haushalt lebt;
+- d) der betreuende Elternteil den zivilrechtlichen Wohnsitz im Kanton hat und sich hier auch tatsächlich aufhält; und
 - e) die Erwerbstätigkeit beim betreuenden Elternteil ein halbes Arbeitspensum nicht übersteigt.
 
 #### Art. 3
@@ -61,13 +57,9 @@ Der Anspruch auf Beiträge ist gegeben, wenn a) der Lebensbedarf durch das anrec
 
 <sup>2</sup> Zusätzlich werden folgende Ausgaben anerkannt:
 
-- a) die Mietkosten nach den Bestimmungen über die EL ohne Anrechnung eines Selbstbehaltes. Bei alleinstehenden Elternteilen in Wohn- und Wirtschaftsgemeinschaften werden die Kosten anteilmässig angerechnet.
-
+- a) die Mietkosten nach den Bestimmungen über die EL ohne Anrechnung eines Selbstbehaltes. Bei alleinstehenden Elternteilen in Wohn- und Wirtschaftsgemeinschaften werden die Kosten anteilmässig angerechnet;
 - b) Hypothekarzinsen höchstens bis zur Höhe des Liegenschaftsertrages.
-
-- c) ....[^4-1]
-
-[^4-1]: Aufhebung gemäss Art. 21a des Gesetzes über die Krankenversicherung und die Prämienverbilligung 2 1.01.2010
+- c) …
 
 #### Art. 5
 
@@ -79,15 +71,13 @@ Der Anspruch auf Beiträge ist gegeben, wenn a) der Lebensbedarf durch das anrec
 
 <sup>3</sup> Bei alleinstehenden Elternteilen in Wohn- und Wirtschaftsgemeinschaften ist für deren Haushaltsführung ein angemessener Betrag als Einkommen anzurechnen.
 
-<sup>4</sup>[^5-1]/20 des Reinvermögens wird als monatliches Einkommen angerechnet, soweit dieses die bei den EL für Alleinstehende und Ehepaare massgeblichen Vermögensfreigrenzen übersteigt.
-
-[^5-1]: Aufhebung gemäss Art. 21a des Gesetzes über die Krankenversicherung und die Prämienverbilligung 2 1.01.2010
+<sup>4</sup> 1/20 des Reinvermögens wird als monatliches Einkommen angerechnet, soweit dieses die bei den EL für Alleinstehende und Ehepaare massgeblichen Vermögensfreigrenzen übersteigt.
 
 #### Art. 6
 
 **Bemessungsperiode**
 
-Die Bemessungsperiode für die Ermittlung des massgebenden Lebensbedarfs und Einkommens entspricht der Beitragsdauer.
+<sup>1</sup> Die Bemessungsperiode für die Ermittlung des massgebenden Lebensbedarfs und Einkommens entspricht der Beitragsdauer.
 
 #### Art. 7
 
@@ -113,50 +103,46 @@ Die Bemessungsperiode für die Ermittlung des massgebenden Lebensbedarfs und Ein
 
 **Sicherung der Beiträge**
 
-Beiträge im Sinne dieses Gesetzes sind nicht abtretbar. Jede Abtretung von Beitragsansprüchen ist nichtig.
+<sup>1</sup> Beiträge im Sinne dieses Gesetzes sind nicht abtretbar. Jede Abtretung von Beitragsansprüchen ist nichtig.
 
 #### Art. 10
 
 **Festlegung und Auszahlung**
 
-Die Festlegung und Auszahlung der Beiträge obliegt dem kantonalen Sozialdienst. Dieser befindet in einer Verfügung über Anspruchsberechtigung, Höhe und Dauer der Beiträge.
+<sup>1</sup> Die Festlegung und Auszahlung der Beiträge obliegt dem kantonalen Sozialdienst. Dieser befindet in einer Verfügung über Anspruchsberechtigung, Höhe und Dauer der Beiträge.
 
 #### Art. 11
 
 **Rückerstattung**
 
-Wer durch unwahre oder unvollständige Angaben Beiträge erwirkt oder entscheidende Änderungen der Verhältnisse nicht meldet, hat die zu Unrecht bezogenen Beiträge zurückzuerstatten. Die Rückerstattungspflicht verjährt nach fünf Jahren.
+<sup>1</sup> Wer durch unwahre oder unvollständige Angaben Beiträge erwirkt oder entscheidende Änderungen der Verhältnisse nicht meldet, hat die zu Unrecht bezogenen Beiträge zurückzuerstatten. Die Rückerstattungspflicht verjährt nach fünf Jahren.
 
 #### Art. 12
 
 **Auskunfts- und Schweigepflicht**
 
-Die Behörden des Kantons und der Gemeinden, die Arbeitgeber und die mit dem ansprucherhebenden Elternteil in Verbindung stehenden sozialen Institutionen sind verpflichtet, kostenlos die zum Vollzug dieses Gesetzes erforderlichen Auskünfte zu erteilen und die notwendigen Unterlagen einzureichen. Die mit dem Vollzug dieses Gesetzes betrauten Personen unterliegen bezüglich ihren Wahrnehmungen der Schweigepflicht.
-
-[^12-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3318, am 1. Januar 2007 in Kraft getreten. 1.01.2010 3
+<sup>1</sup> Die Behörden des Kantons und der Gemeinden, die Arbeitgeber und die mit dem ansprucherhebenden Elternteil in Verbindung stehenden sozialen Institutionen sind verpflichtet, kostenlos die zum Vollzug dieses Gesetzes erforderlichen Auskünfte zu erteilen und die notwendigen Unterlagen einzureichen. Die mit dem Vollzug dieses Gesetzes betrauten Personen unterliegen bezüglich ihren Wahrnehmungen der Schweigepflicht.
 
 #### Art. 13
 
-**Rechtsmittel**[^12-1]
+**Rechtsmittel**
 
-Gegen die gestützt auf dieses Gesetz ergangenen Verfügungen kann innert 30 Tagen seit Zustellung Beschwerde beim Verwaltungsgericht eingereicht werden.
+<sup>1</sup> Gegen die gestützt auf dieses Gesetz ergangenen Verfügungen kann innert 30 Tagen seit Zustellung Beschwerde beim Obergericht eingereicht werden.
 
 #### Art. 14
 
 **Vollzug**
 
-Die Regierung ist für den Vollzug zuständig und erlässt die erforderlichen Ausführungsbestimmungen.[^14-1]
+<sup>1</sup> Die Regierung ist für den Vollzug zuständig und erlässt die erforderlichen Ausführungsbestimmungen[^14-1].
 
-[^14-1]: BR 548.210
+[^14-1]: BR [548.210](https://www.gr-lex.gr.ch/data/548.210/de)
 
 #### Art. 15
 
 **Inkrafttreten**
 
-Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^15-1] dieses Gesetzes.
+<sup>1</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^15-1] dieses Gesetzes.
 
-[^15-1]: Mit RB vom 17. Dezember 1991 auf den 1. Januar 1992 in Kraft gesetzt 4 1.01.2010
+[^15-1]: Mit RB vom 17. Dezember 1991 auf den 1. Januar 1992 in Kraft gesetzt.
 
-## Weitere Fussnoten
-
-- [165] (2. Lesung)
+-
