@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: fr
-version: 2024-12-12
+version: 2025-01-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241212/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20241212-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20241212/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Strasbourg le 9 septembre 1996 Approuvée par l’Assemblée fédérale le 19 décembre 1997[^t-1] Instrument de ratification déposé par la Suisse le 16 juillet 1998 Entrée en vigueur pour la Suisse le 1<sup>er</sup> novembre 2009
 
-(État le 12 décembre 2024)
+(État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: [RO 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -38,7 +38,7 @@ exprimant le souhait que d’autres États dont les voies de navigation intérie
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.631.253.224.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2194)
+[^ingress-1]: [RS 0.631.253.224.1](https://fedlex.data.admin.ch/eli/cc/1959/1101_1139_1135)
 
 ## Dispositions générales
 
@@ -374,7 +374,7 @@ Annexe 2[^t-3]
 
 ## Règlement d’application
 
-[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), du 27 juin 2024 ([RO 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)) et du 12 déc. 2024, en vigueur depuis le 12 déc. 2024 ([RO 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)).
+[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), du 12 déc. 2024 ([RO 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)) et du 27 juin 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)).
 
 <table>
 <tr><td>Partie A</td><td>Collecte, dépôt et réception des déchets huileux et graisseux survenant lors de l’exploitation du bâtiment.</td></tr>
@@ -578,7 +578,7 @@ Les institutions nationales communiquent au secrétariat de l’instance interna
 
 <sup>(1)</sup> La péréquation financière visée aux art. 4.02 et 4.03 ci-dessus est déterminée comme suit pour chaque institution nationale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241212/fr/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250101/fr/xml/image/image1.png)</sub>
 
 où:
 
@@ -660,7 +660,7 @@ La Partie B s’applique sans préjudice:
 
 Les bâtiments pour lesquels il peut être justifié par écrit qu’ils ont dégazé conformément aux prescriptions hors champ d’application de la CDNI sont réputés être des bateaux dégazés au sens du présent règlement dès lors que les valeurs de l’Appendice III*a* sont respectées. La Conférence des Parties Contractantes désigne, outre la directive 94/63/CE et l’ADN, les prescriptions réputées équivalentes en ce qui concerne les dispositions relatives au dégazage.
 
-[^annexu1-lvlu1-chapV-504-1]: [RS 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
+[^annexu1-lvlu1-chapV-504-1]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
 
 ### Chapitre VI Obligations à charge des conducteurs
 
@@ -692,7 +692,7 @@ La Conférence des Parties Contractantes examine cette proposition et complète 
 
 <sup>(5)</sup> Par dérogation à l’interdiction visée au par. 1, des vapeurs peuvent être libérées en cas de besoin lors d’un séjour imprévu au chantier naval ou d’une réparation imprévue sur place par un chantier naval ou une autre société spécialisée avec impossibilité d’évacuer les vapeurs dans une station de réception. À cet égard doivent être observées les dispositions de l’Appendice III*a*, A. 4 et de la sous-section 7.2.3.7 ADN[^annexu1-lvlu1-chapVI-601-1].
 
-[^annexu1-lvlu1-chapVI-601-1]: [RS 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
+[^annexu1-lvlu1-chapVI-601-1]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
 
 #### Art. 6.02
 
@@ -960,7 +960,9 @@ Cette interdiction ne s’applique pas aux bateaux à passagers:
 - – non soumis aux prescriptions techniques relatives à l’obligation d’équipement soit de citernes de collecte des eaux usées domestiques, soit de stations d’épuration de bord, ou
 - – individuellement exemptés de cette obligation,
 
-<sup>(5)</sup> L’interdiction prévue au par. 3 ci-dessus ne s’applique pas aux navires de mer dans les ports maritimes situés sur des voies de navigation maritime pour autant qu’ils sont soumis aux dispositions de la Convention internationale pour la prévention de la pollution par les navires (Marpol).
+<sup>(5)</sup> En outre, l’interdiction prévue au par. 3 ci-dessus ne s’applique pas aux bateaux à passagers qui disposent d’une station d’épuration de bord respectant les valeurs limites et de contrôle mentionnées à l’Appendice V.
+
+<sup>(6)</sup> L’interdiction prévue au par. 3 ci-dessus ne s’applique pas aux navires de mer dans les ports maritimes situés sur des voies de navigation maritime pour autant qu’ils sont soumis aux dispositions de la Convention internationale pour la prévention de la pollution par les navires (Marpol).
 
 [^annexu1-lvlu1-chapIX-901-1]: Directive (UE) 2016/1629 du Parlement européen et du Conseil du 14 septembre 2016 établissant les prescriptions techniques applicables aux bateaux de navigation intérieure, modifiant la directive 2009/100/CE et abrogeant la directive 2006/87/CE.
 
@@ -991,7 +993,7 @@ Si possible les ordures ménagères doivent être déposées séparément selon 
 
 <sup>(3)</sup> Les exploitants des bateaux à passagers qui disposent d’une station d’épuration de bord conforme à l’appendice V doivent veiller eux-mêmes de manière appropriée au dépôt réglementaire des boues de curage, contre attestation sur la base des dispositions nationales.
 
-<sup>(4)</sup> Il incombe au conducteur d’un bateau à passagers soumis à l’interdiction du déversement d’eaux usées domestiques conformément à l’art. 9.01, par. 3, de s’assurer que les eaux usées domestiques sont collectées à bord du bateau d’une manière appropriée, puis déposées auprès d’une station ou installation prévue à l’art. 8.02, par. 3, si le bateau à passagers est dépourvu d’une station d’épuration de bord au sens de l’art. 9.01, par. 4.
+<sup>(4)</sup> Il incombe au conducteur d’un bateau à passagers soumis à l’interdiction du déversement d’eaux usées domestiques conformément à l’art. 9.01 par. 3, de s’assurer que les eaux usées domestiques sont collectées à bord du bateau d’une manière appropriée, puis déposées auprès d’une station ou installation prévue à l’art. 8.02 par. 3, si le bateau à passager est dépourvu d’une station d’épuration de bord au sens de l’art. 9.01, par. 5.
 
 <sup>(5)</sup> Les déchets collectés visés au par. 1 doivent être stockés à bord dans des récipients de collecte appropriés portant les pictogrammes correspondants.
 

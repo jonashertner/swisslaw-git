@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convenzione del 9 settembre 1996 sulla raccolta, il deposito e il ritiro di rifiuti nella navigazione sul Reno e nella navigazione interna (con annessi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: it
-version: 2024-12-12
+version: 2025-01-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241212/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20241212-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20241212/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 9 settembre 1996 Approvata dall’Assemblea federale il 19 dicembre 1997[^t-1] Strumento di ratifica depositato dalla Svizzera il 16 luglio 1998 Entrata in vigore per la Svizzera il 1° novembre 2009
 
-(Stato 12 dicembre 2024)
+(Stato 1° gennaio 2025)
 
 [^t-1]: [RU 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -38,7 +38,7 @@ animati dal desiderio che altri Stati, le cui vie navigabili interne sono colleg
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.631.253.224.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2194)
+[^ingress-1]: [RS 0.631.253.224.1](https://fedlex.data.admin.ch/eli/cc/1959/1101_1139_1135)
 
 ## Disposizioni generali
 
@@ -275,11 +275,11 @@ Gli Stati parte perseguono conformemente alle loro disposizioni nazionali le inf
 
 **Firma, ratifica e adesione**
 
-(1) La presente Convenzione è aperta alla firma della Repubblica federale di Germania, del Regno del Belgio, della Repubblica francese, del Granducato del Lussemburgo, del Regno d’Olanda e della Confederazione Svizzera dal 1° giugno 1996 al 30 settembre 1996.
+<sup>(1)</sup> La presente Convenzione è aperta alla firma della Repubblica federale di Germania, del Regno del Belgio, della Repubblica francese, del Granducato del Lussemburgo, del Regno d’Olanda e della Confederazione Svizzera dal 1° giugno 1996 al 30 settembre 1996.
 
-(2) La presente Convenzione è sottoposta alla ratifica, all’accettazione o all’approvazione degli Stati firmatari. Gli strumenti di ratifica, accettazione o approvazione sono depositati presso il segretario generale della Commissione centrale per la navigazione del Reno.
+<sup>(2)</sup> La presente Convenzione è sottoposta alla ratifica, all’accettazione o all’approvazione degli Stati firmatari. Gli strumenti di ratifica, accettazione o approvazione sono depositati presso il segretario generale della Commissione centrale per la navigazione del Reno.
 
-(3) Dopo l’entrata in vigore, la presente Convenzione è aperta all’adesione di tutti gli Stati le cui vie navigabili interne sono collegate con quelle degli Stati contraenti. Gli strumenti d’adesione sono depositati presso il segretario generale della Commissione centrale per la navigazione del Reno.
+<sup>(3)</sup> Dopo l’entrata in vigore, la presente Convenzione è aperta all’adesione di tutti gli Stati le cui vie navigabili interne sono collegate con quelle degli Stati contraenti. Gli strumenti d’adesione sono depositati presso il segretario generale della Commissione centrale per la navigazione del Reno.
 
 #### Art. 18
 
@@ -291,33 +291,35 @@ La presente Convenzione entra in vigore il primo giorno del secondo mese a decor
 
 **Emendamenti alla Convenzione e ai relativi annessi**
 
-(1) Ogni Stato parte può proporre emendamenti alla presente Convenzione e ai relativi annessi. Le proposte d’emendamento sono esaminate dalla Conferenza delle Parti contraenti.
+<sup>(1)</sup> Ogni Stato parte può proporre emendamenti alla presente Convenzione e ai relativi annessi. Le proposte d’emendamento sono esaminate dalla Conferenza delle Parti contraenti.
 
-(2) Il tenore di qualsiasi proposta di emendamento e la motivazione sono sottoposti al depositario che li trasmette agli Stati parte al più tardi tre mesi prima dell’inizio della Conferenza. Il depositario trasmette inoltre alle Parti tutti i pareri pervenutigli in merito alla proposta.
+<sup>(2)</sup> Il tenore di qualsiasi proposta di emendamento e la motivazione sono sottoposti al depositario che li trasmette agli Stati parte al più tardi tre mesi prima dell’inizio della Conferenza. Il depositario trasmette inoltre alle Parti tutti i pareri pervenutigli in merito alla proposta.
 
-(3) Gli emendamenti alla presente Convenzione e ai relativi annessi sono adottati all’unanimità.
+<sup>(3)</sup> Gli emendamenti alla presente Convenzione e ai relativi annessi sono adottati all’unanimità.
 
-(4) Gli emendamenti alla presente Convenzione sono sottoposti alla ratifica, all’accettazione o all’approvazione degli Stati parte. Entrano in vigore il primo giorno del sesto mese a decorrere dal deposito dell’ultimo strumento di ratifica, accettazione o approvazione presso il depositario.
+<sup>(4)</sup> Gli emendamenti alla presente Convenzione sono sottoposti alla ratifica, all’accettazione o all’approvazione degli Stati parte. Entrano in vigore il primo giorno del sesto mese a decorrere dal deposito dell’ultimo strumento di ratifica, accettazione o approvazione presso il depositario.
 
-(5) Gli emendamenti agli annessi della presente Convenzione entrano in vigore alla data convenuta, ma al più tardi nove mesi dopo che sono stati adottati, sempreché nessuno Stato parte notifichi al depositario entro sei mesi che respinge l’emendamento.
+<sup>(5)</sup> Gli emendamenti agli annessi della presente Convenzione entrano in vigore alla data convenuta, ma al più tardi nove mesi dopo che sono stati adottati, sempreché nessuno Stato parte notifichi al depositario entro sei mesi che respinge l’emendamento.
 
 #### Art. 20
 
 **Denuncia**
 
-(1) Qualsiasi Stato parte può denunciare la presente Convenzione, mediante notifica al depositario, in ogni momento successivo alla scadenza di cinque anni dal giorno in cui la Convenzione è entrata in vigore per detta Parte.
+<sup>(1)</sup> Qualsiasi Stato parte può denunciare la presente Convenzione, mediante notifica al depositario, in ogni momento successivo alla scadenza di cinque anni dal giorno in cui la Convenzione è entrata in vigore per detta Parte.
 
-(2) La denuncia entra in vigore il primo giorno del mese successivo alla scadenza di un anno a decorrere dal deposito della notifica, ma al più presto al termine del regolamento finanziario annuale per il precedente anno d’esercizio o al termine di un periodo di tempo più lungo fissato nella notifica.
+<sup>(2)</sup> La denuncia entra in vigore il primo giorno del mese successivo alla scadenza di un anno a decorrere dal deposito della notifica, ma al più presto al termine del regolamento finanziario annuale per il precedente anno d’esercizio o al termine di un periodo di tempo più lungo fissato nella notifica.
 
 #### Art. 21
 
 **Depositario**
 
-(1) Il segretario generale della Commissione centrale per la navigazione del Reno è depositario della presente Convenzione. Provvede affinché il deposito degli strumenti di ratifica, accettazione, approvazione o adesione siano messi a verbale e trasmette una copia certificata conforme di tali strumenti nonché del protocollo di deposito a tutte le Parti elencate nell’articolo 17 paragrafo 1 nonché a tutte le Parti che hanno aderito alla presente Convenzione.
+<sup>(1)</sup> Il segretario generale della Commissione centrale per la navigazione del Reno è depositario della presente Convenzione. Provvede affinché il deposito degli strumenti di ratifica, accettazione, approvazione o adesione siano messi a verbale e trasmette una copia certificata conforme di tali strumenti nonché del protocollo di deposito a tutte le Parti elencate nell’articolo 17 paragrafo 1 nonché a tutte le Parti che hanno aderito alla presente Convenzione.
 
-(2) Il depositario trasmette copie certificate conformi della presente Convenzione nelle lingue di cui all’articolo 22 a tutte le Parti elencate nell’articolo 17 paragrafo 1 e a tutte le altre Parti che hanno aderito alla presente Convenzione.
+<sup>(2)</sup> Il depositario trasmette copie certificate conformi della presente Convenzione nelle lingue di cui all’articolo 22 a tutte le Parti elencate nell’articolo 17 paragrafo 1 e a tutte le altre Parti che hanno aderito alla presente Convenzione.
 
-(3) Il depositario trasmette o comunica senza indugio alle Parti elencate nell’articolo 17 paragrafo 1 nonché a tutte le Parti che hanno aderito alla presente Convenzione:
+<sup>(3)</sup>
+
+Il depositario trasmette o comunica senza indugio alle Parti elencate nell’articolo 17 paragrafo 1 nonché a tutte le Parti che hanno aderito alla presente Convenzione:
 
 - a) qualsiasi altra firma nonché la data di tale firma;
 - b) tutti i documenti di cui all’articolo 19 paragrafo 2;
@@ -332,11 +334,7 @@ La presente Convenzione entra in vigore il primo giorno del secondo mese a decor
 
 La presente Convenzione è redatta in un unico esemplare originale nelle lingue tedesca, francese e olandese, ciascun testo facente ugualmente fede.
 
-*In fede di che,* i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Convenzione.
-
-Fatto a Strasburgo il 9 settembre 1996.
-
-(Seguono le firme)
+*In fede di che,* i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Strasburgo il 9 settembre 1996. (Seguono le firme)
 
 Annesso 1[^t-2]
 
@@ -375,7 +373,7 @@ Annesso 2[^t-3]
 
 ## Disposizione esecutiva
 
-[^t-3]: Aggiornato dagli emendamenti dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), il 21 giu. 2023 ([RU 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), il 27 giu. 2024 ([RU 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)) e del 12 dic. 2024, in vigore dal 12 dic. 2024 ([RU 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)).
+[^t-3]: Aggiornato dagli emendamenti dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), il 21 giu. 2023 ([RU 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), del 12 dic. 2024 ([RU 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)) e del il 27 giu. 2024, in vigore dal 1° gen. 2025 ([RU 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)).
 
 <table>
 <tr><td>Parte A:</td><td>Raccolta, deposito e ritiro di rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione.</td></tr>
@@ -579,7 +577,7 @@ Gli enti nazionali segnalano trimestralmente, vale a dire il 1° febbraio, il 1�
 
 <sup>(1)</sup> Il regolamento finanziario ai sensi degli articoli 4.02 e 4.03 è determinato come segue per ogni ente nazionale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241212/it/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250101/it/xml/image/image1.png)</sub>
 
 Significato:
 
@@ -661,7 +659,7 @@ La parte B è applicata senza pregiudizio:
 
 Le imbarcazioni per le quali è possibile dimostrare con documenti scritti che sono state degassate conformemente alle prescrizioni al di fuori della zona di validità della presente Convenzione (CDNI), sono da considerare come navi degassate ai sensi del presente regolamento purché i valori dell’appendice III*a* siano rispettati. La Conferenza delle Parti contraenti indica i regolamenti che, oltre alla direttiva 94/63/CE e all’ADN, identifica come equivalenti per quanto concerne le disposizioni di degassaggio.
 
-[^annexu1-lvlu1-chapV-504-1]: [RS 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
+[^annexu1-lvlu1-chapV-504-1]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
 
 ### Capitolo VI Obblighi del conduttore
 
@@ -693,7 +691,7 @@ La Conferenza delle Parti contraenti esamina questa proposta e completa, se del 
 
 <sup>(5)</sup> In deroga al divieto di cui al paragrafo 1, possono essere rilasciati vapori se ciò si rende necessario a seguito di una permanenza inattesa in cantiere o di una riparazione imprevista sul posto ad opera di un cantiere o di altra ditta specializzata e i vapori non possono essere portati a un centro di ritiro. A tal fine vanno osservate le disposizioni dell’appendice III*a* A 4 e della sottosezione 7.2.3.7 dell’ADN[^annexu1-lvlu1-chapVI-601-1].
 
-[^annexu1-lvlu1-chapVI-601-1]: [RS 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
+[^annexu1-lvlu1-chapVI-601-1]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
 
 #### Art. 6.02
 
@@ -967,7 +965,9 @@ Questo divieto non si applica alle imbarcazioni passeggeri che:
 - – non sono soggette alle prescrizioni tecniche sull’obbligo di equipaggiamento con cisterne di raccolta delle acque di scarico domestiche o impianti di depurazione a bordo; o
 - – beneficiano di un’esenzione individuale da tale obbligo,
 
-<sup>(5)</sup> Il divieto ai sensi del paragrafo 3 non si applica alle imbarcazioni marittime ormeggiate nei porti di mare situati sulle vie navigabili marittime e che sottostanno alla Convenzione internazionale sulla prevenzione dell’inquinamento causato da navi (MARPOL).
+<sup>(5)</sup> Il divieto ai sensi del paragrafo 3 non si applica inoltre alle imbarcazioni passeggeri che dispongono di impianti di depurazione autorizzati che rispettano i valori limite e di controllo per gli impianti di cui all’appendice V.
+
+<sup>(6)</sup> Il divieto ai sensi del paragrafo 3 non si applica alle imbarcazioni marittime ormeggiate nei porti di mare situati sulle vie navigabili marittime e che sottostanno alla Convenzione internazionale sulla prevenzione dell’inquinamento causato da navi (MARPOL).
 
 [^annexu1-lvlu1-chapIX-901-1]: Direttiva (UE) 2016/1629 del Parlamento europeo e del Consiglio, del 14 settembre 2016, che stabilisce i requisiti tecnici per le navi adibite alla navigazione interna, che modifica la direttiva 2009/100/CE e che abroga la direttiva 2006/87/CE.
 
@@ -998,7 +998,7 @@ Il conduttore deve garantire che i rifiuti menzionati all’articolo 9.01 paragr
 
 <sup>(3)</sup> Gli esercenti di imbarcazioni passeggeri munite di impianti di depurazione a bordo giusta l’appendice V devono provvedere essi stessi in maniera adeguata al deposito regolamentare dei fanghi di depurazione contro certificato, in base alle disposizioni nazionali.
 
-<sup>(4)</sup> Il conduttore di un’imbarcazione passeggeri soggetta al divieto di immissione di acque di scarico domestiche ai sensi dell’articolo 9.01 paragrafo 3 deve garantire che le acque di scarico domestiche a bordo dell’imbarcazione siano raccolte in modo adeguato e depositate presso un centro o impianto di ritiro di cui all’articolo 8.02 paragrafo 3, se l’imbarcazione passeggeri non dispone di un impianto di depurazione a bordo giusta l’articolo 9.01 paragrafo 4.
+<sup>(4)</sup> Il conduttore di un’imbarcazione passeggeri soggetta al divieto di immissione di acque di scarico domestiche ai sensi dell’articolo 9.01 paragrafo 3 deve garantire che le acque di scarico domestiche a bordo dell’imbarcazione siano raccolte in modo adeguato e depositate presso un centro o impianto di ritiro di cui all’articolo 8.02 paragrafo 3, se l’imbarcazione passeggeri non dispone di un impianto di depurazione a bordo giusta l’articolo 9.01 paragrafo 5.
 
 <sup>(5)</sup> I rifiuti raccolti di cui al paragrafo 1 vanno sistemati a bordo in recipienti di raccolta appropriati muniti dei pittogrammi corrispondenti.
 
