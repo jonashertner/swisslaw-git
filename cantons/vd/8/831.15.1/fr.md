@@ -4,7 +4,7 @@ number: "831.15.1"
 title: "RÈGLEMENT du 28.01.2004 sur les agences d'assurances sociales (RAAS)"
 short: RAAS
 language: fr
-version: 2004-02-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/831.15.1?id=6187ed88-a6cd-4ead-a5dc-c1e1adbd7784"
 ---
 
@@ -233,9 +233,11 @@ arrête
 
 **Financement des frais de fonctionnement [^chapterChapitreVII-1]**
 
-<sup>1</sup> L'association RAS finance les frais de fonctionnement de ses agences et de l'agent régional, selon une clé de répartition financière établie par les communes membres.
+<sup>1</sup> Pour l'ensemble des missions communales, l'association RAS finance les frais de fonctionnement de ses agences et de l'agent régional, selon une clé de répartition financière établie par les communes membres.
 
-[^chapterChapitreVII-1]: Modif. 1 du 15.01.2025: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 2; entrée en vigueur au 01.01.2025; Introduction Art. 29a; entrée en vigueur au 01.01.2025
+<sup>2</sup> Pour l'ensemble des missions sociales cantonales, les frais de fonctionnement reconnus des agences et des agents régionaux sont, le cas échéant par l'intermédiaire du département, à la charge de l'Etat.
+
+[^chapterChapitreVII-1]: Modif. 1 du 15.01.2025: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 2; entrée en vigueur au 01.01.2025
 
 #### Art. 23
 
@@ -303,6 +305,14 @@ arrête
 <sup>1</sup> Les articles premier, 4, 5, 7 à 16, 18, 19 et 21 s'appliquent par analogie aux agences communales et intercommunales.
 
 ## Chapitre IX Dispositions finales
+
+#### Art. 29a
+
+**Disposition transitoire du règlement du 15 janvier 2025 [^chapterChapitreIX-1]**
+
+<sup>1</sup> La modification du 15 janvier 2025 de l'article 22 prend effet au 1er janvier 2025.
+
+[^chapterChapitreIX-1]: Modif. 1 du 15.01.2025: Introduction Art. 29a; entrée en vigueur au 01.01.2025
 
 #### Art. 30
 
