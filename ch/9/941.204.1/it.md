@@ -4,11 +4,11 @@ title: Ordinanza del DFGP del 10 settembre 2012 sulle indicazioni di quantità n
 short: OIQ-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/608"
 language: it
-version: 2020-01-01
+version: 2025-01-01
 adopted: 2012-09-10
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2012-608-20200101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-608-20250101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20200101/it"
 
 (OIQ-DFGP)
 
-del 10 settembre 2012 (Stato 1° gennaio 2020)
+del 10 settembre 2012 (Stato 1° gennaio 2025)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -38,8 +38,8 @@ ordina:
 
 Nei seguenti casi è determinante, in luogo della quantità netta:
 
-- a. nella vendita di merce sfusa pesata dal consumatore stesso (art. 5 cpv. 1 OIQ): il peso netto più il peso di un sacchetto o di un altro imballaggio, sempre che quest’ultimo non superi il peso di 2 g;
-- a<sup>bis</sup>.[^1-1] nella vendita di derrate alimentari sfuse che comprendono componenti incommestibili i quali non possono essere rimossi prima della pesatura senza danneggiare il prodotto, come ad esempio clip metalliche o spiedini: il peso netto più il peso dei menzionati componenti;
+- a.[^1-1] …
+- a<sup>bis</sup>.[^1-2] nella vendita di derrate alimentari sfuse che comprendono componenti incommestibili i quali non possono essere rimossi prima della pesatura senza danneggiare il prodotto, come ad esempio clip metalliche o spiedini: il peso netto più il peso dei menzionati componenti;
 - b. nella vendita di dolciumi sfusi quali caramelle o cioccolatini: il peso netto più il peso del foglio protettivo;
 - c.
 
@@ -51,12 +51,13 @@ Nei seguenti casi è determinante, in luogo della quantità netta:
 
 - d. nella vendita di formaggi offerti in cerchi di legno: il peso netto più il peso del cerchio di legno;
 - e. nella vendita di imballaggi preconfezionati di trucioli e granuli di legno: il peso commerciale secondo l’allegato 1;
-- f.[^1-2] nella vendita di imballaggi preconfezionati di liquidi contenenti ingredienti solidi, quali erbe aromatiche, spezie, frutta e pezzi di frutta: il volume del liquido compresi gli ingredienti.
+- f.[^1-3] nella vendita di imballaggi preconfezionati di liquidi contenenti ingredienti solidi, quali erbe aromatiche, spezie, frutta e pezzi di frutta: il volume del liquido compresi gli ingredienti.
 
 <sup>2</sup> In deroga all’articolo 3 capoverso 2 OIQ, per l’indicazione della quantità in volume di merce surgelata e congelata come il gelato, è determinante una temperatura inferiore a 0 °C.
 
-[^1-1]: Introdotta dal n. I dell’O del DFGP del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4545](https://fedlex.data.admin.ch/eli/oc/2014/756)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del DFGP dell’O dell’11 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
+[^1-1]: Abrogata dal n. I dell’O del DFGP dell’O dell’11 nov. 2019, con effetto dal 1° gen. 2025 ([RU 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
+[^1-2]: Introdotta dal n. I dell’O del DFGP del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4545](https://fedlex.data.admin.ch/eli/oc/2014/756)).
+[^1-3]: Nuovo testo giusta il n. I dell’O del DFGP dell’O dell’11 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
 
 #### Art. 2
 
@@ -199,7 +200,7 @@ Il peso commerciale degli imballaggi preconfezionati di granuli di legno («pell
 - – al peso a secco del contenuto effettivo compreso il supplemento corrispondente al tenore di umidità massimo 10 per cento, se sull’imballaggio preconfezionato è specificata la norma ÖNORM M 7135[^annex1-lvlu1-lvl2-1];
 - – al peso a secco del contenuto effettivo compreso il supplemento corrispondente a un tenore di umidità massimo del 12 per cento, se sull’imballaggio preconfezionato non è specificata la norma.
 
-[^annex1-lvlu1-lvl2-1]: ÖNORM M 7135:2000 11 01. La norma è ottenibile presso Austrian Standards, www.as-search.at, in tedesco (Presslinge aus naturbelassenem Holz oder naturbelassener Rinde – Pellets und Briketts – Anforderungen und Prüfbestimmungen) e in inglese (Compressed wood or compressed bark in natural state – Pellets and briquettes –Requirements and test specifications) oppure può essere consultata presso l’Istituto federale di metrologia (METAS), 3003 Berna-Wabern.
+[^annex1-lvlu1-lvl2-1]: ÖNORM M 7135:2000 11 01. La norma è ottenibile presso Austrian Standards, [www.as-search.at](http://www.as-search.at), in tedesco (Presslinge aus naturbelassenem Holz oder naturbelassener Rinde – Pellets und Briketts – Anforderungen und Prüfbestimmungen) e in inglese (Compressed wood or compressed bark in natural state – Pellets and briquettes –Requirements and test specifications) oppure può essere consultata presso l’Istituto federale di metrologia (METAS), 3003 Berna-Wabern.
 
 Allegato 2[^t-1]
 
@@ -213,67 +214,59 @@ Allegato 2[^t-1]
 
 La seguente frutta e verdura è ammessa in ogni caso alla vendita al pezzo:
 
-Frutti esotici
+Frutti esotici ananas
 
-- [tab] ananas
-- [tab] avocado
-- [tab] banana
-- [tab] pera nashi
-- [tab] carambola
-- [tab] cerimoia
-- [tab] granadiglia
-- [tab] melograno
-- [tab] caco
-- [tab] fico d’india (spine)
-- [tab] kiwi
-- [tab] kiwi-gold
-- [tab] noce di cocco
-- [tab] litchi
-- [tab] mango
-- [tab] papaia
-- [tab] caco persimon
-- [tab] pitaia
-- [tab] caco sharon
-- [tab] tamarindo
+- avocado
+- banana
+- pera nashi
+- carambola
+- cerimoia
+- granadiglia
+- melograno
+- caco
+- fico d’india (spine)
+- kiwi
+- kiwi-gold
+- noce di cocco
+- litchi
+- mango
+- papaia
+- caco persimon
+- pitaia
+- caco sharon
+- tamarindo
 
-Agrumi
+Agrumi pompelmo
 
-- [tab] pompelmo
-- [tab] lime
-- [tab] pomelo
-- [tab] sweetie
-- [tab] limone
+- lime
+- pomelo
+- sweetie
+- limone
 
-Erbe aromatiche
+Erbe aromatiche mazzo di erbe aromatiche
 
-- [tab] mazzo di erbe aromatiche
-- [tab] erbe aromatiche nel vaso
+- erbe aromatiche nel vaso
 
-Verdura
+Verdura Ortaggi da fiore quali carciofi, cavolfiori e broccoli
 
-- [tab] Ortaggi da fiore quali carciofi, cavolfiori e broccoli
-- [tab] Carote in mazzo
-- [tab] Cetriolo
-- [tab] Aglio
-- [tab] Cavolo rapa
-- [tab] Peperone
-- [tab] Caldo Verde portoghese
-- [tab] Grelos portoghese
-- [tab] Ravanelli in mazzo o al pezzo
-- [tab] Rafani neri, bianchi, rosa e altri rafani
-- [tab] Cespi di insalata, quali batavia, foglia di quercia, iceberg, indivia, lattuga cappuccio, lattuga, lollo
-- [tab] Granoturco dolce
-- [tab] Cipolle fresche in mazzo (3 pezzi)
-- [tab] Cipolle
-- [tab] Treccia di cipolle
+- Carote in mazzo
+- Cetriolo
+- Aglio
+- Cavolo rapa
+- Peperone
+- Caldo Verde portoghese
+- Grelos portoghese
+- Ravanelli in mazzo o al pezzo
+- Rafani neri, bianchi, rosa e altri rafani
+- Cespi di insalata, quali batavia, foglia di quercia, iceberg, indivia, lattuga cappuccio, lattuga, lollo
+- Granoturco dolce
+- Cipolle fresche in mazzo (3 pezzi)
+- Cipolle
+- Treccia di cipolle
 
-Zucca
+Zucca Zucca in varie forme
 
-- [tab] Zucca in varie forme
-
-Meloni
-
-- [tab] Melone, compresa l’anguria
+Meloni Melone, compresa l’anguria
 
 ### 2 Frutta e verdura destinata al consumo immediato e ammessa alla vendita al pezzo
 
@@ -299,7 +292,7 @@ Allegato 3[^t-2]
 
 - 1\.3 Per gli imballaggi preconfezionati con una quantità nominale di 2,5 kg, la merce deve essere distribuita equamente su almeno due setacci delle stesse dimensioni.
 
-[^annex3-lvlu1-lvl1-1]: Le raccomandazioni sono disponibili in francese sul sito www.oiml.org/fr/publications/recommandations. Informazioni sulle raccomandazioni OIML possono essere richieste all’Istituto federale di metrologia (METAS), 3003 Berna-Wabern.
+[^annex3-lvlu1-lvl1-1]: Le raccomandazioni sono disponibili in francese sul sito [www.oiml.org/fr/publications/recommandations](https://www.oiml.org/fr/publications/recommandations). Informazioni sulle raccomandazioni OIML possono essere richieste all’Istituto federale di metrologia (METAS), 3003 Berna-Wabern.
 
 ### 2 Procedura
 
@@ -322,7 +315,7 @@ Allegato 4[^t-3]
 
 Per determinare il peso netto occorre utilizzare setacci d’analisi secondo la raccomandazione dell’Organizzazione internazionale di metrologia legale (raccomandazione OIML) R 87 (edizione 2016)[^annex4-lvlu1-lvl1-1] con maglie larghe 2,5 mm e un filo spesso 1,0 mm.
 
-[^annex4-lvlu1-lvl1-1]: Le raccomandazioni sono disponibili in francese sul sito www.oiml.org/fr/publications/recommandations. Informazioni sulle raccomandazioni OIML possono essere richieste all’Istituto federale di metrologia (METAS), 3003 Bern-Wabern.
+[^annex4-lvlu1-lvl1-1]: Le raccomandazioni sono disponibili in francese sul sito [www.oiml.org/fr/publications/recommandations](https://www.oiml.org/fr/publications/recommandations). Informazioni sulle raccomandazioni OIML possono essere richieste all’Istituto federale di metrologia (METAS), 3003 Bern-Wabern.
 
 ### 2 Procedura
 
@@ -370,7 +363,7 @@ Allegato 5[^t-4]
 
 - 1 Il calo naturale di peso tra il momento determinante di cui all’articolo 24 capoverso 1 OIQ e il momento del controllo effettuato dal servizio competente conformemente all’articolo 34 OIQ è calcolato in base alla formula seguente, fatti salvi i numeri 3 e 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20200101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20250101/it/xml/image/image1.png)
 
 - G<sub>A</sub>: peso netto teorico al momento determinante
 - G<sub>G</sub>: peso dell’imballaggio preconfezionato n giorni dopo il momento determinante

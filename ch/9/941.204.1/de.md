@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 10. September 2012 über die Mengenangabe im Offe
 short: MeAV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/608"
 language: de
-version: 2020-01-01
+version: 2025-01-01
 adopted: 2012-09-10
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2012-608-20200101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-608-20250101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20200101/de"
 
 (MeAV-EJPD)
 
-vom 10. September 2012 (Stand am 1. Januar 2020)
+vom 10. September 2012 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -38,8 +38,8 @@ verordnet:
 
 In folgenden Fällen ist statt der Nettomenge folgende Menge massgebend:
 
-- a. bei Waren, die im Offenverkauf von der Konsumentin oder vom Konsumenten selbst abgewogen werden (Art. 5 Abs. 1 MeAV): das Nettogewicht zusammen mit dem Gewicht eines Schutzsacks oder einer anderen Verpackung, sofern dieses Gewicht nicht mehr als 2 g beträgt;
-- a<sup>bis</sup>.[^1-1] bei Lebensmitteln, die im Offenverkauf angeboten werden und produktionsbedingt Bestandteile wie Wurstklammern oder Spiesse umfassen, die nicht essbar sind und vor dem Abwägen nicht ohne Beeinträchtigung der Lebensmittel entfernt werden können: das Nettogewicht zusammen mit dem Gewicht dieser Bestandteile;
+- a.[^1-1] …
+- a<sup>bis</sup>.[^1-2] bei Lebensmitteln, die im Offenverkauf angeboten werden und produktionsbedingt Bestandteile wie Wurstklammern oder Spiesse umfassen, die nicht essbar sind und vor dem Abwägen nicht ohne Beeinträchtigung der Lebensmittel entfernt werden können: das Nettogewicht zusammen mit dem Gewicht dieser Bestandteile;
 - b. bei Süsswaren wie Bonbons oder Pralinen, die im Offenverkauf in Folie umhüllt angeboten werden: das Nettogewicht zusammen mit dem Gewicht der Folie;
 - c.
 
@@ -51,12 +51,13 @@ In folgenden Fällen ist statt der Nettomenge folgende Menge massgebend:
 
 - d. bei Käse, der von einem Holzreifen umfasst angeboten wird: das Nettogewicht zusammen mit dem Gewicht des Holzreifens;
 - e. bei Fertigpackungen mit Holzspänen und Holzgranulaten: das Handelsgewicht nach Anhang 1;
-- f.[^1-2] bei Fertigpackungen von Flüssigkeiten mit festen Zutaten wie Kräutern, Gewürzen, Früchten und Fruchtstücken: das Volumen von Flüssigkeit und Zutaten zusammen.
+- f.[^1-3] bei Fertigpackungen von Flüssigkeiten mit festen Zutaten wie Kräutern, Gewürzen, Früchten und Fruchtstücken: das Volumen von Flüssigkeit und Zutaten zusammen.
 
 <sup>2</sup> Abweichend von Artikel 3 Absatz 2 MeAV ist bei tiefgekühlten und gefrorenen Waren wie Speiseeis, deren Menge nach Volumen bestimmt wird, bei der Bestimmung der Menge eine Temperatur von weniger als 0 °C massgebend.
 
-[^1-1]: Eingefügt durch Ziff. I der V des EJPD vom 19. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4545](https://fedlex.data.admin.ch/eli/oc/2014/756)).
-[^1-2]: Fassung gemäss Ziff. I der V des EJPD vom 11. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
+[^1-1]: Aufgehoben durch Ziff. I der V des EJPD vom 11. Nov. 2019, mit Wirkung seit 1. Jan. 2025 ([AS 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
+[^1-2]: Eingefügt durch Ziff. I der V des EJPD vom 19. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4545](https://fedlex.data.admin.ch/eli/oc/2014/756)).
+[^1-3]: Fassung gemäss Ziff. I der V des EJPD vom 11. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
 
 #### Art. 2
 
@@ -199,7 +200,7 @@ Das Handelsgewicht von Fertigpackungen von Holzgranulaten (Pellets), die als Bre
 - – dem Trockengewicht der Füllmenge zuzüglich eines Feuchtigkeitszuschlags von höchstens 10 Prozent, wenn auf der Fertigpackung die Norm ÖNORM M 7135[^annex1-lvlu1-lvl2-1] angegeben ist;
 - – dem Trockengewicht der Füllmenge zuzüglich eines Feuchtigkeitszuschlags von höchstens 12 Prozent, wenn auf der Fertigpackung die Norm nicht angegeben ist.
 
-[^annex1-lvlu1-lvl2-1]: ÖNORM M 7135:2000 11 01. Die Norm ist erhältlich bei Austrian Standards (www.as-search.at) in Deutsch (Presslinge aus naturbelassenem Holz oder naturbelassener Rinde – Pellets und Briketts – Anforderungen und Prüfbestimmungen) und Englisch (Compressed wood or compressed bark in natural state – Pellets and briquettes – Requirements and test specifications) oder kann eingesehen werden beim Eidgenössischen Institut für Metrologie (METAS), 3003 Bern-Wabern.
+[^annex1-lvlu1-lvl2-1]: ÖNORM M 7135:2000 11 01. Die Norm ist erhältlich bei Austrian Standards ([www.as-search.at](http://www.as-search.at)) in Deutsch (Presslinge aus naturbelassenem Holz oder naturbelassener Rinde – Pellets und Briketts – Anforderungen und Prüfbestimmungen) und Englisch (Compressed wood or compressed bark in natural state – Pellets and briquettes – Requirements and test specifications) oder kann eingesehen werden beim Eidgenössischen Institut für Metrologie (METAS), 3003 Bern-Wabern.
 
 Anhang 2[^t-1]
 
@@ -213,67 +214,59 @@ Anhang 2[^t-1]
 
 Folgende Früchte und Gemüse dürfen in jedem Fall nach Stückzahl verkauft werden:
 
-Exoten
+Exoten Ananas
 
-- [tab] Ananas
-- [tab] Avocado
-- [tab] Banane
-- [tab] Birne Nashi
-- [tab] Carambole
-- [tab] Cherimoya
-- [tab] Granadilla
-- [tab] Granatapfel
-- [tab] Kaki
-- [tab] Kaktusfeige (Stacheln)
-- [tab] Kiwi
-- [tab] Kiwi-Gold
-- [tab] Kokosnuss
-- [tab] Litschi
-- [tab] Mango
-- [tab] Papaya
-- [tab] Persimon
-- [tab] Pitahaya
-- [tab] Sharon
-- [tab] Tamarillo
+- Avocado
+- Banane
+- Birne Nashi
+- Carambole
+- Cherimoya
+- Granadilla
+- Granatapfel
+- Kaki
+- Kaktusfeige (Stacheln)
+- Kiwi
+- Kiwi-Gold
+- Kokosnuss
+- Litschi
+- Mango
+- Papaya
+- Persimon
+- Pitahaya
+- Sharon
+- Tamarillo
 
-Zitrusfrüchte
+Zitrusfrüchte Grapefruit
 
-- [tab] Grapefruit
-- [tab] Limette
-- [tab] Pomelo
-- [tab] Sweetie
-- [tab] Zitrone
+- Limette
+- Pomelo
+- Sweetie
+- Zitrone
 
-Kräuter
+Kräuter Kräuter im Bund
 
-- [tab] Kräuter im Bund
-- [tab] Kräuter im Topf
+- Kräuter im Topf
 
-Gemüse
+Gemüse Blütengemüse wie Artischocken, Blumenkohl und Broccoli
 
-- [tab] Blütengemüse wie Artischocken, Blumenkohl und Broccoli
-- [tab] Karotten im Bund
-- [tab] Gurke
-- [tab] Knoblauch
-- [tab] Kohlrabi
-- [tab] Paprika (Peperoni)
-- [tab] Portugiesischer Caldo Verde
-- [tab] Portugiesischer Grelos
-- [tab] Radieschen im Bund oder einzeln
-- [tab] Schwarze, weisse, rosa und weitere Rettiche
-- [tab] Salatköpfe wie Batavia, Eichblatt, Eisberg, Endivien, Kopfsalat, Lattich, Lollo
-- [tab] Zuckermais
-- [tab] Frischzwiebeln im Bund (3 Stück)
-- [tab] Gemüsezwiebel
-- [tab] Zwiebelzopf
+- Karotten im Bund
+- Gurke
+- Knoblauch
+- Kohlrabi
+- Paprika (Peperoni)
+- Portugiesischer Caldo Verde
+- Portugiesischer Grelos
+- Radieschen im Bund oder einzeln
+- Schwarze, weisse, rosa und weitere Rettiche
+- Salatköpfe wie Batavia, Eichblatt, Eisberg, Endivien, Kopfsalat, Lattich, Lollo
+- Zuckermais
+- Frischzwiebeln im Bund (3 Stück)
+- Gemüsezwiebel
+- Zwiebelzopf
 
-Kürbis
+Kürbis Kürbis in verschiedenen Formen
 
-- [tab] Kürbis in verschiedenen Formen
-
-Melonen
-
-- [tab] Melone, einschliesslich Wassermelone
+Melonen Melone, einschliesslich Wassermelone
 
 ### 2 Für den sofortigen Verzehr zum Stückverkauf zugelassene Früchte und Gemüse
 
@@ -299,7 +292,7 @@ Anhang 3[^t-2]
 
 - 1\.3 Bei Fertigpackungen mit einer Nennfüllmenge von 2,5 kg und mehr muss die Ware gleichmässig auf mindestens zwei Siebe gleicher Dimension verteilt werden.
 
-[^annex3-lvlu1-lvl1-1]: Die Empfehlungen sind auf Französisch einsehbar unter www.oiml.org/fr/publications/recommandations. Auskünfte über OIML-Empfehlungen können beim Eidgenössischen Institut für Metrologie (METAS), 3003 Bern-Wabern angefordert werden.
+[^annex3-lvlu1-lvl1-1]: Die Empfehlungen sind auf Französisch einsehbar unter [www.oiml.org/fr/publications/recommandations](https://www.oiml.org/fr/publications/recommandations). Auskünfte über OIML-Empfehlungen können beim Eidgenössischen Institut für Metrologie (METAS), 3003 Bern-Wabern angefordert werden.
 
 ### 2 Vorgehen
 
@@ -322,7 +315,7 @@ Anhang 4[^t-3]
 
 Für die Bestimmung des Nettogewichts sind Analysensiebe nach der Empfehlung der Organisation Internationale de Métrologie Légale (OIML-Empfehlung) R 87 (Ausgabe 2016)[^annex4-lvlu1-lvl1-1] mit einer Maschenweite von 2,5 mm und einer Drahtdicke von 1,0 mm zu verwenden.
 
-[^annex4-lvlu1-lvl1-1]: Die Empfehlungen sind auf Französisch einsehbar unter www.oiml.org/fr/publications/recommandations. Auskünfte über OIML-Empfehlungen können beim Eidgenössischen Institut für Metrologie (METAS), 3003 Bern-Wabern angefordert werden.
+[^annex4-lvlu1-lvl1-1]: Die Empfehlungen sind auf Französisch einsehbar unter [www.oiml.org/fr/publications/recommandations](https://www.oiml.org/fr/publications/recommandations). Auskünfte über OIML-Empfehlungen können beim Eidgenössischen Institut für Metrologie (METAS), 3003 Bern-Wabern angefordert werden.
 
 ### 2 Vorgehen
 
@@ -370,7 +363,7 @@ Anhang 5[^t-4]
 
 - 1 Der Schwund zwischen dem massgebenden Zeitpunkt nach Artikel 24 Absatz 1 MeAV und dem Zeitpunkt der Kontrolle durch die zuständige Stelle nach Artikel 34 MeAV wird unter Vorbehalt der Ziffern 3 und 4 nach folgender Formel berücksichtigt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20200101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20250101/de/xml/image/image1.png)
 
 - G<sub>A</sub>: theoretisches Nettogewicht auf den massgebenden Zeitpunkt zurückgerechnet
 - G<sub>G</sub>: Gewicht der einzelnen Fertigpackung nach n Tagen nach dem massgebenden Zeitpunkt

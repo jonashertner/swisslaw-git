@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 10 septembre 2012 sur les déclarations de quantit�
 short: ODqua-DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/608"
 language: fr
-version: 2020-01-01
+version: 2025-01-01
 adopted: 2012-09-10
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-608-20200101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-608-20250101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/608/20200101/fr"
 
 (ODqua-DFJP)
 
-du 10 septembre 2012 (État le 1<sup>er</sup> janvier 2020)
+du 10 septembre 2012 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -38,8 +38,8 @@ arrête:
 
 Au lieu de la quantité nette, la quantité ci-après est déterminante dans les cas suivants:[^1-1]
 
-- a. pour les marchandises offertes dans la vente en vrac pesées par le consommateur (art. 5, al. 1, ODqua): le poids net plus le poids du sac ou autre emballage, pour autant que celui-ci ne dépasse pas 2 g;
-- a<sup>bis</sup>.[^1-2] pour les denrées alimentaires offertes dans la vente en vrac contenant des parties non comestibles pour des raisons liées à la production, qui ne peuvent pas être enlevées avant le pesage sans endommager la denrée alimentaire, telles que les agrafes de saucisses ou les pics: le poids net plus le poids de ces parties;
+- a.[^1-2] …
+- a<sup>bis</sup>.[^1-3] pour les denrées alimentaires offertes dans la vente en vrac contenant des parties non comestibles pour des raisons liées à la production, qui ne peuvent pas être enlevées avant le pesage sans endommager la denrée alimentaire, telles que les agrafes de saucisses ou les pics: le poids net plus le poids de ces parties;
 - b. pour les sucreries telles que les bonbons ou les pralinés offerts emballés dans la vente en vrac: le poids net plus le poids de l’emballage;
 - c.
 
@@ -51,13 +51,14 @@ Au lieu de la quantité nette, la quantité ci-après est déterminante dans les
 
 - d. pour le fromage entouré d’une écorce en bois: le poids net plus le poids de l’écorce;
 - e. pour les préemballages de copeaux ou de granulés de bois: le poids commercial défini à l’annexe 1;
-- f.[^1-3] pour les préemballages de liquides contenant des ingrédients solides, comme des herbes aromatiques, des épices, des fruits et des morceaux de fruits: le volume du liquide y compris les ingrédients.
+- f.[^1-4] pour les préemballages de liquides contenant des ingrédients solides, comme des herbes aromatiques, des épices, des fruits et des morceaux de fruits: le volume du liquide y compris les ingrédients.
 
 <sup>2</sup> En dérogation à la règle fixée à l’art. 3, al. 2, ODqua, pour les marchandises surgelées et congelées comme les crèmes glacées, dont la quantité est déterminée d’après le volume, la température de référence pour la détermination de la quantité doit être inférieure à 0 °C.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 11 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
-[^1-2]: Introduite par le ch. I de l’O du DFJP du 19 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4545](https://fedlex.data.admin.ch/eli/oc/2014/756)).
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 11 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
+[^1-2]: Abrogée par le ch. I de l’O du DFJP du 11 nov. 2019, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
+[^1-3]: Introduite par le ch. I de l’O du DFJP du 19 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4545](https://fedlex.data.admin.ch/eli/oc/2014/756)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du DFJP du 11 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4273](https://fedlex.data.admin.ch/eli/oc/2019/736)).
 
 #### Art. 2
 
@@ -126,7 +127,7 @@ Le nombre de pièces peut être déclaré comme quantité nominale en particulie
 Le nombre de pièces peut être déclaré comme quantité nominale sur les denrées alimentaires suivantes selon l’art. 4 de la loi du 20 juin 2014 sur les denrées alimentaires[^5-2] et sur les produits du tabac suivants selon l’art. 2, let. d, de l’ordonnance du 27 octobre 2004 sur le tabac[^5-3]:[^5-4]
 
 - a.[^5-5] fruits et légumes répertoriés à l’annexe 2, pour autant que le préemballage contienne au maximum trois pièces;
-- [tab] a<sup>bis</sup>.[^5-6] articles sucrés comme chewing-gums, bonbons à mâcher et mousses de confiserie, dont la quantité nominale est inférieure ou égale à 50 g;
+- a<sup>bis</sup>.[^5-6] articles sucrés comme chewing-gums, bonbons à mâcher et mousses de confiserie, dont la quantité nominale est inférieure ou égale à 50 g;
 - a<sup>ter</sup>.[^5-7] épices dont le nombre de pièces contenu dans un préemballage est important pour le consommateur, comme les gousses de vanille, les bâtons de cannelle et les noix muscades;
 - b. comprimés d’édulcorants;
 - c. additifs alimentaires telles que les préparations vitaminées ou minéralisées;
@@ -202,7 +203,7 @@ Le poids commercial des préemballages de granulés de bois (pellets) qui sont u
 - – au poids du contenu à sec, plus un supplément d’humidité de 10 % maximum, si la norme ÖNORM M 7135[^annex1-lvlu1-lvl2-1] est indiquée sur le préemballage;
 - – au poids du contenu à sec, plus un supplément d’humidité de 12 % maximum, si la norme susmentionnée n’est pas indiquée sur le préemballage.
 
-[^annex1-lvlu1-lvl2-1]: ÖNORM M 7135: 2000 11 01. Cette norme est disponible auprès de Austrian Standards, www.as-search.at, en allemand (Presslinge aus naturbelassenem Holz oder naturbelassener Rinde – Pellets und Bricketts – Anforderungen und Prüfbestimmungen) et en anglais (Compressed wood or compressed bark in natural state – Pellets and briquettes – Requirements and test specifications) ou peut être consultée auprès de l’Institut fédéral de métrologie (METAS), 3003 Berne-Wabern.
+[^annex1-lvlu1-lvl2-1]: ÖNORM M 7135: 2000 11 01. Cette norme est disponible auprès de Austrian Standards, [www.as-search.at](http://www.as-search.at), en allemand (Presslinge aus naturbelassenem Holz oder naturbelassener Rinde – Pellets und Bricketts – Anforderungen und Prüfbestimmungen) et en anglais (Compressed wood or compressed bark in natural state – Pellets and briquettes – Requirements and test specifications) ou peut être consultée auprès de l’Institut fédéral de métrologie (METAS), 3003 Berne-Wabern.
 
 Annexe 2[^t-1]
 
@@ -216,67 +217,59 @@ Annexe 2[^t-1]
 
 Les fruits et légumes ci-après peuvent dans tous les cas être vendus à la pièce:
 
-Fruits exotiques
+Fruits exotiques Ananas
 
-- [tab] Ananas
-- [tab] Avocat
-- [tab] Banane
-- [tab] Poire Nashi
-- [tab] Carambole
-- [tab] Cherimoya
-- [tab] Granadilla
-- [tab] Grenade
-- [tab] Kaki
-- [tab] Figue de Barbarie (piquants)
-- [tab] Kiwi
-- [tab] Kiwi-Gold
-- [tab] Noix de coco
-- [tab] Litchi
-- [tab] Mangue
-- [tab] Papaye
-- [tab] Persimon
-- [tab] Pitahaya
-- [tab] Sharon
-- [tab] Tamarillo
+- Avocat
+- Banane
+- Poire Nashi
+- Carambole
+- Cherimoya
+- Granadilla
+- Grenade
+- Kaki
+- Figue de Barbarie (piquants)
+- Kiwi
+- Kiwi-Gold
+- Noix de coco
+- Litchi
+- Mangue
+- Papaye
+- Persimon
+- Pitahaya
+- Sharon
+- Tamarillo
 
-Agrumes
+Agrumes Grapefruit
 
-- [tab] Grapefruit
-- [tab] Limette
-- [tab] Pomelo
-- [tab] Sweetie
-- [tab] Citron
+- Limette
+- Pomelo
+- Sweetie
+- Citron
 
-Herbes aromatiques
+Herbes aromatiques Herbes en botte
 
-- [tab] Herbes en botte
-- [tab] Herbes en pot
+- Herbes en pot
 
-Légumes
+Légumes Légumes-fleurs tels qu’artichauts, choux-fleurs et brocolis
 
-- [tab] Légumes-fleurs tels qu’artichauts, choux-fleurs et brocolis
-- [tab] Carottes en botte
-- [tab] Concombre
-- [tab] Ail
-- [tab] Chou-rave
-- [tab] Poivron
-- [tab] Caldo Verde portugais
-- [tab] Grelos portugais
-- [tab] Radis en botte ou à la pièce
-- [tab] Radis tels que radis noirs, blancs, roses
-- [tab] Salades telles que batavia, feuille de chêne, iceberg, chicorée frisée, laitue pommée, laitue romaine, lollo
-- [tab] Maïs doux
-- [tab] Oignons frais en botte (3 pièces)
-- [tab] Oignon
-- [tab] Tresse d’oignons
+- Carottes en botte
+- Concombre
+- Ail
+- Chou-rave
+- Poivron
+- Caldo Verde portugais
+- Grelos portugais
+- Radis en botte ou à la pièce
+- Radis tels que radis noirs, blancs, roses
+- Salades telles que batavia, feuille de chêne, iceberg, chicorée frisée, laitue pommée, laitue romaine, lollo
+- Maïs doux
+- Oignons frais en botte (3 pièces)
+- Oignon
+- Tresse d’oignons
 
-Courges
+Courges Courges de différentes formes
 
-- [tab] Courges de différentes formes
-
-Melons
-
-- [tab] Melon et pastèque
+Melons Melon et pastèque
 
 ### 2 Fruits et légumes destinés à la consommation immédiate admis pour la vente à la pièce
 
@@ -302,7 +295,7 @@ Annexe 3[^t-2]
 
 - 1\.3 Pour les préemballages dont la quantité nominale est égale à 2,5 kg et plus, la marchandise doit être répartie équitablement sur au moins deux tamis de même dimension.
 
-[^annex3-lvlu1-lvl1-1]: Les recommandations peuvent être consultées à l’adresse www.oiml.org/fr/publications/recommandations. Les informations concernant les recommandations de l’OIML peuvent être obtenues auprès de l’Institut fédéral de métrologie (METAS), 3003 Berne-Wabern.
+[^annex3-lvlu1-lvl1-1]: Les recommandations peuvent être consultées à l’adresse [www.oiml.org/fr/publications/recommandations](https://www.oiml.org/fr/publications/recommandations). Les informations concernant les recommandations de l’OIML peuvent être obtenues auprès de l’Institut fédéral de métrologie (METAS), 3003 Berne-Wabern.
 
 ### 2 Procédure
 
@@ -325,7 +318,7 @@ Annexe 4[^t-3]
 
 Pour déterminer le poids net, il convient d’utiliser un tamis d’une largeur de maille de 2,5 mm et d’une épaisseur de fil de 1,0 mm conforme à la recommandation OIML R 87 de l’Organisation internationale de métrologie légale (édition 2016)[^annex4-lvlu1-lvl1-1].
 
-[^annex4-lvlu1-lvl1-1]: Les recommandations peuvent être consultées à l’adresse www.oiml.org/fr/publications/recommandations. Les informations concernant les recommandations de l’OIML peuvent être obtenues auprès de l’Institut fédéral de métrologie (METAS), 3003 Berne-Wabern.
+[^annex4-lvlu1-lvl1-1]: Les recommandations peuvent être consultées à l’adresse [www.oiml.org/fr/publications/recommandations](https://www.oiml.org/fr/publications/recommandations). Les informations concernant les recommandations de l’OIML peuvent être obtenues auprès de l’Institut fédéral de métrologie (METAS), 3003 Berne-Wabern.
 
 ### 2 Procédure
 
@@ -373,7 +366,7 @@ Annexe 5[^t-4]
 
 - 1 La perte de poids entre le moment déterminant défini à l’art. 24, al. 1, ODqua et le moment du contrôle effectué par l’organe compétent selon l’art. 34 ODqua est prise en compte selon la formule ci-après, sous réserve des ch. 3 et 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20200101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/608/20250101/fr/xml/image/image1.png)
 
 - G<sub>A</sub>: poids net théorique au moment déterminant
 - G<sub>G</sub>: poids du préemballage après n jours après le moment déterminant
