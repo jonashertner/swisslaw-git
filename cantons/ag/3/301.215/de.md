@@ -4,13 +4,13 @@ number: "301.215"
 title: Pflegeverordnung
 short: PflV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-25
 adopted: 2012-11-21
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3634/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3634/pdf_file"
 
 (PflV)
 
-Vom 21.11.2012 (Stand 01.01.2024)
+Vom 21.11.2012 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -395,7 +395,9 @@ beschliesst:
 
 <sup>2</sup> Das Angebot orientiert sich am Bedarf und umfasst sowohl Langzeit- als auch Akutsituationen.
 
-<sup>3</sup> Das Angebot muss im Weiteren spezialisierte Pflegeangebote in den Bereichen Kinder-, Onkologie- und Psychiatriepflege sowie Palliative Care umfassen.
+<sup>3</sup> Das Angebot muss im Weiteren spezialisierte Pflegeangebote in den Bereichen Kinder- und Psychiatriepflege sowie Palliative Care umfassen.
+
+<sup>3<sup>bis</sup></sup> Die spezialisierte Palliative Care zu Hause ergänzt die grundversorgende Palliative Care und gewährleistet die pflegerische und medizinische Versorgung von Personen ausserhalb von stationären Strukturen, die sich aufgrund einer weit fortgeschrittenen, unheilbaren und progredienten Erkrankung mit komplexer und mehrheitlich stabiler Symptomatik in ihrer letzten Lebensphase befinden.
 
 <sup>4</sup> Schliessen Leistungserbringer mit Leistungsvereinbarung gemäss § 12 Abs. 1 lit. a und c PflG mit Organisationen für spezialisierte Pflegeangebote Leistungsvereinbarungen ab, gelten die entsprechenden Organisationen als Leistungserbringer mit Leistungsvereinbarung gemäss § 12b PflG.
 
@@ -415,6 +417,12 @@ beschliesst:
 - b) Unterstützung in der Behandlung und im Umgang mit Auswirkungen von Krankheiten und deren Therapien,
 - c) Beratung und Begleitung pflegender Angehöriger sowie Koordination der notwendigen Leistungen.
 
+<sup>3</sup> Das Mindestangebot im Bereich der spezialisierten Palliative Care zu Hause umfasst
+
+- a) palliativpflegerische und palliativärztliche Versorgung durch spezialisiertes Personal,
+- b) Beratung der Betroffenen, ihrer Bezugspersonen sowie der Fachpersonen der Grundversorgung,
+- c) Koordination der notwendigen Versorgungsleistungen.
+
 #### § 30
 
 **Zeitliches Mindestangebot**
@@ -428,6 +436,8 @@ beschliesst:
 
 - a) tagsüber während mindestens 12 Stunden an allen Wochentagen,
 - b) abends und nachts ausschliesslich bei bestehenden Betreuungsverhältnissen.
+
+<sup>3</sup> Leistungen der spezialisierten Palliative Care zu Hause sind während 24 Stunden an allen Wochentagen anzubieten.
 
 #### § 31
 
@@ -474,6 +484,8 @@ beschliesst:
 <sup>2<sup>ter</sup></sup> Die Regelung gemäss Absatz 1 gilt auch für Leistungserbringer für spezialisierte Pflegeleistungen gemäss § 28 Abs. 3.
 
 <sup>3</sup> Die Leistungserbringer sind verpflichtet, der Clearingstelle die monatliche Abrechnung der Restkosten bis zum Ende des jeweils folgenden Monats gemäss den Vorgaben des Departements einzureichen. Verspätete Abrechnungen sind zu begründen.
+
+<sup>4</sup> Erbringen Angehörige der anspruchsberechtigten Person als Angestellte eines Leistungserbringers gemäss § 12 Abs. 1 lit. a und c PflG Leistungen gemäss Art. 7 Abs. 2 lit. c Ziff. 1 KLV, halten die Leistungserbringer dies in der monatlichen Abrechnung der Restkosten fest.
 
 #### § 35
 
@@ -604,15 +616,11 @@ beschliesst:
 
 **Anerkannte Tagestaxen gemäss § 2 Abs. 1 lit. a Ziff. 1 ELG-AG**
 
-<sup>1</sup> Bei Personen, die dauernd oder längere Zeit in einem Heim oder Spital leben (in Heimen oder Spitälern lebende Personen), wird gemäss § 2 Abs.1 lit. a Ziff. 1 ELG-AG als Ausgabe eine Tagestaxe von maximal Fr. 152.– anerkannt.
+<sup>1</sup> Bei Personen, die dauernd oder längere Zeit in einem Heim oder Spital leben (in Heimen oder Spitälern lebende Personen), wird gemäss § 2 Abs. 1 lit. a Ziff. 1 ELG-AG als Ausgabe eine Tagestaxe von maximal Fr. 200.– anerkannt.
 
-<sup>2</sup> Personen, bei denen der anrechenbare Betrag gemäss Absatz 1 zur Begleichung der Kosten für Pension und Betreuung nicht ausreicht und deshalb eine Sozialhilfeabhängigkeit droht, können bei der Wohnsitzgemeinde einen begründeten Antrag auf Anerkennung einer Tagestaxe von maximal Fr. 190.– stellen. Der geprüfte Antrag und die entsprechend ermittelte Tagestaxe werden an die SVA Aargau weitergeleitet. Die Wohnsitzgemeinde kann auch von sich aus einen Antrag auf Erhöhung der anerkannten Tagestaxe stellen. Nach Gutheissung des Antrags durch die SVA Aargau erfolgt die Anpassung der Tagestaxe auf den Zeitpunkt der drohenden Sozialhilfeabhängigkeit. Sie gilt für mindestens 12 Monate.
+<sup>2</sup> …
 
-<sup>3</sup> Relevant bei der Prüfung des Antrags gemäss Absatz 2 sind namentlich:
-
-- a) der Pflegebedarf der anspruchsberechtigten Person,
-- b) das aktuelle Pflegeangebot,
-- c) das Betreutenwohl.
+<sup>3</sup> …
 
 #### § 43
 
