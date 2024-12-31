@@ -4,13 +4,13 @@ number: "130.100"
 title: Legge sulla cittadinanza del Cantone dei Grigioni
 short: LCCit
 language: it
-version: 2018-01-01
-corrected: 2018-02-01
-version_adopted: 2017-06-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2017-06-13
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/130.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2877/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3376/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2877/pdf_file"
 
 (LCCit)
 
-del 13.06.2017 (stato 01.01.2018)
+del 13.06.2017 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -55,7 +55,7 @@ decide:
 
 <sup>2</sup> Essi devono in particolare disciplinare le competenze, la procedura e gli emolumenti.
 
-<sup>3</sup> Si applica per analogia l'articolo 78 capoverso 3 della legge sui comuni[^3-1].
+<sup>3</sup> Si applica per analogia l'articolo 86 capoverso 2 della legge sui comuni[^3-1].
 
 [^3-1]: CSC [175.050](https://www.gr-lex.gr.ch/data/175.050/it)
 
@@ -96,7 +96,7 @@ decide:
 - a) dal rispetto della sicurezza e dell'ordine pubblici;
 - b) dal rispetto dei valori della Costituzione federale;
 - c) dalla facoltà di esprimersi nella vita quotidiana, oralmente e per iscritto, in una lingua cantonale;
-- d) dalla partecipazione sicura alla vita economica o all'acquisizione di una formazione, nonché da una situazione finanziaria ordinata; e
+- d) dalla partecipazione sicura alla vita economica o dall'acquisizione di una formazione, nonché da una situazione finanziaria ordinata; e
 - e) dall'incoraggiamento e dal sostegno all'integrazione del coniuge, del partner registrato o dei figli minorenni sui quali è esercitata l'autorità parentale.
 
 #### Art. 7
@@ -286,9 +286,9 @@ decide:
 
 <sup>1</sup> Le decisioni negative devono essere motivate.
 
-<sup>2</sup> Le decisioni del comune patriziale possono essere impugnate mediante ricorso al Tribunale amministrativo.
+<sup>2</sup> Le decisioni del comune patriziale possono essere impugnate mediante ricorso al Tribunale d'appello.
 
-<sup>3</sup> Le decisioni dell'Ufficio cantonale o del Dipartimento competente possono essere impugnate mediante ricorso amministrativo. Le decisioni del Governo possono essere impugnate mediante ricorso al Tribunale amministrativo.
+<sup>3</sup> Le decisioni dell'Ufficio cantonale o del Dipartimento competente possono essere impugnate mediante ricorso amministrativo. Le decisioni del Governo possono essere impugnate mediante ricorso al Tribunale d'appello.
 
 ## 5. Disposizioni finali
 

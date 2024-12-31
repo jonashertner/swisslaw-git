@@ -4,13 +4,13 @@ number: "130.100"
 title: Lescha dal dretg da burgais dal chantun Grischun
 short: LDBchant
 language: rm
-version: 2018-01-01
-corrected: 2018-02-01
-version_adopted: 2017-06-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2017-06-13
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/130.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2877/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2877/pdf_file"
 
 (LDBchant)
 
-dals 13-06-2017 (versiun dals 01-01-2018)
+dals 13-06-2017 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -55,7 +55,7 @@ concluda:
 
 <sup>2</sup> En spezial ston ellas reglar las cumpetenzas, la procedura e las taxas.
 
-<sup>3</sup> L'artitgel 78 alinea 3 da la lescha da vischnancas[^3-1] vegn applitgà correspundentamain.
+<sup>3</sup> L'artitgel 86 alinea 2 da la lescha da vischnancas[^3-1] vegn applitgà correspundentamain.
 
 [^3-1]: DG [175.050](https://www.gr-lex.gr.ch/data/175.050/rm)
 
@@ -286,9 +286,9 @@ concluda:
 
 <sup>1</sup> Decisiuns negativas ston vegnir motivadas.
 
-<sup>2</sup> Cunter decisiuns da la vischnanca burgaisa poi vegnir fatg recurs tar la dretgira administrativa.
+<sup>2</sup> Cunter decisiuns da la vischnanca burgaisa poi vegnir fatg recurs tar la Dretgira superiura.
 
-<sup>3</sup> Cunter decisiuns da l'uffizi u dal departament chantunal cumpetent poi vegnir fatg recurs administrativ. Cunter decisiuns da la regenza poi vegnir fatg recurs tar la dretgira administrativa.
+<sup>3</sup> Cunter decisiuns da l'uffizi u dal departament chantunal cumpetent poi vegnir fatg recurs administrativ. Cunter decisiuns da la Regenza poi vegnir fatg recurs tar la Dretgira superiura.
 
 ## 5. Disposiziuns finalas
 

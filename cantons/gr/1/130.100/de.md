@@ -4,13 +4,13 @@ number: "130.100"
 title: Bürgerrechtsgesetz des Kantons Graubünden
 short: KBüG
 language: de
-version: 2018-01-01
-corrected: 2018-02-01
-version_adopted: 2017-06-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2017-06-13
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/130.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2877/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2877/pdf_file"
 
 (KBüG)
 
-Vom 13.06.2017 (Stand 01.01.2018)
+Vom 13.06.2017 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -55,7 +55,7 @@ beschliesst:
 
 <sup>2</sup> Sie haben insbesondere die Zuständigkeiten, das Verfahren und die Gebühren zu regeln.
 
-<sup>3</sup> Artikel 78 Absatz 3 des Gemeindegesetzes[^3-1] findet entsprechende Anwendung.
+<sup>3</sup> Artikel 86 Absatz 2 des Gemeindegesetzes[^3-1] findet entsprechende Anwendung.
 
 [^3-1]: BR [175.050](https://www.gr-lex.gr.ch/data/175.050/de)
 
@@ -286,9 +286,9 @@ beschliesst:
 
 <sup>1</sup> Ablehnende Entscheide sind zu begründen.
 
-<sup>2</sup> Entscheide der Bürgergemeinde können mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
+<sup>2</sup> Entscheide der Bürgergemeinde können mit Beschwerde an das Obergericht weitergezogen werden.
 
-<sup>3</sup> Entscheide des zuständigen kantonalen Amtes oder Departements können mit Verwaltungsbeschwerde weitergezogen werden. Regierungsentscheide können mit Beschwerde beim Verwaltungsgericht angefochten werden.
+<sup>3</sup> Entscheide des zuständigen kantonalen Amtes oder Departements können mit Verwaltungsbeschwerde weitergezogen werden. Regierungsentscheide können mit Beschwerde beim Obergericht angefochten werden.
 
 ## 5. Schlussbestimmungen
 
