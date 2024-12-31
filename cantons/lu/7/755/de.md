@@ -4,13 +4,12 @@ number: "755"
 title: Strassengesetz
 short: StrG
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-04
+version: 2025-01-01
+version_adopted: 2023-06-19
 adopted: 1995-03-21
 in_force: 1996-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/755"
-pdf: "https://srl.lu.ch/api/de/versions/4181/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4332/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4181/pdf_file"
 
 (StrG)
 
-vom 21.03.1995 (Stand 01.03.2024)
+vom 21.03.1995 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -40,6 +39,32 @@ beschliesst:
 <sup>2</sup> Es regelt die Planung und Projektierung, den Bau, den Unterhalt, die Benützung und die Finanzierung der öffentlichen und privaten Strassen.
 
 <sup>3</sup> Für die Wege gelten das Wegrecht und die strassenpolizeilichen Bestimmungen dieses Gesetzes (§§ 84 ff.). Ist der Weg Bestandteil einer Strasse, ist das Strassengesetz anzuwenden.
+
+#### § 1a
+
+**Programm Gesamtmobilität**
+
+<sup>1</sup> Das Programm Gesamtmobilität umfasst die verkehrsmittelübergreifende Strategie sowie ein Massnahmenprogramm zur Steuerung und Entwicklung der Mobilität im Kanton Luzern (Massnahmenprogramm Mobilität).
+
+#### § 1b
+
+**Verkehrsmittelübergreifende Strategie**
+
+<sup>1</sup> In der verkehrsmittelübergreifenden Strategie werden die aktuellen Herausforderungen im Bereich der Mobilität aufgezeigt, die Leitlinien zur weiteren Entwicklung bestimmt und die mittel- und langfristigen verkehrspolitischen Ziele festgelegt.
+
+<sup>2</sup> Der Kantonsrat beschliesst die verkehrsmittelübergreifende Strategie mindestens vor jeder Totalrevision des kantonalen Richtplans. Haben sich die Verhältnisse geändert oder stellen sich neue Aufgaben, wird die Strategie nötigenfalls vorzeitig angepasst.
+
+<sup>3</sup> Die betroffenen Gemeinden, die regionalen Entwicklungsträger und die weiteren interessierten Kreise können sich vernehmen lassen.
+
+#### § 1c
+
+**Massnahmenprogramm Mobilität**
+
+<sup>1</sup> Das Massnahmenprogramm Mobilität enthält die Massnahmen des Kantons, die in der Programmperiode geplant, ausgeführt oder fortgesetzt werden. Diese umfassen insbesondere Bauvorhaben für die Verkehrsinfrastruktur, Planungsvorgaben für das Angebot des öffentlichen Verkehrs und weitere Massnahmen zur Steuerung der Gesamtmobilität. Die Massnahmen werden im Programm beschrieben und ihre mutmasslichen Kosten aufgeführt. Massnahmen können in Sammelrubriken zusammengefasst werden. Der Regierungsrat legt den Mindestinhalt in der Verordnung fest.
+
+<sup>2</sup> Die betroffenen Gemeinden, die regionalen Entwicklungsträger und die weiteren interessierten Kreise können sich vernehmen lassen.
+
+<sup>3</sup> Das Massnahmenprogramm Mobilität ist mindestens alle vier Jahre zu überarbeiten und dem Kantonsrat zur Beschlussfassung vorzulegen.
 
 #### § 2
 
@@ -518,25 +543,15 @@ beschliesst:
 
 #### § 45
 
-**Bauprogramm**
-
-<sup>1</sup> Der Kantonsrat beschliesst ein Bauprogramm für die Kantonsstrassen. Dieses bezeichnet alle Bauvorhaben, die in der Programmperiode geplant, ausgeführt oder fortgesetzt werden sollen.
-
-<sup>2</sup> Das Bauprogramm bezeichnet anhand von Übersichtsplänen und Beschreibungen die Linienführung, den Ausbaustandard in den Grundzügen und die mutmasslichen Kosten der Bauvorhaben. Kleinere Bauvorhaben können in Sammelrubriken zusammengefasst werden.
-
-<sup>3</sup> Im Besonderen stellt das Bauprogramm die Umsetzung der im kantonalen Radroutenkonzept 1994 aufgezeigten Massnahmen sicher, sodass die darin enthaltenen Radwege bis Ende 2013 zu 90 Prozent ihrer Gesamtlänge realisiert sind. Die Prioritäten richten sich nach den Kriterien des Konzeptes. Für die Radfahrerinnen und Radfahrer sind damit sichere, zusammenhängende, direkte und attraktive Pendlerverbindungen, Schul- und Arbeitswege zu gestalten.
-
-<sup>4</sup> Die betroffenen Gemeinden und die regionalen Entwicklungsträger können sich vernehmen lassen; dabei können weitere Interessierte über ihre Gemeinden Vorschläge und Anregungen einbringen. Diese Möglichkeit ist von der Gemeinde auf geeignete Weise bekannt zu geben.
-
-<sup>5</sup> Das Bauprogramm ist mindestens alle vier Jahre zu überarbeiten. Allfällige Änderungen oder Ergänzungen sind neu zu beschliessen.
+**…**
 
 #### § 46
 
 **Baubeschluss**
 
-<sup>1</sup> Gestützt auf das Bauprogramm beschliesst der Regierungsrat oder, bei vereinfachten Projektbewilligungsverfahren, das zuständige Departement im Rahmen der verfügbaren Kredite die einzelnen Bauvorhaben. Erreichen die damit bewilligten Kosten die Höhe von 3 Millionen Franken, ist dafür der Kantonsrat zuständig.
+<sup>1</sup> Der Regierungsrat oder, bei vereinfachten Projektbewilligungsverfahren, das zuständige Departement beschliesst im Rahmen der verfügbaren Kredite die im Massnahmenprogramm Mobilität enthaltenen einzelnen Bauvorhaben an Kantonsstrassen. Erreichen die damit bewilligten Kosten die Höhe von 3 Millionen Franken, ist dafür der Kantonsrat zuständig.
 
-<sup>2</sup> Wird ein Bauvorhaben aufgeteilt, sind die Kosten des im Bauprogramm beschriebenen Projekts für die Baubeschlusskompetenz massgebend.
+<sup>2</sup> Wird ein Bauvorhaben aufgeteilt, sind die Kosten des im Massnahmenprogramm Mobilität beschriebenen Projekts für die Baubeschlusskompetenz massgebend.
 
 <sup>3</sup> Der Regierungsrat räumt den Gemeinden vor dem Baubeschluss die Möglichkeit ein, sich vernehmen zu lassen.
 
@@ -1340,6 +1355,12 @@ beschliesst:
 **Beiträge**
 
 <sup>1</sup> Unter dem alten Recht von der zuständigen Behörde festgesetzte und zugesicherte Beiträge (§§ 34, 39–42, 46, 50, 54–56 des Strassengesetzes vom 15. September 1964) sind auch nach Inkrafttreten dieses Gesetzes auszurichten, sofern innert vier Jahren seit Rechtskraft des Beitragsentscheids mit dem Bau der Strasse begonnen wird. Der Regierungsrat kann diese Frist in begründeten Fällen erstrecken.
+
+#### § 112a
+
+**Übergangsbestimmung zur Änderung vom 19. Juni 2023**
+
+<sup>1</sup> Ist bis Ende 2026 das Massnahmenprogramm Mobilität gemäss § 1c noch nicht beschlossen, so bleibt bis zu dessen Beschluss für die Kantonsstrassen die Planung gemäss dem Bauprogramm 2023–2026 gültig.
 
 #### § 113
 
