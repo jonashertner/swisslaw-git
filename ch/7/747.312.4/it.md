@@ -3,26 +3,27 @@ sr: "747.312.4"
 title: Ordinanza del 14 dicembre 2007 sugli emolumenti nella navigazione marittima
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/29"
 language: it
-version: 2009-07-01
+version: 2025-01-01
 adopted: 2007-12-14
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/29/20090701/it/xml/fedlex-data-admin-ch-eli-cc-2008-29-20090701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/29/20090701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/29/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-29-20250101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/29/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli emolumenti nella navigazione marittima
 
-del 14 dicembre 2007 (Stato 1° luglio 2009)
+del 14 dicembre 2007 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 11 della legge federale del 23 settembre 1953[^ingress-1] sulla navigazione marittima sotto bandiera svizzera (LNM),
+visto l’articolo 11 della legge federale del 23 settembre 1953[^ingress-1] sulla navigazione marittima sotto bandiera svizzera,[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 566](https://fedlex.data.admin.ch/eli/oc/2024/566)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -56,15 +57,15 @@ Chi occasiona una decisione o domanda una prestazione ai sensi dell’articolo 1
 
 <sup>3</sup> Per le decisioni e le prestazioni che su richiesta sono eseguite urgentemente o fuori dall’orario normale di lavoro, gli Uffici e le rappresentanze possono riscuotere supplementi fino al 30 per cento dell’emolumento.
 
-[^4-1]: Nuovo testo giusta il n. II dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^4-1]: Nuovo testo giusta la cifra II dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
 #### Art. 5
 
 **Esborsi**
 
-Sono considerati esborsi, oltre ai costi di cui all’articolo 6 OgeEm[^5-1]3, anche i costi delle pubblicazioni.
+Sono considerati esborsi, oltre ai costi di cui all’articolo 6 OgeEm[^5-1], anche i costi delle pubblicazioni.
 
-[^5-1]: <sup>3</sup> [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^5-1]: RS **172.041**
 
 #### Art. 6
 
@@ -76,61 +77,72 @@ Gli Uffici e le rappresentanze possono, su domanda, ridurre o condonare gli emol
 
 #### Art. 7
 
-**Registrazione di una nave**
+**Emolumento di bandiera per le navi svizzere**[^7-1]
 
-<table>
-<tr><th></th><th></th><th>Fr.</th></tr>
-<tr><td>1.</td><td>Rilascio di dichiarazioni di conformità ai sensi dell’articolo 25 (proprietario), dell’articolo 27 capoverso 3 (vendita di navi ai pubblici incanti) o dell’articolo 37 capoverso 2 (acquirente in caso di trasferimento della proprietà) LNM:</td><td></td></tr>
-<tr><td></td><td>a. per la prima dichiarazione b. per ogni ulteriore dichiarazione, per lo stesso proprietario o acquirente</td><td>900 ⅔ dell’emolumento sopra menzionato</td></tr>
-<tr><td>2.</td><td>Concessione di un’autorizzazione di ammissione alla navigazione (art. 30 cpv. 1 LNM)</td><td>250</td></tr>
-<tr><td>3.</td><td>Approvazione del nome di una nave (art. 32 cpv. 2 LNM)</td><td>50</td></tr>
-<tr><td>4.</td><td>Cambiamento del nome di una nave (art. 32 cpv. 2 LNM)</td><td>150</td></tr>
-<tr><td>5.</td><td>Esame delle condizioni per un armatore non proprietario (art. 46 cpv. 1 LNM):</td><td></td></tr>
-<tr><td></td><td>a. per il primo esame b. per ogni ulteriore esame a favore dello stesso armatore</td><td>750 ⅔ dell’emolumento sopra menzionato</td></tr>
-<tr><td>6.</td><td>Rilascio di una dichiarazione ai sensi dell’articolo 29 capoverso 2 LNM:</td><td></td></tr>
-<tr><td></td><td>a. per una persona fisica b. per una persona giuridica</td><td>250 450</td></tr>
-<tr><td>7.</td><td>Rilascio di dichiarazioni ai sensi dell’articolo 37 capoverso 3 (creditore ipotecario) o capoverso 4 (usufruttuario) LNM:</td><td></td></tr>
-<tr><td></td><td>a. per la prima dichiarazione b. per ogni dichiarazione ulteriore per lo stesso creditore o usufruttuario</td><td>450 ⅔ dell’emolumento sopra menzionato</td></tr>
-<tr><td>8.</td><td>Rilascio di un atto di nazionalità con una copia per l’armatore (art. 42 cpv. 1 LNM):</td><td></td></tr>
-<tr><td></td><td>a. emolumento di base b. supplemento per ogni anno o frazione di anno di validità</td><td>500 200</td></tr>
-<tr><td>9.</td><td>Dichiarazione di annullamento di un atto di nazionalità (art. 43 cpv. 3 LNM)</td><td>200</td></tr>
-<tr><td>10.</td><td>Sostituzione di un atto di validità (art. 43 cpv. 4 LNM)</td><td>500</td></tr>
-</table>
+<sup>1</sup> Una volta all’anno le navi svizzere pagano all’Ufficio svizzero della navigazione marittima un emolumento di bandiera forfettario che copre tutte le prestazioni ordinarie dell’Ufficio svizzero della navigazione marittima per le navi svizzere.
+
+<sup>2</sup>
+
+L’emolumento forfettario annuale è riscosso la prima volta *pro rata temporis* al momento della registrazione, poi all’inizio di ogni anno civile. L’emolumento è determinato in funzione dell’età della nave. Per determinare l’età della nave fa stato la data in cui la chiglia è stata impostata. L’emolumento forfettario annuale ammonta:
+
+- a.
+
+  per le navi, escluse le navi passeggeri:
+
+  - 1\. di età inferiore a cinque anni: a 10 000 franchi,
+  - 2\. di età superiore o uguale a cinque anni: a 12 000 franchi;
+
+- b.
+
+  per le navi passeggeri:
+
+  - 1\. di età inferiore a cinque anni: a 13 000 franchi,
+  - 2\. di età superiore o uguale a cinque anni: a 15 000 franchi.
+
+<sup>3</sup> Se una nave è sottoposta a più di un fermo nell’arco di tre anni, a causa del soprappiù eccezionale di lavoro l’emolumento forfettario annuale aumenta di 2000 franchi nei due anni successivi.
+
+<sup>4</sup> Un ulteriore soprappiù eccezionale di lavoro, segnatamente in seguito a fermi che comportano un’ispezione straordinaria da parte dello Stato di bandiera, a casi di pirateria o ad avarie, è calcolato ai sensi dell’articolo 4 capoverso 2.
+
+<sup>5</sup> Nel caso in cui una persona fisica, una società commerciale o una persona giuridica registri una nave per uno scopo previsto dall’articolo 35 capoverso 1 della legge sulla navigazione marittima, gli emolumenti forfettari annuali possono, su domanda, essere ridotti o condonati.
+
+[^7-1]: Nuovo testo giusta la cifra I della O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 566](https://fedlex.data.admin.ch/eli/oc/2024/566)).
 
 #### Art. 8
 
-**Aliquote degli emolumenti per altre prestazioni**
+**Aliquote degli emolumenti per altre prestazioni**[^8-1]
+
+Rilascio di libretti di navigazione (art. 66 della legge sulla navigazione marittima):
 
 <table>
-<tr><td></td><td></td><td>Fr.</td></tr>
-<tr><td>1.</td><td>Estratti dai giornali di bordo o copie dei processi verbali, dei rapporti o di altri documenti compilati dal capitano o dai suoi subordinati (art. 58 cpv. 3 LNM): se questa formalità necessita:</td><td></td></tr>
-<tr><td></td><td>a. meno di mezz’ora, l’emolumento ammonta a b. più di mezz’ora, l’emolumento è calcolato</td><td>50 secondo il tempo impiegato</td></tr>
-<tr><td>2.</td><td>Rilascio di certificati di idoneità (art. 62 cpv. 2 LNM):</td><td></td></tr>
-<tr><td></td><td>a. per ogni certificato definitivo b. per ogni certificato provvisorio</td><td>50 50</td></tr>
-<tr><td>3.</td><td>Rilascio di libretti di navigazione (art. 66 LNM):</td><td></td></tr>
-<tr><td></td><td>a. primo rilascio per titolari che lavorano su una nave svizzera b. rilascio per titolari che non lavorano su una nave svizzera c. sostituzione del libretto</td><td>gratuito 50 50</td></tr>
+<tr><td>1.</td><td>rilascio a titolari che non lavorano su una nave svizzera</td><td>150</td></tr>
+<tr><td>2.</td><td>sostituzione del libretto</td><td>50</td></tr>
 </table>
+
+[^8-1]: Nuovo testo giusta la cifra I della O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 566](https://fedlex.data.admin.ch/eli/oc/2024/566)).
 
 #### Art. 8a
 
 **Emolumenti per prestazioni di servizi di cui all’ordinanza del 15 marzo 1971[^8a-2] sugli yacht marittimi**[^8a-1]
 
 <table>
-<tr><th></th><th></th><th></th><th>Fr.</th></tr>
-<tr><td>1.</td><td>Esame delle condizioni circa l’immatricolazione d’uno yacht</td><td></td><td>500</td></tr>
-<tr><td>2.</td><td>Immatricolazione d’uno yacht</td><td></td><td>300</td></tr>
-<tr><td>3.</td><td>Rilascio di un certificato di bandiera di una durata di validità di tre anni o di un suo duplicato</td><td></td><td>450</td></tr>
-<tr><td>4.</td><td>Proroga di un certificato di bandiera, per ogni anno</td><td></td><td>150</td></tr>
-<tr><td>5.</td><td>Esame delle condizioni d’ammissione di un’imbarcazione</td><td></td><td>300</td></tr>
-<tr><td>6.</td><td>Rilascio di un’attestazione di bandiera di una durata di validità di tre anni o di un suo duplicato</td><td></td><td>300</td></tr>
-<tr><td>7.</td><td>Proroga di un’attestazione di bandiera, per ogni anno</td><td></td><td>100</td></tr>
-<tr><td>8.</td><td>Modifica di un certificato di bandiera o di un’attestazione di bandiera</td><td></td><td>100</td></tr>
-<tr><td>9.</td><td>Rilascio di un certificato di cancellazione o di un altro tipo di attestazione</td><td></td><td>100</td></tr>
-<tr><td>10.</td><td>Riconoscimento di un ente esaminatore di cui all’articolo 19 capoverso 2</td><td></td><td>3000</td></tr>
+<tr><th colspan="2"></th><th>Fr</th></tr>
+<tr><td>1.</td><td>Esame delle condizioni circa l’immatricolazione d’uno yacht</td><td>500</td></tr>
+<tr><td>2.</td><td>Immatricolazione d’uno yacht</td><td>300</td></tr>
+<tr><td>3.[^8a-3]</td><td>Rilascio di un certificato di bandiera di una durata di validità di cinque anni</td><td>750</td></tr>
+<tr><td>4.</td><td>Proroga di un certificato di bandiera, per ogni anno</td><td>150</td></tr>
+<tr><td>5.</td><td>Esame delle condizioni d’ammissione di un’imbarcazione</td><td>300</td></tr>
+<tr><td>6.[^8a-4]</td><td>Rilascio di un’attestazione di bandiera di una durata di validità di cinque anni</td><td>500</td></tr>
+<tr><td>7.</td><td>Proroga di un’attestazione di bandiera, per ogni anno</td><td>100</td></tr>
+<tr><td>8.[^8a-5]</td><td>Modifica o rilascio di un duplicato di un certificato di bandiera o di un’attestazione di bandiera</td><td>100</td></tr>
+<tr><td>9.</td><td>Rilascio di un certificato di cancellazione o di un altro tipo di attestazione</td><td>100</td></tr>
+<tr><td>10.</td><td>Riconoscimento di un ente esaminatore di cui all’articolo 19 capoverso 2</td><td>3000</td></tr>
 </table>
 
-[^8a-1]: Introdotto dal n. II dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
+[^8a-1]: Introdotto dalla cifra II dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 [^8a-2]: [RS 747.321.7](https://fedlex.data.admin.ch/eli/cc/1971/327_331_331)
+[^8a-3]: Nuovo testo giusta la cifra I della O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 566](https://fedlex.data.admin.ch/eli/oc/2024/566)).
+[^8a-4]: Nuovo testo giusta la cifra I della O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 566](https://fedlex.data.admin.ch/eli/oc/2024/566)).
+[^8a-5]: Nuovo testo giusta la cifra I della O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 566](https://fedlex.data.admin.ch/eli/oc/2024/566)).
 
 ## Sezione 3: Emolumenti riscossi dall’Ufficio svizzero del registro del naviglio
 
@@ -149,12 +161,13 @@ Gli Uffici e le rappresentanze possono, su domanda, ridurre o condonare gli emol
 **Emolumenti di radiazione**
 
 <table>
-<tr><td></td><td></td><td>Fr.</td></tr>
-<tr><td>1.</td><td>Radiazione di una nave dal mastro nei casi previsti dall’articolo 36 LNM o dall’articolo 20 della legge federale del 28 settembre 1923[^10-1]4 sul registro del naviglio</td><td>200</td></tr>
-<tr><td>2.</td><td>Comunicazioni previste dall’articolo 39 LNM e dagli articoli 19 capoverso 2 e 20 capoversi 2 e 3 della legge federale del 28 settembre 1923 sul registro del naviglio, per ogni comunicazione</td><td>20</td></tr>
+<tr><th colspan="2"></th><th>Fr.</th></tr>
+<tr><td>1.</td><td>Radiazione di una nave dal mastro nei casi previsti dall’articolo 36 della legge sulla navigazione marittima[^10-1] o dall’articolo 20 della legge federale del 28 settembre 1923[^10-2] sul registro del naviglio</td><td>200</td></tr>
+<tr><td>2.</td><td>Comunicazioni previste dall’articolo 39 della legge sulla navigazione marittima e dagli articoli 19 capoverso 2 e 20 capoversi 2 e 3 della legge federale del 28 settembre 1923 sul registro del naviglio, per ogni comunicazione</td><td>20</td></tr>
 </table>
 
-[^10-1]: <sup>4</sup> [RS 747.11](https://fedlex.data.admin.ch/eli/cc/40/62_63_63)
+[^10-1]: Nuova espressione giusta la cifra I della O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 566](https://fedlex.data.admin.ch/eli/oc/2024/566)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^10-2]: [RS 747.11](https://fedlex.data.admin.ch/eli/cc/40/62_63_63)
 
 #### Art. 11
 
@@ -170,7 +183,7 @@ Gli Uffici e le rappresentanze possono, su domanda, ridurre o condonare gli emol
 **Altre iscrizioni, estratti del registro e avvisi**
 
 <table>
-<tr><td></td><td></td><td>Fr.</td></tr>
+<tr><th colspan="2"></th><th>Fr.</th></tr>
 <tr><td>1.</td><td>Per ogni iscrizione menzionata come segue:</td><td>50</td></tr>
 <tr><td></td><td>a. annotazione di diritti personali, limitazioni del diritto di disporre e iscrizioni provvisorie; b. menzione; c. usufrutto; d. modifica del pegno, del grado o del credito garantito, cancellazione dell’ipoteca, modificazione della descrizione della nave, cancellazione o modificazione d’iscrizioni conformemente alle lettere a–c; e. cambiamento del nome della nave o del proprietario (senza trasferimento della proprietà); f. costituzione, modificazione o cancellazione di un’ipoteca di un usufrutto sul credito garantito di un’ipoteca o di un posto vacante;</td><td></td></tr>
 <tr><td>2.</td><td>Estratti del registro e certificati, per ogni nave</td><td>30</td></tr>
@@ -184,12 +197,12 @@ Gli Uffici e le rappresentanze possono, su domanda, ridurre o condonare gli emol
 
 Le iscrizioni seguenti sono gratuite:
 
-- a. radiazioni di menzioni (art. 19 e 20 della LF del 28 set. 1923[^13-1]5 sul registro del naviglio);
+- a. radiazioni di menzioni (art. 19 e 20 della LF del 28 set. 1923[^13-1] sul registro del naviglio);
 - b. radiazione di una nave per ordine del Consiglio federale;
 - c. blocco del registro per ordine del Consiglio federale;
-- d. tutte le iscrizioni, modificazioni e radiazioni d’ufficio, eccetto i casi di cui all’articolo 36 LNM e all’articolo 20 della legge federale del 28 settembre 1923 sul registro del naviglio.
+- d. tutte le iscrizioni, modificazioni e radiazioni d’ufficio, eccetto i casi di cui all’articolo 36 della legge sulla navigazione marittima e all’articolo 20 della legge federale del 28 settembre 1923 sul registro del naviglio.
 
-[^13-1]: <sup>5</sup> [RS 747.11](https://fedlex.data.admin.ch/eli/cc/40/62_63_63)
+[^13-1]: [RS 747.11](https://fedlex.data.admin.ch/eli/cc/40/62_63_63)
 
 ## Sezione 4: Emolumenti delle rappresentanze diplomatiche e consolari svizzere
 
@@ -198,14 +211,15 @@ Le iscrizioni seguenti sono gratuite:
 **Navi**
 
 <table>
-<tr><td></td><td colspan="2"></td><td>Fr.</td></tr>
-<tr><td>1.</td><td colspan="2">Proroga della validità di un atto di nazionalità (art. 43 cpv. 2 LNM):</td><td></td></tr>
-<tr><td></td><td colspan="2">per anno o frazione d’anno di validità</td><td>200</td></tr>
-<tr><td>2.</td><td colspan="2">Modificazioni di un atto di validità (art. 43 cpv. 2 LNM)</td><td>100</td></tr>
-<tr><td>3.</td><td colspan="2">Attestazione relativa a un rapporto del capitano o a un estratto dai giornali di bordo, per ogni copia attestata</td><td>30</td></tr>
-<tr><td>4.</td><td colspan="2">Stesura del processo verbale in caso di relazione di mare (art. 120 LNM)</td><td></td></tr>
-<tr><td></td><td>a. originale: se questa formalità necessita: – meno di un’ora – più di un’ora, l’emolumento è calcolato [tab] b. copie legalizzate, per copia</td><td colspan="2">60 secondo il tempo impiegato 30</td></tr>
-<tr><td>5.</td><td colspan="2">Timbratura di un nuovo giornale di bordo, per ogni libro</td><td>20</td></tr>
+<tr><th colspan="2"></th><th>Fr.</th></tr>
+<tr><td>1.</td><td>Proroga della validità di un atto di nazionalità (art. 43 cpv. 2 della legge sulla navigazione marittima): per anno o frazione d’anno di validità</td><td>200</td></tr>
+<tr><td>2.</td><td>Modificazioni di un atto di validità (art. 43 cpv. 2 della legge sulla navigazione marittima)</td><td>100</td></tr>
+<tr><td>3.</td><td>Attestazione relativa a un rapporto del capitano o a un estratto dai giornali di bordo, per ogni copia attestata</td><td>30</td></tr>
+<tr><td>4.</td><td>Stesura del processo verbale in caso di relazione di mare (art. 120 della legge sulla navigazione marittima) a. originale: se questa formalità necessita:</td><td></td></tr>
+<tr><td></td><td>– meno di un’ora</td><td>60</td></tr>
+<tr><td></td><td>– più di un’ora, l’emolumento è calcolato</td><td>secondo il tempo impiegato</td></tr>
+<tr><td></td><td>b. copie legalizzate, per copia</td><td>30</td></tr>
+<tr><td>5.</td><td>Timbratura di un nuovo giornale di bordo, per ogni libro</td><td>20</td></tr>
 </table>
 
 #### Art. 15
@@ -213,10 +227,9 @@ Le iscrizioni seguenti sono gratuite:
 **Equipaggio**
 
 <table>
-<tr><td></td><td></td><td>Fr.</td></tr>
-<tr><td>1.</td><td>Iscrizione di un capitano o di un cambiamento di capitano nel ruolo</td><td></td></tr>
-<tr><td></td><td>d’equipaggio</td><td>30</td></tr>
-<tr><td>2.</td><td>Arruolamento, cessazione del rapporto d’arruolamento e trasferimento (art. 65 LNM), per marittimo</td><td>10</td></tr>
+<tr><th colspan="2"></th><th>Fr.</th></tr>
+<tr><td>1.</td><td>Iscrizione di un capitano o di un cambiamento di capitano nel ruolo d’equipaggio</td><td>30</td></tr>
+<tr><td>2.</td><td>Arruolamento, cessazione del rapporto d’arruolamento e trasferimento (art. 65 della legge sulla navigazione marittima), per marittimo</td><td>10</td></tr>
 <tr><td>3.</td><td>Se, su domanda della direzione della nave, l’arruolamento di cui al numero 2 è fatto a bordo, è riscosso un emolumento supplementare per il viaggio (andata e ritorno) secondo il tempo impiegato.</td><td></td></tr>
 </table>
 
@@ -226,20 +239,20 @@ Le iscrizioni seguenti sono gratuite:
 
 Le prestazioni seguenti sono gratuite:
 
-- a. ricevimento delle comunicazioni di arrivo e di partenza di una nave ed esame dei documenti di bordo (art. 59 LNM);
+- a. ricevimento delle comunicazioni di arrivo e di partenza di una nave ed esame dei documenti di bordo (art. 59 della legge sulla navigazione marittima);
 - b. vidimazione dei giornali di bordo dopo esame;
 - c. vidimazione dei contratti di arruolamento, in quanto essa sia fatta in occasione delle formalità di arruolamento;
-- d. arbitrato in caso di contestazioni concernenti l’esecuzione del contratto d’arruolamento (art. 81 LNM);
+- d. arbitrato in caso di contestazioni concernenti l’esecuzione del contratto d’arruolamento (art. 81 della legge sulla navigazione marittima);
 - e. ricevimento dei reclami di marittimi e loro trasmissione all’Ufficio svizzero della navigazione marittima;
 - f. intervento in casi di reati commessi a bordo;
-- g. domande alle autorità locali dirette a conseguire l’arresto di un marittimo o per l’assistenza giudiziaria di uno Stato straniero (art. 59 LNM);
+- g. domande alle autorità locali dirette a conseguire l’arresto di un marittimo o per l’assistenza giudiziaria di uno Stato straniero (art. 59 della legge sulla navigazione marittima);
 - h. presa in consegna e amministrazione di valori e oggetti appartenenti a un marittimo ricoverato in ospedale;
 - i. attestazione sui certificati di servizio;
 - j. esame di documenti per il rilascio di un libretto di navigazione e loro trasmissione all’Ufficio svizzero della navigazione marittima;
 - k. trascrizione di marittimi in un nuovo ruolo d’equipaggio;
 - l. attestazione o legalizzazione di un certificato di nazionalità o di iscrizione;
 - m. attestazione di un certificato per la partenza di una nave;
-- n. rimpatrio di marittimi (art. 82 cpv. 3 LNM) dovuto a malattia, infortunio o arresto, fino a un tempo impiegato di quattro ore;
+- n. rimpatrio di marittimi (art. 82 cpv. 3 della legge sulla navigazione marittima) dovuto a malattia, infortunio o arresto, fino a un tempo impiegato di quattro ore;
 - o. attestazioni e comunicazioni agli Uffici federali.
 
 ## Sezione 5: Disposizioni finali
@@ -248,9 +261,9 @@ Le prestazioni seguenti sono gratuite:
 
 **Diritto previgente: abrogazione**
 
-L’ordinanza del 30 ottobre 1985[^17-1]6 sugli emolumenti nella navigazione marittima è abrogata.
+L’ordinanza del 30 ottobre 1985[^17-1] sugli emolumenti nella navigazione marittima è abrogata.
 
-[^17-1]: <sup>6</sup> [[RU 1985 1897](https://fedlex.data.admin.ch/eli/oc/1985/1897_1897_1897), [1993 1890](https://fedlex.data.admin.ch/eli/oc/1993/1890_1890_1890), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 74]
+[^17-1]: [RU 1985 1897](https://fedlex.data.admin.ch/eli/oc/1985/1897_1897_1897), [1993 1890](https://fedlex.data.admin.ch/eli/oc/1993/1890_1890_1890), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 74
 
 #### Art. 18
 
