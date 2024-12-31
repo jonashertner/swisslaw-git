@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 3. Dezember 2007 des Vorsorgewerks ETH-Bereich für
 short: VR-ETH 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/191"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-12-03
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-191-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-191-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20240101/de"
 
 (VR-ETH 1)
 
-vom 3. Dezember 2007 (Stand am 1. Januar 2024)
+vom 3. Dezember 2007 (Stand am 1. Januar 2025)
 
 Das paritätische Organ des Vorsorgewerks ETH-Bereich (PO ETH),
 
@@ -790,7 +790,11 @@ Ein allfälliges, noch vorhandenes Guthaben aus dem ZP-Konto (Art. 25) wird in j
 - f. an die Geschwister;
 - g. an die gesetzlichen Erben unter Ausschluss des Gemeinwesens.
 
+<sup>2bis</sup> Die versicherte Person kann die Rangfolge der anspruchsberechtigten Gruppe zwischen Absatz 2 Buchstaben e und f ändern. Die entsprechende Erklärung ist PUBLICA innert 3 Monaten nach dem Tod einzureichen. Wird innert dieser Frist keine Erklärung eingereicht, wird das Guthaben aus dem ZP-Konto entsprechend der Reihenfolge gemäss Absatz 2 ausbezahlt.[^43-1]
+
 <sup>3</sup> Die Kapitalabfindung steht mehreren Anspruchsberechtigten derselben Begünstigtengruppe zu gleichen Teilen zu.
+
+[^43-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 724](https://fedlex.data.admin.ch/eli/oc/2024/724)).
 
 #### Art. 44
 
@@ -846,13 +850,13 @@ Beim Tod der versicherten oder der eine Alters- oder Invalidenrente beziehenden 
 - a. das 40. Altersjahr vollendet hat und mit der versicherten Person mindestens in den letzten fünf Jahren vor dem Tod ununterbrochen eine Lebenspartnerschaft geführt hat; oder
 - b. für den Unterhalt eines oder mehrerer gemeinsamer Kinder, die gemäss vorliegendem Reglement Anspruch auf Waisenrenten haben, aufkommen muss.
 
-<sup>2</sup> Der Anspruch auf eine Lebenspartnerrente besteht nur, wenn die Lebenspartnerschaft PUBLICA in Form eines Lebenspartnervertrages schriftlich gemeldet worden ist. Dieser von beiden Lebenspartnern unterzeichnete Lebenspartnervertrag ist im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zuzustellen.
+<sup>2</sup> Der Anspruch auf eine Lebenspartnerrente besteht nur, wenn die versicherte oder rentenbeziehende Person die Lebenspartnerschaft zu Lebzeiten beider Lebenspartner meldet. Die Meldung muss entweder über das Kundenportal von PUBLICA oder schriftlich und eigenhändig unterzeichnet erfolgen.[^45-1]
 
 <sup>3</sup> Eine Lebenspartnerschaft im Sinne dieser Bestimmung ist eine eheähnliche Lebensgemeinschaft von nicht verheirateten Personen unterschiedlichen oder gleichen Geschlechts, die untereinander nicht verwandt sind und deren Partnerschaft nicht gemäss dem Partnerschaftsgesetz eingetragen ist. Als Lebenspartnerschaft gilt auch eine eheähnliche Lebensgemeinschaft von verwandten Personen, zwischen denen kein Ehehindernis besteht.
 
 <sup>4</sup> Der Anspruch auf die Lebenspartnerrente beginnt mit dem Tod der versicherten Person, frühestens aber nach dem Tag, an dem der Anspruch der verstorbenen versicherten Person auf Lohn, Lohnnachgenuss, Alters- oder Invalidenrente aufhört. Der Anspruch ist bis spätestens sechs Monate nach dem Tod der versicherten Person geltend zu machen.
 
-<sup>5</sup> Die Dauer einer Lebenspartnerschaft wird an die darauf folgende Ehedauer gemäss den Anspruchsvoraussetzungen von Artikel 44 Absatz 1 Buchstabe b für die Ehegattenrente angerechnet, unter der Voraussetzung, dass ein von beiden Lebenspartnern unterzeichneter Vertrag im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zugestellt wurde.
+<sup>5</sup> Die Dauer einer Lebenspartnerschaft wird an die darauf folgende Ehedauer gemäss den Anspruchsvoraussetzungen von Artikel 44 Absatz 1 Buchstabe b für die Ehegattenrente angerechnet, sofern die Lebenspartnerschaft PUBLICA gemäss Absatz 2 gemeldet wurde.[^45-2]
 
 <sup>6</sup>
 
@@ -871,6 +875,9 @@ Der Anspruch erlischt:
 - b. wenn der überlebende Lebenspartner oder die überlebende Lebenspartnerin Anspruch auf eine Ehegattenrente infolge Tod seiner geschiedenen Ehegattin oder ihres geschiedenen Ehegatten hat.
 
 <sup>8</sup> Ergeben sich bei der Abklärung der Anspruchsvoraussetzungen Zweifel, namentlich wenn gleichzeitig Ansprüche gemäss Artikel 49 (Todesfallkapital) geltend gemacht werden, darf PUBLICA Leistungen erst erbringen, wenn die Abklärungen abgeschlossen sind. Zins für aufgeschobene Leistungsausrichtung ist nicht geschuldet.
+
+[^45-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 724](https://fedlex.data.admin.ch/eli/oc/2024/724)).
+[^45-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 724](https://fedlex.data.admin.ch/eli/oc/2024/724)).
 
 #### Art. 46
 
@@ -892,6 +899,22 @@ Die Ehegatten- und die Lebenspartnerrente betragen:
 
 [^46-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 776](https://fedlex.data.admin.ch/eli/oc/2023/776)).
 [^46-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ([AS 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 46a
+
+**Kapitalbezug anstelle einer Ehegatten- oder Lebenspartnerrente**[^46a-1]
+
+<sup>1</sup> Die Ehegatten- und die Lebenspartnerrente nach Artikel 46 Absatz 1 Buchstaben a und c können ganz oder teilweise als einmalige Kapitalabfindung bezogen werden. Dasselbe gilt für die Ehegatten- und die Lebenspartnerrenten nach Artikel 46 Absatz 1 Buchstabe b, sofern die verstorbene Person eine Invalidenrente bezog.
+
+<sup>2</sup> Wünscht die anspruchsberechtigte Person die Ehegatten- oder Lebenspartnerrente ganz oder teilweise in Kapitalform zu beziehen, so muss sie PUBLICA eine entsprechende schriftliche und eigenhändig unterzeichnete Erklärung zustellen. Diese Erklärung muss bis spätestens drei Monate nach dem Tod der versicherten oder rentenbeziehenden Person bei PUBLICA eingehen. Allfällige Rentenzahlungen werden von der Kapitalabfindung abgezogen.
+
+<sup>3</sup> Die Kapitalabfindung entspricht dem Barwert der als Kapitalabfindung bezogenen Rente.
+
+<sup>4</sup> Im Umfang des Bezugs der Kapitalabfindung werden die Ehegatten- und die Lebenspartnerrente gekürzt.
+
+<sup>5</sup> Hat der überlebende Ehegatte oder Lebenspartner oder die überlebende Ehegattin oder Lebenspartnerin das 45. Altersjahr noch nicht vollendet, so wird die Kapitalabfindung um zwei Prozent für jedes ganze oder angebrochene Jahr gekürzt, um das die anspruchsberechtigte Person beim Tod der versicherten Person oder der Bezügerin oder des Bezügers einer Invalidenrente jünger als 45 Jahre alt ist. Die volle Kapitalabfindung entspricht jedoch mindestens dem Todesfallkapital nach Artikel 50.
+
+[^46a-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 724](https://fedlex.data.admin.ch/eli/oc/2024/724)).
 
 #### Art. 47
 
@@ -1062,7 +1085,9 @@ Bei Teilinvalidität kann die anspruchsberechtigte Person das geäufnete Guthabe
 
 <sup>2</sup> Bei Vollinvalidität wird das geäufnete Guthaben als einmalige Kapitalabfindung ausbezahlt.
 
-<sup>3</sup> Im Todesfall wird das geäufnete Guthaben gemäss Artikel 43 Absatz 2 ausbezahlt.
+<sup>3</sup> Im Todesfall wird das geäufnete Guthaben gemäss Artikel 43 Absätze 2 und 2<sup>bis</sup> ausbezahlt.[^55-1]
+
+[^55-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 724](https://fedlex.data.admin.ch/eli/oc/2024/724)).
 
 #### Art. 56
 
@@ -2111,15 +2136,15 @@ Anhang 4[^t-5]
 
 ## Umwandlungssätze
 
-[^t-5]: Fassung gemäss Ziff. II abs. 2 des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^t-5]: Fassung gemäss Ziff. II des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 724](https://fedlex.data.admin.ch/eli/oc/2024/724)).
 
 <table>
 <tr><th>Alter</th><th>Umwandlungssatz</th></tr>
 <tr><td>60</td><td>4,47 %</td></tr>
 <tr><td>61</td><td>4,58 %</td></tr>
 <tr><td>62</td><td>4,70 %</td></tr>
-<tr><td>63 Männer 63 Frauen</td><td>4,83 % 4,90 %</td></tr>
-<tr><td>64 Männer 64 Frauen</td><td>4,96 % 5,09 %</td></tr>
+<tr><td>63 Männer und Frauen, ausser Frauen mit Jahrgang 1963 oder früher 63 Frauen mit Jahrgang 1963 oder früher</td><td>4,83 % 4,90 %</td></tr>
+<tr><td>64 Männer und Frauen, ausser Frauen mit Jahrgang 1963 oder früher 64 Frauen mit Jahrgang 1963 oder früher</td><td>4,96 % 5,09 %</td></tr>
 <tr><td>65</td><td>5,09 %</td></tr>
 <tr><td>66</td><td>5,24 %</td></tr>
 <tr><td>67</td><td>5,40 %</td></tr>
@@ -2211,7 +2236,6 @@ Berechnung:
 
 - a. Männer: Barwert im Alter 62 Jahre und 3 Monate: 21 543 + (21 019 – 21 543) / 12 × 3) = 21 412 21 412 × 143.65 × 12 = **Fr. 36 909.75**
 - b. Frauen (gemäss Beispiel mit Jahrgang 1962): Barwert im Alter 62 Jahre und 3 Monate: 20 261 + (19 707 – 20 261) / 12 × 3) = 20 122 20 122 × 125.95 × 12 = **Fr. 30 412.80**
-- [tab]
 
 [^annex5-lvlu1-lvlu1-lvlu1-1]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
@@ -2379,7 +2403,7 @@ Die Überbrückungsrente beträgt Fr. 26 520.– pro Jahr (Fr. 2210.– pro Mona
 
 Berechnung:
 
-Betrag gemäss Tabelle a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/1000) = lebenslängliche Kürzung der Altersrente pro Monat.
+Betrag gemäss Tabelle a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/1000) = lebenslängliche Kürzung der Altersrente pro Monat:
 
 - a. AHV-Alter 65: 368.20 × 0.5 × 2.21 = **Fr. 406.85**
 - b. AHV-Alter 64: 280.30 × 0.5 × 2.21 = **Fr. 309.75**
@@ -2446,7 +2470,7 @@ Die Überbrückungsrente beträgt Fr. 27 840.– pro Jahr (Fr. 2320.– pro Mona
 
 Berechnung:
 
-Betrag gemäss Tabelle a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/1000) = lebenslängliche Kürzung der Altersrente pro Monat.
+Betrag gemäss Tabelle a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/1000) = lebenslängliche Kürzung der Altersrente pro Monat:
 
 - a. AHV-Alter 65: 338.25 × 0.5 × 2.32 = **Fr. 392.35**
 - b. AHV-Alter 64: 271.95 × 0.5 × 2.32 = **Fr. 315.45**
@@ -2514,7 +2538,7 @@ Die Kürzung der Altersrente beträgt monatlich:
 
 Berechnung:
 
-Faktor gemäss Tabellen a und b × (ÜR pro Monat/1000) = lebenslängliche Kürzung der Altersrente pro Monat.
+Faktor gemäss Tabellen a und b × (ÜR pro Monat/1000) = lebenslängliche Kürzung der Altersrente pro Monat:
 
 - a. 196.40 × 2.21 = **Fr. 434.05**
 - b. 149.30 × 2.21 = **Fr. 329.95**
@@ -2539,7 +2563,7 @@ AHVG Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenvers
 
 ATSG Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, SR *830.1*
 
-BGG Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bun- desgerichtsgesetz, SR *173.110*
+BGG Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsgesetz, SR *173.110*
 
 BPG Bundespersonalgesetz vom 24. März 2000, SR *172.220.1*
 
@@ -2547,11 +2571,11 @@ BVG Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen-
 
 BVV 2 Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, SR *831.441.1*
 
-EVK-Statuten Verordnung vom 2. März 1987 über die Eidgenössische Versich- cherungskasse (EVK-Statuten) AS *1987* 1228
+EVK-Statuten Verordnung vom 2. März 1987 über die Eidgenössische Versich-cherungskasse (EVK-Statuten) AS *1987* 1228
 
 FZG Bundesgesetz vom 17. Dezember 1993 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (Freizügigkeitsgesetz), SR *831.42*
 
-FZV Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (Frei zügigkeitsverordnung), SR *831.425*
+FZV Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (Freizügigkeitsverordnung), SR *831.425*
 
 IV Invalidenversicherung
 
@@ -2559,13 +2583,13 @@ IVG Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung, SR *831.20*
 
 MV Militärversicherung
 
-PartG Bundesgesetz vom 18. Juni 2004 über die eingetragene Partner schaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz), SR *211.231*
+PartG Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz), SR *211.231*
 
 PKB-Statuten Verordnung vom 24. August 1994 über die Pensionskasse des Bundes, AS *1995* 533
 
-PKBV 1 Verordnung vom 25. April 2001 über die Versicherung im Kern plan der Pensionskasse des Bundes, AS *2001* 2327
+PKBV 1 Verordnung vom 25. April 2001 über die Versicherung im Kernplan der Pensionskasse des Bundes, AS *2001* 2327
 
-PKBV 2 Verordnung vom 25. April 2001 über die Versicherung im Ergän- zungsplan der Pensionskasse des Bundes, AS *2001* 2358
+PKBV 2 Verordnung vom 25. April 2001 über die Versicherung im Ergänzungsplan der Pensionskasse des Bundes, AS *2001* 2358
 
 PUBLICA-Gesetz Bundesgesetz vom 20. Dezember 2006 über die Pensionskasse des Bundes PUBLICA, SR *172.222.1* (AS *2007* 2239)
 
@@ -2575,10 +2599,10 @@ PVO ETH Personalverordnung ETH-Bereich vom 15. März 2001, SR *172.220.113*
 
 UV Unfallversicherung
 
-WEFV Verordnung vom 3. Oktober 1994 über die Wohneigentumsför- derung mit Mitteln der beruflichen Vorsorge, SR *831.411*
+WEFV Verordnung vom 3. Oktober 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, SR *831.411*
 
-- ZGB Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907, SR *210*
+ZGB Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907, SR *210*
 
 ZP-Konto Zusatzplankonto (Art. 25)
 
-- ZPO Schweizerische Zivilprozessordnung vom 19. Dezember 2008, SR *272*
+ZPO Schweizerische Zivilprozessordnung vom 19. Dezember 2008, SR *272*
