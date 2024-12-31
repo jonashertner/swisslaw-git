@@ -4,11 +4,11 @@ title: Ordinanza del 13 novembre 1985 sulla legittimazione alle deduzioni fiscal
 short: OPP 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: it
-version: 2024-03-01
+version: 2025-01-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240301/it"
 
 (OPP 3)
 
-del 13 novembre 1985 (Stato 1° marzo 2024)
+del 13 novembre 1985 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 82 capoverso 2 della legge federale del 25 giugno 1982[^ingress-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) e l’articolo 99 della legge federale del 2 aprile 1908[^ingress-2] sul contratto d’assicurazione,
+visto l’articolo 82 capoversi 2 e 3 della legge federale del 25 giugno 1982[^ingress-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP); visto l’articolo 99 della legge federale del 2 aprile 1908[^ingress-2] sul contratto d’assicurazione (LCA),[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^ingress-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^ingress-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^ingress-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
 
 ## Sezione 1: Forme di previdenza riconosciute
 
@@ -41,7 +42,9 @@ Ai sensi dell’articolo 82 LPP costituiscono forme di previdenza riconosciute:
 - a. il contratto di previdenza vincolata concluso con gli istituti d’assicurazione;
 - b. la convenzione di previdenza vincolata conclusa con le fondazioni bancarie.
 
-<sup>2</sup> Per contratti di previdenza vincolata s’intendono i contratti speciali d’assicurazione di capitale e di rendite sulla vita o in caso d’invalidità o di morte, comprese eventuali assicurazioni complementari in caso di morte per infortunio o d’invalidità[^1-1], che
+<sup>2</sup>
+
+Per contratti di previdenza vincolata s’intendono i contratti speciali d’assicurazione di capitale e di rendite sulla vita o in caso d’invalidità o di morte, comprese eventuali assicurazioni complementari in caso di morte per infortunio o d’invalidità[^1-1], che:
 
 - a. sono conclusi con un istituto d’assicurazione sottoposto alla sorveglianza delle assicurazioni o con un istituto d’assicurazione di diritto pubblico secondo l’articolo 67 capoverso 1 LPP; e
 - b. sono destinati esclusivamente e irrevocabilmente alla previdenza.
@@ -76,7 +79,7 @@ Sono considerate beneficiarie le persone seguenti:
 <sup>3</sup> L’intestatario ha il diritto di modificare l’ordine dei beneficiari di cui al capoverso 1 lettera b numeri 3 a 5 e di precisare i diritti di ciascuna di queste persone.[^2-4]
 
 [^2-1]: Nuovo testo giusta l’all. n. 4 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^2-2]: Nuovo testo giusta il n. I 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^2-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 29 set. 2006 concernente l’attuazione della L del18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 [^2-3]: Nuovo testo giusta l’all. n. 2 dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
 [^2-4]: Introdotto dall’all. n. 2 dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
 
@@ -88,7 +91,7 @@ Sono considerate beneficiarie le persone seguenti:
 
 <sup>2</sup> La prestazione divenuta disponibile è attribuita ai beneficiari successivi nell’ordine previsto nell’articolo 2.
 
-[^2a-1]: Introdotto dal n. I 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^2a-1]: Introdotto dalla cifra I n. 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 #### Art. 3
 
@@ -101,7 +104,7 @@ Sono considerate beneficiarie le persone seguenti:
 Un versamento anticipato delle prestazioni di vecchiaia è ammissibile se il rapporto di previdenza è sciolto per uno dei motivi seguenti:
 
 - a. l’intestatario beneficia d’una rendita intera d’invalidità dell’assicurazione federale per l’invalidità e il rischio d’invalidità non è assicurato;
-- b.[^3-2] ...
+- b.[^3-2] …
 - c. l’intestatario pone termine all’attività lucrativa indipendente esercitata finora e ne inizia un’altra indipendente di genere diverso;
 - d.[^3-3] l’istituto di previdenza è tenuto, giusta l’articolo 5 della legge del 17 dicembre 1993[^3-4] sul libero passaggio, al pagamento in contanti.
 
@@ -120,14 +123,14 @@ La prestazione di vecchiaia può inoltre essere versata anticipatamente per:
 <sup>6</sup> Se l’assicurato è coniugato o è vincolato da un’unione domestica registrata, il versamento anticipato delle prestazioni di vecchiaia conformemente al capoverso 2 lettere c e d e al capoverso 3 è ammesso soltanto previo consenso scritto del coniuge o del partner registrato. Se il consenso non può essere ottenuto o se è rifiutato, l’assicurato può adire il Tribunale.[^3-9]
 
 [^3-1]: Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^3-2]: Abrogata dal n. I 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, con effetto dal 1° gen. 2021 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^3-2]: Abrogata dalla cifra I n. 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, con effetto dal 1° gen. 2021 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 [^3-3]: Nuovo testo giusta l’art. 22 n. 2 dell’O del 3 ott. 1994 sul libero passaggio, in vigore dal 1° gen. 1995 ([RU 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)).
-[^3-4]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^3-5]: Introdotto dal n. I dell’O del 18 set. 1989 ([RU 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Nuovo testo giusta l’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-4]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^3-5]: Introdotto dalla cifra I dell’O del 18 set. 1989 ([RU 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Nuovo testo giusta l’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
 [^3-6]: Introdotto dall’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-7]: [RS 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
+[^3-7]: [RS 831.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10099)
 [^3-8]: Introdotto dall’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-9]: Introdotto dal n. I 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^3-9]: Introdotto dalla cifra I n. 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 3a
 
@@ -146,7 +149,7 @@ L’intestatario della previdenza può sciogliere il rapporto di previdenza, se:
 
 <sup>4</sup> Tuttavia, un tale trasferimento o riscatto non è più possibile, se una polizza assicurativa diventa esigibile nei cinque anni precedenti il raggiungimento dell’età di riferimento.[^3a-3]
 
-[^3a-1]: Introdotto dal n. I 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° gen. 2021 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^3a-1]: Introdotto dalla cifra I n. 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° gen. 2021 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 [^3a-2]: Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^3a-3]: Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -163,13 +166,13 @@ L’intestatario della previdenza può sciogliere il rapporto di previdenza, se:
 <sup>4</sup> Il capoverso 3 si applica per analogia in caso di scioglimento giudiziale dell’unione domestica registrata qualora i partner abbiano concordato che i beni siano divisi secondo le norme del regime della partecipazione agli acquisti (art. 25 cpv. 1 secondo periodo della legge del 18 giugno 2004[^4-7] sull’unione domestica registrata).[^4-8]
 
 [^4-1]: Nuovo testo giusta l’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^4-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^4-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^4-4]: [RS 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
+[^4-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^4-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^4-4]: [RS 831.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10099)
 [^4-5]: Introdotto dall’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^4-6]: Introdotto dal n. I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3455](https://fedlex.data.admin.ch/eli/oc/1996/3455_3455_3455)).
-[^4-7]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^4-8]: Introdotto dal n. I 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^4-6]: Introdotto dalla cifra I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3455](https://fedlex.data.admin.ch/eli/oc/1996/3455_3455_3455)).
+[^4-7]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
+[^4-8]: Introdotto dalla cifra I n. 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 5
 
@@ -182,8 +185,8 @@ L’intestatario della previdenza può sciogliere il rapporto di previdenza, se:
 <sup>3</sup> Gli articoli 49–58 dell’ordinanza del 18 aprile 1984[^5-3] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (OPP 2) si applicano per analogia all’investimento dei fondi della convenzione di previdenza vincolata sotto forma di risparmio in titoli. In deroga alla presente disposizione, tutti i fondi possono essere investiti in prodotti con garanzia del capitale o in obbligazioni con debitori che presentano un’elevata solvibilità. Non sono ammessi gli investimenti in fondi riservati a investitori qualificati (L-QIF) e in investimenti collettivi di capitale esteri che non sono assoggettati a una vigilanza estera.[^5-4]
 
 [^5-1]: Nuovo testo giusta l’all. n. 2 dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^5-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^5-3]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^5-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^5-3]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 [^5-4]: Nuovo testo giusta l’all. n. 6 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Sezione 2: Trattamento fiscale
@@ -200,26 +203,107 @@ Le fondazioni bancarie i cui redditi e la sostanza sono destinati esclusivamente
 
 <sup>1</sup>
 
-I salariati e gli indipendenti possono dedurre dal loro reddito, per quanto riguarda le imposte dirette della Confederazione, dei Cantoni e dei Comuni, i contributi versati a forme riconosciute di previdenza nella misura seguente:
+I salariati e gli indipendenti possono versare contributi a forme riconosciute di previdenza e dedurli dal loro reddito, per quanto riguarda le imposte dirette della Confederazione, dei Cantoni e dei Comuni, nella misura seguente:[^7-1]
 
 - a. annualmente, fino all’8 per cento dell’importo limite superiore secondo l’articolo 8 capoverso 1 LPP, se sono affiliati a un istituto di previdenza ai sensi dell’articolo 80 LPP;
 - b. annualmente, fino al 20 per cento del reddito proveniente da un’attività lucrativa, ma al massimo fino al 40 per cento dell’importo limite superiore stabilito nell’articolo 8 capoverso 1 LPP, se non sono affiliati a un istituto di previdenza ai sensi dell’articolo 80 LPP.
 
-<sup>2</sup> I coniugi o i partner registrati possono pretendere queste deduzioni, ciascuno per conto proprio, se ambedue esercitano un’attività lucrativa e pagano i contributi a una forma riconosciuta di previdenza.[^7-1]
+<sup>2</sup> I coniugi o i partner registrati possono pretendere queste deduzioni, ciascuno per conto proprio, se ambedue esercitano un’attività lucrativa e pagano i contributi a una forma riconosciuta di previdenza.[^7-2]
 
-<sup>3</sup> I contributi a forme riconosciute di previdenza possono essere versati al più tardi fino a cinque anni dopo il raggiungimento dell’età di riferimento.[^7-2]
+<sup>3</sup> I contributi a forme riconosciute di previdenza possono essere versati al più tardi fino a cinque anni dopo il raggiungimento dell’età di riferimento.[^7-3]
 
-<sup>4</sup> Nell’anno in cui termina l’attività lucrativa può essere versato l’intero contributo.[^7-3]
+<sup>4</sup> Nell’anno in cui termina l’attività lucrativa può essere versato l’intero contributo.[^7-4]
 
-[^7-1]: Nuovo testo giusta il n. I 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^7-2]: Introdotto dal n. I dell’O del 21 feb. 2001 ([RU 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^7-3]: Introdotto dal n. I dell’O del 21 feb. 2001 ([RU 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
+[^7-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^7-3]: Introdotto dalla cifra I dell’O del 21 feb. 2001 ([RU 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^7-4]: Introdotto dalla cifra I dell’O del 21 feb. 2001 ([RU 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
+
+#### Art. 7a
+
+**Deducibilità dei contributi versati a titolo di riscatto**[^7a-1]
+
+<sup>1</sup>
+
+I salariati e gli indipendenti possono versare e dedurre dal loro reddito, in aggiunta ai contributi di cui all’articolo 7 capoverso 1, contributi a titolo di riscatto nella previdenza individuale vincolata, se:
+
+- a. nei dieci anni precedenti il riscatto non hanno versato tutti gli importi massimi dei contributi ammessi nel loro caso;
+- b. nei singoli anni interessati dal riscatto erano legittimati al versamento dei contributi di cui all’articolo 7 capoverso 1; e
+- c. nell’anno in cui effettuano il riscatto (anno di riscatto) versano interamente il contributo ammesso nel loro caso secondo l’articolo 7 capoverso 1.
+
+<sup>2</sup> Nell’anno del riscatto i contributi versati a titolo di riscatto non possono eccedere la differenza tra la somma dei contributi ammessi e la somma dei contributi effettivamente versati negli ultimi dieci anni, e in ogni caso non possono superare l’8 per cento dell’importo limite superiore secondo l’articolo 8 capoverso 1 LPP.
+
+<sup>3</sup> Per compensare la lacuna contributiva di un determinato anno (lacuna contributiva annua) è ammesso un unico riscatto. Per contro, con un riscatto è possibile compensare più lacune contributive annue.
+
+<sup>4</sup> Se l’intestatario della previdenza riscuote una prestazione di vecchiaia secondo l’articolo 3 capoverso 1, non sono più ammessi riscatti.
+
+<sup>5</sup> Per il resto si applicano le disposizioni dell’articolo 7 capoversi 2 e 3.
+
+[^7a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
+
+#### Art. 7b
+
+**Richiesta di accettazione del versamento di contributi a titolo di riscatto**[^7b-1]
+
+<sup>1</sup>
+
+L’intestatario della previdenza deve presentare per scritto una richiesta di riscatto all’istituto della previdenza individuale vincolata indicando:
+
+- a. l’ammontare del riscatto richiesto;
+- b. gli anni per i quali si intende compensare lacune contributive e l’ammontare dei contributi da compensare;
+- c. l’ammontare dei contributi eventualmente versati secondo l’articolo 7 capoverso 1 negli anni per i quali si intende compensare lacune contributive, con l’indicazione delle date di pagamento.
+
+<sup>2</sup>
+
+Nella richiesta deve confermare di:
+
+- a. aver versato la totalità del contributo di cui all’articolo 7 capoverso 1 nell’anno del riscatto, con l’indicazione dell’ammontare del contributo;
+- b. aver percepito un reddito soggetto all’AVS negli anni in cui intende compensare lacune contributive;
+- c. non avere già effettuato riscatti per gli anni in cui intende compensare lacune contributive;
+- d. non avere già riscosso prestazioni di vecchiaia secondo l’articolo 3 capoverso 1.
+
+<sup>3</sup> Se le condizioni di cui all’articolo 7*a* sono soddisfatte, l’istituto della previdenza individuale vincolata approva l’accettazione del versamento dei contributi a titolo di riscatto.
+
+[^7b-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
 
 #### Art. 8
 
 **Obbligo d’attestazione**
 
-Gli istituti d’assicurazione e le fondazioni bancarie devono rilasciare agli intestatari attestazioni riguardanti i contributi e le prestazioni versati.
+<sup>1</sup> Gli istituti d’assicurazione e le fondazioni bancarie devono rilasciare agli intestatari attestazioni riguardanti i contributi e le prestazioni versati.
+
+<sup>2</sup> In caso di riscatto, l’attestazione deve contenere anche i dati di cui all’articolo 7*b* capoverso 1 lettere a–c e la data del riscatto.[^8-1]
+
+[^8-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
+
+## Sezione 2*a*: Conservazione dei documenti e comunicazione dei dati previdenziali
+
+[^sec2a-1]
+
+[^sec2a-1]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
+
+#### Art. 8a
+
+**Indicazione e conservazione dei dati previdenziali**
+
+<sup>1</sup>
+
+Gli istituti della previdenza individuale vincolata devono indicare nei loro documenti i dati rilevanti per la previdenza, in particolare:
+
+- a. l’ammontare dei contributi versati secondo l’articolo 7 capoverso 1 e la data della ricezione del pagamento;
+- b. l’ammontare dei contributi versati a titolo di riscatto e la data della ricezione del pagamento nonché l’importo delle lacune contributive compensate con i riscatti;
+- c. la riscossione di una prestazione di vecchiaia secondo l’articolo 3 capoverso 1.
+
+<sup>2</sup> Sono tenuti a conservare i documenti per dieci anni a contare dallo scioglimento del rapporto di previdenza.
+
+#### Art. 8b
+
+**Comunicazione dei dati previdenziali**
+
+In caso di trasferimento del capitale di previdenza ai sensi dell’articolo 3*a* capoverso 1 lettera b, l’istituto trasferente deve comunicare al nuovo istituto l’ammontare annuo:
+
+- a. dei contributi versati nei dieci anni precedenti secondo l’articolo 7 capoverso 1; e
+- b. dei contributi versati nei dieci anni precedenti a titolo di riscatto, indicando le lacune contributive compensate con i medesimi.
 
 ## Sezione 3: Entrata in vigore
 
@@ -237,7 +321,7 @@ Gli istituti d’assicurazione e le fondazioni bancarie devono rilasciare agli i
 
 Alle beneficiarie delle classi d’età 1944, 1945 e 1946 possono essere versate prestazioni di vecchiaia al più presto sei anni prima del raggiungimento dell’età ordinaria della rendita AVS (art. 21 cpv. 1 LAVS[^u1-2]).
 
-[^u1-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u1-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Disposizione finale della modifica del 19 settembre 2008
 
@@ -246,3 +330,11 @@ Alle beneficiarie delle classi d’età 1944, 1945 e 1946 possono essere versate
 [^u2-1]: [RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)
 
 L’investimento dei fondi della convenzione di previdenza vincolata dev’essere adeguato alla presente modifica entro il 1° gennaio 2011.
+
+## Disposizione transitoria della modifica del 6 novembre 2024
+
+[^u3-1]
+
+[^u3-1]: [RU 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)
+
+<sup>1</sup> Le lacune contributive secondo l’articolo 7*a* capoverso 1 lettera a sorte prima dell’entrata in vigore della modifica del 06 novembre 2024 non possono essere compensate con un riscatto.

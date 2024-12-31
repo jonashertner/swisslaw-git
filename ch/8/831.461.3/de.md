@@ -4,11 +4,11 @@ title: Verordnung vom 13. November 1985 über die steuerliche Abzugsberechtigung
 short: BVV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: de
-version: 2024-03-01
+version: 2025-01-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240301/de"
 
 (BVV 3)
 
-vom 13. November 1985 (Stand am 1. März 2024)
+vom 13. November 1985 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 82 Absatz 2 des Bundesgesetzes vom 25. Juni 1982[^ingress-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und Artikel 99 des Versicherungsvertragsgesetzes vom 2. April 1908 (VVG)[^ingress-2],
+gestützt auf Artikel 82 Absätze 2 und 3 des Bundesgesetzes vom 25. Juni 1982[^ingress-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und Artikel 99 des Versicherungsvertragsgesetzes vom 2. April 1908[^ingress-2] (VVG),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^ingress-2]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^ingress-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^ingress-2]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
 
 ## 1. Abschnitt: Anerkannte Vorsorgeformen
 
@@ -124,10 +125,10 @@ Die Altersleistung kann ferner vorher ausgerichtet werden für:
 [^3-1]: Fassung gemäss Anhang Ziff. 8 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^3-2]: Aufgehoben durch Ziff. I 3 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, mit Wirkung seit 1. Jan. 2021 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 [^3-3]: Fassung gemäss Art. 22 Ziff. 2 der Freizügigkeitsverordnung vom 3. Okt. 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)).
-[^3-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-4]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^3-5]: Eingefügt durch Ziff. I der V vom 18. Sept. 1989 ([AS 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Fassung gemäss Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
 [^3-6]: Eingefügt durch Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-7]: [SR 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
+[^3-7]: [SR 831.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10099)
 [^3-8]: Eingefügt durch Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
 [^3-9]: Eingefügt durch Ziff. I 4 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
@@ -165,11 +166,11 @@ Der Vorsorgenehmer kann das Vorsorgeverhältnis auflösen, wenn er sein Vorsorge
 <sup>4</sup> Absatz 3 gilt sinngemäss bei der gerichtlichen Auflösung einer eingetragenen Partnerschaft, wenn die beiden Partnerinnen oder Partner vereinbart haben, dass das Vermögen gemäss den Bestimmungen über die Errungenschaftsbeteiligung geteilt wird (Art. 25 Abs. 1 zweiter Satz des Partnerschaftsgesetzes vom 18. Juni 2004[^4-6]).[^4-7]
 
 [^4-1]: Fassung gemäss Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^4-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^4-3]: [SR 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
+[^4-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^4-3]: [SR 831.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10099)
 [^4-4]: Eingefügt durch Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 9. Dez. 1996 ([AS 1996 3455](https://fedlex.data.admin.ch/eli/oc/1996/3455_3455_3455)).
-[^4-6]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^4-6]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^4-7]: Eingefügt durch Ziff. I 4 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 5
@@ -183,8 +184,8 @@ Der Vorsorgenehmer kann das Vorsorgeverhältnis auflösen, wenn er sein Vorsorge
 <sup>3</sup> Für die Anlage der Gelder der gebundenen Vorsorgevereinbarung gelten beim Wert-schriftensparen die Artikel 49–58 der Verordnung vom 18. April 1984[^5-3] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2) sinngemäss. Abweichend davon kann vollständig in ein kapitalerhaltendes Produkt oder eine Obligation guter Bonität investiert werden. Unzulässig sind Anlagen in Limited Qualified Investor Funds sowie in ausländische kollektive Kapitalanlagen, die keiner ausländischen Aufsicht unterstehen.[^5-4]
 
 [^5-1]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
-[^5-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^5-3]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^5-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^5-3]: [SR 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 [^5-4]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## 2. Abschnitt: Steuerliche Behandlung
@@ -201,26 +202,107 @@ Bankstiftungen, deren Einkünfte und Vermögenswerte ausschliesslich der Vorsorg
 
 <sup>1</sup>
 
-Arbeitnehmer und Selbständigerwerbende können bei den direkten Steuern von Bund, Kantonen und Gemeinden ihre Beiträge an anerkannte Vorsorgeformen in folgendem Umfang von ihrem Einkommen abziehen:
+Arbeitnehmer und Selbständigerwerbende können in folgendem Umfang Beiträge an anerkannte Vorsorgeformen leisten und bei den direkten Steuern von Bund, Kantonen und Gemeinden von ihrem Einkommen abziehen:[^7-1]
 
 - a. jährlich bis 8 Prozent des oberen Grenzbetrages nach Artikel 8 Absatz 1 BVG, wenn sie einer Vorsorgeeinrichtung nach Artikel 80 BVG angehören;
 - b. jährlich bis 20 Prozent des Erwerbseinkommens, jedoch höchstens bis 40 Prozent des oberen Grenzbetrages nach Artikel 8 Absatz 1 BVG, wenn sie keiner Vorsorgeeinrichtung nach Artikel 80 BVG angehören.
 
-<sup>2</sup> Sind beide Ehegatten oder beide eingetragenen Partnerinnen oder Partner erwerbstätig und leisten sie Beiträge an eine anerkannte Vorsorgeform, so können beide diese Abzüge für sich beanspruchen.[^7-1]
+<sup>2</sup> Sind beide Ehegatten oder beide eingetragenen Partnerinnen oder Partner erwerbstätig und leisten sie Beiträge an eine anerkannte Vorsorgeform, so können beide diese Abzüge für sich beanspruchen.[^7-2]
 
-<sup>3</sup> Beiträge an anerkannte Vorsorgeformen können längstens bis fünf Jahre nach Erreichen des Referenzalters geleistet werden.[^7-2]
+<sup>3</sup> Beiträge an anerkannte Vorsorgeformen können längstens bis fünf Jahre nach Erreichen des Referenzalters geleistet werden.[^7-3]
 
-<sup>4</sup> Im Jahr, in dem die Erwerbstätigkeit beendet wird, kann der volle Beitrag geleistet werden.[^7-3]
+<sup>4</sup> Im Jahr, in dem die Erwerbstätigkeit beendet wird, kann der volle Beitrag geleistet werden.[^7-4]
 
-[^7-1]: Fassung gemäss Ziff. I 4 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^7-2]: Eingefügt durch Ziff. I der V vom 21. Febr. 2001 ([AS 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Fassung gemäss Anhang Ziff. 8 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^7-3]: Eingefügt durch Ziff. I der V vom 21. Febr. 2001 ([AS 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
+[^7-2]: Fassung gemäss Ziff. I 4 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^7-3]: Eingefügt durch Ziff. I der V vom 21. Febr. 2001 ([AS 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Fassung gemäss Anhang Ziff. 8 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^7-4]: Eingefügt durch Ziff. I der V vom 21. Febr. 2001 ([AS 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
+
+#### Art. 7a
+
+**Abzugsberechtigung für als Einkauf geleistete Beiträge**[^7a-1]
+
+<sup>1</sup>
+
+Arbeitnehmer und Selbständigerwerbende können zusätzlich zu den Beiträgen nach Artikel 7 Absatz 1 Beiträge als Einkauf in die gebundene Selbstvorsorge leisten und diese von ihrem Einkommen abziehen, wenn sie:
+
+- a. in den zehn dem Einkauf vorangehenden Jahren nicht alle für sie maximal zulässigen Beiträge einbezahlt haben;
+- b. in den von den Einkäufen betroffenen Jahren jeweils zur Leistung von Beiträgen nach Artikel 7 Absatz 1 berechtigt waren; und
+- c. im Jahr, in dem der Einkauf erfolgt (Einkaufsjahr), den für sie zulässigen Beitrag nach Artikel 7 Absatz 1 vollständig einbezahlen.
+
+<sup>2</sup> Im Einkaufsjahr dürfen die als Einkauf geleisteten Beiträge nicht höher sein als die Differenz zwischen der Summe der zulässigen Beiträge und der Summe der effektiv geleisteten Beiträge der vergangenen zehn Jahre, auf keinen Fall jedoch höher als 8 Prozent des oberen Grenzbetrags nach Artikel 8 Absatz 1 BVG.
+
+<sup>3</sup> Für den Ausgleich einer Beitragslücke eines bestimmten Jahres (Jahresbeitragslücke) ist nicht mehr als ein Einkauf zulässig. Mit einem Einkauf können hingegen mehrere Jahresbeitragslücken ausgeglichen werden.
+
+<sup>4</sup> Tätigt der Vorsorgenehmer einen Bezug der Altersleistung nach Artikel 3 Absatz 1, sind Einkäufe nicht mehr zulässig.
+
+<sup>5</sup> Im Übrigen gelten die Bestimmungen von Artikel 7 Absätze 2 und 3.
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
+
+#### Art. 7b
+
+**Gesuch um Annahme von als Einkauf geleisteten Beiträgen**[^7b-1]
+
+<sup>1</sup>
+
+Der Vorsorgenehmer muss den Einkauf bei der Einrichtung der gebundenen Selbstvorsorge unter folgenden Angaben schriftlich beantragen:
+
+- a. Höhe des beantragten Einkaufs;
+- b. Jahre, für die eine Beitragslücke ausgeglichen werden soll und in welcher Höhe diese ausgeglichen werden soll;
+- c. Höhe der Beiträge, die in den Jahren, für die eine Beitragslücke ausgeglichen werden soll, nach Artikel 7 Absatz 1 gegebenenfalls bereits geleistet wurden, unter Angabe des Zahlungsdatums.
+
+<sup>2</sup>
+
+Er muss im Antrag bestätigen, dass er:
+
+- a. im Einkaufsjahr den Beitrag nach Artikel 7 Absatz 1 vollständig entrichtet hat, unter Angabe der Beitragshöhe;
+- b. in den Jahren, für die eine Beitragslücke ausgeglichen werden soll, ein AHV‑pflichtiges Einkommen erwirtschaftet hat;
+- c. für die Jahre, für die eine Beitragslücke ausgeglichen werden soll, noch keinen Einkauf vorgenommen hat;
+- d. noch keine Altersleistungen nach Artikel 3 Absatz 1 bezogen hat.
+
+<sup>3</sup> Sind die Voraussetzungen nach Artikel 7*a* erfüllt, so genehmigt die Einrichtung der gebundenen Vorsorge die Annahme der als Einkauf geleisteten Beiträge.
+
+[^7b-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
 
 #### Art. 8
 
 **Bescheinigungspflichten**
 
-Versicherungseinrichtungen und Bankstiftungen müssen den Vorsorgenehmern die erbrachten Beiträge und Leistungen bescheinigen.
+<sup>1</sup> Versicherungseinrichtungen und Bankstiftungen müssen den Vorsorgenehmern die erbrachten Beiträge und Leistungen bescheinigen.
+
+<sup>2</sup> Im Falle eines Einkaufs muss die Bescheinigung auch die Angaben nach Artikel 7*b* Absatz 1 Buchstaben a–c sowie das Datum des Einkaufs enthalten.[^8-1]
+
+[^8-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
+
+## 2*a*. Abschnitt: Aufbewahrung der Unterlagen und Mitteilung von Vorsorgeangaben
+
+[^sec2a-1]
+
+[^sec2a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)).
+
+#### Art. 8a
+
+**Festhalten und Aufbewahrung von Vorsorgeangaben**
+
+<sup>1</sup>
+
+Die Einrichtungen der gebundenen Selbstvorsorge müssen vorsorgerelevante Angaben in ihren Unterlagen festhalten, namentlich:
+
+- a. die Höhe der nach Artikel 7 Absatz 1 geleisteten Beiträge und das Datum ihres Zahlungseingangs;
+- b. die Höhe der als Einkauf geleisteten Beiträge und das Datum ihres Zahlungseingangs sowie die Höhe der Beitragslücken, die mit den Einkäufen ausgeglichen werden;
+- c. den Bezug einer Altersleistung nach Artikel 3 Absatz 1.
+
+<sup>2</sup> Sie müssen die Unterlagen noch während 10 Jahren ab Beendigung des Vorsorgeverhältnisses aufbewahren.
+
+#### Art. 8b
+
+**Mitteilung der Vorsorgeangaben**
+
+Im Falle einer Übertragung von Vorsorgekapital im Sinne von Artikel 3*a* Absatz 1 Buchstabe b muss die übertragende Einrichtung der neuen Einrichtung den Jahresbetrag mitteilen:
+
+- a. der in den vorangehenden zehn Jahren nach Artikel 7 Absatz 1 geleisteten Beiträge; und
+- b. der in den vorangehenden zehn Jahren als Einkauf geleisteten Beiträge unter Angabe der damit ausgeglichenen Beitragslücken.
 
 ## 3. Abschnitt: Inkrafttreten
 
@@ -238,7 +320,7 @@ Versicherungseinrichtungen und Bankstiftungen müssen den Vorsorgenehmern die er
 
 Den Vorsorgenehmerinnen der Jahrgänge 1944, 1945 und 1946 dürfen Altersleistungen frühestens sechs Jahre vor Erreichen des ordentlichen Rentenalters der AHV (Art. 21 Abs. 1 AHVG[^u1-2]) ausgerichtet werden.
 
-[^u1-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u1-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Schlussbestimmung der Änderung vom 19. September 2008
 
@@ -247,3 +329,11 @@ Den Vorsorgenehmerinnen der Jahrgänge 1944, 1945 und 1946 dürfen Altersleistun
 [^u2-1]: [AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)
 
 Die Anlage der Gelder der gebundenen Vorsorgevereinbarung ist bis zum 1. Januar 2011 an die Bestimmungen dieser Änderung anzupassen.
+
+## Übergangsbestimmung zur Änderung vom 6. November 2024
+
+[^u3-1]
+
+[^u3-1]: [AS 2024 622](https://fedlex.data.admin.ch/eli/oc/2024/622)
+
+Beitragslücken nach Artikel 7*a* Absatz 1 Buchstabe a, die vor Inkrafttreten der Änderung vom 6. November 2024 entstanden sind, können nicht mit einem Einkauf ausgeglichen werden.
