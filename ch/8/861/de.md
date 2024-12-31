@@ -3,11 +3,11 @@ sr: "861"
 title: Bundesgesetz vom 4. Oktober 2002 über Finanzhilfen für familienergänzende Kinderbetreuung (KBFHG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/31"
 language: de
-version: 2023-02-01
+version: 2025-01-01
 adopted: 2002-10-04
 in_force: 2003-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2003-31-20230201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2003-31-20250101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/de"
 
 (KBFHG)[^t-1]
 
-vom 4. Oktober 2002 (Stand am 1. Februar 2023)
+vom 4. Oktober 2002 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Juli 2018 ([AS 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [BBl 2016 6377](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
@@ -251,8 +251,11 @@ Das BSV gewährt Finanzhilfen nach dem 2. Abschnitt (Art. 2 und 3) längstens bi
 
 <sup>2</sup> Die Frist nach Artikel 9*a* wird bis zum 31. Dezember 2024 verlängert.[^9b-2]
 
+<sup>3</sup> Die Frist nach Artikel 9*a* wird bis zum 31. Dezember 2026 verlängert.[^9b-3]
+
 [^9b-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 349](https://fedlex.data.admin.ch/eli/oc/2019/58); [BBl 2018 3335](https://fedlex.data.admin.ch/eli/fga/2018/1271)[3361](https://fedlex.data.admin.ch/eli/fga/2018/1274)).
-[^9b-2]: Eingefügt ducrh Ziff. I des BG 30. Sept. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [BBl 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^9b-2]: Eingefügt durch Ziff. I des BG 30. Sept. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [BBl 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^9b-3]: Eingefügt durch Ziff. I des BG 27. Sept. 2024, in Kraft seit 1. Jan. 2025 (AS **202****5** 52; [BBl 2024 560](https://fedlex.data.admin.ch/eli/fga/2024/560), [1109](https://fedlex.data.admin.ch/eli/fga/2024/1109)).
 
 #### Art. 10
 
@@ -272,10 +275,13 @@ Das BSV gewährt Finanzhilfen nach dem 2. Abschnitt (Art. 2 und 3) längstens bi
 
 <sup>7</sup> Die Geltungsdauer des Gesetzes wird bis zum 31. Dezember 2024 verlängert.[^10-4]
 
-Datum des Inkrafttretens: 1. Febr. 2003[^10-5]
+<sup>8</sup> Die Geltungsdauer des Gesetzes wird bis zum 31. Dezember 2026 verlängert.[^10-5]
+
+Datum des Inkrafttretens: 1. Febr. 2003[^10-6]
 
 [^10-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [BBl 2010 1627](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 [^10-2]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit1. Febr. 2015 ([AS 2015 513](https://fedlex.data.admin.ch/eli/oc/2015/70); [BBl 2014 6619](https://fedlex.data.admin.ch/eli/fga/2014/1496)[6643](https://fedlex.data.admin.ch/eli/fga/2014/1499)).
 [^10-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Juli 2018 ([AS 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [BBl 2016 6377](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 [^10-4]: Eingefügt ducrh Ziff. I des BG 30. Sept. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [BBl 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
-[^10-5]: BRB vom 9. Dez. 2002
+[^10-5]: Eingefügt durch Ziff. I des BG 27. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 52](https://fedlex.data.admin.ch/eli/oc/2025/52); [BBl 2024 560](https://fedlex.data.admin.ch/eli/fga/2024/560), [1109](https://fedlex.data.admin.ch/eli/fga/2024/1109)).
+[^10-6]: BRB vom 9. Dez. 2002

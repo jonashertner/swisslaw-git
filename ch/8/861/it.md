@@ -3,11 +3,11 @@ sr: "861"
 title: Legge federale del 4 ottobre 2002 sugli aiuti finanziari per la custodia di bambini complementare alla famiglia (LACust)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/31"
 language: it
-version: 2023-02-01
+version: 2025-01-01
 adopted: 2002-10-04
 in_force: 2003-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2003-31-20230201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2003-31-20250101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/it"
 
 (LACust)[^t-1]
 
-del 4 ottobre 2002 (Stato 1° febbraio 2023)
+del 4 ottobre 2002 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^t-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -34,7 +34,7 @@ decreta:
 
 [^sec1-1]
 
-[^sec1-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^sec1-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 #### Art. 1
 
@@ -52,7 +52,7 @@ A tale scopo la Confederazione concede, nei limiti dei crediti stanziati, aiuti 
 
 [^sec2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^sec2-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 #### Art. 2
 
@@ -69,7 +69,7 @@ Gli aiuti finanziari possono essere concessi:
 
 <sup>2</sup> Gli aiuti finanziari sono destinati prioritariamente alle nuove strutture. Possono essere concessi anche alle strutture esistenti che aumentano la loro offerta in misura significativa.
 
-[^2-1]: Introdotta dal n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
+[^2-1]: Introdotta dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 
 #### Art. 3
 
@@ -100,15 +100,15 @@ Gli aiuti finanziari per progetti a carattere innovativo possono essere concessi
 
 <sup>4</sup> Gli aiuti finanziari sono concessi soltanto se anche i Cantoni, gli enti locali territoriali di diritto pubblico, i datori di lavoro o altri terzi forniscono una partecipazione finanziaria adeguata.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
-[^3-2]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
-[^3-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^3-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
+[^3-2]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
+[^3-3]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 ## Sezione 2*a*: Aiuti finanziari per l’aumento dei sussidi e per progetti volti ad adeguare maggiormente ai bisogni dei genitori l’offerta di servizi per la custodia di bambini complementare alla famiglia
 
 [^sec2a-1]
 
-[^sec2a-1]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^sec2a-1]: Introdotta dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 #### Art. 3a
 
@@ -140,7 +140,7 @@ Possono essere concessi per progetti che mirano ad adeguare maggiormente ai biso
 
 [^sec2b-1]
 
-[^sec2b-1]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^sec2b-1]: Introdotta dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 #### Art. 4
 
@@ -154,9 +154,9 @@ Possono essere concessi per progetti che mirano ad adeguare maggiormente ai biso
 
 <sup>3</sup> Se gli aiuti chiesti superano i mezzi a disposizione, il Dipartimento federale dell’interno stabilisce un ordine di priorità, cercando per quanto possibile di ripartirli equamente tra le regioni.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^4-2]: Abrogato dal n. I della LF del 16 giu. 2017, con effetto dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^4-3]: Introdotto dal n. I della LF del 1° ott. 2010 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)). Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^4-2]: Abrogato dalla cifra I della LF del 16 giu. 2017, con effetto dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^4-3]: Introdotto dalla cifra I della LF del 1° ott. 2010 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)). Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 #### Art. 5
 
@@ -174,9 +174,9 @@ Possono essere concessi per progetti che mirano ad adeguare maggiormente ai biso
 
 <sup>4</sup> Gli aiuti finanziari sono concessi per tre anni al massimo.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 al 31 gen. 2015 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
-[^5-2]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^5-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 al 31 gen. 2015 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
+[^5-2]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^5-3]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 ## Sezione 3: Procedura
 
@@ -200,9 +200,9 @@ Possono essere concessi per progetti che mirano ad adeguare maggiormente ai biso
 
 <sup>6</sup> I Cantoni, i Comuni, le altre persone giuridiche e le persone fisiche devono presentare la loro domanda di aiuti finanziari secondo l’articolo 3*b* prima dell’avvio del progetto. Se non è presentata da un Cantone, la domanda deve essere corredata di un parere dei Cantoni interessati.[^6-3]
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
-[^6-2]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^6-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
+[^6-2]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^6-3]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 #### Art. 7
 
@@ -214,9 +214,9 @@ Possono essere concessi per progetti che mirano ad adeguare maggiormente ai biso
 
 <sup>3</sup> L’UFAS statuisce, con decisione formale, sulle domande di aiuti finanziari per l’aumento dei sussidi destinati alla custodia di bambini complementare alla famiglia e per progetti volti ad adeguare maggiormente ai bisogni dei genitori l’offerta di servizi per la custodia di bambini complementare alla famiglia.[^7-3]
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
-[^7-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^7-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
+[^7-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^7-3]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 ## Sezione 4: Valutazione
 
@@ -232,7 +232,7 @@ Le ripercussioni della presente legge sono valutate regolarmente.
 
 Il Consiglio federale emana le disposizioni di esecuzione.
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 #### Art. 9a
 
@@ -240,7 +240,7 @@ Il Consiglio federale emana le disposizioni di esecuzione.
 
 L’UFAS concede gli aiuti finanziari di cui alla sezione 2 (art. 2 e 3) fino al 31 gennaio 2019.
 
-[^9a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^9a-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
 #### Art. 9b
 
@@ -250,8 +250,11 @@ L’UFAS concede gli aiuti finanziari di cui alla sezione 2 (art. 2 e 3) fino al
 
 <sup>2</sup> Il termine di cui all’articolo 9*a* è prorogato fino al 31 dicembre 2024.[^9b-2]
 
-[^9b-1]: Introdotto dal n. I della LF del 28 set. 2018, in vigore dal 1° feb. 2019 ([RU 2019 349](https://fedlex.data.admin.ch/eli/oc/2019/58); [FF 2018 2815](https://fedlex.data.admin.ch/eli/fga/2018/1271)[2843](https://fedlex.data.admin.ch/eli/fga/2018/1274)).
-[^9b-2]: Introdotto dal n. I della LF del 30 set. 2022, in vigore dal 1° feb. 2023 ([RU 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+<sup>3</sup> Il termine di cui all’articolo 9*a* è prorogato fino al 31 dicembre 2026.[^9b-3]
+
+[^9b-1]: Introdotto dalla cifra I della LF del 28 set. 2018, in vigore dal 1° feb. 2019 ([RU 2019 349](https://fedlex.data.admin.ch/eli/oc/2019/58); [FF 2018 2815](https://fedlex.data.admin.ch/eli/fga/2018/1271)[2843](https://fedlex.data.admin.ch/eli/fga/2018/1274)).
+[^9b-2]: Introdotto dalla cifra I della LF del 30 set. 2022, in vigore dal 1° feb. 2023 ([RU 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^9b-3]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° gen. 2025 ([RU 2025 52](https://fedlex.data.admin.ch/eli/oc/2025/52); [FF 2024 560](https://fedlex.data.admin.ch/eli/fga/2024/560), [1109](https://fedlex.data.admin.ch/eli/fga/2024/1109)).
 
 #### Art. 10
 
@@ -271,10 +274,13 @@ L’UFAS concede gli aiuti finanziari di cui alla sezione 2 (art. 2 e 3) fino al
 
 <sup>7</sup> La durata di validità della presente legge è prorogata sino al 31 dicembre 2024.[^10-4]
 
-Data dell’entrata in vigore: 1° febbraio 2003[^10-5]
+<sup>8</sup> La durata di validità della presente legge è prorogata sino al 31 dicembre 2026.[^10-5]
 
-[^10-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
-[^10-2]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° feb. 2015 al 31 gen. 2019 ([RU 2015 513](https://fedlex.data.admin.ch/eli/oc/2015/70); [FF 2014 5643](https://fedlex.data.admin.ch/eli/fga/2014/1496)[5667](https://fedlex.data.admin.ch/eli/fga/2014/1499)).
-[^10-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^10-4]: Introdotto dal n. I della LF del 30 set. 2022, in vigore dal 1° feb. 2023 ([RU 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
-[^10-5]: DCF del 9 dic. 2002.
+Data dell’entrata in vigore: 1° febbraio 2003[^10-6]
+
+[^10-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
+[^10-2]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° feb. 2015 al 31 gen. 2019 ([RU 2015 513](https://fedlex.data.admin.ch/eli/oc/2015/70); [FF 2014 5643](https://fedlex.data.admin.ch/eli/fga/2014/1496)[5667](https://fedlex.data.admin.ch/eli/fga/2014/1499)).
+[^10-3]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
+[^10-4]: Introdotto dalla cifra I della LF del 30 set. 2022, in vigore dal 1° feb. 2023 ([RU 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^10-5]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° gen. 2025 ([RU 2025 52](https://fedlex.data.admin.ch/eli/oc/2025/52); [FF 2024 560](https://fedlex.data.admin.ch/eli/fga/2024/560), [1109](https://fedlex.data.admin.ch/eli/fga/2024/1109)).
+[^10-6]: DCF del 9 dic. 2002.

@@ -3,11 +3,11 @@ sr: "861"
 title: "Loi fédérale du 4 octobre 2002 sur les aides financières à l'accueil extra-familial pour enfants (LAAcc)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/31"
 language: fr
-version: 2023-02-01
+version: 2025-01-01
 adopted: 2002-10-04
 in_force: 2003-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2003-31-20230201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-31-20250101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/fr"
 
 (LAAcc)[^t-1]
 
-du 4 octobre 2002 (État le 1<sup>er</sup> février 2023)
+du 4 octobre 2002 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
@@ -250,8 +250,11 @@ L’OFAS octroie des aides financières au sens de la section 2 (art. 2 et 3) ju
 
 <sup>2</sup> Le délai prévu à l’art. 9*a* est prolongé jusqu’au 31 décembre 2024.[^9b-2]
 
+<sup>3</sup> Le délai prévu à l’art. 9*a* est prolongé jusqu’au 31 décembre 2026.[^9b-3]
+
 [^9b-1]: Introduit par le ch. I de la LF du 28 sept. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 349](https://fedlex.data.admin.ch/eli/oc/2019/58); [FF 2018 3453](https://fedlex.data.admin.ch/eli/fga/2018/1271)[3479](https://fedlex.data.admin.ch/eli/fga/2018/1274)).
-[^9b-2]: Introduit par le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 (RO **20****23** 35; [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^9b-2]: Introduit par le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^9b-3]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 (RO **202****5** 52; [FF 2024 560](https://fedlex.data.admin.ch/eli/fga/2024/560), [1109](https://fedlex.data.admin.ch/eli/fga/2024/1109)).
 
 #### Art. 10
 
@@ -271,10 +274,13 @@ L’OFAS octroie des aides financières au sens de la section 2 (art. 2 et 3) ju
 
 <sup>7</sup> La durée de validité de la présente loi est prolongée jusqu’au 31 décembre 2024.[^10-4]
 
-Date de l’entrée en vigueur: 1<sup>er</sup> février 2003[^10-5]
+<sup>8</sup> La durée de validité de la présente loi est prolongée jusqu’au 31 décembre 2026.[^10-5]
+
+Date de l’entrée en vigueur: 1<sup>er</sup> février 2003[^10-6]
 
 [^10-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1483](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 [^10-2]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 513](https://fedlex.data.admin.ch/eli/oc/2015/70); [FF 2014 6369](https://fedlex.data.admin.ch/eli/fga/2014/1496)[6393](https://fedlex.data.admin.ch/eli/fga/2014/1499)).
 [^10-3]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 [^10-4]: Introduit par le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
-[^10-5]: ACF du 9 déc. 2002
+[^10-5]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 52](https://fedlex.data.admin.ch/eli/oc/2025/52); [FF 2024 560](https://fedlex.data.admin.ch/eli/fga/2024/560), [1109](https://fedlex.data.admin.ch/eli/fga/2024/1109)).
+[^10-6]: ACF du 9 déc. 2002
