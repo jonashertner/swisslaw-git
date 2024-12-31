@@ -4,20 +4,20 @@ number: "700.11"
 title: Verordnung zum Polizeigesetz
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-04
+version: 2025-01-01
+valid_until: 2025-03-31
+version_adopted: 2024-11-26
 adopted: 1999-02-09
 in_force: 1999-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/700.11"
-pdf: "https://bl.clex.ch/api/de/versions/3932/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4048/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Polizeigesetz
 
-Vom 09.02.1999 (Stand 01.07.2024)
+Vom 09.02.1999 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -74,6 +74,97 @@ beschliesst:
 <sup>4</sup> …
 
 <sup>5</sup> …
+
+#### § 5bis
+
+**IT-Ermittlerinnen und IT-Ermittler**
+
+<sup>1</sup> IT-Ermittlerinnen und Ermittler verfügen zur Erfüllung ihrer Aufgaben über folgende polizeilichen Befugnisse:
+
+- a. Sicherstellung von Sachen, Daten und Vermögenswerten, einschliesslich des Stellens von Editionsaufforderungen (§ 32 ff. PolG[^5bis-1] und Art. 263 ff. StPO[^5bis-2]);
+- b. Durchsuchen von Räumlichkeiten, Fahrzeugen, Aufzeichnungen und Gegenständen (§ 30 ff. PolG[^5bis-3] und Art. 241 ff. StPO[^5bis-4]);
+- c. Durchführen von Befragungen und Einvernahmen, einschliesslich des Ausstellens entsprechender Vorladungen (§ 22 und § 25 PolG[^5bis-5], Art. 142 ff., 201, 206 und 312 StPO[^5bis-6]);
+- d. verdeckte Fahndung im Internet (§ 37a ff. PolG[^5bis-7] und Art. 298a ff. StPO[^5bis-8]);
+- e. Einholen amtlicher Auskünfte (Art. 43 ff. und 195 StPO[^5bis-9]);
+- f. Vornahme von Augenscheinen (Art. 193 StPO[^5bis-10]).
+
+<sup>2</sup> IT-Ermittlerinnen und IT-Ermittler, welche gemäss § 12 PolG[^5bis-11] in den Polizeidienst aufgenommen wurden, verfügen gemäss § 9 Abs. 2 PolG[^5bis-12] über alle polizeilichen Befugnisse.
+
+[^5bis-1]: [SGS 700](https://bl.clex.ch/data/700/de/art32)
+[^5bis-2]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5bis-3]: [SGS 700](https://bl.clex.ch/data/700/de/art30)
+[^5bis-4]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5bis-5]: [SGS 700](https://bl.clex.ch/data/700/de/art22)
+[^5bis-6]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5bis-7]: [SGS 700](https://bl.clex.ch/data/700/de/art37a)
+[^5bis-8]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5bis-9]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5bis-10]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5bis-11]: [SGS 700](https://bl.clex.ch/data/700/de/art12)
+[^5bis-12]: [SGS 700](https://bl.clex.ch/data/700/de/art9)
+
+#### § 5ter
+
+**Ermittlerinnen und Ermittler für Wirtschaftskriminalität**
+
+<sup>1</sup> Ermittlerinnen und Ermittler für Wirtschaftskriminalität verfügen zur Erfüllung ihrer Aufgaben über folgende polizeiliche Befugnisse:
+
+- a. Sicherstellung von Sachen, Daten und Vermögenswerten, einschliesslich des Stellens von Editionsaufforderungen (§ 32 ff. PolG[^5ter-1] und Art. 263 ff. StPO[^5ter-2]);
+- b. Durchsuchen von Räumlichkeiten, Fahrzeugen, Aufzeichnungen und Gegenständen (§ 30 ff. PolG[^5ter-3] und Art. 241 ff. StPO[^5ter-4]);
+- c. Durchführen von Befragungen und Einvernahmen, einschliesslich des Ausstellens entsprechender Vorladungen (§ 22 und § 25 PolG[^5ter-5], Art. 142 ff., 201, 206 und 312 StPO[^5ter-6]);
+- d. Einholen amtlicher Auskünfte (Art. 43 ff. und 195 StPO[^5ter-7]);
+- e. Vornahme von Augenscheinen (Art. 193 StPO[^5ter-8]).
+
+<sup>2</sup> Ermittlerinnen und Ermittler für Wirtschaftskriminalität, welche gemäss § 12 PolG[^5ter-9] in den Polizeidienst aufgenommen wurden, verfügen gemäss § 9 Abs. 2 PolG[^5ter-10] über alle polizeilichen Befugnisse.
+
+[^5ter-1]: [SGS 700](https://bl.clex.ch/data/700/de/art32)
+[^5ter-2]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5ter-3]: [SGS 700](https://bl.clex.ch/data/700/de/art30)
+[^5ter-4]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5ter-5]: [SGS 700](https://bl.clex.ch/data/700/de/art22)
+[^5ter-6]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5ter-7]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5ter-8]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5ter-9]: [SGS 700](https://bl.clex.ch/data/700/de/art12)
+[^5ter-10]: [SGS 700](https://bl.clex.ch/data/700/de/art9)
+
+#### § 5quater
+
+**IT-Forensikerinnen und IT-Forensiker**
+
+<sup>1</sup> IT-Forensikerinnen und IT-Forensiker verfügen zur Erfüllung ihrer Aufgaben über folgende polizeilichen Befugnisse:
+
+- a. Sicherstellung von Sachen, Daten und Vermögenswerten, einschliesslich des Stellens von Editionsaufforderungen (§ 32 ff. PolG[^5quater-1] und Art. 263 ff. StPO[^5quater-2]);
+- b. Durchsuchen von Räumlichkeiten, Fahrzeugen, Aufzeichnungen und Gegenständen (§ 30 ff. PolG[^5quater-3] und Art. 241 ff. StPO[^5quater-4]).
+
+<sup>2</sup> IT-Forensikerinnen und IT-Forensiker, welche gemäss § 12 PolG[^5quater-5] in den Polizeidienst aufgenommen wurden, verfügen gemäss § 9 Abs. 2 PolG[^5quater-6] über alle polizeilichen Befugnisse.
+
+[^5quater-1]: [SGS 700](https://bl.clex.ch/data/700/de/art32)
+[^5quater-2]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5quater-3]: [SGS 700](https://bl.clex.ch/data/700/de/art30)
+[^5quater-4]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5quater-5]: [SGS 700](https://bl.clex.ch/data/700/de/art12)
+[^5quater-6]: [SGS 700](https://bl.clex.ch/data/700/de/art9)
+
+#### § 5quinquies
+
+**Expertinnen und Experten für Schwerverkehr**
+
+<sup>1</sup> Expertinnen und Experten für Schwerverkehr verfügen zur Erfüllung ihrer Aufgaben über folgende polizeilichen Befugnisse:
+
+- a. Durchführen von Befragungen und Einvernahmen, einschliesslich des Ausstellens entsprechender Vorladungen (§ 22 und § 25 PolG[^5quinquies-1], Art. 142 ff., 201, 206 und 312 StPO[^5quinquies-2]);
+- b. Durchsuchen von Fahrzeugen, Aufzeichnungen und Gegenständen (§ 30 PolG[^5quinquies-3] und Art. 241 ff. StPO[^5quinquies-4]);
+- c. Sicherstellung von Fahrzeugen (Art. 54 Abs. 1 SVG[^5quinquies-5]).
+
+<sup>2</sup> Expertinnen und Experten für Schwerverkehr, welche gemäss § 12 PolG[^5quinquies-6] in den Polizeidienst aufgenommen wurden, verfügen gemäss § 9 Abs. 2 PolG[^5quinquies-7] über alle polizeilichen Befugnisse.
+
+[^5quinquies-1]: [SGS 700](https://bl.clex.ch/data/700/de/art22)
+[^5quinquies-2]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5quinquies-3]: [SGS 700](https://bl.clex.ch/data/700/de/art30)
+[^5quinquies-4]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^5quinquies-5]: [SR 741.01](https://db.clex.ch/link/Bund/741.01/de)
+[^5quinquies-6]: [SGS 700](https://bl.clex.ch/data/700/de/art12)
+[^5quinquies-7]: [SGS 700](https://bl.clex.ch/data/700/de/art9)
 
 #### § 5a
 
