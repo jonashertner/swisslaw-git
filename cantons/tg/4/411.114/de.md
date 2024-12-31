@@ -4,13 +4,12 @@ number: "411.114"
 title: Verordnung über die Rechtsstellung der Lehrpersonen an den Volksschulen
 short: RSV VS
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2024-05-07
 adopted: 2005-01-25
 in_force: 2005-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.114"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2786/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2787/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ RSV VS
 
 (RSV VS)
 
-vom 25.01.2005 (Stand 01.08.2024)
+vom 25.01.2005 (Stand 01.01.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -541,7 +540,9 @@ vom 25.01.2005 (Stand 01.08.2024)
 
 **Einreihung**
 
-<sup>1</sup> Die Einreihung der Lehrpersonen richtet sich nach der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen (LBV)[^42-1] und dem Anhang. Der Anhang unterscheidet nach Stufenlehrdiplom, Fachlehrdiplom und Diplom in Schulischer Heilpädagogik. Als Stufenlehrdiplom gilt ein ordentlicher, EDK-anerkannter Abschluss für die Vorschulstufe, Primarstufe, Sekundarstufe I oder II. Als Stufenlehrdiplom gilt auch das Lehrdiplom Textilarbeit/Werken oder Hauswirtschaft. Als Fachlehrdiplom gilt ein Lehrdiplom in einem Fach. Für Personen mit nicht aufgeführten Abschlüssen sowie für Personen in Ausbildung zu EDK-anerkannten Stufendiplomen regelt das Departement die Besoldung durch Richtlinie.
+<sup>1</sup> Die Einreihung der Lehrpersonen richtet sich nach der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen (LBV)[^42-1] und dem Anhang. Für Personen mit nicht aufgeführten Abschlüssen sowie für Personen in Ausbildung zu EDK-anerkannten Stufendiplomen regelt das Departement die Besoldung durch Richtlinie.
+
+<sup>1<sup>bis</sup></sup> Als Stufenlehrdiplom gilt ein ordentlicher, EDK-anerkannter Abschluss für die Kindergartenstufe, Primarstufe, Sekundarstufe I oder II. Als Stufenlehrdiplom gilt auch das Lehrdiplom Textilarbeit/Werken oder Hauswirtschaft. Als Fachlehrdiplom gilt ein Lehrdiplom in einem Fach.
 
 <sup>2</sup> Lehrpersonen mit Abschlüssen, welche zum Unterricht auf einer höheren Stufe berechtigen, werden nach der für den Einsatzbereich erforderlichen Ausbildung eingereiht.
 
