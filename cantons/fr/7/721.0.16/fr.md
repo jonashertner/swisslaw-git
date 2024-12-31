@@ -3,13 +3,13 @@ canton: FR
 number: "721.0.16"
 title: Ordonnance fixant les émoluments du Service des forêts et de la nature
 language: fr
-version: 2022-02-01
-valid_until: 2024-12-31
-version_adopted: 2022-01-31
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-10
 adopted: 2022-01-31
 in_force: 2022-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/721.0.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7264/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8116/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7264/pdf_file"
 
 Service des forêts et de la nature, émoluments – O
 
-du 31.01.2022 (version entrée en vigueur le 01.02.2022)
+du 31.01.2022 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -48,7 +48,9 @@ Arrête:
 - f) les autorisations et dérogations en application des dispositions fédérales ou cantonales en matière de protection de la nature et du paysage;
 - g) les autorisations et décisions en application des dispositions fédérales ou cantonales en matière de pêche;
 - h) les autorisations et décisions en application des dispositions fédérales ou cantonales en matière de faune terrestre et chasse;
-- i) les travaux dans le cadre du rétablissement de l'état conforme au droit au sens de la loi sur la protection de la nature et du paysage.
+- i) les travaux dans le cadre du rétablissement de l'état conforme au droit au sens de la loi sur la protection de la nature et du paysage;
+- j) les interventions à la suite d'une pollution des eaux;
+- k) les autres prestations fournies principalement dans l'intérêt des particuliers.
 
 <sup>2</sup> Les prestations effectuées lors d'une demande de renseignements sont exemptées de tout émolument. Pour les dossiers faisant l'objet d'une demande ou d'un examen préalable, l'émolument de base est facturé une seule fois, lors de l'examen final, les frais de personnel et autres frais étant additionnés.
 
@@ -61,7 +63,8 @@ Arrête:
 - a) d'un émolument de base;
 - b) des frais de personnel selon un coût horaire moyen;
 - c) des frais d'inspection des lieux;
-- d) des frais d'établissement de documents particuliers.
+- d) des frais d'établissement de documents particuliers;
+- e) des frais de matériel.
 
 #### Art. 3
 
@@ -122,9 +125,19 @@ Arrête:
 
 <sup>1</sup> Les frais de personnel sont calculés selon le temps de travail effectif pour toutes les prestations non couvertes par l'émolument de base.
 
-<sup>2</sup> Le coût horaire est fixé à 80 francs.
+<sup>2</sup> Le coût horaire est fixé à 85 francs.
 
-<sup>3</sup> Les frais d'inspection des lieux sont fixés à 100 francs par collaborateur ou collaboratrice et par visite.
+<sup>3</sup> Les frais d'inspection des lieux sont fixés à 150 francs par collaborateur ou collaboratrice et par visite.
+
+#### Art. 7a
+
+**Frais de matériel**
+
+<sup>1</sup> Le matériel utilisé par le SFN est facturé au prix coutant, sous réserve du forfait prévu à l'alinéa 2 ci-après.
+
+<sup>2</sup> Pour le matériel utilisé par le SFN lors des tirs de gestion, il est perçu:
+
+- a) flèche pour fusil hypodermique, par tir réussi — Fr. 80
 
 #### Art. 8
 

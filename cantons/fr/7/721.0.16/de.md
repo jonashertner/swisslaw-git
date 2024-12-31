@@ -3,13 +3,13 @@ canton: FR
 number: "721.0.16"
 title: Verordnung über die Gebühren des Amts für Wald und Natur
 language: de
-version: 2022-02-01
-valid_until: 2024-12-31
-version_adopted: 2022-01-31
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-10
 adopted: 2022-01-31
 in_force: 2022-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/721.0.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7264/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8116/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7264/pdf_file"
 
 Amt für Wald und Natur, Gebühren – V
 
-vom 31.01.2022 (Fassung in Kraft getreten am 01.02.2022)
+vom 31.01.2022 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -48,7 +48,9 @@ beschliesst:
 - f) die Bewilligungen und Ausnahmen bei der Anwendung der eidgenössischen und kantonalen Bestimmungen im Bereich des Natur- und Landschaftsschutzes;
 - g) die Bewilligungen und Entscheide bei der Anwendung der eidgenössischen und kantonalen Bestimmungen im Bereich der Fischerei;
 - h) die Bewilligungen und Entscheide bei der Anwendung der eidgenössischen und kantonalen Bestimmungen im Bereich der terrestrischen Fauna und der Jagd;
-- i) die Arbeiten im Rahmen einer Wiederherstellung des rechtmässigen Zustands im Sinne des Gesetzes über den Natur- und Landschafts-schutz.
+- i) die Arbeiten im Rahmen einer Wiederherstellung des rechtmässigen Zustands im Sinne des Gesetzes über den Natur- und Landschafts-schutz;
+- j) die Interventionen aufgrund einer Gewässerverschmutzung;
+- k) die übrigen Dienstleistungen, die hauptsächlich im Interesse von Privatpersonen erbracht werden.
 
 <sup>2</sup> Für Leistungen infolge eines Auskunftsbegehrens wird keine Gebühr erhoben. Bei Dossiers mit einem Vorgesuch oder einer Vorprüfung wird die Grundgebühr lediglich einmal, bei der Schlussprüfung, erhoben. Personalkosten und andere Kosten werden zusammengerechnet.
 
@@ -61,7 +63,8 @@ beschliesst:
 - a) einer Grundgebühr;
 - b) den Personalkosten gemäss einem durchschnittlichen Stundentarif;
 - c) den Kosten für Ortsbesichtigungen;
-- d) den Kosten für die Ausarbeitung besonderer Dokumente.
+- d) den Kosten für die Ausarbeitung besonderer Dokumente;
+- e) den Materialkosten.
 
 #### Art. 3
 
@@ -122,9 +125,19 @@ beschliesst:
 
 <sup>1</sup> Die Personalkosten werden nach dem tatsächlichen Zeitaufwand für sämtliche Leistungen berechnet, die nicht in der Grundgebühr enthalten sind.
 
-<sup>2</sup> Der Stundentarif beträgt 80 Franken.
+<sup>2</sup> Der Stundentarif beträgt 85 Franken.
 
-<sup>3</sup> Die Kosten einer Ortsbesichtigung betragen 100 Franken pro Mitarbeiter/in und Ortsbesichtigung.
+<sup>3</sup> Die Kosten einer Ortsbesichtigung betragen 150 Franken pro Mitarbeiter/in und Ortsbesichtigung.
+
+#### Art. 7a
+
+**Materialkosten**
+
+<sup>1</sup> Das vom WNA verwendete Material wird zum Selbstkostenpreis in Rechnung gestellt; die Pauschale nach Absatz 2 bleibt vorbehalten.
+
+<sup>2</sup> Für Material, welches das WNA bei Abschüssen im Rahmen des Wildtiermanagements verwendet, wird Folgendes verrechnet:
+
+- a) Spritzen-Pfeil für Betäubungsgewehr, pro erfolgreichen Schuss — Fr. 80
 
 #### Art. 8
 
